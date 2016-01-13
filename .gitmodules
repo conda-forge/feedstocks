@@ -1,0 +1,28 @@
+[submodule "conda-smithy"]
+	url = https://github.com/conda-forge/conda-smithy-feedstock.git
+	path = feedstocks/conda-smithy
+	branch = refs/heads/master
+[submodule "cycler"]
+	url = https://github.com/conda-forge/cycler-feedstock.git
+	path = feedstocks/cycler
+	branch = refs/heads/master
+[submodule "libmo_unpack"]
+	url = https://github.com/conda-forge/libmo_unpack-feedstock.git
+	path = feedstocks/libmo_unpack
+	branch = refs/heads/master
+[submodule "matplotlib"]
+	url = https://github.com/conda-forge/matplotlib-feedstock.git
+	path = feedstocks/matplotlib
+	branch = refs/heads/master
+[submodule "mo_pack"]
+	url = https://github.com/conda-forge/mo_pack-feedstock.git
+	path = feedstocks/mo_pack
+	branch = refs/heads/master
+[submodule "obvious-ci"]
+	url = https://github.com/conda-forge/obvious-ci-feedstock.git
+	path = feedstocks/obvious-ci
+	branch = refs/heads/master
+[submodule "udunits"]
+	url = https://github.com/conda-forge/udunits-feedstock.git
+	path = feedstocks/udunits
+	branch = refs/heads/master
