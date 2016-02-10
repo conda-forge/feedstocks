@@ -26,3 +26,12 @@
 	url = https://github.com/conda-forge/udunits-feedstock.git
 	path = feedstocks/udunits
 	branch = refs/heads/master
+[submodule "conda-build-all"]
+	url = https://github.com/conda-forge/conda-build-all-feedstock.git
+	path = feedstocks/conda-build-all
+[submodule "pyproj"]
+	url = https://github.com/conda-forge/pyproj-feedstock.git
+	path = feedstocks/pyproj
+[submodule "wcwidth"]
+	url = https://github.com/conda-forge/wcwidth-feedstock.git
+	path = feedstocks/wcwidth
