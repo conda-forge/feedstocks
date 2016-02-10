@@ -35,3 +35,9 @@
 [submodule "wcwidth"]
 	url = https://github.com/conda-forge/wcwidth-feedstock.git
 	path = feedstocks/wcwidth
+[submodule "conda-execute"]
+	url = https://github.com/conda-forge/conda-execute-feedstock.git
+	path = feedstocks/conda-execute
+[submodule "xonsh"]
+	url = https://github.com/conda-forge/xonsh-feedstock.git
+	path = feedstocks/xonsh
