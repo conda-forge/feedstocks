@@ -41,3 +41,15 @@
 [submodule "xonsh"]
 	url = https://github.com/conda-forge/xonsh-feedstock.git
 	path = feedstocks/xonsh
+[submodule "ruamel.ordereddict"]
+	url = https://github.com/conda-forge/ruamel.ordereddict-feedstock.git
+	path = feedstocks/ruamel.ordereddict
+[submodule "ruamel.yaml"]
+	url = https://github.com/conda-forge/ruamel.yaml-feedstock.git
+	path = feedstocks/ruamel.yaml
+[submodule "setproctitle"]
+	url = https://github.com/conda-forge/setproctitle-feedstock.git
+	path = feedstocks/setproctitle
+[submodule "smmap"]
+	url = https://github.com/conda-forge/smmap-feedstock.git
+	path = feedstocks/smmap
