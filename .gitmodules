@@ -53,3 +53,18 @@
 [submodule "smmap"]
 	url = https://github.com/conda-forge/smmap-feedstock.git
 	path = feedstocks/smmap
+[submodule "functools32"]
+	url = https://github.com/conda-forge/functools32-feedstock.git
+	path = feedstocks/functools32
+[submodule "gitpython"]
+	url = https://github.com/conda-forge/gitpython-feedstock.git
+	path = feedstocks/gitpython
+[submodule "msinttypes"]
+	url = https://github.com/conda-forge/msinttypes-feedstock.git
+	path = feedstocks/msinttypes
+[submodule "pygithub"]
+	url = https://github.com/conda-forge/pygithub-feedstock.git
+	path = feedstocks/pygithub
+[submodule "tifffile"]
+	url = https://github.com/conda-forge/tifffile-feedstock.git
+	path = feedstocks/tifffile
