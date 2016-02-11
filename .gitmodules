@@ -68,3 +68,9 @@
 [submodule "tifffile"]
 	url = https://github.com/conda-forge/tifffile-feedstock.git
 	path = feedstocks/tifffile
+[submodule "metpy"]
+	url = https://github.com/conda-forge/metpy-feedstock.git
+	path = feedstocks/metpy
+[submodule "pint"]
+	url = https://github.com/conda-forge/pint-feedstock.git
+	path = feedstocks/pint
