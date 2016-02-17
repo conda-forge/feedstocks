@@ -74,3 +74,9 @@
 [submodule "pint"]
 	url = https://github.com/conda-forge/pint-feedstock.git
 	path = feedstocks/pint
+[submodule "protobuf"]
+	url = https://github.com/conda-forge/protobuf-feedstock.git
+	path = feedstocks/protobuf
+[submodule "siphon"]
+	url = https://github.com/conda-forge/siphon-feedstock.git
+	path = feedstocks/siphon
