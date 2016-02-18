@@ -80,3 +80,6 @@
 [submodule "siphon"]
 	url = https://github.com/conda-forge/siphon-feedstock.git
 	path = feedstocks/siphon
+[submodule "conda-testenv"]
+	url = https://github.com/conda-forge/conda-testenv-feedstock.git
+	path = feedstocks/conda-testenv
