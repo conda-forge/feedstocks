@@ -83,3 +83,48 @@
 [submodule "conda-testenv"]
 	url = https://github.com/conda-forge/conda-testenv-feedstock.git
 	path = feedstocks/conda-testenv
+[submodule "arm_pyart"]
+	url = https://github.com/conda-forge/arm_pyart-feedstock.git
+	path = feedstocks/arm_pyart
+[submodule "artview"]
+	url = https://github.com/conda-forge/artview-feedstock.git
+	path = feedstocks/artview
+[submodule "contextlib2"]
+	url = https://github.com/conda-forge/contextlib2-feedstock.git
+	path = feedstocks/contextlib2
+[submodule "geos"]
+	url = https://github.com/conda-forge/geos-feedstock.git
+	path = feedstocks/geos
+[submodule "gitdb"]
+	url = https://github.com/conda-forge/gitdb-feedstock.git
+	path = feedstocks/gitdb
+[submodule "mingwpy"]
+	url = https://github.com/conda-forge/mingwpy-feedstock.git
+	path = feedstocks/mingwpy
+[submodule "netcdf4"]
+	url = https://github.com/conda-forge/netcdf4-feedstock.git
+	path = feedstocks/netcdf4
+[submodule "pep8-naming"]
+	url = https://github.com/conda-forge/pep8-naming-feedstock.git
+	path = feedstocks/pep8-naming
+[submodule "prompt_toolkit"]
+	url = https://github.com/conda-forge/prompt_toolkit-feedstock.git
+	path = feedstocks/prompt_toolkit
+[submodule "qutip"]
+	url = https://github.com/conda-forge/qutip-feedstock.git
+	path = feedstocks/qutip
+[submodule "shapely"]
+	url = https://github.com/conda-forge/shapely-feedstock.git
+	path = feedstocks/shapely
+[submodule "tensorflow"]
+	url = https://github.com/conda-forge/tensorflow-feedstock.git
+	path = feedstocks/tensorflow
+[submodule "trmm_rsl"]
+	url = https://github.com/conda-forge/trmm_rsl-feedstock.git
+	path = feedstocks/trmm_rsl
+[submodule "vcrpy"]
+	url = https://github.com/conda-forge/vcrpy-feedstock.git
+	path = feedstocks/vcrpy
+[submodule "wradlib"]
+	url = https://github.com/conda-forge/wradlib-feedstock.git
+	path = feedstocks/wradlib
