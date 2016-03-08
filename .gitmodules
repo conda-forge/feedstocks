@@ -128,3 +128,9 @@
 [submodule "wradlib"]
 	url = https://github.com/conda-forge/wradlib-feedstock.git
 	path = feedstocks/wradlib
+[submodule "gdal"]
+	url = https://github.com/conda-forge/gdal-feedstock.git
+	path = feedstocks/gdal
+[submodule "openjpeg"]
+	url = https://github.com/conda-forge/openjpeg-feedstock.git
+	path = feedstocks/openjpeg
