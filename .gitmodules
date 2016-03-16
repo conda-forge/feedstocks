@@ -18,10 +18,6 @@
 	url = https://github.com/conda-forge/obvious-ci-feedstock.git
 	path = feedstocks/obvious-ci
 	branch = refs/heads/master
-[submodule "udunits"]
-	url = https://github.com/conda-forge/udunits-feedstock.git
-	path = feedstocks/udunits
-	branch = refs/heads/master
 [submodule "conda-build-all"]
 	url = https://github.com/conda-forge/conda-build-all-feedstock.git
 	path = feedstocks/conda-build-all
