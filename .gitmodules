@@ -183,3 +183,33 @@
 [submodule "udunits2"]
 	url = https://github.com/conda-forge/udunits2-feedstock.git
 	path = feedstocks/udunits2
+[submodule "cmake"]
+	url = https://github.com/conda-forge/cmake-feedstock.git
+	path = feedstocks/cmake
+[submodule "fftw"]
+	url = https://github.com/conda-forge/fftw-feedstock.git
+	path = feedstocks/fftw
+[submodule "g2clib"]
+	url = https://github.com/conda-forge/g2clib-feedstock.git
+	path = feedstocks/g2clib
+[submodule "hdfeos2"]
+	url = https://github.com/conda-forge/hdfeos2-feedstock.git
+	path = feedstocks/hdfeos2
+[submodule "hdfeos5"]
+	url = https://github.com/conda-forge/hdfeos5-feedstock.git
+	path = feedstocks/hdfeos5
+[submodule "jasper"]
+	url = https://github.com/conda-forge/jasper-feedstock.git
+	path = feedstocks/jasper
+[submodule "libiconv"]
+	url = https://github.com/conda-forge/libiconv-feedstock.git
+	path = feedstocks/libiconv
+[submodule "pynio"]
+	url = https://github.com/conda-forge/pynio-feedstock.git
+	path = feedstocks/pynio
+[submodule "pytest-runner"]
+	url = https://github.com/conda-forge/pytest-runner-feedstock.git
+	path = feedstocks/pytest-runner
+[submodule "qimage2ndarray"]
+	url = https://github.com/conda-forge/qimage2ndarray-feedstock.git
+	path = feedstocks/qimage2ndarray
