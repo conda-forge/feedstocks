@@ -6,10 +6,6 @@
 	url = https://github.com/conda-forge/cycler-feedstock.git
 	path = feedstocks/cycler
 	branch = refs/heads/master
-[submodule "libmo_unpack"]
-	url = https://github.com/conda-forge/libmo_unpack-feedstock.git
-	path = feedstocks/libmo_unpack
-	branch = refs/heads/master
 [submodule "matplotlib"]
 	url = https://github.com/conda-forge/matplotlib-feedstock.git
 	path = feedstocks/matplotlib
