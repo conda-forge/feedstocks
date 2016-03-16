@@ -6,10 +6,6 @@
 	url = https://github.com/conda-forge/cycler-feedstock.git
 	path = feedstocks/cycler
 	branch = refs/heads/master
-[submodule "libmo_unpack"]
-	url = https://github.com/conda-forge/libmo_unpack-feedstock.git
-	path = feedstocks/libmo_unpack
-	branch = refs/heads/master
 [submodule "matplotlib"]
 	url = https://github.com/conda-forge/matplotlib-feedstock.git
 	path = feedstocks/matplotlib
@@ -21,10 +17,6 @@
 [submodule "obvious-ci"]
 	url = https://github.com/conda-forge/obvious-ci-feedstock.git
 	path = feedstocks/obvious-ci
-	branch = refs/heads/master
-[submodule "udunits"]
-	url = https://github.com/conda-forge/udunits-feedstock.git
-	path = feedstocks/udunits
 	branch = refs/heads/master
 [submodule "conda-build-all"]
 	url = https://github.com/conda-forge/conda-build-all-feedstock.git
@@ -134,3 +126,60 @@
 [submodule "openjpeg"]
 	url = https://github.com/conda-forge/openjpeg-feedstock.git
 	path = feedstocks/openjpeg
+[submodule "amqp"]
+	url = https://github.com/conda-forge/amqp-feedstock.git
+	path = feedstocks/amqp
+[submodule "antlr"]
+	url = https://github.com/conda-forge/antlr-feedstock.git
+	path = feedstocks/antlr
+[submodule "anyjson"]
+	url = https://github.com/conda-forge/anyjson-feedstock.git
+	path = feedstocks/anyjson
+[submodule "autoconf"]
+	url = https://github.com/conda-forge/autoconf-feedstock.git
+	path = feedstocks/autoconf
+[submodule "automake"]
+	url = https://github.com/conda-forge/automake-feedstock.git
+	path = feedstocks/automake
+[submodule "billiard"]
+	url = https://github.com/conda-forge/billiard-feedstock.git
+	path = feedstocks/billiard
+[submodule "celery"]
+	url = https://github.com/conda-forge/celery-feedstock.git
+	path = feedstocks/celery
+[submodule "cyordereddict"]
+	url = https://github.com/conda-forge/cyordereddict-feedstock.git
+	path = feedstocks/cyordereddict
+[submodule "expat"]
+	url = https://github.com/conda-forge/expat-feedstock.git
+	path = feedstocks/expat
+[submodule "flower"]
+	url = https://github.com/conda-forge/flower-feedstock.git
+	path = feedstocks/flower
+[submodule "gsl"]
+	url = https://github.com/conda-forge/gsl-feedstock.git
+	path = feedstocks/gsl
+[submodule "hiredis"]
+	url = https://github.com/conda-forge/hiredis-feedstock.git
+	path = feedstocks/hiredis
+[submodule "kombu"]
+	url = https://github.com/conda-forge/kombu-feedstock.git
+	path = feedstocks/kombu
+[submodule "m4"]
+	url = https://github.com/conda-forge/m4-feedstock.git
+	path = feedstocks/m4
+[submodule "nco"]
+	url = https://github.com/conda-forge/nco-feedstock.git
+	path = feedstocks/nco
+[submodule "pandoc"]
+	url = https://github.com/conda-forge/pandoc-feedstock.git
+	path = feedstocks/pandoc
+[submodule "pyinotify"]
+	url = https://github.com/conda-forge/pyinotify-feedstock.git
+	path = feedstocks/pyinotify
+[submodule "pytest-cov"]
+	url = https://github.com/conda-forge/pytest-cov-feedstock.git
+	path = feedstocks/pytest-cov
+[submodule "udunits2"]
+	url = https://github.com/conda-forge/udunits2-feedstock.git
+	path = feedstocks/udunits2
