@@ -213,3 +213,6 @@
 [submodule "qimage2ndarray"]
 	url = https://github.com/conda-forge/qimage2ndarray-feedstock.git
 	path = feedstocks/qimage2ndarray
+[submodule "perl"]
+	url = https://github.com/conda-forge/perl-feedstock.git
+	path = feedstocks/perl
