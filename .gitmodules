@@ -216,3 +216,15 @@
 [submodule "perl"]
 	url = https://github.com/conda-forge/perl-feedstock.git
 	path = feedstocks/perl
+[submodule "jq"]
+	url = https://github.com/conda-forge/jq-feedstock.git
+	path = feedstocks/jq
+[submodule "libtool"]
+	url = https://github.com/conda-forge/libtool-feedstock.git
+	path = feedstocks/libtool
+[submodule "oniguruma"]
+	url = https://github.com/conda-forge/oniguruma-feedstock.git
+	path = feedstocks/oniguruma
+[submodule "pyfftw"]
+	url = https://github.com/conda-forge/pyfftw-feedstock.git
+	path = feedstocks/pyfftw
