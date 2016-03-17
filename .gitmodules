@@ -228,3 +228,27 @@
 [submodule "pyfftw"]
 	url = https://github.com/conda-forge/pyfftw-feedstock.git
 	path = feedstocks/pyfftw
+[submodule "esmf"]
+	url = https://github.com/conda-forge/esmf-feedstock.git
+	path = feedstocks/esmf
+[submodule "esmpy"]
+	url = https://github.com/conda-forge/esmpy-feedstock.git
+	path = feedstocks/esmpy
+[submodule "glances"]
+	url = https://github.com/conda-forge/glances-feedstock.git
+	path = feedstocks/glances
+[submodule "mahotas"]
+	url = https://github.com/conda-forge/mahotas-feedstock.git
+	path = feedstocks/mahotas
+[submodule "netcdf-fortran"]
+	url = https://github.com/conda-forge/netcdf-fortran-feedstock.git
+	path = feedstocks/netcdf-fortran
+[submodule "pixman"]
+	url = https://github.com/conda-forge/pixman-feedstock.git
+	path = feedstocks/pixman
+[submodule "pkg-config"]
+	url = https://github.com/conda-forge/pkg-config-feedstock.git
+	path = feedstocks/pkg-config
+[submodule "pytest-mpl"]
+	url = https://github.com/conda-forge/pytest-mpl-feedstock.git
+	path = feedstocks/pytest-mpl
