@@ -261,3 +261,12 @@
 [submodule "proj.4"]
 	url = https://github.com/conda-forge/proj.4-feedstock.git
 	path = feedstocks/proj.4
+[submodule "cloudpickle"]
+	url = https://github.com/conda-forge/cloudpickle-feedstock.git
+	path = feedstocks/cloudpickle
+[submodule "freeimage"]
+	url = https://github.com/conda-forge/freeimage-feedstock.git
+	path = feedstocks/freeimage
+[submodule "webcolors"]
+	url = https://github.com/conda-forge/webcolors-feedstock.git
+	path = feedstocks/webcolors
