@@ -258,3 +258,6 @@
 [submodule "xarray"]
 	url = https://github.com/conda-forge/xarray-feedstock.git
 	path = feedstocks/xarray
+[submodule "proj.4"]
+	url = https://github.com/conda-forge/proj.4-feedstock.git
+	path = feedstocks/proj.4
