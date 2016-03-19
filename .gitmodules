@@ -279,3 +279,45 @@
 [submodule "splauncher"]
 	url = https://github.com/conda-forge/splauncher-feedstock.git
 	path = feedstocks/splauncher
+[submodule "click-plugins"]
+	url = https://github.com/conda-forge/click-plugins-feedstock.git
+	path = feedstocks/click-plugins
+[submodule "descartes"]
+	url = https://github.com/conda-forge/descartes-feedstock.git
+	path = feedstocks/descartes
+[submodule "fiona"]
+	url = https://github.com/conda-forge/fiona-feedstock.git
+	path = feedstocks/fiona
+[submodule "folium"]
+	url = https://github.com/conda-forge/folium-feedstock.git
+	path = feedstocks/folium
+[submodule "geopandas"]
+	url = https://github.com/conda-forge/geopandas-feedstock.git
+	path = feedstocks/geopandas
+[submodule "geopy"]
+	url = https://github.com/conda-forge/geopy-feedstock.git
+	path = feedstocks/geopy
+[submodule "gflags"]
+	url = https://github.com/conda-forge/gflags-feedstock.git
+	path = feedstocks/gflags
+[submodule "git"]
+	url = https://github.com/conda-forge/git-feedstock.git
+	path = feedstocks/git
+[submodule "glog"]
+	url = https://github.com/conda-forge/glog-feedstock.git
+	path = feedstocks/glog
+[submodule "leveldb"]
+	url = https://github.com/conda-forge/leveldb-feedstock.git
+	path = feedstocks/leveldb
+[submodule "libspatialindex"]
+	url = https://github.com/conda-forge/libspatialindex-feedstock.git
+	path = feedstocks/libspatialindex
+[submodule "munch"]
+	url = https://github.com/conda-forge/munch-feedstock.git
+	path = feedstocks/munch
+[submodule "rtree"]
+	url = https://github.com/conda-forge/rtree-feedstock.git
+	path = feedstocks/rtree
+[submodule "vincent"]
+	url = https://github.com/conda-forge/vincent-feedstock.git
+	path = feedstocks/vincent
