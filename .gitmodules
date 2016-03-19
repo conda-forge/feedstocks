@@ -321,3 +321,21 @@
 [submodule "vincent"]
 	url = https://github.com/conda-forge/vincent-feedstock.git
 	path = feedstocks/vincent
+[submodule "cdo"]
+	url = https://github.com/conda-forge/cdo-feedstock.git
+	path = feedstocks/cdo
+[submodule "cf_units"]
+	url = https://github.com/conda-forge/cf_units-feedstock.git
+	path = feedstocks/cf_units
+[submodule "ctd"]
+	url = https://github.com/conda-forge/ctd-feedstock.git
+	path = feedstocks/ctd
+[submodule "gsw"]
+	url = https://github.com/conda-forge/gsw-feedstock.git
+	path = feedstocks/gsw
+[submodule "libuuid"]
+	url = https://github.com/conda-forge/libuuid-feedstock.git
+	path = feedstocks/libuuid
+[submodule "seawater"]
+	url = https://github.com/conda-forge/seawater-feedstock.git
+	path = feedstocks/seawater
