@@ -270,3 +270,12 @@
 [submodule "webcolors"]
 	url = https://github.com/conda-forge/webcolors-feedstock.git
 	path = feedstocks/webcolors
+[submodule "ncurses"]
+	url = https://github.com/conda-forge/ncurses-feedstock.git
+	path = feedstocks/ncurses
+[submodule "runipy"]
+	url = https://github.com/conda-forge/runipy-feedstock.git
+	path = feedstocks/runipy
+[submodule "splauncher"]
+	url = https://github.com/conda-forge/splauncher-feedstock.git
+	path = feedstocks/splauncher
