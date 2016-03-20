@@ -363,3 +363,27 @@
 [submodule "ulmo"]
 	url = https://github.com/conda-forge/ulmo-feedstock.git
 	path = feedstocks/ulmo
+[submodule "codar2netcdf"]
+	url = https://github.com/conda-forge/codar2netcdf-feedstock.git
+	path = feedstocks/codar2netcdf
+[submodule "epic2cf"]
+	url = https://github.com/conda-forge/epic2cf-feedstock.git
+	path = feedstocks/epic2cf
+[submodule "flopy"]
+	url = https://github.com/conda-forge/flopy-feedstock.git
+	path = feedstocks/flopy
+[submodule "modflow2netcdf"]
+	url = https://github.com/conda-forge/modflow2netcdf-feedstock.git
+	path = feedstocks/modflow2netcdf
+[submodule "pyaxiom"]
+	url = https://github.com/conda-forge/pyaxiom-feedstock.git
+	path = feedstocks/pyaxiom
+[submodule "pygc"]
+	url = https://github.com/conda-forge/pygc-feedstock.git
+	path = feedstocks/pygc
+[submodule "pyncml"]
+	url = https://github.com/conda-forge/pyncml-feedstock.git
+	path = feedstocks/pyncml
+[submodule "wera2netcdf"]
+	url = https://github.com/conda-forge/wera2netcdf-feedstock.git
+	path = feedstocks/wera2netcdf
