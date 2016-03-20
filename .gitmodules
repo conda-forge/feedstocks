@@ -342,3 +342,24 @@
 [submodule "pynco"]
 	url = https://github.com/conda-forge/pynco-feedstock.git
 	path = feedstocks/pynco
+[submodule "appdirs"]
+	url = https://github.com/conda-forge/appdirs-feedstock.git
+	path = feedstocks/appdirs
+[submodule "freezegun"]
+	url = https://github.com/conda-forge/freezegun-feedstock.git
+	path = feedstocks/freezegun
+[submodule "geojson"]
+	url = https://github.com/conda-forge/geojson-feedstock.git
+	path = feedstocks/geojson
+[submodule "httpretty"]
+	url = https://github.com/conda-forge/httpretty-feedstock.git
+	path = feedstocks/httpretty
+[submodule "isodate"]
+	url = https://github.com/conda-forge/isodate-feedstock.git
+	path = feedstocks/isodate
+[submodule "suds-jurko"]
+	url = https://github.com/conda-forge/suds-jurko-feedstock.git
+	path = feedstocks/suds-jurko
+[submodule "ulmo"]
+	url = https://github.com/conda-forge/ulmo-feedstock.git
+	path = feedstocks/ulmo
