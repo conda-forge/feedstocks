@@ -390,3 +390,6 @@
 [submodule "windrose"]
 	url = https://github.com/conda-forge/windrose-feedstock.git
 	path = feedstocks/windrose
+[submodule "glpk"]
+	url = https://github.com/conda-forge/glpk-feedstock.git
+	path = feedstocks/glpk
