@@ -393,3 +393,15 @@
 [submodule "glpk"]
 	url = https://github.com/conda-forge/glpk-feedstock.git
 	path = feedstocks/glpk
+[submodule "cartopy"]
+	url = https://github.com/conda-forge/cartopy-feedstock.git
+	path = feedstocks/cartopy
+[submodule "owslib"]
+	url = https://github.com/conda-forge/owslib-feedstock.git
+	path = feedstocks/owslib
+[submodule "pyepsg"]
+	url = https://github.com/conda-forge/pyepsg-feedstock.git
+	path = feedstocks/pyepsg
+[submodule "pyshp"]
+	url = https://github.com/conda-forge/pyshp-feedstock.git
+	path = feedstocks/pyshp
