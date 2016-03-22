@@ -432,3 +432,6 @@
 [submodule "wicken"]
 	url = https://github.com/conda-forge/wicken-feedstock.git
 	path = feedstocks/wicken
+[submodule "google-apputils"]
+	url = https://github.com/conda-forge/google-apputils-feedstock.git
+	path = feedstocks/google-apputils
