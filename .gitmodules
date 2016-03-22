@@ -405,3 +405,30 @@
 [submodule "pyshp"]
 	url = https://github.com/conda-forge/pyshp-feedstock.git
 	path = feedstocks/pyshp
+[submodule "cc-plugin-glider"]
+	url = https://github.com/conda-forge/cc-plugin-glider-feedstock.git
+	path = feedstocks/cc-plugin-glider
+[submodule "compliance-checker"]
+	url = https://github.com/conda-forge/compliance-checker-feedstock.git
+	path = feedstocks/compliance-checker
+[submodule "lmdb"]
+	url = https://github.com/conda-forge/lmdb-feedstock.git
+	path = feedstocks/lmdb
+[submodule "mox"]
+	url = https://github.com/conda-forge/mox-feedstock.git
+	path = feedstocks/mox
+[submodule "petulant-bear"]
+	url = https://github.com/conda-forge/petulant-bear-feedstock.git
+	path = feedstocks/petulant-bear
+[submodule "pygeoif"]
+	url = https://github.com/conda-forge/pygeoif-feedstock.git
+	path = feedstocks/pygeoif
+[submodule "python-gflags"]
+	url = https://github.com/conda-forge/python-gflags-feedstock.git
+	path = feedstocks/python-gflags
+[submodule "python-leveldb"]
+	url = https://github.com/conda-forge/python-leveldb-feedstock.git
+	path = feedstocks/python-leveldb
+[submodule "wicken"]
+	url = https://github.com/conda-forge/wicken-feedstock.git
+	path = feedstocks/wicken
