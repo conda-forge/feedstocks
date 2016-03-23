@@ -435,3 +435,33 @@
 [submodule "google-apputils"]
 	url = https://github.com/conda-forge/google-apputils-feedstock.git
 	path = feedstocks/google-apputils
+[submodule "auditwheel"]
+	url = https://github.com/conda-forge/auditwheel-feedstock.git
+	path = feedstocks/auditwheel
+[submodule "csa"]
+	url = https://github.com/conda-forge/csa-feedstock.git
+	path = feedstocks/csa
+[submodule "gridgen"]
+	url = https://github.com/conda-forge/gridgen-feedstock.git
+	path = feedstocks/gridgen
+[submodule "gridutils"]
+	url = https://github.com/conda-forge/gridutils-feedstock.git
+	path = feedstocks/gridutils
+[submodule "nn"]
+	url = https://github.com/conda-forge/nn-feedstock.git
+	path = feedstocks/nn
+[submodule "pyelftools"]
+	url = https://github.com/conda-forge/pyelftools-feedstock.git
+	path = feedstocks/pyelftools
+[submodule "pygridgen"]
+	url = https://github.com/conda-forge/pygridgen-feedstock.git
+	path = feedstocks/pygridgen
+[submodule "pygridtools"]
+	url = https://github.com/conda-forge/pygridtools-feedstock.git
+	path = feedstocks/pygridtools
+[submodule "rank_filter"]
+	url = https://github.com/conda-forge/rank_filter-feedstock.git
+	path = feedstocks/rank_filter
+[submodule "typing"]
+	url = https://github.com/conda-forge/typing-feedstock.git
+	path = feedstocks/typing
