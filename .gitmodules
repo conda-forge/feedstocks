@@ -465,3 +465,6 @@
 [submodule "typing"]
 	url = https://github.com/conda-forge/typing-feedstock.git
 	path = feedstocks/typing
+[submodule "python-cdo"]
+	url = https://github.com/conda-forge/python-cdo-feedstock.git
+	path = feedstocks/python-cdo
