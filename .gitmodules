@@ -468,3 +468,18 @@
 [submodule "python-cdo"]
 	url = https://github.com/conda-forge/python-cdo-feedstock.git
 	path = feedstocks/python-cdo
+[submodule "django-celery"]
+	url = https://github.com/conda-forge/django-celery-feedstock.git
+	path = feedstocks/django-celery
+[submodule "django"]
+	url = https://github.com/conda-forge/django-feedstock.git
+	path = feedstocks/django
+[submodule "django-nested-inline"]
+	url = https://github.com/conda-forge/django-nested-inline-feedstock.git
+	path = feedstocks/django-nested-inline
+[submodule "django-redis-cache"]
+	url = https://github.com/conda-forge/django-redis-cache-feedstock.git
+	path = feedstocks/django-redis-cache
+[submodule "django-taggit"]
+	url = https://github.com/conda-forge/django-taggit-feedstock.git
+	path = feedstocks/django-taggit
