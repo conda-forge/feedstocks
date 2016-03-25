@@ -495,3 +495,6 @@
 [submodule "basemap"]
 	url = https://github.com/conda-forge/basemap-feedstock.git
 	path = feedstocks/basemap
+[submodule "h5py"]
+	url = https://github.com/conda-forge/h5py-feedstock.git
+	path = feedstocks/h5py
