@@ -483,3 +483,9 @@
 [submodule "django-taggit"]
 	url = https://github.com/conda-forge/django-taggit-feedstock.git
 	path = feedstocks/django-taggit
+[submodule "boost"]
+	url = https://github.com/conda-forge/boost-feedstock.git
+	path = feedstocks/boost
+[submodule "hdf5"]
+	url = https://github.com/conda-forge/hdf5-feedstock.git
+	path = feedstocks/hdf5
