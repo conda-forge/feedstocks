@@ -510,3 +510,6 @@
 [submodule "mpfr"]
 	url = https://github.com/conda-forge/mpfr-feedstock.git
 	path = feedstocks/mpfr
+[submodule "mpc"]
+	url = https://github.com/conda-forge/mpc-feedstock.git
+	path = feedstocks/mpc
