@@ -516,3 +516,6 @@
 [submodule "vigra"]
 	url = https://github.com/conda-forge/vigra-feedstock.git
 	path = feedstocks/vigra
+[submodule "mpir"]
+	url = https://github.com/conda-forge/mpir-feedstock.git
+	path = feedstocks/mpir
