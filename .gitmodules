@@ -513,3 +513,6 @@
 [submodule "mpc"]
 	url = https://github.com/conda-forge/mpc-feedstock.git
 	path = feedstocks/mpc
+[submodule "vigra"]
+	url = https://github.com/conda-forge/vigra-feedstock.git
+	path = feedstocks/vigra
