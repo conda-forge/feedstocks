@@ -525,3 +525,9 @@
 [submodule "x264"]
 	url = https://github.com/conda-forge/x264-feedstock.git
 	path = feedstocks/x264
+[submodule "flann"]
+	url = https://github.com/conda-forge/flann-feedstock.git
+	path = feedstocks/flann
+[submodule "pyflann"]
+	url = https://github.com/conda-forge/pyflann-feedstock.git
+	path = feedstocks/pyflann
