@@ -546,3 +546,15 @@
 [submodule "yt"]
 	path = feedstocks/yt
 	url = https://github.com/conda-forge/yt-feedstock.git
+[submodule "dj-static"]
+	path = feedstocks/dj-static
+	url = https://github.com/conda-forge/dj-static-feedstock.git
+[submodule "libblitz"]
+	path = feedstocks/libblitz
+	url = https://github.com/conda-forge/libblitz-feedstock.git
+[submodule "pystache"]
+	path = feedstocks/pystache
+	url = https://github.com/conda-forge/pystache-feedstock.git
+[submodule "static"]
+	path = feedstocks/static
+	url = https://github.com/conda-forge/static-feedstock.git
