@@ -531,3 +531,18 @@
 [submodule "pyflann"]
 	url = https://github.com/conda-forge/pyflann-feedstock.git
 	path = feedstocks/pyflann
+[submodule "affine"]
+	path = feedstocks/affine
+	url = https://github.com/conda-forge/affine-feedstock.git
+[submodule "check"]
+	path = feedstocks/check
+	url = https://github.com/conda-forge/check-feedstock.git
+[submodule "rasterio"]
+	path = feedstocks/rasterio
+	url = https://github.com/conda-forge/rasterio-feedstock.git
+[submodule "texinfo"]
+	path = feedstocks/texinfo
+	url = https://github.com/conda-forge/texinfo-feedstock.git
+[submodule "yt"]
+	path = feedstocks/yt
+	url = https://github.com/conda-forge/yt-feedstock.git
