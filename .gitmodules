@@ -591,3 +591,6 @@
 [submodule "bdw-gc"]
 	path = feedstocks/bdw-gc
 	url = https://github.com/conda-forge/bdw-gc-feedstock.git
+[submodule "json-c"]
+	path = feedstocks/json-c
+	url = https://github.com/conda-forge/json-c-feedstock.git
