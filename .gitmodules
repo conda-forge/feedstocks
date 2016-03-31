@@ -561,3 +561,6 @@
 [submodule "flex"]
 	path = feedstocks/flex
 	url = https://github.com/conda-forge/flex-feedstock.git
+[submodule "bison"]
+	path = feedstocks/bison
+	url = https://github.com/conda-forge/bison-feedstock.git
