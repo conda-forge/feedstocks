@@ -576,3 +576,6 @@
 [submodule "sox"]
 	path = feedstocks/sox
 	url = https://github.com/conda-forge/sox-feedstock.git
+[submodule "libunistring"]
+	path = feedstocks/libunistring
+	url = https://github.com/conda-forge/libunistring-feedstock.git
