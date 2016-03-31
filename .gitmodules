@@ -582,3 +582,6 @@
 [submodule "libffi"]
 	path = feedstocks/libffi
 	url = https://github.com/conda-forge/libffi-feedstock.git
+[submodule "libmo_unpack"]
+	path = feedstocks/libmo_unpack
+	url = https://github.com/conda-forge/libmo_unpack-feedstock.git
