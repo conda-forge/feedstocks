@@ -573,3 +573,6 @@
 [submodule "pytest-benchmark"]
 	path = feedstocks/pytest-benchmark
 	url = https://github.com/conda-forge/pytest-benchmark-feedstock.git
+[submodule "sox"]
+	path = feedstocks/sox
+	url = https://github.com/conda-forge/sox-feedstock.git
