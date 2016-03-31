@@ -579,3 +579,6 @@
 [submodule "libunistring"]
 	path = feedstocks/libunistring
 	url = https://github.com/conda-forge/libunistring-feedstock.git
+[submodule "libffi"]
+	path = feedstocks/libffi
+	url = https://github.com/conda-forge/libffi-feedstock.git
