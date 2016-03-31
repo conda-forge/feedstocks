@@ -570,3 +570,6 @@
 [submodule "netcdf-cxx4"]
 	path = feedstocks/netcdf-cxx4
 	url = https://github.com/conda-forge/netcdf-cxx4-feedstock.git
+[submodule "pytest-benchmark"]
+	path = feedstocks/pytest-benchmark
+	url = https://github.com/conda-forge/pytest-benchmark-feedstock.git
