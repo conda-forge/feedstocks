@@ -588,3 +588,6 @@
 [submodule "libatomic_ops"]
 	path = feedstocks/libatomic_ops
 	url = https://github.com/conda-forge/libatomic_ops-feedstock.git
+[submodule "bdw-gc"]
+	path = feedstocks/bdw-gc
+	url = https://github.com/conda-forge/bdw-gc-feedstock.git
