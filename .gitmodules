@@ -594,3 +594,39 @@
 [submodule "json-c"]
 	path = feedstocks/json-c
 	url = https://github.com/conda-forge/json-c-feedstock.git
+[submodule "awesome-slugify"]
+	path = feedstocks/awesome-slugify
+	url = https://github.com/conda-forge/awesome-slugify-feedstock.git
+[submodule "django-autoslug"]
+	path = feedstocks/django-autoslug
+	url = https://github.com/conda-forge/django-autoslug-feedstock.git
+[submodule "django-debug-toolbar"]
+	path = feedstocks/django-debug-toolbar
+	url = https://github.com/conda-forge/django-debug-toolbar-feedstock.git
+[submodule "django-extensions"]
+	path = feedstocks/django-extensions
+	url = https://github.com/conda-forge/django-extensions-feedstock.git
+[submodule "django-grappelli"]
+	path = feedstocks/django-grappelli
+	url = https://github.com/conda-forge/django-grappelli-feedstock.git
+[submodule "django-typed-models"]
+	path = feedstocks/django-typed-models
+	url = https://github.com/conda-forge/django-typed-models-feedstock.git
+[submodule "djangorestframework"]
+	path = feedstocks/djangorestframework
+	url = https://github.com/conda-forge/djangorestframework-feedstock.git
+[submodule "luigi"]
+	path = feedstocks/luigi
+	url = https://github.com/conda-forge/luigi-feedstock.git
+[submodule "pytest-django"]
+	path = feedstocks/pytest-django
+	url = https://github.com/conda-forge/pytest-django-feedstock.git
+[submodule "regex"]
+	path = feedstocks/regex
+	url = https://github.com/conda-forge/regex-feedstock.git
+[submodule "requests-toolbelt"]
+	path = feedstocks/requests-toolbelt
+	url = https://github.com/conda-forge/requests-toolbelt-feedstock.git
+[submodule "setuptools_scm"]
+	path = feedstocks/setuptools_scm
+	url = https://github.com/conda-forge/setuptools_scm-feedstock.git
