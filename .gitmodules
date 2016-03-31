@@ -558,3 +558,6 @@
 [submodule "static"]
 	path = feedstocks/static
 	url = https://github.com/conda-forge/static-feedstock.git
+[submodule "flex"]
+	path = feedstocks/flex
+	url = https://github.com/conda-forge/flex-feedstock.git
