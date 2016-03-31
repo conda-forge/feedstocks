@@ -564,3 +564,6 @@
 [submodule "bison"]
 	path = feedstocks/bison
 	url = https://github.com/conda-forge/bison-feedstock.git
+[submodule "libmatio"]
+	path = feedstocks/libmatio
+	url = https://github.com/conda-forge/libmatio-feedstock.git
