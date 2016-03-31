@@ -567,3 +567,6 @@
 [submodule "libmatio"]
 	path = feedstocks/libmatio
 	url = https://github.com/conda-forge/libmatio-feedstock.git
+[submodule "netcdf-cxx4"]
+	path = feedstocks/netcdf-cxx4
+	url = https://github.com/conda-forge/netcdf-cxx4-feedstock.git
