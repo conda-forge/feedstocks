@@ -585,3 +585,6 @@
 [submodule "libmo_unpack"]
 	path = feedstocks/libmo_unpack
 	url = https://github.com/conda-forge/libmo_unpack-feedstock.git
+[submodule "libatomic_ops"]
+	path = feedstocks/libatomic_ops
+	url = https://github.com/conda-forge/libatomic_ops-feedstock.git
