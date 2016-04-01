@@ -636,3 +636,6 @@
 [submodule "django_polymorphic"]
 	path = feedstocks/django_polymorphic
 	url = https://github.com/conda-forge/django_polymorphic-feedstock.git
+[submodule "opencv"]
+	path = feedstocks/opencv
+	url = https://github.com/conda-forge/opencv-feedstock.git
