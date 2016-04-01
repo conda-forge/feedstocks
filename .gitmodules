@@ -639,3 +639,6 @@
 [submodule "opencv"]
 	path = feedstocks/opencv
 	url = https://github.com/conda-forge/opencv-feedstock.git
+[submodule "freexl"]
+	path = feedstocks/freexl
+	url = https://github.com/conda-forge/freexl-feedstock.git
