@@ -630,3 +630,6 @@
 [submodule "setuptools_scm"]
 	path = feedstocks/setuptools_scm
 	url = https://github.com/conda-forge/setuptools_scm-feedstock.git
+[submodule "eigen"]
+	path = feedstocks/eigen
+	url = https://github.com/conda-forge/eigen-feedstock.git
