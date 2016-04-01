@@ -633,3 +633,6 @@
 [submodule "eigen"]
 	path = feedstocks/eigen
 	url = https://github.com/conda-forge/eigen-feedstock.git
+[submodule "django_polymorphic"]
+	path = feedstocks/django_polymorphic
+	url = https://github.com/conda-forge/django_polymorphic-feedstock.git
