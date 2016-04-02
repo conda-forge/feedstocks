@@ -642,3 +642,9 @@
 [submodule "freexl"]
 	path = feedstocks/freexl
 	url = https://github.com/conda-forge/freexl-feedstock.git
+[submodule "jplephem"]
+	path = feedstocks/jplephem
+	url = https://github.com/conda-forge/jplephem-feedstock.git
+[submodule "poliastro"]
+	path = feedstocks/poliastro
+	url = https://github.com/conda-forge/poliastro-feedstock.git
