@@ -648,3 +648,6 @@
 [submodule "poliastro"]
 	path = feedstocks/poliastro
 	url = https://github.com/conda-forge/poliastro-feedstock.git
+[submodule "haversine"]
+	path = feedstocks/haversine
+	url = https://github.com/conda-forge/haversine-feedstock.git
