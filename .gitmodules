@@ -654,3 +654,6 @@
 [submodule "libsodium"]
 	path = feedstocks/libsodium
 	url = https://github.com/conda-forge/libsodium-feedstock.git
+[submodule "zeromq"]
+	path = feedstocks/zeromq
+	url = https://github.com/conda-forge/zeromq-feedstock.git
