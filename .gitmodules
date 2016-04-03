@@ -651,3 +651,6 @@
 [submodule "haversine"]
 	path = feedstocks/haversine
 	url = https://github.com/conda-forge/haversine-feedstock.git
+[submodule "libsodium"]
+	path = feedstocks/libsodium
+	url = https://github.com/conda-forge/libsodium-feedstock.git
