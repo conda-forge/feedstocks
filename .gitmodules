@@ -660,3 +660,6 @@
 [submodule "ffmpeg"]
 	path = feedstocks/ffmpeg
 	url = https://github.com/conda-forge/ffmpeg-feedstock.git
+[submodule "bob.extension"]
+	path = feedstocks/bob.extension
+	url = https://github.com/conda-forge/bob.extension-feedstock.git
