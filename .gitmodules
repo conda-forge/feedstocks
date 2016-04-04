@@ -666,3 +666,12 @@
 [submodule "c99-to-c89"]
 	path = feedstocks/c99-to-c89
 	url = https://github.com/conda-forge/c99-to-c89-feedstock.git
+[submodule "biggus"]
+	path = feedstocks/biggus
+	url = https://github.com/conda-forge/biggus-feedstock.git
+[submodule "ecmwf_grib"]
+	path = feedstocks/ecmwf_grib
+	url = https://github.com/conda-forge/ecmwf_grib-feedstock.git
+[submodule "pyke"]
+	path = feedstocks/pyke
+	url = https://github.com/conda-forge/pyke-feedstock.git
