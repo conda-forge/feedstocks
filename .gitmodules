@@ -681,3 +681,6 @@
 [submodule "pyamg"]
 	path = feedstocks/pyamg
 	url = https://github.com/conda-forge/pyamg-feedstock.git
+[submodule "nuitka"]
+	path = feedstocks/nuitka
+	url = https://github.com/conda-forge/nuitka-feedstock.git
