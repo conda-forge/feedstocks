@@ -690,3 +690,6 @@
 [submodule "megaman"]
 	path = feedstocks/megaman
 	url = https://github.com/conda-forge/megaman-feedstock.git
+[submodule "caffe"]
+	path = feedstocks/caffe
+	url = https://github.com/conda-forge/caffe-feedstock.git
