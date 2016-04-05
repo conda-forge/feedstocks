@@ -684,3 +684,6 @@
 [submodule "nuitka"]
 	path = feedstocks/nuitka
 	url = https://github.com/conda-forge/nuitka-feedstock.git
+[submodule "libspatialite"]
+	path = feedstocks/libspatialite
+	url = https://github.com/conda-forge/libspatialite-feedstock.git
