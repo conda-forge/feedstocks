@@ -675,3 +675,6 @@
 [submodule "pyke"]
 	path = feedstocks/pyke
 	url = https://github.com/conda-forge/pyke-feedstock.git
+[submodule "libxml2"]
+	path = feedstocks/libxml2
+	url = https://github.com/conda-forge/libxml2-feedstock.git
