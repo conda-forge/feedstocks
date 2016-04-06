@@ -705,3 +705,6 @@
 [submodule "ipython"]
 	path = feedstocks/ipython
 	url = https://github.com/conda-forge/ipython-feedstock.git
+[submodule "cmt"]
+	path = feedstocks/cmt
+	url = https://github.com/conda-forge/cmt-feedstock.git
