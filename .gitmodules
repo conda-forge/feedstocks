@@ -693,3 +693,6 @@
 [submodule "caffe"]
 	path = feedstocks/caffe
 	url = https://github.com/conda-forge/caffe-feedstock.git
+[submodule "snuggs"]
+	path = feedstocks/snuggs
+	url = https://github.com/conda-forge/snuggs-feedstock.git
