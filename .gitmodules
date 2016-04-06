@@ -696,3 +696,9 @@
 [submodule "snuggs"]
 	path = feedstocks/snuggs
 	url = https://github.com/conda-forge/snuggs-feedstock.git
+[submodule "primesieve"]
+	path = feedstocks/primesieve
+	url = https://github.com/conda-forge/primesieve-feedstock.git
+[submodule "python-primesieve"]
+	path = feedstocks/python-primesieve
+	url = https://github.com/conda-forge/python-primesieve-feedstock.git
