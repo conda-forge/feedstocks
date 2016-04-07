@@ -723,3 +723,6 @@
 [submodule "pydicom"]
 	path = feedstocks/pydicom
 	url = https://github.com/conda-forge/pydicom-feedstock.git
+[submodule "nodejs"]
+	path = feedstocks/nodejs
+	url = https://github.com/conda-forge/nodejs-feedstock.git
