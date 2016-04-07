@@ -720,3 +720,6 @@
 [submodule "mplleaflet"]
 	path = feedstocks/mplleaflet
 	url = https://github.com/conda-forge/mplleaflet-feedstock.git
+[submodule "pydicom"]
+	path = feedstocks/pydicom
+	url = https://github.com/conda-forge/pydicom-feedstock.git
