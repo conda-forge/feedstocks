@@ -711,3 +711,12 @@
 [submodule "bob.blitz"]
 	path = feedstocks/bob.blitz
 	url = https://github.com/conda-forge/bob.blitz-feedstock.git
+[submodule "mpld3"]
+	path = feedstocks/mpld3
+	url = https://github.com/conda-forge/mpld3-feedstock.git
+[submodule "mplexporter"]
+	path = feedstocks/mplexporter
+	url = https://github.com/conda-forge/mplexporter-feedstock.git
+[submodule "mplleaflet"]
+	path = feedstocks/mplleaflet
+	url = https://github.com/conda-forge/mplleaflet-feedstock.git
