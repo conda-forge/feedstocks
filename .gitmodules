@@ -732,3 +732,9 @@
 [submodule "notebook"]
 	path = feedstocks/notebook
 	url = https://github.com/conda-forge/notebook-feedstock.git
+[submodule "ipykernel"]
+	path = feedstocks/ipykernel
+	url = https://github.com/conda-forge/ipykernel-feedstock.git
+[submodule "nbconvert"]
+	path = feedstocks/nbconvert
+	url = https://github.com/conda-forge/nbconvert-feedstock.git
