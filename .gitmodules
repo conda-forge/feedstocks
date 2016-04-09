@@ -747,3 +747,6 @@
 [submodule "colorlog"]
 	path = feedstocks/colorlog
 	url = https://github.com/conda-forge/colorlog-feedstock.git
+[submodule "ninja"]
+	path = feedstocks/ninja
+	url = https://github.com/conda-forge/ninja-feedstock.git
