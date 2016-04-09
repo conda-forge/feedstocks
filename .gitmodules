@@ -756,3 +756,6 @@
 [submodule "entrypoints"]
 	path = feedstocks/entrypoints
 	url = https://github.com/conda-forge/entrypoints-feedstock.git
+[submodule "valideer"]
+	path = feedstocks/valideer
+	url = https://github.com/conda-forge/valideer-feedstock.git
