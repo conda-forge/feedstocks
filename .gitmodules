@@ -738,3 +738,6 @@
 [submodule "nbconvert"]
 	path = feedstocks/nbconvert
 	url = https://github.com/conda-forge/nbconvert-feedstock.git
+[submodule "babel"]
+	path = feedstocks/babel
+	url = https://github.com/conda-forge/babel-feedstock.git
