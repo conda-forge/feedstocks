@@ -741,3 +741,6 @@
 [submodule "babel"]
 	path = feedstocks/babel
 	url = https://github.com/conda-forge/babel-feedstock.git
+[submodule "pywebhdfs"]
+	path = feedstocks/pywebhdfs
+	url = https://github.com/conda-forge/pywebhdfs-feedstock.git
