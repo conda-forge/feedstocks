@@ -750,3 +750,9 @@
 [submodule "ninja"]
 	path = feedstocks/ninja
 	url = https://github.com/conda-forge/ninja-feedstock.git
+[submodule "configparser"]
+	path = feedstocks/configparser
+	url = https://github.com/conda-forge/configparser-feedstock.git
+[submodule "entrypoints"]
+	path = feedstocks/entrypoints
+	url = https://github.com/conda-forge/entrypoints-feedstock.git
