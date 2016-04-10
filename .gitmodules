@@ -762,3 +762,6 @@
 [submodule "bob.core"]
 	path = feedstocks/bob.core
 	url = https://github.com/conda-forge/bob.core-feedstock.git
+[submodule "binutils"]
+	path = feedstocks/binutils
+	url = https://github.com/conda-forge/binutils-feedstock.git
