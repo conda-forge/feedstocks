@@ -768,3 +768,36 @@
 [submodule "spyne"]
 	path = feedstocks/spyne
 	url = https://github.com/conda-forge/spyne-feedstock.git
+[submodule "betamax"]
+	path = feedstocks/betamax
+	url = https://github.com/conda-forge/betamax-feedstock.git
+[submodule "betamax-matchers"]
+	path = feedstocks/betamax-matchers
+	url = https://github.com/conda-forge/betamax-matchers-feedstock.git
+[submodule "geojsonio"]
+	path = feedstocks/geojsonio
+	url = https://github.com/conda-forge/geojsonio-feedstock.git
+[submodule "geolinks"]
+	path = feedstocks/geolinks
+	url = https://github.com/conda-forge/geolinks-feedstock.git
+[submodule "github3.py"]
+	path = feedstocks/github3.py
+	url = https://github.com/conda-forge/github3.py-feedstock.git
+[submodule "paegan"]
+	path = feedstocks/paegan
+	url = https://github.com/conda-forge/paegan-feedstock.git
+[submodule "palettable"]
+	path = feedstocks/palettable
+	url = https://github.com/conda-forge/palettable-feedstock.git
+[submodule "pycsw"]
+	path = feedstocks/pycsw
+	url = https://github.com/conda-forge/pycsw-feedstock.git
+[submodule "pyoos"]
+	path = feedstocks/pyoos
+	url = https://github.com/conda-forge/pyoos-feedstock.git
+[submodule "uritemplate.py"]
+	path = feedstocks/uritemplate.py
+	url = https://github.com/conda-forge/uritemplate.py-feedstock.git
+[submodule "yaml2ncml"]
+	path = feedstocks/yaml2ncml
+	url = https://github.com/conda-forge/yaml2ncml-feedstock.git
