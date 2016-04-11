@@ -804,3 +804,15 @@
 [submodule "pyzmq"]
 	path = feedstocks/pyzmq
 	url = https://github.com/conda-forge/pyzmq-feedstock.git
+[submodule "blinker"]
+	path = feedstocks/blinker
+	url = https://github.com/conda-forge/blinker-feedstock.git
+[submodule "feedgenerator"]
+	path = feedstocks/feedgenerator
+	url = https://github.com/conda-forge/feedgenerator-feedstock.git
+[submodule "ghp-import"]
+	path = feedstocks/ghp-import
+	url = https://github.com/conda-forge/ghp-import-feedstock.git
+[submodule "pelican"]
+	path = feedstocks/pelican
+	url = https://github.com/conda-forge/pelican-feedstock.git
