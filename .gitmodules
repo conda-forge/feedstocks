@@ -801,3 +801,6 @@
 [submodule "yaml2ncml"]
 	path = feedstocks/yaml2ncml
 	url = https://github.com/conda-forge/yaml2ncml-feedstock.git
+[submodule "pyzmq"]
+	path = feedstocks/pyzmq
+	url = https://github.com/conda-forge/pyzmq-feedstock.git
