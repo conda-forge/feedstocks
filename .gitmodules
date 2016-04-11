@@ -822,3 +822,6 @@
 [submodule "traitlets"]
 	path = feedstocks/traitlets
 	url = https://github.com/conda-forge/traitlets-feedstock.git
+[submodule "dateutils"]
+	path = feedstocks/dateutils
+	url = https://github.com/conda-forge/dateutils-feedstock.git
