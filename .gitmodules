@@ -816,3 +816,9 @@
 [submodule "pelican"]
 	path = feedstocks/pelican
 	url = https://github.com/conda-forge/pelican-feedstock.git
+[submodule "mistune"]
+	path = feedstocks/mistune
+	url = https://github.com/conda-forge/mistune-feedstock.git
+[submodule "traitlets"]
+	path = feedstocks/traitlets
+	url = https://github.com/conda-forge/traitlets-feedstock.git
