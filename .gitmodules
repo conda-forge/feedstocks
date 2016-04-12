@@ -891,3 +891,9 @@
 [submodule "bob.math"]
 	path = feedstocks/bob.math
 	url = https://github.com/conda-forge/bob.math-feedstock.git
+[submodule "pexpect"]
+	path = feedstocks/pexpect
+	url = https://github.com/conda-forge/pexpect-feedstock.git
+[submodule "ptyprocess"]
+	path = feedstocks/ptyprocess
+	url = https://github.com/conda-forge/ptyprocess-feedstock.git
