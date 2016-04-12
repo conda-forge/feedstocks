@@ -906,3 +906,15 @@
 [submodule "python-pathlib2"]
 	path = feedstocks/python-pathlib2
 	url = https://github.com/conda-forge/python-pathlib2-feedstock.git
+[submodule "fortran-magic"]
+	path = feedstocks/fortran-magic
+	url = https://github.com/conda-forge/fortran-magic-feedstock.git
+[submodule "metakernel"]
+	path = feedstocks/metakernel
+	url = https://github.com/conda-forge/metakernel-feedstock.git
+[submodule "oct2py"]
+	path = feedstocks/oct2py
+	url = https://github.com/conda-forge/oct2py-feedstock.git
+[submodule "pymatbridge"]
+	path = feedstocks/pymatbridge
+	url = https://github.com/conda-forge/pymatbridge-feedstock.git
