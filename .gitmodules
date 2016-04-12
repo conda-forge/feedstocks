@@ -897,3 +897,6 @@
 [submodule "ptyprocess"]
 	path = feedstocks/ptyprocess
 	url = https://github.com/conda-forge/ptyprocess-feedstock.git
+[submodule "python-drmaa"]
+	path = feedstocks/python-drmaa
+	url = https://github.com/conda-forge/python-drmaa-feedstock.git
