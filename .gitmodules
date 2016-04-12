@@ -849,3 +849,27 @@
 [submodule "tornado"]
 	path = feedstocks/tornado
 	url = https://github.com/conda-forge/tornado-feedstock.git
+[submodule "cell_tree2d"]
+	path = feedstocks/cell_tree2d
+	url = https://github.com/conda-forge/cell_tree2d-feedstock.git
+[submodule "ciso"]
+	path = feedstocks/ciso
+	url = https://github.com/conda-forge/ciso-feedstock.git
+[submodule "ioos_qartod"]
+	path = feedstocks/ioos_qartod
+	url = https://github.com/conda-forge/ioos_qartod-feedstock.git
+[submodule "paegan-transport"]
+	path = feedstocks/paegan-transport
+	url = https://github.com/conda-forge/paegan-transport-feedstock.git
+[submodule "pysgrid"]
+	path = feedstocks/pysgrid
+	url = https://github.com/conda-forge/pysgrid-feedstock.git
+[submodule "pyugrid"]
+	path = feedstocks/pyugrid
+	url = https://github.com/conda-forge/pyugrid-feedstock.git
+[submodule "quantities"]
+	path = feedstocks/quantities
+	url = https://github.com/conda-forge/quantities-feedstock.git
+[submodule "thredds_crawler"]
+	path = feedstocks/thredds_crawler
+	url = https://github.com/conda-forge/thredds_crawler-feedstock.git
