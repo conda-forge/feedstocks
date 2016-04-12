@@ -900,3 +900,9 @@
 [submodule "python-drmaa"]
 	path = feedstocks/python-drmaa
 	url = https://github.com/conda-forge/python-drmaa-feedstock.git
+[submodule "pickleshare"]
+	path = feedstocks/pickleshare
+	url = https://github.com/conda-forge/pickleshare-feedstock.git
+[submodule "python-pathlib2"]
+	path = feedstocks/python-pathlib2
+	url = https://github.com/conda-forge/python-pathlib2-feedstock.git
