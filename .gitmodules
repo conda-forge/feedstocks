@@ -876,3 +876,12 @@
 [submodule "eofs"]
 	path = feedstocks/eofs
 	url = https://github.com/conda-forge/eofs-feedstock.git
+[submodule "gridfill"]
+	path = feedstocks/gridfill
+	url = https://github.com/conda-forge/gridfill-feedstock.git
+[submodule "pyspharm"]
+	path = feedstocks/pyspharm
+	url = https://github.com/conda-forge/pyspharm-feedstock.git
+[submodule "windspharm"]
+	path = feedstocks/windspharm
+	url = https://github.com/conda-forge/windspharm-feedstock.git
