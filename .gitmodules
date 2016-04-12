@@ -921,3 +921,15 @@
 [submodule "pyopengl"]
 	path = feedstocks/pyopengl
 	url = https://github.com/conda-forge/pyopengl-feedstock.git
+[submodule "livereload"]
+	path = feedstocks/livereload
+	url = https://github.com/conda-forge/livereload-feedstock.git
+[submodule "mkdocs-bootstrap"]
+	path = feedstocks/mkdocs-bootstrap
+	url = https://github.com/conda-forge/mkdocs-bootstrap-feedstock.git
+[submodule "mkdocs-bootswatch"]
+	path = feedstocks/mkdocs-bootswatch
+	url = https://github.com/conda-forge/mkdocs-bootswatch-feedstock.git
+[submodule "mkdocs"]
+	path = feedstocks/mkdocs
+	url = https://github.com/conda-forge/mkdocs-feedstock.git
