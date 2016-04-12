@@ -885,3 +885,9 @@
 [submodule "windspharm"]
 	path = feedstocks/windspharm
 	url = https://github.com/conda-forge/windspharm-feedstock.git
+[submodule "bob.io.base"]
+	path = feedstocks/bob.io.base
+	url = https://github.com/conda-forge/bob.io.base-feedstock.git
+[submodule "bob.math"]
+	path = feedstocks/bob.math
+	url = https://github.com/conda-forge/bob.math-feedstock.git
