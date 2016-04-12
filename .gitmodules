@@ -840,3 +840,12 @@
 [submodule "pygments"]
 	path = feedstocks/pygments
 	url = https://github.com/conda-forge/pygments-feedstock.git
+[submodule "certifi"]
+	path = feedstocks/certifi
+	url = https://github.com/conda-forge/certifi-feedstock.git
+[submodule "ssl_match_hostname"]
+	path = feedstocks/ssl_match_hostname
+	url = https://github.com/conda-forge/ssl_match_hostname-feedstock.git
+[submodule "tornado"]
+	path = feedstocks/tornado
+	url = https://github.com/conda-forge/tornado-feedstock.git
