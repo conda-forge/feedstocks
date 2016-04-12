@@ -825,3 +825,6 @@
 [submodule "dateutils"]
 	path = feedstocks/dateutils
 	url = https://github.com/conda-forge/dateutils-feedstock.git
+[submodule "urwid"]
+	path = feedstocks/urwid
+	url = https://github.com/conda-forge/urwid-feedstock.git
