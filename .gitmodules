@@ -969,3 +969,15 @@
 [submodule "simplekml"]
 	path = feedstocks/simplekml
 	url = https://github.com/conda-forge/simplekml-feedstock.git
+[submodule "genshi"]
+	path = feedstocks/genshi
+	url = https://github.com/conda-forge/genshi-feedstock.git
+[submodule "httplib2"]
+	path = feedstocks/httplib2
+	url = https://github.com/conda-forge/httplib2-feedstock.git
+[submodule "pastescript"]
+	path = feedstocks/pastescript
+	url = https://github.com/conda-forge/pastescript-feedstock.git
+[submodule "pydap"]
+	path = feedstocks/pydap
+	url = https://github.com/conda-forge/pydap-feedstock.git
