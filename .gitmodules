@@ -936,3 +936,6 @@
 [submodule "pyutilib"]
 	path = feedstocks/pyutilib
 	url = https://github.com/conda-forge/pyutilib-feedstock.git
+[submodule "bob.io.matlab"]
+	path = feedstocks/bob.io.matlab
+	url = https://github.com/conda-forge/bob.io.matlab-feedstock.git
