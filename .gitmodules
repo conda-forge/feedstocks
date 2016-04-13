@@ -939,3 +939,33 @@
 [submodule "bob.io.matlab"]
 	path = feedstocks/bob.io.matlab
 	url = https://github.com/conda-forge/bob.io.matlab-feedstock.git
+[submodule "ckanapi"]
+	path = feedstocks/ckanapi
+	url = https://github.com/conda-forge/ckanapi-feedstock.git
+[submodule "docopt"]
+	path = feedstocks/docopt
+	url = https://github.com/conda-forge/docopt-feedstock.git
+[submodule "gpxpy"]
+	path = feedstocks/gpxpy
+	url = https://github.com/conda-forge/gpxpy-feedstock.git
+[submodule "gridgeo"]
+	path = feedstocks/gridgeo
+	url = https://github.com/conda-forge/gridgeo-feedstock.git
+[submodule "pygeogrids"]
+	path = feedstocks/pygeogrids
+	url = https://github.com/conda-forge/pygeogrids-feedstock.git
+[submodule "pykdtree"]
+	path = feedstocks/pykdtree
+	url = https://github.com/conda-forge/pykdtree-feedstock.git
+[submodule "pykml"]
+	path = feedstocks/pykml
+	url = https://github.com/conda-forge/pykml-feedstock.git
+[submodule "pyresample"]
+	path = feedstocks/pyresample
+	url = https://github.com/conda-forge/pyresample-feedstock.git
+[submodule "pyscaffold"]
+	path = feedstocks/pyscaffold
+	url = https://github.com/conda-forge/pyscaffold-feedstock.git
+[submodule "simplekml"]
+	path = feedstocks/simplekml
+	url = https://github.com/conda-forge/simplekml-feedstock.git
