@@ -1032,3 +1032,6 @@
 [submodule "bob.ap"]
 	path = feedstocks/bob.ap
 	url = https://github.com/conda-forge/bob.ap-feedstock.git
+[submodule "libsvm"]
+	path = feedstocks/libsvm
+	url = https://github.com/conda-forge/libsvm-feedstock.git
