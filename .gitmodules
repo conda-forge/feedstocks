@@ -1002,3 +1002,15 @@
 [submodule "bob.sp"]
 	path = feedstocks/bob.sp
 	url = https://github.com/conda-forge/bob.sp-feedstock.git
+[submodule "ipywidgets"]
+	path = feedstocks/ipywidgets
+	url = https://github.com/conda-forge/ipywidgets-feedstock.git
+[submodule "jupyter_client"]
+	path = feedstocks/jupyter_client
+	url = https://github.com/conda-forge/jupyter_client-feedstock.git
+[submodule "jupyter_console"]
+	path = feedstocks/jupyter_console
+	url = https://github.com/conda-forge/jupyter_console-feedstock.git
+[submodule "nbformat"]
+	path = feedstocks/nbformat
+	url = https://github.com/conda-forge/nbformat-feedstock.git
