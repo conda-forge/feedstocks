@@ -1014,3 +1014,18 @@
 [submodule "nbformat"]
 	path = feedstocks/nbformat
 	url = https://github.com/conda-forge/nbformat-feedstock.git
+[submodule "ibis-framework"]
+	path = feedstocks/ibis-framework
+	url = https://github.com/conda-forge/ibis-framework-feedstock.git
+[submodule "impyla"]
+	path = feedstocks/impyla
+	url = https://github.com/conda-forge/impyla-feedstock.git
+[submodule "python-hdfs"]
+	path = feedstocks/python-hdfs
+	url = https://github.com/conda-forge/python-hdfs-feedstock.git
+[submodule "thrift"]
+	path = feedstocks/thrift
+	url = https://github.com/conda-forge/thrift-feedstock.git
+[submodule "thriftpy"]
+	path = feedstocks/thriftpy
+	url = https://github.com/conda-forge/thriftpy-feedstock.git
