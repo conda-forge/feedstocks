@@ -981,3 +981,6 @@
 [submodule "pydap"]
 	path = feedstocks/pydap
 	url = https://github.com/conda-forge/pydap-feedstock.git
+[submodule "patchelf"]
+	path = feedstocks/patchelf
+	url = https://github.com/conda-forge/patchelf-feedstock.git
