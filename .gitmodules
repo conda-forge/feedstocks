@@ -984,3 +984,21 @@
 [submodule "patchelf"]
 	path = feedstocks/patchelf
 	url = https://github.com/conda-forge/patchelf-feedstock.git
+[submodule "bob.io.audio"]
+	path = feedstocks/bob.io.audio
+	url = https://github.com/conda-forge/bob.io.audio-feedstock.git
+[submodule "bob.io.image"]
+	path = feedstocks/bob.io.image
+	url = https://github.com/conda-forge/bob.io.image-feedstock.git
+[submodule "bob.io.video"]
+	path = feedstocks/bob.io.video
+	url = https://github.com/conda-forge/bob.io.video-feedstock.git
+[submodule "bob.learn.activation"]
+	path = feedstocks/bob.learn.activation
+	url = https://github.com/conda-forge/bob.learn.activation-feedstock.git
+[submodule "bob.measure"]
+	path = feedstocks/bob.measure
+	url = https://github.com/conda-forge/bob.measure-feedstock.git
+[submodule "bob.sp"]
+	path = feedstocks/bob.sp
+	url = https://github.com/conda-forge/bob.sp-feedstock.git
