@@ -1038,3 +1038,9 @@
 [submodule "zlib"]
 	path = feedstocks/zlib
 	url = https://github.com/conda-forge/zlib-feedstock.git
+[submodule "jpeg"]
+	path = feedstocks/jpeg
+	url = https://github.com/conda-forge/jpeg-feedstock.git
+[submodule "pygrib"]
+	path = feedstocks/pygrib
+	url = https://github.com/conda-forge/pygrib-feedstock.git
