@@ -1044,3 +1044,6 @@
 [submodule "pygrib"]
 	path = feedstocks/pygrib
 	url = https://github.com/conda-forge/pygrib-feedstock.git
+[submodule "hdf4"]
+	path = feedstocks/hdf4
+	url = https://github.com/conda-forge/hdf4-feedstock.git
