@@ -1077,3 +1077,9 @@
 [submodule "spyre"]
 	path = feedstocks/spyre
 	url = https://github.com/conda-forge/spyre-feedstock.git
+[submodule "uncertainties"]
+	path = feedstocks/uncertainties
+	url = https://github.com/conda-forge/uncertainties-feedstock.git
+[submodule "utide"]
+	path = feedstocks/utide
+	url = https://github.com/conda-forge/utide-feedstock.git
