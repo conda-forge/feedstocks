@@ -1047,3 +1047,33 @@
 [submodule "hdf4"]
 	path = feedstocks/hdf4
 	url = https://github.com/conda-forge/hdf4-feedstock.git
+[submodule "nitime"]
+	path = feedstocks/nitime
+	url = https://github.com/conda-forge/nitime-feedstock.git
+[submodule "oceans"]
+	path = feedstocks/oceans
+	url = https://github.com/conda-forge/oceans-feedstock.git
+[submodule "pygdp"]
+	path = feedstocks/pygdp
+	url = https://github.com/conda-forge/pygdp-feedstock.git
+[submodule "pyhdf"]
+	path = feedstocks/pyhdf
+	url = https://github.com/conda-forge/pyhdf-feedstock.git
+[submodule "pyhum"]
+	path = feedstocks/pyhum
+	url = https://github.com/conda-forge/pyhum-feedstock.git
+[submodule "pyseidon"]
+	path = feedstocks/pyseidon
+	url = https://github.com/conda-forge/pyseidon-feedstock.git
+[submodule "python-ternary"]
+	path = feedstocks/python-ternary
+	url = https://github.com/conda-forge/python-ternary-feedstock.git
+[submodule "pywavelets"]
+	path = feedstocks/pywavelets
+	url = https://github.com/conda-forge/pywavelets-feedstock.git
+[submodule "qrcode"]
+	path = feedstocks/qrcode
+	url = https://github.com/conda-forge/qrcode-feedstock.git
+[submodule "spyre"]
+	path = feedstocks/spyre
+	url = https://github.com/conda-forge/spyre-feedstock.git
