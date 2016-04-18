@@ -1092,3 +1092,6 @@
 [submodule "xz"]
 	path = feedstocks/xz
 	url = https://github.com/conda-forge/xz-feedstock.git
+[submodule "ipyparallel"]
+	path = feedstocks/ipyparallel
+	url = https://github.com/conda-forge/ipyparallel-feedstock.git
