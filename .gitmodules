@@ -1101,3 +1101,6 @@
 [submodule "bob.db.base"]
 	path = feedstocks/bob.db.base
 	url = https://github.com/conda-forge/bob.db.base-feedstock.git
+[submodule "traits"]
+	path = feedstocks/traits
+	url = https://github.com/conda-forge/traits-feedstock.git
