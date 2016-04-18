@@ -1086,3 +1086,6 @@
 [submodule "libtiff"]
 	path = feedstocks/libtiff
 	url = https://github.com/conda-forge/libtiff-feedstock.git
+[submodule "python-ecmwf_grib"]
+	path = feedstocks/python-ecmwf_grib
+	url = https://github.com/conda-forge/python-ecmwf_grib-feedstock.git
