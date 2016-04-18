@@ -1095,3 +1095,6 @@
 [submodule "ipyparallel"]
 	path = feedstocks/ipyparallel
 	url = https://github.com/conda-forge/ipyparallel-feedstock.git
+[submodule "mock"]
+	path = feedstocks/mock
+	url = https://github.com/conda-forge/mock-feedstock.git
