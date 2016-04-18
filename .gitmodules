@@ -1089,3 +1089,6 @@
 [submodule "python-ecmwf_grib"]
 	path = feedstocks/python-ecmwf_grib
 	url = https://github.com/conda-forge/python-ecmwf_grib-feedstock.git
+[submodule "xz"]
+	path = feedstocks/xz
+	url = https://github.com/conda-forge/xz-feedstock.git
