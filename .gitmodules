@@ -1113,3 +1113,6 @@
 [submodule "traitsui"]
 	path = feedstocks/traitsui
 	url = https://github.com/conda-forge/traitsui-feedstock.git
+[submodule "libsigcpp"]
+	path = feedstocks/libsigcpp
+	url = https://github.com/conda-forge/libsigcpp-feedstock.git
