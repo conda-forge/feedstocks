@@ -1104,3 +1104,6 @@
 [submodule "traits"]
 	path = feedstocks/traits
 	url = https://github.com/conda-forge/traits-feedstock.git
+[submodule "pcre"]
+	path = feedstocks/pcre
+	url = https://github.com/conda-forge/pcre-feedstock.git
