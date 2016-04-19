@@ -1107,3 +1107,9 @@
 [submodule "pcre"]
 	path = feedstocks/pcre
 	url = https://github.com/conda-forge/pcre-feedstock.git
+[submodule "pyface"]
+	path = feedstocks/pyface
+	url = https://github.com/conda-forge/pyface-feedstock.git
+[submodule "traitsui"]
+	path = feedstocks/traitsui
+	url = https://github.com/conda-forge/traitsui-feedstock.git
