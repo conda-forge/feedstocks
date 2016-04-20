@@ -1152,3 +1152,6 @@
 [submodule "isl"]
 	path = feedstocks/isl
 	url = https://github.com/conda-forge/isl-feedstock.git
+[submodule "cloog"]
+	path = feedstocks/cloog
+	url = https://github.com/conda-forge/cloog-feedstock.git
