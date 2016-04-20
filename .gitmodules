@@ -1149,3 +1149,6 @@
 [submodule "pillow"]
 	path = feedstocks/pillow
 	url = https://github.com/conda-forge/pillow-feedstock.git
+[submodule "isl"]
+	path = feedstocks/isl
+	url = https://github.com/conda-forge/isl-feedstock.git
