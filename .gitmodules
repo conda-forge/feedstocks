@@ -1122,3 +1122,21 @@
 [submodule "bob.learn.libsvm"]
 	path = feedstocks/bob.learn.libsvm
 	url = https://github.com/conda-forge/bob.learn.libsvm-feedstock.git
+[submodule "bob.db.verification.utils"]
+	path = feedstocks/bob.db.verification.utils
+	url = https://github.com/conda-forge/bob.db.verification.utils-feedstock.git
+[submodule "bob.ip.color"]
+	path = feedstocks/bob.ip.color
+	url = https://github.com/conda-forge/bob.ip.color-feedstock.git
+[submodule "bob.ip.draw"]
+	path = feedstocks/bob.ip.draw
+	url = https://github.com/conda-forge/bob.ip.draw-feedstock.git
+[submodule "bob.ip.gabor"]
+	path = feedstocks/bob.ip.gabor
+	url = https://github.com/conda-forge/bob.ip.gabor-feedstock.git
+[submodule "bob.learn.linear"]
+	path = feedstocks/bob.learn.linear
+	url = https://github.com/conda-forge/bob.learn.linear-feedstock.git
+[submodule "bob.learn.mlp"]
+	path = feedstocks/bob.learn.mlp
+	url = https://github.com/conda-forge/bob.learn.mlp-feedstock.git
