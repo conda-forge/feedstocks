@@ -1116,3 +1116,9 @@
 [submodule "libsigcpp"]
 	path = feedstocks/libsigcpp
 	url = https://github.com/conda-forge/libsigcpp-feedstock.git
+[submodule "bob.learn.boosting"]
+	path = feedstocks/bob.learn.boosting
+	url = https://github.com/conda-forge/bob.learn.boosting-feedstock.git
+[submodule "bob.learn.libsvm"]
+	path = feedstocks/bob.learn.libsvm
+	url = https://github.com/conda-forge/bob.learn.libsvm-feedstock.git
