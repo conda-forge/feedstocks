@@ -1212,3 +1212,30 @@
 [submodule "gettext"]
 	path = feedstocks/gettext
 	url = https://github.com/conda-forge/gettext-feedstock.git
+[submodule "bob.db.arface"]
+	path = feedstocks/bob.db.arface
+	url = https://github.com/conda-forge/bob.db.arface-feedstock.git
+[submodule "bob.db.atnt"]
+	path = feedstocks/bob.db.atnt
+	url = https://github.com/conda-forge/bob.db.atnt-feedstock.git
+[submodule "bob.db.casme2"]
+	path = feedstocks/bob.db.casme2
+	url = https://github.com/conda-forge/bob.db.casme2-feedstock.git
+[submodule "bob.db.frgc"]
+	path = feedstocks/bob.db.frgc
+	url = https://github.com/conda-forge/bob.db.frgc-feedstock.git
+[submodule "bob.db.iris"]
+	path = feedstocks/bob.db.iris
+	url = https://github.com/conda-forge/bob.db.iris-feedstock.git
+[submodule "bob.db.replay"]
+	path = feedstocks/bob.db.replay
+	url = https://github.com/conda-forge/bob.db.replay-feedstock.git
+[submodule "bob.db.verification.filelist"]
+	path = feedstocks/bob.db.verification.filelist
+	url = https://github.com/conda-forge/bob.db.verification.filelist-feedstock.git
+[submodule "bob.ip.optflow.liu"]
+	path = feedstocks/bob.ip.optflow.liu
+	url = https://github.com/conda-forge/bob.ip.optflow.liu-feedstock.git
+[submodule "ocgis"]
+	path = feedstocks/ocgis
+	url = https://github.com/conda-forge/ocgis-feedstock.git
