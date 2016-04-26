@@ -1248,3 +1248,9 @@
 [submodule "backports.shutil_get_terminal_size"]
 	path = feedstocks/backports.shutil_get_terminal_size
 	url = https://github.com/conda-forge/backports.shutil_get_terminal_size-feedstock.git
+[submodule "jsonschema"]
+	path = feedstocks/jsonschema
+	url = https://github.com/conda-forge/jsonschema-feedstock.git
+[submodule "vcversioner"]
+	path = feedstocks/vcversioner
+	url = https://github.com/conda-forge/vcversioner-feedstock.git
