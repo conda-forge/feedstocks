@@ -1290,3 +1290,6 @@
 [submodule "erlang"]
 	path = feedstocks/erlang
 	url = https://github.com/conda-forge/erlang-feedstock.git
+[submodule "envisage"]
+	path = feedstocks/envisage
+	url = https://github.com/conda-forge/envisage-feedstock.git
