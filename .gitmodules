@@ -1284,3 +1284,6 @@
 [submodule "vlfeat"]
 	path = feedstocks/vlfeat
 	url = https://github.com/conda-forge/vlfeat-feedstock.git
+[submodule "openblas"]
+	path = feedstocks/openblas
+	url = https://github.com/conda-forge/openblas-feedstock.git
