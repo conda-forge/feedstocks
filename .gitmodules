@@ -1269,3 +1269,6 @@
 [submodule "psutil"]
 	path = feedstocks/psutil
 	url = https://github.com/conda-forge/psutil-feedstock.git
+[submodule "ordered-set"]
+	path = feedstocks/ordered-set
+	url = https://github.com/conda-forge/ordered-set-feedstock.git
