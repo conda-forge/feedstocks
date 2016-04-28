@@ -1278,3 +1278,9 @@
 [submodule "widgetsnbextension"]
 	path = feedstocks/widgetsnbextension
 	url = https://github.com/conda-forge/widgetsnbextension-feedstock.git
+[submodule "libpng"]
+	path = feedstocks/libpng
+	url = https://github.com/conda-forge/libpng-feedstock.git
+[submodule "vlfeat"]
+	path = feedstocks/vlfeat
+	url = https://github.com/conda-forge/vlfeat-feedstock.git
