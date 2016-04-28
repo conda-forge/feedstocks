@@ -1287,3 +1287,6 @@
 [submodule "openblas"]
 	path = feedstocks/openblas
 	url = https://github.com/conda-forge/openblas-feedstock.git
+[submodule "erlang"]
+	path = feedstocks/erlang
+	url = https://github.com/conda-forge/erlang-feedstock.git
