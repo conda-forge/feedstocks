@@ -1308,3 +1308,6 @@
 [submodule "invoke"]
 	path = feedstocks/invoke
 	url = https://github.com/conda-forge/invoke-feedstock.git
+[submodule "phreeqpy"]
+	path = feedstocks/phreeqpy
+	url = https://github.com/conda-forge/phreeqpy-feedstock.git
