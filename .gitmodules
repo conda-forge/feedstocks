@@ -1296,3 +1296,6 @@
 [submodule "fontconfig"]
 	path = feedstocks/fontconfig
 	url = https://github.com/conda-forge/fontconfig-feedstock.git
+[submodule "pyomo"]
+	path = feedstocks/pyomo
+	url = https://github.com/conda-forge/pyomo-feedstock.git
