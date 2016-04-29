@@ -1299,3 +1299,6 @@
 [submodule "pyomo"]
 	path = feedstocks/pyomo
 	url = https://github.com/conda-forge/pyomo-feedstock.git
+[submodule "cairo"]
+	path = feedstocks/cairo
+	url = https://github.com/conda-forge/cairo-feedstock.git
