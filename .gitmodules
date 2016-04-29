@@ -1305,3 +1305,6 @@
 [submodule "eccodes"]
 	path = feedstocks/eccodes
 	url = https://github.com/conda-forge/eccodes-feedstock.git
+[submodule "invoke"]
+	path = feedstocks/invoke
+	url = https://github.com/conda-forge/invoke-feedstock.git
