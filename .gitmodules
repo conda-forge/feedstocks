@@ -1317,3 +1317,12 @@
 [submodule "bob.ip.base"]
 	path = feedstocks/bob.ip.base
 	url = https://github.com/conda-forge/bob.ip.base-feedstock.git
+[submodule "bob.db.casia_fasd"]
+	path = feedstocks/bob.db.casia_fasd
+	url = https://github.com/conda-forge/bob.db.casia_fasd-feedstock.git
+[submodule "bob.db.msu_mfsd_mod"]
+	path = feedstocks/bob.db.msu_mfsd_mod
+	url = https://github.com/conda-forge/bob.db.msu_mfsd_mod-feedstock.git
+[submodule "bob.db.voxforge"]
+	path = feedstocks/bob.db.voxforge
+	url = https://github.com/conda-forge/bob.db.voxforge-feedstock.git
