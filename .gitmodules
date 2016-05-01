@@ -1326,3 +1326,6 @@
 [submodule "bob.db.voxforge"]
 	path = feedstocks/bob.db.voxforge
 	url = https://github.com/conda-forge/bob.db.voxforge-feedstock.git
+[submodule "tabulate"]
+	path = feedstocks/tabulate
+	url = https://github.com/conda-forge/tabulate-feedstock.git
