@@ -1350,3 +1350,9 @@
 [submodule "pika"]
 	path = feedstocks/pika
 	url = https://github.com/conda-forge/pika-feedstock.git
+[submodule "miktex"]
+	path = feedstocks/miktex
+	url = https://github.com/conda-forge/miktex-feedstock.git
+[submodule "rejected"]
+	path = feedstocks/rejected
+	url = https://github.com/conda-forge/rejected-feedstock.git
