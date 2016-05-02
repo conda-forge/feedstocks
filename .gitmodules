@@ -1347,3 +1347,9 @@
 [submodule "helper"]
 	path = feedstocks/helper
 	url = https://github.com/conda-forge/helper-feedstock.git
+[submodule "miktex-portable"]
+	path = feedstocks/miktex-portable
+	url = https://github.com/conda-forge/miktex-portable-feedstock.git
+[submodule "pika"]
+	path = feedstocks/pika
+	url = https://github.com/conda-forge/pika-feedstock.git
