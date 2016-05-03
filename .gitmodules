@@ -1392,3 +1392,9 @@
 [submodule "feather-format"]
 	path = feedstocks/feather-format
 	url = https://github.com/conda-forge/feather-format-feedstock.git
+[submodule "mpmath"]
+	path = feedstocks/mpmath
+	url = https://github.com/conda-forge/mpmath-feedstock.git
+[submodule "sympy"]
+	path = feedstocks/sympy
+	url = https://github.com/conda-forge/sympy-feedstock.git
