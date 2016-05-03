@@ -1374,3 +1374,6 @@
 [submodule "bob.learn.em"]
 	path = feedstocks/bob.learn.em
 	url = https://github.com/conda-forge/bob.learn.em-feedstock.git
+[submodule "nose"]
+	path = feedstocks/nose
+	url = https://github.com/conda-forge/nose-feedstock.git
