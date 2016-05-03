@@ -1389,3 +1389,6 @@
 [submodule "pandas"]
 	path = feedstocks/pandas
 	url = https://github.com/conda-forge/pandas-feedstock.git
+[submodule "feather-format"]
+	path = feedstocks/feather-format
+	url = https://github.com/conda-forge/feather-format-feedstock.git
