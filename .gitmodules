@@ -1368,3 +1368,9 @@
 [submodule "serpent"]
 	path = feedstocks/serpent
 	url = https://github.com/conda-forge/serpent-feedstock.git
+[submodule "bob.ip.facedetect"]
+	path = feedstocks/bob.ip.facedetect
+	url = https://github.com/conda-forge/bob.ip.facedetect-feedstock.git
+[submodule "bob.learn.em"]
+	path = feedstocks/bob.learn.em
+	url = https://github.com/conda-forge/bob.learn.em-feedstock.git
