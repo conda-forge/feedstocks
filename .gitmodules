@@ -1359,3 +1359,12 @@
 [submodule "jinja2"]
 	path = feedstocks/jinja2
 	url = https://github.com/conda-forge/jinja2-feedstock.git
+[submodule "bob.db.avspoof"]
+	path = feedstocks/bob.db.avspoof
+	url = https://github.com/conda-forge/bob.db.avspoof-feedstock.git
+[submodule "dateutil"]
+	path = feedstocks/dateutil
+	url = https://github.com/conda-forge/dateutil-feedstock.git
+[submodule "serpent"]
+	path = feedstocks/serpent
+	url = https://github.com/conda-forge/serpent-feedstock.git
