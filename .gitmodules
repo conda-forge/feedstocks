@@ -1380,3 +1380,6 @@
 [submodule "spyder"]
 	path = feedstocks/spyder
 	url = https://github.com/conda-forge/spyder-feedstock.git
+[submodule "cython"]
+	path = feedstocks/cython
+	url = https://github.com/conda-forge/cython-feedstock.git
