@@ -1398,3 +1398,9 @@
 [submodule "sympy"]
 	path = feedstocks/sympy
 	url = https://github.com/conda-forge/sympy-feedstock.git
+[submodule "jupyterhub"]
+	path = feedstocks/jupyterhub
+	url = https://github.com/conda-forge/jupyterhub-feedstock.git
+[submodule "pamela"]
+	path = feedstocks/pamela
+	url = https://github.com/conda-forge/pamela-feedstock.git
