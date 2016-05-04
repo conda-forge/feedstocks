@@ -1407,3 +1407,9 @@
 [submodule "bob.bio.base"]
 	path = feedstocks/bob.bio.base
 	url = https://github.com/conda-forge/bob.bio.base-feedstock.git
+[submodule "bob.bio.gmm"]
+	path = feedstocks/bob.bio.gmm
+	url = https://github.com/conda-forge/bob.bio.gmm-feedstock.git
+[submodule "bob.bio.spear"]
+	path = feedstocks/bob.bio.spear
+	url = https://github.com/conda-forge/bob.bio.spear-feedstock.git
