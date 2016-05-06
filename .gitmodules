@@ -1431,3 +1431,6 @@
 [submodule "pyhamcrest"]
 	path = feedstocks/pyhamcrest
 	url = https://github.com/conda-forge/pyhamcrest-feedstock.git
+[submodule "ca-certificates"]
+	path = feedstocks/ca-certificates
+	url = https://github.com/conda-forge/ca-certificates-feedstock.git
