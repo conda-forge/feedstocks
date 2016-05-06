@@ -1434,3 +1434,6 @@
 [submodule "ca-certificates"]
 	path = feedstocks/ca-certificates
 	url = https://github.com/conda-forge/ca-certificates-feedstock.git
+[submodule "gnureadline"]
+	path = feedstocks/gnureadline
+	url = https://github.com/conda-forge/gnureadline-feedstock.git
