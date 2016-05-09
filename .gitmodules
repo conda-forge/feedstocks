@@ -1446,3 +1446,6 @@
 [submodule "pypandoc"]
 	path = feedstocks/pypandoc
 	url = https://github.com/conda-forge/pypandoc-feedstock.git
+[submodule "bottleneck"]
+	path = feedstocks/bottleneck
+	url = https://github.com/conda-forge/bottleneck-feedstock.git
