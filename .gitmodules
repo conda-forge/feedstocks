@@ -1449,3 +1449,6 @@
 [submodule "bottleneck"]
 	path = feedstocks/bottleneck
 	url = https://github.com/conda-forge/bottleneck-feedstock.git
+[submodule "nose_parameterized"]
+	path = feedstocks/nose_parameterized
+	url = https://github.com/conda-forge/nose_parameterized-feedstock.git
