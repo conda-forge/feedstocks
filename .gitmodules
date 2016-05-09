@@ -1443,3 +1443,6 @@
 [submodule "vc"]
 	path = feedstocks/vc
 	url = https://github.com/conda-forge/vc-feedstock.git
+[submodule "pypandoc"]
+	path = feedstocks/pypandoc
+	url = https://github.com/conda-forge/pypandoc-feedstock.git
