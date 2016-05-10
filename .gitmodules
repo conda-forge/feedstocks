@@ -1479,3 +1479,6 @@
 [submodule "freetype"]
 	path = feedstocks/freetype
 	url = https://github.com/conda-forge/freetype-feedstock.git
+[submodule "flatbuffers"]
+	path = feedstocks/flatbuffers
+	url = https://github.com/conda-forge/flatbuffers-feedstock.git
