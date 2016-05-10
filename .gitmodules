@@ -1476,3 +1476,6 @@
 [submodule "pybind11"]
 	path = feedstocks/pybind11
 	url = https://github.com/conda-forge/pybind11-feedstock.git
+[submodule "freetype"]
+	path = feedstocks/freetype
+	url = https://github.com/conda-forge/freetype-feedstock.git
