@@ -1461,3 +1461,15 @@
 [submodule "six"]
 	path = feedstocks/six
 	url = https://github.com/conda-forge/six-feedstock.git
+[submodule "cdat-lite"]
+	path = feedstocks/cdat-lite
+	url = https://github.com/conda-forge/cdat-lite-feedstock.git
+[submodule "cfchecker"]
+	path = feedstocks/cfchecker
+	url = https://github.com/conda-forge/cfchecker-feedstock.git
+[submodule "openssl"]
+	path = feedstocks/openssl
+	url = https://github.com/conda-forge/openssl-feedstock.git
+[submodule "pytz"]
+	path = feedstocks/pytz
+	url = https://github.com/conda-forge/pytz-feedstock.git
