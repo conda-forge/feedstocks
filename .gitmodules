@@ -1455,3 +1455,9 @@
 [submodule "glib"]
 	path = feedstocks/glib
 	url = https://github.com/conda-forge/glib-feedstock.git
+[submodule "nibabel"]
+	path = feedstocks/nibabel
+	url = https://github.com/conda-forge/nibabel-feedstock.git
+[submodule "six"]
+	path = feedstocks/six
+	url = https://github.com/conda-forge/six-feedstock.git
