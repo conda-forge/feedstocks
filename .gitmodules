@@ -1485,3 +1485,6 @@
 [submodule "capnproto"]
 	path = feedstocks/capnproto
 	url = https://github.com/conda-forge/capnproto-feedstock.git
+[submodule "sqlite"]
+	path = feedstocks/sqlite
+	url = https://github.com/conda-forge/sqlite-feedstock.git
