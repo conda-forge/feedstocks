@@ -1500,3 +1500,6 @@
 [submodule "glibmm"]
 	path = feedstocks/glibmm
 	url = https://github.com/conda-forge/glibmm-feedstock.git
+[submodule "thrift-cpp"]
+	path = feedstocks/thrift-cpp
+	url = https://github.com/conda-forge/thrift-cpp-feedstock.git
