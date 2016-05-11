@@ -1497,3 +1497,6 @@
 [submodule "pynfft"]
 	path = feedstocks/pynfft
 	url = https://github.com/conda-forge/pynfft-feedstock.git
+[submodule "glibmm"]
+	path = feedstocks/glibmm
+	url = https://github.com/conda-forge/glibmm-feedstock.git
