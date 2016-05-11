@@ -1488,3 +1488,12 @@
 [submodule "sqlite"]
 	path = feedstocks/sqlite
 	url = https://github.com/conda-forge/sqlite-feedstock.git
+[submodule "cunit"]
+	path = feedstocks/cunit
+	url = https://github.com/conda-forge/cunit-feedstock.git
+[submodule "nfft"]
+	path = feedstocks/nfft
+	url = https://github.com/conda-forge/nfft-feedstock.git
+[submodule "pynfft"]
+	path = feedstocks/pynfft
+	url = https://github.com/conda-forge/pynfft-feedstock.git
