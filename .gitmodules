@@ -1482,3 +1482,6 @@
 [submodule "flatbuffers"]
 	path = feedstocks/flatbuffers
 	url = https://github.com/conda-forge/flatbuffers-feedstock.git
+[submodule "capnproto"]
+	path = feedstocks/capnproto
+	url = https://github.com/conda-forge/capnproto-feedstock.git
