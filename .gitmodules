@@ -1362,9 +1362,6 @@
 [submodule "bob.db.avspoof"]
 	path = feedstocks/bob.db.avspoof
 	url = https://github.com/conda-forge/bob.db.avspoof-feedstock.git
-[submodule "dateutil"]
-	path = feedstocks/dateutil
-	url = https://github.com/conda-forge/dateutil-feedstock.git
 [submodule "serpent"]
 	path = feedstocks/serpent
 	url = https://github.com/conda-forge/serpent-feedstock.git
@@ -1506,3 +1503,15 @@
 [submodule "libxmlpp"]
 	path = feedstocks/libxmlpp
 	url = https://github.com/conda-forge/libxmlpp-feedstock.git
+[submodule "glueviz"]
+	path = feedstocks/glueviz
+	url = https://github.com/conda-forge/glueviz-feedstock.git
+[submodule "nilearn"]
+	path = feedstocks/nilearn
+	url = https://github.com/conda-forge/nilearn-feedstock.git
+[submodule "python-dateutil"]
+	path = feedstocks/python-dateutil
+	url = https://github.com/conda-forge/python-dateutil-feedstock.git
+[submodule "supervisor"]
+	path = feedstocks/supervisor
+	url = https://github.com/conda-forge/supervisor-feedstock.git
