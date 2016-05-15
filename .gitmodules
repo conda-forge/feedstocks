@@ -1524,3 +1524,6 @@
 [submodule "pycapnp"]
 	path = feedstocks/pycapnp
 	url = https://github.com/conda-forge/pycapnp-feedstock.git
+[submodule "qtconsole"]
+	path = feedstocks/qtconsole
+	url = https://github.com/conda-forge/qtconsole-feedstock.git
