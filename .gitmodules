@@ -1518,3 +1518,9 @@
 [submodule "glue-vispy-viewers"]
 	path = feedstocks/glue-vispy-viewers
 	url = https://github.com/conda-forge/glue-vispy-viewers-feedstock.git
+[submodule "lua"]
+	path = feedstocks/lua
+	url = https://github.com/conda-forge/lua-feedstock.git
+[submodule "pycapnp"]
+	path = feedstocks/pycapnp
+	url = https://github.com/conda-forge/pycapnp-feedstock.git
