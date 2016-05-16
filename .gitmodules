@@ -1536,3 +1536,6 @@
 [submodule "readline"]
 	path = feedstocks/readline
 	url = https://github.com/conda-forge/readline-feedstock.git
+[submodule "distributed"]
+	path = feedstocks/distributed
+	url = https://github.com/conda-forge/distributed-feedstock.git
