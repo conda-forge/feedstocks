@@ -1527,3 +1527,6 @@
 [submodule "qtconsole"]
 	path = feedstocks/qtconsole
 	url = https://github.com/conda-forge/qtconsole-feedstock.git
+[submodule "coincbc"]
+	path = feedstocks/coincbc
+	url = https://github.com/conda-forge/coincbc-feedstock.git
