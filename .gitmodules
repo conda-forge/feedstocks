@@ -1530,3 +1530,9 @@
 [submodule "coincbc"]
 	path = feedstocks/coincbc
 	url = https://github.com/conda-forge/coincbc-feedstock.git
+[submodule "doct"]
+	path = feedstocks/doct
+	url = https://github.com/conda-forge/doct-feedstock.git
+[submodule "readline"]
+	path = feedstocks/readline
+	url = https://github.com/conda-forge/readline-feedstock.git
