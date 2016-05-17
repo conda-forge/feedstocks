@@ -1551,3 +1551,9 @@
 [submodule "wcsaxes"]
 	path = feedstocks/wcsaxes
 	url = https://github.com/conda-forge/wcsaxes-feedstock.git
+[submodule "s3fs"]
+	path = feedstocks/s3fs
+	url = https://github.com/conda-forge/s3fs-feedstock.git
+[submodule "tbb"]
+	path = feedstocks/tbb
+	url = https://github.com/conda-forge/tbb-feedstock.git
