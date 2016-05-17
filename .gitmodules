@@ -1542,3 +1542,12 @@
 [submodule "dask"]
 	path = feedstocks/dask
 	url = https://github.com/conda-forge/dask-feedstock.git
+[submodule "glymur"]
+	path = feedstocks/glymur
+	url = https://github.com/conda-forge/glymur-feedstock.git
+[submodule "sunpy"]
+	path = feedstocks/sunpy
+	url = https://github.com/conda-forge/sunpy-feedstock.git
+[submodule "wcsaxes"]
+	path = feedstocks/wcsaxes
+	url = https://github.com/conda-forge/wcsaxes-feedstock.git
