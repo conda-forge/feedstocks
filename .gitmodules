@@ -1566,3 +1566,6 @@
 [submodule "zarr"]
 	path = feedstocks/zarr
 	url = https://github.com/conda-forge/zarr-feedstock.git
+[submodule "toolchain"]
+	path = feedstocks/toolchain
+	url = https://github.com/conda-forge/toolchain-feedstock.git
