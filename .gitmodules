@@ -1557,3 +1557,12 @@
 [submodule "tbb"]
 	path = feedstocks/tbb
 	url = https://github.com/conda-forge/tbb-feedstock.git
+[submodule "fasteners"]
+	path = feedstocks/fasteners
+	url = https://github.com/conda-forge/fasteners-feedstock.git
+[submodule "monotonic"]
+	path = feedstocks/monotonic
+	url = https://github.com/conda-forge/monotonic-feedstock.git
+[submodule "zarr"]
+	path = feedstocks/zarr
+	url = https://github.com/conda-forge/zarr-feedstock.git
