@@ -1575,3 +1575,24 @@
 [submodule "tk"]
 	path = feedstocks/tk
 	url = https://github.com/conda-forge/tk-feedstock.git
+[submodule "arrow"]
+	path = feedstocks/arrow
+	url = https://github.com/conda-forge/arrow-feedstock.git
+[submodule "binaryornot"]
+	path = feedstocks/binaryornot
+	url = https://github.com/conda-forge/binaryornot-feedstock.git
+[submodule "cookiecutter"]
+	path = feedstocks/cookiecutter
+	url = https://github.com/conda-forge/cookiecutter-feedstock.git
+[submodule "jinja2-time"]
+	path = feedstocks/jinja2-time
+	url = https://github.com/conda-forge/jinja2-time-feedstock.git
+[submodule "lapack"]
+	path = feedstocks/lapack
+	url = https://github.com/conda-forge/lapack-feedstock.git
+[submodule "poyo"]
+	path = feedstocks/poyo
+	url = https://github.com/conda-forge/poyo-feedstock.git
+[submodule "whichcraft"]
+	path = feedstocks/whichcraft
+	url = https://github.com/conda-forge/whichcraft-feedstock.git
