@@ -1608,3 +1608,6 @@
 [submodule "nlopt"]
 	path = feedstocks/nlopt
 	url = https://github.com/conda-forge/nlopt-feedstock.git
+[submodule "blas"]
+	path = feedstocks/blas
+	url = https://github.com/conda-forge/blas-feedstock.git
