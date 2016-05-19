@@ -1611,3 +1611,6 @@
 [submodule "blas"]
 	path = feedstocks/blas
 	url = https://github.com/conda-forge/blas-feedstock.git
+[submodule "curl"]
+	path = feedstocks/curl
+	url = https://github.com/conda-forge/curl-feedstock.git
