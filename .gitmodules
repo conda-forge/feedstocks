@@ -1623,3 +1623,6 @@
 [submodule "pvlib-python"]
 	path = feedstocks/pvlib-python
 	url = https://github.com/conda-forge/pvlib-python-feedstock.git
+[submodule "python"]
+	path = feedstocks/python
+	url = https://github.com/conda-forge/python-feedstock.git
