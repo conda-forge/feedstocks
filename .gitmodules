@@ -1617,3 +1617,9 @@
 [submodule "libgsasl"]
 	path = feedstocks/libgsasl
 	url = https://github.com/conda-forge/libgsasl-feedstock.git
+[submodule "libntlm"]
+	path = feedstocks/libntlm
+	url = https://github.com/conda-forge/libntlm-feedstock.git
+[submodule "pvlib-python"]
+	path = feedstocks/pvlib-python
+	url = https://github.com/conda-forge/pvlib-python-feedstock.git
