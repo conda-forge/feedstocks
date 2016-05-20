@@ -1629,3 +1629,6 @@
 [submodule "numpy"]
 	path = feedstocks/numpy
 	url = https://github.com/conda-forge/numpy-feedstock.git
+[submodule "uwsgi"]
+	path = feedstocks/uwsgi
+	url = https://github.com/conda-forge/uwsgi-feedstock.git
