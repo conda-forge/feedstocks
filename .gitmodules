@@ -1614,3 +1614,6 @@
 [submodule "curl"]
 	path = feedstocks/curl
 	url = https://github.com/conda-forge/curl-feedstock.git
+[submodule "libgsasl"]
+	path = feedstocks/libgsasl
+	url = https://github.com/conda-forge/libgsasl-feedstock.git
