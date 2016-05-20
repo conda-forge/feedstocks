@@ -1626,3 +1626,6 @@
 [submodule "python"]
 	path = feedstocks/python
 	url = https://github.com/conda-forge/python-feedstock.git
+[submodule "numpy"]
+	path = feedstocks/numpy
+	url = https://github.com/conda-forge/numpy-feedstock.git
