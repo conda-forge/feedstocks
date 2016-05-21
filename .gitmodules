@@ -1647,3 +1647,6 @@
 [submodule "lmfit"]
 	path = feedstocks/lmfit
 	url = https://github.com/conda-forge/lmfit-feedstock.git
+[submodule "scikit-image"]
+	path = feedstocks/scikit-image
+	url = https://github.com/conda-forge/scikit-image-feedstock.git
