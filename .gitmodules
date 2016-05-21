@@ -1632,3 +1632,6 @@
 [submodule "uwsgi"]
 	path = feedstocks/uwsgi
 	url = https://github.com/conda-forge/uwsgi-feedstock.git
+[submodule "scipy"]
+	path = feedstocks/scipy
+	url = https://github.com/conda-forge/scipy-feedstock.git
