@@ -1638,3 +1638,12 @@
 [submodule "libhdfs3"]
 	path = feedstocks/libhdfs3
 	url = https://github.com/conda-forge/libhdfs3-feedstock.git
+[submodule "dec2"]
+	path = feedstocks/dec2
+	url = https://github.com/conda-forge/dec2-feedstock.git
+[submodule "emcee"]
+	path = feedstocks/emcee
+	url = https://github.com/conda-forge/emcee-feedstock.git
+[submodule "lmfit"]
+	path = feedstocks/lmfit
+	url = https://github.com/conda-forge/lmfit-feedstock.git
