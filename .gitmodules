@@ -1656,3 +1656,6 @@
 [submodule "python-spams"]
 	path = feedstocks/python-spams
 	url = https://github.com/conda-forge/python-spams-feedstock.git
+[submodule "holoviews"]
+	path = feedstocks/holoviews
+	url = https://github.com/conda-forge/holoviews-feedstock.git
