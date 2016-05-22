@@ -1659,3 +1659,6 @@
 [submodule "holoviews"]
 	path = feedstocks/holoviews
 	url = https://github.com/conda-forge/holoviews-feedstock.git
+[submodule "cvxopt"]
+	path = feedstocks/cvxopt
+	url = https://github.com/conda-forge/cvxopt-feedstock.git
