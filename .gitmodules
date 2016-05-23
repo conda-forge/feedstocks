@@ -1665,3 +1665,6 @@
 [submodule "libnetcdf"]
 	path = feedstocks/libnetcdf
 	url = https://github.com/conda-forge/libnetcdf-feedstock.git
+[submodule "hmat-oss"]
+	path = feedstocks/hmat-oss
+	url = https://github.com/conda-forge/hmat-oss-feedstock.git
