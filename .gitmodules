@@ -1662,3 +1662,6 @@
 [submodule "cvxopt"]
 	path = feedstocks/cvxopt
 	url = https://github.com/conda-forge/cvxopt-feedstock.git
+[submodule "libnetcdf"]
+	path = feedstocks/libnetcdf
+	url = https://github.com/conda-forge/libnetcdf-feedstock.git
