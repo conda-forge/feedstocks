@@ -1677,3 +1677,6 @@
 [submodule "libgd"]
 	path = feedstocks/libgd
 	url = https://github.com/conda-forge/libgd-feedstock.git
+[submodule "event-model"]
+	path = feedstocks/event-model
+	url = https://github.com/conda-forge/event-model-feedstock.git
