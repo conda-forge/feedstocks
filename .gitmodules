@@ -1680,3 +1680,12 @@
 [submodule "event-model"]
 	path = feedstocks/event-model
 	url = https://github.com/conda-forge/event-model-feedstock.git
+[submodule "args"]
+	path = feedstocks/args
+	url = https://github.com/conda-forge/args-feedstock.git
+[submodule "clint"]
+	path = feedstocks/clint
+	url = https://github.com/conda-forge/clint-feedstock.git
+[submodule "pkginfo"]
+	path = feedstocks/pkginfo
+	url = https://github.com/conda-forge/pkginfo-feedstock.git
