@@ -1671,3 +1671,6 @@
 [submodule "freeglut"]
 	path = feedstocks/freeglut
 	url = https://github.com/conda-forge/freeglut-feedstock.git
+[submodule "pyro4"]
+	path = feedstocks/pyro4
+	url = https://github.com/conda-forge/pyro4-feedstock.git
