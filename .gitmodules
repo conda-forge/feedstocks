@@ -1695,3 +1695,6 @@
 [submodule "boltons"]
 	path = feedstocks/boltons
 	url = https://github.com/conda-forge/boltons-feedstock.git
+[submodule "keyring"]
+	path = feedstocks/keyring
+	url = https://github.com/conda-forge/keyring-feedstock.git
