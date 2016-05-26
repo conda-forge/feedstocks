@@ -1698,3 +1698,9 @@
 [submodule "keyring"]
 	path = feedstocks/keyring
 	url = https://github.com/conda-forge/keyring-feedstock.git
+[submodule "line_profiler"]
+	path = feedstocks/line_profiler
+	url = https://github.com/conda-forge/line_profiler-feedstock.git
+[submodule "memory_profiler"]
+	path = feedstocks/memory_profiler
+	url = https://github.com/conda-forge/memory_profiler-feedstock.git
