@@ -1707,3 +1707,6 @@
 [submodule "openturns"]
 	path = feedstocks/openturns
 	url = https://github.com/conda-forge/openturns-feedstock.git
+[submodule "ipycache"]
+	path = feedstocks/ipycache
+	url = https://github.com/conda-forge/ipycache-feedstock.git
