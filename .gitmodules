@@ -1722,3 +1722,6 @@
 [submodule "xraylib"]
 	path = feedstocks/xraylib
 	url = https://github.com/conda-forge/xraylib-feedstock.git
+[submodule "pyomo.extras"]
+	path = feedstocks/pyomo.extras
+	url = https://github.com/conda-forge/pyomo.extras-feedstock.git
