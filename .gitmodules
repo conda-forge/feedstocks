@@ -1713,3 +1713,12 @@
 [submodule "effect"]
 	path = feedstocks/effect
 	url = https://github.com/conda-forge/effect-feedstock.git
+[submodule "historydict"]
+	path = feedstocks/historydict
+	url = https://github.com/conda-forge/historydict-feedstock.git
+[submodule "slicerator"]
+	path = feedstocks/slicerator
+	url = https://github.com/conda-forge/slicerator-feedstock.git
+[submodule "xraylib"]
+	path = feedstocks/xraylib
+	url = https://github.com/conda-forge/xraylib-feedstock.git
