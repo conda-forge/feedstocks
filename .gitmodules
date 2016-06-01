@@ -1728,3 +1728,6 @@
 [submodule "m2crypto"]
 	path = feedstocks/m2crypto
 	url = https://github.com/conda-forge/m2crypto-feedstock.git
+[submodule "suitesparse"]
+	path = feedstocks/suitesparse
+	url = https://github.com/conda-forge/suitesparse-feedstock.git
