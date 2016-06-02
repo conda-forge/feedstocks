@@ -1731,3 +1731,9 @@
 [submodule "suitesparse"]
 	path = feedstocks/suitesparse
 	url = https://github.com/conda-forge/suitesparse-feedstock.git
+[submodule "pycosat"]
+	path = feedstocks/pycosat
+	url = https://github.com/conda-forge/pycosat-feedstock.git
+[submodule "requests"]
+	path = feedstocks/requests
+	url = https://github.com/conda-forge/requests-feedstock.git
