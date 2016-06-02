@@ -1737,3 +1737,6 @@
 [submodule "requests"]
 	path = feedstocks/requests
 	url = https://github.com/conda-forge/requests-feedstock.git
+[submodule "yaml"]
+	path = feedstocks/yaml
+	url = https://github.com/conda-forge/yaml-feedstock.git
