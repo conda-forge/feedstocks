@@ -1743,3 +1743,6 @@
 [submodule "python-simplegeneric"]
 	path = feedstocks/python-simplegeneric
 	url = https://github.com/conda-forge/python-simplegeneric-feedstock.git
+[submodule "pyyaml"]
+	path = feedstocks/pyyaml
+	url = https://github.com/conda-forge/pyyaml-feedstock.git
