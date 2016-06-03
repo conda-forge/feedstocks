@@ -1752,3 +1752,9 @@
 [submodule "healpy"]
 	path = feedstocks/healpy
 	url = https://github.com/conda-forge/healpy-feedstock.git
+[submodule "cytoolz"]
+	path = feedstocks/cytoolz
+	url = https://github.com/conda-forge/cytoolz-feedstock.git
+[submodule "toolz"]
+	path = feedstocks/toolz
+	url = https://github.com/conda-forge/toolz-feedstock.git
