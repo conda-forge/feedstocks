@@ -1761,3 +1761,12 @@
 [submodule "vega"]
 	path = feedstocks/vega
 	url = https://github.com/conda-forge/vega-feedstock.git
+[submodule "python-decorator"]
+	path = feedstocks/python-decorator
+	url = https://github.com/conda-forge/python-decorator-feedstock.git
+[submodule "python-neo"]
+	path = feedstocks/python-neo
+	url = https://github.com/conda-forge/python-neo-feedstock.git
+[submodule "tqdm"]
+	path = feedstocks/tqdm
+	url = https://github.com/conda-forge/tqdm-feedstock.git
