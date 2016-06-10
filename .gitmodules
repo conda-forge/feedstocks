@@ -1794,3 +1794,12 @@
 [submodule "salt"]
 	path = feedstocks/salt
 	url = https://github.com/conda-forge/salt-feedstock.git
+[submodule "dill"]
+	path = feedstocks/dill
+	url = https://github.com/conda-forge/dill-feedstock.git
+[submodule "namedlist"]
+	path = feedstocks/namedlist
+	url = https://github.com/conda-forge/namedlist-feedstock.git
+[submodule "y_serial"]
+	path = feedstocks/y_serial
+	url = https://github.com/conda-forge/y_serial-feedstock.git
