@@ -1788,3 +1788,9 @@
 [submodule "tika"]
 	path = feedstocks/tika
 	url = https://github.com/conda-forge/tika-feedstock.git
+[submodule "apache-libcloud"]
+	path = feedstocks/apache-libcloud
+	url = https://github.com/conda-forge/apache-libcloud-feedstock.git
+[submodule "salt"]
+	path = feedstocks/salt
+	url = https://github.com/conda-forge/salt-feedstock.git
