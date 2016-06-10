@@ -1803,3 +1803,6 @@
 [submodule "y_serial"]
 	path = feedstocks/y_serial
 	url = https://github.com/conda-forge/y_serial-feedstock.git
+[submodule "cmocean"]
+	path = feedstocks/cmocean
+	url = https://github.com/conda-forge/cmocean-feedstock.git
