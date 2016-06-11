@@ -1806,3 +1806,9 @@
 [submodule "cmocean"]
 	path = feedstocks/cmocean
 	url = https://github.com/conda-forge/cmocean-feedstock.git
+[submodule "locket"]
+	path = feedstocks/locket
+	url = https://github.com/conda-forge/locket-feedstock.git
+[submodule "partd"]
+	path = feedstocks/partd
+	url = https://github.com/conda-forge/partd-feedstock.git
