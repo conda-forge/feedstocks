@@ -1812,3 +1812,6 @@
 [submodule "partd"]
 	path = feedstocks/partd
 	url = https://github.com/conda-forge/partd-feedstock.git
+[submodule "pykalman"]
+	path = feedstocks/pykalman
+	url = https://github.com/conda-forge/pykalman-feedstock.git
