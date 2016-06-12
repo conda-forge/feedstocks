@@ -1815,3 +1815,6 @@
 [submodule "pykalman"]
 	path = feedstocks/pykalman
 	url = https://github.com/conda-forge/pykalman-feedstock.git
+[submodule "statsd"]
+	path = feedstocks/statsd
+	url = https://github.com/conda-forge/statsd-feedstock.git
