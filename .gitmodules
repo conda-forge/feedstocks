@@ -1818,3 +1818,6 @@
 [submodule "statsd"]
 	path = feedstocks/statsd
 	url = https://github.com/conda-forge/statsd-feedstock.git
+[submodule "pyparsing"]
+	path = feedstocks/pyparsing
+	url = https://github.com/conda-forge/pyparsing-feedstock.git
