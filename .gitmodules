@@ -1821,3 +1821,36 @@
 [submodule "pyparsing"]
 	path = feedstocks/pyparsing
 	url = https://github.com/conda-forge/pyparsing-feedstock.git
+[submodule "autopep8"]
+	path = feedstocks/autopep8
+	url = https://github.com/conda-forge/autopep8-feedstock.git
+[submodule "dcmstack"]
+	path = feedstocks/dcmstack
+	url = https://github.com/conda-forge/dcmstack-feedstock.git
+[submodule "deap"]
+	path = feedstocks/deap
+	url = https://github.com/conda-forge/deap-feedstock.git
+[submodule "graphviz"]
+	path = feedstocks/graphviz
+	url = https://github.com/conda-forge/graphviz-feedstock.git
+[submodule "hdfs3"]
+	path = feedstocks/hdfs3
+	url = https://github.com/conda-forge/hdfs3-feedstock.git
+[submodule "krb5"]
+	path = feedstocks/krb5
+	url = https://github.com/conda-forge/krb5-feedstock.git
+[submodule "matplotlib-venn"]
+	path = feedstocks/matplotlib-venn
+	url = https://github.com/conda-forge/matplotlib-venn-feedstock.git
+[submodule "nb_conda_kernels"]
+	path = feedstocks/nb_conda_kernels
+	url = https://github.com/conda-forge/nb_conda_kernels-feedstock.git
+[submodule "pep8"]
+	path = feedstocks/pep8
+	url = https://github.com/conda-forge/pep8-feedstock.git
+[submodule "pycodestyle"]
+	path = feedstocks/pycodestyle
+	url = https://github.com/conda-forge/pycodestyle-feedstock.git
+[submodule "python-eccodes"]
+	path = feedstocks/python-eccodes
+	url = https://github.com/conda-forge/python-eccodes-feedstock.git
