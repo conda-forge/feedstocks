@@ -1854,3 +1854,6 @@
 [submodule "python-eccodes"]
 	path = feedstocks/python-eccodes
 	url = https://github.com/conda-forge/python-eccodes-feedstock.git
+[submodule "yapf"]
+	path = feedstocks/yapf
+	url = https://github.com/conda-forge/yapf-feedstock.git
