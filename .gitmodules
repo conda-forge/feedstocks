@@ -1857,3 +1857,51 @@
 [submodule "yapf"]
 	path = feedstocks/yapf
 	url = https://github.com/conda-forge/yapf-feedstock.git
+[submodule "azure-common"]
+	path = feedstocks/azure-common
+	url = https://github.com/conda-forge/azure-common-feedstock.git
+[submodule "azure"]
+	path = feedstocks/azure
+	url = https://github.com/conda-forge/azure-feedstock.git
+[submodule "azure-mgmt-common"]
+	path = feedstocks/azure-mgmt-common
+	url = https://github.com/conda-forge/azure-mgmt-common-feedstock.git
+[submodule "azure-mgmt-compute"]
+	path = feedstocks/azure-mgmt-compute
+	url = https://github.com/conda-forge/azure-mgmt-compute-feedstock.git
+[submodule "azure-mgmt"]
+	path = feedstocks/azure-mgmt
+	url = https://github.com/conda-forge/azure-mgmt-feedstock.git
+[submodule "azure-mgmt-network"]
+	path = feedstocks/azure-mgmt-network
+	url = https://github.com/conda-forge/azure-mgmt-network-feedstock.git
+[submodule "azure-mgmt-nspkg"]
+	path = feedstocks/azure-mgmt-nspkg
+	url = https://github.com/conda-forge/azure-mgmt-nspkg-feedstock.git
+[submodule "azure-mgmt-resource"]
+	path = feedstocks/azure-mgmt-resource
+	url = https://github.com/conda-forge/azure-mgmt-resource-feedstock.git
+[submodule "azure-mgmt-storage"]
+	path = feedstocks/azure-mgmt-storage
+	url = https://github.com/conda-forge/azure-mgmt-storage-feedstock.git
+[submodule "azure-nspkg"]
+	path = feedstocks/azure-nspkg
+	url = https://github.com/conda-forge/azure-nspkg-feedstock.git
+[submodule "azure-servicebus"]
+	path = feedstocks/azure-servicebus
+	url = https://github.com/conda-forge/azure-servicebus-feedstock.git
+[submodule "azure-servicemanagement-legacy"]
+	path = feedstocks/azure-servicemanagement-legacy
+	url = https://github.com/conda-forge/azure-servicemanagement-legacy-feedstock.git
+[submodule "azure-storage"]
+	path = feedstocks/azure-storage
+	url = https://github.com/conda-forge/azure-storage-feedstock.git
+[submodule "cc-plugin-ncei"]
+	path = feedstocks/cc-plugin-ncei
+	url = https://github.com/conda-forge/cc-plugin-ncei-feedstock.git
+[submodule "cherrypy"]
+	path = feedstocks/cherrypy
+	url = https://github.com/conda-forge/cherrypy-feedstock.git
+[submodule "texlive-core"]
+	path = feedstocks/texlive-core
+	url = https://github.com/conda-forge/texlive-core-feedstock.git
