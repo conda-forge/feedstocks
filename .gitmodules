@@ -1905,3 +1905,24 @@
 [submodule "texlive-core"]
 	path = feedstocks/texlive-core
 	url = https://github.com/conda-forge/texlive-core-feedstock.git
+[submodule "brewer2mpl"]
+	path = feedstocks/brewer2mpl
+	url = https://github.com/conda-forge/brewer2mpl-feedstock.git
+[submodule "ggplot"]
+	path = feedstocks/ggplot
+	url = https://github.com/conda-forge/ggplot-feedstock.git
+[submodule "pycrypto"]
+	path = feedstocks/pycrypto
+	url = https://github.com/conda-forge/pycrypto-feedstock.git
+[submodule "python-symengine"]
+	path = feedstocks/python-symengine
+	url = https://github.com/conda-forge/python-symengine-feedstock.git
+[submodule "scikit-sparse"]
+	path = feedstocks/scikit-sparse
+	url = https://github.com/conda-forge/scikit-sparse-feedstock.git
+[submodule "scikit-umfpack"]
+	path = feedstocks/scikit-umfpack
+	url = https://github.com/conda-forge/scikit-umfpack-feedstock.git
+[submodule "symengine"]
+	path = feedstocks/symengine
+	url = https://github.com/conda-forge/symengine-feedstock.git
