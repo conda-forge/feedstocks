@@ -1926,3 +1926,12 @@
 [submodule "symengine"]
 	path = feedstocks/symengine
 	url = https://github.com/conda-forge/symengine-feedstock.git
+[submodule "geoalchemy2"]
+	path = feedstocks/geoalchemy2
+	url = https://github.com/conda-forge/geoalchemy2-feedstock.git
+[submodule "numpy-indexed"]
+	path = feedstocks/numpy-indexed
+	url = https://github.com/conda-forge/numpy-indexed-feedstock.git
+[submodule "phonenumbers"]
+	path = feedstocks/phonenumbers
+	url = https://github.com/conda-forge/phonenumbers-feedstock.git
