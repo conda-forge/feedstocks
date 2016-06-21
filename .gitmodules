@@ -1935,3 +1935,21 @@
 [submodule "phonenumbers"]
 	path = feedstocks/phonenumbers
 	url = https://github.com/conda-forge/phonenumbers-feedstock.git
+[submodule "django-rest-hooks"]
+	path = feedstocks/django-rest-hooks
+	url = https://github.com/conda-forge/django-rest-hooks-feedstock.git
+[submodule "findspark"]
+	path = feedstocks/findspark
+	url = https://github.com/conda-forge/findspark-feedstock.git
+[submodule "libarchive"]
+	path = feedstocks/libarchive
+	url = https://github.com/conda-forge/libarchive-feedstock.git
+[submodule "mutagen"]
+	path = feedstocks/mutagen
+	url = https://github.com/conda-forge/mutagen-feedstock.git
+[submodule "packaging"]
+	path = feedstocks/packaging
+	url = https://github.com/conda-forge/packaging-feedstock.git
+[submodule "vs2015_runtime"]
+	path = feedstocks/vs2015_runtime
+	url = https://github.com/conda-forge/vs2015_runtime-feedstock.git
