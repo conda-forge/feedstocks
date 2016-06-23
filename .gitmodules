@@ -1974,3 +1974,9 @@
 [submodule "tinydb"]
 	path = feedstocks/tinydb
 	url = https://github.com/conda-forge/tinydb-feedstock.git
+[submodule "ecmwf-api-client"]
+	path = feedstocks/ecmwf-api-client
+	url = https://github.com/conda-forge/ecmwf-api-client-feedstock.git
+[submodule "ffx"]
+	path = feedstocks/ffx
+	url = https://github.com/conda-forge/ffx-feedstock.git
