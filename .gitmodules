@@ -1953,3 +1953,24 @@
 [submodule "vs2015_runtime"]
 	path = feedstocks/vs2015_runtime
 	url = https://github.com/conda-forge/vs2015_runtime-feedstock.git
+[submodule "jsoncpp"]
+	path = feedstocks/jsoncpp
+	url = https://github.com/conda-forge/jsoncpp-feedstock.git
+[submodule "libmemcached"]
+	path = feedstocks/libmemcached
+	url = https://github.com/conda-forge/libmemcached-feedstock.git
+[submodule "mongoquery"]
+	path = feedstocks/mongoquery
+	url = https://github.com/conda-forge/mongoquery-feedstock.git
+[submodule "pyopcode"]
+	path = feedstocks/pyopcode
+	url = https://github.com/conda-forge/pyopcode-feedstock.git
+[submodule "scp"]
+	path = feedstocks/scp
+	url = https://github.com/conda-forge/scp-feedstock.git
+[submodule "slacker"]
+	path = feedstocks/slacker
+	url = https://github.com/conda-forge/slacker-feedstock.git
+[submodule "tinydb"]
+	path = feedstocks/tinydb
+	url = https://github.com/conda-forge/tinydb-feedstock.git
