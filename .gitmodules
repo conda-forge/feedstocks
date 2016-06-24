@@ -1980,3 +1980,45 @@
 [submodule "ffx"]
 	path = feedstocks/ffx
 	url = https://github.com/conda-forge/ffx-feedstock.git
+[submodule "clusterpy"]
+	path = feedstocks/clusterpy
+	url = https://github.com/conda-forge/clusterpy-feedstock.git
+[submodule "dxchange"]
+	path = feedstocks/dxchange
+	url = https://github.com/conda-forge/dxchange-feedstock.git
+[submodule "dxfile"]
+	path = feedstocks/dxfile
+	url = https://github.com/conda-forge/dxfile-feedstock.git
+[submodule "edffile"]
+	path = feedstocks/edffile
+	url = https://github.com/conda-forge/edffile-feedstock.git
+[submodule "flask-sqlalchemy"]
+	path = feedstocks/flask-sqlalchemy
+	url = https://github.com/conda-forge/flask-sqlalchemy-feedstock.git
+[submodule "happybase"]
+	path = feedstocks/happybase
+	url = https://github.com/conda-forge/happybase-feedstock.git
+[submodule "lifelines"]
+	path = feedstocks/lifelines
+	url = https://github.com/conda-forge/lifelines-feedstock.git
+[submodule "olefile"]
+	path = feedstocks/olefile
+	url = https://github.com/conda-forge/olefile-feedstock.git
+[submodule "pyaml"]
+	path = feedstocks/pyaml
+	url = https://github.com/conda-forge/pyaml-feedstock.git
+[submodule "pypdf2"]
+	path = feedstocks/pypdf2
+	url = https://github.com/conda-forge/pypdf2-feedstock.git
+[submodule "selenium"]
+	path = feedstocks/selenium
+	url = https://github.com/conda-forge/selenium-feedstock.git
+[submodule "speaklater"]
+	path = feedstocks/speaklater
+	url = https://github.com/conda-forge/speaklater-feedstock.git
+[submodule "spefile"]
+	path = feedstocks/spefile
+	url = https://github.com/conda-forge/spefile-feedstock.git
+[submodule "u3d"]
+	path = feedstocks/u3d
+	url = https://github.com/conda-forge/u3d-feedstock.git
