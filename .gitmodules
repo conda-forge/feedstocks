@@ -2022,3 +2022,12 @@
 [submodule "u3d"]
 	path = feedstocks/u3d
 	url = https://github.com/conda-forge/u3d-feedstock.git
+[submodule "tomopy"]
+	path = feedstocks/tomopy
+	url = https://github.com/conda-forge/tomopy-feedstock.git
+[submodule "urllib3"]
+	path = feedstocks/urllib3
+	url = https://github.com/conda-forge/urllib3-feedstock.git
+[submodule "vtk"]
+	path = feedstocks/vtk
+	url = https://github.com/conda-forge/vtk-feedstock.git
