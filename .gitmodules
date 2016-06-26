@@ -2031,3 +2031,12 @@
 [submodule "vtk"]
 	path = feedstocks/vtk
 	url = https://github.com/conda-forge/vtk-feedstock.git
+[submodule "backports.functools_lru_cache"]
+	path = feedstocks/backports.functools_lru_cache
+	url = https://github.com/conda-forge/backports.functools_lru_cache-feedstock.git
+[submodule "statsmodels"]
+	path = feedstocks/statsmodels
+	url = https://github.com/conda-forge/statsmodels-feedstock.git
+[submodule "ws4py"]
+	path = feedstocks/ws4py
+	url = https://github.com/conda-forge/ws4py-feedstock.git
