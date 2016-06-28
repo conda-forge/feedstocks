@@ -2043,3 +2043,30 @@
 [submodule "prettytable"]
 	path = feedstocks/prettytable
 	url = https://github.com/conda-forge/prettytable-feedstock.git
+[submodule "elasticsearch"]
+	path = feedstocks/elasticsearch
+	url = https://github.com/conda-forge/elasticsearch-feedstock.git
+[submodule "flake8"]
+	path = feedstocks/flake8
+	url = https://github.com/conda-forge/flake8-feedstock.git
+[submodule "humanize"]
+	path = feedstocks/humanize
+	url = https://github.com/conda-forge/humanize-feedstock.git
+[submodule "mccabe"]
+	path = feedstocks/mccabe
+	url = https://github.com/conda-forge/mccabe-feedstock.git
+[submodule "paste"]
+	path = feedstocks/paste
+	url = https://github.com/conda-forge/paste-feedstock.git
+[submodule "positional"]
+	path = feedstocks/positional
+	url = https://github.com/conda-forge/positional-feedstock.git
+[submodule "pyflakes"]
+	path = feedstocks/pyflakes
+	url = https://github.com/conda-forge/pyflakes-feedstock.git
+[submodule "requestsexceptions"]
+	path = feedstocks/requestsexceptions
+	url = https://github.com/conda-forge/requestsexceptions-feedstock.git
+[submodule "stevedore"]
+	path = feedstocks/stevedore
+	url = https://github.com/conda-forge/stevedore-feedstock.git
