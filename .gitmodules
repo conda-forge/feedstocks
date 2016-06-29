@@ -2070,3 +2070,36 @@
 [submodule "stevedore"]
 	path = feedstocks/stevedore
 	url = https://github.com/conda-forge/stevedore-feedstock.git
+[submodule "cmd2"]
+	path = feedstocks/cmd2
+	url = https://github.com/conda-forge/cmd2-feedstock.git
+[submodule "debtcollector"]
+	path = feedstocks/debtcollector
+	url = https://github.com/conda-forge/debtcollector-feedstock.git
+[submodule "elasticsearch-dsl"]
+	path = feedstocks/elasticsearch-dsl
+	url = https://github.com/conda-forge/elasticsearch-dsl-feedstock.git
+[submodule "jsonpointer"]
+	path = feedstocks/jsonpointer
+	url = https://github.com/conda-forge/jsonpointer-feedstock.git
+[submodule "jupyterlab"]
+	path = feedstocks/jupyterlab
+	url = https://github.com/conda-forge/jupyterlab-feedstock.git
+[submodule "keystoneauth1"]
+	path = feedstocks/keystoneauth1
+	url = https://github.com/conda-forge/keystoneauth1-feedstock.git
+[submodule "netifaces"]
+	path = feedstocks/netifaces
+	url = https://github.com/conda-forge/netifaces-feedstock.git
+[submodule "nosexcover"]
+	path = feedstocks/nosexcover
+	url = https://github.com/conda-forge/nosexcover-feedstock.git
+[submodule "pthreads-win32"]
+	path = feedstocks/pthreads-win32
+	url = https://github.com/conda-forge/pthreads-win32-feedstock.git
+[submodule "python-mimeparse"]
+	path = feedstocks/python-mimeparse
+	url = https://github.com/conda-forge/python-mimeparse-feedstock.git
+[submodule "rfc3986"]
+	path = feedstocks/rfc3986
+	url = https://github.com/conda-forge/rfc3986-feedstock.git
