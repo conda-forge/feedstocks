@@ -2103,3 +2103,117 @@
 [submodule "rfc3986"]
 	path = feedstocks/rfc3986
 	url = https://github.com/conda-forge/rfc3986-feedstock.git
+[submodule "atom"]
+	path = feedstocks/atom
+	url = https://github.com/conda-forge/atom-feedstock.git
+[submodule "avro"]
+	path = feedstocks/avro
+	url = https://github.com/conda-forge/avro-feedstock.git
+[submodule "backports_abc"]
+	path = feedstocks/backports_abc
+	url = https://github.com/conda-forge/backports_abc-feedstock.git
+[submodule "clyent"]
+	path = feedstocks/clyent
+	url = https://github.com/conda-forge/clyent-feedstock.git
+[submodule "cotire"]
+	path = feedstocks/cotire
+	url = https://github.com/conda-forge/cotire-feedstock.git
+[submodule "cyavro"]
+	path = feedstocks/cyavro
+	url = https://github.com/conda-forge/cyavro-feedstock.git
+[submodule "extras"]
+	path = feedstocks/extras
+	url = https://github.com/conda-forge/extras-feedstock.git
+[submodule "fabio"]
+	path = feedstocks/fabio
+	url = https://github.com/conda-forge/fabio-feedstock.git
+[submodule "filelock"]
+	path = feedstocks/filelock
+	url = https://github.com/conda-forge/filelock-feedstock.git
+[submodule "funcsigs"]
+	path = feedstocks/funcsigs
+	url = https://github.com/conda-forge/funcsigs-feedstock.git
+[submodule "gdcm"]
+	path = feedstocks/gdcm
+	url = https://github.com/conda-forge/gdcm-feedstock.git
+[submodule "gmpy2"]
+	path = feedstocks/gmpy2
+	url = https://github.com/conda-forge/gmpy2-feedstock.git
+[submodule "isort"]
+	path = feedstocks/isort
+	url = https://github.com/conda-forge/isort-feedstock.git
+[submodule "json-rpc"]
+	path = feedstocks/json-rpc
+	url = https://github.com/conda-forge/json-rpc-feedstock.git
+[submodule "jsonpatch"]
+	path = feedstocks/jsonpatch
+	url = https://github.com/conda-forge/jsonpatch-feedstock.git
+[submodule "jupyter_contrib_core"]
+	path = feedstocks/jupyter_contrib_core
+	url = https://github.com/conda-forge/jupyter_contrib_core-feedstock.git
+[submodule "jupyter_nbextensions_configurator"]
+	path = feedstocks/jupyter_nbextensions_configurator
+	url = https://github.com/conda-forge/jupyter_nbextensions_configurator-feedstock.git
+[submodule "kiwisolver"]
+	path = feedstocks/kiwisolver
+	url = https://github.com/conda-forge/kiwisolver-feedstock.git
+[submodule "libdap4"]
+	path = feedstocks/libdap4
+	url = https://github.com/conda-forge/libdap4-feedstock.git
+[submodule "nc_time_axis"]
+	path = feedstocks/nc_time_axis
+	url = https://github.com/conda-forge/nc_time_axis-feedstock.git
+[submodule "netaddr"]
+	path = feedstocks/netaddr
+	url = https://github.com/conda-forge/netaddr-feedstock.git
+[submodule "openstacksdk"]
+	path = feedstocks/openstacksdk
+	url = https://github.com/conda-forge/openstacksdk-feedstock.git
+[submodule "os-client-config"]
+	path = feedstocks/os-client-config
+	url = https://github.com/conda-forge/os-client-config-feedstock.git
+[submodule "peewee"]
+	path = feedstocks/peewee
+	url = https://github.com/conda-forge/peewee-feedstock.git
+[submodule "pep257"]
+	path = feedstocks/pep257
+	url = https://github.com/conda-forge/pep257-feedstock.git
+[submodule "pims"]
+	path = feedstocks/pims
+	url = https://github.com/conda-forge/pims-feedstock.git
+[submodule "pydocstyle"]
+	path = feedstocks/pydocstyle
+	url = https://github.com/conda-forge/pydocstyle-feedstock.git
+[submodule "pymongo"]
+	path = feedstocks/pymongo
+	url = https://github.com/conda-forge/pymongo-feedstock.git
+[submodule "pypolyagamma"]
+	path = feedstocks/pypolyagamma
+	url = https://github.com/conda-forge/pypolyagamma-feedstock.git
+[submodule "pytest"]
+	path = feedstocks/pytest
+	url = https://github.com/conda-forge/pytest-feedstock.git
+[submodule "python-avro"]
+	path = feedstocks/python-avro
+	url = https://github.com/conda-forge/python-avro-feedstock.git
+[submodule "python-editor"]
+	path = feedstocks/python-editor
+	url = https://github.com/conda-forge/python-editor-feedstock.git
+[submodule "python-snappy"]
+	path = feedstocks/python-snappy
+	url = https://github.com/conda-forge/python-snappy-feedstock.git
+[submodule "redis-py"]
+	path = feedstocks/redis-py
+	url = https://github.com/conda-forge/redis-py-feedstock.git
+[submodule "singledispatch"]
+	path = feedstocks/singledispatch
+	url = https://github.com/conda-forge/singledispatch-feedstock.git
+[submodule "sphinx-bootstrap-theme"]
+	path = feedstocks/sphinx-bootstrap-theme
+	url = https://github.com/conda-forge/sphinx-bootstrap-theme-feedstock.git
+[submodule "tzlocal"]
+	path = feedstocks/tzlocal
+	url = https://github.com/conda-forge/tzlocal-feedstock.git
+[submodule "warlock"]
+	path = feedstocks/warlock
+	url = https://github.com/conda-forge/warlock-feedstock.git
