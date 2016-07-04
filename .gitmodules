@@ -2217,3 +2217,24 @@
 [submodule "warlock"]
 	path = feedstocks/warlock
 	url = https://github.com/conda-forge/warlock-feedstock.git
+[submodule "alembic"]
+	path = feedstocks/alembic
+	url = https://github.com/conda-forge/alembic-feedstock.git
+[submodule "chartkick"]
+	path = feedstocks/chartkick
+	url = https://github.com/conda-forge/chartkick-feedstock.git
+[submodule "flask-cache"]
+	path = feedstocks/flask-cache
+	url = https://github.com/conda-forge/flask-cache-feedstock.git
+[submodule "gunicorn"]
+	path = feedstocks/gunicorn
+	url = https://github.com/conda-forge/gunicorn-feedstock.git
+[submodule "rq"]
+	path = feedstocks/rq
+	url = https://github.com/conda-forge/rq-feedstock.git
+[submodule "sklearn-contrib-lightning"]
+	path = feedstocks/sklearn-contrib-lightning
+	url = https://github.com/conda-forge/sklearn-contrib-lightning-feedstock.git
+[submodule "xerces-c"]
+	path = feedstocks/xerces-c
+	url = https://github.com/conda-forge/xerces-c-feedstock.git
