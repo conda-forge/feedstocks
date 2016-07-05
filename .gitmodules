@@ -2238,3 +2238,27 @@
 [submodule "xerces-c"]
 	path = feedstocks/xerces-c
 	url = https://github.com/conda-forge/xerces-c-feedstock.git
+[submodule "croniter"]
+	path = feedstocks/croniter
+	url = https://github.com/conda-forge/croniter-feedstock.git
+[submodule "flask-babel"]
+	path = feedstocks/flask-babel
+	url = https://github.com/conda-forge/flask-babel-feedstock.git
+[submodule "flask-wtf"]
+	path = feedstocks/flask-wtf
+	url = https://github.com/conda-forge/flask-wtf-feedstock.git
+[submodule "flexx"]
+	path = feedstocks/flexx
+	url = https://github.com/conda-forge/flexx-feedstock.git
+[submodule "pytest-faulthandler"]
+	path = feedstocks/pytest-faulthandler
+	url = https://github.com/conda-forge/pytest-faulthandler-feedstock.git
+[submodule "pytest-mock"]
+	path = feedstocks/pytest-mock
+	url = https://github.com/conda-forge/pytest-mock-feedstock.git
+[submodule "pytest-qt"]
+	path = feedstocks/pytest-qt
+	url = https://github.com/conda-forge/pytest-qt-feedstock.git
+[submodule "pytest-xdist"]
+	path = feedstocks/pytest-xdist
+	url = https://github.com/conda-forge/pytest-xdist-feedstock.git
