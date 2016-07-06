@@ -2262,3 +2262,15 @@
 [submodule "pytest-xdist"]
 	path = feedstocks/pytest-xdist
 	url = https://github.com/conda-forge/pytest-xdist-feedstock.git
+[submodule "flask-babelex"]
+	path = feedstocks/flask-babelex
+	url = https://github.com/conda-forge/flask-babelex-feedstock.git
+[submodule "flask-bcrypt"]
+	path = feedstocks/flask-bcrypt
+	url = https://github.com/conda-forge/flask-bcrypt-feedstock.git
+[submodule "mako"]
+	path = feedstocks/mako
+	url = https://github.com/conda-forge/mako-feedstock.git
+[submodule "srtm.py"]
+	path = feedstocks/srtm.py
+	url = https://github.com/conda-forge/srtm.py-feedstock.git
