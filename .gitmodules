@@ -2292,3 +2292,15 @@
 [submodule "reproject"]
 	path = feedstocks/reproject
 	url = https://github.com/conda-forge/reproject-feedstock.git
+[submodule "botocore"]
+	path = feedstocks/botocore
+	url = https://github.com/conda-forge/botocore-feedstock.git
+[submodule "docutils"]
+	path = feedstocks/docutils
+	url = https://github.com/conda-forge/docutils-feedstock.git
+[submodule "ipython_genutils"]
+	path = feedstocks/ipython_genutils
+	url = https://github.com/conda-forge/ipython_genutils-feedstock.git
+[submodule "postgresql"]
+	path = feedstocks/postgresql
+	url = https://github.com/conda-forge/postgresql-feedstock.git
