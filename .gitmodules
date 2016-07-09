@@ -2304,3 +2304,9 @@
 [submodule "postgresql"]
 	path = feedstocks/postgresql
 	url = https://github.com/conda-forge/postgresql-feedstock.git
+[submodule "alabaster"]
+	path = feedstocks/alabaster
+	url = https://github.com/conda-forge/alabaster-feedstock.git
+[submodule "win_unicode_console"]
+	path = feedstocks/win_unicode_console
+	url = https://github.com/conda-forge/win_unicode_console-feedstock.git
