@@ -2310,3 +2310,54 @@
 [submodule "win_unicode_console"]
 	path = feedstocks/win_unicode_console
 	url = https://github.com/conda-forge/win_unicode_console-feedstock.git
+[submodule "awscli"]
+	path = feedstocks/awscli
+	url = https://github.com/conda-forge/awscli-feedstock.git
+[submodule "bob.ip.flandmark"]
+	path = feedstocks/bob.ip.flandmark
+	url = https://github.com/conda-forge/bob.ip.flandmark-feedstock.git
+[submodule "cythongsl"]
+	path = feedstocks/cythongsl
+	url = https://github.com/conda-forge/cythongsl-feedstock.git
+[submodule "filechunkio"]
+	path = feedstocks/filechunkio
+	url = https://github.com/conda-forge/filechunkio-feedstock.git
+[submodule "flask-login"]
+	path = feedstocks/flask-login
+	url = https://github.com/conda-forge/flask-login-feedstock.git
+[submodule "future"]
+	path = feedstocks/future
+	url = https://github.com/conda-forge/future-feedstock.git
+[submodule "jansson"]
+	path = feedstocks/jansson
+	url = https://github.com/conda-forge/jansson-feedstock.git
+[submodule "oauthlib"]
+	path = feedstocks/oauthlib
+	url = https://github.com/conda-forge/oauthlib-feedstock.git
+[submodule "pydruid"]
+	path = feedstocks/pydruid
+	url = https://github.com/conda-forge/pydruid-feedstock.git
+[submodule "python-levenshtein"]
+	path = feedstocks/python-levenshtein
+	url = https://github.com/conda-forge/python-levenshtein-feedstock.git
+[submodule "rsa"]
+	path = feedstocks/rsa
+	url = https://github.com/conda-forge/rsa-feedstock.git
+[submodule "setuptools-git"]
+	path = feedstocks/setuptools-git
+	url = https://github.com/conda-forge/setuptools-git-feedstock.git
+[submodule "snakefood"]
+	path = feedstocks/snakefood
+	url = https://github.com/conda-forge/snakefood-feedstock.git
+[submodule "sortedcontainers"]
+	path = feedstocks/sortedcontainers
+	url = https://github.com/conda-forge/sortedcontainers-feedstock.git
+[submodule "sphinx-argparse"]
+	path = feedstocks/sphinx-argparse
+	url = https://github.com/conda-forge/sphinx-argparse-feedstock.git
+[submodule "tlslite"]
+	path = feedstocks/tlslite
+	url = https://github.com/conda-forge/tlslite-feedstock.git
+[submodule "websocket-client"]
+	path = feedstocks/websocket-client
+	url = https://github.com/conda-forge/websocket-client-feedstock.git
