@@ -2361,3 +2361,12 @@
 [submodule "websocket-client"]
 	path = feedstocks/websocket-client
 	url = https://github.com/conda-forge/websocket-client-feedstock.git
+[submodule "oauth2client"]
+	path = feedstocks/oauth2client
+	url = https://github.com/conda-forge/oauth2client-feedstock.git
+[submodule "requests-oauthlib"]
+	path = feedstocks/requests-oauthlib
+	url = https://github.com/conda-forge/requests-oauthlib-feedstock.git
+[submodule "setuptools"]
+	path = feedstocks/setuptools
+	url = https://github.com/conda-forge/setuptools-feedstock.git
