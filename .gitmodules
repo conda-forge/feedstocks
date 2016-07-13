@@ -2370,3 +2370,45 @@
 [submodule "setuptools"]
 	path = feedstocks/setuptools
 	url = https://github.com/conda-forge/setuptools-feedstock.git
+[submodule "altair"]
+	path = feedstocks/altair
+	url = https://github.com/conda-forge/altair-feedstock.git
+[submodule "bob.bio.face"]
+	path = feedstocks/bob.bio.face
+	url = https://github.com/conda-forge/bob.bio.face-feedstock.git
+[submodule "bob.bio.video"]
+	path = feedstocks/bob.bio.video
+	url = https://github.com/conda-forge/bob.bio.video-feedstock.git
+[submodule "click"]
+	path = feedstocks/click
+	url = https://github.com/conda-forge/click-feedstock.git
+[submodule "cliff"]
+	path = feedstocks/cliff
+	url = https://github.com/conda-forge/cliff-feedstock.git
+[submodule "flask-oauthlib"]
+	path = feedstocks/flask-oauthlib
+	url = https://github.com/conda-forge/flask-oauthlib-feedstock.git
+[submodule "fuzzywuzzy"]
+	path = feedstocks/fuzzywuzzy
+	url = https://github.com/conda-forge/fuzzywuzzy-feedstock.git
+[submodule "inflection"]
+	path = feedstocks/inflection
+	url = https://github.com/conda-forge/inflection-feedstock.git
+[submodule "mpich"]
+	path = feedstocks/mpich
+	url = https://github.com/conda-forge/mpich-feedstock.git
+[submodule "pyjwt"]
+	path = feedstocks/pyjwt
+	url = https://github.com/conda-forge/pyjwt-feedstock.git
+[submodule "spylon"]
+	path = feedstocks/spylon
+	url = https://github.com/conda-forge/spylon-feedstock.git
+[submodule "swig"]
+	path = feedstocks/swig
+	url = https://github.com/conda-forge/swig-feedstock.git
+[submodule "tangelo"]
+	path = feedstocks/tangelo
+	url = https://github.com/conda-forge/tangelo-feedstock.git
+[submodule "uritemplate"]
+	path = feedstocks/uritemplate
+	url = https://github.com/conda-forge/uritemplate-feedstock.git
