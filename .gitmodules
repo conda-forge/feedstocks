@@ -2412,3 +2412,24 @@
 [submodule "uritemplate"]
 	path = feedstocks/uritemplate
 	url = https://github.com/conda-forge/uritemplate-feedstock.git
+[submodule "fake-factory"]
+	path = feedstocks/fake-factory
+	url = https://github.com/conda-forge/fake-factory-feedstock.git
+[submodule "ferret_datasets"]
+	path = feedstocks/ferret_datasets
+	url = https://github.com/conda-forge/ferret_datasets-feedstock.git
+[submodule "inkscape"]
+	path = feedstocks/inkscape
+	url = https://github.com/conda-forge/inkscape-feedstock.git
+[submodule "libgfortran"]
+	path = feedstocks/libgfortran
+	url = https://github.com/conda-forge/libgfortran-feedstock.git
+[submodule "pydy"]
+	path = feedstocks/pydy
+	url = https://github.com/conda-forge/pydy-feedstock.git
+[submodule "pytrie"]
+	path = feedstocks/pytrie
+	url = https://github.com/conda-forge/pytrie-feedstock.git
+[submodule "subprocess32"]
+	path = feedstocks/subprocess32
+	url = https://github.com/conda-forge/subprocess32-feedstock.git
