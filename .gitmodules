@@ -2433,3 +2433,15 @@
 [submodule "subprocess32"]
 	path = feedstocks/subprocess32
 	url = https://github.com/conda-forge/subprocess32-feedstock.git
+[submodule "hachoir-core"]
+	path = feedstocks/hachoir-core
+	url = https://github.com/conda-forge/hachoir-core-feedstock.git
+[submodule "htmlmin"]
+	path = feedstocks/htmlmin
+	url = https://github.com/conda-forge/htmlmin-feedstock.git
+[submodule "hyperspy"]
+	path = feedstocks/hyperspy
+	url = https://github.com/conda-forge/hyperspy-feedstock.git
+[submodule "jsmin"]
+	path = feedstocks/jsmin
+	url = https://github.com/conda-forge/jsmin-feedstock.git
