@@ -2454,3 +2454,15 @@
 [submodule "pysal"]
 	path = feedstocks/pysal
 	url = https://github.com/conda-forge/pysal-feedstock.git
+[submodule "pip"]
+	path = feedstocks/pip
+	url = https://github.com/conda-forge/pip-feedstock.git
+[submodule "pylibmc"]
+	path = feedstocks/pylibmc
+	url = https://github.com/conda-forge/pylibmc-feedstock.git
+[submodule "resampy"]
+	path = feedstocks/resampy
+	url = https://github.com/conda-forge/resampy-feedstock.git
+[submodule "wincertstore"]
+	path = feedstocks/wincertstore
+	url = https://github.com/conda-forge/wincertstore-feedstock.git
