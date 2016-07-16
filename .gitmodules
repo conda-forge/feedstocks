@@ -2445,3 +2445,12 @@
 [submodule "jsmin"]
 	path = feedstocks/jsmin
 	url = https://github.com/conda-forge/jsmin-feedstock.git
+[submodule "mss"]
+	path = feedstocks/mss
+	url = https://github.com/conda-forge/mss-feedstock.git
+[submodule "pyglet"]
+	path = feedstocks/pyglet
+	url = https://github.com/conda-forge/pyglet-feedstock.git
+[submodule "pysal"]
+	path = feedstocks/pysal
+	url = https://github.com/conda-forge/pysal-feedstock.git
