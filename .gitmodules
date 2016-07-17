@@ -2466,3 +2466,33 @@
 [submodule "wincertstore"]
 	path = feedstocks/wincertstore
 	url = https://github.com/conda-forge/wincertstore-feedstock.git
+[submodule "apscheduler"]
+	path = feedstocks/apscheduler
+	url = https://github.com/conda-forge/apscheduler-feedstock.git
+[submodule "audioread"]
+	path = feedstocks/audioread
+	url = https://github.com/conda-forge/audioread-feedstock.git
+[submodule "conda-env"]
+	path = feedstocks/conda-env
+	url = https://github.com/conda-forge/conda-env-feedstock.git
+[submodule "hachoir-parser"]
+	path = feedstocks/hachoir-parser
+	url = https://github.com/conda-forge/hachoir-parser-feedstock.git
+[submodule "nipype"]
+	path = feedstocks/nipype
+	url = https://github.com/conda-forge/nipype-feedstock.git
+[submodule "pango"]
+	path = feedstocks/pango
+	url = https://github.com/conda-forge/pango-feedstock.git
+[submodule "prov"]
+	path = feedstocks/prov
+	url = https://github.com/conda-forge/prov-feedstock.git
+[submodule "pydotplus"]
+	path = feedstocks/pydotplus
+	url = https://github.com/conda-forge/pydotplus-feedstock.git
+[submodule "wheel"]
+	path = feedstocks/wheel
+	url = https://github.com/conda-forge/wheel-feedstock.git
+[submodule "xvfbwrapper"]
+	path = feedstocks/xvfbwrapper
+	url = https://github.com/conda-forge/xvfbwrapper-feedstock.git
