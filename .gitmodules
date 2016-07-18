@@ -2496,3 +2496,18 @@
 [submodule "xvfbwrapper"]
 	path = feedstocks/xvfbwrapper
 	url = https://github.com/conda-forge/xvfbwrapper-feedstock.git
+[submodule "channelarchiver"]
+	path = feedstocks/channelarchiver
+	url = https://github.com/conda-forge/channelarchiver-feedstock.git
+[submodule "librosa"]
+	path = feedstocks/librosa
+	url = https://github.com/conda-forge/librosa-feedstock.git
+[submodule "qt"]
+	path = feedstocks/qt
+	url = https://github.com/conda-forge/qt-feedstock.git
+[submodule "rasterstats"]
+	path = feedstocks/rasterstats
+	url = https://github.com/conda-forge/rasterstats-feedstock.git
+[submodule "sparsehash"]
+	path = feedstocks/sparsehash
+	url = https://github.com/conda-forge/sparsehash-feedstock.git
