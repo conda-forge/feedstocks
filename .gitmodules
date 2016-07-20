@@ -2520,3 +2520,27 @@
 [submodule "sed"]
 	path = feedstocks/sed
 	url = https://github.com/conda-forge/sed-feedstock.git
+[submodule "cairomm"]
+	path = feedstocks/cairomm
+	url = https://github.com/conda-forge/cairomm-feedstock.git
+[submodule "hachoir-metadata"]
+	path = feedstocks/hachoir-metadata
+	url = https://github.com/conda-forge/hachoir-metadata-feedstock.git
+[submodule "iso8601"]
+	path = feedstocks/iso8601
+	url = https://github.com/conda-forge/iso8601-feedstock.git
+[submodule "metafone"]
+	path = feedstocks/metafone
+	url = https://github.com/conda-forge/metafone-feedstock.git
+[submodule "probableparsing"]
+	path = feedstocks/probableparsing
+	url = https://github.com/conda-forge/probableparsing-feedstock.git
+[submodule "python-crfsuite"]
+	path = feedstocks/python-crfsuite
+	url = https://github.com/conda-forge/python-crfsuite-feedstock.git
+[submodule "usaddress"]
+	path = feedstocks/usaddress
+	url = https://github.com/conda-forge/usaddress-feedstock.git
+[submodule "zwatershed"]
+	path = feedstocks/zwatershed
+	url = https://github.com/conda-forge/zwatershed-feedstock.git
