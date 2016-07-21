@@ -2544,3 +2544,21 @@
 [submodule "zwatershed"]
 	path = feedstocks/zwatershed
 	url = https://github.com/conda-forge/zwatershed-feedstock.git
+[submodule "catimg"]
+	path = feedstocks/catimg
+	url = https://github.com/conda-forge/catimg-feedstock.git
+[submodule "diskcache"]
+	path = feedstocks/diskcache
+	url = https://github.com/conda-forge/diskcache-feedstock.git
+[submodule "hiveplot"]
+	path = feedstocks/hiveplot
+	url = https://github.com/conda-forge/hiveplot-feedstock.git
+[submodule "imgurpython"]
+	path = feedstocks/imgurpython
+	url = https://github.com/conda-forge/imgurpython-feedstock.git
+[submodule "iterm2-tools"]
+	path = feedstocks/iterm2-tools
+	url = https://github.com/conda-forge/iterm2-tools-feedstock.git
+[submodule "prefsync"]
+	path = feedstocks/prefsync
+	url = https://github.com/conda-forge/prefsync-feedstock.git
