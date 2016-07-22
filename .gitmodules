@@ -2562,3 +2562,45 @@
 [submodule "prefsync"]
 	path = feedstocks/prefsync
 	url = https://github.com/conda-forge/prefsync-feedstock.git
+[submodule "addict"]
+	path = feedstocks/addict
+	url = https://github.com/conda-forge/addict-feedstock.git
+[submodule "asyncssh"]
+	path = feedstocks/asyncssh
+	url = https://github.com/conda-forge/asyncssh-feedstock.git
+[submodule "capturer"]
+	path = feedstocks/capturer
+	url = https://github.com/conda-forge/capturer-feedstock.git
+[submodule "coloredlogs"]
+	path = feedstocks/coloredlogs
+	url = https://github.com/conda-forge/coloredlogs-feedstock.git
+[submodule "conda-workon"]
+	path = feedstocks/conda-workon
+	url = https://github.com/conda-forge/conda-workon-feedstock.git
+[submodule "girder-client"]
+	path = feedstocks/girder-client
+	url = https://github.com/conda-forge/girder-client-feedstock.git
+[submodule "hdbscan"]
+	path = feedstocks/hdbscan
+	url = https://github.com/conda-forge/hdbscan-feedstock.git
+[submodule "humanfriendly"]
+	path = feedstocks/humanfriendly
+	url = https://github.com/conda-forge/humanfriendly-feedstock.git
+[submodule "ipdb"]
+	path = feedstocks/ipdb
+	url = https://github.com/conda-forge/ipdb-feedstock.git
+[submodule "simbody"]
+	path = feedstocks/simbody
+	url = https://github.com/conda-forge/simbody-feedstock.git
+[submodule "structlog"]
+	path = feedstocks/structlog
+	url = https://github.com/conda-forge/structlog-feedstock.git
+[submodule "theano"]
+	path = feedstocks/theano
+	url = https://github.com/conda-forge/theano-feedstock.git
+[submodule "verboselogs"]
+	path = feedstocks/verboselogs
+	url = https://github.com/conda-forge/verboselogs-feedstock.git
+[submodule "voluptuous"]
+	path = feedstocks/voluptuous
+	url = https://github.com/conda-forge/voluptuous-feedstock.git
