@@ -2604,3 +2604,21 @@
 [submodule "voluptuous"]
 	path = feedstocks/voluptuous
 	url = https://github.com/conda-forge/voluptuous-feedstock.git
+[submodule "anaconda-verify"]
+	path = feedstocks/anaconda-verify
+	url = https://github.com/conda-forge/anaconda-verify-feedstock.git
+[submodule "docker-py"]
+	path = feedstocks/docker-py
+	url = https://github.com/conda-forge/docker-py-feedstock.git
+[submodule "girder"]
+	path = feedstocks/girder
+	url = https://github.com/conda-forge/girder-feedstock.git
+[submodule "google-api-python-client"]
+	path = feedstocks/google-api-python-client
+	url = https://github.com/conda-forge/google-api-python-client-feedstock.git
+[submodule "jsanimation"]
+	path = feedstocks/jsanimation
+	url = https://github.com/conda-forge/jsanimation-feedstock.git
+[submodule "ua-parser"]
+	path = feedstocks/ua-parser
+	url = https://github.com/conda-forge/ua-parser-feedstock.git
