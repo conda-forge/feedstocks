@@ -2622,3 +2622,15 @@
 [submodule "ua-parser"]
 	path = feedstocks/ua-parser
 	url = https://github.com/conda-forge/ua-parser-feedstock.git
+[submodule "anypytools"]
+	path = feedstocks/anypytools
+	url = https://github.com/conda-forge/anypytools-feedstock.git
+[submodule "pydoe"]
+	path = feedstocks/pydoe
+	url = https://github.com/conda-forge/pydoe-feedstock.git
+[submodule "pyinstaller"]
+	path = feedstocks/pyinstaller
+	url = https://github.com/conda-forge/pyinstaller-feedstock.git
+[submodule "waf"]
+	path = feedstocks/waf
+	url = https://github.com/conda-forge/waf-feedstock.git
