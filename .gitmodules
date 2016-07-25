@@ -2634,3 +2634,18 @@
 [submodule "waf"]
 	path = feedstocks/waf
 	url = https://github.com/conda-forge/waf-feedstock.git
+[submodule "asciitree"]
+	path = feedstocks/asciitree
+	url = https://github.com/conda-forge/asciitree-feedstock.git
+[submodule "hypothesis"]
+	path = feedstocks/hypothesis
+	url = https://github.com/conda-forge/hypothesis-feedstock.git
+[submodule "joblib"]
+	path = feedstocks/joblib
+	url = https://github.com/conda-forge/joblib-feedstock.git
+[submodule "lazyasd"]
+	path = feedstocks/lazyasd
+	url = https://github.com/conda-forge/lazyasd-feedstock.git
+[submodule "scandir"]
+	path = feedstocks/scandir
+	url = https://github.com/conda-forge/scandir-feedstock.git
