@@ -2649,3 +2649,27 @@
 [submodule "scandir"]
 	path = feedstocks/scandir
 	url = https://github.com/conda-forge/scandir-feedstock.git
+[submodule "anaconda-client"]
+	path = feedstocks/anaconda-client
+	url = https://github.com/conda-forge/anaconda-client-feedstock.git
+[submodule "branca"]
+	path = feedstocks/branca
+	url = https://github.com/conda-forge/branca-feedstock.git
+[submodule "f90wrap"]
+	path = feedstocks/f90wrap
+	url = https://github.com/conda-forge/f90wrap-feedstock.git
+[submodule "libconda"]
+	path = feedstocks/libconda
+	url = https://github.com/conda-forge/libconda-feedstock.git
+[submodule "orange3"]
+	path = feedstocks/orange3
+	url = https://github.com/conda-forge/orange3-feedstock.git
+[submodule "pyfive"]
+	path = feedstocks/pyfive
+	url = https://github.com/conda-forge/pyfive-feedstock.git
+[submodule "ruamel_yaml"]
+	path = feedstocks/ruamel_yaml
+	url = https://github.com/conda-forge/ruamel_yaml-feedstock.git
+[submodule "scikit-bio"]
+	path = feedstocks/scikit-bio
+	url = https://github.com/conda-forge/scikit-bio-feedstock.git
