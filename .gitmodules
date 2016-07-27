@@ -2673,3 +2673,12 @@
 [submodule "scikit-bio"]
 	path = feedstocks/scikit-bio
 	url = https://github.com/conda-forge/scikit-bio-feedstock.git
+[submodule "mtspec"]
+	path = feedstocks/mtspec
+	url = https://github.com/conda-forge/mtspec-feedstock.git
+[submodule "newrelic"]
+	path = feedstocks/newrelic
+	url = https://github.com/conda-forge/newrelic-feedstock.git
+[submodule "python-gnupg"]
+	path = feedstocks/python-gnupg
+	url = https://github.com/conda-forge/python-gnupg-feedstock.git
