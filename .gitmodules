@@ -2682,3 +2682,12 @@
 [submodule "python-gnupg"]
 	path = feedstocks/python-gnupg
 	url = https://github.com/conda-forge/python-gnupg-feedstock.git
+[submodule "category_encoders"]
+	path = feedstocks/category_encoders
+	url = https://github.com/conda-forge/category_encoders-feedstock.git
+[submodule "circleclient"]
+	path = feedstocks/circleclient
+	url = https://github.com/conda-forge/circleclient-feedstock.git
+[submodule "pykwalify"]
+	path = feedstocks/pykwalify
+	url = https://github.com/conda-forge/pykwalify-feedstock.git
