@@ -2691,3 +2691,15 @@
 [submodule "pykwalify"]
 	path = feedstocks/pykwalify
 	url = https://github.com/conda-forge/pykwalify-feedstock.git
+[submodule "emperor"]
+	path = feedstocks/emperor
+	url = https://github.com/conda-forge/emperor-feedstock.git
+[submodule "pudb"]
+	path = feedstocks/pudb
+	url = https://github.com/conda-forge/pudb-feedstock.git
+[submodule "slda"]
+	path = feedstocks/slda
+	url = https://github.com/conda-forge/slda-feedstock.git
+[submodule "snakebite"]
+	path = feedstocks/snakebite
+	url = https://github.com/conda-forge/snakebite-feedstock.git
