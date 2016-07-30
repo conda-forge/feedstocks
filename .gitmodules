@@ -2703,3 +2703,9 @@
 [submodule "snakebite"]
 	path = feedstocks/snakebite
 	url = https://github.com/conda-forge/snakebite-feedstock.git
+[submodule "nb_conda"]
+	path = feedstocks/nb_conda
+	url = https://github.com/conda-forge/nb_conda-feedstock.git
+[submodule "qtpy"]
+	path = feedstocks/qtpy
+	url = https://github.com/conda-forge/qtpy-feedstock.git
