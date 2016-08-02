@@ -2712,3 +2712,21 @@
 [submodule "conda-build"]
 	path = feedstocks/conda-build
 	url = https://github.com/conda-forge/conda-build-feedstock.git
+[submodule "circleci-helpers"]
+	path = feedstocks/circleci-helpers
+	url = https://github.com/conda-forge/circleci-helpers-feedstock.git
+[submodule "libpq"]
+	path = feedstocks/libpq
+	url = https://github.com/conda-forge/libpq-feedstock.git
+[submodule "mercurial"]
+	path = feedstocks/mercurial
+	url = https://github.com/conda-forge/mercurial-feedstock.git
+[submodule "psycopg2"]
+	path = feedstocks/psycopg2
+	url = https://github.com/conda-forge/psycopg2-feedstock.git
+[submodule "pyhocon"]
+	path = feedstocks/pyhocon
+	url = https://github.com/conda-forge/pyhocon-feedstock.git
+[submodule "qt_binder"]
+	path = feedstocks/qt_binder
+	url = https://github.com/conda-forge/qt_binder-feedstock.git
