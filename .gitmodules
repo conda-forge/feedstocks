@@ -2730,3 +2730,12 @@
 [submodule "qt_binder"]
 	path = feedstocks/qt_binder
 	url = https://github.com/conda-forge/qt_binder-feedstock.git
+[submodule "pv"]
+	path = feedstocks/pv
+	url = https://github.com/conda-forge/pv-feedstock.git
+[submodule "pyvisa"]
+	path = feedstocks/pyvisa
+	url = https://github.com/conda-forge/pyvisa-feedstock.git
+[submodule "stack"]
+	path = feedstocks/stack
+	url = https://github.com/conda-forge/stack-feedstock.git
