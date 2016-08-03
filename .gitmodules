@@ -2739,3 +2739,12 @@
 [submodule "stack"]
 	path = feedstocks/stack
 	url = https://github.com/conda-forge/stack-feedstock.git
+[submodule "bc"]
+	path = feedstocks/bc
+	url = https://github.com/conda-forge/bc-feedstock.git
+[submodule "plotly"]
+	path = feedstocks/plotly
+	url = https://github.com/conda-forge/plotly-feedstock.git
+[submodule "pymeasure"]
+	path = feedstocks/pymeasure
+	url = https://github.com/conda-forge/pymeasure-feedstock.git
