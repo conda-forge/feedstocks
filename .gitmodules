@@ -2748,3 +2748,15 @@
 [submodule "pymeasure"]
 	path = feedstocks/pymeasure
 	url = https://github.com/conda-forge/pymeasure-feedstock.git
+[submodule "jupyter_contrib_nbextensions"]
+	path = feedstocks/jupyter_contrib_nbextensions
+	url = https://github.com/conda-forge/jupyter_contrib_nbextensions-feedstock.git
+[submodule "port-for"]
+	path = feedstocks/port-for
+	url = https://github.com/conda-forge/port-for-feedstock.git
+[submodule "sphinx"]
+	path = feedstocks/sphinx
+	url = https://github.com/conda-forge/sphinx-feedstock.git
+[submodule "sphinx_rtd_theme"]
+	path = feedstocks/sphinx_rtd_theme
+	url = https://github.com/conda-forge/sphinx_rtd_theme-feedstock.git
