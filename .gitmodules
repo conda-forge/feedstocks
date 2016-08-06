@@ -2760,3 +2760,18 @@
 [submodule "sphinx_rtd_theme"]
 	path = feedstocks/sphinx_rtd_theme
 	url = https://github.com/conda-forge/sphinx_rtd_theme-feedstock.git
+[submodule "cgal"]
+	path = feedstocks/cgal
+	url = https://github.com/conda-forge/cgal-feedstock.git
+[submodule "importlib"]
+	path = feedstocks/importlib
+	url = https://github.com/conda-forge/importlib-feedstock.git
+[submodule "obspy"]
+	path = feedstocks/obspy
+	url = https://github.com/conda-forge/obspy-feedstock.git
+[submodule "ordereddict"]
+	path = feedstocks/ordereddict
+	url = https://github.com/conda-forge/ordereddict-feedstock.git
+[submodule "path.py"]
+	path = feedstocks/path.py
+	url = https://github.com/conda-forge/path.py-feedstock.git
