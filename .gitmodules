@@ -2787,3 +2787,6 @@
 [submodule "statuspage"]
 	path = feedstocks/statuspage
 	url = https://github.com/conda-forge/statuspage-feedstock.git
+[submodule "conda"]
+	path = feedstocks/conda
+	url = https://github.com/conda-forge/conda-feedstock.git
