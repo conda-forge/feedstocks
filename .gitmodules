@@ -2790,3 +2790,6 @@
 [submodule "conda"]
 	path = feedstocks/conda
 	url = https://github.com/conda-forge/conda-feedstock.git
+[submodule "pbzip2"]
+	path = feedstocks/pbzip2
+	url = https://github.com/conda-forge/pbzip2-feedstock.git
