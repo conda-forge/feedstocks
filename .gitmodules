@@ -2793,3 +2793,15 @@
 [submodule "pbzip2"]
 	path = feedstocks/pbzip2
 	url = https://github.com/conda-forge/pbzip2-feedstock.git
+[submodule "autograd"]
+	path = feedstocks/autograd
+	url = https://github.com/conda-forge/autograd-feedstock.git
+[submodule "coverage"]
+	path = feedstocks/coverage
+	url = https://github.com/conda-forge/coverage-feedstock.git
+[submodule "pycalphad"]
+	path = feedstocks/pycalphad
+	url = https://github.com/conda-forge/pycalphad-feedstock.git
+[submodule "sphinxcontrib-autoprogram"]
+	path = feedstocks/sphinxcontrib-autoprogram
+	url = https://github.com/conda-forge/sphinxcontrib-autoprogram-feedstock.git
