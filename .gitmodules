@@ -2805,3 +2805,21 @@
 [submodule "sphinxcontrib-autoprogram"]
 	path = feedstocks/sphinxcontrib-autoprogram
 	url = https://github.com/conda-forge/sphinxcontrib-autoprogram-feedstock.git
+[submodule "depfinder"]
+	path = feedstocks/depfinder
+	url = https://github.com/conda-forge/depfinder-feedstock.git
+[submodule "django-enumfields"]
+	path = feedstocks/django-enumfields
+	url = https://github.com/conda-forge/django-enumfields-feedstock.git
+[submodule "doctr"]
+	path = feedstocks/doctr
+	url = https://github.com/conda-forge/doctr-feedstock.git
+[submodule "exec-wrappers"]
+	path = feedstocks/exec-wrappers
+	url = https://github.com/conda-forge/exec-wrappers-feedstock.git
+[submodule "sound_field_analysis"]
+	path = feedstocks/sound_field_analysis
+	url = https://github.com/conda-forge/sound_field_analysis-feedstock.git
+[submodule "stdlib-list"]
+	path = feedstocks/stdlib-list
+	url = https://github.com/conda-forge/stdlib-list-feedstock.git
