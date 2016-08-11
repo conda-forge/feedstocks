@@ -2823,3 +2823,21 @@
 [submodule "stdlib-list"]
 	path = feedstocks/stdlib-list
 	url = https://github.com/conda-forge/stdlib-list-feedstock.git
+[submodule "otsvm"]
+	path = feedstocks/otsvm
+	url = https://github.com/conda-forge/otsvm-feedstock.git
+[submodule "scikit-beam"]
+	path = feedstocks/scikit-beam
+	url = https://github.com/conda-forge/scikit-beam-feedstock.git
+[submodule "snowballstemmer"]
+	path = feedstocks/snowballstemmer
+	url = https://github.com/conda-forge/snowballstemmer-feedstock.git
+[submodule "super_state_machine"]
+	path = feedstocks/super_state_machine
+	url = https://github.com/conda-forge/super_state_machine-feedstock.git
+[submodule "testfixtures"]
+	path = feedstocks/testfixtures
+	url = https://github.com/conda-forge/testfixtures-feedstock.git
+[submodule "wordcloud"]
+	path = feedstocks/wordcloud
+	url = https://github.com/conda-forge/wordcloud-feedstock.git
