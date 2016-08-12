@@ -2841,3 +2841,42 @@
 [submodule "wordcloud"]
 	path = feedstocks/wordcloud
 	url = https://github.com/conda-forge/wordcloud-feedstock.git
+[submodule "dodgy"]
+	path = feedstocks/dodgy
+	url = https://github.com/conda-forge/dodgy-feedstock.git
+[submodule "enum34"]
+	path = feedstocks/enum34
+	url = https://github.com/conda-forge/enum34-feedstock.git
+[submodule "ipaddress"]
+	path = feedstocks/ipaddress
+	url = https://github.com/conda-forge/ipaddress-feedstock.git
+[submodule "keras"]
+	path = feedstocks/keras
+	url = https://github.com/conda-forge/keras-feedstock.git
+[submodule "lazy-object-proxy"]
+	path = feedstocks/lazy-object-proxy
+	url = https://github.com/conda-forge/lazy-object-proxy-feedstock.git
+[submodule "otrobopt"]
+	path = feedstocks/otrobopt
+	url = https://github.com/conda-forge/otrobopt-feedstock.git
+[submodule "pies"]
+	path = feedstocks/pies
+	url = https://github.com/conda-forge/pies-feedstock.git
+[submodule "pies2overrides"]
+	path = feedstocks/pies2overrides
+	url = https://github.com/conda-forge/pies2overrides-feedstock.git
+[submodule "pyroma"]
+	path = feedstocks/pyroma
+	url = https://github.com/conda-forge/pyroma-feedstock.git
+[submodule "setoptconf"]
+	path = feedstocks/setoptconf
+	url = https://github.com/conda-forge/setoptconf-feedstock.git
+[submodule "vulture"]
+	path = feedstocks/vulture
+	url = https://github.com/conda-forge/vulture-feedstock.git
+[submodule "wrapt"]
+	path = feedstocks/wrapt
+	url = https://github.com/conda-forge/wrapt-feedstock.git
+[submodule "xray-vision"]
+	path = feedstocks/xray-vision
+	url = https://github.com/conda-forge/xray-vision-feedstock.git
