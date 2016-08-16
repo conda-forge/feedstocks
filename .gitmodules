@@ -2883,3 +2883,36 @@
 [submodule "legit"]
 	path = feedstocks/legit
 	url = https://github.com/conda-forge/legit-feedstock.git
+[submodule "attrdict"]
+	path = feedstocks/attrdict
+	url = https://github.com/conda-forge/attrdict-feedstock.git
+[submodule "feedstockrot"]
+	path = feedstocks/feedstockrot
+	url = https://github.com/conda-forge/feedstockrot-feedstock.git
+[submodule "imagesize"]
+	path = feedstocks/imagesize
+	url = https://github.com/conda-forge/imagesize-feedstock.git
+[submodule "numexpr"]
+	path = feedstocks/numexpr
+	url = https://github.com/conda-forge/numexpr-feedstock.git
+[submodule "patsy"]
+	path = feedstocks/patsy
+	url = https://github.com/conda-forge/patsy-feedstock.git
+[submodule "pdfminer"]
+	path = feedstocks/pdfminer
+	url = https://github.com/conda-forge/pdfminer-feedstock.git
+[submodule "pytest-sftpserver"]
+	path = feedstocks/pytest-sftpserver
+	url = https://github.com/conda-forge/pytest-sftpserver-feedstock.git
+[submodule "python-docx"]
+	path = feedstocks/python-docx
+	url = https://github.com/conda-forge/python-docx-feedstock.git
+[submodule "python-pptx"]
+	path = feedstocks/python-pptx
+	url = https://github.com/conda-forge/python-pptx-feedstock.git
+[submodule "quantecon"]
+	path = feedstocks/quantecon
+	url = https://github.com/conda-forge/quantecon-feedstock.git
+[submodule "seaborn"]
+	path = feedstocks/seaborn
+	url = https://github.com/conda-forge/seaborn-feedstock.git
