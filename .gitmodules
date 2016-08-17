@@ -2916,3 +2916,39 @@
 [submodule "seaborn"]
 	path = feedstocks/seaborn
 	url = https://github.com/conda-forge/seaborn-feedstock.git
+[submodule "aniso8601"]
+	path = feedstocks/aniso8601
+	url = https://github.com/conda-forge/aniso8601-feedstock.git
+[submodule "cssselect"]
+	path = feedstocks/cssselect
+	url = https://github.com/conda-forge/cssselect-feedstock.git
+[submodule "cssutils"]
+	path = feedstocks/cssutils
+	url = https://github.com/conda-forge/cssutils-feedstock.git
+[submodule "harfbuzz"]
+	path = feedstocks/harfbuzz
+	url = https://github.com/conda-forge/harfbuzz-feedstock.git
+[submodule "linecache2"]
+	path = feedstocks/linecache2
+	url = https://github.com/conda-forge/linecache2-feedstock.git
+[submodule "premailer"]
+	path = feedstocks/premailer
+	url = https://github.com/conda-forge/premailer-feedstock.git
+[submodule "pytables"]
+	path = feedstocks/pytables
+	url = https://github.com/conda-forge/pytables-feedstock.git
+[submodule "python-marisa-trie"]
+	path = feedstocks/python-marisa-trie
+	url = https://github.com/conda-forge/python-marisa-trie-feedstock.git
+[submodule "qds-sdk"]
+	path = feedstocks/qds-sdk
+	url = https://github.com/conda-forge/qds-sdk-feedstock.git
+[submodule "slackclient"]
+	path = feedstocks/slackclient
+	url = https://github.com/conda-forge/slackclient-feedstock.git
+[submodule "speechrecognition"]
+	path = feedstocks/speechrecognition
+	url = https://github.com/conda-forge/speechrecognition-feedstock.git
+[submodule "user-agents"]
+	path = feedstocks/user-agents
+	url = https://github.com/conda-forge/user-agents-feedstock.git
