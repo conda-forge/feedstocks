@@ -2952,3 +2952,33 @@
 [submodule "user-agents"]
 	path = feedstocks/user-agents
 	url = https://github.com/conda-forge/user-agents-feedstock.git
+[submodule "fastavro"]
+	path = feedstocks/fastavro
+	url = https://github.com/conda-forge/fastavro-feedstock.git
+[submodule "otfftw"]
+	path = feedstocks/otfftw
+	url = https://github.com/conda-forge/otfftw-feedstock.git
+[submodule "otmorris"]
+	path = feedstocks/otmorris
+	url = https://github.com/conda-forge/otmorris-feedstock.git
+[submodule "otpmml"]
+	path = feedstocks/otpmml
+	url = https://github.com/conda-forge/otpmml-feedstock.git
+[submodule "psiturk"]
+	path = feedstocks/psiturk
+	url = https://github.com/conda-forge/psiturk-feedstock.git
+[submodule "py4j"]
+	path = feedstocks/py4j
+	url = https://github.com/conda-forge/py4j-feedstock.git
+[submodule "pysmbclient"]
+	path = feedstocks/pysmbclient
+	url = https://github.com/conda-forge/pysmbclient-feedstock.git
+[submodule "requests-futures"]
+	path = feedstocks/requests-futures
+	url = https://github.com/conda-forge/requests-futures-feedstock.git
+[submodule "vertica-python"]
+	path = feedstocks/vertica-python
+	url = https://github.com/conda-forge/vertica-python-feedstock.git
+[submodule "wtforms-appengine"]
+	path = feedstocks/wtforms-appengine
+	url = https://github.com/conda-forge/wtforms-appengine-feedstock.git
