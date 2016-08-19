@@ -2997,3 +2997,12 @@
 [submodule "pylint"]
 	path = feedstocks/pylint
 	url = https://github.com/conda-forge/pylint-feedstock.git
+[submodule "eventlet"]
+	path = feedstocks/eventlet
+	url = https://github.com/conda-forge/eventlet-feedstock.git
+[submodule "frosted"]
+	path = feedstocks/frosted
+	url = https://github.com/conda-forge/frosted-feedstock.git
+[submodule "pyasn1"]
+	path = feedstocks/pyasn1
+	url = https://github.com/conda-forge/pyasn1-feedstock.git
