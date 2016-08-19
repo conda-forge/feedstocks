@@ -2985,3 +2985,15 @@
 [submodule "versioneer"]
 	path = feedstocks/versioneer
 	url = https://github.com/conda-forge/versioneer-feedstock.git
+[submodule "astroid"]
+	path = feedstocks/astroid
+	url = https://github.com/conda-forge/astroid-feedstock.git
+[submodule "hive-thrift-py"]
+	path = feedstocks/hive-thrift-py
+	url = https://github.com/conda-forge/hive-thrift-py-feedstock.git
+[submodule "logilab-common"]
+	path = feedstocks/logilab-common
+	url = https://github.com/conda-forge/logilab-common-feedstock.git
+[submodule "pylint"]
+	path = feedstocks/pylint
+	url = https://github.com/conda-forge/pylint-feedstock.git
