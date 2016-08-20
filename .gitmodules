@@ -3006,3 +3006,6 @@
 [submodule "pyasn1"]
 	path = feedstocks/pyasn1
 	url = https://github.com/conda-forge/pyasn1-feedstock.git
+[submodule "requirements-detector"]
+	path = feedstocks/requirements-detector
+	url = https://github.com/conda-forge/requirements-detector-feedstock.git
