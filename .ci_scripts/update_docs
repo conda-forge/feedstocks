@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+# This script is to be run in a TravisCI context.
+
+set -e
+
+if [ -n "$GH_TOKEN" ]; then
+    git checkout -b new_site_content
+    # Generate html requires a GitHub token in order to query the available feedstocks.
+    conda execute scripts/generate_html.py
+    git diff
+fi

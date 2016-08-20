@@ -1,0 +1,51 @@
+# The language in this case has no bearing - we are going to be making use of conda for a
+# python distribution for the scientific python stack.
+language: generic
+
+sudo: false
+
+env:
+    global:
+       - CONDA_INSTALL_LOCN="${HOME}/conda"
+
+       # Adds a GH_TOKEN (conda-forge-admin's conda-forge.github.io token)
+       - secure: __FIX_ME__
+
+install:
+    - mkdir -p ${HOME}/cache/pkgs
+    - "[ ! -f ${HOME}/cache/miniconda.sh ] && wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ${HOME}/cache/miniconda.sh || :"
+    - bash ${HOME}/cache/miniconda.sh -b -p ${CONDA_INSTALL_LOCN} && export PATH=${CONDA_INSTALL_LOCN}/bin:$PATH
+
+    # Re-use the packages in the cache, and download any new ones into that location.
+    - rm -rf ${CONDA_INSTALL_LOCN}/pkgs && ln -s ${HOME}/cache/pkgs ${CONDA_INSTALL_LOCN}/pkgs
+
+    - git config --global user.name "Travis-CI on github.com/conda-forge/conda-forge.github.io"
+    - git config --global user.email pelson.pub+conda-forge@gmail.com
+    - mkdir -p ~/.conda-smithy && echo $GH_TOKEN > ~/.conda-smithy/github.token
+
+    # Now do the things we need to do to install it.
+    - conda install conda-execute --yes --quiet -c conda-forge
+
+script:
+    - echo "Refresh repo";
+      source ./.ci_scripts/refresh_repo
+
+    - echo "Updating docs";
+      source ./.ci_scripts/update_docs
+
+    - echo "Updating feedstock repo";
+      source ./.ci_scripts/update_feedstocks_repo
+
+    - echo "Updating the teams";
+      source ./.ci_scripts/update_teams
+
+    - echo "Pushing all changes";
+      source ./.ci_scripts/push_changes
+
+# We store the files that are downloaded from continuum.io, but not the environments that are created.
+cache:
+    directories:
+      - $HOME/cache
+before_cache:
+  # Remove all untarred directories.
+  - find $CONDA_INSTALL_LOCN/pkgs/ -mindepth 1 -maxdepth 1 -type d -exec rm -r {} \;
