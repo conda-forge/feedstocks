@@ -3009,3 +3009,18 @@
 [submodule "requirements-detector"]
 	path = feedstocks/requirements-detector
 	url = https://github.com/conda-forge/requirements-detector-feedstock.git
+[submodule "argparse"]
+	path = feedstocks/argparse
+	url = https://github.com/conda-forge/argparse-feedstock.git
+[submodule "flo"]
+	path = feedstocks/flo
+	url = https://github.com/conda-forge/flo-feedstock.git
+[submodule "pylint-plugin-utils"]
+	path = feedstocks/pylint-plugin-utils
+	url = https://github.com/conda-forge/pylint-plugin-utils-feedstock.git
+[submodule "pysocks"]
+	path = feedstocks/pysocks
+	url = https://github.com/conda-forge/pysocks-feedstock.git
+[submodule "unidecode"]
+	path = feedstocks/unidecode
+	url = https://github.com/conda-forge/unidecode-feedstock.git
