@@ -3024,3 +3024,27 @@
 [submodule "unidecode"]
 	path = feedstocks/unidecode
 	url = https://github.com/conda-forge/unidecode-feedstock.git
+[submodule "argh"]
+	path = feedstocks/argh
+	url = https://github.com/conda-forge/argh-feedstock.git
+[submodule "cerberus"]
+	path = feedstocks/cerberus
+	url = https://github.com/conda-forge/cerberus-feedstock.git
+[submodule "flask-httpauth"]
+	path = feedstocks/flask-httpauth
+	url = https://github.com/conda-forge/flask-httpauth-feedstock.git
+[submodule "jupyter_dashboards"]
+	path = feedstocks/jupyter_dashboards
+	url = https://github.com/conda-forge/jupyter_dashboards-feedstock.git
+[submodule "mechanize"]
+	path = feedstocks/mechanize
+	url = https://github.com/conda-forge/mechanize-feedstock.git
+[submodule "pathtools"]
+	path = feedstocks/pathtools
+	url = https://github.com/conda-forge/pathtools-feedstock.git
+[submodule "sphinxjp.themecore"]
+	path = feedstocks/sphinxjp.themecore
+	url = https://github.com/conda-forge/sphinxjp.themecore-feedstock.git
+[submodule "xmltodict"]
+	path = feedstocks/xmltodict
+	url = https://github.com/conda-forge/xmltodict-feedstock.git
