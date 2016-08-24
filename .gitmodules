@@ -3048,3 +3048,45 @@
 [submodule "xmltodict"]
 	path = feedstocks/xmltodict
 	url = https://github.com/conda-forge/xmltodict-feedstock.git
+[submodule "cryptography-vectors"]
+	path = feedstocks/cryptography-vectors
+	url = https://github.com/conda-forge/cryptography-vectors-feedstock.git
+[submodule "exifread"]
+	path = feedstocks/exifread
+	url = https://github.com/conda-forge/exifread-feedstock.git
+[submodule "futures"]
+	path = feedstocks/futures
+	url = https://github.com/conda-forge/futures-feedstock.git
+[submodule "idna"]
+	path = feedstocks/idna
+	url = https://github.com/conda-forge/idna-feedstock.git
+[submodule "inifile"]
+	path = feedstocks/inifile
+	url = https://github.com/conda-forge/inifile-feedstock.git
+[submodule "ipython-sql"]
+	path = feedstocks/ipython-sql
+	url = https://github.com/conda-forge/ipython-sql-feedstock.git
+[submodule "itsdangerous"]
+	path = feedstocks/itsdangerous
+	url = https://github.com/conda-forge/itsdangerous-feedstock.git
+[submodule "openmesh"]
+	path = feedstocks/openmesh
+	url = https://github.com/conda-forge/openmesh-feedstock.git
+[submodule "pycparser"]
+	path = feedstocks/pycparser
+	url = https://github.com/conda-forge/pycparser-feedstock.git
+[submodule "pylint-celery"]
+	path = feedstocks/pylint-celery
+	url = https://github.com/conda-forge/pylint-celery-feedstock.git
+[submodule "pylint-common"]
+	path = feedstocks/pylint-common
+	url = https://github.com/conda-forge/pylint-common-feedstock.git
+[submodule "rvlib"]
+	path = feedstocks/rvlib
+	url = https://github.com/conda-forge/rvlib-feedstock.git
+[submodule "textblob"]
+	path = feedstocks/textblob
+	url = https://github.com/conda-forge/textblob-feedstock.git
+[submodule "werkzeug"]
+	path = feedstocks/werkzeug
+	url = https://github.com/conda-forge/werkzeug-feedstock.git
