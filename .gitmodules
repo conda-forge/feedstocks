@@ -3090,3 +3090,6 @@
 [submodule "werkzeug"]
 	path = feedstocks/werkzeug
 	url = https://github.com/conda-forge/werkzeug-feedstock.git
+[submodule "twine"]
+	path = feedstocks/twine
+	url = https://github.com/conda-forge/twine-feedstock.git
