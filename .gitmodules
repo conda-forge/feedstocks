@@ -3093,3 +3093,9 @@
 [submodule "twine"]
 	path = feedstocks/twine
 	url = https://github.com/conda-forge/twine-feedstock.git
+[submodule "ebooklib"]
+	path = feedstocks/ebooklib
+	url = https://github.com/conda-forge/ebooklib-feedstock.git
+[submodule "traceback2"]
+	path = feedstocks/traceback2
+	url = https://github.com/conda-forge/traceback2-feedstock.git
