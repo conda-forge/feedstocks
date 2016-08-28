@@ -3105,3 +3105,18 @@
 [submodule "fatiando"]
 	path = feedstocks/fatiando
 	url = https://github.com/conda-forge/fatiando-feedstock.git
+[submodule "flask"]
+	path = feedstocks/flask
+	url = https://github.com/conda-forge/flask-feedstock.git
+[submodule "nltk"]
+	path = feedstocks/nltk
+	url = https://github.com/conda-forge/nltk-feedstock.git
+[submodule "prospector"]
+	path = feedstocks/prospector
+	url = https://github.com/conda-forge/prospector-feedstock.git
+[submodule "pylint-django"]
+	path = feedstocks/pylint-django
+	url = https://github.com/conda-forge/pylint-django-feedstock.git
+[submodule "pylint-flask"]
+	path = feedstocks/pylint-flask
+	url = https://github.com/conda-forge/pylint-flask-feedstock.git
