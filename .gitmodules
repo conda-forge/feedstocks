@@ -3120,3 +3120,21 @@
 [submodule "pylint-flask"]
 	path = feedstocks/pylint-flask
 	url = https://github.com/conda-forge/pylint-flask-feedstock.git
+[submodule "django-nose"]
+	path = feedstocks/django-nose
+	url = https://github.com/conda-forge/django-nose-feedstock.git
+[submodule "phconvert"]
+	path = feedstocks/phconvert
+	url = https://github.com/conda-forge/phconvert-feedstock.git
+[submodule "pretend"]
+	path = feedstocks/pretend
+	url = https://github.com/conda-forge/pretend-feedstock.git
+[submodule "pybroom"]
+	path = feedstocks/pybroom
+	url = https://github.com/conda-forge/pybroom-feedstock.git
+[submodule "traittypes"]
+	path = feedstocks/traittypes
+	url = https://github.com/conda-forge/traittypes-feedstock.git
+[submodule "yarg"]
+	path = feedstocks/yarg
+	url = https://github.com/conda-forge/yarg-feedstock.git
