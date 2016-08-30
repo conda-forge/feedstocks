@@ -3138,3 +3138,21 @@
 [submodule "yarg"]
 	path = feedstocks/yarg
 	url = https://github.com/conda-forge/yarg-feedstock.git
+[submodule "dbus"]
+	path = feedstocks/dbus
+	url = https://github.com/conda-forge/dbus-feedstock.git
+[submodule "gstreamer"]
+	path = feedstocks/gstreamer
+	url = https://github.com/conda-forge/gstreamer-feedstock.git
+[submodule "instaseis"]
+	path = feedstocks/instaseis
+	url = https://github.com/conda-forge/instaseis-feedstock.git
+[submodule "pandas-profiling"]
+	path = feedstocks/pandas-profiling
+	url = https://github.com/conda-forge/pandas-profiling-feedstock.git
+[submodule "vobject"]
+	path = feedstocks/vobject
+	url = https://github.com/conda-forge/vobject-feedstock.git
+[submodule "xcb-proto"]
+	path = feedstocks/xcb-proto
+	url = https://github.com/conda-forge/xcb-proto-feedstock.git
