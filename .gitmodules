@@ -3156,3 +3156,36 @@
 [submodule "xcb-proto"]
 	path = feedstocks/xcb-proto
 	url = https://github.com/conda-forge/xcb-proto-feedstock.git
+[submodule "cement"]
+	path = feedstocks/cement
+	url = https://github.com/conda-forge/cement-feedstock.git
+[submodule "configargparse"]
+	path = feedstocks/configargparse
+	url = https://github.com/conda-forge/configargparse-feedstock.git
+[submodule "cycamore"]
+	path = feedstocks/cycamore
+	url = https://github.com/conda-forge/cycamore-feedstock.git
+[submodule "fabric"]
+	path = feedstocks/fabric
+	url = https://github.com/conda-forge/fabric-feedstock.git
+[submodule "flask-mail"]
+	path = feedstocks/flask-mail
+	url = https://github.com/conda-forge/flask-mail-feedstock.git
+[submodule "mongoengine"]
+	path = feedstocks/mongoengine
+	url = https://github.com/conda-forge/mongoengine-feedstock.git
+[submodule "pthread-stubs"]
+	path = feedstocks/pthread-stubs
+	url = https://github.com/conda-forge/pthread-stubs-feedstock.git
+[submodule "requests-cache"]
+	path = feedstocks/requests-cache
+	url = https://github.com/conda-forge/requests-cache-feedstock.git
+[submodule "tldextract"]
+	path = feedstocks/tldextract
+	url = https://github.com/conda-forge/tldextract-feedstock.git
+[submodule "toro"]
+	path = feedstocks/toro
+	url = https://github.com/conda-forge/toro-feedstock.git
+[submodule "watchdog"]
+	path = feedstocks/watchdog
+	url = https://github.com/conda-forge/watchdog-feedstock.git
