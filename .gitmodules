@@ -3189,3 +3189,18 @@
 [submodule "watchdog"]
 	path = feedstocks/watchdog
 	url = https://github.com/conda-forge/watchdog-feedstock.git
+[submodule "flask-basicauth"]
+	path = feedstocks/flask-basicauth
+	url = https://github.com/conda-forge/flask-basicauth-feedstock.git
+[submodule "libxcb"]
+	path = feedstocks/libxcb
+	url = https://github.com/conda-forge/libxcb-feedstock.git
+[submodule "ndg-httpsclient"]
+	path = feedstocks/ndg-httpsclient
+	url = https://github.com/conda-forge/ndg-httpsclient-feedstock.git
+[submodule "pdfminer.six"]
+	path = feedstocks/pdfminer.six
+	url = https://github.com/conda-forge/pdfminer.six-feedstock.git
+[submodule "wtf-peewee"]
+	path = feedstocks/wtf-peewee
+	url = https://github.com/conda-forge/wtf-peewee-feedstock.git
