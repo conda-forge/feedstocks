@@ -3204,3 +3204,12 @@
 [submodule "wtf-peewee"]
 	path = feedstocks/wtf-peewee
 	url = https://github.com/conda-forge/wtf-peewee-feedstock.git
+[submodule "cov-core"]
+	path = feedstocks/cov-core
+	url = https://github.com/conda-forge/cov-core-feedstock.git
+[submodule "libxslt"]
+	path = feedstocks/libxslt
+	url = https://github.com/conda-forge/libxslt-feedstock.git
+[submodule "lxml"]
+	path = feedstocks/lxml
+	url = https://github.com/conda-forge/lxml-feedstock.git
