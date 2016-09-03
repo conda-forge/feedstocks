@@ -3213,3 +3213,30 @@
 [submodule "lxml"]
 	path = feedstocks/lxml
 	url = https://github.com/conda-forge/lxml-feedstock.git
+[submodule "backports.ssl"]
+	path = feedstocks/backports.ssl
+	url = https://github.com/conda-forge/backports.ssl-feedstock.git
+[submodule "cloudant"]
+	path = feedstocks/cloudant
+	url = https://github.com/conda-forge/cloudant-feedstock.git
+[submodule "datreant"]
+	path = feedstocks/datreant
+	url = https://github.com/conda-forge/datreant-feedstock.git
+[submodule "datreant.core"]
+	path = feedstocks/datreant.core
+	url = https://github.com/conda-forge/datreant.core-feedstock.git
+[submodule "flask-principal"]
+	path = feedstocks/flask-principal
+	url = https://github.com/conda-forge/flask-principal-feedstock.git
+[submodule "grequests"]
+	path = feedstocks/grequests
+	url = https://github.com/conda-forge/grequests-feedstock.git
+[submodule "pyasn1-modules"]
+	path = feedstocks/pyasn1-modules
+	url = https://github.com/conda-forge/pyasn1-modules-feedstock.git
+[submodule "sentinels"]
+	path = feedstocks/sentinels
+	url = https://github.com/conda-forge/sentinels-feedstock.git
+[submodule "wsgiref"]
+	path = feedstocks/wsgiref
+	url = https://github.com/conda-forge/wsgiref-feedstock.git
