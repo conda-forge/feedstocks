@@ -3240,3 +3240,9 @@
 [submodule "wsgiref"]
 	path = feedstocks/wsgiref
 	url = https://github.com/conda-forge/wsgiref-feedstock.git
+[submodule "doublemetaphone"]
+	path = feedstocks/doublemetaphone
+	url = https://github.com/conda-forge/doublemetaphone-feedstock.git
+[submodule "testtools"]
+	path = feedstocks/testtools
+	url = https://github.com/conda-forge/testtools-feedstock.git
