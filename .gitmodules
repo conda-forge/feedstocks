@@ -3258,3 +3258,15 @@
 [submodule "python-blosc"]
 	path = feedstocks/python-blosc
 	url = https://github.com/conda-forge/python-blosc-feedstock.git
+[submodule "islpy"]
+	path = feedstocks/islpy
+	url = https://github.com/conda-forge/islpy-feedstock.git
+[submodule "libhwloc"]
+	path = feedstocks/libhwloc
+	url = https://github.com/conda-forge/libhwloc-feedstock.git
+[submodule "pyagrum"]
+	path = feedstocks/pyagrum
+	url = https://github.com/conda-forge/pyagrum-feedstock.git
+[submodule "pytest-cookies"]
+	path = feedstocks/pytest-cookies
+	url = https://github.com/conda-forge/pytest-cookies-feedstock.git
