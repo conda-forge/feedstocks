@@ -3246,3 +3246,15 @@
 [submodule "testtools"]
 	path = feedstocks/testtools
 	url = https://github.com/conda-forge/testtools-feedstock.git
+[submodule "blosc"]
+	path = feedstocks/blosc
+	url = https://github.com/conda-forge/blosc-feedstock.git
+[submodule "bloscpack"]
+	path = feedstocks/bloscpack
+	url = https://github.com/conda-forge/bloscpack-feedstock.git
+[submodule "mdtraj"]
+	path = feedstocks/mdtraj
+	url = https://github.com/conda-forge/mdtraj-feedstock.git
+[submodule "python-blosc"]
+	path = feedstocks/python-blosc
+	url = https://github.com/conda-forge/python-blosc-feedstock.git
