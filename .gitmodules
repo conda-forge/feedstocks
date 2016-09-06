@@ -3270,3 +3270,9 @@
 [submodule "pytest-cookies"]
 	path = feedstocks/pytest-cookies
 	url = https://github.com/conda-forge/pytest-cookies-feedstock.git
+[submodule "imapclient"]
+	path = feedstocks/imapclient
+	url = https://github.com/conda-forge/imapclient-feedstock.git
+[submodule "mpi4py"]
+	path = feedstocks/mpi4py
+	url = https://github.com/conda-forge/mpi4py-feedstock.git
