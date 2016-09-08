@@ -3279,3 +3279,24 @@
 [submodule "paramiko"]
 	path = feedstocks/paramiko
 	url = https://github.com/conda-forge/paramiko-feedstock.git
+[submodule "fabric3"]
+	path = feedstocks/fabric3
+	url = https://github.com/conda-forge/fabric3-feedstock.git
+[submodule "fixtures"]
+	path = feedstocks/fixtures
+	url = https://github.com/conda-forge/fixtures-feedstock.git
+[submodule "hachoir-regex"]
+	path = feedstocks/hachoir-regex
+	url = https://github.com/conda-forge/hachoir-regex-feedstock.git
+[submodule "hachoir-urwid"]
+	path = feedstocks/hachoir-urwid
+	url = https://github.com/conda-forge/hachoir-urwid-feedstock.git
+[submodule "iris-grib"]
+	path = feedstocks/iris-grib
+	url = https://github.com/conda-forge/iris-grib-feedstock.git
+[submodule "iris-sample-data"]
+	path = feedstocks/iris-sample-data
+	url = https://github.com/conda-forge/iris-sample-data-feedstock.git
+[submodule "python-engineio"]
+	path = feedstocks/python-engineio
+	url = https://github.com/conda-forge/python-engineio-feedstock.git
