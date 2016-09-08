@@ -3300,3 +3300,15 @@
 [submodule "python-engineio"]
 	path = feedstocks/python-engineio
 	url = https://github.com/conda-forge/python-engineio-feedstock.git
+[submodule "cube_browser"]
+	path = feedstocks/cube_browser
+	url = https://github.com/conda-forge/cube_browser-feedstock.git
+[submodule "hachoir-wx"]
+	path = feedstocks/hachoir-wx
+	url = https://github.com/conda-forge/hachoir-wx-feedstock.git
+[submodule "mrjob"]
+	path = feedstocks/mrjob
+	url = https://github.com/conda-forge/mrjob-feedstock.git
+[submodule "pyxley"]
+	path = feedstocks/pyxley
+	url = https://github.com/conda-forge/pyxley-feedstock.git
