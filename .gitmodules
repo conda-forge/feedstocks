@@ -3312,3 +3312,39 @@
 [submodule "pyxley"]
 	path = feedstocks/pyxley
 	url = https://github.com/conda-forge/pyxley-feedstock.git
+[submodule "bcdoc"]
+	path = feedstocks/bcdoc
+	url = https://github.com/conda-forge/bcdoc-feedstock.git
+[submodule "bottle"]
+	path = feedstocks/bottle
+	url = https://github.com/conda-forge/bottle-feedstock.git
+[submodule "fretbursts"]
+	path = feedstocks/fretbursts
+	url = https://github.com/conda-forge/fretbursts-feedstock.git
+[submodule "ipython-autotime"]
+	path = feedstocks/ipython-autotime
+	url = https://github.com/conda-forge/ipython-autotime-feedstock.git
+[submodule "metis"]
+	path = feedstocks/metis
+	url = https://github.com/conda-forge/metis-feedstock.git
+[submodule "openmpi"]
+	path = feedstocks/openmpi
+	url = https://github.com/conda-forge/openmpi-feedstock.git
+[submodule "pathlib"]
+	path = feedstocks/pathlib
+	url = https://github.com/conda-forge/pathlib-feedstock.git
+[submodule "pipreqs"]
+	path = feedstocks/pipreqs
+	url = https://github.com/conda-forge/pipreqs-feedstock.git
+[submodule "pyinstrument"]
+	path = feedstocks/pyinstrument
+	url = https://github.com/conda-forge/pyinstrument-feedstock.git
+[submodule "python-annoy"]
+	path = feedstocks/python-annoy
+	url = https://github.com/conda-forge/python-annoy-feedstock.git
+[submodule "python-termstyle"]
+	path = feedstocks/python-termstyle
+	url = https://github.com/conda-forge/python-termstyle-feedstock.git
+[submodule "wakatime"]
+	path = feedstocks/wakatime
+	url = https://github.com/conda-forge/wakatime-feedstock.git
