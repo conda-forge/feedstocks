@@ -3438,3 +3438,15 @@
 [submodule "sseclient"]
 	path = feedstocks/sseclient
 	url = https://github.com/conda-forge/sseclient-feedstock.git
+[submodule "markdown2"]
+	path = feedstocks/markdown2
+	url = https://github.com/conda-forge/markdown2-feedstock.git
+[submodule "oslo.i18n"]
+	path = feedstocks/oslo.i18n
+	url = https://github.com/conda-forge/oslo.i18n-feedstock.git
+[submodule "pyqt"]
+	path = feedstocks/pyqt
+	url = https://github.com/conda-forge/pyqt-feedstock.git
+[submodule "sh"]
+	path = feedstocks/sh
+	url = https://github.com/conda-forge/sh-feedstock.git
