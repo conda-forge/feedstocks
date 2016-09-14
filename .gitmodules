@@ -3402,3 +3402,39 @@
 [submodule "zodburi"]
 	path = feedstocks/zodburi
 	url = https://github.com/conda-forge/zodburi-feedstock.git
+[submodule "datreant.data"]
+	path = feedstocks/datreant.data
+	url = https://github.com/conda-forge/datreant.data-feedstock.git
+[submodule "flask-genshi"]
+	path = feedstocks/flask-genshi
+	url = https://github.com/conda-forge/flask-genshi-feedstock.git
+[submodule "flask-xml-rpc"]
+	path = feedstocks/flask-xml-rpc
+	url = https://github.com/conda-forge/flask-xml-rpc-feedstock.git
+[submodule "frozen-flask"]
+	path = feedstocks/frozen-flask
+	url = https://github.com/conda-forge/frozen-flask-feedstock.git
+[submodule "gst-plugins-base"]
+	path = feedstocks/gst-plugins-base
+	url = https://github.com/conda-forge/gst-plugins-base-feedstock.git
+[submodule "lockfile"]
+	path = feedstocks/lockfile
+	url = https://github.com/conda-forge/lockfile-feedstock.git
+[submodule "marshmallow"]
+	path = feedstocks/marshmallow
+	url = https://github.com/conda-forge/marshmallow-feedstock.git
+[submodule "python-couchdb"]
+	path = feedstocks/python-couchdb
+	url = https://github.com/conda-forge/python-couchdb-feedstock.git
+[submodule "python-highcharts"]
+	path = feedstocks/python-highcharts
+	url = https://github.com/conda-forge/python-highcharts-feedstock.git
+[submodule "python-socketio"]
+	path = feedstocks/python-socketio
+	url = https://github.com/conda-forge/python-socketio-feedstock.git
+[submodule "sphinx-pypi-upload"]
+	path = feedstocks/sphinx-pypi-upload
+	url = https://github.com/conda-forge/sphinx-pypi-upload-feedstock.git
+[submodule "sseclient"]
+	path = feedstocks/sseclient
+	url = https://github.com/conda-forge/sseclient-feedstock.git
