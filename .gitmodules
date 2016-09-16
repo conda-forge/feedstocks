@@ -3453,3 +3453,21 @@
 [submodule "dlib"]
 	path = feedstocks/dlib
 	url = https://github.com/conda-forge/dlib-feedstock.git
+[submodule "flake8-quotes"]
+	path = feedstocks/flake8-quotes
+	url = https://github.com/conda-forge/flake8-quotes-feedstock.git
+[submodule "flask-moment"]
+	path = feedstocks/flask-moment
+	url = https://github.com/conda-forge/flask-moment-feedstock.git
+[submodule "gtest"]
+	path = feedstocks/gtest
+	url = https://github.com/conda-forge/gtest-feedstock.git
+[submodule "multipledispatch"]
+	path = feedstocks/multipledispatch
+	url = https://github.com/conda-forge/multipledispatch-feedstock.git
+[submodule "qca"]
+	path = feedstocks/qca
+	url = https://github.com/conda-forge/qca-feedstock.git
+[submodule "qjson"]
+	path = feedstocks/qjson
+	url = https://github.com/conda-forge/qjson-feedstock.git
