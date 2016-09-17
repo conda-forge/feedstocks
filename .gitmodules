@@ -3471,3 +3471,15 @@
 [submodule "qjson"]
 	path = feedstocks/qjson
 	url = https://github.com/conda-forge/qjson-feedstock.git
+[submodule "factory_boy"]
+	path = feedstocks/factory_boy
+	url = https://github.com/conda-forge/factory_boy-feedstock.git
+[submodule "pygeoip"]
+	path = feedstocks/pygeoip
+	url = https://github.com/conda-forge/pygeoip-feedstock.git
+[submodule "qscintilla2"]
+	path = feedstocks/qscintilla2
+	url = https://github.com/conda-forge/qscintilla2-feedstock.git
+[submodule "webassets"]
+	path = feedstocks/webassets
+	url = https://github.com/conda-forge/webassets-feedstock.git
