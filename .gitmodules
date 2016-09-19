@@ -3483,3 +3483,21 @@
 [submodule "webassets"]
 	path = feedstocks/webassets
 	url = https://github.com/conda-forge/webassets-feedstock.git
+[submodule "bidict"]
+	path = feedstocks/bidict
+	url = https://github.com/conda-forge/bidict-feedstock.git
+[submodule "flask-cors"]
+	path = feedstocks/flask-cors
+	url = https://github.com/conda-forge/flask-cors-feedstock.git
+[submodule "flask-couchdb"]
+	path = feedstocks/flask-couchdb
+	url = https://github.com/conda-forge/flask-couchdb-feedstock.git
+[submodule "flask-restless"]
+	path = feedstocks/flask-restless
+	url = https://github.com/conda-forge/flask-restless-feedstock.git
+[submodule "jellyfish"]
+	path = feedstocks/jellyfish
+	url = https://github.com/conda-forge/jellyfish-feedstock.git
+[submodule "parsedatetime"]
+	path = feedstocks/parsedatetime
+	url = https://github.com/conda-forge/parsedatetime-feedstock.git
