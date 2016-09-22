@@ -3579,3 +3579,33 @@
 [submodule "visvis"]
 	path = feedstocks/visvis
 	url = https://github.com/conda-forge/visvis-feedstock.git
+[submodule "defusedxml"]
+	path = feedstocks/defusedxml
+	url = https://github.com/conda-forge/defusedxml-feedstock.git
+[submodule "flask-flatpages"]
+	path = feedstocks/flask-flatpages
+	url = https://github.com/conda-forge/flask-flatpages-feedstock.git
+[submodule "flask-script"]
+	path = feedstocks/flask-script
+	url = https://github.com/conda-forge/flask-script-feedstock.git
+[submodule "msg-extractor"]
+	path = feedstocks/msg-extractor
+	url = https://github.com/conda-forge/msg-extractor-feedstock.git
+[submodule "nbexamples"]
+	path = feedstocks/nbexamples
+	url = https://github.com/conda-forge/nbexamples-feedstock.git
+[submodule "oslo.utils"]
+	path = feedstocks/oslo.utils
+	url = https://github.com/conda-forge/oslo.utils-feedstock.git
+[submodule "pandas-highcharts"]
+	path = feedstocks/pandas-highcharts
+	url = https://github.com/conda-forge/pandas-highcharts-feedstock.git
+[submodule "seqan-library"]
+	path = feedstocks/seqan-library
+	url = https://github.com/conda-forge/seqan-library-feedstock.git
+[submodule "us"]
+	path = feedstocks/us
+	url = https://github.com/conda-forge/us-feedstock.git
+[submodule "versiontools"]
+	path = feedstocks/versiontools
+	url = https://github.com/conda-forge/versiontools-feedstock.git
