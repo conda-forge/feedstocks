@@ -3609,3 +3609,12 @@
 [submodule "versiontools"]
 	path = feedstocks/versiontools
 	url = https://github.com/conda-forge/versiontools-feedstock.git
+[submodule "msmtools"]
+	path = feedstocks/msmtools
+	url = https://github.com/conda-forge/msmtools-feedstock.git
+[submodule "sundials"]
+	path = feedstocks/sundials
+	url = https://github.com/conda-forge/sundials-feedstock.git
+[submodule "textract"]
+	path = feedstocks/textract
+	url = https://github.com/conda-forge/textract-feedstock.git
