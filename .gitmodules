@@ -3618,3 +3618,12 @@
 [submodule "textract"]
 	path = feedstocks/textract
 	url = https://github.com/conda-forge/textract-feedstock.git
+[submodule "emacs"]
+	path = feedstocks/emacs
+	url = https://github.com/conda-forge/emacs-feedstock.git
+[submodule "pkgconfig"]
+	path = feedstocks/pkgconfig
+	url = https://github.com/conda-forge/pkgconfig-feedstock.git
+[submodule "python3-openid"]
+	path = feedstocks/python3-openid
+	url = https://github.com/conda-forge/python3-openid-feedstock.git
