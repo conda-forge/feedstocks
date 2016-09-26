@@ -3630,3 +3630,15 @@
 [submodule "gala"]
 	path = feedstocks/gala
 	url = https://github.com/conda-forge/gala-feedstock.git
+[submodule "cheat"]
+	path = feedstocks/cheat
+	url = https://github.com/conda-forge/cheat-feedstock.git
+[submodule "openpiv"]
+	path = feedstocks/openpiv
+	url = https://github.com/conda-forge/openpiv-feedstock.git
+[submodule "pandas-summary"]
+	path = feedstocks/pandas-summary
+	url = https://github.com/conda-forge/pandas-summary-feedstock.git
+[submodule "pygrametl"]
+	path = feedstocks/pygrametl
+	url = https://github.com/conda-forge/pygrametl-feedstock.git
