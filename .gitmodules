@@ -3642,3 +3642,12 @@
 [submodule "pygrametl"]
 	path = feedstocks/pygrametl
 	url = https://github.com/conda-forge/pygrametl-feedstock.git
+[submodule "arpack"]
+	path = feedstocks/arpack
+	url = https://github.com/conda-forge/arpack-feedstock.git
+[submodule "arpackpp"]
+	path = feedstocks/arpackpp
+	url = https://github.com/conda-forge/arpackpp-feedstock.git
+[submodule "moab"]
+	path = feedstocks/moab
+	url = https://github.com/conda-forge/moab-feedstock.git
