@@ -3651,3 +3651,15 @@
 [submodule "moab"]
 	path = feedstocks/moab
 	url = https://github.com/conda-forge/moab-feedstock.git
+[submodule "otlhs"]
+	path = feedstocks/otlhs
+	url = https://github.com/conda-forge/otlhs-feedstock.git
+[submodule "repeated_test"]
+	path = feedstocks/repeated_test
+	url = https://github.com/conda-forge/repeated_test-feedstock.git
+[submodule "unzip"]
+	path = feedstocks/unzip
+	url = https://github.com/conda-forge/unzip-feedstock.git
+[submodule "zip"]
+	path = feedstocks/zip
+	url = https://github.com/conda-forge/zip-feedstock.git
