@@ -1122,9 +1122,6 @@
 [submodule "bob.learn.libsvm"]
 	path = feedstocks/bob.learn.libsvm
 	url = https://github.com/conda-forge/bob.learn.libsvm-feedstock.git
-[submodule "bob.db.verification.utils"]
-	path = feedstocks/bob.db.verification.utils
-	url = https://github.com/conda-forge/bob.db.verification.utils-feedstock.git
 [submodule "bob.ip.color"]
 	path = feedstocks/bob.ip.color
 	url = https://github.com/conda-forge/bob.ip.color-feedstock.git
@@ -1155,84 +1152,21 @@
 [submodule "cloog"]
 	path = feedstocks/cloog
 	url = https://github.com/conda-forge/cloog-feedstock.git
-[submodule "antispoofing.utils"]
-	path = feedstocks/antispoofing.utils
-	url = https://github.com/conda-forge/antispoofing.utils-feedstock.git
-[submodule "bob.db.atvskeystroke"]
-	path = feedstocks/bob.db.atvskeystroke
-	url = https://github.com/conda-forge/bob.db.atvskeystroke-feedstock.git
-[submodule "bob.db.banca"]
-	path = feedstocks/bob.db.banca
-	url = https://github.com/conda-forge/bob.db.banca-feedstock.git
-[submodule "bob.db.biosecure"]
-	path = feedstocks/bob.db.biosecure
-	url = https://github.com/conda-forge/bob.db.biosecure-feedstock.git
-[submodule "bob.db.biosecurid.face"]
-	path = feedstocks/bob.db.biosecurid.face
-	url = https://github.com/conda-forge/bob.db.biosecurid.face-feedstock.git
-[submodule "bob.db.caspeal"]
-	path = feedstocks/bob.db.caspeal
-	url = https://github.com/conda-forge/bob.db.caspeal-feedstock.git
-[submodule "bob.db.gbu"]
-	path = feedstocks/bob.db.gbu
-	url = https://github.com/conda-forge/bob.db.gbu-feedstock.git
-[submodule "bob.db.kboc16"]
-	path = feedstocks/bob.db.kboc16
-	url = https://github.com/conda-forge/bob.db.kboc16-feedstock.git
-[submodule "bob.db.lfw"]
-	path = feedstocks/bob.db.lfw
-	url = https://github.com/conda-forge/bob.db.lfw-feedstock.git
-[submodule "bob.db.livdet2013"]
-	path = feedstocks/bob.db.livdet2013
-	url = https://github.com/conda-forge/bob.db.livdet2013-feedstock.git
-[submodule "bob.db.mobio"]
-	path = feedstocks/bob.db.mobio
-	url = https://github.com/conda-forge/bob.db.mobio-feedstock.git
-[submodule "bob.db.multipie"]
-	path = feedstocks/bob.db.multipie
-	url = https://github.com/conda-forge/bob.db.multipie-feedstock.git
-[submodule "bob.db.nist_sre12"]
-	path = feedstocks/bob.db.nist_sre12
-	url = https://github.com/conda-forge/bob.db.nist_sre12-feedstock.git
-[submodule "bob.db.scface"]
-	path = feedstocks/bob.db.scface
-	url = https://github.com/conda-forge/bob.db.scface-feedstock.git
-[submodule "bob.db.utfvp"]
-	path = feedstocks/bob.db.utfvp
-	url = https://github.com/conda-forge/bob.db.utfvp-feedstock.git
-[submodule "bob.db.xm2vts"]
-	path = feedstocks/bob.db.xm2vts
-	url = https://github.com/conda-forge/bob.db.xm2vts-feedstock.git
-[submodule "bob.db.youtube"]
-	path = feedstocks/bob.db.youtube
-	url = https://github.com/conda-forge/bob.db.youtube-feedstock.git
 [submodule "mpl-probscale"]
 	path = feedstocks/mpl-probscale
 	url = https://github.com/conda-forge/mpl-probscale-feedstock.git
 [submodule "gettext"]
 	path = feedstocks/gettext
 	url = https://github.com/conda-forge/gettext-feedstock.git
-[submodule "bob.db.arface"]
-	path = feedstocks/bob.db.arface
-	url = https://github.com/conda-forge/bob.db.arface-feedstock.git
 [submodule "bob.db.atnt"]
 	path = feedstocks/bob.db.atnt
 	url = https://github.com/conda-forge/bob.db.atnt-feedstock.git
-[submodule "bob.db.casme2"]
-	path = feedstocks/bob.db.casme2
-	url = https://github.com/conda-forge/bob.db.casme2-feedstock.git
 [submodule "bob.db.frgc"]
 	path = feedstocks/bob.db.frgc
 	url = https://github.com/conda-forge/bob.db.frgc-feedstock.git
 [submodule "bob.db.iris"]
 	path = feedstocks/bob.db.iris
 	url = https://github.com/conda-forge/bob.db.iris-feedstock.git
-[submodule "bob.db.replay"]
-	path = feedstocks/bob.db.replay
-	url = https://github.com/conda-forge/bob.db.replay-feedstock.git
-[submodule "bob.db.verification.filelist"]
-	path = feedstocks/bob.db.verification.filelist
-	url = https://github.com/conda-forge/bob.db.verification.filelist-feedstock.git
 [submodule "bob.ip.optflow.liu"]
 	path = feedstocks/bob.ip.optflow.liu
 	url = https://github.com/conda-forge/bob.ip.optflow.liu-feedstock.git
@@ -1317,15 +1251,6 @@
 [submodule "bob.ip.base"]
 	path = feedstocks/bob.ip.base
 	url = https://github.com/conda-forge/bob.ip.base-feedstock.git
-[submodule "bob.db.casia_fasd"]
-	path = feedstocks/bob.db.casia_fasd
-	url = https://github.com/conda-forge/bob.db.casia_fasd-feedstock.git
-[submodule "bob.db.msu_mfsd_mod"]
-	path = feedstocks/bob.db.msu_mfsd_mod
-	url = https://github.com/conda-forge/bob.db.msu_mfsd_mod-feedstock.git
-[submodule "bob.db.voxforge"]
-	path = feedstocks/bob.db.voxforge
-	url = https://github.com/conda-forge/bob.db.voxforge-feedstock.git
 [submodule "tabulate"]
 	path = feedstocks/tabulate
 	url = https://github.com/conda-forge/tabulate-feedstock.git
@@ -1359,9 +1284,6 @@
 [submodule "jinja2"]
 	path = feedstocks/jinja2
 	url = https://github.com/conda-forge/jinja2-feedstock.git
-[submodule "bob.db.avspoof"]
-	path = feedstocks/bob.db.avspoof
-	url = https://github.com/conda-forge/bob.db.avspoof-feedstock.git
 [submodule "serpent"]
 	path = feedstocks/serpent
 	url = https://github.com/conda-forge/serpent-feedstock.git
@@ -1401,15 +1323,6 @@
 [submodule "pamela"]
 	path = feedstocks/pamela
 	url = https://github.com/conda-forge/pamela-feedstock.git
-[submodule "bob.bio.base"]
-	path = feedstocks/bob.bio.base
-	url = https://github.com/conda-forge/bob.bio.base-feedstock.git
-[submodule "bob.bio.gmm"]
-	path = feedstocks/bob.bio.gmm
-	url = https://github.com/conda-forge/bob.bio.gmm-feedstock.git
-[submodule "bob.bio.spear"]
-	path = feedstocks/bob.bio.spear
-	url = https://github.com/conda-forge/bob.bio.spear-feedstock.git
 [submodule "tempita"]
 	path = feedstocks/tempita
 	url = https://github.com/conda-forge/tempita-feedstock.git
@@ -2373,12 +2286,6 @@
 [submodule "altair"]
 	path = feedstocks/altair
 	url = https://github.com/conda-forge/altair-feedstock.git
-[submodule "bob.bio.face"]
-	path = feedstocks/bob.bio.face
-	url = https://github.com/conda-forge/bob.bio.face-feedstock.git
-[submodule "bob.bio.video"]
-	path = feedstocks/bob.bio.video
-	url = https://github.com/conda-forge/bob.bio.video-feedstock.git
 [submodule "click"]
 	path = feedstocks/click
 	url = https://github.com/conda-forge/click-feedstock.git
@@ -3663,3 +3570,12 @@
 [submodule "zip"]
 	path = feedstocks/zip
 	url = https://github.com/conda-forge/zip-feedstock.git
+[submodule "contextily"]
+	path = feedstocks/contextily
+	url = https://github.com/conda-forge/contextily-feedstock.git
+[submodule "mercantile"]
+	path = feedstocks/mercantile
+	url = https://github.com/conda-forge/mercantile-feedstock.git
+[submodule "sshtunnel"]
+	path = feedstocks/sshtunnel
+	url = https://github.com/conda-forge/sshtunnel-feedstock.git
