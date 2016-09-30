@@ -3579,3 +3579,33 @@
 [submodule "sshtunnel"]
 	path = feedstocks/sshtunnel
 	url = https://github.com/conda-forge/sshtunnel-feedstock.git
+[submodule "autowrap"]
+	path = feedstocks/autowrap
+	url = https://github.com/conda-forge/autowrap-feedstock.git
+[submodule "conda-wrappers"]
+	path = feedstocks/conda-wrappers
+	url = https://github.com/conda-forge/conda-wrappers-feedstock.git
+[submodule "petl"]
+	path = feedstocks/petl
+	url = https://github.com/conda-forge/petl-feedstock.git
+[submodule "progress_reporter"]
+	path = feedstocks/progress_reporter
+	url = https://github.com/conda-forge/progress_reporter-feedstock.git
+[submodule "pytest-cache"]
+	path = feedstocks/pytest-cache
+	url = https://github.com/conda-forge/pytest-cache-feedstock.git
+[submodule "refnx"]
+	path = feedstocks/refnx
+	url = https://github.com/conda-forge/refnx-feedstock.git
+[submodule "retrying"]
+	path = feedstocks/retrying
+	url = https://github.com/conda-forge/retrying-feedstock.git
+[submodule "scikit-allel"]
+	path = feedstocks/scikit-allel
+	url = https://github.com/conda-forge/scikit-allel-feedstock.git
+[submodule "tokyocabinet"]
+	path = feedstocks/tokyocabinet
+	url = https://github.com/conda-forge/tokyocabinet-feedstock.git
+[submodule "zc.lockfile"]
+	path = feedstocks/zc.lockfile
+	url = https://github.com/conda-forge/zc.lockfile-feedstock.git
