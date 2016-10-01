@@ -1161,9 +1161,6 @@
 [submodule "bob.db.atnt"]
 	path = feedstocks/bob.db.atnt
 	url = https://github.com/conda-forge/bob.db.atnt-feedstock.git
-[submodule "bob.db.frgc"]
-	path = feedstocks/bob.db.frgc
-	url = https://github.com/conda-forge/bob.db.frgc-feedstock.git
 [submodule "bob.db.iris"]
 	path = feedstocks/bob.db.iris
 	url = https://github.com/conda-forge/bob.db.iris-feedstock.git
@@ -3609,3 +3606,9 @@
 [submodule "zc.lockfile"]
 	path = feedstocks/zc.lockfile
 	url = https://github.com/conda-forge/zc.lockfile-feedstock.git
+[submodule "periodictable"]
+	path = feedstocks/periodictable
+	url = https://github.com/conda-forge/periodictable-feedstock.git
+[submodule "pytest-pep8"]
+	path = feedstocks/pytest-pep8
+	url = https://github.com/conda-forge/pytest-pep8-feedstock.git
