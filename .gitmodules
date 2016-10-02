@@ -3612,3 +3612,18 @@
 [submodule "pytest-pep8"]
 	path = feedstocks/pytest-pep8
 	url = https://github.com/conda-forge/pytest-pep8-feedstock.git
+[submodule "asteval"]
+	path = feedstocks/asteval
+	url = https://github.com/conda-forge/asteval-feedstock.git
+[submodule "embree"]
+	path = feedstocks/embree
+	url = https://github.com/conda-forge/embree-feedstock.git
+[submodule "pprofile"]
+	path = feedstocks/pprofile
+	url = https://github.com/conda-forge/pprofile-feedstock.git
+[submodule "pytest-flakes"]
+	path = feedstocks/pytest-flakes
+	url = https://github.com/conda-forge/pytest-flakes-feedstock.git
+[submodule "trackpy"]
+	path = feedstocks/trackpy
+	url = https://github.com/conda-forge/trackpy-feedstock.git
