@@ -3627,3 +3627,15 @@
 [submodule "trackpy"]
 	path = feedstocks/trackpy
 	url = https://github.com/conda-forge/trackpy-feedstock.git
+[submodule "click-help-colors"]
+	path = feedstocks/click-help-colors
+	url = https://github.com/conda-forge/click-help-colors-feedstock.git
+[submodule "kenjutsu"]
+	path = feedstocks/kenjutsu
+	url = https://github.com/conda-forge/kenjutsu-feedstock.git
+[submodule "metawrap"]
+	path = feedstocks/metawrap
+	url = https://github.com/conda-forge/metawrap-feedstock.git
+[submodule "px4tools"]
+	path = feedstocks/px4tools
+	url = https://github.com/conda-forge/px4tools-feedstock.git
