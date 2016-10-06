@@ -3639,3 +3639,27 @@
 [submodule "px4tools"]
 	path = feedstocks/px4tools
 	url = https://github.com/conda-forge/px4tools-feedstock.git
+[submodule "census"]
+	path = feedstocks/census
+	url = https://github.com/conda-forge/census-feedstock.git
+[submodule "openmc"]
+	path = feedstocks/openmc
+	url = https://github.com/conda-forge/openmc-feedstock.git
+[submodule "pyelastix"]
+	path = feedstocks/pyelastix
+	url = https://github.com/conda-forge/pyelastix-feedstock.git
+[submodule "pyembree"]
+	path = feedstocks/pyembree
+	url = https://github.com/conda-forge/pyembree-feedstock.git
+[submodule "pymc3"]
+	path = feedstocks/pymc3
+	url = https://github.com/conda-forge/pymc3-feedstock.git
+[submodule "pyne"]
+	path = feedstocks/pyne
+	url = https://github.com/conda-forge/pyne-feedstock.git
+[submodule "pyside"]
+	path = feedstocks/pyside
+	url = https://github.com/conda-forge/pyside-feedstock.git
+[submodule "validictory"]
+	path = feedstocks/validictory
+	url = https://github.com/conda-forge/validictory-feedstock.git
