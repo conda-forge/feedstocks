@@ -3669,3 +3669,6 @@
 [submodule "jpype1"]
 	path = feedstocks/jpype1
 	url = https://github.com/conda-forge/jpype1-feedstock.git
+[submodule "ccache"]
+	path = feedstocks/ccache
+	url = https://github.com/conda-forge/ccache-feedstock.git
