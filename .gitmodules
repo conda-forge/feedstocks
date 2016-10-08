@@ -3672,3 +3672,15 @@
 [submodule "ccache"]
 	path = feedstocks/ccache
 	url = https://github.com/conda-forge/ccache-feedstock.git
+[submodule "av"]
+	path = feedstocks/av
+	url = https://github.com/conda-forge/av-feedstock.git
+[submodule "clcache"]
+	path = feedstocks/clcache
+	url = https://github.com/conda-forge/clcache-feedstock.git
+[submodule "fermipy"]
+	path = feedstocks/fermipy
+	url = https://github.com/conda-forge/fermipy-feedstock.git
+[submodule "llvmdev"]
+	path = feedstocks/llvmdev
+	url = https://github.com/conda-forge/llvmdev-feedstock.git
