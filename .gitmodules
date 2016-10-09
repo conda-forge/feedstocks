@@ -3684,3 +3684,9 @@
 [submodule "llvmdev"]
 	path = feedstocks/llvmdev
 	url = https://github.com/conda-forge/llvmdev-feedstock.git
+[submodule "warc"]
+	path = feedstocks/warc
+	url = https://github.com/conda-forge/warc-feedstock.git
+[submodule "warctools"]
+	path = feedstocks/warctools
+	url = https://github.com/conda-forge/warctools-feedstock.git
