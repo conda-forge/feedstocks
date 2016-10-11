@@ -3729,3 +3729,18 @@
 [submodule "dask-funk"]
 	path = feedstocks/dask-funk
 	url = https://github.com/conda-forge/dask-funk-feedstock.git
+[submodule "aplus"]
+	path = feedstocks/aplus
+	url = https://github.com/conda-forge/aplus-feedstock.git
+[submodule "npctypes"]
+	path = feedstocks/npctypes
+	url = https://github.com/conda-forge/npctypes-feedstock.git
+[submodule "ocl-icd"]
+	path = feedstocks/ocl-icd
+	url = https://github.com/conda-forge/ocl-icd-feedstock.git
+[submodule "progressbar2"]
+	path = feedstocks/progressbar2
+	url = https://github.com/conda-forge/progressbar2-feedstock.git
+[submodule "prometheus_client"]
+	path = feedstocks/prometheus_client
+	url = https://github.com/conda-forge/prometheus_client-feedstock.git
