@@ -3690,3 +3690,36 @@
 [submodule "warctools"]
 	path = feedstocks/warctools
 	url = https://github.com/conda-forge/warctools-feedstock.git
+[submodule "arrow-cpp"]
+	path = feedstocks/arrow-cpp
+	url = https://github.com/conda-forge/arrow-cpp-feedstock.git
+[submodule "breathe"]
+	path = feedstocks/breathe
+	url = https://github.com/conda-forge/breathe-feedstock.git
+[submodule "cachetools"]
+	path = feedstocks/cachetools
+	url = https://github.com/conda-forge/cachetools-feedstock.git
+[submodule "gdb"]
+	path = feedstocks/gdb
+	url = https://github.com/conda-forge/gdb-feedstock.git
+[submodule "genpy"]
+	path = feedstocks/genpy
+	url = https://github.com/conda-forge/genpy-feedstock.git
+[submodule "hpc05"]
+	path = feedstocks/hpc05
+	url = https://github.com/conda-forge/hpc05-feedstock.git
+[submodule "kapteyn"]
+	path = feedstocks/kapteyn
+	url = https://github.com/conda-forge/kapteyn-feedstock.git
+[submodule "parquet-cpp"]
+	path = feedstocks/parquet-cpp
+	url = https://github.com/conda-forge/parquet-cpp-feedstock.git
+[submodule "pymbolic"]
+	path = feedstocks/pymbolic
+	url = https://github.com/conda-forge/pymbolic-feedstock.git
+[submodule "python-utils"]
+	path = feedstocks/python-utils
+	url = https://github.com/conda-forge/python-utils-feedstock.git
+[submodule "vs2008_express_vc_python_patch"]
+	path = feedstocks/vs2008_express_vc_python_patch
+	url = https://github.com/conda-forge/vs2008_express_vc_python_patch-feedstock.git
