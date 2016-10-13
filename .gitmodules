@@ -3744,3 +3744,9 @@
 [submodule "prometheus_client"]
 	path = feedstocks/prometheus_client
 	url = https://github.com/conda-forge/prometheus_client-feedstock.git
+[submodule "forestci"]
+	path = feedstocks/forestci
+	url = https://github.com/conda-forge/forestci-feedstock.git
+[submodule "sqlparse"]
+	path = feedstocks/sqlparse
+	url = https://github.com/conda-forge/sqlparse-feedstock.git
