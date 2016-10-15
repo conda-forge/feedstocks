@@ -3750,3 +3750,18 @@
 [submodule "sqlparse"]
 	path = feedstocks/sqlparse
 	url = https://github.com/conda-forge/sqlparse-feedstock.git
+[submodule "chemfiles-lib"]
+	path = feedstocks/chemfiles-lib
+	url = https://github.com/conda-forge/chemfiles-lib-feedstock.git
+[submodule "chemfiles-python"]
+	path = feedstocks/chemfiles-python
+	url = https://github.com/conda-forge/chemfiles-python-feedstock.git
+[submodule "libflint"]
+	path = feedstocks/libflint
+	url = https://github.com/conda-forge/libflint-feedstock.git
+[submodule "pyopencl"]
+	path = feedstocks/pyopencl
+	url = https://github.com/conda-forge/pyopencl-feedstock.git
+[submodule "spm1d"]
+	path = feedstocks/spm1d
+	url = https://github.com/conda-forge/spm1d-feedstock.git
