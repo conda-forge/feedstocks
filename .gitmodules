@@ -3765,3 +3765,36 @@
 [submodule "spm1d"]
 	path = feedstocks/spm1d
 	url = https://github.com/conda-forge/spm1d-feedstock.git
+[submodule "elfutils"]
+	path = feedstocks/elfutils
+	url = https://github.com/conda-forge/elfutils-feedstock.git
+[submodule "esgf-pyclient"]
+	path = feedstocks/esgf-pyclient
+	url = https://github.com/conda-forge/esgf-pyclient-feedstock.git
+[submodule "ftputil"]
+	path = feedstocks/ftputil
+	url = https://github.com/conda-forge/ftputil-feedstock.git
+[submodule "modepy"]
+	path = feedstocks/modepy
+	url = https://github.com/conda-forge/modepy-feedstock.git
+[submodule "myproxyclient"]
+	path = feedstocks/myproxyclient
+	url = https://github.com/conda-forge/myproxyclient-feedstock.git
+[submodule "pyopenssl"]
+	path = feedstocks/pyopenssl
+	url = https://github.com/conda-forge/pyopenssl-feedstock.git
+[submodule "pytest-localserver"]
+	path = feedstocks/pytest-localserver
+	url = https://github.com/conda-forge/pytest-localserver-feedstock.git
+[submodule "pyvisfile"]
+	path = feedstocks/pyvisfile
+	url = https://github.com/conda-forge/pyvisfile-feedstock.git
+[submodule "scotch"]
+	path = feedstocks/scotch
+	url = https://github.com/conda-forge/scotch-feedstock.git
+[submodule "shutilwhich"]
+	path = feedstocks/shutilwhich
+	url = https://github.com/conda-forge/shutilwhich-feedstock.git
+[submodule "smart_open"]
+	path = feedstocks/smart_open
+	url = https://github.com/conda-forge/smart_open-feedstock.git
