@@ -3798,3 +3798,12 @@
 [submodule "smart_open"]
 	path = feedstocks/smart_open
 	url = https://github.com/conda-forge/smart_open-feedstock.git
+[submodule "arb"]
+	path = feedstocks/arb
+	url = https://github.com/conda-forge/arb-feedstock.git
+[submodule "pyftpdlib"]
+	path = feedstocks/pyftpdlib
+	url = https://github.com/conda-forge/pyftpdlib-feedstock.git
+[submodule "vaex"]
+	path = feedstocks/vaex
+	url = https://github.com/conda-forge/vaex-feedstock.git
