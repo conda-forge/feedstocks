@@ -3810,3 +3810,24 @@
 [submodule "thermotools"]
 	path = feedstocks/thermotools
 	url = https://github.com/conda-forge/thermotools-feedstock.git
+[submodule "chemfiles"]
+	path = feedstocks/chemfiles
+	url = https://github.com/conda-forge/chemfiles-feedstock.git
+[submodule "flask-migrate"]
+	path = feedstocks/flask-migrate
+	url = https://github.com/conda-forge/flask-migrate-feedstock.git
+[submodule "libgit2"]
+	path = feedstocks/libgit2
+	url = https://github.com/conda-forge/libgit2-feedstock.git
+[submodule "libssh2"]
+	path = feedstocks/libssh2
+	url = https://github.com/conda-forge/libssh2-feedstock.git
+[submodule "podaacpy"]
+	path = feedstocks/podaacpy
+	url = https://github.com/conda-forge/podaacpy-feedstock.git
+[submodule "pytest-catchlog"]
+	path = feedstocks/pytest-catchlog
+	url = https://github.com/conda-forge/pytest-catchlog-feedstock.git
+[submodule "zconfig"]
+	path = feedstocks/zconfig
+	url = https://github.com/conda-forge/zconfig-feedstock.git
