@@ -3852,3 +3852,18 @@
 [submodule "scrapy"]
 	path = feedstocks/scrapy
 	url = https://github.com/conda-forge/scrapy-feedstock.git
+[submodule "lazy"]
+	path = feedstocks/lazy
+	url = https://github.com/conda-forge/lazy-feedstock.git
+[submodule "nbstripout"]
+	path = feedstocks/nbstripout
+	url = https://github.com/conda-forge/nbstripout-feedstock.git
+[submodule "pytest-json"]
+	path = feedstocks/pytest-json
+	url = https://github.com/conda-forge/pytest-json-feedstock.git
+[submodule "watermark"]
+	path = feedstocks/watermark
+	url = https://github.com/conda-forge/watermark-feedstock.git
+[submodule "xnumpy"]
+	path = feedstocks/xnumpy
+	url = https://github.com/conda-forge/xnumpy-feedstock.git
