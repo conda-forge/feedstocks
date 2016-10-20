@@ -3831,3 +3831,24 @@
 [submodule "zconfig"]
 	path = feedstocks/zconfig
 	url = https://github.com/conda-forge/zconfig-feedstock.git
+[submodule "cogapp"]
+	path = feedstocks/cogapp
+	url = https://github.com/conda-forge/cogapp-feedstock.git
+[submodule "cpulimit"]
+	path = feedstocks/cpulimit
+	url = https://github.com/conda-forge/cpulimit-feedstock.git
+[submodule "flask-admin"]
+	path = feedstocks/flask-admin
+	url = https://github.com/conda-forge/flask-admin-feedstock.git
+[submodule "pyarrow"]
+	path = feedstocks/pyarrow
+	url = https://github.com/conda-forge/pyarrow-feedstock.git
+[submodule "pytest-datadir"]
+	path = feedstocks/pytest-datadir
+	url = https://github.com/conda-forge/pytest-datadir-feedstock.git
+[submodule "pytest-timeout"]
+	path = feedstocks/pytest-timeout
+	url = https://github.com/conda-forge/pytest-timeout-feedstock.git
+[submodule "scrapy"]
+	path = feedstocks/scrapy
+	url = https://github.com/conda-forge/scrapy-feedstock.git
