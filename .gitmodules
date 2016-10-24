@@ -3867,3 +3867,18 @@
 [submodule "xnumpy"]
 	path = feedstocks/xnumpy
 	url = https://github.com/conda-forge/xnumpy-feedstock.git
+[submodule "bhmm"]
+	path = feedstocks/bhmm
+	url = https://github.com/conda-forge/bhmm-feedstock.git
+[submodule "hug"]
+	path = feedstocks/hug
+	url = https://github.com/conda-forge/hug-feedstock.git
+[submodule "kuyruk"]
+	path = feedstocks/kuyruk
+	url = https://github.com/conda-forge/kuyruk-feedstock.git
+[submodule "misaka"]
+	path = feedstocks/misaka
+	url = https://github.com/conda-forge/misaka-feedstock.git
+[submodule "pyemma"]
+	path = feedstocks/pyemma
+	url = https://github.com/conda-forge/pyemma-feedstock.git
