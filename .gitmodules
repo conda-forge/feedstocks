@@ -3882,3 +3882,12 @@
 [submodule "pyemma"]
 	path = feedstocks/pyemma
 	url = https://github.com/conda-forge/pyemma-feedstock.git
+[submodule "fenics"]
+	path = feedstocks/fenics
+	url = https://github.com/conda-forge/fenics-feedstock.git
+[submodule "mumps"]
+	path = feedstocks/mumps
+	url = https://github.com/conda-forge/mumps-feedstock.git
+[submodule "otwrapy"]
+	path = feedstocks/otwrapy
+	url = https://github.com/conda-forge/otwrapy-feedstock.git
