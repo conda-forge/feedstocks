@@ -3891,3 +3891,21 @@
 [submodule "otwrapy"]
 	path = feedstocks/otwrapy
 	url = https://github.com/conda-forge/otwrapy-feedstock.git
+[submodule "centrally-managed-conda"]
+	path = feedstocks/centrally-managed-conda
+	url = https://github.com/conda-forge/centrally-managed-conda-feedstock.git
+[submodule "networkx"]
+	path = feedstocks/networkx
+	url = https://github.com/conda-forge/networkx-feedstock.git
+[submodule "pyxdameraulevenshtein"]
+	path = feedstocks/pyxdameraulevenshtein
+	url = https://github.com/conda-forge/pyxdameraulevenshtein-feedstock.git
+[submodule "qtawesome"]
+	path = feedstocks/qtawesome
+	url = https://github.com/conda-forge/qtawesome-feedstock.git
+[submodule "xsgen"]
+	path = feedstocks/xsgen
+	url = https://github.com/conda-forge/xsgen-feedstock.git
+[submodule "yail"]
+	path = feedstocks/yail
+	url = https://github.com/conda-forge/yail-feedstock.git
