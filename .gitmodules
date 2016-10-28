@@ -3909,3 +3909,36 @@
 [submodule "yail"]
 	path = feedstocks/yail
 	url = https://github.com/conda-forge/yail-feedstock.git
+[submodule "desktop3"]
+	path = feedstocks/desktop3
+	url = https://github.com/conda-forge/desktop3-feedstock.git
+[submodule "eight"]
+	path = feedstocks/eight
+	url = https://github.com/conda-forge/eight-feedstock.git
+[submodule "keepalive"]
+	path = feedstocks/keepalive
+	url = https://github.com/conda-forge/keepalive-feedstock.git
+[submodule "mocsy"]
+	path = feedstocks/mocsy
+	url = https://github.com/conda-forge/mocsy-feedstock.git
+[submodule "ocw"]
+	path = feedstocks/ocw
+	url = https://github.com/conda-forge/ocw-feedstock.git
+[submodule "petsc"]
+	path = feedstocks/petsc
+	url = https://github.com/conda-forge/petsc-feedstock.git
+[submodule "petsc4py"]
+	path = feedstocks/petsc4py
+	url = https://github.com/conda-forge/petsc4py-feedstock.git
+[submodule "python-lmdb"]
+	path = feedstocks/python-lmdb
+	url = https://github.com/conda-forge/python-lmdb-feedstock.git
+[submodule "sudospawner"]
+	path = feedstocks/sudospawner
+	url = https://github.com/conda-forge/sudospawner-feedstock.git
+[submodule "tinyarray"]
+	path = feedstocks/tinyarray
+	url = https://github.com/conda-forge/tinyarray-feedstock.git
+[submodule "unittest2pytest"]
+	path = feedstocks/unittest2pytest
+	url = https://github.com/conda-forge/unittest2pytest-feedstock.git
