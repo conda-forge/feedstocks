@@ -3957,3 +3957,21 @@
 [submodule "ghost.py"]
 	path = feedstocks/ghost.py
 	url = https://github.com/conda-forge/ghost.py-feedstock.git
+[submodule "apispec"]
+	path = feedstocks/apispec
+	url = https://github.com/conda-forge/apispec-feedstock.git
+[submodule "iteration_utilities"]
+	path = feedstocks/iteration_utilities
+	url = https://github.com/conda-forge/iteration_utilities-feedstock.git
+[submodule "jedi"]
+	path = feedstocks/jedi
+	url = https://github.com/conda-forge/jedi-feedstock.git
+[submodule "lektor"]
+	path = feedstocks/lektor
+	url = https://github.com/conda-forge/lektor-feedstock.git
+[submodule "permission"]
+	path = feedstocks/permission
+	url = https://github.com/conda-forge/permission-feedstock.git
+[submodule "webargs"]
+	path = feedstocks/webargs
+	url = https://github.com/conda-forge/webargs-feedstock.git
