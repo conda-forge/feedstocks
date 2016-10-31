@@ -3975,3 +3975,24 @@
 [submodule "webargs"]
 	path = feedstocks/webargs
 	url = https://github.com/conda-forge/webargs-feedstock.git
+[submodule "flask-marshmallow"]
+	path = feedstocks/flask-marshmallow
+	url = https://github.com/conda-forge/flask-marshmallow-feedstock.git
+[submodule "flask-restplus"]
+	path = feedstocks/flask-restplus
+	url = https://github.com/conda-forge/flask-restplus-feedstock.git
+[submodule "marshmallow-sqlalchemy"]
+	path = feedstocks/marshmallow-sqlalchemy
+	url = https://github.com/conda-forge/marshmallow-sqlalchemy-feedstock.git
+[submodule "pyprind"]
+	path = feedstocks/pyprind
+	url = https://github.com/conda-forge/pyprind-feedstock.git
+[submodule "pytest-flake8"]
+	path = feedstocks/pytest-flake8
+	url = https://github.com/conda-forge/pytest-flake8-feedstock.git
+[submodule "randomcolor"]
+	path = feedstocks/randomcolor
+	url = https://github.com/conda-forge/randomcolor-feedstock.git
+[submodule "whoosh"]
+	path = feedstocks/whoosh
+	url = https://github.com/conda-forge/whoosh-feedstock.git
