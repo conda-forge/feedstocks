@@ -3996,3 +3996,15 @@
 [submodule "whoosh"]
 	path = feedstocks/whoosh
 	url = https://github.com/conda-forge/whoosh-feedstock.git
+[submodule "imgroi"]
+	path = feedstocks/imgroi
+	url = https://github.com/conda-forge/imgroi-feedstock.git
+[submodule "msgpack-python"]
+	path = feedstocks/msgpack-python
+	url = https://github.com/conda-forge/msgpack-python-feedstock.git
+[submodule "probablepeople"]
+	path = feedstocks/probablepeople
+	url = https://github.com/conda-forge/probablepeople-feedstock.git
+[submodule "sgp4"]
+	path = feedstocks/sgp4
+	url = https://github.com/conda-forge/sgp4-feedstock.git
