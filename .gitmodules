@@ -4008,3 +4008,9 @@
 [submodule "sgp4"]
 	path = feedstocks/sgp4
 	url = https://github.com/conda-forge/sgp4-feedstock.git
+[submodule "deepdish"]
+	path = feedstocks/deepdish
+	url = https://github.com/conda-forge/deepdish-feedstock.git
+[submodule "docker-pycreds"]
+	path = feedstocks/docker-pycreds
+	url = https://github.com/conda-forge/docker-pycreds-feedstock.git
