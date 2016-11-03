@@ -4014,3 +4014,30 @@
 [submodule "docker-pycreds"]
 	path = feedstocks/docker-pycreds
 	url = https://github.com/conda-forge/docker-pycreds-feedstock.git
+[submodule "coursera-dl"]
+	path = feedstocks/coursera-dl
+	url = https://github.com/conda-forge/coursera-dl-feedstock.git
+[submodule "fastparquet"]
+	path = feedstocks/fastparquet
+	url = https://github.com/conda-forge/fastparquet-feedstock.git
+[submodule "griddataformats"]
+	path = feedstocks/griddataformats
+	url = https://github.com/conda-forge/griddataformats-feedstock.git
+[submodule "khronos-opencl-icd-loader"]
+	path = feedstocks/khronos-opencl-icd-loader
+	url = https://github.com/conda-forge/khronos-opencl-icd-loader-feedstock.git
+[submodule "kwant"]
+	path = feedstocks/kwant
+	url = https://github.com/conda-forge/kwant-feedstock.git
+[submodule "mplview"]
+	path = feedstocks/mplview
+	url = https://github.com/conda-forge/mplview-feedstock.git
+[submodule "paver"]
+	path = feedstocks/paver
+	url = https://github.com/conda-forge/paver-feedstock.git
+[submodule "python-dotenv"]
+	path = feedstocks/python-dotenv
+	url = https://github.com/conda-forge/python-dotenv-feedstock.git
+[submodule "yamllint"]
+	path = feedstocks/yamllint
+	url = https://github.com/conda-forge/yamllint-feedstock.git
