@@ -4041,3 +4041,9 @@
 [submodule "yamllint"]
 	path = feedstocks/yamllint
 	url = https://github.com/conda-forge/yamllint-feedstock.git
+[submodule "datamountaineer-schemaregistry"]
+	path = feedstocks/datamountaineer-schemaregistry
+	url = https://github.com/conda-forge/datamountaineer-schemaregistry-feedstock.git
+[submodule "libevent"]
+	path = feedstocks/libevent
+	url = https://github.com/conda-forge/libevent-feedstock.git
