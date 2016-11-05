@@ -4047,3 +4047,27 @@
 [submodule "libevent"]
 	path = feedstocks/libevent
 	url = https://github.com/conda-forge/libevent-feedstock.git
+[submodule "cyclus-build-deps"]
+	path = feedstocks/cyclus-build-deps
+	url = https://github.com/conda-forge/cyclus-build-deps-feedstock.git
+[submodule "fmilib"]
+	path = feedstocks/fmilib
+	url = https://github.com/conda-forge/fmilib-feedstock.git
+[submodule "fmipp"]
+	path = feedstocks/fmipp
+	url = https://github.com/conda-forge/fmipp-feedstock.git
+[submodule "libadjoint"]
+	path = feedstocks/libadjoint
+	url = https://github.com/conda-forge/libadjoint-feedstock.git
+[submodule "loghub"]
+	path = feedstocks/loghub
+	url = https://github.com/conda-forge/loghub-feedstock.git
+[submodule "salib"]
+	path = feedstocks/salib
+	url = https://github.com/conda-forge/salib-feedstock.git
+[submodule "tmux"]
+	path = feedstocks/tmux
+	url = https://github.com/conda-forge/tmux-feedstock.git
+[submodule "xtensor"]
+	path = feedstocks/xtensor
+	url = https://github.com/conda-forge/xtensor-feedstock.git
