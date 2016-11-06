@@ -4071,3 +4071,15 @@
 [submodule "xtensor"]
 	path = feedstocks/xtensor
 	url = https://github.com/conda-forge/xtensor-feedstock.git
+[submodule "occt"]
+	path = feedstocks/occt
+	url = https://github.com/conda-forge/occt-feedstock.git
+[submodule "osmnx"]
+	path = feedstocks/osmnx
+	url = https://github.com/conda-forge/osmnx-feedstock.git
+[submodule "slepc"]
+	path = feedstocks/slepc
+	url = https://github.com/conda-forge/slepc-feedstock.git
+[submodule "slepc4py"]
+	path = feedstocks/slepc4py
+	url = https://github.com/conda-forge/slepc4py-feedstock.git
