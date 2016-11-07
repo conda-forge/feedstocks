@@ -4083,3 +4083,12 @@
 [submodule "slepc4py"]
 	path = feedstocks/slepc4py
 	url = https://github.com/conda-forge/slepc4py-feedstock.git
+[submodule "boto3"]
+	path = feedstocks/boto3
+	url = https://github.com/conda-forge/boto3-feedstock.git
+[submodule "jobtastic"]
+	path = feedstocks/jobtastic
+	url = https://github.com/conda-forge/jobtastic-feedstock.git
+[submodule "librabbitmq"]
+	path = feedstocks/librabbitmq
+	url = https://github.com/conda-forge/librabbitmq-feedstock.git
