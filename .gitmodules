@@ -4116,3 +4116,9 @@
 [submodule "skan"]
 	path = feedstocks/skan
 	url = https://github.com/conda-forge/skan-feedstock.git
+[submodule "fastcluster"]
+	path = feedstocks/fastcluster
+	url = https://github.com/conda-forge/fastcluster-feedstock.git
+[submodule "pyfmi"]
+	path = feedstocks/pyfmi
+	url = https://github.com/conda-forge/pyfmi-feedstock.git
