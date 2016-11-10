@@ -4095,3 +4095,24 @@
 [submodule "dbf"]
 	path = feedstocks/dbf
 	url = https://github.com/conda-forge/dbf-feedstock.git
+[submodule "assimulo"]
+	path = feedstocks/assimulo
+	url = https://github.com/conda-forge/assimulo-feedstock.git
+[submodule "django-nested-admin"]
+	path = feedstocks/django-nested-admin
+	url = https://github.com/conda-forge/django-nested-admin-feedstock.git
+[submodule "ndarray_listener"]
+	path = feedstocks/ndarray_listener
+	url = https://github.com/conda-forge/ndarray_listener-feedstock.git
+[submodule "py_gd"]
+	path = feedstocks/py_gd
+	url = https://github.com/conda-forge/py_gd-feedstock.git
+[submodule "pyfai"]
+	path = feedstocks/pyfai
+	url = https://github.com/conda-forge/pyfai-feedstock.git
+[submodule "python-monkey-business"]
+	path = feedstocks/python-monkey-business
+	url = https://github.com/conda-forge/python-monkey-business-feedstock.git
+[submodule "skan"]
+	path = feedstocks/skan
+	url = https://github.com/conda-forge/skan-feedstock.git
