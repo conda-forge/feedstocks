@@ -4122,3 +4122,30 @@
 [submodule "pyfmi"]
 	path = feedstocks/pyfmi
 	url = https://github.com/conda-forge/pyfmi-feedstock.git
+[submodule "brent_search"]
+	path = feedstocks/brent_search
+	url = https://github.com/conda-forge/brent_search-feedstock.git
+[submodule "dbt"]
+	path = feedstocks/dbt
+	url = https://github.com/conda-forge/dbt-feedstock.git
+[submodule "ecm"]
+	path = feedstocks/ecm
+	url = https://github.com/conda-forge/ecm-feedstock.git
+[submodule "limix_util"]
+	path = feedstocks/limix_util
+	url = https://github.com/conda-forge/limix_util-feedstock.git
+[submodule "memprof"]
+	path = feedstocks/memprof
+	url = https://github.com/conda-forge/memprof-feedstock.git
+[submodule "multiprocess"]
+	path = feedstocks/multiprocess
+	url = https://github.com/conda-forge/multiprocess-feedstock.git
+[submodule "pathos"]
+	path = feedstocks/pathos
+	url = https://github.com/conda-forge/pathos-feedstock.git
+[submodule "pox"]
+	path = feedstocks/pox
+	url = https://github.com/conda-forge/pox-feedstock.git
+[submodule "ppft"]
+	path = feedstocks/ppft
+	url = https://github.com/conda-forge/ppft-feedstock.git
