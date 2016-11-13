@@ -4149,3 +4149,27 @@
 [submodule "ppft"]
 	path = feedstocks/ppft
 	url = https://github.com/conda-forge/ppft-feedstock.git
+[submodule "ampl-mp"]
+	path = feedstocks/ampl-mp
+	url = https://github.com/conda-forge/ampl-mp-feedstock.git
+[submodule "asap"]
+	path = feedstocks/asap
+	url = https://github.com/conda-forge/asap-feedstock.git
+[submodule "dolfin-adjoint"]
+	path = feedstocks/dolfin-adjoint
+	url = https://github.com/conda-forge/dolfin-adjoint-feedstock.git
+[submodule "flask-openid"]
+	path = feedstocks/flask-openid
+	url = https://github.com/conda-forge/flask-openid-feedstock.git
+[submodule "mono"]
+	path = feedstocks/mono
+	url = https://github.com/conda-forge/mono-feedstock.git
+[submodule "piranha"]
+	path = feedstocks/piranha
+	url = https://github.com/conda-forge/piranha-feedstock.git
+[submodule "re2"]
+	path = feedstocks/re2
+	url = https://github.com/conda-forge/re2-feedstock.git
+[submodule "regolith"]
+	path = feedstocks/regolith
+	url = https://github.com/conda-forge/regolith-feedstock.git
