@@ -4173,3 +4173,6 @@
 [submodule "regolith"]
 	path = feedstocks/regolith
 	url = https://github.com/conda-forge/regolith-feedstock.git
+[submodule "build_capi"]
+	path = feedstocks/build_capi
+	url = https://github.com/conda-forge/build_capi-feedstock.git
