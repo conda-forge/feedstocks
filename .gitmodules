@@ -4176,3 +4176,12 @@
 [submodule "build_capi"]
 	path = feedstocks/build_capi
 	url = https://github.com/conda-forge/build_capi-feedstock.git
+[submodule "conda-gitenv"]
+	path = feedstocks/conda-gitenv
+	url = https://github.com/conda-forge/conda-gitenv-feedstock.git
+[submodule "optimix"]
+	path = feedstocks/optimix
+	url = https://github.com/conda-forge/optimix-feedstock.git
+[submodule "pyxb"]
+	path = feedstocks/pyxb
+	url = https://github.com/conda-forge/pyxb-feedstock.git
