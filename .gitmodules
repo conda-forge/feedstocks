@@ -4194,3 +4194,6 @@
 [submodule "py"]
 	path = feedstocks/py
 	url = https://github.com/conda-forge/py-feedstock.git
+[submodule "xtensor-python"]
+	path = feedstocks/xtensor-python
+	url = https://github.com/conda-forge/xtensor-python-feedstock.git
