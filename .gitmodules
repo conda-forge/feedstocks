@@ -4197,3 +4197,24 @@
 [submodule "xtensor-python"]
 	path = feedstocks/xtensor-python
 	url = https://github.com/conda-forge/xtensor-python-feedstock.git
+[submodule "attrs-sqlalchemy"]
+	path = feedstocks/attrs-sqlalchemy
+	url = https://github.com/conda-forge/attrs-sqlalchemy-feedstock.git
+[submodule "cairocffi"]
+	path = feedstocks/cairocffi
+	url = https://github.com/conda-forge/cairocffi-feedstock.git
+[submodule "cairosvg"]
+	path = feedstocks/cairosvg
+	url = https://github.com/conda-forge/cairosvg-feedstock.git
+[submodule "discretizer"]
+	path = feedstocks/discretizer
+	url = https://github.com/conda-forge/discretizer-feedstock.git
+[submodule "django-filter"]
+	path = feedstocks/django-filter
+	url = https://github.com/conda-forge/django-filter-feedstock.git
+[submodule "skyfield"]
+	path = feedstocks/skyfield
+	url = https://github.com/conda-forge/skyfield-feedstock.git
+[submodule "tinycss"]
+	path = feedstocks/tinycss
+	url = https://github.com/conda-forge/tinycss-feedstock.git
