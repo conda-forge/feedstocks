@@ -4218,3 +4218,9 @@
 [submodule "tinycss"]
 	path = feedstocks/tinycss
 	url = https://github.com/conda-forge/tinycss-feedstock.git
+[submodule "djangorestframework-gis"]
+	path = feedstocks/djangorestframework-gis
+	url = https://github.com/conda-forge/djangorestframework-gis-feedstock.git
+[submodule "ncl"]
+	path = feedstocks/ncl
+	url = https://github.com/conda-forge/ncl-feedstock.git
