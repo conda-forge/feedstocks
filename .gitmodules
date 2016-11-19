@@ -4224,3 +4224,15 @@
 [submodule "ncl"]
 	path = feedstocks/ncl
 	url = https://github.com/conda-forge/ncl-feedstock.git
+[submodule "iowait"]
+	path = feedstocks/iowait
+	url = https://github.com/conda-forge/iowait-feedstock.git
+[submodule "nestly"]
+	path = feedstocks/nestly
+	url = https://github.com/conda-forge/nestly-feedstock.git
+[submodule "otlm"]
+	path = feedstocks/otlm
+	url = https://github.com/conda-forge/otlm-feedstock.git
+[submodule "spglib"]
+	path = feedstocks/spglib
+	url = https://github.com/conda-forge/spglib-feedstock.git
