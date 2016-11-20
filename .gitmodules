@@ -4236,3 +4236,18 @@
 [submodule "spglib"]
 	path = feedstocks/spglib
 	url = https://github.com/conda-forge/spglib-feedstock.git
+[submodule "circus"]
+	path = feedstocks/circus
+	url = https://github.com/conda-forge/circus-feedstock.git
+[submodule "docx2txt"]
+	path = feedstocks/docx2txt
+	url = https://github.com/conda-forge/docx2txt-feedstock.git
+[submodule "libglu"]
+	path = feedstocks/libglu
+	url = https://github.com/conda-forge/libglu-feedstock.git
+[submodule "ncephes"]
+	path = feedstocks/ncephes
+	url = https://github.com/conda-forge/ncephes-feedstock.git
+[submodule "pyorgmode"]
+	path = feedstocks/pyorgmode
+	url = https://github.com/conda-forge/pyorgmode-feedstock.git
