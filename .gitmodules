@@ -4251,3 +4251,27 @@
 [submodule "pyorgmode"]
 	path = feedstocks/pyorgmode
 	url = https://github.com/conda-forge/pyorgmode-feedstock.git
+[submodule "celiagg"]
+	path = feedstocks/celiagg
+	url = https://github.com/conda-forge/celiagg-feedstock.git
+[submodule "flake8-import-order"]
+	path = feedstocks/flake8-import-order
+	url = https://github.com/conda-forge/flake8-import-order-feedstock.git
+[submodule "libjpeg-turbo"]
+	path = feedstocks/libjpeg-turbo
+	url = https://github.com/conda-forge/libjpeg-turbo-feedstock.git
+[submodule "nbsphinx"]
+	path = feedstocks/nbsphinx
+	url = https://github.com/conda-forge/nbsphinx-feedstock.git
+[submodule "numpy_sugar"]
+	path = feedstocks/numpy_sugar
+	url = https://github.com/conda-forge/numpy_sugar-feedstock.git
+[submodule "pysdl2"]
+	path = feedstocks/pysdl2
+	url = https://github.com/conda-forge/pysdl2-feedstock.git
+[submodule "sdl2"]
+	path = feedstocks/sdl2
+	url = https://github.com/conda-forge/sdl2-feedstock.git
+[submodule "txaio"]
+	path = feedstocks/txaio
+	url = https://github.com/conda-forge/txaio-feedstock.git
