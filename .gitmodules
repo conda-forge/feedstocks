@@ -4275,3 +4275,18 @@
 [submodule "txaio"]
 	path = feedstocks/txaio
 	url = https://github.com/conda-forge/txaio-feedstock.git
+[submodule "anyqt"]
+	path = feedstocks/anyqt
+	url = https://github.com/conda-forge/anyqt-feedstock.git
+[submodule "autobahn"]
+	path = feedstocks/autobahn
+	url = https://github.com/conda-forge/autobahn-feedstock.git
+[submodule "flake8-builtins"]
+	path = feedstocks/flake8-builtins
+	url = https://github.com/conda-forge/flake8-builtins-feedstock.git
+[submodule "imagehash"]
+	path = feedstocks/imagehash
+	url = https://github.com/conda-forge/imagehash-feedstock.git
+[submodule "pyranha"]
+	path = feedstocks/pyranha
+	url = https://github.com/conda-forge/pyranha-feedstock.git
