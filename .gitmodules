@@ -4305,3 +4305,30 @@
 [submodule "wsaccel"]
 	path = feedstocks/wsaccel
 	url = https://github.com/conda-forge/wsaccel-feedstock.git
+[submodule "django-admin-shortcuts"]
+	path = feedstocks/django-admin-shortcuts
+	url = https://github.com/conda-forge/django-admin-shortcuts-feedstock.git
+[submodule "django-ajax-selects"]
+	path = feedstocks/django-ajax-selects
+	url = https://github.com/conda-forge/django-ajax-selects-feedstock.git
+[submodule "django-apptemplates"]
+	path = feedstocks/django-apptemplates
+	url = https://github.com/conda-forge/django-apptemplates-feedstock.git
+[submodule "django-uuidfield"]
+	path = feedstocks/django-uuidfield
+	url = https://github.com/conda-forge/django-uuidfield-feedstock.git
+[submodule "flake8-copyright"]
+	path = feedstocks/flake8-copyright
+	url = https://github.com/conda-forge/flake8-copyright-feedstock.git
+[submodule "flake8-pep3101"]
+	path = feedstocks/flake8-pep3101
+	url = https://github.com/conda-forge/flake8-pep3101-feedstock.git
+[submodule "flake8-print"]
+	path = feedstocks/flake8-print
+	url = https://github.com/conda-forge/flake8-print-feedstock.git
+[submodule "jupyter_latex_envs"]
+	path = feedstocks/jupyter_latex_envs
+	url = https://github.com/conda-forge/jupyter_latex_envs-feedstock.git
+[submodule "mmtf-python"]
+	path = feedstocks/mmtf-python
+	url = https://github.com/conda-forge/mmtf-python-feedstock.git
