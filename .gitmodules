@@ -4290,3 +4290,18 @@
 [submodule "pyranha"]
 	path = feedstocks/pyranha
 	url = https://github.com/conda-forge/pyranha-feedstock.git
+[submodule "bagit"]
+	path = feedstocks/bagit
+	url = https://github.com/conda-forge/bagit-feedstock.git
+[submodule "flake8-comprehensions"]
+	path = feedstocks/flake8-comprehensions
+	url = https://github.com/conda-forge/flake8-comprehensions-feedstock.git
+[submodule "flake8-mutable"]
+	path = feedstocks/flake8-mutable
+	url = https://github.com/conda-forge/flake8-mutable-feedstock.git
+[submodule "treq"]
+	path = feedstocks/treq
+	url = https://github.com/conda-forge/treq-feedstock.git
+[submodule "wsaccel"]
+	path = feedstocks/wsaccel
+	url = https://github.com/conda-forge/wsaccel-feedstock.git
