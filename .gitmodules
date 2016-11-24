@@ -4332,3 +4332,33 @@
 [submodule "mmtf-python"]
 	path = feedstocks/mmtf-python
 	url = https://github.com/conda-forge/mmtf-python-feedstock.git
+[submodule "diff-match-patch"]
+	path = feedstocks/diff-match-patch
+	url = https://github.com/conda-forge/diff-match-patch-feedstock.git
+[submodule "django-daterange-filter"]
+	path = feedstocks/django-daterange-filter
+	url = https://github.com/conda-forge/django-daterange-filter-feedstock.git
+[submodule "django-import-export"]
+	path = feedstocks/django-import-export
+	url = https://github.com/conda-forge/django-import-export-feedstock.git
+[submodule "django-jquery"]
+	path = feedstocks/django-jquery
+	url = https://github.com/conda-forge/django-jquery-feedstock.git
+[submodule "djangocms-admin-style"]
+	path = feedstocks/djangocms-admin-style
+	url = https://github.com/conda-forge/djangocms-admin-style-feedstock.git
+[submodule "dmd"]
+	path = feedstocks/dmd
+	url = https://github.com/conda-forge/dmd-feedstock.git
+[submodule "flake8-docstrings"]
+	path = feedstocks/flake8-docstrings
+	url = https://github.com/conda-forge/flake8-docstrings-feedstock.git
+[submodule "flake8-polyfill"]
+	path = feedstocks/flake8-polyfill
+	url = https://github.com/conda-forge/flake8-polyfill-feedstock.git
+[submodule "pyngl"]
+	path = feedstocks/pyngl
+	url = https://github.com/conda-forge/pyngl-feedstock.git
+[submodule "tablib"]
+	path = feedstocks/tablib
+	url = https://github.com/conda-forge/tablib-feedstock.git
