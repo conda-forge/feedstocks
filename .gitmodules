@@ -4365,3 +4365,12 @@
 [submodule "obspyck"]
 	path = feedstocks/obspyck
 	url = https://github.com/conda-forge/obspyck-feedstock.git
+[submodule "fish"]
+	path = feedstocks/fish
+	url = https://github.com/conda-forge/fish-feedstock.git
+[submodule "jupyter_highlight_selected_word"]
+	path = feedstocks/jupyter_highlight_selected_word
+	url = https://github.com/conda-forge/jupyter_highlight_selected_word-feedstock.git
+[submodule "pydispatcher"]
+	path = feedstocks/pydispatcher
+	url = https://github.com/conda-forge/pydispatcher-feedstock.git
