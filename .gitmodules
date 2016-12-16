@@ -4458,3 +4458,21 @@
 [submodule "tyssue"]
 	path = feedstocks/tyssue
 	url = https://github.com/conda-forge/tyssue-feedstock.git
+[submodule "cquadpack"]
+	path = feedstocks/cquadpack
+	url = https://github.com/conda-forge/cquadpack-feedstock.git
+[submodule "glew"]
+	path = feedstocks/glew
+	url = https://github.com/conda-forge/glew-feedstock.git
+[submodule "ninja_syntax"]
+	path = feedstocks/ninja_syntax
+	url = https://github.com/conda-forge/ninja_syntax-feedstock.git
+[submodule "nose-cov"]
+	path = feedstocks/nose-cov
+	url = https://github.com/conda-forge/nose-cov-feedstock.git
+[submodule "nr"]
+	path = feedstocks/nr
+	url = https://github.com/conda-forge/nr-feedstock.git
+[submodule "pandocfilters"]
+	path = feedstocks/pandocfilters
+	url = https://github.com/conda-forge/pandocfilters-feedstock.git
