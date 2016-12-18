@@ -4476,3 +4476,33 @@
 [submodule "pandocfilters"]
 	path = feedstocks/pandocfilters
 	url = https://github.com/conda-forge/pandocfilters-feedstock.git
+[submodule "brent-search"]
+	path = feedstocks/brent-search
+	url = https://github.com/conda-forge/brent-search-feedstock.git
+[submodule "build-capi"]
+	path = feedstocks/build-capi
+	url = https://github.com/conda-forge/build-capi-feedstock.git
+[submodule "libmad"]
+	path = feedstocks/libmad
+	url = https://github.com/conda-forge/libmad-feedstock.git
+[submodule "libogg"]
+	path = feedstocks/libogg
+	url = https://github.com/conda-forge/libogg-feedstock.git
+[submodule "r-base"]
+	path = feedstocks/r-base
+	url = https://github.com/conda-forge/r-base-feedstock.git
+[submodule "sdl2_gfx"]
+	path = feedstocks/sdl2_gfx
+	url = https://github.com/conda-forge/sdl2_gfx-feedstock.git
+[submodule "sdl2_net"]
+	path = feedstocks/sdl2_net
+	url = https://github.com/conda-forge/sdl2_net-feedstock.git
+[submodule "signac"]
+	path = feedstocks/signac
+	url = https://github.com/conda-forge/signac-feedstock.git
+[submodule "smpeg2"]
+	path = feedstocks/smpeg2
+	url = https://github.com/conda-forge/smpeg2-feedstock.git
+[submodule "xerces-c28"]
+	path = feedstocks/xerces-c28
+	url = https://github.com/conda-forge/xerces-c28-feedstock.git
