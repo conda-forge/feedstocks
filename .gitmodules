@@ -4506,3 +4506,42 @@
 [submodule "xerces-c28"]
 	path = feedstocks/xerces-c28
 	url = https://github.com/conda-forge/xerces-c28-feedstock.git
+[submodule "brotli"]
+	path = feedstocks/brotli
+	url = https://github.com/conda-forge/brotli-feedstock.git
+[submodule "cfitsio"]
+	path = feedstocks/cfitsio
+	url = https://github.com/conda-forge/cfitsio-feedstock.git
+[submodule "curio"]
+	path = feedstocks/curio
+	url = https://github.com/conda-forge/curio-feedstock.git
+[submodule "libvorbis"]
+	path = feedstocks/libvorbis
+	url = https://github.com/conda-forge/libvorbis-feedstock.git
+[submodule "libwebp"]
+	path = feedstocks/libwebp
+	url = https://github.com/conda-forge/libwebp-feedstock.git
+[submodule "lime"]
+	path = feedstocks/lime
+	url = https://github.com/conda-forge/lime-feedstock.git
+[submodule "mechanicalsoup"]
+	path = feedstocks/mechanicalsoup
+	url = https://github.com/conda-forge/mechanicalsoup-feedstock.git
+[submodule "pandas-plink"]
+	path = feedstocks/pandas-plink
+	url = https://github.com/conda-forge/pandas-plink-feedstock.git
+[submodule "phonopy"]
+	path = feedstocks/phonopy
+	url = https://github.com/conda-forge/phonopy-feedstock.git
+[submodule "sdl2_ttf"]
+	path = feedstocks/sdl2_ttf
+	url = https://github.com/conda-forge/sdl2_ttf-feedstock.git
+[submodule "setuptools_scm_git_archive"]
+	path = feedstocks/setuptools_scm_git_archive
+	url = https://github.com/conda-forge/setuptools_scm_git_archive-feedstock.git
+[submodule "sqlalchemy-redshift"]
+	path = feedstocks/sqlalchemy-redshift
+	url = https://github.com/conda-forge/sqlalchemy-redshift-feedstock.git
+[submodule "watchtower"]
+	path = feedstocks/watchtower
+	url = https://github.com/conda-forge/watchtower-feedstock.git
