@@ -4545,3 +4545,15 @@
 [submodule "watchtower"]
 	path = feedstocks/watchtower
 	url = https://github.com/conda-forge/watchtower-feedstock.git
+[submodule "dbus-cxx"]
+	path = feedstocks/dbus-cxx
+	url = https://github.com/conda-forge/dbus-cxx-feedstock.git
+[submodule "mpifft4py"]
+	path = feedstocks/mpifft4py
+	url = https://github.com/conda-forge/mpifft4py-feedstock.git
+[submodule "nbtutor"]
+	path = feedstocks/nbtutor
+	url = https://github.com/conda-forge/nbtutor-feedstock.git
+[submodule "shapelib"]
+	path = feedstocks/shapelib
+	url = https://github.com/conda-forge/shapelib-feedstock.git
