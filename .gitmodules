@@ -4557,3 +4557,15 @@
 [submodule "shapelib"]
 	path = feedstocks/shapelib
 	url = https://github.com/conda-forge/shapelib-feedstock.git
+[submodule "biopandas"]
+	path = feedstocks/biopandas
+	url = https://github.com/conda-forge/biopandas-feedstock.git
+[submodule "libflac"]
+	path = feedstocks/libflac
+	url = https://github.com/conda-forge/libflac-feedstock.git
+[submodule "liknorm"]
+	path = feedstocks/liknorm
+	url = https://github.com/conda-forge/liknorm-feedstock.git
+[submodule "limix-inference"]
+	path = feedstocks/limix-inference
+	url = https://github.com/conda-forge/limix-inference-feedstock.git
