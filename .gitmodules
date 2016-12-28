@@ -4575,3 +4575,9 @@
 [submodule "engarde"]
 	path = feedstocks/engarde
 	url = https://github.com/conda-forge/engarde-feedstock.git
+[submodule "octave_kernel"]
+	path = feedstocks/octave_kernel
+	url = https://github.com/conda-forge/octave_kernel-feedstock.git
+[submodule "pugixml"]
+	path = feedstocks/pugixml
+	url = https://github.com/conda-forge/pugixml-feedstock.git
