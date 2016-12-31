@@ -4581,3 +4581,12 @@
 [submodule "pugixml"]
 	path = feedstocks/pugixml
 	url = https://github.com/conda-forge/pugixml-feedstock.git
+[submodule "backports.shutil_which"]
+	path = feedstocks/backports.shutil_which
+	url = https://github.com/conda-forge/backports.shutil_which-feedstock.git
+[submodule "monty"]
+	path = feedstocks/monty
+	url = https://github.com/conda-forge/monty-feedstock.git
+[submodule "websockets"]
+	path = feedstocks/websockets
+	url = https://github.com/conda-forge/websockets-feedstock.git
