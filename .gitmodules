@@ -4593,3 +4593,12 @@
 [submodule "nbdime"]
 	path = feedstocks/nbdime
 	url = https://github.com/conda-forge/nbdime-feedstock.git
+[submodule "crick"]
+	path = feedstocks/crick
+	url = https://github.com/conda-forge/crick-feedstock.git
+[submodule "imageio"]
+	path = feedstocks/imageio
+	url = https://github.com/conda-forge/imageio-feedstock.git
+[submodule "sqlalchemy"]
+	path = feedstocks/sqlalchemy
+	url = https://github.com/conda-forge/sqlalchemy-feedstock.git
