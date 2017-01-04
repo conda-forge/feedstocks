@@ -4602,3 +4602,6 @@
 [submodule "sqlalchemy"]
 	path = feedstocks/sqlalchemy
 	url = https://github.com/conda-forge/sqlalchemy-feedstock.git
+[submodule "asv"]
+	path = feedstocks/asv
+	url = https://github.com/conda-forge/asv-feedstock.git
