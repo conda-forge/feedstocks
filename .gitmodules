@@ -4605,3 +4605,30 @@
 [submodule "asv"]
 	path = feedstocks/asv
 	url = https://github.com/conda-forge/asv-feedstock.git
+[submodule "calliope"]
+	path = feedstocks/calliope
+	url = https://github.com/conda-forge/calliope-feedstock.git
+[submodule "hkdf"]
+	path = feedstocks/hkdf
+	url = https://github.com/conda-forge/hkdf-feedstock.git
+[submodule "jemalloc"]
+	path = feedstocks/jemalloc
+	url = https://github.com/conda-forge/jemalloc-feedstock.git
+[submodule "libcmaes"]
+	path = feedstocks/libcmaes
+	url = https://github.com/conda-forge/libcmaes-feedstock.git
+[submodule "pygit2"]
+	path = feedstocks/pygit2
+	url = https://github.com/conda-forge/pygit2-feedstock.git
+[submodule "python-rapidjson"]
+	path = feedstocks/python-rapidjson
+	url = https://github.com/conda-forge/python-rapidjson-feedstock.git
+[submodule "pyvisa-py"]
+	path = feedstocks/pyvisa-py
+	url = https://github.com/conda-forge/pyvisa-py-feedstock.git
+[submodule "sdl2_mixer"]
+	path = feedstocks/sdl2_mixer
+	url = https://github.com/conda-forge/sdl2_mixer-feedstock.git
+[submodule "sphinxjp.themes.solarized"]
+	path = feedstocks/sphinxjp.themes.solarized
+	url = https://github.com/conda-forge/sphinxjp.themes.solarized-feedstock.git
