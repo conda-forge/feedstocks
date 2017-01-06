@@ -4632,3 +4632,15 @@
 [submodule "sphinxjp.themes.solarized"]
 	path = feedstocks/sphinxjp.themes.solarized
 	url = https://github.com/conda-forge/sphinxjp.themes.solarized-feedstock.git
+[submodule "doxygen"]
+	path = feedstocks/doxygen
+	url = https://github.com/conda-forge/doxygen-feedstock.git
+[submodule "georaster"]
+	path = feedstocks/georaster
+	url = https://github.com/conda-forge/georaster-feedstock.git
+[submodule "markdown-checklist"]
+	path = feedstocks/markdown-checklist
+	url = https://github.com/conda-forge/markdown-checklist-feedstock.git
+[submodule "python-markdown-math"]
+	path = feedstocks/python-markdown-math
+	url = https://github.com/conda-forge/python-markdown-math-feedstock.git
