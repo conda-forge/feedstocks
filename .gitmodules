@@ -4644,3 +4644,24 @@
 [submodule "python-markdown-math"]
 	path = feedstocks/python-markdown-math
 	url = https://github.com/conda-forge/python-markdown-math-feedstock.git
+[submodule "boost-cpp"]
+	path = feedstocks/boost-cpp
+	url = https://github.com/conda-forge/boost-cpp-feedstock.git
+[submodule "libtheora"]
+	path = feedstocks/libtheora
+	url = https://github.com/conda-forge/libtheora-feedstock.git
+[submodule "lp_solve"]
+	path = feedstocks/lp_solve
+	url = https://github.com/conda-forge/lp_solve-feedstock.git
+[submodule "ply"]
+	path = feedstocks/ply
+	url = https://github.com/conda-forge/ply-feedstock.git
+[submodule "sdl2_image"]
+	path = feedstocks/sdl2_image
+	url = https://github.com/conda-forge/sdl2_image-feedstock.git
+[submodule "sphinxcontrib-autodoc_doxygen"]
+	path = feedstocks/sphinxcontrib-autodoc_doxygen
+	url = https://github.com/conda-forge/sphinxcontrib-autodoc_doxygen-feedstock.git
+[submodule "vifm"]
+	path = feedstocks/vifm
+	url = https://github.com/conda-forge/vifm-feedstock.git
