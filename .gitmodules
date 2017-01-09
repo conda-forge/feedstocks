@@ -4665,3 +4665,12 @@
 [submodule "vifm"]
 	path = feedstocks/vifm
 	url = https://github.com/conda-forge/vifm-feedstock.git
+[submodule "igraph"]
+	path = feedstocks/igraph
+	url = https://github.com/conda-forge/igraph-feedstock.git
+[submodule "pytest-spec"]
+	path = feedstocks/pytest-spec
+	url = https://github.com/conda-forge/pytest-spec-feedstock.git
+[submodule "python-igraph"]
+	path = feedstocks/python-igraph
+	url = https://github.com/conda-forge/python-igraph-feedstock.git
