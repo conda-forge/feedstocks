@@ -4677,3 +4677,12 @@
 [submodule "bleach"]
 	path = feedstocks/bleach
 	url = https://github.com/conda-forge/bleach-feedstock.git
+[submodule "cffi"]
+	path = feedstocks/cffi
+	url = https://github.com/conda-forge/cffi-feedstock.git
+[submodule "cymetric"]
+	path = feedstocks/cymetric
+	url = https://github.com/conda-forge/cymetric-feedstock.git
+[submodule "preprocess"]
+	path = feedstocks/preprocess
+	url = https://github.com/conda-forge/preprocess-feedstock.git
