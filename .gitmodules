@@ -4686,3 +4686,9 @@
 [submodule "preprocess"]
 	path = feedstocks/preprocess
 	url = https://github.com/conda-forge/preprocess-feedstock.git
+[submodule "alps"]
+	path = feedstocks/alps
+	url = https://github.com/conda-forge/alps-feedstock.git
+[submodule "coveralls"]
+	path = feedstocks/coveralls
+	url = https://github.com/conda-forge/coveralls-feedstock.git
