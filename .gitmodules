@@ -4704,3 +4704,18 @@
 [submodule "polcart"]
 	path = feedstocks/polcart
 	url = https://github.com/conda-forge/polcart-feedstock.git
+[submodule "django-recaptcha"]
+	path = feedstocks/django-recaptcha
+	url = https://github.com/conda-forge/django-recaptcha-feedstock.git
+[submodule "elastic"]
+	path = feedstocks/elastic
+	url = https://github.com/conda-forge/elastic-feedstock.git
+[submodule "pyqtgraph"]
+	path = feedstocks/pyqtgraph
+	url = https://github.com/conda-forge/pyqtgraph-feedstock.git
+[submodule "rpfits"]
+	path = feedstocks/rpfits
+	url = https://github.com/conda-forge/rpfits-feedstock.git
+[submodule "sphinx-gallery"]
+	path = feedstocks/sphinx-gallery
+	url = https://github.com/conda-forge/sphinx-gallery-feedstock.git
