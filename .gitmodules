@@ -4692,3 +4692,15 @@
 [submodule "coveralls"]
 	path = feedstocks/coveralls
 	url = https://github.com/conda-forge/coveralls-feedstock.git
+[submodule "mysql-connector-c"]
+	path = feedstocks/mysql-connector-c
+	url = https://github.com/conda-forge/mysql-connector-c-feedstock.git
+[submodule "nbgrader"]
+	path = feedstocks/nbgrader
+	url = https://github.com/conda-forge/nbgrader-feedstock.git
+[submodule "numpydoc"]
+	path = feedstocks/numpydoc
+	url = https://github.com/conda-forge/numpydoc-feedstock.git
+[submodule "polcart"]
+	path = feedstocks/polcart
+	url = https://github.com/conda-forge/polcart-feedstock.git
