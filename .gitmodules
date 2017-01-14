@@ -4719,3 +4719,18 @@
 [submodule "sphinx-gallery"]
 	path = feedstocks/sphinx-gallery
 	url = https://github.com/conda-forge/sphinx-gallery-feedstock.git
+[submodule "astropy"]
+	path = feedstocks/astropy
+	url = https://github.com/conda-forge/astropy-feedstock.git
+[submodule "bunch"]
+	path = feedstocks/bunch
+	url = https://github.com/conda-forge/bunch-feedstock.git
+[submodule "nxviz"]
+	path = feedstocks/nxviz
+	url = https://github.com/conda-forge/nxviz-feedstock.git
+[submodule "pony"]
+	path = feedstocks/pony
+	url = https://github.com/conda-forge/pony-feedstock.git
+[submodule "xorg-xproto"]
+	path = feedstocks/xorg-xproto
+	url = https://github.com/conda-forge/xorg-xproto-feedstock.git
