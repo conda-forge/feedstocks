@@ -4737,3 +4737,12 @@
 [submodule "wcslib"]
 	path = feedstocks/wcslib
 	url = https://github.com/conda-forge/wcslib-feedstock.git
+[submodule "xorg-fixesproto"]
+	path = feedstocks/xorg-fixesproto
+	url = https://github.com/conda-forge/xorg-fixesproto-feedstock.git
+[submodule "xorg-inputproto"]
+	path = feedstocks/xorg-inputproto
+	url = https://github.com/conda-forge/xorg-inputproto-feedstock.git
+[submodule "xorg-util-macros"]
+	path = feedstocks/xorg-util-macros
+	url = https://github.com/conda-forge/xorg-util-macros-feedstock.git
