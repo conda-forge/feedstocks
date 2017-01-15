@@ -4734,3 +4734,6 @@
 [submodule "xorg-xproto"]
 	path = feedstocks/xorg-xproto
 	url = https://github.com/conda-forge/xorg-xproto-feedstock.git
+[submodule "wcslib"]
+	path = feedstocks/wcslib
+	url = https://github.com/conda-forge/wcslib-feedstock.git
