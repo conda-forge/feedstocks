@@ -4746,3 +4746,30 @@
 [submodule "xorg-util-macros"]
 	path = feedstocks/xorg-util-macros
 	url = https://github.com/conda-forge/xorg-util-macros-feedstock.git
+[submodule "convertdate"]
+	path = feedstocks/convertdate
+	url = https://github.com/conda-forge/convertdate-feedstock.git
+[submodule "ephem"]
+	path = feedstocks/ephem
+	url = https://github.com/conda-forge/ephem-feedstock.git
+[submodule "jdatetime"]
+	path = feedstocks/jdatetime
+	url = https://github.com/conda-forge/jdatetime-feedstock.git
+[submodule "mayavi"]
+	path = feedstocks/mayavi
+	url = https://github.com/conda-forge/mayavi-feedstock.git
+[submodule "umalqurra"]
+	path = feedstocks/umalqurra
+	url = https://github.com/conda-forge/umalqurra-feedstock.git
+[submodule "xorg-kbproto"]
+	path = feedstocks/xorg-kbproto
+	url = https://github.com/conda-forge/xorg-kbproto-feedstock.git
+[submodule "xorg-recordproto"]
+	path = feedstocks/xorg-recordproto
+	url = https://github.com/conda-forge/xorg-recordproto-feedstock.git
+[submodule "xorg-renderproto"]
+	path = feedstocks/xorg-renderproto
+	url = https://github.com/conda-forge/xorg-renderproto-feedstock.git
+[submodule "xorg-xextproto"]
+	path = feedstocks/xorg-xextproto
+	url = https://github.com/conda-forge/xorg-xextproto-feedstock.git
