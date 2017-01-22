@@ -4830,3 +4830,30 @@
 [submodule "xorg-xtrans"]
 	path = feedstocks/xorg-xtrans
 	url = https://github.com/conda-forge/xorg-xtrans-feedstock.git
+[submodule "cryptopp"]
+	path = feedstocks/cryptopp
+	url = https://github.com/conda-forge/cryptopp-feedstock.git
+[submodule "iolabs"]
+	path = feedstocks/iolabs
+	url = https://github.com/conda-forge/iolabs-feedstock.git
+[submodule "ipopt"]
+	path = feedstocks/ipopt
+	url = https://github.com/conda-forge/ipopt-feedstock.git
+[submodule "msgpack-c"]
+	path = feedstocks/msgpack-c
+	url = https://github.com/conda-forge/msgpack-c-feedstock.git
+[submodule "xorg-libx11"]
+	path = feedstocks/xorg-libx11
+	url = https://github.com/conda-forge/xorg-libx11-feedstock.git
+[submodule "xorg-libxau"]
+	path = feedstocks/xorg-libxau
+	url = https://github.com/conda-forge/xorg-libxau-feedstock.git
+[submodule "xorg-libxcb"]
+	path = feedstocks/xorg-libxcb
+	url = https://github.com/conda-forge/xorg-libxcb-feedstock.git
+[submodule "xorg-libxdmcp"]
+	path = feedstocks/xorg-libxdmcp
+	url = https://github.com/conda-forge/xorg-libxdmcp-feedstock.git
+[submodule "xsimd"]
+	path = feedstocks/xsimd
+	url = https://github.com/conda-forge/xsimd-feedstock.git
