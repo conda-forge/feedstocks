@@ -4131,9 +4131,6 @@
 [submodule "ecm"]
 	path = feedstocks/ecm
 	url = https://github.com/conda-forge/ecm-feedstock.git
-[submodule "limix_util"]
-	path = feedstocks/limix_util
-	url = https://github.com/conda-forge/limix_util-feedstock.git
 [submodule "memprof"]
 	path = feedstocks/memprof
 	url = https://github.com/conda-forge/memprof-feedstock.git
@@ -4857,3 +4854,12 @@
 [submodule "xsimd"]
 	path = feedstocks/xsimd
 	url = https://github.com/conda-forge/xsimd-feedstock.git
+[submodule "cdat_info"]
+	path = feedstocks/cdat_info
+	url = https://github.com/conda-forge/cdat_info-feedstock.git
+[submodule "jupyter"]
+	path = feedstocks/jupyter
+	url = https://github.com/conda-forge/jupyter-feedstock.git
+[submodule "pyosf"]
+	path = feedstocks/pyosf
+	url = https://github.com/conda-forge/pyosf-feedstock.git
