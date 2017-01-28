@@ -4863,3 +4863,69 @@
 [submodule "pyosf"]
 	path = feedstocks/pyosf
 	url = https://github.com/conda-forge/pyosf-feedstock.git
+[submodule "aospy"]
+	path = feedstocks/aospy
+	url = https://github.com/conda-forge/aospy-feedstock.git
+[submodule "cppzmq"]
+	path = feedstocks/cppzmq
+	url = https://github.com/conda-forge/cppzmq-feedstock.git
+[submodule "funcy"]
+	path = feedstocks/funcy
+	url = https://github.com/conda-forge/funcy-feedstock.git
+[submodule "libcxx"]
+	path = feedstocks/libcxx
+	url = https://github.com/conda-forge/libcxx-feedstock.git
+[submodule "pefile"]
+	path = feedstocks/pefile
+	url = https://github.com/conda-forge/pefile-feedstock.git
+[submodule "pgplot"]
+	path = feedstocks/pgplot
+	url = https://github.com/conda-forge/pgplot-feedstock.git
+[submodule "pynacl"]
+	path = feedstocks/pynacl
+	url = https://github.com/conda-forge/pynacl-feedstock.git
+[submodule "pywin32"]
+	path = feedstocks/pywin32
+	url = https://github.com/conda-forge/pywin32-feedstock.git
+[submodule "reprounzip-docker"]
+	path = feedstocks/reprounzip-docker
+	url = https://github.com/conda-forge/reprounzip-docker-feedstock.git
+[submodule "reprounzip"]
+	path = feedstocks/reprounzip
+	url = https://github.com/conda-forge/reprounzip-feedstock.git
+[submodule "reprounzip-vagrant"]
+	path = feedstocks/reprounzip-vagrant
+	url = https://github.com/conda-forge/reprounzip-vagrant-feedstock.git
+[submodule "reprozip"]
+	path = feedstocks/reprozip
+	url = https://github.com/conda-forge/reprozip-feedstock.git
+[submodule "rpaths"]
+	path = feedstocks/rpaths
+	url = https://github.com/conda-forge/rpaths-feedstock.git
+[submodule "spdlog"]
+	path = feedstocks/spdlog
+	url = https://github.com/conda-forge/spdlog-feedstock.git
+[submodule "spyder-unittest"]
+	path = feedstocks/spyder-unittest
+	url = https://github.com/conda-forge/spyder-unittest-feedstock.git
+[submodule "usagestats"]
+	path = feedstocks/usagestats
+	url = https://github.com/conda-forge/usagestats-feedstock.git
+[submodule "webencodings"]
+	path = feedstocks/webencodings
+	url = https://github.com/conda-forge/webencodings-feedstock.git
+[submodule "xorg-libice"]
+	path = feedstocks/xorg-libice
+	url = https://github.com/conda-forge/xorg-libice-feedstock.git
+[submodule "xorg-libsm"]
+	path = feedstocks/xorg-libsm
+	url = https://github.com/conda-forge/xorg-libsm-feedstock.git
+[submodule "xorg-libxext"]
+	path = feedstocks/xorg-libxext
+	url = https://github.com/conda-forge/xorg-libxext-feedstock.git
+[submodule "xorg-libxfixes"]
+	path = feedstocks/xorg-libxfixes
+	url = https://github.com/conda-forge/xorg-libxfixes-feedstock.git
+[submodule "xorg-libxi"]
+	path = feedstocks/xorg-libxi
+	url = https://github.com/conda-forge/xorg-libxi-feedstock.git
