@@ -4929,3 +4929,12 @@
 [submodule "xorg-libxi"]
 	path = feedstocks/xorg-libxi
 	url = https://github.com/conda-forge/xorg-libxi-feedstock.git
+[submodule "cyipopt"]
+	path = feedstocks/cyipopt
+	url = https://github.com/conda-forge/cyipopt-feedstock.git
+[submodule "make"]
+	path = feedstocks/make
+	url = https://github.com/conda-forge/make-feedstock.git
+[submodule "version_information"]
+	path = feedstocks/version_information
+	url = https://github.com/conda-forge/version_information-feedstock.git
