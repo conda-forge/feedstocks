@@ -4971,3 +4971,12 @@
 [submodule "yeadon"]
 	path = feedstocks/yeadon
 	url = https://github.com/conda-forge/yeadon-feedstock.git
+[submodule "argcomplete"]
+	path = feedstocks/argcomplete
+	url = https://github.com/conda-forge/argcomplete-feedstock.git
+[submodule "chardet"]
+	path = feedstocks/chardet
+	url = https://github.com/conda-forge/chardet-feedstock.git
+[submodule "cling-patches"]
+	path = feedstocks/cling-patches
+	url = https://github.com/conda-forge/cling-patches-feedstock.git
