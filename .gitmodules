@@ -5211,3 +5211,51 @@
 [submodule "zn_poly"]
 	path = feedstocks/zn_poly
 	url = https://github.com/conda-forge/zn_poly-feedstock.git
+[submodule "backports.lzma"]
+	path = feedstocks/backports.lzma
+	url = https://github.com/conda-forge/backports.lzma-feedstock.git
+[submodule "colormap"]
+	path = feedstocks/colormap
+	url = https://github.com/conda-forge/colormap-feedstock.git
+[submodule "easydev"]
+	path = feedstocks/easydev
+	url = https://github.com/conda-forge/easydev-feedstock.git
+[submodule "ecl"]
+	path = feedstocks/ecl
+	url = https://github.com/conda-forge/ecl-feedstock.git
+[submodule "eclib"]
+	path = feedstocks/eclib
+	url = https://github.com/conda-forge/eclib-feedstock.git
+[submodule "fflas-ffpack"]
+	path = feedstocks/fflas-ffpack
+	url = https://github.com/conda-forge/fflas-ffpack-feedstock.git
+[submodule "flintqs"]
+	path = feedstocks/flintqs
+	url = https://github.com/conda-forge/flintqs-feedstock.git
+[submodule "gfan"]
+	path = feedstocks/gfan
+	url = https://github.com/conda-forge/gfan-feedstock.git
+[submodule "lcalc"]
+	path = feedstocks/lcalc
+	url = https://github.com/conda-forge/lcalc-feedstock.git
+[submodule "linbox"]
+	path = feedstocks/linbox
+	url = https://github.com/conda-forge/linbox-feedstock.git
+[submodule "pynac"]
+	path = feedstocks/pynac
+	url = https://github.com/conda-forge/pynac-feedstock.git
+[submodule "rw"]
+	path = feedstocks/rw
+	url = https://github.com/conda-forge/rw-feedstock.git
+[submodule "sagemath-db-combinatorial-designs"]
+	path = feedstocks/sagemath-db-combinatorial-designs
+	url = https://github.com/conda-forge/sagemath-db-combinatorial-designs-feedstock.git
+[submodule "sagemath-db-graphs"]
+	path = feedstocks/sagemath-db-graphs
+	url = https://github.com/conda-forge/sagemath-db-graphs-feedstock.git
+[submodule "sagemath-db-polytopes"]
+	path = feedstocks/sagemath-db-polytopes
+	url = https://github.com/conda-forge/sagemath-db-polytopes-feedstock.git
+[submodule "singular"]
+	path = feedstocks/singular
+	url = https://github.com/conda-forge/singular-feedstock.git
