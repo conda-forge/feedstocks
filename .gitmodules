@@ -5259,3 +5259,21 @@
 [submodule "singular"]
 	path = feedstocks/singular
 	url = https://github.com/conda-forge/singular-feedstock.git
+[submodule "homura"]
+	path = feedstocks/homura
+	url = https://github.com/conda-forge/homura-feedstock.git
+[submodule "osx-pocl-opencl"]
+	path = feedstocks/osx-pocl-opencl
+	url = https://github.com/conda-forge/osx-pocl-opencl-feedstock.git
+[submodule "polyline"]
+	path = feedstocks/polyline
+	url = https://github.com/conda-forge/polyline-feedstock.git
+[submodule "ratelim"]
+	path = feedstocks/ratelim
+	url = https://github.com/conda-forge/ratelim-feedstock.git
+[submodule "snzip"]
+	path = feedstocks/snzip
+	url = https://github.com/conda-forge/snzip-feedstock.git
+[submodule "squash"]
+	path = feedstocks/squash
+	url = https://github.com/conda-forge/squash-feedstock.git
