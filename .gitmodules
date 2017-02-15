@@ -5277,3 +5277,30 @@
 [submodule "squash"]
 	path = feedstocks/squash
 	url = https://github.com/conda-forge/squash-feedstock.git
+[submodule "doc8"]
+	path = feedstocks/doc8
+	url = https://github.com/conda-forge/doc8-feedstock.git
+[submodule "geocoder"]
+	path = feedstocks/geocoder
+	url = https://github.com/conda-forge/geocoder-feedstock.git
+[submodule "lmod"]
+	path = feedstocks/lmod
+	url = https://github.com/conda-forge/lmod-feedstock.git
+[submodule "lua-luafilesystem"]
+	path = feedstocks/lua-luafilesystem
+	url = https://github.com/conda-forge/lua-luafilesystem-feedstock.git
+[submodule "lua-luaposix"]
+	path = feedstocks/lua-luaposix
+	url = https://github.com/conda-forge/lua-luaposix-feedstock.git
+[submodule "lzo"]
+	path = feedstocks/lzo
+	url = https://github.com/conda-forge/lzo-feedstock.git
+[submodule "raven"]
+	path = feedstocks/raven
+	url = https://github.com/conda-forge/raven-feedstock.git
+[submodule "restructuredtext_lint"]
+	path = feedstocks/restructuredtext_lint
+	url = https://github.com/conda-forge/restructuredtext_lint-feedstock.git
+[submodule "usgs"]
+	path = feedstocks/usgs
+	url = https://github.com/conda-forge/usgs-feedstock.git
