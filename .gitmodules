@@ -5304,3 +5304,36 @@
 [submodule "usgs"]
 	path = feedstocks/usgs
 	url = https://github.com/conda-forge/usgs-feedstock.git
+[submodule "agate-dbf"]
+	path = feedstocks/agate-dbf
+	url = https://github.com/conda-forge/agate-dbf-feedstock.git
+[submodule "easybuild-easyblocks"]
+	path = feedstocks/easybuild-easyblocks
+	url = https://github.com/conda-forge/easybuild-easyblocks-feedstock.git
+[submodule "easybuild-easyconfigs"]
+	path = feedstocks/easybuild-easyconfigs
+	url = https://github.com/conda-forge/easybuild-easyconfigs-feedstock.git
+[submodule "easybuild"]
+	path = feedstocks/easybuild
+	url = https://github.com/conda-forge/easybuild-feedstock.git
+[submodule "easybuild-framework"]
+	path = feedstocks/easybuild-framework
+	url = https://github.com/conda-forge/easybuild-framework-feedstock.git
+[submodule "environment-modules"]
+	path = feedstocks/environment-modules
+	url = https://github.com/conda-forge/environment-modules-feedstock.git
+[submodule "pymagej"]
+	path = feedstocks/pymagej
+	url = https://github.com/conda-forge/pymagej-feedstock.git
+[submodule "r-boot"]
+	path = feedstocks/r-boot
+	url = https://github.com/conda-forge/r-boot-feedstock.git
+[submodule "tcl"]
+	path = feedstocks/tcl
+	url = https://github.com/conda-forge/tcl-feedstock.git
+[submodule "vsc-base"]
+	path = feedstocks/vsc-base
+	url = https://github.com/conda-forge/vsc-base-feedstock.git
+[submodule "vsc-install"]
+	path = feedstocks/vsc-install
+	url = https://github.com/conda-forge/vsc-install-feedstock.git
