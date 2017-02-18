@@ -5337,3 +5337,51 @@
 [submodule "vsc-install"]
 	path = feedstocks/vsc-install
 	url = https://github.com/conda-forge/vsc-install-feedstock.git
+[submodule "agate-lookup"]
+	path = feedstocks/agate-lookup
+	url = https://github.com/conda-forge/agate-lookup-feedstock.git
+[submodule "agate-remote"]
+	path = feedstocks/agate-remote
+	url = https://github.com/conda-forge/agate-remote-feedstock.git
+[submodule "agate-sql"]
+	path = feedstocks/agate-sql
+	url = https://github.com/conda-forge/agate-sql-feedstock.git
+[submodule "agate-stats"]
+	path = feedstocks/agate-stats
+	url = https://github.com/conda-forge/agate-stats-feedstock.git
+[submodule "jupyter-dashboards-server"]
+	path = feedstocks/jupyter-dashboards-server
+	url = https://github.com/conda-forge/jupyter-dashboards-server-feedstock.git
+[submodule "mesalib"]
+	path = feedstocks/mesalib
+	url = https://github.com/conda-forge/mesalib-feedstock.git
+[submodule "r-crayon"]
+	path = feedstocks/r-crayon
+	url = https://github.com/conda-forge/r-crayon-feedstock.git
+[submodule "r-digest"]
+	path = feedstocks/r-digest
+	url = https://github.com/conda-forge/r-digest-feedstock.git
+[submodule "r-gsw"]
+	path = feedstocks/r-gsw
+	url = https://github.com/conda-forge/r-gsw-feedstock.git
+[submodule "r-jsonlite"]
+	path = feedstocks/r-jsonlite
+	url = https://github.com/conda-forge/r-jsonlite-feedstock.git
+[submodule "r-lattice"]
+	path = feedstocks/r-lattice
+	url = https://github.com/conda-forge/r-lattice-feedstock.git
+[submodule "r-magrittr"]
+	path = feedstocks/r-magrittr
+	url = https://github.com/conda-forge/r-magrittr-feedstock.git
+[submodule "r-r6"]
+	path = feedstocks/r-r6
+	url = https://github.com/conda-forge/r-r6-feedstock.git
+[submodule "r-repr"]
+	path = feedstocks/r-repr
+	url = https://github.com/conda-forge/r-repr-feedstock.git
+[submodule "r-stringi"]
+	path = feedstocks/r-stringi
+	url = https://github.com/conda-forge/r-stringi-feedstock.git
+[submodule "r-uuid"]
+	path = feedstocks/r-uuid
+	url = https://github.com/conda-forge/r-uuid-feedstock.git
