@@ -5442,3 +5442,21 @@
 [submodule "yajl"]
 	path = feedstocks/yajl
 	url = https://github.com/conda-forge/yajl-feedstock.git
+[submodule "cdtime"]
+	path = feedstocks/cdtime
+	url = https://github.com/conda-forge/cdtime-feedstock.git
+[submodule "cling"]
+	path = feedstocks/cling
+	url = https://github.com/conda-forge/cling-feedstock.git
+[submodule "kernda"]
+	path = feedstocks/kernda
+	url = https://github.com/conda-forge/kernda-feedstock.git
+[submodule "orange3-network"]
+	path = feedstocks/orange3-network
+	url = https://github.com/conda-forge/orange3-network-feedstock.git
+[submodule "orange3-timeseries"]
+	path = feedstocks/orange3-timeseries
+	url = https://github.com/conda-forge/orange3-timeseries-feedstock.git
+[submodule "py-lz4framed"]
+	path = feedstocks/py-lz4framed
+	url = https://github.com/conda-forge/py-lz4framed-feedstock.git
