@@ -5460,3 +5460,12 @@
 [submodule "py-lz4framed"]
 	path = feedstocks/py-lz4framed
 	url = https://github.com/conda-forge/py-lz4framed-feedstock.git
+[submodule "beautifulsoup4"]
+	path = feedstocks/beautifulsoup4
+	url = https://github.com/conda-forge/beautifulsoup4-feedstock.git
+[submodule "casacore"]
+	path = feedstocks/casacore
+	url = https://github.com/conda-forge/casacore-feedstock.git
+[submodule "mne"]
+	path = feedstocks/mne
+	url = https://github.com/conda-forge/mne-feedstock.git
