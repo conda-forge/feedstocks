@@ -5478,3 +5478,9 @@
 [submodule "tweepy"]
 	path = feedstocks/tweepy
 	url = https://github.com/conda-forge/tweepy-feedstock.git
+[submodule "libgap"]
+	path = feedstocks/libgap
+	url = https://github.com/conda-forge/libgap-feedstock.git
+[submodule "sagemath-db-elliptic-curves"]
+	path = feedstocks/sagemath-db-elliptic-curves
+	url = https://github.com/conda-forge/sagemath-db-elliptic-curves-feedstock.git
