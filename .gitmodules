@@ -5469,3 +5469,12 @@
 [submodule "mne"]
 	path = feedstocks/mne
 	url = https://github.com/conda-forge/mne-feedstock.git
+[submodule "lz4-c"]
+	path = feedstocks/lz4-c
+	url = https://github.com/conda-forge/lz4-c-feedstock.git
+[submodule "pysolr"]
+	path = feedstocks/pysolr
+	url = https://github.com/conda-forge/pysolr-feedstock.git
+[submodule "tweepy"]
+	path = feedstocks/tweepy
+	url = https://github.com/conda-forge/tweepy-feedstock.git
