@@ -5490,3 +5490,12 @@
 [submodule "reports"]
 	path = feedstocks/reports
 	url = https://github.com/conda-forge/reports-feedstock.git
+[submodule "bzip2"]
+	path = feedstocks/bzip2
+	url = https://github.com/conda-forge/bzip2-feedstock.git
+[submodule "ldaptor"]
+	path = feedstocks/ldaptor
+	url = https://github.com/conda-forge/ldaptor-feedstock.git
+[submodule "libsakura"]
+	path = feedstocks/libsakura
+	url = https://github.com/conda-forge/libsakura-feedstock.git
