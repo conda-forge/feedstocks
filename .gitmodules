@@ -5499,3 +5499,27 @@
 [submodule "libsakura"]
 	path = feedstocks/libsakura
 	url = https://github.com/conda-forge/libsakura-feedstock.git
+[submodule "attrs"]
+	path = feedstocks/attrs
+	url = https://github.com/conda-forge/attrs-feedstock.git
+[submodule "dectate"]
+	path = feedstocks/dectate
+	url = https://github.com/conda-forge/dectate-feedstock.git
+[submodule "easytest"]
+	path = feedstocks/easytest
+	url = https://github.com/conda-forge/easytest-feedstock.git
+[submodule "graphite2"]
+	path = feedstocks/graphite2
+	url = https://github.com/conda-forge/graphite2-feedstock.git
+[submodule "jupyter_sphinx"]
+	path = feedstocks/jupyter_sphinx
+	url = https://github.com/conda-forge/jupyter_sphinx-feedstock.git
+[submodule "parse"]
+	path = feedstocks/parse
+	url = https://github.com/conda-forge/parse-feedstock.git
+[submodule "pytoml"]
+	path = feedstocks/pytoml
+	url = https://github.com/conda-forge/pytoml-feedstock.git
+[submodule "sagelib"]
+	path = feedstocks/sagelib
+	url = https://github.com/conda-forge/sagelib-feedstock.git
