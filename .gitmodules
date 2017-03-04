@@ -5523,3 +5523,33 @@
 [submodule "sagelib"]
 	path = feedstocks/sagelib
 	url = https://github.com/conda-forge/sagelib-feedstock.git
+[submodule "argon2_cffi"]
+	path = feedstocks/argon2_cffi
+	url = https://github.com/conda-forge/argon2_cffi-feedstock.git
+[submodule "bowerstatic"]
+	path = feedstocks/bowerstatic
+	url = https://github.com/conda-forge/bowerstatic-feedstock.git
+[submodule "cached-property"]
+	path = feedstocks/cached-property
+	url = https://github.com/conda-forge/cached-property-feedstock.git
+[submodule "fpylll"]
+	path = feedstocks/fpylll
+	url = https://github.com/conda-forge/fpylll-feedstock.git
+[submodule "orange3-text"]
+	path = feedstocks/orange3-text
+	url = https://github.com/conda-forge/orange3-text-feedstock.git
+[submodule "otfmi"]
+	path = feedstocks/otfmi
+	url = https://github.com/conda-forge/otfmi-feedstock.git
+[submodule "publish"]
+	path = feedstocks/publish
+	url = https://github.com/conda-forge/publish-feedstock.git
+[submodule "sphinxjp.themes.impressjs"]
+	path = feedstocks/sphinxjp.themes.impressjs
+	url = https://github.com/conda-forge/sphinxjp.themes.impressjs-feedstock.git
+[submodule "unixodbc"]
+	path = feedstocks/unixodbc
+	url = https://github.com/conda-forge/unixodbc-feedstock.git
+[submodule "webob"]
+	path = feedstocks/webob
+	url = https://github.com/conda-forge/webob-feedstock.git
