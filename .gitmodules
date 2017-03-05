@@ -5556,3 +5556,33 @@
 [submodule "rubiks"]
 	path = feedstocks/rubiks
 	url = https://github.com/conda-forge/rubiks-feedstock.git
+[submodule "bibtexparser"]
+	path = feedstocks/bibtexparser
+	url = https://github.com/conda-forge/bibtexparser-feedstock.git
+[submodule "conda-mirror"]
+	path = feedstocks/conda-mirror
+	url = https://github.com/conda-forge/conda-mirror-feedstock.git
+[submodule "crochet"]
+	path = feedstocks/crochet
+	url = https://github.com/conda-forge/crochet-feedstock.git
+[submodule "icalendar"]
+	path = feedstocks/icalendar
+	url = https://github.com/conda-forge/icalendar-feedstock.git
+[submodule "nauty"]
+	path = feedstocks/nauty
+	url = https://github.com/conda-forge/nauty-feedstock.git
+[submodule "palp"]
+	path = feedstocks/palp
+	url = https://github.com/conda-forge/palp-feedstock.git
+[submodule "polib"]
+	path = feedstocks/polib
+	url = https://github.com/conda-forge/polib-feedstock.git
+[submodule "python-constraint"]
+	path = feedstocks/python-constraint
+	url = https://github.com/conda-forge/python-constraint-feedstock.git
+[submodule "sagemath-db-conway-polynomials"]
+	path = feedstocks/sagemath-db-conway-polynomials
+	url = https://github.com/conda-forge/sagemath-db-conway-polynomials-feedstock.git
+[submodule "scipy-sugar"]
+	path = feedstocks/scipy-sugar
+	url = https://github.com/conda-forge/scipy-sugar-feedstock.git
