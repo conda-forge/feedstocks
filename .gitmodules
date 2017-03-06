@@ -5586,3 +5586,36 @@
 [submodule "scipy-sugar"]
 	path = feedstocks/scipy-sugar
 	url = https://github.com/conda-forge/scipy-sugar-feedstock.git
+[submodule "armadillo"]
+	path = feedstocks/armadillo
+	url = https://github.com/conda-forge/armadillo-feedstock.git
+[submodule "cppunit"]
+	path = feedstocks/cppunit
+	url = https://github.com/conda-forge/cppunit-feedstock.git
+[submodule "giac"]
+	path = feedstocks/giac
+	url = https://github.com/conda-forge/giac-feedstock.git
+[submodule "importscan"]
+	path = feedstocks/importscan
+	url = https://github.com/conda-forge/importscan-feedstock.git
+[submodule "pandas-gbq"]
+	path = feedstocks/pandas-gbq
+	url = https://github.com/conda-forge/pandas-gbq-feedstock.git
+[submodule "poppler-data"]
+	path = feedstocks/poppler-data
+	url = https://github.com/conda-forge/poppler-data-feedstock.git
+[submodule "poppler"]
+	path = feedstocks/poppler
+	url = https://github.com/conda-forge/poppler-feedstock.git
+[submodule "pynamical"]
+	path = feedstocks/pynamical
+	url = https://github.com/conda-forge/pynamical-feedstock.git
+[submodule "pyseaweed"]
+	path = feedstocks/pyseaweed
+	url = https://github.com/conda-forge/pyseaweed-feedstock.git
+[submodule "reg"]
+	path = feedstocks/reg
+	url = https://github.com/conda-forge/reg-feedstock.git
+[submodule "xlrd"]
+	path = feedstocks/xlrd
+	url = https://github.com/conda-forge/xlrd-feedstock.git
