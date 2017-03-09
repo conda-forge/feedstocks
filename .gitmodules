@@ -5619,3 +5619,27 @@
 [submodule "xlrd"]
 	path = feedstocks/xlrd
 	url = https://github.com/conda-forge/xlrd-feedstock.git
+[submodule "beaker"]
+	path = feedstocks/beaker
+	url = https://github.com/conda-forge/beaker-feedstock.git
+[submodule "ddt"]
+	path = feedstocks/ddt
+	url = https://github.com/conda-forge/ddt-feedstock.git
+[submodule "mockredispy"]
+	path = feedstocks/mockredispy
+	url = https://github.com/conda-forge/mockredispy-feedstock.git
+[submodule "morepath"]
+	path = feedstocks/morepath
+	url = https://github.com/conda-forge/morepath-feedstock.git
+[submodule "parse_type"]
+	path = feedstocks/parse_type
+	url = https://github.com/conda-forge/parse_type-feedstock.git
+[submodule "pyscss"]
+	path = feedstocks/pyscss
+	url = https://github.com/conda-forge/pyscss-feedstock.git
+[submodule "pystan"]
+	path = feedstocks/pystan
+	url = https://github.com/conda-forge/pystan-feedstock.git
+[submodule "virtualenv"]
+	path = feedstocks/virtualenv
+	url = https://github.com/conda-forge/virtualenv-feedstock.git
