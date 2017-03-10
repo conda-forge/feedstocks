@@ -5646,3 +5646,9 @@
 [submodule "nglview"]
 	path = feedstocks/nglview
 	url = https://github.com/conda-forge/nglview-feedstock.git
+[submodule "colour-science"]
+	path = feedstocks/colour-science
+	url = https://github.com/conda-forge/colour-science-feedstock.git
+[submodule "conda-verify"]
+	path = feedstocks/conda-verify
+	url = https://github.com/conda-forge/conda-verify-feedstock.git
