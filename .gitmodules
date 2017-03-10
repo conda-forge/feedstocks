@@ -5643,3 +5643,6 @@
 [submodule "virtualenv"]
 	path = feedstocks/virtualenv
 	url = https://github.com/conda-forge/virtualenv-feedstock.git
+[submodule "nglview"]
+	path = feedstocks/nglview
+	url = https://github.com/conda-forge/nglview-feedstock.git
