@@ -5652,3 +5652,12 @@
 [submodule "conda-verify"]
 	path = feedstocks/conda-verify
 	url = https://github.com/conda-forge/conda-verify-feedstock.git
+[submodule "more.forwarded"]
+	path = feedstocks/more.forwarded
+	url = https://github.com/conda-forge/more.forwarded-feedstock.git
+[submodule "more.pathtool"]
+	path = feedstocks/more.pathtool
+	url = https://github.com/conda-forge/more.pathtool-feedstock.git
+[submodule "more.static"]
+	path = feedstocks/more.static
+	url = https://github.com/conda-forge/more.static-feedstock.git
