@@ -5661,3 +5661,30 @@
 [submodule "more.static"]
 	path = feedstocks/more.static
 	url = https://github.com/conda-forge/more.static-feedstock.git
+[submodule "betfairlightweight"]
+	path = feedstocks/betfairlightweight
+	url = https://github.com/conda-forge/betfairlightweight-feedstock.git
+[submodule "docrep"]
+	path = feedstocks/docrep
+	url = https://github.com/conda-forge/docrep-feedstock.git
+[submodule "geomalgo"]
+	path = feedstocks/geomalgo
+	url = https://github.com/conda-forge/geomalgo-feedstock.git
+[submodule "goftests"]
+	path = feedstocks/goftests
+	url = https://github.com/conda-forge/goftests-feedstock.git
+[submodule "halide"]
+	path = feedstocks/halide
+	url = https://github.com/conda-forge/halide-feedstock.git
+[submodule "pyasdf"]
+	path = feedstocks/pyasdf
+	url = https://github.com/conda-forge/pyasdf-feedstock.git
+[submodule "pyxid"]
+	path = feedstocks/pyxid
+	url = https://github.com/conda-forge/pyxid-feedstock.git
+[submodule "statistics"]
+	path = feedstocks/statistics
+	url = https://github.com/conda-forge/statistics-feedstock.git
+[submodule "zeep"]
+	path = feedstocks/zeep
+	url = https://github.com/conda-forge/zeep-feedstock.git
