@@ -5691,3 +5691,21 @@
 [submodule "openfst"]
 	path = feedstocks/openfst
 	url = https://github.com/conda-forge/openfst-feedstock.git
+[submodule "behave"]
+	path = feedstocks/behave
+	url = https://github.com/conda-forge/behave-feedstock.git
+[submodule "cdms2"]
+	path = feedstocks/cdms2
+	url = https://github.com/conda-forge/cdms2-feedstock.git
+[submodule "natsort"]
+	path = feedstocks/natsort
+	url = https://github.com/conda-forge/natsort-feedstock.git
+[submodule "pypeg2"]
+	path = feedstocks/pypeg2
+	url = https://github.com/conda-forge/pypeg2-feedstock.git
+[submodule "python-fmask"]
+	path = feedstocks/python-fmask
+	url = https://github.com/conda-forge/python-fmask-feedstock.git
+[submodule "sensorml2iso"]
+	path = feedstocks/sensorml2iso
+	url = https://github.com/conda-forge/sensorml2iso-feedstock.git
