@@ -5712,3 +5712,9 @@
 [submodule "speex"]
 	path = feedstocks/speex
 	url = https://github.com/conda-forge/speex-feedstock.git
+[submodule "maven"]
+	path = feedstocks/maven
+	url = https://github.com/conda-forge/maven-feedstock.git
+[submodule "rdflib"]
+	path = feedstocks/rdflib
+	url = https://github.com/conda-forge/rdflib-feedstock.git
