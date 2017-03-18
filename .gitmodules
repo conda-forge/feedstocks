@@ -5718,3 +5718,15 @@
 [submodule "rdflib"]
 	path = feedstocks/rdflib
 	url = https://github.com/conda-forge/rdflib-feedstock.git
+[submodule "bumpversion"]
+	path = feedstocks/bumpversion
+	url = https://github.com/conda-forge/bumpversion-feedstock.git
+[submodule "csvkit"]
+	path = feedstocks/csvkit
+	url = https://github.com/conda-forge/csvkit-feedstock.git
+[submodule "rply"]
+	path = feedstocks/rply
+	url = https://github.com/conda-forge/rply-feedstock.git
+[submodule "sympow"]
+	path = feedstocks/sympow
+	url = https://github.com/conda-forge/sympow-feedstock.git
