@@ -5730,3 +5730,9 @@
 [submodule "sympow"]
 	path = feedstocks/sympow
 	url = https://github.com/conda-forge/sympow-feedstock.git
+[submodule "aubio"]
+	path = feedstocks/aubio
+	url = https://github.com/conda-forge/aubio-feedstock.git
+[submodule "cheroot"]
+	path = feedstocks/cheroot
+	url = https://github.com/conda-forge/cheroot-feedstock.git
