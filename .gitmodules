@@ -5736,3 +5736,15 @@
 [submodule "cheroot"]
 	path = feedstocks/cheroot
 	url = https://github.com/conda-forge/cheroot-feedstock.git
+[submodule "glue-core"]
+	path = feedstocks/glue-core
+	url = https://github.com/conda-forge/glue-core-feedstock.git
+[submodule "maxima"]
+	path = feedstocks/maxima
+	url = https://github.com/conda-forge/maxima-feedstock.git
+[submodule "python-memcached"]
+	path = feedstocks/python-memcached
+	url = https://github.com/conda-forge/python-memcached-feedstock.git
+[submodule "tikzmagic"]
+	path = feedstocks/tikzmagic
+	url = https://github.com/conda-forge/tikzmagic-feedstock.git
