@@ -5748,3 +5748,18 @@
 [submodule "tikzmagic"]
 	path = feedstocks/tikzmagic
 	url = https://github.com/conda-forge/tikzmagic-feedstock.git
+[submodule "pycifrw"]
+	path = feedstocks/pycifrw
+	url = https://github.com/conda-forge/pycifrw-feedstock.git
+[submodule "pyspark"]
+	path = feedstocks/pyspark
+	url = https://github.com/conda-forge/pyspark-feedstock.git
+[submodule "sage"]
+	path = feedstocks/sage
+	url = https://github.com/conda-forge/sage-feedstock.git
+[submodule "urlobject"]
+	path = feedstocks/urlobject
+	url = https://github.com/conda-forge/urlobject-feedstock.git
+[submodule "win_inet_pton"]
+	path = feedstocks/win_inet_pton
+	url = https://github.com/conda-forge/win_inet_pton-feedstock.git
