@@ -5775,3 +5775,15 @@
 [submodule "pdir2"]
 	path = feedstocks/pdir2
 	url = https://github.com/conda-forge/pdir2-feedstock.git
+[submodule "flaky"]
+	path = feedstocks/flaky
+	url = https://github.com/conda-forge/flaky-feedstock.git
+[submodule "mr.bob"]
+	path = feedstocks/mr.bob
+	url = https://github.com/conda-forge/mr.bob-feedstock.git
+[submodule "mysql-connector-python"]
+	path = feedstocks/mysql-connector-python
+	url = https://github.com/conda-forge/mysql-connector-python-feedstock.git
+[submodule "sqlalchemy-migrate"]
+	path = feedstocks/sqlalchemy-migrate
+	url = https://github.com/conda-forge/sqlalchemy-migrate-feedstock.git
