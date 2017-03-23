@@ -3555,9 +3555,6 @@
 [submodule "moab"]
 	path = feedstocks/moab
 	url = https://github.com/conda-forge/moab-feedstock.git
-[submodule "otlhs"]
-	path = feedstocks/otlhs
-	url = https://github.com/conda-forge/otlhs-feedstock.git
 [submodule "repeated_test"]
 	path = feedstocks/repeated_test
 	url = https://github.com/conda-forge/repeated_test-feedstock.git
@@ -5769,3 +5766,12 @@
 [submodule "xgboost"]
 	path = feedstocks/xgboost
 	url = https://github.com/conda-forge/xgboost-feedstock.git
+[submodule "faker"]
+	path = feedstocks/faker
+	url = https://github.com/conda-forge/faker-feedstock.git
+[submodule "geographiclib"]
+	path = feedstocks/geographiclib
+	url = https://github.com/conda-forge/geographiclib-feedstock.git
+[submodule "pdir2"]
+	path = feedstocks/pdir2
+	url = https://github.com/conda-forge/pdir2-feedstock.git
