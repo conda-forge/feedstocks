@@ -5787,3 +5787,30 @@
 [submodule "sqlalchemy-migrate"]
 	path = feedstocks/sqlalchemy-migrate
 	url = https://github.com/conda-forge/sqlalchemy-migrate-feedstock.git
+[submodule "conda-devenv"]
+	path = feedstocks/conda-devenv
+	url = https://github.com/conda-forge/conda-devenv-feedstock.git
+[submodule "kafkacat"]
+	path = feedstocks/kafkacat
+	url = https://github.com/conda-forge/kafkacat-feedstock.git
+[submodule "pychef"]
+	path = feedstocks/pychef
+	url = https://github.com/conda-forge/pychef-feedstock.git
+[submodule "pyslet"]
+	path = feedstocks/pyslet
+	url = https://github.com/conda-forge/pyslet-feedstock.git
+[submodule "python-confluent-kafka"]
+	path = feedstocks/python-confluent-kafka
+	url = https://github.com/conda-forge/python-confluent-kafka-feedstock.git
+[submodule "routes"]
+	path = feedstocks/routes
+	url = https://github.com/conda-forge/routes-feedstock.git
+[submodule "scons"]
+	path = feedstocks/scons
+	url = https://github.com/conda-forge/scons-feedstock.git
+[submodule "simhash-py"]
+	path = feedstocks/simhash-py
+	url = https://github.com/conda-forge/simhash-py-feedstock.git
+[submodule "tempora"]
+	path = feedstocks/tempora
+	url = https://github.com/conda-forge/tempora-feedstock.git
