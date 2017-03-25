@@ -5817,3 +5817,9 @@
 [submodule "pympler"]
 	path = feedstocks/pympler
 	url = https://github.com/conda-forge/pympler-feedstock.git
+[submodule "datacube"]
+	path = feedstocks/datacube
+	url = https://github.com/conda-forge/datacube-feedstock.git
+[submodule "libgpuarray"]
+	path = feedstocks/libgpuarray
+	url = https://github.com/conda-forge/libgpuarray-feedstock.git
