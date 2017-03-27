@@ -5823,3 +5823,6 @@
 [submodule "libgpuarray"]
 	path = feedstocks/libgpuarray
 	url = https://github.com/conda-forge/libgpuarray-feedstock.git
+[submodule "py-ubjson"]
+	path = feedstocks/py-ubjson
+	url = https://github.com/conda-forge/py-ubjson-feedstock.git
