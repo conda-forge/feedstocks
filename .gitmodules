@@ -5325,9 +5325,6 @@
 [submodule "r-boot"]
 	path = feedstocks/r-boot
 	url = https://github.com/conda-forge/r-boot-feedstock.git
-[submodule "tcl"]
-	path = feedstocks/tcl
-	url = https://github.com/conda-forge/tcl-feedstock.git
 [submodule "vsc-base"]
 	path = feedstocks/vsc-base
 	url = https://github.com/conda-forge/vsc-base-feedstock.git
@@ -5826,3 +5823,33 @@
 [submodule "py-ubjson"]
 	path = feedstocks/py-ubjson
 	url = https://github.com/conda-forge/py-ubjson-feedstock.git
+[submodule "ctk-cli"]
+	path = feedstocks/ctk-cli
+	url = https://github.com/conda-forge/ctk-cli-feedstock.git
+[submodule "larray"]
+	path = feedstocks/larray
+	url = https://github.com/conda-forge/larray-feedstock.git
+[submodule "r-class"]
+	path = feedstocks/r-class
+	url = https://github.com/conda-forge/r-class-feedstock.git
+[submodule "r-cluster"]
+	path = feedstocks/r-cluster
+	url = https://github.com/conda-forge/r-cluster-feedstock.git
+[submodule "r-codetools"]
+	path = feedstocks/r-codetools
+	url = https://github.com/conda-forge/r-codetools-feedstock.git
+[submodule "r-foreign"]
+	path = feedstocks/r-foreign
+	url = https://github.com/conda-forge/r-foreign-feedstock.git
+[submodule "r-kernsmooth"]
+	path = feedstocks/r-kernsmooth
+	url = https://github.com/conda-forge/r-kernsmooth-feedstock.git
+[submodule "r-mass"]
+	path = feedstocks/r-mass
+	url = https://github.com/conda-forge/r-mass-feedstock.git
+[submodule "textadapter"]
+	path = feedstocks/textadapter
+	url = https://github.com/conda-forge/textadapter-feedstock.git
+[submodule "utfcpp"]
+	path = feedstocks/utfcpp
+	url = https://github.com/conda-forge/utfcpp-feedstock.git
