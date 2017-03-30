@@ -5853,3 +5853,24 @@
 [submodule "utfcpp"]
 	path = feedstocks/utfcpp
 	url = https://github.com/conda-forge/utfcpp-feedstock.git
+[submodule "f90nml"]
+	path = feedstocks/f90nml
+	url = https://github.com/conda-forge/f90nml-feedstock.git
+[submodule "r-mgcv"]
+	path = feedstocks/r-mgcv
+	url = https://github.com/conda-forge/r-mgcv-feedstock.git
+[submodule "r-nlme"]
+	path = feedstocks/r-nlme
+	url = https://github.com/conda-forge/r-nlme-feedstock.git
+[submodule "r-nnet"]
+	path = feedstocks/r-nnet
+	url = https://github.com/conda-forge/r-nnet-feedstock.git
+[submodule "r-rpart"]
+	path = feedstocks/r-rpart
+	url = https://github.com/conda-forge/r-rpart-feedstock.git
+[submodule "r-spatial"]
+	path = feedstocks/r-spatial
+	url = https://github.com/conda-forge/r-spatial-feedstock.git
+[submodule "spyder-line-profiler"]
+	path = feedstocks/spyder-line-profiler
+	url = https://github.com/conda-forge/spyder-line-profiler-feedstock.git
