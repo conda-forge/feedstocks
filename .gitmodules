@@ -5883,3 +5883,9 @@
 [submodule "spyder-memory-profiler"]
 	path = feedstocks/spyder-memory-profiler
 	url = https://github.com/conda-forge/spyder-memory-profiler-feedstock.git
+[submodule "tblib"]
+	path = feedstocks/tblib
+	url = https://github.com/conda-forge/tblib-feedstock.git
+[submodule "zstd"]
+	path = feedstocks/zstd
+	url = https://github.com/conda-forge/zstd-feedstock.git
