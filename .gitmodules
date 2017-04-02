@@ -5889,3 +5889,42 @@
 [submodule "zstd"]
 	path = feedstocks/zstd
 	url = https://github.com/conda-forge/zstd-feedstock.git
+[submodule "argtable2"]
+	path = feedstocks/argtable2
+	url = https://github.com/conda-forge/argtable2-feedstock.git
+[submodule "astor"]
+	path = feedstocks/astor
+	url = https://github.com/conda-forge/astor-feedstock.git
+[submodule "jira"]
+	path = feedstocks/jira
+	url = https://github.com/conda-forge/jira-feedstock.git
+[submodule "openpyxl"]
+	path = feedstocks/openpyxl
+	url = https://github.com/conda-forge/openpyxl-feedstock.git
+[submodule "pandas-msgpack"]
+	path = feedstocks/pandas-msgpack
+	url = https://github.com/conda-forge/pandas-msgpack-feedstock.git
+[submodule "portend"]
+	path = feedstocks/portend
+	url = https://github.com/conda-forge/portend-feedstock.git
+[submodule "pycandela"]
+	path = feedstocks/pycandela
+	url = https://github.com/conda-forge/pycandela-feedstock.git
+[submodule "python-json-logger"]
+	path = feedstocks/python-json-logger
+	url = https://github.com/conda-forge/python-json-logger-feedstock.git
+[submodule "rope"]
+	path = feedstocks/rope
+	url = https://github.com/conda-forge/rope-feedstock.git
+[submodule "smartypants"]
+	path = feedstocks/smartypants
+	url = https://github.com/conda-forge/smartypants-feedstock.git
+[submodule "socat"]
+	path = feedstocks/socat
+	url = https://github.com/conda-forge/socat-feedstock.git
+[submodule "splunk_handler"]
+	path = feedstocks/splunk_handler
+	url = https://github.com/conda-forge/splunk_handler-feedstock.git
+[submodule "tempdir"]
+	path = feedstocks/tempdir
+	url = https://github.com/conda-forge/tempdir-feedstock.git
