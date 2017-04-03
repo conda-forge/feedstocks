@@ -5949,3 +5949,6 @@
 [submodule "xorg-libxft"]
 	path = feedstocks/xorg-libxft
 	url = https://github.com/conda-forge/xorg-libxft-feedstock.git
+[submodule "typogrify"]
+	path = feedstocks/typogrify
+	url = https://github.com/conda-forge/typogrify-feedstock.git
