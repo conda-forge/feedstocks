@@ -5928,3 +5928,24 @@
 [submodule "tempdir"]
 	path = feedstocks/tempdir
 	url = https://github.com/conda-forge/tempdir-feedstock.git
+[submodule "libev"]
+	path = feedstocks/libev
+	url = https://github.com/conda-forge/libev-feedstock.git
+[submodule "libsndfile"]
+	path = feedstocks/libsndfile
+	url = https://github.com/conda-forge/libsndfile-feedstock.git
+[submodule "liknorm-py"]
+	path = feedstocks/liknorm-py
+	url = https://github.com/conda-forge/liknorm-py-feedstock.git
+[submodule "pescador"]
+	path = feedstocks/pescador
+	url = https://github.com/conda-forge/pescador-feedstock.git
+[submodule "rednose"]
+	path = feedstocks/rednose
+	url = https://github.com/conda-forge/rednose-feedstock.git
+[submodule "scalapack"]
+	path = feedstocks/scalapack
+	url = https://github.com/conda-forge/scalapack-feedstock.git
+[submodule "xorg-libxft"]
+	path = feedstocks/xorg-libxft
+	url = https://github.com/conda-forge/xorg-libxft-feedstock.git
