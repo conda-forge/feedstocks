@@ -5952,3 +5952,42 @@
 [submodule "typogrify"]
 	path = feedstocks/typogrify
 	url = https://github.com/conda-forge/typogrify-feedstock.git
+[submodule "dask-xgboost"]
+	path = feedstocks/dask-xgboost
+	url = https://github.com/conda-forge/dask-xgboost-feedstock.git
+[submodule "fig2dev"]
+	path = feedstocks/fig2dev
+	url = https://github.com/conda-forge/fig2dev-feedstock.git
+[submodule "freediscovery"]
+	path = feedstocks/freediscovery
+	url = https://github.com/conda-forge/freediscovery-feedstock.git
+[submodule "libmagic"]
+	path = feedstocks/libmagic
+	url = https://github.com/conda-forge/libmagic-feedstock.git
+[submodule "mdanalysis"]
+	path = feedstocks/mdanalysis
+	url = https://github.com/conda-forge/mdanalysis-feedstock.git
+[submodule "mpg123"]
+	path = feedstocks/mpg123
+	url = https://github.com/conda-forge/mpg123-feedstock.git
+[submodule "msmbuilder"]
+	path = feedstocks/msmbuilder
+	url = https://github.com/conda-forge/msmbuilder-feedstock.git
+[submodule "mu_repo"]
+	path = feedstocks/mu_repo
+	url = https://github.com/conda-forge/mu_repo-feedstock.git
+[submodule "mwclient"]
+	path = feedstocks/mwclient
+	url = https://github.com/conda-forge/mwclient-feedstock.git
+[submodule "pocean-core"]
+	path = feedstocks/pocean-core
+	url = https://github.com/conda-forge/pocean-core-feedstock.git
+[submodule "promise"]
+	path = feedstocks/promise
+	url = https://github.com/conda-forge/promise-feedstock.git
+[submodule "python-magic"]
+	path = feedstocks/python-magic
+	url = https://github.com/conda-forge/python-magic-feedstock.git
+[submodule "weave"]
+	path = feedstocks/weave
+	url = https://github.com/conda-forge/weave-feedstock.git
