@@ -5991,3 +5991,42 @@
 [submodule "weave"]
 	path = feedstocks/weave
 	url = https://github.com/conda-forge/weave-feedstock.git
+[submodule "dask-searchcv"]
+	path = feedstocks/dask-searchcv
+	url = https://github.com/conda-forge/dask-searchcv-feedstock.git
+[submodule "elektronn"]
+	path = feedstocks/elektronn
+	url = https://github.com/conda-forge/elektronn-feedstock.git
+[submodule "flask-ldap3-login"]
+	path = feedstocks/flask-ldap3-login
+	url = https://github.com/conda-forge/flask-ldap3-login-feedstock.git
+[submodule "inflect"]
+	path = feedstocks/inflect
+	url = https://github.com/conda-forge/inflect-feedstock.git
+[submodule "markovify"]
+	path = feedstocks/markovify
+	url = https://github.com/conda-forge/markovify-feedstock.git
+[submodule "mastodon.py"]
+	path = feedstocks/mastodon.py
+	url = https://github.com/conda-forge/mastodon.py-feedstock.git
+[submodule "mdsynthesis"]
+	path = feedstocks/mdsynthesis
+	url = https://github.com/conda-forge/mdsynthesis-feedstock.git
+[submodule "pocket"]
+	path = feedstocks/pocket
+	url = https://github.com/conda-forge/pocket-feedstock.git
+[submodule "pyhmc"]
+	path = feedstocks/pyhmc
+	url = https://github.com/conda-forge/pyhmc-feedstock.git
+[submodule "rotamerconvolvemd"]
+	path = feedstocks/rotamerconvolvemd
+	url = https://github.com/conda-forge/rotamerconvolvemd-feedstock.git
+[submodule "sciluigi"]
+	path = feedstocks/sciluigi
+	url = https://github.com/conda-forge/sciluigi-feedstock.git
+[submodule "turbodbc"]
+	path = feedstocks/turbodbc
+	url = https://github.com/conda-forge/turbodbc-feedstock.git
+[submodule "waybackpack"]
+	path = feedstocks/waybackpack
+	url = https://github.com/conda-forge/waybackpack-feedstock.git
