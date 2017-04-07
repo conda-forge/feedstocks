@@ -6030,3 +6030,27 @@
 [submodule "waybackpack"]
 	path = feedstocks/waybackpack
 	url = https://github.com/conda-forge/waybackpack-feedstock.git
+[submodule "bokeh"]
+	path = feedstocks/bokeh
+	url = https://github.com/conda-forge/bokeh-feedstock.git
+[submodule "cassandra-driver"]
+	path = feedstocks/cassandra-driver
+	url = https://github.com/conda-forge/cassandra-driver-feedstock.git
+[submodule "kaldi"]
+	path = feedstocks/kaldi
+	url = https://github.com/conda-forge/kaldi-feedstock.git
+[submodule "modernize"]
+	path = feedstocks/modernize
+	url = https://github.com/conda-forge/modernize-feedstock.git
+[submodule "more-itertools"]
+	path = feedstocks/more-itertools
+	url = https://github.com/conda-forge/more-itertools-feedstock.git
+[submodule "pure-sasl"]
+	path = feedstocks/pure-sasl
+	url = https://github.com/conda-forge/pure-sasl-feedstock.git
+[submodule "xfig"]
+	path = feedstocks/xfig
+	url = https://github.com/conda-forge/xfig-feedstock.git
+[submodule "yaafe"]
+	path = feedstocks/yaafe
+	url = https://github.com/conda-forge/yaafe-feedstock.git
