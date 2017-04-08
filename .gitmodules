@@ -6054,3 +6054,15 @@
 [submodule "yaafe"]
 	path = feedstocks/yaafe
 	url = https://github.com/conda-forge/yaafe-feedstock.git
+[submodule "climlab"]
+	path = feedstocks/climlab
+	url = https://github.com/conda-forge/climlab-feedstock.git
+[submodule "jieba"]
+	path = feedstocks/jieba
+	url = https://github.com/conda-forge/jieba-feedstock.git
+[submodule "utm"]
+	path = feedstocks/utm
+	url = https://github.com/conda-forge/utm-feedstock.git
+[submodule "weightedcalcs"]
+	path = feedstocks/weightedcalcs
+	url = https://github.com/conda-forge/weightedcalcs-feedstock.git
