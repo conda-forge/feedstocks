@@ -6066,3 +6066,24 @@
 [submodule "weightedcalcs"]
 	path = feedstocks/weightedcalcs
 	url = https://github.com/conda-forge/weightedcalcs-feedstock.git
+[submodule "jaraco.classes"]
+	path = feedstocks/jaraco.classes
+	url = https://github.com/conda-forge/jaraco.classes-feedstock.git
+[submodule "mdanalysistests"]
+	path = feedstocks/mdanalysistests
+	url = https://github.com/conda-forge/mdanalysistests-feedstock.git
+[submodule "orcid"]
+	path = feedstocks/orcid
+	url = https://github.com/conda-forge/orcid-feedstock.git
+[submodule "pstdint"]
+	path = feedstocks/pstdint
+	url = https://github.com/conda-forge/pstdint-feedstock.git
+[submodule "r-acepack"]
+	path = feedstocks/r-acepack
+	url = https://github.com/conda-forge/r-acepack-feedstock.git
+[submodule "r-adgoftest"]
+	path = feedstocks/r-adgoftest
+	url = https://github.com/conda-forge/r-adgoftest-feedstock.git
+[submodule "r-base64enc"]
+	path = feedstocks/r-base64enc
+	url = https://github.com/conda-forge/r-base64enc-feedstock.git
