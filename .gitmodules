@@ -6087,3 +6087,24 @@
 [submodule "r-base64enc"]
 	path = feedstocks/r-base64enc
 	url = https://github.com/conda-forge/r-base64enc-feedstock.git
+[submodule "gspread"]
+	path = feedstocks/gspread
+	url = https://github.com/conda-forge/gspread-feedstock.git
+[submodule "jaraco.logging"]
+	path = feedstocks/jaraco.logging
+	url = https://github.com/conda-forge/jaraco.logging-feedstock.git
+[submodule "nbval"]
+	path = feedstocks/nbval
+	url = https://github.com/conda-forge/nbval-feedstock.git
+[submodule "pygeobase"]
+	path = feedstocks/pygeobase
+	url = https://github.com/conda-forge/pygeobase-feedstock.git
+[submodule "r-bdsmatrix"]
+	path = feedstocks/r-bdsmatrix
+	url = https://github.com/conda-forge/r-bdsmatrix-feedstock.git
+[submodule "r-bh"]
+	path = feedstocks/r-bh
+	url = https://github.com/conda-forge/r-bh-feedstock.git
+[submodule "r-bit"]
+	path = feedstocks/r-bit
+	url = https://github.com/conda-forge/r-bit-feedstock.git
