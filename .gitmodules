@@ -6108,3 +6108,12 @@
 [submodule "r-bit"]
 	path = feedstocks/r-bit
 	url = https://github.com/conda-forge/r-bit-feedstock.git
+[submodule "habanero"]
+	path = feedstocks/habanero
+	url = https://github.com/conda-forge/habanero-feedstock.git
+[submodule "r-highr"]
+	path = feedstocks/r-highr
+	url = https://github.com/conda-forge/r-highr-feedstock.git
+[submodule "r-hms"]
+	path = feedstocks/r-hms
+	url = https://github.com/conda-forge/r-hms-feedstock.git
