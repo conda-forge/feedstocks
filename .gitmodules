@@ -6120,3 +6120,12 @@
 [submodule "schwimmbad"]
 	path = feedstocks/schwimmbad
 	url = https://github.com/conda-forge/schwimmbad-feedstock.git
+[submodule "ads"]
+	path = feedstocks/ads
+	url = https://github.com/conda-forge/ads-feedstock.git
+[submodule "metaphone"]
+	path = feedstocks/metaphone
+	url = https://github.com/conda-forge/metaphone-feedstock.git
+[submodule "r-dichromat"]
+	path = feedstocks/r-dichromat
+	url = https://github.com/conda-forge/r-dichromat-feedstock.git
