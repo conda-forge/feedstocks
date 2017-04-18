@@ -6252,3 +6252,21 @@
 [submodule "thrift_sasl"]
 	path = feedstocks/thrift_sasl
 	url = https://github.com/conda-forge/thrift_sasl-feedstock.git
+[submodule "df2gspread"]
+	path = feedstocks/df2gspread
+	url = https://github.com/conda-forge/df2gspread-feedstock.git
+[submodule "pagmo"]
+	path = feedstocks/pagmo
+	url = https://github.com/conda-forge/pagmo-feedstock.git
+[submodule "pycairo"]
+	path = feedstocks/pycairo
+	url = https://github.com/conda-forge/pycairo-feedstock.git
+[submodule "xorg-makedepend"]
+	path = feedstocks/xorg-makedepend
+	url = https://github.com/conda-forge/xorg-makedepend-feedstock.git
+[submodule "xorg-printproto"]
+	path = feedstocks/xorg-printproto
+	url = https://github.com/conda-forge/xorg-printproto-feedstock.git
+[submodule "xorg-xbitmaps"]
+	path = feedstocks/xorg-xbitmaps
+	url = https://github.com/conda-forge/xorg-xbitmaps-feedstock.git
