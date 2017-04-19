@@ -6270,3 +6270,15 @@
 [submodule "xorg-xbitmaps"]
 	path = feedstocks/xorg-xbitmaps
 	url = https://github.com/conda-forge/xorg-xbitmaps-feedstock.git
+[submodule "astrocats"]
+	path = feedstocks/astrocats
+	url = https://github.com/conda-forge/astrocats-feedstock.git
+[submodule "atomicwrites"]
+	path = feedstocks/atomicwrites
+	url = https://github.com/conda-forge/atomicwrites-feedstock.git
+[submodule "param"]
+	path = feedstocks/param
+	url = https://github.com/conda-forge/param-feedstock.git
+[submodule "pytest-lazy-fixture"]
+	path = feedstocks/pytest-lazy-fixture
+	url = https://github.com/conda-forge/pytest-lazy-fixture-feedstock.git
