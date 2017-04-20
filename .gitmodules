@@ -6282,3 +6282,15 @@
 [submodule "pytest-lazy-fixture"]
 	path = feedstocks/pytest-lazy-fixture
 	url = https://github.com/conda-forge/pytest-lazy-fixture-feedstock.git
+[submodule "delegator"]
+	path = feedstocks/delegator
+	url = https://github.com/conda-forge/delegator-feedstock.git
+[submodule "pandas-datareader"]
+	path = feedstocks/pandas-datareader
+	url = https://github.com/conda-forge/pandas-datareader-feedstock.git
+[submodule "requests-ftp"]
+	path = feedstocks/requests-ftp
+	url = https://github.com/conda-forge/requests-ftp-feedstock.git
+[submodule "toposort"]
+	path = feedstocks/toposort
+	url = https://github.com/conda-forge/toposort-feedstock.git
