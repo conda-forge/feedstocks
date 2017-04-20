@@ -6294,3 +6294,54 @@
 [submodule "toposort"]
 	path = feedstocks/toposort
 	url = https://github.com/conda-forge/toposort-feedstock.git
+[submodule "codecov"]
+	path = feedstocks/codecov
+	url = https://github.com/conda-forge/codecov-feedstock.git
+[submodule "r"]
+	path = feedstocks/r
+	url = https://github.com/conda-forge/r-feedstock.git
+[submodule "r-labeling"]
+	path = feedstocks/r-labeling
+	url = https://github.com/conda-forge/r-labeling-feedstock.git
+[submodule "r-lars"]
+	path = feedstocks/r-lars
+	url = https://github.com/conda-forge/r-lars-feedstock.git
+[submodule "r-lazyeval"]
+	path = feedstocks/r-lazyeval
+	url = https://github.com/conda-forge/r-lazyeval-feedstock.git
+[submodule "r-leaps"]
+	path = feedstocks/r-leaps
+	url = https://github.com/conda-forge/r-leaps-feedstock.git
+[submodule "r-logging"]
+	path = feedstocks/r-logging
+	url = https://github.com/conda-forge/r-logging-feedstock.git
+[submodule "r-manipulate"]
+	path = feedstocks/r-manipulate
+	url = https://github.com/conda-forge/r-manipulate-feedstock.git
+[submodule "r-maps"]
+	path = feedstocks/r-maps
+	url = https://github.com/conda-forge/r-maps-feedstock.git
+[submodule "r-mime"]
+	path = feedstocks/r-mime
+	url = https://github.com/conda-forge/r-mime-feedstock.git
+[submodule "r-mnormt"]
+	path = feedstocks/r-mnormt
+	url = https://github.com/conda-forge/r-mnormt-feedstock.git
+[submodule "r-modeltools"]
+	path = feedstocks/r-modeltools
+	url = https://github.com/conda-forge/r-modeltools-feedstock.git
+[submodule "r-mvtnorm"]
+	path = feedstocks/r-mvtnorm
+	url = https://github.com/conda-forge/r-mvtnorm-feedstock.git
+[submodule "r-nloptr"]
+	path = feedstocks/r-nloptr
+	url = https://github.com/conda-forge/r-nloptr-feedstock.git
+[submodule "r-nlp"]
+	path = feedstocks/r-nlp
+	url = https://github.com/conda-forge/r-nlp-feedstock.git
+[submodule "r-numderiv"]
+	path = feedstocks/r-numderiv
+	url = https://github.com/conda-forge/r-numderiv-feedstock.git
+[submodule "r-recommended"]
+	path = feedstocks/r-recommended
+	url = https://github.com/conda-forge/r-recommended-feedstock.git
