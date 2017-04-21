@@ -6345,3 +6345,21 @@
 [submodule "r-recommended"]
 	path = feedstocks/r-recommended
 	url = https://github.com/conda-forge/r-recommended-feedstock.git
+[submodule "hy"]
+	path = feedstocks/hy
+	url = https://github.com/conda-forge/hy-feedstock.git
+[submodule "libsemigroups"]
+	path = feedstocks/libsemigroups
+	url = https://github.com/conda-forge/libsemigroups-feedstock.git
+[submodule "nginx"]
+	path = feedstocks/nginx
+	url = https://github.com/conda-forge/nginx-feedstock.git
+[submodule "requests-unixsocket"]
+	path = feedstocks/requests-unixsocket
+	url = https://github.com/conda-forge/requests-unixsocket-feedstock.git
+[submodule "scijava-jupyter-kernel"]
+	path = feedstocks/scijava-jupyter-kernel
+	url = https://github.com/conda-forge/scijava-jupyter-kernel-feedstock.git
+[submodule "vault"]
+	path = feedstocks/vault
+	url = https://github.com/conda-forge/vault-feedstock.git
