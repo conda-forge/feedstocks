@@ -6441,3 +6441,15 @@
 [submodule "xorg-xproxymanagementprotocol"]
 	path = feedstocks/xorg-xproxymanagementprotocol
 	url = https://github.com/conda-forge/xorg-xproxymanagementprotocol-feedstock.git
+[submodule "consul"]
+	path = feedstocks/consul
+	url = https://github.com/conda-forge/consul-feedstock.git
+[submodule "jupyter-themer"]
+	path = feedstocks/jupyter-themer
+	url = https://github.com/conda-forge/jupyter-themer-feedstock.git
+[submodule "terraform"]
+	path = feedstocks/terraform
+	url = https://github.com/conda-forge/terraform-feedstock.git
+[submodule "xorg-libxp"]
+	path = feedstocks/xorg-libxp
+	url = https://github.com/conda-forge/xorg-libxp-feedstock.git
