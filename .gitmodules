@@ -6561,3 +6561,18 @@
 [submodule "records"]
 	path = feedstocks/records
 	url = https://github.com/conda-forge/records-feedstock.git
+[submodule "conda-exec"]
+	path = feedstocks/conda-exec
+	url = https://github.com/conda-forge/conda-exec-feedstock.git
+[submodule "et_xmlfile"]
+	path = feedstocks/et_xmlfile
+	url = https://github.com/conda-forge/et_xmlfile-feedstock.git
+[submodule "itk"]
+	path = feedstocks/itk
+	url = https://github.com/conda-forge/itk-feedstock.git
+[submodule "jupyterlab_launcher"]
+	path = feedstocks/jupyterlab_launcher
+	url = https://github.com/conda-forge/jupyterlab_launcher-feedstock.git
+[submodule "rabbitmq-server"]
+	path = feedstocks/rabbitmq-server
+	url = https://github.com/conda-forge/rabbitmq-server-feedstock.git
