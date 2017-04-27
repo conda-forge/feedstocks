@@ -6576,3 +6576,12 @@
 [submodule "rabbitmq-server"]
 	path = feedstocks/rabbitmq-server
 	url = https://github.com/conda-forge/rabbitmq-server-feedstock.git
+[submodule "lancet"]
+	path = feedstocks/lancet
+	url = https://github.com/conda-forge/lancet-feedstock.git
+[submodule "lesscpy"]
+	path = feedstocks/lesscpy
+	url = https://github.com/conda-forge/lesscpy-feedstock.git
+[submodule "nbbrowserpdf"]
+	path = feedstocks/nbbrowserpdf
+	url = https://github.com/conda-forge/nbbrowserpdf-feedstock.git
