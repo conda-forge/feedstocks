@@ -6585,3 +6585,12 @@
 [submodule "nbbrowserpdf"]
 	path = feedstocks/nbbrowserpdf
 	url = https://github.com/conda-forge/nbbrowserpdf-feedstock.git
+[submodule "cdutil"]
+	path = feedstocks/cdutil
+	url = https://github.com/conda-forge/cdutil-feedstock.git
+[submodule "r-rjava"]
+	path = feedstocks/r-rjava
+	url = https://github.com/conda-forge/r-rjava-feedstock.git
+[submodule "trollius"]
+	path = feedstocks/trollius
+	url = https://github.com/conda-forge/trollius-feedstock.git
