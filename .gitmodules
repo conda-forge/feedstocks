@@ -7107,3 +7107,12 @@
 [submodule "scripttest"]
 	path = feedstocks/scripttest
 	url = https://github.com/conda-forge/scripttest-feedstock.git
+[submodule "flup"]
+	path = feedstocks/flup
+	url = https://github.com/conda-forge/flup-feedstock.git
+[submodule "pyfiglet"]
+	path = feedstocks/pyfiglet
+	url = https://github.com/conda-forge/pyfiglet-feedstock.git
+[submodule "r-checkmate"]
+	path = feedstocks/r-checkmate
+	url = https://github.com/conda-forge/r-checkmate-feedstock.git
