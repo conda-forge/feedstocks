@@ -7119,3 +7119,24 @@
 [submodule "fastnumbers"]
 	path = feedstocks/fastnumbers
 	url = https://github.com/conda-forge/fastnumbers-feedstock.git
+[submodule "r-coin"]
+	path = feedstocks/r-coin
+	url = https://github.com/conda-forge/r-coin-feedstock.git
+[submodule "r-formattable"]
+	path = feedstocks/r-formattable
+	url = https://github.com/conda-forge/r-formattable-feedstock.git
+[submodule "r-gistr"]
+	path = feedstocks/r-gistr
+	url = https://github.com/conda-forge/r-gistr-feedstock.git
+[submodule "r-hmisc"]
+	path = feedstocks/r-hmisc
+	url = https://github.com/conda-forge/r-hmisc-feedstock.git
+[submodule "r-igraph"]
+	path = feedstocks/r-igraph
+	url = https://github.com/conda-forge/r-igraph-feedstock.git
+[submodule "r-lsmeans"]
+	path = feedstocks/r-lsmeans
+	url = https://github.com/conda-forge/r-lsmeans-feedstock.git
+[submodule "r-tidytext"]
+	path = feedstocks/r-tidytext
+	url = https://github.com/conda-forge/r-tidytext-feedstock.git
