@@ -7203,3 +7203,18 @@
 [submodule "yarl"]
 	path = feedstocks/yarl
 	url = https://github.com/conda-forge/yarl-feedstock.git
+[submodule "r-cowplot"]
+	path = feedstocks/r-cowplot
+	url = https://github.com/conda-forge/r-cowplot-feedstock.git
+[submodule "r-geosphere"]
+	path = feedstocks/r-geosphere
+	url = https://github.com/conda-forge/r-geosphere-feedstock.git
+[submodule "r-ggmap"]
+	path = feedstocks/r-ggmap
+	url = https://github.com/conda-forge/r-ggmap-feedstock.git
+[submodule "r-pracma"]
+	path = feedstocks/r-pracma
+	url = https://github.com/conda-forge/r-pracma-feedstock.git
+[submodule "r-rgooglemaps"]
+	path = feedstocks/r-rgooglemaps
+	url = https://github.com/conda-forge/r-rgooglemaps-feedstock.git
