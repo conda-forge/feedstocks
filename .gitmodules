@@ -7260,3 +7260,12 @@
 [submodule "nbfinder"]
 	path = feedstocks/nbfinder
 	url = https://github.com/conda-forge/nbfinder-feedstock.git
+[submodule "eli5"]
+	path = feedstocks/eli5
+	url = https://github.com/conda-forge/eli5-feedstock.git
+[submodule "pyobjc-core"]
+	path = feedstocks/pyobjc-core
+	url = https://github.com/conda-forge/pyobjc-core-feedstock.git
+[submodule "pytest-ast-back-to-python"]
+	path = feedstocks/pytest-ast-back-to-python
+	url = https://github.com/conda-forge/pytest-ast-back-to-python-feedstock.git
