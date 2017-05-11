@@ -7275,3 +7275,30 @@
 [submodule "ijson"]
 	path = feedstocks/ijson
 	url = https://github.com/conda-forge/ijson-feedstock.git
+[submodule "backports.csv"]
+	path = feedstocks/backports.csv
+	url = https://github.com/conda-forge/backports.csv-feedstock.git
+[submodule "cld2-cffi"]
+	path = feedstocks/cld2-cffi
+	url = https://github.com/conda-forge/cld2-cffi-feedstock.git
+[submodule "concurrentloghandler"]
+	path = feedstocks/concurrentloghandler
+	url = https://github.com/conda-forge/concurrentloghandler-feedstock.git
+[submodule "jsonapi-requests"]
+	path = feedstocks/jsonapi-requests
+	url = https://github.com/conda-forge/jsonapi-requests-feedstock.git
+[submodule "pyedflib"]
+	path = feedstocks/pyedflib
+	url = https://github.com/conda-forge/pyedflib-feedstock.git
+[submodule "pyemd"]
+	path = feedstocks/pyemd
+	url = https://github.com/conda-forge/pyemd-feedstock.git
+[submodule "pyphen"]
+	path = feedstocks/pyphen
+	url = https://github.com/conda-forge/pyphen-feedstock.git
+[submodule "r-rmysql"]
+	path = feedstocks/r-rmysql
+	url = https://github.com/conda-forge/r-rmysql-feedstock.git
+[submodule "tenacity"]
+	path = feedstocks/tenacity
+	url = https://github.com/conda-forge/tenacity-feedstock.git
