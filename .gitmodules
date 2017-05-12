@@ -7302,3 +7302,24 @@
 [submodule "tenacity"]
 	path = feedstocks/tenacity
 	url = https://github.com/conda-forge/tenacity-feedstock.git
+[submodule "apsw"]
+	path = feedstocks/apsw
+	url = https://github.com/conda-forge/apsw-feedstock.git
+[submodule "dask-ndfourier"]
+	path = feedstocks/dask-ndfourier
+	url = https://github.com/conda-forge/dask-ndfourier-feedstock.git
+[submodule "dose"]
+	path = feedstocks/dose
+	url = https://github.com/conda-forge/dose-feedstock.git
+[submodule "graph"]
+	path = feedstocks/graph
+	url = https://github.com/conda-forge/graph-feedstock.git
+[submodule "pvl"]
+	path = feedstocks/pvl
+	url = https://github.com/conda-forge/pvl-feedstock.git
+[submodule "sep"]
+	path = feedstocks/sep
+	url = https://github.com/conda-forge/sep-feedstock.git
+[submodule "setuptools_subversion"]
+	path = feedstocks/setuptools_subversion
+	url = https://github.com/conda-forge/setuptools_subversion-feedstock.git
