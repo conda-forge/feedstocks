@@ -7323,3 +7323,24 @@
 [submodule "setuptools_subversion"]
 	path = feedstocks/setuptools_subversion
 	url = https://github.com/conda-forge/setuptools_subversion-feedstock.git
+[submodule "airflow"]
+	path = feedstocks/airflow
+	url = https://github.com/conda-forge/airflow-feedstock.git
+[submodule "dolfyn"]
+	path = feedstocks/dolfyn
+	url = https://github.com/conda-forge/dolfyn-feedstock.git
+[submodule "gazar"]
+	path = feedstocks/gazar
+	url = https://github.com/conda-forge/gazar-feedstock.git
+[submodule "rfc3339"]
+	path = feedstocks/rfc3339
+	url = https://github.com/conda-forge/rfc3339-feedstock.git
+[submodule "rpy2"]
+	path = feedstocks/rpy2
+	url = https://github.com/conda-forge/rpy2-feedstock.git
+[submodule "scikit-rf"]
+	path = feedstocks/scikit-rf
+	url = https://github.com/conda-forge/scikit-rf-feedstock.git
+[submodule "textacy"]
+	path = feedstocks/textacy
+	url = https://github.com/conda-forge/textacy-feedstock.git
