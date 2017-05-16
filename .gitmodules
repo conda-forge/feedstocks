@@ -7350,3 +7350,12 @@
 [submodule "sncosmo"]
 	path = feedstocks/sncosmo
 	url = https://github.com/conda-forge/sncosmo-feedstock.git
+[submodule "pangaea"]
+	path = feedstocks/pangaea
+	url = https://github.com/conda-forge/pangaea-feedstock.git
+[submodule "simple-salesforce"]
+	path = feedstocks/simple-salesforce
+	url = https://github.com/conda-forge/simple-salesforce-feedstock.git
+[submodule "zstandard"]
+	path = feedstocks/zstandard
+	url = https://github.com/conda-forge/zstandard-feedstock.git
