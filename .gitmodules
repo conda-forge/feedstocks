@@ -7362,3 +7362,21 @@
 [submodule "blessings"]
 	path = feedstocks/blessings
 	url = https://github.com/conda-forge/blessings-feedstock.git
+[submodule "glimix-core"]
+	path = feedstocks/glimix-core
+	url = https://github.com/conda-forge/glimix-core-feedstock.git
+[submodule "greenlet"]
+	path = feedstocks/greenlet
+	url = https://github.com/conda-forge/greenlet-feedstock.git
+[submodule "jftools"]
+	path = feedstocks/jftools
+	url = https://github.com/conda-forge/jftools-feedstock.git
+[submodule "limix-core"]
+	path = feedstocks/limix-core
+	url = https://github.com/conda-forge/limix-core-feedstock.git
+[submodule "limix-legacy"]
+	path = feedstocks/limix-legacy
+	url = https://github.com/conda-forge/limix-legacy-feedstock.git
+[submodule "sphinxcontrib-websupport"]
+	path = feedstocks/sphinxcontrib-websupport
+	url = https://github.com/conda-forge/sphinxcontrib-websupport-feedstock.git
