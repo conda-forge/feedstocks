@@ -7392,3 +7392,15 @@
 [submodule "plotnine"]
 	path = feedstocks/plotnine
 	url = https://github.com/conda-forge/plotnine-feedstock.git
+[submodule "case"]
+	path = feedstocks/case
+	url = https://github.com/conda-forge/case-feedstock.git
+[submodule "cfunits"]
+	path = feedstocks/cfunits
+	url = https://github.com/conda-forge/cfunits-feedstock.git
+[submodule "ciso8601"]
+	path = feedstocks/ciso8601
+	url = https://github.com/conda-forge/ciso8601-feedstock.git
+[submodule "cvloop"]
+	path = feedstocks/cvloop
+	url = https://github.com/conda-forge/cvloop-feedstock.git
