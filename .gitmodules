@@ -7449,3 +7449,12 @@
 [submodule "spectra"]
 	path = feedstocks/spectra
 	url = https://github.com/conda-forge/spectra-feedstock.git
+[submodule "dawg"]
+	path = feedstocks/dawg
+	url = https://github.com/conda-forge/dawg-feedstock.git
+[submodule "link-traits"]
+	path = feedstocks/link-traits
+	url = https://github.com/conda-forge/link-traits-feedstock.git
+[submodule "xrft"]
+	path = feedstocks/xrft
+	url = https://github.com/conda-forge/xrft-feedstock.git
