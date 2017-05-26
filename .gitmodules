@@ -7461,3 +7461,36 @@
 [submodule "xorg-libxrandr"]
 	path = feedstocks/xorg-libxrandr
 	url = https://github.com/conda-forge/xorg-libxrandr-feedstock.git
+[submodule "fancycompleter"]
+	path = feedstocks/fancycompleter
+	url = https://github.com/conda-forge/fancycompleter-feedstock.git
+[submodule "gmaps"]
+	path = feedstocks/gmaps
+	url = https://github.com/conda-forge/gmaps-feedstock.git
+[submodule "kafka-python"]
+	path = feedstocks/kafka-python
+	url = https://github.com/conda-forge/kafka-python-feedstock.git
+[submodule "lftp"]
+	path = feedstocks/lftp
+	url = https://github.com/conda-forge/lftp-feedstock.git
+[submodule "openmotif"]
+	path = feedstocks/openmotif
+	url = https://github.com/conda-forge/openmotif-feedstock.git
+[submodule "pytest-base-url"]
+	path = feedstocks/pytest-base-url
+	url = https://github.com/conda-forge/pytest-base-url-feedstock.git
+[submodule "pytest-metadata"]
+	path = feedstocks/pytest-metadata
+	url = https://github.com/conda-forge/pytest-metadata-feedstock.git
+[submodule "pytest-variables"]
+	path = feedstocks/pytest-variables
+	url = https://github.com/conda-forge/pytest-variables-feedstock.git
+[submodule "signac-flow"]
+	path = feedstocks/signac-flow
+	url = https://github.com/conda-forge/signac-flow-feedstock.git
+[submodule "twython"]
+	path = feedstocks/twython
+	url = https://github.com/conda-forge/twython-feedstock.git
+[submodule "xtensor-blas"]
+	path = feedstocks/xtensor-blas
+	url = https://github.com/conda-forge/xtensor-blas-feedstock.git
