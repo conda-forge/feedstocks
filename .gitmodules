@@ -7497,3 +7497,9 @@
 [submodule "sarge"]
 	path = feedstocks/sarge
 	url = https://github.com/conda-forge/sarge-feedstock.git
+[submodule "joommfutil"]
+	path = feedstocks/joommfutil
+	url = https://github.com/conda-forge/joommfutil-feedstock.git
+[submodule "oommfodt"]
+	path = feedstocks/oommfodt
+	url = https://github.com/conda-forge/oommfodt-feedstock.git
