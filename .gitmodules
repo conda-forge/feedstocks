@@ -7506,3 +7506,12 @@
 [submodule "oommf"]
 	path = feedstocks/oommf
 	url = https://github.com/conda-forge/oommf-feedstock.git
+[submodule "pyvtk"]
+	path = feedstocks/pyvtk
+	url = https://github.com/conda-forge/pyvtk-feedstock.git
+[submodule "rebound"]
+	path = feedstocks/rebound
+	url = https://github.com/conda-forge/rebound-feedstock.git
+[submodule "yarn"]
+	path = feedstocks/yarn
+	url = https://github.com/conda-forge/yarn-feedstock.git
