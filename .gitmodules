@@ -7515,3 +7515,6 @@
 [submodule "yarn"]
 	path = feedstocks/yarn
 	url = https://github.com/conda-forge/yarn-feedstock.git
+[submodule "backoff"]
+	path = feedstocks/backoff
+	url = https://github.com/conda-forge/backoff-feedstock.git
