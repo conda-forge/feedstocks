@@ -7518,3 +7518,15 @@
 [submodule "backoff"]
 	path = feedstocks/backoff
 	url = https://github.com/conda-forge/backoff-feedstock.git
+[submodule "discretisedfield"]
+	path = feedstocks/discretisedfield
+	url = https://github.com/conda-forge/discretisedfield-feedstock.git
+[submodule "pytest-html"]
+	path = feedstocks/pytest-html
+	url = https://github.com/conda-forge/pytest-html-feedstock.git
+[submodule "simpletal"]
+	path = feedstocks/simpletal
+	url = https://github.com/conda-forge/simpletal-feedstock.git
+[submodule "vitables"]
+	path = feedstocks/vitables
+	url = https://github.com/conda-forge/vitables-feedstock.git
