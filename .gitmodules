@@ -7548,3 +7548,21 @@
 [submodule "zodb"]
 	path = feedstocks/zodb
 	url = https://github.com/conda-forge/zodb-feedstock.git
+[submodule "ezodf"]
+	path = feedstocks/ezodf
+	url = https://github.com/conda-forge/ezodf-feedstock.git
+[submodule "linear-tsv"]
+	path = feedstocks/linear-tsv
+	url = https://github.com/conda-forge/linear-tsv-feedstock.git
+[submodule "python-casacore"]
+	path = feedstocks/python-casacore
+	url = https://github.com/conda-forge/python-casacore-feedstock.git
+[submodule "trash-cli"]
+	path = feedstocks/trash-cli
+	url = https://github.com/conda-forge/trash-cli-feedstock.git
+[submodule "zdaemon"]
+	path = feedstocks/zdaemon
+	url = https://github.com/conda-forge/zdaemon-feedstock.git
+[submodule "zeo"]
+	path = feedstocks/zeo
+	url = https://github.com/conda-forge/zeo-feedstock.git
