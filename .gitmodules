@@ -7536,3 +7536,15 @@
 [submodule "fire"]
 	path = feedstocks/fire
 	url = https://github.com/conda-forge/fire-feedstock.git
+[submodule "progress"]
+	path = feedstocks/progress
+	url = https://github.com/conda-forge/progress-feedstock.git
+[submodule "pytest-selenium"]
+	path = feedstocks/pytest-selenium
+	url = https://github.com/conda-forge/pytest-selenium-feedstock.git
+[submodule "transaction"]
+	path = feedstocks/transaction
+	url = https://github.com/conda-forge/transaction-feedstock.git
+[submodule "zodb"]
+	path = feedstocks/zodb
+	url = https://github.com/conda-forge/zodb-feedstock.git
