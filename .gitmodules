@@ -7566,3 +7566,12 @@
 [submodule "zeo"]
 	path = feedstocks/zeo
 	url = https://github.com/conda-forge/zeo-feedstock.git
+[submodule "cchardet"]
+	path = feedstocks/cchardet
+	url = https://github.com/conda-forge/cchardet-feedstock.git
+[submodule "jsonlines"]
+	path = feedstocks/jsonlines
+	url = https://github.com/conda-forge/jsonlines-feedstock.git
+[submodule "winpty"]
+	path = feedstocks/winpty
+	url = https://github.com/conda-forge/winpty-feedstock.git
