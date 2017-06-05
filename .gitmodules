@@ -7575,3 +7575,12 @@
 [submodule "winpty"]
 	path = feedstocks/winpty
 	url = https://github.com/conda-forge/winpty-feedstock.git
+[submodule "clickclick"]
+	path = feedstocks/clickclick
+	url = https://github.com/conda-forge/clickclick-feedstock.git
+[submodule "lorem"]
+	path = feedstocks/lorem
+	url = https://github.com/conda-forge/lorem-feedstock.git
+[submodule "swagger-spec-validator"]
+	path = feedstocks/swagger-spec-validator
+	url = https://github.com/conda-forge/swagger-spec-validator-feedstock.git
