@@ -7584,3 +7584,12 @@
 [submodule "swagger-spec-validator"]
 	path = feedstocks/swagger-spec-validator
 	url = https://github.com/conda-forge/swagger-spec-validator-feedstock.git
+[submodule "connexion"]
+	path = feedstocks/connexion
+	url = https://github.com/conda-forge/connexion-feedstock.git
+[submodule "paramz"]
+	path = feedstocks/paramz
+	url = https://github.com/conda-forge/paramz-feedstock.git
+[submodule "pyvirtualdisplay"]
+	path = feedstocks/pyvirtualdisplay
+	url = https://github.com/conda-forge/pyvirtualdisplay-feedstock.git
