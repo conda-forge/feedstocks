@@ -7593,3 +7593,9 @@
 [submodule "pyvirtualdisplay"]
 	path = feedstocks/pyvirtualdisplay
 	url = https://github.com/conda-forge/pyvirtualdisplay-feedstock.git
+[submodule "dask-ndmorph"]
+	path = feedstocks/dask-ndmorph
+	url = https://github.com/conda-forge/dask-ndmorph-feedstock.git
+[submodule "gpy"]
+	path = feedstocks/gpy
+	url = https://github.com/conda-forge/gpy-feedstock.git
