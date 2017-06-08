@@ -7599,3 +7599,24 @@
 [submodule "gpy"]
 	path = feedstocks/gpy
 	url = https://github.com/conda-forge/gpy-feedstock.git
+[submodule "datapackage-py"]
+	path = feedstocks/datapackage-py
+	url = https://github.com/conda-forge/datapackage-py-feedstock.git
+[submodule "flask-jsonpify"]
+	path = feedstocks/flask-jsonpify
+	url = https://github.com/conda-forge/flask-jsonpify-feedstock.git
+[submodule "jsontableschema"]
+	path = feedstocks/jsontableschema
+	url = https://github.com/conda-forge/jsontableschema-feedstock.git
+[submodule "jupyter_qtconsole_colorschemes"]
+	path = feedstocks/jupyter_qtconsole_colorschemes
+	url = https://github.com/conda-forge/jupyter_qtconsole_colorschemes-feedstock.git
+[submodule "prompt"]
+	path = feedstocks/prompt
+	url = https://github.com/conda-forge/prompt-feedstock.git
+[submodule "pylama"]
+	path = feedstocks/pylama
+	url = https://github.com/conda-forge/pylama-feedstock.git
+[submodule "tabulator-py"]
+	path = feedstocks/tabulator-py
+	url = https://github.com/conda-forge/tabulator-py-feedstock.git
