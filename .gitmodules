@@ -7620,3 +7620,12 @@
 [submodule "tabulator-py"]
 	path = feedstocks/tabulator-py
 	url = https://github.com/conda-forge/tabulator-py-feedstock.git
+[submodule "octave"]
+	path = feedstocks/octave
+	url = https://github.com/conda-forge/octave-feedstock.git
+[submodule "pycoal"]
+	path = feedstocks/pycoal
+	url = https://github.com/conda-forge/pycoal-feedstock.git
+[submodule "spectral"]
+	path = feedstocks/spectral
+	url = https://github.com/conda-forge/spectral-feedstock.git
