@@ -7629,3 +7629,24 @@
 [submodule "spectral"]
 	path = feedstocks/spectral
 	url = https://github.com/conda-forge/spectral-feedstock.git
+[submodule "dask-imread"]
+	path = feedstocks/dask-imread
+	url = https://github.com/conda-forge/dask-imread-feedstock.git
+[submodule "datadotworld-py"]
+	path = feedstocks/datadotworld-py
+	url = https://github.com/conda-forge/datadotworld-py-feedstock.git
+[submodule "ds-lime"]
+	path = feedstocks/ds-lime
+	url = https://github.com/conda-forge/ds-lime-feedstock.git
+[submodule "jsontableschema-pandas"]
+	path = feedstocks/jsontableschema-pandas
+	url = https://github.com/conda-forge/jsontableschema-pandas-feedstock.git
+[submodule "python-language-server"]
+	path = feedstocks/python-language-server
+	url = https://github.com/conda-forge/python-language-server-feedstock.git
+[submodule "tableschema-py"]
+	path = feedstocks/tableschema-py
+	url = https://github.com/conda-forge/tableschema-py-feedstock.git
+[submodule "wmctrl"]
+	path = feedstocks/wmctrl
+	url = https://github.com/conda-forge/wmctrl-feedstock.git
