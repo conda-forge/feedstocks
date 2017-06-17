@@ -7695,3 +7695,24 @@
 [submodule "yappi"]
 	path = feedstocks/yappi
 	url = https://github.com/conda-forge/yappi-feedstock.git
+[submodule "bkcharts"]
+	path = feedstocks/bkcharts
+	url = https://github.com/conda-forge/bkcharts-feedstock.git
+[submodule "ccache-toolchain"]
+	path = feedstocks/ccache-toolchain
+	url = https://github.com/conda-forge/ccache-toolchain-feedstock.git
+[submodule "google-auth-httplib2"]
+	path = feedstocks/google-auth-httplib2
+	url = https://github.com/conda-forge/google-auth-httplib2-feedstock.git
+[submodule "google-auth-oauthlib"]
+	path = feedstocks/google-auth-oauthlib
+	url = https://github.com/conda-forge/google-auth-oauthlib-feedstock.git
+[submodule "gridded"]
+	path = feedstocks/gridded
+	url = https://github.com/conda-forge/gridded-feedstock.git
+[submodule "imread"]
+	path = feedstocks/imread
+	url = https://github.com/conda-forge/imread-feedstock.git
+[submodule "odfpy"]
+	path = feedstocks/odfpy
+	url = https://github.com/conda-forge/odfpy-feedstock.git
