@@ -7719,3 +7719,9 @@
 [submodule "cram"]
 	path = feedstocks/cram
 	url = https://github.com/conda-forge/cram-feedstock.git
+[submodule "hdf5storage"]
+	path = feedstocks/hdf5storage
+	url = https://github.com/conda-forge/hdf5storage-feedstock.git
+[submodule "time"]
+	path = feedstocks/time
+	url = https://github.com/conda-forge/time-feedstock.git
