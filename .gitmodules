@@ -7725,3 +7725,42 @@
 [submodule "time"]
 	path = feedstocks/time
 	url = https://github.com/conda-forge/time-feedstock.git
+[submodule "asn1crypto"]
+	path = feedstocks/asn1crypto
+	url = https://github.com/conda-forge/asn1crypto-feedstock.git
+[submodule "fastcache"]
+	path = feedstocks/fastcache
+	url = https://github.com/conda-forge/fastcache-feedstock.git
+[submodule "filterpy"]
+	path = feedstocks/filterpy
+	url = https://github.com/conda-forge/filterpy-feedstock.git
+[submodule "google-cloud-core"]
+	path = feedstocks/google-cloud-core
+	url = https://github.com/conda-forge/google-cloud-core-feedstock.git
+[submodule "googleapis-common-protos"]
+	path = feedstocks/googleapis-common-protos
+	url = https://github.com/conda-forge/googleapis-common-protos-feedstock.git
+[submodule "hyperspy-gui-ipywidgets"]
+	path = feedstocks/hyperspy-gui-ipywidgets
+	url = https://github.com/conda-forge/hyperspy-gui-ipywidgets-feedstock.git
+[submodule "hyperspy-gui-traitsui"]
+	path = feedstocks/hyperspy-gui-traitsui
+	url = https://github.com/conda-forge/hyperspy-gui-traitsui-feedstock.git
+[submodule "libgdal"]
+	path = feedstocks/libgdal
+	url = https://github.com/conda-forge/libgdal-feedstock.git
+[submodule "neo4j-python-driver"]
+	path = feedstocks/neo4j-python-driver
+	url = https://github.com/conda-forge/neo4j-python-driver-feedstock.git
+[submodule "py2neo"]
+	path = feedstocks/py2neo
+	url = https://github.com/conda-forge/py2neo-feedstock.git
+[submodule "tachyon"]
+	path = feedstocks/tachyon
+	url = https://github.com/conda-forge/tachyon-feedstock.git
+[submodule "the_silver_searcher"]
+	path = feedstocks/the_silver_searcher
+	url = https://github.com/conda-forge/the_silver_searcher-feedstock.git
+[submodule "xarray-simlab"]
+	path = feedstocks/xarray-simlab
+	url = https://github.com/conda-forge/xarray-simlab-feedstock.git
