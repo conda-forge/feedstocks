@@ -7764,3 +7764,18 @@
 [submodule "xarray-simlab"]
 	path = feedstocks/xarray-simlab
 	url = https://github.com/conda-forge/xarray-simlab-feedstock.git
+[submodule "django-material"]
+	path = feedstocks/django-material
+	url = https://github.com/conda-forge/django-material-feedstock.git
+[submodule "django-viewflow"]
+	path = feedstocks/django-viewflow
+	url = https://github.com/conda-forge/django-viewflow-feedstock.git
+[submodule "pygpu"]
+	path = feedstocks/pygpu
+	url = https://github.com/conda-forge/pygpu-feedstock.git
+[submodule "toolchain3"]
+	path = feedstocks/toolchain3
+	url = https://github.com/conda-forge/toolchain3-feedstock.git
+[submodule "xarray-topo"]
+	path = feedstocks/xarray-topo
+	url = https://github.com/conda-forge/xarray-topo-feedstock.git
