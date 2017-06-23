@@ -7782,3 +7782,12 @@
 [submodule "orca"]
 	path = feedstocks/orca
 	url = https://github.com/conda-forge/orca-feedstock.git
+[submodule "freetds"]
+	path = feedstocks/freetds
+	url = https://github.com/conda-forge/freetds-feedstock.git
+[submodule "google-cloud-storage"]
+	path = feedstocks/google-cloud-storage
+	url = https://github.com/conda-forge/google-cloud-storage-feedstock.git
+[submodule "google-resumable-media"]
+	path = feedstocks/google-resumable-media
+	url = https://github.com/conda-forge/google-resumable-media-feedstock.git
