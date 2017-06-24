@@ -7791,3 +7791,6 @@
 [submodule "google-resumable-media"]
 	path = feedstocks/google-resumable-media
 	url = https://github.com/conda-forge/google-resumable-media-feedstock.git
+[submodule "cryptography"]
+	path = feedstocks/cryptography
+	url = https://github.com/conda-forge/cryptography-feedstock.git
