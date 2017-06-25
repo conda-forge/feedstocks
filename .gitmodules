@@ -7800,3 +7800,12 @@
 [submodule "phantomjs"]
 	path = feedstocks/phantomjs
 	url = https://github.com/conda-forge/phantomjs-feedstock.git
+[submodule "reikna"]
+	path = feedstocks/reikna
+	url = https://github.com/conda-forge/reikna-feedstock.git
+[submodule "tetgen"]
+	path = feedstocks/tetgen
+	url = https://github.com/conda-forge/tetgen-feedstock.git
+[submodule "wxpython"]
+	path = feedstocks/wxpython
+	url = https://github.com/conda-forge/wxpython-feedstock.git
