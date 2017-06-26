@@ -7818,3 +7818,12 @@
 [submodule "slycot"]
 	path = feedstocks/slycot
 	url = https://github.com/conda-forge/slycot-feedstock.git
+[submodule "google-cloud-bigquery"]
+	path = feedstocks/google-cloud-bigquery
+	url = https://github.com/conda-forge/google-cloud-bigquery-feedstock.git
+[submodule "google-cloud-monitoring"]
+	path = feedstocks/google-cloud-monitoring
+	url = https://github.com/conda-forge/google-cloud-monitoring-feedstock.git
+[submodule "pendulum"]
+	path = feedstocks/pendulum
+	url = https://github.com/conda-forge/pendulum-feedstock.git
