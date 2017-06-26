@@ -7809,3 +7809,12 @@
 [submodule "wxpython"]
 	path = feedstocks/wxpython
 	url = https://github.com/conda-forge/wxpython-feedstock.git
+[submodule "pygobject"]
+	path = feedstocks/pygobject
+	url = https://github.com/conda-forge/pygobject-feedstock.git
+[submodule "pytzdata"]
+	path = feedstocks/pytzdata
+	url = https://github.com/conda-forge/pytzdata-feedstock.git
+[submodule "slycot"]
+	path = feedstocks/slycot
+	url = https://github.com/conda-forge/slycot-feedstock.git
