@@ -7827,3 +7827,9 @@
 [submodule "pendulum"]
 	path = feedstocks/pendulum
 	url = https://github.com/conda-forge/pendulum-feedstock.git
+[submodule "control"]
+	path = feedstocks/control
+	url = https://github.com/conda-forge/control-feedstock.git
+[submodule "diffpy.utils"]
+	path = feedstocks/diffpy.utils
+	url = https://github.com/conda-forge/diffpy.utils-feedstock.git
