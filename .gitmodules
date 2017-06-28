@@ -7848,3 +7848,12 @@
 [submodule "tini"]
 	path = feedstocks/tini
 	url = https://github.com/conda-forge/tini-feedstock.git
+[submodule "clfft"]
+	path = feedstocks/clfft
+	url = https://github.com/conda-forge/clfft-feedstock.git
+[submodule "django-redis"]
+	path = feedstocks/django-redis
+	url = https://github.com/conda-forge/django-redis-feedstock.git
+[submodule "uritools"]
+	path = feedstocks/uritools
+	url = https://github.com/conda-forge/uritools-feedstock.git
