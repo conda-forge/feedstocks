@@ -7833,3 +7833,18 @@
 [submodule "diffpy.utils"]
 	path = feedstocks/diffpy.utils
 	url = https://github.com/conda-forge/diffpy.utils-feedstock.git
+[submodule "automat"]
+	path = feedstocks/automat
+	url = https://github.com/conda-forge/automat-feedstock.git
+[submodule "backports.weakref"]
+	path = feedstocks/backports.weakref
+	url = https://github.com/conda-forge/backports.weakref-feedstock.git
+[submodule "clblas"]
+	path = feedstocks/clblas
+	url = https://github.com/conda-forge/clblas-feedstock.git
+[submodule "clblast"]
+	path = feedstocks/clblast
+	url = https://github.com/conda-forge/clblast-feedstock.git
+[submodule "tini"]
+	path = feedstocks/tini
+	url = https://github.com/conda-forge/tini-feedstock.git
