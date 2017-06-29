@@ -7857,3 +7857,15 @@
 [submodule "uritools"]
 	path = feedstocks/uritools
 	url = https://github.com/conda-forge/uritools-feedstock.git
+[submodule "django-pyodbc-azure"]
+	path = feedstocks/django-pyodbc-azure
+	url = https://github.com/conda-forge/django-pyodbc-azure-feedstock.git
+[submodule "frozendict"]
+	path = feedstocks/frozendict
+	url = https://github.com/conda-forge/frozendict-feedstock.git
+[submodule "rever"]
+	path = feedstocks/rever
+	url = https://github.com/conda-forge/rever-feedstock.git
+[submodule "rsgislib"]
+	path = feedstocks/rsgislib
+	url = https://github.com/conda-forge/rsgislib-feedstock.git
