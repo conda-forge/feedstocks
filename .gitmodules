@@ -7875,3 +7875,9 @@
 [submodule "plumpy"]
 	path = feedstocks/plumpy
 	url = https://github.com/conda-forge/plumpy-feedstock.git
+[submodule "libkml"]
+	path = feedstocks/libkml
+	url = https://github.com/conda-forge/libkml-feedstock.git
+[submodule "r-bookdown"]
+	path = feedstocks/r-bookdown
+	url = https://github.com/conda-forge/r-bookdown-feedstock.git
