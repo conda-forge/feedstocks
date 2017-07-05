@@ -7890,3 +7890,15 @@
 [submodule "reentry"]
 	path = feedstocks/reentry
 	url = https://github.com/conda-forge/reentry-feedstock.git
+[submodule "arcsi"]
+	path = feedstocks/arcsi
+	url = https://github.com/conda-forge/arcsi-feedstock.git
+[submodule "dicttoxml"]
+	path = feedstocks/dicttoxml
+	url = https://github.com/conda-forge/dicttoxml-feedstock.git
+[submodule "moto"]
+	path = feedstocks/moto
+	url = https://github.com/conda-forge/moto-feedstock.git
+[submodule "python-kubernetes"]
+	path = feedstocks/python-kubernetes
+	url = https://github.com/conda-forge/python-kubernetes-feedstock.git
