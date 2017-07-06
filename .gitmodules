@@ -7914,3 +7914,9 @@
 [submodule "ruby"]
 	path = feedstocks/ruby
 	url = https://github.com/conda-forge/ruby-feedstock.git
+[submodule "larray_eurostat"]
+	path = feedstocks/larray_eurostat
+	url = https://github.com/conda-forge/larray_eurostat-feedstock.git
+[submodule "larrayenv"]
+	path = feedstocks/larrayenv
+	url = https://github.com/conda-forge/larrayenv-feedstock.git
