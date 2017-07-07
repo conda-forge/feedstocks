@@ -7935,3 +7935,27 @@
 [submodule "r-suppdists"]
 	path = feedstocks/r-suppdists
 	url = https://github.com/conda-forge/r-suppdists-feedstock.git
+[submodule "clrng"]
+	path = feedstocks/clrng
+	url = https://github.com/conda-forge/clrng-feedstock.git
+[submodule "clsparse"]
+	path = feedstocks/clsparse
+	url = https://github.com/conda-forge/clsparse-feedstock.git
+[submodule "ldap3"]
+	path = feedstocks/ldap3
+	url = https://github.com/conda-forge/ldap3-feedstock.git
+[submodule "numpy_groupies"]
+	path = feedstocks/numpy_groupies
+	url = https://github.com/conda-forge/numpy_groupies-feedstock.git
+[submodule "osmnet"]
+	path = feedstocks/osmnet
+	url = https://github.com/conda-forge/osmnet-feedstock.git
+[submodule "pmw"]
+	path = feedstocks/pmw
+	url = https://github.com/conda-forge/pmw-feedstock.git
+[submodule "reportlab"]
+	path = feedstocks/reportlab
+	url = https://github.com/conda-forge/reportlab-feedstock.git
+[submodule "scikit-procrustes"]
+	path = feedstocks/scikit-procrustes
+	url = https://github.com/conda-forge/scikit-procrustes-feedstock.git
