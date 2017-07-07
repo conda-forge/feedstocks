@@ -7920,3 +7920,18 @@
 [submodule "larrayenv"]
 	path = feedstocks/larrayenv
 	url = https://github.com/conda-forge/larrayenv-feedstock.git
+[submodule "clhpp"]
+	path = feedstocks/clhpp
+	url = https://github.com/conda-forge/clhpp-feedstock.git
+[submodule "ctags"]
+	path = feedstocks/ctags
+	url = https://github.com/conda-forge/ctags-feedstock.git
+[submodule "pymapd"]
+	path = feedstocks/pymapd
+	url = https://github.com/conda-forge/pymapd-feedstock.git
+[submodule "pymbar"]
+	path = feedstocks/pymbar
+	url = https://github.com/conda-forge/pymbar-feedstock.git
+[submodule "r-suppdists"]
+	path = feedstocks/r-suppdists
+	url = https://github.com/conda-forge/r-suppdists-feedstock.git
