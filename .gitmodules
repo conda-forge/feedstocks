@@ -7971,3 +7971,9 @@
 [submodule "seapy"]
 	path = feedstocks/seapy
 	url = https://github.com/conda-forge/seapy-feedstock.git
+[submodule "r-abind"]
+	path = feedstocks/r-abind
+	url = https://github.com/conda-forge/r-abind-feedstock.git
+[submodule "scikit-data"]
+	path = feedstocks/scikit-data
+	url = https://github.com/conda-forge/scikit-data-feedstock.git
