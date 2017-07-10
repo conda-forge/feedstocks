@@ -7977,3 +7977,9 @@
 [submodule "scikit-data"]
 	path = feedstocks/scikit-data
 	url = https://github.com/conda-forge/scikit-data-feedstock.git
+[submodule "bgen"]
+	path = feedstocks/bgen
+	url = https://github.com/conda-forge/bgen-feedstock.git
+[submodule "paraview"]
+	path = feedstocks/paraview
+	url = https://github.com/conda-forge/paraview-feedstock.git
