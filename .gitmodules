@@ -7983,3 +7983,18 @@
 [submodule "paraview"]
 	path = feedstocks/paraview
 	url = https://github.com/conda-forge/paraview-feedstock.git
+[submodule "autodocsumm"]
+	path = feedstocks/autodocsumm
+	url = https://github.com/conda-forge/autodocsumm-feedstock.git
+[submodule "funcargparse"]
+	path = feedstocks/funcargparse
+	url = https://github.com/conda-forge/funcargparse-feedstock.git
+[submodule "geoip"]
+	path = feedstocks/geoip
+	url = https://github.com/conda-forge/geoip-feedstock.git
+[submodule "r-mhsmm"]
+	path = feedstocks/r-mhsmm
+	url = https://github.com/conda-forge/r-mhsmm-feedstock.git
+[submodule "sphinx-nbexamples"]
+	path = feedstocks/sphinx-nbexamples
+	url = https://github.com/conda-forge/sphinx-nbexamples-feedstock.git
