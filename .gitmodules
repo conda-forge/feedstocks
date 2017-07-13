@@ -7998,3 +7998,33 @@
 [submodule "sphinx-nbexamples"]
 	path = feedstocks/sphinx-nbexamples
 	url = https://github.com/conda-forge/sphinx-nbexamples-feedstock.git
+[submodule "flask-celery-helper"]
+	path = feedstocks/flask-celery-helper
+	url = https://github.com/conda-forge/flask-celery-helper-feedstock.git
+[submodule "flask-redis-helper"]
+	path = feedstocks/flask-redis-helper
+	url = https://github.com/conda-forge/flask-redis-helper-feedstock.git
+[submodule "pigz"]
+	path = feedstocks/pigz
+	url = https://github.com/conda-forge/pigz-feedstock.git
+[submodule "pytest-flask"]
+	path = feedstocks/pytest-flask
+	url = https://github.com/conda-forge/pytest-flask-feedstock.git
+[submodule "r-callr"]
+	path = feedstocks/r-callr
+	url = https://github.com/conda-forge/r-callr-feedstock.git
+[submodule "r-covr"]
+	path = feedstocks/r-covr
+	url = https://github.com/conda-forge/r-covr-feedstock.git
+[submodule "r-flux"]
+	path = feedstocks/r-flux
+	url = https://github.com/conda-forge/r-flux-feedstock.git
+[submodule "r-ggsci"]
+	path = feedstocks/r-ggsci
+	url = https://github.com/conda-forge/r-ggsci-feedstock.git
+[submodule "superlance"]
+	path = feedstocks/superlance
+	url = https://github.com/conda-forge/superlance-feedstock.git
+[submodule "xlwings"]
+	path = feedstocks/xlwings
+	url = https://github.com/conda-forge/xlwings-feedstock.git
