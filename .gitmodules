@@ -8031,3 +8031,27 @@
 [submodule "holopy"]
 	path = feedstocks/holopy
 	url = https://github.com/conda-forge/holopy-feedstock.git
+[submodule "bazel"]
+	path = feedstocks/bazel
+	url = https://github.com/conda-forge/bazel-feedstock.git
+[submodule "descarteslabs"]
+	path = feedstocks/descarteslabs
+	url = https://github.com/conda-forge/descarteslabs-feedstock.git
+[submodule "magics"]
+	path = feedstocks/magics
+	url = https://github.com/conda-forge/magics-feedstock.git
+[submodule "mpl_sample_data"]
+	path = feedstocks/mpl_sample_data
+	url = https://github.com/conda-forge/mpl_sample_data-feedstock.git
+[submodule "openmp"]
+	path = feedstocks/openmp
+	url = https://github.com/conda-forge/openmp-feedstock.git
+[submodule "rust"]
+	path = feedstocks/rust
+	url = https://github.com/conda-forge/rust-feedstock.git
+[submodule "soappy"]
+	path = feedstocks/soappy
+	url = https://github.com/conda-forge/soappy-feedstock.git
+[submodule "wstools"]
+	path = feedstocks/wstools
+	url = https://github.com/conda-forge/wstools-feedstock.git
