@@ -8058,3 +8058,30 @@
 [submodule "dirent"]
 	path = feedstocks/dirent
 	url = https://github.com/conda-forge/dirent-feedstock.git
+[submodule "gshhg-gmt"]
+	path = feedstocks/gshhg-gmt
+	url = https://github.com/conda-forge/gshhg-gmt-feedstock.git
+[submodule "iapws"]
+	path = feedstocks/iapws
+	url = https://github.com/conda-forge/iapws-feedstock.git
+[submodule "jupyter_full_width"]
+	path = feedstocks/jupyter_full_width
+	url = https://github.com/conda-forge/jupyter_full_width-feedstock.git
+[submodule "nipy"]
+	path = feedstocks/nipy
+	url = https://github.com/conda-forge/nipy-feedstock.git
+[submodule "oq-engine"]
+	path = feedstocks/oq-engine
+	url = https://github.com/conda-forge/oq-engine-feedstock.git
+[submodule "r-fnn"]
+	path = feedstocks/r-fnn
+	url = https://github.com/conda-forge/r-fnn-feedstock.git
+[submodule "r-intervals"]
+	path = feedstocks/r-intervals
+	url = https://github.com/conda-forge/r-intervals-feedstock.git
+[submodule "scikit-dsp-comm"]
+	path = feedstocks/scikit-dsp-comm
+	url = https://github.com/conda-forge/scikit-dsp-comm-feedstock.git
+[submodule "simplejson"]
+	path = feedstocks/simplejson
+	url = https://github.com/conda-forge/simplejson-feedstock.git
