@@ -8100,3 +8100,18 @@
 [submodule "quantlab_launcher"]
 	path = feedstocks/quantlab_launcher
 	url = https://github.com/conda-forge/quantlab_launcher-feedstock.git
+[submodule "catzzz"]
+	path = feedstocks/catzzz
+	url = https://github.com/conda-forge/catzzz-feedstock.git
+[submodule "morfessor"]
+	path = feedstocks/morfessor
+	url = https://github.com/conda-forge/morfessor-feedstock.git
+[submodule "retriever"]
+	path = feedstocks/retriever
+	url = https://github.com/conda-forge/retriever-feedstock.git
+[submodule "travis-encrypt"]
+	path = feedstocks/travis-encrypt
+	url = https://github.com/conda-forge/travis-encrypt-feedstock.git
+[submodule "wrighttools"]
+	path = feedstocks/wrighttools
+	url = https://github.com/conda-forge/wrighttools-feedstock.git
