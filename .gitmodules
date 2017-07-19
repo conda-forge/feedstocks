@@ -8115,3 +8115,21 @@
 [submodule "wrighttools"]
 	path = feedstocks/wrighttools
 	url = https://github.com/conda-forge/wrighttools-feedstock.git
+[submodule "clamd"]
+	path = feedstocks/clamd
+	url = https://github.com/conda-forge/clamd-feedstock.git
+[submodule "datashape"]
+	path = feedstocks/datashape
+	url = https://github.com/conda-forge/datashape-feedstock.git
+[submodule "otpod"]
+	path = feedstocks/otpod
+	url = https://github.com/conda-forge/otpod-feedstock.git
+[submodule "patch"]
+	path = feedstocks/patch
+	url = https://github.com/conda-forge/patch-feedstock.git
+[submodule "pyperclip"]
+	path = feedstocks/pyperclip
+	url = https://github.com/conda-forge/pyperclip-feedstock.git
+[submodule "r-dotcall64"]
+	path = feedstocks/r-dotcall64
+	url = https://github.com/conda-forge/r-dotcall64-feedstock.git
