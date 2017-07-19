@@ -8133,3 +8133,9 @@
 [submodule "r-dotcall64"]
 	path = feedstocks/r-dotcall64
 	url = https://github.com/conda-forge/r-dotcall64-feedstock.git
+[submodule "glmnet"]
+	path = feedstocks/glmnet
+	url = https://github.com/conda-forge/glmnet-feedstock.git
+[submodule "vectormath"]
+	path = feedstocks/vectormath
+	url = https://github.com/conda-forge/vectormath-feedstock.git
