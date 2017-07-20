@@ -8181,3 +8181,9 @@
 [submodule "sphinx_bootstrap_theme"]
 	path = feedstocks/sphinx_bootstrap_theme
 	url = https://github.com/conda-forge/sphinx_bootstrap_theme-feedstock.git
+[submodule "gcsfs"]
+	path = feedstocks/gcsfs
+	url = https://github.com/conda-forge/gcsfs-feedstock.git
+[submodule "pot"]
+	path = feedstocks/pot
+	url = https://github.com/conda-forge/pot-feedstock.git
