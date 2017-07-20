@@ -8139,3 +8139,45 @@
 [submodule "vectormath"]
 	path = feedstocks/vectormath
 	url = https://github.com/conda-forge/vectormath-feedstock.git
+[submodule "bitarray"]
+	path = feedstocks/bitarray
+	url = https://github.com/conda-forge/bitarray-feedstock.git
+[submodule "dcw-gmt"]
+	path = feedstocks/dcw-gmt
+	url = https://github.com/conda-forge/dcw-gmt-feedstock.git
+[submodule "gevent"]
+	path = feedstocks/gevent
+	url = https://github.com/conda-forge/gevent-feedstock.git
+[submodule "perl-xml-parser"]
+	path = feedstocks/perl-xml-parser
+	url = https://github.com/conda-forge/perl-xml-parser-feedstock.git
+[submodule "quantlab"]
+	path = feedstocks/quantlab
+	url = https://github.com/conda-forge/quantlab-feedstock.git
+[submodule "r-circstats"]
+	path = feedstocks/r-circstats
+	url = https://github.com/conda-forge/r-circstats-feedstock.git
+[submodule "r-distillery"]
+	path = feedstocks/r-distillery
+	url = https://github.com/conda-forge/r-distillery-feedstock.git
+[submodule "r-fastcluster"]
+	path = feedstocks/r-fastcluster
+	url = https://github.com/conda-forge/r-fastcluster-feedstock.git
+[submodule "r-goftest"]
+	path = feedstocks/r-goftest
+	url = https://github.com/conda-forge/r-goftest-feedstock.git
+[submodule "r-gstat"]
+	path = feedstocks/r-gstat
+	url = https://github.com/conda-forge/r-gstat-feedstock.git
+[submodule "r-polyclip"]
+	path = feedstocks/r-polyclip
+	url = https://github.com/conda-forge/r-polyclip-feedstock.git
+[submodule "r-spacetime"]
+	path = feedstocks/r-spacetime
+	url = https://github.com/conda-forge/r-spacetime-feedstock.git
+[submodule "r-tensor"]
+	path = feedstocks/r-tensor
+	url = https://github.com/conda-forge/r-tensor-feedstock.git
+[submodule "sphinx_bootstrap_theme"]
+	path = feedstocks/sphinx_bootstrap_theme
+	url = https://github.com/conda-forge/sphinx_bootstrap_theme-feedstock.git
