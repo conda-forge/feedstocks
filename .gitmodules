@@ -8187,3 +8187,18 @@
 [submodule "pot"]
 	path = feedstocks/pot
 	url = https://github.com/conda-forge/pot-feedstock.git
+[submodule "lightgbm"]
+	path = feedstocks/lightgbm
+	url = https://github.com/conda-forge/lightgbm-feedstock.git
+[submodule "odo"]
+	path = feedstocks/odo
+	url = https://github.com/conda-forge/odo-feedstock.git
+[submodule "properties"]
+	path = feedstocks/properties
+	url = https://github.com/conda-forge/properties-feedstock.git
+[submodule "shogun-cpp"]
+	path = feedstocks/shogun-cpp
+	url = https://github.com/conda-forge/shogun-cpp-feedstock.git
+[submodule "shogun"]
+	path = feedstocks/shogun
+	url = https://github.com/conda-forge/shogun-feedstock.git
