@@ -8202,3 +8202,9 @@
 [submodule "shogun"]
 	path = feedstocks/shogun
 	url = https://github.com/conda-forge/shogun-feedstock.git
+[submodule "cyflann"]
+	path = feedstocks/cyflann
+	url = https://github.com/conda-forge/cyflann-feedstock.git
+[submodule "xlwt"]
+	path = feedstocks/xlwt
+	url = https://github.com/conda-forge/xlwt-feedstock.git
