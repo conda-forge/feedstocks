@@ -8208,3 +8208,18 @@
 [submodule "xlwt"]
 	path = feedstocks/xlwt
 	url = https://github.com/conda-forge/xlwt-feedstock.git
+[submodule "astroscrappy"]
+	path = feedstocks/astroscrappy
+	url = https://github.com/conda-forge/astroscrappy-feedstock.git
+[submodule "ctds"]
+	path = feedstocks/ctds
+	url = https://github.com/conda-forge/ctds-feedstock.git
+[submodule "moviepy"]
+	path = feedstocks/moviepy
+	url = https://github.com/conda-forge/moviepy-feedstock.git
+[submodule "silx"]
+	path = feedstocks/silx
+	url = https://github.com/conda-forge/silx-feedstock.git
+[submodule "unicodecsv"]
+	path = feedstocks/unicodecsv
+	url = https://github.com/conda-forge/unicodecsv-feedstock.git
