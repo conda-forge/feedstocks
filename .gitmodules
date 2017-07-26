@@ -8235,3 +8235,27 @@
 [submodule "orderedmultidict"]
 	path = feedstocks/orderedmultidict
 	url = https://github.com/conda-forge/orderedmultidict-feedstock.git
+[submodule "apipkg"]
+	path = feedstocks/apipkg
+	url = https://github.com/conda-forge/apipkg-feedstock.git
+[submodule "execnet"]
+	path = feedstocks/execnet
+	url = https://github.com/conda-forge/execnet-feedstock.git
+[submodule "furl"]
+	path = feedstocks/furl
+	url = https://github.com/conda-forge/furl-feedstock.git
+[submodule "ipython_unittest"]
+	path = feedstocks/ipython_unittest
+	url = https://github.com/conda-forge/ipython_unittest-feedstock.git
+[submodule "jupyter_dojo"]
+	path = feedstocks/jupyter_dojo
+	url = https://github.com/conda-forge/jupyter_dojo-feedstock.git
+[submodule "r-diptest"]
+	path = feedstocks/r-diptest
+	url = https://github.com/conda-forge/r-diptest-feedstock.git
+[submodule "scikit-optimize"]
+	path = feedstocks/scikit-optimize
+	url = https://github.com/conda-forge/scikit-optimize-feedstock.git
+[submodule "xproperty"]
+	path = feedstocks/xproperty
+	url = https://github.com/conda-forge/xproperty-feedstock.git
