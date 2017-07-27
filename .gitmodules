@@ -8268,3 +8268,9 @@
 [submodule "python-libarchive-c"]
 	path = feedstocks/python-libarchive-c
 	url = https://github.com/conda-forge/python-libarchive-c-feedstock.git
+[submodule "pymks"]
+	path = feedstocks/pymks
+	url = https://github.com/conda-forge/pymks-feedstock.git
+[submodule "spectrum"]
+	path = feedstocks/spectrum
+	url = https://github.com/conda-forge/spectrum-feedstock.git
