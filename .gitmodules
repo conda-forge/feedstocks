@@ -8274,3 +8274,18 @@
 [submodule "spectrum"]
 	path = feedstocks/spectrum
 	url = https://github.com/conda-forge/spectrum-feedstock.git
+[submodule "jbig"]
+	path = feedstocks/jbig
+	url = https://github.com/conda-forge/jbig-feedstock.git
+[submodule "python-lzo"]
+	path = feedstocks/python-lzo
+	url = https://github.com/conda-forge/python-lzo-feedstock.git
+[submodule "pywim"]
+	path = feedstocks/pywim
+	url = https://github.com/conda-forge/pywim-feedstock.git
+[submodule "r-beeswarm"]
+	path = feedstocks/r-beeswarm
+	url = https://github.com/conda-forge/r-beeswarm-feedstock.git
+[submodule "r-vipor"]
+	path = feedstocks/r-vipor
+	url = https://github.com/conda-forge/r-vipor-feedstock.git
