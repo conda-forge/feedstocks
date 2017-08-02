@@ -8304,3 +8304,30 @@
 [submodule "python-oauth2"]
 	path = feedstocks/python-oauth2
 	url = https://github.com/conda-forge/python-oauth2-feedstock.git
+[submodule "astro-gala"]
+	path = feedstocks/astro-gala
+	url = https://github.com/conda-forge/astro-gala-feedstock.git
+[submodule "ccdproc"]
+	path = feedstocks/ccdproc
+	url = https://github.com/conda-forge/ccdproc-feedstock.git
+[submodule "jsdom"]
+	path = feedstocks/jsdom
+	url = https://github.com/conda-forge/jsdom-feedstock.git
+[submodule "photutils"]
+	path = feedstocks/photutils
+	url = https://github.com/conda-forge/photutils-feedstock.git
+[submodule "pyserial"]
+	path = feedstocks/pyserial
+	url = https://github.com/conda-forge/pyserial-feedstock.git
+[submodule "pyvo"]
+	path = feedstocks/pyvo
+	url = https://github.com/conda-forge/pyvo-feedstock.git
+[submodule "r-hoardr"]
+	path = feedstocks/r-hoardr
+	url = https://github.com/conda-forge/r-hoardr-feedstock.git
+[submodule "r-rgdal"]
+	path = feedstocks/r-rgdal
+	url = https://github.com/conda-forge/r-rgdal-feedstock.git
+[submodule "sparkmagic"]
+	path = feedstocks/sparkmagic
+	url = https://github.com/conda-forge/sparkmagic-feedstock.git
