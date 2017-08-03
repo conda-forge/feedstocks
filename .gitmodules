@@ -8331,3 +8331,21 @@
 [submodule "sparkmagic"]
 	path = feedstocks/sparkmagic
 	url = https://github.com/conda-forge/sparkmagic-feedstock.git
+[submodule "autovizwidget"]
+	path = feedstocks/autovizwidget
+	url = https://github.com/conda-forge/autovizwidget-feedstock.git
+[submodule "cdecimal"]
+	path = feedstocks/cdecimal
+	url = https://github.com/conda-forge/cdecimal-feedstock.git
+[submodule "galpy"]
+	path = feedstocks/galpy
+	url = https://github.com/conda-forge/galpy-feedstock.git
+[submodule "hdijupyterutils"]
+	path = feedstocks/hdijupyterutils
+	url = https://github.com/conda-forge/hdijupyterutils-feedstock.git
+[submodule "pyodbc"]
+	path = feedstocks/pyodbc
+	url = https://github.com/conda-forge/pyodbc-feedstock.git
+[submodule "r-permute"]
+	path = feedstocks/r-permute
+	url = https://github.com/conda-forge/r-permute-feedstock.git
