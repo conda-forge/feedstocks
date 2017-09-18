@@ -903,9 +903,6 @@
 [submodule "pickleshare"]
 	path = feedstocks/pickleshare
 	url = https://github.com/conda-forge/pickleshare-feedstock.git
-[submodule "python-pathlib2"]
-	path = feedstocks/python-pathlib2
-	url = https://github.com/conda-forge/python-pathlib2-feedstock.git
 [submodule "fortran-magic"]
 	path = feedstocks/fortran-magic
 	url = https://github.com/conda-forge/fortran-magic-feedstock.git
@@ -1650,9 +1647,6 @@
 [submodule "yaml"]
 	path = feedstocks/yaml
 	url = https://github.com/conda-forge/yaml-feedstock.git
-[submodule "python-simplegeneric"]
-	path = feedstocks/python-simplegeneric
-	url = https://github.com/conda-forge/python-simplegeneric-feedstock.git
 [submodule "pyyaml"]
 	path = feedstocks/pyyaml
 	url = https://github.com/conda-forge/pyyaml-feedstock.git
@@ -1671,9 +1665,6 @@
 [submodule "vega"]
 	path = feedstocks/vega
 	url = https://github.com/conda-forge/vega-feedstock.git
-[submodule "python-decorator"]
-	path = feedstocks/python-decorator
-	url = https://github.com/conda-forge/python-decorator-feedstock.git
 [submodule "python-neo"]
 	path = feedstocks/python-neo
 	url = https://github.com/conda-forge/python-neo-feedstock.git
@@ -8421,3 +8412,1173 @@
 [submodule "web.py"]
 	path = feedstocks/web.py
 	url = https://github.com/conda-forge/web.py-feedstock.git
+[submodule "alpenglow"]
+	path = feedstocks/alpenglow
+	url = https://github.com/conda-forge/alpenglow-feedstock.git
+[submodule "anaconda-project"]
+	path = feedstocks/anaconda-project
+	url = https://github.com/conda-forge/anaconda-project-feedstock.git
+[submodule "ansible"]
+	path = feedstocks/ansible
+	url = https://github.com/conda-forge/ansible-feedstock.git
+[submodule "appscript"]
+	path = feedstocks/appscript
+	url = https://github.com/conda-forge/appscript-feedstock.git
+[submodule "asdf"]
+	path = feedstocks/asdf
+	url = https://github.com/conda-forge/asdf-feedstock.git
+[submodule "astroml"]
+	path = feedstocks/astroml
+	url = https://github.com/conda-forge/astroml-feedstock.git
+[submodule "atk"]
+	path = feedstocks/atk
+	url = https://github.com/conda-forge/atk-feedstock.git
+[submodule "beakerx"]
+	path = feedstocks/beakerx
+	url = https://github.com/conda-forge/beakerx-feedstock.git
+[submodule "bfg"]
+	path = feedstocks/bfg
+	url = https://github.com/conda-forge/bfg-feedstock.git
+[submodule "blaze"]
+	path = feedstocks/blaze
+	url = https://github.com/conda-forge/blaze-feedstock.git
+[submodule "bootstrap_contrast"]
+	path = feedstocks/bootstrap_contrast
+	url = https://github.com/conda-forge/bootstrap_contrast-feedstock.git
+[submodule "bson"]
+	path = feedstocks/bson
+	url = https://github.com/conda-forge/bson-feedstock.git
+[submodule "cli_helpers"]
+	path = feedstocks/cli_helpers
+	url = https://github.com/conda-forge/cli_helpers-feedstock.git
+[submodule "cluster-lensing"]
+	path = feedstocks/cluster-lensing
+	url = https://github.com/conda-forge/cluster-lensing-feedstock.git
+[submodule "coconut"]
+	path = feedstocks/coconut
+	url = https://github.com/conda-forge/coconut-feedstock.git
+[submodule "collectfast"]
+	path = feedstocks/collectfast
+	url = https://github.com/conda-forge/collectfast-feedstock.git
+[submodule "colour"]
+	path = feedstocks/colour
+	url = https://github.com/conda-forge/colour-feedstock.git
+[submodule "comtypes"]
+	path = feedstocks/comtypes
+	url = https://github.com/conda-forge/comtypes-feedstock.git
+[submodule "constantly"]
+	path = feedstocks/constantly
+	url = https://github.com/conda-forge/constantly-feedstock.git
+[submodule "containerpilot"]
+	path = feedstocks/containerpilot
+	url = https://github.com/conda-forge/containerpilot-feedstock.git
+[submodule "cppcheck"]
+	path = feedstocks/cppcheck
+	url = https://github.com/conda-forge/cppcheck-feedstock.git
+[submodule "cssmin"]
+	path = feedstocks/cssmin
+	url = https://github.com/conda-forge/cssmin-feedstock.git
+[submodule "cxxopts"]
+	path = feedstocks/cxxopts
+	url = https://github.com/conda-forge/cxxopts-feedstock.git
+[submodule "d2to1"]
+	path = feedstocks/d2to1
+	url = https://github.com/conda-forge/d2to1-feedstock.git
+[submodule "dask-core"]
+	path = feedstocks/dask-core
+	url = https://github.com/conda-forge/dask-core-feedstock.git
+[submodule "dask-ndmeasure"]
+	path = feedstocks/dask-ndmeasure
+	url = https://github.com/conda-forge/dask-ndmeasure-feedstock.git
+[submodule "decorator"]
+	path = feedstocks/decorator
+	url = https://github.com/conda-forge/decorator-feedstock.git
+[submodule "deepgraph"]
+	path = feedstocks/deepgraph
+	url = https://github.com/conda-forge/deepgraph-feedstock.git
+[submodule "deprecation"]
+	path = feedstocks/deprecation
+	url = https://github.com/conda-forge/deprecation-feedstock.git
+[submodule "diffpy.structure"]
+	path = feedstocks/diffpy.structure
+	url = https://github.com/conda-forge/diffpy.structure-feedstock.git
+[submodule "dj-database-url"]
+	path = feedstocks/dj-database-url
+	url = https://github.com/conda-forge/dj-database-url-feedstock.git
+[submodule "django-allauth"]
+	path = feedstocks/django-allauth
+	url = https://github.com/conda-forge/django-allauth-feedstock.git
+[submodule "django-anymail"]
+	path = feedstocks/django-anymail
+	url = https://github.com/conda-forge/django-anymail-feedstock.git
+[submodule "django-appconf"]
+	path = feedstocks/django-appconf
+	url = https://github.com/conda-forge/django-appconf-feedstock.git
+[submodule "django-bootstrap3"]
+	path = feedstocks/django-bootstrap3
+	url = https://github.com/conda-forge/django-bootstrap3-feedstock.git
+[submodule "django-braces"]
+	path = feedstocks/django-braces
+	url = https://github.com/conda-forge/django-braces-feedstock.git
+[submodule "django-cachalot"]
+	path = feedstocks/django-cachalot
+	url = https://github.com/conda-forge/django-cachalot-feedstock.git
+[submodule "django-chunked-upload"]
+	path = feedstocks/django-chunked-upload
+	url = https://github.com/conda-forge/django-chunked-upload-feedstock.git
+[submodule "django-configurations"]
+	path = feedstocks/django-configurations
+	url = https://github.com/conda-forge/django-configurations-feedstock.git
+[submodule "django-crispy-forms"]
+	path = feedstocks/django-crispy-forms
+	url = https://github.com/conda-forge/django-crispy-forms-feedstock.git
+[submodule "django-environ"]
+	path = feedstocks/django-environ
+	url = https://github.com/conda-forge/django-environ-feedstock.git
+[submodule "django-foundation-formtags"]
+	path = feedstocks/django-foundation-formtags
+	url = https://github.com/conda-forge/django-foundation-formtags-feedstock.git
+[submodule "django-fsm"]
+	path = feedstocks/django-fsm
+	url = https://github.com/conda-forge/django-fsm-feedstock.git
+[submodule "django-leaflet"]
+	path = feedstocks/django-leaflet
+	url = https://github.com/conda-forge/django-leaflet-feedstock.git
+[submodule "django-makemessages-xgettext"]
+	path = feedstocks/django-makemessages-xgettext
+	url = https://github.com/conda-forge/django-makemessages-xgettext-feedstock.git
+[submodule "django-model-utils"]
+	path = feedstocks/django-model-utils
+	url = https://github.com/conda-forge/django-model-utils-feedstock.git
+[submodule "django-modelcluster"]
+	path = feedstocks/django-modelcluster
+	url = https://github.com/conda-forge/django-modelcluster-feedstock.git
+[submodule "django-storages"]
+	path = feedstocks/django-storages
+	url = https://github.com/conda-forge/django-storages-feedstock.git
+[submodule "django-storages-redux"]
+	path = feedstocks/django-storages-redux
+	url = https://github.com/conda-forge/django-storages-redux-feedstock.git
+[submodule "django-test-plus"]
+	path = feedstocks/django-test-plus
+	url = https://github.com/conda-forge/django-test-plus-feedstock.git
+[submodule "django-treebeard"]
+	path = feedstocks/django-treebeard
+	url = https://github.com/conda-forge/django-treebeard-feedstock.git
+[submodule "django-unique-upload"]
+	path = feedstocks/django-unique-upload
+	url = https://github.com/conda-forge/django-unique-upload-feedstock.git
+[submodule "django-versatileimagefield"]
+	path = feedstocks/django-versatileimagefield
+	url = https://github.com/conda-forge/django-versatileimagefield-feedstock.git
+[submodule "django_compressor"]
+	path = feedstocks/django_compressor
+	url = https://github.com/conda-forge/django_compressor-feedstock.git
+[submodule "django_coverage_plugin"]
+	path = feedstocks/django_coverage_plugin
+	url = https://github.com/conda-forge/django_coverage_plugin-feedstock.git
+[submodule "dnspython"]
+	path = feedstocks/dnspython
+	url = https://github.com/conda-forge/dnspython-feedstock.git
+[submodule "dogpile.cache"]
+	path = feedstocks/dogpile.cache
+	url = https://github.com/conda-forge/dogpile.cache-feedstock.git
+[submodule "dynamicisttoolkit"]
+	path = feedstocks/dynamicisttoolkit
+	url = https://github.com/conda-forge/dynamicisttoolkit-feedstock.git
+[submodule "email_validator"]
+	path = feedstocks/email_validator
+	url = https://github.com/conda-forge/email_validator-feedstock.git
+[submodule "empath"]
+	path = feedstocks/empath
+	url = https://github.com/conda-forge/empath-feedstock.git
+[submodule "ez_setup"]
+	path = feedstocks/ez_setup
+	url = https://github.com/conda-forge/ez_setup-feedstock.git
+[submodule "fast-histogram"]
+	path = feedstocks/fast-histogram
+	url = https://github.com/conda-forge/fast-histogram-feedstock.git
+[submodule "fdupes"]
+	path = feedstocks/fdupes
+	url = https://github.com/conda-forge/fdupes-feedstock.git
+[submodule "filesdb"]
+	path = feedstocks/filesdb
+	url = https://github.com/conda-forge/filesdb-feedstock.git
+[submodule "flake8-blind-except"]
+	path = feedstocks/flake8-blind-except
+	url = https://github.com/conda-forge/flake8-blind-except-feedstock.git
+[submodule "flask-turbolinks"]
+	path = feedstocks/flask-turbolinks
+	url = https://github.com/conda-forge/flask-turbolinks-feedstock.git
+[submodule "gammapy"]
+	path = feedstocks/gammapy
+	url = https://github.com/conda-forge/gammapy-feedstock.git
+[submodule "gdk-pixbuf"]
+	path = feedstocks/gdk-pixbuf
+	url = https://github.com/conda-forge/gdk-pixbuf-feedstock.git
+[submodule "gensim"]
+	path = feedstocks/gensim
+	url = https://github.com/conda-forge/gensim-feedstock.git
+[submodule "gitdb2"]
+	path = feedstocks/gitdb2
+	url = https://github.com/conda-forge/gitdb2-feedstock.git
+[submodule "graphene"]
+	path = feedstocks/graphene
+	url = https://github.com/conda-forge/graphene-feedstock.git
+[submodule "graphql-core"]
+	path = feedstocks/graphql-core
+	url = https://github.com/conda-forge/graphql-core-feedstock.git
+[submodule "graphql-relay"]
+	path = feedstocks/graphql-relay
+	url = https://github.com/conda-forge/graphql-relay-feedstock.git
+[submodule "grin"]
+	path = feedstocks/grin
+	url = https://github.com/conda-forge/grin-feedstock.git
+[submodule "gwcs"]
+	path = feedstocks/gwcs
+	url = https://github.com/conda-forge/gwcs-feedstock.git
+[submodule "halotools"]
+	path = feedstocks/halotools
+	url = https://github.com/conda-forge/halotools-feedstock.git
+[submodule "hunspell-en"]
+	path = feedstocks/hunspell-en
+	url = https://github.com/conda-forge/hunspell-en-feedstock.git
+[submodule "hunspell"]
+	path = feedstocks/hunspell
+	url = https://github.com/conda-forge/hunspell-feedstock.git
+[submodule "hyperlink"]
+	path = feedstocks/hyperlink
+	url = https://github.com/conda-forge/hyperlink-feedstock.git
+[submodule "imagemagick"]
+	path = feedstocks/imagemagick
+	url = https://github.com/conda-forge/imagemagick-feedstock.git
+[submodule "imexam"]
+	path = feedstocks/imexam
+	url = https://github.com/conda-forge/imexam-feedstock.git
+[submodule "iminuit"]
+	path = feedstocks/iminuit
+	url = https://github.com/conda-forge/iminuit-feedstock.git
+[submodule "incremental"]
+	path = feedstocks/incremental
+	url = https://github.com/conda-forge/incremental-feedstock.git
+[submodule "infinity"]
+	path = feedstocks/infinity
+	url = https://github.com/conda-forge/infinity-feedstock.git
+[submodule "interlap"]
+	path = feedstocks/interlap
+	url = https://github.com/conda-forge/interlap-feedstock.git
+[submodule "intervals"]
+	path = feedstocks/intervals
+	url = https://github.com/conda-forge/intervals-feedstock.git
+[submodule "intltool"]
+	path = feedstocks/intltool
+	url = https://github.com/conda-forge/intltool-feedstock.git
+[submodule "ioos_tools"]
+	path = feedstocks/ioos_tools
+	url = https://github.com/conda-forge/ioos_tools-feedstock.git
+[submodule "ipaddr"]
+	path = feedstocks/ipaddr
+	url = https://github.com/conda-forge/ipaddr-feedstock.git
+[submodule "iperf"]
+	path = feedstocks/iperf
+	url = https://github.com/conda-forge/iperf-feedstock.git
+[submodule "ipywebrtc"]
+	path = feedstocks/ipywebrtc
+	url = https://github.com/conda-forge/ipywebrtc-feedstock.git
+[submodule "itk"]
+	path = feedstocks/itk
+	url = https://github.com/conda-forge/itk-feedstock.git
+[submodule "jcc"]
+	path = feedstocks/jcc
+	url = https://github.com/conda-forge/jcc-feedstock.git
+[submodule "jenkspy"]
+	path = feedstocks/jenkspy
+	url = https://github.com/conda-forge/jenkspy-feedstock.git
+[submodule "jsonpickle"]
+	path = feedstocks/jsonpickle
+	url = https://github.com/conda-forge/jsonpickle-feedstock.git
+[submodule "julia"]
+	path = feedstocks/julia
+	url = https://github.com/conda-forge/julia-feedstock.git
+[submodule "knit"]
+	path = feedstocks/knit
+	url = https://github.com/conda-forge/knit-feedstock.git
+[submodule "labjackpython"]
+	path = feedstocks/labjackpython
+	url = https://github.com/conda-forge/labjackpython-feedstock.git
+[submodule "lagranto"]
+	path = feedstocks/lagranto
+	url = https://github.com/conda-forge/lagranto-feedstock.git
+[submodule "landsat_util"]
+	path = feedstocks/landsat_util
+	url = https://github.com/conda-forge/landsat_util-feedstock.git
+[submodule "lbzip2"]
+	path = feedstocks/lbzip2
+	url = https://github.com/conda-forge/lbzip2-feedstock.git
+[submodule "libgcrypt"]
+	path = feedstocks/libgcrypt
+	url = https://github.com/conda-forge/libgcrypt-feedstock.git
+[submodule "libgpg-error"]
+	path = feedstocks/libgpg-error
+	url = https://github.com/conda-forge/libgpg-error-feedstock.git
+[submodule "libsass"]
+	path = feedstocks/libsass
+	url = https://github.com/conda-forge/libsass-feedstock.git
+[submodule "louvain"]
+	path = feedstocks/louvain
+	url = https://github.com/conda-forge/louvain-feedstock.git
+[submodule "m2w64-muparser"]
+	path = feedstocks/m2w64-muparser
+	url = https://github.com/conda-forge/m2w64-muparser-feedstock.git
+[submodule "maltpynt"]
+	path = feedstocks/maltpynt
+	url = https://github.com/conda-forge/maltpynt-feedstock.git
+[submodule "mdsrv"]
+	path = feedstocks/mdsrv
+	url = https://github.com/conda-forge/mdsrv-feedstock.git
+[submodule "mpl-scatter-density"]
+	path = feedstocks/mpl-scatter-density
+	url = https://github.com/conda-forge/mpl-scatter-density-feedstock.git
+[submodule "naima"]
+	path = feedstocks/naima
+	url = https://github.com/conda-forge/naima-feedstock.git
+[submodule "ncpol2sdpa"]
+	path = feedstocks/ncpol2sdpa
+	url = https://github.com/conda-forge/ncpol2sdpa-feedstock.git
+[submodule "nettle"]
+	path = feedstocks/nettle
+	url = https://github.com/conda-forge/nettle-feedstock.git
+[submodule "omnifit"]
+	path = feedstocks/omnifit
+	url = https://github.com/conda-forge/omnifit-feedstock.git
+[submodule "opbeat"]
+	path = feedstocks/opbeat
+	url = https://github.com/conda-forge/opbeat-feedstock.git
+[submodule "openlibm"]
+	path = feedstocks/openlibm
+	url = https://github.com/conda-forge/openlibm-feedstock.git
+[submodule "openspecfun"]
+	path = feedstocks/openspecfun
+	url = https://github.com/conda-forge/openspecfun-feedstock.git
+[submodule "oset"]
+	path = feedstocks/oset
+	url = https://github.com/conda-forge/oset-feedstock.git
+[submodule "oslo.serialization"]
+	path = feedstocks/oslo.serialization
+	url = https://github.com/conda-forge/oslo.serialization-feedstock.git
+[submodule "pandoc-attributes"]
+	path = feedstocks/pandoc-attributes
+	url = https://github.com/conda-forge/pandoc-attributes-feedstock.git
+[submodule "passlib"]
+	path = feedstocks/passlib
+	url = https://github.com/conda-forge/passlib-feedstock.git
+[submodule "pathlib2"]
+	path = feedstocks/pathlib2
+	url = https://github.com/conda-forge/pathlib2-feedstock.git
+[submodule "pcre2"]
+	path = feedstocks/pcre2
+	url = https://github.com/conda-forge/pcre2-feedstock.git
+[submodule "perl-app-cpanminus"]
+	path = feedstocks/perl-app-cpanminus
+	url = https://github.com/conda-forge/perl-app-cpanminus-feedstock.git
+[submodule "pybtex-docutils"]
+	path = feedstocks/pybtex-docutils
+	url = https://github.com/conda-forge/pybtex-docutils-feedstock.git
+[submodule "pybtex"]
+	path = feedstocks/pybtex
+	url = https://github.com/conda-forge/pybtex-feedstock.git
+[submodule "pydl"]
+	path = feedstocks/pydl
+	url = https://github.com/conda-forge/pydl-feedstock.git
+[submodule "pyephem"]
+	path = feedstocks/pyephem
+	url = https://github.com/conda-forge/pyephem-feedstock.git
+[submodule "pyfmmlib"]
+	path = feedstocks/pyfmmlib
+	url = https://github.com/conda-forge/pyfmmlib-feedstock.git
+[submodule "pykrige"]
+	path = feedstocks/pykrige
+	url = https://github.com/conda-forge/pykrige-feedstock.git
+[submodule "pyregion"]
+	path = feedstocks/pyregion
+	url = https://github.com/conda-forge/pyregion-feedstock.git
+[submodule "pyretis"]
+	path = feedstocks/pyretis
+	url = https://github.com/conda-forge/pyretis-feedstock.git
+[submodule "pysftp"]
+	path = feedstocks/pysftp
+	url = https://github.com/conda-forge/pysftp-feedstock.git
+[submodule "pyside2"]
+	path = feedstocks/pyside2
+	url = https://github.com/conda-forge/pyside2-feedstock.git
+[submodule "pytest-forked"]
+	path = feedstocks/pytest-forked
+	url = https://github.com/conda-forge/pytest-forked-feedstock.git
+[submodule "pytest-sugar"]
+	path = feedstocks/pytest-sugar
+	url = https://github.com/conda-forge/pytest-sugar-feedstock.git
+[submodule "python-cpl"]
+	path = feedstocks/python-cpl
+	url = https://github.com/conda-forge/python-cpl-feedstock.git
+[submodule "python-ironicclient"]
+	path = feedstocks/python-ironicclient
+	url = https://github.com/conda-forge/python-ironicclient-feedstock.git
+[submodule "pytrilinos"]
+	path = feedstocks/pytrilinos
+	url = https://github.com/conda-forge/pytrilinos-feedstock.git
+[submodule "pyuca"]
+	path = feedstocks/pyuca
+	url = https://github.com/conda-forge/pyuca-feedstock.git
+[submodule "pyutilsnrw"]
+	path = feedstocks/pyutilsnrw
+	url = https://github.com/conda-forge/pyutilsnrw-feedstock.git
+[submodule "qt.py"]
+	path = feedstocks/qt.py
+	url = https://github.com/conda-forge/qt.py-feedstock.git
+[submodule "qtkeychain"]
+	path = feedstocks/qtkeychain
+	url = https://github.com/conda-forge/qtkeychain-feedstock.git
+[submodule "r-ada"]
+	path = feedstocks/r-ada
+	url = https://github.com/conda-forge/r-ada-feedstock.git
+[submodule "r-ade4"]
+	path = feedstocks/r-ade4
+	url = https://github.com/conda-forge/r-ade4-feedstock.git
+[submodule "r-agricolae"]
+	path = feedstocks/r-agricolae
+	url = https://github.com/conda-forge/r-agricolae-feedstock.git
+[submodule "r-ahocorasicktrie"]
+	path = feedstocks/r-ahocorasicktrie
+	url = https://github.com/conda-forge/r-ahocorasicktrie-feedstock.git
+[submodule "r-algdesign"]
+	path = feedstocks/r-algdesign
+	url = https://github.com/conda-forge/r-algdesign-feedstock.git
+[submodule "r-amap"]
+	path = feedstocks/r-amap
+	url = https://github.com/conda-forge/r-amap-feedstock.git
+[submodule "r-aod"]
+	path = feedstocks/r-aod
+	url = https://github.com/conda-forge/r-aod-feedstock.git
+[submodule "r-argparser"]
+	path = feedstocks/r-argparser
+	url = https://github.com/conda-forge/r-argparser-feedstock.git
+[submodule "r-aroma.apd"]
+	path = feedstocks/r-aroma.apd
+	url = https://github.com/conda-forge/r-aroma.apd-feedstock.git
+[submodule "r-ash"]
+	path = feedstocks/r-ash
+	url = https://github.com/conda-forge/r-ash-feedstock.git
+[submodule "r-ashr"]
+	path = feedstocks/r-ashr
+	url = https://github.com/conda-forge/r-ashr-feedstock.git
+[submodule "r-base64"]
+	path = feedstocks/r-base64
+	url = https://github.com/conda-forge/r-base64-feedstock.git
+[submodule "r-batch"]
+	path = feedstocks/r-batch
+	url = https://github.com/conda-forge/r-batch-feedstock.git
+[submodule "r-batchjobs"]
+	path = feedstocks/r-batchjobs
+	url = https://github.com/conda-forge/r-batchjobs-feedstock.git
+[submodule "r-bbmisc"]
+	path = feedstocks/r-bbmisc
+	url = https://github.com/conda-forge/r-bbmisc-feedstock.git
+[submodule "r-bbmle"]
+	path = feedstocks/r-bbmle
+	url = https://github.com/conda-forge/r-bbmle-feedstock.git
+[submodule "r-beanplot"]
+	path = feedstocks/r-beanplot
+	url = https://github.com/conda-forge/r-beanplot-feedstock.git
+[submodule "r-biasedurn"]
+	path = feedstocks/r-biasedurn
+	url = https://github.com/conda-forge/r-biasedurn-feedstock.git
+[submodule "r-biganalytics"]
+	path = feedstocks/r-biganalytics
+	url = https://github.com/conda-forge/r-biganalytics-feedstock.git
+[submodule "r-biglm"]
+	path = feedstocks/r-biglm
+	url = https://github.com/conda-forge/r-biglm-feedstock.git
+[submodule "r-bigmemory"]
+	path = feedstocks/r-bigmemory
+	url = https://github.com/conda-forge/r-bigmemory-feedstock.git
+[submodule "r-bigmemory.sri"]
+	path = feedstocks/r-bigmemory.sri
+	url = https://github.com/conda-forge/r-bigmemory.sri-feedstock.git
+[submodule "r-bindr"]
+	path = feedstocks/r-bindr
+	url = https://github.com/conda-forge/r-bindr-feedstock.git
+[submodule "r-bindrcpp"]
+	path = feedstocks/r-bindrcpp
+	url = https://github.com/conda-forge/r-bindrcpp-feedstock.git
+[submodule "r-blockmodeling"]
+	path = feedstocks/r-blockmodeling
+	url = https://github.com/conda-forge/r-blockmodeling-feedstock.git
+[submodule "r-bma"]
+	path = feedstocks/r-bma
+	url = https://github.com/conda-forge/r-bma-feedstock.git
+[submodule "r-calibrate"]
+	path = feedstocks/r-calibrate
+	url = https://github.com/conda-forge/r-calibrate-feedstock.git
+[submodule "r-caroline"]
+	path = feedstocks/r-caroline
+	url = https://github.com/conda-forge/r-caroline-feedstock.git
+[submodule "r-cghflasso"]
+	path = feedstocks/r-cghflasso
+	url = https://github.com/conda-forge/r-cghflasso-feedstock.git
+[submodule "r-changepoint"]
+	path = feedstocks/r-changepoint
+	url = https://github.com/conda-forge/r-changepoint-feedstock.git
+[submodule "r-checkpoint"]
+	path = feedstocks/r-checkpoint
+	url = https://github.com/conda-forge/r-checkpoint-feedstock.git
+[submodule "r-circlize"]
+	path = feedstocks/r-circlize
+	url = https://github.com/conda-forge/r-circlize-feedstock.git
+[submodule "r-combinat"]
+	path = feedstocks/r-combinat
+	url = https://github.com/conda-forge/r-combinat-feedstock.git
+[submodule "r-compquadform"]
+	path = feedstocks/r-compquadform
+	url = https://github.com/conda-forge/r-compquadform-feedstock.git
+[submodule "r-compute.es"]
+	path = feedstocks/r-compute.es
+	url = https://github.com/conda-forge/r-compute.es-feedstock.git
+[submodule "r-corpcor"]
+	path = feedstocks/r-corpcor
+	url = https://github.com/conda-forge/r-corpcor-feedstock.git
+[submodule "r-corrplot"]
+	path = feedstocks/r-corrplot
+	url = https://github.com/conda-forge/r-corrplot-feedstock.git
+[submodule "r-d3heatmap"]
+	path = feedstocks/r-d3heatmap
+	url = https://github.com/conda-forge/r-d3heatmap-feedstock.git
+[submodule "r-dbplyr"]
+	path = feedstocks/r-dbplyr
+	url = https://github.com/conda-forge/r-dbplyr-feedstock.git
+[submodule "r-delaporte"]
+	path = feedstocks/r-delaporte
+	url = https://github.com/conda-forge/r-delaporte-feedstock.git
+[submodule "r-deldir"]
+	path = feedstocks/r-deldir
+	url = https://github.com/conda-forge/r-deldir-feedstock.git
+[submodule "r-dendextend"]
+	path = feedstocks/r-dendextend
+	url = https://github.com/conda-forge/r-dendextend-feedstock.git
+[submodule "r-diagram"]
+	path = feedstocks/r-diagram
+	url = https://github.com/conda-forge/r-diagram-feedstock.git
+[submodule "r-discriminer"]
+	path = feedstocks/r-discriminer
+	url = https://github.com/conda-forge/r-discriminer-feedstock.git
+[submodule "r-docopt"]
+	path = feedstocks/r-docopt
+	url = https://github.com/conda-forge/r-docopt-feedstock.git
+[submodule "r-dorng"]
+	path = feedstocks/r-dorng
+	url = https://github.com/conda-forge/r-dorng-feedstock.git
+[submodule "r-dosnow"]
+	path = feedstocks/r-dosnow
+	url = https://github.com/conda-forge/r-dosnow-feedstock.git
+[submodule "r-downloader"]
+	path = feedstocks/r-downloader
+	url = https://github.com/conda-forge/r-downloader-feedstock.git
+[submodule "r-dunn.test"]
+	path = feedstocks/r-dunn.test
+	url = https://github.com/conda-forge/r-dunn.test-feedstock.git
+[submodule "r-ellipse"]
+	path = feedstocks/r-ellipse
+	url = https://github.com/conda-forge/r-ellipse-feedstock.git
+[submodule "r-emdbook"]
+	path = feedstocks/r-emdbook
+	url = https://github.com/conda-forge/r-emdbook-feedstock.git
+[submodule "r-envstats"]
+	path = feedstocks/r-envstats
+	url = https://github.com/conda-forge/r-envstats-feedstock.git
+[submodule "r-etrunct"]
+	path = feedstocks/r-etrunct
+	url = https://github.com/conda-forge/r-etrunct-feedstock.git
+[submodule "r-exactranktests"]
+	path = feedstocks/r-exactranktests
+	url = https://github.com/conda-forge/r-exactranktests-feedstock.git
+[submodule "r-expm"]
+	path = feedstocks/r-expm
+	url = https://github.com/conda-forge/r-expm-feedstock.git
+[submodule "r-extrafont"]
+	path = feedstocks/r-extrafont
+	url = https://github.com/conda-forge/r-extrafont-feedstock.git
+[submodule "r-extrafontdb"]
+	path = feedstocks/r-extrafontdb
+	url = https://github.com/conda-forge/r-extrafontdb-feedstock.git
+[submodule "r-factominer"]
+	path = feedstocks/r-factominer
+	url = https://github.com/conda-forge/r-factominer-feedstock.git
+[submodule "r-fail"]
+	path = feedstocks/r-fail
+	url = https://github.com/conda-forge/r-fail-feedstock.git
+[submodule "r-fastmatch"]
+	path = feedstocks/r-fastmatch
+	url = https://github.com/conda-forge/r-fastmatch-feedstock.git
+[submodule "r-fda"]
+	path = feedstocks/r-fda
+	url = https://github.com/conda-forge/r-fda-feedstock.git
+[submodule "r-fdrtool"]
+	path = feedstocks/r-fdrtool
+	url = https://github.com/conda-forge/r-fdrtool-feedstock.git
+[submodule "r-ff"]
+	path = feedstocks/r-ff
+	url = https://github.com/conda-forge/r-ff-feedstock.git
+[submodule "r-fftwtools"]
+	path = feedstocks/r-fftwtools
+	url = https://github.com/conda-forge/r-fftwtools-feedstock.git
+[submodule "r-fields"]
+	path = feedstocks/r-fields
+	url = https://github.com/conda-forge/r-fields-feedstock.git
+[submodule "r-fitdistrplus"]
+	path = feedstocks/r-fitdistrplus
+	url = https://github.com/conda-forge/r-fitdistrplus-feedstock.git
+[submodule "r-flashclust"]
+	path = feedstocks/r-flashclust
+	url = https://github.com/conda-forge/r-flashclust-feedstock.git
+[submodule "r-flexclust"]
+	path = feedstocks/r-flexclust
+	url = https://github.com/conda-forge/r-flexclust-feedstock.git
+[submodule "r-flexmix"]
+	path = feedstocks/r-flexmix
+	url = https://github.com/conda-forge/r-flexmix-feedstock.git
+[submodule "r-flowr"]
+	path = feedstocks/r-flowr
+	url = https://github.com/conda-forge/r-flowr-feedstock.git
+[submodule "r-fpc"]
+	path = feedstocks/r-fpc
+	url = https://github.com/conda-forge/r-fpc-feedstock.git
+[submodule "r-funr"]
+	path = feedstocks/r-funr
+	url = https://github.com/conda-forge/r-funr-feedstock.git
+[submodule "r-futile.logger"]
+	path = feedstocks/r-futile.logger
+	url = https://github.com/conda-forge/r-futile.logger-feedstock.git
+[submodule "r-futile.options"]
+	path = feedstocks/r-futile.options
+	url = https://github.com/conda-forge/r-futile.options-feedstock.git
+[submodule "r-future"]
+	path = feedstocks/r-future
+	url = https://github.com/conda-forge/r-future-feedstock.git
+[submodule "r-gam"]
+	path = feedstocks/r-gam
+	url = https://github.com/conda-forge/r-gam-feedstock.git
+[submodule "r-gamlss"]
+	path = feedstocks/r-gamlss
+	url = https://github.com/conda-forge/r-gamlss-feedstock.git
+[submodule "r-gamlss.data"]
+	path = feedstocks/r-gamlss.data
+	url = https://github.com/conda-forge/r-gamlss.data-feedstock.git
+[submodule "r-gamlss.dist"]
+	path = feedstocks/r-gamlss.dist
+	url = https://github.com/conda-forge/r-gamlss.dist-feedstock.git
+[submodule "r-gbm"]
+	path = feedstocks/r-gbm
+	url = https://github.com/conda-forge/r-gbm-feedstock.git
+[submodule "r-gdtools"]
+	path = feedstocks/r-gdtools
+	url = https://github.com/conda-forge/r-gdtools-feedstock.git
+[submodule "r-genabel.data"]
+	path = feedstocks/r-genabel.data
+	url = https://github.com/conda-forge/r-genabel.data-feedstock.git
+[submodule "r-geomap"]
+	path = feedstocks/r-geomap
+	url = https://github.com/conda-forge/r-geomap-feedstock.git
+[submodule "r-getoptlong"]
+	path = feedstocks/r-getoptlong
+	url = https://github.com/conda-forge/r-getoptlong-feedstock.git
+[submodule "r-ggally"]
+	path = feedstocks/r-ggally
+	url = https://github.com/conda-forge/r-ggally-feedstock.git
+[submodule "r-ggalt"]
+	path = feedstocks/r-ggalt
+	url = https://github.com/conda-forge/r-ggalt-feedstock.git
+[submodule "r-ggbeeswarm"]
+	path = feedstocks/r-ggbeeswarm
+	url = https://github.com/conda-forge/r-ggbeeswarm-feedstock.git
+[submodule "r-ggdendro"]
+	path = feedstocks/r-ggdendro
+	url = https://github.com/conda-forge/r-ggdendro-feedstock.git
+[submodule "r-ggrepel"]
+	path = feedstocks/r-ggrepel
+	url = https://github.com/conda-forge/r-ggrepel-feedstock.git
+[submodule "r-ggthemes"]
+	path = feedstocks/r-ggthemes
+	url = https://github.com/conda-forge/r-ggthemes-feedstock.git
+[submodule "r-giant"]
+	path = feedstocks/r-giant
+	url = https://github.com/conda-forge/r-giant-feedstock.git
+[submodule "r-globaloptions"]
+	path = feedstocks/r-globaloptions
+	url = https://github.com/conda-forge/r-globaloptions-feedstock.git
+[submodule "r-globals"]
+	path = feedstocks/r-globals
+	url = https://github.com/conda-forge/r-globals-feedstock.git
+[submodule "r-glue"]
+	path = feedstocks/r-glue
+	url = https://github.com/conda-forge/r-glue-feedstock.git
+[submodule "r-gmd"]
+	path = feedstocks/r-gmd
+	url = https://github.com/conda-forge/r-gmd-feedstock.git
+[submodule "r-gmodels"]
+	path = feedstocks/r-gmodels
+	url = https://github.com/conda-forge/r-gmodels-feedstock.git
+[submodule "r-googlevis"]
+	path = feedstocks/r-googlevis
+	url = https://github.com/conda-forge/r-googlevis-feedstock.git
+[submodule "r-gprofiler"]
+	path = feedstocks/r-gprofiler
+	url = https://github.com/conda-forge/r-gprofiler-feedstock.git
+[submodule "r-gpseq"]
+	path = feedstocks/r-gpseq
+	url = https://github.com/conda-forge/r-gpseq-feedstock.git
+[submodule "r-gridgraphics"]
+	path = feedstocks/r-gridgraphics
+	url = https://github.com/conda-forge/r-gridgraphics-feedstock.git
+[submodule "r-grimport"]
+	path = feedstocks/r-grimport
+	url = https://github.com/conda-forge/r-grimport-feedstock.git
+[submodule "r-gsalib"]
+	path = feedstocks/r-gsalib
+	url = https://github.com/conda-forge/r-gsalib-feedstock.git
+[submodule "r-gsmoothr"]
+	path = feedstocks/r-gsmoothr
+	url = https://github.com/conda-forge/r-gsmoothr-feedstock.git
+[submodule "r-hash"]
+	path = feedstocks/r-hash
+	url = https://github.com/conda-forge/r-hash-feedstock.git
+[submodule "r-hdrcde"]
+	path = feedstocks/r-hdrcde
+	url = https://github.com/conda-forge/r-hdrcde-feedstock.git
+[submodule "r-hwriter"]
+	path = feedstocks/r-hwriter
+	url = https://github.com/conda-forge/r-hwriter-feedstock.git
+[submodule "r-idpmisc"]
+	path = feedstocks/r-idpmisc
+	url = https://github.com/conda-forge/r-idpmisc-feedstock.git
+[submodule "r-idr"]
+	path = feedstocks/r-idr
+	url = https://github.com/conda-forge/r-idr-feedstock.git
+[submodule "r-inlinedocs"]
+	path = feedstocks/r-inlinedocs
+	url = https://github.com/conda-forge/r-inlinedocs-feedstock.git
+[submodule "r-intamap"]
+	path = feedstocks/r-intamap
+	url = https://github.com/conda-forge/r-intamap-feedstock.git
+[submodule "r-itertools"]
+	path = feedstocks/r-itertools
+	url = https://github.com/conda-forge/r-itertools-feedstock.git
+[submodule "r-kernlab"]
+	path = feedstocks/r-kernlab
+	url = https://github.com/conda-forge/r-kernlab-feedstock.git
+[submodule "r-klar"]
+	path = feedstocks/r-klar
+	url = https://github.com/conda-forge/r-klar-feedstock.git
+[submodule "r-km.ci"]
+	path = feedstocks/r-km.ci
+	url = https://github.com/conda-forge/r-km.ci-feedstock.git
+[submodule "r-kmsurv"]
+	path = feedstocks/r-kmsurv
+	url = https://github.com/conda-forge/r-kmsurv-feedstock.git
+[submodule "r-knitrbootstrap"]
+	path = feedstocks/r-knitrbootstrap
+	url = https://github.com/conda-forge/r-knitrbootstrap-feedstock.git
+[submodule "r-kriging"]
+	path = feedstocks/r-kriging
+	url = https://github.com/conda-forge/r-kriging-feedstock.git
+[submodule "r-ks"]
+	path = feedstocks/r-ks
+	url = https://github.com/conda-forge/r-ks-feedstock.git
+[submodule "r-lambda.r"]
+	path = feedstocks/r-lambda.r
+	url = https://github.com/conda-forge/r-lambda.r-feedstock.git
+[submodule "r-learnbayes"]
+	path = feedstocks/r-learnbayes
+	url = https://github.com/conda-forge/r-learnbayes-feedstock.git
+[submodule "r-listenv"]
+	path = feedstocks/r-listenv
+	url = https://github.com/conda-forge/r-listenv-feedstock.git
+[submodule "r-locfdr"]
+	path = feedstocks/r-locfdr
+	url = https://github.com/conda-forge/r-locfdr-feedstock.git
+[submodule "r-locfit"]
+	path = feedstocks/r-locfit
+	url = https://github.com/conda-forge/r-locfit-feedstock.git
+[submodule "r-longitudinal"]
+	path = feedstocks/r-longitudinal
+	url = https://github.com/conda-forge/r-longitudinal-feedstock.git
+[submodule "r-lsd"]
+	path = feedstocks/r-lsd
+	url = https://github.com/conda-forge/r-lsd-feedstock.git
+[submodule "r-matlab"]
+	path = feedstocks/r-matlab
+	url = https://github.com/conda-forge/r-matlab-feedstock.git
+[submodule "r-maxlik"]
+	path = feedstocks/r-maxlik
+	url = https://github.com/conda-forge/r-maxlik-feedstock.git
+[submodule "r-mba"]
+	path = feedstocks/r-mba
+	url = https://github.com/conda-forge/r-mba-feedstock.git
+[submodule "r-mclust"]
+	path = feedstocks/r-mclust
+	url = https://github.com/conda-forge/r-mclust-feedstock.git
+[submodule "r-memuse"]
+	path = feedstocks/r-memuse
+	url = https://github.com/conda-forge/r-memuse-feedstock.git
+[submodule "r-minpack.lm"]
+	path = feedstocks/r-minpack.lm
+	url = https://github.com/conda-forge/r-minpack.lm-feedstock.git
+[submodule "r-misc3d"]
+	path = feedstocks/r-misc3d
+	url = https://github.com/conda-forge/r-misc3d-feedstock.git
+[submodule "r-misctools"]
+	path = feedstocks/r-misctools
+	url = https://github.com/conda-forge/r-misctools-feedstock.git
+[submodule "r-missforest"]
+	path = feedstocks/r-missforest
+	url = https://github.com/conda-forge/r-missforest-feedstock.git
+[submodule "r-mitools"]
+	path = feedstocks/r-mitools
+	url = https://github.com/conda-forge/r-mitools-feedstock.git
+[submodule "r-mixtools"]
+	path = feedstocks/r-mixtools
+	url = https://github.com/conda-forge/r-mixtools-feedstock.git
+[submodule "r-multicool"]
+	path = feedstocks/r-multicool
+	url = https://github.com/conda-forge/r-multicool-feedstock.git
+[submodule "r-multitaper"]
+	path = feedstocks/r-multitaper
+	url = https://github.com/conda-forge/r-multitaper-feedstock.git
+[submodule "r-nhmmfdr"]
+	path = feedstocks/r-nhmmfdr
+	url = https://github.com/conda-forge/r-nhmmfdr-feedstock.git
+[submodule "r-nleqslv"]
+	path = feedstocks/r-nleqslv
+	url = https://github.com/conda-forge/r-nleqslv-feedstock.git
+[submodule "r-nor1mix"]
+	path = feedstocks/r-nor1mix
+	url = https://github.com/conda-forge/r-nor1mix-feedstock.git
+[submodule "r-nozzle.r1"]
+	path = feedstocks/r-nozzle.r1
+	url = https://github.com/conda-forge/r-nozzle.r1-feedstock.git
+[submodule "r-openxlsx"]
+	path = feedstocks/r-openxlsx
+	url = https://github.com/conda-forge/r-openxlsx-feedstock.git
+[submodule "r-optparse"]
+	path = feedstocks/r-optparse
+	url = https://github.com/conda-forge/r-optparse-feedstock.git
+[submodule "r-ore"]
+	path = feedstocks/r-ore
+	url = https://github.com/conda-forge/r-ore-feedstock.git
+[submodule "r-outliers"]
+	path = feedstocks/r-outliers
+	url = https://github.com/conda-forge/r-outliers-feedstock.git
+[submodule "r-pack"]
+	path = feedstocks/r-pack
+	url = https://github.com/conda-forge/r-pack-feedstock.git
+[submodule "r-params"]
+	path = feedstocks/r-params
+	url = https://github.com/conda-forge/r-params-feedstock.git
+[submodule "r-penalized"]
+	path = feedstocks/r-penalized
+	url = https://github.com/conda-forge/r-penalized-feedstock.git
+[submodule "r-pheatmap"]
+	path = feedstocks/r-pheatmap
+	url = https://github.com/conda-forge/r-pheatmap-feedstock.git
+[submodule "r-phonr"]
+	path = feedstocks/r-phonr
+	url = https://github.com/conda-forge/r-phonr-feedstock.git
+[submodule "r-pkgconfig"]
+	path = feedstocks/r-pkgconfig
+	url = https://github.com/conda-forge/r-pkgconfig-feedstock.git
+[submodule "r-plotly"]
+	path = feedstocks/r-plotly
+	url = https://github.com/conda-forge/r-plotly-feedstock.git
+[submodule "r-plotrix"]
+	path = feedstocks/r-plotrix
+	url = https://github.com/conda-forge/r-plotrix-feedstock.git
+[submodule "r-pmcmr"]
+	path = feedstocks/r-pmcmr
+	url = https://github.com/conda-forge/r-pmcmr-feedstock.git
+[submodule "r-polynom"]
+	path = feedstocks/r-polynom
+	url = https://github.com/conda-forge/r-polynom-feedstock.git
+[submodule "r-prabclus"]
+	path = feedstocks/r-prabclus
+	url = https://github.com/conda-forge/r-prabclus-feedstock.git
+[submodule "r-preseqr"]
+	path = feedstocks/r-preseqr
+	url = https://github.com/conda-forge/r-preseqr-feedstock.git
+[submodule "r-prettyunits"]
+	path = feedstocks/r-prettyunits
+	url = https://github.com/conda-forge/r-prettyunits-feedstock.git
+[submodule "r-progress"]
+	path = feedstocks/r-progress
+	url = https://github.com/conda-forge/r-progress-feedstock.git
+[submodule "r-proj4"]
+	path = feedstocks/r-proj4
+	url = https://github.com/conda-forge/r-proj4-feedstock.git
+[submodule "r-prroc"]
+	path = feedstocks/r-prroc
+	url = https://github.com/conda-forge/r-prroc-feedstock.git
+[submodule "r-pscl"]
+	path = feedstocks/r-pscl
+	url = https://github.com/conda-forge/r-pscl-feedstock.git
+[submodule "r-ptw"]
+	path = feedstocks/r-ptw
+	url = https://github.com/conda-forge/r-ptw-feedstock.git
+[submodule "r-r.cache"]
+	path = feedstocks/r-r.cache
+	url = https://github.com/conda-forge/r-r.cache-feedstock.git
+[submodule "r-r.devices"]
+	path = feedstocks/r-r.devices
+	url = https://github.com/conda-forge/r-r.devices-feedstock.git
+[submodule "r-r.filesets"]
+	path = feedstocks/r-r.filesets
+	url = https://github.com/conda-forge/r-r.filesets-feedstock.git
+[submodule "r-r.huge"]
+	path = feedstocks/r-r.huge
+	url = https://github.com/conda-forge/r-r.huge-feedstock.git
+[submodule "r-r.rsp"]
+	path = feedstocks/r-r.rsp
+	url = https://github.com/conda-forge/r-r.rsp-feedstock.git
+[submodule "r-r2html"]
+	path = feedstocks/r-r2html
+	url = https://github.com/conda-forge/r-r2html-feedstock.git
+[submodule "r-rainbow"]
+	path = feedstocks/r-rainbow
+	url = https://github.com/conda-forge/r-rainbow-feedstock.git
+[submodule "r-rcppgsl"]
+	path = feedstocks/r-rcppgsl
+	url = https://github.com/conda-forge/r-rcppgsl-feedstock.git
+[submodule "r-rcppparallel"]
+	path = feedstocks/r-rcppparallel
+	url = https://github.com/conda-forge/r-rcppparallel-feedstock.git
+[submodule "r-rcpptoml"]
+	path = feedstocks/r-rcpptoml
+	url = https://github.com/conda-forge/r-rcpptoml-feedstock.git
+[submodule "r-relaimpo"]
+	path = feedstocks/r-relaimpo
+	url = https://github.com/conda-forge/r-relaimpo-feedstock.git
+[submodule "r-relations"]
+	path = feedstocks/r-relations
+	url = https://github.com/conda-forge/r-relations-feedstock.git
+[submodule "r-rfoc"]
+	path = feedstocks/r-rfoc
+	url = https://github.com/conda-forge/r-rfoc-feedstock.git
+[submodule "r-rlang"]
+	path = feedstocks/r-rlang
+	url = https://github.com/conda-forge/r-rlang-feedstock.git
+[submodule "r-rnifti"]
+	path = feedstocks/r-rnifti
+	url = https://github.com/conda-forge/r-rnifti-feedstock.git
+[submodule "r-rniftyreg"]
+	path = feedstocks/r-rniftyreg
+	url = https://github.com/conda-forge/r-rniftyreg-feedstock.git
+[submodule "r-rpmg"]
+	path = feedstocks/r-rpmg
+	url = https://github.com/conda-forge/r-rpmg-feedstock.git
+[submodule "r-rrcov"]
+	path = feedstocks/r-rrcov
+	url = https://github.com/conda-forge/r-rrcov-feedstock.git
+[submodule "r-rseis"]
+	path = feedstocks/r-rseis
+	url = https://github.com/conda-forge/r-rseis-feedstock.git
+[submodule "r-rsm"]
+	path = feedstocks/r-rsm
+	url = https://github.com/conda-forge/r-rsm-feedstock.git
+[submodule "r-rsolnp"]
+	path = feedstocks/r-rsolnp
+	url = https://github.com/conda-forge/r-rsolnp-feedstock.git
+[submodule "r-rttf2pt1"]
+	path = feedstocks/r-rttf2pt1
+	url = https://github.com/conda-forge/r-rttf2pt1-feedstock.git
+[submodule "r-runit"]
+	path = feedstocks/r-runit
+	url = https://github.com/conda-forge/r-runit-feedstock.git
+[submodule "r-rwave"]
+	path = feedstocks/r-rwave
+	url = https://github.com/conda-forge/r-rwave-feedstock.git
+[submodule "r-scatterplot3d"]
+	path = feedstocks/r-scatterplot3d
+	url = https://github.com/conda-forge/r-scatterplot3d-feedstock.git
+[submodule "r-segmented"]
+	path = feedstocks/r-segmented
+	url = https://github.com/conda-forge/r-segmented-feedstock.git
+[submodule "r-sendmailr"]
+	path = feedstocks/r-sendmailr
+	url = https://github.com/conda-forge/r-sendmailr-feedstock.git
+[submodule "r-sets"]
+	path = feedstocks/r-sets
+	url = https://github.com/conda-forge/r-sets-feedstock.git
+[submodule "r-shape"]
+	path = feedstocks/r-shape
+	url = https://github.com/conda-forge/r-shape-feedstock.git
+[submodule "r-signal"]
+	path = feedstocks/r-signal
+	url = https://github.com/conda-forge/r-signal-feedstock.git
+[submodule "r-skellam"]
+	path = feedstocks/r-skellam
+	url = https://github.com/conda-forge/r-skellam-feedstock.git
+[submodule "r-snow"]
+	path = feedstocks/r-snow
+	url = https://github.com/conda-forge/r-snow-feedstock.git
+[submodule "r-snowfall"]
+	path = feedstocks/r-snowfall
+	url = https://github.com/conda-forge/r-snowfall-feedstock.git
+[submodule "r-som"]
+	path = feedstocks/r-som
+	url = https://github.com/conda-forge/r-som-feedstock.git
+[submodule "r-spam"]
+	path = feedstocks/r-spam
+	url = https://github.com/conda-forge/r-spam-feedstock.git
+[submodule "r-spdep"]
+	path = feedstocks/r-spdep
+	url = https://github.com/conda-forge/r-spdep-feedstock.git
+[submodule "r-speedglm"]
+	path = feedstocks/r-speedglm
+	url = https://github.com/conda-forge/r-speedglm-feedstock.git
+[submodule "r-splancs"]
+	path = feedstocks/r-splancs
+	url = https://github.com/conda-forge/r-splancs-feedstock.git
+[submodule "r-splitstackshape"]
+	path = feedstocks/r-splitstackshape
+	url = https://github.com/conda-forge/r-splitstackshape-feedstock.git
+[submodule "r-squarem"]
+	path = feedstocks/r-squarem
+	url = https://github.com/conda-forge/r-squarem-feedstock.git
+[submodule "r-statmod"]
+	path = feedstocks/r-statmod
+	url = https://github.com/conda-forge/r-statmod-feedstock.git
+[submodule "r-survey"]
+	path = feedstocks/r-survey
+	url = https://github.com/conda-forge/r-survey-feedstock.git
+[submodule "r-svdialogs"]
+	path = feedstocks/r-svdialogs
+	url = https://github.com/conda-forge/r-svdialogs-feedstock.git
+[submodule "r-svgui"]
+	path = feedstocks/r-svgui
+	url = https://github.com/conda-forge/r-svgui-feedstock.git
+[submodule "r-tiff"]
+	path = feedstocks/r-tiff
+	url = https://github.com/conda-forge/r-tiff-feedstock.git
+[submodule "r-trimcluster"]
+	path = feedstocks/r-trimcluster
+	url = https://github.com/conda-forge/r-trimcluster-feedstock.git
+[submodule "r-truncnorm"]
+	path = feedstocks/r-truncnorm
+	url = https://github.com/conda-forge/r-truncnorm-feedstock.git
+[submodule "r-tsne"]
+	path = feedstocks/r-tsne
+	url = https://github.com/conda-forge/r-tsne-feedstock.git
+[submodule "r-upsetr"]
+	path = feedstocks/r-upsetr
+	url = https://github.com/conda-forge/r-upsetr-feedstock.git
+[submodule "r-venn"]
+	path = feedstocks/r-venn
+	url = https://github.com/conda-forge/r-venn-feedstock.git
+[submodule "r-venndiagram"]
+	path = feedstocks/r-venndiagram
+	url = https://github.com/conda-forge/r-venndiagram-feedstock.git
+[submodule "r-waveslim"]
+	path = feedstocks/r-waveslim
+	url = https://github.com/conda-forge/r-waveslim-feedstock.git
+[submodule "r-wrassp"]
+	path = feedstocks/r-wrassp
+	url = https://github.com/conda-forge/r-wrassp-feedstock.git
+[submodule "r-writexls"]
+	path = feedstocks/r-writexls
+	url = https://github.com/conda-forge/r-writexls-feedstock.git
+[submodule "ratelimiter"]
+	path = feedstocks/ratelimiter
+	url = https://github.com/conda-forge/ratelimiter-feedstock.git
+[submodule "rcssmin"]
+	path = feedstocks/rcssmin
+	url = https://github.com/conda-forge/rcssmin-feedstock.git
+[submodule "regions"]
+	path = feedstocks/regions
+	url = https://github.com/conda-forge/regions-feedstock.git
+[submodule "rjsmin"]
+	path = feedstocks/rjsmin
+	url = https://github.com/conda-forge/rjsmin-feedstock.git
+[submodule "rt1"]
+	path = feedstocks/rt1
+	url = https://github.com/conda-forge/rt1-feedstock.git
+[submodule "scattertext"]
+	path = feedstocks/scattertext
+	url = https://github.com/conda-forge/scattertext-feedstock.git
+[submodule "segno"]
+	path = feedstocks/segno
+	url = https://github.com/conda-forge/segno-feedstock.git
+[submodule "shade"]
+	path = feedstocks/shade
+	url = https://github.com/conda-forge/shade-feedstock.git
+[submodule "simplegeneric"]
+	path = feedstocks/simplegeneric
+	url = https://github.com/conda-forge/simplegeneric-feedstock.git
+[submodule "somoclu"]
+	path = feedstocks/somoclu
+	url = https://github.com/conda-forge/somoclu-feedstock.git
+[submodule "spectral-cube"]
+	path = feedstocks/spectral-cube
+	url = https://github.com/conda-forge/spectral-cube-feedstock.git
+[submodule "specutils"]
+	path = feedstocks/specutils
+	url = https://github.com/conda-forge/specutils-feedstock.git
+[submodule "sphinxcontrib-bibtex"]
+	path = feedstocks/sphinxcontrib-bibtex
+	url = https://github.com/conda-forge/sphinxcontrib-bibtex-feedstock.git
+[submodule "sphinxcontrib-spelling"]
+	path = feedstocks/sphinxcontrib-spelling
+	url = https://github.com/conda-forge/sphinxcontrib-spelling-feedstock.git
+[submodule "spyder-reports"]
+	path = feedstocks/spyder-reports
+	url = https://github.com/conda-forge/spyder-reports-feedstock.git
+[submodule "spyder-terminal"]
+	path = feedstocks/spyder-terminal
+	url = https://github.com/conda-forge/spyder-terminal-feedstock.git
+[submodule "ssh2-python"]
+	path = feedstocks/ssh2-python
+	url = https://github.com/conda-forge/ssh2-python-feedstock.git
+[submodule "streamz"]
+	path = feedstocks/streamz
+	url = https://github.com/conda-forge/streamz-feedstock.git
+[submodule "swiglpk"]
+	path = feedstocks/swiglpk
+	url = https://github.com/conda-forge/swiglpk-feedstock.git
+[submodule "terminaltables"]
+	path = feedstocks/terminaltables
+	url = https://github.com/conda-forge/terminaltables-feedstock.git
+[submodule "theanolm"]
+	path = feedstocks/theanolm
+	url = https://github.com/conda-forge/theanolm-feedstock.git
+[submodule "toml"]
+	path = feedstocks/toml
+	url = https://github.com/conda-forge/toml-feedstock.git
+[submodule "tox"]
+	path = feedstocks/tox
+	url = https://github.com/conda-forge/tox-feedstock.git
+[submodule "visdom"]
+	path = feedstocks/visdom
+	url = https://github.com/conda-forge/visdom-feedstock.git
+[submodule "w3m"]
+	path = feedstocks/w3m
+	url = https://github.com/conda-forge/w3m-feedstock.git
+[submodule "whitenoise"]
+	path = feedstocks/whitenoise
+	url = https://github.com/conda-forge/whitenoise-feedstock.git
+[submodule "willow"]
+	path = feedstocks/willow
+	url = https://github.com/conda-forge/willow-feedstock.git
+[submodule "xbpch"]
+	path = feedstocks/xbpch
+	url = https://github.com/conda-forge/xbpch-feedstock.git
+[submodule "xlntpyarrow"]
+	path = feedstocks/xlntpyarrow
+	url = https://github.com/conda-forge/xlntpyarrow-feedstock.git
+[submodule "xtl"]
+	path = feedstocks/xtl
+	url = https://github.com/conda-forge/xtl-feedstock.git
