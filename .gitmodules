@@ -9693,3 +9693,57 @@
 [submodule "serverfiles"]
 	path = feedstocks/serverfiles
 	url = https://github.com/conda-forge/serverfiles-feedstock.git
+[submodule "django-bakery"]
+	path = feedstocks/django-bakery
+	url = https://github.com/conda-forge/django-bakery-feedstock.git
+[submodule "inotify-tools"]
+	path = feedstocks/inotify-tools
+	url = https://github.com/conda-forge/inotify-tools-feedstock.git
+[submodule "markdown"]
+	path = feedstocks/markdown
+	url = https://github.com/conda-forge/markdown-feedstock.git
+[submodule "osfclient"]
+	path = feedstocks/osfclient
+	url = https://github.com/conda-forge/osfclient-feedstock.git
+[submodule "r-bmp"]
+	path = feedstocks/r-bmp
+	url = https://github.com/conda-forge/r-bmp-feedstock.git
+[submodule "r-clue"]
+	path = feedstocks/r-clue
+	url = https://github.com/conda-forge/r-clue-feedstock.git
+[submodule "r-contrast"]
+	path = feedstocks/r-contrast
+	url = https://github.com/conda-forge/r-contrast-feedstock.git
+[submodule "r-ecp"]
+	path = feedstocks/r-ecp
+	url = https://github.com/conda-forge/r-ecp-feedstock.git
+[submodule "r-feature"]
+	path = feedstocks/r-feature
+	url = https://github.com/conda-forge/r-feature-feedstock.git
+[submodule "r-geepack"]
+	path = feedstocks/r-geepack
+	url = https://github.com/conda-forge/r-geepack-feedstock.git
+[submodule "r-mcmc"]
+	path = feedstocks/r-mcmc
+	url = https://github.com/conda-forge/r-mcmc-feedstock.git
+[submodule "r-mcmcpack"]
+	path = feedstocks/r-mcmcpack
+	url = https://github.com/conda-forge/r-mcmcpack-feedstock.git
+[submodule "r-moments"]
+	path = feedstocks/r-moments
+	url = https://github.com/conda-forge/r-moments-feedstock.git
+[submodule "r-polspline"]
+	path = feedstocks/r-polspline
+	url = https://github.com/conda-forge/r-polspline-feedstock.git
+[submodule "r-readbitmap"]
+	path = feedstocks/r-readbitmap
+	url = https://github.com/conda-forge/r-readbitmap-feedstock.git
+[submodule "r-rms"]
+	path = feedstocks/r-rms
+	url = https://github.com/conda-forge/r-rms-feedstock.git
+[submodule "r-wavethresh"]
+	path = feedstocks/r-wavethresh
+	url = https://github.com/conda-forge/r-wavethresh-feedstock.git
+[submodule "svgutils"]
+	path = feedstocks/svgutils
+	url = https://github.com/conda-forge/svgutils-feedstock.git
