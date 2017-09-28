@@ -9747,3 +9747,18 @@
 [submodule "svgutils"]
 	path = feedstocks/svgutils
 	url = https://github.com/conda-forge/svgutils-feedstock.git
+[submodule "gnutls"]
+	path = feedstocks/gnutls
+	url = https://github.com/conda-forge/gnutls-feedstock.git
+[submodule "hcephes"]
+	path = feedstocks/hcephes
+	url = https://github.com/conda-forge/hcephes-feedstock.git
+[submodule "orekit"]
+	path = feedstocks/orekit
+	url = https://github.com/conda-forge/orekit-feedstock.git
+[submodule "r-fst"]
+	path = feedstocks/r-fst
+	url = https://github.com/conda-forge/r-fst-feedstock.git
+[submodule "r-naturalsort"]
+	path = feedstocks/r-naturalsort
+	url = https://github.com/conda-forge/r-naturalsort-feedstock.git
