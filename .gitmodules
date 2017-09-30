@@ -9771,3 +9771,15 @@
 [submodule "nose-progressive"]
 	path = feedstocks/nose-progressive
 	url = https://github.com/conda-forge/nose-progressive-feedstock.git
+[submodule "green"]
+	path = feedstocks/green
+	url = https://github.com/conda-forge/green-feedstock.git
+[submodule "r-bibtex"]
+	path = feedstocks/r-bibtex
+	url = https://github.com/conda-forge/r-bibtex-feedstock.git
+[submodule "r-captioner"]
+	path = feedstocks/r-captioner
+	url = https://github.com/conda-forge/r-captioner-feedstock.git
+[submodule "trilinos"]
+	path = feedstocks/trilinos
+	url = https://github.com/conda-forge/trilinos-feedstock.git
