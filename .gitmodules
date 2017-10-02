@@ -9811,3 +9811,7 @@
 	url = https://github.com/conda-forge/typed-ast-feedstock.git
 	path = feedstocks/typed-ast
 	branch = refs/heads/master
+[submodule "astropy-healpix"]
+	url = https://github.com/conda-forge/astropy-healpix-feedstock.git
+	path = feedstocks/astropy-healpix
+	branch = refs/heads/master
