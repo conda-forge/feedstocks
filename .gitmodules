@@ -9795,3 +9795,7 @@
 	url = https://github.com/conda-forge/elasticsearch-async-feedstock.git
 	path = feedstocks/elasticsearch-async
 	branch = refs/heads/master
+[submodule "backports"]
+	url = https://github.com/conda-forge/backports-feedstock.git
+	path = feedstocks/backports
+	branch = refs/heads/master
