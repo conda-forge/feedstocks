@@ -9783,3 +9783,7 @@
 [submodule "trilinos"]
 	path = feedstocks/trilinos
 	url = https://github.com/conda-forge/trilinos-feedstock.git
+[submodule "flask-allows"]
+	url = https://github.com/conda-forge/flask-allows-feedstock.git
+	path = feedstocks/flask-allows
+	branch = refs/heads/master
