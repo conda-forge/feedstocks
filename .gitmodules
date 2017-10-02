@@ -9819,3 +9819,7 @@
 	url = https://github.com/conda-forge/dask-distance-feedstock.git
 	path = feedstocks/dask-distance
 	branch = refs/heads/master
+[submodule "kazoo"]
+	url = https://github.com/conda-forge/kazoo-feedstock.git
+	path = feedstocks/kazoo
+	branch = refs/heads/master
