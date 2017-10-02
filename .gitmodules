@@ -9827,3 +9827,7 @@
 	url = https://github.com/conda-forge/algopy-feedstock.git
 	path = feedstocks/algopy
 	branch = refs/heads/master
+[submodule "asyncpgsa"]
+	url = https://github.com/conda-forge/asyncpgsa-feedstock.git
+	path = feedstocks/asyncpgsa
+	branch = refs/heads/master
