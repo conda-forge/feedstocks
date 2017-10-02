@@ -9815,3 +9815,7 @@
 	url = https://github.com/conda-forge/astropy-healpix-feedstock.git
 	path = feedstocks/astropy-healpix
 	branch = refs/heads/master
+[submodule "dask-distance"]
+	url = https://github.com/conda-forge/dask-distance-feedstock.git
+	path = feedstocks/dask-distance
+	branch = refs/heads/master
