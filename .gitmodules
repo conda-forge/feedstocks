@@ -9803,3 +9803,7 @@
 	url = https://github.com/conda-forge/pyquery-feedstock.git
 	path = feedstocks/pyquery
 	branch = refs/heads/master
+[submodule "asyncpg"]
+	url = https://github.com/conda-forge/asyncpg-feedstock.git
+	path = feedstocks/asyncpg
+	branch = refs/heads/master
