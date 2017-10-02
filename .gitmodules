@@ -9831,3 +9831,7 @@
 	url = https://github.com/conda-forge/asyncpgsa-feedstock.git
 	path = feedstocks/asyncpgsa
 	branch = refs/heads/master
+[submodule "jupyterthemes"]
+	url = https://github.com/conda-forge/jupyterthemes-feedstock.git
+	path = feedstocks/jupyterthemes
+	branch = refs/heads/master
