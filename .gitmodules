@@ -9807,3 +9807,7 @@
 	url = https://github.com/conda-forge/asyncpg-feedstock.git
 	path = feedstocks/asyncpg
 	branch = refs/heads/master
+[submodule "typed-ast"]
+	url = https://github.com/conda-forge/typed-ast-feedstock.git
+	path = feedstocks/typed-ast
+	branch = refs/heads/master
