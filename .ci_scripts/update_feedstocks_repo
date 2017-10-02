@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# Expected to be run in a TravisCI context.
+
+set -e
+
+if [ -n "$GH_TOKEN" ]; then
+    conda execute -v ./scripts/update_feedstocks_submodules.py .
+fi
