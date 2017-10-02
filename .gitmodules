@@ -9791,3 +9791,7 @@
 	url = https://github.com/conda-forge/deepdiff-feedstock.git
 	path = feedstocks/deepdiff
 	branch = refs/heads/master
+[submodule "elasticsearch-async"]
+	url = https://github.com/conda-forge/elasticsearch-async-feedstock.git
+	path = feedstocks/elasticsearch-async
+	branch = refs/heads/master
