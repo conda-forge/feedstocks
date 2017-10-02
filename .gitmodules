@@ -9823,3 +9823,7 @@
 	url = https://github.com/conda-forge/kazoo-feedstock.git
 	path = feedstocks/kazoo
 	branch = refs/heads/master
+[submodule "algopy"]
+	url = https://github.com/conda-forge/algopy-feedstock.git
+	path = feedstocks/algopy
+	branch = refs/heads/master
