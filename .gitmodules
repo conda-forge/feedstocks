@@ -9799,3 +9799,7 @@
 	url = https://github.com/conda-forge/backports-feedstock.git
 	path = feedstocks/backports
 	branch = refs/heads/master
+[submodule "pyquery"]
+	url = https://github.com/conda-forge/pyquery-feedstock.git
+	path = feedstocks/pyquery
+	branch = refs/heads/master
