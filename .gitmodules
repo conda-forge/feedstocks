@@ -13094,3 +13094,7 @@
 	url = https://github.com/conda-forge/lml-feedstock.git
 	path = feedstocks/lml
 	branch = refs/heads/master
+[submodule "texttable"]
+	url = https://github.com/conda-forge/texttable-feedstock.git
+	path = feedstocks/texttable
+	branch = refs/heads/master
