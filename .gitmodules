@@ -13098,3 +13098,7 @@
 	url = https://github.com/conda-forge/texttable-feedstock.git
 	path = feedstocks/texttable
 	branch = refs/heads/master
+[submodule "uvloop"]
+	url = https://github.com/conda-forge/uvloop-feedstock.git
+	path = feedstocks/uvloop
+	branch = refs/heads/master
