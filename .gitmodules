@@ -13102,3 +13102,7 @@
 	url = https://github.com/conda-forge/uvloop-feedstock.git
 	path = feedstocks/uvloop
 	branch = refs/heads/master
+[submodule "cgsn_parsers"]
+	url = https://github.com/conda-forge/cgsn_parsers-feedstock.git
+	path = feedstocks/cgsn_parsers
+	branch = refs/heads/master
