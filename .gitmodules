@@ -13126,3 +13126,7 @@
 	url = https://github.com/conda-forge/clickhouse-sqlalchemy-feedstock.git
 	path = feedstocks/clickhouse-sqlalchemy
 	branch = refs/heads/master
+[submodule "panedr"]
+	url = https://github.com/conda-forge/panedr-feedstock.git
+	path = feedstocks/panedr
+	branch = refs/heads/master
