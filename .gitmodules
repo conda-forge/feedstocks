@@ -13122,3 +13122,7 @@
 	url = https://github.com/conda-forge/clickhouse-driver-feedstock.git
 	path = feedstocks/clickhouse-driver
 	branch = refs/heads/master
+[submodule "clickhouse-sqlalchemy"]
+	url = https://github.com/conda-forge/clickhouse-sqlalchemy-feedstock.git
+	path = feedstocks/clickhouse-sqlalchemy
+	branch = refs/heads/master
