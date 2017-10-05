@@ -13118,3 +13118,7 @@
 	url = https://github.com/conda-forge/clickhouse-cityhash-feedstock.git
 	path = feedstocks/clickhouse-cityhash
 	branch = refs/heads/master
+[submodule "clickhouse-driver"]
+	url = https://github.com/conda-forge/clickhouse-driver-feedstock.git
+	path = feedstocks/clickhouse-driver
+	branch = refs/heads/master
