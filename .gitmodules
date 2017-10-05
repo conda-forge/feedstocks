@@ -13114,3 +13114,7 @@
 	url = https://github.com/conda-forge/smt-feedstock.git
 	path = feedstocks/smt
 	branch = refs/heads/master
+[submodule "clickhouse-cityhash"]
+	url = https://github.com/conda-forge/clickhouse-cityhash-feedstock.git
+	path = feedstocks/clickhouse-cityhash
+	branch = refs/heads/master
