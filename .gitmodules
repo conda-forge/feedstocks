@@ -13130,3 +13130,7 @@
 	url = https://github.com/conda-forge/panedr-feedstock.git
 	path = feedstocks/panedr
 	branch = refs/heads/master
+[submodule "wkhtmltopdf"]
+	url = https://github.com/conda-forge/wkhtmltopdf-feedstock.git
+	path = feedstocks/wkhtmltopdf
+	branch = refs/heads/master
