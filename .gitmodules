@@ -13134,3 +13134,7 @@
 	url = https://github.com/conda-forge/wkhtmltopdf-feedstock.git
 	path = feedstocks/wkhtmltopdf
 	branch = refs/heads/master
+[submodule "resonance"]
+	url = https://github.com/conda-forge/resonance-feedstock.git
+	path = feedstocks/resonance
+	branch = refs/heads/master
