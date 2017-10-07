@@ -13142,3 +13142,7 @@
 	url = https://github.com/conda-forge/dis3-feedstock.git
 	path = feedstocks/dis3
 	branch = refs/heads/master
+[submodule "django-wagtail-feeds"]
+	url = https://github.com/conda-forge/django-wagtail-feeds-feedstock.git
+	path = feedstocks/django-wagtail-feeds
+	branch = refs/heads/master
