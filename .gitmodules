@@ -13138,3 +13138,7 @@
 	url = https://github.com/conda-forge/resonance-feedstock.git
 	path = feedstocks/resonance
 	branch = refs/heads/master
+[submodule "dis3"]
+	url = https://github.com/conda-forge/dis3-feedstock.git
+	path = feedstocks/dis3
+	branch = refs/heads/master
