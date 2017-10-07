@@ -13150,3 +13150,7 @@
 	url = https://github.com/conda-forge/doc2dash-feedstock.git
 	path = feedstocks/doc2dash
 	branch = refs/heads/master
+[submodule "pwkit"]
+	url = https://github.com/conda-forge/pwkit-feedstock.git
+	path = feedstocks/pwkit
+	branch = refs/heads/master
