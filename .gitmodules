@@ -13158,3 +13158,7 @@
 	url = https://github.com/conda-forge/elfx86exts-feedstock.git
 	path = feedstocks/elfx86exts
 	branch = refs/heads/master
+[submodule "tectonic"]
+	url = https://github.com/conda-forge/tectonic-feedstock.git
+	path = feedstocks/tectonic
+	branch = refs/heads/master
