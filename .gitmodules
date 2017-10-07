@@ -13146,3 +13146,7 @@
 	url = https://github.com/conda-forge/django-wagtail-feeds-feedstock.git
 	path = feedstocks/django-wagtail-feeds
 	branch = refs/heads/master
+[submodule "doc2dash"]
+	url = https://github.com/conda-forge/doc2dash-feedstock.git
+	path = feedstocks/doc2dash
+	branch = refs/heads/master
