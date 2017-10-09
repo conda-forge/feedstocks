@@ -13162,3 +13162,7 @@
 	url = https://github.com/conda-forge/tectonic-feedstock.git
 	path = feedstocks/tectonic
 	branch = refs/heads/master
+[submodule "contact_map"]
+	url = https://github.com/conda-forge/contact_map-feedstock.git
+	path = feedstocks/contact_map
+	branch = refs/heads/master
