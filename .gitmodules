@@ -13174,3 +13174,7 @@
 	url = https://github.com/conda-forge/pykafka-feedstock.git
 	path = feedstocks/pykafka
 	branch = refs/heads/master
+[submodule "aiobotocore"]
+	url = https://github.com/conda-forge/aiobotocore-feedstock.git
+	path = feedstocks/aiobotocore
+	branch = refs/heads/master
