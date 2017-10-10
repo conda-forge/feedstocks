@@ -13166,3 +13166,7 @@
 	url = https://github.com/conda-forge/contact_map-feedstock.git
 	path = feedstocks/contact_map
 	branch = refs/heads/master
+[submodule "fs-s3fs"]
+	url = https://github.com/conda-forge/fs-s3fs-feedstock.git
+	path = feedstocks/fs-s3fs
+	branch = refs/heads/master
