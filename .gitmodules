@@ -13182,3 +13182,7 @@
 	url = https://github.com/conda-forge/opentracing-feedstock.git
 	path = feedstocks/opentracing
 	branch = refs/heads/master
+[submodule "erddapy"]
+	url = https://github.com/conda-forge/erddapy-feedstock.git
+	path = feedstocks/erddapy
+	branch = refs/heads/master
