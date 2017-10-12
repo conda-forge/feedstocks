@@ -13198,3 +13198,7 @@
 	url = https://github.com/conda-forge/python-pdfkit-feedstock.git
 	path = feedstocks/python-pdfkit
 	branch = refs/heads/master
+[submodule "intervaltree"]
+	url = https://github.com/conda-forge/intervaltree-feedstock.git
+	path = feedstocks/intervaltree
+	branch = refs/heads/master
