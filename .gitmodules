@@ -13202,3 +13202,7 @@
 	url = https://github.com/conda-forge/intervaltree-feedstock.git
 	path = feedstocks/intervaltree
 	branch = refs/heads/master
+[submodule "parcel"]
+	url = https://github.com/conda-forge/parcel-feedstock.git
+	path = feedstocks/parcel
+	branch = refs/heads/master
