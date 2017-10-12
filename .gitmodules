@@ -13186,3 +13186,7 @@
 	url = https://github.com/conda-forge/erddapy-feedstock.git
 	path = feedstocks/erddapy
 	branch = refs/heads/master
+[submodule "flasgger"]
+	url = https://github.com/conda-forge/flasgger-feedstock.git
+	path = feedstocks/flasgger
+	branch = refs/heads/master
