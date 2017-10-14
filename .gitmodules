@@ -13214,3 +13214,7 @@
 	url = https://github.com/conda-forge/fs_filepicker-feedstock.git
 	path = feedstocks/fs_filepicker
 	branch = refs/heads/master
+[submodule "go"]
+	url = https://github.com/conda-forge/go-feedstock.git
+	path = feedstocks/go
+	branch = refs/heads/master
