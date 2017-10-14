@@ -13218,3 +13218,7 @@
 	url = https://github.com/conda-forge/go-feedstock.git
 	path = feedstocks/go
 	branch = refs/heads/master
+[submodule "pytim"]
+	url = https://github.com/conda-forge/pytim-feedstock.git
+	path = feedstocks/pytim
+	branch = refs/heads/master
