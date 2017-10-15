@@ -13230,3 +13230,7 @@
 	url = https://github.com/conda-forge/webdavclient2-feedstock.git
 	path = feedstocks/webdavclient2
 	branch = refs/heads/master
+[submodule "wfdb"]
+	url = https://github.com/conda-forge/wfdb-feedstock.git
+	path = feedstocks/wfdb
+	branch = refs/heads/master
