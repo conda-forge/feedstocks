@@ -13226,3 +13226,7 @@
 	url = https://github.com/conda-forge/nearpy-feedstock.git
 	path = feedstocks/nearpy
 	branch = refs/heads/master
+[submodule "webdavclient2"]
+	url = https://github.com/conda-forge/webdavclient2-feedstock.git
+	path = feedstocks/webdavclient2
+	branch = refs/heads/master
