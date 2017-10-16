@@ -13246,3 +13246,7 @@
 	url = https://github.com/conda-forge/requests_ntlm-feedstock.git
 	path = feedstocks/requests_ntlm
 	branch = refs/heads/master
+[submodule "geohash2"]
+	url = https://github.com/conda-forge/geohash2-feedstock.git
+	path = feedstocks/geohash2
+	branch = refs/heads/master
