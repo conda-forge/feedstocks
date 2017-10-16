@@ -13242,3 +13242,7 @@
 	url = https://github.com/conda-forge/cyrus-sasl-feedstock.git
 	path = feedstocks/cyrus-sasl
 	branch = refs/heads/master
+[submodule "requests_ntlm"]
+	url = https://github.com/conda-forge/requests_ntlm-feedstock.git
+	path = feedstocks/requests_ntlm
+	branch = refs/heads/master
