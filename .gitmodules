@@ -13258,3 +13258,7 @@
 	url = https://github.com/conda-forge/vaex-core-feedstock.git
 	path = feedstocks/vaex-core
 	branch = refs/heads/master
+[submodule "django-rq"]
+	url = https://github.com/conda-forge/django-rq-feedstock.git
+	path = feedstocks/django-rq
+	branch = refs/heads/master
