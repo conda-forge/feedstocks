@@ -13250,3 +13250,7 @@
 	url = https://github.com/conda-forge/geohash2-feedstock.git
 	path = feedstocks/geohash2
 	branch = refs/heads/master
+[submodule "pywinrm"]
+	url = https://github.com/conda-forge/pywinrm-feedstock.git
+	path = feedstocks/pywinrm
+	branch = refs/heads/master
