@@ -13254,3 +13254,7 @@
 	url = https://github.com/conda-forge/pywinrm-feedstock.git
 	path = feedstocks/pywinrm
 	branch = refs/heads/master
+[submodule "vaex-core"]
+	url = https://github.com/conda-forge/vaex-core-feedstock.git
+	path = feedstocks/vaex-core
+	branch = refs/heads/master
