@@ -13262,3 +13262,7 @@
 	url = https://github.com/conda-forge/django-rq-feedstock.git
 	path = feedstocks/django-rq
 	branch = refs/heads/master
+[submodule "sigopt"]
+	url = https://github.com/conda-forge/sigopt-feedstock.git
+	path = feedstocks/sigopt
+	branch = refs/heads/master
