@@ -13266,3 +13266,7 @@
 	url = https://github.com/conda-forge/sigopt-feedstock.git
 	path = feedstocks/sigopt
 	branch = refs/heads/master
+[submodule "django-libsass"]
+	url = https://github.com/conda-forge/django-libsass-feedstock.git
+	path = feedstocks/django-libsass
+	branch = refs/heads/master
