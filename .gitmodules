@@ -13274,3 +13274,7 @@
 	url = https://github.com/conda-forge/pymsgbox-feedstock.git
 	path = feedstocks/pymsgbox
 	branch = refs/heads/master
+[submodule "flask-jwt-extended"]
+	url = https://github.com/conda-forge/flask-jwt-extended-feedstock.git
+	path = feedstocks/flask-jwt-extended
+	branch = refs/heads/master
