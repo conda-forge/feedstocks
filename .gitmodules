@@ -13270,3 +13270,7 @@
 	url = https://github.com/conda-forge/django-libsass-feedstock.git
 	path = feedstocks/django-libsass
 	branch = refs/heads/master
+[submodule "pymsgbox"]
+	url = https://github.com/conda-forge/pymsgbox-feedstock.git
+	path = feedstocks/pymsgbox
+	branch = refs/heads/master
