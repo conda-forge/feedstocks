@@ -13286,3 +13286,7 @@
 	url = https://github.com/conda-forge/sasl-feedstock.git
 	path = feedstocks/sasl
 	branch = refs/heads/master
+[submodule "wagtail-bakery"]
+	url = https://github.com/conda-forge/wagtail-bakery-feedstock.git
+	path = feedstocks/wagtail-bakery
+	branch = refs/heads/master
