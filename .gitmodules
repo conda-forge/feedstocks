@@ -13282,3 +13282,7 @@
 	url = https://github.com/conda-forge/galario-feedstock.git
 	path = feedstocks/galario
 	branch = refs/heads/master
+[submodule "sasl"]
+	url = https://github.com/conda-forge/sasl-feedstock.git
+	path = feedstocks/sasl
+	branch = refs/heads/master
