@@ -13306,3 +13306,7 @@
 	url = https://github.com/conda-forge/r-fit.models-feedstock.git
 	path = feedstocks/r-fit.models
 	branch = refs/heads/master
+[submodule "r-robust"]
+	url = https://github.com/conda-forge/r-robust-feedstock.git
+	path = feedstocks/r-robust
+	branch = refs/heads/master
