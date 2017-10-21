@@ -13298,3 +13298,7 @@
 	url = https://github.com/conda-forge/pulp-feedstock.git
 	path = feedstocks/pulp
 	branch = refs/heads/master
+[submodule "r-blob"]
+	url = https://github.com/conda-forge/r-blob-feedstock.git
+	path = feedstocks/r-blob
+	branch = refs/heads/master
