@@ -13302,3 +13302,7 @@
 	url = https://github.com/conda-forge/r-blob-feedstock.git
 	path = feedstocks/r-blob
 	branch = refs/heads/master
+[submodule "r-fit.models"]
+	url = https://github.com/conda-forge/r-fit.models-feedstock.git
+	path = feedstocks/r-fit.models
+	branch = refs/heads/master
