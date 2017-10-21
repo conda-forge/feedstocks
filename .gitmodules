@@ -13294,3 +13294,7 @@
 	url = https://github.com/conda-forge/pytweening-feedstock.git
 	path = feedstocks/pytweening
 	branch = refs/heads/master
+[submodule "pulp"]
+	url = https://github.com/conda-forge/pulp-feedstock.git
+	path = feedstocks/pulp
+	branch = refs/heads/master
