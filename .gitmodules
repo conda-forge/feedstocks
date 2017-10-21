@@ -13310,3 +13310,7 @@
 	url = https://github.com/conda-forge/r-robust-feedstock.git
 	path = feedstocks/r-robust
 	branch = refs/heads/master
+[submodule "r-rvcheck"]
+	url = https://github.com/conda-forge/r-rvcheck-feedstock.git
+	path = feedstocks/r-rvcheck
+	branch = refs/heads/master
