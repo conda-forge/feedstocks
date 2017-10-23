@@ -13334,3 +13334,7 @@
 	url = https://github.com/conda-forge/fs.webdavfs-feedstock.git
 	path = feedstocks/fs.webdavfs
 	branch = refs/heads/master
+[submodule "httmock"]
+	url = https://github.com/conda-forge/httmock-feedstock.git
+	path = feedstocks/httmock
+	branch = refs/heads/master
