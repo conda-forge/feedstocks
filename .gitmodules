@@ -13326,3 +13326,7 @@
 	url = https://github.com/conda-forge/tar-feedstock.git
 	path = feedstocks/tar
 	branch = refs/heads/master
+[submodule "statmorph"]
+	url = https://github.com/conda-forge/statmorph-feedstock.git
+	path = feedstocks/statmorph
+	branch = refs/heads/master
