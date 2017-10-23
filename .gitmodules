@@ -13330,3 +13330,7 @@
 	url = https://github.com/conda-forge/statmorph-feedstock.git
 	path = feedstocks/statmorph
 	branch = refs/heads/master
+[submodule "fs.webdavfs"]
+	url = https://github.com/conda-forge/fs.webdavfs-feedstock.git
+	path = feedstocks/fs.webdavfs
+	branch = refs/heads/master
