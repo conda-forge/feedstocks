@@ -13386,3 +13386,7 @@
 	url = https://github.com/conda-forge/ujson-feedstock.git
 	path = feedstocks/ujson
 	branch = refs/heads/master
+[submodule "aiomysql"]
+	url = https://github.com/conda-forge/aiomysql-feedstock.git
+	path = feedstocks/aiomysql
+	branch = refs/heads/master
