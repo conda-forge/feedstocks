@@ -13430,3 +13430,7 @@
 	url = https://github.com/conda-forge/python-xlib-feedstock.git
 	path = feedstocks/python-xlib
 	branch = refs/heads/master
+[submodule "vaex-hdf5"]
+	url = https://github.com/conda-forge/vaex-hdf5-feedstock.git
+	path = feedstocks/vaex-hdf5
+	branch = refs/heads/master
