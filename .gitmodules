@@ -13418,3 +13418,7 @@
 	url = https://github.com/conda-forge/jquery-feedstock.git
 	path = feedstocks/jquery
 	branch = refs/heads/master
+[submodule "hide_code"]
+	url = https://github.com/conda-forge/hide_code-feedstock.git
+	path = feedstocks/hide_code
+	branch = refs/heads/master
