@@ -13414,3 +13414,7 @@
 	url = https://github.com/conda-forge/flot-feedstock.git
 	path = feedstocks/flot
 	branch = refs/heads/master
+[submodule "jquery"]
+	url = https://github.com/conda-forge/jquery-feedstock.git
+	path = feedstocks/jquery
+	branch = refs/heads/master
