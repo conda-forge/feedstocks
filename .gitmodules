@@ -13390,3 +13390,7 @@
 	url = https://github.com/conda-forge/aiomysql-feedstock.git
 	path = feedstocks/aiomysql
 	branch = refs/heads/master
+[submodule "aiopeewee"]
+	url = https://github.com/conda-forge/aiopeewee-feedstock.git
+	path = feedstocks/aiopeewee
+	branch = refs/heads/master
