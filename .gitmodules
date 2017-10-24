@@ -13382,3 +13382,7 @@
 	url = https://github.com/conda-forge/sanic-feedstock.git
 	path = feedstocks/sanic
 	branch = refs/heads/master
+[submodule "ujson"]
+	url = https://github.com/conda-forge/ujson-feedstock.git
+	path = feedstocks/ujson
+	branch = refs/heads/master
