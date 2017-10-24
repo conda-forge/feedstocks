@@ -13354,3 +13354,7 @@
 	url = https://github.com/conda-forge/tvb-library-feedstock.git
 	path = feedstocks/tvb-library
 	branch = refs/heads/master
+[submodule "tvb-data"]
+	url = https://github.com/conda-forge/tvb-data-feedstock.git
+	path = feedstocks/tvb-data
+	branch = refs/heads/master
