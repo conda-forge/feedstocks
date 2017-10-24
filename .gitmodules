@@ -13410,3 +13410,7 @@
 	url = https://github.com/conda-forge/material-design-lite-feedstock.git
 	path = feedstocks/material-design-lite
 	branch = refs/heads/master
+[submodule "flot"]
+	url = https://github.com/conda-forge/flot-feedstock.git
+	path = feedstocks/flot
+	branch = refs/heads/master
