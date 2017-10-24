@@ -13370,3 +13370,7 @@
 	url = https://github.com/conda-forge/chaospy-feedstock.git
 	path = feedstocks/chaospy
 	branch = refs/heads/master
+[submodule "httptools"]
+	url = https://github.com/conda-forge/httptools-feedstock.git
+	path = feedstocks/httptools
+	branch = refs/heads/master
