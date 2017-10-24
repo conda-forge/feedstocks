@@ -13402,3 +13402,7 @@
 	url = https://github.com/conda-forge/gulp-feedstock.git
 	path = feedstocks/gulp
 	branch = refs/heads/master
+[submodule "libunwind"]
+	url = https://github.com/conda-forge/libunwind-feedstock.git
+	path = feedstocks/libunwind
+	branch = refs/heads/master
