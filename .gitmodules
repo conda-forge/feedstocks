@@ -13346,3 +13346,7 @@
 	url = https://github.com/conda-forge/macholib-feedstock.git
 	path = feedstocks/macholib
 	branch = refs/heads/master
+[submodule "tvb-gdist"]
+	url = https://github.com/conda-forge/tvb-gdist-feedstock.git
+	path = feedstocks/tvb-gdist
+	branch = refs/heads/master
