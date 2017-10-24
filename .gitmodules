@@ -13406,3 +13406,7 @@
 	url = https://github.com/conda-forge/libunwind-feedstock.git
 	path = feedstocks/libunwind
 	branch = refs/heads/master
+[submodule "material-design-lite"]
+	url = https://github.com/conda-forge/material-design-lite-feedstock.git
+	path = feedstocks/material-design-lite
+	branch = refs/heads/master
