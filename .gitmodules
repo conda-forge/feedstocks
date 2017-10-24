@@ -13358,3 +13358,7 @@
 	url = https://github.com/conda-forge/tvb-data-feedstock.git
 	path = feedstocks/tvb-data
 	branch = refs/heads/master
+[submodule "googlemaps"]
+	url = https://github.com/conda-forge/googlemaps-feedstock.git
+	path = feedstocks/googlemaps
+	branch = refs/heads/master
