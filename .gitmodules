@@ -13398,3 +13398,7 @@
 	url = https://github.com/conda-forge/datatables-feedstock.git
 	path = feedstocks/datatables
 	branch = refs/heads/master
+[submodule "gulp"]
+	url = https://github.com/conda-forge/gulp-feedstock.git
+	path = feedstocks/gulp
+	branch = refs/heads/master
