@@ -13342,3 +13342,7 @@
 	url = https://github.com/conda-forge/altgraph-feedstock.git
 	path = feedstocks/altgraph
 	branch = refs/heads/master
+[submodule "macholib"]
+	url = https://github.com/conda-forge/macholib-feedstock.git
+	path = feedstocks/macholib
+	branch = refs/heads/master
