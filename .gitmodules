@@ -13378,3 +13378,7 @@
 	url = https://github.com/conda-forge/pymysql-feedstock.git
 	path = feedstocks/pymysql
 	branch = refs/heads/master
+[submodule "sanic"]
+	url = https://github.com/conda-forge/sanic-feedstock.git
+	path = feedstocks/sanic
+	branch = refs/heads/master
