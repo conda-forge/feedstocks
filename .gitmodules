@@ -13434,3 +13434,7 @@
 	url = https://github.com/conda-forge/vaex-hdf5-feedstock.git
 	path = feedstocks/vaex-hdf5
 	branch = refs/heads/master
+[submodule "vispy"]
+	url = https://github.com/conda-forge/vispy-feedstock.git
+	path = feedstocks/vispy
+	branch = refs/heads/master
