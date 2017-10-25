@@ -13438,3 +13438,7 @@
 	url = https://github.com/conda-forge/vispy-feedstock.git
 	path = feedstocks/vispy
 	branch = refs/heads/master
+[submodule "python.app"]
+	url = https://github.com/conda-forge/python.app-feedstock.git
+	path = feedstocks/python.app
+	branch = refs/heads/master
