@@ -13474,3 +13474,7 @@
 	url = https://github.com/conda-forge/pyexcel-xlsx-feedstock.git
 	path = feedstocks/pyexcel-xlsx
 	branch = refs/heads/master
+[submodule "pyexcel"]
+	url = https://github.com/conda-forge/pyexcel-feedstock.git
+	path = feedstocks/pyexcel
+	branch = refs/heads/master
