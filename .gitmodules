@@ -13458,3 +13458,7 @@
 	url = https://github.com/conda-forge/pyexcel-io-feedstock.git
 	path = feedstocks/pyexcel-io
 	branch = refs/heads/master
+[submodule "pyexcel-ods3"]
+	url = https://github.com/conda-forge/pyexcel-ods3-feedstock.git
+	path = feedstocks/pyexcel-ods3
+	branch = refs/heads/master
