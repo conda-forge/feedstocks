@@ -13454,3 +13454,7 @@
 	url = https://github.com/conda-forge/pyexcel-ezodf-feedstock.git
 	path = feedstocks/pyexcel-ezodf
 	branch = refs/heads/master
+[submodule "pyexcel-io"]
+	url = https://github.com/conda-forge/pyexcel-io-feedstock.git
+	path = feedstocks/pyexcel-io
+	branch = refs/heads/master
