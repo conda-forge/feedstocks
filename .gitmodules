@@ -13466,3 +13466,7 @@
 	url = https://github.com/conda-forge/pyexcel-webio-feedstock.git
 	path = feedstocks/pyexcel-webio
 	branch = refs/heads/master
+[submodule "pyexcel-xls"]
+	url = https://github.com/conda-forge/pyexcel-xls-feedstock.git
+	path = feedstocks/pyexcel-xls
+	branch = refs/heads/master
