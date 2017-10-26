@@ -13442,3 +13442,7 @@
 	url = https://github.com/conda-forge/python.app-feedstock.git
 	path = feedstocks/python.app
 	branch = refs/heads/master
+[submodule "vmprof"]
+	url = https://github.com/conda-forge/vmprof-feedstock.git
+	path = feedstocks/vmprof
+	branch = refs/heads/master
