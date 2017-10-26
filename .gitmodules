@@ -13482,3 +13482,7 @@
 	url = https://github.com/conda-forge/d3-feedstock.git
 	path = feedstocks/d3
 	branch = refs/heads/master
+[submodule "gridstack.js"]
+	url = https://github.com/conda-forge/gridstack.js-feedstock.git
+	path = feedstocks/gridstack.js
+	branch = refs/heads/master
