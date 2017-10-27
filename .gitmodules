@@ -13518,3 +13518,7 @@
 	url = https://github.com/conda-forge/pysmi-feedstock.git
 	path = feedstocks/pysmi
 	branch = refs/heads/master
+[submodule "jsondate"]
+	url = https://github.com/conda-forge/jsondate-feedstock.git
+	path = feedstocks/jsondate
+	branch = refs/heads/master
