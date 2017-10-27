@@ -13498,3 +13498,7 @@
 	url = https://github.com/conda-forge/foundation-sites-feedstock.git
 	path = feedstocks/foundation-sites
 	branch = refs/heads/master
+[submodule "jquery-ui"]
+	url = https://github.com/conda-forge/jquery-ui-feedstock.git
+	path = feedstocks/jquery-ui
+	branch = refs/heads/master
