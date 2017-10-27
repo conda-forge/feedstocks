@@ -13510,3 +13510,7 @@
 	url = https://github.com/conda-forge/jstz-feedstock.git
 	path = feedstocks/jstz
 	branch = refs/heads/master
+[submodule "lodash"]
+	url = https://github.com/conda-forge/lodash-feedstock.git
+	path = feedstocks/lodash
+	branch = refs/heads/master
