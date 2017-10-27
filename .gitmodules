@@ -13514,3 +13514,7 @@
 	url = https://github.com/conda-forge/lodash-feedstock.git
 	path = feedstocks/lodash
 	branch = refs/heads/master
+[submodule "pysmi"]
+	url = https://github.com/conda-forge/pysmi-feedstock.git
+	path = feedstocks/pysmi
+	branch = refs/heads/master
