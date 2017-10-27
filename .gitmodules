@@ -13494,3 +13494,7 @@
 	url = https://github.com/conda-forge/pycwt-feedstock.git
 	path = feedstocks/pycwt
 	branch = refs/heads/master
+[submodule "foundation-sites"]
+	url = https://github.com/conda-forge/foundation-sites-feedstock.git
+	path = feedstocks/foundation-sites
+	branch = refs/heads/master
