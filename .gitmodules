@@ -13546,3 +13546,7 @@
 	url = https://github.com/conda-forge/libedit-feedstock.git
 	path = feedstocks/libedit
 	branch = refs/heads/master
+[submodule "cyan"]
+	url = https://github.com/conda-forge/cyan-feedstock.git
+	path = feedstocks/cyan
+	branch = refs/heads/master
