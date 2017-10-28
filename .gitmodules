@@ -13542,3 +13542,7 @@
 	url = https://github.com/conda-forge/lesshat-feedstock.git
 	path = feedstocks/lesshat
 	branch = refs/heads/master
+[submodule "libedit"]
+	url = https://github.com/conda-forge/libedit-feedstock.git
+	path = feedstocks/libedit
+	branch = refs/heads/master
