@@ -13530,3 +13530,7 @@
 	url = https://github.com/conda-forge/radon-feedstock.git
 	path = feedstocks/radon
 	branch = refs/heads/master
+[submodule "xenon"]
+	url = https://github.com/conda-forge/xenon-feedstock.git
+	path = feedstocks/xenon
+	branch = refs/heads/master
