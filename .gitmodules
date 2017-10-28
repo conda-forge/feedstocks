@@ -13522,3 +13522,7 @@
 	url = https://github.com/conda-forge/jsondate-feedstock.git
 	path = feedstocks/jsondate
 	branch = refs/heads/master
+[submodule "mando"]
+	url = https://github.com/conda-forge/mando-feedstock.git
+	path = feedstocks/mando
+	branch = refs/heads/master
