@@ -13554,3 +13554,7 @@
 	url = https://github.com/conda-forge/uavro-feedstock.git
 	path = feedstocks/uavro
 	branch = refs/heads/master
+[submodule "loompy"]
+	url = https://github.com/conda-forge/loompy-feedstock.git
+	path = feedstocks/loompy
+	branch = refs/heads/master
