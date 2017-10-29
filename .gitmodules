@@ -13550,3 +13550,7 @@
 	url = https://github.com/conda-forge/cyan-feedstock.git
 	path = feedstocks/cyan
 	branch = refs/heads/master
+[submodule "uavro"]
+	url = https://github.com/conda-forge/uavro-feedstock.git
+	path = feedstocks/uavro
+	branch = refs/heads/master
