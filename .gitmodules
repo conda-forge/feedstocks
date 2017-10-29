@@ -13566,3 +13566,7 @@
 	url = https://github.com/conda-forge/fasttext-feedstock.git
 	path = feedstocks/fasttext
 	branch = refs/heads/master
+[submodule "hips"]
+	url = https://github.com/conda-forge/hips-feedstock.git
+	path = feedstocks/hips
+	branch = refs/heads/master
