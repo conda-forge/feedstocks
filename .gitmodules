@@ -13562,3 +13562,7 @@
 	url = https://github.com/conda-forge/msgpack-numpy-feedstock.git
 	path = feedstocks/msgpack-numpy
 	branch = refs/heads/master
+[submodule "fasttext"]
+	url = https://github.com/conda-forge/fasttext-feedstock.git
+	path = feedstocks/fasttext
+	branch = refs/heads/master
