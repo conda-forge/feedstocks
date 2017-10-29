@@ -13558,3 +13558,7 @@
 	url = https://github.com/conda-forge/loompy-feedstock.git
 	path = feedstocks/loompy
 	branch = refs/heads/master
+[submodule "msgpack-numpy"]
+	url = https://github.com/conda-forge/msgpack-numpy-feedstock.git
+	path = feedstocks/msgpack-numpy
+	branch = refs/heads/master
