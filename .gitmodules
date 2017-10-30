@@ -13570,3 +13570,7 @@
 	url = https://github.com/conda-forge/hips-feedstock.git
 	path = feedstocks/hips
 	branch = refs/heads/master
+[submodule "bourbon"]
+	url = https://github.com/conda-forge/bourbon-feedstock.git
+	path = feedstocks/bourbon
+	branch = refs/heads/master
