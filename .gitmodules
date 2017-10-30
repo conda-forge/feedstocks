@@ -13574,3 +13574,7 @@
 	url = https://github.com/conda-forge/bourbon-feedstock.git
 	path = feedstocks/bourbon
 	branch = refs/heads/master
+[submodule "pyophidia"]
+	url = https://github.com/conda-forge/pyophidia-feedstock.git
+	path = feedstocks/pyophidia
+	branch = refs/heads/master
