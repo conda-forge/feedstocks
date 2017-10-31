@@ -13586,3 +13586,7 @@
 	url = https://github.com/conda-forge/wsgiproxy2-feedstock.git
 	path = feedstocks/wsgiproxy2
 	branch = refs/heads/master
+[submodule "imbalanced-learn"]
+	url = https://github.com/conda-forge/imbalanced-learn-feedstock.git
+	path = feedstocks/imbalanced-learn
+	branch = refs/heads/master
