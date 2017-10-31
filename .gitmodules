@@ -13446,10 +13446,6 @@
 	url = https://github.com/conda-forge/vmprof-feedstock.git
 	path = feedstocks/vmprof
 	branch = refs/heads/master
-[submodule "dask_ml"]
-	url = https://github.com/conda-forge/dask_ml-feedstock.git
-	path = feedstocks/dask_ml
-	branch = refs/heads/master
 [submodule "pyexcel-ezodf"]
 	url = https://github.com/conda-forge/pyexcel-ezodf-feedstock.git
 	path = feedstocks/pyexcel-ezodf
