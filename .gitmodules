@@ -13590,3 +13590,7 @@
 	url = https://github.com/conda-forge/dask-ml-feedstock.git
 	path = feedstocks/dask-ml
 	branch = refs/heads/master
+[submodule "colorcet"]
+	url = https://github.com/conda-forge/colorcet-feedstock.git
+	path = feedstocks/colorcet
+	branch = refs/heads/master
