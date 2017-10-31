@@ -13586,3 +13586,7 @@
 	url = https://github.com/conda-forge/imbalanced-learn-feedstock.git
 	path = feedstocks/imbalanced-learn
 	branch = refs/heads/master
+[submodule "dask-ml"]
+	url = https://github.com/conda-forge/dask-ml-feedstock.git
+	path = feedstocks/dask-ml
+	branch = refs/heads/master
