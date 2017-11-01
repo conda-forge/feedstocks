@@ -13594,3 +13594,7 @@
 	url = https://github.com/conda-forge/colorcet-feedstock.git
 	path = feedstocks/colorcet
 	branch = refs/heads/master
+[submodule "datashader"]
+	url = https://github.com/conda-forge/datashader-feedstock.git
+	path = feedstocks/datashader
+	branch = refs/heads/master
