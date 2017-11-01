@@ -13598,3 +13598,7 @@
 	url = https://github.com/conda-forge/datashader-feedstock.git
 	path = feedstocks/datashader
 	branch = refs/heads/master
+[submodule "pyweed"]
+	url = https://github.com/conda-forge/pyweed-feedstock.git
+	path = feedstocks/pyweed
+	branch = refs/heads/master
