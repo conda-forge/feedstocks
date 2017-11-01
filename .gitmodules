@@ -13602,3 +13602,7 @@
 	url = https://github.com/conda-forge/pyweed-feedstock.git
 	path = feedstocks/pyweed
 	branch = refs/heads/master
+[submodule "pycovjson"]
+	url = https://github.com/conda-forge/pycovjson-feedstock.git
+	path = feedstocks/pycovjson
+	branch = refs/heads/master
