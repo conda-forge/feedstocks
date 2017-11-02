@@ -13614,3 +13614,7 @@
 	url = https://github.com/conda-forge/yapsy-feedstock.git
 	path = feedstocks/yapsy
 	branch = refs/heads/master
+[submodule "fludashboard"]
+	url = https://github.com/conda-forge/fludashboard-feedstock.git
+	path = feedstocks/fludashboard
+	branch = refs/heads/master
