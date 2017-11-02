@@ -13610,3 +13610,7 @@
 	url = https://github.com/conda-forge/asttokens-feedstock.git
 	path = feedstocks/asttokens
 	branch = refs/heads/master
+[submodule "yapsy"]
+	url = https://github.com/conda-forge/yapsy-feedstock.git
+	path = feedstocks/yapsy
+	branch = refs/heads/master
