@@ -13618,3 +13618,7 @@
 	url = https://github.com/conda-forge/fludashboard-feedstock.git
 	path = feedstocks/fludashboard
 	branch = refs/heads/master
+[submodule "pydash"]
+	url = https://github.com/conda-forge/pydash-feedstock.git
+	path = feedstocks/pydash
+	branch = refs/heads/master
