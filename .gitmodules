@@ -13622,3 +13622,7 @@
 	url = https://github.com/conda-forge/pydash-feedstock.git
 	path = feedstocks/pydash
 	branch = refs/heads/master
+[submodule "oommfc"]
+	url = https://github.com/conda-forge/oommfc-feedstock.git
+	path = feedstocks/oommfc
+	branch = refs/heads/master
