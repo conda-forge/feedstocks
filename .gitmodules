@@ -13658,3 +13658,7 @@
 	url = https://github.com/conda-forge/zookeeper-c-feedstock.git
 	path = feedstocks/zookeeper-c
 	branch = refs/heads/master
+[submodule "pyobjc-framework-quartz"]
+	url = https://github.com/conda-forge/pyobjc-framework-quartz-feedstock.git
+	path = feedstocks/pyobjc-framework-quartz
+	branch = refs/heads/master
