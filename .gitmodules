@@ -13634,3 +13634,7 @@
 	url = https://github.com/conda-forge/r-bigrquery-feedstock.git
 	path = feedstocks/r-bigrquery
 	branch = refs/heads/master
+[submodule "jug"]
+	url = https://github.com/conda-forge/jug-feedstock.git
+	path = feedstocks/jug
+	branch = refs/heads/master
