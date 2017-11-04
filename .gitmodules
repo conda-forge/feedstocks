@@ -13654,3 +13654,7 @@
 	url = https://github.com/conda-forge/vue-feedstock.git
 	path = feedstocks/vue
 	branch = refs/heads/master
+[submodule "zookeeper-c"]
+	url = https://github.com/conda-forge/zookeeper-c-feedstock.git
+	path = feedstocks/zookeeper-c
+	branch = refs/heads/master
