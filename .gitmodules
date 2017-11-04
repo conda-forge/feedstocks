@@ -13638,3 +13638,7 @@
 	url = https://github.com/conda-forge/jug-feedstock.git
 	path = feedstocks/jug
 	branch = refs/heads/master
+[submodule "ipyevents"]
+	url = https://github.com/conda-forge/ipyevents-feedstock.git
+	path = feedstocks/ipyevents
+	branch = refs/heads/master
