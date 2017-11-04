@@ -13650,3 +13650,7 @@
 	url = https://github.com/conda-forge/pyobjc-framework-cocoa-feedstock.git
 	path = feedstocks/pyobjc-framework-cocoa
 	branch = refs/heads/master
+[submodule "vue"]
+	url = https://github.com/conda-forge/vue-feedstock.git
+	path = feedstocks/vue
+	branch = refs/heads/master
