@@ -13630,3 +13630,7 @@
 	url = https://github.com/conda-forge/jags-feedstock.git
 	path = feedstocks/jags
 	branch = refs/heads/master
+[submodule "r-bigrquery"]
+	url = https://github.com/conda-forge/r-bigrquery-feedstock.git
+	path = feedstocks/r-bigrquery
+	branch = refs/heads/master
