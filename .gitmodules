@@ -13678,3 +13678,7 @@
 	url = https://github.com/conda-forge/pyautogui-feedstock.git
 	path = feedstocks/pyautogui
 	branch = refs/heads/master
+[submodule "mysql"]
+	url = https://github.com/conda-forge/mysql-feedstock.git
+	path = feedstocks/mysql
+	branch = refs/heads/master
