@@ -13666,3 +13666,7 @@
 	url = https://github.com/conda-forge/reducer-feedstock.git
 	path = feedstocks/reducer
 	branch = refs/heads/master
+[submodule "otmixmod"]
+	url = https://github.com/conda-forge/otmixmod-feedstock.git
+	path = feedstocks/otmixmod
+	branch = refs/heads/master
