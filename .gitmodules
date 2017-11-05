@@ -13674,3 +13674,7 @@
 	url = https://github.com/conda-forge/tsfresh-feedstock.git
 	path = feedstocks/tsfresh
 	branch = refs/heads/master
+[submodule "pyautogui"]
+	url = https://github.com/conda-forge/pyautogui-feedstock.git
+	path = feedstocks/pyautogui
+	branch = refs/heads/master
