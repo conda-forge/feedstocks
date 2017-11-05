@@ -13670,3 +13670,7 @@
 	url = https://github.com/conda-forge/otmixmod-feedstock.git
 	path = feedstocks/otmixmod
 	branch = refs/heads/master
+[submodule "tsfresh"]
+	url = https://github.com/conda-forge/tsfresh-feedstock.git
+	path = feedstocks/tsfresh
+	branch = refs/heads/master
