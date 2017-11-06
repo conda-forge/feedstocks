@@ -13682,3 +13682,7 @@
 	url = https://github.com/conda-forge/mysql-feedstock.git
 	path = feedstocks/mysql
 	branch = refs/heads/master
+[submodule "xmlschema"]
+	url = https://github.com/conda-forge/xmlschema-feedstock.git
+	path = feedstocks/xmlschema
+	branch = refs/heads/master
