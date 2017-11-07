@@ -13694,3 +13694,7 @@
 	url = https://github.com/conda-forge/chart.js-feedstock.git
 	path = feedstocks/chart.js
 	branch = refs/heads/master
+[submodule "electron"]
+	url = https://github.com/conda-forge/electron-feedstock.git
+	path = feedstocks/electron
+	branch = refs/heads/master
