@@ -13698,3 +13698,7 @@
 	url = https://github.com/conda-forge/electron-feedstock.git
 	path = feedstocks/electron
 	branch = refs/heads/master
+[submodule "fs.sshfs"]
+	url = https://github.com/conda-forge/fs.sshfs-feedstock.git
+	path = feedstocks/fs.sshfs
+	branch = refs/heads/master
