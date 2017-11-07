@@ -13690,3 +13690,7 @@
 	url = https://github.com/conda-forge/deeplearnjs-feedstock.git
 	path = feedstocks/deeplearnjs
 	branch = refs/heads/master
+[submodule "chart.js"]
+	url = https://github.com/conda-forge/chart.js-feedstock.git
+	path = feedstocks/chart.js
+	branch = refs/heads/master
