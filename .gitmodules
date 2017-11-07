@@ -13702,3 +13702,7 @@
 	url = https://github.com/conda-forge/fs.sshfs-feedstock.git
 	path = feedstocks/fs.sshfs
 	branch = refs/heads/master
+[submodule "jquery-mobile"]
+	url = https://github.com/conda-forge/jquery-mobile-feedstock.git
+	path = feedstocks/jquery-mobile
+	branch = refs/heads/master
