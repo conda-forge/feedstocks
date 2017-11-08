@@ -13710,3 +13710,7 @@
 	url = https://github.com/conda-forge/phosphor-feedstock.git
 	path = feedstocks/phosphor
 	branch = refs/heads/master
+[submodule "flang-meta"]
+	url = https://github.com/conda-forge/flang-meta-feedstock.git
+	path = feedstocks/flang-meta
+	branch = refs/heads/master
