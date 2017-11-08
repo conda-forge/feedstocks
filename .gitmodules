@@ -13730,3 +13730,7 @@
 	url = https://github.com/conda-forge/c3-feedstock.git
 	path = feedstocks/c3
 	branch = refs/heads/master
+[submodule "r-spatialextremes"]
+	url = https://github.com/conda-forge/r-spatialextremes-feedstock.git
+	path = feedstocks/r-spatialextremes
+	branch = refs/heads/master
