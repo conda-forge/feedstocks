@@ -13726,3 +13726,7 @@
 	url = https://github.com/conda-forge/cspice-feedstock.git
 	path = feedstocks/cspice
 	branch = refs/heads/master
+[submodule "c3"]
+	url = https://github.com/conda-forge/c3-feedstock.git
+	path = feedstocks/c3
+	branch = refs/heads/master
