@@ -13718,3 +13718,7 @@
 	url = https://github.com/conda-forge/spiceypy-feedstock.git
 	path = feedstocks/spiceypy
 	branch = refs/heads/master
+[submodule "typescript"]
+	url = https://github.com/conda-forge/typescript-feedstock.git
+	path = feedstocks/typescript
+	branch = refs/heads/master
