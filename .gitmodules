@@ -13746,3 +13746,7 @@
 	url = https://github.com/conda-forge/flang-feedstock.git
 	path = feedstocks/flang
 	branch = refs/heads/master
+[submodule "moment"]
+	url = https://github.com/conda-forge/moment-feedstock.git
+	path = feedstocks/moment
+	branch = refs/heads/master
