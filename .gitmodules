@@ -13738,3 +13738,7 @@
 	url = https://github.com/conda-forge/jieba3k-feedstock.git
 	path = feedstocks/jieba3k
 	branch = refs/heads/master
+[submodule "feedfinder2"]
+	url = https://github.com/conda-forge/feedfinder2-feedstock.git
+	path = feedstocks/feedfinder2
+	branch = refs/heads/master
