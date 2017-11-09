@@ -13742,3 +13742,7 @@
 	url = https://github.com/conda-forge/feedfinder2-feedstock.git
 	path = feedstocks/feedfinder2
 	branch = refs/heads/master
+[submodule "flang"]
+	url = https://github.com/conda-forge/flang-feedstock.git
+	path = feedstocks/flang
+	branch = refs/heads/master
