@@ -13734,3 +13734,7 @@
 	url = https://github.com/conda-forge/r-spatialextremes-feedstock.git
 	path = feedstocks/r-spatialextremes
 	branch = refs/heads/master
+[submodule "jieba3k"]
+	url = https://github.com/conda-forge/jieba3k-feedstock.git
+	path = feedstocks/jieba3k
+	branch = refs/heads/master
