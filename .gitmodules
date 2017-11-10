@@ -13754,3 +13754,7 @@
 	url = https://github.com/conda-forge/cyminmax-feedstock.git
 	path = feedstocks/cyminmax
 	branch = refs/heads/master
+[submodule "pyuvdata"]
+	url = https://github.com/conda-forge/pyuvdata-feedstock.git
+	path = feedstocks/pyuvdata
+	branch = refs/heads/master
