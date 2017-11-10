@@ -13750,3 +13750,7 @@
 	url = https://github.com/conda-forge/moment-feedstock.git
 	path = feedstocks/moment
 	branch = refs/heads/master
+[submodule "cyminmax"]
+	url = https://github.com/conda-forge/cyminmax-feedstock.git
+	path = feedstocks/cyminmax
+	branch = refs/heads/master
