@@ -13770,3 +13770,7 @@
 	url = https://github.com/conda-forge/r-ini-feedstock.git
 	path = feedstocks/r-ini
 	branch = refs/heads/master
+[submodule "dask-drmaa"]
+	url = https://github.com/conda-forge/dask-drmaa-feedstock.git
+	path = feedstocks/dask-drmaa
+	branch = refs/heads/master
