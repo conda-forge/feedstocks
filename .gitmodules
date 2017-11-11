@@ -13766,3 +13766,7 @@
 	url = https://github.com/conda-forge/r-biwt-feedstock.git
 	path = feedstocks/r-biwt
 	branch = refs/heads/master
+[submodule "r-ini"]
+	url = https://github.com/conda-forge/r-ini-feedstock.git
+	path = feedstocks/r-ini
+	branch = refs/heads/master
