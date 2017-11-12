@@ -13774,3 +13774,7 @@
 	url = https://github.com/conda-forge/dask-drmaa-feedstock.git
 	path = feedstocks/dask-drmaa
 	branch = refs/heads/master
+[submodule "r-ascii"]
+	url = https://github.com/conda-forge/r-ascii-feedstock.git
+	path = feedstocks/r-ascii
+	branch = refs/heads/master
