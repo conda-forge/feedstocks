@@ -13782,3 +13782,7 @@
 	url = https://github.com/conda-forge/r-ffield-feedstock.git
 	path = feedstocks/r-ffield
 	branch = refs/heads/master
+[submodule "r-ggseqlogo"]
+	url = https://github.com/conda-forge/r-ggseqlogo-feedstock.git
+	path = feedstocks/r-ggseqlogo
+	branch = refs/heads/master
