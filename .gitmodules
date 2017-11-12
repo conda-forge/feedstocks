@@ -13798,3 +13798,7 @@
 	url = https://github.com/conda-forge/r-gh-feedstock.git
 	path = feedstocks/r-gh
 	branch = refs/heads/master
+[submodule "newspaper3k"]
+	url = https://github.com/conda-forge/newspaper3k-feedstock.git
+	path = feedstocks/newspaper3k
+	branch = refs/heads/master
