@@ -13778,3 +13778,7 @@
 	url = https://github.com/conda-forge/r-ascii-feedstock.git
 	path = feedstocks/r-ascii
 	branch = refs/heads/master
+[submodule "r-ffield"]
+	url = https://github.com/conda-forge/r-ffield-feedstock.git
+	path = feedstocks/r-ffield
+	branch = refs/heads/master
