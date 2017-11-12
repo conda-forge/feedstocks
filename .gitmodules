@@ -13794,3 +13794,7 @@
 	url = https://github.com/conda-forge/xdg-feedstock.git
 	path = feedstocks/xdg
 	branch = refs/heads/master
+[submodule "r-gh"]
+	url = https://github.com/conda-forge/r-gh-feedstock.git
+	path = feedstocks/r-gh
+	branch = refs/heads/master
