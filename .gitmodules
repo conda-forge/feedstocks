@@ -13790,3 +13790,7 @@
 	url = https://github.com/conda-forge/r-pbapply-feedstock.git
 	path = feedstocks/r-pbapply
 	branch = refs/heads/master
+[submodule "xdg"]
+	url = https://github.com/conda-forge/xdg-feedstock.git
+	path = feedstocks/xdg
+	branch = refs/heads/master
