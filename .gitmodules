@@ -13786,3 +13786,7 @@
 	url = https://github.com/conda-forge/r-ggseqlogo-feedstock.git
 	path = feedstocks/r-ggseqlogo
 	branch = refs/heads/master
+[submodule "r-pbapply"]
+	url = https://github.com/conda-forge/r-pbapply-feedstock.git
+	path = feedstocks/r-pbapply
+	branch = refs/heads/master
