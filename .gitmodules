@@ -13818,3 +13818,7 @@
 	url = https://github.com/conda-forge/r-uniqueatommat-feedstock.git
 	path = feedstocks/r-uniqueatommat
 	branch = refs/heads/master
+[submodule "popt"]
+	url = https://github.com/conda-forge/popt-feedstock.git
+	path = feedstocks/popt
+	branch = refs/heads/master
