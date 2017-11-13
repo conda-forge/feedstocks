@@ -13810,3 +13810,7 @@
 	url = https://github.com/conda-forge/tidy_headers-feedstock.git
 	path = feedstocks/tidy_headers
 	branch = refs/heads/master
+[submodule "pyalveo"]
+	url = https://github.com/conda-forge/pyalveo-feedstock.git
+	path = feedstocks/pyalveo
+	branch = refs/heads/master
