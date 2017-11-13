@@ -13826,3 +13826,7 @@
 	url = https://github.com/conda-forge/rsync-feedstock.git
 	path = feedstocks/rsync
 	branch = refs/heads/master
+[submodule "r-forestplot"]
+	url = https://github.com/conda-forge/r-forestplot-feedstock.git
+	path = feedstocks/r-forestplot
+	branch = refs/heads/master
