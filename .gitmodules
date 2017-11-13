@@ -13806,3 +13806,7 @@
 	url = https://github.com/conda-forge/pynwb-feedstock.git
 	path = feedstocks/pynwb
 	branch = refs/heads/master
+[submodule "tidy_headers"]
+	url = https://github.com/conda-forge/tidy_headers-feedstock.git
+	path = feedstocks/tidy_headers
+	branch = refs/heads/master
