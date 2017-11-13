@@ -13830,3 +13830,7 @@
 	url = https://github.com/conda-forge/r-forestplot-feedstock.git
 	path = feedstocks/r-forestplot
 	branch = refs/heads/master
+[submodule "r-tmb"]
+	url = https://github.com/conda-forge/r-tmb-feedstock.git
+	path = feedstocks/r-tmb
+	branch = refs/heads/master
