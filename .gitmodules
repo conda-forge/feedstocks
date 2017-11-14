@@ -13862,3 +13862,7 @@
 	url = https://github.com/conda-forge/r-rmpfr-feedstock.git
 	path = feedstocks/r-rmpfr
 	branch = refs/heads/master
+[submodule "r-waterml"]
+	url = https://github.com/conda-forge/r-waterml-feedstock.git
+	path = feedstocks/r-waterml
+	branch = refs/heads/master
