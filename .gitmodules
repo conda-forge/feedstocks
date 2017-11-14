@@ -13834,3 +13834,7 @@
 	url = https://github.com/conda-forge/r-tmb-feedstock.git
 	path = feedstocks/r-tmb
 	branch = refs/heads/master
+[submodule "xtensor-fftw"]
+	url = https://github.com/conda-forge/xtensor-fftw-feedstock.git
+	path = feedstocks/xtensor-fftw
+	branch = refs/heads/master
