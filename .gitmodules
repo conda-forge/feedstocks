@@ -13838,3 +13838,7 @@
 	url = https://github.com/conda-forge/xtensor-fftw-feedstock.git
 	path = feedstocks/xtensor-fftw
 	branch = refs/heads/master
+[submodule "appmode"]
+	url = https://github.com/conda-forge/appmode-feedstock.git
+	path = feedstocks/appmode
+	branch = refs/heads/master
