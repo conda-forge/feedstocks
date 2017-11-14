@@ -13854,3 +13854,7 @@
 	url = https://github.com/conda-forge/r-soildb-feedstock.git
 	path = feedstocks/r-soildb
 	branch = refs/heads/master
+[submodule "libpcap"]
+	url = https://github.com/conda-forge/libpcap-feedstock.git
+	path = feedstocks/libpcap
+	branch = refs/heads/master
