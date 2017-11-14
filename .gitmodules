@@ -13842,3 +13842,7 @@
 	url = https://github.com/conda-forge/appmode-feedstock.git
 	path = feedstocks/appmode
 	branch = refs/heads/master
+[submodule "flask-excel"]
+	url = https://github.com/conda-forge/flask-excel-feedstock.git
+	path = feedstocks/flask-excel
+	branch = refs/heads/master
