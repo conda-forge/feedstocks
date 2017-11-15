@@ -13878,3 +13878,7 @@
 	url = https://github.com/conda-forge/mypy-feedstock.git
 	path = feedstocks/mypy
 	branch = refs/heads/master
+[submodule "r-minicran"]
+	url = https://github.com/conda-forge/r-minicran-feedstock.git
+	path = feedstocks/r-minicran
+	branch = refs/heads/master
