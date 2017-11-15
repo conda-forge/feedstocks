@@ -13886,3 +13886,7 @@
 	url = https://github.com/conda-forge/r-rpostgresql-feedstock.git
 	path = feedstocks/r-rpostgresql
 	branch = refs/heads/master
+[submodule "r-laeken"]
+	url = https://github.com/conda-forge/r-laeken-feedstock.git
+	path = feedstocks/r-laeken
+	branch = refs/heads/master
