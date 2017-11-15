@@ -13866,3 +13866,7 @@
 	url = https://github.com/conda-forge/r-waterml-feedstock.git
 	path = feedstocks/r-waterml
 	branch = refs/heads/master
+[submodule "bashlex"]
+	url = https://github.com/conda-forge/bashlex-feedstock.git
+	path = feedstocks/bashlex
+	branch = refs/heads/master
