@@ -13894,3 +13894,7 @@
 	url = https://github.com/conda-forge/pivottable-feedstock.git
 	path = feedstocks/pivottable
 	branch = refs/heads/master
+[submodule "r-rgeos"]
+	url = https://github.com/conda-forge/r-rgeos-feedstock.git
+	path = feedstocks/r-rgeos
+	branch = refs/heads/master
