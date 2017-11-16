@@ -13922,3 +13922,7 @@
 	url = https://github.com/conda-forge/r-metap-feedstock.git
 	path = feedstocks/r-metap
 	branch = refs/heads/master
+[submodule "enaml"]
+	url = https://github.com/conda-forge/enaml-feedstock.git
+	path = feedstocks/enaml
+	branch = refs/heads/master
