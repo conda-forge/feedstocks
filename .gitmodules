@@ -13898,3 +13898,7 @@
 	url = https://github.com/conda-forge/r-rgeos-feedstock.git
 	path = feedstocks/r-rgeos
 	branch = refs/heads/master
+[submodule "pymdwizard"]
+	url = https://github.com/conda-forge/pymdwizard-feedstock.git
+	path = feedstocks/pymdwizard
+	branch = refs/heads/master
