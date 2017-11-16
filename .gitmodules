@@ -13918,3 +13918,7 @@
 	url = https://github.com/conda-forge/r-htmlutils-feedstock.git
 	path = feedstocks/r-htmlutils
 	branch = refs/heads/master
+[submodule "r-metap"]
+	url = https://github.com/conda-forge/r-metap-feedstock.git
+	path = feedstocks/r-metap
+	branch = refs/heads/master
