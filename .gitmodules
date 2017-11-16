@@ -13910,3 +13910,7 @@
 	url = https://github.com/conda-forge/jupyter_pivottablejs-feedstock.git
 	path = feedstocks/jupyter_pivottablejs
 	branch = refs/heads/master
+[submodule "r-gsa"]
+	url = https://github.com/conda-forge/r-gsa-feedstock.git
+	path = feedstocks/r-gsa
+	branch = refs/heads/master
