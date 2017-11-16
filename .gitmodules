@@ -13914,3 +13914,7 @@
 	url = https://github.com/conda-forge/r-gsa-feedstock.git
 	path = feedstocks/r-gsa
 	branch = refs/heads/master
+[submodule "r-htmlutils"]
+	url = https://github.com/conda-forge/r-htmlutils-feedstock.git
+	path = feedstocks/r-htmlutils
+	branch = refs/heads/master
