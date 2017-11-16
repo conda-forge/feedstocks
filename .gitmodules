@@ -13906,3 +13906,7 @@
 	url = https://github.com/conda-forge/ag-grid-feedstock.git
 	path = feedstocks/ag-grid
 	branch = refs/heads/master
+[submodule "jupyter_pivottablejs"]
+	url = https://github.com/conda-forge/jupyter_pivottablejs-feedstock.git
+	path = feedstocks/jupyter_pivottablejs
+	branch = refs/heads/master
