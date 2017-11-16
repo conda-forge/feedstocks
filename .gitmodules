@@ -13890,3 +13890,7 @@
 	url = https://github.com/conda-forge/r-laeken-feedstock.git
 	path = feedstocks/r-laeken
 	branch = refs/heads/master
+[submodule "pivottable"]
+	url = https://github.com/conda-forge/pivottable-feedstock.git
+	path = feedstocks/pivottable
+	branch = refs/heads/master
