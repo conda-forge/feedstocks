@@ -13902,3 +13902,7 @@
 	url = https://github.com/conda-forge/pymdwizard-feedstock.git
 	path = feedstocks/pymdwizard
 	branch = refs/heads/master
+[submodule "ag-grid"]
+	url = https://github.com/conda-forge/ag-grid-feedstock.git
+	path = feedstocks/ag-grid
+	branch = refs/heads/master
