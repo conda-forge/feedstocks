@@ -13926,3 +13926,7 @@
 	url = https://github.com/conda-forge/enaml-feedstock.git
 	path = feedstocks/enaml
 	branch = refs/heads/master
+[submodule "drms"]
+	url = https://github.com/conda-forge/drms-feedstock.git
+	path = feedstocks/drms
+	branch = refs/heads/master
