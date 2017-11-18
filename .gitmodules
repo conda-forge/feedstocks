@@ -13946,3 +13946,7 @@
 	url = https://github.com/conda-forge/pandas_ml-feedstock.git
 	path = feedstocks/pandas_ml
 	branch = refs/heads/master
+[submodule "google-api-core"]
+	url = https://github.com/conda-forge/google-api-core-feedstock.git
+	path = feedstocks/google-api-core
+	branch = refs/heads/master
