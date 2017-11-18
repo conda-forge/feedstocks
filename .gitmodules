@@ -13938,3 +13938,7 @@
 	url = https://github.com/conda-forge/async-feedstock.git
 	path = feedstocks/async
 	branch = refs/heads/master
+[submodule "gsd"]
+	url = https://github.com/conda-forge/gsd-feedstock.git
+	path = feedstocks/gsd
+	branch = refs/heads/master
