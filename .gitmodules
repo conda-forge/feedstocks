@@ -13942,3 +13942,7 @@
 	url = https://github.com/conda-forge/gsd-feedstock.git
 	path = feedstocks/gsd
 	branch = refs/heads/master
+[submodule "pandas_ml"]
+	url = https://github.com/conda-forge/pandas_ml-feedstock.git
+	path = feedstocks/pandas_ml
+	branch = refs/heads/master
