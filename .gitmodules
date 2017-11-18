@@ -13934,3 +13934,7 @@
 	url = https://github.com/conda-forge/libcroco-feedstock.git
 	path = feedstocks/libcroco
 	branch = refs/heads/master
+[submodule "async"]
+	url = https://github.com/conda-forge/async-feedstock.git
+	path = feedstocks/async
+	branch = refs/heads/master
