@@ -13950,3 +13950,7 @@
 	url = https://github.com/conda-forge/google-api-core-feedstock.git
 	path = feedstocks/google-api-core
 	branch = refs/heads/master
+[submodule "sphinx-autodoc-typehints"]
+	url = https://github.com/conda-forge/sphinx-autodoc-typehints-feedstock.git
+	path = feedstocks/sphinx-autodoc-typehints
+	branch = refs/heads/master
