@@ -13974,3 +13974,7 @@
 	url = https://github.com/conda-forge/h5pickle-feedstock.git
 	path = feedstocks/h5pickle
 	branch = refs/heads/master
+[submodule "core-js"]
+	url = https://github.com/conda-forge/core-js-feedstock.git
+	path = feedstocks/core-js
+	branch = refs/heads/master
