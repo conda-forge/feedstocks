@@ -13958,3 +13958,7 @@
 	url = https://github.com/conda-forge/tensorboard-feedstock.git
 	path = feedstocks/tensorboard
 	branch = refs/heads/master
+[submodule "geotiff"]
+	url = https://github.com/conda-forge/geotiff-feedstock.git
+	path = feedstocks/geotiff
+	branch = refs/heads/master
