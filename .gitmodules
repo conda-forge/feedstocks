@@ -13966,3 +13966,7 @@
 	url = https://github.com/conda-forge/bintrees-feedstock.git
 	path = feedstocks/bintrees
 	branch = refs/heads/master
+[submodule "mypy_extensions"]
+	url = https://github.com/conda-forge/mypy_extensions-feedstock.git
+	path = feedstocks/mypy_extensions
+	branch = refs/heads/master
