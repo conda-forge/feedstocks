@@ -13970,3 +13970,7 @@
 	url = https://github.com/conda-forge/mypy_extensions-feedstock.git
 	path = feedstocks/mypy_extensions
 	branch = refs/heads/master
+[submodule "h5pickle"]
+	url = https://github.com/conda-forge/h5pickle-feedstock.git
+	path = feedstocks/h5pickle
+	branch = refs/heads/master
