@@ -13998,3 +13998,7 @@
 	url = https://github.com/conda-forge/r-sgeostat-feedstock.git
 	path = feedstocks/r-sgeostat
 	branch = refs/heads/master
+[submodule "parmetis"]
+	url = https://github.com/conda-forge/parmetis-feedstock.git
+	path = feedstocks/parmetis
+	branch = refs/heads/master
