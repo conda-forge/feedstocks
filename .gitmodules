@@ -13978,3 +13978,7 @@
 	url = https://github.com/conda-forge/core-js-feedstock.git
 	path = feedstocks/core-js
 	branch = refs/heads/master
+[submodule "assertpy"]
+	url = https://github.com/conda-forge/assertpy-feedstock.git
+	path = feedstocks/assertpy
+	branch = refs/heads/master
