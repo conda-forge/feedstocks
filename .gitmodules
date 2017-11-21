@@ -13986,3 +13986,7 @@
 	url = https://github.com/conda-forge/serpy-feedstock.git
 	path = feedstocks/serpy
 	branch = refs/heads/master
+[submodule "toastedmarshmallow"]
+	url = https://github.com/conda-forge/toastedmarshmallow-feedstock.git
+	path = feedstocks/toastedmarshmallow
+	branch = refs/heads/master
