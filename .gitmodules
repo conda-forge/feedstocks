@@ -13990,3 +13990,7 @@
 	url = https://github.com/conda-forge/toastedmarshmallow-feedstock.git
 	path = feedstocks/toastedmarshmallow
 	branch = refs/heads/master
+[submodule "r-rmeta"]
+	url = https://github.com/conda-forge/r-rmeta-feedstock.git
+	path = feedstocks/r-rmeta
+	branch = refs/heads/master
