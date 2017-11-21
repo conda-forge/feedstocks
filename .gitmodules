@@ -13982,3 +13982,7 @@
 	url = https://github.com/conda-forge/assertpy-feedstock.git
 	path = feedstocks/assertpy
 	branch = refs/heads/master
+[submodule "serpy"]
+	url = https://github.com/conda-forge/serpy-feedstock.git
+	path = feedstocks/serpy
+	branch = refs/heads/master
