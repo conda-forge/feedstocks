@@ -13994,3 +13994,7 @@
 	url = https://github.com/conda-forge/r-rmeta-feedstock.git
 	path = feedstocks/r-rmeta
 	branch = refs/heads/master
+[submodule "r-sgeostat"]
+	url = https://github.com/conda-forge/r-sgeostat-feedstock.git
+	path = feedstocks/r-sgeostat
+	branch = refs/heads/master
