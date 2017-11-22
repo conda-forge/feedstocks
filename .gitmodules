@@ -14022,3 +14022,7 @@
 	url = https://github.com/conda-forge/larray-editor-feedstock.git
 	path = feedstocks/larray-editor
 	branch = refs/heads/master
+[submodule "patool"]
+	url = https://github.com/conda-forge/patool-feedstock.git
+	path = feedstocks/patool
+	branch = refs/heads/master
