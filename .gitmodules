@@ -14010,3 +14010,7 @@
 	url = https://github.com/conda-forge/graphql-js-feedstock.git
 	path = feedstocks/graphql-js
 	branch = refs/heads/master
+[submodule "preact"]
+	url = https://github.com/conda-forge/preact-feedstock.git
+	path = feedstocks/preact
+	branch = refs/heads/master
