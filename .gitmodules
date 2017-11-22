@@ -14014,3 +14014,7 @@
 	url = https://github.com/conda-forge/preact-feedstock.git
 	path = feedstocks/preact
 	branch = refs/heads/master
+[submodule "redux"]
+	url = https://github.com/conda-forge/redux-feedstock.git
+	path = feedstocks/redux
+	branch = refs/heads/master
