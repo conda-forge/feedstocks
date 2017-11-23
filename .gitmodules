@@ -14038,3 +14038,7 @@
 	url = https://github.com/conda-forge/request-feedstock.git
 	path = feedstocks/request
 	branch = refs/heads/master
+[submodule "pykep"]
+	url = https://github.com/conda-forge/pykep-feedstock.git
+	path = feedstocks/pykep
+	branch = refs/heads/master
