@@ -14034,3 +14034,7 @@
 	url = https://github.com/conda-forge/grunt-feedstock.git
 	path = feedstocks/grunt
 	branch = refs/heads/master
+[submodule "request"]
+	url = https://github.com/conda-forge/request-feedstock.git
+	path = feedstocks/request
+	branch = refs/heads/master
