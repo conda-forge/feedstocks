@@ -14050,3 +14050,7 @@
 	url = https://github.com/conda-forge/r-sigclust-feedstock.git
 	path = feedstocks/r-sigclust
 	branch = refs/heads/master
+[submodule "onnx-tf"]
+	url = https://github.com/conda-forge/onnx-tf-feedstock.git
+	path = feedstocks/onnx-tf
+	branch = refs/heads/master
