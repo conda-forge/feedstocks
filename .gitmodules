@@ -14042,3 +14042,7 @@
 	url = https://github.com/conda-forge/pykep-feedstock.git
 	path = feedstocks/pykep
 	branch = refs/heads/master
+[submodule "onnx"]
+	url = https://github.com/conda-forge/onnx-feedstock.git
+	path = feedstocks/onnx
+	branch = refs/heads/master
