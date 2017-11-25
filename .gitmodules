@@ -14054,3 +14054,7 @@
 	url = https://github.com/conda-forge/onnx-tf-feedstock.git
 	path = feedstocks/onnx-tf
 	branch = refs/heads/master
+[submodule "reprounzip-qt"]
+	url = https://github.com/conda-forge/reprounzip-qt-feedstock.git
+	path = feedstocks/reprounzip-qt
+	branch = refs/heads/master
