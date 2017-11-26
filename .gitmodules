@@ -14062,3 +14062,7 @@
 	url = https://github.com/conda-forge/reprozip-jupyter-feedstock.git
 	path = feedstocks/reprozip-jupyter
 	branch = refs/heads/master
+[submodule "xonda"]
+	url = https://github.com/conda-forge/xonda-feedstock.git
+	path = feedstocks/xonda
+	branch = refs/heads/master
