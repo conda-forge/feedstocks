@@ -14058,3 +14058,7 @@
 	url = https://github.com/conda-forge/reprounzip-qt-feedstock.git
 	path = feedstocks/reprounzip-qt
 	branch = refs/heads/master
+[submodule "reprozip-jupyter"]
+	url = https://github.com/conda-forge/reprozip-jupyter-feedstock.git
+	path = feedstocks/reprozip-jupyter
+	branch = refs/heads/master
