@@ -14066,3 +14066,7 @@
 	url = https://github.com/conda-forge/xonda-feedstock.git
 	path = feedstocks/xonda
 	branch = refs/heads/master
+[submodule "jupyter_enterprise_gateway"]
+	url = https://github.com/conda-forge/jupyter_enterprise_gateway-feedstock.git
+	path = feedstocks/jupyter_enterprise_gateway
+	branch = refs/heads/master
