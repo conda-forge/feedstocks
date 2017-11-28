@@ -14082,3 +14082,7 @@
 	url = https://github.com/conda-forge/r-akima-feedstock.git
 	path = feedstocks/r-akima
 	branch = refs/heads/master
+[submodule "rxcpp"]
+	url = https://github.com/conda-forge/rxcpp-feedstock.git
+	path = feedstocks/rxcpp
+	branch = refs/heads/master
