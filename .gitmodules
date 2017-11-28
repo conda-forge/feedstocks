@@ -14078,3 +14078,7 @@
 	url = https://github.com/conda-forge/multinest-feedstock.git
 	path = feedstocks/multinest
 	branch = refs/heads/master
+[submodule "r-akima"]
+	url = https://github.com/conda-forge/r-akima-feedstock.git
+	path = feedstocks/r-akima
+	branch = refs/heads/master
