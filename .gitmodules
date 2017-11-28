@@ -14074,3 +14074,7 @@
 	url = https://github.com/conda-forge/handsontable-feedstock.git
 	path = feedstocks/handsontable
 	branch = refs/heads/master
+[submodule "multinest"]
+	url = https://github.com/conda-forge/multinest-feedstock.git
+	path = feedstocks/multinest
+	branch = refs/heads/master
