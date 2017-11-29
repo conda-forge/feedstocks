@@ -14090,3 +14090,7 @@
 	url = https://github.com/conda-forge/chalk-feedstock.git
 	path = feedstocks/chalk
 	branch = refs/heads/master
+[submodule "bootstrap"]
+	url = https://github.com/conda-forge/bootstrap-feedstock.git
+	path = feedstocks/bootstrap
+	branch = refs/heads/master
