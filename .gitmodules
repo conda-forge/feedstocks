@@ -14094,3 +14094,7 @@
 	url = https://github.com/conda-forge/bootstrap-feedstock.git
 	path = feedstocks/bootstrap
 	branch = refs/heads/master
+[submodule "nltk_data"]
+	url = https://github.com/conda-forge/nltk_data-feedstock.git
+	path = feedstocks/nltk_data
+	branch = refs/heads/master
