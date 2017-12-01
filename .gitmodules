@@ -14118,3 +14118,7 @@
 	url = https://github.com/conda-forge/pytest-ignore-flaky-feedstock.git
 	path = feedstocks/pytest-ignore-flaky
 	branch = refs/heads/master
+[submodule "flask-compress"]
+	url = https://github.com/conda-forge/flask-compress-feedstock.git
+	path = feedstocks/flask-compress
+	branch = refs/heads/master
