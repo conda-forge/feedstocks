@@ -14114,3 +14114,7 @@
 	url = https://github.com/conda-forge/onnx-caffe2-feedstock.git
 	path = feedstocks/onnx-caffe2
 	branch = refs/heads/master
+[submodule "pytest-ignore-flaky"]
+	url = https://github.com/conda-forge/pytest-ignore-flaky-feedstock.git
+	path = feedstocks/pytest-ignore-flaky
+	branch = refs/heads/master
