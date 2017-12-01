@@ -14134,3 +14134,7 @@
 	url = https://github.com/conda-forge/r-clustergeneration-feedstock.git
 	path = feedstocks/r-clustergeneration
 	branch = refs/heads/master
+[submodule "smif"]
+	url = https://github.com/conda-forge/smif-feedstock.git
+	path = feedstocks/smif
+	branch = refs/heads/master
