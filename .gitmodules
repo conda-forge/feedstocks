@@ -14130,3 +14130,7 @@
 	url = https://github.com/conda-forge/r-wesanderson-feedstock.git
 	path = feedstocks/r-wesanderson
 	branch = refs/heads/master
+[submodule "r-clustergeneration"]
+	url = https://github.com/conda-forge/r-clustergeneration-feedstock.git
+	path = feedstocks/r-clustergeneration
+	branch = refs/heads/master
