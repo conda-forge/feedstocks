@@ -14126,3 +14126,7 @@
 	url = https://github.com/conda-forge/pydot-feedstock.git
 	path = feedstocks/pydot
 	branch = refs/heads/master
+[submodule "r-wesanderson"]
+	url = https://github.com/conda-forge/r-wesanderson-feedstock.git
+	path = feedstocks/r-wesanderson
+	branch = refs/heads/master
