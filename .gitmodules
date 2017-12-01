@@ -14106,3 +14106,7 @@
 	url = https://github.com/conda-forge/pyepics-feedstock.git
 	path = feedstocks/pyepics
 	branch = refs/heads/master
+[submodule "ophyd"]
+	url = https://github.com/conda-forge/ophyd-feedstock.git
+	path = feedstocks/ophyd
+	branch = refs/heads/master
