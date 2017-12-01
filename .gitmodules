@@ -14110,3 +14110,7 @@
 	url = https://github.com/conda-forge/ophyd-feedstock.git
 	path = feedstocks/ophyd
 	branch = refs/heads/master
+[submodule "onnx-caffe2"]
+	url = https://github.com/conda-forge/onnx-caffe2-feedstock.git
+	path = feedstocks/onnx-caffe2
+	branch = refs/heads/master
