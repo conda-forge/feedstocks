@@ -14102,3 +14102,7 @@
 	url = https://github.com/conda-forge/vaex-viz-feedstock.git
 	path = feedstocks/vaex-viz
 	branch = refs/heads/master
+[submodule "pyepics"]
+	url = https://github.com/conda-forge/pyepics-feedstock.git
+	path = feedstocks/pyepics
+	branch = refs/heads/master
