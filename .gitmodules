@@ -14138,3 +14138,7 @@
 	url = https://github.com/conda-forge/smif-feedstock.git
 	path = feedstocks/smif
 	branch = refs/heads/master
+[submodule "r-animation"]
+	url = https://github.com/conda-forge/r-animation-feedstock.git
+	path = feedstocks/r-animation
+	branch = refs/heads/master
