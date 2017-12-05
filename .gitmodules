@@ -14142,3 +14142,7 @@
 	url = https://github.com/conda-forge/r-animation-feedstock.git
 	path = feedstocks/r-animation
 	branch = refs/heads/master
+[submodule "r-skat"]
+	url = https://github.com/conda-forge/r-skat-feedstock.git
+	path = feedstocks/r-skat
+	branch = refs/heads/master
