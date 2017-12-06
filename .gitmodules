@@ -14170,3 +14170,7 @@
 	url = https://github.com/conda-forge/r-rspectra-feedstock.git
 	path = feedstocks/r-rspectra
 	branch = refs/heads/master
+[submodule "r-splus2r"]
+	url = https://github.com/conda-forge/r-splus2r-feedstock.git
+	path = feedstocks/r-splus2r
+	branch = refs/heads/master
