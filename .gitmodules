@@ -14146,3 +14146,7 @@
 	url = https://github.com/conda-forge/r-skat-feedstock.git
 	path = feedstocks/r-skat
 	branch = refs/heads/master
+[submodule "batman"]
+	url = https://github.com/conda-forge/batman-feedstock.git
+	path = feedstocks/batman
+	branch = refs/heads/master
