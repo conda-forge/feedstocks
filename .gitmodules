@@ -14150,3 +14150,7 @@
 	url = https://github.com/conda-forge/batman-feedstock.git
 	path = feedstocks/batman
 	branch = refs/heads/master
+[submodule "fann2"]
+	url = https://github.com/conda-forge/fann2-feedstock.git
+	path = feedstocks/fann2
+	branch = refs/heads/master
