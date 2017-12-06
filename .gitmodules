@@ -14162,3 +14162,7 @@
 	url = https://github.com/conda-forge/pymultinest-feedstock.git
 	path = feedstocks/pymultinest
 	branch = refs/heads/master
+[submodule "r-gee"]
+	url = https://github.com/conda-forge/r-gee-feedstock.git
+	path = feedstocks/r-gee
+	branch = refs/heads/master
