@@ -14166,3 +14166,7 @@
 	url = https://github.com/conda-forge/r-gee-feedstock.git
 	path = feedstocks/r-gee
 	branch = refs/heads/master
+[submodule "r-rspectra"]
+	url = https://github.com/conda-forge/r-rspectra-feedstock.git
+	path = feedstocks/r-rspectra
+	branch = refs/heads/master
