@@ -14154,3 +14154,7 @@
 	url = https://github.com/conda-forge/fann2-feedstock.git
 	path = feedstocks/fann2
 	branch = refs/heads/master
+[submodule "fmpy"]
+	url = https://github.com/conda-forge/fmpy-feedstock.git
+	path = feedstocks/fmpy
+	branch = refs/heads/master
