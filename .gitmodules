@@ -14210,3 +14210,7 @@
 	url = https://github.com/conda-forge/pimsviewer-feedstock.git
 	path = feedstocks/pimsviewer
 	branch = refs/heads/master
+[submodule "r-getpass"]
+	url = https://github.com/conda-forge/r-getpass-feedstock.git
+	path = feedstocks/r-getpass
+	branch = refs/heads/master
