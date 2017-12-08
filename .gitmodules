@@ -14218,3 +14218,7 @@
 	url = https://github.com/conda-forge/r-ifultools-feedstock.git
 	path = feedstocks/r-ifultools
 	branch = refs/heads/master
+[submodule "r-prettydoc"]
+	url = https://github.com/conda-forge/r-prettydoc-feedstock.git
+	path = feedstocks/r-prettydoc
+	branch = refs/heads/master
