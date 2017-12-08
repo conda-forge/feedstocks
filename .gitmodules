@@ -14190,3 +14190,7 @@
 	url = https://github.com/conda-forge/r-bootstrap-feedstock.git
 	path = feedstocks/r-bootstrap
 	branch = refs/heads/master
+[submodule "r-rjags"]
+	url = https://github.com/conda-forge/r-rjags-feedstock.git
+	path = feedstocks/r-rjags
+	branch = refs/heads/master
