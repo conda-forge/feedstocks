@@ -14222,3 +14222,7 @@
 	url = https://github.com/conda-forge/r-prettydoc-feedstock.git
 	path = feedstocks/r-prettydoc
 	branch = refs/heads/master
+[submodule "fortranformat"]
+	url = https://github.com/conda-forge/fortranformat-feedstock.git
+	path = feedstocks/fortranformat
+	branch = refs/heads/master
