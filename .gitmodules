@@ -14202,3 +14202,7 @@
 	url = https://github.com/conda-forge/gitea-feedstock.git
 	path = feedstocks/gitea
 	branch = refs/heads/master
+[submodule "macfsevents"]
+	url = https://github.com/conda-forge/macfsevents-feedstock.git
+	path = feedstocks/macfsevents
+	branch = refs/heads/master
