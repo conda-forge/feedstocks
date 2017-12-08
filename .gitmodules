@@ -14186,3 +14186,7 @@
 	url = https://github.com/conda-forge/whitebox_tools-feedstock.git
 	path = feedstocks/whitebox_tools
 	branch = refs/heads/master
+[submodule "r-bootstrap"]
+	url = https://github.com/conda-forge/r-bootstrap-feedstock.git
+	path = feedstocks/r-bootstrap
+	branch = refs/heads/master
