@@ -14198,3 +14198,7 @@
 	url = https://github.com/conda-forge/r-survivalroc-feedstock.git
 	path = feedstocks/r-survivalroc
 	branch = refs/heads/master
+[submodule "gitea"]
+	url = https://github.com/conda-forge/gitea-feedstock.git
+	path = feedstocks/gitea
+	branch = refs/heads/master
