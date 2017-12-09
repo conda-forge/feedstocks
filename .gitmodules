@@ -14226,3 +14226,7 @@
 	url = https://github.com/conda-forge/fortranformat-feedstock.git
 	path = feedstocks/fortranformat
 	branch = refs/heads/master
+[submodule "nasm"]
+	url = https://github.com/conda-forge/nasm-feedstock.git
+	path = feedstocks/nasm
+	branch = refs/heads/master
