@@ -14234,3 +14234,7 @@
 	url = https://github.com/conda-forge/r-rarpack-feedstock.git
 	path = feedstocks/r-rarpack
 	branch = refs/heads/master
+[submodule "pydsd"]
+	url = https://github.com/conda-forge/pydsd-feedstock.git
+	path = feedstocks/pydsd
+	branch = refs/heads/master
