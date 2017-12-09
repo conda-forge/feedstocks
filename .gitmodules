@@ -14230,3 +14230,7 @@
 	url = https://github.com/conda-forge/nasm-feedstock.git
 	path = feedstocks/nasm
 	branch = refs/heads/master
+[submodule "r-rarpack"]
+	url = https://github.com/conda-forge/r-rarpack-feedstock.git
+	path = feedstocks/r-rarpack
+	branch = refs/heads/master
