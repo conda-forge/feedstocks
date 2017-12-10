@@ -14266,3 +14266,7 @@
 	url = https://github.com/conda-forge/r-survmisc-feedstock.git
 	path = feedstocks/r-survmisc
 	branch = refs/heads/master
+[submodule "lighttpd"]
+	url = https://github.com/conda-forge/lighttpd-feedstock.git
+	path = feedstocks/lighttpd
+	branch = refs/heads/master
