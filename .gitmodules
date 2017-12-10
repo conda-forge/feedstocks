@@ -14242,3 +14242,7 @@
 	url = https://github.com/conda-forge/r-vcd-feedstock.git
 	path = feedstocks/r-vcd
 	branch = refs/heads/master
+[submodule "r-party"]
+	url = https://github.com/conda-forge/r-party-feedstock.git
+	path = feedstocks/r-party
+	branch = refs/heads/master
