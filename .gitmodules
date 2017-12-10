@@ -14250,3 +14250,7 @@
 	url = https://github.com/conda-forge/r-sroc-feedstock.git
 	path = feedstocks/r-sroc
 	branch = refs/heads/master
+[submodule "openquake.engine"]
+	url = https://github.com/conda-forge/openquake.engine-feedstock.git
+	path = feedstocks/openquake.engine
+	branch = refs/heads/master
