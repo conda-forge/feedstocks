@@ -14246,3 +14246,7 @@
 	url = https://github.com/conda-forge/r-party-feedstock.git
 	path = feedstocks/r-party
 	branch = refs/heads/master
+[submodule "r-sroc"]
+	url = https://github.com/conda-forge/r-sroc-feedstock.git
+	path = feedstocks/r-sroc
+	branch = refs/heads/master
