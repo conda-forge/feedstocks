@@ -14262,3 +14262,7 @@
 	url = https://github.com/conda-forge/r-cmprsk-feedstock.git
 	path = feedstocks/r-cmprsk
 	branch = refs/heads/master
+[submodule "r-survmisc"]
+	url = https://github.com/conda-forge/r-survmisc-feedstock.git
+	path = feedstocks/r-survmisc
+	branch = refs/heads/master
