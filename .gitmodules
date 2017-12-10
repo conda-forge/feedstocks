@@ -14258,3 +14258,7 @@
 	url = https://github.com/conda-forge/r-wmtsa-feedstock.git
 	path = feedstocks/r-wmtsa
 	branch = refs/heads/master
+[submodule "r-cmprsk"]
+	url = https://github.com/conda-forge/r-cmprsk-feedstock.git
+	path = feedstocks/r-cmprsk
+	branch = refs/heads/master
