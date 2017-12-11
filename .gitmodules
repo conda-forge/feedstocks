@@ -14302,3 +14302,7 @@
 	url = https://github.com/conda-forge/r-maxstat-feedstock.git
 	path = feedstocks/r-maxstat
 	branch = refs/heads/master
+[submodule "r-gridsvg"]
+	url = https://github.com/conda-forge/r-gridsvg-feedstock.git
+	path = feedstocks/r-gridsvg
+	branch = refs/heads/master
