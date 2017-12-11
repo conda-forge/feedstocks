@@ -14278,3 +14278,7 @@
 	url = https://github.com/conda-forge/antlr-python-runtime-feedstock.git
 	path = feedstocks/antlr-python-runtime
 	branch = refs/heads/master
+[submodule "conda-forge-pinning"]
+	url = https://github.com/conda-forge/conda-forge-pinning-feedstock.git
+	path = feedstocks/conda-forge-pinning
+	branch = refs/heads/master
