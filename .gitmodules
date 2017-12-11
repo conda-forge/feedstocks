@@ -14286,3 +14286,7 @@
 	url = https://github.com/conda-forge/parameterized-feedstock.git
 	path = feedstocks/parameterized
 	branch = refs/heads/master
+[submodule "pysnmp"]
+	url = https://github.com/conda-forge/pysnmp-feedstock.git
+	path = feedstocks/pysnmp
+	branch = refs/heads/master
