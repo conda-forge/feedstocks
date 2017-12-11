@@ -14270,3 +14270,7 @@
 	url = https://github.com/conda-forge/lighttpd-feedstock.git
 	path = feedstocks/lighttpd
 	branch = refs/heads/master
+[submodule "nodebook"]
+	url = https://github.com/conda-forge/nodebook-feedstock.git
+	path = feedstocks/nodebook
+	branch = refs/heads/master
