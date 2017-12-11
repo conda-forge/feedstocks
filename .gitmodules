@@ -14290,3 +14290,7 @@
 	url = https://github.com/conda-forge/pysnmp-feedstock.git
 	path = feedstocks/pysnmp
 	branch = refs/heads/master
+[submodule "flask-swagger-ui"]
+	url = https://github.com/conda-forge/flask-swagger-ui-feedstock.git
+	path = feedstocks/flask-swagger-ui
+	branch = refs/heads/master
