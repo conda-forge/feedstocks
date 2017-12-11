@@ -14282,3 +14282,7 @@
 	url = https://github.com/conda-forge/conda-forge-pinning-feedstock.git
 	path = feedstocks/conda-forge-pinning
 	branch = refs/heads/master
+[submodule "parameterized"]
+	url = https://github.com/conda-forge/parameterized-feedstock.git
+	path = feedstocks/parameterized
+	branch = refs/heads/master
