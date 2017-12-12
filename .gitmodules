@@ -14314,3 +14314,7 @@
 	url = https://github.com/conda-forge/llvmlite-feedstock.git
 	path = feedstocks/llvmlite
 	branch = refs/heads/master
+[submodule "py-fann2"]
+	url = https://github.com/conda-forge/py-fann2-feedstock.git
+	path = feedstocks/py-fann2
+	branch = refs/heads/master
