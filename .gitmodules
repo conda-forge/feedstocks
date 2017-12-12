@@ -14310,3 +14310,7 @@
 	url = https://github.com/conda-forge/r-tweenr-feedstock.git
 	path = feedstocks/r-tweenr
 	branch = refs/heads/master
+[submodule "llvmlite"]
+	url = https://github.com/conda-forge/llvmlite-feedstock.git
+	path = feedstocks/llvmlite
+	branch = refs/heads/master
