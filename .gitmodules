@@ -14326,3 +14326,7 @@
 	url = https://github.com/conda-forge/munkres-feedstock.git
 	path = feedstocks/munkres
 	branch = refs/heads/master
+[submodule "unicodedata2"]
+	url = https://github.com/conda-forge/unicodedata2-feedstock.git
+	path = feedstocks/unicodedata2
+	branch = refs/heads/master
