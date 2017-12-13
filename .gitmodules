@@ -14334,3 +14334,7 @@
 	url = https://github.com/conda-forge/r-doby-feedstock.git
 	path = feedstocks/r-doby
 	branch = refs/heads/master
+[submodule "r-ggforce"]
+	url = https://github.com/conda-forge/r-ggforce-feedstock.git
+	path = feedstocks/r-ggforce
+	branch = refs/heads/master
