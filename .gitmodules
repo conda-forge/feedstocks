@@ -14338,3 +14338,7 @@
 	url = https://github.com/conda-forge/r-ggforce-feedstock.git
 	path = feedstocks/r-ggforce
 	branch = refs/heads/master
+[submodule "gptools"]
+	url = https://github.com/conda-forge/gptools-feedstock.git
+	path = feedstocks/gptools
+	branch = refs/heads/master
