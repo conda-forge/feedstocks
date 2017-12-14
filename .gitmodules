@@ -14350,3 +14350,7 @@
 	url = https://github.com/conda-forge/sk-video-feedstock.git
 	path = feedstocks/sk-video
 	branch = refs/heads/master
+[submodule "pyttk"]
+	url = https://github.com/conda-forge/pyttk-feedstock.git
+	path = feedstocks/pyttk
+	branch = refs/heads/master
