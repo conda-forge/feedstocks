@@ -14346,3 +14346,7 @@
 	url = https://github.com/conda-forge/r-svmisc-feedstock.git
 	path = feedstocks/r-svmisc
 	branch = refs/heads/master
+[submodule "sk-video"]
+	url = https://github.com/conda-forge/sk-video-feedstock.git
+	path = feedstocks/sk-video
+	branch = refs/heads/master
