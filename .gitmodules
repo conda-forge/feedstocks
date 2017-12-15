@@ -14362,3 +14362,7 @@
 	url = https://github.com/conda-forge/pyunlocbox-feedstock.git
 	path = feedstocks/pyunlocbox
 	branch = refs/heads/master
+[submodule "fonttools"]
+	url = https://github.com/conda-forge/fonttools-feedstock.git
+	path = feedstocks/fonttools
+	branch = refs/heads/master
