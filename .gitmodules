@@ -14370,3 +14370,7 @@
 	url = https://github.com/conda-forge/omas-feedstock.git
 	path = feedstocks/omas
 	branch = refs/heads/master
+[submodule "pidly"]
+	url = https://github.com/conda-forge/pidly-feedstock.git
+	path = feedstocks/pidly
+	branch = refs/heads/master
