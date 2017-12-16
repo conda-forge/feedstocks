@@ -14374,3 +14374,7 @@
 	url = https://github.com/conda-forge/pidly-feedstock.git
 	path = feedstocks/pidly
 	branch = refs/heads/master
+[submodule "torchvision"]
+	url = https://github.com/conda-forge/torchvision-feedstock.git
+	path = feedstocks/torchvision
+	branch = refs/heads/master
