@@ -14382,3 +14382,7 @@
 	url = https://github.com/conda-forge/pygsp-feedstock.git
 	path = feedstocks/pygsp
 	branch = refs/heads/master
+[submodule "librsvg"]
+	url = https://github.com/conda-forge/librsvg-feedstock.git
+	path = feedstocks/librsvg
+	branch = refs/heads/master
