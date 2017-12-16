@@ -14378,3 +14378,7 @@
 	url = https://github.com/conda-forge/torchvision-feedstock.git
 	path = feedstocks/torchvision
 	branch = refs/heads/master
+[submodule "pygsp"]
+	url = https://github.com/conda-forge/pygsp-feedstock.git
+	path = feedstocks/pygsp
+	branch = refs/heads/master
