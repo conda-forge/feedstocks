@@ -14434,3 +14434,7 @@
 	url = https://github.com/conda-forge/r-rsvd-feedstock.git
 	path = feedstocks/r-rsvd
 	branch = refs/heads/master
+[submodule "r-snftool"]
+	url = https://github.com/conda-forge/r-snftool-feedstock.git
+	path = feedstocks/r-snftool
+	branch = refs/heads/master
