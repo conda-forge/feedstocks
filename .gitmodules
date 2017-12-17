@@ -14402,3 +14402,7 @@
 	url = https://github.com/conda-forge/r-genalg-feedstock.git
 	path = feedstocks/r-genalg
 	branch = refs/heads/master
+[submodule "r-ggraph"]
+	url = https://github.com/conda-forge/r-ggraph-feedstock.git
+	path = feedstocks/r-ggraph
+	branch = refs/heads/master
