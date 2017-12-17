@@ -14414,3 +14414,7 @@
 	url = https://github.com/conda-forge/r-liftr-feedstock.git
 	path = feedstocks/r-liftr
 	branch = refs/heads/master
+[submodule "r-plotroc"]
+	url = https://github.com/conda-forge/r-plotroc-feedstock.git
+	path = feedstocks/r-plotroc
+	branch = refs/heads/master
