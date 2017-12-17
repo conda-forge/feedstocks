@@ -14390,3 +14390,7 @@
 	url = https://github.com/conda-forge/pyemojify-feedstock.git
 	path = feedstocks/pyemojify
 	branch = refs/heads/master
+[submodule "rdkit"]
+	url = https://github.com/conda-forge/rdkit-feedstock.git
+	path = feedstocks/rdkit
+	branch = refs/heads/master
