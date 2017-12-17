@@ -14418,3 +14418,7 @@
 	url = https://github.com/conda-forge/r-plotroc-feedstock.git
 	path = feedstocks/r-plotroc
 	branch = refs/heads/master
+[submodule "r-ggcorrplot"]
+	url = https://github.com/conda-forge/r-ggcorrplot-feedstock.git
+	path = feedstocks/r-ggcorrplot
+	branch = refs/heads/master
