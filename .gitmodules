@@ -14438,3 +14438,7 @@
 	url = https://github.com/conda-forge/r-snftool-feedstock.git
 	path = feedstocks/r-snftool
 	branch = refs/heads/master
+[submodule "r-lava"]
+	url = https://github.com/conda-forge/r-lava-feedstock.git
+	path = feedstocks/r-lava
+	branch = refs/heads/master
