@@ -14410,3 +14410,7 @@
 	url = https://github.com/conda-forge/r-hsaur-feedstock.git
 	path = feedstocks/r-hsaur
 	branch = refs/heads/master
+[submodule "r-liftr"]
+	url = https://github.com/conda-forge/r-liftr-feedstock.git
+	path = feedstocks/r-liftr
+	branch = refs/heads/master
