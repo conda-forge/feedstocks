@@ -14422,3 +14422,7 @@
 	url = https://github.com/conda-forge/r-ggcorrplot-feedstock.git
 	path = feedstocks/r-ggcorrplot
 	branch = refs/heads/master
+[submodule "r-lpsolve"]
+	url = https://github.com/conda-forge/r-lpsolve-feedstock.git
+	path = feedstocks/r-lpsolve
+	branch = refs/heads/master
