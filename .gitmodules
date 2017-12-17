@@ -14430,3 +14430,7 @@
 	url = https://github.com/conda-forge/r-rknn-feedstock.git
 	path = feedstocks/r-rknn
 	branch = refs/heads/master
+[submodule "r-rsvd"]
+	url = https://github.com/conda-forge/r-rsvd-feedstock.git
+	path = feedstocks/r-rsvd
+	branch = refs/heads/master
