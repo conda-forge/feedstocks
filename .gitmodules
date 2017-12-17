@@ -14386,3 +14386,7 @@
 	url = https://github.com/conda-forge/librsvg-feedstock.git
 	path = feedstocks/librsvg
 	branch = refs/heads/master
+[submodule "pyemojify"]
+	url = https://github.com/conda-forge/pyemojify-feedstock.git
+	path = feedstocks/pyemojify
+	branch = refs/heads/master
