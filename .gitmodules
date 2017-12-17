@@ -14398,3 +14398,7 @@
 	url = https://github.com/conda-forge/root5-feedstock.git
 	path = feedstocks/root5
 	branch = refs/heads/master
+[submodule "r-genalg"]
+	url = https://github.com/conda-forge/r-genalg-feedstock.git
+	path = feedstocks/r-genalg
+	branch = refs/heads/master
