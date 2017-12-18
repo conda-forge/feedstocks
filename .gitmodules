@@ -14462,3 +14462,7 @@
 	url = https://github.com/conda-forge/r-chemometrics-feedstock.git
 	path = feedstocks/r-chemometrics
 	branch = refs/heads/master
+[submodule "r-ggpubr"]
+	url = https://github.com/conda-forge/r-ggpubr-feedstock.git
+	path = feedstocks/r-ggpubr
+	branch = refs/heads/master
