@@ -14474,3 +14474,7 @@
 	url = https://github.com/conda-forge/r-sampling-feedstock.git
 	path = feedstocks/r-sampling
 	branch = refs/heads/master
+[submodule "pygraphviz"]
+	url = https://github.com/conda-forge/pygraphviz-feedstock.git
+	path = feedstocks/pygraphviz
+	branch = refs/heads/master
