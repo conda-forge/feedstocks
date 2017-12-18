@@ -14454,3 +14454,7 @@
 	url = https://github.com/conda-forge/r-pls-feedstock.git
 	path = feedstocks/r-pls
 	branch = refs/heads/master
+[submodule "r-prodlim"]
+	url = https://github.com/conda-forge/r-prodlim-feedstock.git
+	path = feedstocks/r-prodlim
+	branch = refs/heads/master
