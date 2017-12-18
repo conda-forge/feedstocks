@@ -14450,3 +14450,7 @@
 	url = https://github.com/conda-forge/ppci-feedstock.git
 	path = feedstocks/ppci
 	branch = refs/heads/master
+[submodule "r-pls"]
+	url = https://github.com/conda-forge/r-pls-feedstock.git
+	path = feedstocks/r-pls
+	branch = refs/heads/master
