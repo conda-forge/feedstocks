@@ -14470,3 +14470,7 @@
 	url = https://github.com/conda-forge/r-ipred-feedstock.git
 	path = feedstocks/r-ipred
 	branch = refs/heads/master
+[submodule "r-sampling"]
+	url = https://github.com/conda-forge/r-sampling-feedstock.git
+	path = feedstocks/r-sampling
+	branch = refs/heads/master
