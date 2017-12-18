@@ -14442,3 +14442,7 @@
 	url = https://github.com/conda-forge/r-lava-feedstock.git
 	path = feedstocks/r-lava
 	branch = refs/heads/master
+[submodule "mdbenchmark"]
+	url = https://github.com/conda-forge/mdbenchmark-feedstock.git
+	path = feedstocks/mdbenchmark
+	branch = refs/heads/master
