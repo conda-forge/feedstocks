@@ -14446,3 +14446,7 @@
 	url = https://github.com/conda-forge/mdbenchmark-feedstock.git
 	path = feedstocks/mdbenchmark
 	branch = refs/heads/master
+[submodule "ppci"]
+	url = https://github.com/conda-forge/ppci-feedstock.git
+	path = feedstocks/ppci
+	branch = refs/heads/master
