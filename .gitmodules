@@ -14458,3 +14458,7 @@
 	url = https://github.com/conda-forge/r-prodlim-feedstock.git
 	path = feedstocks/r-prodlim
 	branch = refs/heads/master
+[submodule "r-chemometrics"]
+	url = https://github.com/conda-forge/r-chemometrics-feedstock.git
+	path = feedstocks/r-chemometrics
+	branch = refs/heads/master
