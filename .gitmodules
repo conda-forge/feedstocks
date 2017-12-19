@@ -14510,3 +14510,7 @@
 	url = https://github.com/conda-forge/r-entropy-feedstock.git
 	path = feedstocks/r-entropy
 	branch = refs/heads/master
+[submodule "pytest-tornado"]
+	url = https://github.com/conda-forge/pytest-tornado-feedstock.git
+	path = feedstocks/pytest-tornado
+	branch = refs/heads/master
