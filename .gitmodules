@@ -14490,3 +14490,7 @@
 	url = https://github.com/conda-forge/logzero-feedstock.git
 	path = feedstocks/logzero
 	branch = refs/heads/master
+[submodule "pyahocorasick"]
+	url = https://github.com/conda-forge/pyahocorasick-feedstock.git
+	path = feedstocks/pyahocorasick
+	branch = refs/heads/master
