@@ -14506,3 +14506,7 @@
 	url = https://github.com/conda-forge/r-adlift-feedstock.git
 	path = feedstocks/r-adlift
 	branch = refs/heads/master
+[submodule "r-entropy"]
+	url = https://github.com/conda-forge/r-entropy-feedstock.git
+	path = feedstocks/r-entropy
+	branch = refs/heads/master
