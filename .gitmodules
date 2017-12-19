@@ -14486,3 +14486,7 @@
 	url = https://github.com/conda-forge/doit-feedstock.git
 	path = feedstocks/doit
 	branch = refs/heads/master
+[submodule "logzero"]
+	url = https://github.com/conda-forge/logzero-feedstock.git
+	path = feedstocks/logzero
+	branch = refs/heads/master
