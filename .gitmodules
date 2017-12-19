@@ -14482,3 +14482,7 @@
 	url = https://github.com/conda-forge/r-ebayesthresh-feedstock.git
 	path = feedstocks/r-ebayesthresh
 	branch = refs/heads/master
+[submodule "doit"]
+	url = https://github.com/conda-forge/doit-feedstock.git
+	path = feedstocks/doit
+	branch = refs/heads/master
