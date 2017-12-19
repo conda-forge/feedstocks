@@ -14494,3 +14494,7 @@
 	url = https://github.com/conda-forge/pyahocorasick-feedstock.git
 	path = feedstocks/pyahocorasick
 	branch = refs/heads/master
+[submodule "xmlrunner"]
+	url = https://github.com/conda-forge/xmlrunner-feedstock.git
+	path = feedstocks/xmlrunner
+	branch = refs/heads/master
