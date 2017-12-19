@@ -14498,3 +14498,7 @@
 	url = https://github.com/conda-forge/xmlrunner-feedstock.git
 	path = feedstocks/xmlrunner
 	branch = refs/heads/master
+[submodule "parso"]
+	url = https://github.com/conda-forge/parso-feedstock.git
+	path = feedstocks/parso
+	branch = refs/heads/master
