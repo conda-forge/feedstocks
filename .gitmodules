@@ -14538,3 +14538,7 @@
 	url = https://github.com/conda-forge/r-assertive.data-feedstock.git
 	path = feedstocks/r-assertive.data
 	branch = refs/heads/master
+[submodule "r-assertive.datetimes"]
+	url = https://github.com/conda-forge/r-assertive.datetimes-feedstock.git
+	path = feedstocks/r-assertive.datetimes
+	branch = refs/heads/master
