@@ -14598,3 +14598,7 @@
 	url = https://github.com/conda-forge/r-survminer-feedstock.git
 	path = feedstocks/r-survminer
 	branch = refs/heads/master
+[submodule "r-mpm"]
+	url = https://github.com/conda-forge/r-mpm-feedstock.git
+	path = feedstocks/r-mpm
+	branch = refs/heads/master
