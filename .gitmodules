@@ -14562,3 +14562,7 @@
 	url = https://github.com/conda-forge/r-assertive.properties-feedstock.git
 	path = feedstocks/r-assertive.properties
 	branch = refs/heads/master
+[submodule "r-assertive.reflection"]
+	url = https://github.com/conda-forge/r-assertive.reflection-feedstock.git
+	path = feedstocks/r-assertive.reflection
+	branch = refs/heads/master
