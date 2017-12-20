@@ -14518,3 +14518,7 @@
 	url = https://github.com/conda-forge/r-assertive.base-feedstock.git
 	path = feedstocks/r-assertive.base
 	branch = refs/heads/master
+[submodule "r-binhf"]
+	url = https://github.com/conda-forge/r-binhf-feedstock.git
+	path = feedstocks/r-binhf
+	branch = refs/heads/master
