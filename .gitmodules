@@ -14582,3 +14582,7 @@
 	url = https://github.com/conda-forge/r-assertive-feedstock.git
 	path = feedstocks/r-assertive
 	branch = refs/heads/master
+[submodule "r-factoextra"]
+	url = https://github.com/conda-forge/r-factoextra-feedstock.git
+	path = feedstocks/r-factoextra
+	branch = refs/heads/master
