@@ -14574,3 +14574,7 @@
 	url = https://github.com/conda-forge/r-assertive.strings-feedstock.git
 	path = feedstocks/r-assertive.strings
 	branch = refs/heads/master
+[submodule "r-assertive.types"]
+	url = https://github.com/conda-forge/r-assertive.types-feedstock.git
+	path = feedstocks/r-assertive.types
+	branch = refs/heads/master
