@@ -14514,3 +14514,7 @@
 	url = https://github.com/conda-forge/pytest-tornado-feedstock.git
 	path = feedstocks/pytest-tornado
 	branch = refs/heads/master
+[submodule "r-assertive.base"]
+	url = https://github.com/conda-forge/r-assertive.base-feedstock.git
+	path = feedstocks/r-assertive.base
+	branch = refs/heads/master
