@@ -14570,3 +14570,7 @@
 	url = https://github.com/conda-forge/r-assertive.sets-feedstock.git
 	path = feedstocks/r-assertive.sets
 	branch = refs/heads/master
+[submodule "r-assertive.strings"]
+	url = https://github.com/conda-forge/r-assertive.strings-feedstock.git
+	path = feedstocks/r-assertive.strings
+	branch = refs/heads/master
