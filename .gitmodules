@@ -14594,3 +14594,7 @@
 	url = https://github.com/conda-forge/r-sda-feedstock.git
 	path = feedstocks/r-sda
 	branch = refs/heads/master
+[submodule "r-survminer"]
+	url = https://github.com/conda-forge/r-survminer-feedstock.git
+	path = feedstocks/r-survminer
+	branch = refs/heads/master
