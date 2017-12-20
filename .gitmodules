@@ -14602,3 +14602,7 @@
 	url = https://github.com/conda-forge/r-mpm-feedstock.git
 	path = feedstocks/r-mpm
 	branch = refs/heads/master
+[submodule "binarytree"]
+	url = https://github.com/conda-forge/binarytree-feedstock.git
+	path = feedstocks/binarytree
+	branch = refs/heads/master
