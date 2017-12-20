@@ -14550,3 +14550,7 @@
 	url = https://github.com/conda-forge/r-assertive.matrices-feedstock.git
 	path = feedstocks/r-assertive.matrices
 	branch = refs/heads/master
+[submodule "r-assertive.models"]
+	url = https://github.com/conda-forge/r-assertive.models-feedstock.git
+	path = feedstocks/r-assertive.models
+	branch = refs/heads/master
