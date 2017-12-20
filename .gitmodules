@@ -14590,3 +14590,7 @@
 	url = https://github.com/conda-forge/r-factormerger-feedstock.git
 	path = feedstocks/r-factormerger
 	branch = refs/heads/master
+[submodule "r-sda"]
+	url = https://github.com/conda-forge/r-sda-feedstock.git
+	path = feedstocks/r-sda
+	branch = refs/heads/master
