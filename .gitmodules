@@ -14618,3 +14618,7 @@
 	url = https://github.com/conda-forge/datadog-feedstock.git
 	path = feedstocks/datadog
 	branch = refs/heads/master
+[submodule "rollbar"]
+	url = https://github.com/conda-forge/rollbar-feedstock.git
+	path = feedstocks/rollbar
+	branch = refs/heads/master
