@@ -14614,3 +14614,7 @@
 	url = https://github.com/conda-forge/python-irodsclient-feedstock.git
 	path = feedstocks/python-irodsclient
 	branch = refs/heads/master
+[submodule "datadog"]
+	url = https://github.com/conda-forge/datadog-feedstock.git
+	path = feedstocks/datadog
+	branch = refs/heads/master
