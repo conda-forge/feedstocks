@@ -14638,3 +14638,7 @@
 	url = https://github.com/conda-forge/r-tidyselect-feedstock.git
 	path = feedstocks/r-tidyselect
 	branch = refs/heads/master
+[submodule "r-pander"]
+	url = https://github.com/conda-forge/r-pander-feedstock.git
+	path = feedstocks/r-pander
+	branch = refs/heads/master
