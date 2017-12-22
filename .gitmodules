@@ -14642,3 +14642,7 @@
 	url = https://github.com/conda-forge/r-pander-feedstock.git
 	path = feedstocks/r-pander
 	branch = refs/heads/master
+[submodule "crcmod"]
+	url = https://github.com/conda-forge/crcmod-feedstock.git
+	path = feedstocks/crcmod
+	branch = refs/heads/master
