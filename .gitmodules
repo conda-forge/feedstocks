@@ -14630,3 +14630,7 @@
 	url = https://github.com/conda-forge/r-st-feedstock.git
 	path = feedstocks/r-st
 	branch = refs/heads/master
+[submodule "r-superheat"]
+	url = https://github.com/conda-forge/r-superheat-feedstock.git
+	path = feedstocks/r-superheat
+	branch = refs/heads/master
