@@ -14646,3 +14646,7 @@
 	url = https://github.com/conda-forge/crcmod-feedstock.git
 	path = feedstocks/crcmod
 	branch = refs/heads/master
+[submodule "r-lhs"]
+	url = https://github.com/conda-forge/r-lhs-feedstock.git
+	path = feedstocks/r-lhs
+	branch = refs/heads/master
