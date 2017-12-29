@@ -14654,3 +14654,7 @@
 	url = https://github.com/conda-forge/mkl_random-feedstock.git
 	path = feedstocks/mkl_random
 	branch = refs/heads/master
+[submodule "speclite"]
+	url = https://github.com/conda-forge/speclite-feedstock.git
+	path = feedstocks/speclite
+	branch = refs/heads/master
