@@ -14650,3 +14650,7 @@
 	url = https://github.com/conda-forge/r-lhs-feedstock.git
 	path = feedstocks/r-lhs
 	branch = refs/heads/master
+[submodule "mkl_random"]
+	url = https://github.com/conda-forge/mkl_random-feedstock.git
+	path = feedstocks/mkl_random
+	branch = refs/heads/master
