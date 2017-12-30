@@ -14658,3 +14658,7 @@
 	url = https://github.com/conda-forge/speclite-feedstock.git
 	path = feedstocks/speclite
 	branch = refs/heads/master
+[submodule "scikit-garden"]
+	url = https://github.com/conda-forge/scikit-garden-feedstock.git
+	path = feedstocks/scikit-garden
+	branch = refs/heads/master
