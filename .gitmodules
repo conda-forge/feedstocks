@@ -6342,10 +6342,6 @@
 	path = feedstocks/appnope
 	url = https://github.com/conda-forge/appnope-feedstock.git
 	branch = refs/heads/master
-[submodule "cgsn-parsers"]
-	path = feedstocks/cgsn-parsers
-	url = https://github.com/conda-forge/cgsn-parsers-feedstock.git
-	branch = refs/heads/master
 [submodule "clangdev"]
 	path = feedstocks/clangdev
 	url = https://github.com/conda-forge/clangdev-feedstock.git
