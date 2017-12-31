@@ -14662,3 +14662,7 @@
 	url = https://github.com/conda-forge/scikit-garden-feedstock.git
 	path = feedstocks/scikit-garden
 	branch = refs/heads/master
+[submodule "databroker"]
+	url = https://github.com/conda-forge/databroker-feedstock.git
+	path = feedstocks/databroker
+	branch = refs/heads/master
