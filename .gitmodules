@@ -14662,3 +14662,7 @@
 	url = https://github.com/conda-forge/databroker-feedstock.git
 	path = feedstocks/databroker
 	branch = refs/heads/master
+[submodule "bluesky"]
+	url = https://github.com/conda-forge/bluesky-feedstock.git
+	path = feedstocks/bluesky
+	branch = refs/heads/master
