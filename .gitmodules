@@ -14682,3 +14682,7 @@
 	url = https://github.com/conda-forge/fixie-creds-feedstock.git
 	path = feedstocks/fixie-creds
 	branch = refs/heads/master
+[submodule "towncrier"]
+	url = https://github.com/conda-forge/towncrier-feedstock.git
+	path = feedstocks/towncrier
+	branch = refs/heads/master
