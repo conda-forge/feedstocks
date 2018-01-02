@@ -14694,3 +14694,7 @@
 	url = https://github.com/conda-forge/vaex-jupyter-feedstock.git
 	path = feedstocks/vaex-jupyter
 	branch = refs/heads/master
+[submodule "vaex-server"]
+	url = https://github.com/conda-forge/vaex-server-feedstock.git
+	path = feedstocks/vaex-server
+	branch = refs/heads/master
