@@ -14666,3 +14666,7 @@
 	url = https://github.com/conda-forge/bluesky-feedstock.git
 	path = feedstocks/bluesky
 	branch = refs/heads/master
+[submodule "fixie"]
+	url = https://github.com/conda-forge/fixie-feedstock.git
+	path = feedstocks/fixie
+	branch = refs/heads/master
