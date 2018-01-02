@@ -14678,3 +14678,7 @@
 	url = https://github.com/conda-forge/backports.test.support-feedstock.git
 	path = feedstocks/backports.test.support
 	branch = refs/heads/master
+[submodule "fixie-creds"]
+	url = https://github.com/conda-forge/fixie-creds-feedstock.git
+	path = feedstocks/fixie-creds
+	branch = refs/heads/master
