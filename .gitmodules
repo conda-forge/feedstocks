@@ -14710,3 +14710,7 @@
 	url = https://github.com/conda-forge/formencode-feedstock.git
 	path = feedstocks/formencode
 	branch = refs/heads/master
+[submodule "robotframework"]
+	url = https://github.com/conda-forge/robotframework-feedstock.git
+	path = feedstocks/robotframework
+	branch = refs/heads/master
