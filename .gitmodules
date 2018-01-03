@@ -14698,3 +14698,7 @@
 	url = https://github.com/conda-forge/vaex-server-feedstock.git
 	path = feedstocks/vaex-server
 	branch = refs/heads/master
+[submodule "menuinst"]
+	url = https://github.com/conda-forge/menuinst-feedstock.git
+	path = feedstocks/menuinst
+	branch = refs/heads/master
