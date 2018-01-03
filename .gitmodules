@@ -14722,3 +14722,7 @@
 	url = https://github.com/conda-forge/vaex-ui-feedstock.git
 	path = feedstocks/vaex-ui
 	branch = refs/heads/master
+[submodule "youtube-dl"]
+	url = https://github.com/conda-forge/youtube-dl-feedstock.git
+	path = feedstocks/youtube-dl
+	branch = refs/heads/master
