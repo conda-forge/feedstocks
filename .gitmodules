@@ -14706,3 +14706,7 @@
 	url = https://github.com/conda-forge/vaex-distributed-feedstock.git
 	path = feedstocks/vaex-distributed
 	branch = refs/heads/master
+[submodule "formencode"]
+	url = https://github.com/conda-forge/formencode-feedstock.git
+	path = feedstocks/formencode
+	branch = refs/heads/master
