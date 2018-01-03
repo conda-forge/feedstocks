@@ -14714,3 +14714,7 @@
 	url = https://github.com/conda-forge/robotframework-feedstock.git
 	path = feedstocks/robotframework
 	branch = refs/heads/master
+[submodule "sdf"]
+	url = https://github.com/conda-forge/sdf-feedstock.git
+	path = feedstocks/sdf
+	branch = refs/heads/master
