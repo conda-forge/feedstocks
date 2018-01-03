@@ -14726,3 +14726,7 @@
 	url = https://github.com/conda-forge/youtube-dl-feedstock.git
 	path = feedstocks/youtube-dl
 	branch = refs/heads/master
+[submodule "impactutils"]
+	url = https://github.com/conda-forge/impactutils-feedstock.git
+	path = feedstocks/impactutils
+	branch = refs/heads/master
