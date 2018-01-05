@@ -14758,3 +14758,7 @@
 	url = https://github.com/conda-forge/stopit-feedstock.git
 	path = feedstocks/stopit
 	branch = refs/heads/master
+[submodule "h2"]
+	url = https://github.com/conda-forge/h2-feedstock.git
+	path = feedstocks/h2
+	branch = refs/heads/master
