@@ -14734,3 +14734,7 @@
 	url = https://github.com/conda-forge/fixie-batch-feedstock.git
 	path = feedstocks/fixie-batch
 	branch = refs/heads/master
+[submodule "lightfm"]
+	url = https://github.com/conda-forge/lightfm-feedstock.git
+	path = feedstocks/lightfm
+	branch = refs/heads/master
