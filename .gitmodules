@@ -14730,3 +14730,7 @@
 	url = https://github.com/conda-forge/impactutils-feedstock.git
 	path = feedstocks/impactutils
 	branch = refs/heads/master
+[submodule "fixie-batch"]
+	url = https://github.com/conda-forge/fixie-batch-feedstock.git
+	path = feedstocks/fixie-batch
+	branch = refs/heads/master
