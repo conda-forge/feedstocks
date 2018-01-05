@@ -14738,3 +14738,7 @@
 	url = https://github.com/conda-forge/lightfm-feedstock.git
 	path = feedstocks/lightfm
 	branch = refs/heads/master
+[submodule "hyperframe"]
+	url = https://github.com/conda-forge/hyperframe-feedstock.git
+	path = feedstocks/hyperframe
+	branch = refs/heads/master
