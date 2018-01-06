@@ -14782,3 +14782,7 @@
 	url = https://github.com/conda-forge/lap-feedstock.git
 	path = feedstocks/lap
 	branch = refs/heads/master
+[submodule "gawk"]
+	url = https://github.com/conda-forge/gawk-feedstock.git
+	path = feedstocks/gawk
+	branch = refs/heads/master
