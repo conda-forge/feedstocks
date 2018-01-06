@@ -14778,3 +14778,7 @@
 	url = https://github.com/conda-forge/brotlipy-feedstock.git
 	path = feedstocks/brotlipy
 	branch = refs/heads/master
+[submodule "lap"]
+	url = https://github.com/conda-forge/lap-feedstock.git
+	path = feedstocks/lap
+	branch = refs/heads/master
