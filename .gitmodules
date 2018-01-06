@@ -14770,3 +14770,7 @@
 	url = https://github.com/conda-forge/sampledb-feedstock.git
 	path = feedstocks/sampledb
 	branch = refs/heads/master
+[submodule "send2trash"]
+	url = https://github.com/conda-forge/send2trash-feedstock.git
+	path = feedstocks/send2trash
+	branch = refs/heads/master
