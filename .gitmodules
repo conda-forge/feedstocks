@@ -14766,3 +14766,7 @@
 	url = https://github.com/conda-forge/vs2008_runtime-feedstock.git
 	path = feedstocks/vs2008_runtime
 	branch = refs/heads/master
+[submodule "sampledb"]
+	url = https://github.com/conda-forge/sampledb-feedstock.git
+	path = feedstocks/sampledb
+	branch = refs/heads/master
