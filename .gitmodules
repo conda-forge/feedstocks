@@ -14794,3 +14794,7 @@
 	url = https://github.com/conda-forge/scikit-surprise-feedstock.git
 	path = feedstocks/scikit-surprise
 	branch = refs/heads/master
+[submodule "papillon"]
+	url = https://github.com/conda-forge/papillon-feedstock.git
+	path = feedstocks/papillon
+	branch = refs/heads/master
