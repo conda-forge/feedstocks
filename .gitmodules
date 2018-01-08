@@ -14802,3 +14802,7 @@
 	url = https://github.com/conda-forge/easywatch-feedstock.git
 	path = feedstocks/easywatch
 	branch = refs/heads/master
+[submodule "staticjinja"]
+	url = https://github.com/conda-forge/staticjinja-feedstock.git
+	path = feedstocks/staticjinja
+	branch = refs/heads/master
