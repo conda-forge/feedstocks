@@ -14818,3 +14818,7 @@
 	url = https://github.com/conda-forge/fixie-data-feedstock.git
 	path = feedstocks/fixie-data
 	branch = refs/heads/master
+[submodule "avrocpp"]
+	url = https://github.com/conda-forge/avrocpp-feedstock.git
+	path = feedstocks/avrocpp
+	branch = refs/heads/master
