@@ -14814,3 +14814,7 @@
 	url = https://github.com/conda-forge/praw-feedstock.git
 	path = feedstocks/praw
 	branch = refs/heads/master
+[submodule "fixie-data"]
+	url = https://github.com/conda-forge/fixie-data-feedstock.git
+	path = feedstocks/fixie-data
+	branch = refs/heads/master
