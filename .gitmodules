@@ -14822,3 +14822,7 @@
 	url = https://github.com/conda-forge/avrocpp-feedstock.git
 	path = feedstocks/avrocpp
 	branch = refs/heads/master
+[submodule "django-jsoneditor"]
+	url = https://github.com/conda-forge/django-jsoneditor-feedstock.git
+	path = feedstocks/django-jsoneditor
+	branch = refs/heads/master
