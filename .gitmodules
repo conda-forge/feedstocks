@@ -14826,3 +14826,7 @@
 	url = https://github.com/conda-forge/django-jsoneditor-feedstock.git
 	path = feedstocks/django-jsoneditor
 	branch = refs/heads/master
+[submodule "lldb"]
+	url = https://github.com/conda-forge/lldb-feedstock.git
+	path = feedstocks/lldb
+	branch = refs/heads/master
