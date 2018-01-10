@@ -14838,3 +14838,7 @@
 	url = https://github.com/conda-forge/libcomcat-feedstock.git
 	path = feedstocks/libcomcat
 	branch = refs/heads/master
+[submodule "xpdsim"]
+	url = https://github.com/conda-forge/xpdsim-feedstock.git
+	path = feedstocks/xpdsim
+	branch = refs/heads/master
