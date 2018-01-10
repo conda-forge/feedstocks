@@ -14830,3 +14830,7 @@
 	url = https://github.com/conda-forge/lldb-feedstock.git
 	path = feedstocks/lldb
 	branch = refs/heads/master
+[submodule "pythesint"]
+	url = https://github.com/conda-forge/pythesint-feedstock.git
+	path = feedstocks/pythesint
+	branch = refs/heads/master
