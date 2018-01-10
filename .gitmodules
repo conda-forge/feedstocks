@@ -14834,3 +14834,7 @@
 	url = https://github.com/conda-forge/pythesint-feedstock.git
 	path = feedstocks/pythesint
 	branch = refs/heads/master
+[submodule "libcomcat"]
+	url = https://github.com/conda-forge/libcomcat-feedstock.git
+	path = feedstocks/libcomcat
+	branch = refs/heads/master
