@@ -14866,3 +14866,7 @@
 	url = https://github.com/conda-forge/streamz_ext-feedstock.git
 	path = feedstocks/streamz_ext
 	branch = refs/heads/master
+[submodule "tensorboardx"]
+	url = https://github.com/conda-forge/tensorboardx-feedstock.git
+	path = feedstocks/tensorboardx
+	branch = refs/heads/master
