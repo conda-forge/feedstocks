@@ -14850,3 +14850,7 @@
 	url = https://github.com/conda-forge/sqlobject-feedstock.git
 	path = feedstocks/sqlobject
 	branch = refs/heads/master
+[submodule "fastimport"]
+	url = https://github.com/conda-forge/fastimport-feedstock.git
+	path = feedstocks/fastimport
+	branch = refs/heads/master
