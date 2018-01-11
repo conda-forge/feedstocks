@@ -14842,3 +14842,7 @@
 	url = https://github.com/conda-forge/xpdsim-feedstock.git
 	path = feedstocks/xpdsim
 	branch = refs/heads/master
+[submodule "dulwich"]
+	url = https://github.com/conda-forge/dulwich-feedstock.git
+	path = feedstocks/dulwich
+	branch = refs/heads/master
