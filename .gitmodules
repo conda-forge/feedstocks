@@ -14846,3 +14846,7 @@
 	url = https://github.com/conda-forge/dulwich-feedstock.git
 	path = feedstocks/dulwich
 	branch = refs/heads/master
+[submodule "sqlobject"]
+	url = https://github.com/conda-forge/sqlobject-feedstock.git
+	path = feedstocks/sqlobject
+	branch = refs/heads/master
