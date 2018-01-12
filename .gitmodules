@@ -14890,3 +14890,7 @@
 	url = https://github.com/conda-forge/ipywidget-pivot-table-feedstock.git
 	path = feedstocks/ipywidget-pivot-table
 	branch = refs/heads/master
+[submodule "rauth"]
+	url = https://github.com/conda-forge/rauth-feedstock.git
+	path = feedstocks/rauth
+	branch = refs/heads/master
