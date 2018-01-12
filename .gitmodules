@@ -14882,3 +14882,7 @@
 	url = https://github.com/conda-forge/intelhex-feedstock.git
 	path = feedstocks/intelhex
 	branch = refs/heads/master
+[submodule "hyper"]
+	url = https://github.com/conda-forge/hyper-feedstock.git
+	path = feedstocks/hyper
+	branch = refs/heads/master
