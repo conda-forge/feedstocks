@@ -14894,3 +14894,7 @@
 	url = https://github.com/conda-forge/rauth-feedstock.git
 	path = feedstocks/rauth
 	branch = refs/heads/master
+[submodule "orange3-imageanalytics"]
+	url = https://github.com/conda-forge/orange3-imageanalytics-feedstock.git
+	path = feedstocks/orange3-imageanalytics
+	branch = refs/heads/master
