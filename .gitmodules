@@ -14898,3 +14898,7 @@
 	url = https://github.com/conda-forge/orange3-imageanalytics-feedstock.git
 	path = feedstocks/orange3-imageanalytics
 	branch = refs/heads/master
+[submodule "rickshaw"]
+	url = https://github.com/conda-forge/rickshaw-feedstock.git
+	path = feedstocks/rickshaw
+	branch = refs/heads/master
