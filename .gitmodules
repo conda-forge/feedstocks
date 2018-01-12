@@ -14874,3 +14874,7 @@
 	url = https://github.com/conda-forge/ndcube-feedstock.git
 	path = feedstocks/ndcube
 	branch = refs/heads/master
+[submodule "py_dempster_shafer"]
+	url = https://github.com/conda-forge/py_dempster_shafer-feedstock.git
+	path = feedstocks/py_dempster_shafer
+	branch = refs/heads/master
