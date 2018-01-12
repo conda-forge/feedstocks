@@ -14886,3 +14886,7 @@
 	url = https://github.com/conda-forge/hyper-feedstock.git
 	path = feedstocks/hyper
 	branch = refs/heads/master
+[submodule "ipywidget-pivot-table"]
+	url = https://github.com/conda-forge/ipywidget-pivot-table-feedstock.git
+	path = feedstocks/ipywidget-pivot-table
+	branch = refs/heads/master
