@@ -14870,3 +14870,7 @@
 	url = https://github.com/conda-forge/tensorboardx-feedstock.git
 	path = feedstocks/tensorboardx
 	branch = refs/heads/master
+[submodule "ndcube"]
+	url = https://github.com/conda-forge/ndcube-feedstock.git
+	path = feedstocks/ndcube
+	branch = refs/heads/master
