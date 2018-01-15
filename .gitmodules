@@ -14906,3 +14906,7 @@
 	url = https://github.com/conda-forge/xpdtools-feedstock.git
 	path = feedstocks/xpdtools
 	branch = refs/heads/master
+[submodule "texsoup"]
+	url = https://github.com/conda-forge/texsoup-feedstock.git
+	path = feedstocks/texsoup
+	branch = refs/heads/master
