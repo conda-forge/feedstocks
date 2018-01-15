@@ -14902,3 +14902,7 @@
 	url = https://github.com/conda-forge/rickshaw-feedstock.git
 	path = feedstocks/rickshaw
 	branch = refs/heads/master
+[submodule "xpdtools"]
+	url = https://github.com/conda-forge/xpdtools-feedstock.git
+	path = feedstocks/xpdtools
+	branch = refs/heads/master
