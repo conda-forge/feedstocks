@@ -14918,3 +14918,7 @@
 	url = https://github.com/conda-forge/su-exec-feedstock.git
 	path = feedstocks/su-exec
 	branch = refs/heads/master
+[submodule "shed"]
+	url = https://github.com/conda-forge/shed-feedstock.git
+	path = feedstocks/shed
+	branch = refs/heads/master
