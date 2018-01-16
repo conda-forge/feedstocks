@@ -14914,3 +14914,7 @@
 	url = https://github.com/conda-forge/gosu-feedstock.git
 	path = feedstocks/gosu
 	branch = refs/heads/master
+[submodule "su-exec"]
+	url = https://github.com/conda-forge/su-exec-feedstock.git
+	path = feedstocks/su-exec
+	branch = refs/heads/master
