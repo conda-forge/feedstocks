@@ -14910,3 +14910,7 @@
 	url = https://github.com/conda-forge/texsoup-feedstock.git
 	path = feedstocks/texsoup
 	branch = refs/heads/master
+[submodule "gosu"]
+	url = https://github.com/conda-forge/gosu-feedstock.git
+	path = feedstocks/gosu
+	branch = refs/heads/master
