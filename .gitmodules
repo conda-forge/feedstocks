@@ -14922,3 +14922,7 @@
 	url = https://github.com/conda-forge/shed-feedstock.git
 	path = feedstocks/shed
 	branch = refs/heads/master
+[submodule "djangorestframework-csv"]
+	url = https://github.com/conda-forge/djangorestframework-csv-feedstock.git
+	path = feedstocks/djangorestframework-csv
+	branch = refs/heads/master
