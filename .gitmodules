@@ -14938,3 +14938,7 @@
 	url = https://github.com/conda-forge/agg-regrid-feedstock.git
 	path = feedstocks/agg-regrid
 	branch = refs/heads/master
+[submodule "f2c"]
+	url = https://github.com/conda-forge/f2c-feedstock.git
+	path = feedstocks/f2c
+	branch = refs/heads/master
