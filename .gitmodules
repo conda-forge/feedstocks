@@ -14942,3 +14942,7 @@
 	url = https://github.com/conda-forge/f2c-feedstock.git
 	path = feedstocks/f2c
 	branch = refs/heads/master
+[submodule "xpdview"]
+	url = https://github.com/conda-forge/xpdview-feedstock.git
+	path = feedstocks/xpdview
+	branch = refs/heads/master
