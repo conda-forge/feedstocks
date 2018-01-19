@@ -14958,3 +14958,7 @@
 	url = https://github.com/conda-forge/xpdacq-feedstock.git
 	path = feedstocks/xpdacq
 	branch = refs/heads/master
+[submodule "setuptools-markdown"]
+	url = https://github.com/conda-forge/setuptools-markdown-feedstock.git
+	path = feedstocks/setuptools-markdown
+	branch = refs/heads/master
