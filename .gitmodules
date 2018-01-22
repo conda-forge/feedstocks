@@ -14974,3 +14974,7 @@
 	url = https://github.com/conda-forge/r-robis-feedstock.git
 	path = feedstocks/r-robis
 	branch = refs/heads/master
+[submodule "r-ssoap"]
+	url = https://github.com/conda-forge/r-ssoap-feedstock.git
+	path = feedstocks/r-ssoap
+	branch = refs/heads/master
