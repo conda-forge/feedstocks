@@ -14970,3 +14970,7 @@
 	url = https://github.com/conda-forge/parallel-feedstock.git
 	path = feedstocks/parallel
 	branch = refs/heads/master
+[submodule "r-robis"]
+	url = https://github.com/conda-forge/r-robis-feedstock.git
+	path = feedstocks/r-robis
+	branch = refs/heads/master
