@@ -14966,3 +14966,7 @@
 	url = https://github.com/conda-forge/python-telegram-bot-feedstock.git
 	path = feedstocks/python-telegram-bot
 	branch = refs/heads/master
+[submodule "parallel"]
+	url = https://github.com/conda-forge/parallel-feedstock.git
+	path = feedstocks/parallel
+	branch = refs/heads/master
