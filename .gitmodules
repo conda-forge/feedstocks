@@ -14962,3 +14962,7 @@
 	url = https://github.com/conda-forge/setuptools-markdown-feedstock.git
 	path = feedstocks/setuptools-markdown
 	branch = refs/heads/master
+[submodule "python-telegram-bot"]
+	url = https://github.com/conda-forge/python-telegram-bot-feedstock.git
+	path = feedstocks/python-telegram-bot
+	branch = refs/heads/master
