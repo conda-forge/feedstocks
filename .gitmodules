@@ -14978,3 +14978,7 @@
 	url = https://github.com/conda-forge/r-ssoap-feedstock.git
 	path = feedstocks/r-ssoap
 	branch = refs/heads/master
+[submodule "r-taxizesoap"]
+	url = https://github.com/conda-forge/r-taxizesoap-feedstock.git
+	path = feedstocks/r-taxizesoap
+	branch = refs/heads/master
