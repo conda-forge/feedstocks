@@ -14990,3 +14990,7 @@
 	url = https://github.com/conda-forge/r-diffusionmap-feedstock.git
 	path = feedstocks/r-diffusionmap
 	branch = refs/heads/master
+[submodule "r-dtw"]
+	url = https://github.com/conda-forge/r-dtw-feedstock.git
+	path = feedstocks/r-dtw
+	branch = refs/heads/master
