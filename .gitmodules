@@ -15010,3 +15010,7 @@
 	url = https://github.com/conda-forge/r-rcppprogress-feedstock.git
 	path = feedstocks/r-rcppprogress
 	branch = refs/heads/master
+[submodule "r-sdmtools"]
+	url = https://github.com/conda-forge/r-sdmtools-feedstock.git
+	path = feedstocks/r-sdmtools
+	branch = refs/heads/master
