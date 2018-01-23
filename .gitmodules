@@ -15018,3 +15018,7 @@
 	url = https://github.com/conda-forge/r-sn-feedstock.git
 	path = feedstocks/r-sn
 	branch = refs/heads/master
+[submodule "r-tclust"]
+	url = https://github.com/conda-forge/r-tclust-feedstock.git
+	path = feedstocks/r-tclust
+	branch = refs/heads/master
