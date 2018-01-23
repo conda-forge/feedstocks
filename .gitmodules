@@ -14994,3 +14994,7 @@
 	url = https://github.com/conda-forge/r-dtw-feedstock.git
 	path = feedstocks/r-dtw
 	branch = refs/heads/master
+[submodule "r-ggridges"]
+	url = https://github.com/conda-forge/r-ggridges-feedstock.git
+	path = feedstocks/r-ggridges
+	branch = refs/heads/master
