@@ -14986,3 +14986,7 @@
 	url = https://github.com/conda-forge/r-xmlschema-feedstock.git
 	path = feedstocks/r-xmlschema
 	branch = refs/heads/master
+[submodule "r-diffusionmap"]
+	url = https://github.com/conda-forge/r-diffusionmap-feedstock.git
+	path = feedstocks/r-diffusionmap
+	branch = refs/heads/master
