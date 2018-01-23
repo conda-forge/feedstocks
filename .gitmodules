@@ -15014,3 +15014,7 @@
 	url = https://github.com/conda-forge/r-sdmtools-feedstock.git
 	path = feedstocks/r-sdmtools
 	branch = refs/heads/master
+[submodule "r-sn"]
+	url = https://github.com/conda-forge/r-sn-feedstock.git
+	path = feedstocks/r-sn
+	branch = refs/heads/master
