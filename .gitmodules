@@ -15002,3 +15002,7 @@
 	url = https://github.com/conda-forge/r-ica-feedstock.git
 	path = feedstocks/r-ica
 	branch = refs/heads/master
+[submodule "r-ranger"]
+	url = https://github.com/conda-forge/r-ranger-feedstock.git
+	path = feedstocks/r-ranger
+	branch = refs/heads/master
