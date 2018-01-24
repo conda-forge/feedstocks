@@ -15050,3 +15050,7 @@
 	url = https://github.com/conda-forge/parcels-feedstock.git
 	path = feedstocks/parcels
 	branch = refs/heads/master
+[submodule "alsa-lib"]
+	url = https://github.com/conda-forge/alsa-lib-feedstock.git
+	path = feedstocks/alsa-lib
+	branch = refs/heads/master
