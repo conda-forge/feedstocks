@@ -15054,3 +15054,7 @@
 	url = https://github.com/conda-forge/alsa-lib-feedstock.git
 	path = feedstocks/alsa-lib
 	branch = refs/heads/master
+[submodule "r-eml"]
+	url = https://github.com/conda-forge/r-eml-feedstock.git
+	path = feedstocks/r-eml
+	branch = refs/heads/master
