@@ -15058,3 +15058,7 @@
 	url = https://github.com/conda-forge/r-eml-feedstock.git
 	path = feedstocks/r-eml
 	branch = refs/heads/master
+[submodule "r-finch"]
+	url = https://github.com/conda-forge/r-finch-feedstock.git
+	path = feedstocks/r-finch
+	branch = refs/heads/master
