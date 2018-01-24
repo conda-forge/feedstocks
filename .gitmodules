@@ -15038,3 +15038,7 @@
 	url = https://github.com/conda-forge/social-auth-app-django-feedstock.git
 	path = feedstocks/social-auth-app-django
 	branch = refs/heads/master
+[submodule "social-auth-core"]
+	url = https://github.com/conda-forge/social-auth-core-feedstock.git
+	path = feedstocks/social-auth-core
+	branch = refs/heads/master
