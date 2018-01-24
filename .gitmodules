@@ -15046,3 +15046,7 @@
 	url = https://github.com/conda-forge/gql-feedstock.git
 	path = feedstocks/gql
 	branch = refs/heads/master
+[submodule "parcels"]
+	url = https://github.com/conda-forge/parcels-feedstock.git
+	path = feedstocks/parcels
+	branch = refs/heads/master
