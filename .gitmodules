@@ -15026,3 +15026,7 @@
 	url = https://github.com/conda-forge/pluginbase-feedstock.git
 	path = feedstocks/pluginbase
 	branch = refs/heads/master
+[submodule "django-fixture-magic"]
+	url = https://github.com/conda-forge/django-fixture-magic-feedstock.git
+	path = feedstocks/django-fixture-magic
+	branch = refs/heads/master
