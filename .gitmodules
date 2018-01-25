@@ -15066,3 +15066,7 @@
 	url = https://github.com/conda-forge/pysoundfile-feedstock.git
 	path = feedstocks/pysoundfile
 	branch = refs/heads/master
+[submodule "jack"]
+	url = https://github.com/conda-forge/jack-feedstock.git
+	path = feedstocks/jack
+	branch = refs/heads/master
