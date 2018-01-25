@@ -15074,3 +15074,7 @@
 	url = https://github.com/conda-forge/libdb-feedstock.git
 	path = feedstocks/libdb
 	branch = refs/heads/master
+[submodule "portaudio"]
+	url = https://github.com/conda-forge/portaudio-feedstock.git
+	path = feedstocks/portaudio
+	branch = refs/heads/master
