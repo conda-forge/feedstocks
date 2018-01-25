@@ -15078,3 +15078,7 @@
 	url = https://github.com/conda-forge/portaudio-feedstock.git
 	path = feedstocks/portaudio
 	branch = refs/heads/master
+[submodule "pyaudio"]
+	url = https://github.com/conda-forge/pyaudio-feedstock.git
+	path = feedstocks/pyaudio
+	branch = refs/heads/master
