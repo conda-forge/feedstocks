@@ -15062,3 +15062,7 @@
 	url = https://github.com/conda-forge/r-finch-feedstock.git
 	path = feedstocks/r-finch
 	branch = refs/heads/master
+[submodule "pysoundfile"]
+	url = https://github.com/conda-forge/pysoundfile-feedstock.git
+	path = feedstocks/pysoundfile
+	branch = refs/heads/master
