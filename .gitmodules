@@ -15082,3 +15082,7 @@
 	url = https://github.com/conda-forge/pyaudio-feedstock.git
 	path = feedstocks/pyaudio
 	branch = refs/heads/master
+[submodule "python-sounddevice"]
+	url = https://github.com/conda-forge/python-sounddevice-feedstock.git
+	path = feedstocks/python-sounddevice
+	branch = refs/heads/master
