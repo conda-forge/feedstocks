@@ -15070,3 +15070,7 @@
 	url = https://github.com/conda-forge/jack-feedstock.git
 	path = feedstocks/jack
 	branch = refs/heads/master
+[submodule "libdb"]
+	url = https://github.com/conda-forge/libdb-feedstock.git
+	path = feedstocks/libdb
+	branch = refs/heads/master
