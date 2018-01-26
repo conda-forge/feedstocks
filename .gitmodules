@@ -15162,3 +15162,7 @@
 	url = https://github.com/conda-forge/r-spatstat.data-feedstock.git
 	path = feedstocks/r-spatstat.data
 	branch = refs/heads/master
+[submodule "r-spatstat.utils"]
+	url = https://github.com/conda-forge/r-spatstat.utils-feedstock.git
+	path = feedstocks/r-spatstat.utils
+	branch = refs/heads/master
