@@ -15094,3 +15094,7 @@
 	url = https://github.com/conda-forge/r-classint-feedstock.git
 	path = feedstocks/r-classint
 	branch = refs/heads/master
+[submodule "r-cli"]
+	url = https://github.com/conda-forge/r-cli-feedstock.git
+	path = feedstocks/r-cli
+	branch = refs/heads/master
