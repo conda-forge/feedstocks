@@ -15114,3 +15114,7 @@
 	url = https://github.com/conda-forge/r-geor-feedstock.git
 	path = feedstocks/r-geor
 	branch = refs/heads/master
+[submodule "r-hdf5r"]
+	url = https://github.com/conda-forge/r-hdf5r-feedstock.git
+	path = feedstocks/r-hdf5r
+	branch = refs/heads/master
