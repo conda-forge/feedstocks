@@ -15126,3 +15126,7 @@
 	url = https://github.com/conda-forge/r-magic-feedstock.git
 	path = feedstocks/r-magic
 	branch = refs/heads/master
+[submodule "r-pillar"]
+	url = https://github.com/conda-forge/r-pillar-feedstock.git
+	path = feedstocks/r-pillar
+	branch = refs/heads/master
