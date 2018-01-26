@@ -15118,3 +15118,7 @@
 	url = https://github.com/conda-forge/r-hdf5r-feedstock.git
 	path = feedstocks/r-hdf5r
 	branch = refs/heads/master
+[submodule "r-leaflet.extras"]
+	url = https://github.com/conda-forge/r-leaflet.extras-feedstock.git
+	path = feedstocks/r-leaflet.extras
+	branch = refs/heads/master
