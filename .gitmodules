@@ -15154,3 +15154,7 @@
 	url = https://github.com/conda-forge/r-satellite-feedstock.git
 	path = feedstocks/r-satellite
 	branch = refs/heads/master
+[submodule "r-settings"]
+	url = https://github.com/conda-forge/r-settings-feedstock.git
+	path = feedstocks/r-settings
+	branch = refs/heads/master
