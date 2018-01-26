@@ -15098,3 +15098,7 @@
 	url = https://github.com/conda-forge/r-cli-feedstock.git
 	path = feedstocks/r-cli
 	branch = refs/heads/master
+[submodule "r-debugme"]
+	url = https://github.com/conda-forge/r-debugme-feedstock.git
+	path = feedstocks/r-debugme
+	branch = refs/heads/master
