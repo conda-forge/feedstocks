@@ -15134,3 +15134,7 @@
 	url = https://github.com/conda-forge/r-processx-feedstock.git
 	path = feedstocks/r-processx
 	branch = refs/heads/master
+[submodule "r-randomfields"]
+	url = https://github.com/conda-forge/r-randomfields-feedstock.git
+	path = feedstocks/r-randomfields
+	branch = refs/heads/master
