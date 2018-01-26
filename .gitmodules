@@ -15146,3 +15146,7 @@
 	url = https://github.com/conda-forge/r-rlas-feedstock.git
 	path = feedstocks/r-rlas
 	branch = refs/heads/master
+[submodule "r-rnetcdf"]
+	url = https://github.com/conda-forge/r-rnetcdf-feedstock.git
+	path = feedstocks/r-rnetcdf
+	branch = refs/heads/master
