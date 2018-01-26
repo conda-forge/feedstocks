@@ -15102,3 +15102,7 @@
 	url = https://github.com/conda-forge/r-debugme-feedstock.git
 	path = feedstocks/r-debugme
 	branch = refs/heads/master
+[submodule "r-gdalutils"]
+	url = https://github.com/conda-forge/r-gdalutils-feedstock.git
+	path = feedstocks/r-gdalutils
+	branch = refs/heads/master
