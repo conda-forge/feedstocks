@@ -15170,3 +15170,7 @@
 	url = https://github.com/conda-forge/r-spatstat-feedstock.git
 	path = feedstocks/r-spatstat
 	branch = refs/heads/master
+[submodule "r-utf8"]
+	url = https://github.com/conda-forge/r-utf8-feedstock.git
+	path = feedstocks/r-utf8
+	branch = refs/heads/master
