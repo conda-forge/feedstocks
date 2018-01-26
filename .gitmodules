@@ -15138,3 +15138,7 @@
 	url = https://github.com/conda-forge/r-randomfields-feedstock.git
 	path = feedstocks/r-randomfields
 	branch = refs/heads/master
+[submodule "r-randomfieldsutils"]
+	url = https://github.com/conda-forge/r-randomfieldsutils-feedstock.git
+	path = feedstocks/r-randomfieldsutils
+	branch = refs/heads/master
