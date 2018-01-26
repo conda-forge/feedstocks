@@ -15106,3 +15106,7 @@
 	url = https://github.com/conda-forge/r-gdalutils-feedstock.git
 	path = feedstocks/r-gdalutils
 	branch = refs/heads/master
+[submodule "r-geometry"]
+	url = https://github.com/conda-forge/r-geometry-feedstock.git
+	path = feedstocks/r-geometry
+	branch = refs/heads/master
