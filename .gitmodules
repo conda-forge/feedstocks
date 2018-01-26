@@ -15122,3 +15122,7 @@
 	url = https://github.com/conda-forge/r-leaflet.extras-feedstock.git
 	path = feedstocks/r-leaflet.extras
 	branch = refs/heads/master
+[submodule "r-magic"]
+	url = https://github.com/conda-forge/r-magic-feedstock.git
+	path = feedstocks/r-magic
+	branch = refs/heads/master
