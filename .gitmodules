@@ -15262,3 +15262,7 @@
 	url = https://github.com/conda-forge/r-lidr-feedstock.git
 	path = feedstocks/r-lidr
 	branch = refs/heads/master
+[submodule "r-mapedit"]
+	url = https://github.com/conda-forge/r-mapedit-feedstock.git
+	path = feedstocks/r-mapedit
+	branch = refs/heads/master
