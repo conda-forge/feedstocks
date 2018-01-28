@@ -15274,3 +15274,7 @@
 	url = https://github.com/conda-forge/r-osmar-feedstock.git
 	path = feedstocks/r-osmar
 	branch = refs/heads/master
+[submodule "r-rastervis"]
+	url = https://github.com/conda-forge/r-rastervis-feedstock.git
+	path = feedstocks/r-rastervis
+	branch = refs/heads/master
