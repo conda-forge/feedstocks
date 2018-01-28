@@ -15250,3 +15250,7 @@
 	url = https://github.com/conda-forge/r-crul-feedstock.git
 	path = feedstocks/r-crul
 	branch = refs/heads/master
+[submodule "r-data.tree"]
+	url = https://github.com/conda-forge/r-data.tree-feedstock.git
+	path = feedstocks/r-data.tree
+	branch = refs/heads/master
