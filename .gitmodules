@@ -15246,3 +15246,7 @@
 	url = https://github.com/conda-forge/r-bold-feedstock.git
 	path = feedstocks/r-bold
 	branch = refs/heads/master
+[submodule "r-crul"]
+	url = https://github.com/conda-forge/r-crul-feedstock.git
+	path = feedstocks/r-crul
+	branch = refs/heads/master
