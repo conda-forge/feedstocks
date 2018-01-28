@@ -15178,3 +15178,7 @@
 	url = https://github.com/conda-forge/r-webshot-feedstock.git
 	path = feedstocks/r-webshot
 	branch = refs/heads/master
+[submodule "ipypivot"]
+	url = https://github.com/conda-forge/ipypivot-feedstock.git
+	path = feedstocks/ipypivot
+	branch = refs/heads/master
