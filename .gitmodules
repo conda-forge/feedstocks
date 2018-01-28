@@ -15238,3 +15238,7 @@
 	url = https://github.com/conda-forge/r-urltools-feedstock.git
 	path = feedstocks/r-urltools
 	branch = refs/heads/master
+[submodule "r-worrms"]
+	url = https://github.com/conda-forge/r-worrms-feedstock.git
+	path = feedstocks/r-worrms
+	branch = refs/heads/master
