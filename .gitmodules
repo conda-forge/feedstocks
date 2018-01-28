@@ -15214,3 +15214,7 @@
 	url = https://github.com/conda-forge/r-rentrez-feedstock.git
 	path = feedstocks/r-rentrez
 	branch = refs/heads/master
+[submodule "r-rncl"]
+	url = https://github.com/conda-forge/r-rncl-feedstock.git
+	path = feedstocks/r-rncl
+	branch = refs/heads/master
