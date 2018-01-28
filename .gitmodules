@@ -15254,3 +15254,7 @@
 	url = https://github.com/conda-forge/r-data.tree-feedstock.git
 	path = feedstocks/r-data.tree
 	branch = refs/heads/master
+[submodule "r-httpcode"]
+	url = https://github.com/conda-forge/r-httpcode-feedstock.git
+	path = feedstocks/r-httpcode
+	branch = refs/heads/master
