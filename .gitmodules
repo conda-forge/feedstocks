@@ -15198,3 +15198,7 @@
 	url = https://github.com/conda-forge/giza-feedstock.git
 	path = feedstocks/giza
 	branch = refs/heads/master
+[submodule "r-mapview"]
+	url = https://github.com/conda-forge/r-mapview-feedstock.git
+	path = feedstocks/r-mapview
+	branch = refs/heads/master
