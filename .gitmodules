@@ -15294,3 +15294,7 @@
 	url = https://github.com/conda-forge/r-wikipedir-feedstock.git
 	path = feedstocks/r-wikipedir
 	branch = refs/heads/master
+[submodule "r-wikitaxa"]
+	url = https://github.com/conda-forge/r-wikitaxa-feedstock.git
+	path = feedstocks/r-wikitaxa
+	branch = refs/heads/master
