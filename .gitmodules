@@ -15210,3 +15210,7 @@
 	url = https://github.com/conda-forge/r-obistools-feedstock.git
 	path = feedstocks/r-obistools
 	branch = refs/heads/master
+[submodule "r-rentrez"]
+	url = https://github.com/conda-forge/r-rentrez-feedstock.git
+	path = feedstocks/r-rentrez
+	branch = refs/heads/master
