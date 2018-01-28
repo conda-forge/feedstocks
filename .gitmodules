@@ -15230,3 +15230,7 @@
 	url = https://github.com/conda-forge/r-solrium-feedstock.git
 	path = feedstocks/r-solrium
 	branch = refs/heads/master
+[submodule "r-triebeard"]
+	url = https://github.com/conda-forge/r-triebeard-feedstock.git
+	path = feedstocks/r-triebeard
+	branch = refs/heads/master
