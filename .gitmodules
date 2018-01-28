@@ -15202,3 +15202,7 @@
 	url = https://github.com/conda-forge/r-mapview-feedstock.git
 	path = feedstocks/r-mapview
 	branch = refs/heads/master
+[submodule "r-natserv"]
+	url = https://github.com/conda-forge/r-natserv-feedstock.git
+	path = feedstocks/r-natserv
+	branch = refs/heads/master
