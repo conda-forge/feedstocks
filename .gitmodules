@@ -15186,3 +15186,7 @@
 	url = https://github.com/conda-forge/monkeytype-feedstock.git
 	path = feedstocks/monkeytype
 	branch = refs/heads/master
+[submodule "pytest-smartcov"]
+	url = https://github.com/conda-forge/pytest-smartcov-feedstock.git
+	path = feedstocks/pytest-smartcov
+	branch = refs/heads/master
