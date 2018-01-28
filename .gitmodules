@@ -15282,3 +15282,7 @@
 	url = https://github.com/conda-forge/r-ritis-feedstock.git
 	path = feedstocks/r-ritis
 	branch = refs/heads/master
+[submodule "r-taxize"]
+	url = https://github.com/conda-forge/r-taxize-feedstock.git
+	path = feedstocks/r-taxize
+	branch = refs/heads/master
