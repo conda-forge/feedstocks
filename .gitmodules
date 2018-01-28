@@ -15270,3 +15270,7 @@
 	url = https://github.com/conda-forge/lld-feedstock.git
 	path = feedstocks/lld
 	branch = refs/heads/master
+[submodule "r-osmar"]
+	url = https://github.com/conda-forge/r-osmar-feedstock.git
+	path = feedstocks/r-osmar
+	branch = refs/heads/master
