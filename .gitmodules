@@ -15194,3 +15194,7 @@
 	url = https://github.com/conda-forge/retype-feedstock.git
 	path = feedstocks/retype
 	branch = refs/heads/master
+[submodule "giza"]
+	url = https://github.com/conda-forge/giza-feedstock.git
+	path = feedstocks/giza
+	branch = refs/heads/master
