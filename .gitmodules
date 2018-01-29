@@ -15314,3 +15314,7 @@
 	url = https://github.com/conda-forge/r-genkern-feedstock.git
 	path = feedstocks/r-genkern
 	branch = refs/heads/master
+[submodule "r-ics"]
+	url = https://github.com/conda-forge/r-ics-feedstock.git
+	path = feedstocks/r-ics
+	branch = refs/heads/master
