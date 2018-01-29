@@ -15322,3 +15322,7 @@
 	url = https://github.com/conda-forge/r-mustat-feedstock.git
 	path = feedstocks/r-mustat
 	branch = refs/heads/master
+[submodule "r-svd"]
+	url = https://github.com/conda-forge/r-svd-feedstock.git
+	path = feedstocks/r-svd
+	branch = refs/heads/master
