@@ -15310,3 +15310,7 @@
 	url = https://github.com/conda-forge/r-genabel-feedstock.git
 	path = feedstocks/r-genabel
 	branch = refs/heads/master
+[submodule "r-genkern"]
+	url = https://github.com/conda-forge/r-genkern-feedstock.git
+	path = feedstocks/r-genkern
+	branch = refs/heads/master
