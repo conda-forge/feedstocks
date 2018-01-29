@@ -15318,3 +15318,7 @@
 	url = https://github.com/conda-forge/r-ics-feedstock.git
 	path = feedstocks/r-ics
 	branch = refs/heads/master
+[submodule "r-mustat"]
+	url = https://github.com/conda-forge/r-mustat-feedstock.git
+	path = feedstocks/r-mustat
+	branch = refs/heads/master
