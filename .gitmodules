@@ -15334,3 +15334,7 @@
 	url = https://github.com/conda-forge/r-bnlearn-feedstock.git
 	path = feedstocks/r-bnlearn
 	branch = refs/heads/master
+[submodule "r-qtl"]
+	url = https://github.com/conda-forge/r-qtl-feedstock.git
+	path = feedstocks/r-qtl
+	branch = refs/heads/master
