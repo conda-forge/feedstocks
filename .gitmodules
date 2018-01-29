@@ -15326,3 +15326,7 @@
 	url = https://github.com/conda-forge/r-svd-feedstock.git
 	path = feedstocks/r-svd
 	branch = refs/heads/master
+[submodule "reaper"]
+	url = https://github.com/conda-forge/reaper-feedstock.git
+	path = feedstocks/reaper
+	branch = refs/heads/master
