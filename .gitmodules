@@ -15350,3 +15350,7 @@
 	url = https://github.com/conda-forge/poap-feedstock.git
 	path = feedstocks/poap
 	branch = refs/heads/master
+[submodule "adept"]
+	url = https://github.com/conda-forge/adept-feedstock.git
+	path = feedstocks/adept
+	branch = refs/heads/master
