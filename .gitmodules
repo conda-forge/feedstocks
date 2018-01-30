@@ -15346,3 +15346,7 @@
 	url = https://github.com/conda-forge/optlang-feedstock.git
 	path = feedstocks/optlang
 	branch = refs/heads/master
+[submodule "poap"]
+	url = https://github.com/conda-forge/poap-feedstock.git
+	path = feedstocks/poap
+	branch = refs/heads/master
