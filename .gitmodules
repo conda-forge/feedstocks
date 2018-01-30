@@ -15342,3 +15342,7 @@
 	url = https://github.com/conda-forge/r-polynomf-feedstock.git
 	path = feedstocks/r-polynomf
 	branch = refs/heads/master
+[submodule "optlang"]
+	url = https://github.com/conda-forge/optlang-feedstock.git
+	path = feedstocks/optlang
+	branch = refs/heads/master
