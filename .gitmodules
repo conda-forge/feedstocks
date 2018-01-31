@@ -15358,3 +15358,7 @@
 	url = https://github.com/conda-forge/r-ggm-feedstock.git
 	path = feedstocks/r-ggm
 	branch = refs/heads/master
+[submodule "r-matrixcalc"]
+	url = https://github.com/conda-forge/r-matrixcalc-feedstock.git
+	path = feedstocks/r-matrixcalc
+	branch = refs/heads/master
