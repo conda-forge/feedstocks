@@ -15422,3 +15422,7 @@
 	url = https://github.com/conda-forge/r-rmtstat-feedstock.git
 	path = feedstocks/r-rmtstat
 	branch = refs/heads/master
+[submodule "r-clues"]
+	url = https://github.com/conda-forge/r-clues-feedstock.git
+	path = feedstocks/r-clues
+	branch = refs/heads/master
