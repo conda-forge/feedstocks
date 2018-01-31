@@ -15366,3 +15366,7 @@
 	url = https://github.com/conda-forge/r-poilog-feedstock.git
 	path = feedstocks/r-poilog
 	branch = refs/heads/master
+[submodule "r-smvar"]
+	url = https://github.com/conda-forge/r-smvar-feedstock.git
+	path = feedstocks/r-smvar
+	branch = refs/heads/master
