@@ -15418,3 +15418,7 @@
 	url = https://github.com/conda-forge/r-rcpproll-feedstock.git
 	path = feedstocks/r-rcpproll
 	branch = refs/heads/master
+[submodule "r-rmtstat"]
+	url = https://github.com/conda-forge/r-rmtstat-feedstock.git
+	path = feedstocks/r-rmtstat
+	branch = refs/heads/master
