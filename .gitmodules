@@ -15390,3 +15390,7 @@
 	url = https://github.com/conda-forge/django-reversion-feedstock.git
 	path = feedstocks/django-reversion
 	branch = refs/heads/master
+[submodule "r-patpro"]
+	url = https://github.com/conda-forge/r-patpro-feedstock.git
+	path = feedstocks/r-patpro
+	branch = refs/heads/master
