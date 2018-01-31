@@ -15406,3 +15406,7 @@
 	url = https://github.com/conda-forge/implicit-feedstock.git
 	path = feedstocks/implicit
 	branch = refs/heads/master
+[submodule "r-qtlrel"]
+	url = https://github.com/conda-forge/r-qtlrel-feedstock.git
+	path = feedstocks/r-qtlrel
+	branch = refs/heads/master
