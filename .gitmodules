@@ -15362,3 +15362,7 @@
 	url = https://github.com/conda-forge/r-matrixcalc-feedstock.git
 	path = feedstocks/r-matrixcalc
 	branch = refs/heads/master
+[submodule "r-poilog"]
+	url = https://github.com/conda-forge/r-poilog-feedstock.git
+	path = feedstocks/r-poilog
+	branch = refs/heads/master
