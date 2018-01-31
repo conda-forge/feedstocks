@@ -15402,3 +15402,7 @@
 	url = https://github.com/conda-forge/westpa-feedstock.git
 	path = feedstocks/westpa
 	branch = refs/heads/master
+[submodule "implicit"]
+	url = https://github.com/conda-forge/implicit-feedstock.git
+	path = feedstocks/implicit
+	branch = refs/heads/master
