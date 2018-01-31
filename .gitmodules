@@ -15414,3 +15414,7 @@
 	url = https://github.com/conda-forge/r-pixmap-feedstock.git
 	path = feedstocks/r-pixmap
 	branch = refs/heads/master
+[submodule "r-rcpproll"]
+	url = https://github.com/conda-forge/r-rcpproll-feedstock.git
+	path = feedstocks/r-rcpproll
+	branch = refs/heads/master
