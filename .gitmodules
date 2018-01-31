@@ -15430,3 +15430,7 @@
 	url = https://github.com/conda-forge/r-rootsolve-feedstock.git
 	path = feedstocks/r-rootsolve
 	branch = refs/heads/master
+[submodule "r-diffr"]
+	url = https://github.com/conda-forge/r-diffr-feedstock.git
+	path = feedstocks/r-diffr
+	branch = refs/heads/master
