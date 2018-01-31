@@ -15374,3 +15374,7 @@
 	url = https://github.com/conda-forge/r-infotheo-feedstock.git
 	path = feedstocks/r-infotheo
 	branch = refs/heads/master
+[submodule "r-matching"]
+	url = https://github.com/conda-forge/r-matching-feedstock.git
+	path = feedstocks/r-matching
+	branch = refs/heads/master
