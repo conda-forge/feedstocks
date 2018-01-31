@@ -15438,3 +15438,7 @@
 	url = https://github.com/conda-forge/r-timsac-feedstock.git
 	path = feedstocks/r-timsac
 	branch = refs/heads/master
+[submodule "r-glm2"]
+	url = https://github.com/conda-forge/r-glm2-feedstock.git
+	path = feedstocks/r-glm2
+	branch = refs/heads/master
