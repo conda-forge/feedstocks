@@ -15426,3 +15426,7 @@
 	url = https://github.com/conda-forge/r-clues-feedstock.git
 	path = feedstocks/r-clues
 	branch = refs/heads/master
+[submodule "r-rootsolve"]
+	url = https://github.com/conda-forge/r-rootsolve-feedstock.git
+	path = feedstocks/r-rootsolve
+	branch = refs/heads/master
