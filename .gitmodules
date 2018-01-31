@@ -15378,3 +15378,7 @@
 	url = https://github.com/conda-forge/r-matching-feedstock.git
 	path = feedstocks/r-matching
 	branch = refs/heads/master
+[submodule "r-network"]
+	url = https://github.com/conda-forge/r-network-feedstock.git
+	path = feedstocks/r-network
+	branch = refs/heads/master
