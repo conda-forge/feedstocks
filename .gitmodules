@@ -15410,3 +15410,7 @@
 	url = https://github.com/conda-forge/r-qtlrel-feedstock.git
 	path = feedstocks/r-qtlrel
 	branch = refs/heads/master
+[submodule "r-pixmap"]
+	url = https://github.com/conda-forge/r-pixmap-feedstock.git
+	path = feedstocks/r-pixmap
+	branch = refs/heads/master
