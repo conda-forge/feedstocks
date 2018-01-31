@@ -15370,3 +15370,7 @@
 	url = https://github.com/conda-forge/r-smvar-feedstock.git
 	path = feedstocks/r-smvar
 	branch = refs/heads/master
+[submodule "r-infotheo"]
+	url = https://github.com/conda-forge/r-infotheo-feedstock.git
+	path = feedstocks/r-infotheo
+	branch = refs/heads/master
