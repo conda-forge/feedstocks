@@ -15354,3 +15354,7 @@
 	url = https://github.com/conda-forge/adept-feedstock.git
 	path = feedstocks/adept
 	branch = refs/heads/master
+[submodule "r-ggm"]
+	url = https://github.com/conda-forge/r-ggm-feedstock.git
+	path = feedstocks/r-ggm
+	branch = refs/heads/master
