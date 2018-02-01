@@ -15446,3 +15446,7 @@
 	url = https://github.com/conda-forge/almosthere-feedstock.git
 	path = feedstocks/almosthere
 	branch = refs/heads/master
+[submodule "pyobjcryst"]
+	url = https://github.com/conda-forge/pyobjcryst-feedstock.git
+	path = feedstocks/pyobjcryst
+	branch = refs/heads/master
