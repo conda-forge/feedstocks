@@ -15442,3 +15442,7 @@
 	url = https://github.com/conda-forge/r-glm2-feedstock.git
 	path = feedstocks/r-glm2
 	branch = refs/heads/master
+[submodule "almosthere"]
+	url = https://github.com/conda-forge/almosthere-feedstock.git
+	path = feedstocks/almosthere
+	branch = refs/heads/master
