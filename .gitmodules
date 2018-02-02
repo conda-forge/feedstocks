@@ -15466,3 +15466,7 @@
 	url = https://github.com/conda-forge/r-dicekriging-feedstock.git
 	path = feedstocks/r-dicekriging
 	branch = refs/heads/master
+[submodule "r-ccapp"]
+	url = https://github.com/conda-forge/r-ccapp-feedstock.git
+	path = feedstocks/r-ccapp
+	branch = refs/heads/master
