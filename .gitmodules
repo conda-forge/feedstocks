@@ -15470,3 +15470,7 @@
 	url = https://github.com/conda-forge/r-ccapp-feedstock.git
 	path = feedstocks/r-ccapp
 	branch = refs/heads/master
+[submodule "r-jade"]
+	url = https://github.com/conda-forge/r-jade-feedstock.git
+	path = feedstocks/r-jade
+	branch = refs/heads/master
