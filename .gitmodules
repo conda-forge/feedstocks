@@ -15458,3 +15458,7 @@
 	url = https://github.com/conda-forge/pysot-feedstock.git
 	path = feedstocks/pysot
 	branch = refs/heads/master
+[submodule "python-xxhash"]
+	url = https://github.com/conda-forge/python-xxhash-feedstock.git
+	path = feedstocks/python-xxhash
+	branch = refs/heads/master
