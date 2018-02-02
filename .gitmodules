@@ -15462,3 +15462,7 @@
 	url = https://github.com/conda-forge/python-xxhash-feedstock.git
 	path = feedstocks/python-xxhash
 	branch = refs/heads/master
+[submodule "r-dicekriging"]
+	url = https://github.com/conda-forge/r-dicekriging-feedstock.git
+	path = feedstocks/r-dicekriging
+	branch = refs/heads/master
