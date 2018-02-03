@@ -15578,3 +15578,7 @@
 	url = https://github.com/conda-forge/r-alluvial-feedstock.git
 	path = feedstocks/r-alluvial
 	branch = refs/heads/master
+[submodule "r-fingerprint"]
+	url = https://github.com/conda-forge/r-fingerprint-feedstock.git
+	path = feedstocks/r-fingerprint
+	branch = refs/heads/master
