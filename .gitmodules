@@ -15606,3 +15606,7 @@
 	url = https://github.com/conda-forge/r-rematch2-feedstock.git
 	path = feedstocks/r-rematch2
 	branch = refs/heads/master
+[submodule "r-ruv"]
+	url = https://github.com/conda-forge/r-ruv-feedstock.git
+	path = feedstocks/r-ruv
+	branch = refs/heads/master
