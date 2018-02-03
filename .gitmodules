@@ -15538,3 +15538,7 @@
 	url = https://github.com/conda-forge/r-nnls-feedstock.git
 	path = feedstocks/r-nnls
 	branch = refs/heads/master
+[submodule "r-pinfsc50"]
+	url = https://github.com/conda-forge/r-pinfsc50-feedstock.git
+	path = feedstocks/r-pinfsc50
+	branch = refs/heads/master
