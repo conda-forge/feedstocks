@@ -15674,3 +15674,7 @@
 	url = https://github.com/conda-forge/r-precrec-feedstock.git
 	path = feedstocks/r-precrec
 	branch = refs/heads/master
+[submodule "r-rphylip"]
+	url = https://github.com/conda-forge/r-rphylip-feedstock.git
+	path = feedstocks/r-rphylip
+	branch = refs/heads/master
