@@ -15654,3 +15654,7 @@
 	url = https://github.com/conda-forge/r-desolve-feedstock.git
 	path = feedstocks/r-desolve
 	branch = refs/heads/master
+[submodule "r-dynamictreecut"]
+	url = https://github.com/conda-forge/r-dynamictreecut-feedstock.git
+	path = feedstocks/r-dynamictreecut
+	branch = refs/heads/master
