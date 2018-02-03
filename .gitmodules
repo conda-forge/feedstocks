@@ -15622,3 +15622,7 @@
 	url = https://github.com/conda-forge/r-squash-feedstock.git
 	path = feedstocks/r-squash
 	branch = refs/heads/master
+[submodule "powerline-status"]
+	url = https://github.com/conda-forge/powerline-status-feedstock.git
+	path = feedstocks/powerline-status
+	branch = refs/heads/master
