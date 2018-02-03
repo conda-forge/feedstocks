@@ -15598,3 +15598,7 @@
 	url = https://github.com/conda-forge/r-pdist-feedstock.git
 	path = feedstocks/r-pdist
 	branch = refs/heads/master
+[submodule "r-princurve"]
+	url = https://github.com/conda-forge/r-princurve-feedstock.git
+	path = feedstocks/r-princurve
+	branch = refs/heads/master
