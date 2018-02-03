@@ -15658,3 +15658,7 @@
 	url = https://github.com/conda-forge/r-dynamictreecut-feedstock.git
 	path = feedstocks/r-dynamictreecut
 	branch = refs/heads/master
+[submodule "r-gwidgets"]
+	url = https://github.com/conda-forge/r-gwidgets-feedstock.git
+	path = feedstocks/r-gwidgets
+	branch = refs/heads/master
