@@ -15590,3 +15590,7 @@
 	url = https://github.com/conda-forge/r-mefa-feedstock.git
 	path = feedstocks/r-mefa
 	branch = refs/heads/master
+[submodule "r-nls2"]
+	url = https://github.com/conda-forge/r-nls2-feedstock.git
+	path = feedstocks/r-nls2
+	branch = refs/heads/master
