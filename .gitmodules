@@ -15638,3 +15638,7 @@
 	url = https://github.com/conda-forge/r-icluster-feedstock.git
 	path = feedstocks/r-icluster
 	branch = refs/heads/master
+[submodule "r-pcit"]
+	url = https://github.com/conda-forge/r-pcit-feedstock.git
+	path = feedstocks/r-pcit
+	branch = refs/heads/master
