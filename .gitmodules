@@ -15478,3 +15478,7 @@
 	url = https://github.com/conda-forge/r-pamr-feedstock.git
 	path = feedstocks/r-pamr
 	branch = refs/heads/master
+[submodule "r-emt"]
+	url = https://github.com/conda-forge/r-emt-feedstock.git
+	path = feedstocks/r-emt
+	branch = refs/heads/master
