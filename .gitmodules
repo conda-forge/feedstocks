@@ -15582,3 +15582,7 @@
 	url = https://github.com/conda-forge/r-fingerprint-feedstock.git
 	path = feedstocks/r-fingerprint
 	branch = refs/heads/master
+[submodule "r-apcluster"]
+	url = https://github.com/conda-forge/r-apcluster-feedstock.git
+	path = feedstocks/r-apcluster
+	branch = refs/heads/master
