@@ -15502,3 +15502,7 @@
 	url = https://github.com/conda-forge/r-rmallow-feedstock.git
 	path = feedstocks/r-rmallow
 	branch = refs/heads/master
+[submodule "r-xnomial"]
+	url = https://github.com/conda-forge/r-xnomial-feedstock.git
+	path = feedstocks/r-xnomial
+	branch = refs/heads/master
