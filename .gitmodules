@@ -15594,3 +15594,7 @@
 	url = https://github.com/conda-forge/r-nls2-feedstock.git
 	path = feedstocks/r-nls2
 	branch = refs/heads/master
+[submodule "r-pdist"]
+	url = https://github.com/conda-forge/r-pdist-feedstock.git
+	path = feedstocks/r-pdist
+	branch = refs/heads/master
