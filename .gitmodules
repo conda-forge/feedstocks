@@ -15526,3 +15526,7 @@
 	url = https://github.com/conda-forge/r-icsnp-feedstock.git
 	path = feedstocks/r-icsnp
 	branch = refs/heads/master
+[submodule "r-lsa"]
+	url = https://github.com/conda-forge/r-lsa-feedstock.git
+	path = feedstocks/r-lsa
+	branch = refs/heads/master
