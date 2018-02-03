@@ -15630,3 +15630,7 @@
 	url = https://github.com/conda-forge/r-argumentcheck-feedstock.git
 	path = feedstocks/r-argumentcheck
 	branch = refs/heads/master
+[submodule "r-filehash"]
+	url = https://github.com/conda-forge/r-filehash-feedstock.git
+	path = feedstocks/r-filehash
+	branch = refs/heads/master
