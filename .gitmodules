@@ -15618,3 +15618,7 @@
 	url = https://github.com/conda-forge/r-sme-feedstock.git
 	path = feedstocks/r-sme
 	branch = refs/heads/master
+[submodule "r-squash"]
+	url = https://github.com/conda-forge/r-squash-feedstock.git
+	path = feedstocks/r-squash
+	branch = refs/heads/master
