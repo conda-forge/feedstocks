@@ -15614,3 +15614,7 @@
 	url = https://github.com/conda-forge/r-scrm-feedstock.git
 	path = feedstocks/r-scrm
 	branch = refs/heads/master
+[submodule "r-sme"]
+	url = https://github.com/conda-forge/r-sme-feedstock.git
+	path = feedstocks/r-sme
+	branch = refs/heads/master
