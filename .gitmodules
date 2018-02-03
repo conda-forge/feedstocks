@@ -15558,3 +15558,7 @@
 	url = https://github.com/conda-forge/r-shinyfiles-feedstock.git
 	path = feedstocks/r-shinyfiles
 	branch = refs/heads/master
+[submodule "r-parmigene"]
+	url = https://github.com/conda-forge/r-parmigene-feedstock.git
+	path = feedstocks/r-parmigene
+	branch = refs/heads/master
