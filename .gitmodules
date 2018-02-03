@@ -15506,3 +15506,7 @@
 	url = https://github.com/conda-forge/r-xnomial-feedstock.git
 	path = feedstocks/r-xnomial
 	branch = refs/heads/master
+[submodule "httpagentparser"]
+	url = https://github.com/conda-forge/httpagentparser-feedstock.git
+	path = feedstocks/httpagentparser
+	branch = refs/heads/master
