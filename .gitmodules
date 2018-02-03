@@ -15498,3 +15498,7 @@
 	url = https://github.com/conda-forge/r-ppcor-feedstock.git
 	path = feedstocks/r-ppcor
 	branch = refs/heads/master
+[submodule "r-rmallow"]
+	url = https://github.com/conda-forge/r-rmallow-feedstock.git
+	path = feedstocks/r-rmallow
+	branch = refs/heads/master
