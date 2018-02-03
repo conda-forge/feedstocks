@@ -15514,3 +15514,7 @@
 	url = https://github.com/conda-forge/r-bio3d-feedstock.git
 	path = feedstocks/r-bio3d
 	branch = refs/heads/master
+[submodule "tinyrpc"]
+	url = https://github.com/conda-forge/tinyrpc-feedstock.git
+	path = feedstocks/tinyrpc
+	branch = refs/heads/master
