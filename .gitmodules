@@ -15666,3 +15666,7 @@
 	url = https://github.com/conda-forge/r-haplo.stats-feedstock.git
 	path = feedstocks/r-haplo.stats
 	branch = refs/heads/master
+[submodule "r-mrmre"]
+	url = https://github.com/conda-forge/r-mrmre-feedstock.git
+	path = feedstocks/r-mrmre
+	branch = refs/heads/master
