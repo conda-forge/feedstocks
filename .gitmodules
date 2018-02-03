@@ -15486,3 +15486,7 @@
 	url = https://github.com/conda-forge/r-microseq-feedstock.git
 	path = feedstocks/r-microseq
 	branch = refs/heads/master
+[submodule "r-mlbench"]
+	url = https://github.com/conda-forge/r-mlbench-feedstock.git
+	path = feedstocks/r-mlbench
+	branch = refs/heads/master
