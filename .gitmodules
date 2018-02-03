@@ -15610,3 +15610,7 @@
 	url = https://github.com/conda-forge/r-ruv-feedstock.git
 	path = feedstocks/r-ruv
 	branch = refs/heads/master
+[submodule "r-scrm"]
+	url = https://github.com/conda-forge/r-scrm-feedstock.git
+	path = feedstocks/r-scrm
+	branch = refs/heads/master
