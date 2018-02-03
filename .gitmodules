@@ -15554,3 +15554,7 @@
 	url = https://github.com/conda-forge/r-robustrankaggreg-feedstock.git
 	path = feedstocks/r-robustrankaggreg
 	branch = refs/heads/master
+[submodule "r-shinyfiles"]
+	url = https://github.com/conda-forge/r-shinyfiles-feedstock.git
+	path = feedstocks/r-shinyfiles
+	branch = refs/heads/master
