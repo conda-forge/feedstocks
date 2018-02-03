@@ -15494,3 +15494,7 @@
 	url = https://github.com/conda-forge/r-modeest-feedstock.git
 	path = feedstocks/r-modeest
 	branch = refs/heads/master
+[submodule "r-ppcor"]
+	url = https://github.com/conda-forge/r-ppcor-feedstock.git
+	path = feedstocks/r-ppcor
+	branch = refs/heads/master
