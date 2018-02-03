@@ -15510,3 +15510,7 @@
 	url = https://github.com/conda-forge/httpagentparser-feedstock.git
 	path = feedstocks/httpagentparser
 	branch = refs/heads/master
+[submodule "r-bio3d"]
+	url = https://github.com/conda-forge/r-bio3d-feedstock.git
+	path = feedstocks/r-bio3d
+	branch = refs/heads/master
