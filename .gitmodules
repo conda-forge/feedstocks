@@ -15534,3 +15534,7 @@
 	url = https://github.com/conda-forge/r-mqtl-feedstock.git
 	path = feedstocks/r-mqtl
 	branch = refs/heads/master
+[submodule "r-nnls"]
+	url = https://github.com/conda-forge/r-nnls-feedstock.git
+	path = feedstocks/r-nnls
+	branch = refs/heads/master
