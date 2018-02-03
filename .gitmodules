@@ -15650,3 +15650,7 @@
 	url = https://github.com/conda-forge/r-rcppannoy-feedstock.git
 	path = feedstocks/r-rcppannoy
 	branch = refs/heads/master
+[submodule "r-desolve"]
+	url = https://github.com/conda-forge/r-desolve-feedstock.git
+	path = feedstocks/r-desolve
+	branch = refs/heads/master
