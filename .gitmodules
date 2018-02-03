@@ -15678,3 +15678,7 @@
 	url = https://github.com/conda-forge/r-rphylip-feedstock.git
 	path = feedstocks/r-rphylip
 	branch = refs/heads/master
+[submodule "r-seqinr"]
+	url = https://github.com/conda-forge/r-seqinr-feedstock.git
+	path = feedstocks/r-seqinr
+	branch = refs/heads/master
