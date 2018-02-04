@@ -15770,3 +15770,7 @@
 	url = https://github.com/conda-forge/async_generator-feedstock.git
 	path = feedstocks/async_generator
 	branch = refs/heads/master
+[submodule "trio"]
+	url = https://github.com/conda-forge/trio-feedstock.git
+	path = feedstocks/trio
+	branch = refs/heads/master
