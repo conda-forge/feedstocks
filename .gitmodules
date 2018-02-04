@@ -15682,3 +15682,7 @@
 	url = https://github.com/conda-forge/r-seqinr-feedstock.git
 	path = feedstocks/r-seqinr
 	branch = refs/heads/master
+[submodule "r-glasso"]
+	url = https://github.com/conda-forge/r-glasso-feedstock.git
+	path = feedstocks/r-glasso
+	branch = refs/heads/master
