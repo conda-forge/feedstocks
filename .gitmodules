@@ -15762,3 +15762,7 @@
 	url = https://github.com/conda-forge/r-vim-feedstock.git
 	path = feedstocks/r-vim
 	branch = refs/heads/master
+[submodule "portalocker"]
+	url = https://github.com/conda-forge/portalocker-feedstock.git
+	path = feedstocks/portalocker
+	branch = refs/heads/master
