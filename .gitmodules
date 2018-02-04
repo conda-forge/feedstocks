@@ -15686,3 +15686,7 @@
 	url = https://github.com/conda-forge/r-glasso-feedstock.git
 	path = feedstocks/r-glasso
 	branch = refs/heads/master
+[submodule "r-liblinear"]
+	url = https://github.com/conda-forge/r-liblinear-feedstock.git
+	path = feedstocks/r-liblinear
+	branch = refs/heads/master
