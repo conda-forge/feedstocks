@@ -15750,3 +15750,7 @@
 	url = https://github.com/conda-forge/r-laplacesdemon-feedstock.git
 	path = feedstocks/r-laplacesdemon
 	branch = refs/heads/master
+[submodule "r-maldiquant"]
+	url = https://github.com/conda-forge/r-maldiquant-feedstock.git
+	path = feedstocks/r-maldiquant
+	branch = refs/heads/master
