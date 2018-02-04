@@ -15738,3 +15738,7 @@
 	url = https://github.com/conda-forge/r-sm-feedstock.git
 	path = feedstocks/r-sm
 	branch = refs/heads/master
+[submodule "r-smoothmest"]
+	url = https://github.com/conda-forge/r-smoothmest-feedstock.git
+	path = feedstocks/r-smoothmest
+	branch = refs/heads/master
