@@ -15698,3 +15698,7 @@
 	url = https://github.com/conda-forge/r-matrixeqtl-feedstock.git
 	path = feedstocks/r-matrixeqtl
 	branch = refs/heads/master
+[submodule "r-protviz"]
+	url = https://github.com/conda-forge/r-protviz-feedstock.git
+	path = feedstocks/r-protviz
+	branch = refs/heads/master
