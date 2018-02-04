@@ -15702,3 +15702,7 @@
 	url = https://github.com/conda-forge/r-protviz-feedstock.git
 	path = feedstocks/r-protviz
 	branch = refs/heads/master
+[submodule "r-rda"]
+	url = https://github.com/conda-forge/r-rda-feedstock.git
+	path = feedstocks/r-rda
+	branch = refs/heads/master
