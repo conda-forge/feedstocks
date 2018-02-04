@@ -15694,3 +15694,7 @@
 	url = https://github.com/conda-forge/r-log4r-feedstock.git
 	path = feedstocks/r-log4r
 	branch = refs/heads/master
+[submodule "r-matrixeqtl"]
+	url = https://github.com/conda-forge/r-matrixeqtl-feedstock.git
+	path = feedstocks/r-matrixeqtl
+	branch = refs/heads/master
