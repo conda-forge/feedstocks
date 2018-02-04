@@ -15730,3 +15730,7 @@
 	url = https://github.com/conda-forge/r-rcircos-feedstock.git
 	path = feedstocks/r-rcircos
 	branch = refs/heads/master
+[submodule "r-regress"]
+	url = https://github.com/conda-forge/r-regress-feedstock.git
+	path = feedstocks/r-regress
+	branch = refs/heads/master
