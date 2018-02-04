@@ -15706,3 +15706,7 @@
 	url = https://github.com/conda-forge/r-rda-feedstock.git
 	path = feedstocks/r-rda
 	branch = refs/heads/master
+[submodule "r-readbrukerflexdata"]
+	url = https://github.com/conda-forge/r-readbrukerflexdata-feedstock.git
+	path = feedstocks/r-readbrukerflexdata
+	branch = refs/heads/master
