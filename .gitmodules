@@ -15742,3 +15742,7 @@
 	url = https://github.com/conda-forge/r-smoothmest-feedstock.git
 	path = feedstocks/r-smoothmest
 	branch = refs/heads/master
+[submodule "r-colourpicker"]
+	url = https://github.com/conda-forge/r-colourpicker-feedstock.git
+	path = feedstocks/r-colourpicker
+	branch = refs/heads/master
