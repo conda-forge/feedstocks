@@ -15758,3 +15758,7 @@
 	url = https://github.com/conda-forge/r-tractor.base-feedstock.git
 	path = feedstocks/r-tractor.base
 	branch = refs/heads/master
+[submodule "r-vim"]
+	url = https://github.com/conda-forge/r-vim-feedstock.git
+	path = feedstocks/r-vim
+	branch = refs/heads/master
