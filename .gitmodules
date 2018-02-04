@@ -15718,3 +15718,7 @@
 	url = https://github.com/conda-forge/r-tfmpvalue-feedstock.git
 	path = feedstocks/r-tfmpvalue
 	branch = refs/heads/master
+[submodule "r-tsp"]
+	url = https://github.com/conda-forge/r-tsp-feedstock.git
+	path = feedstocks/r-tsp
+	branch = refs/heads/master
