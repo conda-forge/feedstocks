@@ -15726,3 +15726,7 @@
 	url = https://github.com/conda-forge/r-ccremover-feedstock.git
 	path = feedstocks/r-ccremover
 	branch = refs/heads/master
+[submodule "r-rcircos"]
+	url = https://github.com/conda-forge/r-rcircos-feedstock.git
+	path = feedstocks/r-rcircos
+	branch = refs/heads/master
