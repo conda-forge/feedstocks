@@ -15690,3 +15690,7 @@
 	url = https://github.com/conda-forge/r-liblinear-feedstock.git
 	path = feedstocks/r-liblinear
 	branch = refs/heads/master
+[submodule "r-log4r"]
+	url = https://github.com/conda-forge/r-log4r-feedstock.git
+	path = feedstocks/r-log4r
+	branch = refs/heads/master
