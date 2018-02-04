@@ -15754,3 +15754,7 @@
 	url = https://github.com/conda-forge/r-maldiquant-feedstock.git
 	path = feedstocks/r-maldiquant
 	branch = refs/heads/master
+[submodule "r-tractor.base"]
+	url = https://github.com/conda-forge/r-tractor.base-feedstock.git
+	path = feedstocks/r-tractor.base
+	branch = refs/heads/master
