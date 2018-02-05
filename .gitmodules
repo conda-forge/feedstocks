@@ -15802,3 +15802,7 @@
 	url = https://github.com/conda-forge/r-ic10trainingdata-feedstock.git
 	path = feedstocks/r-ic10trainingdata
 	branch = refs/heads/master
+[submodule "r-phangorn"]
+	url = https://github.com/conda-forge/r-phangorn-feedstock.git
+	path = feedstocks/r-phangorn
+	branch = refs/heads/master
