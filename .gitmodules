@@ -15778,3 +15778,7 @@
 	url = https://github.com/conda-forge/r-mlgt-feedstock.git
 	path = feedstocks/r-mlgt
 	branch = refs/heads/master
+[submodule "r-lsei"]
+	url = https://github.com/conda-forge/r-lsei-feedstock.git
+	path = feedstocks/r-lsei
+	branch = refs/heads/master
