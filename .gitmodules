@@ -15798,3 +15798,7 @@
 	url = https://github.com/conda-forge/r-genenet-feedstock.git
 	path = feedstocks/r-genenet
 	branch = refs/heads/master
+[submodule "r-ic10trainingdata"]
+	url = https://github.com/conda-forge/r-ic10trainingdata-feedstock.git
+	path = feedstocks/r-ic10trainingdata
+	branch = refs/heads/master
