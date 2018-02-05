@@ -15794,3 +15794,7 @@
 	url = https://github.com/conda-forge/r-biomark-feedstock.git
 	path = feedstocks/r-biomark
 	branch = refs/heads/master
+[submodule "r-genenet"]
+	url = https://github.com/conda-forge/r-genenet-feedstock.git
+	path = feedstocks/r-genenet
+	branch = refs/heads/master
