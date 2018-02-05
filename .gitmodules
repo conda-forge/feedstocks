@@ -15806,3 +15806,7 @@
 	url = https://github.com/conda-forge/r-phangorn-feedstock.git
 	path = feedstocks/r-phangorn
 	branch = refs/heads/master
+[submodule "r-solarius"]
+	url = https://github.com/conda-forge/r-solarius-feedstock.git
+	path = feedstocks/r-solarius
+	branch = refs/heads/master
