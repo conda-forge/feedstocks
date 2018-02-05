@@ -15790,3 +15790,7 @@
 	url = https://github.com/conda-forge/ukpostcodeparser-feedstock.git
 	path = feedstocks/ukpostcodeparser
 	branch = refs/heads/master
+[submodule "r-biomark"]
+	url = https://github.com/conda-forge/r-biomark-feedstock.git
+	path = feedstocks/r-biomark
+	branch = refs/heads/master
