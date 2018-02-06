@@ -15846,3 +15846,7 @@
 	url = https://github.com/conda-forge/pyexodus-feedstock.git
 	path = feedstocks/pyexodus
 	branch = refs/heads/master
+[submodule "jupyternotify"]
+	url = https://github.com/conda-forge/jupyternotify-feedstock.git
+	path = feedstocks/jupyternotify
+	branch = refs/heads/master
