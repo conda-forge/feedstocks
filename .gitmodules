@@ -15818,3 +15818,7 @@
 	url = https://github.com/conda-forge/r-cnogpro-feedstock.git
 	path = feedstocks/r-cnogpro
 	branch = refs/heads/master
+[submodule "r-mixomics"]
+	url = https://github.com/conda-forge/r-mixomics-feedstock.git
+	path = feedstocks/r-mixomics
+	branch = refs/heads/master
