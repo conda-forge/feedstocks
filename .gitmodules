@@ -15834,3 +15834,7 @@
 	url = https://github.com/conda-forge/r-rcsdp-feedstock.git
 	path = feedstocks/r-rcsdp
 	branch = refs/heads/master
+[submodule "aenum"]
+	url = https://github.com/conda-forge/aenum-feedstock.git
+	path = feedstocks/aenum
+	branch = refs/heads/master
