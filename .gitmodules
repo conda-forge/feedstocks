@@ -15822,3 +15822,7 @@
 	url = https://github.com/conda-forge/r-mixomics-feedstock.git
 	path = feedstocks/r-mixomics
 	branch = refs/heads/master
+[submodule "r-smatr"]
+	url = https://github.com/conda-forge/r-smatr-feedstock.git
+	path = feedstocks/r-smatr
+	branch = refs/heads/master
