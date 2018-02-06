@@ -15830,3 +15830,7 @@
 	url = https://github.com/conda-forge/r-snpassoc-feedstock.git
 	path = feedstocks/r-snpassoc
 	branch = refs/heads/master
+[submodule "r-rcsdp"]
+	url = https://github.com/conda-forge/r-rcsdp-feedstock.git
+	path = feedstocks/r-rcsdp
+	branch = refs/heads/master
