@@ -15858,3 +15858,7 @@
 	url = https://github.com/conda-forge/sisl-feedstock.git
 	path = feedstocks/sisl
 	branch = refs/heads/master
+[submodule "python-patch"]
+	url = https://github.com/conda-forge/python-patch-feedstock.git
+	path = feedstocks/python-patch
+	branch = refs/heads/master
