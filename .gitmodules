@@ -15862,3 +15862,7 @@
 	url = https://github.com/conda-forge/python-patch-feedstock.git
 	path = feedstocks/python-patch
 	branch = refs/heads/master
+[submodule "django-cruds-adminlte"]
+	url = https://github.com/conda-forge/django-cruds-adminlte-feedstock.git
+	path = feedstocks/django-cruds-adminlte
+	branch = refs/heads/master
