@@ -15866,3 +15866,7 @@
 	url = https://github.com/conda-forge/django-cruds-adminlte-feedstock.git
 	path = feedstocks/django-cruds-adminlte
 	branch = refs/heads/master
+[submodule "scrypt"]
+	url = https://github.com/conda-forge/scrypt-feedstock.git
+	path = feedstocks/scrypt
+	branch = refs/heads/master
