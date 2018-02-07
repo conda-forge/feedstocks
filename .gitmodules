@@ -15870,3 +15870,7 @@
 	url = https://github.com/conda-forge/scrypt-feedstock.git
 	path = feedstocks/scrypt
 	branch = refs/heads/master
+[submodule "libdiffpy"]
+	url = https://github.com/conda-forge/libdiffpy-feedstock.git
+	path = feedstocks/libdiffpy
+	branch = refs/heads/master
