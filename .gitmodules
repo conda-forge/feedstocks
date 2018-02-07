@@ -15850,3 +15850,7 @@
 	url = https://github.com/conda-forge/jupyternotify-feedstock.git
 	path = feedstocks/jupyternotify
 	branch = refs/heads/master
+[submodule "python-node-semver"]
+	url = https://github.com/conda-forge/python-node-semver-feedstock.git
+	path = feedstocks/python-node-semver
+	branch = refs/heads/master
