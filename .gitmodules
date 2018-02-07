@@ -15854,3 +15854,7 @@
 	url = https://github.com/conda-forge/python-node-semver-feedstock.git
 	path = feedstocks/python-node-semver
 	branch = refs/heads/master
+[submodule "sisl"]
+	url = https://github.com/conda-forge/sisl-feedstock.git
+	path = feedstocks/sisl
+	branch = refs/heads/master
