@@ -15874,3 +15874,7 @@
 	url = https://github.com/conda-forge/libdiffpy-feedstock.git
 	path = feedstocks/libdiffpy
 	branch = refs/heads/master
+[submodule "nansat"]
+	url = https://github.com/conda-forge/nansat-feedstock.git
+	path = feedstocks/nansat
+	branch = refs/heads/master
