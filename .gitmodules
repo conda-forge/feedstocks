@@ -15886,3 +15886,7 @@
 	url = https://github.com/conda-forge/fswatch-feedstock.git
 	path = feedstocks/fswatch
 	branch = refs/heads/master
+[submodule "django-js-asset"]
+	url = https://github.com/conda-forge/django-js-asset-feedstock.git
+	path = feedstocks/django-js-asset
+	branch = refs/heads/master
