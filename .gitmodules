@@ -15902,3 +15902,7 @@
 	url = https://github.com/conda-forge/nbserverproxy-feedstock.git
 	path = feedstocks/nbserverproxy
 	branch = refs/heads/master
+[submodule "pytest-pylint"]
+	url = https://github.com/conda-forge/pytest-pylint-feedstock.git
+	path = feedstocks/pytest-pylint
+	branch = refs/heads/master
