@@ -15914,3 +15914,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-programoutput-feedstock.git
 	path = feedstocks/sphinxcontrib-programoutput
 	branch = refs/heads/master
+[submodule "bowtie"]
+	url = https://github.com/conda-forge/bowtie-feedstock.git
+	path = feedstocks/bowtie
+	branch = refs/heads/master
