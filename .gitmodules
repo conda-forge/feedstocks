@@ -15898,3 +15898,7 @@
 	url = https://github.com/conda-forge/nbrsessionproxy-feedstock.git
 	path = feedstocks/nbrsessionproxy
 	branch = refs/heads/master
+[submodule "nbserverproxy"]
+	url = https://github.com/conda-forge/nbserverproxy-feedstock.git
+	path = feedstocks/nbserverproxy
+	branch = refs/heads/master
