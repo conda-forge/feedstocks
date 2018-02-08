@@ -15910,3 +15910,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-restbuilder-feedstock.git
 	path = feedstocks/sphinxcontrib-restbuilder
 	branch = refs/heads/master
+[submodule "sphinxcontrib-programoutput"]
+	url = https://github.com/conda-forge/sphinxcontrib-programoutput-feedstock.git
+	path = feedstocks/sphinxcontrib-programoutput
+	branch = refs/heads/master
