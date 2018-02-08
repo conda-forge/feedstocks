@@ -15882,3 +15882,7 @@
 	url = https://github.com/conda-forge/pyuv-feedstock.git
 	path = feedstocks/pyuv
 	branch = refs/heads/master
+[submodule "fswatch"]
+	url = https://github.com/conda-forge/fswatch-feedstock.git
+	path = feedstocks/fswatch
+	branch = refs/heads/master
