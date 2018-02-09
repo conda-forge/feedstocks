@@ -15934,3 +15934,7 @@
 	url = https://github.com/conda-forge/r-dendsort-feedstock.git
 	path = feedstocks/r-dendsort
 	branch = refs/heads/master
+[submodule "r-grr"]
+	url = https://github.com/conda-forge/r-grr-feedstock.git
+	path = feedstocks/r-grr
+	branch = refs/heads/master
