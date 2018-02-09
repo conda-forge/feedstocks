@@ -15926,3 +15926,7 @@
 	url = https://github.com/conda-forge/bowtie-py-feedstock.git
 	path = feedstocks/bowtie-py
 	branch = refs/heads/master
+[submodule "judy"]
+	url = https://github.com/conda-forge/judy-feedstock.git
+	path = feedstocks/judy
+	branch = refs/heads/master
