@@ -15918,3 +15918,7 @@
 	url = https://github.com/conda-forge/bowtie-feedstock.git
 	path = feedstocks/bowtie
 	branch = refs/heads/master
+[submodule "django-mptt"]
+	url = https://github.com/conda-forge/django-mptt-feedstock.git
+	path = feedstocks/django-mptt
+	branch = refs/heads/master
