@@ -15934,3 +15934,7 @@
 	url = https://github.com/conda-forge/r-grr-feedstock.git
 	path = feedstocks/r-grr
 	branch = refs/heads/master
+[submodule "r-circular"]
+	url = https://github.com/conda-forge/r-circular-feedstock.git
+	path = feedstocks/r-circular
+	branch = refs/heads/master
