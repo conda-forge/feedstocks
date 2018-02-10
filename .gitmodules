@@ -15938,3 +15938,7 @@
 	url = https://github.com/conda-forge/r-circular-feedstock.git
 	path = feedstocks/r-circular
 	branch = refs/heads/master
+[submodule "r-matrix.utils"]
+	url = https://github.com/conda-forge/r-matrix.utils-feedstock.git
+	path = feedstocks/r-matrix.utils
+	branch = refs/heads/master
