@@ -15942,3 +15942,7 @@
 	url = https://github.com/conda-forge/r-matrix.utils-feedstock.git
 	path = feedstocks/r-matrix.utils
 	branch = refs/heads/master
+[submodule "healpix_cxx"]
+	url = https://github.com/conda-forge/healpix_cxx-feedstock.git
+	path = feedstocks/healpix_cxx
+	branch = refs/heads/master
