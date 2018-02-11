@@ -15950,3 +15950,7 @@
 	url = https://github.com/conda-forge/r-qiimer-feedstock.git
 	path = feedstocks/r-qiimer
 	branch = refs/heads/master
+[submodule "postgis"]
+	url = https://github.com/conda-forge/postgis-feedstock.git
+	path = feedstocks/postgis
+	branch = refs/heads/master
