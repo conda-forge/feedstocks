@@ -15958,3 +15958,7 @@
 	url = https://github.com/conda-forge/pytest-testmon-feedstock.git
 	path = feedstocks/pytest-testmon
 	branch = refs/heads/master
+[submodule "r-cubature"]
+	url = https://github.com/conda-forge/r-cubature-feedstock.git
+	path = feedstocks/r-cubature
+	branch = refs/heads/master
