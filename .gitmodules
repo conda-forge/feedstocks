@@ -15962,3 +15962,7 @@
 	url = https://github.com/conda-forge/r-cubature-feedstock.git
 	path = feedstocks/r-cubature
 	branch = refs/heads/master
+[submodule "pipfile"]
+	url = https://github.com/conda-forge/pipfile-feedstock.git
+	path = feedstocks/pipfile
+	branch = refs/heads/master
