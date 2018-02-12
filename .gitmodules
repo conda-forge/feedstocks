@@ -15966,3 +15966,7 @@
 	url = https://github.com/conda-forge/pipfile-feedstock.git
 	path = feedstocks/pipfile
 	branch = refs/heads/master
+[submodule "svgwrite"]
+	url = https://github.com/conda-forge/svgwrite-feedstock.git
+	path = feedstocks/svgwrite
+	branch = refs/heads/master
