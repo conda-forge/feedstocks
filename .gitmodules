@@ -15974,3 +15974,7 @@
 	url = https://github.com/conda-forge/distro-feedstock.git
 	path = feedstocks/distro
 	branch = refs/heads/master
+[submodule "qgrid"]
+	url = https://github.com/conda-forge/qgrid-feedstock.git
+	path = feedstocks/qgrid
+	branch = refs/heads/master
