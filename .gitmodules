@@ -15978,3 +15978,7 @@
 	url = https://github.com/conda-forge/qgrid-feedstock.git
 	path = feedstocks/qgrid
 	branch = refs/heads/master
+[submodule "openh264"]
+	url = https://github.com/conda-forge/openh264-feedstock.git
+	path = feedstocks/openh264
+	branch = refs/heads/master
