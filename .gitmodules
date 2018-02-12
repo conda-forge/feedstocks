@@ -15970,3 +15970,7 @@
 	url = https://github.com/conda-forge/svgwrite-feedstock.git
 	path = feedstocks/svgwrite
 	branch = refs/heads/master
+[submodule "distro"]
+	url = https://github.com/conda-forge/distro-feedstock.git
+	path = feedstocks/distro
+	branch = refs/heads/master
