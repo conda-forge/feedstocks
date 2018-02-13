@@ -16022,3 +16022,7 @@
 	url = https://github.com/conda-forge/astropy-sphinx-theme-feedstock.git
 	path = feedstocks/astropy-sphinx-theme
 	branch = refs/heads/master
+[submodule "sphinx-astropy"]
+	url = https://github.com/conda-forge/sphinx-astropy-feedstock.git
+	path = feedstocks/sphinx-astropy
+	branch = refs/heads/master
