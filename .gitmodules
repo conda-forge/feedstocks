@@ -16026,3 +16026,7 @@
 	url = https://github.com/conda-forge/sphinx-astropy-feedstock.git
 	path = feedstocks/sphinx-astropy
 	branch = refs/heads/master
+[submodule "sphinx-automodapi"]
+	url = https://github.com/conda-forge/sphinx-automodapi-feedstock.git
+	path = feedstocks/sphinx-automodapi
+	branch = refs/heads/master
