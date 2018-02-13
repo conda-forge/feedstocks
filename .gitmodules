@@ -16018,3 +16018,7 @@
 	url = https://github.com/conda-forge/pytest-remotedata-feedstock.git
 	path = feedstocks/pytest-remotedata
 	branch = refs/heads/master
+[submodule "astropy-sphinx-theme"]
+	url = https://github.com/conda-forge/astropy-sphinx-theme-feedstock.git
+	path = feedstocks/astropy-sphinx-theme
+	branch = refs/heads/master
