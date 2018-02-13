@@ -16006,3 +16006,7 @@
 	url = https://github.com/conda-forge/pytest-astropy-feedstock.git
 	path = feedstocks/pytest-astropy
 	branch = refs/heads/master
+[submodule "pytest-doctestplus"]
+	url = https://github.com/conda-forge/pytest-doctestplus-feedstock.git
+	path = feedstocks/pytest-doctestplus
+	branch = refs/heads/master
