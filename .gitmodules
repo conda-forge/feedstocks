@@ -15998,3 +15998,7 @@
 	url = https://github.com/conda-forge/pylibscrypt-feedstock.git
 	path = feedstocks/pylibscrypt
 	branch = refs/heads/master
+[submodule "pytest-arraydiff"]
+	url = https://github.com/conda-forge/pytest-arraydiff-feedstock.git
+	path = feedstocks/pytest-arraydiff
+	branch = refs/heads/master
