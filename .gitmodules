@@ -15994,3 +15994,7 @@
 	url = https://github.com/conda-forge/steem-feedstock.git
 	path = feedstocks/steem
 	branch = refs/heads/master
+[submodule "pylibscrypt"]
+	url = https://github.com/conda-forge/pylibscrypt-feedstock.git
+	path = feedstocks/pylibscrypt
+	branch = refs/heads/master
