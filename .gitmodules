@@ -16002,3 +16002,7 @@
 	url = https://github.com/conda-forge/pytest-arraydiff-feedstock.git
 	path = feedstocks/pytest-arraydiff
 	branch = refs/heads/master
+[submodule "pytest-astropy"]
+	url = https://github.com/conda-forge/pytest-astropy-feedstock.git
+	path = feedstocks/pytest-astropy
+	branch = refs/heads/master
