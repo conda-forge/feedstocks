@@ -15982,3 +15982,7 @@
 	url = https://github.com/conda-forge/openh264-feedstock.git
 	path = feedstocks/openh264
 	branch = refs/heads/master
+[submodule "r-skimr"]
+	url = https://github.com/conda-forge/r-skimr-feedstock.git
+	path = feedstocks/r-skimr
+	branch = refs/heads/master
