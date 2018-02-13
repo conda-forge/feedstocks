@@ -16030,3 +16030,7 @@
 	url = https://github.com/conda-forge/sphinx-automodapi-feedstock.git
 	path = feedstocks/sphinx-automodapi
 	branch = refs/heads/master
+[submodule "stingray"]
+	url = https://github.com/conda-forge/stingray-feedstock.git
+	path = feedstocks/stingray
+	branch = refs/heads/master
