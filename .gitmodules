@@ -16010,3 +16010,7 @@
 	url = https://github.com/conda-forge/pytest-doctestplus-feedstock.git
 	path = feedstocks/pytest-doctestplus
 	branch = refs/heads/master
+[submodule "pytest-openfiles"]
+	url = https://github.com/conda-forge/pytest-openfiles-feedstock.git
+	path = feedstocks/pytest-openfiles
+	branch = refs/heads/master
