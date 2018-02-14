@@ -16034,3 +16034,7 @@
 	url = https://github.com/conda-forge/stingray-feedstock.git
 	path = feedstocks/stingray
 	branch = refs/heads/master
+[submodule "filetype"]
+	url = https://github.com/conda-forge/filetype-feedstock.git
+	path = feedstocks/filetype
+	branch = refs/heads/master
