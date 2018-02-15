@@ -16046,3 +16046,7 @@
 	url = https://github.com/conda-forge/events-feedstock.git
 	path = feedstocks/events
 	branch = refs/heads/master
+[submodule "r-rsvg"]
+	url = https://github.com/conda-forge/r-rsvg-feedstock.git
+	path = feedstocks/r-rsvg
+	branch = refs/heads/master
