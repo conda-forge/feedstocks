@@ -16042,3 +16042,7 @@
 	url = https://github.com/conda-forge/empyrical-feedstock.git
 	path = feedstocks/empyrical
 	branch = refs/heads/master
+[submodule "events"]
+	url = https://github.com/conda-forge/events-feedstock.git
+	path = feedstocks/events
+	branch = refs/heads/master
