@@ -16038,3 +16038,7 @@
 	url = https://github.com/conda-forge/filetype-feedstock.git
 	path = feedstocks/filetype
 	branch = refs/heads/master
+[submodule "empyrical"]
+	url = https://github.com/conda-forge/empyrical-feedstock.git
+	path = feedstocks/empyrical
+	branch = refs/heads/master
