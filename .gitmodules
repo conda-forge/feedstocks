@@ -16050,3 +16050,7 @@
 	url = https://github.com/conda-forge/r-rsvg-feedstock.git
 	path = feedstocks/r-rsvg
 	branch = refs/heads/master
+[submodule "pyfolio"]
+	url = https://github.com/conda-forge/pyfolio-feedstock.git
+	path = feedstocks/pyfolio
+	branch = refs/heads/master
