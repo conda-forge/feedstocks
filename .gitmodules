@@ -16058,3 +16058,7 @@
 	url = https://github.com/conda-forge/sklearn-contrib-py-earth-feedstock.git
 	path = feedstocks/sklearn-contrib-py-earth
 	branch = refs/heads/master
+[submodule "hendrics"]
+	url = https://github.com/conda-forge/hendrics-feedstock.git
+	path = feedstocks/hendrics
+	branch = refs/heads/master
