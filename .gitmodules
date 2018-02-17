@@ -16074,3 +16074,7 @@
 	url = https://github.com/conda-forge/quandl-feedstock.git
 	path = feedstocks/quandl
 	branch = refs/heads/master
+[submodule "netcdftime"]
+	url = https://github.com/conda-forge/netcdftime-feedstock.git
+	path = feedstocks/netcdftime
+	branch = refs/heads/master
