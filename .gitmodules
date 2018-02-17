@@ -16106,3 +16106,7 @@
 	url = https://github.com/conda-forge/r-smoother-feedstock.git
 	path = feedstocks/r-smoother
 	branch = refs/heads/master
+[submodule "r-robcompositions"]
+	url = https://github.com/conda-forge/r-robcompositions-feedstock.git
+	path = feedstocks/r-robcompositions
+	branch = refs/heads/master
