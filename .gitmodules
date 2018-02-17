@@ -16070,3 +16070,7 @@
 	url = https://github.com/conda-forge/alphalens-feedstock.git
 	path = feedstocks/alphalens
 	branch = refs/heads/master
+[submodule "quandl"]
+	url = https://github.com/conda-forge/quandl-feedstock.git
+	path = feedstocks/quandl
+	branch = refs/heads/master
