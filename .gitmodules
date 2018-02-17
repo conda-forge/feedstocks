@@ -16102,3 +16102,7 @@
 	url = https://github.com/conda-forge/r-kpeaks-feedstock.git
 	path = feedstocks/r-kpeaks
 	branch = refs/heads/master
+[submodule "r-smoother"]
+	url = https://github.com/conda-forge/r-smoother-feedstock.git
+	path = feedstocks/r-smoother
+	branch = refs/heads/master
