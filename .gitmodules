@@ -16082,3 +16082,7 @@
 	url = https://github.com/conda-forge/r-docxtools-feedstock.git
 	path = feedstocks/r-docxtools
 	branch = refs/heads/master
+[submodule "r-lmoments"]
+	url = https://github.com/conda-forge/r-lmoments-feedstock.git
+	path = feedstocks/r-lmoments
+	branch = refs/heads/master
