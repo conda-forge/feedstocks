@@ -16086,3 +16086,7 @@
 	url = https://github.com/conda-forge/r-lmoments-feedstock.git
 	path = feedstocks/r-lmoments
 	branch = refs/heads/master
+[submodule "r-fuzzyjoin"]
+	url = https://github.com/conda-forge/r-fuzzyjoin-feedstock.git
+	path = feedstocks/r-fuzzyjoin
+	branch = refs/heads/master
