@@ -16118,3 +16118,7 @@
 	url = https://github.com/conda-forge/r-autoplotly-feedstock.git
 	path = feedstocks/r-autoplotly
 	branch = refs/heads/master
+[submodule "r-ggjoy"]
+	url = https://github.com/conda-forge/r-ggjoy-feedstock.git
+	path = feedstocks/r-ggjoy
+	branch = refs/heads/master
