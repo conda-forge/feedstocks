@@ -16110,3 +16110,7 @@
 	url = https://github.com/conda-forge/r-robcompositions-feedstock.git
 	path = feedstocks/r-robcompositions
 	branch = refs/heads/master
+[submodule "mdshare"]
+	url = https://github.com/conda-forge/mdshare-feedstock.git
+	path = feedstocks/mdshare
+	branch = refs/heads/master
