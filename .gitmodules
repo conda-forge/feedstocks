@@ -16114,3 +16114,7 @@
 	url = https://github.com/conda-forge/mdshare-feedstock.git
 	path = feedstocks/mdshare
 	branch = refs/heads/master
+[submodule "r-autoplotly"]
+	url = https://github.com/conda-forge/r-autoplotly-feedstock.git
+	path = feedstocks/r-autoplotly
+	branch = refs/heads/master
