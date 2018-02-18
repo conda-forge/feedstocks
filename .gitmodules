@@ -16130,3 +16130,7 @@
 	url = https://github.com/conda-forge/r-extremes-feedstock.git
 	path = feedstocks/r-extremes
 	branch = refs/heads/master
+[submodule "cryptominisat"]
+	url = https://github.com/conda-forge/cryptominisat-feedstock.git
+	path = feedstocks/cryptominisat
+	branch = refs/heads/master
