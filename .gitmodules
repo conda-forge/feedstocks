@@ -16122,3 +16122,7 @@
 	url = https://github.com/conda-forge/r-ggjoy-feedstock.git
 	path = feedstocks/r-ggjoy
 	branch = refs/heads/master
+[submodule "ispyb"]
+	url = https://github.com/conda-forge/ispyb-feedstock.git
+	path = feedstocks/ispyb
+	branch = refs/heads/master
