@@ -16134,3 +16134,7 @@
 	url = https://github.com/conda-forge/cryptominisat-feedstock.git
 	path = feedstocks/cryptominisat
 	branch = refs/heads/master
+[submodule "llvm-meta"]
+	url = https://github.com/conda-forge/llvm-meta-feedstock.git
+	path = feedstocks/llvm-meta
+	branch = refs/heads/master
