@@ -16126,3 +16126,7 @@
 	url = https://github.com/conda-forge/ispyb-feedstock.git
 	path = feedstocks/ispyb
 	branch = refs/heads/master
+[submodule "r-extremes"]
+	url = https://github.com/conda-forge/r-extremes-feedstock.git
+	path = feedstocks/r-extremes
+	branch = refs/heads/master
