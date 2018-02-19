@@ -16186,3 +16186,7 @@
 	url = https://github.com/conda-forge/r-rcgmin-feedstock.git
 	path = feedstocks/r-rcgmin
 	branch = refs/heads/master
+[submodule "r-setrng"]
+	url = https://github.com/conda-forge/r-setrng-feedstock.git
+	path = feedstocks/r-setrng
+	branch = refs/heads/master
