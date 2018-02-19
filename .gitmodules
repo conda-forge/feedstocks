@@ -16182,3 +16182,7 @@
 	url = https://github.com/conda-forge/r-optextras-feedstock.git
 	path = feedstocks/r-optextras
 	branch = refs/heads/master
+[submodule "r-rcgmin"]
+	url = https://github.com/conda-forge/r-rcgmin-feedstock.git
+	path = feedstocks/r-rcgmin
+	branch = refs/heads/master
