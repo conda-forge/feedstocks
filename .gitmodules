@@ -16146,3 +16146,7 @@
 	url = https://github.com/conda-forge/r-ddalpha-feedstock.git
 	path = feedstocks/r-ddalpha
 	branch = refs/heads/master
+[submodule "r-coranking"]
+	url = https://github.com/conda-forge/r-coranking-feedstock.git
+	path = feedstocks/r-coranking
+	branch = refs/heads/master
