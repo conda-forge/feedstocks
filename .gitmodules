@@ -16174,3 +16174,7 @@
 	url = https://github.com/conda-forge/r-loe-feedstock.git
 	path = feedstocks/r-loe
 	branch = refs/heads/master
+[submodule "r-mvoutlier"]
+	url = https://github.com/conda-forge/r-mvoutlier-feedstock.git
+	path = feedstocks/r-mvoutlier
+	branch = refs/heads/master
