@@ -16142,3 +16142,7 @@
 	url = https://github.com/conda-forge/r-multipanelfigure-feedstock.git
 	path = feedstocks/r-multipanelfigure
 	branch = refs/heads/master
+[submodule "r-ddalpha"]
+	url = https://github.com/conda-forge/r-ddalpha-feedstock.git
+	path = feedstocks/r-ddalpha
+	branch = refs/heads/master
