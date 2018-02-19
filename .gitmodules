@@ -16170,3 +16170,7 @@
 	url = https://github.com/conda-forge/r-lle-feedstock.git
 	path = feedstocks/r-lle
 	branch = refs/heads/master
+[submodule "r-loe"]
+	url = https://github.com/conda-forge/r-loe-feedstock.git
+	path = feedstocks/r-loe
+	branch = refs/heads/master
