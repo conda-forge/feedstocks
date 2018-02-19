@@ -16158,3 +16158,7 @@
 	url = https://github.com/conda-forge/r-dfoptim-feedstock.git
 	path = feedstocks/r-dfoptim
 	branch = refs/heads/master
+[submodule "r-energy"]
+	url = https://github.com/conda-forge/r-energy-feedstock.git
+	path = feedstocks/r-energy
+	branch = refs/heads/master
