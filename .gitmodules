@@ -16166,3 +16166,7 @@
 	url = https://github.com/conda-forge/r-gower-feedstock.git
 	path = feedstocks/r-gower
 	branch = refs/heads/master
+[submodule "r-lle"]
+	url = https://github.com/conda-forge/r-lle-feedstock.git
+	path = feedstocks/r-lle
+	branch = refs/heads/master
