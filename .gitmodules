@@ -16198,3 +16198,7 @@
 	url = https://github.com/conda-forge/r-drr-feedstock.git
 	path = feedstocks/r-drr
 	branch = refs/heads/master
+[submodule "r-rvmmin"]
+	url = https://github.com/conda-forge/r-rvmmin-feedstock.git
+	path = feedstocks/r-rvmmin
+	branch = refs/heads/master
