@@ -16206,3 +16206,7 @@
 	url = https://github.com/conda-forge/r-smotefamily-feedstock.git
 	path = feedstocks/r-smotefamily
 	branch = refs/heads/master
+[submodule "slumber"]
+	url = https://github.com/conda-forge/slumber-feedstock.git
+	path = feedstocks/slumber
+	branch = refs/heads/master
