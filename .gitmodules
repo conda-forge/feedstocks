@@ -16214,3 +16214,7 @@
 	url = https://github.com/conda-forge/pypy2.7-feedstock.git
 	path = feedstocks/pypy2.7
 	branch = refs/heads/master
+[submodule "rise"]
+	url = https://github.com/conda-forge/rise-feedstock.git
+	path = feedstocks/rise
+	branch = refs/heads/master
