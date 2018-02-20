@@ -16194,3 +16194,7 @@
 	url = https://github.com/conda-forge/cfanalytics-feedstock.git
 	path = feedstocks/cfanalytics
 	branch = refs/heads/master
+[submodule "r-drr"]
+	url = https://github.com/conda-forge/r-drr-feedstock.git
+	path = feedstocks/r-drr
+	branch = refs/heads/master
