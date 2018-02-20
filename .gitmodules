@@ -16190,3 +16190,7 @@
 	url = https://github.com/conda-forge/r-setrng-feedstock.git
 	path = feedstocks/r-setrng
 	branch = refs/heads/master
+[submodule "cfanalytics"]
+	url = https://github.com/conda-forge/cfanalytics-feedstock.git
+	path = feedstocks/cfanalytics
+	branch = refs/heads/master
