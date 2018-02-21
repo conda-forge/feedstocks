@@ -16218,3 +16218,7 @@
 	url = https://github.com/conda-forge/rise-feedstock.git
 	path = feedstocks/rise
 	branch = refs/heads/master
+[submodule "msprime"]
+	url = https://github.com/conda-forge/msprime-feedstock.git
+	path = feedstocks/msprime
+	branch = refs/heads/master
