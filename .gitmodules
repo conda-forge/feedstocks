@@ -16222,3 +16222,7 @@
 	url = https://github.com/conda-forge/msprime-feedstock.git
 	path = feedstocks/msprime
 	branch = refs/heads/master
+[submodule "r-spatest"]
+	url = https://github.com/conda-forge/r-spatest-feedstock.git
+	path = feedstocks/r-spatest
+	branch = refs/heads/master
