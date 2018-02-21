@@ -16226,3 +16226,7 @@
 	url = https://github.com/conda-forge/r-spatest-feedstock.git
 	path = feedstocks/r-spatest
 	branch = refs/heads/master
+[submodule "siesta"]
+	url = https://github.com/conda-forge/siesta-feedstock.git
+	path = feedstocks/siesta
+	branch = refs/heads/master
