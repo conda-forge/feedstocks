@@ -16238,3 +16238,7 @@
 	url = https://github.com/conda-forge/colorlover-feedstock.git
 	path = feedstocks/colorlover
 	branch = refs/heads/master
+[submodule "conda-forge-ci-setup"]
+	url = https://github.com/conda-forge/conda-forge-ci-setup-feedstock.git
+	path = feedstocks/conda-forge-ci-setup
+	branch = refs/heads/master
