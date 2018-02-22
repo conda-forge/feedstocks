@@ -16254,3 +16254,7 @@
 	url = https://github.com/conda-forge/geoalchemy-odm2-feedstock.git
 	path = feedstocks/geoalchemy-odm2
 	branch = refs/heads/master
+[submodule "odm2api"]
+	url = https://github.com/conda-forge/odm2api-feedstock.git
+	path = feedstocks/odm2api
+	branch = refs/heads/master
