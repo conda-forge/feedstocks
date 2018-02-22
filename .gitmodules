@@ -16262,3 +16262,7 @@
 	url = https://github.com/conda-forge/odm2rest-feedstock.git
 	path = feedstocks/odm2rest
 	branch = refs/heads/master
+[submodule "wofpy"]
+	url = https://github.com/conda-forge/wofpy-feedstock.git
+	path = feedstocks/wofpy
+	branch = refs/heads/master
