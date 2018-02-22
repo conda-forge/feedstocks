@@ -16258,3 +16258,7 @@
 	url = https://github.com/conda-forge/odm2api-feedstock.git
 	path = feedstocks/odm2api
 	branch = refs/heads/master
+[submodule "odm2rest"]
+	url = https://github.com/conda-forge/odm2rest-feedstock.git
+	path = feedstocks/odm2rest
+	branch = refs/heads/master
