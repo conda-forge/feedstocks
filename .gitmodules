@@ -16230,3 +16230,7 @@
 	url = https://github.com/conda-forge/siesta-feedstock.git
 	path = feedstocks/siesta
 	branch = refs/heads/master
+[submodule "adaptive"]
+	url = https://github.com/conda-forge/adaptive-feedstock.git
+	path = feedstocks/adaptive
+	branch = refs/heads/master
