@@ -16250,3 +16250,7 @@
 	url = https://github.com/conda-forge/djangorestframework_simplejwt-feedstock.git
 	path = feedstocks/djangorestframework_simplejwt
 	branch = refs/heads/master
+[submodule "geoalchemy-odm2"]
+	url = https://github.com/conda-forge/geoalchemy-odm2-feedstock.git
+	path = feedstocks/geoalchemy-odm2
+	branch = refs/heads/master
