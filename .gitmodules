@@ -16242,3 +16242,7 @@
 	url = https://github.com/conda-forge/conda-forge-ci-setup-feedstock.git
 	path = feedstocks/conda-forge-ci-setup
 	branch = refs/heads/master
+[submodule "django-mptt-admin"]
+	url = https://github.com/conda-forge/django-mptt-admin-feedstock.git
+	path = feedstocks/django-mptt-admin
+	branch = refs/heads/master
