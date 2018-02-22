@@ -16266,3 +16266,7 @@
 	url = https://github.com/conda-forge/wofpy-feedstock.git
 	path = feedstocks/wofpy
 	branch = refs/heads/master
+[submodule "yodatools"]
+	url = https://github.com/conda-forge/yodatools-feedstock.git
+	path = feedstocks/yodatools
+	branch = refs/heads/master
