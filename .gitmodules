@@ -16246,3 +16246,7 @@
 	url = https://github.com/conda-forge/django-mptt-admin-feedstock.git
 	path = feedstocks/django-mptt-admin
 	branch = refs/heads/master
+[submodule "djangorestframework_simplejwt"]
+	url = https://github.com/conda-forge/djangorestframework_simplejwt-feedstock.git
+	path = feedstocks/djangorestframework_simplejwt
+	branch = refs/heads/master
