@@ -16274,3 +16274,7 @@
 	url = https://github.com/conda-forge/pytest-replay-feedstock.git
 	path = feedstocks/pytest-replay
 	branch = refs/heads/master
+[submodule "flask-rest-orm"]
+	url = https://github.com/conda-forge/flask-rest-orm-feedstock.git
+	path = feedstocks/flask-rest-orm
+	branch = refs/heads/master
