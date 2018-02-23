@@ -16286,3 +16286,7 @@
 	url = https://github.com/conda-forge/cufflinks-py-feedstock.git
 	path = feedstocks/cufflinks-py
 	branch = refs/heads/master
+[submodule "django-pandas"]
+	url = https://github.com/conda-forge/django-pandas-feedstock.git
+	path = feedstocks/django-pandas
+	branch = refs/heads/master
