@@ -16290,3 +16290,7 @@
 	url = https://github.com/conda-forge/django-pandas-feedstock.git
 	path = feedstocks/django-pandas
 	branch = refs/heads/master
+[submodule "pygeometa"]
+	url = https://github.com/conda-forge/pygeometa-feedstock.git
+	path = feedstocks/pygeometa
+	branch = refs/heads/master
