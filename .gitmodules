@@ -16294,3 +16294,7 @@
 	url = https://github.com/conda-forge/pygeometa-feedstock.git
 	path = feedstocks/pygeometa
 	branch = refs/heads/master
+[submodule "libprotobuf"]
+	url = https://github.com/conda-forge/libprotobuf-feedstock.git
+	path = feedstocks/libprotobuf
+	branch = refs/heads/master
