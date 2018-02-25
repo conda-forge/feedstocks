@@ -16318,3 +16318,7 @@
 	url = https://github.com/conda-forge/django-reversion-compare-feedstock.git
 	path = feedstocks/django-reversion-compare
 	branch = refs/heads/master
+[submodule "django-simple-history"]
+	url = https://github.com/conda-forge/django-simple-history-feedstock.git
+	path = feedstocks/django-simple-history
+	branch = refs/heads/master
