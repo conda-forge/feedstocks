@@ -16322,3 +16322,7 @@
 	url = https://github.com/conda-forge/django-simple-history-feedstock.git
 	path = feedstocks/django-simple-history
 	branch = refs/heads/master
+[submodule "tableone"]
+	url = https://github.com/conda-forge/tableone-feedstock.git
+	path = feedstocks/tableone
+	branch = refs/heads/master
