@@ -16310,3 +16310,7 @@
 	url = https://github.com/conda-forge/django-controlcenter-feedstock.git
 	path = feedstocks/django-controlcenter
 	branch = refs/heads/master
+[submodule "django-mustache"]
+	url = https://github.com/conda-forge/django-mustache-feedstock.git
+	path = feedstocks/django-mustache
+	branch = refs/heads/master
