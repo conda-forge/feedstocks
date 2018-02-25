@@ -16298,3 +16298,7 @@
 	url = https://github.com/conda-forge/libprotobuf-feedstock.git
 	path = feedstocks/libprotobuf
 	branch = refs/heads/master
+[submodule "absl-py"]
+	url = https://github.com/conda-forge/absl-py-feedstock.git
+	path = feedstocks/absl-py
+	branch = refs/heads/master
