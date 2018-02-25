@@ -16306,3 +16306,7 @@
 	url = https://github.com/conda-forge/georasters-feedstock.git
 	path = feedstocks/georasters
 	branch = refs/heads/master
+[submodule "django-controlcenter"]
+	url = https://github.com/conda-forge/django-controlcenter-feedstock.git
+	path = feedstocks/django-controlcenter
+	branch = refs/heads/master
