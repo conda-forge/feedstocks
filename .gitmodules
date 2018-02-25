@@ -16302,3 +16302,7 @@
 	url = https://github.com/conda-forge/absl-py-feedstock.git
 	path = feedstocks/absl-py
 	branch = refs/heads/master
+[submodule "georasters"]
+	url = https://github.com/conda-forge/georasters-feedstock.git
+	path = feedstocks/georasters
+	branch = refs/heads/master
