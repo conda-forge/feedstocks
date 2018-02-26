@@ -16330,3 +16330,7 @@
 	url = https://github.com/conda-forge/vic-feedstock.git
 	path = feedstocks/vic
 	branch = refs/heads/master
+[submodule "dynesty"]
+	url = https://github.com/conda-forge/dynesty-feedstock.git
+	path = feedstocks/dynesty
+	branch = refs/heads/master
