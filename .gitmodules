@@ -16334,3 +16334,7 @@
 	url = https://github.com/conda-forge/dynesty-feedstock.git
 	path = feedstocks/dynesty
 	branch = refs/heads/master
+[submodule "flock"]
+	url = https://github.com/conda-forge/flock-feedstock.git
+	path = feedstocks/flock
+	branch = refs/heads/master
