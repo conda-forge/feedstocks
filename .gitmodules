@@ -16338,3 +16338,7 @@
 	url = https://github.com/conda-forge/flock-feedstock.git
 	path = feedstocks/flock
 	branch = refs/heads/master
+[submodule "r-cubist"]
+	url = https://github.com/conda-forge/r-cubist-feedstock.git
+	path = feedstocks/r-cubist
+	branch = refs/heads/master
