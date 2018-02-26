@@ -16342,3 +16342,7 @@
 	url = https://github.com/conda-forge/r-cubist-feedstock.git
 	path = feedstocks/r-cubist
 	branch = refs/heads/master
+[submodule "r-libcoin"]
+	url = https://github.com/conda-forge/r-libcoin-feedstock.git
+	path = feedstocks/r-libcoin
+	branch = refs/heads/master
