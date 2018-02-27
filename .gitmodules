@@ -16346,3 +16346,7 @@
 	url = https://github.com/conda-forge/r-libcoin-feedstock.git
 	path = feedstocks/r-libcoin
 	branch = refs/heads/master
+[submodule "dummydata"]
+	url = https://github.com/conda-forge/dummydata-feedstock.git
+	path = feedstocks/dummydata
+	branch = refs/heads/master
