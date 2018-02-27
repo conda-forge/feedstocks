@@ -16358,3 +16358,7 @@
 	url = https://github.com/conda-forge/radiospectra-feedstock.git
 	path = feedstocks/radiospectra
 	branch = refs/heads/master
+[submodule "timeout-decorator"]
+	url = https://github.com/conda-forge/timeout-decorator-feedstock.git
+	path = feedstocks/timeout-decorator
+	branch = refs/heads/master
