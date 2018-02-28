@@ -16370,3 +16370,7 @@
 	url = https://github.com/conda-forge/adal-feedstock.git
 	path = feedstocks/adal
 	branch = refs/heads/master
+[submodule "msrestazure"]
+	url = https://github.com/conda-forge/msrestazure-feedstock.git
+	path = feedstocks/msrestazure
+	branch = refs/heads/master
