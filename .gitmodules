@@ -16402,3 +16402,7 @@
 	url = https://github.com/conda-forge/r-lemon-feedstock.git
 	path = feedstocks/r-lemon
 	branch = refs/heads/master
+[submodule "r-multcompview"]
+	url = https://github.com/conda-forge/r-multcompview-feedstock.git
+	path = feedstocks/r-multcompview
+	branch = refs/heads/master
