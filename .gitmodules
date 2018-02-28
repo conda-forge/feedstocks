@@ -16390,3 +16390,7 @@
 	url = https://github.com/conda-forge/r-bb-feedstock.git
 	path = feedstocks/r-bb
 	branch = refs/heads/master
+[submodule "r-breakdown"]
+	url = https://github.com/conda-forge/r-breakdown-feedstock.git
+	path = feedstocks/r-breakdown
+	branch = refs/heads/master
