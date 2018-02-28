@@ -16366,3 +16366,7 @@
 	url = https://github.com/conda-forge/idna_ssl-feedstock.git
 	path = feedstocks/idna_ssl
 	branch = refs/heads/master
+[submodule "adal"]
+	url = https://github.com/conda-forge/adal-feedstock.git
+	path = feedstocks/adal
+	branch = refs/heads/master
