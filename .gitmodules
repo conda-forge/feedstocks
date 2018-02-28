@@ -16382,3 +16382,7 @@
 	url = https://github.com/conda-forge/beem-feedstock.git
 	path = feedstocks/beem
 	branch = refs/heads/master
+[submodule "r-inum"]
+	url = https://github.com/conda-forge/r-inum-feedstock.git
+	path = feedstocks/r-inum
+	branch = refs/heads/master
