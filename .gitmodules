@@ -16410,3 +16410,7 @@
 	url = https://github.com/conda-forge/r-photobiology-feedstock.git
 	path = feedstocks/r-photobiology
 	branch = refs/heads/master
+[submodule "r-tidypredict"]
+	url = https://github.com/conda-forge/r-tidypredict-feedstock.git
+	path = feedstocks/r-tidypredict
+	branch = refs/heads/master
