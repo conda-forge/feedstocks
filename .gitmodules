@@ -16386,3 +16386,7 @@
 	url = https://github.com/conda-forge/r-inum-feedstock.git
 	path = feedstocks/r-inum
 	branch = refs/heads/master
+[submodule "r-bb"]
+	url = https://github.com/conda-forge/r-bb-feedstock.git
+	path = feedstocks/r-bb
+	branch = refs/heads/master
