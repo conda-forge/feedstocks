@@ -16398,3 +16398,7 @@
 	url = https://github.com/conda-forge/r-ggstance-feedstock.git
 	path = feedstocks/r-ggstance
 	branch = refs/heads/master
+[submodule "r-lemon"]
+	url = https://github.com/conda-forge/r-lemon-feedstock.git
+	path = feedstocks/r-lemon
+	branch = refs/heads/master
