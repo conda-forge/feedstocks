@@ -16378,3 +16378,7 @@
 	url = https://github.com/conda-forge/msrest-feedstock.git
 	path = feedstocks/msrest
 	branch = refs/heads/master
+[submodule "beem"]
+	url = https://github.com/conda-forge/beem-feedstock.git
+	path = feedstocks/beem
+	branch = refs/heads/master
