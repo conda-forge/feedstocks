@@ -16450,3 +16450,7 @@
 	url = https://github.com/conda-forge/r-ucminf-feedstock.git
 	path = feedstocks/r-ucminf
 	branch = refs/heads/master
+[submodule "mpi"]
+	url = https://github.com/conda-forge/mpi-feedstock.git
+	path = feedstocks/mpi
+	branch = refs/heads/master
