@@ -16430,3 +16430,7 @@
 	url = https://github.com/conda-forge/r-multiroc-feedstock.git
 	path = feedstocks/r-multiroc
 	branch = refs/heads/master
+[submodule "r-qtlcharts"]
+	url = https://github.com/conda-forge/r-qtlcharts-feedstock.git
+	path = feedstocks/r-qtlcharts
+	branch = refs/heads/master
