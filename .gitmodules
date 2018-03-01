@@ -16418,3 +16418,7 @@
 	url = https://github.com/conda-forge/r-vioplot-feedstock.git
 	path = feedstocks/r-vioplot
 	branch = refs/heads/master
+[submodule "r-ggmuller"]
+	url = https://github.com/conda-forge/r-ggmuller-feedstock.git
+	path = feedstocks/r-ggmuller
+	branch = refs/heads/master
