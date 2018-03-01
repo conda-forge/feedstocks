@@ -16442,3 +16442,7 @@
 	url = https://github.com/conda-forge/r-photobiologywavebands-feedstock.git
 	path = feedstocks/r-photobiologywavebands
 	branch = refs/heads/master
+[submodule "r-svunit"]
+	url = https://github.com/conda-forge/r-svunit-feedstock.git
+	path = feedstocks/r-svunit
+	branch = refs/heads/master
