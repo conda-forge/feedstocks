@@ -16466,3 +16466,7 @@
 	url = https://github.com/conda-forge/ezdxf-feedstock.git
 	path = feedstocks/ezdxf
 	branch = refs/heads/master
+[submodule "wq.core"]
+	url = https://github.com/conda-forge/wq.core-feedstock.git
+	path = feedstocks/wq.core
+	branch = refs/heads/master
