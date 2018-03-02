@@ -16470,3 +16470,7 @@
 	url = https://github.com/conda-forge/wq.core-feedstock.git
 	path = feedstocks/wq.core
 	branch = refs/heads/master
+[submodule "simage"]
+	url = https://github.com/conda-forge/simage-feedstock.git
+	path = feedstocks/simage
+	branch = refs/heads/master
