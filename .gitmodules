@@ -16482,3 +16482,7 @@
 	url = https://github.com/conda-forge/libzip-feedstock.git
 	path = feedstocks/libzip
 	branch = refs/heads/master
+[submodule "ccfits"]
+	url = https://github.com/conda-forge/ccfits-feedstock.git
+	path = feedstocks/ccfits
+	branch = refs/heads/master
