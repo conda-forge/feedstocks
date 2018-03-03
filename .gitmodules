@@ -16478,3 +16478,7 @@
 	url = https://github.com/conda-forge/r-optimx-feedstock.git
 	path = feedstocks/r-optimx
 	branch = refs/heads/master
+[submodule "libzip"]
+	url = https://github.com/conda-forge/libzip-feedstock.git
+	path = feedstocks/libzip
+	branch = refs/heads/master
