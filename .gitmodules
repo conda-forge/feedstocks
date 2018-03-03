@@ -16490,3 +16490,7 @@
 	url = https://github.com/conda-forge/asammdf-feedstock.git
 	path = feedstocks/asammdf
 	branch = refs/heads/master
+[submodule "postgres-xl"]
+	url = https://github.com/conda-forge/postgres-xl-feedstock.git
+	path = feedstocks/postgres-xl
+	branch = refs/heads/master
