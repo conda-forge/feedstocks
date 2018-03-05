@@ -16498,3 +16498,7 @@
 	url = https://github.com/conda-forge/cfgv-feedstock.git
 	path = feedstocks/cfgv
 	branch = refs/heads/master
+[submodule "datamash"]
+	url = https://github.com/conda-forge/datamash-feedstock.git
+	path = feedstocks/datamash
+	branch = refs/heads/master
