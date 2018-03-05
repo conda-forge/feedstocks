@@ -16502,3 +16502,7 @@
 	url = https://github.com/conda-forge/datamash-feedstock.git
 	path = feedstocks/datamash
 	branch = refs/heads/master
+[submodule "r-ibd"]
+	url = https://github.com/conda-forge/r-ibd-feedstock.git
+	path = feedstocks/r-ibd
+	branch = refs/heads/master
