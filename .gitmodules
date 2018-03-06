@@ -16514,3 +16514,7 @@
 	url = https://github.com/conda-forge/shedsidewinder-feedstock.git
 	path = feedstocks/shedsidewinder
 	branch = refs/heads/master
+[submodule "django-pkgconf"]
+	url = https://github.com/conda-forge/django-pkgconf-feedstock.git
+	path = feedstocks/django-pkgconf
+	branch = refs/heads/master
