@@ -16522,3 +16522,7 @@
 	url = https://github.com/conda-forge/tiledb-py-feedstock.git
 	path = feedstocks/tiledb-py
 	branch = refs/heads/master
+[submodule "django-bootstrap4"]
+	url = https://github.com/conda-forge/django-bootstrap4-feedstock.git
+	path = feedstocks/django-bootstrap4
+	branch = refs/heads/master
