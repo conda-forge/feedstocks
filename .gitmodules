@@ -16526,3 +16526,7 @@
 	url = https://github.com/conda-forge/django-bootstrap4-feedstock.git
 	path = feedstocks/django-bootstrap4
 	branch = refs/heads/master
+[submodule "perl-text-soundex"]
+	url = https://github.com/conda-forge/perl-text-soundex-feedstock.git
+	path = feedstocks/perl-text-soundex
+	branch = refs/heads/master
