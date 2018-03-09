@@ -16534,3 +16534,7 @@
 	url = https://github.com/conda-forge/r-operator.tools-feedstock.git
 	path = feedstocks/r-operator.tools
 	branch = refs/heads/master
+[submodule "latexmk"]
+	url = https://github.com/conda-forge/latexmk-feedstock.git
+	path = feedstocks/latexmk
+	branch = refs/heads/master
