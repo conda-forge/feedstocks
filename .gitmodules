@@ -16558,3 +16558,7 @@
 	url = https://github.com/conda-forge/audi-feedstock.git
 	path = feedstocks/audi
 	branch = refs/heads/master
+[submodule "r-dimred"]
+	url = https://github.com/conda-forge/r-dimred-feedstock.git
+	path = feedstocks/r-dimred
+	branch = refs/heads/master
