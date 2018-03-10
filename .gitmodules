@@ -16566,3 +16566,7 @@
 	url = https://github.com/conda-forge/r-ggspectra-feedstock.git
 	path = feedstocks/r-ggspectra
 	branch = refs/heads/master
+[submodule "tmtk"]
+	url = https://github.com/conda-forge/tmtk-feedstock.git
+	path = feedstocks/tmtk
+	branch = refs/heads/master
