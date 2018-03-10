@@ -16562,3 +16562,7 @@
 	url = https://github.com/conda-forge/r-dimred-feedstock.git
 	path = feedstocks/r-dimred
 	branch = refs/heads/master
+[submodule "r-ggspectra"]
+	url = https://github.com/conda-forge/r-ggspectra-feedstock.git
+	path = feedstocks/r-ggspectra
+	branch = refs/heads/master
