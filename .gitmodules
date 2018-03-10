@@ -16550,3 +16550,7 @@
 	url = https://github.com/conda-forge/r-c50-feedstock.git
 	path = feedstocks/r-c50
 	branch = refs/heads/master
+[submodule "r-yaimpute"]
+	url = https://github.com/conda-forge/r-yaimpute-feedstock.git
+	path = feedstocks/r-yaimpute
+	branch = refs/heads/master
