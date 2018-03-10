@@ -16538,3 +16538,7 @@
 	url = https://github.com/conda-forge/latexmk-feedstock.git
 	path = feedstocks/latexmk
 	branch = refs/heads/master
+[submodule "easy-thumbnails"]
+	url = https://github.com/conda-forge/easy-thumbnails-feedstock.git
+	path = feedstocks/easy-thumbnails
+	branch = refs/heads/master
