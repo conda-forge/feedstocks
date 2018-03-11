@@ -16586,3 +16586,7 @@
 	url = https://github.com/conda-forge/r-bayesplot-feedstock.git
 	path = feedstocks/r-bayesplot
 	branch = refs/heads/master
+[submodule "r-future.apply"]
+	url = https://github.com/conda-forge/r-future.apply-feedstock.git
+	path = feedstocks/r-future.apply
+	branch = refs/heads/master
