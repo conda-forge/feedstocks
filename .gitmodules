@@ -16570,3 +16570,7 @@
 	url = https://github.com/conda-forge/tmtk-feedstock.git
 	path = feedstocks/tmtk
 	branch = refs/heads/master
+[submodule "genesis-pyapi"]
+	url = https://github.com/conda-forge/genesis-pyapi-feedstock.git
+	path = feedstocks/genesis-pyapi
+	branch = refs/heads/master
