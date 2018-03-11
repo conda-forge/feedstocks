@@ -16594,3 +16594,7 @@
 	url = https://github.com/conda-forge/r-imbalance-feedstock.git
 	path = feedstocks/r-imbalance
 	branch = refs/heads/master
+[submodule "r-recipes"]
+	url = https://github.com/conda-forge/r-recipes-feedstock.git
+	path = feedstocks/r-recipes
+	branch = refs/heads/master
