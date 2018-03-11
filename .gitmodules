@@ -16574,3 +16574,7 @@
 	url = https://github.com/conda-forge/genesis-pyapi-feedstock.git
 	path = feedstocks/genesis-pyapi
 	branch = refs/heads/master
+[submodule "cachecontrol"]
+	url = https://github.com/conda-forge/cachecontrol-feedstock.git
+	path = feedstocks/cachecontrol
+	branch = refs/heads/master
