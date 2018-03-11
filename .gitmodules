@@ -16578,3 +16578,7 @@
 	url = https://github.com/conda-forge/cachecontrol-feedstock.git
 	path = feedstocks/cachecontrol
 	branch = refs/heads/master
+[submodule "meson"]
+	url = https://github.com/conda-forge/meson-feedstock.git
+	path = feedstocks/meson
+	branch = refs/heads/master
