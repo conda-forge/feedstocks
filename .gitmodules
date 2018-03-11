@@ -16614,3 +16614,7 @@
 	url = https://github.com/conda-forge/r-qap-feedstock.git
 	path = feedstocks/r-qap
 	branch = refs/heads/master
+[submodule "tslearn"]
+	url = https://github.com/conda-forge/tslearn-feedstock.git
+	path = feedstocks/tslearn
+	branch = refs/heads/master
