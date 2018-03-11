@@ -16610,3 +16610,7 @@
 	url = https://github.com/conda-forge/r-chemospec-feedstock.git
 	path = feedstocks/r-chemospec
 	branch = refs/heads/master
+[submodule "r-qap"]
+	url = https://github.com/conda-forge/r-qap-feedstock.git
+	path = feedstocks/r-qap
+	branch = refs/heads/master
