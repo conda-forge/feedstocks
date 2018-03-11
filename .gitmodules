@@ -16606,3 +16606,7 @@
 	url = https://github.com/conda-forge/r-assotester-feedstock.git
 	path = feedstocks/r-assotester
 	branch = refs/heads/master
+[submodule "r-chemospec"]
+	url = https://github.com/conda-forge/r-chemospec-feedstock.git
+	path = feedstocks/r-chemospec
+	branch = refs/heads/master
