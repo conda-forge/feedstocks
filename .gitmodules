@@ -16590,3 +16590,7 @@
 	url = https://github.com/conda-forge/r-future.apply-feedstock.git
 	path = feedstocks/r-future.apply
 	branch = refs/heads/master
+[submodule "r-imbalance"]
+	url = https://github.com/conda-forge/r-imbalance-feedstock.git
+	path = feedstocks/r-imbalance
+	branch = refs/heads/master
