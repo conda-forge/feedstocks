@@ -16598,3 +16598,7 @@
 	url = https://github.com/conda-forge/r-recipes-feedstock.git
 	path = feedstocks/r-recipes
 	branch = refs/heads/master
+[submodule "r-rstantools"]
+	url = https://github.com/conda-forge/r-rstantools-feedstock.git
+	path = feedstocks/r-rstantools
+	branch = refs/heads/master
