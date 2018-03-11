@@ -16602,3 +16602,7 @@
 	url = https://github.com/conda-forge/r-rstantools-feedstock.git
 	path = feedstocks/r-rstantools
 	branch = refs/heads/master
+[submodule "r-assotester"]
+	url = https://github.com/conda-forge/r-assotester-feedstock.git
+	path = feedstocks/r-assotester
+	branch = refs/heads/master
