@@ -16622,3 +16622,7 @@
 	url = https://github.com/conda-forge/regionmask-feedstock.git
 	path = feedstocks/regionmask
 	branch = refs/heads/master
+[submodule "r-rsample"]
+	url = https://github.com/conda-forge/r-rsample-feedstock.git
+	path = feedstocks/r-rsample
+	branch = refs/heads/master
