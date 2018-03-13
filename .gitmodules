@@ -16642,3 +16642,7 @@
 	url = https://github.com/conda-forge/r-loo-feedstock.git
 	path = feedstocks/r-loo
 	branch = refs/heads/master
+[submodule "r-seriation"]
+	url = https://github.com/conda-forge/r-seriation-feedstock.git
+	path = feedstocks/r-seriation
+	branch = refs/heads/master
