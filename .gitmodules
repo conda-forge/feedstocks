@@ -16670,3 +16670,7 @@
 	url = https://github.com/conda-forge/terraform-provider-google-feedstock.git
 	path = feedstocks/terraform-provider-google
 	branch = refs/heads/master
+[submodule "terraform-provider-opc"]
+	url = https://github.com/conda-forge/terraform-provider-opc-feedstock.git
+	path = feedstocks/terraform-provider-opc
+	branch = refs/heads/master
