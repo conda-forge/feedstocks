@@ -16666,3 +16666,7 @@
 	url = https://github.com/conda-forge/terraform-provider-azurerm-feedstock.git
 	path = feedstocks/terraform-provider-azurerm
 	branch = refs/heads/master
+[submodule "terraform-provider-google"]
+	url = https://github.com/conda-forge/terraform-provider-google-feedstock.git
+	path = feedstocks/terraform-provider-google
+	branch = refs/heads/master
