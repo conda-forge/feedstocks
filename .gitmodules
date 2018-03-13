@@ -16626,3 +16626,7 @@
 	url = https://github.com/conda-forge/r-rsample-feedstock.git
 	path = feedstocks/r-rsample
 	branch = refs/heads/master
+[submodule "r-huxtable"]
+	url = https://github.com/conda-forge/r-huxtable-feedstock.git
+	path = feedstocks/r-huxtable
+	branch = refs/heads/master
