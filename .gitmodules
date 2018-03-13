@@ -16654,3 +16654,7 @@
 	url = https://github.com/conda-forge/r-heatmaply-feedstock.git
 	path = feedstocks/r-heatmaply
 	branch = refs/heads/master
+[submodule "terraform-provider-alicloud"]
+	url = https://github.com/conda-forge/terraform-provider-alicloud-feedstock.git
+	path = feedstocks/terraform-provider-alicloud
+	branch = refs/heads/master
