@@ -16646,3 +16646,7 @@
 	url = https://github.com/conda-forge/r-seriation-feedstock.git
 	path = feedstocks/r-seriation
 	branch = refs/heads/master
+[submodule "markov_draftjs"]
+	url = https://github.com/conda-forge/markov_draftjs-feedstock.git
+	path = feedstocks/markov_draftjs
+	branch = refs/heads/master
