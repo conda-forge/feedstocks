@@ -16634,3 +16634,7 @@
 	url = https://github.com/conda-forge/r-gclus-feedstock.git
 	path = feedstocks/r-gclus
 	branch = refs/heads/master
+[submodule "r-shinystan"]
+	url = https://github.com/conda-forge/r-shinystan-feedstock.git
+	path = feedstocks/r-shinystan
+	branch = refs/heads/master
