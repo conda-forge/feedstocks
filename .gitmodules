@@ -16638,3 +16638,7 @@
 	url = https://github.com/conda-forge/r-shinystan-feedstock.git
 	path = feedstocks/r-shinystan
 	branch = refs/heads/master
+[submodule "r-loo"]
+	url = https://github.com/conda-forge/r-loo-feedstock.git
+	path = feedstocks/r-loo
+	branch = refs/heads/master
