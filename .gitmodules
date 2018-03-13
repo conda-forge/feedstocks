@@ -16674,3 +16674,7 @@
 	url = https://github.com/conda-forge/terraform-provider-opc-feedstock.git
 	path = feedstocks/terraform-provider-opc
 	branch = refs/heads/master
+[submodule "terraform-provider-vsphere"]
+	url = https://github.com/conda-forge/terraform-provider-vsphere-feedstock.git
+	path = feedstocks/terraform-provider-vsphere
+	branch = refs/heads/master
