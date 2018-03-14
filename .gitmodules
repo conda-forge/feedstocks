@@ -16702,3 +16702,7 @@
 	url = https://github.com/conda-forge/terraform-provider-softlayer-feedstock.git
 	path = feedstocks/terraform-provider-softlayer
 	branch = refs/heads/master
+[submodule "terraform-provider-triton"]
+	url = https://github.com/conda-forge/terraform-provider-triton-feedstock.git
+	path = feedstocks/terraform-provider-triton
+	branch = refs/heads/master
