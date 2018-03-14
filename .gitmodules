@@ -16726,3 +16726,7 @@
 	url = https://github.com/conda-forge/terraform-provider-cloudstack-feedstock.git
 	path = feedstocks/terraform-provider-cloudstack
 	branch = refs/heads/master
+[submodule "terraform-provider-digitalocean"]
+	url = https://github.com/conda-forge/terraform-provider-digitalocean-feedstock.git
+	path = feedstocks/terraform-provider-digitalocean
+	branch = refs/heads/master
