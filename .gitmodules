@@ -16694,3 +16694,7 @@
 	url = https://github.com/conda-forge/terraform-provider-profitbricks-feedstock.git
 	path = feedstocks/terraform-provider-profitbricks
 	branch = refs/heads/master
+[submodule "terraform-provider-scaleway"]
+	url = https://github.com/conda-forge/terraform-provider-scaleway-feedstock.git
+	path = feedstocks/terraform-provider-scaleway
+	branch = refs/heads/master
