@@ -16706,3 +16706,7 @@
 	url = https://github.com/conda-forge/terraform-provider-triton-feedstock.git
 	path = feedstocks/terraform-provider-triton
 	branch = refs/heads/master
+[submodule "terraform-provider-vcd"]
+	url = https://github.com/conda-forge/terraform-provider-vcd-feedstock.git
+	path = feedstocks/terraform-provider-vcd
+	branch = refs/heads/master
