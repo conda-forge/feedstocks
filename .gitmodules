@@ -16710,3 +16710,7 @@
 	url = https://github.com/conda-forge/terraform-provider-vcd-feedstock.git
 	path = feedstocks/terraform-provider-vcd
 	branch = refs/heads/master
+[submodule "terraform-provider-arukas"]
+	url = https://github.com/conda-forge/terraform-provider-arukas-feedstock.git
+	path = feedstocks/terraform-provider-arukas
+	branch = refs/heads/master
