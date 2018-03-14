@@ -16742,3 +16742,7 @@
 	url = https://github.com/conda-forge/terraform-provider-oneandone-feedstock.git
 	path = feedstocks/terraform-provider-oneandone
 	branch = refs/heads/master
+[submodule "terraform-provider-openstack"]
+	url = https://github.com/conda-forge/terraform-provider-openstack-feedstock.git
+	path = feedstocks/terraform-provider-openstack
+	branch = refs/heads/master
