@@ -16698,3 +16698,7 @@
 	url = https://github.com/conda-forge/terraform-provider-scaleway-feedstock.git
 	path = feedstocks/terraform-provider-scaleway
 	branch = refs/heads/master
+[submodule "terraform-provider-softlayer"]
+	url = https://github.com/conda-forge/terraform-provider-softlayer-feedstock.git
+	path = feedstocks/terraform-provider-softlayer
+	branch = refs/heads/master
