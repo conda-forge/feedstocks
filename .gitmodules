@@ -16734,3 +16734,7 @@
 	url = https://github.com/conda-forge/terraform-provider-fastly-feedstock.git
 	path = feedstocks/terraform-provider-fastly
 	branch = refs/heads/master
+[submodule "terraform-provider-heroku"]
+	url = https://github.com/conda-forge/terraform-provider-heroku-feedstock.git
+	path = feedstocks/terraform-provider-heroku
+	branch = refs/heads/master
