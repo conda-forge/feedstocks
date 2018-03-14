@@ -16730,3 +16730,7 @@
 	url = https://github.com/conda-forge/terraform-provider-digitalocean-feedstock.git
 	path = feedstocks/terraform-provider-digitalocean
 	branch = refs/heads/master
+[submodule "terraform-provider-fastly"]
+	url = https://github.com/conda-forge/terraform-provider-fastly-feedstock.git
+	path = feedstocks/terraform-provider-fastly
+	branch = refs/heads/master
