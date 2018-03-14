@@ -16682,3 +16682,7 @@
 	url = https://github.com/conda-forge/terraform-provider-opentelekomcloud-feedstock.git
 	path = feedstocks/terraform-provider-opentelekomcloud
 	branch = refs/heads/master
+[submodule "terraform-provider-ovh"]
+	url = https://github.com/conda-forge/terraform-provider-ovh-feedstock.git
+	path = feedstocks/terraform-provider-ovh
+	branch = refs/heads/master
