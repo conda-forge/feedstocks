@@ -16738,3 +16738,7 @@
 	url = https://github.com/conda-forge/terraform-provider-heroku-feedstock.git
 	path = feedstocks/terraform-provider-heroku
 	branch = refs/heads/master
+[submodule "terraform-provider-oneandone"]
+	url = https://github.com/conda-forge/terraform-provider-oneandone-feedstock.git
+	path = feedstocks/terraform-provider-oneandone
+	branch = refs/heads/master
