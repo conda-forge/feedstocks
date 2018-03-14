@@ -16714,3 +16714,7 @@
 	url = https://github.com/conda-forge/terraform-provider-arukas-feedstock.git
 	path = feedstocks/terraform-provider-arukas
 	branch = refs/heads/master
+[submodule "python-wget"]
+	url = https://github.com/conda-forge/python-wget-feedstock.git
+	path = feedstocks/python-wget
+	branch = refs/heads/master
