@@ -16678,3 +16678,7 @@
 	url = https://github.com/conda-forge/terraform-provider-vsphere-feedstock.git
 	path = feedstocks/terraform-provider-vsphere
 	branch = refs/heads/master
+[submodule "terraform-provider-opentelekomcloud"]
+	url = https://github.com/conda-forge/terraform-provider-opentelekomcloud-feedstock.git
+	path = feedstocks/terraform-provider-opentelekomcloud
+	branch = refs/heads/master
