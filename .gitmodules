@@ -16746,3 +16746,7 @@
 	url = https://github.com/conda-forge/terraform-provider-openstack-feedstock.git
 	path = feedstocks/terraform-provider-openstack
 	branch = refs/heads/master
+[submodule "terraform-provider-clc"]
+	url = https://github.com/conda-forge/terraform-provider-clc-feedstock.git
+	path = feedstocks/terraform-provider-clc
+	branch = refs/heads/master
