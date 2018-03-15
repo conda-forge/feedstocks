@@ -16826,3 +16826,7 @@
 	url = https://github.com/conda-forge/terraform-provider-gitlab-feedstock.git
 	path = feedstocks/terraform-provider-gitlab
 	branch = refs/heads/master
+[submodule "terraform-provider-grafana"]
+	url = https://github.com/conda-forge/terraform-provider-grafana-feedstock.git
+	path = feedstocks/terraform-provider-grafana
+	branch = refs/heads/master
