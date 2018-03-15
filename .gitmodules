@@ -16930,3 +16930,7 @@
 	url = https://github.com/conda-forge/terraform-provider-spotinst-feedstock.git
 	path = feedstocks/terraform-provider-spotinst
 	branch = refs/heads/master
+[submodule "terraform-provider-statuscake"]
+	url = https://github.com/conda-forge/terraform-provider-statuscake-feedstock.git
+	path = feedstocks/terraform-provider-statuscake
+	branch = refs/heads/master
