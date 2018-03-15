@@ -16858,3 +16858,7 @@
 	url = https://github.com/conda-forge/terraform-provider-local-feedstock.git
 	path = feedstocks/terraform-provider-local
 	branch = refs/heads/master
+[submodule "terraform-provider-logentries"]
+	url = https://github.com/conda-forge/terraform-provider-logentries-feedstock.git
+	path = feedstocks/terraform-provider-logentries
+	branch = refs/heads/master
