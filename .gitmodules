@@ -16934,3 +16934,7 @@
 	url = https://github.com/conda-forge/terraform-provider-statuscake-feedstock.git
 	path = feedstocks/terraform-provider-statuscake
 	branch = refs/heads/master
+[submodule "terraform-provider-template"]
+	url = https://github.com/conda-forge/terraform-provider-template-feedstock.git
+	path = feedstocks/terraform-provider-template
+	branch = refs/heads/master
