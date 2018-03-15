@@ -16918,3 +16918,7 @@
 	url = https://github.com/conda-forge/terraform-provider-rancher-feedstock.git
 	path = feedstocks/terraform-provider-rancher
 	branch = refs/heads/master
+[submodule "terraform-provider-random"]
+	url = https://github.com/conda-forge/terraform-provider-random-feedstock.git
+	path = feedstocks/terraform-provider-random
+	branch = refs/heads/master
