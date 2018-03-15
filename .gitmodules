@@ -16790,3 +16790,7 @@
 	url = https://github.com/conda-forge/terraform-provider-consul-feedstock.git
 	path = feedstocks/terraform-provider-consul
 	branch = refs/heads/master
+[submodule "terraform-provider-datadog"]
+	url = https://github.com/conda-forge/terraform-provider-datadog-feedstock.git
+	path = feedstocks/terraform-provider-datadog
+	branch = refs/heads/master
