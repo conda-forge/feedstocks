@@ -16766,3 +16766,7 @@
 	url = https://github.com/conda-forge/terraform-provider-atlas-feedstock.git
 	path = feedstocks/terraform-provider-atlas
 	branch = refs/heads/master
+[submodule "terraform-provider-bitbucket"]
+	url = https://github.com/conda-forge/terraform-provider-bitbucket-feedstock.git
+	path = feedstocks/terraform-provider-bitbucket
+	branch = refs/heads/master
