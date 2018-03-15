@@ -16810,3 +16810,7 @@
 	url = https://github.com/conda-forge/terraform-provider-docker-feedstock.git
 	path = feedstocks/terraform-provider-docker
 	branch = refs/heads/master
+[submodule "terraform-provider-dyn"]
+	url = https://github.com/conda-forge/terraform-provider-dyn-feedstock.git
+	path = feedstocks/terraform-provider-dyn
+	branch = refs/heads/master
