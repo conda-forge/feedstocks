@@ -16862,3 +16862,7 @@
 	url = https://github.com/conda-forge/terraform-provider-logentries-feedstock.git
 	path = feedstocks/terraform-provider-logentries
 	branch = refs/heads/master
+[submodule "terraform-provider-logicmonitor"]
+	url = https://github.com/conda-forge/terraform-provider-logicmonitor-feedstock.git
+	path = feedstocks/terraform-provider-logicmonitor
+	branch = refs/heads/master
