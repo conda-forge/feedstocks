@@ -16838,3 +16838,7 @@
 	url = https://github.com/conda-forge/terraform-provider-icinga2-feedstock.git
 	path = feedstocks/terraform-provider-icinga2
 	branch = refs/heads/master
+[submodule "terraform-provider-ignition"]
+	url = https://github.com/conda-forge/terraform-provider-ignition-feedstock.git
+	path = feedstocks/terraform-provider-ignition
+	branch = refs/heads/master
