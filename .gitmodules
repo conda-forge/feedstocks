@@ -16774,3 +16774,7 @@
 	url = https://github.com/conda-forge/terraform-provider-chef-feedstock.git
 	path = feedstocks/terraform-provider-chef
 	branch = refs/heads/master
+[submodule "terraform-provider-circonus"]
+	url = https://github.com/conda-forge/terraform-provider-circonus-feedstock.git
+	path = feedstocks/terraform-provider-circonus
+	branch = refs/heads/master
