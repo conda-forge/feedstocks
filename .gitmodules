@@ -16786,3 +16786,7 @@
 	url = https://github.com/conda-forge/terraform-provider-cobbler-feedstock.git
 	path = feedstocks/terraform-provider-cobbler
 	branch = refs/heads/master
+[submodule "terraform-provider-consul"]
+	url = https://github.com/conda-forge/terraform-provider-consul-feedstock.git
+	path = feedstocks/terraform-provider-consul
+	branch = refs/heads/master
