@@ -16846,3 +16846,7 @@
 	url = https://github.com/conda-forge/terraform-provider-influxdb-feedstock.git
 	path = feedstocks/terraform-provider-influxdb
 	branch = refs/heads/master
+[submodule "terraform-provider-kubernetes"]
+	url = https://github.com/conda-forge/terraform-provider-kubernetes-feedstock.git
+	path = feedstocks/terraform-provider-kubernetes
+	branch = refs/heads/master
