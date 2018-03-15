@@ -16806,3 +16806,7 @@
 	url = https://github.com/conda-forge/terraform-provider-dnsimple-feedstock.git
 	path = feedstocks/terraform-provider-dnsimple
 	branch = refs/heads/master
+[submodule "terraform-provider-docker"]
+	url = https://github.com/conda-forge/terraform-provider-docker-feedstock.git
+	path = feedstocks/terraform-provider-docker
+	branch = refs/heads/master
