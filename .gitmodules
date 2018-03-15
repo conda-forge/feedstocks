@@ -16902,3 +16902,7 @@
 	url = https://github.com/conda-forge/terraform-provider-panos-feedstock.git
 	path = feedstocks/terraform-provider-panos
 	branch = refs/heads/master
+[submodule "terraform-provider-postgresql"]
+	url = https://github.com/conda-forge/terraform-provider-postgresql-feedstock.git
+	path = feedstocks/terraform-provider-postgresql
+	branch = refs/heads/master
