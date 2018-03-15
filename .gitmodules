@@ -16750,3 +16750,7 @@
 	url = https://github.com/conda-forge/terraform-provider-clc-feedstock.git
 	path = feedstocks/terraform-provider-clc
 	branch = refs/heads/master
+[submodule "ablog"]
+	url = https://github.com/conda-forge/ablog-feedstock.git
+	path = feedstocks/ablog
+	branch = refs/heads/master
