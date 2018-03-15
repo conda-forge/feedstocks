@@ -16882,3 +16882,7 @@
 	url = https://github.com/conda-forge/terraform-provider-nomad-feedstock.git
 	path = feedstocks/terraform-provider-nomad
 	branch = refs/heads/master
+[submodule "terraform-provider-ns1"]
+	url = https://github.com/conda-forge/terraform-provider-ns1-feedstock.git
+	path = feedstocks/terraform-provider-ns1
+	branch = refs/heads/master
