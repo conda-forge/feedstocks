@@ -16914,3 +16914,7 @@
 	url = https://github.com/conda-forge/terraform-provider-rabbitmq-feedstock.git
 	path = feedstocks/terraform-provider-rabbitmq
 	branch = refs/heads/master
+[submodule "terraform-provider-rancher"]
+	url = https://github.com/conda-forge/terraform-provider-rancher-feedstock.git
+	path = feedstocks/terraform-provider-rancher
+	branch = refs/heads/master
