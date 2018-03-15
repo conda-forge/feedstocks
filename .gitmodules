@@ -16762,3 +16762,7 @@
 	url = https://github.com/conda-forge/terraform-provider-archive-feedstock.git
 	path = feedstocks/terraform-provider-archive
 	branch = refs/heads/master
+[submodule "terraform-provider-atlas"]
+	url = https://github.com/conda-forge/terraform-provider-atlas-feedstock.git
+	path = feedstocks/terraform-provider-atlas
+	branch = refs/heads/master
