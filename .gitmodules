@@ -16782,3 +16782,7 @@
 	url = https://github.com/conda-forge/terraform-provider-cloudflare-feedstock.git
 	path = feedstocks/terraform-provider-cloudflare
 	branch = refs/heads/master
+[submodule "terraform-provider-cobbler"]
+	url = https://github.com/conda-forge/terraform-provider-cobbler-feedstock.git
+	path = feedstocks/terraform-provider-cobbler
+	branch = refs/heads/master
