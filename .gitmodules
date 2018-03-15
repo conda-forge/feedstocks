@@ -16770,3 +16770,7 @@
 	url = https://github.com/conda-forge/terraform-provider-bitbucket-feedstock.git
 	path = feedstocks/terraform-provider-bitbucket
 	branch = refs/heads/master
+[submodule "terraform-provider-chef"]
+	url = https://github.com/conda-forge/terraform-provider-chef-feedstock.git
+	path = feedstocks/terraform-provider-chef
+	branch = refs/heads/master
