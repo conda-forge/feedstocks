@@ -16850,3 +16850,7 @@
 	url = https://github.com/conda-forge/terraform-provider-kubernetes-feedstock.git
 	path = feedstocks/terraform-provider-kubernetes
 	branch = refs/heads/master
+[submodule "terraform-provider-librato"]
+	url = https://github.com/conda-forge/terraform-provider-librato-feedstock.git
+	path = feedstocks/terraform-provider-librato
+	branch = refs/heads/master
