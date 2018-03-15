@@ -16874,3 +16874,7 @@
 	url = https://github.com/conda-forge/terraform-provider-mysql-feedstock.git
 	path = feedstocks/terraform-provider-mysql
 	branch = refs/heads/master
+[submodule "terraform-provider-newrelic"]
+	url = https://github.com/conda-forge/terraform-provider-newrelic-feedstock.git
+	path = feedstocks/terraform-provider-newrelic
+	branch = refs/heads/master
