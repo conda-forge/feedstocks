@@ -16922,3 +16922,7 @@
 	url = https://github.com/conda-forge/terraform-provider-random-feedstock.git
 	path = feedstocks/terraform-provider-random
 	branch = refs/heads/master
+[submodule "terraform-provider-rundeck"]
+	url = https://github.com/conda-forge/terraform-provider-rundeck-feedstock.git
+	path = feedstocks/terraform-provider-rundeck
+	branch = refs/heads/master
