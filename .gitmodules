@@ -16890,3 +16890,7 @@
 	url = https://github.com/conda-forge/terraform-provider-null-feedstock.git
 	path = feedstocks/terraform-provider-null
 	branch = refs/heads/master
+[submodule "terraform-provider-opsgenie"]
+	url = https://github.com/conda-forge/terraform-provider-opsgenie-feedstock.git
+	path = feedstocks/terraform-provider-opsgenie
+	branch = refs/heads/master
