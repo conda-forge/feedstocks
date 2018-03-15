@@ -16794,3 +16794,7 @@
 	url = https://github.com/conda-forge/terraform-provider-datadog-feedstock.git
 	path = feedstocks/terraform-provider-datadog
 	branch = refs/heads/master
+[submodule "terraform-provider-dme"]
+	url = https://github.com/conda-forge/terraform-provider-dme-feedstock.git
+	path = feedstocks/terraform-provider-dme
+	branch = refs/heads/master
