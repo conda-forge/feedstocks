@@ -16926,3 +16926,7 @@
 	url = https://github.com/conda-forge/terraform-provider-rundeck-feedstock.git
 	path = feedstocks/terraform-provider-rundeck
 	branch = refs/heads/master
+[submodule "terraform-provider-spotinst"]
+	url = https://github.com/conda-forge/terraform-provider-spotinst-feedstock.git
+	path = feedstocks/terraform-provider-spotinst
+	branch = refs/heads/master
