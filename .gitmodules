@@ -16842,3 +16842,7 @@
 	url = https://github.com/conda-forge/terraform-provider-ignition-feedstock.git
 	path = feedstocks/terraform-provider-ignition
 	branch = refs/heads/master
+[submodule "terraform-provider-influxdb"]
+	url = https://github.com/conda-forge/terraform-provider-influxdb-feedstock.git
+	path = feedstocks/terraform-provider-influxdb
+	branch = refs/heads/master
