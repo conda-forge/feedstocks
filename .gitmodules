@@ -16818,3 +16818,7 @@
 	url = https://github.com/conda-forge/terraform-provider-external-feedstock.git
 	path = feedstocks/terraform-provider-external
 	branch = refs/heads/master
+[submodule "terraform-provider-github"]
+	url = https://github.com/conda-forge/terraform-provider-github-feedstock.git
+	path = feedstocks/terraform-provider-github
+	branch = refs/heads/master
