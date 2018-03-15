@@ -16798,3 +16798,7 @@
 	url = https://github.com/conda-forge/terraform-provider-dme-feedstock.git
 	path = feedstocks/terraform-provider-dme
 	branch = refs/heads/master
+[submodule "terraform-provider-dns"]
+	url = https://github.com/conda-forge/terraform-provider-dns-feedstock.git
+	path = feedstocks/terraform-provider-dns
+	branch = refs/heads/master
