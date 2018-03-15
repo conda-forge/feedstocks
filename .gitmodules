@@ -16878,3 +16878,7 @@
 	url = https://github.com/conda-forge/terraform-provider-newrelic-feedstock.git
 	path = feedstocks/terraform-provider-newrelic
 	branch = refs/heads/master
+[submodule "terraform-provider-nomad"]
+	url = https://github.com/conda-forge/terraform-provider-nomad-feedstock.git
+	path = feedstocks/terraform-provider-nomad
+	branch = refs/heads/master
