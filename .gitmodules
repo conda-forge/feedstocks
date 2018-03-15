@@ -16866,3 +16866,7 @@
 	url = https://github.com/conda-forge/terraform-provider-logicmonitor-feedstock.git
 	path = feedstocks/terraform-provider-logicmonitor
 	branch = refs/heads/master
+[submodule "terraform-provider-mailgun"]
+	url = https://github.com/conda-forge/terraform-provider-mailgun-feedstock.git
+	path = feedstocks/terraform-provider-mailgun
+	branch = refs/heads/master
