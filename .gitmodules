@@ -16958,3 +16958,7 @@
 	url = https://github.com/conda-forge/choicemodels-feedstock.git
 	path = feedstocks/choicemodels
 	branch = refs/heads/master
+[submodule "vega_datasets"]
+	url = https://github.com/conda-forge/vega_datasets-feedstock.git
+	path = feedstocks/vega_datasets
+	branch = refs/heads/master
