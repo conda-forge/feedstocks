@@ -16978,3 +16978,7 @@
 	url = https://github.com/conda-forge/django-filer-feedstock.git
 	path = feedstocks/django-filer
 	branch = refs/heads/master
+[submodule "mapio"]
+	url = https://github.com/conda-forge/mapio-feedstock.git
+	path = feedstocks/mapio
+	branch = refs/heads/master
