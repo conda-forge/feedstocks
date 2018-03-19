@@ -17026,3 +17026,7 @@
 	url = https://github.com/conda-forge/django-emailhub-feedstock.git
 	path = feedstocks/django-emailhub
 	branch = refs/heads/master
+[submodule "draftjs_exporter"]
+	url = https://github.com/conda-forge/draftjs_exporter-feedstock.git
+	path = feedstocks/draftjs_exporter
+	branch = refs/heads/master
