@@ -17018,3 +17018,7 @@
 	url = https://github.com/conda-forge/orange3-educational-feedstock.git
 	path = feedstocks/orange3-educational
 	branch = refs/heads/master
+[submodule "halide-python"]
+	url = https://github.com/conda-forge/halide-python-feedstock.git
+	path = feedstocks/halide-python
+	branch = refs/heads/master
