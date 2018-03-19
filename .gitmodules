@@ -17010,3 +17010,7 @@
 	url = https://github.com/conda-forge/pymonetdb-feedstock.git
 	path = feedstocks/pymonetdb
 	branch = refs/heads/master
+[submodule "sqlalchemy-utc"]
+	url = https://github.com/conda-forge/sqlalchemy-utc-feedstock.git
+	path = feedstocks/sqlalchemy-utc
+	branch = refs/heads/master
