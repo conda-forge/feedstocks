@@ -17006,3 +17006,7 @@
 	url = https://github.com/conda-forge/bitstruct-feedstock.git
 	path = feedstocks/bitstruct
 	branch = refs/heads/master
+[submodule "pymonetdb"]
+	url = https://github.com/conda-forge/pymonetdb-feedstock.git
+	path = feedstocks/pymonetdb
+	branch = refs/heads/master
