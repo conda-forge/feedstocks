@@ -16982,3 +16982,7 @@
 	url = https://github.com/conda-forge/drmaa-feedstock.git
 	path = feedstocks/drmaa
 	branch = refs/heads/master
+[submodule "python-fitparse"]
+	url = https://github.com/conda-forge/python-fitparse-feedstock.git
+	path = feedstocks/python-fitparse
+	branch = refs/heads/master
