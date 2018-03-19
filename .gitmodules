@@ -16990,3 +16990,7 @@
 	url = https://github.com/conda-forge/etcd-feedstock.git
 	path = feedstocks/etcd
 	branch = refs/heads/master
+[submodule "cni-plugins"]
+	url = https://github.com/conda-forge/cni-plugins-feedstock.git
+	path = feedstocks/cni-plugins
+	branch = refs/heads/master
