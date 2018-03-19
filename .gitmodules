@@ -16998,3 +16998,7 @@
 	url = https://github.com/conda-forge/cni-feedstock.git
 	path = feedstocks/cni
 	branch = refs/heads/master
+[submodule "coredns"]
+	url = https://github.com/conda-forge/coredns-feedstock.git
+	path = feedstocks/coredns
+	branch = refs/heads/master
