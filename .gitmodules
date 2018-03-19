@@ -17034,3 +17034,7 @@
 	url = https://github.com/conda-forge/git-annex-feedstock.git
 	path = feedstocks/git-annex
 	branch = refs/heads/master
+[submodule "swagger-django-generator"]
+	url = https://github.com/conda-forge/swagger-django-generator-feedstock.git
+	path = feedstocks/swagger-django-generator
+	branch = refs/heads/master
