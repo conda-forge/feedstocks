@@ -16994,3 +16994,7 @@
 	url = https://github.com/conda-forge/cni-plugins-feedstock.git
 	path = feedstocks/cni-plugins
 	branch = refs/heads/master
+[submodule "cni"]
+	url = https://github.com/conda-forge/cni-feedstock.git
+	path = feedstocks/cni
+	branch = refs/heads/master
