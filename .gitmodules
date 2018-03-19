@@ -17022,3 +17022,7 @@
 	url = https://github.com/conda-forge/halide-python-feedstock.git
 	path = feedstocks/halide-python
 	branch = refs/heads/master
+[submodule "django-emailhub"]
+	url = https://github.com/conda-forge/django-emailhub-feedstock.git
+	path = feedstocks/django-emailhub
+	branch = refs/heads/master
