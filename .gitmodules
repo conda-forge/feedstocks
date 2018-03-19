@@ -16986,3 +16986,7 @@
 	url = https://github.com/conda-forge/python-fitparse-feedstock.git
 	path = feedstocks/python-fitparse
 	branch = refs/heads/master
+[submodule "etcd"]
+	url = https://github.com/conda-forge/etcd-feedstock.git
+	path = feedstocks/etcd
+	branch = refs/heads/master
