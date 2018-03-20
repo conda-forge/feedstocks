@@ -17062,3 +17062,7 @@
 	url = https://github.com/conda-forge/filebutler-feedstock.git
 	path = feedstocks/filebutler
 	branch = refs/heads/master
+[submodule "jupyter_kernel_test"]
+	url = https://github.com/conda-forge/jupyter_kernel_test-feedstock.git
+	path = feedstocks/jupyter_kernel_test
+	branch = refs/heads/master
