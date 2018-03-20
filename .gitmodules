@@ -17058,3 +17058,7 @@
 	url = https://github.com/conda-forge/pytest-mccabe-feedstock.git
 	path = feedstocks/pytest-mccabe
 	branch = refs/heads/master
+[submodule "filebutler"]
+	url = https://github.com/conda-forge/filebutler-feedstock.git
+	path = feedstocks/filebutler
+	branch = refs/heads/master
