@@ -17078,3 +17078,7 @@
 	url = https://github.com/conda-forge/hexer-feedstock.git
 	path = feedstocks/hexer
 	branch = refs/heads/master
+[submodule "laz-perf"]
+	url = https://github.com/conda-forge/laz-perf-feedstock.git
+	path = feedstocks/laz-perf
+	branch = refs/heads/master
