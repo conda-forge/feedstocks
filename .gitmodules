@@ -17086,3 +17086,7 @@
 	url = https://github.com/conda-forge/nitro-feedstock.git
 	path = feedstocks/nitro
 	branch = refs/heads/master
+[submodule "pivy"]
+	url = https://github.com/conda-forge/pivy-feedstock.git
+	path = feedstocks/pivy
+	branch = refs/heads/master
