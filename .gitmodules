@@ -17082,3 +17082,7 @@
 	url = https://github.com/conda-forge/laz-perf-feedstock.git
 	path = feedstocks/laz-perf
 	branch = refs/heads/master
+[submodule "nitro"]
+	url = https://github.com/conda-forge/nitro-feedstock.git
+	path = feedstocks/nitro
+	branch = refs/heads/master
