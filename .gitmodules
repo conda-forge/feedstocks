@@ -17050,3 +17050,7 @@
 	url = https://github.com/conda-forge/cfncluster-feedstock.git
 	path = feedstocks/cfncluster
 	branch = refs/heads/master
+[submodule "oletools"]
+	url = https://github.com/conda-forge/oletools-feedstock.git
+	path = feedstocks/oletools
+	branch = refs/heads/master
