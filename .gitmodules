@@ -17074,3 +17074,7 @@
 	url = https://github.com/conda-forge/scikit-cycling-feedstock.git
 	path = feedstocks/scikit-cycling
 	branch = refs/heads/master
+[submodule "hexer"]
+	url = https://github.com/conda-forge/hexer-feedstock.git
+	path = feedstocks/hexer
+	branch = refs/heads/master
