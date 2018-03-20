@@ -17090,3 +17090,7 @@
 	url = https://github.com/conda-forge/pivy-feedstock.git
 	path = feedstocks/pivy
 	branch = refs/heads/master
+[submodule "flex-swagger"]
+	url = https://github.com/conda-forge/flex-swagger-feedstock.git
+	path = feedstocks/flex-swagger
+	branch = refs/heads/master
