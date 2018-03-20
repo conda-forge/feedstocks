@@ -17070,3 +17070,7 @@
 	url = https://github.com/conda-forge/r-svglite-feedstock.git
 	path = feedstocks/r-svglite
 	branch = refs/heads/master
+[submodule "scikit-cycling"]
+	url = https://github.com/conda-forge/scikit-cycling-feedstock.git
+	path = feedstocks/scikit-cycling
+	branch = refs/heads/master
