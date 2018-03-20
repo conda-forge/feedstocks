@@ -17094,3 +17094,7 @@
 	url = https://github.com/conda-forge/flex-swagger-feedstock.git
 	path = feedstocks/flex-swagger
 	branch = refs/heads/master
+[submodule "rfc3987"]
+	url = https://github.com/conda-forge/rfc3987-feedstock.git
+	path = feedstocks/rfc3987
+	branch = refs/heads/master
