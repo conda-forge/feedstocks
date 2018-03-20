@@ -17042,3 +17042,7 @@
 	url = https://github.com/conda-forge/sknw-feedstock.git
 	path = feedstocks/sknw
 	branch = refs/heads/master
+[submodule "flask-restalchemy"]
+	url = https://github.com/conda-forge/flask-restalchemy-feedstock.git
+	path = feedstocks/flask-restalchemy
+	branch = refs/heads/master
