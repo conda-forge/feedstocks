@@ -17114,3 +17114,7 @@
 	url = https://github.com/conda-forge/datalad-feedstock.git
 	path = feedstocks/datalad
 	branch = refs/heads/master
+[submodule "igor"]
+	url = https://github.com/conda-forge/igor-feedstock.git
+	path = feedstocks/igor
+	branch = refs/heads/master
