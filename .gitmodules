@@ -17110,3 +17110,7 @@
 	url = https://github.com/conda-forge/strec-feedstock.git
 	path = feedstocks/strec
 	branch = refs/heads/master
+[submodule "datalad"]
+	url = https://github.com/conda-forge/datalad-feedstock.git
+	path = feedstocks/datalad
+	branch = refs/heads/master
