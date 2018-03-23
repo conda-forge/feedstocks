@@ -17126,3 +17126,7 @@
 	url = https://github.com/conda-forge/imagepy-feedstock.git
 	path = feedstocks/imagepy
 	branch = refs/heads/master
+[submodule "robobrowser"]
+	url = https://github.com/conda-forge/robobrowser-feedstock.git
+	path = feedstocks/robobrowser
+	branch = refs/heads/master
