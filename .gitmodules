@@ -17122,3 +17122,7 @@
 	url = https://github.com/conda-forge/spdlib-feedstock.git
 	path = feedstocks/spdlib
 	branch = refs/heads/master
+[submodule "imagepy"]
+	url = https://github.com/conda-forge/imagepy-feedstock.git
+	path = feedstocks/imagepy
+	branch = refs/heads/master
