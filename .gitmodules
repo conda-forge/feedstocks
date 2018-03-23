@@ -17118,3 +17118,7 @@
 	url = https://github.com/conda-forge/igor-feedstock.git
 	path = feedstocks/igor
 	branch = refs/heads/master
+[submodule "spdlib"]
+	url = https://github.com/conda-forge/spdlib-feedstock.git
+	path = feedstocks/spdlib
+	branch = refs/heads/master
