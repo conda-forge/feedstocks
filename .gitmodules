@@ -17146,3 +17146,7 @@
 	url = https://github.com/conda-forge/pydensecrf-feedstock.git
 	path = feedstocks/pydensecrf
 	branch = refs/heads/master
+[submodule "xesmf"]
+	url = https://github.com/conda-forge/xesmf-feedstock.git
+	path = feedstocks/xesmf
+	branch = refs/heads/master
