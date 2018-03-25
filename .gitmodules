@@ -17150,3 +17150,7 @@
 	url = https://github.com/conda-forge/xesmf-feedstock.git
 	path = feedstocks/xesmf
 	branch = refs/heads/master
+[submodule "qtlocation"]
+	url = https://github.com/conda-forge/qtlocation-feedstock.git
+	path = feedstocks/qtlocation
+	branch = refs/heads/master
