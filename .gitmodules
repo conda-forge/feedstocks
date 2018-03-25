@@ -17130,3 +17130,7 @@
 	url = https://github.com/conda-forge/robobrowser-feedstock.git
 	path = feedstocks/robobrowser
 	branch = refs/heads/master
+[submodule "numcosmo"]
+	url = https://github.com/conda-forge/numcosmo-feedstock.git
+	path = feedstocks/numcosmo
+	branch = refs/heads/master
