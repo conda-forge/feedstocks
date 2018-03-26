@@ -17154,3 +17154,7 @@
 	url = https://github.com/conda-forge/qtlocation-feedstock.git
 	path = feedstocks/qtlocation
 	branch = refs/heads/master
+[submodule "r-baseline"]
+	url = https://github.com/conda-forge/r-baseline-feedstock.git
+	path = feedstocks/r-baseline
+	branch = refs/heads/master
