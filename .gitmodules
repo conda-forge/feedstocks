@@ -17166,3 +17166,7 @@
 	url = https://github.com/conda-forge/r-snakecase-feedstock.git
 	path = feedstocks/r-snakecase
 	branch = refs/heads/master
+[submodule "r-coxme"]
+	url = https://github.com/conda-forge/r-coxme-feedstock.git
+	path = feedstocks/r-coxme
+	branch = refs/heads/master
