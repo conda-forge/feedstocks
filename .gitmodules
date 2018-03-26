@@ -17178,3 +17178,7 @@
 	url = https://github.com/conda-forge/earthsim-feedstock.git
 	path = feedstocks/earthsim
 	branch = refs/heads/master
+[submodule "canmatrix"]
+	url = https://github.com/conda-forge/canmatrix-feedstock.git
+	path = feedstocks/canmatrix
+	branch = refs/heads/master
