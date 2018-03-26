@@ -17182,3 +17182,7 @@
 	url = https://github.com/conda-forge/canmatrix-feedstock.git
 	path = feedstocks/canmatrix
 	branch = refs/heads/master
+[submodule "geoviews"]
+	url = https://github.com/conda-forge/geoviews-feedstock.git
+	path = feedstocks/geoviews
+	branch = refs/heads/master
