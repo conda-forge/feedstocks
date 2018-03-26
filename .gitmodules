@@ -17194,3 +17194,7 @@
 	url = https://github.com/conda-forge/steemdata-feedstock.git
 	path = feedstocks/steemdata
 	branch = refs/heads/master
+[submodule "udatetime"]
+	url = https://github.com/conda-forge/udatetime-feedstock.git
+	path = feedstocks/udatetime
+	branch = refs/heads/master
