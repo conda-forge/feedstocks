@@ -17158,3 +17158,7 @@
 	url = https://github.com/conda-forge/r-baseline-feedstock.git
 	path = feedstocks/r-baseline
 	branch = refs/heads/master
+[submodule "r-cometexacttest"]
+	url = https://github.com/conda-forge/r-cometexacttest-feedstock.git
+	path = feedstocks/r-cometexacttest
+	branch = refs/heads/master
