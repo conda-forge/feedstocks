@@ -17186,3 +17186,7 @@
 	url = https://github.com/conda-forge/geoviews-feedstock.git
 	path = feedstocks/geoviews
 	branch = refs/heads/master
+[submodule "r-wordcloud"]
+	url = https://github.com/conda-forge/r-wordcloud-feedstock.git
+	path = feedstocks/r-wordcloud
+	branch = refs/heads/master
