@@ -17174,3 +17174,7 @@
 	url = https://github.com/conda-forge/r-mratios-feedstock.git
 	path = feedstocks/r-mratios
 	branch = refs/heads/master
+[submodule "earthsim"]
+	url = https://github.com/conda-forge/earthsim-feedstock.git
+	path = feedstocks/earthsim
+	branch = refs/heads/master
