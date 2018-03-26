@@ -17170,3 +17170,7 @@
 	url = https://github.com/conda-forge/r-coxme-feedstock.git
 	path = feedstocks/r-coxme
 	branch = refs/heads/master
+[submodule "r-mratios"]
+	url = https://github.com/conda-forge/r-mratios-feedstock.git
+	path = feedstocks/r-mratios
+	branch = refs/heads/master
