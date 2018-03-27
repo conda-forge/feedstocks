@@ -17198,3 +17198,7 @@
 	url = https://github.com/conda-forge/udatetime-feedstock.git
 	path = feedstocks/udatetime
 	branch = refs/heads/master
+[submodule "r-geigen"]
+	url = https://github.com/conda-forge/r-geigen-feedstock.git
+	path = feedstocks/r-geigen
+	branch = refs/heads/master
