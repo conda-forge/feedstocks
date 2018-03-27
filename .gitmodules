@@ -17202,3 +17202,7 @@
 	url = https://github.com/conda-forge/r-geigen-feedstock.git
 	path = feedstocks/r-geigen
 	branch = refs/heads/master
+[submodule "exercism"]
+	url = https://github.com/conda-forge/exercism-feedstock.git
+	path = feedstocks/exercism
+	branch = refs/heads/master
