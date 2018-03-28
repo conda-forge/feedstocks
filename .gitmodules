@@ -17210,3 +17210,7 @@
 	url = https://github.com/conda-forge/ipywe-feedstock.git
 	path = feedstocks/ipywe
 	branch = refs/heads/master
+[submodule "sherlockml-boltzmannclean"]
+	url = https://github.com/conda-forge/sherlockml-boltzmannclean-feedstock.git
+	path = feedstocks/sherlockml-boltzmannclean
+	branch = refs/heads/master
