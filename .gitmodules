@@ -17226,3 +17226,7 @@
 	url = https://github.com/conda-forge/httpie-feedstock.git
 	path = feedstocks/httpie
 	branch = refs/heads/master
+[submodule "pyjanitor"]
+	url = https://github.com/conda-forge/pyjanitor-feedstock.git
+	path = feedstocks/pyjanitor
+	branch = refs/heads/master
