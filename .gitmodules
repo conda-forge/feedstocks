@@ -17222,3 +17222,7 @@
 	url = https://github.com/conda-forge/pycroscopy-feedstock.git
 	path = feedstocks/pycroscopy
 	branch = refs/heads/master
+[submodule "httpie"]
+	url = https://github.com/conda-forge/httpie-feedstock.git
+	path = feedstocks/httpie
+	branch = refs/heads/master
