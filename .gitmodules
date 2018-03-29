@@ -17214,3 +17214,7 @@
 	url = https://github.com/conda-forge/sherlockml-boltzmannclean-feedstock.git
 	path = feedstocks/sherlockml-boltzmannclean
 	branch = refs/heads/master
+[submodule "r-printr"]
+	url = https://github.com/conda-forge/r-printr-feedstock.git
+	path = feedstocks/r-printr
+	branch = refs/heads/master
