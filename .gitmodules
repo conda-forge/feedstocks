@@ -17230,3 +17230,7 @@
 	url = https://github.com/conda-forge/pyjanitor-feedstock.git
 	path = feedstocks/pyjanitor
 	branch = refs/heads/master
+[submodule "pyinstrument_cext"]
+	url = https://github.com/conda-forge/pyinstrument_cext-feedstock.git
+	path = feedstocks/pyinstrument_cext
+	branch = refs/heads/master
