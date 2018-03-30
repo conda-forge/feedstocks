@@ -17258,3 +17258,7 @@
 	url = https://github.com/conda-forge/git-secret-feedstock.git
 	path = feedstocks/git-secret
 	branch = refs/heads/master
+[submodule "yq"]
+	url = https://github.com/conda-forge/yq-feedstock.git
+	path = feedstocks/yq
+	branch = refs/heads/master
