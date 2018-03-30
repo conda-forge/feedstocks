@@ -17250,3 +17250,7 @@
 	url = https://github.com/conda-forge/amptools-feedstock.git
 	path = feedstocks/amptools
 	branch = refs/heads/master
+[submodule "liquidprompt"]
+	url = https://github.com/conda-forge/liquidprompt-feedstock.git
+	path = feedstocks/liquidprompt
+	branch = refs/heads/master
