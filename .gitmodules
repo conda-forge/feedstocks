@@ -17254,3 +17254,7 @@
 	url = https://github.com/conda-forge/liquidprompt-feedstock.git
 	path = feedstocks/liquidprompt
 	branch = refs/heads/master
+[submodule "git-secret"]
+	url = https://github.com/conda-forge/git-secret-feedstock.git
+	path = feedstocks/git-secret
+	branch = refs/heads/master
