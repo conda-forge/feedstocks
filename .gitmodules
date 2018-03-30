@@ -17238,3 +17238,7 @@
 	url = https://github.com/conda-forge/click-completion-feedstock.git
 	path = feedstocks/click-completion
 	branch = refs/heads/master
+[submodule "kubernetes-helm"]
+	url = https://github.com/conda-forge/kubernetes-helm-feedstock.git
+	path = feedstocks/kubernetes-helm
+	branch = refs/heads/master
