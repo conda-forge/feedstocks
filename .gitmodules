@@ -17242,3 +17242,7 @@
 	url = https://github.com/conda-forge/kubernetes-helm-feedstock.git
 	path = feedstocks/kubernetes-helm
 	branch = refs/heads/master
+[submodule "pyfpgrowth"]
+	url = https://github.com/conda-forge/pyfpgrowth-feedstock.git
+	path = feedstocks/pyfpgrowth
+	branch = refs/heads/master
