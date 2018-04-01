@@ -17270,3 +17270,7 @@
 	url = https://github.com/conda-forge/overpy-feedstock.git
 	path = feedstocks/overpy
 	branch = refs/heads/master
+[submodule "planet"]
+	url = https://github.com/conda-forge/planet-feedstock.git
+	path = feedstocks/planet
+	branch = refs/heads/master
