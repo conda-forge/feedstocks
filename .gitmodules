@@ -17262,3 +17262,7 @@
 	url = https://github.com/conda-forge/yq-feedstock.git
 	path = feedstocks/yq
 	branch = refs/heads/master
+[submodule "osmapi"]
+	url = https://github.com/conda-forge/osmapi-feedstock.git
+	path = feedstocks/osmapi
+	branch = refs/heads/master
