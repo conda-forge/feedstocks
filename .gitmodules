@@ -17274,3 +17274,7 @@
 	url = https://github.com/conda-forge/planet-feedstock.git
 	path = feedstocks/planet
 	branch = refs/heads/master
+[submodule "backcall"]
+	url = https://github.com/conda-forge/backcall-feedstock.git
+	path = feedstocks/backcall
+	branch = refs/heads/master
