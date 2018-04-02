@@ -17282,3 +17282,7 @@
 	url = https://github.com/conda-forge/virtualenv-clone-feedstock.git
 	path = feedstocks/virtualenv-clone
 	branch = refs/heads/master
+[submodule "pydrive"]
+	url = https://github.com/conda-forge/pydrive-feedstock.git
+	path = feedstocks/pydrive
+	branch = refs/heads/master
