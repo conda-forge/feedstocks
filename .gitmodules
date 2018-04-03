@@ -17294,3 +17294,7 @@
 	url = https://github.com/conda-forge/r-cgdsr-feedstock.git
 	path = feedstocks/r-cgdsr
 	branch = refs/heads/master
+[submodule "r-default"]
+	url = https://github.com/conda-forge/r-default-feedstock.git
+	path = feedstocks/r-default
+	branch = refs/heads/master
