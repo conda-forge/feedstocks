@@ -17326,3 +17326,7 @@
 	url = https://github.com/conda-forge/r-mcpan-feedstock.git
 	path = feedstocks/r-mcpan
 	branch = refs/heads/master
+[submodule "r-nparcomp"]
+	url = https://github.com/conda-forge/r-nparcomp-feedstock.git
+	path = feedstocks/r-nparcomp
+	branch = refs/heads/master
