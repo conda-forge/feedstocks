@@ -17318,3 +17318,7 @@
 	url = https://github.com/conda-forge/asciinema-feedstock.git
 	path = feedstocks/asciinema
 	branch = refs/heads/master
+[submodule "pyaudi"]
+	url = https://github.com/conda-forge/pyaudi-feedstock.git
+	path = feedstocks/pyaudi
+	branch = refs/heads/master
