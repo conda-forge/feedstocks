@@ -17286,3 +17286,7 @@
 	url = https://github.com/conda-forge/pydrive-feedstock.git
 	path = feedstocks/pydrive
 	branch = refs/heads/master
+[submodule "h5io"]
+	url = https://github.com/conda-forge/h5io-feedstock.git
+	path = feedstocks/h5io
+	branch = refs/heads/master
