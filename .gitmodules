@@ -17322,3 +17322,7 @@
 	url = https://github.com/conda-forge/pyaudi-feedstock.git
 	path = feedstocks/pyaudi
 	branch = refs/heads/master
+[submodule "r-mcpan"]
+	url = https://github.com/conda-forge/r-mcpan-feedstock.git
+	path = feedstocks/r-mcpan
+	branch = refs/heads/master
