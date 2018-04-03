@@ -17290,3 +17290,7 @@
 	url = https://github.com/conda-forge/h5io-feedstock.git
 	path = feedstocks/h5io
 	branch = refs/heads/master
+[submodule "r-cgdsr"]
+	url = https://github.com/conda-forge/r-cgdsr-feedstock.git
+	path = feedstocks/r-cgdsr
+	branch = refs/heads/master
