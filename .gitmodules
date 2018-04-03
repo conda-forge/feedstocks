@@ -17314,3 +17314,7 @@
 	url = https://github.com/conda-forge/pseudonetcdf-feedstock.git
 	path = feedstocks/pseudonetcdf
 	branch = refs/heads/master
+[submodule "asciinema"]
+	url = https://github.com/conda-forge/asciinema-feedstock.git
+	path = feedstocks/asciinema
+	branch = refs/heads/master
