@@ -17310,3 +17310,7 @@
 	url = https://github.com/conda-forge/r-simcomp-feedstock.git
 	path = feedstocks/r-simcomp
 	branch = refs/heads/master
+[submodule "pseudonetcdf"]
+	url = https://github.com/conda-forge/pseudonetcdf-feedstock.git
+	path = feedstocks/pseudonetcdf
+	branch = refs/heads/master
