@@ -17302,3 +17302,7 @@
 	url = https://github.com/conda-forge/r-janitor-feedstock.git
 	path = feedstocks/r-janitor
 	branch = refs/heads/master
+[submodule "r-rapportools"]
+	url = https://github.com/conda-forge/r-rapportools-feedstock.git
+	path = feedstocks/r-rapportools
+	branch = refs/heads/master
