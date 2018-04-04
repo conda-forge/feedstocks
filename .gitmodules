@@ -17350,3 +17350,7 @@
 	url = https://github.com/conda-forge/r-effsize-feedstock.git
 	path = feedstocks/r-effsize
 	branch = refs/heads/master
+[submodule "r-nortest"]
+	url = https://github.com/conda-forge/r-nortest-feedstock.git
+	path = feedstocks/r-nortest
+	branch = refs/heads/master
