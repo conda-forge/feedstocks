@@ -17346,3 +17346,7 @@
 	url = https://github.com/conda-forge/r-mc2d-feedstock.git
 	path = feedstocks/r-mc2d
 	branch = refs/heads/master
+[submodule "r-effsize"]
+	url = https://github.com/conda-forge/r-effsize-feedstock.git
+	path = feedstocks/r-effsize
+	branch = refs/heads/master
