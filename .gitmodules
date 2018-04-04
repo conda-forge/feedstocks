@@ -17374,3 +17374,7 @@
 	url = https://github.com/conda-forge/r-cramer-feedstock.git
 	path = feedstocks/r-cramer
 	branch = refs/heads/master
+[submodule "r-egg"]
+	url = https://github.com/conda-forge/r-egg-feedstock.git
+	path = feedstocks/r-egg
+	branch = refs/heads/master
