@@ -17330,3 +17330,7 @@
 	url = https://github.com/conda-forge/r-nparcomp-feedstock.git
 	path = feedstocks/r-nparcomp
 	branch = refs/heads/master
+[submodule "qtwebkit"]
+	url = https://github.com/conda-forge/qtwebkit-feedstock.git
+	path = feedstocks/qtwebkit
+	branch = refs/heads/master
