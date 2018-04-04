@@ -17382,3 +17382,7 @@
 	url = https://github.com/conda-forge/r-gparotation-feedstock.git
 	path = feedstocks/r-gparotation
 	branch = refs/heads/master
+[submodule "r-gss"]
+	url = https://github.com/conda-forge/r-gss-feedstock.git
+	path = feedstocks/r-gss
+	branch = refs/heads/master
