@@ -17334,3 +17334,7 @@
 	url = https://github.com/conda-forge/qtwebkit-feedstock.git
 	path = feedstocks/qtwebkit
 	branch = refs/heads/master
+[submodule "r-rapport"]
+	url = https://github.com/conda-forge/r-rapport-feedstock.git
+	path = feedstocks/r-rapport
+	branch = refs/heads/master
