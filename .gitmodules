@@ -17378,3 +17378,7 @@
 	url = https://github.com/conda-forge/r-egg-feedstock.git
 	path = feedstocks/r-egg
 	branch = refs/heads/master
+[submodule "r-gparotation"]
+	url = https://github.com/conda-forge/r-gparotation-feedstock.git
+	path = feedstocks/r-gparotation
+	branch = refs/heads/master
