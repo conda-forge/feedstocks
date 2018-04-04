@@ -17398,3 +17398,7 @@
 	url = https://github.com/conda-forge/r-pwr-feedstock.git
 	path = feedstocks/r-pwr
 	branch = refs/heads/master
+[submodule "r-rio"]
+	url = https://github.com/conda-forge/r-rio-feedstock.git
+	path = feedstocks/r-rio
+	branch = refs/heads/master
