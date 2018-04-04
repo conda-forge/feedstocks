@@ -17386,3 +17386,7 @@
 	url = https://github.com/conda-forge/r-gss-feedstock.git
 	path = feedstocks/r-gss
 	branch = refs/heads/master
+[submodule "r-jmvcore"]
+	url = https://github.com/conda-forge/r-jmvcore-feedstock.git
+	path = feedstocks/r-jmvcore
+	branch = refs/heads/master
