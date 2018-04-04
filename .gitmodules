@@ -17362,3 +17362,7 @@
 	url = https://github.com/conda-forge/r-scrt-feedstock.git
 	path = feedstocks/r-scrt
 	branch = refs/heads/master
+[submodule "pyquil"]
+	url = https://github.com/conda-forge/pyquil-feedstock.git
+	path = feedstocks/pyquil
+	branch = refs/heads/master
