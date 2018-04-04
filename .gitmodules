@@ -17366,3 +17366,7 @@
 	url = https://github.com/conda-forge/pyquil-feedstock.git
 	path = feedstocks/pyquil
 	branch = refs/heads/master
+[submodule "r-apatables"]
+	url = https://github.com/conda-forge/r-apatables-feedstock.git
+	path = feedstocks/r-apatables
+	branch = refs/heads/master
