@@ -17430,3 +17430,7 @@
 	url = https://github.com/conda-forge/ocaml-feedstock.git
 	path = feedstocks/ocaml
 	branch = refs/heads/master
+[submodule "bicycleparameters"]
+	url = https://github.com/conda-forge/bicycleparameters-feedstock.git
+	path = feedstocks/bicycleparameters
+	branch = refs/heads/master
