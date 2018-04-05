@@ -17418,3 +17418,7 @@
 	url = https://github.com/conda-forge/r-lavaan-feedstock.git
 	path = feedstocks/r-lavaan
 	branch = refs/heads/master
+[submodule "r-wrs2"]
+	url = https://github.com/conda-forge/r-wrs2-feedstock.git
+	path = feedstocks/r-wrs2
+	branch = refs/heads/master
