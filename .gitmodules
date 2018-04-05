@@ -17414,3 +17414,7 @@
 	url = https://github.com/conda-forge/r-fbasics-feedstock.git
 	path = feedstocks/r-fbasics
 	branch = refs/heads/master
+[submodule "r-lavaan"]
+	url = https://github.com/conda-forge/r-lavaan-feedstock.git
+	path = feedstocks/r-lavaan
+	branch = refs/heads/master
