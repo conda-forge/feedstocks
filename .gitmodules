@@ -17446,3 +17446,7 @@
 	url = https://github.com/conda-forge/r-qvcalc-feedstock.git
 	path = feedstocks/r-qvcalc
 	branch = refs/heads/master
+[submodule "r-relimp"]
+	url = https://github.com/conda-forge/r-relimp-feedstock.git
+	path = feedstocks/r-relimp
+	branch = refs/heads/master
