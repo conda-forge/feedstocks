@@ -17422,3 +17422,7 @@
 	url = https://github.com/conda-forge/r-wrs2-feedstock.git
 	path = feedstocks/r-wrs2
 	branch = refs/heads/master
+[submodule "laszip"]
+	url = https://github.com/conda-forge/laszip-feedstock.git
+	path = feedstocks/laszip
+	branch = refs/heads/master
