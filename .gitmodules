@@ -17410,3 +17410,7 @@
 	url = https://github.com/conda-forge/r-ca-feedstock.git
 	path = feedstocks/r-ca
 	branch = refs/heads/master
+[submodule "r-fbasics"]
+	url = https://github.com/conda-forge/r-fbasics-feedstock.git
+	path = feedstocks/r-fbasics
+	branch = refs/heads/master
