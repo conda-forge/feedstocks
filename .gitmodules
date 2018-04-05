@@ -17434,3 +17434,7 @@
 	url = https://github.com/conda-forge/bicycleparameters-feedstock.git
 	path = feedstocks/bicycleparameters
 	branch = refs/heads/master
+[submodule "netgen"]
+	url = https://github.com/conda-forge/netgen-feedstock.git
+	path = feedstocks/netgen
+	branch = refs/heads/master
