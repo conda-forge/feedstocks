@@ -17442,3 +17442,7 @@
 	url = https://github.com/conda-forge/r-psychotools-feedstock.git
 	path = feedstocks/r-psychotools
 	branch = refs/heads/master
+[submodule "r-qvcalc"]
+	url = https://github.com/conda-forge/r-qvcalc-feedstock.git
+	path = feedstocks/r-qvcalc
+	branch = refs/heads/master
