@@ -17406,3 +17406,7 @@
 	url = https://github.com/conda-forge/r-timeseries-feedstock.git
 	path = feedstocks/r-timeseries
 	branch = refs/heads/master
+[submodule "r-ca"]
+	url = https://github.com/conda-forge/r-ca-feedstock.git
+	path = feedstocks/r-ca
+	branch = refs/heads/master
