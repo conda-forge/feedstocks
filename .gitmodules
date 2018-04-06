@@ -17454,3 +17454,7 @@
 	url = https://github.com/conda-forge/r-gnm-feedstock.git
 	path = feedstocks/r-gnm
 	branch = refs/heads/master
+[submodule "r-mlapi"]
+	url = https://github.com/conda-forge/r-mlapi-feedstock.git
+	path = feedstocks/r-mlapi
+	branch = refs/heads/master
