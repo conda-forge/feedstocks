@@ -17462,3 +17462,7 @@
 	url = https://github.com/conda-forge/r-sparsepp-feedstock.git
 	path = feedstocks/r-sparsepp
 	branch = refs/heads/master
+[submodule "r-emmeans"]
+	url = https://github.com/conda-forge/r-emmeans-feedstock.git
+	path = feedstocks/r-emmeans
+	branch = refs/heads/master
