@@ -17474,3 +17474,7 @@
 	url = https://github.com/conda-forge/r-bayesfactor-feedstock.git
 	path = feedstocks/r-bayesfactor
 	branch = refs/heads/master
+[submodule "r-deriv"]
+	url = https://github.com/conda-forge/r-deriv-feedstock.git
+	path = feedstocks/r-deriv
+	branch = refs/heads/master
