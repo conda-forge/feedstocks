@@ -17482,3 +17482,7 @@
 	url = https://github.com/conda-forge/r-mvnormtest-feedstock.git
 	path = feedstocks/r-mvnormtest
 	branch = refs/heads/master
+[submodule "r-rpf"]
+	url = https://github.com/conda-forge/r-rpf-feedstock.git
+	path = feedstocks/r-rpf
+	branch = refs/heads/master
