@@ -17470,3 +17470,7 @@
 	url = https://github.com/conda-forge/r-vcdextra-feedstock.git
 	path = feedstocks/r-vcdextra
 	branch = refs/heads/master
+[submodule "r-bayesfactor"]
+	url = https://github.com/conda-forge/r-bayesfactor-feedstock.git
+	path = feedstocks/r-bayesfactor
+	branch = refs/heads/master
