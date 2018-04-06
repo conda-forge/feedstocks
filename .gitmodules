@@ -17490,3 +17490,7 @@
 	url = https://github.com/conda-forge/r-semtools-feedstock.git
 	path = feedstocks/r-semtools
 	branch = refs/heads/master
+[submodule "trafaret"]
+	url = https://github.com/conda-forge/trafaret-feedstock.git
+	path = feedstocks/trafaret
+	branch = refs/heads/master
