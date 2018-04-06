@@ -17486,3 +17486,7 @@
 	url = https://github.com/conda-forge/r-rpf-feedstock.git
 	path = feedstocks/r-rpf
 	branch = refs/heads/master
+[submodule "r-semtools"]
+	url = https://github.com/conda-forge/r-semtools-feedstock.git
+	path = feedstocks/r-semtools
+	branch = refs/heads/master
