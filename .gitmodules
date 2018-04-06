@@ -17478,3 +17478,7 @@
 	url = https://github.com/conda-forge/r-deriv-feedstock.git
 	path = feedstocks/r-deriv
 	branch = refs/heads/master
+[submodule "r-mvnormtest"]
+	url = https://github.com/conda-forge/r-mvnormtest-feedstock.git
+	path = feedstocks/r-mvnormtest
+	branch = refs/heads/master
