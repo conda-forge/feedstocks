@@ -17450,3 +17450,7 @@
 	url = https://github.com/conda-forge/r-relimp-feedstock.git
 	path = feedstocks/r-relimp
 	branch = refs/heads/master
+[submodule "r-gnm"]
+	url = https://github.com/conda-forge/r-gnm-feedstock.git
+	path = feedstocks/r-gnm
+	branch = refs/heads/master
