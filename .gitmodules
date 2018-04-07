@@ -17498,3 +17498,7 @@
 	url = https://github.com/conda-forge/r-blme-feedstock.git
 	path = feedstocks/r-blme
 	branch = refs/heads/master
+[submodule "kubernetes-federation"]
+	url = https://github.com/conda-forge/kubernetes-federation-feedstock.git
+	path = feedstocks/kubernetes-federation
+	branch = refs/heads/master
