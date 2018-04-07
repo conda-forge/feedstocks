@@ -17494,3 +17494,7 @@
 	url = https://github.com/conda-forge/trafaret-feedstock.git
 	path = feedstocks/trafaret
 	branch = refs/heads/master
+[submodule "r-blme"]
+	url = https://github.com/conda-forge/r-blme-feedstock.git
+	path = feedstocks/r-blme
+	branch = refs/heads/master
