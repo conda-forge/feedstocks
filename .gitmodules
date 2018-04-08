@@ -17506,3 +17506,7 @@
 	url = https://github.com/conda-forge/r-prediction-feedstock.git
 	path = feedstocks/r-prediction
 	branch = refs/heads/master
+[submodule "r-mi"]
+	url = https://github.com/conda-forge/r-mi-feedstock.git
+	path = feedstocks/r-mi
+	branch = refs/heads/master
