@@ -17514,3 +17514,7 @@
 	url = https://github.com/conda-forge/r-sem-feedstock.git
 	path = feedstocks/r-sem
 	branch = refs/heads/master
+[submodule "r-mirt"]
+	url = https://github.com/conda-forge/r-mirt-feedstock.git
+	path = feedstocks/r-mirt
+	branch = refs/heads/master
