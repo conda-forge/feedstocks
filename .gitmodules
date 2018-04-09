@@ -17530,3 +17530,7 @@
 	url = https://github.com/conda-forge/r-jmv-feedstock.git
 	path = feedstocks/r-jmv
 	branch = refs/heads/master
+[submodule "bgen-reader"]
+	url = https://github.com/conda-forge/bgen-reader-feedstock.git
+	path = feedstocks/bgen-reader
+	branch = refs/heads/master
