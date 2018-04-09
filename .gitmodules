@@ -17542,3 +17542,7 @@
 	url = https://github.com/conda-forge/r-conicfit-feedstock.git
 	path = feedstocks/r-conicfit
 	branch = refs/heads/master
+[submodule "r-skmeans"]
+	url = https://github.com/conda-forge/r-skmeans-feedstock.git
+	path = feedstocks/r-skmeans
+	branch = refs/heads/master
