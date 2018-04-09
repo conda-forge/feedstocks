@@ -17526,3 +17526,7 @@
 	url = https://github.com/conda-forge/ocamlbuild-feedstock.git
 	path = feedstocks/ocamlbuild
 	branch = refs/heads/master
+[submodule "r-jmv"]
+	url = https://github.com/conda-forge/r-jmv-feedstock.git
+	path = feedstocks/r-jmv
+	branch = refs/heads/master
