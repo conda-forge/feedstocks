@@ -17546,3 +17546,7 @@
 	url = https://github.com/conda-forge/r-skmeans-feedstock.git
 	path = feedstocks/r-skmeans
 	branch = refs/heads/master
+[submodule "imagingreso"]
+	url = https://github.com/conda-forge/imagingreso-feedstock.git
+	path = feedstocks/imagingreso
+	branch = refs/heads/master
