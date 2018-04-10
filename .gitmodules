@@ -17554,3 +17554,7 @@
 	url = https://github.com/conda-forge/orange3-bioinformatics-feedstock.git
 	path = feedstocks/orange3-bioinformatics
 	branch = refs/heads/master
+[submodule "backports.tempfile"]
+	url = https://github.com/conda-forge/backports.tempfile-feedstock.git
+	path = feedstocks/backports.tempfile
+	branch = refs/heads/master
