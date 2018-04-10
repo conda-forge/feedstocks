@@ -17558,3 +17558,7 @@
 	url = https://github.com/conda-forge/backports.tempfile-feedstock.git
 	path = feedstocks/backports.tempfile
 	branch = refs/heads/master
+[submodule "public-wrappers"]
+	url = https://github.com/conda-forge/public-wrappers-feedstock.git
+	path = feedstocks/public-wrappers
+	branch = refs/heads/master
