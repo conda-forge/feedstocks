@@ -17562,3 +17562,7 @@
 	url = https://github.com/conda-forge/public-wrappers-feedstock.git
 	path = feedstocks/public-wrappers
 	branch = refs/heads/master
+[submodule "libtasn1"]
+	url = https://github.com/conda-forge/libtasn1-feedstock.git
+	path = feedstocks/libtasn1
+	branch = refs/heads/master
