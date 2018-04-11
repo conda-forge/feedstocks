@@ -17566,3 +17566,7 @@
 	url = https://github.com/conda-forge/libtasn1-feedstock.git
 	path = feedstocks/libtasn1
 	branch = refs/heads/master
+[submodule "umap-learn"]
+	url = https://github.com/conda-forge/umap-learn-feedstock.git
+	path = feedstocks/umap-learn
+	branch = refs/heads/master
