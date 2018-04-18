@@ -17578,3 +17578,7 @@
 	url = https://github.com/conda-forge/asciidoc-feedstock.git
 	path = feedstocks/asciidoc
 	branch = refs/heads/master
+[submodule "betse"]
+	url = https://github.com/conda-forge/betse-feedstock.git
+	path = feedstocks/betse
+	branch = refs/heads/master
