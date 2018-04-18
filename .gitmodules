@@ -17674,3 +17674,7 @@
 	url = https://github.com/conda-forge/logging_exceptions-feedstock.git
 	path = feedstocks/logging_exceptions
 	branch = refs/heads/master
+[submodule "lz4"]
+	url = https://github.com/conda-forge/lz4-feedstock.git
+	path = feedstocks/lz4
+	branch = refs/heads/master
