@@ -17626,3 +17626,7 @@
 	url = https://github.com/conda-forge/py-bash-completion-feedstock.git
 	path = feedstocks/py-bash-completion
 	branch = refs/heads/master
+[submodule "pyprism"]
+	url = https://github.com/conda-forge/pyprism-feedstock.git
+	path = feedstocks/pyprism
+	branch = refs/heads/master
