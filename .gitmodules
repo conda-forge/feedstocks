@@ -17722,3 +17722,7 @@
 	url = https://github.com/conda-forge/r-cobs-feedstock.git
 	path = feedstocks/r-cobs
 	branch = refs/heads/master
+[submodule "r-elasticnet"]
+	url = https://github.com/conda-forge/r-elasticnet-feedstock.git
+	path = feedstocks/r-elasticnet
+	branch = refs/heads/master
