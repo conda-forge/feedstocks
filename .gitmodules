@@ -17678,3 +17678,7 @@
 	url = https://github.com/conda-forge/lz4-feedstock.git
 	path = feedstocks/lz4
 	branch = refs/heads/master
+[submodule "molvs"]
+	url = https://github.com/conda-forge/molvs-feedstock.git
+	path = feedstocks/molvs
+	branch = refs/heads/master
