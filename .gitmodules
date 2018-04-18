@@ -17730,3 +17730,7 @@
 	url = https://github.com/conda-forge/r-flock-feedstock.git
 	path = feedstocks/r-flock
 	branch = refs/heads/master
+[submodule "r-grplasso"]
+	url = https://github.com/conda-forge/r-grplasso-feedstock.git
+	path = feedstocks/r-grplasso
+	branch = refs/heads/master
