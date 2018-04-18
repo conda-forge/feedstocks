@@ -17738,3 +17738,7 @@
 	url = https://github.com/conda-forge/r-piton-feedstock.git
 	path = feedstocks/r-piton
 	branch = refs/heads/master
+[submodule "r-plsdof"]
+	url = https://github.com/conda-forge/r-plsdof-feedstock.git
+	path = feedstocks/r-plsdof
+	branch = refs/heads/master
