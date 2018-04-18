@@ -17570,3 +17570,7 @@
 	url = https://github.com/conda-forge/umap-learn-feedstock.git
 	path = feedstocks/umap-learn
 	branch = refs/heads/master
+[submodule "aiosmtplib"]
+	url = https://github.com/conda-forge/aiosmtplib-feedstock.git
+	path = feedstocks/aiosmtplib
+	branch = refs/heads/master
