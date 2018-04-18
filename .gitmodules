@@ -17618,3 +17618,7 @@
 	url = https://github.com/conda-forge/jaws-feedstock.git
 	path = feedstocks/jaws
 	branch = refs/heads/master
+[submodule "libmed"]
+	url = https://github.com/conda-forge/libmed-feedstock.git
+	path = feedstocks/libmed
+	branch = refs/heads/master
