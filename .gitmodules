@@ -17630,3 +17630,7 @@
 	url = https://github.com/conda-forge/pyprism-feedstock.git
 	path = feedstocks/pyprism
 	branch = refs/heads/master
+[submodule "python-box"]
+	url = https://github.com/conda-forge/python-box-feedstock.git
+	path = feedstocks/python-box
+	branch = refs/heads/master
