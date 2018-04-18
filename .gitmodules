@@ -17746,3 +17746,7 @@
 	url = https://github.com/conda-forge/r-sjlabelled-feedstock.git
 	path = feedstocks/r-sjlabelled
 	branch = refs/heads/master
+[submodule "r-stabs"]
+	url = https://github.com/conda-forge/r-stabs-feedstock.git
+	path = feedstocks/r-stabs
+	branch = refs/heads/master
