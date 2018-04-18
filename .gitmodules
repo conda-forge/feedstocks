@@ -17638,3 +17638,7 @@
 	url = https://github.com/conda-forge/quaternion-feedstock.git
 	path = feedstocks/quaternion
 	branch = refs/heads/master
+[submodule "r-glmmtmb"]
+	url = https://github.com/conda-forge/r-glmmtmb-feedstock.git
+	path = feedstocks/r-glmmtmb
+	branch = refs/heads/master
