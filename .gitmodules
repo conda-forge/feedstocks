@@ -17586,3 +17586,7 @@
 	url = https://github.com/conda-forge/cattrs-feedstock.git
 	path = feedstocks/cattrs
 	branch = refs/heads/master
+[submodule "cftime"]
+	url = https://github.com/conda-forge/cftime-feedstock.git
+	path = feedstocks/cftime
+	branch = refs/heads/master
