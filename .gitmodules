@@ -17654,3 +17654,7 @@
 	url = https://github.com/conda-forge/r-text2vec-feedstock.git
 	path = feedstocks/r-text2vec
 	branch = refs/heads/master
+[submodule "raven-aiohttp"]
+	url = https://github.com/conda-forge/raven-aiohttp-feedstock.git
+	path = feedstocks/raven-aiohttp
+	branch = refs/heads/master
