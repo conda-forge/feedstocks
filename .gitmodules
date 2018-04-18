@@ -17742,3 +17742,7 @@
 	url = https://github.com/conda-forge/r-plsdof-feedstock.git
 	path = feedstocks/r-plsdof
 	branch = refs/heads/master
+[submodule "r-sjlabelled"]
+	url = https://github.com/conda-forge/r-sjlabelled-feedstock.git
+	path = feedstocks/r-sjlabelled
+	branch = refs/heads/master
