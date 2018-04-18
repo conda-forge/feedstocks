@@ -17734,3 +17734,7 @@
 	url = https://github.com/conda-forge/r-grplasso-feedstock.git
 	path = feedstocks/r-grplasso
 	branch = refs/heads/master
+[submodule "r-piton"]
+	url = https://github.com/conda-forge/r-piton-feedstock.git
+	path = feedstocks/r-piton
+	branch = refs/heads/master
