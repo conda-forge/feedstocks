@@ -17594,3 +17594,7 @@
 	url = https://github.com/conda-forge/contextvars-feedstock.git
 	path = feedstocks/contextvars
 	branch = refs/heads/master
+[submodule "crontab"]
+	url = https://github.com/conda-forge/crontab-feedstock.git
+	path = feedstocks/crontab
+	branch = refs/heads/master
