@@ -17634,3 +17634,7 @@
 	url = https://github.com/conda-forge/python-box-feedstock.git
 	path = feedstocks/python-box
 	branch = refs/heads/master
+[submodule "quaternion"]
+	url = https://github.com/conda-forge/quaternion-feedstock.git
+	path = feedstocks/quaternion
+	branch = refs/heads/master
