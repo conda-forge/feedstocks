@@ -17750,3 +17750,7 @@
 	url = https://github.com/conda-forge/r-stabs-feedstock.git
 	path = feedstocks/r-stabs
 	branch = refs/heads/master
+[submodule "r-survauc"]
+	url = https://github.com/conda-forge/r-survauc-feedstock.git
+	path = feedstocks/r-survauc
+	branch = refs/heads/master
