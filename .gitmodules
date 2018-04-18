@@ -17694,3 +17694,7 @@
 	url = https://github.com/conda-forge/r-fts-feedstock.git
 	path = feedstocks/r-fts
 	branch = refs/heads/master
+[submodule "r-directlabels"]
+	url = https://github.com/conda-forge/r-directlabels-feedstock.git
+	path = feedstocks/r-directlabels
+	branch = refs/heads/master
