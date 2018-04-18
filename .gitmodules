@@ -17698,3 +17698,7 @@
 	url = https://github.com/conda-forge/r-directlabels-feedstock.git
 	path = feedstocks/r-directlabels
 	branch = refs/heads/master
+[submodule "r-dismo"]
+	url = https://github.com/conda-forge/r-dismo-feedstock.git
+	path = feedstocks/r-dismo
+	branch = refs/heads/master
