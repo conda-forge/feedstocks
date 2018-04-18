@@ -17682,3 +17682,7 @@
 	url = https://github.com/conda-forge/molvs-feedstock.git
 	path = feedstocks/molvs
 	branch = refs/heads/master
+[submodule "pdal"]
+	url = https://github.com/conda-forge/pdal-feedstock.git
+	path = feedstocks/pdal
+	branch = refs/heads/master
