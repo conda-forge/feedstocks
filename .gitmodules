@@ -17726,3 +17726,7 @@
 	url = https://github.com/conda-forge/r-elasticnet-feedstock.git
 	path = feedstocks/r-elasticnet
 	branch = refs/heads/master
+[submodule "r-flock"]
+	url = https://github.com/conda-forge/r-flock-feedstock.git
+	path = feedstocks/r-flock
+	branch = refs/heads/master
