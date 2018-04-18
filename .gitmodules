@@ -17622,3 +17622,7 @@
 	url = https://github.com/conda-forge/libmed-feedstock.git
 	path = feedstocks/libmed
 	branch = refs/heads/master
+[submodule "py-bash-completion"]
+	url = https://github.com/conda-forge/py-bash-completion-feedstock.git
+	path = feedstocks/py-bash-completion
+	branch = refs/heads/master
