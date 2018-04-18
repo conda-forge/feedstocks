@@ -17710,3 +17710,7 @@
 	url = https://github.com/conda-forge/r-mlogit-feedstock.git
 	path = feedstocks/r-mlogit
 	branch = refs/heads/master
+[submodule "h5utils"]
+	url = https://github.com/conda-forge/h5utils-feedstock.git
+	path = feedstocks/h5utils
+	branch = refs/heads/master
