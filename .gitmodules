@@ -17662,3 +17662,7 @@
 	url = https://github.com/conda-forge/sparse-feedstock.git
 	path = feedstocks/sparse
 	branch = refs/heads/master
+[submodule "strictyaml"]
+	url = https://github.com/conda-forge/strictyaml-feedstock.git
+	path = feedstocks/strictyaml
+	branch = refs/heads/master
