@@ -17670,3 +17670,7 @@
 	url = https://github.com/conda-forge/cyclus-d3ploy-feedstock.git
 	path = feedstocks/cyclus-d3ploy
 	branch = refs/heads/master
+[submodule "logging_exceptions"]
+	url = https://github.com/conda-forge/logging_exceptions-feedstock.git
+	path = feedstocks/logging_exceptions
+	branch = refs/heads/master
