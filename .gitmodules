@@ -17706,3 +17706,7 @@
 	url = https://github.com/conda-forge/r-labdsv-feedstock.git
 	path = feedstocks/r-labdsv
 	branch = refs/heads/master
+[submodule "r-mlogit"]
+	url = https://github.com/conda-forge/r-mlogit-feedstock.git
+	path = feedstocks/r-mlogit
+	branch = refs/heads/master
