@@ -17598,3 +17598,7 @@
 	url = https://github.com/conda-forge/crontab-feedstock.git
 	path = feedstocks/crontab
 	branch = refs/heads/master
+[submodule "datarobot"]
+	url = https://github.com/conda-forge/datarobot-feedstock.git
+	path = feedstocks/datarobot
+	branch = refs/heads/master
