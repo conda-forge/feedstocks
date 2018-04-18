@@ -17702,3 +17702,7 @@
 	url = https://github.com/conda-forge/r-dismo-feedstock.git
 	path = feedstocks/r-dismo
 	branch = refs/heads/master
+[submodule "r-labdsv"]
+	url = https://github.com/conda-forge/r-labdsv-feedstock.git
+	path = feedstocks/r-labdsv
+	branch = refs/heads/master
