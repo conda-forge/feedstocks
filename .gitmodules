@@ -17658,3 +17658,7 @@
 	url = https://github.com/conda-forge/raven-aiohttp-feedstock.git
 	path = feedstocks/raven-aiohttp
 	branch = refs/heads/master
+[submodule "sparse"]
+	url = https://github.com/conda-forge/sparse-feedstock.git
+	path = feedstocks/sparse
+	branch = refs/heads/master
