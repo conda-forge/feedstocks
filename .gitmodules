@@ -17646,3 +17646,7 @@
 	url = https://github.com/conda-forge/r-here-feedstock.git
 	path = feedstocks/r-here
 	branch = refs/heads/master
+[submodule "r-pca3d"]
+	url = https://github.com/conda-forge/r-pca3d-feedstock.git
+	path = feedstocks/r-pca3d
+	branch = refs/heads/master
