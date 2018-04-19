@@ -17762,3 +17762,7 @@
 	url = https://github.com/conda-forge/r-linselect-feedstock.git
 	path = feedstocks/r-linselect
 	branch = refs/heads/master
+[submodule "r-coxphf"]
+	url = https://github.com/conda-forge/r-coxphf-feedstock.git
+	path = feedstocks/r-coxphf
+	branch = refs/heads/master
