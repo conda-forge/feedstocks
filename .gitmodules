@@ -17770,3 +17770,7 @@
 	url = https://github.com/conda-forge/r-demerelate-feedstock.git
 	path = feedstocks/r-demerelate
 	branch = refs/heads/master
+[submodule "r-mboost"]
+	url = https://github.com/conda-forge/r-mboost-feedstock.git
+	path = feedstocks/r-mboost
+	branch = refs/heads/master
