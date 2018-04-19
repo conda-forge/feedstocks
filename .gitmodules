@@ -17774,3 +17774,7 @@
 	url = https://github.com/conda-forge/r-mboost-feedstock.git
 	path = feedstocks/r-mboost
 	branch = refs/heads/master
+[submodule "r-sjmisc"]
+	url = https://github.com/conda-forge/r-sjmisc-feedstock.git
+	path = feedstocks/r-sjmisc
+	branch = refs/heads/master
