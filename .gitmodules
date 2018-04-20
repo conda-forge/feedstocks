@@ -17782,3 +17782,7 @@
 	url = https://github.com/conda-forge/heliopy-feedstock.git
 	path = feedstocks/heliopy
 	branch = refs/heads/master
+[submodule "huey"]
+	url = https://github.com/conda-forge/huey-feedstock.git
+	path = feedstocks/huey
+	branch = refs/heads/master
