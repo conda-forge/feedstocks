@@ -17786,3 +17786,7 @@
 	url = https://github.com/conda-forge/huey-feedstock.git
 	path = feedstocks/huey
 	branch = refs/heads/master
+[submodule "pysvg-py3"]
+	url = https://github.com/conda-forge/pysvg-py3-feedstock.git
+	path = feedstocks/pysvg-py3
+	branch = refs/heads/master
