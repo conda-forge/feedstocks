@@ -17778,3 +17778,7 @@
 	url = https://github.com/conda-forge/r-sjmisc-feedstock.git
 	path = feedstocks/r-sjmisc
 	branch = refs/heads/master
+[submodule "heliopy"]
+	url = https://github.com/conda-forge/heliopy-feedstock.git
+	path = feedstocks/heliopy
+	branch = refs/heads/master
