@@ -17802,3 +17802,7 @@
 	url = https://github.com/conda-forge/r-english-feedstock.git
 	path = feedstocks/r-english
 	branch = refs/heads/master
+[submodule "astcheck"]
+	url = https://github.com/conda-forge/astcheck-feedstock.git
+	path = feedstocks/astcheck
+	branch = refs/heads/master
