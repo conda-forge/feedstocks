@@ -17806,3 +17806,7 @@
 	url = https://github.com/conda-forge/astcheck-feedstock.git
 	path = feedstocks/astcheck
 	branch = refs/heads/master
+[submodule "r-genlasso"]
+	url = https://github.com/conda-forge/r-genlasso-feedstock.git
+	path = feedstocks/r-genlasso
+	branch = refs/heads/master
