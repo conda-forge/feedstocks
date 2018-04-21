@@ -17830,3 +17830,7 @@
 	url = https://github.com/conda-forge/r-tidyxl-feedstock.git
 	path = feedstocks/r-tidyxl
 	branch = refs/heads/master
+[submodule "xpdconf"]
+	url = https://github.com/conda-forge/xpdconf-feedstock.git
+	path = feedstocks/xpdconf
+	branch = refs/heads/master
