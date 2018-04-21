@@ -17822,3 +17822,7 @@
 	url = https://github.com/conda-forge/r-sjstats-feedstock.git
 	path = feedstocks/r-sjstats
 	branch = refs/heads/master
+[submodule "r-textshape"]
+	url = https://github.com/conda-forge/r-textshape-feedstock.git
+	path = feedstocks/r-textshape
+	branch = refs/heads/master
