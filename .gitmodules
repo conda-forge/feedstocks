@@ -17826,3 +17826,7 @@
 	url = https://github.com/conda-forge/r-textshape-feedstock.git
 	path = feedstocks/r-textshape
 	branch = refs/heads/master
+[submodule "r-tidyxl"]
+	url = https://github.com/conda-forge/r-tidyxl-feedstock.git
+	path = feedstocks/r-tidyxl
+	branch = refs/heads/master
