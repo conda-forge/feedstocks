@@ -17834,3 +17834,7 @@
 	url = https://github.com/conda-forge/xpdconf-feedstock.git
 	path = feedstocks/xpdconf
 	branch = refs/heads/master
+[submodule "python-chromedriver-binary"]
+	url = https://github.com/conda-forge/python-chromedriver-binary-feedstock.git
+	path = feedstocks/python-chromedriver-binary
+	branch = refs/heads/master
