@@ -17846,3 +17846,7 @@
 	url = https://github.com/conda-forge/rowan-feedstock.git
 	path = feedstocks/rowan
 	branch = refs/heads/master
+[submodule "visidata"]
+	url = https://github.com/conda-forge/visidata-feedstock.git
+	path = feedstocks/visidata
+	branch = refs/heads/master
