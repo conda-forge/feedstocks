@@ -17850,3 +17850,7 @@
 	url = https://github.com/conda-forge/visidata-feedstock.git
 	path = feedstocks/visidata
 	branch = refs/heads/master
+[submodule "smesh"]
+	url = https://github.com/conda-forge/smesh-feedstock.git
+	path = feedstocks/smesh
+	branch = refs/heads/master
