@@ -17854,3 +17854,7 @@
 	url = https://github.com/conda-forge/smesh-feedstock.git
 	path = feedstocks/smesh
 	branch = refs/heads/master
+[submodule "cfflib"]
+	url = https://github.com/conda-forge/cfflib-feedstock.git
+	path = feedstocks/cfflib
+	branch = refs/heads/master
