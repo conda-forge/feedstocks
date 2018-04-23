@@ -17866,3 +17866,7 @@
 	url = https://github.com/conda-forge/apistar-feedstock.git
 	path = feedstocks/apistar
 	branch = refs/heads/master
+[submodule "multineat"]
+	url = https://github.com/conda-forge/multineat-feedstock.git
+	path = feedstocks/multineat
+	branch = refs/heads/master
