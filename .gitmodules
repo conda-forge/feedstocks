@@ -17870,3 +17870,7 @@
 	url = https://github.com/conda-forge/multineat-feedstock.git
 	path = feedstocks/multineat
 	branch = refs/heads/master
+[submodule "yacron"]
+	url = https://github.com/conda-forge/yacron-feedstock.git
+	path = feedstocks/yacron
+	branch = refs/heads/master
