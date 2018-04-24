@@ -17878,3 +17878,7 @@
 	url = https://github.com/conda-forge/harminv-feedstock.git
 	path = feedstocks/harminv
 	branch = refs/heads/master
+[submodule "libctl"]
+	url = https://github.com/conda-forge/libctl-feedstock.git
+	path = feedstocks/libctl
+	branch = refs/heads/master
