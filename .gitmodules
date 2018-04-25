@@ -17894,3 +17894,7 @@
 	url = https://github.com/conda-forge/source-highlight-feedstock.git
 	path = feedstocks/source-highlight
 	branch = refs/heads/master
+[submodule "mpb"]
+	url = https://github.com/conda-forge/mpb-feedstock.git
+	path = feedstocks/mpb
+	branch = refs/heads/master
