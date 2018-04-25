@@ -17890,3 +17890,7 @@
 	url = https://github.com/conda-forge/orch-feedstock.git
 	path = feedstocks/orch
 	branch = refs/heads/master
+[submodule "source-highlight"]
+	url = https://github.com/conda-forge/source-highlight-feedstock.git
+	path = feedstocks/source-highlight
+	branch = refs/heads/master
