@@ -17898,3 +17898,7 @@
 	url = https://github.com/conda-forge/mpb-feedstock.git
 	path = feedstocks/mpb
 	branch = refs/heads/master
+[submodule "container-diff"]
+	url = https://github.com/conda-forge/container-diff-feedstock.git
+	path = feedstocks/container-diff
+	branch = refs/heads/master
