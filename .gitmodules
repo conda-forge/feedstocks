@@ -17902,3 +17902,7 @@
 	url = https://github.com/conda-forge/container-diff-feedstock.git
 	path = feedstocks/container-diff
 	branch = refs/heads/master
+[submodule "r-castor"]
+	url = https://github.com/conda-forge/r-castor-feedstock.git
+	path = feedstocks/r-castor
+	branch = refs/heads/master
