@@ -17906,3 +17906,7 @@
 	url = https://github.com/conda-forge/r-castor-feedstock.git
 	path = feedstocks/r-castor
 	branch = refs/heads/master
+[submodule "r-kedd"]
+	url = https://github.com/conda-forge/r-kedd-feedstock.git
+	path = feedstocks/r-kedd
+	branch = refs/heads/master
