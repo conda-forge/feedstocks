@@ -17910,3 +17910,7 @@
 	url = https://github.com/conda-forge/r-kedd-feedstock.git
 	path = feedstocks/r-kedd
 	branch = refs/heads/master
+[submodule "r-lexicon"]
+	url = https://github.com/conda-forge/r-lexicon-feedstock.git
+	path = feedstocks/r-lexicon
+	branch = refs/heads/master
