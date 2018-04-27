@@ -17934,3 +17934,7 @@
 	url = https://github.com/conda-forge/trio_asyncio-feedstock.git
 	path = feedstocks/trio_asyncio
 	branch = refs/heads/master
+[submodule "nspr"]
+	url = https://github.com/conda-forge/nspr-feedstock.git
+	path = feedstocks/nspr
+	branch = refs/heads/master
