@@ -17926,3 +17926,7 @@
 	url = https://github.com/conda-forge/robotstatuschecker-feedstock.git
 	path = feedstocks/robotstatuschecker
 	branch = refs/heads/master
+[submodule "robotframework-seleniumlibrary"]
+	url = https://github.com/conda-forge/robotframework-seleniumlibrary-feedstock.git
+	path = feedstocks/robotframework-seleniumlibrary
+	branch = refs/heads/master
