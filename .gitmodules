@@ -17930,3 +17930,7 @@
 	url = https://github.com/conda-forge/robotframework-seleniumlibrary-feedstock.git
 	path = feedstocks/robotframework-seleniumlibrary
 	branch = refs/heads/master
+[submodule "trio_asyncio"]
+	url = https://github.com/conda-forge/trio_asyncio-feedstock.git
+	path = feedstocks/trio_asyncio
+	branch = refs/heads/master
