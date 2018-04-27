@@ -17922,3 +17922,7 @@
 	url = https://github.com/conda-forge/vega3-feedstock.git
 	path = feedstocks/vega3
 	branch = refs/heads/master
+[submodule "robotstatuschecker"]
+	url = https://github.com/conda-forge/robotstatuschecker-feedstock.git
+	path = feedstocks/robotstatuschecker
+	branch = refs/heads/master
