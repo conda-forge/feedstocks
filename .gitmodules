@@ -17950,3 +17950,7 @@
 	url = https://github.com/conda-forge/r-plot3drgl-feedstock.git
 	path = feedstocks/r-plot3drgl
 	branch = refs/heads/master
+[submodule "flake8-self"]
+	url = https://github.com/conda-forge/flake8-self-feedstock.git
+	path = feedstocks/flake8-self
+	branch = refs/heads/master
