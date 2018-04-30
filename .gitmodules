@@ -17962,3 +17962,7 @@
 	url = https://github.com/conda-forge/webruntime-feedstock.git
 	path = feedstocks/webruntime
 	branch = refs/heads/master
+[submodule "asciimatics"]
+	url = https://github.com/conda-forge/asciimatics-feedstock.git
+	path = feedstocks/asciimatics
+	branch = refs/heads/master
