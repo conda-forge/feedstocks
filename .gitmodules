@@ -17942,3 +17942,7 @@
 	url = https://github.com/conda-forge/python-bidi-feedstock.git
 	path = feedstocks/python-bidi
 	branch = refs/heads/master
+[submodule "eulxml"]
+	url = https://github.com/conda-forge/eulxml-feedstock.git
+	path = feedstocks/eulxml
+	branch = refs/heads/master
