@@ -17958,3 +17958,7 @@
 	url = https://github.com/conda-forge/pytrackmate-feedstock.git
 	path = feedstocks/pytrackmate
 	branch = refs/heads/master
+[submodule "webruntime"]
+	url = https://github.com/conda-forge/webruntime-feedstock.git
+	path = feedstocks/webruntime
+	branch = refs/heads/master
