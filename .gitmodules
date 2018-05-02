@@ -18026,3 +18026,7 @@
 	url = https://github.com/conda-forge/r-sessioninfo-feedstock.git
 	path = feedstocks/r-sessioninfo
 	branch = refs/heads/master
+[submodule "dash-core-components"]
+	url = https://github.com/conda-forge/dash-core-components-feedstock.git
+	path = feedstocks/dash-core-components
+	branch = refs/heads/master
