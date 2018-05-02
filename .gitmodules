@@ -18058,3 +18058,7 @@
 	url = https://github.com/conda-forge/radio-beam-feedstock.git
 	path = feedstocks/radio-beam
 	branch = refs/heads/master
+[submodule "black"]
+	url = https://github.com/conda-forge/black-feedstock.git
+	path = feedstocks/black
+	branch = refs/heads/master
