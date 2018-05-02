@@ -17970,3 +17970,7 @@
 	url = https://github.com/conda-forge/nss-feedstock.git
 	path = feedstocks/nss
 	branch = refs/heads/master
+[submodule "pyiron"]
+	url = https://github.com/conda-forge/pyiron-feedstock.git
+	path = feedstocks/pyiron
+	branch = refs/heads/master
