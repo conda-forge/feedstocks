@@ -17994,3 +17994,7 @@
 	url = https://github.com/conda-forge/pyiron_lammps-feedstock.git
 	path = feedstocks/pyiron_lammps
 	branch = refs/heads/master
+[submodule "pyiron_vasp"]
+	url = https://github.com/conda-forge/pyiron_vasp-feedstock.git
+	path = feedstocks/pyiron_vasp
+	branch = refs/heads/master
