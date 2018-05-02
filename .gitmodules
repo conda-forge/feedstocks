@@ -18062,3 +18062,7 @@
 	url = https://github.com/conda-forge/black-feedstock.git
 	path = feedstocks/black
 	branch = refs/heads/master
+[submodule "pigar"]
+	url = https://github.com/conda-forge/pigar-feedstock.git
+	path = feedstocks/pigar
+	branch = refs/heads/master
