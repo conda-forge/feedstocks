@@ -17986,3 +17986,7 @@
 	url = https://github.com/conda-forge/pyiron_dft-feedstock.git
 	path = feedstocks/pyiron_dft
 	branch = refs/heads/master
+[submodule "pyiron_example_job"]
+	url = https://github.com/conda-forge/pyiron_example_job-feedstock.git
+	path = feedstocks/pyiron_example_job
+	branch = refs/heads/master
