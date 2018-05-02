@@ -18050,3 +18050,7 @@
 	url = https://github.com/conda-forge/snoopy-log-collator-feedstock.git
 	path = feedstocks/snoopy-log-collator
 	branch = refs/heads/master
+[submodule "r-textclean"]
+	url = https://github.com/conda-forge/r-textclean-feedstock.git
+	path = feedstocks/r-textclean
+	branch = refs/heads/master
