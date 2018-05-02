@@ -18066,3 +18066,7 @@
 	url = https://github.com/conda-forge/pigar-feedstock.git
 	path = feedstocks/pigar
 	branch = refs/heads/master
+[submodule "aws-sdk-cpp"]
+	url = https://github.com/conda-forge/aws-sdk-cpp-feedstock.git
+	path = feedstocks/aws-sdk-cpp
+	branch = refs/heads/master
