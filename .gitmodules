@@ -18022,3 +18022,7 @@
 	url = https://github.com/conda-forge/r-rstanarm-feedstock.git
 	path = feedstocks/r-rstanarm
 	branch = refs/heads/master
+[submodule "r-sessioninfo"]
+	url = https://github.com/conda-forge/r-sessioninfo-feedstock.git
+	path = feedstocks/r-sessioninfo
+	branch = refs/heads/master
