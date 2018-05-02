@@ -18030,3 +18030,7 @@
 	url = https://github.com/conda-forge/dash-core-components-feedstock.git
 	path = feedstocks/dash-core-components
 	branch = refs/heads/master
+[submodule "dash-html-components"]
+	url = https://github.com/conda-forge/dash-html-components-feedstock.git
+	path = feedstocks/dash-html-components
+	branch = refs/heads/master
