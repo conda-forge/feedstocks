@@ -18038,3 +18038,7 @@
 	url = https://github.com/conda-forge/dash-renderer-feedstock.git
 	path = feedstocks/dash-renderer
 	branch = refs/heads/master
+[submodule "dash"]
+	url = https://github.com/conda-forge/dash-feedstock.git
+	path = feedstocks/dash
+	branch = refs/heads/master
