@@ -18018,3 +18018,7 @@
 	url = https://github.com/conda-forge/r-rdrop2-feedstock.git
 	path = feedstocks/r-rdrop2
 	branch = refs/heads/master
+[submodule "r-rstanarm"]
+	url = https://github.com/conda-forge/r-rstanarm-feedstock.git
+	path = feedstocks/r-rstanarm
+	branch = refs/heads/master
