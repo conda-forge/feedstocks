@@ -17978,3 +17978,7 @@
 	url = https://github.com/conda-forge/pyiron_atomistics-feedstock.git
 	path = feedstocks/pyiron_atomistics
 	branch = refs/heads/master
+[submodule "pyiron_base"]
+	url = https://github.com/conda-forge/pyiron_base-feedstock.git
+	path = feedstocks/pyiron_base
+	branch = refs/heads/master
