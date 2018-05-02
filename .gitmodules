@@ -17990,3 +17990,7 @@
 	url = https://github.com/conda-forge/pyiron_example_job-feedstock.git
 	path = feedstocks/pyiron_example_job
 	branch = refs/heads/master
+[submodule "pyiron_lammps"]
+	url = https://github.com/conda-forge/pyiron_lammps-feedstock.git
+	path = feedstocks/pyiron_lammps
+	branch = refs/heads/master
