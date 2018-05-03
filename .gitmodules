@@ -18078,3 +18078,7 @@
 	url = https://github.com/conda-forge/r-sentimentr-feedstock.git
 	path = feedstocks/r-sentimentr
 	branch = refs/heads/master
+[submodule "immutables"]
+	url = https://github.com/conda-forge/immutables-feedstock.git
+	path = feedstocks/immutables
+	branch = refs/heads/master
