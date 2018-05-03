@@ -18086,3 +18086,7 @@
 	url = https://github.com/conda-forge/glue-geospatial-feedstock.git
 	path = feedstocks/glue-geospatial
 	branch = refs/heads/master
+[submodule "dataclasses"]
+	url = https://github.com/conda-forge/dataclasses-feedstock.git
+	path = feedstocks/dataclasses
+	branch = refs/heads/master
