@@ -18070,3 +18070,7 @@
 	url = https://github.com/conda-forge/aws-sdk-cpp-feedstock.git
 	path = feedstocks/aws-sdk-cpp
 	branch = refs/heads/master
+[submodule "node2vec"]
+	url = https://github.com/conda-forge/node2vec-feedstock.git
+	path = feedstocks/node2vec
+	branch = refs/heads/master
