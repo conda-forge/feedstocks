@@ -18094,3 +18094,7 @@
 	url = https://github.com/conda-forge/importnb-feedstock.git
 	path = feedstocks/importnb
 	branch = refs/heads/master
+[submodule "waitress"]
+	url = https://github.com/conda-forge/waitress-feedstock.git
+	path = feedstocks/waitress
+	branch = refs/heads/master
