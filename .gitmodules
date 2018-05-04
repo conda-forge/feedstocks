@@ -18102,3 +18102,7 @@
 	url = https://github.com/conda-forge/nidaqmx-python-feedstock.git
 	path = feedstocks/nidaqmx-python
 	branch = refs/heads/master
+[submodule "earthengine-api"]
+	url = https://github.com/conda-forge/earthengine-api-feedstock.git
+	path = feedstocks/earthengine-api
+	branch = refs/heads/master
