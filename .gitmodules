@@ -18110,3 +18110,7 @@
 	url = https://github.com/conda-forge/robotframework-sshlibrary-feedstock.git
 	path = feedstocks/robotframework-sshlibrary
 	branch = refs/heads/master
+[submodule "python-louvain"]
+	url = https://github.com/conda-forge/python-louvain-feedstock.git
+	path = feedstocks/python-louvain
+	branch = refs/heads/master
