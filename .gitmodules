@@ -18114,3 +18114,7 @@
 	url = https://github.com/conda-forge/python-louvain-feedstock.git
 	path = feedstocks/python-louvain
 	branch = refs/heads/master
+[submodule "catboost"]
+	url = https://github.com/conda-forge/catboost-feedstock.git
+	path = feedstocks/catboost
+	branch = refs/heads/master
