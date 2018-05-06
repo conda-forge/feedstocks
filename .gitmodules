@@ -18118,3 +18118,7 @@
 	url = https://github.com/conda-forge/catboost-feedstock.git
 	path = feedstocks/catboost
 	branch = refs/heads/master
+[submodule "r-validate"]
+	url = https://github.com/conda-forge/r-validate-feedstock.git
+	path = feedstocks/r-validate
+	branch = refs/heads/master
