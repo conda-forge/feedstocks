@@ -18130,3 +18130,7 @@
 	url = https://github.com/conda-forge/pythonqwt-feedstock.git
 	path = feedstocks/pythonqwt
 	branch = refs/heads/master
+[submodule "rake_nltk"]
+	url = https://github.com/conda-forge/rake_nltk-feedstock.git
+	path = feedstocks/rake_nltk
+	branch = refs/heads/master
