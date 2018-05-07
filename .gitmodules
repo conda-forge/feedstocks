@@ -18138,3 +18138,7 @@
 	url = https://github.com/conda-forge/guidata-feedstock.git
 	path = feedstocks/guidata
 	branch = refs/heads/master
+[submodule "r-mbess"]
+	url = https://github.com/conda-forge/r-mbess-feedstock.git
+	path = feedstocks/r-mbess
+	branch = refs/heads/master
