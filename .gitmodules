@@ -18182,3 +18182,7 @@
 	url = https://github.com/conda-forge/multiset-feedstock.git
 	path = feedstocks/multiset
 	branch = refs/heads/master
+[submodule "os-service-types"]
+	url = https://github.com/conda-forge/os-service-types-feedstock.git
+	path = feedstocks/os-service-types
+	branch = refs/heads/master
