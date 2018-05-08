@@ -18162,3 +18162,7 @@
 	url = https://github.com/conda-forge/ntbtls-feedstock.git
 	path = feedstocks/ntbtls
 	branch = refs/heads/master
+[submodule "python-pdal"]
+	url = https://github.com/conda-forge/python-pdal-feedstock.git
+	path = feedstocks/python-pdal
+	branch = refs/heads/master
