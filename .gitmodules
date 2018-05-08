@@ -18146,3 +18146,7 @@
 	url = https://github.com/conda-forge/gnupg-feedstock.git
 	path = feedstocks/gnupg
 	branch = refs/heads/master
+[submodule "libassuan"]
+	url = https://github.com/conda-forge/libassuan-feedstock.git
+	path = feedstocks/libassuan
+	branch = refs/heads/master
