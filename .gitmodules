@@ -18166,3 +18166,7 @@
 	url = https://github.com/conda-forge/python-pdal-feedstock.git
 	path = feedstocks/python-pdal
 	branch = refs/heads/master
+[submodule "rfpimp"]
+	url = https://github.com/conda-forge/rfpimp-feedstock.git
+	path = feedstocks/rfpimp
+	branch = refs/heads/master
