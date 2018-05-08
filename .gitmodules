@@ -18158,3 +18158,7 @@
 	url = https://github.com/conda-forge/npth-feedstock.git
 	path = feedstocks/npth
 	branch = refs/heads/master
+[submodule "ntbtls"]
+	url = https://github.com/conda-forge/ntbtls-feedstock.git
+	path = feedstocks/ntbtls
+	branch = refs/heads/master
