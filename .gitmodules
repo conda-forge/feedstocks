@@ -18178,3 +18178,7 @@
 	url = https://github.com/conda-forge/gperftools-feedstock.git
 	path = feedstocks/gperftools
 	branch = refs/heads/master
+[submodule "multiset"]
+	url = https://github.com/conda-forge/multiset-feedstock.git
+	path = feedstocks/multiset
+	branch = refs/heads/master
