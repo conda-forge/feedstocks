@@ -18154,3 +18154,7 @@
 	url = https://github.com/conda-forge/libksba-feedstock.git
 	path = feedstocks/libksba
 	branch = refs/heads/master
+[submodule "npth"]
+	url = https://github.com/conda-forge/npth-feedstock.git
+	path = feedstocks/npth
+	branch = refs/heads/master
