@@ -18174,3 +18174,7 @@
 	url = https://github.com/conda-forge/py_stringmatching-feedstock.git
 	path = feedstocks/py_stringmatching
 	branch = refs/heads/master
+[submodule "gperftools"]
+	url = https://github.com/conda-forge/gperftools-feedstock.git
+	path = feedstocks/gperftools
+	branch = refs/heads/master
