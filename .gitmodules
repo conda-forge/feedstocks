@@ -18142,3 +18142,7 @@
 	url = https://github.com/conda-forge/r-mbess-feedstock.git
 	path = feedstocks/r-mbess
 	branch = refs/heads/master
+[submodule "gnupg"]
+	url = https://github.com/conda-forge/gnupg-feedstock.git
+	path = feedstocks/gnupg
+	branch = refs/heads/master
