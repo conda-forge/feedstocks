@@ -18198,3 +18198,7 @@
 	url = https://github.com/conda-forge/nano-feedstock.git
 	path = feedstocks/nano
 	branch = refs/heads/master
+[submodule "gnupg-py"]
+	url = https://github.com/conda-forge/gnupg-py-feedstock.git
+	path = feedstocks/gnupg-py
+	branch = refs/heads/master
