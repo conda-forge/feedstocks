@@ -18194,3 +18194,7 @@
 	url = https://github.com/conda-forge/r-userfriendlyscience-feedstock.git
 	path = feedstocks/r-userfriendlyscience
 	branch = refs/heads/master
+[submodule "nano"]
+	url = https://github.com/conda-forge/nano-feedstock.git
+	path = feedstocks/nano
+	branch = refs/heads/master
