@@ -18186,3 +18186,7 @@
 	url = https://github.com/conda-forge/os-service-types-feedstock.git
 	path = feedstocks/os-service-types
 	branch = refs/heads/master
+[submodule "pgrouting"]
+	url = https://github.com/conda-forge/pgrouting-feedstock.git
+	path = feedstocks/pgrouting
+	branch = refs/heads/master
