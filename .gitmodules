@@ -18202,3 +18202,7 @@
 	url = https://github.com/conda-forge/gnupg-py-feedstock.git
 	path = feedstocks/gnupg-py
 	branch = refs/heads/master
+[submodule "r-brobdingnag"]
+	url = https://github.com/conda-forge/r-brobdingnag-feedstock.git
+	path = feedstocks/r-brobdingnag
+	branch = refs/heads/master
