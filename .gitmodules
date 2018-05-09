@@ -18210,3 +18210,7 @@
 	url = https://github.com/conda-forge/locust-feedstock.git
 	path = feedstocks/locust
 	branch = refs/heads/master
+[submodule "pyresttest"]
+	url = https://github.com/conda-forge/pyresttest-feedstock.git
+	path = feedstocks/pyresttest
+	branch = refs/heads/master
