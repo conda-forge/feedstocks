@@ -18226,3 +18226,7 @@
 	url = https://github.com/conda-forge/dsdp-feedstock.git
 	path = feedstocks/dsdp
 	branch = refs/heads/master
+[submodule "snaptime"]
+	url = https://github.com/conda-forge/snaptime-feedstock.git
+	path = feedstocks/snaptime
+	branch = refs/heads/master
