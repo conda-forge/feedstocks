@@ -18230,3 +18230,7 @@
 	url = https://github.com/conda-forge/snaptime-feedstock.git
 	path = feedstocks/snaptime
 	branch = refs/heads/master
+[submodule "overrides"]
+	url = https://github.com/conda-forge/overrides-feedstock.git
+	path = feedstocks/overrides
+	branch = refs/heads/master
