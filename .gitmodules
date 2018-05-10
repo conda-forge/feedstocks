@@ -18238,3 +18238,7 @@
 	url = https://github.com/conda-forge/cxxtest-feedstock.git
 	path = feedstocks/cxxtest
 	branch = refs/heads/master
+[submodule "pcl"]
+	url = https://github.com/conda-forge/pcl-feedstock.git
+	path = feedstocks/pcl
+	branch = refs/heads/master
