@@ -18270,3 +18270,7 @@
 	url = https://github.com/conda-forge/go-archiver-feedstock.git
 	path = feedstocks/go-archiver
 	branch = refs/heads/master
+[submodule "gpflow"]
+	url = https://github.com/conda-forge/gpflow-feedstock.git
+	path = feedstocks/gpflow
+	branch = refs/heads/master
