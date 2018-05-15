@@ -18334,3 +18334,7 @@
 	url = https://github.com/conda-forge/tinytimer-feedstock.git
 	path = feedstocks/tinytimer
 	branch = refs/heads/master
+[submodule "typechecks"]
+	url = https://github.com/conda-forge/typechecks-feedstock.git
+	path = feedstocks/typechecks
+	branch = refs/heads/master
