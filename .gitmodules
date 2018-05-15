@@ -18262,3 +18262,7 @@
 	url = https://github.com/conda-forge/gast-feedstock.git
 	path = feedstocks/gast
 	branch = refs/heads/master
+[submodule "geckodriver"]
+	url = https://github.com/conda-forge/geckodriver-feedstock.git
+	path = feedstocks/geckodriver
+	branch = refs/heads/master
