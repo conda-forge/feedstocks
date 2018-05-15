@@ -18346,3 +18346,7 @@
 	url = https://github.com/conda-forge/yamlloader-feedstock.git
 	path = feedstocks/yamlloader
 	branch = refs/heads/master
+[submodule "sexpdata"]
+	url = https://github.com/conda-forge/sexpdata-feedstock.git
+	path = feedstocks/sexpdata
+	branch = refs/heads/master
