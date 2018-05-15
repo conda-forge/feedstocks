@@ -18322,3 +18322,7 @@
 	url = https://github.com/conda-forge/requirements-parser-feedstock.git
 	path = feedstocks/requirements-parser
 	branch = refs/heads/master
+[submodule "tensorly"]
+	url = https://github.com/conda-forge/tensorly-feedstock.git
+	path = feedstocks/tensorly
+	branch = refs/heads/master
