@@ -18330,3 +18330,7 @@
 	url = https://github.com/conda-forge/sphinx-releases-feedstock.git
 	path = feedstocks/sphinx-releases
 	branch = refs/heads/master
+[submodule "tinytimer"]
+	url = https://github.com/conda-forge/tinytimer-feedstock.git
+	path = feedstocks/tinytimer
+	branch = refs/heads/master
