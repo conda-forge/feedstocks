@@ -18266,3 +18266,7 @@
 	url = https://github.com/conda-forge/geckodriver-feedstock.git
 	path = feedstocks/geckodriver
 	branch = refs/heads/master
+[submodule "go-archiver"]
+	url = https://github.com/conda-forge/go-archiver-feedstock.git
+	path = feedstocks/go-archiver
+	branch = refs/heads/master
