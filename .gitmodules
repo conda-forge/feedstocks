@@ -18250,3 +18250,7 @@
 	url = https://github.com/conda-forge/cc-plugin-ugrid-feedstock.git
 	path = feedstocks/cc-plugin-ugrid
 	branch = refs/heads/master
+[submodule "dask-jobqueue"]
+	url = https://github.com/conda-forge/dask-jobqueue-feedstock.git
+	path = feedstocks/dask-jobqueue
+	branch = refs/heads/master
