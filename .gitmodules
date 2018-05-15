@@ -18318,3 +18318,7 @@
 	url = https://github.com/conda-forge/r-tidyposterior-feedstock.git
 	path = feedstocks/r-tidyposterior
 	branch = refs/heads/master
+[submodule "requirements-parser"]
+	url = https://github.com/conda-forge/requirements-parser-feedstock.git
+	path = feedstocks/requirements-parser
+	branch = refs/heads/master
