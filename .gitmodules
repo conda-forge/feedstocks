@@ -18342,3 +18342,7 @@
 	url = https://github.com/conda-forge/unittest2-feedstock.git
 	path = feedstocks/unittest2
 	branch = refs/heads/master
+[submodule "yamlloader"]
+	url = https://github.com/conda-forge/yamlloader-feedstock.git
+	path = feedstocks/yamlloader
+	branch = refs/heads/master
