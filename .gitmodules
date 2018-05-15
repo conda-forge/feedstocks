@@ -18302,3 +18302,7 @@
 	url = https://github.com/conda-forge/pytest-console-scripts-feedstock.git
 	path = feedstocks/pytest-console-scripts
 	branch = refs/heads/master
+[submodule "pyulog"]
+	url = https://github.com/conda-forge/pyulog-feedstock.git
+	path = feedstocks/pyulog
+	branch = refs/heads/master
