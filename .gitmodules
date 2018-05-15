@@ -18286,3 +18286,7 @@
 	url = https://github.com/conda-forge/ldc-feedstock.git
 	path = feedstocks/ldc
 	branch = refs/heads/master
+[submodule "nose2"]
+	url = https://github.com/conda-forge/nose2-feedstock.git
+	path = feedstocks/nose2
+	branch = refs/heads/master
