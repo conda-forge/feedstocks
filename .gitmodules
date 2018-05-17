@@ -18362,3 +18362,7 @@
 	url = https://github.com/conda-forge/ixmp-feedstock.git
 	path = feedstocks/ixmp
 	branch = refs/heads/master
+[submodule "bamnostic"]
+	url = https://github.com/conda-forge/bamnostic-feedstock.git
+	path = feedstocks/bamnostic
+	branch = refs/heads/master
