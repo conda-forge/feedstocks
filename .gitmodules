@@ -18370,3 +18370,7 @@
 	url = https://github.com/conda-forge/grove-feedstock.git
 	path = feedstocks/grove
 	branch = refs/heads/master
+[submodule "secretstorage"]
+	url = https://github.com/conda-forge/secretstorage-feedstock.git
+	path = feedstocks/secretstorage
+	branch = refs/heads/master
