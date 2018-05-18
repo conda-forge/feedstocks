@@ -18410,3 +18410,7 @@
 	url = https://github.com/conda-forge/w3g-feedstock.git
 	path = feedstocks/w3g
 	branch = refs/heads/master
+[submodule "pyicu"]
+	url = https://github.com/conda-forge/pyicu-feedstock.git
+	path = feedstocks/pyicu
+	branch = refs/heads/master
