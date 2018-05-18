@@ -18398,3 +18398,7 @@
 	url = https://github.com/conda-forge/memoized-property-feedstock.git
 	path = feedstocks/memoized-property
 	branch = refs/heads/master
+[submodule "pypy3.5"]
+	url = https://github.com/conda-forge/pypy3.5-feedstock.git
+	path = feedstocks/pypy3.5
+	branch = refs/heads/master
