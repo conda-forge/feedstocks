@@ -18386,3 +18386,7 @@
 	url = https://github.com/conda-forge/megaradrp-feedstock.git
 	path = feedstocks/megaradrp
 	branch = refs/heads/master
+[submodule "pyomo.solvers"]
+	url = https://github.com/conda-forge/pyomo.solvers-feedstock.git
+	path = feedstocks/pyomo.solvers
+	branch = refs/heads/master
