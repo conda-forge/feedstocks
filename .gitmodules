@@ -18414,3 +18414,7 @@
 	url = https://github.com/conda-forge/pyicu-feedstock.git
 	path = feedstocks/pyicu
 	branch = refs/heads/master
+[submodule "python_http_client"]
+	url = https://github.com/conda-forge/python_http_client-feedstock.git
+	path = feedstocks/python_http_client
+	branch = refs/heads/master
