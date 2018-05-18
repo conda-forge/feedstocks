@@ -18402,3 +18402,7 @@
 	url = https://github.com/conda-forge/pypy3.5-feedstock.git
 	path = feedstocks/pypy3.5
 	branch = refs/heads/master
+[submodule "trollimage"]
+	url = https://github.com/conda-forge/trollimage-feedstock.git
+	path = feedstocks/trollimage
+	branch = refs/heads/master
