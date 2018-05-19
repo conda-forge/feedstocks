@@ -18418,3 +18418,7 @@
 	url = https://github.com/conda-forge/python_http_client-feedstock.git
 	path = feedstocks/python_http_client
 	branch = refs/heads/master
+[submodule "luajit"]
+	url = https://github.com/conda-forge/luajit-feedstock.git
+	path = feedstocks/luajit
+	branch = refs/heads/master
