@@ -18422,3 +18422,7 @@
 	url = https://github.com/conda-forge/luajit-feedstock.git
 	path = feedstocks/luajit
 	branch = refs/heads/master
+[submodule "r-paco"]
+	url = https://github.com/conda-forge/r-paco-feedstock.git
+	path = feedstocks/r-paco
+	branch = refs/heads/master
