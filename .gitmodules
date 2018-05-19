@@ -18438,3 +18438,7 @@
 	url = https://github.com/conda-forge/bisonpp-feedstock.git
 	path = feedstocks/bisonpp
 	branch = refs/heads/master
+[submodule "cppheaderparser"]
+	url = https://github.com/conda-forge/cppheaderparser-feedstock.git
+	path = feedstocks/cppheaderparser
+	branch = refs/heads/master
