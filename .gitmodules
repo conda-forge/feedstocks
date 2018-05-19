@@ -18426,3 +18426,7 @@
 	url = https://github.com/conda-forge/r-paco-feedstock.git
 	path = feedstocks/r-paco
 	branch = refs/heads/master
+[submodule "sendgrid"]
+	url = https://github.com/conda-forge/sendgrid-feedstock.git
+	path = feedstocks/sendgrid
+	branch = refs/heads/master
