@@ -18430,3 +18430,7 @@
 	url = https://github.com/conda-forge/sendgrid-feedstock.git
 	path = feedstocks/sendgrid
 	branch = refs/heads/master
+[submodule "datacache"]
+	url = https://github.com/conda-forge/datacache-feedstock.git
+	path = feedstocks/datacache
+	branch = refs/heads/master
