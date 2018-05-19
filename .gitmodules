@@ -18442,3 +18442,7 @@
 	url = https://github.com/conda-forge/cppheaderparser-feedstock.git
 	path = feedstocks/cppheaderparser
 	branch = refs/heads/master
+[submodule "r-mice"]
+	url = https://github.com/conda-forge/r-mice-feedstock.git
+	path = feedstocks/r-mice
+	branch = refs/heads/master
