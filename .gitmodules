@@ -18434,3 +18434,7 @@
 	url = https://github.com/conda-forge/datacache-feedstock.git
 	path = feedstocks/datacache
 	branch = refs/heads/master
+[submodule "bisonpp"]
+	url = https://github.com/conda-forge/bisonpp-feedstock.git
+	path = feedstocks/bisonpp
+	branch = refs/heads/master
