@@ -18474,3 +18474,7 @@
 	url = https://github.com/conda-forge/r-picante-feedstock.git
 	path = feedstocks/r-picante
 	branch = refs/heads/master
+[submodule "python-geotiepoints"]
+	url = https://github.com/conda-forge/python-geotiepoints-feedstock.git
+	path = feedstocks/python-geotiepoints
+	branch = refs/heads/master
