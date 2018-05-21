@@ -18458,3 +18458,7 @@
 	url = https://github.com/conda-forge/message-ix-feedstock.git
 	path = feedstocks/message-ix
 	branch = refs/heads/master
+[submodule "pycoast"]
+	url = https://github.com/conda-forge/pycoast-feedstock.git
+	path = feedstocks/pycoast
+	branch = refs/heads/master
