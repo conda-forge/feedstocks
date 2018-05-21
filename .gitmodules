@@ -18454,3 +18454,7 @@
 	url = https://github.com/conda-forge/cgroupspy-feedstock.git
 	path = feedstocks/cgroupspy
 	branch = refs/heads/master
+[submodule "message-ix"]
+	url = https://github.com/conda-forge/message-ix-feedstock.git
+	path = feedstocks/message-ix
+	branch = refs/heads/master
