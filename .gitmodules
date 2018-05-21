@@ -18450,3 +18450,7 @@
 	url = https://github.com/conda-forge/piqs-feedstock.git
 	path = feedstocks/piqs
 	branch = refs/heads/master
+[submodule "cgroupspy"]
+	url = https://github.com/conda-forge/cgroupspy-feedstock.git
+	path = feedstocks/cgroupspy
+	branch = refs/heads/master
