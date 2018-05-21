@@ -18466,3 +18466,7 @@
 	url = https://github.com/conda-forge/r-caper-feedstock.git
 	path = feedstocks/r-caper
 	branch = refs/heads/master
+[submodule "coolprop"]
+	url = https://github.com/conda-forge/coolprop-feedstock.git
+	path = feedstocks/coolprop
+	branch = refs/heads/master
