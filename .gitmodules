@@ -18462,3 +18462,7 @@
 	url = https://github.com/conda-forge/pycoast-feedstock.git
 	path = feedstocks/pycoast
 	branch = refs/heads/master
+[submodule "r-caper"]
+	url = https://github.com/conda-forge/r-caper-feedstock.git
+	path = feedstocks/r-caper
+	branch = refs/heads/master
