@@ -18498,3 +18498,7 @@
 	url = https://github.com/conda-forge/rnatools-feedstock.git
 	path = feedstocks/rnatools
 	branch = refs/heads/master
+[submodule "pyorbital"]
+	url = https://github.com/conda-forge/pyorbital-feedstock.git
+	path = feedstocks/pyorbital
+	branch = refs/heads/master
