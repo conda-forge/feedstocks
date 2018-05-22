@@ -18494,3 +18494,7 @@
 	url = https://github.com/conda-forge/serializable-feedstock.git
 	path = feedstocks/serializable
 	branch = refs/heads/master
+[submodule "rnatools"]
+	url = https://github.com/conda-forge/rnatools-feedstock.git
+	path = feedstocks/rnatools
+	branch = refs/heads/master
