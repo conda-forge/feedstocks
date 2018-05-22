@@ -18490,3 +18490,7 @@
 	url = https://github.com/conda-forge/django-widget-tweaks-feedstock.git
 	path = feedstocks/django-widget-tweaks
 	branch = refs/heads/master
+[submodule "serializable"]
+	url = https://github.com/conda-forge/serializable-feedstock.git
+	path = feedstocks/serializable
+	branch = refs/heads/master
