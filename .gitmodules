@@ -18510,3 +18510,7 @@
 	url = https://github.com/conda-forge/jaydebeapi-feedstock.git
 	path = feedstocks/jaydebeapi
 	branch = refs/heads/master
+[submodule "libsigsegv"]
+	url = https://github.com/conda-forge/libsigsegv-feedstock.git
+	path = feedstocks/libsigsegv
+	branch = refs/heads/master
