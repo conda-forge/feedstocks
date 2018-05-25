@@ -18542,3 +18542,7 @@
 	url = https://github.com/conda-forge/itypes-feedstock.git
 	path = feedstocks/itypes
 	branch = refs/heads/master
+[submodule "rx"]
+	url = https://github.com/conda-forge/rx-feedstock.git
+	path = feedstocks/rx
+	branch = refs/heads/master
