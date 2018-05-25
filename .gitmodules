@@ -18526,3 +18526,7 @@
 	url = https://github.com/conda-forge/python-can-feedstock.git
 	path = feedstocks/python-can
 	branch = refs/heads/master
+[submodule "neunorm"]
+	url = https://github.com/conda-forge/neunorm-feedstock.git
+	path = feedstocks/neunorm
+	branch = refs/heads/master
