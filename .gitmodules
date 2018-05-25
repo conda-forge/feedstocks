@@ -18534,3 +18534,7 @@
 	url = https://github.com/conda-forge/unyt-feedstock.git
 	path = feedstocks/unyt
 	branch = refs/heads/master
+[submodule "python-coreschema"]
+	url = https://github.com/conda-forge/python-coreschema-feedstock.git
+	path = feedstocks/python-coreschema
+	branch = refs/heads/master
