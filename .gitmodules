@@ -18538,3 +18538,7 @@
 	url = https://github.com/conda-forge/python-coreschema-feedstock.git
 	path = feedstocks/python-coreschema
 	branch = refs/heads/master
+[submodule "itypes"]
+	url = https://github.com/conda-forge/itypes-feedstock.git
+	path = feedstocks/itypes
+	branch = refs/heads/master
