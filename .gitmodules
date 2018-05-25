@@ -18546,3 +18546,7 @@
 	url = https://github.com/conda-forge/rx-feedstock.git
 	path = feedstocks/rx
 	branch = refs/heads/master
+[submodule "python-coreapi"]
+	url = https://github.com/conda-forge/python-coreapi-feedstock.git
+	path = feedstocks/python-coreapi
+	branch = refs/heads/master
