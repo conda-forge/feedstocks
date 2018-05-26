@@ -18578,3 +18578,7 @@
 	url = https://github.com/conda-forge/r-catboost-feedstock.git
 	path = feedstocks/r-catboost
 	branch = refs/heads/master
+[submodule "r-boruta"]
+	url = https://github.com/conda-forge/r-boruta-feedstock.git
+	path = feedstocks/r-boruta
+	branch = refs/heads/master
