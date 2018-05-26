@@ -18566,3 +18566,7 @@
 	url = https://github.com/conda-forge/tabula-py-feedstock.git
 	path = feedstocks/tabula-py
 	branch = refs/heads/master
+[submodule "libframe"]
+	url = https://github.com/conda-forge/libframe-feedstock.git
+	path = feedstocks/libframe
+	branch = refs/heads/master
