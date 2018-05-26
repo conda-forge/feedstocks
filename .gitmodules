@@ -18562,3 +18562,7 @@
 	url = https://github.com/conda-forge/r-logistf-feedstock.git
 	path = feedstocks/r-logistf
 	branch = refs/heads/master
+[submodule "tabula-py"]
+	url = https://github.com/conda-forge/tabula-py-feedstock.git
+	path = feedstocks/tabula-py
+	branch = refs/heads/master
