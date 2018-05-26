@@ -18554,3 +18554,7 @@
 	url = https://github.com/conda-forge/coreapi-cli-feedstock.git
 	path = feedstocks/coreapi-cli
 	branch = refs/heads/master
+[submodule "r-hier.part"]
+	url = https://github.com/conda-forge/r-hier.part-feedstock.git
+	path = feedstocks/r-hier.part
+	branch = refs/heads/master
