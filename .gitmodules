@@ -18574,3 +18574,7 @@
 	url = https://github.com/conda-forge/pyspectral-feedstock.git
 	path = feedstocks/pyspectral
 	branch = refs/heads/master
+[submodule "r-catboost"]
+	url = https://github.com/conda-forge/r-catboost-feedstock.git
+	path = feedstocks/r-catboost
+	branch = refs/heads/master
