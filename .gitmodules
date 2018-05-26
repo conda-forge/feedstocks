@@ -18586,3 +18586,7 @@
 	url = https://github.com/conda-forge/r-huge-feedstock.git
 	path = feedstocks/r-huge
 	branch = refs/heads/master
+[submodule "r-rfutilities"]
+	url = https://github.com/conda-forge/r-rfutilities-feedstock.git
+	path = feedstocks/r-rfutilities
+	branch = refs/heads/master
