@@ -18590,3 +18590,7 @@
 	url = https://github.com/conda-forge/r-rfutilities-feedstock.git
 	path = feedstocks/r-rfutilities
 	branch = refs/heads/master
+[submodule "libcxxwrap-julia"]
+	url = https://github.com/conda-forge/libcxxwrap-julia-feedstock.git
+	path = feedstocks/libcxxwrap-julia
+	branch = refs/heads/master
