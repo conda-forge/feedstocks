@@ -18582,3 +18582,7 @@
 	url = https://github.com/conda-forge/r-boruta-feedstock.git
 	path = feedstocks/r-boruta
 	branch = refs/heads/master
+[submodule "r-huge"]
+	url = https://github.com/conda-forge/r-huge-feedstock.git
+	path = feedstocks/r-huge
+	branch = refs/heads/master
