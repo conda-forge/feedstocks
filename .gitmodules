@@ -18570,3 +18570,7 @@
 	url = https://github.com/conda-forge/libframe-feedstock.git
 	path = feedstocks/libframe
 	branch = refs/heads/master
+[submodule "pyspectral"]
+	url = https://github.com/conda-forge/pyspectral-feedstock.git
+	path = feedstocks/pyspectral
+	branch = refs/heads/master
