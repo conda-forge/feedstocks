@@ -18594,3 +18594,7 @@
 	url = https://github.com/conda-forge/libcxxwrap-julia-feedstock.git
 	path = feedstocks/libcxxwrap-julia
 	branch = refs/heads/master
+[submodule "r-htree"]
+	url = https://github.com/conda-forge/r-htree-feedstock.git
+	path = feedstocks/r-htree
+	branch = refs/heads/master
