@@ -18610,3 +18610,7 @@
 	url = https://github.com/conda-forge/ligo-common-feedstock.git
 	path = feedstocks/ligo-common
 	branch = refs/heads/master
+[submodule "r-base64url"]
+	url = https://github.com/conda-forge/r-base64url-feedstock.git
+	path = feedstocks/r-base64url
+	branch = refs/heads/master
