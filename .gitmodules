@@ -18602,3 +18602,7 @@
 	url = https://github.com/conda-forge/r-rfpermute-feedstock.git
 	path = feedstocks/r-rfpermute
 	branch = refs/heads/master
+[submodule "r-swfscmisc"]
+	url = https://github.com/conda-forge/r-swfscmisc-feedstock.git
+	path = feedstocks/r-swfscmisc
+	branch = refs/heads/master
