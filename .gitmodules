@@ -18606,3 +18606,7 @@
 	url = https://github.com/conda-forge/r-swfscmisc-feedstock.git
 	path = feedstocks/r-swfscmisc
 	branch = refs/heads/master
+[submodule "ligo-common"]
+	url = https://github.com/conda-forge/ligo-common-feedstock.git
+	path = feedstocks/ligo-common
+	branch = refs/heads/master
