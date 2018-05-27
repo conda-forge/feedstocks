@@ -18598,3 +18598,7 @@
 	url = https://github.com/conda-forge/r-htree-feedstock.git
 	path = feedstocks/r-htree
 	branch = refs/heads/master
+[submodule "r-rfpermute"]
+	url = https://github.com/conda-forge/r-rfpermute-feedstock.git
+	path = feedstocks/r-rfpermute
+	branch = refs/heads/master
