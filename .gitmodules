@@ -18622,3 +18622,7 @@
 	url = https://github.com/conda-forge/calamari_ocr-feedstock.git
 	path = feedstocks/calamari_ocr
 	branch = refs/heads/master
+[submodule "edit_distance"]
+	url = https://github.com/conda-forge/edit_distance-feedstock.git
+	path = feedstocks/edit_distance
+	branch = refs/heads/master
