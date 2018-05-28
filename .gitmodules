@@ -18626,3 +18626,7 @@
 	url = https://github.com/conda-forge/edit_distance-feedstock.git
 	path = feedstocks/edit_distance
 	branch = refs/heads/master
+[submodule "kiwipy"]
+	url = https://github.com/conda-forge/kiwipy-feedstock.git
+	path = feedstocks/kiwipy
+	branch = refs/heads/master
