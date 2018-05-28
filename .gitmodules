@@ -18642,3 +18642,7 @@
 	url = https://github.com/conda-forge/pycvodes-feedstock.git
 	path = feedstocks/pycvodes
 	branch = refs/heads/master
+[submodule "fpyutils"]
+	url = https://github.com/conda-forge/fpyutils-feedstock.git
+	path = feedstocks/fpyutils
+	branch = refs/heads/master
