@@ -18638,3 +18638,7 @@
 	url = https://github.com/conda-forge/profimp-feedstock.git
 	path = feedstocks/profimp
 	branch = refs/heads/master
+[submodule "pycvodes"]
+	url = https://github.com/conda-forge/pycvodes-feedstock.git
+	path = feedstocks/pycvodes
+	branch = refs/heads/master
