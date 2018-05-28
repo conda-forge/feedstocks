@@ -18618,3 +18618,7 @@
 	url = https://github.com/conda-forge/adios-feedstock.git
 	path = feedstocks/adios
 	branch = refs/heads/master
+[submodule "calamari_ocr"]
+	url = https://github.com/conda-forge/calamari_ocr-feedstock.git
+	path = feedstocks/calamari_ocr
+	branch = refs/heads/master
