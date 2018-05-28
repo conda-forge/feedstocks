@@ -18654,3 +18654,7 @@
 	url = https://github.com/conda-forge/pygslodeiv2-feedstock.git
 	path = feedstocks/pygslodeiv2
 	branch = refs/heads/master
+[submodule "pyodeint"]
+	url = https://github.com/conda-forge/pyodeint-feedstock.git
+	path = feedstocks/pyodeint
+	branch = refs/heads/master
