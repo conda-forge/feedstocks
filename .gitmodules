@@ -18646,3 +18646,7 @@
 	url = https://github.com/conda-forge/fpyutils-feedstock.git
 	path = feedstocks/fpyutils
 	branch = refs/heads/master
+[submodule "md-toc"]
+	url = https://github.com/conda-forge/md-toc-feedstock.git
+	path = feedstocks/md-toc
+	branch = refs/heads/master
