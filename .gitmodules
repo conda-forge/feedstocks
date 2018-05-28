@@ -18614,3 +18614,7 @@
 	url = https://github.com/conda-forge/r-base64url-feedstock.git
 	path = feedstocks/r-base64url
 	branch = refs/heads/master
+[submodule "adios"]
+	url = https://github.com/conda-forge/adios-feedstock.git
+	path = feedstocks/adios
+	branch = refs/heads/master
