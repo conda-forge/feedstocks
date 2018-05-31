@@ -18690,3 +18690,7 @@
 	url = https://github.com/conda-forge/pytest-django-haystack-feedstock.git
 	path = feedstocks/pytest-django-haystack
 	branch = refs/heads/master
+[submodule "log4cpp"]
+	url = https://github.com/conda-forge/log4cpp-feedstock.git
+	path = feedstocks/log4cpp
+	branch = refs/heads/master
