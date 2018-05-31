@@ -18698,3 +18698,7 @@
 	url = https://github.com/conda-forge/swi-prolog-feedstock.git
 	path = feedstocks/swi-prolog
 	branch = refs/heads/master
+[submodule "torchfile"]
+	url = https://github.com/conda-forge/torchfile-feedstock.git
+	path = feedstocks/torchfile
+	branch = refs/heads/master
