@@ -18702,3 +18702,7 @@
 	url = https://github.com/conda-forge/torchfile-feedstock.git
 	path = feedstocks/torchfile
 	branch = refs/heads/master
+[submodule "pyct"]
+	url = https://github.com/conda-forge/pyct-feedstock.git
+	path = feedstocks/pyct
+	branch = refs/heads/master
