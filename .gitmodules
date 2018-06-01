@@ -18726,3 +18726,7 @@
 	url = https://github.com/conda-forge/nbsmoke-feedstock.git
 	path = feedstocks/nbsmoke
 	branch = refs/heads/master
+[submodule "leptonica"]
+	url = https://github.com/conda-forge/leptonica-feedstock.git
+	path = feedstocks/leptonica
+	branch = refs/heads/master
