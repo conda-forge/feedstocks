@@ -18710,3 +18710,7 @@
 	url = https://github.com/conda-forge/ovito-feedstock.git
 	path = feedstocks/ovito
 	branch = refs/heads/master
+[submodule "finitediff"]
+	url = https://github.com/conda-forge/finitediff-feedstock.git
+	path = feedstocks/finitediff
+	branch = refs/heads/master
