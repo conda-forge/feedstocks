@@ -18714,3 +18714,7 @@
 	url = https://github.com/conda-forge/finitediff-feedstock.git
 	path = feedstocks/finitediff
 	branch = refs/heads/master
+[submodule "platypus-opt"]
+	url = https://github.com/conda-forge/platypus-opt-feedstock.git
+	path = feedstocks/platypus-opt
+	branch = refs/heads/master
