@@ -18722,3 +18722,7 @@
 	url = https://github.com/conda-forge/ligotimegps-feedstock.git
 	path = feedstocks/ligotimegps
 	branch = refs/heads/master
+[submodule "nbsmoke"]
+	url = https://github.com/conda-forge/nbsmoke-feedstock.git
+	path = feedstocks/nbsmoke
+	branch = refs/heads/master
