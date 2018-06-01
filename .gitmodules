@@ -18730,3 +18730,7 @@
 	url = https://github.com/conda-forge/leptonica-feedstock.git
 	path = feedstocks/leptonica
 	branch = refs/heads/master
+[submodule "python-crontab"]
+	url = https://github.com/conda-forge/python-crontab-feedstock.git
+	path = feedstocks/python-crontab
+	branch = refs/heads/master
