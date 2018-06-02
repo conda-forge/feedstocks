@@ -18742,3 +18742,7 @@
 	url = https://github.com/conda-forge/r-subplex-feedstock.git
 	path = feedstocks/r-subplex
 	branch = refs/heads/master
+[submodule "r-tensora"]
+	url = https://github.com/conda-forge/r-tensora-feedstock.git
+	path = feedstocks/r-tensora
+	branch = refs/heads/master
