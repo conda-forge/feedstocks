@@ -18746,3 +18746,7 @@
 	url = https://github.com/conda-forge/r-tensora-feedstock.git
 	path = feedstocks/r-tensora
 	branch = refs/heads/master
+[submodule "tesseract"]
+	url = https://github.com/conda-forge/tesseract-feedstock.git
+	path = feedstocks/tesseract
+	branch = refs/heads/master
