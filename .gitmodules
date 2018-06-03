@@ -18758,3 +18758,7 @@
 	url = https://github.com/conda-forge/twisted-feedstock.git
 	path = feedstocks/twisted
 	branch = refs/heads/master
+[submodule "zope.interface"]
+	url = https://github.com/conda-forge/zope.interface-feedstock.git
+	path = feedstocks/zope.interface
+	branch = refs/heads/master
