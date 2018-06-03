@@ -18762,3 +18762,7 @@
 	url = https://github.com/conda-forge/zope.interface-feedstock.git
 	path = feedstocks/zope.interface
 	branch = refs/heads/master
+[submodule "pygments-cache"]
+	url = https://github.com/conda-forge/pygments-cache-feedstock.git
+	path = feedstocks/pygments-cache
+	branch = refs/heads/master
