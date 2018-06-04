@@ -18770,3 +18770,7 @@
 	url = https://github.com/conda-forge/tifffolder-feedstock.git
 	path = feedstocks/tifffolder
 	branch = refs/heads/master
+[submodule "marbles-core"]
+	url = https://github.com/conda-forge/marbles-core-feedstock.git
+	path = feedstocks/marbles-core
+	branch = refs/heads/master
