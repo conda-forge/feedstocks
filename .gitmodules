@@ -18786,3 +18786,7 @@
 	url = https://github.com/conda-forge/r-spacyr-feedstock.git
 	path = feedstocks/r-spacyr
 	branch = refs/heads/master
+[submodule "r-meta"]
+	url = https://github.com/conda-forge/r-meta-feedstock.git
+	path = feedstocks/r-meta
+	branch = refs/heads/master
