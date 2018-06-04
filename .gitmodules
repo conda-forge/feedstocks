@@ -18790,3 +18790,7 @@
 	url = https://github.com/conda-forge/r-meta-feedstock.git
 	path = feedstocks/r-meta
 	branch = refs/heads/master
+[submodule "ipyscales"]
+	url = https://github.com/conda-forge/ipyscales-feedstock.git
+	path = feedstocks/ipyscales
+	branch = refs/heads/master
