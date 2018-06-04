@@ -18782,3 +18782,7 @@
 	url = https://github.com/conda-forge/marbles-feedstock.git
 	path = feedstocks/marbles
 	branch = refs/heads/master
+[submodule "r-spacyr"]
+	url = https://github.com/conda-forge/r-spacyr-feedstock.git
+	path = feedstocks/r-spacyr
+	branch = refs/heads/master
