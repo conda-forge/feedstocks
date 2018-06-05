@@ -18810,3 +18810,7 @@
 	url = https://github.com/conda-forge/r-isocodes-feedstock.git
 	path = feedstocks/r-isocodes
 	branch = refs/heads/master
+[submodule "fsleyes-widgets"]
+	url = https://github.com/conda-forge/fsleyes-widgets-feedstock.git
+	path = feedstocks/fsleyes-widgets
+	branch = refs/heads/master
