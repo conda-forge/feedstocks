@@ -18798,3 +18798,7 @@
 	url = https://github.com/conda-forge/jmol-feedstock.git
 	path = feedstocks/jmol
 	branch = refs/heads/master
+[submodule "adios-python"]
+	url = https://github.com/conda-forge/adios-python-feedstock.git
+	path = feedstocks/adios-python
+	branch = refs/heads/master
