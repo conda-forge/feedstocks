@@ -18794,3 +18794,7 @@
 	url = https://github.com/conda-forge/ipyscales-feedstock.git
 	path = feedstocks/ipyscales
 	branch = refs/heads/master
+[submodule "jmol"]
+	url = https://github.com/conda-forge/jmol-feedstock.git
+	path = feedstocks/jmol
+	branch = refs/heads/master
