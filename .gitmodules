@@ -18814,3 +18814,7 @@
 	url = https://github.com/conda-forge/fsleyes-widgets-feedstock.git
 	path = feedstocks/fsleyes-widgets
 	branch = refs/heads/master
+[submodule "brian2"]
+	url = https://github.com/conda-forge/brian2-feedstock.git
+	path = feedstocks/brian2
+	branch = refs/heads/master
