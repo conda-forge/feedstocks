@@ -18822,3 +18822,7 @@
 	url = https://github.com/conda-forge/xnat-feedstock.git
 	path = feedstocks/xnat
 	branch = refs/heads/master
+[submodule "lscsoft-glue"]
+	url = https://github.com/conda-forge/lscsoft-glue-feedstock.git
+	path = feedstocks/lscsoft-glue
+	branch = refs/heads/master
