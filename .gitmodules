@@ -18802,3 +18802,7 @@
 	url = https://github.com/conda-forge/adios-python-feedstock.git
 	path = feedstocks/adios-python
 	branch = refs/heads/master
+[submodule "pyldavis"]
+	url = https://github.com/conda-forge/pyldavis-feedstock.git
+	path = feedstocks/pyldavis
+	branch = refs/heads/master
