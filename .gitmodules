@@ -18818,3 +18818,7 @@
 	url = https://github.com/conda-forge/brian2-feedstock.git
 	path = feedstocks/brian2
 	branch = refs/heads/master
+[submodule "xnat"]
+	url = https://github.com/conda-forge/xnat-feedstock.git
+	path = feedstocks/xnat
+	branch = refs/heads/master
