@@ -18830,3 +18830,7 @@
 	url = https://github.com/conda-forge/ipydatawidgets-feedstock.git
 	path = feedstocks/ipydatawidgets
 	branch = refs/heads/master
+[submodule "npstreams"]
+	url = https://github.com/conda-forge/npstreams-feedstock.git
+	path = feedstocks/npstreams
+	branch = refs/heads/master
