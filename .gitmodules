@@ -18842,3 +18842,7 @@
 	url = https://github.com/conda-forge/notedown-feedstock.git
 	path = feedstocks/notedown
 	branch = refs/heads/master
+[submodule "betsee"]
+	url = https://github.com/conda-forge/betsee-feedstock.git
+	path = feedstocks/betsee
+	branch = refs/heads/master
