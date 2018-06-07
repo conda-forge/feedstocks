@@ -18866,3 +18866,7 @@
 	url = https://github.com/conda-forge/openpmd-api-feedstock.git
 	path = feedstocks/openpmd-api
 	branch = refs/heads/master
+[submodule "trimesh"]
+	url = https://github.com/conda-forge/trimesh-feedstock.git
+	path = feedstocks/trimesh
+	branch = refs/heads/master
