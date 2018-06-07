@@ -18854,3 +18854,7 @@
 	url = https://github.com/conda-forge/geoviews-core-feedstock.git
 	path = feedstocks/geoviews-core
 	branch = refs/heads/master
+[submodule "importlib_resources"]
+	url = https://github.com/conda-forge/importlib_resources-feedstock.git
+	path = feedstocks/importlib_resources
+	branch = refs/heads/master
