@@ -18850,3 +18850,7 @@
 	url = https://github.com/conda-forge/r-trust-feedstock.git
 	path = feedstocks/r-trust
 	branch = refs/heads/master
+[submodule "geoviews-core"]
+	url = https://github.com/conda-forge/geoviews-core-feedstock.git
+	path = feedstocks/geoviews-core
+	branch = refs/heads/master
