@@ -18862,3 +18862,7 @@
 	url = https://github.com/conda-forge/nameparser-feedstock.git
 	path = feedstocks/nameparser
 	branch = refs/heads/master
+[submodule "openpmd-api"]
+	url = https://github.com/conda-forge/openpmd-api-feedstock.git
+	path = feedstocks/openpmd-api
+	branch = refs/heads/master
