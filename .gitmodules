@@ -18846,3 +18846,7 @@
 	url = https://github.com/conda-forge/betsee-feedstock.git
 	path = feedstocks/betsee
 	branch = refs/heads/master
+[submodule "r-trust"]
+	url = https://github.com/conda-forge/r-trust-feedstock.git
+	path = feedstocks/r-trust
+	branch = refs/heads/master
