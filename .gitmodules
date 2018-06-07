@@ -18858,3 +18858,7 @@
 	url = https://github.com/conda-forge/importlib_resources-feedstock.git
 	path = feedstocks/importlib_resources
 	branch = refs/heads/master
+[submodule "nameparser"]
+	url = https://github.com/conda-forge/nameparser-feedstock.git
+	path = feedstocks/nameparser
+	branch = refs/heads/master
