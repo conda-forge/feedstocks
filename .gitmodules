@@ -18894,3 +18894,7 @@
 	url = https://github.com/conda-forge/cifti-feedstock.git
 	path = feedstocks/cifti
 	branch = refs/heads/master
+[submodule "pycondor"]
+	url = https://github.com/conda-forge/pycondor-feedstock.git
+	path = feedstocks/pycondor
+	branch = refs/heads/master
