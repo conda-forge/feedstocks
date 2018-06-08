@@ -18886,3 +18886,7 @@
 	url = https://github.com/conda-forge/r-cardata-feedstock.git
 	path = feedstocks/r-cardata
 	branch = refs/heads/master
+[submodule "r-stopwords"]
+	url = https://github.com/conda-forge/r-stopwords-feedstock.git
+	path = feedstocks/r-stopwords
+	branch = refs/heads/master
