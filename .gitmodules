@@ -18890,3 +18890,7 @@
 	url = https://github.com/conda-forge/r-stopwords-feedstock.git
 	path = feedstocks/r-stopwords
 	branch = refs/heads/master
+[submodule "cifti"]
+	url = https://github.com/conda-forge/cifti-feedstock.git
+	path = feedstocks/cifti
+	branch = refs/heads/master
