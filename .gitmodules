@@ -18878,3 +18878,7 @@
 	url = https://github.com/conda-forge/keras-preprocessing-feedstock.git
 	path = feedstocks/keras-preprocessing
 	branch = refs/heads/master
+[submodule "fresnel"]
+	url = https://github.com/conda-forge/fresnel-feedstock.git
+	path = feedstocks/fresnel
+	branch = refs/heads/master
