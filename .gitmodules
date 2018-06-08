@@ -18874,3 +18874,7 @@
 	url = https://github.com/conda-forge/keras-applications-feedstock.git
 	path = feedstocks/keras-applications
 	branch = refs/heads/master
+[submodule "keras-preprocessing"]
+	url = https://github.com/conda-forge/keras-preprocessing-feedstock.git
+	path = feedstocks/keras-preprocessing
+	branch = refs/heads/master
