@@ -18882,3 +18882,7 @@
 	url = https://github.com/conda-forge/fresnel-feedstock.git
 	path = feedstocks/fresnel
 	branch = refs/heads/master
+[submodule "r-cardata"]
+	url = https://github.com/conda-forge/r-cardata-feedstock.git
+	path = feedstocks/r-cardata
+	branch = refs/heads/master
