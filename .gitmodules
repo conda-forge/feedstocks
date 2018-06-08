@@ -18870,3 +18870,7 @@
 	url = https://github.com/conda-forge/trimesh-feedstock.git
 	path = feedstocks/trimesh
 	branch = refs/heads/master
+[submodule "keras-applications"]
+	url = https://github.com/conda-forge/keras-applications-feedstock.git
+	path = feedstocks/keras-applications
+	branch = refs/heads/master
