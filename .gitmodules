@@ -18906,3 +18906,7 @@
 	url = https://github.com/conda-forge/dask-kubernetes-feedstock.git
 	path = feedstocks/dask-kubernetes
 	branch = refs/heads/master
+[submodule "xgcm"]
+	url = https://github.com/conda-forge/xgcm-feedstock.git
+	path = feedstocks/xgcm
+	branch = refs/heads/master
