@@ -18926,3 +18926,7 @@
 	url = https://github.com/conda-forge/r-elpigraph.r-feedstock.git
 	path = feedstocks/r-elpigraph.r
 	branch = refs/heads/master
+[submodule "r-gensa"]
+	url = https://github.com/conda-forge/r-gensa-feedstock.git
+	path = feedstocks/r-gensa
+	branch = refs/heads/master
