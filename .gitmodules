@@ -18934,3 +18934,7 @@
 	url = https://github.com/conda-forge/r-tictoc-feedstock.git
 	path = feedstocks/r-tictoc
 	branch = refs/heads/master
+[submodule "tvb-framework"]
+	url = https://github.com/conda-forge/tvb-framework-feedstock.git
+	path = feedstocks/tvb-framework
+	branch = refs/heads/master
