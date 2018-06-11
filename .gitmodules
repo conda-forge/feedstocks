@@ -18946,3 +18946,7 @@
 	url = https://github.com/conda-forge/r-irr-feedstock.git
 	path = feedstocks/r-irr
 	branch = refs/heads/master
+[submodule "pyosreplace"]
+	url = https://github.com/conda-forge/pyosreplace-feedstock.git
+	path = feedstocks/pyosreplace
+	branch = refs/heads/master
