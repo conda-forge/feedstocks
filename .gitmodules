@@ -18942,3 +18942,7 @@
 	url = https://github.com/conda-forge/inline-html-feedstock.git
 	path = feedstocks/inline-html
 	branch = refs/heads/master
+[submodule "r-irr"]
+	url = https://github.com/conda-forge/r-irr-feedstock.git
+	path = feedstocks/r-irr
+	branch = refs/heads/master
