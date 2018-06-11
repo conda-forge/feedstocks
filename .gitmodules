@@ -18922,3 +18922,7 @@
 	url = https://github.com/conda-forge/scikit-ued-feedstock.git
 	path = feedstocks/scikit-ued
 	branch = refs/heads/master
+[submodule "r-elpigraph.r"]
+	url = https://github.com/conda-forge/r-elpigraph.r-feedstock.git
+	path = feedstocks/r-elpigraph.r
+	branch = refs/heads/master
