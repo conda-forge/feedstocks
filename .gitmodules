@@ -18954,3 +18954,7 @@
 	url = https://github.com/conda-forge/soqt-feedstock.git
 	path = feedstocks/soqt
 	branch = refs/heads/master
+[submodule "dask-tensorflow"]
+	url = https://github.com/conda-forge/dask-tensorflow-feedstock.git
+	path = feedstocks/dask-tensorflow
+	branch = refs/heads/master
