@@ -18966,3 +18966,7 @@
 	url = https://github.com/conda-forge/conda-pack-feedstock.git
 	path = feedstocks/conda-pack
 	branch = refs/heads/master
+[submodule "ldap"]
+	url = https://github.com/conda-forge/ldap-feedstock.git
+	path = feedstocks/ldap
+	branch = refs/heads/master
