@@ -18970,3 +18970,7 @@
 	url = https://github.com/conda-forge/ldap-feedstock.git
 	path = feedstocks/ldap
 	branch = refs/heads/master
+[submodule "axopy"]
+	url = https://github.com/conda-forge/axopy-feedstock.git
+	path = feedstocks/axopy
+	branch = refs/heads/master
