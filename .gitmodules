@@ -18962,3 +18962,7 @@
 	url = https://github.com/conda-forge/tensorflow-hub-feedstock.git
 	path = feedstocks/tensorflow-hub
 	branch = refs/heads/master
+[submodule "conda-pack"]
+	url = https://github.com/conda-forge/conda-pack-feedstock.git
+	path = feedstocks/conda-pack
+	branch = refs/heads/master
