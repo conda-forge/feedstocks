@@ -18978,3 +18978,7 @@
 	url = https://github.com/conda-forge/jupyterhub-ldapauthenticator-feedstock.git
 	path = feedstocks/jupyterhub-ldapauthenticator
 	branch = refs/heads/master
+[submodule "r-tfruns"]
+	url = https://github.com/conda-forge/r-tfruns-feedstock.git
+	path = feedstocks/r-tfruns
+	branch = refs/heads/master
