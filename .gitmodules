@@ -18974,3 +18974,7 @@
 	url = https://github.com/conda-forge/axopy-feedstock.git
 	path = feedstocks/axopy
 	branch = refs/heads/master
+[submodule "jupyterhub-ldapauthenticator"]
+	url = https://github.com/conda-forge/jupyterhub-ldapauthenticator-feedstock.git
+	path = feedstocks/jupyterhub-ldapauthenticator
+	branch = refs/heads/master
