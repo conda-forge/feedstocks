@@ -19042,3 +19042,7 @@
 	url = https://github.com/conda-forge/requests-mock-feedstock.git
 	path = feedstocks/requests-mock
 	branch = refs/heads/master
+[submodule "racket"]
+	url = https://github.com/conda-forge/racket-feedstock.git
+	path = feedstocks/racket
+	branch = refs/heads/master
