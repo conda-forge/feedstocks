@@ -19046,3 +19046,7 @@
 	url = https://github.com/conda-forge/racket-feedstock.git
 	path = feedstocks/racket
 	branch = refs/heads/master
+[submodule "grip"]
+	url = https://github.com/conda-forge/grip-feedstock.git
+	path = feedstocks/grip
+	branch = refs/heads/master
