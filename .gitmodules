@@ -19006,3 +19006,7 @@
 	url = https://github.com/conda-forge/metaio-feedstock.git
 	path = feedstocks/metaio
 	branch = refs/heads/master
+[submodule "osqp"]
+	url = https://github.com/conda-forge/osqp-feedstock.git
+	path = feedstocks/osqp
+	branch = refs/heads/master
