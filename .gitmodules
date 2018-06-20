@@ -19034,3 +19034,7 @@
 	url = https://github.com/conda-forge/xarray-extras-feedstock.git
 	path = feedstocks/xarray-extras
 	branch = refs/heads/master
+[submodule "r-ggparallel"]
+	url = https://github.com/conda-forge/r-ggparallel-feedstock.git
+	path = feedstocks/r-ggparallel
+	branch = refs/heads/master
