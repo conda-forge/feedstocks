@@ -19030,3 +19030,7 @@
 	url = https://github.com/conda-forge/snap-cpp-feedstock.git
 	path = feedstocks/snap-cpp
 	branch = refs/heads/master
+[submodule "xarray-extras"]
+	url = https://github.com/conda-forge/xarray-extras-feedstock.git
+	path = feedstocks/xarray-extras
+	branch = refs/heads/master
