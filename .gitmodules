@@ -19002,3 +19002,7 @@
 	url = https://github.com/conda-forge/kastore-feedstock.git
 	path = feedstocks/kastore
 	branch = refs/heads/master
+[submodule "metaio"]
+	url = https://github.com/conda-forge/metaio-feedstock.git
+	path = feedstocks/metaio
+	branch = refs/heads/master
