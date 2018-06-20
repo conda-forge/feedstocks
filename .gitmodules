@@ -19026,3 +19026,7 @@
 	url = https://github.com/conda-forge/scs-feedstock.git
 	path = feedstocks/scs
 	branch = refs/heads/master
+[submodule "snap-cpp"]
+	url = https://github.com/conda-forge/snap-cpp-feedstock.git
+	path = feedstocks/snap-cpp
+	branch = refs/heads/master
