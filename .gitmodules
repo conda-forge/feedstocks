@@ -19018,3 +19018,7 @@
 	url = https://github.com/conda-forge/radical.utils-feedstock.git
 	path = feedstocks/radical.utils
 	branch = refs/heads/master
+[submodule "s3contents"]
+	url = https://github.com/conda-forge/s3contents-feedstock.git
+	path = feedstocks/s3contents
+	branch = refs/heads/master
