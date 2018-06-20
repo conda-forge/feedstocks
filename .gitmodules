@@ -19050,3 +19050,7 @@
 	url = https://github.com/conda-forge/grip-feedstock.git
 	path = feedstocks/grip
 	branch = refs/heads/master
+[submodule "path-and-address"]
+	url = https://github.com/conda-forge/path-and-address-feedstock.git
+	path = feedstocks/path-and-address
+	branch = refs/heads/master
