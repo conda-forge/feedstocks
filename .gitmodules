@@ -19038,3 +19038,7 @@
 	url = https://github.com/conda-forge/r-ggparallel-feedstock.git
 	path = feedstocks/r-ggparallel
 	branch = refs/heads/master
+[submodule "requests-mock"]
+	url = https://github.com/conda-forge/requests-mock-feedstock.git
+	path = feedstocks/requests-mock
+	branch = refs/heads/master
