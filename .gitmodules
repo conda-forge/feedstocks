@@ -19014,3 +19014,7 @@
 	url = https://github.com/conda-forge/r-zeallot-feedstock.git
 	path = feedstocks/r-zeallot
 	branch = refs/heads/master
+[submodule "radical.utils"]
+	url = https://github.com/conda-forge/radical.utils-feedstock.git
+	path = feedstocks/radical.utils
+	branch = refs/heads/master
