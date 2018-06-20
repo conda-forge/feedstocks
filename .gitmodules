@@ -18990,3 +18990,7 @@
 	url = https://github.com/conda-forge/ecos-feedstock.git
 	path = feedstocks/ecos
 	branch = refs/heads/master
+[submodule "fault-localization"]
+	url = https://github.com/conda-forge/fault-localization-feedstock.git
+	path = feedstocks/fault-localization
+	branch = refs/heads/master
