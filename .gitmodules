@@ -19022,3 +19022,7 @@
 	url = https://github.com/conda-forge/s3contents-feedstock.git
 	path = feedstocks/s3contents
 	branch = refs/heads/master
+[submodule "scs"]
+	url = https://github.com/conda-forge/scs-feedstock.git
+	path = feedstocks/scs
+	branch = refs/heads/master
