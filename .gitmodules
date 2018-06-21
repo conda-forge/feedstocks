@@ -19082,3 +19082,7 @@
 	url = https://github.com/conda-forge/r-ggplotify-feedstock.git
 	path = feedstocks/r-ggplotify
 	branch = refs/heads/master
+[submodule "r-rcppcnpy"]
+	url = https://github.com/conda-forge/r-rcppcnpy-feedstock.git
+	path = feedstocks/r-rcppcnpy
+	branch = refs/heads/master
