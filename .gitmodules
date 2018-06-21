@@ -19070,3 +19070,7 @@
 	url = https://github.com/conda-forge/flask-silk-feedstock.git
 	path = feedstocks/flask-silk
 	branch = refs/heads/master
+[submodule "perl-sys-cpu"]
+	url = https://github.com/conda-forge/perl-sys-cpu-feedstock.git
+	path = feedstocks/perl-sys-cpu
+	branch = refs/heads/master
