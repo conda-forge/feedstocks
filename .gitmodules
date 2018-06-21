@@ -19114,3 +19114,7 @@
 	url = https://github.com/conda-forge/hopcroftkarp-feedstock.git
 	path = feedstocks/hopcroftkarp
 	branch = refs/heads/master
+[submodule "matchpy"]
+	url = https://github.com/conda-forge/matchpy-feedstock.git
+	path = feedstocks/matchpy
+	branch = refs/heads/master
