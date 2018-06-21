@@ -19106,3 +19106,7 @@
 	url = https://github.com/conda-forge/sagenb-feedstock.git
 	path = feedstocks/sagenb
 	branch = refs/heads/master
+[submodule "r-lda"]
+	url = https://github.com/conda-forge/r-lda-feedstock.git
+	path = feedstocks/r-lda
+	branch = refs/heads/master
