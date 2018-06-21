@@ -19054,3 +19054,7 @@
 	url = https://github.com/conda-forge/path-and-address-feedstock.git
 	path = feedstocks/path-and-address
 	branch = refs/heads/master
+[submodule "czmq"]
+	url = https://github.com/conda-forge/czmq-feedstock.git
+	path = feedstocks/czmq
+	branch = refs/heads/master
