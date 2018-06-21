@@ -19102,3 +19102,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-golangdomain-feedstock.git
 	path = feedstocks/sphinxcontrib-golangdomain
 	branch = refs/heads/master
+[submodule "sagenb"]
+	url = https://github.com/conda-forge/sagenb-feedstock.git
+	path = feedstocks/sagenb
+	branch = refs/heads/master
