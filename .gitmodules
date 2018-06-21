@@ -19086,3 +19086,7 @@
 	url = https://github.com/conda-forge/r-rcppcnpy-feedstock.git
 	path = feedstocks/r-rcppcnpy
 	branch = refs/heads/master
+[submodule "r-statnet.common"]
+	url = https://github.com/conda-forge/r-statnet.common-feedstock.git
+	path = feedstocks/r-statnet.common
+	branch = refs/heads/master
