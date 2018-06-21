@@ -19074,3 +19074,7 @@
 	url = https://github.com/conda-forge/perl-sys-cpu-feedstock.git
 	path = feedstocks/perl-sys-cpu
 	branch = refs/heads/master
+[submodule "py2cytoscape"]
+	url = https://github.com/conda-forge/py2cytoscape-feedstock.git
+	path = feedstocks/py2cytoscape
+	branch = refs/heads/master
