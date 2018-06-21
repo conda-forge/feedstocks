@@ -19098,3 +19098,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-dotnetdomain-feedstock.git
 	path = feedstocks/sphinxcontrib-dotnetdomain
 	branch = refs/heads/master
+[submodule "sphinxcontrib-golangdomain"]
+	url = https://github.com/conda-forge/sphinxcontrib-golangdomain-feedstock.git
+	path = feedstocks/sphinxcontrib-golangdomain
+	branch = refs/heads/master
