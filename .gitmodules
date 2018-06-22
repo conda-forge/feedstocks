@@ -19118,3 +19118,7 @@
 	url = https://github.com/conda-forge/matchpy-feedstock.git
 	path = feedstocks/matchpy
 	branch = refs/heads/master
+[submodule "approxposterior"]
+	url = https://github.com/conda-forge/approxposterior-feedstock.git
+	path = feedstocks/approxposterior
+	branch = refs/heads/master
