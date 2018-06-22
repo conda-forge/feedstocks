@@ -19178,3 +19178,7 @@
 	url = https://github.com/conda-forge/r-networkdynamic-feedstock.git
 	path = feedstocks/r-networkdynamic
 	branch = refs/heads/master
+[submodule "r-sna"]
+	url = https://github.com/conda-forge/r-sna-feedstock.git
+	path = feedstocks/r-sna
+	branch = refs/heads/master
