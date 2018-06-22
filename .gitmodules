@@ -19162,3 +19162,7 @@
 	url = https://github.com/conda-forge/libneuroml-feedstock.git
 	path = feedstocks/libneuroml
 	branch = refs/heads/master
+[submodule "ligo-segments"]
+	url = https://github.com/conda-forge/ligo-segments-feedstock.git
+	path = feedstocks/ligo-segments
+	branch = refs/heads/master
