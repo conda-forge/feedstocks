@@ -19206,3 +19206,7 @@
 	url = https://github.com/conda-forge/skein-feedstock.git
 	path = feedstocks/skein
 	branch = refs/heads/master
+[submodule "spyder-kernels"]
+	url = https://github.com/conda-forge/spyder-kernels-feedstock.git
+	path = feedstocks/spyder-kernels
+	branch = refs/heads/master
