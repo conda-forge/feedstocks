@@ -19174,3 +19174,7 @@
 	url = https://github.com/conda-forge/r-keras-feedstock.git
 	path = feedstocks/r-keras
 	branch = refs/heads/master
+[submodule "r-networkdynamic"]
+	url = https://github.com/conda-forge/r-networkdynamic-feedstock.git
+	path = feedstocks/r-networkdynamic
+	branch = refs/heads/master
