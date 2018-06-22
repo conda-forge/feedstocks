@@ -19158,3 +19158,7 @@
 	url = https://github.com/conda-forge/lal-feedstock.git
 	path = feedstocks/lal
 	branch = refs/heads/master
+[submodule "libneuroml"]
+	url = https://github.com/conda-forge/libneuroml-feedstock.git
+	path = feedstocks/libneuroml
+	branch = refs/heads/master
