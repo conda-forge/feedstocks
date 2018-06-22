@@ -19126,3 +19126,7 @@
 	url = https://github.com/conda-forge/cmor-feedstock.git
 	path = feedstocks/cmor
 	branch = refs/heads/master
+[submodule "conllu"]
+	url = https://github.com/conda-forge/conllu-feedstock.git
+	path = feedstocks/conllu
+	branch = refs/heads/master
