@@ -19170,3 +19170,7 @@
 	url = https://github.com/conda-forge/r-ergm-feedstock.git
 	path = feedstocks/r-ergm
 	branch = refs/heads/master
+[submodule "r-keras"]
+	url = https://github.com/conda-forge/r-keras-feedstock.git
+	path = feedstocks/r-keras
+	branch = refs/heads/master
