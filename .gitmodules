@@ -19190,3 +19190,7 @@
 	url = https://github.com/conda-forge/requests_pkcs12-feedstock.git
 	path = feedstocks/requests_pkcs12
 	branch = refs/heads/master
+[submodule "robotframework-lint"]
+	url = https://github.com/conda-forge/robotframework-lint-feedstock.git
+	path = feedstocks/robotframework-lint
+	branch = refs/heads/master
