@@ -19146,3 +19146,7 @@
 	url = https://github.com/conda-forge/gtk2-feedstock.git
 	path = feedstocks/gtk2
 	branch = refs/heads/master
+[submodule "holoplot"]
+	url = https://github.com/conda-forge/holoplot-feedstock.git
+	path = feedstocks/holoplot
+	branch = refs/heads/master
