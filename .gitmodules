@@ -19130,3 +19130,7 @@
 	url = https://github.com/conda-forge/conllu-feedstock.git
 	path = feedstocks/conllu
 	branch = refs/heads/master
+[submodule "drf-haystack"]
+	url = https://github.com/conda-forge/drf-haystack-feedstock.git
+	path = feedstocks/drf-haystack
+	branch = refs/heads/master
