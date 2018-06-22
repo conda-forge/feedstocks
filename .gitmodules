@@ -19150,3 +19150,7 @@
 	url = https://github.com/conda-forge/holoplot-feedstock.git
 	path = feedstocks/holoplot
 	branch = refs/heads/master
+[submodule "hoomd"]
+	url = https://github.com/conda-forge/hoomd-feedstock.git
+	path = feedstocks/hoomd
+	branch = refs/heads/master
