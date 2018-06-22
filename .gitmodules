@@ -19154,3 +19154,7 @@
 	url = https://github.com/conda-forge/hoomd-feedstock.git
 	path = feedstocks/hoomd
 	branch = refs/heads/master
+[submodule "lal"]
+	url = https://github.com/conda-forge/lal-feedstock.git
+	path = feedstocks/lal
+	branch = refs/heads/master
