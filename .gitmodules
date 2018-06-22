@@ -19202,3 +19202,7 @@
 	url = https://github.com/conda-forge/salvus_mesher_lite-feedstock.git
 	path = feedstocks/salvus_mesher_lite
 	branch = refs/heads/master
+[submodule "skein"]
+	url = https://github.com/conda-forge/skein-feedstock.git
+	path = feedstocks/skein
+	branch = refs/heads/master
