@@ -19194,3 +19194,7 @@
 	url = https://github.com/conda-forge/robotframework-lint-feedstock.git
 	path = feedstocks/robotframework-lint
 	branch = refs/heads/master
+[submodule "saga-python"]
+	url = https://github.com/conda-forge/saga-python-feedstock.git
+	path = feedstocks/saga-python
+	branch = refs/heads/master
