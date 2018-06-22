@@ -19186,3 +19186,7 @@
 	url = https://github.com/conda-forge/r-topicmodels-feedstock.git
 	path = feedstocks/r-topicmodels
 	branch = refs/heads/master
+[submodule "requests_pkcs12"]
+	url = https://github.com/conda-forge/requests_pkcs12-feedstock.git
+	path = feedstocks/requests_pkcs12
+	branch = refs/heads/master
