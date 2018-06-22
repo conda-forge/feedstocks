@@ -19210,3 +19210,7 @@
 	url = https://github.com/conda-forge/spyder-kernels-feedstock.git
 	path = feedstocks/spyder-kernels
 	branch = refs/heads/master
+[submodule "sysv_ipc"]
+	url = https://github.com/conda-forge/sysv_ipc-feedstock.git
+	path = feedstocks/sysv_ipc
+	branch = refs/heads/master
