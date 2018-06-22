@@ -19182,3 +19182,7 @@
 	url = https://github.com/conda-forge/r-sna-feedstock.git
 	path = feedstocks/r-sna
 	branch = refs/heads/master
+[submodule "r-topicmodels"]
+	url = https://github.com/conda-forge/r-topicmodels-feedstock.git
+	path = feedstocks/r-topicmodels
+	branch = refs/heads/master
