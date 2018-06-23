@@ -19222,3 +19222,7 @@
 	url = https://github.com/conda-forge/zbar-feedstock.git
 	path = feedstocks/zbar
 	branch = refs/heads/master
+[submodule "r-ergm.count"]
+	url = https://github.com/conda-forge/r-ergm.count-feedstock.git
+	path = feedstocks/r-ergm.count
+	branch = refs/heads/master
