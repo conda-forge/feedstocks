@@ -19226,3 +19226,7 @@
 	url = https://github.com/conda-forge/r-ergm.count-feedstock.git
 	path = feedstocks/r-ergm.count
 	branch = refs/heads/master
+[submodule "r-tergm"]
+	url = https://github.com/conda-forge/r-tergm-feedstock.git
+	path = feedstocks/r-tergm
+	branch = refs/heads/master
