@@ -19218,3 +19218,7 @@
 	url = https://github.com/conda-forge/coreutils-feedstock.git
 	path = feedstocks/coreutils
 	branch = refs/heads/master
+[submodule "zbar"]
+	url = https://github.com/conda-forge/zbar-feedstock.git
+	path = feedstocks/zbar
+	branch = refs/heads/master
