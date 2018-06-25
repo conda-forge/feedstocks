@@ -19238,3 +19238,7 @@
 	url = https://github.com/conda-forge/cvxpy-feedstock.git
 	path = feedstocks/cvxpy
 	branch = refs/heads/master
+[submodule "pymeep"]
+	url = https://github.com/conda-forge/pymeep-feedstock.git
+	path = feedstocks/pymeep
+	branch = refs/heads/master
