@@ -19234,3 +19234,7 @@
 	url = https://github.com/conda-forge/sphinx-autoapi-feedstock.git
 	path = feedstocks/sphinx-autoapi
 	branch = refs/heads/master
+[submodule "cvxpy"]
+	url = https://github.com/conda-forge/cvxpy-feedstock.git
+	path = feedstocks/cvxpy
+	branch = refs/heads/master
