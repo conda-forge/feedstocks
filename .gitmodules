@@ -19242,3 +19242,7 @@
 	url = https://github.com/conda-forge/pymeep-feedstock.git
 	path = feedstocks/pymeep
 	branch = refs/heads/master
+[submodule "r-infuser"]
+	url = https://github.com/conda-forge/r-infuser-feedstock.git
+	path = feedstocks/r-infuser
+	branch = refs/heads/master
