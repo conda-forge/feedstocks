@@ -19230,3 +19230,7 @@
 	url = https://github.com/conda-forge/r-tergm-feedstock.git
 	path = feedstocks/r-tergm
 	branch = refs/heads/master
+[submodule "sphinx-autoapi"]
+	url = https://github.com/conda-forge/sphinx-autoapi-feedstock.git
+	path = feedstocks/sphinx-autoapi
+	branch = refs/heads/master
