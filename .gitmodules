@@ -19270,3 +19270,7 @@
 	url = https://github.com/conda-forge/lalxml-feedstock.git
 	path = feedstocks/lalxml
 	branch = refs/heads/master
+[submodule "r-enc"]
+	url = https://github.com/conda-forge/r-enc-feedstock.git
+	path = feedstocks/r-enc
+	branch = refs/heads/master
