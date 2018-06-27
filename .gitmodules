@@ -19274,3 +19274,7 @@
 	url = https://github.com/conda-forge/r-enc-feedstock.git
 	path = feedstocks/r-enc
 	branch = refs/heads/master
+[submodule "r-statnet"]
+	url = https://github.com/conda-forge/r-statnet-feedstock.git
+	path = feedstocks/r-statnet
+	branch = refs/heads/master
