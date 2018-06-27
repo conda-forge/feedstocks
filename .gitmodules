@@ -19286,3 +19286,7 @@
 	url = https://github.com/conda-forge/wxnatpy-feedstock.git
 	path = feedstocks/wxnatpy
 	branch = refs/heads/master
+[submodule "easyargs"]
+	url = https://github.com/conda-forge/easyargs-feedstock.git
+	path = feedstocks/easyargs
+	branch = refs/heads/master
