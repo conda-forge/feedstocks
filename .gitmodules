@@ -19262,3 +19262,7 @@
 	url = https://github.com/conda-forge/lalmetaio-feedstock.git
 	path = feedstocks/lalmetaio
 	branch = refs/heads/master
+[submodule "lalsimulation"]
+	url = https://github.com/conda-forge/lalsimulation-feedstock.git
+	path = feedstocks/lalsimulation
+	branch = refs/heads/master
