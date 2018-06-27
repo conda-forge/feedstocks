@@ -19266,3 +19266,7 @@
 	url = https://github.com/conda-forge/lalsimulation-feedstock.git
 	path = feedstocks/lalsimulation
 	branch = refs/heads/master
+[submodule "lalxml"]
+	url = https://github.com/conda-forge/lalxml-feedstock.git
+	path = feedstocks/lalxml
+	branch = refs/heads/master
