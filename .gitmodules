@@ -19278,3 +19278,7 @@
 	url = https://github.com/conda-forge/r-statnet-feedstock.git
 	path = feedstocks/r-statnet
 	branch = refs/heads/master
+[submodule "r-styler"]
+	url = https://github.com/conda-forge/r-styler-feedstock.git
+	path = feedstocks/r-styler
+	branch = refs/heads/master
