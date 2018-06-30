@@ -19330,3 +19330,7 @@
 	url = https://github.com/conda-forge/r-jomo-feedstock.git
 	path = feedstocks/r-jomo
 	branch = refs/heads/master
+[submodule "r-pan"]
+	url = https://github.com/conda-forge/r-pan-feedstock.git
+	path = feedstocks/r-pan
+	branch = refs/heads/master
