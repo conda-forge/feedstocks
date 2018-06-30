@@ -19294,3 +19294,7 @@
 	url = https://github.com/conda-forge/r-dcurver-feedstock.git
 	path = feedstocks/r-dcurver
 	branch = refs/heads/master
+[submodule "confluence-publisher"]
+	url = https://github.com/conda-forge/confluence-publisher-feedstock.git
+	path = feedstocks/confluence-publisher
+	branch = refs/heads/master
