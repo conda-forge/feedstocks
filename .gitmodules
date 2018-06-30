@@ -19302,3 +19302,7 @@
 	url = https://github.com/conda-forge/deprecated-feedstock.git
 	path = feedstocks/deprecated
 	branch = refs/heads/master
+[submodule "eulexistdb"]
+	url = https://github.com/conda-forge/eulexistdb-feedstock.git
+	path = feedstocks/eulexistdb
+	branch = refs/heads/master
