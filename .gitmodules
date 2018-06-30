@@ -19334,3 +19334,7 @@
 	url = https://github.com/conda-forge/r-pan-feedstock.git
 	path = feedstocks/r-pan
 	branch = refs/heads/master
+[submodule "r-quanteda"]
+	url = https://github.com/conda-forge/r-quanteda-feedstock.git
+	path = feedstocks/r-quanteda
+	branch = refs/heads/master
