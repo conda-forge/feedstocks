@@ -19338,3 +19338,7 @@
 	url = https://github.com/conda-forge/r-quanteda-feedstock.git
 	path = feedstocks/r-quanteda
 	branch = refs/heads/master
+[submodule "sphinx-confluence"]
+	url = https://github.com/conda-forge/sphinx-confluence-feedstock.git
+	path = feedstocks/sphinx-confluence
+	branch = refs/heads/master
