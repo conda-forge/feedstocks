@@ -19314,3 +19314,7 @@
 	url = https://github.com/conda-forge/r-narray-feedstock.git
 	path = feedstocks/r-narray
 	branch = refs/heads/master
+[submodule "tokenize-rt"]
+	url = https://github.com/conda-forge/tokenize-rt-feedstock.git
+	path = feedstocks/tokenize-rt
+	branch = refs/heads/master
