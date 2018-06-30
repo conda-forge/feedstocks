@@ -19322,3 +19322,7 @@
 	url = https://github.com/conda-forge/kombine-feedstock.git
 	path = feedstocks/kombine
 	branch = refs/heads/master
+[submodule "pygam"]
+	url = https://github.com/conda-forge/pygam-feedstock.git
+	path = feedstocks/pygam
+	branch = refs/heads/master
