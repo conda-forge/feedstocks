@@ -19346,3 +19346,7 @@
 	url = https://github.com/conda-forge/wurlitzer-feedstock.git
 	path = feedstocks/wurlitzer
 	branch = refs/heads/master
+[submodule "r-mitml"]
+	url = https://github.com/conda-forge/r-mitml-feedstock.git
+	path = feedstocks/r-mitml
+	branch = refs/heads/master
