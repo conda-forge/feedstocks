@@ -19342,3 +19342,7 @@
 	url = https://github.com/conda-forge/sphinx-confluence-feedstock.git
 	path = feedstocks/sphinx-confluence
 	branch = refs/heads/master
+[submodule "wurlitzer"]
+	url = https://github.com/conda-forge/wurlitzer-feedstock.git
+	path = feedstocks/wurlitzer
+	branch = refs/heads/master
