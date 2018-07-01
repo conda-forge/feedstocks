@@ -19354,3 +19354,7 @@
 	url = https://github.com/conda-forge/r-fs-feedstock.git
 	path = feedstocks/r-fs
 	branch = refs/heads/master
+[submodule "r-tfdatasets"]
+	url = https://github.com/conda-forge/r-tfdatasets-feedstock.git
+	path = feedstocks/r-tfdatasets
+	branch = refs/heads/master
