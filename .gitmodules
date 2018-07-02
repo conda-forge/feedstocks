@@ -19362,3 +19362,7 @@
 	url = https://github.com/conda-forge/pastel-feedstock.git
 	path = feedstocks/pastel
 	branch = refs/heads/master
+[submodule "r-storr"]
+	url = https://github.com/conda-forge/r-storr-feedstock.git
+	path = feedstocks/r-storr
+	branch = refs/heads/master
