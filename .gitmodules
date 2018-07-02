@@ -19378,3 +19378,7 @@
 	url = https://github.com/conda-forge/loky-feedstock.git
 	path = feedstocks/loky
 	branch = refs/heads/master
+[submodule "r-dmwr"]
+	url = https://github.com/conda-forge/r-dmwr-feedstock.git
+	path = feedstocks/r-dmwr
+	branch = refs/heads/master
