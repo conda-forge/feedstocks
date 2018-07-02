@@ -19366,3 +19366,7 @@
 	url = https://github.com/conda-forge/r-storr-feedstock.git
 	path = feedstocks/r-storr
 	branch = refs/heads/master
+[submodule "r-tfestimators"]
+	url = https://github.com/conda-forge/r-tfestimators-feedstock.git
+	path = feedstocks/r-tfestimators
+	branch = refs/heads/master
