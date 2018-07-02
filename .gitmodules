@@ -19374,3 +19374,7 @@
 	url = https://github.com/conda-forge/r-tinytex-feedstock.git
 	path = feedstocks/r-tinytex
 	branch = refs/heads/master
+[submodule "loky"]
+	url = https://github.com/conda-forge/loky-feedstock.git
+	path = feedstocks/loky
+	branch = refs/heads/master
