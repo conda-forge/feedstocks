@@ -19382,3 +19382,7 @@
 	url = https://github.com/conda-forge/r-dmwr-feedstock.git
 	path = feedstocks/r-dmwr
 	branch = refs/heads/master
+[submodule "pyemma_tutorials"]
+	url = https://github.com/conda-forge/pyemma_tutorials-feedstock.git
+	path = feedstocks/pyemma_tutorials
+	branch = refs/heads/master
