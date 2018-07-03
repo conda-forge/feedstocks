@@ -19402,3 +19402,7 @@
 	url = https://github.com/conda-forge/dask-yarn-feedstock.git
 	path = feedstocks/dask-yarn
 	branch = refs/heads/master
+[submodule "satpy"]
+	url = https://github.com/conda-forge/satpy-feedstock.git
+	path = feedstocks/satpy
+	branch = refs/heads/master
