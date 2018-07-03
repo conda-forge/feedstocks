@@ -19390,3 +19390,7 @@
 	url = https://github.com/conda-forge/r-batchtools-feedstock.git
 	path = feedstocks/r-batchtools
 	branch = refs/heads/master
+[submodule "r-nistunits"]
+	url = https://github.com/conda-forge/r-nistunits-feedstock.git
+	path = feedstocks/r-nistunits
+	branch = refs/heads/master
