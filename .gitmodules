@@ -19398,3 +19398,7 @@
 	url = https://github.com/conda-forge/r-workflowr-feedstock.git
 	path = feedstocks/r-workflowr
 	branch = refs/heads/master
+[submodule "dask-yarn"]
+	url = https://github.com/conda-forge/dask-yarn-feedstock.git
+	path = feedstocks/dask-yarn
+	branch = refs/heads/master
