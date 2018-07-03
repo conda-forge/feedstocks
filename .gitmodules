@@ -19386,3 +19386,7 @@
 	url = https://github.com/conda-forge/pyemma_tutorials-feedstock.git
 	path = feedstocks/pyemma_tutorials
 	branch = refs/heads/master
+[submodule "r-batchtools"]
+	url = https://github.com/conda-forge/r-batchtools-feedstock.git
+	path = feedstocks/r-batchtools
+	branch = refs/heads/master
