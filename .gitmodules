@@ -19406,3 +19406,7 @@
 	url = https://github.com/conda-forge/satpy-feedstock.git
 	path = feedstocks/satpy
 	branch = refs/heads/master
+[submodule "embree3"]
+	url = https://github.com/conda-forge/embree3-feedstock.git
+	path = feedstocks/embree3
+	branch = refs/heads/master
