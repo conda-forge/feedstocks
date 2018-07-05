@@ -19426,3 +19426,7 @@
 	url = https://github.com/conda-forge/ntplib-feedstock.git
 	path = feedstocks/ntplib
 	branch = refs/heads/master
+[submodule "pylev"]
+	url = https://github.com/conda-forge/pylev-feedstock.git
+	path = feedstocks/pylev
+	branch = refs/heads/master
