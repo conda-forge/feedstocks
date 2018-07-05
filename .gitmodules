@@ -19446,3 +19446,7 @@
 	url = https://github.com/conda-forge/r-gribr-feedstock.git
 	path = feedstocks/r-gribr
 	branch = refs/heads/master
+[submodule "r-parallelmap"]
+	url = https://github.com/conda-forge/r-parallelmap-feedstock.git
+	path = feedstocks/r-parallelmap
+	branch = refs/heads/master
