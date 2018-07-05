@@ -19466,3 +19466,7 @@
 	url = https://github.com/conda-forge/pymedphys-feedstock.git
 	path = feedstocks/pymedphys
 	branch = refs/heads/master
+[submodule "r-rje"]
+	url = https://github.com/conda-forge/r-rje-feedstock.git
+	path = feedstocks/r-rje
+	branch = refs/heads/master
