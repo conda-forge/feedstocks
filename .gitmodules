@@ -19454,3 +19454,7 @@
 	url = https://github.com/conda-forge/r-paramhelpers-feedstock.git
 	path = feedstocks/r-paramhelpers
 	branch = refs/heads/master
+[submodule "r-stm"]
+	url = https://github.com/conda-forge/r-stm-feedstock.git
+	path = feedstocks/r-stm
+	branch = refs/heads/master
