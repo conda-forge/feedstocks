@@ -19442,3 +19442,7 @@
 	url = https://github.com/conda-forge/r-future.batchtools-feedstock.git
 	path = feedstocks/r-future.batchtools
 	branch = refs/heads/master
+[submodule "r-gribr"]
+	url = https://github.com/conda-forge/r-gribr-feedstock.git
+	path = feedstocks/r-gribr
+	branch = refs/heads/master
