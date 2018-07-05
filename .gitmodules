@@ -19438,3 +19438,7 @@
 	url = https://github.com/conda-forge/pynumpress-feedstock.git
 	path = feedstocks/pynumpress
 	branch = refs/heads/master
+[submodule "r-future.batchtools"]
+	url = https://github.com/conda-forge/r-future.batchtools-feedstock.git
+	path = feedstocks/r-future.batchtools
+	branch = refs/heads/master
