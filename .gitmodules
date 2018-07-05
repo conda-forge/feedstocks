@@ -19414,3 +19414,7 @@
 	url = https://github.com/conda-forge/backpack-feedstock.git
 	path = feedstocks/backpack
 	branch = refs/heads/master
+[submodule "kivy"]
+	url = https://github.com/conda-forge/kivy-feedstock.git
+	path = feedstocks/kivy
+	branch = refs/heads/master
