@@ -19418,3 +19418,7 @@
 	url = https://github.com/conda-forge/kivy-feedstock.git
 	path = feedstocks/kivy
 	branch = refs/heads/master
+[submodule "libcflib"]
+	url = https://github.com/conda-forge/libcflib-feedstock.git
+	path = feedstocks/libcflib
+	branch = refs/heads/master
