@@ -19422,3 +19422,7 @@
 	url = https://github.com/conda-forge/libcflib-feedstock.git
 	path = feedstocks/libcflib
 	branch = refs/heads/master
+[submodule "ntplib"]
+	url = https://github.com/conda-forge/ntplib-feedstock.git
+	path = feedstocks/ntplib
+	branch = refs/heads/master
