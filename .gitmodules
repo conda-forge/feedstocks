@@ -19434,3 +19434,7 @@
 	url = https://github.com/conda-forge/python-hostlist-feedstock.git
 	path = feedstocks/python-hostlist
 	branch = refs/heads/master
+[submodule "pynumpress"]
+	url = https://github.com/conda-forge/pynumpress-feedstock.git
+	path = feedstocks/pynumpress
+	branch = refs/heads/master
