@@ -19490,3 +19490,7 @@
 	url = https://github.com/conda-forge/json_tricks-feedstock.git
 	path = feedstocks/json_tricks
 	branch = refs/heads/master
+[submodule "radical.pilot"]
+	url = https://github.com/conda-forge/radical.pilot-feedstock.git
+	path = feedstocks/radical.pilot
+	branch = refs/heads/master
