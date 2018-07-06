@@ -19474,3 +19474,7 @@
 	url = https://github.com/conda-forge/blis-feedstock.git
 	path = feedstocks/blis
 	branch = refs/heads/master
+[submodule "r-mlr"]
+	url = https://github.com/conda-forge/r-mlr-feedstock.git
+	path = feedstocks/r-mlr
+	branch = refs/heads/master
