@@ -19478,3 +19478,7 @@
 	url = https://github.com/conda-forge/r-mlr-feedstock.git
 	path = feedstocks/r-mlr
 	branch = refs/heads/master
+[submodule "bats-core"]
+	url = https://github.com/conda-forge/bats-core-feedstock.git
+	path = feedstocks/bats-core
+	branch = refs/heads/master
