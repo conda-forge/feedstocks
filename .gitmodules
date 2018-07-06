@@ -19486,3 +19486,7 @@
 	url = https://github.com/conda-forge/clifford-feedstock.git
 	path = feedstocks/clifford
 	branch = refs/heads/master
+[submodule "json_tricks"]
+	url = https://github.com/conda-forge/json_tricks-feedstock.git
+	path = feedstocks/json_tricks
+	branch = refs/heads/master
