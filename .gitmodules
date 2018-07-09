@@ -19506,3 +19506,7 @@
 	url = https://github.com/conda-forge/r-aws.s3-feedstock.git
 	path = feedstocks/r-aws.s3
 	branch = refs/heads/master
+[submodule "r-aws.signature"]
+	url = https://github.com/conda-forge/r-aws.signature-feedstock.git
+	path = feedstocks/r-aws.signature
+	branch = refs/heads/master
