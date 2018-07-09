@@ -19538,3 +19538,7 @@
 	url = https://github.com/conda-forge/joommf-feedstock.git
 	path = feedstocks/joommf
 	branch = refs/heads/master
+[submodule "r-effects"]
+	url = https://github.com/conda-forge/r-effects-feedstock.git
+	path = feedstocks/r-effects
+	branch = refs/heads/master
