@@ -19510,3 +19510,7 @@
 	url = https://github.com/conda-forge/r-aws.signature-feedstock.git
 	path = feedstocks/r-aws.signature
 	branch = refs/heads/master
+[submodule "smp"]
+	url = https://github.com/conda-forge/smp-feedstock.git
+	path = feedstocks/smp
+	branch = refs/heads/master
