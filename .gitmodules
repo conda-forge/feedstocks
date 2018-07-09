@@ -19498,3 +19498,7 @@
 	url = https://github.com/conda-forge/dcm2niix-feedstock.git
 	path = feedstocks/dcm2niix
 	branch = refs/heads/master
+[submodule "r-aws.ec2metadata"]
+	url = https://github.com/conda-forge/r-aws.ec2metadata-feedstock.git
+	path = feedstocks/r-aws.ec2metadata
+	branch = refs/heads/master
