@@ -19526,3 +19526,7 @@
 	url = https://github.com/conda-forge/flask-markdown-feedstock.git
 	path = feedstocks/flask-markdown
 	branch = refs/heads/master
+[submodule "flask-nav"]
+	url = https://github.com/conda-forge/flask-nav-feedstock.git
+	path = feedstocks/flask-nav
+	branch = refs/heads/master
