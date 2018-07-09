@@ -19502,3 +19502,7 @@
 	url = https://github.com/conda-forge/r-aws.ec2metadata-feedstock.git
 	path = feedstocks/r-aws.ec2metadata
 	branch = refs/heads/master
+[submodule "r-aws.s3"]
+	url = https://github.com/conda-forge/r-aws.s3-feedstock.git
+	path = feedstocks/r-aws.s3
+	branch = refs/heads/master
