@@ -19546,3 +19546,7 @@
 	url = https://github.com/conda-forge/r-mcmcglmm-feedstock.git
 	path = feedstocks/r-mcmcglmm
 	branch = refs/heads/master
+[submodule "freud"]
+	url = https://github.com/conda-forge/freud-feedstock.git
+	path = feedstocks/freud
+	branch = refs/heads/master
