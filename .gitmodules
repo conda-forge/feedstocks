@@ -19554,3 +19554,7 @@
 	url = https://github.com/conda-forge/fletcher-feedstock.git
 	path = feedstocks/fletcher
 	branch = refs/heads/master
+[submodule "openmeeg"]
+	url = https://github.com/conda-forge/openmeeg-feedstock.git
+	path = feedstocks/openmeeg
+	branch = refs/heads/master
