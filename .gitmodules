@@ -19550,3 +19550,7 @@
 	url = https://github.com/conda-forge/freud-feedstock.git
 	path = feedstocks/freud
 	branch = refs/heads/master
+[submodule "fletcher"]
+	url = https://github.com/conda-forge/fletcher-feedstock.git
+	path = feedstocks/fletcher
+	branch = refs/heads/master
