@@ -19610,3 +19610,7 @@
 	url = https://github.com/conda-forge/mapclassify-feedstock.git
 	path = feedstocks/mapclassify
 	branch = refs/heads/master
+[submodule "mlconjug"]
+	url = https://github.com/conda-forge/mlconjug-feedstock.git
+	path = feedstocks/mlconjug
+	branch = refs/heads/master
