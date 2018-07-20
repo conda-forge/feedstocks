@@ -19706,3 +19706,7 @@
 	url = https://github.com/conda-forge/r-vdiffr-feedstock.git
 	path = feedstocks/r-vdiffr
 	branch = refs/heads/master
+[submodule "r-highlight"]
+	url = https://github.com/conda-forge/r-highlight-feedstock.git
+	path = feedstocks/r-highlight
+	branch = refs/heads/master
