@@ -19682,3 +19682,7 @@
 	url = https://github.com/conda-forge/ukcensusapi-feedstock.git
 	path = feedstocks/ukcensusapi
 	branch = refs/heads/master
+[submodule "ukpopulation"]
+	url = https://github.com/conda-forge/ukpopulation-feedstock.git
+	path = feedstocks/ukpopulation
+	branch = refs/heads/master
