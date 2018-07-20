@@ -19718,3 +19718,7 @@
 	url = https://github.com/conda-forge/r-cyclocomp-feedstock.git
 	path = feedstocks/r-cyclocomp
 	branch = refs/heads/master
+[submodule "r-tensr"]
+	url = https://github.com/conda-forge/r-tensr-feedstock.git
+	path = feedstocks/r-tensr
+	branch = refs/heads/master
