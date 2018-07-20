@@ -19734,3 +19734,7 @@
 	url = https://github.com/conda-forge/valgrind-feedstock.git
 	path = feedstocks/valgrind
 	branch = refs/heads/master
+[submodule "pyjnius"]
+	url = https://github.com/conda-forge/pyjnius-feedstock.git
+	path = feedstocks/pyjnius
+	branch = refs/heads/master
