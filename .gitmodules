@@ -19726,3 +19726,7 @@
 	url = https://github.com/conda-forge/r-remotes-feedstock.git
 	path = feedstocks/r-remotes
 	branch = refs/heads/master
+[submodule "r-ggeffects"]
+	url = https://github.com/conda-forge/r-ggeffects-feedstock.git
+	path = feedstocks/r-ggeffects
+	branch = refs/heads/master
