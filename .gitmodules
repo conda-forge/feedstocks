@@ -19730,3 +19730,7 @@
 	url = https://github.com/conda-forge/r-ggeffects-feedstock.git
 	path = feedstocks/r-ggeffects
 	branch = refs/heads/master
+[submodule "valgrind"]
+	url = https://github.com/conda-forge/valgrind-feedstock.git
+	path = feedstocks/valgrind
+	branch = refs/heads/master
