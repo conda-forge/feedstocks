@@ -19746,3 +19746,7 @@
 	url = https://github.com/conda-forge/outcome-feedstock.git
 	path = feedstocks/outcome
 	branch = refs/heads/master
+[submodule "r-sjplot"]
+	url = https://github.com/conda-forge/r-sjplot-feedstock.git
+	path = feedstocks/r-sjplot
+	branch = refs/heads/master
