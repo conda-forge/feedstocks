@@ -19642,3 +19642,7 @@
 	url = https://github.com/conda-forge/r-fontliberation-feedstock.git
 	path = feedstocks/r-fontliberation
 	branch = refs/heads/master
+[submodule "r-fontquiver"]
+	url = https://github.com/conda-forge/r-fontquiver-feedstock.git
+	path = feedstocks/r-fontquiver
+	branch = refs/heads/master
