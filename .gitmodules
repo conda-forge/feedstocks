@@ -19562,3 +19562,7 @@
 	url = https://github.com/conda-forge/cadquery-feedstock.git
 	path = feedstocks/cadquery
 	branch = refs/heads/master
+[submodule "azure-storage-blob"]
+	url = https://github.com/conda-forge/azure-storage-blob-feedstock.git
+	path = feedstocks/azure-storage-blob
+	branch = refs/heads/master
