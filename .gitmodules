@@ -19558,3 +19558,7 @@
 	url = https://github.com/conda-forge/openmeeg-feedstock.git
 	path = feedstocks/openmeeg
 	branch = refs/heads/master
+[submodule "cadquery"]
+	url = https://github.com/conda-forge/cadquery-feedstock.git
+	path = feedstocks/cadquery
+	branch = refs/heads/master
