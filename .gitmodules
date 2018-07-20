@@ -19742,3 +19742,7 @@
 	url = https://github.com/conda-forge/advbumpversion-feedstock.git
 	path = feedstocks/advbumpversion
 	branch = refs/heads/master
+[submodule "outcome"]
+	url = https://github.com/conda-forge/outcome-feedstock.git
+	path = feedstocks/outcome
+	branch = refs/heads/master
