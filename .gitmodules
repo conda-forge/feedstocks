@@ -19650,3 +19650,7 @@
 	url = https://github.com/conda-forge/resonate-feedstock.git
 	path = feedstocks/resonate
 	branch = refs/heads/master
+[submodule "scikit-fuzzy"]
+	url = https://github.com/conda-forge/scikit-fuzzy-feedstock.git
+	path = feedstocks/scikit-fuzzy
+	branch = refs/heads/master
