@@ -19606,3 +19606,7 @@
 	url = https://github.com/conda-forge/l18n-feedstock.git
 	path = feedstocks/l18n
 	branch = refs/heads/master
+[submodule "mapclassify"]
+	url = https://github.com/conda-forge/mapclassify-feedstock.git
+	path = feedstocks/mapclassify
+	branch = refs/heads/master
