@@ -19566,3 +19566,7 @@
 	url = https://github.com/conda-forge/azure-storage-blob-feedstock.git
 	path = feedstocks/azure-storage-blob
 	branch = refs/heads/master
+[submodule "azure-storage-common"]
+	url = https://github.com/conda-forge/azure-storage-common-feedstock.git
+	path = feedstocks/azure-storage-common
+	branch = refs/heads/master
