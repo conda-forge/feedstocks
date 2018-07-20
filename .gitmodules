@@ -19694,3 +19694,7 @@
 	url = https://github.com/conda-forge/viscm-feedstock.git
 	path = feedstocks/viscm
 	branch = refs/heads/master
+[submodule "desdeo-vis"]
+	url = https://github.com/conda-forge/desdeo-vis-feedstock.git
+	path = feedstocks/desdeo-vis
+	branch = refs/heads/master
