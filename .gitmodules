@@ -19662,3 +19662,7 @@
 	url = https://github.com/conda-forge/sphinxtesters-feedstock.git
 	path = feedstocks/sphinxtesters
 	branch = refs/heads/master
+[submodule "starry"]
+	url = https://github.com/conda-forge/starry-feedstock.git
+	path = feedstocks/starry
+	branch = refs/heads/master
