@@ -19574,3 +19574,7 @@
 	url = https://github.com/conda-forge/azure-storage-file-feedstock.git
 	path = feedstocks/azure-storage-file
 	branch = refs/heads/master
+[submodule "azure-storage-nspkg"]
+	url = https://github.com/conda-forge/azure-storage-nspkg-feedstock.git
+	path = feedstocks/azure-storage-nspkg
+	branch = refs/heads/master
