@@ -19686,3 +19686,7 @@
 	url = https://github.com/conda-forge/ukpopulation-feedstock.git
 	path = feedstocks/ukpopulation
 	branch = refs/heads/master
+[submodule "vacumm-data"]
+	url = https://github.com/conda-forge/vacumm-data-feedstock.git
+	path = feedstocks/vacumm-data
+	branch = refs/heads/master
