@@ -19738,3 +19738,7 @@
 	url = https://github.com/conda-forge/pyjnius-feedstock.git
 	path = feedstocks/pyjnius
 	branch = refs/heads/master
+[submodule "advbumpversion"]
+	url = https://github.com/conda-forge/advbumpversion-feedstock.git
+	path = feedstocks/advbumpversion
+	branch = refs/heads/master
