@@ -19670,3 +19670,7 @@
 	url = https://github.com/conda-forge/stem-feedstock.git
 	path = feedstocks/stem
 	branch = refs/heads/master
+[submodule "texext"]
+	url = https://github.com/conda-forge/texext-feedstock.git
+	path = feedstocks/texext
+	branch = refs/heads/master
