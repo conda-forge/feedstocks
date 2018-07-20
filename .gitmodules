@@ -19626,3 +19626,7 @@
 	url = https://github.com/conda-forge/pandas_flavor-feedstock.git
 	path = feedstocks/pandas_flavor
 	branch = refs/heads/master
+[submodule "python-snap"]
+	url = https://github.com/conda-forge/python-snap-feedstock.git
+	path = feedstocks/python-snap
+	branch = refs/heads/master
