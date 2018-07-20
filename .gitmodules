@@ -19618,3 +19618,7 @@
 	url = https://github.com/conda-forge/mlpack-feedstock.git
 	path = feedstocks/mlpack
 	branch = refs/heads/master
+[submodule "neuron"]
+	url = https://github.com/conda-forge/neuron-feedstock.git
+	path = feedstocks/neuron
+	branch = refs/heads/master
