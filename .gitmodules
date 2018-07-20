@@ -19594,3 +19594,7 @@
 	url = https://github.com/conda-forge/googletrans-feedstock.git
 	path = feedstocks/googletrans
 	branch = refs/heads/master
+[submodule "gwosc"]
+	url = https://github.com/conda-forge/gwosc-feedstock.git
+	path = feedstocks/gwosc
+	branch = refs/heads/master
