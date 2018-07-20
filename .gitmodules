@@ -19630,3 +19630,7 @@
 	url = https://github.com/conda-forge/python-snap-feedstock.git
 	path = feedstocks/python-snap
 	branch = refs/heads/master
+[submodule "qpdf"]
+	url = https://github.com/conda-forge/qpdf-feedstock.git
+	path = feedstocks/qpdf
+	branch = refs/heads/master
