@@ -19710,3 +19710,7 @@
 	url = https://github.com/conda-forge/r-highlight-feedstock.git
 	path = feedstocks/r-highlight
 	branch = refs/heads/master
+[submodule "r-pkgdown"]
+	url = https://github.com/conda-forge/r-pkgdown-feedstock.git
+	path = feedstocks/r-pkgdown
+	branch = refs/heads/master
