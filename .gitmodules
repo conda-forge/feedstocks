@@ -19622,3 +19622,7 @@
 	url = https://github.com/conda-forge/neuron-feedstock.git
 	path = feedstocks/neuron
 	branch = refs/heads/master
+[submodule "pandas_flavor"]
+	url = https://github.com/conda-forge/pandas_flavor-feedstock.git
+	path = feedstocks/pandas_flavor
+	branch = refs/heads/master
