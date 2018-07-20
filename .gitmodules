@@ -19654,3 +19654,7 @@
 	url = https://github.com/conda-forge/scikit-fuzzy-feedstock.git
 	path = feedstocks/scikit-fuzzy
 	branch = refs/heads/master
+[submodule "sphinxbase"]
+	url = https://github.com/conda-forge/sphinxbase-feedstock.git
+	path = feedstocks/sphinxbase
+	branch = refs/heads/master
