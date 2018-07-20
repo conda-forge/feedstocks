@@ -19646,3 +19646,7 @@
 	url = https://github.com/conda-forge/r-fontquiver-feedstock.git
 	path = feedstocks/r-fontquiver
 	branch = refs/heads/master
+[submodule "resonate"]
+	url = https://github.com/conda-forge/resonate-feedstock.git
+	path = feedstocks/resonate
+	branch = refs/heads/master
