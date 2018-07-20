@@ -19690,3 +19690,7 @@
 	url = https://github.com/conda-forge/vacumm-data-feedstock.git
 	path = feedstocks/vacumm-data
 	branch = refs/heads/master
+[submodule "viscm"]
+	url = https://github.com/conda-forge/viscm-feedstock.git
+	path = feedstocks/viscm
+	branch = refs/heads/master
