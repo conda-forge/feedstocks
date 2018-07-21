@@ -19754,3 +19754,7 @@
 	url = https://github.com/conda-forge/spark-testing-base-feedstock.git
 	path = feedstocks/spark-testing-base
 	branch = refs/heads/master
+[submodule "r-cooccur"]
+	url = https://github.com/conda-forge/r-cooccur-feedstock.git
+	path = feedstocks/r-cooccur
+	branch = refs/heads/master
