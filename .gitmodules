@@ -19758,3 +19758,7 @@
 	url = https://github.com/conda-forge/r-cooccur-feedstock.git
 	path = feedstocks/r-cooccur
 	branch = refs/heads/master
+[submodule "dependencies"]
+	url = https://github.com/conda-forge/dependencies-feedstock.git
+	path = feedstocks/dependencies
+	branch = refs/heads/master
