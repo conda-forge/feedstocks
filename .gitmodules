@@ -19762,3 +19762,7 @@
 	url = https://github.com/conda-forge/dependencies-feedstock.git
 	path = feedstocks/dependencies
 	branch = refs/heads/master
+[submodule "colorclass"]
+	url = https://github.com/conda-forge/colorclass-feedstock.git
+	path = feedstocks/colorclass
+	branch = refs/heads/master
