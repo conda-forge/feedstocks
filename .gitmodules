@@ -19766,3 +19766,7 @@
 	url = https://github.com/conda-forge/colorclass-feedstock.git
 	path = feedstocks/colorclass
 	branch = refs/heads/master
+[submodule "pycountry"]
+	url = https://github.com/conda-forge/pycountry-feedstock.git
+	path = feedstocks/pycountry
+	branch = refs/heads/master
