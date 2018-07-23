@@ -19778,3 +19778,7 @@
 	url = https://github.com/conda-forge/geotext-feedstock.git
 	path = feedstocks/geotext
 	branch = refs/heads/master
+[submodule "pocketsphinx"]
+	url = https://github.com/conda-forge/pocketsphinx-feedstock.git
+	path = feedstocks/pocketsphinx
+	branch = refs/heads/master
