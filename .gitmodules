@@ -19770,3 +19770,7 @@
 	url = https://github.com/conda-forge/pycountry-feedstock.git
 	path = feedstocks/pycountry
 	branch = refs/heads/master
+[submodule "flask-apscheduler"]
+	url = https://github.com/conda-forge/flask-apscheduler-feedstock.git
+	path = feedstocks/flask-apscheduler
+	branch = refs/heads/master
