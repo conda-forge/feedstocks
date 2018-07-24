@@ -19802,3 +19802,7 @@
 	url = https://github.com/conda-forge/tableschema-feedstock.git
 	path = feedstocks/tableschema
 	branch = refs/heads/master
+[submodule "tabulator"]
+	url = https://github.com/conda-forge/tabulator-feedstock.git
+	path = feedstocks/tabulator
+	branch = refs/heads/master
