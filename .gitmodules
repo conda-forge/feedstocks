@@ -19794,3 +19794,7 @@
 	url = https://github.com/conda-forge/tidynamics-feedstock.git
 	path = feedstocks/tidynamics
 	branch = refs/heads/master
+[submodule "libsecret"]
+	url = https://github.com/conda-forge/libsecret-feedstock.git
+	path = feedstocks/libsecret
+	branch = refs/heads/master
