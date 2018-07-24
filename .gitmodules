@@ -19798,3 +19798,7 @@
 	url = https://github.com/conda-forge/libsecret-feedstock.git
 	path = feedstocks/libsecret
 	branch = refs/heads/master
+[submodule "tableschema"]
+	url = https://github.com/conda-forge/tableschema-feedstock.git
+	path = feedstocks/tableschema
+	branch = refs/heads/master
