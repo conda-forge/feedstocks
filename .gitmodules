@@ -19806,3 +19806,7 @@
 	url = https://github.com/conda-forge/tabulator-feedstock.git
 	path = feedstocks/tabulator
 	branch = refs/heads/master
+[submodule "datapackage"]
+	url = https://github.com/conda-forge/datapackage-feedstock.git
+	path = feedstocks/datapackage
+	branch = refs/heads/master
