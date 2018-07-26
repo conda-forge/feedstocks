@@ -19814,3 +19814,7 @@
 	url = https://github.com/conda-forge/mputil-feedstock.git
 	path = feedstocks/mputil
 	branch = refs/heads/master
+[submodule "ansiwrap"]
+	url = https://github.com/conda-forge/ansiwrap-feedstock.git
+	path = feedstocks/ansiwrap
+	branch = refs/heads/master
