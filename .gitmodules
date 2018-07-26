@@ -19818,3 +19818,7 @@
 	url = https://github.com/conda-forge/ansiwrap-feedstock.git
 	path = feedstocks/ansiwrap
 	branch = refs/heads/master
+[submodule "papermill"]
+	url = https://github.com/conda-forge/papermill-feedstock.git
+	path = feedstocks/papermill
+	branch = refs/heads/master
