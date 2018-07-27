@@ -19842,3 +19842,7 @@
 	url = https://github.com/conda-forge/noise-feedstock.git
 	path = feedstocks/noise
 	branch = refs/heads/master
+[submodule "pytest-regressions"]
+	url = https://github.com/conda-forge/pytest-regressions-feedstock.git
+	path = feedstocks/pytest-regressions
+	branch = refs/heads/master
