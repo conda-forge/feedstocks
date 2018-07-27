@@ -19838,3 +19838,7 @@
 	url = https://github.com/conda-forge/output_viewer-feedstock.git
 	path = feedstocks/output_viewer
 	branch = refs/heads/master
+[submodule "noise"]
+	url = https://github.com/conda-forge/noise-feedstock.git
+	path = feedstocks/noise
+	branch = refs/heads/master
