@@ -19854,3 +19854,7 @@
 	url = https://github.com/conda-forge/pickle5-feedstock.git
 	path = feedstocks/pickle5
 	branch = refs/heads/master
+[submodule "pyvcf"]
+	url = https://github.com/conda-forge/pyvcf-feedstock.git
+	path = feedstocks/pyvcf
+	branch = refs/heads/master
