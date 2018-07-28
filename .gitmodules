@@ -19850,3 +19850,7 @@
 	url = https://github.com/conda-forge/gidgethub-feedstock.git
 	path = feedstocks/gidgethub
 	branch = refs/heads/master
+[submodule "pickle5"]
+	url = https://github.com/conda-forge/pickle5-feedstock.git
+	path = feedstocks/pickle5
+	branch = refs/heads/master
