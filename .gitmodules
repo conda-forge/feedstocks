@@ -19862,3 +19862,7 @@
 	url = https://github.com/conda-forge/helics-feedstock.git
 	path = feedstocks/helics
 	branch = refs/heads/master
+[submodule "r-clustermq"]
+	url = https://github.com/conda-forge/r-clustermq-feedstock.git
+	path = feedstocks/r-clustermq
+	branch = refs/heads/master
