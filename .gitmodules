@@ -19858,3 +19858,7 @@
 	url = https://github.com/conda-forge/pyvcf-feedstock.git
 	path = feedstocks/pyvcf
 	branch = refs/heads/master
+[submodule "helics"]
+	url = https://github.com/conda-forge/helics-feedstock.git
+	path = feedstocks/helics
+	branch = refs/heads/master
