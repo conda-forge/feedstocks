@@ -19894,3 +19894,7 @@
 	url = https://github.com/conda-forge/r-bgmm-feedstock.git
 	path = feedstocks/r-bgmm
 	branch = refs/heads/master
+[submodule "configobj"]
+	url = https://github.com/conda-forge/configobj-feedstock.git
+	path = feedstocks/configobj
+	branch = refs/heads/master
