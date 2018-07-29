@@ -19878,3 +19878,7 @@
 	url = https://github.com/conda-forge/pytest-shutil-feedstock.git
 	path = feedstocks/pytest-shutil
 	branch = refs/heads/master
+[submodule "pyxdg"]
+	url = https://github.com/conda-forge/pyxdg-feedstock.git
+	path = feedstocks/pyxdg
+	branch = refs/heads/master
