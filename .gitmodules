@@ -19874,3 +19874,7 @@
 	url = https://github.com/conda-forge/pytest-fixture-config-feedstock.git
 	path = feedstocks/pytest-fixture-config
 	branch = refs/heads/master
+[submodule "pytest-shutil"]
+	url = https://github.com/conda-forge/pytest-shutil-feedstock.git
+	path = feedstocks/pytest-shutil
+	branch = refs/heads/master
