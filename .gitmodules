@@ -19910,3 +19910,7 @@
 	url = https://github.com/conda-forge/spglm-feedstock.git
 	path = feedstocks/spglm
 	branch = refs/heads/master
+[submodule "spreg"]
+	url = https://github.com/conda-forge/spreg-feedstock.git
+	path = feedstocks/spreg
+	branch = refs/heads/master
