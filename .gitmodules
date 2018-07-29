@@ -19890,3 +19890,7 @@
 	url = https://github.com/conda-forge/r-mockery-feedstock.git
 	path = feedstocks/r-mockery
 	branch = refs/heads/master
+[submodule "r-bgmm"]
+	url = https://github.com/conda-forge/r-bgmm-feedstock.git
+	path = feedstocks/r-bgmm
+	branch = refs/heads/master
