@@ -19914,3 +19914,7 @@
 	url = https://github.com/conda-forge/spreg-feedstock.git
 	path = feedstocks/spreg
 	branch = refs/heads/master
+[submodule "libpysal"]
+	url = https://github.com/conda-forge/libpysal-feedstock.git
+	path = feedstocks/libpysal
+	branch = refs/heads/master
