@@ -19902,3 +19902,7 @@
 	url = https://github.com/conda-forge/pytest-virtualenv-feedstock.git
 	path = feedstocks/pytest-virtualenv
 	branch = refs/heads/master
+[submodule "mgwr"]
+	url = https://github.com/conda-forge/mgwr-feedstock.git
+	path = feedstocks/mgwr
+	branch = refs/heads/master
