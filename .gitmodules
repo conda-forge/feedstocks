@@ -19886,3 +19886,7 @@
 	url = https://github.com/conda-forge/r-drat-feedstock.git
 	path = feedstocks/r-drat
 	branch = refs/heads/master
+[submodule "r-mockery"]
+	url = https://github.com/conda-forge/r-mockery-feedstock.git
+	path = feedstocks/r-mockery
+	branch = refs/heads/master
