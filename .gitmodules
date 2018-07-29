@@ -19906,3 +19906,7 @@
 	url = https://github.com/conda-forge/mgwr-feedstock.git
 	path = feedstocks/mgwr
 	branch = refs/heads/master
+[submodule "spglm"]
+	url = https://github.com/conda-forge/spglm-feedstock.git
+	path = feedstocks/spglm
+	branch = refs/heads/master
