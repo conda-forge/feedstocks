@@ -19934,3 +19934,7 @@
 	url = https://github.com/conda-forge/threedigrid-feedstock.git
 	path = feedstocks/threedigrid
 	branch = refs/heads/master
+[submodule "conjure-python-client"]
+	url = https://github.com/conda-forge/conjure-python-client-feedstock.git
+	path = feedstocks/conjure-python-client
+	branch = refs/heads/master
