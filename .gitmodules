@@ -19918,3 +19918,7 @@
 	url = https://github.com/conda-forge/libpysal-feedstock.git
 	path = feedstocks/libpysal
 	branch = refs/heads/master
+[submodule "esda"]
+	url = https://github.com/conda-forge/esda-feedstock.git
+	path = feedstocks/esda
+	branch = refs/heads/master
