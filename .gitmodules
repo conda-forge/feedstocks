@@ -19922,3 +19922,7 @@
 	url = https://github.com/conda-forge/esda-feedstock.git
 	path = feedstocks/esda
 	branch = refs/heads/master
+[submodule "jsonref"]
+	url = https://github.com/conda-forge/jsonref-feedstock.git
+	path = feedstocks/jsonref
+	branch = refs/heads/master
