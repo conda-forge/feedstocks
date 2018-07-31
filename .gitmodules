@@ -19946,3 +19946,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-httpdomain-feedstock.git
 	path = feedstocks/sphinxcontrib-httpdomain
 	branch = refs/heads/master
+[submodule "r-aggregation"]
+	url = https://github.com/conda-forge/r-aggregation-feedstock.git
+	path = feedstocks/r-aggregation
+	branch = refs/heads/master
