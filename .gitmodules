@@ -19954,3 +19954,7 @@
 	url = https://github.com/conda-forge/bravado-feedstock.git
 	path = feedstocks/bravado
 	branch = refs/heads/master
+[submodule "miller"]
+	url = https://github.com/conda-forge/miller-feedstock.git
+	path = feedstocks/miller
+	branch = refs/heads/master
