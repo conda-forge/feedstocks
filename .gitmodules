@@ -19950,3 +19950,7 @@
 	url = https://github.com/conda-forge/r-aggregation-feedstock.git
 	path = feedstocks/r-aggregation
 	branch = refs/heads/master
+[submodule "bravado"]
+	url = https://github.com/conda-forge/bravado-feedstock.git
+	path = feedstocks/bravado
+	branch = refs/heads/master
