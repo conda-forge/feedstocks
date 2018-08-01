@@ -19974,3 +19974,7 @@
 	url = https://github.com/conda-forge/cleo-feedstock.git
 	path = feedstocks/cleo
 	branch = refs/heads/master
+[submodule "mdsplus"]
+	url = https://github.com/conda-forge/mdsplus-feedstock.git
+	path = feedstocks/mdsplus
+	branch = refs/heads/master
