@@ -19966,3 +19966,7 @@
 	url = https://github.com/conda-forge/pytest-aiohttp-feedstock.git
 	path = feedstocks/pytest-aiohttp
 	branch = refs/heads/master
+[submodule "pdfrw"]
+	url = https://github.com/conda-forge/pdfrw-feedstock.git
+	path = feedstocks/pdfrw
+	branch = refs/heads/master
