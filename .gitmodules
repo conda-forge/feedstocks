@@ -19958,3 +19958,7 @@
 	url = https://github.com/conda-forge/miller-feedstock.git
 	path = feedstocks/miller
 	branch = refs/heads/master
+[submodule "falcon-auth"]
+	url = https://github.com/conda-forge/falcon-auth-feedstock.git
+	path = feedstocks/falcon-auth
+	branch = refs/heads/master
