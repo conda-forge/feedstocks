@@ -19986,3 +19986,7 @@
 	url = https://github.com/conda-forge/trouve-feedstock.git
 	path = feedstocks/trouve
 	branch = refs/heads/master
+[submodule "gwdatafind"]
+	url = https://github.com/conda-forge/gwdatafind-feedstock.git
+	path = feedstocks/gwdatafind
+	branch = refs/heads/master
