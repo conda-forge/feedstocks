@@ -19998,3 +19998,7 @@
 	url = https://github.com/conda-forge/existdb-feedstock.git
 	path = feedstocks/existdb
 	branch = refs/heads/master
+[submodule "ligo-gracedb"]
+	url = https://github.com/conda-forge/ligo-gracedb-feedstock.git
+	path = feedstocks/ligo-gracedb
+	branch = refs/heads/master
