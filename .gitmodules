@@ -19994,3 +19994,7 @@
 	url = https://github.com/conda-forge/dqsegdb2-feedstock.git
 	path = feedstocks/dqsegdb2
 	branch = refs/heads/master
+[submodule "existdb"]
+	url = https://github.com/conda-forge/existdb-feedstock.git
+	path = feedstocks/existdb
+	branch = refs/heads/master
