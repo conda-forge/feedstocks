@@ -20002,3 +20002,7 @@
 	url = https://github.com/conda-forge/ligo-gracedb-feedstock.git
 	path = feedstocks/ligo-gracedb
 	branch = refs/heads/master
+[submodule "sphinxcontrib-srclinks"]
+	url = https://github.com/conda-forge/sphinxcontrib-srclinks-feedstock.git
+	path = feedstocks/sphinxcontrib-srclinks
+	branch = refs/heads/master
