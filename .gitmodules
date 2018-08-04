@@ -20010,3 +20010,7 @@
 	url = https://github.com/conda-forge/r-dbplot-feedstock.git
 	path = feedstocks/r-dbplot
 	branch = refs/heads/master
+[submodule "pytest-picked"]
+	url = https://github.com/conda-forge/pytest-picked-feedstock.git
+	path = feedstocks/pytest-picked
+	branch = refs/heads/master
