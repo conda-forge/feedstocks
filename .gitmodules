@@ -20026,3 +20026,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-openapi-feedstock.git
 	path = feedstocks/sphinxcontrib-openapi
 	branch = refs/heads/master
+[submodule "flask_table"]
+	url = https://github.com/conda-forge/flask_table-feedstock.git
+	path = feedstocks/flask_table
+	branch = refs/heads/master
