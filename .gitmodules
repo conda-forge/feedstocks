@@ -20022,3 +20022,7 @@
 	url = https://github.com/conda-forge/potranslator-feedstock.git
 	path = feedstocks/potranslator
 	branch = refs/heads/master
+[submodule "sphinxcontrib-openapi"]
+	url = https://github.com/conda-forge/sphinxcontrib-openapi-feedstock.git
+	path = feedstocks/sphinxcontrib-openapi
+	branch = refs/heads/master
