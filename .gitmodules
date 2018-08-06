@@ -20042,3 +20042,7 @@
 	url = https://github.com/conda-forge/lightkurve-feedstock.git
 	path = feedstocks/lightkurve
 	branch = refs/heads/master
+[submodule "oktopus"]
+	url = https://github.com/conda-forge/oktopus-feedstock.git
+	path = feedstocks/oktopus
+	branch = refs/heads/master
