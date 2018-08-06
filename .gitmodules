@@ -20038,3 +20038,7 @@
 	url = https://github.com/conda-forge/neurosynchro-feedstock.git
 	path = feedstocks/neurosynchro
 	branch = refs/heads/master
+[submodule "lightkurve"]
+	url = https://github.com/conda-forge/lightkurve-feedstock.git
+	path = feedstocks/lightkurve
+	branch = refs/heads/master
