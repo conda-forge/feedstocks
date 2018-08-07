@@ -20066,3 +20066,7 @@
 	url = https://github.com/conda-forge/r-dosefinding-feedstock.git
 	path = feedstocks/r-dosefinding
 	branch = refs/heads/master
+[submodule "r-randomforestsrc"]
+	url = https://github.com/conda-forge/r-randomforestsrc-feedstock.git
+	path = feedstocks/r-randomforestsrc
+	branch = refs/heads/master
