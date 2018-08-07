@@ -20070,3 +20070,7 @@
 	url = https://github.com/conda-forge/r-randomforestsrc-feedstock.git
 	path = feedstocks/r-randomforestsrc
 	branch = refs/heads/master
+[submodule "r-bcrocsurface"]
+	url = https://github.com/conda-forge/r-bcrocsurface-feedstock.git
+	path = feedstocks/r-bcrocsurface
+	branch = refs/heads/master
