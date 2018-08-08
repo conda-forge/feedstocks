@@ -20086,3 +20086,7 @@
 	url = https://github.com/conda-forge/r-biclust-feedstock.git
 	path = feedstocks/r-biclust
 	branch = refs/heads/master
+[submodule "r-smoothie"]
+	url = https://github.com/conda-forge/r-smoothie-feedstock.git
+	path = feedstocks/r-smoothie
+	branch = refs/heads/master
