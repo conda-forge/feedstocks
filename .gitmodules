@@ -20118,3 +20118,7 @@
 	url = https://github.com/conda-forge/r-spatialvx-feedstock.git
 	path = feedstocks/r-spatialvx
 	branch = refs/heads/master
+[submodule "r-genetics"]
+	url = https://github.com/conda-forge/r-genetics-feedstock.git
+	path = feedstocks/r-genetics
+	branch = refs/heads/master
