@@ -20098,3 +20098,7 @@
 	url = https://github.com/conda-forge/r-divemove-feedstock.git
 	path = feedstocks/r-divemove
 	branch = refs/heads/master
+[submodule "r-sel"]
+	url = https://github.com/conda-forge/r-sel-feedstock.git
+	path = feedstocks/r-sel
+	branch = refs/heads/master
