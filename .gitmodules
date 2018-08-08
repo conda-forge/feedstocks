@@ -20106,3 +20106,7 @@
 	url = https://github.com/conda-forge/r-startr-feedstock.git
 	path = feedstocks/r-startr
 	branch = refs/heads/master
+[submodule "r-unireg"]
+	url = https://github.com/conda-forge/r-unireg-feedstock.git
+	path = feedstocks/r-unireg
+	branch = refs/heads/master
