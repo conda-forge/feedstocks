@@ -20114,3 +20114,7 @@
 	url = https://github.com/conda-forge/r-sqn-feedstock.git
 	path = feedstocks/r-sqn
 	branch = refs/heads/master
+[submodule "r-spatialvx"]
+	url = https://github.com/conda-forge/r-spatialvx-feedstock.git
+	path = feedstocks/r-spatialvx
+	branch = refs/heads/master
