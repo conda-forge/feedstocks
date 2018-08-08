@@ -20082,3 +20082,7 @@
 	url = https://github.com/conda-forge/r-additivitytests-feedstock.git
 	path = feedstocks/r-additivitytests
 	branch = refs/heads/master
+[submodule "r-biclust"]
+	url = https://github.com/conda-forge/r-biclust-feedstock.git
+	path = feedstocks/r-biclust
+	branch = refs/heads/master
