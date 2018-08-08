@@ -20090,3 +20090,7 @@
 	url = https://github.com/conda-forge/r-smoothie-feedstock.git
 	path = feedstocks/r-smoothie
 	branch = refs/heads/master
+[submodule "r-turboem"]
+	url = https://github.com/conda-forge/r-turboem-feedstock.git
+	path = feedstocks/r-turboem
+	branch = refs/heads/master
