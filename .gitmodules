@@ -20138,3 +20138,7 @@
 	url = https://github.com/conda-forge/pytest-icdiff-feedstock.git
 	path = feedstocks/pytest-icdiff
 	branch = refs/heads/master
+[submodule "srm"]
+	url = https://github.com/conda-forge/srm-feedstock.git
+	path = feedstocks/srm
+	branch = refs/heads/master
