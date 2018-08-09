@@ -20134,3 +20134,7 @@
 	url = https://github.com/conda-forge/icdiff-feedstock.git
 	path = feedstocks/icdiff
 	branch = refs/heads/master
+[submodule "pytest-icdiff"]
+	url = https://github.com/conda-forge/pytest-icdiff-feedstock.git
+	path = feedstocks/pytest-icdiff
+	branch = refs/heads/master
