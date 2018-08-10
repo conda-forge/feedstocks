@@ -20146,3 +20146,7 @@
 	url = https://github.com/conda-forge/gwyfile-feedstock.git
 	path = feedstocks/gwyfile
 	branch = refs/heads/master
+[submodule "py3c"]
+	url = https://github.com/conda-forge/py3c-feedstock.git
+	path = feedstocks/py3c
+	branch = refs/heads/master
