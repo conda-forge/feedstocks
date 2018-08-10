@@ -20150,3 +20150,7 @@
 	url = https://github.com/conda-forge/py3c-feedstock.git
 	path = feedstocks/py3c
 	branch = refs/heads/master
+[submodule "shap"]
+	url = https://github.com/conda-forge/shap-feedstock.git
+	path = feedstocks/shap
+	branch = refs/heads/master
