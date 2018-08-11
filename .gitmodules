@@ -20158,3 +20158,7 @@
 	url = https://github.com/conda-forge/findutils-feedstock.git
 	path = feedstocks/findutils
 	branch = refs/heads/master
+[submodule "sphinxcontrib-httpexample"]
+	url = https://github.com/conda-forge/sphinxcontrib-httpexample-feedstock.git
+	path = feedstocks/sphinxcontrib-httpexample
+	branch = refs/heads/master
