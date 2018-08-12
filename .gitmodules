@@ -20242,3 +20242,7 @@
 	url = https://github.com/conda-forge/r-europepmc-feedstock.git
 	path = feedstocks/r-europepmc
 	branch = refs/heads/master
+[submodule "r-filesstrings"]
+	url = https://github.com/conda-forge/r-filesstrings-feedstock.git
+	path = feedstocks/r-filesstrings
+	branch = refs/heads/master
