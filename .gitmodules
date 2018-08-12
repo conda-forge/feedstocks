@@ -20210,3 +20210,7 @@
 	url = https://github.com/conda-forge/r-treeman-feedstock.git
 	path = feedstocks/r-treeman
 	branch = refs/heads/master
+[submodule "r-rly"]
+	url = https://github.com/conda-forge/r-rly-feedstock.git
+	path = feedstocks/r-rly
+	branch = refs/heads/master
