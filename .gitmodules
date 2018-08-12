@@ -20262,3 +20262,7 @@
 	url = https://github.com/conda-forge/r-support-feedstock.git
 	path = feedstocks/r-support
 	branch = refs/heads/master
+[submodule "r-waterfalls"]
+	url = https://github.com/conda-forge/r-waterfalls-feedstock.git
+	path = feedstocks/r-waterfalls
+	branch = refs/heads/master
