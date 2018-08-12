@@ -20166,3 +20166,7 @@
 	url = https://github.com/conda-forge/nlohmann_json-feedstock.git
 	path = feedstocks/nlohmann_json
 	branch = refs/heads/master
+[submodule "binaryen"]
+	url = https://github.com/conda-forge/binaryen-feedstock.git
+	path = feedstocks/binaryen
+	branch = refs/heads/master
