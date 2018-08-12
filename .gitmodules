@@ -20254,3 +20254,7 @@
 	url = https://github.com/conda-forge/r-slim-feedstock.git
 	path = feedstocks/r-slim
 	branch = refs/heads/master
+[submodule "r-kerasformula"]
+	url = https://github.com/conda-forge/r-kerasformula-feedstock.git
+	path = feedstocks/r-kerasformula
+	branch = refs/heads/master
