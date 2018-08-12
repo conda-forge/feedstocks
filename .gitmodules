@@ -20214,3 +20214,7 @@
 	url = https://github.com/conda-forge/r-rly-feedstock.git
 	path = feedstocks/r-rly
 	branch = refs/heads/master
+[submodule "r-ggconf"]
+	url = https://github.com/conda-forge/r-ggconf-feedstock.git
+	path = feedstocks/r-ggconf
+	branch = refs/heads/master
