@@ -20266,3 +20266,7 @@
 	url = https://github.com/conda-forge/r-waterfalls-feedstock.git
 	path = feedstocks/r-waterfalls
 	branch = refs/heads/master
+[submodule "r-zip"]
+	url = https://github.com/conda-forge/r-zip-feedstock.git
+	path = feedstocks/r-zip
+	branch = refs/heads/master
