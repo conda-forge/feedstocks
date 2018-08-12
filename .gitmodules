@@ -20250,3 +20250,7 @@
 	url = https://github.com/conda-forge/r-randtoolbox-feedstock.git
 	path = feedstocks/r-randtoolbox
 	branch = refs/heads/master
+[submodule "r-slim"]
+	url = https://github.com/conda-forge/r-slim-feedstock.git
+	path = feedstocks/r-slim
+	branch = refs/heads/master
