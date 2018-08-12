@@ -20178,3 +20178,7 @@
 	url = https://github.com/conda-forge/deprecation-factory-feedstock.git
 	path = feedstocks/deprecation-factory
 	branch = refs/heads/master
+[submodule "apache-beam"]
+	url = https://github.com/conda-forge/apache-beam-feedstock.git
+	path = feedstocks/apache-beam
+	branch = refs/heads/master
