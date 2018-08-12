@@ -20238,3 +20238,7 @@
 	url = https://github.com/conda-forge/r-rngwell-feedstock.git
 	path = feedstocks/r-rngwell
 	branch = refs/heads/master
+[submodule "r-europepmc"]
+	url = https://github.com/conda-forge/r-europepmc-feedstock.git
+	path = feedstocks/r-europepmc
+	branch = refs/heads/master
