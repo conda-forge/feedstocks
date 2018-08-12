@@ -20174,3 +20174,7 @@
 	url = https://github.com/conda-forge/wabt-feedstock.git
 	path = feedstocks/wabt
 	branch = refs/heads/master
+[submodule "deprecation-factory"]
+	url = https://github.com/conda-forge/deprecation-factory-feedstock.git
+	path = feedstocks/deprecation-factory
+	branch = refs/heads/master
