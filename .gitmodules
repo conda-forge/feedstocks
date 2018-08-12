@@ -20162,3 +20162,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-httpexample-feedstock.git
 	path = feedstocks/sphinxcontrib-httpexample
 	branch = refs/heads/master
+[submodule "nlohmann_json"]
+	url = https://github.com/conda-forge/nlohmann_json-feedstock.git
+	path = feedstocks/nlohmann_json
+	branch = refs/heads/master
