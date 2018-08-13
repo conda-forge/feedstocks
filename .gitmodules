@@ -20278,3 +20278,7 @@
 	url = https://github.com/conda-forge/scripting-feedstock.git
 	path = feedstocks/scripting
 	branch = refs/heads/master
+[submodule "r-officer"]
+	url = https://github.com/conda-forge/r-officer-feedstock.git
+	path = feedstocks/r-officer
+	branch = refs/heads/master
