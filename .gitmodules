@@ -20318,3 +20318,7 @@
 	url = https://github.com/conda-forge/dockerpty-feedstock.git
 	path = feedstocks/dockerpty
 	branch = refs/heads/master
+[submodule "r-pals"]
+	url = https://github.com/conda-forge/r-pals-feedstock.git
+	path = feedstocks/r-pals
+	branch = refs/heads/master
