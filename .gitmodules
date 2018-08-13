@@ -20330,3 +20330,7 @@
 	url = https://github.com/conda-forge/r-treatmentselection-feedstock.git
 	path = feedstocks/r-treatmentselection
 	branch = refs/heads/master
+[submodule "r-paletteer"]
+	url = https://github.com/conda-forge/r-paletteer-feedstock.git
+	path = feedstocks/r-paletteer
+	branch = refs/heads/master
