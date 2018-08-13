@@ -20326,3 +20326,7 @@
 	url = https://github.com/conda-forge/r-medicalrisk-feedstock.git
 	path = feedstocks/r-medicalrisk
 	branch = refs/heads/master
+[submodule "r-treatmentselection"]
+	url = https://github.com/conda-forge/r-treatmentselection-feedstock.git
+	path = feedstocks/r-treatmentselection
+	branch = refs/heads/master
