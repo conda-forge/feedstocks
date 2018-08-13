@@ -20290,3 +20290,7 @@
 	url = https://github.com/conda-forge/r-palr-feedstock.git
 	path = feedstocks/r-palr
 	branch = refs/heads/master
+[submodule "r-jcolors"]
+	url = https://github.com/conda-forge/r-jcolors-feedstock.git
+	path = feedstocks/r-jcolors
+	branch = refs/heads/master
