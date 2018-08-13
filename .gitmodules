@@ -20286,3 +20286,7 @@
 	url = https://github.com/conda-forge/r-scico-feedstock.git
 	path = feedstocks/r-scico
 	branch = refs/heads/master
+[submodule "r-palr"]
+	url = https://github.com/conda-forge/r-palr-feedstock.git
+	path = feedstocks/r-palr
+	branch = refs/heads/master
