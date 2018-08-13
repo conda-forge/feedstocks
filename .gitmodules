@@ -20322,3 +20322,7 @@
 	url = https://github.com/conda-forge/r-pals-feedstock.git
 	path = feedstocks/r-pals
 	branch = refs/heads/master
+[submodule "r-medicalrisk"]
+	url = https://github.com/conda-forge/r-medicalrisk-feedstock.git
+	path = feedstocks/r-medicalrisk
+	branch = refs/heads/master
