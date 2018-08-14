@@ -20342,3 +20342,7 @@
 	url = https://github.com/conda-forge/r-reprex-feedstock.git
 	path = feedstocks/r-reprex
 	branch = refs/heads/master
+[submodule "docker-compose"]
+	url = https://github.com/conda-forge/docker-compose-feedstock.git
+	path = feedstocks/docker-compose
+	branch = refs/heads/master
