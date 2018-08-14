@@ -20338,3 +20338,7 @@
 	url = https://github.com/conda-forge/r-clipr-feedstock.git
 	path = feedstocks/r-clipr
 	branch = refs/heads/master
+[submodule "r-reprex"]
+	url = https://github.com/conda-forge/r-reprex-feedstock.git
+	path = feedstocks/r-reprex
+	branch = refs/heads/master
