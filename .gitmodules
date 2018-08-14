@@ -20346,3 +20346,7 @@
 	url = https://github.com/conda-forge/docker-compose-feedstock.git
 	path = feedstocks/docker-compose
 	branch = refs/heads/master
+[submodule "pycamhd"]
+	url = https://github.com/conda-forge/pycamhd-feedstock.git
+	path = feedstocks/pycamhd
+	branch = refs/heads/master
