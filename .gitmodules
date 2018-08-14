@@ -20350,3 +20350,7 @@
 	url = https://github.com/conda-forge/pycamhd-feedstock.git
 	path = feedstocks/pycamhd
 	branch = refs/heads/master
+[submodule "m2r"]
+	url = https://github.com/conda-forge/m2r-feedstock.git
+	path = feedstocks/m2r
+	branch = refs/heads/master
