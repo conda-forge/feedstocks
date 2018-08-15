@@ -20378,3 +20378,7 @@
 	url = https://github.com/conda-forge/r-superpc-feedstock.git
 	path = feedstocks/r-superpc
 	branch = refs/heads/master
+[submodule "r-subselect"]
+	url = https://github.com/conda-forge/r-subselect-feedstock.git
+	path = feedstocks/r-subselect
+	branch = refs/heads/master
