@@ -20354,3 +20354,7 @@
 	url = https://github.com/conda-forge/m2r-feedstock.git
 	path = feedstocks/m2r
 	branch = refs/heads/master
+[submodule "fdb"]
+	url = https://github.com/conda-forge/fdb-feedstock.git
+	path = feedstocks/fdb
+	branch = refs/heads/master
