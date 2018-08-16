@@ -20386,3 +20386,7 @@
 	url = https://github.com/conda-forge/r-ps-feedstock.git
 	path = feedstocks/r-ps
 	branch = refs/heads/master
+[submodule "falcon-require-https"]
+	url = https://github.com/conda-forge/falcon-require-https-feedstock.git
+	path = feedstocks/falcon-require-https
+	branch = refs/heads/master
