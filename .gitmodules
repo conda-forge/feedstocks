@@ -20414,3 +20414,7 @@
 	url = https://github.com/conda-forge/cudatoolkit-dev-feedstock.git
 	path = feedstocks/cudatoolkit-dev
 	branch = refs/heads/master
+[submodule "depi"]
+	url = https://github.com/conda-forge/depi-feedstock.git
+	path = feedstocks/depi
+	branch = refs/heads/master
