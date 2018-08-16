@@ -20406,3 +20406,7 @@
 	url = https://github.com/conda-forge/c-ares-feedstock.git
 	path = feedstocks/c-ares
 	branch = refs/heads/master
+[submodule "bw2speedups"]
+	url = https://github.com/conda-forge/bw2speedups-feedstock.git
+	path = feedstocks/bw2speedups
+	branch = refs/heads/master
