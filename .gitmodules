@@ -20410,3 +20410,7 @@
 	url = https://github.com/conda-forge/bw2speedups-feedstock.git
 	path = feedstocks/bw2speedups
 	branch = refs/heads/master
+[submodule "cudatoolkit-dev"]
+	url = https://github.com/conda-forge/cudatoolkit-dev-feedstock.git
+	path = feedstocks/cudatoolkit-dev
+	branch = refs/heads/master
