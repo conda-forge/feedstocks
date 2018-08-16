@@ -20402,3 +20402,7 @@
 	url = https://github.com/conda-forge/wgetter-feedstock.git
 	path = feedstocks/wgetter
 	branch = refs/heads/master
+[submodule "c-ares"]
+	url = https://github.com/conda-forge/c-ares-feedstock.git
+	path = feedstocks/c-ares
+	branch = refs/heads/master
