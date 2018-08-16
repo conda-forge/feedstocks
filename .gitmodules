@@ -20418,3 +20418,7 @@
 	url = https://github.com/conda-forge/depi-feedstock.git
 	path = feedstocks/depi
 	branch = refs/heads/master
+[submodule "hdmedians"]
+	url = https://github.com/conda-forge/hdmedians-feedstock.git
+	path = feedstocks/hdmedians
+	branch = refs/heads/master
