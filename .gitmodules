@@ -20434,3 +20434,7 @@
 	url = https://github.com/conda-forge/nds2-client-feedstock.git
 	path = feedstocks/nds2-client
 	branch = refs/heads/master
+[submodule "sniffio"]
+	url = https://github.com/conda-forge/sniffio-feedstock.git
+	path = feedstocks/sniffio
+	branch = refs/heads/master
