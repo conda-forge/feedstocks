@@ -20430,3 +20430,7 @@
 	url = https://github.com/conda-forge/nds2-client-swig-feedstock.git
 	path = feedstocks/nds2-client-swig
 	branch = refs/heads/master
+[submodule "nds2-client"]
+	url = https://github.com/conda-forge/nds2-client-feedstock.git
+	path = feedstocks/nds2-client
+	branch = refs/heads/master
