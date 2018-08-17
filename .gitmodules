@@ -20442,3 +20442,7 @@
 	url = https://github.com/conda-forge/pygelf-feedstock.git
 	path = feedstocks/pygelf
 	branch = refs/heads/master
+[submodule "pyqode.qt"]
+	url = https://github.com/conda-forge/pyqode.qt-feedstock.git
+	path = feedstocks/pyqode.qt
+	branch = refs/heads/master
