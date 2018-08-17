@@ -20438,3 +20438,7 @@
 	url = https://github.com/conda-forge/sniffio-feedstock.git
 	path = feedstocks/sniffio
 	branch = refs/heads/master
+[submodule "pygelf"]
+	url = https://github.com/conda-forge/pygelf-feedstock.git
+	path = feedstocks/pygelf
+	branch = refs/heads/master
