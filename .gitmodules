@@ -20426,3 +20426,7 @@
 	url = https://github.com/conda-forge/r-magicaxis-feedstock.git
 	path = feedstocks/r-magicaxis
 	branch = refs/heads/master
+[submodule "nds2-client-swig"]
+	url = https://github.com/conda-forge/nds2-client-swig-feedstock.git
+	path = feedstocks/nds2-client-swig
+	branch = refs/heads/master
