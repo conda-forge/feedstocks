@@ -20450,3 +20450,7 @@
 	url = https://github.com/conda-forge/lsof-feedstock.git
 	path = feedstocks/lsof
 	branch = refs/heads/master
+[submodule "deps"]
+	url = https://github.com/conda-forge/deps-feedstock.git
+	path = feedstocks/deps
+	branch = refs/heads/master
