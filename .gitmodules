@@ -20474,3 +20474,7 @@
 	url = https://github.com/conda-forge/braggedgemodeling-feedstock.git
 	path = feedstocks/braggedgemodeling
 	branch = refs/heads/master
+[submodule "gwpy"]
+	url = https://github.com/conda-forge/gwpy-feedstock.git
+	path = feedstocks/gwpy
+	branch = refs/heads/master
