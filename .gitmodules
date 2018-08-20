@@ -20486,3 +20486,7 @@
 	url = https://github.com/conda-forge/pyqode.core-feedstock.git
 	path = feedstocks/pyqode.core
 	branch = refs/heads/master
+[submodule "pywinauto"]
+	url = https://github.com/conda-forge/pywinauto-feedstock.git
+	path = feedstocks/pywinauto
+	branch = refs/heads/master
