@@ -20498,3 +20498,7 @@
 	url = https://github.com/conda-forge/grpcio-feedstock.git
 	path = feedstocks/grpcio
 	branch = refs/heads/master
+[submodule "pyjokes"]
+	url = https://github.com/conda-forge/pyjokes-feedstock.git
+	path = feedstocks/pyjokes
+	branch = refs/heads/master
