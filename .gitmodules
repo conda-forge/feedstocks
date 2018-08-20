@@ -20494,3 +20494,7 @@
 	url = https://github.com/conda-forge/python-xapian-feedstock.git
 	path = feedstocks/python-xapian
 	branch = refs/heads/master
+[submodule "xapian-core"]
+	url = https://github.com/conda-forge/xapian-core-feedstock.git
+	path = feedstocks/xapian-core
+	branch = refs/heads/master
