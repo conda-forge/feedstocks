@@ -20506,3 +20506,7 @@
 	url = https://github.com/conda-forge/dsfmt-feedstock.git
 	path = feedstocks/dsfmt
 	branch = refs/heads/master
+[submodule "pooch"]
+	url = https://github.com/conda-forge/pooch-feedstock.git
+	path = feedstocks/pooch
+	branch = refs/heads/master
