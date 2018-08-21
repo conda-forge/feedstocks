@@ -20502,3 +20502,7 @@
 	url = https://github.com/conda-forge/pyjokes-feedstock.git
 	path = feedstocks/pyjokes
 	branch = refs/heads/master
+[submodule "dsfmt"]
+	url = https://github.com/conda-forge/dsfmt-feedstock.git
+	path = feedstocks/dsfmt
+	branch = refs/heads/master
