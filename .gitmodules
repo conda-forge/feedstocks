@@ -20534,3 +20534,7 @@
 	url = https://github.com/conda-forge/compas-feedstock.git
 	path = feedstocks/compas
 	branch = refs/heads/master
+[submodule "beautysh"]
+	url = https://github.com/conda-forge/beautysh-feedstock.git
+	path = feedstocks/beautysh
+	branch = refs/heads/master
