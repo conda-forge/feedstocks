@@ -20550,3 +20550,7 @@
 	url = https://github.com/conda-forge/r-coop-feedstock.git
 	path = feedstocks/r-coop
 	branch = refs/heads/master
+[submodule "chemspipy"]
+	url = https://github.com/conda-forge/chemspipy-feedstock.git
+	path = feedstocks/chemspipy
+	branch = refs/heads/master
