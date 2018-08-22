@@ -20530,3 +20530,7 @@
 	url = https://github.com/conda-forge/r-magick-feedstock.git
 	path = feedstocks/r-magick
 	branch = refs/heads/master
+[submodule "compas"]
+	url = https://github.com/conda-forge/compas-feedstock.git
+	path = feedstocks/compas
+	branch = refs/heads/master
