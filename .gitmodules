@@ -20542,3 +20542,7 @@
 	url = https://github.com/conda-forge/mplcursors-feedstock.git
 	path = feedstocks/mplcursors
 	branch = refs/heads/master
+[submodule "jwcrypto"]
+	url = https://github.com/conda-forge/jwcrypto-feedstock.git
+	path = feedstocks/jwcrypto
+	branch = refs/heads/master
