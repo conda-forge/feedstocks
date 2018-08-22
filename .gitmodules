@@ -20546,3 +20546,7 @@
 	url = https://github.com/conda-forge/jwcrypto-feedstock.git
 	path = feedstocks/jwcrypto
 	branch = refs/heads/master
+[submodule "r-coop"]
+	url = https://github.com/conda-forge/r-coop-feedstock.git
+	path = feedstocks/r-coop
+	branch = refs/heads/master
