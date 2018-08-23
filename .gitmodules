@@ -20554,3 +20554,7 @@
 	url = https://github.com/conda-forge/chemspipy-feedstock.git
 	path = feedstocks/chemspipy
 	branch = refs/heads/master
+[submodule "junit-xml"]
+	url = https://github.com/conda-forge/junit-xml-feedstock.git
+	path = feedstocks/junit-xml
+	branch = refs/heads/master
