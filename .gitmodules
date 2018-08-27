@@ -20582,3 +20582,7 @@
 	url = https://github.com/conda-forge/python-jsonrpc-server-feedstock.git
 	path = feedstocks/python-jsonrpc-server
 	branch = refs/heads/master
+[submodule "priority"]
+	url = https://github.com/conda-forge/priority-feedstock.git
+	path = feedstocks/priority
+	branch = refs/heads/master
