@@ -20602,3 +20602,7 @@
 	url = https://github.com/conda-forge/yarn-api-client-feedstock.git
 	path = feedstocks/yarn-api-client
 	branch = refs/heads/master
+[submodule "tokei"]
+	url = https://github.com/conda-forge/tokei-feedstock.git
+	path = feedstocks/tokei
+	branch = refs/heads/master
