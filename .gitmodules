@@ -20598,3 +20598,7 @@
 	url = https://github.com/conda-forge/ibex-feedstock.git
 	path = feedstocks/ibex
 	branch = refs/heads/master
+[submodule "yarn-api-client"]
+	url = https://github.com/conda-forge/yarn-api-client-feedstock.git
+	path = feedstocks/yarn-api-client
+	branch = refs/heads/master
