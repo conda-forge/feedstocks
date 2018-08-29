@@ -20618,3 +20618,7 @@
 	url = https://github.com/conda-forge/atomsk-feedstock.git
 	path = feedstocks/atomsk
 	branch = refs/heads/master
+[submodule "fslpy"]
+	url = https://github.com/conda-forge/fslpy-feedstock.git
+	path = feedstocks/fslpy
+	branch = refs/heads/master
