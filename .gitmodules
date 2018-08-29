@@ -20626,3 +20626,7 @@
 	url = https://github.com/conda-forge/satsearch-feedstock.git
 	path = feedstocks/satsearch
 	branch = refs/heads/master
+[submodule "conda-forge-repodata-patches"]
+	url = https://github.com/conda-forge/conda-forge-repodata-patches-feedstock.git
+	path = feedstocks/conda-forge-repodata-patches
+	branch = refs/heads/master
