@@ -20634,3 +20634,7 @@
 	url = https://github.com/conda-forge/landlab-feedstock.git
 	path = feedstocks/landlab
 	branch = refs/heads/master
+[submodule "python-jose"]
+	url = https://github.com/conda-forge/python-jose-feedstock.git
+	path = feedstocks/python-jose
+	branch = refs/heads/master
