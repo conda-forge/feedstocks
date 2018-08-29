@@ -20622,3 +20622,7 @@
 	url = https://github.com/conda-forge/fslpy-feedstock.git
 	path = feedstocks/fslpy
 	branch = refs/heads/master
+[submodule "satsearch"]
+	url = https://github.com/conda-forge/satsearch-feedstock.git
+	path = feedstocks/satsearch
+	branch = refs/heads/master
