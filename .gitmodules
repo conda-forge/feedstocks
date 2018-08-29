@@ -20614,3 +20614,7 @@
 	url = https://github.com/conda-forge/pycryptodome-feedstock.git
 	path = feedstocks/pycryptodome
 	branch = refs/heads/master
+[submodule "atomsk"]
+	url = https://github.com/conda-forge/atomsk-feedstock.git
+	path = feedstocks/atomsk
+	branch = refs/heads/master
