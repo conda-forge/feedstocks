@@ -20630,3 +20630,7 @@
 	url = https://github.com/conda-forge/conda-forge-repodata-patches-feedstock.git
 	path = feedstocks/conda-forge-repodata-patches
 	branch = refs/heads/master
+[submodule "landlab"]
+	url = https://github.com/conda-forge/landlab-feedstock.git
+	path = feedstocks/landlab
+	branch = refs/heads/master
