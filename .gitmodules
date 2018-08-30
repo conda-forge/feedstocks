@@ -20650,3 +20650,7 @@
 	url = https://github.com/conda-forge/r-fansi-feedstock.git
 	path = feedstocks/r-fansi
 	branch = refs/heads/master
+[submodule "refet"]
+	url = https://github.com/conda-forge/refet-feedstock.git
+	path = feedstocks/refet
+	branch = refs/heads/master
