@@ -20670,3 +20670,7 @@
 	url = https://github.com/conda-forge/ldas-tools-al-feedstock.git
 	path = feedstocks/ldas-tools-al
 	branch = refs/heads/master
+[submodule "cdp"]
+	url = https://github.com/conda-forge/cdp-feedstock.git
+	path = feedstocks/cdp
+	branch = refs/heads/master
