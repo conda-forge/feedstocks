@@ -20666,3 +20666,7 @@
 	url = https://github.com/conda-forge/gpstime-feedstock.git
 	path = feedstocks/gpstime
 	branch = refs/heads/master
+[submodule "ldas-tools-al"]
+	url = https://github.com/conda-forge/ldas-tools-al-feedstock.git
+	path = feedstocks/ldas-tools-al
+	branch = refs/heads/master
