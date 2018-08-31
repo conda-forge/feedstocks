@@ -20662,3 +20662,7 @@
 	url = https://github.com/conda-forge/cis_interface-feedstock.git
 	path = feedstocks/cis_interface
 	branch = refs/heads/master
+[submodule "gpstime"]
+	url = https://github.com/conda-forge/gpstime-feedstock.git
+	path = feedstocks/gpstime
+	branch = refs/heads/master
