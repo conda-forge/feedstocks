@@ -20674,3 +20674,7 @@
 	url = https://github.com/conda-forge/cdp-feedstock.git
 	path = feedstocks/cdp
 	branch = refs/heads/master
+[submodule "xmitgcm"]
+	url = https://github.com/conda-forge/xmitgcm-feedstock.git
+	path = feedstocks/xmitgcm
+	branch = refs/heads/master
