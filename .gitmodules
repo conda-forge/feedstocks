@@ -20698,3 +20698,7 @@
 	url = https://github.com/conda-forge/jobs_done10-feedstock.git
 	path = feedstocks/jobs_done10
 	branch = refs/heads/master
+[submodule "mailer"]
+	url = https://github.com/conda-forge/mailer-feedstock.git
+	path = feedstocks/mailer
+	branch = refs/heads/master
