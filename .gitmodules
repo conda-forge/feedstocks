@@ -20710,3 +20710,7 @@
 	url = https://github.com/conda-forge/python-jenkins-feedstock.git
 	path = feedstocks/python-jenkins
 	branch = refs/heads/master
+[submodule "r-promises"]
+	url = https://github.com/conda-forge/r-promises-feedstock.git
+	path = feedstocks/r-promises
+	branch = refs/heads/master
