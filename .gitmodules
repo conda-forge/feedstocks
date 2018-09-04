@@ -20750,3 +20750,7 @@
 	url = https://github.com/conda-forge/gudhi-feedstock.git
 	path = feedstocks/gudhi
 	branch = refs/heads/master
+[submodule "stateplane"]
+	url = https://github.com/conda-forge/stateplane-feedstock.git
+	path = feedstocks/stateplane
+	branch = refs/heads/master
