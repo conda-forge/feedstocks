@@ -20738,3 +20738,7 @@
 	url = https://github.com/conda-forge/r-purrrlyr-feedstock.git
 	path = feedstocks/r-purrrlyr
 	branch = refs/heads/master
+[submodule "pyflame"]
+	url = https://github.com/conda-forge/pyflame-feedstock.git
+	path = feedstocks/pyflame
+	branch = refs/heads/master
