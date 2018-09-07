@@ -20766,3 +20766,7 @@
 	url = https://github.com/conda-forge/pymemcache-feedstock.git
 	path = feedstocks/pymemcache
 	branch = refs/heads/master
+[submodule "astral"]
+	url = https://github.com/conda-forge/astral-feedstock.git
+	path = feedstocks/astral
+	branch = refs/heads/master
