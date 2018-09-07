@@ -20774,3 +20774,7 @@
 	url = https://github.com/conda-forge/ecdsa-feedstock.git
 	path = feedstocks/ecdsa
 	branch = refs/heads/master
+[submodule "compiler-rt"]
+	url = https://github.com/conda-forge/compiler-rt-feedstock.git
+	path = feedstocks/compiler-rt
+	branch = refs/heads/master
