@@ -20770,3 +20770,7 @@
 	url = https://github.com/conda-forge/astral-feedstock.git
 	path = feedstocks/astral
 	branch = refs/heads/master
+[submodule "ecdsa"]
+	url = https://github.com/conda-forge/ecdsa-feedstock.git
+	path = feedstocks/ecdsa
+	branch = refs/heads/master
