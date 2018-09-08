@@ -20778,3 +20778,7 @@
 	url = https://github.com/conda-forge/compiler-rt-feedstock.git
 	path = feedstocks/compiler-rt
 	branch = refs/heads/master
+[submodule "click-log"]
+	url = https://github.com/conda-forge/click-log-feedstock.git
+	path = feedstocks/click-log
+	branch = refs/heads/master
