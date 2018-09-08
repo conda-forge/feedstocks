@@ -20790,3 +20790,7 @@
 	url = https://github.com/conda-forge/bashplotlib-feedstock.git
 	path = feedstocks/bashplotlib
 	branch = refs/heads/master
+[submodule "r-contfrac"]
+	url = https://github.com/conda-forge/r-contfrac-feedstock.git
+	path = feedstocks/r-contfrac
+	branch = refs/heads/master
