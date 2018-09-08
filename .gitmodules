@@ -20782,3 +20782,7 @@
 	url = https://github.com/conda-forge/click-log-feedstock.git
 	path = feedstocks/click-log
 	branch = refs/heads/master
+[submodule "pymt"]
+	url = https://github.com/conda-forge/pymt-feedstock.git
+	path = feedstocks/pymt
+	branch = refs/heads/master
