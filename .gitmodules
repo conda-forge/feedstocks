@@ -20818,3 +20818,7 @@
 	url = https://github.com/conda-forge/hyperopt-feedstock.git
 	path = feedstocks/hyperopt
 	branch = refs/heads/master
+[submodule "r-widyr"]
+	url = https://github.com/conda-forge/r-widyr-feedstock.git
+	path = feedstocks/r-widyr
+	branch = refs/heads/master
