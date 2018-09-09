@@ -20810,3 +20810,7 @@
 	url = https://github.com/conda-forge/child-feedstock.git
 	path = feedstocks/child
 	branch = refs/heads/master
+[submodule "r-infer"]
+	url = https://github.com/conda-forge/r-infer-feedstock.git
+	path = feedstocks/r-infer
+	branch = refs/heads/master
