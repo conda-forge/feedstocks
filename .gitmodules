@@ -20834,3 +20834,7 @@
 	url = https://github.com/conda-forge/skorch-feedstock.git
 	path = feedstocks/skorch
 	branch = refs/heads/master
+[submodule "r-yardstick"]
+	url = https://github.com/conda-forge/r-yardstick-feedstock.git
+	path = feedstocks/r-yardstick
+	branch = refs/heads/master
