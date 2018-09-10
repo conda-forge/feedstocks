@@ -20846,3 +20846,7 @@
 	url = https://github.com/conda-forge/dsnparse-feedstock.git
 	path = feedstocks/dsnparse
 	branch = refs/heads/master
+[submodule "nptdms"]
+	url = https://github.com/conda-forge/nptdms-feedstock.git
+	path = feedstocks/nptdms
+	branch = refs/heads/master
