@@ -20982,3 +20982,7 @@
 	url = https://github.com/conda-forge/shortuuid-feedstock.git
 	path = feedstocks/shortuuid
 	branch = refs/heads/master
+[submodule "telluric"]
+	url = https://github.com/conda-forge/telluric-feedstock.git
+	path = feedstocks/telluric
+	branch = refs/heads/master
