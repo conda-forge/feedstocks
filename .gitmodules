@@ -21006,3 +21006,7 @@
 	url = https://github.com/conda-forge/veusz-feedstock.git
 	path = feedstocks/veusz
 	branch = refs/heads/master
+[submodule "r-countrycode"]
+	url = https://github.com/conda-forge/r-countrycode-feedstock.git
+	path = feedstocks/r-countrycode
+	branch = refs/heads/master
