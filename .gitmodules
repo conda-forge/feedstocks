@@ -20970,3 +20970,7 @@
 	url = https://github.com/conda-forge/scikit-video-feedstock.git
 	path = feedstocks/scikit-video
 	branch = refs/heads/master
+[submodule "sedflux"]
+	url = https://github.com/conda-forge/sedflux-feedstock.git
+	path = feedstocks/sedflux
+	branch = refs/heads/master
