@@ -20966,3 +20966,7 @@
 	url = https://github.com/conda-forge/responses-feedstock.git
 	path = feedstocks/responses
 	branch = refs/heads/master
+[submodule "scikit-video"]
+	url = https://github.com/conda-forge/scikit-video-feedstock.git
+	path = feedstocks/scikit-video
+	branch = refs/heads/master
