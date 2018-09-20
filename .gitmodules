@@ -20862,3 +20862,7 @@
 	url = https://github.com/conda-forge/chemex-feedstock.git
 	path = feedstocks/chemex
 	branch = refs/heads/master
+[submodule "dustmaps"]
+	url = https://github.com/conda-forge/dustmaps-feedstock.git
+	path = feedstocks/dustmaps
+	branch = refs/heads/master
