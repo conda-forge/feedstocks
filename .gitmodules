@@ -20938,3 +20938,7 @@
 	url = https://github.com/conda-forge/pysparse-feedstock.git
 	path = feedstocks/pysparse
 	branch = refs/heads/master
+[submodule "pytest-xvfb"]
+	url = https://github.com/conda-forge/pytest-xvfb-feedstock.git
+	path = feedstocks/pytest-xvfb
+	branch = refs/heads/master
