@@ -20986,3 +20986,7 @@
 	url = https://github.com/conda-forge/telluric-feedstock.git
 	path = feedstocks/telluric
 	branch = refs/heads/master
+[submodule "text-unidecode"]
+	url = https://github.com/conda-forge/text-unidecode-feedstock.git
+	path = feedstocks/text-unidecode
+	branch = refs/heads/master
