@@ -20954,3 +20954,7 @@
 	url = https://github.com/conda-forge/r-pkgload-feedstock.git
 	path = feedstocks/r-pkgload
 	branch = refs/heads/master
+[submodule "r-tangram"]
+	url = https://github.com/conda-forge/r-tangram-feedstock.git
+	path = feedstocks/r-tangram
+	branch = refs/heads/master
