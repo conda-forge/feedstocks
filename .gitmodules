@@ -20882,3 +20882,7 @@
 	url = https://github.com/conda-forge/glmnet_py-feedstock.git
 	path = feedstocks/glmnet_py
 	branch = refs/heads/master
+[submodule "gmsh"]
+	url = https://github.com/conda-forge/gmsh-feedstock.git
+	path = feedstocks/gmsh
+	branch = refs/heads/master
