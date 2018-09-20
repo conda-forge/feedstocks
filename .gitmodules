@@ -20950,3 +20950,7 @@
 	url = https://github.com/conda-forge/r-pkgbuild-feedstock.git
 	path = feedstocks/r-pkgbuild
 	branch = refs/heads/master
+[submodule "r-pkgload"]
+	url = https://github.com/conda-forge/r-pkgload-feedstock.git
+	path = feedstocks/r-pkgload
+	branch = refs/heads/master
