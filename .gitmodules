@@ -20910,3 +20910,7 @@
 	url = https://github.com/conda-forge/oic-feedstock.git
 	path = feedstocks/oic
 	branch = refs/heads/master
+[submodule "oyaml"]
+	url = https://github.com/conda-forge/oyaml-feedstock.git
+	path = feedstocks/oyaml
+	branch = refs/heads/master
