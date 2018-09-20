@@ -20974,3 +20974,7 @@
 	url = https://github.com/conda-forge/sedflux-feedstock.git
 	path = feedstocks/sedflux
 	branch = refs/heads/master
+[submodule "setuptools-rust"]
+	url = https://github.com/conda-forge/setuptools-rust-feedstock.git
+	path = feedstocks/setuptools-rust
+	branch = refs/heads/master
