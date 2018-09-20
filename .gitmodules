@@ -20906,3 +20906,7 @@
 	url = https://github.com/conda-forge/lazygit-feedstock.git
 	path = feedstocks/lazygit
 	branch = refs/heads/master
+[submodule "oic"]
+	url = https://github.com/conda-forge/oic-feedstock.git
+	path = feedstocks/oic
+	branch = refs/heads/master
