@@ -20962,3 +20962,7 @@
 	url = https://github.com/conda-forge/r-tufte-feedstock.git
 	path = feedstocks/r-tufte
 	branch = refs/heads/master
+[submodule "responses"]
+	url = https://github.com/conda-forge/responses-feedstock.git
+	path = feedstocks/responses
+	branch = refs/heads/master
