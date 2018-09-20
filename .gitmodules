@@ -20902,3 +20902,7 @@
 	url = https://github.com/conda-forge/jupyterlab_server-feedstock.git
 	path = feedstocks/jupyterlab_server
 	branch = refs/heads/master
+[submodule "lazygit"]
+	url = https://github.com/conda-forge/lazygit-feedstock.git
+	path = feedstocks/lazygit
+	branch = refs/heads/master
