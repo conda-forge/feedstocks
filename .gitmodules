@@ -20946,3 +20946,7 @@
 	url = https://github.com/conda-forge/r-basix-feedstock.git
 	path = feedstocks/r-basix
 	branch = refs/heads/master
+[submodule "r-pkgbuild"]
+	url = https://github.com/conda-forge/r-pkgbuild-feedstock.git
+	path = feedstocks/r-pkgbuild
+	branch = refs/heads/master
