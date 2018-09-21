@@ -21018,3 +21018,7 @@
 	url = https://github.com/conda-forge/r-decoder-feedstock.git
 	path = feedstocks/r-decoder
 	branch = refs/heads/master
+[submodule "fisx"]
+	url = https://github.com/conda-forge/fisx-feedstock.git
+	path = feedstocks/fisx
+	branch = refs/heads/master
