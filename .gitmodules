@@ -21022,3 +21022,7 @@
 	url = https://github.com/conda-forge/fisx-feedstock.git
 	path = feedstocks/fisx
 	branch = refs/heads/master
+[submodule "flask-caching"]
+	url = https://github.com/conda-forge/flask-caching-feedstock.git
+	path = feedstocks/flask-caching
+	branch = refs/heads/master
