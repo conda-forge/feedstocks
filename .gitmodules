@@ -21014,3 +21014,7 @@
 	url = https://github.com/conda-forge/r-shinycssloaders-feedstock.git
 	path = feedstocks/r-shinycssloaders
 	branch = refs/heads/master
+[submodule "r-decoder"]
+	url = https://github.com/conda-forge/r-decoder-feedstock.git
+	path = feedstocks/r-decoder
+	branch = refs/heads/master
