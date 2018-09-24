@@ -21062,3 +21062,7 @@
 	url = https://github.com/conda-forge/inferno-feedstock.git
 	path = feedstocks/inferno
 	branch = refs/heads/master
+[submodule "fitsio"]
+	url = https://github.com/conda-forge/fitsio-feedstock.git
+	path = feedstocks/fitsio
+	branch = refs/heads/master
