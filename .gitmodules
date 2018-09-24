@@ -21046,3 +21046,7 @@
 	url = https://github.com/conda-forge/bash-feedstock.git
 	path = feedstocks/bash
 	branch = refs/heads/master
+[submodule "r-incadata"]
+	url = https://github.com/conda-forge/r-incadata-feedstock.git
+	path = feedstocks/r-incadata
+	branch = refs/heads/master
