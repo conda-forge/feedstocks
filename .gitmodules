@@ -21050,3 +21050,7 @@
 	url = https://github.com/conda-forge/r-incadata-feedstock.git
 	path = feedstocks/r-incadata
 	branch = refs/heads/master
+[submodule "r-mosaiccore"]
+	url = https://github.com/conda-forge/r-mosaiccore-feedstock.git
+	path = feedstocks/r-mosaiccore
+	branch = refs/heads/master
