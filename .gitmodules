@@ -21078,3 +21078,7 @@
 	url = https://github.com/conda-forge/matplotlib2tikz-feedstock.git
 	path = feedstocks/matplotlib2tikz
 	branch = refs/heads/master
+[submodule "xxhash"]
+	url = https://github.com/conda-forge/xxhash-feedstock.git
+	path = feedstocks/xxhash
+	branch = refs/heads/master
