@@ -21066,3 +21066,7 @@
 	url = https://github.com/conda-forge/fitsio-feedstock.git
 	path = feedstocks/fitsio
 	branch = refs/heads/master
+[submodule "neurdflib"]
+	url = https://github.com/conda-forge/neurdflib-feedstock.git
+	path = feedstocks/neurdflib
+	branch = refs/heads/master
