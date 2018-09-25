@@ -21074,3 +21074,7 @@
 	url = https://github.com/conda-forge/importlib_metadata-feedstock.git
 	path = feedstocks/importlib_metadata
 	branch = refs/heads/master
+[submodule "matplotlib2tikz"]
+	url = https://github.com/conda-forge/matplotlib2tikz-feedstock.git
+	path = feedstocks/matplotlib2tikz
+	branch = refs/heads/master
