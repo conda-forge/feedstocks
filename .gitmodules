@@ -21082,3 +21082,7 @@
 	url = https://github.com/conda-forge/xxhash-feedstock.git
 	path = feedstocks/xxhash
 	branch = refs/heads/master
+[submodule "falcon-docs"]
+	url = https://github.com/conda-forge/falcon-docs-feedstock.git
+	path = feedstocks/falcon-docs
+	branch = refs/heads/master
