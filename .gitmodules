@@ -21086,3 +21086,7 @@
 	url = https://github.com/conda-forge/falcon-docs-feedstock.git
 	path = feedstocks/falcon-docs
 	branch = refs/heads/master
+[submodule "mnist"]
+	url = https://github.com/conda-forge/mnist-feedstock.git
+	path = feedstocks/mnist
+	branch = refs/heads/master
