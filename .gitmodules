@@ -21102,3 +21102,7 @@
 	url = https://github.com/conda-forge/hydrotrend-feedstock.git
 	path = feedstocks/hydrotrend
 	branch = refs/heads/master
+[submodule "abydos"]
+	url = https://github.com/conda-forge/abydos-feedstock.git
+	path = feedstocks/abydos
+	branch = refs/heads/master
