@@ -21110,3 +21110,7 @@
 	url = https://github.com/conda-forge/pymodsecurity-feedstock.git
 	path = feedstocks/pymodsecurity
 	branch = refs/heads/master
+[submodule "lsstdesc.coord"]
+	url = https://github.com/conda-forge/lsstdesc.coord-feedstock.git
+	path = feedstocks/lsstdesc.coord
+	branch = refs/heads/master
