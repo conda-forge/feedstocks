@@ -21122,3 +21122,7 @@
 	url = https://github.com/conda-forge/permamodel-feedstock.git
 	path = feedstocks/permamodel
 	branch = refs/heads/master
+[submodule "r-moonbook"]
+	url = https://github.com/conda-forge/r-moonbook-feedstock.git
+	path = feedstocks/r-moonbook
+	branch = refs/heads/master
