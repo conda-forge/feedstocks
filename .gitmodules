@@ -21126,3 +21126,7 @@
 	url = https://github.com/conda-forge/r-moonbook-feedstock.git
 	path = feedstocks/r-moonbook
 	branch = refs/heads/master
+[submodule "r-timereg"]
+	url = https://github.com/conda-forge/r-timereg-feedstock.git
+	path = feedstocks/r-timereg
+	branch = refs/heads/master
