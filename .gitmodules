@@ -21134,3 +21134,7 @@
 	url = https://github.com/conda-forge/r-farver-feedstock.git
 	path = feedstocks/r-farver
 	branch = refs/heads/master
+[submodule "r-spls"]
+	url = https://github.com/conda-forge/r-spls-feedstock.git
+	path = feedstocks/r-spls
+	branch = refs/heads/master
