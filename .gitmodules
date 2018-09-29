@@ -21130,3 +21130,7 @@
 	url = https://github.com/conda-forge/r-timereg-feedstock.git
 	path = feedstocks/r-timereg
 	branch = refs/heads/master
+[submodule "r-farver"]
+	url = https://github.com/conda-forge/r-farver-feedstock.git
+	path = feedstocks/r-farver
+	branch = refs/heads/master
