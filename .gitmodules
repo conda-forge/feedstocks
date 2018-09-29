@@ -21118,3 +21118,7 @@
 	url = https://github.com/conda-forge/fastdtw-feedstock.git
 	path = feedstocks/fastdtw
 	branch = refs/heads/master
+[submodule "permamodel"]
+	url = https://github.com/conda-forge/permamodel-feedstock.git
+	path = feedstocks/permamodel
+	branch = refs/heads/master
