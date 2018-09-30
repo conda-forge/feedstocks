@@ -21146,3 +21146,7 @@
 	url = https://github.com/conda-forge/r-ufs-feedstock.git
 	path = feedstocks/r-ufs
 	branch = refs/heads/master
+[submodule "r-survxai"]
+	url = https://github.com/conda-forge/r-survxai-feedstock.git
+	path = feedstocks/r-survxai
+	branch = refs/heads/master
