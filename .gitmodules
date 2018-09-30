@@ -21158,3 +21158,7 @@
 	url = https://github.com/conda-forge/r-flextable-feedstock.git
 	path = feedstocks/r-flextable
 	branch = refs/heads/master
+[submodule "r-ztable"]
+	url = https://github.com/conda-forge/r-ztable-feedstock.git
+	path = feedstocks/r-ztable
+	branch = refs/heads/master
