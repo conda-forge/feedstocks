@@ -21162,3 +21162,7 @@
 	url = https://github.com/conda-forge/r-ztable-feedstock.git
 	path = feedstocks/r-ztable
 	branch = refs/heads/master
+[submodule "r-dendroextras"]
+	url = https://github.com/conda-forge/r-dendroextras-feedstock.git
+	path = feedstocks/r-dendroextras
+	branch = refs/heads/master
