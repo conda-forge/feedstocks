@@ -21138,3 +21138,7 @@
 	url = https://github.com/conda-forge/r-spls-feedstock.git
 	path = feedstocks/r-spls
 	branch = refs/heads/master
+[submodule "r-pec"]
+	url = https://github.com/conda-forge/r-pec-feedstock.git
+	path = feedstocks/r-pec
+	branch = refs/heads/master
