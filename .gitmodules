@@ -21174,3 +21174,7 @@
 	url = https://github.com/conda-forge/ufal.udpipe-temp-feedstock.git
 	path = feedstocks/ufal.udpipe-temp
 	branch = refs/heads/master
+[submodule "galsim"]
+	url = https://github.com/conda-forge/galsim-feedstock.git
+	path = feedstocks/galsim
+	branch = refs/heads/master
