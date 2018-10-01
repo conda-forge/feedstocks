@@ -21190,3 +21190,7 @@
 	url = https://github.com/conda-forge/dramatiq-feedstock.git
 	path = feedstocks/dramatiq
 	branch = refs/heads/master
+[submodule "r-treemap"]
+	url = https://github.com/conda-forge/r-treemap-feedstock.git
+	path = feedstocks/r-treemap
+	branch = refs/heads/master
