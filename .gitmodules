@@ -21170,3 +21170,7 @@
 	url = https://github.com/conda-forge/bjoern-feedstock.git
 	path = feedstocks/bjoern
 	branch = refs/heads/master
+[submodule "ufal.udpipe-temp"]
+	url = https://github.com/conda-forge/ufal.udpipe-temp-feedstock.git
+	path = feedstocks/ufal.udpipe-temp
+	branch = refs/heads/master
