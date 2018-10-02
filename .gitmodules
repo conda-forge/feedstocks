@@ -21210,3 +21210,7 @@
 	url = https://github.com/conda-forge/python-ligo-lw-feedstock.git
 	path = feedstocks/python-ligo-lw
 	branch = refs/heads/master
+[submodule "orange3-singlecell"]
+	url = https://github.com/conda-forge/orange3-singlecell-feedstock.git
+	path = feedstocks/orange3-singlecell
+	branch = refs/heads/master
