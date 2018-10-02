@@ -21214,3 +21214,7 @@
 	url = https://github.com/conda-forge/orange3-singlecell-feedstock.git
 	path = feedstocks/orange3-singlecell
 	branch = refs/heads/master
+[submodule "qdarkstyle"]
+	url = https://github.com/conda-forge/qdarkstyle-feedstock.git
+	path = feedstocks/qdarkstyle
+	branch = refs/heads/master
