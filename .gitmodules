@@ -21202,3 +21202,7 @@
 	url = https://github.com/conda-forge/r-furrr-feedstock.git
 	path = feedstocks/r-furrr
 	branch = refs/heads/master
+[submodule "r-limsolve"]
+	url = https://github.com/conda-forge/r-limsolve-feedstock.git
+	path = feedstocks/r-limsolve
+	branch = refs/heads/master
