@@ -21198,3 +21198,7 @@
 	url = https://github.com/conda-forge/imreg_dft-feedstock.git
 	path = feedstocks/imreg_dft
 	branch = refs/heads/master
+[submodule "r-furrr"]
+	url = https://github.com/conda-forge/r-furrr-feedstock.git
+	path = feedstocks/r-furrr
+	branch = refs/heads/master
