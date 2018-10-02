@@ -21226,3 +21226,7 @@
 	url = https://github.com/conda-forge/lalburst-feedstock.git
 	path = feedstocks/lalburst
 	branch = refs/heads/master
+[submodule "lalpulsar"]
+	url = https://github.com/conda-forge/lalpulsar-feedstock.git
+	path = feedstocks/lalpulsar
+	branch = refs/heads/master
