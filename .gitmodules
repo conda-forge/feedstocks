@@ -21254,3 +21254,7 @@
 	url = https://github.com/conda-forge/r-rvg-feedstock.git
 	path = feedstocks/r-rvg
 	branch = refs/heads/master
+[submodule "r-shinywidgets"]
+	url = https://github.com/conda-forge/r-shinywidgets-feedstock.git
+	path = feedstocks/r-shinywidgets
+	branch = refs/heads/master
