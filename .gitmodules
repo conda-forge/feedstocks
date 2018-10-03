@@ -21238,3 +21238,7 @@
 	url = https://github.com/conda-forge/chealpix-feedstock.git
 	path = feedstocks/chealpix
 	branch = refs/heads/master
+[submodule "r-exactci"]
+	url = https://github.com/conda-forge/r-exactci-feedstock.git
+	path = feedstocks/r-exactci
+	branch = refs/heads/master
