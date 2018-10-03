@@ -21258,3 +21258,7 @@
 	url = https://github.com/conda-forge/r-shinywidgets-feedstock.git
 	path = feedstocks/r-shinywidgets
 	branch = refs/heads/master
+[submodule "watchdog-gevent"]
+	url = https://github.com/conda-forge/watchdog-gevent-feedstock.git
+	path = feedstocks/watchdog-gevent
+	branch = refs/heads/master
