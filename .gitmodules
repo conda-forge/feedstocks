@@ -21242,3 +21242,7 @@
 	url = https://github.com/conda-forge/r-exactci-feedstock.git
 	path = feedstocks/r-exactci
 	branch = refs/heads/master
+[submodule "fsleyes-props"]
+	url = https://github.com/conda-forge/fsleyes-props-feedstock.git
+	path = feedstocks/fsleyes-props
+	branch = refs/heads/master
