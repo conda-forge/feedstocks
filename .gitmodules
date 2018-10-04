@@ -21262,3 +21262,7 @@
 	url = https://github.com/conda-forge/watchdog-gevent-feedstock.git
 	path = feedstocks/watchdog-gevent
 	branch = refs/heads/master
+[submodule "cem"]
+	url = https://github.com/conda-forge/cem-feedstock.git
+	path = feedstocks/cem
+	branch = refs/heads/master
