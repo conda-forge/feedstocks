@@ -21274,3 +21274,7 @@
 	url = https://github.com/conda-forge/click-spinner-feedstock.git
 	path = feedstocks/click-spinner
 	branch = refs/heads/master
+[submodule "pyct-core"]
+	url = https://github.com/conda-forge/pyct-core-feedstock.git
+	path = feedstocks/pyct-core
+	branch = refs/heads/master
