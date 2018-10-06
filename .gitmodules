@@ -21290,3 +21290,7 @@
 	url = https://github.com/conda-forge/packmol-feedstock.git
 	path = feedstocks/packmol
 	branch = refs/heads/master
+[submodule "r-radix"]
+	url = https://github.com/conda-forge/r-radix-feedstock.git
+	path = feedstocks/r-radix
+	branch = refs/heads/master
