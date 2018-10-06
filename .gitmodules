@@ -21286,3 +21286,7 @@
 	url = https://github.com/conda-forge/xsv-feedstock.git
 	path = feedstocks/xsv
 	branch = refs/heads/master
+[submodule "packmol"]
+	url = https://github.com/conda-forge/packmol-feedstock.git
+	path = feedstocks/packmol
+	branch = refs/heads/master
