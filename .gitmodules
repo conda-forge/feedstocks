@@ -21294,3 +21294,7 @@
 	url = https://github.com/conda-forge/r-radix-feedstock.git
 	path = feedstocks/r-radix
 	branch = refs/heads/master
+[submodule "r-spdata"]
+	url = https://github.com/conda-forge/r-spdata-feedstock.git
+	path = feedstocks/r-spdata
+	branch = refs/heads/master
