@@ -21314,3 +21314,7 @@
 	url = https://github.com/conda-forge/nappy-feedstock.git
 	path = feedstocks/nappy
 	branch = refs/heads/master
+[submodule "opsdroid"]
+	url = https://github.com/conda-forge/opsdroid-feedstock.git
+	path = feedstocks/opsdroid
+	branch = refs/heads/master
