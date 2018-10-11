@@ -21346,3 +21346,7 @@
 	url = https://github.com/conda-forge/r-broom.mixed-feedstock.git
 	path = feedstocks/r-broom.mixed
 	branch = refs/heads/master
+[submodule "r-ddpcr"]
+	url = https://github.com/conda-forge/r-ddpcr-feedstock.git
+	path = feedstocks/r-ddpcr
+	branch = refs/heads/master
