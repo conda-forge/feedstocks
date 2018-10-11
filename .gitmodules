@@ -21326,3 +21326,7 @@
 	url = https://github.com/conda-forge/paramnb-feedstock.git
 	path = feedstocks/paramnb
 	branch = refs/heads/master
+[submodule "pycron"]
+	url = https://github.com/conda-forge/pycron-feedstock.git
+	path = feedstocks/pycron
+	branch = refs/heads/master
