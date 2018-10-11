@@ -21306,3 +21306,7 @@
 	url = https://github.com/conda-forge/fisher-feedstock.git
 	path = feedstocks/fisher
 	branch = refs/heads/master
+[submodule "ilmbase"]
+	url = https://github.com/conda-forge/ilmbase-feedstock.git
+	path = feedstocks/ilmbase
+	branch = refs/heads/master
