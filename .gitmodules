@@ -21338,3 +21338,7 @@
 	url = https://github.com/conda-forge/pynumero_libraries-feedstock.git
 	path = feedstocks/pynumero_libraries
 	branch = refs/heads/master
+[submodule "quest"]
+	url = https://github.com/conda-forge/quest-feedstock.git
+	path = feedstocks/quest
+	branch = refs/heads/master
