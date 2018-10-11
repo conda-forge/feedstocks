@@ -21330,3 +21330,7 @@
 	url = https://github.com/conda-forge/pycron-feedstock.git
 	path = feedstocks/pycron
 	branch = refs/heads/master
+[submodule "pymca"]
+	url = https://github.com/conda-forge/pymca-feedstock.git
+	path = feedstocks/pymca
+	branch = refs/heads/master
