@@ -21370,3 +21370,7 @@
 	url = https://github.com/conda-forge/spooles-feedstock.git
 	path = feedstocks/spooles
 	branch = refs/heads/master
+[submodule "tasklogger"]
+	url = https://github.com/conda-forge/tasklogger-feedstock.git
+	path = feedstocks/tasklogger
+	branch = refs/heads/master
