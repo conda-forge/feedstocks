@@ -21310,3 +21310,7 @@
 	url = https://github.com/conda-forge/ilmbase-feedstock.git
 	path = feedstocks/ilmbase
 	branch = refs/heads/master
+[submodule "nappy"]
+	url = https://github.com/conda-forge/nappy-feedstock.git
+	path = feedstocks/nappy
+	branch = refs/heads/master
