@@ -21374,3 +21374,7 @@
 	url = https://github.com/conda-forge/tasklogger-feedstock.git
 	path = feedstocks/tasklogger
 	branch = refs/heads/master
+[submodule "python-awips"]
+	url = https://github.com/conda-forge/python-awips-feedstock.git
+	path = feedstocks/python-awips
+	branch = refs/heads/master
