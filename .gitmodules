@@ -21302,3 +21302,7 @@
 	url = https://github.com/conda-forge/aioslacker-feedstock.git
 	path = feedstocks/aioslacker
 	branch = refs/heads/master
+[submodule "fisher"]
+	url = https://github.com/conda-forge/fisher-feedstock.git
+	path = feedstocks/fisher
+	branch = refs/heads/master
