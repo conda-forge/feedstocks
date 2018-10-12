@@ -21394,3 +21394,7 @@
 	url = https://github.com/conda-forge/r-spelling-feedstock.git
 	path = feedstocks/r-spelling
 	branch = refs/heads/master
+[submodule "pip-upgrader"]
+	url = https://github.com/conda-forge/pip-upgrader-feedstock.git
+	path = feedstocks/pip-upgrader
+	branch = refs/heads/master
