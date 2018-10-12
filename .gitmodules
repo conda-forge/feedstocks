@@ -21402,3 +21402,7 @@
 	url = https://github.com/conda-forge/p11-kit-feedstock.git
 	path = feedstocks/p11-kit
 	branch = refs/heads/master
+[submodule "fluidsynth"]
+	url = https://github.com/conda-forge/fluidsynth-feedstock.git
+	path = feedstocks/fluidsynth
+	branch = refs/heads/master
