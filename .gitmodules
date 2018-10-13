@@ -21410,3 +21410,7 @@
 	url = https://github.com/conda-forge/pymt_sedflux-feedstock.git
 	path = feedstocks/pymt_sedflux
 	branch = refs/heads/master
+[submodule "graphtools"]
+	url = https://github.com/conda-forge/graphtools-feedstock.git
+	path = feedstocks/graphtools
+	branch = refs/heads/master
