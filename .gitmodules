@@ -21418,3 +21418,7 @@
 	url = https://github.com/conda-forge/graphicsmagick-feedstock.git
 	path = feedstocks/graphicsmagick
 	branch = refs/heads/master
+[submodule "py3dmol"]
+	url = https://github.com/conda-forge/py3dmol-feedstock.git
+	path = feedstocks/py3dmol
+	branch = refs/heads/master
