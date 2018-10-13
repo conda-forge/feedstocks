@@ -21414,3 +21414,7 @@
 	url = https://github.com/conda-forge/graphtools-feedstock.git
 	path = feedstocks/graphtools
 	branch = refs/heads/master
+[submodule "graphicsmagick"]
+	url = https://github.com/conda-forge/graphicsmagick-feedstock.git
+	path = feedstocks/graphicsmagick
+	branch = refs/heads/master
