@@ -21430,3 +21430,7 @@
 	url = https://github.com/conda-forge/async_timeout-feedstock.git
 	path = feedstocks/async_timeout
 	branch = refs/heads/master
+[submodule "h11"]
+	url = https://github.com/conda-forge/h11-feedstock.git
+	path = feedstocks/h11
+	branch = refs/heads/master
