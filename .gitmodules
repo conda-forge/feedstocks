@@ -21426,3 +21426,7 @@
 	url = https://github.com/conda-forge/reaktoro-feedstock.git
 	path = feedstocks/reaktoro
 	branch = refs/heads/master
+[submodule "async_timeout"]
+	url = https://github.com/conda-forge/async_timeout-feedstock.git
+	path = feedstocks/async_timeout
+	branch = refs/heads/master
