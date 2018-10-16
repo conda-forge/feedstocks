@@ -21446,3 +21446,7 @@
 	url = https://github.com/conda-forge/pyimgur-feedstock.git
 	path = feedstocks/pyimgur
 	branch = refs/heads/master
+[submodule "r-sparsesvd"]
+	url = https://github.com/conda-forge/r-sparsesvd-feedstock.git
+	path = feedstocks/r-sparsesvd
+	branch = refs/heads/master
