@@ -21442,3 +21442,7 @@
 	url = https://github.com/conda-forge/netcdf-scm-feedstock.git
 	path = feedstocks/netcdf-scm
 	branch = refs/heads/master
+[submodule "pyimgur"]
+	url = https://github.com/conda-forge/pyimgur-feedstock.git
+	path = feedstocks/pyimgur
+	branch = refs/heads/master
