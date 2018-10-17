@@ -21490,3 +21490,7 @@
 	url = https://github.com/conda-forge/r-questionr-feedstock.git
 	path = feedstocks/r-questionr
 	branch = refs/heads/master
+[submodule "r-rcppnumerical"]
+	url = https://github.com/conda-forge/r-rcppnumerical-feedstock.git
+	path = feedstocks/r-rcppnumerical
+	branch = refs/heads/master
