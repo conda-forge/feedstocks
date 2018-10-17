@@ -21450,3 +21450,7 @@
 	url = https://github.com/conda-forge/r-sparsesvd-feedstock.git
 	path = feedstocks/r-sparsesvd
 	branch = refs/heads/master
+[submodule "pshell"]
+	url = https://github.com/conda-forge/pshell-feedstock.git
+	path = feedstocks/pshell
+	branch = refs/heads/master
