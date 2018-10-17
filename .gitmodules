@@ -21454,3 +21454,7 @@
 	url = https://github.com/conda-forge/pshell-feedstock.git
 	path = feedstocks/pshell
 	branch = refs/heads/master
+[submodule "r-shades"]
+	url = https://github.com/conda-forge/r-shades-feedstock.git
+	path = feedstocks/r-shades
+	branch = refs/heads/master
