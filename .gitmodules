@@ -21482,3 +21482,7 @@
 	url = https://github.com/conda-forge/uvicorn-feedstock.git
 	path = feedstocks/uvicorn
 	branch = refs/heads/master
+[submodule "r-chemospecutils"]
+	url = https://github.com/conda-forge/r-chemospecutils-feedstock.git
+	path = feedstocks/r-chemospecutils
+	branch = refs/heads/master
