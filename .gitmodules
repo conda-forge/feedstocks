@@ -21466,3 +21466,7 @@
 	url = https://github.com/conda-forge/zappy-feedstock.git
 	path = feedstocks/zappy
 	branch = refs/heads/master
+[submodule "blpapi"]
+	url = https://github.com/conda-forge/blpapi-feedstock.git
+	path = feedstocks/blpapi
+	branch = refs/heads/master
