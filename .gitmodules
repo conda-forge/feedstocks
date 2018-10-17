@@ -21478,3 +21478,7 @@
 	url = https://github.com/conda-forge/python-multipart-feedstock.git
 	path = feedstocks/python-multipart
 	branch = refs/heads/master
+[submodule "uvicorn"]
+	url = https://github.com/conda-forge/uvicorn-feedstock.git
+	path = feedstocks/uvicorn
+	branch = refs/heads/master
