@@ -21462,3 +21462,7 @@
 	url = https://github.com/conda-forge/r-labelled-feedstock.git
 	path = feedstocks/r-labelled
 	branch = refs/heads/master
+[submodule "zappy"]
+	url = https://github.com/conda-forge/zappy-feedstock.git
+	path = feedstocks/zappy
+	branch = refs/heads/master
