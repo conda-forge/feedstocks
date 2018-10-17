@@ -21474,3 +21474,7 @@
 	url = https://github.com/conda-forge/lintel-feedstock.git
 	path = feedstocks/lintel
 	branch = refs/heads/master
+[submodule "python-multipart"]
+	url = https://github.com/conda-forge/python-multipart-feedstock.git
+	path = feedstocks/python-multipart
+	branch = refs/heads/master
