@@ -21470,3 +21470,7 @@
 	url = https://github.com/conda-forge/blpapi-feedstock.git
 	path = feedstocks/blpapi
 	branch = refs/heads/master
+[submodule "lintel"]
+	url = https://github.com/conda-forge/lintel-feedstock.git
+	path = feedstocks/lintel
+	branch = refs/heads/master
