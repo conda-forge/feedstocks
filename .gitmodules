@@ -21498,3 +21498,7 @@
 	url = https://github.com/conda-forge/starlette-feedstock.git
 	path = feedstocks/starlette
 	branch = refs/heads/master
+[submodule "yt_astro_analysis"]
+	url = https://github.com/conda-forge/yt_astro_analysis-feedstock.git
+	path = feedstocks/yt_astro_analysis
+	branch = refs/heads/master
