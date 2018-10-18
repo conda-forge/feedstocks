@@ -21494,3 +21494,7 @@
 	url = https://github.com/conda-forge/r-rcppnumerical-feedstock.git
 	path = feedstocks/r-rcppnumerical
 	branch = refs/heads/master
+[submodule "starlette"]
+	url = https://github.com/conda-forge/starlette-feedstock.git
+	path = feedstocks/starlette
+	branch = refs/heads/master
