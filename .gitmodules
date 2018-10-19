@@ -21514,3 +21514,7 @@
 	url = https://github.com/conda-forge/tsl_ordered_map-feedstock.git
 	path = feedstocks/tsl_ordered_map
 	branch = refs/heads/master
+[submodule "pytest-clarity"]
+	url = https://github.com/conda-forge/pytest-clarity-feedstock.git
+	path = feedstocks/pytest-clarity
+	branch = refs/heads/master
