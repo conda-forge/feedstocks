@@ -21546,3 +21546,7 @@
 	url = https://github.com/conda-forge/r-parsedate-feedstock.git
 	path = feedstocks/r-parsedate
 	branch = refs/heads/master
+[submodule "r-showimage"]
+	url = https://github.com/conda-forge/r-showimage-feedstock.git
+	path = feedstocks/r-showimage
+	branch = refs/heads/master
