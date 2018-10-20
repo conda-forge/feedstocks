@@ -21558,3 +21558,7 @@
 	url = https://github.com/conda-forge/r-rhandsontable-feedstock.git
 	path = feedstocks/r-rhandsontable
 	branch = refs/heads/master
+[submodule "r-pingr"]
+	url = https://github.com/conda-forge/r-pingr-feedstock.git
+	path = feedstocks/r-pingr
+	branch = refs/heads/master
