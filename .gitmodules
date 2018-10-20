@@ -21534,3 +21534,7 @@
 	url = https://github.com/conda-forge/voila-feedstock.git
 	path = feedstocks/voila
 	branch = refs/heads/master
+[submodule "r-shinydashboardplus"]
+	url = https://github.com/conda-forge/r-shinydashboardplus-feedstock.git
+	path = feedstocks/r-shinydashboardplus
+	branch = refs/heads/master
