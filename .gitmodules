@@ -21542,3 +21542,7 @@
 	url = https://github.com/conda-forge/flake8-rst-feedstock.git
 	path = feedstocks/flake8-rst
 	branch = refs/heads/master
+[submodule "r-parsedate"]
+	url = https://github.com/conda-forge/r-parsedate-feedstock.git
+	path = feedstocks/r-parsedate
+	branch = refs/heads/master
