@@ -21522,3 +21522,7 @@
 	url = https://github.com/conda-forge/r-npsurv-feedstock.git
 	path = feedstocks/r-npsurv
 	branch = refs/heads/master
+[submodule "r-autoshiny"]
+	url = https://github.com/conda-forge/r-autoshiny-feedstock.git
+	path = feedstocks/r-autoshiny
+	branch = refs/heads/master
