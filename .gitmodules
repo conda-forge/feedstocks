@@ -21530,3 +21530,7 @@
 	url = https://github.com/conda-forge/r-shinyjqui-feedstock.git
 	path = feedstocks/r-shinyjqui
 	branch = refs/heads/master
+[submodule "voila"]
+	url = https://github.com/conda-forge/voila-feedstock.git
+	path = feedstocks/voila
+	branch = refs/heads/master
