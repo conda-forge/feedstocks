@@ -21538,3 +21538,7 @@
 	url = https://github.com/conda-forge/r-shinydashboardplus-feedstock.git
 	path = feedstocks/r-shinydashboardplus
 	branch = refs/heads/master
+[submodule "flake8-rst"]
+	url = https://github.com/conda-forge/flake8-rst-feedstock.git
+	path = feedstocks/flake8-rst
+	branch = refs/heads/master
