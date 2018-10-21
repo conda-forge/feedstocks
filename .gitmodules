@@ -21566,3 +21566,7 @@
 	url = https://github.com/conda-forge/r-shiny.semantic-feedstock.git
 	path = feedstocks/r-shiny.semantic
 	branch = refs/heads/master
+[submodule "r-refmanager"]
+	url = https://github.com/conda-forge/r-refmanager-feedstock.git
+	path = feedstocks/r-refmanager
+	branch = refs/heads/master
