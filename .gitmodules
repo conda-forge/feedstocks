@@ -21570,3 +21570,7 @@
 	url = https://github.com/conda-forge/r-refmanager-feedstock.git
 	path = feedstocks/r-refmanager
 	branch = refs/heads/master
+[submodule "r-shinyhelper"]
+	url = https://github.com/conda-forge/r-shinyhelper-feedstock.git
+	path = feedstocks/r-shinyhelper
+	branch = refs/heads/master
