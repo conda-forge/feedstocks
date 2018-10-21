@@ -21562,3 +21562,7 @@
 	url = https://github.com/conda-forge/r-pingr-feedstock.git
 	path = feedstocks/r-pingr
 	branch = refs/heads/master
+[submodule "r-shiny.semantic"]
+	url = https://github.com/conda-forge/r-shiny.semantic-feedstock.git
+	path = feedstocks/r-shiny.semantic
+	branch = refs/heads/master
