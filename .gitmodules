@@ -21574,3 +21574,7 @@
 	url = https://github.com/conda-forge/r-shinyhelper-feedstock.git
 	path = feedstocks/r-shinyhelper
 	branch = refs/heads/master
+[submodule "r-shinylp"]
+	url = https://github.com/conda-forge/r-shinylp-feedstock.git
+	path = feedstocks/r-shinylp
+	branch = refs/heads/master
