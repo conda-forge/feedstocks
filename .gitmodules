@@ -21590,3 +21590,7 @@
 	url = https://github.com/conda-forge/asynctest-feedstock.git
 	path = feedstocks/asynctest
 	branch = refs/heads/master
+[submodule "brain-isotopic-distribution"]
+	url = https://github.com/conda-forge/brain-isotopic-distribution-feedstock.git
+	path = feedstocks/brain-isotopic-distribution
+	branch = refs/heads/master
