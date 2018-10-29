@@ -21638,3 +21638,7 @@
 	url = https://github.com/conda-forge/r-rdpack-feedstock.git
 	path = feedstocks/r-rdpack
 	branch = refs/heads/master
+[submodule "r-shinytree"]
+	url = https://github.com/conda-forge/r-shinytree-feedstock.git
+	path = feedstocks/r-shinytree
+	branch = refs/heads/master
