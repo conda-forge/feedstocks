@@ -21650,3 +21650,7 @@
 	url = https://github.com/conda-forge/nox-feedstock.git
 	path = feedstocks/nox
 	branch = refs/heads/master
+[submodule "r-keyring"]
+	url = https://github.com/conda-forge/r-keyring-feedstock.git
+	path = feedstocks/r-keyring
+	branch = refs/heads/master
