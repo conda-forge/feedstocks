@@ -21610,3 +21610,7 @@
 	url = https://github.com/conda-forge/r-filelock-feedstock.git
 	path = feedstocks/r-filelock
 	branch = refs/heads/master
+[submodule "r-forge"]
+	url = https://github.com/conda-forge/r-forge-feedstock.git
+	path = feedstocks/r-forge
+	branch = refs/heads/master
