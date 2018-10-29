@@ -21626,3 +21626,7 @@
 	url = https://github.com/conda-forge/r-ncbit-feedstock.git
 	path = feedstocks/r-ncbit
 	branch = refs/heads/master
+[submodule "r-pool"]
+	url = https://github.com/conda-forge/r-pool-feedstock.git
+	path = feedstocks/r-pool
+	branch = refs/heads/master
