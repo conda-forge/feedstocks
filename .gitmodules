@@ -21670,3 +21670,7 @@
 	url = https://github.com/conda-forge/r-rcmdcheck-feedstock.git
 	path = feedstocks/r-rcmdcheck
 	branch = refs/heads/master
+[submodule "r-usethis"]
+	url = https://github.com/conda-forge/r-usethis-feedstock.git
+	path = feedstocks/r-usethis
+	branch = refs/heads/master
