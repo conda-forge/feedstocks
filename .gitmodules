@@ -21658,3 +21658,7 @@
 	url = https://github.com/conda-forge/r-ensurer-feedstock.git
 	path = feedstocks/r-ensurer
 	branch = refs/heads/master
+[submodule "r-shinytest"]
+	url = https://github.com/conda-forge/r-shinytest-feedstock.git
+	path = feedstocks/r-shinytest
+	branch = refs/heads/master
