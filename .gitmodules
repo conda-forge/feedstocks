@@ -21586,3 +21586,7 @@
 	url = https://github.com/conda-forge/shellcheck-feedstock.git
 	path = feedstocks/shellcheck
 	branch = refs/heads/master
+[submodule "asynctest"]
+	url = https://github.com/conda-forge/asynctest-feedstock.git
+	path = feedstocks/asynctest
+	branch = refs/heads/master
