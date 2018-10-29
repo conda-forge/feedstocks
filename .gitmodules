@@ -21662,3 +21662,7 @@
 	url = https://github.com/conda-forge/r-shinytest-feedstock.git
 	path = feedstocks/r-shinytest
 	branch = refs/heads/master
+[submodule "r-qrcode"]
+	url = https://github.com/conda-forge/r-qrcode-feedstock.git
+	path = feedstocks/r-qrcode
+	branch = refs/heads/master
