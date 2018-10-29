@@ -21678,3 +21678,7 @@
 	url = https://github.com/conda-forge/r-xopen-feedstock.git
 	path = feedstocks/r-xopen
 	branch = refs/heads/master
+[submodule "r-barcoder"]
+	url = https://github.com/conda-forge/r-barcoder-feedstock.git
+	path = feedstocks/r-barcoder
+	branch = refs/heads/master
