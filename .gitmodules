@@ -21646,3 +21646,7 @@
 	url = https://github.com/conda-forge/r-sodium-feedstock.git
 	path = feedstocks/r-sodium
 	branch = refs/heads/master
+[submodule "nox"]
+	url = https://github.com/conda-forge/nox-feedstock.git
+	path = feedstocks/nox
+	branch = refs/heads/master
