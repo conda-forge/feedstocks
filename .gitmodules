@@ -21622,3 +21622,7 @@
 	url = https://github.com/conda-forge/graphql-server-core-feedstock.git
 	path = feedstocks/graphql-server-core
 	branch = refs/heads/master
+[submodule "r-ncbit"]
+	url = https://github.com/conda-forge/r-ncbit-feedstock.git
+	path = feedstocks/r-ncbit
+	branch = refs/heads/master
