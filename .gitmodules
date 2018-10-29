@@ -21642,3 +21642,7 @@
 	url = https://github.com/conda-forge/r-shinytree-feedstock.git
 	path = feedstocks/r-shinytree
 	branch = refs/heads/master
+[submodule "r-sodium"]
+	url = https://github.com/conda-forge/r-sodium-feedstock.git
+	path = feedstocks/r-sodium
+	branch = refs/heads/master
