@@ -21634,3 +21634,7 @@
 	url = https://github.com/conda-forge/r-r2d3-feedstock.git
 	path = feedstocks/r-r2d3
 	branch = refs/heads/master
+[submodule "r-rdpack"]
+	url = https://github.com/conda-forge/r-rdpack-feedstock.git
+	path = feedstocks/r-rdpack
+	branch = refs/heads/master
