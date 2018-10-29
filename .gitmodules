@@ -21614,3 +21614,7 @@
 	url = https://github.com/conda-forge/r-forge-feedstock.git
 	path = feedstocks/r-forge
 	branch = refs/heads/master
+[submodule "r-gbrd"]
+	url = https://github.com/conda-forge/r-gbrd-feedstock.git
+	path = feedstocks/r-gbrd
+	branch = refs/heads/master
