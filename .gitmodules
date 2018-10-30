@@ -21722,3 +21722,7 @@
 	url = https://github.com/conda-forge/lalinference-feedstock.git
 	path = feedstocks/lalinference
 	branch = refs/heads/master
+[submodule "camelot-py"]
+	url = https://github.com/conda-forge/camelot-py-feedstock.git
+	path = feedstocks/camelot-py
+	branch = refs/heads/master
