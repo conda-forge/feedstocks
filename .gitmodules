@@ -21706,3 +21706,7 @@
 	url = https://github.com/conda-forge/openorb-eph-builder-feedstock.git
 	path = feedstocks/openorb-eph-builder
 	branch = refs/heads/master
+[submodule "openorb"]
+	url = https://github.com/conda-forge/openorb-feedstock.git
+	path = feedstocks/openorb
+	branch = refs/heads/master
