@@ -21710,3 +21710,7 @@
 	url = https://github.com/conda-forge/openorb-feedstock.git
 	path = feedstocks/openorb
 	branch = refs/heads/master
+[submodule "pyqi"]
+	url = https://github.com/conda-forge/pyqi-feedstock.git
+	path = feedstocks/pyqi
+	branch = refs/heads/master
