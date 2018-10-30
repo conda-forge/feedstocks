@@ -21682,3 +21682,7 @@
 	url = https://github.com/conda-forge/r-barcoder-feedstock.git
 	path = feedstocks/r-barcoder
 	branch = refs/heads/master
+[submodule "asgiref"]
+	url = https://github.com/conda-forge/asgiref-feedstock.git
+	path = feedstocks/asgiref
+	branch = refs/heads/master
