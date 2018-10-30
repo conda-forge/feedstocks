@@ -21742,3 +21742,7 @@
 	url = https://github.com/conda-forge/r-d3r-feedstock.git
 	path = feedstocks/r-d3r
 	branch = refs/heads/master
+[submodule "r-manipulatewidget"]
+	url = https://github.com/conda-forge/r-manipulatewidget-feedstock.git
+	path = feedstocks/r-manipulatewidget
+	branch = refs/heads/master
