@@ -21734,3 +21734,7 @@
 	url = https://github.com/conda-forge/sphinx-click-feedstock.git
 	path = feedstocks/sphinx-click
 	branch = refs/heads/master
+[submodule "mdanalysisdata"]
+	url = https://github.com/conda-forge/mdanalysisdata-feedstock.git
+	path = feedstocks/mdanalysisdata
+	branch = refs/heads/master
