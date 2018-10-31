@@ -21762,3 +21762,7 @@
 	url = https://github.com/conda-forge/r-knitcitations-feedstock.git
 	path = feedstocks/r-knitcitations
 	branch = refs/heads/master
+[submodule "pyam"]
+	url = https://github.com/conda-forge/pyam-feedstock.git
+	path = feedstocks/pyam
+	branch = refs/heads/master
