@@ -21766,3 +21766,7 @@
 	url = https://github.com/conda-forge/pyam-feedstock.git
 	path = feedstocks/pyam
 	branch = refs/heads/master
+[submodule "pyrsistent"]
+	url = https://github.com/conda-forge/pyrsistent-feedstock.git
+	path = feedstocks/pyrsistent
+	branch = refs/heads/master
