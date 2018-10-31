@@ -21770,3 +21770,7 @@
 	url = https://github.com/conda-forge/pyrsistent-feedstock.git
 	path = feedstocks/pyrsistent
 	branch = refs/heads/master
+[submodule "cachy"]
+	url = https://github.com/conda-forge/cachy-feedstock.git
+	path = feedstocks/cachy
+	branch = refs/heads/master
