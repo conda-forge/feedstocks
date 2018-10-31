@@ -21746,3 +21746,7 @@
 	url = https://github.com/conda-forge/r-manipulatewidget-feedstock.git
 	path = feedstocks/r-manipulatewidget
 	branch = refs/heads/master
+[submodule "ipython_memory_usage"]
+	url = https://github.com/conda-forge/ipython_memory_usage-feedstock.git
+	path = feedstocks/ipython_memory_usage
+	branch = refs/heads/master
