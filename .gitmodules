@@ -21774,3 +21774,7 @@
 	url = https://github.com/conda-forge/cachy-feedstock.git
 	path = feedstocks/cachy
 	branch = refs/heads/master
+[submodule "r-ontologyindex"]
+	url = https://github.com/conda-forge/r-ontologyindex-feedstock.git
+	path = feedstocks/r-ontologyindex
+	branch = refs/heads/master
