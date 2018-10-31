@@ -21750,3 +21750,7 @@
 	url = https://github.com/conda-forge/ipython_memory_usage-feedstock.git
 	path = feedstocks/ipython_memory_usage
 	branch = refs/heads/master
+[submodule "simplekv"]
+	url = https://github.com/conda-forge/simplekv-feedstock.git
+	path = feedstocks/simplekv
+	branch = refs/heads/master
