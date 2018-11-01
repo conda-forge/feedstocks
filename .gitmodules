@@ -21790,3 +21790,7 @@
 	url = https://github.com/conda-forge/shellingham-feedstock.git
 	path = feedstocks/shellingham
 	branch = refs/heads/master
+[submodule "tomlkit"]
+	url = https://github.com/conda-forge/tomlkit-feedstock.git
+	path = feedstocks/tomlkit
+	branch = refs/heads/master
