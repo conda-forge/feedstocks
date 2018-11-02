@@ -21802,3 +21802,7 @@
 	url = https://github.com/conda-forge/r-collapsibletree-feedstock.git
 	path = feedstocks/r-collapsibletree
 	branch = refs/heads/master
+[submodule "poetry"]
+	url = https://github.com/conda-forge/poetry-feedstock.git
+	path = feedstocks/poetry
+	branch = refs/heads/master
