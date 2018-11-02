@@ -21810,3 +21810,7 @@
 	url = https://github.com/conda-forge/python-flint-feedstock.git
 	path = feedstocks/python-flint
 	branch = refs/heads/master
+[submodule "r-distances"]
+	url = https://github.com/conda-forge/r-distances-feedstock.git
+	path = feedstocks/r-distances
+	branch = refs/heads/master
