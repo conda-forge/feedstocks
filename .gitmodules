@@ -21826,3 +21826,7 @@
 	url = https://github.com/conda-forge/yacs-feedstock.git
 	path = feedstocks/yacs
 	branch = refs/heads/master
+[submodule "pycrs"]
+	url = https://github.com/conda-forge/pycrs-feedstock.git
+	path = feedstocks/pycrs
+	branch = refs/heads/master
