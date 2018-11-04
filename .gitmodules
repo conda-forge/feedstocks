@@ -21822,3 +21822,7 @@
 	url = https://github.com/conda-forge/epc-feedstock.git
 	path = feedstocks/epc
 	branch = refs/heads/master
+[submodule "yacs"]
+	url = https://github.com/conda-forge/yacs-feedstock.git
+	path = feedstocks/yacs
+	branch = refs/heads/master
