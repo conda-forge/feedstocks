@@ -21830,3 +21830,7 @@
 	url = https://github.com/conda-forge/pycrs-feedstock.git
 	path = feedstocks/pycrs
 	branch = refs/heads/master
+[submodule "r-cvxbiclustr"]
+	url = https://github.com/conda-forge/r-cvxbiclustr-feedstock.git
+	path = feedstocks/r-cvxbiclustr
+	branch = refs/heads/master
