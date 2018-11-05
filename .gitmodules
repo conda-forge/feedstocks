@@ -21838,3 +21838,7 @@
 	url = https://github.com/conda-forge/jupytext-feedstock.git
 	path = feedstocks/jupytext
 	branch = refs/heads/master
+[submodule "storefact"]
+	url = https://github.com/conda-forge/storefact-feedstock.git
+	path = feedstocks/storefact
+	branch = refs/heads/master
