@@ -21834,3 +21834,7 @@
 	url = https://github.com/conda-forge/r-cvxbiclustr-feedstock.git
 	path = feedstocks/r-cvxbiclustr
 	branch = refs/heads/master
+[submodule "jupytext"]
+	url = https://github.com/conda-forge/jupytext-feedstock.git
+	path = feedstocks/jupytext
+	branch = refs/heads/master
