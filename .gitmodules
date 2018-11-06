@@ -21862,3 +21862,7 @@
 	url = https://github.com/conda-forge/r-iotools-feedstock.git
 	path = feedstocks/r-iotools
 	branch = refs/heads/master
+[submodule "r-latex2exp"]
+	url = https://github.com/conda-forge/r-latex2exp-feedstock.git
+	path = feedstocks/r-latex2exp
+	branch = refs/heads/master
