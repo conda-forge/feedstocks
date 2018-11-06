@@ -21890,3 +21890,7 @@
 	url = https://github.com/conda-forge/sentry-sdk-feedstock.git
 	path = feedstocks/sentry-sdk
 	branch = refs/heads/master
+[submodule "userspacefs"]
+	url = https://github.com/conda-forge/userspacefs-feedstock.git
+	path = feedstocks/userspacefs
+	branch = refs/heads/master
