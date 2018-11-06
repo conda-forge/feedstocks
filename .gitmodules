@@ -21874,3 +21874,7 @@
 	url = https://github.com/conda-forge/block_tracing-feedstock.git
 	path = feedstocks/block_tracing
 	branch = refs/heads/master
+[submodule "dbxfs"]
+	url = https://github.com/conda-forge/dbxfs-feedstock.git
+	path = feedstocks/dbxfs
+	branch = refs/heads/master
