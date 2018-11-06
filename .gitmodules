@@ -21854,3 +21854,7 @@
 	url = https://github.com/conda-forge/bcrypt-feedstock.git
 	path = feedstocks/bcrypt
 	branch = refs/heads/master
+[submodule "r-bayesm"]
+	url = https://github.com/conda-forge/r-bayesm-feedstock.git
+	path = feedstocks/r-bayesm
+	branch = refs/heads/master
