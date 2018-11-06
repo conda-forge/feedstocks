@@ -21846,3 +21846,7 @@
 	url = https://github.com/conda-forge/atlantis-feedstock.git
 	path = feedstocks/atlantis
 	branch = refs/heads/master
+[submodule "responder"]
+	url = https://github.com/conda-forge/responder-feedstock.git
+	path = feedstocks/responder
+	branch = refs/heads/master
