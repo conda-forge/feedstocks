@@ -21850,3 +21850,7 @@
 	url = https://github.com/conda-forge/responder-feedstock.git
 	path = feedstocks/responder
 	branch = refs/heads/master
+[submodule "bcrypt"]
+	url = https://github.com/conda-forge/bcrypt-feedstock.git
+	path = feedstocks/bcrypt
+	branch = refs/heads/master
