@@ -21894,3 +21894,7 @@
 	url = https://github.com/conda-forge/userspacefs-feedstock.git
 	path = feedstocks/userspacefs
 	branch = refs/heads/master
+[submodule "hmmlearn"]
+	url = https://github.com/conda-forge/hmmlearn-feedstock.git
+	path = feedstocks/hmmlearn
+	branch = refs/heads/master
