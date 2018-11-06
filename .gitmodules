@@ -21842,3 +21842,7 @@
 	url = https://github.com/conda-forge/storefact-feedstock.git
 	path = feedstocks/storefact
 	branch = refs/heads/master
+[submodule "atlantis"]
+	url = https://github.com/conda-forge/atlantis-feedstock.git
+	path = feedstocks/atlantis
+	branch = refs/heads/master
