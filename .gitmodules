@@ -21902,3 +21902,7 @@
 	url = https://github.com/conda-forge/pymt_cem-feedstock.git
 	path = feedstocks/pymt_cem
 	branch = refs/heads/master
+[submodule "zsh"]
+	url = https://github.com/conda-forge/zsh-feedstock.git
+	path = feedstocks/zsh
+	branch = refs/heads/master
