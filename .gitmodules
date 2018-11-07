@@ -21898,3 +21898,7 @@
 	url = https://github.com/conda-forge/hmmlearn-feedstock.git
 	path = feedstocks/hmmlearn
 	branch = refs/heads/master
+[submodule "pymt_cem"]
+	url = https://github.com/conda-forge/pymt_cem-feedstock.git
+	path = feedstocks/pymt_cem
+	branch = refs/heads/master
