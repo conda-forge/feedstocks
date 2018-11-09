@@ -21910,3 +21910,7 @@
 	url = https://github.com/conda-forge/r-nada-feedstock.git
 	path = feedstocks/r-nada
 	branch = refs/heads/master
+[submodule "r-zcompositions"]
+	url = https://github.com/conda-forge/r-zcompositions-feedstock.git
+	path = feedstocks/r-zcompositions
+	branch = refs/heads/master
