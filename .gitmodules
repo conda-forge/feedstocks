@@ -21918,3 +21918,7 @@
 	url = https://github.com/conda-forge/moola-feedstock.git
 	path = feedstocks/moola
 	branch = refs/heads/master
+[submodule "python-flatbuffers"]
+	url = https://github.com/conda-forge/python-flatbuffers-feedstock.git
+	path = feedstocks/python-flatbuffers
+	branch = refs/heads/master
