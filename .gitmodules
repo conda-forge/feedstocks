@@ -21934,3 +21934,7 @@
 	url = https://github.com/conda-forge/r-ggtern-feedstock.git
 	path = feedstocks/r-ggtern
 	branch = refs/heads/master
+[submodule "r-rgcca"]
+	url = https://github.com/conda-forge/r-rgcca-feedstock.git
+	path = feedstocks/r-rgcca
+	branch = refs/heads/master
