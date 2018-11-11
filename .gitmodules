@@ -21950,3 +21950,7 @@
 	url = https://github.com/conda-forge/bowler-feedstock.git
 	path = feedstocks/bowler
 	branch = refs/heads/master
+[submodule "fissix"]
+	url = https://github.com/conda-forge/fissix-feedstock.git
+	path = feedstocks/fissix
+	branch = refs/heads/master
