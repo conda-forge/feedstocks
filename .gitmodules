@@ -21946,3 +21946,7 @@
 	url = https://github.com/conda-forge/pycocotools-feedstock.git
 	path = feedstocks/pycocotools
 	branch = refs/heads/master
+[submodule "bowler"]
+	url = https://github.com/conda-forge/bowler-feedstock.git
+	path = feedstocks/bowler
+	branch = refs/heads/master
