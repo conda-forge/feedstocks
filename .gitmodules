@@ -21942,3 +21942,7 @@
 	url = https://github.com/conda-forge/r-oompadata-feedstock.git
 	path = feedstocks/r-oompadata
 	branch = refs/heads/master
+[submodule "pycocotools"]
+	url = https://github.com/conda-forge/pycocotools-feedstock.git
+	path = feedstocks/pycocotools
+	branch = refs/heads/master
