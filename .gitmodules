@@ -21922,3 +21922,7 @@
 	url = https://github.com/conda-forge/python-flatbuffers-feedstock.git
 	path = feedstocks/python-flatbuffers
 	branch = refs/heads/master
+[submodule "r-fcros"]
+	url = https://github.com/conda-forge/r-fcros-feedstock.git
+	path = feedstocks/r-fcros
+	branch = refs/heads/master
