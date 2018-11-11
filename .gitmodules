@@ -21938,3 +21938,7 @@
 	url = https://github.com/conda-forge/r-rgcca-feedstock.git
 	path = feedstocks/r-rgcca
 	branch = refs/heads/master
+[submodule "r-oompadata"]
+	url = https://github.com/conda-forge/r-oompadata-feedstock.git
+	path = feedstocks/r-oompadata
+	branch = refs/heads/master
