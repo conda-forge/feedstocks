@@ -21926,3 +21926,7 @@
 	url = https://github.com/conda-forge/r-fcros-feedstock.git
 	path = feedstocks/r-fcros
 	branch = refs/heads/master
+[submodule "r-compositions"]
+	url = https://github.com/conda-forge/r-compositions-feedstock.git
+	path = feedstocks/r-compositions
+	branch = refs/heads/master
