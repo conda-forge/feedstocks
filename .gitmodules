@@ -21966,3 +21966,7 @@
 	url = https://github.com/conda-forge/mpiplus-feedstock.git
 	path = feedstocks/mpiplus
 	branch = refs/heads/master
+[submodule "multicore-tsne"]
+	url = https://github.com/conda-forge/multicore-tsne-feedstock.git
+	path = feedstocks/multicore-tsne
+	branch = refs/heads/master
