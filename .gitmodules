@@ -21954,3 +21954,7 @@
 	url = https://github.com/conda-forge/fissix-feedstock.git
 	path = feedstocks/fissix
 	branch = refs/heads/master
+[submodule "compas_fab"]
+	url = https://github.com/conda-forge/compas_fab-feedstock.git
+	path = feedstocks/compas_fab
+	branch = refs/heads/master
