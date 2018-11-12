@@ -21962,3 +21962,7 @@
 	url = https://github.com/conda-forge/roslibpy-feedstock.git
 	path = feedstocks/roslibpy
 	branch = refs/heads/master
+[submodule "mpiplus"]
+	url = https://github.com/conda-forge/mpiplus-feedstock.git
+	path = feedstocks/mpiplus
+	branch = refs/heads/master
