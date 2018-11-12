@@ -21958,3 +21958,7 @@
 	url = https://github.com/conda-forge/compas_fab-feedstock.git
 	path = feedstocks/compas_fab
 	branch = refs/heads/master
+[submodule "roslibpy"]
+	url = https://github.com/conda-forge/roslibpy-feedstock.git
+	path = feedstocks/roslibpy
+	branch = refs/heads/master
