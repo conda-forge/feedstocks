@@ -21970,3 +21970,7 @@
 	url = https://github.com/conda-forge/multicore-tsne-feedstock.git
 	path = feedstocks/multicore-tsne
 	branch = refs/heads/master
+[submodule "django-rest-auth"]
+	url = https://github.com/conda-forge/django-rest-auth-feedstock.git
+	path = feedstocks/django-rest-auth
+	branch = refs/heads/master
