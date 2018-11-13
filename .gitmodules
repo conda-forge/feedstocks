@@ -21986,3 +21986,7 @@
 	url = https://github.com/conda-forge/selectors34-feedstock.git
 	path = feedstocks/selectors34
 	branch = refs/heads/master
+[submodule "intake"]
+	url = https://github.com/conda-forge/intake-feedstock.git
+	path = feedstocks/intake
+	branch = refs/heads/master
