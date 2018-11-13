@@ -21990,3 +21990,7 @@
 	url = https://github.com/conda-forge/intake-feedstock.git
 	path = feedstocks/intake
 	branch = refs/heads/master
+[submodule "intake-xarray"]
+	url = https://github.com/conda-forge/intake-xarray-feedstock.git
+	path = feedstocks/intake-xarray
+	branch = refs/heads/master
