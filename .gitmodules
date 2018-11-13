@@ -21978,3 +21978,7 @@
 	url = https://github.com/conda-forge/django-super-inlines-feedstock.git
 	path = feedstocks/django-super-inlines
 	branch = refs/heads/master
+[submodule "ffnvcodec-headers"]
+	url = https://github.com/conda-forge/ffnvcodec-headers-feedstock.git
+	path = feedstocks/ffnvcodec-headers
+	branch = refs/heads/master
