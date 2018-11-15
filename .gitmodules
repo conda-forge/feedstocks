@@ -21994,3 +21994,7 @@
 	url = https://github.com/conda-forge/intake-xarray-feedstock.git
 	path = feedstocks/intake-xarray
 	branch = refs/heads/master
+[submodule "timml"]
+	url = https://github.com/conda-forge/timml-feedstock.git
+	path = feedstocks/timml
+	branch = refs/heads/master
