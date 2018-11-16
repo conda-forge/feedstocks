@@ -22002,3 +22002,7 @@
 	url = https://github.com/conda-forge/kdtree-feedstock.git
 	path = feedstocks/kdtree
 	branch = refs/heads/master
+[submodule "pyqmix"]
+	url = https://github.com/conda-forge/pyqmix-feedstock.git
+	path = feedstocks/pyqmix
+	branch = refs/heads/master
