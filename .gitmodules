@@ -22018,3 +22018,7 @@
 	url = https://github.com/conda-forge/topika-feedstock.git
 	path = feedstocks/topika
 	branch = refs/heads/master
+[submodule "sqlitedict"]
+	url = https://github.com/conda-forge/sqlitedict-feedstock.git
+	path = feedstocks/sqlitedict
+	branch = refs/heads/master
