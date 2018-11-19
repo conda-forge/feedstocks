@@ -22022,3 +22022,7 @@
 	url = https://github.com/conda-forge/sqlitedict-feedstock.git
 	path = feedstocks/sqlitedict
 	branch = refs/heads/master
+[submodule "jgo"]
+	url = https://github.com/conda-forge/jgo-feedstock.git
+	path = feedstocks/jgo
+	branch = refs/heads/master
