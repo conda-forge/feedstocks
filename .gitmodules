@@ -22046,3 +22046,7 @@
 	url = https://github.com/conda-forge/asks-feedstock.git
 	path = feedstocks/asks
 	branch = refs/heads/master
+[submodule "caproto"]
+	url = https://github.com/conda-forge/caproto-feedstock.git
+	path = feedstocks/caproto
+	branch = refs/heads/master
