@@ -22050,3 +22050,7 @@
 	url = https://github.com/conda-forge/caproto-feedstock.git
 	path = feedstocks/caproto
 	branch = refs/heads/master
+[submodule "multio"]
+	url = https://github.com/conda-forge/multio-feedstock.git
+	path = feedstocks/multio
+	branch = refs/heads/master
