@@ -22066,3 +22066,7 @@
 	url = https://github.com/conda-forge/jonga-feedstock.git
 	path = feedstocks/jonga
 	branch = refs/heads/master
+[submodule "sporco"]
+	url = https://github.com/conda-forge/sporco-feedstock.git
+	path = feedstocks/sporco
+	branch = refs/heads/master
