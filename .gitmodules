@@ -22074,3 +22074,7 @@
 	url = https://github.com/conda-forge/arxiv-collector-feedstock.git
 	path = feedstocks/arxiv-collector
 	branch = refs/heads/master
+[submodule "demoshell"]
+	url = https://github.com/conda-forge/demoshell-feedstock.git
+	path = feedstocks/demoshell
+	branch = refs/heads/master
