@@ -22070,3 +22070,7 @@
 	url = https://github.com/conda-forge/sporco-feedstock.git
 	path = feedstocks/sporco
 	branch = refs/heads/master
+[submodule "arxiv-collector"]
+	url = https://github.com/conda-forge/arxiv-collector-feedstock.git
+	path = feedstocks/arxiv-collector
+	branch = refs/heads/master
