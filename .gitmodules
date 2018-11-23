@@ -22078,3 +22078,7 @@
 	url = https://github.com/conda-forge/demoshell-feedstock.git
 	path = feedstocks/demoshell
 	branch = refs/heads/master
+[submodule "yamlordereddictloader"]
+	url = https://github.com/conda-forge/yamlordereddictloader-feedstock.git
+	path = feedstocks/yamlordereddictloader
+	branch = refs/heads/master
