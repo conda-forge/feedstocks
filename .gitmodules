@@ -22086,3 +22086,7 @@
 	url = https://github.com/conda-forge/r-mpmi-feedstock.git
 	path = feedstocks/r-mpmi
 	branch = refs/heads/master
+[submodule "r-crf"]
+	url = https://github.com/conda-forge/r-crf-feedstock.git
+	path = feedstocks/r-crf
+	branch = refs/heads/master
