@@ -22082,3 +22082,7 @@
 	url = https://github.com/conda-forge/yamlordereddictloader-feedstock.git
 	path = feedstocks/yamlordereddictloader
 	branch = refs/heads/master
+[submodule "r-mpmi"]
+	url = https://github.com/conda-forge/r-mpmi-feedstock.git
+	path = feedstocks/r-mpmi
+	branch = refs/heads/master
