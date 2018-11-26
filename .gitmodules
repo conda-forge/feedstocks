@@ -22094,3 +22094,7 @@
 	url = https://github.com/conda-forge/r-writexl-feedstock.git
 	path = feedstocks/r-writexl
 	branch = refs/heads/master
+[submodule "r-metrics"]
+	url = https://github.com/conda-forge/r-metrics-feedstock.git
+	path = feedstocks/r-metrics
+	branch = refs/heads/master
