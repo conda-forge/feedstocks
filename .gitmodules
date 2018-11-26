@@ -22106,3 +22106,7 @@
 	url = https://github.com/conda-forge/r-iml-feedstock.git
 	path = feedstocks/r-iml
 	branch = refs/heads/master
+[submodule "itkwidgets"]
+	url = https://github.com/conda-forge/itkwidgets-feedstock.git
+	path = feedstocks/itkwidgets
+	branch = refs/heads/master
