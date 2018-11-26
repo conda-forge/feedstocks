@@ -22098,3 +22098,7 @@
 	url = https://github.com/conda-forge/r-metrics-feedstock.git
 	path = feedstocks/r-metrics
 	branch = refs/heads/master
+[submodule "fs-gcsfs"]
+	url = https://github.com/conda-forge/fs-gcsfs-feedstock.git
+	path = feedstocks/fs-gcsfs
+	branch = refs/heads/master
