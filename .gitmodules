@@ -22110,3 +22110,7 @@
 	url = https://github.com/conda-forge/itkwidgets-feedstock.git
 	path = feedstocks/itkwidgets
 	branch = refs/heads/master
+[submodule "openexr"]
+	url = https://github.com/conda-forge/openexr-feedstock.git
+	path = feedstocks/openexr
+	branch = refs/heads/master
