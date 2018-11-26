@@ -22102,3 +22102,7 @@
 	url = https://github.com/conda-forge/fs-gcsfs-feedstock.git
 	path = feedstocks/fs-gcsfs
 	branch = refs/heads/master
+[submodule "r-iml"]
+	url = https://github.com/conda-forge/r-iml-feedstock.git
+	path = feedstocks/r-iml
+	branch = refs/heads/master
