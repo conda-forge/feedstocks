@@ -22114,3 +22114,7 @@
 	url = https://github.com/conda-forge/openexr-feedstock.git
 	path = feedstocks/openexr
 	branch = refs/heads/master
+[submodule "chartify"]
+	url = https://github.com/conda-forge/chartify-feedstock.git
+	path = feedstocks/chartify
+	branch = refs/heads/master
