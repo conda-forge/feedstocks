@@ -22138,3 +22138,7 @@
 	url = https://github.com/conda-forge/bsddb3-feedstock.git
 	path = feedstocks/bsddb3
 	branch = refs/heads/master
+[submodule "buildpy"]
+	url = https://github.com/conda-forge/buildpy-feedstock.git
+	path = feedstocks/buildpy
+	branch = refs/heads/master
