@@ -22134,3 +22134,7 @@
 	url = https://github.com/conda-forge/pynvim-feedstock.git
 	path = feedstocks/pynvim
 	branch = refs/heads/master
+[submodule "bsddb3"]
+	url = https://github.com/conda-forge/bsddb3-feedstock.git
+	path = feedstocks/bsddb3
+	branch = refs/heads/master
