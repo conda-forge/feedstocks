@@ -22142,3 +22142,7 @@
 	url = https://github.com/conda-forge/buildpy-feedstock.git
 	path = feedstocks/buildpy
 	branch = refs/heads/master
+[submodule "vaex-arrow"]
+	url = https://github.com/conda-forge/vaex-arrow-feedstock.git
+	path = feedstocks/vaex-arrow
+	branch = refs/heads/master
