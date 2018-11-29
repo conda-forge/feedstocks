@@ -22146,3 +22146,7 @@
 	url = https://github.com/conda-forge/vaex-arrow-feedstock.git
 	path = feedstocks/vaex-arrow
 	branch = refs/heads/master
+[submodule "wntr"]
+	url = https://github.com/conda-forge/wntr-feedstock.git
+	path = feedstocks/wntr
+	branch = refs/heads/master
