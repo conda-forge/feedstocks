@@ -22158,3 +22158,7 @@
 	url = https://github.com/conda-forge/perf-feedstock.git
 	path = feedstocks/perf
 	branch = refs/heads/master
+[submodule "performance"]
+	url = https://github.com/conda-forge/performance-feedstock.git
+	path = feedstocks/performance
+	branch = refs/heads/master
