@@ -22166,3 +22166,7 @@
 	url = https://github.com/conda-forge/mpi4py-fft-feedstock.git
 	path = feedstocks/mpi4py-fft
 	branch = refs/heads/master
+[submodule "pycraf"]
+	url = https://github.com/conda-forge/pycraf-feedstock.git
+	path = feedstocks/pycraf
+	branch = refs/heads/master
