@@ -22154,3 +22154,7 @@
 	url = https://github.com/conda-forge/pyworkout-toolkit-feedstock.git
 	path = feedstocks/pyworkout-toolkit
 	branch = refs/heads/master
+[submodule "perf"]
+	url = https://github.com/conda-forge/perf-feedstock.git
+	path = feedstocks/perf
+	branch = refs/heads/master
