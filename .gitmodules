@@ -22174,3 +22174,7 @@
 	url = https://github.com/conda-forge/featuretools-feedstock.git
 	path = feedstocks/featuretools
 	branch = refs/heads/master
+[submodule "stomp.py"]
+	url = https://github.com/conda-forge/stomp.py-feedstock.git
+	path = feedstocks/stomp.py
+	branch = refs/heads/master
