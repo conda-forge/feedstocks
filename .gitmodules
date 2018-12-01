@@ -22170,3 +22170,7 @@
 	url = https://github.com/conda-forge/pycraf-feedstock.git
 	path = feedstocks/pycraf
 	branch = refs/heads/master
+[submodule "featuretools"]
+	url = https://github.com/conda-forge/featuretools-feedstock.git
+	path = feedstocks/featuretools
+	branch = refs/heads/master
