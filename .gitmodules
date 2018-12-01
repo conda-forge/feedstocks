@@ -22190,3 +22190,7 @@
 	url = https://github.com/conda-forge/fribidi-feedstock.git
 	path = feedstocks/fribidi
 	branch = refs/heads/master
+[submodule "sos"]
+	url = https://github.com/conda-forge/sos-feedstock.git
+	path = feedstocks/sos
+	branch = refs/heads/master
