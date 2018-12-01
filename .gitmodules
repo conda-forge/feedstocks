@@ -22182,3 +22182,7 @@
 	url = https://github.com/conda-forge/intake-accumulo-feedstock.git
 	path = feedstocks/intake-accumulo
 	branch = refs/heads/master
+[submodule "bumps"]
+	url = https://github.com/conda-forge/bumps-feedstock.git
+	path = feedstocks/bumps
+	branch = refs/heads/master
