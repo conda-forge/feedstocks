@@ -22178,3 +22178,7 @@
 	url = https://github.com/conda-forge/stomp.py-feedstock.git
 	path = feedstocks/stomp.py
 	branch = refs/heads/master
+[submodule "intake-accumulo"]
+	url = https://github.com/conda-forge/intake-accumulo-feedstock.git
+	path = feedstocks/intake-accumulo
+	branch = refs/heads/master
