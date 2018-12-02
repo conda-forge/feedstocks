@@ -22194,3 +22194,7 @@
 	url = https://github.com/conda-forge/sos-feedstock.git
 	path = feedstocks/sos
 	branch = refs/heads/master
+[submodule "libaec"]
+	url = https://github.com/conda-forge/libaec-feedstock.git
+	path = feedstocks/libaec
+	branch = refs/heads/master
