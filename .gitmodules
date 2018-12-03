@@ -22202,3 +22202,7 @@
 	url = https://github.com/conda-forge/lzip-feedstock.git
 	path = feedstocks/lzip
 	branch = refs/heads/master
+[submodule "tzcode"]
+	url = https://github.com/conda-forge/tzcode-feedstock.git
+	path = feedstocks/tzcode
+	branch = refs/heads/master
