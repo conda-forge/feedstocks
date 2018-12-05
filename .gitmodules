@@ -22206,3 +22206,7 @@
 	url = https://github.com/conda-forge/tzcode-feedstock.git
 	path = feedstocks/tzcode
 	branch = refs/heads/master
+[submodule "ptable"]
+	url = https://github.com/conda-forge/ptable-feedstock.git
+	path = feedstocks/ptable
+	branch = refs/heads/master
