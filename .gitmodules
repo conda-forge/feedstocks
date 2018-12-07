@@ -22214,3 +22214,7 @@
 	url = https://github.com/conda-forge/python-daemon-feedstock.git
 	path = feedstocks/python-daemon
 	branch = refs/heads/master
+[submodule "sompy"]
+	url = https://github.com/conda-forge/sompy-feedstock.git
+	path = feedstocks/sompy
+	branch = refs/heads/master
