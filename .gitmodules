@@ -22254,3 +22254,7 @@
 	url = https://github.com/conda-forge/libsharp-feedstock.git
 	path = feedstocks/libsharp
 	branch = refs/heads/master
+[submodule "dictdiffer"]
+	url = https://github.com/conda-forge/dictdiffer-feedstock.git
+	path = feedstocks/dictdiffer
+	branch = refs/heads/master
