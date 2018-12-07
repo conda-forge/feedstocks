@@ -22266,3 +22266,7 @@
 	url = https://github.com/conda-forge/r-bfa-feedstock.git
 	path = feedstocks/r-bfa
 	branch = refs/heads/master
+[submodule "dsc"]
+	url = https://github.com/conda-forge/dsc-feedstock.git
+	path = feedstocks/dsc
+	branch = refs/heads/master
