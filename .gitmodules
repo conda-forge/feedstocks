@@ -22230,3 +22230,7 @@
 	url = https://github.com/conda-forge/workflows-feedstock.git
 	path = feedstocks/workflows
 	branch = refs/heads/master
+[submodule "whitebox"]
+	url = https://github.com/conda-forge/whitebox-feedstock.git
+	path = feedstocks/whitebox
+	branch = refs/heads/master
