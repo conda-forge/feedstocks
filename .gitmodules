@@ -22246,3 +22246,7 @@
 	url = https://github.com/conda-forge/intake-avro-feedstock.git
 	path = feedstocks/intake-avro
 	branch = refs/heads/master
+[submodule "donfig"]
+	url = https://github.com/conda-forge/donfig-feedstock.git
+	path = feedstocks/donfig
+	branch = refs/heads/master
