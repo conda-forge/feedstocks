@@ -22262,3 +22262,7 @@
 	url = https://github.com/conda-forge/intake-parquet-feedstock.git
 	path = feedstocks/intake-parquet
 	branch = refs/heads/master
+[submodule "r-bfa"]
+	url = https://github.com/conda-forge/r-bfa-feedstock.git
+	path = feedstocks/r-bfa
+	branch = refs/heads/master
