@@ -22242,3 +22242,7 @@
 	url = https://github.com/conda-forge/graypy-feedstock.git
 	path = feedstocks/graypy
 	branch = refs/heads/master
+[submodule "intake-avro"]
+	url = https://github.com/conda-forge/intake-avro-feedstock.git
+	path = feedstocks/intake-avro
+	branch = refs/heads/master
