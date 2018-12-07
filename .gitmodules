@@ -22250,3 +22250,7 @@
 	url = https://github.com/conda-forge/donfig-feedstock.git
 	path = feedstocks/donfig
 	branch = refs/heads/master
+[submodule "libsharp"]
+	url = https://github.com/conda-forge/libsharp-feedstock.git
+	path = feedstocks/libsharp
+	branch = refs/heads/master
