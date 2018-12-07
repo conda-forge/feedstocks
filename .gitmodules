@@ -22218,3 +22218,7 @@
 	url = https://github.com/conda-forge/sompy-feedstock.git
 	path = feedstocks/sompy
 	branch = refs/heads/master
+[submodule "calculix"]
+	url = https://github.com/conda-forge/calculix-feedstock.git
+	path = feedstocks/calculix
+	branch = refs/heads/master
