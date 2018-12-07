@@ -22226,3 +22226,7 @@
 	url = https://github.com/conda-forge/sos-pbs-feedstock.git
 	path = feedstocks/sos-pbs
 	branch = refs/heads/master
+[submodule "workflows"]
+	url = https://github.com/conda-forge/workflows-feedstock.git
+	path = feedstocks/workflows
+	branch = refs/heads/master
