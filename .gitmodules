@@ -22258,3 +22258,7 @@
 	url = https://github.com/conda-forge/dictdiffer-feedstock.git
 	path = feedstocks/dictdiffer
 	branch = refs/heads/master
+[submodule "intake-parquet"]
+	url = https://github.com/conda-forge/intake-parquet-feedstock.git
+	path = feedstocks/intake-parquet
+	branch = refs/heads/master
