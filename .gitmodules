@@ -22234,3 +22234,7 @@
 	url = https://github.com/conda-forge/whitebox-feedstock.git
 	path = feedstocks/whitebox
 	branch = refs/heads/master
+[submodule "procrunner"]
+	url = https://github.com/conda-forge/procrunner-feedstock.git
+	path = feedstocks/procrunner
+	branch = refs/heads/master
