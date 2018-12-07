@@ -22222,3 +22222,7 @@
 	url = https://github.com/conda-forge/calculix-feedstock.git
 	path = feedstocks/calculix
 	branch = refs/heads/master
+[submodule "sos-pbs"]
+	url = https://github.com/conda-forge/sos-pbs-feedstock.git
+	path = feedstocks/sos-pbs
+	branch = refs/heads/master
