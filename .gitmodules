@@ -22282,3 +22282,7 @@
 	url = https://github.com/conda-forge/r-juniperkernel-feedstock.git
 	path = feedstocks/r-juniperkernel
 	branch = refs/heads/master
+[submodule "r-gglasso"]
+	url = https://github.com/conda-forge/r-gglasso-feedstock.git
+	path = feedstocks/r-gglasso
+	branch = refs/heads/master
