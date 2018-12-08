@@ -22286,3 +22286,7 @@
 	url = https://github.com/conda-forge/r-gglasso-feedstock.git
 	path = feedstocks/r-gglasso
 	branch = refs/heads/master
+[submodule "aioftp"]
+	url = https://github.com/conda-forge/aioftp-feedstock.git
+	path = feedstocks/aioftp
+	branch = refs/heads/master
