@@ -22290,3 +22290,7 @@
 	url = https://github.com/conda-forge/aioftp-feedstock.git
 	path = feedstocks/aioftp
 	branch = refs/heads/master
+[submodule "jupyter_conda"]
+	url = https://github.com/conda-forge/jupyter_conda-feedstock.git
+	path = feedstocks/jupyter_conda
+	branch = refs/heads/master
