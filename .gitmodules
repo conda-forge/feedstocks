@@ -22274,3 +22274,7 @@
 	url = https://github.com/conda-forge/r-whoami-feedstock.git
 	path = feedstocks/r-whoami
 	branch = refs/heads/master
+[submodule "seccomp-split"]
+	url = https://github.com/conda-forge/seccomp-split-feedstock.git
+	path = feedstocks/seccomp-split
+	branch = refs/heads/master
