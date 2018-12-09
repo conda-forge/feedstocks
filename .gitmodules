@@ -22310,3 +22310,7 @@
 	url = https://github.com/conda-forge/libdrm-feedstock.git
 	path = feedstocks/libdrm
 	branch = refs/heads/master
+[submodule "intel-vaapi-driver"]
+	url = https://github.com/conda-forge/intel-vaapi-driver-feedstock.git
+	path = feedstocks/intel-vaapi-driver
+	branch = refs/heads/master
