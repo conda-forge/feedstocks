@@ -22294,3 +22294,7 @@
 	url = https://github.com/conda-forge/jupyter_conda-feedstock.git
 	path = feedstocks/jupyter_conda
 	branch = refs/heads/master
+[submodule "libva"]
+	url = https://github.com/conda-forge/libva-feedstock.git
+	path = feedstocks/libva
+	branch = refs/heads/master
