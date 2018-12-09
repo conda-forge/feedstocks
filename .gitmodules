@@ -22306,3 +22306,7 @@
 	url = https://github.com/conda-forge/intel-hybrid-driver-feedstock.git
 	path = feedstocks/intel-hybrid-driver
 	branch = refs/heads/master
+[submodule "libdrm"]
+	url = https://github.com/conda-forge/libdrm-feedstock.git
+	path = feedstocks/libdrm
+	branch = refs/heads/master
