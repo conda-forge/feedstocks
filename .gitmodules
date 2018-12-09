@@ -22302,3 +22302,7 @@
 	url = https://github.com/conda-forge/cmrt-feedstock.git
 	path = feedstocks/cmrt
 	branch = refs/heads/master
+[submodule "intel-hybrid-driver"]
+	url = https://github.com/conda-forge/intel-hybrid-driver-feedstock.git
+	path = feedstocks/intel-hybrid-driver
+	branch = refs/heads/master
