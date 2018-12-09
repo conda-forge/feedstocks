@@ -22298,3 +22298,7 @@
 	url = https://github.com/conda-forge/libva-feedstock.git
 	path = feedstocks/libva
 	branch = refs/heads/master
+[submodule "cmrt"]
+	url = https://github.com/conda-forge/cmrt-feedstock.git
+	path = feedstocks/cmrt
+	branch = refs/heads/master
