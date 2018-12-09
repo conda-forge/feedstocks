@@ -22318,3 +22318,7 @@
 	url = https://github.com/conda-forge/libva-utils-feedstock.git
 	path = feedstocks/libva-utils
 	branch = refs/heads/master
+[submodule "libpciaccess"]
+	url = https://github.com/conda-forge/libpciaccess-feedstock.git
+	path = feedstocks/libpciaccess
+	branch = refs/heads/master
