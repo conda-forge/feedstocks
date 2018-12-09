@@ -22314,3 +22314,7 @@
 	url = https://github.com/conda-forge/intel-vaapi-driver-feedstock.git
 	path = feedstocks/intel-vaapi-driver
 	branch = refs/heads/master
+[submodule "libva-utils"]
+	url = https://github.com/conda-forge/libva-utils-feedstock.git
+	path = feedstocks/libva-utils
+	branch = refs/heads/master
