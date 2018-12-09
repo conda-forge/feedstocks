@@ -22326,3 +22326,7 @@
 	url = https://github.com/conda-forge/jupyterlab-git-feedstock.git
 	path = feedstocks/jupyterlab-git
 	branch = refs/heads/master
+[submodule "oath"]
+	url = https://github.com/conda-forge/oath-feedstock.git
+	path = feedstocks/oath
+	branch = refs/heads/master
