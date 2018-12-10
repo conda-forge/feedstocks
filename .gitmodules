@@ -22358,3 +22358,7 @@
 	url = https://github.com/conda-forge/quart-cors-feedstock.git
 	path = feedstocks/quart-cors
 	branch = refs/heads/master
+[submodule "hypercorn"]
+	url = https://github.com/conda-forge/hypercorn-feedstock.git
+	path = feedstocks/hypercorn
+	branch = refs/heads/master
