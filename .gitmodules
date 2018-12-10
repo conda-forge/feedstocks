@@ -22338,3 +22338,7 @@
 	url = https://github.com/conda-forge/autoconf-archive-feedstock.git
 	path = feedstocks/autoconf-archive
 	branch = refs/heads/master
+[submodule "r-ggmcmc"]
+	url = https://github.com/conda-forge/r-ggmcmc-feedstock.git
+	path = feedstocks/r-ggmcmc
+	branch = refs/heads/master
