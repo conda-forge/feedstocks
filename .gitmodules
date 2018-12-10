@@ -22374,3 +22374,7 @@
 	url = https://github.com/conda-forge/wsproto-feedstock.git
 	path = feedstocks/wsproto
 	branch = refs/heads/master
+[submodule "pydecorate"]
+	url = https://github.com/conda-forge/pydecorate-feedstock.git
+	path = feedstocks/pydecorate
+	branch = refs/heads/master
