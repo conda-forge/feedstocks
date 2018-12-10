@@ -22402,3 +22402,7 @@
 	url = https://github.com/conda-forge/mockupdb-feedstock.git
 	path = feedstocks/mockupdb
 	branch = refs/heads/master
+[submodule "mongo-tools"]
+	url = https://github.com/conda-forge/mongo-tools-feedstock.git
+	path = feedstocks/mongo-tools
+	branch = refs/heads/master
