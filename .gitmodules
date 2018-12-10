@@ -22398,3 +22398,7 @@
 	url = https://github.com/conda-forge/check-manifest-feedstock.git
 	path = feedstocks/check-manifest
 	branch = refs/heads/master
+[submodule "mockupdb"]
+	url = https://github.com/conda-forge/mockupdb-feedstock.git
+	path = feedstocks/mockupdb
+	branch = refs/heads/master
