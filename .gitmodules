@@ -22334,3 +22334,7 @@
 	url = https://github.com/conda-forge/triangle-feedstock.git
 	path = feedstocks/triangle
 	branch = refs/heads/master
+[submodule "autoconf-archive"]
+	url = https://github.com/conda-forge/autoconf-archive-feedstock.git
+	path = feedstocks/autoconf-archive
+	branch = refs/heads/master
