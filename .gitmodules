@@ -22394,3 +22394,7 @@
 	url = https://github.com/conda-forge/traces-feedstock.git
 	path = feedstocks/traces
 	branch = refs/heads/master
+[submodule "check-manifest"]
+	url = https://github.com/conda-forge/check-manifest-feedstock.git
+	path = feedstocks/check-manifest
+	branch = refs/heads/master
