@@ -22366,3 +22366,7 @@
 	url = https://github.com/conda-forge/quart-openapi-feedstock.git
 	path = feedstocks/quart-openapi
 	branch = refs/heads/master
+[submodule "quart"]
+	url = https://github.com/conda-forge/quart-feedstock.git
+	path = feedstocks/quart
+	branch = refs/heads/master
