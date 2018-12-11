@@ -22462,3 +22462,7 @@
 	url = https://github.com/conda-forge/r-gapminder-feedstock.git
 	path = feedstocks/r-gapminder
 	branch = refs/heads/master
+[submodule "r-fftrees"]
+	url = https://github.com/conda-forge/r-fftrees-feedstock.git
+	path = feedstocks/r-fftrees
+	branch = refs/heads/master
