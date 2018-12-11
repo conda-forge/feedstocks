@@ -22454,3 +22454,7 @@
 	url = https://github.com/conda-forge/simanneal-feedstock.git
 	path = feedstocks/simanneal
 	branch = refs/heads/master
+[submodule "ligo-lvalert"]
+	url = https://github.com/conda-forge/ligo-lvalert-feedstock.git
+	path = feedstocks/ligo-lvalert
+	branch = refs/heads/master
