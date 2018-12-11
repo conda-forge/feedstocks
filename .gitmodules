@@ -22422,3 +22422,7 @@
 	url = https://github.com/conda-forge/r-xlconnect-feedstock.git
 	path = feedstocks/r-xlconnect
 	branch = refs/heads/master
+[submodule "r-c3net"]
+	url = https://github.com/conda-forge/r-c3net-feedstock.git
+	path = feedstocks/r-c3net
+	branch = refs/heads/master
