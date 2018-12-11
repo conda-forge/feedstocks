@@ -22466,3 +22466,7 @@
 	url = https://github.com/conda-forge/r-fftrees-feedstock.git
 	path = feedstocks/r-fftrees
 	branch = refs/heads/master
+[submodule "sleekxmpp"]
+	url = https://github.com/conda-forge/sleekxmpp-feedstock.git
+	path = feedstocks/sleekxmpp
+	branch = refs/heads/master
