@@ -22414,3 +22414,7 @@
 	url = https://github.com/conda-forge/r-iso-feedstock.git
 	path = feedstocks/r-iso
 	branch = refs/heads/master
+[submodule "r-awsmethods"]
+	url = https://github.com/conda-forge/r-awsmethods-feedstock.git
+	path = feedstocks/r-awsmethods
+	branch = refs/heads/master
