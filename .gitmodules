@@ -22446,3 +22446,7 @@
 	url = https://github.com/conda-forge/r-corrr-feedstock.git
 	path = feedstocks/r-corrr
 	branch = refs/heads/master
+[submodule "r-yarrr"]
+	url = https://github.com/conda-forge/r-yarrr-feedstock.git
+	path = feedstocks/r-yarrr
+	branch = refs/heads/master
