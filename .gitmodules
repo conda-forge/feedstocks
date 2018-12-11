@@ -22458,3 +22458,7 @@
 	url = https://github.com/conda-forge/ligo-lvalert-feedstock.git
 	path = feedstocks/ligo-lvalert
 	branch = refs/heads/master
+[submodule "r-gapminder"]
+	url = https://github.com/conda-forge/r-gapminder-feedstock.git
+	path = feedstocks/r-gapminder
+	branch = refs/heads/master
