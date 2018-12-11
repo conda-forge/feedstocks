@@ -22482,3 +22482,7 @@
 	url = https://github.com/conda-forge/r-rapidatetime-feedstock.git
 	path = feedstocks/r-rapidatetime
 	branch = refs/heads/master
+[submodule "r-neuralnet"]
+	url = https://github.com/conda-forge/r-neuralnet-feedstock.git
+	path = feedstocks/r-neuralnet
+	branch = refs/heads/master
