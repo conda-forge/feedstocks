@@ -22438,3 +22438,7 @@
 	url = https://github.com/conda-forge/r-generics-feedstock.git
 	path = feedstocks/r-generics
 	branch = refs/heads/master
+[submodule "r-als"]
+	url = https://github.com/conda-forge/r-als-feedstock.git
+	path = feedstocks/r-als
+	branch = refs/heads/master
