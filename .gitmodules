@@ -22450,3 +22450,7 @@
 	url = https://github.com/conda-forge/r-yarrr-feedstock.git
 	path = feedstocks/r-yarrr
 	branch = refs/heads/master
+[submodule "simanneal"]
+	url = https://github.com/conda-forge/simanneal-feedstock.git
+	path = feedstocks/simanneal
+	branch = refs/heads/master
