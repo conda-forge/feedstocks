@@ -22434,3 +22434,7 @@
 	url = https://github.com/conda-forge/r-xlconnectjars-feedstock.git
 	path = feedstocks/r-xlconnectjars
 	branch = refs/heads/master
+[submodule "r-generics"]
+	url = https://github.com/conda-forge/r-generics-feedstock.git
+	path = feedstocks/r-generics
+	branch = refs/heads/master
