@@ -22410,3 +22410,7 @@
 	url = https://github.com/conda-forge/go1.4-bootstrap-feedstock.git
 	path = feedstocks/go1.4-bootstrap
 	branch = refs/heads/master
+[submodule "r-iso"]
+	url = https://github.com/conda-forge/r-iso-feedstock.git
+	path = feedstocks/r-iso
+	branch = refs/heads/master
