@@ -22418,3 +22418,7 @@
 	url = https://github.com/conda-forge/r-awsmethods-feedstock.git
 	path = feedstocks/r-awsmethods
 	branch = refs/heads/master
+[submodule "r-xlconnect"]
+	url = https://github.com/conda-forge/r-xlconnect-feedstock.git
+	path = feedstocks/r-xlconnect
+	branch = refs/heads/master
