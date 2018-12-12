@@ -22558,3 +22558,7 @@
 	url = https://github.com/conda-forge/r-emdist-feedstock.git
 	path = feedstocks/r-emdist
 	branch = refs/heads/master
+[submodule "r-smoothwin"]
+	url = https://github.com/conda-forge/r-smoothwin-feedstock.git
+	path = feedstocks/r-smoothwin
+	branch = refs/heads/master
