@@ -22594,3 +22594,7 @@
 	url = https://github.com/conda-forge/r-kableextra-feedstock.git
 	path = feedstocks/r-kableextra
 	branch = refs/heads/master
+[submodule "motor"]
+	url = https://github.com/conda-forge/motor-feedstock.git
+	path = feedstocks/motor
+	branch = refs/heads/master
