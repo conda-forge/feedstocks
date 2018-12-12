@@ -22582,3 +22582,7 @@
 	url = https://github.com/conda-forge/r-cmls-feedstock.git
 	path = feedstocks/r-cmls
 	branch = refs/heads/master
+[submodule "libtar"]
+	url = https://github.com/conda-forge/libtar-feedstock.git
+	path = feedstocks/libtar
+	branch = refs/heads/master
