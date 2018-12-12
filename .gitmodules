@@ -22542,3 +22542,7 @@
 	url = https://github.com/conda-forge/r-cdft-feedstock.git
 	path = feedstocks/r-cdft
 	branch = refs/heads/master
+[submodule "r-catnet"]
+	url = https://github.com/conda-forge/r-catnet-feedstock.git
+	path = feedstocks/r-catnet
+	branch = refs/heads/master
