@@ -22522,3 +22522,7 @@
 	url = https://github.com/conda-forge/r-bwstest-feedstock.git
 	path = feedstocks/r-bwstest
 	branch = refs/heads/master
+[submodule "r-logspline"]
+	url = https://github.com/conda-forge/r-logspline-feedstock.git
+	path = feedstocks/r-logspline
+	branch = refs/heads/master
