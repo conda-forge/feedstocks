@@ -22586,3 +22586,7 @@
 	url = https://github.com/conda-forge/libtar-feedstock.git
 	path = feedstocks/libtar
 	branch = refs/heads/master
+[submodule "r-multiway"]
+	url = https://github.com/conda-forge/r-multiway-feedstock.git
+	path = feedstocks/r-multiway
+	branch = refs/heads/master
