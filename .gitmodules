@@ -22510,3 +22510,7 @@
 	url = https://github.com/conda-forge/r-anytime-feedstock.git
 	path = feedstocks/r-anytime
 	branch = refs/heads/master
+[submodule "r-depmixs4"]
+	url = https://github.com/conda-forge/r-depmixs4-feedstock.git
+	path = feedstocks/r-depmixs4
+	branch = refs/heads/master
