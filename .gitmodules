@@ -22590,3 +22590,7 @@
 	url = https://github.com/conda-forge/r-multiway-feedstock.git
 	path = feedstocks/r-multiway
 	branch = refs/heads/master
+[submodule "r-kableextra"]
+	url = https://github.com/conda-forge/r-kableextra-feedstock.git
+	path = feedstocks/r-kableextra
+	branch = refs/heads/master
