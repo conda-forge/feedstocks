@@ -22554,3 +22554,7 @@
 	url = https://github.com/conda-forge/r-rpmm-feedstock.git
 	path = feedstocks/r-rpmm
 	branch = refs/heads/master
+[submodule "r-emdist"]
+	url = https://github.com/conda-forge/r-emdist-feedstock.git
+	path = feedstocks/r-emdist
+	branch = refs/heads/master
