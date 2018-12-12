@@ -22494,3 +22494,7 @@
 	url = https://github.com/conda-forge/r-epi-feedstock.git
 	path = feedstocks/r-epi
 	branch = refs/heads/master
+[submodule "r-biocmanager"]
+	url = https://github.com/conda-forge/r-biocmanager-feedstock.git
+	path = feedstocks/r-biocmanager
+	branch = refs/heads/master
