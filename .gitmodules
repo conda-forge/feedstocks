@@ -22534,3 +22534,7 @@
 	url = https://github.com/conda-forge/r-r.matlab-feedstock.git
 	path = feedstocks/r-r.matlab
 	branch = refs/heads/master
+[submodule "r-msgps"]
+	url = https://github.com/conda-forge/r-msgps-feedstock.git
+	path = feedstocks/r-msgps
+	branch = refs/heads/master
