@@ -22546,3 +22546,7 @@
 	url = https://github.com/conda-forge/r-catnet-feedstock.git
 	path = feedstocks/r-catnet
 	branch = refs/heads/master
+[submodule "r-maptpx"]
+	url = https://github.com/conda-forge/r-maptpx-feedstock.git
+	path = feedstocks/r-maptpx
+	branch = refs/heads/master
