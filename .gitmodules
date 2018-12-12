@@ -22486,3 +22486,7 @@
 	url = https://github.com/conda-forge/r-neuralnet-feedstock.git
 	path = feedstocks/r-neuralnet
 	branch = refs/heads/master
+[submodule "r-parcor"]
+	url = https://github.com/conda-forge/r-parcor-feedstock.git
+	path = feedstocks/r-parcor
+	branch = refs/heads/master
