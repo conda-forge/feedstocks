@@ -22514,3 +22514,7 @@
 	url = https://github.com/conda-forge/r-depmixs4-feedstock.git
 	path = feedstocks/r-depmixs4
 	branch = refs/heads/master
+[submodule "r-ksamples"]
+	url = https://github.com/conda-forge/r-ksamples-feedstock.git
+	path = feedstocks/r-ksamples
+	branch = refs/heads/master
