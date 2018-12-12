@@ -22518,3 +22518,7 @@
 	url = https://github.com/conda-forge/r-ksamples-feedstock.git
 	path = feedstocks/r-ksamples
 	branch = refs/heads/master
+[submodule "r-bwstest"]
+	url = https://github.com/conda-forge/r-bwstest-feedstock.git
+	path = feedstocks/r-bwstest
+	branch = refs/heads/master
