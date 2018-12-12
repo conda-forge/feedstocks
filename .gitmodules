@@ -22574,3 +22574,7 @@
 	url = https://github.com/conda-forge/r-threeway-feedstock.git
 	path = feedstocks/r-threeway
 	branch = refs/heads/master
+[submodule "r-rtensor"]
+	url = https://github.com/conda-forge/r-rtensor-feedstock.git
+	path = feedstocks/r-rtensor
+	branch = refs/heads/master
