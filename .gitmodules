@@ -22562,3 +22562,7 @@
 	url = https://github.com/conda-forge/r-smoothwin-feedstock.git
 	path = feedstocks/r-smoothwin
 	branch = refs/heads/master
+[submodule "r-rgtk2"]
+	url = https://github.com/conda-forge/r-rgtk2-feedstock.git
+	path = feedstocks/r-rgtk2
+	branch = refs/heads/master
