@@ -22506,3 +22506,7 @@
 	url = https://github.com/conda-forge/r-etm-feedstock.git
 	path = feedstocks/r-etm
 	branch = refs/heads/master
+[submodule "r-anytime"]
+	url = https://github.com/conda-forge/r-anytime-feedstock.git
+	path = feedstocks/r-anytime
+	branch = refs/heads/master
