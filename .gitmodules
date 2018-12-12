@@ -22502,3 +22502,7 @@
 	url = https://github.com/conda-forge/r-ppls-feedstock.git
 	path = feedstocks/r-ppls
 	branch = refs/heads/master
+[submodule "r-etm"]
+	url = https://github.com/conda-forge/r-etm-feedstock.git
+	path = feedstocks/r-etm
+	branch = refs/heads/master
