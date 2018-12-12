@@ -22526,3 +22526,7 @@
 	url = https://github.com/conda-forge/r-logspline-feedstock.git
 	path = feedstocks/r-logspline
 	branch = refs/heads/master
+[submodule "r-mppa"]
+	url = https://github.com/conda-forge/r-mppa-feedstock.git
+	path = feedstocks/r-mppa
+	branch = refs/heads/master
