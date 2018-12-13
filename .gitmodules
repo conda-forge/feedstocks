@@ -22610,3 +22610,7 @@
 	url = https://github.com/conda-forge/r-expsmooth-feedstock.git
 	path = feedstocks/r-expsmooth
 	branch = refs/heads/master
+[submodule "r-uroot"]
+	url = https://github.com/conda-forge/r-uroot-feedstock.git
+	path = feedstocks/r-uroot
+	branch = refs/heads/master
