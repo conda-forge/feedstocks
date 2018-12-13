@@ -22618,3 +22618,7 @@
 	url = https://github.com/conda-forge/snowflake-connector-python-feedstock.git
 	path = feedstocks/snowflake-connector-python
 	branch = refs/heads/master
+[submodule "datefudge"]
+	url = https://github.com/conda-forge/datefudge-feedstock.git
+	path = feedstocks/datefudge
+	branch = refs/heads/master
