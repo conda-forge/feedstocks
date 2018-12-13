@@ -22626,3 +22626,7 @@
 	url = https://github.com/conda-forge/humanleague-feedstock.git
 	path = feedstocks/humanleague
 	branch = refs/heads/master
+[submodule "r-wdi"]
+	url = https://github.com/conda-forge/r-wdi-feedstock.git
+	path = feedstocks/r-wdi
+	branch = refs/heads/master
