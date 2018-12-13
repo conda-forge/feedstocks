@@ -22606,3 +22606,7 @@
 	url = https://github.com/conda-forge/r-fma-feedstock.git
 	path = feedstocks/r-fma
 	branch = refs/heads/master
+[submodule "r-expsmooth"]
+	url = https://github.com/conda-forge/r-expsmooth-feedstock.git
+	path = feedstocks/r-expsmooth
+	branch = refs/heads/master
