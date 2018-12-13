@@ -22642,3 +22642,7 @@
 	url = https://github.com/conda-forge/r-dials-feedstock.git
 	path = feedstocks/r-dials
 	branch = refs/heads/master
+[submodule "crystals"]
+	url = https://github.com/conda-forge/crystals-feedstock.git
+	path = feedstocks/crystals
+	branch = refs/heads/master
