@@ -22598,3 +22598,7 @@
 	url = https://github.com/conda-forge/motor-feedstock.git
 	path = feedstocks/motor
 	branch = refs/heads/master
+[submodule "aionotify"]
+	url = https://github.com/conda-forge/aionotify-feedstock.git
+	path = feedstocks/aionotify
+	branch = refs/heads/master
