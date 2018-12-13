@@ -22638,3 +22638,7 @@
 	url = https://github.com/conda-forge/jsonnet-feedstock.git
 	path = feedstocks/jsonnet
 	branch = refs/heads/master
+[submodule "r-dials"]
+	url = https://github.com/conda-forge/r-dials-feedstock.git
+	path = feedstocks/r-dials
+	branch = refs/heads/master
