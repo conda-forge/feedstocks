@@ -22602,3 +22602,7 @@
 	url = https://github.com/conda-forge/aionotify-feedstock.git
 	path = feedstocks/aionotify
 	branch = refs/heads/master
+[submodule "r-fma"]
+	url = https://github.com/conda-forge/r-fma-feedstock.git
+	path = feedstocks/r-fma
+	branch = refs/heads/master
