@@ -22646,3 +22646,7 @@
 	url = https://github.com/conda-forge/crystals-feedstock.git
 	path = feedstocks/crystals
 	branch = refs/heads/master
+[submodule "vipaccess"]
+	url = https://github.com/conda-forge/vipaccess-feedstock.git
+	path = feedstocks/vipaccess
+	branch = refs/heads/master
