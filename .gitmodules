@@ -22670,3 +22670,7 @@
 	url = https://github.com/conda-forge/r-refgenome-feedstock.git
 	path = feedstocks/r-refgenome
 	branch = refs/heads/master
+[submodule "suspect"]
+	url = https://github.com/conda-forge/suspect-feedstock.git
+	path = feedstocks/suspect
+	branch = refs/heads/master
