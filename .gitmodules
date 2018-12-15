@@ -22654,3 +22654,7 @@
 	url = https://github.com/conda-forge/r-objectsignals-feedstock.git
 	path = feedstocks/r-objectsignals
 	branch = refs/heads/master
+[submodule "pyctest"]
+	url = https://github.com/conda-forge/pyctest-feedstock.git
+	path = feedstocks/pyctest
+	branch = refs/heads/master
