@@ -22674,3 +22674,7 @@
 	url = https://github.com/conda-forge/suspect-feedstock.git
 	path = feedstocks/suspect
 	branch = refs/heads/master
+[submodule "parsimonious"]
+	url = https://github.com/conda-forge/parsimonious-feedstock.git
+	path = feedstocks/parsimonious
+	branch = refs/heads/master
