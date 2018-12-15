@@ -22690,3 +22690,7 @@
 	url = https://github.com/conda-forge/r-tree-feedstock.git
 	path = feedstocks/r-tree
 	branch = refs/heads/master
+[submodule "r-skynet"]
+	url = https://github.com/conda-forge/r-skynet-feedstock.git
+	path = feedstocks/r-skynet
+	branch = refs/heads/master
