@@ -22678,3 +22678,7 @@
 	url = https://github.com/conda-forge/parsimonious-feedstock.git
 	path = feedstocks/parsimonious
 	branch = refs/heads/master
+[submodule "r-rpart.plot"]
+	url = https://github.com/conda-forge/r-rpart.plot-feedstock.git
+	path = feedstocks/r-rpart.plot
+	branch = refs/heads/master
