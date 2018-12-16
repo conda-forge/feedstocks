@@ -22698,3 +22698,7 @@
 	url = https://github.com/conda-forge/xtensor-r-feedstock.git
 	path = feedstocks/xtensor-r
 	branch = refs/heads/master
+[submodule "r-modes"]
+	url = https://github.com/conda-forge/r-modes-feedstock.git
+	path = feedstocks/r-modes
+	branch = refs/heads/master
