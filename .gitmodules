@@ -22706,3 +22706,7 @@
 	url = https://github.com/conda-forge/r-ineq-feedstock.git
 	path = feedstocks/r-ineq
 	branch = refs/heads/master
+[submodule "r-ggalluvial"]
+	url = https://github.com/conda-forge/r-ggalluvial-feedstock.git
+	path = feedstocks/r-ggalluvial
+	branch = refs/heads/master
