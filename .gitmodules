@@ -22702,3 +22702,7 @@
 	url = https://github.com/conda-forge/r-modes-feedstock.git
 	path = feedstocks/r-modes
 	branch = refs/heads/master
+[submodule "r-ineq"]
+	url = https://github.com/conda-forge/r-ineq-feedstock.git
+	path = feedstocks/r-ineq
+	branch = refs/heads/master
