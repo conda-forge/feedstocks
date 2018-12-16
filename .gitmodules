@@ -22710,3 +22710,7 @@
 	url = https://github.com/conda-forge/r-ggalluvial-feedstock.git
 	path = feedstocks/r-ggalluvial
 	branch = refs/heads/master
+[submodule "r-visdat"]
+	url = https://github.com/conda-forge/r-visdat-feedstock.git
+	path = feedstocks/r-visdat
+	branch = refs/heads/master
