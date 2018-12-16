@@ -22726,3 +22726,7 @@
 	url = https://github.com/conda-forge/r-rbamtools-feedstock.git
 	path = feedstocks/r-rbamtools
 	branch = refs/heads/master
+[submodule "r-ic.infer"]
+	url = https://github.com/conda-forge/r-ic.infer-feedstock.git
+	path = feedstocks/r-ic.infer
+	branch = refs/heads/master
