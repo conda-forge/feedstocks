@@ -22730,3 +22730,7 @@
 	url = https://github.com/conda-forge/r-ic.infer-feedstock.git
 	path = feedstocks/r-ic.infer
 	branch = refs/heads/master
+[submodule "r-simpleboot"]
+	url = https://github.com/conda-forge/r-simpleboot-feedstock.git
+	path = feedstocks/r-simpleboot
+	branch = refs/heads/master
