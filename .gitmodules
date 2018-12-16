@@ -22734,3 +22734,7 @@
 	url = https://github.com/conda-forge/r-simpleboot-feedstock.git
 	path = feedstocks/r-simpleboot
 	branch = refs/heads/master
+[submodule "pydub"]
+	url = https://github.com/conda-forge/pydub-feedstock.git
+	path = feedstocks/pydub
+	branch = refs/heads/master
