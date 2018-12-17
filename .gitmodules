@@ -22774,3 +22774,7 @@
 	url = https://github.com/conda-forge/cw-eval-feedstock.git
 	path = feedstocks/cw-eval
 	branch = refs/heads/master
+[submodule "audiogrep"]
+	url = https://github.com/conda-forge/audiogrep-feedstock.git
+	path = feedstocks/audiogrep
+	branch = refs/heads/master
