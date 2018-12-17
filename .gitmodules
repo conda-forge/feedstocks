@@ -22750,3 +22750,7 @@
 	url = https://github.com/conda-forge/lunr-feedstock.git
 	path = feedstocks/lunr
 	branch = refs/heads/master
+[submodule "r-gmm"]
+	url = https://github.com/conda-forge/r-gmm-feedstock.git
+	path = feedstocks/r-gmm
+	branch = refs/heads/master
