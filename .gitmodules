@@ -22794,3 +22794,7 @@
 	url = https://github.com/conda-forge/squashfs-tools-feedstock.git
 	path = feedstocks/squashfs-tools
 	branch = refs/heads/master
+[submodule "apsg"]
+	url = https://github.com/conda-forge/apsg-feedstock.git
+	path = feedstocks/apsg
+	branch = refs/heads/master
