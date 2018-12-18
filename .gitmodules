@@ -22802,3 +22802,7 @@
 	url = https://github.com/conda-forge/vounwarp-feedstock.git
 	path = feedstocks/vounwarp
 	branch = refs/heads/master
+[submodule "r-tidymodels"]
+	url = https://github.com/conda-forge/r-tidymodels-feedstock.git
+	path = feedstocks/r-tidymodels
+	branch = refs/heads/master
