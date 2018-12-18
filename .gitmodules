@@ -22798,3 +22798,7 @@
 	url = https://github.com/conda-forge/apsg-feedstock.git
 	path = feedstocks/apsg
 	branch = refs/heads/master
+[submodule "vounwarp"]
+	url = https://github.com/conda-forge/vounwarp-feedstock.git
+	path = feedstocks/vounwarp
+	branch = refs/heads/master
