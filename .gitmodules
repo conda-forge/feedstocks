@@ -22830,3 +22830,7 @@
 	url = https://github.com/conda-forge/r-xmisc-feedstock.git
 	path = feedstocks/r-xmisc
 	branch = refs/heads/master
+[submodule "r-boolnet"]
+	url = https://github.com/conda-forge/r-boolnet-feedstock.git
+	path = feedstocks/r-boolnet
+	branch = refs/heads/master
