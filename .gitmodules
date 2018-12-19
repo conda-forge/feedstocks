@@ -22810,3 +22810,7 @@
 	url = https://github.com/conda-forge/rdflib-jsonld-feedstock.git
 	path = feedstocks/rdflib-jsonld
 	branch = refs/heads/master
+[submodule "cwltool"]
+	url = https://github.com/conda-forge/cwltool-feedstock.git
+	path = feedstocks/cwltool
+	branch = refs/heads/master
