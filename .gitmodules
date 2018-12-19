@@ -22814,3 +22814,7 @@
 	url = https://github.com/conda-forge/cwltool-feedstock.git
 	path = feedstocks/cwltool
 	branch = refs/heads/master
+[submodule "shellescape"]
+	url = https://github.com/conda-forge/shellescape-feedstock.git
+	path = feedstocks/shellescape
+	branch = refs/heads/master
