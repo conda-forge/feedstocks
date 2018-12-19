@@ -22834,3 +22834,7 @@
 	url = https://github.com/conda-forge/r-boolnet-feedstock.git
 	path = feedstocks/r-boolnet
 	branch = refs/heads/master
+[submodule "libidn2"]
+	url = https://github.com/conda-forge/libidn2-feedstock.git
+	path = feedstocks/libidn2
+	branch = refs/heads/master
