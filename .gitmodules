@@ -22878,3 +22878,7 @@
 	url = https://github.com/conda-forge/r-pathological-feedstock.git
 	path = feedstocks/r-pathological
 	branch = refs/heads/master
+[submodule "r-webutils"]
+	url = https://github.com/conda-forge/r-webutils-feedstock.git
+	path = feedstocks/r-webutils
+	branch = refs/heads/master
