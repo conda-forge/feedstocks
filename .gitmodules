@@ -22866,3 +22866,7 @@
 	url = https://github.com/conda-forge/qtpy-uic-feedstock.git
 	path = feedstocks/qtpy-uic
 	branch = refs/heads/master
+[submodule "repoze.lru"]
+	url = https://github.com/conda-forge/repoze.lru-feedstock.git
+	path = feedstocks/repoze.lru
+	branch = refs/heads/master
