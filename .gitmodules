@@ -22850,3 +22850,7 @@
 	url = https://github.com/conda-forge/r-ggdistribute-feedstock.git
 	path = feedstocks/r-ggdistribute
 	branch = refs/heads/master
+[submodule "r-xtensor"]
+	url = https://github.com/conda-forge/r-xtensor-feedstock.git
+	path = feedstocks/r-xtensor
+	branch = refs/heads/master
