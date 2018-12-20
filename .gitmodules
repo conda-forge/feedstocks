@@ -22854,3 +22854,7 @@
 	url = https://github.com/conda-forge/r-xtensor-feedstock.git
 	path = feedstocks/r-xtensor
 	branch = refs/heads/master
+[submodule "gmprocess"]
+	url = https://github.com/conda-forge/gmprocess-feedstock.git
+	path = feedstocks/gmprocess
+	branch = refs/heads/master
