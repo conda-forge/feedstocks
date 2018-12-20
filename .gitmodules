@@ -22858,3 +22858,7 @@
 	url = https://github.com/conda-forge/gmprocess-feedstock.git
 	path = feedstocks/gmprocess
 	branch = refs/heads/master
+[submodule "qupy"]
+	url = https://github.com/conda-forge/qupy-feedstock.git
+	path = feedstocks/qupy
+	branch = refs/heads/master
