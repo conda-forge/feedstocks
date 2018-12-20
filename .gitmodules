@@ -22886,3 +22886,7 @@
 	url = https://github.com/conda-forge/r-eulerr-feedstock.git
 	path = feedstocks/r-eulerr
 	branch = refs/heads/master
+[submodule "r-sys"]
+	url = https://github.com/conda-forge/r-sys-feedstock.git
+	path = feedstocks/r-sys
+	branch = refs/heads/master
