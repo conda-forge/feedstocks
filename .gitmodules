@@ -22906,3 +22906,7 @@
 	url = https://github.com/conda-forge/r-coxboost-feedstock.git
 	path = feedstocks/r-coxboost
 	branch = refs/heads/master
+[submodule "r-cairodevice"]
+	url = https://github.com/conda-forge/r-cairodevice-feedstock.git
+	path = feedstocks/r-cairodevice
+	branch = refs/heads/master
