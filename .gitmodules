@@ -22898,3 +22898,7 @@
 	url = https://github.com/conda-forge/r-soniclength-feedstock.git
 	path = feedstocks/r-soniclength
 	branch = refs/heads/master
+[submodule "r-bglr"]
+	url = https://github.com/conda-forge/r-bglr-feedstock.git
+	path = feedstocks/r-bglr
+	branch = refs/heads/master
