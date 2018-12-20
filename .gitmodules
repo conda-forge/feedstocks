@@ -22902,3 +22902,7 @@
 	url = https://github.com/conda-forge/r-bglr-feedstock.git
 	path = feedstocks/r-bglr
 	branch = refs/heads/master
+[submodule "r-coxboost"]
+	url = https://github.com/conda-forge/r-coxboost-feedstock.git
+	path = feedstocks/r-coxboost
+	branch = refs/heads/master
