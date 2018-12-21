@@ -22938,3 +22938,7 @@
 	url = https://github.com/conda-forge/doepipeline-feedstock.git
 	path = feedstocks/doepipeline
 	branch = refs/heads/master
+[submodule "ukbparse"]
+	url = https://github.com/conda-forge/ukbparse-feedstock.git
+	path = feedstocks/ukbparse
+	branch = refs/heads/master
