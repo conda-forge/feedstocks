@@ -22966,3 +22966,7 @@
 	url = https://github.com/conda-forge/jaeger-client-feedstock.git
 	path = feedstocks/jaeger-client
 	branch = refs/heads/master
+[submodule "threadloop"]
+	url = https://github.com/conda-forge/threadloop-feedstock.git
+	path = feedstocks/threadloop
+	branch = refs/heads/master
