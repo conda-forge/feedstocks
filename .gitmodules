@@ -22910,3 +22910,7 @@
 	url = https://github.com/conda-forge/r-cairodevice-feedstock.git
 	path = feedstocks/r-cairodevice
 	branch = refs/heads/master
+[submodule "ptemcee"]
+	url = https://github.com/conda-forge/ptemcee-feedstock.git
+	path = feedstocks/ptemcee
+	branch = refs/heads/master
