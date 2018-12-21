@@ -22958,3 +22958,7 @@
 	url = https://github.com/conda-forge/opentsne-feedstock.git
 	path = feedstocks/opentsne
 	branch = refs/heads/master
+[submodule "javaobj-py3"]
+	url = https://github.com/conda-forge/javaobj-py3-feedstock.git
+	path = feedstocks/javaobj-py3
+	branch = refs/heads/master
