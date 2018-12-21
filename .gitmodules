@@ -22934,3 +22934,7 @@
 	url = https://github.com/conda-forge/pingouin-feedstock.git
 	path = feedstocks/pingouin
 	branch = refs/heads/master
+[submodule "doepipeline"]
+	url = https://github.com/conda-forge/doepipeline-feedstock.git
+	path = feedstocks/doepipeline
+	branch = refs/heads/master
