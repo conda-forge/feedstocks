@@ -22926,3 +22926,7 @@
 	url = https://github.com/conda-forge/r-tmvtnorm-feedstock.git
 	path = feedstocks/r-tmvtnorm
 	branch = refs/heads/master
+[submodule "r-protolite"]
+	url = https://github.com/conda-forge/r-protolite-feedstock.git
+	path = feedstocks/r-protolite
+	branch = refs/heads/master
