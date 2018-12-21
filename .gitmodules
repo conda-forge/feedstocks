@@ -22982,3 +22982,7 @@
 	url = https://github.com/conda-forge/pyjks-feedstock.git
 	path = feedstocks/pyjks
 	branch = refs/heads/master
+[submodule "pytorch-pretrained-bert"]
+	url = https://github.com/conda-forge/pytorch-pretrained-bert-feedstock.git
+	path = feedstocks/pytorch-pretrained-bert
+	branch = refs/heads/master
