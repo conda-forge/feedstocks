@@ -22970,3 +22970,7 @@
 	url = https://github.com/conda-forge/threadloop-feedstock.git
 	path = feedstocks/threadloop
 	branch = refs/heads/master
+[submodule "xeus-cling"]
+	url = https://github.com/conda-forge/xeus-cling-feedstock.git
+	path = feedstocks/xeus-cling
+	branch = refs/heads/master
