@@ -22930,3 +22930,7 @@
 	url = https://github.com/conda-forge/r-protolite-feedstock.git
 	path = feedstocks/r-protolite
 	branch = refs/heads/master
+[submodule "pingouin"]
+	url = https://github.com/conda-forge/pingouin-feedstock.git
+	path = feedstocks/pingouin
+	branch = refs/heads/master
