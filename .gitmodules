@@ -22954,3 +22954,7 @@
 	url = https://github.com/conda-forge/celery-singleton-feedstock.git
 	path = feedstocks/celery-singleton
 	branch = refs/heads/master
+[submodule "opentsne"]
+	url = https://github.com/conda-forge/opentsne-feedstock.git
+	path = feedstocks/opentsne
+	branch = refs/heads/master
