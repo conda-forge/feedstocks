@@ -22974,3 +22974,7 @@
 	url = https://github.com/conda-forge/xeus-cling-feedstock.git
 	path = feedstocks/xeus-cling
 	branch = refs/heads/master
+[submodule "twofish"]
+	url = https://github.com/conda-forge/twofish-feedstock.git
+	path = feedstocks/twofish
+	branch = refs/heads/master
