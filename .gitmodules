@@ -23006,3 +23006,7 @@
 	url = https://github.com/conda-forge/r-openimager-feedstock.git
 	path = feedstocks/r-openimager
 	branch = refs/heads/master
+[submodule "r-fd"]
+	url = https://github.com/conda-forge/r-fd-feedstock.git
+	path = feedstocks/r-fd
+	branch = refs/heads/master
