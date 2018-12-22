@@ -23086,3 +23086,7 @@
 	url = https://github.com/conda-forge/easydict-feedstock.git
 	path = feedstocks/easydict
 	branch = refs/heads/master
+[submodule "markdown_strings"]
+	url = https://github.com/conda-forge/markdown_strings-feedstock.git
+	path = feedstocks/markdown_strings
+	branch = refs/heads/master
