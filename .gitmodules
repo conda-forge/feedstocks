@@ -23030,3 +23030,7 @@
 	url = https://github.com/conda-forge/r-cba-feedstock.git
 	path = feedstocks/r-cba
 	branch = refs/heads/master
+[submodule "r-arules"]
+	url = https://github.com/conda-forge/r-arules-feedstock.git
+	path = feedstocks/r-arules
+	branch = refs/heads/master
