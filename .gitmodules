@@ -23038,3 +23038,7 @@
 	url = https://github.com/conda-forge/r-adehabitatma-feedstock.git
 	path = feedstocks/r-adehabitatma
 	branch = refs/heads/master
+[submodule "r-lsr"]
+	url = https://github.com/conda-forge/r-lsr-feedstock.git
+	path = feedstocks/r-lsr
+	branch = refs/heads/master
