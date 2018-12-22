@@ -23070,3 +23070,7 @@
 	url = https://github.com/conda-forge/r-rebus.base-feedstock.git
 	path = feedstocks/r-rebus.base
 	branch = refs/heads/master
+[submodule "r-rebus.numbers"]
+	url = https://github.com/conda-forge/r-rebus.numbers-feedstock.git
+	path = feedstocks/r-rebus.numbers
+	branch = refs/heads/master
