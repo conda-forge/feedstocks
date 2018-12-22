@@ -23026,3 +23026,7 @@
 	url = https://github.com/conda-forge/r-orcme-feedstock.git
 	path = feedstocks/r-orcme
 	branch = refs/heads/master
+[submodule "r-cba"]
+	url = https://github.com/conda-forge/r-cba-feedstock.git
+	path = feedstocks/r-cba
+	branch = refs/heads/master
