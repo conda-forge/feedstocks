@@ -23002,3 +23002,7 @@
 	url = https://github.com/conda-forge/openldap-feedstock.git
 	path = feedstocks/openldap
 	branch = refs/heads/master
+[submodule "r-openimager"]
+	url = https://github.com/conda-forge/r-openimager-feedstock.git
+	path = feedstocks/r-openimager
+	branch = refs/heads/master
