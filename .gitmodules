@@ -22998,3 +22998,7 @@
 	url = https://github.com/conda-forge/s3cmd-feedstock.git
 	path = feedstocks/s3cmd
 	branch = refs/heads/master
+[submodule "openldap"]
+	url = https://github.com/conda-forge/openldap-feedstock.git
+	path = feedstocks/openldap
+	branch = refs/heads/master
