@@ -23082,3 +23082,7 @@
 	url = https://github.com/conda-forge/r-rggobi-feedstock.git
 	path = feedstocks/r-rggobi
 	branch = refs/heads/master
+[submodule "easydict"]
+	url = https://github.com/conda-forge/easydict-feedstock.git
+	path = feedstocks/easydict
+	branch = refs/heads/master
