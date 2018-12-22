@@ -23094,3 +23094,7 @@
 	url = https://github.com/conda-forge/pysendfile-feedstock.git
 	path = feedstocks/pysendfile
 	branch = refs/heads/master
+[submodule "allennlp"]
+	url = https://github.com/conda-forge/allennlp-feedstock.git
+	path = feedstocks/allennlp
+	branch = refs/heads/master
