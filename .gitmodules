@@ -23062,3 +23062,7 @@
 	url = https://github.com/conda-forge/r-rebus.datetimes-feedstock.git
 	path = feedstocks/r-rebus.datetimes
 	branch = refs/heads/master
+[submodule "r-maptree"]
+	url = https://github.com/conda-forge/r-maptree-feedstock.git
+	path = feedstocks/r-maptree
+	branch = refs/heads/master
