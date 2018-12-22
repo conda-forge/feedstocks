@@ -23066,3 +23066,7 @@
 	url = https://github.com/conda-forge/r-maptree-feedstock.git
 	path = feedstocks/r-maptree
 	branch = refs/heads/master
+[submodule "r-rebus.base"]
+	url = https://github.com/conda-forge/r-rebus.base-feedstock.git
+	path = feedstocks/r-rebus.base
+	branch = refs/heads/master
