@@ -23018,3 +23018,7 @@
 	url = https://github.com/conda-forge/r-goric-feedstock.git
 	path = feedstocks/r-goric
 	branch = refs/heads/master
+[submodule "r-oriclust"]
+	url = https://github.com/conda-forge/r-oriclust-feedstock.git
+	path = feedstocks/r-oriclust
+	branch = refs/heads/master
