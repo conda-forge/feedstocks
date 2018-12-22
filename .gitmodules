@@ -23054,3 +23054,7 @@
 	url = https://github.com/conda-forge/r-rebus.unicode-feedstock.git
 	path = feedstocks/r-rebus.unicode
 	branch = refs/heads/master
+[submodule "r-poibin"]
+	url = https://github.com/conda-forge/r-poibin-feedstock.git
+	path = feedstocks/r-poibin
+	branch = refs/heads/master
