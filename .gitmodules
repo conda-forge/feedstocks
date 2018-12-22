@@ -23090,3 +23090,7 @@
 	url = https://github.com/conda-forge/markdown_strings-feedstock.git
 	path = feedstocks/markdown_strings
 	branch = refs/heads/master
+[submodule "pysendfile"]
+	url = https://github.com/conda-forge/pysendfile-feedstock.git
+	path = feedstocks/pysendfile
+	branch = refs/heads/master
