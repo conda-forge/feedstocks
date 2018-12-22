@@ -23042,3 +23042,7 @@
 	url = https://github.com/conda-forge/r-lsr-feedstock.git
 	path = feedstocks/r-lsr
 	branch = refs/heads/master
+[submodule "xframe"]
+	url = https://github.com/conda-forge/xframe-feedstock.git
+	path = feedstocks/xframe
+	branch = refs/heads/master
