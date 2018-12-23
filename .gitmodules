@@ -23106,3 +23106,7 @@
 	url = https://github.com/conda-forge/lcov-feedstock.git
 	path = feedstocks/lcov
 	branch = refs/heads/master
+[submodule "xwidgets"]
+	url = https://github.com/conda-forge/xwidgets-feedstock.git
+	path = feedstocks/xwidgets
+	branch = refs/heads/master
