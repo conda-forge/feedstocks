@@ -23098,3 +23098,7 @@
 	url = https://github.com/conda-forge/allennlp-feedstock.git
 	path = feedstocks/allennlp
 	branch = refs/heads/master
+[submodule "r-aws"]
+	url = https://github.com/conda-forge/r-aws-feedstock.git
+	path = feedstocks/r-aws
+	branch = refs/heads/master
