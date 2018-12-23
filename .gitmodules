@@ -23102,3 +23102,7 @@
 	url = https://github.com/conda-forge/r-aws-feedstock.git
 	path = feedstocks/r-aws
 	branch = refs/heads/master
+[submodule "lcov"]
+	url = https://github.com/conda-forge/lcov-feedstock.git
+	path = feedstocks/lcov
+	branch = refs/heads/master
