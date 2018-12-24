@@ -23118,3 +23118,7 @@
 	url = https://github.com/conda-forge/r-clusterr-feedstock.git
 	path = feedstocks/r-clusterr
 	branch = refs/heads/master
+[submodule "r-wheatmap"]
+	url = https://github.com/conda-forge/r-wheatmap-feedstock.git
+	path = feedstocks/r-wheatmap
+	branch = refs/heads/master
