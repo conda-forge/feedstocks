@@ -23146,3 +23146,7 @@
 	url = https://github.com/conda-forge/r-lightgbm-feedstock.git
 	path = feedstocks/r-lightgbm
 	branch = refs/heads/master
+[submodule "slang"]
+	url = https://github.com/conda-forge/slang-feedstock.git
+	path = feedstocks/slang
+	branch = refs/heads/master
