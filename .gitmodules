@@ -23110,3 +23110,7 @@
 	url = https://github.com/conda-forge/xwidgets-feedstock.git
 	path = feedstocks/xwidgets
 	branch = refs/heads/master
+[submodule "r-rmpi"]
+	url = https://github.com/conda-forge/r-rmpi-feedstock.git
+	path = feedstocks/r-rmpi
+	branch = refs/heads/master
