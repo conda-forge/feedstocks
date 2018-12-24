@@ -23130,3 +23130,7 @@
 	url = https://github.com/conda-forge/r-rcppclassic-feedstock.git
 	path = feedstocks/r-rcppclassic
 	branch = refs/heads/master
+[submodule "r-servr"]
+	url = https://github.com/conda-forge/r-servr-feedstock.git
+	path = feedstocks/r-servr
+	branch = refs/heads/master
