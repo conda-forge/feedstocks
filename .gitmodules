@@ -23142,3 +23142,7 @@
 	url = https://github.com/conda-forge/r-bezier-feedstock.git
 	path = feedstocks/r-bezier
 	branch = refs/heads/master
+[submodule "r-lightgbm"]
+	url = https://github.com/conda-forge/r-lightgbm-feedstock.git
+	path = feedstocks/r-lightgbm
+	branch = refs/heads/master
