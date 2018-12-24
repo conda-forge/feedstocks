@@ -23154,3 +23154,7 @@
 	url = https://github.com/conda-forge/ldas-tools-filters-feedstock.git
 	path = feedstocks/ldas-tools-filters
 	branch = refs/heads/master
+[submodule "boto"]
+	url = https://github.com/conda-forge/boto-feedstock.git
+	path = feedstocks/boto
+	branch = refs/heads/master
