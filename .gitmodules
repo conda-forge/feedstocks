@@ -23134,3 +23134,7 @@
 	url = https://github.com/conda-forge/r-servr-feedstock.git
 	path = feedstocks/r-servr
 	branch = refs/heads/master
+[submodule "r-opencpu"]
+	url = https://github.com/conda-forge/r-opencpu-feedstock.git
+	path = feedstocks/r-opencpu
+	branch = refs/heads/master
