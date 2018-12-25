@@ -23206,3 +23206,7 @@
 	url = https://github.com/conda-forge/r-summarytools-feedstock.git
 	path = feedstocks/r-summarytools
 	branch = refs/heads/master
+[submodule "ghc"]
+	url = https://github.com/conda-forge/ghc-feedstock.git
+	path = feedstocks/ghc
+	branch = refs/heads/master
