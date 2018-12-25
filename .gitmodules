@@ -23170,3 +23170,7 @@
 	url = https://github.com/conda-forge/r-vctrs-feedstock.git
 	path = feedstocks/r-vctrs
 	branch = refs/heads/master
+[submodule "r-textrecipes"]
+	url = https://github.com/conda-forge/r-textrecipes-feedstock.git
+	path = feedstocks/r-textrecipes
+	branch = refs/heads/master
