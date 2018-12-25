@@ -23198,3 +23198,7 @@
 	url = https://github.com/conda-forge/r-rosm-feedstock.git
 	path = feedstocks/r-rosm
 	branch = refs/heads/master
+[submodule "r-fpp2"]
+	url = https://github.com/conda-forge/r-fpp2-feedstock.git
+	path = feedstocks/r-fpp2
+	branch = refs/heads/master
