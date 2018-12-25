@@ -23162,3 +23162,7 @@
 	url = https://github.com/conda-forge/r-rtweet-feedstock.git
 	path = feedstocks/r-rtweet
 	branch = refs/heads/master
+[submodule "r-prettymapr"]
+	url = https://github.com/conda-forge/r-prettymapr-feedstock.git
+	path = feedstocks/r-prettymapr
+	branch = refs/heads/master
