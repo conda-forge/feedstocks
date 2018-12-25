@@ -23182,3 +23182,7 @@
 	url = https://github.com/conda-forge/r-extradistr-feedstock.git
 	path = feedstocks/r-extradistr
 	branch = refs/heads/master
+[submodule "python-ldap"]
+	url = https://github.com/conda-forge/python-ldap-feedstock.git
+	path = feedstocks/python-ldap
+	branch = refs/heads/master
