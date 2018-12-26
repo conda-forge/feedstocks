@@ -23250,3 +23250,7 @@
 	url = https://github.com/conda-forge/r-fivethirtyeight-feedstock.git
 	path = feedstocks/r-fivethirtyeight
 	branch = refs/heads/master
+[submodule "r-distr"]
+	url = https://github.com/conda-forge/r-distr-feedstock.git
+	path = feedstocks/r-distr
+	branch = refs/heads/master
