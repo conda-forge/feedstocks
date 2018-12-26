@@ -23242,3 +23242,7 @@
 	url = https://github.com/conda-forge/xplot-feedstock.git
 	path = feedstocks/xplot
 	branch = refs/heads/master
+[submodule "xleaflet"]
+	url = https://github.com/conda-forge/xleaflet-feedstock.git
+	path = feedstocks/xleaflet
+	branch = refs/heads/master
