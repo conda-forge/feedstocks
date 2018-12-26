@@ -23254,3 +23254,7 @@
 	url = https://github.com/conda-forge/r-distr-feedstock.git
 	path = feedstocks/r-distr
 	branch = refs/heads/master
+[submodule "r-ccdralgorithm"]
+	url = https://github.com/conda-forge/r-ccdralgorithm-feedstock.git
+	path = feedstocks/r-ccdralgorithm
+	branch = refs/heads/master
