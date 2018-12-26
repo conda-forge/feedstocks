@@ -23222,3 +23222,7 @@
 	url = https://github.com/conda-forge/r-filematrix-feedstock.git
 	path = feedstocks/r-filematrix
 	branch = refs/heads/master
+[submodule "r-mapplots"]
+	url = https://github.com/conda-forge/r-mapplots-feedstock.git
+	path = feedstocks/r-mapplots
+	branch = refs/heads/master
