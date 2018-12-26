@@ -23234,3 +23234,7 @@
 	url = https://github.com/conda-forge/r-sparsebnutils-feedstock.git
 	path = feedstocks/r-sparsebnutils
 	branch = refs/heads/master
+[submodule "firelight"]
+	url = https://github.com/conda-forge/firelight-feedstock.git
+	path = feedstocks/firelight
+	branch = refs/heads/master
