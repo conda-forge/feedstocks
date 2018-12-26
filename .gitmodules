@@ -23238,3 +23238,7 @@
 	url = https://github.com/conda-forge/firelight-feedstock.git
 	path = feedstocks/firelight
 	branch = refs/heads/master
+[submodule "xplot"]
+	url = https://github.com/conda-forge/xplot-feedstock.git
+	path = feedstocks/xplot
+	branch = refs/heads/master
