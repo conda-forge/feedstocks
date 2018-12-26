@@ -23226,3 +23226,7 @@
 	url = https://github.com/conda-forge/r-mapplots-feedstock.git
 	path = feedstocks/r-mapplots
 	branch = refs/heads/master
+[submodule "r-teachingdemos"]
+	url = https://github.com/conda-forge/r-teachingdemos-feedstock.git
+	path = feedstocks/r-teachingdemos
+	branch = refs/heads/master
