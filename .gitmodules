@@ -23210,3 +23210,7 @@
 	url = https://github.com/conda-forge/ghc-feedstock.git
 	path = feedstocks/ghc
 	branch = refs/heads/master
+[submodule "r-startupmsg"]
+	url = https://github.com/conda-forge/r-startupmsg-feedstock.git
+	path = feedstocks/r-startupmsg
+	branch = refs/heads/master
