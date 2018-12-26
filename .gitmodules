@@ -23230,3 +23230,7 @@
 	url = https://github.com/conda-forge/r-teachingdemos-feedstock.git
 	path = feedstocks/r-teachingdemos
 	branch = refs/heads/master
+[submodule "r-sparsebnutils"]
+	url = https://github.com/conda-forge/r-sparsebnutils-feedstock.git
+	path = feedstocks/r-sparsebnutils
+	branch = refs/heads/master
