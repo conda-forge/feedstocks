@@ -23282,3 +23282,7 @@
 	url = https://github.com/conda-forge/radical.analytics-feedstock.git
 	path = feedstocks/radical.analytics
 	branch = refs/heads/master
+[submodule "r-pmcmrplus"]
+	url = https://github.com/conda-forge/r-pmcmrplus-feedstock.git
+	path = feedstocks/r-pmcmrplus
+	branch = refs/heads/master
