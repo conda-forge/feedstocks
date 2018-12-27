@@ -23274,3 +23274,7 @@
 	url = https://github.com/conda-forge/r-sparsebn-feedstock.git
 	path = feedstocks/r-sparsebn
 	branch = refs/heads/master
+[submodule "namaster"]
+	url = https://github.com/conda-forge/namaster-feedstock.git
+	path = feedstocks/namaster
+	branch = refs/heads/master
