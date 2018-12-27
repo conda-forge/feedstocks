@@ -23262,3 +23262,7 @@
 	url = https://github.com/conda-forge/r-discretecdalgorithm-feedstock.git
 	path = feedstocks/r-discretecdalgorithm
 	branch = refs/heads/master
+[submodule "byobu"]
+	url = https://github.com/conda-forge/byobu-feedstock.git
+	path = feedstocks/byobu
+	branch = refs/heads/master
