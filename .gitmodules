@@ -23266,3 +23266,7 @@
 	url = https://github.com/conda-forge/byobu-feedstock.git
 	path = feedstocks/byobu
 	branch = refs/heads/master
+[submodule "construct"]
+	url = https://github.com/conda-forge/construct-feedstock.git
+	path = feedstocks/construct
+	branch = refs/heads/master
