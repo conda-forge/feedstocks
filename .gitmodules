@@ -23294,3 +23294,7 @@
 	url = https://github.com/conda-forge/xwebrtc-feedstock.git
 	path = feedstocks/xwebrtc
 	branch = refs/heads/master
+[submodule "lame"]
+	url = https://github.com/conda-forge/lame-feedstock.git
+	path = feedstocks/lame
+	branch = refs/heads/master
