@@ -23286,3 +23286,7 @@
 	url = https://github.com/conda-forge/r-pmcmrplus-feedstock.git
 	path = feedstocks/r-pmcmrplus
 	branch = refs/heads/master
+[submodule "intake-sql"]
+	url = https://github.com/conda-forge/intake-sql-feedstock.git
+	path = feedstocks/intake-sql
+	branch = refs/heads/master
