@@ -23270,3 +23270,7 @@
 	url = https://github.com/conda-forge/construct-feedstock.git
 	path = feedstocks/construct
 	branch = refs/heads/master
+[submodule "r-sparsebn"]
+	url = https://github.com/conda-forge/r-sparsebn-feedstock.git
+	path = feedstocks/r-sparsebn
+	branch = refs/heads/master
