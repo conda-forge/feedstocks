@@ -23278,3 +23278,7 @@
 	url = https://github.com/conda-forge/namaster-feedstock.git
 	path = feedstocks/namaster
 	branch = refs/heads/master
+[submodule "radical.analytics"]
+	url = https://github.com/conda-forge/radical.analytics-feedstock.git
+	path = feedstocks/radical.analytics
+	branch = refs/heads/master
