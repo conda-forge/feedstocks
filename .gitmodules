@@ -23326,3 +23326,7 @@
 	url = https://github.com/conda-forge/r-lassopv-feedstock.git
 	path = feedstocks/r-lassopv
 	branch = refs/heads/master
+[submodule "r-import"]
+	url = https://github.com/conda-forge/r-import-feedstock.git
+	path = feedstocks/r-import
+	branch = refs/heads/master
