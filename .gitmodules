@@ -23342,3 +23342,7 @@
 	url = https://github.com/conda-forge/r-linkcomm-feedstock.git
 	path = feedstocks/r-linkcomm
 	branch = refs/heads/master
+[submodule "r-flare"]
+	url = https://github.com/conda-forge/r-flare-feedstock.git
+	path = feedstocks/r-flare
+	branch = refs/heads/master
