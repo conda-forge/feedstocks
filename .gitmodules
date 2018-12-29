@@ -23322,3 +23322,7 @@
 	url = https://github.com/conda-forge/r-verification-feedstock.git
 	path = feedstocks/r-verification
 	branch = refs/heads/master
+[submodule "r-lassopv"]
+	url = https://github.com/conda-forge/r-lassopv-feedstock.git
+	path = feedstocks/r-lassopv
+	branch = refs/heads/master
