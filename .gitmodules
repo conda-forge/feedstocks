@@ -23338,3 +23338,7 @@
 	url = https://github.com/conda-forge/r-vbsr-feedstock.git
 	path = feedstocks/r-vbsr
 	branch = refs/heads/master
+[submodule "r-linkcomm"]
+	url = https://github.com/conda-forge/r-linkcomm-feedstock.git
+	path = feedstocks/r-linkcomm
+	branch = refs/heads/master
