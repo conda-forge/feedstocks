@@ -23346,3 +23346,7 @@
 	url = https://github.com/conda-forge/r-flare-feedstock.git
 	path = feedstocks/r-flare
 	branch = refs/heads/master
+[submodule "r-performanceanalytics"]
+	url = https://github.com/conda-forge/r-performanceanalytics-feedstock.git
+	path = feedstocks/r-performanceanalytics
+	branch = refs/heads/master
