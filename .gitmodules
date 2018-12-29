@@ -23330,3 +23330,7 @@
 	url = https://github.com/conda-forge/r-import-feedstock.git
 	path = feedstocks/r-import
 	branch = refs/heads/master
+[submodule "r-varhandle"]
+	url = https://github.com/conda-forge/r-varhandle-feedstock.git
+	path = feedstocks/r-varhandle
+	branch = refs/heads/master
