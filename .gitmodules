@@ -23374,3 +23374,7 @@
 	url = https://github.com/conda-forge/r-echarts4r-feedstock.git
 	path = feedstocks/r-echarts4r
 	branch = refs/heads/master
+[submodule "esprima-python"]
+	url = https://github.com/conda-forge/esprima-python-feedstock.git
+	path = feedstocks/esprima-python
+	branch = refs/heads/master
