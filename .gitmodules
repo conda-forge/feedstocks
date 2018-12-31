@@ -23370,3 +23370,7 @@
 	url = https://github.com/conda-forge/pytorch-cpu-feedstock.git
 	path = feedstocks/pytorch-cpu
 	branch = refs/heads/master
+[submodule "r-echarts4r"]
+	url = https://github.com/conda-forge/r-echarts4r-feedstock.git
+	path = feedstocks/r-echarts4r
+	branch = refs/heads/master
