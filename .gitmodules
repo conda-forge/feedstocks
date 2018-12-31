@@ -23382,3 +23382,7 @@
 	url = https://github.com/conda-forge/arabic_reshaper-feedstock.git
 	path = feedstocks/arabic_reshaper
 	branch = refs/heads/master
+[submodule "python-gitlab"]
+	url = https://github.com/conda-forge/python-gitlab-feedstock.git
+	path = feedstocks/python-gitlab
+	branch = refs/heads/master
