@@ -23430,3 +23430,7 @@
 	url = https://github.com/conda-forge/r-ggpage-feedstock.git
 	path = feedstocks/r-ggpage
 	branch = refs/heads/master
+[submodule "r-bs4dash"]
+	url = https://github.com/conda-forge/r-bs4dash-feedstock.git
+	path = feedstocks/r-bs4dash
+	branch = refs/heads/master
