@@ -23502,3 +23502,7 @@
 	url = https://github.com/conda-forge/r-kknn-feedstock.git
 	path = feedstocks/r-kknn
 	branch = refs/heads/master
+[submodule "r-sparseinv"]
+	url = https://github.com/conda-forge/r-sparseinv-feedstock.git
+	path = feedstocks/r-sparseinv
+	branch = refs/heads/master
