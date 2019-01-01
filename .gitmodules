@@ -23394,3 +23394,7 @@
 	url = https://github.com/conda-forge/r-ggnetwork-feedstock.git
 	path = feedstocks/r-ggnetwork
 	branch = refs/heads/master
+[submodule "r-tester"]
+	url = https://github.com/conda-forge/r-tester-feedstock.git
+	path = feedstocks/r-tester
+	branch = refs/heads/master
