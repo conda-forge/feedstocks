@@ -23410,3 +23410,7 @@
 	url = https://github.com/conda-forge/r-argonr-feedstock.git
 	path = feedstocks/r-argonr
 	branch = refs/heads/master
+[submodule "r-ggformula"]
+	url = https://github.com/conda-forge/r-ggformula-feedstock.git
+	path = feedstocks/r-ggformula
+	branch = refs/heads/master
