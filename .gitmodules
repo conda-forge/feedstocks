@@ -23398,3 +23398,7 @@
 	url = https://github.com/conda-forge/r-tester-feedstock.git
 	path = feedstocks/r-tester
 	branch = refs/heads/master
+[submodule "r-intergraph"]
+	url = https://github.com/conda-forge/r-intergraph-feedstock.git
+	path = feedstocks/r-intergraph
+	branch = refs/heads/master
