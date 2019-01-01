@@ -23498,3 +23498,7 @@
 	url = https://github.com/conda-forge/r-plsvarsel-feedstock.git
 	path = feedstocks/r-plsvarsel
 	branch = refs/heads/master
+[submodule "r-kknn"]
+	url = https://github.com/conda-forge/r-kknn-feedstock.git
+	path = feedstocks/r-kknn
+	branch = refs/heads/master
