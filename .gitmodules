@@ -23422,3 +23422,7 @@
 	url = https://github.com/conda-forge/r-nardl-feedstock.git
 	path = feedstocks/r-nardl
 	branch = refs/heads/master
+[submodule "r-graphtweets"]
+	url = https://github.com/conda-forge/r-graphtweets-feedstock.git
+	path = feedstocks/r-graphtweets
+	branch = refs/heads/master
