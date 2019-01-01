@@ -23390,3 +23390,7 @@
 	url = https://github.com/conda-forge/r-rioja-feedstock.git
 	path = feedstocks/r-rioja
 	branch = refs/heads/master
+[submodule "r-ggnetwork"]
+	url = https://github.com/conda-forge/r-ggnetwork-feedstock.git
+	path = feedstocks/r-ggnetwork
+	branch = refs/heads/master
