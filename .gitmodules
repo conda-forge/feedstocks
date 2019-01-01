@@ -23414,3 +23414,7 @@
 	url = https://github.com/conda-forge/r-ggformula-feedstock.git
 	path = feedstocks/r-ggformula
 	branch = refs/heads/master
+[submodule "r-profmem"]
+	url = https://github.com/conda-forge/r-profmem-feedstock.git
+	path = feedstocks/r-profmem
+	branch = refs/heads/master
