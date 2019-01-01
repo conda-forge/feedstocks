@@ -23450,3 +23450,7 @@
 	url = https://github.com/conda-forge/r-grf-feedstock.git
 	path = feedstocks/r-grf
 	branch = refs/heads/master
+[submodule "r-quandl"]
+	url = https://github.com/conda-forge/r-quandl-feedstock.git
+	path = feedstocks/r-quandl
+	branch = refs/heads/master
