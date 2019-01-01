@@ -23418,3 +23418,7 @@
 	url = https://github.com/conda-forge/r-profmem-feedstock.git
 	path = feedstocks/r-profmem
 	branch = refs/heads/master
+[submodule "r-nardl"]
+	url = https://github.com/conda-forge/r-nardl-feedstock.git
+	path = feedstocks/r-nardl
+	branch = refs/heads/master
