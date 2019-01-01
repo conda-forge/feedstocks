@@ -23402,3 +23402,7 @@
 	url = https://github.com/conda-forge/r-intergraph-feedstock.git
 	path = feedstocks/r-intergraph
 	branch = refs/heads/master
+[submodule "r-rlab"]
+	url = https://github.com/conda-forge/r-rlab-feedstock.git
+	path = feedstocks/r-rlab
+	branch = refs/heads/master
