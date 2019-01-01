@@ -23466,3 +23466,7 @@
 	url = https://github.com/conda-forge/r-randomizr-feedstock.git
 	path = feedstocks/r-randomizr
 	branch = refs/heads/master
+[submodule "r-hrbrthemes"]
+	url = https://github.com/conda-forge/r-hrbrthemes-feedstock.git
+	path = feedstocks/r-hrbrthemes
+	branch = refs/heads/master
