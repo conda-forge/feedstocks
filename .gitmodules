@@ -23442,3 +23442,7 @@
 	url = https://github.com/conda-forge/r-rationalexp-feedstock.git
 	path = feedstocks/r-rationalexp
 	branch = refs/heads/master
+[submodule "r-estimatr"]
+	url = https://github.com/conda-forge/r-estimatr-feedstock.git
+	path = feedstocks/r-estimatr
+	branch = refs/heads/master
