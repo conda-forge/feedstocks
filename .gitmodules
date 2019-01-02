@@ -23546,3 +23546,7 @@
 	url = https://github.com/conda-forge/yaehmop-feedstock.git
 	path = feedstocks/yaehmop
 	branch = refs/heads/master
+[submodule "freetype-py"]
+	url = https://github.com/conda-forge/freetype-py-feedstock.git
+	path = feedstocks/freetype-py
+	branch = refs/heads/master
