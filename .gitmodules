@@ -23514,3 +23514,7 @@
 	url = https://github.com/conda-forge/r-rsnns-feedstock.git
 	path = feedstocks/r-rsnns
 	branch = refs/heads/master
+[submodule "r-hh"]
+	url = https://github.com/conda-forge/r-hh-feedstock.git
+	path = feedstocks/r-hh
+	branch = refs/heads/master
