@@ -23530,3 +23530,7 @@
 	url = https://github.com/conda-forge/r-isa2-feedstock.git
 	path = feedstocks/r-isa2
 	branch = refs/heads/master
+[submodule "ghc-bootstrap"]
+	url = https://github.com/conda-forge/ghc-bootstrap-feedstock.git
+	path = feedstocks/ghc-bootstrap
+	branch = refs/heads/master
