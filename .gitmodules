@@ -23538,3 +23538,7 @@
 	url = https://github.com/conda-forge/go-dep-feedstock.git
 	path = feedstocks/go-dep
 	branch = refs/heads/master
+[submodule "intake-spark"]
+	url = https://github.com/conda-forge/intake-spark-feedstock.git
+	path = feedstocks/intake-spark
+	branch = refs/heads/master
