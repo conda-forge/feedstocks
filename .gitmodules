@@ -23534,3 +23534,7 @@
 	url = https://github.com/conda-forge/ghc-bootstrap-feedstock.git
 	path = feedstocks/ghc-bootstrap
 	branch = refs/heads/master
+[submodule "go-dep"]
+	url = https://github.com/conda-forge/go-dep-feedstock.git
+	path = feedstocks/go-dep
+	branch = refs/heads/master
