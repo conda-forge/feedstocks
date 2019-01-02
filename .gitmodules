@@ -23522,3 +23522,7 @@
 	url = https://github.com/conda-forge/r-repo-feedstock.git
 	path = feedstocks/r-repo
 	branch = refs/heads/master
+[submodule "cabal"]
+	url = https://github.com/conda-forge/cabal-feedstock.git
+	path = feedstocks/cabal
+	branch = refs/heads/master
