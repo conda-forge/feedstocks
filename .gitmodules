@@ -23550,3 +23550,7 @@
 	url = https://github.com/conda-forge/freetype-py-feedstock.git
 	path = feedstocks/freetype-py
 	branch = refs/heads/master
+[submodule "entwine"]
+	url = https://github.com/conda-forge/entwine-feedstock.git
+	path = feedstocks/entwine
+	branch = refs/heads/master
