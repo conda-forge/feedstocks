@@ -23558,3 +23558,7 @@
 	url = https://github.com/conda-forge/oclgrind-feedstock.git
 	path = feedstocks/oclgrind
 	branch = refs/heads/master
+[submodule "dash-table"]
+	url = https://github.com/conda-forge/dash-table-feedstock.git
+	path = feedstocks/dash-table
+	branch = refs/heads/master
