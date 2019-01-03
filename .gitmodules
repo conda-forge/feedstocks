@@ -23566,3 +23566,7 @@
 	url = https://github.com/conda-forge/pyavm-feedstock.git
 	path = feedstocks/pyavm
 	branch = refs/heads/master
+[submodule "esmlab"]
+	url = https://github.com/conda-forge/esmlab-feedstock.git
+	path = feedstocks/esmlab
+	branch = refs/heads/master
