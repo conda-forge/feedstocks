@@ -23554,3 +23554,7 @@
 	url = https://github.com/conda-forge/entwine-feedstock.git
 	path = feedstocks/entwine
 	branch = refs/heads/master
+[submodule "oclgrind"]
+	url = https://github.com/conda-forge/oclgrind-feedstock.git
+	path = feedstocks/oclgrind
+	branch = refs/heads/master
