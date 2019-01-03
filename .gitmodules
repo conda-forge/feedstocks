@@ -23562,3 +23562,7 @@
 	url = https://github.com/conda-forge/dash-table-feedstock.git
 	path = feedstocks/dash-table
 	branch = refs/heads/master
+[submodule "pyavm"]
+	url = https://github.com/conda-forge/pyavm-feedstock.git
+	path = feedstocks/pyavm
+	branch = refs/heads/master
