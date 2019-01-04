@@ -23778,3 +23778,7 @@
 	url = https://github.com/conda-forge/lalapps-feedstock.git
 	path = feedstocks/lalapps
 	branch = refs/heads/master
+[submodule "treecorr"]
+	url = https://github.com/conda-forge/treecorr-feedstock.git
+	path = feedstocks/treecorr
+	branch = refs/heads/master
