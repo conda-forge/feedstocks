@@ -23722,3 +23722,7 @@
 	url = https://github.com/conda-forge/filesystem-spec-feedstock.git
 	path = feedstocks/filesystem-spec
 	branch = refs/heads/master
+[submodule "r-gganimate"]
+	url = https://github.com/conda-forge/r-gganimate-feedstock.git
+	path = feedstocks/r-gganimate
+	branch = refs/heads/master
