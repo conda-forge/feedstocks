@@ -23578,3 +23578,7 @@
 	url = https://github.com/conda-forge/plio-feedstock.git
 	path = feedstocks/plio
 	branch = refs/heads/master
+[submodule "r-uniqtag"]
+	url = https://github.com/conda-forge/r-uniqtag-feedstock.git
+	path = feedstocks/r-uniqtag
+	branch = refs/heads/master
