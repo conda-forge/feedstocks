@@ -23738,3 +23738,7 @@
 	url = https://github.com/conda-forge/pyramid-feedstock.git
 	path = feedstocks/pyramid
 	branch = refs/heads/master
+[submodule "r-rhpcblasctl"]
+	url = https://github.com/conda-forge/r-rhpcblasctl-feedstock.git
+	path = feedstocks/r-rhpcblasctl
+	branch = refs/heads/master
