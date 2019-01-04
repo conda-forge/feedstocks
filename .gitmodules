@@ -23618,3 +23618,7 @@
 	url = https://github.com/conda-forge/r-googleauthr-feedstock.git
 	path = feedstocks/r-googleauthr
 	branch = refs/heads/master
+[submodule "r-aplpack"]
+	url = https://github.com/conda-forge/r-aplpack-feedstock.git
+	path = feedstocks/r-aplpack
+	branch = refs/heads/master
