@@ -23690,3 +23690,7 @@
 	url = https://github.com/conda-forge/safe-netrc-feedstock.git
 	path = feedstocks/safe-netrc
 	branch = refs/heads/master
+[submodule "plaster"]
+	url = https://github.com/conda-forge/plaster-feedstock.git
+	path = feedstocks/plaster
+	branch = refs/heads/master
