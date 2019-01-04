@@ -23774,3 +23774,7 @@
 	url = https://github.com/conda-forge/r-lpsolveapi-feedstock.git
 	path = feedstocks/r-lpsolveapi
 	branch = refs/heads/master
+[submodule "lalapps"]
+	url = https://github.com/conda-forge/lalapps-feedstock.git
+	path = feedstocks/lalapps
+	branch = refs/heads/master
