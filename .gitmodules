@@ -23634,3 +23634,7 @@
 	url = https://github.com/conda-forge/r-waffle-feedstock.git
 	path = feedstocks/r-waffle
 	branch = refs/heads/master
+[submodule "r-hiver"]
+	url = https://github.com/conda-forge/r-hiver-feedstock.git
+	path = feedstocks/r-hiver
+	branch = refs/heads/master
