@@ -23598,3 +23598,7 @@
 	url = https://github.com/conda-forge/r-ismev-feedstock.git
 	path = feedstocks/r-ismev
 	branch = refs/heads/master
+[submodule "r-origami"]
+	url = https://github.com/conda-forge/r-origami-feedstock.git
+	path = feedstocks/r-origami
+	branch = refs/heads/master
