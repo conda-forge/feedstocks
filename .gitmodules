@@ -23582,3 +23582,7 @@
 	url = https://github.com/conda-forge/r-uniqtag-feedstock.git
 	path = feedstocks/r-uniqtag
 	branch = refs/heads/master
+[submodule "r-gfa"]
+	url = https://github.com/conda-forge/r-gfa-feedstock.git
+	path = feedstocks/r-gfa
+	branch = refs/heads/master
