@@ -23654,3 +23654,7 @@
 	url = https://github.com/conda-forge/r-rclipboard-feedstock.git
 	path = feedstocks/r-rclipboard
 	branch = refs/heads/master
+[submodule "r-evmix"]
+	url = https://github.com/conda-forge/r-evmix-feedstock.git
+	path = feedstocks/r-evmix
+	branch = refs/heads/master
