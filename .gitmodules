@@ -23614,3 +23614,7 @@
 	url = https://github.com/conda-forge/r-truncdist-feedstock.git
 	path = feedstocks/r-truncdist
 	branch = refs/heads/master
+[submodule "r-googleauthr"]
+	url = https://github.com/conda-forge/r-googleauthr-feedstock.git
+	path = feedstocks/r-googleauthr
+	branch = refs/heads/master
