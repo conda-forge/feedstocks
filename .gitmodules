@@ -23606,3 +23606,7 @@
 	url = https://github.com/conda-forge/r-s4vd-feedstock.git
 	path = feedstocks/r-s4vd
 	branch = refs/heads/master
+[submodule "r-nbclust"]
+	url = https://github.com/conda-forge/r-nbclust-feedstock.git
+	path = feedstocks/r-nbclust
+	branch = refs/heads/master
