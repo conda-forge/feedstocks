@@ -23650,3 +23650,7 @@
 	url = https://github.com/conda-forge/r-mcbiopi-feedstock.git
 	path = feedstocks/r-mcbiopi
 	branch = refs/heads/master
+[submodule "r-rclipboard"]
+	url = https://github.com/conda-forge/r-rclipboard-feedstock.git
+	path = feedstocks/r-rclipboard
+	branch = refs/heads/master
