@@ -23718,3 +23718,7 @@
 	url = https://github.com/conda-forge/r-diffusr-feedstock.git
 	path = feedstocks/r-diffusr
 	branch = refs/heads/master
+[submodule "filesystem-spec"]
+	url = https://github.com/conda-forge/filesystem-spec-feedstock.git
+	path = feedstocks/filesystem-spec
+	branch = refs/heads/master
