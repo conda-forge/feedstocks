@@ -23610,3 +23610,7 @@
 	url = https://github.com/conda-forge/r-nbclust-feedstock.git
 	path = feedstocks/r-nbclust
 	branch = refs/heads/master
+[submodule "r-truncdist"]
+	url = https://github.com/conda-forge/r-truncdist-feedstock.git
+	path = feedstocks/r-truncdist
+	branch = refs/heads/master
