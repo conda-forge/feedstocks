@@ -23770,3 +23770,7 @@
 	url = https://github.com/conda-forge/r-recordlinkage-feedstock.git
 	path = feedstocks/r-recordlinkage
 	branch = refs/heads/master
+[submodule "r-lpsolveapi"]
+	url = https://github.com/conda-forge/r-lpsolveapi-feedstock.git
+	path = feedstocks/r-lpsolveapi
+	branch = refs/heads/master
