@@ -23586,3 +23586,7 @@
 	url = https://github.com/conda-forge/r-gfa-feedstock.git
 	path = feedstocks/r-gfa
 	branch = refs/heads/master
+[submodule "r-ccp"]
+	url = https://github.com/conda-forge/r-ccp-feedstock.git
+	path = feedstocks/r-ccp
+	branch = refs/heads/master
