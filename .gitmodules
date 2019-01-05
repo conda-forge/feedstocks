@@ -23818,3 +23818,7 @@
 	url = https://github.com/conda-forge/rpdb-feedstock.git
 	path = feedstocks/rpdb
 	branch = refs/heads/master
+[submodule "lalsuite"]
+	url = https://github.com/conda-forge/lalsuite-feedstock.git
+	path = feedstocks/lalsuite
+	branch = refs/heads/master
