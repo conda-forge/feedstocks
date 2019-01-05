@@ -23826,3 +23826,7 @@
 	url = https://github.com/conda-forge/pygff-feedstock.git
 	path = feedstocks/pygff
 	branch = refs/heads/master
+[submodule "pymunk"]
+	url = https://github.com/conda-forge/pymunk-feedstock.git
+	path = feedstocks/pymunk
+	branch = refs/heads/master
