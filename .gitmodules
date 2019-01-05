@@ -23830,3 +23830,7 @@
 	url = https://github.com/conda-forge/pymunk-feedstock.git
 	path = feedstocks/pymunk
 	branch = refs/heads/master
+[submodule "r-rcmdrmisc"]
+	url = https://github.com/conda-forge/r-rcmdrmisc-feedstock.git
+	path = feedstocks/r-rcmdrmisc
+	branch = refs/heads/master
