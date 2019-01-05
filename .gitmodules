@@ -23790,3 +23790,7 @@
 	url = https://github.com/conda-forge/r-mda-feedstock.git
 	path = feedstocks/r-mda
 	branch = refs/heads/master
+[submodule "r-sparselda"]
+	url = https://github.com/conda-forge/r-sparselda-feedstock.git
+	path = feedstocks/r-sparselda
+	branch = refs/heads/master
