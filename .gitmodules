@@ -23802,3 +23802,7 @@
 	url = https://github.com/conda-forge/r-geem-feedstock.git
 	path = feedstocks/r-geem
 	branch = refs/heads/master
+[submodule "r-kpmt"]
+	url = https://github.com/conda-forge/r-kpmt-feedstock.git
+	path = feedstocks/r-kpmt
+	branch = refs/heads/master
