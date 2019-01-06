@@ -23854,3 +23854,7 @@
 	url = https://github.com/conda-forge/intake-cmip-feedstock.git
 	path = feedstocks/intake-cmip
 	branch = refs/heads/master
+[submodule "ndcsv"]
+	url = https://github.com/conda-forge/ndcsv-feedstock.git
+	path = feedstocks/ndcsv
+	branch = refs/heads/master
