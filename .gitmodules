@@ -23842,3 +23842,7 @@
 	url = https://github.com/conda-forge/recursive_diff-feedstock.git
 	path = feedstocks/recursive_diff
 	branch = refs/heads/master
+[submodule "esutil"]
+	url = https://github.com/conda-forge/esutil-feedstock.git
+	path = feedstocks/esutil
+	branch = refs/heads/master
