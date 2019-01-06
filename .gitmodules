@@ -23858,3 +23858,7 @@
 	url = https://github.com/conda-forge/ndcsv-feedstock.git
 	path = feedstocks/ndcsv
 	branch = refs/heads/master
+[submodule "bilby"]
+	url = https://github.com/conda-forge/bilby-feedstock.git
+	path = feedstocks/bilby
+	branch = refs/heads/master
