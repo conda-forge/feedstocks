@@ -23882,3 +23882,7 @@
 	url = https://github.com/conda-forge/translationstring-feedstock.git
 	path = feedstocks/translationstring
 	branch = refs/heads/master
+[submodule "venusian"]
+	url = https://github.com/conda-forge/venusian-feedstock.git
+	path = feedstocks/venusian
+	branch = refs/heads/master
