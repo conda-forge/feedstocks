@@ -23866,3 +23866,7 @@
 	url = https://github.com/conda-forge/dask-mpi-feedstock.git
 	path = feedstocks/dask-mpi
 	branch = refs/heads/master
+[submodule "pypubsub"]
+	url = https://github.com/conda-forge/pypubsub-feedstock.git
+	path = feedstocks/pypubsub
+	branch = refs/heads/master
