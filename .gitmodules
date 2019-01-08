@@ -23898,3 +23898,7 @@
 	url = https://github.com/conda-forge/pollster-feedstock.git
 	path = feedstocks/pollster
 	branch = refs/heads/master
+[submodule "soupsieve"]
+	url = https://github.com/conda-forge/soupsieve-feedstock.git
+	path = feedstocks/soupsieve
+	branch = refs/heads/master
