@@ -23890,3 +23890,7 @@
 	url = https://github.com/conda-forge/zope.deprecation-feedstock.git
 	path = feedstocks/zope.deprecation
 	branch = refs/heads/master
+[submodule "pytest-regtest"]
+	url = https://github.com/conda-forge/pytest-regtest-feedstock.git
+	path = feedstocks/pytest-regtest
+	branch = refs/heads/master
