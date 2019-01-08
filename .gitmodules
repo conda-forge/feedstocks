@@ -23894,3 +23894,7 @@
 	url = https://github.com/conda-forge/pytest-regtest-feedstock.git
 	path = feedstocks/pytest-regtest
 	branch = refs/heads/master
+[submodule "pollster"]
+	url = https://github.com/conda-forge/pollster-feedstock.git
+	path = feedstocks/pollster
+	branch = refs/heads/master
