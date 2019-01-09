@@ -23934,3 +23934,7 @@
 	url = https://github.com/conda-forge/hickle-feedstock.git
 	path = feedstocks/hickle
 	branch = refs/heads/master
+[submodule "cclib"]
+	url = https://github.com/conda-forge/cclib-feedstock.git
+	path = feedstocks/cclib
+	branch = refs/heads/master
