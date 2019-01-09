@@ -23958,3 +23958,7 @@
 	url = https://github.com/conda-forge/r-goodpractice-feedstock.git
 	path = feedstocks/r-goodpractice
 	branch = refs/heads/master
+[submodule "psfex"]
+	url = https://github.com/conda-forge/psfex-feedstock.git
+	path = feedstocks/psfex
+	branch = refs/heads/master
