@@ -23918,3 +23918,7 @@
 	url = https://github.com/conda-forge/r-missmda-feedstock.git
 	path = feedstocks/r-missmda
 	branch = refs/heads/master
+[submodule "holidays"]
+	url = https://github.com/conda-forge/holidays-feedstock.git
+	path = feedstocks/holidays
+	branch = refs/heads/master
