@@ -23954,3 +23954,7 @@
 	url = https://github.com/conda-forge/cx_oracle-feedstock.git
 	path = feedstocks/cx_oracle
 	branch = refs/heads/master
+[submodule "r-goodpractice"]
+	url = https://github.com/conda-forge/r-goodpractice-feedstock.git
+	path = feedstocks/r-goodpractice
+	branch = refs/heads/master
