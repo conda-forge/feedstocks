@@ -23962,3 +23962,7 @@
 	url = https://github.com/conda-forge/psfex-feedstock.git
 	path = feedstocks/psfex
 	branch = refs/heads/master
+[submodule "gama"]
+	url = https://github.com/conda-forge/gama-feedstock.git
+	path = feedstocks/gama
+	branch = refs/heads/master
