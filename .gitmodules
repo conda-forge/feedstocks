@@ -23938,3 +23938,7 @@
 	url = https://github.com/conda-forge/cclib-feedstock.git
 	path = feedstocks/cclib
 	branch = refs/heads/master
+[submodule "alex"]
+	url = https://github.com/conda-forge/alex-feedstock.git
+	path = feedstocks/alex
+	branch = refs/heads/master
