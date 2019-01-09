@@ -23946,3 +23946,7 @@
 	url = https://github.com/conda-forge/happy-feedstock.git
 	path = feedstocks/happy
 	branch = refs/heads/master
+[submodule "go-gox"]
+	url = https://github.com/conda-forge/go-gox-feedstock.git
+	path = feedstocks/go-gox
+	branch = refs/heads/master
