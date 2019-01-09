@@ -23922,3 +23922,7 @@
 	url = https://github.com/conda-forge/holidays-feedstock.git
 	path = feedstocks/holidays
 	branch = refs/heads/master
+[submodule "lunardate"]
+	url = https://github.com/conda-forge/lunardate-feedstock.git
+	path = feedstocks/lunardate
+	branch = refs/heads/master
