@@ -23930,3 +23930,7 @@
 	url = https://github.com/conda-forge/glm-feedstock.git
 	path = feedstocks/glm
 	branch = refs/heads/master
+[submodule "hickle"]
+	url = https://github.com/conda-forge/hickle-feedstock.git
+	path = feedstocks/hickle
+	branch = refs/heads/master
