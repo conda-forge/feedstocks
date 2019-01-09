@@ -23926,3 +23926,7 @@
 	url = https://github.com/conda-forge/lunardate-feedstock.git
 	path = feedstocks/lunardate
 	branch = refs/heads/master
+[submodule "glm"]
+	url = https://github.com/conda-forge/glm-feedstock.git
+	path = feedstocks/glm
+	branch = refs/heads/master
