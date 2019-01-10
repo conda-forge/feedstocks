@@ -23982,3 +23982,7 @@
 	url = https://github.com/conda-forge/csm-feedstock.git
 	path = feedstocks/csm
 	branch = refs/heads/master
+[submodule "ldas-tools-ldasgen-swig"]
+	url = https://github.com/conda-forge/ldas-tools-ldasgen-swig-feedstock.git
+	path = feedstocks/ldas-tools-ldasgen-swig
+	branch = refs/heads/master
