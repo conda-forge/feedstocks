@@ -23986,3 +23986,7 @@
 	url = https://github.com/conda-forge/ldas-tools-ldasgen-swig-feedstock.git
 	path = feedstocks/ldas-tools-ldasgen-swig
 	branch = refs/heads/master
+[submodule "ldas-tools-ldasgen"]
+	url = https://github.com/conda-forge/ldas-tools-ldasgen-feedstock.git
+	path = feedstocks/ldas-tools-ldasgen
+	branch = refs/heads/master
