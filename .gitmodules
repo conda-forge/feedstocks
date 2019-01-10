@@ -23970,3 +23970,7 @@
 	url = https://github.com/conda-forge/elm-feedstock.git
 	path = feedstocks/elm
 	branch = refs/heads/master
+[submodule "ticcutils"]
+	url = https://github.com/conda-forge/ticcutils-feedstock.git
+	path = feedstocks/ticcutils
+	branch = refs/heads/master
