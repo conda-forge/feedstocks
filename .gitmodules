@@ -23990,3 +23990,7 @@
 	url = https://github.com/conda-forge/ldas-tools-ldasgen-feedstock.git
 	path = feedstocks/ldas-tools-ldasgen
 	branch = refs/heads/master
+[submodule "pyhdb"]
+	url = https://github.com/conda-forge/pyhdb-feedstock.git
+	path = feedstocks/pyhdb
+	branch = refs/heads/master
