@@ -23978,3 +23978,7 @@
 	url = https://github.com/conda-forge/r-cartography-feedstock.git
 	path = feedstocks/r-cartography
 	branch = refs/heads/master
+[submodule "csm"]
+	url = https://github.com/conda-forge/csm-feedstock.git
+	path = feedstocks/csm
+	branch = refs/heads/master
