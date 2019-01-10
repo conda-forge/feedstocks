@@ -23966,3 +23966,7 @@
 	url = https://github.com/conda-forge/gama-feedstock.git
 	path = feedstocks/gama
 	branch = refs/heads/master
+[submodule "elm"]
+	url = https://github.com/conda-forge/elm-feedstock.git
+	path = feedstocks/elm
+	branch = refs/heads/master
