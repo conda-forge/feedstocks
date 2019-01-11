@@ -23994,3 +23994,7 @@
 	url = https://github.com/conda-forge/pyhdb-feedstock.git
 	path = feedstocks/pyhdb
 	branch = refs/heads/master
+[submodule "poco"]
+	url = https://github.com/conda-forge/poco-feedstock.git
+	path = feedstocks/poco
+	branch = refs/heads/master
