@@ -23998,3 +23998,7 @@
 	url = https://github.com/conda-forge/poco-feedstock.git
 	path = feedstocks/poco
 	branch = refs/heads/master
+[submodule "jupyterhub-yarnspawner"]
+	url = https://github.com/conda-forge/jupyterhub-yarnspawner-feedstock.git
+	path = feedstocks/jupyterhub-yarnspawner
+	branch = refs/heads/master
