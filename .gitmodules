@@ -24006,3 +24006,7 @@
 	url = https://github.com/conda-forge/clickhouse-odbc-feedstock.git
 	path = feedstocks/clickhouse-odbc
 	branch = refs/heads/master
+[submodule "sqlacodegen"]
+	url = https://github.com/conda-forge/sqlacodegen-feedstock.git
+	path = feedstocks/sqlacodegen
+	branch = refs/heads/master
