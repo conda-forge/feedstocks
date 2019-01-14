@@ -24074,3 +24074,7 @@
 	url = https://github.com/conda-forge/aws-requests-auth-feedstock.git
 	path = feedstocks/aws-requests-auth
 	branch = refs/heads/master
+[submodule "delocate"]
+	url = https://github.com/conda-forge/delocate-feedstock.git
+	path = feedstocks/delocate
+	branch = refs/heads/master
