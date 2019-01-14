@@ -24010,3 +24010,7 @@
 	url = https://github.com/conda-forge/sqlacodegen-feedstock.git
 	path = feedstocks/sqlacodegen
 	branch = refs/heads/master
+[submodule "bullet"]
+	url = https://github.com/conda-forge/bullet-feedstock.git
+	path = feedstocks/bullet
+	branch = refs/heads/master
