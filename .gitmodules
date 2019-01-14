@@ -24038,3 +24038,7 @@
 	url = https://github.com/conda-forge/ipysheet-feedstock.git
 	path = feedstocks/ipysheet
 	branch = refs/heads/master
+[submodule "cif2cell"]
+	url = https://github.com/conda-forge/cif2cell-feedstock.git
+	path = feedstocks/cif2cell
+	branch = refs/heads/master
