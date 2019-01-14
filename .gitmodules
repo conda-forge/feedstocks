@@ -24046,3 +24046,7 @@
 	url = https://github.com/conda-forge/root-feedstock.git
 	path = feedstocks/root
 	branch = refs/heads/master
+[submodule "ldas-tools-frameapi"]
+	url = https://github.com/conda-forge/ldas-tools-frameapi-feedstock.git
+	path = feedstocks/ldas-tools-frameapi
+	branch = refs/heads/master
