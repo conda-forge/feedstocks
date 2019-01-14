@@ -24062,3 +24062,7 @@
 	url = https://github.com/conda-forge/pywinhook-feedstock.git
 	path = feedstocks/pywinhook
 	branch = refs/heads/master
+[submodule "qcelemental"]
+	url = https://github.com/conda-forge/qcelemental-feedstock.git
+	path = feedstocks/qcelemental
+	branch = refs/heads/master
