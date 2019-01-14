@@ -24018,3 +24018,7 @@
 	url = https://github.com/conda-forge/pysheds-feedstock.git
 	path = feedstocks/pysheds
 	branch = refs/heads/master
+[submodule "ptvsd"]
+	url = https://github.com/conda-forge/ptvsd-feedstock.git
+	path = feedstocks/ptvsd
+	branch = refs/heads/master
