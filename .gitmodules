@@ -24054,3 +24054,7 @@
 	url = https://github.com/conda-forge/dockermake-feedstock.git
 	path = feedstocks/dockermake
 	branch = refs/heads/master
+[submodule "afterimage"]
+	url = https://github.com/conda-forge/afterimage-feedstock.git
+	path = feedstocks/afterimage
+	branch = refs/heads/master
