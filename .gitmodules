@@ -24030,3 +24030,7 @@
 	url = https://github.com/conda-forge/pyupgrade-feedstock.git
 	path = feedstocks/pyupgrade
 	branch = refs/heads/master
+[submodule "jupyter-hdfscm"]
+	url = https://github.com/conda-forge/jupyter-hdfscm-feedstock.git
+	path = feedstocks/jupyter-hdfscm
+	branch = refs/heads/master
