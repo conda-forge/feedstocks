@@ -24022,3 +24022,7 @@
 	url = https://github.com/conda-forge/ptvsd-feedstock.git
 	path = feedstocks/ptvsd
 	branch = refs/heads/master
+[submodule "vdt"]
+	url = https://github.com/conda-forge/vdt-feedstock.git
+	path = feedstocks/vdt
+	branch = refs/heads/master
