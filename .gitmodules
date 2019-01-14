@@ -24050,3 +24050,7 @@
 	url = https://github.com/conda-forge/ldas-tools-frameapi-feedstock.git
 	path = feedstocks/ldas-tools-frameapi
 	branch = refs/heads/master
+[submodule "dockermake"]
+	url = https://github.com/conda-forge/dockermake-feedstock.git
+	path = feedstocks/dockermake
+	branch = refs/heads/master
