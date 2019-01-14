@@ -24034,3 +24034,7 @@
 	url = https://github.com/conda-forge/jupyter-hdfscm-feedstock.git
 	path = feedstocks/jupyter-hdfscm
 	branch = refs/heads/master
+[submodule "ipysheet"]
+	url = https://github.com/conda-forge/ipysheet-feedstock.git
+	path = feedstocks/ipysheet
+	branch = refs/heads/master
