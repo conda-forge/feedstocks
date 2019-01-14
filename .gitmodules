@@ -24042,3 +24042,7 @@
 	url = https://github.com/conda-forge/cif2cell-feedstock.git
 	path = feedstocks/cif2cell
 	branch = refs/heads/master
+[submodule "root"]
+	url = https://github.com/conda-forge/root-feedstock.git
+	path = feedstocks/root
+	branch = refs/heads/master
