@@ -24070,3 +24070,7 @@
 	url = https://github.com/conda-forge/davix-feedstock.git
 	path = feedstocks/davix
 	branch = refs/heads/master
+[submodule "aws-requests-auth"]
+	url = https://github.com/conda-forge/aws-requests-auth-feedstock.git
+	path = feedstocks/aws-requests-auth
+	branch = refs/heads/master
