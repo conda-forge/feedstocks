@@ -24014,3 +24014,7 @@
 	url = https://github.com/conda-forge/bullet-feedstock.git
 	path = feedstocks/bullet
 	branch = refs/heads/master
+[submodule "pysheds"]
+	url = https://github.com/conda-forge/pysheds-feedstock.git
+	path = feedstocks/pysheds
+	branch = refs/heads/master
