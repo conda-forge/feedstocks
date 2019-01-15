@@ -24098,3 +24098,7 @@
 	url = https://github.com/conda-forge/ggobi-feedstock.git
 	path = feedstocks/ggobi
 	branch = refs/heads/master
+[submodule "faunus"]
+	url = https://github.com/conda-forge/faunus-feedstock.git
+	path = feedstocks/faunus
+	branch = refs/heads/master
