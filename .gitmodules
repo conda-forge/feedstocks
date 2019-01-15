@@ -24094,3 +24094,7 @@
 	url = https://github.com/conda-forge/go-glide-feedstock.git
 	path = feedstocks/go-glide
 	branch = refs/heads/master
+[submodule "ggobi"]
+	url = https://github.com/conda-forge/ggobi-feedstock.git
+	path = feedstocks/ggobi
+	branch = refs/heads/master
