@@ -24090,3 +24090,7 @@
 	url = https://github.com/conda-forge/xrootd-feedstock.git
 	path = feedstocks/xrootd
 	branch = refs/heads/master
+[submodule "go-glide"]
+	url = https://github.com/conda-forge/go-glide-feedstock.git
+	path = feedstocks/go-glide
+	branch = refs/heads/master
