@@ -24122,3 +24122,7 @@
 	url = https://github.com/conda-forge/voeventlib-feedstock.git
 	path = feedstocks/voeventlib
 	branch = refs/heads/master
+[submodule "ldas-tools-diskcacheapi"]
+	url = https://github.com/conda-forge/ldas-tools-diskcacheapi-feedstock.git
+	path = feedstocks/ldas-tools-diskcacheapi
+	branch = refs/heads/master
