@@ -24118,3 +24118,7 @@
 	url = https://github.com/conda-forge/ligo.skymap-feedstock.git
 	path = feedstocks/ligo.skymap
 	branch = refs/heads/master
+[submodule "voeventlib"]
+	url = https://github.com/conda-forge/voeventlib-feedstock.git
+	path = feedstocks/voeventlib
+	branch = refs/heads/master
