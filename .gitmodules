@@ -24102,3 +24102,7 @@
 	url = https://github.com/conda-forge/faunus-feedstock.git
 	path = feedstocks/faunus
 	branch = refs/heads/master
+[submodule "pymumps"]
+	url = https://github.com/conda-forge/pymumps-feedstock.git
+	path = feedstocks/pymumps
+	branch = refs/heads/master
