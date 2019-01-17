@@ -24110,3 +24110,7 @@
 	url = https://github.com/conda-forge/r-scatterpie-feedstock.git
 	path = feedstocks/r-scatterpie
 	branch = refs/heads/master
+[submodule "r-gwidgetstcltk"]
+	url = https://github.com/conda-forge/r-gwidgetstcltk-feedstock.git
+	path = feedstocks/r-gwidgetstcltk
+	branch = refs/heads/master
