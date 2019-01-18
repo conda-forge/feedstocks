@@ -24170,3 +24170,7 @@
 	url = https://github.com/conda-forge/eliot-feedstock.git
 	path = feedstocks/eliot
 	branch = refs/heads/master
+[submodule "xtensor-io"]
+	url = https://github.com/conda-forge/xtensor-io-feedstock.git
+	path = feedstocks/xtensor-io
+	branch = refs/heads/master
