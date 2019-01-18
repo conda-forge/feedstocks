@@ -24146,3 +24146,7 @@
 	url = https://github.com/conda-forge/r-gamboostlss-feedstock.git
 	path = feedstocks/r-gamboostlss
 	branch = refs/heads/master
+[submodule "r-rlrsim"]
+	url = https://github.com/conda-forge/r-rlrsim-feedstock.git
+	path = feedstocks/r-rlrsim
+	branch = refs/heads/master
