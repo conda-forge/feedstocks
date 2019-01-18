@@ -24154,3 +24154,7 @@
 	url = https://github.com/conda-forge/r-gamm4-feedstock.git
 	path = feedstocks/r-gamm4
 	branch = refs/heads/master
+[submodule "r-pbs"]
+	url = https://github.com/conda-forge/r-pbs-feedstock.git
+	path = feedstocks/r-pbs
+	branch = refs/heads/master
