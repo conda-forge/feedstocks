@@ -24150,3 +24150,7 @@
 	url = https://github.com/conda-forge/r-rlrsim-feedstock.git
 	path = feedstocks/r-rlrsim
 	branch = refs/heads/master
+[submodule "r-gamm4"]
+	url = https://github.com/conda-forge/r-gamm4-feedstock.git
+	path = feedstocks/r-gamm4
+	branch = refs/heads/master
