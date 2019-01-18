@@ -24138,3 +24138,7 @@
 	url = https://github.com/conda-forge/pydantic-feedstock.git
 	path = feedstocks/pydantic
 	branch = refs/heads/master
+[submodule "openimageio"]
+	url = https://github.com/conda-forge/openimageio-feedstock.git
+	path = feedstocks/openimageio
+	branch = refs/heads/master
