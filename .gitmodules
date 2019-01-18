@@ -24134,3 +24134,7 @@
 	url = https://github.com/conda-forge/ligo-followup-advocate-feedstock.git
 	path = feedstocks/ligo-followup-advocate
 	branch = refs/heads/master
+[submodule "pydantic"]
+	url = https://github.com/conda-forge/pydantic-feedstock.git
+	path = feedstocks/pydantic
+	branch = refs/heads/master
