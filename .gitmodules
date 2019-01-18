@@ -24174,3 +24174,7 @@
 	url = https://github.com/conda-forge/xtensor-io-feedstock.git
 	path = feedstocks/xtensor-io
 	branch = refs/heads/master
+[submodule "cx_freeze"]
+	url = https://github.com/conda-forge/cx_freeze-feedstock.git
+	path = feedstocks/cx_freeze
+	branch = refs/heads/master
