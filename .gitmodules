@@ -24186,3 +24186,7 @@
 	url = https://github.com/conda-forge/r-extremevalues-feedstock.git
 	path = feedstocks/r-extremevalues
 	branch = refs/heads/master
+[submodule "kneed"]
+	url = https://github.com/conda-forge/kneed-feedstock.git
+	path = feedstocks/kneed
+	branch = refs/heads/master
