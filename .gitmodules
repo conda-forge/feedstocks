@@ -24178,3 +24178,7 @@
 	url = https://github.com/conda-forge/cx_freeze-feedstock.git
 	path = feedstocks/cx_freeze
 	branch = refs/heads/master
+[submodule "python-planarity"]
+	url = https://github.com/conda-forge/python-planarity-feedstock.git
+	path = feedstocks/python-planarity
+	branch = refs/heads/master
