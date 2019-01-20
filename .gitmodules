@@ -24198,3 +24198,7 @@
 	url = https://github.com/conda-forge/deicode-feedstock.git
 	path = feedstocks/deicode
 	branch = refs/heads/master
+[submodule "r-earth"]
+	url = https://github.com/conda-forge/r-earth-feedstock.git
+	path = feedstocks/r-earth
+	branch = refs/heads/master
