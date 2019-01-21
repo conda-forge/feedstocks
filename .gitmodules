@@ -24210,3 +24210,7 @@
 	url = https://github.com/conda-forge/cygrid-feedstock.git
 	path = feedstocks/cygrid
 	branch = refs/heads/master
+[submodule "pyee"]
+	url = https://github.com/conda-forge/pyee-feedstock.git
+	path = feedstocks/pyee
+	branch = refs/heads/master
