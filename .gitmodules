@@ -24218,3 +24218,7 @@
 	url = https://github.com/conda-forge/gst-orc-feedstock.git
 	path = feedstocks/gst-orc
 	branch = refs/heads/master
+[submodule "shortcutter"]
+	url = https://github.com/conda-forge/shortcutter-feedstock.git
+	path = feedstocks/shortcutter
+	branch = refs/heads/master
