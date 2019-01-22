@@ -24254,3 +24254,7 @@
 	url = https://github.com/conda-forge/dsub-feedstock.git
 	path = feedstocks/dsub
 	branch = refs/heads/master
+[submodule "r-rcdk"]
+	url = https://github.com/conda-forge/r-rcdk-feedstock.git
+	path = feedstocks/r-rcdk
+	branch = refs/heads/master
