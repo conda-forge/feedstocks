@@ -24274,3 +24274,7 @@
 	url = https://github.com/conda-forge/opcua-feedstock.git
 	path = feedstocks/opcua
 	branch = refs/heads/master
+[submodule "matplotlibhelper"]
+	url = https://github.com/conda-forge/matplotlibhelper-feedstock.git
+	path = feedstocks/matplotlibhelper
+	branch = refs/heads/master
