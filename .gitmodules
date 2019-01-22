@@ -24242,3 +24242,7 @@
 	url = https://github.com/conda-forge/dash-daq-feedstock.git
 	path = feedstocks/dash-daq
 	branch = refs/heads/master
+[submodule "ocl_icd_wrapper_apple"]
+	url = https://github.com/conda-forge/ocl_icd_wrapper_apple-feedstock.git
+	path = feedstocks/ocl_icd_wrapper_apple
+	branch = refs/heads/master
