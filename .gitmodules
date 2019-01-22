@@ -24250,3 +24250,7 @@
 	url = https://github.com/conda-forge/sugartex-feedstock.git
 	path = feedstocks/sugartex
 	branch = refs/heads/master
+[submodule "dsub"]
+	url = https://github.com/conda-forge/dsub-feedstock.git
+	path = feedstocks/dsub
+	branch = refs/heads/master
