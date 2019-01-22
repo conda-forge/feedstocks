@@ -24262,3 +24262,7 @@
 	url = https://github.com/conda-forge/r-rcdklibs-feedstock.git
 	path = feedstocks/r-rcdklibs
 	branch = refs/heads/master
+[submodule "knitty"]
+	url = https://github.com/conda-forge/knitty-feedstock.git
+	path = feedstocks/knitty
+	branch = refs/heads/master
