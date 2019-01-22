@@ -24270,3 +24270,7 @@
 	url = https://github.com/conda-forge/r-tidytidbits-feedstock.git
 	path = feedstocks/r-tidytidbits
 	branch = refs/heads/master
+[submodule "opcua"]
+	url = https://github.com/conda-forge/opcua-feedstock.git
+	path = feedstocks/opcua
+	branch = refs/heads/master
