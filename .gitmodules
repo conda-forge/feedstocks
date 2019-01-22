@@ -24282,3 +24282,7 @@
 	url = https://github.com/conda-forge/featherhelper-feedstock.git
 	path = feedstocks/featherhelper
 	branch = refs/heads/master
+[submodule "gst-python"]
+	url = https://github.com/conda-forge/gst-python-feedstock.git
+	path = feedstocks/gst-python
+	branch = refs/heads/master
