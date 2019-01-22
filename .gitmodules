@@ -24278,3 +24278,7 @@
 	url = https://github.com/conda-forge/matplotlibhelper-feedstock.git
 	path = feedstocks/matplotlibhelper
 	branch = refs/heads/master
+[submodule "featherhelper"]
+	url = https://github.com/conda-forge/featherhelper-feedstock.git
+	path = feedstocks/featherhelper
+	branch = refs/heads/master
