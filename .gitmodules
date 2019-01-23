@@ -24294,3 +24294,7 @@
 	url = https://github.com/conda-forge/comet-feedstock.git
 	path = feedstocks/comet
 	branch = refs/heads/master
+[submodule "pandoc-crossref"]
+	url = https://github.com/conda-forge/pandoc-crossref-feedstock.git
+	path = feedstocks/pandoc-crossref
+	branch = refs/heads/master
