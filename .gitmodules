@@ -24302,3 +24302,7 @@
 	url = https://github.com/conda-forge/ipynb-py-convert-feedstock.git
 	path = feedstocks/ipynb-py-convert
 	branch = refs/heads/master
+[submodule "pytest-socket"]
+	url = https://github.com/conda-forge/pytest-socket-feedstock.git
+	path = feedstocks/pytest-socket
+	branch = refs/heads/master
