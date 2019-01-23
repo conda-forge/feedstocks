@@ -24290,3 +24290,7 @@
 	url = https://github.com/conda-forge/tabulatehelper-feedstock.git
 	path = feedstocks/tabulatehelper
 	branch = refs/heads/master
+[submodule "comet"]
+	url = https://github.com/conda-forge/comet-feedstock.git
+	path = feedstocks/comet
+	branch = refs/heads/master
