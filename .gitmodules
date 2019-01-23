@@ -24306,3 +24306,7 @@
 	url = https://github.com/conda-forge/pytest-socket-feedstock.git
 	path = feedstocks/pytest-socket
 	branch = refs/heads/master
+[submodule "pymodbustcp"]
+	url = https://github.com/conda-forge/pymodbustcp-feedstock.git
+	path = feedstocks/pymodbustcp
+	branch = refs/heads/master
