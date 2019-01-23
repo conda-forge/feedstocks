@@ -24314,3 +24314,7 @@
 	url = https://github.com/conda-forge/click-default-group-feedstock.git
 	path = feedstocks/click-default-group
 	branch = refs/heads/master
+[submodule "better_exceptions_fork"]
+	url = https://github.com/conda-forge/better_exceptions_fork-feedstock.git
+	path = feedstocks/better_exceptions_fork
+	branch = refs/heads/master
