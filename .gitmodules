@@ -24318,3 +24318,7 @@
 	url = https://github.com/conda-forge/better_exceptions_fork-feedstock.git
 	path = feedstocks/better_exceptions_fork
 	branch = refs/heads/master
+[submodule "ansimarkup"]
+	url = https://github.com/conda-forge/ansimarkup-feedstock.git
+	path = feedstocks/ansimarkup
+	branch = refs/heads/master
