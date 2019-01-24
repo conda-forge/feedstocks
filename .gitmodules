@@ -24330,3 +24330,7 @@
 	url = https://github.com/conda-forge/go-bindata-feedstock.git
 	path = feedstocks/go-bindata
 	branch = refs/heads/master
+[submodule "pyppeteer"]
+	url = https://github.com/conda-forge/pyppeteer-feedstock.git
+	path = feedstocks/pyppeteer
+	branch = refs/heads/master
