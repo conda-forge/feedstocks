@@ -24334,3 +24334,7 @@
 	url = https://github.com/conda-forge/pyppeteer-feedstock.git
 	path = feedstocks/pyppeteer
 	branch = refs/heads/master
+[submodule "pyppdf"]
+	url = https://github.com/conda-forge/pyppdf-feedstock.git
+	path = feedstocks/pyppdf
+	branch = refs/heads/master
