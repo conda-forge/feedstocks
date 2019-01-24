@@ -24346,3 +24346,7 @@
 	url = https://github.com/conda-forge/pandoctools-feedstock.git
 	path = feedstocks/pandoctools
 	branch = refs/heads/master
+[submodule "fsleyes"]
+	url = https://github.com/conda-forge/fsleyes-feedstock.git
+	path = feedstocks/fsleyes
+	branch = refs/heads/master
