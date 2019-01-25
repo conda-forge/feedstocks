@@ -24354,3 +24354,7 @@
 	url = https://github.com/conda-forge/torsiondrive-feedstock.git
 	path = feedstocks/torsiondrive
 	branch = refs/heads/master
+[submodule "typeguard"]
+	url = https://github.com/conda-forge/typeguard-feedstock.git
+	path = feedstocks/typeguard
+	branch = refs/heads/master
