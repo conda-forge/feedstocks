@@ -24366,3 +24366,7 @@
 	url = https://github.com/conda-forge/mrcfile-feedstock.git
 	path = feedstocks/mrcfile
 	branch = refs/heads/master
+[submodule "python-pegasus-wms"]
+	url = https://github.com/conda-forge/python-pegasus-wms-feedstock.git
+	path = feedstocks/python-pegasus-wms
+	branch = refs/heads/master
