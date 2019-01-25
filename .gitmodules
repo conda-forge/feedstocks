@@ -24362,3 +24362,7 @@
 	url = https://github.com/conda-forge/r-refund-feedstock.git
 	path = feedstocks/r-refund
 	branch = refs/heads/master
+[submodule "mrcfile"]
+	url = https://github.com/conda-forge/mrcfile-feedstock.git
+	path = feedstocks/mrcfile
+	branch = refs/heads/master
