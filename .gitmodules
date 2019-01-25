@@ -24370,3 +24370,7 @@
 	url = https://github.com/conda-forge/python-pegasus-wms-feedstock.git
 	path = feedstocks/python-pegasus-wms
 	branch = refs/heads/master
+[submodule "hydroerr"]
+	url = https://github.com/conda-forge/hydroerr-feedstock.git
+	path = feedstocks/hydroerr
+	branch = refs/heads/master
