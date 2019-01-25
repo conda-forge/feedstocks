@@ -24350,3 +24350,7 @@
 	url = https://github.com/conda-forge/fsleyes-feedstock.git
 	path = feedstocks/fsleyes
 	branch = refs/heads/master
+[submodule "torsiondrive"]
+	url = https://github.com/conda-forge/torsiondrive-feedstock.git
+	path = feedstocks/torsiondrive
+	branch = refs/heads/master
