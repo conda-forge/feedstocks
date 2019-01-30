@@ -24382,3 +24382,7 @@
 	url = https://github.com/conda-forge/mycli-feedstock.git
 	path = feedstocks/mycli
 	branch = refs/heads/master
+[submodule "pypugjs"]
+	url = https://github.com/conda-forge/pypugjs-feedstock.git
+	path = feedstocks/pypugjs
+	branch = refs/heads/master
