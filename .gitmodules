@@ -24406,3 +24406,7 @@
 	url = https://github.com/conda-forge/uproot-methods-feedstock.git
 	path = feedstocks/uproot-methods
 	branch = refs/heads/master
+[submodule "awkward"]
+	url = https://github.com/conda-forge/awkward-feedstock.git
+	path = feedstocks/awkward
+	branch = refs/heads/master
