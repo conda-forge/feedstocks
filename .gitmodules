@@ -24394,3 +24394,7 @@
 	url = https://github.com/conda-forge/ticcltools-feedstock.git
 	path = feedstocks/ticcltools
 	branch = refs/heads/master
+[submodule "uproot"]
+	url = https://github.com/conda-forge/uproot-feedstock.git
+	path = feedstocks/uproot
+	branch = refs/heads/master
