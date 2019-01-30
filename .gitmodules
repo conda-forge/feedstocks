@@ -24374,3 +24374,7 @@
 	url = https://github.com/conda-forge/hydroerr-feedstock.git
 	path = feedstocks/hydroerr
 	branch = refs/heads/master
+[submodule "xtensor-julia"]
+	url = https://github.com/conda-forge/xtensor-julia-feedstock.git
+	path = feedstocks/xtensor-julia
+	branch = refs/heads/master
