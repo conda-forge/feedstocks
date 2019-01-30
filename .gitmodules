@@ -24410,3 +24410,7 @@
 	url = https://github.com/conda-forge/awkward-feedstock.git
 	path = feedstocks/awkward
 	branch = refs/heads/master
+[submodule "ldas-tools-framecpp-swig"]
+	url = https://github.com/conda-forge/ldas-tools-framecpp-swig-feedstock.git
+	path = feedstocks/ldas-tools-framecpp-swig
+	branch = refs/heads/master
