@@ -24402,3 +24402,7 @@
 	url = https://github.com/conda-forge/pycbc-feedstock.git
 	path = feedstocks/pycbc
 	branch = refs/heads/master
+[submodule "uproot-methods"]
+	url = https://github.com/conda-forge/uproot-methods-feedstock.git
+	path = feedstocks/uproot-methods
+	branch = refs/heads/master
