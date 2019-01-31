@@ -24434,3 +24434,7 @@
 	url = https://github.com/conda-forge/dpkt-feedstock.git
 	path = feedstocks/dpkt
 	branch = refs/heads/master
+[submodule "terrainbento"]
+	url = https://github.com/conda-forge/terrainbento-feedstock.git
+	path = feedstocks/terrainbento
+	branch = refs/heads/master
