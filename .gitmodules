@@ -24430,3 +24430,7 @@
 	url = https://github.com/conda-forge/sleek-lvalert-feedstock.git
 	path = feedstocks/sleek-lvalert
 	branch = refs/heads/master
+[submodule "dpkt"]
+	url = https://github.com/conda-forge/dpkt-feedstock.git
+	path = feedstocks/dpkt
+	branch = refs/heads/master
