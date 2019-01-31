@@ -24422,3 +24422,7 @@
 	url = https://github.com/conda-forge/r-polycor-feedstock.git
 	path = feedstocks/r-polycor
 	branch = refs/heads/master
+[submodule "r-mumin"]
+	url = https://github.com/conda-forge/r-mumin-feedstock.git
+	path = feedstocks/r-mumin
+	branch = refs/heads/master
