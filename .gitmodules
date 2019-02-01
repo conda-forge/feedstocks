@@ -24450,3 +24450,7 @@
 	url = https://github.com/conda-forge/micromagneticdata-feedstock.git
 	path = feedstocks/micromagneticdata
 	branch = refs/heads/master
+[submodule "shenfun"]
+	url = https://github.com/conda-forge/shenfun-feedstock.git
+	path = feedstocks/shenfun
+	branch = refs/heads/master
