@@ -24446,3 +24446,7 @@
 	url = https://github.com/conda-forge/skyarea-feedstock.git
 	path = feedstocks/skyarea
 	branch = refs/heads/master
+[submodule "micromagneticdata"]
+	url = https://github.com/conda-forge/micromagneticdata-feedstock.git
+	path = feedstocks/micromagneticdata
+	branch = refs/heads/master
