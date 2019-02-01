@@ -24442,3 +24442,7 @@
 	url = https://github.com/conda-forge/go-bindata-assetfs-feedstock.git
 	path = feedstocks/go-bindata-assetfs
 	branch = refs/heads/master
+[submodule "skyarea"]
+	url = https://github.com/conda-forge/skyarea-feedstock.git
+	path = feedstocks/skyarea
+	branch = refs/heads/master
