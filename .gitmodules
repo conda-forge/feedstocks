@@ -24454,3 +24454,7 @@
 	url = https://github.com/conda-forge/shenfun-feedstock.git
 	path = feedstocks/shenfun
 	branch = refs/heads/master
+[submodule "pyrserve"]
+	url = https://github.com/conda-forge/pyrserve-feedstock.git
+	path = feedstocks/pyrserve
+	branch = refs/heads/master
