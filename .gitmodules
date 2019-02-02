@@ -24458,3 +24458,7 @@
 	url = https://github.com/conda-forge/pyrserve-feedstock.git
 	path = feedstocks/pyrserve
 	branch = refs/heads/master
+[submodule "mrcz"]
+	url = https://github.com/conda-forge/mrcz-feedstock.git
+	path = feedstocks/mrcz
+	branch = refs/heads/master
