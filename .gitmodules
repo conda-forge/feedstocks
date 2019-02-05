@@ -24490,3 +24490,7 @@
 	url = https://github.com/conda-forge/python-hookman-feedstock.git
 	path = feedstocks/python-hookman
 	branch = refs/heads/master
+[submodule "bayeswave"]
+	url = https://github.com/conda-forge/bayeswave-feedstock.git
+	path = feedstocks/bayeswave
+	branch = refs/heads/master
