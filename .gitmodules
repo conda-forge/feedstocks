@@ -24482,3 +24482,7 @@
 	url = https://github.com/conda-forge/glfw-feedstock.git
 	path = feedstocks/glfw
 	branch = refs/heads/master
+[submodule "nginx-module-njs"]
+	url = https://github.com/conda-forge/nginx-module-njs-feedstock.git
+	path = feedstocks/nginx-module-njs
+	branch = refs/heads/master
