@@ -24474,3 +24474,7 @@
 	url = https://github.com/conda-forge/tskit-feedstock.git
 	path = feedstocks/tskit
 	branch = refs/heads/master
+[submodule "pythia8"]
+	url = https://github.com/conda-forge/pythia8-feedstock.git
+	path = feedstocks/pythia8
+	branch = refs/heads/master
