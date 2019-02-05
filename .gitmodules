@@ -24470,3 +24470,7 @@
 	url = https://github.com/conda-forge/pyreadstat-feedstock.git
 	path = feedstocks/pyreadstat
 	branch = refs/heads/master
+[submodule "tskit"]
+	url = https://github.com/conda-forge/tskit-feedstock.git
+	path = feedstocks/tskit
+	branch = refs/heads/master
