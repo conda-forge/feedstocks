@@ -24498,3 +24498,7 @@
 	url = https://github.com/conda-forge/pesummary-feedstock.git
 	path = feedstocks/pesummary
 	branch = refs/heads/master
+[submodule "mathjax"]
+	url = https://github.com/conda-forge/mathjax-feedstock.git
+	path = feedstocks/mathjax
+	branch = refs/heads/master
