@@ -24506,3 +24506,7 @@
 	url = https://github.com/conda-forge/gfortran_osx-64-feedstock.git
 	path = feedstocks/gfortran_osx-64
 	branch = refs/heads/master
+[submodule "gfortran_impl_osx-64"]
+	url = https://github.com/conda-forge/gfortran_impl_osx-64-feedstock.git
+	path = feedstocks/gfortran_impl_osx-64
+	branch = refs/heads/master
