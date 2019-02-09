@@ -24514,3 +24514,7 @@
 	url = https://github.com/conda-forge/academic-feedstock.git
 	path = feedstocks/academic
 	branch = refs/heads/master
+[submodule "pyreadr"]
+	url = https://github.com/conda-forge/pyreadr-feedstock.git
+	path = feedstocks/pyreadr
+	branch = refs/heads/master
