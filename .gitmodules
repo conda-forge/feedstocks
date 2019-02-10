@@ -24554,3 +24554,7 @@
 	url = https://github.com/conda-forge/imageio-ffmpeg-feedstock.git
 	path = feedstocks/imageio-ffmpeg
 	branch = refs/heads/master
+[submodule "tensorflow-probability"]
+	url = https://github.com/conda-forge/tensorflow-probability-feedstock.git
+	path = feedstocks/tensorflow-probability
+	branch = refs/heads/master
