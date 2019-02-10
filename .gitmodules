@@ -24522,3 +24522,7 @@
 	url = https://github.com/conda-forge/blosc-hdf5-plugin-feedstock.git
 	path = feedstocks/blosc-hdf5-plugin
 	branch = refs/heads/master
+[submodule "intel-ipp"]
+	url = https://github.com/conda-forge/intel-ipp-feedstock.git
+	path = feedstocks/intel-ipp
+	branch = refs/heads/master
