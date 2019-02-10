@@ -24526,3 +24526,7 @@
 	url = https://github.com/conda-forge/intel-ipp-feedstock.git
 	path = feedstocks/intel-ipp
 	branch = refs/heads/master
+[submodule "urbansim_templates"]
+	url = https://github.com/conda-forge/urbansim_templates-feedstock.git
+	path = feedstocks/urbansim_templates
+	branch = refs/heads/master
