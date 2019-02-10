@@ -24538,3 +24538,7 @@
 	url = https://github.com/conda-forge/scour-feedstock.git
 	path = feedstocks/scour
 	branch = refs/heads/master
+[submodule "omcompiler"]
+	url = https://github.com/conda-forge/omcompiler-feedstock.git
+	path = feedstocks/omcompiler
+	branch = refs/heads/master
