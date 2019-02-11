@@ -24582,3 +24582,7 @@
 	url = https://github.com/conda-forge/py-mathjax-feedstock.git
 	path = feedstocks/py-mathjax
 	branch = refs/heads/master
+[submodule "compilers"]
+	url = https://github.com/conda-forge/compilers-feedstock.git
+	path = feedstocks/compilers
+	branch = refs/heads/master
