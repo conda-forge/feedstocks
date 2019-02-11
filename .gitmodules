@@ -24566,3 +24566,7 @@
 	url = https://github.com/conda-forge/scitime-feedstock.git
 	path = feedstocks/scitime
 	branch = refs/heads/master
+[submodule "ezget"]
+	url = https://github.com/conda-forge/ezget-feedstock.git
+	path = feedstocks/ezget
+	branch = refs/heads/master
