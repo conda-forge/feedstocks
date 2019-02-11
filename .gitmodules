@@ -24602,3 +24602,7 @@
 	url = https://github.com/conda-forge/grpc-cpp-feedstock.git
 	path = feedstocks/grpc-cpp
 	branch = refs/heads/master
+[submodule "py-pandoc-crossref"]
+	url = https://github.com/conda-forge/py-pandoc-crossref-feedstock.git
+	path = feedstocks/py-pandoc-crossref
+	branch = refs/heads/master
