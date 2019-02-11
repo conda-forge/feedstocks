@@ -24574,3 +24574,7 @@
 	url = https://github.com/conda-forge/traja-feedstock.git
 	path = feedstocks/traja
 	branch = refs/heads/master
+[submodule "pyevtk"]
+	url = https://github.com/conda-forge/pyevtk-feedstock.git
+	path = feedstocks/pyevtk
+	branch = refs/heads/master
