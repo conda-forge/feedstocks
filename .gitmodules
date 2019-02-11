@@ -24586,3 +24586,7 @@
 	url = https://github.com/conda-forge/compilers-feedstock.git
 	path = feedstocks/compilers
 	branch = refs/heads/master
+[submodule "pybuilder"]
+	url = https://github.com/conda-forge/pybuilder-feedstock.git
+	path = feedstocks/pybuilder
+	branch = refs/heads/master
