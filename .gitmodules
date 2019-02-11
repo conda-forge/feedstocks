@@ -24598,3 +24598,7 @@
 	url = https://github.com/conda-forge/py-pandoc-feedstock.git
 	path = feedstocks/py-pandoc
 	branch = refs/heads/master
+[submodule "grpc-cpp"]
+	url = https://github.com/conda-forge/grpc-cpp-feedstock.git
+	path = feedstocks/grpc-cpp
+	branch = refs/heads/master
