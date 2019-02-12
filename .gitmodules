@@ -24610,3 +24610,7 @@
 	url = https://github.com/conda-forge/pandoc-attrs-feedstock.git
 	path = feedstocks/pandoc-attrs
 	branch = refs/heads/master
+[submodule "intake-elasticsearch"]
+	url = https://github.com/conda-forge/intake-elasticsearch-feedstock.git
+	path = feedstocks/intake-elasticsearch
+	branch = refs/heads/master
