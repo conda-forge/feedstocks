@@ -24606,3 +24606,7 @@
 	url = https://github.com/conda-forge/py-pandoc-crossref-feedstock.git
 	path = feedstocks/py-pandoc-crossref
 	branch = refs/heads/master
+[submodule "pandoc-attrs"]
+	url = https://github.com/conda-forge/pandoc-attrs-feedstock.git
+	path = feedstocks/pandoc-attrs
+	branch = refs/heads/master
