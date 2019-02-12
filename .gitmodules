@@ -24618,3 +24618,7 @@
 	url = https://github.com/conda-forge/pydicth5-feedstock.git
 	path = feedstocks/pydicth5
 	branch = refs/heads/master
+[submodule "cwl_runner"]
+	url = https://github.com/conda-forge/cwl_runner-feedstock.git
+	path = feedstocks/cwl_runner
+	branch = refs/heads/master
