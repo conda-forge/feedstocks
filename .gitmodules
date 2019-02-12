@@ -24614,3 +24614,7 @@
 	url = https://github.com/conda-forge/intake-elasticsearch-feedstock.git
 	path = feedstocks/intake-elasticsearch
 	branch = refs/heads/master
+[submodule "pydicth5"]
+	url = https://github.com/conda-forge/pydicth5-feedstock.git
+	path = feedstocks/pydicth5
+	branch = refs/heads/master
