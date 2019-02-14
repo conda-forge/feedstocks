@@ -24638,3 +24638,7 @@
 	url = https://github.com/conda-forge/colored-feedstock.git
 	path = feedstocks/colored
 	branch = refs/heads/master
+[submodule "polyfempy"]
+	url = https://github.com/conda-forge/polyfempy-feedstock.git
+	path = feedstocks/polyfempy
+	branch = refs/heads/master
