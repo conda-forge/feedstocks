@@ -24662,3 +24662,7 @@
 	url = https://github.com/conda-forge/cmarkgfm-feedstock.git
 	path = feedstocks/cmarkgfm
 	branch = refs/heads/master
+[submodule "yodapy"]
+	url = https://github.com/conda-forge/yodapy-feedstock.git
+	path = feedstocks/yodapy
+	branch = refs/heads/master
