@@ -24654,3 +24654,7 @@
 	url = https://github.com/conda-forge/readme_renderer-feedstock.git
 	path = feedstocks/readme_renderer
 	branch = refs/heads/master
+[submodule "pymor"]
+	url = https://github.com/conda-forge/pymor-feedstock.git
+	path = feedstocks/pymor
+	branch = refs/heads/master
