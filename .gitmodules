@@ -24650,3 +24650,7 @@
 	url = https://github.com/conda-forge/amplpy-feedstock.git
 	path = feedstocks/amplpy
 	branch = refs/heads/master
+[submodule "readme_renderer"]
+	url = https://github.com/conda-forge/readme_renderer-feedstock.git
+	path = feedstocks/readme_renderer
+	branch = refs/heads/master
