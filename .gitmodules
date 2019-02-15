@@ -24670,3 +24670,7 @@
 	url = https://github.com/conda-forge/intake-astro-feedstock.git
 	path = feedstocks/intake-astro
 	branch = refs/heads/master
+[submodule "static-frame"]
+	url = https://github.com/conda-forge/static-frame-feedstock.git
+	path = feedstocks/static-frame
+	branch = refs/heads/master
