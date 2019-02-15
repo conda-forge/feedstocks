@@ -24674,3 +24674,7 @@
 	url = https://github.com/conda-forge/static-frame-feedstock.git
 	path = feedstocks/static-frame
 	branch = refs/heads/master
+[submodule "cminpack"]
+	url = https://github.com/conda-forge/cminpack-feedstock.git
+	path = feedstocks/cminpack
+	branch = refs/heads/master
