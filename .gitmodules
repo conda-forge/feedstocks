@@ -24714,3 +24714,7 @@
 	url = https://github.com/conda-forge/pathspec-feedstock.git
 	path = feedstocks/pathspec
 	branch = refs/heads/master
+[submodule "straditize"]
+	url = https://github.com/conda-forge/straditize-feedstock.git
+	path = feedstocks/straditize
+	branch = refs/heads/master
