@@ -24686,3 +24686,7 @@
 	url = https://github.com/conda-forge/pyfizi-feedstock.git
 	path = feedstocks/pyfizi
 	branch = refs/heads/master
+[submodule "hdmf"]
+	url = https://github.com/conda-forge/hdmf-feedstock.git
+	path = feedstocks/hdmf
+	branch = refs/heads/master
