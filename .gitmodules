@@ -24690,3 +24690,7 @@
 	url = https://github.com/conda-forge/hdmf-feedstock.git
 	path = feedstocks/hdmf
 	branch = refs/heads/master
+[submodule "spacy-model-de"]
+	url = https://github.com/conda-forge/spacy-model-de-feedstock.git
+	path = feedstocks/spacy-model-de
+	branch = refs/heads/master
