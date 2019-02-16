@@ -24734,3 +24734,7 @@
 	url = https://github.com/conda-forge/catch2-feedstock.git
 	path = feedstocks/catch2
 	branch = refs/heads/master
+[submodule "pybase64"]
+	url = https://github.com/conda-forge/pybase64-feedstock.git
+	path = feedstocks/pybase64
+	branch = refs/heads/master
