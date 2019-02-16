@@ -24726,3 +24726,7 @@
 	url = https://github.com/conda-forge/gwcelery-feedstock.git
 	path = feedstocks/gwcelery
 	branch = refs/heads/master
+[submodule "codes-ui"]
+	url = https://github.com/conda-forge/codes-ui-feedstock.git
+	path = feedstocks/codes-ui
+	branch = refs/heads/master
