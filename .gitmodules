@@ -24722,3 +24722,7 @@
 	url = https://github.com/conda-forge/psy-strat-feedstock.git
 	path = feedstocks/psy-strat
 	branch = refs/heads/master
+[submodule "gwcelery"]
+	url = https://github.com/conda-forge/gwcelery-feedstock.git
+	path = feedstocks/gwcelery
+	branch = refs/heads/master
