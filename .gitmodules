@@ -24730,3 +24730,7 @@
 	url = https://github.com/conda-forge/codes-ui-feedstock.git
 	path = feedstocks/codes-ui
 	branch = refs/heads/master
+[submodule "catch2"]
+	url = https://github.com/conda-forge/catch2-feedstock.git
+	path = feedstocks/catch2
+	branch = refs/heads/master
