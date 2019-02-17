@@ -24762,3 +24762,7 @@
 	url = https://github.com/conda-forge/vmd-feedstock.git
 	path = feedstocks/vmd
 	branch = refs/heads/master
+[submodule "benchmark"]
+	url = https://github.com/conda-forge/benchmark-feedstock.git
+	path = feedstocks/benchmark
+	branch = refs/heads/master
