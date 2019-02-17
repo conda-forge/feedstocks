@@ -24742,3 +24742,7 @@
 	url = https://github.com/conda-forge/aiocontextvars-feedstock.git
 	path = feedstocks/aiocontextvars
 	branch = refs/heads/master
+[submodule "aiosqlite"]
+	url = https://github.com/conda-forge/aiosqlite-feedstock.git
+	path = feedstocks/aiosqlite
+	branch = refs/heads/master
