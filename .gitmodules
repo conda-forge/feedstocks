@@ -24754,3 +24754,7 @@
 	url = https://github.com/conda-forge/codacy-coverage-feedstock.git
 	path = feedstocks/codacy-coverage
 	branch = refs/heads/master
+[submodule "fossil"]
+	url = https://github.com/conda-forge/fossil-feedstock.git
+	path = feedstocks/fossil
+	branch = refs/heads/master
