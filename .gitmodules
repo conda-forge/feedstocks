@@ -24750,3 +24750,7 @@
 	url = https://github.com/conda-forge/pysqa-feedstock.git
 	path = feedstocks/pysqa
 	branch = refs/heads/master
+[submodule "codacy-coverage"]
+	url = https://github.com/conda-forge/codacy-coverage-feedstock.git
+	path = feedstocks/codacy-coverage
+	branch = refs/heads/master
