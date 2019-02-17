@@ -24746,3 +24746,7 @@
 	url = https://github.com/conda-forge/aiosqlite-feedstock.git
 	path = feedstocks/aiosqlite
 	branch = refs/heads/master
+[submodule "pysqa"]
+	url = https://github.com/conda-forge/pysqa-feedstock.git
+	path = feedstocks/pysqa
+	branch = refs/heads/master
