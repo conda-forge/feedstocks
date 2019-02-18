@@ -24778,3 +24778,7 @@
 	url = https://github.com/conda-forge/libint-feedstock.git
 	path = feedstocks/libint
 	branch = refs/heads/master
+[submodule "hyperspyui"]
+	url = https://github.com/conda-forge/hyperspyui-feedstock.git
+	path = feedstocks/hyperspyui
+	branch = refs/heads/master
