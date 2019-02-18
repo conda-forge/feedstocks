@@ -24782,3 +24782,7 @@
 	url = https://github.com/conda-forge/hyperspyui-feedstock.git
 	path = feedstocks/hyperspyui
 	branch = refs/heads/master
+[submodule "knack"]
+	url = https://github.com/conda-forge/knack-feedstock.git
+	path = feedstocks/knack
+	branch = refs/heads/master
