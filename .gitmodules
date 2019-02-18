@@ -24774,3 +24774,7 @@
 	url = https://github.com/conda-forge/flatten_json-feedstock.git
 	path = feedstocks/flatten_json
 	branch = refs/heads/master
+[submodule "libint"]
+	url = https://github.com/conda-forge/libint-feedstock.git
+	path = feedstocks/libint
+	branch = refs/heads/master
