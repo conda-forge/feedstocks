@@ -24794,3 +24794,7 @@
 	url = https://github.com/conda-forge/applicationinsights-feedstock.git
 	path = feedstocks/applicationinsights
 	branch = refs/heads/master
+[submodule "puremagic"]
+	url = https://github.com/conda-forge/puremagic-feedstock.git
+	path = feedstocks/puremagic
+	branch = refs/heads/master
