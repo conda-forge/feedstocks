@@ -24786,3 +24786,7 @@
 	url = https://github.com/conda-forge/knack-feedstock.git
 	path = feedstocks/knack
 	branch = refs/heads/master
+[submodule "databases"]
+	url = https://github.com/conda-forge/databases-feedstock.git
+	path = feedstocks/databases
+	branch = refs/heads/master
