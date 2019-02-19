@@ -24802,3 +24802,7 @@
 	url = https://github.com/conda-forge/requests_cache-feedstock.git
 	path = feedstocks/requests_cache
 	branch = refs/heads/master
+[submodule "sasmodels"]
+	url = https://github.com/conda-forge/sasmodels-feedstock.git
+	path = feedstocks/sasmodels
+	branch = refs/heads/master
