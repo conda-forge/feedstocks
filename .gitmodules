@@ -24806,3 +24806,7 @@
 	url = https://github.com/conda-forge/sasmodels-feedstock.git
 	path = feedstocks/sasmodels
 	branch = refs/heads/master
+[submodule "azure-cli-telemetry"]
+	url = https://github.com/conda-forge/azure-cli-telemetry-feedstock.git
+	path = feedstocks/azure-cli-telemetry
+	branch = refs/heads/master
