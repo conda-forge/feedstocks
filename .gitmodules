@@ -24810,3 +24810,7 @@
 	url = https://github.com/conda-forge/azure-cli-telemetry-feedstock.git
 	path = feedstocks/azure-cli-telemetry
 	branch = refs/heads/master
+[submodule "qcfractal"]
+	url = https://github.com/conda-forge/qcfractal-feedstock.git
+	path = feedstocks/qcfractal
+	branch = refs/heads/master
