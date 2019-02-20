@@ -24822,3 +24822,7 @@
 	url = https://github.com/conda-forge/vim-feedstock.git
 	path = feedstocks/vim
 	branch = refs/heads/master
+[submodule "yggdrasil"]
+	url = https://github.com/conda-forge/yggdrasil-feedstock.git
+	path = feedstocks/yggdrasil
+	branch = refs/heads/master
