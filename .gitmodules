@@ -24818,3 +24818,7 @@
 	url = https://github.com/conda-forge/emoji-feedstock.git
 	path = feedstocks/emoji
 	branch = refs/heads/master
+[submodule "vim"]
+	url = https://github.com/conda-forge/vim-feedstock.git
+	path = feedstocks/vim
+	branch = refs/heads/master
