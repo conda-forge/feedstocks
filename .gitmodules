@@ -24834,3 +24834,7 @@
 	url = https://github.com/conda-forge/eelbrain-feedstock.git
 	path = feedstocks/eelbrain
 	branch = refs/heads/master
+[submodule "aws-iam-authenticator"]
+	url = https://github.com/conda-forge/aws-iam-authenticator-feedstock.git
+	path = feedstocks/aws-iam-authenticator
+	branch = refs/heads/master
