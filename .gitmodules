@@ -24838,3 +24838,7 @@
 	url = https://github.com/conda-forge/aws-iam-authenticator-feedstock.git
 	path = feedstocks/aws-iam-authenticator
 	branch = refs/heads/master
+[submodule "qcportal"]
+	url = https://github.com/conda-forge/qcportal-feedstock.git
+	path = feedstocks/qcportal
+	branch = refs/heads/master
