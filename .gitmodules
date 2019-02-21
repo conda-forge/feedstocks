@@ -24850,3 +24850,7 @@
 	url = https://github.com/conda-forge/pywr-feedstock.git
 	path = feedstocks/pywr
 	branch = refs/heads/master
+[submodule "hydrostats"]
+	url = https://github.com/conda-forge/hydrostats-feedstock.git
+	path = feedstocks/hydrostats
+	branch = refs/heads/master
