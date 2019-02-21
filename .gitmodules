@@ -24842,3 +24842,7 @@
 	url = https://github.com/conda-forge/qcportal-feedstock.git
 	path = feedstocks/qcportal
 	branch = refs/heads/master
+[submodule "azure-cli-core"]
+	url = https://github.com/conda-forge/azure-cli-core-feedstock.git
+	path = feedstocks/azure-cli-core
+	branch = refs/heads/master
