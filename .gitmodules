@@ -24858,3 +24858,7 @@
 	url = https://github.com/conda-forge/point_cloud_utils-feedstock.git
 	path = feedstocks/point_cloud_utils
 	branch = refs/heads/master
+[submodule "autodiff"]
+	url = https://github.com/conda-forge/autodiff-feedstock.git
+	path = feedstocks/autodiff
+	branch = refs/heads/master
