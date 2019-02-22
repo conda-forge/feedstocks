@@ -24862,3 +24862,7 @@
 	url = https://github.com/conda-forge/autodiff-feedstock.git
 	path = feedstocks/autodiff
 	branch = refs/heads/master
+[submodule "globus-sdk"]
+	url = https://github.com/conda-forge/globus-sdk-feedstock.git
+	path = feedstocks/globus-sdk
+	branch = refs/heads/master
