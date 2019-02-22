@@ -24870,3 +24870,7 @@
 	url = https://github.com/conda-forge/stir-feedstock.git
 	path = feedstocks/stir
 	branch = refs/heads/master
+[submodule "parabem"]
+	url = https://github.com/conda-forge/parabem-feedstock.git
+	path = feedstocks/parabem
+	branch = refs/heads/master
