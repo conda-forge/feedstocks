@@ -24882,3 +24882,7 @@
 	url = https://github.com/conda-forge/mpas-analysis-feedstock.git
 	path = feedstocks/mpas-analysis
 	branch = refs/heads/master
+[submodule "ngmix"]
+	url = https://github.com/conda-forge/ngmix-feedstock.git
+	path = feedstocks/ngmix
+	branch = refs/heads/master
