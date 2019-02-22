@@ -24866,3 +24866,7 @@
 	url = https://github.com/conda-forge/globus-sdk-feedstock.git
 	path = feedstocks/globus-sdk
 	branch = refs/heads/master
+[submodule "stir"]
+	url = https://github.com/conda-forge/stir-feedstock.git
+	path = feedstocks/stir
+	branch = refs/heads/master
