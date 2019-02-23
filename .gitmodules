@@ -24894,3 +24894,7 @@
 	url = https://github.com/conda-forge/vmtouch-feedstock.git
 	path = feedstocks/vmtouch
 	branch = refs/heads/master
+[submodule "openbabel"]
+	url = https://github.com/conda-forge/openbabel-feedstock.git
+	path = feedstocks/openbabel
+	branch = refs/heads/master
