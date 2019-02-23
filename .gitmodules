@@ -24902,3 +24902,7 @@
 	url = https://github.com/conda-forge/orca_test-feedstock.git
 	path = feedstocks/orca_test
 	branch = refs/heads/master
+[submodule "aiozmq"]
+	url = https://github.com/conda-forge/aiozmq-feedstock.git
+	path = feedstocks/aiozmq
+	branch = refs/heads/master
