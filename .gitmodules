@@ -24914,3 +24914,7 @@
 	url = https://github.com/conda-forge/azure-graphrbac-feedstock.git
 	path = feedstocks/azure-graphrbac
 	branch = refs/heads/master
+[submodule "azure-mgmt-keyvault"]
+	url = https://github.com/conda-forge/azure-mgmt-keyvault-feedstock.git
+	path = feedstocks/azure-mgmt-keyvault
+	branch = refs/heads/master
