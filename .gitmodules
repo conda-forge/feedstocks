@@ -24922,3 +24922,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-authorization-feedstock.git
 	path = feedstocks/azure-mgmt-authorization
 	branch = refs/heads/master
+[submodule "azure-mgmt-msi"]
+	url = https://github.com/conda-forge/azure-mgmt-msi-feedstock.git
+	path = feedstocks/azure-mgmt-msi
+	branch = refs/heads/master
