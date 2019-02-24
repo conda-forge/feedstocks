@@ -24926,3 +24926,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-msi-feedstock.git
 	path = feedstocks/azure-mgmt-msi
 	branch = refs/heads/master
+[submodule "nose_xunitmp"]
+	url = https://github.com/conda-forge/nose_xunitmp-feedstock.git
+	path = feedstocks/nose_xunitmp
+	branch = refs/heads/master
