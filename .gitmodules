@@ -24950,3 +24950,7 @@
 	url = https://github.com/conda-forge/r-ellipsis-feedstock.git
 	path = feedstocks/r-ellipsis
 	branch = refs/heads/master
+[submodule "r-tesseract"]
+	url = https://github.com/conda-forge/r-tesseract-feedstock.git
+	path = feedstocks/r-tesseract
+	branch = refs/heads/master
