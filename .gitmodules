@@ -24938,3 +24938,7 @@
 	url = https://github.com/conda-forge/r-rweka-feedstock.git
 	path = feedstocks/r-rweka
 	branch = refs/heads/master
+[submodule "r-rwekajars"]
+	url = https://github.com/conda-forge/r-rwekajars-feedstock.git
+	path = feedstocks/r-rwekajars
+	branch = refs/heads/master
