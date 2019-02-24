@@ -24906,3 +24906,7 @@
 	url = https://github.com/conda-forge/aiozmq-feedstock.git
 	path = feedstocks/aiozmq
 	branch = refs/heads/master
+[submodule "azure-keyvault"]
+	url = https://github.com/conda-forge/azure-keyvault-feedstock.git
+	path = feedstocks/azure-keyvault
+	branch = refs/heads/master
