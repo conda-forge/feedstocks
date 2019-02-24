@@ -24918,3 +24918,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-keyvault-feedstock.git
 	path = feedstocks/azure-mgmt-keyvault
 	branch = refs/heads/master
+[submodule "azure-mgmt-authorization"]
+	url = https://github.com/conda-forge/azure-mgmt-authorization-feedstock.git
+	path = feedstocks/azure-mgmt-authorization
+	branch = refs/heads/master
