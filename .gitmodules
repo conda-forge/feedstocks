@@ -24990,3 +24990,7 @@
 	url = https://github.com/conda-forge/ilamb-feedstock.git
 	path = feedstocks/ilamb
 	branch = refs/heads/master
+[submodule "draco"]
+	url = https://github.com/conda-forge/draco-feedstock.git
+	path = feedstocks/draco
+	branch = refs/heads/master
