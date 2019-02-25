@@ -24966,3 +24966,7 @@
 	url = https://github.com/conda-forge/cfgrib-feedstock.git
 	path = feedstocks/cfgrib
 	branch = refs/heads/master
+[submodule "spython"]
+	url = https://github.com/conda-forge/spython-feedstock.git
+	path = feedstocks/spython
+	branch = refs/heads/master
