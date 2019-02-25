@@ -24962,3 +24962,7 @@
 	url = https://github.com/conda-forge/srsly-feedstock.git
 	path = feedstocks/srsly
 	branch = refs/heads/master
+[submodule "cfgrib"]
+	url = https://github.com/conda-forge/cfgrib-feedstock.git
+	path = feedstocks/cfgrib
+	branch = refs/heads/master
