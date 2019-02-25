@@ -24986,3 +24986,7 @@
 	url = https://github.com/conda-forge/coq-feedstock.git
 	path = feedstocks/coq
 	branch = refs/heads/master
+[submodule "ilamb"]
+	url = https://github.com/conda-forge/ilamb-feedstock.git
+	path = feedstocks/ilamb
+	branch = refs/heads/master
