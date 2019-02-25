@@ -24974,3 +24974,7 @@
 	url = https://github.com/conda-forge/ocaml-findlib-feedstock.git
 	path = feedstocks/ocaml-findlib
 	branch = refs/heads/master
+[submodule "ocaml-num"]
+	url = https://github.com/conda-forge/ocaml-num-feedstock.git
+	path = feedstocks/ocaml-num
+	branch = refs/heads/master
