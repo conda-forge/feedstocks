@@ -24970,3 +24970,7 @@
 	url = https://github.com/conda-forge/spython-feedstock.git
 	path = feedstocks/spython
 	branch = refs/heads/master
+[submodule "ocaml-findlib"]
+	url = https://github.com/conda-forge/ocaml-findlib-feedstock.git
+	path = feedstocks/ocaml-findlib
+	branch = refs/heads/master
