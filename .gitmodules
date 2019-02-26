@@ -25002,3 +25002,7 @@
 	url = https://github.com/conda-forge/apr-feedstock.git
 	path = feedstocks/apr
 	branch = refs/heads/master
+[submodule "mms-python-client"]
+	url = https://github.com/conda-forge/mms-python-client-feedstock.git
+	path = feedstocks/mms-python-client
+	branch = refs/heads/master
