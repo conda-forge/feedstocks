@@ -24998,3 +24998,7 @@
 	url = https://github.com/conda-forge/r-lime-feedstock.git
 	path = feedstocks/r-lime
 	branch = refs/heads/master
+[submodule "apr"]
+	url = https://github.com/conda-forge/apr-feedstock.git
+	path = feedstocks/apr
+	branch = refs/heads/master
