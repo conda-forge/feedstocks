@@ -25014,3 +25014,7 @@
 	url = https://github.com/conda-forge/ligo-scald-feedstock.git
 	path = feedstocks/ligo-scald
 	branch = refs/heads/master
+[submodule "r-askpass"]
+	url = https://github.com/conda-forge/r-askpass-feedstock.git
+	path = feedstocks/r-askpass
+	branch = refs/heads/master
