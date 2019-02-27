@@ -25038,3 +25038,7 @@
 	url = https://github.com/conda-forge/simpervisor-feedstock.git
 	path = feedstocks/simpervisor
 	branch = refs/heads/master
+[submodule "jupyter-server-proxy"]
+	url = https://github.com/conda-forge/jupyter-server-proxy-feedstock.git
+	path = feedstocks/jupyter-server-proxy
+	branch = refs/heads/master
