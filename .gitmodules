@@ -25010,3 +25010,7 @@
 	url = https://github.com/conda-forge/liblbfgs-feedstock.git
 	path = feedstocks/liblbfgs
 	branch = refs/heads/master
+[submodule "ligo-scald"]
+	url = https://github.com/conda-forge/ligo-scald-feedstock.git
+	path = feedstocks/ligo-scald
+	branch = refs/heads/master
