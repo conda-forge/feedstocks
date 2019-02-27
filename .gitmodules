@@ -25018,3 +25018,7 @@
 	url = https://github.com/conda-forge/r-askpass-feedstock.git
 	path = feedstocks/r-askpass
 	branch = refs/heads/master
+[submodule "sphinxcontrib-fulltoc"]
+	url = https://github.com/conda-forge/sphinxcontrib-fulltoc-feedstock.git
+	path = feedstocks/sphinxcontrib-fulltoc
+	branch = refs/heads/master
