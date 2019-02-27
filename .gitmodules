@@ -25030,3 +25030,7 @@
 	url = https://github.com/conda-forge/git_root-feedstock.git
 	path = feedstocks/git_root
 	branch = refs/heads/master
+[submodule "globus-cli"]
+	url = https://github.com/conda-forge/globus-cli-feedstock.git
+	path = feedstocks/globus-cli
+	branch = refs/heads/master
