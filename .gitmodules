@@ -25054,3 +25054,7 @@
 	url = https://github.com/conda-forge/gsl-lite-feedstock.git
 	path = feedstocks/gsl-lite
 	branch = refs/heads/master
+[submodule "stefuna"]
+	url = https://github.com/conda-forge/stefuna-feedstock.git
+	path = feedstocks/stefuna
+	branch = refs/heads/master
