@@ -25050,3 +25050,7 @@
 	url = https://github.com/conda-forge/shutilwhich-cwdpatch-feedstock.git
 	path = feedstocks/shutilwhich-cwdpatch
 	branch = refs/heads/master
+[submodule "gsl-lite"]
+	url = https://github.com/conda-forge/gsl-lite-feedstock.git
+	path = feedstocks/gsl-lite
+	branch = refs/heads/master
