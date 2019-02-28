@@ -25042,3 +25042,7 @@
 	url = https://github.com/conda-forge/jupyter-server-proxy-feedstock.git
 	path = feedstocks/jupyter-server-proxy
 	branch = refs/heads/master
+[submodule "tcsh"]
+	url = https://github.com/conda-forge/tcsh-feedstock.git
+	path = feedstocks/tcsh
+	branch = refs/heads/master
