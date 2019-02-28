@@ -25062,3 +25062,7 @@
 	url = https://github.com/conda-forge/jsonextended-feedstock.git
 	path = feedstocks/jsonextended
 	branch = refs/heads/master
+[submodule "credstash"]
+	url = https://github.com/conda-forge/credstash-feedstock.git
+	path = feedstocks/credstash
+	branch = refs/heads/master
