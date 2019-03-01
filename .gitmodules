@@ -25114,3 +25114,7 @@
 	url = https://github.com/conda-forge/pyotp-feedstock.git
 	path = feedstocks/pyotp
 	branch = refs/heads/master
+[submodule "asyncqt"]
+	url = https://github.com/conda-forge/asyncqt-feedstock.git
+	path = feedstocks/asyncqt
+	branch = refs/heads/master
