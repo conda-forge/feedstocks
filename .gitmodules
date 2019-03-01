@@ -25098,3 +25098,7 @@
 	url = https://github.com/conda-forge/datrie-feedstock.git
 	path = feedstocks/datrie
 	branch = refs/heads/master
+[submodule "scilab"]
+	url = https://github.com/conda-forge/scilab-feedstock.git
+	path = feedstocks/scilab
+	branch = refs/heads/master
