@@ -25086,3 +25086,7 @@
 	url = https://github.com/conda-forge/yaml-cpp-feedstock.git
 	path = feedstocks/yaml-cpp
 	branch = refs/heads/master
+[submodule "ejplugins"]
+	url = https://github.com/conda-forge/ejplugins-feedstock.git
+	path = feedstocks/ejplugins
+	branch = refs/heads/master
