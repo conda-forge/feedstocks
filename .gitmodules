@@ -25082,3 +25082,7 @@
 	url = https://github.com/conda-forge/atomic-hpc-feedstock.git
 	path = feedstocks/atomic-hpc
 	branch = refs/heads/master
+[submodule "yaml-cpp"]
+	url = https://github.com/conda-forge/yaml-cpp-feedstock.git
+	path = feedstocks/yaml-cpp
+	branch = refs/heads/master
