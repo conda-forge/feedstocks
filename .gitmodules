@@ -25090,3 +25090,7 @@
 	url = https://github.com/conda-forge/ejplugins-feedstock.git
 	path = feedstocks/ejplugins
 	branch = refs/heads/master
+[submodule "croaring"]
+	url = https://github.com/conda-forge/croaring-feedstock.git
+	path = feedstocks/croaring
+	branch = refs/heads/master
