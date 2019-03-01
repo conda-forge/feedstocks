@@ -25074,3 +25074,7 @@
 	url = https://github.com/conda-forge/ruamel-feedstock.git
 	path = feedstocks/ruamel
 	branch = refs/heads/master
+[submodule "intake-esm"]
+	url = https://github.com/conda-forge/intake-esm-feedstock.git
+	path = feedstocks/intake-esm
+	branch = refs/heads/master
