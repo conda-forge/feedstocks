@@ -25118,3 +25118,7 @@
 	url = https://github.com/conda-forge/asyncqt-feedstock.git
 	path = feedstocks/asyncqt
 	branch = refs/heads/master
+[submodule "libxc"]
+	url = https://github.com/conda-forge/libxc-feedstock.git
+	path = feedstocks/libxc
+	branch = refs/heads/master
