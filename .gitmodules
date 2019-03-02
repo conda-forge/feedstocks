@@ -25130,3 +25130,7 @@
 	url = https://github.com/conda-forge/aiida-crystal17-feedstock.git
 	path = feedstocks/aiida-crystal17
 	branch = refs/heads/master
+[submodule "rapidsim"]
+	url = https://github.com/conda-forge/rapidsim-feedstock.git
+	path = feedstocks/rapidsim
+	branch = refs/heads/master
