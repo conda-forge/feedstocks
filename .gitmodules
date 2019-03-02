@@ -25122,3 +25122,7 @@
 	url = https://github.com/conda-forge/libxc-feedstock.git
 	path = feedstocks/libxc
 	branch = refs/heads/master
+[submodule "ipypublish"]
+	url = https://github.com/conda-forge/ipypublish-feedstock.git
+	path = feedstocks/ipypublish
+	branch = refs/heads/master
