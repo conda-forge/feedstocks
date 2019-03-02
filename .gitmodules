@@ -25126,3 +25126,7 @@
 	url = https://github.com/conda-forge/ipypublish-feedstock.git
 	path = feedstocks/ipypublish
 	branch = refs/heads/master
+[submodule "aiida-crystal17"]
+	url = https://github.com/conda-forge/aiida-crystal17-feedstock.git
+	path = feedstocks/aiida-crystal17
+	branch = refs/heads/master
