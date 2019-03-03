@@ -25150,3 +25150,7 @@
 	url = https://github.com/conda-forge/biotite-feedstock.git
 	path = feedstocks/biotite
 	branch = refs/heads/master
+[submodule "r-exposition"]
+	url = https://github.com/conda-forge/r-exposition-feedstock.git
+	path = feedstocks/r-exposition
+	branch = refs/heads/master
