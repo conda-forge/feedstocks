@@ -25138,3 +25138,7 @@
 	url = https://github.com/conda-forge/mcerp-feedstock.git
 	path = feedstocks/mcerp
 	branch = refs/heads/master
+[submodule "r-prettygraphs"]
+	url = https://github.com/conda-forge/r-prettygraphs-feedstock.git
+	path = feedstocks/r-prettygraphs
+	branch = refs/heads/master
