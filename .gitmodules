@@ -25166,3 +25166,7 @@
 	url = https://github.com/conda-forge/dust_extinction-feedstock.git
 	path = feedstocks/dust_extinction
 	branch = refs/heads/master
+[submodule "profilehooks"]
+	url = https://github.com/conda-forge/profilehooks-feedstock.git
+	path = feedstocks/profilehooks
+	branch = refs/heads/master
