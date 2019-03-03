@@ -25158,3 +25158,7 @@
 	url = https://github.com/conda-forge/atpbar-feedstock.git
 	path = feedstocks/atpbar
 	branch = refs/heads/master
+[submodule "nbrr"]
+	url = https://github.com/conda-forge/nbrr-feedstock.git
+	path = feedstocks/nbrr
+	branch = refs/heads/master
