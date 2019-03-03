@@ -25154,3 +25154,7 @@
 	url = https://github.com/conda-forge/r-exposition-feedstock.git
 	path = feedstocks/r-exposition
 	branch = refs/heads/master
+[submodule "atpbar"]
+	url = https://github.com/conda-forge/atpbar-feedstock.git
+	path = feedstocks/atpbar
+	branch = refs/heads/master
