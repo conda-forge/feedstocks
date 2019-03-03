@@ -25142,3 +25142,7 @@
 	url = https://github.com/conda-forge/r-prettygraphs-feedstock.git
 	path = feedstocks/r-prettygraphs
 	branch = refs/heads/master
+[submodule "r-tsna"]
+	url = https://github.com/conda-forge/r-tsna-feedstock.git
+	path = feedstocks/r-tsna
+	branch = refs/heads/master
