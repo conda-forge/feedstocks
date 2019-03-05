@@ -25190,3 +25190,7 @@
 	url = https://github.com/conda-forge/cpplint-feedstock.git
 	path = feedstocks/cpplint
 	branch = refs/heads/master
+[submodule "echopype"]
+	url = https://github.com/conda-forge/echopype-feedstock.git
+	path = feedstocks/echopype
+	branch = refs/heads/master
