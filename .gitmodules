@@ -25182,3 +25182,7 @@
 	url = https://github.com/conda-forge/r-rapidjsonr-feedstock.git
 	path = feedstocks/r-rapidjsonr
 	branch = refs/heads/master
+[submodule "guiqwt"]
+	url = https://github.com/conda-forge/guiqwt-feedstock.git
+	path = feedstocks/guiqwt
+	branch = refs/heads/master
