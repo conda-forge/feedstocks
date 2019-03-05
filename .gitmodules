@@ -25186,3 +25186,7 @@
 	url = https://github.com/conda-forge/guiqwt-feedstock.git
 	path = feedstocks/guiqwt
 	branch = refs/heads/master
+[submodule "cpplint"]
+	url = https://github.com/conda-forge/cpplint-feedstock.git
+	path = feedstocks/cpplint
+	branch = refs/heads/master
