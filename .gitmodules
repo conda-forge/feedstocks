@@ -25194,3 +25194,7 @@
 	url = https://github.com/conda-forge/echopype-feedstock.git
 	path = feedstocks/echopype
 	branch = refs/heads/master
+[submodule "hpccm"]
+	url = https://github.com/conda-forge/hpccm-feedstock.git
+	path = feedstocks/hpccm
+	branch = refs/heads/master
