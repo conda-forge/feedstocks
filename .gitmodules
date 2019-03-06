@@ -25210,3 +25210,7 @@
 	url = https://github.com/conda-forge/jigsaw-feedstock.git
 	path = feedstocks/jigsaw
 	branch = refs/heads/master
+[submodule "pysis"]
+	url = https://github.com/conda-forge/pysis-feedstock.git
+	path = feedstocks/pysis
+	branch = refs/heads/master
