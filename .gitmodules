@@ -25198,3 +25198,7 @@
 	url = https://github.com/conda-forge/hpccm-feedstock.git
 	path = feedstocks/hpccm
 	branch = refs/heads/master
+[submodule "ml_tooling"]
+	url = https://github.com/conda-forge/ml_tooling-feedstock.git
+	path = feedstocks/ml_tooling
+	branch = refs/heads/master
