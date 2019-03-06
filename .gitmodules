@@ -25218,3 +25218,7 @@
 	url = https://github.com/conda-forge/ndiff-feedstock.git
 	path = feedstocks/ndiff
 	branch = refs/heads/master
+[submodule "sasview"]
+	url = https://github.com/conda-forge/sasview-feedstock.git
+	path = feedstocks/sasview
+	branch = refs/heads/master
