@@ -25214,3 +25214,7 @@
 	url = https://github.com/conda-forge/pysis-feedstock.git
 	path = feedstocks/pysis
 	branch = refs/heads/master
+[submodule "ndiff"]
+	url = https://github.com/conda-forge/ndiff-feedstock.git
+	path = feedstocks/ndiff
+	branch = refs/heads/master
