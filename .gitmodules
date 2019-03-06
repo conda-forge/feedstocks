@@ -25202,3 +25202,7 @@
 	url = https://github.com/conda-forge/ml_tooling-feedstock.git
 	path = feedstocks/ml_tooling
 	branch = refs/heads/master
+[submodule "databroker-elasticsearch"]
+	url = https://github.com/conda-forge/databroker-elasticsearch-feedstock.git
+	path = feedstocks/databroker-elasticsearch
+	branch = refs/heads/master
