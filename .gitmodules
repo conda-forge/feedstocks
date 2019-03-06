@@ -25206,3 +25206,7 @@
 	url = https://github.com/conda-forge/databroker-elasticsearch-feedstock.git
 	path = feedstocks/databroker-elasticsearch
 	branch = refs/heads/master
+[submodule "jigsaw"]
+	url = https://github.com/conda-forge/jigsaw-feedstock.git
+	path = feedstocks/jigsaw
+	branch = refs/heads/master
