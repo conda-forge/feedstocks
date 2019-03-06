@@ -25222,3 +25222,7 @@
 	url = https://github.com/conda-forge/sasview-feedstock.git
 	path = feedstocks/sasview
 	branch = refs/heads/master
+[submodule "qt5reactor"]
+	url = https://github.com/conda-forge/qt5reactor-feedstock.git
+	path = feedstocks/qt5reactor
+	branch = refs/heads/master
