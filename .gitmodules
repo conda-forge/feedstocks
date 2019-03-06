@@ -25226,3 +25226,7 @@
 	url = https://github.com/conda-forge/qt5reactor-feedstock.git
 	path = feedstocks/qt5reactor
 	branch = refs/heads/master
+[submodule "xhtml2pdf"]
+	url = https://github.com/conda-forge/xhtml2pdf-feedstock.git
+	path = feedstocks/xhtml2pdf
+	branch = refs/heads/master
