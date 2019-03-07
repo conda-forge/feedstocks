@@ -25230,3 +25230,7 @@
 	url = https://github.com/conda-forge/xhtml2pdf-feedstock.git
 	path = feedstocks/xhtml2pdf
 	branch = refs/heads/master
+[submodule "google-cloud-bigquery-storage"]
+	url = https://github.com/conda-forge/google-cloud-bigquery-storage-feedstock.git
+	path = feedstocks/google-cloud-bigquery-storage
+	branch = refs/heads/master
