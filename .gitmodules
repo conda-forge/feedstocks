@@ -25258,3 +25258,7 @@
 	url = https://github.com/conda-forge/spacy-model-nl-feedstock.git
 	path = feedstocks/spacy-model-nl
 	branch = refs/heads/master
+[submodule "markuppy"]
+	url = https://github.com/conda-forge/markuppy-feedstock.git
+	path = feedstocks/markuppy
+	branch = refs/heads/master
