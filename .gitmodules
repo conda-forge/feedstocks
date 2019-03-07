@@ -25238,3 +25238,7 @@
 	url = https://github.com/conda-forge/r-mixsqp-feedstock.git
 	path = feedstocks/r-mixsqp
 	branch = refs/heads/master
+[submodule "r-strex"]
+	url = https://github.com/conda-forge/r-strex-feedstock.git
+	path = feedstocks/r-strex
+	branch = refs/heads/master
