@@ -25246,3 +25246,7 @@
 	url = https://github.com/conda-forge/makedepf90-feedstock.git
 	path = feedstocks/makedepf90
 	branch = refs/heads/master
+[submodule "wget"]
+	url = https://github.com/conda-forge/wget-feedstock.git
+	path = feedstocks/wget
+	branch = refs/heads/master
