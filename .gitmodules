@@ -25250,3 +25250,7 @@
 	url = https://github.com/conda-forge/wget-feedstock.git
 	path = feedstocks/wget
 	branch = refs/heads/master
+[submodule "hveto"]
+	url = https://github.com/conda-forge/hveto-feedstock.git
+	path = feedstocks/hveto
+	branch = refs/heads/master
