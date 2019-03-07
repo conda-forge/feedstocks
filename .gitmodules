@@ -25242,3 +25242,7 @@
 	url = https://github.com/conda-forge/r-strex-feedstock.git
 	path = feedstocks/r-strex
 	branch = refs/heads/master
+[submodule "makedepf90"]
+	url = https://github.com/conda-forge/makedepf90-feedstock.git
+	path = feedstocks/makedepf90
+	branch = refs/heads/master
