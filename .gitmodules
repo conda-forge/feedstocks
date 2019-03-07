@@ -25266,3 +25266,7 @@
 	url = https://github.com/conda-forge/dask-memusage-feedstock.git
 	path = feedstocks/dask-memusage
 	branch = refs/heads/master
+[submodule "spacy-model-it"]
+	url = https://github.com/conda-forge/spacy-model-it-feedstock.git
+	path = feedstocks/spacy-model-it
+	branch = refs/heads/master
