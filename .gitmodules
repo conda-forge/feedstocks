@@ -25290,3 +25290,7 @@
 	url = https://github.com/conda-forge/mmh3-feedstock.git
 	path = feedstocks/mmh3
 	branch = refs/heads/master
+[submodule "atomap"]
+	url = https://github.com/conda-forge/atomap-feedstock.git
+	path = feedstocks/atomap
+	branch = refs/heads/master
