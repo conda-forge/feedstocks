@@ -25270,3 +25270,7 @@
 	url = https://github.com/conda-forge/spacy-model-it-feedstock.git
 	path = feedstocks/spacy-model-it
 	branch = refs/heads/master
+[submodule "spacy-model-xx"]
+	url = https://github.com/conda-forge/spacy-model-xx-feedstock.git
+	path = feedstocks/spacy-model-xx
+	branch = refs/heads/master
