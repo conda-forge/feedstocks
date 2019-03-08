@@ -25286,3 +25286,7 @@
 	url = https://github.com/conda-forge/baseband-feedstock.git
 	path = feedstocks/baseband
 	branch = refs/heads/master
+[submodule "mmh3"]
+	url = https://github.com/conda-forge/mmh3-feedstock.git
+	path = feedstocks/mmh3
+	branch = refs/heads/master
