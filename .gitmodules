@@ -25282,3 +25282,7 @@
 	url = https://github.com/conda-forge/tranquilizer-feedstock.git
 	path = feedstocks/tranquilizer
 	branch = refs/heads/master
+[submodule "baseband"]
+	url = https://github.com/conda-forge/baseband-feedstock.git
+	path = feedstocks/baseband
+	branch = refs/heads/master
