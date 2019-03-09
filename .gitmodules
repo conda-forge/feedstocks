@@ -25306,3 +25306,7 @@
 	url = https://github.com/conda-forge/r-ggupset-feedstock.git
 	path = feedstocks/r-ggupset
 	branch = refs/heads/master
+[submodule "stuf"]
+	url = https://github.com/conda-forge/stuf-feedstock.git
+	path = feedstocks/stuf
+	branch = refs/heads/master
