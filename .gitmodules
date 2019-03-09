@@ -25310,3 +25310,7 @@
 	url = https://github.com/conda-forge/stuf-feedstock.git
 	path = feedstocks/stuf
 	branch = refs/heads/master
+[submodule "r-tidylog"]
+	url = https://github.com/conda-forge/r-tidylog-feedstock.git
+	path = feedstocks/r-tidylog
+	branch = refs/heads/master
