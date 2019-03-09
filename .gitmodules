@@ -25298,3 +25298,7 @@
 	url = https://github.com/conda-forge/einsteinpy-feedstock.git
 	path = feedstocks/einsteinpy
 	branch = refs/heads/master
+[submodule "sadisplay"]
+	url = https://github.com/conda-forge/sadisplay-feedstock.git
+	path = feedstocks/sadisplay
+	branch = refs/heads/master
