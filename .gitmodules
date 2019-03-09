@@ -25314,3 +25314,7 @@
 	url = https://github.com/conda-forge/r-tidylog-feedstock.git
 	path = feedstocks/r-tidylog
 	branch = refs/heads/master
+[submodule "python-twitter"]
+	url = https://github.com/conda-forge/python-twitter-feedstock.git
+	path = feedstocks/python-twitter
+	branch = refs/heads/master
