@@ -25330,3 +25330,7 @@
 	url = https://github.com/conda-forge/shove-feedstock.git
 	path = feedstocks/shove
 	branch = refs/heads/master
+[submodule "libnl"]
+	url = https://github.com/conda-forge/libnl-feedstock.git
+	path = feedstocks/libnl
+	branch = refs/heads/master
