@@ -25354,3 +25354,7 @@
 	url = https://github.com/conda-forge/qtwirl-feedstock.git
 	path = feedstocks/qtwirl
 	branch = refs/heads/master
+[submodule "alphatwirl"]
+	url = https://github.com/conda-forge/alphatwirl-feedstock.git
+	path = feedstocks/alphatwirl
+	branch = refs/heads/master
