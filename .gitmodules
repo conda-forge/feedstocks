@@ -25342,3 +25342,7 @@
 	url = https://github.com/conda-forge/pipdate-feedstock.git
 	path = feedstocks/pipdate
 	branch = refs/heads/master
+[submodule "tuna"]
+	url = https://github.com/conda-forge/tuna-feedstock.git
+	path = feedstocks/tuna
+	branch = refs/heads/master
