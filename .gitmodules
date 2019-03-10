@@ -25318,3 +25318,7 @@
 	url = https://github.com/conda-forge/python-twitter-feedstock.git
 	path = feedstocks/python-twitter
 	branch = refs/heads/master
+[submodule "flask-rest-api"]
+	url = https://github.com/conda-forge/flask-rest-api-feedstock.git
+	path = feedstocks/flask-rest-api
+	branch = refs/heads/master
