@@ -25334,3 +25334,7 @@
 	url = https://github.com/conda-forge/libnl-feedstock.git
 	path = feedstocks/libnl
 	branch = refs/heads/master
+[submodule "r-qpdf"]
+	url = https://github.com/conda-forge/r-qpdf-feedstock.git
+	path = feedstocks/r-qpdf
+	branch = refs/heads/master
