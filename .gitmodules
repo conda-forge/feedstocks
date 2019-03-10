@@ -25350,3 +25350,7 @@
 	url = https://github.com/conda-forge/corral-pipeline-feedstock.git
 	path = feedstocks/corral-pipeline
 	branch = refs/heads/master
+[submodule "qtwirl"]
+	url = https://github.com/conda-forge/qtwirl-feedstock.git
+	path = feedstocks/qtwirl
+	branch = refs/heads/master
