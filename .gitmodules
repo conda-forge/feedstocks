@@ -25346,3 +25346,7 @@
 	url = https://github.com/conda-forge/tuna-feedstock.git
 	path = feedstocks/tuna
 	branch = refs/heads/master
+[submodule "corral-pipeline"]
+	url = https://github.com/conda-forge/corral-pipeline-feedstock.git
+	path = feedstocks/corral-pipeline
+	branch = refs/heads/master
