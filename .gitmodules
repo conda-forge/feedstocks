@@ -25322,3 +25322,7 @@
 	url = https://github.com/conda-forge/flask-rest-api-feedstock.git
 	path = feedstocks/flask-rest-api
 	branch = refs/heads/master
+[submodule "openssh"]
+	url = https://github.com/conda-forge/openssh-feedstock.git
+	path = feedstocks/openssh
+	branch = refs/heads/master
