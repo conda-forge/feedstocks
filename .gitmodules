@@ -25374,3 +25374,7 @@
 	url = https://github.com/conda-forge/copulae-feedstock.git
 	path = feedstocks/copulae
 	branch = refs/heads/master
+[submodule "pixstem"]
+	url = https://github.com/conda-forge/pixstem-feedstock.git
+	path = feedstocks/pixstem
+	branch = refs/heads/master
