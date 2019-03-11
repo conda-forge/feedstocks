@@ -25382,3 +25382,7 @@
 	url = https://github.com/conda-forge/pyspeckit-feedstock.git
 	path = feedstocks/pyspeckit
 	branch = refs/heads/master
+[submodule "spacy-model-pt"]
+	url = https://github.com/conda-forge/spacy-model-pt-feedstock.git
+	path = feedstocks/spacy-model-pt
+	branch = refs/heads/master
