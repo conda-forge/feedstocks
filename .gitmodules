@@ -25378,3 +25378,7 @@
 	url = https://github.com/conda-forge/pixstem-feedstock.git
 	path = feedstocks/pixstem
 	branch = refs/heads/master
+[submodule "pyspeckit"]
+	url = https://github.com/conda-forge/pyspeckit-feedstock.git
+	path = feedstocks/pyspeckit
+	branch = refs/heads/master
