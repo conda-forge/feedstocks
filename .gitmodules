@@ -25394,3 +25394,7 @@
 	url = https://github.com/conda-forge/tensorflow-estimator-feedstock.git
 	path = feedstocks/tensorflow-estimator
 	branch = refs/heads/master
+[submodule "lief"]
+	url = https://github.com/conda-forge/lief-feedstock.git
+	path = feedstocks/lief
+	branch = refs/heads/master
