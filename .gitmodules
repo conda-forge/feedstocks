@@ -25390,3 +25390,7 @@
 	url = https://github.com/conda-forge/pyathena-feedstock.git
 	path = feedstocks/pyathena
 	branch = refs/heads/master
+[submodule "tensorflow-estimator"]
+	url = https://github.com/conda-forge/tensorflow-estimator-feedstock.git
+	path = feedstocks/tensorflow-estimator
+	branch = refs/heads/master
