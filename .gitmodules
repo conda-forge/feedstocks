@@ -25386,3 +25386,7 @@
 	url = https://github.com/conda-forge/spacy-model-pt-feedstock.git
 	path = feedstocks/spacy-model-pt
 	branch = refs/heads/master
+[submodule "pyathena"]
+	url = https://github.com/conda-forge/pyathena-feedstock.git
+	path = feedstocks/pyathena
+	branch = refs/heads/master
