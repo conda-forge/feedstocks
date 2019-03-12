@@ -25398,3 +25398,7 @@
 	url = https://github.com/conda-forge/lief-feedstock.git
 	path = feedstocks/lief
 	branch = refs/heads/master
+[submodule "azure-cosmos"]
+	url = https://github.com/conda-forge/azure-cosmos-feedstock.git
+	path = feedstocks/azure-cosmos
+	branch = refs/heads/master
