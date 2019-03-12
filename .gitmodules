@@ -25406,3 +25406,7 @@
 	url = https://github.com/conda-forge/conda-ecosystem-user-package-isolation-feedstock.git
 	path = feedstocks/conda-ecosystem-user-package-isolation
 	branch = refs/heads/master
+[submodule "transforms3d"]
+	url = https://github.com/conda-forge/transforms3d-feedstock.git
+	path = feedstocks/transforms3d
+	branch = refs/heads/master
