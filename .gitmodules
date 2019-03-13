@@ -25426,3 +25426,7 @@
 	url = https://github.com/conda-forge/parfive-feedstock.git
 	path = feedstocks/parfive
 	branch = refs/heads/master
+[submodule "fsl-pyfeeds"]
+	url = https://github.com/conda-forge/fsl-pyfeeds-feedstock.git
+	path = feedstocks/fsl-pyfeeds
+	branch = refs/heads/master
