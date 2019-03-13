@@ -25410,3 +25410,7 @@
 	url = https://github.com/conda-forge/transforms3d-feedstock.git
 	path = feedstocks/transforms3d
 	branch = refs/heads/master
+[submodule "r-genius"]
+	url = https://github.com/conda-forge/r-genius-feedstock.git
+	path = feedstocks/r-genius
+	branch = refs/heads/master
