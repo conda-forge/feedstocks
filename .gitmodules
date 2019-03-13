@@ -25414,3 +25414,7 @@
 	url = https://github.com/conda-forge/r-genius-feedstock.git
 	path = feedstocks/r-genius
 	branch = refs/heads/master
+[submodule "oop-ext"]
+	url = https://github.com/conda-forge/oop-ext-feedstock.git
+	path = feedstocks/oop-ext
+	branch = refs/heads/master
