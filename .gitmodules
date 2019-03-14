@@ -25430,3 +25430,7 @@
 	url = https://github.com/conda-forge/fsl-pyfeeds-feedstock.git
 	path = feedstocks/fsl-pyfeeds
 	branch = refs/heads/master
+[submodule "sl"]
+	url = https://github.com/conda-forge/sl-feedstock.git
+	path = feedstocks/sl
+	branch = refs/heads/master
