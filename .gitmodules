@@ -25434,3 +25434,7 @@
 	url = https://github.com/conda-forge/sl-feedstock.git
 	path = feedstocks/sl
 	branch = refs/heads/master
+[submodule "bruco"]
+	url = https://github.com/conda-forge/bruco-feedstock.git
+	path = feedstocks/bruco
+	branch = refs/heads/master
