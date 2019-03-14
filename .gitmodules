@@ -25438,3 +25438,7 @@
 	url = https://github.com/conda-forge/bruco-feedstock.git
 	path = feedstocks/bruco
 	branch = refs/heads/master
+[submodule "qtserialport"]
+	url = https://github.com/conda-forge/qtserialport-feedstock.git
+	path = feedstocks/qtserialport
+	branch = refs/heads/master
