@@ -25446,3 +25446,7 @@
 	url = https://github.com/conda-forge/elfi-feedstock.git
 	path = feedstocks/elfi
 	branch = refs/heads/master
+[submodule "openapi-codec"]
+	url = https://github.com/conda-forge/openapi-codec-feedstock.git
+	path = feedstocks/openapi-codec
+	branch = refs/heads/master
