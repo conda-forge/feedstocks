@@ -25442,3 +25442,7 @@
 	url = https://github.com/conda-forge/qtserialport-feedstock.git
 	path = feedstocks/qtserialport
 	branch = refs/heads/master
+[submodule "elfi"]
+	url = https://github.com/conda-forge/elfi-feedstock.git
+	path = feedstocks/elfi
+	branch = refs/heads/master
