@@ -25458,3 +25458,7 @@
 	url = https://github.com/conda-forge/dials-dependencies-feedstock.git
 	path = feedstocks/dials-dependencies
 	branch = refs/heads/master
+[submodule "oceanspy"]
+	url = https://github.com/conda-forge/oceanspy-feedstock.git
+	path = feedstocks/oceanspy
+	branch = refs/heads/master
