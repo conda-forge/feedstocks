@@ -25450,3 +25450,7 @@
 	url = https://github.com/conda-forge/openapi-codec-feedstock.git
 	path = feedstocks/openapi-codec
 	branch = refs/heads/master
+[submodule "gemmi"]
+	url = https://github.com/conda-forge/gemmi-feedstock.git
+	path = feedstocks/gemmi
+	branch = refs/heads/master
