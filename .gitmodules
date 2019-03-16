@@ -25474,3 +25474,7 @@
 	url = https://github.com/conda-forge/libass-feedstock.git
 	path = feedstocks/libass
 	branch = refs/heads/master
+[submodule "r-sparktf"]
+	url = https://github.com/conda-forge/r-sparktf-feedstock.git
+	path = feedstocks/r-sparktf
+	branch = refs/heads/master
