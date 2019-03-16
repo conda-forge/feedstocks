@@ -25494,3 +25494,7 @@
 	url = https://github.com/conda-forge/r-tmod-feedstock.git
 	path = feedstocks/r-tmod
 	branch = refs/heads/master
+[submodule "r-arrow"]
+	url = https://github.com/conda-forge/r-arrow-feedstock.git
+	path = feedstocks/r-arrow
+	branch = refs/heads/master
