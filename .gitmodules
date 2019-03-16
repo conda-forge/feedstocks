@@ -25486,3 +25486,7 @@
 	url = https://github.com/conda-forge/r-plotwidgets-feedstock.git
 	path = feedstocks/r-plotwidgets
 	branch = refs/heads/master
+[submodule "r-tagcloud"]
+	url = https://github.com/conda-forge/r-tagcloud-feedstock.git
+	path = feedstocks/r-tagcloud
+	branch = refs/heads/master
