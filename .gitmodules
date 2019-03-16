@@ -25478,3 +25478,7 @@
 	url = https://github.com/conda-forge/r-sparktf-feedstock.git
 	path = feedstocks/r-sparktf
 	branch = refs/heads/master
+[submodule "r-sparkxgb"]
+	url = https://github.com/conda-forge/r-sparkxgb-feedstock.git
+	path = feedstocks/r-sparkxgb
+	branch = refs/heads/master
