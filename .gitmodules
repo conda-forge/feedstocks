@@ -25490,3 +25490,7 @@
 	url = https://github.com/conda-forge/r-tagcloud-feedstock.git
 	path = feedstocks/r-tagcloud
 	branch = refs/heads/master
+[submodule "r-tmod"]
+	url = https://github.com/conda-forge/r-tmod-feedstock.git
+	path = feedstocks/r-tmod
+	branch = refs/heads/master
