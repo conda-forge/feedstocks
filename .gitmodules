@@ -25498,3 +25498,7 @@
 	url = https://github.com/conda-forge/r-arrow-feedstock.git
 	path = feedstocks/r-arrow
 	branch = refs/heads/master
+[submodule "virtuoso-opensource"]
+	url = https://github.com/conda-forge/virtuoso-opensource-feedstock.git
+	path = feedstocks/virtuoso-opensource
+	branch = refs/heads/master
