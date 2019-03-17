@@ -25506,3 +25506,7 @@
 	url = https://github.com/conda-forge/r-emcluster-feedstock.git
 	path = feedstocks/r-emcluster
 	branch = refs/heads/master
+[submodule "vtki"]
+	url = https://github.com/conda-forge/vtki-feedstock.git
+	path = feedstocks/vtki
+	branch = refs/heads/master
