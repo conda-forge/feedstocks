@@ -25514,3 +25514,7 @@
 	url = https://github.com/conda-forge/pygram11-feedstock.git
 	path = feedstocks/pygram11
 	branch = refs/heads/master
+[submodule "cython-blis"]
+	url = https://github.com/conda-forge/cython-blis-feedstock.git
+	path = feedstocks/cython-blis
+	branch = refs/heads/master
