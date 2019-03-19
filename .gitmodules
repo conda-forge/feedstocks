@@ -25522,3 +25522,7 @@
 	url = https://github.com/conda-forge/r-asioheaders-feedstock.git
 	path = feedstocks/r-asioheaders
 	branch = refs/heads/master
+[submodule "songbird"]
+	url = https://github.com/conda-forge/songbird-feedstock.git
+	path = feedstocks/songbird
+	branch = refs/heads/master
