@@ -25526,3 +25526,7 @@
 	url = https://github.com/conda-forge/songbird-feedstock.git
 	path = feedstocks/songbird
 	branch = refs/heads/master
+[submodule "mapd-core-cpu"]
+	url = https://github.com/conda-forge/mapd-core-cpu-feedstock.git
+	path = feedstocks/mapd-core-cpu
+	branch = refs/heads/master
