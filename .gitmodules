@@ -25518,3 +25518,7 @@
 	url = https://github.com/conda-forge/cython-blis-feedstock.git
 	path = feedstocks/cython-blis
 	branch = refs/heads/master
+[submodule "r-asioheaders"]
+	url = https://github.com/conda-forge/r-asioheaders-feedstock.git
+	path = feedstocks/r-asioheaders
+	branch = refs/heads/master
