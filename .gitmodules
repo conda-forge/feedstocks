@@ -25530,3 +25530,7 @@
 	url = https://github.com/conda-forge/mapd-core-cpu-feedstock.git
 	path = feedstocks/mapd-core-cpu
 	branch = refs/heads/master
+[submodule "r-insight"]
+	url = https://github.com/conda-forge/r-insight-feedstock.git
+	path = feedstocks/r-insight
+	branch = refs/heads/master
