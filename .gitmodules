@@ -25538,3 +25538,7 @@
 	url = https://github.com/conda-forge/idq-feedstock.git
 	path = feedstocks/idq
 	branch = refs/heads/master
+[submodule "bucketcache"]
+	url = https://github.com/conda-forge/bucketcache-feedstock.git
+	path = feedstocks/bucketcache
+	branch = refs/heads/master
