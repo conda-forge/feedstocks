@@ -25606,3 +25606,7 @@
 	url = https://github.com/conda-forge/fml-feedstock.git
 	path = feedstocks/fml
 	branch = refs/heads/master
+[submodule "exrex"]
+	url = https://github.com/conda-forge/exrex-feedstock.git
+	path = feedstocks/exrex
+	branch = refs/heads/master
