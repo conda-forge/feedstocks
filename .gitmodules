@@ -25578,3 +25578,7 @@
 	url = https://github.com/conda-forge/uchardet-feedstock.git
 	path = feedstocks/uchardet
 	branch = refs/heads/master
+[submodule "typesystem"]
+	url = https://github.com/conda-forge/typesystem-feedstock.git
+	path = feedstocks/typesystem
+	branch = refs/heads/master
