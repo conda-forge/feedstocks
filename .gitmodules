@@ -25598,3 +25598,7 @@
 	url = https://github.com/conda-forge/spherical_functions-feedstock.git
 	path = feedstocks/spherical_functions
 	branch = refs/heads/master
+[submodule "cgal-cpp"]
+	url = https://github.com/conda-forge/cgal-cpp-feedstock.git
+	path = feedstocks/cgal-cpp
+	branch = refs/heads/master
