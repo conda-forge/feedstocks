@@ -25542,3 +25542,7 @@
 	url = https://github.com/conda-forge/bucketcache-feedstock.git
 	path = feedstocks/bucketcache
 	branch = refs/heads/master
+[submodule "orc"]
+	url = https://github.com/conda-forge/orc-feedstock.git
+	path = feedstocks/orc
+	branch = refs/heads/master
