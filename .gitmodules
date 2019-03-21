@@ -25586,3 +25586,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-containerregistry-feedstock.git
 	path = feedstocks/azure-mgmt-containerregistry
 	branch = refs/heads/master
+[submodule "ndf"]
+	url = https://github.com/conda-forge/ndf-feedstock.git
+	path = feedstocks/ndf
+	branch = refs/heads/master
