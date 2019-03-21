@@ -25562,3 +25562,7 @@
 	url = https://github.com/conda-forge/spinsfast-feedstock.git
 	path = feedstocks/spinsfast
 	branch = refs/heads/master
+[submodule "logbook"]
+	url = https://github.com/conda-forge/logbook-feedstock.git
+	path = feedstocks/logbook
+	branch = refs/heads/master
