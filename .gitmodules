@@ -25534,3 +25534,7 @@
 	url = https://github.com/conda-forge/r-insight-feedstock.git
 	path = feedstocks/r-insight
 	branch = refs/heads/master
+[submodule "idq"]
+	url = https://github.com/conda-forge/idq-feedstock.git
+	path = feedstocks/idq
+	branch = refs/heads/master
