@@ -25574,3 +25574,7 @@
 	url = https://github.com/conda-forge/libsolv-feedstock.git
 	path = feedstocks/libsolv
 	branch = refs/heads/master
+[submodule "uchardet"]
+	url = https://github.com/conda-forge/uchardet-feedstock.git
+	path = feedstocks/uchardet
+	branch = refs/heads/master
