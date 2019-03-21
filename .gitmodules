@@ -25602,3 +25602,7 @@
 	url = https://github.com/conda-forge/cgal-cpp-feedstock.git
 	path = feedstocks/cgal-cpp
 	branch = refs/heads/master
+[submodule "fml"]
+	url = https://github.com/conda-forge/fml-feedstock.git
+	path = feedstocks/fml
+	branch = refs/heads/master
