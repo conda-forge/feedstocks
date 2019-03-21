@@ -25554,3 +25554,7 @@
 	url = https://github.com/conda-forge/parsl-feedstock.git
 	path = feedstocks/parsl
 	branch = refs/heads/master
+[submodule "represent"]
+	url = https://github.com/conda-forge/represent-feedstock.git
+	path = feedstocks/represent
+	branch = refs/heads/master
