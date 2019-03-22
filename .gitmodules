@@ -25626,3 +25626,7 @@
 	url = https://github.com/conda-forge/metaknowledge-feedstock.git
 	path = feedstocks/metaknowledge
 	branch = refs/heads/master
+[submodule "gsoap"]
+	url = https://github.com/conda-forge/gsoap-feedstock.git
+	path = feedstocks/gsoap
+	branch = refs/heads/master
