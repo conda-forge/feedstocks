@@ -25614,3 +25614,7 @@
 	url = https://github.com/conda-forge/conda_deps-feedstock.git
 	path = feedstocks/conda_deps
 	branch = refs/heads/master
+[submodule "snapshottest"]
+	url = https://github.com/conda-forge/snapshottest-feedstock.git
+	path = feedstocks/snapshottest
+	branch = refs/heads/master
