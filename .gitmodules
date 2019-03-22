@@ -25622,3 +25622,7 @@
 	url = https://github.com/conda-forge/voms-feedstock.git
 	path = feedstocks/voms
 	branch = refs/heads/master
+[submodule "metaknowledge"]
+	url = https://github.com/conda-forge/metaknowledge-feedstock.git
+	path = feedstocks/metaknowledge
+	branch = refs/heads/master
