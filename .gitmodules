@@ -25610,3 +25610,7 @@
 	url = https://github.com/conda-forge/exrex-feedstock.git
 	path = feedstocks/exrex
 	branch = refs/heads/master
+[submodule "conda_deps"]
+	url = https://github.com/conda-forge/conda_deps-feedstock.git
+	path = feedstocks/conda_deps
+	branch = refs/heads/master
