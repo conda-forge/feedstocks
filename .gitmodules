@@ -25630,3 +25630,7 @@
 	url = https://github.com/conda-forge/gsoap-feedstock.git
 	path = feedstocks/gsoap
 	branch = refs/heads/master
+[submodule "voms-clients"]
+	url = https://github.com/conda-forge/voms-clients-feedstock.git
+	path = feedstocks/voms-clients
+	branch = refs/heads/master
