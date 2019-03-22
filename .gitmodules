@@ -25618,3 +25618,7 @@
 	url = https://github.com/conda-forge/snapshottest-feedstock.git
 	path = feedstocks/snapshottest
 	branch = refs/heads/master
+[submodule "voms"]
+	url = https://github.com/conda-forge/voms-feedstock.git
+	path = feedstocks/voms
+	branch = refs/heads/master
