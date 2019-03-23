@@ -25642,3 +25642,7 @@
 	url = https://github.com/conda-forge/nvidia-ml-feedstock.git
 	path = feedstocks/nvidia-ml
 	branch = refs/heads/master
+[submodule "mamba"]
+	url = https://github.com/conda-forge/mamba-feedstock.git
+	path = feedstocks/mamba
+	branch = refs/heads/master
