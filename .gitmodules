@@ -25658,3 +25658,7 @@
 	url = https://github.com/conda-forge/fredapi-feedstock.git
 	path = feedstocks/fredapi
 	branch = refs/heads/master
+[submodule "snakeviz"]
+	url = https://github.com/conda-forge/snakeviz-feedstock.git
+	path = feedstocks/snakeviz
+	branch = refs/heads/master
