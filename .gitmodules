@@ -25646,3 +25646,7 @@
 	url = https://github.com/conda-forge/mamba-feedstock.git
 	path = feedstocks/mamba
 	branch = refs/heads/master
+[submodule "gpustat"]
+	url = https://github.com/conda-forge/gpustat-feedstock.git
+	path = feedstocks/gpustat
+	branch = refs/heads/master
