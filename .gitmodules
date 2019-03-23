@@ -25654,3 +25654,7 @@
 	url = https://github.com/conda-forge/scri-feedstock.git
 	path = feedstocks/scri
 	branch = refs/heads/master
+[submodule "fredapi"]
+	url = https://github.com/conda-forge/fredapi-feedstock.git
+	path = feedstocks/fredapi
+	branch = refs/heads/master
