@@ -25670,3 +25670,7 @@
 	url = https://github.com/conda-forge/omniorbpy-feedstock.git
 	path = feedstocks/omniorbpy
 	branch = refs/heads/master
+[submodule "nexus"]
+	url = https://github.com/conda-forge/nexus-feedstock.git
+	path = feedstocks/nexus
+	branch = refs/heads/master
