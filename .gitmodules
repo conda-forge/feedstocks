@@ -25666,3 +25666,7 @@
 	url = https://github.com/conda-forge/omniorb-feedstock.git
 	path = feedstocks/omniorb
 	branch = refs/heads/master
+[submodule "omniorbpy"]
+	url = https://github.com/conda-forge/omniorbpy-feedstock.git
+	path = feedstocks/omniorbpy
+	branch = refs/heads/master
