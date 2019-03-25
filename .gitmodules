@@ -25678,3 +25678,7 @@
 	url = https://github.com/conda-forge/marshmallow-oneofschema-feedstock.git
 	path = feedstocks/marshmallow-oneofschema
 	branch = refs/heads/master
+[submodule "prefect"]
+	url = https://github.com/conda-forge/prefect-feedstock.git
+	path = feedstocks/prefect
+	branch = refs/heads/master
