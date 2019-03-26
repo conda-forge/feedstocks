@@ -25698,3 +25698,7 @@
 	url = https://github.com/conda-forge/capytaine-feedstock.git
 	path = feedstocks/capytaine
 	branch = refs/heads/master
+[submodule "vcsh"]
+	url = https://github.com/conda-forge/vcsh-feedstock.git
+	path = feedstocks/vcsh
+	branch = refs/heads/master
