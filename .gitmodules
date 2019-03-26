@@ -25686,3 +25686,7 @@
 	url = https://github.com/conda-forge/openvisus-feedstock.git
 	path = feedstocks/openvisus
 	branch = refs/heads/master
+[submodule "ipytree"]
+	url = https://github.com/conda-forge/ipytree-feedstock.git
+	path = feedstocks/ipytree
+	branch = refs/heads/master
