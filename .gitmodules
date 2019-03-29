@@ -25734,3 +25734,7 @@
 	url = https://github.com/conda-forge/authlib-feedstock.git
 	path = feedstocks/authlib
 	branch = refs/heads/master
+[submodule "sphinxcontrib-serializinghtml"]
+	url = https://github.com/conda-forge/sphinxcontrib-serializinghtml-feedstock.git
+	path = feedstocks/sphinxcontrib-serializinghtml
+	branch = refs/heads/master
