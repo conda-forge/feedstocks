@@ -25778,3 +25778,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-htmlhelp-feedstock.git
 	path = feedstocks/sphinxcontrib-htmlhelp
 	branch = refs/heads/master
+[submodule "sphinxcontrib-jsmath"]
+	url = https://github.com/conda-forge/sphinxcontrib-jsmath-feedstock.git
+	path = feedstocks/sphinxcontrib-jsmath
+	branch = refs/heads/master
