@@ -25774,3 +25774,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-applehelp-feedstock.git
 	path = feedstocks/sphinxcontrib-applehelp
 	branch = refs/heads/master
+[submodule "sphinxcontrib-htmlhelp"]
+	url = https://github.com/conda-forge/sphinxcontrib-htmlhelp-feedstock.git
+	path = feedstocks/sphinxcontrib-htmlhelp
+	branch = refs/heads/master
