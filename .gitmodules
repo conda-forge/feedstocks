@@ -25758,3 +25758,7 @@
 	url = https://github.com/conda-forge/dtool_symlink-feedstock.git
 	path = feedstocks/dtool_symlink
 	branch = refs/heads/master
+[submodule "dtool_config"]
+	url = https://github.com/conda-forge/dtool_config-feedstock.git
+	path = feedstocks/dtool_config
+	branch = refs/heads/master
