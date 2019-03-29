@@ -25762,3 +25762,7 @@
 	url = https://github.com/conda-forge/dtool_config-feedstock.git
 	path = feedstocks/dtool_config
 	branch = refs/heads/master
+[submodule "pycompare"]
+	url = https://github.com/conda-forge/pycompare-feedstock.git
+	path = feedstocks/pycompare
+	branch = refs/heads/master
