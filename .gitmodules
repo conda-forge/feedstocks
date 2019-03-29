@@ -25710,3 +25710,7 @@
 	url = https://github.com/conda-forge/wgrib-feedstock.git
 	path = feedstocks/wgrib
 	branch = refs/heads/master
+[submodule "pypy3.6"]
+	url = https://github.com/conda-forge/pypy3.6-feedstock.git
+	path = feedstocks/pypy3.6
+	branch = refs/heads/master
