@@ -25742,3 +25742,7 @@
 	url = https://github.com/conda-forge/r-propr-feedstock.git
 	path = feedstocks/r-propr
 	branch = refs/heads/master
+[submodule "dtoolcore"]
+	url = https://github.com/conda-forge/dtoolcore-feedstock.git
+	path = feedstocks/dtoolcore
+	branch = refs/heads/master
