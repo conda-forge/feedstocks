@@ -25714,3 +25714,7 @@
 	url = https://github.com/conda-forge/pypy3.6-feedstock.git
 	path = feedstocks/pypy3.6
 	branch = refs/heads/master
+[submodule "dtool_s3"]
+	url = https://github.com/conda-forge/dtool_s3-feedstock.git
+	path = feedstocks/dtool_s3
+	branch = refs/heads/master
