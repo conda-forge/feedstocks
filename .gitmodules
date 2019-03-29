@@ -25746,3 +25746,7 @@
 	url = https://github.com/conda-forge/dtoolcore-feedstock.git
 	path = feedstocks/dtoolcore
 	branch = refs/heads/master
+[submodule "dtool_info"]
+	url = https://github.com/conda-forge/dtool_info-feedstock.git
+	path = feedstocks/dtool_info
+	branch = refs/heads/master
