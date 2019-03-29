@@ -25786,3 +25786,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-devhelp-feedstock.git
 	path = feedstocks/sphinxcontrib-devhelp
 	branch = refs/heads/master
+[submodule "sphinxcontrib-qthelp"]
+	url = https://github.com/conda-forge/sphinxcontrib-qthelp-feedstock.git
+	path = feedstocks/sphinxcontrib-qthelp
+	branch = refs/heads/master
