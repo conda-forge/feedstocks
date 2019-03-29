@@ -25770,3 +25770,7 @@
 	url = https://github.com/conda-forge/dtool-feedstock.git
 	path = feedstocks/dtool
 	branch = refs/heads/master
+[submodule "sphinxcontrib-applehelp"]
+	url = https://github.com/conda-forge/sphinxcontrib-applehelp-feedstock.git
+	path = feedstocks/sphinxcontrib-applehelp
+	branch = refs/heads/master
