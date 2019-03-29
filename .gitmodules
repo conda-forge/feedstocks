@@ -25722,3 +25722,7 @@
 	url = https://github.com/conda-forge/dtool_http-feedstock.git
 	path = feedstocks/dtool_http
 	branch = refs/heads/master
+[submodule "dtool_cli"]
+	url = https://github.com/conda-forge/dtool_cli-feedstock.git
+	path = feedstocks/dtool_cli
+	branch = refs/heads/master
