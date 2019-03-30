@@ -25802,3 +25802,7 @@
 	url = https://github.com/conda-forge/sparkhpc-feedstock.git
 	path = feedstocks/sparkhpc
 	branch = refs/heads/master
+[submodule "gcovr"]
+	url = https://github.com/conda-forge/gcovr-feedstock.git
+	path = feedstocks/gcovr
+	branch = refs/heads/master
