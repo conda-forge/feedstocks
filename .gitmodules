@@ -25806,3 +25806,7 @@
 	url = https://github.com/conda-forge/gcovr-feedstock.git
 	path = feedstocks/gcovr
 	branch = refs/heads/master
+[submodule "joypy"]
+	url = https://github.com/conda-forge/joypy-feedstock.git
+	path = feedstocks/joypy
+	branch = refs/heads/master
