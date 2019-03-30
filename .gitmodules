@@ -25794,3 +25794,7 @@
 	url = https://github.com/conda-forge/enlopy-feedstock.git
 	path = feedstocks/enlopy
 	branch = refs/heads/master
+[submodule "pytest-azurepipelines"]
+	url = https://github.com/conda-forge/pytest-azurepipelines-feedstock.git
+	path = feedstocks/pytest-azurepipelines
+	branch = refs/heads/master
