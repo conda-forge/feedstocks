@@ -25814,3 +25814,7 @@
 	url = https://github.com/conda-forge/aghast-feedstock.git
 	path = feedstocks/aghast
 	branch = refs/heads/master
+[submodule "r-asbio"]
+	url = https://github.com/conda-forge/r-asbio-feedstock.git
+	path = feedstocks/r-asbio
+	branch = refs/heads/master
