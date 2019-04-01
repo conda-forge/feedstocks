@@ -25818,3 +25818,7 @@
 	url = https://github.com/conda-forge/r-asbio-feedstock.git
 	path = feedstocks/r-asbio
 	branch = refs/heads/master
+[submodule "ascii_graph"]
+	url = https://github.com/conda-forge/ascii_graph-feedstock.git
+	path = feedstocks/ascii_graph
+	branch = refs/heads/master
