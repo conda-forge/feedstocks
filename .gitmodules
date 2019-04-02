@@ -25838,3 +25838,7 @@
 	url = https://github.com/conda-forge/ksonnet-feedstock.git
 	path = feedstocks/ksonnet
 	branch = refs/heads/master
+[submodule "typing_inspect"]
+	url = https://github.com/conda-forge/typing_inspect-feedstock.git
+	path = feedstocks/typing_inspect
+	branch = refs/heads/master
