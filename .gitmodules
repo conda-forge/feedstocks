@@ -25822,3 +25822,7 @@
 	url = https://github.com/conda-forge/ascii_graph-feedstock.git
 	path = feedstocks/ascii_graph
 	branch = refs/heads/master
+[submodule "pytest-subtests"]
+	url = https://github.com/conda-forge/pytest-subtests-feedstock.git
+	path = feedstocks/pytest-subtests
+	branch = refs/heads/master
