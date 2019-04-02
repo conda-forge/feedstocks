@@ -25826,3 +25826,7 @@
 	url = https://github.com/conda-forge/pytest-subtests-feedstock.git
 	path = feedstocks/pytest-subtests
 	branch = refs/heads/master
+[submodule "binpacking"]
+	url = https://github.com/conda-forge/binpacking-feedstock.git
+	path = feedstocks/binpacking
+	branch = refs/heads/master
