@@ -25842,3 +25842,7 @@
 	url = https://github.com/conda-forge/typing_inspect-feedstock.git
 	path = feedstocks/typing_inspect
 	branch = refs/heads/master
+[submodule "earthpy"]
+	url = https://github.com/conda-forge/earthpy-feedstock.git
+	path = feedstocks/earthpy
+	branch = refs/heads/master
