@@ -25834,3 +25834,7 @@
 	url = https://github.com/conda-forge/jupyterlab-plotly-extension-feedstock.git
 	path = feedstocks/jupyterlab-plotly-extension
 	branch = refs/heads/master
+[submodule "ksonnet"]
+	url = https://github.com/conda-forge/ksonnet-feedstock.git
+	path = feedstocks/ksonnet
+	branch = refs/heads/master
