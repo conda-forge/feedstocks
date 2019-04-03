@@ -25846,3 +25846,7 @@
 	url = https://github.com/conda-forge/earthpy-feedstock.git
 	path = feedstocks/earthpy
 	branch = refs/heads/master
+[submodule "fipy"]
+	url = https://github.com/conda-forge/fipy-feedstock.git
+	path = feedstocks/fipy
+	branch = refs/heads/master
