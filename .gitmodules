@@ -25854,3 +25854,7 @@
 	url = https://github.com/conda-forge/dye-score-feedstock.git
 	path = feedstocks/dye-score
 	branch = refs/heads/master
+[submodule "kronprod"]
+	url = https://github.com/conda-forge/kronprod-feedstock.git
+	path = feedstocks/kronprod
+	branch = refs/heads/master
