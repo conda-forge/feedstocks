@@ -25862,3 +25862,7 @@
 	url = https://github.com/conda-forge/r-pkgnet-feedstock.git
 	path = feedstocks/r-pkgnet
 	branch = refs/heads/master
+[submodule "r-harrypotter"]
+	url = https://github.com/conda-forge/r-harrypotter-feedstock.git
+	path = feedstocks/r-harrypotter
+	branch = refs/heads/master
