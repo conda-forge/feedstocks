@@ -25910,3 +25910,7 @@
 	url = https://github.com/conda-forge/geant4-data-incl-feedstock.git
 	path = feedstocks/geant4-data-incl
 	branch = refs/heads/master
+[submodule "geant4-data-saiddata"]
+	url = https://github.com/conda-forge/geant4-data-saiddata-feedstock.git
+	path = feedstocks/geant4-data-saiddata
+	branch = refs/heads/master
