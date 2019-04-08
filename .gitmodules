@@ -25926,3 +25926,7 @@
 	url = https://github.com/conda-forge/r-tablerdash-feedstock.git
 	path = feedstocks/r-tablerdash
 	branch = refs/heads/master
+[submodule "pysteps"]
+	url = https://github.com/conda-forge/pysteps-feedstock.git
+	path = feedstocks/pysteps
+	branch = refs/heads/master
