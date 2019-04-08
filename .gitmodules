@@ -25922,3 +25922,7 @@
 	url = https://github.com/conda-forge/geant4-data-emlow-feedstock.git
 	path = feedstocks/geant4-data-emlow
 	branch = refs/heads/master
+[submodule "r-tablerdash"]
+	url = https://github.com/conda-forge/r-tablerdash-feedstock.git
+	path = feedstocks/r-tablerdash
+	branch = refs/heads/master
