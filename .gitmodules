@@ -25894,3 +25894,7 @@
 	url = https://github.com/conda-forge/geant4-data-ensdfstate-feedstock.git
 	path = feedstocks/geant4-data-ensdfstate
 	branch = refs/heads/master
+[submodule "geant4-data-particlexs"]
+	url = https://github.com/conda-forge/geant4-data-particlexs-feedstock.git
+	path = feedstocks/geant4-data-particlexs
+	branch = refs/heads/master
