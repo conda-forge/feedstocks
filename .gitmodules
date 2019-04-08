@@ -25886,3 +25886,7 @@
 	url = https://github.com/conda-forge/geant4-data-abla-feedstock.git
 	path = feedstocks/geant4-data-abla
 	branch = refs/heads/master
+[submodule "geant4-data-realsurface"]
+	url = https://github.com/conda-forge/geant4-data-realsurface-feedstock.git
+	path = feedstocks/geant4-data-realsurface
+	branch = refs/heads/master
