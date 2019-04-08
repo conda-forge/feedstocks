@@ -25874,3 +25874,7 @@
 	url = https://github.com/conda-forge/geant4-data-photonevaporation-feedstock.git
 	path = feedstocks/geant4-data-photonevaporation
 	branch = refs/heads/master
+[submodule "geant4-data-ndl"]
+	url = https://github.com/conda-forge/geant4-data-ndl-feedstock.git
+	path = feedstocks/geant4-data-ndl
+	branch = refs/heads/master
