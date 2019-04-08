@@ -25918,3 +25918,7 @@
 	url = https://github.com/conda-forge/r-shinyeffects-feedstock.git
 	path = feedstocks/r-shinyeffects
 	branch = refs/heads/master
+[submodule "geant4-data-emlow"]
+	url = https://github.com/conda-forge/geant4-data-emlow-feedstock.git
+	path = feedstocks/geant4-data-emlow
+	branch = refs/heads/master
