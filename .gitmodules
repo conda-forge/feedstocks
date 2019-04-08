@@ -25938,3 +25938,7 @@
 	url = https://github.com/conda-forge/psfgen-feedstock.git
 	path = feedstocks/psfgen
 	branch = refs/heads/master
+[submodule "andes"]
+	url = https://github.com/conda-forge/andes-feedstock.git
+	path = feedstocks/andes
+	branch = refs/heads/master
