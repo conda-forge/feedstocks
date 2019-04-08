@@ -25934,3 +25934,7 @@
 	url = https://github.com/conda-forge/r-rpivottable-feedstock.git
 	path = feedstocks/r-rpivottable
 	branch = refs/heads/master
+[submodule "psfgen"]
+	url = https://github.com/conda-forge/psfgen-feedstock.git
+	path = feedstocks/psfgen
+	branch = refs/heads/master
