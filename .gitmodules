@@ -25902,3 +25902,7 @@
 	url = https://github.com/conda-forge/geant4-feedstock.git
 	path = feedstocks/geant4
 	branch = refs/heads/master
+[submodule "geant4-data-pii"]
+	url = https://github.com/conda-forge/geant4-data-pii-feedstock.git
+	path = feedstocks/geant4-data-pii
+	branch = refs/heads/master
