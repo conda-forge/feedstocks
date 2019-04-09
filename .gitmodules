@@ -25942,3 +25942,7 @@
 	url = https://github.com/conda-forge/andes-feedstock.git
 	path = feedstocks/andes
 	branch = refs/heads/master
+[submodule "querystring_parser"]
+	url = https://github.com/conda-forge/querystring_parser-feedstock.git
+	path = feedstocks/querystring_parser
+	branch = refs/heads/master
