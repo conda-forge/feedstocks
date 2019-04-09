@@ -25946,3 +25946,7 @@
 	url = https://github.com/conda-forge/querystring_parser-feedstock.git
 	path = feedstocks/querystring_parser
 	branch = refs/heads/master
+[submodule "procps-ng"]
+	url = https://github.com/conda-forge/procps-ng-feedstock.git
+	path = feedstocks/procps-ng
+	branch = refs/heads/master
