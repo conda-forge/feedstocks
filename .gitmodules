@@ -25958,3 +25958,7 @@
 	url = https://github.com/conda-forge/photospline-feedstock.git
 	path = feedstocks/photospline
 	branch = refs/heads/master
+[submodule "hrds"]
+	url = https://github.com/conda-forge/hrds-feedstock.git
+	path = feedstocks/hrds
+	branch = refs/heads/master
