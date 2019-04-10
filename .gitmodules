@@ -25962,3 +25962,7 @@
 	url = https://github.com/conda-forge/hrds-feedstock.git
 	path = feedstocks/hrds
 	branch = refs/heads/master
+[submodule "nose-exclude"]
+	url = https://github.com/conda-forge/nose-exclude-feedstock.git
+	path = feedstocks/nose-exclude
+	branch = refs/heads/master
