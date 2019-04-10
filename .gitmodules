@@ -25978,3 +25978,7 @@
 	url = https://github.com/conda-forge/fluiddyn-feedstock.git
 	path = feedstocks/fluiddyn
 	branch = refs/heads/master
+[submodule "usgscsm"]
+	url = https://github.com/conda-forge/usgscsm-feedstock.git
+	path = feedstocks/usgscsm
+	branch = refs/heads/master
