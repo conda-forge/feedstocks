@@ -25970,3 +25970,7 @@
 	url = https://github.com/conda-forge/mleap-feedstock.git
 	path = feedstocks/mleap
 	branch = refs/heads/master
+[submodule "ensmallen"]
+	url = https://github.com/conda-forge/ensmallen-feedstock.git
+	path = feedstocks/ensmallen
+	branch = refs/heads/master
