@@ -25974,3 +25974,7 @@
 	url = https://github.com/conda-forge/ensmallen-feedstock.git
 	path = feedstocks/ensmallen
 	branch = refs/heads/master
+[submodule "fluiddyn"]
+	url = https://github.com/conda-forge/fluiddyn-feedstock.git
+	path = feedstocks/fluiddyn
+	branch = refs/heads/master
