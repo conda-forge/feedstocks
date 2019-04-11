@@ -25986,3 +25986,7 @@
 	url = https://github.com/conda-forge/r-clustersim-feedstock.git
 	path = feedstocks/r-clustersim
 	branch = refs/heads/master
+[submodule "jupyterhub-terraformspawner"]
+	url = https://github.com/conda-forge/jupyterhub-terraformspawner-feedstock.git
+	path = feedstocks/jupyterhub-terraformspawner
+	branch = refs/heads/master
