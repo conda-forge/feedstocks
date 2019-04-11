@@ -25994,3 +25994,7 @@
 	url = https://github.com/conda-forge/oauthenticator-feedstock.git
 	path = feedstocks/oauthenticator
 	branch = refs/heads/master
+[submodule "beniget"]
+	url = https://github.com/conda-forge/beniget-feedstock.git
+	path = feedstocks/beniget
+	branch = refs/heads/master
