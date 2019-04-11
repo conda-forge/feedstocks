@@ -26002,3 +26002,7 @@
 	url = https://github.com/conda-forge/pyrfa-feedstock.git
 	path = feedstocks/pyrfa
 	branch = refs/heads/master
+[submodule "scikit-multiflow"]
+	url = https://github.com/conda-forge/scikit-multiflow-feedstock.git
+	path = feedstocks/scikit-multiflow
+	branch = refs/heads/master
