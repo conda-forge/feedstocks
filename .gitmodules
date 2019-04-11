@@ -25982,3 +25982,7 @@
 	url = https://github.com/conda-forge/usgscsm-feedstock.git
 	path = feedstocks/usgscsm
 	branch = refs/heads/master
+[submodule "r-clustersim"]
+	url = https://github.com/conda-forge/r-clustersim-feedstock.git
+	path = feedstocks/r-clustersim
+	branch = refs/heads/master
