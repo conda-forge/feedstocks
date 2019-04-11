@@ -25990,3 +25990,7 @@
 	url = https://github.com/conda-forge/jupyterhub-terraformspawner-feedstock.git
 	path = feedstocks/jupyterhub-terraformspawner
 	branch = refs/heads/master
+[submodule "oauthenticator"]
+	url = https://github.com/conda-forge/oauthenticator-feedstock.git
+	path = feedstocks/oauthenticator
+	branch = refs/heads/master
