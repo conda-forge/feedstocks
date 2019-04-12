@@ -26014,3 +26014,7 @@
 	url = https://github.com/conda-forge/transonic-feedstock.git
 	path = feedstocks/transonic
 	branch = refs/heads/master
+[submodule "tempest-remap"]
+	url = https://github.com/conda-forge/tempest-remap-feedstock.git
+	path = feedstocks/tempest-remap
+	branch = refs/heads/master
