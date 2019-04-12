@@ -26026,3 +26026,7 @@
 	url = https://github.com/conda-forge/conda-package-handling-feedstock.git
 	path = feedstocks/conda-package-handling
 	branch = refs/heads/master
+[submodule "serialchemy"]
+	url = https://github.com/conda-forge/serialchemy-feedstock.git
+	path = feedstocks/serialchemy
+	branch = refs/heads/master
