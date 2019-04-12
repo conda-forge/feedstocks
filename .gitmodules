@@ -26038,3 +26038,7 @@
 	url = https://github.com/conda-forge/libgdsii-feedstock.git
 	path = feedstocks/libgdsii
 	branch = refs/heads/master
+[submodule "fluidfft"]
+	url = https://github.com/conda-forge/fluidfft-feedstock.git
+	path = feedstocks/fluidfft
+	branch = refs/heads/master
