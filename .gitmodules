@@ -26022,3 +26022,7 @@
 	url = https://github.com/conda-forge/gpaw-feedstock.git
 	path = feedstocks/gpaw
 	branch = refs/heads/master
+[submodule "conda-package-handling"]
+	url = https://github.com/conda-forge/conda-package-handling-feedstock.git
+	path = feedstocks/conda-package-handling
+	branch = refs/heads/master
