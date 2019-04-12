@@ -26018,3 +26018,7 @@
 	url = https://github.com/conda-forge/tempest-remap-feedstock.git
 	path = feedstocks/tempest-remap
 	branch = refs/heads/master
+[submodule "gpaw"]
+	url = https://github.com/conda-forge/gpaw-feedstock.git
+	path = feedstocks/gpaw
+	branch = refs/heads/master
