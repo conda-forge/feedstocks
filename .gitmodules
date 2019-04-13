@@ -26042,3 +26042,7 @@
 	url = https://github.com/conda-forge/fluidfft-feedstock.git
 	path = feedstocks/fluidfft
 	branch = refs/heads/master
+[submodule "magics-python"]
+	url = https://github.com/conda-forge/magics-python-feedstock.git
+	path = feedstocks/magics-python
+	branch = refs/heads/master
