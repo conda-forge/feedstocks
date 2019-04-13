@@ -26046,3 +26046,7 @@
 	url = https://github.com/conda-forge/magics-python-feedstock.git
 	path = feedstocks/magics-python
 	branch = refs/heads/master
+[submodule "databricks-cli"]
+	url = https://github.com/conda-forge/databricks-cli-feedstock.git
+	path = feedstocks/databricks-cli
+	branch = refs/heads/master
