@@ -26050,3 +26050,7 @@
 	url = https://github.com/conda-forge/databricks-cli-feedstock.git
 	path = feedstocks/databricks-cli
 	branch = refs/heads/master
+[submodule "hg-evolve"]
+	url = https://github.com/conda-forge/hg-evolve-feedstock.git
+	path = feedstocks/hg-evolve
+	branch = refs/heads/master
