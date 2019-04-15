@@ -26074,3 +26074,7 @@
 	url = https://github.com/conda-forge/google-cloud-container-feedstock.git
 	path = feedstocks/google-cloud-container
 	branch = refs/heads/master
+[submodule "grpcio-gcp"]
+	url = https://github.com/conda-forge/grpcio-gcp-feedstock.git
+	path = feedstocks/grpcio-gcp
+	branch = refs/heads/master
