@@ -26054,3 +26054,7 @@
 	url = https://github.com/conda-forge/hg-evolve-feedstock.git
 	path = feedstocks/hg-evolve
 	branch = refs/heads/master
+[submodule "python-moa"]
+	url = https://github.com/conda-forge/python-moa-feedstock.git
+	path = feedstocks/python-moa
+	branch = refs/heads/master
