@@ -26066,3 +26066,7 @@
 	url = https://github.com/conda-forge/radical.saga-feedstock.git
 	path = feedstocks/radical.saga
 	branch = refs/heads/master
+[submodule "json-merge-patch"]
+	url = https://github.com/conda-forge/json-merge-patch-feedstock.git
+	path = feedstocks/json-merge-patch
+	branch = refs/heads/master
