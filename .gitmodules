@@ -26078,3 +26078,7 @@
 	url = https://github.com/conda-forge/grpcio-gcp-feedstock.git
 	path = feedstocks/grpcio-gcp
 	branch = refs/heads/master
+[submodule "paramtools"]
+	url = https://github.com/conda-forge/paramtools-feedstock.git
+	path = feedstocks/paramtools
+	branch = refs/heads/master
