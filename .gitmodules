@@ -26062,3 +26062,7 @@
 	url = https://github.com/conda-forge/r-survivalanalysis-feedstock.git
 	path = feedstocks/r-survivalanalysis
 	branch = refs/heads/master
+[submodule "radical.saga"]
+	url = https://github.com/conda-forge/radical.saga-feedstock.git
+	path = feedstocks/radical.saga
+	branch = refs/heads/master
