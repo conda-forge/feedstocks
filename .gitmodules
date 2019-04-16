@@ -26082,3 +26082,7 @@
 	url = https://github.com/conda-forge/paramtools-feedstock.git
 	path = feedstocks/paramtools
 	branch = refs/heads/master
+[submodule "swifter"]
+	url = https://github.com/conda-forge/swifter-feedstock.git
+	path = feedstocks/swifter
+	branch = refs/heads/master
