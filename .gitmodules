@@ -26086,3 +26086,7 @@
 	url = https://github.com/conda-forge/swifter-feedstock.git
 	path = feedstocks/swifter
 	branch = refs/heads/master
+[submodule "flask-dance"]
+	url = https://github.com/conda-forge/flask-dance-feedstock.git
+	path = feedstocks/flask-dance
+	branch = refs/heads/master
