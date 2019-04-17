@@ -26126,3 +26126,7 @@
 	url = https://github.com/conda-forge/sphinx-copybutton-feedstock.git
 	path = feedstocks/sphinx-copybutton
 	branch = refs/heads/master
+[submodule "gevent-websocket"]
+	url = https://github.com/conda-forge/gevent-websocket-feedstock.git
+	path = feedstocks/gevent-websocket
+	branch = refs/heads/master
