@@ -26102,3 +26102,7 @@
 	url = https://github.com/conda-forge/r-attempt-feedstock.git
 	path = feedstocks/r-attempt
 	branch = refs/heads/master
+[submodule "catlearn"]
+	url = https://github.com/conda-forge/catlearn-feedstock.git
+	path = feedstocks/catlearn
+	branch = refs/heads/master
