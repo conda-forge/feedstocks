@@ -26114,3 +26114,7 @@
 	url = https://github.com/conda-forge/reprexpy-feedstock.git
 	path = feedstocks/reprexpy
 	branch = refs/heads/master
+[submodule "mlflow"]
+	url = https://github.com/conda-forge/mlflow-feedstock.git
+	path = feedstocks/mlflow
+	branch = refs/heads/master
