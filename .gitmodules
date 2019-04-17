@@ -26106,3 +26106,7 @@
 	url = https://github.com/conda-forge/catlearn-feedstock.git
 	path = feedstocks/catlearn
 	branch = refs/heads/master
+[submodule "pickledb"]
+	url = https://github.com/conda-forge/pickledb-feedstock.git
+	path = feedstocks/pickledb
+	branch = refs/heads/master
