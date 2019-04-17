@@ -26122,3 +26122,7 @@
 	url = https://github.com/conda-forge/grpc-google-iam-v1-feedstock.git
 	path = feedstocks/grpc-google-iam-v1
 	branch = refs/heads/master
+[submodule "sphinx-copybutton"]
+	url = https://github.com/conda-forge/sphinx-copybutton-feedstock.git
+	path = feedstocks/sphinx-copybutton
+	branch = refs/heads/master
