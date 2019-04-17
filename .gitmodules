@@ -26118,3 +26118,7 @@
 	url = https://github.com/conda-forge/mlflow-feedstock.git
 	path = feedstocks/mlflow
 	branch = refs/heads/master
+[submodule "grpc-google-iam-v1"]
+	url = https://github.com/conda-forge/grpc-google-iam-v1-feedstock.git
+	path = feedstocks/grpc-google-iam-v1
+	branch = refs/heads/master
