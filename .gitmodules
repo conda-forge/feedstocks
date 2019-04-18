@@ -26130,3 +26130,7 @@
 	url = https://github.com/conda-forge/gevent-websocket-feedstock.git
 	path = feedstocks/gevent-websocket
 	branch = refs/heads/master
+[submodule "hashdeep"]
+	url = https://github.com/conda-forge/hashdeep-feedstock.git
+	path = feedstocks/hashdeep
+	branch = refs/heads/master
