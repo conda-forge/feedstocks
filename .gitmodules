@@ -26134,3 +26134,7 @@
 	url = https://github.com/conda-forge/hashdeep-feedstock.git
 	path = feedstocks/hashdeep
 	branch = refs/heads/master
+[submodule "progressbar"]
+	url = https://github.com/conda-forge/progressbar-feedstock.git
+	path = feedstocks/progressbar
+	branch = refs/heads/master
