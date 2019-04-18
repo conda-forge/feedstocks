@@ -26138,3 +26138,7 @@
 	url = https://github.com/conda-forge/progressbar-feedstock.git
 	path = feedstocks/progressbar
 	branch = refs/heads/master
+[submodule "ioos_qc"]
+	url = https://github.com/conda-forge/ioos_qc-feedstock.git
+	path = feedstocks/ioos_qc
+	branch = refs/heads/master
