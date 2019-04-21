@@ -26154,3 +26154,7 @@
 	url = https://github.com/conda-forge/gwsumm-feedstock.git
 	path = feedstocks/gwsumm
 	branch = refs/heads/master
+[submodule "hepmc2"]
+	url = https://github.com/conda-forge/hepmc2-feedstock.git
+	path = feedstocks/hepmc2
+	branch = refs/heads/master
