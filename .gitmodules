@@ -26146,3 +26146,7 @@
 	url = https://github.com/conda-forge/prison-feedstock.git
 	path = feedstocks/prison
 	branch = refs/heads/master
+[submodule "metview"]
+	url = https://github.com/conda-forge/metview-feedstock.git
+	path = feedstocks/metview
+	branch = refs/heads/master
