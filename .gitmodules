@@ -26162,3 +26162,7 @@
 	url = https://github.com/conda-forge/nestle-feedstock.git
 	path = feedstocks/nestle
 	branch = refs/heads/master
+[submodule "mercurial-app"]
+	url = https://github.com/conda-forge/mercurial-app-feedstock.git
+	path = feedstocks/mercurial-app
+	branch = refs/heads/master
