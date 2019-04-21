@@ -26158,3 +26158,7 @@
 	url = https://github.com/conda-forge/hepmc2-feedstock.git
 	path = feedstocks/hepmc2
 	branch = refs/heads/master
+[submodule "nestle"]
+	url = https://github.com/conda-forge/nestle-feedstock.git
+	path = feedstocks/nestle
+	branch = refs/heads/master
