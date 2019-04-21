@@ -26170,3 +26170,7 @@
 	url = https://github.com/conda-forge/pyfakefs-feedstock.git
 	path = feedstocks/pyfakefs
 	branch = refs/heads/master
+[submodule "tinyxml2"]
+	url = https://github.com/conda-forge/tinyxml2-feedstock.git
+	path = feedstocks/tinyxml2
+	branch = refs/heads/master
