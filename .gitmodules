@@ -26166,3 +26166,7 @@
 	url = https://github.com/conda-forge/mercurial-app-feedstock.git
 	path = feedstocks/mercurial-app
 	branch = refs/heads/master
+[submodule "pyfakefs"]
+	url = https://github.com/conda-forge/pyfakefs-feedstock.git
+	path = feedstocks/pyfakefs
+	branch = refs/heads/master
