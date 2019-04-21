@@ -26142,3 +26142,7 @@
 	url = https://github.com/conda-forge/ioos_qc-feedstock.git
 	path = feedstocks/ioos_qc
 	branch = refs/heads/master
+[submodule "prison"]
+	url = https://github.com/conda-forge/prison-feedstock.git
+	path = feedstocks/prison
+	branch = refs/heads/master
