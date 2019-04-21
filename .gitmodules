@@ -26178,3 +26178,7 @@
 	url = https://github.com/conda-forge/marshmallow-enum-feedstock.git
 	path = feedstocks/marshmallow-enum
 	branch = refs/heads/master
+[submodule "autoflake"]
+	url = https://github.com/conda-forge/autoflake-feedstock.git
+	path = feedstocks/autoflake
+	branch = refs/heads/master
