@@ -26174,3 +26174,7 @@
 	url = https://github.com/conda-forge/tinyxml2-feedstock.git
 	path = feedstocks/tinyxml2
 	branch = refs/heads/master
+[submodule "marshmallow-enum"]
+	url = https://github.com/conda-forge/marshmallow-enum-feedstock.git
+	path = feedstocks/marshmallow-enum
+	branch = refs/heads/master
