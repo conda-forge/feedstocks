@@ -26222,3 +26222,7 @@
 	url = https://github.com/conda-forge/pandas-vet-feedstock.git
 	path = feedstocks/pandas-vet
 	branch = refs/heads/master
+[submodule "yattag"]
+	url = https://github.com/conda-forge/yattag-feedstock.git
+	path = feedstocks/yattag
+	branch = refs/heads/master
