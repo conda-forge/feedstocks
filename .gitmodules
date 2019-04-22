@@ -26218,3 +26218,7 @@
 	url = https://github.com/conda-forge/logging-helpers-feedstock.git
 	path = feedstocks/logging-helpers
 	branch = refs/heads/master
+[submodule "pandas-vet"]
+	url = https://github.com/conda-forge/pandas-vet-feedstock.git
+	path = feedstocks/pandas-vet
+	branch = refs/heads/master
