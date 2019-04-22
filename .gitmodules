@@ -26202,3 +26202,7 @@
 	url = https://github.com/conda-forge/geocube-feedstock.git
 	path = feedstocks/geocube
 	branch = refs/heads/master
+[submodule "mkl-service"]
+	url = https://github.com/conda-forge/mkl-service-feedstock.git
+	path = feedstocks/mkl-service
+	branch = refs/heads/master
