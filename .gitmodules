@@ -26206,3 +26206,7 @@
 	url = https://github.com/conda-forge/mkl-service-feedstock.git
 	path = feedstocks/mkl-service
 	branch = refs/heads/master
+[submodule "latlon23"]
+	url = https://github.com/conda-forge/latlon23-feedstock.git
+	path = feedstocks/latlon23
+	branch = refs/heads/master
