@@ -26186,3 +26186,7 @@
 	url = https://github.com/conda-forge/python-clang-feedstock.git
 	path = feedstocks/python-clang
 	branch = refs/heads/master
+[submodule "cms-md5"]
+	url = https://github.com/conda-forge/cms-md5-feedstock.git
+	path = feedstocks/cms-md5
+	branch = refs/heads/master
