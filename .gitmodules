@@ -26190,3 +26190,7 @@
 	url = https://github.com/conda-forge/cms-md5-feedstock.git
 	path = feedstocks/cms-md5
 	branch = refs/heads/master
+[submodule "rioxarray"]
+	url = https://github.com/conda-forge/rioxarray-feedstock.git
+	path = feedstocks/rioxarray
+	branch = refs/heads/master
