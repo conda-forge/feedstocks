@@ -26214,3 +26214,7 @@
 	url = https://github.com/conda-forge/dmf-chip-feedstock.git
 	path = feedstocks/dmf-chip
 	branch = refs/heads/master
+[submodule "logging-helpers"]
+	url = https://github.com/conda-forge/logging-helpers-feedstock.git
+	path = feedstocks/logging-helpers
+	branch = refs/heads/master
