@@ -26210,3 +26210,7 @@
 	url = https://github.com/conda-forge/latlon23-feedstock.git
 	path = feedstocks/latlon23
 	branch = refs/heads/master
+[submodule "dmf-chip"]
+	url = https://github.com/conda-forge/dmf-chip-feedstock.git
+	path = feedstocks/dmf-chip
+	branch = refs/heads/master
