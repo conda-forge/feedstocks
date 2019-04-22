@@ -26198,3 +26198,7 @@
 	url = https://github.com/conda-forge/click_config_file-feedstock.git
 	path = feedstocks/click_config_file
 	branch = refs/heads/master
+[submodule "geocube"]
+	url = https://github.com/conda-forge/geocube-feedstock.git
+	path = feedstocks/geocube
+	branch = refs/heads/master
