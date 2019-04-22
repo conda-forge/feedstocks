@@ -26194,3 +26194,7 @@
 	url = https://github.com/conda-forge/rioxarray-feedstock.git
 	path = feedstocks/rioxarray
 	branch = refs/heads/master
+[submodule "click_config_file"]
+	url = https://github.com/conda-forge/click_config_file-feedstock.git
+	path = feedstocks/click_config_file
+	branch = refs/heads/master
