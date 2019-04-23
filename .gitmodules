@@ -26230,3 +26230,7 @@
 	url = https://github.com/conda-forge/ceres-solver-feedstock.git
 	path = feedstocks/ceres-solver
 	branch = refs/heads/master
+[submodule "nest-simulator"]
+	url = https://github.com/conda-forge/nest-simulator-feedstock.git
+	path = feedstocks/nest-simulator
+	branch = refs/heads/master
