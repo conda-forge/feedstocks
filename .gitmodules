@@ -26242,3 +26242,7 @@
 	url = https://github.com/conda-forge/sos-notebook-feedstock.git
 	path = feedstocks/sos-notebook
 	branch = refs/heads/master
+[submodule "r-jqr"]
+	url = https://github.com/conda-forge/r-jqr-feedstock.git
+	path = feedstocks/r-jqr
+	branch = refs/heads/master
