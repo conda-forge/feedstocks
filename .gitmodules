@@ -26238,3 +26238,7 @@
 	url = https://github.com/conda-forge/limix-plot-feedstock.git
 	path = feedstocks/limix-plot
 	branch = refs/heads/master
+[submodule "sos-notebook"]
+	url = https://github.com/conda-forge/sos-notebook-feedstock.git
+	path = feedstocks/sos-notebook
+	branch = refs/heads/master
