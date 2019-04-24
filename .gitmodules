@@ -26250,3 +26250,7 @@
 	url = https://github.com/conda-forge/perl-carp-assert-feedstock.git
 	path = feedstocks/perl-carp-assert
 	branch = refs/heads/master
+[submodule "desres-msys"]
+	url = https://github.com/conda-forge/desres-msys-feedstock.git
+	path = feedstocks/desres-msys
+	branch = refs/heads/master
