@@ -26254,3 +26254,7 @@
 	url = https://github.com/conda-forge/desres-msys-feedstock.git
 	path = feedstocks/desres-msys
 	branch = refs/heads/master
+[submodule "inchi"]
+	url = https://github.com/conda-forge/inchi-feedstock.git
+	path = feedstocks/inchi
+	branch = refs/heads/master
