@@ -26246,3 +26246,7 @@
 	url = https://github.com/conda-forge/r-jqr-feedstock.git
 	path = feedstocks/r-jqr
 	branch = refs/heads/master
+[submodule "perl-carp-assert"]
+	url = https://github.com/conda-forge/perl-carp-assert-feedstock.git
+	path = feedstocks/perl-carp-assert
+	branch = refs/heads/master
