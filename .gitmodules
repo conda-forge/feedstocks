@@ -26258,3 +26258,7 @@
 	url = https://github.com/conda-forge/inchi-feedstock.git
 	path = feedstocks/inchi
 	branch = refs/heads/master
+[submodule "csmapi"]
+	url = https://github.com/conda-forge/csmapi-feedstock.git
+	path = feedstocks/csmapi
+	branch = refs/heads/master
