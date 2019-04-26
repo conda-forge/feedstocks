@@ -26274,3 +26274,7 @@
 	url = https://github.com/conda-forge/pypif-feedstock.git
 	path = feedstocks/pypif
 	branch = refs/heads/master
+[submodule "pyzotero"]
+	url = https://github.com/conda-forge/pyzotero-feedstock.git
+	path = feedstocks/pyzotero
+	branch = refs/heads/master
