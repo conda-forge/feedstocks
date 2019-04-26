@@ -26266,3 +26266,7 @@
 	url = https://github.com/conda-forge/r-reactlog-feedstock.git
 	path = feedstocks/r-reactlog
 	branch = refs/heads/master
+[submodule "citrination-client"]
+	url = https://github.com/conda-forge/citrination-client-feedstock.git
+	path = feedstocks/citrination-client
+	branch = refs/heads/master
