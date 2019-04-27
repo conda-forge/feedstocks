@@ -26306,3 +26306,7 @@
 	url = https://github.com/conda-forge/root_pandas-feedstock.git
 	path = feedstocks/root_pandas
 	branch = refs/heads/master
+[submodule "ipytest"]
+	url = https://github.com/conda-forge/ipytest-feedstock.git
+	path = feedstocks/ipytest
+	branch = refs/heads/master
