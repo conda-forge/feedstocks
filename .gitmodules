@@ -26294,3 +26294,7 @@
 	url = https://github.com/conda-forge/ncdu-feedstock.git
 	path = feedstocks/ncdu
 	branch = refs/heads/master
+[submodule "hep_ml"]
+	url = https://github.com/conda-forge/hep_ml-feedstock.git
+	path = feedstocks/hep_ml
+	branch = refs/heads/master
