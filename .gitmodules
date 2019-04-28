@@ -26326,3 +26326,7 @@
 	url = https://github.com/conda-forge/r-kinship2-feedstock.git
 	path = feedstocks/r-kinship2
 	branch = refs/heads/master
+[submodule "r-msm"]
+	url = https://github.com/conda-forge/r-msm-feedstock.git
+	path = feedstocks/r-msm
+	branch = refs/heads/master
