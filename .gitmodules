@@ -26310,3 +26310,7 @@
 	url = https://github.com/conda-forge/ipytest-feedstock.git
 	path = feedstocks/ipytest
 	branch = refs/heads/master
+[submodule "qtsass"]
+	url = https://github.com/conda-forge/qtsass-feedstock.git
+	path = feedstocks/qtsass
+	branch = refs/heads/master
