@@ -26330,3 +26330,7 @@
 	url = https://github.com/conda-forge/r-msm-feedstock.git
 	path = feedstocks/r-msm
 	branch = refs/heads/master
+[submodule "r-mess"]
+	url = https://github.com/conda-forge/r-mess-feedstock.git
+	path = feedstocks/r-mess
+	branch = refs/heads/master
