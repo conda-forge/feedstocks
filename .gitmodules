@@ -26318,3 +26318,7 @@
 	url = https://github.com/conda-forge/r-bayestestr-feedstock.git
 	path = feedstocks/r-bayestestr
 	branch = refs/heads/master
+[submodule "r-performance"]
+	url = https://github.com/conda-forge/r-performance-feedstock.git
+	path = feedstocks/r-performance
+	branch = refs/heads/master
