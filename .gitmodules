@@ -26358,3 +26358,7 @@
 	url = https://github.com/conda-forge/google-cloud-vision-feedstock.git
 	path = feedstocks/google-cloud-vision
 	branch = refs/heads/master
+[submodule "google-cloud-translate"]
+	url = https://github.com/conda-forge/google-cloud-translate-feedstock.git
+	path = feedstocks/google-cloud-translate
+	branch = refs/heads/master
