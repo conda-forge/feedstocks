@@ -26378,3 +26378,7 @@
 	url = https://github.com/conda-forge/cpu_features-feedstock.git
 	path = feedstocks/cpu_features
 	branch = refs/heads/master
+[submodule "networkx-metis"]
+	url = https://github.com/conda-forge/networkx-metis-feedstock.git
+	path = feedstocks/networkx-metis
+	branch = refs/heads/master
