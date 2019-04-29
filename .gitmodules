@@ -26382,3 +26382,7 @@
 	url = https://github.com/conda-forge/networkx-metis-feedstock.git
 	path = feedstocks/networkx-metis
 	branch = refs/heads/master
+[submodule "jupyterlab_code_formatter"]
+	url = https://github.com/conda-forge/jupyterlab_code_formatter-feedstock.git
+	path = feedstocks/jupyterlab_code_formatter
+	branch = refs/heads/master
