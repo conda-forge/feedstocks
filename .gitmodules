@@ -26370,3 +26370,7 @@
 	url = https://github.com/conda-forge/analytics-python-feedstock.git
 	path = feedstocks/analytics-python
 	branch = refs/heads/master
+[submodule "xgeo"]
+	url = https://github.com/conda-forge/xgeo-feedstock.git
+	path = feedstocks/xgeo
+	branch = refs/heads/master
