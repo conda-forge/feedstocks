@@ -26338,3 +26338,7 @@
 	url = https://github.com/conda-forge/skopeo-feedstock.git
 	path = feedstocks/skopeo
 	branch = refs/heads/master
+[submodule "pyxem"]
+	url = https://github.com/conda-forge/pyxem-feedstock.git
+	path = feedstocks/pyxem
+	branch = refs/heads/master
