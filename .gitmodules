@@ -26366,3 +26366,7 @@
 	url = https://github.com/conda-forge/google-cloud-bigtable-feedstock.git
 	path = feedstocks/google-cloud-bigtable
 	branch = refs/heads/master
+[submodule "analytics-python"]
+	url = https://github.com/conda-forge/analytics-python-feedstock.git
+	path = feedstocks/analytics-python
+	branch = refs/heads/master
