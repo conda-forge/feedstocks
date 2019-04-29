@@ -26342,3 +26342,7 @@
 	url = https://github.com/conda-forge/pyxem-feedstock.git
 	path = feedstocks/pyxem
 	branch = refs/heads/master
+[submodule "google-cloud-spanner"]
+	url = https://github.com/conda-forge/google-cloud-spanner-feedstock.git
+	path = feedstocks/google-cloud-spanner
+	branch = refs/heads/master
