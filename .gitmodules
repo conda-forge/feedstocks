@@ -26374,3 +26374,7 @@
 	url = https://github.com/conda-forge/xgeo-feedstock.git
 	path = feedstocks/xgeo
 	branch = refs/heads/master
+[submodule "cpu_features"]
+	url = https://github.com/conda-forge/cpu_features-feedstock.git
+	path = feedstocks/cpu_features
+	branch = refs/heads/master
