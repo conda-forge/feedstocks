@@ -26362,3 +26362,7 @@
 	url = https://github.com/conda-forge/google-cloud-translate-feedstock.git
 	path = feedstocks/google-cloud-translate
 	branch = refs/heads/master
+[submodule "google-cloud-bigtable"]
+	url = https://github.com/conda-forge/google-cloud-bigtable-feedstock.git
+	path = feedstocks/google-cloud-bigtable
+	branch = refs/heads/master
