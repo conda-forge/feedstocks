@@ -26354,3 +26354,7 @@
 	url = https://github.com/conda-forge/atlasclient-feedstock.git
 	path = feedstocks/atlasclient
 	branch = refs/heads/master
+[submodule "google-cloud-vision"]
+	url = https://github.com/conda-forge/google-cloud-vision-feedstock.git
+	path = feedstocks/google-cloud-vision
+	branch = refs/heads/master
