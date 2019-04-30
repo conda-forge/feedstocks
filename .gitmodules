@@ -26386,3 +26386,7 @@
 	url = https://github.com/conda-forge/jupyterlab_code_formatter-feedstock.git
 	path = feedstocks/jupyterlab_code_formatter
 	branch = refs/heads/master
+[submodule "isce2"]
+	url = https://github.com/conda-forge/isce2-feedstock.git
+	path = feedstocks/isce2
+	branch = refs/heads/master
