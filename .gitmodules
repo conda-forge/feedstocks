@@ -26390,3 +26390,7 @@
 	url = https://github.com/conda-forge/isce2-feedstock.git
 	path = feedstocks/isce2
 	branch = refs/heads/master
+[submodule "chainmap"]
+	url = https://github.com/conda-forge/chainmap-feedstock.git
+	path = feedstocks/chainmap
+	branch = refs/heads/master
