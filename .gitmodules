@@ -26394,3 +26394,7 @@
 	url = https://github.com/conda-forge/chainmap-feedstock.git
 	path = feedstocks/chainmap
 	branch = refs/heads/master
+[submodule "gprof2dot"]
+	url = https://github.com/conda-forge/gprof2dot-feedstock.git
+	path = feedstocks/gprof2dot
+	branch = refs/heads/master
