@@ -26406,3 +26406,7 @@
 	url = https://github.com/conda-forge/pytest-profiling-feedstock.git
 	path = feedstocks/pytest-profiling
 	branch = refs/heads/master
+[submodule "nb_black"]
+	url = https://github.com/conda-forge/nb_black-feedstock.git
+	path = feedstocks/nb_black
+	branch = refs/heads/master
