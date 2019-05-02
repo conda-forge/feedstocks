@@ -26418,3 +26418,7 @@
 	url = https://github.com/conda-forge/fluidfoam-feedstock.git
 	path = feedstocks/fluidfoam
 	branch = refs/heads/master
+[submodule "asyncio-helpers"]
+	url = https://github.com/conda-forge/asyncio-helpers-feedstock.git
+	path = feedstocks/asyncio-helpers
+	branch = refs/heads/master
