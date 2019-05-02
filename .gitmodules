@@ -26430,3 +26430,7 @@
 	url = https://github.com/conda-forge/cmreshandler-feedstock.git
 	path = feedstocks/cmreshandler
 	branch = refs/heads/master
+[submodule "asn1"]
+	url = https://github.com/conda-forge/asn1-feedstock.git
+	path = feedstocks/asn1
+	branch = refs/heads/master
