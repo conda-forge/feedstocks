@@ -26426,3 +26426,7 @@
 	url = https://github.com/conda-forge/multi-mechanize-feedstock.git
 	path = feedstocks/multi-mechanize
 	branch = refs/heads/master
+[submodule "cmreshandler"]
+	url = https://github.com/conda-forge/cmreshandler-feedstock.git
+	path = feedstocks/cmreshandler
+	branch = refs/heads/master
