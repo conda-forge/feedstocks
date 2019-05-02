@@ -26434,3 +26434,7 @@
 	url = https://github.com/conda-forge/asn1-feedstock.git
 	path = feedstocks/asn1
 	branch = refs/heads/master
+[submodule "caniusepython3"]
+	url = https://github.com/conda-forge/caniusepython3-feedstock.git
+	path = feedstocks/caniusepython3
+	branch = refs/heads/master
