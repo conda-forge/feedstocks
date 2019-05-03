@@ -26458,3 +26458,7 @@
 	url = https://github.com/conda-forge/pypdb-feedstock.git
 	path = feedstocks/pypdb
 	branch = refs/heads/master
+[submodule "pyexasol"]
+	url = https://github.com/conda-forge/pyexasol-feedstock.git
+	path = feedstocks/pyexasol
+	branch = refs/heads/master
