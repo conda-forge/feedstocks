@@ -26450,3 +26450,7 @@
 	url = https://github.com/conda-forge/ecsimplesnow-feedstock.git
 	path = feedstocks/ecsimplesnow
 	branch = refs/heads/master
+[submodule "pygtail"]
+	url = https://github.com/conda-forge/pygtail-feedstock.git
+	path = feedstocks/pygtail
+	branch = refs/heads/master
