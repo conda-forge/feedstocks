@@ -26462,3 +26462,7 @@
 	url = https://github.com/conda-forge/pyexasol-feedstock.git
 	path = feedstocks/pyexasol
 	branch = refs/heads/master
+[submodule "fluids"]
+	url = https://github.com/conda-forge/fluids-feedstock.git
+	path = feedstocks/fluids
+	branch = refs/heads/master
