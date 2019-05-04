@@ -26490,3 +26490,7 @@
 	url = https://github.com/conda-forge/simplesat-feedstock.git
 	path = feedstocks/simplesat
 	branch = refs/heads/master
+[submodule "ipyxact"]
+	url = https://github.com/conda-forge/ipyxact-feedstock.git
+	path = feedstocks/ipyxact
+	branch = refs/heads/master
