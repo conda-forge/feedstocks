@@ -26466,3 +26466,7 @@
 	url = https://github.com/conda-forge/fluids-feedstock.git
 	path = feedstocks/fluids
 	branch = refs/heads/master
+[submodule "thermo"]
+	url = https://github.com/conda-forge/thermo-feedstock.git
+	path = feedstocks/thermo
+	branch = refs/heads/master
