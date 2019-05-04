@@ -26470,3 +26470,7 @@
 	url = https://github.com/conda-forge/thermo-feedstock.git
 	path = feedstocks/thermo
 	branch = refs/heads/master
+[submodule "okonomiyaki"]
+	url = https://github.com/conda-forge/okonomiyaki-feedstock.git
+	path = feedstocks/okonomiyaki
+	branch = refs/heads/master
