@@ -26486,3 +26486,7 @@
 	url = https://github.com/conda-forge/edalize-feedstock.git
 	path = feedstocks/edalize
 	branch = refs/heads/master
+[submodule "simplesat"]
+	url = https://github.com/conda-forge/simplesat-feedstock.git
+	path = feedstocks/simplesat
+	branch = refs/heads/master
