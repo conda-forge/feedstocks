@@ -26502,3 +26502,7 @@
 	url = https://github.com/conda-forge/fluidsim-feedstock.git
 	path = feedstocks/fluidsim
 	branch = refs/heads/master
+[submodule "hepmc3"]
+	url = https://github.com/conda-forge/hepmc3-feedstock.git
+	path = feedstocks/hepmc3
+	branch = refs/heads/master
