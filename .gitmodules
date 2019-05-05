@@ -26494,3 +26494,7 @@
 	url = https://github.com/conda-forge/ipyxact-feedstock.git
 	path = feedstocks/ipyxact
 	branch = refs/heads/master
+[submodule "click-repl"]
+	url = https://github.com/conda-forge/click-repl-feedstock.git
+	path = feedstocks/click-repl
+	branch = refs/heads/master
