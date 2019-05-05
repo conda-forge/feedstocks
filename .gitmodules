@@ -26498,3 +26498,7 @@
 	url = https://github.com/conda-forge/click-repl-feedstock.git
 	path = feedstocks/click-repl
 	branch = refs/heads/master
+[submodule "fluidsim"]
+	url = https://github.com/conda-forge/fluidsim-feedstock.git
+	path = feedstocks/fluidsim
+	branch = refs/heads/master
