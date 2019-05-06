@@ -26534,3 +26534,7 @@
 	url = https://github.com/conda-forge/propka-feedstock.git
 	path = feedstocks/propka
 	branch = refs/heads/master
+[submodule "toolwrapper"]
+	url = https://github.com/conda-forge/toolwrapper-feedstock.git
+	path = feedstocks/toolwrapper
+	branch = refs/heads/master
