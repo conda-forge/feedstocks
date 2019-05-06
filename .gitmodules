@@ -26518,3 +26518,7 @@
 	url = https://github.com/conda-forge/pygsi-feedstock.git
 	path = feedstocks/pygsi
 	branch = refs/heads/master
+[submodule "fts-rest"]
+	url = https://github.com/conda-forge/fts-rest-feedstock.git
+	path = feedstocks/fts-rest
+	branch = refs/heads/master
