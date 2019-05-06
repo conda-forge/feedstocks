@@ -26510,3 +26510,7 @@
 	url = https://github.com/conda-forge/fwlite-feedstock.git
 	path = feedstocks/fwlite
 	branch = refs/heads/master
+[submodule "vega-cli"]
+	url = https://github.com/conda-forge/vega-cli-feedstock.git
+	path = feedstocks/vega-cli
+	branch = refs/heads/master
