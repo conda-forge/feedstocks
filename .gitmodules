@@ -26538,3 +26538,7 @@
 	url = https://github.com/conda-forge/toolwrapper-feedstock.git
 	path = feedstocks/toolwrapper
 	branch = refs/heads/master
+[submodule "python-gist"]
+	url = https://github.com/conda-forge/python-gist-feedstock.git
+	path = feedstocks/python-gist
+	branch = refs/heads/master
