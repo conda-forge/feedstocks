@@ -26522,3 +26522,7 @@
 	url = https://github.com/conda-forge/fts-rest-feedstock.git
 	path = feedstocks/fts-rest
 	branch = refs/heads/master
+[submodule "pycurl"]
+	url = https://github.com/conda-forge/pycurl-feedstock.git
+	path = feedstocks/pycurl
+	branch = refs/heads/master
