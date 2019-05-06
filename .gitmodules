@@ -26506,3 +26506,7 @@
 	url = https://github.com/conda-forge/hepmc3-feedstock.git
 	path = feedstocks/hepmc3
 	branch = refs/heads/master
+[submodule "fwlite"]
+	url = https://github.com/conda-forge/fwlite-feedstock.git
+	path = feedstocks/fwlite
+	branch = refs/heads/master
