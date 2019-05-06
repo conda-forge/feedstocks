@@ -26526,3 +26526,7 @@
 	url = https://github.com/conda-forge/pycurl-feedstock.git
 	path = feedstocks/pycurl
 	branch = refs/heads/master
+[submodule "tlsh"]
+	url = https://github.com/conda-forge/tlsh-feedstock.git
+	path = feedstocks/tlsh
+	branch = refs/heads/master
