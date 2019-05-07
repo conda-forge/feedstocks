@@ -26566,3 +26566,7 @@
 	url = https://github.com/conda-forge/libwapiti-feedstock.git
 	path = feedstocks/libwapiti
 	branch = refs/heads/master
+[submodule "pynvml"]
+	url = https://github.com/conda-forge/pynvml-feedstock.git
+	path = feedstocks/pynvml
+	branch = refs/heads/master
