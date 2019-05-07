@@ -26578,3 +26578,7 @@
 	url = https://github.com/conda-forge/hazm-feedstock.git
 	path = feedstocks/hazm
 	branch = refs/heads/master
+[submodule "pytest-workflow"]
+	url = https://github.com/conda-forge/pytest-workflow-feedstock.git
+	path = feedstocks/pytest-workflow
+	branch = refs/heads/master
