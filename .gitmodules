@@ -26562,3 +26562,7 @@
 	url = https://github.com/conda-forge/wabisabi-feedstock.git
 	path = feedstocks/wabisabi
 	branch = refs/heads/master
+[submodule "libwapiti"]
+	url = https://github.com/conda-forge/libwapiti-feedstock.git
+	path = feedstocks/libwapiti
+	branch = refs/heads/master
