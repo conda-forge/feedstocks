@@ -26570,3 +26570,7 @@
 	url = https://github.com/conda-forge/pynvml-feedstock.git
 	path = feedstocks/pynvml
 	branch = refs/heads/master
+[submodule "dealii"]
+	url = https://github.com/conda-forge/dealii-feedstock.git
+	path = feedstocks/dealii
+	branch = refs/heads/master
