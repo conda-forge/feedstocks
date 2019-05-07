@@ -26574,3 +26574,7 @@
 	url = https://github.com/conda-forge/dealii-feedstock.git
 	path = feedstocks/dealii
 	branch = refs/heads/master
+[submodule "hazm"]
+	url = https://github.com/conda-forge/hazm-feedstock.git
+	path = feedstocks/hazm
+	branch = refs/heads/master
