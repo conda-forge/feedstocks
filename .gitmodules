@@ -26558,3 +26558,7 @@
 	url = https://github.com/conda-forge/openfile-feedstock.git
 	path = feedstocks/openfile
 	branch = refs/heads/master
+[submodule "wabisabi"]
+	url = https://github.com/conda-forge/wabisabi-feedstock.git
+	path = feedstocks/wabisabi
+	branch = refs/heads/master
