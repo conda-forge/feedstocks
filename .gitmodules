@@ -26546,3 +26546,7 @@
 	url = https://github.com/conda-forge/r-gdistance-feedstock.git
 	path = feedstocks/r-gdistance
 	branch = refs/heads/master
+[submodule "htmd-pdb2pqr"]
+	url = https://github.com/conda-forge/htmd-pdb2pqr-feedstock.git
+	path = feedstocks/htmd-pdb2pqr
+	branch = refs/heads/master
