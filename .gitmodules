@@ -26610,3 +26610,7 @@
 	url = https://github.com/conda-forge/halideir-feedstock.git
 	path = feedstocks/halideir
 	branch = refs/heads/master
+[submodule "rang"]
+	url = https://github.com/conda-forge/rang-feedstock.git
+	path = feedstocks/rang
+	branch = refs/heads/master
