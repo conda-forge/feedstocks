@@ -26598,3 +26598,7 @@
 	url = https://github.com/conda-forge/selenium-requests-feedstock.git
 	path = feedstocks/selenium-requests
 	branch = refs/heads/master
+[submodule "certipy"]
+	url = https://github.com/conda-forge/certipy-feedstock.git
+	path = feedstocks/certipy
+	branch = refs/heads/master
