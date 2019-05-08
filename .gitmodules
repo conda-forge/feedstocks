@@ -26614,3 +26614,7 @@
 	url = https://github.com/conda-forge/rang-feedstock.git
 	path = feedstocks/rang
 	branch = refs/heads/master
+[submodule "k3d"]
+	url = https://github.com/conda-forge/k3d-feedstock.git
+	path = feedstocks/k3d
+	branch = refs/heads/master
