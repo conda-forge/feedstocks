@@ -26602,3 +26602,7 @@
 	url = https://github.com/conda-forge/certipy-feedstock.git
 	path = feedstocks/certipy
 	branch = refs/heads/master
+[submodule "dlpack"]
+	url = https://github.com/conda-forge/dlpack-feedstock.git
+	path = feedstocks/dlpack
+	branch = refs/heads/master
