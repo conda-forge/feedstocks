@@ -26594,3 +26594,7 @@
 	url = https://github.com/conda-forge/dparse-feedstock.git
 	path = feedstocks/dparse
 	branch = refs/heads/master
+[submodule "selenium-requests"]
+	url = https://github.com/conda-forge/selenium-requests-feedstock.git
+	path = feedstocks/selenium-requests
+	branch = refs/heads/master
