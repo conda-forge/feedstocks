@@ -26606,3 +26606,7 @@
 	url = https://github.com/conda-forge/dlpack-feedstock.git
 	path = feedstocks/dlpack
 	branch = refs/heads/master
+[submodule "halideir"]
+	url = https://github.com/conda-forge/halideir-feedstock.git
+	path = feedstocks/halideir
+	branch = refs/heads/master
