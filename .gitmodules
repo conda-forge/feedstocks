@@ -26590,3 +26590,7 @@
 	url = https://github.com/conda-forge/dmlc-feedstock.git
 	path = feedstocks/dmlc
 	branch = refs/heads/master
+[submodule "dparse"]
+	url = https://github.com/conda-forge/dparse-feedstock.git
+	path = feedstocks/dparse
+	branch = refs/heads/master
