@@ -26622,3 +26622,7 @@
 	url = https://github.com/conda-forge/pymesh2-feedstock.git
 	path = feedstocks/pymesh2
 	branch = refs/heads/master
+[submodule "diff-cover"]
+	url = https://github.com/conda-forge/diff-cover-feedstock.git
+	path = feedstocks/diff-cover
+	branch = refs/heads/master
