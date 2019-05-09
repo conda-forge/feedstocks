@@ -26686,3 +26686,7 @@
 	url = https://github.com/conda-forge/lhcb-simpletools-feedstock.git
 	path = feedstocks/lhcb-simpletools
 	branch = refs/heads/master
+[submodule "cfn-lint"]
+	url = https://github.com/conda-forge/cfn-lint-feedstock.git
+	path = feedstocks/cfn-lint
+	branch = refs/heads/master
