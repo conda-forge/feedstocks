@@ -26638,3 +26638,7 @@
 	url = https://github.com/conda-forge/cornac-feedstock.git
 	path = feedstocks/cornac
 	branch = refs/heads/master
+[submodule "jinja2_pluralize"]
+	url = https://github.com/conda-forge/jinja2_pluralize-feedstock.git
+	path = feedstocks/jinja2_pluralize
+	branch = refs/heads/master
