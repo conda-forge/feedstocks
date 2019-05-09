@@ -26666,3 +26666,7 @@
 	url = https://github.com/conda-forge/safety-feedstock.git
 	path = feedstocks/safety
 	branch = refs/heads/master
+[submodule "aws-sam-translator"]
+	url = https://github.com/conda-forge/aws-sam-translator-feedstock.git
+	path = feedstocks/aws-sam-translator
+	branch = refs/heads/master
