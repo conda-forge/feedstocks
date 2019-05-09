@@ -26662,3 +26662,7 @@
 	url = https://github.com/conda-forge/py_lru_cache-feedstock.git
 	path = feedstocks/py_lru_cache
 	branch = refs/heads/master
+[submodule "safety"]
+	url = https://github.com/conda-forge/safety-feedstock.git
+	path = feedstocks/safety
+	branch = refs/heads/master
