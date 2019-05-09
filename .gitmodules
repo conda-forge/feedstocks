@@ -26654,3 +26654,7 @@
 	url = https://github.com/conda-forge/pydv-feedstock.git
 	path = feedstocks/pydv
 	branch = refs/heads/master
+[submodule "adaptive-scheduler"]
+	url = https://github.com/conda-forge/adaptive-scheduler-feedstock.git
+	path = feedstocks/adaptive-scheduler
+	branch = refs/heads/master
