@@ -26646,3 +26646,7 @@
 	url = https://github.com/conda-forge/kartothek-feedstock.git
 	path = feedstocks/kartothek
 	branch = refs/heads/master
+[submodule "geometric_features"]
+	url = https://github.com/conda-forge/geometric_features-feedstock.git
+	path = feedstocks/geometric_features
+	branch = refs/heads/master
