@@ -26670,3 +26670,7 @@
 	url = https://github.com/conda-forge/aws-sam-translator-feedstock.git
 	path = feedstocks/aws-sam-translator
 	branch = refs/heads/master
+[submodule "bandit"]
+	url = https://github.com/conda-forge/bandit-feedstock.git
+	path = feedstocks/bandit
+	branch = refs/heads/master
