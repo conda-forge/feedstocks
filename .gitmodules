@@ -26634,3 +26634,7 @@
 	url = https://github.com/conda-forge/r-rrblup-feedstock.git
 	path = feedstocks/r-rrblup
 	branch = refs/heads/master
+[submodule "cornac"]
+	url = https://github.com/conda-forge/cornac-feedstock.git
+	path = feedstocks/cornac
+	branch = refs/heads/master
