@@ -26702,3 +26702,7 @@
 	url = https://github.com/conda-forge/pysnooper-feedstock.git
 	path = feedstocks/pysnooper
 	branch = refs/heads/master
+[submodule "git-crypt"]
+	url = https://github.com/conda-forge/git-crypt-feedstock.git
+	path = feedstocks/git-crypt
+	branch = refs/heads/master
