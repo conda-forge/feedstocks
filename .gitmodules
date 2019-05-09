@@ -26690,3 +26690,7 @@
 	url = https://github.com/conda-forge/cfn-lint-feedstock.git
 	path = feedstocks/cfn-lint
 	branch = refs/heads/master
+[submodule "symopt"]
+	url = https://github.com/conda-forge/symopt-feedstock.git
+	path = feedstocks/symopt
+	branch = refs/heads/master
