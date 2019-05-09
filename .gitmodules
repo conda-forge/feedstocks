@@ -26678,3 +26678,7 @@
 	url = https://github.com/conda-forge/tox-conda-feedstock.git
 	path = feedstocks/tox-conda
 	branch = refs/heads/master
+[submodule "ann_visualizer"]
+	url = https://github.com/conda-forge/ann_visualizer-feedstock.git
+	path = feedstocks/ann_visualizer
+	branch = refs/heads/master
