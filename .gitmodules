@@ -26626,3 +26626,7 @@
 	url = https://github.com/conda-forge/diff-cover-feedstock.git
 	path = feedstocks/diff-cover
 	branch = refs/heads/master
+[submodule "mosestokenizer"]
+	url = https://github.com/conda-forge/mosestokenizer-feedstock.git
+	path = feedstocks/mosestokenizer
+	branch = refs/heads/master
