@@ -26658,3 +26658,7 @@
 	url = https://github.com/conda-forge/adaptive-scheduler-feedstock.git
 	path = feedstocks/adaptive-scheduler
 	branch = refs/heads/master
+[submodule "py_lru_cache"]
+	url = https://github.com/conda-forge/py_lru_cache-feedstock.git
+	path = feedstocks/py_lru_cache
+	branch = refs/heads/master
