@@ -26650,3 +26650,7 @@
 	url = https://github.com/conda-forge/geometric_features-feedstock.git
 	path = feedstocks/geometric_features
 	branch = refs/heads/master
+[submodule "pydv"]
+	url = https://github.com/conda-forge/pydv-feedstock.git
+	path = feedstocks/pydv
+	branch = refs/heads/master
