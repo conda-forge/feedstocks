@@ -26698,3 +26698,7 @@
 	url = https://github.com/conda-forge/spenc-feedstock.git
 	path = feedstocks/spenc
 	branch = refs/heads/master
+[submodule "pysnooper"]
+	url = https://github.com/conda-forge/pysnooper-feedstock.git
+	path = feedstocks/pysnooper
+	branch = refs/heads/master
