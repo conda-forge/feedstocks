@@ -26734,3 +26734,7 @@
 	url = https://github.com/conda-forge/dash-bootstrap-components-feedstock.git
 	path = feedstocks/dash-bootstrap-components
 	branch = refs/heads/master
+[submodule "uncertainpy"]
+	url = https://github.com/conda-forge/uncertainpy-feedstock.git
+	path = feedstocks/uncertainpy
+	branch = refs/heads/master
