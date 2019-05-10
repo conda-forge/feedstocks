@@ -26714,3 +26714,7 @@
 	url = https://github.com/conda-forge/bmipy-feedstock.git
 	path = feedstocks/bmipy
 	branch = refs/heads/master
+[submodule "uqpy"]
+	url = https://github.com/conda-forge/uqpy-feedstock.git
+	path = feedstocks/uqpy
+	branch = refs/heads/master
