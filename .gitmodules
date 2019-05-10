@@ -26746,3 +26746,7 @@
 	url = https://github.com/conda-forge/semantic_version-feedstock.git
 	path = feedstocks/semantic_version
 	branch = refs/heads/master
+[submodule "chi2comb"]
+	url = https://github.com/conda-forge/chi2comb-feedstock.git
+	path = feedstocks/chi2comb
+	branch = refs/heads/master
