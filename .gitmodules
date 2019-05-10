@@ -26722,3 +26722,7 @@
 	url = https://github.com/conda-forge/cromwell-feedstock.git
 	path = feedstocks/cromwell
 	branch = refs/heads/master
+[submodule "econ-ark"]
+	url = https://github.com/conda-forge/econ-ark-feedstock.git
+	path = feedstocks/econ-ark
+	branch = refs/heads/master
