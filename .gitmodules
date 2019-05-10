@@ -26742,3 +26742,7 @@
 	url = https://github.com/conda-forge/rafem-feedstock.git
 	path = feedstocks/rafem
 	branch = refs/heads/master
+[submodule "semantic_version"]
+	url = https://github.com/conda-forge/semantic_version-feedstock.git
+	path = feedstocks/semantic_version
+	branch = refs/heads/master
