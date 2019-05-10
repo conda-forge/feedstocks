@@ -26718,3 +26718,7 @@
 	url = https://github.com/conda-forge/uqpy-feedstock.git
 	path = feedstocks/uqpy
 	branch = refs/heads/master
+[submodule "cromwell"]
+	url = https://github.com/conda-forge/cromwell-feedstock.git
+	path = feedstocks/cromwell
+	branch = refs/heads/master
