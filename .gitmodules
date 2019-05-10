@@ -26730,3 +26730,7 @@
 	url = https://github.com/conda-forge/ht-feedstock.git
 	path = feedstocks/ht
 	branch = refs/heads/master
+[submodule "dash-bootstrap-components"]
+	url = https://github.com/conda-forge/dash-bootstrap-components-feedstock.git
+	path = feedstocks/dash-bootstrap-components
+	branch = refs/heads/master
