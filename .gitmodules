@@ -26750,3 +26750,7 @@
 	url = https://github.com/conda-forge/chi2comb-feedstock.git
 	path = feedstocks/chi2comb
 	branch = refs/heads/master
+[submodule "bmi-fortran"]
+	url = https://github.com/conda-forge/bmi-fortran-feedstock.git
+	path = feedstocks/bmi-fortran
+	branch = refs/heads/master
