@@ -26710,3 +26710,7 @@
 	url = https://github.com/conda-forge/lit-feedstock.git
 	path = feedstocks/lit
 	branch = refs/heads/master
+[submodule "bmipy"]
+	url = https://github.com/conda-forge/bmipy-feedstock.git
+	path = feedstocks/bmipy
+	branch = refs/heads/master
