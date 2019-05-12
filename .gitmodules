@@ -26770,3 +26770,7 @@
 	url = https://github.com/conda-forge/spaghetti-feedstock.git
 	path = feedstocks/spaghetti
 	branch = refs/heads/master
+[submodule "dlib-cpp"]
+	url = https://github.com/conda-forge/dlib-cpp-feedstock.git
+	path = feedstocks/dlib-cpp
+	branch = refs/heads/master
