@@ -26762,3 +26762,7 @@
 	url = https://github.com/conda-forge/splot-feedstock.git
 	path = feedstocks/splot
 	branch = refs/heads/master
+[submodule "mpas_tools"]
+	url = https://github.com/conda-forge/mpas_tools-feedstock.git
+	path = feedstocks/mpas_tools
+	branch = refs/heads/master
