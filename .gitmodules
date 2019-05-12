@@ -26758,3 +26758,7 @@
 	url = https://github.com/conda-forge/r-mdmr-feedstock.git
 	path = feedstocks/r-mdmr
 	branch = refs/heads/master
+[submodule "splot"]
+	url = https://github.com/conda-forge/splot-feedstock.git
+	path = feedstocks/splot
+	branch = refs/heads/master
