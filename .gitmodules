@@ -26774,3 +26774,7 @@
 	url = https://github.com/conda-forge/dlib-cpp-feedstock.git
 	path = feedstocks/dlib-cpp
 	branch = refs/heads/master
+[submodule "bitshuffle"]
+	url = https://github.com/conda-forge/bitshuffle-feedstock.git
+	path = feedstocks/bitshuffle
+	branch = refs/heads/master
