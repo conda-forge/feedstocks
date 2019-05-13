@@ -26834,3 +26834,7 @@
 	url = https://github.com/conda-forge/python-gilt-feedstock.git
 	path = feedstocks/python-gilt
 	branch = refs/heads/master
+[submodule "molecule"]
+	url = https://github.com/conda-forge/molecule-feedstock.git
+	path = feedstocks/molecule
+	branch = refs/heads/master
