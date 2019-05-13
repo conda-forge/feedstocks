@@ -26794,3 +26794,7 @@
 	url = https://github.com/conda-forge/pointpats-feedstock.git
 	path = feedstocks/pointpats
 	branch = refs/heads/master
+[submodule "tszip"]
+	url = https://github.com/conda-forge/tszip-feedstock.git
+	path = feedstocks/tszip
+	branch = refs/heads/master
