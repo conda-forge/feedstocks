@@ -26786,3 +26786,7 @@
 	url = https://github.com/conda-forge/pymt_rafem-feedstock.git
 	path = feedstocks/pymt_rafem
 	branch = refs/heads/master
+[submodule "fmrib-unpack"]
+	url = https://github.com/conda-forge/fmrib-unpack-feedstock.git
+	path = feedstocks/fmrib-unpack
+	branch = refs/heads/master
