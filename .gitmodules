@@ -26826,3 +26826,7 @@
 	url = https://github.com/conda-forge/tree-format-feedstock.git
 	path = feedstocks/tree-format
 	branch = refs/heads/master
+[submodule "pymt_ecsimplesnow"]
+	url = https://github.com/conda-forge/pymt_ecsimplesnow-feedstock.git
+	path = feedstocks/pymt_ecsimplesnow
+	branch = refs/heads/master
