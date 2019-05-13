@@ -26822,3 +26822,7 @@
 	url = https://github.com/conda-forge/ansible-lint-feedstock.git
 	path = feedstocks/ansible-lint
 	branch = refs/heads/master
+[submodule "tree-format"]
+	url = https://github.com/conda-forge/tree-format-feedstock.git
+	path = feedstocks/tree-format
+	branch = refs/heads/master
