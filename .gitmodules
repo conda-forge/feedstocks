@@ -26814,3 +26814,7 @@
 	url = https://github.com/conda-forge/chi2comb-py-feedstock.git
 	path = feedstocks/chi2comb-py
 	branch = refs/heads/master
+[submodule "gct"]
+	url = https://github.com/conda-forge/gct-feedstock.git
+	path = feedstocks/gct
+	branch = refs/heads/master
