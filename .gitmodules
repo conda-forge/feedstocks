@@ -26810,3 +26810,7 @@
 	url = https://github.com/conda-forge/anyconfig-feedstock.git
 	path = feedstocks/anyconfig
 	branch = refs/heads/master
+[submodule "chi2comb-py"]
+	url = https://github.com/conda-forge/chi2comb-py-feedstock.git
+	path = feedstocks/chi2comb-py
+	branch = refs/heads/master
