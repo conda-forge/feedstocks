@@ -26790,3 +26790,7 @@
 	url = https://github.com/conda-forge/fmrib-unpack-feedstock.git
 	path = feedstocks/fmrib-unpack
 	branch = refs/heads/master
+[submodule "pointpats"]
+	url = https://github.com/conda-forge/pointpats-feedstock.git
+	path = feedstocks/pointpats
+	branch = refs/heads/master
