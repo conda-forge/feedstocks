@@ -26806,3 +26806,7 @@
 	url = https://github.com/conda-forge/jupyter-rsession-proxy-feedstock.git
 	path = feedstocks/jupyter-rsession-proxy
 	branch = refs/heads/master
+[submodule "anyconfig"]
+	url = https://github.com/conda-forge/anyconfig-feedstock.git
+	path = feedstocks/anyconfig
+	branch = refs/heads/master
