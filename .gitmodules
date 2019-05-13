@@ -26782,3 +26782,7 @@
 	url = https://github.com/conda-forge/testinfra-feedstock.git
 	path = feedstocks/testinfra
 	branch = refs/heads/master
+[submodule "pymt_rafem"]
+	url = https://github.com/conda-forge/pymt_rafem-feedstock.git
+	path = feedstocks/pymt_rafem
+	branch = refs/heads/master
