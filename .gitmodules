@@ -26778,3 +26778,7 @@
 	url = https://github.com/conda-forge/bitshuffle-feedstock.git
 	path = feedstocks/bitshuffle
 	branch = refs/heads/master
+[submodule "testinfra"]
+	url = https://github.com/conda-forge/testinfra-feedstock.git
+	path = feedstocks/testinfra
+	branch = refs/heads/master
