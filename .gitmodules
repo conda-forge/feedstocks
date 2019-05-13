@@ -26838,3 +26838,7 @@
 	url = https://github.com/conda-forge/molecule-feedstock.git
 	path = feedstocks/molecule
 	branch = refs/heads/master
+[submodule "dcap"]
+	url = https://github.com/conda-forge/dcap-feedstock.git
+	path = feedstocks/dcap
+	branch = refs/heads/master
