@@ -26862,3 +26862,7 @@
 	url = https://github.com/conda-forge/pyshacl-feedstock.git
 	path = feedstocks/pyshacl
 	branch = refs/heads/master
+[submodule "ca-policy-lcg"]
+	url = https://github.com/conda-forge/ca-policy-lcg-feedstock.git
+	path = feedstocks/ca-policy-lcg
+	branch = refs/heads/master
