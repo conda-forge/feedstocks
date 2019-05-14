@@ -26878,3 +26878,7 @@
 	url = https://github.com/conda-forge/conda-tree-feedstock.git
 	path = feedstocks/conda-tree
 	branch = refs/heads/master
+[submodule "bayesian-optimization"]
+	url = https://github.com/conda-forge/bayesian-optimization-feedstock.git
+	path = feedstocks/bayesian-optimization
+	branch = refs/heads/master
