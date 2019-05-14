@@ -26890,3 +26890,7 @@
 	url = https://github.com/conda-forge/python-gfal2-feedstock.git
 	path = feedstocks/python-gfal2
 	branch = refs/heads/master
+[submodule "bayespy"]
+	url = https://github.com/conda-forge/bayespy-feedstock.git
+	path = feedstocks/bayespy
+	branch = refs/heads/master
