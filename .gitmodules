@@ -26882,3 +26882,7 @@
 	url = https://github.com/conda-forge/bayesian-optimization-feedstock.git
 	path = feedstocks/bayesian-optimization
 	branch = refs/heads/master
+[submodule "gfal2"]
+	url = https://github.com/conda-forge/gfal2-feedstock.git
+	path = feedstocks/gfal2
+	branch = refs/heads/master
