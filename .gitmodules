@@ -26870,3 +26870,7 @@
 	url = https://github.com/conda-forge/chiscore-feedstock.git
 	path = feedstocks/chiscore
 	branch = refs/heads/master
+[submodule "owlrl"]
+	url = https://github.com/conda-forge/owlrl-feedstock.git
+	path = feedstocks/owlrl
+	branch = refs/heads/master
