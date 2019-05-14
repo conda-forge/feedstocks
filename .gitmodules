@@ -26854,3 +26854,7 @@
 	url = https://github.com/conda-forge/stumpy-feedstock.git
 	path = feedstocks/stumpy
 	branch = refs/heads/master
+[submodule "srm-ifce"]
+	url = https://github.com/conda-forge/srm-ifce-feedstock.git
+	path = feedstocks/srm-ifce
+	branch = refs/heads/master
