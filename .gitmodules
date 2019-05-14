@@ -26850,3 +26850,7 @@
 	url = https://github.com/conda-forge/tagmaps-feedstock.git
 	path = feedstocks/tagmaps
 	branch = refs/heads/master
+[submodule "stumpy"]
+	url = https://github.com/conda-forge/stumpy-feedstock.git
+	path = feedstocks/stumpy
+	branch = refs/heads/master
