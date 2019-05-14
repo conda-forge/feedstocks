@@ -26858,3 +26858,7 @@
 	url = https://github.com/conda-forge/srm-ifce-feedstock.git
 	path = feedstocks/srm-ifce
 	branch = refs/heads/master
+[submodule "pyshacl"]
+	url = https://github.com/conda-forge/pyshacl-feedstock.git
+	path = feedstocks/pyshacl
+	branch = refs/heads/master
