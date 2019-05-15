@@ -26926,3 +26926,7 @@
 	url = https://github.com/conda-forge/r-leafpm-feedstock.git
 	path = feedstocks/r-leafpm
 	branch = refs/heads/master
+[submodule "pyvista"]
+	url = https://github.com/conda-forge/pyvista-feedstock.git
+	path = feedstocks/pyvista
+	branch = refs/heads/master
