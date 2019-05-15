@@ -26906,3 +26906,7 @@
 	url = https://github.com/conda-forge/pylops-feedstock.git
 	path = feedstocks/pylops
 	branch = refs/heads/master
+[submodule "scikit-fmm"]
+	url = https://github.com/conda-forge/scikit-fmm-feedstock.git
+	path = feedstocks/scikit-fmm
+	branch = refs/heads/master
