@@ -26914,3 +26914,7 @@
 	url = https://github.com/conda-forge/kaggle-feedstock.git
 	path = feedstocks/kaggle
 	branch = refs/heads/master
+[submodule "r-leafem"]
+	url = https://github.com/conda-forge/r-leafem-feedstock.git
+	path = feedstocks/r-leafem
+	branch = refs/heads/master
