@@ -26898,3 +26898,7 @@
 	url = https://github.com/conda-forge/dirac-grid-feedstock.git
 	path = feedstocks/dirac-grid
 	branch = refs/heads/master
+[submodule "r-platetools"]
+	url = https://github.com/conda-forge/r-platetools-feedstock.git
+	path = feedstocks/r-platetools
+	branch = refs/heads/master
