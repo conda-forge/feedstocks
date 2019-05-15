@@ -26922,3 +26922,7 @@
 	url = https://github.com/conda-forge/r-leafpop-feedstock.git
 	path = feedstocks/r-leafpop
 	branch = refs/heads/master
+[submodule "r-leafpm"]
+	url = https://github.com/conda-forge/r-leafpm-feedstock.git
+	path = feedstocks/r-leafpm
+	branch = refs/heads/master
