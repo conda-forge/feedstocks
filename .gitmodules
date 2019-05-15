@@ -26918,3 +26918,7 @@
 	url = https://github.com/conda-forge/r-leafem-feedstock.git
 	path = feedstocks/r-leafem
 	branch = refs/heads/master
+[submodule "r-leafpop"]
+	url = https://github.com/conda-forge/r-leafpop-feedstock.git
+	path = feedstocks/r-leafpop
+	branch = refs/heads/master
