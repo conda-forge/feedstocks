@@ -26930,3 +26930,7 @@
 	url = https://github.com/conda-forge/pyvista-feedstock.git
 	path = feedstocks/pyvista
 	branch = refs/heads/master
+[submodule "r-numbers"]
+	url = https://github.com/conda-forge/r-numbers-feedstock.git
+	path = feedstocks/r-numbers
+	branch = refs/heads/master
