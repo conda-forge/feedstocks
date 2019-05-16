@@ -26942,3 +26942,7 @@
 	url = https://github.com/conda-forge/r-reldist-feedstock.git
 	path = feedstocks/r-reldist
 	branch = refs/heads/master
+[submodule "r-sybil"]
+	url = https://github.com/conda-forge/r-sybil-feedstock.git
+	path = feedstocks/r-sybil
+	branch = refs/heads/master
