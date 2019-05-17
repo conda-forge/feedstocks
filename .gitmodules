@@ -26978,3 +26978,7 @@
 	url = https://github.com/conda-forge/lhcbdirac-config-feedstock.git
 	path = feedstocks/lhcbdirac-config
 	branch = refs/heads/master
+[submodule "des-desmeds"]
+	url = https://github.com/conda-forge/des-desmeds-feedstock.git
+	path = feedstocks/des-desmeds
+	branch = refs/heads/master
