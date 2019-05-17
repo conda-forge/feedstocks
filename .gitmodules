@@ -26990,3 +26990,7 @@
 	url = https://github.com/conda-forge/pymt_landlab-feedstock.git
 	path = feedstocks/pymt_landlab
 	branch = refs/heads/master
+[submodule "gdrive"]
+	url = https://github.com/conda-forge/gdrive-feedstock.git
+	path = feedstocks/gdrive
+	branch = refs/heads/master
