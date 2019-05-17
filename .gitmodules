@@ -26982,3 +26982,7 @@
 	url = https://github.com/conda-forge/des-desmeds-feedstock.git
 	path = feedstocks/des-desmeds
 	branch = refs/heads/master
+[submodule "meds"]
+	url = https://github.com/conda-forge/meds-feedstock.git
+	path = feedstocks/meds
+	branch = refs/heads/master
