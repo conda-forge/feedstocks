@@ -26998,3 +26998,7 @@
 	url = https://github.com/conda-forge/koalas-feedstock.git
 	path = feedstocks/koalas
 	branch = refs/heads/master
+[submodule "pytest-bdd"]
+	url = https://github.com/conda-forge/pytest-bdd-feedstock.git
+	path = feedstocks/pytest-bdd
+	branch = refs/heads/master
