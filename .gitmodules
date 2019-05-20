@@ -27014,3 +27014,7 @@
 	url = https://github.com/conda-forge/plumed-feedstock.git
 	path = feedstocks/plumed
 	branch = refs/heads/master
+[submodule "pymcr"]
+	url = https://github.com/conda-forge/pymcr-feedstock.git
+	path = feedstocks/pymcr
+	branch = refs/heads/master
