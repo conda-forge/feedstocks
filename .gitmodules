@@ -27042,3 +27042,7 @@
 	url = https://github.com/conda-forge/ipysankeywidget-feedstock.git
 	path = feedstocks/ipysankeywidget
 	branch = refs/heads/master
+[submodule "formulas"]
+	url = https://github.com/conda-forge/formulas-feedstock.git
+	path = feedstocks/formulas
+	branch = refs/heads/master
