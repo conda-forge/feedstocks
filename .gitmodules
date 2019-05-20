@@ -27022,3 +27022,7 @@
 	url = https://github.com/conda-forge/champ-feedstock.git
 	path = feedstocks/champ
 	branch = refs/heads/master
+[submodule "bletchley"]
+	url = https://github.com/conda-forge/bletchley-feedstock.git
+	path = feedstocks/bletchley
+	branch = refs/heads/master
