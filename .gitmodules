@@ -27010,3 +27010,7 @@
 	url = https://github.com/conda-forge/segregation-feedstock.git
 	path = feedstocks/segregation
 	branch = refs/heads/master
+[submodule "plumed"]
+	url = https://github.com/conda-forge/plumed-feedstock.git
+	path = feedstocks/plumed
+	branch = refs/heads/master
