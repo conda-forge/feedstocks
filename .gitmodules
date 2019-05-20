@@ -27046,3 +27046,7 @@
 	url = https://github.com/conda-forge/formulas-feedstock.git
 	path = feedstocks/formulas
 	branch = refs/heads/master
+[submodule "schedula"]
+	url = https://github.com/conda-forge/schedula-feedstock.git
+	path = feedstocks/schedula
+	branch = refs/heads/master
