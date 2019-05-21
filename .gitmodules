@@ -27054,3 +27054,7 @@
 	url = https://github.com/conda-forge/arviz-feedstock.git
 	path = feedstocks/arviz
 	branch = refs/heads/master
+[submodule "jsonpath"]
+	url = https://github.com/conda-forge/jsonpath-feedstock.git
+	path = feedstocks/jsonpath
+	branch = refs/heads/master
