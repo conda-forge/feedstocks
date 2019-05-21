@@ -27050,3 +27050,7 @@
 	url = https://github.com/conda-forge/schedula-feedstock.git
 	path = feedstocks/schedula
 	branch = refs/heads/master
+[submodule "arviz"]
+	url = https://github.com/conda-forge/arviz-feedstock.git
+	path = feedstocks/arviz
+	branch = refs/heads/master
