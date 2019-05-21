@@ -27058,3 +27058,7 @@
 	url = https://github.com/conda-forge/jsonpath-feedstock.git
 	path = feedstocks/jsonpath
 	branch = refs/heads/master
+[submodule "parmap"]
+	url = https://github.com/conda-forge/parmap-feedstock.git
+	path = feedstocks/parmap
+	branch = refs/heads/master
