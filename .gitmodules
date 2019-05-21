@@ -27074,3 +27074,7 @@
 	url = https://github.com/conda-forge/questplus-feedstock.git
 	path = feedstocks/questplus
 	branch = refs/heads/master
+[submodule "mordred"]
+	url = https://github.com/conda-forge/mordred-feedstock.git
+	path = feedstocks/mordred
+	branch = refs/heads/master
