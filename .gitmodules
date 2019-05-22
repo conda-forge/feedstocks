@@ -27078,3 +27078,7 @@
 	url = https://github.com/conda-forge/mordred-feedstock.git
 	path = feedstocks/mordred
 	branch = refs/heads/master
+[submodule "pyplis"]
+	url = https://github.com/conda-forge/pyplis-feedstock.git
+	path = feedstocks/pyplis
+	branch = refs/heads/master
