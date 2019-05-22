@@ -27086,3 +27086,7 @@
 	url = https://github.com/conda-forge/struct-lmm-feedstock.git
 	path = feedstocks/struct-lmm
 	branch = refs/heads/master
+[submodule "laspy"]
+	url = https://github.com/conda-forge/laspy-feedstock.git
+	path = feedstocks/laspy
+	branch = refs/heads/master
