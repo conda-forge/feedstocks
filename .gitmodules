@@ -27110,3 +27110,7 @@
 	url = https://github.com/conda-forge/rockhound-feedstock.git
 	path = feedstocks/rockhound
 	branch = refs/heads/master
+[submodule "openmesh-python"]
+	url = https://github.com/conda-forge/openmesh-python-feedstock.git
+	path = feedstocks/openmesh-python
+	branch = refs/heads/master
