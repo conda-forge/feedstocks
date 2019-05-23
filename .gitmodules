@@ -27114,3 +27114,7 @@
 	url = https://github.com/conda-forge/openmesh-python-feedstock.git
 	path = feedstocks/openmesh-python
 	branch = refs/heads/master
+[submodule "google-compute-engine"]
+	url = https://github.com/conda-forge/google-compute-engine-feedstock.git
+	path = feedstocks/google-compute-engine
+	branch = refs/heads/master
