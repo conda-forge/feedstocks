@@ -27098,3 +27098,7 @@
 	url = https://github.com/conda-forge/fakeredis-feedstock.git
 	path = feedstocks/fakeredis
 	branch = refs/heads/master
+[submodule "omniscidb-cpu"]
+	url = https://github.com/conda-forge/omniscidb-cpu-feedstock.git
+	path = feedstocks/omniscidb-cpu
+	branch = refs/heads/master
