@@ -27106,3 +27106,7 @@
 	url = https://github.com/conda-forge/sparsehash-c11-feedstock.git
 	path = feedstocks/sparsehash-c11
 	branch = refs/heads/master
+[submodule "rockhound"]
+	url = https://github.com/conda-forge/rockhound-feedstock.git
+	path = feedstocks/rockhound
+	branch = refs/heads/master
