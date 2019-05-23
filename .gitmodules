@@ -27122,3 +27122,7 @@
 	url = https://github.com/conda-forge/google-cloud-datastore-feedstock.git
 	path = feedstocks/google-cloud-datastore
 	branch = refs/heads/master
+[submodule "sregistry"]
+	url = https://github.com/conda-forge/sregistry-feedstock.git
+	path = feedstocks/sregistry
+	branch = refs/heads/master
