@@ -27102,3 +27102,7 @@
 	url = https://github.com/conda-forge/omniscidb-cpu-feedstock.git
 	path = feedstocks/omniscidb-cpu
 	branch = refs/heads/master
+[submodule "sparsehash-c11"]
+	url = https://github.com/conda-forge/sparsehash-c11-feedstock.git
+	path = feedstocks/sparsehash-c11
+	branch = refs/heads/master
