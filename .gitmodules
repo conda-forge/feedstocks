@@ -27130,3 +27130,7 @@
 	url = https://github.com/conda-forge/closely-feedstock.git
 	path = feedstocks/closely
 	branch = refs/heads/master
+[submodule "mkdocs-markdownextradata-plugin"]
+	url = https://github.com/conda-forge/mkdocs-markdownextradata-plugin-feedstock.git
+	path = feedstocks/mkdocs-markdownextradata-plugin
+	branch = refs/heads/master
