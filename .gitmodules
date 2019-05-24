@@ -27126,3 +27126,7 @@
 	url = https://github.com/conda-forge/sregistry-feedstock.git
 	path = feedstocks/sregistry
 	branch = refs/heads/master
+[submodule "closely"]
+	url = https://github.com/conda-forge/closely-feedstock.git
+	path = feedstocks/closely
+	branch = refs/heads/master
