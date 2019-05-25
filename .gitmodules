@@ -27134,3 +27134,7 @@
 	url = https://github.com/conda-forge/mkdocs-markdownextradata-plugin-feedstock.git
 	path = feedstocks/mkdocs-markdownextradata-plugin
 	branch = refs/heads/master
+[submodule "jupyterlab_pygments"]
+	url = https://github.com/conda-forge/jupyterlab_pygments-feedstock.git
+	path = feedstocks/jupyterlab_pygments
+	branch = refs/heads/master
