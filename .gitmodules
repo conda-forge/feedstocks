@@ -27146,3 +27146,7 @@
 	url = https://github.com/conda-forge/fzf-feedstock.git
 	path = feedstocks/fzf
 	branch = refs/heads/master
+[submodule "pymdown-extensions"]
+	url = https://github.com/conda-forge/pymdown-extensions-feedstock.git
+	path = feedstocks/pymdown-extensions
+	branch = refs/heads/master
