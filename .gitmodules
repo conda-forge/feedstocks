@@ -27150,3 +27150,7 @@
 	url = https://github.com/conda-forge/pymdown-extensions-feedstock.git
 	path = feedstocks/pymdown-extensions
 	branch = refs/heads/master
+[submodule "docxtpl"]
+	url = https://github.com/conda-forge/docxtpl-feedstock.git
+	path = feedstocks/docxtpl
+	branch = refs/heads/master
