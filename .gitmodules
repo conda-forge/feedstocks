@@ -27138,3 +27138,7 @@
 	url = https://github.com/conda-forge/jupyterlab_pygments-feedstock.git
 	path = feedstocks/jupyterlab_pygments
 	branch = refs/heads/master
+[submodule "git-sizer"]
+	url = https://github.com/conda-forge/git-sizer-feedstock.git
+	path = feedstocks/git-sizer
+	branch = refs/heads/master
