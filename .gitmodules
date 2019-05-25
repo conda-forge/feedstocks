@@ -27142,3 +27142,7 @@
 	url = https://github.com/conda-forge/git-sizer-feedstock.git
 	path = feedstocks/git-sizer
 	branch = refs/heads/master
+[submodule "fzf"]
+	url = https://github.com/conda-forge/fzf-feedstock.git
+	path = feedstocks/fzf
+	branch = refs/heads/master
