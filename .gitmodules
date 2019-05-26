@@ -27154,3 +27154,7 @@
 	url = https://github.com/conda-forge/docxtpl-feedstock.git
 	path = feedstocks/docxtpl
 	branch = refs/heads/master
+[submodule "libssh"]
+	url = https://github.com/conda-forge/libssh-feedstock.git
+	path = feedstocks/libssh
+	branch = refs/heads/master
