@@ -27162,3 +27162,7 @@
 	url = https://github.com/conda-forge/exiv2-feedstock.git
 	path = feedstocks/exiv2
 	branch = refs/heads/master
+[submodule "py-plumed"]
+	url = https://github.com/conda-forge/py-plumed-feedstock.git
+	path = feedstocks/py-plumed
+	branch = refs/heads/master
