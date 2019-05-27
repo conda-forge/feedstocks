@@ -27170,3 +27170,7 @@
 	url = https://github.com/conda-forge/gooey-feedstock.git
 	path = feedstocks/gooey
 	branch = refs/heads/master
+[submodule "lfpy"]
+	url = https://github.com/conda-forge/lfpy-feedstock.git
+	path = feedstocks/lfpy
+	branch = refs/heads/master
