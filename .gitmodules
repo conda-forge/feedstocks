@@ -27166,3 +27166,7 @@
 	url = https://github.com/conda-forge/py-plumed-feedstock.git
 	path = feedstocks/py-plumed
 	branch = refs/heads/master
+[submodule "gooey"]
+	url = https://github.com/conda-forge/gooey-feedstock.git
+	path = feedstocks/gooey
+	branch = refs/heads/master
