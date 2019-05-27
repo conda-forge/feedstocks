@@ -27158,3 +27158,7 @@
 	url = https://github.com/conda-forge/libssh-feedstock.git
 	path = feedstocks/libssh
 	branch = refs/heads/master
+[submodule "exiv2"]
+	url = https://github.com/conda-forge/exiv2-feedstock.git
+	path = feedstocks/exiv2
+	branch = refs/heads/master
