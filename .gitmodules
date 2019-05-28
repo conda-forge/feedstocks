@@ -27202,3 +27202,7 @@
 	url = https://github.com/conda-forge/arctic-feedstock.git
 	path = feedstocks/arctic
 	branch = refs/heads/master
+[submodule "pandas_market_calendars"]
+	url = https://github.com/conda-forge/pandas_market_calendars-feedstock.git
+	path = feedstocks/pandas_market_calendars
+	branch = refs/heads/master
