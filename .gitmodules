@@ -27206,3 +27206,7 @@
 	url = https://github.com/conda-forge/pandas_market_calendars-feedstock.git
 	path = feedstocks/pandas_market_calendars
 	branch = refs/heads/master
+[submodule "mkdocs-material"]
+	url = https://github.com/conda-forge/mkdocs-material-feedstock.git
+	path = feedstocks/mkdocs-material
+	branch = refs/heads/master
