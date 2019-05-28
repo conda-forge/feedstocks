@@ -27194,3 +27194,7 @@
 	url = https://github.com/conda-forge/r-rmdformats-feedstock.git
 	path = feedstocks/r-rmdformats
 	branch = refs/heads/master
+[submodule "notebookscripter"]
+	url = https://github.com/conda-forge/notebookscripter-feedstock.git
+	path = feedstocks/notebookscripter
+	branch = refs/heads/master
