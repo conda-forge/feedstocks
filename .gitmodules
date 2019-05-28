@@ -27210,3 +27210,7 @@
 	url = https://github.com/conda-forge/mkdocs-material-feedstock.git
 	path = feedstocks/mkdocs-material
 	branch = refs/heads/master
+[submodule "pyomeca"]
+	url = https://github.com/conda-forge/pyomeca-feedstock.git
+	path = feedstocks/pyomeca
+	branch = refs/heads/master
