@@ -27178,3 +27178,7 @@
 	url = https://github.com/conda-forge/ripgrep-feedstock.git
 	path = feedstocks/ripgrep
 	branch = refs/heads/master
+[submodule "fd-find"]
+	url = https://github.com/conda-forge/fd-find-feedstock.git
+	path = feedstocks/fd-find
+	branch = refs/heads/master
