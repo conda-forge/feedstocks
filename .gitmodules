@@ -27186,3 +27186,7 @@
 	url = https://github.com/conda-forge/hyperfine-feedstock.git
 	path = feedstocks/hyperfine
 	branch = refs/heads/master
+[submodule "r-pbmcapply"]
+	url = https://github.com/conda-forge/r-pbmcapply-feedstock.git
+	path = feedstocks/r-pbmcapply
+	branch = refs/heads/master
