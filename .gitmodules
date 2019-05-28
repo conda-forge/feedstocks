@@ -27174,3 +27174,7 @@
 	url = https://github.com/conda-forge/lfpy-feedstock.git
 	path = feedstocks/lfpy
 	branch = refs/heads/master
+[submodule "ripgrep"]
+	url = https://github.com/conda-forge/ripgrep-feedstock.git
+	path = feedstocks/ripgrep
+	branch = refs/heads/master
