@@ -27198,3 +27198,7 @@
 	url = https://github.com/conda-forge/notebookscripter-feedstock.git
 	path = feedstocks/notebookscripter
 	branch = refs/heads/master
+[submodule "arctic"]
+	url = https://github.com/conda-forge/arctic-feedstock.git
+	path = feedstocks/arctic
+	branch = refs/heads/master
