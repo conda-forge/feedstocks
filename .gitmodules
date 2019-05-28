@@ -27182,3 +27182,7 @@
 	url = https://github.com/conda-forge/fd-find-feedstock.git
 	path = feedstocks/fd-find
 	branch = refs/heads/master
+[submodule "hyperfine"]
+	url = https://github.com/conda-forge/hyperfine-feedstock.git
+	path = feedstocks/hyperfine
+	branch = refs/heads/master
