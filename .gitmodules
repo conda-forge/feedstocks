@@ -27222,3 +27222,7 @@
 	url = https://github.com/conda-forge/bqplot-image-gl-feedstock.git
 	path = feedstocks/bqplot-image-gl
 	branch = refs/heads/master
+[submodule "hangar"]
+	url = https://github.com/conda-forge/hangar-feedstock.git
+	path = feedstocks/hangar
+	branch = refs/heads/master
