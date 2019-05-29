@@ -27214,3 +27214,7 @@
 	url = https://github.com/conda-forge/pyomeca-feedstock.git
 	path = feedstocks/pyomeca
 	branch = refs/heads/master
+[submodule "pypsa"]
+	url = https://github.com/conda-forge/pypsa-feedstock.git
+	path = feedstocks/pypsa
+	branch = refs/heads/master
