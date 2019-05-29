@@ -27226,3 +27226,7 @@
 	url = https://github.com/conda-forge/hangar-feedstock.git
 	path = feedstocks/hangar
 	branch = refs/heads/master
+[submodule "rhapsody"]
+	url = https://github.com/conda-forge/rhapsody-feedstock.git
+	path = feedstocks/rhapsody
+	branch = refs/heads/master
