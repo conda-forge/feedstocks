@@ -27218,3 +27218,7 @@
 	url = https://github.com/conda-forge/pypsa-feedstock.git
 	path = feedstocks/pypsa
 	branch = refs/heads/master
+[submodule "bqplot-image-gl"]
+	url = https://github.com/conda-forge/bqplot-image-gl-feedstock.git
+	path = feedstocks/bqplot-image-gl
+	branch = refs/heads/master
