@@ -27230,3 +27230,7 @@
 	url = https://github.com/conda-forge/rhapsody-feedstock.git
 	path = feedstocks/rhapsody
 	branch = refs/heads/master
+[submodule "magpylib"]
+	url = https://github.com/conda-forge/magpylib-feedstock.git
+	path = feedstocks/magpylib
+	branch = refs/heads/master
