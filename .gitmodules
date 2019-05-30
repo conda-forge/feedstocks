@@ -27242,3 +27242,7 @@
 	url = https://github.com/conda-forge/guile-feedstock.git
 	path = feedstocks/guile
 	branch = refs/heads/master
+[submodule "r-dbscan"]
+	url = https://github.com/conda-forge/r-dbscan-feedstock.git
+	path = feedstocks/r-dbscan
+	branch = refs/heads/master
