@@ -27238,3 +27238,7 @@
 	url = https://github.com/conda-forge/apbs-feedstock.git
 	path = feedstocks/apbs
 	branch = refs/heads/master
+[submodule "guile"]
+	url = https://github.com/conda-forge/guile-feedstock.git
+	path = feedstocks/guile
+	branch = refs/heads/master
