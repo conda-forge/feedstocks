@@ -27234,3 +27234,7 @@
 	url = https://github.com/conda-forge/magpylib-feedstock.git
 	path = feedstocks/magpylib
 	branch = refs/heads/master
+[submodule "apbs"]
+	url = https://github.com/conda-forge/apbs-feedstock.git
+	path = feedstocks/apbs
+	branch = refs/heads/master
