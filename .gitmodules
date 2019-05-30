@@ -27246,3 +27246,7 @@
 	url = https://github.com/conda-forge/r-dbscan-feedstock.git
 	path = feedstocks/r-dbscan
 	branch = refs/heads/master
+[submodule "pywwt"]
+	url = https://github.com/conda-forge/pywwt-feedstock.git
+	path = feedstocks/pywwt
+	branch = refs/heads/master
