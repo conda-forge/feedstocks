@@ -27254,3 +27254,7 @@
 	url = https://github.com/conda-forge/ibm_db-feedstock.git
 	path = feedstocks/ibm_db
 	branch = refs/heads/master
+[submodule "dask_labextension"]
+	url = https://github.com/conda-forge/dask_labextension-feedstock.git
+	path = feedstocks/dask_labextension
+	branch = refs/heads/master
