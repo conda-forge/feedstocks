@@ -27262,3 +27262,7 @@
 	url = https://github.com/conda-forge/fastscapelib-f2py-feedstock.git
 	path = feedstocks/fastscapelib-f2py
 	branch = refs/heads/master
+[submodule "powerline-gitstatus"]
+	url = https://github.com/conda-forge/powerline-gitstatus-feedstock.git
+	path = feedstocks/powerline-gitstatus
+	branch = refs/heads/master
