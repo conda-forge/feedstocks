@@ -27258,3 +27258,7 @@
 	url = https://github.com/conda-forge/dask_labextension-feedstock.git
 	path = feedstocks/dask_labextension
 	branch = refs/heads/master
+[submodule "fastscapelib-f2py"]
+	url = https://github.com/conda-forge/fastscapelib-f2py-feedstock.git
+	path = feedstocks/fastscapelib-f2py
+	branch = refs/heads/master
