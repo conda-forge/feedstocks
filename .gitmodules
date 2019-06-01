@@ -27274,3 +27274,7 @@
 	url = https://github.com/conda-forge/pynndescent-feedstock.git
 	path = feedstocks/pynndescent
 	branch = refs/heads/master
+[submodule "spotpy"]
+	url = https://github.com/conda-forge/spotpy-feedstock.git
+	path = feedstocks/spotpy
+	branch = refs/heads/master
