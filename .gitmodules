@@ -27270,3 +27270,7 @@
 	url = https://github.com/conda-forge/pythonnet-feedstock.git
 	path = feedstocks/pythonnet
 	branch = refs/heads/master
+[submodule "pynndescent"]
+	url = https://github.com/conda-forge/pynndescent-feedstock.git
+	path = feedstocks/pynndescent
+	branch = refs/heads/master
