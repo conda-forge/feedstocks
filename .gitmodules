@@ -27278,3 +27278,7 @@
 	url = https://github.com/conda-forge/spotpy-feedstock.git
 	path = feedstocks/spotpy
 	branch = refs/heads/master
+[submodule "libaio"]
+	url = https://github.com/conda-forge/libaio-feedstock.git
+	path = feedstocks/libaio
+	branch = refs/heads/master
