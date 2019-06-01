@@ -27282,3 +27282,7 @@
 	url = https://github.com/conda-forge/libaio-feedstock.git
 	path = feedstocks/libaio
 	branch = refs/heads/master
+[submodule "python-libaio"]
+	url = https://github.com/conda-forge/python-libaio-feedstock.git
+	path = feedstocks/python-libaio
+	branch = refs/heads/master
