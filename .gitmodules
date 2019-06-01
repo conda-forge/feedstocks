@@ -27266,3 +27266,7 @@
 	url = https://github.com/conda-forge/powerline-gitstatus-feedstock.git
 	path = feedstocks/powerline-gitstatus
 	branch = refs/heads/master
+[submodule "pythonnet"]
+	url = https://github.com/conda-forge/pythonnet-feedstock.git
+	path = feedstocks/pythonnet
+	branch = refs/heads/master
