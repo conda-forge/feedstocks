@@ -27290,3 +27290,7 @@
 	url = https://github.com/conda-forge/r-r2winbugs-feedstock.git
 	path = feedstocks/r-r2winbugs
 	branch = refs/heads/master
+[submodule "r-r2jags"]
+	url = https://github.com/conda-forge/r-r2jags-feedstock.git
+	path = feedstocks/r-r2jags
+	branch = refs/heads/master
