@@ -27286,3 +27286,7 @@
 	url = https://github.com/conda-forge/python-libaio-feedstock.git
 	path = feedstocks/python-libaio
 	branch = refs/heads/master
+[submodule "r-r2winbugs"]
+	url = https://github.com/conda-forge/r-r2winbugs-feedstock.git
+	path = feedstocks/r-r2winbugs
+	branch = refs/heads/master
