@@ -27294,3 +27294,7 @@
 	url = https://github.com/conda-forge/r-r2jags-feedstock.git
 	path = feedstocks/r-r2jags
 	branch = refs/heads/master
+[submodule "r-miscf"]
+	url = https://github.com/conda-forge/r-miscf-feedstock.git
+	path = feedstocks/r-miscf
+	branch = refs/heads/master
