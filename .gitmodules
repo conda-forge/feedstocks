@@ -27310,3 +27310,7 @@
 	url = https://github.com/conda-forge/et-xmlfile-feedstock.git
 	path = feedstocks/et-xmlfile
 	branch = refs/heads/master
+[submodule "synphot"]
+	url = https://github.com/conda-forge/synphot-feedstock.git
+	path = feedstocks/synphot
+	branch = refs/heads/master
