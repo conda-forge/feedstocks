@@ -27338,3 +27338,7 @@
 	url = https://github.com/conda-forge/flake8-black-feedstock.git
 	path = feedstocks/flake8-black
 	branch = refs/heads/master
+[submodule "plasmapy"]
+	url = https://github.com/conda-forge/plasmapy-feedstock.git
+	path = feedstocks/plasmapy
+	branch = refs/heads/master
