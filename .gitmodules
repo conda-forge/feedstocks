@@ -27362,3 +27362,7 @@
 	url = https://github.com/conda-forge/linetools-feedstock.git
 	path = feedstocks/linetools
 	branch = refs/heads/master
+[submodule "xclim"]
+	url = https://github.com/conda-forge/xclim-feedstock.git
+	path = feedstocks/xclim
+	branch = refs/heads/master
