@@ -27350,3 +27350,7 @@
 	url = https://github.com/conda-forge/mscorefonts-feedstock.git
 	path = feedstocks/mscorefonts
 	branch = refs/heads/master
+[submodule "flake8-rst-docstrings"]
+	url = https://github.com/conda-forge/flake8-rst-docstrings-feedstock.git
+	path = feedstocks/flake8-rst-docstrings
+	branch = refs/heads/master
