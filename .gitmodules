@@ -27318,3 +27318,7 @@
 	url = https://github.com/conda-forge/ambertools-feedstock.git
 	path = feedstocks/ambertools
 	branch = refs/heads/master
+[submodule "pygal"]
+	url = https://github.com/conda-forge/pygal-feedstock.git
+	path = feedstocks/pygal
+	branch = refs/heads/master
