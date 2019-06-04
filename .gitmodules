@@ -27346,3 +27346,7 @@
 	url = https://github.com/conda-forge/cabextract-feedstock.git
 	path = feedstocks/cabextract
 	branch = refs/heads/master
+[submodule "mscorefonts"]
+	url = https://github.com/conda-forge/mscorefonts-feedstock.git
+	path = feedstocks/mscorefonts
+	branch = refs/heads/master
