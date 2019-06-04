@@ -27330,3 +27330,7 @@
 	url = https://github.com/conda-forge/transitions-feedstock.git
 	path = feedstocks/transitions
 	branch = refs/heads/master
+[submodule "r-sitmo"]
+	url = https://github.com/conda-forge/r-sitmo-feedstock.git
+	path = feedstocks/r-sitmo
+	branch = refs/heads/master
