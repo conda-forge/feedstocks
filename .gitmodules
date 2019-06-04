@@ -27358,3 +27358,7 @@
 	url = https://github.com/conda-forge/stsynphot-feedstock.git
 	path = feedstocks/stsynphot
 	branch = refs/heads/master
+[submodule "linetools"]
+	url = https://github.com/conda-forge/linetools-feedstock.git
+	path = feedstocks/linetools
+	branch = refs/heads/master
