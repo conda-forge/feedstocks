@@ -27334,3 +27334,7 @@
 	url = https://github.com/conda-forge/r-sitmo-feedstock.git
 	path = feedstocks/r-sitmo
 	branch = refs/heads/master
+[submodule "flake8-black"]
+	url = https://github.com/conda-forge/flake8-black-feedstock.git
+	path = feedstocks/flake8-black
+	branch = refs/heads/master
