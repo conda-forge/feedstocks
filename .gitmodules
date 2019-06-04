@@ -27322,3 +27322,7 @@
 	url = https://github.com/conda-forge/pygal-feedstock.git
 	path = feedstocks/pygal
 	branch = refs/heads/master
+[submodule "epics-base"]
+	url = https://github.com/conda-forge/epics-base-feedstock.git
+	path = feedstocks/epics-base
+	branch = refs/heads/master
