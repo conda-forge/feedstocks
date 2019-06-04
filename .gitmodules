@@ -27342,3 +27342,7 @@
 	url = https://github.com/conda-forge/plasmapy-feedstock.git
 	path = feedstocks/plasmapy
 	branch = refs/heads/master
+[submodule "cabextract"]
+	url = https://github.com/conda-forge/cabextract-feedstock.git
+	path = feedstocks/cabextract
+	branch = refs/heads/master
