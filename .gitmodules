@@ -27366,3 +27366,7 @@
 	url = https://github.com/conda-forge/xclim-feedstock.git
 	path = feedstocks/xclim
 	branch = refs/heads/master
+[submodule "rbdl"]
+	url = https://github.com/conda-forge/rbdl-feedstock.git
+	path = feedstocks/rbdl
+	branch = refs/heads/master
