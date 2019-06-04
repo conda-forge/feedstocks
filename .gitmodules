@@ -27326,3 +27326,7 @@
 	url = https://github.com/conda-forge/epics-base-feedstock.git
 	path = feedstocks/epics-base
 	branch = refs/heads/master
+[submodule "transitions"]
+	url = https://github.com/conda-forge/transitions-feedstock.git
+	path = feedstocks/transitions
+	branch = refs/heads/master
