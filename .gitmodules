@@ -27382,3 +27382,7 @@
 	url = https://github.com/conda-forge/acpype-feedstock.git
 	path = feedstocks/acpype
 	branch = refs/heads/master
+[submodule "cm-unicode"]
+	url = https://github.com/conda-forge/cm-unicode-feedstock.git
+	path = feedstocks/cm-unicode
+	branch = refs/heads/master
