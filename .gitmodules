@@ -27378,3 +27378,7 @@
 	url = https://github.com/conda-forge/albumentations-feedstock.git
 	path = feedstocks/albumentations
 	branch = refs/heads/master
+[submodule "acpype"]
+	url = https://github.com/conda-forge/acpype-feedstock.git
+	path = feedstocks/acpype
+	branch = refs/heads/master
