@@ -27370,3 +27370,7 @@
 	url = https://github.com/conda-forge/rbdl-feedstock.git
 	path = feedstocks/rbdl
 	branch = refs/heads/master
+[submodule "imgaug"]
+	url = https://github.com/conda-forge/imgaug-feedstock.git
+	path = feedstocks/imgaug
+	branch = refs/heads/master
