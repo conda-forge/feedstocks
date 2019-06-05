@@ -27374,3 +27374,7 @@
 	url = https://github.com/conda-forge/imgaug-feedstock.git
 	path = feedstocks/imgaug
 	branch = refs/heads/master
+[submodule "albumentations"]
+	url = https://github.com/conda-forge/albumentations-feedstock.git
+	path = feedstocks/albumentations
+	branch = refs/heads/master
