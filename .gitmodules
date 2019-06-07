@@ -27410,3 +27410,7 @@
 	url = https://github.com/conda-forge/maup-feedstock.git
 	path = feedstocks/maup
 	branch = refs/heads/master
+[submodule "r-redshifttools"]
+	url = https://github.com/conda-forge/r-redshifttools-feedstock.git
+	path = feedstocks/r-redshifttools
+	branch = refs/heads/master
