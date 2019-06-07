@@ -27426,3 +27426,7 @@
 	url = https://github.com/conda-forge/ansible-kernel-feedstock.git
 	path = feedstocks/ansible-kernel
 	branch = refs/heads/master
+[submodule "watchme"]
+	url = https://github.com/conda-forge/watchme-feedstock.git
+	path = feedstocks/watchme
+	branch = refs/heads/master
