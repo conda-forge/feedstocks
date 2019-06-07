@@ -27390,3 +27390,7 @@
 	url = https://github.com/conda-forge/issho-feedstock.git
 	path = feedstocks/issho
 	branch = refs/heads/master
+[submodule "pcaspy"]
+	url = https://github.com/conda-forge/pcaspy-feedstock.git
+	path = feedstocks/pcaspy
+	branch = refs/heads/master
