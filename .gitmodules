@@ -27422,3 +27422,7 @@
 	url = https://github.com/conda-forge/ansible-runner-feedstock.git
 	path = feedstocks/ansible-runner
 	branch = refs/heads/master
+[submodule "ansible-kernel"]
+	url = https://github.com/conda-forge/ansible-kernel-feedstock.git
+	path = feedstocks/ansible-kernel
+	branch = refs/heads/master
