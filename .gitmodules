@@ -27398,3 +27398,7 @@
 	url = https://github.com/conda-forge/biorbd-feedstock.git
 	path = feedstocks/biorbd
 	branch = refs/heads/master
+[submodule "fluidimage"]
+	url = https://github.com/conda-forge/fluidimage-feedstock.git
+	path = feedstocks/fluidimage
+	branch = refs/heads/master
