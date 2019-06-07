@@ -27430,3 +27430,7 @@
 	url = https://github.com/conda-forge/watchme-feedstock.git
 	path = feedstocks/watchme
 	branch = refs/heads/master
+[submodule "r-dqrng"]
+	url = https://github.com/conda-forge/r-dqrng-feedstock.git
+	path = feedstocks/r-dqrng
+	branch = refs/heads/master
