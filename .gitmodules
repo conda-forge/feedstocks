@@ -27434,3 +27434,7 @@
 	url = https://github.com/conda-forge/r-dqrng-feedstock.git
 	path = feedstocks/r-dqrng
 	branch = refs/heads/master
+[submodule "pygeohash"]
+	url = https://github.com/conda-forge/pygeohash-feedstock.git
+	path = feedstocks/pygeohash
+	branch = refs/heads/master
