@@ -27442,3 +27442,7 @@
 	url = https://github.com/conda-forge/minio-feedstock.git
 	path = feedstocks/minio
 	branch = refs/heads/master
+[submodule "r-uwot"]
+	url = https://github.com/conda-forge/r-uwot-feedstock.git
+	path = feedstocks/r-uwot
+	branch = refs/heads/master
