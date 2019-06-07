@@ -27386,3 +27386,7 @@
 	url = https://github.com/conda-forge/cm-unicode-feedstock.git
 	path = feedstocks/cm-unicode
 	branch = refs/heads/master
+[submodule "issho"]
+	url = https://github.com/conda-forge/issho-feedstock.git
+	path = feedstocks/issho
+	branch = refs/heads/master
