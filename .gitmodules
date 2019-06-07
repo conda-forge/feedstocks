@@ -27406,3 +27406,7 @@
 	url = https://github.com/conda-forge/aws-parallelcluster-feedstock.git
 	path = feedstocks/aws-parallelcluster
 	branch = refs/heads/master
+[submodule "maup"]
+	url = https://github.com/conda-forge/maup-feedstock.git
+	path = feedstocks/maup
+	branch = refs/heads/master
