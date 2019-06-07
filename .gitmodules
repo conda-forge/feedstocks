@@ -27402,3 +27402,7 @@
 	url = https://github.com/conda-forge/fluidimage-feedstock.git
 	path = feedstocks/fluidimage
 	branch = refs/heads/master
+[submodule "aws-parallelcluster"]
+	url = https://github.com/conda-forge/aws-parallelcluster-feedstock.git
+	path = feedstocks/aws-parallelcluster
+	branch = refs/heads/master
