@@ -27414,3 +27414,7 @@
 	url = https://github.com/conda-forge/r-redshifttools-feedstock.git
 	path = feedstocks/r-redshifttools
 	branch = refs/heads/master
+[submodule "randspg"]
+	url = https://github.com/conda-forge/randspg-feedstock.git
+	path = feedstocks/randspg
+	branch = refs/heads/master
