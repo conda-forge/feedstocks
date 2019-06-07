@@ -27418,3 +27418,7 @@
 	url = https://github.com/conda-forge/randspg-feedstock.git
 	path = feedstocks/randspg
 	branch = refs/heads/master
+[submodule "ansible-runner"]
+	url = https://github.com/conda-forge/ansible-runner-feedstock.git
+	path = feedstocks/ansible-runner
+	branch = refs/heads/master
