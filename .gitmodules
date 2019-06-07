@@ -27394,3 +27394,7 @@
 	url = https://github.com/conda-forge/pcaspy-feedstock.git
 	path = feedstocks/pcaspy
 	branch = refs/heads/master
+[submodule "biorbd"]
+	url = https://github.com/conda-forge/biorbd-feedstock.git
+	path = feedstocks/biorbd
+	branch = refs/heads/master
