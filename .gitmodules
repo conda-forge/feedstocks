@@ -27446,3 +27446,7 @@
 	url = https://github.com/conda-forge/r-uwot-feedstock.git
 	path = feedstocks/r-uwot
 	branch = refs/heads/master
+[submodule "ezca"]
+	url = https://github.com/conda-forge/ezca-feedstock.git
+	path = feedstocks/ezca
+	branch = refs/heads/master
