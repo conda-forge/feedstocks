@@ -27450,3 +27450,7 @@
 	url = https://github.com/conda-forge/ezca-feedstock.git
 	path = feedstocks/ezca
 	branch = refs/heads/master
+[submodule "datajoint"]
+	url = https://github.com/conda-forge/datajoint-feedstock.git
+	path = feedstocks/datajoint
+	branch = refs/heads/master
