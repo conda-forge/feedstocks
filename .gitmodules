@@ -27486,3 +27486,7 @@
 	url = https://github.com/conda-forge/intern-feedstock.git
 	path = feedstocks/intern
 	branch = refs/heads/master
+[submodule "biorbd-viz"]
+	url = https://github.com/conda-forge/biorbd-viz-feedstock.git
+	path = feedstocks/biorbd-viz
+	branch = refs/heads/master
