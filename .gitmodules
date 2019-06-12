@@ -27478,3 +27478,7 @@
 	url = https://github.com/conda-forge/bilby_pipe-feedstock.git
 	path = feedstocks/bilby_pipe
 	branch = refs/heads/master
+[submodule "r-prettycode"]
+	url = https://github.com/conda-forge/r-prettycode-feedstock.git
+	path = feedstocks/r-prettycode
+	branch = refs/heads/master
