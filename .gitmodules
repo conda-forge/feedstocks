@@ -27490,3 +27490,7 @@
 	url = https://github.com/conda-forge/biorbd-viz-feedstock.git
 	path = feedstocks/biorbd-viz
 	branch = refs/heads/master
+[submodule "r-cliapp"]
+	url = https://github.com/conda-forge/r-cliapp-feedstock.git
+	path = feedstocks/r-cliapp
+	branch = refs/heads/master
