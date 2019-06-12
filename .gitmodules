@@ -27482,3 +27482,7 @@
 	url = https://github.com/conda-forge/r-prettycode-feedstock.git
 	path = feedstocks/r-prettycode
 	branch = refs/heads/master
+[submodule "intern"]
+	url = https://github.com/conda-forge/intern-feedstock.git
+	path = feedstocks/intern
+	branch = refs/heads/master
