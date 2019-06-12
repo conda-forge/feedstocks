@@ -27494,3 +27494,7 @@
 	url = https://github.com/conda-forge/r-cliapp-feedstock.git
 	path = feedstocks/r-cliapp
 	branch = refs/heads/master
+[submodule "r-pkgcache"]
+	url = https://github.com/conda-forge/r-pkgcache-feedstock.git
+	path = feedstocks/r-pkgcache
+	branch = refs/heads/master
