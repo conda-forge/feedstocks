@@ -27502,3 +27502,7 @@
 	url = https://github.com/conda-forge/r-pak-feedstock.git
 	path = feedstocks/r-pak
 	branch = refs/heads/master
+[submodule "mlapack"]
+	url = https://github.com/conda-forge/mlapack-feedstock.git
+	path = feedstocks/mlapack
+	branch = refs/heads/master
