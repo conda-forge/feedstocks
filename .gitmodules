@@ -27514,3 +27514,7 @@
 	url = https://github.com/conda-forge/atpublic-feedstock.git
 	path = feedstocks/atpublic
 	branch = refs/heads/master
+[submodule "flufl.lock"]
+	url = https://github.com/conda-forge/flufl.lock-feedstock.git
+	path = feedstocks/flufl.lock
+	branch = refs/heads/master
