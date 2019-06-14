@@ -27526,3 +27526,7 @@
 	url = https://github.com/conda-forge/pycalverter-feedstock.git
 	path = feedstocks/pycalverter
 	branch = refs/heads/master
+[submodule "jam"]
+	url = https://github.com/conda-forge/jam-feedstock.git
+	path = feedstocks/jam
+	branch = refs/heads/master
