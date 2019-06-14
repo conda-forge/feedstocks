@@ -27530,3 +27530,7 @@
 	url = https://github.com/conda-forge/jam-feedstock.git
 	path = feedstocks/jam
 	branch = refs/heads/master
+[submodule "networkit"]
+	url = https://github.com/conda-forge/networkit-feedstock.git
+	path = feedstocks/networkit
+	branch = refs/heads/master
