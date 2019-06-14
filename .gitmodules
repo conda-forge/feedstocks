@@ -27518,3 +27518,7 @@
 	url = https://github.com/conda-forge/flufl.lock-feedstock.git
 	path = feedstocks/flufl.lock
 	branch = refs/heads/master
+[submodule "pyluach"]
+	url = https://github.com/conda-forge/pyluach-feedstock.git
+	path = feedstocks/pyluach
+	branch = refs/heads/master
