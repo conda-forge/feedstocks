@@ -27538,3 +27538,7 @@
 	url = https://github.com/conda-forge/piexif-feedstock.git
 	path = feedstocks/piexif
 	branch = refs/heads/master
+[submodule "wildmeshing"]
+	url = https://github.com/conda-forge/wildmeshing-feedstock.git
+	path = feedstocks/wildmeshing
+	branch = refs/heads/master
