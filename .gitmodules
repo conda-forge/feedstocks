@@ -27510,3 +27510,7 @@
 	url = https://github.com/conda-forge/fiscalyear-feedstock.git
 	path = feedstocks/fiscalyear
 	branch = refs/heads/master
+[submodule "atpublic"]
+	url = https://github.com/conda-forge/atpublic-feedstock.git
+	path = feedstocks/atpublic
+	branch = refs/heads/master
