@@ -27558,3 +27558,7 @@
 	url = https://github.com/conda-forge/voila-gridstack-feedstock.git
 	path = feedstocks/voila-gridstack
 	branch = refs/heads/master
+[submodule "saws"]
+	url = https://github.com/conda-forge/saws-feedstock.git
+	path = feedstocks/saws
+	branch = refs/heads/master
