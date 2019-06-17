@@ -27550,3 +27550,7 @@
 	url = https://github.com/conda-forge/tardis-sn-feedstock.git
 	path = feedstocks/tardis-sn
 	branch = refs/heads/master
+[submodule "labours"]
+	url = https://github.com/conda-forge/labours-feedstock.git
+	path = feedstocks/labours
+	branch = refs/heads/master
