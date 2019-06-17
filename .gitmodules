@@ -27546,3 +27546,7 @@
 	url = https://github.com/conda-forge/workalendar-feedstock.git
 	path = feedstocks/workalendar
 	branch = refs/heads/master
+[submodule "tardis-sn"]
+	url = https://github.com/conda-forge/tardis-sn-feedstock.git
+	path = feedstocks/tardis-sn
+	branch = refs/heads/master
