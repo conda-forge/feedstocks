@@ -27562,3 +27562,7 @@
 	url = https://github.com/conda-forge/saws-feedstock.git
 	path = feedstocks/saws
 	branch = refs/heads/master
+[submodule "which"]
+	url = https://github.com/conda-forge/which-feedstock.git
+	path = feedstocks/which
+	branch = refs/heads/master
