@@ -27554,3 +27554,7 @@
 	url = https://github.com/conda-forge/labours-feedstock.git
 	path = feedstocks/labours
 	branch = refs/heads/master
+[submodule "voila-gridstack"]
+	url = https://github.com/conda-forge/voila-gridstack-feedstock.git
+	path = feedstocks/voila-gridstack
+	branch = refs/heads/master
