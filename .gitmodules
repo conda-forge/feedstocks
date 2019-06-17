@@ -27566,3 +27566,7 @@
 	url = https://github.com/conda-forge/which-feedstock.git
 	path = feedstocks/which
 	branch = refs/heads/master
+[submodule "normaliz"]
+	url = https://github.com/conda-forge/normaliz-feedstock.git
+	path = feedstocks/normaliz
+	branch = refs/heads/master
