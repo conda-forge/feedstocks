@@ -27610,3 +27610,7 @@
 	url = https://github.com/conda-forge/pycomlink-feedstock.git
 	path = feedstocks/pycomlink
 	branch = refs/heads/master
+[submodule "trio-aiohttp"]
+	url = https://github.com/conda-forge/trio-aiohttp-feedstock.git
+	path = feedstocks/trio-aiohttp
+	branch = refs/heads/master
