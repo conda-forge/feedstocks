@@ -27598,3 +27598,7 @@
 	url = https://github.com/conda-forge/trio-asyncio-feedstock.git
 	path = feedstocks/trio-asyncio
 	branch = refs/heads/master
+[submodule "libbraiding"]
+	url = https://github.com/conda-forge/libbraiding-feedstock.git
+	path = feedstocks/libbraiding
+	branch = refs/heads/master
