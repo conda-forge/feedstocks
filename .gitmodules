@@ -27574,3 +27574,7 @@
 	url = https://github.com/conda-forge/miniwdl-feedstock.git
 	path = feedstocks/miniwdl
 	branch = refs/heads/master
+[submodule "pplpy"]
+	url = https://github.com/conda-forge/pplpy-feedstock.git
+	path = feedstocks/pplpy
+	branch = refs/heads/master
