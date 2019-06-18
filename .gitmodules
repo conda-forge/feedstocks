@@ -27606,3 +27606,7 @@
 	url = https://github.com/conda-forge/xontrib-ssh-agent-feedstock.git
 	path = feedstocks/xontrib-ssh-agent
 	branch = refs/heads/master
+[submodule "pycomlink"]
+	url = https://github.com/conda-forge/pycomlink-feedstock.git
+	path = feedstocks/pycomlink
+	branch = refs/heads/master
