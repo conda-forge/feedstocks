@@ -27570,3 +27570,7 @@
 	url = https://github.com/conda-forge/normaliz-feedstock.git
 	path = feedstocks/normaliz
 	branch = refs/heads/master
+[submodule "miniwdl"]
+	url = https://github.com/conda-forge/miniwdl-feedstock.git
+	path = feedstocks/miniwdl
+	branch = refs/heads/master
