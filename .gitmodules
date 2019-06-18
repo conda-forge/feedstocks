@@ -27578,3 +27578,7 @@
 	url = https://github.com/conda-forge/pplpy-feedstock.git
 	path = feedstocks/pplpy
 	branch = refs/heads/master
+[submodule "atlite"]
+	url = https://github.com/conda-forge/atlite-feedstock.git
+	path = feedstocks/atlite
+	branch = refs/heads/master
