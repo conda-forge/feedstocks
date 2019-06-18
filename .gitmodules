@@ -27582,3 +27582,7 @@
 	url = https://github.com/conda-forge/atlite-feedstock.git
 	path = feedstocks/atlite
 	branch = refs/heads/master
+[submodule "python-backtrace"]
+	url = https://github.com/conda-forge/python-backtrace-feedstock.git
+	path = feedstocks/python-backtrace
+	branch = refs/heads/master
