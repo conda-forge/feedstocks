@@ -27602,3 +27602,7 @@
 	url = https://github.com/conda-forge/libbraiding-feedstock.git
 	path = feedstocks/libbraiding
 	branch = refs/heads/master
+[submodule "xontrib-ssh-agent"]
+	url = https://github.com/conda-forge/xontrib-ssh-agent-feedstock.git
+	path = feedstocks/xontrib-ssh-agent
+	branch = refs/heads/master
