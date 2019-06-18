@@ -27590,3 +27590,7 @@
 	url = https://github.com/conda-forge/pylbm-feedstock.git
 	path = feedstocks/pylbm
 	branch = refs/heads/master
+[submodule "libhomfly"]
+	url = https://github.com/conda-forge/libhomfly-feedstock.git
+	path = feedstocks/libhomfly
+	branch = refs/heads/master
