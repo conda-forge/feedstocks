@@ -27626,3 +27626,7 @@
 	url = https://github.com/conda-forge/quart-trio-feedstock.git
 	path = feedstocks/quart-trio
 	branch = refs/heads/master
+[submodule "imod"]
+	url = https://github.com/conda-forge/imod-feedstock.git
+	path = feedstocks/imod
+	branch = refs/heads/master
