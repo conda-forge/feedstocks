@@ -27618,3 +27618,7 @@
 	url = https://github.com/conda-forge/libxkbcommon-feedstock.git
 	path = feedstocks/libxkbcommon
 	branch = refs/heads/master
+[submodule "imutils"]
+	url = https://github.com/conda-forge/imutils-feedstock.git
+	path = feedstocks/imutils
+	branch = refs/heads/master
