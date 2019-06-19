@@ -27638,3 +27638,7 @@
 	url = https://github.com/conda-forge/kitty-feedstock.git
 	path = feedstocks/kitty
 	branch = refs/heads/master
+[submodule "google-pasta"]
+	url = https://github.com/conda-forge/google-pasta-feedstock.git
+	path = feedstocks/google-pasta
+	branch = refs/heads/master
