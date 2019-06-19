@@ -27622,3 +27622,7 @@
 	url = https://github.com/conda-forge/imutils-feedstock.git
 	path = feedstocks/imutils
 	branch = refs/heads/master
+[submodule "quart-trio"]
+	url = https://github.com/conda-forge/quart-trio-feedstock.git
+	path = feedstocks/quart-trio
+	branch = refs/heads/master
