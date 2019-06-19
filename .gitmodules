@@ -27646,3 +27646,7 @@
 	url = https://github.com/conda-forge/supermercado-feedstock.git
 	path = feedstocks/supermercado
 	branch = refs/heads/master
+[submodule "rio-cogeo"]
+	url = https://github.com/conda-forge/rio-cogeo-feedstock.git
+	path = feedstocks/rio-cogeo
+	branch = refs/heads/master
