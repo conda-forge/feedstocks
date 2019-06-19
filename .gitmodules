@@ -27614,3 +27614,7 @@
 	url = https://github.com/conda-forge/trio-aiohttp-feedstock.git
 	path = feedstocks/trio-aiohttp
 	branch = refs/heads/master
+[submodule "libxkbcommon"]
+	url = https://github.com/conda-forge/libxkbcommon-feedstock.git
+	path = feedstocks/libxkbcommon
+	branch = refs/heads/master
