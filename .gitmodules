@@ -27650,3 +27650,7 @@
 	url = https://github.com/conda-forge/rio-cogeo-feedstock.git
 	path = feedstocks/rio-cogeo
 	branch = refs/heads/master
+[submodule "nbgitpuller"]
+	url = https://github.com/conda-forge/nbgitpuller-feedstock.git
+	path = feedstocks/nbgitpuller
+	branch = refs/heads/master
