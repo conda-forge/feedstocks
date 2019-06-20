@@ -27654,3 +27654,7 @@
 	url = https://github.com/conda-forge/nbgitpuller-feedstock.git
 	path = feedstocks/nbgitpuller
 	branch = refs/heads/master
+[submodule "aiohttp-security"]
+	url = https://github.com/conda-forge/aiohttp-security-feedstock.git
+	path = feedstocks/aiohttp-security
+	branch = refs/heads/master
