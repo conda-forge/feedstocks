@@ -27674,3 +27674,7 @@
 	url = https://github.com/conda-forge/aiomcache-feedstock.git
 	path = feedstocks/aiomcache
 	branch = refs/heads/master
+[submodule "aiohttp-session"]
+	url = https://github.com/conda-forge/aiohttp-session-feedstock.git
+	path = feedstocks/aiohttp-session
+	branch = refs/heads/master
