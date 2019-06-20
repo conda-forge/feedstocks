@@ -27670,3 +27670,7 @@
 	url = https://github.com/conda-forge/aioredis-feedstock.git
 	path = feedstocks/aioredis
 	branch = refs/heads/master
+[submodule "aiomcache"]
+	url = https://github.com/conda-forge/aiomcache-feedstock.git
+	path = feedstocks/aiomcache
+	branch = refs/heads/master
