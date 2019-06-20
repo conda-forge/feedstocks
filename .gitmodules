@@ -27694,3 +27694,7 @@
 	url = https://github.com/conda-forge/pypd-feedstock.git
 	path = feedstocks/pypd
 	branch = refs/heads/master
+[submodule "coq-jupyter"]
+	url = https://github.com/conda-forge/coq-jupyter-feedstock.git
+	path = feedstocks/coq-jupyter
+	branch = refs/heads/master
