@@ -27686,3 +27686,7 @@
 	url = https://github.com/conda-forge/urbansim_defaults-feedstock.git
 	path = feedstocks/urbansim_defaults
 	branch = refs/heads/master
+[submodule "pycrc"]
+	url = https://github.com/conda-forge/pycrc-feedstock.git
+	path = feedstocks/pycrc
+	branch = refs/heads/master
