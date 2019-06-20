@@ -27698,3 +27698,7 @@
 	url = https://github.com/conda-forge/coq-jupyter-feedstock.git
 	path = feedstocks/coq-jupyter
 	branch = refs/heads/master
+[submodule "pyfirmata"]
+	url = https://github.com/conda-forge/pyfirmata-feedstock.git
+	path = feedstocks/pyfirmata
+	branch = refs/heads/master
