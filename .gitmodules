@@ -27690,3 +27690,7 @@
 	url = https://github.com/conda-forge/pycrc-feedstock.git
 	path = feedstocks/pycrc
 	branch = refs/heads/master
+[submodule "pypd"]
+	url = https://github.com/conda-forge/pypd-feedstock.git
+	path = feedstocks/pypd
+	branch = refs/heads/master
