@@ -27658,3 +27658,7 @@
 	url = https://github.com/conda-forge/aiohttp-security-feedstock.git
 	path = feedstocks/aiohttp-security
 	branch = refs/heads/master
+[submodule "aiohttp-debugtoolbar"]
+	url = https://github.com/conda-forge/aiohttp-debugtoolbar-feedstock.git
+	path = feedstocks/aiohttp-debugtoolbar
+	branch = refs/heads/master
