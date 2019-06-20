@@ -27678,3 +27678,7 @@
 	url = https://github.com/conda-forge/aiohttp-session-feedstock.git
 	path = feedstocks/aiohttp-session
 	branch = refs/heads/master
+[submodule "aiohttp-jinja2"]
+	url = https://github.com/conda-forge/aiohttp-jinja2-feedstock.git
+	path = feedstocks/aiohttp-jinja2
+	branch = refs/heads/master
