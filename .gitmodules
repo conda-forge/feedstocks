@@ -27666,3 +27666,7 @@
 	url = https://github.com/conda-forge/janus-feedstock.git
 	path = feedstocks/janus
 	branch = refs/heads/master
+[submodule "aioredis"]
+	url = https://github.com/conda-forge/aioredis-feedstock.git
+	path = feedstocks/aioredis
+	branch = refs/heads/master
