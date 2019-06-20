@@ -27706,3 +27706,7 @@
 	url = https://github.com/conda-forge/gpi-feedstock.git
 	path = feedstocks/gpi
 	branch = refs/heads/master
+[submodule "seekpath"]
+	url = https://github.com/conda-forge/seekpath-feedstock.git
+	path = feedstocks/seekpath
+	branch = refs/heads/master
