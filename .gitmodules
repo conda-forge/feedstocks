@@ -27682,3 +27682,7 @@
 	url = https://github.com/conda-forge/aiohttp-jinja2-feedstock.git
 	path = feedstocks/aiohttp-jinja2
 	branch = refs/heads/master
+[submodule "urbansim_defaults"]
+	url = https://github.com/conda-forge/urbansim_defaults-feedstock.git
+	path = feedstocks/urbansim_defaults
+	branch = refs/heads/master
