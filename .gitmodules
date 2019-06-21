@@ -27726,3 +27726,7 @@
 	url = https://github.com/conda-forge/requests-async-feedstock.git
 	path = feedstocks/requests-async
 	branch = refs/heads/master
+[submodule "switch_model"]
+	url = https://github.com/conda-forge/switch_model-feedstock.git
+	path = feedstocks/switch_model
+	branch = refs/heads/master
