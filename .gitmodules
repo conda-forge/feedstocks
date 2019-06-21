@@ -27754,3 +27754,7 @@
 	url = https://github.com/conda-forge/libxkbfile-feedstock.git
 	path = feedstocks/libxkbfile
 	branch = refs/heads/master
+[submodule "xkeyboard-config"]
+	url = https://github.com/conda-forge/xkeyboard-config-feedstock.git
+	path = feedstocks/xkeyboard-config
+	branch = refs/heads/master
