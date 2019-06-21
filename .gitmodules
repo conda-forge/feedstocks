@@ -27734,3 +27734,7 @@
 	url = https://github.com/conda-forge/xrviz-feedstock.git
 	path = feedstocks/xrviz
 	branch = refs/heads/master
+[submodule "sat-stac"]
+	url = https://github.com/conda-forge/sat-stac-feedstock.git
+	path = feedstocks/sat-stac
+	branch = refs/heads/master
