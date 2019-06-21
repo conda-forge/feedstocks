@@ -27742,3 +27742,7 @@
 	url = https://github.com/conda-forge/sat-search-feedstock.git
 	path = feedstocks/sat-search
 	branch = refs/heads/master
+[submodule "xontrib-readable-traceback"]
+	url = https://github.com/conda-forge/xontrib-readable-traceback-feedstock.git
+	path = feedstocks/xontrib-readable-traceback
+	branch = refs/heads/master
