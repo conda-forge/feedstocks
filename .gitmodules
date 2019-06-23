@@ -27758,3 +27758,7 @@
 	url = https://github.com/conda-forge/xkeyboard-config-feedstock.git
 	path = feedstocks/xkeyboard-config
 	branch = refs/heads/master
+[submodule "httpcore"]
+	url = https://github.com/conda-forge/httpcore-feedstock.git
+	path = feedstocks/httpcore
+	branch = refs/heads/master
