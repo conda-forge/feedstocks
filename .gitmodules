@@ -27766,3 +27766,7 @@
 	url = https://github.com/conda-forge/deid-feedstock.git
 	path = feedstocks/deid
 	branch = refs/heads/master
+[submodule "codebraid"]
+	url = https://github.com/conda-forge/codebraid-feedstock.git
+	path = feedstocks/codebraid
+	branch = refs/heads/master
