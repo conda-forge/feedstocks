@@ -27762,3 +27762,7 @@
 	url = https://github.com/conda-forge/httpcore-feedstock.git
 	path = feedstocks/httpcore
 	branch = refs/heads/master
+[submodule "deid"]
+	url = https://github.com/conda-forge/deid-feedstock.git
+	path = feedstocks/deid
+	branch = refs/heads/master
