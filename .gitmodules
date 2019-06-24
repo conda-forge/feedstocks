@@ -27774,3 +27774,7 @@
 	url = https://github.com/conda-forge/bespon-feedstock.git
 	path = feedstocks/bespon
 	branch = refs/heads/master
+[submodule "libnl-cos6-x86_64"]
+	url = https://github.com/conda-forge/libnl-cos6-x86_64-feedstock.git
+	path = feedstocks/libnl-cos6-x86_64
+	branch = refs/heads/master
