@@ -27770,3 +27770,7 @@
 	url = https://github.com/conda-forge/codebraid-feedstock.git
 	path = feedstocks/codebraid
 	branch = refs/heads/master
+[submodule "bespon"]
+	url = https://github.com/conda-forge/bespon-feedstock.git
+	path = feedstocks/bespon
+	branch = refs/heads/master
