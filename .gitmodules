@@ -27786,3 +27786,7 @@
 	url = https://github.com/conda-forge/vdom-feedstock.git
 	path = feedstocks/vdom
 	branch = refs/heads/master
+[submodule "pyeviews"]
+	url = https://github.com/conda-forge/pyeviews-feedstock.git
+	path = feedstocks/pyeviews
+	branch = refs/heads/master
