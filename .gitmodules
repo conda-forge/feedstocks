@@ -27778,3 +27778,7 @@
 	url = https://github.com/conda-forge/libnl-cos6-x86_64-feedstock.git
 	path = feedstocks/libnl-cos6-x86_64
 	branch = refs/heads/master
+[submodule "sphinx_gmt"]
+	url = https://github.com/conda-forge/sphinx_gmt-feedstock.git
+	path = feedstocks/sphinx_gmt
+	branch = refs/heads/master
