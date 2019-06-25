@@ -27810,3 +27810,7 @@
 	url = https://github.com/conda-forge/msal-feedstock.git
 	path = feedstocks/msal
 	branch = refs/heads/master
+[submodule "pylbfgs"]
+	url = https://github.com/conda-forge/pylbfgs-feedstock.git
+	path = feedstocks/pylbfgs
+	branch = refs/heads/master
