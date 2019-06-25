@@ -27806,3 +27806,7 @@
 	url = https://github.com/conda-forge/start_jupyter_cm-feedstock.git
 	path = feedstocks/start_jupyter_cm
 	branch = refs/heads/master
+[submodule "msal"]
+	url = https://github.com/conda-forge/msal-feedstock.git
+	path = feedstocks/msal
+	branch = refs/heads/master
