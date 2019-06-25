@@ -27814,3 +27814,7 @@
 	url = https://github.com/conda-forge/pylbfgs-feedstock.git
 	path = feedstocks/pylbfgs
 	branch = refs/heads/master
+[submodule "nteract_on_jupyter"]
+	url = https://github.com/conda-forge/nteract_on_jupyter-feedstock.git
+	path = feedstocks/nteract_on_jupyter
+	branch = refs/heads/master
