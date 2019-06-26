@@ -27830,3 +27830,7 @@
 	url = https://github.com/conda-forge/r-vroom-feedstock.git
 	path = feedstocks/r-vroom
 	branch = refs/heads/master
+[submodule "goodtables"]
+	url = https://github.com/conda-forge/goodtables-feedstock.git
+	path = feedstocks/goodtables
+	branch = refs/heads/master
