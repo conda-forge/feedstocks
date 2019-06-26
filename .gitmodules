@@ -27826,3 +27826,7 @@
 	url = https://github.com/conda-forge/r-sysfonts-feedstock.git
 	path = feedstocks/r-sysfonts
 	branch = refs/heads/master
+[submodule "r-vroom"]
+	url = https://github.com/conda-forge/r-vroom-feedstock.git
+	path = feedstocks/r-vroom
+	branch = refs/heads/master
