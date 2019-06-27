@@ -27854,3 +27854,7 @@
 	url = https://github.com/conda-forge/climata-feedstock.git
 	path = feedstocks/climata
 	branch = refs/heads/master
+[submodule "hydrofunctions"]
+	url = https://github.com/conda-forge/hydrofunctions-feedstock.git
+	path = feedstocks/hydrofunctions
+	branch = refs/heads/master
