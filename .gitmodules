@@ -27870,3 +27870,7 @@
 	url = https://github.com/conda-forge/cenpy-feedstock.git
 	path = feedstocks/cenpy
 	branch = refs/heads/master
+[submodule "r-shapefiles"]
+	url = https://github.com/conda-forge/r-shapefiles-feedstock.git
+	path = feedstocks/r-shapefiles
+	branch = refs/heads/master
