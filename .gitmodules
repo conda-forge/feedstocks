@@ -27886,3 +27886,7 @@
 	url = https://github.com/conda-forge/mapboxgl-feedstock.git
 	path = feedstocks/mapboxgl
 	branch = refs/heads/master
+[submodule "richdem"]
+	url = https://github.com/conda-forge/richdem-feedstock.git
+	path = feedstocks/richdem
+	branch = refs/heads/master
