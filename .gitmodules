@@ -27894,3 +27894,7 @@
 	url = https://github.com/conda-forge/kitty-themes-feedstock.git
 	path = feedstocks/kitty-themes
 	branch = refs/heads/master
+[submodule "tf-slim"]
+	url = https://github.com/conda-forge/tf-slim-feedstock.git
+	path = feedstocks/tf-slim
+	branch = refs/heads/master
