@@ -27842,3 +27842,7 @@
 	url = https://github.com/conda-forge/r-showtextdb-feedstock.git
 	path = feedstocks/r-showtextdb
 	branch = refs/heads/master
+[submodule "nbclean"]
+	url = https://github.com/conda-forge/nbclean-feedstock.git
+	path = feedstocks/nbclean
+	branch = refs/heads/master
