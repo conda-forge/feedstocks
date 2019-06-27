@@ -27882,3 +27882,7 @@
 	url = https://github.com/conda-forge/r-rsaga-feedstock.git
 	path = feedstocks/r-rsaga
 	branch = refs/heads/master
+[submodule "mapboxgl"]
+	url = https://github.com/conda-forge/mapboxgl-feedstock.git
+	path = feedstocks/mapboxgl
+	branch = refs/heads/master
