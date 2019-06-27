@@ -27866,3 +27866,7 @@
 	url = https://github.com/conda-forge/elevation-feedstock.git
 	path = feedstocks/elevation
 	branch = refs/heads/master
+[submodule "cenpy"]
+	url = https://github.com/conda-forge/cenpy-feedstock.git
+	path = feedstocks/cenpy
+	branch = refs/heads/master
