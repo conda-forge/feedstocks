@@ -27922,3 +27922,7 @@
 	url = https://github.com/conda-forge/stackprinter-feedstock.git
 	path = feedstocks/stackprinter
 	branch = refs/heads/master
+[submodule "git-annex-remote-googledrive"]
+	url = https://github.com/conda-forge/git-annex-remote-googledrive-feedstock.git
+	path = feedstocks/git-annex-remote-googledrive
+	branch = refs/heads/master
