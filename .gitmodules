@@ -27926,3 +27926,7 @@
 	url = https://github.com/conda-forge/git-annex-remote-googledrive-feedstock.git
 	path = feedstocks/git-annex-remote-googledrive
 	branch = refs/heads/master
+[submodule "colour-runner"]
+	url = https://github.com/conda-forge/colour-runner-feedstock.git
+	path = feedstocks/colour-runner
+	branch = refs/heads/master
