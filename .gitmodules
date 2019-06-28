@@ -27918,3 +27918,7 @@
 	url = https://github.com/conda-forge/confuse-feedstock.git
 	path = feedstocks/confuse
 	branch = refs/heads/master
+[submodule "stackprinter"]
+	url = https://github.com/conda-forge/stackprinter-feedstock.git
+	path = feedstocks/stackprinter
+	branch = refs/heads/master
