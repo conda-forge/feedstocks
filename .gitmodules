@@ -27906,3 +27906,7 @@
 	url = https://github.com/conda-forge/r-broomextra-feedstock.git
 	path = feedstocks/r-broomextra
 	branch = refs/heads/master
+[submodule "crispy"]
+	url = https://github.com/conda-forge/crispy-feedstock.git
+	path = feedstocks/crispy
+	branch = refs/heads/master
