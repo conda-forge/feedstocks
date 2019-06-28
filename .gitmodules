@@ -27914,3 +27914,7 @@
 	url = https://github.com/conda-forge/r-shinybusy-feedstock.git
 	path = feedstocks/r-shinybusy
 	branch = refs/heads/master
+[submodule "confuse"]
+	url = https://github.com/conda-forge/confuse-feedstock.git
+	path = feedstocks/confuse
+	branch = refs/heads/master
