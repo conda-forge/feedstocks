@@ -27910,3 +27910,7 @@
 	url = https://github.com/conda-forge/crispy-feedstock.git
 	path = feedstocks/crispy
 	branch = refs/heads/master
+[submodule "r-shinybusy"]
+	url = https://github.com/conda-forge/r-shinybusy-feedstock.git
+	path = feedstocks/r-shinybusy
+	branch = refs/heads/master
