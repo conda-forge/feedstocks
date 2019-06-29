@@ -27938,3 +27938,7 @@
 	url = https://github.com/conda-forge/r-dtplyr-feedstock.git
 	path = feedstocks/r-dtplyr
 	branch = refs/heads/master
+[submodule "r-drake"]
+	url = https://github.com/conda-forge/r-drake-feedstock.git
+	path = feedstocks/r-drake
+	branch = refs/heads/master
