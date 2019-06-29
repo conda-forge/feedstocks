@@ -27942,3 +27942,7 @@
 	url = https://github.com/conda-forge/r-drake-feedstock.git
 	path = feedstocks/r-drake
 	branch = refs/heads/master
+[submodule "phik"]
+	url = https://github.com/conda-forge/phik-feedstock.git
+	path = feedstocks/phik
+	branch = refs/heads/master
