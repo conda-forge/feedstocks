@@ -27930,3 +27930,7 @@
 	url = https://github.com/conda-forge/colour-runner-feedstock.git
 	path = feedstocks/colour-runner
 	branch = refs/heads/master
+[submodule "r-modeldb"]
+	url = https://github.com/conda-forge/r-modeldb-feedstock.git
+	path = feedstocks/r-modeldb
+	branch = refs/heads/master
