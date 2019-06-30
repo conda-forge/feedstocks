@@ -27946,3 +27946,7 @@
 	url = https://github.com/conda-forge/phik-feedstock.git
 	path = feedstocks/phik
 	branch = refs/heads/master
+[submodule "aiochclient"]
+	url = https://github.com/conda-forge/aiochclient-feedstock.git
+	path = feedstocks/aiochclient
+	branch = refs/heads/master
