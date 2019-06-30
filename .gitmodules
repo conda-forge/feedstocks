@@ -27950,3 +27950,7 @@
 	url = https://github.com/conda-forge/aiochclient-feedstock.git
 	path = feedstocks/aiochclient
 	branch = refs/heads/master
+[submodule "psychopy"]
+	url = https://github.com/conda-forge/psychopy-feedstock.git
+	path = feedstocks/psychopy
+	branch = refs/heads/master
