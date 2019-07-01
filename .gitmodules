@@ -27966,3 +27966,7 @@
 	url = https://github.com/conda-forge/python-picard-feedstock.git
 	path = feedstocks/python-picard
 	branch = refs/heads/master
+[submodule "pyxdf"]
+	url = https://github.com/conda-forge/pyxdf-feedstock.git
+	path = feedstocks/pyxdf
+	branch = refs/heads/master
