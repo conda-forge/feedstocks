@@ -27962,3 +27962,7 @@
 	url = https://github.com/conda-forge/fisspy-feedstock.git
 	path = feedstocks/fisspy
 	branch = refs/heads/master
+[submodule "python-picard"]
+	url = https://github.com/conda-forge/python-picard-feedstock.git
+	path = feedstocks/python-picard
+	branch = refs/heads/master
