@@ -27982,3 +27982,7 @@
 	url = https://github.com/conda-forge/r-hiclimr-feedstock.git
 	path = feedstocks/r-hiclimr
 	branch = refs/heads/master
+[submodule "uriparser"]
+	url = https://github.com/conda-forge/uriparser-feedstock.git
+	path = feedstocks/uriparser
+	branch = refs/heads/master
