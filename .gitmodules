@@ -27998,3 +27998,7 @@
 	url = https://github.com/conda-forge/r-rcppthread-feedstock.git
 	path = feedstocks/r-rcppthread
 	branch = refs/heads/master
+[submodule "adios2"]
+	url = https://github.com/conda-forge/adios2-feedstock.git
+	path = feedstocks/adios2
+	branch = refs/heads/master
