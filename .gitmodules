@@ -27974,3 +27974,7 @@
 	url = https://github.com/conda-forge/python-duckdb-feedstock.git
 	path = feedstocks/python-duckdb
 	branch = refs/heads/master
+[submodule "mnelab"]
+	url = https://github.com/conda-forge/mnelab-feedstock.git
+	path = feedstocks/mnelab
+	branch = refs/heads/master
