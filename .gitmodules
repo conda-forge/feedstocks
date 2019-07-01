@@ -28002,3 +28002,7 @@
 	url = https://github.com/conda-forge/adios2-feedstock.git
 	path = feedstocks/adios2
 	branch = refs/heads/master
+[submodule "jupyter-docx-bundler"]
+	url = https://github.com/conda-forge/jupyter-docx-bundler-feedstock.git
+	path = feedstocks/jupyter-docx-bundler
+	branch = refs/heads/master
