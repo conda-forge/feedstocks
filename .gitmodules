@@ -27970,3 +27970,7 @@
 	url = https://github.com/conda-forge/pyxdf-feedstock.git
 	path = feedstocks/pyxdf
 	branch = refs/heads/master
+[submodule "python-duckdb"]
+	url = https://github.com/conda-forge/python-duckdb-feedstock.git
+	path = feedstocks/python-duckdb
+	branch = refs/heads/master
