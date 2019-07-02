@@ -28006,3 +28006,7 @@
 	url = https://github.com/conda-forge/jupyter-docx-bundler-feedstock.git
 	path = feedstocks/jupyter-docx-bundler
 	branch = refs/heads/master
+[submodule "scooby"]
+	url = https://github.com/conda-forge/scooby-feedstock.git
+	path = feedstocks/scooby
+	branch = refs/heads/master
