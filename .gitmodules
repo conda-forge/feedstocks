@@ -28022,3 +28022,7 @@
 	url = https://github.com/conda-forge/nbconvert-utils-feedstock.git
 	path = feedstocks/nbconvert-utils
 	branch = refs/heads/master
+[submodule "librdmacm-cos6-x86_64"]
+	url = https://github.com/conda-forge/librdmacm-cos6-x86_64-feedstock.git
+	path = feedstocks/librdmacm-cos6-x86_64
+	branch = refs/heads/master
