@@ -28018,3 +28018,7 @@
 	url = https://github.com/conda-forge/meshplot-feedstock.git
 	path = feedstocks/meshplot
 	branch = refs/heads/master
+[submodule "nbconvert-utils"]
+	url = https://github.com/conda-forge/nbconvert-utils-feedstock.git
+	path = feedstocks/nbconvert-utils
+	branch = refs/heads/master
