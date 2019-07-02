@@ -28010,3 +28010,7 @@
 	url = https://github.com/conda-forge/scooby-feedstock.git
 	path = feedstocks/scooby
 	branch = refs/heads/master
+[submodule "proliantutils"]
+	url = https://github.com/conda-forge/proliantutils-feedstock.git
+	path = feedstocks/proliantutils
+	branch = refs/heads/master
