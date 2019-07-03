@@ -28050,3 +28050,7 @@
 	url = https://github.com/conda-forge/cowpy-feedstock.git
 	path = feedstocks/cowpy
 	branch = refs/heads/master
+[submodule "cgns"]
+	url = https://github.com/conda-forge/cgns-feedstock.git
+	path = feedstocks/cgns
+	branch = refs/heads/master
