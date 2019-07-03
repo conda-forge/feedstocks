@@ -28038,3 +28038,7 @@
 	url = https://github.com/conda-forge/tableauserverclient-feedstock.git
 	path = feedstocks/tableauserverclient
 	branch = refs/heads/master
+[submodule "libibverbs-devel-cos6-x86_64"]
+	url = https://github.com/conda-forge/libibverbs-devel-cos6-x86_64-feedstock.git
+	path = feedstocks/libibverbs-devel-cos6-x86_64
+	branch = refs/heads/master
