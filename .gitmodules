@@ -28058,3 +28058,7 @@
 	url = https://github.com/conda-forge/_r-mutex-feedstock.git
 	path = feedstocks/_r-mutex
 	branch = refs/heads/master
+[submodule "varlink"]
+	url = https://github.com/conda-forge/varlink-feedstock.git
+	path = feedstocks/varlink
+	branch = refs/heads/master
