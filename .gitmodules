@@ -28054,3 +28054,7 @@
 	url = https://github.com/conda-forge/cgns-feedstock.git
 	path = feedstocks/cgns
 	branch = refs/heads/master
+[submodule "_r-mutex"]
+	url = https://github.com/conda-forge/_r-mutex-feedstock.git
+	path = feedstocks/_r-mutex
+	branch = refs/heads/master
