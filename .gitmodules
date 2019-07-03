@@ -28034,3 +28034,7 @@
 	url = https://github.com/conda-forge/libnl-devel-cos6-x86_64-feedstock.git
 	path = feedstocks/libnl-devel-cos6-x86_64
 	branch = refs/heads/master
+[submodule "tableauserverclient"]
+	url = https://github.com/conda-forge/tableauserverclient-feedstock.git
+	path = feedstocks/tableauserverclient
+	branch = refs/heads/master
