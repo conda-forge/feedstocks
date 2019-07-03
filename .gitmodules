@@ -28046,3 +28046,7 @@
 	url = https://github.com/conda-forge/librdmacm-devel-cos6-x86_64-feedstock.git
 	path = feedstocks/librdmacm-devel-cos6-x86_64
 	branch = refs/heads/master
+[submodule "cowpy"]
+	url = https://github.com/conda-forge/cowpy-feedstock.git
+	path = feedstocks/cowpy
+	branch = refs/heads/master
