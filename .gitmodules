@@ -28042,3 +28042,7 @@
 	url = https://github.com/conda-forge/libibverbs-devel-cos6-x86_64-feedstock.git
 	path = feedstocks/libibverbs-devel-cos6-x86_64
 	branch = refs/heads/master
+[submodule "librdmacm-devel-cos6-x86_64"]
+	url = https://github.com/conda-forge/librdmacm-devel-cos6-x86_64-feedstock.git
+	path = feedstocks/librdmacm-devel-cos6-x86_64
+	branch = refs/heads/master
