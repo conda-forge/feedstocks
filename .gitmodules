@@ -28066,3 +28066,7 @@
 	url = https://github.com/conda-forge/r-emojifont-feedstock.git
 	path = feedstocks/r-emojifont
 	branch = refs/heads/master
+[submodule "r-proxyc"]
+	url = https://github.com/conda-forge/r-proxyc-feedstock.git
+	path = feedstocks/r-proxyc
+	branch = refs/heads/master
