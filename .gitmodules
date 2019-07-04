@@ -28062,3 +28062,7 @@
 	url = https://github.com/conda-forge/varlink-feedstock.git
 	path = feedstocks/varlink
 	branch = refs/heads/master
+[submodule "r-emojifont"]
+	url = https://github.com/conda-forge/r-emojifont-feedstock.git
+	path = feedstocks/r-emojifont
+	branch = refs/heads/master
