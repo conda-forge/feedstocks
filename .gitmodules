@@ -28078,3 +28078,7 @@
 	url = https://github.com/conda-forge/aruco-feedstock.git
 	path = feedstocks/aruco
 	branch = refs/heads/master
+[submodule "datumgrid"]
+	url = https://github.com/conda-forge/datumgrid-feedstock.git
+	path = feedstocks/datumgrid
+	branch = refs/heads/master
