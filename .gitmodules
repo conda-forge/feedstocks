@@ -28070,3 +28070,7 @@
 	url = https://github.com/conda-forge/r-proxyc-feedstock.git
 	path = feedstocks/r-proxyc
 	branch = refs/heads/master
+[submodule "libical"]
+	url = https://github.com/conda-forge/libical-feedstock.git
+	path = feedstocks/libical
+	branch = refs/heads/master
