@@ -28074,3 +28074,7 @@
 	url = https://github.com/conda-forge/libical-feedstock.git
 	path = feedstocks/libical
 	branch = refs/heads/master
+[submodule "aruco"]
+	url = https://github.com/conda-forge/aruco-feedstock.git
+	path = feedstocks/aruco
+	branch = refs/heads/master
