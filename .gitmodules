@@ -28082,3 +28082,7 @@
 	url = https://github.com/conda-forge/datumgrid-feedstock.git
 	path = feedstocks/datumgrid
 	branch = refs/heads/master
+[submodule "pyqstem"]
+	url = https://github.com/conda-forge/pyqstem-feedstock.git
+	path = feedstocks/pyqstem
+	branch = refs/heads/master
