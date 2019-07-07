@@ -28106,3 +28106,7 @@
 	url = https://github.com/conda-forge/icet-feedstock.git
 	path = feedstocks/icet
 	branch = refs/heads/master
+[submodule "pyglfw"]
+	url = https://github.com/conda-forge/pyglfw-feedstock.git
+	path = feedstocks/pyglfw
+	branch = refs/heads/master
