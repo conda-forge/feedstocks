@@ -28094,3 +28094,7 @@
 	url = https://github.com/conda-forge/r-ptxqc-feedstock.git
 	path = feedstocks/r-ptxqc
 	branch = refs/heads/master
+[submodule "r-freetypeharfbuzz"]
+	url = https://github.com/conda-forge/r-freetypeharfbuzz-feedstock.git
+	path = feedstocks/r-freetypeharfbuzz
+	branch = refs/heads/master
