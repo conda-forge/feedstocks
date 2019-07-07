@@ -28114,3 +28114,7 @@
 	url = https://github.com/conda-forge/sgpp-feedstock.git
 	path = feedstocks/sgpp
 	branch = refs/heads/master
+[submodule "tikzplotlib"]
+	url = https://github.com/conda-forge/tikzplotlib-feedstock.git
+	path = feedstocks/tikzplotlib
+	branch = refs/heads/master
