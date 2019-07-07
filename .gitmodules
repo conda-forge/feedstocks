@@ -28086,3 +28086,7 @@
 	url = https://github.com/conda-forge/pyqstem-feedstock.git
 	path = feedstocks/pyqstem
 	branch = refs/heads/master
+[submodule "psqlodbc"]
+	url = https://github.com/conda-forge/psqlodbc-feedstock.git
+	path = feedstocks/psqlodbc
+	branch = refs/heads/master
