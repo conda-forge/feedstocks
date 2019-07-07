@@ -28110,3 +28110,7 @@
 	url = https://github.com/conda-forge/pyglfw-feedstock.git
 	path = feedstocks/pyglfw
 	branch = refs/heads/master
+[submodule "sgpp"]
+	url = https://github.com/conda-forge/sgpp-feedstock.git
+	path = feedstocks/sgpp
+	branch = refs/heads/master
