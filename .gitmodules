@@ -28098,3 +28098,7 @@
 	url = https://github.com/conda-forge/r-freetypeharfbuzz-feedstock.git
 	path = feedstocks/r-freetypeharfbuzz
 	branch = refs/heads/master
+[submodule "r-diffobj"]
+	url = https://github.com/conda-forge/r-diffobj-feedstock.git
+	path = feedstocks/r-diffobj
+	branch = refs/heads/master
