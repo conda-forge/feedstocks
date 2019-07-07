@@ -28102,3 +28102,7 @@
 	url = https://github.com/conda-forge/r-diffobj-feedstock.git
 	path = feedstocks/r-diffobj
 	branch = refs/heads/master
+[submodule "icet"]
+	url = https://github.com/conda-forge/icet-feedstock.git
+	path = feedstocks/icet
+	branch = refs/heads/master
