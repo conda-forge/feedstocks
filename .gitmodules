@@ -28142,3 +28142,7 @@
 	url = https://github.com/conda-forge/cppyy-backend-feedstock.git
 	path = feedstocks/cppyy-backend
 	branch = refs/heads/master
+[submodule "thucyd"]
+	url = https://github.com/conda-forge/thucyd-feedstock.git
+	path = feedstocks/thucyd
+	branch = refs/heads/master
