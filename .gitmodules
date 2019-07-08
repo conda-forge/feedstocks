@@ -28126,3 +28126,7 @@
 	url = https://github.com/conda-forge/scapy-feedstock.git
 	path = feedstocks/scapy
 	branch = refs/heads/master
+[submodule "cppyy-cling"]
+	url = https://github.com/conda-forge/cppyy-cling-feedstock.git
+	path = feedstocks/cppyy-cling
+	branch = refs/heads/master
