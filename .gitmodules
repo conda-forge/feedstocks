@@ -28118,3 +28118,7 @@
 	url = https://github.com/conda-forge/tikzplotlib-feedstock.git
 	path = feedstocks/tikzplotlib
 	branch = refs/heads/master
+[submodule "vaex-ml"]
+	url = https://github.com/conda-forge/vaex-ml-feedstock.git
+	path = feedstocks/vaex-ml
+	branch = refs/heads/master
