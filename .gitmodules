@@ -28134,3 +28134,7 @@
 	url = https://github.com/conda-forge/cpycppyy-feedstock.git
 	path = feedstocks/cpycppyy
 	branch = refs/heads/master
+[submodule "cppyy"]
+	url = https://github.com/conda-forge/cppyy-feedstock.git
+	path = feedstocks/cppyy
+	branch = refs/heads/master
