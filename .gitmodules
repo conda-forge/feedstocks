@@ -28150,3 +28150,7 @@
 	url = https://github.com/conda-forge/tweak-feedstock.git
 	path = feedstocks/tweak
 	branch = refs/heads/master
+[submodule "empyrical-dist"]
+	url = https://github.com/conda-forge/empyrical-dist-feedstock.git
+	path = feedstocks/empyrical-dist
+	branch = refs/heads/master
