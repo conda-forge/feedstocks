@@ -28206,3 +28206,7 @@
 	url = https://github.com/conda-forge/r-mglm-feedstock.git
 	path = feedstocks/r-mglm
 	branch = refs/heads/master
+[submodule "parmed"]
+	url = https://github.com/conda-forge/parmed-feedstock.git
+	path = feedstocks/parmed
+	branch = refs/heads/master
