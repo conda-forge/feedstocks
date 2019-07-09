@@ -28194,3 +28194,7 @@
 	url = https://github.com/conda-forge/python-geohash-feedstock.git
 	path = feedstocks/python-geohash
 	branch = refs/heads/master
+[submodule "r-tmaptools"]
+	url = https://github.com/conda-forge/r-tmaptools-feedstock.git
+	path = feedstocks/r-tmaptools
+	branch = refs/heads/master
