@@ -28202,3 +28202,7 @@
 	url = https://github.com/conda-forge/r-polycub-feedstock.git
 	path = feedstocks/r-polycub
 	branch = refs/heads/master
+[submodule "r-mglm"]
+	url = https://github.com/conda-forge/r-mglm-feedstock.git
+	path = feedstocks/r-mglm
+	branch = refs/heads/master
