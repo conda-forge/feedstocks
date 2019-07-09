@@ -28198,3 +28198,7 @@
 	url = https://github.com/conda-forge/r-tmaptools-feedstock.git
 	path = feedstocks/r-tmaptools
 	branch = refs/heads/master
+[submodule "r-polycub"]
+	url = https://github.com/conda-forge/r-polycub-feedstock.git
+	path = feedstocks/r-polycub
+	branch = refs/heads/master
