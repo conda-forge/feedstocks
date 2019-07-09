@@ -28186,3 +28186,7 @@
 	url = https://github.com/conda-forge/pomegranate-feedstock.git
 	path = feedstocks/pomegranate
 	branch = refs/heads/master
+[submodule "boolparser"]
+	url = https://github.com/conda-forge/boolparser-feedstock.git
+	path = feedstocks/boolparser
+	branch = refs/heads/master
