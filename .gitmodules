@@ -28174,3 +28174,7 @@
 	url = https://github.com/conda-forge/moderngl-feedstock.git
 	path = feedstocks/moderngl
 	branch = refs/heads/master
+[submodule "cyvlfeat"]
+	url = https://github.com/conda-forge/cyvlfeat-feedstock.git
+	path = feedstocks/cyvlfeat
+	branch = refs/heads/master
