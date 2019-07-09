@@ -28190,3 +28190,7 @@
 	url = https://github.com/conda-forge/boolparser-feedstock.git
 	path = feedstocks/boolparser
 	branch = refs/heads/master
+[submodule "python-geohash"]
+	url = https://github.com/conda-forge/python-geohash-feedstock.git
+	path = feedstocks/python-geohash
+	branch = refs/heads/master
