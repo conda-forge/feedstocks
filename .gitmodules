@@ -28158,3 +28158,7 @@
 	url = https://github.com/conda-forge/google-cloud-kms-feedstock.git
 	path = feedstocks/google-cloud-kms
 	branch = refs/heads/master
+[submodule "r-lwgeom"]
+	url = https://github.com/conda-forge/r-lwgeom-feedstock.git
+	path = feedstocks/r-lwgeom
+	branch = refs/heads/master
