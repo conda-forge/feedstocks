@@ -28146,3 +28146,7 @@
 	url = https://github.com/conda-forge/thucyd-feedstock.git
 	path = feedstocks/thucyd
 	branch = refs/heads/master
+[submodule "tweak"]
+	url = https://github.com/conda-forge/tweak-feedstock.git
+	path = feedstocks/tweak
+	branch = refs/heads/master
