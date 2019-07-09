@@ -28178,3 +28178,7 @@
 	url = https://github.com/conda-forge/cyvlfeat-feedstock.git
 	path = feedstocks/cyvlfeat
 	branch = refs/heads/master
+[submodule "marstime"]
+	url = https://github.com/conda-forge/marstime-feedstock.git
+	path = feedstocks/marstime
+	branch = refs/heads/master
