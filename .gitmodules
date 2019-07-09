@@ -28154,3 +28154,7 @@
 	url = https://github.com/conda-forge/empyrical-dist-feedstock.git
 	path = feedstocks/empyrical-dist
 	branch = refs/heads/master
+[submodule "google-cloud-kms"]
+	url = https://github.com/conda-forge/google-cloud-kms-feedstock.git
+	path = feedstocks/google-cloud-kms
+	branch = refs/heads/master
