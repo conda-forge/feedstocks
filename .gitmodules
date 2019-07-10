@@ -28214,3 +28214,7 @@
 	url = https://github.com/conda-forge/ltl-feedstock.git
 	path = feedstocks/ltl
 	branch = refs/heads/master
+[submodule "creme"]
+	url = https://github.com/conda-forge/creme-feedstock.git
+	path = feedstocks/creme
+	branch = refs/heads/master
