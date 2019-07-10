@@ -28250,3 +28250,7 @@
 	url = https://github.com/conda-forge/r-surveillance-feedstock.git
 	path = feedstocks/r-surveillance
 	branch = refs/heads/master
+[submodule "terraform-provider-helm"]
+	url = https://github.com/conda-forge/terraform-provider-helm-feedstock.git
+	path = feedstocks/terraform-provider-helm
+	branch = refs/heads/master
