@@ -28242,3 +28242,7 @@
 	url = https://github.com/conda-forge/astromatic-stiff-feedstock.git
 	path = feedstocks/astromatic-stiff
 	branch = refs/heads/master
+[submodule "fitstools"]
+	url = https://github.com/conda-forge/fitstools-feedstock.git
+	path = feedstocks/fitstools
+	branch = refs/heads/master
