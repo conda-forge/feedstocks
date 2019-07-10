@@ -28210,3 +28210,7 @@
 	url = https://github.com/conda-forge/parmed-feedstock.git
 	path = feedstocks/parmed
 	branch = refs/heads/master
+[submodule "ltl"]
+	url = https://github.com/conda-forge/ltl-feedstock.git
+	path = feedstocks/ltl
+	branch = refs/heads/master
