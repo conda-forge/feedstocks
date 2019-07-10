@@ -28222,3 +28222,7 @@
 	url = https://github.com/conda-forge/r-tmap-feedstock.git
 	path = feedstocks/r-tmap
 	branch = refs/heads/master
+[submodule "pytesseract"]
+	url = https://github.com/conda-forge/pytesseract-feedstock.git
+	path = feedstocks/pytesseract
+	branch = refs/heads/master
