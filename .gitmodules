@@ -28238,3 +28238,7 @@
 	url = https://github.com/conda-forge/astromatic-swarp-feedstock.git
 	path = feedstocks/astromatic-swarp
 	branch = refs/heads/master
+[submodule "astromatic-stiff"]
+	url = https://github.com/conda-forge/astromatic-stiff-feedstock.git
+	path = feedstocks/astromatic-stiff
+	branch = refs/heads/master
