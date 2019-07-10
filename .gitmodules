@@ -28246,3 +28246,7 @@
 	url = https://github.com/conda-forge/fitstools-feedstock.git
 	path = feedstocks/fitstools
 	branch = refs/heads/master
+[submodule "r-surveillance"]
+	url = https://github.com/conda-forge/r-surveillance-feedstock.git
+	path = feedstocks/r-surveillance
+	branch = refs/heads/master
