@@ -28266,3 +28266,7 @@
 	url = https://github.com/conda-forge/dfviz-feedstock.git
 	path = feedstocks/dfviz
 	branch = refs/heads/master
+[submodule "flask-oidc"]
+	url = https://github.com/conda-forge/flask-oidc-feedstock.git
+	path = feedstocks/flask-oidc
+	branch = refs/heads/master
