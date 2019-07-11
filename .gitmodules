@@ -28258,3 +28258,7 @@
 	url = https://github.com/conda-forge/mongomock-feedstock.git
 	path = feedstocks/mongomock
 	branch = refs/heads/master
+[submodule "msdnet"]
+	url = https://github.com/conda-forge/msdnet-feedstock.git
+	path = feedstocks/msdnet
+	branch = refs/heads/master
