@@ -28270,3 +28270,7 @@
 	url = https://github.com/conda-forge/flask-oidc-feedstock.git
 	path = feedstocks/flask-oidc
 	branch = refs/heads/master
+[submodule "dpdata"]
+	url = https://github.com/conda-forge/dpdata-feedstock.git
+	path = feedstocks/dpdata
+	branch = refs/heads/master
