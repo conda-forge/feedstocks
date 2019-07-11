@@ -28282,3 +28282,7 @@
 	url = https://github.com/conda-forge/mendeleev-feedstock.git
 	path = feedstocks/mendeleev
 	branch = refs/heads/master
+[submodule "snorkel"]
+	url = https://github.com/conda-forge/snorkel-feedstock.git
+	path = feedstocks/snorkel
+	branch = refs/heads/master
