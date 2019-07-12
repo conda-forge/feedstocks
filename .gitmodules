@@ -28290,3 +28290,7 @@
 	url = https://github.com/conda-forge/libspnav-feedstock.git
 	path = feedstocks/libspnav
 	branch = refs/heads/master
+[submodule "vowpalwabbit"]
+	url = https://github.com/conda-forge/vowpalwabbit-feedstock.git
+	path = feedstocks/vowpalwabbit
+	branch = refs/heads/master
