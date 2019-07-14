@@ -28322,3 +28322,7 @@
 	url = https://github.com/conda-forge/aio-pika-feedstock.git
 	path = feedstocks/aio-pika
 	branch = refs/heads/master
+[submodule "aiormq"]
+	url = https://github.com/conda-forge/aiormq-feedstock.git
+	path = feedstocks/aiormq
+	branch = refs/heads/master
