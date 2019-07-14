@@ -28318,3 +28318,7 @@
 	url = https://github.com/conda-forge/pamqp-feedstock.git
 	path = feedstocks/pamqp
 	branch = refs/heads/master
+[submodule "aio-pika"]
+	url = https://github.com/conda-forge/aio-pika-feedstock.git
+	path = feedstocks/aio-pika
+	branch = refs/heads/master
