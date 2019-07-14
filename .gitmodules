@@ -28350,3 +28350,7 @@
 	url = https://github.com/conda-forge/gatspy-feedstock.git
 	path = feedstocks/gatspy
 	branch = refs/heads/master
+[submodule "jax"]
+	url = https://github.com/conda-forge/jax-feedstock.git
+	path = feedstocks/jax
+	branch = refs/heads/master
