@@ -28342,3 +28342,7 @@
 	url = https://github.com/conda-forge/jaxlib-feedstock.git
 	path = feedstocks/jaxlib
 	branch = refs/heads/master
+[submodule "supersmoother"]
+	url = https://github.com/conda-forge/supersmoother-feedstock.git
+	path = feedstocks/supersmoother
+	branch = refs/heads/master
