@@ -28326,3 +28326,7 @@
 	url = https://github.com/conda-forge/aiormq-feedstock.git
 	path = feedstocks/aiormq
 	branch = refs/heads/master
+[submodule "menpo"]
+	url = https://github.com/conda-forge/menpo-feedstock.git
+	path = feedstocks/menpo
+	branch = refs/heads/master
