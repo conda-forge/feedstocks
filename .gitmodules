@@ -28334,3 +28334,7 @@
 	url = https://github.com/conda-forge/matplotlib-scalebar-feedstock.git
 	path = feedstocks/matplotlib-scalebar
 	branch = refs/heads/master
+[submodule "opt-einsum"]
+	url = https://github.com/conda-forge/opt-einsum-feedstock.git
+	path = feedstocks/opt-einsum
+	branch = refs/heads/master
