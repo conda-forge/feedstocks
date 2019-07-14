@@ -28346,3 +28346,7 @@
 	url = https://github.com/conda-forge/supersmoother-feedstock.git
 	path = feedstocks/supersmoother
 	branch = refs/heads/master
+[submodule "gatspy"]
+	url = https://github.com/conda-forge/gatspy-feedstock.git
+	path = feedstocks/gatspy
+	branch = refs/heads/master
