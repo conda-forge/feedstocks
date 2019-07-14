@@ -28330,3 +28330,7 @@
 	url = https://github.com/conda-forge/menpo-feedstock.git
 	path = feedstocks/menpo
 	branch = refs/heads/master
+[submodule "matplotlib-scalebar"]
+	url = https://github.com/conda-forge/matplotlib-scalebar-feedstock.git
+	path = feedstocks/matplotlib-scalebar
+	branch = refs/heads/master
