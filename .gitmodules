@@ -28354,3 +28354,7 @@
 	url = https://github.com/conda-forge/jax-feedstock.git
 	path = feedstocks/jax
 	branch = refs/heads/master
+[submodule "redpil"]
+	url = https://github.com/conda-forge/redpil-feedstock.git
+	path = feedstocks/redpil
+	branch = refs/heads/master
