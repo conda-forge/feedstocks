@@ -28306,3 +28306,7 @@
 	url = https://github.com/conda-forge/ripser-feedstock.git
 	path = feedstocks/ripser
 	branch = refs/heads/master
+[submodule "jupyterhub-systemdspawner"]
+	url = https://github.com/conda-forge/jupyterhub-systemdspawner-feedstock.git
+	path = feedstocks/jupyterhub-systemdspawner
+	branch = refs/heads/master
