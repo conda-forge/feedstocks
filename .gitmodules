@@ -28310,3 +28310,7 @@
 	url = https://github.com/conda-forge/jupyterhub-systemdspawner-feedstock.git
 	path = feedstocks/jupyterhub-systemdspawner
 	branch = refs/heads/master
+[submodule "marxs"]
+	url = https://github.com/conda-forge/marxs-feedstock.git
+	path = feedstocks/marxs
+	branch = refs/heads/master
