@@ -28314,3 +28314,7 @@
 	url = https://github.com/conda-forge/marxs-feedstock.git
 	path = feedstocks/marxs
 	branch = refs/heads/master
+[submodule "pamqp"]
+	url = https://github.com/conda-forge/pamqp-feedstock.git
+	path = feedstocks/pamqp
+	branch = refs/heads/master
