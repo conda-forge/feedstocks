@@ -28358,3 +28358,7 @@
 	url = https://github.com/conda-forge/redpil-feedstock.git
 	path = feedstocks/redpil
 	branch = refs/heads/master
+[submodule "fastdiff"]
+	url = https://github.com/conda-forge/fastdiff-feedstock.git
+	path = feedstocks/fastdiff
+	branch = refs/heads/master
