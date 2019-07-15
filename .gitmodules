@@ -28370,3 +28370,7 @@
 	url = https://github.com/conda-forge/pgcopy-feedstock.git
 	path = feedstocks/pgcopy
 	branch = refs/heads/master
+[submodule "tf_object_detection"]
+	url = https://github.com/conda-forge/tf_object_detection-feedstock.git
+	path = feedstocks/tf_object_detection
+	branch = refs/heads/master
