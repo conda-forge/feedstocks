@@ -28362,3 +28362,7 @@
 	url = https://github.com/conda-forge/fastdiff-feedstock.git
 	path = feedstocks/fastdiff
 	branch = refs/heads/master
+[submodule "tktable"]
+	url = https://github.com/conda-forge/tktable-feedstock.git
+	path = feedstocks/tktable
+	branch = refs/heads/master
