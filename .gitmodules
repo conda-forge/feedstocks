@@ -28366,3 +28366,7 @@
 	url = https://github.com/conda-forge/tktable-feedstock.git
 	path = feedstocks/tktable
 	branch = refs/heads/master
+[submodule "pgcopy"]
+	url = https://github.com/conda-forge/pgcopy-feedstock.git
+	path = feedstocks/pgcopy
+	branch = refs/heads/master
