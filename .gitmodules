@@ -28378,3 +28378,7 @@
 	url = https://github.com/conda-forge/measurement-feedstock.git
 	path = feedstocks/measurement
 	branch = refs/heads/master
+[submodule "python-terraform"]
+	url = https://github.com/conda-forge/python-terraform-feedstock.git
+	path = feedstocks/python-terraform
+	branch = refs/heads/master
