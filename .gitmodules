@@ -28374,3 +28374,7 @@
 	url = https://github.com/conda-forge/tf_object_detection-feedstock.git
 	path = feedstocks/tf_object_detection
 	branch = refs/heads/master
+[submodule "measurement"]
+	url = https://github.com/conda-forge/measurement-feedstock.git
+	path = feedstocks/measurement
+	branch = refs/heads/master
