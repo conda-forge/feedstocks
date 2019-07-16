@@ -28398,3 +28398,7 @@
 	url = https://github.com/conda-forge/cytominer_database-feedstock.git
 	path = feedstocks/cytominer_database
 	branch = refs/heads/master
+[submodule "minuit2"]
+	url = https://github.com/conda-forge/minuit2-feedstock.git
+	path = feedstocks/minuit2
+	branch = refs/heads/master
