@@ -28390,3 +28390,7 @@
 	url = https://github.com/conda-forge/r-ragg-feedstock.git
 	path = feedstocks/r-ragg
 	branch = refs/heads/master
+[submodule "diffsims"]
+	url = https://github.com/conda-forge/diffsims-feedstock.git
+	path = feedstocks/diffsims
+	branch = refs/heads/master
