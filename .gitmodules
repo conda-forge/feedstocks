@@ -28402,3 +28402,7 @@
 	url = https://github.com/conda-forge/minuit2-feedstock.git
 	path = feedstocks/minuit2
 	branch = refs/heads/master
+[submodule "epysurv"]
+	url = https://github.com/conda-forge/epysurv-feedstock.git
+	path = feedstocks/epysurv
+	branch = refs/heads/master
