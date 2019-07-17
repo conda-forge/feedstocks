@@ -28422,3 +28422,7 @@
 	url = https://github.com/conda-forge/gn-feedstock.git
 	path = feedstocks/gn
 	branch = refs/heads/master
+[submodule "bat"]
+	url = https://github.com/conda-forge/bat-feedstock.git
+	path = feedstocks/bat
+	branch = refs/heads/master
