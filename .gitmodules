@@ -28438,3 +28438,7 @@
 	url = https://github.com/conda-forge/schematics-feedstock.git
 	path = feedstocks/schematics
 	branch = refs/heads/master
+[submodule "bliss"]
+	url = https://github.com/conda-forge/bliss-feedstock.git
+	path = feedstocks/bliss
+	branch = refs/heads/master
