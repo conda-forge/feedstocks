@@ -28442,3 +28442,7 @@
 	url = https://github.com/conda-forge/bliss-feedstock.git
 	path = feedstocks/bliss
 	branch = refs/heads/master
+[submodule "r-linprog"]
+	url = https://github.com/conda-forge/r-linprog-feedstock.git
+	path = feedstocks/r-linprog
+	branch = refs/heads/master
