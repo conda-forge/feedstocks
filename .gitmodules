@@ -28434,3 +28434,7 @@
 	url = https://github.com/conda-forge/pdpbox-feedstock.git
 	path = feedstocks/pdpbox
 	branch = refs/heads/master
+[submodule "schematics"]
+	url = https://github.com/conda-forge/schematics-feedstock.git
+	path = feedstocks/schematics
+	branch = refs/heads/master
