@@ -28418,3 +28418,7 @@
 	url = https://github.com/conda-forge/htmllistparse-feedstock.git
 	path = feedstocks/htmllistparse
 	branch = refs/heads/master
+[submodule "gn"]
+	url = https://github.com/conda-forge/gn-feedstock.git
+	path = feedstocks/gn
+	branch = refs/heads/master
