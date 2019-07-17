@@ -28410,3 +28410,7 @@
 	url = https://github.com/conda-forge/cereal-feedstock.git
 	path = feedstocks/cereal
 	branch = refs/heads/master
+[submodule "dftatom"]
+	url = https://github.com/conda-forge/dftatom-feedstock.git
+	path = feedstocks/dftatom
+	branch = refs/heads/master
