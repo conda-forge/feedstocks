@@ -28486,3 +28486,7 @@
 	url = https://github.com/conda-forge/swepy-feedstock.git
 	path = feedstocks/swepy
 	branch = refs/heads/master
+[submodule "pylandstats"]
+	url = https://github.com/conda-forge/pylandstats-feedstock.git
+	path = feedstocks/pylandstats
+	branch = refs/heads/master
