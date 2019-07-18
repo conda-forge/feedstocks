@@ -28498,3 +28498,7 @@
 	url = https://github.com/conda-forge/r-statar-feedstock.git
 	path = feedstocks/r-statar
 	branch = refs/heads/master
+[submodule "r-fasttime"]
+	url = https://github.com/conda-forge/r-fasttime-feedstock.git
+	path = feedstocks/r-fasttime
+	branch = refs/heads/master
