@@ -28466,3 +28466,7 @@
 	url = https://github.com/conda-forge/r-ncmeta-feedstock.git
 	path = feedstocks/r-ncmeta
 	branch = refs/heads/master
+[submodule "r-arsenal"]
+	url = https://github.com/conda-forge/r-arsenal-feedstock.git
+	path = feedstocks/r-arsenal
+	branch = refs/heads/master
