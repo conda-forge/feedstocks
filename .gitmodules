@@ -28506,3 +28506,7 @@
 	url = https://github.com/conda-forge/r-pdp-feedstock.git
 	path = feedstocks/r-pdp
 	branch = refs/heads/master
+[submodule "r-vip"]
+	url = https://github.com/conda-forge/r-vip-feedstock.git
+	path = feedstocks/r-vip
+	branch = refs/heads/master
