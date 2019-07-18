@@ -28474,3 +28474,7 @@
 	url = https://github.com/conda-forge/r-compare-feedstock.git
 	path = feedstocks/r-compare
 	branch = refs/heads/master
+[submodule "r-assertr"]
+	url = https://github.com/conda-forge/r-assertr-feedstock.git
+	path = feedstocks/r-assertr
+	branch = refs/heads/master
