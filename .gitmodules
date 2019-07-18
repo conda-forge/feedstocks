@@ -28450,3 +28450,7 @@
 	url = https://github.com/conda-forge/climpred-feedstock.git
 	path = feedstocks/climpred
 	branch = refs/heads/master
+[submodule "r-fastdummies"]
+	url = https://github.com/conda-forge/r-fastdummies-feedstock.git
+	path = feedstocks/r-fastdummies
+	branch = refs/heads/master
