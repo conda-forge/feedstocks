@@ -28462,3 +28462,7 @@
 	url = https://github.com/conda-forge/libv8-feedstock.git
 	path = feedstocks/libv8
 	branch = refs/heads/master
+[submodule "r-ncmeta"]
+	url = https://github.com/conda-forge/r-ncmeta-feedstock.git
+	path = feedstocks/r-ncmeta
+	branch = refs/heads/master
