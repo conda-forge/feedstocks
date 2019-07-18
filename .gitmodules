@@ -28482,3 +28482,7 @@
 	url = https://github.com/conda-forge/podman-py-feedstock.git
 	path = feedstocks/podman-py
 	branch = refs/heads/master
+[submodule "swepy"]
+	url = https://github.com/conda-forge/swepy-feedstock.git
+	path = feedstocks/swepy
+	branch = refs/heads/master
