@@ -28478,3 +28478,7 @@
 	url = https://github.com/conda-forge/r-assertr-feedstock.git
 	path = feedstocks/r-assertr
 	branch = refs/heads/master
+[submodule "podman-py"]
+	url = https://github.com/conda-forge/podman-py-feedstock.git
+	path = feedstocks/podman-py
+	branch = refs/heads/master
