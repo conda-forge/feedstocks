@@ -28454,3 +28454,7 @@
 	url = https://github.com/conda-forge/r-fastdummies-feedstock.git
 	path = feedstocks/r-fastdummies
 	branch = refs/heads/master
+[submodule "r-nomclust"]
+	url = https://github.com/conda-forge/r-nomclust-feedstock.git
+	path = feedstocks/r-nomclust
+	branch = refs/heads/master
