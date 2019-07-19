@@ -28538,3 +28538,7 @@
 	url = https://github.com/conda-forge/slicedimage-feedstock.git
 	path = feedstocks/slicedimage
 	branch = refs/heads/master
+[submodule "eigenpy"]
+	url = https://github.com/conda-forge/eigenpy-feedstock.git
+	path = feedstocks/eigenpy
+	branch = refs/heads/master
