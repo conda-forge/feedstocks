@@ -28546,3 +28546,7 @@
 	url = https://github.com/conda-forge/nr.date-feedstock.git
 	path = feedstocks/nr.date
 	branch = refs/heads/master
+[submodule "nr.parse"]
+	url = https://github.com/conda-forge/nr.parse-feedstock.git
+	path = feedstocks/nr.parse
+	branch = refs/heads/master
