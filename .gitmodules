@@ -28518,3 +28518,7 @@
 	url = https://github.com/conda-forge/r-clusterses-feedstock.git
 	path = feedstocks/r-clusterses
 	branch = refs/heads/master
+[submodule "r-plotluck"]
+	url = https://github.com/conda-forge/r-plotluck-feedstock.git
+	path = feedstocks/r-plotluck
+	branch = refs/heads/master
