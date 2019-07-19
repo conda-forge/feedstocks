@@ -28522,3 +28522,7 @@
 	url = https://github.com/conda-forge/r-plotluck-feedstock.git
 	path = feedstocks/r-plotluck
 	branch = refs/heads/master
+[submodule "python-vagrant"]
+	url = https://github.com/conda-forge/python-vagrant-feedstock.git
+	path = feedstocks/python-vagrant
+	branch = refs/heads/master
