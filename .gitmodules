@@ -28530,3 +28530,7 @@
 	url = https://github.com/conda-forge/python-logstash-feedstock.git
 	path = feedstocks/python-logstash
 	branch = refs/heads/master
+[submodule "pyvmomi"]
+	url = https://github.com/conda-forge/pyvmomi-feedstock.git
+	path = feedstocks/pyvmomi
+	branch = refs/heads/master
