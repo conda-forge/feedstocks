@@ -28510,3 +28510,7 @@
 	url = https://github.com/conda-forge/r-vip-feedstock.git
 	path = feedstocks/r-vip
 	branch = refs/heads/master
+[submodule "polycircles"]
+	url = https://github.com/conda-forge/polycircles-feedstock.git
+	path = feedstocks/polycircles
+	branch = refs/heads/master
