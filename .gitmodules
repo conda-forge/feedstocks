@@ -28534,3 +28534,7 @@
 	url = https://github.com/conda-forge/pyvmomi-feedstock.git
 	path = feedstocks/pyvmomi
 	branch = refs/heads/master
+[submodule "slicedimage"]
+	url = https://github.com/conda-forge/slicedimage-feedstock.git
+	path = feedstocks/slicedimage
+	branch = refs/heads/master
