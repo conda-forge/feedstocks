@@ -28558,3 +28558,7 @@
 	url = https://github.com/conda-forge/nr.types-feedstock.git
 	path = feedstocks/nr.types
 	branch = refs/heads/master
+[submodule "nr.config"]
+	url = https://github.com/conda-forge/nr.config-feedstock.git
+	path = feedstocks/nr.config
+	branch = refs/heads/master
