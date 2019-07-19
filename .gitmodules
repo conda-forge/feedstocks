@@ -28570,3 +28570,7 @@
 	url = https://github.com/conda-forge/nr.cli-feedstock.git
 	path = feedstocks/nr.cli
 	branch = refs/heads/master
+[submodule "forest"]
+	url = https://github.com/conda-forge/forest-feedstock.git
+	path = feedstocks/forest
+	branch = refs/heads/master
