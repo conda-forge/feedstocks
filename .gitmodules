@@ -28550,3 +28550,7 @@
 	url = https://github.com/conda-forge/nr.parse-feedstock.git
 	path = feedstocks/nr.parse
 	branch = refs/heads/master
+[submodule "nr.fs"]
+	url = https://github.com/conda-forge/nr.fs-feedstock.git
+	path = feedstocks/nr.fs
+	branch = refs/heads/master
