@@ -28526,3 +28526,7 @@
 	url = https://github.com/conda-forge/python-vagrant-feedstock.git
 	path = feedstocks/python-vagrant
 	branch = refs/heads/master
+[submodule "python-logstash"]
+	url = https://github.com/conda-forge/python-logstash-feedstock.git
+	path = feedstocks/python-logstash
+	branch = refs/heads/master
