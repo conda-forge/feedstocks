@@ -28562,3 +28562,7 @@
 	url = https://github.com/conda-forge/nr.config-feedstock.git
 	path = feedstocks/nr.config
 	branch = refs/heads/master
+[submodule "nr.bundler"]
+	url = https://github.com/conda-forge/nr.bundler-feedstock.git
+	path = feedstocks/nr.bundler
+	branch = refs/heads/master
