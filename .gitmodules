@@ -28578,3 +28578,7 @@
 	url = https://github.com/conda-forge/r-tsibbledata-feedstock.git
 	path = feedstocks/r-tsibbledata
 	branch = refs/heads/master
+[submodule "r-cyphr"]
+	url = https://github.com/conda-forge/r-cyphr-feedstock.git
+	path = feedstocks/r-cyphr
+	branch = refs/heads/master
