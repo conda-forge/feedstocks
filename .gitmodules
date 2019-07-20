@@ -28574,3 +28574,7 @@
 	url = https://github.com/conda-forge/forest-feedstock.git
 	path = feedstocks/forest
 	branch = refs/heads/master
+[submodule "r-tsibbledata"]
+	url = https://github.com/conda-forge/r-tsibbledata-feedstock.git
+	path = feedstocks/r-tsibbledata
+	branch = refs/heads/master
