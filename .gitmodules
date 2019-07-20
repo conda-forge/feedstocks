@@ -28586,3 +28586,7 @@
 	url = https://github.com/conda-forge/s-tui-feedstock.git
 	path = feedstocks/s-tui
 	branch = refs/heads/master
+[submodule "r-blogdown"]
+	url = https://github.com/conda-forge/r-blogdown-feedstock.git
+	path = feedstocks/r-blogdown
+	branch = refs/heads/master
