@@ -28590,3 +28590,7 @@
 	url = https://github.com/conda-forge/r-blogdown-feedstock.git
 	path = feedstocks/r-blogdown
 	branch = refs/heads/master
+[submodule "r-xaringan"]
+	url = https://github.com/conda-forge/r-xaringan-feedstock.git
+	path = feedstocks/r-xaringan
+	branch = refs/heads/master
