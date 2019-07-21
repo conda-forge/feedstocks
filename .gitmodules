@@ -28594,3 +28594,7 @@
 	url = https://github.com/conda-forge/r-xaringan-feedstock.git
 	path = feedstocks/r-xaringan
 	branch = refs/heads/master
+[submodule "r-gifski"]
+	url = https://github.com/conda-forge/r-gifski-feedstock.git
+	path = feedstocks/r-gifski
+	branch = refs/heads/master
