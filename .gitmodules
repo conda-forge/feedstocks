@@ -28618,3 +28618,7 @@
 	url = https://github.com/conda-forge/rfc5424-logging-handler-feedstock.git
 	path = feedstocks/rfc5424-logging-handler
 	branch = refs/heads/master
+[submodule "stochatreat"]
+	url = https://github.com/conda-forge/stochatreat-feedstock.git
+	path = feedstocks/stochatreat
+	branch = refs/heads/master
