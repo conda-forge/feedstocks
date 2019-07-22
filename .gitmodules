@@ -28638,3 +28638,7 @@
 	url = https://github.com/conda-forge/molmod-feedstock.git
 	path = feedstocks/molmod
 	branch = refs/heads/master
+[submodule "pymatgen"]
+	url = https://github.com/conda-forge/pymatgen-feedstock.git
+	path = feedstocks/pymatgen
+	branch = refs/heads/master
