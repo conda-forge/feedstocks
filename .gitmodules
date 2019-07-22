@@ -28598,3 +28598,7 @@
 	url = https://github.com/conda-forge/r-gifski-feedstock.git
 	path = feedstocks/r-gifski
 	branch = refs/heads/master
+[submodule "keycloak-gatekeeper"]
+	url = https://github.com/conda-forge/keycloak-gatekeeper-feedstock.git
+	path = feedstocks/keycloak-gatekeeper
+	branch = refs/heads/master
