@@ -28610,3 +28610,7 @@
 	url = https://github.com/conda-forge/bonsu-feedstock.git
 	path = feedstocks/bonsu
 	branch = refs/heads/master
+[submodule "pyclipper"]
+	url = https://github.com/conda-forge/pyclipper-feedstock.git
+	path = feedstocks/pyclipper
+	branch = refs/heads/master
