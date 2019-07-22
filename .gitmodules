@@ -28622,3 +28622,7 @@
 	url = https://github.com/conda-forge/stochatreat-feedstock.git
 	path = feedstocks/stochatreat
 	branch = refs/heads/master
+[submodule "weasyprint"]
+	url = https://github.com/conda-forge/weasyprint-feedstock.git
+	path = feedstocks/weasyprint
+	branch = refs/heads/master
