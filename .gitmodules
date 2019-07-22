@@ -28630,3 +28630,7 @@
 	url = https://github.com/conda-forge/custodian-feedstock.git
 	path = feedstocks/custodian
 	branch = refs/heads/master
+[submodule "blend_modes"]
+	url = https://github.com/conda-forge/blend_modes-feedstock.git
+	path = feedstocks/blend_modes
+	branch = refs/heads/master
