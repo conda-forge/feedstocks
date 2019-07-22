@@ -28646,3 +28646,7 @@
 	url = https://github.com/conda-forge/jump-feedstock.git
 	path = feedstocks/jump
 	branch = refs/heads/master
+[submodule "yaff"]
+	url = https://github.com/conda-forge/yaff-feedstock.git
+	path = feedstocks/yaff
+	branch = refs/heads/master
