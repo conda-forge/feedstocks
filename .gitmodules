@@ -28658,3 +28658,7 @@
 	url = https://github.com/conda-forge/sxs-feedstock.git
 	path = feedstocks/sxs
 	branch = refs/heads/master
+[submodule "r-hdm"]
+	url = https://github.com/conda-forge/r-hdm-feedstock.git
+	path = feedstocks/r-hdm
+	branch = refs/heads/master
