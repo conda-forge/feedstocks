@@ -28678,3 +28678,7 @@
 	url = https://github.com/conda-forge/gorilla-feedstock.git
 	path = feedstocks/gorilla
 	branch = refs/heads/master
+[submodule "sqsgenerator"]
+	url = https://github.com/conda-forge/sqsgenerator-feedstock.git
+	path = feedstocks/sqsgenerator
+	branch = refs/heads/master
