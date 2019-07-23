@@ -28662,3 +28662,7 @@
 	url = https://github.com/conda-forge/r-hdm-feedstock.git
 	path = feedstocks/r-hdm
 	branch = refs/heads/master
+[submodule "r-hdtweedie"]
+	url = https://github.com/conda-forge/r-hdtweedie-feedstock.git
+	path = feedstocks/r-hdtweedie
+	branch = refs/heads/master
