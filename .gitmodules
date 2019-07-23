@@ -28674,3 +28674,7 @@
 	url = https://github.com/conda-forge/cigetcert-feedstock.git
 	path = feedstocks/cigetcert
 	branch = refs/heads/master
+[submodule "gorilla"]
+	url = https://github.com/conda-forge/gorilla-feedstock.git
+	path = feedstocks/gorilla
+	branch = refs/heads/master
