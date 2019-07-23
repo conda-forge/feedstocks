@@ -28686,3 +28686,7 @@
 	url = https://github.com/conda-forge/ib-insync-feedstock.git
 	path = feedstocks/ib-insync
 	branch = refs/heads/master
+[submodule "nest-asyncio"]
+	url = https://github.com/conda-forge/nest-asyncio-feedstock.git
+	path = feedstocks/nest-asyncio
+	branch = refs/heads/master
