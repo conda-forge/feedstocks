@@ -28670,3 +28670,7 @@
 	url = https://github.com/conda-forge/r-liqueuer-feedstock.git
 	path = feedstocks/r-liqueuer
 	branch = refs/heads/master
+[submodule "cigetcert"]
+	url = https://github.com/conda-forge/cigetcert-feedstock.git
+	path = feedstocks/cigetcert
+	branch = refs/heads/master
