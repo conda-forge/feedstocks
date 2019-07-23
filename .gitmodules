@@ -28650,3 +28650,7 @@
 	url = https://github.com/conda-forge/yaff-feedstock.git
 	path = feedstocks/yaff
 	branch = refs/heads/master
+[submodule "r-stars"]
+	url = https://github.com/conda-forge/r-stars-feedstock.git
+	path = feedstocks/r-stars
+	branch = refs/heads/master
