@@ -28654,3 +28654,7 @@
 	url = https://github.com/conda-forge/r-stars-feedstock.git
 	path = feedstocks/r-stars
 	branch = refs/heads/master
+[submodule "sxs"]
+	url = https://github.com/conda-forge/sxs-feedstock.git
+	path = feedstocks/sxs
+	branch = refs/heads/master
