@@ -28694,3 +28694,7 @@
 	url = https://github.com/conda-forge/eventkit-feedstock.git
 	path = feedstocks/eventkit
 	branch = refs/heads/master
+[submodule "netpbm"]
+	url = https://github.com/conda-forge/netpbm-feedstock.git
+	path = feedstocks/netpbm
+	branch = refs/heads/master
