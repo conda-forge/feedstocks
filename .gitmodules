@@ -28718,3 +28718,7 @@
 	url = https://github.com/conda-forge/r-forestfloor-feedstock.git
 	path = feedstocks/r-forestfloor
 	branch = refs/heads/master
+[submodule "r-rpref"]
+	url = https://github.com/conda-forge/r-rpref-feedstock.git
+	path = feedstocks/r-rpref
+	branch = refs/heads/master
