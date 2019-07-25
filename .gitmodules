@@ -28722,3 +28722,7 @@
 	url = https://github.com/conda-forge/r-rpref-feedstock.git
 	path = feedstocks/r-rpref
 	branch = refs/heads/master
+[submodule "sharedarray"]
+	url = https://github.com/conda-forge/sharedarray-feedstock.git
+	path = feedstocks/sharedarray
+	branch = refs/heads/master
