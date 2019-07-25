@@ -28730,3 +28730,7 @@
 	url = https://github.com/conda-forge/easygui-feedstock.git
 	path = feedstocks/easygui
 	branch = refs/heads/master
+[submodule "libudev-devel-cos6-x86_64"]
+	url = https://github.com/conda-forge/libudev-devel-cos6-x86_64-feedstock.git
+	path = feedstocks/libudev-devel-cos6-x86_64
+	branch = refs/heads/master
