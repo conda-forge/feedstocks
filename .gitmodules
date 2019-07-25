@@ -28738,3 +28738,7 @@
 	url = https://github.com/conda-forge/libudev-cos6-x86_64-feedstock.git
 	path = feedstocks/libudev-cos6-x86_64
 	branch = refs/heads/master
+[submodule "libusb"]
+	url = https://github.com/conda-forge/libusb-feedstock.git
+	path = feedstocks/libusb
+	branch = refs/heads/master
