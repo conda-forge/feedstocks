@@ -28726,3 +28726,7 @@
 	url = https://github.com/conda-forge/sharedarray-feedstock.git
 	path = feedstocks/sharedarray
 	branch = refs/heads/master
+[submodule "easygui"]
+	url = https://github.com/conda-forge/easygui-feedstock.git
+	path = feedstocks/easygui
+	branch = refs/heads/master
