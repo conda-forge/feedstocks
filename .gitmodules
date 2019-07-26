@@ -28810,3 +28810,7 @@
 	url = https://github.com/conda-forge/lfortran-feedstock.git
 	path = feedstocks/lfortran
 	branch = refs/heads/master
+[submodule "unumpy"]
+	url = https://github.com/conda-forge/unumpy-feedstock.git
+	path = feedstocks/unumpy
+	branch = refs/heads/master
