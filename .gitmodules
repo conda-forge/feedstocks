@@ -28790,3 +28790,7 @@
 	url = https://github.com/conda-forge/r-daff-feedstock.git
 	path = feedstocks/r-daff
 	branch = refs/heads/master
+[submodule "r-geojsonlint"]
+	url = https://github.com/conda-forge/r-geojsonlint-feedstock.git
+	path = feedstocks/r-geojsonlint
+	branch = refs/heads/master
