@@ -28758,3 +28758,7 @@
 	url = https://github.com/conda-forge/console_bridge-feedstock.git
 	path = feedstocks/console_bridge
 	branch = refs/heads/master
+[submodule "r-odbc"]
+	url = https://github.com/conda-forge/r-odbc-feedstock.git
+	path = feedstocks/r-odbc
+	branch = refs/heads/master
