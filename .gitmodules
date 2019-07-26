@@ -28762,3 +28762,7 @@
 	url = https://github.com/conda-forge/r-odbc-feedstock.git
 	path = feedstocks/r-odbc
 	branch = refs/heads/master
+[submodule "r-neldermead"]
+	url = https://github.com/conda-forge/r-neldermead-feedstock.git
+	path = feedstocks/r-neldermead
+	branch = refs/heads/master
