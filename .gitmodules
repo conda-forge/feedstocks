@@ -28794,3 +28794,7 @@
 	url = https://github.com/conda-forge/r-geojsonlint-feedstock.git
 	path = feedstocks/r-geojsonlint
 	branch = refs/heads/master
+[submodule "uarray"]
+	url = https://github.com/conda-forge/uarray-feedstock.git
+	path = feedstocks/uarray
+	branch = refs/heads/master
