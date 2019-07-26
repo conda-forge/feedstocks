@@ -28746,3 +28746,7 @@
 	url = https://github.com/conda-forge/spint-feedstock.git
 	path = feedstocks/spint
 	branch = refs/heads/master
+[submodule "pyworkdir"]
+	url = https://github.com/conda-forge/pyworkdir-feedstock.git
+	path = feedstocks/pyworkdir
+	branch = refs/heads/master
