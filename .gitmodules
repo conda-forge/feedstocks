@@ -28802,3 +28802,7 @@
 	url = https://github.com/conda-forge/r-geojsonio-feedstock.git
 	path = feedstocks/r-geojsonio
 	branch = refs/heads/master
+[submodule "r-spatialeco"]
+	url = https://github.com/conda-forge/r-spatialeco-feedstock.git
+	path = feedstocks/r-spatialeco
+	branch = refs/heads/master
