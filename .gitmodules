@@ -28786,3 +28786,7 @@
 	url = https://github.com/conda-forge/r-jsonvalidate-feedstock.git
 	path = feedstocks/r-jsonvalidate
 	branch = refs/heads/master
+[submodule "r-daff"]
+	url = https://github.com/conda-forge/r-daff-feedstock.git
+	path = feedstocks/r-daff
+	branch = refs/heads/master
