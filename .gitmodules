@@ -28770,3 +28770,7 @@
 	url = https://github.com/conda-forge/r-optimsimplex-feedstock.git
 	path = feedstocks/r-optimsimplex
 	branch = refs/heads/master
+[submodule "r-v8"]
+	url = https://github.com/conda-forge/r-v8-feedstock.git
+	path = feedstocks/r-v8
+	branch = refs/heads/master
