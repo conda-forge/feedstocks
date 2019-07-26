@@ -28774,3 +28774,7 @@
 	url = https://github.com/conda-forge/r-v8-feedstock.git
 	path = feedstocks/r-v8
 	branch = refs/heads/master
+[submodule "r-geojson"]
+	url = https://github.com/conda-forge/r-geojson-feedstock.git
+	path = feedstocks/r-geojson
+	branch = refs/heads/master
