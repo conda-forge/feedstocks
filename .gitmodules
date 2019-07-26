@@ -28778,3 +28778,7 @@
 	url = https://github.com/conda-forge/r-geojson-feedstock.git
 	path = feedstocks/r-geojson
 	branch = refs/heads/master
+[submodule "r-rmapshaper"]
+	url = https://github.com/conda-forge/r-rmapshaper-feedstock.git
+	path = feedstocks/r-rmapshaper
+	branch = refs/heads/master
