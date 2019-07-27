@@ -28874,3 +28874,7 @@
 	url = https://github.com/conda-forge/r-aleplot-feedstock.git
 	path = feedstocks/r-aleplot
 	branch = refs/heads/master
+[submodule "nine"]
+	url = https://github.com/conda-forge/nine-feedstock.git
+	path = feedstocks/nine
+	branch = refs/heads/master
