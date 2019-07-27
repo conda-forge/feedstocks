@@ -28842,3 +28842,7 @@
 	url = https://github.com/conda-forge/sbcl-feedstock.git
 	path = feedstocks/sbcl
 	branch = refs/heads/master
+[submodule "r-tdboost"]
+	url = https://github.com/conda-forge/r-tdboost-feedstock.git
+	path = feedstocks/r-tdboost
+	branch = refs/heads/master
