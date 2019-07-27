@@ -28882,3 +28882,7 @@
 	url = https://github.com/conda-forge/urdfdom_headers-feedstock.git
 	path = feedstocks/urdfdom_headers
 	branch = refs/heads/master
+[submodule "tinyxml"]
+	url = https://github.com/conda-forge/tinyxml-feedstock.git
+	path = feedstocks/tinyxml
+	branch = refs/heads/master
