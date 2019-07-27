@@ -28822,3 +28822,7 @@
 	url = https://github.com/conda-forge/r-emld-feedstock.git
 	path = feedstocks/r-emld
 	branch = refs/heads/master
+[submodule "r-concaveman"]
+	url = https://github.com/conda-forge/r-concaveman-feedstock.git
+	path = feedstocks/r-concaveman
+	branch = refs/heads/master
