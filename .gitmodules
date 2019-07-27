@@ -28826,3 +28826,7 @@
 	url = https://github.com/conda-forge/r-concaveman-feedstock.git
 	path = feedstocks/r-concaveman
 	branch = refs/heads/master
+[submodule "empy"]
+	url = https://github.com/conda-forge/empy-feedstock.git
+	path = feedstocks/empy
+	branch = refs/heads/master
