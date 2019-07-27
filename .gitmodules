@@ -28878,3 +28878,7 @@
 	url = https://github.com/conda-forge/nine-feedstock.git
 	path = feedstocks/nine
 	branch = refs/heads/master
+[submodule "urdfdom_headers"]
+	url = https://github.com/conda-forge/urdfdom_headers-feedstock.git
+	path = feedstocks/urdfdom_headers
+	branch = refs/heads/master
