@@ -28890,3 +28890,7 @@
 	url = https://github.com/conda-forge/menpofit-feedstock.git
 	path = feedstocks/menpofit
 	branch = refs/heads/master
+[submodule "menpodetect"]
+	url = https://github.com/conda-forge/menpodetect-feedstock.git
+	path = feedstocks/menpodetect
+	branch = refs/heads/master
