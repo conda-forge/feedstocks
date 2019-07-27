@@ -28854,3 +28854,7 @@
 	url = https://github.com/conda-forge/r-ga-feedstock.git
 	path = feedstocks/r-ga
 	branch = refs/heads/master
+[submodule "r-lfe"]
+	url = https://github.com/conda-forge/r-lfe-feedstock.git
+	path = feedstocks/r-lfe
+	branch = refs/heads/master
