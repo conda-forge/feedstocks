@@ -28870,3 +28870,7 @@
 	url = https://github.com/conda-forge/r-dalex-feedstock.git
 	path = feedstocks/r-dalex
 	branch = refs/heads/master
+[submodule "r-aleplot"]
+	url = https://github.com/conda-forge/r-aleplot-feedstock.git
+	path = feedstocks/r-aleplot
+	branch = refs/heads/master
