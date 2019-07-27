@@ -28846,3 +28846,7 @@
 	url = https://github.com/conda-forge/r-tdboost-feedstock.git
 	path = feedstocks/r-tdboost
 	branch = refs/heads/master
+[submodule "r-glmnetutils"]
+	url = https://github.com/conda-forge/r-glmnetutils-feedstock.git
+	path = feedstocks/r-glmnetutils
+	branch = refs/heads/master
