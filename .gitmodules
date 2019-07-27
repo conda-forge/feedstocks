@@ -28862,3 +28862,7 @@
 	url = https://github.com/conda-forge/r-auc-feedstock.git
 	path = feedstocks/r-auc
 	branch = refs/heads/master
+[submodule "r-qrm"]
+	url = https://github.com/conda-forge/r-qrm-feedstock.git
+	path = feedstocks/r-qrm
+	branch = refs/heads/master
