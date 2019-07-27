@@ -28866,3 +28866,7 @@
 	url = https://github.com/conda-forge/r-qrm-feedstock.git
 	path = feedstocks/r-qrm
 	branch = refs/heads/master
+[submodule "r-dalex"]
+	url = https://github.com/conda-forge/r-dalex-feedstock.git
+	path = feedstocks/r-dalex
+	branch = refs/heads/master
