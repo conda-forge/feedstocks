@@ -28902,3 +28902,7 @@
 	url = https://github.com/conda-forge/rosdistro-feedstock.git
 	path = feedstocks/rosdistro
 	branch = refs/heads/master
+[submodule "r-rcppziggurat"]
+	url = https://github.com/conda-forge/r-rcppziggurat-feedstock.git
+	path = feedstocks/r-rcppziggurat
+	branch = refs/heads/master
