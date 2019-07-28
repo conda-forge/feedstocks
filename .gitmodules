@@ -28898,3 +28898,7 @@
 	url = https://github.com/conda-forge/rospkg-feedstock.git
 	path = feedstocks/rospkg
 	branch = refs/heads/master
+[submodule "rosdistro"]
+	url = https://github.com/conda-forge/rosdistro-feedstock.git
+	path = feedstocks/rosdistro
+	branch = refs/heads/master
