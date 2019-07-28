@@ -28914,3 +28914,7 @@
 	url = https://github.com/conda-forge/r-rfast-feedstock.git
 	path = feedstocks/r-rfast
 	branch = refs/heads/master
+[submodule "fortran_kernel"]
+	url = https://github.com/conda-forge/fortran_kernel-feedstock.git
+	path = feedstocks/fortran_kernel
+	branch = refs/heads/master
