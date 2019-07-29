@@ -28946,3 +28946,7 @@
 	url = https://github.com/conda-forge/win-unicode-console-feedstock.git
 	path = feedstocks/win-unicode-console
 	branch = refs/heads/master
+[submodule "nanotime"]
+	url = https://github.com/conda-forge/nanotime-feedstock.git
+	path = feedstocks/nanotime
+	branch = refs/heads/master
