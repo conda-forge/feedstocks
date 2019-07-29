@@ -28974,3 +28974,7 @@
 	url = https://github.com/conda-forge/entsoe-py-feedstock.git
 	path = feedstocks/entsoe-py
 	branch = refs/heads/master
+[submodule "gpgme"]
+	url = https://github.com/conda-forge/gpgme-feedstock.git
+	path = feedstocks/gpgme
+	branch = refs/heads/master
