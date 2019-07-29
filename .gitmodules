@@ -28950,3 +28950,7 @@
 	url = https://github.com/conda-forge/nanotime-feedstock.git
 	path = feedstocks/nanotime
 	branch = refs/heads/master
+[submodule "jsonpath-ng"]
+	url = https://github.com/conda-forge/jsonpath-ng-feedstock.git
+	path = feedstocks/jsonpath-ng
+	branch = refs/heads/master
