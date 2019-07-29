@@ -28962,3 +28962,7 @@
 	url = https://github.com/conda-forge/dvc-feedstock.git
 	path = feedstocks/dvc
 	branch = refs/heads/master
+[submodule "treelib"]
+	url = https://github.com/conda-forge/treelib-feedstock.git
+	path = feedstocks/treelib
+	branch = refs/heads/master
