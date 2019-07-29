@@ -28958,3 +28958,7 @@
 	url = https://github.com/conda-forge/schema-feedstock.git
 	path = feedstocks/schema
 	branch = refs/heads/master
+[submodule "dvc"]
+	url = https://github.com/conda-forge/dvc-feedstock.git
+	path = feedstocks/dvc
+	branch = refs/heads/master
