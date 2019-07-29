@@ -28978,3 +28978,7 @@
 	url = https://github.com/conda-forge/gpgme-feedstock.git
 	path = feedstocks/gpgme
 	branch = refs/heads/master
+[submodule "dask-gateway"]
+	url = https://github.com/conda-forge/dask-gateway-feedstock.git
+	path = feedstocks/dask-gateway
+	branch = refs/heads/master
