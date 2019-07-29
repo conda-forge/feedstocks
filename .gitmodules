@@ -28918,3 +28918,7 @@
 	url = https://github.com/conda-forge/fortran_kernel-feedstock.git
 	path = feedstocks/fortran_kernel
 	branch = refs/heads/master
+[submodule "r-benchmarkmedata"]
+	url = https://github.com/conda-forge/r-benchmarkmedata-feedstock.git
+	path = feedstocks/r-benchmarkmedata
+	branch = refs/heads/master
