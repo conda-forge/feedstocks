@@ -28926,3 +28926,7 @@
 	url = https://github.com/conda-forge/rosdep-feedstock.git
 	path = feedstocks/rosdep
 	branch = refs/heads/master
+[submodule "r-pastecs"]
+	url = https://github.com/conda-forge/r-pastecs-feedstock.git
+	path = feedstocks/r-pastecs
+	branch = refs/heads/master
