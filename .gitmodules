@@ -28990,3 +28990,7 @@
 	url = https://github.com/conda-forge/feets-feedstock.git
 	path = feedstocks/feets
 	branch = refs/heads/master
+[submodule "gpi_core"]
+	url = https://github.com/conda-forge/gpi_core-feedstock.git
+	path = feedstocks/gpi_core
+	branch = refs/heads/master
