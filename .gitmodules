@@ -29038,3 +29038,7 @@
 	url = https://github.com/conda-forge/gipl-feedstock.git
 	path = feedstocks/gipl
 	branch = refs/heads/master
+[submodule "padel"]
+	url = https://github.com/conda-forge/padel-feedstock.git
+	path = feedstocks/padel
+	branch = refs/heads/master
