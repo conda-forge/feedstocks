@@ -29058,3 +29058,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-napoleon-feedstock.git
 	path = feedstocks/sphinxcontrib-napoleon
 	branch = refs/heads/master
+[submodule "pyrr"]
+	url = https://github.com/conda-forge/pyrr-feedstock.git
+	path = feedstocks/pyrr
+	branch = refs/heads/master
