@@ -29054,3 +29054,7 @@
 	url = https://github.com/conda-forge/urbanaccess-feedstock.git
 	path = feedstocks/urbanaccess
 	branch = refs/heads/master
+[submodule "sphinxcontrib-napoleon"]
+	url = https://github.com/conda-forge/sphinxcontrib-napoleon-feedstock.git
+	path = feedstocks/sphinxcontrib-napoleon
+	branch = refs/heads/master
