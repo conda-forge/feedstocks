@@ -29006,3 +29006,7 @@
 	url = https://github.com/conda-forge/pandana-feedstock.git
 	path = feedstocks/pandana
 	branch = refs/heads/master
+[submodule "starlink-ast"]
+	url = https://github.com/conda-forge/starlink-ast-feedstock.git
+	path = feedstocks/starlink-ast
+	branch = refs/heads/master
