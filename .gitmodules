@@ -29074,3 +29074,7 @@
 	url = https://github.com/conda-forge/ndarray-feedstock.git
 	path = feedstocks/ndarray
 	branch = refs/heads/master
+[submodule "zetcd"]
+	url = https://github.com/conda-forge/zetcd-feedstock.git
+	path = feedstocks/zetcd
+	branch = refs/heads/master
