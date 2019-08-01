@@ -29070,3 +29070,7 @@
 	url = https://github.com/conda-forge/nghttp2-feedstock.git
 	path = feedstocks/nghttp2
 	branch = refs/heads/master
+[submodule "ndarray"]
+	url = https://github.com/conda-forge/ndarray-feedstock.git
+	path = feedstocks/ndarray
+	branch = refs/heads/master
