@@ -29082,3 +29082,7 @@
 	url = https://github.com/conda-forge/mad-feedstock.git
 	path = feedstocks/mad
 	branch = refs/heads/master
+[submodule "byexample"]
+	url = https://github.com/conda-forge/byexample-feedstock.git
+	path = feedstocks/byexample
+	branch = refs/heads/master
