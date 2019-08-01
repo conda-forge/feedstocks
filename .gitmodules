@@ -29078,3 +29078,7 @@
 	url = https://github.com/conda-forge/zetcd-feedstock.git
 	path = feedstocks/zetcd
 	branch = refs/heads/master
+[submodule "mad"]
+	url = https://github.com/conda-forge/mad-feedstock.git
+	path = feedstocks/mad
+	branch = refs/heads/master
