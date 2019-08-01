@@ -29062,3 +29062,7 @@
 	url = https://github.com/conda-forge/pyrr-feedstock.git
 	path = feedstocks/pyrr
 	branch = refs/heads/master
+[submodule "pyte"]
+	url = https://github.com/conda-forge/pyte-feedstock.git
+	path = feedstocks/pyte
+	branch = refs/heads/master
