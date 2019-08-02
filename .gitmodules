@@ -29146,3 +29146,7 @@
 	url = https://github.com/conda-forge/r-ggsn-feedstock.git
 	path = feedstocks/r-ggsn
 	branch = refs/heads/master
+[submodule "rbc"]
+	url = https://github.com/conda-forge/rbc-feedstock.git
+	path = feedstocks/rbc
+	branch = refs/heads/master
