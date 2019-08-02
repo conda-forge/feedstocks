@@ -29130,3 +29130,7 @@
 	url = https://github.com/conda-forge/github-ssh-auth-feedstock.git
 	path = feedstocks/github-ssh-auth
 	branch = refs/heads/master
+[submodule "depinfo"]
+	url = https://github.com/conda-forge/depinfo-feedstock.git
+	path = feedstocks/depinfo
+	branch = refs/heads/master
