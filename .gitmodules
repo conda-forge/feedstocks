@@ -29138,3 +29138,7 @@
 	url = https://github.com/conda-forge/tobac-feedstock.git
 	path = feedstocks/tobac
 	branch = refs/heads/master
+[submodule "datacompy"]
+	url = https://github.com/conda-forge/datacompy-feedstock.git
+	path = feedstocks/datacompy
+	branch = refs/heads/master
