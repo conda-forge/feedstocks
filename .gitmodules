@@ -29126,3 +29126,7 @@
 	url = https://github.com/conda-forge/pynamodb-feedstock.git
 	path = feedstocks/pynamodb
 	branch = refs/heads/master
+[submodule "github-ssh-auth"]
+	url = https://github.com/conda-forge/github-ssh-auth-feedstock.git
+	path = feedstocks/github-ssh-auth
+	branch = refs/heads/master
