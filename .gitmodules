@@ -29114,3 +29114,7 @@
 	url = https://github.com/conda-forge/re2c-feedstock.git
 	path = feedstocks/re2c
 	branch = refs/heads/master
+[submodule "caiman"]
+	url = https://github.com/conda-forge/caiman-feedstock.git
+	path = feedstocks/caiman
+	branch = refs/heads/master
