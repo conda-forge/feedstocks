@@ -29118,3 +29118,7 @@
 	url = https://github.com/conda-forge/caiman-feedstock.git
 	path = feedstocks/caiman
 	branch = refs/heads/master
+[submodule "github-webhook"]
+	url = https://github.com/conda-forge/github-webhook-feedstock.git
+	path = feedstocks/github-webhook
+	branch = refs/heads/master
