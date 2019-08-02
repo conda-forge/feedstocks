@@ -29110,3 +29110,7 @@
 	url = https://github.com/conda-forge/foam_ct_phantom-feedstock.git
 	path = feedstocks/foam_ct_phantom
 	branch = refs/heads/master
+[submodule "re2c"]
+	url = https://github.com/conda-forge/re2c-feedstock.git
+	path = feedstocks/re2c
+	branch = refs/heads/master
