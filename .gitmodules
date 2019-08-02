@@ -29122,3 +29122,7 @@
 	url = https://github.com/conda-forge/github-webhook-feedstock.git
 	path = feedstocks/github-webhook
 	branch = refs/heads/master
+[submodule "pynamodb"]
+	url = https://github.com/conda-forge/pynamodb-feedstock.git
+	path = feedstocks/pynamodb
+	branch = refs/heads/master
