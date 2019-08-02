@@ -29158,3 +29158,7 @@
 	url = https://github.com/conda-forge/boruta_py-feedstock.git
 	path = feedstocks/boruta_py
 	branch = refs/heads/master
+[submodule "matplotcheck"]
+	url = https://github.com/conda-forge/matplotcheck-feedstock.git
+	path = feedstocks/matplotcheck
+	branch = refs/heads/master
