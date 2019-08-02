@@ -29102,3 +29102,7 @@
 	url = https://github.com/conda-forge/r-clustvarsel-feedstock.git
 	path = feedstocks/r-clustvarsel
 	branch = refs/heads/master
+[submodule "r-matrixtests"]
+	url = https://github.com/conda-forge/r-matrixtests-feedstock.git
+	path = feedstocks/r-matrixtests
+	branch = refs/heads/master
