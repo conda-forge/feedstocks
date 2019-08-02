@@ -29106,3 +29106,7 @@
 	url = https://github.com/conda-forge/r-matrixtests-feedstock.git
 	path = feedstocks/r-matrixtests
 	branch = refs/heads/master
+[submodule "foam_ct_phantom"]
+	url = https://github.com/conda-forge/foam_ct_phantom-feedstock.git
+	path = feedstocks/foam_ct_phantom
+	branch = refs/heads/master
