@@ -29134,3 +29134,7 @@
 	url = https://github.com/conda-forge/depinfo-feedstock.git
 	path = feedstocks/depinfo
 	branch = refs/heads/master
+[submodule "tobac"]
+	url = https://github.com/conda-forge/tobac-feedstock.git
+	path = feedstocks/tobac
+	branch = refs/heads/master
