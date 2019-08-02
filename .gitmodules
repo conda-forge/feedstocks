@@ -29098,3 +29098,7 @@
 	url = https://github.com/conda-forge/r-metacycle-feedstock.git
 	path = feedstocks/r-metacycle
 	branch = refs/heads/master
+[submodule "r-clustvarsel"]
+	url = https://github.com/conda-forge/r-clustvarsel-feedstock.git
+	path = feedstocks/r-clustvarsel
+	branch = refs/heads/master
