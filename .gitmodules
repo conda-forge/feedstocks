@@ -29190,3 +29190,7 @@
 	url = https://github.com/conda-forge/buildbot-pkg-feedstock.git
 	path = feedstocks/buildbot-pkg
 	branch = refs/heads/master
+[submodule "buildbot-waterfall-view"]
+	url = https://github.com/conda-forge/buildbot-waterfall-view-feedstock.git
+	path = feedstocks/buildbot-waterfall-view
+	branch = refs/heads/master
