@@ -29186,3 +29186,7 @@
 	url = https://github.com/conda-forge/buildbot-console-view-feedstock.git
 	path = feedstocks/buildbot-console-view
 	branch = refs/heads/master
+[submodule "buildbot-pkg"]
+	url = https://github.com/conda-forge/buildbot-pkg-feedstock.git
+	path = feedstocks/buildbot-pkg
+	branch = refs/heads/master
