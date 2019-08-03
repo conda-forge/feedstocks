@@ -29178,3 +29178,7 @@
 	url = https://github.com/conda-forge/buildbot-feedstock.git
 	path = feedstocks/buildbot
 	branch = refs/heads/master
+[submodule "buildbot-grid-view"]
+	url = https://github.com/conda-forge/buildbot-grid-view-feedstock.git
+	path = feedstocks/buildbot-grid-view
+	branch = refs/heads/master
