@@ -29198,3 +29198,7 @@
 	url = https://github.com/conda-forge/evv4esm-feedstock.git
 	path = feedstocks/evv4esm
 	branch = refs/heads/master
+[submodule "importlib-metadata"]
+	url = https://github.com/conda-forge/importlib-metadata-feedstock.git
+	path = feedstocks/importlib-metadata
+	branch = refs/heads/master
