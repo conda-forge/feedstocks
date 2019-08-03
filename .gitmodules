@@ -29166,3 +29166,7 @@
 	url = https://github.com/conda-forge/r-transport-feedstock.git
 	path = feedstocks/r-transport
 	branch = refs/heads/master
+[submodule "r-listarrays"]
+	url = https://github.com/conda-forge/r-listarrays-feedstock.git
+	path = feedstocks/r-listarrays
+	branch = refs/heads/master
