@@ -29202,3 +29202,7 @@
 	url = https://github.com/conda-forge/importlib-metadata-feedstock.git
 	path = feedstocks/importlib-metadata
 	branch = refs/heads/master
+[submodule "superset"]
+	url = https://github.com/conda-forge/superset-feedstock.git
+	path = feedstocks/superset
+	branch = refs/heads/master
