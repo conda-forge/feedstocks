@@ -29174,3 +29174,7 @@
 	url = https://github.com/conda-forge/buildbot-worker-feedstock.git
 	path = feedstocks/buildbot-worker
 	branch = refs/heads/master
+[submodule "buildbot"]
+	url = https://github.com/conda-forge/buildbot-feedstock.git
+	path = feedstocks/buildbot
+	branch = refs/heads/master
