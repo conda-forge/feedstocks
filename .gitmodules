@@ -29170,3 +29170,7 @@
 	url = https://github.com/conda-forge/r-listarrays-feedstock.git
 	path = feedstocks/r-listarrays
 	branch = refs/heads/master
+[submodule "buildbot-worker"]
+	url = https://github.com/conda-forge/buildbot-worker-feedstock.git
+	path = feedstocks/buildbot-worker
+	branch = refs/heads/master
