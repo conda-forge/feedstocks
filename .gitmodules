@@ -29218,3 +29218,7 @@
 	url = https://github.com/conda-forge/zziplib-feedstock.git
 	path = feedstocks/zziplib
 	branch = refs/heads/master
+[submodule "go-waitforit"]
+	url = https://github.com/conda-forge/go-waitforit-feedstock.git
+	path = feedstocks/go-waitforit
+	branch = refs/heads/master
