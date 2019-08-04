@@ -29206,3 +29206,7 @@
 	url = https://github.com/conda-forge/superset-feedstock.git
 	path = feedstocks/superset
 	branch = refs/heads/master
+[submodule "assimp"]
+	url = https://github.com/conda-forge/assimp-feedstock.git
+	path = feedstocks/assimp
+	branch = refs/heads/master
