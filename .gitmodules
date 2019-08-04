@@ -29250,3 +29250,7 @@
 	url = https://github.com/conda-forge/pari-seadata-feedstock.git
 	path = feedstocks/pari-seadata
 	branch = refs/heads/master
+[submodule "pari-nftables"]
+	url = https://github.com/conda-forge/pari-nftables-feedstock.git
+	path = feedstocks/pari-nftables
+	branch = refs/heads/master
