@@ -29210,3 +29210,7 @@
 	url = https://github.com/conda-forge/assimp-feedstock.git
 	path = feedstocks/assimp
 	branch = refs/heads/master
+[submodule "wtforms-json"]
+	url = https://github.com/conda-forge/wtforms-json-feedstock.git
+	path = feedstocks/wtforms-json
+	branch = refs/heads/master
