@@ -29266,3 +29266,7 @@
 	url = https://github.com/conda-forge/pari-galdata-feedstock.git
 	path = feedstocks/pari-galdata
 	branch = refs/heads/master
+[submodule "pari-seadata-small"]
+	url = https://github.com/conda-forge/pari-seadata-small-feedstock.git
+	path = feedstocks/pari-seadata-small
+	branch = refs/heads/master
