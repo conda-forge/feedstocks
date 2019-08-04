@@ -29226,3 +29226,7 @@
 	url = https://github.com/conda-forge/r-multimode-feedstock.git
 	path = feedstocks/r-multimode
 	branch = refs/heads/master
+[submodule "retry"]
+	url = https://github.com/conda-forge/retry-feedstock.git
+	path = feedstocks/retry
+	branch = refs/heads/master
