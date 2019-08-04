@@ -29262,3 +29262,7 @@
 	url = https://github.com/conda-forge/pari-seadata-big-feedstock.git
 	path = feedstocks/pari-seadata-big
 	branch = refs/heads/master
+[submodule "pari-galdata"]
+	url = https://github.com/conda-forge/pari-galdata-feedstock.git
+	path = feedstocks/pari-galdata
+	branch = refs/heads/master
