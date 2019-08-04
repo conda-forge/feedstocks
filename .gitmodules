@@ -29254,3 +29254,7 @@
 	url = https://github.com/conda-forge/pari-nftables-feedstock.git
 	path = feedstocks/pari-nftables
 	branch = refs/heads/master
+[submodule "pari-elldata"]
+	url = https://github.com/conda-forge/pari-elldata-feedstock.git
+	path = feedstocks/pari-elldata
+	branch = refs/heads/master
