@@ -29242,3 +29242,7 @@
 	url = https://github.com/conda-forge/r-clusteval-feedstock.git
 	path = feedstocks/r-clusteval
 	branch = refs/heads/master
+[submodule "r-pdc"]
+	url = https://github.com/conda-forge/r-pdc-feedstock.git
+	path = feedstocks/r-pdc
+	branch = refs/heads/master
