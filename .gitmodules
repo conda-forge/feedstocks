@@ -29214,3 +29214,7 @@
 	url = https://github.com/conda-forge/wtforms-json-feedstock.git
 	path = feedstocks/wtforms-json
 	branch = refs/heads/master
+[submodule "zziplib"]
+	url = https://github.com/conda-forge/zziplib-feedstock.git
+	path = feedstocks/zziplib
+	branch = refs/heads/master
