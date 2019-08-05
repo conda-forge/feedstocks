@@ -29302,3 +29302,7 @@
 	url = https://github.com/conda-forge/r-paintmap-feedstock.git
 	path = feedstocks/r-paintmap
 	branch = refs/heads/master
+[submodule "r-ontologysimilarity"]
+	url = https://github.com/conda-forge/r-ontologysimilarity-feedstock.git
+	path = feedstocks/r-ontologysimilarity
+	branch = refs/heads/master
