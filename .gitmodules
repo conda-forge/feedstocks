@@ -29306,3 +29306,7 @@
 	url = https://github.com/conda-forge/r-ontologysimilarity-feedstock.git
 	path = feedstocks/r-ontologysimilarity
 	branch = refs/heads/master
+[submodule "bambi"]
+	url = https://github.com/conda-forge/bambi-feedstock.git
+	path = feedstocks/bambi
+	branch = refs/heads/master
