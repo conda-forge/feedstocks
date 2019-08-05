@@ -29314,3 +29314,7 @@
 	url = https://github.com/conda-forge/pyusb-feedstock.git
 	path = feedstocks/pyusb
 	branch = refs/heads/master
+[submodule "tippecanoe"]
+	url = https://github.com/conda-forge/tippecanoe-feedstock.git
+	path = feedstocks/tippecanoe
+	branch = refs/heads/master
