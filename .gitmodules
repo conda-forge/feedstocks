@@ -29282,3 +29282,7 @@
 	url = https://github.com/conda-forge/r-locpol-feedstock.git
 	path = feedstocks/r-locpol
 	branch = refs/heads/master
+[submodule "dos2unix"]
+	url = https://github.com/conda-forge/dos2unix-feedstock.git
+	path = feedstocks/dos2unix
+	branch = refs/heads/master
