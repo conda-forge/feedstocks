@@ -29310,3 +29310,7 @@
 	url = https://github.com/conda-forge/bambi-feedstock.git
 	path = feedstocks/bambi
 	branch = refs/heads/master
+[submodule "pyusb"]
+	url = https://github.com/conda-forge/pyusb-feedstock.git
+	path = feedstocks/pyusb
+	branch = refs/heads/master
