@@ -29294,3 +29294,7 @@
 	url = https://github.com/conda-forge/jupyter_paperboy-feedstock.git
 	path = feedstocks/jupyter_paperboy
 	branch = refs/heads/master
+[submodule "pulse"]
+	url = https://github.com/conda-forge/pulse-feedstock.git
+	path = feedstocks/pulse
+	branch = refs/heads/master
