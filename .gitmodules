@@ -29330,3 +29330,7 @@
 	url = https://github.com/conda-forge/xmsgrid-feedstock.git
 	path = feedstocks/xmsgrid
 	branch = refs/heads/master
+[submodule "json-e"]
+	url = https://github.com/conda-forge/json-e-feedstock.git
+	path = feedstocks/json-e
+	branch = refs/heads/master
