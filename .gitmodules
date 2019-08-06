@@ -29338,3 +29338,7 @@
 	url = https://github.com/conda-forge/removestar-feedstock.git
 	path = feedstocks/removestar
 	branch = refs/heads/master
+[submodule "jupyter-kernel-singular"]
+	url = https://github.com/conda-forge/jupyter-kernel-singular-feedstock.git
+	path = feedstocks/jupyter-kernel-singular
+	branch = refs/heads/master
