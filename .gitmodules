@@ -29354,3 +29354,7 @@
 	url = https://github.com/conda-forge/fpocket-feedstock.git
 	path = feedstocks/fpocket
 	branch = refs/heads/master
+[submodule "r-longitudinaldata"]
+	url = https://github.com/conda-forge/r-longitudinaldata-feedstock.git
+	path = feedstocks/r-longitudinaldata
+	branch = refs/heads/master
