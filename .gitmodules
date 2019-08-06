@@ -29342,3 +29342,7 @@
 	url = https://github.com/conda-forge/jupyter-kernel-singular-feedstock.git
 	path = feedstocks/jupyter-kernel-singular
 	branch = refs/heads/master
+[submodule "bcpandas"]
+	url = https://github.com/conda-forge/bcpandas-feedstock.git
+	path = feedstocks/bcpandas
+	branch = refs/heads/master
