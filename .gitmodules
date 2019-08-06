@@ -29334,3 +29334,7 @@
 	url = https://github.com/conda-forge/json-e-feedstock.git
 	path = feedstocks/json-e
 	branch = refs/heads/master
+[submodule "removestar"]
+	url = https://github.com/conda-forge/removestar-feedstock.git
+	path = feedstocks/removestar
+	branch = refs/heads/master
