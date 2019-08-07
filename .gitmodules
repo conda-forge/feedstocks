@@ -29358,3 +29358,7 @@
 	url = https://github.com/conda-forge/r-longitudinaldata-feedstock.git
 	path = feedstocks/r-longitudinaldata
 	branch = refs/heads/master
+[submodule "chalice"]
+	url = https://github.com/conda-forge/chalice-feedstock.git
+	path = feedstocks/chalice
+	branch = refs/heads/master
