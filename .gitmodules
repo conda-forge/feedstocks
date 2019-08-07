@@ -29414,3 +29414,7 @@
 	url = https://github.com/conda-forge/aliyun-python-sdk-core-feedstock.git
 	path = feedstocks/aliyun-python-sdk-core
 	branch = refs/heads/master
+[submodule "opencamlib"]
+	url = https://github.com/conda-forge/opencamlib-feedstock.git
+	path = feedstocks/opencamlib
+	branch = refs/heads/master
