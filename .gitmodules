@@ -29434,3 +29434,7 @@
 	url = https://github.com/conda-forge/aliyun-python-sdk-core-v3-feedstock.git
 	path = feedstocks/aliyun-python-sdk-core-v3
 	branch = refs/heads/master
+[submodule "aliyun-python-sdk-kms"]
+	url = https://github.com/conda-forge/aliyun-python-sdk-kms-feedstock.git
+	path = feedstocks/aliyun-python-sdk-kms
+	branch = refs/heads/master
