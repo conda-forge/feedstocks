@@ -29402,3 +29402,7 @@
 	url = https://github.com/conda-forge/libpgmath-feedstock.git
 	path = feedstocks/libpgmath
 	branch = refs/heads/master
+[submodule "pyctm"]
+	url = https://github.com/conda-forge/pyctm-feedstock.git
+	path = feedstocks/pyctm
+	branch = refs/heads/master
