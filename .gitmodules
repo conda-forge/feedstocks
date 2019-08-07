@@ -29374,3 +29374,7 @@
 	url = https://github.com/conda-forge/docker-map-feedstock.git
 	path = feedstocks/docker-map
 	branch = refs/heads/master
+[submodule "labelme"]
+	url = https://github.com/conda-forge/labelme-feedstock.git
+	path = feedstocks/labelme
+	branch = refs/heads/master
