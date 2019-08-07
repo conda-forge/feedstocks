@@ -29422,3 +29422,7 @@
 	url = https://github.com/conda-forge/r-tsclust-feedstock.git
 	path = feedstocks/r-tsclust
 	branch = refs/heads/master
+[submodule "timehash"]
+	url = https://github.com/conda-forge/timehash-feedstock.git
+	path = feedstocks/timehash
+	branch = refs/heads/master
