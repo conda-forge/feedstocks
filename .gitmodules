@@ -29406,3 +29406,7 @@
 	url = https://github.com/conda-forge/pyctm-feedstock.git
 	path = feedstocks/pyctm
 	branch = refs/heads/master
+[submodule "oss2"]
+	url = https://github.com/conda-forge/oss2-feedstock.git
+	path = feedstocks/oss2
+	branch = refs/heads/master
