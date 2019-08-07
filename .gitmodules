@@ -29410,3 +29410,7 @@
 	url = https://github.com/conda-forge/oss2-feedstock.git
 	path = feedstocks/oss2
 	branch = refs/heads/master
+[submodule "aliyun-python-sdk-core"]
+	url = https://github.com/conda-forge/aliyun-python-sdk-core-feedstock.git
+	path = feedstocks/aliyun-python-sdk-core
+	branch = refs/heads/master
