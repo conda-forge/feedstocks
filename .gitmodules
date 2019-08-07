@@ -29366,3 +29366,7 @@
 	url = https://github.com/conda-forge/ubermagutil-feedstock.git
 	path = feedstocks/ubermagutil
 	branch = refs/heads/master
+[submodule "momepy"]
+	url = https://github.com/conda-forge/momepy-feedstock.git
+	path = feedstocks/momepy
+	branch = refs/heads/master
