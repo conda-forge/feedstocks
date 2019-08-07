@@ -29390,3 +29390,7 @@
 	url = https://github.com/conda-forge/domovoi-feedstock.git
 	path = feedstocks/domovoi
 	branch = refs/heads/master
+[submodule "dakota"]
+	url = https://github.com/conda-forge/dakota-feedstock.git
+	path = feedstocks/dakota
+	branch = refs/heads/master
