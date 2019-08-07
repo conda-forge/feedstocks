@@ -29430,3 +29430,7 @@
 	url = https://github.com/conda-forge/hpp-fcl-feedstock.git
 	path = feedstocks/hpp-fcl
 	branch = refs/heads/master
+[submodule "aliyun-python-sdk-core-v3"]
+	url = https://github.com/conda-forge/aliyun-python-sdk-core-v3-feedstock.git
+	path = feedstocks/aliyun-python-sdk-core-v3
+	branch = refs/heads/master
