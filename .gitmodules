@@ -29378,3 +29378,7 @@
 	url = https://github.com/conda-forge/labelme-feedstock.git
 	path = feedstocks/labelme
 	branch = refs/heads/master
+[submodule "octomap"]
+	url = https://github.com/conda-forge/octomap-feedstock.git
+	path = feedstocks/octomap
+	branch = refs/heads/master
