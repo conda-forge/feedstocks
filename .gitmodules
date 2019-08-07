@@ -29398,3 +29398,7 @@
 	url = https://github.com/conda-forge/eliot-tree-feedstock.git
 	path = feedstocks/eliot-tree
 	branch = refs/heads/master
+[submodule "libpgmath"]
+	url = https://github.com/conda-forge/libpgmath-feedstock.git
+	path = feedstocks/libpgmath
+	branch = refs/heads/master
