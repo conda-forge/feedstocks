@@ -29418,3 +29418,7 @@
 	url = https://github.com/conda-forge/opencamlib-feedstock.git
 	path = feedstocks/opencamlib
 	branch = refs/heads/master
+[submodule "r-tsclust"]
+	url = https://github.com/conda-forge/r-tsclust-feedstock.git
+	path = feedstocks/r-tsclust
+	branch = refs/heads/master
