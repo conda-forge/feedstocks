@@ -29426,3 +29426,7 @@
 	url = https://github.com/conda-forge/timehash-feedstock.git
 	path = feedstocks/timehash
 	branch = refs/heads/master
+[submodule "hpp-fcl"]
+	url = https://github.com/conda-forge/hpp-fcl-feedstock.git
+	path = feedstocks/hpp-fcl
+	branch = refs/heads/master
