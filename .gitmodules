@@ -29498,3 +29498,7 @@
 	url = https://github.com/conda-forge/dictlib-feedstock.git
 	path = feedstocks/dictlib
 	branch = refs/heads/master
+[submodule "conda-press"]
+	url = https://github.com/conda-forge/conda-press-feedstock.git
+	path = feedstocks/conda-press
+	branch = refs/heads/master
