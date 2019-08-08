@@ -29486,3 +29486,7 @@
 	url = https://github.com/conda-forge/sphinx_fontawesome-feedstock.git
 	path = feedstocks/sphinx_fontawesome
 	branch = refs/heads/master
+[submodule "r-proftools"]
+	url = https://github.com/conda-forge/r-proftools-feedstock.git
+	path = feedstocks/r-proftools
+	branch = refs/heads/master
