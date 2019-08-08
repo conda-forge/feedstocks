@@ -29442,3 +29442,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-redoc-feedstock.git
 	path = feedstocks/sphinxcontrib-redoc
 	branch = refs/heads/master
+[submodule "buildbot-www"]
+	url = https://github.com/conda-forge/buildbot-www-feedstock.git
+	path = feedstocks/buildbot-www
+	branch = refs/heads/master
