@@ -29478,3 +29478,7 @@
 	url = https://github.com/conda-forge/xmsinterp-feedstock.git
 	path = feedstocks/xmsinterp
 	branch = refs/heads/master
+[submodule "cfn-flip"]
+	url = https://github.com/conda-forge/cfn-flip-feedstock.git
+	path = feedstocks/cfn-flip
+	branch = refs/heads/master
