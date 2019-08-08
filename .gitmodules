@@ -29462,3 +29462,7 @@
 	url = https://github.com/conda-forge/pinocchio-feedstock.git
 	path = feedstocks/pinocchio
 	branch = refs/heads/master
+[submodule "r-tsdist"]
+	url = https://github.com/conda-forge/r-tsdist-feedstock.git
+	path = feedstocks/r-tsdist
+	branch = refs/heads/master
