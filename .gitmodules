@@ -29446,3 +29446,7 @@
 	url = https://github.com/conda-forge/buildbot-www-feedstock.git
 	path = feedstocks/buildbot-www
 	branch = refs/heads/master
+[submodule "sagetex"]
+	url = https://github.com/conda-forge/sagetex-feedstock.git
+	path = feedstocks/sagetex
+	branch = refs/heads/master
