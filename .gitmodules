@@ -29494,3 +29494,7 @@
 	url = https://github.com/conda-forge/omnisci-pytools-feedstock.git
 	path = feedstocks/omnisci-pytools
 	branch = refs/heads/master
+[submodule "dictlib"]
+	url = https://github.com/conda-forge/dictlib-feedstock.git
+	path = feedstocks/dictlib
+	branch = refs/heads/master
