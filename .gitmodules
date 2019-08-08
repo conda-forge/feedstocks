@@ -29482,3 +29482,7 @@
 	url = https://github.com/conda-forge/cfn-flip-feedstock.git
 	path = feedstocks/cfn-flip
 	branch = refs/heads/master
+[submodule "sphinx_fontawesome"]
+	url = https://github.com/conda-forge/sphinx_fontawesome-feedstock.git
+	path = feedstocks/sphinx_fontawesome
+	branch = refs/heads/master
