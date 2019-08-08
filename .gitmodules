@@ -29438,3 +29438,7 @@
 	url = https://github.com/conda-forge/aliyun-python-sdk-kms-feedstock.git
 	path = feedstocks/aliyun-python-sdk-kms
 	branch = refs/heads/master
+[submodule "sphinxcontrib-redoc"]
+	url = https://github.com/conda-forge/sphinxcontrib-redoc-feedstock.git
+	path = feedstocks/sphinxcontrib-redoc
+	branch = refs/heads/master
