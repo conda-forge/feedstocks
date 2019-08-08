@@ -29490,3 +29490,7 @@
 	url = https://github.com/conda-forge/r-proftools-feedstock.git
 	path = feedstocks/r-proftools
 	branch = refs/heads/master
+[submodule "omnisci-pytools"]
+	url = https://github.com/conda-forge/omnisci-pytools-feedstock.git
+	path = feedstocks/omnisci-pytools
+	branch = refs/heads/master
