@@ -29510,3 +29510,7 @@
 	url = https://github.com/conda-forge/django-cleanup-feedstock.git
 	path = feedstocks/django-cleanup
 	branch = refs/heads/master
+[submodule "go-terraform-docs"]
+	url = https://github.com/conda-forge/go-terraform-docs-feedstock.git
+	path = feedstocks/go-terraform-docs
+	branch = refs/heads/master
