@@ -29514,3 +29514,7 @@
 	url = https://github.com/conda-forge/go-terraform-docs-feedstock.git
 	path = feedstocks/go-terraform-docs
 	branch = refs/heads/master
+[submodule "r-multinet"]
+	url = https://github.com/conda-forge/r-multinet-feedstock.git
+	path = feedstocks/r-multinet
+	branch = refs/heads/master
