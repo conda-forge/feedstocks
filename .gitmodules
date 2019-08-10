@@ -29546,3 +29546,7 @@
 	url = https://github.com/conda-forge/r-inaparc-feedstock.git
 	path = feedstocks/r-inaparc
 	branch = refs/heads/master
+[submodule "r-entropyexplorer"]
+	url = https://github.com/conda-forge/r-entropyexplorer-feedstock.git
+	path = feedstocks/r-entropyexplorer
+	branch = refs/heads/master
