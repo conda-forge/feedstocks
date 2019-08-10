@@ -29574,3 +29574,7 @@
 	url = https://github.com/conda-forge/r-nntensor-feedstock.git
 	path = feedstocks/r-nntensor
 	branch = refs/heads/master
+[submodule "r-reader"]
+	url = https://github.com/conda-forge/r-reader-feedstock.git
+	path = feedstocks/r-reader
+	branch = refs/heads/master
