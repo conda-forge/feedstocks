@@ -29550,3 +29550,7 @@
 	url = https://github.com/conda-forge/r-entropyexplorer-feedstock.git
 	path = feedstocks/r-entropyexplorer
 	branch = refs/heads/master
+[submodule "r-scrime"]
+	url = https://github.com/conda-forge/r-scrime-feedstock.git
+	path = feedstocks/r-scrime
+	branch = refs/heads/master
