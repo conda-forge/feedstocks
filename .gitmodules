@@ -29526,3 +29526,7 @@
 	url = https://github.com/conda-forge/r-mcmcprecision-feedstock.git
 	path = feedstocks/r-mcmcprecision
 	branch = refs/heads/master
+[submodule "r-txtq"]
+	url = https://github.com/conda-forge/r-txtq-feedstock.git
+	path = feedstocks/r-txtq
+	branch = refs/heads/master
