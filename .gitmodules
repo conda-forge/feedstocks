@@ -29570,3 +29570,7 @@
 	url = https://github.com/conda-forge/r-grimport2-feedstock.git
 	path = feedstocks/r-grimport2
 	branch = refs/heads/master
+[submodule "r-nntensor"]
+	url = https://github.com/conda-forge/r-nntensor-feedstock.git
+	path = feedstocks/r-nntensor
+	branch = refs/heads/master
