@@ -29542,3 +29542,7 @@
 	url = https://github.com/conda-forge/r-subspace-feedstock.git
 	path = feedstocks/r-subspace
 	branch = refs/heads/master
+[submodule "r-inaparc"]
+	url = https://github.com/conda-forge/r-inaparc-feedstock.git
+	path = feedstocks/r-inaparc
+	branch = refs/heads/master
