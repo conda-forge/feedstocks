@@ -29578,3 +29578,7 @@
 	url = https://github.com/conda-forge/r-reader-feedstock.git
 	path = feedstocks/r-reader
 	branch = refs/heads/master
+[submodule "r-ppclust"]
+	url = https://github.com/conda-forge/r-ppclust-feedstock.git
+	path = feedstocks/r-ppclust
+	branch = refs/heads/master
