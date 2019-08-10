@@ -29562,3 +29562,7 @@
 	url = https://github.com/conda-forge/r-sombrero-feedstock.git
 	path = feedstocks/r-sombrero
 	branch = refs/heads/master
+[submodule "r-rmisc"]
+	url = https://github.com/conda-forge/r-rmisc-feedstock.git
+	path = feedstocks/r-rmisc
+	branch = refs/heads/master
