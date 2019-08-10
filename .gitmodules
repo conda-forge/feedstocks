@@ -29518,3 +29518,7 @@
 	url = https://github.com/conda-forge/r-multinet-feedstock.git
 	path = feedstocks/r-multinet
 	branch = refs/heads/master
+[submodule "r-genlib"]
+	url = https://github.com/conda-forge/r-genlib-feedstock.git
+	path = feedstocks/r-genlib
+	branch = refs/heads/master
