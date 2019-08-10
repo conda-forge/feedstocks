@@ -29554,3 +29554,7 @@
 	url = https://github.com/conda-forge/r-scrime-feedstock.git
 	path = feedstocks/r-scrime
 	branch = refs/heads/master
+[submodule "r-nsprcomp"]
+	url = https://github.com/conda-forge/r-nsprcomp-feedstock.git
+	path = feedstocks/r-nsprcomp
+	branch = refs/heads/master
