@@ -29538,3 +29538,7 @@
 	url = https://github.com/conda-forge/r-bibitr-feedstock.git
 	path = feedstocks/r-bibitr
 	branch = refs/heads/master
+[submodule "r-subspace"]
+	url = https://github.com/conda-forge/r-subspace-feedstock.git
+	path = feedstocks/r-subspace
+	branch = refs/heads/master
