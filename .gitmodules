@@ -29590,3 +29590,7 @@
 	url = https://github.com/conda-forge/sage-flatsurf-feedstock.git
 	path = feedstocks/sage-flatsurf
 	branch = refs/heads/master
+[submodule "pytest-notebook"]
+	url = https://github.com/conda-forge/pytest-notebook-feedstock.git
+	path = feedstocks/pytest-notebook
+	branch = refs/heads/master
