@@ -29594,3 +29594,7 @@
 	url = https://github.com/conda-forge/pytest-notebook-feedstock.git
 	path = feedstocks/pytest-notebook
 	branch = refs/heads/master
+[submodule "nsync"]
+	url = https://github.com/conda-forge/nsync-feedstock.git
+	path = feedstocks/nsync
+	branch = refs/heads/master
