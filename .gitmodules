@@ -29586,3 +29586,7 @@
 	url = https://github.com/conda-forge/r-primme-feedstock.git
 	path = feedstocks/r-primme
 	branch = refs/heads/master
+[submodule "sage-flatsurf"]
+	url = https://github.com/conda-forge/sage-flatsurf-feedstock.git
+	path = feedstocks/sage-flatsurf
+	branch = refs/heads/master
