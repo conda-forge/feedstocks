@@ -29606,3 +29606,7 @@
 	url = https://github.com/conda-forge/ipyvue-feedstock.git
 	path = feedstocks/ipyvue
 	branch = refs/heads/master
+[submodule "pysimplegui"]
+	url = https://github.com/conda-forge/pysimplegui-feedstock.git
+	path = feedstocks/pysimplegui
+	branch = refs/heads/master
