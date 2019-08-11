@@ -29610,3 +29610,7 @@
 	url = https://github.com/conda-forge/pysimplegui-feedstock.git
 	path = feedstocks/pysimplegui
 	branch = refs/heads/master
+[submodule "abseil-cpp"]
+	url = https://github.com/conda-forge/abseil-cpp-feedstock.git
+	path = feedstocks/abseil-cpp
+	branch = refs/heads/master
