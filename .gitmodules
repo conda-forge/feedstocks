@@ -29634,3 +29634,7 @@
 	url = https://github.com/conda-forge/r-korpus-feedstock.git
 	path = feedstocks/r-korpus
 	branch = refs/heads/master
+[submodule "r-sylly.en"]
+	url = https://github.com/conda-forge/r-sylly.en-feedstock.git
+	path = feedstocks/r-sylly.en
+	branch = refs/heads/master
