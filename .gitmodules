@@ -29646,3 +29646,7 @@
 	url = https://github.com/conda-forge/r-textstem-feedstock.git
 	path = feedstocks/r-textstem
 	branch = refs/heads/master
+[submodule "esys-escript"]
+	url = https://github.com/conda-forge/esys-escript-feedstock.git
+	path = feedstocks/esys-escript
+	branch = refs/heads/master
