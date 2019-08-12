@@ -29626,3 +29626,7 @@
 	url = https://github.com/conda-forge/r-sylly-feedstock.git
 	path = feedstocks/r-sylly
 	branch = refs/heads/master
+[submodule "pyts"]
+	url = https://github.com/conda-forge/pyts-feedstock.git
+	path = feedstocks/pyts
+	branch = refs/heads/master
