@@ -29642,3 +29642,7 @@
 	url = https://github.com/conda-forge/r-korpus.lang.en-feedstock.git
 	path = feedstocks/r-korpus.lang.en
 	branch = refs/heads/master
+[submodule "r-textstem"]
+	url = https://github.com/conda-forge/r-textstem-feedstock.git
+	path = feedstocks/r-textstem
+	branch = refs/heads/master
