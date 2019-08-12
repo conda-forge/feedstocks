@@ -29650,3 +29650,7 @@
 	url = https://github.com/conda-forge/esys-escript-feedstock.git
 	path = feedstocks/esys-escript
 	branch = refs/heads/master
+[submodule "slimit"]
+	url = https://github.com/conda-forge/slimit-feedstock.git
+	path = feedstocks/slimit
+	branch = refs/heads/master
