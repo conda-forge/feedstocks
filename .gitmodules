@@ -29618,3 +29618,7 @@
 	url = https://github.com/conda-forge/r-heplots-feedstock.git
 	path = feedstocks/r-heplots
 	branch = refs/heads/master
+[submodule "lcms2"]
+	url = https://github.com/conda-forge/lcms2-feedstock.git
+	path = feedstocks/lcms2
+	branch = refs/heads/master
