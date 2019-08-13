@@ -29662,3 +29662,7 @@
 	url = https://github.com/conda-forge/fastapi-feedstock.git
 	path = feedstocks/fastapi
 	branch = refs/heads/master
+[submodule "awacs"]
+	url = https://github.com/conda-forge/awacs-feedstock.git
+	path = feedstocks/awacs
+	branch = refs/heads/master
