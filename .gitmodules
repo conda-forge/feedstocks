@@ -29674,3 +29674,7 @@
 	url = https://github.com/conda-forge/quilt-feedstock.git
 	path = feedstocks/quilt
 	branch = refs/heads/master
+[submodule "xmsstamper"]
+	url = https://github.com/conda-forge/xmsstamper-feedstock.git
+	path = feedstocks/xmsstamper
+	branch = refs/heads/master
