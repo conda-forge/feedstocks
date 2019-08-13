@@ -29658,3 +29658,7 @@
 	url = https://github.com/conda-forge/r-label.switching-feedstock.git
 	path = feedstocks/r-label.switching
 	branch = refs/heads/master
+[submodule "fastapi"]
+	url = https://github.com/conda-forge/fastapi-feedstock.git
+	path = feedstocks/fastapi
+	branch = refs/heads/master
