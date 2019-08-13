@@ -29666,3 +29666,7 @@
 	url = https://github.com/conda-forge/awacs-feedstock.git
 	path = feedstocks/awacs
 	branch = refs/heads/master
+[submodule "msal_extensions"]
+	url = https://github.com/conda-forge/msal_extensions-feedstock.git
+	path = feedstocks/msal_extensions
+	branch = refs/heads/master
