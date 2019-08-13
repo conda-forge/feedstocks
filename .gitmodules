@@ -29678,3 +29678,7 @@
 	url = https://github.com/conda-forge/xmsstamper-feedstock.git
 	path = feedstocks/xmsstamper
 	branch = refs/heads/master
+[submodule "troposphere"]
+	url = https://github.com/conda-forge/troposphere-feedstock.git
+	path = feedstocks/troposphere
+	branch = refs/heads/master
