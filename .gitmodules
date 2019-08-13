@@ -29670,3 +29670,7 @@
 	url = https://github.com/conda-forge/msal_extensions-feedstock.git
 	path = feedstocks/msal_extensions
 	branch = refs/heads/master
+[submodule "quilt"]
+	url = https://github.com/conda-forge/quilt-feedstock.git
+	path = feedstocks/quilt
+	branch = refs/heads/master
