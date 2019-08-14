@@ -29694,3 +29694,7 @@
 	url = https://github.com/conda-forge/sceptre-feedstock.git
 	path = feedstocks/sceptre
 	branch = refs/heads/master
+[submodule "fury"]
+	url = https://github.com/conda-forge/fury-feedstock.git
+	path = feedstocks/fury
+	branch = refs/heads/master
