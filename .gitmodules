@@ -29710,3 +29710,7 @@
 	url = https://github.com/conda-forge/skinnywms-feedstock.git
 	path = feedstocks/skinnywms
 	branch = refs/heads/master
+[submodule "libgsf"]
+	url = https://github.com/conda-forge/libgsf-feedstock.git
+	path = feedstocks/libgsf
+	branch = refs/heads/master
