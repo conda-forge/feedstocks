@@ -29686,3 +29686,7 @@
 	url = https://github.com/conda-forge/lrslib-feedstock.git
 	path = feedstocks/lrslib
 	branch = refs/heads/master
+[submodule "interval_tree"]
+	url = https://github.com/conda-forge/interval_tree-feedstock.git
+	path = feedstocks/interval_tree
+	branch = refs/heads/master
