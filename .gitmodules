@@ -29706,3 +29706,7 @@
 	url = https://github.com/conda-forge/r-rcompanion-feedstock.git
 	path = feedstocks/r-rcompanion
 	branch = refs/heads/master
+[submodule "skinnywms"]
+	url = https://github.com/conda-forge/skinnywms-feedstock.git
+	path = feedstocks/skinnywms
+	branch = refs/heads/master
