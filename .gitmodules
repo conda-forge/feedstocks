@@ -29690,3 +29690,7 @@
 	url = https://github.com/conda-forge/interval_tree-feedstock.git
 	path = feedstocks/interval_tree
 	branch = refs/heads/master
+[submodule "sceptre"]
+	url = https://github.com/conda-forge/sceptre-feedstock.git
+	path = feedstocks/sceptre
+	branch = refs/heads/master
