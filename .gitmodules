@@ -29698,3 +29698,7 @@
 	url = https://github.com/conda-forge/fury-feedstock.git
 	path = feedstocks/fury
 	branch = refs/heads/master
+[submodule "r-ez"]
+	url = https://github.com/conda-forge/r-ez-feedstock.git
+	path = feedstocks/r-ez
+	branch = refs/heads/master
