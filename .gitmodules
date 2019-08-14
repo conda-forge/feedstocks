@@ -29702,3 +29702,7 @@
 	url = https://github.com/conda-forge/r-ez-feedstock.git
 	path = feedstocks/r-ez
 	branch = refs/heads/master
+[submodule "r-rcompanion"]
+	url = https://github.com/conda-forge/r-rcompanion-feedstock.git
+	path = feedstocks/r-rcompanion
+	branch = refs/heads/master
