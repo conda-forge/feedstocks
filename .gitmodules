@@ -29734,3 +29734,7 @@
 	url = https://github.com/conda-forge/pymatgen-diffusion-feedstock.git
 	path = feedstocks/pymatgen-diffusion
 	branch = refs/heads/master
+[submodule "smoqe"]
+	url = https://github.com/conda-forge/smoqe-feedstock.git
+	path = feedstocks/smoqe
+	branch = refs/heads/master
