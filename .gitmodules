@@ -29762,3 +29762,7 @@
 	url = https://github.com/conda-forge/xopen-feedstock.git
 	path = feedstocks/xopen
 	branch = refs/heads/master
+[submodule "clang-compiler-activation"]
+	url = https://github.com/conda-forge/clang-compiler-activation-feedstock.git
+	path = feedstocks/clang-compiler-activation
+	branch = refs/heads/master
