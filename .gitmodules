@@ -29730,3 +29730,7 @@
 	url = https://github.com/conda-forge/flask-paginate-feedstock.git
 	path = feedstocks/flask-paginate
 	branch = refs/heads/master
+[submodule "pymatgen-diffusion"]
+	url = https://github.com/conda-forge/pymatgen-diffusion-feedstock.git
+	path = feedstocks/pymatgen-diffusion
+	branch = refs/heads/master
