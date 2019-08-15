@@ -29746,3 +29746,7 @@
 	url = https://github.com/conda-forge/fireworks-feedstock.git
 	path = feedstocks/fireworks
 	branch = refs/heads/master
+[submodule "atomate"]
+	url = https://github.com/conda-forge/atomate-feedstock.git
+	path = feedstocks/atomate
+	branch = refs/heads/master
