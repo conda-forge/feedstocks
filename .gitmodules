@@ -29722,3 +29722,7 @@
 	url = https://github.com/conda-forge/gitlab-runner-feedstock.git
 	path = feedstocks/gitlab-runner
 	branch = refs/heads/master
+[submodule "r-ggstatsplot"]
+	url = https://github.com/conda-forge/r-ggstatsplot-feedstock.git
+	path = feedstocks/r-ggstatsplot
+	branch = refs/heads/master
