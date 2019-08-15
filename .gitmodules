@@ -29754,3 +29754,7 @@
 	url = https://github.com/conda-forge/xmsmesher-feedstock.git
 	path = feedstocks/xmsmesher
 	branch = refs/heads/master
+[submodule "odenet"]
+	url = https://github.com/conda-forge/odenet-feedstock.git
+	path = feedstocks/odenet
+	branch = refs/heads/master
