@@ -29766,3 +29766,7 @@
 	url = https://github.com/conda-forge/clang-compiler-activation-feedstock.git
 	path = feedstocks/clang-compiler-activation
 	branch = refs/heads/master
+[submodule "pre-commit"]
+	url = https://github.com/conda-forge/pre-commit-feedstock.git
+	path = feedstocks/pre-commit
+	branch = refs/heads/master
