@@ -29782,3 +29782,7 @@
 	url = https://github.com/conda-forge/pytest-custom-exit-code-feedstock.git
 	path = feedstocks/pytest-custom-exit-code
 	branch = refs/heads/master
+[submodule "hyperas"]
+	url = https://github.com/conda-forge/hyperas-feedstock.git
+	path = feedstocks/hyperas
+	branch = refs/heads/master
