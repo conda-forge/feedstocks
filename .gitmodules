@@ -29790,3 +29790,7 @@
 	url = https://github.com/conda-forge/openslide-feedstock.git
 	path = feedstocks/openslide
 	branch = refs/heads/master
+[submodule "pymt_gipl"]
+	url = https://github.com/conda-forge/pymt_gipl-feedstock.git
+	path = feedstocks/pymt_gipl
+	branch = refs/heads/master
