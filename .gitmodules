@@ -29794,3 +29794,7 @@
 	url = https://github.com/conda-forge/pymt_gipl-feedstock.git
 	path = feedstocks/pymt_gipl
 	branch = refs/heads/master
+[submodule "numactl-devel-cos6-x86_64"]
+	url = https://github.com/conda-forge/numactl-devel-cos6-x86_64-feedstock.git
+	path = feedstocks/numactl-devel-cos6-x86_64
+	branch = refs/heads/master
