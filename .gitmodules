@@ -29778,3 +29778,7 @@
 	url = https://github.com/conda-forge/libexif-feedstock.git
 	path = feedstocks/libexif
 	branch = refs/heads/master
+[submodule "pytest-custom-exit-code"]
+	url = https://github.com/conda-forge/pytest-custom-exit-code-feedstock.git
+	path = feedstocks/pytest-custom-exit-code
+	branch = refs/heads/master
