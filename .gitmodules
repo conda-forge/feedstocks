@@ -29774,3 +29774,7 @@
 	url = https://github.com/conda-forge/pyhull-feedstock.git
 	path = feedstocks/pyhull
 	branch = refs/heads/master
+[submodule "libexif"]
+	url = https://github.com/conda-forge/libexif-feedstock.git
+	path = feedstocks/libexif
+	branch = refs/heads/master
