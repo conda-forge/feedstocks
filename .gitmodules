@@ -29802,3 +29802,7 @@
 	url = https://github.com/conda-forge/numactl-cos6-x86_64-feedstock.git
 	path = feedstocks/numactl-cos6-x86_64
 	branch = refs/heads/master
+[submodule "nvcc"]
+	url = https://github.com/conda-forge/nvcc-feedstock.git
+	path = feedstocks/nvcc
+	branch = refs/heads/master
