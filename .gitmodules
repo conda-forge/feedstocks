@@ -29814,3 +29814,7 @@
 	url = https://github.com/conda-forge/gstreamer-orc-feedstock.git
 	path = feedstocks/gstreamer-orc
 	branch = refs/heads/master
+[submodule "flake8-bugbear"]
+	url = https://github.com/conda-forge/flake8-bugbear-feedstock.git
+	path = feedstocks/flake8-bugbear
+	branch = refs/heads/master
