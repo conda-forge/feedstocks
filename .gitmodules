@@ -29810,3 +29810,7 @@
 	url = https://github.com/conda-forge/ucx-split-feedstock.git
 	path = feedstocks/ucx-split
 	branch = refs/heads/master
+[submodule "gstreamer-orc"]
+	url = https://github.com/conda-forge/gstreamer-orc-feedstock.git
+	path = feedstocks/gstreamer-orc
+	branch = refs/heads/master
