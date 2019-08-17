@@ -29818,3 +29818,7 @@
 	url = https://github.com/conda-forge/flake8-bugbear-feedstock.git
 	path = feedstocks/flake8-bugbear
 	branch = refs/heads/master
+[submodule "dpgen"]
+	url = https://github.com/conda-forge/dpgen-feedstock.git
+	path = feedstocks/dpgen
+	branch = refs/heads/master
