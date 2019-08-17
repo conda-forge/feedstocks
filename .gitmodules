@@ -29822,3 +29822,7 @@
 	url = https://github.com/conda-forge/dpgen-feedstock.git
 	path = feedstocks/dpgen
 	branch = refs/heads/master
+[submodule "libvips"]
+	url = https://github.com/conda-forge/libvips-feedstock.git
+	path = feedstocks/libvips
+	branch = refs/heads/master
