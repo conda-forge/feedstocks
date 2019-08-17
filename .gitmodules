@@ -29826,3 +29826,7 @@
 	url = https://github.com/conda-forge/libvips-feedstock.git
 	path = feedstocks/libvips
 	branch = refs/heads/master
+[submodule "synthpop"]
+	url = https://github.com/conda-forge/synthpop-feedstock.git
+	path = feedstocks/synthpop
+	branch = refs/heads/master
