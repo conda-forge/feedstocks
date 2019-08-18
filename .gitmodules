@@ -29858,3 +29858,7 @@
 	url = https://github.com/conda-forge/r-enrichr-feedstock.git
 	path = feedstocks/r-enrichr
 	branch = refs/heads/master
+[submodule "r-nam"]
+	url = https://github.com/conda-forge/r-nam-feedstock.git
+	path = feedstocks/r-nam
+	branch = refs/heads/master
