@@ -29830,3 +29830,7 @@
 	url = https://github.com/conda-forge/synthpop-feedstock.git
 	path = feedstocks/synthpop
 	branch = refs/heads/master
+[submodule "proselint"]
+	url = https://github.com/conda-forge/proselint-feedstock.git
+	path = feedstocks/proselint
+	branch = refs/heads/master
