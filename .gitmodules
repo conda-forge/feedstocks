@@ -29870,3 +29870,7 @@
 	url = https://github.com/conda-forge/r-funrar-feedstock.git
 	path = feedstocks/r-funrar
 	branch = refs/heads/master
+[submodule "r-bedr"]
+	url = https://github.com/conda-forge/r-bedr-feedstock.git
+	path = feedstocks/r-bedr
+	branch = refs/heads/master
