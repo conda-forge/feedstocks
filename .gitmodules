@@ -29846,3 +29846,7 @@
 	url = https://github.com/conda-forge/r-kaos-feedstock.git
 	path = feedstocks/r-kaos
 	branch = refs/heads/master
+[submodule "r-rbison"]
+	url = https://github.com/conda-forge/r-rbison-feedstock.git
+	path = feedstocks/r-rbison
+	branch = refs/heads/master
