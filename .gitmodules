@@ -29862,3 +29862,7 @@
 	url = https://github.com/conda-forge/r-nam-feedstock.git
 	path = feedstocks/r-nam
 	branch = refs/heads/master
+[submodule "r-rmcfs"]
+	url = https://github.com/conda-forge/r-rmcfs-feedstock.git
+	path = feedstocks/r-rmcfs
+	branch = refs/heads/master
