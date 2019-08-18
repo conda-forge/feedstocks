@@ -29850,3 +29850,7 @@
 	url = https://github.com/conda-forge/r-rbison-feedstock.git
 	path = feedstocks/r-rbison
 	branch = refs/heads/master
+[submodule "r-loose.rock"]
+	url = https://github.com/conda-forge/r-loose.rock-feedstock.git
+	path = feedstocks/r-loose.rock
+	branch = refs/heads/master
