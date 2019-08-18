@@ -29854,3 +29854,7 @@
 	url = https://github.com/conda-forge/r-loose.rock-feedstock.git
 	path = feedstocks/r-loose.rock
 	branch = refs/heads/master
+[submodule "r-enrichr"]
+	url = https://github.com/conda-forge/r-enrichr-feedstock.git
+	path = feedstocks/r-enrichr
+	branch = refs/heads/master
