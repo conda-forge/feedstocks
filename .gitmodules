@@ -29842,3 +29842,7 @@
 	url = https://github.com/conda-forge/r-bipartite-feedstock.git
 	path = feedstocks/r-bipartite
 	branch = refs/heads/master
+[submodule "r-kaos"]
+	url = https://github.com/conda-forge/r-kaos-feedstock.git
+	path = feedstocks/r-kaos
+	branch = refs/heads/master
