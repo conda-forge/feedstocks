@@ -29838,3 +29838,7 @@
 	url = https://github.com/conda-forge/r-taxa-feedstock.git
 	path = feedstocks/r-taxa
 	branch = refs/heads/master
+[submodule "r-bipartite"]
+	url = https://github.com/conda-forge/r-bipartite-feedstock.git
+	path = feedstocks/r-bipartite
+	branch = refs/heads/master
