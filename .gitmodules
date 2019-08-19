@@ -29910,3 +29910,7 @@
 	url = https://github.com/conda-forge/elephas-feedstock.git
 	path = feedstocks/elephas
 	branch = refs/heads/master
+[submodule "ale"]
+	url = https://github.com/conda-forge/ale-feedstock.git
+	path = feedstocks/ale
+	branch = refs/heads/master
