@@ -29906,3 +29906,7 @@
 	url = https://github.com/conda-forge/r-breakaway-feedstock.git
 	path = feedstocks/r-breakaway
 	branch = refs/heads/master
+[submodule "elephas"]
+	url = https://github.com/conda-forge/elephas-feedstock.git
+	path = feedstocks/elephas
+	branch = refs/heads/master
