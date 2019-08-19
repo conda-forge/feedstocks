@@ -29874,3 +29874,7 @@
 	url = https://github.com/conda-forge/r-bedr-feedstock.git
 	path = feedstocks/r-bedr
 	branch = refs/heads/master
+[submodule "pyprojroot"]
+	url = https://github.com/conda-forge/pyprojroot-feedstock.git
+	path = feedstocks/pyprojroot
+	branch = refs/heads/master
