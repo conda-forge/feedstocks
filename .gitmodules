@@ -29930,3 +29930,7 @@
 	url = https://github.com/conda-forge/tableschema-sql-feedstock.git
 	path = feedstocks/tableschema-sql
 	branch = refs/heads/master
+[submodule "px-proxy"]
+	url = https://github.com/conda-forge/px-proxy-feedstock.git
+	path = feedstocks/px-proxy
+	branch = refs/heads/master
