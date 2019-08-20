@@ -29918,3 +29918,7 @@
 	url = https://github.com/conda-forge/ann-feedstock.git
 	path = feedstocks/ann
 	branch = refs/heads/master
+[submodule "codespell"]
+	url = https://github.com/conda-forge/codespell-feedstock.git
+	path = feedstocks/codespell
+	branch = refs/heads/master
