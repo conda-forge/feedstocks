@@ -29914,3 +29914,7 @@
 	url = https://github.com/conda-forge/ale-feedstock.git
 	path = feedstocks/ale
 	branch = refs/heads/master
+[submodule "ann"]
+	url = https://github.com/conda-forge/ann-feedstock.git
+	path = feedstocks/ann
+	branch = refs/heads/master
