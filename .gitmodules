@@ -29926,3 +29926,7 @@
 	url = https://github.com/conda-forge/pybloom_live-feedstock.git
 	path = feedstocks/pybloom_live
 	branch = refs/heads/master
+[submodule "tableschema-sql"]
+	url = https://github.com/conda-forge/tableschema-sql-feedstock.git
+	path = feedstocks/tableschema-sql
+	branch = refs/heads/master
