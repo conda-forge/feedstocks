@@ -29934,3 +29934,7 @@
 	url = https://github.com/conda-forge/px-proxy-feedstock.git
 	path = feedstocks/px-proxy
 	branch = refs/heads/master
+[submodule "flask-talisman"]
+	url = https://github.com/conda-forge/flask-talisman-feedstock.git
+	path = feedstocks/flask-talisman
+	branch = refs/heads/master
