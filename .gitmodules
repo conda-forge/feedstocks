@@ -29958,3 +29958,7 @@
 	url = https://github.com/conda-forge/r-seurat-feedstock.git
 	path = feedstocks/r-seurat
 	branch = refs/heads/master
+[submodule "brainbox-ibl"]
+	url = https://github.com/conda-forge/brainbox-ibl-feedstock.git
+	path = feedstocks/brainbox-ibl
+	branch = refs/heads/master
