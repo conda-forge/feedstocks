@@ -29974,3 +29974,7 @@
 	url = https://github.com/conda-forge/r-pegas-feedstock.git
 	path = feedstocks/r-pegas
 	branch = refs/heads/master
+[submodule "autotools_clang_conda"]
+	url = https://github.com/conda-forge/autotools_clang_conda-feedstock.git
+	path = feedstocks/autotools_clang_conda
+	branch = refs/heads/master
