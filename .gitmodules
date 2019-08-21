@@ -29970,3 +29970,7 @@
 	url = https://github.com/conda-forge/r-adegenet-feedstock.git
 	path = feedstocks/r-adegenet
 	branch = refs/heads/master
+[submodule "r-pegas"]
+	url = https://github.com/conda-forge/r-pegas-feedstock.git
+	path = feedstocks/r-pegas
+	branch = refs/heads/master
