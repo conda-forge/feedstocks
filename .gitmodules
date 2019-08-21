@@ -29942,3 +29942,7 @@
 	url = https://github.com/conda-forge/sphinxdft-feedstock.git
 	path = feedstocks/sphinxdft
 	branch = refs/heads/master
+[submodule "r-leiden"]
+	url = https://github.com/conda-forge/r-leiden-feedstock.git
+	path = feedstocks/r-leiden
+	branch = refs/heads/master
