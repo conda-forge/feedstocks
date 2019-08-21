@@ -29946,3 +29946,7 @@
 	url = https://github.com/conda-forge/r-leiden-feedstock.git
 	path = feedstocks/r-leiden
 	branch = refs/heads/master
+[submodule "cmake_format"]
+	url = https://github.com/conda-forge/cmake_format-feedstock.git
+	path = feedstocks/cmake_format
+	branch = refs/heads/master
