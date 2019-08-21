@@ -29950,3 +29950,7 @@
 	url = https://github.com/conda-forge/cmake_format-feedstock.git
 	path = feedstocks/cmake_format
 	branch = refs/heads/master
+[submodule "gspread-pandas"]
+	url = https://github.com/conda-forge/gspread-pandas-feedstock.git
+	path = feedstocks/gspread-pandas
+	branch = refs/heads/master
