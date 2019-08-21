@@ -29954,3 +29954,7 @@
 	url = https://github.com/conda-forge/gspread-pandas-feedstock.git
 	path = feedstocks/gspread-pandas
 	branch = refs/heads/master
+[submodule "r-seurat"]
+	url = https://github.com/conda-forge/r-seurat-feedstock.git
+	path = feedstocks/r-seurat
+	branch = refs/heads/master
