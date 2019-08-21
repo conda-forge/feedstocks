@@ -29978,3 +29978,7 @@
 	url = https://github.com/conda-forge/autotools_clang_conda-feedstock.git
 	path = feedstocks/autotools_clang_conda
 	branch = refs/heads/master
+[submodule "setuptools_dso"]
+	url = https://github.com/conda-forge/setuptools_dso-feedstock.git
+	path = feedstocks/setuptools_dso
+	branch = refs/heads/master
