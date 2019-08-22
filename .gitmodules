@@ -29994,3 +29994,7 @@
 	url = https://github.com/conda-forge/libwebsockets-feedstock.git
 	path = feedstocks/libwebsockets
 	branch = refs/heads/master
+[submodule "r-polychrome"]
+	url = https://github.com/conda-forge/r-polychrome-feedstock.git
+	path = feedstocks/r-polychrome
+	branch = refs/heads/master
