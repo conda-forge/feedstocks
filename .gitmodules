@@ -29990,3 +29990,7 @@
 	url = https://github.com/conda-forge/epicscorelibs-feedstock.git
 	path = feedstocks/epicscorelibs
 	branch = refs/heads/master
+[submodule "libwebsockets"]
+	url = https://github.com/conda-forge/libwebsockets-feedstock.git
+	path = feedstocks/libwebsockets
+	branch = refs/heads/master
