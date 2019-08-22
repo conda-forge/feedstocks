@@ -29986,3 +29986,7 @@
 	url = https://github.com/conda-forge/isicarchive-feedstock.git
 	path = feedstocks/isicarchive
 	branch = refs/heads/master
+[submodule "epicscorelibs"]
+	url = https://github.com/conda-forge/epicscorelibs-feedstock.git
+	path = feedstocks/epicscorelibs
+	branch = refs/heads/master
