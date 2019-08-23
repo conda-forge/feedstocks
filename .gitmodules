@@ -30010,3 +30010,7 @@
 	url = https://github.com/conda-forge/semvecpy-feedstock.git
 	path = feedstocks/semvecpy
 	branch = refs/heads/master
+[submodule "garnett"]
+	url = https://github.com/conda-forge/garnett-feedstock.git
+	path = feedstocks/garnett
+	branch = refs/heads/master
