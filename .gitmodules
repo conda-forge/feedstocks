@@ -30026,3 +30026,7 @@
 	url = https://github.com/conda-forge/geoana-feedstock.git
 	path = feedstocks/geoana
 	branch = refs/heads/master
+[submodule "pyvips"]
+	url = https://github.com/conda-forge/pyvips-feedstock.git
+	path = feedstocks/pyvips
+	branch = refs/heads/master
