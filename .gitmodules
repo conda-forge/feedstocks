@@ -30030,3 +30030,7 @@
 	url = https://github.com/conda-forge/pyvips-feedstock.git
 	path = feedstocks/pyvips
 	branch = refs/heads/master
+[submodule "pymatsolver"]
+	url = https://github.com/conda-forge/pymatsolver-feedstock.git
+	path = feedstocks/pymatsolver
+	branch = refs/heads/master
