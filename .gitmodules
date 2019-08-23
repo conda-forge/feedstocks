@@ -30006,3 +30006,7 @@
 	url = https://github.com/conda-forge/r-protr-feedstock.git
 	path = feedstocks/r-protr
 	branch = refs/heads/master
+[submodule "semvecpy"]
+	url = https://github.com/conda-forge/semvecpy-feedstock.git
+	path = feedstocks/semvecpy
+	branch = refs/heads/master
