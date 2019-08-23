@@ -30018,3 +30018,7 @@
 	url = https://github.com/conda-forge/autologging-feedstock.git
 	path = feedstocks/autologging
 	branch = refs/heads/master
+[submodule "pymkl"]
+	url = https://github.com/conda-forge/pymkl-feedstock.git
+	path = feedstocks/pymkl
+	branch = refs/heads/master
