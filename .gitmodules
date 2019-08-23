@@ -30014,3 +30014,7 @@
 	url = https://github.com/conda-forge/garnett-feedstock.git
 	path = feedstocks/garnett
 	branch = refs/heads/master
+[submodule "autologging"]
+	url = https://github.com/conda-forge/autologging-feedstock.git
+	path = feedstocks/autologging
+	branch = refs/heads/master
