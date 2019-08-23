@@ -30034,3 +30034,7 @@
 	url = https://github.com/conda-forge/pymatsolver-feedstock.git
 	path = feedstocks/pymatsolver
 	branch = refs/heads/master
+[submodule "python2-secrets"]
+	url = https://github.com/conda-forge/python2-secrets-feedstock.git
+	path = feedstocks/python2-secrets
+	branch = refs/heads/master
