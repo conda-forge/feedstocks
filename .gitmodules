@@ -30022,3 +30022,7 @@
 	url = https://github.com/conda-forge/pymkl-feedstock.git
 	path = feedstocks/pymkl
 	branch = refs/heads/master
+[submodule "geoana"]
+	url = https://github.com/conda-forge/geoana-feedstock.git
+	path = feedstocks/geoana
+	branch = refs/heads/master
