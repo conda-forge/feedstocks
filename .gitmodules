@@ -30066,3 +30066,7 @@
 	url = https://github.com/conda-forge/milksnake-feedstock.git
 	path = feedstocks/milksnake
 	branch = refs/heads/master
+[submodule "urlquote"]
+	url = https://github.com/conda-forge/urlquote-feedstock.git
+	path = feedstocks/urlquote
+	branch = refs/heads/master
