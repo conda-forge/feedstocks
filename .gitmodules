@@ -30046,3 +30046,7 @@
 	url = https://github.com/conda-forge/lbplatformutils-feedstock.git
 	path = feedstocks/lbplatformutils
 	branch = refs/heads/master
+[submodule "lbenv"]
+	url = https://github.com/conda-forge/lbenv-feedstock.git
+	path = feedstocks/lbenv
+	branch = refs/heads/master
