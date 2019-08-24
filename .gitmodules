@@ -30042,3 +30042,7 @@
 	url = https://github.com/conda-forge/xenv-feedstock.git
 	path = feedstocks/xenv
 	branch = refs/heads/master
+[submodule "lbplatformutils"]
+	url = https://github.com/conda-forge/lbplatformutils-feedstock.git
+	path = feedstocks/lbplatformutils
+	branch = refs/heads/master
