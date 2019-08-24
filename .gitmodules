@@ -30050,3 +30050,7 @@
 	url = https://github.com/conda-forge/lbenv-feedstock.git
 	path = feedstocks/lbenv
 	branch = refs/heads/master
+[submodule "doppyo"]
+	url = https://github.com/conda-forge/doppyo-feedstock.git
+	path = feedstocks/doppyo
+	branch = refs/heads/master
