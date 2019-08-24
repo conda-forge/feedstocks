@@ -30058,3 +30058,7 @@
 	url = https://github.com/conda-forge/discretize-feedstock.git
 	path = feedstocks/discretize
 	branch = refs/heads/master
+[submodule "simpeg"]
+	url = https://github.com/conda-forge/simpeg-feedstock.git
+	path = feedstocks/simpeg
+	branch = refs/heads/master
