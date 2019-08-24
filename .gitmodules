@@ -30070,3 +30070,7 @@
 	url = https://github.com/conda-forge/urlquote-feedstock.git
 	path = feedstocks/urlquote
 	branch = refs/heads/master
+[submodule "region"]
+	url = https://github.com/conda-forge/region-feedstock.git
+	path = feedstocks/region
+	branch = refs/heads/master
