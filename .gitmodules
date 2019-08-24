@@ -30038,3 +30038,7 @@
 	url = https://github.com/conda-forge/python2-secrets-feedstock.git
 	path = feedstocks/python2-secrets
 	branch = refs/heads/master
+[submodule "xenv"]
+	url = https://github.com/conda-forge/xenv-feedstock.git
+	path = feedstocks/xenv
+	branch = refs/heads/master
