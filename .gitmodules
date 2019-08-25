@@ -30086,3 +30086,7 @@
 	url = https://github.com/conda-forge/automan-feedstock.git
 	path = feedstocks/automan
 	branch = refs/heads/master
+[submodule "ttyd"]
+	url = https://github.com/conda-forge/ttyd-feedstock.git
+	path = feedstocks/ttyd
+	branch = refs/heads/master
