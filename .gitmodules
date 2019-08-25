@@ -30082,3 +30082,7 @@
 	url = https://github.com/conda-forge/hexyl-feedstock.git
 	path = feedstocks/hexyl
 	branch = refs/heads/master
+[submodule "automan"]
+	url = https://github.com/conda-forge/automan-feedstock.git
+	path = feedstocks/automan
+	branch = refs/heads/master
