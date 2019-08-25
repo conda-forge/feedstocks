@@ -30074,3 +30074,7 @@
 	url = https://github.com/conda-forge/region-feedstock.git
 	path = feedstocks/region
 	branch = refs/heads/master
+[submodule "7za"]
+	url = https://github.com/conda-forge/7za-feedstock.git
+	path = feedstocks/7za
+	branch = refs/heads/master
