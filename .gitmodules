@@ -30106,3 +30106,7 @@
 	url = https://github.com/conda-forge/objectpath-feedstock.git
 	path = feedstocks/objectpath
 	branch = refs/heads/master
+[submodule "r-whitening"]
+	url = https://github.com/conda-forge/r-whitening-feedstock.git
+	path = feedstocks/r-whitening
+	branch = refs/heads/master
