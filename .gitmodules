@@ -30090,3 +30090,7 @@
 	url = https://github.com/conda-forge/ttyd-feedstock.git
 	path = feedstocks/ttyd
 	branch = refs/heads/master
+[submodule "dscribe"]
+	url = https://github.com/conda-forge/dscribe-feedstock.git
+	path = feedstocks/dscribe
+	branch = refs/heads/master
