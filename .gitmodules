@@ -30110,3 +30110,7 @@
 	url = https://github.com/conda-forge/r-whitening-feedstock.git
 	path = feedstocks/r-whitening
 	branch = refs/heads/master
+[submodule "ruamel.yaml.clib"]
+	url = https://github.com/conda-forge/ruamel.yaml.clib-feedstock.git
+	path = feedstocks/ruamel.yaml.clib
+	branch = refs/heads/master
