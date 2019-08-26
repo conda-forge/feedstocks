@@ -30094,3 +30094,7 @@
 	url = https://github.com/conda-forge/dscribe-feedstock.git
 	path = feedstocks/dscribe
 	branch = refs/heads/master
+[submodule "soaplite"]
+	url = https://github.com/conda-forge/soaplite-feedstock.git
+	path = feedstocks/soaplite
+	branch = refs/heads/master
