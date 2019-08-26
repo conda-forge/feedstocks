@@ -30102,3 +30102,7 @@
 	url = https://github.com/conda-forge/r-pmdplyr-feedstock.git
 	path = feedstocks/r-pmdplyr
 	branch = refs/heads/master
+[submodule "objectpath"]
+	url = https://github.com/conda-forge/objectpath-feedstock.git
+	path = feedstocks/objectpath
+	branch = refs/heads/master
