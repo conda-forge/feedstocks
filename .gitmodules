@@ -30150,3 +30150,7 @@
 	url = https://github.com/conda-forge/font-ttf-ubuntu-feedstock.git
 	path = feedstocks/font-ttf-ubuntu
 	branch = refs/heads/master
+[submodule "font-ttf-inconsolata"]
+	url = https://github.com/conda-forge/font-ttf-inconsolata-feedstock.git
+	path = feedstocks/font-ttf-inconsolata
+	branch = refs/heads/master
