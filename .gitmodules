@@ -30122,3 +30122,7 @@
 	url = https://github.com/conda-forge/graph-tool-feedstock.git
 	path = feedstocks/graph-tool
 	branch = refs/heads/master
+[submodule "libdeflate"]
+	url = https://github.com/conda-forge/libdeflate-feedstock.git
+	path = feedstocks/libdeflate
+	branch = refs/heads/master
