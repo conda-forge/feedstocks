@@ -30118,3 +30118,7 @@
 	url = https://github.com/conda-forge/schnetpack-feedstock.git
 	path = feedstocks/schnetpack
 	branch = refs/heads/master
+[submodule "graph-tool"]
+	url = https://github.com/conda-forge/graph-tool-feedstock.git
+	path = feedstocks/graph-tool
+	branch = refs/heads/master
