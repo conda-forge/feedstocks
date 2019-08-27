@@ -30146,3 +30146,7 @@
 	url = https://github.com/conda-forge/font-ttf-dejavu-sans-mono-feedstock.git
 	path = feedstocks/font-ttf-dejavu-sans-mono
 	branch = refs/heads/master
+[submodule "font-ttf-ubuntu"]
+	url = https://github.com/conda-forge/font-ttf-ubuntu-feedstock.git
+	path = feedstocks/font-ttf-ubuntu
+	branch = refs/heads/master
