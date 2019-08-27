@@ -30114,3 +30114,7 @@
 	url = https://github.com/conda-forge/ruamel.yaml.clib-feedstock.git
 	path = feedstocks/ruamel.yaml.clib
 	branch = refs/heads/master
+[submodule "schnetpack"]
+	url = https://github.com/conda-forge/schnetpack-feedstock.git
+	path = feedstocks/schnetpack
+	branch = refs/heads/master
