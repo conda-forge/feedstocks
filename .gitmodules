@@ -30130,3 +30130,7 @@
 	url = https://github.com/conda-forge/wand-feedstock.git
 	path = feedstocks/wand
 	branch = refs/heads/master
+[submodule "fonts-conda-ecosystem"]
+	url = https://github.com/conda-forge/fonts-conda-ecosystem-feedstock.git
+	path = feedstocks/fonts-conda-ecosystem
+	branch = refs/heads/master
