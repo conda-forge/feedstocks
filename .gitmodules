@@ -30134,3 +30134,7 @@
 	url = https://github.com/conda-forge/fonts-conda-ecosystem-feedstock.git
 	path = feedstocks/fonts-conda-ecosystem
 	branch = refs/heads/master
+[submodule "fonts-conda-forge"]
+	url = https://github.com/conda-forge/fonts-conda-forge-feedstock.git
+	path = feedstocks/fonts-conda-forge
+	branch = refs/heads/master
