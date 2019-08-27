@@ -30138,3 +30138,7 @@
 	url = https://github.com/conda-forge/fonts-conda-forge-feedstock.git
 	path = feedstocks/fonts-conda-forge
 	branch = refs/heads/master
+[submodule "font-ttf-source-code-pro"]
+	url = https://github.com/conda-forge/font-ttf-source-code-pro-feedstock.git
+	path = feedstocks/font-ttf-source-code-pro
+	branch = refs/heads/master
