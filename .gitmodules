@@ -30166,3 +30166,7 @@
 	url = https://github.com/conda-forge/ubermag-feedstock.git
 	path = feedstocks/ubermag
 	branch = refs/heads/master
+[submodule "pyro5"]
+	url = https://github.com/conda-forge/pyro5-feedstock.git
+	path = feedstocks/pyro5
+	branch = refs/heads/master
