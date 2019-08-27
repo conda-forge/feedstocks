@@ -30126,3 +30126,7 @@
 	url = https://github.com/conda-forge/libdeflate-feedstock.git
 	path = feedstocks/libdeflate
 	branch = refs/heads/master
+[submodule "wand"]
+	url = https://github.com/conda-forge/wand-feedstock.git
+	path = feedstocks/wand
+	branch = refs/heads/master
