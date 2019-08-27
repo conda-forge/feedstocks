@@ -30178,3 +30178,7 @@
 	url = https://github.com/conda-forge/r-pulsar-feedstock.git
 	path = feedstocks/r-pulsar
 	branch = refs/heads/master
+[submodule "r-learnr"]
+	url = https://github.com/conda-forge/r-learnr-feedstock.git
+	path = feedstocks/r-learnr
+	branch = refs/heads/master
