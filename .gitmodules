@@ -30174,3 +30174,7 @@
 	url = https://github.com/conda-forge/htchirp-feedstock.git
 	path = feedstocks/htchirp
 	branch = refs/heads/master
+[submodule "r-pulsar"]
+	url = https://github.com/conda-forge/r-pulsar-feedstock.git
+	path = feedstocks/r-pulsar
+	branch = refs/heads/master
