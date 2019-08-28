@@ -30210,3 +30210,7 @@
 	url = https://github.com/conda-forge/everett-feedstock.git
 	path = feedstocks/everett
 	branch = refs/heads/master
+[submodule "neo4j-connector"]
+	url = https://github.com/conda-forge/neo4j-connector-feedstock.git
+	path = feedstocks/neo4j-connector
+	branch = refs/heads/master
