@@ -30182,3 +30182,7 @@
 	url = https://github.com/conda-forge/r-learnr-feedstock.git
 	path = feedstocks/r-learnr
 	branch = refs/heads/master
+[submodule "catkin_tools"]
+	url = https://github.com/conda-forge/catkin_tools-feedstock.git
+	path = feedstocks/catkin_tools
+	branch = refs/heads/master
