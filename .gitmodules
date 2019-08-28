@@ -30202,3 +30202,7 @@
 	url = https://github.com/conda-forge/ursabot-feedstock.git
 	path = feedstocks/ursabot
 	branch = refs/heads/master
+[submodule "birdy"]
+	url = https://github.com/conda-forge/birdy-feedstock.git
+	path = feedstocks/birdy
+	branch = refs/heads/master
