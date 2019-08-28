@@ -30214,3 +30214,7 @@
 	url = https://github.com/conda-forge/neo4j-connector-feedstock.git
 	path = feedstocks/neo4j-connector
 	branch = refs/heads/master
+[submodule "cyarray"]
+	url = https://github.com/conda-forge/cyarray-feedstock.git
+	path = feedstocks/cyarray
+	branch = refs/heads/master
