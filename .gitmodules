@@ -30222,3 +30222,7 @@
 	url = https://github.com/conda-forge/minepy-feedstock.git
 	path = feedstocks/minepy
 	branch = refs/heads/master
+[submodule "tilepie"]
+	url = https://github.com/conda-forge/tilepie-feedstock.git
+	path = feedstocks/tilepie
+	branch = refs/heads/master
