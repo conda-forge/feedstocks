@@ -30262,3 +30262,7 @@
 	url = https://github.com/conda-forge/rb-liquid-feedstock.git
 	path = feedstocks/rb-liquid
 	branch = refs/heads/master
+[submodule "rb-pathutil"]
+	url = https://github.com/conda-forge/rb-pathutil-feedstock.git
+	path = feedstocks/rb-pathutil
+	branch = refs/heads/master
