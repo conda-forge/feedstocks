@@ -30238,3 +30238,7 @@
 	url = https://github.com/conda-forge/r-feasts-feedstock.git
 	path = feedstocks/r-feasts
 	branch = refs/heads/master
+[submodule "rb-eventmachine"]
+	url = https://github.com/conda-forge/rb-eventmachine-feedstock.git
+	path = feedstocks/rb-eventmachine
+	branch = refs/heads/master
