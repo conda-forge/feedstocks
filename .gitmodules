@@ -30246,3 +30246,7 @@
 	url = https://github.com/conda-forge/rb-http_parser.rb-feedstock.git
 	path = feedstocks/rb-http_parser.rb
 	branch = refs/heads/master
+[submodule "rb-em-websocket"]
+	url = https://github.com/conda-forge/rb-em-websocket-feedstock.git
+	path = feedstocks/rb-em-websocket
+	branch = refs/heads/master
