@@ -30218,3 +30218,7 @@
 	url = https://github.com/conda-forge/cyarray-feedstock.git
 	path = feedstocks/cyarray
 	branch = refs/heads/master
+[submodule "minepy"]
+	url = https://github.com/conda-forge/minepy-feedstock.git
+	path = feedstocks/minepy
+	branch = refs/heads/master
