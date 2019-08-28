@@ -30230,3 +30230,7 @@
 	url = https://github.com/conda-forge/r-fabletools-feedstock.git
 	path = feedstocks/r-fabletools
 	branch = refs/heads/master
+[submodule "rb-colorator"]
+	url = https://github.com/conda-forge/rb-colorator-feedstock.git
+	path = feedstocks/rb-colorator
+	branch = refs/heads/master
