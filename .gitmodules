@@ -30194,3 +30194,7 @@
 	url = https://github.com/conda-forge/allthekernels-feedstock.git
 	path = feedstocks/allthekernels
 	branch = refs/heads/master
+[submodule "mgrs"]
+	url = https://github.com/conda-forge/mgrs-feedstock.git
+	path = feedstocks/mgrs
+	branch = refs/heads/master
