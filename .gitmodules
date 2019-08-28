@@ -30226,3 +30226,7 @@
 	url = https://github.com/conda-forge/tilepie-feedstock.git
 	path = feedstocks/tilepie
 	branch = refs/heads/master
+[submodule "r-fabletools"]
+	url = https://github.com/conda-forge/r-fabletools-feedstock.git
+	path = feedstocks/r-fabletools
+	branch = refs/heads/master
