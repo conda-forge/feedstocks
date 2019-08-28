@@ -30198,3 +30198,7 @@
 	url = https://github.com/conda-forge/mgrs-feedstock.git
 	path = feedstocks/mgrs
 	branch = refs/heads/master
+[submodule "ursabot"]
+	url = https://github.com/conda-forge/ursabot-feedstock.git
+	path = feedstocks/ursabot
+	branch = refs/heads/master
