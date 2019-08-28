@@ -30254,3 +30254,7 @@
 	url = https://github.com/conda-forge/rb-kramdown-feedstock.git
 	path = feedstocks/rb-kramdown
 	branch = refs/heads/master
+[submodule "rb-rouge"]
+	url = https://github.com/conda-forge/rb-rouge-feedstock.git
+	path = feedstocks/rb-rouge
+	branch = refs/heads/master
