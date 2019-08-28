@@ -30234,3 +30234,7 @@
 	url = https://github.com/conda-forge/rb-colorator-feedstock.git
 	path = feedstocks/rb-colorator
 	branch = refs/heads/master
+[submodule "r-feasts"]
+	url = https://github.com/conda-forge/r-feasts-feedstock.git
+	path = feedstocks/r-feasts
+	branch = refs/heads/master
