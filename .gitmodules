@@ -30282,3 +30282,7 @@
 	url = https://github.com/conda-forge/rb-concurrent-ruby-feedstock.git
 	path = feedstocks/rb-concurrent-ruby
 	branch = refs/heads/master
+[submodule "rb-mercenary"]
+	url = https://github.com/conda-forge/rb-mercenary-feedstock.git
+	path = feedstocks/rb-mercenary
+	branch = refs/heads/master
