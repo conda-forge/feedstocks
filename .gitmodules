@@ -30266,3 +30266,7 @@
 	url = https://github.com/conda-forge/rb-pathutil-feedstock.git
 	path = feedstocks/rb-pathutil
 	branch = refs/heads/master
+[submodule "rb-forwardable-extended"]
+	url = https://github.com/conda-forge/rb-forwardable-extended-feedstock.git
+	path = feedstocks/rb-forwardable-extended
+	branch = refs/heads/master
