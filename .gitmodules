@@ -30274,3 +30274,7 @@
 	url = https://github.com/conda-forge/rb-addressable-feedstock.git
 	path = feedstocks/rb-addressable
 	branch = refs/heads/master
+[submodule "rb-public_suffix"]
+	url = https://github.com/conda-forge/rb-public_suffix-feedstock.git
+	path = feedstocks/rb-public_suffix
+	branch = refs/heads/master
