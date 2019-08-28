@@ -30242,3 +30242,7 @@
 	url = https://github.com/conda-forge/rb-eventmachine-feedstock.git
 	path = feedstocks/rb-eventmachine
 	branch = refs/heads/master
+[submodule "rb-http_parser.rb"]
+	url = https://github.com/conda-forge/rb-http_parser.rb-feedstock.git
+	path = feedstocks/rb-http_parser.rb
+	branch = refs/heads/master
