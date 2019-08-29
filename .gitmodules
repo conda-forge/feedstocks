@@ -30290,3 +30290,7 @@
 	url = https://github.com/conda-forge/rb-i18n-feedstock.git
 	path = feedstocks/rb-i18n
 	branch = refs/heads/master
+[submodule "rb-bundler"]
+	url = https://github.com/conda-forge/rb-bundler-feedstock.git
+	path = feedstocks/rb-bundler
+	branch = refs/heads/master
