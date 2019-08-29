@@ -30346,3 +30346,7 @@
 	url = https://github.com/conda-forge/rb-sass-feedstock.git
 	path = feedstocks/rb-sass
 	branch = refs/heads/master
+[submodule "libxsmm"]
+	url = https://github.com/conda-forge/libxsmm-feedstock.git
+	path = feedstocks/libxsmm
+	branch = refs/heads/master
