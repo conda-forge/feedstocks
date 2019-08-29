@@ -30362,3 +30362,7 @@
 	url = https://github.com/conda-forge/rb-sassc-feedstock.git
 	path = feedstocks/rb-sassc
 	branch = refs/heads/master
+[submodule "rb-jekyll-sass-converter"]
+	url = https://github.com/conda-forge/rb-jekyll-sass-converter-feedstock.git
+	path = feedstocks/rb-jekyll-sass-converter
+	branch = refs/heads/master
