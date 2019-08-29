@@ -30294,3 +30294,7 @@
 	url = https://github.com/conda-forge/rb-bundler-feedstock.git
 	path = feedstocks/rb-bundler
 	branch = refs/heads/master
+[submodule "r-dtangle"]
+	url = https://github.com/conda-forge/r-dtangle-feedstock.git
+	path = feedstocks/r-dtangle
+	branch = refs/heads/master
