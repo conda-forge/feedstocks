@@ -30342,3 +30342,7 @@
 	url = https://github.com/conda-forge/rb-ruby_dep-feedstock.git
 	path = feedstocks/rb-ruby_dep
 	branch = refs/heads/master
+[submodule "rb-sass"]
+	url = https://github.com/conda-forge/rb-sass-feedstock.git
+	path = feedstocks/rb-sass
+	branch = refs/heads/master
