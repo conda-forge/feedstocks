@@ -30350,3 +30350,7 @@
 	url = https://github.com/conda-forge/libxsmm-feedstock.git
 	path = feedstocks/libxsmm
 	branch = refs/heads/master
+[submodule "fypp"]
+	url = https://github.com/conda-forge/fypp-feedstock.git
+	path = feedstocks/fypp
+	branch = refs/heads/master
