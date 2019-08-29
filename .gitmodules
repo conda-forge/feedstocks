@@ -30330,3 +30330,7 @@
 	url = https://github.com/conda-forge/rb-listen-feedstock.git
 	path = feedstocks/rb-listen
 	branch = refs/heads/master
+[submodule "rb-rb-fsevent"]
+	url = https://github.com/conda-forge/rb-rb-fsevent-feedstock.git
+	path = feedstocks/rb-rb-fsevent
+	branch = refs/heads/master
