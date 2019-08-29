@@ -30334,3 +30334,7 @@
 	url = https://github.com/conda-forge/rb-rb-fsevent-feedstock.git
 	path = feedstocks/rb-rb-fsevent
 	branch = refs/heads/master
+[submodule "rb-rb-inotify"]
+	url = https://github.com/conda-forge/rb-rb-inotify-feedstock.git
+	path = feedstocks/rb-rb-inotify
+	branch = refs/heads/master
