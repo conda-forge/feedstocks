@@ -30354,3 +30354,7 @@
 	url = https://github.com/conda-forge/fypp-feedstock.git
 	path = feedstocks/fypp
 	branch = refs/heads/master
+[submodule "rb-kramdown-parser-gfm"]
+	url = https://github.com/conda-forge/rb-kramdown-parser-gfm-feedstock.git
+	path = feedstocks/rb-kramdown-parser-gfm
+	branch = refs/heads/master
