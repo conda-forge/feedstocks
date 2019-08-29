@@ -30318,3 +30318,7 @@
 	url = https://github.com/conda-forge/gcab-feedstock.git
 	path = feedstocks/gcab
 	branch = refs/heads/master
+[submodule "msitools"]
+	url = https://github.com/conda-forge/msitools-feedstock.git
+	path = feedstocks/msitools
+	branch = refs/heads/master
