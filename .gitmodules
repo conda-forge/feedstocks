@@ -30366,3 +30366,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-sass-converter-feedstock.git
 	path = feedstocks/rb-jekyll-sass-converter
 	branch = refs/heads/master
+[submodule "rb-jekyll-watch"]
+	url = https://github.com/conda-forge/rb-jekyll-watch-feedstock.git
+	path = feedstocks/rb-jekyll-watch
+	branch = refs/heads/master
