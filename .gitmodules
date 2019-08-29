@@ -30374,3 +30374,7 @@
 	url = https://github.com/conda-forge/p7zip-feedstock.git
 	path = feedstocks/p7zip
 	branch = refs/heads/master
+[submodule "tidy-html5"]
+	url = https://github.com/conda-forge/tidy-html5-feedstock.git
+	path = feedstocks/tidy-html5
+	branch = refs/heads/master
