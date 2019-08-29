@@ -30338,3 +30338,7 @@
 	url = https://github.com/conda-forge/rb-rb-inotify-feedstock.git
 	path = feedstocks/rb-rb-inotify
 	branch = refs/heads/master
+[submodule "rb-ruby_dep"]
+	url = https://github.com/conda-forge/rb-ruby_dep-feedstock.git
+	path = feedstocks/rb-ruby_dep
+	branch = refs/heads/master
