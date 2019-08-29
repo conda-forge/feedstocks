@@ -30322,3 +30322,7 @@
 	url = https://github.com/conda-forge/msitools-feedstock.git
 	path = feedstocks/msitools
 	branch = refs/heads/master
+[submodule "rb-ffi"]
+	url = https://github.com/conda-forge/rb-ffi-feedstock.git
+	path = feedstocks/rb-ffi
+	branch = refs/heads/master
