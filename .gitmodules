@@ -30370,3 +30370,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-watch-feedstock.git
 	path = feedstocks/rb-jekyll-watch
 	branch = refs/heads/master
+[submodule "p7zip"]
+	url = https://github.com/conda-forge/p7zip-feedstock.git
+	path = feedstocks/p7zip
+	branch = refs/heads/master
