@@ -30450,3 +30450,7 @@
 	url = https://github.com/conda-forge/mesa-dri-drivers-cos7-aarch64-feedstock.git
 	path = feedstocks/mesa-dri-drivers-cos7-aarch64
 	branch = refs/heads/master
+[submodule "libxdamage-cos7-aarch64"]
+	url = https://github.com/conda-forge/libxdamage-cos7-aarch64-feedstock.git
+	path = feedstocks/libxdamage-cos7-aarch64
+	branch = refs/heads/master
