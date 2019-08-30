@@ -30402,3 +30402,7 @@
 	url = https://github.com/conda-forge/libxxf86vm-cos7-aarch64-feedstock.git
 	path = feedstocks/libxxf86vm-cos7-aarch64
 	branch = refs/heads/master
+[submodule "libselinux-cos7-aarch64"]
+	url = https://github.com/conda-forge/libselinux-cos7-aarch64-feedstock.git
+	path = feedstocks/libselinux-cos7-aarch64
+	branch = refs/heads/master
