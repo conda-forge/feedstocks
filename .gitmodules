@@ -30378,3 +30378,7 @@
 	url = https://github.com/conda-forge/tidy-html5-feedstock.git
 	path = feedstocks/tidy-html5
 	branch = refs/heads/master
+[submodule "rb-jekyll"]
+	url = https://github.com/conda-forge/rb-jekyll-feedstock.git
+	path = feedstocks/rb-jekyll
+	branch = refs/heads/master
