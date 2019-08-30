@@ -30390,3 +30390,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-feed-feedstock.git
 	path = feedstocks/rb-jekyll-feed
 	branch = refs/heads/master
+[submodule "rb-minima"]
+	url = https://github.com/conda-forge/rb-minima-feedstock.git
+	path = feedstocks/rb-minima
+	branch = refs/heads/master
