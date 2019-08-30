@@ -30446,3 +30446,7 @@
 	url = https://github.com/conda-forge/expat-cos7-aarch64-feedstock.git
 	path = feedstocks/expat-cos7-aarch64
 	branch = refs/heads/master
+[submodule "mesa-dri-drivers-cos7-aarch64"]
+	url = https://github.com/conda-forge/mesa-dri-drivers-cos7-aarch64-feedstock.git
+	path = feedstocks/mesa-dri-drivers-cos7-aarch64
+	branch = refs/heads/master
