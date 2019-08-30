@@ -30386,3 +30386,7 @@
 	url = https://github.com/conda-forge/libusb-compat-feedstock.git
 	path = feedstocks/libusb-compat
 	branch = refs/heads/master
+[submodule "rb-jekyll-feed"]
+	url = https://github.com/conda-forge/rb-jekyll-feed-feedstock.git
+	path = feedstocks/rb-jekyll-feed
+	branch = refs/heads/master
