@@ -30418,3 +30418,7 @@
 	url = https://github.com/conda-forge/mesa-libgl-cos7-aarch64-feedstock.git
 	path = feedstocks/mesa-libgl-cos7-aarch64
 	branch = refs/heads/master
+[submodule "libxrender-cos7-aarch64"]
+	url = https://github.com/conda-forge/libxrender-cos7-aarch64-feedstock.git
+	path = feedstocks/libxrender-cos7-aarch64
+	branch = refs/heads/master
