@@ -30434,3 +30434,7 @@
 	url = https://github.com/conda-forge/libxfixes-cos7-aarch64-feedstock.git
 	path = feedstocks/libxfixes-cos7-aarch64
 	branch = refs/heads/master
+[submodule "libdrm-cos7-aarch64"]
+	url = https://github.com/conda-forge/libdrm-cos7-aarch64-feedstock.git
+	path = feedstocks/libdrm-cos7-aarch64
+	branch = refs/heads/master
