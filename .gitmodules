@@ -30406,3 +30406,7 @@
 	url = https://github.com/conda-forge/libselinux-cos7-aarch64-feedstock.git
 	path = feedstocks/libselinux-cos7-aarch64
 	branch = refs/heads/master
+[submodule "libxau-cos7-aarch64"]
+	url = https://github.com/conda-forge/libxau-cos7-aarch64-feedstock.git
+	path = feedstocks/libxau-cos7-aarch64
+	branch = refs/heads/master
