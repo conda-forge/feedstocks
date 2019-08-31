@@ -30530,3 +30530,7 @@
 	url = https://github.com/conda-forge/rb-tzinfo-feedstock.git
 	path = feedstocks/rb-tzinfo
 	branch = refs/heads/master
+[submodule "rb-minitest"]
+	url = https://github.com/conda-forge/rb-minitest-feedstock.git
+	path = feedstocks/rb-minitest
+	branch = refs/heads/master
