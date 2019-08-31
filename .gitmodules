@@ -30462,3 +30462,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-redirect-from-feedstock.git
 	path = feedstocks/rb-jekyll-redirect-from
 	branch = refs/heads/master
+[submodule "rb-nokogiri"]
+	url = https://github.com/conda-forge/rb-nokogiri-feedstock.git
+	path = feedstocks/rb-nokogiri
+	branch = refs/heads/master
