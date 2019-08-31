@@ -30486,3 +30486,7 @@
 	url = https://github.com/conda-forge/rb-latex-decode-feedstock.git
 	path = feedstocks/rb-latex-decode
 	branch = refs/heads/master
+[submodule "rb-csl-styles"]
+	url = https://github.com/conda-forge/rb-csl-styles-feedstock.git
+	path = feedstocks/rb-csl-styles
+	branch = refs/heads/master
