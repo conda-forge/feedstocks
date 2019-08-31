@@ -30482,3 +30482,7 @@
 	url = https://github.com/conda-forge/rb-bibtex-ruby-feedstock.git
 	path = feedstocks/rb-bibtex-ruby
 	branch = refs/heads/master
+[submodule "rb-latex-decode"]
+	url = https://github.com/conda-forge/rb-latex-decode-feedstock.git
+	path = feedstocks/rb-latex-decode
+	branch = refs/heads/master
