@@ -30470,3 +30470,7 @@
 	url = https://github.com/conda-forge/rb-mini_portile2-feedstock.git
 	path = feedstocks/rb-mini_portile2
 	branch = refs/heads/master
+[submodule "rb-pkg-config"]
+	url = https://github.com/conda-forge/rb-pkg-config-feedstock.git
+	path = feedstocks/rb-pkg-config
+	branch = refs/heads/master
