@@ -30666,3 +30666,7 @@
 	url = https://github.com/conda-forge/rb-parallel-feedstock.git
 	path = feedstocks/rb-parallel
 	branch = refs/heads/master
+[submodule "rb-yell"]
+	url = https://github.com/conda-forge/rb-yell-feedstock.git
+	path = feedstocks/rb-yell
+	branch = refs/heads/master
