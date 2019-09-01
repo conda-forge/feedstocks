@@ -30670,3 +30670,7 @@
 	url = https://github.com/conda-forge/rb-yell-feedstock.git
 	path = feedstocks/rb-yell
 	branch = refs/heads/master
+[submodule "rb-html-proofer"]
+	url = https://github.com/conda-forge/rb-html-proofer-feedstock.git
+	path = feedstocks/rb-html-proofer
+	branch = refs/heads/master
