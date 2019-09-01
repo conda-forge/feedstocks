@@ -30614,3 +30614,7 @@
 	url = https://github.com/conda-forge/rb-dnsruby-feedstock.git
 	path = feedstocks/rb-dnsruby
 	branch = refs/heads/master
+[submodule "rb-typhoeus"]
+	url = https://github.com/conda-forge/rb-typhoeus-feedstock.git
+	path = feedstocks/rb-typhoeus
+	branch = refs/heads/master
