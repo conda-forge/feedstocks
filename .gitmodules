@@ -30654,3 +30654,7 @@
 	url = https://github.com/conda-forge/datalad-container-feedstock.git
 	path = feedstocks/datalad-container
 	branch = refs/heads/master
+[submodule "rb-github-pages-health-check"]
+	url = https://github.com/conda-forge/rb-github-pages-health-check-feedstock.git
+	path = feedstocks/rb-github-pages-health-check
+	branch = refs/heads/master
