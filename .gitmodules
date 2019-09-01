@@ -30662,3 +30662,7 @@
 	url = https://github.com/conda-forge/rb-rainbow-feedstock.git
 	path = feedstocks/rb-rainbow
 	branch = refs/heads/master
+[submodule "rb-parallel"]
+	url = https://github.com/conda-forge/rb-parallel-feedstock.git
+	path = feedstocks/rb-parallel
+	branch = refs/heads/master
