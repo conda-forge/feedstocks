@@ -30610,3 +30610,7 @@
 	url = https://github.com/conda-forge/rb-sawyer-feedstock.git
 	path = feedstocks/rb-sawyer
 	branch = refs/heads/master
+[submodule "rb-dnsruby"]
+	url = https://github.com/conda-forge/rb-dnsruby-feedstock.git
+	path = feedstocks/rb-dnsruby
+	branch = refs/heads/master
