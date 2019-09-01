@@ -30562,3 +30562,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-sitemap-feedstock.git
 	path = feedstocks/rb-jekyll-sitemap
 	branch = refs/heads/master
+[submodule "gdown"]
+	url = https://github.com/conda-forge/gdown-feedstock.git
+	path = feedstocks/gdown
+	branch = refs/heads/master
