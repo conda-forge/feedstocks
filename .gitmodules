@@ -30570,3 +30570,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-paginate-feedstock.git
 	path = feedstocks/rb-jekyll-paginate
 	branch = refs/heads/master
+[submodule "rb-jekyll-remote-theme"]
+	url = https://github.com/conda-forge/rb-jekyll-remote-theme-feedstock.git
+	path = feedstocks/rb-jekyll-remote-theme
+	branch = refs/heads/master
