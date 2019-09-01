@@ -30590,3 +30590,7 @@
 	url = https://github.com/conda-forge/badapted-feedstock.git
 	path = feedstocks/badapted
 	branch = refs/heads/master
+[submodule "rb-html-pipeline"]
+	url = https://github.com/conda-forge/rb-html-pipeline-feedstock.git
+	path = feedstocks/rb-html-pipeline
+	branch = refs/heads/master
