@@ -30630,3 +30630,7 @@
 	url = https://github.com/conda-forge/rb-gemoji-feedstock.git
 	path = feedstocks/rb-gemoji
 	branch = refs/heads/master
+[submodule "rb-jekyll-gist"]
+	url = https://github.com/conda-forge/rb-jekyll-gist-feedstock.git
+	path = feedstocks/rb-jekyll-gist
+	branch = refs/heads/master
