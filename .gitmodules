@@ -30542,3 +30542,7 @@
 	url = https://github.com/conda-forge/openshift-cli-feedstock.git
 	path = feedstocks/openshift-cli
 	branch = refs/heads/master
+[submodule "rb-activesupport"]
+	url = https://github.com/conda-forge/rb-activesupport-feedstock.git
+	path = feedstocks/rb-activesupport
+	branch = refs/heads/master
