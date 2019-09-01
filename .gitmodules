@@ -30594,3 +30594,7 @@
 	url = https://github.com/conda-forge/rb-html-pipeline-feedstock.git
 	path = feedstocks/rb-html-pipeline
 	branch = refs/heads/master
+[submodule "rb-faraday"]
+	url = https://github.com/conda-forge/rb-faraday-feedstock.git
+	path = feedstocks/rb-faraday
+	branch = refs/heads/master
