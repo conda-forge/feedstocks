@@ -30618,3 +30618,7 @@
 	url = https://github.com/conda-forge/rb-typhoeus-feedstock.git
 	path = feedstocks/rb-typhoeus
 	branch = refs/heads/master
+[submodule "rb-ethon"]
+	url = https://github.com/conda-forge/rb-ethon-feedstock.git
+	path = feedstocks/rb-ethon
+	branch = refs/heads/master
