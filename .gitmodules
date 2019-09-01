@@ -30606,3 +30606,7 @@
 	url = https://github.com/conda-forge/rb-octokit-feedstock.git
 	path = feedstocks/rb-octokit
 	branch = refs/heads/master
+[submodule "rb-sawyer"]
+	url = https://github.com/conda-forge/rb-sawyer-feedstock.git
+	path = feedstocks/rb-sawyer
+	branch = refs/heads/master
