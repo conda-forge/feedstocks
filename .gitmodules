@@ -30598,3 +30598,7 @@
 	url = https://github.com/conda-forge/rb-faraday-feedstock.git
 	path = feedstocks/rb-faraday
 	branch = refs/heads/master
+[submodule "rb-multipart-post"]
+	url = https://github.com/conda-forge/rb-multipart-post-feedstock.git
+	path = feedstocks/rb-multipart-post
+	branch = refs/heads/master
