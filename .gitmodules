@@ -30602,3 +30602,7 @@
 	url = https://github.com/conda-forge/rb-multipart-post-feedstock.git
 	path = feedstocks/rb-multipart-post
 	branch = refs/heads/master
+[submodule "rb-octokit"]
+	url = https://github.com/conda-forge/rb-octokit-feedstock.git
+	path = feedstocks/rb-octokit
+	branch = refs/heads/master
