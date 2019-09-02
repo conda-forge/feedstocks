@@ -30802,3 +30802,7 @@
 	url = https://github.com/conda-forge/face-feedstock.git
 	path = feedstocks/face
 	branch = refs/heads/master
+[submodule "pg8000"]
+	url = https://github.com/conda-forge/pg8000-feedstock.git
+	path = feedstocks/pg8000
+	branch = refs/heads/master
