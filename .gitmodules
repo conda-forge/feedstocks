@@ -30746,3 +30746,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-swiss-feedstock.git
 	path = feedstocks/rb-jekyll-swiss
 	branch = refs/heads/master
+[submodule "rb-jekyll-theme-primer"]
+	url = https://github.com/conda-forge/rb-jekyll-theme-primer-feedstock.git
+	path = feedstocks/rb-jekyll-theme-primer
+	branch = refs/heads/master
