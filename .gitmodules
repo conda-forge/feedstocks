@@ -30722,3 +30722,7 @@
 	url = https://github.com/conda-forge/flask-redis-feedstock.git
 	path = feedstocks/flask-redis
 	branch = refs/heads/master
+[submodule "r-sinaplot"]
+	url = https://github.com/conda-forge/r-sinaplot-feedstock.git
+	path = feedstocks/r-sinaplot
+	branch = refs/heads/master
