@@ -30742,3 +30742,7 @@
 	url = https://github.com/conda-forge/scramp-feedstock.git
 	path = feedstocks/scramp
 	branch = refs/heads/master
+[submodule "rb-jekyll-swiss"]
+	url = https://github.com/conda-forge/rb-jekyll-swiss-feedstock.git
+	path = feedstocks/rb-jekyll-swiss
+	branch = refs/heads/master
