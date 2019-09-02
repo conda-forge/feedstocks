@@ -30710,3 +30710,7 @@
 	url = https://github.com/conda-forge/cp2k-feedstock.git
 	path = feedstocks/cp2k
 	branch = refs/heads/master
+[submodule "umami"]
+	url = https://github.com/conda-forge/umami-feedstock.git
+	path = feedstocks/umami
+	branch = refs/heads/master
