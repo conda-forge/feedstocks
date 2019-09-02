@@ -30702,3 +30702,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-commonmark-feedstock.git
 	path = feedstocks/rb-jekyll-commonmark
 	branch = refs/heads/master
+[submodule "rb-jekyll-commonmark-ghpages"]
+	url = https://github.com/conda-forge/rb-jekyll-commonmark-ghpages-feedstock.git
+	path = feedstocks/rb-jekyll-commonmark-ghpages
+	branch = refs/heads/master
