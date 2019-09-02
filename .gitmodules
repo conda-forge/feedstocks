@@ -30694,3 +30694,7 @@
 	url = https://github.com/conda-forge/rb-execjs-feedstock.git
 	path = feedstocks/rb-execjs
 	branch = refs/heads/master
+[submodule "rb-coffee-script-source"]
+	url = https://github.com/conda-forge/rb-coffee-script-source-feedstock.git
+	path = feedstocks/rb-coffee-script-source
+	branch = refs/heads/master
