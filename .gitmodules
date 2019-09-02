@@ -30686,3 +30686,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-compose-feedstock.git
 	path = feedstocks/rb-jekyll-compose
 	branch = refs/heads/master
+[submodule "rb-coffee-script"]
+	url = https://github.com/conda-forge/rb-coffee-script-feedstock.git
+	path = feedstocks/rb-coffee-script
+	branch = refs/heads/master
