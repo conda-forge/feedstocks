@@ -30810,3 +30810,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-theme-architect-feedstock.git
 	path = feedstocks/rb-jekyll-theme-architect
 	branch = refs/heads/master
+[submodule "glom"]
+	url = https://github.com/conda-forge/glom-feedstock.git
+	path = feedstocks/glom
+	branch = refs/heads/master
