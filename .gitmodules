@@ -30682,3 +30682,7 @@
 	url = https://github.com/conda-forge/rb-commonmarker-feedstock.git
 	path = feedstocks/rb-commonmarker
 	branch = refs/heads/master
+[submodule "rb-jekyll-compose"]
+	url = https://github.com/conda-forge/rb-jekyll-compose-feedstock.git
+	path = feedstocks/rb-jekyll-compose
+	branch = refs/heads/master
