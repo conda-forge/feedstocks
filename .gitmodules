@@ -30750,3 +30750,7 @@
 	url = https://github.com/conda-forge/rb-jekyll-theme-primer-feedstock.git
 	path = feedstocks/rb-jekyll-theme-primer
 	branch = refs/heads/master
+[submodule "bash_kernel"]
+	url = https://github.com/conda-forge/bash_kernel-feedstock.git
+	path = feedstocks/bash_kernel
+	branch = refs/heads/master
