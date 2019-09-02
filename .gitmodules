@@ -30754,3 +30754,7 @@
 	url = https://github.com/conda-forge/bash_kernel-feedstock.git
 	path = feedstocks/bash_kernel
 	branch = refs/heads/master
+[submodule "rb-jekyll-theme-dinky"]
+	url = https://github.com/conda-forge/rb-jekyll-theme-dinky-feedstock.git
+	path = feedstocks/rb-jekyll-theme-dinky
+	branch = refs/heads/master
