@@ -30830,3 +30830,7 @@
 	url = https://github.com/conda-forge/awswrangler-feedstock.git
 	path = feedstocks/awswrangler
 	branch = refs/heads/master
+[submodule "compyle"]
+	url = https://github.com/conda-forge/compyle-feedstock.git
+	path = feedstocks/compyle
+	branch = refs/heads/master
