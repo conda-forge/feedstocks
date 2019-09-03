@@ -30850,3 +30850,7 @@
 	url = https://github.com/conda-forge/jupyterlab-transient-display-data-feedstock.git
 	path = feedstocks/jupyterlab-transient-display-data
 	branch = refs/heads/master
+[submodule "mne-bids"]
+	url = https://github.com/conda-forge/mne-bids-feedstock.git
+	path = feedstocks/mne-bids
+	branch = refs/heads/master
