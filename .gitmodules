@@ -30814,3 +30814,7 @@
 	url = https://github.com/conda-forge/glom-feedstock.git
 	path = feedstocks/glom
 	branch = refs/heads/master
+[submodule "rb-github-pages"]
+	url = https://github.com/conda-forge/rb-github-pages-feedstock.git
+	path = feedstocks/rb-github-pages
+	branch = refs/heads/master
