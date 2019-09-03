@@ -30834,3 +30834,7 @@
 	url = https://github.com/conda-forge/compyle-feedstock.git
 	path = feedstocks/compyle
 	branch = refs/heads/master
+[submodule "anndata"]
+	url = https://github.com/conda-forge/anndata-feedstock.git
+	path = feedstocks/anndata
+	branch = refs/heads/master
