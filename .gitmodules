@@ -30838,3 +30838,7 @@
 	url = https://github.com/conda-forge/anndata-feedstock.git
 	path = feedstocks/anndata
 	branch = refs/heads/master
+[submodule "mo-future"]
+	url = https://github.com/conda-forge/mo-future-feedstock.git
+	path = feedstocks/mo-future
+	branch = refs/heads/master
