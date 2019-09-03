@@ -30858,3 +30858,7 @@
 	url = https://github.com/conda-forge/minikube-feedstock.git
 	path = feedstocks/minikube
 	branch = refs/heads/master
+[submodule "rb-little-plugger"]
+	url = https://github.com/conda-forge/rb-little-plugger-feedstock.git
+	path = feedstocks/rb-little-plugger
+	branch = refs/heads/master
