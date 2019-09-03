@@ -30842,3 +30842,7 @@
 	url = https://github.com/conda-forge/mo-future-feedstock.git
 	path = feedstocks/mo-future
 	branch = refs/heads/master
+[submodule "moz-sql-parser"]
+	url = https://github.com/conda-forge/moz-sql-parser-feedstock.git
+	path = feedstocks/moz-sql-parser
+	branch = refs/heads/master
