@@ -30826,3 +30826,7 @@
 	url = https://github.com/conda-forge/r-graphlayouts-feedstock.git
 	path = feedstocks/r-graphlayouts
 	branch = refs/heads/master
+[submodule "awswrangler"]
+	url = https://github.com/conda-forge/awswrangler-feedstock.git
+	path = feedstocks/awswrangler
+	branch = refs/heads/master
