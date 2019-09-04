@@ -30938,3 +30938,7 @@
 	url = https://github.com/conda-forge/dask-geomodeling-feedstock.git
 	path = feedstocks/dask-geomodeling
 	branch = refs/heads/master
+[submodule "flask-graphql"]
+	url = https://github.com/conda-forge/flask-graphql-feedstock.git
+	path = feedstocks/flask-graphql
+	branch = refs/heads/master
