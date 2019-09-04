@@ -30942,3 +30942,7 @@
 	url = https://github.com/conda-forge/flask-graphql-feedstock.git
 	path = feedstocks/flask-graphql
 	branch = refs/heads/master
+[submodule "jamotools"]
+	url = https://github.com/conda-forge/jamotools-feedstock.git
+	path = feedstocks/jamotools
+	branch = refs/heads/master
