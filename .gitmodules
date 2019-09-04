@@ -30934,3 +30934,7 @@
 	url = https://github.com/conda-forge/mapbox-vector-tile-feedstock.git
 	path = feedstocks/mapbox-vector-tile
 	branch = refs/heads/master
+[submodule "dask-geomodeling"]
+	url = https://github.com/conda-forge/dask-geomodeling-feedstock.git
+	path = feedstocks/dask-geomodeling
+	branch = refs/heads/master
