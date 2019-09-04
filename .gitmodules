@@ -30954,3 +30954,7 @@
 	url = https://github.com/conda-forge/openmdao-feedstock.git
 	path = feedstocks/openmdao
 	branch = refs/heads/master
+[submodule "rb-dotenv"]
+	url = https://github.com/conda-forge/rb-dotenv-feedstock.git
+	path = feedstocks/rb-dotenv
+	branch = refs/heads/master
