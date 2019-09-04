@@ -30874,3 +30874,7 @@
 	url = https://github.com/conda-forge/rb-timerizer-feedstock.git
 	path = feedstocks/rb-timerizer
 	branch = refs/heads/master
+[submodule "rb-multi_json"]
+	url = https://github.com/conda-forge/rb-multi_json-feedstock.git
+	path = feedstocks/rb-multi_json
+	branch = refs/heads/master
