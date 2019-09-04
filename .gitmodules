@@ -30886,3 +30886,7 @@
 	url = https://github.com/conda-forge/orange-canvas-core-feedstock.git
 	path = feedstocks/orange-canvas-core
 	branch = refs/heads/master
+[submodule "broot"]
+	url = https://github.com/conda-forge/broot-feedstock.git
+	path = feedstocks/broot
+	branch = refs/heads/master
