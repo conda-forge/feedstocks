@@ -30866,3 +30866,7 @@
 	url = https://github.com/conda-forge/rb-fast_jsonapi-feedstock.git
 	path = feedstocks/rb-fast_jsonapi
 	branch = refs/heads/master
+[submodule "rb-bio"]
+	url = https://github.com/conda-forge/rb-bio-feedstock.git
+	path = feedstocks/rb-bio
+	branch = refs/heads/master
