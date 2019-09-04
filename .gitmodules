@@ -30906,3 +30906,7 @@
 	url = https://github.com/conda-forge/mbutil-feedstock.git
 	path = feedstocks/mbutil
 	branch = refs/heads/master
+[submodule "ifaddr"]
+	url = https://github.com/conda-forge/ifaddr-feedstock.git
+	path = feedstocks/ifaddr
+	branch = refs/heads/master
