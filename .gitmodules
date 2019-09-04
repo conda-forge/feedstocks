@@ -30882,3 +30882,7 @@
 	url = https://github.com/conda-forge/freegenes-feedstock.git
 	path = feedstocks/freegenes
 	branch = refs/heads/master
+[submodule "orange-canvas-core"]
+	url = https://github.com/conda-forge/orange-canvas-core-feedstock.git
+	path = feedstocks/orange-canvas-core
+	branch = refs/heads/master
