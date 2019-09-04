@@ -30890,3 +30890,7 @@
 	url = https://github.com/conda-forge/broot-feedstock.git
 	path = feedstocks/broot
 	branch = refs/heads/master
+[submodule "pybv"]
+	url = https://github.com/conda-forge/pybv-feedstock.git
+	path = feedstocks/pybv
+	branch = refs/heads/master
