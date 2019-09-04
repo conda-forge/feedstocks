@@ -30870,3 +30870,7 @@
 	url = https://github.com/conda-forge/rb-bio-feedstock.git
 	path = feedstocks/rb-bio
 	branch = refs/heads/master
+[submodule "rb-timerizer"]
+	url = https://github.com/conda-forge/rb-timerizer-feedstock.git
+	path = feedstocks/rb-timerizer
+	branch = refs/heads/master
