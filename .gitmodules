@@ -30910,3 +30910,7 @@
 	url = https://github.com/conda-forge/ifaddr-feedstock.git
 	path = feedstocks/ifaddr
 	branch = refs/heads/master
+[submodule "orange-widget-base"]
+	url = https://github.com/conda-forge/orange-widget-base-feedstock.git
+	path = feedstocks/orange-widget-base
+	branch = refs/heads/master
