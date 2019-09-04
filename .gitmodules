@@ -30914,3 +30914,7 @@
 	url = https://github.com/conda-forge/orange-widget-base-feedstock.git
 	path = feedstocks/orange-widget-base
 	branch = refs/heads/master
+[submodule "msnoise"]
+	url = https://github.com/conda-forge/msnoise-feedstock.git
+	path = feedstocks/msnoise
+	branch = refs/heads/master
