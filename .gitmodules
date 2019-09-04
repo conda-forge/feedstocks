@@ -30878,3 +30878,7 @@
 	url = https://github.com/conda-forge/rb-multi_json-feedstock.git
 	path = feedstocks/rb-multi_json
 	branch = refs/heads/master
+[submodule "freegenes"]
+	url = https://github.com/conda-forge/freegenes-feedstock.git
+	path = feedstocks/freegenes
+	branch = refs/heads/master
