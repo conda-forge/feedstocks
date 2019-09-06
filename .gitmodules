@@ -30970,3 +30970,7 @@
 	url = https://github.com/conda-forge/rb-data_uri-feedstock.git
 	path = feedstocks/rb-data_uri
 	branch = refs/heads/master
+[submodule "ledger"]
+	url = https://github.com/conda-forge/ledger-feedstock.git
+	path = feedstocks/ledger
+	branch = refs/heads/master
