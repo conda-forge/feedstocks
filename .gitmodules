@@ -30990,3 +30990,7 @@
 	url = https://github.com/conda-forge/rb-logging-feedstock.git
 	path = feedstocks/rb-logging
 	branch = refs/heads/master
+[submodule "anyio"]
+	url = https://github.com/conda-forge/anyio-feedstock.git
+	path = feedstocks/anyio
+	branch = refs/heads/master
