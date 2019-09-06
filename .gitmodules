@@ -30978,3 +30978,7 @@
 	url = https://github.com/conda-forge/pytest-instafail-feedstock.git
 	path = feedstocks/pytest-instafail
 	branch = refs/heads/master
+[submodule "sos-bash"]
+	url = https://github.com/conda-forge/sos-bash-feedstock.git
+	path = feedstocks/sos-bash
+	branch = refs/heads/master
