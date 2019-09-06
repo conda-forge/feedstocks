@@ -30982,3 +30982,7 @@
 	url = https://github.com/conda-forge/sos-bash-feedstock.git
 	path = feedstocks/sos-bash
 	branch = refs/heads/master
+[submodule "jupyterlab-sos"]
+	url = https://github.com/conda-forge/jupyterlab-sos-feedstock.git
+	path = feedstocks/jupyterlab-sos
+	branch = refs/heads/master
