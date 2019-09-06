@@ -31018,3 +31018,7 @@
 	url = https://github.com/conda-forge/startables-feedstock.git
 	path = feedstocks/startables
 	branch = refs/heads/master
+[submodule "rb-thor"]
+	url = https://github.com/conda-forge/rb-thor-feedstock.git
+	path = feedstocks/rb-thor
+	branch = refs/heads/master
