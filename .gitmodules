@@ -30962,3 +30962,7 @@
 	url = https://github.com/conda-forge/rb-msgpack-feedstock.git
 	path = feedstocks/rb-msgpack
 	branch = refs/heads/master
+[submodule "rb-necromancer"]
+	url = https://github.com/conda-forge/rb-necromancer-feedstock.git
+	path = feedstocks/rb-necromancer
+	branch = refs/heads/master
