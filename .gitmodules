@@ -31002,3 +31002,7 @@
 	url = https://github.com/conda-forge/deepsmiles-feedstock.git
 	path = feedstocks/deepsmiles
 	branch = refs/heads/master
+[submodule "property-manager"]
+	url = https://github.com/conda-forge/property-manager-feedstock.git
+	path = feedstocks/property-manager
+	branch = refs/heads/master
