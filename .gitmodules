@@ -31030,3 +31030,7 @@
 	url = https://github.com/conda-forge/exa-feedstock.git
 	path = feedstocks/exa
 	branch = refs/heads/master
+[submodule "firefox"]
+	url = https://github.com/conda-forge/firefox-feedstock.git
+	path = feedstocks/firefox
+	branch = refs/heads/master
