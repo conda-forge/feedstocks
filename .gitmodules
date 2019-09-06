@@ -31010,3 +31010,7 @@
 	url = https://github.com/conda-forge/rb-bond-feedstock.git
 	path = feedstocks/rb-bond
 	branch = refs/heads/master
+[submodule "rb-mimemagic"]
+	url = https://github.com/conda-forge/rb-mimemagic-feedstock.git
+	path = feedstocks/rb-mimemagic
+	branch = refs/heads/master
