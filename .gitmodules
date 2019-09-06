@@ -30994,3 +30994,7 @@
 	url = https://github.com/conda-forge/anyio-feedstock.git
 	path = feedstocks/anyio
 	branch = refs/heads/master
+[submodule "ipycanvas"]
+	url = https://github.com/conda-forge/ipycanvas-feedstock.git
+	path = feedstocks/ipycanvas
+	branch = refs/heads/master
