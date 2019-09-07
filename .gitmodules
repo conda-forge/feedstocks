@@ -31074,3 +31074,7 @@
 	url = https://github.com/conda-forge/r-oai-feedstock.git
 	path = feedstocks/r-oai
 	branch = refs/heads/master
+[submodule "qarrayrun"]
+	url = https://github.com/conda-forge/qarrayrun-feedstock.git
+	path = feedstocks/qarrayrun
+	branch = refs/heads/master
