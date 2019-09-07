@@ -31062,3 +31062,7 @@
 	url = https://github.com/conda-forge/rb-aws-sigv4-feedstock.git
 	path = feedstocks/rb-aws-sigv4
 	branch = refs/heads/master
+[submodule "rb-aws-eventstream"]
+	url = https://github.com/conda-forge/rb-aws-eventstream-feedstock.git
+	path = feedstocks/rb-aws-eventstream
+	branch = refs/heads/master
