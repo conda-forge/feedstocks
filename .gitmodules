@@ -31046,3 +31046,7 @@
 	url = https://github.com/conda-forge/rb-archive-tar-minitar-feedstock.git
 	path = feedstocks/rb-archive-tar-minitar
 	branch = refs/heads/master
+[submodule "rb-jmespath"]
+	url = https://github.com/conda-forge/rb-jmespath-feedstock.git
+	path = feedstocks/rb-jmespath
+	branch = refs/heads/master
