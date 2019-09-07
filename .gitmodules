@@ -31042,3 +31042,7 @@
 	url = https://github.com/conda-forge/rb-net-ssh-feedstock.git
 	path = feedstocks/rb-net-ssh
 	branch = refs/heads/master
+[submodule "rb-archive-tar-minitar"]
+	url = https://github.com/conda-forge/rb-archive-tar-minitar-feedstock.git
+	path = feedstocks/rb-archive-tar-minitar
+	branch = refs/heads/master
