@@ -31078,3 +31078,7 @@
 	url = https://github.com/conda-forge/qarrayrun-feedstock.git
 	path = feedstocks/qarrayrun
 	branch = refs/heads/master
+[submodule "rb-docopt"]
+	url = https://github.com/conda-forge/rb-docopt-feedstock.git
+	path = feedstocks/rb-docopt
+	branch = refs/heads/master
