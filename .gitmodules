@@ -31038,3 +31038,7 @@
 	url = https://github.com/conda-forge/rb-gli-feedstock.git
 	path = feedstocks/rb-gli
 	branch = refs/heads/master
+[submodule "rb-net-ssh"]
+	url = https://github.com/conda-forge/rb-net-ssh-feedstock.git
+	path = feedstocks/rb-net-ssh
+	branch = refs/heads/master
