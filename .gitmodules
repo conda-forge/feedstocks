@@ -31070,3 +31070,7 @@
 	url = https://github.com/conda-forge/executor-feedstock.git
 	path = feedstocks/executor
 	branch = refs/heads/master
+[submodule "r-oai"]
+	url = https://github.com/conda-forge/r-oai-feedstock.git
+	path = feedstocks/r-oai
+	branch = refs/heads/master
