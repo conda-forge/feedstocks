@@ -31050,3 +31050,7 @@
 	url = https://github.com/conda-forge/rb-jmespath-feedstock.git
 	path = feedstocks/rb-jmespath
 	branch = refs/heads/master
+[submodule "rb-aws-sdk-core"]
+	url = https://github.com/conda-forge/rb-aws-sdk-core-feedstock.git
+	path = feedstocks/rb-aws-sdk-core
+	branch = refs/heads/master
