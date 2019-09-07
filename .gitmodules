@@ -31066,3 +31066,7 @@
 	url = https://github.com/conda-forge/rb-aws-eventstream-feedstock.git
 	path = feedstocks/rb-aws-eventstream
 	branch = refs/heads/master
+[submodule "executor"]
+	url = https://github.com/conda-forge/executor-feedstock.git
+	path = feedstocks/executor
+	branch = refs/heads/master
