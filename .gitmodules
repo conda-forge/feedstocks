@@ -31094,3 +31094,7 @@
 	url = https://github.com/conda-forge/r-mvnfast-feedstock.git
 	path = feedstocks/r-mvnfast
 	branch = refs/heads/master
+[submodule "r-gargle"]
+	url = https://github.com/conda-forge/r-gargle-feedstock.git
+	path = feedstocks/r-gargle
+	branch = refs/heads/master
