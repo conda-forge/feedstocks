@@ -31118,3 +31118,7 @@
 	url = https://github.com/conda-forge/azure-datalake-store-feedstock.git
 	path = feedstocks/azure-datalake-store
 	branch = refs/heads/master
+[submodule "calysto_bash"]
+	url = https://github.com/conda-forge/calysto_bash-feedstock.git
+	path = feedstocks/calysto_bash
+	branch = refs/heads/master
