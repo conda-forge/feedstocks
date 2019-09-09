@@ -31110,3 +31110,7 @@
 	url = https://github.com/conda-forge/libice-cos7-ppc64le-feedstock.git
 	path = feedstocks/libice-cos7-ppc64le
 	branch = refs/heads/master
+[submodule "libsm-cos7-ppc64le"]
+	url = https://github.com/conda-forge/libsm-cos7-ppc64le-feedstock.git
+	path = feedstocks/libsm-cos7-ppc64le
+	branch = refs/heads/master
