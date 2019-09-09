@@ -31114,3 +31114,7 @@
 	url = https://github.com/conda-forge/libsm-cos7-ppc64le-feedstock.git
 	path = feedstocks/libsm-cos7-ppc64le
 	branch = refs/heads/master
+[submodule "azure-datalake-store"]
+	url = https://github.com/conda-forge/azure-datalake-store-feedstock.git
+	path = feedstocks/azure-datalake-store
+	branch = refs/heads/master
