@@ -31134,3 +31134,7 @@
 	url = https://github.com/conda-forge/r-statsexpressions-feedstock.git
 	path = feedstocks/r-statsexpressions
 	branch = refs/heads/master
+[submodule "p4p"]
+	url = https://github.com/conda-forge/p4p-feedstock.git
+	path = feedstocks/p4p
+	branch = refs/heads/master
