@@ -31138,3 +31138,7 @@
 	url = https://github.com/conda-forge/p4p-feedstock.git
 	path = feedstocks/p4p
 	branch = refs/heads/master
+[submodule "r-boom"]
+	url = https://github.com/conda-forge/r-boom-feedstock.git
+	path = feedstocks/r-boom
+	branch = refs/heads/master
