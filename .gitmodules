@@ -31174,3 +31174,7 @@
 	url = https://github.com/conda-forge/rb-tty-cursor-feedstock.git
 	path = feedstocks/rb-tty-cursor
 	branch = refs/heads/master
+[submodule "dnslib"]
+	url = https://github.com/conda-forge/dnslib-feedstock.git
+	path = feedstocks/dnslib
+	branch = refs/heads/master
