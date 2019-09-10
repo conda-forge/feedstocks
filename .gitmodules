@@ -31158,3 +31158,7 @@
 	url = https://github.com/conda-forge/pygeos-feedstock.git
 	path = feedstocks/pygeos
 	branch = refs/heads/master
+[submodule "pyaes"]
+	url = https://github.com/conda-forge/pyaes-feedstock.git
+	path = feedstocks/pyaes
+	branch = refs/heads/master
