@@ -31142,3 +31142,7 @@
 	url = https://github.com/conda-forge/r-boom-feedstock.git
 	path = feedstocks/r-boom
 	branch = refs/heads/master
+[submodule "argutils"]
+	url = https://github.com/conda-forge/argutils-feedstock.git
+	path = feedstocks/argutils
+	branch = refs/heads/master
