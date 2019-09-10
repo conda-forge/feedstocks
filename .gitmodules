@@ -31170,3 +31170,7 @@
 	url = https://github.com/conda-forge/rb-tty-screen-feedstock.git
 	path = feedstocks/rb-tty-screen
 	branch = refs/heads/master
+[submodule "rb-tty-cursor"]
+	url = https://github.com/conda-forge/rb-tty-cursor-feedstock.git
+	path = feedstocks/rb-tty-cursor
+	branch = refs/heads/master
