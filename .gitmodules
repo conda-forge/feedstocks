@@ -31154,3 +31154,7 @@
 	url = https://github.com/conda-forge/apply_defaults-feedstock.git
 	path = feedstocks/apply_defaults
 	branch = refs/heads/master
+[submodule "pygeos"]
+	url = https://github.com/conda-forge/pygeos-feedstock.git
+	path = feedstocks/pygeos
+	branch = refs/heads/master
