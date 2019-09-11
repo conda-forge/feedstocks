@@ -31202,3 +31202,7 @@
 	url = https://github.com/conda-forge/jsonrpcserver-feedstock.git
 	path = feedstocks/jsonrpcserver
 	branch = refs/heads/master
+[submodule "jsonrpcclient"]
+	url = https://github.com/conda-forge/jsonrpcclient-feedstock.git
+	path = feedstocks/jsonrpcclient
+	branch = refs/heads/master
