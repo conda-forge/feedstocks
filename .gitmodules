@@ -31206,3 +31206,7 @@
 	url = https://github.com/conda-forge/jsonrpcclient-feedstock.git
 	path = feedstocks/jsonrpcclient
 	branch = refs/heads/master
+[submodule "kfp-server-api"]
+	url = https://github.com/conda-forge/kfp-server-api-feedstock.git
+	path = feedstocks/kfp-server-api
+	branch = refs/heads/master
