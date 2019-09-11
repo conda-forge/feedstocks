@@ -31190,3 +31190,7 @@
 	url = https://github.com/conda-forge/rb-dig_rb-feedstock.git
 	path = feedstocks/rb-dig_rb
 	branch = refs/heads/master
+[submodule "rb-tty-reader"]
+	url = https://github.com/conda-forge/rb-tty-reader-feedstock.git
+	path = feedstocks/rb-tty-reader
+	branch = refs/heads/master
