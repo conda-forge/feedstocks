@@ -31222,3 +31222,7 @@
 	url = https://github.com/conda-forge/pyspark-stubs-feedstock.git
 	path = feedstocks/pyspark-stubs
 	branch = refs/heads/master
+[submodule "rb-tty-color"]
+	url = https://github.com/conda-forge/rb-tty-color-feedstock.git
+	path = feedstocks/rb-tty-color
+	branch = refs/heads/master
