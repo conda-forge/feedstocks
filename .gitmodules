@@ -31218,3 +31218,7 @@
 	url = https://github.com/conda-forge/ncview-feedstock.git
 	path = feedstocks/ncview
 	branch = refs/heads/master
+[submodule "pyspark-stubs"]
+	url = https://github.com/conda-forge/pyspark-stubs-feedstock.git
+	path = feedstocks/pyspark-stubs
+	branch = refs/heads/master
