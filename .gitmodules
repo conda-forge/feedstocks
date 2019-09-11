@@ -31214,3 +31214,7 @@
 	url = https://github.com/conda-forge/hsmfile-feedstock.git
 	path = feedstocks/hsmfile
 	branch = refs/heads/master
+[submodule "ncview"]
+	url = https://github.com/conda-forge/ncview-feedstock.git
+	path = feedstocks/ncview
+	branch = refs/heads/master
