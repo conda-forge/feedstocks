@@ -31198,3 +31198,7 @@
 	url = https://github.com/conda-forge/rb-sigdump-feedstock.git
 	path = feedstocks/rb-sigdump
 	branch = refs/heads/master
+[submodule "jsonrpcserver"]
+	url = https://github.com/conda-forge/jsonrpcserver-feedstock.git
+	path = feedstocks/jsonrpcserver
+	branch = refs/heads/master
