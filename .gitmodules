@@ -31238,3 +31238,7 @@
 	url = https://github.com/conda-forge/r-orthopolynom-feedstock.git
 	path = feedstocks/r-orthopolynom
 	branch = refs/heads/master
+[submodule "_go_select"]
+	url = https://github.com/conda-forge/_go_select-feedstock.git
+	path = feedstocks/_go_select
+	branch = refs/heads/master
