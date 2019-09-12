@@ -31230,3 +31230,7 @@
 	url = https://github.com/conda-forge/rb-serverengine-feedstock.git
 	path = feedstocks/rb-serverengine
 	branch = refs/heads/master
+[submodule "catalystcoop.pudl"]
+	url = https://github.com/conda-forge/catalystcoop.pudl-feedstock.git
+	path = feedstocks/catalystcoop.pudl
+	branch = refs/heads/master
