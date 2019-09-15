@@ -31254,3 +31254,7 @@
 	url = https://github.com/conda-forge/rb-yajl-ruby-feedstock.git
 	path = feedstocks/rb-yajl-ruby
 	branch = refs/heads/master
+[submodule "label-maker"]
+	url = https://github.com/conda-forge/label-maker-feedstock.git
+	path = feedstocks/label-maker
+	branch = refs/heads/master
