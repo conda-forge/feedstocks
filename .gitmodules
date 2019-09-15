@@ -31270,3 +31270,7 @@
 	url = https://github.com/conda-forge/python-packit-feedstock.git
 	path = feedstocks/python-packit
 	branch = refs/heads/master
+[submodule "seabreeze"]
+	url = https://github.com/conda-forge/seabreeze-feedstock.git
+	path = feedstocks/seabreeze
+	branch = refs/heads/master
