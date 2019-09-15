@@ -31298,3 +31298,7 @@
 	url = https://github.com/conda-forge/tamkin-feedstock.git
 	path = feedstocks/tamkin
 	branch = refs/heads/master
+[submodule "pytest-rerunfailures"]
+	url = https://github.com/conda-forge/pytest-rerunfailures-feedstock.git
+	path = feedstocks/pytest-rerunfailures
+	branch = refs/heads/master
