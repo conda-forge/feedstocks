@@ -31246,3 +31246,7 @@
 	url = https://github.com/conda-forge/deepmd-kit-feedstock.git
 	path = feedstocks/deepmd-kit
 	branch = refs/heads/master
+[submodule "astrometry"]
+	url = https://github.com/conda-forge/astrometry-feedstock.git
+	path = feedstocks/astrometry
+	branch = refs/heads/master
