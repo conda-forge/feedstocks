@@ -31290,3 +31290,7 @@
 	url = https://github.com/conda-forge/xarray_mongodb-feedstock.git
 	path = feedstocks/xarray_mongodb
 	branch = refs/heads/master
+[submodule "act-atmos"]
+	url = https://github.com/conda-forge/act-atmos-feedstock.git
+	path = feedstocks/act-atmos
+	branch = refs/heads/master
