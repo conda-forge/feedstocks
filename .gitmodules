@@ -31266,3 +31266,7 @@
 	url = https://github.com/conda-forge/libsimpleitk-feedstock.git
 	path = feedstocks/libsimpleitk
 	branch = refs/heads/master
+[submodule "python-packit"]
+	url = https://github.com/conda-forge/python-packit-feedstock.git
+	path = feedstocks/python-packit
+	branch = refs/heads/master
