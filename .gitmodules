@@ -31322,3 +31322,7 @@
 	url = https://github.com/conda-forge/rb-strptime-feedstock.git
 	path = feedstocks/rb-strptime
 	branch = refs/heads/master
+[submodule "r-partitions"]
+	url = https://github.com/conda-forge/r-partitions-feedstock.git
+	path = feedstocks/r-partitions
+	branch = refs/heads/master
