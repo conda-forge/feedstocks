@@ -31318,3 +31318,7 @@
 	url = https://github.com/conda-forge/sos-sas-feedstock.git
 	path = feedstocks/sos-sas
 	branch = refs/heads/master
+[submodule "rb-strptime"]
+	url = https://github.com/conda-forge/rb-strptime-feedstock.git
+	path = feedstocks/rb-strptime
+	branch = refs/heads/master
