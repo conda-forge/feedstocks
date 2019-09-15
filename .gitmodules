@@ -31250,3 +31250,7 @@
 	url = https://github.com/conda-forge/astrometry-feedstock.git
 	path = feedstocks/astrometry
 	branch = refs/heads/master
+[submodule "rb-yajl-ruby"]
+	url = https://github.com/conda-forge/rb-yajl-ruby-feedstock.git
+	path = feedstocks/rb-yajl-ruby
+	branch = refs/heads/master
