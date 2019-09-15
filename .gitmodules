@@ -31262,3 +31262,7 @@
 	url = https://github.com/conda-forge/bth5-feedstock.git
 	path = feedstocks/bth5
 	branch = refs/heads/master
+[submodule "libsimpleitk"]
+	url = https://github.com/conda-forge/libsimpleitk-feedstock.git
+	path = feedstocks/libsimpleitk
+	branch = refs/heads/master
