@@ -31326,3 +31326,7 @@
 	url = https://github.com/conda-forge/r-partitions-feedstock.git
 	path = feedstocks/r-partitions
 	branch = refs/heads/master
+[submodule "cesium"]
+	url = https://github.com/conda-forge/cesium-feedstock.git
+	path = feedstocks/cesium
+	branch = refs/heads/master
