@@ -31334,3 +31334,7 @@
 	url = https://github.com/conda-forge/plotly_express-feedstock.git
 	path = feedstocks/plotly_express
 	branch = refs/heads/master
+[submodule "r-littler"]
+	url = https://github.com/conda-forge/r-littler-feedstock.git
+	path = feedstocks/r-littler
+	branch = refs/heads/master
