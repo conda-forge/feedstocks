@@ -31378,3 +31378,7 @@
 	url = https://github.com/conda-forge/r-mco-feedstock.git
 	path = feedstocks/r-mco
 	branch = refs/heads/master
+[submodule "r-spray"]
+	url = https://github.com/conda-forge/r-spray-feedstock.git
+	path = feedstocks/r-spray
+	branch = refs/heads/master
