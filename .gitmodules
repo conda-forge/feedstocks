@@ -31374,3 +31374,7 @@
 	url = https://github.com/conda-forge/tapi-feedstock.git
 	path = feedstocks/tapi
 	branch = refs/heads/master
+[submodule "r-mco"]
+	url = https://github.com/conda-forge/r-mco-feedstock.git
+	path = feedstocks/r-mco
+	branch = refs/heads/master
