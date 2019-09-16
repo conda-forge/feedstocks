@@ -31338,3 +31338,7 @@
 	url = https://github.com/conda-forge/r-littler-feedstock.git
 	path = feedstocks/r-littler
 	branch = refs/heads/master
+[submodule "xrayutilities"]
+	url = https://github.com/conda-forge/xrayutilities-feedstock.git
+	path = feedstocks/xrayutilities
+	branch = refs/heads/master
