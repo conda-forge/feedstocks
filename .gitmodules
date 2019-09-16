@@ -31354,3 +31354,7 @@
 	url = https://github.com/conda-forge/jupyterlab_downloadfolder-feedstock.git
 	path = feedstocks/jupyterlab_downloadfolder
 	branch = refs/heads/master
+[submodule "zmesh"]
+	url = https://github.com/conda-forge/zmesh-feedstock.git
+	path = feedstocks/zmesh
+	branch = refs/heads/master
