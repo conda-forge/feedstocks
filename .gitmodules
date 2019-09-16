@@ -31362,3 +31362,7 @@
 	url = https://github.com/conda-forge/pyinterp-feedstock.git
 	path = feedstocks/pyinterp
 	branch = refs/heads/master
+[submodule "localstack-ext"]
+	url = https://github.com/conda-forge/localstack-ext-feedstock.git
+	path = feedstocks/localstack-ext
+	branch = refs/heads/master
