@@ -31422,3 +31422,7 @@
 	url = https://github.com/conda-forge/dynaphopy-feedstock.git
 	path = feedstocks/dynaphopy
 	branch = refs/heads/master
+[submodule "localstack"]
+	url = https://github.com/conda-forge/localstack-feedstock.git
+	path = feedstocks/localstack
+	branch = refs/heads/master
