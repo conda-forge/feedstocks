@@ -31410,3 +31410,7 @@
 	url = https://github.com/conda-forge/phonolammps-feedstock.git
 	path = feedstocks/phonolammps
 	branch = refs/heads/master
+[submodule "r-lifecycle"]
+	url = https://github.com/conda-forge/r-lifecycle-feedstock.git
+	path = feedstocks/r-lifecycle
+	branch = refs/heads/master
