@@ -31394,3 +31394,7 @@
 	url = https://github.com/conda-forge/kfp-feedstock.git
 	path = feedstocks/kfp
 	branch = refs/heads/master
+[submodule "movingpandas"]
+	url = https://github.com/conda-forge/movingpandas-feedstock.git
+	path = feedstocks/movingpandas
+	branch = refs/heads/master
