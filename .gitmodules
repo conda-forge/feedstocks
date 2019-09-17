@@ -31430,3 +31430,7 @@
 	url = https://github.com/conda-forge/circuits-feedstock.git
 	path = feedstocks/circuits
 	branch = refs/heads/master
+[submodule "rb-pastel"]
+	url = https://github.com/conda-forge/rb-pastel-feedstock.git
+	path = feedstocks/rb-pastel
+	branch = refs/heads/master
