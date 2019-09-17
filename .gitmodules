@@ -31418,3 +31418,7 @@
 	url = https://github.com/conda-forge/sre_yield-feedstock.git
 	path = feedstocks/sre_yield
 	branch = refs/heads/master
+[submodule "dynaphopy"]
+	url = https://github.com/conda-forge/dynaphopy-feedstock.git
+	path = feedstocks/dynaphopy
+	branch = refs/heads/master
