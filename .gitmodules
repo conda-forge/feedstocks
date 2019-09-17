@@ -31390,3 +31390,7 @@
 	url = https://github.com/conda-forge/cctools-and-ld64-feedstock.git
 	path = feedstocks/cctools-and-ld64
 	branch = refs/heads/master
+[submodule "kfp"]
+	url = https://github.com/conda-forge/kfp-feedstock.git
+	path = feedstocks/kfp
+	branch = refs/heads/master
