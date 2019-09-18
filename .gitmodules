@@ -31446,3 +31446,7 @@
 	url = https://github.com/conda-forge/pyxrf-feedstock.git
 	path = feedstocks/pyxrf
 	branch = refs/heads/master
+[submodule "ldraw"]
+	url = https://github.com/conda-forge/ldraw-feedstock.git
+	path = feedstocks/ldraw
+	branch = refs/heads/master
