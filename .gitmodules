@@ -31486,3 +31486,7 @@
 	url = https://github.com/conda-forge/sos-julia-feedstock.git
 	path = feedstocks/sos-julia
 	branch = refs/heads/master
+[submodule "dials-data"]
+	url = https://github.com/conda-forge/dials-data-feedstock.git
+	path = feedstocks/dials-data
+	branch = refs/heads/master
