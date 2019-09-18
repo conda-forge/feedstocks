@@ -31442,3 +31442,7 @@
 	url = https://github.com/conda-forge/r-parameters-feedstock.git
 	path = feedstocks/r-parameters
 	branch = refs/heads/master
+[submodule "pyxrf"]
+	url = https://github.com/conda-forge/pyxrf-feedstock.git
+	path = feedstocks/pyxrf
+	branch = refs/heads/master
