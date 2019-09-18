@@ -31478,3 +31478,7 @@
 	url = https://github.com/conda-forge/entropy-feedstock.git
 	path = feedstocks/entropy
 	branch = refs/heads/master
+[submodule "awscli-local"]
+	url = https://github.com/conda-forge/awscli-local-feedstock.git
+	path = feedstocks/awscli-local
+	branch = refs/heads/master
