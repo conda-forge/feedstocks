@@ -31450,3 +31450,7 @@
 	url = https://github.com/conda-forge/ldraw-feedstock.git
 	path = feedstocks/ldraw
 	branch = refs/heads/master
+[submodule "r-smoof"]
+	url = https://github.com/conda-forge/r-smoof-feedstock.git
+	path = feedstocks/r-smoof
+	branch = refs/heads/master
