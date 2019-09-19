@@ -31522,3 +31522,7 @@
 	url = https://github.com/conda-forge/r-swagger-feedstock.git
 	path = feedstocks/r-swagger
 	branch = refs/heads/master
+[submodule "pyccl"]
+	url = https://github.com/conda-forge/pyccl-feedstock.git
+	path = feedstocks/pyccl
+	branch = refs/heads/master
