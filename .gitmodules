@@ -31510,3 +31510,7 @@
 	url = https://github.com/conda-forge/terragrunt-feedstock.git
 	path = feedstocks/terragrunt
 	branch = refs/heads/master
+[submodule "plyfile"]
+	url = https://github.com/conda-forge/plyfile-feedstock.git
+	path = feedstocks/plyfile
+	branch = refs/heads/master
