@@ -31506,3 +31506,7 @@
 	url = https://github.com/conda-forge/r-mlrmbo-feedstock.git
 	path = feedstocks/r-mlrmbo
 	branch = refs/heads/master
+[submodule "terragrunt"]
+	url = https://github.com/conda-forge/terragrunt-feedstock.git
+	path = feedstocks/terragrunt
+	branch = refs/heads/master
