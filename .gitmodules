@@ -31538,3 +31538,7 @@
 	url = https://github.com/conda-forge/attr-feedstock.git
 	path = feedstocks/attr
 	branch = refs/heads/master
+[submodule "etelemetry"]
+	url = https://github.com/conda-forge/etelemetry-feedstock.git
+	path = feedstocks/etelemetry
+	branch = refs/heads/master
