@@ -31526,3 +31526,7 @@
 	url = https://github.com/conda-forge/pyccl-feedstock.git
 	path = feedstocks/pyccl
 	branch = refs/heads/master
+[submodule "aiorun"]
+	url = https://github.com/conda-forge/aiorun-feedstock.git
+	path = feedstocks/aiorun
+	branch = refs/heads/master
