@@ -31550,3 +31550,7 @@
 	url = https://github.com/conda-forge/r-bazar-feedstock.git
 	path = feedstocks/r-bazar
 	branch = refs/heads/master
+[submodule "r-rmutil"]
+	url = https://github.com/conda-forge/r-rmutil-feedstock.git
+	path = feedstocks/r-rmutil
+	branch = refs/heads/master
