@@ -31542,3 +31542,7 @@
 	url = https://github.com/conda-forge/etelemetry-feedstock.git
 	path = feedstocks/etelemetry
 	branch = refs/heads/master
+[submodule "aioserial"]
+	url = https://github.com/conda-forge/aioserial-feedstock.git
+	path = feedstocks/aioserial
+	branch = refs/heads/master
