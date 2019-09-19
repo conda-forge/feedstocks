@@ -31534,3 +31534,7 @@
 	url = https://github.com/conda-forge/r-mlflow-feedstock.git
 	path = feedstocks/r-mlflow
 	branch = refs/heads/master
+[submodule "attr"]
+	url = https://github.com/conda-forge/attr-feedstock.git
+	path = feedstocks/attr
+	branch = refs/heads/master
