@@ -31554,3 +31554,7 @@
 	url = https://github.com/conda-forge/r-rmutil-feedstock.git
 	path = feedstocks/r-rmutil
 	branch = refs/heads/master
+[submodule "r-matlib"]
+	url = https://github.com/conda-forge/r-matlib-feedstock.git
+	path = feedstocks/r-matlib
+	branch = refs/heads/master
