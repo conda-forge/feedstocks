@@ -31562,3 +31562,7 @@
 	url = https://github.com/conda-forge/metomi-isodatetime-feedstock.git
 	path = feedstocks/metomi-isodatetime
 	branch = refs/heads/master
+[submodule "r-stable"]
+	url = https://github.com/conda-forge/r-stable-feedstock.git
+	path = feedstocks/r-stable
+	branch = refs/heads/master
