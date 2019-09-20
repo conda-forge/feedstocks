@@ -31570,3 +31570,7 @@
 	url = https://github.com/conda-forge/r-statip-feedstock.git
 	path = feedstocks/r-statip
 	branch = refs/heads/master
+[submodule "r-hexview"]
+	url = https://github.com/conda-forge/r-hexview-feedstock.git
+	path = feedstocks/r-hexview
+	branch = refs/heads/master
