@@ -31582,3 +31582,7 @@
 	url = https://github.com/conda-forge/r-leafsync-feedstock.git
 	path = feedstocks/r-leafsync
 	branch = refs/heads/master
+[submodule "jupyterlab-dash"]
+	url = https://github.com/conda-forge/jupyterlab-dash-feedstock.git
+	path = feedstocks/jupyterlab-dash
+	branch = refs/heads/master
