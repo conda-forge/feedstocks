@@ -31586,3 +31586,7 @@
 	url = https://github.com/conda-forge/jupyterlab-dash-feedstock.git
 	path = feedstocks/jupyterlab-dash
 	branch = refs/heads/master
+[submodule "allantools"]
+	url = https://github.com/conda-forge/allantools-feedstock.git
+	path = feedstocks/allantools
+	branch = refs/heads/master
