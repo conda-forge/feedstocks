@@ -31594,3 +31594,7 @@
 	url = https://github.com/conda-forge/python-barcode-feedstock.git
 	path = feedstocks/python-barcode
 	branch = refs/heads/master
+[submodule "hypothesis-jsonschema"]
+	url = https://github.com/conda-forge/hypothesis-jsonschema-feedstock.git
+	path = feedstocks/hypothesis-jsonschema
+	branch = refs/heads/master
