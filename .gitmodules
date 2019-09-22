@@ -31602,3 +31602,7 @@
 	url = https://github.com/conda-forge/r-fateid-feedstock.git
 	path = feedstocks/r-fateid
 	branch = refs/heads/master
+[submodule "compaction"]
+	url = https://github.com/conda-forge/compaction-feedstock.git
+	path = feedstocks/compaction
+	branch = refs/heads/master
