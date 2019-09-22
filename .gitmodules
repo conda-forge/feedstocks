@@ -31606,3 +31606,7 @@
 	url = https://github.com/conda-forge/compaction-feedstock.git
 	path = feedstocks/compaction
 	branch = refs/heads/master
+[submodule "get_version"]
+	url = https://github.com/conda-forge/get_version-feedstock.git
+	path = feedstocks/get_version
+	branch = refs/heads/master
