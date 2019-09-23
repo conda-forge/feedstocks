@@ -31630,3 +31630,7 @@
 	url = https://github.com/conda-forge/psrqpy-feedstock.git
 	path = feedstocks/psrqpy
 	branch = refs/heads/master
+[submodule "munge"]
+	url = https://github.com/conda-forge/munge-feedstock.git
+	path = feedstocks/munge
+	branch = refs/heads/master
