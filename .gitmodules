@@ -31638,3 +31638,7 @@
 	url = https://github.com/conda-forge/pydm-feedstock.git
 	path = feedstocks/pydm
 	branch = refs/heads/master
+[submodule "simpleitk"]
+	url = https://github.com/conda-forge/simpleitk-feedstock.git
+	path = feedstocks/simpleitk
+	branch = refs/heads/master
