@@ -31650,3 +31650,7 @@
 	url = https://github.com/conda-forge/sos-matlab-feedstock.git
 	path = feedstocks/sos-matlab
 	branch = refs/heads/master
+[submodule "wisdem"]
+	url = https://github.com/conda-forge/wisdem-feedstock.git
+	path = feedstocks/wisdem
+	branch = refs/heads/master
