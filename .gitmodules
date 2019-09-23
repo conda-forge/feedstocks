@@ -31658,3 +31658,7 @@
 	url = https://github.com/conda-forge/voila-vuetify-feedstock.git
 	path = feedstocks/voila-vuetify
 	branch = refs/heads/master
+[submodule "libcap"]
+	url = https://github.com/conda-forge/libcap-feedstock.git
+	path = feedstocks/libcap
+	branch = refs/heads/master
