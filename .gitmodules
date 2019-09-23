@@ -31614,3 +31614,7 @@
 	url = https://github.com/conda-forge/r-seqminer-feedstock.git
 	path = feedstocks/r-seqminer
 	branch = refs/heads/master
+[submodule "lintegrate"]
+	url = https://github.com/conda-forge/lintegrate-feedstock.git
+	path = feedstocks/lintegrate
+	branch = refs/heads/master
