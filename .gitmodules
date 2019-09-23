@@ -31654,3 +31654,7 @@
 	url = https://github.com/conda-forge/wisdem-feedstock.git
 	path = feedstocks/wisdem
 	branch = refs/heads/master
+[submodule "voila-vuetify"]
+	url = https://github.com/conda-forge/voila-vuetify-feedstock.git
+	path = feedstocks/voila-vuetify
+	branch = refs/heads/master
