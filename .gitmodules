@@ -31634,3 +31634,7 @@
 	url = https://github.com/conda-forge/munge-feedstock.git
 	path = feedstocks/munge
 	branch = refs/heads/master
+[submodule "pydm"]
+	url = https://github.com/conda-forge/pydm-feedstock.git
+	path = feedstocks/pydm
+	branch = refs/heads/master
