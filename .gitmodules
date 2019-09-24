@@ -31666,3 +31666,7 @@
 	url = https://github.com/conda-forge/corrfunc-feedstock.git
 	path = feedstocks/corrfunc
 	branch = refs/heads/master
+[submodule "r-fable"]
+	url = https://github.com/conda-forge/r-fable-feedstock.git
+	path = feedstocks/r-fable
+	branch = refs/heads/master
