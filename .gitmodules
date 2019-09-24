@@ -31670,3 +31670,7 @@
 	url = https://github.com/conda-forge/r-fable-feedstock.git
 	path = feedstocks/r-fable
 	branch = refs/heads/master
+[submodule "ldas-tools-utilities"]
+	url = https://github.com/conda-forge/ldas-tools-utilities-feedstock.git
+	path = feedstocks/ldas-tools-utilities
+	branch = refs/heads/master
