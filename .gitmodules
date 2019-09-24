@@ -31690,3 +31690,7 @@
 	url = https://github.com/conda-forge/mesas-feedstock.git
 	path = feedstocks/mesas
 	branch = refs/heads/master
+[submodule "pytide"]
+	url = https://github.com/conda-forge/pytide-feedstock.git
+	path = feedstocks/pytide
+	branch = refs/heads/master
