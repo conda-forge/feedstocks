@@ -31662,3 +31662,7 @@
 	url = https://github.com/conda-forge/libcap-feedstock.git
 	path = feedstocks/libcap
 	branch = refs/heads/master
+[submodule "corrfunc"]
+	url = https://github.com/conda-forge/corrfunc-feedstock.git
+	path = feedstocks/corrfunc
+	branch = refs/heads/master
