@@ -31710,3 +31710,7 @@
 	url = https://github.com/conda-forge/braceexpand-feedstock.git
 	path = feedstocks/braceexpand
 	branch = refs/heads/master
+[submodule "dm-sonnet"]
+	url = https://github.com/conda-forge/dm-sonnet-feedstock.git
+	path = feedstocks/dm-sonnet
+	branch = refs/heads/master
