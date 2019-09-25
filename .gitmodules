@@ -31702,3 +31702,7 @@
 	url = https://github.com/conda-forge/rb-cool.io-feedstock.git
 	path = feedstocks/rb-cool.io
 	branch = refs/heads/master
+[submodule "symstore"]
+	url = https://github.com/conda-forge/symstore-feedstock.git
+	path = feedstocks/symstore
+	branch = refs/heads/master
