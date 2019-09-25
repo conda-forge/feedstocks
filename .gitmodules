@@ -31714,3 +31714,7 @@
 	url = https://github.com/conda-forge/dm-sonnet-feedstock.git
 	path = feedstocks/dm-sonnet
 	branch = refs/heads/master
+[submodule "distance"]
+	url = https://github.com/conda-forge/distance-feedstock.git
+	path = feedstocks/distance
+	branch = refs/heads/master
