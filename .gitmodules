@@ -31718,3 +31718,7 @@
 	url = https://github.com/conda-forge/distance-feedstock.git
 	path = feedstocks/distance
 	branch = refs/heads/master
+[submodule "rb-nio4r"]
+	url = https://github.com/conda-forge/rb-nio4r-feedstock.git
+	path = feedstocks/rb-nio4r
+	branch = refs/heads/master
