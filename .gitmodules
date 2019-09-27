@@ -31734,3 +31734,7 @@
 	url = https://github.com/conda-forge/ctng-compiler-activation-feedstock.git
 	path = feedstocks/ctng-compiler-activation
 	branch = refs/heads/master
+[submodule "cockroachdb"]
+	url = https://github.com/conda-forge/cockroachdb-feedstock.git
+	path = feedstocks/cockroachdb
+	branch = refs/heads/master
