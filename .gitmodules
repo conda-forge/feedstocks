@@ -31742,3 +31742,7 @@
 	url = https://github.com/conda-forge/rb-fluentd-feedstock.git
 	path = feedstocks/rb-fluentd
 	branch = refs/heads/master
+[submodule "galgebra"]
+	url = https://github.com/conda-forge/galgebra-feedstock.git
+	path = feedstocks/galgebra
+	branch = refs/heads/master
