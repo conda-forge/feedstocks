@@ -31738,3 +31738,7 @@
 	url = https://github.com/conda-forge/cockroachdb-feedstock.git
 	path = feedstocks/cockroachdb
 	branch = refs/heads/master
+[submodule "rb-fluentd"]
+	url = https://github.com/conda-forge/rb-fluentd-feedstock.git
+	path = feedstocks/rb-fluentd
+	branch = refs/heads/master
