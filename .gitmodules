@@ -31758,3 +31758,7 @@
 	url = https://github.com/conda-forge/fluent-logger-feedstock.git
 	path = feedstocks/fluent-logger
 	branch = refs/heads/master
+[submodule "lasagne"]
+	url = https://github.com/conda-forge/lasagne-feedstock.git
+	path = feedstocks/lasagne
+	branch = refs/heads/master
