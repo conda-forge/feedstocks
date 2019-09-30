@@ -31806,3 +31806,7 @@
 	url = https://github.com/conda-forge/r-hierfstat-feedstock.git
 	path = feedstocks/r-hierfstat
 	branch = refs/heads/master
+[submodule "r-gpca"]
+	url = https://github.com/conda-forge/r-gpca-feedstock.git
+	path = feedstocks/r-gpca
+	branch = refs/heads/master
