@@ -31762,3 +31762,7 @@
 	url = https://github.com/conda-forge/lasagne-feedstock.git
 	path = feedstocks/lasagne
 	branch = refs/heads/master
+[submodule "trng"]
+	url = https://github.com/conda-forge/trng-feedstock.git
+	path = feedstocks/trng
+	branch = refs/heads/master
