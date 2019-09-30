@@ -31790,3 +31790,7 @@
 	url = https://github.com/conda-forge/r-clvalid-feedstock.git
 	path = feedstocks/r-clvalid
 	branch = refs/heads/master
+[submodule "cylc-flow"]
+	url = https://github.com/conda-forge/cylc-flow-feedstock.git
+	path = feedstocks/cylc-flow
+	branch = refs/heads/master
