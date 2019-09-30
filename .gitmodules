@@ -31826,3 +31826,7 @@
 	url = https://github.com/conda-forge/r-gap-feedstock.git
 	path = feedstocks/r-gap
 	branch = refs/heads/master
+[submodule "r-guilds"]
+	url = https://github.com/conda-forge/r-guilds-feedstock.git
+	path = feedstocks/r-guilds
+	branch = refs/heads/master
