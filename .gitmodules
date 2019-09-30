@@ -31786,3 +31786,7 @@
 	url = https://github.com/conda-forge/r-disco-feedstock.git
 	path = feedstocks/r-disco
 	branch = refs/heads/master
+[submodule "r-clvalid"]
+	url = https://github.com/conda-forge/r-clvalid-feedstock.git
+	path = feedstocks/r-clvalid
+	branch = refs/heads/master
