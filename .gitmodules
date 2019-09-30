@@ -31814,3 +31814,7 @@
 	url = https://github.com/conda-forge/r-ebimetagenomics-feedstock.git
 	path = feedstocks/r-ebimetagenomics
 	branch = refs/heads/master
+[submodule "r-ecodist"]
+	url = https://github.com/conda-forge/r-ecodist-feedstock.git
+	path = feedstocks/r-ecodist
+	branch = refs/heads/master
