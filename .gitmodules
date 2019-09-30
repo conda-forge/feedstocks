@@ -31766,3 +31766,7 @@
 	url = https://github.com/conda-forge/trng-feedstock.git
 	path = feedstocks/trng
 	branch = refs/heads/master
+[submodule "owlready2"]
+	url = https://github.com/conda-forge/owlready2-feedstock.git
+	path = feedstocks/owlready2
+	branch = refs/heads/master
