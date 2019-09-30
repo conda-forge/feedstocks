@@ -31890,3 +31890,7 @@
 	url = https://github.com/conda-forge/r-genemodel-feedstock.git
 	path = feedstocks/r-genemodel
 	branch = refs/heads/master
+[submodule "r-geiger"]
+	url = https://github.com/conda-forge/r-geiger-feedstock.git
+	path = feedstocks/r-geiger
+	branch = refs/heads/master
