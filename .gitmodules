@@ -31834,3 +31834,7 @@
 	url = https://github.com/conda-forge/r-fastqcr-feedstock.git
 	path = feedstocks/r-fastqcr
 	branch = refs/heads/master
+[submodule "r-fmsb"]
+	url = https://github.com/conda-forge/r-fmsb-feedstock.git
+	path = feedstocks/r-fmsb
+	branch = refs/heads/master
