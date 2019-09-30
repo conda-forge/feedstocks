@@ -31838,3 +31838,7 @@
 	url = https://github.com/conda-forge/r-fmsb-feedstock.git
 	path = feedstocks/r-fmsb
 	branch = refs/heads/master
+[submodule "pymdi"]
+	url = https://github.com/conda-forge/pymdi-feedstock.git
+	path = feedstocks/pymdi
+	branch = refs/heads/master
