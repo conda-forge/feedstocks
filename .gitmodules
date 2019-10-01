@@ -31962,3 +31962,7 @@
 	url = https://github.com/conda-forge/r-plsgenomics-feedstock.git
 	path = feedstocks/r-plsgenomics
 	branch = refs/heads/master
+[submodule "summa"]
+	url = https://github.com/conda-forge/summa-feedstock.git
+	path = feedstocks/summa
+	branch = refs/heads/master
