@@ -31906,3 +31906,7 @@
 	url = https://github.com/conda-forge/r-dapr-feedstock.git
 	path = feedstocks/r-dapr
 	branch = refs/heads/master
+[submodule "r-textfeatures"]
+	url = https://github.com/conda-forge/r-textfeatures-feedstock.git
+	path = feedstocks/r-textfeatures
+	branch = refs/heads/master
