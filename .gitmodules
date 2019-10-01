@@ -31926,3 +31926,7 @@
 	url = https://github.com/conda-forge/r-maldiquantforeign-feedstock.git
 	path = feedstocks/r-maldiquantforeign
 	branch = refs/heads/master
+[submodule "r-ldrtools"]
+	url = https://github.com/conda-forge/r-ldrtools-feedstock.git
+	path = feedstocks/r-ldrtools
+	branch = refs/heads/master
