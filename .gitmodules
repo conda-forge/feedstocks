@@ -31998,3 +31998,7 @@
 	url = https://github.com/conda-forge/pattern-feedstock.git
 	path = feedstocks/pattern
 	branch = refs/heads/master
+[submodule "sparse_dot_topn"]
+	url = https://github.com/conda-forge/sparse_dot_topn-feedstock.git
+	path = feedstocks/sparse_dot_topn
+	branch = refs/heads/master
