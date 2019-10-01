@@ -31950,3 +31950,7 @@
 	url = https://github.com/conda-forge/r-rebird-feedstock.git
 	path = feedstocks/r-rebird
 	branch = refs/heads/master
+[submodule "r-nodiv"]
+	url = https://github.com/conda-forge/r-nodiv-feedstock.git
+	path = feedstocks/r-nodiv
+	branch = refs/heads/master
