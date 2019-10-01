@@ -31978,3 +31978,7 @@
 	url = https://github.com/conda-forge/tclap-feedstock.git
 	path = feedstocks/tclap
 	branch = refs/heads/master
+[submodule "closure"]
+	url = https://github.com/conda-forge/closure-feedstock.git
+	path = feedstocks/closure
+	branch = refs/heads/master
