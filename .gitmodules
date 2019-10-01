@@ -31930,3 +31930,7 @@
 	url = https://github.com/conda-forge/r-ldrtools-feedstock.git
 	path = feedstocks/r-ldrtools
 	branch = refs/heads/master
+[submodule "r-mvr"]
+	url = https://github.com/conda-forge/r-mvr-feedstock.git
+	path = feedstocks/r-mvr
+	branch = refs/heads/master
