@@ -31966,3 +31966,7 @@
 	url = https://github.com/conda-forge/summa-feedstock.git
 	path = feedstocks/summa
 	branch = refs/heads/master
+[submodule "cymysql"]
+	url = https://github.com/conda-forge/cymysql-feedstock.git
+	path = feedstocks/cymysql
+	branch = refs/heads/master
