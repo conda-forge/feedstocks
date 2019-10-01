@@ -31910,3 +31910,7 @@
 	url = https://github.com/conda-forge/r-textfeatures-feedstock.git
 	path = feedstocks/r-textfeatures
 	branch = refs/heads/master
+[submodule "r-mmod"]
+	url = https://github.com/conda-forge/r-mmod-feedstock.git
+	path = feedstocks/r-mmod
+	branch = refs/heads/master
