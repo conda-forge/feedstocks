@@ -31986,3 +31986,7 @@
 	url = https://github.com/conda-forge/vdm-feedstock.git
 	path = feedstocks/vdm
 	branch = refs/heads/master
+[submodule "weberror"]
+	url = https://github.com/conda-forge/weberror-feedstock.git
+	path = feedstocks/weberror
+	branch = refs/heads/master
