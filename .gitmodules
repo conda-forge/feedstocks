@@ -31974,3 +31974,7 @@
 	url = https://github.com/conda-forge/javafx-sdk-feedstock.git
 	path = feedstocks/javafx-sdk
 	branch = refs/heads/master
+[submodule "tclap"]
+	url = https://github.com/conda-forge/tclap-feedstock.git
+	path = feedstocks/tclap
+	branch = refs/heads/master
