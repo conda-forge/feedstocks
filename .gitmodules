@@ -31946,3 +31946,7 @@
 	url = https://github.com/conda-forge/r-momr-feedstock.git
 	path = feedstocks/r-momr
 	branch = refs/heads/master
+[submodule "r-rebird"]
+	url = https://github.com/conda-forge/r-rebird-feedstock.git
+	path = feedstocks/r-rebird
+	branch = refs/heads/master
