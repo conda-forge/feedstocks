@@ -32010,3 +32010,7 @@
 	url = https://github.com/conda-forge/ros-conda-base-feedstock.git
 	path = feedstocks/ros-conda-base
 	branch = refs/heads/master
+[submodule "r-languageserver"]
+	url = https://github.com/conda-forge/r-languageserver-feedstock.git
+	path = feedstocks/r-languageserver
+	branch = refs/heads/master
