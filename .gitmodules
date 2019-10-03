@@ -32026,3 +32026,7 @@
 	url = https://github.com/conda-forge/spacy-lookups-data-feedstock.git
 	path = feedstocks/spacy-lookups-data
 	branch = refs/heads/master
+[submodule "fanstatic"]
+	url = https://github.com/conda-forge/fanstatic-feedstock.git
+	path = feedstocks/fanstatic
+	branch = refs/heads/master
