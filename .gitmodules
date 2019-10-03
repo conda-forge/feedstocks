@@ -32018,3 +32018,7 @@
 	url = https://github.com/conda-forge/ligotools-feedstock.git
 	path = feedstocks/ligotools
 	branch = refs/heads/master
+[submodule "intel-gmmlib"]
+	url = https://github.com/conda-forge/intel-gmmlib-feedstock.git
+	path = feedstocks/intel-gmmlib
+	branch = refs/heads/master
