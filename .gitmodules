@@ -32058,3 +32058,7 @@
 	url = https://github.com/conda-forge/ros-catkin-feedstock.git
 	path = feedstocks/ros-catkin
 	branch = refs/heads/master
+[submodule "r-dicedesign"]
+	url = https://github.com/conda-forge/r-dicedesign-feedstock.git
+	path = feedstocks/r-dicedesign
+	branch = refs/heads/master
