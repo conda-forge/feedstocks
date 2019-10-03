@@ -32050,3 +32050,7 @@
 	url = https://github.com/conda-forge/ros-conda-mutex-feedstock.git
 	path = feedstocks/ros-conda-mutex
 	branch = refs/heads/master
+[submodule "r-xptr"]
+	url = https://github.com/conda-forge/r-xptr-feedstock.git
+	path = feedstocks/r-xptr
+	branch = refs/heads/master
