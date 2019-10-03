@@ -32022,3 +32022,7 @@
 	url = https://github.com/conda-forge/intel-gmmlib-feedstock.git
 	path = feedstocks/intel-gmmlib
 	branch = refs/heads/master
+[submodule "spacy-lookups-data"]
+	url = https://github.com/conda-forge/spacy-lookups-data-feedstock.git
+	path = feedstocks/spacy-lookups-data
+	branch = refs/heads/master
