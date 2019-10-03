@@ -32030,3 +32030,7 @@
 	url = https://github.com/conda-forge/fanstatic-feedstock.git
 	path = feedstocks/fanstatic
 	branch = refs/heads/master
+[submodule "blackboxauditing"]
+	url = https://github.com/conda-forge/blackboxauditing-feedstock.git
+	path = feedstocks/blackboxauditing
+	branch = refs/heads/master
