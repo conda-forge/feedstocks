@@ -32014,3 +32014,7 @@
 	url = https://github.com/conda-forge/r-languageserver-feedstock.git
 	path = feedstocks/r-languageserver
 	branch = refs/heads/master
+[submodule "ligotools"]
+	url = https://github.com/conda-forge/ligotools-feedstock.git
+	path = feedstocks/ligotools
+	branch = refs/heads/master
