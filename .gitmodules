@@ -32002,3 +32002,7 @@
 	url = https://github.com/conda-forge/sparse_dot_topn-feedstock.git
 	path = feedstocks/sparse_dot_topn
 	branch = refs/heads/master
+[submodule "llvm-spirv"]
+	url = https://github.com/conda-forge/llvm-spirv-feedstock.git
+	path = feedstocks/llvm-spirv
+	branch = refs/heads/master
