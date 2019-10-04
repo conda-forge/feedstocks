@@ -32110,3 +32110,7 @@
 	url = https://github.com/conda-forge/noteslib-feedstock.git
 	path = feedstocks/noteslib
 	branch = refs/heads/master
+[submodule "pytest-localstack"]
+	url = https://github.com/conda-forge/pytest-localstack-feedstock.git
+	path = feedstocks/pytest-localstack
+	branch = refs/heads/master
