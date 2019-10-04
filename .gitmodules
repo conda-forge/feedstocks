@@ -32102,3 +32102,7 @@
 	url = https://github.com/conda-forge/flask-smorest-feedstock.git
 	path = feedstocks/flask-smorest
 	branch = refs/heads/master
+[submodule "file"]
+	url = https://github.com/conda-forge/file-feedstock.git
+	path = feedstocks/file
+	branch = refs/heads/master
