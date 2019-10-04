@@ -32094,3 +32094,7 @@
 	url = https://github.com/conda-forge/intel-compute-runtime-feedstock.git
 	path = feedstocks/intel-compute-runtime
 	branch = refs/heads/master
+[submodule "intel-graphics-compiler"]
+	url = https://github.com/conda-forge/intel-graphics-compiler-feedstock.git
+	path = feedstocks/intel-graphics-compiler
+	branch = refs/heads/master
