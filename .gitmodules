@@ -32082,3 +32082,7 @@
 	url = https://github.com/conda-forge/pyisemail-feedstock.git
 	path = feedstocks/pyisemail
 	branch = refs/heads/master
+[submodule "autograd-gamma"]
+	url = https://github.com/conda-forge/autograd-gamma-feedstock.git
+	path = feedstocks/autograd-gamma
+	branch = refs/heads/master
