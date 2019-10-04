@@ -32098,3 +32098,7 @@
 	url = https://github.com/conda-forge/intel-graphics-compiler-feedstock.git
 	path = feedstocks/intel-graphics-compiler
 	branch = refs/heads/master
+[submodule "flask-smorest"]
+	url = https://github.com/conda-forge/flask-smorest-feedstock.git
+	path = feedstocks/flask-smorest
+	branch = refs/heads/master
