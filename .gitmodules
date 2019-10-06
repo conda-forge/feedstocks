@@ -32130,3 +32130,7 @@
 	url = https://github.com/conda-forge/in_place-feedstock.git
 	path = feedstocks/in_place
 	branch = refs/heads/master
+[submodule "tesserocr"]
+	url = https://github.com/conda-forge/tesserocr-feedstock.git
+	path = feedstocks/tesserocr
+	branch = refs/heads/master
