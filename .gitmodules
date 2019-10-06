@@ -32142,3 +32142,7 @@
 	url = https://github.com/conda-forge/multisplitby-feedstock.git
 	path = feedstocks/multisplitby
 	branch = refs/heads/master
+[submodule "openmm"]
+	url = https://github.com/conda-forge/openmm-feedstock.git
+	path = feedstocks/openmm
+	branch = refs/heads/master
