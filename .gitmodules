@@ -32114,3 +32114,7 @@
 	url = https://github.com/conda-forge/pytest-localstack-feedstock.git
 	path = feedstocks/pytest-localstack
 	branch = refs/heads/master
+[submodule "pyremap"]
+	url = https://github.com/conda-forge/pyremap-feedstock.git
+	path = feedstocks/pyremap
+	branch = refs/heads/master
