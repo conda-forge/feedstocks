@@ -32134,3 +32134,7 @@
 	url = https://github.com/conda-forge/tesserocr-feedstock.git
 	path = feedstocks/tesserocr
 	branch = refs/heads/master
+[submodule "pylons"]
+	url = https://github.com/conda-forge/pylons-feedstock.git
+	path = feedstocks/pylons
+	branch = refs/heads/master
