@@ -32122,3 +32122,7 @@
 	url = https://github.com/conda-forge/crosstool-ng-feedstock.git
 	path = feedstocks/crosstool-ng
 	branch = refs/heads/master
+[submodule "repoze.who-friendlyform"]
+	url = https://github.com/conda-forge/repoze.who-friendlyform-feedstock.git
+	path = feedstocks/repoze.who-friendlyform
+	branch = refs/heads/master
