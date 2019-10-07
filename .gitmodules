@@ -32158,3 +32158,7 @@
 	url = https://github.com/conda-forge/iterativewgcna-feedstock.git
 	path = feedstocks/iterativewgcna
 	branch = refs/heads/master
+[submodule "gwtools"]
+	url = https://github.com/conda-forge/gwtools-feedstock.git
+	path = feedstocks/gwtools
+	branch = refs/heads/master
