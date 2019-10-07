@@ -32146,3 +32146,7 @@
 	url = https://github.com/conda-forge/openmm-feedstock.git
 	path = feedstocks/openmm
 	branch = refs/heads/master
+[submodule "atomicrex"]
+	url = https://github.com/conda-forge/atomicrex-feedstock.git
+	path = feedstocks/atomicrex
+	branch = refs/heads/master
