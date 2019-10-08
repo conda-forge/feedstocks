@@ -32162,3 +32162,7 @@
 	url = https://github.com/conda-forge/gwtools-feedstock.git
 	path = feedstocks/gwtools
 	branch = refs/heads/master
+[submodule "prometheus"]
+	url = https://github.com/conda-forge/prometheus-feedstock.git
+	path = feedstocks/prometheus
+	branch = refs/heads/master
