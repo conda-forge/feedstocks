@@ -32202,3 +32202,7 @@
 	url = https://github.com/conda-forge/gsshapyorm-feedstock.git
 	path = feedstocks/gsshapyorm
 	branch = refs/heads/master
+[submodule "intake-stac"]
+	url = https://github.com/conda-forge/intake-stac-feedstock.git
+	path = feedstocks/intake-stac
+	branch = refs/heads/master
