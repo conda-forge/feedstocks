@@ -32182,3 +32182,7 @@
 	url = https://github.com/conda-forge/graphql-ws-feedstock.git
 	path = feedstocks/graphql-ws
 	branch = refs/heads/master
+[submodule "assembly_stats"]
+	url = https://github.com/conda-forge/assembly_stats-feedstock.git
+	path = feedstocks/assembly_stats
+	branch = refs/heads/master
