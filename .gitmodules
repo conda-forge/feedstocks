@@ -32206,3 +32206,7 @@
 	url = https://github.com/conda-forge/intake-stac-feedstock.git
 	path = feedstocks/intake-stac
 	branch = refs/heads/master
+[submodule "pyuoi"]
+	url = https://github.com/conda-forge/pyuoi-feedstock.git
+	path = feedstocks/pyuoi
+	branch = refs/heads/master
