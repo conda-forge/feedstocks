@@ -32194,3 +32194,7 @@
 	url = https://github.com/conda-forge/u-msgpack-python-feedstock.git
 	path = feedstocks/u-msgpack-python
 	branch = refs/heads/master
+[submodule "maestral"]
+	url = https://github.com/conda-forge/maestral-feedstock.git
+	path = feedstocks/maestral
+	branch = refs/heads/master
