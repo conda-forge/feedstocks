@@ -32178,3 +32178,7 @@
 	url = https://github.com/conda-forge/graphene-tornado-feedstock.git
 	path = feedstocks/graphene-tornado
 	branch = refs/heads/master
+[submodule "graphql-ws"]
+	url = https://github.com/conda-forge/graphql-ws-feedstock.git
+	path = feedstocks/graphql-ws
+	branch = refs/heads/master
