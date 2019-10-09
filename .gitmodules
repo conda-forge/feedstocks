@@ -32214,3 +32214,7 @@
 	url = https://github.com/conda-forge/autorift-feedstock.git
 	path = feedstocks/autorift
 	branch = refs/heads/master
+[submodule "pyaerocom"]
+	url = https://github.com/conda-forge/pyaerocom-feedstock.git
+	path = feedstocks/pyaerocom
+	branch = refs/heads/master
