@@ -32234,3 +32234,7 @@
 	url = https://github.com/conda-forge/wstool-feedstock.git
 	path = feedstocks/wstool
 	branch = refs/heads/master
+[submodule "vcstools"]
+	url = https://github.com/conda-forge/vcstools-feedstock.git
+	path = feedstocks/vcstools
+	branch = refs/heads/master
