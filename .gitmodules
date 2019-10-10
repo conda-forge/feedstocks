@@ -32226,3 +32226,7 @@
 	url = https://github.com/conda-forge/conda-prefix-replacement-feedstock.git
 	path = feedstocks/conda-prefix-replacement
 	branch = refs/heads/master
+[submodule "rosinstall_generator"]
+	url = https://github.com/conda-forge/rosinstall_generator-feedstock.git
+	path = feedstocks/rosinstall_generator
+	branch = refs/heads/master
