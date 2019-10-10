@@ -32246,3 +32246,7 @@
 	url = https://github.com/conda-forge/mord-feedstock.git
 	path = feedstocks/mord
 	branch = refs/heads/master
+[submodule "ifcfg"]
+	url = https://github.com/conda-forge/ifcfg-feedstock.git
+	path = feedstocks/ifcfg
+	branch = refs/heads/master
