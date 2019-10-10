@@ -32250,3 +32250,7 @@
 	url = https://github.com/conda-forge/ifcfg-feedstock.git
 	path = feedstocks/ifcfg
 	branch = refs/heads/master
+[submodule "ocl-icd-system"]
+	url = https://github.com/conda-forge/ocl-icd-system-feedstock.git
+	path = feedstocks/ocl-icd-system
+	branch = refs/heads/master
