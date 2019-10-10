@@ -32242,3 +32242,7 @@
 	url = https://github.com/conda-forge/rosinstall-feedstock.git
 	path = feedstocks/rosinstall
 	branch = refs/heads/master
+[submodule "mord"]
+	url = https://github.com/conda-forge/mord-feedstock.git
+	path = feedstocks/mord
+	branch = refs/heads/master
