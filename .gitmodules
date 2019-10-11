@@ -32278,3 +32278,7 @@
 	url = https://github.com/conda-forge/astrowidgets-feedstock.git
 	path = feedstocks/astrowidgets
 	branch = refs/heads/master
+[submodule "pyflow"]
+	url = https://github.com/conda-forge/pyflow-feedstock.git
+	path = feedstocks/pyflow
+	branch = refs/heads/master
