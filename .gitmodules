@@ -32274,3 +32274,7 @@
 	url = https://github.com/conda-forge/js-regex-feedstock.git
 	path = feedstocks/js-regex
 	branch = refs/heads/master
+[submodule "astrowidgets"]
+	url = https://github.com/conda-forge/astrowidgets-feedstock.git
+	path = feedstocks/astrowidgets
+	branch = refs/heads/master
