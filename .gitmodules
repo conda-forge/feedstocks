@@ -32262,3 +32262,7 @@
 	url = https://github.com/conda-forge/lxqt-build-tools-feedstock.git
 	path = feedstocks/lxqt-build-tools
 	branch = refs/heads/master
+[submodule "pdf2image"]
+	url = https://github.com/conda-forge/pdf2image-feedstock.git
+	path = feedstocks/pdf2image
+	branch = refs/heads/master
