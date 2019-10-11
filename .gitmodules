@@ -32258,3 +32258,7 @@
 	url = https://github.com/conda-forge/r-fastmap-feedstock.git
 	path = feedstocks/r-fastmap
 	branch = refs/heads/master
+[submodule "lxqt-build-tools"]
+	url = https://github.com/conda-forge/lxqt-build-tools-feedstock.git
+	path = feedstocks/lxqt-build-tools
+	branch = refs/heads/master
