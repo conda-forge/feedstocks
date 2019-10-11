@@ -32266,3 +32266,7 @@
 	url = https://github.com/conda-forge/pdf2image-feedstock.git
 	path = feedstocks/pdf2image
 	branch = refs/heads/master
+[submodule "cxxfilt"]
+	url = https://github.com/conda-forge/cxxfilt-feedstock.git
+	path = feedstocks/cxxfilt
+	branch = refs/heads/master
