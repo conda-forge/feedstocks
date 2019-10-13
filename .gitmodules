@@ -32334,3 +32334,7 @@
 	url = https://github.com/conda-forge/colcon-python-setup-py-feedstock.git
 	path = feedstocks/colcon-python-setup-py
 	branch = refs/heads/master
+[submodule "colcon-defaults"]
+	url = https://github.com/conda-forge/colcon-defaults-feedstock.git
+	path = feedstocks/colcon-defaults
+	branch = refs/heads/master
