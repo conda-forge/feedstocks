@@ -32370,3 +32370,7 @@
 	url = https://github.com/conda-forge/colcon-notification-feedstock.git
 	path = feedstocks/colcon-notification
 	branch = refs/heads/master
+[submodule "colcon-output"]
+	url = https://github.com/conda-forge/colcon-output-feedstock.git
+	path = feedstocks/colcon-output
+	branch = refs/heads/master
