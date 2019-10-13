@@ -32310,3 +32310,7 @@
 	url = https://github.com/conda-forge/sacremoses-feedstock.git
 	path = feedstocks/sacremoses
 	branch = refs/heads/master
+[submodule "ctng-compilers"]
+	url = https://github.com/conda-forge/ctng-compilers-feedstock.git
+	path = feedstocks/ctng-compilers
+	branch = refs/heads/master
