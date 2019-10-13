@@ -32290,3 +32290,7 @@
 	url = https://github.com/conda-forge/zfit-feedstock.git
 	path = feedstocks/zfit
 	branch = refs/heads/master
+[submodule "zfit-physics"]
+	url = https://github.com/conda-forge/zfit-physics-feedstock.git
+	path = feedstocks/zfit-physics
+	branch = refs/heads/master
