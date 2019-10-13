@@ -32374,3 +32374,7 @@
 	url = https://github.com/conda-forge/colcon-output-feedstock.git
 	path = feedstocks/colcon-output
 	branch = refs/heads/master
+[submodule "colcon-parallel-executor"]
+	url = https://github.com/conda-forge/colcon-parallel-executor-feedstock.git
+	path = feedstocks/colcon-parallel-executor
+	branch = refs/heads/master
