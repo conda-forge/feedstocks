@@ -32386,3 +32386,7 @@
 	url = https://github.com/conda-forge/colcon-cmake-feedstock.git
 	path = feedstocks/colcon-cmake
 	branch = refs/heads/master
+[submodule "colcon-metadata"]
+	url = https://github.com/conda-forge/colcon-metadata-feedstock.git
+	path = feedstocks/colcon-metadata
+	branch = refs/heads/master
