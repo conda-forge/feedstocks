@@ -32346,3 +32346,7 @@
 	url = https://github.com/conda-forge/colcon-library-path-feedstock.git
 	path = feedstocks/colcon-library-path
 	branch = refs/heads/master
+[submodule "colcon-core"]
+	url = https://github.com/conda-forge/colcon-core-feedstock.git
+	path = feedstocks/colcon-core
+	branch = refs/heads/master
