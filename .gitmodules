@@ -32354,3 +32354,7 @@
 	url = https://github.com/conda-forge/colcon-test-result-feedstock.git
 	path = feedstocks/colcon-test-result
 	branch = refs/heads/master
+[submodule "dlfcn-win32"]
+	url = https://github.com/conda-forge/dlfcn-win32-feedstock.git
+	path = feedstocks/dlfcn-win32
+	branch = refs/heads/master
