@@ -32390,3 +32390,7 @@
 	url = https://github.com/conda-forge/colcon-metadata-feedstock.git
 	path = feedstocks/colcon-metadata
 	branch = refs/heads/master
+[submodule "pycares"]
+	url = https://github.com/conda-forge/pycares-feedstock.git
+	path = feedstocks/pycares
+	branch = refs/heads/master
