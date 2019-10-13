@@ -32294,3 +32294,7 @@
 	url = https://github.com/conda-forge/zfit-physics-feedstock.git
 	path = feedstocks/zfit-physics
 	branch = refs/heads/master
+[submodule "phasespace"]
+	url = https://github.com/conda-forge/phasespace-feedstock.git
+	path = feedstocks/phasespace
+	branch = refs/heads/master
