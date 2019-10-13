@@ -32330,3 +32330,7 @@
 	url = https://github.com/conda-forge/colcon-package-information-feedstock.git
 	path = feedstocks/colcon-package-information
 	branch = refs/heads/master
+[submodule "colcon-python-setup-py"]
+	url = https://github.com/conda-forge/colcon-python-setup-py-feedstock.git
+	path = feedstocks/colcon-python-setup-py
+	branch = refs/heads/master
