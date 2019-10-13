@@ -32362,3 +32362,7 @@
 	url = https://github.com/conda-forge/colcon-recursive-crawl-feedstock.git
 	path = feedstocks/colcon-recursive-crawl
 	branch = refs/heads/master
+[submodule "colcon-devtools"]
+	url = https://github.com/conda-forge/colcon-devtools-feedstock.git
+	path = feedstocks/colcon-devtools
+	branch = refs/heads/master
