@@ -32378,3 +32378,7 @@
 	url = https://github.com/conda-forge/colcon-parallel-executor-feedstock.git
 	path = feedstocks/colcon-parallel-executor
 	branch = refs/heads/master
+[submodule "colcon-ros"]
+	url = https://github.com/conda-forge/colcon-ros-feedstock.git
+	path = feedstocks/colcon-ros
+	branch = refs/heads/master
