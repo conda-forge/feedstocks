@@ -32410,3 +32410,7 @@
 	url = https://github.com/conda-forge/laxpy-feedstock.git
 	path = feedstocks/laxpy
 	branch = refs/heads/master
+[submodule "finmind"]
+	url = https://github.com/conda-forge/finmind-feedstock.git
+	path = feedstocks/finmind
+	branch = refs/heads/master
