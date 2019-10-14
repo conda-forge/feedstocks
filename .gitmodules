@@ -32442,3 +32442,7 @@
 	url = https://github.com/conda-forge/voila-material-feedstock.git
 	path = feedstocks/voila-material
 	branch = refs/heads/master
+[submodule "gnuastro"]
+	url = https://github.com/conda-forge/gnuastro-feedstock.git
+	path = feedstocks/gnuastro
+	branch = refs/heads/master
