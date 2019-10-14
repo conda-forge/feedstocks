@@ -32394,3 +32394,7 @@
 	url = https://github.com/conda-forge/pycares-feedstock.git
 	path = feedstocks/pycares
 	branch = refs/heads/master
+[submodule "aiodns"]
+	url = https://github.com/conda-forge/aiodns-feedstock.git
+	path = feedstocks/aiodns
+	branch = refs/heads/master
