@@ -32422,3 +32422,7 @@
 	url = https://github.com/conda-forge/mdf_forge-feedstock.git
 	path = feedstocks/mdf_forge
 	branch = refs/heads/master
+[submodule "mdf_toolbox"]
+	url = https://github.com/conda-forge/mdf_toolbox-feedstock.git
+	path = feedstocks/mdf_toolbox
+	branch = refs/heads/master
