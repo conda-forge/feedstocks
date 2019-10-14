@@ -32406,3 +32406,7 @@
 	url = https://github.com/conda-forge/pyfor-feedstock.git
 	path = feedstocks/pyfor
 	branch = refs/heads/master
+[submodule "laxpy"]
+	url = https://github.com/conda-forge/laxpy-feedstock.git
+	path = feedstocks/laxpy
+	branch = refs/heads/master
