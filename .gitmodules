@@ -32434,3 +32434,7 @@
 	url = https://github.com/conda-forge/aflow-feedstock.git
 	path = feedstocks/aflow
 	branch = refs/heads/master
+[submodule "globus-nexus-client"]
+	url = https://github.com/conda-forge/globus-nexus-client-feedstock.git
+	path = feedstocks/globus-nexus-client
+	branch = refs/heads/master
