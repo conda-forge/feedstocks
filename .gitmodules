@@ -32438,3 +32438,7 @@
 	url = https://github.com/conda-forge/globus-nexus-client-feedstock.git
 	path = feedstocks/globus-nexus-client
 	branch = refs/heads/master
+[submodule "voila-material"]
+	url = https://github.com/conda-forge/voila-material-feedstock.git
+	path = feedstocks/voila-material
+	branch = refs/heads/master
