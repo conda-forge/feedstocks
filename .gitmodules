@@ -32402,3 +32402,7 @@
 	url = https://github.com/conda-forge/scikit-time-feedstock.git
 	path = feedstocks/scikit-time
 	branch = refs/heads/master
+[submodule "pyfor"]
+	url = https://github.com/conda-forge/pyfor-feedstock.git
+	path = feedstocks/pyfor
+	branch = refs/heads/master
