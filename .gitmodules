@@ -32430,3 +32430,7 @@
 	url = https://github.com/conda-forge/matminer-feedstock.git
 	path = feedstocks/matminer
 	branch = refs/heads/master
+[submodule "aflow"]
+	url = https://github.com/conda-forge/aflow-feedstock.git
+	path = feedstocks/aflow
+	branch = refs/heads/master
