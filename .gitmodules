@@ -32454,3 +32454,7 @@
 	url = https://github.com/conda-forge/asio-feedstock.git
 	path = feedstocks/asio
 	branch = refs/heads/master
+[submodule "scif"]
+	url = https://github.com/conda-forge/scif-feedstock.git
+	path = feedstocks/scif
+	branch = refs/heads/master
