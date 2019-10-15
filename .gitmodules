@@ -32450,3 +32450,7 @@
 	url = https://github.com/conda-forge/azure-devops-feedstock.git
 	path = feedstocks/azure-devops
 	branch = refs/heads/master
+[submodule "asio"]
+	url = https://github.com/conda-forge/asio-feedstock.git
+	path = feedstocks/asio
+	branch = refs/heads/master
