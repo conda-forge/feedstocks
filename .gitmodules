@@ -32494,3 +32494,7 @@
 	url = https://github.com/conda-forge/ros-cmake-modules-feedstock.git
 	path = feedstocks/ros-cmake-modules
 	branch = refs/heads/master
+[submodule "scorec"]
+	url = https://github.com/conda-forge/scorec-feedstock.git
+	path = feedstocks/scorec
+	branch = refs/heads/master
