@@ -32482,3 +32482,7 @@
 	url = https://github.com/conda-forge/ros-environment-feedstock.git
 	path = feedstocks/ros-environment
 	branch = refs/heads/master
+[submodule "ros-rostime"]
+	url = https://github.com/conda-forge/ros-rostime-feedstock.git
+	path = feedstocks/ros-rostime
+	branch = refs/heads/master
