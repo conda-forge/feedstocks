@@ -32486,3 +32486,7 @@
 	url = https://github.com/conda-forge/ros-rostime-feedstock.git
 	path = feedstocks/ros-rostime
 	branch = refs/heads/master
+[submodule "ros-genmsg"]
+	url = https://github.com/conda-forge/ros-genmsg-feedstock.git
+	path = feedstocks/ros-genmsg
+	branch = refs/heads/master
