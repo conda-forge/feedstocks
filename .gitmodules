@@ -32498,3 +32498,7 @@
 	url = https://github.com/conda-forge/scorec-feedstock.git
 	path = feedstocks/scorec
 	branch = refs/heads/master
+[submodule "kubernetes_asyncio"]
+	url = https://github.com/conda-forge/kubernetes_asyncio-feedstock.git
+	path = feedstocks/kubernetes_asyncio
+	branch = refs/heads/master
