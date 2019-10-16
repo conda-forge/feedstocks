@@ -32478,3 +32478,7 @@
 	url = https://github.com/conda-forge/ros-cpp-common-feedstock.git
 	path = feedstocks/ros-cpp-common
 	branch = refs/heads/master
+[submodule "ros-environment"]
+	url = https://github.com/conda-forge/ros-environment-feedstock.git
+	path = feedstocks/ros-environment
+	branch = refs/heads/master
