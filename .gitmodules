@@ -32490,3 +32490,7 @@
 	url = https://github.com/conda-forge/ros-genmsg-feedstock.git
 	path = feedstocks/ros-genmsg
 	branch = refs/heads/master
+[submodule "ros-cmake-modules"]
+	url = https://github.com/conda-forge/ros-cmake-modules-feedstock.git
+	path = feedstocks/ros-cmake-modules
+	branch = refs/heads/master
