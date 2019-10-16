@@ -32470,3 +32470,7 @@
 	url = https://github.com/conda-forge/vcstool-feedstock.git
 	path = feedstocks/vcstool
 	branch = refs/heads/master
+[submodule "uglify-js"]
+	url = https://github.com/conda-forge/uglify-js-feedstock.git
+	path = feedstocks/uglify-js
+	branch = refs/heads/master
