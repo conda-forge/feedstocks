@@ -32530,3 +32530,7 @@
 	url = https://github.com/conda-forge/ros-genpy-feedstock.git
 	path = feedstocks/ros-genpy
 	branch = refs/heads/master
+[submodule "ros-gennodejs"]
+	url = https://github.com/conda-forge/ros-gennodejs-feedstock.git
+	path = feedstocks/ros-gennodejs
+	branch = refs/heads/master
