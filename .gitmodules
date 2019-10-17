@@ -32586,3 +32586,7 @@
 	url = https://github.com/conda-forge/ros-message-runtime-feedstock.git
 	path = feedstocks/ros-message-runtime
 	branch = refs/heads/master
+[submodule "ros-roscreate"]
+	url = https://github.com/conda-forge/ros-roscreate-feedstock.git
+	path = feedstocks/ros-roscreate
+	branch = refs/heads/master
