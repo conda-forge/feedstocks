@@ -32574,3 +32574,7 @@
 	url = https://github.com/conda-forge/ros-roscpp-serialization-feedstock.git
 	path = feedstocks/ros-roscpp-serialization
 	branch = refs/heads/master
+[submodule "ros-roscpp-core"]
+	url = https://github.com/conda-forge/ros-roscpp-core-feedstock.git
+	path = feedstocks/ros-roscpp-core
+	branch = refs/heads/master
