@@ -32606,3 +32606,7 @@
 	url = https://github.com/conda-forge/ros-rosparam-feedstock.git
 	path = feedstocks/ros-rosparam
 	branch = refs/heads/master
+[submodule "ros-std-msgs"]
+	url = https://github.com/conda-forge/ros-std-msgs-feedstock.git
+	path = feedstocks/ros-std-msgs
+	branch = refs/heads/master
