@@ -32518,3 +32518,7 @@
 	url = https://github.com/conda-forge/ros-roscpp-traits-feedstock.git
 	path = feedstocks/ros-roscpp-traits
 	branch = refs/heads/master
+[submodule "ros-genlisp"]
+	url = https://github.com/conda-forge/ros-genlisp-feedstock.git
+	path = feedstocks/ros-genlisp
+	branch = refs/heads/master
