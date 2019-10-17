@@ -32602,3 +32602,7 @@
 	url = https://github.com/conda-forge/ros-rosunit-feedstock.git
 	path = feedstocks/ros-rosunit
 	branch = refs/heads/master
+[submodule "ros-rosparam"]
+	url = https://github.com/conda-forge/ros-rosparam-feedstock.git
+	path = feedstocks/ros-rosparam
+	branch = refs/heads/master
