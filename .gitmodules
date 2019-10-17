@@ -32590,3 +32590,7 @@
 	url = https://github.com/conda-forge/ros-roscreate-feedstock.git
 	path = feedstocks/ros-roscreate
 	branch = refs/heads/master
+[submodule "ros-rosbash"]
+	url = https://github.com/conda-forge/ros-rosbash-feedstock.git
+	path = feedstocks/ros-rosbash
+	branch = refs/heads/master
