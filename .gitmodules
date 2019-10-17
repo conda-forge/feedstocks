@@ -32538,3 +32538,7 @@
 	url = https://github.com/conda-forge/ros-geneus-feedstock.git
 	path = feedstocks/ros-geneus
 	branch = refs/heads/master
+[submodule "ros-message-generation"]
+	url = https://github.com/conda-forge/ros-message-generation-feedstock.git
+	path = feedstocks/ros-message-generation
+	branch = refs/heads/master
