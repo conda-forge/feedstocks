@@ -32622,3 +32622,7 @@
 	url = https://github.com/conda-forge/ros-roslz4-feedstock.git
 	path = feedstocks/ros-roslz4
 	branch = refs/heads/master
+[submodule "ros-diagnostic-msgs"]
+	url = https://github.com/conda-forge/ros-diagnostic-msgs-feedstock.git
+	path = feedstocks/ros-diagnostic-msgs
+	branch = refs/heads/master
