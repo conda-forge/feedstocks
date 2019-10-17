@@ -32610,3 +32610,7 @@
 	url = https://github.com/conda-forge/ros-std-msgs-feedstock.git
 	path = feedstocks/ros-std-msgs
 	branch = refs/heads/master
+[submodule "superflore"]
+	url = https://github.com/conda-forge/superflore-feedstock.git
+	path = feedstocks/superflore
+	branch = refs/heads/master
