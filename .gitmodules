@@ -32510,3 +32510,7 @@
 	url = https://github.com/conda-forge/sycomore-feedstock.git
 	path = feedstocks/sycomore
 	branch = refs/heads/master
+[submodule "fastscape"]
+	url = https://github.com/conda-forge/fastscape-feedstock.git
+	path = feedstocks/fastscape
+	branch = refs/heads/master
