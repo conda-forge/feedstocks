@@ -32562,3 +32562,7 @@
 	url = https://github.com/conda-forge/ros-gencpp-feedstock.git
 	path = feedstocks/ros-gencpp
 	branch = refs/heads/master
+[submodule "ros-rosgraph"]
+	url = https://github.com/conda-forge/ros-rosgraph-feedstock.git
+	path = feedstocks/ros-rosgraph
+	branch = refs/heads/master
