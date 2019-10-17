@@ -32582,3 +32582,7 @@
 	url = https://github.com/conda-forge/ros-xmlrpcpp-feedstock.git
 	path = feedstocks/ros-xmlrpcpp
 	branch = refs/heads/master
+[submodule "ros-message-runtime"]
+	url = https://github.com/conda-forge/ros-message-runtime-feedstock.git
+	path = feedstocks/ros-message-runtime
+	branch = refs/heads/master
