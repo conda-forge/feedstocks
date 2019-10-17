@@ -32630,3 +32630,7 @@
 	url = https://github.com/conda-forge/ros-roslang-feedstock.git
 	path = feedstocks/ros-roslang
 	branch = refs/heads/master
+[submodule "ros-actionlib-msgs"]
+	url = https://github.com/conda-forge/ros-actionlib-msgs-feedstock.git
+	path = feedstocks/ros-actionlib-msgs
+	branch = refs/heads/master
