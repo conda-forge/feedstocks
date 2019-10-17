@@ -32566,3 +32566,7 @@
 	url = https://github.com/conda-forge/ros-rosgraph-feedstock.git
 	path = feedstocks/ros-rosgraph
 	branch = refs/heads/master
+[submodule "clease"]
+	url = https://github.com/conda-forge/clease-feedstock.git
+	path = feedstocks/clease
+	branch = refs/heads/master
