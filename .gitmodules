@@ -32638,3 +32638,7 @@
 	url = https://github.com/conda-forge/ros-rosbag-migration-rule-feedstock.git
 	path = feedstocks/ros-rosbag-migration-rule
 	branch = refs/heads/master
+[submodule "ros-rosgraph-msgs"]
+	url = https://github.com/conda-forge/ros-rosgraph-msgs-feedstock.git
+	path = feedstocks/ros-rosgraph-msgs
+	branch = refs/heads/master
