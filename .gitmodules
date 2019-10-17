@@ -32570,3 +32570,7 @@
 	url = https://github.com/conda-forge/clease-feedstock.git
 	path = feedstocks/clease
 	branch = refs/heads/master
+[submodule "ros-roscpp-serialization"]
+	url = https://github.com/conda-forge/ros-roscpp-serialization-feedstock.git
+	path = feedstocks/ros-roscpp-serialization
+	branch = refs/heads/master
