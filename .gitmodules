@@ -32598,3 +32598,7 @@
 	url = https://github.com/conda-forge/ros-rosboost-cfg-feedstock.git
 	path = feedstocks/ros-rosboost-cfg
 	branch = refs/heads/master
+[submodule "ros-rosunit"]
+	url = https://github.com/conda-forge/ros-rosunit-feedstock.git
+	path = feedstocks/ros-rosunit
+	branch = refs/heads/master
