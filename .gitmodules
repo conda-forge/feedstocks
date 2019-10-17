@@ -32550,3 +32550,7 @@
 	url = https://github.com/conda-forge/ros-class-loader-feedstock.git
 	path = feedstocks/ros-class-loader
 	branch = refs/heads/master
+[submodule "ros-rosmake"]
+	url = https://github.com/conda-forge/ros-rosmake-feedstock.git
+	path = feedstocks/ros-rosmake
+	branch = refs/heads/master
