@@ -32522,3 +32522,7 @@
 	url = https://github.com/conda-forge/ros-genlisp-feedstock.git
 	path = feedstocks/ros-genlisp
 	branch = refs/heads/master
+[submodule "ros-rospack"]
+	url = https://github.com/conda-forge/ros-rospack-feedstock.git
+	path = feedstocks/ros-rospack
+	branch = refs/heads/master
