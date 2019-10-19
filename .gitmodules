@@ -32686,3 +32686,7 @@
 	url = https://github.com/conda-forge/bareditor-feedstock.git
 	path = feedstocks/bareditor
 	branch = refs/heads/master
+[submodule "geventhttpclient"]
+	url = https://github.com/conda-forge/geventhttpclient-feedstock.git
+	path = feedstocks/geventhttpclient
+	branch = refs/heads/master
