@@ -32670,3 +32670,7 @@
 	url = https://github.com/conda-forge/ros-trajectory-msgs-feedstock.git
 	path = feedstocks/ros-trajectory-msgs
 	branch = refs/heads/master
+[submodule "ros-rosconsole"]
+	url = https://github.com/conda-forge/ros-rosconsole-feedstock.git
+	path = feedstocks/ros-rosconsole
+	branch = refs/heads/master
