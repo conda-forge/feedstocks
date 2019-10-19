@@ -32662,3 +32662,7 @@
 	url = https://github.com/conda-forge/ros-nav-msgs-feedstock.git
 	path = feedstocks/ros-nav-msgs
 	branch = refs/heads/master
+[submodule "ros-roslisp"]
+	url = https://github.com/conda-forge/ros-roslisp-feedstock.git
+	path = feedstocks/ros-roslisp
+	branch = refs/heads/master
