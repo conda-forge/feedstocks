@@ -32666,3 +32666,7 @@
 	url = https://github.com/conda-forge/ros-roslisp-feedstock.git
 	path = feedstocks/ros-roslisp
 	branch = refs/heads/master
+[submodule "ros-trajectory-msgs"]
+	url = https://github.com/conda-forge/ros-trajectory-msgs-feedstock.git
+	path = feedstocks/ros-trajectory-msgs
+	branch = refs/heads/master
