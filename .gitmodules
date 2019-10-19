@@ -32674,3 +32674,7 @@
 	url = https://github.com/conda-forge/ros-rosconsole-feedstock.git
 	path = feedstocks/ros-rosconsole
 	branch = refs/heads/master
+[submodule "ros-visualization-msgs"]
+	url = https://github.com/conda-forge/ros-visualization-msgs-feedstock.git
+	path = feedstocks/ros-visualization-msgs
+	branch = refs/heads/master
