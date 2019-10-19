@@ -32678,3 +32678,7 @@
 	url = https://github.com/conda-forge/ros-visualization-msgs-feedstock.git
 	path = feedstocks/ros-visualization-msgs
 	branch = refs/heads/master
+[submodule "ros-shape-msgs"]
+	url = https://github.com/conda-forge/ros-shape-msgs-feedstock.git
+	path = feedstocks/ros-shape-msgs
+	branch = refs/heads/master
