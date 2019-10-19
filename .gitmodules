@@ -32654,3 +32654,7 @@
 	url = https://github.com/conda-forge/ros-sensor-msgs-feedstock.git
 	path = feedstocks/ros-sensor-msgs
 	branch = refs/heads/master
+[submodule "ros-common-msgs"]
+	url = https://github.com/conda-forge/ros-common-msgs-feedstock.git
+	path = feedstocks/ros-common-msgs
+	branch = refs/heads/master
