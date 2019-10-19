@@ -32650,3 +32650,7 @@
 	url = https://github.com/conda-forge/ros-stereo-msgs-feedstock.git
 	path = feedstocks/ros-stereo-msgs
 	branch = refs/heads/master
+[submodule "ros-sensor-msgs"]
+	url = https://github.com/conda-forge/ros-sensor-msgs-feedstock.git
+	path = feedstocks/ros-sensor-msgs
+	branch = refs/heads/master
