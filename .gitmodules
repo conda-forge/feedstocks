@@ -32718,3 +32718,7 @@
 	url = https://github.com/conda-forge/ros-mk-feedstock.git
 	path = feedstocks/ros-mk
 	branch = refs/heads/master
+[submodule "ros-rosclean"]
+	url = https://github.com/conda-forge/ros-rosclean-feedstock.git
+	path = feedstocks/ros-rosclean
+	branch = refs/heads/master
