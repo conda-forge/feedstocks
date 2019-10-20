@@ -32706,3 +32706,7 @@
 	url = https://github.com/conda-forge/pyca-feedstock.git
 	path = feedstocks/pyca
 	branch = refs/heads/master
+[submodule "r-ips"]
+	url = https://github.com/conda-forge/r-ips-feedstock.git
+	path = feedstocks/r-ips
+	branch = refs/heads/master
