@@ -32702,3 +32702,7 @@
 	url = https://github.com/conda-forge/ros-pluginlib-feedstock.git
 	path = feedstocks/ros-pluginlib
 	branch = refs/heads/master
+[submodule "pyca"]
+	url = https://github.com/conda-forge/pyca-feedstock.git
+	path = feedstocks/pyca
+	branch = refs/heads/master
