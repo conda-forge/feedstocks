@@ -32722,3 +32722,7 @@
 	url = https://github.com/conda-forge/ros-rosclean-feedstock.git
 	path = feedstocks/ros-rosclean
 	branch = refs/heads/master
+[submodule "ros-rosconsole-bridge"]
+	url = https://github.com/conda-forge/ros-rosconsole-bridge-feedstock.git
+	path = feedstocks/ros-rosconsole-bridge
+	branch = refs/heads/master
