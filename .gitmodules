@@ -32726,3 +32726,7 @@
 	url = https://github.com/conda-forge/ros-rosconsole-bridge-feedstock.git
 	path = feedstocks/ros-rosconsole-bridge
 	branch = refs/heads/master
+[submodule "ros-ros"]
+	url = https://github.com/conda-forge/ros-ros-feedstock.git
+	path = feedstocks/ros-ros
+	branch = refs/heads/master
