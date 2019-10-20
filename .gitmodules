@@ -32710,3 +32710,7 @@
 	url = https://github.com/conda-forge/r-ips-feedstock.git
 	path = feedstocks/r-ips
 	branch = refs/heads/master
+[submodule "ros-roscpp"]
+	url = https://github.com/conda-forge/ros-roscpp-feedstock.git
+	path = feedstocks/ros-roscpp
+	branch = refs/heads/master
