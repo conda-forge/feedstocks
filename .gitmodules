@@ -32730,3 +32730,7 @@
 	url = https://github.com/conda-forge/ros-ros-feedstock.git
 	path = feedstocks/ros-ros
 	branch = refs/heads/master
+[submodule "obake"]
+	url = https://github.com/conda-forge/obake-feedstock.git
+	path = feedstocks/obake
+	branch = refs/heads/master
