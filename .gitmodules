@@ -32754,3 +32754,7 @@
 	url = https://github.com/conda-forge/ros-rostest-feedstock.git
 	path = feedstocks/ros-rostest
 	branch = refs/heads/master
+[submodule "eikon"]
+	url = https://github.com/conda-forge/eikon-feedstock.git
+	path = feedstocks/eikon
+	branch = refs/heads/master
