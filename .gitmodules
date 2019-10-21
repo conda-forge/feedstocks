@@ -32766,3 +32766,7 @@
 	url = https://github.com/conda-forge/daetk-feedstock.git
 	path = feedstocks/daetk
 	branch = refs/heads/master
+[submodule "ros-rosbag-storage"]
+	url = https://github.com/conda-forge/ros-rosbag-storage-feedstock.git
+	path = feedstocks/ros-rosbag-storage
+	branch = refs/heads/master
