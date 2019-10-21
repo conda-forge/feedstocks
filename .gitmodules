@@ -32746,3 +32746,7 @@
 	url = https://github.com/conda-forge/ros-roslaunch-feedstock.git
 	path = feedstocks/ros-roslaunch
 	branch = refs/heads/master
+[submodule "xcube"]
+	url = https://github.com/conda-forge/xcube-feedstock.git
+	path = feedstocks/xcube
+	branch = refs/heads/master
