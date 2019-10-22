@@ -32794,3 +32794,7 @@
 	url = https://github.com/conda-forge/libignition-cmake0-feedstock.git
 	path = feedstocks/libignition-cmake0
 	branch = refs/heads/master
+[submodule "ros-topic-tools"]
+	url = https://github.com/conda-forge/ros-topic-tools-feedstock.git
+	path = feedstocks/ros-topic-tools
+	branch = refs/heads/master
