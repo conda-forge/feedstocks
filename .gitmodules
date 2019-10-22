@@ -32790,3 +32790,7 @@
 	url = https://github.com/conda-forge/ros-message-filters-feedstock.git
 	path = feedstocks/ros-message-filters
 	branch = refs/heads/master
+[submodule "libignition-cmake0"]
+	url = https://github.com/conda-forge/libignition-cmake0-feedstock.git
+	path = feedstocks/libignition-cmake0
+	branch = refs/heads/master
