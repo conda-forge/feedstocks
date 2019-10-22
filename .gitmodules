@@ -32778,3 +32778,7 @@
 	url = https://github.com/conda-forge/py-spy-feedstock.git
 	path = feedstocks/py-spy
 	branch = refs/heads/master
+[submodule "bulwark"]
+	url = https://github.com/conda-forge/bulwark-feedstock.git
+	path = feedstocks/bulwark
+	branch = refs/heads/master
