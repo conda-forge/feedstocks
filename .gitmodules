@@ -32826,3 +32826,7 @@
 	url = https://github.com/conda-forge/inotify_simple-feedstock.git
 	path = feedstocks/inotify_simple
 	branch = refs/heads/master
+[submodule "xpa"]
+	url = https://github.com/conda-forge/xpa-feedstock.git
+	path = feedstocks/xpa
+	branch = refs/heads/master
