@@ -32818,3 +32818,7 @@
 	url = https://github.com/conda-forge/ros-rosbag-feedstock.git
 	path = feedstocks/ros-rosbag
 	branch = refs/heads/master
+[submodule "nccl"]
+	url = https://github.com/conda-forge/nccl-feedstock.git
+	path = feedstocks/nccl
+	branch = refs/heads/master
