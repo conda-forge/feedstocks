@@ -32810,3 +32810,7 @@
 	url = https://github.com/conda-forge/libignition-transport4-feedstock.git
 	path = feedstocks/libignition-transport4
 	branch = refs/heads/master
+[submodule "libignition-math4"]
+	url = https://github.com/conda-forge/libignition-math4-feedstock.git
+	path = feedstocks/libignition-math4
+	branch = refs/heads/master
