@@ -32814,3 +32814,7 @@
 	url = https://github.com/conda-forge/libignition-math4-feedstock.git
 	path = feedstocks/libignition-math4
 	branch = refs/heads/master
+[submodule "ros-rosbag"]
+	url = https://github.com/conda-forge/ros-rosbag-feedstock.git
+	path = feedstocks/ros-rosbag
+	branch = refs/heads/master
