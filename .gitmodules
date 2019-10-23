@@ -32854,3 +32854,7 @@
 	url = https://github.com/conda-forge/ros-roswtf-feedstock.git
 	path = feedstocks/ros-roswtf
 	branch = refs/heads/master
+[submodule "ros-actionlib"]
+	url = https://github.com/conda-forge/ros-actionlib-feedstock.git
+	path = feedstocks/ros-actionlib
+	branch = refs/heads/master
