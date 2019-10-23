@@ -32898,3 +32898,7 @@
 	url = https://github.com/conda-forge/r-ridigbio-feedstock.git
 	path = feedstocks/r-ridigbio
 	branch = refs/heads/master
+[submodule "r-spocc"]
+	url = https://github.com/conda-forge/r-spocc-feedstock.git
+	path = feedstocks/r-spocc
+	branch = refs/heads/master
