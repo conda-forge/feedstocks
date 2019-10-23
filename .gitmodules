@@ -32894,3 +32894,7 @@
 	url = https://github.com/conda-forge/ros-comm-feedstock.git
 	path = feedstocks/ros-comm
 	branch = refs/heads/master
+[submodule "r-ridigbio"]
+	url = https://github.com/conda-forge/r-ridigbio-feedstock.git
+	path = feedstocks/r-ridigbio
+	branch = refs/heads/master
