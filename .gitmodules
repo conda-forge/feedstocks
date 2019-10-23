@@ -32906,3 +32906,7 @@
 	url = https://github.com/conda-forge/arlpy-feedstock.git
 	path = feedstocks/arlpy
 	branch = refs/heads/master
+[submodule "pynmea2"]
+	url = https://github.com/conda-forge/pynmea2-feedstock.git
+	path = feedstocks/pynmea2
+	branch = refs/heads/master
