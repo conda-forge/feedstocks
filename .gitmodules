@@ -32830,3 +32830,7 @@
 	url = https://github.com/conda-forge/xpa-feedstock.git
 	path = feedstocks/xpa
 	branch = refs/heads/master
+[submodule "ros-rosmsg"]
+	url = https://github.com/conda-forge/ros-rosmsg-feedstock.git
+	path = feedstocks/ros-rosmsg
+	branch = refs/heads/master
