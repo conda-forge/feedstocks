@@ -32890,3 +32890,7 @@
 	url = https://github.com/conda-forge/ros-core-feedstock.git
 	path = feedstocks/ros-core
 	branch = refs/heads/master
+[submodule "ros-comm"]
+	url = https://github.com/conda-forge/ros-comm-feedstock.git
+	path = feedstocks/ros-comm
+	branch = refs/heads/master
