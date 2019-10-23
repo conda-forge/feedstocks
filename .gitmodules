@@ -32886,3 +32886,7 @@
 	url = https://github.com/conda-forge/ros-dynamic-reconfigure-feedstock.git
 	path = feedstocks/ros-dynamic-reconfigure
 	branch = refs/heads/master
+[submodule "ros-core"]
+	url = https://github.com/conda-forge/ros-core-feedstock.git
+	path = feedstocks/ros-core
+	branch = refs/heads/master
