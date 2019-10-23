@@ -32858,3 +32858,7 @@
 	url = https://github.com/conda-forge/ros-actionlib-feedstock.git
 	path = feedstocks/ros-actionlib
 	branch = refs/heads/master
+[submodule "ndcctools"]
+	url = https://github.com/conda-forge/ndcctools-feedstock.git
+	path = feedstocks/ndcctools
+	branch = refs/heads/master
