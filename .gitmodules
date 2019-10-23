@@ -32850,3 +32850,7 @@
 	url = https://github.com/conda-forge/ros-rosservice-feedstock.git
 	path = feedstocks/ros-rosservice
 	branch = refs/heads/master
+[submodule "ros-roswtf"]
+	url = https://github.com/conda-forge/ros-roswtf-feedstock.git
+	path = feedstocks/ros-roswtf
+	branch = refs/heads/master
