@@ -32834,3 +32834,7 @@
 	url = https://github.com/conda-forge/ros-rosmsg-feedstock.git
 	path = feedstocks/ros-rosmsg
 	branch = refs/heads/master
+[submodule "ros-rostopic"]
+	url = https://github.com/conda-forge/ros-rostopic-feedstock.git
+	path = feedstocks/ros-rostopic
+	branch = refs/heads/master
