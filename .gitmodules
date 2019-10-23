@@ -32838,3 +32838,7 @@
 	url = https://github.com/conda-forge/ros-rostopic-feedstock.git
 	path = feedstocks/ros-rostopic
 	branch = refs/heads/master
+[submodule "ckan"]
+	url = https://github.com/conda-forge/ckan-feedstock.git
+	path = feedstocks/ckan
+	branch = refs/heads/master
