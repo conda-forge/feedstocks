@@ -32926,3 +32926,7 @@
 	url = https://github.com/conda-forge/fair-research-login-feedstock.git
 	path = feedstocks/fair-research-login
 	branch = refs/heads/master
+[submodule "edn_format"]
+	url = https://github.com/conda-forge/edn_format-feedstock.git
+	path = feedstocks/edn_format
+	branch = refs/heads/master
