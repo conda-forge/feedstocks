@@ -32922,3 +32922,7 @@
 	url = https://github.com/conda-forge/redbiom-feedstock.git
 	path = feedstocks/redbiom
 	branch = refs/heads/master
+[submodule "fair-research-login"]
+	url = https://github.com/conda-forge/fair-research-login-feedstock.git
+	path = feedstocks/fair-research-login
+	branch = refs/heads/master
