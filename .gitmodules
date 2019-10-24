@@ -32918,3 +32918,7 @@
 	url = https://github.com/conda-forge/pyscal-feedstock.git
 	path = feedstocks/pyscal
 	branch = refs/heads/master
+[submodule "redbiom"]
+	url = https://github.com/conda-forge/redbiom-feedstock.git
+	path = feedstocks/redbiom
+	branch = refs/heads/master
