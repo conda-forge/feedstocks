@@ -32930,3 +32930,7 @@
 	url = https://github.com/conda-forge/edn_format-feedstock.git
 	path = feedstocks/edn_format
 	branch = refs/heads/master
+[submodule "pyrfc3339"]
+	url = https://github.com/conda-forge/pyrfc3339-feedstock.git
+	path = feedstocks/pyrfc3339
+	branch = refs/heads/master
