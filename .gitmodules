@@ -32958,3 +32958,7 @@
 	url = https://github.com/conda-forge/scikit-lego-feedstock.git
 	path = feedstocks/scikit-lego
 	branch = refs/heads/master
+[submodule "flake8-isort"]
+	url = https://github.com/conda-forge/flake8-isort-feedstock.git
+	path = feedstocks/flake8-isort
+	branch = refs/heads/master
