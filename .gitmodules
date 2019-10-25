@@ -32966,3 +32966,7 @@
 	url = https://github.com/conda-forge/isofit-feedstock.git
 	path = feedstocks/isofit
 	branch = refs/heads/master
+[submodule "libsdformat"]
+	url = https://github.com/conda-forge/libsdformat-feedstock.git
+	path = feedstocks/libsdformat
+	branch = refs/heads/master
