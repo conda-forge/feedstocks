@@ -32942,3 +32942,7 @@
 	url = https://github.com/conda-forge/kim-api-feedstock.git
 	path = feedstocks/kim-api
 	branch = refs/heads/master
+[submodule "cirpy"]
+	url = https://github.com/conda-forge/cirpy-feedstock.git
+	path = feedstocks/cirpy
+	branch = refs/heads/master
