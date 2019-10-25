@@ -32970,3 +32970,7 @@
 	url = https://github.com/conda-forge/libsdformat-feedstock.git
 	path = feedstocks/libsdformat
 	branch = refs/heads/master
+[submodule "cothread"]
+	url = https://github.com/conda-forge/cothread-feedstock.git
+	path = feedstocks/cothread
+	branch = refs/heads/master
