@@ -32938,3 +32938,7 @@
 	url = https://github.com/conda-forge/beignet-feedstock.git
 	path = feedstocks/beignet
 	branch = refs/heads/master
+[submodule "kim-api"]
+	url = https://github.com/conda-forge/kim-api-feedstock.git
+	path = feedstocks/kim-api
+	branch = refs/heads/master
