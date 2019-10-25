@@ -32946,3 +32946,7 @@
 	url = https://github.com/conda-forge/cirpy-feedstock.git
 	path = feedstocks/cirpy
 	branch = refs/heads/master
+[submodule "protobuf3-to-dict"]
+	url = https://github.com/conda-forge/protobuf3-to-dict-feedstock.git
+	path = feedstocks/protobuf3-to-dict
+	branch = refs/heads/master
