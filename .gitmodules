@@ -32974,3 +32974,7 @@
 	url = https://github.com/conda-forge/cothread-feedstock.git
 	path = feedstocks/cothread
 	branch = refs/heads/master
+[submodule "cupy"]
+	url = https://github.com/conda-forge/cupy-feedstock.git
+	path = feedstocks/cupy
+	branch = refs/heads/master
