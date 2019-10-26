@@ -32978,3 +32978,7 @@
 	url = https://github.com/conda-forge/cupy-feedstock.git
 	path = feedstocks/cupy
 	branch = refs/heads/master
+[submodule "boost-histogram"]
+	url = https://github.com/conda-forge/boost-histogram-feedstock.git
+	path = feedstocks/boost-histogram
+	branch = refs/heads/master
