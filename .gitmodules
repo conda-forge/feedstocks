@@ -32994,3 +32994,7 @@
 	url = https://github.com/conda-forge/python-cinderclient-feedstock.git
 	path = feedstocks/python-cinderclient
 	branch = refs/heads/master
+[submodule "osc-lib"]
+	url = https://github.com/conda-forge/osc-lib-feedstock.git
+	path = feedstocks/osc-lib
+	branch = refs/heads/master
