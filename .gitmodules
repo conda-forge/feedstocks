@@ -32998,3 +32998,7 @@
 	url = https://github.com/conda-forge/osc-lib-feedstock.git
 	path = feedstocks/osc-lib
 	branch = refs/heads/master
+[submodule "python-swiftclient"]
+	url = https://github.com/conda-forge/python-swiftclient-feedstock.git
+	path = feedstocks/python-swiftclient
+	branch = refs/heads/master
