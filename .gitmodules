@@ -32982,3 +32982,7 @@
 	url = https://github.com/conda-forge/boost-histogram-feedstock.git
 	path = feedstocks/boost-histogram
 	branch = refs/heads/master
+[submodule "yagmail"]
+	url = https://github.com/conda-forge/yagmail-feedstock.git
+	path = feedstocks/yagmail
+	branch = refs/heads/master
