@@ -33006,3 +33006,7 @@
 	url = https://github.com/conda-forge/python-glanceclient-feedstock.git
 	path = feedstocks/python-glanceclient
 	branch = refs/heads/master
+[submodule "python-novaclient"]
+	url = https://github.com/conda-forge/python-novaclient-feedstock.git
+	path = feedstocks/python-novaclient
+	branch = refs/heads/master
