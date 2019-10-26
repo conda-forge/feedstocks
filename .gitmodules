@@ -33002,3 +33002,7 @@
 	url = https://github.com/conda-forge/python-swiftclient-feedstock.git
 	path = feedstocks/python-swiftclient
 	branch = refs/heads/master
+[submodule "python-glanceclient"]
+	url = https://github.com/conda-forge/python-glanceclient-feedstock.git
+	path = feedstocks/python-glanceclient
+	branch = refs/heads/master
