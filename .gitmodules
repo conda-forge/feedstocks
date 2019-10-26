@@ -32990,3 +32990,7 @@
 	url = https://github.com/conda-forge/ipygraphql-feedstock.git
 	path = feedstocks/ipygraphql
 	branch = refs/heads/master
+[submodule "python-cinderclient"]
+	url = https://github.com/conda-forge/python-cinderclient-feedstock.git
+	path = feedstocks/python-cinderclient
+	branch = refs/heads/master
