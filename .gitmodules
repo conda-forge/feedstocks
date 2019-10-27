@@ -33026,3 +33026,7 @@
 	url = https://github.com/conda-forge/keras-radam-feedstock.git
 	path = feedstocks/keras-radam
 	branch = refs/heads/master
+[submodule "pytest-astropy-header"]
+	url = https://github.com/conda-forge/pytest-astropy-header-feedstock.git
+	path = feedstocks/pytest-astropy-header
+	branch = refs/heads/master
