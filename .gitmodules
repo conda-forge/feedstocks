@@ -33018,3 +33018,7 @@
 	url = https://github.com/conda-forge/twilio-feedstock.git
 	path = feedstocks/twilio
 	branch = refs/heads/master
+[submodule "zfpy"]
+	url = https://github.com/conda-forge/zfpy-feedstock.git
+	path = feedstocks/zfpy
+	branch = refs/heads/master
