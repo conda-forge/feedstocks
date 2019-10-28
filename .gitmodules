@@ -33034,3 +33034,7 @@
 	url = https://github.com/conda-forge/knockknock-feedstock.git
 	path = feedstocks/knockknock
 	branch = refs/heads/master
+[submodule "python-keystoneclient"]
+	url = https://github.com/conda-forge/python-keystoneclient-feedstock.git
+	path = feedstocks/python-keystoneclient
+	branch = refs/heads/master
