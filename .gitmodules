@@ -33038,3 +33038,7 @@
 	url = https://github.com/conda-forge/python-keystoneclient-feedstock.git
 	path = feedstocks/python-keystoneclient
 	branch = refs/heads/master
+[submodule "norbert"]
+	url = https://github.com/conda-forge/norbert-feedstock.git
+	path = feedstocks/norbert
+	branch = refs/heads/master
