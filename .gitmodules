@@ -33114,3 +33114,7 @@
 	url = https://github.com/conda-forge/kimpy-feedstock.git
 	path = feedstocks/kimpy
 	branch = refs/heads/master
+[submodule "html2text"]
+	url = https://github.com/conda-forge/html2text-feedstock.git
+	path = feedstocks/html2text
+	branch = refs/heads/master
