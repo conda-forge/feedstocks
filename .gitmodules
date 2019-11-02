@@ -33074,3 +33074,7 @@
 	url = https://github.com/conda-forge/veracitools-feedstock.git
 	path = feedstocks/veracitools
 	branch = refs/heads/master
+[submodule "dukpy"]
+	url = https://github.com/conda-forge/dukpy-feedstock.git
+	path = feedstocks/dukpy
+	branch = refs/heads/master
