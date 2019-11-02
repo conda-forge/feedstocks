@@ -33042,3 +33042,7 @@
 	url = https://github.com/conda-forge/norbert-feedstock.git
 	path = feedstocks/norbert
 	branch = refs/heads/master
+[submodule "python-openstackclient"]
+	url = https://github.com/conda-forge/python-openstackclient-feedstock.git
+	path = feedstocks/python-openstackclient
+	branch = refs/heads/master
