@@ -33046,3 +33046,7 @@
 	url = https://github.com/conda-forge/python-openstackclient-feedstock.git
 	path = feedstocks/python-openstackclient
 	branch = refs/heads/master
+[submodule "proteus"]
+	url = https://github.com/conda-forge/proteus-feedstock.git
+	path = feedstocks/proteus
+	branch = refs/heads/master
