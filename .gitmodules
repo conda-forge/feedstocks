@@ -33090,3 +33090,7 @@
 	url = https://github.com/conda-forge/powerplantmatching-feedstock.git
 	path = feedstocks/powerplantmatching
 	branch = refs/heads/master
+[submodule "ngboost"]
+	url = https://github.com/conda-forge/ngboost-feedstock.git
+	path = feedstocks/ngboost
+	branch = refs/heads/master
