@@ -33106,3 +33106,7 @@
 	url = https://github.com/conda-forge/expiringdict-feedstock.git
 	path = feedstocks/expiringdict
 	branch = refs/heads/master
+[submodule "flake8-nb"]
+	url = https://github.com/conda-forge/flake8-nb-feedstock.git
+	path = feedstocks/flake8-nb
+	branch = refs/heads/master
