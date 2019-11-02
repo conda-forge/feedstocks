@@ -33078,3 +33078,7 @@
 	url = https://github.com/conda-forge/dukpy-feedstock.git
 	path = feedstocks/dukpy
 	branch = refs/heads/master
+[submodule "stempeg"]
+	url = https://github.com/conda-forge/stempeg-feedstock.git
+	path = feedstocks/stempeg
+	branch = refs/heads/master
