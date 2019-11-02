@@ -33122,3 +33122,7 @@
 	url = https://github.com/conda-forge/webtest-feedstock.git
 	path = feedstocks/webtest
 	branch = refs/heads/master
+[submodule "pixy"]
+	url = https://github.com/conda-forge/pixy-feedstock.git
+	path = feedstocks/pixy
+	branch = refs/heads/master
