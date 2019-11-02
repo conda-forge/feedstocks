@@ -33082,3 +33082,7 @@
 	url = https://github.com/conda-forge/stempeg-feedstock.git
 	path = feedstocks/stempeg
 	branch = refs/heads/master
+[submodule "luhn"]
+	url = https://github.com/conda-forge/luhn-feedstock.git
+	path = feedstocks/luhn
+	branch = refs/heads/master
