@@ -33102,3 +33102,7 @@
 	url = https://github.com/conda-forge/ipymaterialui-feedstock.git
 	path = feedstocks/ipymaterialui
 	branch = refs/heads/master
+[submodule "expiringdict"]
+	url = https://github.com/conda-forge/expiringdict-feedstock.git
+	path = feedstocks/expiringdict
+	branch = refs/heads/master
