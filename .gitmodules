@@ -33126,3 +33126,7 @@
 	url = https://github.com/conda-forge/pixy-feedstock.git
 	path = feedstocks/pixy
 	branch = refs/heads/master
+[submodule "meld3"]
+	url = https://github.com/conda-forge/meld3-feedstock.git
+	path = feedstocks/meld3
+	branch = refs/heads/master
