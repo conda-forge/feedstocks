@@ -33066,3 +33066,7 @@
 	url = https://github.com/conda-forge/sagemaker_containers-feedstock.git
 	path = feedstocks/sagemaker_containers
 	branch = refs/heads/master
+[submodule "ansi2html"]
+	url = https://github.com/conda-forge/ansi2html-feedstock.git
+	path = feedstocks/ansi2html
+	branch = refs/heads/master
