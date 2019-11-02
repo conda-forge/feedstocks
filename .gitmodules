@@ -33118,3 +33118,7 @@
 	url = https://github.com/conda-forge/html2text-feedstock.git
 	path = feedstocks/html2text
 	branch = refs/heads/master
+[submodule "webtest"]
+	url = https://github.com/conda-forge/webtest-feedstock.git
+	path = feedstocks/webtest
+	branch = refs/heads/master
