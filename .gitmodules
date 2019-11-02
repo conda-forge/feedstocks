@@ -33054,3 +33054,7 @@
 	url = https://github.com/conda-forge/jupyter-panel-proxy-feedstock.git
 	path = feedstocks/jupyter-panel-proxy
 	branch = refs/heads/master
+[submodule "clikit"]
+	url = https://github.com/conda-forge/clikit-feedstock.git
+	path = feedstocks/clikit
+	branch = refs/heads/master
