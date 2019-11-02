@@ -33058,3 +33058,7 @@
 	url = https://github.com/conda-forge/clikit-feedstock.git
 	path = feedstocks/clikit
 	branch = refs/heads/master
+[submodule "termgraph"]
+	url = https://github.com/conda-forge/termgraph-feedstock.git
+	path = feedstocks/termgraph
+	branch = refs/heads/master
