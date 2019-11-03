@@ -33142,3 +33142,7 @@
 	url = https://github.com/conda-forge/ros-std-srvs-feedstock.git
 	path = feedstocks/ros-std-srvs
 	branch = refs/heads/master
+[submodule "r-eva"]
+	url = https://github.com/conda-forge/r-eva-feedstock.git
+	path = feedstocks/r-eva
+	branch = refs/heads/master
