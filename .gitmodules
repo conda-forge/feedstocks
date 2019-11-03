@@ -33146,3 +33146,7 @@
 	url = https://github.com/conda-forge/r-eva-feedstock.git
 	path = feedstocks/r-eva
 	branch = refs/heads/master
+[submodule "r-sampsurf"]
+	url = https://github.com/conda-forge/r-sampsurf-feedstock.git
+	path = feedstocks/r-sampsurf
+	branch = refs/heads/master
