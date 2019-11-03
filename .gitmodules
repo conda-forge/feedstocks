@@ -33138,3 +33138,7 @@
 	url = https://github.com/conda-forge/libpython-feedstock.git
 	path = feedstocks/libpython
 	branch = refs/heads/master
+[submodule "ros-std-srvs"]
+	url = https://github.com/conda-forge/ros-std-srvs-feedstock.git
+	path = feedstocks/ros-std-srvs
+	branch = refs/heads/master
