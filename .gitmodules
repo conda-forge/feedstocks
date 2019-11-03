@@ -33134,3 +33134,7 @@
 	url = https://github.com/conda-forge/aiohttp-cors-feedstock.git
 	path = feedstocks/aiohttp-cors
 	branch = refs/heads/master
+[submodule "libpython"]
+	url = https://github.com/conda-forge/libpython-feedstock.git
+	path = feedstocks/libpython
+	branch = refs/heads/master
