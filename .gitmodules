@@ -33150,3 +33150,7 @@
 	url = https://github.com/conda-forge/r-sampsurf-feedstock.git
 	path = feedstocks/r-sampsurf
 	branch = refs/heads/master
+[submodule "openkimmodels"]
+	url = https://github.com/conda-forge/openkimmodels-feedstock.git
+	path = feedstocks/openkimmodels
+	branch = refs/heads/master
