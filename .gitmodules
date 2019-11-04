@@ -33182,3 +33182,7 @@
 	url = https://github.com/conda-forge/parsim-feedstock.git
 	path = feedstocks/parsim
 	branch = refs/heads/master
+[submodule "nbcommands"]
+	url = https://github.com/conda-forge/nbcommands-feedstock.git
+	path = feedstocks/nbcommands
+	branch = refs/heads/master
