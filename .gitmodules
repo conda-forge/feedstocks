@@ -33158,3 +33158,7 @@
 	url = https://github.com/conda-forge/r-dplr-feedstock.git
 	path = feedstocks/r-dplr
 	branch = refs/heads/master
+[submodule "modulegraph"]
+	url = https://github.com/conda-forge/modulegraph-feedstock.git
+	path = feedstocks/modulegraph
+	branch = refs/heads/master
