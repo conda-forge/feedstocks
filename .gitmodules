@@ -33170,3 +33170,7 @@
 	url = https://github.com/conda-forge/r-investr-feedstock.git
 	path = feedstocks/r-investr
 	branch = refs/heads/master
+[submodule "catalogue"]
+	url = https://github.com/conda-forge/catalogue-feedstock.git
+	path = feedstocks/catalogue
+	branch = refs/heads/master
