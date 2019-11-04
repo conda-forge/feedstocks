@@ -33186,3 +33186,7 @@
 	url = https://github.com/conda-forge/nbcommands-feedstock.git
 	path = feedstocks/nbcommands
 	branch = refs/heads/master
+[submodule "pyexpander"]
+	url = https://github.com/conda-forge/pyexpander-feedstock.git
+	path = feedstocks/pyexpander
+	branch = refs/heads/master
