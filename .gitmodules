@@ -33222,3 +33222,7 @@
 	url = https://github.com/conda-forge/r-qualv-feedstock.git
 	path = feedstocks/r-qualv
 	branch = refs/heads/master
+[submodule "prince-factor-analysis"]
+	url = https://github.com/conda-forge/prince-factor-analysis-feedstock.git
+	path = feedstocks/prince-factor-analysis
+	branch = refs/heads/master
