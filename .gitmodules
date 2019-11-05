@@ -33258,3 +33258,7 @@
 	url = https://github.com/conda-forge/benten-feedstock.git
 	path = feedstocks/benten
 	branch = refs/heads/master
+[submodule "lda"]
+	url = https://github.com/conda-forge/lda-feedstock.git
+	path = feedstocks/lda
+	branch = refs/heads/master
