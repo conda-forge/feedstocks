@@ -33246,3 +33246,7 @@
 	url = https://github.com/conda-forge/python-debian-feedstock.git
 	path = feedstocks/python-debian
 	branch = refs/heads/master
+[submodule "fsfe-reuse"]
+	url = https://github.com/conda-forge/fsfe-reuse-feedstock.git
+	path = feedstocks/fsfe-reuse
+	branch = refs/heads/master
