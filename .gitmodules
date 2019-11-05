@@ -33242,3 +33242,7 @@
 	url = https://github.com/conda-forge/scisoftpy-feedstock.git
 	path = feedstocks/scisoftpy
 	branch = refs/heads/master
+[submodule "python-debian"]
+	url = https://github.com/conda-forge/python-debian-feedstock.git
+	path = feedstocks/python-debian
+	branch = refs/heads/master
