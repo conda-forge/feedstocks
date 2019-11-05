@@ -33230,3 +33230,7 @@
 	url = https://github.com/conda-forge/yacman-feedstock.git
 	path = feedstocks/yacman
 	branch = refs/heads/master
+[submodule "condastats"]
+	url = https://github.com/conda-forge/condastats-feedstock.git
+	path = feedstocks/condastats
+	branch = refs/heads/master
