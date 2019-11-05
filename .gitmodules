@@ -33254,3 +33254,7 @@
 	url = https://github.com/conda-forge/r-gghalves-feedstock.git
 	path = feedstocks/r-gghalves
 	branch = refs/heads/master
+[submodule "benten"]
+	url = https://github.com/conda-forge/benten-feedstock.git
+	path = feedstocks/benten
+	branch = refs/heads/master
