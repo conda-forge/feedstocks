@@ -33234,3 +33234,7 @@
 	url = https://github.com/conda-forge/condastats-feedstock.git
 	path = feedstocks/condastats
 	branch = refs/heads/master
+[submodule "boolean.py"]
+	url = https://github.com/conda-forge/boolean.py-feedstock.git
+	path = feedstocks/boolean.py
+	branch = refs/heads/master
