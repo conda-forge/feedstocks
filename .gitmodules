@@ -33202,3 +33202,7 @@
 	url = https://github.com/conda-forge/r-lfda-feedstock.git
 	path = feedstocks/r-lfda
 	branch = refs/heads/master
+[submodule "r-ckmeans.1d.dp"]
+	url = https://github.com/conda-forge/r-ckmeans.1d.dp-feedstock.git
+	path = feedstocks/r-ckmeans.1d.dp
+	branch = refs/heads/master
