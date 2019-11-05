@@ -33198,3 +33198,7 @@
 	url = https://github.com/conda-forge/r-basictrendline-feedstock.git
 	path = feedstocks/r-basictrendline
 	branch = refs/heads/master
+[submodule "r-lfda"]
+	url = https://github.com/conda-forge/r-lfda-feedstock.git
+	path = feedstocks/r-lfda
+	branch = refs/heads/master
