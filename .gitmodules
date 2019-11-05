@@ -33206,3 +33206,7 @@
 	url = https://github.com/conda-forge/r-ckmeans.1d.dp-feedstock.git
 	path = feedstocks/r-ckmeans.1d.dp
 	branch = refs/heads/master
+[submodule "r-dml"]
+	url = https://github.com/conda-forge/r-dml-feedstock.git
+	path = feedstocks/r-dml
+	branch = refs/heads/master
