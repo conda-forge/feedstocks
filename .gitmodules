@@ -33274,3 +33274,7 @@
 	url = https://github.com/conda-forge/bmi-c-feedstock.git
 	path = feedstocks/bmi-c
 	branch = refs/heads/master
+[submodule "clinfo"]
+	url = https://github.com/conda-forge/clinfo-feedstock.git
+	path = feedstocks/clinfo
+	branch = refs/heads/master
