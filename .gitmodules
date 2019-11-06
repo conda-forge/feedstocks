@@ -33262,3 +33262,7 @@
 	url = https://github.com/conda-forge/lda-feedstock.git
 	path = feedstocks/lda
 	branch = refs/heads/master
+[submodule "ibmpairs"]
+	url = https://github.com/conda-forge/ibmpairs-feedstock.git
+	path = feedstocks/ibmpairs
+	branch = refs/heads/master
