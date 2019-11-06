@@ -33270,3 +33270,7 @@
 	url = https://github.com/conda-forge/imantics-feedstock.git
 	path = feedstocks/imantics
 	branch = refs/heads/master
+[submodule "bmi-c"]
+	url = https://github.com/conda-forge/bmi-c-feedstock.git
+	path = feedstocks/bmi-c
+	branch = refs/heads/master
