@@ -33298,3 +33298,7 @@
 	url = https://github.com/conda-forge/htcondor-feedstock.git
 	path = feedstocks/htcondor
 	branch = refs/heads/master
+[submodule "soem"]
+	url = https://github.com/conda-forge/soem-feedstock.git
+	path = feedstocks/soem
+	branch = refs/heads/master
