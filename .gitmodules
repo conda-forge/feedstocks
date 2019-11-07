@@ -33294,3 +33294,7 @@
 	url = https://github.com/conda-forge/musdb-feedstock.git
 	path = feedstocks/musdb
 	branch = refs/heads/master
+[submodule "htcondor"]
+	url = https://github.com/conda-forge/htcondor-feedstock.git
+	path = feedstocks/htcondor
+	branch = refs/heads/master
