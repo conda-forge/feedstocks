@@ -33278,3 +33278,7 @@
 	url = https://github.com/conda-forge/clinfo-feedstock.git
 	path = feedstocks/clinfo
 	branch = refs/heads/master
+[submodule "dash-coreui-components"]
+	url = https://github.com/conda-forge/dash-coreui-components-feedstock.git
+	path = feedstocks/dash-coreui-components
+	branch = refs/heads/master
