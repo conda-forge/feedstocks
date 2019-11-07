@@ -33290,3 +33290,7 @@
 	url = https://github.com/conda-forge/lsstdesc.weaklensingdeblending-feedstock.git
 	path = feedstocks/lsstdesc.weaklensingdeblending
 	branch = refs/heads/master
+[submodule "musdb"]
+	url = https://github.com/conda-forge/musdb-feedstock.git
+	path = feedstocks/musdb
+	branch = refs/heads/master
