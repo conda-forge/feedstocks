@@ -33354,3 +33354,7 @@
 	url = https://github.com/conda-forge/empymod-feedstock.git
 	path = feedstocks/empymod
 	branch = refs/heads/master
+[submodule "libaatm"]
+	url = https://github.com/conda-forge/libaatm-feedstock.git
+	path = feedstocks/libaatm
+	branch = refs/heads/master
