@@ -33366,3 +33366,7 @@
 	url = https://github.com/conda-forge/torcpy-feedstock.git
 	path = feedstocks/torcpy
 	branch = refs/heads/master
+[submodule "libtiledb-sql"]
+	url = https://github.com/conda-forge/libtiledb-sql-feedstock.git
+	path = feedstocks/libtiledb-sql
+	branch = refs/heads/master
