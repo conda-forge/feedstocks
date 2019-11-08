@@ -33374,3 +33374,7 @@
 	url = https://github.com/conda-forge/jenkinsapi-feedstock.git
 	path = feedstocks/jenkinsapi
 	branch = refs/heads/master
+[submodule "sagemaker-python-sdk"]
+	url = https://github.com/conda-forge/sagemaker-python-sdk-feedstock.git
+	path = feedstocks/sagemaker-python-sdk
+	branch = refs/heads/master
