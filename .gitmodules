@@ -33370,3 +33370,7 @@
 	url = https://github.com/conda-forge/libtiledb-sql-feedstock.git
 	path = feedstocks/libtiledb-sql
 	branch = refs/heads/master
+[submodule "jenkinsapi"]
+	url = https://github.com/conda-forge/jenkinsapi-feedstock.git
+	path = feedstocks/jenkinsapi
+	branch = refs/heads/master
