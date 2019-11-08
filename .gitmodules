@@ -33338,3 +33338,7 @@
 	url = https://github.com/conda-forge/patch-ng-feedstock.git
 	path = feedstocks/patch-ng
 	branch = refs/heads/master
+[submodule "hstspreload"]
+	url = https://github.com/conda-forge/hstspreload-feedstock.git
+	path = feedstocks/hstspreload
+	branch = refs/heads/master
