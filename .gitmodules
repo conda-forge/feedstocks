@@ -33310,3 +33310,7 @@
 	url = https://github.com/conda-forge/libxfoil-feedstock.git
 	path = feedstocks/libxfoil
 	branch = refs/heads/master
+[submodule "nim"]
+	url = https://github.com/conda-forge/nim-feedstock.git
+	path = feedstocks/nim
+	branch = refs/heads/master
