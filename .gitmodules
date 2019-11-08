@@ -33314,3 +33314,7 @@
 	url = https://github.com/conda-forge/nim-feedstock.git
 	path = feedstocks/nim
 	branch = refs/heads/master
+[submodule "pepredicates"]
+	url = https://github.com/conda-forge/pepredicates-feedstock.git
+	path = feedstocks/pepredicates
+	branch = refs/heads/master
