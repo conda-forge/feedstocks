@@ -33322,3 +33322,7 @@
 	url = https://github.com/conda-forge/teensytoany-feedstock.git
 	path = feedstocks/teensytoany
 	branch = refs/heads/master
+[submodule "markdown-kernel"]
+	url = https://github.com/conda-forge/markdown-kernel-feedstock.git
+	path = feedstocks/markdown-kernel
+	branch = refs/heads/master
