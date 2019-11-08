@@ -33350,3 +33350,7 @@
 	url = https://github.com/conda-forge/pymca-zocalo-feedstock.git
 	path = feedstocks/pymca-zocalo
 	branch = refs/heads/master
+[submodule "empymod"]
+	url = https://github.com/conda-forge/empymod-feedstock.git
+	path = feedstocks/empymod
+	branch = refs/heads/master
