@@ -33358,3 +33358,7 @@
 	url = https://github.com/conda-forge/libaatm-feedstock.git
 	path = feedstocks/libaatm
 	branch = refs/heads/master
+[submodule "freecad.python"]
+	url = https://github.com/conda-forge/freecad.python-feedstock.git
+	path = feedstocks/freecad.python
+	branch = refs/heads/master
