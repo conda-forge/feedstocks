@@ -33326,3 +33326,7 @@
 	url = https://github.com/conda-forge/markdown-kernel-feedstock.git
 	path = feedstocks/markdown-kernel
 	branch = refs/heads/master
+[submodule "aws-amicleaner"]
+	url = https://github.com/conda-forge/aws-amicleaner-feedstock.git
+	path = feedstocks/aws-amicleaner
+	branch = refs/heads/master
