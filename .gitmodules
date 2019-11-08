@@ -33362,3 +33362,7 @@
 	url = https://github.com/conda-forge/freecad.python-feedstock.git
 	path = feedstocks/freecad.python
 	branch = refs/heads/master
+[submodule "torcpy"]
+	url = https://github.com/conda-forge/torcpy-feedstock.git
+	path = feedstocks/torcpy
+	branch = refs/heads/master
