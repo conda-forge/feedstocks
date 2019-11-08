@@ -33334,3 +33334,7 @@
 	url = https://github.com/conda-forge/volk-feedstock.git
 	path = feedstocks/volk
 	branch = refs/heads/master
+[submodule "patch-ng"]
+	url = https://github.com/conda-forge/patch-ng-feedstock.git
+	path = feedstocks/patch-ng
+	branch = refs/heads/master
