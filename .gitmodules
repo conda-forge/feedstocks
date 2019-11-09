@@ -33382,3 +33382,7 @@
 	url = https://github.com/conda-forge/roct-thunk-interface-feedstock.git
 	path = feedstocks/roct-thunk-interface
 	branch = refs/heads/master
+[submodule "rocm-device-libs"]
+	url = https://github.com/conda-forge/rocm-device-libs-feedstock.git
+	path = feedstocks/rocm-device-libs
+	branch = refs/heads/master
