@@ -33394,3 +33394,7 @@
 	url = https://github.com/conda-forge/rocm-opencl-runtime-feedstock.git
 	path = feedstocks/rocm-opencl-runtime
 	branch = refs/heads/master
+[submodule "rocr-runtime"]
+	url = https://github.com/conda-forge/rocr-runtime-feedstock.git
+	path = feedstocks/rocr-runtime
+	branch = refs/heads/master
