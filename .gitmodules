@@ -33406,3 +33406,7 @@
 	url = https://github.com/conda-forge/r-renv-feedstock.git
 	path = feedstocks/r-renv
 	branch = refs/heads/master
+[submodule "rocminfo"]
+	url = https://github.com/conda-forge/rocminfo-feedstock.git
+	path = feedstocks/rocminfo
+	branch = refs/heads/master
