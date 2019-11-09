@@ -33430,3 +33430,7 @@
 	url = https://github.com/conda-forge/python-fastjsonschema-feedstock.git
 	path = feedstocks/python-fastjsonschema
 	branch = refs/heads/master
+[submodule "optuna"]
+	url = https://github.com/conda-forge/optuna-feedstock.git
+	path = feedstocks/optuna
+	branch = refs/heads/master
