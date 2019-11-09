@@ -33426,3 +33426,7 @@
 	url = https://github.com/conda-forge/httpx-feedstock.git
 	path = feedstocks/httpx
 	branch = refs/heads/master
+[submodule "python-fastjsonschema"]
+	url = https://github.com/conda-forge/python-fastjsonschema-feedstock.git
+	path = feedstocks/python-fastjsonschema
+	branch = refs/heads/master
