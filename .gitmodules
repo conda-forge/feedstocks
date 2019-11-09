@@ -33378,3 +33378,7 @@
 	url = https://github.com/conda-forge/sagemaker-python-sdk-feedstock.git
 	path = feedstocks/sagemaker-python-sdk
 	branch = refs/heads/master
+[submodule "roct-thunk-interface"]
+	url = https://github.com/conda-forge/roct-thunk-interface-feedstock.git
+	path = feedstocks/roct-thunk-interface
+	branch = refs/heads/master
