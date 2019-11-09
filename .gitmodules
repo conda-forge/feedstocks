@@ -33418,3 +33418,7 @@
 	url = https://github.com/conda-forge/rocm-bandwidth-test-feedstock.git
 	path = feedstocks/rocm-bandwidth-test
 	branch = refs/heads/master
+[submodule "crayons"]
+	url = https://github.com/conda-forge/crayons-feedstock.git
+	path = feedstocks/crayons
+	branch = refs/heads/master
