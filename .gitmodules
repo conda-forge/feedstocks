@@ -33386,3 +33386,7 @@
 	url = https://github.com/conda-forge/rocm-device-libs-feedstock.git
 	path = feedstocks/rocm-device-libs
 	branch = refs/heads/master
+[submodule "rocm-opencl-driver"]
+	url = https://github.com/conda-forge/rocm-opencl-driver-feedstock.git
+	path = feedstocks/rocm-opencl-driver
+	branch = refs/heads/master
