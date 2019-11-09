@@ -33438,3 +33438,7 @@
 	url = https://github.com/conda-forge/ros-rosmaster-feedstock.git
 	path = feedstocks/ros-rosmaster
 	branch = refs/heads/master
+[submodule "requests-negotiate-sspi"]
+	url = https://github.com/conda-forge/requests-negotiate-sspi-feedstock.git
+	path = feedstocks/requests-negotiate-sspi
+	branch = refs/heads/master
