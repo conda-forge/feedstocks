@@ -33390,3 +33390,7 @@
 	url = https://github.com/conda-forge/rocm-opencl-driver-feedstock.git
 	path = feedstocks/rocm-opencl-driver
 	branch = refs/heads/master
+[submodule "rocm-opencl-runtime"]
+	url = https://github.com/conda-forge/rocm-opencl-runtime-feedstock.git
+	path = feedstocks/rocm-opencl-runtime
+	branch = refs/heads/master
