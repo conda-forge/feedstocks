@@ -33414,3 +33414,7 @@
 	url = https://github.com/conda-forge/rocm-smi-feedstock.git
 	path = feedstocks/rocm-smi
 	branch = refs/heads/master
+[submodule "rocm-bandwidth-test"]
+	url = https://github.com/conda-forge/rocm-bandwidth-test-feedstock.git
+	path = feedstocks/rocm-bandwidth-test
+	branch = refs/heads/master
