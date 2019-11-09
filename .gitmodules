@@ -33410,3 +33410,7 @@
 	url = https://github.com/conda-forge/rocminfo-feedstock.git
 	path = feedstocks/rocminfo
 	branch = refs/heads/master
+[submodule "rocm-smi"]
+	url = https://github.com/conda-forge/rocm-smi-feedstock.git
+	path = feedstocks/rocm-smi
+	branch = refs/heads/master
