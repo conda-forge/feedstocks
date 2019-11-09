@@ -33442,3 +33442,7 @@
 	url = https://github.com/conda-forge/requests-negotiate-sspi-feedstock.git
 	path = feedstocks/requests-negotiate-sspi
 	branch = refs/heads/master
+[submodule "requests-file"]
+	url = https://github.com/conda-forge/requests-file-feedstock.git
+	path = feedstocks/requests-file
+	branch = refs/heads/master
