@@ -33450,3 +33450,7 @@
 	url = https://github.com/conda-forge/emg3d-feedstock.git
 	path = feedstocks/emg3d
 	branch = refs/heads/master
+[submodule "ase-notebook"]
+	url = https://github.com/conda-forge/ase-notebook-feedstock.git
+	path = feedstocks/ase-notebook
+	branch = refs/heads/master
