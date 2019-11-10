@@ -33446,3 +33446,7 @@
 	url = https://github.com/conda-forge/requests-file-feedstock.git
 	path = feedstocks/requests-file
 	branch = refs/heads/master
+[submodule "emg3d"]
+	url = https://github.com/conda-forge/emg3d-feedstock.git
+	path = feedstocks/emg3d
+	branch = refs/heads/master
