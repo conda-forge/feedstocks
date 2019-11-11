@@ -33474,3 +33474,7 @@
 	url = https://github.com/conda-forge/numericalunits-feedstock.git
 	path = feedstocks/numericalunits
 	branch = refs/heads/master
+[submodule "potentials"]
+	url = https://github.com/conda-forge/potentials-feedstock.git
+	path = feedstocks/potentials
+	branch = refs/heads/master
