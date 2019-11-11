@@ -33454,3 +33454,7 @@
 	url = https://github.com/conda-forge/ase-notebook-feedstock.git
 	path = feedstocks/ase-notebook
 	branch = refs/heads/master
+[submodule "r-inctools"]
+	url = https://github.com/conda-forge/r-inctools-feedstock.git
+	path = feedstocks/r-inctools
+	branch = refs/heads/master
