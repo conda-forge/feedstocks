@@ -33490,3 +33490,7 @@
 	url = https://github.com/conda-forge/dcgp-python-feedstock.git
 	path = feedstocks/dcgp-python
 	branch = refs/heads/master
+[submodule "hcc"]
+	url = https://github.com/conda-forge/hcc-feedstock.git
+	path = feedstocks/hcc
+	branch = refs/heads/master
