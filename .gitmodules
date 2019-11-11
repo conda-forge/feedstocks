@@ -33458,3 +33458,7 @@
 	url = https://github.com/conda-forge/r-inctools-feedstock.git
 	path = feedstocks/r-inctools
 	branch = refs/heads/master
+[submodule "awslogs"]
+	url = https://github.com/conda-forge/awslogs-feedstock.git
+	path = feedstocks/awslogs
+	branch = refs/heads/master
