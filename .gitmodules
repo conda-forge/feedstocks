@@ -33462,3 +33462,7 @@
 	url = https://github.com/conda-forge/awslogs-feedstock.git
 	path = feedstocks/awslogs
 	branch = refs/heads/master
+[submodule "openkim-models"]
+	url = https://github.com/conda-forge/openkim-models-feedstock.git
+	path = feedstocks/openkim-models
+	branch = refs/heads/master
