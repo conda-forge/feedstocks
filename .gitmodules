@@ -33486,3 +33486,7 @@
 	url = https://github.com/conda-forge/atomman-feedstock.git
 	path = feedstocks/atomman
 	branch = refs/heads/master
+[submodule "dcgp-python"]
+	url = https://github.com/conda-forge/dcgp-python-feedstock.git
+	path = feedstocks/dcgp-python
+	branch = refs/heads/master
