@@ -33502,3 +33502,7 @@
 	url = https://github.com/conda-forge/r-genie-feedstock.git
 	path = feedstocks/r-genie
 	branch = refs/heads/master
+[submodule "winkerberos"]
+	url = https://github.com/conda-forge/winkerberos-feedstock.git
+	path = feedstocks/winkerberos
+	branch = refs/heads/master
