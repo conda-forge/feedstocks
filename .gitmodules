@@ -33510,3 +33510,7 @@
 	url = https://github.com/conda-forge/ephyviewer-feedstock.git
 	path = feedstocks/ephyviewer
 	branch = refs/heads/master
+[submodule "graphene-sqlalchemy"]
+	url = https://github.com/conda-forge/graphene-sqlalchemy-feedstock.git
+	path = feedstocks/graphene-sqlalchemy
+	branch = refs/heads/master
