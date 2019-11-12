@@ -33494,3 +33494,7 @@
 	url = https://github.com/conda-forge/hcc-feedstock.git
 	path = feedstocks/hcc
 	branch = refs/heads/master
+[submodule "pandera"]
+	url = https://github.com/conda-forge/pandera-feedstock.git
+	path = feedstocks/pandera
+	branch = refs/heads/master
