@@ -33518,3 +33518,7 @@
 	url = https://github.com/conda-forge/requests-magpie-feedstock.git
 	path = feedstocks/requests-magpie
 	branch = refs/heads/master
+[submodule "sagemaker-tensorflow-container"]
+	url = https://github.com/conda-forge/sagemaker-tensorflow-container-feedstock.git
+	path = feedstocks/sagemaker-tensorflow-container
+	branch = refs/heads/master
