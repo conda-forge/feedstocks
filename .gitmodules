@@ -33514,3 +33514,7 @@
 	url = https://github.com/conda-forge/graphene-sqlalchemy-feedstock.git
 	path = feedstocks/graphene-sqlalchemy
 	branch = refs/heads/master
+[submodule "requests-magpie"]
+	url = https://github.com/conda-forge/requests-magpie-feedstock.git
+	path = feedstocks/requests-magpie
+	branch = refs/heads/master
