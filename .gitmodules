@@ -33522,3 +33522,7 @@
 	url = https://github.com/conda-forge/sagemaker-tensorflow-container-feedstock.git
 	path = feedstocks/sagemaker-tensorflow-container
 	branch = refs/heads/master
+[submodule "sagemaker-pytorch-container"]
+	url = https://github.com/conda-forge/sagemaker-pytorch-container-feedstock.git
+	path = feedstocks/sagemaker-pytorch-container
+	branch = refs/heads/master
