@@ -33534,3 +33534,7 @@
 	url = https://github.com/conda-forge/hip-feedstock.git
 	path = feedstocks/hip
 	branch = refs/heads/master
+[submodule "neurotic"]
+	url = https://github.com/conda-forge/neurotic-feedstock.git
+	path = feedstocks/neurotic
+	branch = refs/heads/master
