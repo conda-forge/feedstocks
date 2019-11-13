@@ -33550,3 +33550,7 @@
 	url = https://github.com/conda-forge/fmt-feedstock.git
 	path = feedstocks/fmt
 	branch = refs/heads/master
+[submodule "sos-rmarkdown"]
+	url = https://github.com/conda-forge/sos-rmarkdown-feedstock.git
+	path = feedstocks/sos-rmarkdown
+	branch = refs/heads/master
