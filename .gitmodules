@@ -33538,3 +33538,7 @@
 	url = https://github.com/conda-forge/neurotic-feedstock.git
 	path = feedstocks/neurotic
 	branch = refs/heads/master
+[submodule "s3path"]
+	url = https://github.com/conda-forge/s3path-feedstock.git
+	path = feedstocks/s3path
+	branch = refs/heads/master
