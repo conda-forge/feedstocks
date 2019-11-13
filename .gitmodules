@@ -33542,3 +33542,7 @@
 	url = https://github.com/conda-forge/s3path-feedstock.git
 	path = feedstocks/s3path
 	branch = refs/heads/master
+[submodule "slackbot"]
+	url = https://github.com/conda-forge/slackbot-feedstock.git
+	path = feedstocks/slackbot
+	branch = refs/heads/master
