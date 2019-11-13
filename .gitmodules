@@ -33546,3 +33546,7 @@
 	url = https://github.com/conda-forge/slackbot-feedstock.git
 	path = feedstocks/slackbot
 	branch = refs/heads/master
+[submodule "fmt"]
+	url = https://github.com/conda-forge/fmt-feedstock.git
+	path = feedstocks/fmt
+	branch = refs/heads/master
