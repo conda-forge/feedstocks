@@ -33566,3 +33566,7 @@
 	url = https://github.com/conda-forge/rclone-feedstock.git
 	path = feedstocks/rclone
 	branch = refs/heads/master
+[submodule "recordtype"]
+	url = https://github.com/conda-forge/recordtype-feedstock.git
+	path = feedstocks/recordtype
+	branch = refs/heads/master
