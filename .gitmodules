@@ -33574,3 +33574,7 @@
 	url = https://github.com/conda-forge/hdf5-external-filter-plugins-feedstock.git
 	path = feedstocks/hdf5-external-filter-plugins
 	branch = refs/heads/master
+[submodule "validators"]
+	url = https://github.com/conda-forge/validators-feedstock.git
+	path = feedstocks/validators
+	branch = refs/heads/master
