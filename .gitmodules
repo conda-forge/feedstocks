@@ -33570,3 +33570,7 @@
 	url = https://github.com/conda-forge/recordtype-feedstock.git
 	path = feedstocks/recordtype
 	branch = refs/heads/master
+[submodule "hdf5-external-filter-plugins"]
+	url = https://github.com/conda-forge/hdf5-external-filter-plugins-feedstock.git
+	path = feedstocks/hdf5-external-filter-plugins
+	branch = refs/heads/master
