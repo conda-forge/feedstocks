@@ -33578,3 +33578,7 @@
 	url = https://github.com/conda-forge/validators-feedstock.git
 	path = feedstocks/validators
 	branch = refs/heads/master
+[submodule "pulseaudio"]
+	url = https://github.com/conda-forge/pulseaudio-feedstock.git
+	path = feedstocks/pulseaudio
+	branch = refs/heads/master
