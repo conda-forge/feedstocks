@@ -33558,3 +33558,7 @@
 	url = https://github.com/conda-forge/rocm-cmake-feedstock.git
 	path = feedstocks/rocm-cmake
 	branch = refs/heads/master
+[submodule "jaeger"]
+	url = https://github.com/conda-forge/jaeger-feedstock.git
+	path = feedstocks/jaeger
+	branch = refs/heads/master
