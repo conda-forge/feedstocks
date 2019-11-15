@@ -33602,3 +33602,7 @@
 	url = https://github.com/conda-forge/ladspa-feedstock.git
 	path = feedstocks/ladspa
 	branch = refs/heads/master
+[submodule "sphinx-js"]
+	url = https://github.com/conda-forge/sphinx-js-feedstock.git
+	path = feedstocks/sphinx-js
+	branch = refs/heads/master
