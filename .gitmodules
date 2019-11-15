@@ -33606,3 +33606,7 @@
 	url = https://github.com/conda-forge/sphinx-js-feedstock.git
 	path = feedstocks/sphinx-js
 	branch = refs/heads/master
+[submodule "lensfun"]
+	url = https://github.com/conda-forge/lensfun-feedstock.git
+	path = feedstocks/lensfun
+	branch = refs/heads/master
