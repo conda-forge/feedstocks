@@ -33622,3 +33622,7 @@
 	url = https://github.com/conda-forge/mockextras-feedstock.git
 	path = feedstocks/mockextras
 	branch = refs/heads/master
+[submodule "foonathan-memory"]
+	url = https://github.com/conda-forge/foonathan-memory-feedstock.git
+	path = feedstocks/foonathan-memory
+	branch = refs/heads/master
