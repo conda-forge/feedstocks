@@ -33598,3 +33598,7 @@
 	url = https://github.com/conda-forge/h3-py-feedstock.git
 	path = feedstocks/h3-py
 	branch = refs/heads/master
+[submodule "ladspa"]
+	url = https://github.com/conda-forge/ladspa-feedstock.git
+	path = feedstocks/ladspa
+	branch = refs/heads/master
