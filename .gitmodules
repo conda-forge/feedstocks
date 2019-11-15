@@ -33582,3 +33582,7 @@
 	url = https://github.com/conda-forge/pulseaudio-feedstock.git
 	path = feedstocks/pulseaudio
 	branch = refs/heads/master
+[submodule "pytest-session2file"]
+	url = https://github.com/conda-forge/pytest-session2file-feedstock.git
+	path = feedstocks/pytest-session2file
+	branch = refs/heads/master
