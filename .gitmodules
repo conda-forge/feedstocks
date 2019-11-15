@@ -33594,3 +33594,7 @@
 	url = https://github.com/conda-forge/numba-scipy-feedstock.git
 	path = feedstocks/numba-scipy
 	branch = refs/heads/master
+[submodule "h3-py"]
+	url = https://github.com/conda-forge/h3-py-feedstock.git
+	path = feedstocks/h3-py
+	branch = refs/heads/master
