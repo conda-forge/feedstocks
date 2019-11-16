@@ -33642,3 +33642,7 @@
 	url = https://github.com/conda-forge/conda-standalone-feedstock.git
 	path = feedstocks/conda-standalone
 	branch = refs/heads/master
+[submodule "pubchempy"]
+	url = https://github.com/conda-forge/pubchempy-feedstock.git
+	path = feedstocks/pubchempy
+	branch = refs/heads/master
