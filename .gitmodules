@@ -33626,3 +33626,7 @@
 	url = https://github.com/conda-forge/foonathan-memory-feedstock.git
 	path = feedstocks/foonathan-memory
 	branch = refs/heads/master
+[submodule "uncrustify"]
+	url = https://github.com/conda-forge/uncrustify-feedstock.git
+	path = feedstocks/uncrustify
+	branch = refs/heads/master
