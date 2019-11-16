@@ -33638,3 +33638,7 @@
 	url = https://github.com/conda-forge/menpo3d-feedstock.git
 	path = feedstocks/menpo3d
 	branch = refs/heads/master
+[submodule "conda-standalone"]
+	url = https://github.com/conda-forge/conda-standalone-feedstock.git
+	path = feedstocks/conda-standalone
+	branch = refs/heads/master
