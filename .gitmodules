@@ -33634,3 +33634,7 @@
 	url = https://github.com/conda-forge/r-leaflet.providers-feedstock.git
 	path = feedstocks/r-leaflet.providers
 	branch = refs/heads/master
+[submodule "menpo3d"]
+	url = https://github.com/conda-forge/menpo3d-feedstock.git
+	path = feedstocks/menpo3d
+	branch = refs/heads/master
