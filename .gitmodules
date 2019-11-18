@@ -33662,3 +33662,7 @@
 	url = https://github.com/conda-forge/bake-feedstock.git
 	path = feedstocks/bake
 	branch = refs/heads/master
+[submodule "r-bigassertr"]
+	url = https://github.com/conda-forge/r-bigassertr-feedstock.git
+	path = feedstocks/r-bigassertr
+	branch = refs/heads/master
