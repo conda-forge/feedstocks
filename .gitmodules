@@ -33682,3 +33682,7 @@
 	url = https://github.com/conda-forge/hdf5plugin-feedstock.git
 	path = feedstocks/hdf5plugin
 	branch = refs/heads/master
+[submodule "docopt.cpp"]
+	url = https://github.com/conda-forge/docopt.cpp-feedstock.git
+	path = feedstocks/docopt.cpp
+	branch = refs/heads/master
