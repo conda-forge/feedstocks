@@ -33674,3 +33674,7 @@
 	url = https://github.com/conda-forge/xmle-feedstock.git
 	path = feedstocks/xmle
 	branch = refs/heads/master
+[submodule "skyfield-data"]
+	url = https://github.com/conda-forge/skyfield-data-feedstock.git
+	path = feedstocks/skyfield-data
+	branch = refs/heads/master
