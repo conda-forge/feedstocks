@@ -33678,3 +33678,7 @@
 	url = https://github.com/conda-forge/skyfield-data-feedstock.git
 	path = feedstocks/skyfield-data
 	branch = refs/heads/master
+[submodule "hdf5plugin"]
+	url = https://github.com/conda-forge/hdf5plugin-feedstock.git
+	path = feedstocks/hdf5plugin
+	branch = refs/heads/master
