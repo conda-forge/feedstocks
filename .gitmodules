@@ -33654,3 +33654,7 @@
 	url = https://github.com/conda-forge/bash-completion-feedstock.git
 	path = feedstocks/bash-completion
 	branch = refs/heads/master
+[submodule "openapi-spec-validator"]
+	url = https://github.com/conda-forge/openapi-spec-validator-feedstock.git
+	path = feedstocks/openapi-spec-validator
+	branch = refs/heads/master
