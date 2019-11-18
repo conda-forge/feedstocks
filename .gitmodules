@@ -33686,3 +33686,7 @@
 	url = https://github.com/conda-forge/docopt.cpp-feedstock.git
 	path = feedstocks/docopt.cpp
 	branch = refs/heads/master
+[submodule "imagecodecs-lite"]
+	url = https://github.com/conda-forge/imagecodecs-lite-feedstock.git
+	path = feedstocks/imagecodecs-lite
+	branch = refs/heads/master
