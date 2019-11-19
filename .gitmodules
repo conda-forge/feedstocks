@@ -33774,3 +33774,7 @@
 	url = https://github.com/conda-forge/stringcase-feedstock.git
 	path = feedstocks/stringcase
 	branch = refs/heads/master
+[submodule "netcdf-cxx-legacy"]
+	url = https://github.com/conda-forge/netcdf-cxx-legacy-feedstock.git
+	path = feedstocks/netcdf-cxx-legacy
+	branch = refs/heads/master
