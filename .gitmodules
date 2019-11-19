@@ -33730,3 +33730,7 @@
 	url = https://github.com/conda-forge/ki18n-feedstock.git
 	path = feedstocks/ki18n
 	branch = refs/heads/master
+[submodule "pyprof2calltree"]
+	url = https://github.com/conda-forge/pyprof2calltree-feedstock.git
+	path = feedstocks/pyprof2calltree
+	branch = refs/heads/master
