@@ -33746,3 +33746,7 @@
 	url = https://github.com/conda-forge/kcoreaddons-feedstock.git
 	path = feedstocks/kcoreaddons
 	branch = refs/heads/master
+[submodule "kcodecs"]
+	url = https://github.com/conda-forge/kcodecs-feedstock.git
+	path = feedstocks/kcodecs
+	branch = refs/heads/master
