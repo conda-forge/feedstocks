@@ -33706,3 +33706,7 @@
 	url = https://github.com/conda-forge/r-effectsize-feedstock.git
 	path = feedstocks/r-effectsize
 	branch = refs/heads/master
+[submodule "r-wordspace"]
+	url = https://github.com/conda-forge/r-wordspace-feedstock.git
+	path = feedstocks/r-wordspace
+	branch = refs/heads/master
