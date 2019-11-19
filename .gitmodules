@@ -33754,3 +33754,7 @@
 	url = https://github.com/conda-forge/kconfig-feedstock.git
 	path = feedstocks/kconfig
 	branch = refs/heads/master
+[submodule "kauth"]
+	url = https://github.com/conda-forge/kauth-feedstock.git
+	path = feedstocks/kauth
+	branch = refs/heads/master
