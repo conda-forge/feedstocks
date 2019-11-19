@@ -33770,3 +33770,7 @@
 	url = https://github.com/conda-forge/omniscidb-cuda-feedstock.git
 	path = feedstocks/omniscidb-cuda
 	branch = refs/heads/master
+[submodule "stringcase"]
+	url = https://github.com/conda-forge/stringcase-feedstock.git
+	path = feedstocks/stringcase
+	branch = refs/heads/master
