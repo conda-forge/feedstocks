@@ -33722,3 +33722,7 @@
 	url = https://github.com/conda-forge/graphblas-feedstock.git
 	path = feedstocks/graphblas
 	branch = refs/heads/master
+[submodule "mongoose"]
+	url = https://github.com/conda-forge/mongoose-feedstock.git
+	path = feedstocks/mongoose
+	branch = refs/heads/master
