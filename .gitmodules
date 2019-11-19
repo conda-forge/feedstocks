@@ -33710,3 +33710,7 @@
 	url = https://github.com/conda-forge/r-wordspace-feedstock.git
 	path = feedstocks/r-wordspace
 	branch = refs/heads/master
+[submodule "r-bigreadr"]
+	url = https://github.com/conda-forge/r-bigreadr-feedstock.git
+	path = feedstocks/r-bigreadr
+	branch = refs/heads/master
