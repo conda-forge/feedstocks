@@ -33738,3 +33738,7 @@
 	url = https://github.com/conda-forge/karchive-feedstock.git
 	path = feedstocks/karchive
 	branch = refs/heads/master
+[submodule "kguiaddons"]
+	url = https://github.com/conda-forge/kguiaddons-feedstock.git
+	path = feedstocks/kguiaddons
+	branch = refs/heads/master
