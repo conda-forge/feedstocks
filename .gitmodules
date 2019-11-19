@@ -33718,3 +33718,7 @@
 	url = https://github.com/conda-forge/python-paragraph-feedstock.git
 	path = feedstocks/python-paragraph
 	branch = refs/heads/master
+[submodule "graphblas"]
+	url = https://github.com/conda-forge/graphblas-feedstock.git
+	path = feedstocks/graphblas
+	branch = refs/heads/master
