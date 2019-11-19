@@ -33698,3 +33698,7 @@
 	url = https://github.com/conda-forge/extra-cmake-modules-feedstock.git
 	path = feedstocks/extra-cmake-modules
 	branch = refs/heads/master
+[submodule "scmdata"]
+	url = https://github.com/conda-forge/scmdata-feedstock.git
+	path = feedstocks/scmdata
+	branch = refs/heads/master
