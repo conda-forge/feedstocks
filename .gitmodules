@@ -33694,3 +33694,7 @@
 	url = https://github.com/conda-forge/threddsclient-feedstock.git
 	path = feedstocks/threddsclient
 	branch = refs/heads/master
+[submodule "extra-cmake-modules"]
+	url = https://github.com/conda-forge/extra-cmake-modules-feedstock.git
+	path = feedstocks/extra-cmake-modules
+	branch = refs/heads/master
