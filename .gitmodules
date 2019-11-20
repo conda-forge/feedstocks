@@ -33810,3 +33810,7 @@
 	url = https://github.com/conda-forge/kiconthemes-feedstock.git
 	path = feedstocks/kiconthemes
 	branch = refs/heads/master
+[submodule "xcb-util-keysyms"]
+	url = https://github.com/conda-forge/xcb-util-keysyms-feedstock.git
+	path = feedstocks/xcb-util-keysyms
+	branch = refs/heads/master
