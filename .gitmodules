@@ -33814,3 +33814,7 @@
 	url = https://github.com/conda-forge/xcb-util-keysyms-feedstock.git
 	path = feedstocks/xcb-util-keysyms
 	branch = refs/heads/master
+[submodule "astropy-helpers"]
+	url = https://github.com/conda-forge/astropy-helpers-feedstock.git
+	path = feedstocks/astropy-helpers
+	branch = refs/heads/master
