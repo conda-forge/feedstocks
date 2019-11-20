@@ -33826,3 +33826,7 @@
 	url = https://github.com/conda-forge/meshio-feedstock.git
 	path = feedstocks/meshio
 	branch = refs/heads/master
+[submodule "kcompletion"]
+	url = https://github.com/conda-forge/kcompletion-feedstock.git
+	path = feedstocks/kcompletion
+	branch = refs/heads/master
