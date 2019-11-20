@@ -33794,3 +33794,7 @@
 	url = https://github.com/conda-forge/palpy-feedstock.git
 	path = feedstocks/palpy
 	branch = refs/heads/master
+[submodule "conda-merge"]
+	url = https://github.com/conda-forge/conda-merge-feedstock.git
+	path = feedstocks/conda-merge
+	branch = refs/heads/master
