@@ -33822,3 +33822,7 @@
 	url = https://github.com/conda-forge/xcb-util-feedstock.git
 	path = feedstocks/xcb-util
 	branch = refs/heads/master
+[submodule "meshio"]
+	url = https://github.com/conda-forge/meshio-feedstock.git
+	path = feedstocks/meshio
+	branch = refs/heads/master
