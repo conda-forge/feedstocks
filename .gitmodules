@@ -33854,3 +33854,7 @@
 	url = https://github.com/conda-forge/kcrash-feedstock.git
 	path = feedstocks/kcrash
 	branch = refs/heads/master
+[submodule "solid"]
+	url = https://github.com/conda-forge/solid-feedstock.git
+	path = feedstocks/solid
+	branch = refs/heads/master
