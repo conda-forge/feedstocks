@@ -33850,3 +33850,7 @@
 	url = https://github.com/conda-forge/sonnet-feedstock.git
 	path = feedstocks/sonnet
 	branch = refs/heads/master
+[submodule "kcrash"]
+	url = https://github.com/conda-forge/kcrash-feedstock.git
+	path = feedstocks/kcrash
+	branch = refs/heads/master
