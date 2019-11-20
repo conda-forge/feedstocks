@@ -33846,3 +33846,7 @@
 	url = https://github.com/conda-forge/kwindowsystem-feedstock.git
 	path = feedstocks/kwindowsystem
 	branch = refs/heads/master
+[submodule "sonnet"]
+	url = https://github.com/conda-forge/sonnet-feedstock.git
+	path = feedstocks/sonnet
+	branch = refs/heads/master
