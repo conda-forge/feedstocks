@@ -33858,3 +33858,7 @@
 	url = https://github.com/conda-forge/solid-feedstock.git
 	path = feedstocks/solid
 	branch = refs/heads/master
+[submodule "attica"]
+	url = https://github.com/conda-forge/attica-feedstock.git
+	path = feedstocks/attica
+	branch = refs/heads/master
