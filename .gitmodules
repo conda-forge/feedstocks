@@ -33866,3 +33866,7 @@
 	url = https://github.com/conda-forge/arch-py-feedstock.git
 	path = feedstocks/arch-py
 	branch = refs/heads/master
+[submodule "kservice"]
+	url = https://github.com/conda-forge/kservice-feedstock.git
+	path = feedstocks/kservice
+	branch = refs/heads/master
