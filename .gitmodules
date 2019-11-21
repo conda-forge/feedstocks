@@ -33906,3 +33906,7 @@
 	url = https://github.com/conda-forge/uhd-feedstock.git
 	path = feedstocks/uhd
 	branch = refs/heads/master
+[submodule "phonon"]
+	url = https://github.com/conda-forge/phonon-feedstock.git
+	path = feedstocks/phonon
+	branch = refs/heads/master
