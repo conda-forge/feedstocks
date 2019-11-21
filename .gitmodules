@@ -33902,3 +33902,7 @@
 	url = https://github.com/conda-forge/kjobwidgets-feedstock.git
 	path = feedstocks/kjobwidgets
 	branch = refs/heads/master
+[submodule "uhd"]
+	url = https://github.com/conda-forge/uhd-feedstock.git
+	path = feedstocks/uhd
+	branch = refs/heads/master
