@@ -33870,3 +33870,7 @@
 	url = https://github.com/conda-forge/kservice-feedstock.git
 	path = feedstocks/kservice
 	branch = refs/heads/master
+[submodule "conda-bash-completion"]
+	url = https://github.com/conda-forge/conda-bash-completion-feedstock.git
+	path = feedstocks/conda-bash-completion
+	branch = refs/heads/master
