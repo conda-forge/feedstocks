@@ -33926,3 +33926,7 @@
 	url = https://github.com/conda-forge/kirigami2-feedstock.git
 	path = feedstocks/kirigami2
 	branch = refs/heads/master
+[submodule "kpackage"]
+	url = https://github.com/conda-forge/kpackage-feedstock.git
+	path = feedstocks/kpackage
+	branch = refs/heads/master
