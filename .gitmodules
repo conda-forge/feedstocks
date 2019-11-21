@@ -33938,3 +33938,7 @@
 	url = https://github.com/conda-forge/toad-feedstock.git
 	path = feedstocks/toad
 	branch = refs/heads/master
+[submodule "ogs5py"]
+	url = https://github.com/conda-forge/ogs5py-feedstock.git
+	path = feedstocks/ogs5py
+	branch = refs/heads/master
