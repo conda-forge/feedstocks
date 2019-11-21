@@ -33950,3 +33950,7 @@
 	url = https://github.com/conda-forge/purpose-feedstock.git
 	path = feedstocks/purpose
 	branch = refs/heads/master
+[submodule "gstools"]
+	url = https://github.com/conda-forge/gstools-feedstock.git
+	path = feedstocks/gstools
+	branch = refs/heads/master
