@@ -33934,3 +33934,7 @@
 	url = https://github.com/conda-forge/kio-feedstock.git
 	path = feedstocks/kio
 	branch = refs/heads/master
+[submodule "toad"]
+	url = https://github.com/conda-forge/toad-feedstock.git
+	path = feedstocks/toad
+	branch = refs/heads/master
