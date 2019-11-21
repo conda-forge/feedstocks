@@ -33882,3 +33882,7 @@
 	url = https://github.com/conda-forge/hankel-feedstock.git
 	path = feedstocks/hankel
 	branch = refs/heads/master
+[submodule "selectors2"]
+	url = https://github.com/conda-forge/selectors2-feedstock.git
+	path = feedstocks/selectors2
+	branch = refs/heads/master
