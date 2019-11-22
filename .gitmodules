@@ -33966,3 +33966,7 @@
 	url = https://github.com/conda-forge/spleeter-gpu-feedstock.git
 	path = feedstocks/spleeter-gpu
 	branch = refs/heads/master
+[submodule "ipymesh"]
+	url = https://github.com/conda-forge/ipymesh-feedstock.git
+	path = feedstocks/ipymesh
+	branch = refs/heads/master
