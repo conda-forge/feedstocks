@@ -33978,3 +33978,7 @@
 	url = https://github.com/conda-forge/kdenlive-feedstock.git
 	path = feedstocks/kdenlive
 	branch = refs/heads/master
+[submodule "google-cloud-pubsub"]
+	url = https://github.com/conda-forge/google-cloud-pubsub-feedstock.git
+	path = feedstocks/google-cloud-pubsub
+	branch = refs/heads/master
