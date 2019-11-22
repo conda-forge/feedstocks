@@ -33982,3 +33982,7 @@
 	url = https://github.com/conda-forge/google-cloud-pubsub-feedstock.git
 	path = feedstocks/google-cloud-pubsub
 	branch = refs/heads/master
+[submodule "cppcolormap"]
+	url = https://github.com/conda-forge/cppcolormap-feedstock.git
+	path = feedstocks/cppcolormap
+	branch = refs/heads/master
