@@ -33962,3 +33962,7 @@
 	url = https://github.com/conda-forge/kdeclarative-feedstock.git
 	path = feedstocks/kdeclarative
 	branch = refs/heads/master
+[submodule "spleeter-gpu"]
+	url = https://github.com/conda-forge/spleeter-gpu-feedstock.git
+	path = feedstocks/spleeter-gpu
+	branch = refs/heads/master
