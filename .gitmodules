@@ -33994,3 +33994,7 @@
 	url = https://github.com/conda-forge/larch-feedstock.git
 	path = feedstocks/larch
 	branch = refs/heads/master
+[submodule "ipylab"]
+	url = https://github.com/conda-forge/ipylab-feedstock.git
+	path = feedstocks/ipylab
+	branch = refs/heads/master
