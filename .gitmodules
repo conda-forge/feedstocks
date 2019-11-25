@@ -34022,3 +34022,7 @@
 	url = https://github.com/conda-forge/r-chorddiag-feedstock.git
 	path = feedstocks/r-chorddiag
 	branch = refs/heads/master
+[submodule "contrib_colormaps"]
+	url = https://github.com/conda-forge/contrib_colormaps-feedstock.git
+	path = feedstocks/contrib_colormaps
+	branch = refs/heads/master
