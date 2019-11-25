@@ -34018,3 +34018,7 @@
 	url = https://github.com/conda-forge/configs-feedstock.git
 	path = feedstocks/configs
 	branch = refs/heads/master
+[submodule "r-chorddiag"]
+	url = https://github.com/conda-forge/r-chorddiag-feedstock.git
+	path = feedstocks/r-chorddiag
+	branch = refs/heads/master
