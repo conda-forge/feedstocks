@@ -34010,3 +34010,7 @@
 	url = https://github.com/conda-forge/gooseeye-feedstock.git
 	path = feedstocks/gooseeye
 	branch = refs/heads/master
+[submodule "extern"]
+	url = https://github.com/conda-forge/extern-feedstock.git
+	path = feedstocks/extern
+	branch = refs/heads/master
