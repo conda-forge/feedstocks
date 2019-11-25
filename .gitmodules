@@ -34014,3 +34014,7 @@
 	url = https://github.com/conda-forge/extern-feedstock.git
 	path = feedstocks/extern
 	branch = refs/heads/master
+[submodule "configs"]
+	url = https://github.com/conda-forge/configs-feedstock.git
+	path = feedstocks/configs
+	branch = refs/heads/master
