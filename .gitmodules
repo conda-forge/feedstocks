@@ -34038,3 +34038,7 @@
 	url = https://github.com/conda-forge/dagster_datadog-feedstock.git
 	path = feedstocks/dagster_datadog
 	branch = refs/heads/master
+[submodule "dagster_dask"]
+	url = https://github.com/conda-forge/dagster_dask-feedstock.git
+	path = feedstocks/dagster_dask
+	branch = refs/heads/master
