@@ -34202,3 +34202,7 @@
 	url = https://github.com/conda-forge/r-optimalcutpoints-feedstock.git
 	path = feedstocks/r-optimalcutpoints
 	branch = refs/heads/master
+[submodule "winflexbison"]
+	url = https://github.com/conda-forge/winflexbison-feedstock.git
+	path = feedstocks/winflexbison
+	branch = refs/heads/master
