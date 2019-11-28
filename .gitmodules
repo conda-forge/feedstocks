@@ -34042,3 +34042,7 @@
 	url = https://github.com/conda-forge/dagster_dask-feedstock.git
 	path = feedstocks/dagster_dask
 	branch = refs/heads/master
+[submodule "dagit"]
+	url = https://github.com/conda-forge/dagit-feedstock.git
+	path = feedstocks/dagit
+	branch = refs/heads/master
