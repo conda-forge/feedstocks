@@ -34138,3 +34138,7 @@
 	url = https://github.com/conda-forge/dagster_pandas-feedstock.git
 	path = feedstocks/dagster_pandas
 	branch = refs/heads/master
+[submodule "dagster_ssh"]
+	url = https://github.com/conda-forge/dagster_ssh-feedstock.git
+	path = feedstocks/dagster_ssh
+	branch = refs/heads/master
