@@ -34070,3 +34070,7 @@
 	url = https://github.com/conda-forge/python-cppcolormap-feedstock.git
 	path = feedstocks/python-cppcolormap
 	branch = refs/heads/master
+[submodule "dagster_graphql"]
+	url = https://github.com/conda-forge/dagster_graphql-feedstock.git
+	path = feedstocks/dagster_graphql
+	branch = refs/heads/master
