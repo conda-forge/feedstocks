@@ -34130,3 +34130,7 @@
 	url = https://github.com/conda-forge/dagster_pagerduty-feedstock.git
 	path = feedstocks/dagster_pagerduty
 	branch = refs/heads/master
+[submodule "gnuradio"]
+	url = https://github.com/conda-forge/gnuradio-feedstock.git
+	path = feedstocks/gnuradio
+	branch = refs/heads/master
