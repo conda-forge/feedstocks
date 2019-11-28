@@ -34154,3 +34154,7 @@
 	url = https://github.com/conda-forge/dagster_postgres-feedstock.git
 	path = feedstocks/dagster_postgres
 	branch = refs/heads/master
+[submodule "dagster_twilio"]
+	url = https://github.com/conda-forge/dagster_twilio-feedstock.git
+	path = feedstocks/dagster_twilio
+	branch = refs/heads/master
