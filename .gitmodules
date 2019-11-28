@@ -34158,3 +34158,7 @@
 	url = https://github.com/conda-forge/dagster_twilio-feedstock.git
 	path = feedstocks/dagster_twilio
 	branch = refs/heads/master
+[submodule "wrfcube"]
+	url = https://github.com/conda-forge/wrfcube-feedstock.git
+	path = feedstocks/wrfcube
+	branch = refs/heads/master
