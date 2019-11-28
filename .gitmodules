@@ -34178,3 +34178,7 @@
 	url = https://github.com/conda-forge/dagster_cron-feedstock.git
 	path = feedstocks/dagster_cron
 	branch = refs/heads/master
+[submodule "reuse"]
+	url = https://github.com/conda-forge/reuse-feedstock.git
+	path = feedstocks/reuse
+	branch = refs/heads/master
