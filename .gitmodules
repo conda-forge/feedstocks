@@ -34074,3 +34074,7 @@
 	url = https://github.com/conda-forge/dagster_graphql-feedstock.git
 	path = feedstocks/dagster_graphql
 	branch = refs/heads/master
+[submodule "museval"]
+	url = https://github.com/conda-forge/museval-feedstock.git
+	path = feedstocks/museval
+	branch = refs/heads/master
