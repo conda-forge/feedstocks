@@ -34082,3 +34082,7 @@
 	url = https://github.com/conda-forge/pdf2svg-feedstock.git
 	path = feedstocks/pdf2svg
 	branch = refs/heads/master
+[submodule "dagster_pyspark"]
+	url = https://github.com/conda-forge/dagster_pyspark-feedstock.git
+	path = feedstocks/dagster_pyspark
+	branch = refs/heads/master
