@@ -34102,3 +34102,7 @@
 	url = https://github.com/conda-forge/dagster_snowflake-feedstock.git
 	path = feedstocks/dagster_snowflake
 	branch = refs/heads/master
+[submodule "r-lbfgs"]
+	url = https://github.com/conda-forge/r-lbfgs-feedstock.git
+	path = feedstocks/r-lbfgs
+	branch = refs/heads/master
