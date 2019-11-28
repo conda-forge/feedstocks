@@ -34106,3 +34106,7 @@
 	url = https://github.com/conda-forge/r-lbfgs-feedstock.git
 	path = feedstocks/r-lbfgs
 	branch = refs/heads/master
+[submodule "pywinusb"]
+	url = https://github.com/conda-forge/pywinusb-feedstock.git
+	path = feedstocks/pywinusb
+	branch = refs/heads/master
