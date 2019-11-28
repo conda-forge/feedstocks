@@ -34062,3 +34062,7 @@
 	url = https://github.com/conda-forge/dagster-feedstock.git
 	path = feedstocks/dagster
 	branch = refs/heads/master
+[submodule "pdfcombine"]
+	url = https://github.com/conda-forge/pdfcombine-feedstock.git
+	path = feedstocks/pdfcombine
+	branch = refs/heads/master
