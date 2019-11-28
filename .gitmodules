@@ -34146,3 +34146,7 @@
 	url = https://github.com/conda-forge/dagster_bash-feedstock.git
 	path = feedstocks/dagster_bash
 	branch = refs/heads/master
+[submodule "dagster_papertrail"]
+	url = https://github.com/conda-forge/dagster_papertrail-feedstock.git
+	path = feedstocks/dagster_papertrail
+	branch = refs/heads/master
