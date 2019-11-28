@@ -34186,3 +34186,7 @@
 	url = https://github.com/conda-forge/fastpca-feedstock.git
 	path = feedstocks/fastpca
 	branch = refs/heads/master
+[submodule "argparse-manpage"]
+	url = https://github.com/conda-forge/argparse-manpage-feedstock.git
+	path = feedstocks/argparse-manpage
+	branch = refs/heads/master
