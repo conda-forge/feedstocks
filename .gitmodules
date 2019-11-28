@@ -34094,3 +34094,7 @@
 	url = https://github.com/conda-forge/ramscube-feedstock.git
 	path = feedstocks/ramscube
 	branch = refs/heads/master
+[submodule "dagster_dbt"]
+	url = https://github.com/conda-forge/dagster_dbt-feedstock.git
+	path = feedstocks/dagster_dbt
+	branch = refs/heads/master
