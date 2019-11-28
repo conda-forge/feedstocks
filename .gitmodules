@@ -34206,3 +34206,7 @@
 	url = https://github.com/conda-forge/winflexbison-feedstock.git
 	path = feedstocks/winflexbison
 	branch = refs/heads/master
+[submodule "click-aliases"]
+	url = https://github.com/conda-forge/click-aliases-feedstock.git
+	path = feedstocks/click-aliases
+	branch = refs/heads/master
