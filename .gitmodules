@@ -34046,3 +34046,7 @@
 	url = https://github.com/conda-forge/dagit-feedstock.git
 	path = feedstocks/dagit
 	branch = refs/heads/master
+[submodule "minimalmodbus"]
+	url = https://github.com/conda-forge/minimalmodbus-feedstock.git
+	path = feedstocks/minimalmodbus
+	branch = refs/heads/master
