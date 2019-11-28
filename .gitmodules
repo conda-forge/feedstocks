@@ -34026,3 +34026,7 @@
 	url = https://github.com/conda-forge/contrib_colormaps-feedstock.git
 	path = feedstocks/contrib_colormaps
 	branch = refs/heads/master
+[submodule "r-rjdbc"]
+	url = https://github.com/conda-forge/r-rjdbc-feedstock.git
+	path = feedstocks/r-rjdbc
+	branch = refs/heads/master
