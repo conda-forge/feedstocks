@@ -34086,3 +34086,7 @@
 	url = https://github.com/conda-forge/dagster_pyspark-feedstock.git
 	path = feedstocks/dagster_pyspark
 	branch = refs/heads/master
+[submodule "flask-sockets"]
+	url = https://github.com/conda-forge/flask-sockets-feedstock.git
+	path = feedstocks/flask-sockets
+	branch = refs/heads/master
