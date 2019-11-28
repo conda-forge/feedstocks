@@ -34126,3 +34126,7 @@
 	url = https://github.com/conda-forge/dagster_ge-feedstock.git
 	path = feedstocks/dagster_ge
 	branch = refs/heads/master
+[submodule "dagster_pagerduty"]
+	url = https://github.com/conda-forge/dagster_pagerduty-feedstock.git
+	path = feedstocks/dagster_pagerduty
+	branch = refs/heads/master
