@@ -34090,3 +34090,7 @@
 	url = https://github.com/conda-forge/flask-sockets-feedstock.git
 	path = feedstocks/flask-sockets
 	branch = refs/heads/master
+[submodule "ramscube"]
+	url = https://github.com/conda-forge/ramscube-feedstock.git
+	path = feedstocks/ramscube
+	branch = refs/heads/master
