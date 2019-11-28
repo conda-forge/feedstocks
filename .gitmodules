@@ -34118,3 +34118,7 @@
 	url = https://github.com/conda-forge/code-server-feedstock.git
 	path = feedstocks/code-server
 	branch = refs/heads/master
+[submodule "dagster_spark"]
+	url = https://github.com/conda-forge/dagster_spark-feedstock.git
+	path = feedstocks/dagster_spark
+	branch = refs/heads/master
