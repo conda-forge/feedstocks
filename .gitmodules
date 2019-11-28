@@ -34034,3 +34034,7 @@
 	url = https://github.com/conda-forge/r-tabulizerjars-feedstock.git
 	path = feedstocks/r-tabulizerjars
 	branch = refs/heads/master
+[submodule "dagster_datadog"]
+	url = https://github.com/conda-forge/dagster_datadog-feedstock.git
+	path = feedstocks/dagster_datadog
+	branch = refs/heads/master
