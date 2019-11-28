@@ -34174,3 +34174,7 @@
 	url = https://github.com/conda-forge/pixiedust-feedstock.git
 	path = feedstocks/pixiedust
 	branch = refs/heads/master
+[submodule "dagster_cron"]
+	url = https://github.com/conda-forge/dagster_cron-feedstock.git
+	path = feedstocks/dagster_cron
+	branch = refs/heads/master
