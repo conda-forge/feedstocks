@@ -34054,3 +34054,7 @@
 	url = https://github.com/conda-forge/dagster_gcp-feedstock.git
 	path = feedstocks/dagster_gcp
 	branch = refs/heads/master
+[submodule "dagster_aws"]
+	url = https://github.com/conda-forge/dagster_aws-feedstock.git
+	path = feedstocks/dagster_aws
+	branch = refs/heads/master
