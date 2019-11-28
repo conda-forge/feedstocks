@@ -34170,3 +34170,7 @@
 	url = https://github.com/conda-forge/r-tabulizer-feedstock.git
 	path = feedstocks/r-tabulizer
 	branch = refs/heads/master
+[submodule "pixiedust"]
+	url = https://github.com/conda-forge/pixiedust-feedstock.git
+	path = feedstocks/pixiedust
+	branch = refs/heads/master
