@@ -34182,3 +34182,7 @@
 	url = https://github.com/conda-forge/reuse-feedstock.git
 	path = feedstocks/reuse
 	branch = refs/heads/master
+[submodule "fastpca"]
+	url = https://github.com/conda-forge/fastpca-feedstock.git
+	path = feedstocks/fastpca
+	branch = refs/heads/master
