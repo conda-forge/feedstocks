@@ -34230,3 +34230,7 @@
 	url = https://github.com/conda-forge/mv_regex-feedstock.git
 	path = feedstocks/mv_regex
 	branch = refs/heads/master
+[submodule "goosehdf5"]
+	url = https://github.com/conda-forge/goosehdf5-feedstock.git
+	path = feedstocks/goosehdf5
+	branch = refs/heads/master
