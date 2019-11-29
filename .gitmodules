@@ -34298,3 +34298,7 @@
 	url = https://github.com/conda-forge/hg-git-feedstock.git
 	path = feedstocks/hg-git
 	branch = refs/heads/master
+[submodule "rockpool"]
+	url = https://github.com/conda-forge/rockpool-feedstock.git
+	path = feedstocks/rockpool
+	branch = refs/heads/master
