@@ -34294,3 +34294,7 @@
 	url = https://github.com/conda-forge/gmatelastoplastic-feedstock.git
 	path = feedstocks/gmatelastoplastic
 	branch = refs/heads/master
+[submodule "hg-git"]
+	url = https://github.com/conda-forge/hg-git-feedstock.git
+	path = feedstocks/hg-git
+	branch = refs/heads/master
