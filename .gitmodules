@@ -34242,3 +34242,7 @@
 	url = https://github.com/conda-forge/gooseslurm-feedstock.git
 	path = feedstocks/gooseslurm
 	branch = refs/heads/master
+[submodule "dask-cloudprovider"]
+	url = https://github.com/conda-forge/dask-cloudprovider-feedstock.git
+	path = feedstocks/dask-cloudprovider
+	branch = refs/heads/master
