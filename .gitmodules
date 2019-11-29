@@ -34222,3 +34222,7 @@
 	url = https://github.com/conda-forge/goosempl-feedstock.git
 	path = feedstocks/goosempl
 	branch = refs/heads/master
+[submodule "pdfnofonts"]
+	url = https://github.com/conda-forge/pdfnofonts-feedstock.git
+	path = feedstocks/pdfnofonts
+	branch = refs/heads/master
