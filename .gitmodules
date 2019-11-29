@@ -34286,3 +34286,7 @@
 	url = https://github.com/conda-forge/gmatnonlinearelastic-feedstock.git
 	path = feedstocks/gmatnonlinearelastic
 	branch = refs/heads/master
+[submodule "python-gmatelastic"]
+	url = https://github.com/conda-forge/python-gmatelastic-feedstock.git
+	path = feedstocks/python-gmatelastic
+	branch = refs/heads/master
