@@ -34234,3 +34234,7 @@
 	url = https://github.com/conda-forge/goosehdf5-feedstock.git
 	path = feedstocks/goosehdf5
 	branch = refs/heads/master
+[submodule "goosebib"]
+	url = https://github.com/conda-forge/goosebib-feedstock.git
+	path = feedstocks/goosebib
+	branch = refs/heads/master
