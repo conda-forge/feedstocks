@@ -34226,3 +34226,7 @@
 	url = https://github.com/conda-forge/pdfnofonts-feedstock.git
 	path = feedstocks/pdfnofonts
 	branch = refs/heads/master
+[submodule "mv_regex"]
+	url = https://github.com/conda-forge/mv_regex-feedstock.git
+	path = feedstocks/mv_regex
+	branch = refs/heads/master
