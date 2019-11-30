@@ -34306,3 +34306,7 @@
 	url = https://github.com/conda-forge/flask-dramatiq-feedstock.git
 	path = feedstocks/flask-dramatiq
 	branch = refs/heads/master
+[submodule "periodiq"]
+	url = https://github.com/conda-forge/periodiq-feedstock.git
+	path = feedstocks/periodiq
+	branch = refs/heads/master
