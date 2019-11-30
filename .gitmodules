@@ -34302,3 +34302,7 @@
 	url = https://github.com/conda-forge/rockpool-feedstock.git
 	path = feedstocks/rockpool
 	branch = refs/heads/master
+[submodule "flask-dramatiq"]
+	url = https://github.com/conda-forge/flask-dramatiq-feedstock.git
+	path = feedstocks/flask-dramatiq
+	branch = refs/heads/master
