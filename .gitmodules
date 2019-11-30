@@ -34326,3 +34326,7 @@
 	url = https://github.com/conda-forge/hilbertcurve-feedstock.git
 	path = feedstocks/hilbertcurve
 	branch = refs/heads/master
+[submodule "pypng"]
+	url = https://github.com/conda-forge/pypng-feedstock.git
+	path = feedstocks/pypng
+	branch = refs/heads/master
