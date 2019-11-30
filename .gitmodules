@@ -34314,3 +34314,7 @@
 	url = https://github.com/conda-forge/charls-feedstock.git
 	path = feedstocks/charls
 	branch = refs/heads/master
+[submodule "codemodel"]
+	url = https://github.com/conda-forge/codemodel-feedstock.git
+	path = feedstocks/codemodel
+	branch = refs/heads/master
