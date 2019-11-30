@@ -34318,3 +34318,7 @@
 	url = https://github.com/conda-forge/codemodel-feedstock.git
 	path = feedstocks/codemodel
 	branch = refs/heads/master
+[submodule "gwvet"]
+	url = https://github.com/conda-forge/gwvet-feedstock.git
+	path = feedstocks/gwvet
+	branch = refs/heads/master
