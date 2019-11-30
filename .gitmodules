@@ -34338,3 +34338,7 @@
 	url = https://github.com/conda-forge/hsluv-feedstock.git
 	path = feedstocks/hsluv
 	branch = refs/heads/master
+[submodule "bertha"]
+	url = https://github.com/conda-forge/bertha-feedstock.git
+	path = feedstocks/bertha
+	branch = refs/heads/master
