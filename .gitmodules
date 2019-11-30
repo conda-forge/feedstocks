@@ -34330,3 +34330,7 @@
 	url = https://github.com/conda-forge/pypng-feedstock.git
 	path = feedstocks/pypng
 	branch = refs/heads/master
+[submodule "cassowary"]
+	url = https://github.com/conda-forge/cassowary-feedstock.git
+	path = feedstocks/cassowary
+	branch = refs/heads/master
