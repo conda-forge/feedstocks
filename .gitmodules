@@ -34310,3 +34310,7 @@
 	url = https://github.com/conda-forge/periodiq-feedstock.git
 	path = feedstocks/periodiq
 	branch = refs/heads/master
+[submodule "charls"]
+	url = https://github.com/conda-forge/charls-feedstock.git
+	path = feedstocks/charls
+	branch = refs/heads/master
