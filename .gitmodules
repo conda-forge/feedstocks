@@ -34342,3 +34342,7 @@
 	url = https://github.com/conda-forge/bertha-feedstock.git
 	path = feedstocks/bertha
 	branch = refs/heads/master
+[submodule "_libgcc_mutex"]
+	url = https://github.com/conda-forge/_libgcc_mutex-feedstock.git
+	path = feedstocks/_libgcc_mutex
+	branch = refs/heads/master
