@@ -34366,3 +34366,7 @@
 	url = https://github.com/conda-forge/schedule-feedstock.git
 	path = feedstocks/schedule
 	branch = refs/heads/master
+[submodule "cysgp4"]
+	url = https://github.com/conda-forge/cysgp4-feedstock.git
+	path = feedstocks/cysgp4
+	branch = refs/heads/master
