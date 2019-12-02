@@ -34358,3 +34358,7 @@
 	url = https://github.com/conda-forge/objconv-feedstock.git
 	path = feedstocks/objconv
 	branch = refs/heads/master
+[submodule "gsee"]
+	url = https://github.com/conda-forge/gsee-feedstock.git
+	path = feedstocks/gsee
+	branch = refs/heads/master
