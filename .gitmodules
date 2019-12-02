@@ -34362,3 +34362,7 @@
 	url = https://github.com/conda-forge/gsee-feedstock.git
 	path = feedstocks/gsee
 	branch = refs/heads/master
+[submodule "schedule"]
+	url = https://github.com/conda-forge/schedule-feedstock.git
+	path = feedstocks/schedule
+	branch = refs/heads/master
