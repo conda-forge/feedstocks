@@ -34386,3 +34386,7 @@
 	url = https://github.com/conda-forge/pdfgrep-feedstock.git
 	path = feedstocks/pdfgrep
 	branch = refs/heads/master
+[submodule "gl2ps"]
+	url = https://github.com/conda-forge/gl2ps-feedstock.git
+	path = feedstocks/gl2ps
+	branch = refs/heads/master
