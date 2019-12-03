@@ -34390,3 +34390,7 @@
 	url = https://github.com/conda-forge/gl2ps-feedstock.git
 	path = feedstocks/gl2ps
 	branch = refs/heads/master
+[submodule "pytest-notification"]
+	url = https://github.com/conda-forge/pytest-notification-feedstock.git
+	path = feedstocks/pytest-notification
+	branch = refs/heads/master
