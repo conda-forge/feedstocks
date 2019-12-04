@@ -34406,3 +34406,7 @@
 	url = https://github.com/conda-forge/metaflow-feedstock.git
 	path = feedstocks/metaflow
 	branch = refs/heads/master
+[submodule "riskmatrix"]
+	url = https://github.com/conda-forge/riskmatrix-feedstock.git
+	path = feedstocks/riskmatrix
+	branch = refs/heads/master
