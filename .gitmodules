@@ -34402,3 +34402,7 @@
 	url = https://github.com/conda-forge/importhook-feedstock.git
 	path = feedstocks/importhook
 	branch = refs/heads/master
+[submodule "metaflow"]
+	url = https://github.com/conda-forge/metaflow-feedstock.git
+	path = feedstocks/metaflow
+	branch = refs/heads/master
