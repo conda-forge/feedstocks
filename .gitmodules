@@ -34394,3 +34394,7 @@
 	url = https://github.com/conda-forge/pytest-notification-feedstock.git
 	path = feedstocks/pytest-notification
 	branch = refs/heads/master
+[submodule "sagemaker-tensorflow-serving-container"]
+	url = https://github.com/conda-forge/sagemaker-tensorflow-serving-container-feedstock.git
+	path = feedstocks/sagemaker-tensorflow-serving-container
+	branch = refs/heads/master
