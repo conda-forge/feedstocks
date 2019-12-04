@@ -34398,3 +34398,7 @@
 	url = https://github.com/conda-forge/sagemaker-tensorflow-serving-container-feedstock.git
 	path = feedstocks/sagemaker-tensorflow-serving-container
 	branch = refs/heads/master
+[submodule "importhook"]
+	url = https://github.com/conda-forge/importhook-feedstock.git
+	path = feedstocks/importhook
+	branch = refs/heads/master
