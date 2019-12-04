@@ -34410,3 +34410,7 @@
 	url = https://github.com/conda-forge/riskmatrix-feedstock.git
 	path = feedstocks/riskmatrix
 	branch = refs/heads/master
+[submodule "uwsift"]
+	url = https://github.com/conda-forge/uwsift-feedstock.git
+	path = feedstocks/uwsift
+	branch = refs/heads/master
