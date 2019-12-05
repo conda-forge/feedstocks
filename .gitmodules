@@ -34414,3 +34414,7 @@
 	url = https://github.com/conda-forge/uwsift-feedstock.git
 	path = feedstocks/uwsift
 	branch = refs/heads/master
+[submodule "ndscope"]
+	url = https://github.com/conda-forge/ndscope-feedstock.git
+	path = feedstocks/ndscope
+	branch = refs/heads/master
