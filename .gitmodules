@@ -34422,3 +34422,7 @@
 	url = https://github.com/conda-forge/demquery-feedstock.git
 	path = feedstocks/demquery
 	branch = refs/heads/master
+[submodule "tensorflowonspark"]
+	url = https://github.com/conda-forge/tensorflowonspark-feedstock.git
+	path = feedstocks/tensorflowonspark
+	branch = refs/heads/master
