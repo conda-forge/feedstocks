@@ -34418,3 +34418,7 @@
 	url = https://github.com/conda-forge/ndscope-feedstock.git
 	path = feedstocks/ndscope
 	branch = refs/heads/master
+[submodule "demquery"]
+	url = https://github.com/conda-forge/demquery-feedstock.git
+	path = feedstocks/demquery
+	branch = refs/heads/master
