@@ -34474,3 +34474,7 @@
 	url = https://github.com/conda-forge/eo-learn-ml-tools-feedstock.git
 	path = feedstocks/eo-learn-ml-tools
 	branch = refs/heads/master
+[submodule "thunder-python"]
+	url = https://github.com/conda-forge/thunder-python-feedstock.git
+	path = feedstocks/thunder-python
+	branch = refs/heads/master
