@@ -34462,3 +34462,7 @@
 	url = https://github.com/conda-forge/eo-learn-visualization-feedstock.git
 	path = feedstocks/eo-learn-visualization
 	branch = refs/heads/master
+[submodule "eo-learn-features"]
+	url = https://github.com/conda-forge/eo-learn-features-feedstock.git
+	path = feedstocks/eo-learn-features
+	branch = refs/heads/master
