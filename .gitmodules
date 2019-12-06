@@ -34442,3 +34442,7 @@
 	url = https://github.com/conda-forge/bmi-cxx-feedstock.git
 	path = feedstocks/bmi-cxx
 	branch = refs/heads/master
+[submodule "sentinelhub"]
+	url = https://github.com/conda-forge/sentinelhub-feedstock.git
+	path = feedstocks/sentinelhub
+	branch = refs/heads/master
