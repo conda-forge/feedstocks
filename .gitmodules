@@ -34426,3 +34426,7 @@
 	url = https://github.com/conda-forge/tensorflowonspark-feedstock.git
 	path = feedstocks/tensorflowonspark
 	branch = refs/heads/master
+[submodule "clang-win-activation"]
+	url = https://github.com/conda-forge/clang-win-activation-feedstock.git
+	path = feedstocks/clang-win-activation
+	branch = refs/heads/master
