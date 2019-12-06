@@ -34454,3 +34454,7 @@
 	url = https://github.com/conda-forge/eo-learn-core-feedstock.git
 	path = feedstocks/eo-learn-core
 	branch = refs/heads/master
+[submodule "thunder-registration"]
+	url = https://github.com/conda-forge/thunder-registration-feedstock.git
+	path = feedstocks/thunder-registration
+	branch = refs/heads/master
