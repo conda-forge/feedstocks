@@ -34482,3 +34482,7 @@
 	url = https://github.com/conda-forge/bolt-python-feedstock.git
 	path = feedstocks/bolt-python
 	branch = refs/heads/master
+[submodule "libibcm-cos6-x86_64"]
+	url = https://github.com/conda-forge/libibcm-cos6-x86_64-feedstock.git
+	path = feedstocks/libibcm-cos6-x86_64
+	branch = refs/heads/master
