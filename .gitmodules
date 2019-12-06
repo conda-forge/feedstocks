@@ -34446,3 +34446,7 @@
 	url = https://github.com/conda-forge/sentinelhub-feedstock.git
 	path = feedstocks/sentinelhub
 	branch = refs/heads/master
+[submodule "s2cloudless"]
+	url = https://github.com/conda-forge/s2cloudless-feedstock.git
+	path = feedstocks/s2cloudless
+	branch = refs/heads/master
