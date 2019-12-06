@@ -34434,3 +34434,7 @@
 	url = https://github.com/conda-forge/environs-feedstock.git
 	path = feedstocks/environs
 	branch = refs/heads/master
+[submodule "runthis-server"]
+	url = https://github.com/conda-forge/runthis-server-feedstock.git
+	path = feedstocks/runthis-server
+	branch = refs/heads/master
