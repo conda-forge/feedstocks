@@ -34438,3 +34438,7 @@
 	url = https://github.com/conda-forge/runthis-server-feedstock.git
 	path = feedstocks/runthis-server
 	branch = refs/heads/master
+[submodule "bmi-cxx"]
+	url = https://github.com/conda-forge/bmi-cxx-feedstock.git
+	path = feedstocks/bmi-cxx
+	branch = refs/heads/master
