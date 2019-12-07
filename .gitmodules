@@ -34502,3 +34502,7 @@
 	url = https://github.com/conda-forge/r-dynutils-feedstock.git
 	path = feedstocks/r-dynutils
 	branch = refs/heads/master
+[submodule "r-lmds"]
+	url = https://github.com/conda-forge/r-lmds-feedstock.git
+	path = feedstocks/r-lmds
+	branch = refs/heads/master
