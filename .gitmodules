@@ -34494,3 +34494,7 @@
 	url = https://github.com/conda-forge/runthis-sphinxext-feedstock.git
 	path = feedstocks/runthis-sphinxext
 	branch = refs/heads/master
+[submodule "magics-metview"]
+	url = https://github.com/conda-forge/magics-metview-feedstock.git
+	path = feedstocks/magics-metview
+	branch = refs/heads/master
