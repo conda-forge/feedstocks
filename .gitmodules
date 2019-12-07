@@ -34498,3 +34498,7 @@
 	url = https://github.com/conda-forge/magics-metview-feedstock.git
 	path = feedstocks/magics-metview
 	branch = refs/heads/master
+[submodule "r-dynutils"]
+	url = https://github.com/conda-forge/r-dynutils-feedstock.git
+	path = feedstocks/r-dynutils
+	branch = refs/heads/master
