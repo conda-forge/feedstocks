@@ -34490,3 +34490,7 @@
 	url = https://github.com/conda-forge/libibcm-devel-cos6-x86_64-feedstock.git
 	path = feedstocks/libibcm-devel-cos6-x86_64
 	branch = refs/heads/master
+[submodule "runthis-sphinxext"]
+	url = https://github.com/conda-forge/runthis-sphinxext-feedstock.git
+	path = feedstocks/runthis-sphinxext
+	branch = refs/heads/master
