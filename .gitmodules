@@ -34506,3 +34506,7 @@
 	url = https://github.com/conda-forge/r-lmds-feedstock.git
 	path = feedstocks/r-lmds
 	branch = refs/heads/master
+[submodule "r-carrier"]
+	url = https://github.com/conda-forge/r-carrier-feedstock.git
+	path = feedstocks/r-carrier
+	branch = refs/heads/master
