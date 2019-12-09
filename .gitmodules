@@ -34538,3 +34538,7 @@
 	url = https://github.com/conda-forge/path-feedstock.git
 	path = feedstocks/path
 	branch = refs/heads/master
+[submodule "ecflow"]
+	url = https://github.com/conda-forge/ecflow-feedstock.git
+	path = feedstocks/ecflow
+	branch = refs/heads/master
