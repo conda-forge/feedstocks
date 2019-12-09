@@ -34522,3 +34522,7 @@
 	url = https://github.com/conda-forge/r-tfisher-feedstock.git
 	path = feedstocks/r-tfisher
 	branch = refs/heads/master
+[submodule "open-fonts"]
+	url = https://github.com/conda-forge/open-fonts-feedstock.git
+	path = feedstocks/open-fonts
+	branch = refs/heads/master
