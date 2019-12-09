@@ -34518,3 +34518,7 @@
 	url = https://github.com/conda-forge/plonk-feedstock.git
 	path = feedstocks/plonk
 	branch = refs/heads/master
+[submodule "r-tfisher"]
+	url = https://github.com/conda-forge/r-tfisher-feedstock.git
+	path = feedstocks/r-tfisher
+	branch = refs/heads/master
