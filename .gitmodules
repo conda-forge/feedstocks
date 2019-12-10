@@ -34554,3 +34554,7 @@
 	url = https://github.com/conda-forge/ngram-feedstock.git
 	path = feedstocks/ngram
 	branch = refs/heads/master
+[submodule "prismatic_split"]
+	url = https://github.com/conda-forge/prismatic_split-feedstock.git
+	path = feedstocks/prismatic_split
+	branch = refs/heads/master
