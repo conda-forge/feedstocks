@@ -34550,3 +34550,7 @@
 	url = https://github.com/conda-forge/pytest-describe-feedstock.git
 	path = feedstocks/pytest-describe
 	branch = refs/heads/master
+[submodule "ngram"]
+	url = https://github.com/conda-forge/ngram-feedstock.git
+	path = feedstocks/ngram
+	branch = refs/heads/master
