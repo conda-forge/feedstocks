@@ -34542,3 +34542,7 @@
 	url = https://github.com/conda-forge/ecflow-feedstock.git
 	path = feedstocks/ecflow
 	branch = refs/heads/master
+[submodule "ncempy"]
+	url = https://github.com/conda-forge/ncempy-feedstock.git
+	path = feedstocks/ncempy
+	branch = refs/heads/master
