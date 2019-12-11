@@ -34602,3 +34602,7 @@
 	url = https://github.com/conda-forge/pyvis-feedstock.git
 	path = feedstocks/pyvis
 	branch = refs/heads/master
+[submodule "envs"]
+	url = https://github.com/conda-forge/envs-feedstock.git
+	path = feedstocks/envs
+	branch = refs/heads/master
