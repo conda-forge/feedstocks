@@ -34590,3 +34590,7 @@
 	url = https://github.com/conda-forge/baycomp-feedstock.git
 	path = feedstocks/baycomp
 	branch = refs/heads/master
+[submodule "pytest-chalice"]
+	url = https://github.com/conda-forge/pytest-chalice-feedstock.git
+	path = feedstocks/pytest-chalice
+	branch = refs/heads/master
