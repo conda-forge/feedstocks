@@ -34682,3 +34682,7 @@
 	url = https://github.com/conda-forge/r-admisc-feedstock.git
 	path = feedstocks/r-admisc
 	branch = refs/heads/master
+[submodule "smdebug-rulesconfig"]
+	url = https://github.com/conda-forge/smdebug-rulesconfig-feedstock.git
+	path = feedstocks/smdebug-rulesconfig
+	branch = refs/heads/master
