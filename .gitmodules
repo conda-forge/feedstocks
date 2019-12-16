@@ -34698,3 +34698,7 @@
 	url = https://github.com/conda-forge/eo-learn-mask-feedstock.git
 	path = feedstocks/eo-learn-mask
 	branch = refs/heads/master
+[submodule "python-goosefem"]
+	url = https://github.com/conda-forge/python-goosefem-feedstock.git
+	path = feedstocks/python-goosefem
+	branch = refs/heads/master
