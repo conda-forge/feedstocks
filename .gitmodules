@@ -34618,3 +34618,7 @@
 	url = https://github.com/conda-forge/openalea.deploy-feedstock.git
 	path = feedstocks/openalea.deploy
 	branch = refs/heads/master
+[submodule "texplain"]
+	url = https://github.com/conda-forge/texplain-feedstock.git
+	path = feedstocks/texplain
+	branch = refs/heads/master
