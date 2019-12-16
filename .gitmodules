@@ -34706,3 +34706,7 @@
 	url = https://github.com/conda-forge/goosefem-feedstock.git
 	path = feedstocks/goosefem
 	branch = refs/heads/master
+[submodule "celery-redbeat"]
+	url = https://github.com/conda-forge/celery-redbeat-feedstock.git
+	path = feedstocks/celery-redbeat
+	branch = refs/heads/master
