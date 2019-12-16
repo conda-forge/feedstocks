@@ -34686,3 +34686,7 @@
 	url = https://github.com/conda-forge/smdebug-rulesconfig-feedstock.git
 	path = feedstocks/smdebug-rulesconfig
 	branch = refs/heads/master
+[submodule "jupyterlab-nvdashboard"]
+	url = https://github.com/conda-forge/jupyterlab-nvdashboard-feedstock.git
+	path = feedstocks/jupyterlab-nvdashboard
+	branch = refs/heads/master
