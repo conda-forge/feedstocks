@@ -34674,3 +34674,7 @@
 	url = https://github.com/conda-forge/requests-aws4auth-feedstock.git
 	path = feedstocks/requests-aws4auth
 	branch = refs/heads/master
+[submodule "pynini"]
+	url = https://github.com/conda-forge/pynini-feedstock.git
+	path = feedstocks/pynini
+	branch = refs/heads/master
