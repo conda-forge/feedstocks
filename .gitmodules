@@ -34622,3 +34622,7 @@
 	url = https://github.com/conda-forge/texplain-feedstock.git
 	path = feedstocks/texplain
 	branch = refs/heads/master
+[submodule "sacc"]
+	url = https://github.com/conda-forge/sacc-feedstock.git
+	path = feedstocks/sacc
+	branch = refs/heads/master
