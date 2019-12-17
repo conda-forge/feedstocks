@@ -34722,3 +34722,7 @@
 	url = https://github.com/conda-forge/pytest-httpserver-feedstock.git
 	path = feedstocks/pytest-httpserver
 	branch = refs/heads/master
+[submodule "pytest-freezegun"]
+	url = https://github.com/conda-forge/pytest-freezegun-feedstock.git
+	path = feedstocks/pytest-freezegun
+	branch = refs/heads/master
