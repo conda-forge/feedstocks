@@ -34710,3 +34710,7 @@
 	url = https://github.com/conda-forge/celery-redbeat-feedstock.git
 	path = feedstocks/celery-redbeat
 	branch = refs/heads/master
+[submodule "pyramid_log"]
+	url = https://github.com/conda-forge/pyramid_log-feedstock.git
+	path = feedstocks/pyramid_log
+	branch = refs/heads/master
