@@ -34714,3 +34714,7 @@
 	url = https://github.com/conda-forge/pyramid_log-feedstock.git
 	path = feedstocks/pyramid_log
 	branch = refs/heads/master
+[submodule "gracedb-sdk"]
+	url = https://github.com/conda-forge/gracedb-sdk-feedstock.git
+	path = feedstocks/gracedb-sdk
+	branch = refs/heads/master
