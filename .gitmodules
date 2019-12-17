@@ -34718,3 +34718,7 @@
 	url = https://github.com/conda-forge/gracedb-sdk-feedstock.git
 	path = feedstocks/gracedb-sdk
 	branch = refs/heads/master
+[submodule "pytest-httpserver"]
+	url = https://github.com/conda-forge/pytest-httpserver-feedstock.git
+	path = feedstocks/pytest-httpserver
+	branch = refs/heads/master
