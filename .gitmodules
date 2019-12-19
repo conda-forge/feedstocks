@@ -34754,3 +34754,7 @@
 	url = https://github.com/conda-forge/openpathsampling-feedstock.git
 	path = feedstocks/openpathsampling
 	branch = refs/heads/master
+[submodule "stdpopsim"]
+	url = https://github.com/conda-forge/stdpopsim-feedstock.git
+	path = feedstocks/stdpopsim
+	branch = refs/heads/master
