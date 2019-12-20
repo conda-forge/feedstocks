@@ -34770,3 +34770,7 @@
 	url = https://github.com/conda-forge/qnm-feedstock.git
 	path = feedstocks/qnm
 	branch = refs/heads/master
+[submodule "chart-studio"]
+	url = https://github.com/conda-forge/chart-studio-feedstock.git
+	path = feedstocks/chart-studio
+	branch = refs/heads/master
