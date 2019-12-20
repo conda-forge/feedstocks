@@ -34778,3 +34778,7 @@
 	url = https://github.com/conda-forge/python-jose-cryptodome-feedstock.git
 	path = feedstocks/python-jose-cryptodome
 	branch = refs/heads/master
+[submodule "pyramid_redis_sessions"]
+	url = https://github.com/conda-forge/pyramid_redis_sessions-feedstock.git
+	path = feedstocks/pyramid_redis_sessions
+	branch = refs/heads/master
