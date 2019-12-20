@@ -34774,3 +34774,7 @@
 	url = https://github.com/conda-forge/chart-studio-feedstock.git
 	path = feedstocks/chart-studio
 	branch = refs/heads/master
+[submodule "python-jose-cryptodome"]
+	url = https://github.com/conda-forge/python-jose-cryptodome-feedstock.git
+	path = feedstocks/python-jose-cryptodome
+	branch = refs/heads/master
