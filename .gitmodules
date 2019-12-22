@@ -34782,3 +34782,7 @@
 	url = https://github.com/conda-forge/pyramid_redis_sessions-feedstock.git
 	path = feedstocks/pyramid_redis_sessions
 	branch = refs/heads/master
+[submodule "pandas-datapackage-reader"]
+	url = https://github.com/conda-forge/pandas-datapackage-reader-feedstock.git
+	path = feedstocks/pandas-datapackage-reader
+	branch = refs/heads/master
