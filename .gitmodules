@@ -34790,3 +34790,7 @@
 	url = https://github.com/conda-forge/flask_json-feedstock.git
 	path = feedstocks/flask_json
 	branch = refs/heads/master
+[submodule "astromatic-skymaker"]
+	url = https://github.com/conda-forge/astromatic-skymaker-feedstock.git
+	path = feedstocks/astromatic-skymaker
+	branch = refs/heads/master
