@@ -34806,3 +34806,7 @@
 	url = https://github.com/conda-forge/citop-feedstock.git
 	path = feedstocks/citop
 	branch = refs/heads/master
+[submodule "cmaps"]
+	url = https://github.com/conda-forge/cmaps-feedstock.git
+	path = feedstocks/cmaps
+	branch = refs/heads/master
