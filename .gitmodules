@@ -34822,3 +34822,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-jsonfield-feedstock.git
 	path = feedstocks/sqlalchemy-jsonfield
 	branch = refs/heads/master
+[submodule "stack_data"]
+	url = https://github.com/conda-forge/stack_data-feedstock.git
+	path = feedstocks/stack_data
+	branch = refs/heads/master
