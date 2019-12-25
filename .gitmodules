@@ -34814,3 +34814,7 @@
 	url = https://github.com/conda-forge/pytest-raises-feedstock.git
 	path = feedstocks/pytest-raises
 	branch = refs/heads/master
+[submodule "packer"]
+	url = https://github.com/conda-forge/packer-feedstock.git
+	path = feedstocks/packer
+	branch = refs/heads/master
