@@ -34818,3 +34818,7 @@
 	url = https://github.com/conda-forge/packer-feedstock.git
 	path = feedstocks/packer
 	branch = refs/heads/master
+[submodule "sqlalchemy-jsonfield"]
+	url = https://github.com/conda-forge/sqlalchemy-jsonfield-feedstock.git
+	path = feedstocks/sqlalchemy-jsonfield
+	branch = refs/heads/master
