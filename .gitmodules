@@ -34830,3 +34830,7 @@
 	url = https://github.com/conda-forge/zope.hookable-feedstock.git
 	path = feedstocks/zope.hookable
 	branch = refs/heads/master
+[submodule "userpath"]
+	url = https://github.com/conda-forge/userpath-feedstock.git
+	path = feedstocks/userpath
+	branch = refs/heads/master
