@@ -34826,3 +34826,7 @@
 	url = https://github.com/conda-forge/stack_data-feedstock.git
 	path = feedstocks/stack_data
 	branch = refs/heads/master
+[submodule "zope.hookable"]
+	url = https://github.com/conda-forge/zope.hookable-feedstock.git
+	path = feedstocks/zope.hookable
+	branch = refs/heads/master
