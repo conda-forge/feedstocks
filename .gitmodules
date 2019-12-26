@@ -34842,3 +34842,7 @@
 	url = https://github.com/conda-forge/pyramid_beaker-feedstock.git
 	path = feedstocks/pyramid_beaker
 	branch = refs/heads/master
+[submodule "kwallet"]
+	url = https://github.com/conda-forge/kwallet-feedstock.git
+	path = feedstocks/kwallet
+	branch = refs/heads/master
