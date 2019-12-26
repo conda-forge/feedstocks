@@ -34850,3 +34850,7 @@
 	url = https://github.com/conda-forge/helpme-feedstock.git
 	path = feedstocks/helpme
 	branch = refs/heads/master
+[submodule "pyramid_redis"]
+	url = https://github.com/conda-forge/pyramid_redis-feedstock.git
+	path = feedstocks/pyramid_redis
+	branch = refs/heads/master
