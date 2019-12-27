@@ -34866,3 +34866,7 @@
 	url = https://github.com/conda-forge/flask_cors-feedstock.git
 	path = feedstocks/flask_cors
 	branch = refs/heads/master
+[submodule "tox-venv"]
+	url = https://github.com/conda-forge/tox-venv-feedstock.git
+	path = feedstocks/tox-venv
+	branch = refs/heads/master
