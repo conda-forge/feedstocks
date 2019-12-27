@@ -34878,3 +34878,7 @@
 	url = https://github.com/conda-forge/tryingsnake-feedstock.git
 	path = feedstocks/tryingsnake
 	branch = refs/heads/master
+[submodule "jaraco.envs"]
+	url = https://github.com/conda-forge/jaraco.envs-feedstock.git
+	path = feedstocks/jaraco.envs
+	branch = refs/heads/master
