@@ -34854,3 +34854,7 @@
 	url = https://github.com/conda-forge/pyramid_redis-feedstock.git
 	path = feedstocks/pyramid_redis
 	branch = refs/heads/master
+[submodule "r-fasterize"]
+	url = https://github.com/conda-forge/r-fasterize-feedstock.git
+	path = feedstocks/r-fasterize
+	branch = refs/heads/master
