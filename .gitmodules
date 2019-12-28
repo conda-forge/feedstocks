@@ -34898,3 +34898,7 @@
 	url = https://github.com/conda-forge/proplot-feedstock.git
 	path = feedstocks/proplot
 	branch = refs/heads/master
+[submodule "extension-helpers"]
+	url = https://github.com/conda-forge/extension-helpers-feedstock.git
+	path = feedstocks/extension-helpers
+	branch = refs/heads/master
