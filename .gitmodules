@@ -34890,3 +34890,7 @@
 	url = https://github.com/conda-forge/batchcrop-feedstock.git
 	path = feedstocks/batchcrop
 	branch = refs/heads/master
+[submodule "cython-fortran-file"]
+	url = https://github.com/conda-forge/cython-fortran-file-feedstock.git
+	path = feedstocks/cython-fortran-file
+	branch = refs/heads/master
