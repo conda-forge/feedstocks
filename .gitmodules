@@ -34914,3 +34914,7 @@
 	url = https://github.com/conda-forge/ecell4_base-feedstock.git
 	path = feedstocks/ecell4_base
 	branch = refs/heads/master
+[submodule "warrant"]
+	url = https://github.com/conda-forge/warrant-feedstock.git
+	path = feedstocks/warrant
+	branch = refs/heads/master
