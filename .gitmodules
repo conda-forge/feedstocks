@@ -34902,3 +34902,7 @@
 	url = https://github.com/conda-forge/extension-helpers-feedstock.git
 	path = feedstocks/extension-helpers
 	branch = refs/heads/master
+[submodule "executing"]
+	url = https://github.com/conda-forge/executing-feedstock.git
+	path = feedstocks/executing
+	branch = refs/heads/master
