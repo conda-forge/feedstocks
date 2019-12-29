@@ -34910,3 +34910,7 @@
 	url = https://github.com/conda-forge/iprogress-feedstock.git
 	path = feedstocks/iprogress
 	branch = refs/heads/master
+[submodule "ecell4_base"]
+	url = https://github.com/conda-forge/ecell4_base-feedstock.git
+	path = feedstocks/ecell4_base
+	branch = refs/heads/master
