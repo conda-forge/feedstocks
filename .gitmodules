@@ -34906,3 +34906,7 @@
 	url = https://github.com/conda-forge/executing-feedstock.git
 	path = feedstocks/executing
 	branch = refs/heads/master
+[submodule "iprogress"]
+	url = https://github.com/conda-forge/iprogress-feedstock.git
+	path = feedstocks/iprogress
+	branch = refs/heads/master
