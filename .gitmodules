@@ -34974,3 +34974,7 @@
 	url = https://github.com/conda-forge/ecell4-feedstock.git
 	path = feedstocks/ecell4
 	branch = refs/heads/master
+[submodule "gwsurrogate"]
+	url = https://github.com/conda-forge/gwsurrogate-feedstock.git
+	path = feedstocks/gwsurrogate
+	branch = refs/heads/master
