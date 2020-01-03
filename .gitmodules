@@ -34966,3 +34966,7 @@
 	url = https://github.com/conda-forge/libxshmfence-cos7-ppc64le-feedstock.git
 	path = feedstocks/libxshmfence-cos7-ppc64le
 	branch = refs/heads/master
+[submodule "libxshmfence-cos7-aarch64"]
+	url = https://github.com/conda-forge/libxshmfence-cos7-aarch64-feedstock.git
+	path = feedstocks/libxshmfence-cos7-aarch64
+	branch = refs/heads/master
