@@ -34990,3 +34990,7 @@
 	url = https://github.com/conda-forge/sccache-feedstock.git
 	path = feedstocks/sccache
 	branch = refs/heads/master
+[submodule "java-org.apache.arrow.arrow-jdbc-with-dependencies"]
+	url = https://github.com/conda-forge/java-org.apache.arrow.arrow-jdbc-with-dependencies-feedstock.git
+	path = feedstocks/java-org.apache.arrow.arrow-jdbc-with-dependencies
+	branch = refs/heads/master
