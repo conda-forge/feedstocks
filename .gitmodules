@@ -35010,3 +35010,7 @@
 	url = https://github.com/conda-forge/kinparse-feedstock.git
 	path = feedstocks/kinparse
 	branch = refs/heads/master
+[submodule "protoc-gen-go"]
+	url = https://github.com/conda-forge/protoc-gen-go-feedstock.git
+	path = feedstocks/protoc-gen-go
+	branch = refs/heads/master
