@@ -35046,3 +35046,7 @@
 	url = https://github.com/conda-forge/gwollum-feedstock.git
 	path = feedstocks/gwollum
 	branch = refs/heads/master
+[submodule "tobler"]
+	url = https://github.com/conda-forge/tobler-feedstock.git
+	path = feedstocks/tobler
+	branch = refs/heads/master
