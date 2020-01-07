@@ -35042,3 +35042,7 @@
 	url = https://github.com/conda-forge/r-multbxxc-feedstock.git
 	path = feedstocks/r-multbxxc
 	branch = refs/heads/master
+[submodule "gwollum"]
+	url = https://github.com/conda-forge/gwollum-feedstock.git
+	path = feedstocks/gwollum
+	branch = refs/heads/master
