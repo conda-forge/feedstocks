@@ -35050,3 +35050,7 @@
 	url = https://github.com/conda-forge/tobler-feedstock.git
 	path = feedstocks/tobler
 	branch = refs/heads/master
+[submodule "pyigrf"]
+	url = https://github.com/conda-forge/pyigrf-feedstock.git
+	path = feedstocks/pyigrf
+	branch = refs/heads/master
