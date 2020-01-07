@@ -35030,3 +35030,7 @@
 	url = https://github.com/conda-forge/overly-feedstock.git
 	path = feedstocks/overly
 	branch = refs/heads/master
+[submodule "gpyopt"]
+	url = https://github.com/conda-forge/gpyopt-feedstock.git
+	path = feedstocks/gpyopt
+	branch = refs/heads/master
