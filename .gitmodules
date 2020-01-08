@@ -35062,3 +35062,7 @@
 	url = https://github.com/conda-forge/altair_data_server-feedstock.git
 	path = feedstocks/altair_data_server
 	branch = refs/heads/master
+[submodule "omegaconf"]
+	url = https://github.com/conda-forge/omegaconf-feedstock.git
+	path = feedstocks/omegaconf
+	branch = refs/heads/master
