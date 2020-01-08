@@ -35054,3 +35054,7 @@
 	url = https://github.com/conda-forge/pyigrf-feedstock.git
 	path = feedstocks/pyigrf
 	branch = refs/heads/master
+[submodule "mutatest"]
+	url = https://github.com/conda-forge/mutatest-feedstock.git
+	path = feedstocks/mutatest
+	branch = refs/heads/master
