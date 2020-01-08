@@ -35070,3 +35070,7 @@
 	url = https://github.com/conda-forge/flake8-pyi-feedstock.git
 	path = feedstocks/flake8-pyi
 	branch = refs/heads/master
+[submodule "r-dockerfiler"]
+	url = https://github.com/conda-forge/r-dockerfiler-feedstock.git
+	path = feedstocks/r-dockerfiler
+	branch = refs/heads/master
