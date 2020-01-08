@@ -35086,3 +35086,7 @@
 	url = https://github.com/conda-forge/r-yesno-feedstock.git
 	path = feedstocks/r-yesno
 	branch = refs/heads/master
+[submodule "btk"]
+	url = https://github.com/conda-forge/btk-feedstock.git
+	path = feedstocks/btk
+	branch = refs/heads/master
