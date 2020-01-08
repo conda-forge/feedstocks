@@ -35074,3 +35074,7 @@
 	url = https://github.com/conda-forge/r-dockerfiler-feedstock.git
 	path = feedstocks/r-dockerfiler
 	branch = refs/heads/master
+[submodule "visdcc"]
+	url = https://github.com/conda-forge/visdcc-feedstock.git
+	path = feedstocks/visdcc
+	branch = refs/heads/master
