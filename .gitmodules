@@ -35102,3 +35102,7 @@
 	url = https://github.com/conda-forge/altair_saver-feedstock.git
 	path = feedstocks/altair_saver
 	branch = refs/heads/master
+[submodule "r-golem"]
+	url = https://github.com/conda-forge/r-golem-feedstock.git
+	path = feedstocks/r-golem
+	branch = refs/heads/master
