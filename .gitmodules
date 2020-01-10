@@ -35146,3 +35146,7 @@
 	url = https://github.com/conda-forge/javascripthon-feedstock.git
 	path = feedstocks/javascripthon
 	branch = refs/heads/master
+[submodule "boule"]
+	url = https://github.com/conda-forge/boule-feedstock.git
+	path = feedstocks/boule
+	branch = refs/heads/master
