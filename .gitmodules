@@ -35138,3 +35138,7 @@
 	url = https://github.com/conda-forge/_openmp_mutex-feedstock.git
 	path = feedstocks/_openmp_mutex
 	branch = refs/heads/master
+[submodule "xopt"]
+	url = https://github.com/conda-forge/xopt-feedstock.git
+	path = feedstocks/xopt
+	branch = refs/heads/master
