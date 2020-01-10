@@ -35154,3 +35154,7 @@
 	url = https://github.com/conda-forge/validobj-feedstock.git
 	path = feedstocks/validobj
 	branch = refs/heads/master
+[submodule "ftgl"]
+	url = https://github.com/conda-forge/ftgl-feedstock.git
+	path = feedstocks/ftgl
+	branch = refs/heads/master
