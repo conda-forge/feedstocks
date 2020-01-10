@@ -35166,3 +35166,7 @@
 	url = https://github.com/conda-forge/cassandra-feedstock.git
 	path = feedstocks/cassandra
 	branch = refs/heads/master
+[submodule "oscrypto"]
+	url = https://github.com/conda-forge/oscrypto-feedstock.git
+	path = feedstocks/oscrypto
+	branch = refs/heads/master
