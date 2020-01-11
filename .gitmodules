@@ -35170,3 +35170,7 @@
 	url = https://github.com/conda-forge/oscrypto-feedstock.git
 	path = feedstocks/oscrypto
 	branch = refs/heads/master
+[submodule "xlayers"]
+	url = https://github.com/conda-forge/xlayers-feedstock.git
+	path = feedstocks/xlayers
+	branch = refs/heads/master
