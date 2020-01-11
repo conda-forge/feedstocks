@@ -35174,3 +35174,7 @@
 	url = https://github.com/conda-forge/xlayers-feedstock.git
 	path = feedstocks/xlayers
 	branch = refs/heads/master
+[submodule "python-certifi-win32"]
+	url = https://github.com/conda-forge/python-certifi-win32-feedstock.git
+	path = feedstocks/python-certifi-win32
+	branch = refs/heads/master
