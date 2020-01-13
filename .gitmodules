@@ -35206,3 +35206,7 @@
 	url = https://github.com/conda-forge/libtlx-feedstock.git
 	path = feedstocks/libtlx
 	branch = refs/heads/master
+[submodule "pytest-mpi"]
+	url = https://github.com/conda-forge/pytest-mpi-feedstock.git
+	path = feedstocks/pytest-mpi
+	branch = refs/heads/master
