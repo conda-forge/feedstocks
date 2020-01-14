@@ -35218,3 +35218,7 @@
 	url = https://github.com/conda-forge/r-vcfr-feedstock.git
 	path = feedstocks/r-vcfr
 	branch = refs/heads/master
+[submodule "pdfshrink"]
+	url = https://github.com/conda-forge/pdfshrink-feedstock.git
+	path = feedstocks/pdfshrink
+	branch = refs/heads/master
