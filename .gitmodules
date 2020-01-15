@@ -35234,3 +35234,7 @@
 	url = https://github.com/conda-forge/libtike-cufft-feedstock.git
 	path = feedstocks/libtike-cufft
 	branch = refs/heads/master
+[submodule "r-optimr"]
+	url = https://github.com/conda-forge/r-optimr-feedstock.git
+	path = feedstocks/r-optimr
+	branch = refs/heads/master
