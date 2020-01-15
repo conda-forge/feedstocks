@@ -35230,3 +35230,7 @@
 	url = https://github.com/conda-forge/altair_viewer-feedstock.git
 	path = feedstocks/altair_viewer
 	branch = refs/heads/master
+[submodule "libtike-cufft"]
+	url = https://github.com/conda-forge/libtike-cufft-feedstock.git
+	path = feedstocks/libtike-cufft
+	branch = refs/heads/master
