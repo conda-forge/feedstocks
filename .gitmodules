@@ -35266,3 +35266,7 @@
 	url = https://github.com/conda-forge/nionswift-io-feedstock.git
 	path = feedstocks/nionswift-io
 	branch = refs/heads/master
+[submodule "libignition-common"]
+	url = https://github.com/conda-forge/libignition-common-feedstock.git
+	path = feedstocks/libignition-common
+	branch = refs/heads/master
