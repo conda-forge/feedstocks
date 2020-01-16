@@ -35242,3 +35242,7 @@
 	url = https://github.com/conda-forge/nionswift-instrumentation-feedstock.git
 	path = feedstocks/nionswift-instrumentation
 	branch = refs/heads/master
+[submodule "nionswift-experimental"]
+	url = https://github.com/conda-forge/nionswift-experimental-feedstock.git
+	path = feedstocks/nionswift-experimental
+	branch = refs/heads/master
