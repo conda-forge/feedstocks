@@ -35290,3 +35290,7 @@
 	url = https://github.com/conda-forge/r-velox-feedstock.git
 	path = feedstocks/r-velox
 	branch = refs/heads/master
+[submodule "nionui"]
+	url = https://github.com/conda-forge/nionui-feedstock.git
+	path = feedstocks/nionui
+	branch = refs/heads/master
