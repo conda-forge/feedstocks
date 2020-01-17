@@ -35310,3 +35310,7 @@
 	url = https://github.com/conda-forge/r-precisesums-feedstock.git
 	path = feedstocks/r-precisesums
 	branch = refs/heads/master
+[submodule "r-billboarder"]
+	url = https://github.com/conda-forge/r-billboarder-feedstock.git
+	path = feedstocks/r-billboarder
+	branch = refs/heads/master
