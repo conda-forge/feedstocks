@@ -35286,3 +35286,7 @@
 	url = https://github.com/conda-forge/niondata-feedstock.git
 	path = feedstocks/niondata
 	branch = refs/heads/master
+[submodule "r-velox"]
+	url = https://github.com/conda-forge/r-velox-feedstock.git
+	path = feedstocks/r-velox
+	branch = refs/heads/master
