@@ -35294,3 +35294,7 @@
 	url = https://github.com/conda-forge/nionui-feedstock.git
 	path = feedstocks/nionui
 	branch = refs/heads/master
+[submodule "tike"]
+	url = https://github.com/conda-forge/tike-feedstock.git
+	path = feedstocks/tike
+	branch = refs/heads/master
