@@ -35298,3 +35298,7 @@
 	url = https://github.com/conda-forge/tike-feedstock.git
 	path = feedstocks/tike
 	branch = refs/heads/master
+[submodule "r-dparser"]
+	url = https://github.com/conda-forge/r-dparser-feedstock.git
+	path = feedstocks/r-dparser
+	branch = refs/heads/master
