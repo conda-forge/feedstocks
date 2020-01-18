@@ -35318,3 +35318,7 @@
 	url = https://github.com/conda-forge/cistern-feedstock.git
 	path = feedstocks/cistern
 	branch = refs/heads/master
+[submodule "im-pipelines-utils"]
+	url = https://github.com/conda-forge/im-pipelines-utils-feedstock.git
+	path = feedstocks/im-pipelines-utils
+	branch = refs/heads/master
