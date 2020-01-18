@@ -35326,3 +35326,7 @@
 	url = https://github.com/conda-forge/genozip-feedstock.git
 	path = feedstocks/genozip
 	branch = refs/heads/master
+[submodule "cwinpy"]
+	url = https://github.com/conda-forge/cwinpy-feedstock.git
+	path = feedstocks/cwinpy
+	branch = refs/heads/master
