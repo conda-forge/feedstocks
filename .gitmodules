@@ -35322,3 +35322,7 @@
 	url = https://github.com/conda-forge/im-pipelines-utils-feedstock.git
 	path = feedstocks/im-pipelines-utils
 	branch = refs/heads/master
+[submodule "genozip"]
+	url = https://github.com/conda-forge/genozip-feedstock.git
+	path = feedstocks/genozip
+	branch = refs/heads/master
