@@ -35338,3 +35338,7 @@
 	url = https://github.com/conda-forge/python-configuration-feedstock.git
 	path = feedstocks/python-configuration
 	branch = refs/heads/master
+[submodule "ctdopts"]
+	url = https://github.com/conda-forge/ctdopts-feedstock.git
+	path = feedstocks/ctdopts
+	branch = refs/heads/master
