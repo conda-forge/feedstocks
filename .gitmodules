@@ -35346,3 +35346,7 @@
 	url = https://github.com/conda-forge/littleutils-feedstock.git
 	path = feedstocks/littleutils
 	branch = refs/heads/master
+[submodule "libpostal"]
+	url = https://github.com/conda-forge/libpostal-feedstock.git
+	path = feedstocks/libpostal
+	branch = refs/heads/master
