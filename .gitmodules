@@ -35350,3 +35350,7 @@
 	url = https://github.com/conda-forge/libpostal-feedstock.git
 	path = feedstocks/libpostal
 	branch = refs/heads/master
+[submodule "uftp"]
+	url = https://github.com/conda-forge/uftp-feedstock.git
+	path = feedstocks/uftp
+	branch = refs/heads/master
