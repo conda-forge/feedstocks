@@ -35354,3 +35354,7 @@
 	url = https://github.com/conda-forge/uftp-feedstock.git
 	path = feedstocks/uftp
 	branch = refs/heads/master
+[submodule "outdated"]
+	url = https://github.com/conda-forge/outdated-feedstock.git
+	path = feedstocks/outdated
+	branch = refs/heads/master
