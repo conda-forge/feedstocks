@@ -35366,3 +35366,7 @@
 	url = https://github.com/conda-forge/r-rpushbullet-feedstock.git
 	path = feedstocks/r-rpushbullet
 	branch = refs/heads/master
+[submodule "pylatexenc"]
+	url = https://github.com/conda-forge/pylatexenc-feedstock.git
+	path = feedstocks/pylatexenc
+	branch = refs/heads/master
