@@ -35382,3 +35382,7 @@
 	url = https://github.com/conda-forge/r-micropan-feedstock.git
 	path = feedstocks/r-micropan
 	branch = refs/heads/master
+[submodule "py3nvml"]
+	url = https://github.com/conda-forge/py3nvml-feedstock.git
+	path = feedstocks/py3nvml
+	branch = refs/heads/master
