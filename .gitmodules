@@ -35378,3 +35378,7 @@
 	url = https://github.com/conda-forge/im-pipelines-utils-rdkit-feedstock.git
 	path = feedstocks/im-pipelines-utils-rdkit
 	branch = refs/heads/master
+[submodule "r-micropan"]
+	url = https://github.com/conda-forge/r-micropan-feedstock.git
+	path = feedstocks/r-micropan
+	branch = refs/heads/master
