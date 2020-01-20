@@ -35398,3 +35398,7 @@
 	url = https://github.com/conda-forge/surfinbh-feedstock.git
 	path = feedstocks/surfinbh
 	branch = refs/heads/master
+[submodule "vpython"]
+	url = https://github.com/conda-forge/vpython-feedstock.git
+	path = feedstocks/vpython
+	branch = refs/heads/master
