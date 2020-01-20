@@ -35402,3 +35402,7 @@
 	url = https://github.com/conda-forge/vpython-feedstock.git
 	path = feedstocks/vpython
 	branch = refs/heads/master
+[submodule "dftd4"]
+	url = https://github.com/conda-forge/dftd4-feedstock.git
+	path = feedstocks/dftd4
+	branch = refs/heads/master
