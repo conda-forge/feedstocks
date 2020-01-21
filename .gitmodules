@@ -35410,3 +35410,7 @@
 	url = https://github.com/conda-forge/pymannkendall-feedstock.git
 	path = feedstocks/pymannkendall
 	branch = refs/heads/master
+[submodule "linux-sysroot"]
+	url = https://github.com/conda-forge/linux-sysroot-feedstock.git
+	path = feedstocks/linux-sysroot
+	branch = refs/heads/master
