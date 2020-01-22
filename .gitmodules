@@ -35434,3 +35434,7 @@
 	url = https://github.com/conda-forge/mysql-connector-cpp-feedstock.git
 	path = feedstocks/mysql-connector-cpp
 	branch = refs/heads/master
+[submodule "flammkuchen"]
+	url = https://github.com/conda-forge/flammkuchen-feedstock.git
+	path = feedstocks/flammkuchen
+	branch = refs/heads/master
