@@ -35430,3 +35430,7 @@
 	url = https://github.com/conda-forge/r-d3network-feedstock.git
 	path = feedstocks/r-d3network
 	branch = refs/heads/master
+[submodule "mysql-connector-cpp"]
+	url = https://github.com/conda-forge/mysql-connector-cpp-feedstock.git
+	path = feedstocks/mysql-connector-cpp
+	branch = refs/heads/master
