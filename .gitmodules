@@ -35446,3 +35446,7 @@
 	url = https://github.com/conda-forge/velocypack-feedstock.git
 	path = feedstocks/velocypack
 	branch = refs/heads/master
+[submodule "pygls"]
+	url = https://github.com/conda-forge/pygls-feedstock.git
+	path = feedstocks/pygls
+	branch = refs/heads/master
