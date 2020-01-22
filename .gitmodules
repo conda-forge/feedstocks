@@ -35438,3 +35438,7 @@
 	url = https://github.com/conda-forge/flammkuchen-feedstock.git
 	path = feedstocks/flammkuchen
 	branch = refs/heads/master
+[submodule "conduit"]
+	url = https://github.com/conda-forge/conduit-feedstock.git
+	path = feedstocks/conduit
+	branch = refs/heads/master
