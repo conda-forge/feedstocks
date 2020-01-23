@@ -35462,3 +35462,7 @@
 	url = https://github.com/conda-forge/ciecplib-feedstock.git
 	path = feedstocks/ciecplib
 	branch = refs/heads/master
+[submodule "snowflake-sqlalchemy"]
+	url = https://github.com/conda-forge/snowflake-sqlalchemy-feedstock.git
+	path = feedstocks/snowflake-sqlalchemy
+	branch = refs/heads/master
