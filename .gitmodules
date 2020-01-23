@@ -35458,3 +35458,7 @@
 	url = https://github.com/conda-forge/intel_repack-feedstock.git
 	path = feedstocks/intel_repack
 	branch = refs/heads/master
+[submodule "ciecplib"]
+	url = https://github.com/conda-forge/ciecplib-feedstock.git
+	path = feedstocks/ciecplib
+	branch = refs/heads/master
