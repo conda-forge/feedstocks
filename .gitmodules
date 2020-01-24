@@ -35522,3 +35522,7 @@
 	url = https://github.com/conda-forge/pycrlibm-feedstock.git
 	path = feedstocks/pycrlibm
 	branch = refs/heads/master
+[submodule "crlibm"]
+	url = https://github.com/conda-forge/crlibm-feedstock.git
+	path = feedstocks/crlibm
+	branch = refs/heads/master
