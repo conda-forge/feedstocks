@@ -35482,3 +35482,7 @@
 	url = https://github.com/conda-forge/r-rxode-feedstock.git
 	path = feedstocks/r-rxode
 	branch = refs/heads/master
+[submodule "livy-submit"]
+	url = https://github.com/conda-forge/livy-submit-feedstock.git
+	path = feedstocks/livy-submit
+	branch = refs/heads/master
