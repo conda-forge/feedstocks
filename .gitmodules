@@ -35470,3 +35470,7 @@
 	url = https://github.com/conda-forge/libode-feedstock.git
 	path = feedstocks/libode
 	branch = refs/heads/master
+[submodule "sphinx-prompt"]
+	url = https://github.com/conda-forge/sphinx-prompt-feedstock.git
+	path = feedstocks/sphinx-prompt
+	branch = refs/heads/master
