@@ -35478,3 +35478,7 @@
 	url = https://github.com/conda-forge/zeroc-ice-feedstock.git
 	path = feedstocks/zeroc-ice
 	branch = refs/heads/master
+[submodule "r-rxode"]
+	url = https://github.com/conda-forge/r-rxode-feedstock.git
+	path = feedstocks/r-rxode
+	branch = refs/heads/master
