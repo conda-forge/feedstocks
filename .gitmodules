@@ -35526,3 +35526,7 @@
 	url = https://github.com/conda-forge/crlibm-feedstock.git
 	path = feedstocks/crlibm
 	branch = refs/heads/master
+[submodule "r-weightit"]
+	url = https://github.com/conda-forge/r-weightit-feedstock.git
+	path = feedstocks/r-weightit
+	branch = refs/heads/master
