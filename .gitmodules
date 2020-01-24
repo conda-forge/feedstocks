@@ -35514,3 +35514,7 @@
 	url = https://github.com/conda-forge/odil-feedstock.git
 	path = feedstocks/odil
 	branch = refs/heads/master
+[submodule "dagmc"]
+	url = https://github.com/conda-forge/dagmc-feedstock.git
+	path = feedstocks/dagmc
+	branch = refs/heads/master
