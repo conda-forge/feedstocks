@@ -35562,3 +35562,7 @@
 	url = https://github.com/conda-forge/neptune-client-feedstock.git
 	path = feedstocks/neptune-client
 	branch = refs/heads/master
+[submodule "quickfix"]
+	url = https://github.com/conda-forge/quickfix-feedstock.git
+	path = feedstocks/quickfix
+	branch = refs/heads/master
