@@ -35566,3 +35566,7 @@
 	url = https://github.com/conda-forge/quickfix-feedstock.git
 	path = feedstocks/quickfix
 	branch = refs/heads/master
+[submodule "lsst-documenteer"]
+	url = https://github.com/conda-forge/lsst-documenteer-feedstock.git
+	path = feedstocks/lsst-documenteer
+	branch = refs/heads/master
