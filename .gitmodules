@@ -35558,3 +35558,7 @@
 	url = https://github.com/conda-forge/libfaketime-feedstock.git
 	path = feedstocks/libfaketime
 	branch = refs/heads/master
+[submodule "neptune-client"]
+	url = https://github.com/conda-forge/neptune-client-feedstock.git
+	path = feedstocks/neptune-client
+	branch = refs/heads/master
