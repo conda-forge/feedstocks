@@ -35538,3 +35538,7 @@
 	url = https://github.com/conda-forge/r-readjdx-feedstock.git
 	path = feedstocks/r-readjdx
 	branch = refs/heads/master
+[submodule "cylc-uiserver"]
+	url = https://github.com/conda-forge/cylc-uiserver-feedstock.git
+	path = feedstocks/cylc-uiserver
+	branch = refs/heads/master
