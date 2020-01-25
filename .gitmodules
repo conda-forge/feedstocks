@@ -35570,3 +35570,7 @@
 	url = https://github.com/conda-forge/lsst-documenteer-feedstock.git
 	path = feedstocks/lsst-documenteer
 	branch = refs/heads/master
+[submodule "opusfile"]
+	url = https://github.com/conda-forge/opusfile-feedstock.git
+	path = feedstocks/opusfile
+	branch = refs/heads/master
