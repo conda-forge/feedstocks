@@ -35574,3 +35574,7 @@
 	url = https://github.com/conda-forge/opusfile-feedstock.git
 	path = feedstocks/opusfile
 	branch = refs/heads/master
+[submodule "elixir"]
+	url = https://github.com/conda-forge/elixir-feedstock.git
+	path = feedstocks/elixir
+	branch = refs/heads/master
