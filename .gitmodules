@@ -35550,3 +35550,7 @@
 	url = https://github.com/conda-forge/r-bdgraph-feedstock.git
 	path = feedstocks/r-bdgraph
 	branch = refs/heads/master
+[submodule "lsst-sphinx-bootstrap-theme"]
+	url = https://github.com/conda-forge/lsst-sphinx-bootstrap-theme-feedstock.git
+	path = feedstocks/lsst-sphinx-bootstrap-theme
+	branch = refs/heads/master
