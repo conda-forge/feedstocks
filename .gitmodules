@@ -35578,3 +35578,7 @@
 	url = https://github.com/conda-forge/elixir-feedstock.git
 	path = feedstocks/elixir
 	branch = refs/heads/master
+[submodule "s_gd2"]
+	url = https://github.com/conda-forge/s_gd2-feedstock.git
+	path = feedstocks/s_gd2
+	branch = refs/heads/master
