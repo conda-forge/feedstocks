@@ -35606,3 +35606,7 @@
 	url = https://github.com/conda-forge/jaraco.itertools-feedstock.git
 	path = feedstocks/jaraco.itertools
 	branch = refs/heads/master
+[submodule "parsplice"]
+	url = https://github.com/conda-forge/parsplice-feedstock.git
+	path = feedstocks/parsplice
+	branch = refs/heads/master
