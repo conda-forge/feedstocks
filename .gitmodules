@@ -35682,3 +35682,7 @@
 	url = https://github.com/conda-forge/gsheetsdb-feedstock.git
 	path = feedstocks/gsheetsdb
 	branch = refs/heads/master
+[submodule "bcdp"]
+	url = https://github.com/conda-forge/bcdp-feedstock.git
+	path = feedstocks/bcdp
+	branch = refs/heads/master
