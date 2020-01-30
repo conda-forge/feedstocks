@@ -35666,3 +35666,7 @@
 	url = https://github.com/conda-forge/libglvnd-cos7-aarch64-feedstock.git
 	path = feedstocks/libglvnd-cos7-aarch64
 	branch = refs/heads/master
+[submodule "libglvnd-glx-cos7-ppc64le"]
+	url = https://github.com/conda-forge/libglvnd-glx-cos7-ppc64le-feedstock.git
+	path = feedstocks/libglvnd-glx-cos7-ppc64le
+	branch = refs/heads/master
