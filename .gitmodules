@@ -35662,3 +35662,7 @@
 	url = https://github.com/conda-forge/mesa-khr-devel-cos7-aarch64-feedstock.git
 	path = feedstocks/mesa-khr-devel-cos7-aarch64
 	branch = refs/heads/master
+[submodule "libglvnd-cos7-aarch64"]
+	url = https://github.com/conda-forge/libglvnd-cos7-aarch64-feedstock.git
+	path = feedstocks/libglvnd-cos7-aarch64
+	branch = refs/heads/master
