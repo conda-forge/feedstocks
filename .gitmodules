@@ -35674,3 +35674,7 @@
 	url = https://github.com/conda-forge/paho-mqtt-feedstock.git
 	path = feedstocks/paho-mqtt
 	branch = refs/heads/master
+[submodule "metview-batch"]
+	url = https://github.com/conda-forge/metview-batch-feedstock.git
+	path = feedstocks/metview-batch
+	branch = refs/heads/master
