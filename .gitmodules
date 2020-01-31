@@ -35698,3 +35698,7 @@
 	url = https://github.com/conda-forge/dave-feedstock.git
 	path = feedstocks/dave
 	branch = refs/heads/master
+[submodule "mkdocs-macros-plugin"]
+	url = https://github.com/conda-forge/mkdocs-macros-plugin-feedstock.git
+	path = feedstocks/mkdocs-macros-plugin
+	branch = refs/heads/master
