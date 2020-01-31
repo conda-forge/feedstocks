@@ -35694,3 +35694,7 @@
 	url = https://github.com/conda-forge/mesa-libglapi-cos7-ppc64le-feedstock.git
 	path = feedstocks/mesa-libglapi-cos7-ppc64le
 	branch = refs/heads/master
+[submodule "dave"]
+	url = https://github.com/conda-forge/dave-feedstock.git
+	path = feedstocks/dave
+	branch = refs/heads/master
