@@ -35718,3 +35718,7 @@
 	url = https://github.com/conda-forge/spvcm-feedstock.git
 	path = feedstocks/spvcm
 	branch = refs/heads/master
+[submodule "neptune-notebooks"]
+	url = https://github.com/conda-forge/neptune-notebooks-feedstock.git
+	path = feedstocks/neptune-notebooks
+	branch = refs/heads/master
