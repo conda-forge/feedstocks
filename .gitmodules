@@ -35730,3 +35730,7 @@
 	url = https://github.com/conda-forge/libglvnd-glx-cos7-aarch64-feedstock.git
 	path = feedstocks/libglvnd-glx-cos7-aarch64
 	branch = refs/heads/master
+[submodule "jep"]
+	url = https://github.com/conda-forge/jep-feedstock.git
+	path = feedstocks/jep
+	branch = refs/heads/master
