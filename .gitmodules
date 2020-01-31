@@ -35710,3 +35710,7 @@
 	url = https://github.com/conda-forge/r-sass-feedstock.git
 	path = feedstocks/r-sass
 	branch = refs/heads/master
+[submodule "r-tiledb"]
+	url = https://github.com/conda-forge/r-tiledb-feedstock.git
+	path = feedstocks/r-tiledb
+	branch = refs/heads/master
