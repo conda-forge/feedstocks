@@ -35762,3 +35762,7 @@
 	url = https://github.com/conda-forge/libglvnd-cos7-ppc64le-feedstock.git
 	path = feedstocks/libglvnd-cos7-ppc64le
 	branch = refs/heads/master
+[submodule "pebble"]
+	url = https://github.com/conda-forge/pebble-feedstock.git
+	path = feedstocks/pebble
+	branch = refs/heads/master
