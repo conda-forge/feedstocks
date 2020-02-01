@@ -35750,3 +35750,7 @@
 	url = https://github.com/conda-forge/geosnap-feedstock.git
 	path = feedstocks/geosnap
 	branch = refs/heads/master
+[submodule "r-paralleldist"]
+	url = https://github.com/conda-forge/r-paralleldist-feedstock.git
+	path = feedstocks/r-paralleldist
+	branch = refs/heads/master
