@@ -35742,3 +35742,7 @@
 	url = https://github.com/conda-forge/repackage-feedstock.git
 	path = feedstocks/repackage
 	branch = refs/heads/master
+[submodule "esmcol-validator"]
+	url = https://github.com/conda-forge/esmcol-validator-feedstock.git
+	path = feedstocks/esmcol-validator
+	branch = refs/heads/master
