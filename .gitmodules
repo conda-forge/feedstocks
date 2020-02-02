@@ -35770,3 +35770,7 @@
 	url = https://github.com/conda-forge/r-fastghquad-feedstock.git
 	path = feedstocks/r-fastghquad
 	branch = refs/heads/master
+[submodule "fairlearn"]
+	url = https://github.com/conda-forge/fairlearn-feedstock.git
+	path = feedstocks/fairlearn
+	branch = refs/heads/master
