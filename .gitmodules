@@ -35774,3 +35774,7 @@
 	url = https://github.com/conda-forge/fairlearn-feedstock.git
 	path = feedstocks/fairlearn
 	branch = refs/heads/master
+[submodule "bpython"]
+	url = https://github.com/conda-forge/bpython-feedstock.git
+	path = feedstocks/bpython
+	branch = refs/heads/master
