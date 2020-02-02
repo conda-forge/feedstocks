@@ -35778,3 +35778,7 @@
 	url = https://github.com/conda-forge/bpython-feedstock.git
 	path = feedstocks/bpython
 	branch = refs/heads/master
+[submodule "curtsies"]
+	url = https://github.com/conda-forge/curtsies-feedstock.git
+	path = feedstocks/curtsies
+	branch = refs/heads/master
