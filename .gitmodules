@@ -35822,3 +35822,7 @@
 	url = https://github.com/conda-forge/dawg-python-feedstock.git
 	path = feedstocks/dawg-python
 	branch = refs/heads/master
+[submodule "pymorphy2"]
+	url = https://github.com/conda-forge/pymorphy2-feedstock.git
+	path = feedstocks/pymorphy2
+	branch = refs/heads/master
