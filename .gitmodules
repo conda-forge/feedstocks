@@ -35794,3 +35794,7 @@
 	url = https://github.com/conda-forge/r-popgenome-feedstock.git
 	path = feedstocks/r-popgenome
 	branch = refs/heads/master
+[submodule "slim"]
+	url = https://github.com/conda-forge/slim-feedstock.git
+	path = feedstocks/slim
+	branch = refs/heads/master
