@@ -35786,3 +35786,7 @@
 	url = https://github.com/conda-forge/oliver-feedstock.git
 	path = feedstocks/oliver
 	branch = refs/heads/master
+[submodule "damask"]
+	url = https://github.com/conda-forge/damask-feedstock.git
+	path = feedstocks/damask
+	branch = refs/heads/master
