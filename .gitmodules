@@ -35810,3 +35810,7 @@
 	url = https://github.com/conda-forge/multi_rake-feedstock.git
 	path = feedstocks/multi_rake
 	branch = refs/heads/master
+[submodule "pymorphy2-dicts-ru"]
+	url = https://github.com/conda-forge/pymorphy2-dicts-ru-feedstock.git
+	path = feedstocks/pymorphy2-dicts-ru
+	branch = refs/heads/master
