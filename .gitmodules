@@ -35802,3 +35802,7 @@
 	url = https://github.com/conda-forge/r-ymlthis-feedstock.git
 	path = feedstocks/r-ymlthis
 	branch = refs/heads/master
+[submodule "docker"]
+	url = https://github.com/conda-forge/docker-feedstock.git
+	path = feedstocks/docker
+	branch = refs/heads/master
