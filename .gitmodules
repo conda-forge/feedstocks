@@ -35798,3 +35798,7 @@
 	url = https://github.com/conda-forge/slim-feedstock.git
 	path = feedstocks/slim
 	branch = refs/heads/master
+[submodule "r-ymlthis"]
+	url = https://github.com/conda-forge/r-ymlthis-feedstock.git
+	path = feedstocks/r-ymlthis
+	branch = refs/heads/master
