@@ -35806,3 +35806,7 @@
 	url = https://github.com/conda-forge/docker-feedstock.git
 	path = feedstocks/docker
 	branch = refs/heads/master
+[submodule "multi_rake"]
+	url = https://github.com/conda-forge/multi_rake-feedstock.git
+	path = feedstocks/multi_rake
+	branch = refs/heads/master
