@@ -35818,3 +35818,7 @@
 	url = https://github.com/conda-forge/eo-learn-feedstock.git
 	path = feedstocks/eo-learn
 	branch = refs/heads/master
+[submodule "dawg-python"]
+	url = https://github.com/conda-forge/dawg-python-feedstock.git
+	path = feedstocks/dawg-python
+	branch = refs/heads/master
