@@ -35838,3 +35838,7 @@
 	url = https://github.com/conda-forge/r-praznik-feedstock.git
 	path = feedstocks/r-praznik
 	branch = refs/heads/master
+[submodule "requests-gracedb"]
+	url = https://github.com/conda-forge/requests-gracedb-feedstock.git
+	path = feedstocks/requests-gracedb
+	branch = refs/heads/master
