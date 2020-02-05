@@ -35862,3 +35862,7 @@
 	url = https://github.com/conda-forge/w3lib-feedstock.git
 	path = feedstocks/w3lib
 	branch = refs/heads/master
+[submodule "fastbpe"]
+	url = https://github.com/conda-forge/fastbpe-feedstock.git
+	path = feedstocks/fastbpe
+	branch = refs/heads/master
