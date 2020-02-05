@@ -35874,3 +35874,7 @@
 	url = https://github.com/conda-forge/openpmd-viewer-feedstock.git
 	path = feedstocks/openpmd-viewer
 	branch = refs/heads/master
+[submodule "jupyter-vscode-proxy"]
+	url = https://github.com/conda-forge/jupyter-vscode-proxy-feedstock.git
+	path = feedstocks/jupyter-vscode-proxy
+	branch = refs/heads/master
