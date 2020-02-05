@@ -35894,3 +35894,7 @@
 	url = https://github.com/conda-forge/pre-commit-mirror-maker-feedstock.git
 	path = feedstocks/pre-commit-mirror-maker
 	branch = refs/heads/master
+[submodule "python_abi"]
+	url = https://github.com/conda-forge/python_abi-feedstock.git
+	path = feedstocks/python_abi
+	branch = refs/heads/master
