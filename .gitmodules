@@ -35890,3 +35890,7 @@
 	url = https://github.com/conda-forge/basictools-feedstock.git
 	path = feedstocks/basictools
 	branch = refs/heads/master
+[submodule "pre-commit-mirror-maker"]
+	url = https://github.com/conda-forge/pre-commit-mirror-maker-feedstock.git
+	path = feedstocks/pre-commit-mirror-maker
+	branch = refs/heads/master
