@@ -35858,3 +35858,7 @@
 	url = https://github.com/conda-forge/czml3-feedstock.git
 	path = feedstocks/czml3
 	branch = refs/heads/master
+[submodule "w3lib"]
+	url = https://github.com/conda-forge/w3lib-feedstock.git
+	path = feedstocks/w3lib
+	branch = refs/heads/master
