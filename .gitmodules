@@ -35926,3 +35926,7 @@
 	url = https://github.com/conda-forge/jupyter-offlinenotebook-feedstock.git
 	path = feedstocks/jupyter-offlinenotebook
 	branch = refs/heads/master
+[submodule "thermohubclient"]
+	url = https://github.com/conda-forge/thermohubclient-feedstock.git
+	path = feedstocks/thermohubclient
+	branch = refs/heads/master
