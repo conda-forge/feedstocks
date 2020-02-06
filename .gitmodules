@@ -35902,3 +35902,7 @@
 	url = https://github.com/conda-forge/avahi-feedstock.git
 	path = feedstocks/avahi
 	branch = refs/heads/master
+[submodule "xcube_geodb"]
+	url = https://github.com/conda-forge/xcube_geodb-feedstock.git
+	path = feedstocks/xcube_geodb
+	branch = refs/heads/master
