@@ -35906,3 +35906,7 @@
 	url = https://github.com/conda-forge/xcube_geodb-feedstock.git
 	path = feedstocks/xcube_geodb
 	branch = refs/heads/master
+[submodule "nteract-scrapbook"]
+	url = https://github.com/conda-forge/nteract-scrapbook-feedstock.git
+	path = feedstocks/nteract-scrapbook
+	branch = refs/heads/master
