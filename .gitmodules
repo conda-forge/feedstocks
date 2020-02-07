@@ -35938,3 +35938,7 @@
 	url = https://github.com/conda-forge/r-phylobase-feedstock.git
 	path = feedstocks/r-phylobase
 	branch = refs/heads/master
+[submodule "clingo"]
+	url = https://github.com/conda-forge/clingo-feedstock.git
+	path = feedstocks/clingo
+	branch = refs/heads/master
