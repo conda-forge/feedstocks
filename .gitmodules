@@ -35930,3 +35930,7 @@
 	url = https://github.com/conda-forge/thermohubclient-feedstock.git
 	path = feedstocks/thermohubclient
 	branch = refs/heads/master
+[submodule "alm"]
+	url = https://github.com/conda-forge/alm-feedstock.git
+	path = feedstocks/alm
+	branch = refs/heads/master
