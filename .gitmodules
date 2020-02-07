@@ -35942,3 +35942,7 @@
 	url = https://github.com/conda-forge/clingo-feedstock.git
 	path = feedstocks/clingo
 	branch = refs/heads/master
+[submodule "r-adephylo"]
+	url = https://github.com/conda-forge/r-adephylo-feedstock.git
+	path = feedstocks/r-adephylo
+	branch = refs/heads/master
