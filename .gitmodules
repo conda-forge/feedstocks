@@ -35970,3 +35970,7 @@
 	url = https://github.com/conda-forge/sagemaker-mxnet-serving-container-feedstock.git
 	path = feedstocks/sagemaker-mxnet-serving-container
 	branch = refs/heads/master
+[submodule "jacqq"]
+	url = https://github.com/conda-forge/jacqq-feedstock.git
+	path = feedstocks/jacqq
+	branch = refs/heads/master
