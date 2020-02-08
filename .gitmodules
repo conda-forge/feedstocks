@@ -35950,3 +35950,7 @@
 	url = https://github.com/conda-forge/graphene-django-feedstock.git
 	path = feedstocks/graphene-django
 	branch = refs/heads/master
+[submodule "sagemaker_pyspark"]
+	url = https://github.com/conda-forge/sagemaker_pyspark-feedstock.git
+	path = feedstocks/sagemaker_pyspark
+	branch = refs/heads/master
