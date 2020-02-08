@@ -35954,3 +35954,7 @@
 	url = https://github.com/conda-forge/sagemaker_pyspark-feedstock.git
 	path = feedstocks/sagemaker_pyspark
 	branch = refs/heads/master
+[submodule "requests-kerberos"]
+	url = https://github.com/conda-forge/requests-kerberos-feedstock.git
+	path = feedstocks/requests-kerberos
+	branch = refs/heads/master
