@@ -35966,3 +35966,7 @@
 	url = https://github.com/conda-forge/cdcs-feedstock.git
 	path = feedstocks/cdcs
 	branch = refs/heads/master
+[submodule "sagemaker-mxnet-serving-container"]
+	url = https://github.com/conda-forge/sagemaker-mxnet-serving-container-feedstock.git
+	path = feedstocks/sagemaker-mxnet-serving-container
+	branch = refs/heads/master
