@@ -35958,3 +35958,7 @@
 	url = https://github.com/conda-forge/requests-kerberos-feedstock.git
 	path = feedstocks/requests-kerberos
 	branch = refs/heads/master
+[submodule "neuralcoref"]
+	url = https://github.com/conda-forge/neuralcoref-feedstock.git
+	path = feedstocks/neuralcoref
+	branch = refs/heads/master
