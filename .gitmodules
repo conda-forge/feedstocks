@@ -35982,3 +35982,7 @@
 	url = https://github.com/conda-forge/r-lcars-feedstock.git
 	path = feedstocks/r-lcars
 	branch = refs/heads/master
+[submodule "bytecode"]
+	url = https://github.com/conda-forge/bytecode-feedstock.git
+	path = feedstocks/bytecode
+	branch = refs/heads/master
