@@ -35978,3 +35978,7 @@
 	url = https://github.com/conda-forge/r-trekcolors-feedstock.git
 	path = feedstocks/r-trekcolors
 	branch = refs/heads/master
+[submodule "r-lcars"]
+	url = https://github.com/conda-forge/r-lcars-feedstock.git
+	path = feedstocks/r-lcars
+	branch = refs/heads/master
