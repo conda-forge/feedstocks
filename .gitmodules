@@ -35994,3 +35994,7 @@
 	url = https://github.com/conda-forge/flask-mqtt-feedstock.git
 	path = feedstocks/flask-mqtt
 	branch = refs/heads/master
+[submodule "openal-soft"]
+	url = https://github.com/conda-forge/openal-soft-feedstock.git
+	path = feedstocks/openal-soft
+	branch = refs/heads/master
