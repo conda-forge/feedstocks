@@ -36002,3 +36002,7 @@
 	url = https://github.com/conda-forge/r-raceid-feedstock.git
 	path = feedstocks/r-raceid
 	branch = refs/heads/master
+[submodule "gstlal-ugly"]
+	url = https://github.com/conda-forge/gstlal-ugly-feedstock.git
+	path = feedstocks/gstlal-ugly
+	branch = refs/heads/master
