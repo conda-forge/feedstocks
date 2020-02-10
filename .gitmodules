@@ -36022,3 +36022,7 @@
 	url = https://github.com/conda-forge/textstat-feedstock.git
 	path = feedstocks/textstat
 	branch = refs/heads/master
+[submodule "chainer"]
+	url = https://github.com/conda-forge/chainer-feedstock.git
+	path = feedstocks/chainer
+	branch = refs/heads/master
