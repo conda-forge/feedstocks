@@ -36018,3 +36018,7 @@
 	url = https://github.com/conda-forge/sagemaker-chainer-container-feedstock.git
 	path = feedstocks/sagemaker-chainer-container
 	branch = refs/heads/master
+[submodule "textstat"]
+	url = https://github.com/conda-forge/textstat-feedstock.git
+	path = feedstocks/textstat
+	branch = refs/heads/master
