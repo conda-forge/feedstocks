@@ -36006,3 +36006,7 @@
 	url = https://github.com/conda-forge/gstlal-ugly-feedstock.git
 	path = feedstocks/gstlal-ugly
 	branch = refs/heads/master
+[submodule "botor"]
+	url = https://github.com/conda-forge/botor-feedstock.git
+	path = feedstocks/botor
+	branch = refs/heads/master
