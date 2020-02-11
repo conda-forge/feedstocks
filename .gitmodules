@@ -36054,3 +36054,7 @@
 	url = https://github.com/conda-forge/r-botor-feedstock.git
 	path = feedstocks/r-botor
 	branch = refs/heads/master
+[submodule "r-qs"]
+	url = https://github.com/conda-forge/r-qs-feedstock.git
+	path = feedstocks/r-qs
+	branch = refs/heads/master
