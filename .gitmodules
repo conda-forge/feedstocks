@@ -36114,3 +36114,7 @@
 	url = https://github.com/conda-forge/kim_edn-feedstock.git
 	path = feedstocks/kim_edn
 	branch = refs/heads/master
+[submodule "cockroachdb-python"]
+	url = https://github.com/conda-forge/cockroachdb-python-feedstock.git
+	path = feedstocks/cockroachdb-python
+	branch = refs/heads/master
