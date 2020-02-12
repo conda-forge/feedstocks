@@ -36082,3 +36082,7 @@
 	url = https://github.com/conda-forge/libxcb-cos7-aarch64-feedstock.git
 	path = feedstocks/libxcb-cos7-aarch64
 	branch = refs/heads/master
+[submodule "libx11-devel-cos7-aarch64"]
+	url = https://github.com/conda-forge/libx11-devel-cos7-aarch64-feedstock.git
+	path = feedstocks/libx11-devel-cos7-aarch64
+	branch = refs/heads/master
