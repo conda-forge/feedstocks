@@ -36106,3 +36106,7 @@
 	url = https://github.com/conda-forge/gstlal-calibration-feedstock.git
 	path = feedstocks/gstlal-calibration
 	branch = refs/heads/master
+[submodule "mtcnn"]
+	url = https://github.com/conda-forge/mtcnn-feedstock.git
+	path = feedstocks/mtcnn
+	branch = refs/heads/master
