@@ -36062,3 +36062,7 @@
 	url = https://github.com/conda-forge/r-phylosignal-feedstock.git
 	path = feedstocks/r-phylosignal
 	branch = refs/heads/master
+[submodule "yamale"]
+	url = https://github.com/conda-forge/yamale-feedstock.git
+	path = feedstocks/yamale
+	branch = refs/heads/master
