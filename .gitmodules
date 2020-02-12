@@ -36118,3 +36118,7 @@
 	url = https://github.com/conda-forge/cockroachdb-python-feedstock.git
 	path = feedstocks/cockroachdb-python
 	branch = refs/heads/master
+[submodule "funcparserlib"]
+	url = https://github.com/conda-forge/funcparserlib-feedstock.git
+	path = feedstocks/funcparserlib
+	branch = refs/heads/master
