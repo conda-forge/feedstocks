@@ -36074,3 +36074,7 @@
 	url = https://github.com/conda-forge/libx11-common-cos7-aarch64-feedstock.git
 	path = feedstocks/libx11-common-cos7-aarch64
 	branch = refs/heads/master
+[submodule "xorg-x11-proto-devel-cos7-aarch64"]
+	url = https://github.com/conda-forge/xorg-x11-proto-devel-cos7-aarch64-feedstock.git
+	path = feedstocks/xorg-x11-proto-devel-cos7-aarch64
+	branch = refs/heads/master
