@@ -36090,3 +36090,7 @@
 	url = https://github.com/conda-forge/libx11-cos7-aarch64-feedstock.git
 	path = feedstocks/libx11-cos7-aarch64
 	branch = refs/heads/master
+[submodule "ptvpy"]
+	url = https://github.com/conda-forge/ptvpy-feedstock.git
+	path = feedstocks/ptvpy
+	branch = refs/heads/master
