@@ -36110,3 +36110,7 @@
 	url = https://github.com/conda-forge/mtcnn-feedstock.git
 	path = feedstocks/mtcnn
 	branch = refs/heads/master
+[submodule "kim_edn"]
+	url = https://github.com/conda-forge/kim_edn-feedstock.git
+	path = feedstocks/kim_edn
+	branch = refs/heads/master
