@@ -36094,3 +36094,7 @@
 	url = https://github.com/conda-forge/ptvpy-feedstock.git
 	path = feedstocks/ptvpy
 	branch = refs/heads/master
+[submodule "gstlal-inspiral"]
+	url = https://github.com/conda-forge/gstlal-inspiral-feedstock.git
+	path = feedstocks/gstlal-inspiral
+	branch = refs/heads/master
