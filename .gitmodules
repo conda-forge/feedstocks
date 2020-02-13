@@ -36138,3 +36138,7 @@
 	url = https://github.com/conda-forge/openpathsampling-cli-feedstock.git
 	path = feedstocks/openpathsampling-cli
 	branch = refs/heads/master
+[submodule "mpltern"]
+	url = https://github.com/conda-forge/mpltern-feedstock.git
+	path = feedstocks/mpltern
+	branch = refs/heads/master
