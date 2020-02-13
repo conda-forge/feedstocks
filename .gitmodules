@@ -36158,3 +36158,7 @@
 	url = https://github.com/conda-forge/pycollada-feedstock.git
 	path = feedstocks/pycollada
 	branch = refs/heads/master
+[submodule "deepchem"]
+	url = https://github.com/conda-forge/deepchem-feedstock.git
+	path = feedstocks/deepchem
+	branch = refs/heads/master
