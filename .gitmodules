@@ -36150,3 +36150,7 @@
 	url = https://github.com/conda-forge/pymodm-feedstock.git
 	path = feedstocks/pymodm
 	branch = refs/heads/master
+[submodule "libbezier"]
+	url = https://github.com/conda-forge/libbezier-feedstock.git
+	path = feedstocks/libbezier
+	branch = refs/heads/master
