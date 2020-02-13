@@ -36162,3 +36162,7 @@
 	url = https://github.com/conda-forge/deepchem-feedstock.git
 	path = feedstocks/deepchem
 	branch = refs/heads/master
+[submodule "modflow6"]
+	url = https://github.com/conda-forge/modflow6-feedstock.git
+	path = feedstocks/modflow6
+	branch = refs/heads/master
