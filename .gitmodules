@@ -36126,3 +36126,7 @@
 	url = https://github.com/conda-forge/contexter-feedstock.git
 	path = feedstocks/contexter
 	branch = refs/heads/master
+[submodule "libtiledb-sql-py"]
+	url = https://github.com/conda-forge/libtiledb-sql-py-feedstock.git
+	path = feedstocks/libtiledb-sql-py
+	branch = refs/heads/master
