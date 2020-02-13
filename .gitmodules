@@ -36146,3 +36146,7 @@
 	url = https://github.com/conda-forge/pybigquery-feedstock.git
 	path = feedstocks/pybigquery
 	branch = refs/heads/master
+[submodule "pymodm"]
+	url = https://github.com/conda-forge/pymodm-feedstock.git
+	path = feedstocks/pymodm
+	branch = refs/heads/master
