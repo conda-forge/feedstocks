@@ -36142,3 +36142,7 @@
 	url = https://github.com/conda-forge/mpltern-feedstock.git
 	path = feedstocks/mpltern
 	branch = refs/heads/master
+[submodule "pybigquery"]
+	url = https://github.com/conda-forge/pybigquery-feedstock.git
+	path = feedstocks/pybigquery
+	branch = refs/heads/master
