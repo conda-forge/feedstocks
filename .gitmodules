@@ -36154,3 +36154,7 @@
 	url = https://github.com/conda-forge/libbezier-feedstock.git
 	path = feedstocks/libbezier
 	branch = refs/heads/master
+[submodule "pycollada"]
+	url = https://github.com/conda-forge/pycollada-feedstock.git
+	path = feedstocks/pycollada
+	branch = refs/heads/master
