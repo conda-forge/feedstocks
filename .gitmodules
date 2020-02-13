@@ -36134,3 +36134,7 @@
 	url = https://github.com/conda-forge/cmdline_provenance-feedstock.git
 	path = feedstocks/cmdline_provenance
 	branch = refs/heads/master
+[submodule "openpathsampling-cli"]
+	url = https://github.com/conda-forge/openpathsampling-cli-feedstock.git
+	path = feedstocks/openpathsampling-cli
+	branch = refs/heads/master
