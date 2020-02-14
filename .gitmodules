@@ -36166,3 +36166,7 @@
 	url = https://github.com/conda-forge/modflow6-feedstock.git
 	path = feedstocks/modflow6
 	branch = refs/heads/master
+[submodule "2dfatmic"]
+	url = https://github.com/conda-forge/2dfatmic-feedstock.git
+	path = feedstocks/2dfatmic
+	branch = refs/heads/master
