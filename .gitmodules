@@ -36174,3 +36174,7 @@
 	url = https://github.com/conda-forge/dtale-feedstock.git
 	path = feedstocks/dtale
 	branch = refs/heads/master
+[submodule "pikepdf"]
+	url = https://github.com/conda-forge/pikepdf-feedstock.git
+	path = feedstocks/pikepdf
+	branch = refs/heads/master
