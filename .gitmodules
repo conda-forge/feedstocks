@@ -36194,3 +36194,7 @@
 	url = https://github.com/conda-forge/cdflib-feedstock.git
 	path = feedstocks/cdflib
 	branch = refs/heads/master
+[submodule "zmqpp"]
+	url = https://github.com/conda-forge/zmqpp-feedstock.git
+	path = feedstocks/zmqpp
+	branch = refs/heads/master
