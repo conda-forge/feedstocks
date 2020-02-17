@@ -36214,3 +36214,7 @@
 	url = https://github.com/conda-forge/r-hardhat-feedstock.git
 	path = feedstocks/r-hardhat
 	branch = refs/heads/master
+[submodule "r-gpfit"]
+	url = https://github.com/conda-forge/r-gpfit-feedstock.git
+	path = feedstocks/r-gpfit
+	branch = refs/heads/master
