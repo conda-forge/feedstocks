@@ -36278,3 +36278,7 @@
 	url = https://github.com/conda-forge/requests-ecp-feedstock.git
 	path = feedstocks/requests-ecp
 	branch = refs/heads/master
+[submodule "r-sweep"]
+	url = https://github.com/conda-forge/r-sweep-feedstock.git
+	path = feedstocks/r-sweep
+	branch = refs/heads/master
