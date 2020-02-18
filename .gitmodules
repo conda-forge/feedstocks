@@ -36250,3 +36250,7 @@
 	url = https://github.com/conda-forge/r-timetk-feedstock.git
 	path = feedstocks/r-timetk
 	branch = refs/heads/master
+[submodule "cartopy_offlinedata"]
+	url = https://github.com/conda-forge/cartopy_offlinedata-feedstock.git
+	path = feedstocks/cartopy_offlinedata
+	branch = refs/heads/master
