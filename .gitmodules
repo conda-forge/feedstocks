@@ -36270,3 +36270,7 @@
 	url = https://github.com/conda-forge/r-tune-feedstock.git
 	path = feedstocks/r-tune
 	branch = refs/heads/master
+[submodule "pytest-flask-sqlalchemy"]
+	url = https://github.com/conda-forge/pytest-flask-sqlalchemy-feedstock.git
+	path = feedstocks/pytest-flask-sqlalchemy
+	branch = refs/heads/master
