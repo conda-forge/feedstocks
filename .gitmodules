@@ -36274,3 +36274,7 @@
 	url = https://github.com/conda-forge/pytest-flask-sqlalchemy-feedstock.git
 	path = feedstocks/pytest-flask-sqlalchemy
 	branch = refs/heads/master
+[submodule "requests-ecp"]
+	url = https://github.com/conda-forge/requests-ecp-feedstock.git
+	path = feedstocks/requests-ecp
+	branch = refs/heads/master
