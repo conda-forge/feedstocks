@@ -36238,3 +36238,7 @@
 	url = https://github.com/conda-forge/r-tidyquant-feedstock.git
 	path = feedstocks/r-tidyquant
 	branch = refs/heads/master
+[submodule "readchar"]
+	url = https://github.com/conda-forge/readchar-feedstock.git
+	path = feedstocks/readchar
+	branch = refs/heads/master
