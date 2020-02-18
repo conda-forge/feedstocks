@@ -36262,3 +36262,7 @@
 	url = https://github.com/conda-forge/r-float-feedstock.git
 	path = feedstocks/r-float
 	branch = refs/heads/master
+[submodule "hs-process"]
+	url = https://github.com/conda-forge/hs-process-feedstock.git
+	path = feedstocks/hs-process
+	branch = refs/heads/master
