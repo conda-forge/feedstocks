@@ -36282,3 +36282,7 @@
 	url = https://github.com/conda-forge/r-sweep-feedstock.git
 	path = feedstocks/r-sweep
 	branch = refs/heads/master
+[submodule "r-lgr"]
+	url = https://github.com/conda-forge/r-lgr-feedstock.git
+	path = feedstocks/r-lgr
+	branch = refs/heads/master
