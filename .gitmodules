@@ -36254,3 +36254,7 @@
 	url = https://github.com/conda-forge/cartopy_offlinedata-feedstock.git
 	path = feedstocks/cartopy_offlinedata
 	branch = refs/heads/master
+[submodule "inquirer"]
+	url = https://github.com/conda-forge/inquirer-feedstock.git
+	path = feedstocks/inquirer
+	branch = refs/heads/master
