@@ -36258,3 +36258,7 @@
 	url = https://github.com/conda-forge/inquirer-feedstock.git
 	path = feedstocks/inquirer
 	branch = refs/heads/master
+[submodule "r-float"]
+	url = https://github.com/conda-forge/r-float-feedstock.git
+	path = feedstocks/r-float
+	branch = refs/heads/master
