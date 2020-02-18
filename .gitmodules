@@ -36266,3 +36266,7 @@
 	url = https://github.com/conda-forge/hs-process-feedstock.git
 	path = feedstocks/hs-process
 	branch = refs/heads/master
+[submodule "r-tune"]
+	url = https://github.com/conda-forge/r-tune-feedstock.git
+	path = feedstocks/r-tune
+	branch = refs/heads/master
