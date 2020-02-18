@@ -36234,3 +36234,7 @@
 	url = https://github.com/conda-forge/lifetimes-feedstock.git
 	path = feedstocks/lifetimes
 	branch = refs/heads/master
+[submodule "r-tidyquant"]
+	url = https://github.com/conda-forge/r-tidyquant-feedstock.git
+	path = feedstocks/r-tidyquant
+	branch = refs/heads/master
