@@ -36230,3 +36230,7 @@
 	url = https://github.com/conda-forge/r-workflows-feedstock.git
 	path = feedstocks/r-workflows
 	branch = refs/heads/master
+[submodule "lifetimes"]
+	url = https://github.com/conda-forge/lifetimes-feedstock.git
+	path = feedstocks/lifetimes
+	branch = refs/heads/master
