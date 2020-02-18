@@ -36246,3 +36246,7 @@
 	url = https://github.com/conda-forge/pop-tools-feedstock.git
 	path = feedstocks/pop-tools
 	branch = refs/heads/master
+[submodule "r-timetk"]
+	url = https://github.com/conda-forge/r-timetk-feedstock.git
+	path = feedstocks/r-timetk
+	branch = refs/heads/master
