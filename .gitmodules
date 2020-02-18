@@ -36226,3 +36226,7 @@
 	url = https://github.com/conda-forge/r-gluedown-feedstock.git
 	path = feedstocks/r-gluedown
 	branch = refs/heads/master
+[submodule "r-workflows"]
+	url = https://github.com/conda-forge/r-workflows-feedstock.git
+	path = feedstocks/r-workflows
+	branch = refs/heads/master
