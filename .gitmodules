@@ -36294,3 +36294,7 @@
 	url = https://github.com/conda-forge/deon-feedstock.git
 	path = feedstocks/deon
 	branch = refs/heads/master
+[submodule "sigtools"]
+	url = https://github.com/conda-forge/sigtools-feedstock.git
+	path = feedstocks/sigtools
+	branch = refs/heads/master
