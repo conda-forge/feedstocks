@@ -36286,3 +36286,7 @@
 	url = https://github.com/conda-forge/r-lgr-feedstock.git
 	path = feedstocks/r-lgr
 	branch = refs/heads/master
+[submodule "r-rsparse"]
+	url = https://github.com/conda-forge/r-rsparse-feedstock.git
+	path = feedstocks/r-rsparse
+	branch = refs/heads/master
