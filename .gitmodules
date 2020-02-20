@@ -36330,3 +36330,7 @@
 	url = https://github.com/conda-forge/func_timeout-feedstock.git
 	path = feedstocks/func_timeout
 	branch = refs/heads/master
+[submodule "opensource"]
+	url = https://github.com/conda-forge/opensource-feedstock.git
+	path = feedstocks/opensource
+	branch = refs/heads/master
