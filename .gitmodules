@@ -36318,3 +36318,7 @@
 	url = https://github.com/conda-forge/dynasor-feedstock.git
 	path = feedstocks/dynasor
 	branch = refs/heads/master
+[submodule "hiphive"]
+	url = https://github.com/conda-forge/hiphive-feedstock.git
+	path = feedstocks/hiphive
+	branch = refs/heads/master
