@@ -36342,3 +36342,7 @@
 	url = https://github.com/conda-forge/instapush-feedstock.git
 	path = feedstocks/instapush
 	branch = refs/heads/master
+[submodule "od"]
+	url = https://github.com/conda-forge/od-feedstock.git
+	path = feedstocks/od
+	branch = refs/heads/master
