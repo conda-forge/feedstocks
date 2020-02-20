@@ -36302,3 +36302,7 @@
 	url = https://github.com/conda-forge/mesa-libegl-cos7-aarch64-feedstock.git
 	path = feedstocks/mesa-libegl-cos7-aarch64
 	branch = refs/heads/master
+[submodule "lunarcalendar"]
+	url = https://github.com/conda-forge/lunarcalendar-feedstock.git
+	path = feedstocks/lunarcalendar
+	branch = refs/heads/master
