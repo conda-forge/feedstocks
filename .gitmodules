@@ -36306,3 +36306,7 @@
 	url = https://github.com/conda-forge/lunarcalendar-feedstock.git
 	path = feedstocks/lunarcalendar
 	branch = refs/heads/master
+[submodule "phono3py"]
+	url = https://github.com/conda-forge/phono3py-feedstock.git
+	path = feedstocks/phono3py
+	branch = refs/heads/master
