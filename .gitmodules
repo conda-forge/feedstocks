@@ -36314,3 +36314,7 @@
 	url = https://github.com/conda-forge/wulffpack-feedstock.git
 	path = feedstocks/wulffpack
 	branch = refs/heads/master
+[submodule "dynasor"]
+	url = https://github.com/conda-forge/dynasor-feedstock.git
+	path = feedstocks/dynasor
+	branch = refs/heads/master
