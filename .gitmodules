@@ -36310,3 +36310,7 @@
 	url = https://github.com/conda-forge/phono3py-feedstock.git
 	path = feedstocks/phono3py
 	branch = refs/heads/master
+[submodule "wulffpack"]
+	url = https://github.com/conda-forge/wulffpack-feedstock.git
+	path = feedstocks/wulffpack
+	branch = refs/heads/master
