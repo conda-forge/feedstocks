@@ -36298,3 +36298,7 @@
 	url = https://github.com/conda-forge/sigtools-feedstock.git
 	path = feedstocks/sigtools
 	branch = refs/heads/master
+[submodule "mesa-libegl-cos7-aarch64"]
+	url = https://github.com/conda-forge/mesa-libegl-cos7-aarch64-feedstock.git
+	path = feedstocks/mesa-libegl-cos7-aarch64
+	branch = refs/heads/master
