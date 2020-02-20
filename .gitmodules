@@ -36338,3 +36338,7 @@
 	url = https://github.com/conda-forge/telegram-send-feedstock.git
 	path = feedstocks/telegram-send
 	branch = refs/heads/master
+[submodule "instapush"]
+	url = https://github.com/conda-forge/instapush-feedstock.git
+	path = feedstocks/instapush
+	branch = refs/heads/master
