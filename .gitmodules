@@ -36346,3 +36346,7 @@
 	url = https://github.com/conda-forge/od-feedstock.git
 	path = feedstocks/od
 	branch = refs/heads/master
+[submodule "pyftdi"]
+	url = https://github.com/conda-forge/pyftdi-feedstock.git
+	path = feedstocks/pyftdi
+	branch = refs/heads/master
