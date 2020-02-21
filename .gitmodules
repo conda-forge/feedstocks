@@ -36366,3 +36366,7 @@
 	url = https://github.com/conda-forge/orographic_precipitation-feedstock.git
 	path = feedstocks/orographic_precipitation
 	branch = refs/heads/master
+[submodule "libraw"]
+	url = https://github.com/conda-forge/libraw-feedstock.git
+	path = feedstocks/libraw
+	branch = refs/heads/master
