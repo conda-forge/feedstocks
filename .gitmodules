@@ -36374,3 +36374,7 @@
 	url = https://github.com/conda-forge/sagemaker-pytorch-serving-container-feedstock.git
 	path = feedstocks/sagemaker-pytorch-serving-container
 	branch = refs/heads/master
+[submodule "clize"]
+	url = https://github.com/conda-forge/clize-feedstock.git
+	path = feedstocks/clize
+	branch = refs/heads/master
