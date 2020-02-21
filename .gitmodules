@@ -36370,3 +36370,7 @@
 	url = https://github.com/conda-forge/libraw-feedstock.git
 	path = feedstocks/libraw
 	branch = refs/heads/master
+[submodule "sagemaker-pytorch-serving-container"]
+	url = https://github.com/conda-forge/sagemaker-pytorch-serving-container-feedstock.git
+	path = feedstocks/sagemaker-pytorch-serving-container
+	branch = refs/heads/master
