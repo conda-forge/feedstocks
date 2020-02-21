@@ -36362,3 +36362,7 @@
 	url = https://github.com/conda-forge/pyart_mch-feedstock.git
 	path = feedstocks/pyart_mch
 	branch = refs/heads/master
+[submodule "orographic_precipitation"]
+	url = https://github.com/conda-forge/orographic_precipitation-feedstock.git
+	path = feedstocks/orographic_precipitation
+	branch = refs/heads/master
