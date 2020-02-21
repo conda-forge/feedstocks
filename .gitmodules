@@ -36350,3 +36350,7 @@
 	url = https://github.com/conda-forge/pyftdi-feedstock.git
 	path = feedstocks/pyftdi
 	branch = refs/heads/master
+[submodule "cylc-ui"]
+	url = https://github.com/conda-forge/cylc-ui-feedstock.git
+	path = feedstocks/cylc-ui
+	branch = refs/heads/master
