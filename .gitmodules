@@ -36378,3 +36378,7 @@
 	url = https://github.com/conda-forge/clize-feedstock.git
 	path = feedstocks/clize
 	branch = refs/heads/master
+[submodule "pyerf"]
+	url = https://github.com/conda-forge/pyerf-feedstock.git
+	path = feedstocks/pyerf
+	branch = refs/heads/master
