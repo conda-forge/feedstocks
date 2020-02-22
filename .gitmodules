@@ -36382,3 +36382,7 @@
 	url = https://github.com/conda-forge/pyerf-feedstock.git
 	path = feedstocks/pyerf
 	branch = refs/heads/master
+[submodule "scikits-bootstrap"]
+	url = https://github.com/conda-forge/scikits-bootstrap-feedstock.git
+	path = feedstocks/scikits-bootstrap
+	branch = refs/heads/master
