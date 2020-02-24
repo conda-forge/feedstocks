@@ -36386,3 +36386,7 @@
 	url = https://github.com/conda-forge/scikits-bootstrap-feedstock.git
 	path = feedstocks/scikits-bootstrap
 	branch = refs/heads/master
+[submodule "aioitertools"]
+	url = https://github.com/conda-forge/aioitertools-feedstock.git
+	path = feedstocks/aioitertools
+	branch = refs/heads/master
