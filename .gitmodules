@@ -36402,3 +36402,7 @@
 	url = https://github.com/conda-forge/nbin-feedstock.git
 	path = feedstocks/nbin
 	branch = refs/heads/master
+[submodule "intake-geopandas"]
+	url = https://github.com/conda-forge/intake-geopandas-feedstock.git
+	path = feedstocks/intake-geopandas
+	branch = refs/heads/master
