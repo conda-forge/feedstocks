@@ -36394,3 +36394,7 @@
 	url = https://github.com/conda-forge/r-scholar-feedstock.git
 	path = feedstocks/r-scholar
 	branch = refs/heads/master
+[submodule "neurofire"]
+	url = https://github.com/conda-forge/neurofire-feedstock.git
+	path = feedstocks/neurofire
+	branch = refs/heads/master
