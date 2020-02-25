@@ -36410,3 +36410,7 @@
 	url = https://github.com/conda-forge/eonr-feedstock.git
 	path = feedstocks/eonr
 	branch = refs/heads/master
+[submodule "libccd"]
+	url = https://github.com/conda-forge/libccd-feedstock.git
+	path = feedstocks/libccd
+	branch = refs/heads/master
