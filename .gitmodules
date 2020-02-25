@@ -36454,3 +36454,7 @@
 	url = https://github.com/conda-forge/obsplus-feedstock.git
 	path = feedstocks/obsplus
 	branch = refs/heads/master
+[submodule "ompl"]
+	url = https://github.com/conda-forge/ompl-feedstock.git
+	path = feedstocks/ompl
+	branch = refs/heads/master
