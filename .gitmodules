@@ -36442,3 +36442,7 @@
 	url = https://github.com/conda-forge/pythonocc-core-feedstock.git
 	path = feedstocks/pythonocc-core
 	branch = refs/heads/master
+[submodule "threadpoolctl"]
+	url = https://github.com/conda-forge/threadpoolctl-feedstock.git
+	path = feedstocks/threadpoolctl
+	branch = refs/heads/master
