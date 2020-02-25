@@ -36446,3 +36446,7 @@
 	url = https://github.com/conda-forge/threadpoolctl-feedstock.git
 	path = feedstocks/threadpoolctl
 	branch = refs/heads/master
+[submodule "numpoly"]
+	url = https://github.com/conda-forge/numpoly-feedstock.git
+	path = feedstocks/numpoly
+	branch = refs/heads/master
