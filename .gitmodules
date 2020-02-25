@@ -36426,3 +36426,7 @@
 	url = https://github.com/conda-forge/nomkl-feedstock.git
 	path = feedstocks/nomkl
 	branch = refs/heads/master
+[submodule "hydra-core"]
+	url = https://github.com/conda-forge/hydra-core-feedstock.git
+	path = feedstocks/hydra-core
+	branch = refs/heads/master
