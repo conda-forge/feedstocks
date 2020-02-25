@@ -36418,3 +36418,7 @@
 	url = https://github.com/conda-forge/exchangelib-feedstock.git
 	path = feedstocks/exchangelib
 	branch = refs/heads/master
+[submodule "fcl"]
+	url = https://github.com/conda-forge/fcl-feedstock.git
+	path = feedstocks/fcl
+	branch = refs/heads/master
