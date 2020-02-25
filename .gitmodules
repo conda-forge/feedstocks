@@ -36434,3 +36434,7 @@
 	url = https://github.com/conda-forge/cylc-feedstock.git
 	path = feedstocks/cylc
 	branch = refs/heads/master
+[submodule "pytest-monitor"]
+	url = https://github.com/conda-forge/pytest-monitor-feedstock.git
+	path = feedstocks/pytest-monitor
+	branch = refs/heads/master
