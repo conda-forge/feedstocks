@@ -36422,3 +36422,7 @@
 	url = https://github.com/conda-forge/fcl-feedstock.git
 	path = feedstocks/fcl
 	branch = refs/heads/master
+[submodule "nomkl"]
+	url = https://github.com/conda-forge/nomkl-feedstock.git
+	path = feedstocks/nomkl
+	branch = refs/heads/master
