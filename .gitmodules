@@ -36458,3 +36458,7 @@
 	url = https://github.com/conda-forge/ompl-feedstock.git
 	path = feedstocks/ompl
 	branch = refs/heads/master
+[submodule "hiplot"]
+	url = https://github.com/conda-forge/hiplot-feedstock.git
+	path = feedstocks/hiplot
+	branch = refs/heads/master
