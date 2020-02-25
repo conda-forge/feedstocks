@@ -36430,3 +36430,7 @@
 	url = https://github.com/conda-forge/hydra-core-feedstock.git
 	path = feedstocks/hydra-core
 	branch = refs/heads/master
+[submodule "cylc"]
+	url = https://github.com/conda-forge/cylc-feedstock.git
+	path = feedstocks/cylc
+	branch = refs/heads/master
