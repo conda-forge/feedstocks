@@ -36414,3 +36414,7 @@
 	url = https://github.com/conda-forge/libccd-feedstock.git
 	path = feedstocks/libccd
 	branch = refs/heads/master
+[submodule "exchangelib"]
+	url = https://github.com/conda-forge/exchangelib-feedstock.git
+	path = feedstocks/exchangelib
+	branch = refs/heads/master
