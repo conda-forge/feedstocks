@@ -36450,3 +36450,7 @@
 	url = https://github.com/conda-forge/numpoly-feedstock.git
 	path = feedstocks/numpoly
 	branch = refs/heads/master
+[submodule "obsplus"]
+	url = https://github.com/conda-forge/obsplus-feedstock.git
+	path = feedstocks/obsplus
+	branch = refs/heads/master
