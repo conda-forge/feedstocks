@@ -36438,3 +36438,7 @@
 	url = https://github.com/conda-forge/pytest-monitor-feedstock.git
 	path = feedstocks/pytest-monitor
 	branch = refs/heads/master
+[submodule "pythonocc-core"]
+	url = https://github.com/conda-forge/pythonocc-core-feedstock.git
+	path = feedstocks/pythonocc-core
+	branch = refs/heads/master
