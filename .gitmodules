@@ -36466,3 +36466,7 @@
 	url = https://github.com/conda-forge/ruptures-feedstock.git
 	path = feedstocks/ruptures
 	branch = refs/heads/master
+[submodule "alive-progress"]
+	url = https://github.com/conda-forge/alive-progress-feedstock.git
+	path = feedstocks/alive-progress
+	branch = refs/heads/master
