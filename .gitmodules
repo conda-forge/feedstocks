@@ -36478,3 +36478,7 @@
 	url = https://github.com/conda-forge/bugsnag-feedstock.git
 	path = feedstocks/bugsnag
 	branch = refs/heads/master
+[submodule "xdoctest"]
+	url = https://github.com/conda-forge/xdoctest-feedstock.git
+	path = feedstocks/xdoctest
+	branch = refs/heads/master
