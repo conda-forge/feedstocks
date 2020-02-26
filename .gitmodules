@@ -36462,3 +36462,7 @@
 	url = https://github.com/conda-forge/hiplot-feedstock.git
 	path = feedstocks/hiplot
 	branch = refs/heads/master
+[submodule "ruptures"]
+	url = https://github.com/conda-forge/ruptures-feedstock.git
+	path = feedstocks/ruptures
+	branch = refs/heads/master
