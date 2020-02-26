@@ -36474,3 +36474,7 @@
 	url = https://github.com/conda-forge/fit-sne-feedstock.git
 	path = feedstocks/fit-sne
 	branch = refs/heads/master
+[submodule "bugsnag"]
+	url = https://github.com/conda-forge/bugsnag-feedstock.git
+	path = feedstocks/bugsnag
+	branch = refs/heads/master
