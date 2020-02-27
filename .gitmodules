@@ -36494,3 +36494,7 @@
 	url = https://github.com/conda-forge/xpublish-feedstock.git
 	path = feedstocks/xpublish
 	branch = refs/heads/master
+[submodule "grayskull"]
+	url = https://github.com/conda-forge/grayskull-feedstock.git
+	path = feedstocks/grayskull
+	branch = refs/heads/master
