@@ -36518,3 +36518,7 @@
 	url = https://github.com/conda-forge/pcraster-feedstock.git
 	path = feedstocks/pcraster
 	branch = refs/heads/master
+[submodule "strip-hints"]
+	url = https://github.com/conda-forge/strip-hints-feedstock.git
+	path = feedstocks/strip-hints
+	branch = refs/heads/master
