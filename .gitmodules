@@ -36514,3 +36514,7 @@
 	url = https://github.com/conda-forge/fast_dp-feedstock.git
 	path = feedstocks/fast_dp
 	branch = refs/heads/master
+[submodule "pcraster"]
+	url = https://github.com/conda-forge/pcraster-feedstock.git
+	path = feedstocks/pcraster
+	branch = refs/heads/master
