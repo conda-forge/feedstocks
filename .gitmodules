@@ -36482,3 +36482,7 @@
 	url = https://github.com/conda-forge/xdoctest-feedstock.git
 	path = feedstocks/xdoctest
 	branch = refs/heads/master
+[submodule "pytest-ordering"]
+	url = https://github.com/conda-forge/pytest-ordering-feedstock.git
+	path = feedstocks/pytest-ordering
+	branch = refs/heads/master
