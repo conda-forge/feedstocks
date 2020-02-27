@@ -36490,3 +36490,7 @@
 	url = https://github.com/conda-forge/napari-feedstock.git
 	path = feedstocks/napari
 	branch = refs/heads/master
+[submodule "xpublish"]
+	url = https://github.com/conda-forge/xpublish-feedstock.git
+	path = feedstocks/xpublish
+	branch = refs/heads/master
