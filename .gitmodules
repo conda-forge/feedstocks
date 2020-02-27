@@ -36510,3 +36510,7 @@
 	url = https://github.com/conda-forge/nccmp-feedstock.git
 	path = feedstocks/nccmp
 	branch = refs/heads/master
+[submodule "fast_dp"]
+	url = https://github.com/conda-forge/fast_dp-feedstock.git
+	path = feedstocks/fast_dp
+	branch = refs/heads/master
