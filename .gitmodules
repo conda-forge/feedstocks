@@ -36498,3 +36498,7 @@
 	url = https://github.com/conda-forge/grayskull-feedstock.git
 	path = feedstocks/grayskull
 	branch = refs/heads/master
+[submodule "tflint"]
+	url = https://github.com/conda-forge/tflint-feedstock.git
+	path = feedstocks/tflint
+	branch = refs/heads/master
