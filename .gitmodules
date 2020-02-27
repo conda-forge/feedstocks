@@ -36526,3 +36526,7 @@
 	url = https://github.com/conda-forge/cmip6_preprocessing-feedstock.git
 	path = feedstocks/cmip6_preprocessing
 	branch = refs/heads/master
+[submodule "j2cli"]
+	url = https://github.com/conda-forge/j2cli-feedstock.git
+	path = feedstocks/j2cli
+	branch = refs/heads/master
