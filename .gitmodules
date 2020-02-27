@@ -36506,3 +36506,7 @@
 	url = https://github.com/conda-forge/pythonfmu-feedstock.git
 	path = feedstocks/pythonfmu
 	branch = refs/heads/master
+[submodule "nccmp"]
+	url = https://github.com/conda-forge/nccmp-feedstock.git
+	path = feedstocks/nccmp
+	branch = refs/heads/master
