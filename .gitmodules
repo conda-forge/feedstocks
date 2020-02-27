@@ -36522,3 +36522,7 @@
 	url = https://github.com/conda-forge/strip-hints-feedstock.git
 	path = feedstocks/strip-hints
 	branch = refs/heads/master
+[submodule "cmip6_preprocessing"]
+	url = https://github.com/conda-forge/cmip6_preprocessing-feedstock.git
+	path = feedstocks/cmip6_preprocessing
+	branch = refs/heads/master
