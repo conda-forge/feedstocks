@@ -36530,3 +36530,7 @@
 	url = https://github.com/conda-forge/j2cli-feedstock.git
 	path = feedstocks/j2cli
 	branch = refs/heads/master
+[submodule "aiohttp-graphql"]
+	url = https://github.com/conda-forge/aiohttp-graphql-feedstock.git
+	path = feedstocks/aiohttp-graphql
+	branch = refs/heads/master
