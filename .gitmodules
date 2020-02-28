@@ -36534,3 +36534,7 @@
 	url = https://github.com/conda-forge/aiohttp-graphql-feedstock.git
 	path = feedstocks/aiohttp-graphql
 	branch = refs/heads/master
+[submodule "r-osmdata"]
+	url = https://github.com/conda-forge/r-osmdata-feedstock.git
+	path = feedstocks/r-osmdata
+	branch = refs/heads/master
