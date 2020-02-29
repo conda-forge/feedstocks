@@ -36566,3 +36566,7 @@
 	url = https://github.com/conda-forge/r-rslurm-feedstock.git
 	path = feedstocks/r-rslurm
 	branch = refs/heads/master
+[submodule "gts"]
+	url = https://github.com/conda-forge/gts-feedstock.git
+	path = feedstocks/gts
+	branch = refs/heads/master
