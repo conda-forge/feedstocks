@@ -36554,3 +36554,7 @@
 	url = https://github.com/conda-forge/sharppy-feedstock.git
 	path = feedstocks/sharppy
 	branch = refs/heads/master
+[submodule "atomium"]
+	url = https://github.com/conda-forge/atomium-feedstock.git
+	path = feedstocks/atomium
+	branch = refs/heads/master
