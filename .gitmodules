@@ -36550,3 +36550,7 @@
 	url = https://github.com/conda-forge/valerius-feedstock.git
 	path = feedstocks/valerius
 	branch = refs/heads/master
+[submodule "sharppy"]
+	url = https://github.com/conda-forge/sharppy-feedstock.git
+	path = feedstocks/sharppy
+	branch = refs/heads/master
