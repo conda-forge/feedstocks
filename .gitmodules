@@ -36558,3 +36558,7 @@
 	url = https://github.com/conda-forge/atomium-feedstock.git
 	path = feedstocks/atomium
 	branch = refs/heads/master
+[submodule "rmsd"]
+	url = https://github.com/conda-forge/rmsd-feedstock.git
+	path = feedstocks/rmsd
+	branch = refs/heads/master
