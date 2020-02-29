@@ -36542,3 +36542,7 @@
 	url = https://github.com/conda-forge/harmonica-feedstock.git
 	path = feedstocks/harmonica
 	branch = refs/heads/master
+[submodule "sdnotify"]
+	url = https://github.com/conda-forge/sdnotify-feedstock.git
+	path = feedstocks/sdnotify
+	branch = refs/heads/master
