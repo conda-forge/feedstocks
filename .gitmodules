@@ -36570,3 +36570,7 @@
 	url = https://github.com/conda-forge/gts-feedstock.git
 	path = feedstocks/gts
 	branch = refs/heads/master
+[submodule "pymap3d"]
+	url = https://github.com/conda-forge/pymap3d-feedstock.git
+	path = feedstocks/pymap3d
+	branch = refs/heads/master
