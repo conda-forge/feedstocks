@@ -36578,3 +36578,7 @@
 	url = https://github.com/conda-forge/pandas_schema-feedstock.git
 	path = feedstocks/pandas_schema
 	branch = refs/heads/master
+[submodule "kim-query"]
+	url = https://github.com/conda-forge/kim-query-feedstock.git
+	path = feedstocks/kim-query
+	branch = refs/heads/master
