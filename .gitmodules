@@ -36582,3 +36582,7 @@
 	url = https://github.com/conda-forge/kim-query-feedstock.git
 	path = feedstocks/kim-query
 	branch = refs/heads/master
+[submodule "pyrad_mch"]
+	url = https://github.com/conda-forge/pyrad_mch-feedstock.git
+	path = feedstocks/pyrad_mch
+	branch = refs/heads/master
