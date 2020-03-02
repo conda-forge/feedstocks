@@ -36606,3 +36606,7 @@
 	url = https://github.com/conda-forge/mbsolve-feedstock.git
 	path = feedstocks/mbsolve
 	branch = refs/heads/master
+[submodule "pfapack"]
+	url = https://github.com/conda-forge/pfapack-feedstock.git
+	path = feedstocks/pfapack
+	branch = refs/heads/master
