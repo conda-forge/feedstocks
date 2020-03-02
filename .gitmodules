@@ -36598,3 +36598,7 @@
 	url = https://github.com/conda-forge/pangeo-dask-feedstock.git
 	path = feedstocks/pangeo-dask
 	branch = refs/heads/master
+[submodule "pangeo-notebook"]
+	url = https://github.com/conda-forge/pangeo-notebook-feedstock.git
+	path = feedstocks/pangeo-notebook
+	branch = refs/heads/master
