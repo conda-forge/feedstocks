@@ -36590,3 +36590,7 @@
 	url = https://github.com/conda-forge/vegasflow-feedstock.git
 	path = feedstocks/vegasflow
 	branch = refs/heads/master
+[submodule "libnetworkit"]
+	url = https://github.com/conda-forge/libnetworkit-feedstock.git
+	path = feedstocks/libnetworkit
+	branch = refs/heads/master
