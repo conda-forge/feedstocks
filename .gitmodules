@@ -36626,3 +36626,7 @@
 	url = https://github.com/conda-forge/qubekit-feedstock.git
 	path = feedstocks/qubekit
 	branch = refs/heads/master
+[submodule "libfuse"]
+	url = https://github.com/conda-forge/libfuse-feedstock.git
+	path = feedstocks/libfuse
+	branch = refs/heads/master
