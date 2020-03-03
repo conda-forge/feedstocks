@@ -36638,3 +36638,7 @@
 	url = https://github.com/conda-forge/mbuild-feedstock.git
 	path = feedstocks/mbuild
 	branch = refs/heads/master
+[submodule "editline"]
+	url = https://github.com/conda-forge/editline-feedstock.git
+	path = feedstocks/editline
+	branch = refs/heads/master
