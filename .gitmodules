@@ -36610,3 +36610,7 @@
 	url = https://github.com/conda-forge/pfapack-feedstock.git
 	path = feedstocks/pfapack
 	branch = refs/heads/master
+[submodule "pytest-bandit"]
+	url = https://github.com/conda-forge/pytest-bandit-feedstock.git
+	path = feedstocks/pytest-bandit
+	branch = refs/heads/master
