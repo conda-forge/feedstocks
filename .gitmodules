@@ -36622,3 +36622,7 @@
 	url = https://github.com/conda-forge/protego-feedstock.git
 	path = feedstocks/protego
 	branch = refs/heads/master
+[submodule "qubekit"]
+	url = https://github.com/conda-forge/qubekit-feedstock.git
+	path = feedstocks/qubekit
+	branch = refs/heads/master
