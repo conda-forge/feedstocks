@@ -36618,3 +36618,7 @@
 	url = https://github.com/conda-forge/r-slickr-feedstock.git
 	path = feedstocks/r-slickr
 	branch = refs/heads/master
+[submodule "protego"]
+	url = https://github.com/conda-forge/protego-feedstock.git
+	path = feedstocks/protego
+	branch = refs/heads/master
