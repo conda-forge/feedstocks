@@ -36642,3 +36642,7 @@
 	url = https://github.com/conda-forge/editline-feedstock.git
 	path = feedstocks/editline
 	branch = refs/heads/master
+[submodule "nix"]
+	url = https://github.com/conda-forge/nix-feedstock.git
+	path = feedstocks/nix
+	branch = refs/heads/master
