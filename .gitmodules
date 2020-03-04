@@ -36666,3 +36666,7 @@
 	url = https://github.com/conda-forge/r-riingo-feedstock.git
 	path = feedstocks/r-riingo
 	branch = refs/heads/master
+[submodule "pypy-meta"]
+	url = https://github.com/conda-forge/pypy-meta-feedstock.git
+	path = feedstocks/pypy-meta
+	branch = refs/heads/master
