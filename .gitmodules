@@ -36654,3 +36654,7 @@
 	url = https://github.com/conda-forge/adtk-feedstock.git
 	path = feedstocks/adtk
 	branch = refs/heads/master
+[submodule "cma"]
+	url = https://github.com/conda-forge/cma-feedstock.git
+	path = feedstocks/cma
+	branch = refs/heads/master
