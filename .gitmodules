@@ -36646,3 +36646,7 @@
 	url = https://github.com/conda-forge/nix-feedstock.git
 	path = feedstocks/nix
 	branch = refs/heads/master
+[submodule "hydra"]
+	url = https://github.com/conda-forge/hydra-feedstock.git
+	path = feedstocks/hydra
+	branch = refs/heads/master
