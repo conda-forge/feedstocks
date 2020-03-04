@@ -36650,3 +36650,7 @@
 	url = https://github.com/conda-forge/hydra-feedstock.git
 	path = feedstocks/hydra
 	branch = refs/heads/master
+[submodule "adtk"]
+	url = https://github.com/conda-forge/adtk-feedstock.git
+	path = feedstocks/adtk
+	branch = refs/heads/master
