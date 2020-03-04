@@ -36670,3 +36670,7 @@
 	url = https://github.com/conda-forge/pypy-meta-feedstock.git
 	path = feedstocks/pypy-meta
 	branch = refs/heads/master
+[submodule "maturin"]
+	url = https://github.com/conda-forge/maturin-feedstock.git
+	path = feedstocks/maturin
+	branch = refs/heads/master
