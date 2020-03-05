@@ -36686,3 +36686,7 @@
 	url = https://github.com/conda-forge/go-sops-feedstock.git
 	path = feedstocks/go-sops
 	branch = refs/heads/master
+[submodule "docformatter"]
+	url = https://github.com/conda-forge/docformatter-feedstock.git
+	path = feedstocks/docformatter
+	branch = refs/heads/master
