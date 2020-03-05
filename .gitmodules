@@ -36678,3 +36678,7 @@
 	url = https://github.com/conda-forge/libignition-plugin-feedstock.git
 	path = feedstocks/libignition-plugin
 	branch = refs/heads/master
+[submodule "pyepr"]
+	url = https://github.com/conda-forge/pyepr-feedstock.git
+	path = feedstocks/pyepr
+	branch = refs/heads/master
