@@ -36698,3 +36698,7 @@
 	url = https://github.com/conda-forge/untokenize-feedstock.git
 	path = feedstocks/untokenize
 	branch = refs/heads/master
+[submodule "py2app"]
+	url = https://github.com/conda-forge/py2app-feedstock.git
+	path = feedstocks/py2app
+	branch = refs/heads/master
