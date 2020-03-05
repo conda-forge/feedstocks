@@ -36674,3 +36674,7 @@
 	url = https://github.com/conda-forge/maturin-feedstock.git
 	path = feedstocks/maturin
 	branch = refs/heads/master
+[submodule "libignition-plugin"]
+	url = https://github.com/conda-forge/libignition-plugin-feedstock.git
+	path = feedstocks/libignition-plugin
+	branch = refs/heads/master
