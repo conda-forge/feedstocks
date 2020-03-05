@@ -36690,3 +36690,7 @@
 	url = https://github.com/conda-forge/docformatter-feedstock.git
 	path = feedstocks/docformatter
 	branch = refs/heads/master
+[submodule "mistletoe-ebp"]
+	url = https://github.com/conda-forge/mistletoe-ebp-feedstock.git
+	path = feedstocks/mistletoe-ebp
+	branch = refs/heads/master
