@@ -36682,3 +36682,7 @@
 	url = https://github.com/conda-forge/pyepr-feedstock.git
 	path = feedstocks/pyepr
 	branch = refs/heads/master
+[submodule "go-sops"]
+	url = https://github.com/conda-forge/go-sops-feedstock.git
+	path = feedstocks/go-sops
+	branch = refs/heads/master
