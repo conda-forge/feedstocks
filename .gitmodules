@@ -36702,3 +36702,7 @@
 	url = https://github.com/conda-forge/py2app-feedstock.git
 	path = feedstocks/py2app
 	branch = refs/heads/master
+[submodule "libignition-physics"]
+	url = https://github.com/conda-forge/libignition-physics-feedstock.git
+	path = feedstocks/libignition-physics
+	branch = refs/heads/master
