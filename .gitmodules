@@ -36714,3 +36714,7 @@
 	url = https://github.com/conda-forge/vcrpy-unittest-feedstock.git
 	path = feedstocks/vcrpy-unittest
 	branch = refs/heads/master
+[submodule "unittest-xml-reporting"]
+	url = https://github.com/conda-forge/unittest-xml-reporting-feedstock.git
+	path = feedstocks/unittest-xml-reporting
+	branch = refs/heads/master
