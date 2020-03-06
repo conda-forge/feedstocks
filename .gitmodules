@@ -36726,3 +36726,7 @@
 	url = https://github.com/conda-forge/seqeval-feedstock.git
 	path = feedstocks/seqeval
 	branch = refs/heads/master
+[submodule "javabridge"]
+	url = https://github.com/conda-forge/javabridge-feedstock.git
+	path = feedstocks/javabridge
+	branch = refs/heads/master
