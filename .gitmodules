@@ -36718,3 +36718,7 @@
 	url = https://github.com/conda-forge/unittest-xml-reporting-feedstock.git
 	path = feedstocks/unittest-xml-reporting
 	branch = refs/heads/master
+[submodule "neurodocker"]
+	url = https://github.com/conda-forge/neurodocker-feedstock.git
+	path = feedstocks/neurodocker
+	branch = refs/heads/master
