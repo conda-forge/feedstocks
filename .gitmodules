@@ -36706,3 +36706,7 @@
 	url = https://github.com/conda-forge/libignition-physics-feedstock.git
 	path = feedstocks/libignition-physics
 	branch = refs/heads/master
+[submodule "model_bakery"]
+	url = https://github.com/conda-forge/model_bakery-feedstock.git
+	path = feedstocks/model_bakery
+	branch = refs/heads/master
