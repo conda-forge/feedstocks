@@ -36710,3 +36710,7 @@
 	url = https://github.com/conda-forge/model_bakery-feedstock.git
 	path = feedstocks/model_bakery
 	branch = refs/heads/master
+[submodule "vcrpy-unittest"]
+	url = https://github.com/conda-forge/vcrpy-unittest-feedstock.git
+	path = feedstocks/vcrpy-unittest
+	branch = refs/heads/master
