@@ -36722,3 +36722,7 @@
 	url = https://github.com/conda-forge/neurodocker-feedstock.git
 	path = feedstocks/neurodocker
 	branch = refs/heads/master
+[submodule "seqeval"]
+	url = https://github.com/conda-forge/seqeval-feedstock.git
+	path = feedstocks/seqeval
+	branch = refs/heads/master
