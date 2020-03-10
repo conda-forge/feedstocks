@@ -36746,3 +36746,7 @@
 	url = https://github.com/conda-forge/r-warp-feedstock.git
 	path = feedstocks/r-warp
 	branch = refs/heads/master
+[submodule "django-webpack-loader"]
+	url = https://github.com/conda-forge/django-webpack-loader-feedstock.git
+	path = feedstocks/django-webpack-loader
+	branch = refs/heads/master
