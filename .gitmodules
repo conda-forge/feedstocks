@@ -36738,3 +36738,7 @@
 	url = https://github.com/conda-forge/infomap-feedstock.git
 	path = feedstocks/infomap
 	branch = refs/heads/master
+[submodule "djangorestframework-filters"]
+	url = https://github.com/conda-forge/djangorestframework-filters-feedstock.git
+	path = feedstocks/djangorestframework-filters
+	branch = refs/heads/master
