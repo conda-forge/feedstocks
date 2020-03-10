@@ -36778,3 +36778,7 @@
 	url = https://github.com/conda-forge/visions-feedstock.git
 	path = feedstocks/visions
 	branch = refs/heads/master
+[submodule "gh"]
+	url = https://github.com/conda-forge/gh-feedstock.git
+	path = feedstocks/gh
+	branch = refs/heads/master
