@@ -36730,3 +36730,7 @@
 	url = https://github.com/conda-forge/javabridge-feedstock.git
 	path = feedstocks/javabridge
 	branch = refs/heads/master
+[submodule "gpytorch"]
+	url = https://github.com/conda-forge/gpytorch-feedstock.git
+	path = feedstocks/gpytorch
+	branch = refs/heads/master
