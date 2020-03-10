@@ -36734,3 +36734,7 @@
 	url = https://github.com/conda-forge/gpytorch-feedstock.git
 	path = feedstocks/gpytorch
 	branch = refs/heads/master
+[submodule "infomap"]
+	url = https://github.com/conda-forge/infomap-feedstock.git
+	path = feedstocks/infomap
+	branch = refs/heads/master
