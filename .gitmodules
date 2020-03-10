@@ -36750,3 +36750,7 @@
 	url = https://github.com/conda-forge/django-webpack-loader-feedstock.git
 	path = feedstocks/django-webpack-loader
 	branch = refs/heads/master
+[submodule "django-rest-polymorphic"]
+	url = https://github.com/conda-forge/django-rest-polymorphic-feedstock.git
+	path = feedstocks/django-rest-polymorphic
+	branch = refs/heads/master
