@@ -36782,3 +36782,7 @@
 	url = https://github.com/conda-forge/gh-feedstock.git
 	path = feedstocks/gh
 	branch = refs/heads/master
+[submodule "pylammpsmpi"]
+	url = https://github.com/conda-forge/pylammpsmpi-feedstock.git
+	path = feedstocks/pylammpsmpi
+	branch = refs/heads/master
