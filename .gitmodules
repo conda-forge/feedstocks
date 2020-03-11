@@ -36810,3 +36810,7 @@
 	url = https://github.com/conda-forge/micromagnetictests-feedstock.git
 	path = feedstocks/micromagnetictests
 	branch = refs/heads/master
+[submodule "econtools"]
+	url = https://github.com/conda-forge/econtools-feedstock.git
+	path = feedstocks/econtools
+	branch = refs/heads/master
