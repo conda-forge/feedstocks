@@ -36814,3 +36814,7 @@
 	url = https://github.com/conda-forge/econtools-feedstock.git
 	path = feedstocks/econtools
 	branch = refs/heads/master
+[submodule "pygtrie"]
+	url = https://github.com/conda-forge/pygtrie-feedstock.git
+	path = feedstocks/pygtrie
+	branch = refs/heads/master
