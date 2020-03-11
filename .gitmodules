@@ -36798,3 +36798,7 @@
 	url = https://github.com/conda-forge/platformio-feedstock.git
 	path = feedstocks/platformio
 	branch = refs/heads/master
+[submodule "quickff"]
+	url = https://github.com/conda-forge/quickff-feedstock.git
+	path = feedstocks/quickff
+	branch = refs/heads/master
