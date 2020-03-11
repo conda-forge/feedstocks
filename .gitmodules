@@ -36818,3 +36818,7 @@
 	url = https://github.com/conda-forge/pygtrie-feedstock.git
 	path = feedstocks/pygtrie
 	branch = refs/heads/master
+[submodule "pyrad_arm"]
+	url = https://github.com/conda-forge/pyrad_arm-feedstock.git
+	path = feedstocks/pyrad_arm
+	branch = refs/heads/master
