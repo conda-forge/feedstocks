@@ -36826,3 +36826,7 @@
 	url = https://github.com/conda-forge/autoray-feedstock.git
 	path = feedstocks/autoray
 	branch = refs/heads/master
+[submodule "ngspice"]
+	url = https://github.com/conda-forge/ngspice-feedstock.git
+	path = feedstocks/ngspice
+	branch = refs/heads/master
