@@ -36806,3 +36806,7 @@
 	url = https://github.com/conda-forge/keras-tuner-feedstock.git
 	path = feedstocks/keras-tuner
 	branch = refs/heads/master
+[submodule "micromagnetictests"]
+	url = https://github.com/conda-forge/micromagnetictests-feedstock.git
+	path = feedstocks/micromagnetictests
+	branch = refs/heads/master
