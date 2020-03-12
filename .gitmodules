@@ -36834,3 +36834,7 @@
 	url = https://github.com/conda-forge/stglib-feedstock.git
 	path = feedstocks/stglib
 	branch = refs/heads/master
+[submodule "orocos-kdl"]
+	url = https://github.com/conda-forge/orocos-kdl-feedstock.git
+	path = feedstocks/orocos-kdl
+	branch = refs/heads/master
