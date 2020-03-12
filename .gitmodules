@@ -36850,3 +36850,7 @@
 	url = https://github.com/conda-forge/synbiochem-py-feedstock.git
 	path = feedstocks/synbiochem-py
 	branch = refs/heads/master
+[submodule "sqlitecpp"]
+	url = https://github.com/conda-forge/sqlitecpp-feedstock.git
+	path = feedstocks/sqlitecpp
+	branch = refs/heads/master
