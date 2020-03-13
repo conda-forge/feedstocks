@@ -36918,3 +36918,7 @@
 	url = https://github.com/conda-forge/python-keycloak-feedstock.git
 	path = feedstocks/python-keycloak
 	branch = refs/heads/master
+[submodule "pytmc"]
+	url = https://github.com/conda-forge/pytmc-feedstock.git
+	path = feedstocks/pytmc
+	branch = refs/heads/master
