@@ -36890,3 +36890,7 @@
 	url = https://github.com/conda-forge/opensesame-feedstock.git
 	path = feedstocks/opensesame
 	branch = refs/heads/master
+[submodule "datamatrix"]
+	url = https://github.com/conda-forge/datamatrix-feedstock.git
+	path = feedstocks/datamatrix
+	branch = refs/heads/master
