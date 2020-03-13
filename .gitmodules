@@ -36914,3 +36914,7 @@
 	url = https://github.com/conda-forge/qtpynodeeditor-feedstock.git
 	path = feedstocks/qtpynodeeditor
 	branch = refs/heads/master
+[submodule "python-keycloak"]
+	url = https://github.com/conda-forge/python-keycloak-feedstock.git
+	path = feedstocks/python-keycloak
+	branch = refs/heads/master
