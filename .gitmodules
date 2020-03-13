@@ -36870,3 +36870,7 @@
 	url = https://github.com/conda-forge/qnotifications-feedstock.git
 	path = feedstocks/qnotifications
 	branch = refs/heads/master
+[submodule "pyjsparser"]
+	url = https://github.com/conda-forge/pyjsparser-feedstock.git
+	path = feedstocks/pyjsparser
+	branch = refs/heads/master
