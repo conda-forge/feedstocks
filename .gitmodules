@@ -36922,3 +36922,7 @@
 	url = https://github.com/conda-forge/pytmc-feedstock.git
 	path = feedstocks/pytmc
 	branch = refs/heads/master
+[submodule "pcdsutils"]
+	url = https://github.com/conda-forge/pcdsutils-feedstock.git
+	path = feedstocks/pcdsutils
+	branch = refs/heads/master
