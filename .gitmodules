@@ -36862,3 +36862,7 @@
 	url = https://github.com/conda-forge/pyspellchecker-feedstock.git
 	path = feedstocks/pyspellchecker
 	branch = refs/heads/master
+[submodule "pseudorandom"]
+	url = https://github.com/conda-forge/pseudorandom-feedstock.git
+	path = feedstocks/pseudorandom
+	branch = refs/heads/master
