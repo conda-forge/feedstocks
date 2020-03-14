@@ -36938,3 +36938,7 @@
 	url = https://github.com/conda-forge/cmake-format-feedstock.git
 	path = feedstocks/cmake-format
 	branch = refs/heads/master
+[submodule "happi"]
+	url = https://github.com/conda-forge/happi-feedstock.git
+	path = feedstocks/happi
+	branch = refs/heads/master
