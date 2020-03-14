@@ -36942,3 +36942,7 @@
 	url = https://github.com/conda-forge/happi-feedstock.git
 	path = feedstocks/happi
 	branch = refs/heads/master
+[submodule "cpputest"]
+	url = https://github.com/conda-forge/cpputest-feedstock.git
+	path = feedstocks/cpputest
+	branch = refs/heads/master
