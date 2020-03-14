@@ -36934,3 +36934,7 @@
 	url = https://github.com/conda-forge/qvina-feedstock.git
 	path = feedstocks/qvina
 	branch = refs/heads/master
+[submodule "cmake-format"]
+	url = https://github.com/conda-forge/cmake-format-feedstock.git
+	path = feedstocks/cmake-format
+	branch = refs/heads/master
