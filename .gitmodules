@@ -36926,3 +36926,7 @@
 	url = https://github.com/conda-forge/pcdsutils-feedstock.git
 	path = feedstocks/pcdsutils
 	branch = refs/heads/master
+[submodule "pynetdicom"]
+	url = https://github.com/conda-forge/pynetdicom-feedstock.git
+	path = feedstocks/pynetdicom
+	branch = refs/heads/master
