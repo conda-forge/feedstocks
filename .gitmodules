@@ -36946,3 +36946,7 @@
 	url = https://github.com/conda-forge/cpputest-feedstock.git
 	path = feedstocks/cpputest
 	branch = refs/heads/master
+[submodule "timechart"]
+	url = https://github.com/conda-forge/timechart-feedstock.git
+	path = feedstocks/timechart
+	branch = refs/heads/master
