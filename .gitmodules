@@ -36930,3 +36930,7 @@
 	url = https://github.com/conda-forge/pynetdicom-feedstock.git
 	path = feedstocks/pynetdicom
 	branch = refs/heads/master
+[submodule "qvina"]
+	url = https://github.com/conda-forge/qvina-feedstock.git
+	path = feedstocks/qvina
+	branch = refs/heads/master
