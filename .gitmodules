@@ -36974,3 +36974,7 @@
 	url = https://github.com/conda-forge/at-spi2-core-feedstock.git
 	path = feedstocks/at-spi2-core
 	branch = refs/heads/master
+[submodule "at-spi2-atk"]
+	url = https://github.com/conda-forge/at-spi2-atk-feedstock.git
+	path = feedstocks/at-spi2-atk
+	branch = refs/heads/master
