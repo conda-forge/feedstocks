@@ -36954,3 +36954,7 @@
 	url = https://github.com/conda-forge/cmakelint-feedstock.git
 	path = feedstocks/cmakelint
 	branch = refs/heads/master
+[submodule "typhos"]
+	url = https://github.com/conda-forge/typhos-feedstock.git
+	path = feedstocks/typhos
+	branch = refs/heads/master
