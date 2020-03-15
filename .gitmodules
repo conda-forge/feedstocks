@@ -36950,3 +36950,7 @@
 	url = https://github.com/conda-forge/timechart-feedstock.git
 	path = feedstocks/timechart
 	branch = refs/heads/master
+[submodule "cmakelint"]
+	url = https://github.com/conda-forge/cmakelint-feedstock.git
+	path = feedstocks/cmakelint
+	branch = refs/heads/master
