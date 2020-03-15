@@ -36978,3 +36978,7 @@
 	url = https://github.com/conda-forge/at-spi2-atk-feedstock.git
 	path = feedstocks/at-spi2-atk
 	branch = refs/heads/master
+[submodule "epoxy"]
+	url = https://github.com/conda-forge/epoxy-feedstock.git
+	path = feedstocks/epoxy
+	branch = refs/heads/master
