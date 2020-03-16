@@ -36994,3 +36994,7 @@
 	url = https://github.com/conda-forge/triqs_dft_tools-feedstock.git
 	path = feedstocks/triqs_dft_tools
 	branch = refs/heads/master
+[submodule "xtb"]
+	url = https://github.com/conda-forge/xtb-feedstock.git
+	path = feedstocks/xtb
+	branch = refs/heads/master
