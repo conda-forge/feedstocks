@@ -36990,3 +36990,7 @@
 	url = https://github.com/conda-forge/oddt-feedstock.git
 	path = feedstocks/oddt
 	branch = refs/heads/master
+[submodule "triqs_dft_tools"]
+	url = https://github.com/conda-forge/triqs_dft_tools-feedstock.git
+	path = feedstocks/triqs_dft_tools
+	branch = refs/heads/master
