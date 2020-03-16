@@ -36986,3 +36986,7 @@
 	url = https://github.com/conda-forge/gtk3-feedstock.git
 	path = feedstocks/gtk3
 	branch = refs/heads/master
+[submodule "oddt"]
+	url = https://github.com/conda-forge/oddt-feedstock.git
+	path = feedstocks/oddt
+	branch = refs/heads/master
