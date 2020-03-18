@@ -36998,3 +36998,7 @@
 	url = https://github.com/conda-forge/xtb-feedstock.git
 	path = feedstocks/xtb
 	branch = refs/heads/master
+[submodule "pygacode"]
+	url = https://github.com/conda-forge/pygacode-feedstock.git
+	path = feedstocks/pygacode
+	branch = refs/heads/master
