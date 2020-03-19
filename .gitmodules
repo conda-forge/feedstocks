@@ -37070,3 +37070,7 @@
 	url = https://github.com/conda-forge/terraform-provider-credstash-feedstock.git
 	path = feedstocks/terraform-provider-credstash
 	branch = refs/heads/master
+[submodule "halo"]
+	url = https://github.com/conda-forge/halo-feedstock.git
+	path = feedstocks/halo
+	branch = refs/heads/master
