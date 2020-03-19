@@ -37042,3 +37042,7 @@
 	url = https://github.com/conda-forge/triqs_tprf-feedstock.git
 	path = feedstocks/triqs_tprf
 	branch = refs/heads/master
+[submodule "nbresuse"]
+	url = https://github.com/conda-forge/nbresuse-feedstock.git
+	path = feedstocks/nbresuse
+	branch = refs/heads/master
