@@ -37038,3 +37038,7 @@
 	url = https://github.com/conda-forge/krtc-feedstock.git
 	path = feedstocks/krtc
 	branch = refs/heads/master
+[submodule "triqs_tprf"]
+	url = https://github.com/conda-forge/triqs_tprf-feedstock.git
+	path = feedstocks/triqs_tprf
+	branch = refs/heads/master
