@@ -37062,3 +37062,7 @@
 	url = https://github.com/conda-forge/terraform-provider-keycloak-feedstock.git
 	path = feedstocks/terraform-provider-keycloak
 	branch = refs/heads/master
+[submodule "click-didyoumean"]
+	url = https://github.com/conda-forge/click-didyoumean-feedstock.git
+	path = feedstocks/click-didyoumean
+	branch = refs/heads/master
