@@ -37034,3 +37034,7 @@
 	url = https://github.com/conda-forge/whois-feedstock.git
 	path = feedstocks/whois
 	branch = refs/heads/master
+[submodule "krtc"]
+	url = https://github.com/conda-forge/krtc-feedstock.git
+	path = feedstocks/krtc
+	branch = refs/heads/master
