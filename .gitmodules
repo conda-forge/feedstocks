@@ -37046,3 +37046,7 @@
 	url = https://github.com/conda-forge/nbresuse-feedstock.git
 	path = feedstocks/nbresuse
 	branch = refs/heads/master
+[submodule "cursor"]
+	url = https://github.com/conda-forge/cursor-feedstock.git
+	path = feedstocks/cursor
+	branch = refs/heads/master
