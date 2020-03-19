@@ -37030,3 +37030,7 @@
 	url = https://github.com/conda-forge/linearmodels-feedstock.git
 	path = feedstocks/linearmodels
 	branch = refs/heads/master
+[submodule "whois"]
+	url = https://github.com/conda-forge/whois-feedstock.git
+	path = feedstocks/whois
+	branch = refs/heads/master
