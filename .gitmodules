@@ -37058,3 +37058,7 @@
 	url = https://github.com/conda-forge/psdm_qs_cli-feedstock.git
 	path = feedstocks/psdm_qs_cli
 	branch = refs/heads/master
+[submodule "terraform-provider-keycloak"]
+	url = https://github.com/conda-forge/terraform-provider-keycloak-feedstock.git
+	path = feedstocks/terraform-provider-keycloak
+	branch = refs/heads/master
