@@ -37082,3 +37082,7 @@
 	url = https://github.com/conda-forge/fast-rtps-feedstock.git
 	path = feedstocks/fast-rtps
 	branch = refs/heads/master
+[submodule "cyclonedds"]
+	url = https://github.com/conda-forge/cyclonedds-feedstock.git
+	path = feedstocks/cyclonedds
+	branch = refs/heads/master
