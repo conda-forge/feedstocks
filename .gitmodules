@@ -37074,3 +37074,7 @@
 	url = https://github.com/conda-forge/halo-feedstock.git
 	path = feedstocks/halo
 	branch = refs/heads/master
+[submodule "fast-cdr"]
+	url = https://github.com/conda-forge/fast-cdr-feedstock.git
+	path = feedstocks/fast-cdr
+	branch = refs/heads/master
