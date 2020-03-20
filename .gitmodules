@@ -37086,3 +37086,7 @@
 	url = https://github.com/conda-forge/cyclonedds-feedstock.git
 	path = feedstocks/cyclonedds
 	branch = refs/heads/master
+[submodule "pydata-sphinx-theme"]
+	url = https://github.com/conda-forge/pydata-sphinx-theme-feedstock.git
+	path = feedstocks/pydata-sphinx-theme
+	branch = refs/heads/master
