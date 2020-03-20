@@ -37094,3 +37094,7 @@
 	url = https://github.com/conda-forge/pystac-feedstock.git
 	path = feedstocks/pystac
 	branch = refs/heads/master
+[submodule "triqs_cthyb"]
+	url = https://github.com/conda-forge/triqs_cthyb-feedstock.git
+	path = feedstocks/triqs_cthyb
+	branch = refs/heads/master
