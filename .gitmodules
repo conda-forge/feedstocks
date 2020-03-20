@@ -37090,3 +37090,7 @@
 	url = https://github.com/conda-forge/pydata-sphinx-theme-feedstock.git
 	path = feedstocks/pydata-sphinx-theme
 	branch = refs/heads/master
+[submodule "pystac"]
+	url = https://github.com/conda-forge/pystac-feedstock.git
+	path = feedstocks/pystac
+	branch = refs/heads/master
