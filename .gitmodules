@@ -37078,3 +37078,7 @@
 	url = https://github.com/conda-forge/fast-cdr-feedstock.git
 	path = feedstocks/fast-cdr
 	branch = refs/heads/master
+[submodule "fast-rtps"]
+	url = https://github.com/conda-forge/fast-rtps-feedstock.git
+	path = feedstocks/fast-rtps
+	branch = refs/heads/master
