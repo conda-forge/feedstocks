@@ -37102,3 +37102,7 @@
 	url = https://github.com/conda-forge/pynrrd-feedstock.git
 	path = feedstocks/pynrrd
 	branch = refs/heads/master
+[submodule "libwebp-base"]
+	url = https://github.com/conda-forge/libwebp-base-feedstock.git
+	path = feedstocks/libwebp-base
+	branch = refs/heads/master
