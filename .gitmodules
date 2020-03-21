@@ -37106,3 +37106,7 @@
 	url = https://github.com/conda-forge/libwebp-base-feedstock.git
 	path = feedstocks/libwebp-base
 	branch = refs/heads/master
+[submodule "aha"]
+	url = https://github.com/conda-forge/aha-feedstock.git
+	path = feedstocks/aha
+	branch = refs/heads/master
