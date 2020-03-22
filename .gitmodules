@@ -37114,3 +37114,7 @@
 	url = https://github.com/conda-forge/geemap-feedstock.git
 	path = feedstocks/geemap
 	branch = refs/heads/master
+[submodule "lidar"]
+	url = https://github.com/conda-forge/lidar-feedstock.git
+	path = feedstocks/lidar
+	branch = refs/heads/master
