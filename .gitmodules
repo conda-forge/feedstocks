@@ -37122,3 +37122,7 @@
 	url = https://github.com/conda-forge/geehydro-feedstock.git
 	path = feedstocks/geehydro
 	branch = refs/heads/master
+[submodule "rainflow"]
+	url = https://github.com/conda-forge/rainflow-feedstock.git
+	path = feedstocks/rainflow
+	branch = refs/heads/master
