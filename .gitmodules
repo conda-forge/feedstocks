@@ -37126,3 +37126,7 @@
 	url = https://github.com/conda-forge/rainflow-feedstock.git
 	path = feedstocks/rainflow
 	branch = refs/heads/master
+[submodule "pypyodbc"]
+	url = https://github.com/conda-forge/pypyodbc-feedstock.git
+	path = feedstocks/pypyodbc
+	branch = refs/heads/master
