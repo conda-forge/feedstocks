@@ -37146,3 +37146,7 @@
 	url = https://github.com/conda-forge/rocketpy-feedstock.git
 	path = feedstocks/rocketpy
 	branch = refs/heads/master
+[submodule "sfml"]
+	url = https://github.com/conda-forge/sfml-feedstock.git
+	path = feedstocks/sfml
+	branch = refs/heads/master
