@@ -37134,3 +37134,7 @@
 	url = https://github.com/conda-forge/neper-feedstock.git
 	path = feedstocks/neper
 	branch = refs/heads/master
+[submodule "pytest-json-report"]
+	url = https://github.com/conda-forge/pytest-json-report-feedstock.git
+	path = feedstocks/pytest-json-report
+	branch = refs/heads/master
