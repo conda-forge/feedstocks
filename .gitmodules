@@ -37142,3 +37142,7 @@
 	url = https://github.com/conda-forge/xrftomo-feedstock.git
 	path = feedstocks/xrftomo
 	branch = refs/heads/master
+[submodule "rocketpy"]
+	url = https://github.com/conda-forge/rocketpy-feedstock.git
+	path = feedstocks/rocketpy
+	branch = refs/heads/master
