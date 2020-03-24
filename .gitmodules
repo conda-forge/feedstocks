@@ -37154,3 +37154,7 @@
 	url = https://github.com/conda-forge/cymove-feedstock.git
 	path = feedstocks/cymove
 	branch = refs/heads/master
+[submodule "dicomifier"]
+	url = https://github.com/conda-forge/dicomifier-feedstock.git
+	path = feedstocks/dicomifier
+	branch = refs/heads/master
