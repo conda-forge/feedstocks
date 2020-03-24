@@ -37158,3 +37158,7 @@
 	url = https://github.com/conda-forge/dicomifier-feedstock.git
 	path = feedstocks/dicomifier
 	branch = refs/heads/master
+[submodule "czifile"]
+	url = https://github.com/conda-forge/czifile-feedstock.git
+	path = feedstocks/czifile
+	branch = refs/heads/master
