@@ -37162,3 +37162,7 @@
 	url = https://github.com/conda-forge/czifile-feedstock.git
 	path = feedstocks/czifile
 	branch = refs/heads/master
+[submodule "hammer"]
+	url = https://github.com/conda-forge/hammer-feedstock.git
+	path = feedstocks/hammer
+	branch = refs/heads/master
