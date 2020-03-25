@@ -37174,3 +37174,7 @@
 	url = https://github.com/conda-forge/nionui-tool-feedstock.git
 	path = feedstocks/nionui-tool
 	branch = refs/heads/master
+[submodule "blocked-matrix-utils"]
+	url = https://github.com/conda-forge/blocked-matrix-utils-feedstock.git
+	path = feedstocks/blocked-matrix-utils
+	branch = refs/heads/master
