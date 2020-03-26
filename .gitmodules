@@ -37186,3 +37186,7 @@
 	url = https://github.com/conda-forge/pcdsdevices-feedstock.git
 	path = feedstocks/pcdsdevices
 	branch = refs/heads/master
+[submodule "libharu"]
+	url = https://github.com/conda-forge/libharu-feedstock.git
+	path = feedstocks/libharu
+	branch = refs/heads/master
