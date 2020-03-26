@@ -37194,3 +37194,7 @@
 	url = https://github.com/conda-forge/pcdswidgets-feedstock.git
 	path = feedstocks/pcdswidgets
 	branch = refs/heads/master
+[submodule "monet"]
+	url = https://github.com/conda-forge/monet-feedstock.git
+	path = feedstocks/monet
+	branch = refs/heads/master
