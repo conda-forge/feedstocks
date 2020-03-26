@@ -37182,3 +37182,7 @@
 	url = https://github.com/conda-forge/r-isoband-feedstock.git
 	path = feedstocks/r-isoband
 	branch = refs/heads/master
+[submodule "pcdsdevices"]
+	url = https://github.com/conda-forge/pcdsdevices-feedstock.git
+	path = feedstocks/pcdsdevices
+	branch = refs/heads/master
