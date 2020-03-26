@@ -37190,3 +37190,7 @@
 	url = https://github.com/conda-forge/libharu-feedstock.git
 	path = feedstocks/libharu
 	branch = refs/heads/master
+[submodule "pcdswidgets"]
+	url = https://github.com/conda-forge/pcdswidgets-feedstock.git
+	path = feedstocks/pcdswidgets
+	branch = refs/heads/master
