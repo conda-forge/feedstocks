@@ -37294,3 +37294,7 @@
 	url = https://github.com/conda-forge/nss-softokn-cos7-aarch64-feedstock.git
 	path = feedstocks/nss-softokn-cos7-aarch64
 	branch = refs/heads/master
+[submodule "r-disk.frame"]
+	url = https://github.com/conda-forge/r-disk.frame-feedstock.git
+	path = feedstocks/r-disk.frame
+	branch = refs/heads/master
