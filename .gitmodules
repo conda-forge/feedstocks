@@ -37202,3 +37202,7 @@
 	url = https://github.com/conda-forge/poetry-core-feedstock.git
 	path = feedstocks/poetry-core
 	branch = refs/heads/master
+[submodule "libice-cos7-aarch64"]
+	url = https://github.com/conda-forge/libice-cos7-aarch64-feedstock.git
+	path = feedstocks/libice-cos7-aarch64
+	branch = refs/heads/master
