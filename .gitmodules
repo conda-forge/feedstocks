@@ -37254,3 +37254,7 @@
 	url = https://github.com/conda-forge/nspr-cos7-aarch64-feedstock.git
 	path = feedstocks/nspr-cos7-aarch64
 	branch = refs/heads/master
+[submodule "p11-kit-trust-cos7-aarch64"]
+	url = https://github.com/conda-forge/p11-kit-trust-cos7-aarch64-feedstock.git
+	path = feedstocks/p11-kit-trust-cos7-aarch64
+	branch = refs/heads/master
