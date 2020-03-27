@@ -37302,3 +37302,7 @@
 	url = https://github.com/conda-forge/java-1.7.0-openjdk-headless-cos7-aarch64-feedstock.git
 	path = feedstocks/java-1.7.0-openjdk-headless-cos7-aarch64
 	branch = refs/heads/master
+[submodule "copy-jdk-configs-cos7-aarch64"]
+	url = https://github.com/conda-forge/copy-jdk-configs-cos7-aarch64-feedstock.git
+	path = feedstocks/copy-jdk-configs-cos7-aarch64
+	branch = refs/heads/master
