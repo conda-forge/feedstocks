@@ -37286,3 +37286,7 @@
 	url = https://github.com/conda-forge/java-1.7.0-openjdk-cos7-aarch64-feedstock.git
 	path = feedstocks/java-1.7.0-openjdk-cos7-aarch64
 	branch = refs/heads/master
+[submodule "nss-cos7-aarch64"]
+	url = https://github.com/conda-forge/nss-cos7-aarch64-feedstock.git
+	path = feedstocks/nss-cos7-aarch64
+	branch = refs/heads/master
