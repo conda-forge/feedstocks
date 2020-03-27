@@ -37218,3 +37218,7 @@
 	url = https://github.com/conda-forge/libxt-cos7-aarch64-feedstock.git
 	path = feedstocks/libxt-cos7-aarch64
 	branch = refs/heads/master
+[submodule "monetio"]
+	url = https://github.com/conda-forge/monetio-feedstock.git
+	path = feedstocks/monetio
+	branch = refs/heads/master
