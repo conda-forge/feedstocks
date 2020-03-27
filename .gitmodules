@@ -37250,3 +37250,7 @@
 	url = https://github.com/conda-forge/chkconfig-cos7-aarch64-feedstock.git
 	path = feedstocks/chkconfig-cos7-aarch64
 	branch = refs/heads/master
+[submodule "nspr-cos7-aarch64"]
+	url = https://github.com/conda-forge/nspr-cos7-aarch64-feedstock.git
+	path = feedstocks/nspr-cos7-aarch64
+	branch = refs/heads/master
