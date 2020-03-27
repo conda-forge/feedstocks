@@ -37258,3 +37258,7 @@
 	url = https://github.com/conda-forge/p11-kit-trust-cos7-aarch64-feedstock.git
 	path = feedstocks/p11-kit-trust-cos7-aarch64
 	branch = refs/heads/master
+[submodule "orbit2-cos7-aarch64"]
+	url = https://github.com/conda-forge/orbit2-cos7-aarch64-feedstock.git
+	path = feedstocks/orbit2-cos7-aarch64
+	branch = refs/heads/master
