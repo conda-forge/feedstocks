@@ -37226,3 +37226,7 @@
 	url = https://github.com/conda-forge/google-cloud-cpp-common-feedstock.git
 	path = feedstocks/google-cloud-cpp-common
 	branch = refs/heads/master
+[submodule "googleapis-cpp"]
+	url = https://github.com/conda-forge/googleapis-cpp-feedstock.git
+	path = feedstocks/googleapis-cpp
+	branch = refs/heads/master
