@@ -37210,3 +37210,7 @@
 	url = https://github.com/conda-forge/woops-feedstock.git
 	path = feedstocks/woops
 	branch = refs/heads/master
+[submodule "libsm-cos7-aarch64"]
+	url = https://github.com/conda-forge/libsm-cos7-aarch64-feedstock.git
+	path = feedstocks/libsm-cos7-aarch64
+	branch = refs/heads/master
