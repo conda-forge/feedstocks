@@ -37318,3 +37318,7 @@
 	url = https://github.com/conda-forge/gtkmm24-cos7-ppc64le-feedstock.git
 	path = feedstocks/gtkmm24-cos7-ppc64le
 	branch = refs/heads/master
+[submodule "cosmosis-standalone"]
+	url = https://github.com/conda-forge/cosmosis-standalone-feedstock.git
+	path = feedstocks/cosmosis-standalone
+	branch = refs/heads/master
