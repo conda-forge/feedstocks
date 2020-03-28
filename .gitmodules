@@ -37310,3 +37310,7 @@
 	url = https://github.com/conda-forge/ca-certificates-cos7-aarch64-feedstock.git
 	path = feedstocks/ca-certificates-cos7-aarch64
 	branch = refs/heads/master
+[submodule "pciutils-libs-cos7-ppc64le"]
+	url = https://github.com/conda-forge/pciutils-libs-cos7-ppc64le-feedstock.git
+	path = feedstocks/pciutils-libs-cos7-ppc64le
+	branch = refs/heads/master
