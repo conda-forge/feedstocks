@@ -37314,3 +37314,7 @@
 	url = https://github.com/conda-forge/pciutils-libs-cos7-ppc64le-feedstock.git
 	path = feedstocks/pciutils-libs-cos7-ppc64le
 	branch = refs/heads/master
+[submodule "gtkmm24-cos7-ppc64le"]
+	url = https://github.com/conda-forge/gtkmm24-cos7-ppc64le-feedstock.git
+	path = feedstocks/gtkmm24-cos7-ppc64le
+	branch = refs/heads/master
