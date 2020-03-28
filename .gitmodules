@@ -37330,3 +37330,7 @@
 	url = https://github.com/conda-forge/r-mxmmod-feedstock.git
 	path = feedstocks/r-mxmmod
 	branch = refs/heads/master
+[submodule "azure-macro-utils-c"]
+	url = https://github.com/conda-forge/azure-macro-utils-c-feedstock.git
+	path = feedstocks/azure-macro-utils-c
+	branch = refs/heads/master
