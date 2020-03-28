@@ -37322,3 +37322,7 @@
 	url = https://github.com/conda-forge/cosmosis-standalone-feedstock.git
 	path = feedstocks/cosmosis-standalone
 	branch = refs/heads/master
+[submodule "mosdef_cassandra"]
+	url = https://github.com/conda-forge/mosdef_cassandra-feedstock.git
+	path = feedstocks/mosdef_cassandra
+	branch = refs/heads/master
