@@ -37342,3 +37342,7 @@
 	url = https://github.com/conda-forge/umock-c-feedstock.git
 	path = feedstocks/umock-c
 	branch = refs/heads/master
+[submodule "pygments_pytest"]
+	url = https://github.com/conda-forge/pygments_pytest-feedstock.git
+	path = feedstocks/pygments_pytest
+	branch = refs/heads/master
