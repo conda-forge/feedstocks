@@ -37334,3 +37334,7 @@
 	url = https://github.com/conda-forge/azure-macro-utils-c-feedstock.git
 	path = feedstocks/azure-macro-utils-c
 	branch = refs/heads/master
+[submodule "azure-c-shared-utility"]
+	url = https://github.com/conda-forge/azure-c-shared-utility-feedstock.git
+	path = feedstocks/azure-c-shared-utility
+	branch = refs/heads/master
