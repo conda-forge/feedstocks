@@ -37350,3 +37350,7 @@
 	url = https://github.com/conda-forge/urlchecker-feedstock.git
 	path = feedstocks/urlchecker
 	branch = refs/heads/master
+[submodule "googlesearch"]
+	url = https://github.com/conda-forge/googlesearch-feedstock.git
+	path = feedstocks/googlesearch
+	branch = refs/heads/master
