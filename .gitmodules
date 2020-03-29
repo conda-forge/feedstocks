@@ -37358,3 +37358,7 @@
 	url = https://github.com/conda-forge/markdown-it-py-feedstock.git
 	path = feedstocks/markdown-it-py
 	branch = refs/heads/master
+[submodule "jupyterlab_latex"]
+	url = https://github.com/conda-forge/jupyterlab_latex-feedstock.git
+	path = feedstocks/jupyterlab_latex
+	branch = refs/heads/master
