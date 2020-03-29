@@ -37346,3 +37346,7 @@
 	url = https://github.com/conda-forge/pygments_pytest-feedstock.git
 	path = feedstocks/pygments_pytest
 	branch = refs/heads/master
+[submodule "urlchecker"]
+	url = https://github.com/conda-forge/urlchecker-feedstock.git
+	path = feedstocks/urlchecker
+	branch = refs/heads/master
