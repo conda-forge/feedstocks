@@ -37354,3 +37354,7 @@
 	url = https://github.com/conda-forge/googlesearch-feedstock.git
 	path = feedstocks/googlesearch
 	branch = refs/heads/master
+[submodule "markdown-it-py"]
+	url = https://github.com/conda-forge/markdown-it-py-feedstock.git
+	path = feedstocks/markdown-it-py
+	branch = refs/heads/master
