@@ -37366,3 +37366,7 @@
 	url = https://github.com/conda-forge/wdl-packager-feedstock.git
 	path = feedstocks/wdl-packager
 	branch = refs/heads/master
+[submodule "pyglmnet"]
+	url = https://github.com/conda-forge/pyglmnet-feedstock.git
+	path = feedstocks/pyglmnet
+	branch = refs/heads/master
