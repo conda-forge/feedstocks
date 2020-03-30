@@ -37362,3 +37362,7 @@
 	url = https://github.com/conda-forge/jupyterlab_latex-feedstock.git
 	path = feedstocks/jupyterlab_latex
 	branch = refs/heads/master
+[submodule "wdl-packager"]
+	url = https://github.com/conda-forge/wdl-packager-feedstock.git
+	path = feedstocks/wdl-packager
+	branch = refs/heads/master
