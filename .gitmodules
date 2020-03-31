@@ -37382,3 +37382,7 @@
 	url = https://github.com/conda-forge/scikit-learn-extra-feedstock.git
 	path = feedstocks/scikit-learn-extra
 	branch = refs/heads/master
+[submodule "pymatnest"]
+	url = https://github.com/conda-forge/pymatnest-feedstock.git
+	path = feedstocks/pymatnest
+	branch = refs/heads/master
