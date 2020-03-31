@@ -37390,3 +37390,7 @@
 	url = https://github.com/conda-forge/azure-uamqp-c-feedstock.git
 	path = feedstocks/azure-uamqp-c
 	branch = refs/heads/master
+[submodule "parson"]
+	url = https://github.com/conda-forge/parson-feedstock.git
+	path = feedstocks/parson
+	branch = refs/heads/master
