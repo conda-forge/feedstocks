@@ -37410,3 +37410,7 @@
 	url = https://github.com/conda-forge/flask-simpleldap-feedstock.git
 	path = feedstocks/flask-simpleldap
 	branch = refs/heads/master
+[submodule "metric-learn"]
+	url = https://github.com/conda-forge/metric-learn-feedstock.git
+	path = feedstocks/metric-learn
+	branch = refs/heads/master
