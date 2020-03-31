@@ -37398,3 +37398,7 @@
 	url = https://github.com/conda-forge/azure-iot-sdk-c-feedstock.git
 	path = feedstocks/azure-iot-sdk-c
 	branch = refs/heads/master
+[submodule "azure-uhttp-c"]
+	url = https://github.com/conda-forge/azure-uhttp-c-feedstock.git
+	path = feedstocks/azure-uhttp-c
+	branch = refs/heads/master
