@@ -37402,3 +37402,7 @@
 	url = https://github.com/conda-forge/azure-uhttp-c-feedstock.git
 	path = feedstocks/azure-uhttp-c
 	branch = refs/heads/master
+[submodule "azure-umqtt-c"]
+	url = https://github.com/conda-forge/azure-umqtt-c-feedstock.git
+	path = feedstocks/azure-umqtt-c
+	branch = refs/heads/master
