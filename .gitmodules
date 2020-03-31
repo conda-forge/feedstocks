@@ -37406,3 +37406,7 @@
 	url = https://github.com/conda-forge/azure-umqtt-c-feedstock.git
 	path = feedstocks/azure-umqtt-c
 	branch = refs/heads/master
+[submodule "flask-simpleldap"]
+	url = https://github.com/conda-forge/flask-simpleldap-feedstock.git
+	path = feedstocks/flask-simpleldap
+	branch = refs/heads/master
