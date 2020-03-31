@@ -37418,3 +37418,7 @@
 	url = https://github.com/conda-forge/meautility-feedstock.git
 	path = feedstocks/meautility
 	branch = refs/heads/master
+[submodule "pybox2d"]
+	url = https://github.com/conda-forge/pybox2d-feedstock.git
+	path = feedstocks/pybox2d
+	branch = refs/heads/master
