@@ -37378,3 +37378,7 @@
 	url = https://github.com/conda-forge/diffutils-feedstock.git
 	path = feedstocks/diffutils
 	branch = refs/heads/master
+[submodule "scikit-learn-extra"]
+	url = https://github.com/conda-forge/scikit-learn-extra-feedstock.git
+	path = feedstocks/scikit-learn-extra
+	branch = refs/heads/master
