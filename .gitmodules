@@ -37426,3 +37426,7 @@
 	url = https://github.com/conda-forge/pylibtiff-feedstock.git
 	path = feedstocks/pylibtiff
 	branch = refs/heads/master
+[submodule "yaqd-core"]
+	url = https://github.com/conda-forge/yaqd-core-feedstock.git
+	path = feedstocks/yaqd-core
+	branch = refs/heads/master
