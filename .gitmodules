@@ -37434,3 +37434,7 @@
 	url = https://github.com/conda-forge/xlutils-feedstock.git
 	path = feedstocks/xlutils
 	branch = refs/heads/master
+[submodule "doppel-cli"]
+	url = https://github.com/conda-forge/doppel-cli-feedstock.git
+	path = feedstocks/doppel-cli
+	branch = refs/heads/master
