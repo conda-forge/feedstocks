@@ -37474,3 +37474,7 @@
 	url = https://github.com/conda-forge/ecco_v4_py-feedstock.git
 	path = feedstocks/ecco_v4_py
 	branch = refs/heads/master
+[submodule "sdl_image"]
+	url = https://github.com/conda-forge/sdl_image-feedstock.git
+	path = feedstocks/sdl_image
+	branch = refs/heads/master
