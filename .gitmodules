@@ -37438,3 +37438,7 @@
 	url = https://github.com/conda-forge/doppel-cli-feedstock.git
 	path = feedstocks/doppel-cli
 	branch = refs/heads/master
+[submodule "nionswift-tool"]
+	url = https://github.com/conda-forge/nionswift-tool-feedstock.git
+	path = feedstocks/nionswift-tool
+	branch = refs/heads/master
