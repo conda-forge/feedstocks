@@ -37458,3 +37458,7 @@
 	url = https://github.com/conda-forge/gbquality-feedstock.git
 	path = feedstocks/gbquality
 	branch = refs/heads/master
+[submodule "cppy"]
+	url = https://github.com/conda-forge/cppy-feedstock.git
+	path = feedstocks/cppy
+	branch = refs/heads/master
