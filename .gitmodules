@@ -37450,3 +37450,7 @@
 	url = https://github.com/conda-forge/spectate-feedstock.git
 	path = feedstocks/spectate
 	branch = refs/heads/master
+[submodule "qurro"]
+	url = https://github.com/conda-forge/qurro-feedstock.git
+	path = feedstocks/qurro
+	branch = refs/heads/master
