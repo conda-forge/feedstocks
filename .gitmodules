@@ -37466,3 +37466,7 @@
 	url = https://github.com/conda-forge/r-exactextractr-feedstock.git
 	path = feedstocks/r-exactextractr
 	branch = refs/heads/master
+[submodule "iso3166"]
+	url = https://github.com/conda-forge/iso3166-feedstock.git
+	path = feedstocks/iso3166
+	branch = refs/heads/master
