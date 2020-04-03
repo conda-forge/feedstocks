@@ -37442,3 +37442,7 @@
 	url = https://github.com/conda-forge/nionswift-tool-feedstock.git
 	path = feedstocks/nionswift-tool
 	branch = refs/heads/master
+[submodule "sklearn-crfsuite"]
+	url = https://github.com/conda-forge/sklearn-crfsuite-feedstock.git
+	path = feedstocks/sklearn-crfsuite
+	branch = refs/heads/master
