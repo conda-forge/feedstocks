@@ -37478,3 +37478,7 @@
 	url = https://github.com/conda-forge/sdl_image-feedstock.git
 	path = feedstocks/sdl_image
 	branch = refs/heads/master
+[submodule "cmaes"]
+	url = https://github.com/conda-forge/cmaes-feedstock.git
+	path = feedstocks/cmaes
+	branch = refs/heads/master
