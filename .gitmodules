@@ -37470,3 +37470,7 @@
 	url = https://github.com/conda-forge/iso3166-feedstock.git
 	path = feedstocks/iso3166
 	branch = refs/heads/master
+[submodule "ecco_v4_py"]
+	url = https://github.com/conda-forge/ecco_v4_py-feedstock.git
+	path = feedstocks/ecco_v4_py
+	branch = refs/heads/master
