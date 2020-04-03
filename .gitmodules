@@ -37454,3 +37454,7 @@
 	url = https://github.com/conda-forge/qurro-feedstock.git
 	path = feedstocks/qurro
 	branch = refs/heads/master
+[submodule "gbquality"]
+	url = https://github.com/conda-forge/gbquality-feedstock.git
+	path = feedstocks/gbquality
+	branch = refs/heads/master
