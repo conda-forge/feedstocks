@@ -37530,3 +37530,7 @@
 	url = https://github.com/conda-forge/isitgr-feedstock.git
 	path = feedstocks/isitgr
 	branch = refs/heads/master
+[submodule "box2d-py"]
+	url = https://github.com/conda-forge/box2d-py-feedstock.git
+	path = feedstocks/box2d-py
+	branch = refs/heads/master
