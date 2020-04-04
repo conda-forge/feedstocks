@@ -37510,3 +37510,7 @@
 	url = https://github.com/conda-forge/lfzip-feedstock.git
 	path = feedstocks/lfzip
 	branch = refs/heads/master
+[submodule "kmodes"]
+	url = https://github.com/conda-forge/kmodes-feedstock.git
+	path = feedstocks/kmodes
+	branch = refs/heads/master
