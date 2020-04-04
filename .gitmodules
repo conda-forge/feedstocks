@@ -37514,3 +37514,7 @@
 	url = https://github.com/conda-forge/kmodes-feedstock.git
 	path = feedstocks/kmodes
 	branch = refs/heads/master
+[submodule "libbsc"]
+	url = https://github.com/conda-forge/libbsc-feedstock.git
+	path = feedstocks/libbsc
+	branch = refs/heads/master
