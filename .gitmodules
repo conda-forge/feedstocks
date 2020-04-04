@@ -37506,3 +37506,7 @@
 	url = https://github.com/conda-forge/pwtools-feedstock.git
 	path = feedstocks/pwtools
 	branch = refs/heads/master
+[submodule "lfzip"]
+	url = https://github.com/conda-forge/lfzip-feedstock.git
+	path = feedstocks/lfzip
+	branch = refs/heads/master
