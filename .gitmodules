@@ -37502,3 +37502,7 @@
 	url = https://github.com/conda-forge/firecrown-feedstock.git
 	path = feedstocks/firecrown
 	branch = refs/heads/master
+[submodule "pwtools"]
+	url = https://github.com/conda-forge/pwtools-feedstock.git
+	path = feedstocks/pwtools
+	branch = refs/heads/master
