@@ -37522,3 +37522,7 @@
 	url = https://github.com/conda-forge/pangomm-feedstock.git
 	path = feedstocks/pangomm
 	branch = refs/heads/master
+[submodule "atkmm"]
+	url = https://github.com/conda-forge/atkmm-feedstock.git
+	path = feedstocks/atkmm
+	branch = refs/heads/master
