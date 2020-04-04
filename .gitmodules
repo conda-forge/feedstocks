@@ -37486,3 +37486,7 @@
 	url = https://github.com/conda-forge/sdl-feedstock.git
 	path = feedstocks/sdl
 	branch = refs/heads/master
+[submodule "atari_py"]
+	url = https://github.com/conda-forge/atari_py-feedstock.git
+	path = feedstocks/atari_py
+	branch = refs/heads/master
