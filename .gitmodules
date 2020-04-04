@@ -37518,3 +37518,7 @@
 	url = https://github.com/conda-forge/libbsc-feedstock.git
 	path = feedstocks/libbsc
 	branch = refs/heads/master
+[submodule "pangomm"]
+	url = https://github.com/conda-forge/pangomm-feedstock.git
+	path = feedstocks/pangomm
+	branch = refs/heads/master
