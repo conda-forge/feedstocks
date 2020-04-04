@@ -37490,3 +37490,7 @@
 	url = https://github.com/conda-forge/atari_py-feedstock.git
 	path = feedstocks/atari_py
 	branch = refs/heads/master
+[submodule "mapbox"]
+	url = https://github.com/conda-forge/mapbox-feedstock.git
+	path = feedstocks/mapbox
+	branch = refs/heads/master
