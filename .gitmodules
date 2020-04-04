@@ -37534,3 +37534,7 @@
 	url = https://github.com/conda-forge/box2d-py-feedstock.git
 	path = feedstocks/box2d-py
 	branch = refs/heads/master
+[submodule "rapidfuzz"]
+	url = https://github.com/conda-forge/rapidfuzz-feedstock.git
+	path = feedstocks/rapidfuzz
+	branch = refs/heads/master
