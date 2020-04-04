@@ -37494,3 +37494,7 @@
 	url = https://github.com/conda-forge/mapbox-feedstock.git
 	path = feedstocks/mapbox
 	branch = refs/heads/master
+[submodule "flatdict"]
+	url = https://github.com/conda-forge/flatdict-feedstock.git
+	path = feedstocks/flatdict
+	branch = refs/heads/master
