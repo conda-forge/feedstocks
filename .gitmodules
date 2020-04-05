@@ -37554,3 +37554,7 @@
 	url = https://github.com/conda-forge/cleanlab-feedstock.git
 	path = feedstocks/cleanlab
 	branch = refs/heads/master
+[submodule "r-jsonify"]
+	url = https://github.com/conda-forge/r-jsonify-feedstock.git
+	path = feedstocks/r-jsonify
+	branch = refs/heads/master
