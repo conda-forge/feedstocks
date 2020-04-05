@@ -37538,3 +37538,7 @@
 	url = https://github.com/conda-forge/rapidfuzz-feedstock.git
 	path = feedstocks/rapidfuzz
 	branch = refs/heads/master
+[submodule "gtkmm"]
+	url = https://github.com/conda-forge/gtkmm-feedstock.git
+	path = feedstocks/gtkmm
+	branch = refs/heads/master
