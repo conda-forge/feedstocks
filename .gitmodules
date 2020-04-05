@@ -37566,3 +37566,7 @@
 	url = https://github.com/conda-forge/r-googlepolylines-feedstock.git
 	path = feedstocks/r-googlepolylines
 	branch = refs/heads/master
+[submodule "r-sfheaders"]
+	url = https://github.com/conda-forge/r-sfheaders-feedstock.git
+	path = feedstocks/r-sfheaders
+	branch = refs/heads/master
