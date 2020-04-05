@@ -37570,3 +37570,7 @@
 	url = https://github.com/conda-forge/r-sfheaders-feedstock.git
 	path = feedstocks/r-sfheaders
 	branch = refs/heads/master
+[submodule "libsemigroups_cppyy"]
+	url = https://github.com/conda-forge/libsemigroups_cppyy-feedstock.git
+	path = feedstocks/libsemigroups_cppyy
+	branch = refs/heads/master
