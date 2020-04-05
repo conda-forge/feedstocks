@@ -37546,3 +37546,7 @@
 	url = https://github.com/conda-forge/r-colourvalues-feedstock.git
 	path = feedstocks/r-colourvalues
 	branch = refs/heads/master
+[submodule "pandoc-plot"]
+	url = https://github.com/conda-forge/pandoc-plot-feedstock.git
+	path = feedstocks/pandoc-plot
+	branch = refs/heads/master
