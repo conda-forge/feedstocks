@@ -37558,3 +37558,7 @@
 	url = https://github.com/conda-forge/r-jsonify-feedstock.git
 	path = feedstocks/r-jsonify
 	branch = refs/heads/master
+[submodule "libcst"]
+	url = https://github.com/conda-forge/libcst-feedstock.git
+	path = feedstocks/libcst
+	branch = refs/heads/master
