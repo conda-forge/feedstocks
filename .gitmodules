@@ -37598,3 +37598,7 @@
 	url = https://github.com/conda-forge/r-mapdeck-feedstock.git
 	path = feedstocks/r-mapdeck
 	branch = refs/heads/master
+[submodule "rbdl-casadi"]
+	url = https://github.com/conda-forge/rbdl-casadi-feedstock.git
+	path = feedstocks/rbdl-casadi
+	branch = refs/heads/master
