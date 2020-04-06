@@ -37582,3 +37582,7 @@
 	url = https://github.com/conda-forge/nmslib-feedstock.git
 	path = feedstocks/nmslib
 	branch = refs/heads/master
+[submodule "win10toast"]
+	url = https://github.com/conda-forge/win10toast-feedstock.git
+	path = feedstocks/win10toast
+	branch = refs/heads/master
