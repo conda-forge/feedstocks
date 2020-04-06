@@ -37594,3 +37594,7 @@
 	url = https://github.com/conda-forge/ansible-vault-feedstock.git
 	path = feedstocks/ansible-vault
 	branch = refs/heads/master
+[submodule "r-mapdeck"]
+	url = https://github.com/conda-forge/r-mapdeck-feedstock.git
+	path = feedstocks/r-mapdeck
+	branch = refs/heads/master
