@@ -37578,3 +37578,7 @@
 	url = https://github.com/conda-forge/r-geojsonsf-feedstock.git
 	path = feedstocks/r-geojsonsf
 	branch = refs/heads/master
+[submodule "nmslib"]
+	url = https://github.com/conda-forge/nmslib-feedstock.git
+	path = feedstocks/nmslib
+	branch = refs/heads/master
