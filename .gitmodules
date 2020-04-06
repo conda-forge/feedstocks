@@ -37590,3 +37590,7 @@
 	url = https://github.com/conda-forge/r-spatialwidget-feedstock.git
 	path = feedstocks/r-spatialwidget
 	branch = refs/heads/master
+[submodule "ansible-vault"]
+	url = https://github.com/conda-forge/ansible-vault-feedstock.git
+	path = feedstocks/ansible-vault
+	branch = refs/heads/master
