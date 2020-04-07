@@ -37622,3 +37622,7 @@
 	url = https://github.com/conda-forge/intbitset-feedstock.git
 	path = feedstocks/intbitset
 	branch = refs/heads/master
+[submodule "click-shell"]
+	url = https://github.com/conda-forge/click-shell-feedstock.git
+	path = feedstocks/click-shell
+	branch = refs/heads/master
