@@ -37634,3 +37634,7 @@
 	url = https://github.com/conda-forge/gym-feedstock.git
 	path = feedstocks/gym
 	branch = refs/heads/master
+[submodule "setuptools-lint"]
+	url = https://github.com/conda-forge/setuptools-lint-feedstock.git
+	path = feedstocks/setuptools-lint
+	branch = refs/heads/master
