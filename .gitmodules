@@ -37638,3 +37638,7 @@
 	url = https://github.com/conda-forge/setuptools-lint-feedstock.git
 	path = feedstocks/setuptools-lint
 	branch = refs/heads/master
+[submodule "xarrayutils"]
+	url = https://github.com/conda-forge/xarrayutils-feedstock.git
+	path = feedstocks/xarrayutils
+	branch = refs/heads/master
