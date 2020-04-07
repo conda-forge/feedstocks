@@ -37606,3 +37606,7 @@
 	url = https://github.com/conda-forge/graphene-mongo-feedstock.git
 	path = feedstocks/graphene-mongo
 	branch = refs/heads/master
+[submodule "indicators"]
+	url = https://github.com/conda-forge/indicators-feedstock.git
+	path = feedstocks/indicators
+	branch = refs/heads/master
