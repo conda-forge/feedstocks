@@ -37602,3 +37602,7 @@
 	url = https://github.com/conda-forge/rbdl-casadi-feedstock.git
 	path = feedstocks/rbdl-casadi
 	branch = refs/heads/master
+[submodule "graphene-mongo"]
+	url = https://github.com/conda-forge/graphene-mongo-feedstock.git
+	path = feedstocks/graphene-mongo
+	branch = refs/heads/master
