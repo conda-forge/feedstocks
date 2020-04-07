@@ -37626,3 +37626,7 @@
 	url = https://github.com/conda-forge/click-shell-feedstock.git
 	path = feedstocks/click-shell
 	branch = refs/heads/master
+[submodule "jupyterlab-snippets"]
+	url = https://github.com/conda-forge/jupyterlab-snippets-feedstock.git
+	path = feedstocks/jupyterlab-snippets
+	branch = refs/heads/master
