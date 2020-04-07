@@ -37610,3 +37610,7 @@
 	url = https://github.com/conda-forge/indicators-feedstock.git
 	path = feedstocks/indicators
 	branch = refs/heads/master
+[submodule "cadabra2"]
+	url = https://github.com/conda-forge/cadabra2-feedstock.git
+	path = feedstocks/cadabra2
+	branch = refs/heads/master
