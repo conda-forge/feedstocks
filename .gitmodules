@@ -37666,3 +37666,7 @@
 	url = https://github.com/conda-forge/objgraph-feedstock.git
 	path = feedstocks/objgraph
 	branch = refs/heads/master
+[submodule "rarfile"]
+	url = https://github.com/conda-forge/rarfile-feedstock.git
+	path = feedstocks/rarfile
+	branch = refs/heads/master
