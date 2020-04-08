@@ -37662,3 +37662,7 @@
 	url = https://github.com/conda-forge/xbyak-feedstock.git
 	path = feedstocks/xbyak
 	branch = refs/heads/master
+[submodule "objgraph"]
+	url = https://github.com/conda-forge/objgraph-feedstock.git
+	path = feedstocks/objgraph
+	branch = refs/heads/master
