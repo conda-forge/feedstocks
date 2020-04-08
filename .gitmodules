@@ -37654,3 +37654,7 @@
 	url = https://github.com/conda-forge/libensemble-feedstock.git
 	path = feedstocks/libensemble
 	branch = refs/heads/master
+[submodule "g2o"]
+	url = https://github.com/conda-forge/g2o-feedstock.git
+	path = feedstocks/g2o
+	branch = refs/heads/master
