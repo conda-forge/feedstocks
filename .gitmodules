@@ -37650,3 +37650,7 @@
 	url = https://github.com/conda-forge/fastprogress-feedstock.git
 	path = feedstocks/fastprogress
 	branch = refs/heads/master
+[submodule "libensemble"]
+	url = https://github.com/conda-forge/libensemble-feedstock.git
+	path = feedstocks/libensemble
+	branch = refs/heads/master
