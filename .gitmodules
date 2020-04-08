@@ -37670,3 +37670,7 @@
 	url = https://github.com/conda-forge/rarfile-feedstock.git
 	path = feedstocks/rarfile
 	branch = refs/heads/master
+[submodule "yaqc"]
+	url = https://github.com/conda-forge/yaqc-feedstock.git
+	path = feedstocks/yaqc
+	branch = refs/heads/master
