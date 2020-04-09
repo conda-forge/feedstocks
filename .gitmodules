@@ -37678,3 +37678,7 @@
 	url = https://github.com/conda-forge/nevergrad-feedstock.git
 	path = feedstocks/nevergrad
 	branch = refs/heads/master
+[submodule "r-gt"]
+	url = https://github.com/conda-forge/r-gt-feedstock.git
+	path = feedstocks/r-gt
+	branch = refs/heads/master
