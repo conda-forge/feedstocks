@@ -37674,3 +37674,7 @@
 	url = https://github.com/conda-forge/yaqc-feedstock.git
 	path = feedstocks/yaqc
 	branch = refs/heads/master
+[submodule "nevergrad"]
+	url = https://github.com/conda-forge/nevergrad-feedstock.git
+	path = feedstocks/nevergrad
+	branch = refs/heads/master
