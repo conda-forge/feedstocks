@@ -37702,3 +37702,7 @@
 	url = https://github.com/conda-forge/xorg-libxscrnsaver-feedstock.git
 	path = feedstocks/xorg-libxscrnsaver
 	branch = refs/heads/master
+[submodule "xorg-libxdamage"]
+	url = https://github.com/conda-forge/xorg-libxdamage-feedstock.git
+	path = feedstocks/xorg-libxdamage
+	branch = refs/heads/master
