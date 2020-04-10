@@ -37698,3 +37698,7 @@
 	url = https://github.com/conda-forge/xorg-libxcomposite-feedstock.git
 	path = feedstocks/xorg-libxcomposite
 	branch = refs/heads/master
+[submodule "xorg-libxscrnsaver"]
+	url = https://github.com/conda-forge/xorg-libxscrnsaver-feedstock.git
+	path = feedstocks/xorg-libxscrnsaver
+	branch = refs/heads/master
