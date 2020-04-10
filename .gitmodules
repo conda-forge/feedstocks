@@ -37694,3 +37694,7 @@
 	url = https://github.com/conda-forge/ndindex-feedstock.git
 	path = feedstocks/ndindex
 	branch = refs/heads/master
+[submodule "xorg-libxcomposite"]
+	url = https://github.com/conda-forge/xorg-libxcomposite-feedstock.git
+	path = feedstocks/xorg-libxcomposite
+	branch = refs/heads/master
