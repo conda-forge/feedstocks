@@ -37722,3 +37722,7 @@
 	url = https://github.com/conda-forge/legacy-api-wrap-feedstock.git
 	path = feedstocks/legacy-api-wrap
 	branch = refs/heads/master
+[submodule "castorapi"]
+	url = https://github.com/conda-forge/castorapi-feedstock.git
+	path = feedstocks/castorapi
+	branch = refs/heads/master
