@@ -37762,3 +37762,7 @@
 	url = https://github.com/conda-forge/coxeter-feedstock.git
 	path = feedstocks/coxeter
 	branch = refs/heads/master
+[submodule "fvcore"]
+	url = https://github.com/conda-forge/fvcore-feedstock.git
+	path = feedstocks/fvcore
+	branch = refs/heads/master
