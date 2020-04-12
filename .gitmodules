@@ -37742,3 +37742,7 @@
 	url = https://github.com/conda-forge/anaflow-feedstock.git
 	path = feedstocks/anaflow
 	branch = refs/heads/master
+[submodule "pynput"]
+	url = https://github.com/conda-forge/pynput-feedstock.git
+	path = feedstocks/pynput
+	branch = refs/heads/master
