@@ -37746,3 +37746,7 @@
 	url = https://github.com/conda-forge/pynput-feedstock.git
 	path = feedstocks/pynput
 	branch = refs/heads/master
+[submodule "collada-dom"]
+	url = https://github.com/conda-forge/collada-dom-feedstock.git
+	path = feedstocks/collada-dom
+	branch = refs/heads/master
