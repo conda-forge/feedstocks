@@ -37730,3 +37730,7 @@
 	url = https://github.com/conda-forge/pentapy-feedstock.git
 	path = feedstocks/pentapy
 	branch = refs/heads/master
+[submodule "openscenegraph"]
+	url = https://github.com/conda-forge/openscenegraph-feedstock.git
+	path = feedstocks/openscenegraph
+	branch = refs/heads/master
