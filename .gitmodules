@@ -37734,3 +37734,7 @@
 	url = https://github.com/conda-forge/openscenegraph-feedstock.git
 	path = feedstocks/openscenegraph
 	branch = refs/heads/master
+[submodule "blist"]
+	url = https://github.com/conda-forge/blist-feedstock.git
+	path = feedstocks/blist
+	branch = refs/heads/master
