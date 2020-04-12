@@ -37726,3 +37726,7 @@
 	url = https://github.com/conda-forge/castorapi-feedstock.git
 	path = feedstocks/castorapi
 	branch = refs/heads/master
+[submodule "pentapy"]
+	url = https://github.com/conda-forge/pentapy-feedstock.git
+	path = feedstocks/pentapy
+	branch = refs/heads/master
