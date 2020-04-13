@@ -37794,3 +37794,7 @@
 	url = https://github.com/conda-forge/openfast-feedstock.git
 	path = feedstocks/openfast
 	branch = refs/heads/master
+[submodule "welltestpy"]
+	url = https://github.com/conda-forge/welltestpy-feedstock.git
+	path = feedstocks/welltestpy
+	branch = refs/heads/master
