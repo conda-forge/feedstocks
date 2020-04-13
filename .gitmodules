@@ -37806,3 +37806,7 @@
 	url = https://github.com/conda-forge/pyout-feedstock.git
 	path = feedstocks/pyout
 	branch = refs/heads/master
+[submodule "pydeck"]
+	url = https://github.com/conda-forge/pydeck-feedstock.git
+	path = feedstocks/pydeck
+	branch = refs/heads/master
