@@ -37790,3 +37790,7 @@
 	url = https://github.com/conda-forge/schemaorg-feedstock.git
 	path = feedstocks/schemaorg
 	branch = refs/heads/master
+[submodule "openfast"]
+	url = https://github.com/conda-forge/openfast-feedstock.git
+	path = feedstocks/openfast
+	branch = refs/heads/master
