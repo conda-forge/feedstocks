@@ -37782,3 +37782,7 @@
 	url = https://github.com/conda-forge/r-tidybf-feedstock.git
 	path = feedstocks/r-tidybf
 	branch = refs/heads/master
+[submodule "floris"]
+	url = https://github.com/conda-forge/floris-feedstock.git
+	path = feedstocks/floris
+	branch = refs/heads/master
