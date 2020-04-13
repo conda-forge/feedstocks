@@ -37786,3 +37786,7 @@
 	url = https://github.com/conda-forge/floris-feedstock.git
 	path = feedstocks/floris
 	branch = refs/heads/master
+[submodule "schemaorg"]
+	url = https://github.com/conda-forge/schemaorg-feedstock.git
+	path = feedstocks/schemaorg
+	branch = refs/heads/master
