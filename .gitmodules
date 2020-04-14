@@ -37814,3 +37814,7 @@
 	url = https://github.com/conda-forge/grblas-feedstock.git
 	path = feedstocks/grblas
 	branch = refs/heads/master
+[submodule "r-modeldata"]
+	url = https://github.com/conda-forge/r-modeldata-feedstock.git
+	path = feedstocks/r-modeldata
+	branch = refs/heads/master
