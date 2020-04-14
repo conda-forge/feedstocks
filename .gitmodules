@@ -37822,3 +37822,7 @@
 	url = https://github.com/conda-forge/ipyfilechooser-feedstock.git
 	path = feedstocks/ipyfilechooser
 	branch = refs/heads/master
+[submodule "argopt"]
+	url = https://github.com/conda-forge/argopt-feedstock.git
+	path = feedstocks/argopt
+	branch = refs/heads/master
