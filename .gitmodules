@@ -37810,3 +37810,7 @@
 	url = https://github.com/conda-forge/pydeck-feedstock.git
 	path = feedstocks/pydeck
 	branch = refs/heads/master
+[submodule "grblas"]
+	url = https://github.com/conda-forge/grblas-feedstock.git
+	path = feedstocks/grblas
+	branch = refs/heads/master
