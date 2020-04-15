@@ -37834,3 +37834,7 @@
 	url = https://github.com/conda-forge/pgsu-feedstock.git
 	path = feedstocks/pgsu
 	branch = refs/heads/master
+[submodule "parsel"]
+	url = https://github.com/conda-forge/parsel-feedstock.git
+	path = feedstocks/parsel
+	branch = refs/heads/master
