@@ -37846,3 +37846,7 @@
 	url = https://github.com/conda-forge/r-correlation-feedstock.git
 	path = feedstocks/r-correlation
 	branch = refs/heads/master
+[submodule "xcape"]
+	url = https://github.com/conda-forge/xcape-feedstock.git
+	path = feedstocks/xcape
+	branch = refs/heads/master
