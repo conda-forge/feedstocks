@@ -37830,3 +37830,7 @@
 	url = https://github.com/conda-forge/polyscope-feedstock.git
 	path = feedstocks/polyscope
 	branch = refs/heads/master
+[submodule "pgsu"]
+	url = https://github.com/conda-forge/pgsu-feedstock.git
+	path = feedstocks/pgsu
+	branch = refs/heads/master
