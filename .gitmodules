@@ -37838,3 +37838,7 @@
 	url = https://github.com/conda-forge/parsel-feedstock.git
 	path = feedstocks/parsel
 	branch = refs/heads/master
+[submodule "flask-executor"]
+	url = https://github.com/conda-forge/flask-executor-feedstock.git
+	path = feedstocks/flask-executor
+	branch = refs/heads/master
