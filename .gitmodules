@@ -37826,3 +37826,7 @@
 	url = https://github.com/conda-forge/argopt-feedstock.git
 	path = feedstocks/argopt
 	branch = refs/heads/master
+[submodule "polyscope"]
+	url = https://github.com/conda-forge/polyscope-feedstock.git
+	path = feedstocks/polyscope
+	branch = refs/heads/master
