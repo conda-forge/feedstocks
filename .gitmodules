@@ -37850,3 +37850,7 @@
 	url = https://github.com/conda-forge/xcape-feedstock.git
 	path = feedstocks/xcape
 	branch = refs/heads/master
+[submodule "fuzzysearch"]
+	url = https://github.com/conda-forge/fuzzysearch-feedstock.git
+	path = feedstocks/fuzzysearch
+	branch = refs/heads/master
