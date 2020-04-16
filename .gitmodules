@@ -37874,3 +37874,7 @@
 	url = https://github.com/conda-forge/sparse_dot_mkl-feedstock.git
 	path = feedstocks/sparse_dot_mkl
 	branch = refs/heads/master
+[submodule "eland"]
+	url = https://github.com/conda-forge/eland-feedstock.git
+	path = feedstocks/eland
+	branch = refs/heads/master
