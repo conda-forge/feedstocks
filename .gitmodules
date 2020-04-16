@@ -37878,3 +37878,7 @@
 	url = https://github.com/conda-forge/eland-feedstock.git
 	path = feedstocks/eland
 	branch = refs/heads/master
+[submodule "cpp-tabulate"]
+	url = https://github.com/conda-forge/cpp-tabulate-feedstock.git
+	path = feedstocks/cpp-tabulate
+	branch = refs/heads/master
