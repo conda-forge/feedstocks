@@ -37854,3 +37854,7 @@
 	url = https://github.com/conda-forge/fuzzysearch-feedstock.git
 	path = feedstocks/fuzzysearch
 	branch = refs/heads/master
+[submodule "pp-sketchlib"]
+	url = https://github.com/conda-forge/pp-sketchlib-feedstock.git
+	path = feedstocks/pp-sketchlib
+	branch = refs/heads/master
