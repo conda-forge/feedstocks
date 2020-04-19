@@ -37926,3 +37926,7 @@
 	url = https://github.com/conda-forge/klib-feedstock.git
 	path = feedstocks/klib
 	branch = refs/heads/master
+[submodule "randomgen"]
+	url = https://github.com/conda-forge/randomgen-feedstock.git
+	path = feedstocks/randomgen
+	branch = refs/heads/master
