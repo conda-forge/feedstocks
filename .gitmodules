@@ -37934,3 +37934,7 @@
 	url = https://github.com/conda-forge/toyplot-feedstock.git
 	path = feedstocks/toyplot
 	branch = refs/heads/master
+[submodule "anytree"]
+	url = https://github.com/conda-forge/anytree-feedstock.git
+	path = feedstocks/anytree
+	branch = refs/heads/master
