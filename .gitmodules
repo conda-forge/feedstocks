@@ -37886,3 +37886,7 @@
 	url = https://github.com/conda-forge/clyngor-feedstock.git
 	path = feedstocks/clyngor
 	branch = refs/heads/master
+[submodule "rocksdb"]
+	url = https://github.com/conda-forge/rocksdb-feedstock.git
+	path = feedstocks/rocksdb
+	branch = refs/heads/master
