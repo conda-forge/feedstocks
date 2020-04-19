@@ -37942,3 +37942,7 @@
 	url = https://github.com/conda-forge/autouri-feedstock.git
 	path = feedstocks/autouri
 	branch = refs/heads/master
+[submodule "r-butcher"]
+	url = https://github.com/conda-forge/r-butcher-feedstock.git
+	path = feedstocks/r-butcher
+	branch = refs/heads/master
