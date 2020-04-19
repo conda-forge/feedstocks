@@ -37958,3 +37958,7 @@
 	url = https://github.com/conda-forge/scikit-fem-feedstock.git
 	path = feedstocks/scikit-fem
 	branch = refs/heads/master
+[submodule "daphne"]
+	url = https://github.com/conda-forge/daphne-feedstock.git
+	path = feedstocks/daphne
+	branch = refs/heads/master
