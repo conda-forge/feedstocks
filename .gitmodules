@@ -37890,3 +37890,7 @@
 	url = https://github.com/conda-forge/rocksdb-feedstock.git
 	path = feedstocks/rocksdb
 	branch = refs/heads/master
+[submodule "pip-tools"]
+	url = https://github.com/conda-forge/pip-tools-feedstock.git
+	path = feedstocks/pip-tools
+	branch = refs/heads/master
