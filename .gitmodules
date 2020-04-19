@@ -37902,3 +37902,7 @@
 	url = https://github.com/conda-forge/crashtest-feedstock.git
 	path = feedstocks/crashtest
 	branch = refs/heads/master
+[submodule "channels"]
+	url = https://github.com/conda-forge/channels-feedstock.git
+	path = feedstocks/channels
+	branch = refs/heads/master
