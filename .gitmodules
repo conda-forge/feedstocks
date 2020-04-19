@@ -37930,3 +37930,7 @@
 	url = https://github.com/conda-forge/randomgen-feedstock.git
 	path = feedstocks/randomgen
 	branch = refs/heads/master
+[submodule "toyplot"]
+	url = https://github.com/conda-forge/toyplot-feedstock.git
+	path = feedstocks/toyplot
+	branch = refs/heads/master
