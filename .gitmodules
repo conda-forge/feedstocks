@@ -37922,3 +37922,7 @@
 	url = https://github.com/conda-forge/epsie-feedstock.git
 	path = feedstocks/epsie
 	branch = refs/heads/master
+[submodule "klib"]
+	url = https://github.com/conda-forge/klib-feedstock.git
+	path = feedstocks/klib
+	branch = refs/heads/master
