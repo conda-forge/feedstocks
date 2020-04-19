@@ -37962,3 +37962,7 @@
 	url = https://github.com/conda-forge/daphne-feedstock.git
 	path = feedstocks/daphne
 	branch = refs/heads/master
+[submodule "r-poissonreg"]
+	url = https://github.com/conda-forge/r-poissonreg-feedstock.git
+	path = feedstocks/r-poissonreg
+	branch = refs/heads/master
