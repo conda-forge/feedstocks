@@ -37914,3 +37914,7 @@
 	url = https://github.com/conda-forge/ci-info-feedstock.git
 	path = feedstocks/ci-info
 	branch = refs/heads/master
+[submodule "echo"]
+	url = https://github.com/conda-forge/echo-feedstock.git
+	path = feedstocks/echo
+	branch = refs/heads/master
