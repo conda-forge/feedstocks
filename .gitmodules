@@ -37906,3 +37906,7 @@
 	url = https://github.com/conda-forge/channels-feedstock.git
 	path = feedstocks/channels
 	branch = refs/heads/master
+[submodule "terraform-provider-azuread"]
+	url = https://github.com/conda-forge/terraform-provider-azuread-feedstock.git
+	path = feedstocks/terraform-provider-azuread
+	branch = refs/heads/master
