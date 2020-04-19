@@ -37898,3 +37898,7 @@
 	url = https://github.com/conda-forge/dandi-feedstock.git
 	path = feedstocks/dandi
 	branch = refs/heads/master
+[submodule "crashtest"]
+	url = https://github.com/conda-forge/crashtest-feedstock.git
+	path = feedstocks/crashtest
+	branch = refs/heads/master
