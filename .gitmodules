@@ -37954,3 +37954,7 @@
 	url = https://github.com/conda-forge/pybamm-feedstock.git
 	path = feedstocks/pybamm
 	branch = refs/heads/master
+[submodule "scikit-fem"]
+	url = https://github.com/conda-forge/scikit-fem-feedstock.git
+	path = feedstocks/scikit-fem
+	branch = refs/heads/master
