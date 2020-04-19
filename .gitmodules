@@ -37946,3 +37946,7 @@
 	url = https://github.com/conda-forge/r-butcher-feedstock.git
 	path = feedstocks/r-butcher
 	branch = refs/heads/master
+[submodule "go-shfmt"]
+	url = https://github.com/conda-forge/go-shfmt-feedstock.git
+	path = feedstocks/go-shfmt
+	branch = refs/heads/master
