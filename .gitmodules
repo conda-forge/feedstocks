@@ -37978,3 +37978,7 @@
 	url = https://github.com/conda-forge/go-cockroach-feedstock.git
 	path = feedstocks/go-cockroach
 	branch = refs/heads/master
+[submodule "theseus"]
+	url = https://github.com/conda-forge/theseus-feedstock.git
+	path = feedstocks/theseus
+	branch = refs/heads/master
