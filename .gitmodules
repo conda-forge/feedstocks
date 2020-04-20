@@ -37982,3 +37982,7 @@
 	url = https://github.com/conda-forge/theseus-feedstock.git
 	path = feedstocks/theseus
 	branch = refs/heads/master
+[submodule "mmligner"]
+	url = https://github.com/conda-forge/mmligner-feedstock.git
+	path = feedstocks/mmligner
+	branch = refs/heads/master
