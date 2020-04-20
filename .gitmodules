@@ -37974,3 +37974,7 @@
 	url = https://github.com/conda-forge/r-slider-feedstock.git
 	path = feedstocks/r-slider
 	branch = refs/heads/master
+[submodule "go-cockroach"]
+	url = https://github.com/conda-forge/go-cockroach-feedstock.git
+	path = feedstocks/go-cockroach
+	branch = refs/heads/master
