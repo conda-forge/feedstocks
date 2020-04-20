@@ -37986,3 +37986,7 @@
 	url = https://github.com/conda-forge/mmligner-feedstock.git
 	path = feedstocks/mmligner
 	branch = refs/heads/master
+[submodule "kedro"]
+	url = https://github.com/conda-forge/kedro-feedstock.git
+	path = feedstocks/kedro
+	branch = refs/heads/master
