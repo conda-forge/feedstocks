@@ -37990,3 +37990,7 @@
 	url = https://github.com/conda-forge/kedro-feedstock.git
 	path = feedstocks/kedro
 	branch = refs/heads/master
+[submodule "pwlf"]
+	url = https://github.com/conda-forge/pwlf-feedstock.git
+	path = feedstocks/pwlf
+	branch = refs/heads/master
