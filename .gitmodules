@@ -38014,3 +38014,7 @@
 	url = https://github.com/conda-forge/r-baguette-feedstock.git
 	path = feedstocks/r-baguette
 	branch = refs/heads/master
+[submodule "r-gtsummary"]
+	url = https://github.com/conda-forge/r-gtsummary-feedstock.git
+	path = feedstocks/r-gtsummary
+	branch = refs/heads/master
