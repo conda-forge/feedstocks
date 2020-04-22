@@ -38002,3 +38002,7 @@
 	url = https://github.com/conda-forge/respx-feedstock.git
 	path = feedstocks/respx
 	branch = refs/heads/master
+[submodule "openscm-units"]
+	url = https://github.com/conda-forge/openscm-units-feedstock.git
+	path = feedstocks/openscm-units
+	branch = refs/heads/master
