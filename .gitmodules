@@ -38010,3 +38010,7 @@
 	url = https://github.com/conda-forge/r-destinie-feedstock.git
 	path = feedstocks/r-destinie
 	branch = refs/heads/master
+[submodule "r-baguette"]
+	url = https://github.com/conda-forge/r-baguette-feedstock.git
+	path = feedstocks/r-baguette
+	branch = refs/heads/master
