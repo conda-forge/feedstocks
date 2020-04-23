@@ -38026,3 +38026,7 @@
 	url = https://github.com/conda-forge/r-ibreakdown-feedstock.git
 	path = feedstocks/r-ibreakdown
 	branch = refs/heads/master
+[submodule "mimalloc"]
+	url = https://github.com/conda-forge/mimalloc-feedstock.git
+	path = feedstocks/mimalloc
+	branch = refs/heads/master
