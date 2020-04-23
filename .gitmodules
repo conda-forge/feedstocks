@@ -38038,3 +38038,7 @@
 	url = https://github.com/conda-forge/find-kedro-feedstock.git
 	path = feedstocks/find-kedro
 	branch = refs/heads/master
+[submodule "go-gvisor"]
+	url = https://github.com/conda-forge/go-gvisor-feedstock.git
+	path = feedstocks/go-gvisor
+	branch = refs/heads/master
