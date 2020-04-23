@@ -38030,3 +38030,7 @@
 	url = https://github.com/conda-forge/mimalloc-feedstock.git
 	path = feedstocks/mimalloc
 	branch = refs/heads/master
+[submodule "lume-gpt"]
+	url = https://github.com/conda-forge/lume-gpt-feedstock.git
+	path = feedstocks/lume-gpt
+	branch = refs/heads/master
