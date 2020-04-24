@@ -38070,3 +38070,7 @@
 	url = https://github.com/conda-forge/powerlaw-feedstock.git
 	path = feedstocks/powerlaw
 	branch = refs/heads/master
+[submodule "hicolor-icon-theme"]
+	url = https://github.com/conda-forge/hicolor-icon-theme-feedstock.git
+	path = feedstocks/hicolor-icon-theme
+	branch = refs/heads/master
