@@ -38046,3 +38046,7 @@
 	url = https://github.com/conda-forge/cartographer-feedstock.git
 	path = feedstocks/cartographer
 	branch = refs/heads/master
+[submodule "r-ggcharts"]
+	url = https://github.com/conda-forge/r-ggcharts-feedstock.git
+	path = feedstocks/r-ggcharts
+	branch = refs/heads/master
