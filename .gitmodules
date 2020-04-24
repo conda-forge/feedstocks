@@ -38078,3 +38078,7 @@
 	url = https://github.com/conda-forge/libcxx-testing-feedstock.git
 	path = feedstocks/libcxx-testing
 	branch = refs/heads/master
+[submodule "r-conflr"]
+	url = https://github.com/conda-forge/r-conflr-feedstock.git
+	path = feedstocks/r-conflr
+	branch = refs/heads/master
