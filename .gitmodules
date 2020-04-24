@@ -38042,3 +38042,7 @@
 	url = https://github.com/conda-forge/go-gvisor-feedstock.git
 	path = feedstocks/go-gvisor
 	branch = refs/heads/master
+[submodule "cartographer"]
+	url = https://github.com/conda-forge/cartographer-feedstock.git
+	path = feedstocks/cartographer
+	branch = refs/heads/master
