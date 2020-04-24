@@ -38062,3 +38062,7 @@
 	url = https://github.com/conda-forge/spatialist-feedstock.git
 	path = feedstocks/spatialist
 	branch = refs/heads/master
+[submodule "adwaita-icon-theme"]
+	url = https://github.com/conda-forge/adwaita-icon-theme-feedstock.git
+	path = feedstocks/adwaita-icon-theme
+	branch = refs/heads/master
