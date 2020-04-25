@@ -38090,3 +38090,7 @@
 	url = https://github.com/conda-forge/r-ipaddress-feedstock.git
 	path = feedstocks/r-ipaddress
 	branch = refs/heads/master
+[submodule "r-jquerylib"]
+	url = https://github.com/conda-forge/r-jquerylib-feedstock.git
+	path = feedstocks/r-jquerylib
+	branch = refs/heads/master
