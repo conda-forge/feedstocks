@@ -38086,3 +38086,7 @@
 	url = https://github.com/conda-forge/r-muhaz-feedstock.git
 	path = feedstocks/r-muhaz
 	branch = refs/heads/master
+[submodule "r-ipaddress"]
+	url = https://github.com/conda-forge/r-ipaddress-feedstock.git
+	path = feedstocks/r-ipaddress
+	branch = refs/heads/master
