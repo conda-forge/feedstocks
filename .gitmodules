@@ -38110,3 +38110,7 @@
 	url = https://github.com/conda-forge/itermplot-feedstock.git
 	path = feedstocks/itermplot
 	branch = refs/heads/master
+[submodule "pyfesom2"]
+	url = https://github.com/conda-forge/pyfesom2-feedstock.git
+	path = feedstocks/pyfesom2
+	branch = refs/heads/master
