@@ -38102,3 +38102,7 @@
 	url = https://github.com/conda-forge/toytree-feedstock.git
 	path = feedstocks/toytree
 	branch = refs/heads/master
+[submodule "google-cloud-webrisk"]
+	url = https://github.com/conda-forge/google-cloud-webrisk-feedstock.git
+	path = feedstocks/google-cloud-webrisk
+	branch = refs/heads/master
