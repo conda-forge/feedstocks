@@ -38130,3 +38130,7 @@
 	url = https://github.com/conda-forge/orjson-feedstock.git
 	path = feedstocks/orjson
 	branch = refs/heads/master
+[submodule "meinheld"]
+	url = https://github.com/conda-forge/meinheld-feedstock.git
+	path = feedstocks/meinheld
+	branch = refs/heads/master
