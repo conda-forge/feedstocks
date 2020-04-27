@@ -38126,3 +38126,7 @@
 	url = https://github.com/conda-forge/m2w64-pcre2-feedstock.git
 	path = feedstocks/m2w64-pcre2
 	branch = refs/heads/master
+[submodule "orjson"]
+	url = https://github.com/conda-forge/orjson-feedstock.git
+	path = feedstocks/orjson
+	branch = refs/heads/master
