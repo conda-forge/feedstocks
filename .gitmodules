@@ -38118,3 +38118,7 @@
 	url = https://github.com/conda-forge/r-uptasticsearch-feedstock.git
 	path = feedstocks/r-uptasticsearch
 	branch = refs/heads/master
+[submodule "pyboat"]
+	url = https://github.com/conda-forge/pyboat-feedstock.git
+	path = feedstocks/pyboat
+	branch = refs/heads/master
