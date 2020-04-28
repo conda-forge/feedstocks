@@ -38142,3 +38142,7 @@
 	url = https://github.com/conda-forge/dolang-feedstock.git
 	path = feedstocks/dolang
 	branch = refs/heads/master
+[submodule "r-ggbump"]
+	url = https://github.com/conda-forge/r-ggbump-feedstock.git
+	path = feedstocks/r-ggbump
+	branch = refs/heads/master
