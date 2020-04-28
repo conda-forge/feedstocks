@@ -38158,3 +38158,7 @@
 	url = https://github.com/conda-forge/dask-ms-feedstock.git
 	path = feedstocks/dask-ms
 	branch = refs/heads/master
+[submodule "robotkernel"]
+	url = https://github.com/conda-forge/robotkernel-feedstock.git
+	path = feedstocks/robotkernel
+	branch = refs/heads/master
