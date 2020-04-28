@@ -38150,3 +38150,7 @@
 	url = https://github.com/conda-forge/os_command_py-feedstock.git
 	path = feedstocks/os_command_py
 	branch = refs/heads/master
+[submodule "typer"]
+	url = https://github.com/conda-forge/typer-feedstock.git
+	path = feedstocks/typer
+	branch = refs/heads/master
