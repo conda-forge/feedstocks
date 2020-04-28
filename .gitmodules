@@ -38138,3 +38138,7 @@
 	url = https://github.com/conda-forge/google-cloud-logging-feedstock.git
 	path = feedstocks/google-cloud-logging
 	branch = refs/heads/master
+[submodule "dolang"]
+	url = https://github.com/conda-forge/dolang-feedstock.git
+	path = feedstocks/dolang
+	branch = refs/heads/master
