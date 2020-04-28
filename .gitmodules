@@ -38134,3 +38134,7 @@
 	url = https://github.com/conda-forge/meinheld-feedstock.git
 	path = feedstocks/meinheld
 	branch = refs/heads/master
+[submodule "google-cloud-logging"]
+	url = https://github.com/conda-forge/google-cloud-logging-feedstock.git
+	path = feedstocks/google-cloud-logging
+	branch = refs/heads/master
