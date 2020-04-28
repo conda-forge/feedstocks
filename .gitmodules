@@ -38162,3 +38162,7 @@
 	url = https://github.com/conda-forge/robotkernel-feedstock.git
 	path = feedstocks/robotkernel
 	branch = refs/heads/master
+[submodule "coverage-fixpaths"]
+	url = https://github.com/conda-forge/coverage-fixpaths-feedstock.git
+	path = feedstocks/coverage-fixpaths
+	branch = refs/heads/master
