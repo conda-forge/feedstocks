@@ -38146,3 +38146,7 @@
 	url = https://github.com/conda-forge/r-ggbump-feedstock.git
 	path = feedstocks/r-ggbump
 	branch = refs/heads/master
+[submodule "os_command_py"]
+	url = https://github.com/conda-forge/os_command_py-feedstock.git
+	path = feedstocks/os_command_py
+	branch = refs/heads/master
