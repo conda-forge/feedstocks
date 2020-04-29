@@ -38190,3 +38190,7 @@
 	url = https://github.com/conda-forge/netket-feedstock.git
 	path = feedstocks/netket
 	branch = refs/heads/master
+[submodule "google-cloud-error-reporting"]
+	url = https://github.com/conda-forge/google-cloud-error-reporting-feedstock.git
+	path = feedstocks/google-cloud-error-reporting
+	branch = refs/heads/master
