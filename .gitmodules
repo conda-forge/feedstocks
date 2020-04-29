@@ -38186,3 +38186,7 @@
 	url = https://github.com/conda-forge/covid-sim-suite-feedstock.git
 	path = feedstocks/covid-sim-suite
 	branch = refs/heads/master
+[submodule "netket"]
+	url = https://github.com/conda-forge/netket-feedstock.git
+	path = feedstocks/netket
+	branch = refs/heads/master
