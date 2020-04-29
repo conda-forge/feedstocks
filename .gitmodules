@@ -38178,3 +38178,7 @@
 	url = https://github.com/conda-forge/mesa-feedstock.git
 	path = feedstocks/mesa
 	branch = refs/heads/master
+[submodule "temporal-cache"]
+	url = https://github.com/conda-forge/temporal-cache-feedstock.git
+	path = feedstocks/temporal-cache
+	branch = refs/heads/master
