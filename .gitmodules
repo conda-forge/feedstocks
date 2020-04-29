@@ -38206,3 +38206,7 @@
 	url = https://github.com/conda-forge/octokitpy-feedstock.git
 	path = feedstocks/octokitpy
 	branch = refs/heads/master
+[submodule "octokitpy-routes"]
+	url = https://github.com/conda-forge/octokitpy-routes-feedstock.git
+	path = feedstocks/octokitpy-routes
+	branch = refs/heads/master
