@@ -38202,3 +38202,7 @@
 	url = https://github.com/conda-forge/tdameritrade-feedstock.git
 	path = feedstocks/tdameritrade
 	branch = refs/heads/master
+[submodule "octokitpy"]
+	url = https://github.com/conda-forge/octokitpy-feedstock.git
+	path = feedstocks/octokitpy
+	branch = refs/heads/master
