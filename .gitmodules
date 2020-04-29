@@ -38194,3 +38194,7 @@
 	url = https://github.com/conda-forge/google-cloud-error-reporting-feedstock.git
 	path = feedstocks/google-cloud-error-reporting
 	branch = refs/heads/master
+[submodule "biorbd-casadi"]
+	url = https://github.com/conda-forge/biorbd-casadi-feedstock.git
+	path = feedstocks/biorbd-casadi
+	branch = refs/heads/master
