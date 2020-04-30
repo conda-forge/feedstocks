@@ -38250,3 +38250,7 @@
 	url = https://github.com/conda-forge/google-cloud-talent-feedstock.git
 	path = feedstocks/google-cloud-talent
 	branch = refs/heads/master
+[submodule "google-cloud-texttospeech"]
+	url = https://github.com/conda-forge/google-cloud-texttospeech-feedstock.git
+	path = feedstocks/google-cloud-texttospeech
+	branch = refs/heads/master
