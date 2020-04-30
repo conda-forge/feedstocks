@@ -38230,3 +38230,7 @@
 	url = https://github.com/conda-forge/google-apitools-feedstock.git
 	path = feedstocks/google-apitools
 	branch = refs/heads/master
+[submodule "socksipy-branch"]
+	url = https://github.com/conda-forge/socksipy-branch-feedstock.git
+	path = feedstocks/socksipy-branch
+	branch = refs/heads/master
