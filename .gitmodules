@@ -38226,3 +38226,7 @@
 	url = https://github.com/conda-forge/gcs-oauth2-boto-plugin-feedstock.git
 	path = feedstocks/gcs-oauth2-boto-plugin
 	branch = refs/heads/master
+[submodule "google-apitools"]
+	url = https://github.com/conda-forge/google-apitools-feedstock.git
+	path = feedstocks/google-apitools
+	branch = refs/heads/master
