@@ -38262,3 +38262,7 @@
 	url = https://github.com/conda-forge/sdt-python-feedstock.git
 	path = feedstocks/sdt-python
 	branch = refs/heads/master
+[submodule "eups"]
+	url = https://github.com/conda-forge/eups-feedstock.git
+	path = feedstocks/eups
+	branch = refs/heads/master
