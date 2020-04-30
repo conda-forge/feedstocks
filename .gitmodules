@@ -38218,3 +38218,7 @@
 	url = https://github.com/conda-forge/google-reauth-feedstock.git
 	path = feedstocks/google-reauth
 	branch = refs/heads/master
+[submodule "gsutil"]
+	url = https://github.com/conda-forge/gsutil-feedstock.git
+	path = feedstocks/gsutil
+	branch = refs/heads/master
