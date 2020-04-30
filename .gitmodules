@@ -38266,3 +38266,7 @@
 	url = https://github.com/conda-forge/eups-feedstock.git
 	path = feedstocks/eups
 	branch = refs/heads/master
+[submodule "google-cloud-websecurityscanner"]
+	url = https://github.com/conda-forge/google-cloud-websecurityscanner-feedstock.git
+	path = feedstocks/google-cloud-websecurityscanner
+	branch = refs/heads/master
