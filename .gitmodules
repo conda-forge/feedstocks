@@ -38242,3 +38242,7 @@
 	url = https://github.com/conda-forge/pyu2f-feedstock.git
 	path = feedstocks/pyu2f
 	branch = refs/heads/master
+[submodule "grafeas"]
+	url = https://github.com/conda-forge/grafeas-feedstock.git
+	path = feedstocks/grafeas
+	branch = refs/heads/master
