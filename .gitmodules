@@ -38290,3 +38290,7 @@
 	url = https://github.com/conda-forge/jupyter-packaging-feedstock.git
 	path = feedstocks/jupyter-packaging
 	branch = refs/heads/master
+[submodule "socketio-client-nexus"]
+	url = https://github.com/conda-forge/socketio-client-nexus-feedstock.git
+	path = feedstocks/socketio-client-nexus
+	branch = refs/heads/master
