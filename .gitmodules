@@ -38274,3 +38274,7 @@
 	url = https://github.com/conda-forge/modin-feedstock.git
 	path = feedstocks/modin
 	branch = refs/heads/master
+[submodule "google-cloud-securitycenter"]
+	url = https://github.com/conda-forge/google-cloud-securitycenter-feedstock.git
+	path = feedstocks/google-cloud-securitycenter
+	branch = refs/heads/master
