@@ -38282,3 +38282,7 @@
 	url = https://github.com/conda-forge/google-cloud-runtimeconfig-feedstock.git
 	path = feedstocks/google-cloud-runtimeconfig
 	branch = refs/heads/master
+[submodule "google-cloud-resource-manager"]
+	url = https://github.com/conda-forge/google-cloud-resource-manager-feedstock.git
+	path = feedstocks/google-cloud-resource-manager
+	branch = refs/heads/master
