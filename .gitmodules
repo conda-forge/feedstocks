@@ -38286,3 +38286,7 @@
 	url = https://github.com/conda-forge/google-cloud-resource-manager-feedstock.git
 	path = feedstocks/google-cloud-resource-manager
 	branch = refs/heads/master
+[submodule "jupyter-packaging"]
+	url = https://github.com/conda-forge/jupyter-packaging-feedstock.git
+	path = feedstocks/jupyter-packaging
+	branch = refs/heads/master
