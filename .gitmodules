@@ -38278,3 +38278,7 @@
 	url = https://github.com/conda-forge/google-cloud-securitycenter-feedstock.git
 	path = feedstocks/google-cloud-securitycenter
 	branch = refs/heads/master
+[submodule "google-cloud-runtimeconfig"]
+	url = https://github.com/conda-forge/google-cloud-runtimeconfig-feedstock.git
+	path = feedstocks/google-cloud-runtimeconfig
+	branch = refs/heads/master
