@@ -38306,3 +38306,7 @@
 	url = https://github.com/conda-forge/geeadd-feedstock.git
 	path = feedstocks/geeadd
 	branch = refs/heads/master
+[submodule "google-cloud-recommender"]
+	url = https://github.com/conda-forge/google-cloud-recommender-feedstock.git
+	path = feedstocks/google-cloud-recommender
+	branch = refs/heads/master
