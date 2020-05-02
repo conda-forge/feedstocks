@@ -38298,3 +38298,7 @@
 	url = https://github.com/conda-forge/sphinx-markdown-tables-feedstock.git
 	path = feedstocks/sphinx-markdown-tables
 	branch = refs/heads/master
+[submodule "pyex"]
+	url = https://github.com/conda-forge/pyex-feedstock.git
+	path = feedstocks/pyex
+	branch = refs/heads/master
