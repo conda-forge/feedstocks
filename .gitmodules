@@ -38326,3 +38326,7 @@
 	url = https://github.com/conda-forge/mvlearn-feedstock.git
 	path = feedstocks/mvlearn
 	branch = refs/heads/master
+[submodule "geoglows"]
+	url = https://github.com/conda-forge/geoglows-feedstock.git
+	path = feedstocks/geoglows
+	branch = refs/heads/master
