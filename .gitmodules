@@ -38338,3 +38338,7 @@
 	url = https://github.com/conda-forge/edt-feedstock.git
 	path = feedstocks/edt
 	branch = refs/heads/master
+[submodule "jupyterlab_commands"]
+	url = https://github.com/conda-forge/jupyterlab_commands-feedstock.git
+	path = feedstocks/jupyterlab_commands
+	branch = refs/heads/master
