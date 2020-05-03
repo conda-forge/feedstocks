@@ -38322,3 +38322,7 @@
 	url = https://github.com/conda-forge/muarch-feedstock.git
 	path = feedstocks/muarch
 	branch = refs/heads/master
+[submodule "mvlearn"]
+	url = https://github.com/conda-forge/mvlearn-feedstock.git
+	path = feedstocks/mvlearn
+	branch = refs/heads/master
