@@ -38310,3 +38310,7 @@
 	url = https://github.com/conda-forge/google-cloud-recommender-feedstock.git
 	path = feedstocks/google-cloud-recommender
 	branch = refs/heads/master
+[submodule "pyspark-flame"]
+	url = https://github.com/conda-forge/pyspark-flame-feedstock.git
+	path = feedstocks/pyspark-flame
+	branch = refs/heads/master
