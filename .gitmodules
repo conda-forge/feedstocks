@@ -38346,3 +38346,7 @@
 	url = https://github.com/conda-forge/google-cloud-iot-feedstock.git
 	path = feedstocks/google-cloud-iot
 	branch = refs/heads/master
+[submodule "google-cloud-iam"]
+	url = https://github.com/conda-forge/google-cloud-iam-feedstock.git
+	path = feedstocks/google-cloud-iam
+	branch = refs/heads/master
