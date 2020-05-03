@@ -38318,3 +38318,7 @@
 	url = https://github.com/conda-forge/dadi-feedstock.git
 	path = feedstocks/dadi
 	branch = refs/heads/master
+[submodule "muarch"]
+	url = https://github.com/conda-forge/muarch-feedstock.git
+	path = feedstocks/muarch
+	branch = refs/heads/master
