@@ -38330,3 +38330,7 @@
 	url = https://github.com/conda-forge/geoglows-feedstock.git
 	path = feedstocks/geoglows
 	branch = refs/heads/master
+[submodule "jupyterlab_iframe"]
+	url = https://github.com/conda-forge/jupyterlab_iframe-feedstock.git
+	path = feedstocks/jupyterlab_iframe
+	branch = refs/heads/master
