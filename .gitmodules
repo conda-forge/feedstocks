@@ -38342,3 +38342,7 @@
 	url = https://github.com/conda-forge/jupyterlab_commands-feedstock.git
 	path = feedstocks/jupyterlab_commands
 	branch = refs/heads/master
+[submodule "google-cloud-iot"]
+	url = https://github.com/conda-forge/google-cloud-iot-feedstock.git
+	path = feedstocks/google-cloud-iot
+	branch = refs/heads/master
