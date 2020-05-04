@@ -38390,3 +38390,7 @@
 	url = https://github.com/conda-forge/pep517-feedstock.git
 	path = feedstocks/pep517
 	branch = refs/heads/master
+[submodule "jupyterlab_templates"]
+	url = https://github.com/conda-forge/jupyterlab_templates-feedstock.git
+	path = feedstocks/jupyterlab_templates
+	branch = refs/heads/master
