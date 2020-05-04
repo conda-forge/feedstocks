@@ -38382,3 +38382,7 @@
 	url = https://github.com/conda-forge/pygalmesh-feedstock.git
 	path = feedstocks/pygalmesh
 	branch = refs/heads/master
+[submodule "pyhive"]
+	url = https://github.com/conda-forge/pyhive-feedstock.git
+	path = feedstocks/pyhive
+	branch = refs/heads/master
