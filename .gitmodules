@@ -38358,3 +38358,7 @@
 	url = https://github.com/conda-forge/google-cloud-phishing-protection-feedstock.git
 	path = feedstocks/google-cloud-phishing-protection
 	branch = refs/heads/master
+[submodule "google-cloud-os-login"]
+	url = https://github.com/conda-forge/google-cloud-os-login-feedstock.git
+	path = feedstocks/google-cloud-os-login
+	branch = refs/heads/master
