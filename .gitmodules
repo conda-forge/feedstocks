@@ -38354,3 +38354,7 @@
 	url = https://github.com/conda-forge/google-cloud-redis-feedstock.git
 	path = feedstocks/google-cloud-redis
 	branch = refs/heads/master
+[submodule "google-cloud-phishing-protection"]
+	url = https://github.com/conda-forge/google-cloud-phishing-protection-feedstock.git
+	path = feedstocks/google-cloud-phishing-protection
+	branch = refs/heads/master
