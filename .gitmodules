@@ -38374,3 +38374,7 @@
 	url = https://github.com/conda-forge/google-cloud-dataproc-feedstock.git
 	path = feedstocks/google-cloud-dataproc
 	branch = refs/heads/master
+[submodule "google-cloud-containeranalysis"]
+	url = https://github.com/conda-forge/google-cloud-containeranalysis-feedstock.git
+	path = feedstocks/google-cloud-containeranalysis
+	branch = refs/heads/master
