@@ -38362,3 +38362,7 @@
 	url = https://github.com/conda-forge/google-cloud-os-login-feedstock.git
 	path = feedstocks/google-cloud-os-login
 	branch = refs/heads/master
+[submodule "google-cloud-dns"]
+	url = https://github.com/conda-forge/google-cloud-dns-feedstock.git
+	path = feedstocks/google-cloud-dns
+	branch = refs/heads/master
