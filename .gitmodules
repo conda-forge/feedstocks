@@ -38394,3 +38394,7 @@
 	url = https://github.com/conda-forge/jupyterlab_templates-feedstock.git
 	path = feedstocks/jupyterlab_templates
 	branch = refs/heads/master
+[submodule "vtkplotter"]
+	url = https://github.com/conda-forge/vtkplotter-feedstock.git
+	path = feedstocks/vtkplotter
+	branch = refs/heads/master
