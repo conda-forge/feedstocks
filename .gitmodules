@@ -38414,3 +38414,7 @@
 	url = https://github.com/conda-forge/r-traits-feedstock.git
 	path = feedstocks/r-traits
 	branch = refs/heads/master
+[submodule "pygmt"]
+	url = https://github.com/conda-forge/pygmt-feedstock.git
+	path = feedstocks/pygmt
+	branch = refs/heads/master
