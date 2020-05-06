@@ -38470,3 +38470,7 @@
 	url = https://github.com/conda-forge/gridtest-feedstock.git
 	path = feedstocks/gridtest
 	branch = refs/heads/master
+[submodule "multimethod"]
+	url = https://github.com/conda-forge/multimethod-feedstock.git
+	path = feedstocks/multimethod
+	branch = refs/heads/master
