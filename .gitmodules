@@ -38478,3 +38478,7 @@
 	url = https://github.com/conda-forge/lsdtopotools-feedstock.git
 	path = feedstocks/lsdtopotools
 	branch = refs/heads/master
+[submodule "tree"]
+	url = https://github.com/conda-forge/tree-feedstock.git
+	path = feedstocks/tree
+	branch = refs/heads/master
