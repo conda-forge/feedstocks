@@ -38418,3 +38418,7 @@
 	url = https://github.com/conda-forge/pygmt-feedstock.git
 	path = feedstocks/pygmt
 	branch = refs/heads/master
+[submodule "r-rstatix"]
+	url = https://github.com/conda-forge/r-rstatix-feedstock.git
+	path = feedstocks/r-rstatix
+	branch = refs/heads/master
