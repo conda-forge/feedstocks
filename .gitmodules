@@ -38482,3 +38482,7 @@
 	url = https://github.com/conda-forge/tree-feedstock.git
 	path = feedstocks/tree
 	branch = refs/heads/master
+[submodule "pint-pulsar"]
+	url = https://github.com/conda-forge/pint-pulsar-feedstock.git
+	path = feedstocks/pint-pulsar
+	branch = refs/heads/master
