@@ -38426,3 +38426,7 @@
 	url = https://github.com/conda-forge/google-cloud-build-feedstock.git
 	path = feedstocks/google-cloud-build
 	branch = refs/heads/master
+[submodule "pytest-check-links"]
+	url = https://github.com/conda-forge/pytest-check-links-feedstock.git
+	path = feedstocks/pytest-check-links
+	branch = refs/heads/master
