@@ -38466,3 +38466,7 @@
 	url = https://github.com/conda-forge/diagrams-feedstock.git
 	path = feedstocks/diagrams
 	branch = refs/heads/master
+[submodule "gridtest"]
+	url = https://github.com/conda-forge/gridtest-feedstock.git
+	path = feedstocks/gridtest
+	branch = refs/heads/master
