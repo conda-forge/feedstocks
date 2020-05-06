@@ -38446,3 +38446,7 @@
 	url = https://github.com/conda-forge/google-cloud-monitoring-dashboards-feedstock.git
 	path = feedstocks/google-cloud-monitoring-dashboards
 	branch = refs/heads/master
+[submodule "fast-pt"]
+	url = https://github.com/conda-forge/fast-pt-feedstock.git
+	path = feedstocks/fast-pt
+	branch = refs/heads/master
