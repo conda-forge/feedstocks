@@ -38462,3 +38462,7 @@
 	url = https://github.com/conda-forge/dragonfly2-feedstock.git
 	path = feedstocks/dragonfly2
 	branch = refs/heads/master
+[submodule "diagrams"]
+	url = https://github.com/conda-forge/diagrams-feedstock.git
+	path = feedstocks/diagrams
+	branch = refs/heads/master
