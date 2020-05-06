@@ -38450,3 +38450,7 @@
 	url = https://github.com/conda-forge/fast-pt-feedstock.git
 	path = feedstocks/fast-pt
 	branch = refs/heads/master
+[submodule "kornia"]
+	url = https://github.com/conda-forge/kornia-feedstock.git
+	path = feedstocks/kornia
+	branch = refs/heads/master
