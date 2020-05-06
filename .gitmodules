@@ -38430,3 +38430,7 @@
 	url = https://github.com/conda-forge/pytest-check-links-feedstock.git
 	path = feedstocks/pytest-check-links
 	branch = refs/heads/master
+[submodule "google-cloud-bigquery-datatransfer"]
+	url = https://github.com/conda-forge/google-cloud-bigquery-datatransfer-feedstock.git
+	path = feedstocks/google-cloud-bigquery-datatransfer
+	branch = refs/heads/master
