@@ -38422,3 +38422,7 @@
 	url = https://github.com/conda-forge/r-rstatix-feedstock.git
 	path = feedstocks/r-rstatix
 	branch = refs/heads/master
+[submodule "google-cloud-build"]
+	url = https://github.com/conda-forge/google-cloud-build-feedstock.git
+	path = feedstocks/google-cloud-build
+	branch = refs/heads/master
