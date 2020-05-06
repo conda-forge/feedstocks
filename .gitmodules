@@ -38474,3 +38474,7 @@
 	url = https://github.com/conda-forge/multimethod-feedstock.git
 	path = feedstocks/multimethod
 	branch = refs/heads/master
+[submodule "lsdtopotools"]
+	url = https://github.com/conda-forge/lsdtopotools-feedstock.git
+	path = feedstocks/lsdtopotools
+	branch = refs/heads/master
