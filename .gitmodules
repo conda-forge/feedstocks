@@ -38434,3 +38434,7 @@
 	url = https://github.com/conda-forge/google-cloud-bigquery-datatransfer-feedstock.git
 	path = feedstocks/google-cloud-bigquery-datatransfer
 	branch = refs/heads/master
+[submodule "google-cloud-videointelligence"]
+	url = https://github.com/conda-forge/google-cloud-videointelligence-feedstock.git
+	path = feedstocks/google-cloud-videointelligence
+	branch = refs/heads/master
