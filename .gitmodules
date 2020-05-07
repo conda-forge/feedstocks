@@ -38514,3 +38514,7 @@
 	url = https://github.com/conda-forge/openpnm-feedstock.git
 	path = feedstocks/openpnm
 	branch = refs/heads/master
+[submodule "treepoem"]
+	url = https://github.com/conda-forge/treepoem-feedstock.git
+	path = feedstocks/treepoem
+	branch = refs/heads/master
