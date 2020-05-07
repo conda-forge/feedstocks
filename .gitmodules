@@ -38530,3 +38530,7 @@
 	url = https://github.com/conda-forge/r-lotri-feedstock.git
 	path = feedstocks/r-lotri
 	branch = refs/heads/master
+[submodule "aspy.refactor-imports"]
+	url = https://github.com/conda-forge/aspy.refactor-imports-feedstock.git
+	path = feedstocks/aspy.refactor-imports
+	branch = refs/heads/master
