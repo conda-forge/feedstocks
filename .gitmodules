@@ -38486,3 +38486,7 @@
 	url = https://github.com/conda-forge/pint-pulsar-feedstock.git
 	path = feedstocks/pint-pulsar
 	branch = refs/heads/master
+[submodule "terraform-provider-time"]
+	url = https://github.com/conda-forge/terraform-provider-time-feedstock.git
+	path = feedstocks/terraform-provider-time
+	branch = refs/heads/master
