@@ -38502,3 +38502,7 @@
 	url = https://github.com/conda-forge/stop-words-feedstock.git
 	path = feedstocks/stop-words
 	branch = refs/heads/master
+[submodule "pdb_manip_py"]
+	url = https://github.com/conda-forge/pdb_manip_py-feedstock.git
+	path = feedstocks/pdb_manip_py
+	branch = refs/heads/master
