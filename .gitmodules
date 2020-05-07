@@ -38494,3 +38494,7 @@
 	url = https://github.com/conda-forge/pyngrok-feedstock.git
 	path = feedstocks/pyngrok
 	branch = refs/heads/master
+[submodule "verilator"]
+	url = https://github.com/conda-forge/verilator-feedstock.git
+	path = feedstocks/verilator
+	branch = refs/heads/master
