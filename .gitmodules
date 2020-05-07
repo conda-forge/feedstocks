@@ -38490,3 +38490,7 @@
 	url = https://github.com/conda-forge/terraform-provider-time-feedstock.git
 	path = feedstocks/terraform-provider-time
 	branch = refs/heads/master
+[submodule "pyngrok"]
+	url = https://github.com/conda-forge/pyngrok-feedstock.git
+	path = feedstocks/pyngrok
+	branch = refs/heads/master
