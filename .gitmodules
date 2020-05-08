@@ -38538,3 +38538,7 @@
 	url = https://github.com/conda-forge/darr-feedstock.git
 	path = feedstocks/darr
 	branch = refs/heads/master
+[submodule "pymagicc"]
+	url = https://github.com/conda-forge/pymagicc-feedstock.git
+	path = feedstocks/pymagicc
+	branch = refs/heads/master
