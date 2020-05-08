@@ -38550,3 +38550,7 @@
 	url = https://github.com/conda-forge/urbansim-feedstock.git
 	path = feedstocks/urbansim
 	branch = refs/heads/master
+[submodule "emails"]
+	url = https://github.com/conda-forge/emails-feedstock.git
+	path = feedstocks/emails
+	branch = refs/heads/master
