@@ -38546,3 +38546,7 @@
 	url = https://github.com/conda-forge/r-logger-feedstock.git
 	path = feedstocks/r-logger
 	branch = refs/heads/master
+[submodule "urbansim"]
+	url = https://github.com/conda-forge/urbansim-feedstock.git
+	path = feedstocks/urbansim
+	branch = refs/heads/master
