@@ -38542,3 +38542,7 @@
 	url = https://github.com/conda-forge/pymagicc-feedstock.git
 	path = feedstocks/pymagicc
 	branch = refs/heads/master
+[submodule "r-logger"]
+	url = https://github.com/conda-forge/r-logger-feedstock.git
+	path = feedstocks/r-logger
+	branch = refs/heads/master
