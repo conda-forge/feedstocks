@@ -38554,3 +38554,7 @@
 	url = https://github.com/conda-forge/emails-feedstock.git
 	path = feedstocks/emails
 	branch = refs/heads/master
+[submodule "r-nlcoptim"]
+	url = https://github.com/conda-forge/r-nlcoptim-feedstock.git
+	path = feedstocks/r-nlcoptim
+	branch = refs/heads/master
