@@ -38558,3 +38558,7 @@
 	url = https://github.com/conda-forge/r-nlcoptim-feedstock.git
 	path = feedstocks/r-nlcoptim
 	branch = refs/heads/master
+[submodule "r-hardyweinberg"]
+	url = https://github.com/conda-forge/r-hardyweinberg-feedstock.git
+	path = feedstocks/r-hardyweinberg
+	branch = refs/heads/master
