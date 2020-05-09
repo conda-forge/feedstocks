@@ -38566,3 +38566,7 @@
 	url = https://github.com/conda-forge/seed-isort-config-feedstock.git
 	path = feedstocks/seed-isort-config
 	branch = refs/heads/master
+[submodule "go2"]
+	url = https://github.com/conda-forge/go2-feedstock.git
+	path = feedstocks/go2
+	branch = refs/heads/master
