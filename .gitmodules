@@ -38606,3 +38606,7 @@
 	url = https://github.com/conda-forge/r-knn.covertree-feedstock.git
 	path = feedstocks/r-knn.covertree
 	branch = refs/heads/master
+[submodule "r-ggplot.multistats"]
+	url = https://github.com/conda-forge/r-ggplot.multistats-feedstock.git
+	path = feedstocks/r-ggplot.multistats
+	branch = refs/heads/master
