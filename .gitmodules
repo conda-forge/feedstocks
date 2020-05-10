@@ -38578,3 +38578,7 @@
 	url = https://github.com/conda-forge/go-lab-feedstock.git
 	path = feedstocks/go-lab
 	branch = refs/heads/master
+[submodule "pyspice"]
+	url = https://github.com/conda-forge/pyspice-feedstock.git
+	path = feedstocks/pyspice
+	branch = refs/heads/master
