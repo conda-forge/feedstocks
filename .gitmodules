@@ -38602,3 +38602,7 @@
 	url = https://github.com/conda-forge/r-np-feedstock.git
 	path = feedstocks/r-np
 	branch = refs/heads/master
+[submodule "r-knn.covertree"]
+	url = https://github.com/conda-forge/r-knn.covertree-feedstock.git
+	path = feedstocks/r-knn.covertree
+	branch = refs/heads/master
