@@ -38598,3 +38598,7 @@
 	url = https://github.com/conda-forge/cmcrameri-feedstock.git
 	path = feedstocks/cmcrameri
 	branch = refs/heads/master
+[submodule "r-np"]
+	url = https://github.com/conda-forge/r-np-feedstock.git
+	path = feedstocks/r-np
+	branch = refs/heads/master
