@@ -38574,3 +38574,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-datalake-store-feedstock.git
 	path = feedstocks/azure-mgmt-datalake-store
 	branch = refs/heads/master
+[submodule "go-lab"]
+	url = https://github.com/conda-forge/go-lab-feedstock.git
+	path = feedstocks/go-lab
+	branch = refs/heads/master
