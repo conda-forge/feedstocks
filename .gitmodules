@@ -38594,3 +38594,7 @@
 	url = https://github.com/conda-forge/xarray_leaflet-feedstock.git
 	path = feedstocks/xarray_leaflet
 	branch = refs/heads/master
+[submodule "cmcrameri"]
+	url = https://github.com/conda-forge/cmcrameri-feedstock.git
+	path = feedstocks/cmcrameri
+	branch = refs/heads/master
