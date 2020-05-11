@@ -38686,3 +38686,7 @@
 	url = https://github.com/conda-forge/r-lmesplines-feedstock.git
 	path = feedstocks/r-lmesplines
 	branch = refs/heads/master
+[submodule "r-reactr"]
+	url = https://github.com/conda-forge/r-reactr-feedstock.git
+	path = feedstocks/r-reactr
+	branch = refs/heads/master
