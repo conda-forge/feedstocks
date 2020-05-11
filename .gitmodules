@@ -38658,3 +38658,7 @@
 	url = https://github.com/conda-forge/pymediainfo-feedstock.git
 	path = feedstocks/pymediainfo
 	branch = refs/heads/master
+[submodule "faiss-split"]
+	url = https://github.com/conda-forge/faiss-split-feedstock.git
+	path = feedstocks/faiss-split
+	branch = refs/heads/master
