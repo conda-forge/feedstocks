@@ -38694,3 +38694,7 @@
 	url = https://github.com/conda-forge/r-phylogram-feedstock.git
 	path = feedstocks/r-phylogram
 	branch = refs/heads/master
+[submodule "r-lmom"]
+	url = https://github.com/conda-forge/r-lmom-feedstock.git
+	path = feedstocks/r-lmom
+	branch = refs/heads/master
