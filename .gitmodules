@@ -38666,3 +38666,7 @@
 	url = https://github.com/conda-forge/detectron2-feedstock.git
 	path = feedstocks/detectron2
 	branch = refs/heads/master
+[submodule "pymeeus"]
+	url = https://github.com/conda-forge/pymeeus-feedstock.git
+	path = feedstocks/pymeeus
+	branch = refs/heads/master
