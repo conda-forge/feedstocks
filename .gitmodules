@@ -38678,3 +38678,7 @@
 	url = https://github.com/conda-forge/r-kml-feedstock.git
 	path = feedstocks/r-kml
 	branch = refs/heads/master
+[submodule "r-envipat"]
+	url = https://github.com/conda-forge/r-envipat-feedstock.git
+	path = feedstocks/r-envipat
+	branch = refs/heads/master
