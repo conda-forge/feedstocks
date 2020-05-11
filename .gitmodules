@@ -38642,3 +38642,7 @@
 	url = https://github.com/conda-forge/pdielec-feedstock.git
 	path = feedstocks/pdielec
 	branch = refs/heads/master
+[submodule "libzen"]
+	url = https://github.com/conda-forge/libzen-feedstock.git
+	path = feedstocks/libzen
+	branch = refs/heads/master
