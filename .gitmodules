@@ -38646,3 +38646,7 @@
 	url = https://github.com/conda-forge/libzen-feedstock.git
 	path = feedstocks/libzen
 	branch = refs/heads/master
+[submodule "libmms"]
+	url = https://github.com/conda-forge/libmms-feedstock.git
+	path = feedstocks/libmms
+	branch = refs/heads/master
