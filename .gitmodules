@@ -38674,3 +38674,7 @@
 	url = https://github.com/conda-forge/terraform-provider-rancher2-feedstock.git
 	path = feedstocks/terraform-provider-rancher2
 	branch = refs/heads/master
+[submodule "r-kml"]
+	url = https://github.com/conda-forge/r-kml-feedstock.git
+	path = feedstocks/r-kml
+	branch = refs/heads/master
