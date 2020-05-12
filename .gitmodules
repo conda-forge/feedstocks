@@ -38754,3 +38754,7 @@
 	url = https://github.com/conda-forge/pysindy-feedstock.git
 	path = feedstocks/pysindy
 	branch = refs/heads/master
+[submodule "pytest-cram"]
+	url = https://github.com/conda-forge/pytest-cram-feedstock.git
+	path = feedstocks/pytest-cram
+	branch = refs/heads/master
