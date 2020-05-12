@@ -38746,3 +38746,7 @@
 	url = https://github.com/conda-forge/importlab-feedstock.git
 	path = feedstocks/importlab
 	branch = refs/heads/master
+[submodule "cmake-no-system"]
+	url = https://github.com/conda-forge/cmake-no-system-feedstock.git
+	path = feedstocks/cmake-no-system
+	branch = refs/heads/master
