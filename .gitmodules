@@ -38730,3 +38730,7 @@
 	url = https://github.com/conda-forge/r-mltools-feedstock.git
 	path = feedstocks/r-mltools
 	branch = refs/heads/master
+[submodule "r-kmlshape"]
+	url = https://github.com/conda-forge/r-kmlshape-feedstock.git
+	path = feedstocks/r-kmlshape
+	branch = refs/heads/master
