@@ -38786,3 +38786,7 @@
 	url = https://github.com/conda-forge/r-paireddata-feedstock.git
 	path = feedstocks/r-paireddata
 	branch = refs/heads/master
+[submodule "metadsl-all"]
+	url = https://github.com/conda-forge/metadsl-all-feedstock.git
+	path = feedstocks/metadsl-all
+	branch = refs/heads/master
