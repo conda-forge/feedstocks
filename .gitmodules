@@ -38742,3 +38742,7 @@
 	url = https://github.com/conda-forge/wflow-feedstock.git
 	path = feedstocks/wflow
 	branch = refs/heads/master
+[submodule "importlab"]
+	url = https://github.com/conda-forge/importlab-feedstock.git
+	path = feedstocks/importlab
+	branch = refs/heads/master
