@@ -38718,3 +38718,7 @@
 	url = https://github.com/conda-forge/r-kmer-feedstock.git
 	path = feedstocks/r-kmer
 	branch = refs/heads/master
+[submodule "r-gld"]
+	url = https://github.com/conda-forge/r-gld-feedstock.git
+	path = feedstocks/r-gld
+	branch = refs/heads/master
