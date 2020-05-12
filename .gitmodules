@@ -38774,3 +38774,7 @@
 	url = https://github.com/conda-forge/chevron-feedstock.git
 	path = feedstocks/chevron
 	branch = refs/heads/master
+[submodule "serverlessrepo"]
+	url = https://github.com/conda-forge/serverlessrepo-feedstock.git
+	path = feedstocks/serverlessrepo
+	branch = refs/heads/master
