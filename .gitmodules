@@ -38750,3 +38750,7 @@
 	url = https://github.com/conda-forge/cmake-no-system-feedstock.git
 	path = feedstocks/cmake-no-system
 	branch = refs/heads/master
+[submodule "pysindy"]
+	url = https://github.com/conda-forge/pysindy-feedstock.git
+	path = feedstocks/pysindy
+	branch = refs/heads/master
