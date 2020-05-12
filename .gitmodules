@@ -38738,3 +38738,7 @@
 	url = https://github.com/conda-forge/r-unmarked-feedstock.git
 	path = feedstocks/r-unmarked
 	branch = refs/heads/master
+[submodule "wflow"]
+	url = https://github.com/conda-forge/wflow-feedstock.git
+	path = feedstocks/wflow
+	branch = refs/heads/master
