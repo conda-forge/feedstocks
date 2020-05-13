@@ -38854,3 +38854,7 @@
 	url = https://github.com/conda-forge/r-rocit-feedstock.git
 	path = feedstocks/r-rocit
 	branch = refs/heads/master
+[submodule "r-sparsepca"]
+	url = https://github.com/conda-forge/r-sparsepca-feedstock.git
+	path = feedstocks/r-sparsepca
+	branch = refs/heads/master
