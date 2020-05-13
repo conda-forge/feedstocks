@@ -38822,3 +38822,7 @@
 	url = https://github.com/conda-forge/optionsfactory-feedstock.git
 	path = feedstocks/optionsfactory
 	branch = refs/heads/master
+[submodule "pymove"]
+	url = https://github.com/conda-forge/pymove-feedstock.git
+	path = feedstocks/pymove
+	branch = refs/heads/master
