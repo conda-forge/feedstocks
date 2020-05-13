@@ -38802,3 +38802,7 @@
 	url = https://github.com/conda-forge/r-nhpoisson-feedstock.git
 	path = feedstocks/r-nhpoisson
 	branch = refs/heads/master
+[submodule "r-cmplot"]
+	url = https://github.com/conda-forge/r-cmplot-feedstock.git
+	path = feedstocks/r-cmplot
+	branch = refs/heads/master
