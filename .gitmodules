@@ -38826,3 +38826,7 @@
 	url = https://github.com/conda-forge/pymove-feedstock.git
 	path = feedstocks/pymove
 	branch = refs/heads/master
+[submodule "xeus-sqlite"]
+	url = https://github.com/conda-forge/xeus-sqlite-feedstock.git
+	path = feedstocks/xeus-sqlite
+	branch = refs/heads/master
