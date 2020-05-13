@@ -38846,3 +38846,7 @@
 	url = https://github.com/conda-forge/r-repmis-feedstock.git
 	path = feedstocks/r-repmis
 	branch = refs/heads/master
+[submodule "r-fgarch"]
+	url = https://github.com/conda-forge/r-fgarch-feedstock.git
+	path = feedstocks/r-fgarch
+	branch = refs/heads/master
