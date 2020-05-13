@@ -38842,3 +38842,7 @@
 	url = https://github.com/conda-forge/r-tarifx-feedstock.git
 	path = feedstocks/r-tarifx
 	branch = refs/heads/master
+[submodule "r-repmis"]
+	url = https://github.com/conda-forge/r-repmis-feedstock.git
+	path = feedstocks/r-repmis
+	branch = refs/heads/master
