@@ -38914,3 +38914,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-marketplaceordering-feedstock.git
 	path = feedstocks/azure-mgmt-marketplaceordering
 	branch = refs/heads/master
+[submodule "cfdm"]
+	url = https://github.com/conda-forge/cfdm-feedstock.git
+	path = feedstocks/cfdm
+	branch = refs/heads/master
