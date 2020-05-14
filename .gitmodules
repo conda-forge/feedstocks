@@ -38886,3 +38886,7 @@
 	url = https://github.com/conda-forge/r-testextra-feedstock.git
 	path = feedstocks/r-testextra
 	branch = refs/heads/master
+[submodule "bcm2835"]
+	url = https://github.com/conda-forge/bcm2835-feedstock.git
+	path = feedstocks/bcm2835
+	branch = refs/heads/master
