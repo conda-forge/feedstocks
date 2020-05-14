@@ -38930,3 +38930,7 @@
 	url = https://github.com/conda-forge/r-purrrogress-feedstock.git
 	path = feedstocks/r-purrrogress
 	branch = refs/heads/master
+[submodule "gin-config"]
+	url = https://github.com/conda-forge/gin-config-feedstock.git
+	path = feedstocks/gin-config
+	branch = refs/heads/master
