@@ -38890,3 +38890,7 @@
 	url = https://github.com/conda-forge/bcm2835-feedstock.git
 	path = feedstocks/bcm2835
 	branch = refs/heads/master
+[submodule "azure-mgmt-sql"]
+	url = https://github.com/conda-forge/azure-mgmt-sql-feedstock.git
+	path = feedstocks/azure-mgmt-sql
+	branch = refs/heads/master
