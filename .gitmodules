@@ -38906,3 +38906,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-containerservice-feedstock.git
 	path = feedstocks/azure-mgmt-containerservice
 	branch = refs/heads/master
+[submodule "azure-mgmt-dns"]
+	url = https://github.com/conda-forge/azure-mgmt-dns-feedstock.git
+	path = feedstocks/azure-mgmt-dns
+	branch = refs/heads/master
