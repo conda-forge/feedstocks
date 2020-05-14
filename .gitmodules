@@ -38894,3 +38894,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-sql-feedstock.git
 	path = feedstocks/azure-mgmt-sql
 	branch = refs/heads/master
+[submodule "azure-mgmt-web"]
+	url = https://github.com/conda-forge/azure-mgmt-web-feedstock.git
+	path = feedstocks/azure-mgmt-web
+	branch = refs/heads/master
