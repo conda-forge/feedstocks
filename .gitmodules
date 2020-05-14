@@ -38954,3 +38954,7 @@
 	url = https://github.com/conda-forge/r-qpcr-feedstock.git
 	path = feedstocks/r-qpcr
 	branch = refs/heads/master
+[submodule "r-simplecache"]
+	url = https://github.com/conda-forge/r-simplecache-feedstock.git
+	path = feedstocks/r-simplecache
+	branch = refs/heads/master
