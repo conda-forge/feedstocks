@@ -38950,3 +38950,7 @@
 	url = https://github.com/conda-forge/r-phylotate-feedstock.git
 	path = feedstocks/r-phylotate
 	branch = refs/heads/master
+[submodule "r-qpcr"]
+	url = https://github.com/conda-forge/r-qpcr-feedstock.git
+	path = feedstocks/r-qpcr
+	branch = refs/heads/master
