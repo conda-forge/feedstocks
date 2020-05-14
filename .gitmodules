@@ -38874,3 +38874,7 @@
 	url = https://github.com/conda-forge/r-postlogic-feedstock.git
 	path = feedstocks/r-postlogic
 	branch = refs/heads/master
+[submodule "r-nanotime"]
+	url = https://github.com/conda-forge/r-nanotime-feedstock.git
+	path = feedstocks/r-nanotime
+	branch = refs/heads/master
