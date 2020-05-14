@@ -38918,3 +38918,7 @@
 	url = https://github.com/conda-forge/cfdm-feedstock.git
 	path = feedstocks/cfdm
 	branch = refs/heads/master
+[submodule "pyzbar"]
+	url = https://github.com/conda-forge/pyzbar-feedstock.git
+	path = feedstocks/pyzbar
+	branch = refs/heads/master
