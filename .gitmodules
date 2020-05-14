@@ -38878,3 +38878,7 @@
 	url = https://github.com/conda-forge/r-nanotime-feedstock.git
 	path = feedstocks/r-nanotime
 	branch = refs/heads/master
+[submodule "pyshtools"]
+	url = https://github.com/conda-forge/pyshtools-feedstock.git
+	path = feedstocks/pyshtools
+	branch = refs/heads/master
