@@ -38898,3 +38898,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-web-feedstock.git
 	path = feedstocks/azure-mgmt-web
 	branch = refs/heads/master
+[submodule "azure-mgmt-trafficmanager"]
+	url = https://github.com/conda-forge/azure-mgmt-trafficmanager-feedstock.git
+	path = feedstocks/azure-mgmt-trafficmanager
+	branch = refs/heads/master
