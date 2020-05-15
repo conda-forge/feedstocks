@@ -38974,3 +38974,7 @@
 	url = https://github.com/conda-forge/git-url-parse-feedstock.git
 	path = feedstocks/git-url-parse
 	branch = refs/heads/master
+[submodule "r-multigroup"]
+	url = https://github.com/conda-forge/r-multigroup-feedstock.git
+	path = feedstocks/r-multigroup
+	branch = refs/heads/master
