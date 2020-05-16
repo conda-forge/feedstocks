@@ -38990,3 +38990,7 @@
 	url = https://github.com/conda-forge/r-survivalsvm-feedstock.git
 	path = feedstocks/r-survivalsvm
 	branch = refs/heads/master
+[submodule "abipy"]
+	url = https://github.com/conda-forge/abipy-feedstock.git
+	path = feedstocks/abipy
+	branch = refs/heads/master
