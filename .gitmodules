@@ -39010,3 +39010,7 @@
 	url = https://github.com/conda-forge/distlib-feedstock.git
 	path = feedstocks/distlib
 	branch = refs/heads/master
+[submodule "pandasdmx"]
+	url = https://github.com/conda-forge/pandasdmx-feedstock.git
+	path = feedstocks/pandasdmx
+	branch = refs/heads/master
