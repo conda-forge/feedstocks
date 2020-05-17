@@ -39038,3 +39038,7 @@
 	url = https://github.com/conda-forge/r-drawr-feedstock.git
 	path = feedstocks/r-drawr
 	branch = refs/heads/master
+[submodule "python-semantic-release"]
+	url = https://github.com/conda-forge/python-semantic-release-feedstock.git
+	path = feedstocks/python-semantic-release
+	branch = refs/heads/master
