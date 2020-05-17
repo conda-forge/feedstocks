@@ -39034,3 +39034,7 @@
 	url = https://github.com/conda-forge/you-get-feedstock.git
 	path = feedstocks/you-get
 	branch = refs/heads/master
+[submodule "r-drawr"]
+	url = https://github.com/conda-forge/r-drawr-feedstock.git
+	path = feedstocks/r-drawr
+	branch = refs/heads/master
