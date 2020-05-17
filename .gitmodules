@@ -39014,3 +39014,7 @@
 	url = https://github.com/conda-forge/pandasdmx-feedstock.git
 	path = feedstocks/pandasdmx
 	branch = refs/heads/master
+[submodule "pytest-executable"]
+	url = https://github.com/conda-forge/pytest-executable-feedstock.git
+	path = feedstocks/pytest-executable
+	branch = refs/heads/master
