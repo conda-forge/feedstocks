@@ -39006,3 +39006,7 @@
 	url = https://github.com/conda-forge/grid-strategy-feedstock.git
 	path = feedstocks/grid-strategy
 	branch = refs/heads/master
+[submodule "distlib"]
+	url = https://github.com/conda-forge/distlib-feedstock.git
+	path = feedstocks/distlib
+	branch = refs/heads/master
