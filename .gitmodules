@@ -39066,3 +39066,7 @@
 	url = https://github.com/conda-forge/cf-python-feedstock.git
 	path = feedstocks/cf-python
 	branch = refs/heads/master
+[submodule "cub"]
+	url = https://github.com/conda-forge/cub-feedstock.git
+	path = feedstocks/cub
+	branch = refs/heads/master
