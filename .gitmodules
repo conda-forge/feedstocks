@@ -39054,3 +39054,7 @@
 	url = https://github.com/conda-forge/oslo.context-feedstock.git
 	path = feedstocks/oslo.context
 	branch = refs/heads/master
+[submodule "tornado-proxy-handlers"]
+	url = https://github.com/conda-forge/tornado-proxy-handlers-feedstock.git
+	path = feedstocks/tornado-proxy-handlers
+	branch = refs/heads/master
