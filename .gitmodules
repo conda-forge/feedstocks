@@ -39058,3 +39058,7 @@
 	url = https://github.com/conda-forge/tornado-proxy-handlers-feedstock.git
 	path = feedstocks/tornado-proxy-handlers
 	branch = refs/heads/master
+[submodule "abinit"]
+	url = https://github.com/conda-forge/abinit-feedstock.git
+	path = feedstocks/abinit
+	branch = refs/heads/master
