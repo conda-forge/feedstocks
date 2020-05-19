@@ -39098,3 +39098,7 @@
 	url = https://github.com/conda-forge/framel-feedstock.git
 	path = feedstocks/framel
 	branch = refs/heads/master
+[submodule "flask_rdf"]
+	url = https://github.com/conda-forge/flask_rdf-feedstock.git
+	path = feedstocks/flask_rdf
+	branch = refs/heads/master
