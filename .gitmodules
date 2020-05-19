@@ -39122,3 +39122,7 @@
 	url = https://github.com/conda-forge/doctest-feedstock.git
 	path = feedstocks/doctest
 	branch = refs/heads/master
+[submodule "boututils"]
+	url = https://github.com/conda-forge/boututils-feedstock.git
+	path = feedstocks/boututils
+	branch = refs/heads/master
