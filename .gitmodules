@@ -39106,3 +39106,7 @@
 	url = https://github.com/conda-forge/dolo-feedstock.git
 	path = feedstocks/dolo
 	branch = refs/heads/master
+[submodule "python-magnumclient"]
+	url = https://github.com/conda-forge/python-magnumclient-feedstock.git
+	path = feedstocks/python-magnumclient
+	branch = refs/heads/master
