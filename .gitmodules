@@ -39094,3 +39094,7 @@
 	url = https://github.com/conda-forge/oslo.log-feedstock.git
 	path = feedstocks/oslo.log
 	branch = refs/heads/master
+[submodule "framel"]
+	url = https://github.com/conda-forge/framel-feedstock.git
+	path = feedstocks/framel
+	branch = refs/heads/master
