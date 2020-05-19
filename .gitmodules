@@ -39114,3 +39114,7 @@
 	url = https://github.com/conda-forge/python-qinlingclient-feedstock.git
 	path = feedstocks/python-qinlingclient
 	branch = refs/heads/master
+[submodule "dowhy"]
+	url = https://github.com/conda-forge/dowhy-feedstock.git
+	path = feedstocks/dowhy
+	branch = refs/heads/master
