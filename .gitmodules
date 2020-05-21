@@ -39142,3 +39142,7 @@
 	url = https://github.com/conda-forge/r-rhub-feedstock.git
 	path = feedstocks/r-rhub
 	branch = refs/heads/master
+[submodule "r-ggghost"]
+	url = https://github.com/conda-forge/r-ggghost-feedstock.git
+	path = feedstocks/r-ggghost
+	branch = refs/heads/master
