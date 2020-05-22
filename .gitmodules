@@ -39166,3 +39166,7 @@
 	url = https://github.com/conda-forge/awsebcli-feedstock.git
 	path = feedstocks/awsebcli
 	branch = refs/heads/master
+[submodule "blessed"]
+	url = https://github.com/conda-forge/blessed-feedstock.git
+	path = feedstocks/blessed
+	branch = refs/heads/master
