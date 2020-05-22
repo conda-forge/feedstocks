@@ -39146,3 +39146,7 @@
 	url = https://github.com/conda-forge/r-ggghost-feedstock.git
 	path = feedstocks/r-ggghost
 	branch = refs/heads/master
+[submodule "sacrebleu"]
+	url = https://github.com/conda-forge/sacrebleu-feedstock.git
+	path = feedstocks/sacrebleu
+	branch = refs/heads/master
