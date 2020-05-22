@@ -39170,3 +39170,7 @@
 	url = https://github.com/conda-forge/blessed-feedstock.git
 	path = feedstocks/blessed
 	branch = refs/heads/master
+[submodule "jupyter-project"]
+	url = https://github.com/conda-forge/jupyter-project-feedstock.git
+	path = feedstocks/jupyter-project
+	branch = refs/heads/master
