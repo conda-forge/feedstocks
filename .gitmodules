@@ -39182,3 +39182,7 @@
 	url = https://github.com/conda-forge/nbcelltests-feedstock.git
 	path = feedstocks/nbcelltests
 	branch = refs/heads/master
+[submodule "dropboxdrivefs"]
+	url = https://github.com/conda-forge/dropboxdrivefs-feedstock.git
+	path = feedstocks/dropboxdrivefs
+	branch = refs/heads/master
