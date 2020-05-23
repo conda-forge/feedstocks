@@ -39174,3 +39174,7 @@
 	url = https://github.com/conda-forge/jupyter-project-feedstock.git
 	path = feedstocks/jupyter-project
 	branch = refs/heads/master
+[submodule "setupmeta"]
+	url = https://github.com/conda-forge/setupmeta-feedstock.git
+	path = feedstocks/setupmeta
+	branch = refs/heads/master
