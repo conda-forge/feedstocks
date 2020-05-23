@@ -39178,3 +39178,7 @@
 	url = https://github.com/conda-forge/setupmeta-feedstock.git
 	path = feedstocks/setupmeta
 	branch = refs/heads/master
+[submodule "nbcelltests"]
+	url = https://github.com/conda-forge/nbcelltests-feedstock.git
+	path = feedstocks/nbcelltests
+	branch = refs/heads/master
