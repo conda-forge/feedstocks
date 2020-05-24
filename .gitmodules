@@ -39198,3 +39198,7 @@
 	url = https://github.com/conda-forge/pygeoprocessing-feedstock.git
 	path = feedstocks/pygeoprocessing
 	branch = refs/heads/master
+[submodule "debugpy"]
+	url = https://github.com/conda-forge/debugpy-feedstock.git
+	path = feedstocks/debugpy
+	branch = refs/heads/master
