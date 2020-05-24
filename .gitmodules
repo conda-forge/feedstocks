@@ -39194,3 +39194,7 @@
 	url = https://github.com/conda-forge/interface_meta-feedstock.git
 	path = feedstocks/interface_meta
 	branch = refs/heads/master
+[submodule "pygeoprocessing"]
+	url = https://github.com/conda-forge/pygeoprocessing-feedstock.git
+	path = feedstocks/pygeoprocessing
+	branch = refs/heads/master
