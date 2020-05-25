@@ -39214,3 +39214,7 @@
 	url = https://github.com/conda-forge/feedparser-feedstock.git
 	path = feedstocks/feedparser
 	branch = refs/heads/master
+[submodule "gems3k"]
+	url = https://github.com/conda-forge/gems3k-feedstock.git
+	path = feedstocks/gems3k
+	branch = refs/heads/master
