@@ -39222,3 +39222,7 @@
 	url = https://github.com/conda-forge/rapids-feedstock.git
 	path = feedstocks/rapids
 	branch = refs/heads/master
+[submodule "r-scorecard"]
+	url = https://github.com/conda-forge/r-scorecard-feedstock.git
+	path = feedstocks/r-scorecard
+	branch = refs/heads/master
