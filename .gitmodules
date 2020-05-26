@@ -39226,3 +39226,7 @@
 	url = https://github.com/conda-forge/r-scorecard-feedstock.git
 	path = feedstocks/r-scorecard
 	branch = refs/heads/master
+[submodule "jupyterhub-idle-culler"]
+	url = https://github.com/conda-forge/jupyterhub-idle-culler-feedstock.git
+	path = feedstocks/jupyterhub-idle-culler
+	branch = refs/heads/master
