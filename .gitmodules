@@ -39218,3 +39218,7 @@
 	url = https://github.com/conda-forge/gems3k-feedstock.git
 	path = feedstocks/gems3k
 	branch = refs/heads/master
+[submodule "rapids"]
+	url = https://github.com/conda-forge/rapids-feedstock.git
+	path = feedstocks/rapids
+	branch = refs/heads/master
