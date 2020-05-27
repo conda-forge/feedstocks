@@ -39262,3 +39262,7 @@
 	url = https://github.com/conda-forge/libzopfli-feedstock.git
 	path = feedstocks/libzopfli
 	branch = refs/heads/master
+[submodule "django-ses"]
+	url = https://github.com/conda-forge/django-ses-feedstock.git
+	path = feedstocks/django-ses
+	branch = refs/heads/master
