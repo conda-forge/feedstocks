@@ -39250,3 +39250,7 @@
 	url = https://github.com/conda-forge/lipo-feedstock.git
 	path = feedstocks/lipo
 	branch = refs/heads/master
+[submodule "diffusioncma"]
+	url = https://github.com/conda-forge/diffusioncma-feedstock.git
+	path = feedstocks/diffusioncma
+	branch = refs/heads/master
