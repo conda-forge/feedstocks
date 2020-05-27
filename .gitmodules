@@ -39254,3 +39254,7 @@
 	url = https://github.com/conda-forge/diffusioncma-feedstock.git
 	path = feedstocks/diffusioncma
 	branch = refs/heads/master
+[submodule "django-cognito-jwt"]
+	url = https://github.com/conda-forge/django-cognito-jwt-feedstock.git
+	path = feedstocks/django-cognito-jwt
+	branch = refs/heads/master
