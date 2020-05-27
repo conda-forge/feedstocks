@@ -39234,3 +39234,7 @@
 	url = https://github.com/conda-forge/r-dfidx-feedstock.git
 	path = feedstocks/r-dfidx
 	branch = refs/heads/master
+[submodule "circle-fit"]
+	url = https://github.com/conda-forge/circle-fit-feedstock.git
+	path = feedstocks/circle-fit
+	branch = refs/heads/master
