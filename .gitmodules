@@ -39242,3 +39242,7 @@
 	url = https://github.com/conda-forge/serf-feedstock.git
 	path = feedstocks/serf
 	branch = refs/heads/master
+[submodule "aws-shell"]
+	url = https://github.com/conda-forge/aws-shell-feedstock.git
+	path = feedstocks/aws-shell
+	branch = refs/heads/master
