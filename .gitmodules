@@ -11178,10 +11178,6 @@
 	path = feedstocks/r-vegan
 	url = https://github.com/conda-forge/r-vegan-feedstock.git
 	branch = refs/heads/master
-[submodule "setuptools_markdown"]
-	path = feedstocks/setuptools_markdown
-	url = https://github.com/conda-forge/setuptools_markdown-feedstock.git
-	branch = refs/heads/master
 [submodule "smmap2"]
 	path = feedstocks/smmap2
 	url = https://github.com/conda-forge/smmap2-feedstock.git
