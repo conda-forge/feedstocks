@@ -39246,3 +39246,7 @@
 	url = https://github.com/conda-forge/aws-shell-feedstock.git
 	path = feedstocks/aws-shell
 	branch = refs/heads/master
+[submodule "lipo"]
+	url = https://github.com/conda-forge/lipo-feedstock.git
+	path = feedstocks/lipo
+	branch = refs/heads/master
