@@ -39258,3 +39258,7 @@
 	url = https://github.com/conda-forge/django-cognito-jwt-feedstock.git
 	path = feedstocks/django-cognito-jwt
 	branch = refs/heads/master
+[submodule "libzopfli"]
+	url = https://github.com/conda-forge/libzopfli-feedstock.git
+	path = feedstocks/libzopfli
+	branch = refs/heads/master
