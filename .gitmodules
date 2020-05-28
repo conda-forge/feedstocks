@@ -39302,3 +39302,7 @@
 	url = https://github.com/conda-forge/mongodb-feedstock.git
 	path = feedstocks/mongodb
 	branch = refs/heads/master
+[submodule "screed"]
+	url = https://github.com/conda-forge/screed-feedstock.git
+	path = feedstocks/screed
+	branch = refs/heads/master
