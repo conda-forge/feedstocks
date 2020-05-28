@@ -39270,3 +39270,7 @@
 	url = https://github.com/conda-forge/rest_condition-feedstock.git
 	path = feedstocks/rest_condition
 	branch = refs/heads/master
+[submodule "django-organizations"]
+	url = https://github.com/conda-forge/django-organizations-feedstock.git
+	path = feedstocks/django-organizations
+	branch = refs/heads/master
