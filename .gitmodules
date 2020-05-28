@@ -39290,3 +39290,7 @@
 	url = https://github.com/conda-forge/yaqd-control-feedstock.git
 	path = feedstocks/yaqd-control
 	branch = refs/heads/master
+[submodule "gpaw-data"]
+	url = https://github.com/conda-forge/gpaw-data-feedstock.git
+	path = feedstocks/gpaw-data
+	branch = refs/heads/master
