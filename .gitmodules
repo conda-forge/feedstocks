@@ -39306,3 +39306,7 @@
 	url = https://github.com/conda-forge/screed-feedstock.git
 	path = feedstocks/screed
 	branch = refs/heads/master
+[submodule "sourmash-minimal"]
+	url = https://github.com/conda-forge/sourmash-minimal-feedstock.git
+	path = feedstocks/sourmash-minimal
+	branch = refs/heads/master
