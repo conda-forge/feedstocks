@@ -39294,3 +39294,7 @@
 	url = https://github.com/conda-forge/gpaw-data-feedstock.git
 	path = feedstocks/gpaw-data
 	branch = refs/heads/master
+[submodule "tephi"]
+	url = https://github.com/conda-forge/tephi-feedstock.git
+	path = feedstocks/tephi
+	branch = refs/heads/master
