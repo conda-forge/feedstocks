@@ -39298,3 +39298,7 @@
 	url = https://github.com/conda-forge/tephi-feedstock.git
 	path = feedstocks/tephi
 	branch = refs/heads/master
+[submodule "mongodb"]
+	url = https://github.com/conda-forge/mongodb-feedstock.git
+	path = feedstocks/mongodb
+	branch = refs/heads/master
