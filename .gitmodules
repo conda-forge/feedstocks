@@ -39334,3 +39334,7 @@
 	url = https://github.com/conda-forge/r-rose-feedstock.git
 	path = feedstocks/r-rose
 	branch = refs/heads/master
+[submodule "r-themis"]
+	url = https://github.com/conda-forge/r-themis-feedstock.git
+	path = feedstocks/r-themis
+	branch = refs/heads/master
