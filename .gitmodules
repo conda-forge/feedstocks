@@ -39366,3 +39366,7 @@
 	url = https://github.com/conda-forge/r-roughsets-feedstock.git
 	path = feedstocks/r-roughsets
 	branch = refs/heads/master
+[submodule "r-discretization"]
+	url = https://github.com/conda-forge/r-discretization-feedstock.git
+	path = feedstocks/r-discretization
+	branch = refs/heads/master
