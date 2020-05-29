@@ -39350,3 +39350,7 @@
 	url = https://github.com/conda-forge/r-webchem-feedstock.git
 	path = feedstocks/r-webchem
 	branch = refs/heads/master
+[submodule "fftlog"]
+	url = https://github.com/conda-forge/fftlog-feedstock.git
+	path = feedstocks/fftlog
+	branch = refs/heads/master
