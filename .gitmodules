@@ -39326,3 +39326,7 @@
 	url = https://github.com/conda-forge/atompaw-feedstock.git
 	path = feedstocks/atompaw
 	branch = refs/heads/master
+[submodule "r-unbalanced"]
+	url = https://github.com/conda-forge/r-unbalanced-feedstock.git
+	path = feedstocks/r-unbalanced
+	branch = refs/heads/master
