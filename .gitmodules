@@ -39318,3 +39318,7 @@
 	url = https://github.com/conda-forge/r-googledrive-feedstock.git
 	path = feedstocks/r-googledrive
 	branch = refs/heads/master
+[submodule "swot_simulator"]
+	url = https://github.com/conda-forge/swot_simulator-feedstock.git
+	path = feedstocks/swot_simulator
+	branch = refs/heads/master
