@@ -39354,3 +39354,7 @@
 	url = https://github.com/conda-forge/fftlog-feedstock.git
 	path = feedstocks/fftlog
 	branch = refs/heads/master
+[submodule "r-mvn"]
+	url = https://github.com/conda-forge/r-mvn-feedstock.git
+	path = feedstocks/r-mvn
+	branch = refs/heads/master
