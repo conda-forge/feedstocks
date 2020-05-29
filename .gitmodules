@@ -39322,3 +39322,7 @@
 	url = https://github.com/conda-forge/swot_simulator-feedstock.git
 	path = feedstocks/swot_simulator
 	branch = refs/heads/master
+[submodule "atompaw"]
+	url = https://github.com/conda-forge/atompaw-feedstock.git
+	path = feedstocks/atompaw
+	branch = refs/heads/master
