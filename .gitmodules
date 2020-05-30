@@ -39386,3 +39386,7 @@
 	url = https://github.com/conda-forge/pytest-cloud-feedstock.git
 	path = feedstocks/pytest-cloud
 	branch = refs/heads/master
+[submodule "flake8-typing-imports"]
+	url = https://github.com/conda-forge/flake8-typing-imports-feedstock.git
+	path = feedstocks/flake8-typing-imports
+	branch = refs/heads/master
