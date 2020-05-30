@@ -39390,3 +39390,7 @@
 	url = https://github.com/conda-forge/flake8-typing-imports-feedstock.git
 	path = feedstocks/flake8-typing-imports
 	branch = refs/heads/master
+[submodule "pytest-echo"]
+	url = https://github.com/conda-forge/pytest-echo-feedstock.git
+	path = feedstocks/pytest-echo
+	branch = refs/heads/master
