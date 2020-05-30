@@ -39374,3 +39374,7 @@
 	url = https://github.com/conda-forge/r-amelia-feedstock.git
 	path = feedstocks/r-amelia
 	branch = refs/heads/master
+[submodule "password-strength"]
+	url = https://github.com/conda-forge/password-strength-feedstock.git
+	path = feedstocks/password-strength
+	branch = refs/heads/master
