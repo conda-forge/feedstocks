@@ -39394,3 +39394,7 @@
 	url = https://github.com/conda-forge/pytest-echo-feedstock.git
 	path = feedstocks/pytest-echo
 	branch = refs/heads/master
+[submodule "boutdata"]
+	url = https://github.com/conda-forge/boutdata-feedstock.git
+	path = feedstocks/boutdata
+	branch = refs/heads/master
