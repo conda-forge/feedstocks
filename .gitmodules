@@ -39382,3 +39382,7 @@
 	url = https://github.com/conda-forge/r-noisefiltersr-feedstock.git
 	path = feedstocks/r-noisefiltersr
 	branch = refs/heads/master
+[submodule "pytest-cloud"]
+	url = https://github.com/conda-forge/pytest-cloud-feedstock.git
+	path = feedstocks/pytest-cloud
+	branch = refs/heads/master
