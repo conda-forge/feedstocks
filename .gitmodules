@@ -39410,3 +39410,7 @@
 	url = https://github.com/conda-forge/pyepr-quantum-feedstock.git
 	path = feedstocks/pyepr-quantum
 	branch = refs/heads/master
+[submodule "pytorch_cluster"]
+	url = https://github.com/conda-forge/pytorch_cluster-feedstock.git
+	path = feedstocks/pytorch_cluster
+	branch = refs/heads/master
