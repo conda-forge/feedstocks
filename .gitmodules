@@ -39406,3 +39406,7 @@
 	url = https://github.com/conda-forge/qme-feedstock.git
 	path = feedstocks/qme
 	branch = refs/heads/master
+[submodule "pyepr-quantum"]
+	url = https://github.com/conda-forge/pyepr-quantum-feedstock.git
+	path = feedstocks/pyepr-quantum
+	branch = refs/heads/master
