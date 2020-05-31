@@ -39414,3 +39414,7 @@
 	url = https://github.com/conda-forge/pytorch_cluster-feedstock.git
 	path = feedstocks/pytorch_cluster
 	branch = refs/heads/master
+[submodule "modal"]
+	url = https://github.com/conda-forge/modal-feedstock.git
+	path = feedstocks/modal
+	branch = refs/heads/master
