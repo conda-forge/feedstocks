@@ -39438,3 +39438,7 @@
 	url = https://github.com/conda-forge/conda-lock-feedstock.git
 	path = feedstocks/conda-lock
 	branch = refs/heads/master
+[submodule "pytorch_sparse"]
+	url = https://github.com/conda-forge/pytorch_sparse-feedstock.git
+	path = feedstocks/pytorch_sparse
+	branch = refs/heads/master
