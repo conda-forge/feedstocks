@@ -39466,3 +39466,7 @@
 	url = https://github.com/conda-forge/subversion-feedstock.git
 	path = feedstocks/subversion
 	branch = refs/heads/master
+[submodule "r-ndjson"]
+	url = https://github.com/conda-forge/r-ndjson-feedstock.git
+	path = feedstocks/r-ndjson
+	branch = refs/heads/master
