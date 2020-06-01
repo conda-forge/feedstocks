@@ -39418,3 +39418,7 @@
 	url = https://github.com/conda-forge/plip-feedstock.git
 	path = feedstocks/plip
 	branch = refs/heads/master
+[submodule "pyslim"]
+	url = https://github.com/conda-forge/pyslim-feedstock.git
+	path = feedstocks/pyslim
+	branch = refs/heads/master
