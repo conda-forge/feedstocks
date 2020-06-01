@@ -39442,3 +39442,7 @@
 	url = https://github.com/conda-forge/pytorch_sparse-feedstock.git
 	path = feedstocks/pytorch_sparse
 	branch = refs/heads/master
+[submodule "pytorch_spline_conv"]
+	url = https://github.com/conda-forge/pytorch_spline_conv-feedstock.git
+	path = feedstocks/pytorch_spline_conv
+	branch = refs/heads/master
