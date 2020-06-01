@@ -39450,3 +39450,7 @@
 	url = https://github.com/conda-forge/argo-workflows-dsl-feedstock.git
 	path = feedstocks/argo-workflows-dsl
 	branch = refs/heads/master
+[submodule "pytorch_scatter"]
+	url = https://github.com/conda-forge/pytorch_scatter-feedstock.git
+	path = feedstocks/pytorch_scatter
+	branch = refs/heads/master
