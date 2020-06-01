@@ -39458,3 +39458,7 @@
 	url = https://github.com/conda-forge/argo-workflows-feedstock.git
 	path = feedstocks/argo-workflows
 	branch = refs/heads/master
+[submodule "biorbd-optim"]
+	url = https://github.com/conda-forge/biorbd-optim-feedstock.git
+	path = feedstocks/biorbd-optim
+	branch = refs/heads/master
