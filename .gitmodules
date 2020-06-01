@@ -39470,3 +39470,7 @@
 	url = https://github.com/conda-forge/r-ndjson-feedstock.git
 	path = feedstocks/r-ndjson
 	branch = refs/heads/master
+[submodule "cli11"]
+	url = https://github.com/conda-forge/cli11-feedstock.git
+	path = feedstocks/cli11
+	branch = refs/heads/master
