@@ -39426,3 +39426,7 @@
 	url = https://github.com/conda-forge/jupyter_bokeh-feedstock.git
 	path = feedstocks/jupyter_bokeh
 	branch = refs/heads/master
+[submodule "exiftool"]
+	url = https://github.com/conda-forge/exiftool-feedstock.git
+	path = feedstocks/exiftool
+	branch = refs/heads/master
