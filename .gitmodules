@@ -39462,3 +39462,7 @@
 	url = https://github.com/conda-forge/biorbd-optim-feedstock.git
 	path = feedstocks/biorbd-optim
 	branch = refs/heads/master
+[submodule "subversion"]
+	url = https://github.com/conda-forge/subversion-feedstock.git
+	path = feedstocks/subversion
+	branch = refs/heads/master
