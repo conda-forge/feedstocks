@@ -39430,3 +39430,7 @@
 	url = https://github.com/conda-forge/exiftool-feedstock.git
 	path = feedstocks/exiftool
 	branch = refs/heads/master
+[submodule "pydrift"]
+	url = https://github.com/conda-forge/pydrift-feedstock.git
+	path = feedstocks/pydrift
+	branch = refs/heads/master
