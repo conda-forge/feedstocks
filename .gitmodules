@@ -39498,3 +39498,7 @@
 	url = https://github.com/conda-forge/r-tcpl-feedstock.git
 	path = feedstocks/r-tcpl
 	branch = refs/heads/master
+[submodule "diffprivlib"]
+	url = https://github.com/conda-forge/diffprivlib-feedstock.git
+	path = feedstocks/diffprivlib
+	branch = refs/heads/master
