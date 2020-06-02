@@ -39538,3 +39538,7 @@
 	url = https://github.com/conda-forge/openconnect-feedstock.git
 	path = feedstocks/openconnect
 	branch = refs/heads/master
+[submodule "r-readods"]
+	url = https://github.com/conda-forge/r-readods-feedstock.git
+	path = feedstocks/r-readods
+	branch = refs/heads/master
