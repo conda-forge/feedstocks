@@ -39522,3 +39522,7 @@
 	url = https://github.com/conda-forge/mhfp-feedstock.git
 	path = feedstocks/mhfp
 	branch = refs/heads/master
+[submodule "omniscidb"]
+	url = https://github.com/conda-forge/omniscidb-feedstock.git
+	path = feedstocks/omniscidb
+	branch = refs/heads/master
