@@ -39554,3 +39554,7 @@
 	url = https://github.com/conda-forge/r-tmvnsim-feedstock.git
 	path = feedstocks/r-tmvnsim
 	branch = refs/heads/master
+[submodule "pytorch-lightning"]
+	url = https://github.com/conda-forge/pytorch-lightning-feedstock.git
+	path = feedstocks/pytorch-lightning
+	branch = refs/heads/master
