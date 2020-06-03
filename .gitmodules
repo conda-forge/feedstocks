@@ -39550,3 +39550,7 @@
 	url = https://github.com/conda-forge/r-streamr-feedstock.git
 	path = feedstocks/r-streamr
 	branch = refs/heads/master
+[submodule "r-tmvnsim"]
+	url = https://github.com/conda-forge/r-tmvnsim-feedstock.git
+	path = feedstocks/r-tmvnsim
+	branch = refs/heads/master
