@@ -39570,3 +39570,7 @@
 	url = https://github.com/conda-forge/iptcinfo-feedstock.git
 	path = feedstocks/iptcinfo
 	branch = refs/heads/master
+[submodule "ibis-mssql"]
+	url = https://github.com/conda-forge/ibis-mssql-feedstock.git
+	path = feedstocks/ibis-mssql
+	branch = refs/heads/master
