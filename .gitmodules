@@ -39594,3 +39594,7 @@
 	url = https://github.com/conda-forge/h2o-py-feedstock.git
 	path = feedstocks/h2o-py
 	branch = refs/heads/master
+[submodule "r-ggtext"]
+	url = https://github.com/conda-forge/r-ggtext-feedstock.git
+	path = feedstocks/r-ggtext
+	branch = refs/heads/master
