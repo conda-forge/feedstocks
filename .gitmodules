@@ -39606,3 +39606,7 @@
 	url = https://github.com/conda-forge/zope.event-feedstock.git
 	path = feedstocks/zope.event
 	branch = refs/heads/master
+[submodule "taskgraph"]
+	url = https://github.com/conda-forge/taskgraph-feedstock.git
+	path = feedstocks/taskgraph
+	branch = refs/heads/master
