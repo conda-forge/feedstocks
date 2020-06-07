@@ -39642,3 +39642,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-getthecode-feedstock.git
 	path = feedstocks/sphinxcontrib-getthecode
 	branch = refs/heads/master
+[submodule "jupyter-fs"]
+	url = https://github.com/conda-forge/jupyter-fs-feedstock.git
+	path = feedstocks/jupyter-fs
+	branch = refs/heads/master
