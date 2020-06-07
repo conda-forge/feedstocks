@@ -39638,3 +39638,7 @@
 	url = https://github.com/conda-forge/perspective-feedstock.git
 	path = feedstocks/perspective
 	branch = refs/heads/master
+[submodule "sphinxcontrib-getthecode"]
+	url = https://github.com/conda-forge/sphinxcontrib-getthecode-feedstock.git
+	path = feedstocks/sphinxcontrib-getthecode
+	branch = refs/heads/master
