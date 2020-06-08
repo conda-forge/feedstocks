@@ -39666,3 +39666,7 @@
 	url = https://github.com/conda-forge/lru-dict-feedstock.git
 	path = feedstocks/lru-dict
 	branch = refs/heads/master
+[submodule "interrogate"]
+	url = https://github.com/conda-forge/interrogate-feedstock.git
+	path = feedstocks/interrogate
+	branch = refs/heads/master
