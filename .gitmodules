@@ -39650,3 +39650,7 @@
 	url = https://github.com/conda-forge/segmentation-models-pytorch-feedstock.git
 	path = feedstocks/segmentation-models-pytorch
 	branch = refs/heads/master
+[submodule "pretrainedmodels"]
+	url = https://github.com/conda-forge/pretrainedmodels-feedstock.git
+	path = feedstocks/pretrainedmodels
+	branch = refs/heads/master
