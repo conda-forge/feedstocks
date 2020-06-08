@@ -39646,3 +39646,7 @@
 	url = https://github.com/conda-forge/jupyter-fs-feedstock.git
 	path = feedstocks/jupyter-fs
 	branch = refs/heads/master
+[submodule "segmentation-models-pytorch"]
+	url = https://github.com/conda-forge/segmentation-models-pytorch-feedstock.git
+	path = feedstocks/segmentation-models-pytorch
+	branch = refs/heads/master
