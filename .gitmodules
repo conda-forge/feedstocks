@@ -39658,3 +39658,7 @@
 	url = https://github.com/conda-forge/alsa-plugins-feedstock.git
 	path = feedstocks/alsa-plugins
 	branch = refs/heads/master
+[submodule "efficientnet-pytorch"]
+	url = https://github.com/conda-forge/efficientnet-pytorch-feedstock.git
+	path = feedstocks/efficientnet-pytorch
+	branch = refs/heads/master
