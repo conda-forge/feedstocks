@@ -39726,3 +39726,7 @@
 	url = https://github.com/conda-forge/libiio-feedstock.git
 	path = feedstocks/libiio
 	branch = refs/heads/master
+[submodule "gqrx"]
+	url = https://github.com/conda-forge/gqrx-feedstock.git
+	path = feedstocks/gqrx
+	branch = refs/heads/master
