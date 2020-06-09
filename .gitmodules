@@ -39702,3 +39702,7 @@
 	url = https://github.com/conda-forge/econci-feedstock.git
 	path = feedstocks/econci
 	branch = refs/heads/master
+[submodule "cwlformat"]
+	url = https://github.com/conda-forge/cwlformat-feedstock.git
+	path = feedstocks/cwlformat
+	branch = refs/heads/master
