@@ -39694,3 +39694,7 @@
 	url = https://github.com/conda-forge/eth-typing-feedstock.git
 	path = feedstocks/eth-typing
 	branch = refs/heads/master
+[submodule "base58"]
+	url = https://github.com/conda-forge/base58-feedstock.git
+	path = feedstocks/base58
+	branch = refs/heads/master
