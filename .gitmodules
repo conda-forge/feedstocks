@@ -39714,3 +39714,7 @@
 	url = https://github.com/conda-forge/coretran-feedstock.git
 	path = feedstocks/coretran
 	branch = refs/heads/master
+[submodule "gnuradio-osmosdr"]
+	url = https://github.com/conda-forge/gnuradio-osmosdr-feedstock.git
+	path = feedstocks/gnuradio-osmosdr
+	branch = refs/heads/master
