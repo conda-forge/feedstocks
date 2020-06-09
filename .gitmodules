@@ -39698,3 +39698,7 @@
 	url = https://github.com/conda-forge/base58-feedstock.git
 	path = feedstocks/base58
 	branch = refs/heads/master
+[submodule "econci"]
+	url = https://github.com/conda-forge/econci-feedstock.git
+	path = feedstocks/econci
+	branch = refs/heads/master
