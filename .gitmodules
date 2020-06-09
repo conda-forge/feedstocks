@@ -39730,3 +39730,7 @@
 	url = https://github.com/conda-forge/gqrx-feedstock.git
 	path = feedstocks/gqrx
 	branch = refs/heads/master
+[submodule "soapysdr"]
+	url = https://github.com/conda-forge/soapysdr-feedstock.git
+	path = feedstocks/soapysdr
+	branch = refs/heads/master
