@@ -39778,3 +39778,7 @@
 	url = https://github.com/conda-forge/xdmfwrite_highfive-feedstock.git
 	path = feedstocks/xdmfwrite_highfive
 	branch = refs/heads/master
+[submodule "xdmfwrite_h5py"]
+	url = https://github.com/conda-forge/xdmfwrite_h5py-feedstock.git
+	path = feedstocks/xdmfwrite_h5py
+	branch = refs/heads/master
