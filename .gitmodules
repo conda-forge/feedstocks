@@ -39746,3 +39746,7 @@
 	url = https://github.com/conda-forge/phe-feedstock.git
 	path = feedstocks/phe
 	branch = refs/heads/master
+[submodule "soapysdr-module-plutosdr"]
+	url = https://github.com/conda-forge/soapysdr-module-plutosdr-feedstock.git
+	path = feedstocks/soapysdr-module-plutosdr
+	branch = refs/heads/master
