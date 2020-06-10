@@ -39786,3 +39786,7 @@
 	url = https://github.com/conda-forge/composeml-feedstock.git
 	path = feedstocks/composeml
 	branch = refs/heads/master
+[submodule "m2w64-oniguruma"]
+	url = https://github.com/conda-forge/m2w64-oniguruma-feedstock.git
+	path = feedstocks/m2w64-oniguruma
+	branch = refs/heads/master
