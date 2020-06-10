@@ -39766,3 +39766,7 @@
 	url = https://github.com/conda-forge/r-interp-feedstock.git
 	path = feedstocks/r-interp
 	branch = refs/heads/master
+[submodule "r-soupx"]
+	url = https://github.com/conda-forge/r-soupx-feedstock.git
+	path = feedstocks/r-soupx
+	branch = refs/heads/master
