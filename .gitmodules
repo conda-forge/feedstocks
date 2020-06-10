@@ -39790,3 +39790,7 @@
 	url = https://github.com/conda-forge/m2w64-oniguruma-feedstock.git
 	path = feedstocks/m2w64-oniguruma
 	branch = refs/heads/master
+[submodule "m2w64-jq"]
+	url = https://github.com/conda-forge/m2w64-jq-feedstock.git
+	path = feedstocks/m2w64-jq
+	branch = refs/heads/master
