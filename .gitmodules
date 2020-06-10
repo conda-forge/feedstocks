@@ -39782,3 +39782,7 @@
 	url = https://github.com/conda-forge/xdmfwrite_h5py-feedstock.git
 	path = feedstocks/xdmfwrite_h5py
 	branch = refs/heads/master
+[submodule "composeml"]
+	url = https://github.com/conda-forge/composeml-feedstock.git
+	path = feedstocks/composeml
+	branch = refs/heads/master
