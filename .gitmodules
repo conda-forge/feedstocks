@@ -39738,3 +39738,7 @@
 	url = https://github.com/conda-forge/gnuradio-soapy-feedstock.git
 	path = feedstocks/gnuradio-soapy
 	branch = refs/heads/master
+[submodule "soapysdr-module-uhd"]
+	url = https://github.com/conda-forge/soapysdr-module-uhd-feedstock.git
+	path = feedstocks/soapysdr-module-uhd
+	branch = refs/heads/master
