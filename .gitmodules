@@ -39762,3 +39762,7 @@
 	url = https://github.com/conda-forge/r-mvord-feedstock.git
 	path = feedstocks/r-mvord
 	branch = refs/heads/master
+[submodule "r-interp"]
+	url = https://github.com/conda-forge/r-interp-feedstock.git
+	path = feedstocks/r-interp
+	branch = refs/heads/master
