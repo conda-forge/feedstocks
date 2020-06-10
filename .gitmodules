@@ -39758,3 +39758,7 @@
 	url = https://github.com/conda-forge/r-stringfish-feedstock.git
 	path = feedstocks/r-stringfish
 	branch = refs/heads/master
+[submodule "r-mvord"]
+	url = https://github.com/conda-forge/r-mvord-feedstock.git
+	path = feedstocks/r-mvord
+	branch = refs/heads/master
