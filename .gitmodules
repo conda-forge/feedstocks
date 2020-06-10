@@ -39770,3 +39770,7 @@
 	url = https://github.com/conda-forge/r-soupx-feedstock.git
 	path = feedstocks/r-soupx
 	branch = refs/heads/master
+[submodule "ansible-bender"]
+	url = https://github.com/conda-forge/ansible-bender-feedstock.git
+	path = feedstocks/ansible-bender
+	branch = refs/heads/master
