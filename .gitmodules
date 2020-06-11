@@ -39806,3 +39806,7 @@
 	url = https://github.com/conda-forge/sphinxdft-data-feedstock.git
 	path = feedstocks/sphinxdft-data
 	branch = refs/heads/master
+[submodule "iprpy"]
+	url = https://github.com/conda-forge/iprpy-feedstock.git
+	path = feedstocks/iprpy
+	branch = refs/heads/master
