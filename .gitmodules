@@ -39818,3 +39818,7 @@
 	url = https://github.com/conda-forge/abinit-data-feedstock.git
 	path = feedstocks/abinit-data
 	branch = refs/heads/master
+[submodule "spec2nii"]
+	url = https://github.com/conda-forge/spec2nii-feedstock.git
+	path = feedstocks/spec2nii
+	branch = refs/heads/master
