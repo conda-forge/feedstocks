@@ -39794,3 +39794,7 @@
 	url = https://github.com/conda-forge/m2w64-jq-feedstock.git
 	path = feedstocks/m2w64-jq
 	branch = refs/heads/master
+[submodule "click-option-group"]
+	url = https://github.com/conda-forge/click-option-group-feedstock.git
+	path = feedstocks/click-option-group
+	branch = refs/heads/master
