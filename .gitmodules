@@ -39802,3 +39802,7 @@
 	url = https://github.com/conda-forge/click-params-feedstock.git
 	path = feedstocks/click-params
 	branch = refs/heads/master
+[submodule "sphinxdft-data"]
+	url = https://github.com/conda-forge/sphinxdft-data-feedstock.git
+	path = feedstocks/sphinxdft-data
+	branch = refs/heads/master
