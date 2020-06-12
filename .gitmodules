@@ -39858,3 +39858,7 @@
 	url = https://github.com/conda-forge/r-bayeslogit-feedstock.git
 	path = feedstocks/r-bayeslogit
 	branch = refs/heads/master
+[submodule "r-googlesheets4"]
+	url = https://github.com/conda-forge/r-googlesheets4-feedstock.git
+	path = feedstocks/r-googlesheets4
+	branch = refs/heads/master
