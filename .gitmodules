@@ -39830,3 +39830,7 @@
 	url = https://github.com/conda-forge/pyswagger-feedstock.git
 	path = feedstocks/pyswagger
 	branch = refs/heads/master
+[submodule "smatch"]
+	url = https://github.com/conda-forge/smatch-feedstock.git
+	path = feedstocks/smatch
+	branch = refs/heads/master
