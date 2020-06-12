@@ -39854,3 +39854,7 @@
 	url = https://github.com/conda-forge/r-transphylo-feedstock.git
 	path = feedstocks/r-transphylo
 	branch = refs/heads/master
+[submodule "r-bayeslogit"]
+	url = https://github.com/conda-forge/r-bayeslogit-feedstock.git
+	path = feedstocks/r-bayeslogit
+	branch = refs/heads/master
