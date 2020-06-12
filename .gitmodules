@@ -39838,3 +39838,7 @@
 	url = https://github.com/conda-forge/rtl-sdr-feedstock.git
 	path = feedstocks/rtl-sdr
 	branch = refs/heads/master
+[submodule "pydeck-earthengine-layers"]
+	url = https://github.com/conda-forge/pydeck-earthengine-layers-feedstock.git
+	path = feedstocks/pydeck-earthengine-layers
+	branch = refs/heads/master
