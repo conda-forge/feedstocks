@@ -39874,3 +39874,7 @@
 	url = https://github.com/conda-forge/r-shazam-feedstock.git
 	path = feedstocks/r-shazam
 	branch = refs/heads/master
+[submodule "r-hmsc"]
+	url = https://github.com/conda-forge/r-hmsc-feedstock.git
+	path = feedstocks/r-hmsc
+	branch = refs/heads/master
