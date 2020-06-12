@@ -39826,3 +39826,7 @@
 	url = https://github.com/conda-forge/polycap-feedstock.git
 	path = feedstocks/polycap
 	branch = refs/heads/master
+[submodule "pyswagger"]
+	url = https://github.com/conda-forge/pyswagger-feedstock.git
+	path = feedstocks/pyswagger
+	branch = refs/heads/master
