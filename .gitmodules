@@ -39846,3 +39846,7 @@
 	url = https://github.com/conda-forge/pyiron-data-feedstock.git
 	path = feedstocks/pyiron-data
 	branch = refs/heads/master
+[submodule "python-rocksdb"]
+	url = https://github.com/conda-forge/python-rocksdb-feedstock.git
+	path = feedstocks/python-rocksdb
+	branch = refs/heads/master
