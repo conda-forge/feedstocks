@@ -39842,3 +39842,7 @@
 	url = https://github.com/conda-forge/pydeck-earthengine-layers-feedstock.git
 	path = feedstocks/pydeck-earthengine-layers
 	branch = refs/heads/master
+[submodule "pyiron-data"]
+	url = https://github.com/conda-forge/pyiron-data-feedstock.git
+	path = feedstocks/pyiron-data
+	branch = refs/heads/master
