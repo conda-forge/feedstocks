@@ -39878,3 +39878,7 @@
 	url = https://github.com/conda-forge/r-hmsc-feedstock.git
 	path = feedstocks/r-hmsc
 	branch = refs/heads/master
+[submodule "r-flexsurv"]
+	url = https://github.com/conda-forge/r-flexsurv-feedstock.git
+	path = feedstocks/r-flexsurv
+	branch = refs/heads/master
