@@ -39902,3 +39902,7 @@
 	url = https://github.com/conda-forge/igwn-cmake-feedstock.git
 	path = feedstocks/igwn-cmake
 	branch = refs/heads/master
+[submodule "r-tigger"]
+	url = https://github.com/conda-forge/r-tigger-feedstock.git
+	path = feedstocks/r-tigger
+	branch = refs/heads/master
