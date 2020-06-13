@@ -39898,3 +39898,7 @@
 	url = https://github.com/conda-forge/r-progressr-feedstock.git
 	path = feedstocks/r-progressr
 	branch = refs/heads/master
+[submodule "igwn-cmake"]
+	url = https://github.com/conda-forge/igwn-cmake-feedstock.git
+	path = feedstocks/igwn-cmake
+	branch = refs/heads/master
