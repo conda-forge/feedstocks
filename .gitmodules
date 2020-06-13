@@ -39890,3 +39890,7 @@
 	url = https://github.com/conda-forge/magicgui-feedstock.git
 	path = feedstocks/magicgui
 	branch = refs/heads/master
+[submodule "numdiff"]
+	url = https://github.com/conda-forge/numdiff-feedstock.git
+	path = feedstocks/numdiff
+	branch = refs/heads/master
