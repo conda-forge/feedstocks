@@ -39894,3 +39894,7 @@
 	url = https://github.com/conda-forge/numdiff-feedstock.git
 	path = feedstocks/numdiff
 	branch = refs/heads/master
+[submodule "r-progressr"]
+	url = https://github.com/conda-forge/r-progressr-feedstock.git
+	path = feedstocks/r-progressr
+	branch = refs/heads/master
