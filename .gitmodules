@@ -39906,3 +39906,7 @@
 	url = https://github.com/conda-forge/r-tigger-feedstock.git
 	path = feedstocks/r-tigger
 	branch = refs/heads/master
+[submodule "r-inext"]
+	url = https://github.com/conda-forge/r-inext-feedstock.git
+	path = feedstocks/r-inext
+	branch = refs/heads/master
