@@ -39882,3 +39882,7 @@
 	url = https://github.com/conda-forge/r-flexsurv-feedstock.git
 	path = feedstocks/r-flexsurv
 	branch = refs/heads/master
+[submodule "soapysdr-module-rtlsdr"]
+	url = https://github.com/conda-forge/soapysdr-module-rtlsdr-feedstock.git
+	path = feedstocks/soapysdr-module-rtlsdr
+	branch = refs/heads/master
