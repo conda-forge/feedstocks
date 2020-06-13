@@ -39886,3 +39886,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-rtlsdr-feedstock.git
 	path = feedstocks/soapysdr-module-rtlsdr
 	branch = refs/heads/master
+[submodule "magicgui"]
+	url = https://github.com/conda-forge/magicgui-feedstock.git
+	path = feedstocks/magicgui
+	branch = refs/heads/master
