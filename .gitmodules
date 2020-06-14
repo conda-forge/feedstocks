@@ -39934,3 +39934,7 @@
 	url = https://github.com/conda-forge/fakechroot-feedstock.git
 	path = feedstocks/fakechroot
 	branch = refs/heads/master
+[submodule "r-poppr"]
+	url = https://github.com/conda-forge/r-poppr-feedstock.git
+	path = feedstocks/r-poppr
+	branch = refs/heads/master
