@@ -39918,3 +39918,7 @@
 	url = https://github.com/conda-forge/r-rclone-feedstock.git
 	path = feedstocks/r-rclone
 	branch = refs/heads/master
+[submodule "r-sos"]
+	url = https://github.com/conda-forge/r-sos-feedstock.git
+	path = feedstocks/r-sos
+	branch = refs/heads/master
