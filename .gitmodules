@@ -39910,3 +39910,7 @@
 	url = https://github.com/conda-forge/r-inext-feedstock.git
 	path = feedstocks/r-inext
 	branch = refs/heads/master
+[submodule "gempy"]
+	url = https://github.com/conda-forge/gempy-feedstock.git
+	path = feedstocks/gempy
+	branch = refs/heads/master
