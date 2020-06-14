@@ -39930,3 +39930,7 @@
 	url = https://github.com/conda-forge/acorns-feedstock.git
 	path = feedstocks/acorns
 	branch = refs/heads/master
+[submodule "fakechroot"]
+	url = https://github.com/conda-forge/fakechroot-feedstock.git
+	path = feedstocks/fakechroot
+	branch = refs/heads/master
