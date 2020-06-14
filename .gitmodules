@@ -39914,3 +39914,7 @@
 	url = https://github.com/conda-forge/gempy-feedstock.git
 	path = feedstocks/gempy
 	branch = refs/heads/master
+[submodule "r-rclone"]
+	url = https://github.com/conda-forge/r-rclone-feedstock.git
+	path = feedstocks/r-rclone
+	branch = refs/heads/master
