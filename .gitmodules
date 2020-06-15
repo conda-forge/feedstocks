@@ -39946,3 +39946,7 @@
 	url = https://github.com/conda-forge/zbar-py-feedstock.git
 	path = feedstocks/zbar-py
 	branch = refs/heads/master
+[submodule "conda-docker"]
+	url = https://github.com/conda-forge/conda-docker-feedstock.git
+	path = feedstocks/conda-docker
+	branch = refs/heads/master
