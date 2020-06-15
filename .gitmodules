@@ -39942,3 +39942,7 @@
 	url = https://github.com/conda-forge/fakeroot-ng-feedstock.git
 	path = feedstocks/fakeroot-ng
 	branch = refs/heads/master
+[submodule "zbar-py"]
+	url = https://github.com/conda-forge/zbar-py-feedstock.git
+	path = feedstocks/zbar-py
+	branch = refs/heads/master
