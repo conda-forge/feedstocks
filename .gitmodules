@@ -39950,3 +39950,7 @@
 	url = https://github.com/conda-forge/conda-docker-feedstock.git
 	path = feedstocks/conda-docker
 	branch = refs/heads/master
+[submodule "r-distributional"]
+	url = https://github.com/conda-forge/r-distributional-feedstock.git
+	path = feedstocks/r-distributional
+	branch = refs/heads/master
