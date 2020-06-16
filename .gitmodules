@@ -39954,3 +39954,7 @@
 	url = https://github.com/conda-forge/r-distributional-feedstock.git
 	path = feedstocks/r-distributional
 	branch = refs/heads/master
+[submodule "treelite"]
+	url = https://github.com/conda-forge/treelite-feedstock.git
+	path = feedstocks/treelite
+	branch = refs/heads/master
