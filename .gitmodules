@@ -39958,3 +39958,7 @@
 	url = https://github.com/conda-forge/treelite-feedstock.git
 	path = feedstocks/treelite
 	branch = refs/heads/master
+[submodule "aws-okta-keyman"]
+	url = https://github.com/conda-forge/aws-okta-keyman-feedstock.git
+	path = feedstocks/aws-okta-keyman
+	branch = refs/heads/master
