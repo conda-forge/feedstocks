@@ -40066,3 +40066,7 @@
 	url = https://github.com/conda-forge/matrix-api-async-feedstock.git
 	path = feedstocks/matrix-api-async
 	branch = refs/heads/master
+[submodule "tailer"]
+	url = https://github.com/conda-forge/tailer-feedstock.git
+	path = feedstocks/tailer
+	branch = refs/heads/master
