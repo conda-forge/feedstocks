@@ -40046,3 +40046,7 @@
 	url = https://github.com/conda-forge/ibm-cloud-sdk-core-feedstock.git
 	path = feedstocks/ibm-cloud-sdk-core
 	branch = refs/heads/master
+[submodule "ibm-watson"]
+	url = https://github.com/conda-forge/ibm-watson-feedstock.git
+	path = feedstocks/ibm-watson
+	branch = refs/heads/master
