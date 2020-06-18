@@ -40082,3 +40082,7 @@
 	url = https://github.com/conda-forge/gplearn-feedstock.git
 	path = feedstocks/gplearn
 	branch = refs/heads/master
+[submodule "ai2thor"]
+	url = https://github.com/conda-forge/ai2thor-feedstock.git
+	path = feedstocks/ai2thor
+	branch = refs/heads/master
