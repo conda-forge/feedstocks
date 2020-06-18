@@ -40078,3 +40078,7 @@
 	url = https://github.com/conda-forge/bert-tensorflow-feedstock.git
 	path = feedstocks/bert-tensorflow
 	branch = refs/heads/master
+[submodule "gplearn"]
+	url = https://github.com/conda-forge/gplearn-feedstock.git
+	path = feedstocks/gplearn
+	branch = refs/heads/master
