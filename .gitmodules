@@ -39994,3 +39994,7 @@
 	url = https://github.com/conda-forge/deepforest-feedstock.git
 	path = feedstocks/deepforest
 	branch = refs/heads/master
+[submodule "pyswashes"]
+	url = https://github.com/conda-forge/pyswashes-feedstock.git
+	path = feedstocks/pyswashes
+	branch = refs/heads/master
