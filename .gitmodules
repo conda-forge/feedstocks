@@ -40058,3 +40058,7 @@
 	url = https://github.com/conda-forge/watchgod-feedstock.git
 	path = feedstocks/watchgod
 	branch = refs/heads/master
+[submodule "mattermostdriver"]
+	url = https://github.com/conda-forge/mattermostdriver-feedstock.git
+	path = feedstocks/mattermostdriver
+	branch = refs/heads/master
