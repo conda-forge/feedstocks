@@ -40030,3 +40030,7 @@
 	url = https://github.com/conda-forge/osprofiler-feedstock.git
 	path = feedstocks/osprofiler
 	branch = refs/heads/master
+[submodule "pyrestcli"]
+	url = https://github.com/conda-forge/pyrestcli-feedstock.git
+	path = feedstocks/pyrestcli
+	branch = refs/heads/master
