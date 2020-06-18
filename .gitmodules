@@ -40026,3 +40026,7 @@
 	url = https://github.com/conda-forge/pyroaring-feedstock.git
 	path = feedstocks/pyroaring
 	branch = refs/heads/master
+[submodule "osprofiler"]
+	url = https://github.com/conda-forge/osprofiler-feedstock.git
+	path = feedstocks/osprofiler
+	branch = refs/heads/master
