@@ -40062,3 +40062,7 @@
 	url = https://github.com/conda-forge/mattermostdriver-feedstock.git
 	path = feedstocks/mattermostdriver
 	branch = refs/heads/master
+[submodule "matrix-api-async"]
+	url = https://github.com/conda-forge/matrix-api-async-feedstock.git
+	path = feedstocks/matrix-api-async
+	branch = refs/heads/master
