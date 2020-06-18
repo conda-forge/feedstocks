@@ -40010,3 +40010,7 @@
 	url = https://github.com/conda-forge/git-fame-feedstock.git
 	path = feedstocks/git-fame
 	branch = refs/heads/master
+[submodule "tributary"]
+	url = https://github.com/conda-forge/tributary-feedstock.git
+	path = feedstocks/tributary
+	branch = refs/heads/master
