@@ -40034,3 +40034,7 @@
 	url = https://github.com/conda-forge/pyrestcli-feedstock.git
 	path = feedstocks/pyrestcli
 	branch = refs/heads/master
+[submodule "enblend"]
+	url = https://github.com/conda-forge/enblend-feedstock.git
+	path = feedstocks/enblend
+	branch = refs/heads/master
