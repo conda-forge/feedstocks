@@ -40022,3 +40022,7 @@
 	url = https://github.com/conda-forge/tsne-feedstock.git
 	path = feedstocks/tsne
 	branch = refs/heads/master
+[submodule "pyroaring"]
+	url = https://github.com/conda-forge/pyroaring-feedstock.git
+	path = feedstocks/pyroaring
+	branch = refs/heads/master
