@@ -40094,3 +40094,7 @@
 	url = https://github.com/conda-forge/r-dotwhisker-feedstock.git
 	path = feedstocks/r-dotwhisker
 	branch = refs/heads/master
+[submodule "r-survpresmooth"]
+	url = https://github.com/conda-forge/r-survpresmooth-feedstock.git
+	path = feedstocks/r-survpresmooth
+	branch = refs/heads/master
