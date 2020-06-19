@@ -40086,3 +40086,7 @@
 	url = https://github.com/conda-forge/ai2thor-feedstock.git
 	path = feedstocks/ai2thor
 	branch = refs/heads/master
+[submodule "r-ggdist"]
+	url = https://github.com/conda-forge/r-ggdist-feedstock.git
+	path = feedstocks/r-ggdist
+	branch = refs/heads/master
