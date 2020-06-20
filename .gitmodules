@@ -40114,3 +40114,7 @@
 	url = https://github.com/conda-forge/r-distill-feedstock.git
 	path = feedstocks/r-distill
 	branch = refs/heads/master
+[submodule "atlassian-python-api"]
+	url = https://github.com/conda-forge/atlassian-python-api-feedstock.git
+	path = feedstocks/atlassian-python-api
+	branch = refs/heads/master
