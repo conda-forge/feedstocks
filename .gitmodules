@@ -40122,3 +40122,7 @@
 	url = https://github.com/conda-forge/vedo-feedstock.git
 	path = feedstocks/vedo
 	branch = refs/heads/master
+[submodule "dtw-python"]
+	url = https://github.com/conda-forge/dtw-python-feedstock.git
+	path = feedstocks/dtw-python
+	branch = refs/heads/master
