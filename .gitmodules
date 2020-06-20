@@ -40106,3 +40106,7 @@
 	url = https://github.com/conda-forge/r-vitae-feedstock.git
 	path = feedstocks/r-vitae
 	branch = refs/heads/master
+[submodule "scikit-downscale"]
+	url = https://github.com/conda-forge/scikit-downscale-feedstock.git
+	path = feedstocks/scikit-downscale
+	branch = refs/heads/master
