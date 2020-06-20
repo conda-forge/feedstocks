@@ -40118,3 +40118,7 @@
 	url = https://github.com/conda-forge/atlassian-python-api-feedstock.git
 	path = feedstocks/atlassian-python-api
 	branch = refs/heads/master
+[submodule "vedo"]
+	url = https://github.com/conda-forge/vedo-feedstock.git
+	path = feedstocks/vedo
+	branch = refs/heads/master
