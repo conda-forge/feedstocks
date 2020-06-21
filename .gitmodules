@@ -40126,3 +40126,7 @@
 	url = https://github.com/conda-forge/dtw-python-feedstock.git
 	path = feedstocks/dtw-python
 	branch = refs/heads/master
+[submodule "codec2"]
+	url = https://github.com/conda-forge/codec2-feedstock.git
+	path = feedstocks/codec2
+	branch = refs/heads/master
