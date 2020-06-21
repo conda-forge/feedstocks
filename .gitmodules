@@ -40130,3 +40130,7 @@
 	url = https://github.com/conda-forge/codec2-feedstock.git
 	path = feedstocks/codec2
 	branch = refs/heads/master
+[submodule "msms"]
+	url = https://github.com/conda-forge/msms-feedstock.git
+	path = feedstocks/msms
+	branch = refs/heads/master
