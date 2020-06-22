@@ -40146,3 +40146,7 @@
 	url = https://github.com/conda-forge/tensorboard-plugin-wit-feedstock.git
 	path = feedstocks/tensorboard-plugin-wit
 	branch = refs/heads/master
+[submodule "match-series"]
+	url = https://github.com/conda-forge/match-series-feedstock.git
+	path = feedstocks/match-series
+	branch = refs/heads/master
