@@ -40154,3 +40154,7 @@
 	url = https://github.com/conda-forge/aodhclient-feedstock.git
 	path = feedstocks/aodhclient
 	branch = refs/heads/master
+[submodule "seiqrdp-model"]
+	url = https://github.com/conda-forge/seiqrdp-model-feedstock.git
+	path = feedstocks/seiqrdp-model
+	branch = refs/heads/master
