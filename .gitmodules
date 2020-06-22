@@ -40138,3 +40138,7 @@
 	url = https://github.com/conda-forge/bio-pyvol-feedstock.git
 	path = feedstocks/bio-pyvol
 	branch = refs/heads/master
+[submodule "macports-legacy-support"]
+	url = https://github.com/conda-forge/macports-legacy-support-feedstock.git
+	path = feedstocks/macports-legacy-support
+	branch = refs/heads/master
