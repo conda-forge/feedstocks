@@ -40158,3 +40158,7 @@
 	url = https://github.com/conda-forge/seiqrdp-model-feedstock.git
 	path = feedstocks/seiqrdp-model
 	branch = refs/heads/master
+[submodule "memestra"]
+	url = https://github.com/conda-forge/memestra-feedstock.git
+	path = feedstocks/memestra
+	branch = refs/heads/master
