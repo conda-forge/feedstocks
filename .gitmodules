@@ -40166,3 +40166,7 @@
 	url = https://github.com/conda-forge/caterva-feedstock.git
 	path = feedstocks/caterva
 	branch = refs/heads/master
+[submodule "pyzenhub"]
+	url = https://github.com/conda-forge/pyzenhub-feedstock.git
+	path = feedstocks/pyzenhub
+	branch = refs/heads/master
