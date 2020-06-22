@@ -40150,3 +40150,7 @@
 	url = https://github.com/conda-forge/match-series-feedstock.git
 	path = feedstocks/match-series
 	branch = refs/heads/master
+[submodule "aodhclient"]
+	url = https://github.com/conda-forge/aodhclient-feedstock.git
+	path = feedstocks/aodhclient
+	branch = refs/heads/master
