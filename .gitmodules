@@ -40178,3 +40178,7 @@
 	url = https://github.com/conda-forge/stompest-feedstock.git
 	path = feedstocks/stompest
 	branch = refs/heads/master
+[submodule "suds-py3"]
+	url = https://github.com/conda-forge/suds-py3-feedstock.git
+	path = feedstocks/suds-py3
+	branch = refs/heads/master
