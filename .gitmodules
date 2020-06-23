@@ -40174,3 +40174,7 @@
 	url = https://github.com/conda-forge/enlighten-feedstock.git
 	path = feedstocks/enlighten
 	branch = refs/heads/master
+[submodule "stompest"]
+	url = https://github.com/conda-forge/stompest-feedstock.git
+	path = feedstocks/stompest
+	branch = refs/heads/master
