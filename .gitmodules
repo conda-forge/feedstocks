@@ -40170,3 +40170,7 @@
 	url = https://github.com/conda-forge/pyzenhub-feedstock.git
 	path = feedstocks/pyzenhub
 	branch = refs/heads/master
+[submodule "enlighten"]
+	url = https://github.com/conda-forge/enlighten-feedstock.git
+	path = feedstocks/enlighten
+	branch = refs/heads/master
