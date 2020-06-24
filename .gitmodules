@@ -40274,3 +40274,7 @@
 	url = https://github.com/conda-forge/uncurl-feedstock.git
 	path = feedstocks/uncurl
 	branch = refs/heads/master
+[submodule "hydrodata"]
+	url = https://github.com/conda-forge/hydrodata-feedstock.git
+	path = feedstocks/hydrodata
+	branch = refs/heads/master
