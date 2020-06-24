@@ -40242,3 +40242,7 @@
 	url = https://github.com/conda-forge/qdldl-python-feedstock.git
 	path = feedstocks/qdldl-python
 	branch = refs/heads/master
+[submodule "micromamba"]
+	url = https://github.com/conda-forge/micromamba-feedstock.git
+	path = feedstocks/micromamba
+	branch = refs/heads/master
