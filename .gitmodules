@@ -40302,3 +40302,7 @@
 	url = https://github.com/conda-forge/filemagic-feedstock.git
 	path = feedstocks/filemagic
 	branch = refs/heads/master
+[submodule "pyswmm"]
+	url = https://github.com/conda-forge/pyswmm-feedstock.git
+	path = feedstocks/pyswmm
+	branch = refs/heads/master
