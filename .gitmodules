@@ -40190,3 +40190,7 @@
 	url = https://github.com/conda-forge/doccano-feedstock.git
 	path = feedstocks/doccano
 	branch = refs/heads/master
+[submodule "radosgw-admin"]
+	url = https://github.com/conda-forge/radosgw-admin-feedstock.git
+	path = feedstocks/radosgw-admin
+	branch = refs/heads/master
