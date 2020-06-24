@@ -40254,3 +40254,7 @@
 	url = https://github.com/conda-forge/xerox-feedstock.git
 	path = feedstocks/xerox
 	branch = refs/heads/master
+[submodule "pytest-dependency"]
+	url = https://github.com/conda-forge/pytest-dependency-feedstock.git
+	path = feedstocks/pytest-dependency
+	branch = refs/heads/master
