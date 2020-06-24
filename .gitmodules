@@ -40270,3 +40270,7 @@
 	url = https://github.com/conda-forge/cleverhans-feedstock.git
 	path = feedstocks/cleverhans
 	branch = refs/heads/master
+[submodule "uncurl"]
+	url = https://github.com/conda-forge/uncurl-feedstock.git
+	path = feedstocks/uncurl
+	branch = refs/heads/master
