@@ -40226,3 +40226,7 @@
 	url = https://github.com/conda-forge/dexplot-feedstock.git
 	path = feedstocks/dexplot
 	branch = refs/heads/master
+[submodule "pytorch_geometric"]
+	url = https://github.com/conda-forge/pytorch_geometric-feedstock.git
+	path = feedstocks/pytorch_geometric
+	branch = refs/heads/master
