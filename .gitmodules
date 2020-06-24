@@ -40214,3 +40214,7 @@
 	url = https://github.com/conda-forge/ipcoal-feedstock.git
 	path = feedstocks/ipcoal
 	branch = refs/heads/master
+[submodule "carto"]
+	url = https://github.com/conda-forge/carto-feedstock.git
+	path = feedstocks/carto
+	branch = refs/heads/master
