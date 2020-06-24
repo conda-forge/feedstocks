@@ -40306,3 +40306,7 @@
 	url = https://github.com/conda-forge/pyswmm-feedstock.git
 	path = feedstocks/pyswmm
 	branch = refs/heads/master
+[submodule "lerc"]
+	url = https://github.com/conda-forge/lerc-feedstock.git
+	path = feedstocks/lerc
+	branch = refs/heads/master
