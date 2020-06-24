@@ -40246,3 +40246,7 @@
 	url = https://github.com/conda-forge/micromamba-feedstock.git
 	path = feedstocks/micromamba
 	branch = refs/heads/master
+[submodule "pytest-reportlog"]
+	url = https://github.com/conda-forge/pytest-reportlog-feedstock.git
+	path = feedstocks/pytest-reportlog
+	branch = refs/heads/master
