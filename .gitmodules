@@ -40194,3 +40194,7 @@
 	url = https://github.com/conda-forge/radosgw-admin-feedstock.git
 	path = feedstocks/radosgw-admin
 	branch = refs/heads/master
+[submodule "typer-cli"]
+	url = https://github.com/conda-forge/typer-cli-feedstock.git
+	path = feedstocks/typer-cli
+	branch = refs/heads/master
