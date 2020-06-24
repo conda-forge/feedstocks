@@ -40262,3 +40262,7 @@
 	url = https://github.com/conda-forge/spice_hsi-feedstock.git
 	path = feedstocks/spice_hsi
 	branch = refs/heads/master
+[submodule "access"]
+	url = https://github.com/conda-forge/access-feedstock.git
+	path = feedstocks/access
+	branch = refs/heads/master
