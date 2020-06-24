@@ -40230,3 +40230,7 @@
 	url = https://github.com/conda-forge/pytorch_geometric-feedstock.git
 	path = feedstocks/pytorch_geometric
 	branch = refs/heads/master
+[submodule "cykhash"]
+	url = https://github.com/conda-forge/cykhash-feedstock.git
+	path = feedstocks/cykhash
+	branch = refs/heads/master
