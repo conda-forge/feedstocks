@@ -40198,3 +40198,7 @@
 	url = https://github.com/conda-forge/typer-cli-feedstock.git
 	path = feedstocks/typer-cli
 	branch = refs/heads/master
+[submodule "ads2inspire"]
+	url = https://github.com/conda-forge/ads2inspire-feedstock.git
+	path = feedstocks/ads2inspire
+	branch = refs/heads/master
