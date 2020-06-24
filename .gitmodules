@@ -40266,3 +40266,7 @@
 	url = https://github.com/conda-forge/access-feedstock.git
 	path = feedstocks/access
 	branch = refs/heads/master
+[submodule "cleverhans"]
+	url = https://github.com/conda-forge/cleverhans-feedstock.git
+	path = feedstocks/cleverhans
+	branch = refs/heads/master
