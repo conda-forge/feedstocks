@@ -40218,3 +40218,7 @@
 	url = https://github.com/conda-forge/carto-feedstock.git
 	path = feedstocks/carto
 	branch = refs/heads/master
+[submodule "brunsli"]
+	url = https://github.com/conda-forge/brunsli-feedstock.git
+	path = feedstocks/brunsli
+	branch = refs/heads/master
