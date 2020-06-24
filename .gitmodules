@@ -40206,3 +40206,7 @@
 	url = https://github.com/conda-forge/wxwidgets-feedstock.git
 	path = feedstocks/wxwidgets
 	branch = refs/heads/master
+[submodule "googledrivedownloader"]
+	url = https://github.com/conda-forge/googledrivedownloader-feedstock.git
+	path = feedstocks/googledrivedownloader
+	branch = refs/heads/master
