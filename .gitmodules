@@ -40290,3 +40290,7 @@
 	url = https://github.com/conda-forge/terracotta-feedstock.git
 	path = feedstocks/terracotta
 	branch = refs/heads/master
+[submodule "swmm"]
+	url = https://github.com/conda-forge/swmm-feedstock.git
+	path = feedstocks/swmm
+	branch = refs/heads/master
