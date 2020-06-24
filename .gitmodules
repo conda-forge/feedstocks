@@ -40286,3 +40286,7 @@
 	url = https://github.com/conda-forge/hkl-feedstock.git
 	path = feedstocks/hkl
 	branch = refs/heads/master
+[submodule "terracotta"]
+	url = https://github.com/conda-forge/terracotta-feedstock.git
+	path = feedstocks/terracotta
+	branch = refs/heads/master
