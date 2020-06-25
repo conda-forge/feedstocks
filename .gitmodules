@@ -40314,3 +40314,7 @@
 	url = https://github.com/conda-forge/sidetable-feedstock.git
 	path = feedstocks/sidetable
 	branch = refs/heads/master
+[submodule "clisops"]
+	url = https://github.com/conda-forge/clisops-feedstock.git
+	path = feedstocks/clisops
+	branch = refs/heads/master
