@@ -40318,3 +40318,7 @@
 	url = https://github.com/conda-forge/clisops-feedstock.git
 	path = feedstocks/clisops
 	branch = refs/heads/master
+[submodule "coverage-badge"]
+	url = https://github.com/conda-forge/coverage-badge-feedstock.git
+	path = feedstocks/coverage-badge
+	branch = refs/heads/master
