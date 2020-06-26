@@ -40362,3 +40362,7 @@
 	url = https://github.com/conda-forge/r-qtl2-feedstock.git
 	path = feedstocks/r-qtl2
 	branch = refs/heads/master
+[submodule "r-semnetdictionaries"]
+	url = https://github.com/conda-forge/r-semnetdictionaries-feedstock.git
+	path = feedstocks/r-semnetdictionaries
+	branch = refs/heads/master
