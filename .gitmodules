@@ -40330,3 +40330,7 @@
 	url = https://github.com/conda-forge/mcculw-feedstock.git
 	path = feedstocks/mcculw
 	branch = refs/heads/master
+[submodule "argopy"]
+	url = https://github.com/conda-forge/argopy-feedstock.git
+	path = feedstocks/argopy
+	branch = refs/heads/master
