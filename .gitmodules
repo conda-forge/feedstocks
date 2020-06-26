@@ -40342,3 +40342,7 @@
 	url = https://github.com/conda-forge/rpm-tools-feedstock.git
 	path = feedstocks/rpm-tools
 	branch = refs/heads/master
+[submodule "r-reutils"]
+	url = https://github.com/conda-forge/r-reutils-feedstock.git
+	path = feedstocks/r-reutils
+	branch = refs/heads/master
