@@ -40338,3 +40338,7 @@
 	url = https://github.com/conda-forge/jupyter_to_medium-feedstock.git
 	path = feedstocks/jupyter_to_medium
 	branch = refs/heads/master
+[submodule "rpm-tools"]
+	url = https://github.com/conda-forge/rpm-tools-feedstock.git
+	path = feedstocks/rpm-tools
+	branch = refs/heads/master
