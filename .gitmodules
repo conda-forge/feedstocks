@@ -40374,3 +40374,7 @@
 	url = https://github.com/conda-forge/r-pubmedwordcloud-feedstock.git
 	path = feedstocks/r-pubmedwordcloud
 	branch = refs/heads/master
+[submodule "libmodulemd"]
+	url = https://github.com/conda-forge/libmodulemd-feedstock.git
+	path = feedstocks/libmodulemd
+	branch = refs/heads/master
