@@ -40334,3 +40334,7 @@
 	url = https://github.com/conda-forge/argopy-feedstock.git
 	path = feedstocks/argopy
 	branch = refs/heads/master
+[submodule "jupyter_to_medium"]
+	url = https://github.com/conda-forge/jupyter_to_medium-feedstock.git
+	path = feedstocks/jupyter_to_medium
+	branch = refs/heads/master
