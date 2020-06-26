@@ -40346,3 +40346,7 @@
 	url = https://github.com/conda-forge/r-reutils-feedstock.git
 	path = feedstocks/r-reutils
 	branch = refs/heads/master
+[submodule "r-predictmeans"]
+	url = https://github.com/conda-forge/r-predictmeans-feedstock.git
+	path = feedstocks/r-predictmeans
+	branch = refs/heads/master
