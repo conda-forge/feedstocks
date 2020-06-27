@@ -40402,3 +40402,7 @@
 	url = https://github.com/conda-forge/stitchm-feedstock.git
 	path = feedstocks/stitchm
 	branch = refs/heads/master
+[submodule "omexml-dls"]
+	url = https://github.com/conda-forge/omexml-dls-feedstock.git
+	path = feedstocks/omexml-dls
+	branch = refs/heads/master
