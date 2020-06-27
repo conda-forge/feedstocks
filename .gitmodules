@@ -40410,3 +40410,7 @@
 	url = https://github.com/conda-forge/keras-resnet-feedstock.git
 	path = feedstocks/keras-resnet
 	branch = refs/heads/master
+[submodule "pyprobe"]
+	url = https://github.com/conda-forge/pyprobe-feedstock.git
+	path = feedstocks/pyprobe
+	branch = refs/heads/master
