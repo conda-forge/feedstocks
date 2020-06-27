@@ -40386,3 +40386,7 @@
 	url = https://github.com/conda-forge/nordugrid-arc-feedstock.git
 	path = feedstocks/nordugrid-arc
 	branch = refs/heads/master
+[submodule "r-pubmed.miner"]
+	url = https://github.com/conda-forge/r-pubmed.miner-feedstock.git
+	path = feedstocks/r-pubmed.miner
+	branch = refs/heads/master
