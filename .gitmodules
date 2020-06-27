@@ -40406,3 +40406,7 @@
 	url = https://github.com/conda-forge/omexml-dls-feedstock.git
 	path = feedstocks/omexml-dls
 	branch = refs/heads/master
+[submodule "keras-resnet"]
+	url = https://github.com/conda-forge/keras-resnet-feedstock.git
+	path = feedstocks/keras-resnet
+	branch = refs/heads/master
