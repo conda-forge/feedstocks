@@ -40422,3 +40422,7 @@
 	url = https://github.com/conda-forge/createrepo_c-feedstock.git
 	path = feedstocks/createrepo_c
 	branch = refs/heads/master
+[submodule "mysql-python"]
+	url = https://github.com/conda-forge/mysql-python-feedstock.git
+	path = feedstocks/mysql-python
+	branch = refs/heads/master
