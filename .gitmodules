@@ -40426,3 +40426,7 @@
 	url = https://github.com/conda-forge/mysql-python-feedstock.git
 	path = feedstocks/mysql-python
 	branch = refs/heads/master
+[submodule "evtgen"]
+	url = https://github.com/conda-forge/evtgen-feedstock.git
+	path = feedstocks/evtgen
+	branch = refs/heads/master
