@@ -40418,3 +40418,7 @@
 	url = https://github.com/conda-forge/r-grobblr-feedstock.git
 	path = feedstocks/r-grobblr
 	branch = refs/heads/master
+[submodule "createrepo_c"]
+	url = https://github.com/conda-forge/createrepo_c-feedstock.git
+	path = feedstocks/createrepo_c
+	branch = refs/heads/master
