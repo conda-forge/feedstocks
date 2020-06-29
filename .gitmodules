@@ -40442,3 +40442,7 @@
 	url = https://github.com/conda-forge/dash_colorscales-feedstock.git
 	path = feedstocks/dash_colorscales
 	branch = refs/heads/master
+[submodule "pyilluminate"]
+	url = https://github.com/conda-forge/pyilluminate-feedstock.git
+	path = feedstocks/pyilluminate
+	branch = refs/heads/master
