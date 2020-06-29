@@ -40434,3 +40434,7 @@
 	url = https://github.com/conda-forge/chemics-feedstock.git
 	path = feedstocks/chemics
 	branch = refs/heads/master
+[submodule "python-mss"]
+	url = https://github.com/conda-forge/python-mss-feedstock.git
+	path = feedstocks/python-mss
+	branch = refs/heads/master
