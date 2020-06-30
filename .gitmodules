@@ -40454,3 +40454,7 @@
 	url = https://github.com/conda-forge/texlab-feedstock.git
 	path = feedstocks/texlab
 	branch = refs/heads/master
+[submodule "untangle"]
+	url = https://github.com/conda-forge/untangle-feedstock.git
+	path = feedstocks/untangle
+	branch = refs/heads/master
