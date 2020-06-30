@@ -40458,3 +40458,7 @@
 	url = https://github.com/conda-forge/untangle-feedstock.git
 	path = feedstocks/untangle
 	branch = refs/heads/master
+[submodule "coiled"]
+	url = https://github.com/conda-forge/coiled-feedstock.git
+	path = feedstocks/coiled
+	branch = refs/heads/master
