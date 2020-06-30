@@ -40450,3 +40450,7 @@
 	url = https://github.com/conda-forge/pyrosm-feedstock.git
 	path = feedstocks/pyrosm
 	branch = refs/heads/master
+[submodule "texlab"]
+	url = https://github.com/conda-forge/texlab-feedstock.git
+	path = feedstocks/texlab
+	branch = refs/heads/master
