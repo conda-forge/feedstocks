@@ -40462,3 +40462,7 @@
 	url = https://github.com/conda-forge/coiled-feedstock.git
 	path = feedstocks/coiled
 	branch = refs/heads/master
+[submodule "r-gwidgets2"]
+	url = https://github.com/conda-forge/r-gwidgets2-feedstock.git
+	path = feedstocks/r-gwidgets2
+	branch = refs/heads/master
