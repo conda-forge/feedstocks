@@ -40478,3 +40478,7 @@
 	url = https://github.com/conda-forge/jupytab-feedstock.git
 	path = feedstocks/jupytab
 	branch = refs/heads/master
+[submodule "xcube-cds"]
+	url = https://github.com/conda-forge/xcube-cds-feedstock.git
+	path = feedstocks/xcube-cds
+	branch = refs/heads/master
