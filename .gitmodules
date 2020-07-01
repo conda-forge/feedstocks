@@ -40470,3 +40470,7 @@
 	url = https://github.com/conda-forge/astpretty-feedstock.git
 	path = feedstocks/astpretty
 	branch = refs/heads/master
+[submodule "molsets"]
+	url = https://github.com/conda-forge/molsets-feedstock.git
+	path = feedstocks/molsets
+	branch = refs/heads/master
