@@ -40474,3 +40474,7 @@
 	url = https://github.com/conda-forge/molsets-feedstock.git
 	path = feedstocks/molsets
 	branch = refs/heads/master
+[submodule "jupytab"]
+	url = https://github.com/conda-forge/jupytab-feedstock.git
+	path = feedstocks/jupytab
+	branch = refs/heads/master
