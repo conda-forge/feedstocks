@@ -40482,3 +40482,7 @@
 	url = https://github.com/conda-forge/xcube-cds-feedstock.git
 	path = feedstocks/xcube-cds
 	branch = refs/heads/master
+[submodule "pyvistaqt"]
+	url = https://github.com/conda-forge/pyvistaqt-feedstock.git
+	path = feedstocks/pyvistaqt
+	branch = refs/heads/master
