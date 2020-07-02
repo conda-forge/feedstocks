@@ -40546,3 +40546,7 @@
 	url = https://github.com/conda-forge/r-qgam-feedstock.git
 	path = feedstocks/r-qgam
 	branch = refs/heads/master
+[submodule "rstcheck"]
+	url = https://github.com/conda-forge/rstcheck-feedstock.git
+	path = feedstocks/rstcheck
+	branch = refs/heads/master
