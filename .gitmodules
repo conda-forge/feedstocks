@@ -40498,3 +40498,7 @@
 	url = https://github.com/conda-forge/rio-tiler-feedstock.git
 	path = feedstocks/rio-tiler
 	branch = refs/heads/master
+[submodule "rio-toa"]
+	url = https://github.com/conda-forge/rio-toa-feedstock.git
+	path = feedstocks/rio-toa
+	branch = refs/heads/master
