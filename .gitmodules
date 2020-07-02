@@ -40526,3 +40526,7 @@
 	url = https://github.com/conda-forge/itemadapter-feedstock.git
 	path = feedstocks/itemadapter
 	branch = refs/heads/master
+[submodule "libtvm"]
+	url = https://github.com/conda-forge/libtvm-feedstock.git
+	path = feedstocks/libtvm
+	branch = refs/heads/master
