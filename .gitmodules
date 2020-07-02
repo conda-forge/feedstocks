@@ -40538,3 +40538,7 @@
 	url = https://github.com/conda-forge/jupytab-server-feedstock.git
 	path = feedstocks/jupytab-server
 	branch = refs/heads/master
+[submodule "r-dharma"]
+	url = https://github.com/conda-forge/r-dharma-feedstock.git
+	path = feedstocks/r-dharma
+	branch = refs/heads/master
