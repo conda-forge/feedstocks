@@ -40510,3 +40510,7 @@
 	url = https://github.com/conda-forge/locustio-feedstock.git
 	path = feedstocks/locustio
 	branch = refs/heads/master
+[submodule "sunode"]
+	url = https://github.com/conda-forge/sunode-feedstock.git
+	path = feedstocks/sunode
+	branch = refs/heads/master
