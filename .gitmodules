@@ -40530,3 +40530,7 @@
 	url = https://github.com/conda-forge/libtvm-feedstock.git
 	path = feedstocks/libtvm
 	branch = refs/heads/master
+[submodule "pgure-svt"]
+	url = https://github.com/conda-forge/pgure-svt-feedstock.git
+	path = feedstocks/pgure-svt
+	branch = refs/heads/master
