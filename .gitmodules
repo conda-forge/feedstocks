@@ -40506,3 +40506,7 @@
 	url = https://github.com/conda-forge/hcrystalball-feedstock.git
 	path = feedstocks/hcrystalball
 	branch = refs/heads/master
+[submodule "locustio"]
+	url = https://github.com/conda-forge/locustio-feedstock.git
+	path = feedstocks/locustio
+	branch = refs/heads/master
