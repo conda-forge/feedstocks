@@ -40534,3 +40534,7 @@
 	url = https://github.com/conda-forge/pgure-svt-feedstock.git
 	path = feedstocks/pgure-svt
 	branch = refs/heads/master
+[submodule "jupytab-server"]
+	url = https://github.com/conda-forge/jupytab-server-feedstock.git
+	path = feedstocks/jupytab-server
+	branch = refs/heads/master
