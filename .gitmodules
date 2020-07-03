@@ -40558,3 +40558,7 @@
 	url = https://github.com/conda-forge/pyflyby-feedstock.git
 	path = feedstocks/pyflyby
 	branch = refs/heads/master
+[submodule "nnvm"]
+	url = https://github.com/conda-forge/nnvm-feedstock.git
+	path = feedstocks/nnvm
+	branch = refs/heads/master
