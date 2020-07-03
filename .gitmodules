@@ -40550,3 +40550,7 @@
 	url = https://github.com/conda-forge/rstcheck-feedstock.git
 	path = feedstocks/rstcheck
 	branch = refs/heads/master
+[submodule "pyadi-iio"]
+	url = https://github.com/conda-forge/pyadi-iio-feedstock.git
+	path = feedstocks/pyadi-iio
+	branch = refs/heads/master
