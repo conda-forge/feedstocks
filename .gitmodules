@@ -40566,3 +40566,7 @@
 	url = https://github.com/conda-forge/gtdb_validation_tk-feedstock.git
 	path = feedstocks/gtdb_validation_tk
 	branch = refs/heads/master
+[submodule "satmad"]
+	url = https://github.com/conda-forge/satmad-feedstock.git
+	path = feedstocks/satmad
+	branch = refs/heads/master
