@@ -40562,3 +40562,7 @@
 	url = https://github.com/conda-forge/nnvm-feedstock.git
 	path = feedstocks/nnvm
 	branch = refs/heads/master
+[submodule "gtdb_validation_tk"]
+	url = https://github.com/conda-forge/gtdb_validation_tk-feedstock.git
+	path = feedstocks/gtdb_validation_tk
+	branch = refs/heads/master
