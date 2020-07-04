@@ -40574,3 +40574,7 @@
 	url = https://github.com/conda-forge/faerun-feedstock.git
 	path = feedstocks/faerun
 	branch = refs/heads/master
+[submodule "r-zoib"]
+	url = https://github.com/conda-forge/r-zoib-feedstock.git
+	path = feedstocks/r-zoib
+	branch = refs/heads/master
