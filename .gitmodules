@@ -40606,3 +40606,7 @@
 	url = https://github.com/conda-forge/plotlydash-tornado-cmd-feedstock.git
 	path = feedstocks/plotlydash-tornado-cmd
 	branch = refs/heads/master
+[submodule "bokeh-root-cmd"]
+	url = https://github.com/conda-forge/bokeh-root-cmd-feedstock.git
+	path = feedstocks/bokeh-root-cmd
+	branch = refs/heads/master
