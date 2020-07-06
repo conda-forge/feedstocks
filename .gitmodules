@@ -40590,3 +40590,7 @@
 	url = https://github.com/conda-forge/pvcaptest-feedstock.git
 	path = feedstocks/pvcaptest
 	branch = refs/heads/master
+[submodule "paramspace"]
+	url = https://github.com/conda-forge/paramspace-feedstock.git
+	path = feedstocks/paramspace
+	branch = refs/heads/master
