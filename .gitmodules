@@ -40610,3 +40610,7 @@
 	url = https://github.com/conda-forge/bokeh-root-cmd-feedstock.git
 	path = feedstocks/bokeh-root-cmd
 	branch = refs/heads/master
+[submodule "uptime"]
+	url = https://github.com/conda-forge/uptime-feedstock.git
+	path = feedstocks/uptime
+	branch = refs/heads/master
