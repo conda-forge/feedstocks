@@ -40622,3 +40622,7 @@
 	url = https://github.com/conda-forge/r-httpcache-feedstock.git
 	path = feedstocks/r-httpcache
 	branch = refs/heads/master
+[submodule "r-cobalt"]
+	url = https://github.com/conda-forge/r-cobalt-feedstock.git
+	path = feedstocks/r-cobalt
+	branch = refs/heads/master
