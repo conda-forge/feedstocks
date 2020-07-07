@@ -40634,3 +40634,7 @@
 	url = https://github.com/conda-forge/yaqd-fakes-feedstock.git
 	path = feedstocks/yaqd-fakes
 	branch = refs/heads/master
+[submodule "yaqd-system-monitor"]
+	url = https://github.com/conda-forge/yaqd-system-monitor-feedstock.git
+	path = feedstocks/yaqd-system-monitor
+	branch = refs/heads/master
