@@ -40618,3 +40618,7 @@
 	url = https://github.com/conda-forge/opencensus-context-feedstock.git
 	path = feedstocks/opencensus-context
 	branch = refs/heads/master
+[submodule "r-httpcache"]
+	url = https://github.com/conda-forge/r-httpcache-feedstock.git
+	path = feedstocks/r-httpcache
+	branch = refs/heads/master
