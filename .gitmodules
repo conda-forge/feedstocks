@@ -40626,3 +40626,7 @@
 	url = https://github.com/conda-forge/r-cobalt-feedstock.git
 	path = feedstocks/r-cobalt
 	branch = refs/heads/master
+[submodule "qnorm"]
+	url = https://github.com/conda-forge/qnorm-feedstock.git
+	path = feedstocks/qnorm
+	branch = refs/heads/master
