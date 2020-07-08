@@ -40638,3 +40638,7 @@
 	url = https://github.com/conda-forge/yaqd-system-monitor-feedstock.git
 	path = feedstocks/yaqd-system-monitor
 	branch = refs/heads/master
+[submodule "restinstance"]
+	url = https://github.com/conda-forge/restinstance-feedstock.git
+	path = feedstocks/restinstance
+	branch = refs/heads/master
