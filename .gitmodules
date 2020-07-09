@@ -40662,3 +40662,7 @@
 	url = https://github.com/conda-forge/py4dstem-feedstock.git
 	path = feedstocks/py4dstem
 	branch = refs/heads/master
+[submodule "esmtools"]
+	url = https://github.com/conda-forge/esmtools-feedstock.git
+	path = feedstocks/esmtools
+	branch = refs/heads/master
