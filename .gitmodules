@@ -40670,3 +40670,7 @@
 	url = https://github.com/conda-forge/dantro-feedstock.git
 	path = feedstocks/dantro
 	branch = refs/heads/master
+[submodule "opencensus"]
+	url = https://github.com/conda-forge/opencensus-feedstock.git
+	path = feedstocks/opencensus
+	branch = refs/heads/master
