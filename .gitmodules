@@ -40654,3 +40654,7 @@
 	url = https://github.com/conda-forge/git-pull-request-feedstock.git
 	path = feedstocks/git-pull-request
 	branch = refs/heads/master
+[submodule "daiquiri"]
+	url = https://github.com/conda-forge/daiquiri-feedstock.git
+	path = feedstocks/daiquiri
+	branch = refs/heads/master
