@@ -40702,3 +40702,7 @@
 	url = https://github.com/conda-forge/nlohmann_fifo_map-feedstock.git
 	path = feedstocks/nlohmann_fifo_map
 	branch = refs/heads/master
+[submodule "pytest-localftpserver"]
+	url = https://github.com/conda-forge/pytest-localftpserver-feedstock.git
+	path = feedstocks/pytest-localftpserver
+	branch = refs/heads/master
