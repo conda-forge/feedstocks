@@ -40694,3 +40694,7 @@
 	url = https://github.com/conda-forge/python-manilaclient-feedstock.git
 	path = feedstocks/python-manilaclient
 	branch = refs/heads/master
+[submodule "sentencepiece"]
+	url = https://github.com/conda-forge/sentencepiece-feedstock.git
+	path = feedstocks/sentencepiece
+	branch = refs/heads/master
