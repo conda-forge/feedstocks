@@ -40650,3 +40650,7 @@
 	url = https://github.com/conda-forge/log-to-json-feedstock.git
 	path = feedstocks/log-to-json
 	branch = refs/heads/master
+[submodule "git-pull-request"]
+	url = https://github.com/conda-forge/git-pull-request-feedstock.git
+	path = feedstocks/git-pull-request
+	branch = refs/heads/master
