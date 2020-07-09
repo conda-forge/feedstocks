@@ -40690,3 +40690,7 @@
 	url = https://github.com/conda-forge/yaq-traits-feedstock.git
 	path = feedstocks/yaq-traits
 	branch = refs/heads/master
+[submodule "python-manilaclient"]
+	url = https://github.com/conda-forge/python-manilaclient-feedstock.git
+	path = feedstocks/python-manilaclient
+	branch = refs/heads/master
