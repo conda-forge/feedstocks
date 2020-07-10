@@ -40726,3 +40726,7 @@
 	url = https://github.com/conda-forge/r-conquer-feedstock.git
 	path = feedstocks/r-conquer
 	branch = refs/heads/master
+[submodule "compressed-rtf"]
+	url = https://github.com/conda-forge/compressed-rtf-feedstock.git
+	path = feedstocks/compressed-rtf
+	branch = refs/heads/master
