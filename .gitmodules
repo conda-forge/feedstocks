@@ -40710,3 +40710,7 @@
 	url = https://github.com/conda-forge/opencensus-ext-azure-feedstock.git
 	path = feedstocks/opencensus-ext-azure
 	branch = refs/heads/master
+[submodule "cdsutils"]
+	url = https://github.com/conda-forge/cdsutils-feedstock.git
+	path = feedstocks/cdsutils
+	branch = refs/heads/master
