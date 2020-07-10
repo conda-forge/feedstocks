@@ -40718,3 +40718,7 @@
 	url = https://github.com/conda-forge/r-raters-feedstock.git
 	path = feedstocks/r-raters
 	branch = refs/heads/master
+[submodule "rich"]
+	url = https://github.com/conda-forge/rich-feedstock.git
+	path = feedstocks/rich
+	branch = refs/heads/master
