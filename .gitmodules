@@ -40734,3 +40734,7 @@
 	url = https://github.com/conda-forge/docstring_parser-feedstock.git
 	path = feedstocks/docstring_parser
 	branch = refs/heads/master
+[submodule "r-exact"]
+	url = https://github.com/conda-forge/r-exact-feedstock.git
+	path = feedstocks/r-exact
+	branch = refs/heads/master
