@@ -40730,3 +40730,7 @@
 	url = https://github.com/conda-forge/compressed-rtf-feedstock.git
 	path = feedstocks/compressed-rtf
 	branch = refs/heads/master
+[submodule "docstring_parser"]
+	url = https://github.com/conda-forge/docstring_parser-feedstock.git
+	path = feedstocks/docstring_parser
+	branch = refs/heads/master
