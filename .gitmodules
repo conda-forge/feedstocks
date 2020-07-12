@@ -40742,3 +40742,7 @@
 	url = https://github.com/conda-forge/multiprocessing-logging-feedstock.git
 	path = feedstocks/multiprocessing-logging
 	branch = refs/heads/master
+[submodule "iniconfig"]
+	url = https://github.com/conda-forge/iniconfig-feedstock.git
+	path = feedstocks/iniconfig
+	branch = refs/heads/master
