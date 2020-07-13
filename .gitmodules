@@ -40754,3 +40754,7 @@
 	url = https://github.com/conda-forge/r-table1-feedstock.git
 	path = feedstocks/r-table1
 	branch = refs/heads/master
+[submodule "r-dbarts"]
+	url = https://github.com/conda-forge/r-dbarts-feedstock.git
+	path = feedstocks/r-dbarts
+	branch = refs/heads/master
