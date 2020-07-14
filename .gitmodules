@@ -40786,3 +40786,7 @@
 	url = https://github.com/conda-forge/quetz-feedstock.git
 	path = feedstocks/quetz
 	branch = refs/heads/master
+[submodule "pysmb"]
+	url = https://github.com/conda-forge/pysmb-feedstock.git
+	path = feedstocks/pysmb
+	branch = refs/heads/master
