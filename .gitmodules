@@ -40802,3 +40802,7 @@
 	url = https://github.com/conda-forge/quetz-frontend-feedstock.git
 	path = feedstocks/quetz-frontend
 	branch = refs/heads/master
+[submodule "r-npflow"]
+	url = https://github.com/conda-forge/r-npflow-feedstock.git
+	path = feedstocks/r-npflow
+	branch = refs/heads/master
