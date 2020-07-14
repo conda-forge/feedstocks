@@ -40770,3 +40770,7 @@
 	url = https://github.com/conda-forge/r-ggquickeda-feedstock.git
 	path = feedstocks/r-ggquickeda
 	branch = refs/heads/master
+[submodule "r-ncvreg"]
+	url = https://github.com/conda-forge/r-ncvreg-feedstock.git
+	path = feedstocks/r-ncvreg
+	branch = refs/heads/master
