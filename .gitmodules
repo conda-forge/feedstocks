@@ -40798,3 +40798,7 @@
 	url = https://github.com/conda-forge/spatialpandas-feedstock.git
 	path = feedstocks/spatialpandas
 	branch = refs/heads/master
+[submodule "quetz-frontend"]
+	url = https://github.com/conda-forge/quetz-frontend-feedstock.git
+	path = feedstocks/quetz-frontend
+	branch = refs/heads/master
