@@ -40806,3 +40806,7 @@
 	url = https://github.com/conda-forge/r-npflow-feedstock.git
 	path = feedstocks/r-npflow
 	branch = refs/heads/master
+[submodule "mimesis"]
+	url = https://github.com/conda-forge/mimesis-feedstock.git
+	path = feedstocks/mimesis
+	branch = refs/heads/master
