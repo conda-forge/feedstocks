@@ -40810,3 +40810,7 @@
 	url = https://github.com/conda-forge/mimesis-feedstock.git
 	path = feedstocks/mimesis
 	branch = refs/heads/master
+[submodule "neurodsp"]
+	url = https://github.com/conda-forge/neurodsp-feedstock.git
+	path = feedstocks/neurodsp
+	branch = refs/heads/master
