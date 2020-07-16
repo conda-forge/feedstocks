@@ -40830,3 +40830,7 @@
 	url = https://github.com/conda-forge/quetz-client-feedstock.git
 	path = feedstocks/quetz-client
 	branch = refs/heads/master
+[submodule "blacken-docs"]
+	url = https://github.com/conda-forge/blacken-docs-feedstock.git
+	path = feedstocks/blacken-docs
+	branch = refs/heads/master
