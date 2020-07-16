@@ -40846,3 +40846,7 @@
 	url = https://github.com/conda-forge/flashtext-feedstock.git
 	path = feedstocks/flashtext
 	branch = refs/heads/master
+[submodule "cfg-cli"]
+	url = https://github.com/conda-forge/cfg-cli-feedstock.git
+	path = feedstocks/cfg-cli
+	branch = refs/heads/master
