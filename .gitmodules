@@ -40834,3 +40834,7 @@
 	url = https://github.com/conda-forge/blacken-docs-feedstock.git
 	path = feedstocks/blacken-docs
 	branch = refs/heads/master
+[submodule "robotframework-requests"]
+	url = https://github.com/conda-forge/robotframework-requests-feedstock.git
+	path = feedstocks/robotframework-requests
+	branch = refs/heads/master
