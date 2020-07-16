@@ -40826,3 +40826,7 @@
 	url = https://github.com/conda-forge/r-nimble-feedstock.git
 	path = feedstocks/r-nimble
 	branch = refs/heads/master
+[submodule "quetz-client"]
+	url = https://github.com/conda-forge/quetz-client-feedstock.git
+	path = feedstocks/quetz-client
+	branch = refs/heads/master
