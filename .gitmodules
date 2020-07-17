@@ -40854,3 +40854,7 @@
 	url = https://github.com/conda-forge/rosco-feedstock.git
 	path = feedstocks/rosco
 	branch = refs/heads/master
+[submodule "emmental"]
+	url = https://github.com/conda-forge/emmental-feedstock.git
+	path = feedstocks/emmental
+	branch = refs/heads/master
