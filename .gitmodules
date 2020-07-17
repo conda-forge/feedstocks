@@ -40866,3 +40866,7 @@
 	url = https://github.com/conda-forge/r-wemix-feedstock.git
 	path = feedstocks/r-wemix
 	branch = refs/heads/master
+[submodule "mir_eval"]
+	url = https://github.com/conda-forge/mir_eval-feedstock.git
+	path = feedstocks/mir_eval
+	branch = refs/heads/master
