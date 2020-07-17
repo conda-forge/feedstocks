@@ -40874,3 +40874,7 @@
 	url = https://github.com/conda-forge/boa-feedstock.git
 	path = feedstocks/boa
 	branch = refs/heads/master
+[submodule "rt-eqcorrscan"]
+	url = https://github.com/conda-forge/rt-eqcorrscan-feedstock.git
+	path = feedstocks/rt-eqcorrscan
+	branch = refs/heads/master
