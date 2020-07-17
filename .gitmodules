@@ -40858,3 +40858,7 @@
 	url = https://github.com/conda-forge/emmental-feedstock.git
 	path = feedstocks/emmental
 	branch = refs/heads/master
+[submodule "treedlib"]
+	url = https://github.com/conda-forge/treedlib-feedstock.git
+	path = feedstocks/treedlib
+	branch = refs/heads/master
