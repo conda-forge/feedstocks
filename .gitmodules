@@ -40850,3 +40850,7 @@
 	url = https://github.com/conda-forge/cfg-cli-feedstock.git
 	path = feedstocks/cfg-cli
 	branch = refs/heads/master
+[submodule "rosco"]
+	url = https://github.com/conda-forge/rosco-feedstock.git
+	path = feedstocks/rosco
+	branch = refs/heads/master
