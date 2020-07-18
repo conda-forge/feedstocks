@@ -40882,3 +40882,7 @@
 	url = https://github.com/conda-forge/r-coveffectsplot-feedstock.git
 	path = feedstocks/r-coveffectsplot
 	branch = refs/heads/master
+[submodule "robustness"]
+	url = https://github.com/conda-forge/robustness-feedstock.git
+	path = feedstocks/robustness
+	branch = refs/heads/master
