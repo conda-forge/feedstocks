@@ -40894,3 +40894,7 @@
 	url = https://github.com/conda-forge/timm-feedstock.git
 	path = feedstocks/timm
 	branch = refs/heads/master
+[submodule "flask-restful-swagger"]
+	url = https://github.com/conda-forge/flask-restful-swagger-feedstock.git
+	path = feedstocks/flask-restful-swagger
+	branch = refs/heads/master
