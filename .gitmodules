@@ -40890,3 +40890,7 @@
 	url = https://github.com/conda-forge/cox-feedstock.git
 	path = feedstocks/cox
 	branch = refs/heads/master
+[submodule "timm"]
+	url = https://github.com/conda-forge/timm-feedstock.git
+	path = feedstocks/timm
+	branch = refs/heads/master
