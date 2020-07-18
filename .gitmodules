@@ -40886,3 +40886,7 @@
 	url = https://github.com/conda-forge/robustness-feedstock.git
 	path = feedstocks/robustness
 	branch = refs/heads/master
+[submodule "cox"]
+	url = https://github.com/conda-forge/cox-feedstock.git
+	path = feedstocks/cox
+	branch = refs/heads/master
