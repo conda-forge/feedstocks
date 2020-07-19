@@ -40910,3 +40910,7 @@
 	url = https://github.com/conda-forge/django-celery-beat-feedstock.git
 	path = feedstocks/django-celery-beat
 	branch = refs/heads/master
+[submodule "django-celery-results"]
+	url = https://github.com/conda-forge/django-celery-results-feedstock.git
+	path = feedstocks/django-celery-results
+	branch = refs/heads/master
