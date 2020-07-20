@@ -40914,3 +40914,7 @@
 	url = https://github.com/conda-forge/django-celery-results-feedstock.git
 	path = feedstocks/django-celery-results
 	branch = refs/heads/master
+[submodule "py3dep"]
+	url = https://github.com/conda-forge/py3dep-feedstock.git
+	path = feedstocks/py3dep
+	branch = refs/heads/master
