@@ -40926,3 +40926,7 @@
 	url = https://github.com/conda-forge/bpemb-feedstock.git
 	path = feedstocks/bpemb
 	branch = refs/heads/master
+[submodule "fonduer"]
+	url = https://github.com/conda-forge/fonduer-feedstock.git
+	path = feedstocks/fonduer
+	branch = refs/heads/master
