@@ -40942,3 +40942,7 @@
 	url = https://github.com/conda-forge/graphbrain-feedstock.git
 	path = feedstocks/graphbrain
 	branch = refs/heads/master
+[submodule "limitcpu"]
+	url = https://github.com/conda-forge/limitcpu-feedstock.git
+	path = feedstocks/limitcpu
+	branch = refs/heads/master
