@@ -40930,3 +40930,7 @@
 	url = https://github.com/conda-forge/fonduer-feedstock.git
 	path = feedstocks/fonduer
 	branch = refs/heads/master
+[submodule "plyvel"]
+	url = https://github.com/conda-forge/plyvel-feedstock.git
+	path = feedstocks/plyvel
+	branch = refs/heads/master
