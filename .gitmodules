@@ -40954,3 +40954,7 @@
 	url = https://github.com/conda-forge/chktex-feedstock.git
 	path = feedstocks/chktex
 	branch = refs/heads/master
+[submodule "agnpy"]
+	url = https://github.com/conda-forge/agnpy-feedstock.git
+	path = feedstocks/agnpy
+	branch = refs/heads/master
