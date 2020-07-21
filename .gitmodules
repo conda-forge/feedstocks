@@ -40950,3 +40950,7 @@
 	url = https://github.com/conda-forge/pytorch-dp-feedstock.git
 	path = feedstocks/pytorch-dp
 	branch = refs/heads/master
+[submodule "chktex"]
+	url = https://github.com/conda-forge/chktex-feedstock.git
+	path = feedstocks/chktex
+	branch = refs/heads/master
