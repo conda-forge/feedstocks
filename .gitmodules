@@ -40970,3 +40970,7 @@
 	url = https://github.com/conda-forge/astroalign-feedstock.git
 	path = feedstocks/astroalign
 	branch = refs/heads/master
+[submodule "hyp3lib"]
+	url = https://github.com/conda-forge/hyp3lib-feedstock.git
+	path = feedstocks/hyp3lib
+	branch = refs/heads/master
