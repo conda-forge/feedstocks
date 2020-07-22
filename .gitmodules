@@ -40982,3 +40982,7 @@
 	url = https://github.com/conda-forge/r-gert-feedstock.git
 	path = feedstocks/r-gert
 	branch = refs/heads/master
+[submodule "r-credentials"]
+	url = https://github.com/conda-forge/r-credentials-feedstock.git
+	path = feedstocks/r-credentials
+	branch = refs/heads/master
