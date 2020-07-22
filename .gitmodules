@@ -40990,3 +40990,7 @@
 	url = https://github.com/conda-forge/email-validator-feedstock.git
 	path = feedstocks/email-validator
 	branch = refs/heads/master
+[submodule "pygeoutils"]
+	url = https://github.com/conda-forge/pygeoutils-feedstock.git
+	path = feedstocks/pygeoutils
+	branch = refs/heads/master
