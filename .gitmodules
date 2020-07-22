@@ -40998,3 +40998,7 @@
 	url = https://github.com/conda-forge/pypeln-feedstock.git
 	path = feedstocks/pypeln
 	branch = refs/heads/master
+[submodule "google-crc32c"]
+	url = https://github.com/conda-forge/google-crc32c-feedstock.git
+	path = feedstocks/google-crc32c
+	branch = refs/heads/master
