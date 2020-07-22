@@ -40986,3 +40986,7 @@
 	url = https://github.com/conda-forge/r-credentials-feedstock.git
 	path = feedstocks/r-credentials
 	branch = refs/heads/master
+[submodule "email-validator"]
+	url = https://github.com/conda-forge/email-validator-feedstock.git
+	path = feedstocks/email-validator
+	branch = refs/heads/master
