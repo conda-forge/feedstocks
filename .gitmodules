@@ -40978,3 +40978,7 @@
 	url = https://github.com/conda-forge/r-umx-feedstock.git
 	path = feedstocks/r-umx
 	branch = refs/heads/master
+[submodule "r-gert"]
+	url = https://github.com/conda-forge/r-gert-feedstock.git
+	path = feedstocks/r-gert
+	branch = refs/heads/master
