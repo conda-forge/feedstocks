@@ -41026,3 +41026,7 @@
 	url = https://github.com/conda-forge/r-nabor-feedstock.git
 	path = feedstocks/r-nabor
 	branch = refs/heads/master
+[submodule "r-clinfun"]
+	url = https://github.com/conda-forge/r-clinfun-feedstock.git
+	path = feedstocks/r-clinfun
+	branch = refs/heads/master
