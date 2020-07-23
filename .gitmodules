@@ -41030,3 +41030,7 @@
 	url = https://github.com/conda-forge/r-clinfun-feedstock.git
 	path = feedstocks/r-clinfun
 	branch = refs/heads/master
+[submodule "r-cpp11"]
+	url = https://github.com/conda-forge/r-cpp11-feedstock.git
+	path = feedstocks/r-cpp11
+	branch = refs/heads/master
