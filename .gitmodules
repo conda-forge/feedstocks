@@ -41006,3 +41006,7 @@
 	url = https://github.com/conda-forge/r-ssh-feedstock.git
 	path = feedstocks/r-ssh
 	branch = refs/heads/master
+[submodule "three-merge"]
+	url = https://github.com/conda-forge/three-merge-feedstock.git
+	path = feedstocks/three-merge
+	branch = refs/heads/master
