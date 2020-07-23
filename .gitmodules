@@ -41010,3 +41010,7 @@
 	url = https://github.com/conda-forge/three-merge-feedstock.git
 	path = feedstocks/three-merge
 	branch = refs/heads/master
+[submodule "xarray-spatial"]
+	url = https://github.com/conda-forge/xarray-spatial-feedstock.git
+	path = feedstocks/xarray-spatial
+	branch = refs/heads/master
