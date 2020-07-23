@@ -41022,3 +41022,7 @@
 	url = https://github.com/conda-forge/r-pma-feedstock.git
 	path = feedstocks/r-pma
 	branch = refs/heads/master
+[submodule "r-nabor"]
+	url = https://github.com/conda-forge/r-nabor-feedstock.git
+	path = feedstocks/r-nabor
+	branch = refs/heads/master
