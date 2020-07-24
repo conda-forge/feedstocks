@@ -41086,3 +41086,7 @@
 	url = https://github.com/conda-forge/dftbplus-feedstock.git
 	path = feedstocks/dftbplus
 	branch = refs/heads/master
+[submodule "mpifx"]
+	url = https://github.com/conda-forge/mpifx-feedstock.git
+	path = feedstocks/mpifx
+	branch = refs/heads/master
