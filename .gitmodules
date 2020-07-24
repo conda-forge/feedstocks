@@ -41102,3 +41102,7 @@
 	url = https://github.com/conda-forge/pyls-black-feedstock.git
 	path = feedstocks/pyls-black
 	branch = refs/heads/master
+[submodule "sbpy"]
+	url = https://github.com/conda-forge/sbpy-feedstock.git
+	path = feedstocks/sbpy
+	branch = refs/heads/master
