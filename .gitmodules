@@ -41110,3 +41110,7 @@
 	url = https://github.com/conda-forge/dftbplus-tools-feedstock.git
 	path = feedstocks/dftbplus-tools
 	branch = refs/heads/master
+[submodule "gdecomp"]
+	url = https://github.com/conda-forge/gdecomp-feedstock.git
+	path = feedstocks/gdecomp
+	branch = refs/heads/master
