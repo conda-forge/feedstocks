@@ -41042,3 +41042,7 @@
 	url = https://github.com/conda-forge/r-semnetcleaner-feedstock.git
 	path = feedstocks/r-semnetcleaner
 	branch = refs/heads/master
+[submodule "pynhd"]
+	url = https://github.com/conda-forge/pynhd-feedstock.git
+	path = feedstocks/pynhd
+	branch = refs/heads/master
