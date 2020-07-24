@@ -41074,3 +41074,7 @@
 	url = https://github.com/conda-forge/adversarial-robustness-toolbox-feedstock.git
 	path = feedstocks/adversarial-robustness-toolbox
 	branch = refs/heads/master
+[submodule "artificial-adversary"]
+	url = https://github.com/conda-forge/artificial-adversary-feedstock.git
+	path = feedstocks/artificial-adversary
+	branch = refs/heads/master
