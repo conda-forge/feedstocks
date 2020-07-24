@@ -41114,3 +41114,7 @@
 	url = https://github.com/conda-forge/gdecomp-feedstock.git
 	path = feedstocks/gdecomp
 	branch = refs/heads/master
+[submodule "r-treebase"]
+	url = https://github.com/conda-forge/r-treebase-feedstock.git
+	path = feedstocks/r-treebase
+	branch = refs/heads/master
