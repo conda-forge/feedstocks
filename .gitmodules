@@ -41078,3 +41078,7 @@
 	url = https://github.com/conda-forge/artificial-adversary-feedstock.git
 	path = feedstocks/artificial-adversary
 	branch = refs/heads/master
+[submodule "mypy-boto3-batch"]
+	url = https://github.com/conda-forge/mypy-boto3-batch-feedstock.git
+	path = feedstocks/mypy-boto3-batch
+	branch = refs/heads/master
