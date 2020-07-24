@@ -41070,3 +41070,7 @@
 	url = https://github.com/conda-forge/dftbplus-python-feedstock.git
 	path = feedstocks/dftbplus-python
 	branch = refs/heads/master
+[submodule "adversarial-robustness-toolbox"]
+	url = https://github.com/conda-forge/adversarial-robustness-toolbox-feedstock.git
+	path = feedstocks/adversarial-robustness-toolbox
+	branch = refs/heads/master
