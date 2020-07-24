@@ -41054,3 +41054,7 @@
 	url = https://github.com/conda-forge/dedalus-feedstock.git
 	path = feedstocks/dedalus
 	branch = refs/heads/master
+[submodule "chemper"]
+	url = https://github.com/conda-forge/chemper-feedstock.git
+	path = feedstocks/chemper
+	branch = refs/heads/master
