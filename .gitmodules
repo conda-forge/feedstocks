@@ -41094,3 +41094,7 @@
 	url = https://github.com/conda-forge/imageai-feedstock.git
 	path = feedstocks/imageai
 	branch = refs/heads/master
+[submodule "mypy-boto3-logs"]
+	url = https://github.com/conda-forge/mypy-boto3-logs-feedstock.git
+	path = feedstocks/mypy-boto3-logs
+	branch = refs/heads/master
