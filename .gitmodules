@@ -41050,3 +41050,7 @@
 	url = https://github.com/conda-forge/pylatex-feedstock.git
 	path = feedstocks/pylatex
 	branch = refs/heads/master
+[submodule "dedalus"]
+	url = https://github.com/conda-forge/dedalus-feedstock.git
+	path = feedstocks/dedalus
+	branch = refs/heads/master
