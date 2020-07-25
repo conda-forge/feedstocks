@@ -41122,3 +41122,7 @@
 	url = https://github.com/conda-forge/r-datapasta-feedstock.git
 	path = feedstocks/r-datapasta
 	branch = refs/heads/master
+[submodule "netcdf-flattener"]
+	url = https://github.com/conda-forge/netcdf-flattener-feedstock.git
+	path = feedstocks/netcdf-flattener
+	branch = refs/heads/master
