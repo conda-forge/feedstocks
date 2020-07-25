@@ -41118,3 +41118,7 @@
 	url = https://github.com/conda-forge/r-treebase-feedstock.git
 	path = feedstocks/r-treebase
 	branch = refs/heads/master
+[submodule "r-datapasta"]
+	url = https://github.com/conda-forge/r-datapasta-feedstock.git
+	path = feedstocks/r-datapasta
+	branch = refs/heads/master
