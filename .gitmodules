@@ -41130,3 +41130,7 @@
 	url = https://github.com/conda-forge/face_recognition_models-feedstock.git
 	path = feedstocks/face_recognition_models
 	branch = refs/heads/master
+[submodule "face_recognition"]
+	url = https://github.com/conda-forge/face_recognition-feedstock.git
+	path = feedstocks/face_recognition
+	branch = refs/heads/master
