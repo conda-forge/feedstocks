@@ -41126,3 +41126,7 @@
 	url = https://github.com/conda-forge/netcdf-flattener-feedstock.git
 	path = feedstocks/netcdf-flattener
 	branch = refs/heads/master
+[submodule "face_recognition_models"]
+	url = https://github.com/conda-forge/face_recognition_models-feedstock.git
+	path = feedstocks/face_recognition_models
+	branch = refs/heads/master
