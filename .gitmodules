@@ -41134,3 +41134,7 @@
 	url = https://github.com/conda-forge/face_recognition-feedstock.git
 	path = feedstocks/face_recognition
 	branch = refs/heads/master
+[submodule "glib-networking"]
+	url = https://github.com/conda-forge/glib-networking-feedstock.git
+	path = feedstocks/glib-networking
+	branch = refs/heads/master
