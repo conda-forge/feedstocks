@@ -41150,3 +41150,7 @@
 	url = https://github.com/conda-forge/ldcpy-feedstock.git
 	path = feedstocks/ldcpy
 	branch = refs/heads/master
+[submodule "websockify"]
+	url = https://github.com/conda-forge/websockify-feedstock.git
+	path = feedstocks/websockify
+	branch = refs/heads/master
