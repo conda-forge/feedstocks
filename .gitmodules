@@ -41146,3 +41146,7 @@
 	url = https://github.com/conda-forge/libpsl-feedstock.git
 	path = feedstocks/libpsl
 	branch = refs/heads/master
+[submodule "ldcpy"]
+	url = https://github.com/conda-forge/ldcpy-feedstock.git
+	path = feedstocks/ldcpy
+	branch = refs/heads/master
