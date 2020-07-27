@@ -41154,3 +41154,7 @@
 	url = https://github.com/conda-forge/websockify-feedstock.git
 	path = feedstocks/websockify
 	branch = refs/heads/master
+[submodule "dataprep"]
+	url = https://github.com/conda-forge/dataprep-feedstock.git
+	path = feedstocks/dataprep
+	branch = refs/heads/master
