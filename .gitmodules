@@ -41170,3 +41170,7 @@
 	url = https://github.com/conda-forge/hmsclient-feedstock.git
 	path = feedstocks/hmsclient
 	branch = refs/heads/master
+[submodule "pydaymet"]
+	url = https://github.com/conda-forge/pydaymet-feedstock.git
+	path = feedstocks/pydaymet
+	branch = refs/heads/master
