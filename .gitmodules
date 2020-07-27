@@ -41162,3 +41162,7 @@
 	url = https://github.com/conda-forge/robotframework-pythonlibcore-feedstock.git
 	path = feedstocks/robotframework-pythonlibcore
 	branch = refs/heads/master
+[submodule "pytest-trio"]
+	url = https://github.com/conda-forge/pytest-trio-feedstock.git
+	path = feedstocks/pytest-trio
+	branch = refs/heads/master
