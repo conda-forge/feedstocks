@@ -41222,3 +41222,7 @@
 	url = https://github.com/conda-forge/wandb-feedstock.git
 	path = feedstocks/wandb
 	branch = refs/heads/master
+[submodule "dataframe_image"]
+	url = https://github.com/conda-forge/dataframe_image-feedstock.git
+	path = feedstocks/dataframe_image
+	branch = refs/heads/master
