@@ -41202,3 +41202,7 @@
 	url = https://github.com/conda-forge/language_tool_python-feedstock.git
 	path = feedstocks/language_tool_python
 	branch = refs/heads/master
+[submodule "textattack"]
+	url = https://github.com/conda-forge/textattack-feedstock.git
+	path = feedstocks/textattack
+	branch = refs/heads/master
