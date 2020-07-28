@@ -41210,3 +41210,7 @@
 	url = https://github.com/conda-forge/sentence-transformers-feedstock.git
 	path = feedstocks/sentence-transformers
 	branch = refs/heads/master
+[submodule "bert_score"]
+	url = https://github.com/conda-forge/bert_score-feedstock.git
+	path = feedstocks/bert_score
+	branch = refs/heads/master
