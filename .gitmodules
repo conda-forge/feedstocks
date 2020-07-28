@@ -41206,3 +41206,7 @@
 	url = https://github.com/conda-forge/textattack-feedstock.git
 	path = feedstocks/textattack
 	branch = refs/heads/master
+[submodule "sentence-transformers"]
+	url = https://github.com/conda-forge/sentence-transformers-feedstock.git
+	path = feedstocks/sentence-transformers
+	branch = refs/heads/master
