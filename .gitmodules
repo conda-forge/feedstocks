@@ -41194,3 +41194,7 @@
 	url = https://github.com/conda-forge/libsoup-feedstock.git
 	path = feedstocks/libsoup
 	branch = refs/heads/master
+[submodule "nlp"]
+	url = https://github.com/conda-forge/nlp-feedstock.git
+	path = feedstocks/nlp
+	branch = refs/heads/master
