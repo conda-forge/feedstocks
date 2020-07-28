@@ -41214,3 +41214,7 @@
 	url = https://github.com/conda-forge/bert_score-feedstock.git
 	path = feedstocks/bert_score
 	branch = refs/heads/master
+[submodule "python-flair"]
+	url = https://github.com/conda-forge/python-flair-feedstock.git
+	path = feedstocks/python-flair
+	branch = refs/heads/master
