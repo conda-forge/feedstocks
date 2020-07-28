@@ -41186,3 +41186,7 @@
 	url = https://github.com/conda-forge/python-stdnum-feedstock.git
 	path = feedstocks/python-stdnum
 	branch = refs/heads/master
+[submodule "karateclub"]
+	url = https://github.com/conda-forge/karateclub-feedstock.git
+	path = feedstocks/karateclub
+	branch = refs/heads/master
