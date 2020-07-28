@@ -41190,3 +41190,7 @@
 	url = https://github.com/conda-forge/karateclub-feedstock.git
 	path = feedstocks/karateclub
 	branch = refs/heads/master
+[submodule "libsoup"]
+	url = https://github.com/conda-forge/libsoup-feedstock.git
+	path = feedstocks/libsoup
+	branch = refs/heads/master
