@@ -41230,3 +41230,7 @@
 	url = https://github.com/conda-forge/lisc-feedstock.git
 	path = feedstocks/lisc
 	branch = refs/heads/master
+[submodule "theano-pymc"]
+	url = https://github.com/conda-forge/theano-pymc-feedstock.git
+	path = feedstocks/theano-pymc
+	branch = refs/heads/master
