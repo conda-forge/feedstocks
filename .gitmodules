@@ -41178,3 +41178,7 @@
 	url = https://github.com/conda-forge/bycycle-feedstock.git
 	path = feedstocks/bycycle
 	branch = refs/heads/master
+[submodule "django-localflavor"]
+	url = https://github.com/conda-forge/django-localflavor-feedstock.git
+	path = feedstocks/django-localflavor
+	branch = refs/heads/master
