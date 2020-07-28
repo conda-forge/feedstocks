@@ -41198,3 +41198,7 @@
 	url = https://github.com/conda-forge/nlp-feedstock.git
 	path = feedstocks/nlp
 	branch = refs/heads/master
+[submodule "language_tool_python"]
+	url = https://github.com/conda-forge/language_tool_python-feedstock.git
+	path = feedstocks/language_tool_python
+	branch = refs/heads/master
