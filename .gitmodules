@@ -41218,3 +41218,7 @@
 	url = https://github.com/conda-forge/python-flair-feedstock.git
 	path = feedstocks/python-flair
 	branch = refs/heads/master
+[submodule "wandb"]
+	url = https://github.com/conda-forge/wandb-feedstock.git
+	path = feedstocks/wandb
+	branch = refs/heads/master
