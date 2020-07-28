@@ -41226,3 +41226,7 @@
 	url = https://github.com/conda-forge/dataframe_image-feedstock.git
 	path = feedstocks/dataframe_image
 	branch = refs/heads/master
+[submodule "lisc"]
+	url = https://github.com/conda-forge/lisc-feedstock.git
+	path = feedstocks/lisc
+	branch = refs/heads/master
