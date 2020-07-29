@@ -41234,3 +41234,7 @@
 	url = https://github.com/conda-forge/theano-pymc-feedstock.git
 	path = feedstocks/theano-pymc
 	branch = refs/heads/master
+[submodule "tilt"]
+	url = https://github.com/conda-forge/tilt-feedstock.git
+	path = feedstocks/tilt
+	branch = refs/heads/master
