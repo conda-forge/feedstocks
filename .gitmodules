@@ -41238,3 +41238,7 @@
 	url = https://github.com/conda-forge/tilt-feedstock.git
 	path = feedstocks/tilt
 	branch = refs/heads/master
+[submodule "batman-package"]
+	url = https://github.com/conda-forge/batman-package-feedstock.git
+	path = feedstocks/batman-package
+	branch = refs/heads/master
