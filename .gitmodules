@@ -41250,3 +41250,7 @@
 	url = https://github.com/conda-forge/doctr-versions-menu-feedstock.git
 	path = feedstocks/doctr-versions-menu
 	branch = refs/heads/master
+[submodule "django-rosetta"]
+	url = https://github.com/conda-forge/django-rosetta-feedstock.git
+	path = feedstocks/django-rosetta
+	branch = refs/heads/master
