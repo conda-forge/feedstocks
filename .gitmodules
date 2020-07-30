@@ -41254,3 +41254,7 @@
 	url = https://github.com/conda-forge/django-rosetta-feedstock.git
 	path = feedstocks/django-rosetta
 	branch = refs/heads/master
+[submodule "altair-transform"]
+	url = https://github.com/conda-forge/altair-transform-feedstock.git
+	path = feedstocks/altair-transform
+	branch = refs/heads/master
