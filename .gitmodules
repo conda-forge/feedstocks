@@ -41278,3 +41278,7 @@
 	url = https://github.com/conda-forge/yaqd-gdrive-feedstock.git
 	path = feedstocks/yaqd-gdrive
 	branch = refs/heads/master
+[submodule "bitsets"]
+	url = https://github.com/conda-forge/bitsets-feedstock.git
+	path = feedstocks/bitsets
+	branch = refs/heads/master
