@@ -41274,3 +41274,7 @@
 	url = https://github.com/conda-forge/yaqd-acton-feedstock.git
 	path = feedstocks/yaqd-acton
 	branch = refs/heads/master
+[submodule "yaqd-gdrive"]
+	url = https://github.com/conda-forge/yaqd-gdrive-feedstock.git
+	path = feedstocks/yaqd-gdrive
+	branch = refs/heads/master
