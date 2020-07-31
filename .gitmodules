@@ -41326,3 +41326,7 @@
 	url = https://github.com/conda-forge/yaqd-thorlabs-feedstock.git
 	path = feedstocks/yaqd-thorlabs
 	branch = refs/heads/master
+[submodule "coreapi"]
+	url = https://github.com/conda-forge/coreapi-feedstock.git
+	path = feedstocks/coreapi
+	branch = refs/heads/master
