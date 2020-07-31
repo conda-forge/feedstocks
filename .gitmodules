@@ -41294,3 +41294,7 @@
 	url = https://github.com/conda-forge/yaqd-pmc-feedstock.git
 	path = feedstocks/yaqd-pmc
 	branch = refs/heads/master
+[submodule "yaqd-seabreeze"]
+	url = https://github.com/conda-forge/yaqd-seabreeze-feedstock.git
+	path = feedstocks/yaqd-seabreeze
+	branch = refs/heads/master
