@@ -41314,3 +41314,7 @@
 	url = https://github.com/conda-forge/pokrok-feedstock.git
 	path = feedstocks/pokrok
 	branch = refs/heads/master
+[submodule "pyaescrypt"]
+	url = https://github.com/conda-forge/pyaescrypt-feedstock.git
+	path = feedstocks/pyaescrypt
+	branch = refs/heads/master
