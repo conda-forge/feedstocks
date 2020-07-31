@@ -41330,3 +41330,7 @@
 	url = https://github.com/conda-forge/coreapi-feedstock.git
 	path = feedstocks/coreapi
 	branch = refs/heads/master
+[submodule "coreschema"]
+	url = https://github.com/conda-forge/coreschema-feedstock.git
+	path = feedstocks/coreschema
+	branch = refs/heads/master
