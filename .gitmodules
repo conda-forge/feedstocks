@@ -41290,3 +41290,7 @@
 	url = https://github.com/conda-forge/yaqd-lightcon-feedstock.git
 	path = feedstocks/yaqd-lightcon
 	branch = refs/heads/master
+[submodule "yaqd-pmc"]
+	url = https://github.com/conda-forge/yaqd-pmc-feedstock.git
+	path = feedstocks/yaqd-pmc
+	branch = refs/heads/master
