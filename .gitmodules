@@ -41286,3 +41286,7 @@
 	url = https://github.com/conda-forge/yaqd-horiba-feedstock.git
 	path = feedstocks/yaqd-horiba
 	branch = refs/heads/master
+[submodule "yaqd-lightcon"]
+	url = https://github.com/conda-forge/yaqd-lightcon-feedstock.git
+	path = feedstocks/yaqd-lightcon
+	branch = refs/heads/master
