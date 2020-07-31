@@ -41266,3 +41266,7 @@
 	url = https://github.com/conda-forge/ibis-vega-transform-feedstock.git
 	path = feedstocks/ibis-vega-transform
 	branch = refs/heads/master
+[submodule "yaqc-bluesky"]
+	url = https://github.com/conda-forge/yaqc-bluesky-feedstock.git
+	path = feedstocks/yaqc-bluesky
+	branch = refs/heads/master
