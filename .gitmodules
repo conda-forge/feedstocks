@@ -41262,3 +41262,7 @@
 	url = https://github.com/conda-forge/cf_xarray-feedstock.git
 	path = feedstocks/cf_xarray
 	branch = refs/heads/master
+[submodule "ibis-vega-transform"]
+	url = https://github.com/conda-forge/ibis-vega-transform-feedstock.git
+	path = feedstocks/ibis-vega-transform
+	branch = refs/heads/master
