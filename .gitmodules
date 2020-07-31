@@ -41318,3 +41318,7 @@
 	url = https://github.com/conda-forge/pyaescrypt-feedstock.git
 	path = feedstocks/pyaescrypt
 	branch = refs/heads/master
+[submodule "treegp"]
+	url = https://github.com/conda-forge/treegp-feedstock.git
+	path = feedstocks/treegp
+	branch = refs/heads/master
