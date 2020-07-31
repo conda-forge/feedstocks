@@ -41334,3 +41334,7 @@
 	url = https://github.com/conda-forge/coreschema-feedstock.git
 	path = feedstocks/coreschema
 	branch = refs/heads/master
+[submodule "drf-yasg"]
+	url = https://github.com/conda-forge/drf-yasg-feedstock.git
+	path = feedstocks/drf-yasg
+	branch = refs/heads/master
