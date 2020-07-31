@@ -41282,3 +41282,7 @@
 	url = https://github.com/conda-forge/bitsets-feedstock.git
 	path = feedstocks/bitsets
 	branch = refs/heads/master
+[submodule "yaqd-horiba"]
+	url = https://github.com/conda-forge/yaqd-horiba-feedstock.git
+	path = feedstocks/yaqd-horiba
+	branch = refs/heads/master
