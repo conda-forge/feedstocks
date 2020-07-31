@@ -41310,3 +41310,7 @@
 	url = https://github.com/conda-forge/thorlabs-apt-protocol-feedstock.git
 	path = feedstocks/thorlabs-apt-protocol
 	branch = refs/heads/master
+[submodule "pokrok"]
+	url = https://github.com/conda-forge/pokrok-feedstock.git
+	path = feedstocks/pokrok
+	branch = refs/heads/master
