@@ -41258,3 +41258,7 @@
 	url = https://github.com/conda-forge/altair-transform-feedstock.git
 	path = feedstocks/altair-transform
 	branch = refs/heads/master
+[submodule "cf_xarray"]
+	url = https://github.com/conda-forge/cf_xarray-feedstock.git
+	path = feedstocks/cf_xarray
+	branch = refs/heads/master
