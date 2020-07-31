@@ -41270,3 +41270,7 @@
 	url = https://github.com/conda-forge/yaqc-bluesky-feedstock.git
 	path = feedstocks/yaqc-bluesky
 	branch = refs/heads/master
+[submodule "yaqd-acton"]
+	url = https://github.com/conda-forge/yaqd-acton-feedstock.git
+	path = feedstocks/yaqd-acton
+	branch = refs/heads/master
