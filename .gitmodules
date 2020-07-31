@@ -41322,3 +41322,7 @@
 	url = https://github.com/conda-forge/treegp-feedstock.git
 	path = feedstocks/treegp
 	branch = refs/heads/master
+[submodule "yaqd-thorlabs"]
+	url = https://github.com/conda-forge/yaqd-thorlabs-feedstock.git
+	path = feedstocks/yaqd-thorlabs
+	branch = refs/heads/master
