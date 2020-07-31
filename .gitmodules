@@ -41338,3 +41338,7 @@
 	url = https://github.com/conda-forge/drf-yasg-feedstock.git
 	path = feedstocks/drf-yasg
 	branch = refs/heads/master
+[submodule "pyinquirer"]
+	url = https://github.com/conda-forge/pyinquirer-feedstock.git
+	path = feedstocks/pyinquirer
+	branch = refs/heads/master
