@@ -41342,3 +41342,7 @@
 	url = https://github.com/conda-forge/pyinquirer-feedstock.git
 	path = feedstocks/pyinquirer
 	branch = refs/heads/master
+[submodule "pytest-nunit"]
+	url = https://github.com/conda-forge/pytest-nunit-feedstock.git
+	path = feedstocks/pytest-nunit
+	branch = refs/heads/master
