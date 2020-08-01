@@ -41358,3 +41358,7 @@
 	url = https://github.com/conda-forge/qhub-dask-feedstock.git
 	path = feedstocks/qhub-dask
 	branch = refs/heads/master
+[submodule "elpigraph-python"]
+	url = https://github.com/conda-forge/elpigraph-python-feedstock.git
+	path = feedstocks/elpigraph-python
+	branch = refs/heads/master
