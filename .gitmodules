@@ -41346,3 +41346,7 @@
 	url = https://github.com/conda-forge/pytest-nunit-feedstock.git
 	path = feedstocks/pytest-nunit
 	branch = refs/heads/master
+[submodule "botorch"]
+	url = https://github.com/conda-forge/botorch-feedstock.git
+	path = feedstocks/botorch
+	branch = refs/heads/master
