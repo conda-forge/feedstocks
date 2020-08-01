@@ -41362,3 +41362,7 @@
 	url = https://github.com/conda-forge/elpigraph-python-feedstock.git
 	path = feedstocks/elpigraph-python
 	branch = refs/heads/master
+[submodule "libmbd"]
+	url = https://github.com/conda-forge/libmbd-feedstock.git
+	path = feedstocks/libmbd
+	branch = refs/heads/master
