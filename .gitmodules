@@ -41350,3 +41350,7 @@
 	url = https://github.com/conda-forge/botorch-feedstock.git
 	path = feedstocks/botorch
 	branch = refs/heads/master
+[submodule "soapysdr-module-remote"]
+	url = https://github.com/conda-forge/soapysdr-module-remote-feedstock.git
+	path = feedstocks/soapysdr-module-remote
+	branch = refs/heads/master
