@@ -41354,3 +41354,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-remote-feedstock.git
 	path = feedstocks/soapysdr-module-remote
 	branch = refs/heads/master
+[submodule "qhub-dask"]
+	url = https://github.com/conda-forge/qhub-dask-feedstock.git
+	path = feedstocks/qhub-dask
+	branch = refs/heads/master
