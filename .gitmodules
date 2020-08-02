@@ -41366,3 +41366,7 @@
 	url = https://github.com/conda-forge/libmbd-feedstock.git
 	path = feedstocks/libmbd
 	branch = refs/heads/master
+[submodule "sdtfile"]
+	url = https://github.com/conda-forge/sdtfile-feedstock.git
+	path = feedstocks/sdtfile
+	branch = refs/heads/master
