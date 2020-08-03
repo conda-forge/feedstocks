@@ -41390,3 +41390,7 @@
 	url = https://github.com/conda-forge/r-genieclust-feedstock.git
 	path = feedstocks/r-genieclust
 	branch = refs/heads/master
+[submodule "python-arango"]
+	url = https://github.com/conda-forge/python-arango-feedstock.git
+	path = feedstocks/python-arango
+	branch = refs/heads/master
