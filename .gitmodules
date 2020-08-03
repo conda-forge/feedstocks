@@ -41382,3 +41382,7 @@
 	url = https://github.com/conda-forge/r-tidync-feedstock.git
 	path = feedstocks/r-tidync
 	branch = refs/heads/master
+[submodule "pint-pandas"]
+	url = https://github.com/conda-forge/pint-pandas-feedstock.git
+	path = feedstocks/pint-pandas
+	branch = refs/heads/master
