@@ -41402,3 +41402,7 @@
 	url = https://github.com/conda-forge/sorl-thumbnail-feedstock.git
 	path = feedstocks/sorl-thumbnail
 	branch = refs/heads/master
+[submodule "parsmurf"]
+	url = https://github.com/conda-forge/parsmurf-feedstock.git
+	path = feedstocks/parsmurf
+	branch = refs/heads/master
