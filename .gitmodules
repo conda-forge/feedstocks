@@ -41394,3 +41394,7 @@
 	url = https://github.com/conda-forge/python-arango-feedstock.git
 	path = feedstocks/python-arango
 	branch = refs/heads/master
+[submodule "ele"]
+	url = https://github.com/conda-forge/ele-feedstock.git
+	path = feedstocks/ele
+	branch = refs/heads/master
