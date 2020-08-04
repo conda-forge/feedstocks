@@ -41398,3 +41398,7 @@
 	url = https://github.com/conda-forge/ele-feedstock.git
 	path = feedstocks/ele
 	branch = refs/heads/master
+[submodule "sorl-thumbnail"]
+	url = https://github.com/conda-forge/sorl-thumbnail-feedstock.git
+	path = feedstocks/sorl-thumbnail
+	branch = refs/heads/master
