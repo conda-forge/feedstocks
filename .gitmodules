@@ -41450,3 +41450,7 @@
 	url = https://github.com/conda-forge/r-rnaturalearth-feedstock.git
 	path = feedstocks/r-rnaturalearth
 	branch = refs/heads/master
+[submodule "datefinder"]
+	url = https://github.com/conda-forge/datefinder-feedstock.git
+	path = feedstocks/datefinder
+	branch = refs/heads/master
