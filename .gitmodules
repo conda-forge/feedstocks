@@ -41418,3 +41418,7 @@
 	url = https://github.com/conda-forge/itemloaders-feedstock.git
 	path = feedstocks/itemloaders
 	branch = refs/heads/master
+[submodule "torchani"]
+	url = https://github.com/conda-forge/torchani-feedstock.git
+	path = feedstocks/torchani
+	branch = refs/heads/master
