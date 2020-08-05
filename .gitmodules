@@ -41414,3 +41414,7 @@
 	url = https://github.com/conda-forge/jinjasql-feedstock.git
 	path = feedstocks/jinjasql
 	branch = refs/heads/master
+[submodule "itemloaders"]
+	url = https://github.com/conda-forge/itemloaders-feedstock.git
+	path = feedstocks/itemloaders
+	branch = refs/heads/master
