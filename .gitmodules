@@ -41406,3 +41406,7 @@
 	url = https://github.com/conda-forge/parsmurf-feedstock.git
 	path = feedstocks/parsmurf
 	branch = refs/heads/master
+[submodule "giotto-tda"]
+	url = https://github.com/conda-forge/giotto-tda-feedstock.git
+	path = feedstocks/giotto-tda
+	branch = refs/heads/master
