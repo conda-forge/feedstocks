@@ -41422,3 +41422,7 @@
 	url = https://github.com/conda-forge/torchani-feedstock.git
 	path = feedstocks/torchani
 	branch = refs/heads/master
+[submodule "pyplif-hippos"]
+	url = https://github.com/conda-forge/pyplif-hippos-feedstock.git
+	path = feedstocks/pyplif-hippos
+	branch = refs/heads/master
