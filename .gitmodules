@@ -41454,3 +41454,7 @@
 	url = https://github.com/conda-forge/datefinder-feedstock.git
 	path = feedstocks/datefinder
 	branch = refs/heads/master
+[submodule "versioned-hdf5"]
+	url = https://github.com/conda-forge/versioned-hdf5-feedstock.git
+	path = feedstocks/versioned-hdf5
+	branch = refs/heads/master
