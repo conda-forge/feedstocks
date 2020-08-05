@@ -41438,3 +41438,7 @@
 	url = https://github.com/conda-forge/archspec-feedstock.git
 	path = feedstocks/archspec
 	branch = refs/heads/master
+[submodule "law"]
+	url = https://github.com/conda-forge/law-feedstock.git
+	path = feedstocks/law
+	branch = refs/heads/master
