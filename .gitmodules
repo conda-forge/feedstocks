@@ -41446,3 +41446,7 @@
 	url = https://github.com/conda-forge/r-rnaturalearthdata-feedstock.git
 	path = feedstocks/r-rnaturalearthdata
 	branch = refs/heads/master
+[submodule "r-rnaturalearth"]
+	url = https://github.com/conda-forge/r-rnaturalearth-feedstock.git
+	path = feedstocks/r-rnaturalearth
+	branch = refs/heads/master
