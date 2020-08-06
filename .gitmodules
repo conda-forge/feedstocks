@@ -41466,3 +41466,7 @@
 	url = https://github.com/conda-forge/iscan-feedstock.git
 	path = feedstocks/iscan
 	branch = refs/heads/master
+[submodule "peppy"]
+	url = https://github.com/conda-forge/peppy-feedstock.git
+	path = feedstocks/peppy
+	branch = refs/heads/master
