@@ -41458,3 +41458,7 @@
 	url = https://github.com/conda-forge/versioned-hdf5-feedstock.git
 	path = feedstocks/versioned-hdf5
 	branch = refs/heads/master
+[submodule "pyomicron"]
+	url = https://github.com/conda-forge/pyomicron-feedstock.git
+	path = feedstocks/pyomicron
+	branch = refs/heads/master
