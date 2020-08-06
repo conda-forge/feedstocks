@@ -41462,3 +41462,7 @@
 	url = https://github.com/conda-forge/pyomicron-feedstock.git
 	path = feedstocks/pyomicron
 	branch = refs/heads/master
+[submodule "iscan"]
+	url = https://github.com/conda-forge/iscan-feedstock.git
+	path = feedstocks/iscan
+	branch = refs/heads/master
