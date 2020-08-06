@@ -41474,3 +41474,7 @@
 	url = https://github.com/conda-forge/eido-feedstock.git
 	path = feedstocks/eido
 	branch = refs/heads/master
+[submodule "prmon"]
+	url = https://github.com/conda-forge/prmon-feedstock.git
+	path = feedstocks/prmon
+	branch = refs/heads/master
