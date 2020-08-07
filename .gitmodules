@@ -41490,3 +41490,7 @@
 	url = https://github.com/conda-forge/blackcellmagic-feedstock.git
 	path = feedstocks/blackcellmagic
 	branch = refs/heads/master
+[submodule "nbautoexport"]
+	url = https://github.com/conda-forge/nbautoexport-feedstock.git
+	path = feedstocks/nbautoexport
+	branch = refs/heads/master
