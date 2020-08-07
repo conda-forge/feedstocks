@@ -41486,3 +41486,7 @@
 	url = https://github.com/conda-forge/gwframes-feedstock.git
 	path = feedstocks/gwframes
 	branch = refs/heads/master
+[submodule "blackcellmagic"]
+	url = https://github.com/conda-forge/blackcellmagic-feedstock.git
+	path = feedstocks/blackcellmagic
+	branch = refs/heads/master
