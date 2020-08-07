@@ -41518,3 +41518,7 @@
 	url = https://github.com/conda-forge/pathvalidate-feedstock.git
 	path = feedstocks/pathvalidate
 	branch = refs/heads/master
+[submodule "tabledata"]
+	url = https://github.com/conda-forge/tabledata-feedstock.git
+	path = feedstocks/tabledata
+	branch = refs/heads/master
