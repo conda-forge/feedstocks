@@ -41498,3 +41498,7 @@
 	url = https://github.com/conda-forge/yellowbrick-feedstock.git
 	path = feedstocks/yellowbrick
 	branch = refs/heads/master
+[submodule "httplib2shim"]
+	url = https://github.com/conda-forge/httplib2shim-feedstock.git
+	path = feedstocks/httplib2shim
+	branch = refs/heads/master
