@@ -41526,3 +41526,7 @@
 	url = https://github.com/conda-forge/dataproperty-feedstock.git
 	path = feedstocks/dataproperty
 	branch = refs/heads/master
+[submodule "mbstrdecoder"]
+	url = https://github.com/conda-forge/mbstrdecoder-feedstock.git
+	path = feedstocks/mbstrdecoder
+	branch = refs/heads/master
