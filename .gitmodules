@@ -41514,3 +41514,7 @@
 	url = https://github.com/conda-forge/typepy-feedstock.git
 	path = feedstocks/typepy
 	branch = refs/heads/master
+[submodule "pathvalidate"]
+	url = https://github.com/conda-forge/pathvalidate-feedstock.git
+	path = feedstocks/pathvalidate
+	branch = refs/heads/master
