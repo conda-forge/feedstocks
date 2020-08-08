@@ -41538,3 +41538,7 @@
 	url = https://github.com/conda-forge/evaml-core-feedstock.git
 	path = feedstocks/evaml-core
 	branch = refs/heads/master
+[submodule "pytest-codestyle"]
+	url = https://github.com/conda-forge/pytest-codestyle-feedstock.git
+	path = feedstocks/pytest-codestyle
+	branch = refs/heads/master
