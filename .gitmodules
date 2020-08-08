@@ -41534,3 +41534,7 @@
 	url = https://github.com/conda-forge/supportdata-feedstock.git
 	path = feedstocks/supportdata
 	branch = refs/heads/master
+[submodule "evaml-core"]
+	url = https://github.com/conda-forge/evaml-core-feedstock.git
+	path = feedstocks/evaml-core
+	branch = refs/heads/master
