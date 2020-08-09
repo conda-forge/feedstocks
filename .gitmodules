@@ -41546,3 +41546,7 @@
 	url = https://github.com/conda-forge/msgfy-feedstock.git
 	path = feedstocks/msgfy
 	branch = refs/heads/master
+[submodule "pytablewriter"]
+	url = https://github.com/conda-forge/pytablewriter-feedstock.git
+	path = feedstocks/pytablewriter
+	branch = refs/heads/master
