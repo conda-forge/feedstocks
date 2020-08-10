@@ -41602,3 +41602,7 @@
 	url = https://github.com/conda-forge/typish-feedstock.git
 	path = feedstocks/typish
 	branch = refs/heads/master
+[submodule "evalml-core"]
+	url = https://github.com/conda-forge/evalml-core-feedstock.git
+	path = feedstocks/evalml-core
+	branch = refs/heads/master
