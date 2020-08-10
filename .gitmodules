@@ -41574,3 +41574,7 @@
 	url = https://github.com/conda-forge/oceansdb-feedstock.git
 	path = feedstocks/oceansdb
 	branch = refs/heads/master
+[submodule "sumo"]
+	url = https://github.com/conda-forge/sumo-feedstock.git
+	path = feedstocks/sumo
+	branch = refs/heads/master
