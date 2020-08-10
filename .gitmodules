@@ -41570,3 +41570,7 @@
 	url = https://github.com/conda-forge/python-libsbml-feedstock.git
 	path = feedstocks/python-libsbml
 	branch = refs/heads/master
+[submodule "oceansdb"]
+	url = https://github.com/conda-forge/oceansdb-feedstock.git
+	path = feedstocks/oceansdb
+	branch = refs/heads/master
