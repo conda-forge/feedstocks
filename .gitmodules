@@ -41566,3 +41566,7 @@
 	url = https://github.com/conda-forge/pystackreg-feedstock.git
 	path = feedstocks/pystackreg
 	branch = refs/heads/master
+[submodule "python-libsbml"]
+	url = https://github.com/conda-forge/python-libsbml-feedstock.git
+	path = feedstocks/python-libsbml
+	branch = refs/heads/master
