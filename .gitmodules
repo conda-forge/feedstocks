@@ -41598,3 +41598,7 @@
 	url = https://github.com/conda-forge/mir-flare-feedstock.git
 	path = feedstocks/mir-flare
 	branch = refs/heads/master
+[submodule "typish"]
+	url = https://github.com/conda-forge/typish-feedstock.git
+	path = feedstocks/typish
+	branch = refs/heads/master
