@@ -41586,3 +41586,7 @@
 	url = https://github.com/conda-forge/torchdiffeq-feedstock.git
 	path = feedstocks/torchdiffeq
 	branch = refs/heads/master
+[submodule "jupyter-jaeger"]
+	url = https://github.com/conda-forge/jupyter-jaeger-feedstock.git
+	path = feedstocks/jupyter-jaeger
+	branch = refs/heads/master
