@@ -41610,3 +41610,7 @@
 	url = https://github.com/conda-forge/azure-identity-feedstock.git
 	path = feedstocks/azure-identity
 	branch = refs/heads/master
+[submodule "cotede"]
+	url = https://github.com/conda-forge/cotede-feedstock.git
+	path = feedstocks/cotede
+	branch = refs/heads/master
