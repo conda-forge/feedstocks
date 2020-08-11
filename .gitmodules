@@ -41606,3 +41606,7 @@
 	url = https://github.com/conda-forge/evalml-core-feedstock.git
 	path = feedstocks/evalml-core
 	branch = refs/heads/master
+[submodule "azure-identity"]
+	url = https://github.com/conda-forge/azure-identity-feedstock.git
+	path = feedstocks/azure-identity
+	branch = refs/heads/master
