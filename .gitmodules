@@ -41630,3 +41630,7 @@
 	url = https://github.com/conda-forge/r-ezplot-feedstock.git
 	path = feedstocks/r-ezplot
 	branch = refs/heads/master
+[submodule "example-robot-data"]
+	url = https://github.com/conda-forge/example-robot-data-feedstock.git
+	path = feedstocks/example-robot-data
+	branch = refs/heads/master
