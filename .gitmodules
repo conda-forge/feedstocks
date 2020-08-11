@@ -41646,3 +41646,7 @@
 	url = https://github.com/conda-forge/suitcase-utils-feedstock.git
 	path = feedstocks/suitcase-utils
 	branch = refs/heads/master
+[submodule "suitcase-msgpack"]
+	url = https://github.com/conda-forge/suitcase-msgpack-feedstock.git
+	path = feedstocks/suitcase-msgpack
+	branch = refs/heads/master
