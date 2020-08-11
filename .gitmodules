@@ -41634,3 +41634,7 @@
 	url = https://github.com/conda-forge/example-robot-data-feedstock.git
 	path = feedstocks/example-robot-data
 	branch = refs/heads/master
+[submodule "aiida-cusp"]
+	url = https://github.com/conda-forge/aiida-cusp-feedstock.git
+	path = feedstocks/aiida-cusp
+	branch = refs/heads/master
