@@ -41614,3 +41614,7 @@
 	url = https://github.com/conda-forge/cotede-feedstock.git
 	path = feedstocks/cotede
 	branch = refs/heads/master
+[submodule "vapory"]
+	url = https://github.com/conda-forge/vapory-feedstock.git
+	path = feedstocks/vapory
+	branch = refs/heads/master
