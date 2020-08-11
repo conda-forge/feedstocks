@@ -41638,3 +41638,7 @@
 	url = https://github.com/conda-forge/aiida-cusp-feedstock.git
 	path = feedstocks/aiida-cusp
 	branch = refs/heads/master
+[submodule "suitcase-mongo"]
+	url = https://github.com/conda-forge/suitcase-mongo-feedstock.git
+	path = feedstocks/suitcase-mongo
+	branch = refs/heads/master
