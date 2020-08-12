@@ -41662,3 +41662,7 @@
 	url = https://github.com/conda-forge/e13tools-feedstock.git
 	path = feedstocks/e13tools
 	branch = refs/heads/master
+[submodule "cmasher"]
+	url = https://github.com/conda-forge/cmasher-feedstock.git
+	path = feedstocks/cmasher
+	branch = refs/heads/master
