@@ -41674,3 +41674,7 @@
 	url = https://github.com/conda-forge/libuldaq-feedstock.git
 	path = feedstocks/libuldaq
 	branch = refs/heads/master
+[submodule "intake-omnisci"]
+	url = https://github.com/conda-forge/intake-omnisci-feedstock.git
+	path = feedstocks/intake-omnisci
+	branch = refs/heads/master
