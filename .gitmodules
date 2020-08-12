@@ -41658,3 +41658,7 @@
 	url = https://github.com/conda-forge/aiomqtt-feedstock.git
 	path = feedstocks/aiomqtt
 	branch = refs/heads/master
+[submodule "e13tools"]
+	url = https://github.com/conda-forge/e13tools-feedstock.git
+	path = feedstocks/e13tools
+	branch = refs/heads/master
