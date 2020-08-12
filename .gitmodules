@@ -41650,3 +41650,7 @@
 	url = https://github.com/conda-forge/suitcase-msgpack-feedstock.git
 	path = feedstocks/suitcase-msgpack
 	branch = refs/heads/master
+[submodule "pycaret"]
+	url = https://github.com/conda-forge/pycaret-feedstock.git
+	path = feedstocks/pycaret
+	branch = refs/heads/master
