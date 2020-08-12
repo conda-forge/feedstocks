@@ -41670,3 +41670,7 @@
 	url = https://github.com/conda-forge/seabird-feedstock.git
 	path = feedstocks/seabird
 	branch = refs/heads/master
+[submodule "libuldaq"]
+	url = https://github.com/conda-forge/libuldaq-feedstock.git
+	path = feedstocks/libuldaq
+	branch = refs/heads/master
