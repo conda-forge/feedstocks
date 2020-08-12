@@ -41654,3 +41654,7 @@
 	url = https://github.com/conda-forge/pycaret-feedstock.git
 	path = feedstocks/pycaret
 	branch = refs/heads/master
+[submodule "aiomqtt"]
+	url = https://github.com/conda-forge/aiomqtt-feedstock.git
+	path = feedstocks/aiomqtt
+	branch = refs/heads/master
