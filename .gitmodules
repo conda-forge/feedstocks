@@ -41678,3 +41678,7 @@
 	url = https://github.com/conda-forge/intake-omnisci-feedstock.git
 	path = feedstocks/intake-omnisci
 	branch = refs/heads/master
+[submodule "variable_generators"]
+	url = https://github.com/conda-forge/variable_generators-feedstock.git
+	path = feedstocks/variable_generators
+	branch = refs/heads/master
