@@ -41686,3 +41686,7 @@
 	url = https://github.com/conda-forge/r-immunarch-feedstock.git
 	path = feedstocks/r-immunarch
 	branch = refs/heads/master
+[submodule "jupyter_http_over_ws"]
+	url = https://github.com/conda-forge/jupyter_http_over_ws-feedstock.git
+	path = feedstocks/jupyter_http_over_ws
+	branch = refs/heads/master
