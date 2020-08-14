@@ -41722,3 +41722,7 @@
 	url = https://github.com/conda-forge/simmer-feedstock.git
 	path = feedstocks/simmer
 	branch = refs/heads/master
+[submodule "plantcv"]
+	url = https://github.com/conda-forge/plantcv-feedstock.git
+	path = feedstocks/plantcv
+	branch = refs/heads/master
