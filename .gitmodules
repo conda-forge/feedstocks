@@ -41706,3 +41706,7 @@
 	url = https://github.com/conda-forge/r-rcppdate-feedstock.git
 	path = feedstocks/r-rcppdate
 	branch = refs/heads/master
+[submodule "flask-server-timing"]
+	url = https://github.com/conda-forge/flask-server-timing-feedstock.git
+	path = feedstocks/flask-server-timing
+	branch = refs/heads/master
