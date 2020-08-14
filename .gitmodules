@@ -41718,3 +41718,7 @@
 	url = https://github.com/conda-forge/setuptools-cythonize-feedstock.git
 	path = feedstocks/setuptools-cythonize
 	branch = refs/heads/master
+[submodule "simmer"]
+	url = https://github.com/conda-forge/simmer-feedstock.git
+	path = feedstocks/simmer
+	branch = refs/heads/master
