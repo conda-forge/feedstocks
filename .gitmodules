@@ -41702,3 +41702,7 @@
 	url = https://github.com/conda-forge/groff-feedstock.git
 	path = feedstocks/groff
 	branch = refs/heads/master
+[submodule "r-rcppdate"]
+	url = https://github.com/conda-forge/r-rcppdate-feedstock.git
+	path = feedstocks/r-rcppdate
+	branch = refs/heads/master
