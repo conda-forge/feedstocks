@@ -41726,3 +41726,7 @@
 	url = https://github.com/conda-forge/plantcv-feedstock.git
 	path = feedstocks/plantcv
 	branch = refs/heads/master
+[submodule "flatten-dict"]
+	url = https://github.com/conda-forge/flatten-dict-feedstock.git
+	path = feedstocks/flatten-dict
+	branch = refs/heads/master
