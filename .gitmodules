@@ -41698,3 +41698,7 @@
 	url = https://github.com/conda-forge/hookee-feedstock.git
 	path = feedstocks/hookee
 	branch = refs/heads/master
+[submodule "groff"]
+	url = https://github.com/conda-forge/groff-feedstock.git
+	path = feedstocks/groff
+	branch = refs/heads/master
