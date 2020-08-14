@@ -41694,3 +41694,7 @@
 	url = https://github.com/conda-forge/jupyter-sphinx-feedstock.git
 	path = feedstocks/jupyter-sphinx
 	branch = refs/heads/master
+[submodule "hookee"]
+	url = https://github.com/conda-forge/hookee-feedstock.git
+	path = feedstocks/hookee
+	branch = refs/heads/master
