@@ -41714,3 +41714,7 @@
 	url = https://github.com/conda-forge/r-mccf1-feedstock.git
 	path = feedstocks/r-mccf1
 	branch = refs/heads/master
+[submodule "setuptools-cythonize"]
+	url = https://github.com/conda-forge/setuptools-cythonize-feedstock.git
+	path = feedstocks/setuptools-cythonize
+	branch = refs/heads/master
