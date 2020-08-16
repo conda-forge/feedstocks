@@ -41742,3 +41742,7 @@
 	url = https://github.com/conda-forge/r-pcict-feedstock.git
 	path = feedstocks/r-pcict
 	branch = refs/heads/master
+[submodule "r-specsverification"]
+	url = https://github.com/conda-forge/r-specsverification-feedstock.git
+	path = feedstocks/r-specsverification
+	branch = refs/heads/master
