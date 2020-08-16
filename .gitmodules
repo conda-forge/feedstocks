@@ -41750,3 +41750,7 @@
 	url = https://github.com/conda-forge/r-geomapdata-feedstock.git
 	path = feedstocks/r-geomapdata
 	branch = refs/heads/master
+[submodule "r-climprojdiags"]
+	url = https://github.com/conda-forge/r-climprojdiags-feedstock.git
+	path = feedstocks/r-climprojdiags
+	branch = refs/heads/master
