@@ -41730,3 +41730,7 @@
 	url = https://github.com/conda-forge/flatten-dict-feedstock.git
 	path = feedstocks/flatten-dict
 	branch = refs/heads/master
+[submodule "pyinstaller-hooks-contrib"]
+	url = https://github.com/conda-forge/pyinstaller-hooks-contrib-feedstock.git
+	path = feedstocks/pyinstaller-hooks-contrib
+	branch = refs/heads/master
