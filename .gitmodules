@@ -41746,3 +41746,7 @@
 	url = https://github.com/conda-forge/r-specsverification-feedstock.git
 	path = feedstocks/r-specsverification
 	branch = refs/heads/master
+[submodule "r-geomapdata"]
+	url = https://github.com/conda-forge/r-geomapdata-feedstock.git
+	path = feedstocks/r-geomapdata
+	branch = refs/heads/master
