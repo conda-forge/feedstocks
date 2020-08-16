@@ -41754,3 +41754,7 @@
 	url = https://github.com/conda-forge/r-climprojdiags-feedstock.git
 	path = feedstocks/r-climprojdiags
 	branch = refs/heads/master
+[submodule "pybktree"]
+	url = https://github.com/conda-forge/pybktree-feedstock.git
+	path = feedstocks/pybktree
+	branch = refs/heads/master
