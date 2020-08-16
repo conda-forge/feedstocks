@@ -41738,3 +41738,7 @@
 	url = https://github.com/conda-forge/r-multiapply-feedstock.git
 	path = feedstocks/r-multiapply
 	branch = refs/heads/master
+[submodule "r-pcict"]
+	url = https://github.com/conda-forge/r-pcict-feedstock.git
+	path = feedstocks/r-pcict
+	branch = refs/heads/master
