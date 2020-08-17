@@ -41766,3 +41766,7 @@
 	url = https://github.com/conda-forge/fastentrypoints-feedstock.git
 	path = feedstocks/fastentrypoints
 	branch = refs/heads/master
+[submodule "r-easyncdf"]
+	url = https://github.com/conda-forge/r-easyncdf-feedstock.git
+	path = feedstocks/r-easyncdf
+	branch = refs/heads/master
