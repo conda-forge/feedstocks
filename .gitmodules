@@ -41782,3 +41782,7 @@
 	url = https://github.com/conda-forge/lagraph-feedstock.git
 	path = feedstocks/lagraph
 	branch = refs/heads/master
+[submodule "pymodbus"]
+	url = https://github.com/conda-forge/pymodbus-feedstock.git
+	path = feedstocks/pymodbus
+	branch = refs/heads/master
