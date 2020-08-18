@@ -41794,3 +41794,7 @@
 	url = https://github.com/conda-forge/gmshmodel-feedstock.git
 	path = feedstocks/gmshmodel
 	branch = refs/heads/master
+[submodule "sinfo"]
+	url = https://github.com/conda-forge/sinfo-feedstock.git
+	path = feedstocks/sinfo
+	branch = refs/heads/master
