@@ -41834,3 +41834,7 @@
 	url = https://github.com/conda-forge/yaqd-ti-feedstock.git
 	path = feedstocks/yaqd-ti
 	branch = refs/heads/master
+[submodule "subby"]
+	url = https://github.com/conda-forge/subby-feedstock.git
+	path = feedstocks/subby
+	branch = refs/heads/master
