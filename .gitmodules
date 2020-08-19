@@ -41822,3 +41822,7 @@
 	url = https://github.com/conda-forge/lsdtopytools-feedstock.git
 	path = feedstocks/lsdtopytools
 	branch = refs/heads/master
+[submodule "lsdtt-xtensor-python"]
+	url = https://github.com/conda-forge/lsdtt-xtensor-python-feedstock.git
+	path = feedstocks/lsdtt-xtensor-python
+	branch = refs/heads/master
