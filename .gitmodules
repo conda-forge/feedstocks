@@ -41810,3 +41810,7 @@
 	url = https://github.com/conda-forge/rfi-file-monitor-feedstock.git
 	path = feedstocks/rfi-file-monitor
 	branch = refs/heads/master
+[submodule "motmetrics"]
+	url = https://github.com/conda-forge/motmetrics-feedstock.git
+	path = feedstocks/motmetrics
+	branch = refs/heads/master
