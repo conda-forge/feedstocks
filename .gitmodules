@@ -41806,3 +41806,7 @@
 	url = https://github.com/conda-forge/ipyelk-feedstock.git
 	path = feedstocks/ipyelk
 	branch = refs/heads/master
+[submodule "rfi-file-monitor"]
+	url = https://github.com/conda-forge/rfi-file-monitor-feedstock.git
+	path = feedstocks/rfi-file-monitor
+	branch = refs/heads/master
