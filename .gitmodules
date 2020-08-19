@@ -41798,3 +41798,7 @@
 	url = https://github.com/conda-forge/sinfo-feedstock.git
 	path = feedstocks/sinfo
 	branch = refs/heads/master
+[submodule "skypy"]
+	url = https://github.com/conda-forge/skypy-feedstock.git
+	path = feedstocks/skypy
+	branch = refs/heads/master
