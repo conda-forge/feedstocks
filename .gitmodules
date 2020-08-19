@@ -41802,3 +41802,7 @@
 	url = https://github.com/conda-forge/skypy-feedstock.git
 	path = feedstocks/skypy
 	branch = refs/heads/master
+[submodule "ipyelk"]
+	url = https://github.com/conda-forge/ipyelk-feedstock.git
+	path = feedstocks/ipyelk
+	branch = refs/heads/master
