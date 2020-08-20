@@ -41850,3 +41850,7 @@
 	url = https://github.com/conda-forge/gnuradio-satellites-feedstock.git
 	path = feedstocks/gnuradio-satellites
 	branch = refs/heads/master
+[submodule "taproom"]
+	url = https://github.com/conda-forge/taproom-feedstock.git
+	path = feedstocks/taproom
+	branch = refs/heads/master
