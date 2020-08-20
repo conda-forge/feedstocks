@@ -41858,3 +41858,7 @@
 	url = https://github.com/conda-forge/guacamol-feedstock.git
 	path = feedstocks/guacamol
 	branch = refs/heads/master
+[submodule "defopt"]
+	url = https://github.com/conda-forge/defopt-feedstock.git
+	path = feedstocks/defopt
+	branch = refs/heads/master
