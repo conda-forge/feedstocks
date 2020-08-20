@@ -41854,3 +41854,7 @@
 	url = https://github.com/conda-forge/taproom-feedstock.git
 	path = feedstocks/taproom
 	branch = refs/heads/master
+[submodule "guacamol"]
+	url = https://github.com/conda-forge/guacamol-feedstock.git
+	path = feedstocks/guacamol
+	branch = refs/heads/master
