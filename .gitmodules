@@ -41846,3 +41846,7 @@
 	url = https://github.com/conda-forge/nlp_primitives-feedstock.git
 	path = feedstocks/nlp_primitives
 	branch = refs/heads/master
+[submodule "gnuradio-satellites"]
+	url = https://github.com/conda-forge/gnuradio-satellites-feedstock.git
+	path = feedstocks/gnuradio-satellites
+	branch = refs/heads/master
