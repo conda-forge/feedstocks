@@ -41882,3 +41882,7 @@
 	url = https://github.com/conda-forge/rfc3986-validator-feedstock.git
 	path = feedstocks/rfc3986-validator
 	branch = refs/heads/master
+[submodule "kfp-notebook"]
+	url = https://github.com/conda-forge/kfp-notebook-feedstock.git
+	path = feedstocks/kfp-notebook
+	branch = refs/heads/master
