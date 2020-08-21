@@ -41878,3 +41878,7 @@
 	url = https://github.com/conda-forge/elyra-feedstock.git
 	path = feedstocks/elyra
 	branch = refs/heads/master
+[submodule "rfc3986-validator"]
+	url = https://github.com/conda-forge/rfc3986-validator-feedstock.git
+	path = feedstocks/rfc3986-validator
+	branch = refs/heads/master
