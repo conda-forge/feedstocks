@@ -41886,3 +41886,7 @@
 	url = https://github.com/conda-forge/kfp-notebook-feedstock.git
 	path = feedstocks/kfp-notebook
 	branch = refs/heads/master
+[submodule "e3fp"]
+	url = https://github.com/conda-forge/e3fp-feedstock.git
+	path = feedstocks/e3fp
+	branch = refs/heads/master
