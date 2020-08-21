@@ -41874,3 +41874,7 @@
 	url = https://github.com/conda-forge/crossenv-feedstock.git
 	path = feedstocks/crossenv
 	branch = refs/heads/master
+[submodule "elyra"]
+	url = https://github.com/conda-forge/elyra-feedstock.git
+	path = feedstocks/elyra
+	branch = refs/heads/master
