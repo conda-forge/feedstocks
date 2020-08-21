@@ -41870,3 +41870,7 @@
 	url = https://github.com/conda-forge/quaternionic-feedstock.git
 	path = feedstocks/quaternionic
 	branch = refs/heads/master
+[submodule "crossenv"]
+	url = https://github.com/conda-forge/crossenv-feedstock.git
+	path = feedstocks/crossenv
+	branch = refs/heads/master
