@@ -41902,3 +41902,7 @@
 	url = https://github.com/conda-forge/pineappl-feedstock.git
 	path = feedstocks/pineappl
 	branch = refs/heads/master
+[submodule "cloudstorage"]
+	url = https://github.com/conda-forge/cloudstorage-feedstock.git
+	path = feedstocks/cloudstorage
+	branch = refs/heads/master
