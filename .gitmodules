@@ -41910,3 +41910,7 @@
 	url = https://github.com/conda-forge/pymetis-feedstock.git
 	path = feedstocks/pymetis
 	branch = refs/heads/master
+[submodule "suds-community"]
+	url = https://github.com/conda-forge/suds-community-feedstock.git
+	path = feedstocks/suds-community
+	branch = refs/heads/master
