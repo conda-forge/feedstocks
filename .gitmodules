@@ -41926,3 +41926,7 @@
 	url = https://github.com/conda-forge/resample-feedstock.git
 	path = feedstocks/resample
 	branch = refs/heads/master
+[submodule "nctoolkit"]
+	url = https://github.com/conda-forge/nctoolkit-feedstock.git
+	path = feedstocks/nctoolkit
+	branch = refs/heads/master
