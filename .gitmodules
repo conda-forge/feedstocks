@@ -41918,3 +41918,7 @@
 	url = https://github.com/conda-forge/filprofiler-feedstock.git
 	path = feedstocks/filprofiler
 	branch = refs/heads/master
+[submodule "cpp-filesystem"]
+	url = https://github.com/conda-forge/cpp-filesystem-feedstock.git
+	path = feedstocks/cpp-filesystem
+	branch = refs/heads/master
