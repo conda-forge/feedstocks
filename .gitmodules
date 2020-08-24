@@ -41930,3 +41930,7 @@
 	url = https://github.com/conda-forge/nctoolkit-feedstock.git
 	path = feedstocks/nctoolkit
 	branch = refs/heads/master
+[submodule "pygraphblas"]
+	url = https://github.com/conda-forge/pygraphblas-feedstock.git
+	path = feedstocks/pygraphblas
+	branch = refs/heads/master
