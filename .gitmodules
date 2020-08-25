@@ -41962,3 +41962,7 @@
 	url = https://github.com/conda-forge/django-mfa2-feedstock.git
 	path = feedstocks/django-mfa2
 	branch = refs/heads/master
+[submodule "eth-hash"]
+	url = https://github.com/conda-forge/eth-hash-feedstock.git
+	path = feedstocks/eth-hash
+	branch = refs/heads/master
