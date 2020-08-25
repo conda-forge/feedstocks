@@ -41970,3 +41970,7 @@
 	url = https://github.com/conda-forge/maxminddb-feedstock.git
 	path = feedstocks/maxminddb
 	branch = refs/heads/master
+[submodule "pytorch-model-summary"]
+	url = https://github.com/conda-forge/pytorch-model-summary-feedstock.git
+	path = feedstocks/pytorch-model-summary
+	branch = refs/heads/master
