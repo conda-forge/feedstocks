@@ -41966,3 +41966,7 @@
 	url = https://github.com/conda-forge/eth-hash-feedstock.git
 	path = feedstocks/eth-hash
 	branch = refs/heads/master
+[submodule "maxminddb"]
+	url = https://github.com/conda-forge/maxminddb-feedstock.git
+	path = feedstocks/maxminddb
+	branch = refs/heads/master
