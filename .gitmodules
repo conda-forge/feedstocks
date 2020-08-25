@@ -41946,3 +41946,7 @@
 	url = https://github.com/conda-forge/jsonlookup-feedstock.git
 	path = feedstocks/jsonlookup
 	branch = refs/heads/master
+[submodule "geoip2"]
+	url = https://github.com/conda-forge/geoip2-feedstock.git
+	path = feedstocks/geoip2
+	branch = refs/heads/master
