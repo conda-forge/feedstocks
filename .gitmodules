@@ -41942,3 +41942,7 @@
 	url = https://github.com/conda-forge/python-u2flib-server-feedstock.git
 	path = feedstocks/python-u2flib-server
 	branch = refs/heads/master
+[submodule "jsonlookup"]
+	url = https://github.com/conda-forge/jsonlookup-feedstock.git
+	path = feedstocks/jsonlookup
+	branch = refs/heads/master
