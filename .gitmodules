@@ -41990,3 +41990,7 @@
 	url = https://github.com/conda-forge/submitit-feedstock.git
 	path = feedstocks/submitit
 	branch = refs/heads/master
+[submodule "pytest-black"]
+	url = https://github.com/conda-forge/pytest-black-feedstock.git
+	path = feedstocks/pytest-black
+	branch = refs/heads/master
