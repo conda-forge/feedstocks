@@ -41982,3 +41982,7 @@
 	url = https://github.com/conda-forge/eth-utils-feedstock.git
 	path = feedstocks/eth-utils
 	branch = refs/heads/master
+[submodule "wdltools"]
+	url = https://github.com/conda-forge/wdltools-feedstock.git
+	path = feedstocks/wdltools
+	branch = refs/heads/master
