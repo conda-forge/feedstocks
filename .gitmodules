@@ -41986,3 +41986,7 @@
 	url = https://github.com/conda-forge/wdltools-feedstock.git
 	path = feedstocks/wdltools
 	branch = refs/heads/master
+[submodule "submitit"]
+	url = https://github.com/conda-forge/submitit-feedstock.git
+	path = feedstocks/submitit
+	branch = refs/heads/master
