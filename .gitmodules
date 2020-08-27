@@ -42030,3 +42030,7 @@
 	url = https://github.com/conda-forge/dabl-feedstock.git
 	path = feedstocks/dabl
 	branch = refs/heads/master
+[submodule "sphinx-thebe"]
+	url = https://github.com/conda-forge/sphinx-thebe-feedstock.git
+	path = feedstocks/sphinx-thebe
+	branch = refs/heads/master
