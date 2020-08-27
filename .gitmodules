@@ -41998,3 +41998,7 @@
 	url = https://github.com/conda-forge/rlp-feedstock.git
 	path = feedstocks/rlp
 	branch = refs/heads/master
+[submodule "python-gssapi"]
+	url = https://github.com/conda-forge/python-gssapi-feedstock.git
+	path = feedstocks/python-gssapi
+	branch = refs/heads/master
