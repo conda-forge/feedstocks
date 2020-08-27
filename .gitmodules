@@ -42002,3 +42002,7 @@
 	url = https://github.com/conda-forge/python-gssapi-feedstock.git
 	path = feedstocks/python-gssapi
 	branch = refs/heads/master
+[submodule "pyspnego"]
+	url = https://github.com/conda-forge/pyspnego-feedstock.git
+	path = feedstocks/pyspnego
+	branch = refs/heads/master
