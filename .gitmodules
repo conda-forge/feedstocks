@@ -42006,3 +42006,7 @@
 	url = https://github.com/conda-forge/pyspnego-feedstock.git
 	path = feedstocks/pyspnego
 	branch = refs/heads/master
+[submodule "smbprotocol"]
+	url = https://github.com/conda-forge/smbprotocol-feedstock.git
+	path = feedstocks/smbprotocol
+	branch = refs/heads/master
