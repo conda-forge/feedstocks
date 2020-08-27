@@ -42034,3 +42034,7 @@
 	url = https://github.com/conda-forge/sphinx-thebe-feedstock.git
 	path = feedstocks/sphinx-thebe
 	branch = refs/heads/master
+[submodule "sphinx-comments"]
+	url = https://github.com/conda-forge/sphinx-comments-feedstock.git
+	path = feedstocks/sphinx-comments
+	branch = refs/heads/master
