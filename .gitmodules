@@ -42086,3 +42086,7 @@
 	url = https://github.com/conda-forge/lbinstall-feedstock.git
 	path = feedstocks/lbinstall
 	branch = refs/heads/master
+[submodule "cruft"]
+	url = https://github.com/conda-forge/cruft-feedstock.git
+	path = feedstocks/cruft
+	branch = refs/heads/master
