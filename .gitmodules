@@ -42094,3 +42094,7 @@
 	url = https://github.com/conda-forge/jupyter-cache-feedstock.git
 	path = feedstocks/jupyter-cache
 	branch = refs/heads/master
+[submodule "selfies"]
+	url = https://github.com/conda-forge/selfies-feedstock.git
+	path = feedstocks/selfies
+	branch = refs/heads/master
