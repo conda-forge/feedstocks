@@ -42050,3 +42050,7 @@
 	url = https://github.com/conda-forge/lbmessaging-feedstock.git
 	path = feedstocks/lbmessaging
 	branch = refs/heads/master
+[submodule "lbnightlytools"]
+	url = https://github.com/conda-forge/lbnightlytools-feedstock.git
+	path = feedstocks/lbnightlytools
+	branch = refs/heads/master
