@@ -42074,3 +42074,7 @@
 	url = https://github.com/conda-forge/lbadmin-feedstock.git
 	path = feedstocks/lbadmin
 	branch = refs/heads/master
+[submodule "lbscriptslegacy"]
+	url = https://github.com/conda-forge/lbscriptslegacy-feedstock.git
+	path = feedstocks/lbscriptslegacy
+	branch = refs/heads/master
