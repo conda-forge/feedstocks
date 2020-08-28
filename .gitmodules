@@ -42058,3 +42058,7 @@
 	url = https://github.com/conda-forge/lbcommon-feedstock.git
 	path = feedstocks/lbcommon
 	branch = refs/heads/master
+[submodule "lbdevtools"]
+	url = https://github.com/conda-forge/lbdevtools-feedstock.git
+	path = feedstocks/lbdevtools
+	branch = refs/heads/master
