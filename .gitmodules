@@ -42070,3 +42070,7 @@
 	url = https://github.com/conda-forge/lbcondawrappers-feedstock.git
 	path = feedstocks/lbcondawrappers
 	branch = refs/heads/master
+[submodule "lbadmin"]
+	url = https://github.com/conda-forge/lbadmin-feedstock.git
+	path = feedstocks/lbadmin
+	branch = refs/heads/master
