@@ -42042,3 +42042,7 @@
 	url = https://github.com/conda-forge/sphinx-book-theme-feedstock.git
 	path = feedstocks/sphinx-book-theme
 	branch = refs/heads/master
+[submodule "single-source"]
+	url = https://github.com/conda-forge/single-source-feedstock.git
+	path = feedstocks/single-source
+	branch = refs/heads/master
