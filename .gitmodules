@@ -42090,3 +42090,7 @@
 	url = https://github.com/conda-forge/cruft-feedstock.git
 	path = feedstocks/cruft
 	branch = refs/heads/master
+[submodule "jupyter-cache"]
+	url = https://github.com/conda-forge/jupyter-cache-feedstock.git
+	path = feedstocks/jupyter-cache
+	branch = refs/heads/master
