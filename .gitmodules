@@ -42078,3 +42078,7 @@
 	url = https://github.com/conda-forge/lbscriptslegacy-feedstock.git
 	path = feedstocks/lbscriptslegacy
 	branch = refs/heads/master
+[submodule "lbdiracwrappers"]
+	url = https://github.com/conda-forge/lbdiracwrappers-feedstock.git
+	path = feedstocks/lbdiracwrappers
+	branch = refs/heads/master
