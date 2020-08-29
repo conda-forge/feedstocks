@@ -42118,3 +42118,7 @@
 	url = https://github.com/conda-forge/llckbdm-feedstock.git
 	path = feedstocks/llckbdm
 	branch = refs/heads/master
+[submodule "eth-keys"]
+	url = https://github.com/conda-forge/eth-keys-feedstock.git
+	path = feedstocks/eth-keys
+	branch = refs/heads/master
