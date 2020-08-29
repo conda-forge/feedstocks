@@ -42138,3 +42138,7 @@
 	url = https://github.com/conda-forge/eth-abi-feedstock.git
 	path = feedstocks/eth-abi
 	branch = refs/heads/master
+[submodule "eth-rlp"]
+	url = https://github.com/conda-forge/eth-rlp-feedstock.git
+	path = feedstocks/eth-rlp
+	branch = refs/heads/master
