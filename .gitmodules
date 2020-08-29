@@ -42134,3 +42134,7 @@
 	url = https://github.com/conda-forge/multiaddr-feedstock.git
 	path = feedstocks/multiaddr
 	branch = refs/heads/master
+[submodule "eth-abi"]
+	url = https://github.com/conda-forge/eth-abi-feedstock.git
+	path = feedstocks/eth-abi
+	branch = refs/heads/master
