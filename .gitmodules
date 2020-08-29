@@ -42102,3 +42102,7 @@
 	url = https://github.com/conda-forge/pyproprop-feedstock.git
 	path = feedstocks/pyproprop
 	branch = refs/heads/master
+[submodule "rrdtool"]
+	url = https://github.com/conda-forge/rrdtool-feedstock.git
+	path = feedstocks/rrdtool
+	branch = refs/heads/master
