@@ -42122,3 +42122,7 @@
 	url = https://github.com/conda-forge/eth-keys-feedstock.git
 	path = feedstocks/eth-keys
 	branch = refs/heads/master
+[submodule "ipfshttpclient"]
+	url = https://github.com/conda-forge/ipfshttpclient-feedstock.git
+	path = feedstocks/ipfshttpclient
+	branch = refs/heads/master
