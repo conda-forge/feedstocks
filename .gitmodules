@@ -42106,3 +42106,7 @@
 	url = https://github.com/conda-forge/rrdtool-feedstock.git
 	path = feedstocks/rrdtool
 	branch = refs/heads/master
+[submodule "myproxy"]
+	url = https://github.com/conda-forge/myproxy-feedstock.git
+	path = feedstocks/myproxy
+	branch = refs/heads/master
