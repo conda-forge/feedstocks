@@ -42110,3 +42110,7 @@
 	url = https://github.com/conda-forge/myproxy-feedstock.git
 	path = feedstocks/myproxy
 	branch = refs/heads/master
+[submodule "eth-account"]
+	url = https://github.com/conda-forge/eth-account-feedstock.git
+	path = feedstocks/eth-account
+	branch = refs/heads/master
