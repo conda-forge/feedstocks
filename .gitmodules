@@ -42146,3 +42146,7 @@
 	url = https://github.com/conda-forge/pandas-alive-feedstock.git
 	path = feedstocks/pandas-alive
 	branch = refs/heads/master
+[submodule "pyogrio"]
+	url = https://github.com/conda-forge/pyogrio-feedstock.git
+	path = feedstocks/pyogrio
+	branch = refs/heads/master
