@@ -42142,3 +42142,7 @@
 	url = https://github.com/conda-forge/eth-rlp-feedstock.git
 	path = feedstocks/eth-rlp
 	branch = refs/heads/master
+[submodule "pandas-alive"]
+	url = https://github.com/conda-forge/pandas-alive-feedstock.git
+	path = feedstocks/pandas-alive
+	branch = refs/heads/master
