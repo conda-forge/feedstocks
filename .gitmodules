@@ -42150,3 +42150,7 @@
 	url = https://github.com/conda-forge/pyogrio-feedstock.git
 	path = feedstocks/pyogrio
 	branch = refs/heads/master
+[submodule "r-tsfeatures"]
+	url = https://github.com/conda-forge/r-tsfeatures-feedstock.git
+	path = feedstocks/r-tsfeatures
+	branch = refs/heads/master
