@@ -42162,3 +42162,7 @@
 	url = https://github.com/conda-forge/turfpy-feedstock.git
 	path = feedstocks/turfpy
 	branch = refs/heads/master
+[submodule "geobuf"]
+	url = https://github.com/conda-forge/geobuf-feedstock.git
+	path = feedstocks/geobuf
+	branch = refs/heads/master
