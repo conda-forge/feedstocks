@@ -42170,3 +42170,7 @@
 	url = https://github.com/conda-forge/pandapower-feedstock.git
 	path = feedstocks/pandapower
 	branch = refs/heads/master
+[submodule "ipychart"]
+	url = https://github.com/conda-forge/ipychart-feedstock.git
+	path = feedstocks/ipychart
+	branch = refs/heads/master
