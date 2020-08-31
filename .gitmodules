@@ -42182,3 +42182,7 @@
 	url = https://github.com/conda-forge/xyzspaces-feedstock.git
 	path = feedstocks/xyzspaces
 	branch = refs/heads/master
+[submodule "myst-nb"]
+	url = https://github.com/conda-forge/myst-nb-feedstock.git
+	path = feedstocks/myst-nb
+	branch = refs/heads/master
