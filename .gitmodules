@@ -42166,3 +42166,7 @@
 	url = https://github.com/conda-forge/geobuf-feedstock.git
 	path = feedstocks/geobuf
 	branch = refs/heads/master
+[submodule "pandapower"]
+	url = https://github.com/conda-forge/pandapower-feedstock.git
+	path = feedstocks/pandapower
+	branch = refs/heads/master
