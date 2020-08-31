@@ -42186,3 +42186,7 @@
 	url = https://github.com/conda-forge/myst-nb-feedstock.git
 	path = feedstocks/myst-nb
 	branch = refs/heads/master
+[submodule "libmamba"]
+	url = https://github.com/conda-forge/libmamba-feedstock.git
+	path = feedstocks/libmamba
+	branch = refs/heads/master
