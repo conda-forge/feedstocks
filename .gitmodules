@@ -42174,3 +42174,7 @@
 	url = https://github.com/conda-forge/ipychart-feedstock.git
 	path = feedstocks/ipychart
 	branch = refs/heads/master
+[submodule "sphinx-tabs"]
+	url = https://github.com/conda-forge/sphinx-tabs-feedstock.git
+	path = feedstocks/sphinx-tabs
+	branch = refs/heads/master
