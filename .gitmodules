@@ -42158,3 +42158,7 @@
 	url = https://github.com/conda-forge/leparagliding-feedstock.git
 	path = feedstocks/leparagliding
 	branch = refs/heads/master
+[submodule "turfpy"]
+	url = https://github.com/conda-forge/turfpy-feedstock.git
+	path = feedstocks/turfpy
+	branch = refs/heads/master
