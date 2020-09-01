@@ -42218,3 +42218,7 @@
 	url = https://github.com/conda-forge/conda-suggest-conda-forge-feedstock.git
 	path = feedstocks/conda-suggest-conda-forge
 	branch = refs/heads/master
+[submodule "conda-suggest"]
+	url = https://github.com/conda-forge/conda-suggest-feedstock.git
+	path = feedstocks/conda-suggest
+	branch = refs/heads/master
