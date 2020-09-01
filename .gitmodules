@@ -42198,3 +42198,7 @@
 	url = https://github.com/conda-forge/r-geometries-feedstock.git
 	path = feedstocks/r-geometries
 	branch = refs/heads/master
+[submodule "xvega"]
+	url = https://github.com/conda-forge/xvega-feedstock.git
+	path = feedstocks/xvega
+	branch = refs/heads/master
