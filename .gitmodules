@@ -42190,3 +42190,7 @@
 	url = https://github.com/conda-forge/libmamba-feedstock.git
 	path = feedstocks/libmamba
 	branch = refs/heads/master
+[submodule "stats_can"]
+	url = https://github.com/conda-forge/stats_can-feedstock.git
+	path = feedstocks/stats_can
+	branch = refs/heads/master
