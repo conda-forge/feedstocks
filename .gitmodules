@@ -42234,3 +42234,7 @@
 	url = https://github.com/conda-forge/swisslandstats-geopy-feedstock.git
 	path = feedstocks/swisslandstats-geopy
 	branch = refs/heads/master
+[submodule "kickscore"]
+	url = https://github.com/conda-forge/kickscore-feedstock.git
+	path = feedstocks/kickscore
+	branch = refs/heads/master
