@@ -42246,3 +42246,7 @@
 	url = https://github.com/conda-forge/chembl_structure_pipeline-feedstock.git
 	path = feedstocks/chembl_structure_pipeline
 	branch = refs/heads/master
+[submodule "xontrib-xlsd"]
+	url = https://github.com/conda-forge/xontrib-xlsd-feedstock.git
+	path = feedstocks/xontrib-xlsd
+	branch = refs/heads/master
