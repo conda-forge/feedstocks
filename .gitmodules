@@ -42242,3 +42242,7 @@
 	url = https://github.com/conda-forge/ogb-feedstock.git
 	path = feedstocks/ogb
 	branch = refs/heads/master
+[submodule "chembl_structure_pipeline"]
+	url = https://github.com/conda-forge/chembl_structure_pipeline-feedstock.git
+	path = feedstocks/chembl_structure_pipeline
+	branch = refs/heads/master
