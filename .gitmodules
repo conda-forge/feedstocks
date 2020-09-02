@@ -42230,3 +42230,7 @@
 	url = https://github.com/conda-forge/slixmpp-feedstock.git
 	path = feedstocks/slixmpp
 	branch = refs/heads/master
+[submodule "swisslandstats-geopy"]
+	url = https://github.com/conda-forge/swisslandstats-geopy-feedstock.git
+	path = feedstocks/swisslandstats-geopy
+	branch = refs/heads/master
