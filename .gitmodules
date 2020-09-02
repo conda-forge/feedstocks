@@ -42226,3 +42226,7 @@
 	url = https://github.com/conda-forge/restview-feedstock.git
 	path = feedstocks/restview
 	branch = refs/heads/master
+[submodule "slixmpp"]
+	url = https://github.com/conda-forge/slixmpp-feedstock.git
+	path = feedstocks/slixmpp
+	branch = refs/heads/master
