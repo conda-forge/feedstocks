@@ -42238,3 +42238,7 @@
 	url = https://github.com/conda-forge/kickscore-feedstock.git
 	path = feedstocks/kickscore
 	branch = refs/heads/master
+[submodule "ogb"]
+	url = https://github.com/conda-forge/ogb-feedstock.git
+	path = feedstocks/ogb
+	branch = refs/heads/master
