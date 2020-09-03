@@ -42250,3 +42250,7 @@
 	url = https://github.com/conda-forge/xontrib-xlsd-feedstock.git
 	path = feedstocks/xontrib-xlsd
 	branch = refs/heads/master
+[submodule "parallel-hashmap"]
+	url = https://github.com/conda-forge/parallel-hashmap-feedstock.git
+	path = feedstocks/parallel-hashmap
+	branch = refs/heads/master
