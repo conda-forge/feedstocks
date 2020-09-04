@@ -42278,3 +42278,7 @@
 	url = https://github.com/conda-forge/rshiny-server-cmd-feedstock.git
 	path = feedstocks/rshiny-server-cmd
 	branch = refs/heads/master
+[submodule "dcor"]
+	url = https://github.com/conda-forge/dcor-feedstock.git
+	path = feedstocks/dcor
+	branch = refs/heads/master
