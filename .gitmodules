@@ -42258,3 +42258,7 @@
 	url = https://github.com/conda-forge/robotframework-lsp-feedstock.git
 	path = feedstocks/robotframework-lsp
 	branch = refs/heads/master
+[submodule "quickle"]
+	url = https://github.com/conda-forge/quickle-feedstock.git
+	path = feedstocks/quickle
+	branch = refs/heads/master
