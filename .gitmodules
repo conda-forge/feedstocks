@@ -42282,3 +42282,7 @@
 	url = https://github.com/conda-forge/dcor-feedstock.git
 	path = feedstocks/dcor
 	branch = refs/heads/master
+[submodule "xstatic-jquery"]
+	url = https://github.com/conda-forge/xstatic-jquery-feedstock.git
+	path = feedstocks/xstatic-jquery
+	branch = refs/heads/master
