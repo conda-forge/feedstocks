@@ -42262,3 +42262,7 @@
 	url = https://github.com/conda-forge/quickle-feedstock.git
 	path = feedstocks/quickle
 	branch = refs/heads/master
+[submodule "pysignal"]
+	url = https://github.com/conda-forge/pysignal-feedstock.git
+	path = feedstocks/pysignal
+	branch = refs/heads/master
