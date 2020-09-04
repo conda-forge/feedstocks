@@ -42266,3 +42266,7 @@
 	url = https://github.com/conda-forge/pysignal-feedstock.git
 	path = feedstocks/pysignal
 	branch = refs/heads/master
+[submodule "bgcargo"]
+	url = https://github.com/conda-forge/bgcargo-feedstock.git
+	path = feedstocks/bgcargo
+	branch = refs/heads/master
