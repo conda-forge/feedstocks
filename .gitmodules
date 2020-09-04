@@ -42270,3 +42270,7 @@
 	url = https://github.com/conda-forge/bgcargo-feedstock.git
 	path = feedstocks/bgcargo
 	branch = refs/heads/master
+[submodule "r-propagate"]
+	url = https://github.com/conda-forge/r-propagate-feedstock.git
+	path = feedstocks/r-propagate
+	branch = refs/heads/master
