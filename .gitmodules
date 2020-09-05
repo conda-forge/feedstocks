@@ -42302,3 +42302,7 @@
 	url = https://github.com/conda-forge/podman-compose-feedstock.git
 	path = feedstocks/podman-compose
 	branch = refs/heads/master
+[submodule "stringparser"]
+	url = https://github.com/conda-forge/stringparser-feedstock.git
+	path = feedstocks/stringparser
+	branch = refs/heads/master
