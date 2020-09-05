@@ -42310,3 +42310,7 @@
 	url = https://github.com/conda-forge/pimpmyclass-feedstock.git
 	path = feedstocks/pimpmyclass
 	branch = refs/heads/master
+[submodule "serialize"]
+	url = https://github.com/conda-forge/serialize-feedstock.git
+	path = feedstocks/serialize
+	branch = refs/heads/master
