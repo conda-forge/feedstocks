@@ -42298,3 +42298,7 @@
 	url = https://github.com/conda-forge/sidpy-feedstock.git
 	path = feedstocks/sidpy
 	branch = refs/heads/master
+[submodule "podman-compose"]
+	url = https://github.com/conda-forge/podman-compose-feedstock.git
+	path = feedstocks/podman-compose
+	branch = refs/heads/master
