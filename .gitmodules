@@ -42330,3 +42330,7 @@
 	url = https://github.com/conda-forge/lbapcommon-feedstock.git
 	path = feedstocks/lbapcommon
 	branch = refs/heads/master
+[submodule "aiokafka"]
+	url = https://github.com/conda-forge/aiokafka-feedstock.git
+	path = feedstocks/aiokafka
+	branch = refs/heads/master
