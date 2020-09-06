@@ -42318,3 +42318,7 @@
 	url = https://github.com/conda-forge/r-bactdating-feedstock.git
 	path = feedstocks/r-bactdating
 	branch = refs/heads/master
+[submodule "r-phylotools"]
+	url = https://github.com/conda-forge/r-phylotools-feedstock.git
+	path = feedstocks/r-phylotools
+	branch = refs/heads/master
