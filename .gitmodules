@@ -42326,3 +42326,7 @@
 	url = https://github.com/conda-forge/xstatic-feedstock.git
 	path = feedstocks/xstatic
 	branch = refs/heads/master
+[submodule "lbapcommon"]
+	url = https://github.com/conda-forge/lbapcommon-feedstock.git
+	path = feedstocks/lbapcommon
+	branch = refs/heads/master
