@@ -42322,3 +42322,7 @@
 	url = https://github.com/conda-forge/r-phylotools-feedstock.git
 	path = feedstocks/r-phylotools
 	branch = refs/heads/master
+[submodule "xstatic"]
+	url = https://github.com/conda-forge/xstatic-feedstock.git
+	path = feedstocks/xstatic
+	branch = refs/heads/master
