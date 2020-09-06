@@ -42338,3 +42338,7 @@
 	url = https://github.com/conda-forge/python-interface-feedstock.git
 	path = feedstocks/python-interface
 	branch = refs/heads/master
+[submodule "iso4217"]
+	url = https://github.com/conda-forge/iso4217-feedstock.git
+	path = feedstocks/iso4217
+	branch = refs/heads/master
