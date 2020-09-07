@@ -42362,3 +42362,7 @@
 	url = https://github.com/conda-forge/jupyter-lsp-feedstock.git
 	path = feedstocks/jupyter-lsp
 	branch = refs/heads/master
+[submodule "r-brio"]
+	url = https://github.com/conda-forge/r-brio-feedstock.git
+	path = feedstocks/r-brio
+	branch = refs/heads/master
