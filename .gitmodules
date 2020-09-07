@@ -42358,3 +42358,7 @@
 	url = https://github.com/conda-forge/lbaplocal-feedstock.git
 	path = feedstocks/lbaplocal
 	branch = refs/heads/master
+[submodule "jupyter-lsp"]
+	url = https://github.com/conda-forge/jupyter-lsp-feedstock.git
+	path = feedstocks/jupyter-lsp
+	branch = refs/heads/master
