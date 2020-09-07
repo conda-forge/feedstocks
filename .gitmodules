@@ -42350,3 +42350,7 @@
 	url = https://github.com/conda-forge/concepts-feedstock.git
 	path = feedstocks/concepts
 	branch = refs/heads/master
+[submodule "expects"]
+	url = https://github.com/conda-forge/expects-feedstock.git
+	path = feedstocks/expects
+	branch = refs/heads/master
