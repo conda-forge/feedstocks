@@ -42342,3 +42342,7 @@
 	url = https://github.com/conda-forge/iso4217-feedstock.git
 	path = feedstocks/iso4217
 	branch = refs/heads/master
+[submodule "trading-calendars"]
+	url = https://github.com/conda-forge/trading-calendars-feedstock.git
+	path = feedstocks/trading-calendars
+	branch = refs/heads/master
