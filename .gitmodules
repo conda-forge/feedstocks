@@ -42366,3 +42366,7 @@
 	url = https://github.com/conda-forge/r-brio-feedstock.git
 	path = feedstocks/r-brio
 	branch = refs/heads/master
+[submodule "r-downlit"]
+	url = https://github.com/conda-forge/r-downlit-feedstock.git
+	path = feedstocks/r-downlit
+	branch = refs/heads/master
