@@ -42354,3 +42354,7 @@
 	url = https://github.com/conda-forge/expects-feedstock.git
 	path = feedstocks/expects
 	branch = refs/heads/master
+[submodule "lbaplocal"]
+	url = https://github.com/conda-forge/lbaplocal-feedstock.git
+	path = feedstocks/lbaplocal
+	branch = refs/heads/master
