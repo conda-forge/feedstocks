@@ -42378,3 +42378,7 @@
 	url = https://github.com/conda-forge/kitchen-feedstock.git
 	path = feedstocks/kitchen
 	branch = refs/heads/master
+[submodule "appium-python-client"]
+	url = https://github.com/conda-forge/appium-python-client-feedstock.git
+	path = feedstocks/appium-python-client
+	branch = refs/heads/master
