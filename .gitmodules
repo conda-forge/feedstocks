@@ -42370,3 +42370,7 @@
 	url = https://github.com/conda-forge/r-downlit-feedstock.git
 	path = feedstocks/r-downlit
 	branch = refs/heads/master
+[submodule "zipline"]
+	url = https://github.com/conda-forge/zipline-feedstock.git
+	path = feedstocks/zipline
+	branch = refs/heads/master
