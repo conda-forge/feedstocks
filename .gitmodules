@@ -42374,3 +42374,7 @@
 	url = https://github.com/conda-forge/zipline-feedstock.git
 	path = feedstocks/zipline
 	branch = refs/heads/master
+[submodule "kitchen"]
+	url = https://github.com/conda-forge/kitchen-feedstock.git
+	path = feedstocks/kitchen
+	branch = refs/heads/master
