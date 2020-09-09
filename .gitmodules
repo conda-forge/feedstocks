@@ -42398,3 +42398,7 @@
 	url = https://github.com/conda-forge/rpyc-feedstock.git
 	path = feedstocks/rpyc
 	branch = refs/heads/master
+[submodule "r-ggdark"]
+	url = https://github.com/conda-forge/r-ggdark-feedstock.git
+	path = feedstocks/r-ggdark
+	branch = refs/heads/master
