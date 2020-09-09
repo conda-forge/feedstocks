@@ -42426,3 +42426,7 @@
 	url = https://github.com/conda-forge/lantz-feedstock.git
 	path = feedstocks/lantz
 	branch = refs/heads/master
+[submodule "django-ipware"]
+	url = https://github.com/conda-forge/django-ipware-feedstock.git
+	path = feedstocks/django-ipware
+	branch = refs/heads/master
