@@ -42406,3 +42406,7 @@
 	url = https://github.com/conda-forge/pycsep-feedstock.git
 	path = feedstocks/pycsep
 	branch = refs/heads/master
+[submodule "amply"]
+	url = https://github.com/conda-forge/amply-feedstock.git
+	path = feedstocks/amply
+	branch = refs/heads/master
