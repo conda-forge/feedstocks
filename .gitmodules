@@ -42434,3 +42434,7 @@
 	url = https://github.com/conda-forge/opentelemetry-sdk-feedstock.git
 	path = feedstocks/opentelemetry-sdk
 	branch = refs/heads/master
+[submodule "opentelemetry-api"]
+	url = https://github.com/conda-forge/opentelemetry-api-feedstock.git
+	path = feedstocks/opentelemetry-api
+	branch = refs/heads/master
