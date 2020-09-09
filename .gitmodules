@@ -42402,3 +42402,7 @@
 	url = https://github.com/conda-forge/r-ggdark-feedstock.git
 	path = feedstocks/r-ggdark
 	branch = refs/heads/master
+[submodule "pycsep"]
+	url = https://github.com/conda-forge/pycsep-feedstock.git
+	path = feedstocks/pycsep
+	branch = refs/heads/master
