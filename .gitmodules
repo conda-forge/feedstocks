@@ -42394,3 +42394,7 @@
 	url = https://github.com/conda-forge/e3sm_diags-feedstock.git
 	path = feedstocks/e3sm_diags
 	branch = refs/heads/master
+[submodule "rpyc"]
+	url = https://github.com/conda-forge/rpyc-feedstock.git
+	path = feedstocks/rpyc
+	branch = refs/heads/master
