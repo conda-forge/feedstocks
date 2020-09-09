@@ -42422,3 +42422,7 @@
 	url = https://github.com/conda-forge/xcfun-feedstock.git
 	path = feedstocks/xcfun
 	branch = refs/heads/master
+[submodule "lantz"]
+	url = https://github.com/conda-forge/lantz-feedstock.git
+	path = feedstocks/lantz
+	branch = refs/heads/master
