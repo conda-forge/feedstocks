@@ -42390,3 +42390,7 @@
 	url = https://github.com/conda-forge/siuba-feedstock.git
 	path = feedstocks/siuba
 	branch = refs/heads/master
+[submodule "e3sm_diags"]
+	url = https://github.com/conda-forge/e3sm_diags-feedstock.git
+	path = feedstocks/e3sm_diags
+	branch = refs/heads/master
