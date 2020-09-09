@@ -42410,3 +42410,7 @@
 	url = https://github.com/conda-forge/amply-feedstock.git
 	path = feedstocks/amply
 	branch = refs/heads/master
+[submodule "robotframework-appiumlibrary"]
+	url = https://github.com/conda-forge/robotframework-appiumlibrary-feedstock.git
+	path = feedstocks/robotframework-appiumlibrary
+	branch = refs/heads/master
