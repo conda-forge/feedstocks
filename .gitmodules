@@ -42418,3 +42418,7 @@
 	url = https://github.com/conda-forge/pardiso4py-feedstock.git
 	path = feedstocks/pardiso4py
 	branch = refs/heads/master
+[submodule "xcfun"]
+	url = https://github.com/conda-forge/xcfun-feedstock.git
+	path = feedstocks/xcfun
+	branch = refs/heads/master
