@@ -42430,3 +42430,7 @@
 	url = https://github.com/conda-forge/django-ipware-feedstock.git
 	path = feedstocks/django-ipware
 	branch = refs/heads/master
+[submodule "opentelemetry-sdk"]
+	url = https://github.com/conda-forge/opentelemetry-sdk-feedstock.git
+	path = feedstocks/opentelemetry-sdk
+	branch = refs/heads/master
