@@ -42526,3 +42526,7 @@
 	url = https://github.com/conda-forge/xontrib-argcomplete-feedstock.git
 	path = feedstocks/xontrib-argcomplete
 	branch = refs/heads/master
+[submodule "xontrib-prompt-bar"]
+	url = https://github.com/conda-forge/xontrib-prompt-bar-feedstock.git
+	path = feedstocks/xontrib-prompt-bar
+	branch = refs/heads/master
