@@ -42478,3 +42478,7 @@
 	url = https://github.com/conda-forge/pytest-github-actions-annotate-failures-feedstock.git
 	path = feedstocks/pytest-github-actions-annotate-failures
 	branch = refs/heads/master
+[submodule "django-colorfield"]
+	url = https://github.com/conda-forge/django-colorfield-feedstock.git
+	path = feedstocks/django-colorfield
+	branch = refs/heads/master
