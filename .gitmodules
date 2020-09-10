@@ -42454,3 +42454,7 @@
 	url = https://github.com/conda-forge/aiomultiprocess-feedstock.git
 	path = feedstocks/aiomultiprocess
 	branch = refs/heads/master
+[submodule "aws-checksums"]
+	url = https://github.com/conda-forge/aws-checksums-feedstock.git
+	path = feedstocks/aws-checksums
+	branch = refs/heads/master
