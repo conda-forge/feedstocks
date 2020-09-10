@@ -42486,3 +42486,7 @@
 	url = https://github.com/conda-forge/django-gravatar2-feedstock.git
 	path = feedstocks/django-gravatar2
 	branch = refs/heads/master
+[submodule "dask_traj"]
+	url = https://github.com/conda-forge/dask_traj-feedstock.git
+	path = feedstocks/dask_traj
+	branch = refs/heads/master
