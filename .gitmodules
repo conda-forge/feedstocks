@@ -42462,3 +42462,7 @@
 	url = https://github.com/conda-forge/r-rcarb-feedstock.git
 	path = feedstocks/r-rcarb
 	branch = refs/heads/master
+[submodule "r-deoptim"]
+	url = https://github.com/conda-forge/r-deoptim-feedstock.git
+	path = feedstocks/r-deoptim
+	branch = refs/heads/master
