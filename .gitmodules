@@ -42490,3 +42490,7 @@
 	url = https://github.com/conda-forge/dask_traj-feedstock.git
 	path = feedstocks/dask_traj
 	branch = refs/heads/master
+[submodule "neutronics_material_maker"]
+	url = https://github.com/conda-forge/neutronics_material_maker-feedstock.git
+	path = feedstocks/neutronics_material_maker
+	branch = refs/heads/master
