@@ -42502,3 +42502,7 @@
 	url = https://github.com/conda-forge/python-qpot-feedstock.git
 	path = feedstocks/python-qpot
 	branch = refs/heads/master
+[submodule "qpot"]
+	url = https://github.com/conda-forge/qpot-feedstock.git
+	path = feedstocks/qpot
+	branch = refs/heads/master
