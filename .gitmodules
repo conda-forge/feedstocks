@@ -42466,3 +42466,7 @@
 	url = https://github.com/conda-forge/r-deoptim-feedstock.git
 	path = feedstocks/r-deoptim
 	branch = refs/heads/master
+[submodule "r-adegraphics"]
+	url = https://github.com/conda-forge/r-adegraphics-feedstock.git
+	path = feedstocks/r-adegraphics
+	branch = refs/heads/master
