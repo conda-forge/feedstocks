@@ -42458,3 +42458,7 @@
 	url = https://github.com/conda-forge/aws-checksums-feedstock.git
 	path = feedstocks/aws-checksums
 	branch = refs/heads/master
+[submodule "r-rcarb"]
+	url = https://github.com/conda-forge/r-rcarb-feedstock.git
+	path = feedstocks/r-rcarb
+	branch = refs/heads/master
