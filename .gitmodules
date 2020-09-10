@@ -42442,3 +42442,7 @@
 	url = https://github.com/conda-forge/rubinenv-feedstock.git
 	path = feedstocks/rubinenv
 	branch = refs/heads/master
+[submodule "21cmfast"]
+	url = https://github.com/conda-forge/21cmfast-feedstock.git
+	path = feedstocks/21cmfast
+	branch = refs/heads/master
