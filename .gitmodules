@@ -42506,3 +42506,7 @@
 	url = https://github.com/conda-forge/qpot-feedstock.git
 	path = feedstocks/qpot
 	branch = refs/heads/master
+[submodule "ucs-detect"]
+	url = https://github.com/conda-forge/ucs-detect-feedstock.git
+	path = feedstocks/ucs-detect
+	branch = refs/heads/master
