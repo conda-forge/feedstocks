@@ -42474,3 +42474,7 @@
 	url = https://github.com/conda-forge/r-distory-feedstock.git
 	path = feedstocks/r-distory
 	branch = refs/heads/master
+[submodule "pytest-github-actions-annotate-failures"]
+	url = https://github.com/conda-forge/pytest-github-actions-annotate-failures-feedstock.git
+	path = feedstocks/pytest-github-actions-annotate-failures
+	branch = refs/heads/master
