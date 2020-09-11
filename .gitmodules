@@ -42554,3 +42554,7 @@
 	url = https://github.com/conda-forge/aws-c-event-stream-feedstock.git
 	path = feedstocks/aws-c-event-stream
 	branch = refs/heads/master
+[submodule "spavro"]
+	url = https://github.com/conda-forge/spavro-feedstock.git
+	path = feedstocks/spavro
+	branch = refs/heads/master
