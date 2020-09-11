@@ -42562,3 +42562,7 @@
 	url = https://github.com/conda-forge/_current_repodata_hack-feedstock.git
 	path = feedstocks/_current_repodata_hack
 	branch = refs/heads/master
+[submodule "robotframework-pabot"]
+	url = https://github.com/conda-forge/robotframework-pabot-feedstock.git
+	path = feedstocks/robotframework-pabot
+	branch = refs/heads/master
