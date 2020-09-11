@@ -42546,3 +42546,7 @@
 	url = https://github.com/conda-forge/r-treedist-feedstock.git
 	path = feedstocks/r-treedist
 	branch = refs/heads/master
+[submodule "r-rlumshiny"]
+	url = https://github.com/conda-forge/r-rlumshiny-feedstock.git
+	path = feedstocks/r-rlumshiny
+	branch = refs/heads/master
