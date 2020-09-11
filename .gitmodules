@@ -42542,3 +42542,7 @@
 	url = https://github.com/conda-forge/abc-classroom-feedstock.git
 	path = feedstocks/abc-classroom
 	branch = refs/heads/master
+[submodule "r-treedist"]
+	url = https://github.com/conda-forge/r-treedist-feedstock.git
+	path = feedstocks/r-treedist
+	branch = refs/heads/master
