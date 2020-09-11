@@ -42558,3 +42558,7 @@
 	url = https://github.com/conda-forge/spavro-feedstock.git
 	path = feedstocks/spavro
 	branch = refs/heads/master
+[submodule "_current_repodata_hack"]
+	url = https://github.com/conda-forge/_current_repodata_hack-feedstock.git
+	path = feedstocks/_current_repodata_hack
+	branch = refs/heads/master
