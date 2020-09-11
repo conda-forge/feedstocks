@@ -42534,3 +42534,7 @@
 	url = https://github.com/conda-forge/r-luminescence-feedstock.git
 	path = feedstocks/r-luminescence
 	branch = refs/heads/master
+[submodule "r-treetools"]
+	url = https://github.com/conda-forge/r-treetools-feedstock.git
+	path = feedstocks/r-treetools
+	branch = refs/heads/master
