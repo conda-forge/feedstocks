@@ -42582,3 +42582,7 @@
 	url = https://github.com/conda-forge/vcpkg-feedstock.git
 	path = feedstocks/vcpkg
 	branch = refs/heads/master
+[submodule "feedgen"]
+	url = https://github.com/conda-forge/feedgen-feedstock.git
+	path = feedstocks/feedgen
+	branch = refs/heads/master
