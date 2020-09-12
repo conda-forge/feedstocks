@@ -42574,3 +42574,7 @@
 	url = https://github.com/conda-forge/dask-sql-feedstock.git
 	path = feedstocks/dask-sql
 	branch = refs/heads/master
+[submodule "mpi4jax"]
+	url = https://github.com/conda-forge/mpi4jax-feedstock.git
+	path = feedstocks/mpi4jax
+	branch = refs/heads/master
