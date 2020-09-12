@@ -42578,3 +42578,7 @@
 	url = https://github.com/conda-forge/mpi4jax-feedstock.git
 	path = feedstocks/mpi4jax
 	branch = refs/heads/master
+[submodule "vcpkg"]
+	url = https://github.com/conda-forge/vcpkg-feedstock.git
+	path = feedstocks/vcpkg
+	branch = refs/heads/master
