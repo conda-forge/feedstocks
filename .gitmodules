@@ -42566,3 +42566,7 @@
 	url = https://github.com/conda-forge/robotframework-pabot-feedstock.git
 	path = feedstocks/robotframework-pabot
 	branch = refs/heads/master
+[submodule "immutabledict"]
+	url = https://github.com/conda-forge/immutabledict-feedstock.git
+	path = feedstocks/immutabledict
+	branch = refs/heads/master
