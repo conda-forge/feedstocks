@@ -42590,3 +42590,7 @@
 	url = https://github.com/conda-forge/7zip-feedstock.git
 	path = feedstocks/7zip
 	branch = refs/heads/master
+[submodule "termcolor2"]
+	url = https://github.com/conda-forge/termcolor2-feedstock.git
+	path = feedstocks/termcolor2
+	branch = refs/heads/master
