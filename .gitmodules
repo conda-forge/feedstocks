@@ -42602,3 +42602,7 @@
 	url = https://github.com/conda-forge/getent-feedstock.git
 	path = feedstocks/getent
 	branch = refs/heads/master
+[submodule "sgmllib3k"]
+	url = https://github.com/conda-forge/sgmllib3k-feedstock.git
+	path = feedstocks/sgmllib3k
+	branch = refs/heads/master
