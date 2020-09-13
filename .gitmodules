@@ -42586,3 +42586,7 @@
 	url = https://github.com/conda-forge/feedgen-feedstock.git
 	path = feedstocks/feedgen
 	branch = refs/heads/master
+[submodule "7zip"]
+	url = https://github.com/conda-forge/7zip-feedstock.git
+	path = feedstocks/7zip
+	branch = refs/heads/master
