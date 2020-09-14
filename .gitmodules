@@ -42634,3 +42634,7 @@
 	url = https://github.com/conda-forge/coin-or-cgl-feedstock.git
 	path = feedstocks/coin-or-cgl
 	branch = refs/heads/master
+[submodule "coin-or-clp"]
+	url = https://github.com/conda-forge/coin-or-clp-feedstock.git
+	path = feedstocks/coin-or-clp
+	branch = refs/heads/master
