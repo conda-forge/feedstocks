@@ -42618,3 +42618,7 @@
 	url = https://github.com/conda-forge/textnets-feedstock.git
 	path = feedstocks/textnets
 	branch = refs/heads/master
+[submodule "prody"]
+	url = https://github.com/conda-forge/prody-feedstock.git
+	path = feedstocks/prody
+	branch = refs/heads/master
