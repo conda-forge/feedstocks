@@ -42662,3 +42662,7 @@
 	url = https://github.com/conda-forge/mizuroute-feedstock.git
 	path = feedstocks/mizuroute
 	branch = refs/heads/master
+[submodule "demjson"]
+	url = https://github.com/conda-forge/demjson-feedstock.git
+	path = feedstocks/demjson
+	branch = refs/heads/master
