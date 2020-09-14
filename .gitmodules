@@ -42646,3 +42646,7 @@
 	url = https://github.com/conda-forge/spherical-feedstock.git
 	path = feedstocks/spherical
 	branch = refs/heads/master
+[submodule "cross-python"]
+	url = https://github.com/conda-forge/cross-python-feedstock.git
+	path = feedstocks/cross-python
+	branch = refs/heads/master
