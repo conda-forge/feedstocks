@@ -42610,3 +42610,7 @@
 	url = https://github.com/conda-forge/pytorch-forecasting-feedstock.git
 	path = feedstocks/pytorch-forecasting
 	branch = refs/heads/master
+[submodule "r-metaskat"]
+	url = https://github.com/conda-forge/r-metaskat-feedstock.git
+	path = feedstocks/r-metaskat
+	branch = refs/heads/master
