@@ -42614,3 +42614,7 @@
 	url = https://github.com/conda-forge/r-metaskat-feedstock.git
 	path = feedstocks/r-metaskat
 	branch = refs/heads/master
+[submodule "textnets"]
+	url = https://github.com/conda-forge/textnets-feedstock.git
+	path = feedstocks/textnets
+	branch = refs/heads/master
