@@ -42626,3 +42626,7 @@
 	url = https://github.com/conda-forge/coin-or-cbc-feedstock.git
 	path = feedstocks/coin-or-cbc
 	branch = refs/heads/master
+[submodule "coin-or-osi"]
+	url = https://github.com/conda-forge/coin-or-osi-feedstock.git
+	path = feedstocks/coin-or-osi
+	branch = refs/heads/master
