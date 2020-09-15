@@ -42706,3 +42706,7 @@
 	url = https://github.com/conda-forge/cpp-terminal-feedstock.git
 	path = feedstocks/cpp-terminal
 	branch = refs/heads/master
+[submodule "xxh-xxh"]
+	url = https://github.com/conda-forge/xxh-xxh-feedstock.git
+	path = feedstocks/xxh-xxh
+	branch = refs/heads/master
