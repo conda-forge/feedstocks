@@ -42698,3 +42698,7 @@
 	url = https://github.com/conda-forge/redo-feedstock.git
 	path = feedstocks/redo
 	branch = refs/heads/master
+[submodule "tokenize-output"]
+	url = https://github.com/conda-forge/tokenize-output-feedstock.git
+	path = feedstocks/tokenize-output
+	branch = refs/heads/master
