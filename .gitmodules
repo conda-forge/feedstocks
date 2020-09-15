@@ -42670,3 +42670,7 @@
 	url = https://github.com/conda-forge/xsum-feedstock.git
 	path = feedstocks/xsum
 	branch = refs/heads/master
+[submodule "rcat"]
+	url = https://github.com/conda-forge/rcat-feedstock.git
+	path = feedstocks/rcat
+	branch = refs/heads/master
