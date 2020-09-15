@@ -42702,3 +42702,7 @@
 	url = https://github.com/conda-forge/tokenize-output-feedstock.git
 	path = feedstocks/tokenize-output
 	branch = refs/heads/master
+[submodule "cpp-terminal"]
+	url = https://github.com/conda-forge/cpp-terminal-feedstock.git
+	path = feedstocks/cpp-terminal
+	branch = refs/heads/master
