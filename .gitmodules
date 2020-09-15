@@ -42690,3 +42690,7 @@
 	url = https://github.com/conda-forge/cget-feedstock.git
 	path = feedstocks/cget
 	branch = refs/heads/master
+[submodule "lit-nlp"]
+	url = https://github.com/conda-forge/lit-nlp-feedstock.git
+	path = feedstocks/lit-nlp
+	branch = refs/heads/master
