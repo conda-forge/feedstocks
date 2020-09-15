@@ -42686,3 +42686,7 @@
 	url = https://github.com/conda-forge/splink-feedstock.git
 	path = feedstocks/splink
 	branch = refs/heads/master
+[submodule "cget"]
+	url = https://github.com/conda-forge/cget-feedstock.git
+	path = feedstocks/cget
+	branch = refs/heads/master
