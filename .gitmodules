@@ -42718,3 +42718,7 @@
 	url = https://github.com/conda-forge/go-licenses-feedstock.git
 	path = feedstocks/go-licenses
 	branch = refs/heads/master
+[submodule "openexr-python"]
+	url = https://github.com/conda-forge/openexr-python-feedstock.git
+	path = feedstocks/openexr-python
+	branch = refs/heads/master
