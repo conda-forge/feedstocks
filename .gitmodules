@@ -42730,3 +42730,7 @@
 	url = https://github.com/conda-forge/solaris-feedstock.git
 	path = feedstocks/solaris
 	branch = refs/heads/master
+[submodule "openrefine"]
+	url = https://github.com/conda-forge/openrefine-feedstock.git
+	path = feedstocks/openrefine
+	branch = refs/heads/master
