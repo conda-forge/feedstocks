@@ -42722,3 +42722,7 @@
 	url = https://github.com/conda-forge/openexr-python-feedstock.git
 	path = feedstocks/openexr-python
 	branch = refs/heads/master
+[submodule "kubelogin"]
+	url = https://github.com/conda-forge/kubelogin-feedstock.git
+	path = feedstocks/kubelogin
+	branch = refs/heads/master
