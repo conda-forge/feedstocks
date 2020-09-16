@@ -42726,3 +42726,7 @@
 	url = https://github.com/conda-forge/kubelogin-feedstock.git
 	path = feedstocks/kubelogin
 	branch = refs/heads/master
+[submodule "solaris"]
+	url = https://github.com/conda-forge/solaris-feedstock.git
+	path = feedstocks/solaris
+	branch = refs/heads/master
