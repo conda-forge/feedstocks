@@ -42758,3 +42758,7 @@
 	url = https://github.com/conda-forge/r-imgur-feedstock.git
 	path = feedstocks/r-imgur
 	branch = refs/heads/master
+[submodule "r-geogrid"]
+	url = https://github.com/conda-forge/r-geogrid-feedstock.git
+	path = feedstocks/r-geogrid
+	branch = refs/heads/master
