@@ -42762,3 +42762,7 @@
 	url = https://github.com/conda-forge/r-geogrid-feedstock.git
 	path = feedstocks/r-geogrid
 	branch = refs/heads/master
+[submodule "consolemd"]
+	url = https://github.com/conda-forge/consolemd-feedstock.git
+	path = feedstocks/consolemd
+	branch = refs/heads/master
