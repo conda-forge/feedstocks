@@ -42750,3 +42750,7 @@
 	url = https://github.com/conda-forge/cpp-half-feedstock.git
 	path = feedstocks/cpp-half
 	branch = refs/heads/master
+[submodule "r-geofacet"]
+	url = https://github.com/conda-forge/r-geofacet-feedstock.git
+	path = feedstocks/r-geofacet
+	branch = refs/heads/master
