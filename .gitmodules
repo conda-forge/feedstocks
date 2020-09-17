@@ -42742,3 +42742,7 @@
 	url = https://github.com/conda-forge/signalrcore-feedstock.git
 	path = feedstocks/signalrcore
 	branch = refs/heads/master
+[submodule "jupyterlab-translate"]
+	url = https://github.com/conda-forge/jupyterlab-translate-feedstock.git
+	path = feedstocks/jupyterlab-translate
+	branch = refs/heads/master
