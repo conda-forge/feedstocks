@@ -42766,3 +42766,7 @@
 	url = https://github.com/conda-forge/consolemd-feedstock.git
 	path = feedstocks/consolemd
 	branch = refs/heads/master
+[submodule "r-seasonal"]
+	url = https://github.com/conda-forge/r-seasonal-feedstock.git
+	path = feedstocks/r-seasonal
+	branch = refs/heads/master
