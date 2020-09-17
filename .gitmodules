@@ -42778,3 +42778,7 @@
 	url = https://github.com/conda-forge/firefly-client-feedstock.git
 	path = feedstocks/firefly-client
 	branch = refs/heads/master
+[submodule "concurrent-log-handler"]
+	url = https://github.com/conda-forge/concurrent-log-handler-feedstock.git
+	path = feedstocks/concurrent-log-handler
+	branch = refs/heads/master
