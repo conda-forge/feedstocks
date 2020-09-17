@@ -42738,3 +42738,7 @@
 	url = https://github.com/conda-forge/mrcpp-feedstock.git
 	path = feedstocks/mrcpp
 	branch = refs/heads/master
+[submodule "signalrcore"]
+	url = https://github.com/conda-forge/signalrcore-feedstock.git
+	path = feedstocks/signalrcore
+	branch = refs/heads/master
