@@ -42746,3 +42746,7 @@
 	url = https://github.com/conda-forge/jupyterlab-translate-feedstock.git
 	path = feedstocks/jupyterlab-translate
 	branch = refs/heads/master
+[submodule "cpp-half"]
+	url = https://github.com/conda-forge/cpp-half-feedstock.git
+	path = feedstocks/cpp-half
+	branch = refs/heads/master
