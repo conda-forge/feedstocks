@@ -42790,3 +42790,7 @@
 	url = https://github.com/conda-forge/uproot4-feedstock.git
 	path = feedstocks/uproot4
 	branch = refs/heads/master
+[submodule "pypeit"]
+	url = https://github.com/conda-forge/pypeit-feedstock.git
+	path = feedstocks/pypeit
+	branch = refs/heads/master
