@@ -42786,3 +42786,7 @@
 	url = https://github.com/conda-forge/slicer-feedstock.git
 	path = feedstocks/slicer
 	branch = refs/heads/master
+[submodule "uproot4"]
+	url = https://github.com/conda-forge/uproot4-feedstock.git
+	path = feedstocks/uproot4
+	branch = refs/heads/master
