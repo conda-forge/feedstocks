@@ -42802,3 +42802,7 @@
 	url = https://github.com/conda-forge/r-scatterd3-feedstock.git
 	path = feedstocks/r-scatterd3
 	branch = refs/heads/master
+[submodule "volatile"]
+	url = https://github.com/conda-forge/volatile-feedstock.git
+	path = feedstocks/volatile
+	branch = refs/heads/master
