@@ -42810,3 +42810,7 @@
 	url = https://github.com/conda-forge/aisim-feedstock.git
 	path = feedstocks/aisim
 	branch = refs/heads/master
+[submodule "wwt_data_formats"]
+	url = https://github.com/conda-forge/wwt_data_formats-feedstock.git
+	path = feedstocks/wwt_data_formats
+	branch = refs/heads/master
