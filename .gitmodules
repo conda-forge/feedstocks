@@ -42826,3 +42826,7 @@
 	url = https://github.com/conda-forge/neworder-feedstock.git
 	path = feedstocks/neworder
 	branch = refs/heads/master
+[submodule "toasty"]
+	url = https://github.com/conda-forge/toasty-feedstock.git
+	path = feedstocks/toasty
+	branch = refs/heads/master
