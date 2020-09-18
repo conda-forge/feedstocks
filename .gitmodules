@@ -42782,3 +42782,7 @@
 	url = https://github.com/conda-forge/concurrent-log-handler-feedstock.git
 	path = feedstocks/concurrent-log-handler
 	branch = refs/heads/master
+[submodule "slicer"]
+	url = https://github.com/conda-forge/slicer-feedstock.git
+	path = feedstocks/slicer
+	branch = refs/heads/master
