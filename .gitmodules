@@ -42806,3 +42806,7 @@
 	url = https://github.com/conda-forge/volatile-feedstock.git
 	path = feedstocks/volatile
 	branch = refs/heads/master
+[submodule "aisim"]
+	url = https://github.com/conda-forge/aisim-feedstock.git
+	path = feedstocks/aisim
+	branch = refs/heads/master
