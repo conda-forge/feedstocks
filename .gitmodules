@@ -42798,3 +42798,7 @@
 	url = https://github.com/conda-forge/r-poisbinom-feedstock.git
 	path = feedstocks/r-poisbinom
 	branch = refs/heads/master
+[submodule "r-scatterd3"]
+	url = https://github.com/conda-forge/r-scatterd3-feedstock.git
+	path = feedstocks/r-scatterd3
+	branch = refs/heads/master
