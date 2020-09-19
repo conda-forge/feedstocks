@@ -42830,3 +42830,7 @@
 	url = https://github.com/conda-forge/toasty-feedstock.git
 	path = feedstocks/toasty
 	branch = refs/heads/master
+[submodule "rdata"]
+	url = https://github.com/conda-forge/rdata-feedstock.git
+	path = feedstocks/rdata
+	branch = refs/heads/master
