@@ -42854,3 +42854,7 @@
 	url = https://github.com/conda-forge/r-opennlpdata-feedstock.git
 	path = feedstocks/r-opennlpdata
 	branch = refs/heads/master
+[submodule "coffea"]
+	url = https://github.com/conda-forge/coffea-feedstock.git
+	path = feedstocks/coffea
+	branch = refs/heads/master
