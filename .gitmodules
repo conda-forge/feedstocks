@@ -42842,3 +42842,7 @@
 	url = https://github.com/conda-forge/r-gender-feedstock.git
 	path = feedstocks/r-gender
 	branch = refs/heads/master
+[submodule "r-qdap"]
+	url = https://github.com/conda-forge/r-qdap-feedstock.git
+	path = feedstocks/r-qdap
+	branch = refs/heads/master
