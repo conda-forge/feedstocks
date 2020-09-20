@@ -42846,3 +42846,7 @@
 	url = https://github.com/conda-forge/r-qdap-feedstock.git
 	path = feedstocks/r-qdap
 	branch = refs/heads/master
+[submodule "r-venneuler"]
+	url = https://github.com/conda-forge/r-venneuler-feedstock.git
+	path = feedstocks/r-venneuler
+	branch = refs/heads/master
