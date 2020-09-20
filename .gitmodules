@@ -42858,3 +42858,7 @@
 	url = https://github.com/conda-forge/coffea-feedstock.git
 	path = feedstocks/coffea
 	branch = refs/heads/master
+[submodule "r-opennlp"]
+	url = https://github.com/conda-forge/r-opennlp-feedstock.git
+	path = feedstocks/r-opennlp
+	branch = refs/heads/master
