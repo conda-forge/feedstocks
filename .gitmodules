@@ -42838,3 +42838,7 @@
 	url = https://github.com/conda-forge/r-qdapdictionaries-feedstock.git
 	path = feedstocks/r-qdapdictionaries
 	branch = refs/heads/master
+[submodule "r-gender"]
+	url = https://github.com/conda-forge/r-gender-feedstock.git
+	path = feedstocks/r-gender
+	branch = refs/heads/master
