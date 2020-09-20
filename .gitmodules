@@ -42850,3 +42850,7 @@
 	url = https://github.com/conda-forge/r-venneuler-feedstock.git
 	path = feedstocks/r-venneuler
 	branch = refs/heads/master
+[submodule "r-opennlpdata"]
+	url = https://github.com/conda-forge/r-opennlpdata-feedstock.git
+	path = feedstocks/r-opennlpdata
+	branch = refs/heads/master
