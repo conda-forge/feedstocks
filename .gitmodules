@@ -42862,3 +42862,7 @@
 	url = https://github.com/conda-forge/r-opennlp-feedstock.git
 	path = feedstocks/r-opennlp
 	branch = refs/heads/master
+[submodule "glue-astronomy"]
+	url = https://github.com/conda-forge/glue-astronomy-feedstock.git
+	path = feedstocks/glue-astronomy
+	branch = refs/heads/master
