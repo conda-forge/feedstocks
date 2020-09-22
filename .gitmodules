@@ -42890,3 +42890,7 @@
 	url = https://github.com/conda-forge/blackdoc-feedstock.git
 	path = feedstocks/blackdoc
 	branch = refs/heads/master
+[submodule "mixsea"]
+	url = https://github.com/conda-forge/mixsea-feedstock.git
+	path = feedstocks/mixsea
+	branch = refs/heads/master
