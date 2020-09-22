@@ -42886,3 +42886,7 @@
 	url = https://github.com/conda-forge/ensureconda-feedstock.git
 	path = feedstocks/ensureconda
 	branch = refs/heads/master
+[submodule "blackdoc"]
+	url = https://github.com/conda-forge/blackdoc-feedstock.git
+	path = feedstocks/blackdoc
+	branch = refs/heads/master
