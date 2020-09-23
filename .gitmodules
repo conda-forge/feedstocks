@@ -42898,3 +42898,7 @@
 	url = https://github.com/conda-forge/cctbx-base-feedstock.git
 	path = feedstocks/cctbx-base
 	branch = refs/heads/master
+[submodule "minian"]
+	url = https://github.com/conda-forge/minian-feedstock.git
+	path = feedstocks/minian
+	branch = refs/heads/master
