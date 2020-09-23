@@ -42894,3 +42894,7 @@
 	url = https://github.com/conda-forge/mixsea-feedstock.git
 	path = feedstocks/mixsea
 	branch = refs/heads/master
+[submodule "cctbx-base"]
+	url = https://github.com/conda-forge/cctbx-base-feedstock.git
+	path = feedstocks/cctbx-base
+	branch = refs/heads/master
