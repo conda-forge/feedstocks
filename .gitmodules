@@ -42910,3 +42910,7 @@
 	url = https://github.com/conda-forge/geoarray-feedstock.git
 	path = feedstocks/geoarray
 	branch = refs/heads/master
+[submodule "geowombat"]
+	url = https://github.com/conda-forge/geowombat-feedstock.git
+	path = feedstocks/geowombat
+	branch = refs/heads/master
