@@ -42922,3 +42922,7 @@
 	url = https://github.com/conda-forge/arc3o-feedstock.git
 	path = feedstocks/arc3o
 	branch = refs/heads/master
+[submodule "r-fastmatrix"]
+	url = https://github.com/conda-forge/r-fastmatrix-feedstock.git
+	path = feedstocks/r-fastmatrix
+	branch = refs/heads/master
