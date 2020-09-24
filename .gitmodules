@@ -42906,3 +42906,7 @@
 	url = https://github.com/conda-forge/broadbean-feedstock.git
 	path = feedstocks/broadbean
 	branch = refs/heads/master
+[submodule "geoarray"]
+	url = https://github.com/conda-forge/geoarray-feedstock.git
+	path = feedstocks/geoarray
+	branch = refs/heads/master
