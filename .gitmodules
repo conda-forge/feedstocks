@@ -42930,3 +42930,7 @@
 	url = https://github.com/conda-forge/django-waffle-feedstock.git
 	path = feedstocks/django-waffle
 	branch = refs/heads/master
+[submodule "tianshou"]
+	url = https://github.com/conda-forge/tianshou-feedstock.git
+	path = feedstocks/tianshou
+	branch = refs/heads/master
