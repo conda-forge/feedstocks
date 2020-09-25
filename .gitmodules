@@ -42950,3 +42950,7 @@
 	url = https://github.com/conda-forge/pymartini-feedstock.git
 	path = feedstocks/pymartini
 	branch = refs/heads/master
+[submodule "nvtx-c"]
+	url = https://github.com/conda-forge/nvtx-c-feedstock.git
+	path = feedstocks/nvtx-c
+	branch = refs/heads/master
