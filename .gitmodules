@@ -42926,3 +42926,7 @@
 	url = https://github.com/conda-forge/r-fastmatrix-feedstock.git
 	path = feedstocks/r-fastmatrix
 	branch = refs/heads/master
+[submodule "django-waffle"]
+	url = https://github.com/conda-forge/django-waffle-feedstock.git
+	path = feedstocks/django-waffle
+	branch = refs/heads/master
