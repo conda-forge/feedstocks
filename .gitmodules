@@ -42946,3 +42946,7 @@
 	url = https://github.com/conda-forge/r-rbf-feedstock.git
 	path = feedstocks/r-rbf
 	branch = refs/heads/master
+[submodule "pymartini"]
+	url = https://github.com/conda-forge/pymartini-feedstock.git
+	path = feedstocks/pymartini
+	branch = refs/heads/master
