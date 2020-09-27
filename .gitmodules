@@ -42966,3 +42966,7 @@
 	url = https://github.com/conda-forge/r-deming-feedstock.git
 	path = feedstocks/r-deming
 	branch = refs/heads/master
+[submodule "jupyter-flex"]
+	url = https://github.com/conda-forge/jupyter-flex-feedstock.git
+	path = feedstocks/jupyter-flex
+	branch = refs/heads/master
