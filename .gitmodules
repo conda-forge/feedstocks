@@ -42958,3 +42958,7 @@
 	url = https://github.com/conda-forge/r-easycsv-feedstock.git
 	path = feedstocks/r-easycsv
 	branch = refs/heads/master
+[submodule "frictionless"]
+	url = https://github.com/conda-forge/frictionless-feedstock.git
+	path = feedstocks/frictionless
+	branch = refs/heads/master
