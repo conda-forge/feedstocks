@@ -43006,3 +43006,7 @@
 	url = https://github.com/conda-forge/nbclassic-feedstock.git
 	path = feedstocks/nbclassic
 	branch = refs/heads/master
+[submodule "nvtx"]
+	url = https://github.com/conda-forge/nvtx-feedstock.git
+	path = feedstocks/nvtx
+	branch = refs/heads/master
