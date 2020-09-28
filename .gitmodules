@@ -42998,3 +42998,7 @@
 	url = https://github.com/conda-forge/marshmallow-dataclass-feedstock.git
 	path = feedstocks/marshmallow-dataclass
 	branch = refs/heads/master
+[submodule "aif360"]
+	url = https://github.com/conda-forge/aif360-feedstock.git
+	path = feedstocks/aif360
+	branch = refs/heads/master
