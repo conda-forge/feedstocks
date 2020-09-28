@@ -42990,3 +42990,7 @@
 	url = https://github.com/conda-forge/azure-keyvault-secrets-feedstock.git
 	path = feedstocks/azure-keyvault-secrets
 	branch = refs/heads/master
+[submodule "azure-keyvault-keys"]
+	url = https://github.com/conda-forge/azure-keyvault-keys-feedstock.git
+	path = feedstocks/azure-keyvault-keys
+	branch = refs/heads/master
