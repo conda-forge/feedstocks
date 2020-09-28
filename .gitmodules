@@ -43002,3 +43002,7 @@
 	url = https://github.com/conda-forge/aif360-feedstock.git
 	path = feedstocks/aif360
 	branch = refs/heads/master
+[submodule "nbclassic"]
+	url = https://github.com/conda-forge/nbclassic-feedstock.git
+	path = feedstocks/nbclassic
+	branch = refs/heads/master
