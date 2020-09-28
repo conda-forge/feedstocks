@@ -42994,3 +42994,7 @@
 	url = https://github.com/conda-forge/azure-keyvault-keys-feedstock.git
 	path = feedstocks/azure-keyvault-keys
 	branch = refs/heads/master
+[submodule "marshmallow-dataclass"]
+	url = https://github.com/conda-forge/marshmallow-dataclass-feedstock.git
+	path = feedstocks/marshmallow-dataclass
+	branch = refs/heads/master
