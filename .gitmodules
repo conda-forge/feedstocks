@@ -42978,3 +42978,7 @@
 	url = https://github.com/conda-forge/ipyspin-feedstock.git
 	path = feedstocks/ipyspin
 	branch = refs/heads/master
+[submodule "chebfun"]
+	url = https://github.com/conda-forge/chebfun-feedstock.git
+	path = feedstocks/chebfun
+	branch = refs/heads/master
