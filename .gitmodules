@@ -43014,3 +43014,7 @@
 	url = https://github.com/conda-forge/r-searcher-feedstock.git
 	path = feedstocks/r-searcher
 	branch = refs/heads/master
+[submodule "glimpse"]
+	url = https://github.com/conda-forge/glimpse-feedstock.git
+	path = feedstocks/glimpse
+	branch = refs/heads/master
