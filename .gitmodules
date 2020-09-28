@@ -43010,3 +43010,7 @@
 	url = https://github.com/conda-forge/nvtx-feedstock.git
 	path = feedstocks/nvtx
 	branch = refs/heads/master
+[submodule "r-searcher"]
+	url = https://github.com/conda-forge/r-searcher-feedstock.git
+	path = feedstocks/r-searcher
+	branch = refs/heads/master
