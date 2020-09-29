@@ -43018,3 +43018,7 @@
 	url = https://github.com/conda-forge/glimpse-feedstock.git
 	path = feedstocks/glimpse
 	branch = refs/heads/master
+[submodule "zfp"]
+	url = https://github.com/conda-forge/zfp-feedstock.git
+	path = feedstocks/zfp
+	branch = refs/heads/master
