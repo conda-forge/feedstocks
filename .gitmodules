@@ -43050,3 +43050,7 @@
 	url = https://github.com/conda-forge/taudem-feedstock.git
 	path = feedstocks/taudem
 	branch = refs/heads/master
+[submodule "atom-ml"]
+	url = https://github.com/conda-forge/atom-ml-feedstock.git
+	path = feedstocks/atom-ml
+	branch = refs/heads/master
