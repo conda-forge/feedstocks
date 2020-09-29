@@ -43026,3 +43026,7 @@
 	url = https://github.com/conda-forge/bullet-python-feedstock.git
 	path = feedstocks/bullet-python
 	branch = refs/heads/master
+[submodule "ta-lib"]
+	url = https://github.com/conda-forge/ta-lib-feedstock.git
+	path = feedstocks/ta-lib
+	branch = refs/heads/master
