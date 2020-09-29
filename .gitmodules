@@ -43038,3 +43038,7 @@
 	url = https://github.com/conda-forge/country_converter-feedstock.git
 	path = feedstocks/country_converter
 	branch = refs/heads/master
+[submodule "libta-lib"]
+	url = https://github.com/conda-forge/libta-lib-feedstock.git
+	path = feedstocks/libta-lib
+	branch = refs/heads/master
