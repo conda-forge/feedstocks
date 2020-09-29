@@ -43054,3 +43054,7 @@
 	url = https://github.com/conda-forge/atom-ml-feedstock.git
 	path = feedstocks/atom-ml
 	branch = refs/heads/master
+[submodule "nbjuniper"]
+	url = https://github.com/conda-forge/nbjuniper-feedstock.git
+	path = feedstocks/nbjuniper
+	branch = refs/heads/master
