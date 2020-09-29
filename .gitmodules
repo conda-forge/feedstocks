@@ -43046,3 +43046,7 @@
 	url = https://github.com/conda-forge/repoze.who-feedstock.git
 	path = feedstocks/repoze.who
 	branch = refs/heads/master
+[submodule "taudem"]
+	url = https://github.com/conda-forge/taudem-feedstock.git
+	path = feedstocks/taudem
+	branch = refs/heads/master
