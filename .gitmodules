@@ -43034,3 +43034,7 @@
 	url = https://github.com/conda-forge/pyre-feedstock.git
 	path = feedstocks/pyre
 	branch = refs/heads/master
+[submodule "country_converter"]
+	url = https://github.com/conda-forge/country_converter-feedstock.git
+	path = feedstocks/country_converter
+	branch = refs/heads/master
