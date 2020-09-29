@@ -43030,3 +43030,7 @@
 	url = https://github.com/conda-forge/ta-lib-feedstock.git
 	path = feedstocks/ta-lib
 	branch = refs/heads/master
+[submodule "pyre"]
+	url = https://github.com/conda-forge/pyre-feedstock.git
+	path = feedstocks/pyre
+	branch = refs/heads/master
