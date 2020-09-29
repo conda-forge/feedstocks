@@ -43042,3 +43042,7 @@
 	url = https://github.com/conda-forge/libta-lib-feedstock.git
 	path = feedstocks/libta-lib
 	branch = refs/heads/master
+[submodule "repoze.who"]
+	url = https://github.com/conda-forge/repoze.who-feedstock.git
+	path = feedstocks/repoze.who
+	branch = refs/heads/master
