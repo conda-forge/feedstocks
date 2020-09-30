@@ -43074,3 +43074,7 @@
 	url = https://github.com/conda-forge/pdspy-feedstock.git
 	path = feedstocks/pdspy
 	branch = refs/heads/master
+[submodule "findent"]
+	url = https://github.com/conda-forge/findent-feedstock.git
+	path = feedstocks/findent
+	branch = refs/heads/master
