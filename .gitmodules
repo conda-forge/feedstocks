@@ -43070,3 +43070,7 @@
 	url = https://github.com/conda-forge/pyls-spyder-feedstock.git
 	path = feedstocks/pyls-spyder
 	branch = refs/heads/master
+[submodule "pdspy"]
+	url = https://github.com/conda-forge/pdspy-feedstock.git
+	path = feedstocks/pdspy
+	branch = refs/heads/master
