@@ -43098,3 +43098,7 @@
 	url = https://github.com/conda-forge/rust-activation-feedstock.git
 	path = feedstocks/rust-activation
 	branch = refs/heads/master
+[submodule "ldid"]
+	url = https://github.com/conda-forge/ldid-feedstock.git
+	path = feedstocks/ldid
+	branch = refs/heads/master
