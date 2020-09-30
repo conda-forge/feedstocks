@@ -43094,3 +43094,7 @@
 	url = https://github.com/conda-forge/diceware-feedstock.git
 	path = feedstocks/diceware
 	branch = refs/heads/master
+[submodule "rust-activation"]
+	url = https://github.com/conda-forge/rust-activation-feedstock.git
+	path = feedstocks/rust-activation
+	branch = refs/heads/master
