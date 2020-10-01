@@ -43106,3 +43106,7 @@
 	url = https://github.com/conda-forge/cachelib-feedstock.git
 	path = feedstocks/cachelib
 	branch = refs/heads/master
+[submodule "deodr"]
+	url = https://github.com/conda-forge/deodr-feedstock.git
+	path = feedstocks/deodr
+	branch = refs/heads/master
