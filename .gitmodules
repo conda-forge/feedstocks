@@ -43102,3 +43102,7 @@
 	url = https://github.com/conda-forge/ldid-feedstock.git
 	path = feedstocks/ldid
 	branch = refs/heads/master
+[submodule "cachelib"]
+	url = https://github.com/conda-forge/cachelib-feedstock.git
+	path = feedstocks/cachelib
+	branch = refs/heads/master
