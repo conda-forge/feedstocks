@@ -43126,3 +43126,7 @@
 	url = https://github.com/conda-forge/r-pointblank-feedstock.git
 	path = feedstocks/r-pointblank
 	branch = refs/heads/master
+[submodule "robotframework-interpreter"]
+	url = https://github.com/conda-forge/robotframework-interpreter-feedstock.git
+	path = feedstocks/robotframework-interpreter
+	branch = refs/heads/master
