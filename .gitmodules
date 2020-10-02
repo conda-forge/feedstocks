@@ -43114,3 +43114,7 @@
 	url = https://github.com/conda-forge/msmpi-feedstock.git
 	path = feedstocks/msmpi
 	branch = refs/heads/master
+[submodule "emc2"]
+	url = https://github.com/conda-forge/emc2-feedstock.git
+	path = feedstocks/emc2
+	branch = refs/heads/master
