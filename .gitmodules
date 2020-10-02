@@ -43122,3 +43122,7 @@
 	url = https://github.com/conda-forge/r-blastula-feedstock.git
 	path = feedstocks/r-blastula
 	branch = refs/heads/master
+[submodule "r-pointblank"]
+	url = https://github.com/conda-forge/r-pointblank-feedstock.git
+	path = feedstocks/r-pointblank
+	branch = refs/heads/master
