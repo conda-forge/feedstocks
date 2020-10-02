@@ -43130,3 +43130,7 @@
 	url = https://github.com/conda-forge/robotframework-interpreter-feedstock.git
 	path = feedstocks/robotframework-interpreter
 	branch = refs/heads/master
+[submodule "nbsphinx-link"]
+	url = https://github.com/conda-forge/nbsphinx-link-feedstock.git
+	path = feedstocks/nbsphinx-link
+	branch = refs/heads/master
