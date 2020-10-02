@@ -43142,3 +43142,7 @@
 	url = https://github.com/conda-forge/r-colordf-feedstock.git
 	path = feedstocks/r-colordf
 	branch = refs/heads/master
+[submodule "hepunits"]
+	url = https://github.com/conda-forge/hepunits-feedstock.git
+	path = feedstocks/hepunits
+	branch = refs/heads/master
