@@ -43178,3 +43178,7 @@
 	url = https://github.com/conda-forge/cliche-feedstock.git
 	path = feedstocks/cliche
 	branch = refs/heads/master
+[submodule "objectgraph"]
+	url = https://github.com/conda-forge/objectgraph-feedstock.git
+	path = feedstocks/objectgraph
+	branch = refs/heads/master
