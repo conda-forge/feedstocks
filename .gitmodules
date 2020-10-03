@@ -43154,3 +43154,7 @@
 	url = https://github.com/conda-forge/flask-sspi-feedstock.git
 	path = feedstocks/flask-sspi
 	branch = refs/heads/master
+[submodule "jupyterlab-python-file"]
+	url = https://github.com/conda-forge/jupyterlab-python-file-feedstock.git
+	path = feedstocks/jupyterlab-python-file
+	branch = refs/heads/master
