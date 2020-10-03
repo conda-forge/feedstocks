@@ -43170,3 +43170,7 @@
 	url = https://github.com/conda-forge/particle-feedstock.git
 	path = feedstocks/particle
 	branch = refs/heads/master
+[submodule "ace"]
+	url = https://github.com/conda-forge/ace-feedstock.git
+	path = feedstocks/ace
+	branch = refs/heads/master
