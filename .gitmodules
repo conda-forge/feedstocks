@@ -43150,3 +43150,7 @@
 	url = https://github.com/conda-forge/treeinterpreter-feedstock.git
 	path = feedstocks/treeinterpreter
 	branch = refs/heads/master
+[submodule "flask-sspi"]
+	url = https://github.com/conda-forge/flask-sspi-feedstock.git
+	path = feedstocks/flask-sspi
+	branch = refs/heads/master
