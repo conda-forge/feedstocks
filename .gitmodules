@@ -43162,3 +43162,7 @@
 	url = https://github.com/conda-forge/r-rle-feedstock.git
 	path = feedstocks/r-rle
 	branch = refs/heads/master
+[submodule "r-mathjaxr"]
+	url = https://github.com/conda-forge/r-mathjaxr-feedstock.git
+	path = feedstocks/r-mathjaxr
+	branch = refs/heads/master
