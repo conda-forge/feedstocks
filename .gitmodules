@@ -43194,3 +43194,7 @@
 	url = https://github.com/conda-forge/decaylanguage-feedstock.git
 	path = feedstocks/decaylanguage
 	branch = refs/heads/master
+[submodule "sentinelsat"]
+	url = https://github.com/conda-forge/sentinelsat-feedstock.git
+	path = feedstocks/sentinelsat
+	branch = refs/heads/master
