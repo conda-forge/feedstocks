@@ -43202,3 +43202,7 @@
 	url = https://github.com/conda-forge/hist-feedstock.git
 	path = feedstocks/hist
 	branch = refs/heads/master
+[submodule "pytest-vcr"]
+	url = https://github.com/conda-forge/pytest-vcr-feedstock.git
+	path = feedstocks/pytest-vcr
+	branch = refs/heads/master
