@@ -43218,3 +43218,7 @@
 	url = https://github.com/conda-forge/oauth2-proxy-feedstock.git
 	path = feedstocks/oauth2-proxy
 	branch = refs/heads/master
+[submodule "hoggorm"]
+	url = https://github.com/conda-forge/hoggorm-feedstock.git
+	path = feedstocks/hoggorm
+	branch = refs/heads/master
