@@ -43238,3 +43238,7 @@
 	url = https://github.com/conda-forge/pyspark-asyncactions-feedstock.git
 	path = feedstocks/pyspark-asyncactions
 	branch = refs/heads/master
+[submodule "proto-plus"]
+	url = https://github.com/conda-forge/proto-plus-feedstock.git
+	path = feedstocks/proto-plus
+	branch = refs/heads/master
