@@ -43226,3 +43226,7 @@
 	url = https://github.com/conda-forge/healsparse-feedstock.git
 	path = feedstocks/healsparse
 	branch = refs/heads/master
+[submodule "protlearn"]
+	url = https://github.com/conda-forge/protlearn-feedstock.git
+	path = feedstocks/protlearn
+	branch = refs/heads/master
