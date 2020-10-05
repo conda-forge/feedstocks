@@ -43222,3 +43222,7 @@
 	url = https://github.com/conda-forge/hoggorm-feedstock.git
 	path = feedstocks/hoggorm
 	branch = refs/heads/master
+[submodule "healsparse"]
+	url = https://github.com/conda-forge/healsparse-feedstock.git
+	path = feedstocks/healsparse
+	branch = refs/heads/master
