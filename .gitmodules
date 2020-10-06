@@ -43274,3 +43274,7 @@
 	url = https://github.com/conda-forge/pyrsr-feedstock.git
 	path = feedstocks/pyrsr
 	branch = refs/heads/master
+[submodule "python-tzdata"]
+	url = https://github.com/conda-forge/python-tzdata-feedstock.git
+	path = feedstocks/python-tzdata
+	branch = refs/heads/master
