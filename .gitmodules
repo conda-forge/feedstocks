@@ -43266,3 +43266,7 @@
 	url = https://github.com/conda-forge/findimports-feedstock.git
 	path = feedstocks/findimports
 	branch = refs/heads/master
+[submodule "pyemcee"]
+	url = https://github.com/conda-forge/pyemcee-feedstock.git
+	path = feedstocks/pyemcee
+	branch = refs/heads/master
