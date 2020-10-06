@@ -43278,3 +43278,7 @@
 	url = https://github.com/conda-forge/python-tzdata-feedstock.git
 	path = feedstocks/python-tzdata
 	branch = refs/heads/master
+[submodule "atomneb"]
+	url = https://github.com/conda-forge/atomneb-feedstock.git
+	path = feedstocks/atomneb
+	branch = refs/heads/master
