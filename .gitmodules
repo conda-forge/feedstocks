@@ -43286,3 +43286,7 @@
 	url = https://github.com/conda-forge/starkbank-ecdsa-feedstock.git
 	path = feedstocks/starkbank-ecdsa
 	branch = refs/heads/master
+[submodule "pymc3-ext"]
+	url = https://github.com/conda-forge/pymc3-ext-feedstock.git
+	path = feedstocks/pymc3-ext
+	branch = refs/heads/master
