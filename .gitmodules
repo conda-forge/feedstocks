@@ -43290,3 +43290,7 @@
 	url = https://github.com/conda-forge/pymc3-ext-feedstock.git
 	path = feedstocks/pymc3-ext
 	branch = refs/heads/master
+[submodule "qtypes"]
+	url = https://github.com/conda-forge/qtypes-feedstock.git
+	path = feedstocks/qtypes
+	branch = refs/heads/master
