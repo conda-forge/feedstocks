@@ -43302,3 +43302,7 @@
 	url = https://github.com/conda-forge/modulegraph2-feedstock.git
 	path = feedstocks/modulegraph2
 	branch = refs/heads/master
+[submodule "sicor"]
+	url = https://github.com/conda-forge/sicor-feedstock.git
+	path = feedstocks/sicor
+	branch = refs/heads/master
