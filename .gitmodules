@@ -43306,3 +43306,7 @@
 	url = https://github.com/conda-forge/sicor-feedstock.git
 	path = feedstocks/sicor
 	branch = refs/heads/master
+[submodule "cosapp"]
+	url = https://github.com/conda-forge/cosapp-feedstock.git
+	path = feedstocks/cosapp
+	branch = refs/heads/master
