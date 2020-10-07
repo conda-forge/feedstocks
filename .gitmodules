@@ -43314,3 +43314,7 @@
 	url = https://github.com/conda-forge/derivative-feedstock.git
 	path = feedstocks/derivative
 	branch = refs/heads/master
+[submodule "gdspy"]
+	url = https://github.com/conda-forge/gdspy-feedstock.git
+	path = feedstocks/gdspy
+	branch = refs/heads/master
