@@ -43330,3 +43330,7 @@
 	url = https://github.com/conda-forge/xcube-sh-feedstock.git
 	path = feedstocks/xcube-sh
 	branch = refs/heads/master
+[submodule "austin"]
+	url = https://github.com/conda-forge/austin-feedstock.git
+	path = feedstocks/austin
+	branch = refs/heads/master
