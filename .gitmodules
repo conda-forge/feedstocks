@@ -43294,3 +43294,7 @@
 	url = https://github.com/conda-forge/qtypes-feedstock.git
 	path = feedstocks/qtypes
 	branch = refs/heads/master
+[submodule "jupyterlab_widgets"]
+	url = https://github.com/conda-forge/jupyterlab_widgets-feedstock.git
+	path = feedstocks/jupyterlab_widgets
+	branch = refs/heads/master
