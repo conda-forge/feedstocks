@@ -43342,3 +43342,7 @@
 	url = https://github.com/conda-forge/nested_dict-feedstock.git
 	path = feedstocks/nested_dict
 	branch = refs/heads/master
+[submodule "specclassify"]
+	url = https://github.com/conda-forge/specclassify-feedstock.git
+	path = feedstocks/specclassify
+	branch = refs/heads/master
