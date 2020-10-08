@@ -43350,3 +43350,7 @@
 	url = https://github.com/conda-forge/ansible-base-feedstock.git
 	path = feedstocks/ansible-base
 	branch = refs/heads/master
+[submodule "pyfuse3"]
+	url = https://github.com/conda-forge/pyfuse3-feedstock.git
+	path = feedstocks/pyfuse3
+	branch = refs/heads/master
