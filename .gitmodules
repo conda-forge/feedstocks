@@ -43362,3 +43362,7 @@
 	url = https://github.com/conda-forge/fox-feedstock.git
 	path = feedstocks/fox
 	branch = refs/heads/master
+[submodule "pysimdjson"]
+	url = https://github.com/conda-forge/pysimdjson-feedstock.git
+	path = feedstocks/pysimdjson
+	branch = refs/heads/master
