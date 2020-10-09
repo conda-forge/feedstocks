@@ -43358,3 +43358,7 @@
 	url = https://github.com/conda-forge/spacy-pkuseg-feedstock.git
 	path = feedstocks/spacy-pkuseg
 	branch = refs/heads/master
+[submodule "fox"]
+	url = https://github.com/conda-forge/fox-feedstock.git
+	path = feedstocks/fox
+	branch = refs/heads/master
