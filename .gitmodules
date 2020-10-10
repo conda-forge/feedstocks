@@ -43374,3 +43374,7 @@
 	url = https://github.com/conda-forge/pyiron_contrib-feedstock.git
 	path = feedstocks/pyiron_contrib
 	branch = refs/heads/master
+[submodule "enpt"]
+	url = https://github.com/conda-forge/enpt-feedstock.git
+	path = feedstocks/enpt
+	branch = refs/heads/master
