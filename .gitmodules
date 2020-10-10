@@ -43382,3 +43382,7 @@
 	url = https://github.com/conda-forge/librttopo-feedstock.git
 	path = feedstocks/librttopo
 	branch = refs/heads/master
+[submodule "expect"]
+	url = https://github.com/conda-forge/expect-feedstock.git
+	path = feedstocks/expect
+	branch = refs/heads/master
