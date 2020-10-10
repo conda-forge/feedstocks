@@ -43370,3 +43370,7 @@
 	url = https://github.com/conda-forge/cube_helper-feedstock.git
 	path = feedstocks/cube_helper
 	branch = refs/heads/master
+[submodule "pyiron_contrib"]
+	url = https://github.com/conda-forge/pyiron_contrib-feedstock.git
+	path = feedstocks/pyiron_contrib
+	branch = refs/heads/master
