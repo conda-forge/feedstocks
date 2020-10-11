@@ -43386,3 +43386,7 @@
 	url = https://github.com/conda-forge/expect-feedstock.git
 	path = feedstocks/expect
 	branch = refs/heads/master
+[submodule "libdc1394"]
+	url = https://github.com/conda-forge/libdc1394-feedstock.git
+	path = feedstocks/libdc1394
+	branch = refs/heads/master
