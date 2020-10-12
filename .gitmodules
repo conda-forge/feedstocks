@@ -43430,3 +43430,7 @@
 	url = https://github.com/conda-forge/libm2k-feedstock.git
 	path = feedstocks/libm2k
 	branch = refs/heads/master
+[submodule "libsmu"]
+	url = https://github.com/conda-forge/libsmu-feedstock.git
+	path = feedstocks/libsmu
+	branch = refs/heads/master
