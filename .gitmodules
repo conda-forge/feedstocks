@@ -43394,3 +43394,7 @@
 	url = https://github.com/conda-forge/r-mstate-feedstock.git
 	path = feedstocks/r-mstate
 	branch = refs/heads/master
+[submodule "psy-view"]
+	url = https://github.com/conda-forge/psy-view-feedstock.git
+	path = feedstocks/psy-view
+	branch = refs/heads/master
