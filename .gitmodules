@@ -43390,3 +43390,7 @@
 	url = https://github.com/conda-forge/libdc1394-feedstock.git
 	path = feedstocks/libdc1394
 	branch = refs/heads/master
+[submodule "r-mstate"]
+	url = https://github.com/conda-forge/r-mstate-feedstock.git
+	path = feedstocks/r-mstate
+	branch = refs/heads/master
