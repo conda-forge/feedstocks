@@ -43410,3 +43410,7 @@
 	url = https://github.com/conda-forge/xppy-feedstock.git
 	path = feedstocks/xppy
 	branch = refs/heads/master
+[submodule "sunkit-instruments"]
+	url = https://github.com/conda-forge/sunkit-instruments-feedstock.git
+	path = feedstocks/sunkit-instruments
+	branch = refs/heads/master
