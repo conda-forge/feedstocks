@@ -43490,3 +43490,7 @@
 	url = https://github.com/conda-forge/redis-semaphore-feedstock.git
 	path = feedstocks/redis-semaphore
 	branch = refs/heads/master
+[submodule "retools"]
+	url = https://github.com/conda-forge/retools-feedstock.git
+	path = feedstocks/retools
+	branch = refs/heads/master
