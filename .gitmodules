@@ -43446,3 +43446,7 @@
 	url = https://github.com/conda-forge/scikit-posthocs-feedstock.git
 	path = feedstocks/scikit-posthocs
 	branch = refs/heads/master
+[submodule "nionswift-eels-analysis"]
+	url = https://github.com/conda-forge/nionswift-eels-analysis-feedstock.git
+	path = feedstocks/nionswift-eels-analysis
+	branch = refs/heads/master
