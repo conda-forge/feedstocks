@@ -43466,3 +43466,7 @@
 	url = https://github.com/conda-forge/grwham-feedstock.git
 	path = feedstocks/grwham
 	branch = refs/heads/master
+[submodule "asset"]
+	url = https://github.com/conda-forge/asset-feedstock.git
+	path = feedstocks/asset
+	branch = refs/heads/master
