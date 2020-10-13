@@ -43454,3 +43454,7 @@
 	url = https://github.com/conda-forge/makefun-feedstock.git
 	path = feedstocks/makefun
 	branch = refs/heads/master
+[submodule "dartsim"]
+	url = https://github.com/conda-forge/dartsim-feedstock.git
+	path = feedstocks/dartsim
+	branch = refs/heads/master
