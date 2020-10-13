@@ -43482,3 +43482,7 @@
 	url = https://github.com/conda-forge/mypy-ls-feedstock.git
 	path = feedstocks/mypy-ls
 	branch = refs/heads/master
+[submodule "gms_preprocessing"]
+	url = https://github.com/conda-forge/gms_preprocessing-feedstock.git
+	path = feedstocks/gms_preprocessing
+	branch = refs/heads/master
