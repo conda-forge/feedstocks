@@ -43486,3 +43486,7 @@
 	url = https://github.com/conda-forge/gms_preprocessing-feedstock.git
 	path = feedstocks/gms_preprocessing
 	branch = refs/heads/master
+[submodule "redis-semaphore"]
+	url = https://github.com/conda-forge/redis-semaphore-feedstock.git
+	path = feedstocks/redis-semaphore
+	branch = refs/heads/master
