@@ -43470,3 +43470,7 @@
 	url = https://github.com/conda-forge/asset-feedstock.git
 	path = feedstocks/asset
 	branch = refs/heads/master
+[submodule "strsimpy"]
+	url = https://github.com/conda-forge/strsimpy-feedstock.git
+	path = feedstocks/strsimpy
+	branch = refs/heads/master
