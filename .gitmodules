@@ -43474,3 +43474,7 @@
 	url = https://github.com/conda-forge/strsimpy-feedstock.git
 	path = feedstocks/strsimpy
 	branch = refs/heads/master
+[submodule "pyls-isort"]
+	url = https://github.com/conda-forge/pyls-isort-feedstock.git
+	path = feedstocks/pyls-isort
+	branch = refs/heads/master
