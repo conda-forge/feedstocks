@@ -43442,3 +43442,7 @@
 	url = https://github.com/conda-forge/lenses-feedstock.git
 	path = feedstocks/lenses
 	branch = refs/heads/master
+[submodule "scikit-posthocs"]
+	url = https://github.com/conda-forge/scikit-posthocs-feedstock.git
+	path = feedstocks/scikit-posthocs
+	branch = refs/heads/master
