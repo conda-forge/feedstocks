@@ -43458,3 +43458,7 @@
 	url = https://github.com/conda-forge/dartsim-feedstock.git
 	path = feedstocks/dartsim
 	branch = refs/heads/master
+[submodule "trict"]
+	url = https://github.com/conda-forge/trict-feedstock.git
+	path = feedstocks/trict
+	branch = refs/heads/master
