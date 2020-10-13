@@ -43438,3 +43438,7 @@
 	url = https://github.com/conda-forge/aadict-feedstock.git
 	path = feedstocks/aadict
 	branch = refs/heads/master
+[submodule "lenses"]
+	url = https://github.com/conda-forge/lenses-feedstock.git
+	path = feedstocks/lenses
+	branch = refs/heads/master
