@@ -43478,3 +43478,7 @@
 	url = https://github.com/conda-forge/pyls-isort-feedstock.git
 	path = feedstocks/pyls-isort
 	branch = refs/heads/master
+[submodule "mypy-ls"]
+	url = https://github.com/conda-forge/mypy-ls-feedstock.git
+	path = feedstocks/mypy-ls
+	branch = refs/heads/master
