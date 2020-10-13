@@ -43494,3 +43494,7 @@
 	url = https://github.com/conda-forge/retools-feedstock.git
 	path = feedstocks/retools
 	branch = refs/heads/master
+[submodule "redis"]
+	url = https://github.com/conda-forge/redis-feedstock.git
+	path = feedstocks/redis
+	branch = refs/heads/master
