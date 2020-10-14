@@ -43510,3 +43510,7 @@
 	url = https://github.com/conda-forge/gridmap-feedstock.git
 	path = feedstocks/gridmap
 	branch = refs/heads/master
+[submodule "sleef"]
+	url = https://github.com/conda-forge/sleef-feedstock.git
+	path = feedstocks/sleef
+	branch = refs/heads/master
