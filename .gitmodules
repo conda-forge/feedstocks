@@ -43506,3 +43506,7 @@
 	url = https://github.com/conda-forge/qe-feedstock.git
 	path = feedstocks/qe
 	branch = refs/heads/master
+[submodule "gridmap"]
+	url = https://github.com/conda-forge/gridmap-feedstock.git
+	path = feedstocks/gridmap
+	branch = refs/heads/master
