@@ -43498,3 +43498,7 @@
 	url = https://github.com/conda-forge/redis-feedstock.git
 	path = feedstocks/redis
 	branch = refs/heads/master
+[submodule "fates-emerald"]
+	url = https://github.com/conda-forge/fates-emerald-feedstock.git
+	path = feedstocks/fates-emerald
+	branch = refs/heads/master
