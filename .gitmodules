@@ -43514,3 +43514,7 @@
 	url = https://github.com/conda-forge/sleef-feedstock.git
 	path = feedstocks/sleef
 	branch = refs/heads/master
+[submodule "cudatoolkit"]
+	url = https://github.com/conda-forge/cudatoolkit-feedstock.git
+	path = feedstocks/cudatoolkit
+	branch = refs/heads/master
