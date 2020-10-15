@@ -43522,3 +43522,7 @@
 	url = https://github.com/conda-forge/xraydb-feedstock.git
 	path = feedstocks/xraydb
 	branch = refs/heads/master
+[submodule "pyequib"]
+	url = https://github.com/conda-forge/pyequib-feedstock.git
+	path = feedstocks/pyequib
+	branch = refs/heads/master
