@@ -43534,3 +43534,7 @@
 	url = https://github.com/conda-forge/ddtrace-feedstock.git
 	path = feedstocks/ddtrace
 	branch = refs/heads/master
+[submodule "r-tinytest"]
+	url = https://github.com/conda-forge/r-tinytest-feedstock.git
+	path = feedstocks/r-tinytest
+	branch = refs/heads/master
