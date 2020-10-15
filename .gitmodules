@@ -43530,3 +43530,7 @@
 	url = https://github.com/conda-forge/xstatic-bootstrap-feedstock.git
 	path = feedstocks/xstatic-bootstrap
 	branch = refs/heads/master
+[submodule "ddtrace"]
+	url = https://github.com/conda-forge/ddtrace-feedstock.git
+	path = feedstocks/ddtrace
+	branch = refs/heads/master
