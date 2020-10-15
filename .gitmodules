@@ -43526,3 +43526,7 @@
 	url = https://github.com/conda-forge/pyequib-feedstock.git
 	path = feedstocks/pyequib
 	branch = refs/heads/master
+[submodule "xstatic-bootstrap"]
+	url = https://github.com/conda-forge/xstatic-bootstrap-feedstock.git
+	path = feedstocks/xstatic-bootstrap
+	branch = refs/heads/master
