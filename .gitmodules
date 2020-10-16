@@ -43542,3 +43542,7 @@
 	url = https://github.com/conda-forge/sparkflow-feedstock.git
 	path = feedstocks/sparkflow
 	branch = refs/heads/master
+[submodule "aws-sso-credential-process"]
+	url = https://github.com/conda-forge/aws-sso-credential-process-feedstock.git
+	path = feedstocks/aws-sso-credential-process
+	branch = refs/heads/master
