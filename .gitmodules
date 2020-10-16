@@ -43554,3 +43554,7 @@
 	url = https://github.com/conda-forge/liburcu-feedstock.git
 	path = feedstocks/liburcu
 	branch = refs/heads/master
+[submodule "catalystcoop.dbfread"]
+	url = https://github.com/conda-forge/catalystcoop.dbfread-feedstock.git
+	path = feedstocks/catalystcoop.dbfread
+	branch = refs/heads/master
