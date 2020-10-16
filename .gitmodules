@@ -43546,3 +43546,7 @@
 	url = https://github.com/conda-forge/aws-sso-credential-process-feedstock.git
 	path = feedstocks/aws-sso-credential-process
 	branch = refs/heads/master
+[submodule "tofu"]
+	url = https://github.com/conda-forge/tofu-feedstock.git
+	path = feedstocks/tofu
+	branch = refs/heads/master
