@@ -43594,3 +43594,7 @@
 	url = https://github.com/conda-forge/ranger-fm-feedstock.git
 	path = feedstocks/ranger-fm
 	branch = refs/heads/master
+[submodule "lttng-ust"]
+	url = https://github.com/conda-forge/lttng-ust-feedstock.git
+	path = feedstocks/lttng-ust
+	branch = refs/heads/master
