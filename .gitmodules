@@ -43598,3 +43598,7 @@
 	url = https://github.com/conda-forge/lttng-ust-feedstock.git
 	path = feedstocks/lttng-ust
 	branch = refs/heads/master
+[submodule "r-distcomp"]
+	url = https://github.com/conda-forge/r-distcomp-feedstock.git
+	path = feedstocks/r-distcomp
+	branch = refs/heads/master
