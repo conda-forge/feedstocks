@@ -43602,3 +43602,7 @@
 	url = https://github.com/conda-forge/r-distcomp-feedstock.git
 	path = feedstocks/r-distcomp
 	branch = refs/heads/master
+[submodule "quantized-mesh-encoder"]
+	url = https://github.com/conda-forge/quantized-mesh-encoder-feedstock.git
+	path = feedstocks/quantized-mesh-encoder
+	branch = refs/heads/master
