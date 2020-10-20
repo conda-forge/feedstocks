@@ -43622,3 +43622,7 @@
 	url = https://github.com/conda-forge/dash-deck-feedstock.git
 	path = feedstocks/dash-deck
 	branch = refs/heads/master
+[submodule "multisheller"]
+	url = https://github.com/conda-forge/multisheller-feedstock.git
+	path = feedstocks/multisheller
+	branch = refs/heads/master
