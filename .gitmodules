@@ -43630,3 +43630,7 @@
 	url = https://github.com/conda-forge/pytng-feedstock.git
 	path = feedstocks/pytng
 	branch = refs/heads/master
+[submodule "meshplex"]
+	url = https://github.com/conda-forge/meshplex-feedstock.git
+	path = feedstocks/meshplex
+	branch = refs/heads/master
