@@ -43618,3 +43618,7 @@
 	url = https://github.com/conda-forge/gflex-feedstock.git
 	path = feedstocks/gflex
 	branch = refs/heads/master
+[submodule "dash-deck"]
+	url = https://github.com/conda-forge/dash-deck-feedstock.git
+	path = feedstocks/dash-deck
+	branch = refs/heads/master
