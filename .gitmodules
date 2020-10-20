@@ -43626,3 +43626,7 @@
 	url = https://github.com/conda-forge/multisheller-feedstock.git
 	path = feedstocks/multisheller
 	branch = refs/heads/master
+[submodule "pytng"]
+	url = https://github.com/conda-forge/pytng-feedstock.git
+	path = feedstocks/pytng
+	branch = refs/heads/master
