@@ -43614,3 +43614,7 @@
 	url = https://github.com/conda-forge/basis_set_exchange-feedstock.git
 	path = feedstocks/basis_set_exchange
 	branch = refs/heads/master
+[submodule "gflex"]
+	url = https://github.com/conda-forge/gflex-feedstock.git
+	path = feedstocks/gflex
+	branch = refs/heads/master
