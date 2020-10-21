@@ -43646,3 +43646,7 @@
 	url = https://github.com/conda-forge/npy-append-array-feedstock.git
 	path = feedstocks/npy-append-array
 	branch = refs/heads/master
+[submodule "woodwork"]
+	url = https://github.com/conda-forge/woodwork-feedstock.git
+	path = feedstocks/woodwork
+	branch = refs/heads/master
