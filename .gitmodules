@@ -43710,3 +43710,7 @@
 	url = https://github.com/conda-forge/eventio-feedstock.git
 	path = feedstocks/eventio
 	branch = refs/heads/master
+[submodule "llnl-sina"]
+	url = https://github.com/conda-forge/llnl-sina-feedstock.git
+	path = feedstocks/llnl-sina
+	branch = refs/heads/master
