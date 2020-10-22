@@ -43706,3 +43706,7 @@
 	url = https://github.com/conda-forge/gitlab-runner-api-feedstock.git
 	path = feedstocks/gitlab-runner-api
 	branch = refs/heads/master
+[submodule "eventio"]
+	url = https://github.com/conda-forge/eventio-feedstock.git
+	path = feedstocks/eventio
+	branch = refs/heads/master
