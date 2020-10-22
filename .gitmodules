@@ -43682,3 +43682,7 @@
 	url = https://github.com/conda-forge/nbqa-feedstock.git
 	path = feedstocks/nbqa
 	branch = refs/heads/master
+[submodule "async-lru"]
+	url = https://github.com/conda-forge/async-lru-feedstock.git
+	path = feedstocks/async-lru
+	branch = refs/heads/master
