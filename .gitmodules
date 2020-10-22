@@ -43702,3 +43702,7 @@
 	url = https://github.com/conda-forge/gmso-feedstock.git
 	path = feedstocks/gmso
 	branch = refs/heads/master
+[submodule "gitlab-runner-api"]
+	url = https://github.com/conda-forge/gitlab-runner-api-feedstock.git
+	path = feedstocks/gitlab-runner-api
+	branch = refs/heads/master
