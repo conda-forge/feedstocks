@@ -43694,3 +43694,7 @@
 	url = https://github.com/conda-forge/provenance-feedstock.git
 	path = feedstocks/provenance
 	branch = refs/heads/master
+[submodule "python-javabridge"]
+	url = https://github.com/conda-forge/python-javabridge-feedstock.git
+	path = feedstocks/python-javabridge
+	branch = refs/heads/master
