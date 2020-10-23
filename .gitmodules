@@ -43730,3 +43730,7 @@
 	url = https://github.com/conda-forge/pmdarima-feedstock.git
 	path = feedstocks/pmdarima
 	branch = refs/heads/master
+[submodule "r-vtree"]
+	url = https://github.com/conda-forge/r-vtree-feedstock.git
+	path = feedstocks/r-vtree
+	branch = refs/heads/master
