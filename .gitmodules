@@ -43718,3 +43718,7 @@
 	url = https://github.com/conda-forge/mkdocstrings-feedstock.git
 	path = feedstocks/mkdocstrings
 	branch = refs/heads/master
+[submodule "azure-mgmt-subscription"]
+	url = https://github.com/conda-forge/azure-mgmt-subscription-feedstock.git
+	path = feedstocks/azure-mgmt-subscription
+	branch = refs/heads/master
