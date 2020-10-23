@@ -43726,3 +43726,7 @@
 	url = https://github.com/conda-forge/r-diagrammersvg-feedstock.git
 	path = feedstocks/r-diagrammersvg
 	branch = refs/heads/master
+[submodule "pmdarima"]
+	url = https://github.com/conda-forge/pmdarima-feedstock.git
+	path = feedstocks/pmdarima
+	branch = refs/heads/master
