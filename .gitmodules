@@ -43746,3 +43746,7 @@
 	url = https://github.com/conda-forge/bgenix-feedstock.git
 	path = feedstocks/bgenix
 	branch = refs/heads/master
+[submodule "r-integr"]
+	url = https://github.com/conda-forge/r-integr-feedstock.git
+	path = feedstocks/r-integr
+	branch = refs/heads/master
