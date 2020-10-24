@@ -43742,3 +43742,7 @@
 	url = https://github.com/conda-forge/chemicals-feedstock.git
 	path = feedstocks/chemicals
 	branch = refs/heads/master
+[submodule "bgenix"]
+	url = https://github.com/conda-forge/bgenix-feedstock.git
+	path = feedstocks/bgenix
+	branch = refs/heads/master
