@@ -43734,3 +43734,7 @@
 	url = https://github.com/conda-forge/r-vtree-feedstock.git
 	path = feedstocks/r-vtree
 	branch = refs/heads/master
+[submodule "addfips"]
+	url = https://github.com/conda-forge/addfips-feedstock.git
+	path = feedstocks/addfips
+	branch = refs/heads/master
