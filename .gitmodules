@@ -43758,3 +43758,7 @@
 	url = https://github.com/conda-forge/pdal-c-feedstock.git
 	path = feedstocks/pdal-c
 	branch = refs/heads/master
+[submodule "shrinkwrap"]
+	url = https://github.com/conda-forge/shrinkwrap-feedstock.git
+	path = feedstocks/shrinkwrap
+	branch = refs/heads/master
