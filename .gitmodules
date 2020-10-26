@@ -43778,3 +43778,7 @@
 	url = https://github.com/conda-forge/pyzenodo3-feedstock.git
 	path = feedstocks/pyzenodo3
 	branch = refs/heads/master
+[submodule "django-maintenance-mode"]
+	url = https://github.com/conda-forge/django-maintenance-mode-feedstock.git
+	path = feedstocks/django-maintenance-mode
+	branch = refs/heads/master
