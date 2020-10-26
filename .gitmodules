@@ -43770,3 +43770,7 @@
 	url = https://github.com/conda-forge/bbhash-feedstock.git
 	path = feedstocks/bbhash
 	branch = refs/heads/master
+[submodule "gepetto-viewer"]
+	url = https://github.com/conda-forge/gepetto-viewer-feedstock.git
+	path = feedstocks/gepetto-viewer
+	branch = refs/heads/master
