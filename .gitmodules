@@ -43790,3 +43790,7 @@
 	url = https://github.com/conda-forge/r-ryacas-feedstock.git
 	path = feedstocks/r-ryacas
 	branch = refs/heads/master
+[submodule "jarvis-tools"]
+	url = https://github.com/conda-forge/jarvis-tools-feedstock.git
+	path = feedstocks/jarvis-tools
+	branch = refs/heads/master
