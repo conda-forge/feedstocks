@@ -43766,3 +43766,7 @@
 	url = https://github.com/conda-forge/pslibrary-feedstock.git
 	path = feedstocks/pslibrary
 	branch = refs/heads/master
+[submodule "bbhash"]
+	url = https://github.com/conda-forge/bbhash-feedstock.git
+	path = feedstocks/bbhash
+	branch = refs/heads/master
