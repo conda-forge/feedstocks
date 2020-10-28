@@ -43826,3 +43826,7 @@
 	url = https://github.com/conda-forge/scikits.odes-feedstock.git
 	path = feedstocks/scikits.odes
 	branch = refs/heads/master
+[submodule "azure-mgmt-redis"]
+	url = https://github.com/conda-forge/azure-mgmt-redis-feedstock.git
+	path = feedstocks/azure-mgmt-redis
+	branch = refs/heads/master
