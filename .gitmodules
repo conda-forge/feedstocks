@@ -43830,3 +43830,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-redis-feedstock.git
 	path = feedstocks/azure-mgmt-redis
 	branch = refs/heads/master
+[submodule "deeptime"]
+	url = https://github.com/conda-forge/deeptime-feedstock.git
+	path = feedstocks/deeptime
+	branch = refs/heads/master
