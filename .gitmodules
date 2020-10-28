@@ -43810,3 +43810,7 @@
 	url = https://github.com/conda-forge/r-cosinor-feedstock.git
 	path = feedstocks/r-cosinor
 	branch = refs/heads/master
+[submodule "spyder-remote-client"]
+	url = https://github.com/conda-forge/spyder-remote-client-feedstock.git
+	path = feedstocks/spyder-remote-client
+	branch = refs/heads/master
