@@ -43854,3 +43854,7 @@
 	url = https://github.com/conda-forge/lume-model-feedstock.git
 	path = feedstocks/lume-model
 	branch = refs/heads/master
+[submodule "dynaconf"]
+	url = https://github.com/conda-forge/dynaconf-feedstock.git
+	path = feedstocks/dynaconf
+	branch = refs/heads/master
