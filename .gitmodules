@@ -43858,3 +43858,7 @@
 	url = https://github.com/conda-forge/dynaconf-feedstock.git
 	path = feedstocks/dynaconf
 	branch = refs/heads/master
+[submodule "konfik"]
+	url = https://github.com/conda-forge/konfik-feedstock.git
+	path = feedstocks/konfik
+	branch = refs/heads/master
