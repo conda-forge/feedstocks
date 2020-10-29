@@ -43846,3 +43846,7 @@
 	url = https://github.com/conda-forge/mike-feedstock.git
 	path = feedstocks/mike
 	branch = refs/heads/master
+[submodule "climatecontrol"]
+	url = https://github.com/conda-forge/climatecontrol-feedstock.git
+	path = feedstocks/climatecontrol
+	branch = refs/heads/master
