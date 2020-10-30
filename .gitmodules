@@ -43862,3 +43862,7 @@
 	url = https://github.com/conda-forge/konfik-feedstock.git
 	path = feedstocks/konfik
 	branch = refs/heads/master
+[submodule "slurmpter"]
+	url = https://github.com/conda-forge/slurmpter-feedstock.git
+	path = feedstocks/slurmpter
+	branch = refs/heads/master
