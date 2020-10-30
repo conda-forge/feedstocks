@@ -43874,3 +43874,7 @@
 	url = https://github.com/conda-forge/backports-datetime-fromisoformat-feedstock.git
 	path = feedstocks/backports-datetime-fromisoformat
 	branch = refs/heads/master
+[submodule "gepetto-viewer-corba"]
+	url = https://github.com/conda-forge/gepetto-viewer-corba-feedstock.git
+	path = feedstocks/gepetto-viewer-corba
+	branch = refs/heads/master
