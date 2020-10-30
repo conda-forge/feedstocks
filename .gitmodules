@@ -43882,3 +43882,7 @@
 	url = https://github.com/conda-forge/spyder-remote-server-feedstock.git
 	path = feedstocks/spyder-remote-server
 	branch = refs/heads/master
+[submodule "pyfstat"]
+	url = https://github.com/conda-forge/pyfstat-feedstock.git
+	path = feedstocks/pyfstat
+	branch = refs/heads/master
