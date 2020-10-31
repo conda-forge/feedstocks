@@ -43894,3 +43894,7 @@
 	url = https://github.com/conda-forge/r-naepprimer-feedstock.git
 	path = feedstocks/r-naepprimer
 	branch = refs/heads/master
+[submodule "r-waldo"]
+	url = https://github.com/conda-forge/r-waldo-feedstock.git
+	path = feedstocks/r-waldo
+	branch = refs/heads/master
