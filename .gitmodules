@@ -43922,3 +43922,7 @@
 	url = https://github.com/conda-forge/markdown-include-feedstock.git
 	path = feedstocks/markdown-include
 	branch = refs/heads/master
+[submodule "r-wcorr"]
+	url = https://github.com/conda-forge/r-wcorr-feedstock.git
+	path = feedstocks/r-wcorr
+	branch = refs/heads/master
