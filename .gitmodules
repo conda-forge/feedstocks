@@ -43906,3 +43906,7 @@
 	url = https://github.com/conda-forge/mkapi-feedstock.git
 	path = feedstocks/mkapi
 	branch = refs/heads/master
+[submodule "r-fmstable"]
+	url = https://github.com/conda-forge/r-fmstable-feedstock.git
+	path = feedstocks/r-fmstable
+	branch = refs/heads/master
