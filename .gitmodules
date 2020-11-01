@@ -43926,3 +43926,7 @@
 	url = https://github.com/conda-forge/r-wcorr-feedstock.git
 	path = feedstocks/r-wcorr
 	branch = refs/heads/master
+[submodule "r-dirichletreg"]
+	url = https://github.com/conda-forge/r-dirichletreg-feedstock.git
+	path = feedstocks/r-dirichletreg
+	branch = refs/heads/master
