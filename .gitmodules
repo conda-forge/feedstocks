@@ -43902,3 +43902,7 @@
 	url = https://github.com/conda-forge/grpcio-health-checking-feedstock.git
 	path = feedstocks/grpcio-health-checking
 	branch = refs/heads/master
+[submodule "mkapi"]
+	url = https://github.com/conda-forge/mkapi-feedstock.git
+	path = feedstocks/mkapi
+	branch = refs/heads/master
