@@ -43910,3 +43910,7 @@
 	url = https://github.com/conda-forge/r-fmstable-feedstock.git
 	path = feedstocks/r-fmstable
 	branch = refs/heads/master
+[submodule "r-cmdfun"]
+	url = https://github.com/conda-forge/r-cmdfun-feedstock.git
+	path = feedstocks/r-cmdfun
+	branch = refs/heads/master
