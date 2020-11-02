@@ -43930,3 +43930,7 @@
 	url = https://github.com/conda-forge/r-dirichletreg-feedstock.git
 	path = feedstocks/r-dirichletreg
 	branch = refs/heads/master
+[submodule "ctapipe"]
+	url = https://github.com/conda-forge/ctapipe-feedstock.git
+	path = feedstocks/ctapipe
+	branch = refs/heads/master
