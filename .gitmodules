@@ -43958,3 +43958,7 @@
 	url = https://github.com/conda-forge/r-lfactors-feedstock.git
 	path = feedstocks/r-lfactors
 	branch = refs/heads/master
+[submodule "mdal"]
+	url = https://github.com/conda-forge/mdal-feedstock.git
+	path = feedstocks/mdal
+	branch = refs/heads/master
