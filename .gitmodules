@@ -43942,3 +43942,7 @@
 	url = https://github.com/conda-forge/json-spec-feedstock.git
 	path = feedstocks/json-spec
 	branch = refs/heads/master
+[submodule "pdocs"]
+	url = https://github.com/conda-forge/pdocs-feedstock.git
+	path = feedstocks/pdocs
+	branch = refs/heads/master
