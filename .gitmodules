@@ -43994,3 +43994,7 @@
 	url = https://github.com/conda-forge/nestcheck-feedstock.git
 	path = feedstocks/nestcheck
 	branch = refs/heads/master
+[submodule "py-tes"]
+	url = https://github.com/conda-forge/py-tes-feedstock.git
+	path = feedstocks/py-tes
+	branch = refs/heads/master
