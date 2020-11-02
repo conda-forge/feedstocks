@@ -43946,3 +43946,7 @@
 	url = https://github.com/conda-forge/pdocs-feedstock.git
 	path = feedstocks/pdocs
 	branch = refs/heads/master
+[submodule "mkdocs-jupyter"]
+	url = https://github.com/conda-forge/mkdocs-jupyter-feedstock.git
+	path = feedstocks/mkdocs-jupyter
+	branch = refs/heads/master
