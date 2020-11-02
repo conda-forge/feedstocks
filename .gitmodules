@@ -43990,3 +43990,7 @@
 	url = https://github.com/conda-forge/parallel-bilby-feedstock.git
 	path = feedstocks/parallel-bilby
 	branch = refs/heads/master
+[submodule "nestcheck"]
+	url = https://github.com/conda-forge/nestcheck-feedstock.git
+	path = feedstocks/nestcheck
+	branch = refs/heads/master
