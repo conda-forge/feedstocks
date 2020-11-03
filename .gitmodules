@@ -44018,3 +44018,7 @@
 	url = https://github.com/conda-forge/gwinc-feedstock.git
 	path = feedstocks/gwinc
 	branch = refs/heads/master
+[submodule "r-parallelly"]
+	url = https://github.com/conda-forge/r-parallelly-feedstock.git
+	path = feedstocks/r-parallelly
+	branch = refs/heads/master
