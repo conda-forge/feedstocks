@@ -44106,3 +44106,7 @@
 	url = https://github.com/conda-forge/decore-feedstock.git
 	path = feedstocks/decore
 	branch = refs/heads/master
+[submodule "pytest-csv"]
+	url = https://github.com/conda-forge/pytest-csv-feedstock.git
+	path = feedstocks/pytest-csv
+	branch = refs/heads/master
