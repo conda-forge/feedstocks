@@ -44102,3 +44102,7 @@
 	url = https://github.com/conda-forge/rdfind-feedstock.git
 	path = feedstocks/rdfind
 	branch = refs/heads/master
+[submodule "decore"]
+	url = https://github.com/conda-forge/decore-feedstock.git
+	path = feedstocks/decore
+	branch = refs/heads/master
