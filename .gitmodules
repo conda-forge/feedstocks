@@ -44086,3 +44086,7 @@
 	url = https://github.com/conda-forge/libdevmapper-feedstock.git
 	path = feedstocks/libdevmapper
 	branch = refs/heads/master
+[submodule "crun"]
+	url = https://github.com/conda-forge/crun-feedstock.git
+	path = feedstocks/crun
+	branch = refs/heads/master
