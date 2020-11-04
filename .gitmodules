@@ -44082,3 +44082,7 @@
 	url = https://github.com/conda-forge/conmon-feedstock.git
 	path = feedstocks/conmon
 	branch = refs/heads/master
+[submodule "libdevmapper"]
+	url = https://github.com/conda-forge/libdevmapper-feedstock.git
+	path = feedstocks/libdevmapper
+	branch = refs/heads/master
