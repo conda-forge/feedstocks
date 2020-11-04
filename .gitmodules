@@ -44090,3 +44090,7 @@
 	url = https://github.com/conda-forge/crun-feedstock.git
 	path = feedstocks/crun
 	branch = refs/heads/master
+[submodule "libslirp"]
+	url = https://github.com/conda-forge/libslirp-feedstock.git
+	path = feedstocks/libslirp
+	branch = refs/heads/master
