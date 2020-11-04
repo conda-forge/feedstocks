@@ -44050,3 +44050,7 @@
 	url = https://github.com/conda-forge/go-md2man-feedstock.git
 	path = feedstocks/go-md2man
 	branch = refs/heads/master
+[submodule "pyflwdir"]
+	url = https://github.com/conda-forge/pyflwdir-feedstock.git
+	path = feedstocks/pyflwdir
+	branch = refs/heads/master
