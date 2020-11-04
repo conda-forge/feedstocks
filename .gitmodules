@@ -44066,3 +44066,7 @@
 	url = https://github.com/conda-forge/containers-common-feedstock.git
 	path = feedstocks/containers-common
 	branch = refs/heads/master
+[submodule "xtrude"]
+	url = https://github.com/conda-forge/xtrude-feedstock.git
+	path = feedstocks/xtrude
+	branch = refs/heads/master
