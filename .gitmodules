@@ -44118,3 +44118,7 @@
 	url = https://github.com/conda-forge/slirp4netns-feedstock.git
 	path = feedstocks/slirp4netns
 	branch = refs/heads/master
+[submodule "rechunker"]
+	url = https://github.com/conda-forge/rechunker-feedstock.git
+	path = feedstocks/rechunker
+	branch = refs/heads/master
