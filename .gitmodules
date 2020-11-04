@@ -44054,3 +44054,7 @@
 	url = https://github.com/conda-forge/pyflwdir-feedstock.git
 	path = feedstocks/pyflwdir
 	branch = refs/heads/master
+[submodule "isce3"]
+	url = https://github.com/conda-forge/isce3-feedstock.git
+	path = feedstocks/isce3
+	branch = refs/heads/master
