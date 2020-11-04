@@ -44046,3 +44046,7 @@
 	url = https://github.com/conda-forge/runc-feedstock.git
 	path = feedstocks/runc
 	branch = refs/heads/master
+[submodule "go-md2man"]
+	url = https://github.com/conda-forge/go-md2man-feedstock.git
+	path = feedstocks/go-md2man
+	branch = refs/heads/master
