@@ -44078,3 +44078,7 @@
 	url = https://github.com/conda-forge/hdxrate-feedstock.git
 	path = feedstocks/hdxrate
 	branch = refs/heads/master
+[submodule "conmon"]
+	url = https://github.com/conda-forge/conmon-feedstock.git
+	path = feedstocks/conmon
+	branch = refs/heads/master
