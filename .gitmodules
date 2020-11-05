@@ -44122,3 +44122,7 @@
 	url = https://github.com/conda-forge/rechunker-feedstock.git
 	path = feedstocks/rechunker
 	branch = refs/heads/master
+[submodule "jupyter-forward"]
+	url = https://github.com/conda-forge/jupyter-forward-feedstock.git
+	path = feedstocks/jupyter-forward
+	branch = refs/heads/master
