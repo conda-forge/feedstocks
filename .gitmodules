@@ -44150,3 +44150,7 @@
 	url = https://github.com/conda-forge/btrfs-progs-feedstock.git
 	path = feedstocks/btrfs-progs
 	branch = refs/heads/master
+[submodule "skutil"]
+	url = https://github.com/conda-forge/skutil-feedstock.git
+	path = feedstocks/skutil
+	branch = refs/heads/master
