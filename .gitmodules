@@ -44142,3 +44142,7 @@
 	url = https://github.com/conda-forge/percy-feedstock.git
 	path = feedstocks/percy
 	branch = refs/heads/master
+[submodule "testbook"]
+	url = https://github.com/conda-forge/testbook-feedstock.git
+	path = feedstocks/testbook
+	branch = refs/heads/master
