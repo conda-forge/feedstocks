@@ -44146,3 +44146,7 @@
 	url = https://github.com/conda-forge/testbook-feedstock.git
 	path = feedstocks/testbook
 	branch = refs/heads/master
+[submodule "btrfs-progs"]
+	url = https://github.com/conda-forge/btrfs-progs-feedstock.git
+	path = feedstocks/btrfs-progs
+	branch = refs/heads/master
