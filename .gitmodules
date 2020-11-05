@@ -44154,3 +44154,7 @@
 	url = https://github.com/conda-forge/skutil-feedstock.git
 	path = feedstocks/skutil
 	branch = refs/heads/master
+[submodule "ansifilter"]
+	url = https://github.com/conda-forge/ansifilter-feedstock.git
+	path = feedstocks/ansifilter
+	branch = refs/heads/master
