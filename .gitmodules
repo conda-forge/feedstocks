@@ -44138,3 +44138,7 @@
 	url = https://github.com/conda-forge/abtem-feedstock.git
 	path = feedstocks/abtem
 	branch = refs/heads/master
+[submodule "percy"]
+	url = https://github.com/conda-forge/percy-feedstock.git
+	path = feedstocks/percy
+	branch = refs/heads/master
