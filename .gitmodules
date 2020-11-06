@@ -44158,3 +44158,7 @@
 	url = https://github.com/conda-forge/ansifilter-feedstock.git
 	path = feedstocks/ansifilter
 	branch = refs/heads/master
+[submodule "rse"]
+	url = https://github.com/conda-forge/rse-feedstock.git
+	path = feedstocks/rse
+	branch = refs/heads/master
