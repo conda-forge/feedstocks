@@ -44162,3 +44162,7 @@
 	url = https://github.com/conda-forge/rse-feedstock.git
 	path = feedstocks/rse
 	branch = refs/heads/master
+[submodule "ipyfastscape"]
+	url = https://github.com/conda-forge/ipyfastscape-feedstock.git
+	path = feedstocks/ipyfastscape
+	branch = refs/heads/master
