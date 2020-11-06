@@ -44198,3 +44198,7 @@
 	url = https://github.com/conda-forge/r-taxizedb-feedstock.git
 	path = feedstocks/r-taxizedb
 	branch = refs/heads/master
+[submodule "vampyr"]
+	url = https://github.com/conda-forge/vampyr-feedstock.git
+	path = feedstocks/vampyr
+	branch = refs/heads/master
