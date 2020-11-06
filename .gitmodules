@@ -44202,3 +44202,7 @@
 	url = https://github.com/conda-forge/vampyr-feedstock.git
 	path = feedstocks/vampyr
 	branch = refs/heads/master
+[submodule "qhub"]
+	url = https://github.com/conda-forge/qhub-feedstock.git
+	path = feedstocks/qhub
+	branch = refs/heads/master
