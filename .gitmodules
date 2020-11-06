@@ -44186,3 +44186,7 @@
 	url = https://github.com/conda-forge/reproc-feedstock.git
 	path = feedstocks/reproc
 	branch = refs/heads/master
+[submodule "auth0-python"]
+	url = https://github.com/conda-forge/auth0-python-feedstock.git
+	path = feedstocks/auth0-python
+	branch = refs/heads/master
