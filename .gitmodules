@@ -44170,3 +44170,7 @@
 	url = https://github.com/conda-forge/wannier90-feedstock.git
 	path = feedstocks/wannier90
 	branch = refs/heads/master
+[submodule "daal4py"]
+	url = https://github.com/conda-forge/daal4py-feedstock.git
+	path = feedstocks/daal4py
+	branch = refs/heads/master
