@@ -44166,3 +44166,7 @@
 	url = https://github.com/conda-forge/ipyfastscape-feedstock.git
 	path = feedstocks/ipyfastscape
 	branch = refs/heads/master
+[submodule "wannier90"]
+	url = https://github.com/conda-forge/wannier90-feedstock.git
+	path = feedstocks/wannier90
+	branch = refs/heads/master
