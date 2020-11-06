@@ -44194,3 +44194,7 @@
 	url = https://github.com/conda-forge/cloudflare-feedstock.git
 	path = feedstocks/cloudflare
 	branch = refs/heads/master
+[submodule "r-taxizedb"]
+	url = https://github.com/conda-forge/r-taxizedb-feedstock.git
+	path = feedstocks/r-taxizedb
+	branch = refs/heads/master
