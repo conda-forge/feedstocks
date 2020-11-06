@@ -44182,3 +44182,7 @@
 	url = https://github.com/conda-forge/kubessh-feedstock.git
 	path = feedstocks/kubessh
 	branch = refs/heads/master
+[submodule "reproc"]
+	url = https://github.com/conda-forge/reproc-feedstock.git
+	path = feedstocks/reproc
+	branch = refs/heads/master
