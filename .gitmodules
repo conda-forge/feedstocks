@@ -44222,3 +44222,7 @@
 	url = https://github.com/conda-forge/polygonation-feedstock.git
 	path = feedstocks/polygonation
 	branch = refs/heads/master
+[submodule "django-rdkit"]
+	url = https://github.com/conda-forge/django-rdkit-feedstock.git
+	path = feedstocks/django-rdkit
+	branch = refs/heads/master
