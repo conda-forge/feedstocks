@@ -44234,3 +44234,7 @@
 	url = https://github.com/conda-forge/opticalglass-feedstock.git
 	path = feedstocks/opticalglass
 	branch = refs/heads/master
+[submodule "helpdev"]
+	url = https://github.com/conda-forge/helpdev-feedstock.git
+	path = feedstocks/helpdev
+	branch = refs/heads/master
