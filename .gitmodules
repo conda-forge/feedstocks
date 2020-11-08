@@ -44214,3 +44214,7 @@
 	url = https://github.com/conda-forge/fastsrm-feedstock.git
 	path = feedstocks/fastsrm
 	branch = refs/heads/master
+[submodule "trustme"]
+	url = https://github.com/conda-forge/trustme-feedstock.git
+	path = feedstocks/trustme
+	branch = refs/heads/master
