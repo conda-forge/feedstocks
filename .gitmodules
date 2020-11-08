@@ -44238,3 +44238,7 @@
 	url = https://github.com/conda-forge/helpdev-feedstock.git
 	path = feedstocks/helpdev
 	branch = refs/heads/master
+[submodule "mod_wsgi"]
+	url = https://github.com/conda-forge/mod_wsgi-feedstock.git
+	path = feedstocks/mod_wsgi
+	branch = refs/heads/master
