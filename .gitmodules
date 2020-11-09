@@ -44270,3 +44270,7 @@
 	url = https://github.com/conda-forge/r-splines2-feedstock.git
 	path = feedstocks/r-splines2
 	branch = refs/heads/master
+[submodule "r-actuar"]
+	url = https://github.com/conda-forge/r-actuar-feedstock.git
+	path = feedstocks/r-actuar
+	branch = refs/heads/master
