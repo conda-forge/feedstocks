@@ -44274,3 +44274,7 @@
 	url = https://github.com/conda-forge/r-actuar-feedstock.git
 	path = feedstocks/r-actuar
 	branch = refs/heads/master
+[submodule "r-pcamixdata"]
+	url = https://github.com/conda-forge/r-pcamixdata-feedstock.git
+	path = feedstocks/r-pcamixdata
+	branch = refs/heads/master
