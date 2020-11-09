@@ -44298,3 +44298,7 @@
 	url = https://github.com/conda-forge/pdpipe-feedstock.git
 	path = feedstocks/pdpipe
 	branch = refs/heads/master
+[submodule "shinycustomloader"]
+	url = https://github.com/conda-forge/shinycustomloader-feedstock.git
+	path = feedstocks/shinycustomloader
+	branch = refs/heads/master
