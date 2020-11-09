@@ -44246,3 +44246,7 @@
 	url = https://github.com/conda-forge/r-rattle-feedstock.git
 	path = feedstocks/r-rattle
 	branch = refs/heads/master
+[submodule "r-dataexplorer"]
+	url = https://github.com/conda-forge/r-dataexplorer-feedstock.git
+	path = feedstocks/r-dataexplorer
+	branch = refs/heads/master
