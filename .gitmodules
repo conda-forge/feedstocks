@@ -44254,3 +44254,7 @@
 	url = https://github.com/conda-forge/r-expint-feedstock.git
 	path = feedstocks/r-expint
 	branch = refs/heads/master
+[submodule "r-piper"]
+	url = https://github.com/conda-forge/r-piper-feedstock.git
+	path = feedstocks/r-piper
+	branch = refs/heads/master
