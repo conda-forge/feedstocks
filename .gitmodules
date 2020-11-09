@@ -44250,3 +44250,7 @@
 	url = https://github.com/conda-forge/r-dataexplorer-feedstock.git
 	path = feedstocks/r-dataexplorer
 	branch = refs/heads/master
+[submodule "r-expint"]
+	url = https://github.com/conda-forge/r-expint-feedstock.git
+	path = feedstocks/r-expint
+	branch = refs/heads/master
