@@ -44266,3 +44266,7 @@
 	url = https://github.com/conda-forge/r-binr-feedstock.git
 	path = feedstocks/r-binr
 	branch = refs/heads/master
+[submodule "r-splines2"]
+	url = https://github.com/conda-forge/r-splines2-feedstock.git
+	path = feedstocks/r-splines2
+	branch = refs/heads/master
