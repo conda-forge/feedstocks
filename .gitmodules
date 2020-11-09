@@ -44310,3 +44310,7 @@
 	url = https://github.com/conda-forge/r-excelr-feedstock.git
 	path = feedstocks/r-excelr
 	branch = refs/heads/master
+[submodule "r-drimpute"]
+	url = https://github.com/conda-forge/r-drimpute-feedstock.git
+	path = feedstocks/r-drimpute
+	branch = refs/heads/master
