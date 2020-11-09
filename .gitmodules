@@ -44286,3 +44286,7 @@
 	url = https://github.com/conda-forge/r-nsga2r-feedstock.git
 	path = feedstocks/r-nsga2r
 	branch = refs/heads/master
+[submodule "d3rlpy"]
+	url = https://github.com/conda-forge/d3rlpy-feedstock.git
+	path = feedstocks/d3rlpy
+	branch = refs/heads/master
