@@ -44350,3 +44350,7 @@
 	url = https://github.com/conda-forge/lume-epics-feedstock.git
 	path = feedstocks/lume-epics
 	branch = refs/heads/master
+[submodule "podman"]
+	url = https://github.com/conda-forge/podman-feedstock.git
+	path = feedstocks/podman
+	branch = refs/heads/master
