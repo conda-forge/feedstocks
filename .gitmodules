@@ -44290,3 +44290,7 @@
 	url = https://github.com/conda-forge/d3rlpy-feedstock.git
 	path = feedstocks/d3rlpy
 	branch = refs/heads/master
+[submodule "pnab"]
+	url = https://github.com/conda-forge/pnab-feedstock.git
+	path = feedstocks/pnab
+	branch = refs/heads/master
