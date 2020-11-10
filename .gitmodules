@@ -44386,3 +44386,7 @@
 	url = https://github.com/conda-forge/r-ramcharts-feedstock.git
 	path = feedstocks/r-ramcharts
 	branch = refs/heads/master
+[submodule "r-av"]
+	url = https://github.com/conda-forge/r-av-feedstock.git
+	path = feedstocks/r-av
+	branch = refs/heads/master
