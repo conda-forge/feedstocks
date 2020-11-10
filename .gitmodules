@@ -44394,3 +44394,7 @@
 	url = https://github.com/conda-forge/r-prim-feedstock.git
 	path = feedstocks/r-prim
 	branch = refs/heads/master
+[submodule "r-plsrglm"]
+	url = https://github.com/conda-forge/r-plsrglm-feedstock.git
+	path = feedstocks/r-plsrglm
+	branch = refs/heads/master
