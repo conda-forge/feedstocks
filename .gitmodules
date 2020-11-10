@@ -44378,3 +44378,7 @@
 	url = https://github.com/conda-forge/r-tfprobability-feedstock.git
 	path = feedstocks/r-tfprobability
 	branch = refs/heads/master
+[submodule "r-netrep"]
+	url = https://github.com/conda-forge/r-netrep-feedstock.git
+	path = feedstocks/r-netrep
+	branch = refs/heads/master
