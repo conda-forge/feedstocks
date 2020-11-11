@@ -44406,3 +44406,7 @@
 	url = https://github.com/conda-forge/r-epir-feedstock.git
 	path = feedstocks/r-epir
 	branch = refs/heads/master
+[submodule "py-pde"]
+	url = https://github.com/conda-forge/py-pde-feedstock.git
+	path = feedstocks/py-pde
+	branch = refs/heads/master
