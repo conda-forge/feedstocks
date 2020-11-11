@@ -44422,3 +44422,7 @@
 	url = https://github.com/conda-forge/r-rmdpartials-feedstock.git
 	path = feedstocks/r-rmdpartials
 	branch = refs/heads/master
+[submodule "mcalf"]
+	url = https://github.com/conda-forge/mcalf-feedstock.git
+	path = feedstocks/mcalf
+	branch = refs/heads/master
