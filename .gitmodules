@@ -44430,3 +44430,7 @@
 	url = https://github.com/conda-forge/component-contribution-feedstock.git
 	path = feedstocks/component-contribution
 	branch = refs/heads/master
+[submodule "archive-path"]
+	url = https://github.com/conda-forge/archive-path-feedstock.git
+	path = feedstocks/archive-path
+	branch = refs/heads/master
