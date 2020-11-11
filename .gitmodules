@@ -44426,3 +44426,7 @@
 	url = https://github.com/conda-forge/mcalf-feedstock.git
 	path = feedstocks/mcalf
 	branch = refs/heads/master
+[submodule "component-contribution"]
+	url = https://github.com/conda-forge/component-contribution-feedstock.git
+	path = feedstocks/component-contribution
+	branch = refs/heads/master
