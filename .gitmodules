@@ -44442,3 +44442,7 @@
 	url = https://github.com/conda-forge/ml-insights-feedstock.git
 	path = feedstocks/ml-insights
 	branch = refs/heads/master
+[submodule "pyqtree"]
+	url = https://github.com/conda-forge/pyqtree-feedstock.git
+	path = feedstocks/pyqtree
+	branch = refs/heads/master
