@@ -44454,3 +44454,7 @@
 	url = https://github.com/conda-forge/constrainmol-feedstock.git
 	path = feedstocks/constrainmol
 	branch = refs/heads/master
+[submodule "zarray"]
+	url = https://github.com/conda-forge/zarray-feedstock.git
+	path = feedstocks/zarray
+	branch = refs/heads/master
