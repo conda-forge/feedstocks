@@ -44450,3 +44450,7 @@
 	url = https://github.com/conda-forge/lsstdesc-env-feedstock.git
 	path = feedstocks/lsstdesc-env
 	branch = refs/heads/master
+[submodule "constrainmol"]
+	url = https://github.com/conda-forge/constrainmol-feedstock.git
+	path = feedstocks/constrainmol
+	branch = refs/heads/master
