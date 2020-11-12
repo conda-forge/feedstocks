@@ -44446,3 +44446,7 @@
 	url = https://github.com/conda-forge/pyqtree-feedstock.git
 	path = feedstocks/pyqtree
 	branch = refs/heads/master
+[submodule "lsstdesc-env"]
+	url = https://github.com/conda-forge/lsstdesc-env-feedstock.git
+	path = feedstocks/lsstdesc-env
+	branch = refs/heads/master
