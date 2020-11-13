@@ -44498,3 +44498,7 @@
 	url = https://github.com/conda-forge/reedsolo-feedstock.git
 	path = feedstocks/reedsolo
 	branch = refs/heads/master
+[submodule "fgt"]
+	url = https://github.com/conda-forge/fgt-feedstock.git
+	path = feedstocks/fgt
+	branch = refs/heads/master
