@@ -44474,3 +44474,7 @@
 	url = https://github.com/conda-forge/r-multiclasspairs-feedstock.git
 	path = feedstocks/r-multiclasspairs
 	branch = refs/heads/master
+[submodule "xtensor-zarr"]
+	url = https://github.com/conda-forge/xtensor-zarr-feedstock.git
+	path = feedstocks/xtensor-zarr
+	branch = refs/heads/master
