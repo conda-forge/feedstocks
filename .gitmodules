@@ -44486,3 +44486,7 @@
 	url = https://github.com/conda-forge/mplfinance-feedstock.git
 	path = feedstocks/mplfinance
 	branch = refs/heads/master
+[submodule "azcopy"]
+	url = https://github.com/conda-forge/azcopy-feedstock.git
+	path = feedstocks/azcopy
+	branch = refs/heads/master
