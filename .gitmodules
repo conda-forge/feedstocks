@@ -44466,3 +44466,7 @@
 	url = https://github.com/conda-forge/r-dagitty-feedstock.git
 	path = feedstocks/r-dagitty
 	branch = refs/heads/master
+[submodule "gnuconfig"]
+	url = https://github.com/conda-forge/gnuconfig-feedstock.git
+	path = feedstocks/gnuconfig
+	branch = refs/heads/master
