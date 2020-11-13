@@ -44514,3 +44514,7 @@
 	url = https://github.com/conda-forge/kineticstoolkit-feedstock.git
 	path = feedstocks/kineticstoolkit
 	branch = refs/heads/master
+[submodule "cpd"]
+	url = https://github.com/conda-forge/cpd-feedstock.git
+	path = feedstocks/cpd
+	branch = refs/heads/master
