@@ -44506,3 +44506,7 @@
 	url = https://github.com/conda-forge/mergedeep-feedstock.git
 	path = feedstocks/mergedeep
 	branch = refs/heads/master
+[submodule "shelephant"]
+	url = https://github.com/conda-forge/shelephant-feedstock.git
+	path = feedstocks/shelephant
+	branch = refs/heads/master
