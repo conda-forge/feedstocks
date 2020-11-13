@@ -44502,3 +44502,7 @@
 	url = https://github.com/conda-forge/fgt-feedstock.git
 	path = feedstocks/fgt
 	branch = refs/heads/master
+[submodule "mergedeep"]
+	url = https://github.com/conda-forge/mergedeep-feedstock.git
+	path = feedstocks/mergedeep
+	branch = refs/heads/master
