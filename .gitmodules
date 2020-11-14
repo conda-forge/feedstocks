@@ -44530,3 +44530,7 @@
 	url = https://github.com/conda-forge/rage-feedstock.git
 	path = feedstocks/rage
 	branch = refs/heads/master
+[submodule "aws-c-io"]
+	url = https://github.com/conda-forge/aws-c-io-feedstock.git
+	path = feedstocks/aws-c-io
+	branch = refs/heads/master
