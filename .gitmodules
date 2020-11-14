@@ -44526,3 +44526,7 @@
 	url = https://github.com/conda-forge/py-bgzip-feedstock.git
 	path = feedstocks/py-bgzip
 	branch = refs/heads/master
+[submodule "rage"]
+	url = https://github.com/conda-forge/rage-feedstock.git
+	path = feedstocks/rage
+	branch = refs/heads/master
