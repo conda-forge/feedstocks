@@ -44518,3 +44518,7 @@
 	url = https://github.com/conda-forge/cpd-feedstock.git
 	path = feedstocks/cpd
 	branch = refs/heads/master
+[submodule "s2n"]
+	url = https://github.com/conda-forge/s2n-feedstock.git
+	path = feedstocks/s2n
+	branch = refs/heads/master
