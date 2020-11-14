@@ -44522,3 +44522,7 @@
 	url = https://github.com/conda-forge/s2n-feedstock.git
 	path = feedstocks/s2n
 	branch = refs/heads/master
+[submodule "py-bgzip"]
+	url = https://github.com/conda-forge/py-bgzip-feedstock.git
+	path = feedstocks/py-bgzip
+	branch = refs/heads/master
