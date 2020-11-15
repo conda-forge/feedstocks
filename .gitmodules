@@ -44534,3 +44534,7 @@
 	url = https://github.com/conda-forge/aws-c-io-feedstock.git
 	path = feedstocks/aws-c-io
 	branch = refs/heads/master
+[submodule "open62541"]
+	url = https://github.com/conda-forge/open62541-feedstock.git
+	path = feedstocks/open62541
+	branch = refs/heads/master
