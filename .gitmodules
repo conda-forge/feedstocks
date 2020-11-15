@@ -44550,3 +44550,7 @@
 	url = https://github.com/conda-forge/elyra-pipeline-editor-extension-feedstock.git
 	path = feedstocks/elyra-pipeline-editor-extension
 	branch = refs/heads/master
+[submodule "elyra-server"]
+	url = https://github.com/conda-forge/elyra-server-feedstock.git
+	path = feedstocks/elyra-server
+	branch = refs/heads/master
