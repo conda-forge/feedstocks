@@ -44582,3 +44582,7 @@
 	url = https://github.com/conda-forge/bgcargodmqc-feedstock.git
 	path = feedstocks/bgcargodmqc
 	branch = refs/heads/master
+[submodule "r-rdist"]
+	url = https://github.com/conda-forge/r-rdist-feedstock.git
+	path = feedstocks/r-rdist
+	branch = refs/heads/master
