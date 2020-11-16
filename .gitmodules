@@ -44590,3 +44590,7 @@
 	url = https://github.com/conda-forge/traceback-with-variables-feedstock.git
 	path = feedstocks/traceback-with-variables
 	branch = refs/heads/master
+[submodule "panda3d"]
+	url = https://github.com/conda-forge/panda3d-feedstock.git
+	path = feedstocks/panda3d
+	branch = refs/heads/master
