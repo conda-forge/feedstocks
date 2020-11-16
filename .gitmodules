@@ -44606,3 +44606,7 @@
 	url = https://github.com/conda-forge/xlcompose-feedstock.git
 	path = feedstocks/xlcompose
 	branch = refs/heads/master
+[submodule "cbgen"]
+	url = https://github.com/conda-forge/cbgen-feedstock.git
+	path = feedstocks/cbgen
+	branch = refs/heads/master
