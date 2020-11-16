@@ -44574,3 +44574,7 @@
 	url = https://github.com/conda-forge/python-sonarqube-api-feedstock.git
 	path = feedstocks/python-sonarqube-api
 	branch = refs/heads/master
+[submodule "libnegf"]
+	url = https://github.com/conda-forge/libnegf-feedstock.git
+	path = feedstocks/libnegf
+	branch = refs/heads/master
