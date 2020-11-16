@@ -44586,3 +44586,7 @@
 	url = https://github.com/conda-forge/r-rdist-feedstock.git
 	path = feedstocks/r-rdist
 	branch = refs/heads/master
+[submodule "traceback-with-variables"]
+	url = https://github.com/conda-forge/traceback-with-variables-feedstock.git
+	path = feedstocks/traceback-with-variables
+	branch = refs/heads/master
