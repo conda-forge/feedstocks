@@ -44618,3 +44618,7 @@
 	url = https://github.com/conda-forge/ncar-jobqueue-feedstock.git
 	path = feedstocks/ncar-jobqueue
 	branch = refs/heads/master
+[submodule "python-isal"]
+	url = https://github.com/conda-forge/python-isal-feedstock.git
+	path = feedstocks/python-isal
+	branch = refs/heads/master
