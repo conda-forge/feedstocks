@@ -44706,3 +44706,7 @@
 	url = https://github.com/conda-forge/mikeio-feedstock.git
 	path = feedstocks/mikeio
 	branch = refs/heads/master
+[submodule "pytdc"]
+	url = https://github.com/conda-forge/pytdc-feedstock.git
+	path = feedstocks/pytdc
+	branch = refs/heads/master
