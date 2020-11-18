@@ -44766,3 +44766,7 @@
 	url = https://github.com/conda-forge/dm-tree-feedstock.git
 	path = feedstocks/dm-tree
 	branch = refs/heads/master
+[submodule "matlab_kernel"]
+	url = https://github.com/conda-forge/matlab_kernel-feedstock.git
+	path = feedstocks/matlab_kernel
+	branch = refs/heads/master
