@@ -44634,3 +44634,7 @@
 	url = https://github.com/conda-forge/r-lamw-feedstock.git
 	path = feedstocks/r-lamw
 	branch = refs/heads/master
+[submodule "groclient"]
+	url = https://github.com/conda-forge/groclient-feedstock.git
+	path = feedstocks/groclient
+	branch = refs/heads/master
