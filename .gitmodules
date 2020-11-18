@@ -44742,3 +44742,7 @@
 	url = https://github.com/conda-forge/hpp-manipulation-urdf-feedstock.git
 	path = feedstocks/hpp-manipulation-urdf
 	branch = refs/heads/master
+[submodule "hpp-statistics"]
+	url = https://github.com/conda-forge/hpp-statistics-feedstock.git
+	path = feedstocks/hpp-statistics
+	branch = refs/heads/master
