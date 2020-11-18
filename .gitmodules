@@ -44670,3 +44670,7 @@
 	url = https://github.com/conda-forge/pymem3dg-feedstock.git
 	path = feedstocks/pymem3dg
 	branch = refs/heads/master
+[submodule "lenskit"]
+	url = https://github.com/conda-forge/lenskit-feedstock.git
+	path = feedstocks/lenskit
+	branch = refs/heads/master
