@@ -44698,3 +44698,7 @@
 	url = https://github.com/conda-forge/ncplot-feedstock.git
 	path = feedstocks/ncplot
 	branch = refs/heads/master
+[submodule "r-publish"]
+	url = https://github.com/conda-forge/r-publish-feedstock.git
+	path = feedstocks/r-publish
+	branch = refs/heads/master
