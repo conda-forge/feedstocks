@@ -44746,3 +44746,7 @@
 	url = https://github.com/conda-forge/hpp-statistics-feedstock.git
 	path = feedstocks/hpp-statistics
 	branch = refs/heads/master
+[submodule "hpp-constraints"]
+	url = https://github.com/conda-forge/hpp-constraints-feedstock.git
+	path = feedstocks/hpp-constraints
+	branch = refs/heads/master
