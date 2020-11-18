@@ -44750,3 +44750,7 @@
 	url = https://github.com/conda-forge/hpp-constraints-feedstock.git
 	path = feedstocks/hpp-constraints
 	branch = refs/heads/master
+[submodule "hpp-pinocchio"]
+	url = https://github.com/conda-forge/hpp-pinocchio-feedstock.git
+	path = feedstocks/hpp-pinocchio
+	branch = refs/heads/master
