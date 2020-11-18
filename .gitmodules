@@ -44702,3 +44702,7 @@
 	url = https://github.com/conda-forge/r-publish-feedstock.git
 	path = feedstocks/r-publish
 	branch = refs/heads/master
+[submodule "mikeio"]
+	url = https://github.com/conda-forge/mikeio-feedstock.git
+	path = feedstocks/mikeio
+	branch = refs/heads/master
