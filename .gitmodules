@@ -44726,3 +44726,7 @@
 	url = https://github.com/conda-forge/hpp-gui-feedstock.git
 	path = feedstocks/hpp-gui
 	branch = refs/heads/master
+[submodule "hpp-manipulation-corba"]
+	url = https://github.com/conda-forge/hpp-manipulation-corba-feedstock.git
+	path = feedstocks/hpp-manipulation-corba
+	branch = refs/heads/master
