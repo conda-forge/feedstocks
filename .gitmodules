@@ -44674,3 +44674,7 @@
 	url = https://github.com/conda-forge/lenskit-feedstock.git
 	path = feedstocks/lenskit
 	branch = refs/heads/master
+[submodule "mypy-protobuf"]
+	url = https://github.com/conda-forge/mypy-protobuf-feedstock.git
+	path = feedstocks/mypy-protobuf
+	branch = refs/heads/master
