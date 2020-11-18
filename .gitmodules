@@ -44754,3 +44754,7 @@
 	url = https://github.com/conda-forge/hpp-pinocchio-feedstock.git
 	path = feedstocks/hpp-pinocchio
 	branch = refs/heads/master
+[submodule "hpp-environments"]
+	url = https://github.com/conda-forge/hpp-environments-feedstock.git
+	path = feedstocks/hpp-environments
+	branch = refs/heads/master
