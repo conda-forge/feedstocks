@@ -44718,3 +44718,7 @@
 	url = https://github.com/conda-forge/hpp-util-feedstock.git
 	path = feedstocks/hpp-util
 	branch = refs/heads/master
+[submodule "hpp-template-corba"]
+	url = https://github.com/conda-forge/hpp-template-corba-feedstock.git
+	path = feedstocks/hpp-template-corba
+	branch = refs/heads/master
