@@ -44638,3 +44638,7 @@
 	url = https://github.com/conda-forge/groclient-feedstock.git
 	path = feedstocks/groclient
 	branch = refs/heads/master
+[submodule "aeolus"]
+	url = https://github.com/conda-forge/aeolus-feedstock.git
+	path = feedstocks/aeolus
+	branch = refs/heads/master
