@@ -44826,3 +44826,7 @@
 	url = https://github.com/conda-forge/optimade-feedstock.git
 	path = feedstocks/optimade
 	branch = refs/heads/master
+[submodule "ndd"]
+	url = https://github.com/conda-forge/ndd-feedstock.git
+	path = feedstocks/ndd
+	branch = refs/heads/master
