@@ -44830,3 +44830,7 @@
 	url = https://github.com/conda-forge/ndd-feedstock.git
 	path = feedstocks/ndd
 	branch = refs/heads/master
+[submodule "cashocs"]
+	url = https://github.com/conda-forge/cashocs-feedstock.git
+	path = feedstocks/cashocs
+	branch = refs/heads/master
