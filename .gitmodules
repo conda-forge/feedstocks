@@ -44834,3 +44834,7 @@
 	url = https://github.com/conda-forge/cashocs-feedstock.git
 	path = feedstocks/cashocs
 	branch = refs/heads/master
+[submodule "aws-c-cal"]
+	url = https://github.com/conda-forge/aws-c-cal-feedstock.git
+	path = feedstocks/aws-c-cal
+	branch = refs/heads/master
