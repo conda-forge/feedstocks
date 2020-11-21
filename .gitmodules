@@ -44842,3 +44842,7 @@
 	url = https://github.com/conda-forge/equilibrator-pathway-feedstock.git
 	path = feedstocks/equilibrator-pathway
 	branch = refs/heads/master
+[submodule "adstex"]
+	url = https://github.com/conda-forge/adstex-feedstock.git
+	path = feedstocks/adstex
+	branch = refs/heads/master
