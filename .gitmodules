@@ -44850,3 +44850,7 @@
 	url = https://github.com/conda-forge/r-bestnormalize-feedstock.git
 	path = feedstocks/r-bestnormalize
 	branch = refs/heads/master
+[submodule "daops"]
+	url = https://github.com/conda-forge/daops-feedstock.git
+	path = feedstocks/daops
+	branch = refs/heads/master
