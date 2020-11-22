@@ -44870,3 +44870,7 @@
 	url = https://github.com/conda-forge/shapicant-feedstock.git
 	path = feedstocks/shapicant
 	branch = refs/heads/master
+[submodule "warpx"]
+	url = https://github.com/conda-forge/warpx-feedstock.git
+	path = feedstocks/warpx
+	branch = refs/heads/master
