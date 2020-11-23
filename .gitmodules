@@ -44890,3 +44890,7 @@
 	url = https://github.com/conda-forge/python-gmattensor-feedstock.git
 	path = feedstocks/python-gmattensor
 	branch = refs/heads/master
+[submodule "grpcio-tools"]
+	url = https://github.com/conda-forge/grpcio-tools-feedstock.git
+	path = feedstocks/grpcio-tools
+	branch = refs/heads/master
