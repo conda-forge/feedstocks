@@ -44878,3 +44878,7 @@
 	url = https://github.com/conda-forge/crocoddyl-feedstock.git
 	path = feedstocks/crocoddyl
 	branch = refs/heads/master
+[submodule "backports.cached-property"]
+	url = https://github.com/conda-forge/backports.cached-property-feedstock.git
+	path = feedstocks/backports.cached-property
+	branch = refs/heads/master
