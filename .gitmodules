@@ -44906,3 +44906,7 @@
 	url = https://github.com/conda-forge/robotframework-browser-feedstock.git
 	path = feedstocks/robotframework-browser
 	branch = refs/heads/master
+[submodule "robotframework-jupyterlibrary"]
+	url = https://github.com/conda-forge/robotframework-jupyterlibrary-feedstock.git
+	path = feedstocks/robotframework-jupyterlibrary
+	branch = refs/heads/master
