@@ -44874,3 +44874,7 @@
 	url = https://github.com/conda-forge/warpx-feedstock.git
 	path = feedstocks/warpx
 	branch = refs/heads/master
+[submodule "crocoddyl"]
+	url = https://github.com/conda-forge/crocoddyl-feedstock.git
+	path = feedstocks/crocoddyl
+	branch = refs/heads/master
