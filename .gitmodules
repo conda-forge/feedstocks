@@ -44894,3 +44894,7 @@
 	url = https://github.com/conda-forge/grpcio-tools-feedstock.git
 	path = feedstocks/grpcio-tools
 	branch = refs/heads/master
+[submodule "wagyu"]
+	url = https://github.com/conda-forge/wagyu-feedstock.git
+	path = feedstocks/wagyu
+	branch = refs/heads/master
