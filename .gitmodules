@@ -44950,3 +44950,7 @@
 	url = https://github.com/conda-forge/cellpy-feedstock.git
 	path = feedstocks/cellpy
 	branch = refs/heads/master
+[submodule "scikit-mobility"]
+	url = https://github.com/conda-forge/scikit-mobility-feedstock.git
+	path = feedstocks/scikit-mobility
+	branch = refs/heads/master
