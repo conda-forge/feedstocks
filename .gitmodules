@@ -44922,3 +44922,7 @@
 	url = https://github.com/conda-forge/salem-feedstock.git
 	path = feedstocks/salem
 	branch = refs/heads/master
+[submodule "r-mikropml"]
+	url = https://github.com/conda-forge/r-mikropml-feedstock.git
+	path = feedstocks/r-mikropml
+	branch = refs/heads/master
