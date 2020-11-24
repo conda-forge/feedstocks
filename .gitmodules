@@ -44938,3 +44938,7 @@
 	url = https://github.com/conda-forge/music21-feedstock.git
 	path = feedstocks/music21
 	branch = refs/heads/master
+[submodule "libmicrohttpd"]
+	url = https://github.com/conda-forge/libmicrohttpd-feedstock.git
+	path = feedstocks/libmicrohttpd
+	branch = refs/heads/master
