@@ -44918,3 +44918,7 @@
 	url = https://github.com/conda-forge/ofxparse-feedstock.git
 	path = feedstocks/ofxparse
 	branch = refs/heads/master
+[submodule "salem"]
+	url = https://github.com/conda-forge/salem-feedstock.git
+	path = feedstocks/salem
+	branch = refs/heads/master
