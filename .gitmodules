@@ -44946,3 +44946,7 @@
 	url = https://github.com/conda-forge/sklearn-genetic-feedstock.git
 	path = feedstocks/sklearn-genetic
 	branch = refs/heads/master
+[submodule "cellpy"]
+	url = https://github.com/conda-forge/cellpy-feedstock.git
+	path = feedstocks/cellpy
+	branch = refs/heads/master
