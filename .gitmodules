@@ -44930,3 +44930,7 @@
 	url = https://github.com/conda-forge/mockito-feedstock.git
 	path = feedstocks/mockito
 	branch = refs/heads/master
+[submodule "tempest-extremes"]
+	url = https://github.com/conda-forge/tempest-extremes-feedstock.git
+	path = feedstocks/tempest-extremes
+	branch = refs/heads/master
