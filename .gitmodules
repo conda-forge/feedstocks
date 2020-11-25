@@ -44974,3 +44974,7 @@
 	url = https://github.com/conda-forge/human-learn-feedstock.git
 	path = feedstocks/human-learn
 	branch = refs/heads/master
+[submodule "pysumma"]
+	url = https://github.com/conda-forge/pysumma-feedstock.git
+	path = feedstocks/pysumma
+	branch = refs/heads/master
