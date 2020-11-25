@@ -44958,3 +44958,7 @@
 	url = https://github.com/conda-forge/pytrends-feedstock.git
 	path = feedstocks/pytrends
 	branch = refs/heads/master
+[submodule "clumper"]
+	url = https://github.com/conda-forge/clumper-feedstock.git
+	path = feedstocks/clumper
+	branch = refs/heads/master
