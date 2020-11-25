@@ -44982,3 +44982,7 @@
 	url = https://github.com/conda-forge/ligo-asimov-feedstock.git
 	path = feedstocks/ligo-asimov
 	branch = refs/heads/master
+[submodule "bvpy"]
+	url = https://github.com/conda-forge/bvpy-feedstock.git
+	path = feedstocks/bvpy
+	branch = refs/heads/master
