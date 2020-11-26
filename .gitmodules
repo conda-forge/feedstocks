@@ -45030,3 +45030,7 @@
 	url = https://github.com/conda-forge/python-rake-feedstock.git
 	path = feedstocks/python-rake
 	branch = refs/heads/master
+[submodule "sqlalchemy-vertica-python"]
+	url = https://github.com/conda-forge/sqlalchemy-vertica-python-feedstock.git
+	path = feedstocks/sqlalchemy-vertica-python
+	branch = refs/heads/master
