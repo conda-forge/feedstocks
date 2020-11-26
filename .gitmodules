@@ -45010,3 +45010,7 @@
 	url = https://github.com/conda-forge/pynng-feedstock.git
 	path = feedstocks/pynng
 	branch = refs/heads/master
+[submodule "mongogrant"]
+	url = https://github.com/conda-forge/mongogrant-feedstock.git
+	path = feedstocks/mongogrant
+	branch = refs/heads/master
