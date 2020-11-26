@@ -44994,3 +44994,7 @@
 	url = https://github.com/conda-forge/treedecomp-feedstock.git
 	path = feedstocks/treedecomp
 	branch = refs/heads/master
+[submodule "decopatch"]
+	url = https://github.com/conda-forge/decopatch-feedstock.git
+	path = feedstocks/decopatch
+	branch = refs/heads/master
