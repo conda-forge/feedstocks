@@ -45046,3 +45046,7 @@
 	url = https://github.com/conda-forge/dash-auth-feedstock.git
 	path = feedstocks/dash-auth
 	branch = refs/heads/master
+[submodule "r-gitcreds"]
+	url = https://github.com/conda-forge/r-gitcreds-feedstock.git
+	path = feedstocks/r-gitcreds
+	branch = refs/heads/master
