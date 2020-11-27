@@ -45038,3 +45038,7 @@
 	url = https://github.com/conda-forge/recordlinkage-feedstock.git
 	path = feedstocks/recordlinkage
 	branch = refs/heads/master
+[submodule "python-pushover"]
+	url = https://github.com/conda-forge/python-pushover-feedstock.git
+	path = feedstocks/python-pushover
+	branch = refs/heads/master
