@@ -45054,3 +45054,7 @@
 	url = https://github.com/conda-forge/r-jose-feedstock.git
 	path = feedstocks/r-jose
 	branch = refs/heads/master
+[submodule "r-fds"]
+	url = https://github.com/conda-forge/r-fds-feedstock.git
+	path = feedstocks/r-fds
+	branch = refs/heads/master
