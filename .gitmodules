@@ -45074,3 +45074,7 @@
 	url = https://github.com/conda-forge/glue-wwt-feedstock.git
 	path = feedstocks/glue-wwt
 	branch = refs/heads/master
+[submodule "aiapy"]
+	url = https://github.com/conda-forge/aiapy-feedstock.git
+	path = feedstocks/aiapy
+	branch = refs/heads/master
