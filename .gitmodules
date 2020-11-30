@@ -45086,3 +45086,7 @@
 	url = https://github.com/conda-forge/sklearn-pandas-feedstock.git
 	path = feedstocks/sklearn-pandas
 	branch = refs/heads/master
+[submodule "disk-objectstore"]
+	url = https://github.com/conda-forge/disk-objectstore-feedstock.git
+	path = feedstocks/disk-objectstore
+	branch = refs/heads/master
