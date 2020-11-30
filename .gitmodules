@@ -45090,3 +45090,7 @@
 	url = https://github.com/conda-forge/disk-objectstore-feedstock.git
 	path = feedstocks/disk-objectstore
 	branch = refs/heads/master
+[submodule "libopus"]
+	url = https://github.com/conda-forge/libopus-feedstock.git
+	path = feedstocks/libopus
+	branch = refs/heads/master
