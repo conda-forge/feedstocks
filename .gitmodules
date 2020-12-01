@@ -45190,3 +45190,7 @@
 	url = https://github.com/conda-forge/flake8-simplify-feedstock.git
 	path = feedstocks/flake8-simplify
 	branch = refs/heads/master
+[submodule "fuzzymatcher"]
+	url = https://github.com/conda-forge/fuzzymatcher-feedstock.git
+	path = feedstocks/fuzzymatcher
+	branch = refs/heads/master
