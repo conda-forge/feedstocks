@@ -45170,3 +45170,7 @@
 	url = https://github.com/conda-forge/netsuitesdk-feedstock.git
 	path = feedstocks/netsuitesdk
 	branch = refs/heads/master
+[submodule "fpdf"]
+	url = https://github.com/conda-forge/fpdf-feedstock.git
+	path = feedstocks/fpdf
+	branch = refs/heads/master
