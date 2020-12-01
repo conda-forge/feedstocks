@@ -45110,3 +45110,7 @@
 	url = https://github.com/conda-forge/heaptrack-feedstock.git
 	path = feedstocks/heaptrack
 	branch = refs/heads/master
+[submodule "mathics3"]
+	url = https://github.com/conda-forge/mathics3-feedstock.git
+	path = feedstocks/mathics3
+	branch = refs/heads/master
