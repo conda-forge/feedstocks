@@ -45146,3 +45146,7 @@
 	url = https://github.com/conda-forge/rpaframework-core-feedstock.git
 	path = feedstocks/rpaframework-core
 	branch = refs/heads/master
+[submodule "robotframework-sapguilibrary"]
+	url = https://github.com/conda-forge/robotframework-sapguilibrary-feedstock.git
+	path = feedstocks/robotframework-sapguilibrary
+	branch = refs/heads/master
