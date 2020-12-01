@@ -45118,3 +45118,7 @@
 	url = https://github.com/conda-forge/yargy-feedstock.git
 	path = feedstocks/yargy
 	branch = refs/heads/master
+[submodule "natasha"]
+	url = https://github.com/conda-forge/natasha-feedstock.git
+	path = feedstocks/natasha
+	branch = refs/heads/master
