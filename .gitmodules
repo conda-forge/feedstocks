@@ -45126,3 +45126,7 @@
 	url = https://github.com/conda-forge/ipymarkup-feedstock.git
 	path = feedstocks/ipymarkup
 	branch = refs/heads/master
+[submodule "navec"]
+	url = https://github.com/conda-forge/navec-feedstock.git
+	path = feedstocks/navec
+	branch = refs/heads/master
