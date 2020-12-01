@@ -45130,3 +45130,7 @@
 	url = https://github.com/conda-forge/navec-feedstock.git
 	path = feedstocks/navec
 	branch = refs/heads/master
+[submodule "slovnet"]
+	url = https://github.com/conda-forge/slovnet-feedstock.git
+	path = feedstocks/slovnet
+	branch = refs/heads/master
