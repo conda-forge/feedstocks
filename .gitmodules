@@ -45102,3 +45102,7 @@
 	url = https://github.com/conda-forge/language-tags-feedstock.git
 	path = feedstocks/language-tags
 	branch = refs/heads/master
+[submodule "explainerdashboard"]
+	url = https://github.com/conda-forge/explainerdashboard-feedstock.git
+	path = feedstocks/explainerdashboard
+	branch = refs/heads/master
