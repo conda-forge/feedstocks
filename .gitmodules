@@ -45150,3 +45150,7 @@
 	url = https://github.com/conda-forge/robotframework-sapguilibrary-feedstock.git
 	path = feedstocks/robotframework-sapguilibrary
 	branch = refs/heads/master
+[submodule "webdrivermanager"]
+	url = https://github.com/conda-forge/webdrivermanager-feedstock.git
+	path = feedstocks/webdrivermanager
+	branch = refs/heads/master
