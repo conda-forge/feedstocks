@@ -45194,3 +45194,7 @@
 	url = https://github.com/conda-forge/fuzzymatcher-feedstock.git
 	path = feedstocks/fuzzymatcher
 	branch = refs/heads/master
+[submodule "dotnet-interactive"]
+	url = https://github.com/conda-forge/dotnet-interactive-feedstock.git
+	path = feedstocks/dotnet-interactive
+	branch = refs/heads/master
