@@ -45106,3 +45106,7 @@
 	url = https://github.com/conda-forge/explainerdashboard-feedstock.git
 	path = feedstocks/explainerdashboard
 	branch = refs/heads/master
+[submodule "heaptrack"]
+	url = https://github.com/conda-forge/heaptrack-feedstock.git
+	path = feedstocks/heaptrack
+	branch = refs/heads/master
