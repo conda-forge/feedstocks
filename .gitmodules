@@ -45186,3 +45186,7 @@
 	url = https://github.com/conda-forge/itmlogic-feedstock.git
 	path = feedstocks/itmlogic
 	branch = refs/heads/master
+[submodule "flake8-simplify"]
+	url = https://github.com/conda-forge/flake8-simplify-feedstock.git
+	path = feedstocks/flake8-simplify
+	branch = refs/heads/master
