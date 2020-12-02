@@ -45234,3 +45234,7 @@
 	url = https://github.com/conda-forge/gcr-feedstock.git
 	path = feedstocks/gcr
 	branch = refs/heads/master
+[submodule "pyrost"]
+	url = https://github.com/conda-forge/pyrost-feedstock.git
+	path = feedstocks/pyrost
+	branch = refs/heads/master
