@@ -45226,3 +45226,7 @@
 	url = https://github.com/conda-forge/tespy-feedstock.git
 	path = feedstocks/tespy
 	branch = refs/heads/master
+[submodule "sklearn2pmml"]
+	url = https://github.com/conda-forge/sklearn2pmml-feedstock.git
+	path = feedstocks/sklearn2pmml
+	branch = refs/heads/master
