@@ -45222,3 +45222,7 @@
 	url = https://github.com/conda-forge/kaleido-core-feedstock.git
 	path = feedstocks/kaleido-core
 	branch = refs/heads/master
+[submodule "tespy"]
+	url = https://github.com/conda-forge/tespy-feedstock.git
+	path = feedstocks/tespy
+	branch = refs/heads/master
