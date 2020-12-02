@@ -45198,3 +45198,7 @@
 	url = https://github.com/conda-forge/dotnet-interactive-feedstock.git
 	path = feedstocks/dotnet-interactive
 	branch = refs/heads/master
+[submodule "ppscore"]
+	url = https://github.com/conda-forge/ppscore-feedstock.git
+	path = feedstocks/ppscore
+	branch = refs/heads/master
