@@ -45210,3 +45210,7 @@
 	url = https://github.com/conda-forge/argp-standalone-feedstock.git
 	path = feedstocks/argp-standalone
 	branch = refs/heads/master
+[submodule "emscripten"]
+	url = https://github.com/conda-forge/emscripten-feedstock.git
+	path = feedstocks/emscripten
+	branch = refs/heads/master
