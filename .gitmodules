@@ -45218,3 +45218,7 @@
 	url = https://github.com/conda-forge/datasets-feedstock.git
 	path = feedstocks/datasets
 	branch = refs/heads/master
+[submodule "kaleido-core"]
+	url = https://github.com/conda-forge/kaleido-core-feedstock.git
+	path = feedstocks/kaleido-core
+	branch = refs/heads/master
