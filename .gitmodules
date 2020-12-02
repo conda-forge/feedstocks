@@ -45230,3 +45230,7 @@
 	url = https://github.com/conda-forge/sklearn2pmml-feedstock.git
 	path = feedstocks/sklearn2pmml
 	branch = refs/heads/master
+[submodule "gcr"]
+	url = https://github.com/conda-forge/gcr-feedstock.git
+	path = feedstocks/gcr
+	branch = refs/heads/master
