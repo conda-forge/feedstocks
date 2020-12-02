@@ -45202,3 +45202,7 @@
 	url = https://github.com/conda-forge/ppscore-feedstock.git
 	path = feedstocks/ppscore
 	branch = refs/heads/master
+[submodule "taskflow"]
+	url = https://github.com/conda-forge/taskflow-feedstock.git
+	path = feedstocks/taskflow
+	branch = refs/heads/master
