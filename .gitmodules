@@ -45214,3 +45214,7 @@
 	url = https://github.com/conda-forge/emscripten-feedstock.git
 	path = feedstocks/emscripten
 	branch = refs/heads/master
+[submodule "datasets"]
+	url = https://github.com/conda-forge/datasets-feedstock.git
+	path = feedstocks/datasets
+	branch = refs/heads/master
