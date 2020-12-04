@@ -45270,3 +45270,7 @@
 	url = https://github.com/conda-forge/gb-code-feedstock.git
 	path = feedstocks/gb-code
 	branch = refs/heads/master
+[submodule "papermill_report"]
+	url = https://github.com/conda-forge/papermill_report-feedstock.git
+	path = feedstocks/papermill_report
+	branch = refs/heads/master
