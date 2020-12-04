@@ -45262,3 +45262,7 @@
 	url = https://github.com/conda-forge/lsstdesc-gcr-catalogs-feedstock.git
 	path = feedstocks/lsstdesc-gcr-catalogs
 	branch = refs/heads/master
+[submodule "aimsgb"]
+	url = https://github.com/conda-forge/aimsgb-feedstock.git
+	path = feedstocks/aimsgb
+	branch = refs/heads/master
