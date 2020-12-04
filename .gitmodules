@@ -45266,3 +45266,7 @@
 	url = https://github.com/conda-forge/aimsgb-feedstock.git
 	path = feedstocks/aimsgb
 	branch = refs/heads/master
+[submodule "gb-code"]
+	url = https://github.com/conda-forge/gb-code-feedstock.git
+	path = feedstocks/gb-code
+	branch = refs/heads/master
