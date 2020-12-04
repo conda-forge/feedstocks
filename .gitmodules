@@ -45278,3 +45278,7 @@
 	url = https://github.com/conda-forge/redmapper-feedstock.git
 	path = feedstocks/redmapper
 	branch = refs/heads/master
+[submodule "python-kaleido"]
+	url = https://github.com/conda-forge/python-kaleido-feedstock.git
+	path = feedstocks/python-kaleido
+	branch = refs/heads/master
