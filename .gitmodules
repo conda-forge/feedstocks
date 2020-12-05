@@ -45298,3 +45298,7 @@
 	url = https://github.com/conda-forge/r-nanostringr-feedstock.git
 	path = feedstocks/r-nanostringr
 	branch = refs/heads/master
+[submodule "bitstring"]
+	url = https://github.com/conda-forge/bitstring-feedstock.git
+	path = feedstocks/bitstring
+	branch = refs/heads/master
