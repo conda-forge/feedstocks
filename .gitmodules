@@ -45286,3 +45286,7 @@
 	url = https://github.com/conda-forge/fast-dds-feedstock.git
 	path = feedstocks/fast-dds
 	branch = refs/heads/master
+[submodule "r-clustimpute"]
+	url = https://github.com/conda-forge/r-clustimpute-feedstock.git
+	path = feedstocks/r-clustimpute
+	branch = refs/heads/master
