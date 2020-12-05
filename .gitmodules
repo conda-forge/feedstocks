@@ -45282,3 +45282,7 @@
 	url = https://github.com/conda-forge/python-kaleido-feedstock.git
 	path = feedstocks/python-kaleido
 	branch = refs/heads/master
+[submodule "fast-dds"]
+	url = https://github.com/conda-forge/fast-dds-feedstock.git
+	path = feedstocks/fast-dds
+	branch = refs/heads/master
