@@ -45314,3 +45314,7 @@
 	url = https://github.com/conda-forge/r-boomspikeslab-feedstock.git
 	path = feedstocks/r-boomspikeslab
 	branch = refs/heads/master
+[submodule "r-bsts"]
+	url = https://github.com/conda-forge/r-bsts-feedstock.git
+	path = feedstocks/r-bsts
+	branch = refs/heads/master
