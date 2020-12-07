@@ -45330,3 +45330,7 @@
 	url = https://github.com/conda-forge/pyqtwebkit-feedstock.git
 	path = feedstocks/pyqtwebkit
 	branch = refs/heads/master
+[submodule "amset"]
+	url = https://github.com/conda-forge/amset-feedstock.git
+	path = feedstocks/amset
+	branch = refs/heads/master
