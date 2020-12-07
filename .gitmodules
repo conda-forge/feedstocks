@@ -45322,3 +45322,7 @@
 	url = https://github.com/conda-forge/napari-pims-bioformats-feedstock.git
 	path = feedstocks/napari-pims-bioformats
 	branch = refs/heads/master
+[submodule "verticapy"]
+	url = https://github.com/conda-forge/verticapy-feedstock.git
+	path = feedstocks/verticapy
+	branch = refs/heads/master
