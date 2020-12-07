@@ -45346,3 +45346,7 @@
 	url = https://github.com/conda-forge/quadpy-feedstock.git
 	path = feedstocks/quadpy
 	branch = refs/heads/master
+[submodule "ndim"]
+	url = https://github.com/conda-forge/ndim-feedstock.git
+	path = feedstocks/ndim
+	branch = refs/heads/master
