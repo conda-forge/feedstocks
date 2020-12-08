@@ -45354,3 +45354,7 @@
 	url = https://github.com/conda-forge/sk-dist-feedstock.git
 	path = feedstocks/sk-dist
 	branch = refs/heads/master
+[submodule "dot2tex"]
+	url = https://github.com/conda-forge/dot2tex-feedstock.git
+	path = feedstocks/dot2tex
+	branch = refs/heads/master
