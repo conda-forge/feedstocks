@@ -45362,3 +45362,7 @@
 	url = https://github.com/conda-forge/sym-feedstock.git
 	path = feedstocks/sym
 	branch = refs/heads/master
+[submodule "chempy"]
+	url = https://github.com/conda-forge/chempy-feedstock.git
+	path = feedstocks/chempy
+	branch = refs/heads/master
