@@ -45370,3 +45370,7 @@
 	url = https://github.com/conda-forge/pyneqsys-feedstock.git
 	path = feedstocks/pyneqsys
 	branch = refs/heads/master
+[submodule "pyodesys"]
+	url = https://github.com/conda-forge/pyodesys-feedstock.git
+	path = feedstocks/pyodesys
+	branch = refs/heads/master
