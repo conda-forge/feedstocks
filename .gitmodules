@@ -45390,3 +45390,7 @@
 	url = https://github.com/conda-forge/duc-feedstock.git
 	path = feedstocks/duc
 	branch = refs/heads/master
+[submodule "s3fs-fuse"]
+	url = https://github.com/conda-forge/s3fs-fuse-feedstock.git
+	path = feedstocks/s3fs-fuse
+	branch = refs/heads/master
