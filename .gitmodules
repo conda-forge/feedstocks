@@ -45394,3 +45394,7 @@
 	url = https://github.com/conda-forge/s3fs-fuse-feedstock.git
 	path = feedstocks/s3fs-fuse
 	branch = refs/heads/master
+[submodule "squashfuse"]
+	url = https://github.com/conda-forge/squashfuse-feedstock.git
+	path = feedstocks/squashfuse
+	branch = refs/heads/master
