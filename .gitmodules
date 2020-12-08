@@ -45406,3 +45406,7 @@
 	url = https://github.com/conda-forge/itt-python-feedstock.git
 	path = feedstocks/itt-python
 	branch = refs/heads/master
+[submodule "ittapi"]
+	url = https://github.com/conda-forge/ittapi-feedstock.git
+	path = feedstocks/ittapi
+	branch = refs/heads/master
