@@ -45418,3 +45418,7 @@
 	url = https://github.com/conda-forge/geospark-feedstock.git
 	path = feedstocks/geospark
 	branch = refs/heads/master
+[submodule "pys2index"]
+	url = https://github.com/conda-forge/pys2index-feedstock.git
+	path = feedstocks/pys2index
+	branch = refs/heads/master
