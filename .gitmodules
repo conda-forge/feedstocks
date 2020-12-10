@@ -45450,3 +45450,7 @@
 	url = https://github.com/conda-forge/questionary-feedstock.git
 	path = feedstocks/questionary
 	branch = refs/heads/master
+[submodule "ray-packages"]
+	url = https://github.com/conda-forge/ray-packages-feedstock.git
+	path = feedstocks/ray-packages
+	branch = refs/heads/master
