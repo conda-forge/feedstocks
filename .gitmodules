@@ -45454,3 +45454,7 @@
 	url = https://github.com/conda-forge/ray-packages-feedstock.git
 	path = feedstocks/ray-packages
 	branch = refs/heads/master
+[submodule "grpclib"]
+	url = https://github.com/conda-forge/grpclib-feedstock.git
+	path = feedstocks/grpclib
+	branch = refs/heads/master
