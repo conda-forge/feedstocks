@@ -45494,3 +45494,7 @@
 	url = https://github.com/conda-forge/magma-feedstock.git
 	path = feedstocks/magma
 	branch = refs/heads/master
+[submodule "tune-sklearn"]
+	url = https://github.com/conda-forge/tune-sklearn-feedstock.git
+	path = feedstocks/tune-sklearn
+	branch = refs/heads/master
