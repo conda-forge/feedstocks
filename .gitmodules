@@ -45470,3 +45470,7 @@
 	url = https://github.com/conda-forge/pdbfixer-feedstock.git
 	path = feedstocks/pdbfixer
 	branch = refs/heads/master
+[submodule "openmm-setup"]
+	url = https://github.com/conda-forge/openmm-setup-feedstock.git
+	path = feedstocks/openmm-setup
+	branch = refs/heads/master
