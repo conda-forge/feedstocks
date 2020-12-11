@@ -45490,3 +45490,7 @@
 	url = https://github.com/conda-forge/iohexperimenter-feedstock.git
 	path = feedstocks/iohexperimenter
 	branch = refs/heads/master
+[submodule "magma"]
+	url = https://github.com/conda-forge/magma-feedstock.git
+	path = feedstocks/magma
+	branch = refs/heads/master
