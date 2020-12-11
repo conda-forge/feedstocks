@@ -45478,3 +45478,7 @@
 	url = https://github.com/conda-forge/configspace-feedstock.git
 	path = feedstocks/configspace
 	branch = refs/heads/master
+[submodule "hpbandster"]
+	url = https://github.com/conda-forge/hpbandster-feedstock.git
+	path = feedstocks/hpbandster
+	branch = refs/heads/master
