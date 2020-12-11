@@ -45466,3 +45466,7 @@
 	url = https://github.com/conda-forge/jhbuild-feedstock.git
 	path = feedstocks/jhbuild
 	branch = refs/heads/master
+[submodule "pdbfixer"]
+	url = https://github.com/conda-forge/pdbfixer-feedstock.git
+	path = feedstocks/pdbfixer
+	branch = refs/heads/master
