@@ -45498,3 +45498,7 @@
 	url = https://github.com/conda-forge/tune-sklearn-feedstock.git
 	path = feedstocks/tune-sklearn
 	branch = refs/heads/master
+[submodule "acstools"]
+	url = https://github.com/conda-forge/acstools-feedstock.git
+	path = feedstocks/acstools
+	branch = refs/heads/master
