@@ -45510,3 +45510,7 @@
 	url = https://github.com/conda-forge/johnnydep-feedstock.git
 	path = feedstocks/johnnydep
 	branch = refs/heads/master
+[submodule "wimpy"]
+	url = https://github.com/conda-forge/wimpy-feedstock.git
+	path = feedstocks/wimpy
+	branch = refs/heads/master
