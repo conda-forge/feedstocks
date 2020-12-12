@@ -45506,3 +45506,7 @@
 	url = https://github.com/conda-forge/foyer-feedstock.git
 	path = feedstocks/foyer
 	branch = refs/heads/master
+[submodule "johnnydep"]
+	url = https://github.com/conda-forge/johnnydep-feedstock.git
+	path = feedstocks/johnnydep
+	branch = refs/heads/master
