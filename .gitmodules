@@ -45518,3 +45518,7 @@
 	url = https://github.com/conda-forge/r-rrapply-feedstock.git
 	path = feedstocks/r-rrapply
 	branch = refs/heads/master
+[submodule "openneuro-py"]
+	url = https://github.com/conda-forge/openneuro-py-feedstock.git
+	path = feedstocks/openneuro-py
+	branch = refs/heads/master
