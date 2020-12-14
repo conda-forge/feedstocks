@@ -45542,3 +45542,7 @@
 	url = https://github.com/conda-forge/yaml2cli-feedstock.git
 	path = feedstocks/yaml2cli
 	branch = refs/heads/master
+[submodule "acor"]
+	url = https://github.com/conda-forge/acor-feedstock.git
+	path = feedstocks/acor
+	branch = refs/heads/master
