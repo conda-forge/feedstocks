@@ -45554,3 +45554,7 @@
 	url = https://github.com/conda-forge/r-rlecuyer-feedstock.git
 	path = feedstocks/r-rlecuyer
 	branch = refs/heads/master
+[submodule "r-wordcloud2"]
+	url = https://github.com/conda-forge/r-wordcloud2-feedstock.git
+	path = feedstocks/r-wordcloud2
+	branch = refs/heads/master
