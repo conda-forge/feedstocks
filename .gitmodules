@@ -45550,3 +45550,7 @@
 	url = https://github.com/conda-forge/tco-feedstock.git
 	path = feedstocks/tco
 	branch = refs/heads/master
+[submodule "r-rlecuyer"]
+	url = https://github.com/conda-forge/r-rlecuyer-feedstock.git
+	path = feedstocks/r-rlecuyer
+	branch = refs/heads/master
