@@ -45522,3 +45522,7 @@
 	url = https://github.com/conda-forge/openneuro-py-feedstock.git
 	path = feedstocks/openneuro-py
 	branch = refs/heads/master
+[submodule "r-phylolm"]
+	url = https://github.com/conda-forge/r-phylolm-feedstock.git
+	path = feedstocks/r-phylolm
+	branch = refs/heads/master
