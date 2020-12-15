@@ -45594,3 +45594,7 @@
 	url = https://github.com/conda-forge/otter-report-feedstock.git
 	path = feedstocks/otter-report
 	branch = refs/heads/master
+[submodule "pyslalib"]
+	url = https://github.com/conda-forge/pyslalib-feedstock.git
+	path = feedstocks/pyslalib
+	branch = refs/heads/master
