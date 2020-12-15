@@ -45566,3 +45566,7 @@
 	url = https://github.com/conda-forge/py-openalpr-feedstock.git
 	path = feedstocks/py-openalpr
 	branch = refs/heads/master
+[submodule "plotly-ecdf"]
+	url = https://github.com/conda-forge/plotly-ecdf-feedstock.git
+	path = feedstocks/plotly-ecdf
+	branch = refs/heads/master
