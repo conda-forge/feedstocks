@@ -45630,3 +45630,7 @@
 	url = https://github.com/conda-forge/uc-micro-py-feedstock.git
 	path = feedstocks/uc-micro-py
 	branch = refs/heads/master
+[submodule "cogdl"]
+	url = https://github.com/conda-forge/cogdl-feedstock.git
+	path = feedstocks/cogdl
+	branch = refs/heads/master
