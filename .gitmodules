@@ -45578,3 +45578,7 @@
 	url = https://github.com/conda-forge/mdit-py-plugins-feedstock.git
 	path = feedstocks/mdit-py-plugins
 	branch = refs/heads/master
+[submodule "r-bigalgebra"]
+	url = https://github.com/conda-forge/r-bigalgebra-feedstock.git
+	path = feedstocks/r-bigalgebra
+	branch = refs/heads/master
