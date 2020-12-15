@@ -45606,3 +45606,7 @@
 	url = https://github.com/conda-forge/pegasus-wms.api-feedstock.git
 	path = feedstocks/pegasus-wms.api
 	branch = refs/heads/master
+[submodule "pegasus-wms.worker"]
+	url = https://github.com/conda-forge/pegasus-wms.worker-feedstock.git
+	path = feedstocks/pegasus-wms.worker
+	branch = refs/heads/master
