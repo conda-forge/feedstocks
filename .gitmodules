@@ -45574,3 +45574,7 @@
 	url = https://github.com/conda-forge/asf_tools-feedstock.git
 	path = feedstocks/asf_tools
 	branch = refs/heads/master
+[submodule "mdit-py-plugins"]
+	url = https://github.com/conda-forge/mdit-py-plugins-feedstock.git
+	path = feedstocks/mdit-py-plugins
+	branch = refs/heads/master
