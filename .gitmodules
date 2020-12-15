@@ -45582,3 +45582,7 @@
 	url = https://github.com/conda-forge/r-bigalgebra-feedstock.git
 	path = feedstocks/r-bigalgebra
 	branch = refs/heads/master
+[submodule "r-pmml"]
+	url = https://github.com/conda-forge/r-pmml-feedstock.git
+	path = feedstocks/r-pmml
+	branch = refs/heads/master
