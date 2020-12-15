@@ -45602,3 +45602,7 @@
 	url = https://github.com/conda-forge/r-antiword-feedstock.git
 	path = feedstocks/r-antiword
 	branch = refs/heads/master
+[submodule "pegasus-wms.api"]
+	url = https://github.com/conda-forge/pegasus-wms.api-feedstock.git
+	path = feedstocks/pegasus-wms.api
+	branch = refs/heads/master
