@@ -45586,3 +45586,7 @@
 	url = https://github.com/conda-forge/r-pmml-feedstock.git
 	path = feedstocks/r-pmml
 	branch = refs/heads/master
+[submodule "r-orcutt"]
+	url = https://github.com/conda-forge/r-orcutt-feedstock.git
+	path = feedstocks/r-orcutt
+	branch = refs/heads/master
