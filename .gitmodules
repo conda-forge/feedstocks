@@ -45662,3 +45662,7 @@
 	url = https://github.com/conda-forge/libstempo-feedstock.git
 	path = feedstocks/libstempo
 	branch = refs/heads/master
+[submodule "furo"]
+	url = https://github.com/conda-forge/furo-feedstock.git
+	path = feedstocks/furo
+	branch = refs/heads/master
