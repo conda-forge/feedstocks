@@ -45666,3 +45666,7 @@
 	url = https://github.com/conda-forge/furo-feedstock.git
 	path = feedstocks/furo
 	branch = refs/heads/master
+[submodule "sphinx-inline-tabs"]
+	url = https://github.com/conda-forge/sphinx-inline-tabs-feedstock.git
+	path = feedstocks/sphinx-inline-tabs
+	branch = refs/heads/master
