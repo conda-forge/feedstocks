@@ -45650,3 +45650,7 @@
 	url = https://github.com/conda-forge/ics-feedstock.git
 	path = feedstocks/ics
 	branch = refs/heads/master
+[submodule "r-kendall"]
+	url = https://github.com/conda-forge/r-kendall-feedstock.git
+	path = feedstocks/r-kendall
+	branch = refs/heads/master
