@@ -45654,3 +45654,7 @@
 	url = https://github.com/conda-forge/r-kendall-feedstock.git
 	path = feedstocks/r-kendall
 	branch = refs/heads/master
+[submodule "sphinxcontrib-mermaid"]
+	url = https://github.com/conda-forge/sphinxcontrib-mermaid-feedstock.git
+	path = feedstocks/sphinxcontrib-mermaid
+	branch = refs/heads/master
