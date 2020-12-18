@@ -45702,3 +45702,7 @@
 	url = https://github.com/conda-forge/xoak-feedstock.git
 	path = feedstocks/xoak
 	branch = refs/heads/master
+[submodule "locopy"]
+	url = https://github.com/conda-forge/locopy-feedstock.git
+	path = feedstocks/locopy
+	branch = refs/heads/master
