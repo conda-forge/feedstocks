@@ -45694,3 +45694,7 @@
 	url = https://github.com/conda-forge/blaupause-feedstock.git
 	path = feedstocks/blaupause
 	branch = refs/heads/master
+[submodule "linkify-it-py"]
+	url = https://github.com/conda-forge/linkify-it-py-feedstock.git
+	path = feedstocks/linkify-it-py
+	branch = refs/heads/master
