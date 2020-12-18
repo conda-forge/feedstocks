@@ -45706,3 +45706,7 @@
 	url = https://github.com/conda-forge/locopy-feedstock.git
 	path = feedstocks/locopy
 	branch = refs/heads/master
+[submodule "heyoka"]
+	url = https://github.com/conda-forge/heyoka-feedstock.git
+	path = feedstocks/heyoka
+	branch = refs/heads/master
