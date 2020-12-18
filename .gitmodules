@@ -45710,3 +45710,7 @@
 	url = https://github.com/conda-forge/heyoka-feedstock.git
 	path = feedstocks/heyoka
 	branch = refs/heads/master
+[submodule "cmder"]
+	url = https://github.com/conda-forge/cmder-feedstock.git
+	path = feedstocks/cmder
+	branch = refs/heads/master
