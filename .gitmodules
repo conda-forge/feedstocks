@@ -45674,3 +45674,7 @@
 	url = https://github.com/conda-forge/r-clickr-feedstock.git
 	path = feedstocks/r-clickr
 	branch = refs/heads/master
+[submodule "redshift_connector"]
+	url = https://github.com/conda-forge/redshift_connector-feedstock.git
+	path = feedstocks/redshift_connector
+	branch = refs/heads/master
