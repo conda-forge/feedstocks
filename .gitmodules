@@ -45714,3 +45714,7 @@
 	url = https://github.com/conda-forge/cmder-feedstock.git
 	path = feedstocks/cmder
 	branch = refs/heads/master
+[submodule "ecctl"]
+	url = https://github.com/conda-forge/ecctl-feedstock.git
+	path = feedstocks/ecctl
+	branch = refs/heads/master
