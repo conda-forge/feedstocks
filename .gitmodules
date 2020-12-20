@@ -45726,3 +45726,7 @@
 	url = https://github.com/conda-forge/inja-feedstock.git
 	path = feedstocks/inja
 	branch = refs/heads/master
+[submodule "pantable"]
+	url = https://github.com/conda-forge/pantable-feedstock.git
+	path = feedstocks/pantable
+	branch = refs/heads/master
