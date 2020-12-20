@@ -45730,3 +45730,7 @@
 	url = https://github.com/conda-forge/pantable-feedstock.git
 	path = feedstocks/pantable
 	branch = refs/heads/master
+[submodule "pysentiment2"]
+	url = https://github.com/conda-forge/pysentiment2-feedstock.git
+	path = feedstocks/pysentiment2
+	branch = refs/heads/master
