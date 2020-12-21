@@ -45774,3 +45774,7 @@
 	url = https://github.com/conda-forge/librsync-feedstock.git
 	path = feedstocks/librsync
 	branch = refs/heads/master
+[submodule "compas-mobile-robot-reloc"]
+	url = https://github.com/conda-forge/compas-mobile-robot-reloc-feedstock.git
+	path = feedstocks/compas-mobile-robot-reloc
+	branch = refs/heads/master
