@@ -45770,3 +45770,7 @@
 	url = https://github.com/conda-forge/connection_pool-feedstock.git
 	path = feedstocks/connection_pool
 	branch = refs/heads/master
+[submodule "librsync"]
+	url = https://github.com/conda-forge/librsync-feedstock.git
+	path = feedstocks/librsync
+	branch = refs/heads/master
