@@ -45754,3 +45754,7 @@
 	url = https://github.com/conda-forge/csv2table-feedstock.git
 	path = feedstocks/csv2table
 	branch = refs/heads/master
+[submodule "econml"]
+	url = https://github.com/conda-forge/econml-feedstock.git
+	path = feedstocks/econml
+	branch = refs/heads/master
