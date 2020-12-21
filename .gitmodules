@@ -45778,3 +45778,7 @@
 	url = https://github.com/conda-forge/compas-mobile-robot-reloc-feedstock.git
 	path = feedstocks/compas-mobile-robot-reloc
 	branch = refs/heads/master
+[submodule "duplicity"]
+	url = https://github.com/conda-forge/duplicity-feedstock.git
+	path = feedstocks/duplicity
+	branch = refs/heads/master
