@@ -45758,3 +45758,7 @@
 	url = https://github.com/conda-forge/econml-feedstock.git
 	path = feedstocks/econml
 	branch = refs/heads/master
+[submodule "jupyter-resource-usage"]
+	url = https://github.com/conda-forge/jupyter-resource-usage-feedstock.git
+	path = feedstocks/jupyter-resource-usage
+	branch = refs/heads/master
