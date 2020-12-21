@@ -45750,3 +45750,7 @@
 	url = https://github.com/conda-forge/map_parallel-feedstock.git
 	path = feedstocks/map_parallel
 	branch = refs/heads/master
+[submodule "csv2table"]
+	url = https://github.com/conda-forge/csv2table-feedstock.git
+	path = feedstocks/csv2table
+	branch = refs/heads/master
