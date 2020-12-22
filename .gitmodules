@@ -45782,3 +45782,7 @@
 	url = https://github.com/conda-forge/duplicity-feedstock.git
 	path = feedstocks/duplicity
 	branch = refs/heads/master
+[submodule "phasepy"]
+	url = https://github.com/conda-forge/phasepy-feedstock.git
+	path = feedstocks/phasepy
+	branch = refs/heads/master
