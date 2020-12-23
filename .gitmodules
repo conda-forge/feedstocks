@@ -45810,3 +45810,7 @@
 	url = https://github.com/conda-forge/clustergram-feedstock.git
 	path = feedstocks/clustergram
 	branch = refs/heads/master
+[submodule "hnswlib"]
+	url = https://github.com/conda-forge/hnswlib-feedstock.git
+	path = feedstocks/hnswlib
+	branch = refs/heads/master
