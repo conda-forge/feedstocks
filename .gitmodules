@@ -45822,3 +45822,7 @@
 	url = https://github.com/conda-forge/pylook-feedstock.git
 	path = feedstocks/pylook
 	branch = refs/heads/master
+[submodule "pancritic"]
+	url = https://github.com/conda-forge/pancritic-feedstock.git
+	path = feedstocks/pancritic
+	branch = refs/heads/master
