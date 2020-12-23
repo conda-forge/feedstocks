@@ -45802,3 +45802,7 @@
 	url = https://github.com/conda-forge/coolname-feedstock.git
 	path = feedstocks/coolname
 	branch = refs/heads/master
+[submodule "pytest-server-fixtures"]
+	url = https://github.com/conda-forge/pytest-server-fixtures-feedstock.git
+	path = feedstocks/pytest-server-fixtures
+	branch = refs/heads/master
