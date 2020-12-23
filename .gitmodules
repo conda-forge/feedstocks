@@ -45790,3 +45790,7 @@
 	url = https://github.com/conda-forge/hexalattice-feedstock.git
 	path = feedstocks/hexalattice
 	branch = refs/heads/master
+[submodule "provstore-api"]
+	url = https://github.com/conda-forge/provstore-api-feedstock.git
+	path = feedstocks/provstore-api
+	branch = refs/heads/master
