@@ -45842,3 +45842,7 @@
 	url = https://github.com/conda-forge/deeppurpose-feedstock.git
 	path = feedstocks/deeppurpose
 	branch = refs/heads/master
+[submodule "pdb2pqr"]
+	url = https://github.com/conda-forge/pdb2pqr-feedstock.git
+	path = feedstocks/pdb2pqr
+	branch = refs/heads/master
