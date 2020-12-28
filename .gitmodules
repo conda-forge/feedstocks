@@ -45850,3 +45850,7 @@
 	url = https://github.com/conda-forge/piecash-feedstock.git
 	path = feedstocks/piecash
 	branch = refs/heads/master
+[submodule "scraps"]
+	url = https://github.com/conda-forge/scraps-feedstock.git
+	path = feedstocks/scraps
+	branch = refs/heads/master
