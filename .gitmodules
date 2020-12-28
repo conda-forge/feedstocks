@@ -45854,3 +45854,7 @@
 	url = https://github.com/conda-forge/scraps-feedstock.git
 	path = feedstocks/scraps
 	branch = refs/heads/master
+[submodule "jupyter-wxyz"]
+	url = https://github.com/conda-forge/jupyter-wxyz-feedstock.git
+	path = feedstocks/jupyter-wxyz
+	branch = refs/heads/master
