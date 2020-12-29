@@ -45862,3 +45862,7 @@
 	url = https://github.com/conda-forge/allure-python-commons-feedstock.git
 	path = feedstocks/allure-python-commons
 	branch = refs/heads/master
+[submodule "guietta"]
+	url = https://github.com/conda-forge/guietta-feedstock.git
+	path = feedstocks/guietta
+	branch = refs/heads/master
