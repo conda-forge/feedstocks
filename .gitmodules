@@ -45874,3 +45874,7 @@
 	url = https://github.com/conda-forge/nikola-feedstock.git
 	path = feedstocks/nikola
 	branch = refs/heads/master
+[submodule "sqlalchemy-turbodbc"]
+	url = https://github.com/conda-forge/sqlalchemy-turbodbc-feedstock.git
+	path = feedstocks/sqlalchemy-turbodbc
+	branch = refs/heads/master
