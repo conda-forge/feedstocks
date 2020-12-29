@@ -45882,3 +45882,7 @@
 	url = https://github.com/conda-forge/checklist-feedstock.git
 	path = feedstocks/checklist
 	branch = refs/heads/master
+[submodule "iso-639"]
+	url = https://github.com/conda-forge/iso-639-feedstock.git
+	path = feedstocks/iso-639
+	branch = refs/heads/master
