@@ -45878,3 +45878,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-turbodbc-feedstock.git
 	path = feedstocks/sqlalchemy-turbodbc
 	branch = refs/heads/master
+[submodule "checklist"]
+	url = https://github.com/conda-forge/checklist-feedstock.git
+	path = feedstocks/checklist
+	branch = refs/heads/master
