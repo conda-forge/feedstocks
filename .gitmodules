@@ -45870,3 +45870,7 @@
 	url = https://github.com/conda-forge/pyrss2gen-feedstock.git
 	path = feedstocks/pyrss2gen
 	branch = refs/heads/master
+[submodule "nikola"]
+	url = https://github.com/conda-forge/nikola-feedstock.git
+	path = feedstocks/nikola
+	branch = refs/heads/master
