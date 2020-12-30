@@ -45886,3 +45886,7 @@
 	url = https://github.com/conda-forge/iso-639-feedstock.git
 	path = feedstocks/iso-639
 	branch = refs/heads/master
+[submodule "miniforge_console_shortcut"]
+	url = https://github.com/conda-forge/miniforge_console_shortcut-feedstock.git
+	path = feedstocks/miniforge_console_shortcut
+	branch = refs/heads/master
