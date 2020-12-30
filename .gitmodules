@@ -45890,3 +45890,7 @@
 	url = https://github.com/conda-forge/miniforge_console_shortcut-feedstock.git
 	path = feedstocks/miniforge_console_shortcut
 	branch = refs/heads/master
+[submodule "matscholar"]
+	url = https://github.com/conda-forge/matscholar-feedstock.git
+	path = feedstocks/matscholar
+	branch = refs/heads/master
