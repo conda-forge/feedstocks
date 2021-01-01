@@ -45910,3 +45910,7 @@
 	url = https://github.com/conda-forge/compas_mobile_robot_reloc-feedstock.git
 	path = feedstocks/compas_mobile_robot_reloc
 	branch = refs/heads/master
+[submodule "unsync"]
+	url = https://github.com/conda-forge/unsync-feedstock.git
+	path = feedstocks/unsync
+	branch = refs/heads/master
