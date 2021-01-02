@@ -45926,3 +45926,7 @@
 	url = https://github.com/conda-forge/r-tidytable-feedstock.git
 	path = feedstocks/r-tidytable
 	branch = refs/heads/master
+[submodule "r-mlpack"]
+	url = https://github.com/conda-forge/r-mlpack-feedstock.git
+	path = feedstocks/r-mlpack
+	branch = refs/heads/master
