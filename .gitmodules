@@ -45922,3 +45922,7 @@
 	url = https://github.com/conda-forge/cartotools-feedstock.git
 	path = feedstocks/cartotools
 	branch = refs/heads/master
+[submodule "r-tidytable"]
+	url = https://github.com/conda-forge/r-tidytable-feedstock.git
+	path = feedstocks/r-tidytable
+	branch = refs/heads/master
