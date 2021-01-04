@@ -45954,3 +45954,7 @@
 	url = https://github.com/conda-forge/jedi-language-server-feedstock.git
 	path = feedstocks/jedi-language-server
 	branch = refs/heads/master
+[submodule "r-rgen"]
+	url = https://github.com/conda-forge/r-rgen-feedstock.git
+	path = feedstocks/r-rgen
+	branch = refs/heads/master
