@@ -45978,3 +45978,7 @@
 	url = https://github.com/conda-forge/pdfo-feedstock.git
 	path = feedstocks/pdfo
 	branch = refs/heads/master
+[submodule "stakesign"]
+	url = https://github.com/conda-forge/stakesign-feedstock.git
+	path = feedstocks/stakesign
+	branch = refs/heads/master
