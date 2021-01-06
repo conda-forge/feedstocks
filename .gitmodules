@@ -46010,3 +46010,7 @@
 	url = https://github.com/conda-forge/compass-interface-core-feedstock.git
 	path = feedstocks/compass-interface-core
 	branch = refs/heads/master
+[submodule "kosh"]
+	url = https://github.com/conda-forge/kosh-feedstock.git
+	path = feedstocks/kosh
+	branch = refs/heads/master
