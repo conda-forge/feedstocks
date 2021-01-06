@@ -46002,3 +46002,7 @@
 	url = https://github.com/conda-forge/r-wkb-feedstock.git
 	path = feedstocks/r-wkb
 	branch = refs/heads/master
+[submodule "vswhere"]
+	url = https://github.com/conda-forge/vswhere-feedstock.git
+	path = feedstocks/vswhere
+	branch = refs/heads/master
