@@ -46026,3 +46026,7 @@
 	url = https://github.com/conda-forge/sshuttle-feedstock.git
 	path = feedstocks/sshuttle
 	branch = refs/heads/master
+[submodule "dalex"]
+	url = https://github.com/conda-forge/dalex-feedstock.git
+	path = feedstocks/dalex
+	branch = refs/heads/master
