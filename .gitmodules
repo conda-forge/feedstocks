@@ -46014,3 +46014,7 @@
 	url = https://github.com/conda-forge/kosh-feedstock.git
 	path = feedstocks/kosh
 	branch = refs/heads/master
+[submodule "r-wellknown"]
+	url = https://github.com/conda-forge/r-wellknown-feedstock.git
+	path = feedstocks/r-wellknown
+	branch = refs/heads/master
