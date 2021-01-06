@@ -46022,3 +46022,7 @@
 	url = https://github.com/conda-forge/libosqp-feedstock.git
 	path = feedstocks/libosqp
 	branch = refs/heads/master
+[submodule "sshuttle"]
+	url = https://github.com/conda-forge/sshuttle-feedstock.git
+	path = feedstocks/sshuttle
+	branch = refs/heads/master
