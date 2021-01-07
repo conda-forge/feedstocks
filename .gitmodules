@@ -46034,3 +46034,7 @@
 	url = https://github.com/conda-forge/jupyterlab-classic-feedstock.git
 	path = feedstocks/jupyterlab-classic
 	branch = refs/heads/master
+[submodule "gklib"]
+	url = https://github.com/conda-forge/gklib-feedstock.git
+	path = feedstocks/gklib
+	branch = refs/heads/master
