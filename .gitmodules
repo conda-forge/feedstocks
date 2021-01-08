@@ -46054,3 +46054,7 @@
 	url = https://github.com/conda-forge/ocaml-zarith-feedstock.git
 	path = feedstocks/ocaml-zarith
 	branch = refs/heads/master
+[submodule "cppad"]
+	url = https://github.com/conda-forge/cppad-feedstock.git
+	path = feedstocks/cppad
+	branch = refs/heads/master
