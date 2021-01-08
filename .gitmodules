@@ -46046,3 +46046,7 @@
 	url = https://github.com/conda-forge/nnetsauce-feedstock.git
 	path = feedstocks/nnetsauce
 	branch = refs/heads/master
+[submodule "azure-storage-file-datalake"]
+	url = https://github.com/conda-forge/azure-storage-file-datalake-feedstock.git
+	path = feedstocks/azure-storage-file-datalake
+	branch = refs/heads/master
