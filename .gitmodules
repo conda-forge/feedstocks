@@ -46058,3 +46058,7 @@
 	url = https://github.com/conda-forge/cppad-feedstock.git
 	path = feedstocks/cppad
 	branch = refs/heads/master
+[submodule "djongo"]
+	url = https://github.com/conda-forge/djongo-feedstock.git
+	path = feedstocks/djongo
+	branch = refs/heads/master
