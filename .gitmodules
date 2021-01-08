@@ -46050,3 +46050,7 @@
 	url = https://github.com/conda-forge/azure-storage-file-datalake-feedstock.git
 	path = feedstocks/azure-storage-file-datalake
 	branch = refs/heads/master
+[submodule "ocaml-zarith"]
+	url = https://github.com/conda-forge/ocaml-zarith-feedstock.git
+	path = feedstocks/ocaml-zarith
+	branch = refs/heads/master
