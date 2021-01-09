@@ -46062,3 +46062,7 @@
 	url = https://github.com/conda-forge/djongo-feedstock.git
 	path = feedstocks/djongo
 	branch = refs/heads/master
+[submodule "git-filter-repo"]
+	url = https://github.com/conda-forge/git-filter-repo-feedstock.git
+	path = feedstocks/git-filter-repo
+	branch = refs/heads/master
