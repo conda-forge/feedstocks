@@ -46070,3 +46070,7 @@
 	url = https://github.com/conda-forge/discord.py-feedstock.git
 	path = feedstocks/discord.py
 	branch = refs/heads/master
+[submodule "sktime"]
+	url = https://github.com/conda-forge/sktime-feedstock.git
+	path = feedstocks/sktime
+	branch = refs/heads/master
