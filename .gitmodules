@@ -46086,3 +46086,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-contentui-feedstock.git
 	path = feedstocks/sphinxcontrib-contentui
 	branch = refs/heads/master
+[submodule "openap"]
+	url = https://github.com/conda-forge/openap-feedstock.git
+	path = feedstocks/openap
+	branch = refs/heads/master
