@@ -46102,3 +46102,7 @@
 	url = https://github.com/conda-forge/r-pathmodelfit-feedstock.git
 	path = feedstocks/r-pathmodelfit
 	branch = refs/heads/master
+[submodule "myhdl"]
+	url = https://github.com/conda-forge/myhdl-feedstock.git
+	path = feedstocks/myhdl
+	branch = refs/heads/master
