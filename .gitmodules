@@ -46094,3 +46094,7 @@
 	url = https://github.com/conda-forge/r-expss-feedstock.git
 	path = feedstocks/r-expss
 	branch = refs/heads/master
+[submodule "r-simcdm"]
+	url = https://github.com/conda-forge/r-simcdm-feedstock.git
+	path = feedstocks/r-simcdm
+	branch = refs/heads/master
