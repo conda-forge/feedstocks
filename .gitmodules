@@ -46082,3 +46082,7 @@
 	url = https://github.com/conda-forge/pygtc-feedstock.git
 	path = feedstocks/pygtc
 	branch = refs/heads/master
+[submodule "sphinxcontrib-contentui"]
+	url = https://github.com/conda-forge/sphinxcontrib-contentui-feedstock.git
+	path = feedstocks/sphinxcontrib-contentui
+	branch = refs/heads/master
