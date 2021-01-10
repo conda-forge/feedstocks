@@ -46078,3 +46078,7 @@
 	url = https://github.com/conda-forge/densmap-learn-feedstock.git
 	path = feedstocks/densmap-learn
 	branch = refs/heads/master
+[submodule "pygtc"]
+	url = https://github.com/conda-forge/pygtc-feedstock.git
+	path = feedstocks/pygtc
+	branch = refs/heads/master
