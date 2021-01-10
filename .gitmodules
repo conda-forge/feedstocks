@@ -46090,3 +46090,7 @@
 	url = https://github.com/conda-forge/openap-feedstock.git
 	path = feedstocks/openap
 	branch = refs/heads/master
+[submodule "r-expss"]
+	url = https://github.com/conda-forge/r-expss-feedstock.git
+	path = feedstocks/r-expss
+	branch = refs/heads/master
