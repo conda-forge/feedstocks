@@ -46106,3 +46106,7 @@
 	url = https://github.com/conda-forge/myhdl-feedstock.git
 	path = feedstocks/myhdl
 	branch = refs/heads/master
+[submodule "torchsde"]
+	url = https://github.com/conda-forge/torchsde-feedstock.git
+	path = feedstocks/torchsde
+	branch = refs/heads/master
