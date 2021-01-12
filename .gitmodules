@@ -46110,3 +46110,7 @@
 	url = https://github.com/conda-forge/torchsde-feedstock.git
 	path = feedstocks/torchsde
 	branch = refs/heads/master
+[submodule "geographiclib-cpp"]
+	url = https://github.com/conda-forge/geographiclib-cpp-feedstock.git
+	path = feedstocks/geographiclib-cpp
+	branch = refs/heads/master
