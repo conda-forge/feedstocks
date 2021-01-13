@@ -46150,3 +46150,7 @@
 	url = https://github.com/conda-forge/r-msos-feedstock.git
 	path = feedstocks/r-msos
 	branch = refs/heads/master
+[submodule "r-visualize"]
+	url = https://github.com/conda-forge/r-visualize-feedstock.git
+	path = feedstocks/r-visualize
+	branch = refs/heads/master
