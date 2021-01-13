@@ -46130,3 +46130,7 @@
 	url = https://github.com/conda-forge/r-jjb-feedstock.git
 	path = feedstocks/r-jjb
 	branch = refs/heads/master
+[submodule "r-errorist"]
+	url = https://github.com/conda-forge/r-errorist-feedstock.git
+	path = feedstocks/r-errorist
+	branch = refs/heads/master
