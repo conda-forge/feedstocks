@@ -46158,3 +46158,7 @@
 	url = https://github.com/conda-forge/r-errum-feedstock.git
 	path = feedstocks/r-errum
 	branch = refs/heads/master
+[submodule "pyre2"]
+	url = https://github.com/conda-forge/pyre2-feedstock.git
+	path = feedstocks/pyre2
+	branch = refs/heads/master
