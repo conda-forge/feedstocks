@@ -46162,3 +46162,7 @@
 	url = https://github.com/conda-forge/pyre2-feedstock.git
 	path = feedstocks/pyre2
 	branch = refs/heads/master
+[submodule "glcontext"]
+	url = https://github.com/conda-forge/glcontext-feedstock.git
+	path = feedstocks/glcontext
+	branch = refs/heads/master
