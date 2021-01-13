@@ -46138,3 +46138,7 @@
 	url = https://github.com/conda-forge/r-uiucthemes-feedstock.git
 	path = feedstocks/r-uiucthemes
 	branch = refs/heads/master
+[submodule "r-rrum"]
+	url = https://github.com/conda-forge/r-rrum-feedstock.git
+	path = feedstocks/r-rrum
+	branch = refs/heads/master
