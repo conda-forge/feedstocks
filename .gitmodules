@@ -46178,3 +46178,7 @@
 	url = https://github.com/conda-forge/smirnoff99frosst-feedstock.git
 	path = feedstocks/smirnoff99frosst
 	branch = refs/heads/master
+[submodule "alpha_vantage"]
+	url = https://github.com/conda-forge/alpha_vantage-feedstock.git
+	path = feedstocks/alpha_vantage
+	branch = refs/heads/master
