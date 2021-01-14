@@ -46174,3 +46174,7 @@
 	url = https://github.com/conda-forge/openff-forcefields-feedstock.git
 	path = feedstocks/openff-forcefields
 	branch = refs/heads/master
+[submodule "smirnoff99frosst"]
+	url = https://github.com/conda-forge/smirnoff99frosst-feedstock.git
+	path = feedstocks/smirnoff99frosst
+	branch = refs/heads/master
