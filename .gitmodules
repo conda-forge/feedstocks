@@ -46186,3 +46186,7 @@
 	url = https://github.com/conda-forge/castepxbin-feedstock.git
 	path = feedstocks/castepxbin
 	branch = refs/heads/master
+[submodule "sofia-2"]
+	url = https://github.com/conda-forge/sofia-2-feedstock.git
+	path = feedstocks/sofia-2
+	branch = refs/heads/master
