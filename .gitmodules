@@ -46194,3 +46194,7 @@
 	url = https://github.com/conda-forge/arn-feedstock.git
 	path = feedstocks/arn
 	branch = refs/heads/master
+[submodule "sidecar"]
+	url = https://github.com/conda-forge/sidecar-feedstock.git
+	path = feedstocks/sidecar
+	branch = refs/heads/master
