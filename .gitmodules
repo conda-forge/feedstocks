@@ -46222,3 +46222,7 @@
 	url = https://github.com/conda-forge/pytango-feedstock.git
 	path = feedstocks/pytango
 	branch = refs/heads/master
+[submodule "itango"]
+	url = https://github.com/conda-forge/itango-feedstock.git
+	path = feedstocks/itango
+	branch = refs/heads/master
