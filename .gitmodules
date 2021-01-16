@@ -46226,3 +46226,7 @@
 	url = https://github.com/conda-forge/itango-feedstock.git
 	path = feedstocks/itango
 	branch = refs/heads/master
+[submodule "tango-admin"]
+	url = https://github.com/conda-forge/tango-admin-feedstock.git
+	path = feedstocks/tango-admin
+	branch = refs/heads/master
