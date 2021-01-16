@@ -46218,3 +46218,7 @@
 	url = https://github.com/conda-forge/tango-test-feedstock.git
 	path = feedstocks/tango-test
 	branch = refs/heads/master
+[submodule "pytango"]
+	url = https://github.com/conda-forge/pytango-feedstock.git
+	path = feedstocks/pytango
+	branch = refs/heads/master
