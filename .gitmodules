@@ -46234,3 +46234,7 @@
 	url = https://github.com/conda-forge/xdsmjs-feedstock.git
 	path = feedstocks/xdsmjs
 	branch = refs/heads/master
+[submodule "sanic-cors"]
+	url = https://github.com/conda-forge/sanic-cors-feedstock.git
+	path = feedstocks/sanic-cors
+	branch = refs/heads/master
