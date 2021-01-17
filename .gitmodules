@@ -46242,3 +46242,7 @@
 	url = https://github.com/conda-forge/mpl_qt_viz-feedstock.git
 	path = feedstocks/mpl_qt_viz
 	branch = refs/heads/master
+[submodule "openff-toolkit"]
+	url = https://github.com/conda-forge/openff-toolkit-feedstock.git
+	path = feedstocks/openff-toolkit
+	branch = refs/heads/master
