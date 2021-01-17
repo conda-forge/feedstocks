@@ -46238,3 +46238,7 @@
 	url = https://github.com/conda-forge/sanic-cors-feedstock.git
 	path = feedstocks/sanic-cors
 	branch = refs/heads/master
+[submodule "mpl_qt_viz"]
+	url = https://github.com/conda-forge/mpl_qt_viz-feedstock.git
+	path = feedstocks/mpl_qt_viz
+	branch = refs/heads/master
