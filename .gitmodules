@@ -46258,3 +46258,7 @@
 	url = https://github.com/conda-forge/gistim-feedstock.git
 	path = feedstocks/gistim
 	branch = refs/heads/master
+[submodule "openmm-torch"]
+	url = https://github.com/conda-forge/openmm-torch-feedstock.git
+	path = feedstocks/openmm-torch
+	branch = refs/heads/master
