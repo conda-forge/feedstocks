@@ -46310,3 +46310,7 @@
 	url = https://github.com/conda-forge/matrixprofile-feedstock.git
 	path = feedstocks/matrixprofile
 	branch = refs/heads/master
+[submodule "intake-streamz"]
+	url = https://github.com/conda-forge/intake-streamz-feedstock.git
+	path = feedstocks/intake-streamz
+	branch = refs/heads/master
