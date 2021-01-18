@@ -46318,3 +46318,7 @@
 	url = https://github.com/conda-forge/fluidsim-core-feedstock.git
 	path = feedstocks/fluidsim-core
 	branch = refs/heads/master
+[submodule "yaqd-gage"]
+	url = https://github.com/conda-forge/yaqd-gage-feedstock.git
+	path = feedstocks/yaqd-gage
+	branch = refs/heads/master
