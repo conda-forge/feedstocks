@@ -46250,3 +46250,7 @@
 	url = https://github.com/conda-forge/pyrundeck-feedstock.git
 	path = feedstocks/pyrundeck
 	branch = refs/heads/master
+[submodule "vector-classes"]
+	url = https://github.com/conda-forge/vector-classes-feedstock.git
+	path = feedstocks/vector-classes
+	branch = refs/heads/master
