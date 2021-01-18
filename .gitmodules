@@ -46270,3 +46270,7 @@
 	url = https://github.com/conda-forge/curlify-feedstock.git
 	path = feedstocks/curlify
 	branch = refs/heads/master
+[submodule "jupyterlab-link-share"]
+	url = https://github.com/conda-forge/jupyterlab-link-share-feedstock.git
+	path = feedstocks/jupyterlab-link-share
+	branch = refs/heads/master
