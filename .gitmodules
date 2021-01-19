@@ -46330,3 +46330,7 @@
 	url = https://github.com/conda-forge/phpserialize-feedstock.git
 	path = feedstocks/phpserialize
 	branch = refs/heads/master
+[submodule "r-useful"]
+	url = https://github.com/conda-forge/r-useful-feedstock.git
+	path = feedstocks/r-useful
+	branch = refs/heads/master
