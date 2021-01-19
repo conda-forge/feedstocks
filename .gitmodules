@@ -46334,3 +46334,7 @@
 	url = https://github.com/conda-forge/r-useful-feedstock.git
 	path = feedstocks/r-useful
 	branch = refs/heads/master
+[submodule "r-see"]
+	url = https://github.com/conda-forge/r-see-feedstock.git
+	path = feedstocks/r-see
+	branch = refs/heads/master
