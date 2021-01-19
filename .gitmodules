@@ -46342,3 +46342,7 @@
 	url = https://github.com/conda-forge/json2parquet-feedstock.git
 	path = feedstocks/json2parquet
 	branch = refs/heads/master
+[submodule "gridmet_bmi"]
+	url = https://github.com/conda-forge/gridmet_bmi-feedstock.git
+	path = feedstocks/gridmet_bmi
+	branch = refs/heads/master
