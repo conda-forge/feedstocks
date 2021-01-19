@@ -46354,3 +46354,7 @@
 	url = https://github.com/conda-forge/pykakasi-feedstock.git
 	path = feedstocks/pykakasi
 	branch = refs/heads/master
+[submodule "klepto"]
+	url = https://github.com/conda-forge/klepto-feedstock.git
+	path = feedstocks/klepto
+	branch = refs/heads/master
