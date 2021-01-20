@@ -46382,3 +46382,7 @@
 	url = https://github.com/conda-forge/allennlp-models-feedstock.git
 	path = feedstocks/allennlp-models
 	branch = refs/heads/master
+[submodule "py-rouge"]
+	url = https://github.com/conda-forge/py-rouge-feedstock.git
+	path = feedstocks/py-rouge
+	branch = refs/heads/master
