@@ -46370,3 +46370,7 @@
 	url = https://github.com/conda-forge/impact-t-feedstock.git
 	path = feedstocks/impact-t
 	branch = refs/heads/master
+[submodule "allennlp-optuna"]
+	url = https://github.com/conda-forge/allennlp-optuna-feedstock.git
+	path = feedstocks/allennlp-optuna
+	branch = refs/heads/master
