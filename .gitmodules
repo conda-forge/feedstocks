@@ -46362,3 +46362,7 @@
 	url = https://github.com/conda-forge/pymol-open-source-feedstock.git
 	path = feedstocks/pymol-open-source
 	branch = refs/heads/master
+[submodule "ratelimit"]
+	url = https://github.com/conda-forge/ratelimit-feedstock.git
+	path = feedstocks/ratelimit
+	branch = refs/heads/master
