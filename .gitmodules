@@ -46378,3 +46378,7 @@
 	url = https://github.com/conda-forge/allennlp-semparse-feedstock.git
 	path = feedstocks/allennlp-semparse
 	branch = refs/heads/master
+[submodule "allennlp-models"]
+	url = https://github.com/conda-forge/allennlp-models-feedstock.git
+	path = feedstocks/allennlp-models
+	branch = refs/heads/master
