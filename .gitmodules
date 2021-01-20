@@ -46386,3 +46386,7 @@
 	url = https://github.com/conda-forge/py-rouge-feedstock.git
 	path = feedstocks/py-rouge
 	branch = refs/heads/master
+[submodule "rpaframework"]
+	url = https://github.com/conda-forge/rpaframework-feedstock.git
+	path = feedstocks/rpaframework
+	branch = refs/heads/master
