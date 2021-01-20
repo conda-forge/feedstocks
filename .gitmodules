@@ -46394,3 +46394,7 @@
 	url = https://github.com/conda-forge/pynput-robocorp-fork-feedstock.git
 	path = feedstocks/pynput-robocorp-fork
 	branch = refs/heads/master
+[submodule "baal"]
+	url = https://github.com/conda-forge/baal-feedstock.git
+	path = feedstocks/baal
+	branch = refs/heads/master
