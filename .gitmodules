@@ -46390,3 +46390,7 @@
 	url = https://github.com/conda-forge/rpaframework-feedstock.git
 	path = feedstocks/rpaframework
 	branch = refs/heads/master
+[submodule "pynput-robocorp-fork"]
+	url = https://github.com/conda-forge/pynput-robocorp-fork-feedstock.git
+	path = feedstocks/pynput-robocorp-fork
+	branch = refs/heads/master
