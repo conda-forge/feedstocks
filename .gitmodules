@@ -46410,3 +46410,7 @@
 	url = https://github.com/conda-forge/cryptoauthlib-feedstock.git
 	path = feedstocks/cryptoauthlib
 	branch = refs/heads/master
+[submodule "enrich"]
+	url = https://github.com/conda-forge/enrich-feedstock.git
+	path = feedstocks/enrich
+	branch = refs/heads/master
