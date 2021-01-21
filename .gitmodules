@@ -46414,3 +46414,7 @@
 	url = https://github.com/conda-forge/enrich-feedstock.git
 	path = feedstocks/enrich
 	branch = refs/heads/master
+[submodule "pdfplumber"]
+	url = https://github.com/conda-forge/pdfplumber-feedstock.git
+	path = feedstocks/pdfplumber
+	branch = refs/heads/master
