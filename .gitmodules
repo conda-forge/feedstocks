@@ -46422,3 +46422,7 @@
 	url = https://github.com/conda-forge/subprocess-tee-feedstock.git
 	path = feedstocks/subprocess-tee
 	branch = refs/heads/master
+[submodule "pytest-plus"]
+	url = https://github.com/conda-forge/pytest-plus-feedstock.git
+	path = feedstocks/pytest-plus
+	branch = refs/heads/master
