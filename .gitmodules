@@ -46418,3 +46418,7 @@
 	url = https://github.com/conda-forge/pdfplumber-feedstock.git
 	path = feedstocks/pdfplumber
 	branch = refs/heads/master
+[submodule "subprocess-tee"]
+	url = https://github.com/conda-forge/subprocess-tee-feedstock.git
+	path = feedstocks/subprocess-tee
+	branch = refs/heads/master
