@@ -46406,3 +46406,7 @@
 	url = https://github.com/conda-forge/cppe-feedstock.git
 	path = feedstocks/cppe
 	branch = refs/heads/master
+[submodule "cryptoauthlib"]
+	url = https://github.com/conda-forge/cryptoauthlib-feedstock.git
+	path = feedstocks/cryptoauthlib
+	branch = refs/heads/master
