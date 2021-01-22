@@ -46438,3 +46438,7 @@
 	url = https://github.com/conda-forge/nc2zarr-feedstock.git
 	path = feedstocks/nc2zarr
 	branch = refs/heads/master
+[submodule "codeguru_profiler_agent"]
+	url = https://github.com/conda-forge/codeguru_profiler_agent-feedstock.git
+	path = feedstocks/codeguru_profiler_agent
+	branch = refs/heads/master
