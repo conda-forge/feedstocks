@@ -46450,3 +46450,7 @@
 	url = https://github.com/conda-forge/r-edina-feedstock.git
 	path = feedstocks/r-edina
 	branch = refs/heads/master
+[submodule "r-bnstruct"]
+	url = https://github.com/conda-forge/r-bnstruct-feedstock.git
+	path = feedstocks/r-bnstruct
+	branch = refs/heads/master
