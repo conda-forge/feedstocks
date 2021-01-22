@@ -46502,3 +46502,7 @@
 	url = https://github.com/conda-forge/goodtables-pandas-py-feedstock.git
 	path = feedstocks/goodtables-pandas-py
 	branch = refs/heads/master
+[submodule "clean-text"]
+	url = https://github.com/conda-forge/clean-text-feedstock.git
+	path = feedstocks/clean-text
+	branch = refs/heads/master
