@@ -46498,3 +46498,7 @@
 	url = https://github.com/conda-forge/tigernet-feedstock.git
 	path = feedstocks/tigernet
 	branch = refs/heads/master
+[submodule "goodtables-pandas-py"]
+	url = https://github.com/conda-forge/goodtables-pandas-py-feedstock.git
+	path = feedstocks/goodtables-pandas-py
+	branch = refs/heads/master
