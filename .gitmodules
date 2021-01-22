@@ -46462,3 +46462,7 @@
 	url = https://github.com/conda-forge/fishersapi-feedstock.git
 	path = feedstocks/fishersapi
 	branch = refs/heads/master
+[submodule "pytest-helpers-namespace"]
+	url = https://github.com/conda-forge/pytest-helpers-namespace-feedstock.git
+	path = feedstocks/pytest-helpers-namespace
+	branch = refs/heads/master
