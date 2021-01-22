@@ -46458,3 +46458,7 @@
 	url = https://github.com/conda-forge/gf-kernel-feedstock.git
 	path = feedstocks/gf-kernel
 	branch = refs/heads/master
+[submodule "fishersapi"]
+	url = https://github.com/conda-forge/fishersapi-feedstock.git
+	path = feedstocks/fishersapi
+	branch = refs/heads/master
