@@ -46490,3 +46490,7 @@
 	url = https://github.com/conda-forge/asyncinit-feedstock.git
 	path = feedstocks/asyncinit
 	branch = refs/heads/master
+[submodule "jupyterlab_execute_time"]
+	url = https://github.com/conda-forge/jupyterlab_execute_time-feedstock.git
+	path = feedstocks/jupyterlab_execute_time
+	branch = refs/heads/master
