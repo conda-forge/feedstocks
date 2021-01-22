@@ -46478,3 +46478,7 @@
 	url = https://github.com/conda-forge/pytest-testinfra-feedstock.git
 	path = feedstocks/pytest-testinfra
 	branch = refs/heads/master
+[submodule "pytest-verbose-parametrize"]
+	url = https://github.com/conda-forge/pytest-verbose-parametrize-feedstock.git
+	path = feedstocks/pytest-verbose-parametrize
+	branch = refs/heads/master
