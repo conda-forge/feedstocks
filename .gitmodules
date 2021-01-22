@@ -46482,3 +46482,7 @@
 	url = https://github.com/conda-forge/pytest-verbose-parametrize-feedstock.git
 	path = feedstocks/pytest-verbose-parametrize
 	branch = refs/heads/master
+[submodule "loprop"]
+	url = https://github.com/conda-forge/loprop-feedstock.git
+	path = feedstocks/loprop
+	branch = refs/heads/master
