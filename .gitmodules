@@ -46486,3 +46486,7 @@
 	url = https://github.com/conda-forge/loprop-feedstock.git
 	path = feedstocks/loprop
 	branch = refs/heads/master
+[submodule "asyncinit"]
+	url = https://github.com/conda-forge/asyncinit-feedstock.git
+	path = feedstocks/asyncinit
+	branch = refs/heads/master
