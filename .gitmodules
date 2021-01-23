@@ -46518,3 +46518,7 @@
 	url = https://github.com/conda-forge/python-logging-rabbitmq-feedstock.git
 	path = feedstocks/python-logging-rabbitmq
 	branch = refs/heads/master
+[submodule "cppbktree"]
+	url = https://github.com/conda-forge/cppbktree-feedstock.git
+	path = feedstocks/cppbktree
+	branch = refs/heads/master
