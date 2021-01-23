@@ -46522,3 +46522,7 @@
 	url = https://github.com/conda-forge/cppbktree-feedstock.git
 	path = feedstocks/cppbktree
 	branch = refs/heads/master
+[submodule "hepstats"]
+	url = https://github.com/conda-forge/hepstats-feedstock.git
+	path = feedstocks/hepstats
+	branch = refs/heads/master
