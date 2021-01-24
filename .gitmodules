@@ -46534,3 +46534,7 @@
 	url = https://github.com/conda-forge/backrefs-feedstock.git
 	path = feedstocks/backrefs
 	branch = refs/heads/master
+[submodule "wcmatch"]
+	url = https://github.com/conda-forge/wcmatch-feedstock.git
+	path = feedstocks/wcmatch
+	branch = refs/heads/master
