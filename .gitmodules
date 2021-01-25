@@ -46550,3 +46550,7 @@
 	url = https://github.com/conda-forge/google-cloud-secret-manager-feedstock.git
 	path = feedstocks/google-cloud-secret-manager
 	branch = refs/heads/master
+[submodule "zoxide"]
+	url = https://github.com/conda-forge/zoxide-feedstock.git
+	path = feedstocks/zoxide
+	branch = refs/heads/master
