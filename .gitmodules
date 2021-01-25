@@ -46554,3 +46554,7 @@
 	url = https://github.com/conda-forge/zoxide-feedstock.git
 	path = feedstocks/zoxide
 	branch = refs/heads/master
+[submodule "xeus-sql"]
+	url = https://github.com/conda-forge/xeus-sql-feedstock.git
+	path = feedstocks/xeus-sql
+	branch = refs/heads/master
