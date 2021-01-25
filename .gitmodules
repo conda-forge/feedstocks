@@ -46562,3 +46562,7 @@
 	url = https://github.com/conda-forge/psrchive-feedstock.git
 	path = feedstocks/psrchive
 	branch = refs/heads/master
+[submodule "cutensor"]
+	url = https://github.com/conda-forge/cutensor-feedstock.git
+	path = feedstocks/cutensor
+	branch = refs/heads/master
