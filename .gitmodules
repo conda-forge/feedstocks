@@ -46546,3 +46546,7 @@
 	url = https://github.com/conda-forge/openmm-plumed-feedstock.git
 	path = feedstocks/openmm-plumed
 	branch = refs/heads/master
+[submodule "google-cloud-secret-manager"]
+	url = https://github.com/conda-forge/google-cloud-secret-manager-feedstock.git
+	path = feedstocks/google-cloud-secret-manager
+	branch = refs/heads/master
