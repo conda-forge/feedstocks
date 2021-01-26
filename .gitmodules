@@ -46614,3 +46614,7 @@
 	url = https://github.com/conda-forge/sanic-httpauth-feedstock.git
 	path = feedstocks/sanic-httpauth
 	branch = refs/heads/master
+[submodule "awscliv2"]
+	url = https://github.com/conda-forge/awscliv2-feedstock.git
+	path = feedstocks/awscliv2
+	branch = refs/heads/master
