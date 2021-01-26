@@ -46586,3 +46586,7 @@
 	url = https://github.com/conda-forge/yank-feedstock.git
 	path = feedstocks/yank
 	branch = refs/heads/master
+[submodule "openmmtools"]
+	url = https://github.com/conda-forge/openmmtools-feedstock.git
+	path = feedstocks/openmmtools
+	branch = refs/heads/master
