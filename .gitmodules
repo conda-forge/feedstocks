@@ -46602,3 +46602,7 @@
 	url = https://github.com/conda-forge/gzip-feedstock.git
 	path = feedstocks/gzip
 	branch = refs/heads/master
+[submodule "stanza"]
+	url = https://github.com/conda-forge/stanza-feedstock.git
+	path = feedstocks/stanza
+	branch = refs/heads/master
