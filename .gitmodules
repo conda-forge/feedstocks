@@ -46594,3 +46594,7 @@
 	url = https://github.com/conda-forge/clusterutils-feedstock.git
 	path = feedstocks/clusterutils
 	branch = refs/heads/master
+[submodule "openmoltools"]
+	url = https://github.com/conda-forge/openmoltools-feedstock.git
+	path = feedstocks/openmoltools
+	branch = refs/heads/master
