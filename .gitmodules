@@ -46622,3 +46622,7 @@
 	url = https://github.com/conda-forge/caper-feedstock.git
 	path = feedstocks/caper
 	branch = refs/heads/master
+[submodule "bibmanager"]
+	url = https://github.com/conda-forge/bibmanager-feedstock.git
+	path = feedstocks/bibmanager
+	branch = refs/heads/master
