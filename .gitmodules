@@ -46574,3 +46574,7 @@
 	url = https://github.com/conda-forge/homebrew-pypi-poet-feedstock.git
 	path = feedstocks/homebrew-pypi-poet
 	branch = refs/heads/master
+[submodule "r-bslib"]
+	url = https://github.com/conda-forge/r-bslib-feedstock.git
+	path = feedstocks/r-bslib
+	branch = refs/heads/master
