@@ -46626,3 +46626,7 @@
 	url = https://github.com/conda-forge/bibmanager-feedstock.git
 	path = feedstocks/bibmanager
 	branch = refs/heads/master
+[submodule "fortran-binary"]
+	url = https://github.com/conda-forge/fortran-binary-feedstock.git
+	path = feedstocks/fortran-binary
+	branch = refs/heads/master
