@@ -46590,3 +46590,7 @@
 	url = https://github.com/conda-forge/openmmtools-feedstock.git
 	path = feedstocks/openmmtools
 	branch = refs/heads/master
+[submodule "clusterutils"]
+	url = https://github.com/conda-forge/clusterutils-feedstock.git
+	path = feedstocks/clusterutils
+	branch = refs/heads/master
