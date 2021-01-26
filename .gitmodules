@@ -46630,3 +46630,7 @@
 	url = https://github.com/conda-forge/fortran-binary-feedstock.git
 	path = feedstocks/fortran-binary
 	branch = refs/heads/master
+[submodule "taurus"]
+	url = https://github.com/conda-forge/taurus-feedstock.git
+	path = feedstocks/taurus
+	branch = refs/heads/master
