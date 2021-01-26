@@ -46634,3 +46634,7 @@
 	url = https://github.com/conda-forge/taurus-feedstock.git
 	path = feedstocks/taurus
 	branch = refs/heads/master
+[submodule "yaspin"]
+	url = https://github.com/conda-forge/yaspin-feedstock.git
+	path = feedstocks/yaspin
+	branch = refs/heads/master
