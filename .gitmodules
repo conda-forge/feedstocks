@@ -46582,3 +46582,7 @@
 	url = https://github.com/conda-forge/r-cachem-feedstock.git
 	path = feedstocks/r-cachem
 	branch = refs/heads/master
+[submodule "yank"]
+	url = https://github.com/conda-forge/yank-feedstock.git
+	path = feedstocks/yank
+	branch = refs/heads/master
