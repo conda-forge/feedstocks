@@ -46650,3 +46650,7 @@
 	url = https://github.com/conda-forge/r-mlr3verse-feedstock.git
 	path = feedstocks/r-mlr3verse
 	branch = refs/heads/master
+[submodule "r-bbotk"]
+	url = https://github.com/conda-forge/r-bbotk-feedstock.git
+	path = feedstocks/r-bbotk
+	branch = refs/heads/master
