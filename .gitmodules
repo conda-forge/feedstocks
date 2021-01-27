@@ -46698,3 +46698,7 @@
 	url = https://github.com/conda-forge/pyquaternion-feedstock.git
 	path = feedstocks/pyquaternion
 	branch = refs/heads/master
+[submodule "daltools"]
+	url = https://github.com/conda-forge/daltools-feedstock.git
+	path = feedstocks/daltools
+	branch = refs/heads/master
