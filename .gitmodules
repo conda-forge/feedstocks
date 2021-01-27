@@ -46690,3 +46690,7 @@
 	url = https://github.com/conda-forge/r-mlr3tuning-feedstock.git
 	path = feedstocks/r-mlr3tuning
 	branch = refs/heads/master
+[submodule "jove"]
+	url = https://github.com/conda-forge/jove-feedstock.git
+	path = feedstocks/jove
+	branch = refs/heads/master
