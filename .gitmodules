@@ -46694,3 +46694,7 @@
 	url = https://github.com/conda-forge/jove-feedstock.git
 	path = feedstocks/jove
 	branch = refs/heads/master
+[submodule "pyquaternion"]
+	url = https://github.com/conda-forge/pyquaternion-feedstock.git
+	path = feedstocks/pyquaternion
+	branch = refs/heads/master
