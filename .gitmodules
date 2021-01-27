@@ -46662,3 +46662,7 @@
 	url = https://github.com/conda-forge/r-mlr3filters-feedstock.git
 	path = feedstocks/r-mlr3filters
 	branch = refs/heads/master
+[submodule "r-mlr3misc"]
+	url = https://github.com/conda-forge/r-mlr3misc-feedstock.git
+	path = feedstocks/r-mlr3misc
+	branch = refs/heads/master
