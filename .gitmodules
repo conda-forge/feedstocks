@@ -46702,3 +46702,7 @@
 	url = https://github.com/conda-forge/daltools-feedstock.git
 	path = feedstocks/daltools
 	branch = refs/heads/master
+[submodule "pandasgui"]
+	url = https://github.com/conda-forge/pandasgui-feedstock.git
+	path = feedstocks/pandasgui
+	branch = refs/heads/master
