@@ -46654,3 +46654,7 @@
 	url = https://github.com/conda-forge/r-bbotk-feedstock.git
 	path = feedstocks/r-bbotk
 	branch = refs/heads/master
+[submodule "r-mlr3pipelines"]
+	url = https://github.com/conda-forge/r-mlr3pipelines-feedstock.git
+	path = feedstocks/r-mlr3pipelines
+	branch = refs/heads/master
