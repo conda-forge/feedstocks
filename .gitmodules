@@ -46674,3 +46674,7 @@
 	url = https://github.com/conda-forge/r-mlr3learners-feedstock.git
 	path = feedstocks/r-mlr3learners
 	branch = refs/heads/master
+[submodule "r-mlr3"]
+	url = https://github.com/conda-forge/r-mlr3-feedstock.git
+	path = feedstocks/r-mlr3
+	branch = refs/heads/master
