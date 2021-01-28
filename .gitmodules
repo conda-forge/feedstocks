@@ -46714,3 +46714,7 @@
 	url = https://github.com/conda-forge/ligo-proxy-utils-feedstock.git
 	path = feedstocks/ligo-proxy-utils
 	branch = refs/heads/master
+[submodule "mecab-ko"]
+	url = https://github.com/conda-forge/mecab-ko-feedstock.git
+	path = feedstocks/mecab-ko
+	branch = refs/heads/master
