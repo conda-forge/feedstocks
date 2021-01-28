@@ -46710,3 +46710,7 @@
 	url = https://github.com/conda-forge/pyperunner-feedstock.git
 	path = feedstocks/pyperunner
 	branch = refs/heads/master
+[submodule "ligo-proxy-utils"]
+	url = https://github.com/conda-forge/ligo-proxy-utils-feedstock.git
+	path = feedstocks/ligo-proxy-utils
+	branch = refs/heads/master
