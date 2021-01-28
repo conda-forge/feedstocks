@@ -46722,3 +46722,7 @@
 	url = https://github.com/conda-forge/r-syncsa-feedstock.git
 	path = feedstocks/r-syncsa
 	branch = refs/heads/master
+[submodule "bioptim"]
+	url = https://github.com/conda-forge/bioptim-feedstock.git
+	path = feedstocks/bioptim
+	branch = refs/heads/master
