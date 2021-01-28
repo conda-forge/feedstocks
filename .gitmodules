@@ -46726,3 +46726,7 @@
 	url = https://github.com/conda-forge/bioptim-feedstock.git
 	path = feedstocks/bioptim
 	branch = refs/heads/master
+[submodule "ammolite"]
+	url = https://github.com/conda-forge/ammolite-feedstock.git
+	path = feedstocks/ammolite
+	branch = refs/heads/master
