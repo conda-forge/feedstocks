@@ -46730,3 +46730,7 @@
 	url = https://github.com/conda-forge/ammolite-feedstock.git
 	path = feedstocks/ammolite
 	branch = refs/heads/master
+[submodule "ecp-cookie-init"]
+	url = https://github.com/conda-forge/ecp-cookie-init-feedstock.git
+	path = feedstocks/ecp-cookie-init
+	branch = refs/heads/master
