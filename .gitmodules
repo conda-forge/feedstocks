@@ -46754,3 +46754,7 @@
 	url = https://github.com/conda-forge/r-distr6-feedstock.git
 	path = feedstocks/r-distr6
 	branch = refs/heads/master
+[submodule "r-mlr3proba"]
+	url = https://github.com/conda-forge/r-mlr3proba-feedstock.git
+	path = feedstocks/r-mlr3proba
+	branch = refs/heads/master
