@@ -46746,3 +46746,7 @@
 	url = https://github.com/conda-forge/r-r62s3-feedstock.git
 	path = feedstocks/r-r62s3
 	branch = refs/heads/master
+[submodule "r-mlr3cluster"]
+	url = https://github.com/conda-forge/r-mlr3cluster-feedstock.git
+	path = feedstocks/r-mlr3cluster
+	branch = refs/heads/master
