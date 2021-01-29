@@ -46750,3 +46750,7 @@
 	url = https://github.com/conda-forge/r-mlr3cluster-feedstock.git
 	path = feedstocks/r-mlr3cluster
 	branch = refs/heads/master
+[submodule "r-distr6"]
+	url = https://github.com/conda-forge/r-distr6-feedstock.git
+	path = feedstocks/r-distr6
+	branch = refs/heads/master
