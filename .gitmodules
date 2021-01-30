@@ -46798,3 +46798,7 @@
 	url = https://github.com/conda-forge/molecule-docker-feedstock.git
 	path = feedstocks/molecule-docker
 	branch = refs/heads/master
+[submodule "r-spatstat.sparse"]
+	url = https://github.com/conda-forge/r-spatstat.sparse-feedstock.git
+	path = feedstocks/r-spatstat.sparse
+	branch = refs/heads/master
