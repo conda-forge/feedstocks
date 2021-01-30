@@ -46842,3 +46842,7 @@
 	url = https://github.com/conda-forge/memo-feedstock.git
 	path = feedstocks/memo
 	branch = refs/heads/master
+[submodule "kml2geojson"]
+	url = https://github.com/conda-forge/kml2geojson-feedstock.git
+	path = feedstocks/kml2geojson
+	branch = refs/heads/master
