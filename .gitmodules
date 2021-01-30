@@ -46774,3 +46774,7 @@
 	url = https://github.com/conda-forge/mecab-ko-dic-feedstock.git
 	path = feedstocks/mecab-ko-dic
 	branch = refs/heads/master
+[submodule "parliament"]
+	url = https://github.com/conda-forge/parliament-feedstock.git
+	path = feedstocks/parliament
+	branch = refs/heads/master
