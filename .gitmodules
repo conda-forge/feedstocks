@@ -46830,3 +46830,7 @@
 	url = https://github.com/conda-forge/pathy-feedstock.git
 	path = feedstocks/pathy
 	branch = refs/heads/master
+[submodule "bdbag"]
+	url = https://github.com/conda-forge/bdbag-feedstock.git
+	path = feedstocks/bdbag
+	branch = refs/heads/master
