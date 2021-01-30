@@ -46822,3 +46822,7 @@
 	url = https://github.com/conda-forge/spacy-legacy-feedstock.git
 	path = feedstocks/spacy-legacy
 	branch = refs/heads/master
+[submodule "r-spatstat.geom"]
+	url = https://github.com/conda-forge/r-spatstat.geom-feedstock.git
+	path = feedstocks/r-spatstat.geom
+	branch = refs/heads/master
