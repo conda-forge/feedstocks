@@ -46782,3 +46782,7 @@
 	url = https://github.com/conda-forge/taurus_pyqtgraph-feedstock.git
 	path = feedstocks/taurus_pyqtgraph
 	branch = refs/heads/master
+[submodule "kfp-tekton"]
+	url = https://github.com/conda-forge/kfp-tekton-feedstock.git
+	path = feedstocks/kfp-tekton
+	branch = refs/heads/master
