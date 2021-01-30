@@ -46854,3 +46854,7 @@
 	url = https://github.com/conda-forge/liac-arff-feedstock.git
 	path = feedstocks/liac-arff
 	branch = refs/heads/master
+[submodule "nimfa"]
+	url = https://github.com/conda-forge/nimfa-feedstock.git
+	path = feedstocks/nimfa
+	branch = refs/heads/master
