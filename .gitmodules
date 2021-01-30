@@ -46794,3 +46794,7 @@
 	url = https://github.com/conda-forge/qasync-feedstock.git
 	path = feedstocks/qasync
 	branch = refs/heads/master
+[submodule "molecule-docker"]
+	url = https://github.com/conda-forge/molecule-docker-feedstock.git
+	path = feedstocks/molecule-docker
+	branch = refs/heads/master
