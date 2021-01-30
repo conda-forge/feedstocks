@@ -46818,3 +46818,7 @@
 	url = https://github.com/conda-forge/smina-feedstock.git
 	path = feedstocks/smina
 	branch = refs/heads/master
+[submodule "spacy-legacy"]
+	url = https://github.com/conda-forge/spacy-legacy-feedstock.git
+	path = feedstocks/spacy-legacy
+	branch = refs/heads/master
