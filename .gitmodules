@@ -46770,3 +46770,7 @@
 	url = https://github.com/conda-forge/mlir-feedstock.git
 	path = feedstocks/mlir
 	branch = refs/heads/master
+[submodule "mecab-ko-dic"]
+	url = https://github.com/conda-forge/mecab-ko-dic-feedstock.git
+	path = feedstocks/mecab-ko-dic
+	branch = refs/heads/master
