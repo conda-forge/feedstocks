@@ -46838,3 +46838,7 @@
 	url = https://github.com/conda-forge/molecule-inspec-feedstock.git
 	path = feedstocks/molecule-inspec
 	branch = refs/heads/master
+[submodule "memo"]
+	url = https://github.com/conda-forge/memo-feedstock.git
+	path = feedstocks/memo
+	branch = refs/heads/master
