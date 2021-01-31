@@ -46858,3 +46858,7 @@
 	url = https://github.com/conda-forge/nimfa-feedstock.git
 	path = feedstocks/nimfa
 	branch = refs/heads/master
+[submodule "pymt_gridmet"]
+	url = https://github.com/conda-forge/pymt_gridmet-feedstock.git
+	path = feedstocks/pymt_gridmet
+	branch = refs/heads/master
