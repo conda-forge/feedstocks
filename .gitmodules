@@ -46890,3 +46890,7 @@
 	url = https://github.com/conda-forge/fdasrsf-feedstock.git
 	path = feedstocks/fdasrsf
 	branch = refs/heads/master
+[submodule "releasecmd"]
+	url = https://github.com/conda-forge/releasecmd-feedstock.git
+	path = feedstocks/releasecmd
+	branch = refs/heads/master
