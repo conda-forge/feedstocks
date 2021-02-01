@@ -46866,3 +46866,7 @@
 	url = https://github.com/conda-forge/r-seuratobject-feedstock.git
 	path = feedstocks/r-seuratobject
 	branch = refs/heads/master
+[submodule "wasmer"]
+	url = https://github.com/conda-forge/wasmer-feedstock.git
+	path = feedstocks/wasmer
+	branch = refs/heads/master
