@@ -46878,3 +46878,7 @@
 	url = https://github.com/conda-forge/colorpedia-feedstock.git
 	path = feedstocks/colorpedia
 	branch = refs/heads/master
+[submodule "jupyter-videochat"]
+	url = https://github.com/conda-forge/jupyter-videochat-feedstock.git
+	path = feedstocks/jupyter-videochat
+	branch = refs/heads/master
