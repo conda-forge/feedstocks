@@ -46930,3 +46930,7 @@
 	url = https://github.com/conda-forge/stochastic-feedstock.git
 	path = feedstocks/stochastic
 	branch = refs/heads/master
+[submodule "ascii_magic"]
+	url = https://github.com/conda-forge/ascii_magic-feedstock.git
+	path = feedstocks/ascii_magic
+	branch = refs/heads/master
