@@ -46910,3 +46910,7 @@
 	url = https://github.com/conda-forge/epispot-feedstock.git
 	path = feedstocks/epispot
 	branch = refs/heads/master
+[submodule "intake-iris"]
+	url = https://github.com/conda-forge/intake-iris-feedstock.git
+	path = feedstocks/intake-iris
+	branch = refs/heads/master
