@@ -46922,3 +46922,7 @@
 	url = https://github.com/conda-forge/bpytop-feedstock.git
 	path = feedstocks/bpytop
 	branch = refs/heads/master
+[submodule "pygpcca"]
+	url = https://github.com/conda-forge/pygpcca-feedstock.git
+	path = feedstocks/pygpcca
+	branch = refs/heads/master
