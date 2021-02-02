@@ -46914,3 +46914,7 @@
 	url = https://github.com/conda-forge/intake-iris-feedstock.git
 	path = feedstocks/intake-iris
 	branch = refs/heads/master
+[submodule "prospect"]
+	url = https://github.com/conda-forge/prospect-feedstock.git
+	path = feedstocks/prospect
+	branch = refs/heads/master
