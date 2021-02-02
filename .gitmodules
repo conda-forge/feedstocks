@@ -46926,3 +46926,7 @@
 	url = https://github.com/conda-forge/pygpcca-feedstock.git
 	path = feedstocks/pygpcca
 	branch = refs/heads/master
+[submodule "stochastic"]
+	url = https://github.com/conda-forge/stochastic-feedstock.git
+	path = feedstocks/stochastic
+	branch = refs/heads/master
