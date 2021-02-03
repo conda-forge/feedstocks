@@ -46942,3 +46942,7 @@
 	url = https://github.com/conda-forge/numba-stats-feedstock.git
 	path = feedstocks/numba-stats
 	branch = refs/heads/master
+[submodule "simpy"]
+	url = https://github.com/conda-forge/simpy-feedstock.git
+	path = feedstocks/simpy
+	branch = refs/heads/master
