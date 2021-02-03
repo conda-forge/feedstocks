@@ -46950,3 +46950,7 @@
 	url = https://github.com/conda-forge/rio-color-feedstock.git
 	path = feedstocks/rio-color
 	branch = refs/heads/master
+[submodule "opentelemetry-propagator-b3"]
+	url = https://github.com/conda-forge/opentelemetry-propagator-b3-feedstock.git
+	path = feedstocks/opentelemetry-propagator-b3
+	branch = refs/heads/master
