@@ -46962,3 +46962,7 @@
 	url = https://github.com/conda-forge/whiteboxgui-feedstock.git
 	path = feedstocks/whiteboxgui
 	branch = refs/heads/master
+[submodule "pandas-stubs"]
+	url = https://github.com/conda-forge/pandas-stubs-feedstock.git
+	path = feedstocks/pandas-stubs
+	branch = refs/heads/master
