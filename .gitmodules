@@ -46994,3 +46994,7 @@
 	url = https://github.com/conda-forge/tomviz-feedstock.git
 	path = feedstocks/tomviz
 	branch = refs/heads/master
+[submodule "pyiron-experimental"]
+	url = https://github.com/conda-forge/pyiron-experimental-feedstock.git
+	path = feedstocks/pyiron-experimental
+	branch = refs/heads/master
