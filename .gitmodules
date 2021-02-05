@@ -46970,3 +46970,7 @@
 	url = https://github.com/conda-forge/docker-image-py-feedstock.git
 	path = feedstocks/docker-image-py
 	branch = refs/heads/master
+[submodule "hijri-converter"]
+	url = https://github.com/conda-forge/hijri-converter-feedstock.git
+	path = feedstocks/hijri-converter
+	branch = refs/heads/master
