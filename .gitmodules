@@ -46974,3 +46974,7 @@
 	url = https://github.com/conda-forge/hijri-converter-feedstock.git
 	path = feedstocks/hijri-converter
 	branch = refs/heads/master
+[submodule "mkdocs-click"]
+	url = https://github.com/conda-forge/mkdocs-click-feedstock.git
+	path = feedstocks/mkdocs-click
+	branch = refs/heads/master
