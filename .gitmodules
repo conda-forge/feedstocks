@@ -47002,3 +47002,7 @@
 	url = https://github.com/conda-forge/napari-console-feedstock.git
 	path = feedstocks/napari-console
 	branch = refs/heads/master
+[submodule "stackvana-core"]
+	url = https://github.com/conda-forge/stackvana-core-feedstock.git
+	path = feedstocks/stackvana-core
+	branch = refs/heads/master
