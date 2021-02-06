@@ -46998,3 +46998,7 @@
 	url = https://github.com/conda-forge/pyiron-experimental-feedstock.git
 	path = feedstocks/pyiron-experimental
 	branch = refs/heads/master
+[submodule "napari-console"]
+	url = https://github.com/conda-forge/napari-console-feedstock.git
+	path = feedstocks/napari-console
+	branch = refs/heads/master
