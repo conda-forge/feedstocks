@@ -47026,3 +47026,7 @@
 	url = https://github.com/conda-forge/make_arq-feedstock.git
 	path = feedstocks/make_arq
 	branch = refs/heads/master
+[submodule "pymove-osmnx"]
+	url = https://github.com/conda-forge/pymove-osmnx-feedstock.git
+	path = feedstocks/pymove-osmnx
+	branch = refs/heads/master
