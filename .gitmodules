@@ -47070,3 +47070,7 @@
 	url = https://github.com/conda-forge/openai-feedstock.git
 	path = feedstocks/openai
 	branch = refs/heads/master
+[submodule "ta"]
+	url = https://github.com/conda-forge/ta-feedstock.git
+	path = feedstocks/ta
+	branch = refs/heads/master
