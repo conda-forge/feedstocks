@@ -47046,3 +47046,7 @@
 	url = https://github.com/conda-forge/r-clustree-feedstock.git
 	path = feedstocks/r-clustree
 	branch = refs/heads/master
+[submodule "stackvana-afw"]
+	url = https://github.com/conda-forge/stackvana-afw-feedstock.git
+	path = feedstocks/stackvana-afw
+	branch = refs/heads/master
