@@ -47054,3 +47054,7 @@
 	url = https://github.com/conda-forge/mlip-feedstock.git
 	path = feedstocks/mlip
 	branch = refs/heads/master
+[submodule "irrlicht"]
+	url = https://github.com/conda-forge/irrlicht-feedstock.git
+	path = feedstocks/irrlicht
+	branch = refs/heads/master
