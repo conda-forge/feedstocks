@@ -47038,3 +47038,7 @@
 	url = https://github.com/conda-forge/librealsense-feedstock.git
 	path = feedstocks/librealsense
 	branch = refs/heads/master
+[submodule "scikit-hep"]
+	url = https://github.com/conda-forge/scikit-hep-feedstock.git
+	path = feedstocks/scikit-hep
+	branch = refs/heads/master
