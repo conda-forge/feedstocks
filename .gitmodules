@@ -47050,3 +47050,7 @@
 	url = https://github.com/conda-forge/stackvana-afw-feedstock.git
 	path = feedstocks/stackvana-afw
 	branch = refs/heads/master
+[submodule "mlip"]
+	url = https://github.com/conda-forge/mlip-feedstock.git
+	path = feedstocks/mlip
+	branch = refs/heads/master
