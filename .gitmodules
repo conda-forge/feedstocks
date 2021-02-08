@@ -47042,3 +47042,7 @@
 	url = https://github.com/conda-forge/scikit-hep-feedstock.git
 	path = feedstocks/scikit-hep
 	branch = refs/heads/master
+[submodule "r-clustree"]
+	url = https://github.com/conda-forge/r-clustree-feedstock.git
+	path = feedstocks/r-clustree
+	branch = refs/heads/master
