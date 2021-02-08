@@ -47034,3 +47034,7 @@
 	url = https://github.com/conda-forge/pshmem-feedstock.git
 	path = feedstocks/pshmem
 	branch = refs/heads/master
+[submodule "librealsense"]
+	url = https://github.com/conda-forge/librealsense-feedstock.git
+	path = feedstocks/librealsense
+	branch = refs/heads/master
