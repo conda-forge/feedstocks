@@ -47030,3 +47030,7 @@
 	url = https://github.com/conda-forge/pymove-osmnx-feedstock.git
 	path = feedstocks/pymove-osmnx
 	branch = refs/heads/master
+[submodule "pshmem"]
+	url = https://github.com/conda-forge/pshmem-feedstock.git
+	path = feedstocks/pshmem
+	branch = refs/heads/master
