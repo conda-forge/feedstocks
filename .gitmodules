@@ -47086,3 +47086,7 @@
 	url = https://github.com/conda-forge/rchitect-feedstock.git
 	path = feedstocks/rchitect
 	branch = refs/heads/master
+[submodule "compas_nurbs"]
+	url = https://github.com/conda-forge/compas_nurbs-feedstock.git
+	path = feedstocks/compas_nurbs
+	branch = refs/heads/master
