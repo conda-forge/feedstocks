@@ -47074,3 +47074,7 @@
 	url = https://github.com/conda-forge/ta-feedstock.git
 	path = feedstocks/ta
 	branch = refs/heads/master
+[submodule "mysql-connector-odbc"]
+	url = https://github.com/conda-forge/mysql-connector-odbc-feedstock.git
+	path = feedstocks/mysql-connector-odbc
+	branch = refs/heads/master
