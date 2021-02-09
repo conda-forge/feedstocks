@@ -47078,3 +47078,7 @@
 	url = https://github.com/conda-forge/mysql-connector-odbc-feedstock.git
 	path = feedstocks/mysql-connector-odbc
 	branch = refs/heads/master
+[submodule "openml"]
+	url = https://github.com/conda-forge/openml-feedstock.git
+	path = feedstocks/openml
+	branch = refs/heads/master
