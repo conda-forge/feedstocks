@@ -47090,3 +47090,7 @@
 	url = https://github.com/conda-forge/compas_nurbs-feedstock.git
 	path = feedstocks/compas_nurbs
 	branch = refs/heads/master
+[submodule "pynisher"]
+	url = https://github.com/conda-forge/pynisher-feedstock.git
+	path = feedstocks/pynisher
+	branch = refs/heads/master
