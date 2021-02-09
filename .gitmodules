@@ -47082,3 +47082,7 @@
 	url = https://github.com/conda-forge/openml-feedstock.git
 	path = feedstocks/openml
 	branch = refs/heads/master
+[submodule "rchitect"]
+	url = https://github.com/conda-forge/rchitect-feedstock.git
+	path = feedstocks/rchitect
+	branch = refs/heads/master
