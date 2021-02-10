@@ -47098,3 +47098,7 @@
 	url = https://github.com/conda-forge/formulaic-feedstock.git
 	path = feedstocks/formulaic
 	branch = refs/heads/master
+[submodule "lineedit"]
+	url = https://github.com/conda-forge/lineedit-feedstock.git
+	path = feedstocks/lineedit
+	branch = refs/heads/master
