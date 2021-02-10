@@ -47138,3 +47138,7 @@
 	url = https://github.com/conda-forge/pyscipopt-feedstock.git
 	path = feedstocks/pyscipopt
 	branch = refs/heads/master
+[submodule "scipoptsuite"]
+	url = https://github.com/conda-forge/scipoptsuite-feedstock.git
+	path = feedstocks/scipoptsuite
+	branch = refs/heads/master
