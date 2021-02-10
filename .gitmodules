@@ -47110,3 +47110,7 @@
 	url = https://github.com/conda-forge/nested-lookup-feedstock.git
 	path = feedstocks/nested-lookup
 	branch = refs/heads/master
+[submodule "openmmforcefields"]
+	url = https://github.com/conda-forge/openmmforcefields-feedstock.git
+	path = feedstocks/openmmforcefields
+	branch = refs/heads/master
