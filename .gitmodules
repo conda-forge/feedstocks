@@ -47102,3 +47102,7 @@
 	url = https://github.com/conda-forge/lineedit-feedstock.git
 	path = feedstocks/lineedit
 	branch = refs/heads/master
+[submodule "opentelemetry-exporter-google-cloud"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-google-cloud-feedstock.git
+	path = feedstocks/opentelemetry-exporter-google-cloud
+	branch = refs/heads/master
