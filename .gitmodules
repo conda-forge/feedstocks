@@ -47106,3 +47106,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-google-cloud-feedstock.git
 	path = feedstocks/opentelemetry-exporter-google-cloud
 	branch = refs/heads/master
+[submodule "nested-lookup"]
+	url = https://github.com/conda-forge/nested-lookup-feedstock.git
+	path = feedstocks/nested-lookup
+	branch = refs/heads/master
