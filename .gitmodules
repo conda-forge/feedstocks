@@ -47122,3 +47122,7 @@
 	url = https://github.com/conda-forge/radian-feedstock.git
 	path = feedstocks/radian
 	branch = refs/heads/master
+[submodule "pytest-order"]
+	url = https://github.com/conda-forge/pytest-order-feedstock.git
+	path = feedstocks/pytest-order
+	branch = refs/heads/master
