@@ -47134,3 +47134,7 @@
 	url = https://github.com/conda-forge/streamlit-folium-feedstock.git
 	path = feedstocks/streamlit-folium
 	branch = refs/heads/master
+[submodule "pyscipopt"]
+	url = https://github.com/conda-forge/pyscipopt-feedstock.git
+	path = feedstocks/pyscipopt
+	branch = refs/heads/master
