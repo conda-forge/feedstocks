@@ -47126,3 +47126,7 @@
 	url = https://github.com/conda-forge/pytest-order-feedstock.git
 	path = feedstocks/pytest-order
 	branch = refs/heads/master
+[submodule "stackvana"]
+	url = https://github.com/conda-forge/stackvana-feedstock.git
+	path = feedstocks/stackvana
+	branch = refs/heads/master
