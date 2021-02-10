@@ -47114,3 +47114,7 @@
 	url = https://github.com/conda-forge/openmmforcefields-feedstock.git
 	path = feedstocks/openmmforcefields
 	branch = refs/heads/master
+[submodule "perses"]
+	url = https://github.com/conda-forge/perses-feedstock.git
+	path = feedstocks/perses
+	branch = refs/heads/master
