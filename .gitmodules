@@ -47130,3 +47130,7 @@
 	url = https://github.com/conda-forge/stackvana-feedstock.git
 	path = feedstocks/stackvana
 	branch = refs/heads/master
+[submodule "streamlit-folium"]
+	url = https://github.com/conda-forge/streamlit-folium-feedstock.git
+	path = feedstocks/streamlit-folium
+	branch = refs/heads/master
