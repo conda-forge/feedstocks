@@ -47166,3 +47166,7 @@
 	url = https://github.com/conda-forge/mecab-feedstock.git
 	path = feedstocks/mecab
 	branch = refs/heads/master
+[submodule "unidic-lite"]
+	url = https://github.com/conda-forge/unidic-lite-feedstock.git
+	path = feedstocks/unidic-lite
+	branch = refs/heads/master
