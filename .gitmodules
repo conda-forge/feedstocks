@@ -47142,3 +47142,7 @@
 	url = https://github.com/conda-forge/scipoptsuite-feedstock.git
 	path = feedstocks/scipoptsuite
 	branch = refs/heads/master
+[submodule "reciprocalspaceship"]
+	url = https://github.com/conda-forge/reciprocalspaceship-feedstock.git
+	path = feedstocks/reciprocalspaceship
+	branch = refs/heads/master
