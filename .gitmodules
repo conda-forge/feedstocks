@@ -47150,3 +47150,7 @@
 	url = https://github.com/conda-forge/simple-dftd3-feedstock.git
 	path = feedstocks/simple-dftd3
 	branch = refs/heads/master
+[submodule "gcp-correction"]
+	url = https://github.com/conda-forge/gcp-correction-feedstock.git
+	path = feedstocks/gcp-correction
+	branch = refs/heads/master
