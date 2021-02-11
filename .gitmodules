@@ -47146,3 +47146,7 @@
 	url = https://github.com/conda-forge/reciprocalspaceship-feedstock.git
 	path = feedstocks/reciprocalspaceship
 	branch = refs/heads/master
+[submodule "simple-dftd3"]
+	url = https://github.com/conda-forge/simple-dftd3-feedstock.git
+	path = feedstocks/simple-dftd3
+	branch = refs/heads/master
