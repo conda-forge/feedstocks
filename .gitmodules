@@ -47154,3 +47154,7 @@
 	url = https://github.com/conda-forge/gcp-correction-feedstock.git
 	path = feedstocks/gcp-correction
 	branch = refs/heads/master
+[submodule "r-kfas"]
+	url = https://github.com/conda-forge/r-kfas-feedstock.git
+	path = feedstocks/r-kfas
+	branch = refs/heads/master
