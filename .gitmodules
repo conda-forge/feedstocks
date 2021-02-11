@@ -47162,3 +47162,7 @@
 	url = https://github.com/conda-forge/mecab-python3-feedstock.git
 	path = feedstocks/mecab-python3
 	branch = refs/heads/master
+[submodule "mecab"]
+	url = https://github.com/conda-forge/mecab-feedstock.git
+	path = feedstocks/mecab
+	branch = refs/heads/master
