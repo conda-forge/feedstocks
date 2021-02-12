@@ -47222,3 +47222,7 @@
 	url = https://github.com/conda-forge/pyads-feedstock.git
 	path = feedstocks/pyads
 	branch = refs/heads/master
+[submodule "lux-widget"]
+	url = https://github.com/conda-forge/lux-widget-feedstock.git
+	path = feedstocks/lux-widget
+	branch = refs/heads/master
