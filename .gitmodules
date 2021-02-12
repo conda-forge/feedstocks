@@ -47190,3 +47190,7 @@
 	url = https://github.com/conda-forge/polyleven-feedstock.git
 	path = feedstocks/polyleven
 	branch = refs/heads/master
+[submodule "r-mbsts"]
+	url = https://github.com/conda-forge/r-mbsts-feedstock.git
+	path = feedstocks/r-mbsts
+	branch = refs/heads/master
