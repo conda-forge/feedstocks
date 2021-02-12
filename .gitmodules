@@ -47170,3 +47170,7 @@
 	url = https://github.com/conda-forge/unidic-lite-feedstock.git
 	path = feedstocks/unidic-lite
 	branch = refs/heads/master
+[submodule "cm"]
+	url = https://github.com/conda-forge/cm-feedstock.git
+	path = feedstocks/cm
+	branch = refs/heads/master
