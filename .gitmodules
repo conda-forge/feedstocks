@@ -47214,3 +47214,7 @@
 	url = https://github.com/conda-forge/r-eddington-feedstock.git
 	path = feedstocks/r-eddington
 	branch = refs/heads/master
+[submodule "cramjam"]
+	url = https://github.com/conda-forge/cramjam-feedstock.git
+	path = feedstocks/cramjam
+	branch = refs/heads/master
