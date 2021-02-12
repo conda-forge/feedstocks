@@ -47206,3 +47206,7 @@
 	url = https://github.com/conda-forge/ads-async-feedstock.git
 	path = feedstocks/ads-async
 	branch = refs/heads/master
+[submodule "tzwhere"]
+	url = https://github.com/conda-forge/tzwhere-feedstock.git
+	path = feedstocks/tzwhere
+	branch = refs/heads/master
