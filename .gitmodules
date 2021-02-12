@@ -47238,3 +47238,7 @@
 	url = https://github.com/conda-forge/huggingface_hub-feedstock.git
 	path = feedstocks/huggingface_hub
 	branch = refs/heads/master
+[submodule "numpy-financial"]
+	url = https://github.com/conda-forge/numpy-financial-feedstock.git
+	path = feedstocks/numpy-financial
+	branch = refs/heads/master
