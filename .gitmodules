@@ -47218,3 +47218,7 @@
 	url = https://github.com/conda-forge/cramjam-feedstock.git
 	path = feedstocks/cramjam
 	branch = refs/heads/master
+[submodule "pyads"]
+	url = https://github.com/conda-forge/pyads-feedstock.git
+	path = feedstocks/pyads
+	branch = refs/heads/master
