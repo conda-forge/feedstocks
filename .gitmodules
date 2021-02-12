@@ -47178,3 +47178,7 @@
 	url = https://github.com/conda-forge/aiounittest-feedstock.git
 	path = feedstocks/aiounittest
 	branch = refs/heads/master
+[submodule "bagit-profile"]
+	url = https://github.com/conda-forge/bagit-profile-feedstock.git
+	path = feedstocks/bagit-profile
+	branch = refs/heads/master
