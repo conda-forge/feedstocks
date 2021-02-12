@@ -47194,3 +47194,7 @@
 	url = https://github.com/conda-forge/r-mbsts-feedstock.git
 	path = feedstocks/r-mbsts
 	branch = refs/heads/master
+[submodule "pep562"]
+	url = https://github.com/conda-forge/pep562-feedstock.git
+	path = feedstocks/pep562
+	branch = refs/heads/master
