@@ -47210,3 +47210,7 @@
 	url = https://github.com/conda-forge/tzwhere-feedstock.git
 	path = feedstocks/tzwhere
 	branch = refs/heads/master
+[submodule "r-eddington"]
+	url = https://github.com/conda-forge/r-eddington-feedstock.git
+	path = feedstocks/r-eddington
+	branch = refs/heads/master
