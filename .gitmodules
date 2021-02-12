@@ -47186,3 +47186,7 @@
 	url = https://github.com/conda-forge/csr-feedstock.git
 	path = feedstocks/csr
 	branch = refs/heads/master
+[submodule "polyleven"]
+	url = https://github.com/conda-forge/polyleven-feedstock.git
+	path = feedstocks/polyleven
+	branch = refs/heads/master
