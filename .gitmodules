@@ -47226,3 +47226,7 @@
 	url = https://github.com/conda-forge/lux-widget-feedstock.git
 	path = feedstocks/lux-widget
 	branch = refs/heads/master
+[submodule "jupyterlab-gt-coar-theme"]
+	url = https://github.com/conda-forge/jupyterlab-gt-coar-theme-feedstock.git
+	path = feedstocks/jupyterlab-gt-coar-theme
+	branch = refs/heads/master
