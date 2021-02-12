@@ -47234,3 +47234,7 @@
 	url = https://github.com/conda-forge/snakebite-py3-feedstock.git
 	path = feedstocks/snakebite-py3
 	branch = refs/heads/master
+[submodule "huggingface_hub"]
+	url = https://github.com/conda-forge/huggingface_hub-feedstock.git
+	path = feedstocks/huggingface_hub
+	branch = refs/heads/master
