@@ -47242,3 +47242,7 @@
 	url = https://github.com/conda-forge/numpy-financial-feedstock.git
 	path = feedstocks/numpy-financial
 	branch = refs/heads/master
+[submodule "aesara"]
+	url = https://github.com/conda-forge/aesara-feedstock.git
+	path = feedstocks/aesara
+	branch = refs/heads/master
