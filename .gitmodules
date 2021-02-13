@@ -47266,3 +47266,7 @@
 	url = https://github.com/conda-forge/clad-feedstock.git
 	path = feedstocks/clad
 	branch = refs/heads/master
+[submodule "ipytone"]
+	url = https://github.com/conda-forge/ipytone-feedstock.git
+	path = feedstocks/ipytone
+	branch = refs/heads/master
