@@ -47290,3 +47290,7 @@
 	url = https://github.com/conda-forge/desktop-app-feedstock.git
 	path = feedstocks/desktop-app
 	branch = refs/heads/master
+[submodule "ltd-conveyor"]
+	url = https://github.com/conda-forge/ltd-conveyor-feedstock.git
+	path = feedstocks/ltd-conveyor
+	branch = refs/heads/master
