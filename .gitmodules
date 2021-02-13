@@ -47250,3 +47250,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-ftp-feedstock.git
 	path = feedstocks/apache-airflow-providers-ftp
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-imap"]
+	url = https://github.com/conda-forge/apache-airflow-providers-imap-feedstock.git
+	path = feedstocks/apache-airflow-providers-imap
+	branch = refs/heads/master
