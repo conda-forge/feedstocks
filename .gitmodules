@@ -47306,3 +47306,7 @@
 	url = https://github.com/conda-forge/n2p2-feedstock.git
 	path = feedstocks/n2p2
 	branch = refs/heads/master
+[submodule "urlscan"]
+	url = https://github.com/conda-forge/urlscan-feedstock.git
+	path = feedstocks/urlscan
+	branch = refs/heads/master
