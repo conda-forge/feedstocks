@@ -47298,3 +47298,7 @@
 	url = https://github.com/conda-forge/r-terrainmeshr-feedstock.git
 	path = feedstocks/r-terrainmeshr
 	branch = refs/heads/master
+[submodule "erdantic"]
+	url = https://github.com/conda-forge/erdantic-feedstock.git
+	path = feedstocks/erdantic
+	branch = refs/heads/master
