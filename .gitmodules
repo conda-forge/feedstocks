@@ -47258,3 +47258,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-http-feedstock.git
 	path = feedstocks/apache-airflow-providers-http
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-sqlite"]
+	url = https://github.com/conda-forge/apache-airflow-providers-sqlite-feedstock.git
+	path = feedstocks/apache-airflow-providers-sqlite
+	branch = refs/heads/master
