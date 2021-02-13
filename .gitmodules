@@ -47286,3 +47286,7 @@
 	url = https://github.com/conda-forge/sphinxext-rediraffe-feedstock.git
 	path = feedstocks/sphinxext-rediraffe
 	branch = refs/heads/master
+[submodule "desktop-app"]
+	url = https://github.com/conda-forge/desktop-app-feedstock.git
+	path = feedstocks/desktop-app
+	branch = refs/heads/master
