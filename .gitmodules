@@ -47282,3 +47282,7 @@
 	url = https://github.com/conda-forge/pgsanity-feedstock.git
 	path = feedstocks/pgsanity
 	branch = refs/heads/master
+[submodule "sphinxext-rediraffe"]
+	url = https://github.com/conda-forge/sphinxext-rediraffe-feedstock.git
+	path = feedstocks/sphinxext-rediraffe
+	branch = refs/heads/master
