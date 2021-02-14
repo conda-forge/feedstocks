@@ -47310,3 +47310,7 @@
 	url = https://github.com/conda-forge/urlscan-feedstock.git
 	path = feedstocks/urlscan
 	branch = refs/heads/master
+[submodule "docstring-to-markdown"]
+	url = https://github.com/conda-forge/docstring-to-markdown-feedstock.git
+	path = feedstocks/docstring-to-markdown
+	branch = refs/heads/master
