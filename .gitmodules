@@ -47322,3 +47322,7 @@
 	url = https://github.com/conda-forge/heyoka.py-feedstock.git
 	path = feedstocks/heyoka.py
 	branch = refs/heads/master
+[submodule "jax-md"]
+	url = https://github.com/conda-forge/jax-md-feedstock.git
+	path = feedstocks/jax-md
+	branch = refs/heads/master
