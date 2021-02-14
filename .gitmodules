@@ -47326,3 +47326,7 @@
 	url = https://github.com/conda-forge/jax-md-feedstock.git
 	path = feedstocks/jax-md
 	branch = refs/heads/master
+[submodule "dm-haiku"]
+	url = https://github.com/conda-forge/dm-haiku-feedstock.git
+	path = feedstocks/dm-haiku
+	branch = refs/heads/master
