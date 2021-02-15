@@ -47354,3 +47354,7 @@
 	url = https://github.com/conda-forge/bazel_buildozer-feedstock.git
 	path = feedstocks/bazel_buildozer
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation
+	branch = refs/heads/master
