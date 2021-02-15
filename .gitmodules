@@ -47366,3 +47366,7 @@
 	url = https://github.com/conda-forge/r-rayimage-feedstock.git
 	path = feedstocks/r-rayimage
 	branch = refs/heads/master
+[submodule "getopt-win32"]
+	url = https://github.com/conda-forge/getopt-win32-feedstock.git
+	path = feedstocks/getopt-win32
+	branch = refs/heads/master
