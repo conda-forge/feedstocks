@@ -47358,3 +47358,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-aiohttp-client"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-aiohttp-client-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-aiohttp-client
+	branch = refs/heads/master
