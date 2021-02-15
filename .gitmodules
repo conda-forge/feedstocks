@@ -47338,3 +47338,7 @@
 	url = https://github.com/conda-forge/rxspencer-feedstock.git
 	path = feedstocks/rxspencer
 	branch = refs/heads/master
+[submodule "flake8-annotations"]
+	url = https://github.com/conda-forge/flake8-annotations-feedstock.git
+	path = feedstocks/flake8-annotations
+	branch = refs/heads/master
