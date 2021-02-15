@@ -47362,3 +47362,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-aiohttp-client-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-aiohttp-client
 	branch = refs/heads/master
+[submodule "r-rayimage"]
+	url = https://github.com/conda-forge/r-rayimage-feedstock.git
+	path = feedstocks/r-rayimage
+	branch = refs/heads/master
