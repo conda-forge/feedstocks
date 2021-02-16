@@ -47394,3 +47394,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-databricks-feedstock.git
 	path = feedstocks/apache-airflow-providers-databricks
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-openfaas"]
+	url = https://github.com/conda-forge/apache-airflow-providers-openfaas-feedstock.git
+	path = feedstocks/apache-airflow-providers-openfaas
+	branch = refs/heads/master
