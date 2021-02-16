@@ -47426,3 +47426,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-cassandra-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-cassandra
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-redis"]
+	url = https://github.com/conda-forge/apache-airflow-providers-redis-feedstock.git
+	path = feedstocks/apache-airflow-providers-redis
+	branch = refs/heads/master
