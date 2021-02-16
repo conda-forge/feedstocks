@@ -47474,3 +47474,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-hdfs-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-hdfs
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-apache-beam"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-beam-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-beam
+	branch = refs/heads/master
