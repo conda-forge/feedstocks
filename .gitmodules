@@ -47450,3 +47450,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-ssh-feedstock.git
 	path = feedstocks/apache-airflow-providers-ssh
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-jira"]
+	url = https://github.com/conda-forge/apache-airflow-providers-jira-feedstock.git
+	path = feedstocks/apache-airflow-providers-jira
+	branch = refs/heads/master
