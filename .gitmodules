@@ -47566,3 +47566,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-docker-feedstock.git
 	path = feedstocks/apache-airflow-providers-docker
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-amazon"]
+	url = https://github.com/conda-forge/apache-airflow-providers-amazon-feedstock.git
+	path = feedstocks/apache-airflow-providers-amazon
+	branch = refs/heads/master
