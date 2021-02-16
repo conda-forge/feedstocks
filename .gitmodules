@@ -47418,3 +47418,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-plexus-feedstock.git
 	path = feedstocks/apache-airflow-providers-plexus
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-apache-sqoop"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-sqoop-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-sqoop
+	branch = refs/heads/master
