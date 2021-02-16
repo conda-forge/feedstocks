@@ -47430,3 +47430,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-redis-feedstock.git
 	path = feedstocks/apache-airflow-providers-redis
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-grpc"]
+	url = https://github.com/conda-forge/apache-airflow-providers-grpc-feedstock.git
+	path = feedstocks/apache-airflow-providers-grpc
+	branch = refs/heads/master
