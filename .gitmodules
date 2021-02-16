@@ -47506,3 +47506,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-papermill-feedstock.git
 	path = feedstocks/apache-airflow-providers-papermill
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-telegram"]
+	url = https://github.com/conda-forge/apache-airflow-providers-telegram-feedstock.git
+	path = feedstocks/apache-airflow-providers-telegram
+	branch = refs/heads/master
