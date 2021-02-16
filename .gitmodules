@@ -47422,3 +47422,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-sqoop-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-sqoop
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-apache-cassandra"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-cassandra-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-cassandra
+	branch = refs/heads/master
