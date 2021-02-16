@@ -47550,3 +47550,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-cloudant-feedstock.git
 	path = feedstocks/apache-airflow-providers-cloudant
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-dingding"]
+	url = https://github.com/conda-forge/apache-airflow-providers-dingding-feedstock.git
+	path = feedstocks/apache-airflow-providers-dingding
+	branch = refs/heads/master
