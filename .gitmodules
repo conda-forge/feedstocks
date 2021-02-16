@@ -47526,3 +47526,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-hive-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-hive
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-snowflake"]
+	url = https://github.com/conda-forge/apache-airflow-providers-snowflake-feedstock.git
+	path = feedstocks/apache-airflow-providers-snowflake
+	branch = refs/heads/master
