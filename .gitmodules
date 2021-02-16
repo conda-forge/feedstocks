@@ -47382,3 +47382,7 @@
 	url = https://github.com/conda-forge/r-weightedcluster-feedstock.git
 	path = feedstocks/r-weightedcluster
 	branch = refs/heads/master
+[submodule "r-rayshader"]
+	url = https://github.com/conda-forge/r-rayshader-feedstock.git
+	path = feedstocks/r-rayshader
+	branch = refs/heads/master
