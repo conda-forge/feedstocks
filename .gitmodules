@@ -47438,3 +47438,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-mysql-feedstock.git
 	path = feedstocks/apache-airflow-providers-mysql
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-qubole"]
+	url = https://github.com/conda-forge/apache-airflow-providers-qubole-feedstock.git
+	path = feedstocks/apache-airflow-providers-qubole
+	branch = refs/heads/master
