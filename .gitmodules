@@ -47410,3 +47410,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-oracle-feedstock.git
 	path = feedstocks/apache-airflow-providers-oracle
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-apache-pig"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-pig-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-pig
+	branch = refs/heads/master
