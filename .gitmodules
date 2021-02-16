@@ -47522,3 +47522,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-exasol-feedstock.git
 	path = feedstocks/apache-airflow-providers-exasol
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-apache-hive"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-hive-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-hive
+	branch = refs/heads/master
