@@ -47442,3 +47442,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-qubole-feedstock.git
 	path = feedstocks/apache-airflow-providers-qubole
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-opsgenie"]
+	url = https://github.com/conda-forge/apache-airflow-providers-opsgenie-feedstock.git
+	path = feedstocks/apache-airflow-providers-opsgenie
+	branch = refs/heads/master
