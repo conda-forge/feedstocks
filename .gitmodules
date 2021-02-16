@@ -47414,3 +47414,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-pig-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-pig
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-plexus"]
+	url = https://github.com/conda-forge/apache-airflow-providers-plexus-feedstock.git
+	path = feedstocks/apache-airflow-providers-plexus
+	branch = refs/heads/master
