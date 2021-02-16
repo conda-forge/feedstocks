@@ -47574,3 +47574,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-datadog-feedstock.git
 	path = feedstocks/apache-airflow-providers-datadog
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-sendgrid"]
+	url = https://github.com/conda-forge/apache-airflow-providers-sendgrid-feedstock.git
+	path = feedstocks/apache-airflow-providers-sendgrid
+	branch = refs/heads/master
