@@ -47530,3 +47530,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-snowflake-feedstock.git
 	path = feedstocks/apache-airflow-providers-snowflake
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-samba"]
+	url = https://github.com/conda-forge/apache-airflow-providers-samba-feedstock.git
+	path = feedstocks/apache-airflow-providers-samba
+	branch = refs/heads/master
