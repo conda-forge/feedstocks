@@ -47482,3 +47482,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-singularity-feedstock.git
 	path = feedstocks/apache-airflow-providers-singularity
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-segment"]
+	url = https://github.com/conda-forge/apache-airflow-providers-segment-feedstock.git
+	path = feedstocks/apache-airflow-providers-segment
+	branch = refs/heads/master
