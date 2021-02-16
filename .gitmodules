@@ -47486,3 +47486,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-segment-feedstock.git
 	path = feedstocks/apache-airflow-providers-segment
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-microsoft-winrm"]
+	url = https://github.com/conda-forge/apache-airflow-providers-microsoft-winrm-feedstock.git
+	path = feedstocks/apache-airflow-providers-microsoft-winrm
+	branch = refs/heads/master
