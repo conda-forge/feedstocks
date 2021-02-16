@@ -47390,3 +47390,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-facebook-feedstock.git
 	path = feedstocks/apache-airflow-providers-facebook
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-databricks"]
+	url = https://github.com/conda-forge/apache-airflow-providers-databricks-feedstock.git
+	path = feedstocks/apache-airflow-providers-databricks
+	branch = refs/heads/master
