@@ -47386,3 +47386,7 @@
 	url = https://github.com/conda-forge/r-rayshader-feedstock.git
 	path = feedstocks/r-rayshader
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-facebook"]
+	url = https://github.com/conda-forge/apache-airflow-providers-facebook-feedstock.git
+	path = feedstocks/apache-airflow-providers-facebook
+	branch = refs/heads/master
