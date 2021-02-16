@@ -47466,3 +47466,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-vertica-feedstock.git
 	path = feedstocks/apache-airflow-providers-vertica
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-salesforce"]
+	url = https://github.com/conda-forge/apache-airflow-providers-salesforce-feedstock.git
+	path = feedstocks/apache-airflow-providers-salesforce
+	branch = refs/heads/master
