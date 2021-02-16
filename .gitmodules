@@ -47402,3 +47402,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-discord-feedstock.git
 	path = feedstocks/apache-airflow-providers-discord
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-apache-druid"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-druid-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-druid
+	branch = refs/heads/master
