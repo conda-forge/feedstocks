@@ -47370,3 +47370,7 @@
 	url = https://github.com/conda-forge/getopt-win32-feedstock.git
 	path = feedstocks/getopt-win32
 	branch = refs/heads/master
+[submodule "cobra"]
+	url = https://github.com/conda-forge/cobra-feedstock.git
+	path = feedstocks/cobra
+	branch = refs/heads/master
