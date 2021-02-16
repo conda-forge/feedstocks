@@ -47542,3 +47542,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-sftp-feedstock.git
 	path = feedstocks/apache-airflow-providers-sftp
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-celery"]
+	url = https://github.com/conda-forge/apache-airflow-providers-celery-feedstock.git
+	path = feedstocks/apache-airflow-providers-celery
+	branch = refs/heads/master
