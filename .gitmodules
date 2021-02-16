@@ -47458,3 +47458,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-hashicorp-feedstock.git
 	path = feedstocks/apache-airflow-providers-hashicorp
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-mongo"]
+	url = https://github.com/conda-forge/apache-airflow-providers-mongo-feedstock.git
+	path = feedstocks/apache-airflow-providers-mongo
+	branch = refs/heads/master
