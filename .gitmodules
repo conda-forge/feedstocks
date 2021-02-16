@@ -47554,3 +47554,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-dingding-feedstock.git
 	path = feedstocks/apache-airflow-providers-dingding
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-odbc"]
+	url = https://github.com/conda-forge/apache-airflow-providers-odbc-feedstock.git
+	path = feedstocks/apache-airflow-providers-odbc
+	branch = refs/heads/master
