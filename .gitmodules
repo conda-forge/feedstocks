@@ -47562,3 +47562,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-spark-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-spark
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-docker"]
+	url = https://github.com/conda-forge/apache-airflow-providers-docker-feedstock.git
+	path = feedstocks/apache-airflow-providers-docker
+	branch = refs/heads/master
