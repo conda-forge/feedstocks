@@ -47502,3 +47502,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-livy-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-livy
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-papermill"]
+	url = https://github.com/conda-forge/apache-airflow-providers-papermill-feedstock.git
+	path = feedstocks/apache-airflow-providers-papermill
+	branch = refs/heads/master
