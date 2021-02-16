@@ -47514,3 +47514,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-jdbc-feedstock.git
 	path = feedstocks/apache-airflow-providers-jdbc
 	branch = refs/heads/master
+[submodule "svg.path"]
+	url = https://github.com/conda-forge/svg.path-feedstock.git
+	path = feedstocks/svg.path
+	branch = refs/heads/master
