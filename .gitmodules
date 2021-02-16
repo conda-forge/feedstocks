@@ -47378,3 +47378,7 @@
 	url = https://github.com/conda-forge/r-coro-feedstock.git
 	path = feedstocks/r-coro
 	branch = refs/heads/master
+[submodule "r-weightedcluster"]
+	url = https://github.com/conda-forge/r-weightedcluster-feedstock.git
+	path = feedstocks/r-weightedcluster
+	branch = refs/heads/master
