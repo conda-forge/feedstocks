@@ -47490,3 +47490,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-microsoft-winrm-feedstock.git
 	path = feedstocks/apache-airflow-providers-microsoft-winrm
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-cncf-kubernetes"]
+	url = https://github.com/conda-forge/apache-airflow-providers-cncf-kubernetes-feedstock.git
+	path = feedstocks/apache-airflow-providers-cncf-kubernetes
+	branch = refs/heads/master
