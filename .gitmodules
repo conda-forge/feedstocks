@@ -47534,3 +47534,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-samba-feedstock.git
 	path = feedstocks/apache-airflow-providers-samba
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-microsoft-mssql"]
+	url = https://github.com/conda-forge/apache-airflow-providers-microsoft-mssql-feedstock.git
+	path = feedstocks/apache-airflow-providers-microsoft-mssql
+	branch = refs/heads/master
