@@ -47594,3 +47594,7 @@
 	url = https://github.com/conda-forge/memoization-feedstock.git
 	path = feedstocks/memoization
 	branch = refs/heads/master
+[submodule "jhub-client"]
+	url = https://github.com/conda-forge/jhub-client-feedstock.git
+	path = feedstocks/jhub-client
+	branch = refs/heads/master
