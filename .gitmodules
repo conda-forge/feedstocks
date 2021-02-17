@@ -47582,3 +47582,7 @@
 	url = https://github.com/conda-forge/text_extensions_for_pandas-feedstock.git
 	path = feedstocks/text_extensions_for_pandas
 	branch = refs/heads/master
+[submodule "django-pwa"]
+	url = https://github.com/conda-forge/django-pwa-feedstock.git
+	path = feedstocks/django-pwa
+	branch = refs/heads/master
