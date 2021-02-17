@@ -47590,3 +47590,7 @@
 	url = https://github.com/conda-forge/jupyter-book-feedstock.git
 	path = feedstocks/jupyter-book
 	branch = refs/heads/master
+[submodule "memoization"]
+	url = https://github.com/conda-forge/memoization-feedstock.git
+	path = feedstocks/memoization
+	branch = refs/heads/master
