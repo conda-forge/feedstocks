@@ -47666,3 +47666,7 @@
 	url = https://github.com/conda-forge/django-polymorphic-tree-feedstock.git
 	path = feedstocks/django-polymorphic-tree
 	branch = refs/heads/master
+[submodule "django-tag-parser"]
+	url = https://github.com/conda-forge/django-tag-parser-feedstock.git
+	path = feedstocks/django-tag-parser
+	branch = refs/heads/master
