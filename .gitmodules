@@ -47618,3 +47618,7 @@
 	url = https://github.com/conda-forge/vizlo-feedstock.git
 	path = feedstocks/vizlo
 	branch = refs/heads/master
+[submodule "jupyterlab-topbar"]
+	url = https://github.com/conda-forge/jupyterlab-topbar-feedstock.git
+	path = feedstocks/jupyterlab-topbar
+	branch = refs/heads/master
