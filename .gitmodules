@@ -47622,3 +47622,7 @@
 	url = https://github.com/conda-forge/jupyterlab-topbar-feedstock.git
 	path = feedstocks/jupyterlab-topbar
 	branch = refs/heads/master
+[submodule "jupyterlab-system-monitor"]
+	url = https://github.com/conda-forge/jupyterlab-system-monitor-feedstock.git
+	path = feedstocks/jupyterlab-system-monitor
+	branch = refs/heads/master
