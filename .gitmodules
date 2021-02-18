@@ -47654,3 +47654,7 @@
 	url = https://github.com/conda-forge/incqueryserver-jupyter-feedstock.git
 	path = feedstocks/incqueryserver-jupyter
 	branch = refs/heads/master
+[submodule "incqueryserver-api-python-client"]
+	url = https://github.com/conda-forge/incqueryserver-api-python-client-feedstock.git
+	path = feedstocks/incqueryserver-api-python-client
+	branch = refs/heads/master
