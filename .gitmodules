@@ -47638,3 +47638,7 @@
 	url = https://github.com/conda-forge/frilouz-feedstock.git
 	path = feedstocks/frilouz
 	branch = refs/heads/master
+[submodule "unicorn"]
+	url = https://github.com/conda-forge/unicorn-feedstock.git
+	path = feedstocks/unicorn
+	branch = refs/heads/master
