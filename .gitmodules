@@ -47606,3 +47606,7 @@
 	url = https://github.com/conda-forge/starz-feedstock.git
 	path = feedstocks/starz
 	branch = refs/heads/master
+[submodule "si-prefix"]
+	url = https://github.com/conda-forge/si-prefix-feedstock.git
+	path = feedstocks/si-prefix
+	branch = refs/heads/master
