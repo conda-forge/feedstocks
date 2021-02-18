@@ -47650,3 +47650,7 @@
 	url = https://github.com/conda-forge/ropgadget-feedstock.git
 	path = feedstocks/ropgadget
 	branch = refs/heads/master
+[submodule "incqueryserver-jupyter"]
+	url = https://github.com/conda-forge/incqueryserver-jupyter-feedstock.git
+	path = feedstocks/incqueryserver-jupyter
+	branch = refs/heads/master
