@@ -47662,3 +47662,7 @@
 	url = https://github.com/conda-forge/ww-feedstock.git
 	path = feedstocks/ww
 	branch = refs/heads/master
+[submodule "django-polymorphic-tree"]
+	url = https://github.com/conda-forge/django-polymorphic-tree-feedstock.git
+	path = feedstocks/django-polymorphic-tree
+	branch = refs/heads/master
