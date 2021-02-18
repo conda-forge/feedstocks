@@ -47642,3 +47642,7 @@
 	url = https://github.com/conda-forge/unicorn-feedstock.git
 	path = feedstocks/unicorn
 	branch = refs/heads/master
+[submodule "pwntools"]
+	url = https://github.com/conda-forge/pwntools-feedstock.git
+	path = feedstocks/pwntools
+	branch = refs/heads/master
