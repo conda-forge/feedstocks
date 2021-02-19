@@ -47674,3 +47674,7 @@
 	url = https://github.com/conda-forge/unpaper-feedstock.git
 	path = feedstocks/unpaper
 	branch = refs/heads/master
+[submodule "pyiron_gpl"]
+	url = https://github.com/conda-forge/pyiron_gpl-feedstock.git
+	path = feedstocks/pyiron_gpl
+	branch = refs/heads/master
