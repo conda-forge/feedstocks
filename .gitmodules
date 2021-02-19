@@ -47682,3 +47682,7 @@
 	url = https://github.com/conda-forge/axel-feedstock.git
 	path = feedstocks/axel
 	branch = refs/heads/master
+[submodule "dcm2bids"]
+	url = https://github.com/conda-forge/dcm2bids-feedstock.git
+	path = feedstocks/dcm2bids
+	branch = refs/heads/master
