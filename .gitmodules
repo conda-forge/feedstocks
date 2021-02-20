@@ -47686,3 +47686,7 @@
 	url = https://github.com/conda-forge/dcm2bids-feedstock.git
 	path = feedstocks/dcm2bids
 	branch = refs/heads/master
+[submodule "pyiron_continuum"]
+	url = https://github.com/conda-forge/pyiron_continuum-feedstock.git
+	path = feedstocks/pyiron_continuum
+	branch = refs/heads/master
