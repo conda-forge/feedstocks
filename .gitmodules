@@ -47690,3 +47690,7 @@
 	url = https://github.com/conda-forge/pyiron_continuum-feedstock.git
 	path = feedstocks/pyiron_continuum
 	branch = refs/heads/master
+[submodule "r-inspectdf"]
+	url = https://github.com/conda-forge/r-inspectdf-feedstock.git
+	path = feedstocks/r-inspectdf
+	branch = refs/heads/master
