@@ -47694,3 +47694,7 @@
 	url = https://github.com/conda-forge/r-inspectdf-feedstock.git
 	path = feedstocks/r-inspectdf
 	branch = refs/heads/master
+[submodule "matscipy"]
+	url = https://github.com/conda-forge/matscipy-feedstock.git
+	path = feedstocks/matscipy
+	branch = refs/heads/master
