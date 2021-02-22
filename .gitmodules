@@ -47722,3 +47722,7 @@
 	url = https://github.com/conda-forge/jaeger-browser-feedstock.git
 	path = feedstocks/jaeger-browser
 	branch = refs/heads/master
+[submodule "vyper"]
+	url = https://github.com/conda-forge/vyper-feedstock.git
+	path = feedstocks/vyper
+	branch = refs/heads/master
