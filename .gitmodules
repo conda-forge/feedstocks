@@ -47702,3 +47702,7 @@
 	url = https://github.com/conda-forge/r-rmsnumpress-feedstock.git
 	path = feedstocks/r-rmsnumpress
 	branch = refs/heads/master
+[submodule "stone"]
+	url = https://github.com/conda-forge/stone-feedstock.git
+	path = feedstocks/stone
+	branch = refs/heads/master
