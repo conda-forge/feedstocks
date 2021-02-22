@@ -47738,3 +47738,7 @@
 	url = https://github.com/conda-forge/r-gsdesign-feedstock.git
 	path = feedstocks/r-gsdesign
 	branch = refs/heads/master
+[submodule "pyworms"]
+	url = https://github.com/conda-forge/pyworms-feedstock.git
+	path = feedstocks/pyworms
+	branch = refs/heads/master
