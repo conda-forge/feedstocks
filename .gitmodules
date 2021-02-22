@@ -47730,3 +47730,7 @@
 	url = https://github.com/conda-forge/coastal-dune-model-feedstock.git
 	path = feedstocks/coastal-dune-model
 	branch = refs/heads/master
+[submodule "srwpy"]
+	url = https://github.com/conda-forge/srwpy-feedstock.git
+	path = feedstocks/srwpy
+	branch = refs/heads/master
