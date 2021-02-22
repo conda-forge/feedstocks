@@ -47710,3 +47710,7 @@
 	url = https://github.com/conda-forge/authenticatorpy-feedstock.git
 	path = feedstocks/authenticatorpy
 	branch = refs/heads/master
+[submodule "eodms-api-client"]
+	url = https://github.com/conda-forge/eodms-api-client-feedstock.git
+	path = feedstocks/eodms-api-client
+	branch = refs/heads/master
