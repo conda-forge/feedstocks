@@ -47718,3 +47718,7 @@
 	url = https://github.com/conda-forge/quippy-feedstock.git
 	path = feedstocks/quippy
 	branch = refs/heads/master
+[submodule "jaeger-browser"]
+	url = https://github.com/conda-forge/jaeger-browser-feedstock.git
+	path = feedstocks/jaeger-browser
+	branch = refs/heads/master
