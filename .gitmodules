@@ -47790,3 +47790,7 @@
 	url = https://github.com/conda-forge/azure-kusto-data-feedstock.git
 	path = feedstocks/azure-kusto-data
 	branch = refs/heads/master
+[submodule "autode"]
+	url = https://github.com/conda-forge/autode-feedstock.git
+	path = feedstocks/autode
+	branch = refs/heads/master
