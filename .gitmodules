@@ -47854,3 +47854,7 @@
 	url = https://github.com/conda-forge/google-cloud-speech-feedstock.git
 	path = feedstocks/google-cloud-speech
 	branch = refs/heads/master
+[submodule "google-cloud-datacatalog"]
+	url = https://github.com/conda-forge/google-cloud-datacatalog-feedstock.git
+	path = feedstocks/google-cloud-datacatalog
+	branch = refs/heads/master
