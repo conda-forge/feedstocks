@@ -47822,3 +47822,7 @@
 	url = https://github.com/conda-forge/exdown-feedstock.git
 	path = feedstocks/exdown
 	branch = refs/heads/master
+[submodule "pngquant"]
+	url = https://github.com/conda-forge/pngquant-feedstock.git
+	path = feedstocks/pngquant
+	branch = refs/heads/master
