@@ -47774,3 +47774,7 @@
 	url = https://github.com/conda-forge/slack-sdk-feedstock.git
 	path = feedstocks/slack-sdk
 	branch = refs/heads/master
+[submodule "zdesk"]
+	url = https://github.com/conda-forge/zdesk-feedstock.git
+	path = feedstocks/zdesk
+	branch = refs/heads/master
