@@ -47746,3 +47746,7 @@
 	url = https://github.com/conda-forge/pyqg-feedstock.git
 	path = feedstocks/pyqg
 	branch = refs/heads/master
+[submodule "pymc3-hmm"]
+	url = https://github.com/conda-forge/pymc3-hmm-feedstock.git
+	path = feedstocks/pymc3-hmm
+	branch = refs/heads/master
