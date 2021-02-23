@@ -47814,3 +47814,7 @@
 	url = https://github.com/conda-forge/kylinpy-feedstock.git
 	path = feedstocks/kylinpy
 	branch = refs/heads/master
+[submodule "libgumbo"]
+	url = https://github.com/conda-forge/libgumbo-feedstock.git
+	path = feedstocks/libgumbo
+	branch = refs/heads/master
