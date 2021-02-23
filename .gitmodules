@@ -47778,3 +47778,7 @@
 	url = https://github.com/conda-forge/zdesk-feedstock.git
 	path = feedstocks/zdesk
 	branch = refs/heads/master
+[submodule "elasticsearch-dbapi"]
+	url = https://github.com/conda-forge/elasticsearch-dbapi-feedstock.git
+	path = feedstocks/elasticsearch-dbapi
+	branch = refs/heads/master
