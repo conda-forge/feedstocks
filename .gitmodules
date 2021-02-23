@@ -47786,3 +47786,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-containerinstance-feedstock.git
 	path = feedstocks/azure-mgmt-containerinstance
 	branch = refs/heads/master
+[submodule "azure-kusto-data"]
+	url = https://github.com/conda-forge/azure-kusto-data-feedstock.git
+	path = feedstocks/azure-kusto-data
+	branch = refs/heads/master
