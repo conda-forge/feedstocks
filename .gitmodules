@@ -47838,3 +47838,7 @@
 	url = https://github.com/conda-forge/google-cloud-memcache-feedstock.git
 	path = feedstocks/google-cloud-memcache
 	branch = refs/heads/master
+[submodule "google-ads"]
+	url = https://github.com/conda-forge/google-ads-feedstock.git
+	path = feedstocks/google-ads
+	branch = refs/heads/master
