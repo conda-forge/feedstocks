@@ -47810,3 +47810,7 @@
 	url = https://github.com/conda-forge/vvm-feedstock.git
 	path = feedstocks/vvm
 	branch = refs/heads/master
+[submodule "kylinpy"]
+	url = https://github.com/conda-forge/kylinpy-feedstock.git
+	path = feedstocks/kylinpy
+	branch = refs/heads/master
