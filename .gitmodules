@@ -47806,3 +47806,7 @@
 	url = https://github.com/conda-forge/yandexcloud-feedstock.git
 	path = feedstocks/yandexcloud
 	branch = refs/heads/master
+[submodule "vvm"]
+	url = https://github.com/conda-forge/vvm-feedstock.git
+	path = feedstocks/vvm
+	branch = refs/heads/master
