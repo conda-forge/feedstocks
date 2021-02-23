@@ -47834,3 +47834,7 @@
 	url = https://github.com/conda-forge/runner-feedstock.git
 	path = feedstocks/runner
 	branch = refs/heads/master
+[submodule "google-cloud-memcache"]
+	url = https://github.com/conda-forge/google-cloud-memcache-feedstock.git
+	path = feedstocks/google-cloud-memcache
+	branch = refs/heads/master
