@@ -47754,3 +47754,7 @@
 	url = https://github.com/conda-forge/sardana-feedstock.git
 	path = feedstocks/sardana
 	branch = refs/heads/master
+[submodule "r-teamr"]
+	url = https://github.com/conda-forge/r-teamr-feedstock.git
+	path = feedstocks/r-teamr
+	branch = refs/heads/master
