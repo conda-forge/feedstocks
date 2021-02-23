@@ -47782,3 +47782,7 @@
 	url = https://github.com/conda-forge/elasticsearch-dbapi-feedstock.git
 	path = feedstocks/elasticsearch-dbapi
 	branch = refs/heads/master
+[submodule "azure-mgmt-containerinstance"]
+	url = https://github.com/conda-forge/azure-mgmt-containerinstance-feedstock.git
+	path = feedstocks/azure-mgmt-containerinstance
+	branch = refs/heads/master
