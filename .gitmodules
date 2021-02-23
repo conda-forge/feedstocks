@@ -47758,3 +47758,7 @@
 	url = https://github.com/conda-forge/r-teamr-feedstock.git
 	path = feedstocks/r-teamr
 	branch = refs/heads/master
+[submodule "bluesky-live"]
+	url = https://github.com/conda-forge/bluesky-live-feedstock.git
+	path = feedstocks/bluesky-live
+	branch = refs/heads/master
