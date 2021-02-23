@@ -47846,3 +47846,7 @@
 	url = https://github.com/conda-forge/google-cloud-workflows-feedstock.git
 	path = feedstocks/google-cloud-workflows
 	branch = refs/heads/master
+[submodule "google-cloud-tasks"]
+	url = https://github.com/conda-forge/google-cloud-tasks-feedstock.git
+	path = feedstocks/google-cloud-tasks
+	branch = refs/heads/master
