@@ -47842,3 +47842,7 @@
 	url = https://github.com/conda-forge/google-ads-feedstock.git
 	path = feedstocks/google-ads
 	branch = refs/heads/master
+[submodule "google-cloud-workflows"]
+	url = https://github.com/conda-forge/google-cloud-workflows-feedstock.git
+	path = feedstocks/google-cloud-workflows
+	branch = refs/heads/master
