@@ -47798,3 +47798,7 @@
 	url = https://github.com/conda-forge/presto-python-client-feedstock.git
 	path = feedstocks/presto-python-client
 	branch = refs/heads/master
+[submodule "pdpyras"]
+	url = https://github.com/conda-forge/pdpyras-feedstock.git
+	path = feedstocks/pdpyras
+	branch = refs/heads/master
