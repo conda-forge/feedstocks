@@ -47770,3 +47770,7 @@
 	url = https://github.com/conda-forge/azure-batch-feedstock.git
 	path = feedstocks/azure-batch
 	branch = refs/heads/master
+[submodule "slack-sdk"]
+	url = https://github.com/conda-forge/slack-sdk-feedstock.git
+	path = feedstocks/slack-sdk
+	branch = refs/heads/master
