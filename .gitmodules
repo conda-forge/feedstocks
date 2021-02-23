@@ -47766,3 +47766,7 @@
 	url = https://github.com/conda-forge/pinotdb-feedstock.git
 	path = feedstocks/pinotdb
 	branch = refs/heads/master
+[submodule "azure-batch"]
+	url = https://github.com/conda-forge/azure-batch-feedstock.git
+	path = feedstocks/azure-batch
+	branch = refs/heads/master
