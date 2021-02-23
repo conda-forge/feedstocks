@@ -47818,3 +47818,7 @@
 	url = https://github.com/conda-forge/libgumbo-feedstock.git
 	path = feedstocks/libgumbo
 	branch = refs/heads/master
+[submodule "exdown"]
+	url = https://github.com/conda-forge/exdown-feedstock.git
+	path = feedstocks/exdown
+	branch = refs/heads/master
