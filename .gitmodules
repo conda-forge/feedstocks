@@ -47750,3 +47750,7 @@
 	url = https://github.com/conda-forge/pymc3-hmm-feedstock.git
 	path = feedstocks/pymc3-hmm
 	branch = refs/heads/master
+[submodule "sardana"]
+	url = https://github.com/conda-forge/sardana-feedstock.git
+	path = feedstocks/sardana
+	branch = refs/heads/master
