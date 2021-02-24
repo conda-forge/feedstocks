@@ -47870,3 +47870,7 @@
 	url = https://github.com/conda-forge/cccc-feedstock.git
 	path = feedstocks/cccc
 	branch = refs/heads/master
+[submodule "sciplot"]
+	url = https://github.com/conda-forge/sciplot-feedstock.git
+	path = feedstocks/sciplot
+	branch = refs/heads/master
