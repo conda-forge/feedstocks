@@ -47962,3 +47962,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-google-feedstock.git
 	path = feedstocks/apache-airflow-providers-google
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-postgres"]
+	url = https://github.com/conda-forge/apache-airflow-providers-postgres-feedstock.git
+	path = feedstocks/apache-airflow-providers-postgres
+	branch = refs/heads/master
