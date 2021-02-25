@@ -47982,3 +47982,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-kylin-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-kylin
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-elasticsearch"]
+	url = https://github.com/conda-forge/apache-airflow-providers-elasticsearch-feedstock.git
+	path = feedstocks/apache-airflow-providers-elasticsearch
+	branch = refs/heads/master
