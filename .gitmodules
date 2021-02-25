@@ -47894,3 +47894,7 @@
 	url = https://github.com/conda-forge/pysbol2-feedstock.git
 	path = feedstocks/pysbol2
 	branch = refs/heads/master
+[submodule "logdir"]
+	url = https://github.com/conda-forge/logdir-feedstock.git
+	path = feedstocks/logdir
+	branch = refs/heads/master
