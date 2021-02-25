@@ -47998,3 +47998,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-pinot-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-pinot
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-microsoft-azure"]
+	url = https://github.com/conda-forge/apache-airflow-providers-microsoft-azure-feedstock.git
+	path = feedstocks/apache-airflow-providers-microsoft-azure
+	branch = refs/heads/master
