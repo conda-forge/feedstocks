@@ -47986,3 +47986,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-elasticsearch-feedstock.git
 	path = feedstocks/apache-airflow-providers-elasticsearch
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-neo4j"]
+	url = https://github.com/conda-forge/apache-airflow-providers-neo4j-feedstock.git
+	path = feedstocks/apache-airflow-providers-neo4j
+	branch = refs/heads/master
