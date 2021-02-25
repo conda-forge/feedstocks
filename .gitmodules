@@ -47922,3 +47922,7 @@
 	url = https://github.com/conda-forge/nifty-feedstock.git
 	path = feedstocks/nifty
 	branch = refs/heads/master
+[submodule "r-ggstar"]
+	url = https://github.com/conda-forge/r-ggstar-feedstock.git
+	path = feedstocks/r-ggstar
+	branch = refs/heads/master
