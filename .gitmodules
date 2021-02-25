@@ -47990,3 +47990,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-neo4j-feedstock.git
 	path = feedstocks/apache-airflow-providers-neo4j
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-slack"]
+	url = https://github.com/conda-forge/apache-airflow-providers-slack-feedstock.git
+	path = feedstocks/apache-airflow-providers-slack
+	branch = refs/heads/master
