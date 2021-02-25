@@ -47930,3 +47930,7 @@
 	url = https://github.com/conda-forge/ocrmypdf-feedstock.git
 	path = feedstocks/ocrmypdf
 	branch = refs/heads/master
+[submodule "fscacher"]
+	url = https://github.com/conda-forge/fscacher-feedstock.git
+	path = feedstocks/fscacher
+	branch = refs/heads/master
