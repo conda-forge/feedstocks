@@ -47902,3 +47902,7 @@
 	url = https://github.com/conda-forge/py-solc-ast-feedstock.git
 	path = feedstocks/py-solc-ast
 	branch = refs/heads/master
+[submodule "eth-event"]
+	url = https://github.com/conda-forge/eth-event-feedstock.git
+	path = feedstocks/eth-event
+	branch = refs/heads/master
