@@ -47906,3 +47906,7 @@
 	url = https://github.com/conda-forge/eth-event-feedstock.git
 	path = feedstocks/eth-event
 	branch = refs/heads/master
+[submodule "pytest-attrib"]
+	url = https://github.com/conda-forge/pytest-attrib-feedstock.git
+	path = feedstocks/pytest-attrib
+	branch = refs/heads/master
