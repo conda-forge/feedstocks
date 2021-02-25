@@ -47926,3 +47926,7 @@
 	url = https://github.com/conda-forge/r-ggstar-feedstock.git
 	path = feedstocks/r-ggstar
 	branch = refs/heads/master
+[submodule "ocrmypdf"]
+	url = https://github.com/conda-forge/ocrmypdf-feedstock.git
+	path = feedstocks/ocrmypdf
+	branch = refs/heads/master
