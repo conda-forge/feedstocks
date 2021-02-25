@@ -47994,3 +47994,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-slack-feedstock.git
 	path = feedstocks/apache-airflow-providers-slack
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-apache-pinot"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-pinot-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-pinot
+	branch = refs/heads/master
