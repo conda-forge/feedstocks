@@ -47958,3 +47958,7 @@
 	url = https://github.com/conda-forge/minimock-feedstock.git
 	path = feedstocks/minimock
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-google"]
+	url = https://github.com/conda-forge/apache-airflow-providers-google-feedstock.git
+	path = feedstocks/apache-airflow-providers-google
+	branch = refs/heads/master
