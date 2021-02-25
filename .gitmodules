@@ -48002,3 +48002,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-microsoft-azure-feedstock.git
 	path = feedstocks/apache-airflow-providers-microsoft-azure
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-jenkins"]
+	url = https://github.com/conda-forge/apache-airflow-providers-jenkins-feedstock.git
+	path = feedstocks/apache-airflow-providers-jenkins
+	branch = refs/heads/master
