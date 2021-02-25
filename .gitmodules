@@ -47878,3 +47878,7 @@
 	url = https://github.com/conda-forge/metadetect-feedstock.git
 	path = feedstocks/metadetect
 	branch = refs/heads/master
+[submodule "graphviz2drawio"]
+	url = https://github.com/conda-forge/graphviz2drawio-feedstock.git
+	path = feedstocks/graphviz2drawio
+	branch = refs/heads/master
