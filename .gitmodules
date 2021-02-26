@@ -48054,3 +48054,7 @@
 	url = https://github.com/conda-forge/r-anesrake-feedstock.git
 	path = feedstocks/r-anesrake
 	branch = refs/heads/master
+[submodule "r-turfr"]
+	url = https://github.com/conda-forge/r-turfr-feedstock.git
+	path = feedstocks/r-turfr
+	branch = refs/heads/master
