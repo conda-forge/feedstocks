@@ -48062,3 +48062,7 @@
 	url = https://github.com/conda-forge/r-weights-feedstock.git
 	path = feedstocks/r-weights
 	branch = refs/heads/master
+[submodule "compass-interface"]
+	url = https://github.com/conda-forge/compass-interface-feedstock.git
+	path = feedstocks/compass-interface
+	branch = refs/heads/master
