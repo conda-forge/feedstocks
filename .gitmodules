@@ -48022,3 +48022,7 @@
 	url = https://github.com/conda-forge/r-broom.helpers-feedstock.git
 	path = feedstocks/r-broom.helpers
 	branch = refs/heads/master
+[submodule "pmapper"]
+	url = https://github.com/conda-forge/pmapper-feedstock.git
+	path = feedstocks/pmapper
+	branch = refs/heads/master
