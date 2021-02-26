@@ -48026,3 +48026,7 @@
 	url = https://github.com/conda-forge/pmapper-feedstock.git
 	path = feedstocks/pmapper
 	branch = refs/heads/master
+[submodule "structdbrest"]
+	url = https://github.com/conda-forge/structdbrest-feedstock.git
+	path = feedstocks/structdbrest
+	branch = refs/heads/master
