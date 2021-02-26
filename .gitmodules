@@ -48006,3 +48006,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-jenkins-feedstock.git
 	path = feedstocks/apache-airflow-providers-jenkins
 	branch = refs/heads/master
+[submodule "python-octaviaclient"]
+	url = https://github.com/conda-forge/python-octaviaclient-feedstock.git
+	path = feedstocks/python-octaviaclient
+	branch = refs/heads/master
