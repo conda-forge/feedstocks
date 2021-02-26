@@ -48034,3 +48034,7 @@
 	url = https://github.com/conda-forge/python3-saml-feedstock.git
 	path = feedstocks/python3-saml
 	branch = refs/heads/master
+[submodule "xmlsec"]
+	url = https://github.com/conda-forge/xmlsec-feedstock.git
+	path = feedstocks/xmlsec
+	branch = refs/heads/master
