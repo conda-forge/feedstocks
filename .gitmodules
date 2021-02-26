@@ -48010,3 +48010,7 @@
 	url = https://github.com/conda-forge/python-octaviaclient-feedstock.git
 	path = feedstocks/python-octaviaclient
 	branch = refs/heads/master
+[submodule "umarkdown"]
+	url = https://github.com/conda-forge/umarkdown-feedstock.git
+	path = feedstocks/umarkdown
+	branch = refs/heads/master
