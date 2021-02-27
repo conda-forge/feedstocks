@@ -48074,3 +48074,7 @@
 	url = https://github.com/conda-forge/ipydatagrid-feedstock.git
 	path = feedstocks/ipydatagrid
 	branch = refs/heads/master
+[submodule "dftd4-python"]
+	url = https://github.com/conda-forge/dftd4-python-feedstock.git
+	path = feedstocks/dftd4-python
+	branch = refs/heads/master
