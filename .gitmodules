@@ -48066,3 +48066,7 @@
 	url = https://github.com/conda-forge/compass-interface-feedstock.git
 	path = feedstocks/compass-interface
 	branch = refs/heads/master
+[submodule "spotipy"]
+	url = https://github.com/conda-forge/spotipy-feedstock.git
+	path = feedstocks/spotipy
+	branch = refs/heads/master
