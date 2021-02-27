@@ -48102,3 +48102,7 @@
 	url = https://github.com/conda-forge/yaqd-vici-feedstock.git
 	path = feedstocks/yaqd-vici
 	branch = refs/heads/master
+[submodule "pyfitparquet"]
+	url = https://github.com/conda-forge/pyfitparquet-feedstock.git
+	path = feedstocks/pyfitparquet
+	branch = refs/heads/master
