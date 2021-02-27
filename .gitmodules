@@ -48114,3 +48114,7 @@
 	url = https://github.com/conda-forge/vscode-icons-feedstock.git
 	path = feedstocks/vscode-icons
 	branch = refs/heads/master
+[submodule "pyribs-base"]
+	url = https://github.com/conda-forge/pyribs-base-feedstock.git
+	path = feedstocks/pyribs-base
+	branch = refs/heads/master
