@@ -48134,3 +48134,7 @@
 	url = https://github.com/conda-forge/lipyphilic-feedstock.git
 	path = feedstocks/lipyphilic
 	branch = refs/heads/master
+[submodule "ibis-omniscidb"]
+	url = https://github.com/conda-forge/ibis-omniscidb-feedstock.git
+	path = feedstocks/ibis-omniscidb
+	branch = refs/heads/master
