@@ -48122,3 +48122,7 @@
 	url = https://github.com/conda-forge/pyribs-feedstock.git
 	path = feedstocks/pyribs
 	branch = refs/heads/master
+[submodule "r-targets"]
+	url = https://github.com/conda-forge/r-targets-feedstock.git
+	path = feedstocks/r-targets
+	branch = refs/heads/master
