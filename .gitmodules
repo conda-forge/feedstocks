@@ -48146,3 +48146,7 @@
 	url = https://github.com/conda-forge/wquantiles-feedstock.git
 	path = feedstocks/wquantiles
 	branch = refs/heads/master
+[submodule "dmba"]
+	url = https://github.com/conda-forge/dmba-feedstock.git
+	path = feedstocks/dmba
+	branch = refs/heads/master
