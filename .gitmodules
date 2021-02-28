@@ -48150,3 +48150,7 @@
 	url = https://github.com/conda-forge/dmba-feedstock.git
 	path = feedstocks/dmba
 	branch = refs/heads/master
+[submodule "stress-ng"]
+	url = https://github.com/conda-forge/stress-ng-feedstock.git
+	path = feedstocks/stress-ng
+	branch = refs/heads/master
