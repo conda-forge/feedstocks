@@ -48142,3 +48142,7 @@
 	url = https://github.com/conda-forge/sphinx-multitoc-numbering-feedstock.git
 	path = feedstocks/sphinx-multitoc-numbering
 	branch = refs/heads/master
+[submodule "wquantiles"]
+	url = https://github.com/conda-forge/wquantiles-feedstock.git
+	path = feedstocks/wquantiles
+	branch = refs/heads/master
