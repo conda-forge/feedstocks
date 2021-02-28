@@ -48138,3 +48138,7 @@
 	url = https://github.com/conda-forge/ibis-omniscidb-feedstock.git
 	path = feedstocks/ibis-omniscidb
 	branch = refs/heads/master
+[submodule "sphinx-multitoc-numbering"]
+	url = https://github.com/conda-forge/sphinx-multitoc-numbering-feedstock.git
+	path = feedstocks/sphinx-multitoc-numbering
+	branch = refs/heads/master
