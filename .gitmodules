@@ -48154,3 +48154,7 @@
 	url = https://github.com/conda-forge/stress-ng-feedstock.git
 	path = feedstocks/stress-ng
 	branch = refs/heads/master
+[submodule "ambiance"]
+	url = https://github.com/conda-forge/ambiance-feedstock.git
+	path = feedstocks/ambiance
+	branch = refs/heads/master
