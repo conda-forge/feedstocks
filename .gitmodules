@@ -48170,3 +48170,7 @@
 	url = https://github.com/conda-forge/nhs-number-feedstock.git
 	path = feedstocks/nhs-number
 	branch = refs/heads/master
+[submodule "cymbal"]
+	url = https://github.com/conda-forge/cymbal-feedstock.git
+	path = feedstocks/cymbal
+	branch = refs/heads/master
