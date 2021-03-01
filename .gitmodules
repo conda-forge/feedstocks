@@ -48166,3 +48166,7 @@
 	url = https://github.com/conda-forge/mkdocs-autorefs-feedstock.git
 	path = feedstocks/mkdocs-autorefs
 	branch = refs/heads/master
+[submodule "nhs-number"]
+	url = https://github.com/conda-forge/nhs-number-feedstock.git
+	path = feedstocks/nhs-number
+	branch = refs/heads/master
