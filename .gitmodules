@@ -48174,3 +48174,7 @@
 	url = https://github.com/conda-forge/cymbal-feedstock.git
 	path = feedstocks/cymbal
 	branch = refs/heads/master
+[submodule "prometheus-fastapi-instrumentator"]
+	url = https://github.com/conda-forge/prometheus-fastapi-instrumentator-feedstock.git
+	path = feedstocks/prometheus-fastapi-instrumentator
+	branch = refs/heads/master
