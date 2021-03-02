@@ -48186,3 +48186,7 @@
 	url = https://github.com/conda-forge/gladtex-feedstock.git
 	path = feedstocks/gladtex
 	branch = refs/heads/master
+[submodule "msgspec"]
+	url = https://github.com/conda-forge/msgspec-feedstock.git
+	path = feedstocks/msgspec
+	branch = refs/heads/master
