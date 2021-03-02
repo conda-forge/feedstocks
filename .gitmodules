@@ -48178,3 +48178,7 @@
 	url = https://github.com/conda-forge/prometheus-fastapi-instrumentator-feedstock.git
 	path = feedstocks/prometheus-fastapi-instrumentator
 	branch = refs/heads/master
+[submodule "logrun"]
+	url = https://github.com/conda-forge/logrun-feedstock.git
+	path = feedstocks/logrun
+	branch = refs/heads/master
