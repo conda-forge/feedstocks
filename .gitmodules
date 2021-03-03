@@ -48230,3 +48230,7 @@
 	url = https://github.com/conda-forge/gimli.units-feedstock.git
 	path = feedstocks/gimli.units
 	branch = refs/heads/master
+[submodule "maps-cli"]
+	url = https://github.com/conda-forge/maps-cli-feedstock.git
+	path = feedstocks/maps-cli
+	branch = refs/heads/master
