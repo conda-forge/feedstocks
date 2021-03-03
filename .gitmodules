@@ -48198,3 +48198,7 @@
 	url = https://github.com/conda-forge/pyramid_mako-feedstock.git
 	path = feedstocks/pyramid_mako
 	branch = refs/heads/master
+[submodule "pyramid_debugtoolbar"]
+	url = https://github.com/conda-forge/pyramid_debugtoolbar-feedstock.git
+	path = feedstocks/pyramid_debugtoolbar
+	branch = refs/heads/master
