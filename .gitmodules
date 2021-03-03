@@ -48206,3 +48206,7 @@
 	url = https://github.com/conda-forge/here-location-services-feedstock.git
 	path = feedstocks/here-location-services
 	branch = refs/heads/master
+[submodule "pyramid_tm"]
+	url = https://github.com/conda-forge/pyramid_tm-feedstock.git
+	path = feedstocks/pyramid_tm
+	branch = refs/heads/master
