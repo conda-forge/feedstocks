@@ -48226,3 +48226,7 @@
 	url = https://github.com/conda-forge/taxcalc-feedstock.git
 	path = feedstocks/taxcalc
 	branch = refs/heads/master
+[submodule "gimli.units"]
+	url = https://github.com/conda-forge/gimli.units-feedstock.git
+	path = feedstocks/gimli.units
+	branch = refs/heads/master
