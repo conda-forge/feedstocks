@@ -48190,3 +48190,7 @@
 	url = https://github.com/conda-forge/msgspec-feedstock.git
 	path = feedstocks/msgspec
 	branch = refs/heads/master
+[submodule "similaritymeasures"]
+	url = https://github.com/conda-forge/similaritymeasures-feedstock.git
+	path = feedstocks/similaritymeasures
+	branch = refs/heads/master
