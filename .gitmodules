@@ -48278,3 +48278,7 @@
 	url = https://github.com/conda-forge/pytask-parallel-feedstock.git
 	path = feedstocks/pytask-parallel
 	branch = refs/heads/master
+[submodule "qhub-dask-meta"]
+	url = https://github.com/conda-forge/qhub-dask-meta-feedstock.git
+	path = feedstocks/qhub-dask-meta
+	branch = refs/heads/master
