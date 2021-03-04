@@ -48242,3 +48242,7 @@
 	url = https://github.com/conda-forge/limesuite-feedstock.git
 	path = feedstocks/limesuite
 	branch = refs/heads/master
+[submodule "bmi-topography"]
+	url = https://github.com/conda-forge/bmi-topography-feedstock.git
+	path = feedstocks/bmi-topography
+	branch = refs/heads/master
