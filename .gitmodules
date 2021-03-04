@@ -48246,3 +48246,7 @@
 	url = https://github.com/conda-forge/bmi-topography-feedstock.git
 	path = feedstocks/bmi-topography
 	branch = refs/heads/master
+[submodule "latex-dependency-scanner"]
+	url = https://github.com/conda-forge/latex-dependency-scanner-feedstock.git
+	path = feedstocks/latex-dependency-scanner
+	branch = refs/heads/master
