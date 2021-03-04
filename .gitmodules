@@ -48274,3 +48274,7 @@
 	url = https://github.com/conda-forge/rubicon-ml-feedstock.git
 	path = feedstocks/rubicon-ml
 	branch = refs/heads/master
+[submodule "pytask-parallel"]
+	url = https://github.com/conda-forge/pytask-parallel-feedstock.git
+	path = feedstocks/pytask-parallel
+	branch = refs/heads/master
