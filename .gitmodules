@@ -48254,3 +48254,7 @@
 	url = https://github.com/conda-forge/pytask-r-feedstock.git
 	path = feedstocks/pytask-r
 	branch = refs/heads/master
+[submodule "pytask-latex"]
+	url = https://github.com/conda-forge/pytask-latex-feedstock.git
+	path = feedstocks/pytask-latex
+	branch = refs/heads/master
