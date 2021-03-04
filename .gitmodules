@@ -48234,3 +48234,7 @@
 	url = https://github.com/conda-forge/maps-cli-feedstock.git
 	path = feedstocks/maps-cli
 	branch = refs/heads/master
+[submodule "here-map-widget-for-jupyter"]
+	url = https://github.com/conda-forge/here-map-widget-for-jupyter-feedstock.git
+	path = feedstocks/here-map-widget-for-jupyter
+	branch = refs/heads/master
