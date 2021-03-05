@@ -48290,3 +48290,7 @@
 	url = https://github.com/conda-forge/sridentify-feedstock.git
 	path = feedstocks/sridentify
 	branch = refs/heads/master
+[submodule "banal"]
+	url = https://github.com/conda-forge/banal-feedstock.git
+	path = feedstocks/banal
+	branch = refs/heads/master
