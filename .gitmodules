@@ -48322,3 +48322,7 @@
 	url = https://github.com/conda-forge/sbank-feedstock.git
 	path = feedstocks/sbank
 	branch = refs/heads/master
+[submodule "r-palmerpenguins"]
+	url = https://github.com/conda-forge/r-palmerpenguins-feedstock.git
+	path = feedstocks/r-palmerpenguins
+	branch = refs/heads/master
