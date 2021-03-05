@@ -48298,3 +48298,7 @@
 	url = https://github.com/conda-forge/dataset-feedstock.git
 	path = feedstocks/dataset
 	branch = refs/heads/master
+[submodule "manif"]
+	url = https://github.com/conda-forge/manif-feedstock.git
+	path = feedstocks/manif
+	branch = refs/heads/master
