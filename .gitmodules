@@ -48294,3 +48294,7 @@
 	url = https://github.com/conda-forge/banal-feedstock.git
 	path = feedstocks/banal
 	branch = refs/heads/master
+[submodule "dataset"]
+	url = https://github.com/conda-forge/dataset-feedstock.git
+	path = feedstocks/dataset
+	branch = refs/heads/master
