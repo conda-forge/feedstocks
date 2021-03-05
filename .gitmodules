@@ -48310,3 +48310,7 @@
 	url = https://github.com/conda-forge/pyro-api-feedstock.git
 	path = feedstocks/pyro-api
 	branch = refs/heads/master
+[submodule "vsce"]
+	url = https://github.com/conda-forge/vsce-feedstock.git
+	path = feedstocks/vsce
+	branch = refs/heads/master
