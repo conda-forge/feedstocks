@@ -48286,3 +48286,7 @@
 	url = https://github.com/conda-forge/pymt_topography-feedstock.git
 	path = feedstocks/pymt_topography
 	branch = refs/heads/master
+[submodule "sridentify"]
+	url = https://github.com/conda-forge/sridentify-feedstock.git
+	path = feedstocks/sridentify
+	branch = refs/heads/master
