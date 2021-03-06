@@ -48338,3 +48338,7 @@
 	url = https://github.com/conda-forge/configupdater-feedstock.git
 	path = feedstocks/configupdater
 	branch = refs/heads/master
+[submodule "camel"]
+	url = https://github.com/conda-forge/camel-feedstock.git
+	path = feedstocks/camel
+	branch = refs/heads/master
