@@ -48334,3 +48334,7 @@
 	url = https://github.com/conda-forge/blaspp-feedstock.git
 	path = feedstocks/blaspp
 	branch = refs/heads/master
+[submodule "configupdater"]
+	url = https://github.com/conda-forge/configupdater-feedstock.git
+	path = feedstocks/configupdater
+	branch = refs/heads/master
