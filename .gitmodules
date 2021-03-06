@@ -48330,3 +48330,7 @@
 	url = https://github.com/conda-forge/picmistandard-feedstock.git
 	path = feedstocks/picmistandard
 	branch = refs/heads/master
+[submodule "blaspp"]
+	url = https://github.com/conda-forge/blaspp-feedstock.git
+	path = feedstocks/blaspp
+	branch = refs/heads/master
