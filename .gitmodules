@@ -48342,3 +48342,7 @@
 	url = https://github.com/conda-forge/camel-feedstock.git
 	path = feedstocks/camel
 	branch = refs/heads/master
+[submodule "pygeohydro"]
+	url = https://github.com/conda-forge/pygeohydro-feedstock.git
+	path = feedstocks/pygeohydro
+	branch = refs/heads/master
