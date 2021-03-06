@@ -48326,3 +48326,7 @@
 	url = https://github.com/conda-forge/r-palmerpenguins-feedstock.git
 	path = feedstocks/r-palmerpenguins
 	branch = refs/heads/master
+[submodule "picmistandard"]
+	url = https://github.com/conda-forge/picmistandard-feedstock.git
+	path = feedstocks/picmistandard
+	branch = refs/heads/master
