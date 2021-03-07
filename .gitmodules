@@ -48350,3 +48350,7 @@
 	url = https://github.com/conda-forge/stonesoup-feedstock.git
 	path = feedstocks/stonesoup
 	branch = refs/heads/master
+[submodule "r-waiter"]
+	url = https://github.com/conda-forge/r-waiter-feedstock.git
+	path = feedstocks/r-waiter
+	branch = refs/heads/master
