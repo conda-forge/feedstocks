@@ -48354,3 +48354,7 @@
 	url = https://github.com/conda-forge/r-waiter-feedstock.git
 	path = feedstocks/r-waiter
 	branch = refs/heads/master
+[submodule "r-fresh"]
+	url = https://github.com/conda-forge/r-fresh-feedstock.git
+	path = feedstocks/r-fresh
+	branch = refs/heads/master
