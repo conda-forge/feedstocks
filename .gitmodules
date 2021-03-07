@@ -48346,3 +48346,7 @@
 	url = https://github.com/conda-forge/pygeohydro-feedstock.git
 	path = feedstocks/pygeohydro
 	branch = refs/heads/master
+[submodule "stonesoup"]
+	url = https://github.com/conda-forge/stonesoup-feedstock.git
+	path = feedstocks/stonesoup
+	branch = refs/heads/master
