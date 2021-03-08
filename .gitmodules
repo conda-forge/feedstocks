@@ -48370,3 +48370,7 @@
 	url = https://github.com/conda-forge/lapackpp-feedstock.git
 	path = feedstocks/lapackpp
 	branch = refs/heads/master
+[submodule "rkstiff"]
+	url = https://github.com/conda-forge/rkstiff-feedstock.git
+	path = feedstocks/rkstiff
+	branch = refs/heads/master
