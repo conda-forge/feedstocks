@@ -48374,3 +48374,7 @@
 	url = https://github.com/conda-forge/rkstiff-feedstock.git
 	path = feedstocks/rkstiff
 	branch = refs/heads/master
+[submodule "jupyterlab-tour"]
+	url = https://github.com/conda-forge/jupyterlab-tour-feedstock.git
+	path = feedstocks/jupyterlab-tour
+	branch = refs/heads/master
