@@ -48406,3 +48406,7 @@
 	url = https://github.com/conda-forge/pyrfr-feedstock.git
 	path = feedstocks/pyrfr
 	branch = refs/heads/master
+[submodule "unasync"]
+	url = https://github.com/conda-forge/unasync-feedstock.git
+	path = feedstocks/unasync
+	branch = refs/heads/master
