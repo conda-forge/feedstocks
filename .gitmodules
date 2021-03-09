@@ -48386,3 +48386,7 @@
 	url = https://github.com/conda-forge/flake8-use-fstring-feedstock.git
 	path = feedstocks/flake8-use-fstring
 	branch = refs/heads/master
+[submodule "pyscaffoldext-markdown"]
+	url = https://github.com/conda-forge/pyscaffoldext-markdown-feedstock.git
+	path = feedstocks/pyscaffoldext-markdown
+	branch = refs/heads/master
