@@ -48418,3 +48418,7 @@
 	url = https://github.com/conda-forge/spatialmath-python-feedstock.git
 	path = feedstocks/spatialmath-python
 	branch = refs/heads/master
+[submodule "pgraph-python"]
+	url = https://github.com/conda-forge/pgraph-python-feedstock.git
+	path = feedstocks/pgraph-python
+	branch = refs/heads/master
