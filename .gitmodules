@@ -48410,3 +48410,7 @@
 	url = https://github.com/conda-forge/unasync-feedstock.git
 	path = feedstocks/unasync
 	branch = refs/heads/master
+[submodule "pyiem"]
+	url = https://github.com/conda-forge/pyiem-feedstock.git
+	path = feedstocks/pyiem
+	branch = refs/heads/master
