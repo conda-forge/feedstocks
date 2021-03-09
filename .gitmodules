@@ -48382,3 +48382,7 @@
 	url = https://github.com/conda-forge/ansitable-feedstock.git
 	path = feedstocks/ansitable
 	branch = refs/heads/master
+[submodule "flake8-use-fstring"]
+	url = https://github.com/conda-forge/flake8-use-fstring-feedstock.git
+	path = feedstocks/flake8-use-fstring
+	branch = refs/heads/master
