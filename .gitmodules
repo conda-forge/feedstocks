@@ -48414,3 +48414,7 @@
 	url = https://github.com/conda-forge/pyiem-feedstock.git
 	path = feedstocks/pyiem
 	branch = refs/heads/master
+[submodule "spatialmath-python"]
+	url = https://github.com/conda-forge/spatialmath-python-feedstock.git
+	path = feedstocks/spatialmath-python
+	branch = refs/heads/master
