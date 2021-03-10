@@ -48442,3 +48442,7 @@
 	url = https://github.com/conda-forge/jsx-lexer-feedstock.git
 	path = feedstocks/jsx-lexer
 	branch = refs/heads/master
+[submodule "onnxconverter-common"]
+	url = https://github.com/conda-forge/onnxconverter-common-feedstock.git
+	path = feedstocks/onnxconverter-common
+	branch = refs/heads/master
