@@ -48430,3 +48430,7 @@
 	url = https://github.com/conda-forge/jupyterlab-pullrequests-feedstock.git
 	path = feedstocks/jupyterlab-pullrequests
 	branch = refs/heads/master
+[submodule "pycallgraph2"]
+	url = https://github.com/conda-forge/pycallgraph2-feedstock.git
+	path = feedstocks/pycallgraph2
+	branch = refs/heads/master
