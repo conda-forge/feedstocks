@@ -48490,3 +48490,7 @@
 	url = https://github.com/conda-forge/skl2onnx-feedstock.git
 	path = feedstocks/skl2onnx
 	branch = refs/heads/master
+[submodule "aesara-theano-fallback"]
+	url = https://github.com/conda-forge/aesara-theano-fallback-feedstock.git
+	path = feedstocks/aesara-theano-fallback
+	branch = refs/heads/master
