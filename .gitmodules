@@ -48462,3 +48462,7 @@
 	url = https://github.com/conda-forge/incognita-feedstock.git
 	path = feedstocks/incognita
 	branch = refs/heads/master
+[submodule "qpsolvers"]
+	url = https://github.com/conda-forge/qpsolvers-feedstock.git
+	path = feedstocks/qpsolvers
+	branch = refs/heads/master
