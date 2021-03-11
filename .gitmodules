@@ -48486,3 +48486,7 @@
 	url = https://github.com/conda-forge/leafmap-feedstock.git
 	path = feedstocks/leafmap
 	branch = refs/heads/master
+[submodule "skl2onnx"]
+	url = https://github.com/conda-forge/skl2onnx-feedstock.git
+	path = feedstocks/skl2onnx
+	branch = refs/heads/master
