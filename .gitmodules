@@ -48478,3 +48478,7 @@
 	url = https://github.com/conda-forge/textgrid-feedstock.git
 	path = feedstocks/textgrid
 	branch = refs/heads/master
+[submodule "leafmaptools"]
+	url = https://github.com/conda-forge/leafmaptools-feedstock.git
+	path = feedstocks/leafmaptools
+	branch = refs/heads/master
