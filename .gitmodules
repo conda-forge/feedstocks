@@ -48466,3 +48466,7 @@
 	url = https://github.com/conda-forge/qpsolvers-feedstock.git
 	path = feedstocks/qpsolvers
 	branch = refs/heads/master
+[submodule "windpowerlib"]
+	url = https://github.com/conda-forge/windpowerlib-feedstock.git
+	path = feedstocks/windpowerlib
+	branch = refs/heads/master
