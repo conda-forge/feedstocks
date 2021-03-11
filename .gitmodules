@@ -48450,3 +48450,7 @@
 	url = https://github.com/conda-forge/swift-sim-feedstock.git
 	path = feedstocks/swift-sim
 	branch = refs/heads/master
+[submodule "roman"]
+	url = https://github.com/conda-forge/roman-feedstock.git
+	path = feedstocks/roman
+	branch = refs/heads/master
