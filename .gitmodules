@@ -48482,3 +48482,7 @@
 	url = https://github.com/conda-forge/leafmaptools-feedstock.git
 	path = feedstocks/leafmaptools
 	branch = refs/heads/master
+[submodule "leafmap"]
+	url = https://github.com/conda-forge/leafmap-feedstock.git
+	path = feedstocks/leafmap
+	branch = refs/heads/master
