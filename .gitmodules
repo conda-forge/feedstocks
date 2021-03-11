@@ -48470,3 +48470,7 @@
 	url = https://github.com/conda-forge/windpowerlib-feedstock.git
 	path = feedstocks/windpowerlib
 	branch = refs/heads/master
+[submodule "ecole"]
+	url = https://github.com/conda-forge/ecole-feedstock.git
+	path = feedstocks/ecole
+	branch = refs/heads/master
