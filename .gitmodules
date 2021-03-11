@@ -48458,3 +48458,7 @@
 	url = https://github.com/conda-forge/pgeocode-feedstock.git
 	path = feedstocks/pgeocode
 	branch = refs/heads/master
+[submodule "incognita"]
+	url = https://github.com/conda-forge/incognita-feedstock.git
+	path = feedstocks/incognita
+	branch = refs/heads/master
