@@ -48446,3 +48446,7 @@
 	url = https://github.com/conda-forge/onnxconverter-common-feedstock.git
 	path = feedstocks/onnxconverter-common
 	branch = refs/heads/master
+[submodule "swift-sim"]
+	url = https://github.com/conda-forge/swift-sim-feedstock.git
+	path = feedstocks/swift-sim
+	branch = refs/heads/master
