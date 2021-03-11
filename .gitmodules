@@ -48454,3 +48454,7 @@
 	url = https://github.com/conda-forge/roman-feedstock.git
 	path = feedstocks/roman
 	branch = refs/heads/master
+[submodule "pgeocode"]
+	url = https://github.com/conda-forge/pgeocode-feedstock.git
+	path = feedstocks/pgeocode
+	branch = refs/heads/master
