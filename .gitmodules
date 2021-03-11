@@ -48474,3 +48474,7 @@
 	url = https://github.com/conda-forge/ecole-feedstock.git
 	path = feedstocks/ecole
 	branch = refs/heads/master
+[submodule "textgrid"]
+	url = https://github.com/conda-forge/textgrid-feedstock.git
+	path = feedstocks/textgrid
+	branch = refs/heads/master
