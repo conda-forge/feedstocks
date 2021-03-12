@@ -48578,3 +48578,7 @@
 	url = https://github.com/conda-forge/mlprodict-feedstock.git
 	path = feedstocks/mlprodict
 	branch = refs/heads/master
+[submodule "go-ipfs"]
+	url = https://github.com/conda-forge/go-ipfs-feedstock.git
+	path = feedstocks/go-ipfs
+	branch = refs/heads/master
