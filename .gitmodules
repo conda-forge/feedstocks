@@ -48502,3 +48502,7 @@
 	url = https://github.com/conda-forge/rtb-data-feedstock.git
 	path = feedstocks/rtb-data
 	branch = refs/heads/master
+[submodule "vscode-jupyter"]
+	url = https://github.com/conda-forge/vscode-jupyter-feedstock.git
+	path = feedstocks/vscode-jupyter
+	branch = refs/heads/master
