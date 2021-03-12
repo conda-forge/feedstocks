@@ -48530,3 +48530,7 @@
 	url = https://github.com/conda-forge/build-feedstock.git
 	path = feedstocks/build
 	branch = refs/heads/master
+[submodule "reprexlite"]
+	url = https://github.com/conda-forge/reprexlite-feedstock.git
+	path = feedstocks/reprexlite
+	branch = refs/heads/master
