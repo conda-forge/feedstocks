@@ -48558,3 +48558,7 @@
 	url = https://github.com/conda-forge/celerite2-feedstock.git
 	path = feedstocks/celerite2
 	branch = refs/heads/master
+[submodule "aiohttp-sse"]
+	url = https://github.com/conda-forge/aiohttp-sse-feedstock.git
+	path = feedstocks/aiohttp-sse
+	branch = refs/heads/master
