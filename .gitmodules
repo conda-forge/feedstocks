@@ -48550,3 +48550,7 @@
 	url = https://github.com/conda-forge/tafra-feedstock.git
 	path = feedstocks/tafra
 	branch = refs/heads/master
+[submodule "geofileops"]
+	url = https://github.com/conda-forge/geofileops-feedstock.git
+	path = feedstocks/geofileops
+	branch = refs/heads/master
