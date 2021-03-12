@@ -48534,3 +48534,7 @@
 	url = https://github.com/conda-forge/reprexlite-feedstock.git
 	path = feedstocks/reprexlite
 	branch = refs/heads/master
+[submodule "libsimplejson"]
+	url = https://github.com/conda-forge/libsimplejson-feedstock.git
+	path = feedstocks/libsimplejson
+	branch = refs/heads/master
