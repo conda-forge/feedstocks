@@ -48538,3 +48538,7 @@
 	url = https://github.com/conda-forge/libsimplejson-feedstock.git
 	path = feedstocks/libsimplejson
 	branch = refs/heads/master
+[submodule "sid-dev"]
+	url = https://github.com/conda-forge/sid-dev-feedstock.git
+	path = feedstocks/sid-dev
+	branch = refs/heads/master
