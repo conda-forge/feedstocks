@@ -48570,3 +48570,7 @@
 	url = https://github.com/conda-forge/torchio-feedstock.git
 	path = feedstocks/torchio
 	branch = refs/heads/master
+[submodule "git-machete"]
+	url = https://github.com/conda-forge/git-machete-feedstock.git
+	path = feedstocks/git-machete
+	branch = refs/heads/master
