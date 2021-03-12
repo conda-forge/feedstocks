@@ -48510,3 +48510,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-datafactory-feedstock.git
 	path = feedstocks/azure-mgmt-datafactory
 	branch = refs/heads/master
+[submodule "icepyx"]
+	url = https://github.com/conda-forge/icepyx-feedstock.git
+	path = feedstocks/icepyx
+	branch = refs/heads/master
