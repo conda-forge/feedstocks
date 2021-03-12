@@ -48518,3 +48518,7 @@
 	url = https://github.com/conda-forge/vscode-python-feedstock.git
 	path = feedstocks/vscode-python
 	branch = refs/heads/master
+[submodule "pygeoda"]
+	url = https://github.com/conda-forge/pygeoda-feedstock.git
+	path = feedstocks/pygeoda
+	branch = refs/heads/master
