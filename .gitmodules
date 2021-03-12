@@ -48526,3 +48526,7 @@
 	url = https://github.com/conda-forge/keras2onnx-feedstock.git
 	path = feedstocks/keras2onnx
 	branch = refs/heads/master
+[submodule "build"]
+	url = https://github.com/conda-forge/build-feedstock.git
+	path = feedstocks/build
+	branch = refs/heads/master
