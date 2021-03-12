@@ -48498,3 +48498,7 @@
 	url = https://github.com/conda-forge/disjoint-set-feedstock.git
 	path = feedstocks/disjoint-set
 	branch = refs/heads/master
+[submodule "rtb-data"]
+	url = https://github.com/conda-forge/rtb-data-feedstock.git
+	path = feedstocks/rtb-data
+	branch = refs/heads/master
