@@ -48590,3 +48590,7 @@
 	url = https://github.com/conda-forge/protozfits-feedstock.git
 	path = feedstocks/protozfits
 	branch = refs/heads/master
+[submodule "hummingbird-ml"]
+	url = https://github.com/conda-forge/hummingbird-ml-feedstock.git
+	path = feedstocks/hummingbird-ml
+	branch = refs/heads/master
