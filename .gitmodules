@@ -48614,3 +48614,7 @@
 	url = https://github.com/conda-forge/r-spatstat.core-feedstock.git
 	path = feedstocks/r-spatstat.core
 	branch = refs/heads/master
+[submodule "jupyterhub-kubespawner"]
+	url = https://github.com/conda-forge/jupyterhub-kubespawner-feedstock.git
+	path = feedstocks/jupyterhub-kubespawner
+	branch = refs/heads/master
