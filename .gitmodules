@@ -48602,3 +48602,7 @@
 	url = https://github.com/conda-forge/lapack95-feedstock.git
 	path = feedstocks/lapack95
 	branch = refs/heads/master
+[submodule "bargeparse"]
+	url = https://github.com/conda-forge/bargeparse-feedstock.git
+	path = feedstocks/bargeparse
+	branch = refs/heads/master
