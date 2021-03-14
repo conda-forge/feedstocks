@@ -48606,3 +48606,7 @@
 	url = https://github.com/conda-forge/bargeparse-feedstock.git
 	path = feedstocks/bargeparse
 	branch = refs/heads/master
+[submodule "pytest-tldr"]
+	url = https://github.com/conda-forge/pytest-tldr-feedstock.git
+	path = feedstocks/pytest-tldr
+	branch = refs/heads/master
