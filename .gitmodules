@@ -48610,3 +48610,7 @@
 	url = https://github.com/conda-forge/pytest-tldr-feedstock.git
 	path = feedstocks/pytest-tldr
 	branch = refs/heads/master
+[submodule "r-spatstat.core"]
+	url = https://github.com/conda-forge/r-spatstat.core-feedstock.git
+	path = feedstocks/r-spatstat.core
+	branch = refs/heads/master
