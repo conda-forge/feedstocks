@@ -48630,3 +48630,7 @@
 	url = https://github.com/conda-forge/fpdf2-feedstock.git
 	path = feedstocks/fpdf2
 	branch = refs/heads/master
+[submodule "rpaframework-pdf"]
+	url = https://github.com/conda-forge/rpaframework-pdf-feedstock.git
+	path = feedstocks/rpaframework-pdf
+	branch = refs/heads/master
