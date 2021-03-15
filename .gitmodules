@@ -48662,3 +48662,7 @@
 	url = https://github.com/conda-forge/node-gyp-feedstock.git
 	path = feedstocks/node-gyp
 	branch = refs/heads/master
+[submodule "felling"]
+	url = https://github.com/conda-forge/felling-feedstock.git
+	path = feedstocks/felling
+	branch = refs/heads/master
