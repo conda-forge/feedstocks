@@ -48646,3 +48646,7 @@
 	url = https://github.com/conda-forge/webdavclient3-feedstock.git
 	path = feedstocks/webdavclient3
 	branch = refs/heads/master
+[submodule "onnxmltools"]
+	url = https://github.com/conda-forge/onnxmltools-feedstock.git
+	path = feedstocks/onnxmltools
+	branch = refs/heads/master
