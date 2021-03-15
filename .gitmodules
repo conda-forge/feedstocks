@@ -48634,3 +48634,7 @@
 	url = https://github.com/conda-forge/rpaframework-pdf-feedstock.git
 	path = feedstocks/rpaframework-pdf
 	branch = refs/heads/master
+[submodule "openxr-sdk"]
+	url = https://github.com/conda-forge/openxr-sdk-feedstock.git
+	path = feedstocks/openxr-sdk
+	branch = refs/heads/master
