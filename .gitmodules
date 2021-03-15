@@ -48626,3 +48626,7 @@
 	url = https://github.com/conda-forge/roboticstoolbox-python-feedstock.git
 	path = feedstocks/roboticstoolbox-python
 	branch = refs/heads/master
+[submodule "fpdf2"]
+	url = https://github.com/conda-forge/fpdf2-feedstock.git
+	path = feedstocks/fpdf2
+	branch = refs/heads/master
