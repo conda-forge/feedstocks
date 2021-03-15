@@ -48650,3 +48650,7 @@
 	url = https://github.com/conda-forge/onnxmltools-feedstock.git
 	path = feedstocks/onnxmltools
 	branch = refs/heads/master
+[submodule "pywaterml"]
+	url = https://github.com/conda-forge/pywaterml-feedstock.git
+	path = feedstocks/pywaterml
+	branch = refs/heads/master
