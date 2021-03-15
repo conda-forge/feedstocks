@@ -48642,3 +48642,7 @@
 	url = https://github.com/conda-forge/jupyterbook-latex-feedstock.git
 	path = feedstocks/jupyterbook-latex
 	branch = refs/heads/master
+[submodule "webdavclient3"]
+	url = https://github.com/conda-forge/webdavclient3-feedstock.git
+	path = feedstocks/webdavclient3
+	branch = refs/heads/master
