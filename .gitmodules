@@ -48622,3 +48622,7 @@
 	url = https://github.com/conda-forge/r-spatstat.linnet-feedstock.git
 	path = feedstocks/r-spatstat.linnet
 	branch = refs/heads/master
+[submodule "roboticstoolbox-python"]
+	url = https://github.com/conda-forge/roboticstoolbox-python-feedstock.git
+	path = feedstocks/roboticstoolbox-python
+	branch = refs/heads/master
