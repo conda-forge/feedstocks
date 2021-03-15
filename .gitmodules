@@ -48654,3 +48654,7 @@
 	url = https://github.com/conda-forge/pywaterml-feedstock.git
 	path = feedstocks/pywaterml
 	branch = refs/heads/master
+[submodule "yaqd-mqtt"]
+	url = https://github.com/conda-forge/yaqd-mqtt-feedstock.git
+	path = feedstocks/yaqd-mqtt
+	branch = refs/heads/master
