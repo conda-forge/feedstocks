@@ -48658,3 +48658,7 @@
 	url = https://github.com/conda-forge/yaqd-mqtt-feedstock.git
 	path = feedstocks/yaqd-mqtt
 	branch = refs/heads/master
+[submodule "node-gyp"]
+	url = https://github.com/conda-forge/node-gyp-feedstock.git
+	path = feedstocks/node-gyp
+	branch = refs/heads/master
