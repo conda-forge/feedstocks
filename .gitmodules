@@ -48678,3 +48678,7 @@
 	url = https://github.com/conda-forge/analisi-feedstock.git
 	path = feedstocks/analisi
 	branch = refs/heads/master
+[submodule "torchmetrics"]
+	url = https://github.com/conda-forge/torchmetrics-feedstock.git
+	path = feedstocks/torchmetrics
+	branch = refs/heads/master
