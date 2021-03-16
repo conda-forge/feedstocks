@@ -48686,3 +48686,7 @@
 	url = https://github.com/conda-forge/xeus-robot-static-feedstock.git
 	path = feedstocks/xeus-robot-static
 	branch = refs/heads/master
+[submodule "flask-fixtures"]
+	url = https://github.com/conda-forge/flask-fixtures-feedstock.git
+	path = feedstocks/flask-fixtures
+	branch = refs/heads/master
