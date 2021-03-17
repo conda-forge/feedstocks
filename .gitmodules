@@ -48690,3 +48690,7 @@
 	url = https://github.com/conda-forge/flask-fixtures-feedstock.git
 	path = feedstocks/flask-fixtures
 	branch = refs/heads/master
+[submodule "pytest-parallel"]
+	url = https://github.com/conda-forge/pytest-parallel-feedstock.git
+	path = feedstocks/pytest-parallel
+	branch = refs/heads/master
