@@ -48694,3 +48694,7 @@
 	url = https://github.com/conda-forge/pytest-parallel-feedstock.git
 	path = feedstocks/pytest-parallel
 	branch = refs/heads/master
+[submodule "fpm"]
+	url = https://github.com/conda-forge/fpm-feedstock.git
+	path = feedstocks/fpm
+	branch = refs/heads/master
