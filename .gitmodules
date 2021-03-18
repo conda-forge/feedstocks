@@ -48714,3 +48714,7 @@
 	url = https://github.com/conda-forge/cusparselt-feedstock.git
 	path = feedstocks/cusparselt
 	branch = refs/heads/master
+[submodule "geodemo"]
+	url = https://github.com/conda-forge/geodemo-feedstock.git
+	path = feedstocks/geodemo
+	branch = refs/heads/master
