@@ -48710,3 +48710,7 @@
 	url = https://github.com/conda-forge/transfocate-feedstock.git
 	path = feedstocks/transfocate
 	branch = refs/heads/master
+[submodule "cusparselt"]
+	url = https://github.com/conda-forge/cusparselt-feedstock.git
+	path = feedstocks/cusparselt
+	branch = refs/heads/master
