@@ -48726,3 +48726,7 @@
 	url = https://github.com/conda-forge/smac-feedstock.git
 	path = feedstocks/smac
 	branch = refs/heads/master
+[submodule "onednn"]
+	url = https://github.com/conda-forge/onednn-feedstock.git
+	path = feedstocks/onednn
+	branch = refs/heads/master
