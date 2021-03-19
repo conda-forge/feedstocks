@@ -48722,3 +48722,7 @@
 	url = https://github.com/conda-forge/genanki-feedstock.git
 	path = feedstocks/genanki
 	branch = refs/heads/master
+[submodule "smac"]
+	url = https://github.com/conda-forge/smac-feedstock.git
+	path = feedstocks/smac
+	branch = refs/heads/master
