@@ -48750,3 +48750,7 @@
 	url = https://github.com/conda-forge/gandlf-feedstock.git
 	path = feedstocks/gandlf
 	branch = refs/heads/master
+[submodule "pypydispatcher"]
+	url = https://github.com/conda-forge/pypydispatcher-feedstock.git
+	path = feedstocks/pypydispatcher
+	branch = refs/heads/master
