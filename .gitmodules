@@ -48754,3 +48754,7 @@
 	url = https://github.com/conda-forge/pypydispatcher-feedstock.git
 	path = feedstocks/pypydispatcher
 	branch = refs/heads/master
+[submodule "numba_quaternion"]
+	url = https://github.com/conda-forge/numba_quaternion-feedstock.git
+	path = feedstocks/numba_quaternion
+	branch = refs/heads/master
