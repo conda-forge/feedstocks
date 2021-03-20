@@ -48746,3 +48746,7 @@
 	url = https://github.com/conda-forge/ptmcmcsampler-feedstock.git
 	path = feedstocks/ptmcmcsampler
 	branch = refs/heads/master
+[submodule "gandlf"]
+	url = https://github.com/conda-forge/gandlf-feedstock.git
+	path = feedstocks/gandlf
+	branch = refs/heads/master
