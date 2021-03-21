@@ -48818,3 +48818,7 @@
 	url = https://github.com/conda-forge/perl-db_file-feedstock.git
 	path = feedstocks/perl-db_file
 	branch = refs/heads/master
+[submodule "susi"]
+	url = https://github.com/conda-forge/susi-feedstock.git
+	path = feedstocks/susi
+	branch = refs/heads/master
