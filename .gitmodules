@@ -48806,3 +48806,7 @@
 	url = https://github.com/conda-forge/enstat-feedstock.git
 	path = feedstocks/enstat
 	branch = refs/heads/master
+[submodule "cosapp_lab"]
+	url = https://github.com/conda-forge/cosapp_lab-feedstock.git
+	path = feedstocks/cosapp_lab
+	branch = refs/heads/master
