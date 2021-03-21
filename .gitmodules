@@ -48822,3 +48822,7 @@
 	url = https://github.com/conda-forge/susi-feedstock.git
 	path = feedstocks/susi
 	branch = refs/heads/master
+[submodule "grpc_java_plugin"]
+	url = https://github.com/conda-forge/grpc_java_plugin-feedstock.git
+	path = feedstocks/grpc_java_plugin
+	branch = refs/heads/master
