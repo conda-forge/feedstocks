@@ -48762,3 +48762,7 @@
 	url = https://github.com/conda-forge/libignition-sensors-feedstock.git
 	path = feedstocks/libignition-sensors
 	branch = refs/heads/master
+[submodule "libignition-gui"]
+	url = https://github.com/conda-forge/libignition-gui-feedstock.git
+	path = feedstocks/libignition-gui
+	branch = refs/heads/master
