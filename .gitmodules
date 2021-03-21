@@ -48810,3 +48810,7 @@
 	url = https://github.com/conda-forge/cosapp_lab-feedstock.git
 	path = feedstocks/cosapp_lab
 	branch = refs/heads/master
+[submodule "standardebooks"]
+	url = https://github.com/conda-forge/standardebooks-feedstock.git
+	path = feedstocks/standardebooks
+	branch = refs/heads/master
