@@ -48814,3 +48814,7 @@
 	url = https://github.com/conda-forge/standardebooks-feedstock.git
 	path = feedstocks/standardebooks
 	branch = refs/heads/master
+[submodule "perl-db_file"]
+	url = https://github.com/conda-forge/perl-db_file-feedstock.git
+	path = feedstocks/perl-db_file
+	branch = refs/heads/master
