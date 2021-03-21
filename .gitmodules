@@ -48766,3 +48766,7 @@
 	url = https://github.com/conda-forge/libignition-gui-feedstock.git
 	path = feedstocks/libignition-gui
 	branch = refs/heads/master
+[submodule "r-transformr"]
+	url = https://github.com/conda-forge/r-transformr-feedstock.git
+	path = feedstocks/r-transformr
+	branch = refs/heads/master
