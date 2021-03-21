@@ -48802,3 +48802,7 @@
 	url = https://github.com/conda-forge/openscienceplot_matplotlib-feedstock.git
 	path = feedstocks/openscienceplot_matplotlib
 	branch = refs/heads/master
+[submodule "enstat"]
+	url = https://github.com/conda-forge/enstat-feedstock.git
+	path = feedstocks/enstat
+	branch = refs/heads/master
