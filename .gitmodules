@@ -48826,3 +48826,7 @@
 	url = https://github.com/conda-forge/grpc_java_plugin-feedstock.git
 	path = feedstocks/grpc_java_plugin
 	branch = refs/heads/master
+[submodule "vadersentiment"]
+	url = https://github.com/conda-forge/vadersentiment-feedstock.git
+	path = feedstocks/vadersentiment
+	branch = refs/heads/master
