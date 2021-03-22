@@ -48830,3 +48830,7 @@
 	url = https://github.com/conda-forge/vadersentiment-feedstock.git
 	path = feedstocks/vadersentiment
 	branch = refs/heads/master
+[submodule "r-maxnet"]
+	url = https://github.com/conda-forge/r-maxnet-feedstock.git
+	path = feedstocks/r-maxnet
+	branch = refs/heads/master
