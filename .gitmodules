@@ -48838,3 +48838,7 @@
 	url = https://github.com/conda-forge/r-rworldxtra-feedstock.git
 	path = feedstocks/r-rworldxtra
 	branch = refs/heads/master
+[submodule "r-rworldmap"]
+	url = https://github.com/conda-forge/r-rworldmap-feedstock.git
+	path = feedstocks/r-rworldmap
+	branch = refs/heads/master
