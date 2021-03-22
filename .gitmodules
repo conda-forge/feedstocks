@@ -48878,3 +48878,7 @@
 	url = https://github.com/conda-forge/jupyterlab-katex-feedstock.git
 	path = feedstocks/jupyterlab-katex
 	branch = refs/heads/master
+[submodule "jupyterlab-geojson"]
+	url = https://github.com/conda-forge/jupyterlab-geojson-feedstock.git
+	path = feedstocks/jupyterlab-geojson
+	branch = refs/heads/master
