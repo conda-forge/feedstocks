@@ -48882,3 +48882,7 @@
 	url = https://github.com/conda-forge/jupyterlab-geojson-feedstock.git
 	path = feedstocks/jupyterlab-geojson
 	branch = refs/heads/master
+[submodule "jupyterlab-vega2"]
+	url = https://github.com/conda-forge/jupyterlab-vega2-feedstock.git
+	path = feedstocks/jupyterlab-vega2
+	branch = refs/heads/master
