@@ -48850,3 +48850,7 @@
 	url = https://github.com/conda-forge/r-enmeval-feedstock.git
 	path = feedstocks/r-enmeval
 	branch = refs/heads/master
+[submodule "r-tripack"]
+	url = https://github.com/conda-forge/r-tripack-feedstock.git
+	path = feedstocks/r-tripack
+	branch = refs/heads/master
