@@ -48874,3 +48874,7 @@
 	url = https://github.com/conda-forge/r-alphahull-feedstock.git
 	path = feedstocks/r-alphahull
 	branch = refs/heads/master
+[submodule "jupyterlab-katex"]
+	url = https://github.com/conda-forge/jupyterlab-katex-feedstock.git
+	path = feedstocks/jupyterlab-katex
+	branch = refs/heads/master
