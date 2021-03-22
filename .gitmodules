@@ -48854,3 +48854,7 @@
 	url = https://github.com/conda-forge/r-tripack-feedstock.git
 	path = feedstocks/r-tripack
 	branch = refs/heads/master
+[submodule "libgraphene"]
+	url = https://github.com/conda-forge/libgraphene-feedstock.git
+	path = feedstocks/libgraphene
+	branch = refs/heads/master
