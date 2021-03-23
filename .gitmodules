@@ -48918,3 +48918,7 @@
 	url = https://github.com/conda-forge/asr-feedstock.git
 	path = feedstocks/asr
 	branch = refs/heads/master
+[submodule "compas_view2"]
+	url = https://github.com/conda-forge/compas_view2-feedstock.git
+	path = feedstocks/compas_view2
+	branch = refs/heads/master
