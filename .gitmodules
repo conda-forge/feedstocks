@@ -48926,3 +48926,7 @@
 	url = https://github.com/conda-forge/r-biomod2-feedstock.git
 	path = feedstocks/r-biomod2
 	branch = refs/heads/master
+[submodule "jupyterlab-mathjax3"]
+	url = https://github.com/conda-forge/jupyterlab-mathjax3-feedstock.git
+	path = feedstocks/jupyterlab-mathjax3
+	branch = refs/heads/master
