@@ -48938,3 +48938,7 @@
 	url = https://github.com/conda-forge/ccc-feedstock.git
 	path = feedstocks/ccc
 	branch = refs/heads/master
+[submodule "mygeopackage"]
+	url = https://github.com/conda-forge/mygeopackage-feedstock.git
+	path = feedstocks/mygeopackage
+	branch = refs/heads/master
