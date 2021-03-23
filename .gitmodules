@@ -48894,3 +48894,7 @@
 	url = https://github.com/conda-forge/jupyterlab-vega3-feedstock.git
 	path = feedstocks/jupyterlab-vega3
 	branch = refs/heads/master
+[submodule "asgi-csrf"]
+	url = https://github.com/conda-forge/asgi-csrf-feedstock.git
+	path = feedstocks/asgi-csrf
+	branch = refs/heads/master
