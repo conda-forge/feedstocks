@@ -48906,3 +48906,7 @@
 	url = https://github.com/conda-forge/dask-ctl-feedstock.git
 	path = feedstocks/dask-ctl
 	branch = refs/heads/master
+[submodule "topicmapping"]
+	url = https://github.com/conda-forge/topicmapping-feedstock.git
+	path = feedstocks/topicmapping
+	branch = refs/heads/master
