@@ -48950,3 +48950,7 @@
 	url = https://github.com/conda-forge/flametree-feedstock.git
 	path = feedstocks/flametree
 	branch = refs/heads/master
+[submodule "libignition-gazebo"]
+	url = https://github.com/conda-forge/libignition-gazebo-feedstock.git
+	path = feedstocks/libignition-gazebo
+	branch = refs/heads/master
