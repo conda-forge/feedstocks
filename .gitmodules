@@ -48942,3 +48942,7 @@
 	url = https://github.com/conda-forge/mygeopackage-feedstock.git
 	path = feedstocks/mygeopackage
 	branch = refs/heads/master
+[submodule "r-ecospat"]
+	url = https://github.com/conda-forge/r-ecospat-feedstock.git
+	path = feedstocks/r-ecospat
+	branch = refs/heads/master
