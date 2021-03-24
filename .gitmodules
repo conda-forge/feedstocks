@@ -48958,3 +48958,7 @@
 	url = https://github.com/conda-forge/jupyterlab-favorites-feedstock.git
 	path = feedstocks/jupyterlab-favorites
 	branch = refs/heads/master
+[submodule "pycuda"]
+	url = https://github.com/conda-forge/pycuda-feedstock.git
+	path = feedstocks/pycuda
+	branch = refs/heads/master
