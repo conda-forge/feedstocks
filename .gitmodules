@@ -48970,3 +48970,7 @@
 	url = https://github.com/conda-forge/hagerstrand-feedstock.git
 	path = feedstocks/hagerstrand
 	branch = refs/heads/master
+[submodule "yaqd-scpi"]
+	url = https://github.com/conda-forge/yaqd-scpi-feedstock.git
+	path = feedstocks/yaqd-scpi
+	branch = refs/heads/master
