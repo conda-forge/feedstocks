@@ -48954,3 +48954,7 @@
 	url = https://github.com/conda-forge/libignition-gazebo-feedstock.git
 	path = feedstocks/libignition-gazebo
 	branch = refs/heads/master
+[submodule "jupyterlab-favorites"]
+	url = https://github.com/conda-forge/jupyterlab-favorites-feedstock.git
+	path = feedstocks/jupyterlab-favorites
+	branch = refs/heads/master
