@@ -48946,3 +48946,7 @@
 	url = https://github.com/conda-forge/r-ecospat-feedstock.git
 	path = feedstocks/r-ecospat
 	branch = refs/heads/master
+[submodule "flametree"]
+	url = https://github.com/conda-forge/flametree-feedstock.git
+	path = feedstocks/flametree
+	branch = refs/heads/master
