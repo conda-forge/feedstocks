@@ -48990,3 +48990,7 @@
 	url = https://github.com/conda-forge/chex-feedstock.git
 	path = feedstocks/chex
 	branch = refs/heads/master
+[submodule "mrs_denoising_tools"]
+	url = https://github.com/conda-forge/mrs_denoising_tools-feedstock.git
+	path = feedstocks/mrs_denoising_tools
+	branch = refs/heads/master
