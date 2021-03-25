@@ -48982,3 +48982,7 @@
 	url = https://github.com/conda-forge/r-workflowsets-feedstock.git
 	path = feedstocks/r-workflowsets
 	branch = refs/heads/master
+[submodule "fast3tree"]
+	url = https://github.com/conda-forge/fast3tree-feedstock.git
+	path = feedstocks/fast3tree
+	branch = refs/heads/master
