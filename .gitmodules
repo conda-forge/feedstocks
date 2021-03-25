@@ -48978,3 +48978,7 @@
 	url = https://github.com/conda-forge/pyzstd-feedstock.git
 	path = feedstocks/pyzstd
 	branch = refs/heads/master
+[submodule "r-workflowsets"]
+	url = https://github.com/conda-forge/r-workflowsets-feedstock.git
+	path = feedstocks/r-workflowsets
+	branch = refs/heads/master
