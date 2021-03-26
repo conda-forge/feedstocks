@@ -49006,3 +49006,7 @@
 	url = https://github.com/conda-forge/dask-geopandas-feedstock.git
 	path = feedstocks/dask-geopandas
 	branch = refs/heads/master
+[submodule "python-mint"]
+	url = https://github.com/conda-forge/python-mint-feedstock.git
+	path = feedstocks/python-mint
+	branch = refs/heads/master
