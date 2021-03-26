@@ -49002,3 +49002,7 @@
 	url = https://github.com/conda-forge/labelfusion-feedstock.git
 	path = feedstocks/labelfusion
 	branch = refs/heads/master
+[submodule "dask-geopandas"]
+	url = https://github.com/conda-forge/dask-geopandas-feedstock.git
+	path = feedstocks/dask-geopandas
+	branch = refs/heads/master
