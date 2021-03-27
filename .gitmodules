@@ -49010,3 +49010,7 @@
 	url = https://github.com/conda-forge/python-mint-feedstock.git
 	path = feedstocks/python-mint
 	branch = refs/heads/master
+[submodule "telnyx"]
+	url = https://github.com/conda-forge/telnyx-feedstock.git
+	path = feedstocks/telnyx
+	branch = refs/heads/master
