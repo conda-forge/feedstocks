@@ -49018,3 +49018,7 @@
 	url = https://github.com/conda-forge/zenodo_get-feedstock.git
 	path = feedstocks/zenodo_get
 	branch = refs/heads/master
+[submodule "libignition-launch"]
+	url = https://github.com/conda-forge/libignition-launch-feedstock.git
+	path = feedstocks/libignition-launch
+	branch = refs/heads/master
