@@ -49022,3 +49022,7 @@
 	url = https://github.com/conda-forge/libignition-launch-feedstock.git
 	path = feedstocks/libignition-launch
 	branch = refs/heads/master
+[submodule "cppadcodegen"]
+	url = https://github.com/conda-forge/cppadcodegen-feedstock.git
+	path = feedstocks/cppadcodegen
+	branch = refs/heads/master
