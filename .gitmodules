@@ -49038,3 +49038,7 @@
 	url = https://github.com/conda-forge/gmpyinfr_amqp-feedstock.git
 	path = feedstocks/gmpyinfr_amqp
 	branch = refs/heads/master
+[submodule "rdp"]
+	url = https://github.com/conda-forge/rdp-feedstock.git
+	path = feedstocks/rdp
+	branch = refs/heads/master
