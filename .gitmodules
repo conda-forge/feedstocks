@@ -49054,3 +49054,7 @@
 	url = https://github.com/conda-forge/prefixed-feedstock.git
 	path = feedstocks/prefixed
 	branch = refs/heads/master
+[submodule "darkdetect"]
+	url = https://github.com/conda-forge/darkdetect-feedstock.git
+	path = feedstocks/darkdetect
+	branch = refs/heads/master
