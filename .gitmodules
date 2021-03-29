@@ -49026,3 +49026,7 @@
 	url = https://github.com/conda-forge/cppadcodegen-feedstock.git
 	path = feedstocks/cppadcodegen
 	branch = refs/heads/master
+[submodule "intel-opencl-clang"]
+	url = https://github.com/conda-forge/intel-opencl-clang-feedstock.git
+	path = feedstocks/intel-opencl-clang
+	branch = refs/heads/master
