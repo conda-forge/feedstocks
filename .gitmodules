@@ -49058,3 +49058,7 @@
 	url = https://github.com/conda-forge/darkdetect-feedstock.git
 	path = feedstocks/darkdetect
 	branch = refs/heads/master
+[submodule "mallet"]
+	url = https://github.com/conda-forge/mallet-feedstock.git
+	path = feedstocks/mallet
+	branch = refs/heads/master
