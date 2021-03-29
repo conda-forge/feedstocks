@@ -49050,3 +49050,7 @@
 	url = https://github.com/conda-forge/gmpyinfr_dbutils-feedstock.git
 	path = feedstocks/gmpyinfr_dbutils
 	branch = refs/heads/master
+[submodule "prefixed"]
+	url = https://github.com/conda-forge/prefixed-feedstock.git
+	path = feedstocks/prefixed
+	branch = refs/heads/master
