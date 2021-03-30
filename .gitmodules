@@ -49102,3 +49102,7 @@
 	url = https://github.com/conda-forge/mofchecker-feedstock.git
 	path = feedstocks/mofchecker
 	branch = refs/heads/master
+[submodule "deepmerge"]
+	url = https://github.com/conda-forge/deepmerge-feedstock.git
+	path = feedstocks/deepmerge
+	branch = refs/heads/master
