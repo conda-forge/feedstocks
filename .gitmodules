@@ -49082,3 +49082,7 @@
 	url = https://github.com/conda-forge/glidertools-feedstock.git
 	path = feedstocks/glidertools
 	branch = refs/heads/master
+[submodule "metomi-rose"]
+	url = https://github.com/conda-forge/metomi-rose-feedstock.git
+	path = feedstocks/metomi-rose
+	branch = refs/heads/master
