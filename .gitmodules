@@ -49098,3 +49098,7 @@
 	url = https://github.com/conda-forge/scikit-spatial-feedstock.git
 	path = feedstocks/scikit-spatial
 	branch = refs/heads/master
+[submodule "mofchecker"]
+	url = https://github.com/conda-forge/mofchecker-feedstock.git
+	path = feedstocks/mofchecker
+	branch = refs/heads/master
