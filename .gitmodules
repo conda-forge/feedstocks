@@ -49078,3 +49078,7 @@
 	url = https://github.com/conda-forge/jupyter-starters-feedstock.git
 	path = feedstocks/jupyter-starters
 	branch = refs/heads/master
+[submodule "glidertools"]
+	url = https://github.com/conda-forge/glidertools-feedstock.git
+	path = feedstocks/glidertools
+	branch = refs/heads/master
