@@ -49066,3 +49066,7 @@
 	url = https://github.com/conda-forge/meld-feedstock.git
 	path = feedstocks/meld
 	branch = refs/heads/master
+[submodule "apache-ant"]
+	url = https://github.com/conda-forge/apache-ant-feedstock.git
+	path = feedstocks/apache-ant
+	branch = refs/heads/master
