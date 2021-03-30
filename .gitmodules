@@ -49086,3 +49086,7 @@
 	url = https://github.com/conda-forge/metomi-rose-feedstock.git
 	path = feedstocks/metomi-rose
 	branch = refs/heads/master
+[submodule "rosegeomap"]
+	url = https://github.com/conda-forge/rosegeomap-feedstock.git
+	path = feedstocks/rosegeomap
+	branch = refs/heads/master
