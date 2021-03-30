@@ -49106,3 +49106,7 @@
 	url = https://github.com/conda-forge/deepmerge-feedstock.git
 	path = feedstocks/deepmerge
 	branch = refs/heads/master
+[submodule "pygments-lexer-solidity"]
+	url = https://github.com/conda-forge/pygments-lexer-solidity-feedstock.git
+	path = feedstocks/pygments-lexer-solidity
+	branch = refs/heads/master
