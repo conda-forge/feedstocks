@@ -49070,3 +49070,7 @@
 	url = https://github.com/conda-forge/apache-ant-feedstock.git
 	path = feedstocks/apache-ant
 	branch = refs/heads/master
+[submodule "optax"]
+	url = https://github.com/conda-forge/optax-feedstock.git
+	path = feedstocks/optax
+	branch = refs/heads/master
