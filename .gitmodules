@@ -49074,3 +49074,7 @@
 	url = https://github.com/conda-forge/optax-feedstock.git
 	path = feedstocks/optax
 	branch = refs/heads/master
+[submodule "jupyter-starters"]
+	url = https://github.com/conda-forge/jupyter-starters-feedstock.git
+	path = feedstocks/jupyter-starters
+	branch = refs/heads/master
