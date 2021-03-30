@@ -49094,3 +49094,7 @@
 	url = https://github.com/conda-forge/nclpy-feedstock.git
 	path = feedstocks/nclpy
 	branch = refs/heads/master
+[submodule "scikit-spatial"]
+	url = https://github.com/conda-forge/scikit-spatial-feedstock.git
+	path = feedstocks/scikit-spatial
+	branch = refs/heads/master
