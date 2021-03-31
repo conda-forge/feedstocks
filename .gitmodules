@@ -49142,3 +49142,7 @@
 	url = https://github.com/conda-forge/flax-feedstock.git
 	path = feedstocks/flax
 	branch = refs/heads/master
+[submodule "mythx-models"]
+	url = https://github.com/conda-forge/mythx-models-feedstock.git
+	path = feedstocks/mythx-models
+	branch = refs/heads/master
