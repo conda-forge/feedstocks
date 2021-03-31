@@ -49122,3 +49122,7 @@
 	url = https://github.com/conda-forge/lumispy-feedstock.git
 	path = feedstocks/lumispy
 	branch = refs/heads/master
+[submodule "statannot"]
+	url = https://github.com/conda-forge/statannot-feedstock.git
+	path = feedstocks/statannot
+	branch = refs/heads/master
