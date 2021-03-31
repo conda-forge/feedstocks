@@ -49130,3 +49130,7 @@
 	url = https://github.com/conda-forge/qstylizer-feedstock.git
 	path = feedstocks/qstylizer
 	branch = refs/heads/master
+[submodule "pymde"]
+	url = https://github.com/conda-forge/pymde-feedstock.git
+	path = feedstocks/pymde
+	branch = refs/heads/master
