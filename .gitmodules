@@ -49114,3 +49114,7 @@
 	url = https://github.com/conda-forge/injector-feedstock.git
 	path = feedstocks/injector
 	branch = refs/heads/master
+[submodule "pyomnisci"]
+	url = https://github.com/conda-forge/pyomnisci-feedstock.git
+	path = feedstocks/pyomnisci
+	branch = refs/heads/master
