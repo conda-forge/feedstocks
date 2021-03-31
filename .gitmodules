@@ -49110,3 +49110,7 @@
 	url = https://github.com/conda-forge/pygments-lexer-solidity-feedstock.git
 	path = feedstocks/pygments-lexer-solidity
 	branch = refs/heads/master
+[submodule "injector"]
+	url = https://github.com/conda-forge/injector-feedstock.git
+	path = feedstocks/injector
+	branch = refs/heads/master
