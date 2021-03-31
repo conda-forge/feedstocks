@@ -49118,3 +49118,7 @@
 	url = https://github.com/conda-forge/pyomnisci-feedstock.git
 	path = feedstocks/pyomnisci
 	branch = refs/heads/master
+[submodule "lumispy"]
+	url = https://github.com/conda-forge/lumispy-feedstock.git
+	path = feedstocks/lumispy
+	branch = refs/heads/master
