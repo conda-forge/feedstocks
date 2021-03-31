@@ -49126,3 +49126,7 @@
 	url = https://github.com/conda-forge/statannot-feedstock.git
 	path = feedstocks/statannot
 	branch = refs/heads/master
+[submodule "qstylizer"]
+	url = https://github.com/conda-forge/qstylizer-feedstock.git
+	path = feedstocks/qstylizer
+	branch = refs/heads/master
