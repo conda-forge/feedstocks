@@ -49158,3 +49158,7 @@
 	url = https://github.com/conda-forge/cfg-feedstock.git
 	path = feedstocks/cfg
 	branch = refs/heads/master
+[submodule "r-rstac"]
+	url = https://github.com/conda-forge/r-rstac-feedstock.git
+	path = feedstocks/r-rstac
+	branch = refs/heads/master
