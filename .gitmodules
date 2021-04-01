@@ -49162,3 +49162,7 @@
 	url = https://github.com/conda-forge/r-rstac-feedstock.git
 	path = feedstocks/r-rstac
 	branch = refs/heads/master
+[submodule "docs-versions-menu"]
+	url = https://github.com/conda-forge/docs-versions-menu-feedstock.git
+	path = feedstocks/docs-versions-menu
+	branch = refs/heads/master
