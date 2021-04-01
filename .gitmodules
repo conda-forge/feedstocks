@@ -49166,3 +49166,7 @@
 	url = https://github.com/conda-forge/docs-versions-menu-feedstock.git
 	path = feedstocks/docs-versions-menu
 	branch = refs/heads/master
+[submodule "flask-injector"]
+	url = https://github.com/conda-forge/flask-injector-feedstock.git
+	path = feedstocks/flask-injector
+	branch = refs/heads/master
