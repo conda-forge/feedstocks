@@ -49190,3 +49190,7 @@
 	url = https://github.com/conda-forge/portpicker-feedstock.git
 	path = feedstocks/portpicker
 	branch = refs/heads/master
+[submodule "mt-metadata"]
+	url = https://github.com/conda-forge/mt-metadata-feedstock.git
+	path = feedstocks/mt-metadata
+	branch = refs/heads/master
