@@ -49174,3 +49174,7 @@
 	url = https://github.com/conda-forge/esmvalcore-feedstock.git
 	path = feedstocks/esmvalcore
 	branch = refs/heads/master
+[submodule "kernel_driver"]
+	url = https://github.com/conda-forge/kernel_driver-feedstock.git
+	path = feedstocks/kernel_driver
+	branch = refs/heads/master
