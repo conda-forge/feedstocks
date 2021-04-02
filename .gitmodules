@@ -49178,3 +49178,7 @@
 	url = https://github.com/conda-forge/kernel_driver-feedstock.git
 	path = feedstocks/kernel_driver
 	branch = refs/heads/master
+[submodule "json-lsp"]
+	url = https://github.com/conda-forge/json-lsp-feedstock.git
+	path = feedstocks/json-lsp
+	branch = refs/heads/master
