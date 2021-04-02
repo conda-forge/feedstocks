@@ -49186,3 +49186,7 @@
 	url = https://github.com/conda-forge/yaml-lsp-feedstock.git
 	path = feedstocks/yaml-lsp
 	branch = refs/heads/master
+[submodule "portpicker"]
+	url = https://github.com/conda-forge/portpicker-feedstock.git
+	path = feedstocks/portpicker
+	branch = refs/heads/master
