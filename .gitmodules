@@ -49182,3 +49182,7 @@
 	url = https://github.com/conda-forge/json-lsp-feedstock.git
 	path = feedstocks/json-lsp
 	branch = refs/heads/master
+[submodule "yaml-lsp"]
+	url = https://github.com/conda-forge/yaml-lsp-feedstock.git
+	path = feedstocks/yaml-lsp
+	branch = refs/heads/master
