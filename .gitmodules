@@ -49198,3 +49198,7 @@
 	url = https://github.com/conda-forge/eodag-feedstock.git
 	path = feedstocks/eodag
 	branch = refs/heads/master
+[submodule "pidcalib2"]
+	url = https://github.com/conda-forge/pidcalib2-feedstock.git
+	path = feedstocks/pidcalib2
+	branch = refs/heads/master
