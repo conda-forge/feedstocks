@@ -49194,3 +49194,7 @@
 	url = https://github.com/conda-forge/mt-metadata-feedstock.git
 	path = feedstocks/mt-metadata
 	branch = refs/heads/master
+[submodule "eodag"]
+	url = https://github.com/conda-forge/eodag-feedstock.git
+	path = feedstocks/eodag
+	branch = refs/heads/master
