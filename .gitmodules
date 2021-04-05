@@ -49218,3 +49218,7 @@
 	url = https://github.com/conda-forge/cylc-rose-feedstock.git
 	path = feedstocks/cylc-rose
 	branch = refs/heads/master
+[submodule "icecream"]
+	url = https://github.com/conda-forge/icecream-feedstock.git
+	path = feedstocks/icecream
+	branch = refs/heads/master
