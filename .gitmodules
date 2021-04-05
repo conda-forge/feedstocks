@@ -49210,3 +49210,7 @@
 	url = https://github.com/conda-forge/lexid-feedstock.git
 	path = feedstocks/lexid
 	branch = refs/heads/master
+[submodule "auto-sklearn"]
+	url = https://github.com/conda-forge/auto-sklearn-feedstock.git
+	path = feedstocks/auto-sklearn
+	branch = refs/heads/master
