@@ -49278,3 +49278,7 @@
 	url = https://github.com/conda-forge/bumpver-feedstock.git
 	path = feedstocks/bumpver
 	branch = refs/heads/master
+[submodule "simplecrop"]
+	url = https://github.com/conda-forge/simplecrop-feedstock.git
+	path = feedstocks/simplecrop
+	branch = refs/heads/master
