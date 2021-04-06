@@ -49234,3 +49234,7 @@
 	url = https://github.com/conda-forge/versioneer-518-feedstock.git
 	path = feedstocks/versioneer-518
 	branch = refs/heads/master
+[submodule "ncagg"]
+	url = https://github.com/conda-forge/ncagg-feedstock.git
+	path = feedstocks/ncagg
+	branch = refs/heads/master
