@@ -49242,3 +49242,7 @@
 	url = https://github.com/conda-forge/gremlinpython-feedstock.git
 	path = feedstocks/gremlinpython
 	branch = refs/heads/master
+[submodule "redisgraph-py"]
+	url = https://github.com/conda-forge/redisgraph-py-feedstock.git
+	path = feedstocks/redisgraph-py
+	branch = refs/heads/master
