@@ -49266,3 +49266,7 @@
 	url = https://github.com/conda-forge/mi-cpptest-feedstock.git
 	path = feedstocks/mi-cpptest
 	branch = refs/heads/master
+[submodule "pao"]
+	url = https://github.com/conda-forge/pao-feedstock.git
+	path = feedstocks/pao
+	branch = refs/heads/master
