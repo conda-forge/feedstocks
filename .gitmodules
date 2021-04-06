@@ -49282,3 +49282,7 @@
 	url = https://github.com/conda-forge/simplecrop-feedstock.git
 	path = feedstocks/simplecrop
 	branch = refs/heads/master
+[submodule "asgi-lifespan"]
+	url = https://github.com/conda-forge/asgi-lifespan-feedstock.git
+	path = feedstocks/asgi-lifespan
+	branch = refs/heads/master
