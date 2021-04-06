@@ -49246,3 +49246,7 @@
 	url = https://github.com/conda-forge/redisgraph-py-feedstock.git
 	path = feedstocks/redisgraph-py
 	branch = refs/heads/master
+[submodule "file-tree"]
+	url = https://github.com/conda-forge/file-tree-feedstock.git
+	path = feedstocks/file-tree
+	branch = refs/heads/master
