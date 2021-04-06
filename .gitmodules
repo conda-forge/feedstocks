@@ -49274,3 +49274,7 @@
 	url = https://github.com/conda-forge/dfba-feedstock.git
 	path = feedstocks/dfba
 	branch = refs/heads/master
+[submodule "bumpver"]
+	url = https://github.com/conda-forge/bumpver-feedstock.git
+	path = feedstocks/bumpver
+	branch = refs/heads/master
