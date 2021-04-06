@@ -49262,3 +49262,7 @@
 	url = https://github.com/conda-forge/mi-programoptions-feedstock.git
 	path = feedstocks/mi-programoptions
 	branch = refs/heads/master
+[submodule "mi-cpptest"]
+	url = https://github.com/conda-forge/mi-cpptest-feedstock.git
+	path = feedstocks/mi-cpptest
+	branch = refs/heads/master
