@@ -49294,3 +49294,7 @@
 	url = https://github.com/conda-forge/snowflake-ingest-feedstock.git
 	path = feedstocks/snowflake-ingest
 	branch = refs/heads/master
+[submodule "frv"]
+	url = https://github.com/conda-forge/frv-feedstock.git
+	path = feedstocks/frv
+	branch = refs/heads/master
