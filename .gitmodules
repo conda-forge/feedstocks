@@ -49290,3 +49290,7 @@
 	url = https://github.com/conda-forge/mplhep_data-feedstock.git
 	path = feedstocks/mplhep_data
 	branch = refs/heads/master
+[submodule "snowflake-ingest"]
+	url = https://github.com/conda-forge/snowflake-ingest-feedstock.git
+	path = feedstocks/snowflake-ingest
+	branch = refs/heads/master
