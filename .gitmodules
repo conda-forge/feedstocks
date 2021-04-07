@@ -49306,3 +49306,7 @@
 	url = https://github.com/conda-forge/datamol-feedstock.git
 	path = feedstocks/datamol
 	branch = refs/heads/master
+[submodule "jupyter-containds"]
+	url = https://github.com/conda-forge/jupyter-containds-feedstock.git
+	path = feedstocks/jupyter-containds
+	branch = refs/heads/master
