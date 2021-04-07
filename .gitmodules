@@ -49298,3 +49298,7 @@
 	url = https://github.com/conda-forge/frv-feedstock.git
 	path = feedstocks/frv
 	branch = refs/heads/master
+[submodule "jupyterlab-variableinspector"]
+	url = https://github.com/conda-forge/jupyterlab-variableinspector-feedstock.git
+	path = feedstocks/jupyterlab-variableinspector
+	branch = refs/heads/master
