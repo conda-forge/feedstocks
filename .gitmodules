@@ -49346,3 +49346,7 @@
 	url = https://github.com/conda-forge/ncflag-feedstock.git
 	path = feedstocks/ncflag
 	branch = refs/heads/master
+[submodule "scikit-learn-intelex"]
+	url = https://github.com/conda-forge/scikit-learn-intelex-feedstock.git
+	path = feedstocks/scikit-learn-intelex
+	branch = refs/heads/master
