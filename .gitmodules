@@ -49318,3 +49318,7 @@
 	url = https://github.com/conda-forge/cite-feedstock.git
 	path = feedstocks/cite
 	branch = refs/heads/master
+[submodule "jupyter-server-mathjax"]
+	url = https://github.com/conda-forge/jupyter-server-mathjax-feedstock.git
+	path = feedstocks/jupyter-server-mathjax
+	branch = refs/heads/master
