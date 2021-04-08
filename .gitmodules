@@ -49326,3 +49326,7 @@
 	url = https://github.com/conda-forge/pyflashtext-feedstock.git
 	path = feedstocks/pyflashtext
 	branch = refs/heads/master
+[submodule "pytest-pycodestyle"]
+	url = https://github.com/conda-forge/pytest-pycodestyle-feedstock.git
+	path = feedstocks/pytest-pycodestyle
+	branch = refs/heads/master
