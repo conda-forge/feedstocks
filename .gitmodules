@@ -49342,3 +49342,7 @@
 	url = https://github.com/conda-forge/baikal-feedstock.git
 	path = feedstocks/baikal
 	branch = refs/heads/master
+[submodule "ncflag"]
+	url = https://github.com/conda-forge/ncflag-feedstock.git
+	path = feedstocks/ncflag
+	branch = refs/heads/master
