@@ -49334,3 +49334,7 @@
 	url = https://github.com/conda-forge/qscreencast-feedstock.git
 	path = feedstocks/qscreencast
 	branch = refs/heads/master
+[submodule "gemgis"]
+	url = https://github.com/conda-forge/gemgis-feedstock.git
+	path = feedstocks/gemgis
+	branch = refs/heads/master
