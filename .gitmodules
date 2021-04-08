@@ -49322,3 +49322,7 @@
 	url = https://github.com/conda-forge/jupyter-server-mathjax-feedstock.git
 	path = feedstocks/jupyter-server-mathjax
 	branch = refs/heads/master
+[submodule "pyflashtext"]
+	url = https://github.com/conda-forge/pyflashtext-feedstock.git
+	path = feedstocks/pyflashtext
+	branch = refs/heads/master
