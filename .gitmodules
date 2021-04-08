@@ -49338,3 +49338,7 @@
 	url = https://github.com/conda-forge/gemgis-feedstock.git
 	path = feedstocks/gemgis
 	branch = refs/heads/master
+[submodule "baikal"]
+	url = https://github.com/conda-forge/baikal-feedstock.git
+	path = feedstocks/baikal
+	branch = refs/heads/master
