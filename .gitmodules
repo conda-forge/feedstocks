@@ -49354,3 +49354,7 @@
 	url = https://github.com/conda-forge/python-designateclient-feedstock.git
 	path = feedstocks/python-designateclient
 	branch = refs/heads/master
+[submodule "littlemcmc"]
+	url = https://github.com/conda-forge/littlemcmc-feedstock.git
+	path = feedstocks/littlemcmc
+	branch = refs/heads/master
