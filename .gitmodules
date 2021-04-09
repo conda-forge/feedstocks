@@ -49370,3 +49370,7 @@
 	url = https://github.com/conda-forge/oasis-feedstock.git
 	path = feedstocks/oasis
 	branch = refs/heads/master
+[submodule "bed-reader"]
+	url = https://github.com/conda-forge/bed-reader-feedstock.git
+	path = feedstocks/bed-reader
+	branch = refs/heads/master
