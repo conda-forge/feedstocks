@@ -49386,3 +49386,7 @@
 	url = https://github.com/conda-forge/msal_requests_auth-feedstock.git
 	path = feedstocks/msal_requests_auth
 	branch = refs/heads/master
+[submodule "flask-multipass"]
+	url = https://github.com/conda-forge/flask-multipass-feedstock.git
+	path = feedstocks/flask-multipass
+	branch = refs/heads/master
