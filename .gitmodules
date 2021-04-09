@@ -49402,3 +49402,7 @@
 	url = https://github.com/conda-forge/cmlgenerator-feedstock.git
 	path = feedstocks/cmlgenerator
 	branch = refs/heads/master
+[submodule "rsconnect-python"]
+	url = https://github.com/conda-forge/rsconnect-python-feedstock.git
+	path = feedstocks/rsconnect-python
+	branch = refs/heads/master
