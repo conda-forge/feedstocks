@@ -49366,3 +49366,7 @@
 	url = https://github.com/conda-forge/pydaily-feedstock.git
 	path = feedstocks/pydaily
 	branch = refs/heads/master
+[submodule "oasis"]
+	url = https://github.com/conda-forge/oasis-feedstock.git
+	path = feedstocks/oasis
+	branch = refs/heads/master
