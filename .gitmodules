@@ -49374,3 +49374,7 @@
 	url = https://github.com/conda-forge/bed-reader-feedstock.git
 	path = feedstocks/bed-reader
 	branch = refs/heads/master
+[submodule "asf_search"]
+	url = https://github.com/conda-forge/asf_search-feedstock.git
+	path = feedstocks/asf_search
+	branch = refs/heads/master
