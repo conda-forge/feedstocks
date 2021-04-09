@@ -49390,3 +49390,7 @@
 	url = https://github.com/conda-forge/flask-multipass-feedstock.git
 	path = feedstocks/flask-multipass
 	branch = refs/heads/master
+[submodule "compas_slicer"]
+	url = https://github.com/conda-forge/compas_slicer-feedstock.git
+	path = feedstocks/compas_slicer
+	branch = refs/heads/master
