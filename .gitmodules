@@ -49378,3 +49378,7 @@
 	url = https://github.com/conda-forge/asf_search-feedstock.git
 	path = feedstocks/asf_search
 	branch = refs/heads/master
+[submodule "trino"]
+	url = https://github.com/conda-forge/trino-feedstock.git
+	path = feedstocks/trino
+	branch = refs/heads/master
