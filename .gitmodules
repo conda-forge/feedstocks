@@ -49382,3 +49382,7 @@
 	url = https://github.com/conda-forge/trino-feedstock.git
 	path = feedstocks/trino
 	branch = refs/heads/master
+[submodule "msal_requests_auth"]
+	url = https://github.com/conda-forge/msal_requests_auth-feedstock.git
+	path = feedstocks/msal_requests_auth
+	branch = refs/heads/master
