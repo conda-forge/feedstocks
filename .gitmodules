@@ -49422,3 +49422,7 @@
 	url = https://github.com/conda-forge/youtube-transcript-api-feedstock.git
 	path = feedstocks/youtube-transcript-api
 	branch = refs/heads/master
+[submodule "jupyterlab-spellchecker"]
+	url = https://github.com/conda-forge/jupyterlab-spellchecker-feedstock.git
+	path = feedstocks/jupyterlab-spellchecker
+	branch = refs/heads/master
