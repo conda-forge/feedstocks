@@ -49414,3 +49414,7 @@
 	url = https://github.com/conda-forge/flashgeotext-feedstock.git
 	path = feedstocks/flashgeotext
 	branch = refs/heads/master
+[submodule "enterprise-pulsar"]
+	url = https://github.com/conda-forge/enterprise-pulsar-feedstock.git
+	path = feedstocks/enterprise-pulsar
+	branch = refs/heads/master
