@@ -49406,3 +49406,7 @@
 	url = https://github.com/conda-forge/rsconnect-python-feedstock.git
 	path = feedstocks/rsconnect-python
 	branch = refs/heads/master
+[submodule "pytest-split"]
+	url = https://github.com/conda-forge/pytest-split-feedstock.git
+	path = feedstocks/pytest-split
+	branch = refs/heads/master
