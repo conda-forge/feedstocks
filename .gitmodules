@@ -49434,3 +49434,7 @@
 	url = https://github.com/conda-forge/verspec-feedstock.git
 	path = feedstocks/verspec
 	branch = refs/heads/master
+[submodule "r-complexupset"]
+	url = https://github.com/conda-forge/r-complexupset-feedstock.git
+	path = feedstocks/r-complexupset
+	branch = refs/heads/master
