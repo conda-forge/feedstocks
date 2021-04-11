@@ -49430,3 +49430,7 @@
 	url = https://github.com/conda-forge/youtube-to-anki-feedstock.git
 	path = feedstocks/youtube-to-anki
 	branch = refs/heads/master
+[submodule "verspec"]
+	url = https://github.com/conda-forge/verspec-feedstock.git
+	path = feedstocks/verspec
+	branch = refs/heads/master
