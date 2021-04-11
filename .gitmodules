@@ -49446,3 +49446,7 @@
 	url = https://github.com/conda-forge/hapi-feedstock.git
 	path = feedstocks/hapi
 	branch = refs/heads/master
+[submodule "qrcode-artistic-build"]
+	url = https://github.com/conda-forge/qrcode-artistic-build-feedstock.git
+	path = feedstocks/qrcode-artistic-build
+	branch = refs/heads/master
