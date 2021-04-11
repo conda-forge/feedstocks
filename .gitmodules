@@ -49438,3 +49438,7 @@
 	url = https://github.com/conda-forge/r-complexupset-feedstock.git
 	path = feedstocks/r-complexupset
 	branch = refs/heads/master
+[submodule "r-symengine"]
+	url = https://github.com/conda-forge/r-symengine-feedstock.git
+	path = feedstocks/r-symengine
+	branch = refs/heads/master
