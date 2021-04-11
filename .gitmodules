@@ -49442,3 +49442,7 @@
 	url = https://github.com/conda-forge/r-symengine-feedstock.git
 	path = feedstocks/r-symengine
 	branch = refs/heads/master
+[submodule "hapi"]
+	url = https://github.com/conda-forge/hapi-feedstock.git
+	path = feedstocks/hapi
+	branch = refs/heads/master
