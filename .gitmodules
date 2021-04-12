@@ -49478,3 +49478,7 @@
 	url = https://github.com/conda-forge/compas_rrc-feedstock.git
 	path = feedstocks/compas_rrc
 	branch = refs/heads/master
+[submodule "speedcopy"]
+	url = https://github.com/conda-forge/speedcopy-feedstock.git
+	path = feedstocks/speedcopy
+	branch = refs/heads/master
