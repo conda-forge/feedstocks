@@ -49474,3 +49474,7 @@
 	url = https://github.com/conda-forge/file-tree-fsl-feedstock.git
 	path = feedstocks/file-tree-fsl
 	branch = refs/heads/master
+[submodule "compas_rrc"]
+	url = https://github.com/conda-forge/compas_rrc-feedstock.git
+	path = feedstocks/compas_rrc
+	branch = refs/heads/master
