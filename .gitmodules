@@ -49470,3 +49470,7 @@
 	url = https://github.com/conda-forge/radiant-mlhub-feedstock.git
 	path = feedstocks/radiant-mlhub
 	branch = refs/heads/master
+[submodule "file-tree-fsl"]
+	url = https://github.com/conda-forge/file-tree-fsl-feedstock.git
+	path = feedstocks/file-tree-fsl
+	branch = refs/heads/master
