@@ -49466,3 +49466,7 @@
 	url = https://github.com/conda-forge/geodemo_zw-feedstock.git
 	path = feedstocks/geodemo_zw
 	branch = refs/heads/master
+[submodule "radiant-mlhub"]
+	url = https://github.com/conda-forge/radiant-mlhub-feedstock.git
+	path = feedstocks/radiant-mlhub
+	branch = refs/heads/master
