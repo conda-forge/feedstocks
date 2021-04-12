@@ -49450,3 +49450,7 @@
 	url = https://github.com/conda-forge/qrcode-artistic-build-feedstock.git
 	path = feedstocks/qrcode-artistic-build
 	branch = refs/heads/master
+[submodule "slack_sdk"]
+	url = https://github.com/conda-forge/slack_sdk-feedstock.git
+	path = feedstocks/slack_sdk
+	branch = refs/heads/master
