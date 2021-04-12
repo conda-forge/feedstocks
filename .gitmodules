@@ -49458,3 +49458,7 @@
 	url = https://github.com/conda-forge/r-datamods-feedstock.git
 	path = feedstocks/r-datamods
 	branch = refs/heads/master
+[submodule "ipydrawio"]
+	url = https://github.com/conda-forge/ipydrawio-feedstock.git
+	path = feedstocks/ipydrawio
+	branch = refs/heads/master
