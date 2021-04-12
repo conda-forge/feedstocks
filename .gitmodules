@@ -49454,3 +49454,7 @@
 	url = https://github.com/conda-forge/slack_sdk-feedstock.git
 	path = feedstocks/slack_sdk
 	branch = refs/heads/master
+[submodule "r-datamods"]
+	url = https://github.com/conda-forge/r-datamods-feedstock.git
+	path = feedstocks/r-datamods
+	branch = refs/heads/master
