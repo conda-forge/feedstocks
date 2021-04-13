@@ -49490,3 +49490,7 @@
 	url = https://github.com/conda-forge/jsons-feedstock.git
 	path = feedstocks/jsons
 	branch = refs/heads/master
+[submodule "minimalkv"]
+	url = https://github.com/conda-forge/minimalkv-feedstock.git
+	path = feedstocks/minimalkv
+	branch = refs/heads/master
