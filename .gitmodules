@@ -49486,3 +49486,7 @@
 	url = https://github.com/conda-forge/pycontour-feedstock.git
 	path = feedstocks/pycontour
 	branch = refs/heads/master
+[submodule "jsons"]
+	url = https://github.com/conda-forge/jsons-feedstock.git
+	path = feedstocks/jsons
+	branch = refs/heads/master
