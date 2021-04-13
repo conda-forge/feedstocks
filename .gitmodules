@@ -49498,3 +49498,7 @@
 	url = https://github.com/conda-forge/sas7bdat-feedstock.git
 	path = feedstocks/sas7bdat
 	branch = refs/heads/master
+[submodule "optuna-dashboard"]
+	url = https://github.com/conda-forge/optuna-dashboard-feedstock.git
+	path = feedstocks/optuna-dashboard
+	branch = refs/heads/master
