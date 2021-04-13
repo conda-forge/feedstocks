@@ -49494,3 +49494,7 @@
 	url = https://github.com/conda-forge/minimalkv-feedstock.git
 	path = feedstocks/minimalkv
 	branch = refs/heads/master
+[submodule "sas7bdat"]
+	url = https://github.com/conda-forge/sas7bdat-feedstock.git
+	path = feedstocks/sas7bdat
+	branch = refs/heads/master
