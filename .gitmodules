@@ -49506,3 +49506,7 @@
 	url = https://github.com/conda-forge/uassist-feedstock.git
 	path = feedstocks/uassist
 	branch = refs/heads/master
+[submodule "bioservices"]
+	url = https://github.com/conda-forge/bioservices-feedstock.git
+	path = feedstocks/bioservices
+	branch = refs/heads/master
