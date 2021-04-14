@@ -49534,3 +49534,7 @@
 	url = https://github.com/conda-forge/r-rstpm2-feedstock.git
 	path = feedstocks/r-rstpm2
 	branch = refs/heads/master
+[submodule "syntok"]
+	url = https://github.com/conda-forge/syntok-feedstock.git
+	path = feedstocks/syntok
+	branch = refs/heads/master
