@@ -49558,3 +49558,7 @@
 	url = https://github.com/conda-forge/tensap-feedstock.git
 	path = feedstocks/tensap
 	branch = refs/heads/master
+[submodule "theme-darcula"]
+	url = https://github.com/conda-forge/theme-darcula-feedstock.git
+	path = feedstocks/theme-darcula
+	branch = refs/heads/master
