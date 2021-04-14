@@ -49538,3 +49538,7 @@
 	url = https://github.com/conda-forge/syntok-feedstock.git
 	path = feedstocks/syntok
 	branch = refs/heads/master
+[submodule "pyexplainer"]
+	url = https://github.com/conda-forge/pyexplainer-feedstock.git
+	path = feedstocks/pyexplainer
+	branch = refs/heads/master
