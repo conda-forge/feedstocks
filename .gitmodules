@@ -49530,3 +49530,7 @@
 	url = https://github.com/conda-forge/matplotlib-inline-feedstock.git
 	path = feedstocks/matplotlib-inline
 	branch = refs/heads/master
+[submodule "r-rstpm2"]
+	url = https://github.com/conda-forge/r-rstpm2-feedstock.git
+	path = feedstocks/r-rstpm2
+	branch = refs/heads/master
