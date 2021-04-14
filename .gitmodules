@@ -49546,3 +49546,7 @@
 	url = https://github.com/conda-forge/editdistance-s-feedstock.git
 	path = feedstocks/editdistance-s
 	branch = refs/heads/master
+[submodule "choix"]
+	url = https://github.com/conda-forge/choix-feedstock.git
+	path = feedstocks/choix
+	branch = refs/heads/master
