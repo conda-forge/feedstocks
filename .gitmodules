@@ -49522,3 +49522,7 @@
 	url = https://github.com/conda-forge/ipynbname-feedstock.git
 	path = feedstocks/ipynbname
 	branch = refs/heads/master
+[submodule "nbterm"]
+	url = https://github.com/conda-forge/nbterm-feedstock.git
+	path = feedstocks/nbterm
+	branch = refs/heads/master
