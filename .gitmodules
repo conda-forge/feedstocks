@@ -49526,3 +49526,7 @@
 	url = https://github.com/conda-forge/nbterm-feedstock.git
 	path = feedstocks/nbterm
 	branch = refs/heads/master
+[submodule "matplotlib-inline"]
+	url = https://github.com/conda-forge/matplotlib-inline-feedstock.git
+	path = feedstocks/matplotlib-inline
+	branch = refs/heads/master
