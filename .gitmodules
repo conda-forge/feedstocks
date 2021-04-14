@@ -49562,3 +49562,7 @@
 	url = https://github.com/conda-forge/theme-darcula-feedstock.git
 	path = feedstocks/theme-darcula
 	branch = refs/heads/master
+[submodule "prophet"]
+	url = https://github.com/conda-forge/prophet-feedstock.git
+	path = feedstocks/prophet
+	branch = refs/heads/master
