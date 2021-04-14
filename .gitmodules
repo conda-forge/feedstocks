@@ -49542,3 +49542,7 @@
 	url = https://github.com/conda-forge/pyexplainer-feedstock.git
 	path = feedstocks/pyexplainer
 	branch = refs/heads/master
+[submodule "editdistance-s"]
+	url = https://github.com/conda-forge/editdistance-s-feedstock.git
+	path = feedstocks/editdistance-s
+	branch = refs/heads/master
