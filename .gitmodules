@@ -49590,3 +49590,7 @@
 	url = https://github.com/conda-forge/nengo-feedstock.git
 	path = feedstocks/nengo
 	branch = refs/heads/master
+[submodule "wolframclient"]
+	url = https://github.com/conda-forge/wolframclient-feedstock.git
+	path = feedstocks/wolframclient
+	branch = refs/heads/master
