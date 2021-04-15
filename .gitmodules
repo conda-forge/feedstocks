@@ -49586,3 +49586,7 @@
 	url = https://github.com/conda-forge/python-lsp-jsonrpc-feedstock.git
 	path = feedstocks/python-lsp-jsonrpc
 	branch = refs/heads/master
+[submodule "nengo"]
+	url = https://github.com/conda-forge/nengo-feedstock.git
+	path = feedstocks/nengo
+	branch = refs/heads/master
