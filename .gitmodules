@@ -49582,3 +49582,7 @@
 	url = https://github.com/conda-forge/arraykit-feedstock.git
 	path = feedstocks/arraykit
 	branch = refs/heads/master
+[submodule "python-lsp-jsonrpc"]
+	url = https://github.com/conda-forge/python-lsp-jsonrpc-feedstock.git
+	path = feedstocks/python-lsp-jsonrpc
+	branch = refs/heads/master
