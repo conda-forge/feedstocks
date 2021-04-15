@@ -49566,3 +49566,7 @@
 	url = https://github.com/conda-forge/prophet-feedstock.git
 	path = feedstocks/prophet
 	branch = refs/heads/master
+[submodule "iris-esmf-regrid"]
+	url = https://github.com/conda-forge/iris-esmf-regrid-feedstock.git
+	path = feedstocks/iris-esmf-regrid
+	branch = refs/heads/master
