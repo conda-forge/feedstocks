@@ -49594,3 +49594,7 @@
 	url = https://github.com/conda-forge/wolframclient-feedstock.git
 	path = feedstocks/wolframclient
 	branch = refs/heads/master
+[submodule "ctypesgen"]
+	url = https://github.com/conda-forge/ctypesgen-feedstock.git
+	path = feedstocks/ctypesgen
+	branch = refs/heads/master
