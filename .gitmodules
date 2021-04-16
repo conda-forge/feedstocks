@@ -49610,3 +49610,7 @@
 	url = https://github.com/conda-forge/lpdr-feedstock.git
 	path = feedstocks/lpdr
 	branch = refs/heads/master
+[submodule "pytorch-ranger"]
+	url = https://github.com/conda-forge/pytorch-ranger-feedstock.git
+	path = feedstocks/pytorch-ranger
+	branch = refs/heads/master
