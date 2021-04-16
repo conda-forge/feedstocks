@@ -49614,3 +49614,7 @@
 	url = https://github.com/conda-forge/pytorch-ranger-feedstock.git
 	path = feedstocks/pytorch-ranger
 	branch = refs/heads/master
+[submodule "opl"]
+	url = https://github.com/conda-forge/opl-feedstock.git
+	path = feedstocks/opl
+	branch = refs/heads/master
