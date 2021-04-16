@@ -49606,3 +49606,7 @@
 	url = https://github.com/conda-forge/mlconjug3-feedstock.git
 	path = feedstocks/mlconjug3
 	branch = refs/heads/master
+[submodule "lpdr"]
+	url = https://github.com/conda-forge/lpdr-feedstock.git
+	path = feedstocks/lpdr
+	branch = refs/heads/master
