@@ -49622,3 +49622,7 @@
 	url = https://github.com/conda-forge/dask-cuda-feedstock.git
 	path = feedstocks/dask-cuda
 	branch = refs/heads/master
+[submodule "micro"]
+	url = https://github.com/conda-forge/micro-feedstock.git
+	path = feedstocks/micro
+	branch = refs/heads/master
