@@ -49598,3 +49598,7 @@
 	url = https://github.com/conda-forge/ctypesgen-feedstock.git
 	path = feedstocks/ctypesgen
 	branch = refs/heads/master
+[submodule "gst-plugins-ugly"]
+	url = https://github.com/conda-forge/gst-plugins-ugly-feedstock.git
+	path = feedstocks/gst-plugins-ugly
+	branch = refs/heads/master
