@@ -49626,3 +49626,7 @@
 	url = https://github.com/conda-forge/micro-feedstock.git
 	path = feedstocks/micro
 	branch = refs/heads/master
+[submodule "nengo-loihi"]
+	url = https://github.com/conda-forge/nengo-loihi-feedstock.git
+	path = feedstocks/nengo-loihi
+	branch = refs/heads/master
