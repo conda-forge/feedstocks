@@ -49634,3 +49634,7 @@
 	url = https://github.com/conda-forge/kivymd-feedstock.git
 	path = feedstocks/kivymd
 	branch = refs/heads/master
+[submodule "inject"]
+	url = https://github.com/conda-forge/inject-feedstock.git
+	path = feedstocks/inject
+	branch = refs/heads/master
