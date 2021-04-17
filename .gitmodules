@@ -49638,3 +49638,7 @@
 	url = https://github.com/conda-forge/inject-feedstock.git
 	path = feedstocks/inject
 	branch = refs/heads/master
+[submodule "pdftotext"]
+	url = https://github.com/conda-forge/pdftotext-feedstock.git
+	path = feedstocks/pdftotext
+	branch = refs/heads/master
