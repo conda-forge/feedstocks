@@ -49642,3 +49642,7 @@
 	url = https://github.com/conda-forge/pdftotext-feedstock.git
 	path = feedstocks/pdftotext
 	branch = refs/heads/master
+[submodule "gst-plugins-bad"]
+	url = https://github.com/conda-forge/gst-plugins-bad-feedstock.git
+	path = feedstocks/gst-plugins-bad
+	branch = refs/heads/master
