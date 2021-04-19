@@ -49670,3 +49670,7 @@
 	url = https://github.com/conda-forge/prettier-feedstock.git
 	path = feedstocks/prettier
 	branch = refs/heads/master
+[submodule "hydromt"]
+	url = https://github.com/conda-forge/hydromt-feedstock.git
+	path = feedstocks/hydromt
+	branch = refs/heads/master
