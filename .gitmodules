@@ -49718,3 +49718,7 @@
 	url = https://github.com/conda-forge/flake8-sql-feedstock.git
 	path = feedstocks/flake8-sql
 	branch = refs/heads/master
+[submodule "django-stubs-ext"]
+	url = https://github.com/conda-forge/django-stubs-ext-feedstock.git
+	path = feedstocks/django-stubs-ext
+	branch = refs/heads/master
