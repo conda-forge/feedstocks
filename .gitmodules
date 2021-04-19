@@ -49650,3 +49650,7 @@
 	url = https://github.com/conda-forge/subsurface-feedstock.git
 	path = feedstocks/subsurface
 	branch = refs/heads/master
+[submodule "log4cplus"]
+	url = https://github.com/conda-forge/log4cplus-feedstock.git
+	path = feedstocks/log4cplus
+	branch = refs/heads/master
