@@ -49714,3 +49714,7 @@
 	url = https://github.com/conda-forge/flake8-variables-names-feedstock.git
 	path = feedstocks/flake8-variables-names
 	branch = refs/heads/master
+[submodule "flake8-sql"]
+	url = https://github.com/conda-forge/flake8-sql-feedstock.git
+	path = feedstocks/flake8-sql
+	branch = refs/heads/master
