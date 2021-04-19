@@ -49710,3 +49710,7 @@
 	url = https://github.com/conda-forge/eradicate-feedstock.git
 	path = feedstocks/eradicate
 	branch = refs/heads/master
+[submodule "flake8-variables-names"]
+	url = https://github.com/conda-forge/flake8-variables-names-feedstock.git
+	path = feedstocks/flake8-variables-names
+	branch = refs/heads/master
