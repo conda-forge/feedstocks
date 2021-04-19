@@ -49662,3 +49662,7 @@
 	url = https://github.com/conda-forge/python-dremio-client-feedstock.git
 	path = feedstocks/python-dremio-client
 	branch = refs/heads/master
+[submodule "rtd-poetry"]
+	url = https://github.com/conda-forge/rtd-poetry-feedstock.git
+	path = feedstocks/rtd-poetry
+	branch = refs/heads/master
