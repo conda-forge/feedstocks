@@ -49666,3 +49666,7 @@
 	url = https://github.com/conda-forge/rtd-poetry-feedstock.git
 	path = feedstocks/rtd-poetry
 	branch = refs/heads/master
+[submodule "prettier"]
+	url = https://github.com/conda-forge/prettier-feedstock.git
+	path = feedstocks/prettier
+	branch = refs/heads/master
