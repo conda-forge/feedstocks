@@ -49674,3 +49674,7 @@
 	url = https://github.com/conda-forge/hydromt-feedstock.git
 	path = feedstocks/hydromt
 	branch = refs/heads/master
+[submodule "direnv"]
+	url = https://github.com/conda-forge/direnv-feedstock.git
+	path = feedstocks/direnv
+	branch = refs/heads/master
