@@ -49702,3 +49702,7 @@
 	url = https://github.com/conda-forge/cognitive_complexity-feedstock.git
 	path = feedstocks/cognitive_complexity
 	branch = refs/heads/master
+[submodule "river"]
+	url = https://github.com/conda-forge/river-feedstock.git
+	path = feedstocks/river
+	branch = refs/heads/master
