@@ -49658,3 +49658,7 @@
 	url = https://github.com/conda-forge/r-nsyllable-feedstock.git
 	path = feedstocks/r-nsyllable
 	branch = refs/heads/master
+[submodule "python-dremio-client"]
+	url = https://github.com/conda-forge/python-dremio-client-feedstock.git
+	path = feedstocks/python-dremio-client
+	branch = refs/heads/master
