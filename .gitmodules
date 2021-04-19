@@ -49682,3 +49682,7 @@
 	url = https://github.com/conda-forge/appmap-feedstock.git
 	path = feedstocks/appmap
 	branch = refs/heads/master
+[submodule "nwchemcmlutils"]
+	url = https://github.com/conda-forge/nwchemcmlutils-feedstock.git
+	path = feedstocks/nwchemcmlutils
+	branch = refs/heads/master
