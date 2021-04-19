@@ -49694,3 +49694,7 @@
 	url = https://github.com/conda-forge/pyzxing-feedstock.git
 	path = feedstocks/pyzxing
 	branch = refs/heads/master
+[submodule "galsim_extra"]
+	url = https://github.com/conda-forge/galsim_extra-feedstock.git
+	path = feedstocks/galsim_extra
+	branch = refs/heads/master
