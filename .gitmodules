@@ -49810,3 +49810,7 @@
 	url = https://github.com/conda-forge/dargs-feedstock.git
 	path = feedstocks/dargs
 	branch = refs/heads/master
+[submodule "metamorpheus"]
+	url = https://github.com/conda-forge/metamorpheus-feedstock.git
+	path = feedstocks/metamorpheus
+	branch = refs/heads/master
