@@ -49746,3 +49746,7 @@
 	url = https://github.com/conda-forge/mpeg1audio-feedstock.git
 	path = feedstocks/mpeg1audio
 	branch = refs/heads/master
+[submodule "libftdi"]
+	url = https://github.com/conda-forge/libftdi-feedstock.git
+	path = feedstocks/libftdi
+	branch = refs/heads/master
