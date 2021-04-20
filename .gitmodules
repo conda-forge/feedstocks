@@ -49774,3 +49774,7 @@
 	url = https://github.com/conda-forge/cmdstanpy-feedstock.git
 	path = feedstocks/cmdstanpy
 	branch = refs/heads/master
+[submodule "spfft"]
+	url = https://github.com/conda-forge/spfft-feedstock.git
+	path = feedstocks/spfft
+	branch = refs/heads/master
