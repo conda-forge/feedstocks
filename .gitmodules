@@ -49750,3 +49750,7 @@
 	url = https://github.com/conda-forge/libftdi-feedstock.git
 	path = feedstocks/libftdi
 	branch = refs/heads/master
+[submodule "arq"]
+	url = https://github.com/conda-forge/arq-feedstock.git
+	path = feedstocks/arq
+	branch = refs/heads/master
