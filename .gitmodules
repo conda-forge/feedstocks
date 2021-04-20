@@ -49814,3 +49814,7 @@
 	url = https://github.com/conda-forge/metamorpheus-feedstock.git
 	path = feedstocks/metamorpheus
 	branch = refs/heads/master
+[submodule "sql-magic"]
+	url = https://github.com/conda-forge/sql-magic-feedstock.git
+	path = feedstocks/sql-magic
+	branch = refs/heads/master
