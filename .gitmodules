@@ -49766,3 +49766,7 @@
 	url = https://github.com/conda-forge/python-devtools-feedstock.git
 	path = feedstocks/python-devtools
 	branch = refs/heads/master
+[submodule "ihm"]
+	url = https://github.com/conda-forge/ihm-feedstock.git
+	path = feedstocks/ihm
+	branch = refs/heads/master
