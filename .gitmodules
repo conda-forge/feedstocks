@@ -49742,3 +49742,7 @@
 	url = https://github.com/conda-forge/gst-libav-feedstock.git
 	path = feedstocks/gst-libav
 	branch = refs/heads/master
+[submodule "mpeg1audio"]
+	url = https://github.com/conda-forge/mpeg1audio-feedstock.git
+	path = feedstocks/mpeg1audio
+	branch = refs/heads/master
