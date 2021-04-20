@@ -49798,3 +49798,7 @@
 	url = https://github.com/conda-forge/pytest-pytorch-feedstock.git
 	path = feedstocks/pytest-pytorch
 	branch = refs/heads/master
+[submodule "sqlite-fts4"]
+	url = https://github.com/conda-forge/sqlite-fts4-feedstock.git
+	path = feedstocks/sqlite-fts4
+	branch = refs/heads/master
