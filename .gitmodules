@@ -49818,3 +49818,7 @@
 	url = https://github.com/conda-forge/sql-magic-feedstock.git
 	path = feedstocks/sql-magic
 	branch = refs/heads/master
+[submodule "flash"]
+	url = https://github.com/conda-forge/flash-feedstock.git
+	path = feedstocks/flash
+	branch = refs/heads/master
