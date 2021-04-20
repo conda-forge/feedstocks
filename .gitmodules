@@ -49762,3 +49762,7 @@
 	url = https://github.com/conda-forge/flake8-eradicate-feedstock.git
 	path = feedstocks/flake8-eradicate
 	branch = refs/heads/master
+[submodule "python-devtools"]
+	url = https://github.com/conda-forge/python-devtools-feedstock.git
+	path = feedstocks/python-devtools
+	branch = refs/heads/master
