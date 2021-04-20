@@ -49758,3 +49758,7 @@
 	url = https://github.com/conda-forge/flexpolyline-feedstock.git
 	path = feedstocks/flexpolyline
 	branch = refs/heads/master
+[submodule "flake8-eradicate"]
+	url = https://github.com/conda-forge/flake8-eradicate-feedstock.git
+	path = feedstocks/flake8-eradicate
+	branch = refs/heads/master
