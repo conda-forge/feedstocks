@@ -49770,3 +49770,7 @@
 	url = https://github.com/conda-forge/ihm-feedstock.git
 	path = feedstocks/ihm
 	branch = refs/heads/master
+[submodule "cmdstanpy"]
+	url = https://github.com/conda-forge/cmdstanpy-feedstock.git
+	path = feedstocks/cmdstanpy
+	branch = refs/heads/master
