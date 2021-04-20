@@ -49738,3 +49738,7 @@
 	url = https://github.com/conda-forge/django-stubs-feedstock.git
 	path = feedstocks/django-stubs
 	branch = refs/heads/master
+[submodule "gst-libav"]
+	url = https://github.com/conda-forge/gst-libav-feedstock.git
+	path = feedstocks/gst-libav
+	branch = refs/heads/master
