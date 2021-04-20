@@ -49782,3 +49782,7 @@
 	url = https://github.com/conda-forge/darker-feedstock.git
 	path = feedstocks/darker
 	branch = refs/heads/master
+[submodule "flake8-return"]
+	url = https://github.com/conda-forge/flake8-return-feedstock.git
+	path = feedstocks/flake8-return
+	branch = refs/heads/master
