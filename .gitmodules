@@ -49802,3 +49802,7 @@
 	url = https://github.com/conda-forge/sqlite-fts4-feedstock.git
 	path = feedstocks/sqlite-fts4
 	branch = refs/heads/master
+[submodule "python-baseconv"]
+	url = https://github.com/conda-forge/python-baseconv-feedstock.git
+	path = feedstocks/python-baseconv
+	branch = refs/heads/master
