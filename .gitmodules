@@ -49842,3 +49842,7 @@
 	url = https://github.com/conda-forge/spla-feedstock.git
 	path = feedstocks/spla
 	branch = refs/heads/master
+[submodule "tscv"]
+	url = https://github.com/conda-forge/tscv-feedstock.git
+	path = feedstocks/tscv
+	branch = refs/heads/master
