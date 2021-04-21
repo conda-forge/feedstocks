@@ -49838,3 +49838,7 @@
 	url = https://github.com/conda-forge/r-seuratdisk-feedstock.git
 	path = feedstocks/r-seuratdisk
 	branch = refs/heads/master
+[submodule "spla"]
+	url = https://github.com/conda-forge/spla-feedstock.git
+	path = feedstocks/spla
+	branch = refs/heads/master
