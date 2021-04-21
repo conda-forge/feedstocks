@@ -49882,3 +49882,7 @@
 	url = https://github.com/conda-forge/sgkit-feedstock.git
 	path = feedstocks/sgkit
 	branch = refs/heads/master
+[submodule "robotframework-robocop"]
+	url = https://github.com/conda-forge/robotframework-robocop-feedstock.git
+	path = feedstocks/robotframework-robocop
+	branch = refs/heads/master
