@@ -49866,3 +49866,7 @@
 	url = https://github.com/conda-forge/icepap-feedstock.git
 	path = feedstocks/icepap
 	branch = refs/heads/master
+[submodule "tensortrade"]
+	url = https://github.com/conda-forge/tensortrade-feedstock.git
+	path = feedstocks/tensortrade
+	branch = refs/heads/master
