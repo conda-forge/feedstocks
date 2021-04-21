@@ -49854,3 +49854,7 @@
 	url = https://github.com/conda-forge/sqlite-utils-feedstock.git
 	path = feedstocks/sqlite-utils
 	branch = refs/heads/master
+[submodule "sockio"]
+	url = https://github.com/conda-forge/sockio-feedstock.git
+	path = feedstocks/sockio
+	branch = refs/heads/master
