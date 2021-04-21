@@ -49858,3 +49858,7 @@
 	url = https://github.com/conda-forge/sockio-feedstock.git
 	path = feedstocks/sockio
 	branch = refs/heads/master
+[submodule "datasette"]
+	url = https://github.com/conda-forge/datasette-feedstock.git
+	path = feedstocks/datasette
+	branch = refs/heads/master
