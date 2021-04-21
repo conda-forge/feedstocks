@@ -49878,3 +49878,7 @@
 	url = https://github.com/conda-forge/findiff-feedstock.git
 	path = feedstocks/findiff
 	branch = refs/heads/master
+[submodule "sgkit"]
+	url = https://github.com/conda-forge/sgkit-feedstock.git
+	path = feedstocks/sgkit
+	branch = refs/heads/master
