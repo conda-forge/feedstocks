@@ -49834,3 +49834,7 @@
 	url = https://github.com/conda-forge/pytao-feedstock.git
 	path = feedstocks/pytao
 	branch = refs/heads/master
+[submodule "r-seuratdisk"]
+	url = https://github.com/conda-forge/r-seuratdisk-feedstock.git
+	path = feedstocks/r-seuratdisk
+	branch = refs/heads/master
