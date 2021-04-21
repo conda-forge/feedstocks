@@ -49850,3 +49850,7 @@
 	url = https://github.com/conda-forge/libcugraph-feedstock.git
 	path = feedstocks/libcugraph
 	branch = refs/heads/master
+[submodule "sqlite-utils"]
+	url = https://github.com/conda-forge/sqlite-utils-feedstock.git
+	path = feedstocks/sqlite-utils
+	branch = refs/heads/master
