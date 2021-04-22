@@ -49906,3 +49906,7 @@
 	url = https://github.com/conda-forge/sklearn-json-feedstock.git
 	path = feedstocks/sklearn-json
 	branch = refs/heads/master
+[submodule "boost_mp11"]
+	url = https://github.com/conda-forge/boost_mp11-feedstock.git
+	path = feedstocks/boost_mp11
+	branch = refs/heads/master
