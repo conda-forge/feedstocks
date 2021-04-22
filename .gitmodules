@@ -49910,3 +49910,7 @@
 	url = https://github.com/conda-forge/boost_mp11-feedstock.git
 	path = feedstocks/boost_mp11
 	branch = refs/heads/master
+[submodule "python-lsp-server"]
+	url = https://github.com/conda-forge/python-lsp-server-feedstock.git
+	path = feedstocks/python-lsp-server
+	branch = refs/heads/master
