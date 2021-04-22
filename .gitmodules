@@ -49922,3 +49922,7 @@
 	url = https://github.com/conda-forge/sphinx-jsonschema-feedstock.git
 	path = feedstocks/sphinx-jsonschema
 	branch = refs/heads/master
+[submodule "drf-api-tracking"]
+	url = https://github.com/conda-forge/drf-api-tracking-feedstock.git
+	path = feedstocks/drf-api-tracking
+	branch = refs/heads/master
