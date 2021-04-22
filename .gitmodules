@@ -49886,3 +49886,7 @@
 	url = https://github.com/conda-forge/robotframework-robocop-feedstock.git
 	path = feedstocks/robotframework-robocop
 	branch = refs/heads/master
+[submodule "r-tigris"]
+	url = https://github.com/conda-forge/r-tigris-feedstock.git
+	path = feedstocks/r-tigris
+	branch = refs/heads/master
