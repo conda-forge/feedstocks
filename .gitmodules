@@ -49914,3 +49914,7 @@
 	url = https://github.com/conda-forge/python-lsp-server-feedstock.git
 	path = feedstocks/python-lsp-server
 	branch = refs/heads/master
+[submodule "demes"]
+	url = https://github.com/conda-forge/demes-feedstock.git
+	path = feedstocks/demes
+	branch = refs/heads/master
