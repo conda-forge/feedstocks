@@ -49902,3 +49902,7 @@
 	url = https://github.com/conda-forge/ffn-feedstock.git
 	path = feedstocks/ffn
 	branch = refs/heads/master
+[submodule "sklearn-json"]
+	url = https://github.com/conda-forge/sklearn-json-feedstock.git
+	path = feedstocks/sklearn-json
+	branch = refs/heads/master
