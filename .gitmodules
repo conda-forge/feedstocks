@@ -49898,3 +49898,7 @@
 	url = https://github.com/conda-forge/libdate-feedstock.git
 	path = feedstocks/libdate
 	branch = refs/heads/master
+[submodule "ffn"]
+	url = https://github.com/conda-forge/ffn-feedstock.git
+	path = feedstocks/ffn
+	branch = refs/heads/master
