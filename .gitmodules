@@ -49966,3 +49966,7 @@
 	url = https://github.com/conda-forge/yake-feedstock.git
 	path = feedstocks/yake
 	branch = refs/heads/master
+[submodule "url-normalize"]
+	url = https://github.com/conda-forge/url-normalize-feedstock.git
+	path = feedstocks/url-normalize
+	branch = refs/heads/master
