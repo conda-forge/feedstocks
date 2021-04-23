@@ -49954,3 +49954,7 @@
 	url = https://github.com/conda-forge/tensorflow-lattice-feedstock.git
 	path = feedstocks/tensorflow-lattice
 	branch = refs/heads/master
+[submodule "django-elasticsearch-dsl"]
+	url = https://github.com/conda-forge/django-elasticsearch-dsl-feedstock.git
+	path = feedstocks/django-elasticsearch-dsl
+	branch = refs/heads/master
