@@ -49946,3 +49946,7 @@
 	url = https://github.com/conda-forge/libpqxx-feedstock.git
 	path = feedstocks/libpqxx
 	branch = refs/heads/master
+[submodule "bt"]
+	url = https://github.com/conda-forge/bt-feedstock.git
+	path = feedstocks/bt
+	branch = refs/heads/master
