@@ -49938,3 +49938,7 @@
 	url = https://github.com/conda-forge/r-pafr-feedstock.git
 	path = feedstocks/r-pafr
 	branch = refs/heads/master
+[submodule "prrng"]
+	url = https://github.com/conda-forge/prrng-feedstock.git
+	path = feedstocks/prrng
+	branch = refs/heads/master
