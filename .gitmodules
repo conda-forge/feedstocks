@@ -49958,3 +49958,7 @@
 	url = https://github.com/conda-forge/django-elasticsearch-dsl-feedstock.git
 	path = feedstocks/django-elasticsearch-dsl
 	branch = refs/heads/master
+[submodule "mongita"]
+	url = https://github.com/conda-forge/mongita-feedstock.git
+	path = feedstocks/mongita
+	branch = refs/heads/master
