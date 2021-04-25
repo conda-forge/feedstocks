@@ -49982,3 +49982,7 @@
 	url = https://github.com/conda-forge/unfccc_di_api-feedstock.git
 	path = feedstocks/unfccc_di_api
 	branch = refs/heads/master
+[submodule "pystac-client"]
+	url = https://github.com/conda-forge/pystac-client-feedstock.git
+	path = feedstocks/pystac-client
+	branch = refs/heads/master
