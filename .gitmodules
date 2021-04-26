@@ -50018,3 +50018,7 @@
 	url = https://github.com/conda-forge/wind-stats-feedstock.git
 	path = feedstocks/wind-stats
 	branch = refs/heads/master
+[submodule "bmi-geotiff"]
+	url = https://github.com/conda-forge/bmi-geotiff-feedstock.git
+	path = feedstocks/bmi-geotiff
+	branch = refs/heads/master
