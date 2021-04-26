@@ -50038,3 +50038,7 @@
 	url = https://github.com/conda-forge/transifex-client-feedstock.git
 	path = feedstocks/transifex-client
 	branch = refs/heads/master
+[submodule "r-climdex.pcic"]
+	url = https://github.com/conda-forge/r-climdex.pcic-feedstock.git
+	path = feedstocks/r-climdex.pcic
+	branch = refs/heads/master
