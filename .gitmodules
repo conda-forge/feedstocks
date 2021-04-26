@@ -50022,3 +50022,7 @@
 	url = https://github.com/conda-forge/bmi-geotiff-feedstock.git
 	path = feedstocks/bmi-geotiff
 	branch = refs/heads/master
+[submodule "pyrate-limiter"]
+	url = https://github.com/conda-forge/pyrate-limiter-feedstock.git
+	path = feedstocks/pyrate-limiter
+	branch = refs/heads/master
