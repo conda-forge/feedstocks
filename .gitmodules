@@ -50002,3 +50002,7 @@
 	url = https://github.com/conda-forge/r-easyverification-feedstock.git
 	path = feedstocks/r-easyverification
 	branch = refs/heads/master
+[submodule "autoreject"]
+	url = https://github.com/conda-forge/autoreject-feedstock.git
+	path = feedstocks/autoreject
+	branch = refs/heads/master
