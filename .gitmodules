@@ -50014,3 +50014,7 @@
 	url = https://github.com/conda-forge/itallic-feedstock.git
 	path = feedstocks/itallic
 	branch = refs/heads/master
+[submodule "wind-stats"]
+	url = https://github.com/conda-forge/wind-stats-feedstock.git
+	path = feedstocks/wind-stats
+	branch = refs/heads/master
