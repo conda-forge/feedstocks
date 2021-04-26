@@ -50030,3 +50030,7 @@
 	url = https://github.com/conda-forge/sphinx-intl-feedstock.git
 	path = feedstocks/sphinx-intl
 	branch = refs/heads/master
+[submodule "pyinaturalist"]
+	url = https://github.com/conda-forge/pyinaturalist-feedstock.git
+	path = feedstocks/pyinaturalist
+	branch = refs/heads/master
