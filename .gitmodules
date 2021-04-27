@@ -50074,3 +50074,7 @@
 	url = https://github.com/conda-forge/sphinx-external-toc-feedstock.git
 	path = feedstocks/sphinx-external-toc
 	branch = refs/heads/master
+[submodule "cdshealpix"]
+	url = https://github.com/conda-forge/cdshealpix-feedstock.git
+	path = feedstocks/cdshealpix
+	branch = refs/heads/master
