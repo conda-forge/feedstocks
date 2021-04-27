@@ -50062,3 +50062,7 @@
 	url = https://github.com/conda-forge/openapi-schema-validator-feedstock.git
 	path = feedstocks/openapi-schema-validator
 	branch = refs/heads/master
+[submodule "pycm"]
+	url = https://github.com/conda-forge/pycm-feedstock.git
+	path = feedstocks/pycm
+	branch = refs/heads/master
