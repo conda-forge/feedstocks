@@ -50058,3 +50058,7 @@
 	url = https://github.com/conda-forge/openapi-core-feedstock.git
 	path = feedstocks/openapi-core
 	branch = refs/heads/master
+[submodule "openapi-schema-validator"]
+	url = https://github.com/conda-forge/openapi-schema-validator-feedstock.git
+	path = feedstocks/openapi-schema-validator
+	branch = refs/heads/master
