@@ -50050,3 +50050,7 @@
 	url = https://github.com/conda-forge/nuflux-feedstock.git
 	path = feedstocks/nuflux
 	branch = refs/heads/master
+[submodule "sirius"]
+	url = https://github.com/conda-forge/sirius-feedstock.git
+	path = feedstocks/sirius
+	branch = refs/heads/master
