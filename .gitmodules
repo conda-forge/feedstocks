@@ -50070,3 +50070,7 @@
 	url = https://github.com/conda-forge/pyposeidon-feedstock.git
 	path = feedstocks/pyposeidon
 	branch = refs/heads/master
+[submodule "sphinx-external-toc"]
+	url = https://github.com/conda-forge/sphinx-external-toc-feedstock.git
+	path = feedstocks/sphinx-external-toc
+	branch = refs/heads/master
