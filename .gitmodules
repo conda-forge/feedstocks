@@ -50066,3 +50066,7 @@
 	url = https://github.com/conda-forge/pycm-feedstock.git
 	path = feedstocks/pycm
 	branch = refs/heads/master
+[submodule "pyposeidon"]
+	url = https://github.com/conda-forge/pyposeidon-feedstock.git
+	path = feedstocks/pyposeidon
+	branch = refs/heads/master
