@@ -50046,3 +50046,7 @@
 	url = https://github.com/conda-forge/condansis-feedstock.git
 	path = feedstocks/condansis
 	branch = refs/heads/master
+[submodule "nuflux"]
+	url = https://github.com/conda-forge/nuflux-feedstock.git
+	path = feedstocks/nuflux
+	branch = refs/heads/master
