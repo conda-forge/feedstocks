@@ -50054,3 +50054,7 @@
 	url = https://github.com/conda-forge/sirius-feedstock.git
 	path = feedstocks/sirius
 	branch = refs/heads/master
+[submodule "openapi-core"]
+	url = https://github.com/conda-forge/openapi-core-feedstock.git
+	path = feedstocks/openapi-core
+	branch = refs/heads/master
