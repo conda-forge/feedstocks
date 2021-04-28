@@ -50078,3 +50078,7 @@
 	url = https://github.com/conda-forge/cdshealpix-feedstock.git
 	path = feedstocks/cdshealpix
 	branch = refs/heads/master
+[submodule "librmm"]
+	url = https://github.com/conda-forge/librmm-feedstock.git
+	path = feedstocks/librmm
+	branch = refs/heads/master
