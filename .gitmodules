@@ -50086,3 +50086,7 @@
 	url = https://github.com/conda-forge/pyrsmq-feedstock.git
 	path = feedstocks/pyrsmq
 	branch = refs/heads/master
+[submodule "ibis-bigquery"]
+	url = https://github.com/conda-forge/ibis-bigquery-feedstock.git
+	path = feedstocks/ibis-bigquery
+	branch = refs/heads/master
