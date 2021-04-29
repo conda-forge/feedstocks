@@ -50114,3 +50114,7 @@
 	url = https://github.com/conda-forge/aurorafusion-feedstock.git
 	path = feedstocks/aurorafusion
 	branch = refs/heads/master
+[submodule "r-hillr"]
+	url = https://github.com/conda-forge/r-hillr-feedstock.git
+	path = feedstocks/r-hillr
+	branch = refs/heads/master
