@@ -50106,3 +50106,7 @@
 	url = https://github.com/conda-forge/click-loglevel-feedstock.git
 	path = feedstocks/click-loglevel
 	branch = refs/heads/master
+[submodule "darts"]
+	url = https://github.com/conda-forge/darts-feedstock.git
+	path = feedstocks/darts
+	branch = refs/heads/master
