@@ -50098,3 +50098,7 @@
 	url = https://github.com/conda-forge/wavespectra-feedstock.git
 	path = feedstocks/wavespectra
 	branch = refs/heads/master
+[submodule "morfeus-ml"]
+	url = https://github.com/conda-forge/morfeus-ml-feedstock.git
+	path = feedstocks/morfeus-ml
+	branch = refs/heads/master
