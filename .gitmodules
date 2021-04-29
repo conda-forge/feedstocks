@@ -50102,3 +50102,7 @@
 	url = https://github.com/conda-forge/morfeus-ml-feedstock.git
 	path = feedstocks/morfeus-ml
 	branch = refs/heads/master
+[submodule "click-loglevel"]
+	url = https://github.com/conda-forge/click-loglevel-feedstock.git
+	path = feedstocks/click-loglevel
+	branch = refs/heads/master
