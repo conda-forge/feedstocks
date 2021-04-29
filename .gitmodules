@@ -50090,3 +50090,7 @@
 	url = https://github.com/conda-forge/ibis-bigquery-feedstock.git
 	path = feedstocks/ibis-bigquery
 	branch = refs/heads/master
+[submodule "pylexique"]
+	url = https://github.com/conda-forge/pylexique-feedstock.git
+	path = feedstocks/pylexique
+	branch = refs/heads/master
