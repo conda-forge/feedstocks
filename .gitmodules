@@ -50110,3 +50110,7 @@
 	url = https://github.com/conda-forge/darts-feedstock.git
 	path = feedstocks/darts
 	branch = refs/heads/master
+[submodule "aurorafusion"]
+	url = https://github.com/conda-forge/aurorafusion-feedstock.git
+	path = feedstocks/aurorafusion
+	branch = refs/heads/master
