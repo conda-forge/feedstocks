@@ -50122,3 +50122,7 @@
 	url = https://github.com/conda-forge/jupyter-starters-reinforcement-learning-dennybritz-feedstock.git
 	path = feedstocks/jupyter-starters-reinforcement-learning-dennybritz
 	branch = refs/heads/master
+[submodule "safeint"]
+	url = https://github.com/conda-forge/safeint-feedstock.git
+	path = feedstocks/safeint
+	branch = refs/heads/master
