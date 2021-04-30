@@ -50134,3 +50134,7 @@
 	url = https://github.com/conda-forge/mocpy-feedstock.git
 	path = feedstocks/mocpy
 	branch = refs/heads/master
+[submodule "django-cloud-browser"]
+	url = https://github.com/conda-forge/django-cloud-browser-feedstock.git
+	path = feedstocks/django-cloud-browser
+	branch = refs/heads/master
