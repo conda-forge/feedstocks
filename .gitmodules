@@ -50126,3 +50126,7 @@
 	url = https://github.com/conda-forge/safeint-feedstock.git
 	path = feedstocks/safeint
 	branch = refs/heads/master
+[submodule "spec-classes"]
+	url = https://github.com/conda-forge/spec-classes-feedstock.git
+	path = feedstocks/spec-classes
+	branch = refs/heads/master
