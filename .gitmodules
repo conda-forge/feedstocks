@@ -50138,3 +50138,7 @@
 	url = https://github.com/conda-forge/django-cloud-browser-feedstock.git
 	path = feedstocks/django-cloud-browser
 	branch = refs/heads/master
+[submodule "django-heroku"]
+	url = https://github.com/conda-forge/django-heroku-feedstock.git
+	path = feedstocks/django-heroku
+	branch = refs/heads/master
