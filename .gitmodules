@@ -50150,3 +50150,7 @@
 	url = https://github.com/conda-forge/imagedataextractor-feedstock.git
 	path = feedstocks/imagedataextractor
 	branch = refs/heads/master
+[submodule "affogato"]
+	url = https://github.com/conda-forge/affogato-feedstock.git
+	path = feedstocks/affogato
+	branch = refs/heads/master
