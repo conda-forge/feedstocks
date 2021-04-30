@@ -50158,3 +50158,7 @@
 	url = https://github.com/conda-forge/jtango-feedstock.git
 	path = feedstocks/jtango
 	branch = refs/heads/master
+[submodule "caelus"]
+	url = https://github.com/conda-forge/caelus-feedstock.git
+	path = feedstocks/caelus
+	branch = refs/heads/master
