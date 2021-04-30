@@ -50142,3 +50142,7 @@
 	url = https://github.com/conda-forge/django-heroku-feedstock.git
 	path = feedstocks/django-heroku
 	branch = refs/heads/master
+[submodule "rdfpy"]
+	url = https://github.com/conda-forge/rdfpy-feedstock.git
+	path = feedstocks/rdfpy
+	branch = refs/heads/master
