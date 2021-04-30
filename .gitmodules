@@ -50146,3 +50146,7 @@
 	url = https://github.com/conda-forge/rdfpy-feedstock.git
 	path = feedstocks/rdfpy
 	branch = refs/heads/master
+[submodule "imagedataextractor"]
+	url = https://github.com/conda-forge/imagedataextractor-feedstock.git
+	path = feedstocks/imagedataextractor
+	branch = refs/heads/master
