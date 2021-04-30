@@ -50162,3 +50162,7 @@
 	url = https://github.com/conda-forge/caelus-feedstock.git
 	path = feedstocks/caelus
 	branch = refs/heads/master
+[submodule "pyquicksetup"]
+	url = https://github.com/conda-forge/pyquicksetup-feedstock.git
+	path = feedstocks/pyquicksetup
+	branch = refs/heads/master
