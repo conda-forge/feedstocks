@@ -50166,3 +50166,7 @@
 	url = https://github.com/conda-forge/pyquicksetup-feedstock.git
 	path = feedstocks/pyquicksetup
 	branch = refs/heads/master
+[submodule "ansible-bundler"]
+	url = https://github.com/conda-forge/ansible-bundler-feedstock.git
+	path = feedstocks/ansible-bundler
+	branch = refs/heads/master
