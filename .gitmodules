@@ -50170,3 +50170,7 @@
 	url = https://github.com/conda-forge/ansible-bundler-feedstock.git
 	path = feedstocks/ansible-bundler
 	branch = refs/heads/master
+[submodule "fd"]
+	url = https://github.com/conda-forge/fd-feedstock.git
+	path = feedstocks/fd
+	branch = refs/heads/master
