@@ -50174,3 +50174,7 @@
 	url = https://github.com/conda-forge/fd-feedstock.git
 	path = feedstocks/fd
 	branch = refs/heads/master
+[submodule "pymilvus"]
+	url = https://github.com/conda-forge/pymilvus-feedstock.git
+	path = feedstocks/pymilvus
+	branch = refs/heads/master
