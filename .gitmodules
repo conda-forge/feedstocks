@@ -50190,3 +50190,7 @@
 	url = https://github.com/conda-forge/rcedit-feedstock.git
 	path = feedstocks/rcedit
 	branch = refs/heads/master
+[submodule "python-icc"]
+	url = https://github.com/conda-forge/python-icc-feedstock.git
+	path = feedstocks/python-icc
+	branch = refs/heads/master
