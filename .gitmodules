@@ -50206,3 +50206,7 @@
 	url = https://github.com/conda-forge/pyphysim-feedstock.git
 	path = feedstocks/pyphysim
 	branch = refs/heads/master
+[submodule "python-suitesparse-graphblas"]
+	url = https://github.com/conda-forge/python-suitesparse-graphblas-feedstock.git
+	path = feedstocks/python-suitesparse-graphblas
+	branch = refs/heads/master
