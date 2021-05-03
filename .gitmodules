@@ -50202,3 +50202,7 @@
 	url = https://github.com/conda-forge/greenlearning-feedstock.git
 	path = feedstocks/greenlearning
 	branch = refs/heads/master
+[submodule "pyphysim"]
+	url = https://github.com/conda-forge/pyphysim-feedstock.git
+	path = feedstocks/pyphysim
+	branch = refs/heads/master
