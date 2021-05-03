@@ -50198,3 +50198,7 @@
 	url = https://github.com/conda-forge/dataclasses-json-feedstock.git
 	path = feedstocks/dataclasses-json
 	branch = refs/heads/master
+[submodule "greenlearning"]
+	url = https://github.com/conda-forge/greenlearning-feedstock.git
+	path = feedstocks/greenlearning
+	branch = refs/heads/master
