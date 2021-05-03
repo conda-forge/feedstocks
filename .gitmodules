@@ -50182,3 +50182,7 @@
 	url = https://github.com/conda-forge/optional-lite-feedstock.git
 	path = feedstocks/optional-lite
 	branch = refs/heads/master
+[submodule "colored-traceback"]
+	url = https://github.com/conda-forge/colored-traceback-feedstock.git
+	path = feedstocks/colored-traceback
+	branch = refs/heads/master
