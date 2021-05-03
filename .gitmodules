@@ -50178,3 +50178,7 @@
 	url = https://github.com/conda-forge/pymilvus-feedstock.git
 	path = feedstocks/pymilvus
 	branch = refs/heads/master
+[submodule "optional-lite"]
+	url = https://github.com/conda-forge/optional-lite-feedstock.git
+	path = feedstocks/optional-lite
+	branch = refs/heads/master
