@@ -50250,3 +50250,7 @@
 	url = https://github.com/conda-forge/p-winds-feedstock.git
 	path = feedstocks/p-winds
 	branch = refs/heads/master
+[submodule "neptune-tensorflow-keras"]
+	url = https://github.com/conda-forge/neptune-tensorflow-keras-feedstock.git
+	path = feedstocks/neptune-tensorflow-keras
+	branch = refs/heads/master
