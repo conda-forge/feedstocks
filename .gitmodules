@@ -50234,3 +50234,7 @@
 	url = https://github.com/conda-forge/r-h2o-feedstock.git
 	path = feedstocks/r-h2o
 	branch = refs/heads/master
+[submodule "nomad-lab"]
+	url = https://github.com/conda-forge/nomad-lab-feedstock.git
+	path = feedstocks/nomad-lab
+	branch = refs/heads/master
