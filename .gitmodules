@@ -50226,3 +50226,7 @@
 	url = https://github.com/conda-forge/tensorflow-datasets-feedstock.git
 	path = feedstocks/tensorflow-datasets
 	branch = refs/heads/master
+[submodule "ibm_db_sa"]
+	url = https://github.com/conda-forge/ibm_db_sa-feedstock.git
+	path = feedstocks/ibm_db_sa
+	branch = refs/heads/master
