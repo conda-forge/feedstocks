@@ -50242,3 +50242,7 @@
 	url = https://github.com/conda-forge/infinite-sets-feedstock.git
 	path = feedstocks/infinite-sets
 	branch = refs/heads/master
+[submodule "async_retriever"]
+	url = https://github.com/conda-forge/async_retriever-feedstock.git
+	path = feedstocks/async_retriever
+	branch = refs/heads/master
