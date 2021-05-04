@@ -50262,3 +50262,7 @@
 	url = https://github.com/conda-forge/neptune-xgboost-feedstock.git
 	path = feedstocks/neptune-xgboost
 	branch = refs/heads/master
+[submodule "eoreader"]
+	url = https://github.com/conda-forge/eoreader-feedstock.git
+	path = feedstocks/eoreader
+	branch = refs/heads/master
