@@ -50290,3 +50290,7 @@
 	url = https://github.com/conda-forge/window_ops-feedstock.git
 	path = feedstocks/window_ops
 	branch = refs/heads/master
+[submodule "planetary-computer"]
+	url = https://github.com/conda-forge/planetary-computer-feedstock.git
+	path = feedstocks/planetary-computer
+	branch = refs/heads/master
