@@ -50306,3 +50306,7 @@
 	url = https://github.com/conda-forge/eemont-feedstock.git
 	path = feedstocks/eemont
 	branch = refs/heads/master
+[submodule "spatialgeometry"]
+	url = https://github.com/conda-forge/spatialgeometry-feedstock.git
+	path = feedstocks/spatialgeometry
+	branch = refs/heads/master
