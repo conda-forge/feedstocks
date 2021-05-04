@@ -50214,3 +50214,7 @@
 	url = https://github.com/conda-forge/tracktable-feedstock.git
 	path = feedstocks/tracktable
 	branch = refs/heads/master
+[submodule "simclr"]
+	url = https://github.com/conda-forge/simclr-feedstock.git
+	path = feedstocks/simclr
+	branch = refs/heads/master
