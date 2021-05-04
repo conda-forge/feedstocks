@@ -50222,3 +50222,7 @@
 	url = https://github.com/conda-forge/tensorflow-metadata-feedstock.git
 	path = feedstocks/tensorflow-metadata
 	branch = refs/heads/master
+[submodule "tensorflow-datasets"]
+	url = https://github.com/conda-forge/tensorflow-datasets-feedstock.git
+	path = feedstocks/tensorflow-datasets
+	branch = refs/heads/master
