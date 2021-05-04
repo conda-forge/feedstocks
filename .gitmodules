@@ -50294,3 +50294,7 @@
 	url = https://github.com/conda-forge/planetary-computer-feedstock.git
 	path = feedstocks/planetary-computer
 	branch = refs/heads/master
+[submodule "jupyterlab-markup"]
+	url = https://github.com/conda-forge/jupyterlab-markup-feedstock.git
+	path = feedstocks/jupyterlab-markup
+	branch = refs/heads/master
