@@ -50246,3 +50246,7 @@
 	url = https://github.com/conda-forge/async_retriever-feedstock.git
 	path = feedstocks/async_retriever
 	branch = refs/heads/master
+[submodule "p-winds"]
+	url = https://github.com/conda-forge/p-winds-feedstock.git
+	path = feedstocks/p-winds
+	branch = refs/heads/master
