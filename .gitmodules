@@ -50258,3 +50258,7 @@
 	url = https://github.com/conda-forge/sertit-feedstock.git
 	path = feedstocks/sertit
 	branch = refs/heads/master
+[submodule "neptune-xgboost"]
+	url = https://github.com/conda-forge/neptune-xgboost-feedstock.git
+	path = feedstocks/neptune-xgboost
+	branch = refs/heads/master
