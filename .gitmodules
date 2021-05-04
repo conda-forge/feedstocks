@@ -50230,3 +50230,7 @@
 	url = https://github.com/conda-forge/ibm_db_sa-feedstock.git
 	path = feedstocks/ibm_db_sa
 	branch = refs/heads/master
+[submodule "r-h2o"]
+	url = https://github.com/conda-forge/r-h2o-feedstock.git
+	path = feedstocks/r-h2o
+	branch = refs/heads/master
