@@ -50218,3 +50218,7 @@
 	url = https://github.com/conda-forge/simclr-feedstock.git
 	path = feedstocks/simclr
 	branch = refs/heads/master
+[submodule "tensorflow-metadata"]
+	url = https://github.com/conda-forge/tensorflow-metadata-feedstock.git
+	path = feedstocks/tensorflow-metadata
+	branch = refs/heads/master
