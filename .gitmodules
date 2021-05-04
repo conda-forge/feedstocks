@@ -50270,3 +50270,7 @@
 	url = https://github.com/conda-forge/ipyaladin-feedstock.git
 	path = feedstocks/ipyaladin
 	branch = refs/heads/master
+[submodule "neptune-lightgbm"]
+	url = https://github.com/conda-forge/neptune-lightgbm-feedstock.git
+	path = feedstocks/neptune-lightgbm
+	branch = refs/heads/master
