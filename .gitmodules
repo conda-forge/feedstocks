@@ -50302,3 +50302,7 @@
 	url = https://github.com/conda-forge/onnxruntime-feedstock.git
 	path = feedstocks/onnxruntime
 	branch = refs/heads/master
+[submodule "eemont"]
+	url = https://github.com/conda-forge/eemont-feedstock.git
+	path = feedstocks/eemont
+	branch = refs/heads/master
