@@ -50254,3 +50254,7 @@
 	url = https://github.com/conda-forge/neptune-tensorflow-keras-feedstock.git
 	path = feedstocks/neptune-tensorflow-keras
 	branch = refs/heads/master
+[submodule "sertit"]
+	url = https://github.com/conda-forge/sertit-feedstock.git
+	path = feedstocks/sertit
+	branch = refs/heads/master
