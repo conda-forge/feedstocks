@@ -50322,3 +50322,7 @@
 	url = https://github.com/conda-forge/r-quanteda.textplots-feedstock.git
 	path = feedstocks/r-quanteda.textplots
 	branch = refs/heads/master
+[submodule "infrared"]
+	url = https://github.com/conda-forge/infrared-feedstock.git
+	path = feedstocks/infrared
+	branch = refs/heads/master
