@@ -50318,3 +50318,7 @@
 	url = https://github.com/conda-forge/gdal-csharp-feedstock.git
 	path = feedstocks/gdal-csharp
 	branch = refs/heads/master
+[submodule "r-quanteda.textplots"]
+	url = https://github.com/conda-forge/r-quanteda.textplots-feedstock.git
+	path = feedstocks/r-quanteda.textplots
+	branch = refs/heads/master
