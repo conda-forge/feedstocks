@@ -50310,3 +50310,7 @@
 	url = https://github.com/conda-forge/spatialgeometry-feedstock.git
 	path = feedstocks/spatialgeometry
 	branch = refs/heads/master
+[submodule "jupyterlab-drawio"]
+	url = https://github.com/conda-forge/jupyterlab-drawio-feedstock.git
+	path = feedstocks/jupyterlab-drawio
+	branch = refs/heads/master
