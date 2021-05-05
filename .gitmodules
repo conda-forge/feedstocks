@@ -50330,3 +50330,7 @@
 	url = https://github.com/conda-forge/scitokens-feedstock.git
 	path = feedstocks/scitokens
 	branch = refs/heads/master
+[submodule "esmvaltool-python"]
+	url = https://github.com/conda-forge/esmvaltool-python-feedstock.git
+	path = feedstocks/esmvaltool-python
+	branch = refs/heads/master
