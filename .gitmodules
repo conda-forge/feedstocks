@@ -50314,3 +50314,7 @@
 	url = https://github.com/conda-forge/jupyterlab-drawio-feedstock.git
 	path = feedstocks/jupyterlab-drawio
 	branch = refs/heads/master
+[submodule "gdal-csharp"]
+	url = https://github.com/conda-forge/gdal-csharp-feedstock.git
+	path = feedstocks/gdal-csharp
+	branch = refs/heads/master
