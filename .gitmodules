@@ -50326,3 +50326,7 @@
 	url = https://github.com/conda-forge/infrared-feedstock.git
 	path = feedstocks/infrared
 	branch = refs/heads/master
+[submodule "scitokens"]
+	url = https://github.com/conda-forge/scitokens-feedstock.git
+	path = feedstocks/scitokens
+	branch = refs/heads/master
