@@ -50354,3 +50354,7 @@
 	url = https://github.com/conda-forge/grpc-stubs-feedstock.git
 	path = feedstocks/grpc-stubs
 	branch = refs/heads/master
+[submodule "geodatatool"]
+	url = https://github.com/conda-forge/geodatatool-feedstock.git
+	path = feedstocks/geodatatool
+	branch = refs/heads/master
