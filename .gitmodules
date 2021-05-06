@@ -50382,3 +50382,7 @@
 	url = https://github.com/conda-forge/python-fsutil-feedstock.git
 	path = feedstocks/python-fsutil
 	branch = refs/heads/master
+[submodule "r-duckdb"]
+	url = https://github.com/conda-forge/r-duckdb-feedstock.git
+	path = feedstocks/r-duckdb
+	branch = refs/heads/master
