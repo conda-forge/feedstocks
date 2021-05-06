@@ -50346,3 +50346,7 @@
 	url = https://github.com/conda-forge/r-quanteda.textmodels-feedstock.git
 	path = feedstocks/r-quanteda.textmodels
 	branch = refs/heads/master
+[submodule "r-quanteda.textstats"]
+	url = https://github.com/conda-forge/r-quanteda.textstats-feedstock.git
+	path = feedstocks/r-quanteda.textstats
+	branch = refs/heads/master
