@@ -50378,3 +50378,7 @@
 	url = https://github.com/conda-forge/raven-hydro-feedstock.git
 	path = feedstocks/raven-hydro
 	branch = refs/heads/master
+[submodule "python-fsutil"]
+	url = https://github.com/conda-forge/python-fsutil-feedstock.git
+	path = feedstocks/python-fsutil
+	branch = refs/heads/master
