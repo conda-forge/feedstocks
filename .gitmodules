@@ -50362,3 +50362,7 @@
 	url = https://github.com/conda-forge/gcem-feedstock.git
 	path = feedstocks/gcem
 	branch = refs/heads/master
+[submodule "r-hgnchelper"]
+	url = https://github.com/conda-forge/r-hgnchelper-feedstock.git
+	path = feedstocks/r-hgnchelper
+	branch = refs/heads/master
