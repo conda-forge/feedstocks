@@ -50358,3 +50358,7 @@
 	url = https://github.com/conda-forge/geodatatool-feedstock.git
 	path = feedstocks/geodatatool
 	branch = refs/heads/master
+[submodule "gcem"]
+	url = https://github.com/conda-forge/gcem-feedstock.git
+	path = feedstocks/gcem
+	branch = refs/heads/master
