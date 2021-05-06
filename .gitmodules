@@ -50374,3 +50374,7 @@
 	url = https://github.com/conda-forge/ostrich-feedstock.git
 	path = feedstocks/ostrich
 	branch = refs/heads/master
+[submodule "raven-hydro"]
+	url = https://github.com/conda-forge/raven-hydro-feedstock.git
+	path = feedstocks/raven-hydro
+	branch = refs/heads/master
