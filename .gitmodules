@@ -50370,3 +50370,7 @@
 	url = https://github.com/conda-forge/npx-feedstock.git
 	path = feedstocks/npx
 	branch = refs/heads/master
+[submodule "ostrich"]
+	url = https://github.com/conda-forge/ostrich-feedstock.git
+	path = feedstocks/ostrich
+	branch = refs/heads/master
