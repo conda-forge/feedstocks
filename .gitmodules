@@ -50342,3 +50342,7 @@
 	url = https://github.com/conda-forge/r-babelgene-feedstock.git
 	path = feedstocks/r-babelgene
 	branch = refs/heads/master
+[submodule "r-quanteda.textmodels"]
+	url = https://github.com/conda-forge/r-quanteda.textmodels-feedstock.git
+	path = feedstocks/r-quanteda.textmodels
+	branch = refs/heads/master
