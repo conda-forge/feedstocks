@@ -50394,3 +50394,7 @@
 	url = https://github.com/conda-forge/r-cranlogs-feedstock.git
 	path = feedstocks/r-cranlogs
 	branch = refs/heads/master
+[submodule "environ-config"]
+	url = https://github.com/conda-forge/environ-config-feedstock.git
+	path = feedstocks/environ-config
+	branch = refs/heads/master
