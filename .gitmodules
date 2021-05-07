@@ -50398,3 +50398,7 @@
 	url = https://github.com/conda-forge/environ-config-feedstock.git
 	path = feedstocks/environ-config
 	branch = refs/heads/master
+[submodule "dictpath"]
+	url = https://github.com/conda-forge/dictpath-feedstock.git
+	path = feedstocks/dictpath
+	branch = refs/heads/master
