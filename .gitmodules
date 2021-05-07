@@ -50402,3 +50402,7 @@
 	url = https://github.com/conda-forge/dictpath-feedstock.git
 	path = feedstocks/dictpath
 	branch = refs/heads/master
+[submodule "otpauth"]
+	url = https://github.com/conda-forge/otpauth-feedstock.git
+	path = feedstocks/otpauth
+	branch = refs/heads/master
