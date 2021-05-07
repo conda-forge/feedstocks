@@ -50406,3 +50406,7 @@
 	url = https://github.com/conda-forge/otpauth-feedstock.git
 	path = feedstocks/otpauth
 	branch = refs/heads/master
+[submodule "molsystem"]
+	url = https://github.com/conda-forge/molsystem-feedstock.git
+	path = feedstocks/molsystem
+	branch = refs/heads/master
