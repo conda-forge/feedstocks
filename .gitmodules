@@ -50426,3 +50426,7 @@
 	url = https://github.com/conda-forge/josepy-feedstock.git
 	path = feedstocks/josepy
 	branch = refs/heads/master
+[submodule "pyauthenticator"]
+	url = https://github.com/conda-forge/pyauthenticator-feedstock.git
+	path = feedstocks/pyauthenticator
+	branch = refs/heads/master
