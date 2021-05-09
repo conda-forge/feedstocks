@@ -50438,3 +50438,7 @@
 	url = https://github.com/conda-forge/r-rphylopars-feedstock.git
 	path = feedstocks/r-rphylopars
 	branch = refs/heads/master
+[submodule "pycgns"]
+	url = https://github.com/conda-forge/pycgns-feedstock.git
+	path = feedstocks/pycgns
+	branch = refs/heads/master
