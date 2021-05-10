@@ -50482,3 +50482,7 @@
 	url = https://github.com/conda-forge/pytest-codeblocks-feedstock.git
 	path = feedstocks/pytest-codeblocks
 	branch = refs/heads/master
+[submodule "metview-python"]
+	url = https://github.com/conda-forge/metview-python-feedstock.git
+	path = feedstocks/metview-python
+	branch = refs/heads/master
