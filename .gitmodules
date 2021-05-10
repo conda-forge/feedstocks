@@ -50478,3 +50478,7 @@
 	url = https://github.com/conda-forge/mlforecast-feedstock.git
 	path = feedstocks/mlforecast
 	branch = refs/heads/master
+[submodule "pytest-codeblocks"]
+	url = https://github.com/conda-forge/pytest-codeblocks-feedstock.git
+	path = feedstocks/pytest-codeblocks
+	branch = refs/heads/master
