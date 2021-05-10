@@ -50458,3 +50458,7 @@
 	url = https://github.com/conda-forge/aws-c-compression-feedstock.git
 	path = feedstocks/aws-c-compression
 	branch = refs/heads/master
+[submodule "pyfd"]
+	url = https://github.com/conda-forge/pyfd-feedstock.git
+	path = feedstocks/pyfd
+	branch = refs/heads/master
