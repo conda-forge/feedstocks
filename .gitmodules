@@ -50466,3 +50466,7 @@
 	url = https://github.com/conda-forge/terraform-provider-ec-feedstock.git
 	path = feedstocks/terraform-provider-ec
 	branch = refs/heads/master
+[submodule "aws-c-http"]
+	url = https://github.com/conda-forge/aws-c-http-feedstock.git
+	path = feedstocks/aws-c-http
+	branch = refs/heads/master
