@@ -50462,3 +50462,7 @@
 	url = https://github.com/conda-forge/pyfd-feedstock.git
 	path = feedstocks/pyfd
 	branch = refs/heads/master
+[submodule "terraform-provider-ec"]
+	url = https://github.com/conda-forge/terraform-provider-ec-feedstock.git
+	path = feedstocks/terraform-provider-ec
+	branch = refs/heads/master
