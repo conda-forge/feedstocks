@@ -50470,3 +50470,7 @@
 	url = https://github.com/conda-forge/aws-c-http-feedstock.git
 	path = feedstocks/aws-c-http
 	branch = refs/heads/master
+[submodule "acme"]
+	url = https://github.com/conda-forge/acme-feedstock.git
+	path = feedstocks/acme
+	branch = refs/heads/master
