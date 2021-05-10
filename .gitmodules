@@ -50454,3 +50454,7 @@
 	url = https://github.com/conda-forge/english-feedstock.git
 	path = feedstocks/english
 	branch = refs/heads/master
+[submodule "aws-c-compression"]
+	url = https://github.com/conda-forge/aws-c-compression-feedstock.git
+	path = feedstocks/aws-c-compression
+	branch = refs/heads/master
