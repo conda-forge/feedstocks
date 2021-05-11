@@ -50510,3 +50510,7 @@
 	url = https://github.com/conda-forge/codecarbon-feedstock.git
 	path = feedstocks/codecarbon
 	branch = refs/heads/master
+[submodule "ravenpy"]
+	url = https://github.com/conda-forge/ravenpy-feedstock.git
+	path = feedstocks/ravenpy
+	branch = refs/heads/master
