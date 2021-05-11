@@ -50502,3 +50502,7 @@
 	url = https://github.com/conda-forge/aws-c-mqtt-feedstock.git
 	path = feedstocks/aws-c-mqtt
 	branch = refs/heads/master
+[submodule "gemseo"]
+	url = https://github.com/conda-forge/gemseo-feedstock.git
+	path = feedstocks/gemseo
+	branch = refs/heads/master
