@@ -50514,3 +50514,7 @@
 	url = https://github.com/conda-forge/ravenpy-feedstock.git
 	path = feedstocks/ravenpy
 	branch = refs/heads/master
+[submodule "res-mlp-pytorch"]
+	url = https://github.com/conda-forge/res-mlp-pytorch-feedstock.git
+	path = feedstocks/res-mlp-pytorch
+	branch = refs/heads/master
