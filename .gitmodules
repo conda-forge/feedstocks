@@ -50498,3 +50498,7 @@
 	url = https://github.com/conda-forge/lhcbstyle-feedstock.git
 	path = feedstocks/lhcbstyle
 	branch = refs/heads/master
+[submodule "aws-c-mqtt"]
+	url = https://github.com/conda-forge/aws-c-mqtt-feedstock.git
+	path = feedstocks/aws-c-mqtt
+	branch = refs/heads/master
