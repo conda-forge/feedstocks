@@ -50506,3 +50506,7 @@
 	url = https://github.com/conda-forge/gemseo-feedstock.git
 	path = feedstocks/gemseo
 	branch = refs/heads/master
+[submodule "codecarbon"]
+	url = https://github.com/conda-forge/codecarbon-feedstock.git
+	path = feedstocks/codecarbon
+	branch = refs/heads/master
