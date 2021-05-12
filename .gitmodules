@@ -50518,3 +50518,7 @@
 	url = https://github.com/conda-forge/res-mlp-pytorch-feedstock.git
 	path = feedstocks/res-mlp-pytorch
 	branch = refs/heads/master
+[submodule "aiohttp-client-cache"]
+	url = https://github.com/conda-forge/aiohttp-client-cache-feedstock.git
+	path = feedstocks/aiohttp-client-cache
+	branch = refs/heads/master
