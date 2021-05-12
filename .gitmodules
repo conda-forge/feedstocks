@@ -50542,3 +50542,7 @@
 	url = https://github.com/conda-forge/r-terra-feedstock.git
 	path = feedstocks/r-terra
 	branch = refs/heads/master
+[submodule "elastic-apm"]
+	url = https://github.com/conda-forge/elastic-apm-feedstock.git
+	path = feedstocks/elastic-apm
+	branch = refs/heads/master
