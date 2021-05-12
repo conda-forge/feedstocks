@@ -50522,3 +50522,7 @@
 	url = https://github.com/conda-forge/aiohttp-client-cache-feedstock.git
 	path = feedstocks/aiohttp-client-cache
 	branch = refs/heads/master
+[submodule "r-hues"]
+	url = https://github.com/conda-forge/r-hues-feedstock.git
+	path = feedstocks/r-hues
+	branch = refs/heads/master
