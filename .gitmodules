@@ -50538,3 +50538,7 @@
 	url = https://github.com/conda-forge/r-gdalcubes-feedstock.git
 	path = feedstocks/r-gdalcubes
 	branch = refs/heads/master
+[submodule "r-terra"]
+	url = https://github.com/conda-forge/r-terra-feedstock.git
+	path = feedstocks/r-terra
+	branch = refs/heads/master
