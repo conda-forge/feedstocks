@@ -50530,3 +50530,7 @@
 	url = https://github.com/conda-forge/r-academictwitter-feedstock.git
 	path = feedstocks/r-academictwitter
 	branch = refs/heads/master
+[submodule "boto3-stubs"]
+	url = https://github.com/conda-forge/boto3-stubs-feedstock.git
+	path = feedstocks/boto3-stubs
+	branch = refs/heads/master
