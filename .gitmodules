@@ -50566,3 +50566,7 @@
 	url = https://github.com/conda-forge/mi-fieldcalc-feedstock.git
 	path = feedstocks/mi-fieldcalc
 	branch = refs/heads/master
+[submodule "commentjson"]
+	url = https://github.com/conda-forge/commentjson-feedstock.git
+	path = feedstocks/commentjson
+	branch = refs/heads/master
