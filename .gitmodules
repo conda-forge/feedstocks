@@ -50578,3 +50578,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-s3-feedstock.git
 	path = feedstocks/mypy-boto3-s3
 	branch = refs/heads/master
+[submodule "pgcolorbar"]
+	url = https://github.com/conda-forge/pgcolorbar-feedstock.git
+	path = feedstocks/pgcolorbar
+	branch = refs/heads/master
