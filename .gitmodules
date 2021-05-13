@@ -50550,3 +50550,7 @@
 	url = https://github.com/conda-forge/aws-c-auth-feedstock.git
 	path = feedstocks/aws-c-auth
 	branch = refs/heads/master
+[submodule "geovista"]
+	url = https://github.com/conda-forge/geovista-feedstock.git
+	path = feedstocks/geovista
+	branch = refs/heads/master
