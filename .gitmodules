@@ -50622,3 +50622,7 @@
 	url = https://github.com/conda-forge/resolvelib-feedstock.git
 	path = feedstocks/resolvelib
 	branch = refs/heads/master
+[submodule "pymt_geotiff"]
+	url = https://github.com/conda-forge/pymt_geotiff-feedstock.git
+	path = feedstocks/pymt_geotiff
+	branch = refs/heads/master
