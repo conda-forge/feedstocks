@@ -50618,3 +50618,7 @@
 	url = https://github.com/conda-forge/moreutils-feedstock.git
 	path = feedstocks/moreutils
 	branch = refs/heads/master
+[submodule "resolvelib"]
+	url = https://github.com/conda-forge/resolvelib-feedstock.git
+	path = feedstocks/resolvelib
+	branch = refs/heads/master
