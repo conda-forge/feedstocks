@@ -50626,3 +50626,7 @@
 	url = https://github.com/conda-forge/pymt_geotiff-feedstock.git
 	path = feedstocks/pymt_geotiff
 	branch = refs/heads/master
+[submodule "remove_dagmc_tags"]
+	url = https://github.com/conda-forge/remove_dagmc_tags-feedstock.git
+	path = feedstocks/remove_dagmc_tags
+	branch = refs/heads/master
