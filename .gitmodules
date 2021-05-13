@@ -50614,3 +50614,7 @@
 	url = https://github.com/conda-forge/cmlib-feedstock.git
 	path = feedstocks/cmlib
 	branch = refs/heads/master
+[submodule "moreutils"]
+	url = https://github.com/conda-forge/moreutils-feedstock.git
+	path = feedstocks/moreutils
+	branch = refs/heads/master
