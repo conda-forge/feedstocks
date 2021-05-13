@@ -50610,3 +50610,7 @@
 	url = https://github.com/conda-forge/argos-feedstock.git
 	path = feedstocks/argos
 	branch = refs/heads/master
+[submodule "cmlib"]
+	url = https://github.com/conda-forge/cmlib-feedstock.git
+	path = feedstocks/cmlib
+	branch = refs/heads/master
