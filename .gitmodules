@@ -50606,3 +50606,7 @@
 	url = https://github.com/conda-forge/xoa-feedstock.git
 	path = feedstocks/xoa
 	branch = refs/heads/master
+[submodule "argos"]
+	url = https://github.com/conda-forge/argos-feedstock.git
+	path = feedstocks/argos
+	branch = refs/heads/master
