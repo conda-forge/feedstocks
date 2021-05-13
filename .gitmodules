@@ -50630,3 +50630,7 @@
 	url = https://github.com/conda-forge/remove_dagmc_tags-feedstock.git
 	path = feedstocks/remove_dagmc_tags
 	branch = refs/heads/master
+[submodule "diffmah"]
+	url = https://github.com/conda-forge/diffmah-feedstock.git
+	path = feedstocks/diffmah
+	branch = refs/heads/master
