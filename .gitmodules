@@ -50554,3 +50554,7 @@
 	url = https://github.com/conda-forge/geovista-feedstock.git
 	path = feedstocks/geovista
 	branch = refs/heads/master
+[submodule "yoda"]
+	url = https://github.com/conda-forge/yoda-feedstock.git
+	path = feedstocks/yoda
+	branch = refs/heads/master
