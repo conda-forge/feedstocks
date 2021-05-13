@@ -50546,3 +50546,7 @@
 	url = https://github.com/conda-forge/elastic-apm-feedstock.git
 	path = feedstocks/elastic-apm
 	branch = refs/heads/master
+[submodule "aws-c-auth"]
+	url = https://github.com/conda-forge/aws-c-auth-feedstock.git
+	path = feedstocks/aws-c-auth
+	branch = refs/heads/master
