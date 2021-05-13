@@ -50574,3 +50574,7 @@
 	url = https://github.com/conda-forge/pyaaf2-feedstock.git
 	path = feedstocks/pyaaf2
 	branch = refs/heads/master
+[submodule "mypy-boto3-s3"]
+	url = https://github.com/conda-forge/mypy-boto3-s3-feedstock.git
+	path = feedstocks/mypy-boto3-s3
+	branch = refs/heads/master
