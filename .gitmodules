@@ -50594,3 +50594,7 @@
 	url = https://github.com/conda-forge/jupyterlab-interactive-dashboard-editor-feedstock.git
 	path = feedstocks/jupyterlab-interactive-dashboard-editor
 	branch = refs/heads/master
+[submodule "gnome-themes-standard"]
+	url = https://github.com/conda-forge/gnome-themes-standard-feedstock.git
+	path = feedstocks/gnome-themes-standard
+	branch = refs/heads/master
