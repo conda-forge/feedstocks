@@ -50670,3 +50670,7 @@
 	url = https://github.com/conda-forge/yaqd-edaq-feedstock.git
 	path = feedstocks/yaqd-edaq
 	branch = refs/heads/master
+[submodule "farmos"]
+	url = https://github.com/conda-forge/farmos-feedstock.git
+	path = feedstocks/farmos
+	branch = refs/heads/master
