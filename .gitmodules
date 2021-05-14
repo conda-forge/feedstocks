@@ -50674,3 +50674,7 @@
 	url = https://github.com/conda-forge/farmos-feedstock.git
 	path = feedstocks/farmos
 	branch = refs/heads/master
+[submodule "r-gdalutilities"]
+	url = https://github.com/conda-forge/r-gdalutilities-feedstock.git
+	path = feedstocks/r-gdalutilities
+	branch = refs/heads/master
