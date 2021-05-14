@@ -50682,3 +50682,7 @@
 	url = https://github.com/conda-forge/djangorestframework-stubs-feedstock.git
 	path = feedstocks/djangorestframework-stubs
 	branch = refs/heads/master
+[submodule "mdformat"]
+	url = https://github.com/conda-forge/mdformat-feedstock.git
+	path = feedstocks/mdformat
+	branch = refs/heads/master
