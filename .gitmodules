@@ -50690,3 +50690,7 @@
 	url = https://github.com/conda-forge/returns-feedstock.git
 	path = feedstocks/returns
 	branch = refs/heads/master
+[submodule "tonic"]
+	url = https://github.com/conda-forge/tonic-feedstock.git
+	path = feedstocks/tonic
+	branch = refs/heads/master
