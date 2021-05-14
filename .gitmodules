@@ -50646,3 +50646,7 @@
 	url = https://github.com/conda-forge/pyoccad-feedstock.git
 	path = feedstocks/pyoccad
 	branch = refs/heads/master
+[submodule "teamcity-messages"]
+	url = https://github.com/conda-forge/teamcity-messages-feedstock.git
+	path = feedstocks/teamcity-messages
+	branch = refs/heads/master
