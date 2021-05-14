@@ -50662,3 +50662,7 @@
 	url = https://github.com/conda-forge/actions-includes-feedstock.git
 	path = feedstocks/actions-includes
 	branch = refs/heads/master
+[submodule "loris"]
+	url = https://github.com/conda-forge/loris-feedstock.git
+	path = feedstocks/loris
+	branch = refs/heads/master
