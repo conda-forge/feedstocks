@@ -50678,3 +50678,7 @@
 	url = https://github.com/conda-forge/r-gdalutilities-feedstock.git
 	path = feedstocks/r-gdalutilities
 	branch = refs/heads/master
+[submodule "djangorestframework-stubs"]
+	url = https://github.com/conda-forge/djangorestframework-stubs-feedstock.git
+	path = feedstocks/djangorestframework-stubs
+	branch = refs/heads/master
