@@ -50698,3 +50698,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-stubs-feedstock.git
 	path = feedstocks/sqlalchemy-stubs
 	branch = refs/heads/master
+[submodule "lxml-stubs"]
+	url = https://github.com/conda-forge/lxml-stubs-feedstock.git
+	path = feedstocks/lxml-stubs
+	branch = refs/heads/master
