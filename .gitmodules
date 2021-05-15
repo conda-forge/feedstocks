@@ -50706,3 +50706,7 @@
 	url = https://github.com/conda-forge/seamm-widgets-feedstock.git
 	path = feedstocks/seamm-widgets
 	branch = refs/heads/master
+[submodule "seamm"]
+	url = https://github.com/conda-forge/seamm-feedstock.git
+	path = feedstocks/seamm
+	branch = refs/heads/master
