@@ -50694,3 +50694,7 @@
 	url = https://github.com/conda-forge/tonic-feedstock.git
 	path = feedstocks/tonic
 	branch = refs/heads/master
+[submodule "sqlalchemy-stubs"]
+	url = https://github.com/conda-forge/sqlalchemy-stubs-feedstock.git
+	path = feedstocks/sqlalchemy-stubs
+	branch = refs/heads/master
