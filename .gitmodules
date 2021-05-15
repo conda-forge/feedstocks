@@ -50726,3 +50726,7 @@
 	url = https://github.com/conda-forge/zope.component-feedstock.git
 	path = feedstocks/zope.component
 	branch = refs/heads/master
+[submodule "nwchem"]
+	url = https://github.com/conda-forge/nwchem-feedstock.git
+	path = feedstocks/nwchem
+	branch = refs/heads/master
