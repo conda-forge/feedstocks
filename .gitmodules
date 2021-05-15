@@ -50714,3 +50714,7 @@
 	url = https://github.com/conda-forge/reference-handler-feedstock.git
 	path = feedstocks/reference-handler
 	branch = refs/heads/master
+[submodule "seamm-ff-util"]
+	url = https://github.com/conda-forge/seamm-ff-util-feedstock.git
+	path = feedstocks/seamm-ff-util
+	branch = refs/heads/master
