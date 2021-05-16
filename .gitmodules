@@ -50730,3 +50730,7 @@
 	url = https://github.com/conda-forge/nwchem-feedstock.git
 	path = feedstocks/nwchem
 	branch = refs/heads/master
+[submodule "mypy_boto3_dynamodb"]
+	url = https://github.com/conda-forge/mypy_boto3_dynamodb-feedstock.git
+	path = feedstocks/mypy_boto3_dynamodb
+	branch = refs/heads/master
