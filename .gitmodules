@@ -50758,3 +50758,7 @@
 	url = https://github.com/conda-forge/mypy_boto3_builder-feedstock.git
 	path = feedstocks/mypy_boto3_builder
 	branch = refs/heads/master
+[submodule "typical"]
+	url = https://github.com/conda-forge/typical-feedstock.git
+	path = feedstocks/typical
+	branch = refs/heads/master
