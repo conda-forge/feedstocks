@@ -50798,3 +50798,7 @@
 	url = https://github.com/conda-forge/radioactivedecay-feedstock.git
 	path = feedstocks/radioactivedecay
 	branch = refs/heads/master
+[submodule "r-astsa"]
+	url = https://github.com/conda-forge/r-astsa-feedstock.git
+	path = feedstocks/r-astsa
+	branch = refs/heads/master
