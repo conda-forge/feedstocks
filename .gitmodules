@@ -50750,3 +50750,7 @@
 	url = https://github.com/conda-forge/mypy_boto3_lambda-feedstock.git
 	path = feedstocks/mypy_boto3_lambda
 	branch = refs/heads/master
+[submodule "mypy_boto3_ec2"]
+	url = https://github.com/conda-forge/mypy_boto3_ec2-feedstock.git
+	path = feedstocks/mypy_boto3_ec2
+	branch = refs/heads/master
