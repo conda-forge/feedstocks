@@ -50746,3 +50746,7 @@
 	url = https://github.com/conda-forge/mypy_boto3_rds-feedstock.git
 	path = feedstocks/mypy_boto3_rds
 	branch = refs/heads/master
+[submodule "mypy_boto3_lambda"]
+	url = https://github.com/conda-forge/mypy_boto3_lambda-feedstock.git
+	path = feedstocks/mypy_boto3_lambda
+	branch = refs/heads/master
