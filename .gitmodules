@@ -50810,3 +50810,7 @@
 	url = https://github.com/conda-forge/certbot-feedstock.git
 	path = feedstocks/certbot
 	branch = refs/heads/master
+[submodule "flake8-use-pathlib"]
+	url = https://github.com/conda-forge/flake8-use-pathlib-feedstock.git
+	path = feedstocks/flake8-use-pathlib
+	branch = refs/heads/master
