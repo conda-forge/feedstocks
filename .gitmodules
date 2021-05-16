@@ -50790,3 +50790,7 @@
 	url = https://github.com/conda-forge/r-modeltime-feedstock.git
 	path = feedstocks/r-modeltime
 	branch = refs/heads/master
+[submodule "r-rlgt"]
+	url = https://github.com/conda-forge/r-rlgt-feedstock.git
+	path = feedstocks/r-rlgt
+	branch = refs/heads/master
