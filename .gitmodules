@@ -50794,3 +50794,7 @@
 	url = https://github.com/conda-forge/r-rlgt-feedstock.git
 	path = feedstocks/r-rlgt
 	branch = refs/heads/master
+[submodule "radioactivedecay"]
+	url = https://github.com/conda-forge/radioactivedecay-feedstock.git
+	path = feedstocks/radioactivedecay
+	branch = refs/heads/master
