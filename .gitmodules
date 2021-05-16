@@ -50770,3 +50770,7 @@
 	url = https://github.com/conda-forge/pydrill-feedstock.git
 	path = feedstocks/pydrill
 	branch = refs/heads/master
+[submodule "wsgitypes"]
+	url = https://github.com/conda-forge/wsgitypes-feedstock.git
+	path = feedstocks/wsgitypes
+	branch = refs/heads/master
