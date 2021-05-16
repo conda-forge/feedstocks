@@ -50734,3 +50734,7 @@
 	url = https://github.com/conda-forge/mypy_boto3_dynamodb-feedstock.git
 	path = feedstocks/mypy_boto3_dynamodb
 	branch = refs/heads/master
+[submodule "mypy_boto3_sqs"]
+	url = https://github.com/conda-forge/mypy_boto3_sqs-feedstock.git
+	path = feedstocks/mypy_boto3_sqs
+	branch = refs/heads/master
