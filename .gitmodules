@@ -50762,3 +50762,7 @@
 	url = https://github.com/conda-forge/typical-feedstock.git
 	path = feedstocks/typical
 	branch = refs/heads/master
+[submodule "python-mistralclient"]
+	url = https://github.com/conda-forge/python-mistralclient-feedstock.git
+	path = feedstocks/python-mistralclient
+	branch = refs/heads/master
