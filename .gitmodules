@@ -50786,3 +50786,7 @@
 	url = https://github.com/conda-forge/euporie-feedstock.git
 	path = feedstocks/euporie
 	branch = refs/heads/master
+[submodule "r-modeltime"]
+	url = https://github.com/conda-forge/r-modeltime-feedstock.git
+	path = feedstocks/r-modeltime
+	branch = refs/heads/master
