@@ -50806,3 +50806,7 @@
 	url = https://github.com/conda-forge/r-bayesforecast-feedstock.git
 	path = feedstocks/r-bayesforecast
 	branch = refs/heads/master
+[submodule "certbot"]
+	url = https://github.com/conda-forge/certbot-feedstock.git
+	path = feedstocks/certbot
+	branch = refs/heads/master
