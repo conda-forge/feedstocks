@@ -50814,3 +50814,7 @@
 	url = https://github.com/conda-forge/flake8-use-pathlib-feedstock.git
 	path = feedstocks/flake8-use-pathlib
 	branch = refs/heads/master
+[submodule "python-troveclient"]
+	url = https://github.com/conda-forge/python-troveclient-feedstock.git
+	path = feedstocks/python-troveclient
+	branch = refs/heads/master
