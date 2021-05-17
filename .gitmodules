@@ -50826,3 +50826,7 @@
 	url = https://github.com/conda-forge/vector-feedstock.git
 	path = feedstocks/vector
 	branch = refs/heads/master
+[submodule "aws-crt-cpp"]
+	url = https://github.com/conda-forge/aws-crt-cpp-feedstock.git
+	path = feedstocks/aws-crt-cpp
+	branch = refs/heads/master
