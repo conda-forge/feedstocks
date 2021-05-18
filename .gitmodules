@@ -50834,3 +50834,7 @@
 	url = https://github.com/conda-forge/seamm-installer-feedstock.git
 	path = feedstocks/seamm-installer
 	branch = refs/heads/master
+[submodule "jaconv"]
+	url = https://github.com/conda-forge/jaconv-feedstock.git
+	path = feedstocks/jaconv
+	branch = refs/heads/master
