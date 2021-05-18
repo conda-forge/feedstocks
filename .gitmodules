@@ -50862,3 +50862,7 @@
 	url = https://github.com/conda-forge/conda-content-trust-feedstock.git
 	path = feedstocks/conda-content-trust
 	branch = refs/heads/master
+[submodule "openff-utilities"]
+	url = https://github.com/conda-forge/openff-utilities-feedstock.git
+	path = feedstocks/openff-utilities
+	branch = refs/heads/master
