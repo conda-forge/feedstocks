@@ -50846,3 +50846,7 @@
 	url = https://github.com/conda-forge/mapshader-feedstock.git
 	path = feedstocks/mapshader
 	branch = refs/heads/master
+[submodule "opentelemetry-semantic-conventions"]
+	url = https://github.com/conda-forge/opentelemetry-semantic-conventions-feedstock.git
+	path = feedstocks/opentelemetry-semantic-conventions
+	branch = refs/heads/master
