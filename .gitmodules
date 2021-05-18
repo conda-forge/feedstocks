@@ -50854,3 +50854,7 @@
 	url = https://github.com/conda-forge/diffpriv-feedstock.git
 	path = feedstocks/diffpriv
 	branch = refs/heads/master
+[submodule "cloup"]
+	url = https://github.com/conda-forge/cloup-feedstock.git
+	path = feedstocks/cloup
+	branch = refs/heads/master
