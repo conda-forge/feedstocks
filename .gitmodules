@@ -50842,3 +50842,7 @@
 	url = https://github.com/conda-forge/genestboost-feedstock.git
 	path = feedstocks/genestboost
 	branch = refs/heads/master
+[submodule "mapshader"]
+	url = https://github.com/conda-forge/mapshader-feedstock.git
+	path = feedstocks/mapshader
+	branch = refs/heads/master
