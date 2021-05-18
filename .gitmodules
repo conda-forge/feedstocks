@@ -50830,3 +50830,7 @@
 	url = https://github.com/conda-forge/aws-crt-cpp-feedstock.git
 	path = feedstocks/aws-crt-cpp
 	branch = refs/heads/master
+[submodule "seamm-installer"]
+	url = https://github.com/conda-forge/seamm-installer-feedstock.git
+	path = feedstocks/seamm-installer
+	branch = refs/heads/master
