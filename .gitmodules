@@ -50894,3 +50894,7 @@
 	url = https://github.com/conda-forge/r-mailr-feedstock.git
 	path = feedstocks/r-mailr
 	branch = refs/heads/master
+[submodule "python-hcl2"]
+	url = https://github.com/conda-forge/python-hcl2-feedstock.git
+	path = feedstocks/python-hcl2
+	branch = refs/heads/master
