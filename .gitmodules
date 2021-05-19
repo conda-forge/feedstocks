@@ -50886,3 +50886,7 @@
 	url = https://github.com/conda-forge/r-dataeditr-feedstock.git
 	path = feedstocks/r-dataeditr
 	branch = refs/heads/master
+[submodule "xgems"]
+	url = https://github.com/conda-forge/xgems-feedstock.git
+	path = feedstocks/xgems
+	branch = refs/heads/master
