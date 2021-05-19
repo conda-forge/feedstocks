@@ -50874,3 +50874,7 @@
 	url = https://github.com/conda-forge/pyiron_gui-feedstock.git
 	path = feedstocks/pyiron_gui
 	branch = refs/heads/master
+[submodule "sphinx-asdf"]
+	url = https://github.com/conda-forge/sphinx-asdf-feedstock.git
+	path = feedstocks/sphinx-asdf
+	branch = refs/heads/master
