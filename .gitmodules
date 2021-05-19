@@ -50902,3 +50902,7 @@
 	url = https://github.com/conda-forge/python-lsp-black-feedstock.git
 	path = feedstocks/python-lsp-black
 	branch = refs/heads/master
+[submodule "gyptis"]
+	url = https://github.com/conda-forge/gyptis-feedstock.git
+	path = feedstocks/gyptis
+	branch = refs/heads/master
