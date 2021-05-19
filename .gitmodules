@@ -50898,3 +50898,7 @@
 	url = https://github.com/conda-forge/python-hcl2-feedstock.git
 	path = feedstocks/python-hcl2
 	branch = refs/heads/master
+[submodule "python-lsp-black"]
+	url = https://github.com/conda-forge/python-lsp-black-feedstock.git
+	path = feedstocks/python-lsp-black
+	branch = refs/heads/master
