@@ -50918,3 +50918,7 @@
 	url = https://github.com/conda-forge/neptune-optuna-feedstock.git
 	path = feedstocks/neptune-optuna
 	branch = refs/heads/master
+[submodule "r-curry"]
+	url = https://github.com/conda-forge/r-curry-feedstock.git
+	path = feedstocks/r-curry
+	branch = refs/heads/master
