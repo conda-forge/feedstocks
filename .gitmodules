@@ -50922,3 +50922,7 @@
 	url = https://github.com/conda-forge/r-curry-feedstock.git
 	path = feedstocks/r-curry
 	branch = refs/heads/master
+[submodule "photos"]
+	url = https://github.com/conda-forge/photos-feedstock.git
+	path = feedstocks/photos
+	branch = refs/heads/master
