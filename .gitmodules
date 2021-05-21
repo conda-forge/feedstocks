@@ -50942,3 +50942,7 @@
 	url = https://github.com/conda-forge/picojson-feedstock.git
 	path = feedstocks/picojson
 	branch = refs/heads/master
+[submodule "python-infomap"]
+	url = https://github.com/conda-forge/python-infomap-feedstock.git
+	path = feedstocks/python-infomap
+	branch = refs/heads/master
