@@ -50934,3 +50934,7 @@
 	url = https://github.com/conda-forge/jwt-cpp-feedstock.git
 	path = feedstocks/jwt-cpp
 	branch = refs/heads/master
+[submodule "scitokens-cpp"]
+	url = https://github.com/conda-forge/scitokens-cpp-feedstock.git
+	path = feedstocks/scitokens-cpp
+	branch = refs/heads/master
