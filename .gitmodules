@@ -50958,3 +50958,7 @@
 	url = https://github.com/conda-forge/mssql-scripter-feedstock.git
 	path = feedstocks/mssql-scripter
 	branch = refs/heads/master
+[submodule "hydromt_wflow"]
+	url = https://github.com/conda-forge/hydromt_wflow-feedstock.git
+	path = feedstocks/hydromt_wflow
+	branch = refs/heads/master
