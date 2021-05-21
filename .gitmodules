@@ -50950,3 +50950,7 @@
 	url = https://github.com/conda-forge/ipyx-feedstock.git
 	path = feedstocks/ipyx
 	branch = refs/heads/master
+[submodule "perceptualdiff"]
+	url = https://github.com/conda-forge/perceptualdiff-feedstock.git
+	path = feedstocks/perceptualdiff
+	branch = refs/heads/master
