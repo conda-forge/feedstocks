@@ -50954,3 +50954,7 @@
 	url = https://github.com/conda-forge/perceptualdiff-feedstock.git
 	path = feedstocks/perceptualdiff
 	branch = refs/heads/master
+[submodule "mssql-scripter"]
+	url = https://github.com/conda-forge/mssql-scripter-feedstock.git
+	path = feedstocks/mssql-scripter
+	branch = refs/heads/master
