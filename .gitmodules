@@ -50970,3 +50970,7 @@
 	url = https://github.com/conda-forge/jupyterlab-cell-flash-feedstock.git
 	path = feedstocks/jupyterlab-cell-flash
 	branch = refs/heads/master
+[submodule "retrolab"]
+	url = https://github.com/conda-forge/retrolab-feedstock.git
+	path = feedstocks/retrolab
+	branch = refs/heads/master
