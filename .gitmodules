@@ -50966,3 +50966,7 @@
 	url = https://github.com/conda-forge/plum-py-feedstock.git
 	path = feedstocks/plum-py
 	branch = refs/heads/master
+[submodule "jupyterlab-cell-flash"]
+	url = https://github.com/conda-forge/jupyterlab-cell-flash-feedstock.git
+	path = feedstocks/jupyterlab-cell-flash
+	branch = refs/heads/master
