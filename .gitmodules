@@ -51002,3 +51002,7 @@
 	url = https://github.com/conda-forge/vecstack-feedstock.git
 	path = feedstocks/vecstack
 	branch = refs/heads/master
+[submodule "eiquadprog"]
+	url = https://github.com/conda-forge/eiquadprog-feedstock.git
+	path = feedstocks/eiquadprog
+	branch = refs/heads/master
