@@ -51010,3 +51010,7 @@
 	url = https://github.com/conda-forge/poetry-dynamic-versioning-feedstock.git
 	path = feedstocks/poetry-dynamic-versioning
 	branch = refs/heads/master
+[submodule "sunpy-soar"]
+	url = https://github.com/conda-forge/sunpy-soar-feedstock.git
+	path = feedstocks/sunpy-soar
+	branch = refs/heads/master
