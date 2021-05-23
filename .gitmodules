@@ -50990,3 +50990,7 @@
 	url = https://github.com/conda-forge/ptpython-feedstock.git
 	path = feedstocks/ptpython
 	branch = refs/heads/master
+[submodule "python-augeas"]
+	url = https://github.com/conda-forge/python-augeas-feedstock.git
+	path = feedstocks/python-augeas
+	branch = refs/heads/master
