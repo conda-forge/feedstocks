@@ -51006,3 +51006,7 @@
 	url = https://github.com/conda-forge/eiquadprog-feedstock.git
 	path = feedstocks/eiquadprog
 	branch = refs/heads/master
+[submodule "poetry-dynamic-versioning"]
+	url = https://github.com/conda-forge/poetry-dynamic-versioning-feedstock.git
+	path = feedstocks/poetry-dynamic-versioning
+	branch = refs/heads/master
