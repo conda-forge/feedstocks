@@ -51062,3 +51062,7 @@
 	url = https://github.com/conda-forge/r-waterfall-feedstock.git
 	path = feedstocks/r-waterfall
 	branch = refs/heads/master
+[submodule "pytmd"]
+	url = https://github.com/conda-forge/pytmd-feedstock.git
+	path = feedstocks/pytmd
+	branch = refs/heads/master
