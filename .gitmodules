@@ -51038,3 +51038,7 @@
 	url = https://github.com/conda-forge/quantiphyse-feedstock.git
 	path = feedstocks/quantiphyse
 	branch = refs/heads/master
+[submodule "libsvm-python"]
+	url = https://github.com/conda-forge/libsvm-python-feedstock.git
+	path = feedstocks/libsvm-python
+	branch = refs/heads/master
