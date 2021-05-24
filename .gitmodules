@@ -51054,3 +51054,7 @@
 	url = https://github.com/conda-forge/r-ggh4x-feedstock.git
 	path = feedstocks/r-ggh4x
 	branch = refs/heads/master
+[submodule "r-tidygeocoder"]
+	url = https://github.com/conda-forge/r-tidygeocoder-feedstock.git
+	path = feedstocks/r-tidygeocoder
+	branch = refs/heads/master
