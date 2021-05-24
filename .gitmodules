@@ -51046,3 +51046,7 @@
 	url = https://github.com/conda-forge/image-quality-feedstock.git
 	path = feedstocks/image-quality
 	branch = refs/heads/master
+[submodule "pyfab"]
+	url = https://github.com/conda-forge/pyfab-feedstock.git
+	path = feedstocks/pyfab
+	branch = refs/heads/master
