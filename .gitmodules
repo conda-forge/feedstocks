@@ -51078,3 +51078,7 @@
 	url = https://github.com/conda-forge/certbot-apache-feedstock.git
 	path = feedstocks/certbot-apache
 	branch = refs/heads/master
+[submodule "certbot-nginx"]
+	url = https://github.com/conda-forge/certbot-nginx-feedstock.git
+	path = feedstocks/certbot-nginx
+	branch = refs/heads/master
