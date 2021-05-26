@@ -51118,3 +51118,7 @@
 	url = https://github.com/conda-forge/liquidpy-feedstock.git
 	path = feedstocks/liquidpy
 	branch = refs/heads/master
+[submodule "policy_sentry"]
+	url = https://github.com/conda-forge/policy_sentry-feedstock.git
+	path = feedstocks/policy_sentry
+	branch = refs/heads/master
