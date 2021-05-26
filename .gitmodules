@@ -51138,3 +51138,7 @@
 	url = https://github.com/conda-forge/diot-feedstock.git
 	path = feedstocks/diot
 	branch = refs/heads/master
+[submodule "prettyprinter"]
+	url = https://github.com/conda-forge/prettyprinter-feedstock.git
+	path = feedstocks/prettyprinter
+	branch = refs/heads/master
