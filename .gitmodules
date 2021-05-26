@@ -51122,3 +51122,7 @@
 	url = https://github.com/conda-forge/policy_sentry-feedstock.git
 	path = feedstocks/policy_sentry
 	branch = refs/heads/master
+[submodule "scikit-gstat"]
+	url = https://github.com/conda-forge/scikit-gstat-feedstock.git
+	path = feedstocks/scikit-gstat
+	branch = refs/heads/master
