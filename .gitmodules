@@ -51114,3 +51114,7 @@
 	url = https://github.com/conda-forge/r-dina-feedstock.git
 	path = feedstocks/r-dina
 	branch = refs/heads/master
+[submodule "liquidpy"]
+	url = https://github.com/conda-forge/liquidpy-feedstock.git
+	path = feedstocks/liquidpy
+	branch = refs/heads/master
