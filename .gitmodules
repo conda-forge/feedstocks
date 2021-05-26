@@ -51166,3 +51166,7 @@
 	url = https://github.com/conda-forge/meshzoo-feedstock.git
 	path = feedstocks/meshzoo
 	branch = refs/heads/master
+[submodule "yoyo-migrations"]
+	url = https://github.com/conda-forge/yoyo-migrations-feedstock.git
+	path = feedstocks/yoyo-migrations
+	branch = refs/heads/master
