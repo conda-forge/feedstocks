@@ -51142,3 +51142,7 @@
 	url = https://github.com/conda-forge/prettyprinter-feedstock.git
 	path = feedstocks/prettyprinter
 	branch = refs/heads/master
+[submodule "openff-units"]
+	url = https://github.com/conda-forge/openff-units-feedstock.git
+	path = feedstocks/openff-units
+	branch = refs/heads/master
