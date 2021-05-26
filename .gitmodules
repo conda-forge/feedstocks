@@ -51130,3 +51130,7 @@
 	url = https://github.com/conda-forge/lpips-feedstock.git
 	path = feedstocks/lpips
 	branch = refs/heads/master
+[submodule "pytransform3d"]
+	url = https://github.com/conda-forge/pytransform3d-feedstock.git
+	path = feedstocks/pytransform3d
+	branch = refs/heads/master
