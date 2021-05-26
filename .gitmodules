@@ -51174,3 +51174,7 @@
 	url = https://github.com/conda-forge/r-scattermore-feedstock.git
 	path = feedstocks/r-scattermore
 	branch = refs/heads/master
+[submodule "mfem"]
+	url = https://github.com/conda-forge/mfem-feedstock.git
+	path = feedstocks/mfem
+	branch = refs/heads/master
