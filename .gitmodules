@@ -51162,3 +51162,7 @@
 	url = https://github.com/conda-forge/lbl-repack-feedstock.git
 	path = feedstocks/lbl-repack
 	branch = refs/heads/master
+[submodule "meshzoo"]
+	url = https://github.com/conda-forge/meshzoo-feedstock.git
+	path = feedstocks/meshzoo
+	branch = refs/heads/master
