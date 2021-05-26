@@ -51146,3 +51146,7 @@
 	url = https://github.com/conda-forge/openff-units-feedstock.git
 	path = feedstocks/openff-units
 	branch = refs/heads/master
+[submodule "guppy3"]
+	url = https://github.com/conda-forge/guppy3-feedstock.git
+	path = feedstocks/guppy3
+	branch = refs/heads/master
