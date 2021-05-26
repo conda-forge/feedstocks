@@ -51126,3 +51126,7 @@
 	url = https://github.com/conda-forge/scikit-gstat-feedstock.git
 	path = feedstocks/scikit-gstat
 	branch = refs/heads/master
+[submodule "lpips"]
+	url = https://github.com/conda-forge/lpips-feedstock.git
+	path = feedstocks/lpips
+	branch = refs/heads/master
