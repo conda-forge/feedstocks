@@ -51190,3 +51190,7 @@
 	url = https://github.com/conda-forge/hpp-gepetto-viewer-feedstock.git
 	path = feedstocks/hpp-gepetto-viewer
 	branch = refs/heads/master
+[submodule "flatstar"]
+	url = https://github.com/conda-forge/flatstar-feedstock.git
+	path = feedstocks/flatstar
+	branch = refs/heads/master
