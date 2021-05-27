@@ -51218,3 +51218,7 @@
 	url = https://github.com/conda-forge/glacier_lengths-feedstock.git
 	path = feedstocks/glacier_lengths
 	branch = refs/heads/master
+[submodule "r-rocs"]
+	url = https://github.com/conda-forge/r-rocs-feedstock.git
+	path = feedstocks/r-rocs
+	branch = refs/heads/master
