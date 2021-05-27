@@ -51186,3 +51186,7 @@
 	url = https://github.com/conda-forge/geoutils-feedstock.git
 	path = feedstocks/geoutils
 	branch = refs/heads/master
+[submodule "hpp-gepetto-viewer"]
+	url = https://github.com/conda-forge/hpp-gepetto-viewer-feedstock.git
+	path = feedstocks/hpp-gepetto-viewer
+	branch = refs/heads/master
