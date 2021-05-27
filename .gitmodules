@@ -51202,3 +51202,7 @@
 	url = https://github.com/conda-forge/pyquickhelper-feedstock.git
 	path = feedstocks/pyquickhelper
 	branch = refs/heads/master
+[submodule "pandas-streaming"]
+	url = https://github.com/conda-forge/pandas-streaming-feedstock.git
+	path = feedstocks/pandas-streaming
+	branch = refs/heads/master
