@@ -51214,3 +51214,7 @@
 	url = https://github.com/conda-forge/pyspark-test-feedstock.git
 	path = feedstocks/pyspark-test
 	branch = refs/heads/master
+[submodule "glacier_lengths"]
+	url = https://github.com/conda-forge/glacier_lengths-feedstock.git
+	path = feedstocks/glacier_lengths
+	branch = refs/heads/master
