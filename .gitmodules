@@ -51210,3 +51210,7 @@
 	url = https://github.com/conda-forge/deeprobust-feedstock.git
 	path = feedstocks/deeprobust
 	branch = refs/heads/master
+[submodule "pyspark-test"]
+	url = https://github.com/conda-forge/pyspark-test-feedstock.git
+	path = feedstocks/pyspark-test
+	branch = refs/heads/master
