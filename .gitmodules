@@ -51182,3 +51182,7 @@
 	url = https://github.com/conda-forge/upolygon-feedstock.git
 	path = feedstocks/upolygon
 	branch = refs/heads/master
+[submodule "geoutils"]
+	url = https://github.com/conda-forge/geoutils-feedstock.git
+	path = feedstocks/geoutils
+	branch = refs/heads/master
