@@ -51206,3 +51206,7 @@
 	url = https://github.com/conda-forge/pandas-streaming-feedstock.git
 	path = feedstocks/pandas-streaming
 	branch = refs/heads/master
+[submodule "deeprobust"]
+	url = https://github.com/conda-forge/deeprobust-feedstock.git
+	path = feedstocks/deeprobust
+	branch = refs/heads/master
