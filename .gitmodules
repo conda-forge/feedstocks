@@ -51226,3 +51226,7 @@
 	url = https://github.com/conda-forge/mlinsights-feedstock.git
 	path = feedstocks/mlinsights
 	branch = refs/heads/master
+[submodule "antlr4-python3-runtime"]
+	url = https://github.com/conda-forge/antlr4-python3-runtime-feedstock.git
+	path = feedstocks/antlr4-python3-runtime
+	branch = refs/heads/master
