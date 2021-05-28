@@ -51222,3 +51222,7 @@
 	url = https://github.com/conda-forge/r-rocs-feedstock.git
 	path = feedstocks/r-rocs
 	branch = refs/heads/master
+[submodule "mlinsights"]
+	url = https://github.com/conda-forge/mlinsights-feedstock.git
+	path = feedstocks/mlinsights
+	branch = refs/heads/master
