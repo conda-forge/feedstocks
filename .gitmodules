@@ -51230,3 +51230,7 @@
 	url = https://github.com/conda-forge/antlr4-python3-runtime-feedstock.git
 	path = feedstocks/antlr4-python3-runtime
 	branch = refs/heads/master
+[submodule "r-sits"]
+	url = https://github.com/conda-forge/r-sits-feedstock.git
+	path = feedstocks/r-sits
+	branch = refs/heads/master
