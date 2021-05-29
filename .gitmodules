@@ -51234,3 +51234,7 @@
 	url = https://github.com/conda-forge/r-sits-feedstock.git
 	path = feedstocks/r-sits
 	branch = refs/heads/master
+[submodule "smartmontools"]
+	url = https://github.com/conda-forge/smartmontools-feedstock.git
+	path = feedstocks/smartmontools
+	branch = refs/heads/master
