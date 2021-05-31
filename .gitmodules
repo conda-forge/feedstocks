@@ -51246,3 +51246,7 @@
 	url = https://github.com/conda-forge/r-openair-feedstock.git
 	path = feedstocks/r-openair
 	branch = refs/heads/master
+[submodule "gds"]
+	url = https://github.com/conda-forge/gds-feedstock.git
+	path = feedstocks/gds
+	branch = refs/heads/master
