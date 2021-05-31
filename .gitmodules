@@ -51258,3 +51258,7 @@
 	url = https://github.com/conda-forge/geoplotlib-feedstock.git
 	path = feedstocks/geoplotlib
 	branch = refs/heads/master
+[submodule "sly"]
+	url = https://github.com/conda-forge/sly-feedstock.git
+	path = feedstocks/sly
+	branch = refs/heads/master
