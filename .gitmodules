@@ -51242,3 +51242,7 @@
 	url = https://github.com/conda-forge/ansible-core-feedstock.git
 	path = feedstocks/ansible-core
 	branch = refs/heads/master
+[submodule "r-openair"]
+	url = https://github.com/conda-forge/r-openair-feedstock.git
+	path = feedstocks/r-openair
+	branch = refs/heads/master
