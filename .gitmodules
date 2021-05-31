@@ -51282,3 +51282,7 @@
 	url = https://github.com/conda-forge/venn-feedstock.git
 	path = feedstocks/venn
 	branch = refs/heads/master
+[submodule "multitasking"]
+	url = https://github.com/conda-forge/multitasking-feedstock.git
+	path = feedstocks/multitasking
+	branch = refs/heads/master
