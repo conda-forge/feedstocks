@@ -51262,3 +51262,7 @@
 	url = https://github.com/conda-forge/sly-feedstock.git
 	path = feedstocks/sly
 	branch = refs/heads/master
+[submodule "finesse"]
+	url = https://github.com/conda-forge/finesse-feedstock.git
+	path = feedstocks/finesse
+	branch = refs/heads/master
