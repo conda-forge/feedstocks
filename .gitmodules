@@ -51266,3 +51266,7 @@
 	url = https://github.com/conda-forge/finesse-feedstock.git
 	path = feedstocks/finesse
 	branch = refs/heads/master
+[submodule "jupyterlab-autosave-on-focus-change"]
+	url = https://github.com/conda-forge/jupyterlab-autosave-on-focus-change-feedstock.git
+	path = feedstocks/jupyterlab-autosave-on-focus-change
+	branch = refs/heads/master
