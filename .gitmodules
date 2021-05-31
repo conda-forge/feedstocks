@@ -51290,3 +51290,7 @@
 	url = https://github.com/conda-forge/yfinance-feedstock.git
 	path = feedstocks/yfinance
 	branch = refs/heads/master
+[submodule "r-upsetjs"]
+	url = https://github.com/conda-forge/r-upsetjs-feedstock.git
+	path = feedstocks/r-upsetjs
+	branch = refs/heads/master
