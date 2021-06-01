@@ -51370,3 +51370,7 @@
 	url = https://github.com/conda-forge/pynetworktables-feedstock.git
 	path = feedstocks/pynetworktables
 	branch = refs/heads/master
+[submodule "robotpy-cscore"]
+	url = https://github.com/conda-forge/robotpy-cscore-feedstock.git
+	path = feedstocks/robotpy-cscore
+	branch = refs/heads/master
