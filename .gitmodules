@@ -51334,3 +51334,7 @@
 	url = https://github.com/conda-forge/lavue-feedstock.git
 	path = feedstocks/lavue
 	branch = refs/heads/master
+[submodule "tango-database"]
+	url = https://github.com/conda-forge/tango-database-feedstock.git
+	path = feedstocks/tango-database
+	branch = refs/heads/master
