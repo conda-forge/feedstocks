@@ -51394,3 +51394,7 @@
 	url = https://github.com/conda-forge/r-udapi-feedstock.git
 	path = feedstocks/r-udapi
 	branch = refs/heads/master
+[submodule "name_that_hash"]
+	url = https://github.com/conda-forge/name_that_hash-feedstock.git
+	path = feedstocks/name_that_hash
+	branch = refs/heads/master
