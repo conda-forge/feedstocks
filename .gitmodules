@@ -51346,3 +51346,7 @@
 	url = https://github.com/conda-forge/campo-feedstock.git
 	path = feedstocks/campo
 	branch = refs/heads/master
+[submodule "posthog"]
+	url = https://github.com/conda-forge/posthog-feedstock.git
+	path = feedstocks/posthog
+	branch = refs/heads/master
