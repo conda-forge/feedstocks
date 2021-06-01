@@ -51386,3 +51386,7 @@
 	url = https://github.com/conda-forge/r-chk-feedstock.git
 	path = feedstocks/r-chk
 	branch = refs/heads/master
+[submodule "r-mbest"]
+	url = https://github.com/conda-forge/r-mbest-feedstock.git
+	path = feedstocks/r-mbest
+	branch = refs/heads/master
