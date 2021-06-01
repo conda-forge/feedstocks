@@ -51354,3 +51354,7 @@
 	url = https://github.com/conda-forge/yambo-feedstock.git
 	path = feedstocks/yambo
 	branch = refs/heads/master
+[submodule "pymirc"]
+	url = https://github.com/conda-forge/pymirc-feedstock.git
+	path = feedstocks/pymirc
+	branch = refs/heads/master
