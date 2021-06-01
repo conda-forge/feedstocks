@@ -51338,3 +51338,7 @@
 	url = https://github.com/conda-forge/tango-database-feedstock.git
 	path = feedstocks/tango-database
 	branch = refs/heads/master
+[submodule "jupyterlab-fileopen"]
+	url = https://github.com/conda-forge/jupyterlab-fileopen-feedstock.git
+	path = feedstocks/jupyterlab-fileopen
+	branch = refs/heads/master
