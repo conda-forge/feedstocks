@@ -51350,3 +51350,7 @@
 	url = https://github.com/conda-forge/posthog-feedstock.git
 	path = feedstocks/posthog
 	branch = refs/heads/master
+[submodule "yambo"]
+	url = https://github.com/conda-forge/yambo-feedstock.git
+	path = feedstocks/yambo
+	branch = refs/heads/master
