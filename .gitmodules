@@ -51418,3 +51418,7 @@
 	url = https://github.com/conda-forge/koncept-feedstock.git
 	path = feedstocks/koncept
 	branch = refs/heads/master
+[submodule "r-freqprof"]
+	url = https://github.com/conda-forge/r-freqprof-feedstock.git
+	path = feedstocks/r-freqprof
+	branch = refs/heads/master
