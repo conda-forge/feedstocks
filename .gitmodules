@@ -51314,3 +51314,7 @@
 	url = https://github.com/conda-forge/quantiphyse-dsc-feedstock.git
 	path = feedstocks/quantiphyse-dsc
 	branch = refs/heads/master
+[submodule "petpvc"]
+	url = https://github.com/conda-forge/petpvc-feedstock.git
+	path = feedstocks/petpvc
+	branch = refs/heads/master
