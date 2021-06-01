@@ -51378,3 +51378,7 @@
 	url = https://github.com/conda-forge/mdal-python-feedstock.git
 	path = feedstocks/mdal-python
 	branch = refs/heads/master
+[submodule "gds-frameio"]
+	url = https://github.com/conda-forge/gds-frameio-feedstock.git
+	path = feedstocks/gds-frameio
+	branch = refs/heads/master
