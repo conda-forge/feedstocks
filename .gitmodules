@@ -51374,3 +51374,7 @@
 	url = https://github.com/conda-forge/robotpy-cscore-feedstock.git
 	path = feedstocks/robotpy-cscore
 	branch = refs/heads/master
+[submodule "mdal-python"]
+	url = https://github.com/conda-forge/mdal-python-feedstock.git
+	path = feedstocks/mdal-python
+	branch = refs/heads/master
