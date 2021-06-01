@@ -51422,3 +51422,7 @@
 	url = https://github.com/conda-forge/r-freqprof-feedstock.git
 	path = feedstocks/r-freqprof
 	branch = refs/heads/master
+[submodule "r-available"]
+	url = https://github.com/conda-forge/r-available-feedstock.git
+	path = feedstocks/r-available
+	branch = refs/heads/master
