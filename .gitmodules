@@ -51310,3 +51310,7 @@
 	url = https://github.com/conda-forge/tsinfer-feedstock.git
 	path = feedstocks/tsinfer
 	branch = refs/heads/master
+[submodule "quantiphyse-dsc"]
+	url = https://github.com/conda-forge/quantiphyse-dsc-feedstock.git
+	path = feedstocks/quantiphyse-dsc
+	branch = refs/heads/master
