@@ -51302,3 +51302,7 @@
 	url = https://github.com/conda-forge/genno-feedstock.git
 	path = feedstocks/genno
 	branch = refs/heads/master
+[submodule "flaskwebgui"]
+	url = https://github.com/conda-forge/flaskwebgui-feedstock.git
+	path = feedstocks/flaskwebgui
+	branch = refs/heads/master
