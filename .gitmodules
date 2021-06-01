@@ -51318,3 +51318,7 @@
 	url = https://github.com/conda-forge/petpvc-feedstock.git
 	path = feedstocks/petpvc
 	branch = refs/heads/master
+[submodule "xdem"]
+	url = https://github.com/conda-forge/xdem-feedstock.git
+	path = feedstocks/xdem
+	branch = refs/heads/master
