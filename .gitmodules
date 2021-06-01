@@ -51298,3 +51298,7 @@
 	url = https://github.com/conda-forge/r-neo4r-feedstock.git
 	path = feedstocks/r-neo4r
 	branch = refs/heads/master
+[submodule "genno"]
+	url = https://github.com/conda-forge/genno-feedstock.git
+	path = feedstocks/genno
+	branch = refs/heads/master
