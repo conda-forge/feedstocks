@@ -51322,3 +51322,7 @@
 	url = https://github.com/conda-forge/xdem-feedstock.git
 	path = feedstocks/xdem
 	branch = refs/heads/master
+[submodule "quantiphyse-qbold"]
+	url = https://github.com/conda-forge/quantiphyse-qbold-feedstock.git
+	path = feedstocks/quantiphyse-qbold
+	branch = refs/heads/master
