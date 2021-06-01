@@ -51342,3 +51342,7 @@
 	url = https://github.com/conda-forge/jupyterlab-fileopen-feedstock.git
 	path = feedstocks/jupyterlab-fileopen
 	branch = refs/heads/master
+[submodule "campo"]
+	url = https://github.com/conda-forge/campo-feedstock.git
+	path = feedstocks/campo
+	branch = refs/heads/master
