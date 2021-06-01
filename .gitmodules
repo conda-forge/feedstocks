@@ -51306,3 +51306,7 @@
 	url = https://github.com/conda-forge/flaskwebgui-feedstock.git
 	path = feedstocks/flaskwebgui
 	branch = refs/heads/master
+[submodule "tsinfer"]
+	url = https://github.com/conda-forge/tsinfer-feedstock.git
+	path = feedstocks/tsinfer
+	branch = refs/heads/master
