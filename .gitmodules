@@ -51442,3 +51442,7 @@
 	url = https://github.com/conda-forge/simple-parsing-feedstock.git
 	path = feedstocks/simple-parsing
 	branch = refs/heads/master
+[submodule "geojson-pydantic"]
+	url = https://github.com/conda-forge/geojson-pydantic-feedstock.git
+	path = feedstocks/geojson-pydantic
+	branch = refs/heads/master
