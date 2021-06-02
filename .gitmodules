@@ -51522,3 +51522,7 @@
 	url = https://github.com/conda-forge/r-bsplus-feedstock.git
 	path = feedstocks/r-bsplus
 	branch = refs/heads/master
+[submodule "r-uchardet"]
+	url = https://github.com/conda-forge/r-uchardet-feedstock.git
+	path = feedstocks/r-uchardet
+	branch = refs/heads/master
