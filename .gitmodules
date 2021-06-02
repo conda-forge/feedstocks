@@ -51466,3 +51466,7 @@
 	url = https://github.com/conda-forge/autowrapt-feedstock.git
 	path = feedstocks/autowrapt
 	branch = refs/heads/master
+[submodule "oneagent-sdk"]
+	url = https://github.com/conda-forge/oneagent-sdk-feedstock.git
+	path = feedstocks/oneagent-sdk
+	branch = refs/heads/master
