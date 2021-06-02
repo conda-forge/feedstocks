@@ -51514,3 +51514,7 @@
 	url = https://github.com/conda-forge/dask-histogram-feedstock.git
 	path = feedstocks/dask-histogram
 	branch = refs/heads/master
+[submodule "r-datavisualizations"]
+	url = https://github.com/conda-forge/r-datavisualizations-feedstock.git
+	path = feedstocks/r-datavisualizations
+	branch = refs/heads/master
