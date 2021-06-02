@@ -51498,3 +51498,7 @@
 	url = https://github.com/conda-forge/gds-swig-feedstock.git
 	path = feedstocks/gds-swig
 	branch = refs/heads/master
+[submodule "elara"]
+	url = https://github.com/conda-forge/elara-feedstock.git
+	path = feedstocks/elara
+	branch = refs/heads/master
