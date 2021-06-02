@@ -51454,3 +51454,7 @@
 	url = https://github.com/conda-forge/novas-feedstock.git
 	path = feedstocks/novas
 	branch = refs/heads/master
+[submodule "camply"]
+	url = https://github.com/conda-forge/camply-feedstock.git
+	path = feedstocks/camply
+	branch = refs/heads/master
