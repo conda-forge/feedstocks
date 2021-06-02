@@ -51426,3 +51426,7 @@
 	url = https://github.com/conda-forge/r-available-feedstock.git
 	path = feedstocks/r-available
 	branch = refs/heads/master
+[submodule "pywhat"]
+	url = https://github.com/conda-forge/pywhat-feedstock.git
+	path = feedstocks/pywhat
+	branch = refs/heads/master
