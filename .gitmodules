@@ -51458,3 +51458,7 @@
 	url = https://github.com/conda-forge/camply-feedstock.git
 	path = feedstocks/camply
 	branch = refs/heads/master
+[submodule "oxasl_enable"]
+	url = https://github.com/conda-forge/oxasl_enable-feedstock.git
+	path = feedstocks/oxasl_enable
+	branch = refs/heads/master
