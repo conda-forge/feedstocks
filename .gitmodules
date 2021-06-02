@@ -51446,3 +51446,7 @@
 	url = https://github.com/conda-forge/geojson-pydantic-feedstock.git
 	path = feedstocks/geojson-pydantic
 	branch = refs/heads/master
+[submodule "django-tables2"]
+	url = https://github.com/conda-forge/django-tables2-feedstock.git
+	path = feedstocks/django-tables2
+	branch = refs/heads/master
