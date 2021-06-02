@@ -51482,3 +51482,7 @@
 	url = https://github.com/conda-forge/telepath-feedstock.git
 	path = feedstocks/telepath
 	branch = refs/heads/master
+[submodule "pynguin"]
+	url = https://github.com/conda-forge/pynguin-feedstock.git
+	path = feedstocks/pynguin
+	branch = refs/heads/master
