@@ -51470,3 +51470,7 @@
 	url = https://github.com/conda-forge/oneagent-sdk-feedstock.git
 	path = feedstocks/oneagent-sdk
 	branch = refs/heads/master
+[submodule "autodynatrace"]
+	url = https://github.com/conda-forge/autodynatrace-feedstock.git
+	path = feedstocks/autodynatrace
+	branch = refs/heads/master
