@@ -51518,3 +51518,7 @@
 	url = https://github.com/conda-forge/r-datavisualizations-feedstock.git
 	path = feedstocks/r-datavisualizations
 	branch = refs/heads/master
+[submodule "r-bsplus"]
+	url = https://github.com/conda-forge/r-bsplus-feedstock.git
+	path = feedstocks/r-bsplus
+	branch = refs/heads/master
