@@ -51486,3 +51486,7 @@
 	url = https://github.com/conda-forge/pynguin-feedstock.git
 	path = feedstocks/pynguin
 	branch = refs/heads/master
+[submodule "gds-lowlatency-tools"]
+	url = https://github.com/conda-forge/gds-lowlatency-tools-feedstock.git
+	path = feedstocks/gds-lowlatency-tools
+	branch = refs/heads/master
