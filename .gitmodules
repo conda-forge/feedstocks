@@ -51438,3 +51438,7 @@
 	url = https://github.com/conda-forge/humbug-feedstock.git
 	path = feedstocks/humbug
 	branch = refs/heads/master
+[submodule "simple-parsing"]
+	url = https://github.com/conda-forge/simple-parsing-feedstock.git
+	path = feedstocks/simple-parsing
+	branch = refs/heads/master
