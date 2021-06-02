@@ -51462,3 +51462,7 @@
 	url = https://github.com/conda-forge/oxasl_enable-feedstock.git
 	path = feedstocks/oxasl_enable
 	branch = refs/heads/master
+[submodule "autowrapt"]
+	url = https://github.com/conda-forge/autowrapt-feedstock.git
+	path = feedstocks/autowrapt
+	branch = refs/heads/master
