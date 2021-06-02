@@ -51510,3 +51510,7 @@
 	url = https://github.com/conda-forge/r-poiclaclu-feedstock.git
 	path = feedstocks/r-poiclaclu
 	branch = refs/heads/master
+[submodule "dask-histogram"]
+	url = https://github.com/conda-forge/dask-histogram-feedstock.git
+	path = feedstocks/dask-histogram
+	branch = refs/heads/master
