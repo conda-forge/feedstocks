@@ -51554,3 +51554,7 @@
 	url = https://github.com/conda-forge/patchnetvlad-feedstock.git
 	path = feedstocks/patchnetvlad
 	branch = refs/heads/master
+[submodule "pypika-tortoise"]
+	url = https://github.com/conda-forge/pypika-tortoise-feedstock.git
+	path = feedstocks/pypika-tortoise
+	branch = refs/heads/master
