@@ -51566,3 +51566,7 @@
 	url = https://github.com/conda-forge/dlatk-feedstock.git
 	path = feedstocks/dlatk
 	branch = refs/heads/master
+[submodule "quantiphyse-perfsim"]
+	url = https://github.com/conda-forge/quantiphyse-perfsim-feedstock.git
+	path = feedstocks/quantiphyse-perfsim
+	branch = refs/heads/master
