@@ -51598,3 +51598,7 @@
 	url = https://github.com/conda-forge/tortoise-orm-feedstock.git
 	path = feedstocks/tortoise-orm
 	branch = refs/heads/master
+[submodule "awssert"]
+	url = https://github.com/conda-forge/awssert-feedstock.git
+	path = feedstocks/awssert
+	branch = refs/heads/master
