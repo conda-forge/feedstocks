@@ -51590,3 +51590,7 @@
 	url = https://github.com/conda-forge/sanic-routing-feedstock.git
 	path = feedstocks/sanic-routing
 	branch = refs/heads/master
+[submodule "api2db"]
+	url = https://github.com/conda-forge/api2db-feedstock.git
+	path = feedstocks/api2db
+	branch = refs/heads/master
