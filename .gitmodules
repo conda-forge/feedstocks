@@ -51526,3 +51526,7 @@
 	url = https://github.com/conda-forge/r-uchardet-feedstock.git
 	path = feedstocks/r-uchardet
 	branch = refs/heads/master
+[submodule "r-adaptgauss"]
+	url = https://github.com/conda-forge/r-adaptgauss-feedstock.git
+	path = feedstocks/r-adaptgauss
+	branch = refs/heads/master
