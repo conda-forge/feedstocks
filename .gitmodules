@@ -51574,3 +51574,7 @@
 	url = https://github.com/conda-forge/traffic-feedstock.git
 	path = feedstocks/traffic
 	branch = refs/heads/master
+[submodule "vt-py"]
+	url = https://github.com/conda-forge/vt-py-feedstock.git
+	path = feedstocks/vt-py
+	branch = refs/heads/master
