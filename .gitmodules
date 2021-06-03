@@ -51542,3 +51542,7 @@
 	url = https://github.com/conda-forge/r-drawer-feedstock.git
 	path = feedstocks/r-drawer
 	branch = refs/heads/master
+[submodule "ward"]
+	url = https://github.com/conda-forge/ward-feedstock.git
+	path = feedstocks/ward
+	branch = refs/heads/master
