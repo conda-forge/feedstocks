@@ -51538,3 +51538,7 @@
 	url = https://github.com/conda-forge/r-spscomps-feedstock.git
 	path = feedstocks/r-spscomps
 	branch = refs/heads/master
+[submodule "r-drawer"]
+	url = https://github.com/conda-forge/r-drawer-feedstock.git
+	path = feedstocks/r-drawer
+	branch = refs/heads/master
