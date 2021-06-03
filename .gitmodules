@@ -51602,3 +51602,7 @@
 	url = https://github.com/conda-forge/awssert-feedstock.git
 	path = feedstocks/awssert
 	branch = refs/heads/master
+[submodule "zxpy"]
+	url = https://github.com/conda-forge/zxpy-feedstock.git
+	path = feedstocks/zxpy
+	branch = refs/heads/master
