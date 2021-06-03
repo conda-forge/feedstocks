@@ -51530,3 +51530,7 @@
 	url = https://github.com/conda-forge/r-adaptgauss-feedstock.git
 	path = feedstocks/r-adaptgauss
 	branch = refs/heads/master
+[submodule "r-spsutil"]
+	url = https://github.com/conda-forge/r-spsutil-feedstock.git
+	path = feedstocks/r-spsutil
+	branch = refs/heads/master
