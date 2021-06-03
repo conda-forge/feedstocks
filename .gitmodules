@@ -51558,3 +51558,7 @@
 	url = https://github.com/conda-forge/pypika-tortoise-feedstock.git
 	path = feedstocks/pypika-tortoise
 	branch = refs/heads/master
+[submodule "gds-root-extensions"]
+	url = https://github.com/conda-forge/gds-root-extensions-feedstock.git
+	path = feedstocks/gds-root-extensions
+	branch = refs/heads/master
