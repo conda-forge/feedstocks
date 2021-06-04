@@ -51634,3 +51634,7 @@
 	url = https://github.com/conda-forge/r-catdata-feedstock.git
 	path = feedstocks/r-catdata
 	branch = refs/heads/master
+[submodule "tensorboard-data-server"]
+	url = https://github.com/conda-forge/tensorboard-data-server-feedstock.git
+	path = feedstocks/tensorboard-data-server
+	branch = refs/heads/master
