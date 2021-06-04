@@ -51614,3 +51614,7 @@
 	url = https://github.com/conda-forge/r-fme-feedstock.git
 	path = feedstocks/r-fme
 	branch = refs/heads/master
+[submodule "r-dmwr2"]
+	url = https://github.com/conda-forge/r-dmwr2-feedstock.git
+	path = feedstocks/r-dmwr2
+	branch = refs/heads/master
