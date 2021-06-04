@@ -51646,3 +51646,7 @@
 	url = https://github.com/conda-forge/des-eastlake-feedstock.git
 	path = feedstocks/des-eastlake
 	branch = refs/heads/master
+[submodule "pmgr"]
+	url = https://github.com/conda-forge/pmgr-feedstock.git
+	path = feedstocks/pmgr
+	branch = refs/heads/master
