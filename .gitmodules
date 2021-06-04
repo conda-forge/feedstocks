@@ -51630,3 +51630,7 @@
 	url = https://github.com/conda-forge/r-spbayes-feedstock.git
 	path = feedstocks/r-spbayes
 	branch = refs/heads/master
+[submodule "r-catdata"]
+	url = https://github.com/conda-forge/r-catdata-feedstock.git
+	path = feedstocks/r-catdata
+	branch = refs/heads/master
