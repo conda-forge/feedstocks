@@ -51642,3 +51642,7 @@
 	url = https://github.com/conda-forge/r-poissonbinomial-feedstock.git
 	path = feedstocks/r-poissonbinomial
 	branch = refs/heads/master
+[submodule "des-eastlake"]
+	url = https://github.com/conda-forge/des-eastlake-feedstock.git
+	path = feedstocks/des-eastlake
+	branch = refs/heads/master
