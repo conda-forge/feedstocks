@@ -51618,3 +51618,7 @@
 	url = https://github.com/conda-forge/r-dmwr2-feedstock.git
 	path = feedstocks/r-dmwr2
 	branch = refs/heads/master
+[submodule "r-extdist"]
+	url = https://github.com/conda-forge/r-extdist-feedstock.git
+	path = feedstocks/r-extdist
+	branch = refs/heads/master
