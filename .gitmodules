@@ -51610,3 +51610,7 @@
 	url = https://github.com/conda-forge/r-ggpp-feedstock.git
 	path = feedstocks/r-ggpp
 	branch = refs/heads/master
+[submodule "r-fme"]
+	url = https://github.com/conda-forge/r-fme-feedstock.git
+	path = feedstocks/r-fme
+	branch = refs/heads/master
