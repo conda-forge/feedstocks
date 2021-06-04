@@ -51626,3 +51626,7 @@
 	url = https://github.com/conda-forge/r-rnomni-feedstock.git
 	path = feedstocks/r-rnomni
 	branch = refs/heads/master
+[submodule "r-spbayes"]
+	url = https://github.com/conda-forge/r-spbayes-feedstock.git
+	path = feedstocks/r-spbayes
+	branch = refs/heads/master
