@@ -51654,3 +51654,7 @@
 	url = https://github.com/conda-forge/r-backbone-feedstock.git
 	path = feedstocks/r-backbone
 	branch = refs/heads/master
+[submodule "r-spatialtools"]
+	url = https://github.com/conda-forge/r-spatialtools-feedstock.git
+	path = feedstocks/r-spatialtools
+	branch = refs/heads/master
