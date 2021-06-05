@@ -51714,3 +51714,7 @@
 	url = https://github.com/conda-forge/pylint-venv-feedstock.git
 	path = feedstocks/pylint-venv
 	branch = refs/heads/master
+[submodule "sysstat"]
+	url = https://github.com/conda-forge/sysstat-feedstock.git
+	path = feedstocks/sysstat
+	branch = refs/heads/master
