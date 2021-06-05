@@ -51694,3 +51694,7 @@
 	url = https://github.com/conda-forge/r-clusterrepro-feedstock.git
 	path = feedstocks/r-clusterrepro
 	branch = refs/heads/master
+[submodule "r-phyclust"]
+	url = https://github.com/conda-forge/r-phyclust-feedstock.git
+	path = feedstocks/r-phyclust
+	branch = refs/heads/master
