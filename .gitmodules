@@ -51666,3 +51666,7 @@
 	url = https://github.com/conda-forge/r-rcapture-feedstock.git
 	path = feedstocks/r-rcapture
 	branch = refs/heads/master
+[submodule "r-shinypanel"]
+	url = https://github.com/conda-forge/r-shinypanel-feedstock.git
+	path = feedstocks/r-shinypanel
+	branch = refs/heads/master
