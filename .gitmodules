@@ -51662,3 +51662,7 @@
 	url = https://github.com/conda-forge/r-smurf-feedstock.git
 	path = feedstocks/r-smurf
 	branch = refs/heads/master
+[submodule "r-rcapture"]
+	url = https://github.com/conda-forge/r-rcapture-feedstock.git
+	path = feedstocks/r-rcapture
+	branch = refs/heads/master
