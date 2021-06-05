@@ -51678,3 +51678,7 @@
 	url = https://github.com/conda-forge/r-catencoders-feedstock.git
 	path = feedstocks/r-catencoders
 	branch = refs/heads/master
+[submodule "r-nmi"]
+	url = https://github.com/conda-forge/r-nmi-feedstock.git
+	path = feedstocks/r-nmi
+	branch = refs/heads/master
