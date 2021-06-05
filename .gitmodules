@@ -51702,3 +51702,7 @@
 	url = https://github.com/conda-forge/r-combinepvalue-feedstock.git
 	path = feedstocks/r-combinepvalue
 	branch = refs/heads/master
+[submodule "typing_utils"]
+	url = https://github.com/conda-forge/typing_utils-feedstock.git
+	path = feedstocks/typing_utils
+	branch = refs/heads/master
