@@ -51690,3 +51690,7 @@
 	url = https://github.com/conda-forge/r-elitism-feedstock.git
 	path = feedstocks/r-elitism
 	branch = refs/heads/master
+[submodule "r-clusterrepro"]
+	url = https://github.com/conda-forge/r-clusterrepro-feedstock.git
+	path = feedstocks/r-clusterrepro
+	branch = refs/heads/master
