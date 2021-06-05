@@ -51674,3 +51674,7 @@
 	url = https://github.com/conda-forge/r-shinyfeedback-feedstock.git
 	path = feedstocks/r-shinyfeedback
 	branch = refs/heads/master
+[submodule "r-catencoders"]
+	url = https://github.com/conda-forge/r-catencoders-feedstock.git
+	path = feedstocks/r-catencoders
+	branch = refs/heads/master
