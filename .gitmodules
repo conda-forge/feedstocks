@@ -51710,3 +51710,7 @@
 	url = https://github.com/conda-forge/streamlit_tags-feedstock.git
 	path = feedstocks/streamlit_tags
 	branch = refs/heads/master
+[submodule "pylint-venv"]
+	url = https://github.com/conda-forge/pylint-venv-feedstock.git
+	path = feedstocks/pylint-venv
+	branch = refs/heads/master
