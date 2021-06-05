@@ -51686,3 +51686,7 @@
 	url = https://github.com/conda-forge/r-reportroc-feedstock.git
 	path = feedstocks/r-reportroc
 	branch = refs/heads/master
+[submodule "r-elitism"]
+	url = https://github.com/conda-forge/r-elitism-feedstock.git
+	path = feedstocks/r-elitism
+	branch = refs/heads/master
