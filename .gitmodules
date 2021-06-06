@@ -51750,3 +51750,7 @@
 	url = https://github.com/conda-forge/r-rmio-feedstock.git
 	path = feedstocks/r-rmio
 	branch = refs/heads/master
+[submodule "r-easypubmed"]
+	url = https://github.com/conda-forge/r-easypubmed-feedstock.git
+	path = feedstocks/r-easypubmed
+	branch = refs/heads/master
