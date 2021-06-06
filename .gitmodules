@@ -51742,3 +51742,7 @@
 	url = https://github.com/conda-forge/pandarallel-feedstock.git
 	path = feedstocks/pandarallel
 	branch = refs/heads/master
+[submodule "torchsparse"]
+	url = https://github.com/conda-forge/torchsparse-feedstock.git
+	path = feedstocks/torchsparse
+	branch = refs/heads/master
