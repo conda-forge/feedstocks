@@ -51726,3 +51726,7 @@
 	url = https://github.com/conda-forge/tsid-feedstock.git
 	path = feedstocks/tsid
 	branch = refs/heads/master
+[submodule "pickle-compat"]
+	url = https://github.com/conda-forge/pickle-compat-feedstock.git
+	path = feedstocks/pickle-compat
+	branch = refs/heads/master
