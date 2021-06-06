@@ -51718,3 +51718,7 @@
 	url = https://github.com/conda-forge/sysstat-feedstock.git
 	path = feedstocks/sysstat
 	branch = refs/heads/master
+[submodule "clingo-dl"]
+	url = https://github.com/conda-forge/clingo-dl-feedstock.git
+	path = feedstocks/clingo-dl
+	branch = refs/heads/master
