@@ -51722,3 +51722,7 @@
 	url = https://github.com/conda-forge/clingo-dl-feedstock.git
 	path = feedstocks/clingo-dl
 	branch = refs/heads/master
+[submodule "tsid"]
+	url = https://github.com/conda-forge/tsid-feedstock.git
+	path = feedstocks/tsid
+	branch = refs/heads/master
