@@ -51738,3 +51738,7 @@
 	url = https://github.com/conda-forge/dandischema-feedstock.git
 	path = feedstocks/dandischema
 	branch = refs/heads/master
+[submodule "pandarallel"]
+	url = https://github.com/conda-forge/pandarallel-feedstock.git
+	path = feedstocks/pandarallel
+	branch = refs/heads/master
