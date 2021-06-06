@@ -51770,3 +51770,7 @@
 	url = https://github.com/conda-forge/r-peptides-feedstock.git
 	path = feedstocks/r-peptides
 	branch = refs/heads/master
+[submodule "r-bigparallelr"]
+	url = https://github.com/conda-forge/r-bigparallelr-feedstock.git
+	path = feedstocks/r-bigparallelr
+	branch = refs/heads/master
