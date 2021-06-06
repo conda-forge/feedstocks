@@ -51734,3 +51734,7 @@
 	url = https://github.com/conda-forge/dash-labs-feedstock.git
 	path = feedstocks/dash-labs
 	branch = refs/heads/master
+[submodule "dandischema"]
+	url = https://github.com/conda-forge/dandischema-feedstock.git
+	path = feedstocks/dandischema
+	branch = refs/heads/master
