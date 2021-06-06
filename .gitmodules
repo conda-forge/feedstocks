@@ -51746,3 +51746,7 @@
 	url = https://github.com/conda-forge/torchsparse-feedstock.git
 	path = feedstocks/torchsparse
 	branch = refs/heads/master
+[submodule "r-rmio"]
+	url = https://github.com/conda-forge/r-rmio-feedstock.git
+	path = feedstocks/r-rmio
+	branch = refs/heads/master
