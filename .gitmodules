@@ -51762,3 +51762,7 @@
 	url = https://github.com/conda-forge/r-anylib-feedstock.git
 	path = feedstocks/r-anylib
 	branch = refs/heads/master
+[submodule "r-dirmult"]
+	url = https://github.com/conda-forge/r-dirmult-feedstock.git
+	path = feedstocks/r-dirmult
+	branch = refs/heads/master
