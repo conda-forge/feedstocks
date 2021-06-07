@@ -51774,3 +51774,7 @@
 	url = https://github.com/conda-forge/r-bigparallelr-feedstock.git
 	path = feedstocks/r-bigparallelr
 	branch = refs/heads/master
+[submodule "importrosbag"]
+	url = https://github.com/conda-forge/importrosbag-feedstock.git
+	path = feedstocks/importrosbag
+	branch = refs/heads/master
