@@ -51782,3 +51782,7 @@
 	url = https://github.com/conda-forge/r-bigstatsr-feedstock.git
 	path = feedstocks/r-bigstatsr
 	branch = refs/heads/master
+[submodule "libqdldl"]
+	url = https://github.com/conda-forge/libqdldl-feedstock.git
+	path = feedstocks/libqdldl
+	branch = refs/heads/master
