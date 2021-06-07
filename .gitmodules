@@ -51778,3 +51778,7 @@
 	url = https://github.com/conda-forge/importrosbag-feedstock.git
 	path = feedstocks/importrosbag
 	branch = refs/heads/master
+[submodule "r-bigstatsr"]
+	url = https://github.com/conda-forge/r-bigstatsr-feedstock.git
+	path = feedstocks/r-bigstatsr
+	branch = refs/heads/master
