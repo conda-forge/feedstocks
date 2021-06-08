@@ -51802,3 +51802,7 @@
 	url = https://github.com/conda-forge/hiproc-feedstock.git
 	path = feedstocks/hiproc
 	branch = refs/heads/master
+[submodule "tinygltf"]
+	url = https://github.com/conda-forge/tinygltf-feedstock.git
+	path = feedstocks/tinygltf
+	branch = refs/heads/master
