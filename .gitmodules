@@ -51794,3 +51794,7 @@
 	url = https://github.com/conda-forge/pyspike-feedstock.git
 	path = feedstocks/pyspike
 	branch = refs/heads/master
+[submodule "omf"]
+	url = https://github.com/conda-forge/omf-feedstock.git
+	path = feedstocks/omf
+	branch = refs/heads/master
