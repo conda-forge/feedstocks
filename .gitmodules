@@ -51798,3 +51798,7 @@
 	url = https://github.com/conda-forge/omf-feedstock.git
 	path = feedstocks/omf
 	branch = refs/heads/master
+[submodule "hiproc"]
+	url = https://github.com/conda-forge/hiproc-feedstock.git
+	path = feedstocks/hiproc
+	branch = refs/heads/master
