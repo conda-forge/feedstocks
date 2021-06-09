@@ -51838,3 +51838,7 @@
 	url = https://github.com/conda-forge/robotframework-stacktrace-feedstock.git
 	path = feedstocks/robotframework-stacktrace
 	branch = refs/heads/master
+[submodule "detecto"]
+	url = https://github.com/conda-forge/detecto-feedstock.git
+	path = feedstocks/detecto
+	branch = refs/heads/master
