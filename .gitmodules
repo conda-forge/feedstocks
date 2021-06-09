@@ -51850,3 +51850,7 @@
 	url = https://github.com/conda-forge/conda-store-feedstock.git
 	path = feedstocks/conda-store
 	branch = refs/heads/master
+[submodule "xcmocean"]
+	url = https://github.com/conda-forge/xcmocean-feedstock.git
+	path = feedstocks/xcmocean
+	branch = refs/heads/master
