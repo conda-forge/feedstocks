@@ -51834,3 +51834,7 @@
 	url = https://github.com/conda-forge/mljar-supervised-feedstock.git
 	path = feedstocks/mljar-supervised
 	branch = refs/heads/master
+[submodule "robotframework-stacktrace"]
+	url = https://github.com/conda-forge/robotframework-stacktrace-feedstock.git
+	path = feedstocks/robotframework-stacktrace
+	branch = refs/heads/master
