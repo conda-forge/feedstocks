@@ -51858,3 +51858,7 @@
 	url = https://github.com/conda-forge/mosartwmpy-feedstock.git
 	path = feedstocks/mosartwmpy
 	branch = refs/heads/master
+[submodule "esi-acme"]
+	url = https://github.com/conda-forge/esi-acme-feedstock.git
+	path = feedstocks/esi-acme
+	branch = refs/heads/master
