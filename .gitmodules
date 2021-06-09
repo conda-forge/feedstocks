@@ -51870,3 +51870,7 @@
 	url = https://github.com/conda-forge/pymaxflow-feedstock.git
 	path = feedstocks/pymaxflow
 	branch = refs/heads/master
+[submodule "tinuous"]
+	url = https://github.com/conda-forge/tinuous-feedstock.git
+	path = feedstocks/tinuous
+	branch = refs/heads/master
