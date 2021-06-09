@@ -51866,3 +51866,7 @@
 	url = https://github.com/conda-forge/neptune-pytorch-lightning-feedstock.git
 	path = feedstocks/neptune-pytorch-lightning
 	branch = refs/heads/master
+[submodule "pymaxflow"]
+	url = https://github.com/conda-forge/pymaxflow-feedstock.git
+	path = feedstocks/pymaxflow
+	branch = refs/heads/master
