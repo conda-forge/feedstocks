@@ -51846,3 +51846,7 @@
 	url = https://github.com/conda-forge/r-lmeinfo-feedstock.git
 	path = feedstocks/r-lmeinfo
 	branch = refs/heads/master
+[submodule "conda-store"]
+	url = https://github.com/conda-forge/conda-store-feedstock.git
+	path = feedstocks/conda-store
+	branch = refs/heads/master
