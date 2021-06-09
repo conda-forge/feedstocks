@@ -51822,3 +51822,7 @@
 	url = https://github.com/conda-forge/oidc-agent-feedstock.git
 	path = feedstocks/oidc-agent
 	branch = refs/heads/master
+[submodule "xmlrpc-c"]
+	url = https://github.com/conda-forge/xmlrpc-c-feedstock.git
+	path = feedstocks/xmlrpc-c
+	branch = refs/heads/master
