@@ -51814,3 +51814,7 @@
 	url = https://github.com/conda-forge/xorg-xorgproto-feedstock.git
 	path = feedstocks/xorg-xorgproto
 	branch = refs/heads/master
+[submodule "perfplot"]
+	url = https://github.com/conda-forge/perfplot-feedstock.git
+	path = feedstocks/perfplot
+	branch = refs/heads/master
