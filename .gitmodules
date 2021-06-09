@@ -51842,3 +51842,7 @@
 	url = https://github.com/conda-forge/detecto-feedstock.git
 	path = feedstocks/detecto
 	branch = refs/heads/master
+[submodule "r-lmeinfo"]
+	url = https://github.com/conda-forge/r-lmeinfo-feedstock.git
+	path = feedstocks/r-lmeinfo
+	branch = refs/heads/master
