@@ -51862,3 +51862,7 @@
 	url = https://github.com/conda-forge/esi-acme-feedstock.git
 	path = feedstocks/esi-acme
 	branch = refs/heads/master
+[submodule "neptune-pytorch-lightning"]
+	url = https://github.com/conda-forge/neptune-pytorch-lightning-feedstock.git
+	path = feedstocks/neptune-pytorch-lightning
+	branch = refs/heads/master
