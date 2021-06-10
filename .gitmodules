@@ -51886,3 +51886,7 @@
 	url = https://github.com/conda-forge/r-s2-feedstock.git
 	path = feedstocks/r-s2
 	branch = refs/heads/master
+[submodule "kanapy"]
+	url = https://github.com/conda-forge/kanapy-feedstock.git
+	path = feedstocks/kanapy
+	branch = refs/heads/master
