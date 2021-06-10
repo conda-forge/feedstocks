@@ -51890,3 +51890,7 @@
 	url = https://github.com/conda-forge/kanapy-feedstock.git
 	path = feedstocks/kanapy
 	branch = refs/heads/master
+[submodule "tomli"]
+	url = https://github.com/conda-forge/tomli-feedstock.git
+	path = feedstocks/tomli
+	branch = refs/heads/master
