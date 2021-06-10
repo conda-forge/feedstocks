@@ -51926,3 +51926,7 @@
 	url = https://github.com/conda-forge/detectree-feedstock.git
 	path = feedstocks/detectree
 	branch = refs/heads/master
+[submodule "cudasirecon"]
+	url = https://github.com/conda-forge/cudasirecon-feedstock.git
+	path = feedstocks/cudasirecon
+	branch = refs/heads/master
