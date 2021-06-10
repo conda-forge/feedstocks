@@ -51878,3 +51878,7 @@
 	url = https://github.com/conda-forge/pytest-shell-feedstock.git
 	path = feedstocks/pytest-shell
 	branch = refs/heads/master
+[submodule "libuvc"]
+	url = https://github.com/conda-forge/libuvc-feedstock.git
+	path = feedstocks/libuvc
+	branch = refs/heads/master
