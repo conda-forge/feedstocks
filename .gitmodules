@@ -51914,3 +51914,7 @@
 	url = https://github.com/conda-forge/torchquad-feedstock.git
 	path = feedstocks/torchquad
 	branch = refs/heads/master
+[submodule "types_toml"]
+	url = https://github.com/conda-forge/types_toml-feedstock.git
+	path = feedstocks/types_toml
+	branch = refs/heads/master
