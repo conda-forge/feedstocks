@@ -51882,3 +51882,7 @@
 	url = https://github.com/conda-forge/libuvc-feedstock.git
 	path = feedstocks/libuvc
 	branch = refs/heads/master
+[submodule "r-s2"]
+	url = https://github.com/conda-forge/r-s2-feedstock.git
+	path = feedstocks/r-s2
+	branch = refs/heads/master
