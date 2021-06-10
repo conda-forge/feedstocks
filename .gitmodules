@@ -51898,3 +51898,7 @@
 	url = https://github.com/conda-forge/ondamonitor-feedstock.git
 	path = feedstocks/ondamonitor
 	branch = refs/heads/master
+[submodule "swmr-tools"]
+	url = https://github.com/conda-forge/swmr-tools-feedstock.git
+	path = feedstocks/swmr-tools
+	branch = refs/heads/master
