@@ -51874,3 +51874,7 @@
 	url = https://github.com/conda-forge/tinuous-feedstock.git
 	path = feedstocks/tinuous
 	branch = refs/heads/master
+[submodule "pytest-shell"]
+	url = https://github.com/conda-forge/pytest-shell-feedstock.git
+	path = feedstocks/pytest-shell
+	branch = refs/heads/master
