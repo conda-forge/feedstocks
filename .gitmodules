@@ -51954,3 +51954,7 @@
 	url = https://github.com/conda-forge/sanic-security-feedstock.git
 	path = feedstocks/sanic-security
 	branch = refs/heads/master
+[submodule "monitor-server-api"]
+	url = https://github.com/conda-forge/monitor-server-api-feedstock.git
+	path = feedstocks/monitor-server-api
+	branch = refs/heads/master
