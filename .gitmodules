@@ -51930,3 +51930,7 @@
 	url = https://github.com/conda-forge/cudasirecon-feedstock.git
 	path = feedstocks/cudasirecon
 	branch = refs/heads/master
+[submodule "botcity-maestro-sdk"]
+	url = https://github.com/conda-forge/botcity-maestro-sdk-feedstock.git
+	path = feedstocks/botcity-maestro-sdk
+	branch = refs/heads/master
