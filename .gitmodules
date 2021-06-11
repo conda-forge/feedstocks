@@ -51934,3 +51934,7 @@
 	url = https://github.com/conda-forge/botcity-maestro-sdk-feedstock.git
 	path = feedstocks/botcity-maestro-sdk
 	branch = refs/heads/master
+[submodule "aws-c-s3"]
+	url = https://github.com/conda-forge/aws-c-s3-feedstock.git
+	path = feedstocks/aws-c-s3
+	branch = refs/heads/master
