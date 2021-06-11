@@ -51950,3 +51950,7 @@
 	url = https://github.com/conda-forge/arxiv-feedstock.git
 	path = feedstocks/arxiv
 	branch = refs/heads/master
+[submodule "sanic-security"]
+	url = https://github.com/conda-forge/sanic-security-feedstock.git
+	path = feedstocks/sanic-security
+	branch = refs/heads/master
