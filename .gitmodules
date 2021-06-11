@@ -51942,3 +51942,7 @@
 	url = https://github.com/conda-forge/scanpy-feedstock.git
 	path = feedstocks/scanpy
 	branch = refs/heads/master
+[submodule "argparse-manpage-birdtools"]
+	url = https://github.com/conda-forge/argparse-manpage-birdtools-feedstock.git
+	path = feedstocks/argparse-manpage-birdtools
+	branch = refs/heads/master
