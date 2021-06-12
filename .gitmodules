@@ -51986,3 +51986,7 @@
 	url = https://github.com/conda-forge/imp-feedstock.git
 	path = feedstocks/imp
 	branch = refs/heads/master
+[submodule "labelimg"]
+	url = https://github.com/conda-forge/labelimg-feedstock.git
+	path = feedstocks/labelimg
+	branch = refs/heads/master
