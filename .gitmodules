@@ -51962,3 +51962,7 @@
 	url = https://github.com/conda-forge/openmichrom-feedstock.git
 	path = feedstocks/openmichrom
 	branch = refs/heads/master
+[submodule "pyxel-sim"]
+	url = https://github.com/conda-forge/pyxel-sim-feedstock.git
+	path = feedstocks/pyxel-sim
+	branch = refs/heads/master
