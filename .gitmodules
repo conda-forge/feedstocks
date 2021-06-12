@@ -52006,3 +52006,7 @@
 	url = https://github.com/conda-forge/exoplanet-core-feedstock.git
 	path = feedstocks/exoplanet-core
 	branch = refs/heads/master
+[submodule "ellc"]
+	url = https://github.com/conda-forge/ellc-feedstock.git
+	path = feedstocks/ellc
+	branch = refs/heads/master
