@@ -52002,3 +52002,7 @@
 	url = https://github.com/conda-forge/clingcon-feedstock.git
 	path = feedstocks/clingcon
 	branch = refs/heads/master
+[submodule "exoplanet-core"]
+	url = https://github.com/conda-forge/exoplanet-core-feedstock.git
+	path = feedstocks/exoplanet-core
+	branch = refs/heads/master
