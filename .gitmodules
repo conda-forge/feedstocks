@@ -52022,3 +52022,7 @@
 	url = https://github.com/conda-forge/tinyobjloader-feedstock.git
 	path = feedstocks/tinyobjloader
 	branch = refs/heads/master
+[submodule "pyoptsparse"]
+	url = https://github.com/conda-forge/pyoptsparse-feedstock.git
+	path = feedstocks/pyoptsparse
+	branch = refs/heads/master
