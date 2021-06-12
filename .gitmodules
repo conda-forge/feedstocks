@@ -52010,3 +52010,7 @@
 	url = https://github.com/conda-forge/ellc-feedstock.git
 	path = feedstocks/ellc
 	branch = refs/heads/master
+[submodule "pycudasirecon"]
+	url = https://github.com/conda-forge/pycudasirecon-feedstock.git
+	path = feedstocks/pycudasirecon
+	branch = refs/heads/master
