@@ -51990,3 +51990,7 @@
 	url = https://github.com/conda-forge/labelimg-feedstock.git
 	path = feedstocks/labelimg
 	branch = refs/heads/master
+[submodule "syncthing"]
+	url = https://github.com/conda-forge/syncthing-feedstock.git
+	path = feedstocks/syncthing
+	branch = refs/heads/master
