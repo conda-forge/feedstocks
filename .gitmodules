@@ -52026,3 +52026,7 @@
 	url = https://github.com/conda-forge/pyoptsparse-feedstock.git
 	path = feedstocks/pyoptsparse
 	branch = refs/heads/master
+[submodule "mols2grid"]
+	url = https://github.com/conda-forge/mols2grid-feedstock.git
+	path = feedstocks/mols2grid
+	branch = refs/heads/master
