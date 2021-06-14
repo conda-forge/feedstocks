@@ -52042,3 +52042,7 @@
 	url = https://github.com/conda-forge/farm-feedstock.git
 	path = feedstocks/farm
 	branch = refs/heads/master
+[submodule "r-tzdb"]
+	url = https://github.com/conda-forge/r-tzdb-feedstock.git
+	path = feedstocks/r-tzdb
+	branch = refs/heads/master
