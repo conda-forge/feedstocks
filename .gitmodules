@@ -52030,3 +52030,7 @@
 	url = https://github.com/conda-forge/mols2grid-feedstock.git
 	path = feedstocks/mols2grid
 	branch = refs/heads/master
+[submodule "scanning_drift_corr"]
+	url = https://github.com/conda-forge/scanning_drift_corr-feedstock.git
+	path = feedstocks/scanning_drift_corr
+	branch = refs/heads/master
