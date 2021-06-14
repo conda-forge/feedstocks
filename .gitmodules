@@ -52050,3 +52050,7 @@
 	url = https://github.com/conda-forge/napkin-feedstock.git
 	path = feedstocks/napkin
 	branch = refs/heads/master
+[submodule "pandasql"]
+	url = https://github.com/conda-forge/pandasql-feedstock.git
+	path = feedstocks/pandasql
+	branch = refs/heads/master
