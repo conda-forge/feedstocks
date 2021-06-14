@@ -52038,3 +52038,7 @@
 	url = https://github.com/conda-forge/ibm_db_django-feedstock.git
 	path = feedstocks/ibm_db_django
 	branch = refs/heads/master
+[submodule "farm"]
+	url = https://github.com/conda-forge/farm-feedstock.git
+	path = feedstocks/farm
+	branch = refs/heads/master
