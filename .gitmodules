@@ -52058,3 +52058,7 @@
 	url = https://github.com/conda-forge/r-pkgdepends-feedstock.git
 	path = feedstocks/r-pkgdepends
 	branch = refs/heads/master
+[submodule "awscrt"]
+	url = https://github.com/conda-forge/awscrt-feedstock.git
+	path = feedstocks/awscrt
+	branch = refs/heads/master
