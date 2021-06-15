@@ -52090,3 +52090,7 @@
 	url = https://github.com/conda-forge/telingo-feedstock.git
 	path = feedstocks/telingo
 	branch = refs/heads/master
+[submodule "python-clingox"]
+	url = https://github.com/conda-forge/python-clingox-feedstock.git
+	path = feedstocks/python-clingox
+	branch = refs/heads/master
