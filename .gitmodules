@@ -52082,3 +52082,7 @@
 	url = https://github.com/conda-forge/vector-quantize-pytorch-feedstock.git
 	path = feedstocks/vector-quantize-pytorch
 	branch = refs/heads/master
+[submodule "r-clock"]
+	url = https://github.com/conda-forge/r-clock-feedstock.git
+	path = feedstocks/r-clock
+	branch = refs/heads/master
