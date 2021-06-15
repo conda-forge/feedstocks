@@ -52086,3 +52086,7 @@
 	url = https://github.com/conda-forge/r-clock-feedstock.git
 	path = feedstocks/r-clock
 	branch = refs/heads/master
+[submodule "telingo"]
+	url = https://github.com/conda-forge/telingo-feedstock.git
+	path = feedstocks/telingo
+	branch = refs/heads/master
