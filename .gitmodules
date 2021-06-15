@@ -52062,3 +52062,7 @@
 	url = https://github.com/conda-forge/awscrt-feedstock.git
 	path = feedstocks/awscrt
 	branch = refs/heads/master
+[submodule "contrastive-learner"]
+	url = https://github.com/conda-forge/contrastive-learner-feedstock.git
+	path = feedstocks/contrastive-learner
+	branch = refs/heads/master
