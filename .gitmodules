@@ -52074,3 +52074,7 @@
 	url = https://github.com/conda-forge/ratemate-feedstock.git
 	path = feedstocks/ratemate
 	branch = refs/heads/master
+[submodule "keyboard"]
+	url = https://github.com/conda-forge/keyboard-feedstock.git
+	path = feedstocks/keyboard
+	branch = refs/heads/master
