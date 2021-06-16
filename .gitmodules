@@ -52138,3 +52138,7 @@
 	url = https://github.com/conda-forge/apischema-feedstock.git
 	path = feedstocks/apischema
 	branch = refs/heads/master
+[submodule "extract_model"]
+	url = https://github.com/conda-forge/extract_model-feedstock.git
+	path = feedstocks/extract_model
+	branch = refs/heads/master
