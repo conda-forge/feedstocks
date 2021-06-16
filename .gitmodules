@@ -52134,3 +52134,7 @@
 	url = https://github.com/conda-forge/r-policytree-feedstock.git
 	path = feedstocks/r-policytree
 	branch = refs/heads/master
+[submodule "apischema"]
+	url = https://github.com/conda-forge/apischema-feedstock.git
+	path = feedstocks/apischema
+	branch = refs/heads/master
