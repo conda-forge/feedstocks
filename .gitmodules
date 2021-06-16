@@ -52142,3 +52142,7 @@
 	url = https://github.com/conda-forge/extract_model-feedstock.git
 	path = feedstocks/extract_model
 	branch = refs/heads/master
+[submodule "erddap-python"]
+	url = https://github.com/conda-forge/erddap-python-feedstock.git
+	path = feedstocks/erddap-python
+	branch = refs/heads/master
