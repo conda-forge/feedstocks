@@ -52146,3 +52146,7 @@
 	url = https://github.com/conda-forge/erddap-python-feedstock.git
 	path = feedstocks/erddap-python
 	branch = refs/heads/master
+[submodule "openff-interchange"]
+	url = https://github.com/conda-forge/openff-interchange-feedstock.git
+	path = feedstocks/openff-interchange
+	branch = refs/heads/master
