@@ -52162,3 +52162,7 @@
 	url = https://github.com/conda-forge/blake3-feedstock.git
 	path = feedstocks/blake3
 	branch = refs/heads/master
+[submodule "scaleapi"]
+	url = https://github.com/conda-forge/scaleapi-feedstock.git
+	path = feedstocks/scaleapi
+	branch = refs/heads/master
