@@ -52170,3 +52170,7 @@
 	url = https://github.com/conda-forge/tempeh-feedstock.git
 	path = feedstocks/tempeh
 	branch = refs/heads/master
+[submodule "rust-script"]
+	url = https://github.com/conda-forge/rust-script-feedstock.git
+	path = feedstocks/rust-script
+	branch = refs/heads/master
