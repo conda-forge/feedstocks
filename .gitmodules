@@ -52426,3 +52426,7 @@
 	url = https://github.com/conda-forge/types-toml-feedstock.git
 	path = feedstocks/types-toml
 	branch = refs/heads/master
+[submodule "types-decorator"]
+	url = https://github.com/conda-forge/types-decorator-feedstock.git
+	path = feedstocks/types-decorator
+	branch = refs/heads/master
