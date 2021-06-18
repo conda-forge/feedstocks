@@ -52254,3 +52254,7 @@
 	url = https://github.com/conda-forge/types-futures-feedstock.git
 	path = feedstocks/types-futures
 	branch = refs/heads/master
+[submodule "types-pymssql"]
+	url = https://github.com/conda-forge/types-pymssql-feedstock.git
+	path = feedstocks/types-pymssql
+	branch = refs/heads/master
