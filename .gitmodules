@@ -52450,3 +52450,7 @@
 	url = https://github.com/conda-forge/types-six-feedstock.git
 	path = feedstocks/types-six
 	branch = refs/heads/master
+[submodule "types-redis"]
+	url = https://github.com/conda-forge/types-redis-feedstock.git
+	path = feedstocks/types-redis
+	branch = refs/heads/master
