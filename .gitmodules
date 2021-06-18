@@ -52442,3 +52442,7 @@
 	url = https://github.com/conda-forge/types-chardet-feedstock.git
 	path = feedstocks/types-chardet
 	branch = refs/heads/master
+[submodule "types-certifi"]
+	url = https://github.com/conda-forge/types-certifi-feedstock.git
+	path = feedstocks/types-certifi
+	branch = refs/heads/master
