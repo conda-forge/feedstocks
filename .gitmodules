@@ -52234,3 +52234,7 @@
 	url = https://github.com/conda-forge/types-deprecated-feedstock.git
 	path = feedstocks/types-deprecated
 	branch = refs/heads/master
+[submodule "types-backports"]
+	url = https://github.com/conda-forge/types-backports-feedstock.git
+	path = feedstocks/types-backports
+	branch = refs/heads/master
