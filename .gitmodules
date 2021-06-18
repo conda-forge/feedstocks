@@ -52394,3 +52394,7 @@
 	url = https://github.com/conda-forge/types-nmap-feedstock.git
 	path = feedstocks/types-nmap
 	branch = refs/heads/master
+[submodule "types-requests"]
+	url = https://github.com/conda-forge/types-requests-feedstock.git
+	path = feedstocks/types-requests
+	branch = refs/heads/master
