@@ -52434,3 +52434,7 @@
 	url = https://github.com/conda-forge/types-click-feedstock.git
 	path = feedstocks/types-click
 	branch = refs/heads/master
+[submodule "types-docutils"]
+	url = https://github.com/conda-forge/types-docutils-feedstock.git
+	path = feedstocks/types-docutils
+	branch = refs/heads/master
