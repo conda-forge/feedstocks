@@ -52274,3 +52274,7 @@
 	url = https://github.com/conda-forge/types-characteristic-feedstock.git
 	path = feedstocks/types-characteristic
 	branch = refs/heads/master
+[submodule "types-werkzeug"]
+	url = https://github.com/conda-forge/types-werkzeug-feedstock.git
+	path = feedstocks/types-werkzeug
+	branch = refs/heads/master
