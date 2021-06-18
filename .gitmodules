@@ -52282,3 +52282,7 @@
 	url = https://github.com/conda-forge/types-pyfarmhash-feedstock.git
 	path = feedstocks/types-pyfarmhash
 	branch = refs/heads/master
+[submodule "types-pkg_resources"]
+	url = https://github.com/conda-forge/types-pkg_resources-feedstock.git
+	path = feedstocks/types-pkg_resources
+	branch = refs/heads/master
