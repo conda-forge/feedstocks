@@ -52250,3 +52250,7 @@
 	url = https://github.com/conda-forge/types-frozendict-feedstock.git
 	path = feedstocks/types-frozendict
 	branch = refs/heads/master
+[submodule "types-futures"]
+	url = https://github.com/conda-forge/types-futures-feedstock.git
+	path = feedstocks/types-futures
+	branch = refs/heads/master
