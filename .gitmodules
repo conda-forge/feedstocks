@@ -52402,3 +52402,7 @@
 	url = https://github.com/conda-forge/types-routes-feedstock.git
 	path = feedstocks/types-routes
 	branch = refs/heads/master
+[submodule "types-colorama"]
+	url = https://github.com/conda-forge/types-colorama-feedstock.git
+	path = feedstocks/types-colorama
+	branch = refs/heads/master
