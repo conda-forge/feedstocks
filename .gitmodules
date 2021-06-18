@@ -52478,3 +52478,7 @@
 	url = https://github.com/conda-forge/types-pymysql-feedstock.git
 	path = feedstocks/types-pymysql
 	branch = refs/heads/master
+[submodule "types-bleach"]
+	url = https://github.com/conda-forge/types-bleach-feedstock.git
+	path = feedstocks/types-bleach
+	branch = refs/heads/master
