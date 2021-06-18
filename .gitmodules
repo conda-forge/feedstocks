@@ -52246,3 +52246,7 @@
 	url = https://github.com/conda-forge/types-ipaddress-feedstock.git
 	path = feedstocks/types-ipaddress
 	branch = refs/heads/master
+[submodule "types-frozendict"]
+	url = https://github.com/conda-forge/types-frozendict-feedstock.git
+	path = feedstocks/types-frozendict
+	branch = refs/heads/master
