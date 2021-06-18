@@ -52354,3 +52354,7 @@
 	url = https://github.com/conda-forge/types-pillow-feedstock.git
 	path = feedstocks/types-pillow
 	branch = refs/heads/master
+[submodule "types-dataclasses"]
+	url = https://github.com/conda-forge/types-dataclasses-feedstock.git
+	path = feedstocks/types-dataclasses
+	branch = refs/heads/master
