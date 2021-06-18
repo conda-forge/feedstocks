@@ -52326,3 +52326,7 @@
 	url = https://github.com/conda-forge/types-mock-feedstock.git
 	path = feedstocks/types-mock
 	branch = refs/heads/master
+[submodule "types-emoji"]
+	url = https://github.com/conda-forge/types-emoji-feedstock.git
+	path = feedstocks/types-emoji
+	branch = refs/heads/master
