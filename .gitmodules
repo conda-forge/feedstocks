@@ -52294,3 +52294,7 @@
 	url = https://github.com/conda-forge/types-atomicwrites-feedstock.git
 	path = feedstocks/types-atomicwrites
 	branch = refs/heads/master
+[submodule "types-markupsafe"]
+	url = https://github.com/conda-forge/types-markupsafe-feedstock.git
+	path = feedstocks/types-markupsafe
+	branch = refs/heads/master
