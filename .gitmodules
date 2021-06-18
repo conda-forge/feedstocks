@@ -52454,3 +52454,7 @@
 	url = https://github.com/conda-forge/types-redis-feedstock.git
 	path = feedstocks/types-redis
 	branch = refs/heads/master
+[submodule "types-python-gflags"]
+	url = https://github.com/conda-forge/types-python-gflags-feedstock.git
+	path = feedstocks/types-python-gflags
+	branch = refs/heads/master
