@@ -52398,3 +52398,7 @@
 	url = https://github.com/conda-forge/types-requests-feedstock.git
 	path = feedstocks/types-requests
 	branch = refs/heads/master
+[submodule "types-routes"]
+	url = https://github.com/conda-forge/types-routes-feedstock.git
+	path = feedstocks/types-routes
+	branch = refs/heads/master
