@@ -52378,3 +52378,7 @@
 	url = https://github.com/conda-forge/types-mypy-extensions-feedstock.git
 	path = feedstocks/types-mypy-extensions
 	branch = refs/heads/master
+[submodule "types-aiofiles"]
+	url = https://github.com/conda-forge/types-aiofiles-feedstock.git
+	path = feedstocks/types-aiofiles
+	branch = refs/heads/master
