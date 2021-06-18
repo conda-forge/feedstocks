@@ -52458,3 +52458,7 @@
 	url = https://github.com/conda-forge/types-python-gflags-feedstock.git
 	path = feedstocks/types-python-gflags
 	branch = refs/heads/master
+[submodule "types-tabulate"]
+	url = https://github.com/conda-forge/types-tabulate-feedstock.git
+	path = feedstocks/types-tabulate
+	branch = refs/heads/master
