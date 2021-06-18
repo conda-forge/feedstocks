@@ -52210,3 +52210,7 @@
 	url = https://github.com/conda-forge/dtool_overlay-feedstock.git
 	path = feedstocks/dtool_overlay
 	branch = refs/heads/master
+[submodule "pystencils-reco"]
+	url = https://github.com/conda-forge/pystencils-reco-feedstock.git
+	path = feedstocks/pystencils-reco
+	branch = refs/heads/master
