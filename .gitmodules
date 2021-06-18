@@ -52174,3 +52174,7 @@
 	url = https://github.com/conda-forge/rust-script-feedstock.git
 	path = feedstocks/rust-script
 	branch = refs/heads/master
+[submodule "chemprop"]
+	url = https://github.com/conda-forge/chemprop-feedstock.git
+	path = feedstocks/chemprop
+	branch = refs/heads/master
