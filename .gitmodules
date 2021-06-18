@@ -52190,3 +52190,7 @@
 	url = https://github.com/conda-forge/pystencils-feedstock.git
 	path = feedstocks/pystencils
 	branch = refs/heads/master
+[submodule "pystencils-walberla"]
+	url = https://github.com/conda-forge/pystencils-walberla-feedstock.git
+	path = feedstocks/pystencils-walberla
+	branch = refs/heads/master
