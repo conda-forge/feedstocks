@@ -52418,3 +52418,7 @@
 	url = https://github.com/conda-forge/types-ujson-feedstock.git
 	path = feedstocks/types-ujson
 	branch = refs/heads/master
+[submodule "types-markdown"]
+	url = https://github.com/conda-forge/types-markdown-feedstock.git
+	path = feedstocks/types-markdown
+	branch = refs/heads/master
