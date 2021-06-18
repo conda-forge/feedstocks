@@ -52446,3 +52446,7 @@
 	url = https://github.com/conda-forge/types-certifi-feedstock.git
 	path = feedstocks/types-certifi
 	branch = refs/heads/master
+[submodule "types-six"]
+	url = https://github.com/conda-forge/types-six-feedstock.git
+	path = feedstocks/types-six
+	branch = refs/heads/master
