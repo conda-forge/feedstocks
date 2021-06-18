@@ -52430,3 +52430,7 @@
 	url = https://github.com/conda-forge/types-decorator-feedstock.git
 	path = feedstocks/types-decorator
 	branch = refs/heads/master
+[submodule "types-click"]
+	url = https://github.com/conda-forge/types-click-feedstock.git
+	path = feedstocks/types-click
+	branch = refs/heads/master
