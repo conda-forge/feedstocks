@@ -52406,3 +52406,7 @@
 	url = https://github.com/conda-forge/types-colorama-feedstock.git
 	path = feedstocks/types-colorama
 	branch = refs/heads/master
+[submodule "types-waitress"]
+	url = https://github.com/conda-forge/types-waitress-feedstock.git
+	path = feedstocks/types-waitress
+	branch = refs/heads/master
