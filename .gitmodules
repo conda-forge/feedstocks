@@ -52346,3 +52346,7 @@
 	url = https://github.com/conda-forge/types-dateparser-feedstock.git
 	path = feedstocks/types-dateparser
 	branch = refs/heads/master
+[submodule "types-contextvars"]
+	url = https://github.com/conda-forge/types-contextvars-feedstock.git
+	path = feedstocks/types-contextvars
+	branch = refs/heads/master
