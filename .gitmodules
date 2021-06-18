@@ -52366,3 +52366,7 @@
 	url = https://github.com/conda-forge/types-pyrfc3339-feedstock.git
 	path = feedstocks/types-pyrfc3339
 	branch = refs/heads/master
+[submodule "types-kazoo"]
+	url = https://github.com/conda-forge/types-kazoo-feedstock.git
+	path = feedstocks/types-kazoo
+	branch = refs/heads/master
