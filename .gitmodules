@@ -52330,3 +52330,7 @@
 	url = https://github.com/conda-forge/types-emoji-feedstock.git
 	path = feedstocks/types-emoji
 	branch = refs/heads/master
+[submodule "types-termcolor"]
+	url = https://github.com/conda-forge/types-termcolor-feedstock.git
+	path = feedstocks/types-termcolor
+	branch = refs/heads/master
