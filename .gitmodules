@@ -52466,3 +52466,7 @@
 	url = https://github.com/conda-forge/types-filelock-feedstock.git
 	path = feedstocks/types-filelock
 	branch = refs/heads/master
+[submodule "types-xxhash"]
+	url = https://github.com/conda-forge/types-xxhash-feedstock.git
+	path = feedstocks/types-xxhash
+	branch = refs/heads/master
