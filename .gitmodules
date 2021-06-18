@@ -52334,3 +52334,7 @@
 	url = https://github.com/conda-forge/types-termcolor-feedstock.git
 	path = feedstocks/types-termcolor
 	branch = refs/heads/master
+[submodule "types-python-slugify"]
+	url = https://github.com/conda-forge/types-python-slugify-feedstock.git
+	path = feedstocks/types-python-slugify
+	branch = refs/heads/master
