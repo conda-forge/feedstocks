@@ -52310,3 +52310,7 @@
 	url = https://github.com/conda-forge/types-jack-client-feedstock.git
 	path = feedstocks/types-jack-client
 	branch = refs/heads/master
+[submodule "types-pyaudio"]
+	url = https://github.com/conda-forge/types-pyaudio-feedstock.git
+	path = feedstocks/types-pyaudio
+	branch = refs/heads/master
