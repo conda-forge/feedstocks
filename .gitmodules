@@ -52498,3 +52498,7 @@
 	url = https://github.com/conda-forge/types-orjson-feedstock.git
 	path = feedstocks/types-orjson
 	branch = refs/heads/master
+[submodule "types-cachetools"]
+	url = https://github.com/conda-forge/types-cachetools-feedstock.git
+	path = feedstocks/types-cachetools
+	branch = refs/heads/master
