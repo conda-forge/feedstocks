@@ -52206,3 +52206,7 @@
 	url = https://github.com/conda-forge/pystencils-autodiff-feedstock.git
 	path = feedstocks/pystencils-autodiff
 	branch = refs/heads/master
+[submodule "dtool_overlay"]
+	url = https://github.com/conda-forge/dtool_overlay-feedstock.git
+	path = feedstocks/dtool_overlay
+	branch = refs/heads/master
