@@ -52322,3 +52322,7 @@
 	url = https://github.com/conda-forge/types-pyyaml-feedstock.git
 	path = feedstocks/types-pyyaml
 	branch = refs/heads/master
+[submodule "types-mock"]
+	url = https://github.com/conda-forge/types-mock-feedstock.git
+	path = feedstocks/types-mock
+	branch = refs/heads/master
