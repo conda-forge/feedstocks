@@ -52358,3 +52358,7 @@
 	url = https://github.com/conda-forge/types-dataclasses-feedstock.git
 	path = feedstocks/types-dataclasses
 	branch = refs/heads/master
+[submodule "types-polib"]
+	url = https://github.com/conda-forge/types-polib-feedstock.git
+	path = feedstocks/types-polib
+	branch = refs/heads/master
