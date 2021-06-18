@@ -52178,3 +52178,7 @@
 	url = https://github.com/conda-forge/chemprop-feedstock.git
 	path = feedstocks/chemprop
 	branch = refs/heads/master
+[submodule "typed-argument-parser"]
+	url = https://github.com/conda-forge/typed-argument-parser-feedstock.git
+	path = feedstocks/typed-argument-parser
+	branch = refs/heads/master
