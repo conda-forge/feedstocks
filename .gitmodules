@@ -52214,3 +52214,7 @@
 	url = https://github.com/conda-forge/pystencils-reco-feedstock.git
 	path = feedstocks/pystencils-reco
 	branch = refs/heads/master
+[submodule "dtool_tag"]
+	url = https://github.com/conda-forge/dtool_tag-feedstock.git
+	path = feedstocks/dtool_tag
+	branch = refs/heads/master
