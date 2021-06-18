@@ -52414,3 +52414,7 @@
 	url = https://github.com/conda-forge/types-singledispatch-feedstock.git
 	path = feedstocks/types-singledispatch
 	branch = refs/heads/master
+[submodule "types-ujson"]
+	url = https://github.com/conda-forge/types-ujson-feedstock.git
+	path = feedstocks/types-ujson
+	branch = refs/heads/master
