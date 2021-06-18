@@ -52494,3 +52494,7 @@
 	url = https://github.com/conda-forge/types-tornado-feedstock.git
 	path = feedstocks/types-tornado
 	branch = refs/heads/master
+[submodule "types-orjson"]
+	url = https://github.com/conda-forge/types-orjson-feedstock.git
+	path = feedstocks/types-orjson
+	branch = refs/heads/master
