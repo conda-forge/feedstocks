@@ -52242,3 +52242,7 @@
 	url = https://github.com/conda-forge/types-fb303-feedstock.git
 	path = feedstocks/types-fb303
 	branch = refs/heads/master
+[submodule "types-ipaddress"]
+	url = https://github.com/conda-forge/types-ipaddress-feedstock.git
+	path = feedstocks/types-ipaddress
+	branch = refs/heads/master
