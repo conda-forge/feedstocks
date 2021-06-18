@@ -52474,3 +52474,7 @@
 	url = https://github.com/conda-forge/types-typed-ast-feedstock.git
 	path = feedstocks/types-typed-ast
 	branch = refs/heads/master
+[submodule "types-pymysql"]
+	url = https://github.com/conda-forge/types-pymysql-feedstock.git
+	path = feedstocks/types-pymysql
+	branch = refs/heads/master
