@@ -52306,3 +52306,7 @@
 	url = https://github.com/conda-forge/types-itsdangerous-feedstock.git
 	path = feedstocks/types-itsdangerous
 	branch = refs/heads/master
+[submodule "types-jack-client"]
+	url = https://github.com/conda-forge/types-jack-client-feedstock.git
+	path = feedstocks/types-jack-client
+	branch = refs/heads/master
