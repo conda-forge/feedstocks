@@ -52342,3 +52342,7 @@
 	url = https://github.com/conda-forge/types-pycurl-feedstock.git
 	path = feedstocks/types-pycurl
 	branch = refs/heads/master
+[submodule "types-dateparser"]
+	url = https://github.com/conda-forge/types-dateparser-feedstock.git
+	path = feedstocks/types-dateparser
+	branch = refs/heads/master
