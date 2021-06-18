@@ -52410,3 +52410,7 @@
 	url = https://github.com/conda-forge/types-waitress-feedstock.git
 	path = feedstocks/types-waitress
 	branch = refs/heads/master
+[submodule "types-singledispatch"]
+	url = https://github.com/conda-forge/types-singledispatch-feedstock.git
+	path = feedstocks/types-singledispatch
+	branch = refs/heads/master
