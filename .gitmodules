@@ -52338,3 +52338,7 @@
 	url = https://github.com/conda-forge/types-python-slugify-feedstock.git
 	path = feedstocks/types-python-slugify
 	branch = refs/heads/master
+[submodule "types-pycurl"]
+	url = https://github.com/conda-forge/types-pycurl-feedstock.git
+	path = feedstocks/types-pycurl
+	branch = refs/heads/master
