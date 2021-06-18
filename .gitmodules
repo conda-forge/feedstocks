@@ -52262,3 +52262,7 @@
 	url = https://github.com/conda-forge/types-pytz-feedstock.git
 	path = feedstocks/types-pytz
 	branch = refs/heads/master
+[submodule "types-simplejson"]
+	url = https://github.com/conda-forge/types-simplejson-feedstock.git
+	path = feedstocks/types-simplejson
+	branch = refs/heads/master
