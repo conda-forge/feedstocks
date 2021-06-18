@@ -52186,3 +52186,7 @@
 	url = https://github.com/conda-forge/lbmpy-feedstock.git
 	path = feedstocks/lbmpy
 	branch = refs/heads/master
+[submodule "pystencils"]
+	url = https://github.com/conda-forge/pystencils-feedstock.git
+	path = feedstocks/pystencils
+	branch = refs/heads/master
