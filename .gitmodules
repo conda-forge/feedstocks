@@ -52238,3 +52238,7 @@
 	url = https://github.com/conda-forge/types-backports-feedstock.git
 	path = feedstocks/types-backports
 	branch = refs/heads/master
+[submodule "types-fb303"]
+	url = https://github.com/conda-forge/types-fb303-feedstock.git
+	path = feedstocks/types-fb303
+	branch = refs/heads/master
