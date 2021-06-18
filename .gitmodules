@@ -52202,3 +52202,7 @@
 	url = https://github.com/conda-forge/p-tqdm-feedstock.git
 	path = feedstocks/p-tqdm
 	branch = refs/heads/master
+[submodule "pystencils-autodiff"]
+	url = https://github.com/conda-forge/pystencils-autodiff-feedstock.git
+	path = feedstocks/pystencils-autodiff
+	branch = refs/heads/master
