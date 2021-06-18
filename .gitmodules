@@ -52438,3 +52438,7 @@
 	url = https://github.com/conda-forge/types-docutils-feedstock.git
 	path = feedstocks/types-docutils
 	branch = refs/heads/master
+[submodule "types-chardet"]
+	url = https://github.com/conda-forge/types-chardet-feedstock.git
+	path = feedstocks/types-chardet
+	branch = refs/heads/master
