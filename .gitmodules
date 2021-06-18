@@ -52490,3 +52490,7 @@
 	url = https://github.com/conda-forge/types-annoy-feedstock.git
 	path = feedstocks/types-annoy
 	branch = refs/heads/master
+[submodule "types-tornado"]
+	url = https://github.com/conda-forge/types-tornado-feedstock.git
+	path = feedstocks/types-tornado
+	branch = refs/heads/master
