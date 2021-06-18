@@ -52382,3 +52382,7 @@
 	url = https://github.com/conda-forge/types-aiofiles-feedstock.git
 	path = feedstocks/types-aiofiles
 	branch = refs/heads/master
+[submodule "types-freezegun"]
+	url = https://github.com/conda-forge/types-freezegun-feedstock.git
+	path = feedstocks/types-freezegun
+	branch = refs/heads/master
