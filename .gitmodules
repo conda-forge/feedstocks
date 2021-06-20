@@ -52530,3 +52530,7 @@
 	url = https://github.com/conda-forge/types-scribe-feedstock.git
 	path = feedstocks/types-scribe
 	branch = refs/heads/master
+[submodule "types-maxminddb"]
+	url = https://github.com/conda-forge/types-maxminddb-feedstock.git
+	path = feedstocks/types-maxminddb
+	branch = refs/heads/master
