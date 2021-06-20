@@ -52514,3 +52514,7 @@
 	url = https://github.com/conda-forge/types-cryptography-feedstock.git
 	path = feedstocks/types-cryptography
 	branch = refs/heads/master
+[submodule "types-tzlocal"]
+	url = https://github.com/conda-forge/types-tzlocal-feedstock.git
+	path = feedstocks/types-tzlocal
+	branch = refs/heads/master
