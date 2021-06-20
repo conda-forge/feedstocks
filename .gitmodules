@@ -52518,3 +52518,7 @@
 	url = https://github.com/conda-forge/types-tzlocal-feedstock.git
 	path = feedstocks/types-tzlocal
 	branch = refs/heads/master
+[submodule "types-protobuf"]
+	url = https://github.com/conda-forge/types-protobuf-feedstock.git
+	path = feedstocks/types-protobuf
+	branch = refs/heads/master
