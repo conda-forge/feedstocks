@@ -52538,3 +52538,7 @@
 	url = https://github.com/conda-forge/types-pyvmomi-feedstock.git
 	path = feedstocks/types-pyvmomi
 	branch = refs/heads/master
+[submodule "types-datetimerange"]
+	url = https://github.com/conda-forge/types-datetimerange-feedstock.git
+	path = feedstocks/types-datetimerange
+	branch = refs/heads/master
