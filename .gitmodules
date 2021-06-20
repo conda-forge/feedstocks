@@ -52542,3 +52542,7 @@
 	url = https://github.com/conda-forge/types-datetimerange-feedstock.git
 	path = feedstocks/types-datetimerange
 	branch = refs/heads/master
+[submodule "types-boto"]
+	url = https://github.com/conda-forge/types-boto-feedstock.git
+	path = feedstocks/types-boto
+	branch = refs/heads/master
