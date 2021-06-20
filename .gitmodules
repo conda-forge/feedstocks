@@ -52526,3 +52526,7 @@
 	url = https://github.com/conda-forge/types-jinja2-feedstock.git
 	path = feedstocks/types-jinja2
 	branch = refs/heads/master
+[submodule "types-scribe"]
+	url = https://github.com/conda-forge/types-scribe-feedstock.git
+	path = feedstocks/types-scribe
+	branch = refs/heads/master
