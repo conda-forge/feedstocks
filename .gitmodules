@@ -52510,3 +52510,7 @@
 	url = https://github.com/conda-forge/aurora-feedstock.git
 	path = feedstocks/aurora
 	branch = refs/heads/master
+[submodule "types-cryptography"]
+	url = https://github.com/conda-forge/types-cryptography-feedstock.git
+	path = feedstocks/types-cryptography
+	branch = refs/heads/master
