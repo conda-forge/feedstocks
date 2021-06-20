@@ -52534,3 +52534,7 @@
 	url = https://github.com/conda-forge/types-maxminddb-feedstock.git
 	path = feedstocks/types-maxminddb
 	branch = refs/heads/master
+[submodule "types-pyvmomi"]
+	url = https://github.com/conda-forge/types-pyvmomi-feedstock.git
+	path = feedstocks/types-pyvmomi
+	branch = refs/heads/master
