@@ -52554,3 +52554,7 @@
 	url = https://github.com/conda-forge/types-pyjwt-feedstock.git
 	path = feedstocks/types-pyjwt
 	branch = refs/heads/master
+[submodule "types-pyopenssl"]
+	url = https://github.com/conda-forge/types-pyopenssl-feedstock.git
+	path = feedstocks/types-pyopenssl
+	branch = refs/heads/master
