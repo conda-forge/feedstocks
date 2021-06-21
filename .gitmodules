@@ -52582,3 +52582,7 @@
 	url = https://github.com/conda-forge/bmorph-feedstock.git
 	path = feedstocks/bmorph
 	branch = refs/heads/master
+[submodule "pcicrawler"]
+	url = https://github.com/conda-forge/pcicrawler-feedstock.git
+	path = feedstocks/pcicrawler
+	branch = refs/heads/master
