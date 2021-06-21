@@ -52546,3 +52546,7 @@
 	url = https://github.com/conda-forge/types-boto-feedstock.git
 	path = feedstocks/types-boto
 	branch = refs/heads/master
+[submodule "libdazzle"]
+	url = https://github.com/conda-forge/libdazzle-feedstock.git
+	path = feedstocks/libdazzle
+	branch = refs/heads/master
