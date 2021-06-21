@@ -52602,3 +52602,7 @@
 	url = https://github.com/conda-forge/openmatrix-feedstock.git
 	path = feedstocks/openmatrix
 	branch = refs/heads/master
+[submodule "types-pysftp"]
+	url = https://github.com/conda-forge/types-pysftp-feedstock.git
+	path = feedstocks/types-pysftp
+	branch = refs/heads/master
