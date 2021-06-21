@@ -52598,3 +52598,7 @@
 	url = https://github.com/conda-forge/sparkypandy-feedstock.git
 	path = feedstocks/sparkypandy
 	branch = refs/heads/master
+[submodule "openmatrix"]
+	url = https://github.com/conda-forge/openmatrix-feedstock.git
+	path = feedstocks/openmatrix
+	branch = refs/heads/master
