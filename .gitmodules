@@ -52550,3 +52550,7 @@
 	url = https://github.com/conda-forge/libdazzle-feedstock.git
 	path = feedstocks/libdazzle
 	branch = refs/heads/master
+[submodule "types-pyjwt"]
+	url = https://github.com/conda-forge/types-pyjwt-feedstock.git
+	path = feedstocks/types-pyjwt
+	branch = refs/heads/master
