@@ -52586,3 +52586,7 @@
 	url = https://github.com/conda-forge/pcicrawler-feedstock.git
 	path = feedstocks/pcicrawler
 	branch = refs/heads/master
+[submodule "conda-export"]
+	url = https://github.com/conda-forge/conda-export-feedstock.git
+	path = feedstocks/conda-export
+	branch = refs/heads/master
