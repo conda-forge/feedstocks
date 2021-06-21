@@ -52566,3 +52566,7 @@
 	url = https://github.com/conda-forge/types-geoip2-feedstock.git
 	path = feedstocks/types-geoip2
 	branch = refs/heads/master
+[submodule "types-paramiko"]
+	url = https://github.com/conda-forge/types-paramiko-feedstock.git
+	path = feedstocks/types-paramiko
+	branch = refs/heads/master
