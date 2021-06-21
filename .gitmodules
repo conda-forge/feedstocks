@@ -52606,3 +52606,7 @@
 	url = https://github.com/conda-forge/types-pysftp-feedstock.git
 	path = feedstocks/types-pysftp
 	branch = refs/heads/master
+[submodule "cppyythonizations"]
+	url = https://github.com/conda-forge/cppyythonizations-feedstock.git
+	path = feedstocks/cppyythonizations
+	branch = refs/heads/master
