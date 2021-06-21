@@ -52578,3 +52578,7 @@
 	url = https://github.com/conda-forge/sumy-feedstock.git
 	path = feedstocks/sumy
 	branch = refs/heads/master
+[submodule "bmorph"]
+	url = https://github.com/conda-forge/bmorph-feedstock.git
+	path = feedstocks/bmorph
+	branch = refs/heads/master
