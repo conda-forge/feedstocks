@@ -52558,3 +52558,7 @@
 	url = https://github.com/conda-forge/types-pyopenssl-feedstock.git
 	path = feedstocks/types-pyopenssl
 	branch = refs/heads/master
+[submodule "types-flask"]
+	url = https://github.com/conda-forge/types-flask-feedstock.git
+	path = feedstocks/types-flask
+	branch = refs/heads/master
