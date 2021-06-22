@@ -52634,3 +52634,7 @@
 	url = https://github.com/conda-forge/marshmallow-jsonschema-feedstock.git
 	path = feedstocks/marshmallow-jsonschema
 	branch = refs/heads/master
+[submodule "pandablocks"]
+	url = https://github.com/conda-forge/pandablocks-feedstock.git
+	path = feedstocks/pandablocks
+	branch = refs/heads/master
