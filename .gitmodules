@@ -52622,3 +52622,7 @@
 	url = https://github.com/conda-forge/ax-platform-feedstock.git
 	path = feedstocks/ax-platform
 	branch = refs/heads/master
+[submodule "heligeo"]
+	url = https://github.com/conda-forge/heligeo-feedstock.git
+	path = feedstocks/heligeo
+	branch = refs/heads/master
