@@ -52638,3 +52638,7 @@
 	url = https://github.com/conda-forge/pandablocks-feedstock.git
 	path = feedstocks/pandablocks
 	branch = refs/heads/master
+[submodule "nb_cron"]
+	url = https://github.com/conda-forge/nb_cron-feedstock.git
+	path = feedstocks/nb_cron
+	branch = refs/heads/master
