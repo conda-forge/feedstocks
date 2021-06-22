@@ -52630,3 +52630,7 @@
 	url = https://github.com/conda-forge/benchling-sdk-feedstock.git
 	path = feedstocks/benchling-sdk
 	branch = refs/heads/master
+[submodule "marshmallow-jsonschema"]
+	url = https://github.com/conda-forge/marshmallow-jsonschema-feedstock.git
+	path = feedstocks/marshmallow-jsonschema
+	branch = refs/heads/master
