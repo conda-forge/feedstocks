@@ -52642,3 +52642,7 @@
 	url = https://github.com/conda-forge/nb_cron-feedstock.git
 	path = feedstocks/nb_cron
 	branch = refs/heads/master
+[submodule "pyyaml-env-tag"]
+	url = https://github.com/conda-forge/pyyaml-env-tag-feedstock.git
+	path = feedstocks/pyyaml-env-tag
+	branch = refs/heads/master
