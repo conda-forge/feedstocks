@@ -52678,3 +52678,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-zendesk-feedstock.git
 	path = feedstocks/apache-airflow-providers-zendesk
 	branch = refs/heads/master
+[submodule "python-dokuwiki"]
+	url = https://github.com/conda-forge/python-dokuwiki-feedstock.git
+	path = feedstocks/python-dokuwiki
+	branch = refs/heads/master
