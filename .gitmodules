@@ -52670,3 +52670,7 @@
 	url = https://github.com/conda-forge/chiantipy-feedstock.git
 	path = feedstocks/chiantipy
 	branch = refs/heads/master
+[submodule "spot"]
+	url = https://github.com/conda-forge/spot-feedstock.git
+	path = feedstocks/spot
+	branch = refs/heads/master
