@@ -52674,3 +52674,7 @@
 	url = https://github.com/conda-forge/spot-feedstock.git
 	path = feedstocks/spot
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-zendesk"]
+	url = https://github.com/conda-forge/apache-airflow-providers-zendesk-feedstock.git
+	path = feedstocks/apache-airflow-providers-zendesk
+	branch = refs/heads/master
