@@ -52654,3 +52654,7 @@
 	url = https://github.com/conda-forge/osqp-eigen-feedstock.git
 	path = feedstocks/osqp-eigen
 	branch = refs/heads/master
+[submodule "quartet"]
+	url = https://github.com/conda-forge/quartet-feedstock.git
+	path = feedstocks/quartet
+	branch = refs/heads/master
