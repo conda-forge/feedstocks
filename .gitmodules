@@ -52666,3 +52666,7 @@
 	url = https://github.com/conda-forge/ucrt-feedstock.git
 	path = feedstocks/ucrt
 	branch = refs/heads/master
+[submodule "chiantipy"]
+	url = https://github.com/conda-forge/chiantipy-feedstock.git
+	path = feedstocks/chiantipy
+	branch = refs/heads/master
