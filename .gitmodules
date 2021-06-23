@@ -52646,3 +52646,7 @@
 	url = https://github.com/conda-forge/pyyaml-env-tag-feedstock.git
 	path = feedstocks/pyyaml-env-tag
 	branch = refs/heads/master
+[submodule "pyglpk"]
+	url = https://github.com/conda-forge/pyglpk-feedstock.git
+	path = feedstocks/pyglpk
+	branch = refs/heads/master
