@@ -52662,3 +52662,7 @@
 	url = https://github.com/conda-forge/ploomber-feedstock.git
 	path = feedstocks/ploomber
 	branch = refs/heads/master
+[submodule "ucrt"]
+	url = https://github.com/conda-forge/ucrt-feedstock.git
+	path = feedstocks/ucrt
+	branch = refs/heads/master
