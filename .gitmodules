@@ -52650,3 +52650,7 @@
 	url = https://github.com/conda-forge/pyglpk-feedstock.git
 	path = feedstocks/pyglpk
 	branch = refs/heads/master
+[submodule "osqp-eigen"]
+	url = https://github.com/conda-forge/osqp-eigen-feedstock.git
+	path = feedstocks/osqp-eigen
+	branch = refs/heads/master
