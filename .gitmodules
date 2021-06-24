@@ -52714,3 +52714,7 @@
 	url = https://github.com/conda-forge/gmpxxyy-feedstock.git
 	path = feedstocks/gmpxxyy
 	branch = refs/heads/master
+[submodule "typing-compat"]
+	url = https://github.com/conda-forge/typing-compat-feedstock.git
+	path = feedstocks/typing-compat
+	branch = refs/heads/master
