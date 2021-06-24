@@ -52694,3 +52694,7 @@
 	url = https://github.com/conda-forge/types-setuptools-feedstock.git
 	path = feedstocks/types-setuptools
 	branch = refs/heads/master
+[submodule "cerf"]
+	url = https://github.com/conda-forge/cerf-feedstock.git
+	path = feedstocks/cerf
+	branch = refs/heads/master
