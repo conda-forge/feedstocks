@@ -52698,3 +52698,7 @@
 	url = https://github.com/conda-forge/cerf-feedstock.git
 	path = feedstocks/cerf
 	branch = refs/heads/master
+[submodule "tropycal"]
+	url = https://github.com/conda-forge/tropycal-feedstock.git
+	path = feedstocks/tropycal
+	branch = refs/heads/master
