@@ -52702,3 +52702,7 @@
 	url = https://github.com/conda-forge/tropycal-feedstock.git
 	path = feedstocks/tropycal
 	branch = refs/heads/master
+[submodule "liblsl"]
+	url = https://github.com/conda-forge/liblsl-feedstock.git
+	path = feedstocks/liblsl
+	branch = refs/heads/master
