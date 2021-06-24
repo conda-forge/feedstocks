@@ -52690,3 +52690,7 @@
 	url = https://github.com/conda-forge/libcaer-feedstock.git
 	path = feedstocks/libcaer
 	branch = refs/heads/master
+[submodule "types-setuptools"]
+	url = https://github.com/conda-forge/types-setuptools-feedstock.git
+	path = feedstocks/types-setuptools
+	branch = refs/heads/master
