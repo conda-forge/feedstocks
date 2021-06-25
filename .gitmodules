@@ -52726,3 +52726,7 @@
 	url = https://github.com/conda-forge/pyrser-feedstock.git
 	path = feedstocks/pyrser
 	branch = refs/heads/master
+[submodule "fake-useragent"]
+	url = https://github.com/conda-forge/fake-useragent-feedstock.git
+	path = feedstocks/fake-useragent
+	branch = refs/heads/master
