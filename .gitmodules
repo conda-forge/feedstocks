@@ -52750,3 +52750,7 @@
 	url = https://github.com/conda-forge/ome-types-feedstock.git
 	path = feedstocks/ome-types
 	branch = refs/heads/master
+[submodule "pybob"]
+	url = https://github.com/conda-forge/pybob-feedstock.git
+	path = feedstocks/pybob
+	branch = refs/heads/master
