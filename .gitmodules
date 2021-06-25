@@ -52718,3 +52718,7 @@
 	url = https://github.com/conda-forge/typing-compat-feedstock.git
 	path = feedstocks/typing-compat
 	branch = refs/heads/master
+[submodule "libacl"]
+	url = https://github.com/conda-forge/libacl-feedstock.git
+	path = feedstocks/libacl
+	branch = refs/heads/master
