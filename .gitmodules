@@ -52722,3 +52722,7 @@
 	url = https://github.com/conda-forge/libacl-feedstock.git
 	path = feedstocks/libacl
 	branch = refs/heads/master
+[submodule "pyrser"]
+	url = https://github.com/conda-forge/pyrser-feedstock.git
+	path = feedstocks/pyrser
+	branch = refs/heads/master
