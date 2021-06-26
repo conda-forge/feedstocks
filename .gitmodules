@@ -52806,3 +52806,7 @@
 	url = https://github.com/conda-forge/robot-testing-framework-feedstock.git
 	path = feedstocks/robot-testing-framework
 	branch = refs/heads/master
+[submodule "cosmosis"]
+	url = https://github.com/conda-forge/cosmosis-feedstock.git
+	path = feedstocks/cosmosis
+	branch = refs/heads/master
