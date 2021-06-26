@@ -52782,3 +52782,7 @@
 	url = https://github.com/conda-forge/dpu-utils-feedstock.git
 	path = feedstocks/dpu-utils
 	branch = refs/heads/master
+[submodule "amostra"]
+	url = https://github.com/conda-forge/amostra-feedstock.git
+	path = feedstocks/amostra
+	branch = refs/heads/master
