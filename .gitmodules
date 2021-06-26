@@ -52802,3 +52802,7 @@
 	url = https://github.com/conda-forge/jupyter-sysml-kernel-feedstock.git
 	path = feedstocks/jupyter-sysml-kernel
 	branch = refs/heads/master
+[submodule "robot-testing-framework"]
+	url = https://github.com/conda-forge/robot-testing-framework-feedstock.git
+	path = feedstocks/robot-testing-framework
+	branch = refs/heads/master
