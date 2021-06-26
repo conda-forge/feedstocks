@@ -52798,3 +52798,7 @@
 	url = https://github.com/conda-forge/luqum-feedstock.git
 	path = feedstocks/luqum
 	branch = refs/heads/master
+[submodule "jupyter-sysml-kernel"]
+	url = https://github.com/conda-forge/jupyter-sysml-kernel-feedstock.git
+	path = feedstocks/jupyter-sysml-kernel
+	branch = refs/heads/master
