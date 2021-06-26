@@ -52786,3 +52786,7 @@
 	url = https://github.com/conda-forge/amostra-feedstock.git
 	path = feedstocks/amostra
 	branch = refs/heads/master
+[submodule "fcos"]
+	url = https://github.com/conda-forge/fcos-feedstock.git
+	path = feedstocks/fcos
+	branch = refs/heads/master
