@@ -52766,3 +52766,7 @@
 	url = https://github.com/conda-forge/jproperties-feedstock.git
 	path = feedstocks/jproperties
 	branch = refs/heads/master
+[submodule "medpy"]
+	url = https://github.com/conda-forge/medpy-feedstock.git
+	path = feedstocks/medpy
+	branch = refs/heads/master
