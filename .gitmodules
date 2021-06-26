@@ -52770,3 +52770,7 @@
 	url = https://github.com/conda-forge/medpy-feedstock.git
 	path = feedstocks/medpy
 	branch = refs/heads/master
+[submodule "ycm-cmake-modules"]
+	url = https://github.com/conda-forge/ycm-cmake-modules-feedstock.git
+	path = feedstocks/ycm-cmake-modules
+	branch = refs/heads/master
