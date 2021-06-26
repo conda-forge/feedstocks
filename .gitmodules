@@ -52790,3 +52790,7 @@
 	url = https://github.com/conda-forge/fcos-feedstock.git
 	path = feedstocks/fcos
 	branch = refs/heads/master
+[submodule "openff-fragmenter"]
+	url = https://github.com/conda-forge/openff-fragmenter-feedstock.git
+	path = feedstocks/openff-fragmenter
+	branch = refs/heads/master
