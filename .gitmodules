@@ -52810,3 +52810,7 @@
 	url = https://github.com/conda-forge/cosmosis-feedstock.git
 	path = feedstocks/cosmosis
 	branch = refs/heads/master
+[submodule "cosmosis-build-standard-library"]
+	url = https://github.com/conda-forge/cosmosis-build-standard-library-feedstock.git
+	path = feedstocks/cosmosis-build-standard-library
+	branch = refs/heads/master
