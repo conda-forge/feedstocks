@@ -52778,3 +52778,7 @@
 	url = https://github.com/conda-forge/requests-html-feedstock.git
 	path = feedstocks/requests-html
 	branch = refs/heads/master
+[submodule "dpu-utils"]
+	url = https://github.com/conda-forge/dpu-utils-feedstock.git
+	path = feedstocks/dpu-utils
+	branch = refs/heads/master
