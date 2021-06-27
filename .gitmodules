@@ -52826,3 +52826,7 @@
 	url = https://github.com/conda-forge/treon-feedstock.git
 	path = feedstocks/treon
 	branch = refs/heads/master
+[submodule "pymmaster"]
+	url = https://github.com/conda-forge/pymmaster-feedstock.git
+	path = feedstocks/pymmaster
+	branch = refs/heads/master
