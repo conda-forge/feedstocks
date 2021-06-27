@@ -52818,3 +52818,7 @@
 	url = https://github.com/conda-forge/lsb-release-feedstock.git
 	path = feedstocks/lsb-release
 	branch = refs/heads/master
+[submodule "mscxyz"]
+	url = https://github.com/conda-forge/mscxyz-feedstock.git
+	path = feedstocks/mscxyz
+	branch = refs/heads/master
