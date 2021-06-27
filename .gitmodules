@@ -52834,3 +52834,7 @@
 	url = https://github.com/conda-forge/heartrate-feedstock.git
 	path = feedstocks/heartrate
 	branch = refs/heads/master
+[submodule "lolviz"]
+	url = https://github.com/conda-forge/lolviz-feedstock.git
+	path = feedstocks/lolviz
+	branch = refs/heads/master
