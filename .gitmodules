@@ -52862,3 +52862,7 @@
 	url = https://github.com/conda-forge/sequence-model-feedstock.git
 	path = feedstocks/sequence-model
 	branch = refs/heads/master
+[submodule "hyperlib"]
+	url = https://github.com/conda-forge/hyperlib-feedstock.git
+	path = feedstocks/hyperlib
+	branch = refs/heads/master
