@@ -52850,3 +52850,7 @@
 	url = https://github.com/conda-forge/iopath-feedstock.git
 	path = feedstocks/iopath
 	branch = refs/heads/master
+[submodule "svgpathtools"]
+	url = https://github.com/conda-forge/svgpathtools-feedstock.git
+	path = feedstocks/svgpathtools
+	branch = refs/heads/master
