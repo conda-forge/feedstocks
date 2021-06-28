@@ -52870,3 +52870,7 @@
 	url = https://github.com/conda-forge/pythonds-feedstock.git
 	path = feedstocks/pythonds
 	branch = refs/heads/master
+[submodule "stanfordcorenlp"]
+	url = https://github.com/conda-forge/stanfordcorenlp-feedstock.git
+	path = feedstocks/stanfordcorenlp
+	branch = refs/heads/master
