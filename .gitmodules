@@ -52886,3 +52886,7 @@
 	url = https://github.com/conda-forge/schist-feedstock.git
 	path = feedstocks/schist
 	branch = refs/heads/master
+[submodule "pyrobex"]
+	url = https://github.com/conda-forge/pyrobex-feedstock.git
+	path = feedstocks/pyrobex
+	branch = refs/heads/master
