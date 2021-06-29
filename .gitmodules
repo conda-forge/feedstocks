@@ -52874,3 +52874,7 @@
 	url = https://github.com/conda-forge/stanfordcorenlp-feedstock.git
 	path = feedstocks/stanfordcorenlp
 	branch = refs/heads/master
+[submodule "tvb-storage"]
+	url = https://github.com/conda-forge/tvb-storage-feedstock.git
+	path = feedstocks/tvb-storage
+	branch = refs/heads/master
