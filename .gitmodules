@@ -52890,3 +52890,7 @@
 	url = https://github.com/conda-forge/pyrobex-feedstock.git
 	path = feedstocks/pyrobex
 	branch = refs/heads/master
+[submodule "gds-gui"]
+	url = https://github.com/conda-forge/gds-gui-feedstock.git
+	path = feedstocks/gds-gui
+	branch = refs/heads/master
