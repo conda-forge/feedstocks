@@ -52894,3 +52894,7 @@
 	url = https://github.com/conda-forge/gds-gui-feedstock.git
 	path = feedstocks/gds-gui
 	branch = refs/heads/master
+[submodule "openff-qcsubmit"]
+	url = https://github.com/conda-forge/openff-qcsubmit-feedstock.git
+	path = feedstocks/openff-qcsubmit
+	branch = refs/heads/master
