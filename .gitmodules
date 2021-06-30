@@ -52922,3 +52922,7 @@
 	url = https://github.com/conda-forge/dftd3-python-feedstock.git
 	path = feedstocks/dftd3-python
 	branch = refs/heads/master
+[submodule "spymicmac"]
+	url = https://github.com/conda-forge/spymicmac-feedstock.git
+	path = feedstocks/spymicmac
+	branch = refs/heads/master
