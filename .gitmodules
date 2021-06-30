@@ -52902,3 +52902,7 @@
 	url = https://github.com/conda-forge/unify-feedstock.git
 	path = feedstocks/unify
 	branch = refs/heads/master
+[submodule "aria2"]
+	url = https://github.com/conda-forge/aria2-feedstock.git
+	path = feedstocks/aria2
+	branch = refs/heads/master
