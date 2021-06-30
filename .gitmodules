@@ -52926,3 +52926,7 @@
 	url = https://github.com/conda-forge/spymicmac-feedstock.git
 	path = feedstocks/spymicmac
 	branch = refs/heads/master
+[submodule "sshfs"]
+	url = https://github.com/conda-forge/sshfs-feedstock.git
+	path = feedstocks/sshfs
+	branch = refs/heads/master
