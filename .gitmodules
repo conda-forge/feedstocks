@@ -52914,3 +52914,7 @@
 	url = https://github.com/conda-forge/libastra-feedstock.git
 	path = feedstocks/libastra
 	branch = refs/heads/master
+[submodule "carve"]
+	url = https://github.com/conda-forge/carve-feedstock.git
+	path = feedstocks/carve
+	branch = refs/heads/master
