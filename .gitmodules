@@ -52906,3 +52906,7 @@
 	url = https://github.com/conda-forge/aria2-feedstock.git
 	path = feedstocks/aria2
 	branch = refs/heads/master
+[submodule "treematching"]
+	url = https://github.com/conda-forge/treematching-feedstock.git
+	path = feedstocks/treematching
+	branch = refs/heads/master
