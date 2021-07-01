@@ -52930,3 +52930,7 @@
 	url = https://github.com/conda-forge/sshfs-feedstock.git
 	path = feedstocks/sshfs
 	branch = refs/heads/master
+[submodule "libpeas"]
+	url = https://github.com/conda-forge/libpeas-feedstock.git
+	path = feedstocks/libpeas
+	branch = refs/heads/master
