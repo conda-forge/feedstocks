@@ -52958,3 +52958,7 @@
 	url = https://github.com/conda-forge/cosmix-feedstock.git
 	path = feedstocks/cosmix
 	branch = refs/heads/master
+[submodule "aiostream"]
+	url = https://github.com/conda-forge/aiostream-feedstock.git
+	path = feedstocks/aiostream
+	branch = refs/heads/master
