@@ -52966,3 +52966,7 @@
 	url = https://github.com/conda-forge/pypmml-feedstock.git
 	path = feedstocks/pypmml
 	branch = refs/heads/master
+[submodule "molbox"]
+	url = https://github.com/conda-forge/molbox-feedstock.git
+	path = feedstocks/molbox
+	branch = refs/heads/master
