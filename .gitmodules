@@ -52950,3 +52950,7 @@
 	url = https://github.com/conda-forge/gitignore-parser-feedstock.git
 	path = feedstocks/gitignore-parser
 	branch = refs/heads/master
+[submodule "pybind11-stubgen"]
+	url = https://github.com/conda-forge/pybind11-stubgen-feedstock.git
+	path = feedstocks/pybind11-stubgen
+	branch = refs/heads/master
