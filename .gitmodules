@@ -52946,3 +52946,7 @@
 	url = https://github.com/conda-forge/llist-feedstock.git
 	path = feedstocks/llist
 	branch = refs/heads/master
+[submodule "gitignore-parser"]
+	url = https://github.com/conda-forge/gitignore-parser-feedstock.git
+	path = feedstocks/gitignore-parser
+	branch = refs/heads/master
