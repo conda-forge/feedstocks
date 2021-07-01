@@ -52970,3 +52970,7 @@
 	url = https://github.com/conda-forge/molbox-feedstock.git
 	path = feedstocks/molbox
 	branch = refs/heads/master
+[submodule "torchtuples"]
+	url = https://github.com/conda-forge/torchtuples-feedstock.git
+	path = feedstocks/torchtuples
+	branch = refs/heads/master
