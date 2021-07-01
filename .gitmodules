@@ -52938,3 +52938,7 @@
 	url = https://github.com/conda-forge/lndoctor-feedstock.git
 	path = feedstocks/lndoctor
 	branch = refs/heads/master
+[submodule "gsbatch"]
+	url = https://github.com/conda-forge/gsbatch-feedstock.git
+	path = feedstocks/gsbatch
+	branch = refs/heads/master
