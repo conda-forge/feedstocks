@@ -52962,3 +52962,7 @@
 	url = https://github.com/conda-forge/aiostream-feedstock.git
 	path = feedstocks/aiostream
 	branch = refs/heads/master
+[submodule "pypmml"]
+	url = https://github.com/conda-forge/pypmml-feedstock.git
+	path = feedstocks/pypmml
+	branch = refs/heads/master
