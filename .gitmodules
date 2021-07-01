@@ -52934,3 +52934,7 @@
 	url = https://github.com/conda-forge/libpeas-feedstock.git
 	path = feedstocks/libpeas
 	branch = refs/heads/master
+[submodule "lndoctor"]
+	url = https://github.com/conda-forge/lndoctor-feedstock.git
+	path = feedstocks/lndoctor
+	branch = refs/heads/master
