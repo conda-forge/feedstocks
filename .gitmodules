@@ -52974,3 +52974,7 @@
 	url = https://github.com/conda-forge/torchtuples-feedstock.git
 	path = feedstocks/torchtuples
 	branch = refs/heads/master
+[submodule "jupyterlab-kernelspy"]
+	url = https://github.com/conda-forge/jupyterlab-kernelspy-feedstock.git
+	path = feedstocks/jupyterlab-kernelspy
+	branch = refs/heads/master
