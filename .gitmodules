@@ -53002,3 +53002,7 @@
 	url = https://github.com/conda-forge/optima-feedstock.git
 	path = feedstocks/optima
 	branch = refs/heads/master
+[submodule "pysd"]
+	url = https://github.com/conda-forge/pysd-feedstock.git
+	path = feedstocks/pysd
+	branch = refs/heads/master
