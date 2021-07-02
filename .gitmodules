@@ -53006,3 +53006,7 @@
 	url = https://github.com/conda-forge/pysd-feedstock.git
 	path = feedstocks/pysd
 	branch = refs/heads/master
+[submodule "dlltracer"]
+	url = https://github.com/conda-forge/dlltracer-feedstock.git
+	path = feedstocks/dlltracer
+	branch = refs/heads/master
