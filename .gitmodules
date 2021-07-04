@@ -53018,3 +53018,7 @@
 	url = https://github.com/conda-forge/fpart-feedstock.git
 	path = feedstocks/fpart
 	branch = refs/heads/master
+[submodule "texmaker"]
+	url = https://github.com/conda-forge/texmaker-feedstock.git
+	path = feedstocks/texmaker
+	branch = refs/heads/master
