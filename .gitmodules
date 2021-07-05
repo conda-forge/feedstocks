@@ -53026,3 +53026,7 @@
 	url = https://github.com/conda-forge/readstat-feedstock.git
 	path = feedstocks/readstat
 	branch = refs/heads/master
+[submodule "barvinok"]
+	url = https://github.com/conda-forge/barvinok-feedstock.git
+	path = feedstocks/barvinok
+	branch = refs/heads/master
