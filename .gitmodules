@@ -53022,3 +53022,7 @@
 	url = https://github.com/conda-forge/texmaker-feedstock.git
 	path = feedstocks/texmaker
 	branch = refs/heads/master
+[submodule "readstat"]
+	url = https://github.com/conda-forge/readstat-feedstock.git
+	path = feedstocks/readstat
+	branch = refs/heads/master
