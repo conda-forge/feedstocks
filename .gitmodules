@@ -53062,3 +53062,7 @@
 	url = https://github.com/conda-forge/aim-feedstock.git
 	path = feedstocks/aim
 	branch = refs/heads/master
+[submodule "aimrecords"]
+	url = https://github.com/conda-forge/aimrecords-feedstock.git
+	path = feedstocks/aimrecords
+	branch = refs/heads/master
