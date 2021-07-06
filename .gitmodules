@@ -53046,3 +53046,7 @@
 	url = https://github.com/conda-forge/mapie-feedstock.git
 	path = feedstocks/mapie
 	branch = refs/heads/master
+[submodule "fileseq"]
+	url = https://github.com/conda-forge/fileseq-feedstock.git
+	path = feedstocks/fileseq
+	branch = refs/heads/master
