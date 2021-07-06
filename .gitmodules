@@ -53034,3 +53034,7 @@
 	url = https://github.com/conda-forge/r-mrgsolve-feedstock.git
 	path = feedstocks/r-mrgsolve
 	branch = refs/heads/master
+[submodule "libtins"]
+	url = https://github.com/conda-forge/libtins-feedstock.git
+	path = feedstocks/libtins
+	branch = refs/heads/master
