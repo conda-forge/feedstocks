@@ -53070,3 +53070,7 @@
 	url = https://github.com/conda-forge/pysqlite3-feedstock.git
 	path = feedstocks/pysqlite3
 	branch = refs/heads/master
+[submodule "bcj-cffi"]
+	url = https://github.com/conda-forge/bcj-cffi-feedstock.git
+	path = feedstocks/bcj-cffi
+	branch = refs/heads/master
