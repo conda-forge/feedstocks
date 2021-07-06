@@ -53074,3 +53074,7 @@
 	url = https://github.com/conda-forge/bcj-cffi-feedstock.git
 	path = feedstocks/bcj-cffi
 	branch = refs/heads/master
+[submodule "intensity-normalization"]
+	url = https://github.com/conda-forge/intensity-normalization-feedstock.git
+	path = feedstocks/intensity-normalization
+	branch = refs/heads/master
