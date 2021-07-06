@@ -53078,3 +53078,7 @@
 	url = https://github.com/conda-forge/intensity-normalization-feedstock.git
 	path = feedstocks/intensity-normalization
 	branch = refs/heads/master
+[submodule "django-drf-filepond"]
+	url = https://github.com/conda-forge/django-drf-filepond-feedstock.git
+	path = feedstocks/django-drf-filepond
+	branch = refs/heads/master
