@@ -53066,3 +53066,7 @@
 	url = https://github.com/conda-forge/aimrecords-feedstock.git
 	path = feedstocks/aimrecords
 	branch = refs/heads/master
+[submodule "pysqlite3"]
+	url = https://github.com/conda-forge/pysqlite3-feedstock.git
+	path = feedstocks/pysqlite3
+	branch = refs/heads/master
