@@ -53094,3 +53094,7 @@
 	url = https://github.com/conda-forge/dj-rest-auth-feedstock.git
 	path = feedstocks/dj-rest-auth
 	branch = refs/heads/master
+[submodule "sockjs-tornado"]
+	url = https://github.com/conda-forge/sockjs-tornado-feedstock.git
+	path = feedstocks/sockjs-tornado
+	branch = refs/heads/master
