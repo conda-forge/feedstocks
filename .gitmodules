@@ -53090,3 +53090,7 @@
 	url = https://github.com/conda-forge/auto-labeling-pipeline-feedstock.git
 	path = feedstocks/auto-labeling-pipeline
 	branch = refs/heads/master
+[submodule "dj-rest-auth"]
+	url = https://github.com/conda-forge/dj-rest-auth-feedstock.git
+	path = feedstocks/dj-rest-auth
+	branch = refs/heads/master
