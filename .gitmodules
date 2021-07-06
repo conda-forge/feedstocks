@@ -53054,3 +53054,7 @@
 	url = https://github.com/conda-forge/multivolumefile-feedstock.git
 	path = feedstocks/multivolumefile
 	branch = refs/heads/master
+[submodule "brotlicffi"]
+	url = https://github.com/conda-forge/brotlicffi-feedstock.git
+	path = feedstocks/brotlicffi
+	branch = refs/heads/master
