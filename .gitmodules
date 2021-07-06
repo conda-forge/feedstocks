@@ -53030,3 +53030,7 @@
 	url = https://github.com/conda-forge/barvinok-feedstock.git
 	path = feedstocks/barvinok
 	branch = refs/heads/master
+[submodule "r-mrgsolve"]
+	url = https://github.com/conda-forge/r-mrgsolve-feedstock.git
+	path = feedstocks/r-mrgsolve
+	branch = refs/heads/master
