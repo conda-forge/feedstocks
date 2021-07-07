@@ -53110,3 +53110,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-trino-feedstock.git
 	path = feedstocks/apache-airflow-providers-trino
 	branch = refs/heads/master
+[submodule "pylibftdi"]
+	url = https://github.com/conda-forge/pylibftdi-feedstock.git
+	path = feedstocks/pylibftdi
+	branch = refs/heads/master
