@@ -53130,3 +53130,7 @@
 	url = https://github.com/conda-forge/pcpp-feedstock.git
 	path = feedstocks/pcpp
 	branch = refs/heads/master
+[submodule "jupyterlab-latex"]
+	url = https://github.com/conda-forge/jupyterlab-latex-feedstock.git
+	path = feedstocks/jupyterlab-latex
+	branch = refs/heads/master
