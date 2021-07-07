@@ -53118,3 +53118,7 @@
 	url = https://github.com/conda-forge/fsleyes-plugin-mrs-feedstock.git
 	path = feedstocks/fsleyes-plugin-mrs
 	branch = refs/heads/master
+[submodule "rastervision-pipeline"]
+	url = https://github.com/conda-forge/rastervision-pipeline-feedstock.git
+	path = feedstocks/rastervision-pipeline
+	branch = refs/heads/master
