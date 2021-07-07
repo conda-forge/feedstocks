@@ -53126,3 +53126,7 @@
 	url = https://github.com/conda-forge/pyppmd-feedstock.git
 	path = feedstocks/pyppmd
 	branch = refs/heads/master
+[submodule "pcpp"]
+	url = https://github.com/conda-forge/pcpp-feedstock.git
+	path = feedstocks/pcpp
+	branch = refs/heads/master
