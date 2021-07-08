@@ -53138,3 +53138,7 @@
 	url = https://github.com/conda-forge/r-modules-feedstock.git
 	path = feedstocks/r-modules
 	branch = refs/heads/master
+[submodule "r-adespatial"]
+	url = https://github.com/conda-forge/r-adespatial-feedstock.git
+	path = feedstocks/r-adespatial
+	branch = refs/heads/master
