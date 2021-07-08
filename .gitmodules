@@ -53142,3 +53142,7 @@
 	url = https://github.com/conda-forge/r-adespatial-feedstock.git
 	path = feedstocks/r-adespatial
 	branch = refs/heads/master
+[submodule "pyogg"]
+	url = https://github.com/conda-forge/pyogg-feedstock.git
+	path = feedstocks/pyogg
+	branch = refs/heads/master
