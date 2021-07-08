@@ -53134,3 +53134,7 @@
 	url = https://github.com/conda-forge/jupyterlab-latex-feedstock.git
 	path = feedstocks/jupyterlab-latex
 	branch = refs/heads/master
+[submodule "r-modules"]
+	url = https://github.com/conda-forge/r-modules-feedstock.git
+	path = feedstocks/r-modules
+	branch = refs/heads/master
