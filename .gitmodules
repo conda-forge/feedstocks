@@ -53146,3 +53146,7 @@
 	url = https://github.com/conda-forge/pyogg-feedstock.git
 	path = feedstocks/pyogg
 	branch = refs/heads/master
+[submodule "mask-to-polygons"]
+	url = https://github.com/conda-forge/mask-to-polygons-feedstock.git
+	path = feedstocks/mask-to-polygons
+	branch = refs/heads/master
