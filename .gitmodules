@@ -53158,3 +53158,7 @@
 	url = https://github.com/conda-forge/napari-bioformats-feedstock.git
 	path = feedstocks/napari-bioformats
 	branch = refs/heads/master
+[submodule "py7zr"]
+	url = https://github.com/conda-forge/py7zr-feedstock.git
+	path = feedstocks/py7zr
+	branch = refs/heads/master
