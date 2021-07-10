@@ -53198,3 +53198,7 @@
 	url = https://github.com/conda-forge/pycox-feedstock.git
 	path = feedstocks/pycox
 	branch = refs/heads/master
+[submodule "r-datawizard"]
+	url = https://github.com/conda-forge/r-datawizard-feedstock.git
+	path = feedstocks/r-datawizard
+	branch = refs/heads/master
