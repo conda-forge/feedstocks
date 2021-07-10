@@ -53166,3 +53166,7 @@
 	url = https://github.com/conda-forge/r-weightr-feedstock.git
 	path = feedstocks/r-weightr
 	branch = refs/heads/master
+[submodule "r-onewaytests"]
+	url = https://github.com/conda-forge/r-onewaytests-feedstock.git
+	path = feedstocks/r-onewaytests
+	branch = refs/heads/master
