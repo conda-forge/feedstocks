@@ -53178,3 +53178,7 @@
 	url = https://github.com/conda-forge/r-bayesrel-feedstock.git
 	path = feedstocks/r-bayesrel
 	branch = refs/heads/master
+[submodule "r-toster"]
+	url = https://github.com/conda-forge/r-toster-feedstock.git
+	path = feedstocks/r-toster
+	branch = refs/heads/master
