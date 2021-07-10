@@ -53174,3 +53174,7 @@
 	url = https://github.com/conda-forge/r-hmeasure-feedstock.git
 	path = feedstocks/r-hmeasure
 	branch = refs/heads/master
+[submodule "r-bayesrel"]
+	url = https://github.com/conda-forge/r-bayesrel-feedstock.git
+	path = feedstocks/r-bayesrel
+	branch = refs/heads/master
