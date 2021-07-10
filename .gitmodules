@@ -53182,3 +53182,7 @@
 	url = https://github.com/conda-forge/r-toster-feedstock.git
 	path = feedstocks/r-toster
 	branch = refs/heads/master
+[submodule "r-psychtools"]
+	url = https://github.com/conda-forge/r-psychtools-feedstock.git
+	path = feedstocks/r-psychtools
+	branch = refs/heads/master
