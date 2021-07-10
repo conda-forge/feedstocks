@@ -53190,3 +53190,7 @@
 	url = https://github.com/conda-forge/r-regsem-feedstock.git
 	path = feedstocks/r-regsem
 	branch = refs/heads/master
+[submodule "pyacvd"]
+	url = https://github.com/conda-forge/pyacvd-feedstock.git
+	path = feedstocks/pyacvd
+	branch = refs/heads/master
