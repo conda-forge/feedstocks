@@ -53170,3 +53170,7 @@
 	url = https://github.com/conda-forge/r-onewaytests-feedstock.git
 	path = feedstocks/r-onewaytests
 	branch = refs/heads/master
+[submodule "r-hmeasure"]
+	url = https://github.com/conda-forge/r-hmeasure-feedstock.git
+	path = feedstocks/r-hmeasure
+	branch = refs/heads/master
