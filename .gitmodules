@@ -53246,3 +53246,7 @@
 	url = https://github.com/conda-forge/r-cocor-feedstock.git
 	path = feedstocks/r-cocor
 	branch = refs/heads/master
+[submodule "r-qgraph"]
+	url = https://github.com/conda-forge/r-qgraph-feedstock.git
+	path = feedstocks/r-qgraph
+	branch = refs/heads/master
