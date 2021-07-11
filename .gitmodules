@@ -53242,3 +53242,7 @@
 	url = https://github.com/conda-forge/r-bsda-feedstock.git
 	path = feedstocks/r-bsda
 	branch = refs/heads/master
+[submodule "r-cocor"]
+	url = https://github.com/conda-forge/r-cocor-feedstock.git
+	path = feedstocks/r-cocor
+	branch = refs/heads/master
