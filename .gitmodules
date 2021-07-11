@@ -53202,3 +53202,7 @@
 	url = https://github.com/conda-forge/r-datawizard-feedstock.git
 	path = feedstocks/r-datawizard
 	branch = refs/heads/master
+[submodule "r-abtest"]
+	url = https://github.com/conda-forge/r-abtest-feedstock.git
+	path = feedstocks/r-abtest
+	branch = refs/heads/master
