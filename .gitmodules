@@ -53206,3 +53206,7 @@
 	url = https://github.com/conda-forge/r-abtest-feedstock.git
 	path = feedstocks/r-abtest
 	branch = refs/heads/master
+[submodule "r-dpq"]
+	url = https://github.com/conda-forge/r-dpq-feedstock.git
+	path = feedstocks/r-dpq
+	branch = refs/heads/master
