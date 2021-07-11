@@ -53210,3 +53210,7 @@
 	url = https://github.com/conda-forge/r-dpq-feedstock.git
 	path = feedstocks/r-dpq
 	branch = refs/heads/master
+[submodule "r-candisc"]
+	url = https://github.com/conda-forge/r-candisc-feedstock.git
+	path = feedstocks/r-candisc
+	branch = refs/heads/master
