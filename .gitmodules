@@ -53230,3 +53230,7 @@
 	url = https://github.com/conda-forge/r-bain-feedstock.git
 	path = feedstocks/r-bain
 	branch = refs/heads/master
+[submodule "r-jfa"]
+	url = https://github.com/conda-forge/r-jfa-feedstock.git
+	path = feedstocks/r-jfa
+	branch = refs/heads/master
