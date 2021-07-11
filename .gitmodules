@@ -53250,3 +53250,7 @@
 	url = https://github.com/conda-forge/r-qgraph-feedstock.git
 	path = feedstocks/r-qgraph
 	branch = refs/heads/master
+[submodule "symfem"]
+	url = https://github.com/conda-forge/symfem-feedstock.git
+	path = feedstocks/symfem
+	branch = refs/heads/master
