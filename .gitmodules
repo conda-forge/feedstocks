@@ -53254,3 +53254,7 @@
 	url = https://github.com/conda-forge/symfem-feedstock.git
 	path = feedstocks/symfem
 	branch = refs/heads/master
+[submodule "r-kutils"]
+	url = https://github.com/conda-forge/r-kutils-feedstock.git
+	path = feedstocks/r-kutils
+	branch = refs/heads/master
