@@ -53234,3 +53234,7 @@
 	url = https://github.com/conda-forge/r-jfa-feedstock.git
 	path = feedstocks/r-jfa
 	branch = refs/heads/master
+[submodule "r-eigenmodel"]
+	url = https://github.com/conda-forge/r-eigenmodel-feedstock.git
+	path = feedstocks/r-eigenmodel
+	branch = refs/heads/master
