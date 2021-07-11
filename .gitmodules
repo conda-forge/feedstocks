@@ -53218,3 +53218,7 @@
 	url = https://github.com/conda-forge/r-bms-feedstock.git
 	path = feedstocks/r-bms
 	branch = refs/heads/master
+[submodule "r-ggpol"]
+	url = https://github.com/conda-forge/r-ggpol-feedstock.git
+	path = feedstocks/r-ggpol
+	branch = refs/heads/master
