@@ -53334,3 +53334,7 @@
 	url = https://github.com/conda-forge/r-graphicalvar-feedstock.git
 	path = feedstocks/r-graphicalvar
 	branch = refs/heads/master
+[submodule "fastds"]
+	url = https://github.com/conda-forge/fastds-feedstock.git
+	path = feedstocks/fastds
+	branch = refs/heads/master
