@@ -53258,3 +53258,7 @@
 	url = https://github.com/conda-forge/r-kutils-feedstock.git
 	path = feedstocks/r-kutils
 	branch = refs/heads/master
+[submodule "plotext"]
+	url = https://github.com/conda-forge/plotext-feedstock.git
+	path = feedstocks/plotext
+	branch = refs/heads/master
