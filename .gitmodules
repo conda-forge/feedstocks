@@ -53338,3 +53338,7 @@
 	url = https://github.com/conda-forge/fastds-feedstock.git
 	path = feedstocks/fastds
 	branch = refs/heads/master
+[submodule "alamode"]
+	url = https://github.com/conda-forge/alamode-feedstock.git
+	path = feedstocks/alamode
+	branch = refs/heads/master
