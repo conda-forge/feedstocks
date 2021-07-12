@@ -53314,3 +53314,7 @@
 	url = https://github.com/conda-forge/r-isingsampler-feedstock.git
 	path = feedstocks/r-isingsampler
 	branch = refs/heads/master
+[submodule "r-runjags"]
+	url = https://github.com/conda-forge/r-runjags-feedstock.git
+	path = feedstocks/r-runjags
+	branch = refs/heads/master
