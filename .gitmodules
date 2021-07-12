@@ -53278,3 +53278,7 @@
 	url = https://github.com/conda-forge/opendp-smartnoise-feedstock.git
 	path = feedstocks/opendp-smartnoise
 	branch = refs/heads/master
+[submodule "wikipedia_ql"]
+	url = https://github.com/conda-forge/wikipedia_ql-feedstock.git
+	path = feedstocks/wikipedia_ql
+	branch = refs/heads/master
