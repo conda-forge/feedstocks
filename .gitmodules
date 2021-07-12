@@ -53262,3 +53262,7 @@
 	url = https://github.com/conda-forge/plotext-feedstock.git
 	path = feedstocks/plotext
 	branch = refs/heads/master
+[submodule "pycups"]
+	url = https://github.com/conda-forge/pycups-feedstock.git
+	path = feedstocks/pycups
+	branch = refs/heads/master
