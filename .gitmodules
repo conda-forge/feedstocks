@@ -53326,3 +53326,7 @@
 	url = https://github.com/conda-forge/r-conting-feedstock.git
 	path = feedstocks/r-conting
 	branch = refs/heads/master
+[submodule "r-smacof"]
+	url = https://github.com/conda-forge/r-smacof-feedstock.git
+	path = feedstocks/r-smacof
+	branch = refs/heads/master
