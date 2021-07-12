@@ -53310,3 +53310,7 @@
 	url = https://github.com/conda-forge/r-lisreltor-feedstock.git
 	path = feedstocks/r-lisreltor
 	branch = refs/heads/master
+[submodule "r-isingsampler"]
+	url = https://github.com/conda-forge/r-isingsampler-feedstock.git
+	path = feedstocks/r-isingsampler
+	branch = refs/heads/master
