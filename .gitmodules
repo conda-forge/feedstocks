@@ -53290,3 +53290,7 @@
 	url = https://github.com/conda-forge/opuslib-feedstock.git
 	path = feedstocks/opuslib
 	branch = refs/heads/master
+[submodule "boxlang"]
+	url = https://github.com/conda-forge/boxlang-feedstock.git
+	path = feedstocks/boxlang
+	branch = refs/heads/master
