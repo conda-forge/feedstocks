@@ -53274,3 +53274,7 @@
 	url = https://github.com/conda-forge/bioimageio.spec-feedstock.git
 	path = feedstocks/bioimageio.spec
 	branch = refs/heads/master
+[submodule "opendp-smartnoise"]
+	url = https://github.com/conda-forge/opendp-smartnoise-feedstock.git
+	path = feedstocks/opendp-smartnoise
+	branch = refs/heads/master
