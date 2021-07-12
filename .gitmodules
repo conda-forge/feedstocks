@@ -53294,3 +53294,7 @@
 	url = https://github.com/conda-forge/boxlang-feedstock.git
 	path = feedstocks/boxlang
 	branch = refs/heads/master
+[submodule "pypardiso"]
+	url = https://github.com/conda-forge/pypardiso-feedstock.git
+	path = feedstocks/pypardiso
+	branch = refs/heads/master
