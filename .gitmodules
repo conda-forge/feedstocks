@@ -53266,3 +53266,7 @@
 	url = https://github.com/conda-forge/pycups-feedstock.git
 	path = feedstocks/pycups
 	branch = refs/heads/master
+[submodule "pytest-httpx"]
+	url = https://github.com/conda-forge/pytest-httpx-feedstock.git
+	path = feedstocks/pytest-httpx
+	branch = refs/heads/master
