@@ -53270,3 +53270,7 @@
 	url = https://github.com/conda-forge/pytest-httpx-feedstock.git
 	path = feedstocks/pytest-httpx
 	branch = refs/heads/master
+[submodule "bioimageio.spec"]
+	url = https://github.com/conda-forge/bioimageio.spec-feedstock.git
+	path = feedstocks/bioimageio.spec
+	branch = refs/heads/master
