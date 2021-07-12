@@ -53306,3 +53306,7 @@
 	url = https://github.com/conda-forge/r-mgm-feedstock.git
 	path = feedstocks/r-mgm
 	branch = refs/heads/master
+[submodule "r-lisreltor"]
+	url = https://github.com/conda-forge/r-lisreltor-feedstock.git
+	path = feedstocks/r-lisreltor
+	branch = refs/heads/master
