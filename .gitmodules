@@ -53354,3 +53354,7 @@
 	url = https://github.com/conda-forge/base36-feedstock.git
 	path = feedstocks/base36
 	branch = refs/heads/master
+[submodule "r-rockchalk"]
+	url = https://github.com/conda-forge/r-rockchalk-feedstock.git
+	path = feedstocks/r-rockchalk
+	branch = refs/heads/master
