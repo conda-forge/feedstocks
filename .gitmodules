@@ -53378,3 +53378,7 @@
 	url = https://github.com/conda-forge/restic-feedstock.git
 	path = feedstocks/restic
 	branch = refs/heads/master
+[submodule "charset-normalizer"]
+	url = https://github.com/conda-forge/charset-normalizer-feedstock.git
+	path = feedstocks/charset-normalizer
+	branch = refs/heads/master
