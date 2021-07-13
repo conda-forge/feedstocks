@@ -53374,3 +53374,7 @@
 	url = https://github.com/conda-forge/ormar-feedstock.git
 	path = feedstocks/ormar
 	branch = refs/heads/master
+[submodule "restic"]
+	url = https://github.com/conda-forge/restic-feedstock.git
+	path = feedstocks/restic
+	branch = refs/heads/master
