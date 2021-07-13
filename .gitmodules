@@ -53350,3 +53350,7 @@
 	url = https://github.com/conda-forge/pystitcher-feedstock.git
 	path = feedstocks/pystitcher
 	branch = refs/heads/master
+[submodule "base36"]
+	url = https://github.com/conda-forge/base36-feedstock.git
+	path = feedstocks/base36
+	branch = refs/heads/master
