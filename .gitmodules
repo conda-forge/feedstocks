@@ -53358,3 +53358,7 @@
 	url = https://github.com/conda-forge/r-rockchalk-feedstock.git
 	path = feedstocks/r-rockchalk
 	branch = refs/heads/master
+[submodule "r-ldlinkr"]
+	url = https://github.com/conda-forge/r-ldlinkr-feedstock.git
+	path = feedstocks/r-ldlinkr
+	branch = refs/heads/master
