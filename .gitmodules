@@ -53346,3 +53346,7 @@
 	url = https://github.com/conda-forge/drfp-feedstock.git
 	path = feedstocks/drfp
 	branch = refs/heads/master
+[submodule "pystitcher"]
+	url = https://github.com/conda-forge/pystitcher-feedstock.git
+	path = feedstocks/pystitcher
+	branch = refs/heads/master
