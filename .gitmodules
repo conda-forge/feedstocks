@@ -53414,3 +53414,7 @@
 	url = https://github.com/conda-forge/chxtools-feedstock.git
 	path = feedstocks/chxtools
 	branch = refs/heads/master
+[submodule "python-subunit"]
+	url = https://github.com/conda-forge/python-subunit-feedstock.git
+	path = feedstocks/python-subunit
+	branch = refs/heads/master
