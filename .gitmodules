@@ -53390,3 +53390,7 @@
 	url = https://github.com/conda-forge/bluesky-darkframes-feedstock.git
 	path = feedstocks/bluesky-darkframes
 	branch = refs/heads/master
+[submodule "timemory"]
+	url = https://github.com/conda-forge/timemory-feedstock.git
+	path = feedstocks/timemory
+	branch = refs/heads/master
