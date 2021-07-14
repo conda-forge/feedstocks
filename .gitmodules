@@ -53398,3 +53398,7 @@
 	url = https://github.com/conda-forge/mesmer-feedstock.git
 	path = feedstocks/mesmer
 	branch = refs/heads/master
+[submodule "ifermi"]
+	url = https://github.com/conda-forge/ifermi-feedstock.git
+	path = feedstocks/ifermi
+	branch = refs/heads/master
