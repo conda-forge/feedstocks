@@ -53394,3 +53394,7 @@
 	url = https://github.com/conda-forge/timemory-feedstock.git
 	path = feedstocks/timemory
 	branch = refs/heads/master
+[submodule "mesmer"]
+	url = https://github.com/conda-forge/mesmer-feedstock.git
+	path = feedstocks/mesmer
+	branch = refs/heads/master
