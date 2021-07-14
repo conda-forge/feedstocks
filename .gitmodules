@@ -53386,3 +53386,7 @@
 	url = https://github.com/conda-forge/bluesky-kafka-feedstock.git
 	path = feedstocks/bluesky-kafka
 	branch = refs/heads/master
+[submodule "bluesky-darkframes"]
+	url = https://github.com/conda-forge/bluesky-darkframes-feedstock.git
+	path = feedstocks/bluesky-darkframes
+	branch = refs/heads/master
