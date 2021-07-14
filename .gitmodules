@@ -53406,3 +53406,7 @@
 	url = https://github.com/conda-forge/eiger-io-feedstock.git
 	path = feedstocks/eiger-io
 	branch = refs/heads/master
+[submodule "django-autocomplete-light"]
+	url = https://github.com/conda-forge/django-autocomplete-light-feedstock.git
+	path = feedstocks/django-autocomplete-light
+	branch = refs/heads/master
