@@ -53450,3 +53450,7 @@
 	url = https://github.com/conda-forge/rastervision-core-feedstock.git
 	path = feedstocks/rastervision-core
 	branch = refs/heads/master
+[submodule "stackstac"]
+	url = https://github.com/conda-forge/stackstac-feedstock.git
+	path = feedstocks/stackstac
+	branch = refs/heads/master
