@@ -53454,3 +53454,7 @@
 	url = https://github.com/conda-forge/stackstac-feedstock.git
 	path = feedstocks/stackstac
 	branch = refs/heads/master
+[submodule "vcpkg-tool"]
+	url = https://github.com/conda-forge/vcpkg-tool-feedstock.git
+	path = feedstocks/vcpkg-tool
+	branch = refs/heads/master
