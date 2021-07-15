@@ -53434,3 +53434,7 @@
 	url = https://github.com/conda-forge/ocetrac-feedstock.git
 	path = feedstocks/ocetrac
 	branch = refs/heads/master
+[submodule "enumlib"]
+	url = https://github.com/conda-forge/enumlib-feedstock.git
+	path = feedstocks/enumlib
+	branch = refs/heads/master
