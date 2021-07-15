@@ -53470,3 +53470,7 @@
 	url = https://github.com/conda-forge/isstools-feedstock.git
 	path = feedstocks/isstools
 	branch = refs/heads/master
+[submodule "scanapi"]
+	url = https://github.com/conda-forge/scanapi-feedstock.git
+	path = feedstocks/scanapi
+	branch = refs/heads/master
