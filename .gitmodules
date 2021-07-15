@@ -53438,3 +53438,7 @@
 	url = https://github.com/conda-forge/enumlib-feedstock.git
 	path = feedstocks/enumlib
 	branch = refs/heads/master
+[submodule "sphinx-jupyterbook-latex"]
+	url = https://github.com/conda-forge/sphinx-jupyterbook-latex-feedstock.git
+	path = feedstocks/sphinx-jupyterbook-latex
+	branch = refs/heads/master
