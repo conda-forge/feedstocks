@@ -53466,3 +53466,7 @@
 	url = https://github.com/conda-forge/xas-feedstock.git
 	path = feedstocks/xas
 	branch = refs/heads/master
+[submodule "isstools"]
+	url = https://github.com/conda-forge/isstools-feedstock.git
+	path = feedstocks/isstools
+	branch = refs/heads/master
