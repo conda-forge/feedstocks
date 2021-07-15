@@ -53462,3 +53462,7 @@
 	url = https://github.com/conda-forge/cloud-sql-python-connector-feedstock.git
 	path = feedstocks/cloud-sql-python-connector
 	branch = refs/heads/master
+[submodule "xas"]
+	url = https://github.com/conda-forge/xas-feedstock.git
+	path = feedstocks/xas
+	branch = refs/heads/master
