@@ -53474,3 +53474,7 @@
 	url = https://github.com/conda-forge/scanapi-feedstock.git
 	path = feedstocks/scanapi
 	branch = refs/heads/master
+[submodule "pdfme"]
+	url = https://github.com/conda-forge/pdfme-feedstock.git
+	path = feedstocks/pdfme
+	branch = refs/heads/master
