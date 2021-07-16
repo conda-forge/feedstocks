@@ -53498,3 +53498,7 @@
 	url = https://github.com/conda-forge/reportportal-client-feedstock.git
 	path = feedstocks/reportportal-client
 	branch = refs/heads/master
+[submodule "oracle-instant-client"]
+	url = https://github.com/conda-forge/oracle-instant-client-feedstock.git
+	path = feedstocks/oracle-instant-client
+	branch = refs/heads/master
