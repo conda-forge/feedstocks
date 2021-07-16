@@ -53490,3 +53490,7 @@
 	url = https://github.com/conda-forge/tryceratops-feedstock.git
 	path = feedstocks/tryceratops
 	branch = refs/heads/master
+[submodule "webdriver-manager"]
+	url = https://github.com/conda-forge/webdriver-manager-feedstock.git
+	path = feedstocks/webdriver-manager
+	branch = refs/heads/master
