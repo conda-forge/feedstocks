@@ -53502,3 +53502,7 @@
 	url = https://github.com/conda-forge/oracle-instant-client-feedstock.git
 	path = feedstocks/oracle-instant-client
 	branch = refs/heads/master
+[submodule "pytest-reportportal"]
+	url = https://github.com/conda-forge/pytest-reportportal-feedstock.git
+	path = feedstocks/pytest-reportportal
+	branch = refs/heads/master
