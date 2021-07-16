@@ -53506,3 +53506,7 @@
 	url = https://github.com/conda-forge/pytest-reportportal-feedstock.git
 	path = feedstocks/pytest-reportportal
 	branch = refs/heads/master
+[submodule "legacy-suitcase"]
+	url = https://github.com/conda-forge/legacy-suitcase-feedstock.git
+	path = feedstocks/legacy-suitcase
+	branch = refs/heads/master
