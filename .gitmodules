@@ -53482,3 +53482,7 @@
 	url = https://github.com/conda-forge/idds-common-feedstock.git
 	path = feedstocks/idds-common
 	branch = refs/heads/master
+[submodule "qmsolve"]
+	url = https://github.com/conda-forge/qmsolve-feedstock.git
+	path = feedstocks/qmsolve
+	branch = refs/heads/master
