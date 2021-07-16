@@ -53510,3 +53510,7 @@
 	url = https://github.com/conda-forge/legacy-suitcase-feedstock.git
 	path = feedstocks/legacy-suitcase
 	branch = refs/heads/master
+[submodule "pyserver"]
+	url = https://github.com/conda-forge/pyserver-feedstock.git
+	path = feedstocks/pyserver
+	branch = refs/heads/master
