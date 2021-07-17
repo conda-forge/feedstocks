@@ -53522,3 +53522,7 @@
 	url = https://github.com/conda-forge/n2snusertools-feedstock.git
 	path = feedstocks/n2snusertools
 	branch = refs/heads/master
+[submodule "asyncstdlib"]
+	url = https://github.com/conda-forge/asyncstdlib-feedstock.git
+	path = feedstocks/asyncstdlib
+	branch = refs/heads/master
