@@ -53538,3 +53538,7 @@
 	url = https://github.com/conda-forge/idyntree-feedstock.git
 	path = feedstocks/idyntree
 	branch = refs/heads/master
+[submodule "mimics"]
+	url = https://github.com/conda-forge/mimics-feedstock.git
+	path = feedstocks/mimics
+	branch = refs/heads/master
