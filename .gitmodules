@@ -53542,3 +53542,7 @@
 	url = https://github.com/conda-forge/mimics-feedstock.git
 	path = feedstocks/mimics
 	branch = refs/heads/master
+[submodule "r-semplot"]
+	url = https://github.com/conda-forge/r-semplot-feedstock.git
+	path = feedstocks/r-semplot
+	branch = refs/heads/master
