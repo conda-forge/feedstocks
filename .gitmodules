@@ -53550,3 +53550,7 @@
 	url = https://github.com/conda-forge/dbsp_drp-feedstock.git
 	path = feedstocks/dbsp_drp
 	branch = refs/heads/master
+[submodule "r-networkcomparisontest"]
+	url = https://github.com/conda-forge/r-networkcomparisontest-feedstock.git
+	path = feedstocks/r-networkcomparisontest
+	branch = refs/heads/master
