@@ -53570,3 +53570,7 @@
 	url = https://github.com/conda-forge/punx-feedstock.git
 	path = feedstocks/punx
 	branch = refs/heads/master
+[submodule "idds-client"]
+	url = https://github.com/conda-forge/idds-client-feedstock.git
+	path = feedstocks/idds-client
+	branch = refs/heads/master
