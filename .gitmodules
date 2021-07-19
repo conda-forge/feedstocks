@@ -53582,3 +53582,7 @@
 	url = https://github.com/conda-forge/regreg-feedstock.git
 	path = feedstocks/regreg
 	branch = refs/heads/master
+[submodule "kim-convergence"]
+	url = https://github.com/conda-forge/kim-convergence-feedstock.git
+	path = feedstocks/kim-convergence
+	branch = refs/heads/master
