@@ -53562,3 +53562,7 @@
 	url = https://github.com/conda-forge/php-feedstock.git
 	path = feedstocks/php
 	branch = refs/heads/master
+[submodule "idds-workflow"]
+	url = https://github.com/conda-forge/idds-workflow-feedstock.git
+	path = feedstocks/idds-workflow
+	branch = refs/heads/master
