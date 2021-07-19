@@ -53558,3 +53558,7 @@
 	url = https://github.com/conda-forge/r-networktoolbox-feedstock.git
 	path = feedstocks/r-networktoolbox
 	branch = refs/heads/master
+[submodule "php"]
+	url = https://github.com/conda-forge/php-feedstock.git
+	path = feedstocks/php
+	branch = refs/heads/master
