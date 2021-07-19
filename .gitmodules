@@ -53566,3 +53566,7 @@
 	url = https://github.com/conda-forge/idds-workflow-feedstock.git
 	path = feedstocks/idds-workflow
 	branch = refs/heads/master
+[submodule "punx"]
+	url = https://github.com/conda-forge/punx-feedstock.git
+	path = feedstocks/punx
+	branch = refs/heads/master
