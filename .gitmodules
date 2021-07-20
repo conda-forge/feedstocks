@@ -53630,3 +53630,7 @@
 	url = https://github.com/conda-forge/ossfs-feedstock.git
 	path = feedstocks/ossfs
 	branch = refs/heads/master
+[submodule "pyment"]
+	url = https://github.com/conda-forge/pyment-feedstock.git
+	path = feedstocks/pyment
+	branch = refs/heads/master
