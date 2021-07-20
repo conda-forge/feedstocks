@@ -53654,3 +53654,7 @@
 	url = https://github.com/conda-forge/jupyter_innotater-feedstock.git
 	path = feedstocks/jupyter_innotater
 	branch = refs/heads/master
+[submodule "suitcase-json-metadata"]
+	url = https://github.com/conda-forge/suitcase-json-metadata-feedstock.git
+	path = feedstocks/suitcase-json-metadata
+	branch = refs/heads/master
