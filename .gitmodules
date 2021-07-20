@@ -53646,3 +53646,7 @@
 	url = https://github.com/conda-forge/databroker-pack-feedstock.git
 	path = feedstocks/databroker-pack
 	branch = refs/heads/master
+[submodule "manhole"]
+	url = https://github.com/conda-forge/manhole-feedstock.git
+	path = feedstocks/manhole
+	branch = refs/heads/master
