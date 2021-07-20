@@ -53614,3 +53614,7 @@
 	url = https://github.com/conda-forge/lixtools-feedstock.git
 	path = feedstocks/lixtools
 	branch = refs/heads/master
+[submodule "cogeo-mosaic"]
+	url = https://github.com/conda-forge/cogeo-mosaic-feedstock.git
+	path = feedstocks/cogeo-mosaic
+	branch = refs/heads/master
