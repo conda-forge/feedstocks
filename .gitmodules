@@ -53602,3 +53602,7 @@
 	url = https://github.com/conda-forge/modestimage-feedstock.git
 	path = feedstocks/modestimage
 	branch = refs/heads/master
+[submodule "nsls2-detector-handlers"]
+	url = https://github.com/conda-forge/nsls2-detector-handlers-feedstock.git
+	path = feedstocks/nsls2-detector-handlers
+	branch = refs/heads/master
