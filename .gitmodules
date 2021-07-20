@@ -53626,3 +53626,7 @@
 	url = https://github.com/conda-forge/idds-doma-feedstock.git
 	path = feedstocks/idds-doma
 	branch = refs/heads/master
+[submodule "ossfs"]
+	url = https://github.com/conda-forge/ossfs-feedstock.git
+	path = feedstocks/ossfs
+	branch = refs/heads/master
