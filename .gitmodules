@@ -53638,3 +53638,7 @@
 	url = https://github.com/conda-forge/suitcase-tiff-feedstock.git
 	path = feedstocks/suitcase-tiff
 	branch = refs/heads/master
+[submodule "suitcase-specfile"]
+	url = https://github.com/conda-forge/suitcase-specfile-feedstock.git
+	path = feedstocks/suitcase-specfile
+	branch = refs/heads/master
