@@ -53666,3 +53666,7 @@
 	url = https://github.com/conda-forge/suitcase-jsonl-feedstock.git
 	path = feedstocks/suitcase-jsonl
 	branch = refs/heads/master
+[submodule "suitcase-csv"]
+	url = https://github.com/conda-forge/suitcase-csv-feedstock.git
+	path = feedstocks/suitcase-csv
+	branch = refs/heads/master
