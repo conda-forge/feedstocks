@@ -53642,3 +53642,7 @@
 	url = https://github.com/conda-forge/suitcase-specfile-feedstock.git
 	path = feedstocks/suitcase-specfile
 	branch = refs/heads/master
+[submodule "databroker-pack"]
+	url = https://github.com/conda-forge/databroker-pack-feedstock.git
+	path = feedstocks/databroker-pack
+	branch = refs/heads/master
