@@ -53594,3 +53594,7 @@
 	url = https://github.com/conda-forge/r-dire-feedstock.git
 	path = feedstocks/r-dire
 	branch = refs/heads/master
+[submodule "panda-client"]
+	url = https://github.com/conda-forge/panda-client-feedstock.git
+	path = feedstocks/panda-client
+	branch = refs/heads/master
