@@ -53618,3 +53618,7 @@
 	url = https://github.com/conda-forge/cogeo-mosaic-feedstock.git
 	path = feedstocks/cogeo-mosaic
 	branch = refs/heads/master
+[submodule "colcon-mixin"]
+	url = https://github.com/conda-forge/colcon-mixin-feedstock.git
+	path = feedstocks/colcon-mixin
+	branch = refs/heads/master
