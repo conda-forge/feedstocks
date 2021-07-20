@@ -53678,3 +53678,7 @@
 	url = https://github.com/conda-forge/matching-feedstock.git
 	path = feedstocks/matching
 	branch = refs/heads/master
+[submodule "hunter"]
+	url = https://github.com/conda-forge/hunter-feedstock.git
+	path = feedstocks/hunter
+	branch = refs/heads/master
