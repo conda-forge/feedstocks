@@ -53682,3 +53682,7 @@
 	url = https://github.com/conda-forge/hunter-feedstock.git
 	path = feedstocks/hunter
 	branch = refs/heads/master
+[submodule "r-robma"]
+	url = https://github.com/conda-forge/r-robma-feedstock.git
+	path = feedstocks/r-robma
+	branch = refs/heads/master
