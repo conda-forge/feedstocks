@@ -53710,3 +53710,7 @@
 	url = https://github.com/conda-forge/oscars-feedstock.git
 	path = feedstocks/oscars
 	branch = refs/heads/master
+[submodule "numconv"]
+	url = https://github.com/conda-forge/numconv-feedstock.git
+	path = feedstocks/numconv
+	branch = refs/heads/master
