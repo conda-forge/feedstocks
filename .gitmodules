@@ -53706,3 +53706,7 @@
 	url = https://github.com/conda-forge/pdfstream-feedstock.git
 	path = feedstocks/pdfstream
 	branch = refs/heads/master
+[submodule "oscars"]
+	url = https://github.com/conda-forge/oscars-feedstock.git
+	path = feedstocks/oscars
+	branch = refs/heads/master
