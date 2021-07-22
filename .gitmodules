@@ -53702,3 +53702,7 @@
 	url = https://github.com/conda-forge/servicestack-feedstock.git
 	path = feedstocks/servicestack
 	branch = refs/heads/master
+[submodule "pdfstream"]
+	url = https://github.com/conda-forge/pdfstream-feedstock.git
+	path = feedstocks/pdfstream
+	branch = refs/heads/master
