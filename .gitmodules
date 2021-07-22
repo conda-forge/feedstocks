@@ -53714,3 +53714,7 @@
 	url = https://github.com/conda-forge/numconv-feedstock.git
 	path = feedstocks/numconv
 	branch = refs/heads/master
+[submodule "sirepo-bluesky"]
+	url = https://github.com/conda-forge/sirepo-bluesky-feedstock.git
+	path = feedstocks/sirepo-bluesky
+	branch = refs/heads/master
