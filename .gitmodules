@@ -53718,3 +53718,7 @@
 	url = https://github.com/conda-forge/sirepo-bluesky-feedstock.git
 	path = feedstocks/sirepo-bluesky
 	branch = refs/heads/master
+[submodule "wxutils"]
+	url = https://github.com/conda-forge/wxutils-feedstock.git
+	path = feedstocks/wxutils
+	branch = refs/heads/master
