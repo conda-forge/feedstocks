@@ -53746,3 +53746,7 @@
 	url = https://github.com/conda-forge/signalslot-feedstock.git
 	path = feedstocks/signalslot
 	branch = refs/heads/master
+[submodule "mhm"]
+	url = https://github.com/conda-forge/mhm-feedstock.git
+	path = feedstocks/mhm
+	branch = refs/heads/master
