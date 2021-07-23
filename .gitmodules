@@ -53750,3 +53750,7 @@
 	url = https://github.com/conda-forge/mhm-feedstock.git
 	path = feedstocks/mhm
 	branch = refs/heads/master
+[submodule "bazel-toolchain"]
+	url = https://github.com/conda-forge/bazel-toolchain-feedstock.git
+	path = feedstocks/bazel-toolchain
+	branch = refs/heads/master
