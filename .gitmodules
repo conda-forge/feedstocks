@@ -53762,3 +53762,7 @@
 	url = https://github.com/conda-forge/miceforest-feedstock.git
 	path = feedstocks/miceforest
 	branch = refs/heads/master
+[submodule "xrt"]
+	url = https://github.com/conda-forge/xrt-feedstock.git
+	path = feedstocks/xrt
+	branch = refs/heads/master
