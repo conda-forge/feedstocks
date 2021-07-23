@@ -53754,3 +53754,7 @@
 	url = https://github.com/conda-forge/bazel-toolchain-feedstock.git
 	path = feedstocks/bazel-toolchain
 	branch = refs/heads/master
+[submodule "pyaml-env"]
+	url = https://github.com/conda-forge/pyaml-env-feedstock.git
+	path = feedstocks/pyaml-env
+	branch = refs/heads/master
