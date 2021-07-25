@@ -53834,3 +53834,7 @@
 	url = https://github.com/conda-forge/rwa-python-feedstock.git
 	path = feedstocks/rwa-python
 	branch = refs/heads/master
+[submodule "polytope"]
+	url = https://github.com/conda-forge/polytope-feedstock.git
+	path = feedstocks/polytope
+	branch = refs/heads/master
