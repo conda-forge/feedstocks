@@ -53846,3 +53846,7 @@
 	url = https://github.com/conda-forge/dython-feedstock.git
 	path = feedstocks/dython
 	branch = refs/heads/master
+[submodule "colordiff"]
+	url = https://github.com/conda-forge/colordiff-feedstock.git
+	path = feedstocks/colordiff
+	branch = refs/heads/master
