@@ -53842,3 +53842,7 @@
 	url = https://github.com/conda-forge/pychx-feedstock.git
 	path = feedstocks/pychx
 	branch = refs/heads/master
+[submodule "dython"]
+	url = https://github.com/conda-forge/dython-feedstock.git
+	path = feedstocks/dython
+	branch = refs/heads/master
