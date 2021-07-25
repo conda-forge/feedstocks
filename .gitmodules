@@ -53830,3 +53830,7 @@
 	url = https://github.com/conda-forge/tnt-feedstock.git
 	path = feedstocks/tnt
 	branch = refs/heads/master
+[submodule "rwa-python"]
+	url = https://github.com/conda-forge/rwa-python-feedstock.git
+	path = feedstocks/rwa-python
+	branch = refs/heads/master
