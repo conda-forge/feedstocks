@@ -53822,3 +53822,7 @@
 	url = https://github.com/conda-forge/jama-feedstock.git
 	path = feedstocks/jama
 	branch = refs/heads/master
+[submodule "tramway"]
+	url = https://github.com/conda-forge/tramway-feedstock.git
+	path = feedstocks/tramway
+	branch = refs/heads/master
