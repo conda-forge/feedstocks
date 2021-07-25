@@ -53818,3 +53818,7 @@
 	url = https://github.com/conda-forge/airspy-feedstock.git
 	path = feedstocks/airspy
 	branch = refs/heads/master
+[submodule "jama"]
+	url = https://github.com/conda-forge/jama-feedstock.git
+	path = feedstocks/jama
+	branch = refs/heads/master
