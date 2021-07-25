@@ -53838,3 +53838,7 @@
 	url = https://github.com/conda-forge/polytope-feedstock.git
 	path = feedstocks/polytope
 	branch = refs/heads/master
+[submodule "pychx"]
+	url = https://github.com/conda-forge/pychx-feedstock.git
+	path = feedstocks/pychx
+	branch = refs/heads/master
