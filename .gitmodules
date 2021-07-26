@@ -53850,3 +53850,7 @@
 	url = https://github.com/conda-forge/colordiff-feedstock.git
 	path = feedstocks/colordiff
 	branch = refs/heads/master
+[submodule "vizdet"]
+	url = https://github.com/conda-forge/vizdet-feedstock.git
+	path = feedstocks/vizdet
+	branch = refs/heads/master
