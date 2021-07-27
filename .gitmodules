@@ -53874,3 +53874,7 @@
 	url = https://github.com/conda-forge/gmm-feedstock.git
 	path = feedstocks/gmm
 	branch = refs/heads/master
+[submodule "pytest-alembic"]
+	url = https://github.com/conda-forge/pytest-alembic-feedstock.git
+	path = feedstocks/pytest-alembic
+	branch = refs/heads/master
