@@ -53866,3 +53866,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-airspy-feedstock.git
 	path = feedstocks/soapysdr-module-airspy
 	branch = refs/heads/master
+[submodule "soapysdr-module-airspyhf"]
+	url = https://github.com/conda-forge/soapysdr-module-airspyhf-feedstock.git
+	path = feedstocks/soapysdr-module-airspyhf
+	branch = refs/heads/master
