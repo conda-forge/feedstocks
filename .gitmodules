@@ -53858,3 +53858,7 @@
 	url = https://github.com/conda-forge/tomlplusplus-feedstock.git
 	path = feedstocks/tomlplusplus
 	branch = refs/heads/master
+[submodule "expecttest"]
+	url = https://github.com/conda-forge/expecttest-feedstock.git
+	path = feedstocks/expecttest
+	branch = refs/heads/master
