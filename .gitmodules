@@ -53870,3 +53870,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-airspyhf-feedstock.git
 	path = feedstocks/soapysdr-module-airspyhf
 	branch = refs/heads/master
+[submodule "gmm"]
+	url = https://github.com/conda-forge/gmm-feedstock.git
+	path = feedstocks/gmm
+	branch = refs/heads/master
