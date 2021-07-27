@@ -53882,3 +53882,7 @@
 	url = https://github.com/conda-forge/u8darts-feedstock.git
 	path = feedstocks/u8darts
 	branch = refs/heads/master
+[submodule "tldr"]
+	url = https://github.com/conda-forge/tldr-feedstock.git
+	path = feedstocks/tldr
+	branch = refs/heads/master
