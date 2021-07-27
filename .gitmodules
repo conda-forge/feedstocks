@@ -53862,3 +53862,7 @@
 	url = https://github.com/conda-forge/expecttest-feedstock.git
 	path = feedstocks/expecttest
 	branch = refs/heads/master
+[submodule "soapysdr-module-airspy"]
+	url = https://github.com/conda-forge/soapysdr-module-airspy-feedstock.git
+	path = feedstocks/soapysdr-module-airspy
+	branch = refs/heads/master
