@@ -53886,3 +53886,7 @@
 	url = https://github.com/conda-forge/tldr-feedstock.git
 	path = feedstocks/tldr
 	branch = refs/heads/master
+[submodule "colmap"]
+	url = https://github.com/conda-forge/colmap-feedstock.git
+	path = feedstocks/colmap
+	branch = refs/heads/master
