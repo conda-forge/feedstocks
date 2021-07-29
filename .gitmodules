@@ -53898,3 +53898,7 @@
 	url = https://github.com/conda-forge/r-marmap-feedstock.git
 	path = feedstocks/r-marmap
 	branch = refs/heads/master
+[submodule "r-ocedata"]
+	url = https://github.com/conda-forge/r-ocedata-feedstock.git
+	path = feedstocks/r-ocedata
+	branch = refs/heads/master
