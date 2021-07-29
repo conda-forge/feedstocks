@@ -53910,3 +53910,7 @@
 	url = https://github.com/conda-forge/r-multidplyr-feedstock.git
 	path = feedstocks/r-multidplyr
 	branch = refs/heads/master
+[submodule "r-flexplot"]
+	url = https://github.com/conda-forge/r-flexplot-feedstock.git
+	path = feedstocks/r-flexplot
+	branch = refs/heads/master
