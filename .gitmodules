@@ -53906,3 +53906,7 @@
 	url = https://github.com/conda-forge/sd-feedstock.git
 	path = feedstocks/sd
 	branch = refs/heads/master
+[submodule "r-multidplyr"]
+	url = https://github.com/conda-forge/r-multidplyr-feedstock.git
+	path = feedstocks/r-multidplyr
+	branch = refs/heads/master
