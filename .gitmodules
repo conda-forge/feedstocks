@@ -53930,3 +53930,7 @@
 	url = https://github.com/conda-forge/deepspeech-feedstock.git
 	path = feedstocks/deepspeech
 	branch = refs/heads/master
+[submodule "r-rstackdeque"]
+	url = https://github.com/conda-forge/r-rstackdeque-feedstock.git
+	path = feedstocks/r-rstackdeque
+	branch = refs/heads/master
