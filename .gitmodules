@@ -53914,3 +53914,7 @@
 	url = https://github.com/conda-forge/r-flexplot-feedstock.git
 	path = feedstocks/r-flexplot
 	branch = refs/heads/master
+[submodule "r-stanova"]
+	url = https://github.com/conda-forge/r-stanova-feedstock.git
+	path = feedstocks/r-stanova
+	branch = refs/heads/master
