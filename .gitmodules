@@ -53926,3 +53926,7 @@
 	url = https://github.com/conda-forge/r-tangles-feedstock.git
 	path = feedstocks/r-tangles
 	branch = refs/heads/master
+[submodule "deepspeech"]
+	url = https://github.com/conda-forge/deepspeech-feedstock.git
+	path = feedstocks/deepspeech
+	branch = refs/heads/master
