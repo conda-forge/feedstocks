@@ -53922,3 +53922,7 @@
 	url = https://github.com/conda-forge/r-bootnet-feedstock.git
 	path = feedstocks/r-bootnet
 	branch = refs/heads/master
+[submodule "r-tangles"]
+	url = https://github.com/conda-forge/r-tangles-feedstock.git
+	path = feedstocks/r-tangles
+	branch = refs/heads/master
