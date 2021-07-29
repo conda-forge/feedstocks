@@ -53918,3 +53918,7 @@
 	url = https://github.com/conda-forge/r-stanova-feedstock.git
 	path = feedstocks/r-stanova
 	branch = refs/heads/master
+[submodule "r-bootnet"]
+	url = https://github.com/conda-forge/r-bootnet-feedstock.git
+	path = feedstocks/r-bootnet
+	branch = refs/heads/master
