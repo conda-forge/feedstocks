@@ -53938,3 +53938,7 @@
 	url = https://github.com/conda-forge/ocean_data_gateway-feedstock.git
 	path = feedstocks/ocean_data_gateway
 	branch = refs/heads/master
+[submodule "r-tidycensus"]
+	url = https://github.com/conda-forge/r-tidycensus-feedstock.git
+	path = feedstocks/r-tidycensus
+	branch = refs/heads/master
