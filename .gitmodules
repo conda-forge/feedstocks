@@ -53970,3 +53970,7 @@
 	url = https://github.com/conda-forge/xyzservices-feedstock.git
 	path = feedstocks/xyzservices
 	branch = refs/heads/master
+[submodule "modelbase"]
+	url = https://github.com/conda-forge/modelbase-feedstock.git
+	path = feedstocks/modelbase
+	branch = refs/heads/master
