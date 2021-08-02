@@ -54010,3 +54010,7 @@
 	url = https://github.com/conda-forge/sliderule-feedstock.git
 	path = feedstocks/sliderule
 	branch = refs/heads/master
+[submodule "opentrons-suite"]
+	url = https://github.com/conda-forge/opentrons-suite-feedstock.git
+	path = feedstocks/opentrons-suite
+	branch = refs/heads/master
