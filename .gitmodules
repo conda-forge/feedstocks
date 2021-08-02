@@ -53982,3 +53982,7 @@
 	url = https://github.com/conda-forge/gpsd-feedstock.git
 	path = feedstocks/gpsd
 	branch = refs/heads/master
+[submodule "gftool"]
+	url = https://github.com/conda-forge/gftool-feedstock.git
+	path = feedstocks/gftool
+	branch = refs/heads/master
