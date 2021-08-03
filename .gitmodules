@@ -54062,3 +54062,7 @@
 	url = https://github.com/conda-forge/polling-feedstock.git
 	path = feedstocks/polling
 	branch = refs/heads/master
+[submodule "jake"]
+	url = https://github.com/conda-forge/jake-feedstock.git
+	path = feedstocks/jake
+	branch = refs/heads/master
