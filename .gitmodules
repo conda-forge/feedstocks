@@ -54058,3 +54058,7 @@
 	url = https://github.com/conda-forge/omnisci-notebooks-examples-feedstock.git
 	path = feedstocks/omnisci-notebooks-examples
 	branch = refs/heads/master
+[submodule "polling"]
+	url = https://github.com/conda-forge/polling-feedstock.git
+	path = feedstocks/polling
+	branch = refs/heads/master
