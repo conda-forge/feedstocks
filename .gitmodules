@@ -54042,3 +54042,7 @@
 	url = https://github.com/conda-forge/hxnfly-feedstock.git
 	path = feedstocks/hxnfly
 	branch = refs/heads/master
+[submodule "coda"]
+	url = https://github.com/conda-forge/coda-feedstock.git
+	path = feedstocks/coda
+	branch = refs/heads/master
