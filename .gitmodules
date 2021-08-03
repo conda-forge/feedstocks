@@ -54046,3 +54046,7 @@
 	url = https://github.com/conda-forge/coda-feedstock.git
 	path = feedstocks/coda
 	branch = refs/heads/master
+[submodule "harp"]
+	url = https://github.com/conda-forge/harp-feedstock.git
+	path = feedstocks/harp
+	branch = refs/heads/master
