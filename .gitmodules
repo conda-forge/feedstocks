@@ -54054,3 +54054,7 @@
 	url = https://github.com/conda-forge/muninn-feedstock.git
 	path = feedstocks/muninn
 	branch = refs/heads/master
+[submodule "omnisci-notebooks-examples"]
+	url = https://github.com/conda-forge/omnisci-notebooks-examples-feedstock.git
+	path = feedstocks/omnisci-notebooks-examples
+	branch = refs/heads/master
