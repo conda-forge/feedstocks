@@ -54014,3 +54014,7 @@
 	url = https://github.com/conda-forge/opentrons-suite-feedstock.git
 	path = feedstocks/opentrons-suite
 	branch = refs/heads/master
+[submodule "aeppl"]
+	url = https://github.com/conda-forge/aeppl-feedstock.git
+	path = feedstocks/aeppl
+	branch = refs/heads/master
