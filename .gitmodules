@@ -54066,3 +54066,7 @@
 	url = https://github.com/conda-forge/jake-feedstock.git
 	path = feedstocks/jake
 	branch = refs/heads/master
+[submodule "r-censusapi"]
+	url = https://github.com/conda-forge/r-censusapi-feedstock.git
+	path = feedstocks/r-censusapi
+	branch = refs/heads/master
