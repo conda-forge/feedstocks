@@ -54074,3 +54074,7 @@
 	url = https://github.com/conda-forge/r-choroplethrmaps-feedstock.git
 	path = feedstocks/r-choroplethrmaps
 	branch = refs/heads/master
+[submodule "r-ncdf4.helpers"]
+	url = https://github.com/conda-forge/r-ncdf4.helpers-feedstock.git
+	path = feedstocks/r-ncdf4.helpers
+	branch = refs/heads/master
