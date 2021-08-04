@@ -54090,3 +54090,7 @@
 	url = https://github.com/conda-forge/euklid-feedstock.git
 	path = feedstocks/euklid
 	branch = refs/heads/master
+[submodule "matplotlib-label-lines"]
+	url = https://github.com/conda-forge/matplotlib-label-lines-feedstock.git
+	path = feedstocks/matplotlib-label-lines
+	branch = refs/heads/master
