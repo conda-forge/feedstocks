@@ -54078,3 +54078,7 @@
 	url = https://github.com/conda-forge/r-ncdf4.helpers-feedstock.git
 	path = feedstocks/r-ncdf4.helpers
 	branch = refs/heads/master
+[submodule "r-bas"]
+	url = https://github.com/conda-forge/r-bas-feedstock.git
+	path = feedstocks/r-bas
+	branch = refs/heads/master
