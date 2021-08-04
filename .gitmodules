@@ -54070,3 +54070,7 @@
 	url = https://github.com/conda-forge/r-censusapi-feedstock.git
 	path = feedstocks/r-censusapi
 	branch = refs/heads/master
+[submodule "r-choroplethrmaps"]
+	url = https://github.com/conda-forge/r-choroplethrmaps-feedstock.git
+	path = feedstocks/r-choroplethrmaps
+	branch = refs/heads/master
