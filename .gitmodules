@@ -54082,3 +54082,7 @@
 	url = https://github.com/conda-forge/r-bas-feedstock.git
 	path = feedstocks/r-bas
 	branch = refs/heads/master
+[submodule "r-censusgeography"]
+	url = https://github.com/conda-forge/r-censusgeography-feedstock.git
+	path = feedstocks/r-censusgeography
+	branch = refs/heads/master
