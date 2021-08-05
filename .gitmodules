@@ -54134,3 +54134,7 @@
 	url = https://github.com/conda-forge/kepmodel-feedstock.git
 	path = feedstocks/kepmodel
 	branch = refs/heads/master
+[submodule "solana"]
+	url = https://github.com/conda-forge/solana-feedstock.git
+	path = feedstocks/solana
+	branch = refs/heads/master
