@@ -54114,3 +54114,7 @@
 	url = https://github.com/conda-forge/r-binman-feedstock.git
 	path = feedstocks/r-binman
 	branch = refs/heads/master
+[submodule "r-wdman"]
+	url = https://github.com/conda-forge/r-wdman-feedstock.git
+	path = feedstocks/r-wdman
+	branch = refs/heads/master
