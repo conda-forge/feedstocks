@@ -54122,3 +54122,7 @@
 	url = https://github.com/conda-forge/r-rselenium-feedstock.git
 	path = feedstocks/r-rselenium
 	branch = refs/heads/master
+[submodule "r-wdpar"]
+	url = https://github.com/conda-forge/r-wdpar-feedstock.git
+	path = feedstocks/r-wdpar
+	branch = refs/heads/master
