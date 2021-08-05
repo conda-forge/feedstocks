@@ -54146,3 +54146,7 @@
 	url = https://github.com/conda-forge/nbgitpuller-link-feedstock.git
 	path = feedstocks/nbgitpuller-link
 	branch = refs/heads/master
+[submodule "mediapy"]
+	url = https://github.com/conda-forge/mediapy-feedstock.git
+	path = feedstocks/mediapy
+	branch = refs/heads/master
