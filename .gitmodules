@@ -54118,3 +54118,7 @@
 	url = https://github.com/conda-forge/r-wdman-feedstock.git
 	path = feedstocks/r-wdman
 	branch = refs/heads/master
+[submodule "r-rselenium"]
+	url = https://github.com/conda-forge/r-rselenium-feedstock.git
+	path = feedstocks/r-rselenium
+	branch = refs/heads/master
