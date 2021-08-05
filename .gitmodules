@@ -54142,3 +54142,7 @@
 	url = https://github.com/conda-forge/blossalg-feedstock.git
 	path = feedstocks/blossalg
 	branch = refs/heads/master
+[submodule "nbgitpuller-link"]
+	url = https://github.com/conda-forge/nbgitpuller-link-feedstock.git
+	path = feedstocks/nbgitpuller-link
+	branch = refs/heads/master
