@@ -54130,3 +54130,7 @@
 	url = https://github.com/conda-forge/r-semver-feedstock.git
 	path = feedstocks/r-semver
 	branch = refs/heads/master
+[submodule "kepmodel"]
+	url = https://github.com/conda-forge/kepmodel-feedstock.git
+	path = feedstocks/kepmodel
+	branch = refs/heads/master
