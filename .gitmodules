@@ -54138,3 +54138,7 @@
 	url = https://github.com/conda-forge/solana-feedstock.git
 	path = feedstocks/solana
 	branch = refs/heads/master
+[submodule "blossalg"]
+	url = https://github.com/conda-forge/blossalg-feedstock.git
+	path = feedstocks/blossalg
+	branch = refs/heads/master
