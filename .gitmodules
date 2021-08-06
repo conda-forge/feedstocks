@@ -54150,3 +54150,7 @@
 	url = https://github.com/conda-forge/mediapy-feedstock.git
 	path = feedstocks/mediapy
 	branch = refs/heads/master
+[submodule "ipyurl"]
+	url = https://github.com/conda-forge/ipyurl-feedstock.git
+	path = feedstocks/ipyurl
+	branch = refs/heads/master
