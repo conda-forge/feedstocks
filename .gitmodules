@@ -54170,3 +54170,7 @@
 	url = https://github.com/conda-forge/nr.utils.re-feedstock.git
 	path = feedstocks/nr.utils.re
 	branch = refs/heads/master
+[submodule "nr.pylang.utils"]
+	url = https://github.com/conda-forge/nr.pylang.utils-feedstock.git
+	path = feedstocks/nr.pylang.utils
+	branch = refs/heads/master
