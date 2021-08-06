@@ -54166,3 +54166,7 @@
 	url = https://github.com/conda-forge/nr.optional-feedstock.git
 	path = feedstocks/nr.optional
 	branch = refs/heads/master
+[submodule "nr.utils.re"]
+	url = https://github.com/conda-forge/nr.utils.re-feedstock.git
+	path = feedstocks/nr.utils.re
+	branch = refs/heads/master
