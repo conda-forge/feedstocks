@@ -54182,3 +54182,7 @@
 	url = https://github.com/conda-forge/nr.parsing.date-feedstock.git
 	path = feedstocks/nr.parsing.date
 	branch = refs/heads/master
+[submodule "docspec"]
+	url = https://github.com/conda-forge/docspec-feedstock.git
+	path = feedstocks/docspec
+	branch = refs/heads/master
