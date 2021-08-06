@@ -54198,3 +54198,7 @@
 	url = https://github.com/conda-forge/docspec-python-feedstock.git
 	path = feedstocks/docspec-python
 	branch = refs/heads/master
+[submodule "pydoc-markdown"]
+	url = https://github.com/conda-forge/pydoc-markdown-feedstock.git
+	path = feedstocks/pydoc-markdown
+	branch = refs/heads/master
