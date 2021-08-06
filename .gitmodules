@@ -54162,3 +54162,7 @@
 	url = https://github.com/conda-forge/nr.preconditions-feedstock.git
 	path = feedstocks/nr.preconditions
 	branch = refs/heads/master
+[submodule "nr.optional"]
+	url = https://github.com/conda-forge/nr.optional-feedstock.git
+	path = feedstocks/nr.optional
+	branch = refs/heads/master
