@@ -54154,3 +54154,7 @@
 	url = https://github.com/conda-forge/ipyurl-feedstock.git
 	path = feedstocks/ipyurl
 	branch = refs/heads/master
+[submodule "lfric_reader"]
+	url = https://github.com/conda-forge/lfric_reader-feedstock.git
+	path = feedstocks/lfric_reader
+	branch = refs/heads/master
