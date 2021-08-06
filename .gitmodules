@@ -54190,3 +54190,7 @@
 	url = https://github.com/conda-forge/databind.core-feedstock.git
 	path = feedstocks/databind.core
 	branch = refs/heads/master
+[submodule "databind.json"]
+	url = https://github.com/conda-forge/databind.json-feedstock.git
+	path = feedstocks/databind.json
+	branch = refs/heads/master
