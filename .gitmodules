@@ -54218,3 +54218,7 @@
 	url = https://github.com/conda-forge/r-acs-feedstock.git
 	path = feedstocks/r-acs
 	branch = refs/heads/master
+[submodule "r-bstats"]
+	url = https://github.com/conda-forge/r-bstats-feedstock.git
+	path = feedstocks/r-bstats
+	branch = refs/heads/master
