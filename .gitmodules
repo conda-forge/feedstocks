@@ -54210,3 +54210,7 @@
 	url = https://github.com/conda-forge/xraylarch-feedstock.git
 	path = feedstocks/xraylarch
 	branch = refs/heads/master
+[submodule "libqglviewer"]
+	url = https://github.com/conda-forge/libqglviewer-feedstock.git
+	path = feedstocks/libqglviewer
+	branch = refs/heads/master
