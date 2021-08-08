@@ -54230,3 +54230,7 @@
 	url = https://github.com/conda-forge/pytest-reverse-feedstock.git
 	path = feedstocks/pytest-reverse
 	branch = refs/heads/master
+[submodule "seaborn-image"]
+	url = https://github.com/conda-forge/seaborn-image-feedstock.git
+	path = feedstocks/seaborn-image
+	branch = refs/heads/master
