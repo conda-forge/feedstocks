@@ -54222,3 +54222,7 @@
 	url = https://github.com/conda-forge/r-bstats-feedstock.git
 	path = feedstocks/r-bstats
 	branch = refs/heads/master
+[submodule "python-docker"]
+	url = https://github.com/conda-forge/python-docker-feedstock.git
+	path = feedstocks/python-docker
+	branch = refs/heads/master
