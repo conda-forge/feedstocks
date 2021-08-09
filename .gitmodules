@@ -54254,3 +54254,7 @@
 	url = https://github.com/conda-forge/libmongocxx-feedstock.git
 	path = feedstocks/libmongocxx
 	branch = refs/heads/master
+[submodule "kedro-neptune"]
+	url = https://github.com/conda-forge/kedro-neptune-feedstock.git
+	path = feedstocks/kedro-neptune
+	branch = refs/heads/master
