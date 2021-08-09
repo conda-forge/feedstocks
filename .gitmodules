@@ -54270,3 +54270,7 @@
 	url = https://github.com/conda-forge/pymatgen-analysis-diffusion-feedstock.git
 	path = feedstocks/pymatgen-analysis-diffusion
 	branch = refs/heads/master
+[submodule "pymatgen-lammps"]
+	url = https://github.com/conda-forge/pymatgen-lammps-feedstock.git
+	path = feedstocks/pymatgen-lammps
+	branch = refs/heads/master
