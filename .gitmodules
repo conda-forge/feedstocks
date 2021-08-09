@@ -54246,3 +54246,7 @@
 	url = https://github.com/conda-forge/libmongoc-feedstock.git
 	path = feedstocks/libmongoc
 	branch = refs/heads/master
+[submodule "libbson"]
+	url = https://github.com/conda-forge/libbson-feedstock.git
+	path = feedstocks/libbson
+	branch = refs/heads/master
