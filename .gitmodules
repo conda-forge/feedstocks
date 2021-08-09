@@ -54262,3 +54262,7 @@
 	url = https://github.com/conda-forge/seispy-feedstock.git
 	path = feedstocks/seispy
 	branch = refs/heads/master
+[submodule "libdlf"]
+	url = https://github.com/conda-forge/libdlf-feedstock.git
+	path = feedstocks/libdlf
+	branch = refs/heads/master
