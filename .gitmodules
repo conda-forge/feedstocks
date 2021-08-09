@@ -54242,3 +54242,7 @@
 	url = https://github.com/conda-forge/r-ggside-feedstock.git
 	path = feedstocks/r-ggside
 	branch = refs/heads/master
+[submodule "libmongoc"]
+	url = https://github.com/conda-forge/libmongoc-feedstock.git
+	path = feedstocks/libmongoc
+	branch = refs/heads/master
