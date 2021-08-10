@@ -54278,3 +54278,7 @@
 	url = https://github.com/conda-forge/r-faraway-feedstock.git
 	path = feedstocks/r-faraway
 	branch = refs/heads/master
+[submodule "cmdstan"]
+	url = https://github.com/conda-forge/cmdstan-feedstock.git
+	path = feedstocks/cmdstan
+	branch = refs/heads/master
