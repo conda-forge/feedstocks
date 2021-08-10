@@ -54282,3 +54282,7 @@
 	url = https://github.com/conda-forge/cmdstan-feedstock.git
 	path = feedstocks/cmdstan
 	branch = refs/heads/master
+[submodule "opentelemetry-exporter-datadog"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-datadog-feedstock.git
+	path = feedstocks/opentelemetry-exporter-datadog
+	branch = refs/heads/master
