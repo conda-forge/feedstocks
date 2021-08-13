@@ -54314,3 +54314,7 @@
 	url = https://github.com/conda-forge/storm-feedstock.git
 	path = feedstocks/storm
 	branch = refs/heads/master
+[submodule "piconnect"]
+	url = https://github.com/conda-forge/piconnect-feedstock.git
+	path = feedstocks/piconnect
+	branch = refs/heads/master
