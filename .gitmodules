@@ -54318,3 +54318,7 @@
 	url = https://github.com/conda-forge/piconnect-feedstock.git
 	path = feedstocks/piconnect
 	branch = refs/heads/master
+[submodule "keplergl"]
+	url = https://github.com/conda-forge/keplergl-feedstock.git
+	path = feedstocks/keplergl
+	branch = refs/heads/master
