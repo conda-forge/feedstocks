@@ -54362,3 +54362,7 @@
 	url = https://github.com/conda-forge/lhorizon-feedstock.git
 	path = feedstocks/lhorizon
 	branch = refs/heads/master
+[submodule "r-rsclient"]
+	url = https://github.com/conda-forge/r-rsclient-feedstock.git
+	path = feedstocks/r-rsclient
+	branch = refs/heads/master
