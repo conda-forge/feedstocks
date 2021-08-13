@@ -54338,3 +54338,7 @@
 	url = https://github.com/conda-forge/pyobjc-framework-metal-feedstock.git
 	path = feedstocks/pyobjc-framework-metal
 	branch = refs/heads/master
+[submodule "pisces-db"]
+	url = https://github.com/conda-forge/pisces-db-feedstock.git
+	path = feedstocks/pisces-db
+	branch = refs/heads/master
