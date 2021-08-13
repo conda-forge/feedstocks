@@ -54290,3 +54290,7 @@
 	url = https://github.com/conda-forge/mamba-bash-completion-feedstock.git
 	path = feedstocks/mamba-bash-completion
 	branch = refs/heads/master
+[submodule "opensmog"]
+	url = https://github.com/conda-forge/opensmog-feedstock.git
+	path = feedstocks/opensmog
+	branch = refs/heads/master
