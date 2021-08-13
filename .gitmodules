@@ -54286,3 +54286,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-datadog-feedstock.git
 	path = feedstocks/opentelemetry-exporter-datadog
 	branch = refs/heads/master
+[submodule "mamba-bash-completion"]
+	url = https://github.com/conda-forge/mamba-bash-completion-feedstock.git
+	path = feedstocks/mamba-bash-completion
+	branch = refs/heads/master
