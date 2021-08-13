@@ -54350,3 +54350,7 @@
 	url = https://github.com/conda-forge/conda-flow-feedstock.git
 	path = feedstocks/conda-flow
 	branch = refs/heads/master
+[submodule "jupyterlab-fonts"]
+	url = https://github.com/conda-forge/jupyterlab-fonts-feedstock.git
+	path = feedstocks/jupyterlab-fonts
+	branch = refs/heads/master
