@@ -54310,3 +54310,7 @@
 	url = https://github.com/conda-forge/aws-sso-lib-feedstock.git
 	path = feedstocks/aws-sso-lib
 	branch = refs/heads/master
+[submodule "storm"]
+	url = https://github.com/conda-forge/storm-feedstock.git
+	path = feedstocks/storm
+	branch = refs/heads/master
