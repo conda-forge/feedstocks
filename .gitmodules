@@ -54298,3 +54298,7 @@
 	url = https://github.com/conda-forge/moderngl-window-feedstock.git
 	path = feedstocks/moderngl-window
 	branch = refs/heads/master
+[submodule "allennlp-server"]
+	url = https://github.com/conda-forge/allennlp-server-feedstock.git
+	path = feedstocks/allennlp-server
+	branch = refs/heads/master
