@@ -54294,3 +54294,7 @@
 	url = https://github.com/conda-forge/opensmog-feedstock.git
 	path = feedstocks/opensmog
 	branch = refs/heads/master
+[submodule "moderngl-window"]
+	url = https://github.com/conda-forge/moderngl-window-feedstock.git
+	path = feedstocks/moderngl-window
+	branch = refs/heads/master
