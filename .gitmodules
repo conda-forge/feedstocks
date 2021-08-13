@@ -54302,3 +54302,7 @@
 	url = https://github.com/conda-forge/allennlp-server-feedstock.git
 	path = feedstocks/allennlp-server
 	branch = refs/heads/master
+[submodule "gliderpy"]
+	url = https://github.com/conda-forge/gliderpy-feedstock.git
+	path = feedstocks/gliderpy
+	branch = refs/heads/master
