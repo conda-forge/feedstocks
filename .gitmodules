@@ -54346,3 +54346,7 @@
 	url = https://github.com/conda-forge/bias_correction-feedstock.git
 	path = feedstocks/bias_correction
 	branch = refs/heads/master
+[submodule "conda-flow"]
+	url = https://github.com/conda-forge/conda-flow-feedstock.git
+	path = feedstocks/conda-flow
+	branch = refs/heads/master
