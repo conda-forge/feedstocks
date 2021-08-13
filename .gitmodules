@@ -54306,3 +54306,7 @@
 	url = https://github.com/conda-forge/gliderpy-feedstock.git
 	path = feedstocks/gliderpy
 	branch = refs/heads/master
+[submodule "aws-sso-lib"]
+	url = https://github.com/conda-forge/aws-sso-lib-feedstock.git
+	path = feedstocks/aws-sso-lib
+	branch = refs/heads/master
