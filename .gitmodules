@@ -54334,3 +54334,7 @@
 	url = https://github.com/conda-forge/mido-feedstock.git
 	path = feedstocks/mido
 	branch = refs/heads/master
+[submodule "pyobjc-framework-metal"]
+	url = https://github.com/conda-forge/pyobjc-framework-metal-feedstock.git
+	path = feedstocks/pyobjc-framework-metal
+	branch = refs/heads/master
