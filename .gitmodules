@@ -54354,3 +54354,7 @@
 	url = https://github.com/conda-forge/jupyterlab-fonts-feedstock.git
 	path = feedstocks/jupyterlab-fonts
 	branch = refs/heads/master
+[submodule "aws-sso-util"]
+	url = https://github.com/conda-forge/aws-sso-util-feedstock.git
+	path = feedstocks/aws-sso-util
+	branch = refs/heads/master
