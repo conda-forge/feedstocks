@@ -54366,3 +54366,7 @@
 	url = https://github.com/conda-forge/r-rsclient-feedstock.git
 	path = feedstocks/r-rsclient
 	branch = refs/heads/master
+[submodule "motionless"]
+	url = https://github.com/conda-forge/motionless-feedstock.git
+	path = feedstocks/motionless
+	branch = refs/heads/master
