@@ -54342,3 +54342,7 @@
 	url = https://github.com/conda-forge/pisces-db-feedstock.git
 	path = feedstocks/pisces-db
 	branch = refs/heads/master
+[submodule "bias_correction"]
+	url = https://github.com/conda-forge/bias_correction-feedstock.git
+	path = feedstocks/bias_correction
+	branch = refs/heads/master
