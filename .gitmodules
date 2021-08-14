@@ -54374,3 +54374,7 @@
 	url = https://github.com/conda-forge/icepaposc-feedstock.git
 	path = feedstocks/icepaposc
 	branch = refs/heads/master
+[submodule "pyannote.core"]
+	url = https://github.com/conda-forge/pyannote.core-feedstock.git
+	path = feedstocks/pyannote.core
+	branch = refs/heads/master
