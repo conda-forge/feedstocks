@@ -54378,3 +54378,7 @@
 	url = https://github.com/conda-forge/pyannote.core-feedstock.git
 	path = feedstocks/pyannote.core
 	branch = refs/heads/master
+[submodule "ipy"]
+	url = https://github.com/conda-forge/ipy-feedstock.git
+	path = feedstocks/ipy
+	branch = refs/heads/master
