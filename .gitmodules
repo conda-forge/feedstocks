@@ -54386,3 +54386,7 @@
 	url = https://github.com/conda-forge/jasp-feedstock.git
 	path = feedstocks/jasp
 	branch = refs/heads/master
+[submodule "pyannote.database"]
+	url = https://github.com/conda-forge/pyannote.database-feedstock.git
+	path = feedstocks/pyannote.database
+	branch = refs/heads/master
