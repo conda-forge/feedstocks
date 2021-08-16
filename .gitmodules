@@ -54398,3 +54398,7 @@
 	url = https://github.com/conda-forge/igwn-cmake-macros-feedstock.git
 	path = feedstocks/igwn-cmake-macros
 	branch = refs/heads/master
+[submodule "folly"]
+	url = https://github.com/conda-forge/folly-feedstock.git
+	path = feedstocks/folly
+	branch = refs/heads/master
