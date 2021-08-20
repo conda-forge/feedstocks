@@ -54446,3 +54446,7 @@
 	url = https://github.com/conda-forge/r-editdata-feedstock.git
 	path = feedstocks/r-editdata
 	branch = refs/heads/master
+[submodule "activitysim"]
+	url = https://github.com/conda-forge/activitysim-feedstock.git
+	path = feedstocks/activitysim
+	branch = refs/heads/master
