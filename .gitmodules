@@ -54474,3 +54474,7 @@
 	url = https://github.com/conda-forge/exact-real-feedstock.git
 	path = feedstocks/exact-real
 	branch = refs/heads/master
+[submodule "pyls-flake8"]
+	url = https://github.com/conda-forge/pyls-flake8-feedstock.git
+	path = feedstocks/pyls-flake8
+	branch = refs/heads/master
