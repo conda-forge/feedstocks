@@ -54494,3 +54494,7 @@
 	url = https://github.com/conda-forge/pylatte-feedstock.git
 	path = feedstocks/pylatte
 	branch = refs/heads/master
+[submodule "codeclimate-test-reporter"]
+	url = https://github.com/conda-forge/codeclimate-test-reporter-feedstock.git
+	path = feedstocks/codeclimate-test-reporter
+	branch = refs/heads/master
