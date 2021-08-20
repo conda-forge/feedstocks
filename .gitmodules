@@ -54434,3 +54434,7 @@
 	url = https://github.com/conda-forge/xeus-python-shell-feedstock.git
 	path = feedstocks/xeus-python-shell
 	branch = refs/heads/master
+[submodule "platformdirs"]
+	url = https://github.com/conda-forge/platformdirs-feedstock.git
+	path = feedstocks/platformdirs
+	branch = refs/heads/master
