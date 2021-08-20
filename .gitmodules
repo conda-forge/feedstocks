@@ -54454,3 +54454,7 @@
 	url = https://github.com/conda-forge/pretty_midi-feedstock.git
 	path = feedstocks/pretty_midi
 	branch = refs/heads/master
+[submodule "itpminer"]
+	url = https://github.com/conda-forge/itpminer-feedstock.git
+	path = feedstocks/itpminer
+	branch = refs/heads/master
