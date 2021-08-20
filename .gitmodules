@@ -54406,3 +54406,7 @@
 	url = https://github.com/conda-forge/icepapcms-feedstock.git
 	path = feedstocks/icepapcms
 	branch = refs/heads/master
+[submodule "openapi-python-client"]
+	url = https://github.com/conda-forge/openapi-python-client-feedstock.git
+	path = feedstocks/openapi-python-client
+	branch = refs/heads/master
