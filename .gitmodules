@@ -54490,3 +54490,7 @@
 	url = https://github.com/conda-forge/lammps-interface-feedstock.git
 	path = feedstocks/lammps-interface
 	branch = refs/heads/master
+[submodule "pylatte"]
+	url = https://github.com/conda-forge/pylatte-feedstock.git
+	path = feedstocks/pylatte
+	branch = refs/heads/master
