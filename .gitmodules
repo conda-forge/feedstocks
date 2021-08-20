@@ -54418,3 +54418,7 @@
 	url = https://github.com/conda-forge/pyannote.metrics-feedstock.git
 	path = feedstocks/pyannote.metrics
 	branch = refs/heads/master
+[submodule "sleepecg"]
+	url = https://github.com/conda-forge/sleepecg-feedstock.git
+	path = feedstocks/sleepecg
+	branch = refs/heads/master
