@@ -54498,3 +54498,7 @@
 	url = https://github.com/conda-forge/codeclimate-test-reporter-feedstock.git
 	path = feedstocks/codeclimate-test-reporter
 	branch = refs/heads/master
+[submodule "sqlalchemy-spanner"]
+	url = https://github.com/conda-forge/sqlalchemy-spanner-feedstock.git
+	path = feedstocks/sqlalchemy-spanner
+	branch = refs/heads/master
