@@ -54422,3 +54422,7 @@
 	url = https://github.com/conda-forge/sleepecg-feedstock.git
 	path = feedstocks/sleepecg
 	branch = refs/heads/master
+[submodule "cloudml-hypertune"]
+	url = https://github.com/conda-forge/cloudml-hypertune-feedstock.git
+	path = feedstocks/cloudml-hypertune
+	branch = refs/heads/master
