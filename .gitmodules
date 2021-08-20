@@ -54486,3 +54486,7 @@
 	url = https://github.com/conda-forge/r-tfautograph-feedstock.git
 	path = feedstocks/r-tfautograph
 	branch = refs/heads/master
+[submodule "lammps-interface"]
+	url = https://github.com/conda-forge/lammps-interface-feedstock.git
+	path = feedstocks/lammps-interface
+	branch = refs/heads/master
