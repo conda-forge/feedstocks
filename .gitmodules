@@ -54502,3 +54502,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-spanner-feedstock.git
 	path = feedstocks/sqlalchemy-spanner
 	branch = refs/heads/master
+[submodule "devicely"]
+	url = https://github.com/conda-forge/devicely-feedstock.git
+	path = feedstocks/devicely
+	branch = refs/heads/master
