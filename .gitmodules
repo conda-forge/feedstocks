@@ -54442,3 +54442,7 @@
 	url = https://github.com/conda-forge/parquet-tools-feedstock.git
 	path = feedstocks/parquet-tools
 	branch = refs/heads/master
+[submodule "r-editdata"]
+	url = https://github.com/conda-forge/r-editdata-feedstock.git
+	path = feedstocks/r-editdata
+	branch = refs/heads/master
