@@ -54462,3 +54462,7 @@
 	url = https://github.com/conda-forge/yatiml-feedstock.git
 	path = feedstocks/yatiml
 	branch = refs/heads/master
+[submodule "seekr2_openmm_plugin"]
+	url = https://github.com/conda-forge/seekr2_openmm_plugin-feedstock.git
+	path = feedstocks/seekr2_openmm_plugin
+	branch = refs/heads/master
