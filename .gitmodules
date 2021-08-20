@@ -54430,3 +54430,7 @@
 	url = https://github.com/conda-forge/ee_extra-feedstock.git
 	path = feedstocks/ee_extra
 	branch = refs/heads/master
+[submodule "xeus-python-shell"]
+	url = https://github.com/conda-forge/xeus-python-shell-feedstock.git
+	path = feedstocks/xeus-python-shell
+	branch = refs/heads/master
