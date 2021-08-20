@@ -54414,3 +54414,7 @@
 	url = https://github.com/conda-forge/secml-feedstock.git
 	path = feedstocks/secml
 	branch = refs/heads/master
+[submodule "pyannote.metrics"]
+	url = https://github.com/conda-forge/pyannote.metrics-feedstock.git
+	path = feedstocks/pyannote.metrics
+	branch = refs/heads/master
