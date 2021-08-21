@@ -54518,3 +54518,7 @@
 	url = https://github.com/conda-forge/autopxd2-feedstock.git
 	path = feedstocks/autopxd2
 	branch = refs/heads/master
+[submodule "vasppy"]
+	url = https://github.com/conda-forge/vasppy-feedstock.git
+	path = feedstocks/vasppy
+	branch = refs/heads/master
