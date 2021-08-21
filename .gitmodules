@@ -54522,3 +54522,7 @@
 	url = https://github.com/conda-forge/vasppy-feedstock.git
 	path = feedstocks/vasppy
 	branch = refs/heads/master
+[submodule "meggie"]
+	url = https://github.com/conda-forge/meggie-feedstock.git
+	path = feedstocks/meggie
+	branch = refs/heads/master
