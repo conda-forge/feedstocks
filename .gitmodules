@@ -54526,3 +54526,7 @@
 	url = https://github.com/conda-forge/meggie-feedstock.git
 	path = feedstocks/meggie
 	branch = refs/heads/master
+[submodule "pynauty"]
+	url = https://github.com/conda-forge/pynauty-feedstock.git
+	path = feedstocks/pynauty
+	branch = refs/heads/master
