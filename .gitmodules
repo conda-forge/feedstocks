@@ -54542,3 +54542,7 @@
 	url = https://github.com/conda-forge/go-activation-feedstock.git
 	path = feedstocks/go-activation
 	branch = refs/heads/master
+[submodule "jupyterlab-language-packs"]
+	url = https://github.com/conda-forge/jupyterlab-language-packs-feedstock.git
+	path = feedstocks/jupyterlab-language-packs
+	branch = refs/heads/master
