@@ -54566,3 +54566,7 @@
 	url = https://github.com/conda-forge/g2p-en-feedstock.git
 	path = feedstocks/g2p-en
 	branch = refs/heads/master
+[submodule "lazypredict"]
+	url = https://github.com/conda-forge/lazypredict-feedstock.git
+	path = feedstocks/lazypredict
+	branch = refs/heads/master
