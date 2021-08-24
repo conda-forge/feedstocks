@@ -54554,3 +54554,7 @@
 	url = https://github.com/conda-forge/r-posterior-feedstock.git
 	path = feedstocks/r-posterior
 	branch = refs/heads/master
+[submodule "kanga"]
+	url = https://github.com/conda-forge/kanga-feedstock.git
+	path = feedstocks/kanga
+	branch = refs/heads/master
