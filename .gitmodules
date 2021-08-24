@@ -54550,3 +54550,7 @@
 	url = https://github.com/conda-forge/r-glmpath-feedstock.git
 	path = feedstocks/r-glmpath
 	branch = refs/heads/master
+[submodule "r-posterior"]
+	url = https://github.com/conda-forge/r-posterior-feedstock.git
+	path = feedstocks/r-posterior
+	branch = refs/heads/master
