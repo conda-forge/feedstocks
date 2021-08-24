@@ -54558,3 +54558,7 @@
 	url = https://github.com/conda-forge/kanga-feedstock.git
 	path = feedstocks/kanga
 	branch = refs/heads/master
+[submodule "lightning-flash"]
+	url = https://github.com/conda-forge/lightning-flash-feedstock.git
+	path = feedstocks/lightning-flash
+	branch = refs/heads/master
