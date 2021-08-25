@@ -54598,3 +54598,7 @@
 	url = https://github.com/conda-forge/pgpy-feedstock.git
 	path = feedstocks/pgpy
 	branch = refs/heads/master
+[submodule "verr"]
+	url = https://github.com/conda-forge/verr-feedstock.git
+	path = feedstocks/verr
+	branch = refs/heads/master
