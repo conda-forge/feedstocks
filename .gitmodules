@@ -54594,3 +54594,7 @@
 	url = https://github.com/conda-forge/circuitq-feedstock.git
 	path = feedstocks/circuitq
 	branch = refs/heads/master
+[submodule "pgpy"]
+	url = https://github.com/conda-forge/pgpy-feedstock.git
+	path = feedstocks/pgpy
+	branch = refs/heads/master
