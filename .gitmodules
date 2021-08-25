@@ -54618,3 +54618,7 @@
 	url = https://github.com/conda-forge/arm-variant-feedstock.git
 	path = feedstocks/arm-variant
 	branch = refs/heads/master
+[submodule "kats"]
+	url = https://github.com/conda-forge/kats-feedstock.git
+	path = feedstocks/kats
+	branch = refs/heads/master
