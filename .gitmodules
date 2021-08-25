@@ -54606,3 +54606,7 @@
 	url = https://github.com/conda-forge/smirnoff-plugins-feedstock.git
 	path = feedstocks/smirnoff-plugins
 	branch = refs/heads/master
+[submodule "apav"]
+	url = https://github.com/conda-forge/apav-feedstock.git
+	path = feedstocks/apav
+	branch = refs/heads/master
