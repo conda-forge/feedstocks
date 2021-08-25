@@ -54614,3 +54614,7 @@
 	url = https://github.com/conda-forge/autopage-feedstock.git
 	path = feedstocks/autopage
 	branch = refs/heads/master
+[submodule "arm-variant"]
+	url = https://github.com/conda-forge/arm-variant-feedstock.git
+	path = feedstocks/arm-variant
+	branch = refs/heads/master
