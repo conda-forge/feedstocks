@@ -54602,3 +54602,7 @@
 	url = https://github.com/conda-forge/verr-feedstock.git
 	path = feedstocks/verr
 	branch = refs/heads/master
+[submodule "smirnoff-plugins"]
+	url = https://github.com/conda-forge/smirnoff-plugins-feedstock.git
+	path = feedstocks/smirnoff-plugins
+	branch = refs/heads/master
