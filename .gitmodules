@@ -54674,3 +54674,7 @@
 	url = https://github.com/conda-forge/rlpython-feedstock.git
 	path = feedstocks/rlpython
 	branch = refs/heads/master
+[submodule "pecos"]
+	url = https://github.com/conda-forge/pecos-feedstock.git
+	path = feedstocks/pecos
+	branch = refs/heads/master
