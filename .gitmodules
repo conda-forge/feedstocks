@@ -54646,3 +54646,7 @@
 	url = https://github.com/conda-forge/oxigraph-feedstock.git
 	path = feedstocks/oxigraph
 	branch = refs/heads/master
+[submodule "slippers"]
+	url = https://github.com/conda-forge/slippers-feedstock.git
+	path = feedstocks/slippers
+	branch = refs/heads/master
