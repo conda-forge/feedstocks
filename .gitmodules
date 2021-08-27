@@ -54650,3 +54650,7 @@
 	url = https://github.com/conda-forge/slippers-feedstock.git
 	path = feedstocks/slippers
 	branch = refs/heads/master
+[submodule "tcllib"]
+	url = https://github.com/conda-forge/tcllib-feedstock.git
+	path = feedstocks/tcllib
+	branch = refs/heads/master
