@@ -54658,3 +54658,7 @@
 	url = https://github.com/conda-forge/ansible-compat-feedstock.git
 	path = feedstocks/ansible-compat
 	branch = refs/heads/master
+[submodule "oxrdflib"]
+	url = https://github.com/conda-forge/oxrdflib-feedstock.git
+	path = feedstocks/oxrdflib
+	branch = refs/heads/master
