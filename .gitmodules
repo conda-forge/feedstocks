@@ -54662,3 +54662,7 @@
 	url = https://github.com/conda-forge/oxrdflib-feedstock.git
 	path = feedstocks/oxrdflib
 	branch = refs/heads/master
+[submodule "evidently"]
+	url = https://github.com/conda-forge/evidently-feedstock.git
+	path = feedstocks/evidently
+	branch = refs/heads/master
