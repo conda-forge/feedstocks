@@ -54634,3 +54634,7 @@
 	url = https://github.com/conda-forge/refactor-feedstock.git
 	path = feedstocks/refactor
 	branch = refs/heads/master
+[submodule "borb"]
+	url = https://github.com/conda-forge/borb-feedstock.git
+	path = feedstocks/borb
+	branch = refs/heads/master
