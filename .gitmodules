@@ -54666,3 +54666,7 @@
 	url = https://github.com/conda-forge/evidently-feedstock.git
 	path = feedstocks/evidently
 	branch = refs/heads/master
+[submodule "sqlmodel"]
+	url = https://github.com/conda-forge/sqlmodel-feedstock.git
+	path = feedstocks/sqlmodel
+	branch = refs/heads/master
