@@ -54670,3 +54670,7 @@
 	url = https://github.com/conda-forge/sqlmodel-feedstock.git
 	path = feedstocks/sqlmodel
 	branch = refs/heads/master
+[submodule "rlpython"]
+	url = https://github.com/conda-forge/rlpython-feedstock.git
+	path = feedstocks/rlpython
+	branch = refs/heads/master
