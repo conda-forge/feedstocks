@@ -54682,3 +54682,7 @@
 	url = https://github.com/conda-forge/libhiredis-feedstock.git
 	path = feedstocks/libhiredis
 	branch = refs/heads/master
+[submodule "r-udpipe"]
+	url = https://github.com/conda-forge/r-udpipe-feedstock.git
+	path = feedstocks/r-udpipe
+	branch = refs/heads/master
