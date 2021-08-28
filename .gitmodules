@@ -54698,3 +54698,7 @@
 	url = https://github.com/conda-forge/r-tau-feedstock.git
 	path = feedstocks/r-tau
 	branch = refs/heads/master
+[submodule "r-fastnaivebayes"]
+	url = https://github.com/conda-forge/r-fastnaivebayes-feedstock.git
+	path = feedstocks/r-fastnaivebayes
+	branch = refs/heads/master
