@@ -54714,3 +54714,7 @@
 	url = https://github.com/conda-forge/codepy-feedstock.git
 	path = feedstocks/codepy
 	branch = refs/heads/master
+[submodule "r-sentimentanalysis"]
+	url = https://github.com/conda-forge/r-sentimentanalysis-feedstock.git
+	path = feedstocks/r-sentimentanalysis
+	branch = refs/heads/master
