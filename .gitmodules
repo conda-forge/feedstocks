@@ -54710,3 +54710,7 @@
 	url = https://github.com/conda-forge/r-spikeslab-feedstock.git
 	path = feedstocks/r-spikeslab
 	branch = refs/heads/master
+[submodule "codepy"]
+	url = https://github.com/conda-forge/codepy-feedstock.git
+	path = feedstocks/codepy
+	branch = refs/heads/master
