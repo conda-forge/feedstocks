@@ -54686,3 +54686,7 @@
 	url = https://github.com/conda-forge/r-udpipe-feedstock.git
 	path = feedstocks/r-udpipe
 	branch = refs/heads/master
+[submodule "r-ngramrr"]
+	url = https://github.com/conda-forge/r-ngramrr-feedstock.git
+	path = feedstocks/r-ngramrr
+	branch = refs/heads/master
