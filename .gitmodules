@@ -54678,3 +54678,7 @@
 	url = https://github.com/conda-forge/pecos-feedstock.git
 	path = feedstocks/pecos
 	branch = refs/heads/master
+[submodule "libhiredis"]
+	url = https://github.com/conda-forge/libhiredis-feedstock.git
+	path = feedstocks/libhiredis
+	branch = refs/heads/master
