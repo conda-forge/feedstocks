@@ -54718,3 +54718,7 @@
 	url = https://github.com/conda-forge/r-sentimentanalysis-feedstock.git
 	path = feedstocks/r-sentimentanalysis
 	branch = refs/heads/master
+[submodule "loopy"]
+	url = https://github.com/conda-forge/loopy-feedstock.git
+	path = feedstocks/loopy
+	branch = refs/heads/master
