@@ -54722,3 +54722,7 @@
 	url = https://github.com/conda-forge/loopy-feedstock.git
 	path = feedstocks/loopy
 	branch = refs/heads/master
+[submodule "r-ggpolypath"]
+	url = https://github.com/conda-forge/r-ggpolypath-feedstock.git
+	path = feedstocks/r-ggpolypath
+	branch = refs/heads/master
