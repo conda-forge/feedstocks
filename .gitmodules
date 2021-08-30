@@ -54770,3 +54770,7 @@
 	url = https://github.com/conda-forge/torch-scatter-feedstock.git
 	path = feedstocks/torch-scatter
 	branch = refs/heads/master
+[submodule "wikipedia-api"]
+	url = https://github.com/conda-forge/wikipedia-api-feedstock.git
+	path = feedstocks/wikipedia-api
+	branch = refs/heads/master
