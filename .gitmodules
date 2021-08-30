@@ -54734,3 +54734,7 @@
 	url = https://github.com/conda-forge/lona-feedstock.git
 	path = feedstocks/lona
 	branch = refs/heads/master
+[submodule "commandlines"]
+	url = https://github.com/conda-forge/commandlines-feedstock.git
+	path = feedstocks/commandlines
+	branch = refs/heads/master
