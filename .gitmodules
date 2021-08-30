@@ -54774,3 +54774,7 @@
 	url = https://github.com/conda-forge/wikipedia-api-feedstock.git
 	path = feedstocks/wikipedia-api
 	branch = refs/heads/master
+[submodule "nncf"]
+	url = https://github.com/conda-forge/nncf-feedstock.git
+	path = feedstocks/nncf
+	branch = refs/heads/master
