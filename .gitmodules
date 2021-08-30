@@ -54742,3 +54742,7 @@
 	url = https://github.com/conda-forge/latte-feedstock.git
 	path = feedstocks/latte
 	branch = refs/heads/master
+[submodule "sqlglot"]
+	url = https://github.com/conda-forge/sqlglot-feedstock.git
+	path = feedstocks/sqlglot
+	branch = refs/heads/master
