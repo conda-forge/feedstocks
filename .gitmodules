@@ -54778,3 +54778,7 @@
 	url = https://github.com/conda-forge/nncf-feedstock.git
 	path = feedstocks/nncf
 	branch = refs/heads/master
+[submodule "reverse-geocode"]
+	url = https://github.com/conda-forge/reverse-geocode-feedstock.git
+	path = feedstocks/reverse-geocode
+	branch = refs/heads/master
