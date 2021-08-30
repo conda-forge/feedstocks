@@ -54738,3 +54738,7 @@
 	url = https://github.com/conda-forge/commandlines-feedstock.git
 	path = feedstocks/commandlines
 	branch = refs/heads/master
+[submodule "latte"]
+	url = https://github.com/conda-forge/latte-feedstock.git
+	path = feedstocks/latte
+	branch = refs/heads/master
