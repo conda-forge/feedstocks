@@ -54746,3 +54746,7 @@
 	url = https://github.com/conda-forge/sqlglot-feedstock.git
 	path = feedstocks/sqlglot
 	branch = refs/heads/master
+[submodule "project_name"]
+	url = https://github.com/conda-forge/project_name-feedstock.git
+	path = feedstocks/project_name
+	branch = refs/heads/master
