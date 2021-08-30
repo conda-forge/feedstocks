@@ -54766,3 +54766,7 @@
 	url = https://github.com/conda-forge/figuregenerator-feedstock.git
 	path = feedstocks/figuregenerator
 	branch = refs/heads/master
+[submodule "torch-scatter"]
+	url = https://github.com/conda-forge/torch-scatter-feedstock.git
+	path = feedstocks/torch-scatter
+	branch = refs/heads/master
