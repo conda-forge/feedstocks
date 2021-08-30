@@ -54750,3 +54750,7 @@
 	url = https://github.com/conda-forge/project_name-feedstock.git
 	path = feedstocks/project_name
 	branch = refs/heads/master
+[submodule "pyrayt"]
+	url = https://github.com/conda-forge/pyrayt-feedstock.git
+	path = feedstocks/pyrayt
+	branch = refs/heads/master
