@@ -54786,3 +54786,7 @@
 	url = https://github.com/conda-forge/dsm2dtm-feedstock.git
 	path = feedstocks/dsm2dtm
 	branch = refs/heads/master
+[submodule "cutde"]
+	url = https://github.com/conda-forge/cutde-feedstock.git
+	path = feedstocks/cutde
+	branch = refs/heads/master
