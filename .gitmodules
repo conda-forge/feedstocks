@@ -54790,3 +54790,7 @@
 	url = https://github.com/conda-forge/cutde-feedstock.git
 	path = feedstocks/cutde
 	branch = refs/heads/master
+[submodule "r-datacomparer"]
+	url = https://github.com/conda-forge/r-datacomparer-feedstock.git
+	path = feedstocks/r-datacomparer
+	branch = refs/heads/master
