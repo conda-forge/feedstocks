@@ -54822,3 +54822,7 @@
 	url = https://github.com/conda-forge/ansys-mapdl-reader-feedstock.git
 	path = feedstocks/ansys-mapdl-reader
 	branch = refs/heads/master
+[submodule "restraintlib"]
+	url = https://github.com/conda-forge/restraintlib-feedstock.git
+	path = feedstocks/restraintlib
+	branch = refs/heads/master
