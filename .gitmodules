@@ -54834,3 +54834,7 @@
 	url = https://github.com/conda-forge/jina-feedstock.git
 	path = feedstocks/jina
 	branch = refs/heads/master
+[submodule "dexpy"]
+	url = https://github.com/conda-forge/dexpy-feedstock.git
+	path = feedstocks/dexpy
+	branch = refs/heads/master
