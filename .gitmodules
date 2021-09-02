@@ -54826,3 +54826,7 @@
 	url = https://github.com/conda-forge/restraintlib-feedstock.git
 	path = feedstocks/restraintlib
 	branch = refs/heads/master
+[submodule "eeyore"]
+	url = https://github.com/conda-forge/eeyore-feedstock.git
+	path = feedstocks/eeyore
+	branch = refs/heads/master
