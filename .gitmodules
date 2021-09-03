@@ -54850,3 +54850,7 @@
 	url = https://github.com/conda-forge/r-lmodel2-feedstock.git
 	path = feedstocks/r-lmodel2
 	branch = refs/heads/master
+[submodule "alteryx-open-src-update-checker"]
+	url = https://github.com/conda-forge/alteryx-open-src-update-checker-feedstock.git
+	path = feedstocks/alteryx-open-src-update-checker
+	branch = refs/heads/master
