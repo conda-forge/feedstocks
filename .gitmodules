@@ -54842,3 +54842,7 @@
 	url = https://github.com/conda-forge/dpcmaps-feedstock.git
 	path = feedstocks/dpcmaps
 	branch = refs/heads/master
+[submodule "r-yulab.utils"]
+	url = https://github.com/conda-forge/r-yulab.utils-feedstock.git
+	path = feedstocks/r-yulab.utils
+	branch = refs/heads/master
