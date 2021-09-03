@@ -54854,3 +54854,7 @@
 	url = https://github.com/conda-forge/alteryx-open-src-update-checker-feedstock.git
 	path = feedstocks/alteryx-open-src-update-checker
 	branch = refs/heads/master
+[submodule "chartpress"]
+	url = https://github.com/conda-forge/chartpress-feedstock.git
+	path = feedstocks/chartpress
+	branch = refs/heads/master
