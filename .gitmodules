@@ -54846,3 +54846,7 @@
 	url = https://github.com/conda-forge/r-yulab.utils-feedstock.git
 	path = feedstocks/r-yulab.utils
 	branch = refs/heads/master
+[submodule "r-lmodel2"]
+	url = https://github.com/conda-forge/r-lmodel2-feedstock.git
+	path = feedstocks/r-lmodel2
+	branch = refs/heads/master
