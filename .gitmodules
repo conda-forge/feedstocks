@@ -54874,3 +54874,7 @@
 	url = https://github.com/conda-forge/mail-parser-feedstock.git
 	path = feedstocks/mail-parser
 	branch = refs/heads/master
+[submodule "rfc6555"]
+	url = https://github.com/conda-forge/rfc6555-feedstock.git
+	path = feedstocks/rfc6555
+	branch = refs/heads/master
