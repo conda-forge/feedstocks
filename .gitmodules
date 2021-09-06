@@ -54958,3 +54958,7 @@
 	url = https://github.com/conda-forge/r-param6-feedstock.git
 	path = feedstocks/r-param6
 	branch = refs/heads/master
+[submodule "sqlalchemy-omnisci"]
+	url = https://github.com/conda-forge/sqlalchemy-omnisci-feedstock.git
+	path = feedstocks/sqlalchemy-omnisci
+	branch = refs/heads/master
