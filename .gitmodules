@@ -54890,3 +54890,7 @@
 	url = https://github.com/conda-forge/r-rcppsimdjson-feedstock.git
 	path = feedstocks/r-rcppsimdjson
 	branch = refs/heads/master
+[submodule "libspiro"]
+	url = https://github.com/conda-forge/libspiro-feedstock.git
+	path = feedstocks/libspiro
+	branch = refs/heads/master
