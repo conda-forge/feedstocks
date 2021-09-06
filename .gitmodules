@@ -54942,3 +54942,7 @@
 	url = https://github.com/conda-forge/dtool_lookup_server-feedstock.git
 	path = feedstocks/dtool_lookup_server
 	branch = refs/heads/master
+[submodule "dtool_lookup_api"]
+	url = https://github.com/conda-forge/dtool_lookup_api-feedstock.git
+	path = feedstocks/dtool_lookup_api
+	branch = refs/heads/master
