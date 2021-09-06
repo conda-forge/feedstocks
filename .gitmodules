@@ -54938,3 +54938,7 @@
 	url = https://github.com/conda-forge/dtool_irods-feedstock.git
 	path = feedstocks/dtool_irods
 	branch = refs/heads/master
+[submodule "dtool_lookup_server"]
+	url = https://github.com/conda-forge/dtool_lookup_server-feedstock.git
+	path = feedstocks/dtool_lookup_server
+	branch = refs/heads/master
