@@ -54922,3 +54922,7 @@
 	url = https://github.com/conda-forge/flask-pymongo-feedstock.git
 	path = feedstocks/flask-pymongo
 	branch = refs/heads/master
+[submodule "dtool_ecs"]
+	url = https://github.com/conda-forge/dtool_ecs-feedstock.git
+	path = feedstocks/dtool_ecs
+	branch = refs/heads/master
