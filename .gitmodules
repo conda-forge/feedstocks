@@ -54934,3 +54934,7 @@
 	url = https://github.com/conda-forge/dtool_lookup_server_plugin_scaffolding-feedstock.git
 	path = feedstocks/dtool_lookup_server_plugin_scaffolding
 	branch = refs/heads/master
+[submodule "dtool_irods"]
+	url = https://github.com/conda-forge/dtool_irods-feedstock.git
+	path = feedstocks/dtool_irods
+	branch = refs/heads/master
