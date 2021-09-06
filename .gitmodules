@@ -54910,3 +54910,7 @@
 	url = https://github.com/conda-forge/dtool_lookup_server_annotation_filter_plugin-feedstock.git
 	path = feedstocks/dtool_lookup_server_annotation_filter_plugin
 	branch = refs/heads/master
+[submodule "dtool_lookup_server_dependency_graph_plugin"]
+	url = https://github.com/conda-forge/dtool_lookup_server_dependency_graph_plugin-feedstock.git
+	path = feedstocks/dtool_lookup_server_dependency_graph_plugin
+	branch = refs/heads/master
