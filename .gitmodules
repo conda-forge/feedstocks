@@ -54974,3 +54974,7 @@
 	url = https://github.com/conda-forge/triad-feedstock.git
 	path = feedstocks/triad
 	branch = refs/heads/master
+[submodule "configurator"]
+	url = https://github.com/conda-forge/configurator-feedstock.git
+	path = feedstocks/configurator
+	branch = refs/heads/master
