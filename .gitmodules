@@ -55006,3 +55006,7 @@
 	url = https://github.com/conda-forge/google-cloud-firestore-feedstock.git
 	path = feedstocks/google-cloud-firestore
 	branch = refs/heads/master
+[submodule "jsonargparse"]
+	url = https://github.com/conda-forge/jsonargparse-feedstock.git
+	path = feedstocks/jsonargparse
+	branch = refs/heads/master
