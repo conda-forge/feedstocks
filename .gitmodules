@@ -55002,3 +55002,7 @@
 	url = https://github.com/conda-forge/docx2pdf-feedstock.git
 	path = feedstocks/docx2pdf
 	branch = refs/heads/master
+[submodule "google-cloud-firestore"]
+	url = https://github.com/conda-forge/google-cloud-firestore-feedstock.git
+	path = feedstocks/google-cloud-firestore
+	branch = refs/heads/master
