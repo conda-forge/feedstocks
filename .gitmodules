@@ -54990,3 +54990,7 @@
 	url = https://github.com/conda-forge/matrix-py3-feedstock.git
 	path = feedstocks/matrix-py3
 	branch = refs/heads/master
+[submodule "snownlp"]
+	url = https://github.com/conda-forge/snownlp-feedstock.git
+	path = feedstocks/snownlp
+	branch = refs/heads/master
