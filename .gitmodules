@@ -55022,3 +55022,7 @@
 	url = https://github.com/conda-forge/apache-sedona-feedstock.git
 	path = feedstocks/apache-sedona
 	branch = refs/heads/master
+[submodule "asyncinotify"]
+	url = https://github.com/conda-forge/asyncinotify-feedstock.git
+	path = feedstocks/asyncinotify
+	branch = refs/heads/master
