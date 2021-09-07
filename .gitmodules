@@ -54966,3 +54966,7 @@
 	url = https://github.com/conda-forge/enum-extend-feedstock.git
 	path = feedstocks/enum-extend
 	branch = refs/heads/master
+[submodule "dtool_utils"]
+	url = https://github.com/conda-forge/dtool_utils-feedstock.git
+	path = feedstocks/dtool_utils
+	branch = refs/heads/master
