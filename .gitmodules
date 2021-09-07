@@ -55014,3 +55014,7 @@
 	url = https://github.com/conda-forge/aiohttp-retry-feedstock.git
 	path = feedstocks/aiohttp-retry
 	branch = refs/heads/master
+[submodule "requests-ratelimiter"]
+	url = https://github.com/conda-forge/requests-ratelimiter-feedstock.git
+	path = feedstocks/requests-ratelimiter
+	branch = refs/heads/master
