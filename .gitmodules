@@ -55054,3 +55054,7 @@
 	url = https://github.com/conda-forge/r-kvh-feedstock.git
 	path = feedstocks/r-kvh
 	branch = refs/heads/master
+[submodule "fgsl"]
+	url = https://github.com/conda-forge/fgsl-feedstock.git
+	path = feedstocks/fgsl
+	branch = refs/heads/master
