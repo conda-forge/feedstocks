@@ -55034,3 +55034,7 @@
 	url = https://github.com/conda-forge/r-patrick-feedstock.git
 	path = feedstocks/r-patrick
 	branch = refs/heads/master
+[submodule "dtool-lookup-client"]
+	url = https://github.com/conda-forge/dtool-lookup-client-feedstock.git
+	path = feedstocks/dtool-lookup-client
+	branch = refs/heads/master
