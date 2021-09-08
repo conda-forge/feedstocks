@@ -55058,3 +55058,7 @@
 	url = https://github.com/conda-forge/fgsl-feedstock.git
 	path = feedstocks/fgsl
 	branch = refs/heads/master
+[submodule "gcm_filters"]
+	url = https://github.com/conda-forge/gcm_filters-feedstock.git
+	path = feedstocks/gcm_filters
+	branch = refs/heads/master
