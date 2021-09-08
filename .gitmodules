@@ -55038,3 +55038,7 @@
 	url = https://github.com/conda-forge/dtool-lookup-client-feedstock.git
 	path = feedstocks/dtool-lookup-client
 	branch = refs/heads/master
+[submodule "dtool_azure"]
+	url = https://github.com/conda-forge/dtool_azure-feedstock.git
+	path = feedstocks/dtool_azure
+	branch = refs/heads/master
