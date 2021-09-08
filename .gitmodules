@@ -55062,3 +55062,7 @@
 	url = https://github.com/conda-forge/gcm_filters-feedstock.git
 	path = feedstocks/gcm_filters
 	branch = refs/heads/master
+[submodule "adagio"]
+	url = https://github.com/conda-forge/adagio-feedstock.git
+	path = feedstocks/adagio
+	branch = refs/heads/master
