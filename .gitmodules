@@ -55042,3 +55042,7 @@
 	url = https://github.com/conda-forge/dtool_azure-feedstock.git
 	path = feedstocks/dtool_azure
 	branch = refs/heads/master
+[submodule "qp"]
+	url = https://github.com/conda-forge/qp-feedstock.git
+	path = feedstocks/qp
+	branch = refs/heads/master
