@@ -55090,3 +55090,7 @@
 	url = https://github.com/conda-forge/mmparse-feedstock.git
 	path = feedstocks/mmparse
 	branch = refs/heads/master
+[submodule "afar"]
+	url = https://github.com/conda-forge/afar-feedstock.git
+	path = feedstocks/afar
+	branch = refs/heads/master
