@@ -55078,3 +55078,7 @@
 	url = https://github.com/conda-forge/pylablib-feedstock.git
 	path = feedstocks/pylablib
 	branch = refs/heads/master
+[submodule "jupyterlab_vim"]
+	url = https://github.com/conda-forge/jupyterlab_vim-feedstock.git
+	path = feedstocks/jupyterlab_vim
+	branch = refs/heads/master
