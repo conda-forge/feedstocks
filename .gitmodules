@@ -55086,3 +55086,7 @@
 	url = https://github.com/conda-forge/miutil-feedstock.git
 	path = feedstocks/miutil
 	branch = refs/heads/master
+[submodule "mmparse"]
+	url = https://github.com/conda-forge/mmparse-feedstock.git
+	path = feedstocks/mmparse
+	branch = refs/heads/master
