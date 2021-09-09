@@ -55094,3 +55094,7 @@
 	url = https://github.com/conda-forge/afar-feedstock.git
 	path = feedstocks/afar
 	branch = refs/heads/master
+[submodule "fsspec-reference-maker"]
+	url = https://github.com/conda-forge/fsspec-reference-maker-feedstock.git
+	path = feedstocks/fsspec-reference-maker
+	branch = refs/heads/master
