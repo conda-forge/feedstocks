@@ -55070,3 +55070,7 @@
 	url = https://github.com/conda-forge/innerscope-feedstock.git
 	path = feedstocks/innerscope
 	branch = refs/heads/master
+[submodule "rsconnect-jupyter"]
+	url = https://github.com/conda-forge/rsconnect-jupyter-feedstock.git
+	path = feedstocks/rsconnect-jupyter
+	branch = refs/heads/master
