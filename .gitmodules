@@ -55082,3 +55082,7 @@
 	url = https://github.com/conda-forge/jupyterlab_vim-feedstock.git
 	path = feedstocks/jupyterlab_vim
 	branch = refs/heads/master
+[submodule "miutil"]
+	url = https://github.com/conda-forge/miutil-feedstock.git
+	path = feedstocks/miutil
+	branch = refs/heads/master
