@@ -55126,3 +55126,7 @@
 	url = https://github.com/conda-forge/gelidum-feedstock.git
 	path = feedstocks/gelidum
 	branch = refs/heads/master
+[submodule "conda-vendor"]
+	url = https://github.com/conda-forge/conda-vendor-feedstock.git
+	path = feedstocks/conda-vendor
+	branch = refs/heads/master
