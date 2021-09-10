@@ -55110,3 +55110,7 @@
 	url = https://github.com/conda-forge/r-pzfx-feedstock.git
 	path = feedstocks/r-pzfx
 	branch = refs/heads/master
+[submodule "opencadd"]
+	url = https://github.com/conda-forge/opencadd-feedstock.git
+	path = feedstocks/opencadd
+	branch = refs/heads/master
