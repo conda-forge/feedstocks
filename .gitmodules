@@ -55114,3 +55114,7 @@
 	url = https://github.com/conda-forge/opencadd-feedstock.git
 	path = feedstocks/opencadd
 	branch = refs/heads/master
+[submodule "pysolid"]
+	url = https://github.com/conda-forge/pysolid-feedstock.git
+	path = feedstocks/pysolid
+	branch = refs/heads/master
