@@ -55130,3 +55130,7 @@
 	url = https://github.com/conda-forge/conda-vendor-feedstock.git
 	path = feedstocks/conda-vendor
 	branch = refs/heads/master
+[submodule "numberpartitioning"]
+	url = https://github.com/conda-forge/numberpartitioning-feedstock.git
+	path = feedstocks/numberpartitioning
+	branch = refs/heads/master
