@@ -55134,3 +55134,7 @@
 	url = https://github.com/conda-forge/numberpartitioning-feedstock.git
 	path = feedstocks/numberpartitioning
 	branch = refs/heads/master
+[submodule "exmol"]
+	url = https://github.com/conda-forge/exmol-feedstock.git
+	path = feedstocks/exmol
+	branch = refs/heads/master
