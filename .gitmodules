@@ -55154,3 +55154,7 @@
 	url = https://github.com/conda-forge/kissim-feedstock.git
 	path = feedstocks/kissim
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-elasticsearch"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-elasticsearch-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-elasticsearch
+	branch = refs/heads/master
