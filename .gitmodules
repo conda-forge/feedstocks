@@ -55254,3 +55254,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-pymongo-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-pymongo
 	branch = refs/heads/master
+[submodule "opentelemetry-util-http"]
+	url = https://github.com/conda-forge/opentelemetry-util-http-feedstock.git
+	path = feedstocks/opentelemetry-util-http
+	branch = refs/heads/master
