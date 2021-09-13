@@ -55310,3 +55310,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-zipkin-proto-http-feedstock.git
 	path = feedstocks/opentelemetry-exporter-zipkin-proto-http
 	branch = refs/heads/master
+[submodule "opencensus-proto"]
+	url = https://github.com/conda-forge/opencensus-proto-feedstock.git
+	path = feedstocks/opencensus-proto
+	branch = refs/heads/master
