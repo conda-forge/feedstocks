@@ -55206,3 +55206,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-celery-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-celery
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-sqlalchemy"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-sqlalchemy-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-sqlalchemy
+	branch = refs/heads/master
