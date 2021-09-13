@@ -55338,3 +55338,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-mysql-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-mysql
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-flask"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-flask-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-flask
+	branch = refs/heads/master
