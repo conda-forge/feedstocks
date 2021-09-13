@@ -55290,3 +55290,7 @@
 	url = https://github.com/conda-forge/dask-snowflake-feedstock.git
 	path = feedstocks/dask-snowflake
 	branch = refs/heads/master
+[submodule "opentelemetry-exporter-jaeger-proto-grpc"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-jaeger-proto-grpc-feedstock.git
+	path = feedstocks/opentelemetry-exporter-jaeger-proto-grpc
+	branch = refs/heads/master
