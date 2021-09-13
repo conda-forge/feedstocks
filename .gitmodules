@@ -55346,3 +55346,7 @@
 	url = https://github.com/conda-forge/pygml-feedstock.git
 	path = feedstocks/pygml
 	branch = refs/heads/master
+[submodule "rejson"]
+	url = https://github.com/conda-forge/rejson-feedstock.git
+	path = feedstocks/rejson
+	branch = refs/heads/master
