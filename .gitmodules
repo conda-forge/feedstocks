@@ -55322,3 +55322,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-urllib3-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-urllib3
 	branch = refs/heads/master
+[submodule "qpython"]
+	url = https://github.com/conda-forge/qpython-feedstock.git
+	path = feedstocks/qpython
+	branch = refs/heads/master
