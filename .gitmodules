@@ -55166,3 +55166,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-asyncpg-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-asyncpg
 	branch = refs/heads/master
+[submodule "opentelemetry-exporter-jaeger"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-jaeger-feedstock.git
+	path = feedstocks/opentelemetry-exporter-jaeger
+	branch = refs/heads/master
