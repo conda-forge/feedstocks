@@ -55270,3 +55270,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-aiopg-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-aiopg
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-pymemcache"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-pymemcache-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-pymemcache
+	branch = refs/heads/master
