@@ -55306,3 +55306,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-falcon-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-falcon
 	branch = refs/heads/master
+[submodule "opentelemetry-exporter-zipkin-proto-http"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-zipkin-proto-http-feedstock.git
+	path = feedstocks/opentelemetry-exporter-zipkin-proto-http
+	branch = refs/heads/master
