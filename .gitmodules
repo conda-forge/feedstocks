@@ -55330,3 +55330,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-fastapi-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-fastapi
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-wsgi"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-wsgi-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-wsgi
+	branch = refs/heads/master
