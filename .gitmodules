@@ -55146,3 +55146,7 @@
 	url = https://github.com/conda-forge/r-rgee-feedstock.git
 	path = feedstocks/r-rgee
 	branch = refs/heads/master
+[submodule "fps"]
+	url = https://github.com/conda-forge/fps-feedstock.git
+	path = feedstocks/fps
+	branch = refs/heads/master
