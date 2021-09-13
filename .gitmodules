@@ -55238,3 +55238,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-botocore-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-botocore
 	branch = refs/heads/master
+[submodule "opentelemetry-exporter-opencensus"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-opencensus-feedstock.git
+	path = feedstocks/opentelemetry-exporter-opencensus
+	branch = refs/heads/master
