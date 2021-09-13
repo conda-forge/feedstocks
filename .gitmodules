@@ -55182,3 +55182,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-starlette-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-starlette
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-logging"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-logging-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-logging
+	branch = refs/heads/master
