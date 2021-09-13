@@ -55286,3 +55286,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-django-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-django
 	branch = refs/heads/master
+[submodule "dask-snowflake"]
+	url = https://github.com/conda-forge/dask-snowflake-feedstock.git
+	path = feedstocks/dask-snowflake
+	branch = refs/heads/master
