@@ -55282,3 +55282,7 @@
 	url = https://github.com/conda-forge/opentelemetry-proto-feedstock.git
 	path = feedstocks/opentelemetry-proto
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-django"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-django-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-django
+	branch = refs/heads/master
