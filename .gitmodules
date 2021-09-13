@@ -55358,3 +55358,7 @@
 	url = https://github.com/conda-forge/dtool_ibeis-feedstock.git
 	path = feedstocks/dtool_ibeis
 	branch = refs/heads/master
+[submodule "ubelt"]
+	url = https://github.com/conda-forge/ubelt-feedstock.git
+	path = feedstocks/ubelt
+	branch = refs/heads/master
