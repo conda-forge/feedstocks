@@ -55226,3 +55226,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-psycopg2-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-psycopg2
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-redis"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-redis-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-redis
+	branch = refs/heads/master
