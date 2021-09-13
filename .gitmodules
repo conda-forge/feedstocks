@@ -55210,3 +55210,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-sqlalchemy-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-sqlalchemy
 	branch = refs/heads/master
+[submodule "opentelemetry-exporter-otlp-proto-grpc"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-otlp-proto-grpc-feedstock.git
+	path = feedstocks/opentelemetry-exporter-otlp-proto-grpc
+	branch = refs/heads/master
