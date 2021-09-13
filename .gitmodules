@@ -55222,3 +55222,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-pyramid-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-pyramid
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-psycopg2"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-psycopg2-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-psycopg2
+	branch = refs/heads/master
