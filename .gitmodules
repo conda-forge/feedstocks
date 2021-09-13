@@ -55218,3 +55218,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-pymysql-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-pymysql
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-pyramid"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-pyramid-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-pyramid
+	branch = refs/heads/master
