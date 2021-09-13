@@ -55350,3 +55350,7 @@
 	url = https://github.com/conda-forge/rejson-feedstock.git
 	path = feedstocks/rejson
 	branch = refs/heads/master
+[submodule "stylegan2-pytorch"]
+	url = https://github.com/conda-forge/stylegan2-pytorch-feedstock.git
+	path = feedstocks/stylegan2-pytorch
+	branch = refs/heads/master
