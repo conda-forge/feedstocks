@@ -55186,3 +55186,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-logging-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-logging
 	branch = refs/heads/master
+[submodule "opentelemetry-exporter-zipkin-json"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-zipkin-json-feedstock.git
+	path = feedstocks/opentelemetry-exporter-zipkin-json
+	branch = refs/heads/master
