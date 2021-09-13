@@ -55202,3 +55202,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-dbapi-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-dbapi
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-celery"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-celery-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-celery
+	branch = refs/heads/master
