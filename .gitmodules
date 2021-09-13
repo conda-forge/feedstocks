@@ -55342,3 +55342,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-flask-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-flask
 	branch = refs/heads/master
+[submodule "pygml"]
+	url = https://github.com/conda-forge/pygml-feedstock.git
+	path = feedstocks/pygml
+	branch = refs/heads/master
