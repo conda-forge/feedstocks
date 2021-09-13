@@ -55178,3 +55178,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-jaeger-thrift-feedstock.git
 	path = feedstocks/opentelemetry-exporter-jaeger-thrift
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-starlette"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-starlette-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-starlette
+	branch = refs/heads/master
