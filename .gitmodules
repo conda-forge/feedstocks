@@ -55138,3 +55138,7 @@
 	url = https://github.com/conda-forge/exmol-feedstock.git
 	path = feedstocks/exmol
 	branch = refs/heads/master
+[submodule "r-ooplah"]
+	url = https://github.com/conda-forge/r-ooplah-feedstock.git
+	path = feedstocks/r-ooplah
+	branch = refs/heads/master
