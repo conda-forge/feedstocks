@@ -55230,3 +55230,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-redis-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-redis
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-urllib"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-urllib-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-urllib
+	branch = refs/heads/master
