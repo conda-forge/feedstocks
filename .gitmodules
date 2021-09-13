@@ -55382,3 +55382,7 @@
 	url = https://github.com/conda-forge/tpi-feedstock.git
 	path = feedstocks/tpi
 	branch = refs/heads/master
+[submodule "pycgtool"]
+	url = https://github.com/conda-forge/pycgtool-feedstock.git
+	path = feedstocks/pycgtool
+	branch = refs/heads/master
