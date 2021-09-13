@@ -55314,3 +55314,7 @@
 	url = https://github.com/conda-forge/opencensus-proto-feedstock.git
 	path = feedstocks/opencensus-proto
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-tornado"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-tornado-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-tornado
+	branch = refs/heads/master
