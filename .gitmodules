@@ -55366,3 +55366,7 @@
 	url = https://github.com/conda-forge/utool-feedstock.git
 	path = feedstocks/utool
 	branch = refs/heads/master
+[submodule "r-tidyjson"]
+	url = https://github.com/conda-forge/r-tidyjson-feedstock.git
+	path = feedstocks/r-tidyjson
+	branch = refs/heads/master
