@@ -55162,3 +55162,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-otlp-feedstock.git
 	path = feedstocks/opentelemetry-exporter-otlp
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-asyncpg"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-asyncpg-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-asyncpg
+	branch = refs/heads/master
