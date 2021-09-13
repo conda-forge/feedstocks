@@ -55354,3 +55354,7 @@
 	url = https://github.com/conda-forge/stylegan2-pytorch-feedstock.git
 	path = feedstocks/stylegan2-pytorch
 	branch = refs/heads/master
+[submodule "dtool_ibeis"]
+	url = https://github.com/conda-forge/dtool_ibeis-feedstock.git
+	path = feedstocks/dtool_ibeis
+	branch = refs/heads/master
