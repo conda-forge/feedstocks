@@ -55326,3 +55326,7 @@
 	url = https://github.com/conda-forge/qpython-feedstock.git
 	path = feedstocks/qpython
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-fastapi"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-fastapi-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-fastapi
+	branch = refs/heads/master
