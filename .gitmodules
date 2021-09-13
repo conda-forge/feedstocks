@@ -55246,3 +55246,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-jinja2-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-jinja2
 	branch = refs/heads/master
+[submodule "dependency_injector"]
+	url = https://github.com/conda-forge/dependency_injector-feedstock.git
+	path = feedstocks/dependency_injector
+	branch = refs/heads/master
