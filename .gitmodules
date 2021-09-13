@@ -55298,3 +55298,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-sqlite3-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-sqlite3
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-sklearn"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-sklearn-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-sklearn
+	branch = refs/heads/master
