@@ -55250,3 +55250,7 @@
 	url = https://github.com/conda-forge/dependency_injector-feedstock.git
 	path = feedstocks/dependency_injector
 	branch = refs/heads/master
+[submodule "opentelemetry-instrumentation-pymongo"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-pymongo-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-pymongo
+	branch = refs/heads/master
