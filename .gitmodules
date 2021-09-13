@@ -55370,3 +55370,7 @@
 	url = https://github.com/conda-forge/r-tidyjson-feedstock.git
 	path = feedstocks/r-tidyjson
 	branch = refs/heads/master
+[submodule "r-binsreg"]
+	url = https://github.com/conda-forge/r-binsreg-feedstock.git
+	path = feedstocks/r-binsreg
+	branch = refs/heads/master
