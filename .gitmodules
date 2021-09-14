@@ -55394,3 +55394,7 @@
 	url = https://github.com/conda-forge/python-relion-feedstock.git
 	path = feedstocks/python-relion
 	branch = refs/heads/master
+[submodule "pycollo"]
+	url = https://github.com/conda-forge/pycollo-feedstock.git
+	path = feedstocks/pycollo
+	branch = refs/heads/master
