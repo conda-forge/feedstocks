@@ -55398,3 +55398,7 @@
 	url = https://github.com/conda-forge/pycollo-feedstock.git
 	path = feedstocks/pycollo
 	branch = refs/heads/master
+[submodule "parsy"]
+	url = https://github.com/conda-forge/parsy-feedstock.git
+	path = feedstocks/parsy
+	branch = refs/heads/master
