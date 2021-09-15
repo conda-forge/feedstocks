@@ -55406,3 +55406,7 @@
 	url = https://github.com/conda-forge/ecgtools-feedstock.git
 	path = feedstocks/ecgtools
 	branch = refs/heads/master
+[submodule "jupyterlab-notifications"]
+	url = https://github.com/conda-forge/jupyterlab-notifications-feedstock.git
+	path = feedstocks/jupyterlab-notifications
+	branch = refs/heads/master
