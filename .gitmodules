@@ -55402,3 +55402,7 @@
 	url = https://github.com/conda-forge/parsy-feedstock.git
 	path = feedstocks/parsy
 	branch = refs/heads/master
+[submodule "ecgtools"]
+	url = https://github.com/conda-forge/ecgtools-feedstock.git
+	path = feedstocks/ecgtools
+	branch = refs/heads/master
