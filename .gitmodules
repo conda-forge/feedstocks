@@ -55410,3 +55410,7 @@
 	url = https://github.com/conda-forge/jupyterlab-notifications-feedstock.git
 	path = feedstocks/jupyterlab-notifications
 	branch = refs/heads/master
+[submodule "chemml"]
+	url = https://github.com/conda-forge/chemml-feedstock.git
+	path = feedstocks/chemml
+	branch = refs/heads/master
