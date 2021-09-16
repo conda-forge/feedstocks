@@ -55450,3 +55450,7 @@
 	url = https://github.com/conda-forge/amazon-braket-schemas-feedstock.git
 	path = feedstocks/amazon-braket-schemas
 	branch = refs/heads/master
+[submodule "umongo"]
+	url = https://github.com/conda-forge/umongo-feedstock.git
+	path = feedstocks/umongo
+	branch = refs/heads/master
