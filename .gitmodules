@@ -55418,3 +55418,7 @@
 	url = https://github.com/conda-forge/r-zipcoder-feedstock.git
 	path = feedstocks/r-zipcoder
 	branch = refs/heads/master
+[submodule "sqlalchemy-drill"]
+	url = https://github.com/conda-forge/sqlalchemy-drill-feedstock.git
+	path = feedstocks/sqlalchemy-drill
+	branch = refs/heads/master
