@@ -55442,3 +55442,7 @@
 	url = https://github.com/conda-forge/termcolor-cpp-feedstock.git
 	path = feedstocks/termcolor-cpp
 	branch = refs/heads/master
+[submodule "amazon-braket-default-simulator"]
+	url = https://github.com/conda-forge/amazon-braket-default-simulator-feedstock.git
+	path = feedstocks/amazon-braket-default-simulator
+	branch = refs/heads/master
