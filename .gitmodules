@@ -55434,3 +55434,7 @@
 	url = https://github.com/conda-forge/libdaemon-feedstock.git
 	path = feedstocks/libdaemon
 	branch = refs/heads/master
+[submodule "molsimplify"]
+	url = https://github.com/conda-forge/molsimplify-feedstock.git
+	path = feedstocks/molsimplify
+	branch = refs/heads/master
