@@ -55438,3 +55438,7 @@
 	url = https://github.com/conda-forge/molsimplify-feedstock.git
 	path = feedstocks/molsimplify
 	branch = refs/heads/master
+[submodule "termcolor-cpp"]
+	url = https://github.com/conda-forge/termcolor-cpp-feedstock.git
+	path = feedstocks/termcolor-cpp
+	branch = refs/heads/master
