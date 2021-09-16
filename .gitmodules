@@ -55430,3 +55430,7 @@
 	url = https://github.com/conda-forge/r-splittools-feedstock.git
 	path = feedstocks/r-splittools
 	branch = refs/heads/master
+[submodule "libdaemon"]
+	url = https://github.com/conda-forge/libdaemon-feedstock.git
+	path = feedstocks/libdaemon
+	branch = refs/heads/master
