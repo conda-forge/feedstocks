@@ -55458,3 +55458,7 @@
 	url = https://github.com/conda-forge/amazon-braket-sdk-feedstock.git
 	path = feedstocks/amazon-braket-sdk
 	branch = refs/heads/master
+[submodule "intake_pattern_catalog"]
+	url = https://github.com/conda-forge/intake_pattern_catalog-feedstock.git
+	path = feedstocks/intake_pattern_catalog
+	branch = refs/heads/master
