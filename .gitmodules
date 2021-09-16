@@ -55446,3 +55446,7 @@
 	url = https://github.com/conda-forge/amazon-braket-default-simulator-feedstock.git
 	path = feedstocks/amazon-braket-default-simulator
 	branch = refs/heads/master
+[submodule "amazon-braket-schemas"]
+	url = https://github.com/conda-forge/amazon-braket-schemas-feedstock.git
+	path = feedstocks/amazon-braket-schemas
+	branch = refs/heads/master
