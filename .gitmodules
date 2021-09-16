@@ -55422,3 +55422,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-drill-feedstock.git
 	path = feedstocks/sqlalchemy-drill
 	branch = refs/heads/master
+[submodule "mache"]
+	url = https://github.com/conda-forge/mache-feedstock.git
+	path = feedstocks/mache
+	branch = refs/heads/master
