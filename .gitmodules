@@ -55426,3 +55426,7 @@
 	url = https://github.com/conda-forge/mache-feedstock.git
 	path = feedstocks/mache
 	branch = refs/heads/master
+[submodule "r-splittools"]
+	url = https://github.com/conda-forge/r-splittools-feedstock.git
+	path = feedstocks/r-splittools
+	branch = refs/heads/master
