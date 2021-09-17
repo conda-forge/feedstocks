@@ -55470,3 +55470,7 @@
 	url = https://github.com/conda-forge/dataclassy-feedstock.git
 	path = feedstocks/dataclassy
 	branch = refs/heads/master
+[submodule "semi-ate"]
+	url = https://github.com/conda-forge/semi-ate-feedstock.git
+	path = feedstocks/semi-ate
+	branch = refs/heads/master
