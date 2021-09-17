@@ -55478,3 +55478,7 @@
 	url = https://github.com/conda-forge/oceancolor-feedstock.git
 	path = feedstocks/oceancolor
 	branch = refs/heads/master
+[submodule "systemd"]
+	url = https://github.com/conda-forge/systemd-feedstock.git
+	path = feedstocks/systemd
+	branch = refs/heads/master
