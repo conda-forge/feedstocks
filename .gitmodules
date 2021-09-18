@@ -55486,3 +55486,7 @@
 	url = https://github.com/conda-forge/r-gghoriplot-feedstock.git
 	path = feedstocks/r-gghoriplot
 	branch = refs/heads/master
+[submodule "memory-allocator"]
+	url = https://github.com/conda-forge/memory-allocator-feedstock.git
+	path = feedstocks/memory-allocator
+	branch = refs/heads/master
