@@ -55482,3 +55482,7 @@
 	url = https://github.com/conda-forge/systemd-feedstock.git
 	path = feedstocks/systemd
 	branch = refs/heads/master
+[submodule "r-gghoriplot"]
+	url = https://github.com/conda-forge/r-gghoriplot-feedstock.git
+	path = feedstocks/r-gghoriplot
+	branch = refs/heads/master
