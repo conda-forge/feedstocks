@@ -55514,3 +55514,7 @@
 	url = https://github.com/conda-forge/libfido2-feedstock.git
 	path = feedstocks/libfido2
 	branch = refs/heads/master
+[submodule "cargo-bundle-licenses"]
+	url = https://github.com/conda-forge/cargo-bundle-licenses-feedstock.git
+	path = feedstocks/cargo-bundle-licenses
+	branch = refs/heads/master
