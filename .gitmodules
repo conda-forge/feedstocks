@@ -55494,3 +55494,7 @@
 	url = https://github.com/conda-forge/sigtool-feedstock.git
 	path = feedstocks/sigtool
 	branch = refs/heads/master
+[submodule "mbedtls"]
+	url = https://github.com/conda-forge/mbedtls-feedstock.git
+	path = feedstocks/mbedtls
+	branch = refs/heads/master
