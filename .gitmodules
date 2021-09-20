@@ -55506,3 +55506,7 @@
 	url = https://github.com/conda-forge/libcbor-feedstock.git
 	path = feedstocks/libcbor
 	branch = refs/heads/master
+[submodule "topojson"]
+	url = https://github.com/conda-forge/topojson-feedstock.git
+	path = feedstocks/topojson
+	branch = refs/heads/master
