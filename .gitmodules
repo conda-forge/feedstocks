@@ -55498,3 +55498,7 @@
 	url = https://github.com/conda-forge/mbedtls-feedstock.git
 	path = feedstocks/mbedtls
 	branch = refs/heads/master
+[submodule "skunk"]
+	url = https://github.com/conda-forge/skunk-feedstock.git
+	path = feedstocks/skunk
+	branch = refs/heads/master
