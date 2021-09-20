@@ -55510,3 +55510,7 @@
 	url = https://github.com/conda-forge/topojson-feedstock.git
 	path = feedstocks/topojson
 	branch = refs/heads/master
+[submodule "libfido2"]
+	url = https://github.com/conda-forge/libfido2-feedstock.git
+	path = feedstocks/libfido2
+	branch = refs/heads/master
