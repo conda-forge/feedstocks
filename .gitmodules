@@ -55522,3 +55522,7 @@
 	url = https://github.com/conda-forge/napari-animation-feedstock.git
 	path = feedstocks/napari-animation
 	branch = refs/heads/master
+[submodule "waver"]
+	url = https://github.com/conda-forge/waver-feedstock.git
+	path = feedstocks/waver
+	branch = refs/heads/master
