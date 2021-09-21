@@ -55518,3 +55518,7 @@
 	url = https://github.com/conda-forge/cargo-bundle-licenses-feedstock.git
 	path = feedstocks/cargo-bundle-licenses
 	branch = refs/heads/master
+[submodule "napari-animation"]
+	url = https://github.com/conda-forge/napari-animation-feedstock.git
+	path = feedstocks/napari-animation
+	branch = refs/heads/master
