@@ -55574,3 +55574,7 @@
 	url = https://github.com/conda-forge/ldrb-feedstock.git
 	path = feedstocks/ldrb
 	branch = refs/heads/master
+[submodule "kaolin"]
+	url = https://github.com/conda-forge/kaolin-feedstock.git
+	path = feedstocks/kaolin
+	branch = refs/heads/master
