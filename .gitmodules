@@ -55542,3 +55542,7 @@
 	url = https://github.com/conda-forge/r-audio-feedstock.git
 	path = feedstocks/r-audio
 	branch = refs/heads/master
+[submodule "wren"]
+	url = https://github.com/conda-forge/wren-feedstock.git
+	path = feedstocks/wren
+	branch = refs/heads/master
