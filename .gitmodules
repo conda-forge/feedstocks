@@ -55562,3 +55562,7 @@
 	url = https://github.com/conda-forge/declarative-feedstock.git
 	path = feedstocks/declarative
 	branch = refs/heads/master
+[submodule "pythia-datasets"]
+	url = https://github.com/conda-forge/pythia-datasets-feedstock.git
+	path = feedstocks/pythia-datasets
+	branch = refs/heads/master
