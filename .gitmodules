@@ -55550,3 +55550,7 @@
 	url = https://github.com/conda-forge/icon-feedstock.git
 	path = feedstocks/icon
 	branch = refs/heads/master
+[submodule "apd"]
+	url = https://github.com/conda-forge/apd-feedstock.git
+	path = feedstocks/apd
+	branch = refs/heads/master
