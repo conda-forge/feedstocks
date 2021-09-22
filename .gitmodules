@@ -55538,3 +55538,7 @@
 	url = https://github.com/conda-forge/r-ggfun-feedstock.git
 	path = feedstocks/r-ggfun
 	branch = refs/heads/master
+[submodule "r-audio"]
+	url = https://github.com/conda-forge/r-audio-feedstock.git
+	path = feedstocks/r-audio
+	branch = refs/heads/master
