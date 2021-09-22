@@ -55554,3 +55554,7 @@
 	url = https://github.com/conda-forge/apd-feedstock.git
 	path = feedstocks/apd
 	branch = refs/heads/master
+[submodule "aicsimageio"]
+	url = https://github.com/conda-forge/aicsimageio-feedstock.git
+	path = feedstocks/aicsimageio
+	branch = refs/heads/master
