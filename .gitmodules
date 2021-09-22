@@ -55566,3 +55566,7 @@
 	url = https://github.com/conda-forge/pythia-datasets-feedstock.git
 	path = feedstocks/pythia-datasets
 	branch = refs/heads/master
+[submodule "dttxml"]
+	url = https://github.com/conda-forge/dttxml-feedstock.git
+	path = feedstocks/dttxml
+	branch = refs/heads/master
