@@ -55578,3 +55578,7 @@
 	url = https://github.com/conda-forge/kaolin-feedstock.git
 	path = feedstocks/kaolin
 	branch = refs/heads/master
+[submodule "r-robusthd"]
+	url = https://github.com/conda-forge/r-robusthd-feedstock.git
+	path = feedstocks/r-robusthd
+	branch = refs/heads/master
