@@ -55582,3 +55582,7 @@
 	url = https://github.com/conda-forge/r-robusthd-feedstock.git
 	path = feedstocks/r-robusthd
 	branch = refs/heads/master
+[submodule "seedbank"]
+	url = https://github.com/conda-forge/seedbank-feedstock.git
+	path = feedstocks/seedbank
+	branch = refs/heads/master
