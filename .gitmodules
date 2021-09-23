@@ -55598,3 +55598,7 @@
 	url = https://github.com/conda-forge/hck-feedstock.git
 	path = feedstocks/hck
 	branch = refs/heads/master
+[submodule "crabz"]
+	url = https://github.com/conda-forge/crabz-feedstock.git
+	path = feedstocks/crabz
+	branch = refs/heads/master
