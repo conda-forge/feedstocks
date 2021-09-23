@@ -55586,3 +55586,7 @@
 	url = https://github.com/conda-forge/seedbank-feedstock.git
 	path = feedstocks/seedbank
 	branch = refs/heads/master
+[submodule "drf-spectacular"]
+	url = https://github.com/conda-forge/drf-spectacular-feedstock.git
+	path = feedstocks/drf-spectacular
+	branch = refs/heads/master
