@@ -55662,3 +55662,7 @@
 	url = https://github.com/conda-forge/cuda-python-feedstock.git
 	path = feedstocks/cuda-python
 	branch = refs/heads/master
+[submodule "r-fontawesome"]
+	url = https://github.com/conda-forge/r-fontawesome-feedstock.git
+	path = feedstocks/r-fontawesome
+	branch = refs/heads/master
