@@ -55650,3 +55650,7 @@
 	url = https://github.com/conda-forge/delimited-protobuf-feedstock.git
 	path = feedstocks/delimited-protobuf
 	branch = refs/heads/master
+[submodule "jupyterlab-code-snippets"]
+	url = https://github.com/conda-forge/jupyterlab-code-snippets-feedstock.git
+	path = feedstocks/jupyterlab-code-snippets
+	branch = refs/heads/master
