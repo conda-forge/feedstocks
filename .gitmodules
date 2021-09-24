@@ -55626,3 +55626,7 @@
 	url = https://github.com/conda-forge/zlib-ng-feedstock.git
 	path = feedstocks/zlib-ng
 	branch = refs/heads/master
+[submodule "orange3-survival-analysis"]
+	url = https://github.com/conda-forge/orange3-survival-analysis-feedstock.git
+	path = feedstocks/orange3-survival-analysis
+	branch = refs/heads/master
