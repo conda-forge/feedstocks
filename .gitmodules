@@ -55670,3 +55670,7 @@
 	url = https://github.com/conda-forge/readlif-feedstock.git
 	path = feedstocks/readlif
 	branch = refs/heads/master
+[submodule "pycld2"]
+	url = https://github.com/conda-forge/pycld2-feedstock.git
+	path = feedstocks/pycld2
+	branch = refs/heads/master
