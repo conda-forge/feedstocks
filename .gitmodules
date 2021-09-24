@@ -55658,3 +55658,7 @@
 	url = https://github.com/conda-forge/ptplot-feedstock.git
 	path = feedstocks/ptplot
 	branch = refs/heads/master
+[submodule "cuda-python"]
+	url = https://github.com/conda-forge/cuda-python-feedstock.git
+	path = feedstocks/cuda-python
+	branch = refs/heads/master
