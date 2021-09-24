@@ -55618,3 +55618,7 @@
 	url = https://github.com/conda-forge/orange3-associate-feedstock.git
 	path = feedstocks/orange3-associate
 	branch = refs/heads/master
+[submodule "bioformats_jar"]
+	url = https://github.com/conda-forge/bioformats_jar-feedstock.git
+	path = feedstocks/bioformats_jar
+	branch = refs/heads/master
