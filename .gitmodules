@@ -55674,3 +55674,7 @@
 	url = https://github.com/conda-forge/pycld2-feedstock.git
 	path = feedstocks/pycld2
 	branch = refs/heads/master
+[submodule "crest"]
+	url = https://github.com/conda-forge/crest-feedstock.git
+	path = feedstocks/crest
+	branch = refs/heads/master
