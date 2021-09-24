@@ -55642,3 +55642,7 @@
 	url = https://github.com/conda-forge/spyndex-feedstock.git
 	path = feedstocks/spyndex
 	branch = refs/heads/master
+[submodule "jupyterlab-plugin-graph"]
+	url = https://github.com/conda-forge/jupyterlab-plugin-graph-feedstock.git
+	path = feedstocks/jupyterlab-plugin-graph
+	branch = refs/heads/master
