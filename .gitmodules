@@ -55614,3 +55614,7 @@
 	url = https://github.com/conda-forge/orange3-prototypes-feedstock.git
 	path = feedstocks/orange3-prototypes
 	branch = refs/heads/master
+[submodule "orange3-associate"]
+	url = https://github.com/conda-forge/orange3-associate-feedstock.git
+	path = feedstocks/orange3-associate
+	branch = refs/heads/master
