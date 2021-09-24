@@ -55606,3 +55606,7 @@
 	url = https://github.com/conda-forge/fps-uvicorn-feedstock.git
 	path = feedstocks/fps-uvicorn
 	branch = refs/heads/master
+[submodule "just"]
+	url = https://github.com/conda-forge/just-feedstock.git
+	path = feedstocks/just
+	branch = refs/heads/master
