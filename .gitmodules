@@ -55654,3 +55654,7 @@
 	url = https://github.com/conda-forge/jupyterlab-code-snippets-feedstock.git
 	path = feedstocks/jupyterlab-code-snippets
 	branch = refs/heads/master
+[submodule "ptplot"]
+	url = https://github.com/conda-forge/ptplot-feedstock.git
+	path = feedstocks/ptplot
+	branch = refs/heads/master
