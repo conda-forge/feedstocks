@@ -55622,3 +55622,7 @@
 	url = https://github.com/conda-forge/bioformats_jar-feedstock.git
 	path = feedstocks/bioformats_jar
 	branch = refs/heads/master
+[submodule "zlib-ng"]
+	url = https://github.com/conda-forge/zlib-ng-feedstock.git
+	path = feedstocks/zlib-ng
+	branch = refs/heads/master
