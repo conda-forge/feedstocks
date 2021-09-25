@@ -55698,3 +55698,7 @@
 	url = https://github.com/conda-forge/pythonfinder-feedstock.git
 	path = feedstocks/pythonfinder
 	branch = refs/heads/master
+[submodule "km3db"]
+	url = https://github.com/conda-forge/km3db-feedstock.git
+	path = feedstocks/km3db
+	branch = refs/heads/master
