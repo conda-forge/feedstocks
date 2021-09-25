@@ -55678,3 +55678,7 @@
 	url = https://github.com/conda-forge/crest-feedstock.git
 	path = feedstocks/crest
 	branch = refs/heads/master
+[submodule "cdk"]
+	url = https://github.com/conda-forge/cdk-feedstock.git
+	path = feedstocks/cdk
+	branch = refs/heads/master
