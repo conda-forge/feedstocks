@@ -55706,3 +55706,7 @@
 	url = https://github.com/conda-forge/pdm-feedstock.git
 	path = feedstocks/pdm
 	branch = refs/heads/master
+[submodule "atoml"]
+	url = https://github.com/conda-forge/atoml-feedstock.git
+	path = feedstocks/atoml
+	branch = refs/heads/master
