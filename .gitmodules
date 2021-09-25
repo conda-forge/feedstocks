@@ -55682,3 +55682,7 @@
 	url = https://github.com/conda-forge/cdk-feedstock.git
 	path = feedstocks/cdk
 	branch = refs/heads/master
+[submodule "km3io"]
+	url = https://github.com/conda-forge/km3io-feedstock.git
+	path = feedstocks/km3io
+	branch = refs/heads/master
