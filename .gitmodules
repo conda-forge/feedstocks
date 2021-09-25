@@ -55686,3 +55686,7 @@
 	url = https://github.com/conda-forge/km3io-feedstock.git
 	path = feedstocks/km3io
 	branch = refs/heads/master
+[submodule "python-installer"]
+	url = https://github.com/conda-forge/python-installer-feedstock.git
+	path = feedstocks/python-installer
+	branch = refs/heads/master
