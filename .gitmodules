@@ -55710,3 +55710,7 @@
 	url = https://github.com/conda-forge/atoml-feedstock.git
 	path = feedstocks/atoml
 	branch = refs/heads/master
+[submodule "r-rbiom"]
+	url = https://github.com/conda-forge/r-rbiom-feedstock.git
+	path = feedstocks/r-rbiom
+	branch = refs/heads/master
