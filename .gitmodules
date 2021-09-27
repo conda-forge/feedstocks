@@ -55734,3 +55734,7 @@
 	url = https://github.com/conda-forge/rpbasicdesign-feedstock.git
 	path = feedstocks/rpbasicdesign
 	branch = refs/heads/master
+[submodule "pinject"]
+	url = https://github.com/conda-forge/pinject-feedstock.git
+	path = feedstocks/pinject
+	branch = refs/heads/master
