@@ -55726,3 +55726,7 @@
 	url = https://github.com/conda-forge/r-scrypt-feedstock.git
 	path = feedstocks/r-scrypt
 	branch = refs/heads/master
+[submodule "thepipe"]
+	url = https://github.com/conda-forge/thepipe-feedstock.git
+	path = feedstocks/thepipe
+	branch = refs/heads/master
