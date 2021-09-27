@@ -55722,3 +55722,7 @@
 	url = https://github.com/conda-forge/cwcwidth-feedstock.git
 	path = feedstocks/cwcwidth
 	branch = refs/heads/master
+[submodule "r-scrypt"]
+	url = https://github.com/conda-forge/r-scrypt-feedstock.git
+	path = feedstocks/r-scrypt
+	branch = refs/heads/master
