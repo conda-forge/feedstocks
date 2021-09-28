@@ -55770,3 +55770,7 @@
 	url = https://github.com/conda-forge/textual-feedstock.git
 	path = feedstocks/textual
 	branch = refs/heads/master
+[submodule "esparto"]
+	url = https://github.com/conda-forge/esparto-feedstock.git
+	path = feedstocks/esparto
+	branch = refs/heads/master
