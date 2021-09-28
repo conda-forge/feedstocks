@@ -55778,3 +55778,7 @@
 	url = https://github.com/conda-forge/rhizopus-feedstock.git
 	path = feedstocks/rhizopus
 	branch = refs/heads/master
+[submodule "aehmc"]
+	url = https://github.com/conda-forge/aehmc-feedstock.git
+	path = feedstocks/aehmc
+	branch = refs/heads/master
