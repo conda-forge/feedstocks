@@ -55758,3 +55758,7 @@
 	url = https://github.com/conda-forge/fundamentals-feedstock.git
 	path = feedstocks/fundamentals
 	branch = refs/heads/master
+[submodule "bioimageio.core"]
+	url = https://github.com/conda-forge/bioimageio.core-feedstock.git
+	path = feedstocks/bioimageio.core
+	branch = refs/heads/master
