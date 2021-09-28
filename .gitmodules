@@ -55738,3 +55738,7 @@
 	url = https://github.com/conda-forge/pinject-feedstock.git
 	path = feedstocks/pinject
 	branch = refs/heads/master
+[submodule "redis-server"]
+	url = https://github.com/conda-forge/redis-server-feedstock.git
+	path = feedstocks/redis-server
+	branch = refs/heads/master
