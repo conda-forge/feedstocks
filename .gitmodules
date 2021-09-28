@@ -55766,3 +55766,7 @@
 	url = https://github.com/conda-forge/r-heavy-feedstock.git
 	path = feedstocks/r-heavy
 	branch = refs/heads/master
+[submodule "textual"]
+	url = https://github.com/conda-forge/textual-feedstock.git
+	path = feedstocks/textual
+	branch = refs/heads/master
