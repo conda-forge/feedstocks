@@ -55746,3 +55746,7 @@
 	url = https://github.com/conda-forge/r-shinymanager-feedstock.git
 	path = feedstocks/r-shinymanager
 	branch = refs/heads/master
+[submodule "r-fsa"]
+	url = https://github.com/conda-forge/r-fsa-feedstock.git
+	path = feedstocks/r-fsa
+	branch = refs/heads/master
