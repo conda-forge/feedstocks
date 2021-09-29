@@ -55802,3 +55802,7 @@
 	url = https://github.com/conda-forge/salesforce-merlion-feedstock.git
 	path = feedstocks/salesforce-merlion
 	branch = refs/heads/master
+[submodule "setuptools-github"]
+	url = https://github.com/conda-forge/setuptools-github-feedstock.git
+	path = feedstocks/setuptools-github
+	branch = refs/heads/master
