@@ -55790,3 +55790,7 @@
 	url = https://github.com/conda-forge/r-beepr-feedstock.git
 	path = feedstocks/r-beepr
 	branch = refs/heads/master
+[submodule "pybis"]
+	url = https://github.com/conda-forge/pybis-feedstock.git
+	path = feedstocks/pybis
+	branch = refs/heads/master
