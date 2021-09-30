@@ -55854,3 +55854,7 @@
 	url = https://github.com/conda-forge/fints-feedstock.git
 	path = feedstocks/fints
 	branch = refs/heads/master
+[submodule "sepaxml"]
+	url = https://github.com/conda-forge/sepaxml-feedstock.git
+	path = feedstocks/sepaxml
+	branch = refs/heads/master
