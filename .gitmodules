@@ -55826,3 +55826,7 @@
 	url = https://github.com/conda-forge/cmec_driver-feedstock.git
 	path = feedstocks/cmec_driver
 	branch = refs/heads/master
+[submodule "zc.recipe.egg"]
+	url = https://github.com/conda-forge/zc.recipe.egg-feedstock.git
+	path = feedstocks/zc.recipe.egg
+	branch = refs/heads/master
