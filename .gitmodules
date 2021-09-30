@@ -55830,3 +55830,7 @@
 	url = https://github.com/conda-forge/zc.recipe.egg-feedstock.git
 	path = feedstocks/zc.recipe.egg
 	branch = refs/heads/master
+[submodule "venv-kernel"]
+	url = https://github.com/conda-forge/venv-kernel-feedstock.git
+	path = feedstocks/venv-kernel
+	branch = refs/heads/master
