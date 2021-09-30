@@ -55882,3 +55882,7 @@
 	url = https://github.com/conda-forge/homeassistant-feedstock.git
 	path = feedstocks/homeassistant
 	branch = refs/heads/master
+[submodule "envkernel"]
+	url = https://github.com/conda-forge/envkernel-feedstock.git
+	path = feedstocks/envkernel
+	branch = refs/heads/master
