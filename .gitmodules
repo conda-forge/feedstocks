@@ -55886,3 +55886,7 @@
 	url = https://github.com/conda-forge/envkernel-feedstock.git
 	path = feedstocks/envkernel
 	branch = refs/heads/master
+[submodule "voluptuous-serialize"]
+	url = https://github.com/conda-forge/voluptuous-serialize-feedstock.git
+	path = feedstocks/voluptuous-serialize
+	branch = refs/heads/master
