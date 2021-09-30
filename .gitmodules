@@ -55850,3 +55850,7 @@
 	url = https://github.com/conda-forge/serde-feedstock.git
 	path = feedstocks/serde
 	branch = refs/heads/master
+[submodule "fints"]
+	url = https://github.com/conda-forge/fints-feedstock.git
+	path = feedstocks/fints
+	branch = refs/heads/master
