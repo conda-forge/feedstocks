@@ -55878,3 +55878,7 @@
 	url = https://github.com/conda-forge/libnsl-feedstock.git
 	path = feedstocks/libnsl
 	branch = refs/heads/master
+[submodule "homeassistant"]
+	url = https://github.com/conda-forge/homeassistant-feedstock.git
+	path = feedstocks/homeassistant
+	branch = refs/heads/master
