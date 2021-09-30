@@ -55874,3 +55874,7 @@
 	url = https://github.com/conda-forge/mag2exp-feedstock.git
 	path = feedstocks/mag2exp
 	branch = refs/heads/master
+[submodule "libnsl"]
+	url = https://github.com/conda-forge/libnsl-feedstock.git
+	path = feedstocks/libnsl
+	branch = refs/heads/master
