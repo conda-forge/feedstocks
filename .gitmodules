@@ -55814,3 +55814,7 @@
 	url = https://github.com/conda-forge/enterprise_extensions-feedstock.git
 	path = feedstocks/enterprise_extensions
 	branch = refs/heads/master
+[submodule "r-polca"]
+	url = https://github.com/conda-forge/r-polca-feedstock.git
+	path = feedstocks/r-polca
+	branch = refs/heads/master
