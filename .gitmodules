@@ -55818,3 +55818,7 @@
 	url = https://github.com/conda-forge/r-polca-feedstock.git
 	path = feedstocks/r-polca
 	branch = refs/heads/master
+[submodule "zc.buildout"]
+	url = https://github.com/conda-forge/zc.buildout-feedstock.git
+	path = feedstocks/zc.buildout
+	branch = refs/heads/master
