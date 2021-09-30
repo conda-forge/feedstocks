@@ -55866,3 +55866,7 @@
 	url = https://github.com/conda-forge/illusionist-feedstock.git
 	path = feedstocks/illusionist
 	branch = refs/heads/master
+[submodule "sse-starlette"]
+	url = https://github.com/conda-forge/sse-starlette-feedstock.git
+	path = feedstocks/sse-starlette
+	branch = refs/heads/master
