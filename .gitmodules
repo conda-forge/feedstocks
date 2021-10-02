@@ -55910,3 +55910,7 @@
 	url = https://github.com/conda-forge/psygnal-feedstock.git
 	path = feedstocks/psygnal
 	branch = refs/heads/master
+[submodule "ssh_ipykernel_interrupt"]
+	url = https://github.com/conda-forge/ssh_ipykernel_interrupt-feedstock.git
+	path = feedstocks/ssh_ipykernel_interrupt
+	branch = refs/heads/master
