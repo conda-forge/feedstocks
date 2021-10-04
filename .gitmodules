@@ -55946,3 +55946,7 @@
 	url = https://github.com/conda-forge/fastapi-users-feedstock.git
 	path = feedstocks/fastapi-users
 	branch = refs/heads/master
+[submodule "acme-tiny"]
+	url = https://github.com/conda-forge/acme-tiny-feedstock.git
+	path = feedstocks/acme-tiny
+	branch = refs/heads/master
