@@ -55926,3 +55926,7 @@
 	url = https://github.com/conda-forge/csvdiff-feedstock.git
 	path = feedstocks/csvdiff
 	branch = refs/heads/master
+[submodule "pytube"]
+	url = https://github.com/conda-forge/pytube-feedstock.git
+	path = feedstocks/pytube
+	branch = refs/heads/master
