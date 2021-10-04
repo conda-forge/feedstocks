@@ -55942,3 +55942,7 @@
 	url = https://github.com/conda-forge/brs_utils-feedstock.git
 	path = feedstocks/brs_utils
 	branch = refs/heads/master
+[submodule "fastapi-users"]
+	url = https://github.com/conda-forge/fastapi-users-feedstock.git
+	path = feedstocks/fastapi-users
+	branch = refs/heads/master
