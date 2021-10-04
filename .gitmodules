@@ -55930,3 +55930,7 @@
 	url = https://github.com/conda-forge/pytube-feedstock.git
 	path = feedstocks/pytube
 	branch = refs/heads/master
+[submodule "aiotube"]
+	url = https://github.com/conda-forge/aiotube-feedstock.git
+	path = feedstocks/aiotube
+	branch = refs/heads/master
