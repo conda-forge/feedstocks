@@ -55914,3 +55914,7 @@
 	url = https://github.com/conda-forge/ssh_ipykernel_interrupt-feedstock.git
 	path = feedstocks/ssh_ipykernel_interrupt
 	branch = refs/heads/master
+[submodule "robyn"]
+	url = https://github.com/conda-forge/robyn-feedstock.git
+	path = feedstocks/robyn
+	branch = refs/heads/master
