@@ -55938,3 +55938,7 @@
 	url = https://github.com/conda-forge/r-r6p-feedstock.git
 	path = feedstocks/r-r6p
 	branch = refs/heads/master
+[submodule "brs_utils"]
+	url = https://github.com/conda-forge/brs_utils-feedstock.git
+	path = feedstocks/brs_utils
+	branch = refs/heads/master
