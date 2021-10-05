@@ -56046,3 +56046,7 @@
 	url = https://github.com/conda-forge/plusplus-feedstock.git
 	path = feedstocks/plusplus
 	branch = refs/heads/master
+[submodule "masci-tools"]
+	url = https://github.com/conda-forge/masci-tools-feedstock.git
+	path = feedstocks/masci-tools
+	branch = refs/heads/master
