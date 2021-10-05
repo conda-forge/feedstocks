@@ -56010,3 +56010,7 @@
 	url = https://github.com/conda-forge/libusb1-feedstock.git
 	path = feedstocks/libusb1
 	branch = refs/heads/master
+[submodule "mvt"]
+	url = https://github.com/conda-forge/mvt-feedstock.git
+	path = feedstocks/mvt
+	branch = refs/heads/master
