@@ -56030,3 +56030,7 @@
 	url = https://github.com/conda-forge/tsase-feedstock.git
 	path = feedstocks/tsase
 	branch = refs/heads/master
+[submodule "pytest-doctest-ufunc"]
+	url = https://github.com/conda-forge/pytest-doctest-ufunc-feedstock.git
+	path = feedstocks/pytest-doctest-ufunc
+	branch = refs/heads/master
