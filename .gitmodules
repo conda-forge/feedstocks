@@ -55958,3 +55958,7 @@
 	url = https://github.com/conda-forge/tld-feedstock.git
 	path = feedstocks/tld
 	branch = refs/heads/master
+[submodule "adb-shell"]
+	url = https://github.com/conda-forge/adb-shell-feedstock.git
+	path = feedstocks/adb-shell
+	branch = refs/heads/master
