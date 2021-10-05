@@ -56018,3 +56018,7 @@
 	url = https://github.com/conda-forge/vina-feedstock.git
 	path = feedstocks/vina
 	branch = refs/heads/master
+[submodule "mpire"]
+	url = https://github.com/conda-forge/mpire-feedstock.git
+	path = feedstocks/mpire
+	branch = refs/heads/master
