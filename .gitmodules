@@ -56026,3 +56026,7 @@
 	url = https://github.com/conda-forge/chemlite-feedstock.git
 	path = feedstocks/chemlite
 	branch = refs/heads/master
+[submodule "tsase"]
+	url = https://github.com/conda-forge/tsase-feedstock.git
+	path = feedstocks/tsase
+	branch = refs/heads/master
