@@ -56022,3 +56022,7 @@
 	url = https://github.com/conda-forge/mpire-feedstock.git
 	path = feedstocks/mpire
 	branch = refs/heads/master
+[submodule "chemlite"]
+	url = https://github.com/conda-forge/chemlite-feedstock.git
+	path = feedstocks/chemlite
+	branch = refs/heads/master
