@@ -55962,3 +55962,7 @@
 	url = https://github.com/conda-forge/adb-shell-feedstock.git
 	path = feedstocks/adb-shell
 	branch = refs/heads/master
+[submodule "pycoingecko"]
+	url = https://github.com/conda-forge/pycoingecko-feedstock.git
+	path = feedstocks/pycoingecko
+	branch = refs/heads/master
