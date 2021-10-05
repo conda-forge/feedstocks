@@ -56058,3 +56058,7 @@
 	url = https://github.com/conda-forge/objexplore-feedstock.git
 	path = feedstocks/objexplore
 	branch = refs/heads/master
+[submodule "qpd"]
+	url = https://github.com/conda-forge/qpd-feedstock.git
+	path = feedstocks/qpd
+	branch = refs/heads/master
