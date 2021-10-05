@@ -55974,3 +55974,7 @@
 	url = https://github.com/conda-forge/technical-feedstock.git
 	path = feedstocks/technical
 	branch = refs/heads/master
+[submodule "pandas-ta"]
+	url = https://github.com/conda-forge/pandas-ta-feedstock.git
+	path = feedstocks/pandas-ta
+	branch = refs/heads/master
