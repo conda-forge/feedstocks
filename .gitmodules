@@ -56066,3 +56066,7 @@
 	url = https://github.com/conda-forge/stare-feedstock.git
 	path = feedstocks/stare
 	branch = refs/heads/master
+[submodule "adc-streaming"]
+	url = https://github.com/conda-forge/adc-streaming-feedstock.git
+	path = feedstocks/adc-streaming
+	branch = refs/heads/master
