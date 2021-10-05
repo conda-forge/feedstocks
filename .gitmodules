@@ -55950,3 +55950,7 @@
 	url = https://github.com/conda-forge/acme-tiny-feedstock.git
 	path = feedstocks/acme-tiny
 	branch = refs/heads/master
+[submodule "pure-python-adb"]
+	url = https://github.com/conda-forge/pure-python-adb-feedstock.git
+	path = feedstocks/pure-python-adb
+	branch = refs/heads/master
