@@ -56006,3 +56006,7 @@
 	url = https://github.com/conda-forge/pyratlib-feedstock.git
 	path = feedstocks/pyratlib
 	branch = refs/heads/master
+[submodule "libusb1"]
+	url = https://github.com/conda-forge/libusb1-feedstock.git
+	path = feedstocks/libusb1
+	branch = refs/heads/master
