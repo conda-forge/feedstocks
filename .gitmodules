@@ -56062,3 +56062,7 @@
 	url = https://github.com/conda-forge/qpd-feedstock.git
 	path = feedstocks/qpd
 	branch = refs/heads/master
+[submodule "stare"]
+	url = https://github.com/conda-forge/stare-feedstock.git
+	path = feedstocks/stare
+	branch = refs/heads/master
