@@ -56142,3 +56142,7 @@
 	url = https://github.com/conda-forge/jazal-feedstock.git
 	path = feedstocks/jazal
 	branch = refs/heads/master
+[submodule "wexpect"]
+	url = https://github.com/conda-forge/wexpect-feedstock.git
+	path = feedstocks/wexpect
+	branch = refs/heads/master
