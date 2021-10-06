@@ -56118,3 +56118,7 @@
 	url = https://github.com/conda-forge/rr_cache-feedstock.git
 	path = feedstocks/rr_cache
 	branch = refs/heads/master
+[submodule "rrparser"]
+	url = https://github.com/conda-forge/rrparser-feedstock.git
+	path = feedstocks/rrparser
+	branch = refs/heads/master
