@@ -56122,3 +56122,7 @@
 	url = https://github.com/conda-forge/rrparser-feedstock.git
 	path = feedstocks/rrparser
 	branch = refs/heads/master
+[submodule "fugue"]
+	url = https://github.com/conda-forge/fugue-feedstock.git
+	path = feedstocks/fugue
+	branch = refs/heads/master
