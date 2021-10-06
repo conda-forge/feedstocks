@@ -56110,3 +56110,7 @@
 	url = https://github.com/conda-forge/pyroute2-feedstock.git
 	path = feedstocks/pyroute2
 	branch = refs/heads/master
+[submodule "pyshark"]
+	url = https://github.com/conda-forge/pyshark-feedstock.git
+	path = feedstocks/pyshark
+	branch = refs/heads/master
