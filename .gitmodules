@@ -56102,3 +56102,7 @@
 	url = https://github.com/conda-forge/distcc-feedstock.git
 	path = feedstocks/distcc
 	branch = refs/heads/master
+[submodule "pynufft"]
+	url = https://github.com/conda-forge/pynufft-feedstock.git
+	path = feedstocks/pynufft
+	branch = refs/heads/master
