@@ -56126,3 +56126,7 @@
 	url = https://github.com/conda-forge/fugue-feedstock.git
 	path = feedstocks/fugue
 	branch = refs/heads/master
+[submodule "imia"]
+	url = https://github.com/conda-forge/imia-feedstock.git
+	path = feedstocks/imia
+	branch = refs/heads/master
