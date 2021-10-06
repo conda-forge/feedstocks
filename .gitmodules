@@ -56154,3 +56154,7 @@
 	url = https://github.com/conda-forge/py-xid-feedstock.git
 	path = feedstocks/py-xid
 	branch = refs/heads/master
+[submodule "sqlfluff"]
+	url = https://github.com/conda-forge/sqlfluff-feedstock.git
+	path = feedstocks/sqlfluff
+	branch = refs/heads/master
