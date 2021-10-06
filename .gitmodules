@@ -56098,3 +56098,7 @@
 	url = https://github.com/conda-forge/podofo-feedstock.git
 	path = feedstocks/podofo
 	branch = refs/heads/master
+[submodule "distcc"]
+	url = https://github.com/conda-forge/distcc-feedstock.git
+	path = feedstocks/distcc
+	branch = refs/heads/master
