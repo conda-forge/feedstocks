@@ -56094,3 +56094,7 @@
 	url = https://github.com/conda-forge/sane-feedstock.git
 	path = feedstocks/sane
 	branch = refs/heads/master
+[submodule "podofo"]
+	url = https://github.com/conda-forge/podofo-feedstock.git
+	path = feedstocks/podofo
+	branch = refs/heads/master
