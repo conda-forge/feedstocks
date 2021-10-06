@@ -56106,3 +56106,7 @@
 	url = https://github.com/conda-forge/pynufft-feedstock.git
 	path = feedstocks/pynufft
 	branch = refs/heads/master
+[submodule "pyroute2"]
+	url = https://github.com/conda-forge/pyroute2-feedstock.git
+	path = feedstocks/pyroute2
+	branch = refs/heads/master
