@@ -56146,3 +56146,7 @@
 	url = https://github.com/conda-forge/wexpect-feedstock.git
 	path = feedstocks/wexpect
 	branch = refs/heads/master
+[submodule "runtype"]
+	url = https://github.com/conda-forge/runtype-feedstock.git
+	path = feedstocks/runtype
+	branch = refs/heads/master
