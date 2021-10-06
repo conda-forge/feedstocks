@@ -56090,3 +56090,7 @@
 	url = https://github.com/conda-forge/djvulibre-feedstock.git
 	path = feedstocks/djvulibre
 	branch = refs/heads/master
+[submodule "sane"]
+	url = https://github.com/conda-forge/sane-feedstock.git
+	path = feedstocks/sane
+	branch = refs/heads/master
