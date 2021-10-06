@@ -56114,3 +56114,7 @@
 	url = https://github.com/conda-forge/pyshark-feedstock.git
 	path = feedstocks/pyshark
 	branch = refs/heads/master
+[submodule "rr_cache"]
+	url = https://github.com/conda-forge/rr_cache-feedstock.git
+	path = feedstocks/rr_cache
+	branch = refs/heads/master
