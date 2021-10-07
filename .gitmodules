@@ -56230,3 +56230,7 @@
 	url = https://github.com/conda-forge/botocore-stubs-feedstock.git
 	path = feedstocks/botocore-stubs
 	branch = refs/heads/master
+[submodule "arsenic"]
+	url = https://github.com/conda-forge/arsenic-feedstock.git
+	path = feedstocks/arsenic
+	branch = refs/heads/master
