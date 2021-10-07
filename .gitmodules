@@ -56186,3 +56186,7 @@
 	url = https://github.com/conda-forge/pyan3-feedstock.git
 	path = feedstocks/pyan3
 	branch = refs/heads/master
+[submodule "validator-collection"]
+	url = https://github.com/conda-forge/validator-collection-feedstock.git
+	path = feedstocks/validator-collection
+	branch = refs/heads/master
