@@ -56226,3 +56226,7 @@
 	url = https://github.com/conda-forge/qibo-feedstock.git
 	path = feedstocks/qibo
 	branch = refs/heads/master
+[submodule "botocore-stubs"]
+	url = https://github.com/conda-forge/botocore-stubs-feedstock.git
+	path = feedstocks/botocore-stubs
+	branch = refs/heads/master
