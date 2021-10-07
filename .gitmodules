@@ -56162,3 +56162,7 @@
 	url = https://github.com/conda-forge/pypickle-feedstock.git
 	path = feedstocks/pypickle
 	branch = refs/heads/master
+[submodule "adb"]
+	url = https://github.com/conda-forge/adb-feedstock.git
+	path = feedstocks/adb
+	branch = refs/heads/master
