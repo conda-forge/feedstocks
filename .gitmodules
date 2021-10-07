@@ -56190,3 +56190,7 @@
 	url = https://github.com/conda-forge/validator-collection-feedstock.git
 	path = feedstocks/validator-collection
 	branch = refs/heads/master
+[submodule "pygix"]
+	url = https://github.com/conda-forge/pygix-feedstock.git
+	path = feedstocks/pygix
+	branch = refs/heads/master
