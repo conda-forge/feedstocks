@@ -56170,3 +56170,7 @@
 	url = https://github.com/conda-forge/pytomlpp-feedstock.git
 	path = feedstocks/pytomlpp
 	branch = refs/heads/master
+[submodule "coverage-conditional-plugin"]
+	url = https://github.com/conda-forge/coverage-conditional-plugin-feedstock.git
+	path = feedstocks/coverage-conditional-plugin
+	branch = refs/heads/master
