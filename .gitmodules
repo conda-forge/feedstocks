@@ -56210,3 +56210,7 @@
 	url = https://github.com/conda-forge/pyworld-feedstock.git
 	path = feedstocks/pyworld
 	branch = refs/heads/master
+[submodule "eacc"]
+	url = https://github.com/conda-forge/eacc-feedstock.git
+	path = feedstocks/eacc
+	branch = refs/heads/master
