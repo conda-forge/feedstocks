@@ -56174,3 +56174,7 @@
 	url = https://github.com/conda-forge/coverage-conditional-plugin-feedstock.git
 	path = feedstocks/coverage-conditional-plugin
 	branch = refs/heads/master
+[submodule "langcodes"]
+	url = https://github.com/conda-forge/langcodes-feedstock.git
+	path = feedstocks/langcodes
+	branch = refs/heads/master
