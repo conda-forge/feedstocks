@@ -56166,3 +56166,7 @@
 	url = https://github.com/conda-forge/adb-feedstock.git
 	path = feedstocks/adb
 	branch = refs/heads/master
+[submodule "pytomlpp"]
+	url = https://github.com/conda-forge/pytomlpp-feedstock.git
+	path = feedstocks/pytomlpp
+	branch = refs/heads/master
