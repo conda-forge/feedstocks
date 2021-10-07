@@ -56218,3 +56218,7 @@
 	url = https://github.com/conda-forge/r-spacefillr-feedstock.git
 	path = feedstocks/r-spacefillr
 	branch = refs/heads/master
+[submodule "bluesky-httpserver"]
+	url = https://github.com/conda-forge/bluesky-httpserver-feedstock.git
+	path = feedstocks/bluesky-httpserver
+	branch = refs/heads/master
