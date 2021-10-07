@@ -56194,3 +56194,7 @@
 	url = https://github.com/conda-forge/pygix-feedstock.git
 	path = feedstocks/pygix
 	branch = refs/heads/master
+[submodule "tabmat"]
+	url = https://github.com/conda-forge/tabmat-feedstock.git
+	path = feedstocks/tabmat
+	branch = refs/heads/master
