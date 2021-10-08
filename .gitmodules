@@ -56246,3 +56246,7 @@
 	url = https://github.com/conda-forge/datacommons-feedstock.git
 	path = feedstocks/datacommons
 	branch = refs/heads/master
+[submodule "pypinyin"]
+	url = https://github.com/conda-forge/pypinyin-feedstock.git
+	path = feedstocks/pypinyin
+	branch = refs/heads/master
