@@ -56242,3 +56242,7 @@
 	url = https://github.com/conda-forge/gruut-ipa-feedstock.git
 	path = feedstocks/gruut-ipa
 	branch = refs/heads/master
+[submodule "datacommons"]
+	url = https://github.com/conda-forge/datacommons-feedstock.git
+	path = feedstocks/datacommons
+	branch = refs/heads/master
