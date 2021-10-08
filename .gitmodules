@@ -56254,3 +56254,7 @@
 	url = https://github.com/conda-forge/sahi-feedstock.git
 	path = feedstocks/sahi
 	branch = refs/heads/master
+[submodule "datacommons_pandas"]
+	url = https://github.com/conda-forge/datacommons_pandas-feedstock.git
+	path = feedstocks/datacommons_pandas
+	branch = refs/heads/master
