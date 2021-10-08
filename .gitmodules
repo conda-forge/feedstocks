@@ -56274,3 +56274,7 @@
 	url = https://github.com/conda-forge/jupyterlab-wipp-feedstock.git
 	path = feedstocks/jupyterlab-wipp
 	branch = refs/heads/master
+[submodule "htm-pytorch"]
+	url = https://github.com/conda-forge/htm-pytorch-feedstock.git
+	path = feedstocks/htm-pytorch
+	branch = refs/heads/master
