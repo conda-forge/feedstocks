@@ -56266,3 +56266,7 @@
 	url = https://github.com/conda-forge/glum-feedstock.git
 	path = feedstocks/glum
 	branch = refs/heads/master
+[submodule "pydiso"]
+	url = https://github.com/conda-forge/pydiso-feedstock.git
+	path = feedstocks/pydiso
+	branch = refs/heads/master
