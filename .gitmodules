@@ -56270,3 +56270,7 @@
 	url = https://github.com/conda-forge/pydiso-feedstock.git
 	path = feedstocks/pydiso
 	branch = refs/heads/master
+[submodule "jupyterlab-wipp"]
+	url = https://github.com/conda-forge/jupyterlab-wipp-feedstock.git
+	path = feedstocks/jupyterlab-wipp
+	branch = refs/heads/master
