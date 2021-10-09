@@ -56286,3 +56286,7 @@
 	url = https://github.com/conda-forge/r-decido-feedstock.git
 	path = feedstocks/r-decido
 	branch = refs/heads/master
+[submodule "r-licors"]
+	url = https://github.com/conda-forge/r-licors-feedstock.git
+	path = feedstocks/r-licors
+	branch = refs/heads/master
