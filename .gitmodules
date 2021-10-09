@@ -56290,3 +56290,7 @@
 	url = https://github.com/conda-forge/r-licors-feedstock.git
 	path = feedstocks/r-licors
 	branch = refs/heads/master
+[submodule "r-textminer"]
+	url = https://github.com/conda-forge/r-textminer-feedstock.git
+	path = feedstocks/r-textminer
+	branch = refs/heads/master
