@@ -56410,3 +56410,7 @@
 	url = https://github.com/conda-forge/auto-all-feedstock.git
 	path = feedstocks/auto-all
 	branch = refs/heads/master
+[submodule "py-cord"]
+	url = https://github.com/conda-forge/py-cord-feedstock.git
+	path = feedstocks/py-cord
+	branch = refs/heads/master
