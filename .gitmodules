@@ -56350,3 +56350,7 @@
 	url = https://github.com/conda-forge/r-mlergm-feedstock.git
 	path = feedstocks/r-mlergm
 	branch = refs/heads/master
+[submodule "accelerate"]
+	url = https://github.com/conda-forge/accelerate-feedstock.git
+	path = feedstocks/accelerate
+	branch = refs/heads/master
