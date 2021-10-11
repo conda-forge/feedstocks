@@ -56338,3 +56338,7 @@
 	url = https://github.com/conda-forge/iteround-feedstock.git
 	path = feedstocks/iteround
 	branch = refs/heads/master
+[submodule "r-hergm"]
+	url = https://github.com/conda-forge/r-hergm-feedstock.git
+	path = feedstocks/r-hergm
+	branch = refs/heads/master
