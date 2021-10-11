@@ -56390,3 +56390,7 @@
 	url = https://github.com/conda-forge/quantstats-feedstock.git
 	path = feedstocks/quantstats
 	branch = refs/heads/master
+[submodule "resultsanalysis"]
+	url = https://github.com/conda-forge/resultsanalysis-feedstock.git
+	path = feedstocks/resultsanalysis
+	branch = refs/heads/master
