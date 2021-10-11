@@ -56318,3 +56318,7 @@
 	url = https://github.com/conda-forge/puresolventinformation-feedstock.git
 	path = feedstocks/puresolventinformation
 	branch = refs/heads/master
+[submodule "jupyter-ui-poll"]
+	url = https://github.com/conda-forge/jupyter-ui-poll-feedstock.git
+	path = feedstocks/jupyter-ui-poll
+	branch = refs/heads/master
