@@ -56326,3 +56326,7 @@
 	url = https://github.com/conda-forge/odc-io-feedstock.git
 	path = feedstocks/odc-io
 	branch = refs/heads/master
+[submodule "odc-stac"]
+	url = https://github.com/conda-forge/odc-stac-feedstock.git
+	path = feedstocks/odc-stac
+	branch = refs/heads/master
