@@ -56418,3 +56418,7 @@
 	url = https://github.com/conda-forge/coqpit-feedstock.git
 	path = feedstocks/coqpit
 	branch = refs/heads/master
+[submodule "pinout"]
+	url = https://github.com/conda-forge/pinout-feedstock.git
+	path = feedstocks/pinout
+	branch = refs/heads/master
