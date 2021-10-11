@@ -56406,3 +56406,7 @@
 	url = https://github.com/conda-forge/pysbd-feedstock.git
 	path = feedstocks/pysbd
 	branch = refs/heads/master
+[submodule "auto-all"]
+	url = https://github.com/conda-forge/auto-all-feedstock.git
+	path = feedstocks/auto-all
+	branch = refs/heads/master
