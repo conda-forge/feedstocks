@@ -56358,3 +56358,7 @@
 	url = https://github.com/conda-forge/json2html-feedstock.git
 	path = feedstocks/json2html
 	branch = refs/heads/master
+[submodule "mdv"]
+	url = https://github.com/conda-forge/mdv-feedstock.git
+	path = feedstocks/mdv
+	branch = refs/heads/master
