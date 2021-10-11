@@ -56422,3 +56422,7 @@
 	url = https://github.com/conda-forge/pinout-feedstock.git
 	path = feedstocks/pinout
 	branch = refs/heads/master
+[submodule "pytef"]
+	url = https://github.com/conda-forge/pytef-feedstock.git
+	path = feedstocks/pytef
+	branch = refs/heads/master
