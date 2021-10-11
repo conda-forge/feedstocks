@@ -56366,3 +56366,7 @@
 	url = https://github.com/conda-forge/flaml-feedstock.git
 	path = feedstocks/flaml
 	branch = refs/heads/master
+[submodule "pkgutil-resolve-name"]
+	url = https://github.com/conda-forge/pkgutil-resolve-name-feedstock.git
+	path = feedstocks/pkgutil-resolve-name
+	branch = refs/heads/master
