@@ -56342,3 +56342,7 @@
 	url = https://github.com/conda-forge/r-hergm-feedstock.git
 	path = feedstocks/r-hergm
 	branch = refs/heads/master
+[submodule "r-latentnet"]
+	url = https://github.com/conda-forge/r-latentnet-feedstock.git
+	path = feedstocks/r-latentnet
+	branch = refs/heads/master
