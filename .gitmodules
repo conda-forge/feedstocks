@@ -56378,3 +56378,7 @@
 	url = https://github.com/conda-forge/lazy_table-feedstock.git
 	path = feedstocks/lazy_table
 	branch = refs/heads/master
+[submodule "morphops"]
+	url = https://github.com/conda-forge/morphops-feedstock.git
+	path = feedstocks/morphops
+	branch = refs/heads/master
