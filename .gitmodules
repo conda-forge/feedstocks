@@ -56362,3 +56362,7 @@
 	url = https://github.com/conda-forge/mdv-feedstock.git
 	path = feedstocks/mdv
 	branch = refs/heads/master
+[submodule "flaml"]
+	url = https://github.com/conda-forge/flaml-feedstock.git
+	path = feedstocks/flaml
+	branch = refs/heads/master
