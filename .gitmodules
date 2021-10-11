@@ -56386,3 +56386,7 @@
 	url = https://github.com/conda-forge/pyminizip-feedstock.git
 	path = feedstocks/pyminizip
 	branch = refs/heads/master
+[submodule "quantstats"]
+	url = https://github.com/conda-forge/quantstats-feedstock.git
+	path = feedstocks/quantstats
+	branch = refs/heads/master
