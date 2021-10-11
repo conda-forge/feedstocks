@@ -56322,3 +56322,7 @@
 	url = https://github.com/conda-forge/jupyter-ui-poll-feedstock.git
 	path = feedstocks/jupyter-ui-poll
 	branch = refs/heads/master
+[submodule "odc-io"]
+	url = https://github.com/conda-forge/odc-io-feedstock.git
+	path = feedstocks/odc-io
+	branch = refs/heads/master
