@@ -56482,3 +56482,7 @@
 	url = https://github.com/conda-forge/lakepy-feedstock.git
 	path = feedstocks/lakepy
 	branch = refs/heads/master
+[submodule "freshwater"]
+	url = https://github.com/conda-forge/freshwater-feedstock.git
+	path = feedstocks/freshwater
+	branch = refs/heads/master
