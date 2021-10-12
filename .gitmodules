@@ -56446,3 +56446,7 @@
 	url = https://github.com/conda-forge/gruut-feedstock.git
 	path = feedstocks/gruut
 	branch = refs/heads/master
+[submodule "r-rayrender"]
+	url = https://github.com/conda-forge/r-rayrender-feedstock.git
+	path = feedstocks/r-rayrender
+	branch = refs/heads/master
