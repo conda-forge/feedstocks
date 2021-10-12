@@ -56486,3 +56486,7 @@
 	url = https://github.com/conda-forge/freshwater-feedstock.git
 	path = feedstocks/freshwater
 	branch = refs/heads/master
+[submodule "pbxproj"]
+	url = https://github.com/conda-forge/pbxproj-feedstock.git
+	path = feedstocks/pbxproj
+	branch = refs/heads/master
