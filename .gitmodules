@@ -56442,3 +56442,7 @@
 	url = https://github.com/conda-forge/starship-feedstock.git
 	path = feedstocks/starship
 	branch = refs/heads/master
+[submodule "gruut"]
+	url = https://github.com/conda-forge/gruut-feedstock.git
+	path = feedstocks/gruut
+	branch = refs/heads/master
