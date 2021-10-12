@@ -56430,3 +56430,7 @@
 	url = https://github.com/conda-forge/openstep-parser-feedstock.git
 	path = feedstocks/openstep-parser
 	branch = refs/heads/master
+[submodule "tensor-sensor"]
+	url = https://github.com/conda-forge/tensor-sensor-feedstock.git
+	path = feedstocks/tensor-sensor
+	branch = refs/heads/master
