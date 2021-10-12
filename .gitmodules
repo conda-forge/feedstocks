@@ -56450,3 +56450,7 @@
 	url = https://github.com/conda-forge/r-rayrender-feedstock.git
 	path = feedstocks/r-rayrender
 	branch = refs/heads/master
+[submodule "openff-amber-ff-ports"]
+	url = https://github.com/conda-forge/openff-amber-ff-ports-feedstock.git
+	path = feedstocks/openff-amber-ff-ports
+	branch = refs/heads/master
