@@ -56454,3 +56454,7 @@
 	url = https://github.com/conda-forge/openff-amber-ff-ports-feedstock.git
 	path = feedstocks/openff-amber-ff-ports
 	branch = refs/heads/master
+[submodule "pytest-mypy-plugins"]
+	url = https://github.com/conda-forge/pytest-mypy-plugins-feedstock.git
+	path = feedstocks/pytest-mypy-plugins
+	branch = refs/heads/master
