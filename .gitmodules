@@ -56466,3 +56466,7 @@
 	url = https://github.com/conda-forge/schwifty-feedstock.git
 	path = feedstocks/schwifty
 	branch = refs/heads/master
+[submodule "pyhdfe"]
+	url = https://github.com/conda-forge/pyhdfe-feedstock.git
+	path = feedstocks/pyhdfe
+	branch = refs/heads/master
