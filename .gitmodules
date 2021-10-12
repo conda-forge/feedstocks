@@ -56474,3 +56474,7 @@
 	url = https://github.com/conda-forge/varname-feedstock.git
 	path = feedstocks/varname
 	branch = refs/heads/master
+[submodule "geojson-rewind"]
+	url = https://github.com/conda-forge/geojson-rewind-feedstock.git
+	path = feedstocks/geojson-rewind
+	branch = refs/heads/master
