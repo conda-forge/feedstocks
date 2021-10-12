@@ -56458,3 +56458,7 @@
 	url = https://github.com/conda-forge/pytest-mypy-plugins-feedstock.git
 	path = feedstocks/pytest-mypy-plugins
 	branch = refs/heads/master
+[submodule "xmlstarlet"]
+	url = https://github.com/conda-forge/xmlstarlet-feedstock.git
+	path = feedstocks/xmlstarlet
+	branch = refs/heads/master
