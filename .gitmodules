@@ -56438,3 +56438,7 @@
 	url = https://github.com/conda-forge/tomli-w-feedstock.git
 	path = feedstocks/tomli-w
 	branch = refs/heads/master
+[submodule "starship"]
+	url = https://github.com/conda-forge/starship-feedstock.git
+	path = feedstocks/starship
+	branch = refs/heads/master
