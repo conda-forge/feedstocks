@@ -56490,3 +56490,7 @@
 	url = https://github.com/conda-forge/pbxproj-feedstock.git
 	path = feedstocks/pbxproj
 	branch = refs/heads/master
+[submodule "jupyterlab-unfold"]
+	url = https://github.com/conda-forge/jupyterlab-unfold-feedstock.git
+	path = feedstocks/jupyterlab-unfold
+	branch = refs/heads/master
