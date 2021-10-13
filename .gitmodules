@@ -56510,3 +56510,7 @@
 	url = https://github.com/conda-forge/fdtd-feedstock.git
 	path = feedstocks/fdtd
 	branch = refs/heads/master
+[submodule "interchange"]
+	url = https://github.com/conda-forge/interchange-feedstock.git
+	path = feedstocks/interchange
+	branch = refs/heads/master
