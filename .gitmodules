@@ -56522,3 +56522,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-drill-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-drill
 	branch = refs/heads/master
+[submodule "sisppeo"]
+	url = https://github.com/conda-forge/sisppeo-feedstock.git
+	path = feedstocks/sisppeo
+	branch = refs/heads/master
