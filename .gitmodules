@@ -56502,3 +56502,7 @@
 	url = https://github.com/conda-forge/xcdat-feedstock.git
 	path = feedstocks/xcdat
 	branch = refs/heads/master
+[submodule "hop-client"]
+	url = https://github.com/conda-forge/hop-client-feedstock.git
+	path = feedstocks/hop-client
+	branch = refs/heads/master
