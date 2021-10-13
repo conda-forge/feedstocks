@@ -56526,3 +56526,7 @@
 	url = https://github.com/conda-forge/sisppeo-feedstock.git
 	path = feedstocks/sisppeo
 	branch = refs/heads/master
+[submodule "mdfreader"]
+	url = https://github.com/conda-forge/mdfreader-feedstock.git
+	path = feedstocks/mdfreader
+	branch = refs/heads/master
