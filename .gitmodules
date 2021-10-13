@@ -56506,3 +56506,7 @@
 	url = https://github.com/conda-forge/hop-client-feedstock.git
 	path = feedstocks/hop-client
 	branch = refs/heads/master
+[submodule "fdtd"]
+	url = https://github.com/conda-forge/fdtd-feedstock.git
+	path = feedstocks/fdtd
+	branch = refs/heads/master
