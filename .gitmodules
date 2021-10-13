@@ -56534,3 +56534,7 @@
 	url = https://github.com/conda-forge/bunq-sdk-feedstock.git
 	path = feedstocks/bunq-sdk
 	branch = refs/heads/master
+[submodule "bunqexport"]
+	url = https://github.com/conda-forge/bunqexport-feedstock.git
+	path = feedstocks/bunqexport
+	branch = refs/heads/master
