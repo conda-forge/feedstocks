@@ -56518,3 +56518,7 @@
 	url = https://github.com/conda-forge/gars_field-feedstock.git
 	path = feedstocks/gars_field
 	branch = refs/heads/master
+[submodule "apache-airflow-providers-apache-drill"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-drill-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-drill
+	branch = refs/heads/master
