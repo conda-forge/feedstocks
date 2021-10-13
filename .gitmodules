@@ -56546,3 +56546,7 @@
 	url = https://github.com/conda-forge/sbml2sbol-feedstock.git
 	path = feedstocks/sbml2sbol
 	branch = refs/heads/master
+[submodule "libsemigroups_pybind11"]
+	url = https://github.com/conda-forge/libsemigroups_pybind11-feedstock.git
+	path = feedstocks/libsemigroups_pybind11
+	branch = refs/heads/master
