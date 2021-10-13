@@ -56498,3 +56498,7 @@
 	url = https://github.com/conda-forge/contourpy-feedstock.git
 	path = feedstocks/contourpy
 	branch = refs/heads/master
+[submodule "xcdat"]
+	url = https://github.com/conda-forge/xcdat-feedstock.git
+	path = feedstocks/xcdat
+	branch = refs/heads/master
