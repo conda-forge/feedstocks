@@ -56494,3 +56494,7 @@
 	url = https://github.com/conda-forge/jupyterlab-unfold-feedstock.git
 	path = feedstocks/jupyterlab-unfold
 	branch = refs/heads/master
+[submodule "contourpy"]
+	url = https://github.com/conda-forge/contourpy-feedstock.git
+	path = feedstocks/contourpy
+	branch = refs/heads/master
