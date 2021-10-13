@@ -56530,3 +56530,7 @@
 	url = https://github.com/conda-forge/mdfreader-feedstock.git
 	path = feedstocks/mdfreader
 	branch = refs/heads/master
+[submodule "bunq-sdk"]
+	url = https://github.com/conda-forge/bunq-sdk-feedstock.git
+	path = feedstocks/bunq-sdk
+	branch = refs/heads/master
