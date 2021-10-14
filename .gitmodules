@@ -56550,3 +56550,7 @@
 	url = https://github.com/conda-forge/libsemigroups_pybind11-feedstock.git
 	path = feedstocks/libsemigroups_pybind11
 	branch = refs/heads/master
+[submodule "readdy"]
+	url = https://github.com/conda-forge/readdy-feedstock.git
+	path = feedstocks/readdy
+	branch = refs/heads/master
