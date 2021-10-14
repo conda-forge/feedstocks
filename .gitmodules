@@ -56558,3 +56558,7 @@
 	url = https://github.com/conda-forge/fortran_stdlib-feedstock.git
 	path = feedstocks/fortran_stdlib
 	branch = refs/heads/master
+[submodule "bml"]
+	url = https://github.com/conda-forge/bml-feedstock.git
+	path = feedstocks/bml
+	branch = refs/heads/master
