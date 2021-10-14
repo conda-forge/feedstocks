@@ -56554,3 +56554,7 @@
 	url = https://github.com/conda-forge/readdy-feedstock.git
 	path = feedstocks/readdy
 	branch = refs/heads/master
+[submodule "fortran_stdlib"]
+	url = https://github.com/conda-forge/fortran_stdlib-feedstock.git
+	path = feedstocks/fortran_stdlib
+	branch = refs/heads/master
