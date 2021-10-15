@@ -56598,3 +56598,7 @@
 	url = https://github.com/conda-forge/ampform-feedstock.git
 	path = feedstocks/ampform
 	branch = refs/heads/master
+[submodule "tensorwaves"]
+	url = https://github.com/conda-forge/tensorwaves-feedstock.git
+	path = feedstocks/tensorwaves
+	branch = refs/heads/master
