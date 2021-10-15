@@ -56602,3 +56602,7 @@
 	url = https://github.com/conda-forge/tensorwaves-feedstock.git
 	path = feedstocks/tensorwaves
 	branch = refs/heads/master
+[submodule "django-multiselectfield"]
+	url = https://github.com/conda-forge/django-multiselectfield-feedstock.git
+	path = feedstocks/django-multiselectfield
+	branch = refs/heads/master
