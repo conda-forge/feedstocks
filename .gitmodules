@@ -56590,3 +56590,7 @@
 	url = https://github.com/conda-forge/expectexception-feedstock.git
 	path = feedstocks/expectexception
 	branch = refs/heads/master
+[submodule "qrules"]
+	url = https://github.com/conda-forge/qrules-feedstock.git
+	path = feedstocks/qrules
+	branch = refs/heads/master
