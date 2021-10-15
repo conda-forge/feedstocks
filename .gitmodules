@@ -56610,3 +56610,7 @@
 	url = https://github.com/conda-forge/cleanco-feedstock.git
 	path = feedstocks/cleanco
 	branch = refs/heads/master
+[submodule "spacy-loggers"]
+	url = https://github.com/conda-forge/spacy-loggers-feedstock.git
+	path = feedstocks/spacy-loggers
+	branch = refs/heads/master
