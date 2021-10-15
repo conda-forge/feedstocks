@@ -56606,3 +56606,7 @@
 	url = https://github.com/conda-forge/django-multiselectfield-feedstock.git
 	path = feedstocks/django-multiselectfield
 	branch = refs/heads/master
+[submodule "cleanco"]
+	url = https://github.com/conda-forge/cleanco-feedstock.git
+	path = feedstocks/cleanco
+	branch = refs/heads/master
