@@ -56578,3 +56578,7 @@
 	url = https://github.com/conda-forge/cookiecutter_project_upgrader-feedstock.git
 	path = feedstocks/cookiecutter_project_upgrader
 	branch = refs/heads/master
+[submodule "rxn_rebuild"]
+	url = https://github.com/conda-forge/rxn_rebuild-feedstock.git
+	path = feedstocks/rxn_rebuild
+	branch = refs/heads/master
