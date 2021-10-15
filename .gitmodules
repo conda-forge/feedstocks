@@ -56582,3 +56582,7 @@
 	url = https://github.com/conda-forge/rxn_rebuild-feedstock.git
 	path = feedstocks/rxn_rebuild
 	branch = refs/heads/master
+[submodule "retropath2_wrapper"]
+	url = https://github.com/conda-forge/retropath2_wrapper-feedstock.git
+	path = feedstocks/retropath2_wrapper
+	branch = refs/heads/master
