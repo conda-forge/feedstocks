@@ -56574,3 +56574,7 @@
 	url = https://github.com/conda-forge/tango-starter-feedstock.git
 	path = feedstocks/tango-starter
 	branch = refs/heads/master
+[submodule "cookiecutter_project_upgrader"]
+	url = https://github.com/conda-forge/cookiecutter_project_upgrader-feedstock.git
+	path = feedstocks/cookiecutter_project_upgrader
+	branch = refs/heads/master
