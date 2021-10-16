@@ -56622,3 +56622,7 @@
 	url = https://github.com/conda-forge/r-paws.storage-feedstock.git
 	path = feedstocks/r-paws.storage
 	branch = refs/heads/master
+[submodule "r-paws.common"]
+	url = https://github.com/conda-forge/r-paws.common-feedstock.git
+	path = feedstocks/r-paws.common
+	branch = refs/heads/master
