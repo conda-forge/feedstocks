@@ -56670,3 +56670,7 @@
 	url = https://github.com/conda-forge/hologram-feedstock.git
 	path = feedstocks/hologram
 	branch = refs/heads/master
+[submodule "dbt-extractor"]
+	url = https://github.com/conda-forge/dbt-extractor-feedstock.git
+	path = feedstocks/dbt-extractor
+	branch = refs/heads/master
