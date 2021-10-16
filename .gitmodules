@@ -56626,3 +56626,7 @@
 	url = https://github.com/conda-forge/r-paws.common-feedstock.git
 	path = feedstocks/r-paws.common
 	branch = refs/heads/master
+[submodule "sierra"]
+	url = https://github.com/conda-forge/sierra-feedstock.git
+	path = feedstocks/sierra
+	branch = refs/heads/master
