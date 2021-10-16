@@ -56658,3 +56658,7 @@
 	url = https://github.com/conda-forge/snoop-feedstock.git
 	path = feedstocks/snoop
 	branch = refs/heads/master
+[submodule "codext"]
+	url = https://github.com/conda-forge/codext-feedstock.git
+	path = feedstocks/codext
+	branch = refs/heads/master
