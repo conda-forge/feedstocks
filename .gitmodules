@@ -56642,3 +56642,7 @@
 	url = https://github.com/conda-forge/bor-feedstock.git
 	path = feedstocks/bor
 	branch = refs/heads/master
+[submodule "upliftml"]
+	url = https://github.com/conda-forge/upliftml-feedstock.git
+	path = feedstocks/upliftml
+	branch = refs/heads/master
