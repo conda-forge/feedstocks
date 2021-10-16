@@ -56662,3 +56662,7 @@
 	url = https://github.com/conda-forge/codext-feedstock.git
 	path = feedstocks/codext
 	branch = refs/heads/master
+[submodule "patchy"]
+	url = https://github.com/conda-forge/patchy-feedstock.git
+	path = feedstocks/patchy
+	branch = refs/heads/master
