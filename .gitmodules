@@ -56638,3 +56638,7 @@
 	url = https://github.com/conda-forge/zenlog-feedstock.git
 	path = feedstocks/zenlog
 	branch = refs/heads/master
+[submodule "bor"]
+	url = https://github.com/conda-forge/bor-feedstock.git
+	path = feedstocks/bor
+	branch = refs/heads/master
