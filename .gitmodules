@@ -56674,3 +56674,7 @@
 	url = https://github.com/conda-forge/dbt-extractor-feedstock.git
 	path = feedstocks/dbt-extractor
 	branch = refs/heads/master
+[submodule "minimal-snowplow-tracker"]
+	url = https://github.com/conda-forge/minimal-snowplow-tracker-feedstock.git
+	path = feedstocks/minimal-snowplow-tracker
+	branch = refs/heads/master
