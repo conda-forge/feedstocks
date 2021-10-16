@@ -56654,3 +56654,7 @@
 	url = https://github.com/conda-forge/pytidylib-feedstock.git
 	path = feedstocks/pytidylib
 	branch = refs/heads/master
+[submodule "snoop"]
+	url = https://github.com/conda-forge/snoop-feedstock.git
+	path = feedstocks/snoop
+	branch = refs/heads/master
