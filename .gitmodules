@@ -56630,3 +56630,7 @@
 	url = https://github.com/conda-forge/sierra-feedstock.git
 	path = feedstocks/sierra
 	branch = refs/heads/master
+[submodule "pyradios"]
+	url = https://github.com/conda-forge/pyradios-feedstock.git
+	path = feedstocks/pyradios
+	branch = refs/heads/master
