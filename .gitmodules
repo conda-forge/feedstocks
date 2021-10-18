@@ -56706,3 +56706,7 @@
 	url = https://github.com/conda-forge/r-solvesaphe-feedstock.git
 	path = feedstocks/r-solvesaphe
 	branch = refs/heads/master
+[submodule "pytz-deprecation-shim"]
+	url = https://github.com/conda-forge/pytz-deprecation-shim-feedstock.git
+	path = feedstocks/pytz-deprecation-shim
+	branch = refs/heads/master
