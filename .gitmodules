@@ -56710,3 +56710,7 @@
 	url = https://github.com/conda-forge/pytz-deprecation-shim-feedstock.git
 	path = feedstocks/pytz-deprecation-shim
 	branch = refs/heads/master
+[submodule "tts"]
+	url = https://github.com/conda-forge/tts-feedstock.git
+	path = feedstocks/tts
+	branch = refs/heads/master
