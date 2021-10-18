@@ -56686,3 +56686,7 @@
 	url = https://github.com/conda-forge/mashumaro-feedstock.git
 	path = feedstocks/mashumaro
 	branch = refs/heads/master
+[submodule "aws-c-sdkutils"]
+	url = https://github.com/conda-forge/aws-c-sdkutils-feedstock.git
+	path = feedstocks/aws-c-sdkutils
+	branch = refs/heads/master
