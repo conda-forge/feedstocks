@@ -56718,3 +56718,7 @@
 	url = https://github.com/conda-forge/r-paws.analytics-feedstock.git
 	path = feedstocks/r-paws.analytics
 	branch = refs/heads/master
+[submodule "r-paws.developer.tools"]
+	url = https://github.com/conda-forge/r-paws.developer.tools-feedstock.git
+	path = feedstocks/r-paws.developer.tools
+	branch = refs/heads/master
