@@ -56738,3 +56738,7 @@
 	url = https://github.com/conda-forge/r-paws.machine.learning-feedstock.git
 	path = feedstocks/r-paws.machine.learning
 	branch = refs/heads/master
+[submodule "r-paws.compute"]
+	url = https://github.com/conda-forge/r-paws.compute-feedstock.git
+	path = feedstocks/r-paws.compute
+	branch = refs/heads/master
