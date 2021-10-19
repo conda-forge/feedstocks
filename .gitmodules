@@ -56770,3 +56770,7 @@
 	url = https://github.com/conda-forge/r-paws-feedstock.git
 	path = feedstocks/r-paws
 	branch = refs/heads/master
+[submodule "gym-ignition-models"]
+	url = https://github.com/conda-forge/gym-ignition-models-feedstock.git
+	path = feedstocks/gym-ignition-models
+	branch = refs/heads/master
