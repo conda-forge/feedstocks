@@ -56742,3 +56742,7 @@
 	url = https://github.com/conda-forge/r-paws.compute-feedstock.git
 	path = feedstocks/r-paws.compute
 	branch = refs/heads/master
+[submodule "r-paws.security.identity"]
+	url = https://github.com/conda-forge/r-paws.security.identity-feedstock.git
+	path = feedstocks/r-paws.security.identity
+	branch = refs/heads/master
