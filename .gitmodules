@@ -56774,3 +56774,7 @@
 	url = https://github.com/conda-forge/gym-ignition-models-feedstock.git
 	path = feedstocks/gym-ignition-models
 	branch = refs/heads/master
+[submodule "cmake-build-extension"]
+	url = https://github.com/conda-forge/cmake-build-extension-feedstock.git
+	path = feedstocks/cmake-build-extension
+	branch = refs/heads/master
