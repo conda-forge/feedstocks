@@ -56754,3 +56754,7 @@
 	url = https://github.com/conda-forge/r-paws.end.user.computing-feedstock.git
 	path = feedstocks/r-paws.end.user.computing
 	branch = refs/heads/master
+[submodule "r-paws.database"]
+	url = https://github.com/conda-forge/r-paws.database-feedstock.git
+	path = feedstocks/r-paws.database
+	branch = refs/heads/master
