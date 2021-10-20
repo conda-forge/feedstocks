@@ -56822,3 +56822,7 @@
 	url = https://github.com/conda-forge/libvpx-feedstock.git
 	path = feedstocks/libvpx
 	branch = refs/heads/master
+[submodule "ome-zarr"]
+	url = https://github.com/conda-forge/ome-zarr-feedstock.git
+	path = feedstocks/ome-zarr
+	branch = refs/heads/master
