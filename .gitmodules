@@ -56798,3 +56798,7 @@
 	url = https://github.com/conda-forge/crowdsourcephoto-feedstock.git
 	path = feedstocks/crowdsourcephoto
 	branch = refs/heads/master
+[submodule "label-maker-dask"]
+	url = https://github.com/conda-forge/label-maker-dask-feedstock.git
+	path = feedstocks/label-maker-dask
+	branch = refs/heads/master
