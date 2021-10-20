@@ -56810,3 +56810,7 @@
 	url = https://github.com/conda-forge/eralchemy-feedstock.git
 	path = feedstocks/eralchemy
 	branch = refs/heads/master
+[submodule "daetools"]
+	url = https://github.com/conda-forge/daetools-feedstock.git
+	path = feedstocks/daetools
+	branch = refs/heads/master
