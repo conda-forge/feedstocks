@@ -56834,3 +56834,7 @@
 	url = https://github.com/conda-forge/nllgrid-feedstock.git
 	path = feedstocks/nllgrid
 	branch = refs/heads/master
+[submodule "tensorpack"]
+	url = https://github.com/conda-forge/tensorpack-feedstock.git
+	path = feedstocks/tensorpack
+	branch = refs/heads/master
