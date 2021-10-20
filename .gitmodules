@@ -56814,3 +56814,7 @@
 	url = https://github.com/conda-forge/daetools-feedstock.git
 	path = feedstocks/daetools
 	branch = refs/heads/master
+[submodule "pyperformance"]
+	url = https://github.com/conda-forge/pyperformance-feedstock.git
+	path = feedstocks/pyperformance
+	branch = refs/heads/master
