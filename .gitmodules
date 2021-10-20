@@ -56838,3 +56838,7 @@
 	url = https://github.com/conda-forge/tensorpack-feedstock.git
 	path = feedstocks/tensorpack
 	branch = refs/heads/master
+[submodule "pybcpy"]
+	url = https://github.com/conda-forge/pybcpy-feedstock.git
+	path = feedstocks/pybcpy
+	branch = refs/heads/master
