@@ -56830,3 +56830,7 @@
 	url = https://github.com/conda-forge/cons-feedstock.git
 	path = feedstocks/cons
 	branch = refs/heads/master
+[submodule "nllgrid"]
+	url = https://github.com/conda-forge/nllgrid-feedstock.git
+	path = feedstocks/nllgrid
+	branch = refs/heads/master
