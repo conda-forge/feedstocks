@@ -56846,3 +56846,7 @@
 	url = https://github.com/conda-forge/lume-base-feedstock.git
 	path = feedstocks/lume-base
 	branch = refs/heads/master
+[submodule "etuples"]
+	url = https://github.com/conda-forge/etuples-feedstock.git
+	path = feedstocks/etuples
+	branch = refs/heads/master
