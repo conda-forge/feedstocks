@@ -56790,3 +56790,7 @@
 	url = https://github.com/conda-forge/wordfreq-feedstock.git
 	path = feedstocks/wordfreq
 	branch = refs/heads/master
+[submodule "plyer"]
+	url = https://github.com/conda-forge/plyer-feedstock.git
+	path = feedstocks/plyer
+	branch = refs/heads/master
