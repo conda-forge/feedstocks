@@ -56862,3 +56862,7 @@
 	url = https://github.com/conda-forge/r-mosaic-feedstock.git
 	path = feedstocks/r-mosaic
 	branch = refs/heads/master
+[submodule "gds-lsmp"]
+	url = https://github.com/conda-forge/gds-lsmp-feedstock.git
+	path = feedstocks/gds-lsmp
+	branch = refs/heads/master
