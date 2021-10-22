@@ -56866,3 +56866,7 @@
 	url = https://github.com/conda-forge/gds-lsmp-feedstock.git
 	path = feedstocks/gds-lsmp
 	branch = refs/heads/master
+[submodule "smi-analysis"]
+	url = https://github.com/conda-forge/smi-analysis-feedstock.git
+	path = feedstocks/smi-analysis
+	branch = refs/heads/master
