@@ -56878,3 +56878,7 @@
 	url = https://github.com/conda-forge/dgllife-feedstock.git
 	path = feedstocks/dgllife
 	branch = refs/heads/master
+[submodule "rdchiral_cpp"]
+	url = https://github.com/conda-forge/rdchiral_cpp-feedstock.git
+	path = feedstocks/rdchiral_cpp
+	branch = refs/heads/master
