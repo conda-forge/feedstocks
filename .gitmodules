@@ -56854,3 +56854,7 @@
 	url = https://github.com/conda-forge/batoms-api-feedstock.git
 	path = feedstocks/batoms-api
 	branch = refs/heads/master
+[submodule "batoms"]
+	url = https://github.com/conda-forge/batoms-feedstock.git
+	path = feedstocks/batoms
+	branch = refs/heads/master
