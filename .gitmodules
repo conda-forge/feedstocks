@@ -56882,3 +56882,7 @@
 	url = https://github.com/conda-forge/rdchiral_cpp-feedstock.git
 	path = feedstocks/rdchiral_cpp
 	branch = refs/heads/master
+[submodule "elpa"]
+	url = https://github.com/conda-forge/elpa-feedstock.git
+	path = feedstocks/elpa
+	branch = refs/heads/master
