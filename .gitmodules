@@ -56886,3 +56886,7 @@
 	url = https://github.com/conda-forge/elpa-feedstock.git
 	path = feedstocks/elpa
 	branch = refs/heads/master
+[submodule "calphy"]
+	url = https://github.com/conda-forge/calphy-feedstock.git
+	path = feedstocks/calphy
+	branch = refs/heads/master
