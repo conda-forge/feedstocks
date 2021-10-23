@@ -56898,3 +56898,7 @@
 	url = https://github.com/conda-forge/x265-feedstock.git
 	path = feedstocks/x265
 	branch = refs/heads/master
+[submodule "django-upgrade"]
+	url = https://github.com/conda-forge/django-upgrade-feedstock.git
+	path = feedstocks/django-upgrade
+	branch = refs/heads/master
