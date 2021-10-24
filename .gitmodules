@@ -56910,3 +56910,7 @@
 	url = https://github.com/conda-forge/tinysegmenter-feedstock.git
 	path = feedstocks/tinysegmenter
 	branch = refs/heads/master
+[submodule "text2emotion"]
+	url = https://github.com/conda-forge/text2emotion-feedstock.git
+	path = feedstocks/text2emotion
+	branch = refs/heads/master
