@@ -56902,3 +56902,7 @@
 	url = https://github.com/conda-forge/django-upgrade-feedstock.git
 	path = feedstocks/django-upgrade
 	branch = refs/heads/master
+[submodule "weldx_widgets"]
+	url = https://github.com/conda-forge/weldx_widgets-feedstock.git
+	path = feedstocks/weldx_widgets
+	branch = refs/heads/master
