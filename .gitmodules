@@ -56930,3 +56930,7 @@
 	url = https://github.com/conda-forge/classyconf-feedstock.git
 	path = feedstocks/classyconf
 	branch = refs/heads/master
+[submodule "conda-souschef"]
+	url = https://github.com/conda-forge/conda-souschef-feedstock.git
+	path = feedstocks/conda-souschef
+	branch = refs/heads/master
