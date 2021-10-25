@@ -56938,3 +56938,7 @@
 	url = https://github.com/conda-forge/bounded-pool-executor-feedstock.git
 	path = feedstocks/bounded-pool-executor
 	branch = refs/heads/master
+[submodule "or-tools"]
+	url = https://github.com/conda-forge/or-tools-feedstock.git
+	path = feedstocks/or-tools
+	branch = refs/heads/master
