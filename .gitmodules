@@ -56942,3 +56942,7 @@
 	url = https://github.com/conda-forge/or-tools-feedstock.git
 	path = feedstocks/or-tools
 	branch = refs/heads/master
+[submodule "pqdm"]
+	url = https://github.com/conda-forge/pqdm-feedstock.git
+	path = feedstocks/pqdm
+	branch = refs/heads/master
