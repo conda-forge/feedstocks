@@ -56918,3 +56918,7 @@
 	url = https://github.com/conda-forge/wwt_jupyterlab_extension-feedstock.git
 	path = feedstocks/wwt_jupyterlab_extension
 	branch = refs/heads/master
+[submodule "pypika"]
+	url = https://github.com/conda-forge/pypika-feedstock.git
+	path = feedstocks/pypika
+	branch = refs/heads/master
