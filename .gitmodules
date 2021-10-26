@@ -56970,3 +56970,7 @@
 	url = https://github.com/conda-forge/aom-feedstock.git
 	path = feedstocks/aom
 	branch = refs/heads/master
+[submodule "python-cmr"]
+	url = https://github.com/conda-forge/python-cmr-feedstock.git
+	path = feedstocks/python-cmr
+	branch = refs/heads/master
