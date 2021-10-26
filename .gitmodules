@@ -56974,3 +56974,7 @@
 	url = https://github.com/conda-forge/python-cmr-feedstock.git
 	path = feedstocks/python-cmr
 	branch = refs/heads/master
+[submodule "compas_occ"]
+	url = https://github.com/conda-forge/compas_occ-feedstock.git
+	path = feedstocks/compas_occ
+	branch = refs/heads/master
