@@ -56998,3 +56998,7 @@
 	url = https://github.com/conda-forge/future-annotations-feedstock.git
 	path = feedstocks/future-annotations
 	branch = refs/heads/master
+[submodule "earthdata"]
+	url = https://github.com/conda-forge/earthdata-feedstock.git
+	path = feedstocks/earthdata
+	branch = refs/heads/master
