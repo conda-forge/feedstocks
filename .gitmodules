@@ -57002,3 +57002,7 @@
 	url = https://github.com/conda-forge/earthdata-feedstock.git
 	path = feedstocks/earthdata
 	branch = refs/heads/master
+[submodule "r-cloudos"]
+	url = https://github.com/conda-forge/r-cloudos-feedstock.git
+	path = feedstocks/r-cloudos
+	branch = refs/heads/master
