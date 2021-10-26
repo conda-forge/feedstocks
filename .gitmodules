@@ -56994,3 +56994,7 @@
 	url = https://github.com/conda-forge/dasbus-feedstock.git
 	path = feedstocks/dasbus
 	branch = refs/heads/master
+[submodule "future-annotations"]
+	url = https://github.com/conda-forge/future-annotations-feedstock.git
+	path = feedstocks/future-annotations
+	branch = refs/heads/master
