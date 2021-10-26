@@ -57006,3 +57006,7 @@
 	url = https://github.com/conda-forge/r-cloudos-feedstock.git
 	path = feedstocks/r-cloudos
 	branch = refs/heads/master
+[submodule "pytool"]
+	url = https://github.com/conda-forge/pytool-feedstock.git
+	path = feedstocks/pytool
+	branch = refs/heads/master
