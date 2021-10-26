@@ -56962,3 +56962,7 @@
 	url = https://github.com/conda-forge/itermate-feedstock.git
 	path = feedstocks/itermate
 	branch = refs/heads/master
+[submodule "pybcj"]
+	url = https://github.com/conda-forge/pybcj-feedstock.git
+	path = feedstocks/pybcj
+	branch = refs/heads/master
