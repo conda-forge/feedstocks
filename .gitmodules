@@ -57026,3 +57026,7 @@
 	url = https://github.com/conda-forge/r-histdat-feedstock.git
 	path = feedstocks/r-histdat
 	branch = refs/heads/master
+[submodule "delta2"]
+	url = https://github.com/conda-forge/delta2-feedstock.git
+	path = feedstocks/delta2
+	branch = refs/heads/master
