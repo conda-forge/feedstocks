@@ -57018,3 +57018,7 @@
 	url = https://github.com/conda-forge/cadet-feedstock.git
 	path = feedstocks/cadet
 	branch = refs/heads/master
+[submodule "r-tidymultiqc"]
+	url = https://github.com/conda-forge/r-tidymultiqc-feedstock.git
+	path = feedstocks/r-tidymultiqc
+	branch = refs/heads/master
