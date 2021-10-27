@@ -57014,3 +57014,7 @@
 	url = https://github.com/conda-forge/minikanren-feedstock.git
 	path = feedstocks/minikanren
 	branch = refs/heads/master
+[submodule "cadet"]
+	url = https://github.com/conda-forge/cadet-feedstock.git
+	path = feedstocks/cadet
+	branch = refs/heads/master
