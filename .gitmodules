@@ -57022,3 +57022,7 @@
 	url = https://github.com/conda-forge/r-tidymultiqc-feedstock.git
 	path = feedstocks/r-tidymultiqc
 	branch = refs/heads/master
+[submodule "r-histdat"]
+	url = https://github.com/conda-forge/r-histdat-feedstock.git
+	path = feedstocks/r-histdat
+	branch = refs/heads/master
