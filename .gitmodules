@@ -57030,3 +57030,7 @@
 	url = https://github.com/conda-forge/delta2-feedstock.git
 	path = feedstocks/delta2
 	branch = refs/heads/master
+[submodule "mpl_animators"]
+	url = https://github.com/conda-forge/mpl_animators-feedstock.git
+	path = feedstocks/mpl_animators
+	branch = refs/heads/master
