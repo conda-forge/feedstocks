@@ -57054,3 +57054,7 @@
 	url = https://github.com/conda-forge/dask-bigquery-feedstock.git
 	path = feedstocks/dask-bigquery
 	branch = refs/heads/master
+[submodule "slurm-pipeline"]
+	url = https://github.com/conda-forge/slurm-pipeline-feedstock.git
+	path = feedstocks/slurm-pipeline
+	branch = refs/heads/master
