@@ -57038,3 +57038,7 @@
 	url = https://github.com/conda-forge/svt-av1-feedstock.git
 	path = feedstocks/svt-av1
 	branch = refs/heads/master
+[submodule "rucio-clients"]
+	url = https://github.com/conda-forge/rucio-clients-feedstock.git
+	path = feedstocks/rucio-clients
+	branch = refs/heads/master
