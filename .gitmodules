@@ -57070,3 +57070,7 @@
 	url = https://github.com/conda-forge/entrypoint2-feedstock.git
 	path = feedstocks/entrypoint2
 	branch = refs/heads/master
+[submodule "titiler-core"]
+	url = https://github.com/conda-forge/titiler-core-feedstock.git
+	path = feedstocks/titiler-core
+	branch = refs/heads/master
