@@ -57050,3 +57050,7 @@
 	url = https://github.com/conda-forge/unrar-feedstock.git
 	path = feedstocks/unrar
 	branch = refs/heads/master
+[submodule "dask-bigquery"]
+	url = https://github.com/conda-forge/dask-bigquery-feedstock.git
+	path = feedstocks/dask-bigquery
+	branch = refs/heads/master
