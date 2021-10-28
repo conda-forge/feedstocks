@@ -57062,3 +57062,7 @@
 	url = https://github.com/conda-forge/mne-kit-gui-feedstock.git
 	path = feedstocks/mne-kit-gui
 	branch = refs/heads/master
+[submodule "dpm360-lightsaber"]
+	url = https://github.com/conda-forge/dpm360-lightsaber-feedstock.git
+	path = feedstocks/dpm360-lightsaber
+	branch = refs/heads/master
