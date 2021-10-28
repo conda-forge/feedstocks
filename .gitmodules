@@ -57042,3 +57042,7 @@
 	url = https://github.com/conda-forge/rucio-clients-feedstock.git
 	path = feedstocks/rucio-clients
 	branch = refs/heads/master
+[submodule "kvxopt"]
+	url = https://github.com/conda-forge/kvxopt-feedstock.git
+	path = feedstocks/kvxopt
+	branch = refs/heads/master
