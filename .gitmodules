@@ -57058,3 +57058,7 @@
 	url = https://github.com/conda-forge/slurm-pipeline-feedstock.git
 	path = feedstocks/slurm-pipeline
 	branch = refs/heads/master
+[submodule "mne-kit-gui"]
+	url = https://github.com/conda-forge/mne-kit-gui-feedstock.git
+	path = feedstocks/mne-kit-gui
+	branch = refs/heads/master
