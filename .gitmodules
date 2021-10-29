@@ -57118,3 +57118,7 @@
 	url = https://github.com/conda-forge/py-cordex-feedstock.git
 	path = feedstocks/py-cordex
 	branch = refs/heads/master
+[submodule "rdt"]
+	url = https://github.com/conda-forge/rdt-feedstock.git
+	path = feedstocks/rdt
+	branch = refs/heads/master
