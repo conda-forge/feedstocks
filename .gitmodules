@@ -57086,3 +57086,7 @@
 	url = https://github.com/conda-forge/radiosphere-feedstock.git
 	path = feedstocks/radiosphere
 	branch = refs/heads/master
+[submodule "gimagereader-qt"]
+	url = https://github.com/conda-forge/gimagereader-qt-feedstock.git
+	path = feedstocks/gimagereader-qt
+	branch = refs/heads/master
