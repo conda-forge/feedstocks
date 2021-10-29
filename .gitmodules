@@ -57098,3 +57098,7 @@
 	url = https://github.com/conda-forge/libomm-feedstock.git
 	path = feedstocks/libomm
 	branch = refs/heads/master
+[submodule "matrixswitch"]
+	url = https://github.com/conda-forge/matrixswitch-feedstock.git
+	path = feedstocks/matrixswitch
+	branch = refs/heads/master
