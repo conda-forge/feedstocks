@@ -57078,3 +57078,7 @@
 	url = https://github.com/conda-forge/libxmlplusplus-feedstock.git
 	path = feedstocks/libxmlplusplus
 	branch = refs/heads/master
+[submodule "iso-codes"]
+	url = https://github.com/conda-forge/iso-codes-feedstock.git
+	path = feedstocks/iso-codes
+	branch = refs/heads/master
