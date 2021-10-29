@@ -57074,3 +57074,7 @@
 	url = https://github.com/conda-forge/titiler-core-feedstock.git
 	path = feedstocks/titiler-core
 	branch = refs/heads/master
+[submodule "libxmlplusplus"]
+	url = https://github.com/conda-forge/libxmlplusplus-feedstock.git
+	path = feedstocks/libxmlplusplus
+	branch = refs/heads/master
