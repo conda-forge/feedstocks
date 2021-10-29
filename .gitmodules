@@ -57106,3 +57106,7 @@
 	url = https://github.com/conda-forge/r-assertable-feedstock.git
 	path = feedstocks/r-assertable
 	branch = refs/heads/master
+[submodule "rtxpy"]
+	url = https://github.com/conda-forge/rtxpy-feedstock.git
+	path = feedstocks/rtxpy
+	branch = refs/heads/master
