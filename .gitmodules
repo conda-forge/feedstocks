@@ -57110,3 +57110,7 @@
 	url = https://github.com/conda-forge/rtxpy-feedstock.git
 	path = feedstocks/rtxpy
 	branch = refs/heads/master
+[submodule "rio-viz"]
+	url = https://github.com/conda-forge/rio-viz-feedstock.git
+	path = feedstocks/rio-viz
+	branch = refs/heads/master
