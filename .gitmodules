@@ -57094,3 +57094,7 @@
 	url = https://github.com/conda-forge/r-histdata-feedstock.git
 	path = feedstocks/r-histdata
 	branch = refs/heads/master
+[submodule "libomm"]
+	url = https://github.com/conda-forge/libomm-feedstock.git
+	path = feedstocks/libomm
+	branch = refs/heads/master
