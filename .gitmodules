@@ -57102,3 +57102,7 @@
 	url = https://github.com/conda-forge/matrixswitch-feedstock.git
 	path = feedstocks/matrixswitch
 	branch = refs/heads/master
+[submodule "r-assertable"]
+	url = https://github.com/conda-forge/r-assertable-feedstock.git
+	path = feedstocks/r-assertable
+	branch = refs/heads/master
