@@ -57114,3 +57114,7 @@
 	url = https://github.com/conda-forge/rio-viz-feedstock.git
 	path = feedstocks/rio-viz
 	branch = refs/heads/master
+[submodule "py-cordex"]
+	url = https://github.com/conda-forge/py-cordex-feedstock.git
+	path = feedstocks/py-cordex
+	branch = refs/heads/master
