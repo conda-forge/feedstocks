@@ -57130,3 +57130,7 @@
 	url = https://github.com/conda-forge/regi0-feedstock.git
 	path = feedstocks/regi0
 	branch = refs/heads/master
+[submodule "construct-typing"]
+	url = https://github.com/conda-forge/construct-typing-feedstock.git
+	path = feedstocks/construct-typing
+	branch = refs/heads/master
