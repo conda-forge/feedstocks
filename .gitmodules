@@ -57142,3 +57142,7 @@
 	url = https://github.com/conda-forge/cmark-gfm-feedstock.git
 	path = feedstocks/cmark-gfm
 	branch = refs/heads/master
+[submodule "r-mosaiccalc"]
+	url = https://github.com/conda-forge/r-mosaiccalc-feedstock.git
+	path = feedstocks/r-mosaiccalc
+	branch = refs/heads/master
