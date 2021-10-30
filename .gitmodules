@@ -57134,3 +57134,7 @@
 	url = https://github.com/conda-forge/construct-typing-feedstock.git
 	path = feedstocks/construct-typing
 	branch = refs/heads/master
+[submodule "graphlib-backport"]
+	url = https://github.com/conda-forge/graphlib-backport-feedstock.git
+	path = feedstocks/graphlib-backport
+	branch = refs/heads/master
