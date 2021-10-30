@@ -57138,3 +57138,7 @@
 	url = https://github.com/conda-forge/graphlib-backport-feedstock.git
 	path = feedstocks/graphlib-backport
 	branch = refs/heads/master
+[submodule "cmark-gfm"]
+	url = https://github.com/conda-forge/cmark-gfm-feedstock.git
+	path = feedstocks/cmark-gfm
+	branch = refs/heads/master
