@@ -57162,3 +57162,7 @@
 	url = https://github.com/conda-forge/python_version-feedstock.git
 	path = feedstocks/python_version
 	branch = refs/heads/master
+[submodule "jraph"]
+	url = https://github.com/conda-forge/jraph-feedstock.git
+	path = feedstocks/jraph
+	branch = refs/heads/master
