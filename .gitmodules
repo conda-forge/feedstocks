@@ -57150,3 +57150,7 @@
 	url = https://github.com/conda-forge/r-reactablefmtr-feedstock.git
 	path = feedstocks/r-reactablefmtr
 	branch = refs/heads/master
+[submodule "clease-gui"]
+	url = https://github.com/conda-forge/clease-gui-feedstock.git
+	path = feedstocks/clease-gui
+	branch = refs/heads/master
