@@ -57158,3 +57158,7 @@
 	url = https://github.com/conda-forge/trainstation-feedstock.git
 	path = feedstocks/trainstation
 	branch = refs/heads/master
+[submodule "python_version"]
+	url = https://github.com/conda-forge/python_version-feedstock.git
+	path = feedstocks/python_version
+	branch = refs/heads/master
