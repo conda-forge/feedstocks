@@ -57154,3 +57154,7 @@
 	url = https://github.com/conda-forge/clease-gui-feedstock.git
 	path = feedstocks/clease-gui
 	branch = refs/heads/master
+[submodule "trainstation"]
+	url = https://github.com/conda-forge/trainstation-feedstock.git
+	path = feedstocks/trainstation
+	branch = refs/heads/master
