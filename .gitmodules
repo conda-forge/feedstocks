@@ -57194,3 +57194,7 @@
 	url = https://github.com/conda-forge/borsh-construct-feedstock.git
 	path = feedstocks/borsh-construct
 	branch = refs/heads/master
+[submodule "pkbar"]
+	url = https://github.com/conda-forge/pkbar-feedstock.git
+	path = feedstocks/pkbar
+	branch = refs/heads/master
