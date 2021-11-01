@@ -57198,3 +57198,7 @@
 	url = https://github.com/conda-forge/pkbar-feedstock.git
 	path = feedstocks/pkbar
 	branch = refs/heads/master
+[submodule "twitchapi"]
+	url = https://github.com/conda-forge/twitchapi-feedstock.git
+	path = feedstocks/twitchapi
+	branch = refs/heads/master
