@@ -57202,3 +57202,7 @@
 	url = https://github.com/conda-forge/twitchapi-feedstock.git
 	path = feedstocks/twitchapi
 	branch = refs/heads/master
+[submodule "awxkit"]
+	url = https://github.com/conda-forge/awxkit-feedstock.git
+	path = feedstocks/awxkit
+	branch = refs/heads/master
