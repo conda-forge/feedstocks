@@ -57178,3 +57178,7 @@
 	url = https://github.com/conda-forge/ossindex-lib-feedstock.git
 	path = feedstocks/ossindex-lib
 	branch = refs/heads/master
+[submodule "packageurl-python"]
+	url = https://github.com/conda-forge/packageurl-python-feedstock.git
+	path = feedstocks/packageurl-python
+	branch = refs/heads/master
