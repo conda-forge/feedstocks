@@ -57182,3 +57182,7 @@
 	url = https://github.com/conda-forge/packageurl-python-feedstock.git
 	path = feedstocks/packageurl-python
 	branch = refs/heads/master
+[submodule "cyclonedx-python-lib"]
+	url = https://github.com/conda-forge/cyclonedx-python-lib-feedstock.git
+	path = feedstocks/cyclonedx-python-lib
+	branch = refs/heads/master
