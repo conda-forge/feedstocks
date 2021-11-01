@@ -57174,3 +57174,7 @@
 	url = https://github.com/conda-forge/norse-feedstock.git
 	path = feedstocks/norse
 	branch = refs/heads/master
+[submodule "ossindex-lib"]
+	url = https://github.com/conda-forge/ossindex-lib-feedstock.git
+	path = feedstocks/ossindex-lib
+	branch = refs/heads/master
