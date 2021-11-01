@@ -57186,3 +57186,7 @@
 	url = https://github.com/conda-forge/cyclonedx-python-lib-feedstock.git
 	path = feedstocks/cyclonedx-python-lib
 	branch = refs/heads/master
+[submodule "polling2"]
+	url = https://github.com/conda-forge/polling2-feedstock.git
+	path = feedstocks/polling2
+	branch = refs/heads/master
