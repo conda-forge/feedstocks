@@ -57254,3 +57254,7 @@
 	url = https://github.com/conda-forge/r-strawr-feedstock.git
 	path = feedstocks/r-strawr
 	branch = refs/heads/master
+[submodule "r-einsum"]
+	url = https://github.com/conda-forge/r-einsum-feedstock.git
+	path = feedstocks/r-einsum
+	branch = refs/heads/master
