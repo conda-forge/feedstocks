@@ -57290,3 +57290,7 @@
 	url = https://github.com/conda-forge/dash-leaflet-feedstock.git
 	path = feedstocks/dash-leaflet
 	branch = refs/heads/master
+[submodule "ajsonrpc"]
+	url = https://github.com/conda-forge/ajsonrpc-feedstock.git
+	path = feedstocks/ajsonrpc
+	branch = refs/heads/master
