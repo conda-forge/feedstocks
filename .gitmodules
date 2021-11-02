@@ -57266,3 +57266,7 @@
 	url = https://github.com/conda-forge/r-parallellogger-feedstock.git
 	path = feedstocks/r-parallellogger
 	branch = refs/heads/master
+[submodule "r-mrfdepth"]
+	url = https://github.com/conda-forge/r-mrfdepth-feedstock.git
+	path = feedstocks/r-mrfdepth
+	branch = refs/heads/master
