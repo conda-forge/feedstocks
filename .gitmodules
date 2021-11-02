@@ -57282,3 +57282,7 @@
 	url = https://github.com/conda-forge/nene-feedstock.git
 	path = feedstocks/nene
 	branch = refs/heads/master
+[submodule "featuretools-tsfresh-primitives"]
+	url = https://github.com/conda-forge/featuretools-tsfresh-primitives-feedstock.git
+	path = feedstocks/featuretools-tsfresh-primitives
+	branch = refs/heads/master
