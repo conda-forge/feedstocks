@@ -57286,3 +57286,7 @@
 	url = https://github.com/conda-forge/featuretools-tsfresh-primitives-feedstock.git
 	path = feedstocks/featuretools-tsfresh-primitives
 	branch = refs/heads/master
+[submodule "dash-leaflet"]
+	url = https://github.com/conda-forge/dash-leaflet-feedstock.git
+	path = feedstocks/dash-leaflet
+	branch = refs/heads/master
