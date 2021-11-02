@@ -57230,3 +57230,7 @@
 	url = https://github.com/conda-forge/r-cctensor-feedstock.git
 	path = feedstocks/r-cctensor
 	branch = refs/heads/master
+[submodule "r-dgof"]
+	url = https://github.com/conda-forge/r-dgof-feedstock.git
+	path = feedstocks/r-dgof
+	branch = refs/heads/master
