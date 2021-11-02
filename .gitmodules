@@ -57298,3 +57298,7 @@
 	url = https://github.com/conda-forge/qcs-api-client-feedstock.git
 	path = feedstocks/qcs-api-client
 	branch = refs/heads/master
+[submodule "dash-extensions"]
+	url = https://github.com/conda-forge/dash-extensions-feedstock.git
+	path = feedstocks/dash-extensions
+	branch = refs/heads/master
