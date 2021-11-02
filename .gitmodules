@@ -57262,3 +57262,7 @@
 	url = https://github.com/conda-forge/r-roptim-feedstock.git
 	path = feedstocks/r-roptim
 	branch = refs/heads/master
+[submodule "r-parallellogger"]
+	url = https://github.com/conda-forge/r-parallellogger-feedstock.git
+	path = feedstocks/r-parallellogger
+	branch = refs/heads/master
