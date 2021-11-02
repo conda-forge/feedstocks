@@ -57274,3 +57274,7 @@
 	url = https://github.com/conda-forge/rabbitmq-delayed-message-exchange-feedstock.git
 	path = feedstocks/rabbitmq-delayed-message-exchange
 	branch = refs/heads/master
+[submodule "rptools"]
+	url = https://github.com/conda-forge/rptools-feedstock.git
+	path = feedstocks/rptools
+	branch = refs/heads/master
