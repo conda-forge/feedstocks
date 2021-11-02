@@ -57242,3 +57242,7 @@
 	url = https://github.com/conda-forge/r-ggprism-feedstock.git
 	path = feedstocks/r-ggprism
 	branch = refs/heads/master
+[submodule "r-scam"]
+	url = https://github.com/conda-forge/r-scam-feedstock.git
+	path = feedstocks/r-scam
+	branch = refs/heads/master
