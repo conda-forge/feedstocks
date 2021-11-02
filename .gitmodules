@@ -57214,3 +57214,7 @@
 	url = https://github.com/conda-forge/objprint-feedstock.git
 	path = feedstocks/objprint
 	branch = refs/heads/master
+[submodule "pyjams"]
+	url = https://github.com/conda-forge/pyjams-feedstock.git
+	path = feedstocks/pyjams
+	branch = refs/heads/master
