@@ -57226,3 +57226,7 @@
 	url = https://github.com/conda-forge/r-bamlss-feedstock.git
 	path = feedstocks/r-bamlss
 	branch = refs/heads/master
+[submodule "r-cctensor"]
+	url = https://github.com/conda-forge/r-cctensor-feedstock.git
+	path = feedstocks/r-cctensor
+	branch = refs/heads/master
