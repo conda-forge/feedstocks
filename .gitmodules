@@ -57302,3 +57302,7 @@
 	url = https://github.com/conda-forge/dash-extensions-feedstock.git
 	path = feedstocks/dash-extensions
 	branch = refs/heads/master
+[submodule "lark"]
+	url = https://github.com/conda-forge/lark-feedstock.git
+	path = feedstocks/lark
+	branch = refs/heads/master
