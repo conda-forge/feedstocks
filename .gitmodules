@@ -57294,3 +57294,7 @@
 	url = https://github.com/conda-forge/ajsonrpc-feedstock.git
 	path = feedstocks/ajsonrpc
 	branch = refs/heads/master
+[submodule "qcs-api-client"]
+	url = https://github.com/conda-forge/qcs-api-client-feedstock.git
+	path = feedstocks/qcs-api-client
+	branch = refs/heads/master
