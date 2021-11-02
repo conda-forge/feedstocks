@@ -57278,3 +57278,7 @@
 	url = https://github.com/conda-forge/rptools-feedstock.git
 	path = feedstocks/rptools
 	branch = refs/heads/master
+[submodule "nene"]
+	url = https://github.com/conda-forge/nene-feedstock.git
+	path = feedstocks/nene
+	branch = refs/heads/master
