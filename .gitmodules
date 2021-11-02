@@ -57250,3 +57250,7 @@
 	url = https://github.com/conda-forge/r-rtriangle-feedstock.git
 	path = feedstocks/r-rtriangle
 	branch = refs/heads/master
+[submodule "r-strawr"]
+	url = https://github.com/conda-forge/r-strawr-feedstock.git
+	path = feedstocks/r-strawr
+	branch = refs/heads/master
