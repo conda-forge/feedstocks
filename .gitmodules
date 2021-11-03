@@ -57314,3 +57314,7 @@
 	url = https://github.com/conda-forge/cmyt-feedstock.git
 	path = feedstocks/cmyt
 	branch = refs/heads/master
+[submodule "r-blaster"]
+	url = https://github.com/conda-forge/r-blaster-feedstock.git
+	path = feedstocks/r-blaster
+	branch = refs/heads/master
