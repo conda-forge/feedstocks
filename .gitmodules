@@ -57310,3 +57310,7 @@
 	url = https://github.com/conda-forge/duet-python-feedstock.git
 	path = feedstocks/duet-python
 	branch = refs/heads/master
+[submodule "cmyt"]
+	url = https://github.com/conda-forge/cmyt-feedstock.git
+	path = feedstocks/cmyt
+	branch = refs/heads/master
