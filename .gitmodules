@@ -57350,3 +57350,7 @@
 	url = https://github.com/conda-forge/hydride-feedstock.git
 	path = feedstocks/hydride
 	branch = refs/heads/master
+[submodule "editorconfig"]
+	url = https://github.com/conda-forge/editorconfig-feedstock.git
+	path = feedstocks/editorconfig
+	branch = refs/heads/master
