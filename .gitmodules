@@ -57338,3 +57338,7 @@
 	url = https://github.com/conda-forge/libcint-feedstock.git
 	path = feedstocks/libcint
 	branch = refs/heads/master
+[submodule "austin-python"]
+	url = https://github.com/conda-forge/austin-python-feedstock.git
+	path = feedstocks/austin-python
+	branch = refs/heads/master
