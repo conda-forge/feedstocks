@@ -57330,3 +57330,7 @@
 	url = https://github.com/conda-forge/r-jtools-feedstock.git
 	path = feedstocks/r-jtools
 	branch = refs/heads/master
+[submodule "tango-access-control"]
+	url = https://github.com/conda-forge/tango-access-control-feedstock.git
+	path = feedstocks/tango-access-control
+	branch = refs/heads/master
