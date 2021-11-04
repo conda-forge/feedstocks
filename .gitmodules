@@ -57378,3 +57378,7 @@
 	url = https://github.com/conda-forge/frozenlist-feedstock.git
 	path = feedstocks/frozenlist
 	branch = refs/heads/master
+[submodule "apache-airflow-backport-providers-cncf-kubernetes"]
+	url = https://github.com/conda-forge/apache-airflow-backport-providers-cncf-kubernetes-feedstock.git
+	path = feedstocks/apache-airflow-backport-providers-cncf-kubernetes
+	branch = refs/heads/master
