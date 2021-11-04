@@ -57326,3 +57326,7 @@
 	url = https://github.com/conda-forge/r-librarian-feedstock.git
 	path = feedstocks/r-librarian
 	branch = refs/heads/master
+[submodule "r-jtools"]
+	url = https://github.com/conda-forge/r-jtools-feedstock.git
+	path = feedstocks/r-jtools
+	branch = refs/heads/master
