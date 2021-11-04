@@ -57362,3 +57362,7 @@
 	url = https://github.com/conda-forge/python-nomad-feedstock.git
 	path = feedstocks/python-nomad
 	branch = refs/heads/master
+[submodule "lightning-bolts"]
+	url = https://github.com/conda-forge/lightning-bolts-feedstock.git
+	path = feedstocks/lightning-bolts
+	branch = refs/heads/master
