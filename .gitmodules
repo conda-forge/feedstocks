@@ -57354,3 +57354,7 @@
 	url = https://github.com/conda-forge/editorconfig-feedstock.git
 	path = feedstocks/editorconfig
 	branch = refs/heads/master
+[submodule "jsbeautifier"]
+	url = https://github.com/conda-forge/jsbeautifier-feedstock.git
+	path = feedstocks/jsbeautifier
+	branch = refs/heads/master
