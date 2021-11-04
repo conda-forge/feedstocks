@@ -57346,3 +57346,7 @@
 	url = https://github.com/conda-forge/r-spiralize-feedstock.git
 	path = feedstocks/r-spiralize
 	branch = refs/heads/master
+[submodule "hydride"]
+	url = https://github.com/conda-forge/hydride-feedstock.git
+	path = feedstocks/hydride
+	branch = refs/heads/master
