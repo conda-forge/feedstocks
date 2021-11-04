@@ -57358,3 +57358,7 @@
 	url = https://github.com/conda-forge/jsbeautifier-feedstock.git
 	path = feedstocks/jsbeautifier
 	branch = refs/heads/master
+[submodule "python-nomad"]
+	url = https://github.com/conda-forge/python-nomad-feedstock.git
+	path = feedstocks/python-nomad
+	branch = refs/heads/master
