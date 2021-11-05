@@ -57442,3 +57442,7 @@
 	url = https://github.com/conda-forge/r-r2dii.data-feedstock.git
 	path = feedstocks/r-r2dii.data
 	branch = refs/heads/master
+[submodule "astmonkey"]
+	url = https://github.com/conda-forge/astmonkey-feedstock.git
+	path = feedstocks/astmonkey
+	branch = refs/heads/master
