@@ -57418,3 +57418,7 @@
 	url = https://github.com/conda-forge/zipstream-new-feedstock.git
 	path = feedstocks/zipstream-new
 	branch = refs/heads/master
+[submodule "backpack-for-pytorch"]
+	url = https://github.com/conda-forge/backpack-for-pytorch-feedstock.git
+	path = feedstocks/backpack-for-pytorch
+	branch = refs/heads/master
