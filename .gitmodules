@@ -57386,3 +57386,7 @@
 	url = https://github.com/conda-forge/simplecosine-feedstock.git
 	path = feedstocks/simplecosine
 	branch = refs/heads/master
+[submodule "correctionlib"]
+	url = https://github.com/conda-forge/correctionlib-feedstock.git
+	path = feedstocks/correctionlib
+	branch = refs/heads/master
