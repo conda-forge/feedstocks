@@ -57438,3 +57438,7 @@
 	url = https://github.com/conda-forge/wiutils-feedstock.git
 	path = feedstocks/wiutils
 	branch = refs/heads/master
+[submodule "r-r2dii.data"]
+	url = https://github.com/conda-forge/r-r2dii.data-feedstock.git
+	path = feedstocks/r-r2dii.data
+	branch = refs/heads/master
