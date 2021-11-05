@@ -57434,3 +57434,7 @@
 	url = https://github.com/conda-forge/pytravisci-feedstock.git
 	path = feedstocks/pytravisci
 	branch = refs/heads/master
+[submodule "wiutils"]
+	url = https://github.com/conda-forge/wiutils-feedstock.git
+	path = feedstocks/wiutils
+	branch = refs/heads/master
