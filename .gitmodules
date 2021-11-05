@@ -57426,3 +57426,7 @@
 	url = https://github.com/conda-forge/pytest-recording-feedstock.git
 	path = feedstocks/pytest-recording
 	branch = refs/heads/master
+[submodule "stockwell"]
+	url = https://github.com/conda-forge/stockwell-feedstock.git
+	path = feedstocks/stockwell
+	branch = refs/heads/master
