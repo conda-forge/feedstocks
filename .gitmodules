@@ -57406,3 +57406,7 @@
 	url = https://github.com/conda-forge/galaxy-containers-feedstock.git
 	path = feedstocks/galaxy-containers
 	branch = refs/heads/master
+[submodule "galaxy-util"]
+	url = https://github.com/conda-forge/galaxy-util-feedstock.git
+	path = feedstocks/galaxy-util
+	branch = refs/heads/master
