@@ -57430,3 +57430,7 @@
 	url = https://github.com/conda-forge/stockwell-feedstock.git
 	path = feedstocks/stockwell
 	branch = refs/heads/master
+[submodule "pytravisci"]
+	url = https://github.com/conda-forge/pytravisci-feedstock.git
+	path = feedstocks/pytravisci
+	branch = refs/heads/master
