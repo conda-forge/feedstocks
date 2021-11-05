@@ -57398,3 +57398,7 @@
 	url = https://github.com/conda-forge/aiosignal-feedstock.git
 	path = feedstocks/aiosignal
 	branch = refs/heads/master
+[submodule "austin-tui"]
+	url = https://github.com/conda-forge/austin-tui-feedstock.git
+	path = feedstocks/austin-tui
+	branch = refs/heads/master
