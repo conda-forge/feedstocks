@@ -57522,3 +57522,7 @@
 	url = https://github.com/conda-forge/r-gunifrac-feedstock.git
 	path = feedstocks/r-gunifrac
 	branch = refs/heads/master
+[submodule "r-roi"]
+	url = https://github.com/conda-forge/r-roi-feedstock.git
+	path = feedstocks/r-roi
+	branch = refs/heads/master
