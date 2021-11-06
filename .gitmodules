@@ -57518,3 +57518,7 @@
 	url = https://github.com/conda-forge/r-r2dii.match-feedstock.git
 	path = feedstocks/r-r2dii.match
 	branch = refs/heads/master
+[submodule "r-gunifrac"]
+	url = https://github.com/conda-forge/r-gunifrac-feedstock.git
+	path = feedstocks/r-gunifrac
+	branch = refs/heads/master
