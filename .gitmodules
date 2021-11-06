@@ -57530,3 +57530,7 @@
 	url = https://github.com/conda-forge/r-graddescent-feedstock.git
 	path = feedstocks/r-graddescent
 	branch = refs/heads/master
+[submodule "r-varfrompdb"]
+	url = https://github.com/conda-forge/r-varfrompdb-feedstock.git
+	path = feedstocks/r-varfrompdb
+	branch = refs/heads/master
