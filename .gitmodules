@@ -57478,3 +57478,7 @@
 	url = https://github.com/conda-forge/quantizer-feedstock.git
 	path = feedstocks/quantizer
 	branch = refs/heads/master
+[submodule "r-vam"]
+	url = https://github.com/conda-forge/r-vam-feedstock.git
+	path = feedstocks/r-vam
+	branch = refs/heads/master
