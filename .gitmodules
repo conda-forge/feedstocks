@@ -57470,3 +57470,7 @@
 	url = https://github.com/conda-forge/r-adabag-feedstock.git
 	path = feedstocks/r-adabag
 	branch = refs/heads/master
+[submodule "r-caretensemble"]
+	url = https://github.com/conda-forge/r-caretensemble-feedstock.git
+	path = feedstocks/r-caretensemble
+	branch = refs/heads/master
