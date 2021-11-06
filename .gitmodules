@@ -57526,3 +57526,7 @@
 	url = https://github.com/conda-forge/r-roi-feedstock.git
 	path = feedstocks/r-roi
 	branch = refs/heads/master
+[submodule "r-graddescent"]
+	url = https://github.com/conda-forge/r-graddescent-feedstock.git
+	path = feedstocks/r-graddescent
+	branch = refs/heads/master
