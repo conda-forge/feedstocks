@@ -57510,3 +57510,7 @@
 	url = https://github.com/conda-forge/r-xml2r-feedstock.git
 	path = feedstocks/r-xml2r
 	branch = refs/heads/master
+[submodule "r-r2dii.analysis"]
+	url = https://github.com/conda-forge/r-r2dii.analysis-feedstock.git
+	path = feedstocks/r-r2dii.analysis
+	branch = refs/heads/master
