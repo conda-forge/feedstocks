@@ -57458,3 +57458,7 @@
 	url = https://github.com/conda-forge/badger-opt-feedstock.git
 	path = feedstocks/badger-opt
 	branch = refs/heads/master
+[submodule "r-gofkernel"]
+	url = https://github.com/conda-forge/r-gofkernel-feedstock.git
+	path = feedstocks/r-gofkernel
+	branch = refs/heads/master
