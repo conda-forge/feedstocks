@@ -57474,3 +57474,7 @@
 	url = https://github.com/conda-forge/r-caretensemble-feedstock.git
 	path = feedstocks/r-caretensemble
 	branch = refs/heads/master
+[submodule "quantizer"]
+	url = https://github.com/conda-forge/quantizer-feedstock.git
+	path = feedstocks/quantizer
+	branch = refs/heads/master
