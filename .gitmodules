@@ -57498,3 +57498,7 @@
 	url = https://github.com/conda-forge/r-shinymatrix-feedstock.git
 	path = feedstocks/r-shinymatrix
 	branch = refs/heads/master
+[submodule "r-tippy"]
+	url = https://github.com/conda-forge/r-tippy-feedstock.git
+	path = feedstocks/r-tippy
+	branch = refs/heads/master
