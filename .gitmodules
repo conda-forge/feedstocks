@@ -57482,3 +57482,7 @@
 	url = https://github.com/conda-forge/r-vam-feedstock.git
 	path = feedstocks/r-vam
 	branch = refs/heads/master
+[submodule "r-shinyheatmaply"]
+	url = https://github.com/conda-forge/r-shinyheatmaply-feedstock.git
+	path = feedstocks/r-shinyheatmaply
+	branch = refs/heads/master
