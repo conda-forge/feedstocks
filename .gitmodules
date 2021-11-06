@@ -57502,3 +57502,7 @@
 	url = https://github.com/conda-forge/r-tippy-feedstock.git
 	path = feedstocks/r-tippy
 	branch = refs/heads/master
+[submodule "r-valr"]
+	url = https://github.com/conda-forge/r-valr-feedstock.git
+	path = feedstocks/r-valr
+	branch = refs/heads/master
