@@ -57558,3 +57558,7 @@
 	url = https://github.com/conda-forge/flake8-logging-format-feedstock.git
 	path = feedstocks/flake8-logging-format
 	branch = refs/heads/master
+[submodule "flake8-pytest-style"]
+	url = https://github.com/conda-forge/flake8-pytest-style-feedstock.git
+	path = feedstocks/flake8-pytest-style
+	branch = refs/heads/master
