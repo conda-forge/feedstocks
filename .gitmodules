@@ -57538,3 +57538,7 @@
 	url = https://github.com/conda-forge/r-cytometree-feedstock.git
 	path = feedstocks/r-cytometree
 	branch = refs/heads/master
+[submodule "flake8-spellcheck"]
+	url = https://github.com/conda-forge/flake8-spellcheck-feedstock.git
+	path = feedstocks/flake8-spellcheck
+	branch = refs/heads/master
