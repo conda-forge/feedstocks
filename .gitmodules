@@ -57554,3 +57554,7 @@
 	url = https://github.com/conda-forge/flake8-multiline-containers-feedstock.git
 	path = feedstocks/flake8-multiline-containers
 	branch = refs/heads/master
+[submodule "flake8-logging-format"]
+	url = https://github.com/conda-forge/flake8-logging-format-feedstock.git
+	path = feedstocks/flake8-logging-format
+	branch = refs/heads/master
