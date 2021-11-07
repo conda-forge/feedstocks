@@ -57550,3 +57550,7 @@
 	url = https://github.com/conda-forge/flake8-type-checking-feedstock.git
 	path = feedstocks/flake8-type-checking
 	branch = refs/heads/master
+[submodule "flake8-multiline-containers"]
+	url = https://github.com/conda-forge/flake8-multiline-containers-feedstock.git
+	path = feedstocks/flake8-multiline-containers
+	branch = refs/heads/master
