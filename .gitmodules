@@ -57562,3 +57562,7 @@
 	url = https://github.com/conda-forge/flake8-pytest-style-feedstock.git
 	path = feedstocks/flake8-pytest-style
 	branch = refs/heads/master
+[submodule "flake8-pie"]
+	url = https://github.com/conda-forge/flake8-pie-feedstock.git
+	path = feedstocks/flake8-pie
+	branch = refs/heads/master
