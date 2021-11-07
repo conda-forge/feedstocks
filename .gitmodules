@@ -57578,3 +57578,7 @@
 	url = https://github.com/conda-forge/mr-proper-feedstock.git
 	path = feedstocks/mr-proper
 	branch = refs/heads/master
+[submodule "r-roi.plugin.lpsolve"]
+	url = https://github.com/conda-forge/r-roi.plugin.lpsolve-feedstock.git
+	path = feedstocks/r-roi.plugin.lpsolve
+	branch = refs/heads/master
