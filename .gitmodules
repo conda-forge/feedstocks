@@ -57574,3 +57574,7 @@
 	url = https://github.com/conda-forge/flake8-markdown-feedstock.git
 	path = feedstocks/flake8-markdown
 	branch = refs/heads/master
+[submodule "mr-proper"]
+	url = https://github.com/conda-forge/mr-proper-feedstock.git
+	path = feedstocks/mr-proper
+	branch = refs/heads/master
