@@ -57542,3 +57542,7 @@
 	url = https://github.com/conda-forge/flake8-spellcheck-feedstock.git
 	path = feedstocks/flake8-spellcheck
 	branch = refs/heads/master
+[submodule "flake8-functions-names"]
+	url = https://github.com/conda-forge/flake8-functions-names-feedstock.git
+	path = feedstocks/flake8-functions-names
+	branch = refs/heads/master
