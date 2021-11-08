@@ -57618,3 +57618,7 @@
 	url = https://github.com/conda-forge/teachopencadd-feedstock.git
 	path = feedstocks/teachopencadd
 	branch = refs/heads/master
+[submodule "r-mlecens"]
+	url = https://github.com/conda-forge/r-mlecens-feedstock.git
+	path = feedstocks/r-mlecens
+	branch = refs/heads/master
