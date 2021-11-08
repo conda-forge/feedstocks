@@ -57594,3 +57594,7 @@
 	url = https://github.com/conda-forge/r-hostswitch-feedstock.git
 	path = feedstocks/r-hostswitch
 	branch = refs/heads/master
+[submodule "aproc"]
+	url = https://github.com/conda-forge/aproc-feedstock.git
+	path = feedstocks/aproc
+	branch = refs/heads/master
