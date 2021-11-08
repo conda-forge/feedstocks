@@ -57598,3 +57598,7 @@
 	url = https://github.com/conda-forge/aproc-feedstock.git
 	path = feedstocks/aproc
 	branch = refs/heads/master
+[submodule "r-condsurv"]
+	url = https://github.com/conda-forge/r-condsurv-feedstock.git
+	path = feedstocks/r-condsurv
+	branch = refs/heads/master
