@@ -57622,3 +57622,7 @@
 	url = https://github.com/conda-forge/r-mlecens-feedstock.git
 	path = feedstocks/r-mlecens
 	branch = refs/heads/master
+[submodule "flake8-functions"]
+	url = https://github.com/conda-forge/flake8-functions-feedstock.git
+	path = feedstocks/flake8-functions
+	branch = refs/heads/master
