@@ -57634,3 +57634,7 @@
 	url = https://github.com/conda-forge/r-gmedian-feedstock.git
 	path = feedstocks/r-gmedian
 	branch = refs/heads/master
+[submodule "r-gfd"]
+	url = https://github.com/conda-forge/r-gfd-feedstock.git
+	path = feedstocks/r-gfd
+	branch = refs/heads/master
