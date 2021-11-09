@@ -57694,3 +57694,7 @@
 	url = https://github.com/conda-forge/flake8-broken-line-feedstock.git
 	path = feedstocks/flake8-broken-line
 	branch = refs/heads/master
+[submodule "meg"]
+	url = https://github.com/conda-forge/meg-feedstock.git
+	path = feedstocks/meg
+	branch = refs/heads/master
