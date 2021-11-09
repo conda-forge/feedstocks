@@ -57706,3 +57706,7 @@
 	url = https://github.com/conda-forge/speedtest-cli-feedstock.git
 	path = feedstocks/speedtest-cli
 	branch = refs/heads/master
+[submodule "physical_validation"]
+	url = https://github.com/conda-forge/physical_validation-feedstock.git
+	path = feedstocks/physical_validation
+	branch = refs/heads/master
