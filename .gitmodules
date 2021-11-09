@@ -57630,3 +57630,7 @@
 	url = https://github.com/conda-forge/r-npregfast-feedstock.git
 	path = feedstocks/r-npregfast
 	branch = refs/heads/master
+[submodule "r-gmedian"]
+	url = https://github.com/conda-forge/r-gmedian-feedstock.git
+	path = feedstocks/r-gmedian
+	branch = refs/heads/master
