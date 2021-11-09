@@ -57710,3 +57710,7 @@
 	url = https://github.com/conda-forge/physical_validation-feedstock.git
 	path = feedstocks/physical_validation
 	branch = refs/heads/master
+[submodule "avro-python3"]
+	url = https://github.com/conda-forge/avro-python3-feedstock.git
+	path = feedstocks/avro-python3
+	branch = refs/heads/master
