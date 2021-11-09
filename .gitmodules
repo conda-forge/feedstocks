@@ -57658,3 +57658,7 @@
 	url = https://github.com/conda-forge/grapharray-feedstock.git
 	path = feedstocks/grapharray
 	branch = refs/heads/master
+[submodule "categorical-distance"]
+	url = https://github.com/conda-forge/categorical-distance-feedstock.git
+	path = feedstocks/categorical-distance
+	branch = refs/heads/master
