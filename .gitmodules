@@ -57682,3 +57682,7 @@
 	url = https://github.com/conda-forge/dedupe-hcluster-feedstock.git
 	path = feedstocks/dedupe-hcluster
 	branch = refs/heads/master
+[submodule "probed"]
+	url = https://github.com/conda-forge/probed-feedstock.git
+	path = feedstocks/probed
+	branch = refs/heads/master
