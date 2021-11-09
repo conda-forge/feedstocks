@@ -57702,3 +57702,7 @@
 	url = https://github.com/conda-forge/docstring-inheritance-feedstock.git
 	path = feedstocks/docstring-inheritance
 	branch = refs/heads/master
+[submodule "speedtest-cli"]
+	url = https://github.com/conda-forge/speedtest-cli-feedstock.git
+	path = feedstocks/speedtest-cli
+	branch = refs/heads/master
