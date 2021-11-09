@@ -57686,3 +57686,7 @@
 	url = https://github.com/conda-forge/probed-feedstock.git
 	path = feedstocks/probed
 	branch = refs/heads/master
+[submodule "dlint"]
+	url = https://github.com/conda-forge/dlint-feedstock.git
+	path = feedstocks/dlint
+	branch = refs/heads/master
