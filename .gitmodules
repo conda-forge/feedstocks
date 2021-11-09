@@ -57642,3 +57642,7 @@
 	url = https://github.com/conda-forge/scikit-survival-feedstock.git
 	path = feedstocks/scikit-survival
 	branch = refs/heads/master
+[submodule "requests-gssapi"]
+	url = https://github.com/conda-forge/requests-gssapi-feedstock.git
+	path = feedstocks/requests-gssapi
+	branch = refs/heads/master
