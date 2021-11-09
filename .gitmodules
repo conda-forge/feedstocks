@@ -57654,3 +57654,7 @@
 	url = https://github.com/conda-forge/python-elf-feedstock.git
 	path = feedstocks/python-elf
 	branch = refs/heads/master
+[submodule "grapharray"]
+	url = https://github.com/conda-forge/grapharray-feedstock.git
+	path = feedstocks/grapharray
+	branch = refs/heads/master
