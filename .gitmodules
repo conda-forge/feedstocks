@@ -57638,3 +57638,7 @@
 	url = https://github.com/conda-forge/r-gfd-feedstock.git
 	path = feedstocks/r-gfd
 	branch = refs/heads/master
+[submodule "scikit-survival"]
+	url = https://github.com/conda-forge/scikit-survival-feedstock.git
+	path = feedstocks/scikit-survival
+	branch = refs/heads/master
