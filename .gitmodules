@@ -57678,3 +57678,7 @@
 	url = https://github.com/conda-forge/cohesion-feedstock.git
 	path = feedstocks/cohesion
 	branch = refs/heads/master
+[submodule "dedupe-hcluster"]
+	url = https://github.com/conda-forge/dedupe-hcluster-feedstock.git
+	path = feedstocks/dedupe-hcluster
+	branch = refs/heads/master
