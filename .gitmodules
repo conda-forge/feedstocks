@@ -57690,3 +57690,7 @@
 	url = https://github.com/conda-forge/dlint-feedstock.git
 	path = feedstocks/dlint
 	branch = refs/heads/master
+[submodule "flake8-broken-line"]
+	url = https://github.com/conda-forge/flake8-broken-line-feedstock.git
+	path = feedstocks/flake8-broken-line
+	branch = refs/heads/master
