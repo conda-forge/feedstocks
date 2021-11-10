@@ -57738,3 +57738,7 @@
 	url = https://github.com/conda-forge/newversion-feedstock.git
 	path = feedstocks/newversion
 	branch = refs/heads/master
+[submodule "num-utils"]
+	url = https://github.com/conda-forge/num-utils-feedstock.git
+	path = feedstocks/num-utils
+	branch = refs/heads/master
