@@ -57714,3 +57714,7 @@
 	url = https://github.com/conda-forge/avro-python3-feedstock.git
 	path = feedstocks/avro-python3
 	branch = refs/heads/master
+[submodule "nbmake"]
+	url = https://github.com/conda-forge/nbmake-feedstock.git
+	path = feedstocks/nbmake
+	branch = refs/heads/master
