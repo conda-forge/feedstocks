@@ -57734,3 +57734,7 @@
 	url = https://github.com/conda-forge/dataconf-feedstock.git
 	path = feedstocks/dataconf
 	branch = refs/heads/master
+[submodule "newversion"]
+	url = https://github.com/conda-forge/newversion-feedstock.git
+	path = feedstocks/newversion
+	branch = refs/heads/master
