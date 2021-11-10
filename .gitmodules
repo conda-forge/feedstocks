@@ -57754,3 +57754,7 @@
 	url = https://github.com/conda-forge/des-y6utils-feedstock.git
 	path = feedstocks/des-y6utils
 	branch = refs/heads/master
+[submodule "pdcurses"]
+	url = https://github.com/conda-forge/pdcurses-feedstock.git
+	path = feedstocks/pdcurses
+	branch = refs/heads/master
