@@ -57758,3 +57758,7 @@
 	url = https://github.com/conda-forge/pdcurses-feedstock.git
 	path = feedstocks/pdcurses
 	branch = refs/heads/master
+[submodule "caio"]
+	url = https://github.com/conda-forge/caio-feedstock.git
+	path = feedstocks/caio
+	branch = refs/heads/master
