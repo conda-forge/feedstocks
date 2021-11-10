@@ -57730,3 +57730,7 @@
 	url = https://github.com/conda-forge/google-cloud-life-sciences-feedstock.git
 	path = feedstocks/google-cloud-life-sciences
 	branch = refs/heads/master
+[submodule "dataconf"]
+	url = https://github.com/conda-forge/dataconf-feedstock.git
+	path = feedstocks/dataconf
+	branch = refs/heads/master
