@@ -57742,3 +57742,7 @@
 	url = https://github.com/conda-forge/num-utils-feedstock.git
 	path = feedstocks/num-utils
 	branch = refs/heads/master
+[submodule "pyright"]
+	url = https://github.com/conda-forge/pyright-feedstock.git
+	path = feedstocks/pyright
+	branch = refs/heads/master
