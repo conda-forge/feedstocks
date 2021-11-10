@@ -57718,3 +57718,7 @@
 	url = https://github.com/conda-forge/nbmake-feedstock.git
 	path = feedstocks/nbmake
 	branch = refs/heads/master
+[submodule "montreal-forced-aligner"]
+	url = https://github.com/conda-forge/montreal-forced-aligner-feedstock.git
+	path = feedstocks/montreal-forced-aligner
+	branch = refs/heads/master
