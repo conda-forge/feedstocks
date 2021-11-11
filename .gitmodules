@@ -57790,3 +57790,7 @@
 	url = https://github.com/conda-forge/perl-extutils-makemaker-feedstock.git
 	path = feedstocks/perl-extutils-makemaker
 	branch = refs/heads/master
+[submodule "perl-constant"]
+	url = https://github.com/conda-forge/perl-constant-feedstock.git
+	path = feedstocks/perl-constant
+	branch = refs/heads/master
