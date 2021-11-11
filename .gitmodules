@@ -57798,3 +57798,7 @@
 	url = https://github.com/conda-forge/perl-file-homedir-feedstock.git
 	path = feedstocks/perl-file-homedir
 	branch = refs/heads/master
+[submodule "perl-yaml-tiny"]
+	url = https://github.com/conda-forge/perl-yaml-tiny-feedstock.git
+	path = feedstocks/perl-yaml-tiny
+	branch = refs/heads/master
