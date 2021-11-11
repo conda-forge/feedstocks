@@ -57846,3 +57846,7 @@
 	url = https://github.com/conda-forge/cirq-feedstock.git
 	path = feedstocks/cirq
 	branch = refs/heads/master
+[submodule "r-chromomap"]
+	url = https://github.com/conda-forge/r-chromomap-feedstock.git
+	path = feedstocks/r-chromomap
+	branch = refs/heads/master
