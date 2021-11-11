@@ -57818,3 +57818,7 @@
 	url = https://github.com/conda-forge/perl-file-which-feedstock.git
 	path = feedstocks/perl-file-which
 	branch = refs/heads/master
+[submodule "perl-xsloader"]
+	url = https://github.com/conda-forge/perl-xsloader-feedstock.git
+	path = feedstocks/perl-xsloader
+	branch = refs/heads/master
