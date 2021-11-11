@@ -57802,3 +57802,7 @@
 	url = https://github.com/conda-forge/perl-yaml-tiny-feedstock.git
 	path = feedstocks/perl-yaml-tiny
 	branch = refs/heads/master
+[submodule "perl-exporter"]
+	url = https://github.com/conda-forge/perl-exporter-feedstock.git
+	path = feedstocks/perl-exporter
+	branch = refs/heads/master
