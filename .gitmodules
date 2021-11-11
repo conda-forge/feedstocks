@@ -57786,3 +57786,7 @@
 	url = https://github.com/conda-forge/perl-carp-feedstock.git
 	path = feedstocks/perl-carp
 	branch = refs/heads/master
+[submodule "perl-extutils-makemaker"]
+	url = https://github.com/conda-forge/perl-extutils-makemaker-feedstock.git
+	path = feedstocks/perl-extutils-makemaker
+	branch = refs/heads/master
