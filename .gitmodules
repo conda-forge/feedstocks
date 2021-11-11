@@ -57794,3 +57794,7 @@
 	url = https://github.com/conda-forge/perl-constant-feedstock.git
 	path = feedstocks/perl-constant
 	branch = refs/heads/master
+[submodule "perl-file-homedir"]
+	url = https://github.com/conda-forge/perl-file-homedir-feedstock.git
+	path = feedstocks/perl-file-homedir
+	branch = refs/heads/master
