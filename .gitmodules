@@ -57874,3 +57874,7 @@
 	url = https://github.com/conda-forge/cluster_tools-feedstock.git
 	path = feedstocks/cluster_tools
 	branch = refs/heads/master
+[submodule "db-dtypes"]
+	url = https://github.com/conda-forge/db-dtypes-feedstock.git
+	path = feedstocks/db-dtypes
+	branch = refs/heads/master
