@@ -57782,3 +57782,7 @@
 	url = https://github.com/conda-forge/natural-feedstock.git
 	path = feedstocks/natural
 	branch = refs/heads/master
+[submodule "perl-carp"]
+	url = https://github.com/conda-forge/perl-carp-feedstock.git
+	path = feedstocks/perl-carp
+	branch = refs/heads/master
