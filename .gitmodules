@@ -57838,3 +57838,7 @@
 	url = https://github.com/conda-forge/cds-crtools-feedstock.git
 	path = feedstocks/cds-crtools
 	branch = refs/heads/master
+[submodule "igwn-alert"]
+	url = https://github.com/conda-forge/igwn-alert-feedstock.git
+	path = feedstocks/igwn-alert
+	branch = refs/heads/master
