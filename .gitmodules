@@ -57830,3 +57830,7 @@
 	url = https://github.com/conda-forge/perl-parent-feedstock.git
 	path = feedstocks/perl-parent
 	branch = refs/heads/master
+[submodule "perl-file-temp"]
+	url = https://github.com/conda-forge/perl-file-temp-feedstock.git
+	path = feedstocks/perl-file-temp
+	branch = refs/heads/master
