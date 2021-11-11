@@ -57870,3 +57870,7 @@
 	url = https://github.com/conda-forge/py-dom-xpath-six-feedstock.git
 	path = feedstocks/py-dom-xpath-six
 	branch = refs/heads/master
+[submodule "cluster_tools"]
+	url = https://github.com/conda-forge/cluster_tools-feedstock.git
+	path = feedstocks/cluster_tools
+	branch = refs/heads/master
