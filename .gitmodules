@@ -57770,3 +57770,7 @@
 	url = https://github.com/conda-forge/partialwrap-feedstock.git
 	path = feedstocks/partialwrap
 	branch = refs/heads/master
+[submodule "snntorch"]
+	url = https://github.com/conda-forge/snntorch-feedstock.git
+	path = feedstocks/snntorch
+	branch = refs/heads/master
