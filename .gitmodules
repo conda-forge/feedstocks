@@ -57842,3 +57842,7 @@
 	url = https://github.com/conda-forge/igwn-alert-feedstock.git
 	path = feedstocks/igwn-alert
 	branch = refs/heads/master
+[submodule "cirq"]
+	url = https://github.com/conda-forge/cirq-feedstock.git
+	path = feedstocks/cirq
+	branch = refs/heads/master
