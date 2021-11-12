@@ -57882,3 +57882,7 @@
 	url = https://github.com/conda-forge/r-miceadds-feedstock.git
 	path = feedstocks/r-miceadds
 	branch = refs/heads/master
+[submodule "motifcluster"]
+	url = https://github.com/conda-forge/motifcluster-feedstock.git
+	path = feedstocks/motifcluster
+	branch = refs/heads/master
