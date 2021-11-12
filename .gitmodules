@@ -57898,3 +57898,7 @@
 	url = https://github.com/conda-forge/toml-f-feedstock.git
 	path = feedstocks/toml-f
 	branch = refs/heads/master
+[submodule "uxarray"]
+	url = https://github.com/conda-forge/uxarray-feedstock.git
+	path = feedstocks/uxarray
+	branch = refs/heads/master
