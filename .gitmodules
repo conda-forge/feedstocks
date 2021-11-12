@@ -57890,3 +57890,7 @@
 	url = https://github.com/conda-forge/copulas-feedstock.git
 	path = feedstocks/copulas
 	branch = refs/heads/master
+[submodule "mctc-lib"]
+	url = https://github.com/conda-forge/mctc-lib-feedstock.git
+	path = feedstocks/mctc-lib
+	branch = refs/heads/master
