@@ -57886,3 +57886,7 @@
 	url = https://github.com/conda-forge/motifcluster-feedstock.git
 	path = feedstocks/motifcluster
 	branch = refs/heads/master
+[submodule "copulas"]
+	url = https://github.com/conda-forge/copulas-feedstock.git
+	path = feedstocks/copulas
+	branch = refs/heads/master
