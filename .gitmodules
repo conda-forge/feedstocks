@@ -57910,3 +57910,7 @@
 	url = https://github.com/conda-forge/tb3py-feedstock.git
 	path = feedstocks/tb3py
 	branch = refs/heads/master
+[submodule "google-cloud-compute"]
+	url = https://github.com/conda-forge/google-cloud-compute-feedstock.git
+	path = feedstocks/google-cloud-compute
+	branch = refs/heads/master
