@@ -57878,3 +57878,7 @@
 	url = https://github.com/conda-forge/db-dtypes-feedstock.git
 	path = feedstocks/db-dtypes
 	branch = refs/heads/master
+[submodule "r-miceadds"]
+	url = https://github.com/conda-forge/r-miceadds-feedstock.git
+	path = feedstocks/r-miceadds
+	branch = refs/heads/master
