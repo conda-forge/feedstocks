@@ -57902,3 +57902,7 @@
 	url = https://github.com/conda-forge/uxarray-feedstock.git
 	path = feedstocks/uxarray
 	branch = refs/heads/master
+[submodule "levenshtein-search"]
+	url = https://github.com/conda-forge/levenshtein-search-feedstock.git
+	path = feedstocks/levenshtein-search
+	branch = refs/heads/master
