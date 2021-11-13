@@ -57954,3 +57954,7 @@
 	url = https://github.com/conda-forge/sty-feedstock.git
 	path = feedstocks/sty
 	branch = refs/heads/master
+[submodule "mutpy"]
+	url = https://github.com/conda-forge/mutpy-feedstock.git
+	path = feedstocks/mutpy
+	branch = refs/heads/master
