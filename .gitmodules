@@ -57914,3 +57914,7 @@
 	url = https://github.com/conda-forge/google-cloud-compute-feedstock.git
 	path = feedstocks/google-cloud-compute
 	branch = refs/heads/master
+[submodule "pytorch-ignite"]
+	url = https://github.com/conda-forge/pytorch-ignite-feedstock.git
+	path = feedstocks/pytorch-ignite
+	branch = refs/heads/master
