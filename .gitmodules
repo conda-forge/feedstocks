@@ -57958,3 +57958,7 @@
 	url = https://github.com/conda-forge/mutpy-feedstock.git
 	path = feedstocks/mutpy
 	branch = refs/heads/master
+[submodule "geograph"]
+	url = https://github.com/conda-forge/geograph-feedstock.git
+	path = feedstocks/geograph
+	branch = refs/heads/master
