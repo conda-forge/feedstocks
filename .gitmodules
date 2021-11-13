@@ -57918,3 +57918,7 @@
 	url = https://github.com/conda-forge/pytorch-ignite-feedstock.git
 	path = feedstocks/pytorch-ignite
 	branch = refs/heads/master
+[submodule "r-tables"]
+	url = https://github.com/conda-forge/r-tables-feedstock.git
+	path = feedstocks/r-tables
+	branch = refs/heads/master
