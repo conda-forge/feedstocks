@@ -57922,3 +57922,7 @@
 	url = https://github.com/conda-forge/r-tables-feedstock.git
 	path = feedstocks/r-tables
 	branch = refs/heads/master
+[submodule "r-modelsummary"]
+	url = https://github.com/conda-forge/r-modelsummary-feedstock.git
+	path = feedstocks/r-modelsummary
+	branch = refs/heads/master
