@@ -57942,3 +57942,7 @@
 	url = https://github.com/conda-forge/mobie_utils-feedstock.git
 	path = feedstocks/mobie_utils
 	branch = refs/heads/master
+[submodule "r-fossil"]
+	url = https://github.com/conda-forge/r-fossil-feedstock.git
+	path = feedstocks/r-fossil
+	branch = refs/heads/master
