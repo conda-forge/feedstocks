@@ -57938,3 +57938,7 @@
 	url = https://github.com/conda-forge/r-arrangements-feedstock.git
 	path = feedstocks/r-arrangements
 	branch = refs/heads/master
+[submodule "mobie_utils"]
+	url = https://github.com/conda-forge/mobie_utils-feedstock.git
+	path = feedstocks/mobie_utils
+	branch = refs/heads/master
