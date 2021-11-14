@@ -57974,3 +57974,7 @@
 	url = https://github.com/conda-forge/spacy-alignments-feedstock.git
 	path = feedstocks/spacy-alignments
 	branch = refs/heads/master
+[submodule "pybaselines"]
+	url = https://github.com/conda-forge/pybaselines-feedstock.git
+	path = feedstocks/pybaselines
+	branch = refs/heads/master
