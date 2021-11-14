@@ -57970,3 +57970,7 @@
 	url = https://github.com/conda-forge/sacred-feedstock.git
 	path = feedstocks/sacred
 	branch = refs/heads/master
+[submodule "spacy-alignments"]
+	url = https://github.com/conda-forge/spacy-alignments-feedstock.git
+	path = feedstocks/spacy-alignments
+	branch = refs/heads/master
