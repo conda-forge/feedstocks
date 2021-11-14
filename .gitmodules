@@ -57962,3 +57962,7 @@
 	url = https://github.com/conda-forge/geograph-feedstock.git
 	path = feedstocks/geograph
 	branch = refs/heads/master
+[submodule "nzpy"]
+	url = https://github.com/conda-forge/nzpy-feedstock.git
+	path = feedstocks/nzpy
+	branch = refs/heads/master
