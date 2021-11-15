@@ -57982,3 +57982,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-otlp-proto-http-feedstock.git
 	path = feedstocks/opentelemetry-exporter-otlp-proto-http
 	branch = refs/heads/master
+[submodule "opentelemetry-propagator-jaeger"]
+	url = https://github.com/conda-forge/opentelemetry-propagator-jaeger-feedstock.git
+	path = feedstocks/opentelemetry-propagator-jaeger
+	branch = refs/heads/master
