@@ -57990,3 +57990,7 @@
 	url = https://github.com/conda-forge/rastervision-aws-batch-feedstock.git
 	path = feedstocks/rastervision-aws-batch
 	branch = refs/heads/master
+[submodule "delta-sharing-python"]
+	url = https://github.com/conda-forge/delta-sharing-python-feedstock.git
+	path = feedstocks/delta-sharing-python
+	branch = refs/heads/master
