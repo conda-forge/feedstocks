@@ -58014,3 +58014,7 @@
 	url = https://github.com/conda-forge/pydantic-cli-feedstock.git
 	path = feedstocks/pydantic-cli
 	branch = refs/heads/master
+[submodule "python-prctl"]
+	url = https://github.com/conda-forge/python-prctl-feedstock.git
+	path = feedstocks/python-prctl
+	branch = refs/heads/master
