@@ -58002,3 +58002,7 @@
 	url = https://github.com/conda-forge/pipda-feedstock.git
 	path = feedstocks/pipda
 	branch = refs/heads/master
+[submodule "precice"]
+	url = https://github.com/conda-forge/precice-feedstock.git
+	path = feedstocks/precice
+	branch = refs/heads/master
