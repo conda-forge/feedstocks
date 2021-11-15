@@ -58006,3 +58006,7 @@
 	url = https://github.com/conda-forge/precice-feedstock.git
 	path = feedstocks/precice
 	branch = refs/heads/master
+[submodule "pyprecice"]
+	url = https://github.com/conda-forge/pyprecice-feedstock.git
+	path = feedstocks/pyprecice
+	branch = refs/heads/master
