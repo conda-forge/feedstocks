@@ -58010,3 +58010,7 @@
 	url = https://github.com/conda-forge/pyprecice-feedstock.git
 	path = feedstocks/pyprecice
 	branch = refs/heads/master
+[submodule "pydantic-cli"]
+	url = https://github.com/conda-forge/pydantic-cli-feedstock.git
+	path = feedstocks/pydantic-cli
+	branch = refs/heads/master
