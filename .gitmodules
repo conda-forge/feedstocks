@@ -58046,3 +58046,7 @@
 	url = https://github.com/conda-forge/rastervision-gdal-vsi-feedstock.git
 	path = feedstocks/rastervision-gdal-vsi
 	branch = refs/heads/master
+[submodule "seml"]
+	url = https://github.com/conda-forge/seml-feedstock.git
+	path = feedstocks/seml
+	branch = refs/heads/master
