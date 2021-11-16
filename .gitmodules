@@ -58090,3 +58090,7 @@
 	url = https://github.com/conda-forge/aoe2netwrapper-feedstock.git
 	path = feedstocks/aoe2netwrapper
 	branch = refs/heads/master
+[submodule "zope.index"]
+	url = https://github.com/conda-forge/zope.index-feedstock.git
+	path = feedstocks/zope.index
+	branch = refs/heads/master
