@@ -58022,3 +58022,7 @@
 	url = https://github.com/conda-forge/btrees-feedstock.git
 	path = feedstocks/btrees
 	branch = refs/heads/master
+[submodule "persistent"]
+	url = https://github.com/conda-forge/persistent-feedstock.git
+	path = feedstocks/persistent
+	branch = refs/heads/master
