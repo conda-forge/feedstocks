@@ -58034,3 +58034,7 @@
 	url = https://github.com/conda-forge/latexdiff-feedstock.git
 	path = feedstocks/latexdiff
 	branch = refs/heads/master
+[submodule "latexindent.pl"]
+	url = https://github.com/conda-forge/latexindent.pl-feedstock.git
+	path = feedstocks/latexindent.pl
+	branch = refs/heads/master
