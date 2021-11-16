@@ -58042,3 +58042,7 @@
 	url = https://github.com/conda-forge/taxidtools-feedstock.git
 	path = feedstocks/taxidtools
 	branch = refs/heads/master
+[submodule "rastervision-gdal-vsi"]
+	url = https://github.com/conda-forge/rastervision-gdal-vsi-feedstock.git
+	path = feedstocks/rastervision-gdal-vsi
+	branch = refs/heads/master
