@@ -58026,3 +58026,7 @@
 	url = https://github.com/conda-forge/persistent-feedstock.git
 	path = feedstocks/persistent
 	branch = refs/heads/master
+[submodule "perl-algorithm-diff"]
+	url = https://github.com/conda-forge/perl-algorithm-diff-feedstock.git
+	path = feedstocks/perl-algorithm-diff
+	branch = refs/heads/master
