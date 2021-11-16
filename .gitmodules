@@ -58066,3 +58066,7 @@
 	url = https://github.com/conda-forge/mth5-feedstock.git
 	path = feedstocks/mth5
 	branch = refs/heads/master
+[submodule "seqdat"]
+	url = https://github.com/conda-forge/seqdat-feedstock.git
+	path = feedstocks/seqdat
+	branch = refs/heads/master
