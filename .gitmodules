@@ -58030,3 +58030,7 @@
 	url = https://github.com/conda-forge/perl-algorithm-diff-feedstock.git
 	path = feedstocks/perl-algorithm-diff
 	branch = refs/heads/master
+[submodule "latexdiff"]
+	url = https://github.com/conda-forge/latexdiff-feedstock.git
+	path = feedstocks/latexdiff
+	branch = refs/heads/master
