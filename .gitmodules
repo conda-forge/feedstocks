@@ -58038,3 +58038,7 @@
 	url = https://github.com/conda-forge/latexindent.pl-feedstock.git
 	path = feedstocks/latexindent.pl
 	branch = refs/heads/master
+[submodule "taxidtools"]
+	url = https://github.com/conda-forge/taxidtools-feedstock.git
+	path = feedstocks/taxidtools
+	branch = refs/heads/master
