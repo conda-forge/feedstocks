@@ -58082,3 +58082,7 @@
 	url = https://github.com/conda-forge/torchgeo-feedstock.git
 	path = feedstocks/torchgeo
 	branch = refs/heads/master
+[submodule "flox"]
+	url = https://github.com/conda-forge/flox-feedstock.git
+	path = feedstocks/flox
+	branch = refs/heads/master
