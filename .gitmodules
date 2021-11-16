@@ -58018,3 +58018,7 @@
 	url = https://github.com/conda-forge/python-prctl-feedstock.git
 	path = feedstocks/python-prctl
 	branch = refs/heads/master
+[submodule "btrees"]
+	url = https://github.com/conda-forge/btrees-feedstock.git
+	path = feedstocks/btrees
+	branch = refs/heads/master
