@@ -58070,3 +58070,7 @@
 	url = https://github.com/conda-forge/seqdat-feedstock.git
 	path = feedstocks/seqdat
 	branch = refs/heads/master
+[submodule "sarif-om"]
+	url = https://github.com/conda-forge/sarif-om-feedstock.git
+	path = feedstocks/sarif-om
+	branch = refs/heads/master
