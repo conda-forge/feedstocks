@@ -58086,3 +58086,7 @@
 	url = https://github.com/conda-forge/flox-feedstock.git
 	path = feedstocks/flox
 	branch = refs/heads/master
+[submodule "aoe2netwrapper"]
+	url = https://github.com/conda-forge/aoe2netwrapper-feedstock.git
+	path = feedstocks/aoe2netwrapper
+	branch = refs/heads/master
