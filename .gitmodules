@@ -58122,3 +58122,7 @@
 	url = https://github.com/conda-forge/lb-nightly-rpc-feedstock.git
 	path = feedstocks/lb-nightly-rpc
 	branch = refs/heads/master
+[submodule "elsi"]
+	url = https://github.com/conda-forge/elsi-feedstock.git
+	path = feedstocks/elsi
+	branch = refs/heads/master
