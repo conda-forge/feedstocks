@@ -58102,3 +58102,7 @@
 	url = https://github.com/conda-forge/lb-nightly-configuration-feedstock.git
 	path = feedstocks/lb-nightly-configuration
 	branch = refs/heads/master
+[submodule "lb-nightly-db"]
+	url = https://github.com/conda-forge/lb-nightly-db-feedstock.git
+	path = feedstocks/lb-nightly-db
+	branch = refs/heads/master
