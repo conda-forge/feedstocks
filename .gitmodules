@@ -58098,3 +58098,7 @@
 	url = https://github.com/conda-forge/r-shinylogs-feedstock.git
 	path = feedstocks/r-shinylogs
 	branch = refs/heads/master
+[submodule "lb-nightly-configuration"]
+	url = https://github.com/conda-forge/lb-nightly-configuration-feedstock.git
+	path = feedstocks/lb-nightly-configuration
+	branch = refs/heads/master
