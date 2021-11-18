@@ -58146,3 +58146,7 @@
 	url = https://github.com/conda-forge/r-emc-feedstock.git
 	path = feedstocks/r-emc
 	branch = refs/heads/master
+[submodule "spacy-transformers"]
+	url = https://github.com/conda-forge/spacy-transformers-feedstock.git
+	path = feedstocks/spacy-transformers
+	branch = refs/heads/master
