@@ -58142,3 +58142,7 @@
 	url = https://github.com/conda-forge/lb-nightly-functions-feedstock.git
 	path = feedstocks/lb-nightly-functions
 	branch = refs/heads/master
+[submodule "r-emc"]
+	url = https://github.com/conda-forge/r-emc-feedstock.git
+	path = feedstocks/r-emc
+	branch = refs/heads/master
