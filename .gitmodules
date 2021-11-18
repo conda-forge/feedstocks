@@ -58130,3 +58130,7 @@
 	url = https://github.com/conda-forge/pyhacrf-datamade-feedstock.git
 	path = feedstocks/pyhacrf-datamade
 	branch = refs/heads/master
+[submodule "mutmut"]
+	url = https://github.com/conda-forge/mutmut-feedstock.git
+	path = feedstocks/mutmut
+	branch = refs/heads/master
