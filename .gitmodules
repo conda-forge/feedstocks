@@ -58138,3 +58138,7 @@
 	url = https://github.com/conda-forge/ripfind-feedstock.git
 	path = feedstocks/ripfind
 	branch = refs/heads/master
+[submodule "lb-nightly-functions"]
+	url = https://github.com/conda-forge/lb-nightly-functions-feedstock.git
+	path = feedstocks/lb-nightly-functions
+	branch = refs/heads/master
