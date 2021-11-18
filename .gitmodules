@@ -58154,3 +58154,7 @@
 	url = https://github.com/conda-forge/pyapetnet-feedstock.git
 	path = feedstocks/pyapetnet
 	branch = refs/heads/master
+[submodule "highered"]
+	url = https://github.com/conda-forge/highered-feedstock.git
+	path = feedstocks/highered
+	branch = refs/heads/master
