@@ -58150,3 +58150,7 @@
 	url = https://github.com/conda-forge/spacy-transformers-feedstock.git
 	path = feedstocks/spacy-transformers
 	branch = refs/heads/master
+[submodule "pyapetnet"]
+	url = https://github.com/conda-forge/pyapetnet-feedstock.git
+	path = feedstocks/pyapetnet
+	branch = refs/heads/master
