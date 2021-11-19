@@ -58174,3 +58174,7 @@
 	url = https://github.com/conda-forge/sdds-feedstock.git
 	path = feedstocks/sdds
 	branch = refs/heads/master
+[submodule "generic_parser"]
+	url = https://github.com/conda-forge/generic_parser-feedstock.git
+	path = feedstocks/generic_parser
+	branch = refs/heads/master
