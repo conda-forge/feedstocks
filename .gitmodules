@@ -58178,3 +58178,7 @@
 	url = https://github.com/conda-forge/generic_parser-feedstock.git
 	path = feedstocks/generic_parser
 	branch = refs/heads/master
+[submodule "ctgan"]
+	url = https://github.com/conda-forge/ctgan-feedstock.git
+	path = feedstocks/ctgan
+	branch = refs/heads/master
