@@ -58158,3 +58158,7 @@
 	url = https://github.com/conda-forge/highered-feedstock.git
 	path = feedstocks/highered
 	branch = refs/heads/master
+[submodule "click-rich-help"]
+	url = https://github.com/conda-forge/click-rich-help-feedstock.git
+	path = feedstocks/click-rich-help
+	branch = refs/heads/master
