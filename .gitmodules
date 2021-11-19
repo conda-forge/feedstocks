@@ -58186,3 +58186,7 @@
 	url = https://github.com/conda-forge/visan-feedstock.git
 	path = feedstocks/visan
 	branch = refs/heads/master
+[submodule "deepecho"]
+	url = https://github.com/conda-forge/deepecho-feedstock.git
+	path = feedstocks/deepecho
+	branch = refs/heads/master
