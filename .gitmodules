@@ -58162,3 +58162,7 @@
 	url = https://github.com/conda-forge/click-rich-help-feedstock.git
 	path = feedstocks/click-rich-help
 	branch = refs/heads/master
+[submodule "tfs-pandas"]
+	url = https://github.com/conda-forge/tfs-pandas-feedstock.git
+	path = feedstocks/tfs-pandas
+	branch = refs/heads/master
