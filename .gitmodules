@@ -58182,3 +58182,7 @@
 	url = https://github.com/conda-forge/ctgan-feedstock.git
 	path = feedstocks/ctgan
 	branch = refs/heads/master
+[submodule "visan"]
+	url = https://github.com/conda-forge/visan-feedstock.git
+	path = feedstocks/visan
+	branch = refs/heads/master
