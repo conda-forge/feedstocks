@@ -58206,3 +58206,7 @@
 	url = https://github.com/conda-forge/scienceplots-feedstock.git
 	path = feedstocks/scienceplots
 	branch = refs/heads/master
+[submodule "r-icarus"]
+	url = https://github.com/conda-forge/r-icarus-feedstock.git
+	path = feedstocks/r-icarus
+	branch = refs/heads/master
