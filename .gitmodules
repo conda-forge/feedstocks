@@ -58270,3 +58270,7 @@
 	url = https://github.com/conda-forge/ffmpeg-progress-yield-feedstock.git
 	path = feedstocks/ffmpeg-progress-yield
 	branch = refs/heads/master
+[submodule "pyrender"]
+	url = https://github.com/conda-forge/pyrender-feedstock.git
+	path = feedstocks/pyrender
+	branch = refs/heads/master
