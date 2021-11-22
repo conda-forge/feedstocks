@@ -58278,3 +58278,7 @@
 	url = https://github.com/conda-forge/dfo-ls-feedstock.git
 	path = feedstocks/dfo-ls
 	branch = refs/heads/master
+[submodule "codechecker"]
+	url = https://github.com/conda-forge/codechecker-feedstock.git
+	path = feedstocks/codechecker
+	branch = refs/heads/master
