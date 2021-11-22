@@ -58210,3 +58210,7 @@
 	url = https://github.com/conda-forge/r-icarus-feedstock.git
 	path = feedstocks/r-icarus
 	branch = refs/heads/master
+[submodule "tango-controls-tui"]
+	url = https://github.com/conda-forge/tango-controls-tui-feedstock.git
+	path = feedstocks/tango-controls-tui
+	branch = refs/heads/master
