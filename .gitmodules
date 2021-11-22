@@ -58262,3 +58262,7 @@
 	url = https://github.com/conda-forge/pytest-grpc-feedstock.git
 	path = feedstocks/pytest-grpc
 	branch = refs/heads/master
+[submodule "notion-client"]
+	url = https://github.com/conda-forge/notion-client-feedstock.git
+	path = feedstocks/notion-client
+	branch = refs/heads/master
