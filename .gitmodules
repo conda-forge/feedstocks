@@ -58230,3 +58230,7 @@
 	url = https://github.com/conda-forge/trustregion-feedstock.git
 	path = feedstocks/trustregion
 	branch = refs/heads/master
+[submodule "genes2doe"]
+	url = https://github.com/conda-forge/genes2doe-feedstock.git
+	path = feedstocks/genes2doe
+	branch = refs/heads/master
