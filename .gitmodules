@@ -58274,3 +58274,7 @@
 	url = https://github.com/conda-forge/pyrender-feedstock.git
 	path = feedstocks/pyrender
 	branch = refs/heads/master
+[submodule "dfo-ls"]
+	url = https://github.com/conda-forge/dfo-ls-feedstock.git
+	path = feedstocks/dfo-ls
+	branch = refs/heads/master
