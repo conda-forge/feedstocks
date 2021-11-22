@@ -58202,3 +58202,7 @@
 	url = https://github.com/conda-forge/turn_by_turn-feedstock.git
 	path = feedstocks/turn_by_turn
 	branch = refs/heads/master
+[submodule "scienceplots"]
+	url = https://github.com/conda-forge/scienceplots-feedstock.git
+	path = feedstocks/scienceplots
+	branch = refs/heads/master
