@@ -58266,3 +58266,7 @@
 	url = https://github.com/conda-forge/notion-client-feedstock.git
 	path = feedstocks/notion-client
 	branch = refs/heads/master
+[submodule "ffmpeg-progress-yield"]
+	url = https://github.com/conda-forge/ffmpeg-progress-yield-feedstock.git
+	path = feedstocks/ffmpeg-progress-yield
+	branch = refs/heads/master
