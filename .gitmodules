@@ -58242,3 +58242,7 @@
 	url = https://github.com/conda-forge/optics_functions-feedstock.git
 	path = feedstocks/optics_functions
 	branch = refs/heads/master
+[submodule "clingo-lp"]
+	url = https://github.com/conda-forge/clingo-lp-feedstock.git
+	path = feedstocks/clingo-lp
+	branch = refs/heads/master
