@@ -58218,3 +58218,7 @@
 	url = https://github.com/conda-forge/fortran-language-server-feedstock.git
 	path = feedstocks/fortran-language-server
 	branch = refs/heads/master
+[submodule "flask-authorize"]
+	url = https://github.com/conda-forge/flask-authorize-feedstock.git
+	path = feedstocks/flask-authorize
+	branch = refs/heads/master
