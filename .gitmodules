@@ -58282,3 +58282,7 @@
 	url = https://github.com/conda-forge/codechecker-feedstock.git
 	path = feedstocks/codechecker
 	branch = refs/heads/master
+[submodule "discorpy"]
+	url = https://github.com/conda-forge/discorpy-feedstock.git
+	path = feedstocks/discorpy
+	branch = refs/heads/master
