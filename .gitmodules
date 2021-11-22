@@ -58226,3 +58226,7 @@
 	url = https://github.com/conda-forge/seamm-datastore-feedstock.git
 	path = feedstocks/seamm-datastore
 	branch = refs/heads/master
+[submodule "trustregion"]
+	url = https://github.com/conda-forge/trustregion-feedstock.git
+	path = feedstocks/trustregion
+	branch = refs/heads/master
