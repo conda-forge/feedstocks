@@ -58246,3 +58246,7 @@
 	url = https://github.com/conda-forge/clingo-lp-feedstock.git
 	path = feedstocks/clingo-lp
 	branch = refs/heads/master
+[submodule "clingo-lpx"]
+	url = https://github.com/conda-forge/clingo-lpx-feedstock.git
+	path = feedstocks/clingo-lpx
+	branch = refs/heads/master
