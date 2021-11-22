@@ -58222,3 +58222,7 @@
 	url = https://github.com/conda-forge/flask-authorize-feedstock.git
 	path = feedstocks/flask-authorize
 	branch = refs/heads/master
+[submodule "seamm-datastore"]
+	url = https://github.com/conda-forge/seamm-datastore-feedstock.git
+	path = feedstocks/seamm-datastore
+	branch = refs/heads/master
