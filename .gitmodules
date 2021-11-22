@@ -58254,3 +58254,7 @@
 	url = https://github.com/conda-forge/opensarlab_lib-feedstock.git
 	path = feedstocks/opensarlab_lib
 	branch = refs/heads/master
+[submodule "rlr"]
+	url = https://github.com/conda-forge/rlr-feedstock.git
+	path = feedstocks/rlr
+	branch = refs/heads/master
