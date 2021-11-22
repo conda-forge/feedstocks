@@ -58238,3 +58238,7 @@
 	url = https://github.com/conda-forge/obplatform-feedstock.git
 	path = feedstocks/obplatform
 	branch = refs/heads/master
+[submodule "optics_functions"]
+	url = https://github.com/conda-forge/optics_functions-feedstock.git
+	path = feedstocks/optics_functions
+	branch = refs/heads/master
