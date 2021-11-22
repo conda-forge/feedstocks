@@ -58258,3 +58258,7 @@
 	url = https://github.com/conda-forge/rlr-feedstock.git
 	path = feedstocks/rlr
 	branch = refs/heads/master
+[submodule "pytest-grpc"]
+	url = https://github.com/conda-forge/pytest-grpc-feedstock.git
+	path = feedstocks/pytest-grpc
+	branch = refs/heads/master
