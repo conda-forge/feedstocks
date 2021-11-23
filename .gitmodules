@@ -58290,3 +58290,7 @@
 	url = https://github.com/conda-forge/r-psychotree-feedstock.git
 	path = feedstocks/r-psychotree
 	branch = refs/heads/master
+[submodule "ffmpeg-normalize"]
+	url = https://github.com/conda-forge/ffmpeg-normalize-feedstock.git
+	path = feedstocks/ffmpeg-normalize
+	branch = refs/heads/master
