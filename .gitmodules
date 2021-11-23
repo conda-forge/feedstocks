@@ -58294,3 +58294,7 @@
 	url = https://github.com/conda-forge/ffmpeg-normalize-feedstock.git
 	path = feedstocks/ffmpeg-normalize
 	branch = refs/heads/master
+[submodule "multiuserfilelock"]
+	url = https://github.com/conda-forge/multiuserfilelock-feedstock.git
+	path = feedstocks/multiuserfilelock
+	branch = refs/heads/master
