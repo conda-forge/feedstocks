@@ -58298,3 +58298,7 @@
 	url = https://github.com/conda-forge/multiuserfilelock-feedstock.git
 	path = feedstocks/multiuserfilelock
 	branch = refs/heads/master
+[submodule "sarpy"]
+	url = https://github.com/conda-forge/sarpy-feedstock.git
+	path = feedstocks/sarpy
+	branch = refs/heads/master
