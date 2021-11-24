@@ -58326,3 +58326,7 @@
 	url = https://github.com/conda-forge/pennylane-lightning-feedstock.git
 	path = feedstocks/pennylane-lightning
 	branch = refs/heads/master
+[submodule "pennylane"]
+	url = https://github.com/conda-forge/pennylane-feedstock.git
+	path = feedstocks/pennylane
+	branch = refs/heads/master
