@@ -58334,3 +58334,7 @@
 	url = https://github.com/conda-forge/db12-feedstock.git
 	path = feedstocks/db12
 	branch = refs/heads/master
+[submodule "estimagic"]
+	url = https://github.com/conda-forge/estimagic-feedstock.git
+	path = feedstocks/estimagic
+	branch = refs/heads/master
