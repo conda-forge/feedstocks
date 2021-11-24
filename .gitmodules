@@ -58314,3 +58314,7 @@
 	url = https://github.com/conda-forge/r-scs-feedstock.git
 	path = feedstocks/r-scs
 	branch = refs/heads/master
+[submodule "r-ecosolver"]
+	url = https://github.com/conda-forge/r-ecosolver-feedstock.git
+	path = feedstocks/r-ecosolver
+	branch = refs/heads/master
