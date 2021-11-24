@@ -58306,3 +58306,7 @@
 	url = https://github.com/conda-forge/xsar-feedstock.git
 	path = feedstocks/xsar
 	branch = refs/heads/master
+[submodule "redlionfish"]
+	url = https://github.com/conda-forge/redlionfish-feedstock.git
+	path = feedstocks/redlionfish
+	branch = refs/heads/master
