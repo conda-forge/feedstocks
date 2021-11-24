@@ -58302,3 +58302,7 @@
 	url = https://github.com/conda-forge/sarpy-feedstock.git
 	path = feedstocks/sarpy
 	branch = refs/heads/master
+[submodule "xsar"]
+	url = https://github.com/conda-forge/xsar-feedstock.git
+	path = feedstocks/xsar
+	branch = refs/heads/master
