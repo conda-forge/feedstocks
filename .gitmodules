@@ -58342,3 +58342,7 @@
 	url = https://github.com/conda-forge/seamm-dashboard-feedstock.git
 	path = feedstocks/seamm-dashboard
 	branch = refs/heads/master
+[submodule "parserutils"]
+	url = https://github.com/conda-forge/parserutils-feedstock.git
+	path = feedstocks/parserutils
+	branch = refs/heads/master
