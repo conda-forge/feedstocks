@@ -58310,3 +58310,7 @@
 	url = https://github.com/conda-forge/redlionfish-feedstock.git
 	path = feedstocks/redlionfish
 	branch = refs/heads/master
+[submodule "r-scs"]
+	url = https://github.com/conda-forge/r-scs-feedstock.git
+	path = feedstocks/r-scs
+	branch = refs/heads/master
