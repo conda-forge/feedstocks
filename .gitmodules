@@ -58322,3 +58322,7 @@
 	url = https://github.com/conda-forge/r-ghibli-feedstock.git
 	path = feedstocks/r-ghibli
 	branch = refs/heads/master
+[submodule "pennylane-lightning"]
+	url = https://github.com/conda-forge/pennylane-lightning-feedstock.git
+	path = feedstocks/pennylane-lightning
+	branch = refs/heads/master
