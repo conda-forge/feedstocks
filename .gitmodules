@@ -58346,3 +58346,7 @@
 	url = https://github.com/conda-forge/parserutils-feedstock.git
 	path = feedstocks/parserutils
 	branch = refs/heads/master
+[submodule "edflib-python"]
+	url = https://github.com/conda-forge/edflib-python-feedstock.git
+	path = feedstocks/edflib-python
+	branch = refs/heads/master
