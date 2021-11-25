@@ -58358,3 +58358,7 @@
 	url = https://github.com/conda-forge/sdmetrics-feedstock.git
 	path = feedstocks/sdmetrics
 	branch = refs/heads/master
+[submodule "sphinx-design"]
+	url = https://github.com/conda-forge/sphinx-design-feedstock.git
+	path = feedstocks/sphinx-design
+	branch = refs/heads/master
