@@ -58362,3 +58362,7 @@
 	url = https://github.com/conda-forge/sphinx-design-feedstock.git
 	path = feedstocks/sphinx-design
 	branch = refs/heads/master
+[submodule "fprettify"]
+	url = https://github.com/conda-forge/fprettify-feedstock.git
+	path = feedstocks/fprettify
+	branch = refs/heads/master
