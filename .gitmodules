@@ -58350,3 +58350,7 @@
 	url = https://github.com/conda-forge/edflib-python-feedstock.git
 	path = feedstocks/edflib-python
 	branch = refs/heads/master
+[submodule "r-colorblindness"]
+	url = https://github.com/conda-forge/r-colorblindness-feedstock.git
+	path = feedstocks/r-colorblindness
+	branch = refs/heads/master
