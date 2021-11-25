@@ -58366,3 +58366,7 @@
 	url = https://github.com/conda-forge/fprettify-feedstock.git
 	path = feedstocks/fprettify
 	branch = refs/heads/master
+[submodule "pylhc_submitter"]
+	url = https://github.com/conda-forge/pylhc_submitter-feedstock.git
+	path = feedstocks/pylhc_submitter
+	branch = refs/heads/master
