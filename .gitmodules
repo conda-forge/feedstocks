@@ -58354,3 +58354,7 @@
 	url = https://github.com/conda-forge/r-colorblindness-feedstock.git
 	path = feedstocks/r-colorblindness
 	branch = refs/heads/master
+[submodule "sdmetrics"]
+	url = https://github.com/conda-forge/sdmetrics-feedstock.git
+	path = feedstocks/sdmetrics
+	branch = refs/heads/master
