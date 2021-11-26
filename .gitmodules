@@ -58370,3 +58370,7 @@
 	url = https://github.com/conda-forge/pylhc_submitter-feedstock.git
 	path = feedstocks/pylhc_submitter
 	branch = refs/heads/master
+[submodule "changeforest"]
+	url = https://github.com/conda-forge/changeforest-feedstock.git
+	path = feedstocks/changeforest
+	branch = refs/heads/master
