@@ -58382,3 +58382,7 @@
 	url = https://github.com/conda-forge/findlibs-feedstock.git
 	path = feedstocks/findlibs
 	branch = refs/heads/master
+[submodule "r-schtools"]
+	url = https://github.com/conda-forge/r-schtools-feedstock.git
+	path = feedstocks/r-schtools
+	branch = refs/heads/master
