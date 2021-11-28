@@ -58402,3 +58402,7 @@
 	url = https://github.com/conda-forge/pybuilder-bandit-feedstock.git
 	path = feedstocks/pybuilder-bandit
 	branch = refs/heads/master
+[submodule "lava"]
+	url = https://github.com/conda-forge/lava-feedstock.git
+	path = feedstocks/lava
+	branch = refs/heads/master
