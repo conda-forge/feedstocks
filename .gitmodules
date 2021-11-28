@@ -58398,3 +58398,7 @@
 	url = https://github.com/conda-forge/snntoolbox-feedstock.git
 	path = feedstocks/snntoolbox
 	branch = refs/heads/master
+[submodule "pybuilder-bandit"]
+	url = https://github.com/conda-forge/pybuilder-bandit-feedstock.git
+	path = feedstocks/pybuilder-bandit
+	branch = refs/heads/master
