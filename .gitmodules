@@ -58410,3 +58410,7 @@
 	url = https://github.com/conda-forge/lava-optimization-feedstock.git
 	path = feedstocks/lava-optimization
 	branch = refs/heads/master
+[submodule "lava-dl"]
+	url = https://github.com/conda-forge/lava-dl-feedstock.git
+	path = feedstocks/lava-dl
+	branch = refs/heads/master
