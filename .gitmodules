@@ -58394,3 +58394,7 @@
 	url = https://github.com/conda-forge/r-multica-feedstock.git
 	path = feedstocks/r-multica
 	branch = refs/heads/master
+[submodule "snntoolbox"]
+	url = https://github.com/conda-forge/snntoolbox-feedstock.git
+	path = feedstocks/snntoolbox
+	branch = refs/heads/master
