@@ -58414,3 +58414,7 @@
 	url = https://github.com/conda-forge/lava-dl-feedstock.git
 	path = feedstocks/lava-dl
 	branch = refs/heads/master
+[submodule "r-osqp"]
+	url = https://github.com/conda-forge/r-osqp-feedstock.git
+	path = feedstocks/r-osqp
+	branch = refs/heads/master
