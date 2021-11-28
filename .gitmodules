@@ -58418,3 +58418,7 @@
 	url = https://github.com/conda-forge/r-osqp-feedstock.git
 	path = feedstocks/r-osqp
 	branch = refs/heads/master
+[submodule "r-catt"]
+	url = https://github.com/conda-forge/r-catt-feedstock.git
+	path = feedstocks/r-catt
+	branch = refs/heads/master
