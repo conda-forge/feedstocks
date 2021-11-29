@@ -58430,3 +58430,7 @@
 	url = https://github.com/conda-forge/r-trend-feedstock.git
 	path = feedstocks/r-trend
 	branch = refs/heads/master
+[submodule "tsnecuda"]
+	url = https://github.com/conda-forge/tsnecuda-feedstock.git
+	path = feedstocks/tsnecuda
+	branch = refs/heads/master
