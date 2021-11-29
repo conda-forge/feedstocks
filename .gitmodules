@@ -58442,3 +58442,7 @@
 	url = https://github.com/conda-forge/r-cvxr-feedstock.git
 	path = feedstocks/r-cvxr
 	branch = refs/heads/master
+[submodule "aioconsole"]
+	url = https://github.com/conda-forge/aioconsole-feedstock.git
+	path = feedstocks/aioconsole
+	branch = refs/heads/master
