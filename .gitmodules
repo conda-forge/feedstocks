@@ -58454,3 +58454,7 @@
 	url = https://github.com/conda-forge/pycomm3-feedstock.git
 	path = feedstocks/pycomm3
 	branch = refs/heads/master
+[submodule "lava-dnf"]
+	url = https://github.com/conda-forge/lava-dnf-feedstock.git
+	path = feedstocks/lava-dnf
+	branch = refs/heads/master
