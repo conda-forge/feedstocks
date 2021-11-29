@@ -58462,3 +58462,7 @@
 	url = https://github.com/conda-forge/result-feedstock.git
 	path = feedstocks/result
 	branch = refs/heads/master
+[submodule "ipyflex"]
+	url = https://github.com/conda-forge/ipyflex-feedstock.git
+	path = feedstocks/ipyflex
+	branch = refs/heads/master
