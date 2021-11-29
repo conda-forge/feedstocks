@@ -58446,3 +58446,7 @@
 	url = https://github.com/conda-forge/aioconsole-feedstock.git
 	path = feedstocks/aioconsole
 	branch = refs/heads/master
+[submodule "scmrepo"]
+	url = https://github.com/conda-forge/scmrepo-feedstock.git
+	path = feedstocks/scmrepo
+	branch = refs/heads/master
