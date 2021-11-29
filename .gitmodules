@@ -58458,3 +58458,7 @@
 	url = https://github.com/conda-forge/lava-dnf-feedstock.git
 	path = feedstocks/lava-dnf
 	branch = refs/heads/master
+[submodule "result"]
+	url = https://github.com/conda-forge/result-feedstock.git
+	path = feedstocks/result
+	branch = refs/heads/master
