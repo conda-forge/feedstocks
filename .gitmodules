@@ -58466,3 +58466,7 @@
 	url = https://github.com/conda-forge/ipyflex-feedstock.git
 	path = feedstocks/ipyflex
 	branch = refs/heads/master
+[submodule "trec_eval"]
+	url = https://github.com/conda-forge/trec_eval-feedstock.git
+	path = feedstocks/trec_eval
+	branch = refs/heads/master
