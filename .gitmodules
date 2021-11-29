@@ -58450,3 +58450,7 @@
 	url = https://github.com/conda-forge/scmrepo-feedstock.git
 	path = feedstocks/scmrepo
 	branch = refs/heads/master
+[submodule "pycomm3"]
+	url = https://github.com/conda-forge/pycomm3-feedstock.git
+	path = feedstocks/pycomm3
+	branch = refs/heads/master
