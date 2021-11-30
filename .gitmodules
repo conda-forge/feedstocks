@@ -58478,3 +58478,7 @@
 	url = https://github.com/conda-forge/skll-feedstock.git
 	path = feedstocks/skll
 	branch = refs/heads/master
+[submodule "openfermion"]
+	url = https://github.com/conda-forge/openfermion-feedstock.git
+	path = feedstocks/openfermion
+	branch = refs/heads/master
