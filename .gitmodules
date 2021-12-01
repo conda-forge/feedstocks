@@ -58506,3 +58506,7 @@
 	url = https://github.com/conda-forge/sphinx-csv-filter-feedstock.git
 	path = feedstocks/sphinx-csv-filter
 	branch = refs/heads/master
+[submodule "winreg"]
+	url = https://github.com/conda-forge/winreg-feedstock.git
+	path = feedstocks/winreg
+	branch = refs/heads/master
