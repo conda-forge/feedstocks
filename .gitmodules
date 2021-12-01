@@ -58502,3 +58502,7 @@
 	url = https://github.com/conda-forge/r-changeforest-feedstock.git
 	path = feedstocks/r-changeforest
 	branch = refs/heads/master
+[submodule "sphinx-csv-filter"]
+	url = https://github.com/conda-forge/sphinx-csv-filter-feedstock.git
+	path = feedstocks/sphinx-csv-filter
+	branch = refs/heads/master
