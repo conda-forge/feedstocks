@@ -58510,3 +58510,7 @@
 	url = https://github.com/conda-forge/winreg-feedstock.git
 	path = feedstocks/winreg
 	branch = refs/heads/master
+[submodule "sssp"]
+	url = https://github.com/conda-forge/sssp-feedstock.git
+	path = feedstocks/sssp
+	branch = refs/heads/master
