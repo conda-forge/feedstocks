@@ -58518,3 +58518,7 @@
 	url = https://github.com/conda-forge/linkedin-scraper-feedstock.git
 	path = feedstocks/linkedin-scraper
 	branch = refs/heads/master
+[submodule "linkedin-api"]
+	url = https://github.com/conda-forge/linkedin-api-feedstock.git
+	path = feedstocks/linkedin-api
+	branch = refs/heads/master
