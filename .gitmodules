@@ -58542,3 +58542,7 @@
 	url = https://github.com/conda-forge/rp2paths-feedstock.git
 	path = feedstocks/rp2paths
 	branch = refs/heads/master
+[submodule "dnabot"]
+	url = https://github.com/conda-forge/dnabot-feedstock.git
+	path = feedstocks/dnabot
+	branch = refs/heads/master
