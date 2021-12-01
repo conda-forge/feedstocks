@@ -58514,3 +58514,7 @@
 	url = https://github.com/conda-forge/sssp-feedstock.git
 	path = feedstocks/sssp
 	branch = refs/heads/master
+[submodule "linkedin-scraper"]
+	url = https://github.com/conda-forge/linkedin-scraper-feedstock.git
+	path = feedstocks/linkedin-scraper
+	branch = refs/heads/master
