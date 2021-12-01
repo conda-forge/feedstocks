@@ -58498,3 +58498,7 @@
 	url = https://github.com/conda-forge/diffstar-feedstock.git
 	path = feedstocks/diffstar
 	branch = refs/heads/master
+[submodule "r-changeforest"]
+	url = https://github.com/conda-forge/r-changeforest-feedstock.git
+	path = feedstocks/r-changeforest
+	branch = refs/heads/master
