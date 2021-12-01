@@ -58538,3 +58538,7 @@
 	url = https://github.com/conda-forge/doubtlab-feedstock.git
 	path = feedstocks/doubtlab
 	branch = refs/heads/master
+[submodule "rp2paths"]
+	url = https://github.com/conda-forge/rp2paths-feedstock.git
+	path = feedstocks/rp2paths
+	branch = refs/heads/master
