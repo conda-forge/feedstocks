@@ -58530,3 +58530,7 @@
 	url = https://github.com/conda-forge/flatsurf-feedstock.git
 	path = feedstocks/flatsurf
 	branch = refs/heads/master
+[submodule "sdv"]
+	url = https://github.com/conda-forge/sdv-feedstock.git
+	path = feedstocks/sdv
+	branch = refs/heads/master
