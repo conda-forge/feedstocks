@@ -58534,3 +58534,7 @@
 	url = https://github.com/conda-forge/sdv-feedstock.git
 	path = feedstocks/sdv
 	branch = refs/heads/master
+[submodule "doubtlab"]
+	url = https://github.com/conda-forge/doubtlab-feedstock.git
+	path = feedstocks/doubtlab
+	branch = refs/heads/master
