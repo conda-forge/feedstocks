@@ -58558,3 +58558,7 @@
 	url = https://github.com/conda-forge/xcollection-feedstock.git
 	path = feedstocks/xcollection
 	branch = refs/heads/master
+[submodule "laplace-torch"]
+	url = https://github.com/conda-forge/laplace-torch-feedstock.git
+	path = feedstocks/laplace-torch
+	branch = refs/heads/master
