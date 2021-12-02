@@ -58550,3 +58550,7 @@
 	url = https://github.com/conda-forge/pycognito-feedstock.git
 	path = feedstocks/pycognito
 	branch = refs/heads/master
+[submodule "cma-es"]
+	url = https://github.com/conda-forge/cma-es-feedstock.git
+	path = feedstocks/cma-es
+	branch = refs/heads/master
