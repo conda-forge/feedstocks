@@ -58562,3 +58562,7 @@
 	url = https://github.com/conda-forge/laplace-torch-feedstock.git
 	path = feedstocks/laplace-torch
 	branch = refs/heads/master
+[submodule "forestopenfermion"]
+	url = https://github.com/conda-forge/forestopenfermion-feedstock.git
+	path = feedstocks/forestopenfermion
+	branch = refs/heads/master
