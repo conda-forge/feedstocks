@@ -58554,3 +58554,7 @@
 	url = https://github.com/conda-forge/cma-es-feedstock.git
 	path = feedstocks/cma-es
 	branch = refs/heads/master
+[submodule "xcollection"]
+	url = https://github.com/conda-forge/xcollection-feedstock.git
+	path = feedstocks/xcollection
+	branch = refs/heads/master
