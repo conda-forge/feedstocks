@@ -58546,3 +58546,7 @@
 	url = https://github.com/conda-forge/dnabot-feedstock.git
 	path = feedstocks/dnabot
 	branch = refs/heads/master
+[submodule "pycognito"]
+	url = https://github.com/conda-forge/pycognito-feedstock.git
+	path = feedstocks/pycognito
+	branch = refs/heads/master
