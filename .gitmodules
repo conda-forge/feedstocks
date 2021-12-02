@@ -58566,3 +58566,7 @@
 	url = https://github.com/conda-forge/forestopenfermion-feedstock.git
 	path = feedstocks/forestopenfermion
 	branch = refs/heads/master
+[submodule "uncertainty-toolbox"]
+	url = https://github.com/conda-forge/uncertainty-toolbox-feedstock.git
+	path = feedstocks/uncertainty-toolbox
+	branch = refs/heads/master
