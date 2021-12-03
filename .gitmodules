@@ -58590,3 +58590,7 @@
 	url = https://github.com/conda-forge/dash-bio-utils-feedstock.git
 	path = feedstocks/dash-bio-utils
 	branch = refs/heads/master
+[submodule "geoparse"]
+	url = https://github.com/conda-forge/geoparse-feedstock.git
+	path = feedstocks/geoparse
+	branch = refs/heads/master
