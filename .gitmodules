@@ -58594,3 +58594,7 @@
 	url = https://github.com/conda-forge/geoparse-feedstock.git
 	path = feedstocks/geoparse
 	branch = refs/heads/master
+[submodule "jupyterlab-graph-lsp"]
+	url = https://github.com/conda-forge/jupyterlab-graph-lsp-feedstock.git
+	path = feedstocks/jupyterlab-graph-lsp
+	branch = refs/heads/master
