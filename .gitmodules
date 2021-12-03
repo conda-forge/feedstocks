@@ -58582,3 +58582,7 @@
 	url = https://github.com/conda-forge/gis-metadata-parser-feedstock.git
 	path = feedstocks/gis-metadata-parser
 	branch = refs/heads/master
+[submodule "dash-bio"]
+	url = https://github.com/conda-forge/dash-bio-feedstock.git
+	path = feedstocks/dash-bio
+	branch = refs/heads/master
