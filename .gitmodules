@@ -58586,3 +58586,7 @@
 	url = https://github.com/conda-forge/dash-bio-feedstock.git
 	path = feedstocks/dash-bio
 	branch = refs/heads/master
+[submodule "dash-bio-utils"]
+	url = https://github.com/conda-forge/dash-bio-utils-feedstock.git
+	path = feedstocks/dash-bio-utils
+	branch = refs/heads/master
