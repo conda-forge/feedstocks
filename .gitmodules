@@ -58570,3 +58570,7 @@
 	url = https://github.com/conda-forge/uncertainty-toolbox-feedstock.git
 	path = feedstocks/uncertainty-toolbox
 	branch = refs/heads/master
+[submodule "rubin-sim"]
+	url = https://github.com/conda-forge/rubin-sim-feedstock.git
+	path = feedstocks/rubin-sim
+	branch = refs/heads/master
