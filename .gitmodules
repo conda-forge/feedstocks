@@ -58574,3 +58574,7 @@
 	url = https://github.com/conda-forge/rubin-sim-feedstock.git
 	path = feedstocks/rubin-sim
 	branch = refs/heads/master
+[submodule "bear"]
+	url = https://github.com/conda-forge/bear-feedstock.git
+	path = feedstocks/bear
+	branch = refs/heads/master
