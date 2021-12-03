@@ -58578,3 +58578,7 @@
 	url = https://github.com/conda-forge/bear-feedstock.git
 	path = feedstocks/bear
 	branch = refs/heads/master
+[submodule "gis-metadata-parser"]
+	url = https://github.com/conda-forge/gis-metadata-parser-feedstock.git
+	path = feedstocks/gis-metadata-parser
+	branch = refs/heads/master
