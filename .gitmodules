@@ -58598,3 +58598,7 @@
 	url = https://github.com/conda-forge/jupyterlab-graph-lsp-feedstock.git
 	path = feedstocks/jupyterlab-graph-lsp
 	branch = refs/heads/master
+[submodule "edgetest"]
+	url = https://github.com/conda-forge/edgetest-feedstock.git
+	path = feedstocks/edgetest
+	branch = refs/heads/master
