@@ -58602,3 +58602,7 @@
 	url = https://github.com/conda-forge/edgetest-feedstock.git
 	path = feedstocks/edgetest
 	branch = refs/heads/master
+[submodule "libavif"]
+	url = https://github.com/conda-forge/libavif-feedstock.git
+	path = feedstocks/libavif
+	branch = refs/heads/master
