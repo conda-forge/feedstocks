@@ -58606,3 +58606,7 @@
 	url = https://github.com/conda-forge/libavif-feedstock.git
 	path = feedstocks/libavif
 	branch = refs/heads/master
+[submodule "r-ampir"]
+	url = https://github.com/conda-forge/r-ampir-feedstock.git
+	path = feedstocks/r-ampir
+	branch = refs/heads/master
