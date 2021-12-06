@@ -58654,3 +58654,7 @@
 	url = https://github.com/conda-forge/rfc3339-validator-feedstock.git
 	path = feedstocks/rfc3339-validator
 	branch = refs/heads/master
+[submodule "singularity-hpc"]
+	url = https://github.com/conda-forge/singularity-hpc-feedstock.git
+	path = feedstocks/singularity-hpc
+	branch = refs/heads/master
