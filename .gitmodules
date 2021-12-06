@@ -58626,3 +58626,7 @@
 	url = https://github.com/conda-forge/maxsmi-feedstock.git
 	path = feedstocks/maxsmi
 	branch = refs/heads/master
+[submodule "docrepr"]
+	url = https://github.com/conda-forge/docrepr-feedstock.git
+	path = feedstocks/docrepr
+	branch = refs/heads/master
