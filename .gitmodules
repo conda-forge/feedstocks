@@ -58614,3 +58614,7 @@
 	url = https://github.com/conda-forge/sample-feedstock.git
 	path = feedstocks/sample
 	branch = refs/heads/master
+[submodule "r-mapi"]
+	url = https://github.com/conda-forge/r-mapi-feedstock.git
+	path = feedstocks/r-mapi
+	branch = refs/heads/master
