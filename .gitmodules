@@ -58622,3 +58622,7 @@
 	url = https://github.com/conda-forge/r-ggpval-feedstock.git
 	path = feedstocks/r-ggpval
 	branch = refs/heads/master
+[submodule "maxsmi"]
+	url = https://github.com/conda-forge/maxsmi-feedstock.git
+	path = feedstocks/maxsmi
+	branch = refs/heads/master
