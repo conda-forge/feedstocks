@@ -58630,3 +58630,7 @@
 	url = https://github.com/conda-forge/docrepr-feedstock.git
 	path = feedstocks/docrepr
 	branch = refs/heads/master
+[submodule "dedupe"]
+	url = https://github.com/conda-forge/dedupe-feedstock.git
+	path = feedstocks/dedupe
+	branch = refs/heads/master
