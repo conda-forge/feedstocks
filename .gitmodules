@@ -58634,3 +58634,7 @@
 	url = https://github.com/conda-forge/dedupe-feedstock.git
 	path = feedstocks/dedupe
 	branch = refs/heads/master
+[submodule "datetime-distance"]
+	url = https://github.com/conda-forge/datetime-distance-feedstock.git
+	path = feedstocks/datetime-distance
+	branch = refs/heads/master
