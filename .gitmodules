@@ -58618,3 +58618,7 @@
 	url = https://github.com/conda-forge/r-mapi-feedstock.git
 	path = feedstocks/r-mapi
 	branch = refs/heads/master
+[submodule "r-ggpval"]
+	url = https://github.com/conda-forge/r-ggpval-feedstock.git
+	path = feedstocks/r-ggpval
+	branch = refs/heads/master
