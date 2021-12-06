@@ -58658,3 +58658,7 @@
 	url = https://github.com/conda-forge/singularity-hpc-feedstock.git
 	path = feedstocks/singularity-hpc
 	branch = refs/heads/master
+[submodule "singularityce"]
+	url = https://github.com/conda-forge/singularityce-feedstock.git
+	path = feedstocks/singularityce
+	branch = refs/heads/master
