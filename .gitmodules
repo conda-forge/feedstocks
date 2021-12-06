@@ -58666,3 +58666,7 @@
 	url = https://github.com/conda-forge/openqcm-feedstock.git
 	path = feedstocks/openqcm
 	branch = refs/heads/master
+[submodule "libecpint"]
+	url = https://github.com/conda-forge/libecpint-feedstock.git
+	path = feedstocks/libecpint
+	branch = refs/heads/master
