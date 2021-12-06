@@ -58646,3 +58646,7 @@
 	url = https://github.com/conda-forge/fqdn-feedstock.git
 	path = feedstocks/fqdn
 	branch = refs/heads/master
+[submodule "isoduration"]
+	url = https://github.com/conda-forge/isoduration-feedstock.git
+	path = feedstocks/isoduration
+	branch = refs/heads/master
