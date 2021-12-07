@@ -58710,3 +58710,7 @@
 	url = https://github.com/conda-forge/handcalcs-feedstock.git
 	path = feedstocks/handcalcs
 	branch = refs/heads/master
+[submodule "pexsi"]
+	url = https://github.com/conda-forge/pexsi-feedstock.git
+	path = feedstocks/pexsi
+	branch = refs/heads/master
