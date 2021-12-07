@@ -58690,3 +58690,7 @@
 	url = https://github.com/conda-forge/hiclass-feedstock.git
 	path = feedstocks/hiclass
 	branch = refs/heads/master
+[submodule "elfio"]
+	url = https://github.com/conda-forge/elfio-feedstock.git
+	path = feedstocks/elfio
+	branch = refs/heads/master
