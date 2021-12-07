@@ -58702,3 +58702,7 @@
 	url = https://github.com/conda-forge/matplotx-feedstock.git
 	path = feedstocks/matplotx
 	branch = refs/heads/master
+[submodule "qt-main"]
+	url = https://github.com/conda-forge/qt-main-feedstock.git
+	path = feedstocks/qt-main
+	branch = refs/heads/master
