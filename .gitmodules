@@ -58714,3 +58714,7 @@
 	url = https://github.com/conda-forge/pexsi-feedstock.git
 	path = feedstocks/pexsi
 	branch = refs/heads/master
+[submodule "votca"]
+	url = https://github.com/conda-forge/votca-feedstock.git
+	path = feedstocks/votca
+	branch = refs/heads/master
