@@ -58694,3 +58694,7 @@
 	url = https://github.com/conda-forge/elfio-feedstock.git
 	path = feedstocks/elfio
 	branch = refs/heads/master
+[submodule "uri-template"]
+	url = https://github.com/conda-forge/uri-template-feedstock.git
+	path = feedstocks/uri-template
+	branch = refs/heads/master
