@@ -58670,3 +58670,7 @@
 	url = https://github.com/conda-forge/libecpint-feedstock.git
 	path = feedstocks/libecpint
 	branch = refs/heads/master
+[submodule "opensearch-dsl"]
+	url = https://github.com/conda-forge/opensearch-dsl-feedstock.git
+	path = feedstocks/opensearch-dsl
+	branch = refs/heads/master
