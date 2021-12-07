@@ -58706,3 +58706,7 @@
 	url = https://github.com/conda-forge/qt-main-feedstock.git
 	path = feedstocks/qt-main
 	branch = refs/heads/master
+[submodule "handcalcs"]
+	url = https://github.com/conda-forge/handcalcs-feedstock.git
+	path = feedstocks/handcalcs
+	branch = refs/heads/master
