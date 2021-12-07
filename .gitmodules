@@ -58682,3 +58682,7 @@
 	url = https://github.com/conda-forge/r-shapes-feedstock.git
 	path = feedstocks/r-shapes
 	branch = refs/heads/master
+[submodule "scikit-criteria"]
+	url = https://github.com/conda-forge/scikit-criteria-feedstock.git
+	path = feedstocks/scikit-criteria
+	branch = refs/heads/master
