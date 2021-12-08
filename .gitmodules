@@ -58754,3 +58754,7 @@
 	url = https://github.com/conda-forge/pycashier-feedstock.git
 	path = feedstocks/pycashier
 	branch = refs/heads/master
+[submodule "docplex"]
+	url = https://github.com/conda-forge/docplex-feedstock.git
+	path = feedstocks/docplex
+	branch = refs/heads/master
