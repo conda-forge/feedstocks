@@ -58750,3 +58750,7 @@
 	url = https://github.com/conda-forge/dlx-feedstock.git
 	path = feedstocks/dlx
 	branch = refs/heads/master
+[submodule "pycashier"]
+	url = https://github.com/conda-forge/pycashier-feedstock.git
+	path = feedstocks/pycashier
+	branch = refs/heads/master
