@@ -58766,3 +58766,7 @@
 	url = https://github.com/conda-forge/wdiff-feedstock.git
 	path = feedstocks/wdiff
 	branch = refs/heads/master
+[submodule "quantumflow"]
+	url = https://github.com/conda-forge/quantumflow-feedstock.git
+	path = feedstocks/quantumflow
+	branch = refs/heads/master
