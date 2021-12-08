@@ -58722,3 +58722,7 @@
 	url = https://github.com/conda-forge/sfopenboson-feedstock.git
 	path = feedstocks/sfopenboson
 	branch = refs/heads/master
+[submodule "xanadu-cloud-client"]
+	url = https://github.com/conda-forge/xanadu-cloud-client-feedstock.git
+	path = feedstocks/xanadu-cloud-client
+	branch = refs/heads/master
