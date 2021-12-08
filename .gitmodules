@@ -58730,3 +58730,7 @@
 	url = https://github.com/conda-forge/thewalrus-feedstock.git
 	path = feedstocks/thewalrus
 	branch = refs/heads/master
+[submodule "quantum-blackbird"]
+	url = https://github.com/conda-forge/quantum-blackbird-feedstock.git
+	path = feedstocks/quantum-blackbird
+	branch = refs/heads/master
