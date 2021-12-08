@@ -58758,3 +58758,7 @@
 	url = https://github.com/conda-forge/docplex-feedstock.git
 	path = feedstocks/docplex
 	branch = refs/heads/master
+[submodule "lbprodrun"]
+	url = https://github.com/conda-forge/lbprodrun-feedstock.git
+	path = feedstocks/lbprodrun
+	branch = refs/heads/master
