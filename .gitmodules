@@ -58718,3 +58718,7 @@
 	url = https://github.com/conda-forge/votca-feedstock.git
 	path = feedstocks/votca
 	branch = refs/heads/master
+[submodule "sfopenboson"]
+	url = https://github.com/conda-forge/sfopenboson-feedstock.git
+	path = feedstocks/sfopenboson
+	branch = refs/heads/master
