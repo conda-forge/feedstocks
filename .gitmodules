@@ -58746,3 +58746,7 @@
 	url = https://github.com/conda-forge/fqe-feedstock.git
 	path = feedstocks/fqe
 	branch = refs/heads/master
+[submodule "dlx"]
+	url = https://github.com/conda-forge/dlx-feedstock.git
+	path = feedstocks/dlx
+	branch = refs/heads/master
