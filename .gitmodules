@@ -58738,3 +58738,7 @@
 	url = https://github.com/conda-forge/strawberryfields-feedstock.git
 	path = feedstocks/strawberryfields
 	branch = refs/heads/master
+[submodule "tango"]
+	url = https://github.com/conda-forge/tango-feedstock.git
+	path = feedstocks/tango
+	branch = refs/heads/master
