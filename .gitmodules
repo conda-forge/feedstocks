@@ -58798,3 +58798,7 @@
 	url = https://github.com/conda-forge/libtree-feedstock.git
 	path = feedstocks/libtree
 	branch = refs/heads/master
+[submodule "mapserver"]
+	url = https://github.com/conda-forge/mapserver-feedstock.git
+	path = feedstocks/mapserver
+	branch = refs/heads/master
