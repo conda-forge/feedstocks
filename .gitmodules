@@ -58814,3 +58814,7 @@
 	url = https://github.com/conda-forge/gecos-feedstock.git
 	path = feedstocks/gecos
 	branch = refs/heads/master
+[submodule "tklib"]
+	url = https://github.com/conda-forge/tklib-feedstock.git
+	path = feedstocks/tklib
+	branch = refs/heads/master
