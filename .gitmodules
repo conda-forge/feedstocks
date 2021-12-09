@@ -58794,3 +58794,7 @@
 	url = https://github.com/conda-forge/tifftools-feedstock.git
 	path = feedstocks/tifftools
 	branch = refs/heads/master
+[submodule "libtree"]
+	url = https://github.com/conda-forge/libtree-feedstock.git
+	path = feedstocks/libtree
+	branch = refs/heads/master
