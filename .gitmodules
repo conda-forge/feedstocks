@@ -58778,3 +58778,7 @@
 	url = https://github.com/conda-forge/large-image-converter-feedstock.git
 	path = feedstocks/large-image-converter
 	branch = refs/heads/master
+[submodule "large-image"]
+	url = https://github.com/conda-forge/large-image-feedstock.git
+	path = feedstocks/large-image
+	branch = refs/heads/master
