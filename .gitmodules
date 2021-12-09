@@ -58790,3 +58790,7 @@
 	url = https://github.com/conda-forge/localtileserver-feedstock.git
 	path = feedstocks/localtileserver
 	branch = refs/heads/master
+[submodule "tifftools"]
+	url = https://github.com/conda-forge/tifftools-feedstock.git
+	path = feedstocks/tifftools
+	branch = refs/heads/master
