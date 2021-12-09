@@ -58786,3 +58786,7 @@
 	url = https://github.com/conda-forge/large-image-source-tiff-feedstock.git
 	path = feedstocks/large-image-source-tiff
 	branch = refs/heads/master
+[submodule "localtileserver"]
+	url = https://github.com/conda-forge/localtileserver-feedstock.git
+	path = feedstocks/localtileserver
+	branch = refs/heads/master
