@@ -58806,3 +58806,7 @@
 	url = https://github.com/conda-forge/scholarpy-feedstock.git
 	path = feedstocks/scholarpy
 	branch = refs/heads/master
+[submodule "mprod-package"]
+	url = https://github.com/conda-forge/mprod-package-feedstock.git
+	path = feedstocks/mprod-package
+	branch = refs/heads/master
