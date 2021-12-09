@@ -58810,3 +58810,7 @@
 	url = https://github.com/conda-forge/mprod-package-feedstock.git
 	path = feedstocks/mprod-package
 	branch = refs/heads/master
+[submodule "gecos"]
+	url = https://github.com/conda-forge/gecos-feedstock.git
+	path = feedstocks/gecos
+	branch = refs/heads/master
