@@ -58862,3 +58862,7 @@
 	url = https://github.com/conda-forge/cpp-opentelemetry-sdk-feedstock.git
 	path = feedstocks/cpp-opentelemetry-sdk
 	branch = refs/heads/master
+[submodule "cpp-opentelemetry-api"]
+	url = https://github.com/conda-forge/cpp-opentelemetry-api-feedstock.git
+	path = feedstocks/cpp-opentelemetry-api
+	branch = refs/heads/master
