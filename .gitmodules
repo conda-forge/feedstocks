@@ -58826,3 +58826,7 @@
 	url = https://github.com/conda-forge/pymuonsuite-feedstock.git
 	path = feedstocks/pymuonsuite
 	branch = refs/heads/master
+[submodule "parse-fmt"]
+	url = https://github.com/conda-forge/parse-fmt-feedstock.git
+	path = feedstocks/parse-fmt
+	branch = refs/heads/master
