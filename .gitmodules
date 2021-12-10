@@ -58854,3 +58854,7 @@
 	url = https://github.com/conda-forge/r-glmmml-feedstock.git
 	path = feedstocks/r-glmmml
 	branch = refs/heads/master
+[submodule "r-uniprotr"]
+	url = https://github.com/conda-forge/r-uniprotr-feedstock.git
+	path = feedstocks/r-uniprotr
+	branch = refs/heads/master
