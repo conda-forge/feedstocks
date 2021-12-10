@@ -58870,3 +58870,7 @@
 	url = https://github.com/conda-forge/proto-opentelemetry-proto-feedstock.git
 	path = feedstocks/proto-opentelemetry-proto
 	branch = refs/heads/master
+[submodule "distromax"]
+	url = https://github.com/conda-forge/distromax-feedstock.git
+	path = feedstocks/distromax
+	branch = refs/heads/master
