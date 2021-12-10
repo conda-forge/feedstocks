@@ -58842,3 +58842,7 @@
 	url = https://github.com/conda-forge/pip-api-feedstock.git
 	path = feedstocks/pip-api
 	branch = refs/heads/master
+[submodule "flowtorch"]
+	url = https://github.com/conda-forge/flowtorch-feedstock.git
+	path = feedstocks/flowtorch
+	branch = refs/heads/master
