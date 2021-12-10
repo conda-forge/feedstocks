@@ -58858,3 +58858,7 @@
 	url = https://github.com/conda-forge/r-uniprotr-feedstock.git
 	path = feedstocks/r-uniprotr
 	branch = refs/heads/master
+[submodule "cpp-opentelemetry-sdk"]
+	url = https://github.com/conda-forge/cpp-opentelemetry-sdk-feedstock.git
+	path = feedstocks/cpp-opentelemetry-sdk
+	branch = refs/heads/master
