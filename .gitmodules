@@ -58874,3 +58874,7 @@
 	url = https://github.com/conda-forge/distromax-feedstock.git
 	path = feedstocks/distromax
 	branch = refs/heads/master
+[submodule "r-lvm4net"]
+	url = https://github.com/conda-forge/r-lvm4net-feedstock.git
+	path = feedstocks/r-lvm4net
+	branch = refs/heads/master
