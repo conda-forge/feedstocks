@@ -58822,3 +58822,7 @@
 	url = https://github.com/conda-forge/eigenexa-feedstock.git
 	path = feedstocks/eigenexa
 	branch = refs/heads/master
+[submodule "pymuonsuite"]
+	url = https://github.com/conda-forge/pymuonsuite-feedstock.git
+	path = feedstocks/pymuonsuite
+	branch = refs/heads/master
