@@ -58846,3 +58846,7 @@
 	url = https://github.com/conda-forge/flowtorch-feedstock.git
 	path = feedstocks/flowtorch
 	branch = refs/heads/master
+[submodule "pip-audit"]
+	url = https://github.com/conda-forge/pip-audit-feedstock.git
+	path = feedstocks/pip-audit
+	branch = refs/heads/master
