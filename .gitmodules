@@ -58866,3 +58866,7 @@
 	url = https://github.com/conda-forge/cpp-opentelemetry-api-feedstock.git
 	path = feedstocks/cpp-opentelemetry-api
 	branch = refs/heads/master
+[submodule "proto-opentelemetry-proto"]
+	url = https://github.com/conda-forge/proto-opentelemetry-proto-feedstock.git
+	path = feedstocks/proto-opentelemetry-proto
+	branch = refs/heads/master
