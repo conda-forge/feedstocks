@@ -58838,3 +58838,7 @@
 	url = https://github.com/conda-forge/rubrix-feedstock.git
 	path = feedstocks/rubrix
 	branch = refs/heads/master
+[submodule "pip-api"]
+	url = https://github.com/conda-forge/pip-api-feedstock.git
+	path = feedstocks/pip-api
+	branch = refs/heads/master
