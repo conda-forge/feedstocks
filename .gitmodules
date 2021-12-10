@@ -58850,3 +58850,7 @@
 	url = https://github.com/conda-forge/pip-audit-feedstock.git
 	path = feedstocks/pip-audit
 	branch = refs/heads/master
+[submodule "r-glmmml"]
+	url = https://github.com/conda-forge/r-glmmml-feedstock.git
+	path = feedstocks/r-glmmml
+	branch = refs/heads/master
