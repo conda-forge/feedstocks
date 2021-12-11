@@ -58878,3 +58878,7 @@
 	url = https://github.com/conda-forge/r-lvm4net-feedstock.git
 	path = feedstocks/r-lvm4net
 	branch = refs/heads/master
+[submodule "gputools"]
+	url = https://github.com/conda-forge/gputools-feedstock.git
+	path = feedstocks/gputools
+	branch = refs/heads/master
