@@ -58886,3 +58886,7 @@
 	url = https://github.com/conda-forge/eodie-feedstock.git
 	path = feedstocks/eodie
 	branch = refs/heads/master
+[submodule "urdfpy"]
+	url = https://github.com/conda-forge/urdfpy-feedstock.git
+	path = feedstocks/urdfpy
+	branch = refs/heads/master
