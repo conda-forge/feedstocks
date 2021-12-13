@@ -58898,3 +58898,7 @@
 	url = https://github.com/conda-forge/eomaps-feedstock.git
 	path = feedstocks/eomaps
 	branch = refs/heads/master
+[submodule "doebase"]
+	url = https://github.com/conda-forge/doebase-feedstock.git
+	path = feedstocks/doebase
+	branch = refs/heads/master
