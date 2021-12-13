@@ -58902,3 +58902,7 @@
 	url = https://github.com/conda-forge/doebase-feedstock.git
 	path = feedstocks/doebase
 	branch = refs/heads/master
+[submodule "sphinx-pythia-theme"]
+	url = https://github.com/conda-forge/sphinx-pythia-theme-feedstock.git
+	path = feedstocks/sphinx-pythia-theme
+	branch = refs/heads/master
