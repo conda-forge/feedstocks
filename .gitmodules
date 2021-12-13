@@ -58894,3 +58894,7 @@
 	url = https://github.com/conda-forge/gslides-feedstock.git
 	path = feedstocks/gslides
 	branch = refs/heads/master
+[submodule "eomaps"]
+	url = https://github.com/conda-forge/eomaps-feedstock.git
+	path = feedstocks/eomaps
+	branch = refs/heads/master
