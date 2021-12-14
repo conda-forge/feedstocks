@@ -58910,3 +58910,7 @@
 	url = https://github.com/conda-forge/dsps-feedstock.git
 	path = feedstocks/dsps
 	branch = refs/heads/master
+[submodule "blacktex"]
+	url = https://github.com/conda-forge/blacktex-feedstock.git
+	path = feedstocks/blacktex
+	branch = refs/heads/master
