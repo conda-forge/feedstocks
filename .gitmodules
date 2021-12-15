@@ -58930,3 +58930,7 @@
 	url = https://github.com/conda-forge/deeplabcut-feedstock.git
 	path = feedstocks/deeplabcut
 	branch = refs/heads/master
+[submodule "mandrake"]
+	url = https://github.com/conda-forge/mandrake-feedstock.git
+	path = feedstocks/mandrake
+	branch = refs/heads/master
