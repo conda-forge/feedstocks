@@ -58950,3 +58950,7 @@
 	url = https://github.com/conda-forge/influxdb-client-feedstock.git
 	path = feedstocks/influxdb-client
 	branch = refs/heads/master
+[submodule "hypernets"]
+	url = https://github.com/conda-forge/hypernets-feedstock.git
+	path = feedstocks/hypernets
+	branch = refs/heads/master
