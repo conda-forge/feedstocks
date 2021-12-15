@@ -58926,3 +58926,7 @@
 	url = https://github.com/conda-forge/openscm-runner-feedstock.git
 	path = feedstocks/openscm-runner
 	branch = refs/heads/master
+[submodule "deeplabcut"]
+	url = https://github.com/conda-forge/deeplabcut-feedstock.git
+	path = feedstocks/deeplabcut
+	branch = refs/heads/master
