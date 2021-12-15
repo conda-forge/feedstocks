@@ -58946,3 +58946,7 @@
 	url = https://github.com/conda-forge/yaqc-qtpy-feedstock.git
 	path = feedstocks/yaqc-qtpy
 	branch = refs/heads/master
+[submodule "influxdb-client"]
+	url = https://github.com/conda-forge/influxdb-client-feedstock.git
+	path = feedstocks/influxdb-client
+	branch = refs/heads/master
