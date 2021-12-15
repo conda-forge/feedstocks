@@ -58942,3 +58942,7 @@
 	url = https://github.com/conda-forge/tblite-feedstock.git
 	path = feedstocks/tblite
 	branch = refs/heads/master
+[submodule "yaqc-qtpy"]
+	url = https://github.com/conda-forge/yaqc-qtpy-feedstock.git
+	path = feedstocks/yaqc-qtpy
+	branch = refs/heads/master
