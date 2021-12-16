@@ -58974,3 +58974,7 @@
 	url = https://github.com/conda-forge/odc-feedstock.git
 	path = feedstocks/odc
 	branch = refs/heads/master
+[submodule "pyodc"]
+	url = https://github.com/conda-forge/pyodc-feedstock.git
+	path = feedstocks/pyodc
+	branch = refs/heads/master
