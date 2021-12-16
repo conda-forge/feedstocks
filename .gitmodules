@@ -58982,3 +58982,7 @@
 	url = https://github.com/conda-forge/retworkx-feedstock.git
 	path = feedstocks/retworkx
 	branch = refs/heads/master
+[submodule "google-cloud-dataproc-metastore"]
+	url = https://github.com/conda-forge/google-cloud-dataproc-metastore-feedstock.git
+	path = feedstocks/google-cloud-dataproc-metastore
+	branch = refs/heads/master
