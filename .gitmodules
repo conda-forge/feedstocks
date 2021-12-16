@@ -58962,3 +58962,7 @@
 	url = https://github.com/conda-forge/edgetest-pip-tools-feedstock.git
 	path = feedstocks/edgetest-pip-tools
 	branch = refs/heads/master
+[submodule "edgetest-hub"]
+	url = https://github.com/conda-forge/edgetest-hub-feedstock.git
+	path = feedstocks/edgetest-hub
+	branch = refs/heads/master
