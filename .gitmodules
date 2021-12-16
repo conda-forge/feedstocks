@@ -58970,3 +58970,7 @@
 	url = https://github.com/conda-forge/surfinpy-feedstock.git
 	path = feedstocks/surfinpy
 	branch = refs/heads/master
+[submodule "odc"]
+	url = https://github.com/conda-forge/odc-feedstock.git
+	path = feedstocks/odc
+	branch = refs/heads/master
