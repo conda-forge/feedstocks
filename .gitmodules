@@ -58978,3 +58978,7 @@
 	url = https://github.com/conda-forge/pyodc-feedstock.git
 	path = feedstocks/pyodc
 	branch = refs/heads/master
+[submodule "retworkx"]
+	url = https://github.com/conda-forge/retworkx-feedstock.git
+	path = feedstocks/retworkx
+	branch = refs/heads/master
