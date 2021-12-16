@@ -58966,3 +58966,7 @@
 	url = https://github.com/conda-forge/edgetest-hub-feedstock.git
 	path = feedstocks/edgetest-hub
 	branch = refs/heads/master
+[submodule "surfinpy"]
+	url = https://github.com/conda-forge/surfinpy-feedstock.git
+	path = feedstocks/surfinpy
+	branch = refs/heads/master
