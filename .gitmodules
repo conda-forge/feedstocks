@@ -59046,3 +59046,7 @@
 	url = https://github.com/conda-forge/adorn-feedstock.git
 	path = feedstocks/adorn
 	branch = refs/heads/master
+[submodule "xpersist"]
+	url = https://github.com/conda-forge/xpersist-feedstock.git
+	path = feedstocks/xpersist
+	branch = refs/heads/master
