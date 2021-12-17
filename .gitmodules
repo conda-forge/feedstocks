@@ -59074,3 +59074,7 @@
 	url = https://github.com/conda-forge/intake-salesforce-feedstock.git
 	path = feedstocks/intake-salesforce
 	branch = refs/heads/master
+[submodule "tbump"]
+	url = https://github.com/conda-forge/tbump-feedstock.git
+	path = feedstocks/tbump
+	branch = refs/heads/master
