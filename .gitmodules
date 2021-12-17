@@ -59054,3 +59054,7 @@
 	url = https://github.com/conda-forge/gradsflow-feedstock.git
 	path = feedstocks/gradsflow
 	branch = refs/heads/master
+[submodule "h3-pyspark"]
+	url = https://github.com/conda-forge/h3-pyspark-feedstock.git
+	path = feedstocks/h3-pyspark
+	branch = refs/heads/master
