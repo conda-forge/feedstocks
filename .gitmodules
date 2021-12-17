@@ -59066,3 +59066,7 @@
 	url = https://github.com/conda-forge/cuquantum-python-feedstock.git
 	path = feedstocks/cuquantum-python
 	branch = refs/heads/master
+[submodule "cuquantum"]
+	url = https://github.com/conda-forge/cuquantum-feedstock.git
+	path = feedstocks/cuquantum
+	branch = refs/heads/master
