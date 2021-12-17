@@ -59042,3 +59042,7 @@
 	url = https://github.com/conda-forge/unifhy-feedstock.git
 	path = feedstocks/unifhy
 	branch = refs/heads/master
+[submodule "adorn"]
+	url = https://github.com/conda-forge/adorn-feedstock.git
+	path = feedstocks/adorn
+	branch = refs/heads/master
