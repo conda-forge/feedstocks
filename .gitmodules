@@ -59030,3 +59030,7 @@
 	url = https://github.com/conda-forge/partsgenieclient-feedstock.git
 	path = feedstocks/partsgenieclient
 	branch = refs/heads/master
+[submodule "lcr_genie"]
+	url = https://github.com/conda-forge/lcr_genie-feedstock.git
+	path = feedstocks/lcr_genie
+	branch = refs/heads/master
