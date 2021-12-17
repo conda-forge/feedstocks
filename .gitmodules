@@ -58986,3 +58986,7 @@
 	url = https://github.com/conda-forge/google-cloud-dataproc-metastore-feedstock.git
 	path = feedstocks/google-cloud-dataproc-metastore
 	branch = refs/heads/master
+[submodule "npysearch"]
+	url = https://github.com/conda-forge/npysearch-feedstock.git
+	path = feedstocks/npysearch
+	branch = refs/heads/master
