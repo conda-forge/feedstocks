@@ -59050,3 +59050,7 @@
 	url = https://github.com/conda-forge/xpersist-feedstock.git
 	path = feedstocks/xpersist
 	branch = refs/heads/master
+[submodule "gradsflow"]
+	url = https://github.com/conda-forge/gradsflow-feedstock.git
+	path = feedstocks/gradsflow
+	branch = refs/heads/master
