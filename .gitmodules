@@ -59026,3 +59026,7 @@
 	url = https://github.com/conda-forge/r-spatialreg-feedstock.git
 	path = feedstocks/r-spatialreg
 	branch = refs/heads/master
+[submodule "partsgenieclient"]
+	url = https://github.com/conda-forge/partsgenieclient-feedstock.git
+	path = feedstocks/partsgenieclient
+	branch = refs/heads/master
