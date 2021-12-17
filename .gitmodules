@@ -59034,3 +59034,7 @@
 	url = https://github.com/conda-forge/lcr_genie-feedstock.git
 	path = feedstocks/lcr_genie
 	branch = refs/heads/master
+[submodule "emd"]
+	url = https://github.com/conda-forge/emd-feedstock.git
+	path = feedstocks/emd
+	branch = refs/heads/master
