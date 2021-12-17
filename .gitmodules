@@ -59002,3 +59002,7 @@
 	url = https://github.com/conda-forge/pipe-feedstock.git
 	path = feedstocks/pipe
 	branch = refs/heads/master
+[submodule "decli"]
+	url = https://github.com/conda-forge/decli-feedstock.git
+	path = feedstocks/decli
+	branch = refs/heads/master
