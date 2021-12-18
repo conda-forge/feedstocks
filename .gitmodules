@@ -59090,3 +59090,7 @@
 	url = https://github.com/conda-forge/dimcli-feedstock.git
 	path = feedstocks/dimcli
 	branch = refs/heads/master
+[submodule "r-cmm"]
+	url = https://github.com/conda-forge/r-cmm-feedstock.git
+	path = feedstocks/r-cmm
+	branch = refs/heads/master
