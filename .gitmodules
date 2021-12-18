@@ -59094,3 +59094,7 @@
 	url = https://github.com/conda-forge/r-cmm-feedstock.git
 	path = feedstocks/r-cmm
 	branch = refs/heads/master
+[submodule "r-rglpk"]
+	url = https://github.com/conda-forge/r-rglpk-feedstock.git
+	path = feedstocks/r-rglpk
+	branch = refs/heads/master
