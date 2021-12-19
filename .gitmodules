@@ -59126,3 +59126,7 @@
 	url = https://github.com/conda-forge/r-plackettluce-feedstock.git
 	path = feedstocks/r-plackettluce
 	branch = refs/heads/master
+[submodule "simmate"]
+	url = https://github.com/conda-forge/simmate-feedstock.git
+	path = feedstocks/simmate
+	branch = refs/heads/master
