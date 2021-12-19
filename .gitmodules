@@ -59118,3 +59118,7 @@
 	url = https://github.com/conda-forge/grad-cam-feedstock.git
 	path = feedstocks/grad-cam
 	branch = refs/heads/master
+[submodule "r-sparkr"]
+	url = https://github.com/conda-forge/r-sparkr-feedstock.git
+	path = feedstocks/r-sparkr
+	branch = refs/heads/master
