@@ -59102,3 +59102,7 @@
 	url = https://github.com/conda-forge/free-proxy-feedstock.git
 	path = feedstocks/free-proxy
 	branch = refs/heads/master
+[submodule "scholarly"]
+	url = https://github.com/conda-forge/scholarly-feedstock.git
+	path = feedstocks/scholarly
+	branch = refs/heads/master
