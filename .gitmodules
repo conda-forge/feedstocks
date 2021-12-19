@@ -59122,3 +59122,7 @@
 	url = https://github.com/conda-forge/r-sparkr-feedstock.git
 	path = feedstocks/r-sparkr
 	branch = refs/heads/master
+[submodule "r-plackettluce"]
+	url = https://github.com/conda-forge/r-plackettluce-feedstock.git
+	path = feedstocks/r-plackettluce
+	branch = refs/heads/master
