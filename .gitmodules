@@ -59130,3 +59130,7 @@
 	url = https://github.com/conda-forge/simmate-feedstock.git
 	path = feedstocks/simmate
 	branch = refs/heads/master
+[submodule "particula"]
+	url = https://github.com/conda-forge/particula-feedstock.git
+	path = feedstocks/particula
+	branch = refs/heads/master
