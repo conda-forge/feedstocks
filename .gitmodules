@@ -59110,3 +59110,7 @@
 	url = https://github.com/conda-forge/ttach-feedstock.git
 	path = feedstocks/ttach
 	branch = refs/heads/master
+[submodule "mc"]
+	url = https://github.com/conda-forge/mc-feedstock.git
+	path = feedstocks/mc
+	branch = refs/heads/master
