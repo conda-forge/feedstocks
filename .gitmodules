@@ -59142,3 +59142,7 @@
 	url = https://github.com/conda-forge/r-synthpop-feedstock.git
 	path = feedstocks/r-synthpop
 	branch = refs/heads/master
+[submodule "legofy"]
+	url = https://github.com/conda-forge/legofy-feedstock.git
+	path = feedstocks/legofy
+	branch = refs/heads/master
