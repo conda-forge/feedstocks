@@ -59146,3 +59146,7 @@
 	url = https://github.com/conda-forge/legofy-feedstock.git
 	path = feedstocks/legofy
 	branch = refs/heads/master
+[submodule "igwn-auth-utils"]
+	url = https://github.com/conda-forge/igwn-auth-utils-feedstock.git
+	path = feedstocks/igwn-auth-utils
+	branch = refs/heads/master
