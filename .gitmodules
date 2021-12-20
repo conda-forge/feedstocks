@@ -59138,3 +59138,7 @@
 	url = https://github.com/conda-forge/r-mipfp-feedstock.git
 	path = feedstocks/r-mipfp
 	branch = refs/heads/master
+[submodule "r-synthpop"]
+	url = https://github.com/conda-forge/r-synthpop-feedstock.git
+	path = feedstocks/r-synthpop
+	branch = refs/heads/master
