@@ -59150,3 +59150,7 @@
 	url = https://github.com/conda-forge/igwn-auth-utils-feedstock.git
 	path = feedstocks/igwn-auth-utils
 	branch = refs/heads/master
+[submodule "restrictedpython"]
+	url = https://github.com/conda-forge/restrictedpython-feedstock.git
+	path = feedstocks/restrictedpython
+	branch = refs/heads/master
