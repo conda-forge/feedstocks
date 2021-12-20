@@ -59134,3 +59134,7 @@
 	url = https://github.com/conda-forge/particula-feedstock.git
 	path = feedstocks/particula
 	branch = refs/heads/master
+[submodule "r-mipfp"]
+	url = https://github.com/conda-forge/r-mipfp-feedstock.git
+	path = feedstocks/r-mipfp
+	branch = refs/heads/master
