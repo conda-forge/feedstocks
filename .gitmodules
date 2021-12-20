@@ -59154,3 +59154,7 @@
 	url = https://github.com/conda-forge/restrictedpython-feedstock.git
 	path = feedstocks/restrictedpython
 	branch = refs/heads/master
+[submodule "tsod"]
+	url = https://github.com/conda-forge/tsod-feedstock.git
+	path = feedstocks/tsod
+	branch = refs/heads/master
