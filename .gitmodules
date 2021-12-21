@@ -59174,3 +59174,7 @@
 	url = https://github.com/conda-forge/nyxtools-feedstock.git
 	path = feedstocks/nyxtools
 	branch = refs/heads/master
+[submodule "mxtools"]
+	url = https://github.com/conda-forge/mxtools-feedstock.git
+	path = feedstocks/mxtools
+	branch = refs/heads/master
