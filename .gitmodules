@@ -59162,3 +59162,7 @@
 	url = https://github.com/conda-forge/krbcontext-feedstock.git
 	path = feedstocks/krbcontext
 	branch = refs/heads/master
+[submodule "quantum-xir"]
+	url = https://github.com/conda-forge/quantum-xir-feedstock.git
+	path = feedstocks/quantum-xir
+	branch = refs/heads/master
