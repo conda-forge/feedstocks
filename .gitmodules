@@ -59170,3 +59170,7 @@
 	url = https://github.com/conda-forge/pep621-feedstock.git
 	path = feedstocks/pep621
 	branch = refs/heads/master
+[submodule "nyxtools"]
+	url = https://github.com/conda-forge/nyxtools-feedstock.git
+	path = feedstocks/nyxtools
+	branch = refs/heads/master
