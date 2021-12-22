@@ -59250,3 +59250,7 @@
 	url = https://github.com/conda-forge/aspell-feedstock.git
 	path = feedstocks/aspell
 	branch = refs/heads/master
+[submodule "openamundsen"]
+	url = https://github.com/conda-forge/openamundsen-feedstock.git
+	path = feedstocks/openamundsen
+	branch = refs/heads/master
