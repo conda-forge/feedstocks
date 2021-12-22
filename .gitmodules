@@ -59206,3 +59206,7 @@
 	url = https://github.com/conda-forge/commitizen-feedstock.git
 	path = feedstocks/commitizen
 	branch = refs/heads/master
+[submodule "deno"]
+	url = https://github.com/conda-forge/deno-feedstock.git
+	path = feedstocks/deno
+	branch = refs/heads/master
