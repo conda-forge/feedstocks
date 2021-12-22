@@ -59266,3 +59266,7 @@
 	url = https://github.com/conda-forge/morphotactics-feedstock.git
 	path = feedstocks/morphotactics
 	branch = refs/heads/master
+[submodule "numba_celltree"]
+	url = https://github.com/conda-forge/numba_celltree-feedstock.git
+	path = feedstocks/numba_celltree
+	branch = refs/heads/master
