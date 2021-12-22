@@ -59226,3 +59226,7 @@
 	url = https://github.com/conda-forge/tensorly-torch-feedstock.git
 	path = feedstocks/tensorly-torch
 	branch = refs/heads/master
+[submodule "django-termsandconditions"]
+	url = https://github.com/conda-forge/django-termsandconditions-feedstock.git
+	path = feedstocks/django-termsandconditions
+	branch = refs/heads/master
