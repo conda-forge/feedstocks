@@ -59194,3 +59194,7 @@
 	url = https://github.com/conda-forge/django-recaptcha2-feedstock.git
 	path = feedstocks/django-recaptcha2
 	branch = refs/heads/master
+[submodule "pytest-requires"]
+	url = https://github.com/conda-forge/pytest-requires-feedstock.git
+	path = feedstocks/pytest-requires
+	branch = refs/heads/master
