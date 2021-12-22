@@ -59198,3 +59198,7 @@
 	url = https://github.com/conda-forge/pytest-requires-feedstock.git
 	path = feedstocks/pytest-requires
 	branch = refs/heads/master
+[submodule "django-session-security"]
+	url = https://github.com/conda-forge/django-session-security-feedstock.git
+	path = feedstocks/django-session-security
+	branch = refs/heads/master
