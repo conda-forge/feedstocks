@@ -59230,3 +59230,7 @@
 	url = https://github.com/conda-forge/django-termsandconditions-feedstock.git
 	path = feedstocks/django-termsandconditions
 	branch = refs/heads/master
+[submodule "django-analytical"]
+	url = https://github.com/conda-forge/django-analytical-feedstock.git
+	path = feedstocks/django-analytical
+	branch = refs/heads/master
