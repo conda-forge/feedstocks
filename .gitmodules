@@ -59218,3 +59218,7 @@
 	url = https://github.com/conda-forge/hypergbm-feedstock.git
 	path = feedstocks/hypergbm
 	branch = refs/heads/master
+[submodule "tensorly-quantum"]
+	url = https://github.com/conda-forge/tensorly-quantum-feedstock.git
+	path = feedstocks/tensorly-quantum
+	branch = refs/heads/master
