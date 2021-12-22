@@ -59246,3 +59246,7 @@
 	url = https://github.com/conda-forge/analysisstore-feedstock.git
 	path = feedstocks/analysisstore
 	branch = refs/heads/master
+[submodule "aspell"]
+	url = https://github.com/conda-forge/aspell-feedstock.git
+	path = feedstocks/aspell
+	branch = refs/heads/master
