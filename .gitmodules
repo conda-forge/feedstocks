@@ -59222,3 +59222,7 @@
 	url = https://github.com/conda-forge/tensorly-quantum-feedstock.git
 	path = feedstocks/tensorly-quantum
 	branch = refs/heads/master
+[submodule "tensorly-torch"]
+	url = https://github.com/conda-forge/tensorly-torch-feedstock.git
+	path = feedstocks/tensorly-torch
+	branch = refs/heads/master
