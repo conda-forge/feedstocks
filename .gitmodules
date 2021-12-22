@@ -59190,3 +59190,7 @@
 	url = https://github.com/conda-forge/django-simple-captcha-feedstock.git
 	path = feedstocks/django-simple-captcha
 	branch = refs/heads/master
+[submodule "django-recaptcha2"]
+	url = https://github.com/conda-forge/django-recaptcha2-feedstock.git
+	path = feedstocks/django-recaptcha2
+	branch = refs/heads/master
