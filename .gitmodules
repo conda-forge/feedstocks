@@ -59182,3 +59182,7 @@
 	url = https://github.com/conda-forge/crystalmapping-feedstock.git
 	path = feedstocks/crystalmapping
 	branch = refs/heads/master
+[submodule "django-ranged-response"]
+	url = https://github.com/conda-forge/django-ranged-response-feedstock.git
+	path = feedstocks/django-ranged-response
+	branch = refs/heads/master
