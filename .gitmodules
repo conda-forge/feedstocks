@@ -59186,3 +59186,7 @@
 	url = https://github.com/conda-forge/django-ranged-response-feedstock.git
 	path = feedstocks/django-ranged-response
 	branch = refs/heads/master
+[submodule "django-simple-captcha"]
+	url = https://github.com/conda-forge/django-simple-captcha-feedstock.git
+	path = feedstocks/django-simple-captcha
+	branch = refs/heads/master
