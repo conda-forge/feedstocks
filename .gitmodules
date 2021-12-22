@@ -59178,3 +59178,7 @@
 	url = https://github.com/conda-forge/mxtools-feedstock.git
 	path = feedstocks/mxtools
 	branch = refs/heads/master
+[submodule "crystalmapping"]
+	url = https://github.com/conda-forge/crystalmapping-feedstock.git
+	path = feedstocks/crystalmapping
+	branch = refs/heads/master
