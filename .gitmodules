@@ -59258,3 +59258,7 @@
 	url = https://github.com/conda-forge/qt_epics-feedstock.git
 	path = feedstocks/qt_epics
 	branch = refs/heads/master
+[submodule "nagl"]
+	url = https://github.com/conda-forge/nagl-feedstock.git
+	path = feedstocks/nagl
+	branch = refs/heads/master
