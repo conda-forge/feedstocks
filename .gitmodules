@@ -59238,3 +59238,7 @@
 	url = https://github.com/conda-forge/piou-feedstock.git
 	path = feedstocks/piou
 	branch = refs/heads/master
+[submodule "conftrak"]
+	url = https://github.com/conda-forge/conftrak-feedstock.git
+	path = feedstocks/conftrak
+	branch = refs/heads/master
