@@ -59282,3 +59282,7 @@
 	url = https://github.com/conda-forge/charliecloud-feedstock.git
 	path = feedstocks/charliecloud
 	branch = refs/heads/master
+[submodule "torchmd"]
+	url = https://github.com/conda-forge/torchmd-feedstock.git
+	path = feedstocks/torchmd
+	branch = refs/heads/master
