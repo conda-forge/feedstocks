@@ -59298,3 +59298,7 @@
 	url = https://github.com/conda-forge/torchcam-feedstock.git
 	path = feedstocks/torchcam
 	branch = refs/heads/master
+[submodule "jobflow"]
+	url = https://github.com/conda-forge/jobflow-feedstock.git
+	path = feedstocks/jobflow
+	branch = refs/heads/master
