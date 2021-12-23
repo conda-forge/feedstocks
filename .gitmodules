@@ -59274,3 +59274,7 @@
 	url = https://github.com/conda-forge/r-triangle-feedstock.git
 	path = feedstocks/r-triangle
 	branch = refs/heads/master
+[submodule "vit-pytorch"]
+	url = https://github.com/conda-forge/vit-pytorch-feedstock.git
+	path = feedstocks/vit-pytorch
+	branch = refs/heads/master
