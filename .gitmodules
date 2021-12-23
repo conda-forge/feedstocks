@@ -59302,3 +59302,7 @@
 	url = https://github.com/conda-forge/jobflow-feedstock.git
 	path = feedstocks/jobflow
 	branch = refs/heads/master
+[submodule "ensaio"]
+	url = https://github.com/conda-forge/ensaio-feedstock.git
+	path = feedstocks/ensaio
+	branch = refs/heads/master
