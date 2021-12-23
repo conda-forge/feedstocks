@@ -59294,3 +59294,7 @@
 	url = https://github.com/conda-forge/xugrid-feedstock.git
 	path = feedstocks/xugrid
 	branch = refs/heads/master
+[submodule "torchcam"]
+	url = https://github.com/conda-forge/torchcam-feedstock.git
+	path = feedstocks/torchcam
+	branch = refs/heads/master
