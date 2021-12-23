@@ -59286,3 +59286,7 @@
 	url = https://github.com/conda-forge/torchmd-feedstock.git
 	path = feedstocks/torchmd
 	branch = refs/heads/master
+[submodule "absolv"]
+	url = https://github.com/conda-forge/absolv-feedstock.git
+	path = feedstocks/absolv
+	branch = refs/heads/master
