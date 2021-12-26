@@ -59314,3 +59314,7 @@
 	url = https://github.com/conda-forge/padelpy-feedstock.git
 	path = feedstocks/padelpy
 	branch = refs/heads/master
+[submodule "r-zipfr"]
+	url = https://github.com/conda-forge/r-zipfr-feedstock.git
+	path = feedstocks/r-zipfr
+	branch = refs/heads/master
