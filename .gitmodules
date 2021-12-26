@@ -59318,3 +59318,7 @@
 	url = https://github.com/conda-forge/r-zipfr-feedstock.git
 	path = feedstocks/r-zipfr
 	branch = refs/heads/master
+[submodule "r-rcppspdlog"]
+	url = https://github.com/conda-forge/r-rcppspdlog-feedstock.git
+	path = feedstocks/r-rcppspdlog
+	branch = refs/heads/master
