@@ -59322,3 +59322,7 @@
 	url = https://github.com/conda-forge/r-rcppspdlog-feedstock.git
 	path = feedstocks/r-rcppspdlog
 	branch = refs/heads/master
+[submodule "r-sccore"]
+	url = https://github.com/conda-forge/r-sccore-feedstock.git
+	path = feedstocks/r-sccore
+	branch = refs/heads/master
