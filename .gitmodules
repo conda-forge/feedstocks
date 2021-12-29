@@ -59354,3 +59354,7 @@
 	url = https://github.com/conda-forge/pytrait-feedstock.git
 	path = feedstocks/pytrait
 	branch = refs/heads/master
+[submodule "monai"]
+	url = https://github.com/conda-forge/monai-feedstock.git
+	path = feedstocks/monai
+	branch = refs/heads/master
