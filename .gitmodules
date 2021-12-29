@@ -59374,3 +59374,7 @@
 	url = https://github.com/conda-forge/pipx-feedstock.git
 	path = feedstocks/pipx
 	branch = refs/heads/master
+[submodule "condax"]
+	url = https://github.com/conda-forge/condax-feedstock.git
+	path = feedstocks/condax
+	branch = refs/heads/master
