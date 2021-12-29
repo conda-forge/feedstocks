@@ -59346,3 +59346,7 @@
 	url = https://github.com/conda-forge/sf-hamilton-feedstock.git
 	path = feedstocks/sf-hamilton
 	branch = refs/heads/master
+[submodule "pytestify"]
+	url = https://github.com/conda-forge/pytestify-feedstock.git
+	path = feedstocks/pytestify
+	branch = refs/heads/master
