@@ -59334,3 +59334,7 @@
 	url = https://github.com/conda-forge/r-radarchart-feedstock.git
 	path = feedstocks/r-radarchart
 	branch = refs/heads/master
+[submodule "ccr"]
+	url = https://github.com/conda-forge/ccr-feedstock.git
+	path = feedstocks/ccr
+	branch = refs/heads/master
