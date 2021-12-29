@@ -59362,3 +59362,7 @@
 	url = https://github.com/conda-forge/allagash-feedstock.git
 	path = feedstocks/allagash
 	branch = refs/heads/master
+[submodule "zipfly"]
+	url = https://github.com/conda-forge/zipfly-feedstock.git
+	path = feedstocks/zipfly
+	branch = refs/heads/master
