@@ -59358,3 +59358,7 @@
 	url = https://github.com/conda-forge/monai-feedstock.git
 	path = feedstocks/monai
 	branch = refs/heads/master
+[submodule "allagash"]
+	url = https://github.com/conda-forge/allagash-feedstock.git
+	path = feedstocks/allagash
+	branch = refs/heads/master
