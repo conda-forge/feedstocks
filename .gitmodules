@@ -59370,3 +59370,7 @@
 	url = https://github.com/conda-forge/whos-there-feedstock.git
 	path = feedstocks/whos-there
 	branch = refs/heads/master
+[submodule "pipx"]
+	url = https://github.com/conda-forge/pipx-feedstock.git
+	path = feedstocks/pipx
+	branch = refs/heads/master
