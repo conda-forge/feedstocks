@@ -59366,3 +59366,7 @@
 	url = https://github.com/conda-forge/zipfly-feedstock.git
 	path = feedstocks/zipfly
 	branch = refs/heads/master
+[submodule "whos-there"]
+	url = https://github.com/conda-forge/whos-there-feedstock.git
+	path = feedstocks/whos-there
+	branch = refs/heads/master
