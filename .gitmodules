@@ -59338,3 +59338,7 @@
 	url = https://github.com/conda-forge/ccr-feedstock.git
 	path = feedstocks/ccr
 	branch = refs/heads/master
+[submodule "poetry-kernel"]
+	url = https://github.com/conda-forge/poetry-kernel-feedstock.git
+	path = feedstocks/poetry-kernel
+	branch = refs/heads/master
