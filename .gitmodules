@@ -59382,3 +59382,7 @@
 	url = https://github.com/conda-forge/r-stratifyr-feedstock.git
 	path = feedstocks/r-stratifyr
 	branch = refs/heads/master
+[submodule "libhugetlbfs"]
+	url = https://github.com/conda-forge/libhugetlbfs-feedstock.git
+	path = feedstocks/libhugetlbfs
+	branch = refs/heads/master
