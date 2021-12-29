@@ -59342,3 +59342,7 @@
 	url = https://github.com/conda-forge/poetry-kernel-feedstock.git
 	path = feedstocks/poetry-kernel
 	branch = refs/heads/master
+[submodule "sf-hamilton"]
+	url = https://github.com/conda-forge/sf-hamilton-feedstock.git
+	path = feedstocks/sf-hamilton
+	branch = refs/heads/master
