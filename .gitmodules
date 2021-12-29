@@ -59378,3 +59378,7 @@
 	url = https://github.com/conda-forge/condax-feedstock.git
 	path = feedstocks/condax
 	branch = refs/heads/master
+[submodule "r-stratifyr"]
+	url = https://github.com/conda-forge/r-stratifyr-feedstock.git
+	path = feedstocks/r-stratifyr
+	branch = refs/heads/master
