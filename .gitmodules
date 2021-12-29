@@ -59386,3 +59386,7 @@
 	url = https://github.com/conda-forge/libhugetlbfs-feedstock.git
 	path = feedstocks/libhugetlbfs
 	branch = refs/heads/master
+[submodule "hera-workflows"]
+	url = https://github.com/conda-forge/hera-workflows-feedstock.git
+	path = feedstocks/hera-workflows
+	branch = refs/heads/master
