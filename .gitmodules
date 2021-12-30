@@ -59406,3 +59406,7 @@
 	url = https://github.com/conda-forge/fnc-feedstock.git
 	path = feedstocks/fnc
 	branch = refs/heads/master
+[submodule "ford"]
+	url = https://github.com/conda-forge/ford-feedstock.git
+	path = feedstocks/ford
+	branch = refs/heads/master
