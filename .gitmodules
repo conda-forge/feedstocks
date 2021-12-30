@@ -59434,3 +59434,7 @@
 	url = https://github.com/conda-forge/ecco-feedstock.git
 	path = feedstocks/ecco
 	branch = refs/heads/master
+[submodule "datafusion"]
+	url = https://github.com/conda-forge/datafusion-feedstock.git
+	path = feedstocks/datafusion
+	branch = refs/heads/master
