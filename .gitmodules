@@ -59426,3 +59426,7 @@
 	url = https://github.com/conda-forge/towhee-feedstock.git
 	path = feedstocks/towhee
 	branch = refs/heads/master
+[submodule "captum"]
+	url = https://github.com/conda-forge/captum-feedstock.git
+	path = feedstocks/captum
+	branch = refs/heads/master
