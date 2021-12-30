@@ -59418,3 +59418,7 @@
 	url = https://github.com/conda-forge/pre-commit-hooks-feedstock.git
 	path = feedstocks/pre-commit-hooks
 	branch = refs/heads/master
+[submodule "panel-chemistry"]
+	url = https://github.com/conda-forge/panel-chemistry-feedstock.git
+	path = feedstocks/panel-chemistry
+	branch = refs/heads/master
