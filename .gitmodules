@@ -59430,3 +59430,7 @@
 	url = https://github.com/conda-forge/captum-feedstock.git
 	path = feedstocks/captum
 	branch = refs/heads/master
+[submodule "ecco"]
+	url = https://github.com/conda-forge/ecco-feedstock.git
+	path = feedstocks/ecco
+	branch = refs/heads/master
