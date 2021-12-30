@@ -59410,3 +59410,7 @@
 	url = https://github.com/conda-forge/ford-feedstock.git
 	path = feedstocks/ford
 	branch = refs/heads/master
+[submodule "md-environ"]
+	url = https://github.com/conda-forge/md-environ-feedstock.git
+	path = feedstocks/md-environ
+	branch = refs/heads/master
