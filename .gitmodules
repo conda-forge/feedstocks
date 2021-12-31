@@ -59438,3 +59438,7 @@
 	url = https://github.com/conda-forge/datafusion-feedstock.git
 	path = feedstocks/datafusion
 	branch = refs/heads/master
+[submodule "evfuncs"]
+	url = https://github.com/conda-forge/evfuncs-feedstock.git
+	path = feedstocks/evfuncs
+	branch = refs/heads/master
