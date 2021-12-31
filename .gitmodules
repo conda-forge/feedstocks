@@ -59442,3 +59442,7 @@
 	url = https://github.com/conda-forge/evfuncs-feedstock.git
 	path = feedstocks/evfuncs
 	branch = refs/heads/master
+[submodule "gtop"]
+	url = https://github.com/conda-forge/gtop-feedstock.git
+	path = feedstocks/gtop
+	branch = refs/heads/master
