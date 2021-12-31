@@ -59446,3 +59446,7 @@
 	url = https://github.com/conda-forge/gtop-feedstock.git
 	path = feedstocks/gtop
 	branch = refs/heads/master
+[submodule "bigearthnet-common"]
+	url = https://github.com/conda-forge/bigearthnet-common-feedstock.git
+	path = feedstocks/bigearthnet-common
+	branch = refs/heads/master
