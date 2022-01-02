@@ -59458,3 +59458,7 @@
 	url = https://github.com/conda-forge/birdsong-recognition-dataset-feedstock.git
 	path = feedstocks/birdsong-recognition-dataset
 	branch = refs/heads/master
+[submodule "libapparmor"]
+	url = https://github.com/conda-forge/libapparmor-feedstock.git
+	path = feedstocks/libapparmor
+	branch = refs/heads/master
