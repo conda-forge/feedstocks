@@ -59454,3 +59454,7 @@
 	url = https://github.com/conda-forge/pipreqsnb-feedstock.git
 	path = feedstocks/pipreqsnb
 	branch = refs/heads/master
+[submodule "birdsong-recognition-dataset"]
+	url = https://github.com/conda-forge/birdsong-recognition-dataset-feedstock.git
+	path = feedstocks/birdsong-recognition-dataset
+	branch = refs/heads/master
