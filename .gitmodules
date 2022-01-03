@@ -59462,3 +59462,7 @@
 	url = https://github.com/conda-forge/libapparmor-feedstock.git
 	path = feedstocks/libapparmor
 	branch = refs/heads/master
+[submodule "crowsetta"]
+	url = https://github.com/conda-forge/crowsetta-feedstock.git
+	path = feedstocks/crowsetta
+	branch = refs/heads/master
