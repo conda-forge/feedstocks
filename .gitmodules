@@ -59466,3 +59466,7 @@
 	url = https://github.com/conda-forge/crowsetta-feedstock.git
 	path = feedstocks/crowsetta
 	branch = refs/heads/master
+[submodule "aiofile"]
+	url = https://github.com/conda-forge/aiofile-feedstock.git
+	path = feedstocks/aiofile
+	branch = refs/heads/master
