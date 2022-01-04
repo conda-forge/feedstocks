@@ -59490,3 +59490,7 @@
 	url = https://github.com/conda-forge/chemicalfun-feedstock.git
 	path = feedstocks/chemicalfun
 	branch = refs/heads/master
+[submodule "gnu-units"]
+	url = https://github.com/conda-forge/gnu-units-feedstock.git
+	path = feedstocks/gnu-units
+	branch = refs/heads/master
