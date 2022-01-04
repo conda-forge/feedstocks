@@ -59498,3 +59498,7 @@
 	url = https://github.com/conda-forge/pylogbeat-feedstock.git
 	path = feedstocks/pylogbeat
 	branch = refs/heads/master
+[submodule "raven-wps"]
+	url = https://github.com/conda-forge/raven-wps-feedstock.git
+	path = feedstocks/raven-wps
+	branch = refs/heads/master
