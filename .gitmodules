@@ -59514,3 +59514,7 @@
 	url = https://github.com/conda-forge/metaimageio-feedstock.git
 	path = feedstocks/metaimageio
 	branch = refs/heads/master
+[submodule "pyrolite"]
+	url = https://github.com/conda-forge/pyrolite-feedstock.git
+	path = feedstocks/pyrolite
+	branch = refs/heads/master
