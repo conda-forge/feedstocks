@@ -59522,3 +59522,7 @@
 	url = https://github.com/conda-forge/robotframework-axelibrary-feedstock.git
 	path = feedstocks/robotframework-axelibrary
 	branch = refs/heads/master
+[submodule "pygedm"]
+	url = https://github.com/conda-forge/pygedm-feedstock.git
+	path = feedstocks/pygedm
+	branch = refs/heads/master
