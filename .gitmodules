@@ -59546,3 +59546,7 @@
 	url = https://github.com/conda-forge/genespeak-feedstock.git
 	path = feedstocks/genespeak
 	branch = refs/heads/master
+[submodule "dependente"]
+	url = https://github.com/conda-forge/dependente-feedstock.git
+	path = feedstocks/dependente
+	branch = refs/heads/master
