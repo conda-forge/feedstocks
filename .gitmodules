@@ -59554,3 +59554,7 @@
 	url = https://github.com/conda-forge/vak-feedstock.git
 	path = feedstocks/vak
 	branch = refs/heads/master
+[submodule "mutpy-pynguin"]
+	url = https://github.com/conda-forge/mutpy-pynguin-feedstock.git
+	path = feedstocks/mutpy-pynguin
+	branch = refs/heads/master
