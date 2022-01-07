@@ -59542,3 +59542,7 @@
 	url = https://github.com/conda-forge/torch_em-feedstock.git
 	path = feedstocks/torch_em
 	branch = refs/heads/master
+[submodule "genespeak"]
+	url = https://github.com/conda-forge/genespeak-feedstock.git
+	path = feedstocks/genespeak
+	branch = refs/heads/master
