@@ -59610,3 +59610,7 @@
 	url = https://github.com/conda-forge/autots-feedstock.git
 	path = feedstocks/autots
 	branch = refs/heads/master
+[submodule "opsgenie-sdk"]
+	url = https://github.com/conda-forge/opsgenie-sdk-feedstock.git
+	path = feedstocks/opsgenie-sdk
+	branch = refs/heads/master
