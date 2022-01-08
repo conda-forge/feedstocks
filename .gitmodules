@@ -59618,3 +59618,7 @@
 	url = https://github.com/conda-forge/ansys-api-mapdl-v0-feedstock.git
 	path = feedstocks/ansys-api-mapdl-v0
 	branch = refs/heads/master
+[submodule "unifunc"]
+	url = https://github.com/conda-forge/unifunc-feedstock.git
+	path = feedstocks/unifunc
+	branch = refs/heads/master
