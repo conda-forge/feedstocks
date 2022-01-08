@@ -59570,3 +59570,7 @@
 	url = https://github.com/conda-forge/django-ninja-feedstock.git
 	path = feedstocks/django-ninja
 	branch = refs/heads/master
+[submodule "confz"]
+	url = https://github.com/conda-forge/confz-feedstock.git
+	path = feedstocks/confz
+	branch = refs/heads/master
