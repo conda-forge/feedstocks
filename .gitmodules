@@ -59582,3 +59582,7 @@
 	url = https://github.com/conda-forge/numbers-parser-feedstock.git
 	path = feedstocks/numbers-parser
 	branch = refs/heads/master
+[submodule "fastwsgi"]
+	url = https://github.com/conda-forge/fastwsgi-feedstock.git
+	path = feedstocks/fastwsgi
+	branch = refs/heads/master
