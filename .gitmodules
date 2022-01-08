@@ -59598,3 +59598,7 @@
 	url = https://github.com/conda-forge/opyrator-feedstock.git
 	path = feedstocks/opyrator
 	branch = refs/heads/master
+[submodule "chime"]
+	url = https://github.com/conda-forge/chime-feedstock.git
+	path = feedstocks/chime
+	branch = refs/heads/master
