@@ -59634,3 +59634,7 @@
 	url = https://github.com/conda-forge/r-preferably-feedstock.git
 	path = feedstocks/r-preferably
 	branch = refs/heads/master
+[submodule "libtensorlight"]
+	url = https://github.com/conda-forge/libtensorlight-feedstock.git
+	path = feedstocks/libtensorlight
+	branch = refs/heads/master
