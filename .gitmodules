@@ -59646,3 +59646,7 @@
 	url = https://github.com/conda-forge/git-history-feedstock.git
 	path = feedstocks/git-history
 	branch = refs/heads/master
+[submodule "setoptconf-tmp"]
+	url = https://github.com/conda-forge/setoptconf-tmp-feedstock.git
+	path = feedstocks/setoptconf-tmp
+	branch = refs/heads/master
