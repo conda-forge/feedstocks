@@ -59654,3 +59654,7 @@
 	url = https://github.com/conda-forge/openfisca-core-feedstock.git
 	path = feedstocks/openfisca-core
 	branch = refs/heads/master
+[submodule "docarray"]
+	url = https://github.com/conda-forge/docarray-feedstock.git
+	path = feedstocks/docarray
+	branch = refs/heads/master
