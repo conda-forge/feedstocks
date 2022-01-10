@@ -59738,3 +59738,7 @@
 	url = https://github.com/conda-forge/lttbc-feedstock.git
 	path = feedstocks/lttbc
 	branch = refs/heads/master
+[submodule "pydeps"]
+	url = https://github.com/conda-forge/pydeps-feedstock.git
+	path = feedstocks/pydeps
+	branch = refs/heads/master
