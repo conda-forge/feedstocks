@@ -59706,3 +59706,7 @@
 	url = https://github.com/conda-forge/asyncer-feedstock.git
 	path = feedstocks/asyncer
 	branch = refs/heads/master
+[submodule "npe2"]
+	url = https://github.com/conda-forge/npe2-feedstock.git
+	path = feedstocks/npe2
+	branch = refs/heads/master
