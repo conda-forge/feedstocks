@@ -59722,3 +59722,7 @@
 	url = https://github.com/conda-forge/pybaobabdt-feedstock.git
 	path = feedstocks/pybaobabdt
 	branch = refs/heads/master
+[submodule "sqllineage"]
+	url = https://github.com/conda-forge/sqllineage-feedstock.git
+	path = feedstocks/sqllineage
+	branch = refs/heads/master
