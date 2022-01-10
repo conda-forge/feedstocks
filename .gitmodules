@@ -59674,3 +59674,7 @@
 	url = https://github.com/conda-forge/trio-websocket-feedstock.git
 	path = feedstocks/trio-websocket
 	branch = refs/heads/master
+[submodule "sceptre-cmd-resolver"]
+	url = https://github.com/conda-forge/sceptre-cmd-resolver-feedstock.git
+	path = feedstocks/sceptre-cmd-resolver
+	branch = refs/heads/master
