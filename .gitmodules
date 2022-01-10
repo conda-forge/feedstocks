@@ -59714,3 +59714,7 @@
 	url = https://github.com/conda-forge/pyworld3-feedstock.git
 	path = feedstocks/pyworld3
 	branch = refs/heads/master
+[submodule "trace-updater"]
+	url = https://github.com/conda-forge/trace-updater-feedstock.git
+	path = feedstocks/trace-updater
+	branch = refs/heads/master
