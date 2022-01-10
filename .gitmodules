@@ -59678,3 +59678,7 @@
 	url = https://github.com/conda-forge/sceptre-cmd-resolver-feedstock.git
 	path = feedstocks/sceptre-cmd-resolver
 	branch = refs/heads/master
+[submodule "sceptre-file-resolver"]
+	url = https://github.com/conda-forge/sceptre-file-resolver-feedstock.git
+	path = feedstocks/sceptre-file-resolver
+	branch = refs/heads/master
