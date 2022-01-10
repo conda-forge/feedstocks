@@ -59702,3 +59702,7 @@
 	url = https://github.com/conda-forge/functionali-feedstock.git
 	path = feedstocks/functionali
 	branch = refs/heads/master
+[submodule "asyncer"]
+	url = https://github.com/conda-forge/asyncer-feedstock.git
+	path = feedstocks/asyncer
+	branch = refs/heads/master
