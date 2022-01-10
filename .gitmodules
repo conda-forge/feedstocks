@@ -59718,3 +59718,7 @@
 	url = https://github.com/conda-forge/trace-updater-feedstock.git
 	path = feedstocks/trace-updater
 	branch = refs/heads/master
+[submodule "pybaobabdt"]
+	url = https://github.com/conda-forge/pybaobabdt-feedstock.git
+	path = feedstocks/pybaobabdt
+	branch = refs/heads/master
