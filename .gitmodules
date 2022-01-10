@@ -59726,3 +59726,7 @@
 	url = https://github.com/conda-forge/sqllineage-feedstock.git
 	path = feedstocks/sqllineage
 	branch = refs/heads/master
+[submodule "pkgversions"]
+	url = https://github.com/conda-forge/pkgversions-feedstock.git
+	path = feedstocks/pkgversions
+	branch = refs/heads/master
