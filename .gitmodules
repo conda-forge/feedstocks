@@ -59730,3 +59730,7 @@
 	url = https://github.com/conda-forge/pkgversions-feedstock.git
 	path = feedstocks/pkgversions
 	branch = refs/heads/master
+[submodule "python-minifier"]
+	url = https://github.com/conda-forge/python-minifier-feedstock.git
+	path = feedstocks/python-minifier
+	branch = refs/heads/master
