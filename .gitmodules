@@ -59638,3 +59638,7 @@
 	url = https://github.com/conda-forge/libtensorlight-feedstock.git
 	path = feedstocks/libtensorlight
 	branch = refs/heads/master
+[submodule "pymongoarrow"]
+	url = https://github.com/conda-forge/pymongoarrow-feedstock.git
+	path = feedstocks/pymongoarrow
+	branch = refs/heads/master
