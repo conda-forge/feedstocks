@@ -59686,3 +59686,7 @@
 	url = https://github.com/conda-forge/localstack-plugin-loader-feedstock.git
 	path = feedstocks/localstack-plugin-loader
 	branch = refs/heads/master
+[submodule "flask-postgres"]
+	url = https://github.com/conda-forge/flask-postgres-feedstock.git
+	path = feedstocks/flask-postgres
+	branch = refs/heads/master
