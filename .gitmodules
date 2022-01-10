@@ -59642,3 +59642,7 @@
 	url = https://github.com/conda-forge/pymongoarrow-feedstock.git
 	path = feedstocks/pymongoarrow
 	branch = refs/heads/master
+[submodule "git-history"]
+	url = https://github.com/conda-forge/git-history-feedstock.git
+	path = feedstocks/git-history
+	branch = refs/heads/master
