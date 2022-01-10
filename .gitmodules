@@ -59658,3 +59658,7 @@
 	url = https://github.com/conda-forge/docarray-feedstock.git
 	path = feedstocks/docarray
 	branch = refs/heads/master
+[submodule "pdfcrop.pl"]
+	url = https://github.com/conda-forge/pdfcrop.pl-feedstock.git
+	path = feedstocks/pdfcrop.pl
+	branch = refs/heads/master
