@@ -59742,3 +59742,7 @@
 	url = https://github.com/conda-forge/pydeps-feedstock.git
 	path = feedstocks/pydeps
 	branch = refs/heads/master
+[submodule "biosphere"]
+	url = https://github.com/conda-forge/biosphere-feedstock.git
+	path = feedstocks/biosphere
+	branch = refs/heads/master
