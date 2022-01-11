@@ -59746,3 +59746,7 @@
 	url = https://github.com/conda-forge/biosphere-feedstock.git
 	path = feedstocks/biosphere
 	branch = refs/heads/master
+[submodule "sagemaker"]
+	url = https://github.com/conda-forge/sagemaker-feedstock.git
+	path = feedstocks/sagemaker
+	branch = refs/heads/master
