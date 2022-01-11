@@ -59762,3 +59762,7 @@
 	url = https://github.com/conda-forge/opacus-feedstock.git
 	path = feedstocks/opacus
 	branch = refs/heads/master
+[submodule "skyproj"]
+	url = https://github.com/conda-forge/skyproj-feedstock.git
+	path = feedstocks/skyproj
+	branch = refs/heads/master
