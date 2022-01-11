@@ -59758,3 +59758,7 @@
 	url = https://github.com/conda-forge/voila-retro-feedstock.git
 	path = feedstocks/voila-retro
 	branch = refs/heads/master
+[submodule "opacus"]
+	url = https://github.com/conda-forge/opacus-feedstock.git
+	path = feedstocks/opacus
+	branch = refs/heads/master
