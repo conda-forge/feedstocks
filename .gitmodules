@@ -59790,3 +59790,7 @@
 	url = https://github.com/conda-forge/r-keys-feedstock.git
 	path = feedstocks/r-keys
 	branch = refs/heads/master
+[submodule "spectrumdevice"]
+	url = https://github.com/conda-forge/spectrumdevice-feedstock.git
+	path = feedstocks/spectrumdevice
+	branch = refs/heads/master
