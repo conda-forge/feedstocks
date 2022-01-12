@@ -59806,3 +59806,7 @@
 	url = https://github.com/conda-forge/r-sdcmicro-feedstock.git
 	path = feedstocks/r-sdcmicro
 	branch = refs/heads/master
+[submodule "r-shinymeta"]
+	url = https://github.com/conda-forge/r-shinymeta-feedstock.git
+	path = feedstocks/r-shinymeta
+	branch = refs/heads/master
