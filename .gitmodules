@@ -59786,3 +59786,7 @@
 	url = https://github.com/conda-forge/r-productplots-feedstock.git
 	path = feedstocks/r-productplots
 	branch = refs/heads/master
+[submodule "r-keys"]
+	url = https://github.com/conda-forge/r-keys-feedstock.git
+	path = feedstocks/r-keys
+	branch = refs/heads/master
