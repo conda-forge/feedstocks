@@ -59898,3 +59898,7 @@
 	url = https://github.com/conda-forge/friendly-feedstock.git
 	path = feedstocks/friendly
 	branch = refs/heads/master
+[submodule "thefuzz"]
+	url = https://github.com/conda-forge/thefuzz-feedstock.git
+	path = feedstocks/thefuzz
+	branch = refs/heads/master
