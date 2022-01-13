@@ -59870,3 +59870,7 @@
 	url = https://github.com/conda-forge/pymoo-feedstock.git
 	path = feedstocks/pymoo
 	branch = refs/heads/master
+[submodule "downloader-cli"]
+	url = https://github.com/conda-forge/downloader-cli-feedstock.git
+	path = feedstocks/downloader-cli
+	branch = refs/heads/master
