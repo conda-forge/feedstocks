@@ -59878,3 +59878,7 @@
 	url = https://github.com/conda-forge/simber-feedstock.git
 	path = feedstocks/simber
 	branch = refs/heads/master
+[submodule "pydes"]
+	url = https://github.com/conda-forge/pydes-feedstock.git
+	path = feedstocks/pydes
+	branch = refs/heads/master
