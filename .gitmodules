@@ -59862,3 +59862,7 @@
 	url = https://github.com/conda-forge/xrd_simulator-feedstock.git
 	path = feedstocks/xrd_simulator
 	branch = refs/heads/master
+[submodule "ezconda"]
+	url = https://github.com/conda-forge/ezconda-feedstock.git
+	path = feedstocks/ezconda
+	branch = refs/heads/master
