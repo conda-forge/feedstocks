@@ -59866,3 +59866,7 @@
 	url = https://github.com/conda-forge/ezconda-feedstock.git
 	path = feedstocks/ezconda
 	branch = refs/heads/master
+[submodule "pymoo"]
+	url = https://github.com/conda-forge/pymoo-feedstock.git
+	path = feedstocks/pymoo
+	branch = refs/heads/master
