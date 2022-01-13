@@ -59874,3 +59874,7 @@
 	url = https://github.com/conda-forge/downloader-cli-feedstock.git
 	path = feedstocks/downloader-cli
 	branch = refs/heads/master
+[submodule "simber"]
+	url = https://github.com/conda-forge/simber-feedstock.git
+	path = feedstocks/simber
+	branch = refs/heads/master
