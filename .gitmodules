@@ -59858,3 +59858,7 @@
 	url = https://github.com/conda-forge/python-logstash-async-feedstock.git
 	path = feedstocks/python-logstash-async
 	branch = refs/heads/master
+[submodule "xrd_simulator"]
+	url = https://github.com/conda-forge/xrd_simulator-feedstock.git
+	path = feedstocks/xrd_simulator
+	branch = refs/heads/master
