@@ -59854,3 +59854,7 @@
 	url = https://github.com/conda-forge/zig-feedstock.git
 	path = feedstocks/zig
 	branch = refs/heads/master
+[submodule "python-logstash-async"]
+	url = https://github.com/conda-forge/python-logstash-async-feedstock.git
+	path = feedstocks/python-logstash-async
+	branch = refs/heads/master
