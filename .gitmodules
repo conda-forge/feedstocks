@@ -59830,3 +59830,7 @@
 	url = https://github.com/conda-forge/jupyter-jsmol-feedstock.git
 	path = feedstocks/jupyter-jsmol
 	branch = refs/heads/master
+[submodule "seqlike"]
+	url = https://github.com/conda-forge/seqlike-feedstock.git
+	path = feedstocks/seqlike
+	branch = refs/heads/master
