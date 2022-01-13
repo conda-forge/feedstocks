@@ -59902,3 +59902,7 @@
 	url = https://github.com/conda-forge/thefuzz-feedstock.git
 	path = feedstocks/thefuzz
 	branch = refs/heads/master
+[submodule "pyminhash"]
+	url = https://github.com/conda-forge/pyminhash-feedstock.git
+	path = feedstocks/pyminhash
+	branch = refs/heads/master
