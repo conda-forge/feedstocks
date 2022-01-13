@@ -59890,3 +59890,7 @@
 	url = https://github.com/conda-forge/plotly-resampler-feedstock.git
 	path = feedstocks/plotly-resampler
 	branch = refs/heads/master
+[submodule "cx_logging"]
+	url = https://github.com/conda-forge/cx_logging-feedstock.git
+	path = feedstocks/cx_logging
+	branch = refs/heads/master
