@@ -59922,3 +59922,7 @@
 	url = https://github.com/conda-forge/tango-atk-feedstock.git
 	path = feedstocks/tango-atk
 	branch = refs/heads/master
+[submodule "bertopic"]
+	url = https://github.com/conda-forge/bertopic-feedstock.git
+	path = feedstocks/bertopic
+	branch = refs/heads/master
