@@ -59926,3 +59926,7 @@
 	url = https://github.com/conda-forge/bertopic-feedstock.git
 	path = feedstocks/bertopic
 	branch = refs/heads/master
+[submodule "r-nlsic"]
+	url = https://github.com/conda-forge/r-nlsic-feedstock.git
+	path = feedstocks/r-nlsic
+	branch = refs/heads/master
