@@ -59946,3 +59946,7 @@
 	url = https://github.com/conda-forge/re-assert-feedstock.git
 	path = feedstocks/re-assert
 	branch = refs/heads/master
+[submodule "python-binance"]
+	url = https://github.com/conda-forge/python-binance-feedstock.git
+	path = feedstocks/python-binance
+	branch = refs/heads/master
