@@ -59950,3 +59950,7 @@
 	url = https://github.com/conda-forge/python-binance-feedstock.git
 	path = feedstocks/python-binance
 	branch = refs/heads/master
+[submodule "cyclonedx-bom"]
+	url = https://github.com/conda-forge/cyclonedx-bom-feedstock.git
+	path = feedstocks/cyclonedx-bom
+	branch = refs/heads/master
