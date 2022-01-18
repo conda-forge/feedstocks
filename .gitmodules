@@ -59962,3 +59962,7 @@
 	url = https://github.com/conda-forge/pytorch-spiking-feedstock.git
 	path = feedstocks/pytorch-spiking
 	branch = refs/heads/master
+[submodule "nengo-spa"]
+	url = https://github.com/conda-forge/nengo-spa-feedstock.git
+	path = feedstocks/nengo-spa
+	branch = refs/heads/master
