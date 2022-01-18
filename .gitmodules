@@ -59982,3 +59982,7 @@
 	url = https://github.com/conda-forge/nengo-dl-feedstock.git
 	path = feedstocks/nengo-dl
 	branch = refs/heads/master
+[submodule "stripnet"]
+	url = https://github.com/conda-forge/stripnet-feedstock.git
+	path = feedstocks/stripnet
+	branch = refs/heads/master
