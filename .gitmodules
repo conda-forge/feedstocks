@@ -59970,3 +59970,7 @@
 	url = https://github.com/conda-forge/nengo-ocl-feedstock.git
 	path = feedstocks/nengo-ocl
 	branch = refs/heads/master
+[submodule "keras-spiking"]
+	url = https://github.com/conda-forge/keras-spiking-feedstock.git
+	path = feedstocks/keras-spiking
+	branch = refs/heads/master
