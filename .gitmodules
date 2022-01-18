@@ -59974,3 +59974,7 @@
 	url = https://github.com/conda-forge/keras-spiking-feedstock.git
 	path = feedstocks/keras-spiking
 	branch = refs/heads/master
+[submodule "nengo-gui"]
+	url = https://github.com/conda-forge/nengo-gui-feedstock.git
+	path = feedstocks/nengo-gui
+	branch = refs/heads/master
