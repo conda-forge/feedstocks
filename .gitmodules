@@ -59966,3 +59966,7 @@
 	url = https://github.com/conda-forge/nengo-spa-feedstock.git
 	path = feedstocks/nengo-spa
 	branch = refs/heads/master
+[submodule "nengo-ocl"]
+	url = https://github.com/conda-forge/nengo-ocl-feedstock.git
+	path = feedstocks/nengo-ocl
+	branch = refs/heads/master
