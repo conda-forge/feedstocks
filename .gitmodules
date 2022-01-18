@@ -60054,3 +60054,7 @@
 	url = https://github.com/conda-forge/hypothesis-networkx-feedstock.git
 	path = feedstocks/hypothesis-networkx
 	branch = refs/heads/master
+[submodule "fastapi-mvc"]
+	url = https://github.com/conda-forge/fastapi-mvc-feedstock.git
+	path = feedstocks/fastapi-mvc
+	branch = refs/heads/master
