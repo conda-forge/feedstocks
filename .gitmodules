@@ -60090,3 +60090,7 @@
 	url = https://github.com/conda-forge/pytest-watcher-feedstock.git
 	path = feedstocks/pytest-watcher
 	branch = refs/heads/master
+[submodule "solo-epd-loader"]
+	url = https://github.com/conda-forge/solo-epd-loader-feedstock.git
+	path = feedstocks/solo-epd-loader
+	branch = refs/heads/master
