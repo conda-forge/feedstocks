@@ -60066,3 +60066,7 @@
 	url = https://github.com/conda-forge/redun-feedstock.git
 	path = feedstocks/redun
 	branch = refs/heads/master
+[submodule "deepchecks"]
+	url = https://github.com/conda-forge/deepchecks-feedstock.git
+	path = feedstocks/deepchecks
+	branch = refs/heads/master
