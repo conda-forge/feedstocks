@@ -60102,3 +60102,7 @@
 	url = https://github.com/conda-forge/tplot-feedstock.git
 	path = feedstocks/tplot
 	branch = refs/heads/master
+[submodule "orbit-ml"]
+	url = https://github.com/conda-forge/orbit-ml-feedstock.git
+	path = feedstocks/orbit-ml
+	branch = refs/heads/master
