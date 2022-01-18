@@ -59954,3 +59954,7 @@
 	url = https://github.com/conda-forge/cyclonedx-bom-feedstock.git
 	path = feedstocks/cyclonedx-bom
 	branch = refs/heads/master
+[submodule "nengo-extras"]
+	url = https://github.com/conda-forge/nengo-extras-feedstock.git
+	path = feedstocks/nengo-extras
+	branch = refs/heads/master
