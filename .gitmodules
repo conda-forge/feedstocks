@@ -60022,3 +60022,7 @@
 	url = https://github.com/conda-forge/interleave-feedstock.git
 	path = feedstocks/interleave
 	branch = refs/heads/master
+[submodule "lunarcalendar-ext"]
+	url = https://github.com/conda-forge/lunarcalendar-ext-feedstock.git
+	path = feedstocks/lunarcalendar-ext
+	branch = refs/heads/master
