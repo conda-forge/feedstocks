@@ -60042,3 +60042,7 @@
 	url = https://github.com/conda-forge/httpx-oauth-feedstock.git
 	path = feedstocks/httpx-oauth
 	branch = refs/heads/master
+[submodule "slotscheck"]
+	url = https://github.com/conda-forge/slotscheck-feedstock.git
+	path = feedstocks/slotscheck
+	branch = refs/heads/master
