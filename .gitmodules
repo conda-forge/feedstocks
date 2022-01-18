@@ -60094,3 +60094,7 @@
 	url = https://github.com/conda-forge/solo-epd-loader-feedstock.git
 	path = feedstocks/solo-epd-loader
 	branch = refs/heads/master
+[submodule "jupyter_ascending"]
+	url = https://github.com/conda-forge/jupyter_ascending-feedstock.git
+	path = feedstocks/jupyter_ascending
+	branch = refs/heads/master
