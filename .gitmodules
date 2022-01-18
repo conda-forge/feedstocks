@@ -59978,3 +59978,7 @@
 	url = https://github.com/conda-forge/nengo-gui-feedstock.git
 	path = feedstocks/nengo-gui
 	branch = refs/heads/master
+[submodule "nengo-dl"]
+	url = https://github.com/conda-forge/nengo-dl-feedstock.git
+	path = feedstocks/nengo-dl
+	branch = refs/heads/master
