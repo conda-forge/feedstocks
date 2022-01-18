@@ -60058,3 +60058,7 @@
 	url = https://github.com/conda-forge/fastapi-mvc-feedstock.git
 	path = feedstocks/fastapi-mvc
 	branch = refs/heads/master
+[submodule "gmx_mmpbsa"]
+	url = https://github.com/conda-forge/gmx_mmpbsa-feedstock.git
+	path = feedstocks/gmx_mmpbsa
+	branch = refs/heads/master
