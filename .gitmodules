@@ -60098,3 +60098,7 @@
 	url = https://github.com/conda-forge/jupyter_ascending-feedstock.git
 	path = feedstocks/jupyter_ascending
 	branch = refs/heads/master
+[submodule "tplot"]
+	url = https://github.com/conda-forge/tplot-feedstock.git
+	path = feedstocks/tplot
+	branch = refs/heads/master
