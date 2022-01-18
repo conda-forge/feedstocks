@@ -60082,3 +60082,7 @@
 	url = https://github.com/conda-forge/django-simple-deploy-feedstock.git
 	path = feedstocks/django-simple-deploy
 	branch = refs/heads/master
+[submodule "ipumspy"]
+	url = https://github.com/conda-forge/ipumspy-feedstock.git
+	path = feedstocks/ipumspy
+	branch = refs/heads/master
