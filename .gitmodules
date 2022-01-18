@@ -59986,3 +59986,7 @@
 	url = https://github.com/conda-forge/stripnet-feedstock.git
 	path = feedstocks/stripnet
 	branch = refs/heads/master
+[submodule "pytermgui"]
+	url = https://github.com/conda-forge/pytermgui-feedstock.git
+	path = feedstocks/pytermgui
+	branch = refs/heads/master
