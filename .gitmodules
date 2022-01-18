@@ -60010,3 +60010,7 @@
 	url = https://github.com/conda-forge/itunespy-feedstock.git
 	path = feedstocks/itunespy
 	branch = refs/heads/master
+[submodule "gnuradio-iridium"]
+	url = https://github.com/conda-forge/gnuradio-iridium-feedstock.git
+	path = feedstocks/gnuradio-iridium
+	branch = refs/heads/master
