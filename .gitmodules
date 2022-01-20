@@ -60118,3 +60118,7 @@
 	url = https://github.com/conda-forge/esi-syncopy-feedstock.git
 	path = feedstocks/esi-syncopy
 	branch = refs/heads/master
+[submodule "r-rcppde"]
+	url = https://github.com/conda-forge/r-rcppde-feedstock.git
+	path = feedstocks/r-rcppde
+	branch = refs/heads/master
