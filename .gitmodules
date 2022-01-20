@@ -60126,3 +60126,7 @@
 	url = https://github.com/conda-forge/r-normallaplace-feedstock.git
 	path = feedstocks/r-normallaplace
 	branch = refs/heads/master
+[submodule "r-skewhyperbolic"]
+	url = https://github.com/conda-forge/r-skewhyperbolic-feedstock.git
+	path = feedstocks/r-skewhyperbolic
+	branch = refs/heads/master
