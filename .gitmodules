@@ -60130,3 +60130,7 @@
 	url = https://github.com/conda-forge/r-skewhyperbolic-feedstock.git
 	path = feedstocks/r-skewhyperbolic
 	branch = refs/heads/master
+[submodule "r-variancegamma"]
+	url = https://github.com/conda-forge/r-variancegamma-feedstock.git
+	path = feedstocks/r-variancegamma
+	branch = refs/heads/master
