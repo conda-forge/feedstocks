@@ -60122,3 +60122,7 @@
 	url = https://github.com/conda-forge/r-rcppde-feedstock.git
 	path = feedstocks/r-rcppde
 	branch = refs/heads/master
+[submodule "r-normallaplace"]
+	url = https://github.com/conda-forge/r-normallaplace-feedstock.git
+	path = feedstocks/r-normallaplace
+	branch = refs/heads/master
