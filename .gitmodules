@@ -60158,3 +60158,7 @@
 	url = https://github.com/conda-forge/libi2c-feedstock.git
 	path = feedstocks/libi2c
 	branch = refs/heads/master
+[submodule "upv"]
+	url = https://github.com/conda-forge/upv-feedstock.git
+	path = feedstocks/upv
+	branch = refs/heads/master
