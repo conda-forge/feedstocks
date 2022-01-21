@@ -60134,3 +60134,7 @@
 	url = https://github.com/conda-forge/r-variancegamma-feedstock.git
 	path = feedstocks/r-variancegamma
 	branch = refs/heads/master
+[submodule "xai"]
+	url = https://github.com/conda-forge/xai-feedstock.git
+	path = feedstocks/xai
+	branch = refs/heads/master
