@@ -60166,3 +60166,7 @@
 	url = https://github.com/conda-forge/vetoperf-feedstock.git
 	path = feedstocks/vetoperf
 	branch = refs/heads/master
+[submodule "dcc"]
+	url = https://github.com/conda-forge/dcc-feedstock.git
+	path = feedstocks/dcc
+	branch = refs/heads/master
