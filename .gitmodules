@@ -60146,3 +60146,7 @@
 	url = https://github.com/conda-forge/seqlog-feedstock.git
 	path = feedstocks/seqlog
 	branch = refs/heads/master
+[submodule "pyqtconsole"]
+	url = https://github.com/conda-forge/pyqtconsole-feedstock.git
+	path = feedstocks/pyqtconsole
+	branch = refs/heads/master
