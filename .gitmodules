@@ -60138,3 +60138,7 @@
 	url = https://github.com/conda-forge/xai-feedstock.git
 	path = feedstocks/xai
 	branch = refs/heads/master
+[submodule "geotorch"]
+	url = https://github.com/conda-forge/geotorch-feedstock.git
+	path = feedstocks/geotorch
+	branch = refs/heads/master
