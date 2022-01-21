@@ -60162,3 +60162,7 @@
 	url = https://github.com/conda-forge/upv-feedstock.git
 	path = feedstocks/upv
 	branch = refs/heads/master
+[submodule "vetoperf"]
+	url = https://github.com/conda-forge/vetoperf-feedstock.git
+	path = feedstocks/vetoperf
+	branch = refs/heads/master
