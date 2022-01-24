@@ -60174,3 +60174,7 @@
 	url = https://github.com/conda-forge/pandas-dev-flaker-feedstock.git
 	path = feedstocks/pandas-dev-flaker
 	branch = refs/heads/master
+[submodule "pytest-cython"]
+	url = https://github.com/conda-forge/pytest-cython-feedstock.git
+	path = feedstocks/pytest-cython
+	branch = refs/heads/master
