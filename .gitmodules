@@ -60186,3 +60186,7 @@
 	url = https://github.com/conda-forge/ukkonen-feedstock.git
 	path = feedstocks/ukkonen
 	branch = refs/heads/master
+[submodule "ytmdl"]
+	url = https://github.com/conda-forge/ytmdl-feedstock.git
+	path = feedstocks/ytmdl
+	branch = refs/heads/master
