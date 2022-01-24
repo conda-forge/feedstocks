@@ -60170,3 +60170,7 @@
 	url = https://github.com/conda-forge/dcc-feedstock.git
 	path = feedstocks/dcc
 	branch = refs/heads/master
+[submodule "pandas-dev-flaker"]
+	url = https://github.com/conda-forge/pandas-dev-flaker-feedstock.git
+	path = feedstocks/pandas-dev-flaker
+	branch = refs/heads/master
