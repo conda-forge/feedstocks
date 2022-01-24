@@ -60182,3 +60182,7 @@
 	url = https://github.com/conda-forge/font-ttf-dejavu-feedstock.git
 	path = feedstocks/font-ttf-dejavu
 	branch = refs/heads/master
+[submodule "ukkonen"]
+	url = https://github.com/conda-forge/ukkonen-feedstock.git
+	path = feedstocks/ukkonen
+	branch = refs/heads/master
