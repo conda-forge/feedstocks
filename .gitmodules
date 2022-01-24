@@ -60190,3 +60190,7 @@
 	url = https://github.com/conda-forge/ytmdl-feedstock.git
 	path = feedstocks/ytmdl
 	branch = refs/heads/master
+[submodule "libdiscid"]
+	url = https://github.com/conda-forge/libdiscid-feedstock.git
+	path = feedstocks/libdiscid
+	branch = refs/heads/master
