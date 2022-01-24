@@ -60194,3 +60194,7 @@
 	url = https://github.com/conda-forge/libdiscid-feedstock.git
 	path = feedstocks/libdiscid
 	branch = refs/heads/master
+[submodule "qetpy"]
+	url = https://github.com/conda-forge/qetpy-feedstock.git
+	path = feedstocks/qetpy
+	branch = refs/heads/master
