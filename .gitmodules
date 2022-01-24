@@ -60198,3 +60198,7 @@
 	url = https://github.com/conda-forge/qetpy-feedstock.git
 	path = feedstocks/qetpy
 	branch = refs/heads/master
+[submodule "fastapi_utils"]
+	url = https://github.com/conda-forge/fastapi_utils-feedstock.git
+	path = feedstocks/fastapi_utils
+	branch = refs/heads/master
