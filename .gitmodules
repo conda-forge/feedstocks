@@ -60222,3 +60222,7 @@
 	url = https://github.com/conda-forge/pysr-feedstock.git
 	path = feedstocks/pysr
 	branch = refs/heads/master
+[submodule "jupyterlab-myst"]
+	url = https://github.com/conda-forge/jupyterlab-myst-feedstock.git
+	path = feedstocks/jupyterlab-myst
+	branch = refs/heads/master
