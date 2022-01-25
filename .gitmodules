@@ -60226,3 +60226,7 @@
 	url = https://github.com/conda-forge/jupyterlab-myst-feedstock.git
 	path = feedstocks/jupyterlab-myst
 	branch = refs/heads/master
+[submodule "vmtk"]
+	url = https://github.com/conda-forge/vmtk-feedstock.git
+	path = feedstocks/vmtk
+	branch = refs/heads/master
