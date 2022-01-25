@@ -60214,3 +60214,7 @@
 	url = https://github.com/conda-forge/lttl-feedstock.git
 	path = feedstocks/lttl
 	branch = refs/heads/master
+[submodule "psiresp-split"]
+	url = https://github.com/conda-forge/psiresp-split-feedstock.git
+	path = feedstocks/psiresp-split
+	branch = refs/heads/master
