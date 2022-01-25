@@ -60202,3 +60202,7 @@
 	url = https://github.com/conda-forge/fastapi_utils-feedstock.git
 	path = feedstocks/fastapi_utils
 	branch = refs/heads/master
+[submodule "copc-lib"]
+	url = https://github.com/conda-forge/copc-lib-feedstock.git
+	path = feedstocks/copc-lib
+	branch = refs/heads/master
