@@ -60286,3 +60286,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-autoyaml-feedstock.git
 	path = feedstocks/sphinxcontrib-autoyaml
 	branch = refs/heads/master
+[submodule "python-cas"]
+	url = https://github.com/conda-forge/python-cas-feedstock.git
+	path = feedstocks/python-cas
+	branch = refs/heads/master
