@@ -60230,3 +60230,7 @@
 	url = https://github.com/conda-forge/vmtk-feedstock.git
 	path = feedstocks/vmtk
 	branch = refs/heads/master
+[submodule "blitz-bayesian-pytorch"]
+	url = https://github.com/conda-forge/blitz-bayesian-pytorch-feedstock.git
+	path = feedstocks/blitz-bayesian-pytorch
+	branch = refs/heads/master
