@@ -60274,3 +60274,7 @@
 	url = https://github.com/conda-forge/django-countries-feedstock.git
 	path = feedstocks/django-countries
 	branch = refs/heads/master
+[submodule "akismet"]
+	url = https://github.com/conda-forge/akismet-feedstock.git
+	path = feedstocks/akismet
+	branch = refs/heads/master
