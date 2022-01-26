@@ -60262,3 +60262,7 @@
 	url = https://github.com/conda-forge/ngspicesimserver-feedstock.git
 	path = feedstocks/ngspicesimserver
 	branch = refs/heads/master
+[submodule "python-embree"]
+	url = https://github.com/conda-forge/python-embree-feedstock.git
+	path = feedstocks/python-embree
+	branch = refs/heads/master
