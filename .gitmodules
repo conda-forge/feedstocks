@@ -60282,3 +60282,7 @@
 	url = https://github.com/conda-forge/python-openid2-feedstock.git
 	path = feedstocks/python-openid2
 	branch = refs/heads/master
+[submodule "sphinxcontrib-autoyaml"]
+	url = https://github.com/conda-forge/sphinxcontrib-autoyaml-feedstock.git
+	path = feedstocks/sphinxcontrib-autoyaml
+	branch = refs/heads/master
