@@ -60330,3 +60330,7 @@
 	url = https://github.com/conda-forge/django-picklefield-feedstock.git
 	path = feedstocks/django-picklefield
 	branch = refs/heads/master
+[submodule "hackrf"]
+	url = https://github.com/conda-forge/hackrf-feedstock.git
+	path = feedstocks/hackrf
+	branch = refs/heads/master
