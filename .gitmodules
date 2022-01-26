@@ -60266,3 +60266,7 @@
 	url = https://github.com/conda-forge/python-embree-feedstock.git
 	path = feedstocks/python-embree
 	branch = refs/heads/master
+[submodule "django-keyedcache3"]
+	url = https://github.com/conda-forge/django-keyedcache3-feedstock.git
+	path = feedstocks/django-keyedcache3
+	branch = refs/heads/master
