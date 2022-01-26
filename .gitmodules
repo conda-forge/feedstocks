@@ -60238,3 +60238,7 @@
 	url = https://github.com/conda-forge/waiting-feedstock.git
 	path = feedstocks/waiting
 	branch = refs/heads/master
+[submodule "ryvencore"]
+	url = https://github.com/conda-forge/ryvencore-feedstock.git
+	path = feedstocks/ryvencore
+	branch = refs/heads/master
