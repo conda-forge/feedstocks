@@ -60254,3 +60254,7 @@
 	url = https://github.com/conda-forge/waybackpy-feedstock.git
 	path = feedstocks/waybackpy
 	branch = refs/heads/master
+[submodule "openfisca-france"]
+	url = https://github.com/conda-forge/openfisca-france-feedstock.git
+	path = feedstocks/openfisca-france
+	branch = refs/heads/master
