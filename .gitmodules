@@ -60350,3 +60350,7 @@
 	url = https://github.com/conda-forge/perl-io-stringy-feedstock.git
 	path = feedstocks/perl-io-stringy
 	branch = refs/heads/master
+[submodule "perl-test-output"]
+	url = https://github.com/conda-forge/perl-test-output-feedstock.git
+	path = feedstocks/perl-test-output
+	branch = refs/heads/master
