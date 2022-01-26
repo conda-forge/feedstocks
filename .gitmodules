@@ -60258,3 +60258,7 @@
 	url = https://github.com/conda-forge/openfisca-france-feedstock.git
 	path = feedstocks/openfisca-france
 	branch = refs/heads/master
+[submodule "ngspicesimserver"]
+	url = https://github.com/conda-forge/ngspicesimserver-feedstock.git
+	path = feedstocks/ngspicesimserver
+	branch = refs/heads/master
