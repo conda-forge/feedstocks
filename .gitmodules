@@ -60326,3 +60326,7 @@
 	url = https://github.com/conda-forge/django-followit-feedstock.git
 	path = feedstocks/django-followit
 	branch = refs/heads/master
+[submodule "django-picklefield"]
+	url = https://github.com/conda-forge/django-picklefield-feedstock.git
+	path = feedstocks/django-picklefield
+	branch = refs/heads/master
