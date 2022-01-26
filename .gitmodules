@@ -60242,3 +60242,7 @@
 	url = https://github.com/conda-forge/ryvencore-feedstock.git
 	path = feedstocks/ryvencore
 	branch = refs/heads/master
+[submodule "ryvencore-qt"]
+	url = https://github.com/conda-forge/ryvencore-qt-feedstock.git
+	path = feedstocks/ryvencore-qt
+	branch = refs/heads/master
