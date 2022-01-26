@@ -60278,3 +60278,7 @@
 	url = https://github.com/conda-forge/akismet-feedstock.git
 	path = feedstocks/akismet
 	branch = refs/heads/master
+[submodule "python-openid2"]
+	url = https://github.com/conda-forge/python-openid2-feedstock.git
+	path = feedstocks/python-openid2
+	branch = refs/heads/master
