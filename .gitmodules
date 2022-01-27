@@ -60398,3 +60398,7 @@
 	url = https://github.com/conda-forge/mrc-feedstock.git
 	path = feedstocks/mrc
 	branch = refs/heads/master
+[submodule "readimc"]
+	url = https://github.com/conda-forge/readimc-feedstock.git
+	path = feedstocks/readimc
+	branch = refs/heads/master
