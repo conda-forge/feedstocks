@@ -60390,3 +60390,7 @@
 	url = https://github.com/conda-forge/useq-schema-feedstock.git
 	path = feedstocks/useq-schema
 	branch = refs/heads/master
+[submodule "napari-ndtiffs"]
+	url = https://github.com/conda-forge/napari-ndtiffs-feedstock.git
+	path = feedstocks/napari-ndtiffs
+	branch = refs/heads/master
