@@ -60370,3 +60370,7 @@
 	url = https://github.com/conda-forge/tracktable-data-feedstock.git
 	path = feedstocks/tracktable-data
 	branch = refs/heads/master
+[submodule "pick"]
+	url = https://github.com/conda-forge/pick-feedstock.git
+	path = feedstocks/pick
+	branch = refs/heads/master
