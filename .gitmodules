@@ -60382,3 +60382,7 @@
 	url = https://github.com/conda-forge/emfile-feedstock.git
 	path = feedstocks/emfile
 	branch = refs/heads/master
+[submodule "partsegdata"]
+	url = https://github.com/conda-forge/partsegdata-feedstock.git
+	path = feedstocks/partsegdata
+	branch = refs/heads/master
