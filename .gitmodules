@@ -60386,3 +60386,7 @@
 	url = https://github.com/conda-forge/partsegdata-feedstock.git
 	path = feedstocks/partsegdata
 	branch = refs/heads/master
+[submodule "useq-schema"]
+	url = https://github.com/conda-forge/useq-schema-feedstock.git
+	path = feedstocks/useq-schema
+	branch = refs/heads/master
