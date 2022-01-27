@@ -60366,3 +60366,7 @@
 	url = https://github.com/conda-forge/tweetynet-feedstock.git
 	path = feedstocks/tweetynet
 	branch = refs/heads/master
+[submodule "tracktable-data"]
+	url = https://github.com/conda-forge/tracktable-data-feedstock.git
+	path = feedstocks/tracktable-data
+	branch = refs/heads/master
