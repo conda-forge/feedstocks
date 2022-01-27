@@ -60378,3 +60378,7 @@
 	url = https://github.com/conda-forge/mattspy-feedstock.git
 	path = feedstocks/mattspy
 	branch = refs/heads/master
+[submodule "emfile"]
+	url = https://github.com/conda-forge/emfile-feedstock.git
+	path = feedstocks/emfile
+	branch = refs/heads/master
