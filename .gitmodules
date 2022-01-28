@@ -60434,3 +60434,7 @@
 	url = https://github.com/conda-forge/r-netmeta-feedstock.git
 	path = feedstocks/r-netmeta
 	branch = refs/heads/master
+[submodule "r-pins"]
+	url = https://github.com/conda-forge/r-pins-feedstock.git
+	path = feedstocks/r-pins
+	branch = refs/heads/master
