@@ -60442,3 +60442,7 @@
 	url = https://github.com/conda-forge/napari-tools-menu-feedstock.git
 	path = feedstocks/napari-tools-menu
 	branch = refs/heads/master
+[submodule "smo"]
+	url = https://github.com/conda-forge/smo-feedstock.git
+	path = feedstocks/smo
+	branch = refs/heads/master
