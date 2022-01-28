@@ -60466,3 +60466,7 @@
 	url = https://github.com/conda-forge/napari-labelling-assistant-feedstock.git
 	path = feedstocks/napari-labelling-assistant
 	branch = refs/heads/master
+[submodule "napari-workflows"]
+	url = https://github.com/conda-forge/napari-workflows-feedstock.git
+	path = feedstocks/napari-workflows
+	branch = refs/heads/master
