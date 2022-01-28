@@ -60462,3 +60462,7 @@
 	url = https://github.com/conda-forge/partial-aligner-feedstock.git
 	path = feedstocks/partial-aligner
 	branch = refs/heads/master
+[submodule "napari-labelling-assistant"]
+	url = https://github.com/conda-forge/napari-labelling-assistant-feedstock.git
+	path = feedstocks/napari-labelling-assistant
+	branch = refs/heads/master
