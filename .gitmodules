@@ -60490,3 +60490,7 @@
 	url = https://github.com/conda-forge/pyctcdecode-feedstock.git
 	path = feedstocks/pyctcdecode
 	branch = refs/heads/master
+[submodule "alibi"]
+	url = https://github.com/conda-forge/alibi-feedstock.git
+	path = feedstocks/alibi
+	branch = refs/heads/master
