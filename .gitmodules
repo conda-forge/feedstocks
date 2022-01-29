@@ -60494,3 +60494,7 @@
 	url = https://github.com/conda-forge/alibi-feedstock.git
 	path = feedstocks/alibi
 	branch = refs/heads/master
+[submodule "alibi-detect"]
+	url = https://github.com/conda-forge/alibi-detect-feedstock.git
+	path = feedstocks/alibi-detect
+	branch = refs/heads/master
