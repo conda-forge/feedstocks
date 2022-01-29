@@ -60474,3 +60474,7 @@
 	url = https://github.com/conda-forge/nd2-dask-feedstock.git
 	path = feedstocks/nd2-dask
 	branch = refs/heads/master
+[submodule "pyvideoreader"]
+	url = https://github.com/conda-forge/pyvideoreader-feedstock.git
+	path = feedstocks/pyvideoreader
+	branch = refs/heads/master
