@@ -60502,3 +60502,7 @@
 	url = https://github.com/conda-forge/pysaml2-feedstock.git
 	path = feedstocks/pysaml2
 	branch = refs/heads/master
+[submodule "napari-dzi-zarr"]
+	url = https://github.com/conda-forge/napari-dzi-zarr-feedstock.git
+	path = feedstocks/napari-dzi-zarr
+	branch = refs/heads/master
