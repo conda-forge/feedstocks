@@ -60642,3 +60642,7 @@
 	url = https://github.com/conda-forge/msoffcrypto-tool-feedstock.git
 	path = feedstocks/msoffcrypto-tool
 	branch = refs/heads/master
+[submodule "pcodedmp"]
+	url = https://github.com/conda-forge/pcodedmp-feedstock.git
+	path = feedstocks/pcodedmp
+	branch = refs/heads/master
