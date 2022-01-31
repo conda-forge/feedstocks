@@ -60550,3 +60550,7 @@
 	url = https://github.com/conda-forge/typed-settings-feedstock.git
 	path = feedstocks/typed-settings
 	branch = refs/heads/master
+[submodule "modelx"]
+	url = https://github.com/conda-forge/modelx-feedstock.git
+	path = feedstocks/modelx
+	branch = refs/heads/master
