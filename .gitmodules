@@ -60666,3 +60666,7 @@
 	url = https://github.com/conda-forge/stepfunctions-feedstock.git
 	path = feedstocks/stepfunctions
 	branch = refs/heads/master
+[submodule "jupyter-releaser"]
+	url = https://github.com/conda-forge/jupyter-releaser-feedstock.git
+	path = feedstocks/jupyter-releaser
+	branch = refs/heads/master
