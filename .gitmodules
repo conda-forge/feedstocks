@@ -60566,3 +60566,7 @@
 	url = https://github.com/conda-forge/elementable-feedstock.git
 	path = feedstocks/elementable
 	branch = refs/heads/master
+[submodule "yamldoc"]
+	url = https://github.com/conda-forge/yamldoc-feedstock.git
+	path = feedstocks/yamldoc
+	branch = refs/heads/master
