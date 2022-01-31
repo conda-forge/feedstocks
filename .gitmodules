@@ -60586,3 +60586,7 @@
 	url = https://github.com/conda-forge/ghapi-feedstock.git
 	path = feedstocks/ghapi
 	branch = refs/heads/master
+[submodule "flask-jwt-simple"]
+	url = https://github.com/conda-forge/flask-jwt-simple-feedstock.git
+	path = feedstocks/flask-jwt-simple
+	branch = refs/heads/master
