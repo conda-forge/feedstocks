@@ -60554,3 +60554,7 @@
 	url = https://github.com/conda-forge/modelx-feedstock.git
 	path = feedstocks/modelx
 	branch = refs/heads/master
+[submodule "soapysdr-module-hackrf"]
+	url = https://github.com/conda-forge/soapysdr-module-hackrf-feedstock.git
+	path = feedstocks/soapysdr-module-hackrf
+	branch = refs/heads/master
