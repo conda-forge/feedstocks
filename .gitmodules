@@ -60590,3 +60590,7 @@
 	url = https://github.com/conda-forge/flask-jwt-simple-feedstock.git
 	path = feedstocks/flask-jwt-simple
 	branch = refs/heads/master
+[submodule "pypiserver"]
+	url = https://github.com/conda-forge/pypiserver-feedstock.git
+	path = feedstocks/pypiserver
+	branch = refs/heads/master
