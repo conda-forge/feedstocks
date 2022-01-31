@@ -60670,3 +60670,7 @@
 	url = https://github.com/conda-forge/jupyter-releaser-feedstock.git
 	path = feedstocks/jupyter-releaser
 	branch = refs/heads/master
+[submodule "napari-czifile2"]
+	url = https://github.com/conda-forge/napari-czifile2-feedstock.git
+	path = feedstocks/napari-czifile2
+	branch = refs/heads/master
