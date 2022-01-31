@@ -60630,3 +60630,7 @@
 	url = https://github.com/conda-forge/napari-geojson-feedstock.git
 	path = feedstocks/napari-geojson
 	branch = refs/heads/master
+[submodule "r-vetiver"]
+	url = https://github.com/conda-forge/r-vetiver-feedstock.git
+	path = feedstocks/r-vetiver
+	branch = refs/heads/master
