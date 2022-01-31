@@ -60510,3 +60510,7 @@
 	url = https://github.com/conda-forge/r-rapidoc-feedstock.git
 	path = feedstocks/r-rapidoc
 	branch = refs/heads/master
+[submodule "fancylog"]
+	url = https://github.com/conda-forge/fancylog-feedstock.git
+	path = feedstocks/fancylog
+	branch = refs/heads/master
