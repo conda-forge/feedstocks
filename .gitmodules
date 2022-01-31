@@ -60598,3 +60598,7 @@
 	url = https://github.com/conda-forge/sentinel-feedstock.git
 	path = feedstocks/sentinel
 	branch = refs/heads/master
+[submodule "github-activity"]
+	url = https://github.com/conda-forge/github-activity-feedstock.git
+	path = feedstocks/github-activity
+	branch = refs/heads/master
