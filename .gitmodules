@@ -60682,3 +60682,7 @@
 	url = https://github.com/conda-forge/napari-molecule-reader-feedstock.git
 	path = feedstocks/napari-molecule-reader
 	branch = refs/heads/master
+[submodule "condorpy"]
+	url = https://github.com/conda-forge/condorpy-feedstock.git
+	path = feedstocks/condorpy
+	branch = refs/heads/master
