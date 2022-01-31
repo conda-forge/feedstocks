@@ -60654,3 +60654,7 @@
 	url = https://github.com/conda-forge/aws-session-manager-plugin-feedstock.git
 	path = feedstocks/aws-session-manager-plugin
 	branch = refs/heads/master
+[submodule "opensarlab-profile-label"]
+	url = https://github.com/conda-forge/opensarlab-profile-label-feedstock.git
+	path = feedstocks/opensarlab-profile-label
+	branch = refs/heads/master
