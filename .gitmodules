@@ -60638,3 +60638,7 @@
 	url = https://github.com/conda-forge/rtfde-feedstock.git
 	path = feedstocks/rtfde
 	branch = refs/heads/master
+[submodule "msoffcrypto-tool"]
+	url = https://github.com/conda-forge/msoffcrypto-tool-feedstock.git
+	path = feedstocks/msoffcrypto-tool
+	branch = refs/heads/master
