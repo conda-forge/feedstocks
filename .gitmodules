@@ -60618,3 +60618,7 @@
 	url = https://github.com/conda-forge/nep29-feedstock.git
 	path = feedstocks/nep29
 	branch = refs/heads/master
+[submodule "mbdata"]
+	url = https://github.com/conda-forge/mbdata-feedstock.git
+	path = feedstocks/mbdata
+	branch = refs/heads/master
