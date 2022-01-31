@@ -60678,3 +60678,7 @@
 	url = https://github.com/conda-forge/napari-compressed-labels-io-feedstock.git
 	path = feedstocks/napari-compressed-labels-io
 	branch = refs/heads/master
+[submodule "napari-molecule-reader"]
+	url = https://github.com/conda-forge/napari-molecule-reader-feedstock.git
+	path = feedstocks/napari-molecule-reader
+	branch = refs/heads/master
