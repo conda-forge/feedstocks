@@ -60634,3 +60634,7 @@
 	url = https://github.com/conda-forge/r-vetiver-feedstock.git
 	path = feedstocks/r-vetiver
 	branch = refs/heads/master
+[submodule "rtfde"]
+	url = https://github.com/conda-forge/rtfde-feedstock.git
+	path = feedstocks/rtfde
+	branch = refs/heads/master
