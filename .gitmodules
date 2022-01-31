@@ -60690,3 +60690,7 @@
 	url = https://github.com/conda-forge/napari-ccp4map-feedstock.git
 	path = feedstocks/napari-ccp4map
 	branch = refs/heads/master
+[submodule "coordinatesconverter"]
+	url = https://github.com/conda-forge/coordinatesconverter-feedstock.git
+	path = feedstocks/coordinatesconverter
+	branch = refs/heads/master
