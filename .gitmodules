@@ -60662,3 +60662,7 @@
 	url = https://github.com/conda-forge/napari-roi-feedstock.git
 	path = feedstocks/napari-roi
 	branch = refs/heads/master
+[submodule "stepfunctions"]
+	url = https://github.com/conda-forge/stepfunctions-feedstock.git
+	path = feedstocks/stepfunctions
+	branch = refs/heads/master
