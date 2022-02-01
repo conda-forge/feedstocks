@@ -60706,3 +60706,7 @@
 	url = https://github.com/conda-forge/hcloud-feedstock.git
 	path = feedstocks/hcloud
 	branch = refs/heads/master
+[submodule "eulerangles"]
+	url = https://github.com/conda-forge/eulerangles-feedstock.git
+	path = feedstocks/eulerangles
+	branch = refs/heads/master
