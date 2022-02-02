@@ -60778,3 +60778,7 @@
 	url = https://github.com/conda-forge/napari-tomoslice-feedstock.git
 	path = feedstocks/napari-tomoslice
 	branch = refs/heads/master
+[submodule "napari-live-recording"]
+	url = https://github.com/conda-forge/napari-live-recording-feedstock.git
+	path = feedstocks/napari-live-recording
+	branch = refs/heads/master
