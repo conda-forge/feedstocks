@@ -60738,3 +60738,7 @@
 	url = https://github.com/conda-forge/napari-time-slicer-feedstock.git
 	path = feedstocks/napari-time-slicer
 	branch = refs/heads/master
+[submodule "slurmio"]
+	url = https://github.com/conda-forge/slurmio-feedstock.git
+	path = feedstocks/slurmio
+	branch = refs/heads/master
