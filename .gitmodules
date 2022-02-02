@@ -60762,3 +60762,7 @@
 	url = https://github.com/conda-forge/napari-skimage-regionprops-feedstock.git
 	path = feedstocks/napari-skimage-regionprops
 	branch = refs/heads/master
+[submodule "natari"]
+	url = https://github.com/conda-forge/natari-feedstock.git
+	path = feedstocks/natari
+	branch = refs/heads/master
