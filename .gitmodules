@@ -60722,3 +60722,7 @@
 	url = https://github.com/conda-forge/pip2conda-feedstock.git
 	path = feedstocks/pip2conda
 	branch = refs/heads/master
+[submodule "tiatoolbox"]
+	url = https://github.com/conda-forge/tiatoolbox-feedstock.git
+	path = feedstocks/tiatoolbox
+	branch = refs/heads/master
