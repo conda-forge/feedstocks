@@ -60750,3 +60750,7 @@
 	url = https://github.com/conda-forge/napari-labelimg4classification-feedstock.git
 	path = feedstocks/napari-labelimg4classification
 	branch = refs/heads/master
+[submodule "napari-dv"]
+	url = https://github.com/conda-forge/napari-dv-feedstock.git
+	path = feedstocks/napari-dv
+	branch = refs/heads/master
