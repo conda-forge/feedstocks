@@ -60758,3 +60758,7 @@
 	url = https://github.com/conda-forge/napari-imc-feedstock.git
 	path = feedstocks/napari-imc
 	branch = refs/heads/master
+[submodule "napari-skimage-regionprops"]
+	url = https://github.com/conda-forge/napari-skimage-regionprops-feedstock.git
+	path = feedstocks/napari-skimage-regionprops
+	branch = refs/heads/master
