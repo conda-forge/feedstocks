@@ -60774,3 +60774,7 @@
 	url = https://github.com/conda-forge/bg-space-feedstock.git
 	path = feedstocks/bg-space
 	branch = refs/heads/master
+[submodule "napari-tomoslice"]
+	url = https://github.com/conda-forge/napari-tomoslice-feedstock.git
+	path = feedstocks/napari-tomoslice
+	branch = refs/heads/master
