@@ -60786,3 +60786,7 @@
 	url = https://github.com/conda-forge/napari-subboxer-feedstock.git
 	path = feedstocks/napari-subboxer
 	branch = refs/heads/master
+[submodule "imlib"]
+	url = https://github.com/conda-forge/imlib-feedstock.git
+	path = feedstocks/imlib
+	branch = refs/heads/master
