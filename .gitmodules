@@ -60802,3 +60802,7 @@
 	url = https://github.com/conda-forge/spyder-modelx-feedstock.git
 	path = feedstocks/spyder-modelx
 	branch = refs/heads/master
+[submodule "lifelib"]
+	url = https://github.com/conda-forge/lifelib-feedstock.git
+	path = feedstocks/lifelib
+	branch = refs/heads/master
