@@ -60726,3 +60726,7 @@
 	url = https://github.com/conda-forge/tiatoolbox-feedstock.git
 	path = feedstocks/tiatoolbox
 	branch = refs/heads/master
+[submodule "napari-ome-zarr"]
+	url = https://github.com/conda-forge/napari-ome-zarr-feedstock.git
+	path = feedstocks/napari-ome-zarr
+	branch = refs/heads/master
