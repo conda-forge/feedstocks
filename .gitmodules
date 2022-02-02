@@ -60766,3 +60766,7 @@
 	url = https://github.com/conda-forge/natari-feedstock.git
 	path = feedstocks/natari
 	branch = refs/heads/master
+[submodule "grabber-ift"]
+	url = https://github.com/conda-forge/grabber-ift-feedstock.git
+	path = feedstocks/grabber-ift
+	branch = refs/heads/master
