@@ -60810,3 +60810,7 @@
 	url = https://github.com/conda-forge/scvi-tools-feedstock.git
 	path = feedstocks/scvi-tools
 	branch = refs/heads/master
+[submodule "pytest_check"]
+	url = https://github.com/conda-forge/pytest_check-feedstock.git
+	path = feedstocks/pytest_check
+	branch = refs/heads/master
