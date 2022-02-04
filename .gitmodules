@@ -60906,3 +60906,7 @@
 	url = https://github.com/conda-forge/pyenchant-feedstock.git
 	path = feedstocks/pyenchant
 	branch = refs/heads/master
+[submodule "sphinxcontrib-shellcheck"]
+	url = https://github.com/conda-forge/sphinxcontrib-shellcheck-feedstock.git
+	path = feedstocks/sphinxcontrib-shellcheck
+	branch = refs/heads/master
