@@ -60834,3 +60834,7 @@
 	url = https://github.com/conda-forge/pyqt_distutils-feedstock.git
 	path = feedstocks/pyqt_distutils
 	branch = refs/heads/master
+[submodule "napari-crop"]
+	url = https://github.com/conda-forge/napari-crop-feedstock.git
+	path = feedstocks/napari-crop
+	branch = refs/heads/master
