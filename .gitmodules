@@ -60830,3 +60830,7 @@
 	url = https://github.com/conda-forge/scherbelberg-feedstock.git
 	path = feedstocks/scherbelberg
 	branch = refs/heads/master
+[submodule "pyqt_distutils"]
+	url = https://github.com/conda-forge/pyqt_distutils-feedstock.git
+	path = feedstocks/pyqt_distutils
+	branch = refs/heads/master
