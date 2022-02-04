@@ -60926,3 +60926,7 @@
 	url = https://github.com/conda-forge/py-random-password-feedstock.git
 	path = feedstocks/py-random-password
 	branch = refs/heads/master
+[submodule "mudata"]
+	url = https://github.com/conda-forge/mudata-feedstock.git
+	path = feedstocks/mudata
+	branch = refs/heads/master
