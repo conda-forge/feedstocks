@@ -60910,3 +60910,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-shellcheck-feedstock.git
 	path = feedstocks/sphinxcontrib-shellcheck
 	branch = refs/heads/master
+[submodule "checksumdir"]
+	url = https://github.com/conda-forge/checksumdir-feedstock.git
+	path = feedstocks/checksumdir
+	branch = refs/heads/master
