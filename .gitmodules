@@ -60902,3 +60902,7 @@
 	url = https://github.com/conda-forge/flyteidl-feedstock.git
 	path = feedstocks/flyteidl
 	branch = refs/heads/master
+[submodule "pyenchant"]
+	url = https://github.com/conda-forge/pyenchant-feedstock.git
+	path = feedstocks/pyenchant
+	branch = refs/heads/master
