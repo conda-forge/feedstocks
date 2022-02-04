@@ -60862,3 +60862,7 @@
 	url = https://github.com/conda-forge/napari-plugin-search-feedstock.git
 	path = feedstocks/napari-plugin-search
 	branch = refs/heads/master
+[submodule "napari-folder-browser"]
+	url = https://github.com/conda-forge/napari-folder-browser-feedstock.git
+	path = feedstocks/napari-folder-browser
+	branch = refs/heads/master
