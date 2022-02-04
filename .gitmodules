@@ -60914,3 +60914,7 @@
 	url = https://github.com/conda-forge/checksumdir-feedstock.git
 	path = feedstocks/checksumdir
 	branch = refs/heads/master
+[submodule "cffconvert"]
+	url = https://github.com/conda-forge/cffconvert-feedstock.git
+	path = feedstocks/cffconvert
+	branch = refs/heads/master
