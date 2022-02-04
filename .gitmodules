@@ -60870,3 +60870,7 @@
 	url = https://github.com/conda-forge/napari-3d-ortho-viewer-feedstock.git
 	path = feedstocks/napari-3d-ortho-viewer
 	branch = refs/heads/master
+[submodule "napari-image-stacker"]
+	url = https://github.com/conda-forge/napari-image-stacker-feedstock.git
+	path = feedstocks/napari-image-stacker
+	branch = refs/heads/master
