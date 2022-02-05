@@ -60978,3 +60978,7 @@
 	url = https://github.com/conda-forge/platelet-unet-watershed-feedstock.git
 	path = feedstocks/platelet-unet-watershed
 	branch = refs/heads/master
+[submodule "napari-workflow-inspector"]
+	url = https://github.com/conda-forge/napari-workflow-inspector-feedstock.git
+	path = feedstocks/napari-workflow-inspector
+	branch = refs/heads/master
