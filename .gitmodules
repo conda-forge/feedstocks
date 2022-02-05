@@ -60938,3 +60938,7 @@
 	url = https://github.com/conda-forge/system-slash-feedstock.git
 	path = feedstocks/system-slash
 	branch = refs/heads/master
+[submodule "spdx-license-matcher"]
+	url = https://github.com/conda-forge/spdx-license-matcher-feedstock.git
+	path = feedstocks/spdx-license-matcher
+	branch = refs/heads/master
