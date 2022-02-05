@@ -60986,3 +60986,7 @@
 	url = https://github.com/conda-forge/itk-napari-conversion-feedstock.git
 	path = feedstocks/itk-napari-conversion
 	branch = refs/heads/master
+[submodule "napari-simpleitk-image-processing"]
+	url = https://github.com/conda-forge/napari-simpleitk-image-processing-feedstock.git
+	path = feedstocks/napari-simpleitk-image-processing
+	branch = refs/heads/master
