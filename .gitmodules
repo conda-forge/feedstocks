@@ -61014,3 +61014,7 @@
 	url = https://github.com/conda-forge/iso_varying_string-feedstock.git
 	path = feedstocks/iso_varying_string
 	branch = refs/heads/master
+[submodule "bubblewrap"]
+	url = https://github.com/conda-forge/bubblewrap-feedstock.git
+	path = feedstocks/bubblewrap
+	branch = refs/heads/master
