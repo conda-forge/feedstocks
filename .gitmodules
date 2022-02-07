@@ -61022,3 +61022,7 @@
 	url = https://github.com/conda-forge/napari-nikon-nd2-feedstock.git
 	path = feedstocks/napari-nikon-nd2
 	branch = refs/heads/master
+[submodule "csbdeep"]
+	url = https://github.com/conda-forge/csbdeep-feedstock.git
+	path = feedstocks/csbdeep
+	branch = refs/heads/master
