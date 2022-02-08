@@ -61062,3 +61062,7 @@
 	url = https://github.com/conda-forge/svgdigitizer-feedstock.git
 	path = feedstocks/svgdigitizer
 	branch = refs/heads/master
+[submodule "sphinx-github-changelog"]
+	url = https://github.com/conda-forge/sphinx-github-changelog-feedstock.git
+	path = feedstocks/sphinx-github-changelog
+	branch = refs/heads/master
