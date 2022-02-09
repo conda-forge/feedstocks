@@ -61066,3 +61066,7 @@
 	url = https://github.com/conda-forge/sphinx-github-changelog-feedstock.git
 	path = feedstocks/sphinx-github-changelog
 	branch = refs/heads/master
+[submodule "igwn-archive"]
+	url = https://github.com/conda-forge/igwn-archive-feedstock.git
+	path = feedstocks/igwn-archive
+	branch = refs/heads/master
