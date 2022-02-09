@@ -61078,3 +61078,7 @@
 	url = https://github.com/conda-forge/yt-dlp-feedstock.git
 	path = feedstocks/yt-dlp
 	branch = refs/heads/master
+[submodule "moe"]
+	url = https://github.com/conda-forge/moe-feedstock.git
+	path = feedstocks/moe
+	branch = refs/heads/master
