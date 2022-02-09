@@ -61082,3 +61082,7 @@
 	url = https://github.com/conda-forge/moe-feedstock.git
 	path = feedstocks/moe
 	branch = refs/heads/master
+[submodule "pycytominer"]
+	url = https://github.com/conda-forge/pycytominer-feedstock.git
+	path = feedstocks/pycytominer
+	branch = refs/heads/master
