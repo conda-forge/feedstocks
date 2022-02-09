@@ -61074,3 +61074,7 @@
 	url = https://github.com/conda-forge/mediafile-feedstock.git
 	path = feedstocks/mediafile
 	branch = refs/heads/master
+[submodule "yt-dlp"]
+	url = https://github.com/conda-forge/yt-dlp-feedstock.git
+	path = feedstocks/yt-dlp
+	branch = refs/heads/master
