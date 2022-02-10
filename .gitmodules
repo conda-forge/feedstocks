@@ -61106,3 +61106,7 @@
 	url = https://github.com/conda-forge/napari-arboretum-feedstock.git
 	path = feedstocks/napari-arboretum
 	branch = refs/heads/master
+[submodule "pyglotaran-extras"]
+	url = https://github.com/conda-forge/pyglotaran-extras-feedstock.git
+	path = feedstocks/pyglotaran-extras
+	branch = refs/heads/master
