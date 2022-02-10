@@ -61090,3 +61090,7 @@
 	url = https://github.com/conda-forge/plog-feedstock.git
 	path = feedstocks/plog
 	branch = refs/heads/master
+[submodule "imio"]
+	url = https://github.com/conda-forge/imio-feedstock.git
+	path = feedstocks/imio
+	branch = refs/heads/master
