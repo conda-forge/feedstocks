@@ -61154,3 +61154,7 @@
 	url = https://github.com/conda-forge/napari-zelda-feedstock.git
 	path = feedstocks/napari-zelda
 	branch = refs/heads/master
+[submodule "icclim"]
+	url = https://github.com/conda-forge/icclim-feedstock.git
+	path = feedstocks/icclim
+	branch = refs/heads/master
