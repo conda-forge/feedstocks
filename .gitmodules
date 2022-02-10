@@ -61094,3 +61094,7 @@
 	url = https://github.com/conda-forge/imio-feedstock.git
 	path = feedstocks/imio
 	branch = refs/heads/master
+[submodule "aimodelshare"]
+	url = https://github.com/conda-forge/aimodelshare-feedstock.git
+	path = feedstocks/aimodelshare
+	branch = refs/heads/master
