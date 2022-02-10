@@ -61130,3 +61130,7 @@
 	url = https://github.com/conda-forge/wheelhouse_uploader-feedstock.git
 	path = feedstocks/wheelhouse_uploader
 	branch = refs/heads/master
+[submodule "napari-brushsettings"]
+	url = https://github.com/conda-forge/napari-brushsettings-feedstock.git
+	path = feedstocks/napari-brushsettings
+	branch = refs/heads/master
