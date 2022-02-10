@@ -61102,3 +61102,7 @@
 	url = https://github.com/conda-forge/torpy-feedstock.git
 	path = feedstocks/torpy
 	branch = refs/heads/master
+[submodule "napari-arboretum"]
+	url = https://github.com/conda-forge/napari-arboretum-feedstock.git
+	path = feedstocks/napari-arboretum
+	branch = refs/heads/master
