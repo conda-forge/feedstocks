@@ -61158,3 +61158,7 @@
 	url = https://github.com/conda-forge/icclim-feedstock.git
 	path = feedstocks/icclim
 	branch = refs/heads/master
+[submodule "decasu"]
+	url = https://github.com/conda-forge/decasu-feedstock.git
+	path = feedstocks/decasu
+	branch = refs/heads/master
