@@ -61098,3 +61098,7 @@
 	url = https://github.com/conda-forge/aimodelshare-feedstock.git
 	path = feedstocks/aimodelshare
 	branch = refs/heads/master
+[submodule "torpy"]
+	url = https://github.com/conda-forge/torpy-feedstock.git
+	path = feedstocks/torpy
+	branch = refs/heads/master
