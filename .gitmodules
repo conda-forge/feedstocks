@@ -61258,3 +61258,7 @@
 	url = https://github.com/conda-forge/oiffile-feedstock.git
 	path = feedstocks/oiffile
 	branch = refs/heads/master
+[submodule "adcc"]
+	url = https://github.com/conda-forge/adcc-feedstock.git
+	path = feedstocks/adcc
+	branch = refs/heads/master
