@@ -61278,3 +61278,7 @@
 	url = https://github.com/conda-forge/mne-faster-feedstock.git
 	path = feedstocks/mne-faster
 	branch = refs/heads/master
+[submodule "napari-j"]
+	url = https://github.com/conda-forge/napari-j-feedstock.git
+	path = feedstocks/napari-j
+	branch = refs/heads/master
