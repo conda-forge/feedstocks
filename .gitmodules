@@ -61194,3 +61194,7 @@
 	url = https://github.com/conda-forge/layer-data-replace-feedstock.git
 	path = feedstocks/layer-data-replace
 	branch = refs/heads/master
+[submodule "label-creator"]
+	url = https://github.com/conda-forge/label-creator-feedstock.git
+	path = feedstocks/label-creator
+	branch = refs/heads/master
