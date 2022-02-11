@@ -61274,3 +61274,7 @@
 	url = https://github.com/conda-forge/pycircstat-feedstock.git
 	path = feedstocks/pycircstat
 	branch = refs/heads/master
+[submodule "mne-faster"]
+	url = https://github.com/conda-forge/mne-faster-feedstock.git
+	path = feedstocks/mne-faster
+	branch = refs/heads/master
