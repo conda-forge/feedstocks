@@ -61286,3 +61286,7 @@
 	url = https://github.com/conda-forge/pactools-feedstock.git
 	path = feedstocks/pactools
 	branch = refs/heads/master
+[submodule "tensorpac"]
+	url = https://github.com/conda-forge/tensorpac-feedstock.git
+	path = feedstocks/tensorpac
+	branch = refs/heads/master
