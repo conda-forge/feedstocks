@@ -61298,3 +61298,7 @@
 	url = https://github.com/conda-forge/misic-napari-feedstock.git
 	path = feedstocks/misic-napari
 	branch = refs/heads/master
+[submodule "pymodelchecking"]
+	url = https://github.com/conda-forge/pymodelchecking-feedstock.git
+	path = feedstocks/pymodelchecking
+	branch = refs/heads/master
