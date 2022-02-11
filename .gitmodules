@@ -61174,3 +61174,7 @@
 	url = https://github.com/conda-forge/r-powersurvepi-feedstock.git
 	path = feedstocks/r-powersurvepi
 	branch = refs/heads/master
+[submodule "r-matchit"]
+	url = https://github.com/conda-forge/r-matchit-feedstock.git
+	path = feedstocks/r-matchit
+	branch = refs/heads/master
