@@ -61254,3 +61254,7 @@
 	url = https://github.com/conda-forge/bbii-decon-feedstock.git
 	path = feedstocks/bbii-decon
 	branch = refs/heads/master
+[submodule "oiffile"]
+	url = https://github.com/conda-forge/oiffile-feedstock.git
+	path = feedstocks/oiffile
+	branch = refs/heads/master
