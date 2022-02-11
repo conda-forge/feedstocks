@@ -61306,3 +61306,7 @@
 	url = https://github.com/conda-forge/unidist-packages-feedstock.git
 	path = feedstocks/unidist-packages
 	branch = refs/heads/master
+[submodule "ttim"]
+	url = https://github.com/conda-forge/ttim-feedstock.git
+	path = feedstocks/ttim
+	branch = refs/heads/master
