@@ -61314,3 +61314,7 @@
 	url = https://github.com/conda-forge/ansi-feedstock.git
 	path = feedstocks/ansi
 	branch = refs/heads/master
+[submodule "elastic-transport"]
+	url = https://github.com/conda-forge/elastic-transport-feedstock.git
+	path = feedstocks/elastic-transport
+	branch = refs/heads/master
