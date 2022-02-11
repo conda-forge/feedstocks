@@ -61262,3 +61262,7 @@
 	url = https://github.com/conda-forge/adcc-feedstock.git
 	path = feedstocks/adcc
 	branch = refs/heads/master
+[submodule "mne-connectivity"]
+	url = https://github.com/conda-forge/mne-connectivity-feedstock.git
+	path = feedstocks/mne-connectivity
+	branch = refs/heads/master
