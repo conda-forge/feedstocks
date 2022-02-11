@@ -61318,3 +61318,7 @@
 	url = https://github.com/conda-forge/elastic-transport-feedstock.git
 	path = feedstocks/elastic-transport
 	branch = refs/heads/master
+[submodule "mpl-interactions"]
+	url = https://github.com/conda-forge/mpl-interactions-feedstock.git
+	path = feedstocks/mpl-interactions
+	branch = refs/heads/master
