@@ -61294,3 +61294,7 @@
 	url = https://github.com/conda-forge/doctools-feedstock.git
 	path = feedstocks/doctools
 	branch = refs/heads/master
+[submodule "misic-napari"]
+	url = https://github.com/conda-forge/misic-napari-feedstock.git
+	path = feedstocks/misic-napari
+	branch = refs/heads/master
