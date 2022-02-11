@@ -61310,3 +61310,7 @@
 	url = https://github.com/conda-forge/ttim-feedstock.git
 	path = feedstocks/ttim
 	branch = refs/heads/master
+[submodule "ansi"]
+	url = https://github.com/conda-forge/ansi-feedstock.git
+	path = feedstocks/ansi
+	branch = refs/heads/master
