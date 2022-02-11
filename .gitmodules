@@ -61326,3 +61326,7 @@
 	url = https://github.com/conda-forge/merge-args-feedstock.git
 	path = feedstocks/merge-args
 	branch = refs/heads/master
+[submodule "uvicore"]
+	url = https://github.com/conda-forge/uvicore-feedstock.git
+	path = feedstocks/uvicore
+	branch = refs/heads/master
