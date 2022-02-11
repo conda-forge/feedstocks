@@ -61266,3 +61266,7 @@
 	url = https://github.com/conda-forge/mne-connectivity-feedstock.git
 	path = feedstocks/mne-connectivity
 	branch = refs/heads/master
+[submodule "pyfastspm"]
+	url = https://github.com/conda-forge/pyfastspm-feedstock.git
+	path = feedstocks/pyfastspm
+	branch = refs/heads/master
