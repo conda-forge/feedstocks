@@ -61202,3 +61202,7 @@
 	url = https://github.com/conda-forge/image-part-selecter-feedstock.git
 	path = feedstocks/image-part-selecter
 	branch = refs/heads/master
+[submodule "haesleinhuepf-pyqode.core"]
+	url = https://github.com/conda-forge/haesleinhuepf-pyqode.core-feedstock.git
+	path = feedstocks/haesleinhuepf-pyqode.core
+	branch = refs/heads/master
