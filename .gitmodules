@@ -61182,3 +61182,7 @@
 	url = https://github.com/conda-forge/connected-components-3d-feedstock.git
 	path = feedstocks/connected-components-3d
 	branch = refs/heads/master
+[submodule "napari-features"]
+	url = https://github.com/conda-forge/napari-features-feedstock.git
+	path = feedstocks/napari-features
+	branch = refs/heads/master
