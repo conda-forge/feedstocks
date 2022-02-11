@@ -61190,3 +61190,7 @@
 	url = https://github.com/conda-forge/fastremap-feedstock.git
 	path = feedstocks/fastremap
 	branch = refs/heads/master
+[submodule "layer-data-replace"]
+	url = https://github.com/conda-forge/layer-data-replace-feedstock.git
+	path = feedstocks/layer-data-replace
+	branch = refs/heads/master
