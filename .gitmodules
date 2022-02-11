@@ -61302,3 +61302,7 @@
 	url = https://github.com/conda-forge/pymodelchecking-feedstock.git
 	path = feedstocks/pymodelchecking
 	branch = refs/heads/master
+[submodule "unidist-packages"]
+	url = https://github.com/conda-forge/unidist-packages-feedstock.git
+	path = feedstocks/unidist-packages
+	branch = refs/heads/master
