@@ -61358,3 +61358,7 @@
 	url = https://github.com/conda-forge/sdeconv-feedstock.git
 	path = feedstocks/sdeconv
 	branch = refs/heads/master
+[submodule "pymmcore"]
+	url = https://github.com/conda-forge/pymmcore-feedstock.git
+	path = feedstocks/pymmcore
+	branch = refs/heads/master
