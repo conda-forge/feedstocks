@@ -61330,3 +61330,7 @@
 	url = https://github.com/conda-forge/uvicore-feedstock.git
 	path = feedstocks/uvicore
 	branch = refs/heads/master
+[submodule "mne-realtime"]
+	url = https://github.com/conda-forge/mne-realtime-feedstock.git
+	path = feedstocks/mne-realtime
+	branch = refs/heads/master
