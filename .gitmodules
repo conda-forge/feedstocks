@@ -61394,3 +61394,7 @@
 	url = https://github.com/conda-forge/world2data-feedstock.git
 	path = feedstocks/world2data
 	branch = refs/heads/master
+[submodule "cellpose"]
+	url = https://github.com/conda-forge/cellpose-feedstock.git
+	path = feedstocks/cellpose
+	branch = refs/heads/master
