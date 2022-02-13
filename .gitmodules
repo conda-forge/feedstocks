@@ -61446,3 +61446,7 @@
 	url = https://github.com/conda-forge/zeit-feedstock.git
 	path = feedstocks/zeit
 	branch = refs/heads/master
+[submodule "singlejar"]
+	url = https://github.com/conda-forge/singlejar-feedstock.git
+	path = feedstocks/singlejar
+	branch = refs/heads/master
