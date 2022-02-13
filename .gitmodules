@@ -61430,3 +61430,7 @@
 	url = https://github.com/conda-forge/brainglobe-napari-io-feedstock.git
 	path = feedstocks/brainglobe-napari-io
 	branch = refs/heads/master
+[submodule "stracking"]
+	url = https://github.com/conda-forge/stracking-feedstock.git
+	path = feedstocks/stracking
+	branch = refs/heads/master
