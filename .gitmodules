@@ -61378,3 +61378,7 @@
 	url = https://github.com/conda-forge/intel-compiler-repack-feedstock.git
 	path = feedstocks/intel-compiler-repack
 	branch = refs/heads/master
+[submodule "qcxms"]
+	url = https://github.com/conda-forge/qcxms-feedstock.git
+	path = feedstocks/qcxms
+	branch = refs/heads/master
