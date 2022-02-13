@@ -61414,3 +61414,7 @@
 	url = https://github.com/conda-forge/arbol-feedstock.git
 	path = feedstocks/arbol
 	branch = refs/heads/master
+[submodule "napari-spatial-omics"]
+	url = https://github.com/conda-forge/napari-spatial-omics-feedstock.git
+	path = feedstocks/napari-spatial-omics
+	branch = refs/heads/master
