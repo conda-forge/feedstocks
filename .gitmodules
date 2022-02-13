@@ -61422,3 +61422,7 @@
 	url = https://github.com/conda-forge/napari-medical-image-formats-feedstock.git
 	path = feedstocks/napari-medical-image-formats
 	branch = refs/heads/master
+[submodule "napari-sdeconv"]
+	url = https://github.com/conda-forge/napari-sdeconv-feedstock.git
+	path = feedstocks/napari-sdeconv
+	branch = refs/heads/master
