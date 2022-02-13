@@ -61410,3 +61410,7 @@
 	url = https://github.com/conda-forge/cellfinder-core-feedstock.git
 	path = feedstocks/cellfinder-core
 	branch = refs/heads/master
+[submodule "arbol"]
+	url = https://github.com/conda-forge/arbol-feedstock.git
+	path = feedstocks/arbol
+	branch = refs/heads/master
