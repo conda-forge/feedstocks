@@ -61494,3 +61494,7 @@
 	url = https://github.com/conda-forge/napari-deepmeta-feedstock.git
 	path = feedstocks/napari-deepmeta
 	branch = refs/heads/master
+[submodule "napari-workflow-optimizer"]
+	url = https://github.com/conda-forge/napari-workflow-optimizer-feedstock.git
+	path = feedstocks/napari-workflow-optimizer
+	branch = refs/heads/master
