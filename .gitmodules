@@ -61562,3 +61562,7 @@
 	url = https://github.com/conda-forge/bio-embeddings-deepblast-feedstock.git
 	path = feedstocks/bio-embeddings-deepblast
 	branch = refs/heads/master
+[submodule "tape_proteins"]
+	url = https://github.com/conda-forge/tape_proteins-feedstock.git
+	path = feedstocks/tape_proteins
+	branch = refs/heads/master
