@@ -61554,3 +61554,7 @@
 	url = https://github.com/conda-forge/videohash-feedstock.git
 	path = feedstocks/videohash
 	branch = refs/heads/master
+[submodule "bio-embeddings-plus"]
+	url = https://github.com/conda-forge/bio-embeddings-plus-feedstock.git
+	path = feedstocks/bio-embeddings-plus
+	branch = refs/heads/master
