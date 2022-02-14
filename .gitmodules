@@ -61586,3 +61586,7 @@
 	url = https://github.com/conda-forge/jax-unirep-feedstock.git
 	path = feedstocks/jax-unirep
 	branch = refs/heads/master
+[submodule "pyeit"]
+	url = https://github.com/conda-forge/pyeit-feedstock.git
+	path = feedstocks/pyeit
+	branch = refs/heads/master
