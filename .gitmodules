@@ -61486,3 +61486,7 @@
 	url = https://github.com/conda-forge/napari-script-editor-feedstock.git
 	path = feedstocks/napari-script-editor
 	branch = refs/heads/master
+[submodule "napari-micromanager"]
+	url = https://github.com/conda-forge/napari-micromanager-feedstock.git
+	path = feedstocks/napari-micromanager
+	branch = refs/heads/master
