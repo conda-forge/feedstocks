@@ -61570,3 +61570,7 @@
 	url = https://github.com/conda-forge/bio-embeddings-cpcprot-feedstock.git
 	path = feedstocks/bio-embeddings-cpcprot
 	branch = refs/heads/master
+[submodule "bio-embeddings"]
+	url = https://github.com/conda-forge/bio-embeddings-feedstock.git
+	path = feedstocks/bio-embeddings
+	branch = refs/heads/master
