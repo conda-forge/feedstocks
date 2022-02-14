@@ -61530,3 +61530,7 @@
 	url = https://github.com/conda-forge/chemicalite-feedstock.git
 	path = feedstocks/chemicalite
 	branch = refs/heads/master
+[submodule "pysurvival"]
+	url = https://github.com/conda-forge/pysurvival-feedstock.git
+	path = feedstocks/pysurvival
+	branch = refs/heads/master
