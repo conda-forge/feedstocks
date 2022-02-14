@@ -61458,3 +61458,7 @@
 	url = https://github.com/conda-forge/pydatamail_google-feedstock.git
 	path = feedstocks/pydatamail_google
 	branch = refs/heads/master
+[submodule "pydatamail"]
+	url = https://github.com/conda-forge/pydatamail-feedstock.git
+	path = feedstocks/pydatamail
+	branch = refs/heads/master
