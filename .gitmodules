@@ -61490,3 +61490,7 @@
 	url = https://github.com/conda-forge/napari-micromanager-feedstock.git
 	path = feedstocks/napari-micromanager
 	branch = refs/heads/master
+[submodule "napari-deepmeta"]
+	url = https://github.com/conda-forge/napari-deepmeta-feedstock.git
+	path = feedstocks/napari-deepmeta
+	branch = refs/heads/master
