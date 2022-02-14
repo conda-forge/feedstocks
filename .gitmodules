@@ -61526,3 +61526,7 @@
 	url = https://github.com/conda-forge/pyscf-feedstock.git
 	path = feedstocks/pyscf
 	branch = refs/heads/master
+[submodule "chemicalite"]
+	url = https://github.com/conda-forge/chemicalite-feedstock.git
+	path = feedstocks/chemicalite
+	branch = refs/heads/master
