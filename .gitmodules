@@ -61502,3 +61502,7 @@
 	url = https://github.com/conda-forge/cellpose-napari-feedstock.git
 	path = feedstocks/cellpose-napari
 	branch = refs/heads/master
+[submodule "zenpy"]
+	url = https://github.com/conda-forge/zenpy-feedstock.git
+	path = feedstocks/zenpy
+	branch = refs/heads/master
