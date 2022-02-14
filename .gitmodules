@@ -61550,3 +61550,7 @@
 	url = https://github.com/conda-forge/atheris-feedstock.git
 	path = feedstocks/atheris
 	branch = refs/heads/master
+[submodule "videohash"]
+	url = https://github.com/conda-forge/videohash-feedstock.git
+	path = feedstocks/videohash
+	branch = refs/heads/master
