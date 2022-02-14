@@ -61558,3 +61558,7 @@
 	url = https://github.com/conda-forge/bio-embeddings-plus-feedstock.git
 	path = feedstocks/bio-embeddings-plus
 	branch = refs/heads/master
+[submodule "bio-embeddings-deepblast"]
+	url = https://github.com/conda-forge/bio-embeddings-deepblast-feedstock.git
+	path = feedstocks/bio-embeddings-deepblast
+	branch = refs/heads/master
