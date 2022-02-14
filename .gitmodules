@@ -61510,3 +61510,7 @@
 	url = https://github.com/conda-forge/hover-feedstock.git
 	path = feedstocks/hover
 	branch = refs/heads/master
+[submodule "crypten"]
+	url = https://github.com/conda-forge/crypten-feedstock.git
+	path = feedstocks/crypten
+	branch = refs/heads/master
