@@ -61574,3 +61574,7 @@
 	url = https://github.com/conda-forge/bio-embeddings-feedstock.git
 	path = feedstocks/bio-embeddings
 	branch = refs/heads/master
+[submodule "lock"]
+	url = https://github.com/conda-forge/lock-feedstock.git
+	path = feedstocks/lock
+	branch = refs/heads/master
