@@ -61590,3 +61590,7 @@
 	url = https://github.com/conda-forge/pyeit-feedstock.git
 	path = feedstocks/pyeit
 	branch = refs/heads/master
+[submodule "mljar-mercury"]
+	url = https://github.com/conda-forge/mljar-mercury-feedstock.git
+	path = feedstocks/mljar-mercury
+	branch = refs/heads/master
