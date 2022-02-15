@@ -61594,3 +61594,7 @@
 	url = https://github.com/conda-forge/mljar-mercury-feedstock.git
 	path = feedstocks/mljar-mercury
 	branch = refs/heads/master
+[submodule "dub"]
+	url = https://github.com/conda-forge/dub-feedstock.git
+	path = feedstocks/dub
+	branch = refs/heads/master
