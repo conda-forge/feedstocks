@@ -61610,3 +61610,7 @@
 	url = https://github.com/conda-forge/basisgen-feedstock.git
 	path = feedstocks/basisgen
 	branch = refs/heads/master
+[submodule "rmm"]
+	url = https://github.com/conda-forge/rmm-feedstock.git
+	path = feedstocks/rmm
+	branch = refs/heads/master
