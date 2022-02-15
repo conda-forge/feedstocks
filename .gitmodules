@@ -61606,3 +61606,7 @@
 	url = https://github.com/conda-forge/icontract-feedstock.git
 	path = feedstocks/icontract
 	branch = refs/heads/master
+[submodule "basisgen"]
+	url = https://github.com/conda-forge/basisgen-feedstock.git
+	path = feedstocks/basisgen
+	branch = refs/heads/master
