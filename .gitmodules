@@ -61626,3 +61626,7 @@
 	url = https://github.com/conda-forge/unifuncnet-feedstock.git
 	path = feedstocks/unifuncnet
 	branch = refs/heads/master
+[submodule "galeodes"]
+	url = https://github.com/conda-forge/galeodes-feedstock.git
+	path = feedstocks/galeodes
+	branch = refs/heads/master
