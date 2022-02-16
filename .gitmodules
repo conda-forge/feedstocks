@@ -61630,3 +61630,7 @@
 	url = https://github.com/conda-forge/galeodes-feedstock.git
 	path = feedstocks/galeodes
 	branch = refs/heads/master
+[submodule "libvdwxc"]
+	url = https://github.com/conda-forge/libvdwxc-feedstock.git
+	path = feedstocks/libvdwxc
+	branch = refs/heads/master
