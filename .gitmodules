@@ -61618,3 +61618,7 @@
 	url = https://github.com/conda-forge/homebase-feedstock.git
 	path = feedstocks/homebase
 	branch = refs/heads/master
+[submodule "plucky"]
+	url = https://github.com/conda-forge/plucky-feedstock.git
+	path = feedstocks/plucky
+	branch = refs/heads/master
