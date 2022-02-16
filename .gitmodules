@@ -61614,3 +61614,7 @@
 	url = https://github.com/conda-forge/rmm-feedstock.git
 	path = feedstocks/rmm
 	branch = refs/heads/master
+[submodule "homebase"]
+	url = https://github.com/conda-forge/homebase-feedstock.git
+	path = feedstocks/homebase
+	branch = refs/heads/master
