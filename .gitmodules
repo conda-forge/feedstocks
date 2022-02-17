@@ -61674,3 +61674,7 @@
 	url = https://github.com/conda-forge/magic-class-feedstock.git
 	path = feedstocks/magic-class
 	branch = refs/heads/master
+[submodule "cellfinder-napari"]
+	url = https://github.com/conda-forge/cellfinder-napari-feedstock.git
+	path = feedstocks/cellfinder-napari
+	branch = refs/heads/master
