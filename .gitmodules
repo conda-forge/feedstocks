@@ -61666,3 +61666,7 @@
 	url = https://github.com/conda-forge/microscope-feedstock.git
 	path = feedstocks/microscope
 	branch = refs/heads/master
+[submodule "napari-lazy-openslide"]
+	url = https://github.com/conda-forge/napari-lazy-openslide-feedstock.git
+	path = feedstocks/napari-lazy-openslide
+	branch = refs/heads/master
