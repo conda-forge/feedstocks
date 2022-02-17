@@ -61702,3 +61702,7 @@
 	url = https://github.com/conda-forge/capella-console-client-feedstock.git
 	path = feedstocks/capella-console-client
 	branch = refs/heads/master
+[submodule "colander"]
+	url = https://github.com/conda-forge/colander-feedstock.git
+	path = feedstocks/colander
+	branch = refs/heads/master
