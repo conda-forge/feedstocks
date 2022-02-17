@@ -61654,3 +61654,7 @@
 	url = https://github.com/conda-forge/napari-pdf-reader-feedstock.git
 	path = feedstocks/napari-pdf-reader
 	branch = refs/heads/master
+[submodule "brainreg-segment"]
+	url = https://github.com/conda-forge/brainreg-segment-feedstock.git
+	path = feedstocks/brainreg-segment
+	branch = refs/heads/master
