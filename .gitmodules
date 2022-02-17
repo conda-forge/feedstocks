@@ -61690,3 +61690,7 @@
 	url = https://github.com/conda-forge/netpbmfile-feedstock.git
 	path = feedstocks/netpbmfile
 	branch = refs/heads/master
+[submodule "odc-algo"]
+	url = https://github.com/conda-forge/odc-algo-feedstock.git
+	path = feedstocks/odc-algo
+	branch = refs/heads/master
