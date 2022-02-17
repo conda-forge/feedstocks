@@ -61678,3 +61678,7 @@
 	url = https://github.com/conda-forge/cellfinder-napari-feedstock.git
 	path = feedstocks/cellfinder-napari
 	branch = refs/heads/master
+[submodule "napari-nd-cropper"]
+	url = https://github.com/conda-forge/napari-nd-cropper-feedstock.git
+	path = feedstocks/napari-nd-cropper
+	branch = refs/heads/master
