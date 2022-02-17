@@ -61662,3 +61662,7 @@
 	url = https://github.com/conda-forge/napari-clusters-plotter-feedstock.git
 	path = feedstocks/napari-clusters-plotter
 	branch = refs/heads/master
+[submodule "microscope"]
+	url = https://github.com/conda-forge/microscope-feedstock.git
+	path = feedstocks/microscope
+	branch = refs/heads/master
