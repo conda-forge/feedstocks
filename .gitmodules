@@ -61706,3 +61706,7 @@
 	url = https://github.com/conda-forge/colander-feedstock.git
 	path = feedstocks/colander
 	branch = refs/heads/master
+[submodule "homonim"]
+	url = https://github.com/conda-forge/homonim-feedstock.git
+	path = feedstocks/homonim
+	branch = refs/heads/master
