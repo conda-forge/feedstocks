@@ -61710,3 +61710,7 @@
 	url = https://github.com/conda-forge/homonim-feedstock.git
 	path = feedstocks/homonim
 	branch = refs/heads/master
+[submodule "spikingjelly"]
+	url = https://github.com/conda-forge/spikingjelly-feedstock.git
+	path = feedstocks/spikingjelly
+	branch = refs/heads/master
