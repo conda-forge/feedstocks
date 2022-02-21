@@ -61778,3 +61778,7 @@
 	url = https://github.com/conda-forge/r-omicnavigator-feedstock.git
 	path = feedstocks/r-omicnavigator
 	branch = refs/heads/master
+[submodule "r-tidygate"]
+	url = https://github.com/conda-forge/r-tidygate-feedstock.git
+	path = feedstocks/r-tidygate
+	branch = refs/heads/master
