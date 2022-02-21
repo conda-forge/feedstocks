@@ -61774,3 +61774,7 @@
 	url = https://github.com/conda-forge/r-comics-feedstock.git
 	path = feedstocks/r-comics
 	branch = refs/heads/master
+[submodule "r-omicnavigator"]
+	url = https://github.com/conda-forge/r-omicnavigator-feedstock.git
+	path = feedstocks/r-omicnavigator
+	branch = refs/heads/master
