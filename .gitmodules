@@ -61734,3 +61734,7 @@
 	url = https://github.com/conda-forge/r-session-feedstock.git
 	path = feedstocks/r-session
 	branch = refs/heads/master
+[submodule "ssort"]
+	url = https://github.com/conda-forge/ssort-feedstock.git
+	path = feedstocks/ssort
+	branch = refs/heads/master
