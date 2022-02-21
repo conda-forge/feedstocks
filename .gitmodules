@@ -61766,3 +61766,7 @@
 	url = https://github.com/conda-forge/r-collapse-feedstock.git
 	path = feedstocks/r-collapse
 	branch = refs/heads/master
+[submodule "pennylane-qchem"]
+	url = https://github.com/conda-forge/pennylane-qchem-feedstock.git
+	path = feedstocks/pennylane-qchem
+	branch = refs/heads/master
