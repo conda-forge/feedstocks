@@ -61746,3 +61746,7 @@
 	url = https://github.com/conda-forge/sphinx-reredirects-feedstock.git
 	path = feedstocks/sphinx-reredirects
 	branch = refs/heads/master
+[submodule "google-cloud-orchestration-airflow"]
+	url = https://github.com/conda-forge/google-cloud-orchestration-airflow-feedstock.git
+	path = feedstocks/google-cloud-orchestration-airflow
+	branch = refs/heads/master
