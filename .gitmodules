@@ -61714,3 +61714,7 @@
 	url = https://github.com/conda-forge/spikingjelly-feedstock.git
 	path = feedstocks/spikingjelly
 	branch = refs/heads/master
+[submodule "openfermionpyscf"]
+	url = https://github.com/conda-forge/openfermionpyscf-feedstock.git
+	path = feedstocks/openfermionpyscf
+	branch = refs/heads/master
