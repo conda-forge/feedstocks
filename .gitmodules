@@ -61742,3 +61742,7 @@
 	url = https://github.com/conda-forge/sharrow-feedstock.git
 	path = feedstocks/sharrow
 	branch = refs/heads/master
+[submodule "sphinx-reredirects"]
+	url = https://github.com/conda-forge/sphinx-reredirects-feedstock.git
+	path = feedstocks/sphinx-reredirects
+	branch = refs/heads/master
