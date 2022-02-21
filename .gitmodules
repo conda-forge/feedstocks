@@ -61782,3 +61782,7 @@
 	url = https://github.com/conda-forge/r-tidygate-feedstock.git
 	path = feedstocks/r-tidygate
 	branch = refs/heads/master
+[submodule "pycronserver"]
+	url = https://github.com/conda-forge/pycronserver-feedstock.git
+	path = feedstocks/pycronserver
+	branch = refs/heads/master
