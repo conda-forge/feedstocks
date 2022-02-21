@@ -61750,3 +61750,7 @@
 	url = https://github.com/conda-forge/google-cloud-orchestration-airflow-feedstock.git
 	path = feedstocks/google-cloud-orchestration-airflow
 	branch = refs/heads/master
+[submodule "drm4g"]
+	url = https://github.com/conda-forge/drm4g-feedstock.git
+	path = feedstocks/drm4g
+	branch = refs/heads/master
