@@ -61730,3 +61730,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-bigquery-feedstock.git
 	path = feedstocks/sqlalchemy-bigquery
 	branch = refs/heads/master
+[submodule "r-session"]
+	url = https://github.com/conda-forge/r-session-feedstock.git
+	path = feedstocks/r-session
+	branch = refs/heads/master
