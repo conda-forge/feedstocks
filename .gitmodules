@@ -61806,3 +61806,7 @@
 	url = https://github.com/conda-forge/cutlass-feedstock.git
 	path = feedstocks/cutlass
 	branch = refs/heads/master
+[submodule "r-lifecontingencies"]
+	url = https://github.com/conda-forge/r-lifecontingencies-feedstock.git
+	path = feedstocks/r-lifecontingencies
+	branch = refs/heads/master
