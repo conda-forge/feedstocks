@@ -61818,3 +61818,7 @@
 	url = https://github.com/conda-forge/stopwordsiso-feedstock.git
 	path = feedstocks/stopwordsiso
 	branch = refs/heads/master
+[submodule "brotli-asgi"]
+	url = https://github.com/conda-forge/brotli-asgi-feedstock.git
+	path = feedstocks/brotli-asgi
+	branch = refs/heads/master
