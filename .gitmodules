@@ -61802,3 +61802,7 @@
 	url = https://github.com/conda-forge/r-distributionutils-feedstock.git
 	path = feedstocks/r-distributionutils
 	branch = refs/heads/master
+[submodule "cutlass"]
+	url = https://github.com/conda-forge/cutlass-feedstock.git
+	path = feedstocks/cutlass
+	branch = refs/heads/master
