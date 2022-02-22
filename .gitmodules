@@ -61814,3 +61814,7 @@
 	url = https://github.com/conda-forge/ugrid-checks-feedstock.git
 	path = feedstocks/ugrid-checks
 	branch = refs/heads/master
+[submodule "stopwordsiso"]
+	url = https://github.com/conda-forge/stopwordsiso-feedstock.git
+	path = feedstocks/stopwordsiso
+	branch = refs/heads/master
