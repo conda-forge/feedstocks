@@ -61810,3 +61810,7 @@
 	url = https://github.com/conda-forge/r-lifecontingencies-feedstock.git
 	path = feedstocks/r-lifecontingencies
 	branch = refs/heads/master
+[submodule "ugrid-checks"]
+	url = https://github.com/conda-forge/ugrid-checks-feedstock.git
+	path = feedstocks/ugrid-checks
+	branch = refs/heads/master
