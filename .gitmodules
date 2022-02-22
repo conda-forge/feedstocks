@@ -61858,3 +61858,7 @@
 	url = https://github.com/conda-forge/rabpro-feedstock.git
 	path = feedstocks/rabpro
 	branch = refs/heads/master
+[submodule "apoc-backend"]
+	url = https://github.com/conda-forge/apoc-backend-feedstock.git
+	path = feedstocks/apoc-backend
+	branch = refs/heads/master
