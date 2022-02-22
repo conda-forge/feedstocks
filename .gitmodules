@@ -61830,3 +61830,7 @@
 	url = https://github.com/conda-forge/r-spatstat.random-feedstock.git
 	path = feedstocks/r-spatstat.random
 	branch = refs/heads/master
+[submodule "mpl-sphinx-theme"]
+	url = https://github.com/conda-forge/mpl-sphinx-theme-feedstock.git
+	path = feedstocks/mpl-sphinx-theme
+	branch = refs/heads/master
