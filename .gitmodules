@@ -61838,3 +61838,7 @@
 	url = https://github.com/conda-forge/r-systemfit-feedstock.git
 	path = feedstocks/r-systemfit
 	branch = refs/heads/master
+[submodule "r-mlr3hyperband"]
+	url = https://github.com/conda-forge/r-mlr3hyperband-feedstock.git
+	path = feedstocks/r-mlr3hyperband
+	branch = refs/heads/master
