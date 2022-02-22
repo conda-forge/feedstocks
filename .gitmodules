@@ -61846,3 +61846,7 @@
 	url = https://github.com/conda-forge/r-mlr3tuningspaces-feedstock.git
 	path = feedstocks/r-mlr3tuningspaces
 	branch = refs/heads/master
+[submodule "plplot"]
+	url = https://github.com/conda-forge/plplot-feedstock.git
+	path = feedstocks/plplot
+	branch = refs/heads/master
