@@ -61918,3 +61918,7 @@
 	url = https://github.com/conda-forge/epics-medm-feedstock.git
 	path = feedstocks/epics-medm
 	branch = refs/heads/master
+[submodule "epics-extensions"]
+	url = https://github.com/conda-forge/epics-extensions-feedstock.git
+	path = feedstocks/epics-extensions
+	branch = refs/heads/master
