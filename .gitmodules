@@ -61902,3 +61902,7 @@
 	url = https://github.com/conda-forge/compas_cloud-feedstock.git
 	path = feedstocks/compas_cloud
 	branch = refs/heads/master
+[submodule "compas_tna"]
+	url = https://github.com/conda-forge/compas_tna-feedstock.git
+	path = feedstocks/compas_tna
+	branch = refs/heads/master
