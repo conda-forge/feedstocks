@@ -61874,3 +61874,7 @@
 	url = https://github.com/conda-forge/napari-hdf5-labels-io-feedstock.git
 	path = feedstocks/napari-hdf5-labels-io
 	branch = refs/heads/master
+[submodule "napari-deepspot"]
+	url = https://github.com/conda-forge/napari-deepspot-feedstock.git
+	path = feedstocks/napari-deepspot
+	branch = refs/heads/master
