@@ -61914,3 +61914,7 @@
 	url = https://github.com/conda-forge/compas_skeleton-feedstock.git
 	path = feedstocks/compas_skeleton
 	branch = refs/heads/master
+[submodule "epics-medm"]
+	url = https://github.com/conda-forge/epics-medm-feedstock.git
+	path = feedstocks/epics-medm
+	branch = refs/heads/master
