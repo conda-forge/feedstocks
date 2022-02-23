@@ -61894,3 +61894,7 @@
 	url = https://github.com/conda-forge/mkdocs-literate-nav-feedstock.git
 	path = feedstocks/mkdocs-literate-nav
 	branch = refs/heads/master
+[submodule "mkdocs-exclude"]
+	url = https://github.com/conda-forge/mkdocs-exclude-feedstock.git
+	path = feedstocks/mkdocs-exclude
+	branch = refs/heads/master
