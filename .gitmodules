@@ -61878,3 +61878,7 @@
 	url = https://github.com/conda-forge/napari-deepspot-feedstock.git
 	path = feedstocks/napari-deepspot
 	branch = refs/heads/master
+[submodule "lfdfiles"]
+	url = https://github.com/conda-forge/lfdfiles-feedstock.git
+	path = feedstocks/lfdfiles
+	branch = refs/heads/master
