@@ -61930,3 +61930,7 @@
 	url = https://github.com/conda-forge/mkdocs-git-revision-date-plugin-feedstock.git
 	path = feedstocks/mkdocs-git-revision-date-plugin
 	branch = refs/heads/master
+[submodule "openff-bespokefit"]
+	url = https://github.com/conda-forge/openff-bespokefit-feedstock.git
+	path = feedstocks/openff-bespokefit
+	branch = refs/heads/master
