@@ -61938,3 +61938,7 @@
 	url = https://github.com/conda-forge/napari-multitask-feedstock.git
 	path = feedstocks/napari-multitask
 	branch = refs/heads/master
+[submodule "piccolo-theme"]
+	url = https://github.com/conda-forge/piccolo-theme-feedstock.git
+	path = feedstocks/piccolo-theme
+	branch = refs/heads/master
