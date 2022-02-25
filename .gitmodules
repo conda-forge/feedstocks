@@ -61974,3 +61974,7 @@
 	url = https://github.com/conda-forge/demjson3-feedstock.git
 	path = feedstocks/demjson3
 	branch = refs/heads/master
+[submodule "spec2nexus"]
+	url = https://github.com/conda-forge/spec2nexus-feedstock.git
+	path = feedstocks/spec2nexus
+	branch = refs/heads/master
