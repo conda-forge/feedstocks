@@ -61970,3 +61970,7 @@
 	url = https://github.com/conda-forge/r-gridpattern-feedstock.git
 	path = feedstocks/r-gridpattern
 	branch = refs/heads/master
+[submodule "demjson3"]
+	url = https://github.com/conda-forge/demjson3-feedstock.git
+	path = feedstocks/demjson3
+	branch = refs/heads/master
