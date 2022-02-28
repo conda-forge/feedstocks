@@ -62006,3 +62006,7 @@
 	url = https://github.com/conda-forge/steampipe-feedstock.git
 	path = feedstocks/steampipe
 	branch = refs/heads/master
+[submodule "kfp-pipeline-spec"]
+	url = https://github.com/conda-forge/kfp-pipeline-spec-feedstock.git
+	path = feedstocks/kfp-pipeline-spec
+	branch = refs/heads/master
