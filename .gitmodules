@@ -61998,3 +61998,7 @@
 	url = https://github.com/conda-forge/findpython-feedstock.git
 	path = feedstocks/findpython
 	branch = refs/heads/master
+[submodule "rich-click"]
+	url = https://github.com/conda-forge/rich-click-feedstock.git
+	path = feedstocks/rich-click
+	branch = refs/heads/master
