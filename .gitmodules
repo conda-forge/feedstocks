@@ -62038,3 +62038,7 @@
 	url = https://github.com/conda-forge/keyutils-feedstock.git
 	path = feedstocks/keyutils
 	branch = refs/heads/master
+[submodule "rocksdbdict"]
+	url = https://github.com/conda-forge/rocksdbdict-feedstock.git
+	path = feedstocks/rocksdbdict
+	branch = refs/heads/master
