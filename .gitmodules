@@ -62026,3 +62026,7 @@
 	url = https://github.com/conda-forge/chameleon-feedstock.git
 	path = feedstocks/chameleon
 	branch = refs/heads/master
+[submodule "mne-features"]
+	url = https://github.com/conda-forge/mne-features-feedstock.git
+	path = feedstocks/mne-features
+	branch = refs/heads/master
