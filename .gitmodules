@@ -62018,3 +62018,7 @@
 	url = https://github.com/conda-forge/pyearth-feedstock.git
 	path = feedstocks/pyearth
 	branch = refs/heads/master
+[submodule "justpy"]
+	url = https://github.com/conda-forge/justpy-feedstock.git
+	path = feedstocks/justpy
+	branch = refs/heads/master
