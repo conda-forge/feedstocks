@@ -62042,3 +62042,7 @@
 	url = https://github.com/conda-forge/rocksdbdict-feedstock.git
 	path = feedstocks/rocksdbdict
 	branch = refs/heads/master
+[submodule "pygaps"]
+	url = https://github.com/conda-forge/pygaps-feedstock.git
+	path = feedstocks/pygaps
+	branch = refs/heads/master
