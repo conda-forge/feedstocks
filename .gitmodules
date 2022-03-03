@@ -62070,3 +62070,7 @@
 	url = https://github.com/conda-forge/cpp-expected-feedstock.git
 	path = feedstocks/cpp-expected
 	branch = refs/heads/master
+[submodule "asdf-transform-schemas"]
+	url = https://github.com/conda-forge/asdf-transform-schemas-feedstock.git
+	path = feedstocks/asdf-transform-schemas
+	branch = refs/heads/master
