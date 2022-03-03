@@ -62062,3 +62062,7 @@
 	url = https://github.com/conda-forge/asdf-standard-feedstock.git
 	path = feedstocks/asdf-standard
 	branch = refs/heads/master
+[submodule "nnpops"]
+	url = https://github.com/conda-forge/nnpops-feedstock.git
+	path = feedstocks/nnpops
+	branch = refs/heads/master
