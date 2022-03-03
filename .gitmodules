@@ -62066,3 +62066,7 @@
 	url = https://github.com/conda-forge/nnpops-feedstock.git
 	path = feedstocks/nnpops
 	branch = refs/heads/master
+[submodule "cpp-expected"]
+	url = https://github.com/conda-forge/cpp-expected-feedstock.git
+	path = feedstocks/cpp-expected
+	branch = refs/heads/master
