@@ -62078,3 +62078,7 @@
 	url = https://github.com/conda-forge/ui5-cli-feedstock.git
 	path = feedstocks/ui5-cli
 	branch = refs/heads/master
+[submodule "notebook-shim"]
+	url = https://github.com/conda-forge/notebook-shim-feedstock.git
+	path = feedstocks/notebook-shim
+	branch = refs/heads/master
