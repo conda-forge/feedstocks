@@ -62090,3 +62090,7 @@
 	url = https://github.com/conda-forge/dirty-equals-feedstock.git
 	path = feedstocks/dirty-equals
 	branch = refs/heads/master
+[submodule "statsforecast"]
+	url = https://github.com/conda-forge/statsforecast-feedstock.git
+	path = feedstocks/statsforecast
+	branch = refs/heads/master
