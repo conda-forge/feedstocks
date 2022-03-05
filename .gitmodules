@@ -62106,3 +62106,7 @@
 	url = https://github.com/conda-forge/timg-feedstock.git
 	path = feedstocks/timg
 	branch = refs/heads/master
+[submodule "mne-ari"]
+	url = https://github.com/conda-forge/mne-ari-feedstock.git
+	path = feedstocks/mne-ari
+	branch = refs/heads/master
