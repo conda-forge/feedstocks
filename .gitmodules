@@ -62094,3 +62094,7 @@
 	url = https://github.com/conda-forge/statsforecast-feedstock.git
 	path = feedstocks/statsforecast
 	branch = refs/heads/master
+[submodule "easystac"]
+	url = https://github.com/conda-forge/easystac-feedstock.git
+	path = feedstocks/easystac
+	branch = refs/heads/master
