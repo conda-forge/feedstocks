@@ -62114,3 +62114,7 @@
 	url = https://github.com/conda-forge/mne-rsa-feedstock.git
 	path = feedstocks/mne-rsa
 	branch = refs/heads/master
+[submodule "simwrapper"]
+	url = https://github.com/conda-forge/simwrapper-feedstock.git
+	path = feedstocks/simwrapper
+	branch = refs/heads/master
