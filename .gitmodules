@@ -62166,3 +62166,7 @@
 	url = https://github.com/conda-forge/entry-points-txt-feedstock.git
 	path = feedstocks/entry-points-txt
 	branch = refs/heads/master
+[submodule "conbench"]
+	url = https://github.com/conda-forge/conbench-feedstock.git
+	path = feedstocks/conbench
+	branch = refs/heads/master
