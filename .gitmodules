@@ -62174,3 +62174,7 @@
 	url = https://github.com/conda-forge/plugcli-feedstock.git
 	path = feedstocks/plugcli
 	branch = refs/heads/master
+[submodule "jless"]
+	url = https://github.com/conda-forge/jless-feedstock.git
+	path = feedstocks/jless
+	branch = refs/heads/master
