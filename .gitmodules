@@ -62178,3 +62178,7 @@
 	url = https://github.com/conda-forge/jless-feedstock.git
 	path = feedstocks/jless
 	branch = refs/heads/master
+[submodule "clawpack"]
+	url = https://github.com/conda-forge/clawpack-feedstock.git
+	path = feedstocks/clawpack
+	branch = refs/heads/master
