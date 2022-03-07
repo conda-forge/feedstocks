@@ -62154,3 +62154,7 @@
 	url = https://github.com/conda-forge/shed-streaming-feedstock.git
 	path = feedstocks/shed-streaming
 	branch = refs/heads/master
+[submodule "headerparser"]
+	url = https://github.com/conda-forge/headerparser-feedstock.git
+	path = feedstocks/headerparser
+	branch = refs/heads/master
