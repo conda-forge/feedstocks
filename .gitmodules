@@ -62254,3 +62254,7 @@
 	url = https://github.com/conda-forge/zipfile-deflate64-feedstock.git
 	path = feedstocks/zipfile-deflate64
 	branch = refs/heads/master
+[submodule "gctree"]
+	url = https://github.com/conda-forge/gctree-feedstock.git
+	path = feedstocks/gctree
+	branch = refs/heads/master
