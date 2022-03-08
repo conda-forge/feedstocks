@@ -62222,3 +62222,7 @@
 	url = https://github.com/conda-forge/blueskyapi-feedstock.git
 	path = feedstocks/blueskyapi
 	branch = refs/heads/master
+[submodule "dtc-package"]
+	url = https://github.com/conda-forge/dtc-package-feedstock.git
+	path = feedstocks/dtc-package
+	branch = refs/heads/master
