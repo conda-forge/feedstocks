@@ -62214,3 +62214,7 @@
 	url = https://github.com/conda-forge/sunkit-image-feedstock.git
 	path = feedstocks/sunkit-image
 	branch = refs/heads/master
+[submodule "fleur"]
+	url = https://github.com/conda-forge/fleur-feedstock.git
+	path = feedstocks/fleur
+	branch = refs/heads/master
