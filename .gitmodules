@@ -62238,3 +62238,7 @@
 	url = https://github.com/conda-forge/dwave-neal-feedstock.git
 	path = feedstocks/dwave-neal
 	branch = refs/heads/master
+[submodule "imath"]
+	url = https://github.com/conda-forge/imath-feedstock.git
+	path = feedstocks/imath
+	branch = refs/heads/master
