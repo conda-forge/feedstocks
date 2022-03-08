@@ -62226,3 +62226,7 @@
 	url = https://github.com/conda-forge/dtc-package-feedstock.git
 	path = feedstocks/dtc-package
 	branch = refs/heads/master
+[submodule "astromodels"]
+	url = https://github.com/conda-forge/astromodels-feedstock.git
+	path = feedstocks/astromodels
+	branch = refs/heads/master
