@@ -62202,3 +62202,7 @@
 	url = https://github.com/conda-forge/nemspy-feedstock.git
 	path = feedstocks/nemspy
 	branch = refs/heads/master
+[submodule "dyntapy"]
+	url = https://github.com/conda-forge/dyntapy-feedstock.git
+	path = feedstocks/dyntapy
+	branch = refs/heads/master
