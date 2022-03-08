@@ -62246,3 +62246,7 @@
 	url = https://github.com/conda-forge/dwave-cloud-client-feedstock.git
 	path = feedstocks/dwave-cloud-client
 	branch = refs/heads/master
+[submodule "dwave-greedy"]
+	url = https://github.com/conda-forge/dwave-greedy-feedstock.git
+	path = feedstocks/dwave-greedy
+	branch = refs/heads/master
