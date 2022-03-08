@@ -62234,3 +62234,7 @@
 	url = https://github.com/conda-forge/m17-cxx-demod-feedstock.git
 	path = feedstocks/m17-cxx-demod
 	branch = refs/heads/master
+[submodule "dwave-neal"]
+	url = https://github.com/conda-forge/dwave-neal-feedstock.git
+	path = feedstocks/dwave-neal
+	branch = refs/heads/master
