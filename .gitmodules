@@ -62186,3 +62186,7 @@
 	url = https://github.com/conda-forge/nb-clean-feedstock.git
 	path = feedstocks/nb-clean
 	branch = refs/heads/master
+[submodule "dataclass-wizard"]
+	url = https://github.com/conda-forge/dataclass-wizard-feedstock.git
+	path = feedstocks/dataclass-wizard
+	branch = refs/heads/master
