@@ -62218,3 +62218,7 @@
 	url = https://github.com/conda-forge/fleur-feedstock.git
 	path = feedstocks/fleur
 	branch = refs/heads/master
+[submodule "blueskyapi"]
+	url = https://github.com/conda-forge/blueskyapi-feedstock.git
+	path = feedstocks/blueskyapi
+	branch = refs/heads/master
