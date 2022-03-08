@@ -62242,3 +62242,7 @@
 	url = https://github.com/conda-forge/imath-feedstock.git
 	path = feedstocks/imath
 	branch = refs/heads/master
+[submodule "dwave-cloud-client"]
+	url = https://github.com/conda-forge/dwave-cloud-client-feedstock.git
+	path = feedstocks/dwave-cloud-client
+	branch = refs/heads/master
