@@ -62210,3 +62210,7 @@
 	url = https://github.com/conda-forge/typepigeon-feedstock.git
 	path = feedstocks/typepigeon
 	branch = refs/heads/master
+[submodule "sunkit-image"]
+	url = https://github.com/conda-forge/sunkit-image-feedstock.git
+	path = feedstocks/sunkit-image
+	branch = refs/heads/master
