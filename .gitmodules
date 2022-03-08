@@ -62230,3 +62230,7 @@
 	url = https://github.com/conda-forge/astromodels-feedstock.git
 	path = feedstocks/astromodels
 	branch = refs/heads/master
+[submodule "m17-cxx-demod"]
+	url = https://github.com/conda-forge/m17-cxx-demod-feedstock.git
+	path = feedstocks/m17-cxx-demod
+	branch = refs/heads/master
