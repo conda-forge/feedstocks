@@ -62302,3 +62302,7 @@
 	url = https://github.com/conda-forge/pyjuliaup-feedstock.git
 	path = feedstocks/pyjuliaup
 	branch = refs/heads/master
+[submodule "libsvmdata"]
+	url = https://github.com/conda-forge/libsvmdata-feedstock.git
+	path = feedstocks/libsvmdata
+	branch = refs/heads/master
