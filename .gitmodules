@@ -62274,3 +62274,7 @@
 	url = https://github.com/conda-forge/napari-assistant-feedstock.git
 	path = feedstocks/napari-assistant
 	branch = refs/heads/master
+[submodule "eslint"]
+	url = https://github.com/conda-forge/eslint-feedstock.git
+	path = feedstocks/eslint
+	branch = refs/heads/master
