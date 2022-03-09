@@ -62286,3 +62286,7 @@
 	url = https://github.com/conda-forge/vegafusion-feedstock.git
 	path = feedstocks/vegafusion
 	branch = refs/heads/master
+[submodule "jill"]
+	url = https://github.com/conda-forge/jill-feedstock.git
+	path = feedstocks/jill
+	branch = refs/heads/master
