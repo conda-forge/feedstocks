@@ -62290,3 +62290,7 @@
 	url = https://github.com/conda-forge/jill-feedstock.git
 	path = feedstocks/jill
 	branch = refs/heads/master
+[submodule "juliaup"]
+	url = https://github.com/conda-forge/juliaup-feedstock.git
+	path = feedstocks/juliaup
+	branch = refs/heads/master
