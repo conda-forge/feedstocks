@@ -62306,3 +62306,7 @@
 	url = https://github.com/conda-forge/libsvmdata-feedstock.git
 	path = feedstocks/libsvmdata
 	branch = refs/heads/master
+[submodule "celer"]
+	url = https://github.com/conda-forge/celer-feedstock.git
+	path = feedstocks/celer
+	branch = refs/heads/master
