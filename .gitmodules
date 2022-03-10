@@ -62326,3 +62326,7 @@
 	url = https://github.com/conda-forge/vegafusion-jupyter-feedstock.git
 	path = feedstocks/vegafusion-jupyter
 	branch = refs/heads/master
+[submodule "cpl"]
+	url = https://github.com/conda-forge/cpl-feedstock.git
+	path = feedstocks/cpl
+	branch = refs/heads/master
