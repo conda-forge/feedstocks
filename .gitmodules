@@ -62334,3 +62334,7 @@
 	url = https://github.com/conda-forge/podaac-data-subscriber-feedstock.git
 	path = feedstocks/podaac-data-subscriber
 	branch = refs/heads/master
+[submodule "pypdf2_fields"]
+	url = https://github.com/conda-forge/pypdf2_fields-feedstock.git
+	path = feedstocks/pypdf2_fields
+	branch = refs/heads/master
