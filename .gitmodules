@@ -62322,3 +62322,7 @@
 	url = https://github.com/conda-forge/jupyter-black-feedstock.git
 	path = feedstocks/jupyter-black
 	branch = refs/heads/master
+[submodule "vegafusion-jupyter"]
+	url = https://github.com/conda-forge/vegafusion-jupyter-feedstock.git
+	path = feedstocks/vegafusion-jupyter
+	branch = refs/heads/master
