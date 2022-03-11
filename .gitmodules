@@ -62350,3 +62350,7 @@
 	url = https://github.com/conda-forge/pip-requirements-parser-feedstock.git
 	path = feedstocks/pip-requirements-parser
 	branch = refs/heads/master
+[submodule "ligo-medm"]
+	url = https://github.com/conda-forge/ligo-medm-feedstock.git
+	path = feedstocks/ligo-medm
+	branch = refs/heads/master
