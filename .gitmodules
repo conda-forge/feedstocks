@@ -62358,3 +62358,7 @@
 	url = https://github.com/conda-forge/dags-feedstock.git
 	path = feedstocks/dags
 	branch = refs/heads/master
+[submodule "looker-sdk"]
+	url = https://github.com/conda-forge/looker-sdk-feedstock.git
+	path = feedstocks/looker-sdk
+	branch = refs/heads/master
