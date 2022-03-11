@@ -62342,3 +62342,7 @@
 	url = https://github.com/conda-forge/databricks-sql-connector-feedstock.git
 	path = feedstocks/databricks-sql-connector
 	branch = refs/heads/master
+[submodule "synr"]
+	url = https://github.com/conda-forge/synr-feedstock.git
+	path = feedstocks/synr
+	branch = refs/heads/master
