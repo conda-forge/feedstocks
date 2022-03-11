@@ -62346,3 +62346,7 @@
 	url = https://github.com/conda-forge/synr-feedstock.git
 	path = feedstocks/synr
 	branch = refs/heads/master
+[submodule "pip-requirements-parser"]
+	url = https://github.com/conda-forge/pip-requirements-parser-feedstock.git
+	path = feedstocks/pip-requirements-parser
+	branch = refs/heads/master
