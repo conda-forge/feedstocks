@@ -62366,3 +62366,7 @@
 	url = https://github.com/conda-forge/rapidfuzz_capi-feedstock.git
 	path = feedstocks/rapidfuzz_capi
 	branch = refs/heads/master
+[submodule "openhsi"]
+	url = https://github.com/conda-forge/openhsi-feedstock.git
+	path = feedstocks/openhsi
+	branch = refs/heads/master
