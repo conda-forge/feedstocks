@@ -62338,3 +62338,7 @@
 	url = https://github.com/conda-forge/pypdf2_fields-feedstock.git
 	path = feedstocks/pypdf2_fields
 	branch = refs/heads/master
+[submodule "databricks-sql-connector"]
+	url = https://github.com/conda-forge/databricks-sql-connector-feedstock.git
+	path = feedstocks/databricks-sql-connector
+	branch = refs/heads/master
