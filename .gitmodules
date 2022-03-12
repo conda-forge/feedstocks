@@ -62442,3 +62442,7 @@
 	url = https://github.com/conda-forge/async-exit-stack-feedstock.git
 	path = feedstocks/async-exit-stack
 	branch = refs/heads/main
+[submodule "python-forge"]
+	url = https://github.com/conda-forge/python-forge-feedstock.git
+	path = feedstocks/python-forge
+	branch = refs/heads/main
