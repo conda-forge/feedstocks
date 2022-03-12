@@ -62422,3 +62422,7 @@
 	url = https://github.com/conda-forge/transx2gtfs-feedstock.git
 	path = feedstocks/transx2gtfs
 	branch = refs/heads/main
+[submodule "trexio"]
+	url = https://github.com/conda-forge/trexio-feedstock.git
+	path = feedstocks/trexio
+	branch = refs/heads/master
