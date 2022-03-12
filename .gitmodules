@@ -62418,3 +62418,7 @@
 	url = https://github.com/conda-forge/fcd_torch-feedstock.git
 	path = feedstocks/fcd_torch
 	branch = refs/heads/main
+[submodule "transx2gtfs"]
+	url = https://github.com/conda-forge/transx2gtfs-feedstock.git
+	path = feedstocks/transx2gtfs
+	branch = refs/heads/main
