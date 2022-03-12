@@ -62458,3 +62458,7 @@
 	url = https://github.com/conda-forge/opensearch-py-feedstock.git
 	path = feedstocks/opensearch-py
 	branch = refs/heads/main
+[submodule "rastervision-aws-s3"]
+	url = https://github.com/conda-forge/rastervision-aws-s3-feedstock.git
+	path = feedstocks/rastervision-aws-s3
+	branch = refs/heads/main
