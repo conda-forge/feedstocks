@@ -62398,3 +62398,7 @@
 	url = https://github.com/conda-forge/mkdocstrings-python-feedstock.git
 	path = feedstocks/mkdocstrings-python
 	branch = refs/heads/master
+[submodule "atomicfile"]
+	url = https://github.com/conda-forge/atomicfile-feedstock.git
+	path = feedstocks/atomicfile
+	branch = refs/heads/main
