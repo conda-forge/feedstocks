@@ -62382,3 +62382,7 @@
 	url = https://github.com/conda-forge/opam-feedstock.git
 	path = feedstocks/opam
 	branch = refs/heads/master
+[submodule "griffe"]
+	url = https://github.com/conda-forge/griffe-feedstock.git
+	path = feedstocks/griffe
+	branch = refs/heads/master
