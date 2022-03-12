@@ -62426,3 +62426,7 @@
 	url = https://github.com/conda-forge/trexio-feedstock.git
 	path = feedstocks/trexio
 	branch = refs/heads/master
+[submodule "covseisnet"]
+	url = https://github.com/conda-forge/covseisnet-feedstock.git
+	path = feedstocks/covseisnet
+	branch = refs/heads/main
