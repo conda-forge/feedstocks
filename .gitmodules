@@ -62446,3 +62446,7 @@
 	url = https://github.com/conda-forge/python-forge-feedstock.git
 	path = feedstocks/python-forge
 	branch = refs/heads/main
+[submodule "xbatcher"]
+	url = https://github.com/conda-forge/xbatcher-feedstock.git
+	path = feedstocks/xbatcher
+	branch = refs/heads/main
