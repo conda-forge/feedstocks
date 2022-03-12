@@ -62438,3 +62438,7 @@
 	url = https://github.com/conda-forge/makeself-feedstock.git
 	path = feedstocks/makeself
 	branch = refs/heads/main
+[submodule "async-exit-stack"]
+	url = https://github.com/conda-forge/async-exit-stack-feedstock.git
+	path = feedstocks/async-exit-stack
+	branch = refs/heads/main
