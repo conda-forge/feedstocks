@@ -62414,3 +62414,7 @@
 	url = https://github.com/conda-forge/delta-feedstock.git
 	path = feedstocks/delta
 	branch = refs/heads/main
+[submodule "fcd_torch"]
+	url = https://github.com/conda-forge/fcd_torch-feedstock.git
+	path = feedstocks/fcd_torch
+	branch = refs/heads/main
