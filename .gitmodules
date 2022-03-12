@@ -62454,3 +62454,7 @@
 	url = https://github.com/conda-forge/pymp-pypi-feedstock.git
 	path = feedstocks/pymp-pypi
 	branch = refs/heads/main
+[submodule "opensearch-py"]
+	url = https://github.com/conda-forge/opensearch-py-feedstock.git
+	path = feedstocks/opensearch-py
+	branch = refs/heads/main
