@@ -62434,3 +62434,7 @@
 	url = https://github.com/conda-forge/lat_lon_parser-feedstock.git
 	path = feedstocks/lat_lon_parser
 	branch = refs/heads/main
+[submodule "makeself"]
+	url = https://github.com/conda-forge/makeself-feedstock.git
+	path = feedstocks/makeself
+	branch = refs/heads/main
