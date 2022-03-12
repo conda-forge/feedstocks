@@ -62430,3 +62430,7 @@
 	url = https://github.com/conda-forge/covseisnet-feedstock.git
 	path = feedstocks/covseisnet
 	branch = refs/heads/main
+[submodule "lat_lon_parser"]
+	url = https://github.com/conda-forge/lat_lon_parser-feedstock.git
+	path = feedstocks/lat_lon_parser
+	branch = refs/heads/main
