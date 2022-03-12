@@ -62402,3 +62402,7 @@
 	url = https://github.com/conda-forge/atomicfile-feedstock.git
 	path = feedstocks/atomicfile
 	branch = refs/heads/main
+[submodule "periodic-table-plotter"]
+	url = https://github.com/conda-forge/periodic-table-plotter-feedstock.git
+	path = feedstocks/periodic-table-plotter
+	branch = refs/heads/main
