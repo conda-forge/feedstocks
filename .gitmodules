@@ -62410,3 +62410,7 @@
 	url = https://github.com/conda-forge/coiled-cloud-feedstock.git
 	path = feedstocks/coiled-cloud
 	branch = refs/heads/main
+[submodule "delta"]
+	url = https://github.com/conda-forge/delta-feedstock.git
+	path = feedstocks/delta
+	branch = refs/heads/main
