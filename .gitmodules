@@ -62386,3 +62386,7 @@
 	url = https://github.com/conda-forge/griffe-feedstock.git
 	path = feedstocks/griffe
 	branch = refs/heads/master
+[submodule "jupyterview"]
+	url = https://github.com/conda-forge/jupyterview-feedstock.git
+	path = feedstocks/jupyterview
+	branch = refs/heads/master
