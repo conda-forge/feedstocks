@@ -62470,3 +62470,7 @@
 	url = https://github.com/conda-forge/dbstep-feedstock.git
 	path = feedstocks/dbstep
 	branch = refs/heads/main
+[submodule "gromacs"]
+	url = https://github.com/conda-forge/gromacs-feedstock.git
+	path = feedstocks/gromacs
+	branch = refs/heads/main
