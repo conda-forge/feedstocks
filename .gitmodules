@@ -62462,3 +62462,7 @@
 	url = https://github.com/conda-forge/rastervision-aws-s3-feedstock.git
 	path = feedstocks/rastervision-aws-s3
 	branch = refs/heads/main
+[submodule "hurry.filesize"]
+	url = https://github.com/conda-forge/hurry.filesize-feedstock.git
+	path = feedstocks/hurry.filesize
+	branch = refs/heads/main
