@@ -62478,3 +62478,7 @@
 	url = https://github.com/conda-forge/epics-striptool-feedstock.git
 	path = feedstocks/epics-striptool
 	branch = refs/heads/main
+[submodule "spyql"]
+	url = https://github.com/conda-forge/spyql-feedstock.git
+	path = feedstocks/spyql
+	branch = refs/heads/main
