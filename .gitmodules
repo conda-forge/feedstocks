@@ -62474,3 +62474,7 @@
 	url = https://github.com/conda-forge/gromacs-feedstock.git
 	path = feedstocks/gromacs
 	branch = refs/heads/main
+[submodule "epics-striptool"]
+	url = https://github.com/conda-forge/epics-striptool-feedstock.git
+	path = feedstocks/epics-striptool
+	branch = refs/heads/main
