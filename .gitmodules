@@ -157,7 +157,7 @@
 [submodule "gdal"]
 	url = https://github.com/conda-forge/gdal-feedstock.git
 	path = feedstocks/gdal
-	branch = refs/heads/master
+	branch = refs/heads/main
 [submodule "openjpeg"]
 	url = https://github.com/conda-forge/openjpeg-feedstock.git
 	path = feedstocks/openjpeg
