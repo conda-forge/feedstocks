@@ -62494,3 +62494,7 @@
 	url = https://github.com/conda-forge/epics-probe-feedstock.git
 	path = feedstocks/epics-probe
 	branch = refs/heads/main
+[submodule "wbgapi"]
+	url = https://github.com/conda-forge/wbgapi-feedstock.git
+	path = feedstocks/wbgapi
+	branch = refs/heads/main
