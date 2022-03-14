@@ -62482,3 +62482,7 @@
 	url = https://github.com/conda-forge/spyql-feedstock.git
 	path = feedstocks/spyql
 	branch = refs/heads/main
+[submodule "y-py"]
+	url = https://github.com/conda-forge/y-py-feedstock.git
+	path = feedstocks/y-py
+	branch = refs/heads/main
