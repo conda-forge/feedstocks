@@ -62486,3 +62486,7 @@
 	url = https://github.com/conda-forge/y-py-feedstock.git
 	path = feedstocks/y-py
 	branch = refs/heads/main
+[submodule "plantuml"]
+	url = https://github.com/conda-forge/plantuml-feedstock.git
+	path = feedstocks/plantuml
+	branch = refs/heads/main
