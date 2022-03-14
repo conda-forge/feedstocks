@@ -62490,3 +62490,7 @@
 	url = https://github.com/conda-forge/plantuml-feedstock.git
 	path = feedstocks/plantuml
 	branch = refs/heads/main
+[submodule "epics-probe"]
+	url = https://github.com/conda-forge/epics-probe-feedstock.git
+	path = feedstocks/epics-probe
+	branch = refs/heads/main
