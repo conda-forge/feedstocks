@@ -62542,3 +62542,7 @@
 	url = https://github.com/conda-forge/hyperts-feedstock.git
 	path = feedstocks/hyperts
 	branch = refs/heads/main
+[submodule "ovh"]
+	url = https://github.com/conda-forge/ovh-feedstock.git
+	path = feedstocks/ovh
+	branch = refs/heads/main
