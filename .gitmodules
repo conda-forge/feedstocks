@@ -62554,3 +62554,7 @@
 	url = https://github.com/conda-forge/morph-feedstock.git
 	path = feedstocks/morph
 	branch = refs/heads/main
+[submodule "orange3-worldhappiness"]
+	url = https://github.com/conda-forge/orange3-worldhappiness-feedstock.git
+	path = feedstocks/orange3-worldhappiness
+	branch = refs/heads/main
