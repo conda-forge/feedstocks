@@ -62510,3 +62510,7 @@
 	url = https://github.com/conda-forge/pytest-rich-feedstock.git
 	path = feedstocks/pytest-rich
 	branch = refs/heads/main
+[submodule "penaltymodel"]
+	url = https://github.com/conda-forge/penaltymodel-feedstock.git
+	path = feedstocks/penaltymodel
+	branch = refs/heads/main
