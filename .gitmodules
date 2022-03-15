@@ -62546,3 +62546,7 @@
 	url = https://github.com/conda-forge/ovh-feedstock.git
 	path = feedstocks/ovh
 	branch = refs/heads/main
+[submodule "mkdocstrings-python-legacy"]
+	url = https://github.com/conda-forge/mkdocstrings-python-legacy-feedstock.git
+	path = feedstocks/mkdocstrings-python-legacy
+	branch = refs/heads/main
