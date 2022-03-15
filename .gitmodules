@@ -62506,3 +62506,7 @@
 	url = https://github.com/conda-forge/xeofs-feedstock.git
 	path = feedstocks/xeofs
 	branch = refs/heads/main
+[submodule "pytest-rich"]
+	url = https://github.com/conda-forge/pytest-rich-feedstock.git
+	path = feedstocks/pytest-rich
+	branch = refs/heads/main
