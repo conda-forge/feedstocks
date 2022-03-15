@@ -62550,3 +62550,7 @@
 	url = https://github.com/conda-forge/mkdocstrings-python-legacy-feedstock.git
 	path = feedstocks/mkdocstrings-python-legacy
 	branch = refs/heads/main
+[submodule "morph"]
+	url = https://github.com/conda-forge/morph-feedstock.git
+	path = feedstocks/morph
+	branch = refs/heads/main
