@@ -62526,3 +62526,7 @@
 	url = https://github.com/conda-forge/tcplotter-feedstock.git
 	path = feedstocks/tcplotter
 	branch = refs/heads/main
+[submodule "diffrax"]
+	url = https://github.com/conda-forge/diffrax-feedstock.git
+	path = feedstocks/diffrax
+	branch = refs/heads/main
