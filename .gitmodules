@@ -62534,3 +62534,7 @@
 	url = https://github.com/conda-forge/causalml-feedstock.git
 	path = feedstocks/causalml
 	branch = refs/heads/main
+[submodule "domdf-python-tools"]
+	url = https://github.com/conda-forge/domdf-python-tools-feedstock.git
+	path = feedstocks/domdf-python-tools
+	branch = refs/heads/main
