@@ -62530,3 +62530,7 @@
 	url = https://github.com/conda-forge/diffrax-feedstock.git
 	path = feedstocks/diffrax
 	branch = refs/heads/main
+[submodule "causalml"]
+	url = https://github.com/conda-forge/causalml-feedstock.git
+	path = feedstocks/causalml
+	branch = refs/heads/main
