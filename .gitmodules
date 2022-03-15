@@ -62566,3 +62566,7 @@
 	url = https://github.com/conda-forge/yad-feedstock.git
 	path = feedstocks/yad
 	branch = refs/heads/main
+[submodule "notify2"]
+	url = https://github.com/conda-forge/notify2-feedstock.git
+	path = feedstocks/notify2
+	branch = refs/heads/main
