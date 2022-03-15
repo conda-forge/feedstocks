@@ -62522,3 +62522,7 @@
 	url = https://github.com/conda-forge/equinox-feedstock.git
 	path = feedstocks/equinox
 	branch = refs/heads/main
+[submodule "tcplotter"]
+	url = https://github.com/conda-forge/tcplotter-feedstock.git
+	path = feedstocks/tcplotter
+	branch = refs/heads/main
