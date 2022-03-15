@@ -62518,3 +62518,7 @@
 	url = https://github.com/conda-forge/ptxcompiler-feedstock.git
 	path = feedstocks/ptxcompiler
 	branch = refs/heads/main
+[submodule "equinox"]
+	url = https://github.com/conda-forge/equinox-feedstock.git
+	path = feedstocks/equinox
+	branch = refs/heads/main
