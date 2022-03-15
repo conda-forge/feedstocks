@@ -62514,3 +62514,7 @@
 	url = https://github.com/conda-forge/penaltymodel-feedstock.git
 	path = feedstocks/penaltymodel
 	branch = refs/heads/main
+[submodule "ptxcompiler"]
+	url = https://github.com/conda-forge/ptxcompiler-feedstock.git
+	path = feedstocks/ptxcompiler
+	branch = refs/heads/main
