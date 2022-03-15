@@ -62498,3 +62498,7 @@
 	url = https://github.com/conda-forge/wbgapi-feedstock.git
 	path = feedstocks/wbgapi
 	branch = refs/heads/main
+[submodule "pdtypes"]
+	url = https://github.com/conda-forge/pdtypes-feedstock.git
+	path = feedstocks/pdtypes
+	branch = refs/heads/main
