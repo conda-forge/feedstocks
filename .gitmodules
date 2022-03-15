@@ -62562,3 +62562,7 @@
 	url = https://github.com/conda-forge/thermostate-feedstock.git
 	path = feedstocks/thermostate
 	branch = refs/heads/main
+[submodule "yad"]
+	url = https://github.com/conda-forge/yad-feedstock.git
+	path = feedstocks/yad
+	branch = refs/heads/main
