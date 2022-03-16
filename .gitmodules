@@ -62578,3 +62578,7 @@
 	url = https://github.com/conda-forge/picharsso-feedstock.git
 	path = feedstocks/picharsso
 	branch = refs/heads/main
+[submodule "deprecation-alias"]
+	url = https://github.com/conda-forge/deprecation-alias-feedstock.git
+	path = feedstocks/deprecation-alias
+	branch = refs/heads/main
