@@ -62614,3 +62614,7 @@
 	url = https://github.com/conda-forge/enso_metrics-feedstock.git
 	path = feedstocks/enso_metrics
 	branch = refs/heads/main
+[submodule "dom-toml"]
+	url = https://github.com/conda-forge/dom-toml-feedstock.git
+	path = feedstocks/dom-toml
+	branch = refs/heads/main
