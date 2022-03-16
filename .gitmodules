@@ -62606,3 +62606,7 @@
 	url = https://github.com/conda-forge/geocat-f2py-feedstock.git
 	path = feedstocks/geocat-f2py
 	branch = refs/heads/main
+[submodule "conda-libmamba-solver"]
+	url = https://github.com/conda-forge/conda-libmamba-solver-feedstock.git
+	path = feedstocks/conda-libmamba-solver
+	branch = refs/heads/main
