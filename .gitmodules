@@ -62590,3 +62590,7 @@
 	url = https://github.com/conda-forge/openfe-feedstock.git
 	path = feedstocks/openfe
 	branch = refs/heads/main
+[submodule "apeye"]
+	url = https://github.com/conda-forge/apeye-feedstock.git
+	path = feedstocks/apeye
+	branch = refs/heads/main
