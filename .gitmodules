@@ -3465,7 +3465,7 @@
 [submodule "conda-build"]
 	path = feedstocks/conda-build
 	url = https://github.com/conda-forge/conda-build-feedstock.git
-	branch = refs/heads/master
+	branch = refs/heads/main
 [submodule "circleci-helpers"]
 	path = feedstocks/circleci-helpers
 	url = https://github.com/conda-forge/circleci-helpers-feedstock.git
