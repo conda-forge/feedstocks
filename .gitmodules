@@ -225,7 +225,7 @@
 [submodule "pandoc"]
 	url = https://github.com/conda-forge/pandoc-feedstock.git
 	path = feedstocks/pandoc
-	branch = refs/heads/master
+	branch = refs/heads/main
 [submodule "pyinotify"]
 	url = https://github.com/conda-forge/pyinotify-feedstock.git
 	path = feedstocks/pyinotify
