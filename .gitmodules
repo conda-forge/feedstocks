@@ -21,7 +21,7 @@
 [submodule "conda-build-all"]
 	url = https://github.com/conda-forge/conda-build-all-feedstock.git
 	path = feedstocks/conda-build-all
-	branch = refs/heads/master
+	branch = refs/heads/main
 [submodule "pyproj"]
 	url = https://github.com/conda-forge/pyproj-feedstock.git
 	path = feedstocks/pyproj
