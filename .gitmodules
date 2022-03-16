@@ -2829,7 +2829,7 @@
 [submodule "gunicorn"]
 	path = feedstocks/gunicorn
 	url = https://github.com/conda-forge/gunicorn-feedstock.git
-	branch = refs/heads/master
+	branch = refs/heads/main
 [submodule "rq"]
 	path = feedstocks/rq
 	url = https://github.com/conda-forge/rq-feedstock.git
