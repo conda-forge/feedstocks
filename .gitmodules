@@ -621,7 +621,7 @@
 [submodule "django-celery"]
 	url = https://github.com/conda-forge/django-celery-feedstock.git
 	path = feedstocks/django-celery
-	branch = refs/heads/master
+	branch = refs/heads/main
 [submodule "django"]
 	url = https://github.com/conda-forge/django-feedstock.git
 	path = feedstocks/django
