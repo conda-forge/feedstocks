@@ -62610,3 +62610,7 @@
 	url = https://github.com/conda-forge/conda-libmamba-solver-feedstock.git
 	path = feedstocks/conda-libmamba-solver
 	branch = refs/heads/main
+[submodule "enso_metrics"]
+	url = https://github.com/conda-forge/enso_metrics-feedstock.git
+	path = feedstocks/enso_metrics
+	branch = refs/heads/main
