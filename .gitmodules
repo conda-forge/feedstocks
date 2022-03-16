@@ -62594,3 +62594,7 @@
 	url = https://github.com/conda-forge/apeye-feedstock.git
 	path = feedstocks/apeye
 	branch = refs/heads/main
+[submodule "mapgenerator"]
+	url = https://github.com/conda-forge/mapgenerator-feedstock.git
+	path = feedstocks/mapgenerator
+	branch = refs/heads/main
