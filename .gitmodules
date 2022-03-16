@@ -62570,3 +62570,7 @@
 	url = https://github.com/conda-forge/notify2-feedstock.git
 	path = feedstocks/notify2
 	branch = refs/heads/main
+[submodule "mms-python-adapter"]
+	url = https://github.com/conda-forge/mms-python-adapter-feedstock.git
+	path = feedstocks/mms-python-adapter
+	branch = refs/heads/main
