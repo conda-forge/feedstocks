@@ -62618,3 +62618,7 @@
 	url = https://github.com/conda-forge/dom-toml-feedstock.git
 	path = feedstocks/dom-toml
 	branch = refs/heads/main
+[submodule "squarify"]
+	url = https://github.com/conda-forge/squarify-feedstock.git
+	path = feedstocks/squarify
+	branch = refs/heads/main
