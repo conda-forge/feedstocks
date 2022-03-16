@@ -62602,3 +62602,7 @@
 	url = https://github.com/conda-forge/asdf-coordinates-schemas-feedstock.git
 	path = feedstocks/asdf-coordinates-schemas
 	branch = refs/heads/main
+[submodule "geocat-f2py"]
+	url = https://github.com/conda-forge/geocat-f2py-feedstock.git
+	path = feedstocks/geocat-f2py
+	branch = refs/heads/main
