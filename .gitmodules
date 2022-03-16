@@ -62586,3 +62586,7 @@
 	url = https://github.com/conda-forge/lomap2-feedstock.git
 	path = feedstocks/lomap2
 	branch = refs/heads/main
+[submodule "openfe"]
+	url = https://github.com/conda-forge/openfe-feedstock.git
+	path = feedstocks/openfe
+	branch = refs/heads/main
