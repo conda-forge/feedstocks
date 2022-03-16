@@ -62598,3 +62598,7 @@
 	url = https://github.com/conda-forge/rnc2rng-feedstock.git
 	path = feedstocks/rnc2rng
 	branch = refs/heads/main
+[submodule "asdf-coordinates-schemas"]
+	url = https://github.com/conda-forge/asdf-coordinates-schemas-feedstock.git
+	path = feedstocks/asdf-coordinates-schemas
+	branch = refs/heads/main
