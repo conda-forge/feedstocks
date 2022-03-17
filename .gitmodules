@@ -62634,3 +62634,7 @@
 	url = https://github.com/conda-forge/algorithms-feedstock.git
 	path = feedstocks/algorithms
 	branch = refs/heads/main
+[submodule "asdf-astropy"]
+	url = https://github.com/conda-forge/asdf-astropy-feedstock.git
+	path = feedstocks/asdf-astropy
+	branch = refs/heads/main
