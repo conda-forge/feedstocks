@@ -62622,3 +62622,7 @@
 	url = https://github.com/conda-forge/squarify-feedstock.git
 	path = feedstocks/squarify
 	branch = refs/heads/main
+[submodule "mkdocstrings-python-legacy"]
+	url = https://github.com/conda-forge/mkdocstrings-python-legacy-feedstock.git
+	path = feedstocks/mkdocstrings-python-legacy
+	branch = refs/heads/main
