@@ -62638,3 +62638,7 @@
 	url = https://github.com/conda-forge/asdf-astropy-feedstock.git
 	path = feedstocks/asdf-astropy
 	branch = refs/heads/main
+[submodule "mistletoe"]
+	url = https://github.com/conda-forge/mistletoe-feedstock.git
+	path = feedstocks/mistletoe
+	branch = refs/heads/main
