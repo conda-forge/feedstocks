@@ -62646,3 +62646,7 @@
 	url = https://github.com/conda-forge/unicorn-binance-rest-api-feedstock.git
 	path = feedstocks/unicorn-binance-rest-api
 	branch = refs/heads/main
+[submodule "unicorn-binance-websocket-api"]
+	url = https://github.com/conda-forge/unicorn-binance-websocket-api-feedstock.git
+	path = feedstocks/unicorn-binance-websocket-api
+	branch = refs/heads/main
