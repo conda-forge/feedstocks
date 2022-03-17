@@ -2565,7 +2565,7 @@
 [submodule "vtk"]
 	path = feedstocks/vtk
 	url = https://github.com/conda-forge/vtk-feedstock.git
-	branch = refs/heads/master
+	branch = refs/heads/main
 [submodule "backports.functools_lru_cache"]
 	path = feedstocks/backports.functools_lru_cache
 	url = https://github.com/conda-forge/backports.functools_lru_cache-feedstock.git
