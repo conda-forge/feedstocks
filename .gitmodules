@@ -141,7 +141,7 @@
 [submodule "tensorflow"]
 	url = https://github.com/conda-forge/tensorflow-feedstock.git
 	path = feedstocks/tensorflow
-	branch = refs/heads/master
+	branch = refs/heads/main
 [submodule "trmm_rsl"]
 	url = https://github.com/conda-forge/trmm_rsl-feedstock.git
 	path = feedstocks/trmm_rsl
