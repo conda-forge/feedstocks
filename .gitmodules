@@ -62630,3 +62630,7 @@
 	url = https://github.com/conda-forge/unicorn-fy-feedstock.git
 	path = feedstocks/unicorn-fy
 	branch = refs/heads/main
+[submodule "algorithms"]
+	url = https://github.com/conda-forge/algorithms-feedstock.git
+	path = feedstocks/algorithms
+	branch = refs/heads/main
