@@ -62686,3 +62686,7 @@
 	url = https://github.com/conda-forge/penaltymodel-cache-feedstock.git
 	path = feedstocks/penaltymodel-cache
 	branch = refs/heads/main
+[submodule "penaltymodel-lp"]
+	url = https://github.com/conda-forge/penaltymodel-lp-feedstock.git
+	path = feedstocks/penaltymodel-lp
+	branch = refs/heads/main
