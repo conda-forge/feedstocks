@@ -62666,3 +62666,7 @@
 	url = https://github.com/conda-forge/pytsql-feedstock.git
 	path = feedstocks/pytsql
 	branch = refs/heads/main
+[submodule "consolekit"]
+	url = https://github.com/conda-forge/consolekit-feedstock.git
+	path = feedstocks/consolekit
+	branch = refs/heads/main
