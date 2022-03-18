@@ -62654,3 +62654,7 @@
 	url = https://github.com/conda-forge/hboard-widget-feedstock.git
 	path = feedstocks/hboard-widget
 	branch = refs/heads/main
+[submodule "config"]
+	url = https://github.com/conda-forge/config-feedstock.git
+	path = feedstocks/config
+	branch = refs/heads/main
