@@ -62662,3 +62662,7 @@
 	url = https://github.com/conda-forge/unicorn-binance-local-depth-cache-feedstock.git
 	path = feedstocks/unicorn-binance-local-depth-cache
 	branch = refs/heads/main
+[submodule "pytsql"]
+	url = https://github.com/conda-forge/pytsql-feedstock.git
+	path = feedstocks/pytsql
+	branch = refs/heads/main
