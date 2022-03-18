@@ -62658,3 +62658,7 @@
 	url = https://github.com/conda-forge/config-feedstock.git
 	path = feedstocks/config
 	branch = refs/heads/main
+[submodule "unicorn-binance-local-depth-cache"]
+	url = https://github.com/conda-forge/unicorn-binance-local-depth-cache-feedstock.git
+	path = feedstocks/unicorn-binance-local-depth-cache
+	branch = refs/heads/main
