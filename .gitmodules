@@ -62702,3 +62702,7 @@
 	url = https://github.com/conda-forge/exo_puppies-feedstock.git
 	path = feedstocks/exo_puppies
 	branch = refs/heads/main
+[submodule "ligo-remote-epics-scripts"]
+	url = https://github.com/conda-forge/ligo-remote-epics-scripts-feedstock.git
+	path = feedstocks/ligo-remote-epics-scripts
+	branch = refs/heads/main
