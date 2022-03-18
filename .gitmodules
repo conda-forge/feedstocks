@@ -62670,3 +62670,7 @@
 	url = https://github.com/conda-forge/consolekit-feedstock.git
 	path = feedstocks/consolekit
 	branch = refs/heads/main
+[submodule "uproot-browser"]
+	url = https://github.com/conda-forge/uproot-browser-feedstock.git
+	path = feedstocks/uproot-browser
+	branch = refs/heads/main
