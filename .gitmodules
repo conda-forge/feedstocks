@@ -62710,3 +62710,7 @@
 	url = https://github.com/conda-forge/qredis-feedstock.git
 	path = feedstocks/qredis
 	branch = refs/heads/main
+[submodule "av2"]
+	url = https://github.com/conda-forge/av2-feedstock.git
+	path = feedstocks/av2
+	branch = refs/heads/main
