@@ -62706,3 +62706,7 @@
 	url = https://github.com/conda-forge/ligo-remote-epics-scripts-feedstock.git
 	path = feedstocks/ligo-remote-epics-scripts
 	branch = refs/heads/main
+[submodule "qredis"]
+	url = https://github.com/conda-forge/qredis-feedstock.git
+	path = feedstocks/qredis
+	branch = refs/heads/main
