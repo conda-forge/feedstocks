@@ -62678,3 +62678,7 @@
 	url = https://github.com/conda-forge/citeproc-py-feedstock.git
 	path = feedstocks/citeproc-py
 	branch = refs/heads/main
+[submodule "cloudsaga"]
+	url = https://github.com/conda-forge/cloudsaga-feedstock.git
+	path = feedstocks/cloudsaga
+	branch = refs/heads/main
