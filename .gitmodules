@@ -62682,3 +62682,7 @@
 	url = https://github.com/conda-forge/cloudsaga-feedstock.git
 	path = feedstocks/cloudsaga
 	branch = refs/heads/main
+[submodule "penaltymodel-cache"]
+	url = https://github.com/conda-forge/penaltymodel-cache-feedstock.git
+	path = feedstocks/penaltymodel-cache
+	branch = refs/heads/main
