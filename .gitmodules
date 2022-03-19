@@ -62718,3 +62718,7 @@
 	url = https://github.com/conda-forge/dwavebinarycsp-feedstock.git
 	path = feedstocks/dwavebinarycsp
 	branch = refs/heads/main
+[submodule "dwave-networkx"]
+	url = https://github.com/conda-forge/dwave-networkx-feedstock.git
+	path = feedstocks/dwave-networkx
+	branch = refs/heads/main
