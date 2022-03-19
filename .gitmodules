@@ -62730,3 +62730,7 @@
 	url = https://github.com/conda-forge/pyrsm-feedstock.git
 	path = feedstocks/pyrsm
 	branch = refs/heads/main
+[submodule "minorminer"]
+	url = https://github.com/conda-forge/minorminer-feedstock.git
+	path = feedstocks/minorminer
+	branch = refs/heads/main
