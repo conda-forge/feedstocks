@@ -62726,3 +62726,7 @@
 	url = https://github.com/conda-forge/penaltymodel-mip-feedstock.git
 	path = feedstocks/penaltymodel-mip
 	branch = refs/heads/main
+[submodule "pyrsm"]
+	url = https://github.com/conda-forge/pyrsm-feedstock.git
+	path = feedstocks/pyrsm
+	branch = refs/heads/main
