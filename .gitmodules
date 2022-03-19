@@ -62714,3 +62714,7 @@
 	url = https://github.com/conda-forge/av2-feedstock.git
 	path = feedstocks/av2
 	branch = refs/heads/main
+[submodule "dwavebinarycsp"]
+	url = https://github.com/conda-forge/dwavebinarycsp-feedstock.git
+	path = feedstocks/dwavebinarycsp
+	branch = refs/heads/main
