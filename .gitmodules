@@ -62722,3 +62722,7 @@
 	url = https://github.com/conda-forge/dwave-networkx-feedstock.git
 	path = feedstocks/dwave-networkx
 	branch = refs/heads/main
+[submodule "penaltymodel-mip"]
+	url = https://github.com/conda-forge/penaltymodel-mip-feedstock.git
+	path = feedstocks/penaltymodel-mip
+	branch = refs/heads/main
