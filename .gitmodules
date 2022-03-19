@@ -62734,3 +62734,7 @@
 	url = https://github.com/conda-forge/minorminer-feedstock.git
 	path = feedstocks/minorminer
 	branch = refs/heads/main
+[submodule "datalad-installer"]
+	url = https://github.com/conda-forge/datalad-installer-feedstock.git
+	path = feedstocks/datalad-installer
+	branch = refs/heads/main
