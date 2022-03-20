@@ -62738,3 +62738,7 @@
 	url = https://github.com/conda-forge/datalad-installer-feedstock.git
 	path = feedstocks/datalad-installer
 	branch = refs/heads/main
+[submodule "la_forge"]
+	url = https://github.com/conda-forge/la_forge-feedstock.git
+	path = feedstocks/la_forge
+	branch = refs/heads/main
