@@ -62746,3 +62746,7 @@
 	url = https://github.com/conda-forge/libxcrypt-feedstock.git
 	path = feedstocks/libxcrypt
 	branch = refs/heads/main
+[submodule "mypy-boto3-redshift-data"]
+	url = https://github.com/conda-forge/mypy-boto3-redshift-data-feedstock.git
+	path = feedstocks/mypy-boto3-redshift-data
+	branch = refs/heads/main
