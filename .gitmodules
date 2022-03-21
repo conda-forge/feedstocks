@@ -62782,3 +62782,7 @@
 	url = https://github.com/conda-forge/font-ttf-noto-cjk-feedstock.git
 	path = feedstocks/font-ttf-noto-cjk
 	branch = refs/heads/main
+[submodule "font-ttf-noto-emoji"]
+	url = https://github.com/conda-forge/font-ttf-noto-emoji-feedstock.git
+	path = feedstocks/font-ttf-noto-emoji
+	branch = refs/heads/main
