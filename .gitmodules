@@ -62742,3 +62742,7 @@
 	url = https://github.com/conda-forge/la_forge-feedstock.git
 	path = feedstocks/la_forge
 	branch = refs/heads/main
+[submodule "libxcrypt"]
+	url = https://github.com/conda-forge/libxcrypt-feedstock.git
+	path = feedstocks/libxcrypt
+	branch = refs/heads/main
