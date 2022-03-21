@@ -62750,3 +62750,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-redshift-data-feedstock.git
 	path = feedstocks/mypy-boto3-redshift-data
 	branch = refs/heads/main
+[submodule "google-cloud-dataplex"]
+	url = https://github.com/conda-forge/google-cloud-dataplex-feedstock.git
+	path = feedstocks/google-cloud-dataplex
+	branch = refs/heads/main
