@@ -62774,3 +62774,7 @@
 	url = https://github.com/conda-forge/reasonable-feedstock.git
 	path = feedstocks/reasonable
 	branch = refs/heads/main
+[submodule "font-ttf-noto"]
+	url = https://github.com/conda-forge/font-ttf-noto-feedstock.git
+	path = feedstocks/font-ttf-noto
+	branch = refs/heads/main
