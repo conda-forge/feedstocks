@@ -62766,3 +62766,7 @@
 	url = https://github.com/conda-forge/r-crsmeta-feedstock.git
 	path = feedstocks/r-crsmeta
 	branch = refs/heads/main
+[submodule "r-proj"]
+	url = https://github.com/conda-forge/r-proj-feedstock.git
+	path = feedstocks/r-proj
+	branch = refs/heads/main
