@@ -62778,3 +62778,7 @@
 	url = https://github.com/conda-forge/font-ttf-noto-feedstock.git
 	path = feedstocks/font-ttf-noto
 	branch = refs/heads/main
+[submodule "font-ttf-noto-cjk"]
+	url = https://github.com/conda-forge/font-ttf-noto-cjk-feedstock.git
+	path = feedstocks/font-ttf-noto-cjk
+	branch = refs/heads/main
