@@ -62786,3 +62786,7 @@
 	url = https://github.com/conda-forge/font-ttf-noto-emoji-feedstock.git
 	path = feedstocks/font-ttf-noto-emoji
 	branch = refs/heads/main
+[submodule "spire-pipeline"]
+	url = https://github.com/conda-forge/spire-pipeline-feedstock.git
+	path = feedstocks/spire-pipeline
+	branch = refs/heads/main
