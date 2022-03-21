@@ -62758,3 +62758,7 @@
 	url = https://github.com/conda-forge/simplemachinesforum-feedstock.git
 	path = feedstocks/simplemachinesforum
 	branch = refs/heads/main
+[submodule "r-cenroc"]
+	url = https://github.com/conda-forge/r-cenroc-feedstock.git
+	path = feedstocks/r-cenroc
+	branch = refs/heads/main
