@@ -62770,3 +62770,7 @@
 	url = https://github.com/conda-forge/r-proj-feedstock.git
 	path = feedstocks/r-proj
 	branch = refs/heads/main
+[submodule "reasonable"]
+	url = https://github.com/conda-forge/reasonable-feedstock.git
+	path = feedstocks/reasonable
+	branch = refs/heads/main
