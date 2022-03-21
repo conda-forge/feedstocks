@@ -62790,3 +62790,7 @@
 	url = https://github.com/conda-forge/spire-pipeline-feedstock.git
 	path = feedstocks/spire-pipeline
 	branch = refs/heads/main
+[submodule "odc-geo"]
+	url = https://github.com/conda-forge/odc-geo-feedstock.git
+	path = feedstocks/odc-geo
+	branch = refs/heads/main
