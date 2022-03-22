@@ -62814,3 +62814,7 @@
 	url = https://github.com/conda-forge/moltemplate-feedstock.git
 	path = feedstocks/moltemplate
 	branch = refs/heads/main
+[submodule "scikit-digital-health"]
+	url = https://github.com/conda-forge/scikit-digital-health-feedstock.git
+	path = feedstocks/scikit-digital-health
+	branch = refs/heads/main
