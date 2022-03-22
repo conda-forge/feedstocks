@@ -62798,3 +62798,7 @@
 	url = https://github.com/conda-forge/spam-feedstock.git
 	path = feedstocks/spam
 	branch = refs/heads/main
+[submodule "r-reproj"]
+	url = https://github.com/conda-forge/r-reproj-feedstock.git
+	path = feedstocks/r-reproj
+	branch = refs/heads/main
