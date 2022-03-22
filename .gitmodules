@@ -62818,3 +62818,7 @@
 	url = https://github.com/conda-forge/scikit-digital-health-feedstock.git
 	path = feedstocks/scikit-digital-health
 	branch = refs/heads/main
+[submodule "pennylane-cirq"]
+	url = https://github.com/conda-forge/pennylane-cirq-feedstock.git
+	path = feedstocks/pennylane-cirq
+	branch = refs/heads/main
