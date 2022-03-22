@@ -62802,3 +62802,7 @@
 	url = https://github.com/conda-forge/r-reproj-feedstock.git
 	path = feedstocks/r-reproj
 	branch = refs/heads/main
+[submodule "py-linux-ports"]
+	url = https://github.com/conda-forge/py-linux-ports-feedstock.git
+	path = feedstocks/py-linux-ports
+	branch = refs/heads/main
