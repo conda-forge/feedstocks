@@ -62822,3 +62822,7 @@
 	url = https://github.com/conda-forge/pennylane-cirq-feedstock.git
 	path = feedstocks/pennylane-cirq
 	branch = refs/heads/main
+[submodule "fastapi-users-db-sqlalchemy"]
+	url = https://github.com/conda-forge/fastapi-users-db-sqlalchemy-feedstock.git
+	path = feedstocks/fastapi-users-db-sqlalchemy
+	branch = refs/heads/main
