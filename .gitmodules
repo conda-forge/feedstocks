@@ -62794,3 +62794,7 @@
 	url = https://github.com/conda-forge/odc-geo-feedstock.git
 	path = feedstocks/odc-geo
 	branch = refs/heads/main
+[submodule "spam"]
+	url = https://github.com/conda-forge/spam-feedstock.git
+	path = feedstocks/spam
+	branch = refs/heads/main
