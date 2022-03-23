@@ -62850,3 +62850,7 @@
 	url = https://github.com/conda-forge/torchdata-feedstock.git
 	path = feedstocks/torchdata
 	branch = refs/heads/main
+[submodule "qsharp-core"]
+	url = https://github.com/conda-forge/qsharp-core-feedstock.git
+	path = feedstocks/qsharp-core
+	branch = refs/heads/main
