@@ -62842,3 +62842,7 @@
 	url = https://github.com/conda-forge/nelson-siegel-svensson-feedstock.git
 	path = feedstocks/nelson-siegel-svensson
 	branch = refs/heads/main
+[submodule "focal-stats"]
+	url = https://github.com/conda-forge/focal-stats-feedstock.git
+	path = feedstocks/focal-stats
+	branch = refs/heads/main
