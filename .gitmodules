@@ -62882,3 +62882,7 @@
 	url = https://github.com/conda-forge/fps-nbconvert-feedstock.git
 	path = feedstocks/fps-nbconvert
 	branch = refs/heads/main
+[submodule "fps-terminals"]
+	url = https://github.com/conda-forge/fps-terminals-feedstock.git
+	path = feedstocks/fps-terminals
+	branch = refs/heads/main
