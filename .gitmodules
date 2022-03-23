@@ -62830,3 +62830,7 @@
 	url = https://github.com/conda-forge/rdkit_utilities-feedstock.git
 	path = feedstocks/rdkit_utilities
 	branch = refs/heads/main
+[submodule "fps-auth"]
+	url = https://github.com/conda-forge/fps-auth-feedstock.git
+	path = feedstocks/fps-auth
+	branch = refs/heads/main
