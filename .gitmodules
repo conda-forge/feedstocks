@@ -62870,3 +62870,7 @@
 	url = https://github.com/conda-forge/fps-lab-feedstock.git
 	path = feedstocks/fps-lab
 	branch = refs/heads/main
+[submodule "fps-contents"]
+	url = https://github.com/conda-forge/fps-contents-feedstock.git
+	path = feedstocks/fps-contents
+	branch = refs/heads/main
