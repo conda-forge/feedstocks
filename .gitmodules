@@ -62878,3 +62878,7 @@
 	url = https://github.com/conda-forge/fps-yjs-feedstock.git
 	path = feedstocks/fps-yjs
 	branch = refs/heads/main
+[submodule "fps-nbconvert"]
+	url = https://github.com/conda-forge/fps-nbconvert-feedstock.git
+	path = feedstocks/fps-nbconvert
+	branch = refs/heads/main
