@@ -62854,3 +62854,7 @@
 	url = https://github.com/conda-forge/qsharp-core-feedstock.git
 	path = feedstocks/qsharp-core
 	branch = refs/heads/main
+[submodule "qiskit-terra"]
+	url = https://github.com/conda-forge/qiskit-terra-feedstock.git
+	path = feedstocks/qiskit-terra
+	branch = refs/heads/main
