@@ -62890,3 +62890,7 @@
 	url = https://github.com/conda-forge/r-calibrator-feedstock.git
 	path = feedstocks/r-calibrator
 	branch = refs/heads/main
+[submodule "neuralforecast"]
+	url = https://github.com/conda-forge/neuralforecast-feedstock.git
+	path = feedstocks/neuralforecast
+	branch = refs/heads/main
