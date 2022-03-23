@@ -62898,3 +62898,7 @@
 	url = https://github.com/conda-forge/jsonschema2md-feedstock.git
 	path = feedstocks/jsonschema2md
 	branch = refs/heads/main
+[submodule "nr.util"]
+	url = https://github.com/conda-forge/nr.util-feedstock.git
+	path = feedstocks/nr.util
+	branch = refs/heads/main
