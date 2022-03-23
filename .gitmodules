@@ -62902,3 +62902,7 @@
 	url = https://github.com/conda-forge/nr.util-feedstock.git
 	path = feedstocks/nr.util
 	branch = refs/heads/main
+[submodule "pycraf-gui"]
+	url = https://github.com/conda-forge/pycraf-gui-feedstock.git
+	path = feedstocks/pycraf-gui
+	branch = refs/heads/main
