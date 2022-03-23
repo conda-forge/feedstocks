@@ -62834,3 +62834,7 @@
 	url = https://github.com/conda-forge/fps-auth-feedstock.git
 	path = feedstocks/fps-auth
 	branch = refs/heads/main
+[submodule "r-emulator"]
+	url = https://github.com/conda-forge/r-emulator-feedstock.git
+	path = feedstocks/r-emulator
+	branch = refs/heads/main
