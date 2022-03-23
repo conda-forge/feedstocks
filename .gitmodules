@@ -62826,3 +62826,7 @@
 	url = https://github.com/conda-forge/fastapi-users-db-sqlalchemy-feedstock.git
 	path = feedstocks/fastapi-users-db-sqlalchemy
 	branch = refs/heads/main
+[submodule "rdkit_utilities"]
+	url = https://github.com/conda-forge/rdkit_utilities-feedstock.git
+	path = feedstocks/rdkit_utilities
+	branch = refs/heads/main
