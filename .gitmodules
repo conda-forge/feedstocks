@@ -62862,3 +62862,7 @@
 	url = https://github.com/conda-forge/azure-quantum-feedstock.git
 	path = feedstocks/azure-quantum
 	branch = refs/heads/main
+[submodule "fps-login"]
+	url = https://github.com/conda-forge/fps-login-feedstock.git
+	path = feedstocks/fps-login
+	branch = refs/heads/main
