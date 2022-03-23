@@ -62846,3 +62846,7 @@
 	url = https://github.com/conda-forge/focal-stats-feedstock.git
 	path = feedstocks/focal-stats
 	branch = refs/heads/main
+[submodule "torchdata"]
+	url = https://github.com/conda-forge/torchdata-feedstock.git
+	path = feedstocks/torchdata
+	branch = refs/heads/main
