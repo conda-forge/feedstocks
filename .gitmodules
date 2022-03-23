@@ -62886,3 +62886,7 @@
 	url = https://github.com/conda-forge/fps-terminals-feedstock.git
 	path = feedstocks/fps-terminals
 	branch = refs/heads/main
+[submodule "r-calibrator"]
+	url = https://github.com/conda-forge/r-calibrator-feedstock.git
+	path = feedstocks/r-calibrator
+	branch = refs/heads/main
