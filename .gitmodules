@@ -62874,3 +62874,7 @@
 	url = https://github.com/conda-forge/fps-contents-feedstock.git
 	path = feedstocks/fps-contents
 	branch = refs/heads/main
+[submodule "fps-yjs"]
+	url = https://github.com/conda-forge/fps-yjs-feedstock.git
+	path = feedstocks/fps-yjs
+	branch = refs/heads/main
