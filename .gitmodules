@@ -62918,3 +62918,7 @@
 	url = https://github.com/conda-forge/agriculture-vlab-feedstock.git
 	path = feedstocks/agriculture-vlab
 	branch = refs/heads/main
+[submodule "pyvkfft"]
+	url = https://github.com/conda-forge/pyvkfft-feedstock.git
+	path = feedstocks/pyvkfft
+	branch = refs/heads/main
