@@ -62910,3 +62910,7 @@
 	url = https://github.com/conda-forge/fps-retrolab-feedstock.git
 	path = feedstocks/fps-retrolab
 	branch = refs/heads/main
+[submodule "fps-jupyterlab"]
+	url = https://github.com/conda-forge/fps-jupyterlab-feedstock.git
+	path = feedstocks/fps-jupyterlab
+	branch = refs/heads/main
