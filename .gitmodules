@@ -62922,3 +62922,7 @@
 	url = https://github.com/conda-forge/pyvkfft-feedstock.git
 	path = feedstocks/pyvkfft
 	branch = refs/heads/main
+[submodule "tbats"]
+	url = https://github.com/conda-forge/tbats-feedstock.git
+	path = feedstocks/tbats
+	branch = refs/heads/main
