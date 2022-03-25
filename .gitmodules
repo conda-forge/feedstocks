@@ -62942,3 +62942,7 @@
 	url = https://github.com/conda-forge/pyg4ometry-feedstock.git
 	path = feedstocks/pyg4ometry
 	branch = refs/heads/main
+[submodule "asyncua"]
+	url = https://github.com/conda-forge/asyncua-feedstock.git
+	path = feedstocks/asyncua
+	branch = refs/heads/main
