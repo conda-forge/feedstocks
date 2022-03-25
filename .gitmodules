@@ -62926,3 +62926,7 @@
 	url = https://github.com/conda-forge/tbats-feedstock.git
 	path = feedstocks/tbats
 	branch = refs/heads/main
+[submodule "geomag"]
+	url = https://github.com/conda-forge/geomag-feedstock.git
+	path = feedstocks/geomag
+	branch = refs/heads/main
