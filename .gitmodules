@@ -62934,3 +62934,7 @@
 	url = https://github.com/conda-forge/banana-hep-feedstock.git
 	path = feedstocks/banana-hep
 	branch = refs/heads/main
+[submodule "solarmach"]
+	url = https://github.com/conda-forge/solarmach-feedstock.git
+	path = feedstocks/solarmach
+	branch = refs/heads/main
