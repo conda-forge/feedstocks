@@ -62930,3 +62930,7 @@
 	url = https://github.com/conda-forge/geomag-feedstock.git
 	path = feedstocks/geomag
 	branch = refs/heads/main
+[submodule "banana-hep"]
+	url = https://github.com/conda-forge/banana-hep-feedstock.git
+	path = feedstocks/banana-hep
+	branch = refs/heads/main
