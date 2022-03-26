@@ -62946,3 +62946,7 @@
 	url = https://github.com/conda-forge/asyncua-feedstock.git
 	path = feedstocks/asyncua
 	branch = refs/heads/main
+[submodule "jarowinkler"]
+	url = https://github.com/conda-forge/jarowinkler-feedstock.git
+	path = feedstocks/jarowinkler
+	branch = refs/heads/main
