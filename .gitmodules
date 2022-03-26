@@ -62966,3 +62966,7 @@
 	url = https://github.com/conda-forge/scine-core-feedstock.git
 	path = feedstocks/scine-core
 	branch = refs/heads/main
+[submodule "bufrtools"]
+	url = https://github.com/conda-forge/bufrtools-feedstock.git
+	path = feedstocks/bufrtools
+	branch = refs/heads/main
