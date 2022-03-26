@@ -62950,3 +62950,7 @@
 	url = https://github.com/conda-forge/jarowinkler-feedstock.git
 	path = feedstocks/jarowinkler
 	branch = refs/heads/main
+[submodule "dbgpy"]
+	url = https://github.com/conda-forge/dbgpy-feedstock.git
+	path = feedstocks/dbgpy
+	branch = refs/heads/main
