@@ -62962,3 +62962,7 @@
 	url = https://github.com/conda-forge/scine-utilsos-feedstock.git
 	path = feedstocks/scine-utilsos
 	branch = refs/heads/main
+[submodule "scine-core"]
+	url = https://github.com/conda-forge/scine-core-feedstock.git
+	path = feedstocks/scine-core
+	branch = refs/heads/main
