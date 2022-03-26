@@ -62958,3 +62958,7 @@
 	url = https://github.com/conda-forge/scine-sparrow-feedstock.git
 	path = feedstocks/scine-sparrow
 	branch = refs/heads/main
+[submodule "scine-utilsos"]
+	url = https://github.com/conda-forge/scine-utilsos-feedstock.git
+	path = feedstocks/scine-utilsos
+	branch = refs/heads/main
