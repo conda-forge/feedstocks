@@ -62970,3 +62970,7 @@
 	url = https://github.com/conda-forge/bufrtools-feedstock.git
 	path = feedstocks/bufrtools
 	branch = refs/heads/main
+[submodule "kedro-mlflow"]
+	url = https://github.com/conda-forge/kedro-mlflow-feedstock.git
+	path = feedstocks/kedro-mlflow
+	branch = refs/heads/main
