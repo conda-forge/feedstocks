@@ -62974,3 +62974,7 @@
 	url = https://github.com/conda-forge/kedro-mlflow-feedstock.git
 	path = feedstocks/kedro-mlflow
 	branch = refs/heads/main
+[submodule "url-into-images"]
+	url = https://github.com/conda-forge/url-into-images-feedstock.git
+	path = feedstocks/url-into-images
+	branch = refs/heads/main
