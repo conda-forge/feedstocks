@@ -63026,3 +63026,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-airbyte-feedstock.git
 	path = feedstocks/apache-airflow-providers-airbyte
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-alibaba"]
+	url = https://github.com/conda-forge/apache-airflow-providers-alibaba-feedstock.git
+	path = feedstocks/apache-airflow-providers-alibaba
+	branch = refs/heads/main
