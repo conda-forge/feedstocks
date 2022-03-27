@@ -63022,3 +63022,7 @@
 	url = https://github.com/conda-forge/python-asana-feedstock.git
 	path = feedstocks/python-asana
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-airbyte"]
+	url = https://github.com/conda-forge/apache-airflow-providers-airbyte-feedstock.git
+	path = feedstocks/apache-airflow-providers-airbyte
+	branch = refs/heads/main
