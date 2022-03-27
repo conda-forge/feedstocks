@@ -62994,3 +62994,7 @@
 	url = https://github.com/conda-forge/protoc-gen-swagger-feedstock.git
 	path = feedstocks/protoc-gen-swagger
 	branch = refs/heads/main
+[submodule "pypsrp"]
+	url = https://github.com/conda-forge/pypsrp-feedstock.git
+	path = feedstocks/pypsrp
+	branch = refs/heads/main
