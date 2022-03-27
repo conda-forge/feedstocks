@@ -62998,3 +62998,7 @@
 	url = https://github.com/conda-forge/pypsrp-feedstock.git
 	path = feedstocks/pypsrp
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-tableau"]
+	url = https://github.com/conda-forge/apache-airflow-providers-tableau-feedstock.git
+	path = feedstocks/apache-airflow-providers-tableau
+	branch = refs/heads/main
