@@ -62978,3 +62978,7 @@
 	url = https://github.com/conda-forge/url-into-images-feedstock.git
 	path = feedstocks/url-into-images
 	branch = refs/heads/main
+[submodule "sqlalchemy-mate"]
+	url = https://github.com/conda-forge/sqlalchemy-mate-feedstock.git
+	path = feedstocks/sqlalchemy-mate
+	branch = refs/heads/main
