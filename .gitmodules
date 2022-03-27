@@ -63014,3 +63014,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-dbt-cloud-feedstock.git
 	path = feedstocks/apache-airflow-providers-dbt-cloud
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-influxdb"]
+	url = https://github.com/conda-forge/apache-airflow-providers-influxdb-feedstock.git
+	path = feedstocks/apache-airflow-providers-influxdb
+	branch = refs/heads/main
