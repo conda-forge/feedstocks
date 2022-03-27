@@ -62990,3 +62990,7 @@
 	url = https://github.com/conda-forge/uszipcode-feedstock.git
 	path = feedstocks/uszipcode
 	branch = refs/heads/main
+[submodule "protoc-gen-swagger"]
+	url = https://github.com/conda-forge/protoc-gen-swagger-feedstock.git
+	path = feedstocks/protoc-gen-swagger
+	branch = refs/heads/main
