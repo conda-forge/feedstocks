@@ -63018,3 +63018,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-influxdb-feedstock.git
 	path = feedstocks/apache-airflow-providers-influxdb
 	branch = refs/heads/main
+[submodule "python-asana"]
+	url = https://github.com/conda-forge/python-asana-feedstock.git
+	path = feedstocks/python-asana
+	branch = refs/heads/main
