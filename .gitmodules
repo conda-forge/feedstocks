@@ -63010,3 +63010,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-github-feedstock.git
 	path = feedstocks/apache-airflow-providers-github
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-dbt-cloud"]
+	url = https://github.com/conda-forge/apache-airflow-providers-dbt-cloud-feedstock.git
+	path = feedstocks/apache-airflow-providers-dbt-cloud
+	branch = refs/heads/main
