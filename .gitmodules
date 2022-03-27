@@ -63006,3 +63006,7 @@
 	url = https://github.com/conda-forge/term-image-feedstock.git
 	path = feedstocks/term-image
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-github"]
+	url = https://github.com/conda-forge/apache-airflow-providers-github-feedstock.git
+	path = feedstocks/apache-airflow-providers-github
+	branch = refs/heads/main
