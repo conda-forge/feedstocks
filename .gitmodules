@@ -63034,3 +63034,7 @@
 	url = https://github.com/conda-forge/pdata-feedstock.git
 	path = feedstocks/pdata
 	branch = refs/heads/main
+[submodule "slearn"]
+	url = https://github.com/conda-forge/slearn-feedstock.git
+	path = feedstocks/slearn
+	branch = refs/heads/main
