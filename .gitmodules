@@ -63066,3 +63066,7 @@
 	url = https://github.com/conda-forge/sapiens-feedstock.git
 	path = feedstocks/sapiens
 	branch = refs/heads/main
+[submodule "stlearn"]
+	url = https://github.com/conda-forge/stlearn-feedstock.git
+	path = feedstocks/stlearn
+	branch = refs/heads/main
