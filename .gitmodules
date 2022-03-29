@@ -63042,3 +63042,7 @@
 	url = https://github.com/conda-forge/python-wasmer-split-feedstock.git
 	path = feedstocks/python-wasmer-split
 	branch = refs/heads/main
+[submodule "cvxpygen"]
+	url = https://github.com/conda-forge/cvxpygen-feedstock.git
+	path = feedstocks/cvxpygen
+	branch = refs/heads/main
