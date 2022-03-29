@@ -63046,3 +63046,7 @@
 	url = https://github.com/conda-forge/cvxpygen-feedstock.git
 	path = feedstocks/cvxpygen
 	branch = refs/heads/main
+[submodule "dvc-render"]
+	url = https://github.com/conda-forge/dvc-render-feedstock.git
+	path = feedstocks/dvc-render
+	branch = refs/heads/main
