@@ -63062,3 +63062,7 @@
 	url = https://github.com/conda-forge/images-into-array-feedstock.git
 	path = feedstocks/images-into-array
 	branch = refs/heads/main
+[submodule "sapiens"]
+	url = https://github.com/conda-forge/sapiens-feedstock.git
+	path = feedstocks/sapiens
+	branch = refs/heads/main
