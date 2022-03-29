@@ -63038,3 +63038,7 @@
 	url = https://github.com/conda-forge/slearn-feedstock.git
 	path = feedstocks/slearn
 	branch = refs/heads/main
+[submodule "python-wasmer-split"]
+	url = https://github.com/conda-forge/python-wasmer-split-feedstock.git
+	path = feedstocks/python-wasmer-split
+	branch = refs/heads/main
