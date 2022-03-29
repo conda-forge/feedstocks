@@ -63058,3 +63058,7 @@
 	url = https://github.com/conda-forge/labeling-feedstock.git
 	path = feedstocks/labeling
 	branch = refs/heads/main
+[submodule "images-into-array"]
+	url = https://github.com/conda-forge/images-into-array-feedstock.git
+	path = feedstocks/images-into-array
+	branch = refs/heads/main
