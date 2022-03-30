@@ -63074,3 +63074,7 @@
 	url = https://github.com/conda-forge/coverage-lcov-feedstock.git
 	path = feedstocks/coverage-lcov
 	branch = refs/heads/main
+[submodule "grpcio-reflection"]
+	url = https://github.com/conda-forge/grpcio-reflection-feedstock.git
+	path = feedstocks/grpcio-reflection
+	branch = refs/heads/main
