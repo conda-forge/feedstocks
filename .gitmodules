@@ -63078,3 +63078,7 @@
 	url = https://github.com/conda-forge/grpcio-reflection-feedstock.git
 	path = feedstocks/grpcio-reflection
 	branch = refs/heads/main
+[submodule "r-websocket"]
+	url = https://github.com/conda-forge/r-websocket-feedstock.git
+	path = feedstocks/r-websocket
+	branch = refs/heads/main
