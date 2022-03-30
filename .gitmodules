@@ -63070,3 +63070,7 @@
 	url = https://github.com/conda-forge/stlearn-feedstock.git
 	path = feedstocks/stlearn
 	branch = refs/heads/main
+[submodule "coverage-lcov"]
+	url = https://github.com/conda-forge/coverage-lcov-feedstock.git
+	path = feedstocks/coverage-lcov
+	branch = refs/heads/main
