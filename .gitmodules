@@ -63102,3 +63102,7 @@
 	url = https://github.com/conda-forge/pynsid-feedstock.git
 	path = feedstocks/pynsid
 	branch = refs/heads/main
+[submodule "omero-py"]
+	url = https://github.com/conda-forge/omero-py-feedstock.git
+	path = feedstocks/omero-py
+	branch = refs/heads/main
