@@ -63146,3 +63146,7 @@
 	url = https://github.com/conda-forge/r-dlookr-feedstock.git
 	path = feedstocks/r-dlookr
 	branch = refs/heads/main
+[submodule "python-gmail"]
+	url = https://github.com/conda-forge/python-gmail-feedstock.git
+	path = feedstocks/python-gmail
+	branch = refs/heads/main
