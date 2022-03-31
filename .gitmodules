@@ -63110,3 +63110,7 @@
 	url = https://github.com/conda-forge/forcefield-utilities-feedstock.git
 	path = feedstocks/forcefield-utilities
 	branch = refs/heads/main
+[submodule "fv3grid"]
+	url = https://github.com/conda-forge/fv3grid-feedstock.git
+	path = feedstocks/fv3grid
+	branch = refs/heads/main
