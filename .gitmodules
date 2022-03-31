@@ -63170,3 +63170,7 @@
 	url = https://github.com/conda-forge/celluloid-feedstock.git
 	path = feedstocks/celluloid
 	branch = refs/heads/main
+[submodule "fps-kernels"]
+	url = https://github.com/conda-forge/fps-kernels-feedstock.git
+	path = feedstocks/fps-kernels
+	branch = refs/heads/main
