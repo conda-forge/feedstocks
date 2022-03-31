@@ -63106,3 +63106,7 @@
 	url = https://github.com/conda-forge/omero-py-feedstock.git
 	path = feedstocks/omero-py
 	branch = refs/heads/main
+[submodule "forcefield-utilities"]
+	url = https://github.com/conda-forge/forcefield-utilities-feedstock.git
+	path = feedstocks/forcefield-utilities
+	branch = refs/heads/main
