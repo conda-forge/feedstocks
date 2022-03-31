@@ -63162,3 +63162,7 @@
 	url = https://github.com/conda-forge/gufe-feedstock.git
 	path = feedstocks/gufe
 	branch = refs/heads/main
+[submodule "dataretrieval"]
+	url = https://github.com/conda-forge/dataretrieval-feedstock.git
+	path = feedstocks/dataretrieval
+	branch = refs/heads/main
