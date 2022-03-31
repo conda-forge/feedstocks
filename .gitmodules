@@ -63122,3 +63122,7 @@
 	url = https://github.com/conda-forge/dwave-preprocessing-feedstock.git
 	path = feedstocks/dwave-preprocessing
 	branch = refs/heads/main
+[submodule "qiskit-optimization"]
+	url = https://github.com/conda-forge/qiskit-optimization-feedstock.git
+	path = feedstocks/qiskit-optimization
+	branch = refs/heads/main
