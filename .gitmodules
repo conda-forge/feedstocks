@@ -63166,3 +63166,7 @@
 	url = https://github.com/conda-forge/dataretrieval-feedstock.git
 	path = feedstocks/dataretrieval
 	branch = refs/heads/main
+[submodule "celluloid"]
+	url = https://github.com/conda-forge/celluloid-feedstock.git
+	path = feedstocks/celluloid
+	branch = refs/heads/main
