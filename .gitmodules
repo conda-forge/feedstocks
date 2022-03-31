@@ -63094,3 +63094,7 @@
 	url = https://github.com/conda-forge/pyflowline-feedstock.git
 	path = feedstocks/pyflowline
 	branch = refs/heads/main
+[submodule "netatmo-geopy"]
+	url = https://github.com/conda-forge/netatmo-geopy-feedstock.git
+	path = feedstocks/netatmo-geopy
+	branch = refs/heads/main
