@@ -63154,3 +63154,7 @@
 	url = https://github.com/conda-forge/napari-mri-feedstock.git
 	path = feedstocks/napari-mri
 	branch = refs/heads/main
+[submodule "napari-accelerated-pixel-and-object-classification"]
+	url = https://github.com/conda-forge/napari-accelerated-pixel-and-object-classification-feedstock.git
+	path = feedstocks/napari-accelerated-pixel-and-object-classification
+	branch = refs/heads/main
