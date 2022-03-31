@@ -63090,3 +63090,7 @@
 	url = https://github.com/conda-forge/dexp-feedstock.git
 	path = feedstocks/dexp
 	branch = refs/heads/main
+[submodule "pyflowline"]
+	url = https://github.com/conda-forge/pyflowline-feedstock.git
+	path = feedstocks/pyflowline
+	branch = refs/heads/main
