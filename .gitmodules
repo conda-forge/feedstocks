@@ -63126,3 +63126,7 @@
 	url = https://github.com/conda-forge/qiskit-optimization-feedstock.git
 	path = feedstocks/qiskit-optimization
 	branch = refs/heads/main
+[submodule "ephemeral-port-reserve"]
+	url = https://github.com/conda-forge/ephemeral-port-reserve-feedstock.git
+	path = feedstocks/ephemeral-port-reserve
+	branch = refs/heads/main
