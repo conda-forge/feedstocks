@@ -63118,3 +63118,7 @@
 	url = https://github.com/conda-forge/scifireaders-feedstock.git
 	path = feedstocks/scifireaders
 	branch = refs/heads/main
+[submodule "dwave-preprocessing"]
+	url = https://github.com/conda-forge/dwave-preprocessing-feedstock.git
+	path = feedstocks/dwave-preprocessing
+	branch = refs/heads/main
