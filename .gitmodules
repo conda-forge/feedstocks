@@ -63086,3 +63086,7 @@
 	url = https://github.com/conda-forge/r-pagedown-feedstock.git
 	path = feedstocks/r-pagedown
 	branch = refs/heads/main
+[submodule "dexp"]
+	url = https://github.com/conda-forge/dexp-feedstock.git
+	path = feedstocks/dexp
+	branch = refs/heads/main
