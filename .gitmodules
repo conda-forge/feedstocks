@@ -63130,3 +63130,7 @@
 	url = https://github.com/conda-forge/ephemeral-port-reserve-feedstock.git
 	path = feedstocks/ephemeral-port-reserve
 	branch = refs/heads/main
+[submodule "qiskit-machine-learning"]
+	url = https://github.com/conda-forge/qiskit-machine-learning-feedstock.git
+	path = feedstocks/qiskit-machine-learning
+	branch = refs/heads/main
