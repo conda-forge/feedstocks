@@ -63158,3 +63158,7 @@
 	url = https://github.com/conda-forge/napari-accelerated-pixel-and-object-classification-feedstock.git
 	path = feedstocks/napari-accelerated-pixel-and-object-classification
 	branch = refs/heads/main
+[submodule "gufe"]
+	url = https://github.com/conda-forge/gufe-feedstock.git
+	path = feedstocks/gufe
+	branch = refs/heads/main
