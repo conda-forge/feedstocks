@@ -63150,3 +63150,7 @@
 	url = https://github.com/conda-forge/python-gmail-feedstock.git
 	path = feedstocks/python-gmail
 	branch = refs/heads/main
+[submodule "napari-mri"]
+	url = https://github.com/conda-forge/napari-mri-feedstock.git
+	path = feedstocks/napari-mri
+	branch = refs/heads/main
