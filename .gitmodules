@@ -63114,3 +63114,7 @@
 	url = https://github.com/conda-forge/fv3grid-feedstock.git
 	path = feedstocks/fv3grid
 	branch = refs/heads/main
+[submodule "scifireaders"]
+	url = https://github.com/conda-forge/scifireaders-feedstock.git
+	path = feedstocks/scifireaders
+	branch = refs/heads/main
