@@ -63230,3 +63230,7 @@
 	url = https://github.com/conda-forge/napari-omero-feedstock.git
 	path = feedstocks/napari-omero
 	branch = refs/heads/main
+[submodule "xarray-datatree"]
+	url = https://github.com/conda-forge/xarray-datatree-feedstock.git
+	path = feedstocks/xarray-datatree
+	branch = refs/heads/main
