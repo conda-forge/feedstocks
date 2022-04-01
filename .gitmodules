@@ -63218,3 +63218,7 @@
 	url = https://github.com/conda-forge/napari-itk-io-feedstock.git
 	path = feedstocks/napari-itk-io
 	branch = refs/heads/main
+[submodule "napari-dexp"]
+	url = https://github.com/conda-forge/napari-dexp-feedstock.git
+	path = feedstocks/napari-dexp
+	branch = refs/heads/main
