@@ -63210,3 +63210,7 @@
 	url = https://github.com/conda-forge/omero-rois-feedstock.git
 	path = feedstocks/omero-rois
 	branch = refs/heads/main
+[submodule "partseg"]
+	url = https://github.com/conda-forge/partseg-feedstock.git
+	path = feedstocks/partseg
+	branch = refs/heads/main
