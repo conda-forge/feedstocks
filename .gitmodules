@@ -63238,3 +63238,7 @@
 	url = https://github.com/conda-forge/s5cmd-feedstock.git
 	path = feedstocks/s5cmd
 	branch = refs/heads/main
+[submodule "nme"]
+	url = https://github.com/conda-forge/nme-feedstock.git
+	path = feedstocks/nme
+	branch = refs/heads/main
