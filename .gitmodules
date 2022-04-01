@@ -63234,3 +63234,7 @@
 	url = https://github.com/conda-forge/xarray-datatree-feedstock.git
 	path = feedstocks/xarray-datatree
 	branch = refs/heads/main
+[submodule "s5cmd"]
+	url = https://github.com/conda-forge/s5cmd-feedstock.git
+	path = feedstocks/s5cmd
+	branch = refs/heads/main
