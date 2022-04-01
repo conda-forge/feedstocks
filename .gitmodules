@@ -63242,3 +63242,7 @@
 	url = https://github.com/conda-forge/nme-feedstock.git
 	path = feedstocks/nme
 	branch = refs/heads/main
+[submodule "streamlit-pandas-profiling"]
+	url = https://github.com/conda-forge/streamlit-pandas-profiling-feedstock.git
+	path = feedstocks/streamlit-pandas-profiling
+	branch = refs/heads/main
