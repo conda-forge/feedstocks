@@ -63186,3 +63186,7 @@
 	url = https://github.com/conda-forge/r-shinyloadtest-feedstock.git
 	path = feedstocks/r-shinyloadtest
 	branch = refs/heads/main
+[submodule "r-nasaaccess"]
+	url = https://github.com/conda-forge/r-nasaaccess-feedstock.git
+	path = feedstocks/r-nasaaccess
+	branch = refs/heads/main
