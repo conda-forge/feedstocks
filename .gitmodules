@@ -63190,3 +63190,7 @@
 	url = https://github.com/conda-forge/r-nasaaccess-feedstock.git
 	path = feedstocks/r-nasaaccess
 	branch = refs/heads/main
+[submodule "eko"]
+	url = https://github.com/conda-forge/eko-feedstock.git
+	path = feedstocks/eko
+	branch = refs/heads/main
