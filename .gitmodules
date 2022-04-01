@@ -63206,3 +63206,7 @@
 	url = https://github.com/conda-forge/btrack-feedstock.git
 	path = feedstocks/btrack
 	branch = refs/heads/main
+[submodule "omero-rois"]
+	url = https://github.com/conda-forge/omero-rois-feedstock.git
+	path = feedstocks/omero-rois
+	branch = refs/heads/main
