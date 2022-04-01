@@ -63202,3 +63202,7 @@
 	url = https://github.com/conda-forge/napari-pyclesperanto-assistant-feedstock.git
 	path = feedstocks/napari-pyclesperanto-assistant
 	branch = refs/heads/main
+[submodule "btrack"]
+	url = https://github.com/conda-forge/btrack-feedstock.git
+	path = feedstocks/btrack
+	branch = refs/heads/main
