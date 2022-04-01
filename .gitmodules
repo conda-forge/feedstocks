@@ -63222,3 +63222,7 @@
 	url = https://github.com/conda-forge/napari-dexp-feedstock.git
 	path = feedstocks/napari-dexp
 	branch = refs/heads/main
+[submodule "napari-btrack-reader"]
+	url = https://github.com/conda-forge/napari-btrack-reader-feedstock.git
+	path = feedstocks/napari-btrack-reader
+	branch = refs/heads/main
