@@ -63214,3 +63214,7 @@
 	url = https://github.com/conda-forge/partseg-feedstock.git
 	path = feedstocks/partseg
 	branch = refs/heads/main
+[submodule "napari-itk-io"]
+	url = https://github.com/conda-forge/napari-itk-io-feedstock.git
+	path = feedstocks/napari-itk-io
+	branch = refs/heads/main
