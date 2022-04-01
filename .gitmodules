@@ -63182,3 +63182,7 @@
 	url = https://github.com/conda-forge/optimum-feedstock.git
 	path = feedstocks/optimum
 	branch = refs/heads/main
+[submodule "r-shinyloadtest"]
+	url = https://github.com/conda-forge/r-shinyloadtest-feedstock.git
+	path = feedstocks/r-shinyloadtest
+	branch = refs/heads/main
