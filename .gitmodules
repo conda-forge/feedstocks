@@ -63226,3 +63226,7 @@
 	url = https://github.com/conda-forge/napari-btrack-reader-feedstock.git
 	path = feedstocks/napari-btrack-reader
 	branch = refs/heads/main
+[submodule "napari-omero"]
+	url = https://github.com/conda-forge/napari-omero-feedstock.git
+	path = feedstocks/napari-omero
+	branch = refs/heads/main
