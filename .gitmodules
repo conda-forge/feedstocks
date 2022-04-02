@@ -63262,3 +63262,7 @@
 	url = https://github.com/conda-forge/r-lmvar-feedstock.git
 	path = feedstocks/r-lmvar
 	branch = refs/heads/main
+[submodule "abess"]
+	url = https://github.com/conda-forge/abess-feedstock.git
+	path = feedstocks/abess
+	branch = refs/heads/main
