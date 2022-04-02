@@ -63246,3 +63246,7 @@
 	url = https://github.com/conda-forge/streamlit-pandas-profiling-feedstock.git
 	path = feedstocks/streamlit-pandas-profiling
 	branch = refs/heads/main
+[submodule "dwave-system"]
+	url = https://github.com/conda-forge/dwave-system-feedstock.git
+	path = feedstocks/dwave-system
+	branch = refs/heads/main
