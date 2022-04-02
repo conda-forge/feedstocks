@@ -63254,3 +63254,7 @@
 	url = https://github.com/conda-forge/dwave-tabu-feedstock.git
 	path = feedstocks/dwave-tabu
 	branch = refs/heads/main
+[submodule "qpoases"]
+	url = https://github.com/conda-forge/qpoases-feedstock.git
+	path = feedstocks/qpoases
+	branch = refs/heads/main
