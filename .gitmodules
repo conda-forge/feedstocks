@@ -63250,3 +63250,7 @@
 	url = https://github.com/conda-forge/dwave-system-feedstock.git
 	path = feedstocks/dwave-system
 	branch = refs/heads/main
+[submodule "dwave-tabu"]
+	url = https://github.com/conda-forge/dwave-tabu-feedstock.git
+	path = feedstocks/dwave-tabu
+	branch = refs/heads/main
