@@ -63274,3 +63274,7 @@
 	url = https://github.com/conda-forge/xarray-einstats-feedstock.git
 	path = feedstocks/xarray-einstats
 	branch = refs/heads/main
+[submodule "geospatial"]
+	url = https://github.com/conda-forge/geospatial-feedstock.git
+	path = feedstocks/geospatial
+	branch = refs/heads/main
