@@ -63278,3 +63278,7 @@
 	url = https://github.com/conda-forge/geospatial-feedstock.git
 	path = feedstocks/geospatial
 	branch = refs/heads/main
+[submodule "wily"]
+	url = https://github.com/conda-forge/wily-feedstock.git
+	path = feedstocks/wily
+	branch = refs/heads/main
