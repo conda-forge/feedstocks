@@ -63294,3 +63294,7 @@
 	url = https://github.com/conda-forge/dwave-hybrid-feedstock.git
 	path = feedstocks/dwave-hybrid
 	branch = refs/heads/main
+[submodule "dwave-inspector"]
+	url = https://github.com/conda-forge/dwave-inspector-feedstock.git
+	path = feedstocks/dwave-inspector
+	branch = refs/heads/main
