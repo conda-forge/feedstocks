@@ -63298,3 +63298,7 @@
 	url = https://github.com/conda-forge/dwave-inspector-feedstock.git
 	path = feedstocks/dwave-inspector
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-microsoft-psrp"]
+	url = https://github.com/conda-forge/apache-airflow-providers-microsoft-psrp-feedstock.git
+	path = feedstocks/apache-airflow-providers-microsoft-psrp
+	branch = refs/heads/main
