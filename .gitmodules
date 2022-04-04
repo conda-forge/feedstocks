@@ -63286,3 +63286,7 @@
 	url = https://github.com/conda-forge/handy-archives-feedstock.git
 	path = feedstocks/handy-archives
 	branch = refs/heads/main
+[submodule "jupyverse"]
+	url = https://github.com/conda-forge/jupyverse-feedstock.git
+	path = feedstocks/jupyverse
+	branch = refs/heads/main
