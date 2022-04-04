@@ -63290,3 +63290,7 @@
 	url = https://github.com/conda-forge/jupyverse-feedstock.git
 	path = feedstocks/jupyverse
 	branch = refs/heads/main
+[submodule "dwave-hybrid"]
+	url = https://github.com/conda-forge/dwave-hybrid-feedstock.git
+	path = feedstocks/dwave-hybrid
+	branch = refs/heads/main
