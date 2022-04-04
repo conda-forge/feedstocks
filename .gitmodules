@@ -63310,3 +63310,7 @@
 	url = https://github.com/conda-forge/r-tframe-feedstock.git
 	path = feedstocks/r-tframe
 	branch = refs/heads/main
+[submodule "r-atsa"]
+	url = https://github.com/conda-forge/r-atsa-feedstock.git
+	path = feedstocks/r-atsa
+	branch = refs/heads/main
