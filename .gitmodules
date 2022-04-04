@@ -63302,3 +63302,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-microsoft-psrp-feedstock.git
 	path = feedstocks/apache-airflow-providers-microsoft-psrp
 	branch = refs/heads/main
+[submodule "typescript-eslint-parser"]
+	url = https://github.com/conda-forge/typescript-eslint-parser-feedstock.git
+	path = feedstocks/typescript-eslint-parser
+	branch = refs/heads/main
