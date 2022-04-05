@@ -63318,3 +63318,7 @@
 	url = https://github.com/conda-forge/ndpyramid-feedstock.git
 	path = feedstocks/ndpyramid
 	branch = refs/heads/main
+[submodule "colcon-cd"]
+	url = https://github.com/conda-forge/colcon-cd-feedstock.git
+	path = feedstocks/colcon-cd
+	branch = refs/heads/main
