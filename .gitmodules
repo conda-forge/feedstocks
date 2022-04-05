@@ -63338,3 +63338,7 @@
 	url = https://github.com/conda-forge/aiorwlock-feedstock.git
 	path = feedstocks/aiorwlock
 	branch = refs/heads/main
+[submodule "eslint-config-prettier"]
+	url = https://github.com/conda-forge/eslint-config-prettier-feedstock.git
+	path = feedstocks/eslint-config-prettier
+	branch = refs/heads/main
