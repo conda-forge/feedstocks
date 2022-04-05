@@ -63366,3 +63366,7 @@
 	url = https://github.com/conda-forge/triton-feedstock.git
 	path = feedstocks/triton
 	branch = refs/heads/main
+[submodule "cyanure"]
+	url = https://github.com/conda-forge/cyanure-feedstock.git
+	path = feedstocks/cyanure
+	branch = refs/heads/main
