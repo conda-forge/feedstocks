@@ -63334,3 +63334,7 @@
 	url = https://github.com/conda-forge/colcon-bash-feedstock.git
 	path = feedstocks/colcon-bash
 	branch = refs/heads/main
+[submodule "aiorwlock"]
+	url = https://github.com/conda-forge/aiorwlock-feedstock.git
+	path = feedstocks/aiorwlock
+	branch = refs/heads/main
