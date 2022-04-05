@@ -63314,3 +63314,7 @@
 	url = https://github.com/conda-forge/r-atsa-feedstock.git
 	path = feedstocks/r-atsa
 	branch = refs/heads/main
+[submodule "ndpyramid"]
+	url = https://github.com/conda-forge/ndpyramid-feedstock.git
+	path = feedstocks/ndpyramid
+	branch = refs/heads/main
