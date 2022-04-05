@@ -63382,3 +63382,7 @@
 	url = https://github.com/conda-forge/typescript-eslint-eslint-plugin-feedstock.git
 	path = feedstocks/typescript-eslint-eslint-plugin
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-asana"]
+	url = https://github.com/conda-forge/apache-airflow-providers-asana-feedstock.git
+	path = feedstocks/apache-airflow-providers-asana
+	branch = refs/heads/main
