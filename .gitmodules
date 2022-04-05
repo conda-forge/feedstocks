@@ -63370,3 +63370,7 @@
 	url = https://github.com/conda-forge/cyanure-feedstock.git
 	path = feedstocks/cyanure
 	branch = refs/heads/main
+[submodule "datastock"]
+	url = https://github.com/conda-forge/datastock-feedstock.git
+	path = feedstocks/datastock
+	branch = refs/heads/main
