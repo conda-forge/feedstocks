@@ -63362,3 +63362,7 @@
 	url = https://github.com/conda-forge/eslint-plugin-react-feedstock.git
 	path = feedstocks/eslint-plugin-react
 	branch = refs/heads/main
+[submodule "triton"]
+	url = https://github.com/conda-forge/triton-feedstock.git
+	path = feedstocks/triton
+	branch = refs/heads/main
