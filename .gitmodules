@@ -63394,3 +63394,7 @@
 	url = https://github.com/conda-forge/dist-meta-feedstock.git
 	path = feedstocks/dist-meta
 	branch = refs/heads/main
+[submodule "heavyai"]
+	url = https://github.com/conda-forge/heavyai-feedstock.git
+	path = feedstocks/heavyai
+	branch = refs/heads/main
