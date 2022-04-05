@@ -63322,3 +63322,7 @@
 	url = https://github.com/conda-forge/colcon-cd-feedstock.git
 	path = feedstocks/colcon-cd
 	branch = refs/heads/main
+[submodule "colcon-zsh"]
+	url = https://github.com/conda-forge/colcon-zsh-feedstock.git
+	path = feedstocks/colcon-zsh
+	branch = refs/heads/main
