@@ -63358,3 +63358,7 @@
 	url = https://github.com/conda-forge/batchspawner-feedstock.git
 	path = feedstocks/batchspawner
 	branch = refs/heads/main
+[submodule "eslint-plugin-react"]
+	url = https://github.com/conda-forge/eslint-plugin-react-feedstock.git
+	path = feedstocks/eslint-plugin-react
+	branch = refs/heads/main
