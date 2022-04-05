@@ -63326,3 +63326,7 @@
 	url = https://github.com/conda-forge/colcon-zsh-feedstock.git
 	path = feedstocks/colcon-zsh
 	branch = refs/heads/main
+[submodule "colcon-argcomplete"]
+	url = https://github.com/conda-forge/colcon-argcomplete-feedstock.git
+	path = feedstocks/colcon-argcomplete
+	branch = refs/heads/main
