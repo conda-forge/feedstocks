@@ -63342,3 +63342,7 @@
 	url = https://github.com/conda-forge/eslint-config-prettier-feedstock.git
 	path = feedstocks/eslint-config-prettier
 	branch = refs/heads/main
+[submodule "eslint-plugin-prettier"]
+	url = https://github.com/conda-forge/eslint-plugin-prettier-feedstock.git
+	path = feedstocks/eslint-plugin-prettier
+	branch = refs/heads/main
