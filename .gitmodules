@@ -63354,3 +63354,7 @@
 	url = https://github.com/conda-forge/flit-scm-feedstock.git
 	path = feedstocks/flit-scm
 	branch = refs/heads/main
+[submodule "batchspawner"]
+	url = https://github.com/conda-forge/batchspawner-feedstock.git
+	path = feedstocks/batchspawner
+	branch = refs/heads/main
