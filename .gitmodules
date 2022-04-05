@@ -63390,3 +63390,7 @@
 	url = https://github.com/conda-forge/session-info-feedstock.git
 	path = feedstocks/session-info
 	branch = refs/heads/main
+[submodule "dist-meta"]
+	url = https://github.com/conda-forge/dist-meta-feedstock.git
+	path = feedstocks/dist-meta
+	branch = refs/heads/main
