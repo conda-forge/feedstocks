@@ -63350,3 +63350,7 @@
 	url = https://github.com/conda-forge/eslint-config-standard-feedstock.git
 	path = feedstocks/eslint-config-standard
 	branch = refs/heads/main
+[submodule "flit-scm"]
+	url = https://github.com/conda-forge/flit-scm-feedstock.git
+	path = feedstocks/flit-scm
+	branch = refs/heads/main
