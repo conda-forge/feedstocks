@@ -63386,3 +63386,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-asana-feedstock.git
 	path = feedstocks/apache-airflow-providers-asana
 	branch = refs/heads/main
+[submodule "session-info"]
+	url = https://github.com/conda-forge/session-info-feedstock.git
+	path = feedstocks/session-info
+	branch = refs/heads/main
