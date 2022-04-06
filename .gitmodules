@@ -63414,3 +63414,7 @@
 	url = https://github.com/conda-forge/pyttoresque-feedstock.git
 	path = feedstocks/pyttoresque
 	branch = refs/heads/main
+[submodule "jupyterlab-mosaic"]
+	url = https://github.com/conda-forge/jupyterlab-mosaic-feedstock.git
+	path = feedstocks/jupyterlab-mosaic
+	branch = refs/heads/main
