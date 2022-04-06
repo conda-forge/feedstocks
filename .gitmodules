@@ -63418,3 +63418,7 @@
 	url = https://github.com/conda-forge/jupyterlab-mosaic-feedstock.git
 	path = feedstocks/jupyterlab-mosaic
 	branch = refs/heads/main
+[submodule "devbio-napari"]
+	url = https://github.com/conda-forge/devbio-napari-feedstock.git
+	path = feedstocks/devbio-napari
+	branch = refs/heads/main
