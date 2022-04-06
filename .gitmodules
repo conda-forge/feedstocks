@@ -63422,3 +63422,7 @@
 	url = https://github.com/conda-forge/devbio-napari-feedstock.git
 	path = feedstocks/devbio-napari
 	branch = refs/heads/main
+[submodule "squirrel-core"]
+	url = https://github.com/conda-forge/squirrel-core-feedstock.git
+	path = feedstocks/squirrel-core
+	branch = refs/heads/main
