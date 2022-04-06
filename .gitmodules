@@ -63406,3 +63406,7 @@
 	url = https://github.com/conda-forge/pyvipr-feedstock.git
 	path = feedstocks/pyvipr
 	branch = refs/heads/main
+[submodule "xarray-schema"]
+	url = https://github.com/conda-forge/xarray-schema-feedstock.git
+	path = feedstocks/xarray-schema
+	branch = refs/heads/main
