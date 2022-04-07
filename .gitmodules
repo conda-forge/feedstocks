@@ -63458,3 +63458,7 @@
 	url = https://github.com/conda-forge/climlab-rrtmg-feedstock.git
 	path = feedstocks/climlab-rrtmg
 	branch = refs/heads/main
+[submodule "nerval"]
+	url = https://github.com/conda-forge/nerval-feedstock.git
+	path = feedstocks/nerval
+	branch = refs/heads/main
