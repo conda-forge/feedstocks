@@ -63434,3 +63434,7 @@
 	url = https://github.com/conda-forge/watchfiles-feedstock.git
 	path = feedstocks/watchfiles
 	branch = refs/heads/main
+[submodule "microbench"]
+	url = https://github.com/conda-forge/microbench-feedstock.git
+	path = feedstocks/microbench
+	branch = refs/heads/main
