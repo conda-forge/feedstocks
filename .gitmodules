@@ -63426,3 +63426,7 @@
 	url = https://github.com/conda-forge/squirrel-core-feedstock.git
 	path = feedstocks/squirrel-core
 	branch = refs/heads/main
+[submodule "r-tfplot"]
+	url = https://github.com/conda-forge/r-tfplot-feedstock.git
+	path = feedstocks/r-tfplot
+	branch = refs/heads/main
