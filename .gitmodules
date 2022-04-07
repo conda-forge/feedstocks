@@ -63450,3 +63450,7 @@
 	url = https://github.com/conda-forge/paquo-feedstock.git
 	path = feedstocks/paquo
 	branch = refs/heads/main
+[submodule "semi-ate-common"]
+	url = https://github.com/conda-forge/semi-ate-common-feedstock.git
+	path = feedstocks/semi-ate-common
+	branch = refs/heads/main
