@@ -63462,3 +63462,7 @@
 	url = https://github.com/conda-forge/nerval-feedstock.git
 	path = feedstocks/nerval
 	branch = refs/heads/main
+[submodule "geocat-datafiles"]
+	url = https://github.com/conda-forge/geocat-datafiles-feedstock.git
+	path = feedstocks/geocat-datafiles
+	branch = refs/heads/main
