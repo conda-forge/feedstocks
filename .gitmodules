@@ -63446,3 +63446,7 @@
 	url = https://github.com/conda-forge/squirrel-datasets-core-feedstock.git
 	path = feedstocks/squirrel-datasets-core
 	branch = refs/heads/main
+[submodule "paquo"]
+	url = https://github.com/conda-forge/paquo-feedstock.git
+	path = feedstocks/paquo
+	branch = refs/heads/main
