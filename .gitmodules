@@ -63470,3 +63470,7 @@
 	url = https://github.com/conda-forge/exceptiongroup-feedstock.git
 	path = feedstocks/exceptiongroup
 	branch = refs/heads/main
+[submodule "scine-utilities-python"]
+	url = https://github.com/conda-forge/scine-utilities-python-feedstock.git
+	path = feedstocks/scine-utilities-python
+	branch = refs/heads/main
