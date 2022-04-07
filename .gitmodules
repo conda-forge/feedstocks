@@ -63438,3 +63438,7 @@
 	url = https://github.com/conda-forge/microbench-feedstock.git
 	path = feedstocks/microbench
 	branch = refs/heads/main
+[submodule "stardist"]
+	url = https://github.com/conda-forge/stardist-feedstock.git
+	path = feedstocks/stardist
+	branch = refs/heads/main
