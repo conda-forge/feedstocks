@@ -63442,3 +63442,7 @@
 	url = https://github.com/conda-forge/stardist-feedstock.git
 	path = feedstocks/stardist
 	branch = refs/heads/main
+[submodule "squirrel-datasets-core"]
+	url = https://github.com/conda-forge/squirrel-datasets-core-feedstock.git
+	path = feedstocks/squirrel-datasets-core
+	branch = refs/heads/main
