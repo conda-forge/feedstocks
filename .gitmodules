@@ -63430,3 +63430,7 @@
 	url = https://github.com/conda-forge/r-tfplot-feedstock.git
 	path = feedstocks/r-tfplot
 	branch = refs/heads/main
+[submodule "watchfiles"]
+	url = https://github.com/conda-forge/watchfiles-feedstock.git
+	path = feedstocks/watchfiles
+	branch = refs/heads/main
