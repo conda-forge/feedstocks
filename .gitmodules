@@ -63454,3 +63454,7 @@
 	url = https://github.com/conda-forge/semi-ate-common-feedstock.git
 	path = feedstocks/semi-ate-common
 	branch = refs/heads/main
+[submodule "climlab-rrtmg"]
+	url = https://github.com/conda-forge/climlab-rrtmg-feedstock.git
+	path = feedstocks/climlab-rrtmg
+	branch = refs/heads/main
