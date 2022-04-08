@@ -63502,3 +63502,7 @@
 	url = https://github.com/conda-forge/shippinglabel-feedstock.git
 	path = feedstocks/shippinglabel
 	branch = refs/heads/main
+[submodule "digen"]
+	url = https://github.com/conda-forge/digen-feedstock.git
+	path = feedstocks/digen
+	branch = refs/heads/main
