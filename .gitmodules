@@ -63498,3 +63498,7 @@
 	url = https://github.com/conda-forge/mkdocs-gen-files-feedstock.git
 	path = feedstocks/mkdocs-gen-files
 	branch = refs/heads/main
+[submodule "shippinglabel"]
+	url = https://github.com/conda-forge/shippinglabel-feedstock.git
+	path = feedstocks/shippinglabel
+	branch = refs/heads/main
