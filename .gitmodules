@@ -63478,3 +63478,7 @@
 	url = https://github.com/conda-forge/fish2eod-feedstock.git
 	path = feedstocks/fish2eod
 	branch = refs/heads/main
+[submodule "tvips-tools"]
+	url = https://github.com/conda-forge/tvips-tools-feedstock.git
+	path = feedstocks/tvips-tools
+	branch = refs/heads/main
