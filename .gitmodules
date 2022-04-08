@@ -63482,3 +63482,7 @@
 	url = https://github.com/conda-forge/tvips-tools-feedstock.git
 	path = feedstocks/tvips-tools
 	branch = refs/heads/main
+[submodule "soxr"]
+	url = https://github.com/conda-forge/soxr-feedstock.git
+	path = feedstocks/soxr
+	branch = refs/heads/main
