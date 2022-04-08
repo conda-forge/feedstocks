@@ -63494,3 +63494,7 @@
 	url = https://github.com/conda-forge/mkdocs-table-reader-plugin-feedstock.git
 	path = feedstocks/mkdocs-table-reader-plugin
 	branch = refs/heads/main
+[submodule "mkdocs-gen-files"]
+	url = https://github.com/conda-forge/mkdocs-gen-files-feedstock.git
+	path = feedstocks/mkdocs-gen-files
+	branch = refs/heads/main
