@@ -63486,3 +63486,7 @@
 	url = https://github.com/conda-forge/soxr-feedstock.git
 	path = feedstocks/soxr
 	branch = refs/heads/main
+[submodule "cmeutils"]
+	url = https://github.com/conda-forge/cmeutils-feedstock.git
+	path = feedstocks/cmeutils
+	branch = refs/heads/main
