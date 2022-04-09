@@ -63514,3 +63514,7 @@
 	url = https://github.com/conda-forge/pyproject-parser-feedstock.git
 	path = feedstocks/pyproject-parser
 	branch = refs/heads/main
+[submodule "clpeak"]
+	url = https://github.com/conda-forge/clpeak-feedstock.git
+	path = feedstocks/clpeak
+	branch = refs/heads/main
