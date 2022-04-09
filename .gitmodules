@@ -63506,3 +63506,7 @@
 	url = https://github.com/conda-forge/digen-feedstock.git
 	path = feedstocks/digen
 	branch = refs/heads/main
+[submodule "r-dse"]
+	url = https://github.com/conda-forge/r-dse-feedstock.git
+	path = feedstocks/r-dse
+	branch = refs/heads/main
