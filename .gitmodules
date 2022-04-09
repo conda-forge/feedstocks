@@ -63510,3 +63510,7 @@
 	url = https://github.com/conda-forge/r-dse-feedstock.git
 	path = feedstocks/r-dse
 	branch = refs/heads/main
+[submodule "pyproject-parser"]
+	url = https://github.com/conda-forge/pyproject-parser-feedstock.git
+	path = feedstocks/pyproject-parser
+	branch = refs/heads/main
