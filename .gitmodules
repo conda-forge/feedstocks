@@ -63522,3 +63522,7 @@
 	url = https://github.com/conda-forge/testmsm-feedstock.git
 	path = feedstocks/testmsm
 	branch = refs/heads/main
+[submodule "whey"]
+	url = https://github.com/conda-forge/whey-feedstock.git
+	path = feedstocks/whey
+	branch = refs/heads/main
