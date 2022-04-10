@@ -63518,3 +63518,7 @@
 	url = https://github.com/conda-forge/clpeak-feedstock.git
 	path = feedstocks/clpeak
 	branch = refs/heads/main
+[submodule "testmsm"]
+	url = https://github.com/conda-forge/testmsm-feedstock.git
+	path = feedstocks/testmsm
+	branch = refs/heads/main
