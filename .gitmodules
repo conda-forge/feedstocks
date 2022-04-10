@@ -63526,3 +63526,7 @@
 	url = https://github.com/conda-forge/whey-feedstock.git
 	path = feedstocks/whey
 	branch = refs/heads/main
+[submodule "lazytransform"]
+	url = https://github.com/conda-forge/lazytransform-feedstock.git
+	path = feedstocks/lazytransform
+	branch = refs/heads/main
