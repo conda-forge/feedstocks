@@ -63566,3 +63566,7 @@
 	url = https://github.com/conda-forge/seclea_ai-feedstock.git
 	path = feedstocks/seclea_ai
 	branch = refs/heads/main
+[submodule "gi-docgen"]
+	url = https://github.com/conda-forge/gi-docgen-feedstock.git
+	path = feedstocks/gi-docgen
+	branch = refs/heads/main
