@@ -63530,3 +63530,7 @@
 	url = https://github.com/conda-forge/lazytransform-feedstock.git
 	path = feedstocks/lazytransform
 	branch = refs/heads/main
+[submodule "climlab-emanuel-convection"]
+	url = https://github.com/conda-forge/climlab-emanuel-convection-feedstock.git
+	path = feedstocks/climlab-emanuel-convection
+	branch = refs/heads/main
