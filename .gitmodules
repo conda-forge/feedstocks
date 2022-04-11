@@ -63546,3 +63546,7 @@
 	url = https://github.com/conda-forge/pysmt-feedstock.git
 	path = feedstocks/pysmt
 	branch = refs/heads/main
+[submodule "bladerf"]
+	url = https://github.com/conda-forge/bladerf-feedstock.git
+	path = feedstocks/bladerf
+	branch = refs/heads/main
