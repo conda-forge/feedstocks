@@ -63550,3 +63550,7 @@
 	url = https://github.com/conda-forge/bladerf-feedstock.git
 	path = feedstocks/bladerf
 	branch = refs/heads/main
+[submodule "pyhanko"]
+	url = https://github.com/conda-forge/pyhanko-feedstock.git
+	path = feedstocks/pyhanko
+	branch = refs/heads/main
