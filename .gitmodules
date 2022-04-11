@@ -63554,3 +63554,7 @@
 	url = https://github.com/conda-forge/pyhanko-feedstock.git
 	path = feedstocks/pyhanko
 	branch = refs/heads/main
+[submodule "pyhanko-certvalidator"]
+	url = https://github.com/conda-forge/pyhanko-certvalidator-feedstock.git
+	path = feedstocks/pyhanko-certvalidator
+	branch = refs/heads/main
