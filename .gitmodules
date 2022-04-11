@@ -63538,3 +63538,7 @@
 	url = https://github.com/conda-forge/goodvibes-feedstock.git
 	path = feedstocks/goodvibes
 	branch = refs/heads/main
+[submodule "soapysdr-module-bladerf"]
+	url = https://github.com/conda-forge/soapysdr-module-bladerf-feedstock.git
+	path = feedstocks/soapysdr-module-bladerf
+	branch = refs/heads/main
