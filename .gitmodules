@@ -63542,3 +63542,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-bladerf-feedstock.git
 	path = feedstocks/soapysdr-module-bladerf
 	branch = refs/heads/main
+[submodule "pysmt"]
+	url = https://github.com/conda-forge/pysmt-feedstock.git
+	path = feedstocks/pysmt
+	branch = refs/heads/main
