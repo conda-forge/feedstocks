@@ -63582,3 +63582,7 @@
 	url = https://github.com/conda-forge/pdoc-feedstock.git
 	path = feedstocks/pdoc
 	branch = refs/heads/main
+[submodule "sql-metadata"]
+	url = https://github.com/conda-forge/sql-metadata-feedstock.git
+	path = feedstocks/sql-metadata
+	branch = refs/heads/main
