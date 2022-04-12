@@ -63578,3 +63578,7 @@
 	url = https://github.com/conda-forge/sqcircuit-feedstock.git
 	path = feedstocks/sqcircuit
 	branch = refs/heads/main
+[submodule "pdoc"]
+	url = https://github.com/conda-forge/pdoc-feedstock.git
+	path = feedstocks/pdoc
+	branch = refs/heads/main
