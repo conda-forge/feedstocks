@@ -63618,3 +63618,7 @@
 	url = https://github.com/conda-forge/pytest-harvest-feedstock.git
 	path = feedstocks/pytest-harvest
 	branch = refs/heads/main
+[submodule "enum_tools"]
+	url = https://github.com/conda-forge/enum_tools-feedstock.git
+	path = feedstocks/enum_tools
+	branch = refs/heads/main
