@@ -63606,3 +63606,7 @@
 	url = https://github.com/conda-forge/astroedu-feedstock.git
 	path = feedstocks/astroedu
 	branch = refs/heads/main
+[submodule "trident-chemwidgets"]
+	url = https://github.com/conda-forge/trident-chemwidgets-feedstock.git
+	path = feedstocks/trident-chemwidgets
+	branch = refs/heads/main
