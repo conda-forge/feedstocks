@@ -63614,3 +63614,7 @@
 	url = https://github.com/conda-forge/docx-mailmerge-feedstock.git
 	path = feedstocks/docx-mailmerge
 	branch = refs/heads/main
+[submodule "pytest-harvest"]
+	url = https://github.com/conda-forge/pytest-harvest-feedstock.git
+	path = feedstocks/pytest-harvest
+	branch = refs/heads/main
