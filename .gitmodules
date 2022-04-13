@@ -63586,3 +63586,7 @@
 	url = https://github.com/conda-forge/sql-metadata-feedstock.git
 	path = feedstocks/sql-metadata
 	branch = refs/heads/main
+[submodule "finlogic"]
+	url = https://github.com/conda-forge/finlogic-feedstock.git
+	path = feedstocks/finlogic
+	branch = refs/heads/main
