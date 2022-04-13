@@ -63598,3 +63598,7 @@
 	url = https://github.com/conda-forge/r-modelstudio-feedstock.git
 	path = feedstocks/r-modelstudio
 	branch = refs/heads/main
+[submodule "tango-gateway"]
+	url = https://github.com/conda-forge/tango-gateway-feedstock.git
+	path = feedstocks/tango-gateway
+	branch = refs/heads/main
