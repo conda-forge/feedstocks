@@ -63626,3 +63626,7 @@
 	url = https://github.com/conda-forge/delayed-assert-feedstock.git
 	path = feedstocks/delayed-assert
 	branch = refs/heads/main
+[submodule "simple_benchmark"]
+	url = https://github.com/conda-forge/simple_benchmark-feedstock.git
+	path = feedstocks/simple_benchmark
+	branch = refs/heads/main
