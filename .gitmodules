@@ -63594,3 +63594,7 @@
 	url = https://github.com/conda-forge/pyportfolioopt-feedstock.git
 	path = feedstocks/pyportfolioopt
 	branch = refs/heads/main
+[submodule "r-modelstudio"]
+	url = https://github.com/conda-forge/r-modelstudio-feedstock.git
+	path = feedstocks/r-modelstudio
+	branch = refs/heads/main
