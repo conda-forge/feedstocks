@@ -63610,3 +63610,7 @@
 	url = https://github.com/conda-forge/trident-chemwidgets-feedstock.git
 	path = feedstocks/trident-chemwidgets
 	branch = refs/heads/main
+[submodule "docx-mailmerge"]
+	url = https://github.com/conda-forge/docx-mailmerge-feedstock.git
+	path = feedstocks/docx-mailmerge
+	branch = refs/heads/main
