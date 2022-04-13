@@ -63622,3 +63622,7 @@
 	url = https://github.com/conda-forge/enum_tools-feedstock.git
 	path = feedstocks/enum_tools
 	branch = refs/heads/main
+[submodule "delayed-assert"]
+	url = https://github.com/conda-forge/delayed-assert-feedstock.git
+	path = feedstocks/delayed-assert
+	branch = refs/heads/main
