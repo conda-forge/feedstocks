@@ -63638,3 +63638,7 @@
 	url = https://github.com/conda-forge/xarray-sentinel-feedstock.git
 	path = feedstocks/xarray-sentinel
 	branch = refs/heads/main
+[submodule "sarsen"]
+	url = https://github.com/conda-forge/sarsen-feedstock.git
+	path = feedstocks/sarsen
+	branch = refs/heads/main
