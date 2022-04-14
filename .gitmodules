@@ -63666,3 +63666,7 @@
 	url = https://github.com/conda-forge/geospatial-ml-feedstock.git
 	path = feedstocks/geospatial-ml
 	branch = refs/heads/main
+[submodule "pptree"]
+	url = https://github.com/conda-forge/pptree-feedstock.git
+	path = feedstocks/pptree
+	branch = refs/heads/main
