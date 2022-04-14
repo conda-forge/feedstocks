@@ -63662,3 +63662,7 @@
 	url = https://github.com/conda-forge/lenstronomy-feedstock.git
 	path = feedstocks/lenstronomy
 	branch = refs/heads/main
+[submodule "geospatial-ml"]
+	url = https://github.com/conda-forge/geospatial-ml-feedstock.git
+	path = feedstocks/geospatial-ml
+	branch = refs/heads/main
