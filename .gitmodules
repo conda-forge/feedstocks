@@ -63630,3 +63630,7 @@
 	url = https://github.com/conda-forge/simple_benchmark-feedstock.git
 	path = feedstocks/simple_benchmark
 	branch = refs/heads/main
+[submodule "r-babynames"]
+	url = https://github.com/conda-forge/r-babynames-feedstock.git
+	path = feedstocks/r-babynames
+	branch = refs/heads/main
