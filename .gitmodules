@@ -63642,3 +63642,7 @@
 	url = https://github.com/conda-forge/sarsen-feedstock.git
 	path = feedstocks/sarsen
 	branch = refs/heads/main
+[submodule "pysbol3"]
+	url = https://github.com/conda-forge/pysbol3-feedstock.git
+	path = feedstocks/pysbol3
+	branch = refs/heads/main
