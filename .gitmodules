@@ -63634,3 +63634,7 @@
 	url = https://github.com/conda-forge/r-babynames-feedstock.git
 	path = feedstocks/r-babynames
 	branch = refs/heads/main
+[submodule "xarray-sentinel"]
+	url = https://github.com/conda-forge/xarray-sentinel-feedstock.git
+	path = feedstocks/xarray-sentinel
+	branch = refs/heads/main
