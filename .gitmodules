@@ -63678,3 +63678,7 @@
 	url = https://github.com/conda-forge/geocat-comp-feedstock.git
 	path = feedstocks/geocat-comp
 	branch = refs/heads/main
+[submodule "stormevents"]
+	url = https://github.com/conda-forge/stormevents-feedstock.git
+	path = feedstocks/stormevents
+	branch = refs/heads/main
