@@ -63674,3 +63674,7 @@
 	url = https://github.com/conda-forge/pandemy-feedstock.git
 	path = feedstocks/pandemy
 	branch = refs/heads/main
+[submodule "geocat-comp"]
+	url = https://github.com/conda-forge/geocat-comp-feedstock.git
+	path = feedstocks/geocat-comp
+	branch = refs/heads/main
