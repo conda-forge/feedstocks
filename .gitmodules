@@ -63702,3 +63702,7 @@
 	url = https://github.com/conda-forge/modzy-sdk-feedstock.git
 	path = feedstocks/modzy-sdk
 	branch = refs/heads/main
+[submodule "geograpy3"]
+	url = https://github.com/conda-forge/geograpy3-feedstock.git
+	path = feedstocks/geograpy3
+	branch = refs/heads/main
