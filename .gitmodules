@@ -63726,3 +63726,7 @@
 	url = https://github.com/conda-forge/conflowgen-feedstock.git
 	path = feedstocks/conflowgen
 	branch = refs/heads/main
+[submodule "pytest-loguru"]
+	url = https://github.com/conda-forge/pytest-loguru-feedstock.git
+	path = feedstocks/pytest-loguru
+	branch = refs/heads/main
