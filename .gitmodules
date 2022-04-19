@@ -63694,3 +63694,7 @@
 	url = https://github.com/conda-forge/myst-nb-bokeh-feedstock.git
 	path = feedstocks/myst-nb-bokeh
 	branch = refs/heads/main
+[submodule "graphistry"]
+	url = https://github.com/conda-forge/graphistry-feedstock.git
+	path = feedstocks/graphistry
+	branch = refs/heads/main
