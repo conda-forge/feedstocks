@@ -63698,3 +63698,7 @@
 	url = https://github.com/conda-forge/graphistry-feedstock.git
 	path = feedstocks/graphistry
 	branch = refs/heads/main
+[submodule "modzy-sdk"]
+	url = https://github.com/conda-forge/modzy-sdk-feedstock.git
+	path = feedstocks/modzy-sdk
+	branch = refs/heads/main
