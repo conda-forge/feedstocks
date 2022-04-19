@@ -63690,3 +63690,7 @@
 	url = https://github.com/conda-forge/dict2css-feedstock.git
 	path = feedstocks/dict2css
 	branch = refs/heads/main
+[submodule "myst-nb-bokeh"]
+	url = https://github.com/conda-forge/myst-nb-bokeh-feedstock.git
+	path = feedstocks/myst-nb-bokeh
+	branch = refs/heads/main
