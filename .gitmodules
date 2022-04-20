@@ -63770,3 +63770,7 @@
 	url = https://github.com/conda-forge/jupyterlab-stickyland-feedstock.git
 	path = feedstocks/jupyterlab-stickyland
 	branch = refs/heads/main
+[submodule "tsam"]
+	url = https://github.com/conda-forge/tsam-feedstock.git
+	path = feedstocks/tsam
+	branch = refs/heads/main
