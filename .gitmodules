@@ -63754,3 +63754,7 @@
 	url = https://github.com/conda-forge/nbpreview-feedstock.git
 	path = feedstocks/nbpreview
 	branch = refs/heads/main
+[submodule "pigeon-jupyter"]
+	url = https://github.com/conda-forge/pigeon-jupyter-feedstock.git
+	path = feedstocks/pigeon-jupyter
+	branch = refs/heads/main
