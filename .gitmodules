@@ -63766,3 +63766,7 @@
 	url = https://github.com/conda-forge/smopy-feedstock.git
 	path = feedstocks/smopy
 	branch = refs/heads/main
+[submodule "jupyterlab-stickyland"]
+	url = https://github.com/conda-forge/jupyterlab-stickyland-feedstock.git
+	path = feedstocks/jupyterlab-stickyland
+	branch = refs/heads/main
