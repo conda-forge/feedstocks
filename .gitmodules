@@ -63730,3 +63730,7 @@
 	url = https://github.com/conda-forge/pytest-loguru-feedstock.git
 	path = feedstocks/pytest-loguru
 	branch = refs/heads/main
+[submodule "rich-rst"]
+	url = https://github.com/conda-forge/rich-rst-feedstock.git
+	path = feedstocks/rich-rst
+	branch = refs/heads/main
