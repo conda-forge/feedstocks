@@ -63758,3 +63758,7 @@
 	url = https://github.com/conda-forge/pigeon-jupyter-feedstock.git
 	path = feedstocks/pigeon-jupyter
 	branch = refs/heads/main
+[submodule "lhapdf"]
+	url = https://github.com/conda-forge/lhapdf-feedstock.git
+	path = feedstocks/lhapdf
+	branch = refs/heads/main
