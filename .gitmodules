@@ -63774,3 +63774,7 @@
 	url = https://github.com/conda-forge/tsam-feedstock.git
 	path = feedstocks/tsam
 	branch = refs/heads/main
+[submodule "libdwarf"]
+	url = https://github.com/conda-forge/libdwarf-feedstock.git
+	path = feedstocks/libdwarf
+	branch = refs/heads/main
