@@ -63742,3 +63742,7 @@
 	url = https://github.com/conda-forge/finetuning-scheduler-feedstock.git
 	path = feedstocks/finetuning-scheduler
 	branch = refs/heads/main
+[submodule "pymagewell"]
+	url = https://github.com/conda-forge/pymagewell-feedstock.git
+	path = feedstocks/pymagewell
+	branch = refs/heads/main
