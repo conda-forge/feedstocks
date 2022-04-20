@@ -63738,3 +63738,7 @@
 	url = https://github.com/conda-forge/ml-research-feedstock.git
 	path = feedstocks/ml-research
 	branch = refs/heads/main
+[submodule "finetuning-scheduler"]
+	url = https://github.com/conda-forge/finetuning-scheduler-feedstock.git
+	path = feedstocks/finetuning-scheduler
+	branch = refs/heads/main
