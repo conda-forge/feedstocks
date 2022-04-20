@@ -63778,3 +63778,7 @@
 	url = https://github.com/conda-forge/libdwarf-feedstock.git
 	path = feedstocks/libdwarf
 	branch = refs/heads/main
+[submodule "nwbinspector"]
+	url = https://github.com/conda-forge/nwbinspector-feedstock.git
+	path = feedstocks/nwbinspector
+	branch = refs/heads/main
