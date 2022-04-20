@@ -63746,3 +63746,7 @@
 	url = https://github.com/conda-forge/pymagewell-feedstock.git
 	path = feedstocks/pymagewell
 	branch = refs/heads/main
+[submodule "libfyaml"]
+	url = https://github.com/conda-forge/libfyaml-feedstock.git
+	path = feedstocks/libfyaml
+	branch = refs/heads/main
