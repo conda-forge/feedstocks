@@ -63762,3 +63762,7 @@
 	url = https://github.com/conda-forge/lhapdf-feedstock.git
 	path = feedstocks/lhapdf
 	branch = refs/heads/main
+[submodule "smopy"]
+	url = https://github.com/conda-forge/smopy-feedstock.git
+	path = feedstocks/smopy
+	branch = refs/heads/main
