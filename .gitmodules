@@ -63750,3 +63750,7 @@
 	url = https://github.com/conda-forge/libfyaml-feedstock.git
 	path = feedstocks/libfyaml
 	branch = refs/heads/main
+[submodule "nbpreview"]
+	url = https://github.com/conda-forge/nbpreview-feedstock.git
+	path = feedstocks/nbpreview
+	branch = refs/heads/main
