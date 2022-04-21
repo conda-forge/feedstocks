@@ -63810,3 +63810,7 @@
 	url = https://github.com/conda-forge/cmakelang-feedstock.git
 	path = feedstocks/cmakelang
 	branch = refs/heads/main
+[submodule "coiled-runtime"]
+	url = https://github.com/conda-forge/coiled-runtime-feedstock.git
+	path = feedstocks/coiled-runtime
+	branch = refs/heads/main
