@@ -63806,3 +63806,7 @@
 	url = https://github.com/conda-forge/splinecalib-feedstock.git
 	path = feedstocks/splinecalib
 	branch = refs/heads/main
+[submodule "cmakelang"]
+	url = https://github.com/conda-forge/cmakelang-feedstock.git
+	path = feedstocks/cmakelang
+	branch = refs/heads/main
