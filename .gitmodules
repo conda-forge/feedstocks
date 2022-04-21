@@ -63814,3 +63814,7 @@
 	url = https://github.com/conda-forge/coiled-runtime-feedstock.git
 	path = feedstocks/coiled-runtime
 	branch = refs/heads/main
+[submodule "gh-scoped-creds"]
+	url = https://github.com/conda-forge/gh-scoped-creds-feedstock.git
+	path = feedstocks/gh-scoped-creds
+	branch = refs/heads/main
