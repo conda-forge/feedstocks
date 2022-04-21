@@ -63818,3 +63818,7 @@
 	url = https://github.com/conda-forge/gh-scoped-creds-feedstock.git
 	path = feedstocks/gh-scoped-creds
 	branch = refs/heads/main
+[submodule "testslide"]
+	url = https://github.com/conda-forge/testslide-feedstock.git
+	path = feedstocks/testslide
+	branch = refs/heads/main
