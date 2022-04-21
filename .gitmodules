@@ -63794,3 +63794,7 @@
 	url = https://github.com/conda-forge/ommprotocol-feedstock.git
 	path = feedstocks/ommprotocol
 	branch = refs/heads/main
+[submodule "jupyterlab_email"]
+	url = https://github.com/conda-forge/jupyterlab_email-feedstock.git
+	path = feedstocks/jupyterlab_email
+	branch = refs/heads/main
