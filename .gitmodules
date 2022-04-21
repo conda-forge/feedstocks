@@ -63786,3 +63786,7 @@
 	url = https://github.com/conda-forge/python-vxi11-feedstock.git
 	path = feedstocks/python-vxi11
 	branch = refs/heads/main
+[submodule "rich-cli"]
+	url = https://github.com/conda-forge/rich-cli-feedstock.git
+	path = feedstocks/rich-cli
+	branch = refs/heads/main
