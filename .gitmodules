@@ -63826,3 +63826,7 @@
 	url = https://github.com/conda-forge/aerobulk-python-feedstock.git
 	path = feedstocks/aerobulk-python
 	branch = refs/heads/main
+[submodule "epics-alh"]
+	url = https://github.com/conda-forge/epics-alh-feedstock.git
+	path = feedstocks/epics-alh
+	branch = refs/heads/main
