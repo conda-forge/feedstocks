@@ -63802,3 +63802,7 @@
 	url = https://github.com/conda-forge/chopin2-feedstock.git
 	path = feedstocks/chopin2
 	branch = refs/heads/main
+[submodule "splinecalib"]
+	url = https://github.com/conda-forge/splinecalib-feedstock.git
+	path = feedstocks/splinecalib
+	branch = refs/heads/main
