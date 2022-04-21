@@ -63822,3 +63822,7 @@
 	url = https://github.com/conda-forge/testslide-feedstock.git
 	path = feedstocks/testslide
 	branch = refs/heads/main
+[submodule "aerobulk-python"]
+	url = https://github.com/conda-forge/aerobulk-python-feedstock.git
+	path = feedstocks/aerobulk-python
+	branch = refs/heads/main
