@@ -63842,3 +63842,7 @@
 	url = https://github.com/conda-forge/memray-feedstock.git
 	path = feedstocks/memray
 	branch = refs/heads/main
+[submodule "asdf-wcs-schemas"]
+	url = https://github.com/conda-forge/asdf-wcs-schemas-feedstock.git
+	path = feedstocks/asdf-wcs-schemas
+	branch = refs/heads/main
