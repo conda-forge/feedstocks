@@ -63834,3 +63834,7 @@
 	url = https://github.com/conda-forge/r-metadat-feedstock.git
 	path = feedstocks/r-metadat
 	branch = refs/heads/main
+[submodule "jupyterlab-webrtc-docprovider"]
+	url = https://github.com/conda-forge/jupyterlab-webrtc-docprovider-feedstock.git
+	path = feedstocks/jupyterlab-webrtc-docprovider
+	branch = refs/heads/main
