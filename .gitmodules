@@ -63838,3 +63838,7 @@
 	url = https://github.com/conda-forge/jupyterlab-webrtc-docprovider-feedstock.git
 	path = feedstocks/jupyterlab-webrtc-docprovider
 	branch = refs/heads/main
+[submodule "memray"]
+	url = https://github.com/conda-forge/memray-feedstock.git
+	path = feedstocks/memray
+	branch = refs/heads/main
