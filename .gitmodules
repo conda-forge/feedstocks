@@ -63830,3 +63830,7 @@
 	url = https://github.com/conda-forge/epics-alh-feedstock.git
 	path = feedstocks/epics-alh
 	branch = refs/heads/main
+[submodule "r-metadat"]
+	url = https://github.com/conda-forge/r-metadat-feedstock.git
+	path = feedstocks/r-metadat
+	branch = refs/heads/main
