@@ -63854,3 +63854,7 @@
 	url = https://github.com/conda-forge/r-juliacall-feedstock.git
 	path = feedstocks/r-juliacall
 	branch = refs/heads/main
+[submodule "datajudge"]
+	url = https://github.com/conda-forge/datajudge-feedstock.git
+	path = feedstocks/datajudge
+	branch = refs/heads/main
