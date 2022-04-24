@@ -63850,3 +63850,7 @@
 	url = https://github.com/conda-forge/r-islr-feedstock.git
 	path = feedstocks/r-islr
 	branch = refs/heads/main
+[submodule "r-juliacall"]
+	url = https://github.com/conda-forge/r-juliacall-feedstock.git
+	path = feedstocks/r-juliacall
+	branch = refs/heads/main
