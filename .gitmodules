@@ -63846,3 +63846,7 @@
 	url = https://github.com/conda-forge/asdf-wcs-schemas-feedstock.git
 	path = feedstocks/asdf-wcs-schemas
 	branch = refs/heads/main
+[submodule "r-islr"]
+	url = https://github.com/conda-forge/r-islr-feedstock.git
+	path = feedstocks/r-islr
+	branch = refs/heads/main
