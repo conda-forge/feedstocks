@@ -63866,3 +63866,7 @@
 	url = https://github.com/conda-forge/quantlib-feedstock.git
 	path = feedstocks/quantlib
 	branch = refs/heads/main
+[submodule "whey-pth"]
+	url = https://github.com/conda-forge/whey-pth-feedstock.git
+	path = feedstocks/whey-pth
+	branch = refs/heads/main
