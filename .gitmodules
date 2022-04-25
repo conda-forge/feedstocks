@@ -63882,3 +63882,7 @@
 	url = https://github.com/conda-forge/fine-feedstock.git
 	path = feedstocks/fine
 	branch = refs/heads/main
+[submodule "catalystcoop.pudl_catalog"]
+	url = https://github.com/conda-forge/catalystcoop.pudl_catalog-feedstock.git
+	path = feedstocks/catalystcoop.pudl_catalog
+	branch = refs/heads/main
