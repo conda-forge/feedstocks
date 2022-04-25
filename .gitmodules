@@ -63874,3 +63874,7 @@
 	url = https://github.com/conda-forge/bilby.cython-feedstock.git
 	path = feedstocks/bilby.cython
 	branch = refs/heads/main
+[submodule "seismon"]
+	url = https://github.com/conda-forge/seismon-feedstock.git
+	path = feedstocks/seismon
+	branch = refs/heads/main
