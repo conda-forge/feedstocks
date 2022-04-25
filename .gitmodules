@@ -63878,3 +63878,7 @@
 	url = https://github.com/conda-forge/seismon-feedstock.git
 	path = feedstocks/seismon
 	branch = refs/heads/main
+[submodule "fine"]
+	url = https://github.com/conda-forge/fine-feedstock.git
+	path = feedstocks/fine
+	branch = refs/heads/main
