@@ -63858,3 +63858,7 @@
 	url = https://github.com/conda-forge/datajudge-feedstock.git
 	path = feedstocks/datajudge
 	branch = refs/heads/main
+[submodule "absolufy-imports"]
+	url = https://github.com/conda-forge/absolufy-imports-feedstock.git
+	path = feedstocks/absolufy-imports
+	branch = refs/heads/main
