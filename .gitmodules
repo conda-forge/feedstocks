@@ -63870,3 +63870,7 @@
 	url = https://github.com/conda-forge/whey-pth-feedstock.git
 	path = feedstocks/whey-pth
 	branch = refs/heads/main
+[submodule "bilby.cython"]
+	url = https://github.com/conda-forge/bilby.cython-feedstock.git
+	path = feedstocks/bilby.cython
+	branch = refs/heads/main
