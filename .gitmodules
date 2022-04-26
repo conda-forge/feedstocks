@@ -63898,3 +63898,7 @@
 	url = https://github.com/conda-forge/dials-feedstock.git
 	path = feedstocks/dials
 	branch = refs/heads/main
+[submodule "ypy-websocket"]
+	url = https://github.com/conda-forge/ypy-websocket-feedstock.git
+	path = feedstocks/ypy-websocket
+	branch = refs/heads/main
