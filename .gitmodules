@@ -63894,3 +63894,7 @@
 	url = https://github.com/conda-forge/osmium-tool-feedstock.git
 	path = feedstocks/osmium-tool
 	branch = refs/heads/main
+[submodule "dials"]
+	url = https://github.com/conda-forge/dials-feedstock.git
+	path = feedstocks/dials
+	branch = refs/heads/main
