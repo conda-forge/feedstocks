@@ -63918,3 +63918,7 @@
 	url = https://github.com/conda-forge/histolab-feedstock.git
 	path = feedstocks/histolab
 	branch = refs/heads/main
+[submodule "r-survivalmodels"]
+	url = https://github.com/conda-forge/r-survivalmodels-feedstock.git
+	path = feedstocks/r-survivalmodels
+	branch = refs/heads/main
