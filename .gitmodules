@@ -63922,3 +63922,7 @@
 	url = https://github.com/conda-forge/r-survivalmodels-feedstock.git
 	path = feedstocks/r-survivalmodels
 	branch = refs/heads/main
+[submodule "ipywidgets-bokeh"]
+	url = https://github.com/conda-forge/ipywidgets-bokeh-feedstock.git
+	path = feedstocks/ipywidgets-bokeh
+	branch = refs/heads/main
