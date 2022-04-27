@@ -64002,3 +64002,7 @@
 	url = https://github.com/conda-forge/ytree-feedstock.git
 	path = feedstocks/ytree
 	branch = refs/heads/main
+[submodule "dpd_components"]
+	url = https://github.com/conda-forge/dpd_components-feedstock.git
+	path = feedstocks/dpd_components
+	branch = refs/heads/main
