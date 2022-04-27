@@ -63958,3 +63958,7 @@
 	url = https://github.com/conda-forge/hdlib-feedstock.git
 	path = feedstocks/hdlib
 	branch = refs/heads/main
+[submodule "types-psycopg2"]
+	url = https://github.com/conda-forge/types-psycopg2-feedstock.git
+	path = feedstocks/types-psycopg2
+	branch = refs/heads/main
