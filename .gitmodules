@@ -64010,3 +64010,7 @@
 	url = https://github.com/conda-forge/lsdeluxe-feedstock.git
 	path = feedstocks/lsdeluxe
 	branch = refs/heads/main
+[submodule "wsgi-request-id"]
+	url = https://github.com/conda-forge/wsgi-request-id-feedstock.git
+	path = feedstocks/wsgi-request-id
+	branch = refs/heads/main
