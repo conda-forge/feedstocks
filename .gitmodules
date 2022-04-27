@@ -63946,3 +63946,7 @@
 	url = https://github.com/conda-forge/pykube-ng-feedstock.git
 	path = feedstocks/pykube-ng
 	branch = refs/heads/main
+[submodule "oras"]
+	url = https://github.com/conda-forge/oras-feedstock.git
+	path = feedstocks/oras
+	branch = refs/heads/main
