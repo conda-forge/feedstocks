@@ -63954,3 +63954,7 @@
 	url = https://github.com/conda-forge/server-thread-feedstock.git
 	path = feedstocks/server-thread
 	branch = refs/heads/main
+[submodule "hdlib"]
+	url = https://github.com/conda-forge/hdlib-feedstock.git
+	path = feedstocks/hdlib
+	branch = refs/heads/main
