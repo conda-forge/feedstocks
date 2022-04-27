@@ -64014,3 +64014,7 @@
 	url = https://github.com/conda-forge/wsgi-request-id-feedstock.git
 	path = feedstocks/wsgi-request-id
 	branch = refs/heads/main
+[submodule "flask_request_id"]
+	url = https://github.com/conda-forge/flask_request_id-feedstock.git
+	path = feedstocks/flask_request_id
+	branch = refs/heads/main
