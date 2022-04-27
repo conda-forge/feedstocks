@@ -63982,3 +63982,7 @@
 	url = https://github.com/conda-forge/pdftopng-feedstock.git
 	path = feedstocks/pdftopng
 	branch = refs/heads/main
+[submodule "palantir-sdk"]
+	url = https://github.com/conda-forge/palantir-sdk-feedstock.git
+	path = feedstocks/palantir-sdk
+	branch = refs/heads/main
