@@ -63962,3 +63962,7 @@
 	url = https://github.com/conda-forge/types-psycopg2-feedstock.git
 	path = feedstocks/types-psycopg2
 	branch = refs/heads/main
+[submodule "pytest-fail-slow"]
+	url = https://github.com/conda-forge/pytest-fail-slow-feedstock.git
+	path = feedstocks/pytest-fail-slow
+	branch = refs/heads/main
