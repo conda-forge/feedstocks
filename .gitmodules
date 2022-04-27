@@ -63990,3 +63990,7 @@
 	url = https://github.com/conda-forge/django-large-image-feedstock.git
 	path = feedstocks/django-large-image
 	branch = refs/heads/main
+[submodule "dyff"]
+	url = https://github.com/conda-forge/dyff-feedstock.git
+	path = feedstocks/dyff
+	branch = refs/heads/main
