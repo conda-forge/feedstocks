@@ -63986,3 +63986,7 @@
 	url = https://github.com/conda-forge/palantir-sdk-feedstock.git
 	path = feedstocks/palantir-sdk
 	branch = refs/heads/main
+[submodule "django-large-image"]
+	url = https://github.com/conda-forge/django-large-image-feedstock.git
+	path = feedstocks/django-large-image
+	branch = refs/heads/main
