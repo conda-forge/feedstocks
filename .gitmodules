@@ -63942,3 +63942,7 @@
 	url = https://github.com/conda-forge/geokit-feedstock.git
 	path = feedstocks/geokit
 	branch = refs/heads/main
+[submodule "pykube-ng"]
+	url = https://github.com/conda-forge/pykube-ng-feedstock.git
+	path = feedstocks/pykube-ng
+	branch = refs/heads/main
