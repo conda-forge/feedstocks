@@ -64062,3 +64062,7 @@
 	url = https://github.com/conda-forge/prettypyplot-feedstock.git
 	path = feedstocks/prettypyplot
 	branch = refs/heads/main
+[submodule "kennard-stone"]
+	url = https://github.com/conda-forge/kennard-stone-feedstock.git
+	path = feedstocks/kennard-stone
+	branch = refs/heads/main
