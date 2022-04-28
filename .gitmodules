@@ -64054,3 +64054,7 @@
 	url = https://github.com/conda-forge/kopf-feedstock.git
 	path = feedstocks/kopf
 	branch = refs/heads/main
+[submodule "pynomaly"]
+	url = https://github.com/conda-forge/pynomaly-feedstock.git
+	path = feedstocks/pynomaly
+	branch = refs/heads/main
