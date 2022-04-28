@@ -64042,3 +64042,7 @@
 	url = https://github.com/conda-forge/openspoor-feedstock.git
 	path = feedstocks/openspoor
 	branch = refs/heads/main
+[submodule "gwpopulation-pipe"]
+	url = https://github.com/conda-forge/gwpopulation-pipe-feedstock.git
+	path = feedstocks/gwpopulation-pipe
+	branch = refs/heads/main
