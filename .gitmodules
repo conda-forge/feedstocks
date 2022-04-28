@@ -64026,3 +64026,7 @@
 	url = https://github.com/conda-forge/qudida-feedstock.git
 	path = feedstocks/qudida
 	branch = refs/heads/main
+[submodule "dwclib"]
+	url = https://github.com/conda-forge/dwclib-feedstock.git
+	path = feedstocks/dwclib
+	branch = refs/heads/main
