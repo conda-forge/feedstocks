@@ -64034,3 +64034,7 @@
 	url = https://github.com/conda-forge/dustgoggles-feedstock.git
 	path = feedstocks/dustgoggles
 	branch = refs/heads/main
+[submodule "pydevtool"]
+	url = https://github.com/conda-forge/pydevtool-feedstock.git
+	path = feedstocks/pydevtool
+	branch = refs/heads/main
