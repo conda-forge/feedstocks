@@ -64046,3 +64046,7 @@
 	url = https://github.com/conda-forge/gwpopulation-pipe-feedstock.git
 	path = feedstocks/gwpopulation-pipe
 	branch = refs/heads/main
+[submodule "mlnotify"]
+	url = https://github.com/conda-forge/mlnotify-feedstock.git
+	path = feedstocks/mlnotify
+	branch = refs/heads/main
