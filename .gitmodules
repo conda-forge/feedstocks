@@ -64050,3 +64050,7 @@
 	url = https://github.com/conda-forge/mlnotify-feedstock.git
 	path = feedstocks/mlnotify
 	branch = refs/heads/main
+[submodule "kopf"]
+	url = https://github.com/conda-forge/kopf-feedstock.git
+	path = feedstocks/kopf
+	branch = refs/heads/main
