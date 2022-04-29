@@ -64082,3 +64082,7 @@
 	url = https://github.com/conda-forge/opendap-protocol-feedstock.git
 	path = feedstocks/opendap-protocol
 	branch = refs/heads/main
+[submodule "tinynetrc"]
+	url = https://github.com/conda-forge/tinynetrc-feedstock.git
+	path = feedstocks/tinynetrc
+	branch = refs/heads/main
