@@ -64070,3 +64070,7 @@
 	url = https://github.com/conda-forge/types-uno-script-feedstock.git
 	path = feedstocks/types-uno-script
 	branch = refs/heads/main
+[submodule "r-srs"]
+	url = https://github.com/conda-forge/r-srs-feedstock.git
+	path = feedstocks/r-srs
+	branch = refs/heads/main
