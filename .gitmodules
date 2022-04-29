@@ -64078,3 +64078,7 @@
 	url = https://github.com/conda-forge/types-unopy-feedstock.git
 	path = feedstocks/types-unopy
 	branch = refs/heads/main
+[submodule "opendap-protocol"]
+	url = https://github.com/conda-forge/opendap-protocol-feedstock.git
+	path = feedstocks/opendap-protocol
+	branch = refs/heads/main
