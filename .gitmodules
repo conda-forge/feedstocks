@@ -64074,3 +64074,7 @@
 	url = https://github.com/conda-forge/r-srs-feedstock.git
 	path = feedstocks/r-srs
 	branch = refs/heads/main
+[submodule "types-unopy"]
+	url = https://github.com/conda-forge/types-unopy-feedstock.git
+	path = feedstocks/types-unopy
+	branch = refs/heads/main
