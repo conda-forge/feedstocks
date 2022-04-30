@@ -64094,3 +64094,7 @@
 	url = https://github.com/conda-forge/flake8-requirements-feedstock.git
 	path = feedstocks/flake8-requirements
 	branch = refs/heads/main
+[submodule "pyrams"]
+	url = https://github.com/conda-forge/pyrams-feedstock.git
+	path = feedstocks/pyrams
+	branch = refs/heads/main
