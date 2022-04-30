@@ -64090,3 +64090,7 @@
 	url = https://github.com/conda-forge/pyrmsd-feedstock.git
 	path = feedstocks/pyrmsd
 	branch = refs/heads/main
+[submodule "flake8-requirements"]
+	url = https://github.com/conda-forge/flake8-requirements-feedstock.git
+	path = feedstocks/flake8-requirements
+	branch = refs/heads/main
