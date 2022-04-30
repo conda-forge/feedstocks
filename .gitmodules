@@ -64106,3 +64106,7 @@
 	url = https://github.com/conda-forge/ezgooey-feedstock.git
 	path = feedstocks/ezgooey
 	branch = refs/heads/main
+[submodule "semi-ate-project-database"]
+	url = https://github.com/conda-forge/semi-ate-project-database-feedstock.git
+	path = feedstocks/semi-ate-project-database
+	branch = refs/heads/main
