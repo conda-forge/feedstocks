@@ -64098,3 +64098,7 @@
 	url = https://github.com/conda-forge/pyrams-feedstock.git
 	path = feedstocks/pyrams
 	branch = refs/heads/main
+[submodule "dvclive"]
+	url = https://github.com/conda-forge/dvclive-feedstock.git
+	path = feedstocks/dvclive
+	branch = refs/heads/main
