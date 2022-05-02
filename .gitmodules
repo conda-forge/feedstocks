@@ -64114,3 +64114,7 @@
 	url = https://github.com/conda-forge/hashids-feedstock.git
 	path = feedstocks/hashids
 	branch = refs/heads/main
+[submodule "qforce"]
+	url = https://github.com/conda-forge/qforce-feedstock.git
+	path = feedstocks/qforce
+	branch = refs/heads/main
