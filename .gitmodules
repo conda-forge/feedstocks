@@ -64150,3 +64150,7 @@
 	url = https://github.com/conda-forge/scine-sparrow-python-feedstock.git
 	path = feedstocks/scine-sparrow-python
 	branch = refs/heads/main
+[submodule "sphinx-jinja2-compat"]
+	url = https://github.com/conda-forge/sphinx-jinja2-compat-feedstock.git
+	path = feedstocks/sphinx-jinja2-compat
+	branch = refs/heads/main
