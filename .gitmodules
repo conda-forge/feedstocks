@@ -64110,3 +64110,7 @@
 	url = https://github.com/conda-forge/semi-ate-project-database-feedstock.git
 	path = feedstocks/semi-ate-project-database
 	branch = refs/heads/main
+[submodule "hashids"]
+	url = https://github.com/conda-forge/hashids-feedstock.git
+	path = feedstocks/hashids
+	branch = refs/heads/main
