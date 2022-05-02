@@ -64118,3 +64118,7 @@
 	url = https://github.com/conda-forge/qforce-feedstock.git
 	path = feedstocks/qforce
 	branch = refs/heads/main
+[submodule "blueqat"]
+	url = https://github.com/conda-forge/blueqat-feedstock.git
+	path = feedstocks/blueqat
+	branch = refs/heads/main
