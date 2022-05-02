@@ -64138,3 +64138,7 @@
 	url = https://github.com/conda-forge/kenlm-feedstock.git
 	path = feedstocks/kenlm
 	branch = refs/heads/main
+[submodule "scine-readuct"]
+	url = https://github.com/conda-forge/scine-readuct-feedstock.git
+	path = feedstocks/scine-readuct
+	branch = refs/heads/main
