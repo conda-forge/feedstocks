@@ -64158,3 +64158,7 @@
 	url = https://github.com/conda-forge/osdatahub-feedstock.git
 	path = feedstocks/osdatahub
 	branch = refs/heads/main
+[submodule "ibis-heavyai"]
+	url = https://github.com/conda-forge/ibis-heavyai-feedstock.git
+	path = feedstocks/ibis-heavyai
+	branch = refs/heads/main
