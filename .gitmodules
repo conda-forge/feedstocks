@@ -64130,3 +64130,7 @@
 	url = https://github.com/conda-forge/facilyst-feedstock.git
 	path = feedstocks/facilyst
 	branch = refs/heads/main
+[submodule "mkdocs-git-revision-date-localized-plugin"]
+	url = https://github.com/conda-forge/mkdocs-git-revision-date-localized-plugin-feedstock.git
+	path = feedstocks/mkdocs-git-revision-date-localized-plugin
+	branch = refs/heads/main
