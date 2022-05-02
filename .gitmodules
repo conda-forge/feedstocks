@@ -64122,3 +64122,7 @@
 	url = https://github.com/conda-forge/blueqat-feedstock.git
 	path = feedstocks/blueqat
 	branch = refs/heads/main
+[submodule "pycolt"]
+	url = https://github.com/conda-forge/pycolt-feedstock.git
+	path = feedstocks/pycolt
+	branch = refs/heads/main
