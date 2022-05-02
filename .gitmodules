@@ -64134,3 +64134,7 @@
 	url = https://github.com/conda-forge/mkdocs-git-revision-date-localized-plugin-feedstock.git
 	path = feedstocks/mkdocs-git-revision-date-localized-plugin
 	branch = refs/heads/main
+[submodule "kenlm"]
+	url = https://github.com/conda-forge/kenlm-feedstock.git
+	path = feedstocks/kenlm
+	branch = refs/heads/main
