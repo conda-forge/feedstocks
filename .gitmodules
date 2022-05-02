@@ -64146,3 +64146,7 @@
 	url = https://github.com/conda-forge/scine-xtb-feedstock.git
 	path = feedstocks/scine-xtb
 	branch = refs/heads/main
+[submodule "scine-sparrow-python"]
+	url = https://github.com/conda-forge/scine-sparrow-python-feedstock.git
+	path = feedstocks/scine-sparrow-python
+	branch = refs/heads/main
