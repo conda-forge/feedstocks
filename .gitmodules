@@ -64142,3 +64142,7 @@
 	url = https://github.com/conda-forge/scine-readuct-feedstock.git
 	path = feedstocks/scine-readuct
 	branch = refs/heads/main
+[submodule "scine-xtb"]
+	url = https://github.com/conda-forge/scine-xtb-feedstock.git
+	path = feedstocks/scine-xtb
+	branch = refs/heads/main
