@@ -64162,3 +64162,7 @@
 	url = https://github.com/conda-forge/ibis-heavyai-feedstock.git
 	path = feedstocks/ibis-heavyai
 	branch = refs/heads/main
+[submodule "sqloxide"]
+	url = https://github.com/conda-forge/sqloxide-feedstock.git
+	path = feedstocks/sqloxide
+	branch = refs/heads/main
