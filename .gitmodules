@@ -64174,3 +64174,7 @@
 	url = https://github.com/conda-forge/semi-ate-plugins-feedstock.git
 	path = feedstocks/semi-ate-plugins
 	branch = refs/heads/main
+[submodule "semi-ate-sammy"]
+	url = https://github.com/conda-forge/semi-ate-sammy-feedstock.git
+	path = feedstocks/semi-ate-sammy
+	branch = refs/heads/main
