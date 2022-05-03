@@ -64190,3 +64190,7 @@
 	url = https://github.com/conda-forge/marspylib-feedstock.git
 	path = feedstocks/marspylib
 	branch = refs/heads/main
+[submodule "isbnlib"]
+	url = https://github.com/conda-forge/isbnlib-feedstock.git
+	path = feedstocks/isbnlib
+	branch = refs/heads/main
