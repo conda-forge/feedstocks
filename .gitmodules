@@ -64182,3 +64182,7 @@
 	url = https://github.com/conda-forge/include-what-you-use-feedstock.git
 	path = feedstocks/include-what-you-use
 	branch = refs/heads/main
+[submodule "ezyrb"]
+	url = https://github.com/conda-forge/ezyrb-feedstock.git
+	path = feedstocks/ezyrb
+	branch = refs/heads/main
