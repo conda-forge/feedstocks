@@ -64170,3 +64170,7 @@
 	url = https://github.com/conda-forge/sella-feedstock.git
 	path = feedstocks/sella
 	branch = refs/heads/main
+[submodule "semi-ate-plugins"]
+	url = https://github.com/conda-forge/semi-ate-plugins-feedstock.git
+	path = feedstocks/semi-ate-plugins
+	branch = refs/heads/main
