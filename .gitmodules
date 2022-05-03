@@ -64194,3 +64194,7 @@
 	url = https://github.com/conda-forge/isbnlib-feedstock.git
 	path = feedstocks/isbnlib
 	branch = refs/heads/main
+[submodule "pelican-bibliography"]
+	url = https://github.com/conda-forge/pelican-bibliography-feedstock.git
+	path = feedstocks/pelican-bibliography
+	branch = refs/heads/main
