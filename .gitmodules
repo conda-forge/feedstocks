@@ -64166,3 +64166,7 @@
 	url = https://github.com/conda-forge/sqloxide-feedstock.git
 	path = feedstocks/sqloxide
 	branch = refs/heads/main
+[submodule "sella"]
+	url = https://github.com/conda-forge/sella-feedstock.git
+	path = feedstocks/sella
+	branch = refs/heads/main
