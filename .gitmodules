@@ -64206,3 +64206,7 @@
 	url = https://github.com/conda-forge/xnemogcm-feedstock.git
 	path = feedstocks/xnemogcm
 	branch = refs/heads/main
+[submodule "energymon"]
+	url = https://github.com/conda-forge/energymon-feedstock.git
+	path = feedstocks/energymon
+	branch = refs/heads/main
