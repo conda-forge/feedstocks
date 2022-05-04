@@ -64202,3 +64202,7 @@
 	url = https://github.com/conda-forge/python-graphblas-feedstock.git
 	path = feedstocks/python-graphblas
 	branch = refs/heads/main
+[submodule "xnemogcm"]
+	url = https://github.com/conda-forge/xnemogcm-feedstock.git
+	path = feedstocks/xnemogcm
+	branch = refs/heads/main
