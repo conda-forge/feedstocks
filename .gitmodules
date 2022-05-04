@@ -64210,3 +64210,7 @@
 	url = https://github.com/conda-forge/energymon-feedstock.git
 	path = feedstocks/energymon
 	branch = refs/heads/main
+[submodule "sphinx-toolbox"]
+	url = https://github.com/conda-forge/sphinx-toolbox-feedstock.git
+	path = feedstocks/sphinx-toolbox
+	branch = refs/heads/main
