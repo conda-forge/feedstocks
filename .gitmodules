@@ -64230,3 +64230,7 @@
 	url = https://github.com/conda-forge/sdjson-feedstock.git
 	path = feedstocks/sdjson
 	branch = refs/heads/main
+[submodule "cxroots"]
+	url = https://github.com/conda-forge/cxroots-feedstock.git
+	path = feedstocks/cxroots
+	branch = refs/heads/main
