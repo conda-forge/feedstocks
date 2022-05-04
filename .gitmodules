@@ -64234,3 +64234,7 @@
 	url = https://github.com/conda-forge/cxroots-feedstock.git
 	path = feedstocks/cxroots
 	branch = refs/heads/main
+[submodule "click-default-group-wheel"]
+	url = https://github.com/conda-forge/click-default-group-wheel-feedstock.git
+	path = feedstocks/click-default-group-wheel
+	branch = refs/heads/main
