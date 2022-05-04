@@ -64218,3 +64218,7 @@
 	url = https://github.com/conda-forge/collections-extended-feedstock.git
 	path = feedstocks/collections-extended
 	branch = refs/heads/main
+[submodule "jupyter_ydoc"]
+	url = https://github.com/conda-forge/jupyter_ydoc-feedstock.git
+	path = feedstocks/jupyter_ydoc
+	branch = refs/heads/main
