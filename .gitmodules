@@ -64250,3 +64250,7 @@
 	url = https://github.com/conda-forge/py2dm-feedstock.git
 	path = feedstocks/py2dm
 	branch = refs/heads/main
+[submodule "qiskit-ibmq-provider"]
+	url = https://github.com/conda-forge/qiskit-ibmq-provider-feedstock.git
+	path = feedstocks/qiskit-ibmq-provider
+	branch = refs/heads/main
