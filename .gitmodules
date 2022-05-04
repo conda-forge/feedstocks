@@ -64222,3 +64222,7 @@
 	url = https://github.com/conda-forge/jupyter_ydoc-feedstock.git
 	path = feedstocks/jupyter_ydoc
 	branch = refs/heads/main
+[submodule "telnetlib3"]
+	url = https://github.com/conda-forge/telnetlib3-feedstock.git
+	path = feedstocks/telnetlib3
+	branch = refs/heads/main
