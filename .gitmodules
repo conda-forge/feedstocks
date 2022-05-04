@@ -64254,3 +64254,7 @@
 	url = https://github.com/conda-forge/qiskit-ibmq-provider-feedstock.git
 	path = feedstocks/qiskit-ibmq-provider
 	branch = refs/heads/main
+[submodule "qiskit-finance"]
+	url = https://github.com/conda-forge/qiskit-finance-feedstock.git
+	path = feedstocks/qiskit-finance
+	branch = refs/heads/main
