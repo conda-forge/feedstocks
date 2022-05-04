@@ -64242,3 +64242,7 @@
 	url = https://github.com/conda-forge/verstr-feedstock.git
 	path = feedstocks/verstr
 	branch = refs/heads/main
+[submodule "muspinsim"]
+	url = https://github.com/conda-forge/muspinsim-feedstock.git
+	path = feedstocks/muspinsim
+	branch = refs/heads/main
