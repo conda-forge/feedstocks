@@ -64198,3 +64198,7 @@
 	url = https://github.com/conda-forge/pelican-bibliography-feedstock.git
 	path = feedstocks/pelican-bibliography
 	branch = refs/heads/main
+[submodule "python-graphblas"]
+	url = https://github.com/conda-forge/python-graphblas-feedstock.git
+	path = feedstocks/python-graphblas
+	branch = refs/heads/main
