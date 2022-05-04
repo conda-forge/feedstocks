@@ -64214,3 +64214,7 @@
 	url = https://github.com/conda-forge/sphinx-toolbox-feedstock.git
 	path = feedstocks/sphinx-toolbox
 	branch = refs/heads/main
+[submodule "collections-extended"]
+	url = https://github.com/conda-forge/collections-extended-feedstock.git
+	path = feedstocks/collections-extended
+	branch = refs/heads/main
