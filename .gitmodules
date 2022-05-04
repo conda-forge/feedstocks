@@ -64238,3 +64238,7 @@
 	url = https://github.com/conda-forge/click-default-group-wheel-feedstock.git
 	path = feedstocks/click-default-group-wheel
 	branch = refs/heads/main
+[submodule "verstr"]
+	url = https://github.com/conda-forge/verstr-feedstock.git
+	path = feedstocks/verstr
+	branch = refs/heads/main
