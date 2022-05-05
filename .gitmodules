@@ -64266,3 +64266,7 @@
 	url = https://github.com/conda-forge/pydantic_factories-feedstock.git
 	path = feedstocks/pydantic_factories
 	branch = refs/heads/main
+[submodule "pycdlib"]
+	url = https://github.com/conda-forge/pycdlib-feedstock.git
+	path = feedstocks/pycdlib
+	branch = refs/heads/main
