@@ -64294,3 +64294,7 @@
 	url = https://github.com/conda-forge/microed-data-feedstock.git
 	path = feedstocks/microed-data
 	branch = refs/heads/main
+[submodule "microed-tools"]
+	url = https://github.com/conda-forge/microed-tools-feedstock.git
+	path = feedstocks/microed-tools
+	branch = refs/heads/main
