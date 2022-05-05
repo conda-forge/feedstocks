@@ -64274,3 +64274,7 @@
 	url = https://github.com/conda-forge/vtkwriters-feedstock.git
 	path = feedstocks/vtkwriters
 	branch = refs/heads/main
+[submodule "mkdocs-graphviz"]
+	url = https://github.com/conda-forge/mkdocs-graphviz-feedstock.git
+	path = feedstocks/mkdocs-graphviz
+	branch = refs/heads/main
