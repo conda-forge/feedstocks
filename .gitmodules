@@ -64262,3 +64262,7 @@
 	url = https://github.com/conda-forge/r-ggmice-feedstock.git
 	path = feedstocks/r-ggmice
 	branch = refs/heads/main
+[submodule "pydantic_factories"]
+	url = https://github.com/conda-forge/pydantic_factories-feedstock.git
+	path = feedstocks/pydantic_factories
+	branch = refs/heads/main
