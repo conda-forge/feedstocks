@@ -64270,3 +64270,7 @@
 	url = https://github.com/conda-forge/pycdlib-feedstock.git
 	path = feedstocks/pycdlib
 	branch = refs/heads/main
+[submodule "vtkwriters"]
+	url = https://github.com/conda-forge/vtkwriters-feedstock.git
+	path = feedstocks/vtkwriters
+	branch = refs/heads/main
