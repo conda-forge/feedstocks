@@ -64282,3 +64282,7 @@
 	url = https://github.com/conda-forge/yt-dlg-feedstock.git
 	path = feedstocks/yt-dlg
 	branch = refs/heads/main
+[submodule "semi-ate-testers"]
+	url = https://github.com/conda-forge/semi-ate-testers-feedstock.git
+	path = feedstocks/semi-ate-testers
+	branch = refs/heads/main
