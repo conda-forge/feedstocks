@@ -64290,3 +64290,7 @@
 	url = https://github.com/conda-forge/qiskit-ignis-feedstock.git
 	path = feedstocks/qiskit-ignis
 	branch = refs/heads/main
+[submodule "microed-data"]
+	url = https://github.com/conda-forge/microed-data-feedstock.git
+	path = feedstocks/microed-data
+	branch = refs/heads/main
