@@ -64286,3 +64286,7 @@
 	url = https://github.com/conda-forge/semi-ate-testers-feedstock.git
 	path = feedstocks/semi-ate-testers
 	branch = refs/heads/main
+[submodule "qiskit-ignis"]
+	url = https://github.com/conda-forge/qiskit-ignis-feedstock.git
+	path = feedstocks/qiskit-ignis
+	branch = refs/heads/main
