@@ -64298,3 +64298,7 @@
 	url = https://github.com/conda-forge/microed-tools-feedstock.git
 	path = feedstocks/microed-tools
 	branch = refs/heads/main
+[submodule "empiricaldist"]
+	url = https://github.com/conda-forge/empiricaldist-feedstock.git
+	path = feedstocks/empiricaldist
+	branch = refs/heads/main
