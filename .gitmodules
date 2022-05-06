@@ -64314,3 +64314,7 @@
 	url = https://github.com/conda-forge/bigearthnet-patch-interface-feedstock.git
 	path = feedstocks/bigearthnet-patch-interface
 	branch = refs/heads/main
+[submodule "quacc"]
+	url = https://github.com/conda-forge/quacc-feedstock.git
+	path = feedstocks/quacc
+	branch = refs/heads/main
