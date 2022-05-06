@@ -64310,3 +64310,7 @@
 	url = https://github.com/conda-forge/bigearthnet-gdf-builder-feedstock.git
 	path = feedstocks/bigearthnet-gdf-builder
 	branch = refs/heads/main
+[submodule "bigearthnet-patch-interface"]
+	url = https://github.com/conda-forge/bigearthnet-patch-interface-feedstock.git
+	path = feedstocks/bigearthnet-patch-interface
+	branch = refs/heads/main
