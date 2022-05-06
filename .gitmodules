@@ -64306,3 +64306,7 @@
 	url = https://github.com/conda-forge/aiosmtpd-feedstock.git
 	path = feedstocks/aiosmtpd
 	branch = refs/heads/main
+[submodule "bigearthnet-gdf-builder"]
+	url = https://github.com/conda-forge/bigearthnet-gdf-builder-feedstock.git
+	path = feedstocks/bigearthnet-gdf-builder
+	branch = refs/heads/main
