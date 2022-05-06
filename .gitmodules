@@ -64318,3 +64318,7 @@
 	url = https://github.com/conda-forge/quacc-feedstock.git
 	path = feedstocks/quacc
 	branch = refs/heads/main
+[submodule "atomate2"]
+	url = https://github.com/conda-forge/atomate2-feedstock.git
+	path = feedstocks/atomate2
+	branch = refs/heads/main
