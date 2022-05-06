@@ -64302,3 +64302,7 @@
 	url = https://github.com/conda-forge/empiricaldist-feedstock.git
 	path = feedstocks/empiricaldist
 	branch = refs/heads/main
+[submodule "aiosmtpd"]
+	url = https://github.com/conda-forge/aiosmtpd-feedstock.git
+	path = feedstocks/aiosmtpd
+	branch = refs/heads/main
