@@ -64330,3 +64330,7 @@
 	url = https://github.com/conda-forge/pyscript-cli-feedstock.git
 	path = feedstocks/pyscript-cli
 	branch = refs/heads/main
+[submodule "semi-ate-apps-common"]
+	url = https://github.com/conda-forge/semi-ate-apps-common-feedstock.git
+	path = feedstocks/semi-ate-apps-common
+	branch = refs/heads/main
