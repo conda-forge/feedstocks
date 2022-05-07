@@ -64346,3 +64346,7 @@
 	url = https://github.com/conda-forge/semi-ate-test-app-feedstock.git
 	path = feedstocks/semi-ate-test-app
 	branch = refs/heads/main
+[submodule "grits"]
+	url = https://github.com/conda-forge/grits-feedstock.git
+	path = feedstocks/grits
+	branch = refs/heads/main
