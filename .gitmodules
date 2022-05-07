@@ -64338,3 +64338,7 @@
 	url = https://github.com/conda-forge/semi-ate-master-app-feedstock.git
 	path = feedstocks/semi-ate-master-app
 	branch = refs/heads/main
+[submodule "mosaic-clustering"]
+	url = https://github.com/conda-forge/mosaic-clustering-feedstock.git
+	path = feedstocks/mosaic-clustering
+	branch = refs/heads/main
