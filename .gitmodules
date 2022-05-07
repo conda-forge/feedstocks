@@ -64326,3 +64326,7 @@
 	url = https://github.com/conda-forge/inept-feedstock.git
 	path = feedstocks/inept
 	branch = refs/heads/main
+[submodule "pyscript-cli"]
+	url = https://github.com/conda-forge/pyscript-cli-feedstock.git
+	path = feedstocks/pyscript-cli
+	branch = refs/heads/main
