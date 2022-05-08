@@ -64350,3 +64350,7 @@
 	url = https://github.com/conda-forge/grits-feedstock.git
 	path = feedstocks/grits
 	branch = refs/heads/main
+[submodule "hexwatershed"]
+	url = https://github.com/conda-forge/hexwatershed-feedstock.git
+	path = feedstocks/hexwatershed
+	branch = refs/heads/main
