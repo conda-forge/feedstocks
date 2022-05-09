@@ -64366,3 +64366,7 @@
 	url = https://github.com/conda-forge/bigearthnet-encoder-feedstock.git
 	path = feedstocks/bigearthnet-encoder
 	branch = refs/heads/main
+[submodule "spacy-models"]
+	url = https://github.com/conda-forge/spacy-models-feedstock.git
+	path = feedstocks/spacy-models
+	branch = refs/heads/main
