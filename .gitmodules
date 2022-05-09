@@ -64382,3 +64382,7 @@
 	url = https://github.com/conda-forge/semi-ate-control-app-feedstock.git
 	path = feedstocks/semi-ate-control-app
 	branch = refs/heads/main
+[submodule "webdataset"]
+	url = https://github.com/conda-forge/webdataset-feedstock.git
+	path = feedstocks/webdataset
+	branch = refs/heads/main
