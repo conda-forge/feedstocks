@@ -64354,3 +64354,7 @@
 	url = https://github.com/conda-forge/hexwatershed-feedstock.git
 	path = feedstocks/hexwatershed
 	branch = refs/heads/main
+[submodule "r-httpgd"]
+	url = https://github.com/conda-forge/r-httpgd-feedstock.git
+	path = feedstocks/r-httpgd
+	branch = refs/heads/main
