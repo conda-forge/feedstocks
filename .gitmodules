@@ -64378,3 +64378,7 @@
 	url = https://github.com/conda-forge/hyperbox-brain-feedstock.git
 	path = feedstocks/hyperbox-brain
 	branch = refs/heads/main
+[submodule "semi-ate-control-app"]
+	url = https://github.com/conda-forge/semi-ate-control-app-feedstock.git
+	path = feedstocks/semi-ate-control-app
+	branch = refs/heads/main
