@@ -64358,3 +64358,7 @@
 	url = https://github.com/conda-forge/r-httpgd-feedstock.git
 	path = feedstocks/r-httpgd
 	branch = refs/heads/main
+[submodule "wsidicom"]
+	url = https://github.com/conda-forge/wsidicom-feedstock.git
+	path = feedstocks/wsidicom
+	branch = refs/heads/main
