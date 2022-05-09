@@ -64362,3 +64362,7 @@
 	url = https://github.com/conda-forge/wsidicom-feedstock.git
 	path = feedstocks/wsidicom
 	branch = refs/heads/main
+[submodule "bigearthnet-encoder"]
+	url = https://github.com/conda-forge/bigearthnet-encoder-feedstock.git
+	path = feedstocks/bigearthnet-encoder
+	branch = refs/heads/main
