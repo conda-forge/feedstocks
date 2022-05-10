@@ -64406,3 +64406,7 @@
 	url = https://github.com/conda-forge/ddsketch-feedstock.git
 	path = feedstocks/ddsketch
 	branch = refs/heads/main
+[submodule "stestr"]
+	url = https://github.com/conda-forge/stestr-feedstock.git
+	path = feedstocks/stestr
+	branch = refs/heads/main
