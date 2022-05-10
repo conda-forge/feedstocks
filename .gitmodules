@@ -64398,3 +64398,7 @@
 	url = https://github.com/conda-forge/blimpy-feedstock.git
 	path = feedstocks/blimpy
 	branch = refs/heads/main
+[submodule "mne-icalabel"]
+	url = https://github.com/conda-forge/mne-icalabel-feedstock.git
+	path = feedstocks/mne-icalabel
+	branch = refs/heads/main
