@@ -64386,3 +64386,7 @@
 	url = https://github.com/conda-forge/webdataset-feedstock.git
 	path = feedstocks/webdataset
 	branch = refs/heads/main
+[submodule "flakeheaven"]
+	url = https://github.com/conda-forge/flakeheaven-feedstock.git
+	path = feedstocks/flakeheaven
+	branch = refs/heads/main
