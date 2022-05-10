@@ -64394,3 +64394,7 @@
 	url = https://github.com/conda-forge/turbo-seti-feedstock.git
 	path = feedstocks/turbo-seti
 	branch = refs/heads/main
+[submodule "blimpy"]
+	url = https://github.com/conda-forge/blimpy-feedstock.git
+	path = feedstocks/blimpy
+	branch = refs/heads/main
