@@ -64410,3 +64410,7 @@
 	url = https://github.com/conda-forge/stestr-feedstock.git
 	path = feedstocks/stestr
 	branch = refs/heads/main
+[submodule "esbonio"]
+	url = https://github.com/conda-forge/esbonio-feedstock.git
+	path = feedstocks/esbonio
+	branch = refs/heads/main
