@@ -64418,3 +64418,7 @@
 	url = https://github.com/conda-forge/echemdb-feedstock.git
 	path = feedstocks/echemdb
 	branch = refs/heads/main
+[submodule "junitparser"]
+	url = https://github.com/conda-forge/junitparser-feedstock.git
+	path = feedstocks/junitparser
+	branch = refs/heads/main
