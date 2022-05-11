@@ -64414,3 +64414,7 @@
 	url = https://github.com/conda-forge/esbonio-feedstock.git
 	path = feedstocks/esbonio
 	branch = refs/heads/main
+[submodule "echemdb"]
+	url = https://github.com/conda-forge/echemdb-feedstock.git
+	path = feedstocks/echemdb
+	branch = refs/heads/main
