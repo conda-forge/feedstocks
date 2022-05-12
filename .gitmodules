@@ -64434,3 +64434,7 @@
 	url = https://github.com/conda-forge/r-wdm-feedstock.git
 	path = feedstocks/r-wdm
 	branch = refs/heads/main
+[submodule "r-kde1d"]
+	url = https://github.com/conda-forge/r-kde1d-feedstock.git
+	path = feedstocks/r-kde1d
+	branch = refs/heads/main
