@@ -64438,3 +64438,7 @@
 	url = https://github.com/conda-forge/r-kde1d-feedstock.git
 	path = feedstocks/r-kde1d
 	branch = refs/heads/main
+[submodule "r-rvinecopulib"]
+	url = https://github.com/conda-forge/r-rvinecopulib-feedstock.git
+	path = feedstocks/r-rvinecopulib
+	branch = refs/heads/main
