@@ -64454,3 +64454,7 @@
 	url = https://github.com/conda-forge/semi-ate-spyder-feedstock.git
 	path = feedstocks/semi-ate-spyder
 	branch = refs/heads/main
+[submodule "zerorpc-python"]
+	url = https://github.com/conda-forge/zerorpc-python-feedstock.git
+	path = feedstocks/zerorpc-python
+	branch = refs/heads/main
