@@ -64422,3 +64422,7 @@
 	url = https://github.com/conda-forge/junitparser-feedstock.git
 	path = feedstocks/junitparser
 	branch = refs/heads/main
+[submodule "pyhunspell"]
+	url = https://github.com/conda-forge/pyhunspell-feedstock.git
+	path = feedstocks/pyhunspell
+	branch = refs/heads/main
