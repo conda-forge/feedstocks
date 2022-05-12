@@ -64450,3 +64450,7 @@
 	url = https://github.com/conda-forge/r-ensr-feedstock.git
 	path = feedstocks/r-ensr
 	branch = refs/heads/main
+[submodule "semi-ate-spyder"]
+	url = https://github.com/conda-forge/semi-ate-spyder-feedstock.git
+	path = feedstocks/semi-ate-spyder
+	branch = refs/heads/main
