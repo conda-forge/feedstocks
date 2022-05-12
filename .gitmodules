@@ -64430,3 +64430,7 @@
 	url = https://github.com/conda-forge/microfilm-feedstock.git
 	path = feedstocks/microfilm
 	branch = refs/heads/main
+[submodule "r-wdm"]
+	url = https://github.com/conda-forge/r-wdm-feedstock.git
+	path = feedstocks/r-wdm
+	branch = refs/heads/main
