@@ -64446,3 +64446,7 @@
 	url = https://github.com/conda-forge/meilisearch-feedstock.git
 	path = feedstocks/meilisearch
 	branch = refs/heads/main
+[submodule "r-ensr"]
+	url = https://github.com/conda-forge/r-ensr-feedstock.git
+	path = feedstocks/r-ensr
+	branch = refs/heads/main
