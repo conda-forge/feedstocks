@@ -64442,3 +64442,7 @@
 	url = https://github.com/conda-forge/r-rvinecopulib-feedstock.git
 	path = feedstocks/r-rvinecopulib
 	branch = refs/heads/main
+[submodule "meilisearch"]
+	url = https://github.com/conda-forge/meilisearch-feedstock.git
+	path = feedstocks/meilisearch
+	branch = refs/heads/main
