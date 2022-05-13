@@ -64470,3 +64470,7 @@
 	url = https://github.com/conda-forge/bitmath-feedstock.git
 	path = feedstocks/bitmath
 	branch = refs/heads/main
+[submodule "pyload-ng"]
+	url = https://github.com/conda-forge/pyload-ng-feedstock.git
+	path = feedstocks/pyload-ng
+	branch = refs/heads/main
