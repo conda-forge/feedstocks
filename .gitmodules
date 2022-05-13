@@ -64458,3 +64458,7 @@
 	url = https://github.com/conda-forge/zerorpc-python-feedstock.git
 	path = feedstocks/zerorpc-python
 	branch = refs/heads/main
+[submodule "gsw-xarray"]
+	url = https://github.com/conda-forge/gsw-xarray-feedstock.git
+	path = feedstocks/gsw-xarray
+	branch = refs/heads/main
