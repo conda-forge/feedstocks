@@ -64482,3 +64482,7 @@
 	url = https://github.com/conda-forge/mosquitto-feedstock.git
 	path = feedstocks/mosquitto
 	branch = refs/heads/main
+[submodule "sparsearray"]
+	url = https://github.com/conda-forge/sparsearray-feedstock.git
+	path = feedstocks/sparsearray
+	branch = refs/heads/main
