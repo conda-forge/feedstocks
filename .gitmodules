@@ -64486,3 +64486,7 @@
 	url = https://github.com/conda-forge/sparsearray-feedstock.git
 	path = feedstocks/sparsearray
 	branch = refs/heads/main
+[submodule "r-msar"]
+	url = https://github.com/conda-forge/r-msar-feedstock.git
+	path = feedstocks/r-msar
+	branch = refs/heads/main
