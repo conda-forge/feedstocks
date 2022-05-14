@@ -64474,3 +64474,7 @@
 	url = https://github.com/conda-forge/pyload-ng-feedstock.git
 	path = feedstocks/pyload-ng
 	branch = refs/heads/main
+[submodule "r-gap.datasets"]
+	url = https://github.com/conda-forge/r-gap.datasets-feedstock.git
+	path = feedstocks/r-gap.datasets
+	branch = refs/heads/main
