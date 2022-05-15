@@ -64510,3 +64510,7 @@
 	url = https://github.com/conda-forge/pennylane-honeywell-feedstock.git
 	path = feedstocks/pennylane-honeywell
 	branch = refs/heads/main
+[submodule "fenics-ufl"]
+	url = https://github.com/conda-forge/fenics-ufl-feedstock.git
+	path = feedstocks/fenics-ufl
+	branch = refs/heads/main
