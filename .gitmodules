@@ -64518,3 +64518,7 @@
 	url = https://github.com/conda-forge/pds4_tools-feedstock.git
 	path = feedstocks/pds4_tools
 	branch = refs/heads/main
+[submodule "quantlib-python"]
+	url = https://github.com/conda-forge/quantlib-python-feedstock.git
+	path = feedstocks/quantlib-python
+	branch = refs/heads/main
