@@ -64514,3 +64514,7 @@
 	url = https://github.com/conda-forge/fenics-ufl-feedstock.git
 	path = feedstocks/fenics-ufl
 	branch = refs/heads/main
+[submodule "pds4_tools"]
+	url = https://github.com/conda-forge/pds4_tools-feedstock.git
+	path = feedstocks/pds4_tools
+	branch = refs/heads/main
