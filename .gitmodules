@@ -64506,3 +64506,7 @@
 	url = https://github.com/conda-forge/r-matrixextra-feedstock.git
 	path = feedstocks/r-matrixextra
 	branch = refs/heads/main
+[submodule "pennylane-honeywell"]
+	url = https://github.com/conda-forge/pennylane-honeywell-feedstock.git
+	path = feedstocks/pennylane-honeywell
+	branch = refs/heads/main
