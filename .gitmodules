@@ -64502,3 +64502,7 @@
 	url = https://github.com/conda-forge/r-prider-feedstock.git
 	path = feedstocks/r-prider
 	branch = refs/heads/main
+[submodule "r-matrixextra"]
+	url = https://github.com/conda-forge/r-matrixextra-feedstock.git
+	path = feedstocks/r-matrixextra
+	branch = refs/heads/main
