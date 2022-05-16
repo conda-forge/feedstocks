@@ -64546,3 +64546,7 @@
 	url = https://github.com/conda-forge/alchemlyb-feedstock.git
 	path = feedstocks/alchemlyb
 	branch = refs/heads/main
+[submodule "flake8-noqa"]
+	url = https://github.com/conda-forge/flake8-noqa-feedstock.git
+	path = feedstocks/flake8-noqa
+	branch = refs/heads/main
