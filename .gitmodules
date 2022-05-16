@@ -64542,3 +64542,7 @@
 	url = https://github.com/conda-forge/rdflib-sqlalchemy-feedstock.git
 	path = feedstocks/rdflib-sqlalchemy
 	branch = refs/heads/main
+[submodule "alchemlyb"]
+	url = https://github.com/conda-forge/alchemlyb-feedstock.git
+	path = feedstocks/alchemlyb
+	branch = refs/heads/main
