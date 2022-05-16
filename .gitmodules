@@ -64554,3 +64554,7 @@
 	url = https://github.com/conda-forge/napari-yolov5-feedstock.git
 	path = feedstocks/napari-yolov5
 	branch = refs/heads/main
+[submodule "adl2pydm"]
+	url = https://github.com/conda-forge/adl2pydm-feedstock.git
+	path = feedstocks/adl2pydm
+	branch = refs/heads/main
