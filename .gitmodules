@@ -64562,3 +64562,7 @@
 	url = https://github.com/conda-forge/polygon-api-client-feedstock.git
 	path = feedstocks/polygon-api-client
 	branch = refs/heads/main
+[submodule "finnhub-python"]
+	url = https://github.com/conda-forge/finnhub-python-feedstock.git
+	path = feedstocks/finnhub-python
+	branch = refs/heads/main
