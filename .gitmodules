@@ -64538,3 +64538,7 @@
 	url = https://github.com/conda-forge/r-climate4r.udg-feedstock.git
 	path = feedstocks/r-climate4r.udg
 	branch = refs/heads/main
+[submodule "rdflib-sqlalchemy"]
+	url = https://github.com/conda-forge/rdflib-sqlalchemy-feedstock.git
+	path = feedstocks/rdflib-sqlalchemy
+	branch = refs/heads/main
