@@ -64526,3 +64526,7 @@
 	url = https://github.com/conda-forge/r-mopa-feedstock.git
 	path = feedstocks/r-mopa
 	branch = refs/heads/main
+[submodule "r-loader.2nc"]
+	url = https://github.com/conda-forge/r-loader.2nc-feedstock.git
+	path = feedstocks/r-loader.2nc
+	branch = refs/heads/main
