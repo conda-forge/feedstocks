@@ -64550,3 +64550,7 @@
 	url = https://github.com/conda-forge/flake8-noqa-feedstock.git
 	path = feedstocks/flake8-noqa
 	branch = refs/heads/main
+[submodule "napari-yolov5"]
+	url = https://github.com/conda-forge/napari-yolov5-feedstock.git
+	path = feedstocks/napari-yolov5
+	branch = refs/heads/main
