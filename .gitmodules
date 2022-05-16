@@ -64522,3 +64522,7 @@
 	url = https://github.com/conda-forge/quantlib-python-feedstock.git
 	path = feedstocks/quantlib-python
 	branch = refs/heads/main
+[submodule "r-mopa"]
+	url = https://github.com/conda-forge/r-mopa-feedstock.git
+	path = feedstocks/r-mopa
+	branch = refs/heads/main
