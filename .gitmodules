@@ -64578,3 +64578,7 @@
 	url = https://github.com/conda-forge/blue-feedstock.git
 	path = feedstocks/blue
 	branch = refs/heads/main
+[submodule "omnipath"]
+	url = https://github.com/conda-forge/omnipath-feedstock.git
+	path = feedstocks/omnipath
+	branch = refs/heads/main
