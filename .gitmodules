@@ -64582,3 +64582,7 @@
 	url = https://github.com/conda-forge/omnipath-feedstock.git
 	path = feedstocks/omnipath
 	branch = refs/heads/main
+[submodule "fenics-basix-meta"]
+	url = https://github.com/conda-forge/fenics-basix-meta-feedstock.git
+	path = feedstocks/fenics-basix-meta
+	branch = refs/heads/main
