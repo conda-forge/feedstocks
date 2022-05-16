@@ -64530,3 +64530,7 @@
 	url = https://github.com/conda-forge/r-loader.2nc-feedstock.git
 	path = feedstocks/r-loader.2nc
 	branch = refs/heads/main
+[submodule "r-loader.java"]
+	url = https://github.com/conda-forge/r-loader.java-feedstock.git
+	path = feedstocks/r-loader.java
+	branch = refs/heads/main
