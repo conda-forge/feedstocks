@@ -64638,3 +64638,7 @@
 	url = https://github.com/conda-forge/r-loader-feedstock.git
 	path = feedstocks/r-loader
 	branch = refs/heads/main
+[submodule "glad"]
+	url = https://github.com/conda-forge/glad-feedstock.git
+	path = feedstocks/glad
+	branch = refs/heads/main
