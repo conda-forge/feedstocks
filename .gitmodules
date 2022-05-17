@@ -64622,3 +64622,7 @@
 	url = https://github.com/conda-forge/r5py-feedstock.git
 	path = feedstocks/r5py
 	branch = refs/heads/main
+[submodule "atmosphere-virtual-lab"]
+	url = https://github.com/conda-forge/atmosphere-virtual-lab-feedstock.git
+	path = feedstocks/atmosphere-virtual-lab
+	branch = refs/heads/main
