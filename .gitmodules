@@ -64626,3 +64626,7 @@
 	url = https://github.com/conda-forge/atmosphere-virtual-lab-feedstock.git
 	path = feedstocks/atmosphere-virtual-lab
 	branch = refs/heads/main
+[submodule "r-transformer"]
+	url = https://github.com/conda-forge/r-transformer-feedstock.git
+	path = feedstocks/r-transformer
+	branch = refs/heads/main
