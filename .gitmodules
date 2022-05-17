@@ -64610,3 +64610,7 @@
 	url = https://github.com/conda-forge/streamad-feedstock.git
 	path = feedstocks/streamad
 	branch = refs/heads/main
+[submodule "honto"]
+	url = https://github.com/conda-forge/honto-feedstock.git
+	path = feedstocks/honto
+	branch = refs/heads/main
