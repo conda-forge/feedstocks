@@ -64602,3 +64602,7 @@
 	url = https://github.com/conda-forge/emsdk-feedstock.git
 	path = feedstocks/emsdk
 	branch = refs/heads/main
+[submodule "spidermonkey"]
+	url = https://github.com/conda-forge/spidermonkey-feedstock.git
+	path = feedstocks/spidermonkey
+	branch = refs/heads/main
