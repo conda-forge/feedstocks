@@ -64646,3 +64646,7 @@
 	url = https://github.com/conda-forge/r-loader.ecoms-feedstock.git
 	path = feedstocks/r-loader.ecoms
 	branch = refs/heads/main
+[submodule "geocat-viz"]
+	url = https://github.com/conda-forge/geocat-viz-feedstock.git
+	path = feedstocks/geocat-viz
+	branch = refs/heads/main
