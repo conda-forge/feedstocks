@@ -64618,3 +64618,7 @@
 	url = https://github.com/conda-forge/ipyleaflet-gl-vector-layer-plugin-feedstock.git
 	path = feedstocks/ipyleaflet-gl-vector-layer-plugin
 	branch = refs/heads/main
+[submodule "r5py"]
+	url = https://github.com/conda-forge/r5py-feedstock.git
+	path = feedstocks/r5py
+	branch = refs/heads/main
