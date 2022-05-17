@@ -64594,3 +64594,7 @@
 	url = https://github.com/conda-forge/r-n2r-feedstock.git
 	path = feedstocks/r-n2r
 	branch = refs/heads/main
+[submodule "r-ggblanket"]
+	url = https://github.com/conda-forge/r-ggblanket-feedstock.git
+	path = feedstocks/r-ggblanket
+	branch = refs/heads/main
