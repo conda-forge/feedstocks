@@ -64614,3 +64614,7 @@
 	url = https://github.com/conda-forge/honto-feedstock.git
 	path = feedstocks/honto
 	branch = refs/heads/main
+[submodule "ipyleaflet-gl-vector-layer-plugin"]
+	url = https://github.com/conda-forge/ipyleaflet-gl-vector-layer-plugin-feedstock.git
+	path = feedstocks/ipyleaflet-gl-vector-layer-plugin
+	branch = refs/heads/main
