@@ -64598,3 +64598,7 @@
 	url = https://github.com/conda-forge/r-ggblanket-feedstock.git
 	path = feedstocks/r-ggblanket
 	branch = refs/heads/main
+[submodule "emsdk"]
+	url = https://github.com/conda-forge/emsdk-feedstock.git
+	path = feedstocks/emsdk
+	branch = refs/heads/main
