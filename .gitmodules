@@ -64630,3 +64630,7 @@
 	url = https://github.com/conda-forge/r-transformer-feedstock.git
 	path = feedstocks/r-transformer
 	branch = refs/heads/main
+[submodule "r-climate4r.datasets"]
+	url = https://github.com/conda-forge/r-climate4r.datasets-feedstock.git
+	path = feedstocks/r-climate4r.datasets
+	branch = refs/heads/main
