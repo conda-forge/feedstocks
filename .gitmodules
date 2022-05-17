@@ -64634,3 +64634,7 @@
 	url = https://github.com/conda-forge/r-climate4r.datasets-feedstock.git
 	path = feedstocks/r-climate4r.datasets
 	branch = refs/heads/main
+[submodule "r-loader"]
+	url = https://github.com/conda-forge/r-loader-feedstock.git
+	path = feedstocks/r-loader
+	branch = refs/heads/main
