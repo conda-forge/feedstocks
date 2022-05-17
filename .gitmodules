@@ -64606,3 +64606,7 @@
 	url = https://github.com/conda-forge/spidermonkey-feedstock.git
 	path = feedstocks/spidermonkey
 	branch = refs/heads/main
+[submodule "streamad"]
+	url = https://github.com/conda-forge/streamad-feedstock.git
+	path = feedstocks/streamad
+	branch = refs/heads/main
