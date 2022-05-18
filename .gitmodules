@@ -64714,3 +64714,7 @@
 	url = https://github.com/conda-forge/r-downscaler-feedstock.git
 	path = feedstocks/r-downscaler
 	branch = refs/heads/main
+[submodule "r-sticky"]
+	url = https://github.com/conda-forge/r-sticky-feedstock.git
+	path = feedstocks/r-sticky
+	branch = refs/heads/main
