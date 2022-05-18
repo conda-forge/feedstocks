@@ -64694,3 +64694,7 @@
 	url = https://github.com/conda-forge/r-climate4r.climdex-feedstock.git
 	path = feedstocks/r-climate4r.climdex
 	branch = refs/heads/main
+[submodule "amazon-braket-ocean-plugin"]
+	url = https://github.com/conda-forge/amazon-braket-ocean-plugin-feedstock.git
+	path = feedstocks/amazon-braket-ocean-plugin
+	branch = refs/heads/main
