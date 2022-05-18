@@ -64666,3 +64666,7 @@
 	url = https://github.com/conda-forge/empack-feedstock.git
 	path = feedstocks/empack
 	branch = refs/heads/main
+[submodule "dataclasses-jsonschema"]
+	url = https://github.com/conda-forge/dataclasses-jsonschema-feedstock.git
+	path = feedstocks/dataclasses-jsonschema
+	branch = refs/heads/main
