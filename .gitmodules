@@ -64686,3 +64686,7 @@
 	url = https://github.com/conda-forge/r-convertr-feedstock.git
 	path = feedstocks/r-convertr
 	branch = refs/heads/main
+[submodule "expertai-extract"]
+	url = https://github.com/conda-forge/expertai-extract-feedstock.git
+	path = feedstocks/expertai-extract
+	branch = refs/heads/main
