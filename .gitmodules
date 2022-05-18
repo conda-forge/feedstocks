@@ -64726,3 +64726,7 @@
 	url = https://github.com/conda-forge/r-visualizer-feedstock.git
 	path = feedstocks/r-visualizer
 	branch = refs/heads/main
+[submodule "fabba"]
+	url = https://github.com/conda-forge/fabba-feedstock.git
+	path = feedstocks/fabba
+	branch = refs/heads/main
