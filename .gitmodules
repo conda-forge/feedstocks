@@ -64722,3 +64722,7 @@
 	url = https://github.com/conda-forge/r-deepnet-feedstock.git
 	path = feedstocks/r-deepnet
 	branch = refs/heads/main
+[submodule "r-visualizer"]
+	url = https://github.com/conda-forge/r-visualizer-feedstock.git
+	path = feedstocks/r-visualizer
+	branch = refs/heads/main
