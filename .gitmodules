@@ -64738,3 +64738,7 @@
 	url = https://github.com/conda-forge/pyobjc-framework-coreservices-feedstock.git
 	path = feedstocks/pyobjc-framework-coreservices
 	branch = refs/heads/main
+[submodule "qt-async-threads"]
+	url = https://github.com/conda-forge/qt-async-threads-feedstock.git
+	path = feedstocks/qt-async-threads
+	branch = refs/heads/main
