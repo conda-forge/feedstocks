@@ -64702,3 +64702,7 @@
 	url = https://github.com/conda-forge/r-drought4r-feedstock.git
 	path = feedstocks/r-drought4r
 	branch = refs/heads/main
+[submodule "pdr"]
+	url = https://github.com/conda-forge/pdr-feedstock.git
+	path = feedstocks/pdr
+	branch = refs/heads/main
