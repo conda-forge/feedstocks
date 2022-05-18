@@ -64706,3 +64706,7 @@
 	url = https://github.com/conda-forge/pdr-feedstock.git
 	path = feedstocks/pdr
 	branch = refs/heads/main
+[submodule "r-climate4r.indices"]
+	url = https://github.com/conda-forge/r-climate4r.indices-feedstock.git
+	path = feedstocks/r-climate4r.indices
+	branch = refs/heads/main
