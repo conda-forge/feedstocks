@@ -64654,3 +64654,7 @@
 	url = https://github.com/conda-forge/apphb-feedstock.git
 	path = feedstocks/apphb
 	branch = refs/heads/main
+[submodule "exchange-calendars"]
+	url = https://github.com/conda-forge/exchange-calendars-feedstock.git
+	path = feedstocks/exchange-calendars
+	branch = refs/heads/main
