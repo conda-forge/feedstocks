@@ -64670,3 +64670,7 @@
 	url = https://github.com/conda-forge/dataclasses-jsonschema-feedstock.git
 	path = feedstocks/dataclasses-jsonschema
 	branch = refs/heads/main
+[submodule "httpauth"]
+	url = https://github.com/conda-forge/httpauth-feedstock.git
+	path = feedstocks/httpauth
+	branch = refs/heads/main
