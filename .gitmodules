@@ -64674,3 +64674,7 @@
 	url = https://github.com/conda-forge/httpauth-feedstock.git
 	path = feedstocks/httpauth
 	branch = refs/heads/main
+[submodule "nebula"]
+	url = https://github.com/conda-forge/nebula-feedstock.git
+	path = feedstocks/nebula
+	branch = refs/heads/main
