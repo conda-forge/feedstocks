@@ -64730,3 +64730,7 @@
 	url = https://github.com/conda-forge/fabba-feedstock.git
 	path = feedstocks/fabba
 	branch = refs/heads/main
+[submodule "pyscicat"]
+	url = https://github.com/conda-forge/pyscicat-feedstock.git
+	path = feedstocks/pyscicat
+	branch = refs/heads/main
