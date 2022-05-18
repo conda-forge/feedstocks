@@ -64710,3 +64710,7 @@
 	url = https://github.com/conda-forge/r-climate4r.indices-feedstock.git
 	path = feedstocks/r-climate4r.indices
 	branch = refs/heads/main
+[submodule "r-downscaler"]
+	url = https://github.com/conda-forge/r-downscaler-feedstock.git
+	path = feedstocks/r-downscaler
+	branch = refs/heads/main
