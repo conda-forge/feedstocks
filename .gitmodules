@@ -64718,3 +64718,7 @@
 	url = https://github.com/conda-forge/r-sticky-feedstock.git
 	path = feedstocks/r-sticky
 	branch = refs/heads/main
+[submodule "r-deepnet"]
+	url = https://github.com/conda-forge/r-deepnet-feedstock.git
+	path = feedstocks/r-deepnet
+	branch = refs/heads/main
