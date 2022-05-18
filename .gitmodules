@@ -64662,3 +64662,7 @@
 	url = https://github.com/conda-forge/r-easydescribe-feedstock.git
 	path = feedstocks/r-easydescribe
 	branch = refs/heads/main
+[submodule "empack"]
+	url = https://github.com/conda-forge/empack-feedstock.git
+	path = feedstocks/empack
+	branch = refs/heads/main
