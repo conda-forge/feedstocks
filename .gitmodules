@@ -64690,3 +64690,7 @@
 	url = https://github.com/conda-forge/expertai-extract-feedstock.git
 	path = feedstocks/expertai-extract
 	branch = refs/heads/main
+[submodule "r-climate4r.climdex"]
+	url = https://github.com/conda-forge/r-climate4r.climdex-feedstock.git
+	path = feedstocks/r-climate4r.climdex
+	branch = refs/heads/main
