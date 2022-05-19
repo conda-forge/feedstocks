@@ -64770,3 +64770,7 @@
 	url = https://github.com/conda-forge/evodag-feedstock.git
 	path = feedstocks/evodag
 	branch = refs/heads/main
+[submodule "ibis-substrait"]
+	url = https://github.com/conda-forge/ibis-substrait-feedstock.git
+	path = feedstocks/ibis-substrait
+	branch = refs/heads/main
