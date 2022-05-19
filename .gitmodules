@@ -64746,3 +64746,7 @@
 	url = https://github.com/conda-forge/rstudio-feedstock.git
 	path = feedstocks/rstudio
 	branch = refs/heads/main
+[submodule "r-humaniformat"]
+	url = https://github.com/conda-forge/r-humaniformat-feedstock.git
+	path = feedstocks/r-humaniformat
+	branch = refs/heads/main
