@@ -64742,3 +64742,7 @@
 	url = https://github.com/conda-forge/qt-async-threads-feedstock.git
 	path = feedstocks/qt-async-threads
 	branch = refs/heads/main
+[submodule "rstudio"]
+	url = https://github.com/conda-forge/rstudio-feedstock.git
+	path = feedstocks/rstudio
+	branch = refs/heads/main
