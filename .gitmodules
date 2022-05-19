@@ -64774,3 +64774,7 @@
 	url = https://github.com/conda-forge/ibis-substrait-feedstock.git
 	path = feedstocks/ibis-substrait
 	branch = refs/heads/main
+[submodule "jdot"]
+	url = https://github.com/conda-forge/jdot-feedstock.git
+	path = feedstocks/jdot
+	branch = refs/heads/main
