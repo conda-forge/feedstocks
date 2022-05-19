@@ -64762,3 +64762,7 @@
 	url = https://github.com/conda-forge/r-bib2df-feedstock.git
 	path = feedstocks/r-bib2df
 	branch = refs/heads/main
+[submodule "pyudev"]
+	url = https://github.com/conda-forge/pyudev-feedstock.git
+	path = feedstocks/pyudev
+	branch = refs/heads/main
