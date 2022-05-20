@@ -64806,3 +64806,7 @@
 	url = https://github.com/conda-forge/r-kit-feedstock.git
 	path = feedstocks/r-kit
 	branch = refs/heads/main
+[submodule "fenics-ffcx-ufcx"]
+	url = https://github.com/conda-forge/fenics-ffcx-ufcx-feedstock.git
+	path = feedstocks/fenics-ffcx-ufcx
+	branch = refs/heads/main
