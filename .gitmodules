@@ -64814,3 +64814,7 @@
 	url = https://github.com/conda-forge/r-firedanger-feedstock.git
 	path = feedstocks/r-firedanger
 	branch = refs/heads/main
+[submodule "r-value"]
+	url = https://github.com/conda-forge/r-value-feedstock.git
+	path = feedstocks/r-value
+	branch = refs/heads/main
