@@ -64830,3 +64830,7 @@
 	url = https://github.com/conda-forge/pyhumps-feedstock.git
 	path = feedstocks/pyhumps
 	branch = refs/heads/main
+[submodule "acsconv"]
+	url = https://github.com/conda-forge/acsconv-feedstock.git
+	path = feedstocks/acsconv
+	branch = refs/heads/main
