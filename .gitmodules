@@ -64802,3 +64802,7 @@
 	url = https://github.com/conda-forge/deprecat-feedstock.git
 	path = feedstocks/deprecat
 	branch = refs/heads/main
+[submodule "r-kit"]
+	url = https://github.com/conda-forge/r-kit-feedstock.git
+	path = feedstocks/r-kit
+	branch = refs/heads/main
