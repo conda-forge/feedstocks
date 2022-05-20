@@ -64818,3 +64818,7 @@
 	url = https://github.com/conda-forge/r-value-feedstock.git
 	path = feedstocks/r-value
 	branch = refs/heads/main
+[submodule "r-geoprocessor"]
+	url = https://github.com/conda-forge/r-geoprocessor-feedstock.git
+	path = feedstocks/r-geoprocessor
+	branch = refs/heads/main
