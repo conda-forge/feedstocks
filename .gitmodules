@@ -64842,3 +64842,7 @@
 	url = https://github.com/conda-forge/fonticon-fontawesome5-feedstock.git
 	path = feedstocks/fonticon-fontawesome5
 	branch = refs/heads/main
+[submodule "r-downscaler.keras"]
+	url = https://github.com/conda-forge/r-downscaler.keras-feedstock.git
+	path = feedstocks/r-downscaler.keras
+	branch = refs/heads/main
