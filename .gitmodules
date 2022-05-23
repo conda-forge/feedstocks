@@ -64886,3 +64886,7 @@
 	url = https://github.com/conda-forge/climlab-cam3-radiation-feedstock.git
 	path = feedstocks/climlab-cam3-radiation
 	branch = refs/heads/main
+[submodule "g2aero"]
+	url = https://github.com/conda-forge/g2aero-feedstock.git
+	path = feedstocks/g2aero
+	branch = refs/heads/main
