@@ -64898,3 +64898,7 @@
 	url = https://github.com/conda-forge/biobox-feedstock.git
 	path = feedstocks/biobox
 	branch = refs/heads/main
+[submodule "llspy-slm"]
+	url = https://github.com/conda-forge/llspy-slm-feedstock.git
+	path = feedstocks/llspy-slm
+	branch = refs/heads/main
