@@ -64890,3 +64890,7 @@
 	url = https://github.com/conda-forge/g2aero-feedstock.git
 	path = feedstocks/g2aero
 	branch = refs/heads/main
+[submodule "pytfa"]
+	url = https://github.com/conda-forge/pytfa-feedstock.git
+	path = feedstocks/pytfa
+	branch = refs/heads/main
