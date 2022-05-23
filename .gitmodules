@@ -64874,3 +64874,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-heavyai-feedstock.git
 	path = feedstocks/sqlalchemy-heavyai
 	branch = refs/heads/main
+[submodule "go-sqlcmd"]
+	url = https://github.com/conda-forge/go-sqlcmd-feedstock.git
+	path = feedstocks/go-sqlcmd
+	branch = refs/heads/main
