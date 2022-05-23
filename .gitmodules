@@ -64870,3 +64870,7 @@
 	url = https://github.com/conda-forge/r-sunburstr-feedstock.git
 	path = feedstocks/r-sunburstr
 	branch = refs/heads/main
+[submodule "sqlalchemy-heavyai"]
+	url = https://github.com/conda-forge/sqlalchemy-heavyai-feedstock.git
+	path = feedstocks/sqlalchemy-heavyai
+	branch = refs/heads/main
