@@ -64894,3 +64894,7 @@
 	url = https://github.com/conda-forge/pytfa-feedstock.git
 	path = feedstocks/pytfa
 	branch = refs/heads/main
+[submodule "biobox"]
+	url = https://github.com/conda-forge/biobox-feedstock.git
+	path = feedstocks/biobox
+	branch = refs/heads/main
