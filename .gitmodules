@@ -64918,3 +64918,7 @@
 	url = https://github.com/conda-forge/windfreak-feedstock.git
 	path = feedstocks/windfreak
 	branch = refs/heads/main
+[submodule "lcensemble"]
+	url = https://github.com/conda-forge/lcensemble-feedstock.git
+	path = feedstocks/lcensemble
+	branch = refs/heads/main
