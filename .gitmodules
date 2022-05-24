@@ -64910,3 +64910,7 @@
 	url = https://github.com/conda-forge/intake-sqlite-feedstock.git
 	path = feedstocks/intake-sqlite
 	branch = refs/heads/main
+[submodule "looseversion"]
+	url = https://github.com/conda-forge/looseversion-feedstock.git
+	path = feedstocks/looseversion
+	branch = refs/heads/main
