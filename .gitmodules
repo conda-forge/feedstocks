@@ -64938,3 +64938,7 @@
 	url = https://github.com/conda-forge/sbol_factory-feedstock.git
 	path = feedstocks/sbol_factory
 	branch = refs/heads/main
+[submodule "fastapi-offline"]
+	url = https://github.com/conda-forge/fastapi-offline-feedstock.git
+	path = feedstocks/fastapi-offline
+	branch = refs/heads/main
