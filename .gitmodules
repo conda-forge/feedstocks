@@ -64926,3 +64926,7 @@
 	url = https://github.com/conda-forge/dasel-feedstock.git
 	path = feedstocks/dasel
 	branch = refs/heads/main
+[submodule "minifasta"]
+	url = https://github.com/conda-forge/minifasta-feedstock.git
+	path = feedstocks/minifasta
+	branch = refs/heads/main
