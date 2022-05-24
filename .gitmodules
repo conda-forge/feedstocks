@@ -64906,3 +64906,7 @@
 	url = https://github.com/conda-forge/r-olinkanalyze-feedstock.git
 	path = feedstocks/r-olinkanalyze
 	branch = refs/heads/main
+[submodule "intake-sqlite"]
+	url = https://github.com/conda-forge/intake-sqlite-feedstock.git
+	path = feedstocks/intake-sqlite
+	branch = refs/heads/main
