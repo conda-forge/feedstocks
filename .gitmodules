@@ -64934,3 +64934,7 @@
 	url = https://github.com/conda-forge/emsarray-feedstock.git
 	path = feedstocks/emsarray
 	branch = refs/heads/main
+[submodule "sbol_factory"]
+	url = https://github.com/conda-forge/sbol_factory-feedstock.git
+	path = feedstocks/sbol_factory
+	branch = refs/heads/main
