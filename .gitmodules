@@ -64922,3 +64922,7 @@
 	url = https://github.com/conda-forge/lcensemble-feedstock.git
 	path = feedstocks/lcensemble
 	branch = refs/heads/main
+[submodule "dasel"]
+	url = https://github.com/conda-forge/dasel-feedstock.git
+	path = feedstocks/dasel
+	branch = refs/heads/main
