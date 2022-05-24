@@ -64930,3 +64930,7 @@
 	url = https://github.com/conda-forge/minifasta-feedstock.git
 	path = feedstocks/minifasta
 	branch = refs/heads/main
+[submodule "emsarray"]
+	url = https://github.com/conda-forge/emsarray-feedstock.git
+	path = feedstocks/emsarray
+	branch = refs/heads/main
