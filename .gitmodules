@@ -64954,3 +64954,7 @@
 	url = https://github.com/conda-forge/nequip-feedstock.git
 	path = feedstocks/nequip
 	branch = refs/heads/main
+[submodule "torch-runstats"]
+	url = https://github.com/conda-forge/torch-runstats-feedstock.git
+	path = feedstocks/torch-runstats
+	branch = refs/heads/main
