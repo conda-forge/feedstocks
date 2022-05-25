@@ -64978,3 +64978,7 @@
 	url = https://github.com/conda-forge/pydarm-feedstock.git
 	path = feedstocks/pydarm
 	branch = refs/heads/main
+[submodule "magic"]
+	url = https://github.com/conda-forge/magic-feedstock.git
+	path = feedstocks/magic
+	branch = refs/heads/main
