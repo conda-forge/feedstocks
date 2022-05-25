@@ -64974,3 +64974,7 @@
 	url = https://github.com/conda-forge/lineapy-feedstock.git
 	path = feedstocks/lineapy
 	branch = refs/heads/main
+[submodule "pydarm"]
+	url = https://github.com/conda-forge/pydarm-feedstock.git
+	path = feedstocks/pydarm
+	branch = refs/heads/main
