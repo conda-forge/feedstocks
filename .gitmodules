@@ -64958,3 +64958,7 @@
 	url = https://github.com/conda-forge/torch-runstats-feedstock.git
 	path = feedstocks/torch-runstats
 	branch = refs/heads/main
+[submodule "torch-ema"]
+	url = https://github.com/conda-forge/torch-ema-feedstock.git
+	path = feedstocks/torch-ema
+	branch = refs/heads/main
