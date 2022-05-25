@@ -64962,3 +64962,7 @@
 	url = https://github.com/conda-forge/torch-ema-feedstock.git
 	path = feedstocks/torch-ema
 	branch = refs/heads/main
+[submodule "opt_einsum_fx"]
+	url = https://github.com/conda-forge/opt_einsum_fx-feedstock.git
+	path = feedstocks/opt_einsum_fx
+	branch = refs/heads/main
