@@ -64950,3 +64950,7 @@
 	url = https://github.com/conda-forge/e3nn-feedstock.git
 	path = feedstocks/e3nn
 	branch = refs/heads/main
+[submodule "nequip"]
+	url = https://github.com/conda-forge/nequip-feedstock.git
+	path = feedstocks/nequip
+	branch = refs/heads/main
