@@ -65002,3 +65002,7 @@
 	url = https://github.com/conda-forge/hatch-jupyter-builder-feedstock.git
 	path = feedstocks/hatch-jupyter-builder
 	branch = refs/heads/main
+[submodule "qiskit-experiments"]
+	url = https://github.com/conda-forge/qiskit-experiments-feedstock.git
+	path = feedstocks/qiskit-experiments
+	branch = refs/heads/main
