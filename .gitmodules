@@ -64998,3 +64998,7 @@
 	url = https://github.com/conda-forge/tptp-lark-parser-feedstock.git
 	path = feedstocks/tptp-lark-parser
 	branch = refs/heads/main
+[submodule "hatch-jupyter-builder"]
+	url = https://github.com/conda-forge/hatch-jupyter-builder-feedstock.git
+	path = feedstocks/hatch-jupyter-builder
+	branch = refs/heads/main
