@@ -64990,3 +64990,7 @@
 	url = https://github.com/conda-forge/r-dggridr-feedstock.git
 	path = feedstocks/r-dggridr
 	branch = refs/heads/main
+[submodule "nannyml"]
+	url = https://github.com/conda-forge/nannyml-feedstock.git
+	path = feedstocks/nannyml
+	branch = refs/heads/main
