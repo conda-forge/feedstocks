@@ -65018,3 +65018,7 @@
 	url = https://github.com/conda-forge/dwave-ocean-sdk-feedstock.git
 	path = feedstocks/dwave-ocean-sdk
 	branch = refs/heads/main
+[submodule "checkmarxpythonsdk"]
+	url = https://github.com/conda-forge/checkmarxpythonsdk-feedstock.git
+	path = feedstocks/checkmarxpythonsdk
+	branch = refs/heads/main
