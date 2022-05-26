@@ -65014,3 +65014,7 @@
 	url = https://github.com/conda-forge/deepface-feedstock.git
 	path = feedstocks/deepface
 	branch = refs/heads/main
+[submodule "dwave-ocean-sdk"]
+	url = https://github.com/conda-forge/dwave-ocean-sdk-feedstock.git
+	path = feedstocks/dwave-ocean-sdk
+	branch = refs/heads/main
