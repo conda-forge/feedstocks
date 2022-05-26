@@ -64994,3 +64994,7 @@
 	url = https://github.com/conda-forge/nannyml-feedstock.git
 	path = feedstocks/nannyml
 	branch = refs/heads/main
+[submodule "tptp-lark-parser"]
+	url = https://github.com/conda-forge/tptp-lark-parser-feedstock.git
+	path = feedstocks/tptp-lark-parser
+	branch = refs/heads/main
