@@ -65010,3 +65010,7 @@
 	url = https://github.com/conda-forge/retina-face-feedstock.git
 	path = feedstocks/retina-face
 	branch = refs/heads/main
+[submodule "deepface"]
+	url = https://github.com/conda-forge/deepface-feedstock.git
+	path = feedstocks/deepface
+	branch = refs/heads/main
