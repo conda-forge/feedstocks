@@ -65026,3 +65026,7 @@
 	url = https://github.com/conda-forge/r-fastverse-feedstock.git
 	path = feedstocks/r-fastverse
 	branch = refs/heads/main
+[submodule "cosmolopy"]
+	url = https://github.com/conda-forge/cosmolopy-feedstock.git
+	path = feedstocks/cosmolopy
+	branch = refs/heads/main
