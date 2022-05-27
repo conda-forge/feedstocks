@@ -65022,3 +65022,7 @@
 	url = https://github.com/conda-forge/checkmarxpythonsdk-feedstock.git
 	path = feedstocks/checkmarxpythonsdk
 	branch = refs/heads/main
+[submodule "r-fastverse"]
+	url = https://github.com/conda-forge/r-fastverse-feedstock.git
+	path = feedstocks/r-fastverse
+	branch = refs/heads/main
