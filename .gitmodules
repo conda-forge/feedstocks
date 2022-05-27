@@ -65030,3 +65030,7 @@
 	url = https://github.com/conda-forge/cosmolopy-feedstock.git
 	path = feedstocks/cosmolopy
 	branch = refs/heads/main
+[submodule "torch-hd"]
+	url = https://github.com/conda-forge/torch-hd-feedstock.git
+	path = feedstocks/torch-hd
+	branch = refs/heads/main
