@@ -65034,3 +65034,7 @@
 	url = https://github.com/conda-forge/torch-hd-feedstock.git
 	path = feedstocks/torch-hd
 	branch = refs/heads/main
+[submodule "oras-py"]
+	url = https://github.com/conda-forge/oras-py-feedstock.git
+	path = feedstocks/oras-py
+	branch = refs/heads/main
