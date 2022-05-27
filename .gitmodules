@@ -65042,3 +65042,7 @@
 	url = https://github.com/conda-forge/xrf-tomo-feedstock.git
 	path = feedstocks/xrf-tomo
 	branch = refs/heads/main
+[submodule "satgen"]
+	url = https://github.com/conda-forge/satgen-feedstock.git
+	path = feedstocks/satgen
+	branch = refs/heads/main
