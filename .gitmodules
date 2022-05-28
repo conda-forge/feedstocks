@@ -65062,3 +65062,7 @@
 	url = https://github.com/conda-forge/versioningit-feedstock.git
 	path = feedstocks/versioningit
 	branch = refs/heads/main
+[submodule "ismip6-antarctic-ocean-forcing"]
+	url = https://github.com/conda-forge/ismip6-antarctic-ocean-forcing-feedstock.git
+	path = feedstocks/ismip6-antarctic-ocean-forcing
+	branch = refs/heads/main
