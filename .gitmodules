@@ -65070,3 +65070,7 @@
 	url = https://github.com/conda-forge/dvc-objects-feedstock.git
 	path = feedstocks/dvc-objects
 	branch = refs/heads/main
+[submodule "hjson-py"]
+	url = https://github.com/conda-forge/hjson-py-feedstock.git
+	path = feedstocks/hjson-py
+	branch = refs/heads/main
