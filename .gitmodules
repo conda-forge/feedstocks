@@ -65046,3 +65046,7 @@
 	url = https://github.com/conda-forge/satgen-feedstock.git
 	path = feedstocks/satgen
 	branch = refs/heads/main
+[submodule "xtal2png"]
+	url = https://github.com/conda-forge/xtal2png-feedstock.git
+	path = feedstocks/xtal2png
+	branch = refs/heads/main
