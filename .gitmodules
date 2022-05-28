@@ -65066,3 +65066,7 @@
 	url = https://github.com/conda-forge/ismip6-antarctic-ocean-forcing-feedstock.git
 	path = feedstocks/ismip6-antarctic-ocean-forcing
 	branch = refs/heads/main
+[submodule "dvc-objects"]
+	url = https://github.com/conda-forge/dvc-objects-feedstock.git
+	path = feedstocks/dvc-objects
+	branch = refs/heads/main
