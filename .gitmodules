@@ -65054,3 +65054,7 @@
 	url = https://github.com/conda-forge/keras-cv-feedstock.git
 	path = feedstocks/keras-cv
 	branch = refs/heads/main
+[submodule "pandas_read_xml"]
+	url = https://github.com/conda-forge/pandas_read_xml-feedstock.git
+	path = feedstocks/pandas_read_xml
+	branch = refs/heads/main
