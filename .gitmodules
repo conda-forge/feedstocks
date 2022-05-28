@@ -65050,3 +65050,7 @@
 	url = https://github.com/conda-forge/xtal2png-feedstock.git
 	path = feedstocks/xtal2png
 	branch = refs/heads/main
+[submodule "keras-cv"]
+	url = https://github.com/conda-forge/keras-cv-feedstock.git
+	path = feedstocks/keras-cv
+	branch = refs/heads/main
