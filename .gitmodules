@@ -65082,3 +65082,7 @@
 	url = https://github.com/conda-forge/r-popgenreport-feedstock.git
 	path = feedstocks/r-popgenreport
 	branch = refs/heads/main
+[submodule "geodemora"]
+	url = https://github.com/conda-forge/geodemora-feedstock.git
+	path = feedstocks/geodemora
+	branch = refs/heads/main
