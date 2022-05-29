@@ -65078,3 +65078,7 @@
 	url = https://github.com/conda-forge/pyramids-feedstock.git
 	path = feedstocks/pyramids
 	branch = refs/heads/main
+[submodule "r-popgenreport"]
+	url = https://github.com/conda-forge/r-popgenreport-feedstock.git
+	path = feedstocks/r-popgenreport
+	branch = refs/heads/main
