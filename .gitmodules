@@ -65098,3 +65098,7 @@
 	url = https://github.com/conda-forge/dvc-data-feedstock.git
 	path = feedstocks/dvc-data
 	branch = refs/heads/main
+[submodule "molearn"]
+	url = https://github.com/conda-forge/molearn-feedstock.git
+	path = feedstocks/molearn
+	branch = refs/heads/main
