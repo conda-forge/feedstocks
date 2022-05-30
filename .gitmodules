@@ -65102,3 +65102,7 @@
 	url = https://github.com/conda-forge/molearn-feedstock.git
 	path = feedstocks/molearn
 	branch = refs/heads/main
+[submodule "pybader"]
+	url = https://github.com/conda-forge/pybader-feedstock.git
+	path = feedstocks/pybader
+	branch = refs/heads/main
