@@ -65106,3 +65106,7 @@
 	url = https://github.com/conda-forge/pybader-feedstock.git
 	path = feedstocks/pybader
 	branch = refs/heads/main
+[submodule "setuptools-git-versioning"]
+	url = https://github.com/conda-forge/setuptools-git-versioning-feedstock.git
+	path = feedstocks/setuptools-git-versioning
+	branch = refs/heads/main
