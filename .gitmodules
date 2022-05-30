@@ -65114,3 +65114,7 @@
 	url = https://github.com/conda-forge/klaus-feedstock.git
 	path = feedstocks/klaus
 	branch = refs/heads/main
+[submodule "intake-dremio"]
+	url = https://github.com/conda-forge/intake-dremio-feedstock.git
+	path = feedstocks/intake-dremio
+	branch = refs/heads/main
