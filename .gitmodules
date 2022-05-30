@@ -65094,3 +65094,7 @@
 	url = https://github.com/conda-forge/squidpy-feedstock.git
 	path = feedstocks/squidpy
 	branch = refs/heads/main
+[submodule "dvc-data"]
+	url = https://github.com/conda-forge/dvc-data-feedstock.git
+	path = feedstocks/dvc-data
+	branch = refs/heads/main
