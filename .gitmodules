@@ -65110,3 +65110,7 @@
 	url = https://github.com/conda-forge/setuptools-git-versioning-feedstock.git
 	path = feedstocks/setuptools-git-versioning
 	branch = refs/heads/main
+[submodule "klaus"]
+	url = https://github.com/conda-forge/klaus-feedstock.git
+	path = feedstocks/klaus
+	branch = refs/heads/main
