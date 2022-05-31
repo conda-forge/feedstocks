@@ -65122,3 +65122,7 @@
 	url = https://github.com/conda-forge/lazy_loader-feedstock.git
 	path = feedstocks/lazy_loader
 	branch = refs/heads/main
+[submodule "r-ggcorset"]
+	url = https://github.com/conda-forge/r-ggcorset-feedstock.git
+	path = feedstocks/r-ggcorset
+	branch = refs/heads/main
