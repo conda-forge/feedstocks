@@ -65118,3 +65118,7 @@
 	url = https://github.com/conda-forge/intake-dremio-feedstock.git
 	path = feedstocks/intake-dremio
 	branch = refs/heads/main
+[submodule "lazy_loader"]
+	url = https://github.com/conda-forge/lazy_loader-feedstock.git
+	path = feedstocks/lazy_loader
+	branch = refs/heads/main
