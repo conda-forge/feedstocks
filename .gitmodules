@@ -65130,3 +65130,7 @@
 	url = https://github.com/conda-forge/py_dag-feedstock.git
 	path = feedstocks/py_dag
 	branch = refs/heads/main
+[submodule "exhale"]
+	url = https://github.com/conda-forge/exhale-feedstock.git
+	path = feedstocks/exhale
+	branch = refs/heads/main
