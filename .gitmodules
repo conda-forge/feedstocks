@@ -65142,3 +65142,7 @@
 	url = https://github.com/conda-forge/jpf-feedstock.git
 	path = feedstocks/jpf
 	branch = refs/heads/main
+[submodule "tblite-python"]
+	url = https://github.com/conda-forge/tblite-python-feedstock.git
+	path = feedstocks/tblite-python
+	branch = refs/heads/main
