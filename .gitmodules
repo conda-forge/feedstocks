@@ -65138,3 +65138,7 @@
 	url = https://github.com/conda-forge/geomstats-feedstock.git
 	path = feedstocks/geomstats
 	branch = refs/heads/main
+[submodule "jpf"]
+	url = https://github.com/conda-forge/jpf-feedstock.git
+	path = feedstocks/jpf
+	branch = refs/heads/main
