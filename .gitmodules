@@ -65134,3 +65134,7 @@
 	url = https://github.com/conda-forge/exhale-feedstock.git
 	path = feedstocks/exhale
 	branch = refs/heads/main
+[submodule "geomstats"]
+	url = https://github.com/conda-forge/geomstats-feedstock.git
+	path = feedstocks/geomstats
+	branch = refs/heads/main
