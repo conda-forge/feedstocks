@@ -65174,3 +65174,7 @@
 	url = https://github.com/conda-forge/espaloma-feedstock.git
 	path = feedstocks/espaloma
 	branch = refs/heads/main
+[submodule "atap_widgets"]
+	url = https://github.com/conda-forge/atap_widgets-feedstock.git
+	path = feedstocks/atap_widgets
+	branch = refs/heads/main
