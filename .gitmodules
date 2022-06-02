@@ -65178,3 +65178,7 @@
 	url = https://github.com/conda-forge/atap_widgets-feedstock.git
 	path = feedstocks/atap_widgets
 	branch = refs/heads/main
+[submodule "fenics-ffcx"]
+	url = https://github.com/conda-forge/fenics-ffcx-feedstock.git
+	path = feedstocks/fenics-ffcx
+	branch = refs/heads/main
