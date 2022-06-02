@@ -65150,3 +65150,7 @@
 	url = https://github.com/conda-forge/openmc-plotter-feedstock.git
 	path = feedstocks/openmc-plotter
 	branch = refs/heads/main
+[submodule "meson-python"]
+	url = https://github.com/conda-forge/meson-python-feedstock.git
+	path = feedstocks/meson-python
+	branch = refs/heads/main
