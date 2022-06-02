@@ -65182,3 +65182,7 @@
 	url = https://github.com/conda-forge/fenics-ffcx-feedstock.git
 	path = feedstocks/fenics-ffcx
 	branch = refs/heads/main
+[submodule "fenics-basix"]
+	url = https://github.com/conda-forge/fenics-basix-feedstock.git
+	path = feedstocks/fenics-basix
+	branch = refs/heads/main
