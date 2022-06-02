@@ -65170,3 +65170,7 @@
 	url = https://github.com/conda-forge/fenics-dolfinx-feedstock.git
 	path = feedstocks/fenics-dolfinx
 	branch = refs/heads/main
+[submodule "espaloma"]
+	url = https://github.com/conda-forge/espaloma-feedstock.git
+	path = feedstocks/espaloma
+	branch = refs/heads/main
