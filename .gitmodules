@@ -65146,3 +65146,7 @@
 	url = https://github.com/conda-forge/tblite-python-feedstock.git
 	path = feedstocks/tblite-python
 	branch = refs/heads/main
+[submodule "openmc-plotter"]
+	url = https://github.com/conda-forge/openmc-plotter-feedstock.git
+	path = feedstocks/openmc-plotter
+	branch = refs/heads/main
