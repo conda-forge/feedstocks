@@ -65158,3 +65158,7 @@
 	url = https://github.com/conda-forge/r-htmltab-feedstock.git
 	path = feedstocks/r-htmltab
 	branch = refs/heads/main
+[submodule "deadlink"]
+	url = https://github.com/conda-forge/deadlink-feedstock.git
+	path = feedstocks/deadlink
+	branch = refs/heads/main
