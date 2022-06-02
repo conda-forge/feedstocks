@@ -65162,3 +65162,7 @@
 	url = https://github.com/conda-forge/deadlink-feedstock.git
 	path = feedstocks/deadlink
 	branch = refs/heads/main
+[submodule "xarray-beam"]
+	url = https://github.com/conda-forge/xarray-beam-feedstock.git
+	path = feedstocks/xarray-beam
+	branch = refs/heads/main
