@@ -65166,3 +65166,7 @@
 	url = https://github.com/conda-forge/xarray-beam-feedstock.git
 	path = feedstocks/xarray-beam
 	branch = refs/heads/main
+[submodule "fenics-dolfinx"]
+	url = https://github.com/conda-forge/fenics-dolfinx-feedstock.git
+	path = feedstocks/fenics-dolfinx
+	branch = refs/heads/main
