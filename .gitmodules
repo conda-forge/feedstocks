@@ -65154,3 +65154,7 @@
 	url = https://github.com/conda-forge/meson-python-feedstock.git
 	path = feedstocks/meson-python
 	branch = refs/heads/main
+[submodule "r-htmltab"]
+	url = https://github.com/conda-forge/r-htmltab-feedstock.git
+	path = feedstocks/r-htmltab
+	branch = refs/heads/main
