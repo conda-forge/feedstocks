@@ -65194,3 +65194,7 @@
 	url = https://github.com/conda-forge/r-ggeasy-feedstock.git
 	path = feedstocks/r-ggeasy
 	branch = refs/heads/main
+[submodule "stimuli"]
+	url = https://github.com/conda-forge/stimuli-feedstock.git
+	path = feedstocks/stimuli
+	branch = refs/heads/main
