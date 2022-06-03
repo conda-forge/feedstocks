@@ -65190,3 +65190,7 @@
 	url = https://github.com/conda-forge/r-sen2r-feedstock.git
 	path = feedstocks/r-sen2r
 	branch = refs/heads/main
+[submodule "r-ggeasy"]
+	url = https://github.com/conda-forge/r-ggeasy-feedstock.git
+	path = feedstocks/r-ggeasy
+	branch = refs/heads/main
