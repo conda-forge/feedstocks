@@ -65226,3 +65226,7 @@
 	url = https://github.com/conda-forge/apeye-core-feedstock.git
 	path = feedstocks/apeye-core
 	branch = refs/heads/main
+[submodule "sphinx-fortran"]
+	url = https://github.com/conda-forge/sphinx-fortran-feedstock.git
+	path = feedstocks/sphinx-fortran
+	branch = refs/heads/main
