@@ -65238,3 +65238,7 @@
 	url = https://github.com/conda-forge/gitsummary-feedstock.git
 	path = feedstocks/gitsummary
 	branch = refs/heads/main
+[submodule "statista"]
+	url = https://github.com/conda-forge/statista-feedstock.git
+	path = feedstocks/statista
+	branch = refs/heads/main
