@@ -65202,3 +65202,7 @@
 	url = https://github.com/conda-forge/finance_enums-feedstock.git
 	path = feedstocks/finance_enums
 	branch = refs/heads/main
+[submodule "superstore"]
+	url = https://github.com/conda-forge/superstore-feedstock.git
+	path = feedstocks/superstore
+	branch = refs/heads/main
