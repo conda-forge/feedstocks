@@ -65206,3 +65206,7 @@
 	url = https://github.com/conda-forge/superstore-feedstock.git
 	path = feedstocks/superstore
 	branch = refs/heads/main
+[submodule "jupyterlab_nbconvert_nocode-meta"]
+	url = https://github.com/conda-forge/jupyterlab_nbconvert_nocode-meta-feedstock.git
+	path = feedstocks/jupyterlab_nbconvert_nocode-meta
+	branch = refs/heads/main
