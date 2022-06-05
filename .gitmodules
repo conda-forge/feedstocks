@@ -65198,3 +65198,7 @@
 	url = https://github.com/conda-forge/stimuli-feedstock.git
 	path = feedstocks/stimuli
 	branch = refs/heads/main
+[submodule "finance_enums"]
+	url = https://github.com/conda-forge/finance_enums-feedstock.git
+	path = feedstocks/finance_enums
+	branch = refs/heads/main
