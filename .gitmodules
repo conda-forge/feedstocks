@@ -65242,3 +65242,7 @@
 	url = https://github.com/conda-forge/statista-feedstock.git
 	path = feedstocks/statista
 	branch = refs/heads/main
+[submodule "earth2observe"]
+	url = https://github.com/conda-forge/earth2observe-feedstock.git
+	path = feedstocks/earth2observe
+	branch = refs/heads/main
