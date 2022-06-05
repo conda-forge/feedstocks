@@ -65246,3 +65246,7 @@
 	url = https://github.com/conda-forge/earth2observe-feedstock.git
 	path = feedstocks/earth2observe
 	branch = refs/heads/main
+[submodule "aio-executor"]
+	url = https://github.com/conda-forge/aio-executor-feedstock.git
+	path = feedstocks/aio-executor
+	branch = refs/heads/main
