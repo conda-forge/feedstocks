@@ -65222,3 +65222,7 @@
 	url = https://github.com/conda-forge/isosurfaces-feedstock.git
 	path = feedstocks/isosurfaces
 	branch = refs/heads/main
+[submodule "apeye-core"]
+	url = https://github.com/conda-forge/apeye-core-feedstock.git
+	path = feedstocks/apeye-core
+	branch = refs/heads/main
