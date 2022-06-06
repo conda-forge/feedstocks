@@ -65250,3 +65250,7 @@
 	url = https://github.com/conda-forge/aio-executor-feedstock.git
 	path = feedstocks/aio-executor
 	branch = refs/heads/main
+[submodule "precession"]
+	url = https://github.com/conda-forge/precession-feedstock.git
+	path = feedstocks/precession
+	branch = refs/heads/main
