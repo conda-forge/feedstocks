@@ -65286,3 +65286,7 @@
 	url = https://github.com/conda-forge/mailbits-feedstock.git
 	path = feedstocks/mailbits
 	branch = refs/heads/main
+[submodule "lazrs-python"]
+	url = https://github.com/conda-forge/lazrs-python-feedstock.git
+	path = feedstocks/lazrs-python
+	branch = refs/heads/main
