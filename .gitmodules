@@ -65298,3 +65298,7 @@
 	url = https://github.com/conda-forge/greenery-feedstock.git
 	path = feedstocks/greenery
 	branch = refs/heads/main
+[submodule "python-jsii"]
+	url = https://github.com/conda-forge/python-jsii-feedstock.git
+	path = feedstocks/python-jsii
+	branch = refs/heads/main
