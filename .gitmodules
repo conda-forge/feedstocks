@@ -65294,3 +65294,7 @@
 	url = https://github.com/conda-forge/cpppo-feedstock.git
 	path = feedstocks/cpppo
 	branch = refs/heads/main
+[submodule "greenery"]
+	url = https://github.com/conda-forge/greenery-feedstock.git
+	path = feedstocks/greenery
+	branch = refs/heads/main
