@@ -65274,3 +65274,7 @@
 	url = https://github.com/conda-forge/pygis-feedstock.git
 	path = feedstocks/pygis
 	branch = refs/heads/main
+[submodule "pynamodb-encoder"]
+	url = https://github.com/conda-forge/pynamodb-encoder-feedstock.git
+	path = feedstocks/pynamodb-encoder
+	branch = refs/heads/main
