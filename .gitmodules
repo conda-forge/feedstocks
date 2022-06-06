@@ -65290,3 +65290,7 @@
 	url = https://github.com/conda-forge/lazrs-python-feedstock.git
 	path = feedstocks/lazrs-python
 	branch = refs/heads/main
+[submodule "cpppo"]
+	url = https://github.com/conda-forge/cpppo-feedstock.git
+	path = feedstocks/cpppo
+	branch = refs/heads/main
