@@ -65282,3 +65282,7 @@
 	url = https://github.com/conda-forge/publication-feedstock.git
 	path = feedstocks/publication
 	branch = refs/heads/main
+[submodule "mailbits"]
+	url = https://github.com/conda-forge/mailbits-feedstock.git
+	path = feedstocks/mailbits
+	branch = refs/heads/main
