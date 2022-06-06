@@ -65266,3 +65266,7 @@
 	url = https://github.com/conda-forge/jupyter_events-feedstock.git
 	path = feedstocks/jupyter_events
 	branch = refs/heads/main
+[submodule "pangeo-sphinx-book-theme"]
+	url = https://github.com/conda-forge/pangeo-sphinx-book-theme-feedstock.git
+	path = feedstocks/pangeo-sphinx-book-theme
+	branch = refs/heads/main
