@@ -65306,3 +65306,7 @@
 	url = https://github.com/conda-forge/featurewiz-feedstock.git
 	path = feedstocks/featurewiz
 	branch = refs/heads/main
+[submodule "lodepng"]
+	url = https://github.com/conda-forge/lodepng-feedstock.git
+	path = feedstocks/lodepng
+	branch = refs/heads/main
