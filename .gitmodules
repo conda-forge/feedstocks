@@ -65262,3 +65262,7 @@
 	url = https://github.com/conda-forge/colorhash-feedstock.git
 	path = feedstocks/colorhash
 	branch = refs/heads/main
+[submodule "jupyter_events"]
+	url = https://github.com/conda-forge/jupyter_events-feedstock.git
+	path = feedstocks/jupyter_events
+	branch = refs/heads/main
