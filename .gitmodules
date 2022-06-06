@@ -65278,3 +65278,7 @@
 	url = https://github.com/conda-forge/pynamodb-encoder-feedstock.git
 	path = feedstocks/pynamodb-encoder
 	branch = refs/heads/main
+[submodule "publication"]
+	url = https://github.com/conda-forge/publication-feedstock.git
+	path = feedstocks/publication
+	branch = refs/heads/main
