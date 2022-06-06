@@ -65258,3 +65258,7 @@
 	url = https://github.com/conda-forge/ptychodus-feedstock.git
 	path = feedstocks/ptychodus
 	branch = refs/heads/main
+[submodule "colorhash"]
+	url = https://github.com/conda-forge/colorhash-feedstock.git
+	path = feedstocks/colorhash
+	branch = refs/heads/main
