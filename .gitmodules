@@ -65270,3 +65270,7 @@
 	url = https://github.com/conda-forge/pangeo-sphinx-book-theme-feedstock.git
 	path = feedstocks/pangeo-sphinx-book-theme
 	branch = refs/heads/main
+[submodule "pygis"]
+	url = https://github.com/conda-forge/pygis-feedstock.git
+	path = feedstocks/pygis
+	branch = refs/heads/main
