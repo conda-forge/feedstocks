@@ -65338,3 +65338,7 @@
 	url = https://github.com/conda-forge/r-agtboost-feedstock.git
 	path = feedstocks/r-agtboost
 	branch = refs/heads/main
+[submodule "r-xicor"]
+	url = https://github.com/conda-forge/r-xicor-feedstock.git
+	path = feedstocks/r-xicor
+	branch = refs/heads/main
