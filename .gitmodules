@@ -65342,3 +65342,7 @@
 	url = https://github.com/conda-forge/r-xicor-feedstock.git
 	path = feedstocks/r-xicor
 	branch = refs/heads/main
+[submodule "r-dlstats"]
+	url = https://github.com/conda-forge/r-dlstats-feedstock.git
+	path = feedstocks/r-dlstats
+	branch = refs/heads/main
