@@ -65310,3 +65310,7 @@
 	url = https://github.com/conda-forge/lodepng-feedstock.git
 	path = feedstocks/lodepng
 	branch = refs/heads/main
+[submodule "geostatista"]
+	url = https://github.com/conda-forge/geostatista-feedstock.git
+	path = feedstocks/geostatista
+	branch = refs/heads/main
