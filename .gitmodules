@@ -65326,3 +65326,7 @@
 	url = https://github.com/conda-forge/libboost-mpi-feedstock.git
 	path = feedstocks/libboost-mpi
 	branch = refs/heads/main
+[submodule "pytrack"]
+	url = https://github.com/conda-forge/pytrack-feedstock.git
+	path = feedstocks/pytrack
+	branch = refs/heads/main
