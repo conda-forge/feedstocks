@@ -65330,3 +65330,7 @@
 	url = https://github.com/conda-forge/pytrack-feedstock.git
 	path = feedstocks/pytrack
 	branch = refs/heads/main
+[submodule "polars"]
+	url = https://github.com/conda-forge/polars-feedstock.git
+	path = feedstocks/polars
+	branch = refs/heads/main
