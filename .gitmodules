@@ -65322,3 +65322,7 @@
 	url = https://github.com/conda-forge/r-framecleaner-feedstock.git
 	path = feedstocks/r-framecleaner
 	branch = refs/heads/main
+[submodule "libboost-mpi"]
+	url = https://github.com/conda-forge/libboost-mpi-feedstock.git
+	path = feedstocks/libboost-mpi
+	branch = refs/heads/main
