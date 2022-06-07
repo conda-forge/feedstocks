@@ -65314,3 +65314,7 @@
 	url = https://github.com/conda-forge/geostatista-feedstock.git
 	path = feedstocks/geostatista
 	branch = refs/heads/main
+[submodule "cleopatra"]
+	url = https://github.com/conda-forge/cleopatra-feedstock.git
+	path = feedstocks/cleopatra
+	branch = refs/heads/main
