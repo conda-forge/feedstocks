@@ -65382,3 +65382,7 @@
 	url = https://github.com/conda-forge/antropy-feedstock.git
 	path = feedstocks/antropy
 	branch = refs/heads/main
+[submodule "pyriemann"]
+	url = https://github.com/conda-forge/pyriemann-feedstock.git
+	path = feedstocks/pyriemann
+	branch = refs/heads/main
