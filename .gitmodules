@@ -65378,3 +65378,7 @@
 	url = https://github.com/conda-forge/enaml-extensions-feedstock.git
 	path = feedstocks/enaml-extensions
 	branch = refs/heads/main
+[submodule "antropy"]
+	url = https://github.com/conda-forge/antropy-feedstock.git
+	path = feedstocks/antropy
+	branch = refs/heads/main
