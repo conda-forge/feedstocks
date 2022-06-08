@@ -65362,3 +65362,7 @@
 	url = https://github.com/conda-forge/r-ggdensity-feedstock.git
 	path = feedstocks/r-ggdensity
 	branch = refs/heads/main
+[submodule "r-badger"]
+	url = https://github.com/conda-forge/r-badger-feedstock.git
+	path = feedstocks/r-badger
+	branch = refs/heads/main
