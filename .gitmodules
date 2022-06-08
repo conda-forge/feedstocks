@@ -65434,3 +65434,7 @@
 	url = https://github.com/conda-forge/r-listviewer-feedstock.git
 	path = feedstocks/r-listviewer
 	branch = refs/heads/main
+[submodule "napari-matplotlib"]
+	url = https://github.com/conda-forge/napari-matplotlib-feedstock.git
+	path = feedstocks/napari-matplotlib
+	branch = refs/heads/main
