@@ -65354,3 +65354,7 @@
 	url = https://github.com/conda-forge/prolif-feedstock.git
 	path = feedstocks/prolif
 	branch = refs/heads/main
+[submodule "r-berryfunctions"]
+	url = https://github.com/conda-forge/r-berryfunctions-feedstock.git
+	path = feedstocks/r-berryfunctions
+	branch = refs/heads/main
