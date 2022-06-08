@@ -65406,3 +65406,7 @@
 	url = https://github.com/conda-forge/r-simplevis-feedstock.git
 	path = feedstocks/r-simplevis
 	branch = refs/heads/main
+[submodule "r-presenter"]
+	url = https://github.com/conda-forge/r-presenter-feedstock.git
+	path = feedstocks/r-presenter
+	branch = refs/heads/main
