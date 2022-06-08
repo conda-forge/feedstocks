@@ -65366,3 +65366,7 @@
 	url = https://github.com/conda-forge/r-badger-feedstock.git
 	path = feedstocks/r-badger
 	branch = refs/heads/main
+[submodule "r-santoku"]
+	url = https://github.com/conda-forge/r-santoku-feedstock.git
+	path = feedstocks/r-santoku
+	branch = refs/heads/main
