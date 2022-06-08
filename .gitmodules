@@ -65374,3 +65374,7 @@
 	url = https://github.com/conda-forge/lspopt-feedstock.git
 	path = feedstocks/lspopt
 	branch = refs/heads/main
+[submodule "enaml-extensions"]
+	url = https://github.com/conda-forge/enaml-extensions-feedstock.git
+	path = feedstocks/enaml-extensions
+	branch = refs/heads/main
