@@ -65422,3 +65422,7 @@
 	url = https://github.com/conda-forge/couchdb-feedstock.git
 	path = feedstocks/couchdb
 	branch = refs/heads/main
+[submodule "parquet-python"]
+	url = https://github.com/conda-forge/parquet-python-feedstock.git
+	path = feedstocks/parquet-python
+	branch = refs/heads/main
