@@ -65370,3 +65370,7 @@
 	url = https://github.com/conda-forge/r-santoku-feedstock.git
 	path = feedstocks/r-santoku
 	branch = refs/heads/main
+[submodule "lspopt"]
+	url = https://github.com/conda-forge/lspopt-feedstock.git
+	path = feedstocks/lspopt
+	branch = refs/heads/main
