@@ -65418,3 +65418,7 @@
 	url = https://github.com/conda-forge/r-ggraptr-feedstock.git
 	path = feedstocks/r-ggraptr
 	branch = refs/heads/main
+[submodule "couchdb"]
+	url = https://github.com/conda-forge/couchdb-feedstock.git
+	path = feedstocks/couchdb
+	branch = refs/heads/main
