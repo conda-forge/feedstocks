@@ -65394,3 +65394,7 @@
 	url = https://github.com/conda-forge/napari-annotatorj-feedstock.git
 	path = feedstocks/napari-annotatorj
 	branch = refs/heads/main
+[submodule "stardist-napari"]
+	url = https://github.com/conda-forge/stardist-napari-feedstock.git
+	path = feedstocks/stardist-napari
+	branch = refs/heads/main
