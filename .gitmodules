@@ -65430,3 +65430,7 @@
 	url = https://github.com/conda-forge/r-oner-feedstock.git
 	path = feedstocks/r-oner
 	branch = refs/heads/main
+[submodule "r-listviewer"]
+	url = https://github.com/conda-forge/r-listviewer-feedstock.git
+	path = feedstocks/r-listviewer
+	branch = refs/heads/main
