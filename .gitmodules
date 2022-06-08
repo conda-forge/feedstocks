@@ -65402,3 +65402,7 @@
 	url = https://github.com/conda-forge/r-pacman-feedstock.git
 	path = feedstocks/r-pacman
 	branch = refs/heads/main
+[submodule "r-simplevis"]
+	url = https://github.com/conda-forge/r-simplevis-feedstock.git
+	path = feedstocks/r-simplevis
+	branch = refs/heads/main
