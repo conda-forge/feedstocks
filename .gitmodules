@@ -65414,3 +65414,7 @@
 	url = https://github.com/conda-forge/r-smarteda-feedstock.git
 	path = feedstocks/r-smarteda
 	branch = refs/heads/main
+[submodule "r-ggraptr"]
+	url = https://github.com/conda-forge/r-ggraptr-feedstock.git
+	path = feedstocks/r-ggraptr
+	branch = refs/heads/main
