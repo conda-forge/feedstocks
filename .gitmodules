@@ -65398,3 +65398,7 @@
 	url = https://github.com/conda-forge/stardist-napari-feedstock.git
 	path = feedstocks/stardist-napari
 	branch = refs/heads/main
+[submodule "r-pacman"]
+	url = https://github.com/conda-forge/r-pacman-feedstock.git
+	path = feedstocks/r-pacman
+	branch = refs/heads/main
