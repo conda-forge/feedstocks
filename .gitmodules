@@ -65518,3 +65518,7 @@
 	url = https://github.com/conda-forge/river-py-feedstock.git
 	path = feedstocks/river-py
 	branch = refs/heads/main
+[submodule "river-cpp"]
+	url = https://github.com/conda-forge/river-cpp-feedstock.git
+	path = feedstocks/river-cpp
+	branch = refs/heads/main
