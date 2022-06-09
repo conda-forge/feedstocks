@@ -65502,3 +65502,7 @@
 	url = https://github.com/conda-forge/afwizard-library-feedstock.git
 	path = feedstocks/afwizard-library
 	branch = refs/heads/main
+[submodule "des-imsupport"]
+	url = https://github.com/conda-forge/des-imsupport-feedstock.git
+	path = feedstocks/des-imsupport
+	branch = refs/heads/main
