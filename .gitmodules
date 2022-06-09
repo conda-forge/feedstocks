@@ -65490,3 +65490,7 @@
 	url = https://github.com/conda-forge/des-pixcorrect-feedstock.git
 	path = feedstocks/des-pixcorrect
 	branch = refs/heads/main
+[submodule "des-despyfits"]
+	url = https://github.com/conda-forge/des-despyfits-feedstock.git
+	path = feedstocks/des-despyfits
+	branch = refs/heads/main
