@@ -65458,3 +65458,7 @@
 	url = https://github.com/conda-forge/xcb-util-renderutil-feedstock.git
 	path = feedstocks/xcb-util-renderutil
 	branch = refs/heads/main
+[submodule "xcb-util-image"]
+	url = https://github.com/conda-forge/xcb-util-image-feedstock.git
+	path = feedstocks/xcb-util-image
+	branch = refs/heads/main
