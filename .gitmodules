@@ -65478,3 +65478,7 @@
 	url = https://github.com/conda-forge/r-autostats-feedstock.git
 	path = feedstocks/r-autostats
 	branch = refs/heads/main
+[submodule "r-embed"]
+	url = https://github.com/conda-forge/r-embed-feedstock.git
+	path = feedstocks/r-embed
+	branch = refs/heads/main
