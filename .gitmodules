@@ -65482,3 +65482,7 @@
 	url = https://github.com/conda-forge/r-embed-feedstock.git
 	path = feedstocks/r-embed
 	branch = refs/heads/main
+[submodule "pyturbo"]
+	url = https://github.com/conda-forge/pyturbo-feedstock.git
+	path = feedstocks/pyturbo
+	branch = refs/heads/main
