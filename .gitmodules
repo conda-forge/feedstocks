@@ -65514,3 +65514,7 @@
 	url = https://github.com/conda-forge/jsonmerge-feedstock.git
 	path = feedstocks/jsonmerge
 	branch = refs/heads/main
+[submodule "river-py"]
+	url = https://github.com/conda-forge/river-py-feedstock.git
+	path = feedstocks/river-py
+	branch = refs/heads/main
