@@ -65494,3 +65494,7 @@
 	url = https://github.com/conda-forge/des-despyfits-feedstock.git
 	path = feedstocks/des-despyfits
 	branch = refs/heads/main
+[submodule "des-despyastro"]
+	url = https://github.com/conda-forge/des-despyastro-feedstock.git
+	path = feedstocks/des-despyastro
+	branch = refs/heads/main
