@@ -65486,3 +65486,7 @@
 	url = https://github.com/conda-forge/pyturbo-feedstock.git
 	path = feedstocks/pyturbo
 	branch = refs/heads/main
+[submodule "des-pixcorrect"]
+	url = https://github.com/conda-forge/des-pixcorrect-feedstock.git
+	path = feedstocks/des-pixcorrect
+	branch = refs/heads/main
