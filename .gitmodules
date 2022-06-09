@@ -65510,3 +65510,7 @@
 	url = https://github.com/conda-forge/des-despymisc-feedstock.git
 	path = feedstocks/des-despymisc
 	branch = refs/heads/main
+[submodule "jsonmerge"]
+	url = https://github.com/conda-forge/jsonmerge-feedstock.git
+	path = feedstocks/jsonmerge
+	branch = refs/heads/main
