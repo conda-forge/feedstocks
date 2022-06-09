@@ -65526,3 +65526,7 @@
 	url = https://github.com/conda-forge/r-httr2-feedstock.git
 	path = feedstocks/r-httr2
 	branch = refs/heads/main
+[submodule "astra-toolbox"]
+	url = https://github.com/conda-forge/astra-toolbox-feedstock.git
+	path = feedstocks/astra-toolbox
+	branch = refs/heads/main
