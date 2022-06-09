@@ -65474,3 +65474,7 @@
 	url = https://github.com/conda-forge/r-tidybins-feedstock.git
 	path = feedstocks/r-tidybins
 	branch = refs/heads/main
+[submodule "r-autostats"]
+	url = https://github.com/conda-forge/r-autostats-feedstock.git
+	path = feedstocks/r-autostats
+	branch = refs/heads/main
