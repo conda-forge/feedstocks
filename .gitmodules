@@ -65446,3 +65446,7 @@
 	url = https://github.com/conda-forge/yasa-feedstock.git
 	path = feedstocks/yasa
 	branch = refs/heads/main
+[submodule "ipywidgets-jsonschema"]
+	url = https://github.com/conda-forge/ipywidgets-jsonschema-feedstock.git
+	path = feedstocks/ipywidgets-jsonschema
+	branch = refs/heads/main
