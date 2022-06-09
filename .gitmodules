@@ -65498,3 +65498,7 @@
 	url = https://github.com/conda-forge/des-despyastro-feedstock.git
 	path = feedstocks/des-despyastro
 	branch = refs/heads/main
+[submodule "afwizard-library"]
+	url = https://github.com/conda-forge/afwizard-library-feedstock.git
+	path = feedstocks/afwizard-library
+	branch = refs/heads/main
