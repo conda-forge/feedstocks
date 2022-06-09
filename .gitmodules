@@ -65522,3 +65522,7 @@
 	url = https://github.com/conda-forge/river-cpp-feedstock.git
 	path = feedstocks/river-cpp
 	branch = refs/heads/main
+[submodule "r-httr2"]
+	url = https://github.com/conda-forge/r-httr2-feedstock.git
+	path = feedstocks/r-httr2
+	branch = refs/heads/main
