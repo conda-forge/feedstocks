@@ -65438,3 +65438,7 @@
 	url = https://github.com/conda-forge/napari-matplotlib-feedstock.git
 	path = feedstocks/napari-matplotlib
 	branch = refs/heads/main
+[submodule "digitalearth"]
+	url = https://github.com/conda-forge/digitalearth-feedstock.git
+	path = feedstocks/digitalearth
+	branch = refs/heads/main
