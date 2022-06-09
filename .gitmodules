@@ -65462,3 +65462,7 @@
 	url = https://github.com/conda-forge/xcb-util-image-feedstock.git
 	path = feedstocks/xcb-util-image
 	branch = refs/heads/main
+[submodule "multivisor"]
+	url = https://github.com/conda-forge/multivisor-feedstock.git
+	path = feedstocks/multivisor
+	branch = refs/heads/main
