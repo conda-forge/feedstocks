@@ -65470,3 +65470,7 @@
 	url = https://github.com/conda-forge/r-validata-feedstock.git
 	path = feedstocks/r-validata
 	branch = refs/heads/main
+[submodule "r-tidybins"]
+	url = https://github.com/conda-forge/r-tidybins-feedstock.git
+	path = feedstocks/r-tidybins
+	branch = refs/heads/main
