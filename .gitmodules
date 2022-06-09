@@ -65442,3 +65442,7 @@
 	url = https://github.com/conda-forge/digitalearth-feedstock.git
 	path = feedstocks/digitalearth
 	branch = refs/heads/main
+[submodule "yasa"]
+	url = https://github.com/conda-forge/yasa-feedstock.git
+	path = feedstocks/yasa
+	branch = refs/heads/main
