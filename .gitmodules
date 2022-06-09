@@ -65454,3 +65454,7 @@
 	url = https://github.com/conda-forge/hatch-vcs-feedstock.git
 	path = feedstocks/hatch-vcs
 	branch = refs/heads/main
+[submodule "xcb-util-renderutil"]
+	url = https://github.com/conda-forge/xcb-util-renderutil-feedstock.git
+	path = feedstocks/xcb-util-renderutil
+	branch = refs/heads/main
