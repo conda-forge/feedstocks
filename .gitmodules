@@ -65534,3 +65534,7 @@
 	url = https://github.com/conda-forge/r-mskcc.oncotree-feedstock.git
 	path = feedstocks/r-mskcc.oncotree
 	branch = refs/heads/main
+[submodule "pyscamp-gpu"]
+	url = https://github.com/conda-forge/pyscamp-gpu-feedstock.git
+	path = feedstocks/pyscamp-gpu
+	branch = refs/heads/main
