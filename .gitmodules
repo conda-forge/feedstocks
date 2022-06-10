@@ -65554,3 +65554,7 @@
 	url = https://github.com/conda-forge/poetry-dynamic-versioning-plugin-feedstock.git
 	path = feedstocks/poetry-dynamic-versioning-plugin
 	branch = refs/heads/main
+[submodule "afwizard"]
+	url = https://github.com/conda-forge/afwizard-feedstock.git
+	path = feedstocks/afwizard
+	branch = refs/heads/main
