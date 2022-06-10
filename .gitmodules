@@ -65530,3 +65530,7 @@
 	url = https://github.com/conda-forge/astra-toolbox-feedstock.git
 	path = feedstocks/astra-toolbox
 	branch = refs/heads/main
+[submodule "r-mskcc.oncotree"]
+	url = https://github.com/conda-forge/r-mskcc.oncotree-feedstock.git
+	path = feedstocks/r-mskcc.oncotree
+	branch = refs/heads/main
