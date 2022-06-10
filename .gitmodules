@@ -65538,3 +65538,7 @@
 	url = https://github.com/conda-forge/pyscamp-gpu-feedstock.git
 	path = feedstocks/pyscamp-gpu
 	branch = refs/heads/main
+[submodule "pyscamp-cpu"]
+	url = https://github.com/conda-forge/pyscamp-cpu-feedstock.git
+	path = feedstocks/pyscamp-cpu
+	branch = refs/heads/main
