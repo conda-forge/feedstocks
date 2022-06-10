@@ -65550,3 +65550,7 @@
 	url = https://github.com/conda-forge/django-permissionedforms-feedstock.git
 	path = feedstocks/django-permissionedforms
 	branch = refs/heads/main
+[submodule "poetry-dynamic-versioning-plugin"]
+	url = https://github.com/conda-forge/poetry-dynamic-versioning-plugin-feedstock.git
+	path = feedstocks/poetry-dynamic-versioning-plugin
+	branch = refs/heads/main
