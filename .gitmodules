@@ -65546,3 +65546,7 @@
 	url = https://github.com/conda-forge/gcn-kafka-feedstock.git
 	path = feedstocks/gcn-kafka
 	branch = refs/heads/main
+[submodule "django-permissionedforms"]
+	url = https://github.com/conda-forge/django-permissionedforms-feedstock.git
+	path = feedstocks/django-permissionedforms
+	branch = refs/heads/main
