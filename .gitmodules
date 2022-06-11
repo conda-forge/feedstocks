@@ -65570,3 +65570,7 @@
 	url = https://github.com/conda-forge/polylib-feedstock.git
 	path = feedstocks/polylib
 	branch = refs/heads/main
+[submodule "r-varimp"]
+	url = https://github.com/conda-forge/r-varimp-feedstock.git
+	path = feedstocks/r-varimp
+	branch = refs/heads/main
