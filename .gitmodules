@@ -65574,3 +65574,7 @@
 	url = https://github.com/conda-forge/r-varimp-feedstock.git
 	path = feedstocks/r-varimp
 	branch = refs/heads/main
+[submodule "connectorx"]
+	url = https://github.com/conda-forge/connectorx-feedstock.git
+	path = feedstocks/connectorx
+	branch = refs/heads/main
