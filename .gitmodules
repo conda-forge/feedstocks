@@ -65566,3 +65566,7 @@
 	url = https://github.com/conda-forge/r-measures-feedstock.git
 	path = feedstocks/r-measures
 	branch = refs/heads/main
+[submodule "polylib"]
+	url = https://github.com/conda-forge/polylib-feedstock.git
+	path = feedstocks/polylib
+	branch = refs/heads/main
