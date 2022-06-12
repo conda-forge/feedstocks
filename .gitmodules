@@ -65582,3 +65582,7 @@
 	url = https://github.com/conda-forge/r-moreparty-feedstock.git
 	path = feedstocks/r-moreparty
 	branch = refs/heads/main
+[submodule "bmi-wavewatch3"]
+	url = https://github.com/conda-forge/bmi-wavewatch3-feedstock.git
+	path = feedstocks/bmi-wavewatch3
+	branch = refs/heads/main
