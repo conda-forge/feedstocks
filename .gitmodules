@@ -65586,3 +65586,7 @@
 	url = https://github.com/conda-forge/bmi-wavewatch3-feedstock.git
 	path = feedstocks/bmi-wavewatch3
 	branch = refs/heads/main
+[submodule "stac-validator"]
+	url = https://github.com/conda-forge/stac-validator-feedstock.git
+	path = feedstocks/stac-validator
+	branch = refs/heads/main
