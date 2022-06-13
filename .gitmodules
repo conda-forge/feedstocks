@@ -65630,3 +65630,7 @@
 	url = https://github.com/conda-forge/microtc-feedstock.git
 	path = feedstocks/microtc
 	branch = refs/heads/main
+[submodule "stac-check"]
+	url = https://github.com/conda-forge/stac-check-feedstock.git
+	path = feedstocks/stac-check
+	branch = refs/heads/main
