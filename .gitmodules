@@ -65602,3 +65602,7 @@
 	url = https://github.com/conda-forge/taospy-feedstock.git
 	path = feedstocks/taospy
 	branch = refs/heads/main
+[submodule "napari-blob-detection"]
+	url = https://github.com/conda-forge/napari-blob-detection-feedstock.git
+	path = feedstocks/napari-blob-detection
+	branch = refs/heads/main
