@@ -65626,3 +65626,7 @@
 	url = https://github.com/conda-forge/pip-system-certs-feedstock.git
 	path = feedstocks/pip-system-certs
 	branch = refs/heads/main
+[submodule "microtc"]
+	url = https://github.com/conda-forge/microtc-feedstock.git
+	path = feedstocks/microtc
+	branch = refs/heads/main
