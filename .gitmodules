@@ -65618,3 +65618,7 @@
 	url = https://github.com/conda-forge/arcos4py-feedstock.git
 	path = feedstocks/arcos4py
 	branch = refs/heads/main
+[submodule "yarp"]
+	url = https://github.com/conda-forge/yarp-feedstock.git
+	path = feedstocks/yarp
+	branch = refs/heads/main
