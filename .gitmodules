@@ -65598,3 +65598,7 @@
 	url = https://github.com/conda-forge/r-utility-feedstock.git
 	path = feedstocks/r-utility
 	branch = refs/heads/main
+[submodule "taospy"]
+	url = https://github.com/conda-forge/taospy-feedstock.git
+	path = feedstocks/taospy
+	branch = refs/heads/main
