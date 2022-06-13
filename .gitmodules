@@ -65622,3 +65622,7 @@
 	url = https://github.com/conda-forge/yarp-feedstock.git
 	path = feedstocks/yarp
 	branch = refs/heads/main
+[submodule "pip-system-certs"]
+	url = https://github.com/conda-forge/pip-system-certs-feedstock.git
+	path = feedstocks/pip-system-certs
+	branch = refs/heads/main
