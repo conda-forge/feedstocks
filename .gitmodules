@@ -65610,3 +65610,7 @@
 	url = https://github.com/conda-forge/beetlesafari-feedstock.git
 	path = feedstocks/beetlesafari
 	branch = refs/heads/main
+[submodule "napari-error-reporter"]
+	url = https://github.com/conda-forge/napari-error-reporter-feedstock.git
+	path = feedstocks/napari-error-reporter
+	branch = refs/heads/main
