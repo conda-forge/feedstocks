@@ -65634,3 +65634,7 @@
 	url = https://github.com/conda-forge/stac-check-feedstock.git
 	path = feedstocks/stac-check
 	branch = refs/heads/main
+[submodule "r-gtextras"]
+	url = https://github.com/conda-forge/r-gtextras-feedstock.git
+	path = feedstocks/r-gtextras
+	branch = refs/heads/main
