@@ -65658,3 +65658,7 @@
 	url = https://github.com/conda-forge/openmm-atmmetaforce-plugin-feedstock.git
 	path = feedstocks/openmm-atmmetaforce-plugin
 	branch = refs/heads/main
+[submodule "openmmtorchplugin"]
+	url = https://github.com/conda-forge/openmmtorchplugin-feedstock.git
+	path = feedstocks/openmmtorchplugin
+	branch = refs/heads/main
