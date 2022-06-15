@@ -65654,3 +65654,7 @@
 	url = https://github.com/conda-forge/b4msa-feedstock.git
 	path = feedstocks/b4msa
 	branch = refs/heads/main
+[submodule "openmm-atmmetaforce-plugin"]
+	url = https://github.com/conda-forge/openmm-atmmetaforce-plugin-feedstock.git
+	path = feedstocks/openmm-atmmetaforce-plugin
+	branch = refs/heads/main
