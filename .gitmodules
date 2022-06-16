@@ -65666,3 +65666,7 @@
 	url = https://github.com/conda-forge/refcount-feedstock.git
 	path = feedstocks/refcount
 	branch = refs/heads/main
+[submodule "heavydb-ext"]
+	url = https://github.com/conda-forge/heavydb-ext-feedstock.git
+	path = feedstocks/heavydb-ext
+	branch = refs/heads/main
