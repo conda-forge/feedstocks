@@ -65686,3 +65686,7 @@
 	url = https://github.com/conda-forge/napari-feature-classifier-feedstock.git
 	path = feedstocks/napari-feature-classifier
 	branch = refs/heads/main
+[submodule "napari-ism"]
+	url = https://github.com/conda-forge/napari-ism-feedstock.git
+	path = feedstocks/napari-ism
+	branch = refs/heads/main
