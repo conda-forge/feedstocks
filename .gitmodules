@@ -65662,3 +65662,7 @@
 	url = https://github.com/conda-forge/openmmtorchplugin-feedstock.git
 	path = feedstocks/openmmtorchplugin
 	branch = refs/heads/main
+[submodule "refcount"]
+	url = https://github.com/conda-forge/refcount-feedstock.git
+	path = feedstocks/refcount
+	branch = refs/heads/main
