@@ -65682,3 +65682,7 @@
 	url = https://github.com/conda-forge/napari-power-spectrum-feedstock.git
 	path = feedstocks/napari-power-spectrum
 	branch = refs/heads/main
+[submodule "napari-feature-classifier"]
+	url = https://github.com/conda-forge/napari-feature-classifier-feedstock.git
+	path = feedstocks/napari-feature-classifier
+	branch = refs/heads/main
