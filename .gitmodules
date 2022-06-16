@@ -65698,3 +65698,7 @@
 	url = https://github.com/conda-forge/dynamotable-feedstock.git
 	path = feedstocks/dynamotable
 	branch = refs/heads/main
+[submodule "beamngpy"]
+	url = https://github.com/conda-forge/beamngpy-feedstock.git
+	path = feedstocks/beamngpy
+	branch = refs/heads/main
