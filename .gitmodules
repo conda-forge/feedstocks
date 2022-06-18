@@ -65722,3 +65722,7 @@
 	url = https://github.com/conda-forge/r-dnapath-feedstock.git
 	path = feedstocks/r-dnapath
 	branch = refs/heads/main
+[submodule "quimb"]
+	url = https://github.com/conda-forge/quimb-feedstock.git
+	path = feedstocks/quimb
+	branch = refs/heads/main
