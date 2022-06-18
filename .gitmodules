@@ -65718,3 +65718,7 @@
 	url = https://github.com/conda-forge/r-seqnet-feedstock.git
 	path = feedstocks/r-seqnet
 	branch = refs/heads/main
+[submodule "r-dnapath"]
+	url = https://github.com/conda-forge/r-dnapath-feedstock.git
+	path = feedstocks/r-dnapath
+	branch = refs/heads/main
