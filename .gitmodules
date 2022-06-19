@@ -65730,3 +65730,7 @@
 	url = https://github.com/conda-forge/evomsa-feedstock.git
 	path = feedstocks/evomsa
 	branch = refs/heads/main
+[submodule "r-geomtextpath"]
+	url = https://github.com/conda-forge/r-geomtextpath-feedstock.git
+	path = feedstocks/r-geomtextpath
+	branch = refs/heads/main
