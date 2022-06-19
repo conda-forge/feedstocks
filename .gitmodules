@@ -65726,3 +65726,7 @@
 	url = https://github.com/conda-forge/quimb-feedstock.git
 	path = feedstocks/quimb
 	branch = refs/heads/main
+[submodule "evomsa"]
+	url = https://github.com/conda-forge/evomsa-feedstock.git
+	path = feedstocks/evomsa
+	branch = refs/heads/main
