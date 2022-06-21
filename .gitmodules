@@ -65742,3 +65742,7 @@
 	url = https://github.com/conda-forge/r-ggmulti-feedstock.git
 	path = feedstocks/r-ggmulti
 	branch = refs/heads/main
+[submodule "r-diversity"]
+	url = https://github.com/conda-forge/r-diversity-feedstock.git
+	path = feedstocks/r-diversity
+	branch = refs/heads/main
