@@ -65746,3 +65746,7 @@
 	url = https://github.com/conda-forge/r-diversity-feedstock.git
 	path = feedstocks/r-diversity
 	branch = refs/heads/main
+[submodule "r-loon"]
+	url = https://github.com/conda-forge/r-loon-feedstock.git
+	path = feedstocks/r-loon
+	branch = refs/heads/main
