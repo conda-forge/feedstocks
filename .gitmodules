@@ -65750,3 +65750,7 @@
 	url = https://github.com/conda-forge/r-loon-feedstock.git
 	path = feedstocks/r-loon
 	branch = refs/heads/main
+[submodule "jupyterlab-night"]
+	url = https://github.com/conda-forge/jupyterlab-night-feedstock.git
+	path = feedstocks/jupyterlab-night
+	branch = refs/heads/main
