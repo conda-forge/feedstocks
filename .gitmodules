@@ -65758,3 +65758,7 @@
 	url = https://github.com/conda-forge/type_safe-feedstock.git
 	path = feedstocks/type_safe
 	branch = refs/heads/main
+[submodule "debug_assert"]
+	url = https://github.com/conda-forge/debug_assert-feedstock.git
+	path = feedstocks/debug_assert
+	branch = refs/heads/main
