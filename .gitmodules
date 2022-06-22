@@ -65786,3 +65786,7 @@
 	url = https://github.com/conda-forge/nagios-feedstock.git
 	path = feedstocks/nagios
 	branch = refs/heads/main
+[submodule "hole-filling-liepa"]
+	url = https://github.com/conda-forge/hole-filling-liepa-feedstock.git
+	path = feedstocks/hole-filling-liepa
+	branch = refs/heads/main
