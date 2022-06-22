@@ -65766,3 +65766,7 @@
 	url = https://github.com/conda-forge/mujoco-feedstock.git
 	path = feedstocks/mujoco
 	branch = refs/heads/main
+[submodule "getcalspec"]
+	url = https://github.com/conda-forge/getcalspec-feedstock.git
+	path = feedstocks/getcalspec
+	branch = refs/heads/main
