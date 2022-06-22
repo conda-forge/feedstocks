@@ -65782,3 +65782,7 @@
 	url = https://github.com/conda-forge/nest-desktop-feedstock.git
 	path = feedstocks/nest-desktop
 	branch = refs/heads/main
+[submodule "nagios"]
+	url = https://github.com/conda-forge/nagios-feedstock.git
+	path = feedstocks/nagios
+	branch = refs/heads/main
