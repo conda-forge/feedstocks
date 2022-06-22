@@ -65762,3 +65762,7 @@
 	url = https://github.com/conda-forge/debug_assert-feedstock.git
 	path = feedstocks/debug_assert
 	branch = refs/heads/main
+[submodule "mujoco"]
+	url = https://github.com/conda-forge/mujoco-feedstock.git
+	path = feedstocks/mujoco
+	branch = refs/heads/main
