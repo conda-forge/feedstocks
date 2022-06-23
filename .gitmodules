@@ -65794,3 +65794,7 @@
 	url = https://github.com/conda-forge/pytest-emoji-feedstock.git
 	path = feedstocks/pytest-emoji
 	branch = refs/heads/main
+[submodule "pytest-md"]
+	url = https://github.com/conda-forge/pytest-md-feedstock.git
+	path = feedstocks/pytest-md
+	branch = refs/heads/main
