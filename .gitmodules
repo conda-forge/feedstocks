@@ -65822,3 +65822,7 @@
 	url = https://github.com/conda-forge/nvtop-feedstock.git
 	path = feedstocks/nvtop
 	branch = refs/heads/main
+[submodule "pyproject-metadata"]
+	url = https://github.com/conda-forge/pyproject-metadata-feedstock.git
+	path = feedstocks/pyproject-metadata
+	branch = refs/heads/main
