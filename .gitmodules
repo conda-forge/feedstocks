@@ -65806,3 +65806,7 @@
 	url = https://github.com/conda-forge/r-rasterdiv-feedstock.git
 	path = feedstocks/r-rasterdiv
 	branch = refs/heads/main
+[submodule "pyqt-stubs"]
+	url = https://github.com/conda-forge/pyqt-stubs-feedstock.git
+	path = feedstocks/pyqt-stubs
+	branch = refs/heads/main
