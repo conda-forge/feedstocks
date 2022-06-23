@@ -65798,3 +65798,7 @@
 	url = https://github.com/conda-forge/pytest-md-feedstock.git
 	path = feedstocks/pytest-md
 	branch = refs/heads/main
+[submodule "oracledb"]
+	url = https://github.com/conda-forge/oracledb-feedstock.git
+	path = feedstocks/oracledb
+	branch = refs/heads/main
