@@ -65818,3 +65818,7 @@
 	url = https://github.com/conda-forge/etils-feedstock.git
 	path = feedstocks/etils
 	branch = refs/heads/main
+[submodule "nvtop"]
+	url = https://github.com/conda-forge/nvtop-feedstock.git
+	path = feedstocks/nvtop
+	branch = refs/heads/main
