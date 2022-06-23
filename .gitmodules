@@ -65814,3 +65814,7 @@
 	url = https://github.com/conda-forge/pytoolconfig-feedstock.git
 	path = feedstocks/pytoolconfig
 	branch = refs/heads/main
+[submodule "etils"]
+	url = https://github.com/conda-forge/etils-feedstock.git
+	path = feedstocks/etils
+	branch = refs/heads/main
