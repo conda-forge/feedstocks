@@ -65854,3 +65854,7 @@
 	url = https://github.com/conda-forge/texthero-feedstock.git
 	path = feedstocks/texthero
 	branch = refs/heads/main
+[submodule "sourcetypes"]
+	url = https://github.com/conda-forge/sourcetypes-feedstock.git
+	path = feedstocks/sourcetypes
+	branch = refs/heads/main
