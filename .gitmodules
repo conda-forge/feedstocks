@@ -65826,3 +65826,7 @@
 	url = https://github.com/conda-forge/pyproject-metadata-feedstock.git
 	path = feedstocks/pyproject-metadata
 	branch = refs/heads/main
+[submodule "pytest-factoryboy"]
+	url = https://github.com/conda-forge/pytest-factoryboy-feedstock.git
+	path = feedstocks/pytest-factoryboy
+	branch = refs/heads/main
