@@ -65834,3 +65834,7 @@
 	url = https://github.com/conda-forge/r-ggrandomforests-feedstock.git
 	path = feedstocks/r-ggrandomforests
 	branch = refs/heads/main
+[submodule "openconnect-sso"]
+	url = https://github.com/conda-forge/openconnect-sso-feedstock.git
+	path = feedstocks/openconnect-sso
+	branch = refs/heads/main
