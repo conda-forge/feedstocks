@@ -65862,3 +65862,7 @@
 	url = https://github.com/conda-forge/tidypandas-feedstock.git
 	path = feedstocks/tidypandas
 	branch = refs/heads/main
+[submodule "mangum"]
+	url = https://github.com/conda-forge/mangum-feedstock.git
+	path = feedstocks/mangum
+	branch = refs/heads/main
