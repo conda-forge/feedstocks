@@ -65858,3 +65858,7 @@
 	url = https://github.com/conda-forge/sourcetypes-feedstock.git
 	path = feedstocks/sourcetypes
 	branch = refs/heads/main
+[submodule "tidypandas"]
+	url = https://github.com/conda-forge/tidypandas-feedstock.git
+	path = feedstocks/tidypandas
+	branch = refs/heads/main
