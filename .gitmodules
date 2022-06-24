@@ -65850,3 +65850,7 @@
 	url = https://github.com/conda-forge/cleantext-feedstock.git
 	path = feedstocks/cleantext
 	branch = refs/heads/main
+[submodule "texthero"]
+	url = https://github.com/conda-forge/texthero-feedstock.git
+	path = feedstocks/texthero
+	branch = refs/heads/main
