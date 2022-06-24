@@ -65842,3 +65842,7 @@
 	url = https://github.com/conda-forge/r-censored-feedstock.git
 	path = feedstocks/r-censored
 	branch = refs/heads/main
+[submodule "cachier"]
+	url = https://github.com/conda-forge/cachier-feedstock.git
+	path = feedstocks/cachier
+	branch = refs/heads/main
