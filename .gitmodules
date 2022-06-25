@@ -65926,3 +65926,7 @@
 	url = https://github.com/conda-forge/subrun-feedstock.git
 	path = feedstocks/subrun
 	branch = refs/heads/main
+[submodule "ogre-next"]
+	url = https://github.com/conda-forge/ogre-next-feedstock.git
+	path = feedstocks/ogre-next
+	branch = refs/heads/main
