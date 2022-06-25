@@ -65874,3 +65874,7 @@
 	url = https://github.com/conda-forge/stactools-feedstock.git
 	path = feedstocks/stactools
 	branch = refs/heads/main
+[submodule "unzip-http"]
+	url = https://github.com/conda-forge/unzip-http-feedstock.git
+	path = feedstocks/unzip-http
+	branch = refs/heads/main
