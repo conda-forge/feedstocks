@@ -65870,3 +65870,7 @@
 	url = https://github.com/conda-forge/miniboss-feedstock.git
 	path = feedstocks/miniboss
 	branch = refs/heads/main
+[submodule "stactools"]
+	url = https://github.com/conda-forge/stactools-feedstock.git
+	path = feedstocks/stactools
+	branch = refs/heads/main
