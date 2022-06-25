@@ -65898,3 +65898,7 @@
 	url = https://github.com/conda-forge/sqladmin-feedstock.git
 	path = feedstocks/sqladmin
 	branch = refs/heads/main
+[submodule "strawberry-graphql"]
+	url = https://github.com/conda-forge/strawberry-graphql-feedstock.git
+	path = feedstocks/strawberry-graphql
+	branch = refs/heads/main
