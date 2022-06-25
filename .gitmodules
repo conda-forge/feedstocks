@@ -65934,3 +65934,7 @@
 	url = https://github.com/conda-forge/r-rmatio-feedstock.git
 	path = feedstocks/r-rmatio
 	branch = refs/heads/main
+[submodule "skprogs"]
+	url = https://github.com/conda-forge/skprogs-feedstock.git
+	path = feedstocks/skprogs
+	branch = refs/heads/main
