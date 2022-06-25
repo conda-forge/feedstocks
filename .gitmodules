@@ -65882,3 +65882,7 @@
 	url = https://github.com/conda-forge/wslpath-feedstock.git
 	path = feedstocks/wslpath
 	branch = refs/heads/main
+[submodule "mechasvg"]
+	url = https://github.com/conda-forge/mechasvg-feedstock.git
+	path = feedstocks/mechasvg
+	branch = refs/heads/main
