@@ -65910,3 +65910,7 @@
 	url = https://github.com/conda-forge/jesth-feedstock.git
 	path = feedstocks/jesth
 	branch = refs/heads/main
+[submodule "pyccolo"]
+	url = https://github.com/conda-forge/pyccolo-feedstock.git
+	path = feedstocks/pyccolo
+	branch = refs/heads/main
