@@ -65902,3 +65902,7 @@
 	url = https://github.com/conda-forge/strawberry-graphql-feedstock.git
 	path = feedstocks/strawberry-graphql
 	branch = refs/heads/main
+[submodule "tinygp"]
+	url = https://github.com/conda-forge/tinygp-feedstock.git
+	path = feedstocks/tinygp
+	branch = refs/heads/main
