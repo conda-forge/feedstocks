@@ -65942,3 +65942,7 @@
 	url = https://github.com/conda-forge/sktools-feedstock.git
 	path = feedstocks/sktools
 	branch = refs/heads/main
+[submodule "anuga"]
+	url = https://github.com/conda-forge/anuga-feedstock.git
+	path = feedstocks/anuga
+	branch = refs/heads/main
