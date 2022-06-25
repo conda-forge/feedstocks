@@ -65878,3 +65878,7 @@
 	url = https://github.com/conda-forge/unzip-http-feedstock.git
 	path = feedstocks/unzip-http
 	branch = refs/heads/main
+[submodule "wslpath"]
+	url = https://github.com/conda-forge/wslpath-feedstock.git
+	path = feedstocks/wslpath
+	branch = refs/heads/main
