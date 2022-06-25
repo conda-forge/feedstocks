@@ -65922,3 +65922,7 @@
 	url = https://github.com/conda-forge/kurl-feedstock.git
 	path = feedstocks/kurl
 	branch = refs/heads/main
+[submodule "subrun"]
+	url = https://github.com/conda-forge/subrun-feedstock.git
+	path = feedstocks/subrun
+	branch = refs/heads/main
