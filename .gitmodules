@@ -65938,3 +65938,7 @@
 	url = https://github.com/conda-forge/skprogs-feedstock.git
 	path = feedstocks/skprogs
 	branch = refs/heads/main
+[submodule "sktools"]
+	url = https://github.com/conda-forge/sktools-feedstock.git
+	path = feedstocks/sktools
+	branch = refs/heads/main
