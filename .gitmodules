@@ -65946,3 +65946,7 @@
 	url = https://github.com/conda-forge/anuga-feedstock.git
 	path = feedstocks/anuga
 	branch = refs/heads/main
+[submodule "mystic"]
+	url = https://github.com/conda-forge/mystic-feedstock.git
+	path = feedstocks/mystic
+	branch = refs/heads/main
