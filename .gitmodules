@@ -65950,3 +65950,7 @@
 	url = https://github.com/conda-forge/mystic-feedstock.git
 	path = feedstocks/mystic
 	branch = refs/heads/main
+[submodule "traceml"]
+	url = https://github.com/conda-forge/traceml-feedstock.git
+	path = feedstocks/traceml
+	branch = refs/heads/main
