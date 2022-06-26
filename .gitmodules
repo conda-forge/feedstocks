@@ -65958,3 +65958,7 @@
 	url = https://github.com/conda-forge/litedao-feedstock.git
 	path = feedstocks/litedao
 	branch = refs/heads/main
+[submodule "python-batch-runner"]
+	url = https://github.com/conda-forge/python-batch-runner-feedstock.git
+	path = feedstocks/python-batch-runner
+	branch = refs/heads/main
