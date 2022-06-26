@@ -65970,3 +65970,7 @@
 	url = https://github.com/conda-forge/unionml-feedstock.git
 	path = feedstocks/unionml
 	branch = refs/heads/main
+[submodule "buildver"]
+	url = https://github.com/conda-forge/buildver-feedstock.git
+	path = feedstocks/buildver
+	branch = refs/heads/main
