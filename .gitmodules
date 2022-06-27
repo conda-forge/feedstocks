@@ -66006,3 +66006,7 @@
 	url = https://github.com/conda-forge/fmrib-unpack-fmrib-config-feedstock.git
 	path = feedstocks/fmrib-unpack-fmrib-config
 	branch = refs/heads/main
+[submodule "era5cli"]
+	url = https://github.com/conda-forge/era5cli-feedstock.git
+	path = feedstocks/era5cli
+	branch = refs/heads/main
