@@ -66038,3 +66038,7 @@
 	url = https://github.com/conda-forge/tkstyle-feedstock.git
 	path = feedstocks/tkstyle
 	branch = refs/heads/main
+[submodule "tkutil"]
+	url = https://github.com/conda-forge/tkutil-feedstock.git
+	path = feedstocks/tkutil
+	branch = refs/heads/main
