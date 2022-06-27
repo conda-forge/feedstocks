@@ -65974,3 +65974,7 @@
 	url = https://github.com/conda-forge/buildver-feedstock.git
 	path = feedstocks/buildver
 	branch = refs/heads/main
+[submodule "r-starticles"]
+	url = https://github.com/conda-forge/r-starticles-feedstock.git
+	path = feedstocks/r-starticles
+	branch = refs/heads/main
