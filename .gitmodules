@@ -66010,3 +66010,7 @@
 	url = https://github.com/conda-forge/era5cli-feedstock.git
 	path = feedstocks/era5cli
 	branch = refs/heads/main
+[submodule "rule-engine"]
+	url = https://github.com/conda-forge/rule-engine-feedstock.git
+	path = feedstocks/rule-engine
+	branch = refs/heads/main
