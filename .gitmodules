@@ -65990,3 +65990,7 @@
 	url = https://github.com/conda-forge/nzgeom-feedstock.git
 	path = feedstocks/nzgeom
 	branch = refs/heads/main
+[submodule "shared"]
+	url = https://github.com/conda-forge/shared-feedstock.git
+	path = feedstocks/shared
+	branch = refs/heads/main
