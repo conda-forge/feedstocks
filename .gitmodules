@@ -65994,3 +65994,7 @@
 	url = https://github.com/conda-forge/shared-feedstock.git
 	path = feedstocks/shared
 	branch = refs/heads/main
+[submodule "algotom"]
+	url = https://github.com/conda-forge/algotom-feedstock.git
+	path = feedstocks/algotom
+	branch = refs/heads/main
