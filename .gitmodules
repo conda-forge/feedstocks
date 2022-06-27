@@ -66002,3 +66002,7 @@
 	url = https://github.com/conda-forge/spotipy2-feedstock.git
 	path = feedstocks/spotipy2
 	branch = refs/heads/main
+[submodule "fmrib-unpack-fmrib-config"]
+	url = https://github.com/conda-forge/fmrib-unpack-fmrib-config-feedstock.git
+	path = feedstocks/fmrib-unpack-fmrib-config
+	branch = refs/heads/main
