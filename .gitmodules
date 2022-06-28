@@ -66050,3 +66050,7 @@
 	url = https://github.com/conda-forge/updater-feedstock.git
 	path = feedstocks/updater
 	branch = refs/heads/main
+[submodule "bentoml"]
+	url = https://github.com/conda-forge/bentoml-feedstock.git
+	path = feedstocks/bentoml
+	branch = refs/heads/main
