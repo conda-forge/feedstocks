@@ -66070,3 +66070,7 @@
 	url = https://github.com/conda-forge/pyswarms-feedstock.git
 	path = feedstocks/pyswarms
 	branch = refs/heads/main
+[submodule "mopac"]
+	url = https://github.com/conda-forge/mopac-feedstock.git
+	path = feedstocks/mopac
+	branch = refs/heads/main
