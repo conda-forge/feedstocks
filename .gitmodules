@@ -66066,3 +66066,7 @@
 	url = https://github.com/conda-forge/dice-ml-feedstock.git
 	path = feedstocks/dice-ml
 	branch = refs/heads/main
+[submodule "pyswarms"]
+	url = https://github.com/conda-forge/pyswarms-feedstock.git
+	path = feedstocks/pyswarms
+	branch = refs/heads/main
