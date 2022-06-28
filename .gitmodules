@@ -66046,3 +66046,7 @@
 	url = https://github.com/conda-forge/r-quarto-feedstock.git
 	path = feedstocks/r-quarto
 	branch = refs/heads/main
+[submodule "updater"]
+	url = https://github.com/conda-forge/updater-feedstock.git
+	path = feedstocks/updater
+	branch = refs/heads/main
