@@ -66042,3 +66042,7 @@
 	url = https://github.com/conda-forge/tkutil-feedstock.git
 	path = feedstocks/tkutil
 	branch = refs/heads/main
+[submodule "r-quarto"]
+	url = https://github.com/conda-forge/r-quarto-feedstock.git
+	path = feedstocks/r-quarto
+	branch = refs/heads/main
