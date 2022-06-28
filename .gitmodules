@@ -66062,3 +66062,7 @@
 	url = https://github.com/conda-forge/openmm-dlext-feedstock.git
 	path = feedstocks/openmm-dlext
 	branch = refs/heads/main
+[submodule "dice-ml"]
+	url = https://github.com/conda-forge/dice-ml-feedstock.git
+	path = feedstocks/dice-ml
+	branch = refs/heads/main
