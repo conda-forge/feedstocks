@@ -66058,3 +66058,7 @@
 	url = https://github.com/conda-forge/simple-di-feedstock.git
 	path = feedstocks/simple-di
 	branch = refs/heads/main
+[submodule "openmm-dlext"]
+	url = https://github.com/conda-forge/openmm-dlext-feedstock.git
+	path = feedstocks/openmm-dlext
+	branch = refs/heads/main
