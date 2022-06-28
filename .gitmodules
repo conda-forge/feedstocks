@@ -66054,3 +66054,7 @@
 	url = https://github.com/conda-forge/bentoml-feedstock.git
 	path = feedstocks/bentoml
 	branch = refs/heads/main
+[submodule "simple-di"]
+	url = https://github.com/conda-forge/simple-di-feedstock.git
+	path = feedstocks/simple-di
+	branch = refs/heads/main
