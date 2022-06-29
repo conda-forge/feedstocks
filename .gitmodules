@@ -66094,3 +66094,7 @@
 	url = https://github.com/conda-forge/svg.py-feedstock.git
 	path = feedstocks/svg.py
 	branch = refs/heads/main
+[submodule "nb_conda_store_kernels"]
+	url = https://github.com/conda-forge/nb_conda_store_kernels-feedstock.git
+	path = feedstocks/nb_conda_store_kernels
+	branch = refs/heads/main
