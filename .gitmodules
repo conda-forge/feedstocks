@@ -66106,3 +66106,7 @@
 	url = https://github.com/conda-forge/lbfgspp-feedstock.git
 	path = feedstocks/lbfgspp
 	branch = refs/heads/main
+[submodule "hpgeom"]
+	url = https://github.com/conda-forge/hpgeom-feedstock.git
+	path = feedstocks/hpgeom
+	branch = refs/heads/main
