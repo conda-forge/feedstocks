@@ -66098,3 +66098,7 @@
 	url = https://github.com/conda-forge/nb_conda_store_kernels-feedstock.git
 	path = feedstocks/nb_conda_store_kernels
 	branch = refs/heads/main
+[submodule "tiled-suite"]
+	url = https://github.com/conda-forge/tiled-suite-feedstock.git
+	path = feedstocks/tiled-suite
+	branch = refs/heads/main
