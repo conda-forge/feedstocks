@@ -66090,3 +66090,7 @@
 	url = https://github.com/conda-forge/r-survmetrics-feedstock.git
 	path = feedstocks/r-survmetrics
 	branch = refs/heads/main
+[submodule "svg.py"]
+	url = https://github.com/conda-forge/svg.py-feedstock.git
+	path = feedstocks/svg.py
+	branch = refs/heads/main
