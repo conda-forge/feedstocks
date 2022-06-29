@@ -66102,3 +66102,7 @@
 	url = https://github.com/conda-forge/tiled-suite-feedstock.git
 	path = feedstocks/tiled-suite
 	branch = refs/heads/main
+[submodule "lbfgspp"]
+	url = https://github.com/conda-forge/lbfgspp-feedstock.git
+	path = feedstocks/lbfgspp
+	branch = refs/heads/main
