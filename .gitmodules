@@ -66086,3 +66086,7 @@
 	url = https://github.com/conda-forge/skillbridge-feedstock.git
 	path = feedstocks/skillbridge
 	branch = refs/heads/main
+[submodule "r-survmetrics"]
+	url = https://github.com/conda-forge/r-survmetrics-feedstock.git
+	path = feedstocks/r-survmetrics
+	branch = refs/heads/main
