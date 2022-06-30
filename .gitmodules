@@ -66130,3 +66130,7 @@
 	url = https://github.com/conda-forge/nannos-feedstock.git
 	path = feedstocks/nannos
 	branch = refs/heads/main
+[submodule "strawberry-graphql-django"]
+	url = https://github.com/conda-forge/strawberry-graphql-django-feedstock.git
+	path = feedstocks/strawberry-graphql-django
+	branch = refs/heads/main
