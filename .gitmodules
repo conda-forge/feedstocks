@@ -66118,3 +66118,7 @@
 	url = https://github.com/conda-forge/maicos-feedstock.git
 	path = feedstocks/maicos
 	branch = refs/heads/main
+[submodule "nashpy"]
+	url = https://github.com/conda-forge/nashpy-feedstock.git
+	path = feedstocks/nashpy
+	branch = refs/heads/main
