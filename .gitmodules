@@ -66122,3 +66122,7 @@
 	url = https://github.com/conda-forge/nashpy-feedstock.git
 	path = feedstocks/nashpy
 	branch = refs/heads/main
+[submodule "jupyterlab-filesystem-access"]
+	url = https://github.com/conda-forge/jupyterlab-filesystem-access-feedstock.git
+	path = feedstocks/jupyterlab-filesystem-access
+	branch = refs/heads/main
