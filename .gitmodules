@@ -66126,3 +66126,7 @@
 	url = https://github.com/conda-forge/jupyterlab-filesystem-access-feedstock.git
 	path = feedstocks/jupyterlab-filesystem-access
 	branch = refs/heads/main
+[submodule "nannos"]
+	url = https://github.com/conda-forge/nannos-feedstock.git
+	path = feedstocks/nannos
+	branch = refs/heads/main
