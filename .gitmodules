@@ -66142,3 +66142,7 @@
 	url = https://github.com/conda-forge/plurmy-feedstock.git
 	path = feedstocks/plurmy
 	branch = refs/heads/main
+[submodule "arrow-c-glib"]
+	url = https://github.com/conda-forge/arrow-c-glib-feedstock.git
+	path = feedstocks/arrow-c-glib
+	branch = refs/heads/main
