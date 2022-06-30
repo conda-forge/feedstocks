@@ -66134,3 +66134,7 @@
 	url = https://github.com/conda-forge/strawberry-graphql-django-feedstock.git
 	path = feedstocks/strawberry-graphql-django
 	branch = refs/heads/main
+[submodule "lvis"]
+	url = https://github.com/conda-forge/lvis-feedstock.git
+	path = feedstocks/lvis
+	branch = refs/heads/main
