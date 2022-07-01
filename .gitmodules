@@ -66146,3 +66146,7 @@
 	url = https://github.com/conda-forge/arrow-c-glib-feedstock.git
 	path = feedstocks/arrow-c-glib
 	branch = refs/heads/main
+[submodule "r-rstoolbox"]
+	url = https://github.com/conda-forge/r-rstoolbox-feedstock.git
+	path = feedstocks/r-rstoolbox
+	branch = refs/heads/main
