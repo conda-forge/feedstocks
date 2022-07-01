@@ -66154,3 +66154,7 @@
 	url = https://github.com/conda-forge/p2j-feedstock.git
 	path = feedstocks/p2j
 	branch = refs/heads/main
+[submodule "numpy_ringbuffer"]
+	url = https://github.com/conda-forge/numpy_ringbuffer-feedstock.git
+	path = feedstocks/numpy_ringbuffer
+	branch = refs/heads/main
