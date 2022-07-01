@@ -66162,3 +66162,7 @@
 	url = https://github.com/conda-forge/ctrl-benchmark-feedstock.git
 	path = feedstocks/ctrl-benchmark
 	branch = refs/heads/main
+[submodule "higher"]
+	url = https://github.com/conda-forge/higher-feedstock.git
+	path = feedstocks/higher
+	branch = refs/heads/main
