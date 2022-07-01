@@ -66158,3 +66158,7 @@
 	url = https://github.com/conda-forge/numpy_ringbuffer-feedstock.git
 	path = feedstocks/numpy_ringbuffer
 	branch = refs/heads/main
+[submodule "ctrl-benchmark"]
+	url = https://github.com/conda-forge/ctrl-benchmark-feedstock.git
+	path = feedstocks/ctrl-benchmark
+	branch = refs/heads/main
