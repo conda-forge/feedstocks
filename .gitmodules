@@ -66150,3 +66150,7 @@
 	url = https://github.com/conda-forge/r-rstoolbox-feedstock.git
 	path = feedstocks/r-rstoolbox
 	branch = refs/heads/main
+[submodule "p2j"]
+	url = https://github.com/conda-forge/p2j-feedstock.git
+	path = feedstocks/p2j
+	branch = refs/heads/main
