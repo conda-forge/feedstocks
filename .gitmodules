@@ -66178,3 +66178,7 @@
 	url = https://github.com/conda-forge/phasecalculator-feedstock.git
 	path = feedstocks/phasecalculator
 	branch = refs/heads/main
+[submodule "flake8-junit-report"]
+	url = https://github.com/conda-forge/flake8-junit-report-feedstock.git
+	path = feedstocks/flake8-junit-report
+	branch = refs/heads/main
