@@ -66174,3 +66174,7 @@
 	url = https://github.com/conda-forge/oast-feedstock.git
 	path = feedstocks/oast
 	branch = refs/heads/main
+[submodule "phasecalculator"]
+	url = https://github.com/conda-forge/phasecalculator-feedstock.git
+	path = feedstocks/phasecalculator
+	branch = refs/heads/main
