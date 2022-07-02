@@ -66182,3 +66182,7 @@
 	url = https://github.com/conda-forge/flake8-junit-report-feedstock.git
 	path = feedstocks/flake8-junit-report
 	branch = refs/heads/main
+[submodule "pyvista-xarray"]
+	url = https://github.com/conda-forge/pyvista-xarray-feedstock.git
+	path = feedstocks/pyvista-xarray
+	branch = refs/heads/main
