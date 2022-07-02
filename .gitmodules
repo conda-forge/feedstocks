@@ -66170,3 +66170,7 @@
 	url = https://github.com/conda-forge/pythae-feedstock.git
 	path = feedstocks/pythae
 	branch = refs/heads/main
+[submodule "oast"]
+	url = https://github.com/conda-forge/oast-feedstock.git
+	path = feedstocks/oast
+	branch = refs/heads/main
