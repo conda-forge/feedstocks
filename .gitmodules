@@ -66206,3 +66206,7 @@
 	url = https://github.com/conda-forge/spectrafit-feedstock.git
 	path = feedstocks/spectrafit
 	branch = refs/heads/main
+[submodule "shared-memory38"]
+	url = https://github.com/conda-forge/shared-memory38-feedstock.git
+	path = feedstocks/shared-memory38
+	branch = refs/heads/main
