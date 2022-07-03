@@ -66198,3 +66198,7 @@
 	url = https://github.com/conda-forge/circlify-feedstock.git
 	path = feedstocks/circlify
 	branch = refs/heads/main
+[submodule "pyebsdindex"]
+	url = https://github.com/conda-forge/pyebsdindex-feedstock.git
+	path = feedstocks/pyebsdindex
+	branch = refs/heads/main
