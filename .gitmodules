@@ -66210,3 +66210,7 @@
 	url = https://github.com/conda-forge/shared-memory38-feedstock.git
 	path = feedstocks/shared-memory38
 	branch = refs/heads/main
+[submodule "gdsfactory"]
+	url = https://github.com/conda-forge/gdsfactory-feedstock.git
+	path = feedstocks/gdsfactory
+	branch = refs/heads/main
