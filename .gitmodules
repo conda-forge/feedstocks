@@ -66194,3 +66194,7 @@
 	url = https://github.com/conda-forge/lizard-feedstock.git
 	path = feedstocks/lizard
 	branch = refs/heads/main
+[submodule "circlify"]
+	url = https://github.com/conda-forge/circlify-feedstock.git
+	path = feedstocks/circlify
+	branch = refs/heads/main
