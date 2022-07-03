@@ -66214,3 +66214,7 @@
 	url = https://github.com/conda-forge/gdsfactory-feedstock.git
 	path = feedstocks/gdsfactory
 	branch = refs/heads/main
+[submodule "pylink"]
+	url = https://github.com/conda-forge/pylink-feedstock.git
+	path = feedstocks/pylink
+	branch = refs/heads/main
