@@ -66218,3 +66218,7 @@
 	url = https://github.com/conda-forge/pylink-feedstock.git
 	path = feedstocks/pylink
 	branch = refs/heads/main
+[submodule "qe-tools"]
+	url = https://github.com/conda-forge/qe-tools-feedstock.git
+	path = feedstocks/qe-tools
+	branch = refs/heads/main
