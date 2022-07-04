@@ -66234,3 +66234,7 @@
 	url = https://github.com/conda-forge/pytorchcv-feedstock.git
 	path = feedstocks/pytorchcv
 	branch = refs/heads/main
+[submodule "geotile"]
+	url = https://github.com/conda-forge/geotile-feedstock.git
+	path = feedstocks/geotile
+	branch = refs/heads/main
