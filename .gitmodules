@@ -66226,3 +66226,7 @@
 	url = https://github.com/conda-forge/morphman-feedstock.git
 	path = feedstocks/morphman
 	branch = refs/heads/main
+[submodule "r-wiesbaden"]
+	url = https://github.com/conda-forge/r-wiesbaden-feedstock.git
+	path = feedstocks/r-wiesbaden
+	branch = refs/heads/main
