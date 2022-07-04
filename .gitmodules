@@ -66246,3 +66246,7 @@
 	url = https://github.com/conda-forge/viewable-feedstock.git
 	path = feedstocks/viewable
 	branch = refs/heads/main
+[submodule "pybrowsers"]
+	url = https://github.com/conda-forge/pybrowsers-feedstock.git
+	path = feedstocks/pybrowsers
+	branch = refs/heads/main
