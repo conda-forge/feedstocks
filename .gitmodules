@@ -66222,3 +66222,7 @@
 	url = https://github.com/conda-forge/qe-tools-feedstock.git
 	path = feedstocks/qe-tools
 	branch = refs/heads/main
+[submodule "morphman"]
+	url = https://github.com/conda-forge/morphman-feedstock.git
+	path = feedstocks/morphman
+	branch = refs/heads/main
