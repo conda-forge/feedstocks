@@ -66230,3 +66230,7 @@
 	url = https://github.com/conda-forge/r-wiesbaden-feedstock.git
 	path = feedstocks/r-wiesbaden
 	branch = refs/heads/main
+[submodule "pytorchcv"]
+	url = https://github.com/conda-forge/pytorchcv-feedstock.git
+	path = feedstocks/pytorchcv
+	branch = refs/heads/main
