@@ -66242,3 +66242,7 @@
 	url = https://github.com/conda-forge/small-text-feedstock.git
 	path = feedstocks/small-text
 	branch = refs/heads/main
+[submodule "viewable"]
+	url = https://github.com/conda-forge/viewable-feedstock.git
+	path = feedstocks/viewable
+	branch = refs/heads/main
