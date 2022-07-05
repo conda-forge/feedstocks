@@ -66298,3 +66298,7 @@
 	url = https://github.com/conda-forge/ringdecomposerlib-feedstock.git
 	path = feedstocks/ringdecomposerlib
 	branch = refs/heads/main
+[submodule "pyston_lite"]
+	url = https://github.com/conda-forge/pyston_lite-feedstock.git
+	path = feedstocks/pyston_lite
+	branch = refs/heads/main
