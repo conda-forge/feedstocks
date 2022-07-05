@@ -66294,3 +66294,7 @@
 	url = https://github.com/conda-forge/waveorder-feedstock.git
 	path = feedstocks/waveorder
 	branch = refs/heads/main
+[submodule "ringdecomposerlib"]
+	url = https://github.com/conda-forge/ringdecomposerlib-feedstock.git
+	path = feedstocks/ringdecomposerlib
+	branch = refs/heads/main
