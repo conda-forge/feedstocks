@@ -66258,3 +66258,7 @@
 	url = https://github.com/conda-forge/simde-feedstock.git
 	path = feedstocks/simde
 	branch = refs/heads/main
+[submodule "setupinit"]
+	url = https://github.com/conda-forge/setupinit-feedstock.git
+	path = feedstocks/setupinit
+	branch = refs/heads/main
