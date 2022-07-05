@@ -66274,3 +66274,7 @@
 	url = https://github.com/conda-forge/redbird-feedstock.git
 	path = feedstocks/redbird
 	branch = refs/heads/main
+[submodule "napari-deeplabcut"]
+	url = https://github.com/conda-forge/napari-deeplabcut-feedstock.git
+	path = feedstocks/napari-deeplabcut
+	branch = refs/heads/main
