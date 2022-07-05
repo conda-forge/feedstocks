@@ -66270,3 +66270,7 @@
 	url = https://github.com/conda-forge/winter-theme-feedstock.git
 	path = feedstocks/winter-theme
 	branch = refs/heads/main
+[submodule "redbird"]
+	url = https://github.com/conda-forge/redbird-feedstock.git
+	path = feedstocks/redbird
+	branch = refs/heads/main
