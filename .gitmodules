@@ -66282,3 +66282,7 @@
 	url = https://github.com/conda-forge/napari-timeseries-opener-plugin-feedstock.git
 	path = feedstocks/napari-timeseries-opener-plugin
 	branch = refs/heads/main
+[submodule "morphometrics"]
+	url = https://github.com/conda-forge/morphometrics-feedstock.git
+	path = feedstocks/morphometrics
+	branch = refs/heads/main
