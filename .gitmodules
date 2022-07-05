@@ -66278,3 +66278,7 @@
 	url = https://github.com/conda-forge/napari-deeplabcut-feedstock.git
 	path = feedstocks/napari-deeplabcut
 	branch = refs/heads/main
+[submodule "napari-timeseries-opener-plugin"]
+	url = https://github.com/conda-forge/napari-timeseries-opener-plugin-feedstock.git
+	path = feedstocks/napari-timeseries-opener-plugin
+	branch = refs/heads/main
