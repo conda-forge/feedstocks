@@ -66250,3 +66250,7 @@
 	url = https://github.com/conda-forge/pybrowsers-feedstock.git
 	path = feedstocks/pybrowsers
 	branch = refs/heads/main
+[submodule "r-grafify"]
+	url = https://github.com/conda-forge/r-grafify-feedstock.git
+	path = feedstocks/r-grafify
+	branch = refs/heads/main
