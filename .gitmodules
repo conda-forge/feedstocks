@@ -66254,3 +66254,7 @@
 	url = https://github.com/conda-forge/r-grafify-feedstock.git
 	path = feedstocks/r-grafify
 	branch = refs/heads/main
+[submodule "simde"]
+	url = https://github.com/conda-forge/simde-feedstock.git
+	path = feedstocks/simde
+	branch = refs/heads/main
