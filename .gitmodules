@@ -66358,3 +66358,7 @@
 	url = https://github.com/conda-forge/physiocurve-feedstock.git
 	path = feedstocks/physiocurve
 	branch = refs/heads/main
+[submodule "webio-jupyter-extension"]
+	url = https://github.com/conda-forge/webio-jupyter-extension-feedstock.git
+	path = feedstocks/webio-jupyter-extension
+	branch = refs/heads/main
