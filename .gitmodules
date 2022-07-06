@@ -66322,3 +66322,7 @@
 	url = https://github.com/conda-forge/palmari-feedstock.git
 	path = feedstocks/palmari
 	branch = refs/heads/main
+[submodule "napari-pram"]
+	url = https://github.com/conda-forge/napari-pram-feedstock.git
+	path = feedstocks/napari-pram
+	branch = refs/heads/main
