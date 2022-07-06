@@ -66306,3 +66306,7 @@
 	url = https://github.com/conda-forge/jinja2-ansible-filters-feedstock.git
 	path = feedstocks/jinja2-ansible-filters
 	branch = refs/heads/main
+[submodule "pyyaml-include"]
+	url = https://github.com/conda-forge/pyyaml-include-feedstock.git
+	path = feedstocks/pyyaml-include
+	branch = refs/heads/main
