@@ -66342,3 +66342,7 @@
 	url = https://github.com/conda-forge/naaf-feedstock.git
 	path = feedstocks/naaf
 	branch = refs/heads/main
+[submodule "napari-bigwarp"]
+	url = https://github.com/conda-forge/napari-bigwarp-feedstock.git
+	path = feedstocks/napari-bigwarp
+	branch = refs/heads/main
