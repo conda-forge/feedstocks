@@ -66330,3 +66330,7 @@
 	url = https://github.com/conda-forge/pycromanager-feedstock.git
 	path = feedstocks/pycromanager
 	branch = refs/heads/main
+[submodule "augment-nd"]
+	url = https://github.com/conda-forge/augment-nd-feedstock.git
+	path = feedstocks/augment-nd
+	branch = refs/heads/main
