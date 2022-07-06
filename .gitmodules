@@ -66354,3 +66354,7 @@
 	url = https://github.com/conda-forge/napari-kics-feedstock.git
 	path = feedstocks/napari-kics
 	branch = refs/heads/main
+[submodule "physiocurve"]
+	url = https://github.com/conda-forge/physiocurve-feedstock.git
+	path = feedstocks/physiocurve
+	branch = refs/heads/main
