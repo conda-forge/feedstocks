@@ -66350,3 +66350,7 @@
 	url = https://github.com/conda-forge/bindsnet-feedstock.git
 	path = feedstocks/bindsnet
 	branch = refs/heads/main
+[submodule "napari-kics"]
+	url = https://github.com/conda-forge/napari-kics-feedstock.git
+	path = feedstocks/napari-kics
+	branch = refs/heads/main
