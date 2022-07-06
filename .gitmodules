@@ -66326,3 +66326,7 @@
 	url = https://github.com/conda-forge/napari-pram-feedstock.git
 	path = feedstocks/napari-pram
 	branch = refs/heads/main
+[submodule "pycromanager"]
+	url = https://github.com/conda-forge/pycromanager-feedstock.git
+	path = feedstocks/pycromanager
+	branch = refs/heads/main
