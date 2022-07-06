@@ -66366,3 +66366,7 @@
 	url = https://github.com/conda-forge/mmcv-recipe-feedstock.git
 	path = feedstocks/mmcv-recipe
 	branch = refs/heads/main
+[submodule "libhdbpp"]
+	url = https://github.com/conda-forge/libhdbpp-feedstock.git
+	path = feedstocks/libhdbpp
+	branch = refs/heads/main
