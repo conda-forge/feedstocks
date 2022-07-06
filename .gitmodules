@@ -66346,3 +66346,7 @@
 	url = https://github.com/conda-forge/napari-bigwarp-feedstock.git
 	path = feedstocks/napari-bigwarp
 	branch = refs/heads/main
+[submodule "bindsnet"]
+	url = https://github.com/conda-forge/bindsnet-feedstock.git
+	path = feedstocks/bindsnet
+	branch = refs/heads/main
