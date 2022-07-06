@@ -66362,3 +66362,7 @@
 	url = https://github.com/conda-forge/webio-jupyter-extension-feedstock.git
 	path = feedstocks/webio-jupyter-extension
 	branch = refs/heads/main
+[submodule "mmcv-recipe"]
+	url = https://github.com/conda-forge/mmcv-recipe-feedstock.git
+	path = feedstocks/mmcv-recipe
+	branch = refs/heads/main
