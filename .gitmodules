@@ -66310,3 +66310,7 @@
 	url = https://github.com/conda-forge/pyyaml-include-feedstock.git
 	path = feedstocks/pyyaml-include
 	branch = refs/heads/main
+[submodule "copier"]
+	url = https://github.com/conda-forge/copier-feedstock.git
+	path = feedstocks/copier
+	branch = refs/heads/main
