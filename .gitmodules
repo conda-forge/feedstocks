@@ -66334,3 +66334,7 @@
 	url = https://github.com/conda-forge/augment-nd-feedstock.git
 	path = feedstocks/augment-nd
 	branch = refs/heads/main
+[submodule "napari-ip-workflow"]
+	url = https://github.com/conda-forge/napari-ip-workflow-feedstock.git
+	path = feedstocks/napari-ip-workflow
+	branch = refs/heads/main
