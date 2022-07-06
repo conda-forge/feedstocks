@@ -66338,3 +66338,7 @@
 	url = https://github.com/conda-forge/napari-ip-workflow-feedstock.git
 	path = feedstocks/napari-ip-workflow
 	branch = refs/heads/main
+[submodule "naaf"]
+	url = https://github.com/conda-forge/naaf-feedstock.git
+	path = feedstocks/naaf
+	branch = refs/heads/main
