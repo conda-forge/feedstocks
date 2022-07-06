@@ -66314,3 +66314,7 @@
 	url = https://github.com/conda-forge/copier-feedstock.git
 	path = feedstocks/copier
 	branch = refs/heads/main
+[submodule "avalanche-lib"]
+	url = https://github.com/conda-forge/avalanche-lib-feedstock.git
+	path = feedstocks/avalanche-lib
+	branch = refs/heads/main
