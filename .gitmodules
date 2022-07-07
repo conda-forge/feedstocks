@@ -66374,3 +66374,7 @@
 	url = https://github.com/conda-forge/napari-picasso-feedstock.git
 	path = feedstocks/napari-picasso
 	branch = refs/heads/main
+[submodule "napari-layer-table"]
+	url = https://github.com/conda-forge/napari-layer-table-feedstock.git
+	path = feedstocks/napari-layer-table
+	branch = refs/heads/main
