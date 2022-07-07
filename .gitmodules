@@ -66382,3 +66382,7 @@
 	url = https://github.com/conda-forge/napari-blossom-feedstock.git
 	path = feedstocks/napari-blossom
 	branch = refs/heads/main
+[submodule "napari-labeling"]
+	url = https://github.com/conda-forge/napari-labeling-feedstock.git
+	path = feedstocks/napari-labeling
+	branch = refs/heads/main
