@@ -66378,3 +66378,7 @@
 	url = https://github.com/conda-forge/napari-layer-table-feedstock.git
 	path = feedstocks/napari-layer-table
 	branch = refs/heads/main
+[submodule "napari-blossom"]
+	url = https://github.com/conda-forge/napari-blossom-feedstock.git
+	path = feedstocks/napari-blossom
+	branch = refs/heads/main
