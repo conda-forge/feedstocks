@@ -66410,3 +66410,7 @@
 	url = https://github.com/conda-forge/transformations-feedstock.git
 	path = feedstocks/transformations
 	branch = refs/heads/main
+[submodule "arcos-gui"]
+	url = https://github.com/conda-forge/arcos-gui-feedstock.git
+	path = feedstocks/arcos-gui
+	branch = refs/heads/main
