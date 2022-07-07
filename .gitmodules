@@ -66422,3 +66422,7 @@
 	url = https://github.com/conda-forge/libusb-package-feedstock.git
 	path = feedstocks/libusb-package
 	branch = refs/heads/main
+[submodule "searvey"]
+	url = https://github.com/conda-forge/searvey-feedstock.git
+	path = feedstocks/searvey
+	branch = refs/heads/main
