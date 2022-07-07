@@ -66390,3 +66390,7 @@
 	url = https://github.com/conda-forge/napari-psf-simulator-feedstock.git
 	path = feedstocks/napari-psf-simulator
 	branch = refs/heads/main
+[submodule "xilinx-runtime"]
+	url = https://github.com/conda-forge/xilinx-runtime-feedstock.git
+	path = feedstocks/xilinx-runtime
+	branch = refs/heads/main
