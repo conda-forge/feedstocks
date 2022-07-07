@@ -66446,3 +66446,7 @@
 	url = https://github.com/conda-forge/polyhedral-gravity-model-feedstock.git
 	path = feedstocks/polyhedral-gravity-model
 	branch = refs/heads/main
+[submodule "poetry-plugin-export"]
+	url = https://github.com/conda-forge/poetry-plugin-export-feedstock.git
+	path = feedstocks/poetry-plugin-export
+	branch = refs/heads/main
