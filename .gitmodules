@@ -66438,3 +66438,7 @@
 	url = https://github.com/conda-forge/conda-package-streaming-feedstock.git
 	path = feedstocks/conda-package-streaming
 	branch = refs/heads/main
+[submodule "graphysio"]
+	url = https://github.com/conda-forge/graphysio-feedstock.git
+	path = feedstocks/graphysio
+	branch = refs/heads/main
