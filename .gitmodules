@@ -66418,3 +66418,7 @@
 	url = https://github.com/conda-forge/napari-sim-processor-feedstock.git
 	path = feedstocks/napari-sim-processor
 	branch = refs/heads/main
+[submodule "libusb-package"]
+	url = https://github.com/conda-forge/libusb-package-feedstock.git
+	path = feedstocks/libusb-package
+	branch = refs/heads/main
