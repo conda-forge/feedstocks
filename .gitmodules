@@ -66370,3 +66370,7 @@
 	url = https://github.com/conda-forge/libhdbpp-feedstock.git
 	path = feedstocks/libhdbpp
 	branch = refs/heads/main
+[submodule "napari-picasso"]
+	url = https://github.com/conda-forge/napari-picasso-feedstock.git
+	path = feedstocks/napari-picasso
+	branch = refs/heads/main
