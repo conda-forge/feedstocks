@@ -66402,3 +66402,7 @@
 	url = https://github.com/conda-forge/napari-psf-analysis-feedstock.git
 	path = feedstocks/napari-psf-analysis
 	branch = refs/heads/main
+[submodule "psfmodels"]
+	url = https://github.com/conda-forge/psfmodels-feedstock.git
+	path = feedstocks/psfmodels
+	branch = refs/heads/main
