@@ -66406,3 +66406,7 @@
 	url = https://github.com/conda-forge/psfmodels-feedstock.git
 	path = feedstocks/psfmodels
 	branch = refs/heads/main
+[submodule "transformations"]
+	url = https://github.com/conda-forge/transformations-feedstock.git
+	path = feedstocks/transformations
+	branch = refs/heads/main
