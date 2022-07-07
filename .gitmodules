@@ -66398,3 +66398,7 @@
 	url = https://github.com/conda-forge/hesperos-feedstock.git
 	path = feedstocks/hesperos
 	branch = refs/heads/main
+[submodule "napari-psf-analysis"]
+	url = https://github.com/conda-forge/napari-psf-analysis-feedstock.git
+	path = feedstocks/napari-psf-analysis
+	branch = refs/heads/main
