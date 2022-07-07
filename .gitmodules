@@ -66394,3 +66394,7 @@
 	url = https://github.com/conda-forge/xilinx-runtime-feedstock.git
 	path = feedstocks/xilinx-runtime
 	branch = refs/heads/main
+[submodule "hesperos"]
+	url = https://github.com/conda-forge/hesperos-feedstock.git
+	path = feedstocks/hesperos
+	branch = refs/heads/main
