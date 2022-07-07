@@ -66426,3 +66426,7 @@
 	url = https://github.com/conda-forge/searvey-feedstock.git
 	path = feedstocks/searvey
 	branch = refs/heads/main
+[submodule "jupyterlab-blockly"]
+	url = https://github.com/conda-forge/jupyterlab-blockly-feedstock.git
+	path = feedstocks/jupyterlab-blockly
+	branch = refs/heads/main
