@@ -66386,3 +66386,7 @@
 	url = https://github.com/conda-forge/napari-labeling-feedstock.git
 	path = feedstocks/napari-labeling
 	branch = refs/heads/main
+[submodule "napari-psf-simulator"]
+	url = https://github.com/conda-forge/napari-psf-simulator-feedstock.git
+	path = feedstocks/napari-psf-simulator
+	branch = refs/heads/main
