@@ -66454,3 +66454,7 @@
 	url = https://github.com/conda-forge/tuspy-feedstock.git
 	path = feedstocks/tuspy
 	branch = refs/heads/main
+[submodule "txm_sandbox"]
+	url = https://github.com/conda-forge/txm_sandbox-feedstock.git
+	path = feedstocks/txm_sandbox
+	branch = refs/heads/main
