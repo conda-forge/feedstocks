@@ -66462,3 +66462,7 @@
 	url = https://github.com/conda-forge/knoten-feedstock.git
 	path = feedstocks/knoten
 	branch = refs/heads/main
+[submodule "inputs"]
+	url = https://github.com/conda-forge/inputs-feedstock.git
+	path = feedstocks/inputs
+	branch = refs/heads/main
