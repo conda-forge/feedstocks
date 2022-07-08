@@ -66466,3 +66466,7 @@
 	url = https://github.com/conda-forge/inputs-feedstock.git
 	path = feedstocks/inputs
 	branch = refs/heads/main
+[submodule "pybboxes"]
+	url = https://github.com/conda-forge/pybboxes-feedstock.git
+	path = feedstocks/pybboxes
+	branch = refs/heads/main
