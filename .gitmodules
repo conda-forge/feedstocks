@@ -66458,3 +66458,7 @@
 	url = https://github.com/conda-forge/txm_sandbox-feedstock.git
 	path = feedstocks/txm_sandbox
 	branch = refs/heads/main
+[submodule "knoten"]
+	url = https://github.com/conda-forge/knoten-feedstock.git
+	path = feedstocks/knoten
+	branch = refs/heads/main
