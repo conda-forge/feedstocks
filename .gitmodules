@@ -66474,3 +66474,7 @@
 	url = https://github.com/conda-forge/whatthepatch-feedstock.git
 	path = feedstocks/whatthepatch
 	branch = refs/heads/main
+[submodule "mmdet"]
+	url = https://github.com/conda-forge/mmdet-feedstock.git
+	path = feedstocks/mmdet
+	branch = refs/heads/main
