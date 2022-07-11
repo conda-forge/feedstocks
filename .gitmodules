@@ -66554,3 +66554,7 @@
 	url = https://github.com/conda-forge/r-metrica-feedstock.git
 	path = feedstocks/r-metrica
 	branch = refs/heads/main
+[submodule "hatch"]
+	url = https://github.com/conda-forge/hatch-feedstock.git
+	path = feedstocks/hatch
+	branch = refs/heads/main
