@@ -66558,3 +66558,7 @@
 	url = https://github.com/conda-forge/hatch-feedstock.git
 	path = feedstocks/hatch
 	branch = refs/heads/main
+[submodule "py3-validate-email"]
+	url = https://github.com/conda-forge/py3-validate-email-feedstock.git
+	path = feedstocks/py3-validate-email
+	branch = refs/heads/main
