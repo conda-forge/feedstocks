@@ -66486,3 +66486,7 @@
 	url = https://github.com/conda-forge/napari-filaments-feedstock.git
 	path = feedstocks/napari-filaments
 	branch = refs/heads/main
+[submodule "napari-bioimageio"]
+	url = https://github.com/conda-forge/napari-bioimageio-feedstock.git
+	path = feedstocks/napari-bioimageio
+	branch = refs/heads/main
