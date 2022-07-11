@@ -66522,3 +66522,7 @@
 	url = https://github.com/conda-forge/napari-nd-annotator-feedstock.git
 	path = feedstocks/napari-nd-annotator
 	branch = refs/heads/main
+[submodule "aiida-fleur"]
+	url = https://github.com/conda-forge/aiida-fleur-feedstock.git
+	path = feedstocks/aiida-fleur
+	branch = refs/heads/main
