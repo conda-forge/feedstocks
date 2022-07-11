@@ -66546,3 +66546,7 @@
 	url = https://github.com/conda-forge/aiida-gaussian-feedstock.git
 	path = feedstocks/aiida-gaussian
 	branch = refs/heads/main
+[submodule "aiida-bigdft"]
+	url = https://github.com/conda-forge/aiida-bigdft-feedstock.git
+	path = feedstocks/aiida-bigdft
+	branch = refs/heads/main
