@@ -66506,3 +66506,7 @@
 	url = https://github.com/conda-forge/recorder-napari-feedstock.git
 	path = feedstocks/recorder-napari
 	branch = refs/heads/main
+[submodule "napari-annotator"]
+	url = https://github.com/conda-forge/napari-annotator-feedstock.git
+	path = feedstocks/napari-annotator
+	branch = refs/heads/main
