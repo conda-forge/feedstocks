@@ -66542,3 +66542,7 @@
 	url = https://github.com/conda-forge/aiida-nwchem-feedstock.git
 	path = feedstocks/aiida-nwchem
 	branch = refs/heads/main
+[submodule "aiida-gaussian"]
+	url = https://github.com/conda-forge/aiida-gaussian-feedstock.git
+	path = feedstocks/aiida-gaussian
+	branch = refs/heads/main
