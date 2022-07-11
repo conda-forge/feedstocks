@@ -66490,3 +66490,7 @@
 	url = https://github.com/conda-forge/napari-bioimageio-feedstock.git
 	path = feedstocks/napari-bioimageio
 	branch = refs/heads/main
+[submodule "napari-manual-transforms"]
+	url = https://github.com/conda-forge/napari-manual-transforms-feedstock.git
+	path = feedstocks/napari-manual-transforms
+	branch = refs/heads/main
