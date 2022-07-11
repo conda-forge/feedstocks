@@ -66518,3 +66518,7 @@
 	url = https://github.com/conda-forge/napari-cellseg3d-feedstock.git
 	path = feedstocks/napari-cellseg3d
 	branch = refs/heads/main
+[submodule "napari-nd-annotator"]
+	url = https://github.com/conda-forge/napari-nd-annotator-feedstock.git
+	path = feedstocks/napari-nd-annotator
+	branch = refs/heads/main
