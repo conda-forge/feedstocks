@@ -66478,3 +66478,7 @@
 	url = https://github.com/conda-forge/mmdet-feedstock.git
 	path = feedstocks/mmdet
 	branch = refs/heads/main
+[submodule "typedframe"]
+	url = https://github.com/conda-forge/typedframe-feedstock.git
+	path = feedstocks/typedframe
+	branch = refs/heads/main
