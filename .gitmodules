@@ -66510,3 +66510,7 @@
 	url = https://github.com/conda-forge/napari-annotator-feedstock.git
 	path = feedstocks/napari-annotator
 	branch = refs/heads/main
+[submodule "blik"]
+	url = https://github.com/conda-forge/blik-feedstock.git
+	path = feedstocks/blik
+	branch = refs/heads/main
