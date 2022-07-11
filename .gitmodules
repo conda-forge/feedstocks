@@ -66502,3 +66502,7 @@
 	url = https://github.com/conda-forge/napari-splineit-feedstock.git
 	path = feedstocks/napari-splineit
 	branch = refs/heads/main
+[submodule "recorder-napari"]
+	url = https://github.com/conda-forge/recorder-napari-feedstock.git
+	path = feedstocks/recorder-napari
+	branch = refs/heads/main
