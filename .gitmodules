@@ -66482,3 +66482,7 @@
 	url = https://github.com/conda-forge/typedframe-feedstock.git
 	path = feedstocks/typedframe
 	branch = refs/heads/main
+[submodule "napari-filaments"]
+	url = https://github.com/conda-forge/napari-filaments-feedstock.git
+	path = feedstocks/napari-filaments
+	branch = refs/heads/main
