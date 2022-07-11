@@ -66494,3 +66494,7 @@
 	url = https://github.com/conda-forge/napari-manual-transforms-feedstock.git
 	path = feedstocks/napari-manual-transforms
 	branch = refs/heads/main
+[submodule "sc-3d"]
+	url = https://github.com/conda-forge/sc-3d-feedstock.git
+	path = feedstocks/sc-3d
+	branch = refs/heads/main
