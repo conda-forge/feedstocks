@@ -66514,3 +66514,7 @@
 	url = https://github.com/conda-forge/blik-feedstock.git
 	path = feedstocks/blik
 	branch = refs/heads/main
+[submodule "napari-cellseg3d"]
+	url = https://github.com/conda-forge/napari-cellseg3d-feedstock.git
+	path = feedstocks/napari-cellseg3d
+	branch = refs/heads/main
