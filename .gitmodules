@@ -66530,3 +66530,7 @@
 	url = https://github.com/conda-forge/aiida-orca-feedstock.git
 	path = feedstocks/aiida-orca
 	branch = refs/heads/main
+[submodule "aiida-pseudo"]
+	url = https://github.com/conda-forge/aiida-pseudo-feedstock.git
+	path = feedstocks/aiida-pseudo
+	branch = refs/heads/main
