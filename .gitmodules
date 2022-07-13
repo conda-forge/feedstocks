@@ -66594,3 +66594,7 @@
 	url = https://github.com/conda-forge/react-ipywidgets-feedstock.git
 	path = feedstocks/react-ipywidgets
 	branch = refs/heads/main
+[submodule "dvc-task"]
+	url = https://github.com/conda-forge/dvc-task-feedstock.git
+	path = feedstocks/dvc-task
+	branch = refs/heads/main
