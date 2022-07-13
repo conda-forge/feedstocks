@@ -66602,3 +66602,7 @@
 	url = https://github.com/conda-forge/rocketry-feedstock.git
 	path = feedstocks/rocketry
 	branch = refs/heads/main
+[submodule "redengine"]
+	url = https://github.com/conda-forge/redengine-feedstock.git
+	path = feedstocks/redengine
+	branch = refs/heads/main
