@@ -66586,3 +66586,7 @@
 	url = https://github.com/conda-forge/aiida-wannier90-feedstock.git
 	path = feedstocks/aiida-wannier90
 	branch = refs/heads/main
+[submodule "fegrow"]
+	url = https://github.com/conda-forge/fegrow-feedstock.git
+	path = feedstocks/fegrow
+	branch = refs/heads/main
