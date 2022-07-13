@@ -66598,3 +66598,7 @@
 	url = https://github.com/conda-forge/dvc-task-feedstock.git
 	path = feedstocks/dvc-task
 	branch = refs/heads/main
+[submodule "rocketry"]
+	url = https://github.com/conda-forge/rocketry-feedstock.git
+	path = feedstocks/rocketry
+	branch = refs/heads/main
