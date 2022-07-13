@@ -66566,3 +66566,7 @@
 	url = https://github.com/conda-forge/pyreports-feedstock.git
 	path = feedstocks/pyreports
 	branch = refs/heads/main
+[submodule "census-parquet"]
+	url = https://github.com/conda-forge/census-parquet-feedstock.git
+	path = feedstocks/census-parquet
+	branch = refs/heads/main
