@@ -66590,3 +66590,7 @@
 	url = https://github.com/conda-forge/fegrow-feedstock.git
 	path = feedstocks/fegrow
 	branch = refs/heads/main
+[submodule "react-ipywidgets"]
+	url = https://github.com/conda-forge/react-ipywidgets-feedstock.git
+	path = feedstocks/react-ipywidgets
+	branch = refs/heads/main
