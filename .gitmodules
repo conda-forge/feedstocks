@@ -66570,3 +66570,7 @@
 	url = https://github.com/conda-forge/census-parquet-feedstock.git
 	path = feedstocks/census-parquet
 	branch = refs/heads/main
+[submodule "aiida-siesta"]
+	url = https://github.com/conda-forge/aiida-siesta-feedstock.git
+	path = feedstocks/aiida-siesta
+	branch = refs/heads/main
