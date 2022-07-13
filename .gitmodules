@@ -66574,3 +66574,7 @@
 	url = https://github.com/conda-forge/aiida-siesta-feedstock.git
 	path = feedstocks/aiida-siesta
 	branch = refs/heads/main
+[submodule "geoapis"]
+	url = https://github.com/conda-forge/geoapis-feedstock.git
+	path = feedstocks/geoapis
+	branch = refs/heads/main
