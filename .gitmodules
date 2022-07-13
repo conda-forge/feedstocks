@@ -66578,3 +66578,7 @@
 	url = https://github.com/conda-forge/geoapis-feedstock.git
 	path = feedstocks/geoapis
 	branch = refs/heads/main
+[submodule "aiida-quantumespresso"]
+	url = https://github.com/conda-forge/aiida-quantumespresso-feedstock.git
+	path = feedstocks/aiida-quantumespresso
+	branch = refs/heads/main
