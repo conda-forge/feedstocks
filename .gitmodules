@@ -66582,3 +66582,7 @@
 	url = https://github.com/conda-forge/aiida-quantumespresso-feedstock.git
 	path = feedstocks/aiida-quantumespresso
 	branch = refs/heads/main
+[submodule "aiida-wannier90"]
+	url = https://github.com/conda-forge/aiida-wannier90-feedstock.git
+	path = feedstocks/aiida-wannier90
+	branch = refs/heads/main
