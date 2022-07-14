@@ -66606,3 +66606,7 @@
 	url = https://github.com/conda-forge/redengine-feedstock.git
 	path = feedstocks/redengine
 	branch = refs/heads/main
+[submodule "silence-tensorflow"]
+	url = https://github.com/conda-forge/silence-tensorflow-feedstock.git
+	path = feedstocks/silence-tensorflow
+	branch = refs/heads/main
