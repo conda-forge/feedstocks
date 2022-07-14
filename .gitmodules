@@ -66618,3 +66618,7 @@
 	url = https://github.com/conda-forge/colmena-feedstock.git
 	path = feedstocks/colmena
 	branch = refs/heads/main
+[submodule "proxystore"]
+	url = https://github.com/conda-forge/proxystore-feedstock.git
+	path = feedstocks/proxystore
+	branch = refs/heads/main
