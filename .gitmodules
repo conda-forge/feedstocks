@@ -66614,3 +66614,7 @@
 	url = https://github.com/conda-forge/funcx-feedstock.git
 	path = feedstocks/funcx
 	branch = refs/heads/main
+[submodule "colmena"]
+	url = https://github.com/conda-forge/colmena-feedstock.git
+	path = feedstocks/colmena
+	branch = refs/heads/main
