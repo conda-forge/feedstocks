@@ -66666,3 +66666,7 @@
 	url = https://github.com/conda-forge/min-dalle-feedstock.git
 	path = feedstocks/min-dalle
 	branch = refs/heads/main
+[submodule "hypothesize"]
+	url = https://github.com/conda-forge/hypothesize-feedstock.git
+	path = feedstocks/hypothesize
+	branch = refs/heads/main
