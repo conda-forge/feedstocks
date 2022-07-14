@@ -66610,3 +66610,7 @@
 	url = https://github.com/conda-forge/silence-tensorflow-feedstock.git
 	path = feedstocks/silence-tensorflow
 	branch = refs/heads/main
+[submodule "funcx"]
+	url = https://github.com/conda-forge/funcx-feedstock.git
+	path = feedstocks/funcx
+	branch = refs/heads/main
