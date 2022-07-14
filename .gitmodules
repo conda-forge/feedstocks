@@ -66630,3 +66630,7 @@
 	url = https://github.com/conda-forge/dlhub-sdk-feedstock.git
 	path = feedstocks/dlhub-sdk
 	branch = refs/heads/main
+[submodule "foundry_ml"]
+	url = https://github.com/conda-forge/foundry_ml-feedstock.git
+	path = feedstocks/foundry_ml
+	branch = refs/heads/main
