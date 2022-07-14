@@ -66646,3 +66646,7 @@
 	url = https://github.com/conda-forge/mpl_plotter-feedstock.git
 	path = feedstocks/mpl_plotter
 	branch = refs/heads/main
+[submodule "envelope"]
+	url = https://github.com/conda-forge/envelope-feedstock.git
+	path = feedstocks/envelope
+	branch = refs/heads/main
