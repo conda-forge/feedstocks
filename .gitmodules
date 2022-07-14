@@ -66642,3 +66642,7 @@
 	url = https://github.com/conda-forge/bio-embeddings-bepler-feedstock.git
 	path = feedstocks/bio-embeddings-bepler
 	branch = refs/heads/main
+[submodule "mpl_plotter"]
+	url = https://github.com/conda-forge/mpl_plotter-feedstock.git
+	path = feedstocks/mpl_plotter
+	branch = refs/heads/main
