@@ -66622,3 +66622,7 @@
 	url = https://github.com/conda-forge/proxystore-feedstock.git
 	path = feedstocks/proxystore
 	branch = refs/heads/main
+[submodule "mdf-connect-client"]
+	url = https://github.com/conda-forge/mdf-connect-client-feedstock.git
+	path = feedstocks/mdf-connect-client
+	branch = refs/heads/main
