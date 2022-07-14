@@ -66662,3 +66662,7 @@
 	url = https://github.com/conda-forge/goatools-feedstock.git
 	path = feedstocks/goatools
 	branch = refs/heads/main
+[submodule "min-dalle"]
+	url = https://github.com/conda-forge/min-dalle-feedstock.git
+	path = feedstocks/min-dalle
+	branch = refs/heads/main
