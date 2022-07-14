@@ -66658,3 +66658,7 @@
 	url = https://github.com/conda-forge/correlate-feedstock.git
 	path = feedstocks/correlate
 	branch = refs/heads/main
+[submodule "goatools"]
+	url = https://github.com/conda-forge/goatools-feedstock.git
+	path = feedstocks/goatools
+	branch = refs/heads/main
