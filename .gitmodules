@@ -66626,3 +66626,7 @@
 	url = https://github.com/conda-forge/mdf-connect-client-feedstock.git
 	path = feedstocks/mdf-connect-client
 	branch = refs/heads/main
+[submodule "dlhub-sdk"]
+	url = https://github.com/conda-forge/dlhub-sdk-feedstock.git
+	path = feedstocks/dlhub-sdk
+	branch = refs/heads/main
