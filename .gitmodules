@@ -66702,3 +66702,7 @@
 	url = https://github.com/conda-forge/design-by-contract-feedstock.git
 	path = feedstocks/design-by-contract
 	branch = refs/heads/main
+[submodule "skipatom"]
+	url = https://github.com/conda-forge/skipatom-feedstock.git
+	path = feedstocks/skipatom
+	branch = refs/heads/main
