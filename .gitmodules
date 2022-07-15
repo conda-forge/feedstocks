@@ -66670,3 +66670,7 @@
 	url = https://github.com/conda-forge/hypothesize-feedstock.git
 	path = feedstocks/hypothesize
 	branch = refs/heads/main
+[submodule "dicomweb-client"]
+	url = https://github.com/conda-forge/dicomweb-client-feedstock.git
+	path = feedstocks/dicomweb-client
+	branch = refs/heads/main
