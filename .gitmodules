@@ -66678,3 +66678,7 @@
 	url = https://github.com/conda-forge/ecs-logging-feedstock.git
 	path = feedstocks/ecs-logging
 	branch = refs/heads/main
+[submodule "fn"]
+	url = https://github.com/conda-forge/fn-feedstock.git
+	path = feedstocks/fn
+	branch = refs/heads/main
