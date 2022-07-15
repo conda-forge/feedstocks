@@ -66698,3 +66698,7 @@
 	url = https://github.com/conda-forge/uxf-feedstock.git
 	path = feedstocks/uxf
 	branch = refs/heads/main
+[submodule "design-by-contract"]
+	url = https://github.com/conda-forge/design-by-contract-feedstock.git
+	path = feedstocks/design-by-contract
+	branch = refs/heads/main
