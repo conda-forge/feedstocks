@@ -66714,3 +66714,7 @@
 	url = https://github.com/conda-forge/levenshtein-feedstock.git
 	path = feedstocks/levenshtein
 	branch = refs/heads/main
+[submodule "functorch"]
+	url = https://github.com/conda-forge/functorch-feedstock.git
+	path = feedstocks/functorch
+	branch = refs/heads/main
