@@ -66690,3 +66690,7 @@
 	url = https://github.com/conda-forge/oslash-feedstock.git
 	path = feedstocks/oslash
 	branch = refs/heads/main
+[submodule "expression"]
+	url = https://github.com/conda-forge/expression-feedstock.git
+	path = feedstocks/expression
+	branch = refs/heads/main
