@@ -66694,3 +66694,7 @@
 	url = https://github.com/conda-forge/expression-feedstock.git
 	path = feedstocks/expression
 	branch = refs/heads/main
+[submodule "uxf"]
+	url = https://github.com/conda-forge/uxf-feedstock.git
+	path = feedstocks/uxf
+	branch = refs/heads/main
