@@ -66706,3 +66706,7 @@
 	url = https://github.com/conda-forge/skipatom-feedstock.git
 	path = feedstocks/skipatom
 	branch = refs/heads/main
+[submodule "gunpowder"]
+	url = https://github.com/conda-forge/gunpowder-feedstock.git
+	path = feedstocks/gunpowder
+	branch = refs/heads/main
