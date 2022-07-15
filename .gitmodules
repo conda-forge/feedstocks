@@ -66710,3 +66710,7 @@
 	url = https://github.com/conda-forge/gunpowder-feedstock.git
 	path = feedstocks/gunpowder
 	branch = refs/heads/main
+[submodule "levenshtein"]
+	url = https://github.com/conda-forge/levenshtein-feedstock.git
+	path = feedstocks/levenshtein
+	branch = refs/heads/main
