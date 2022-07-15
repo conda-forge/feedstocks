@@ -66718,3 +66718,7 @@
 	url = https://github.com/conda-forge/functorch-feedstock.git
 	path = feedstocks/functorch
 	branch = refs/heads/main
+[submodule "couchdb-python"]
+	url = https://github.com/conda-forge/couchdb-python-feedstock.git
+	path = feedstocks/couchdb-python
+	branch = refs/heads/main
