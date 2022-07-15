@@ -66674,3 +66674,7 @@
 	url = https://github.com/conda-forge/dicomweb-client-feedstock.git
 	path = feedstocks/dicomweb-client
 	branch = refs/heads/main
+[submodule "ecs-logging"]
+	url = https://github.com/conda-forge/ecs-logging-feedstock.git
+	path = feedstocks/ecs-logging
+	branch = refs/heads/main
