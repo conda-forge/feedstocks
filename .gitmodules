@@ -66726,3 +66726,7 @@
 	url = https://github.com/conda-forge/r-changepoint.np-feedstock.git
 	path = feedstocks/r-changepoint.np
 	branch = refs/heads/main
+[submodule "r-ggchangepoint"]
+	url = https://github.com/conda-forge/r-ggchangepoint-feedstock.git
+	path = feedstocks/r-ggchangepoint
+	branch = refs/heads/main
