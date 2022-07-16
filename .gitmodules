@@ -66722,3 +66722,7 @@
 	url = https://github.com/conda-forge/couchdb-python-feedstock.git
 	path = feedstocks/couchdb-python
 	branch = refs/heads/main
+[submodule "r-changepoint.np"]
+	url = https://github.com/conda-forge/r-changepoint.np-feedstock.git
+	path = feedstocks/r-changepoint.np
+	branch = refs/heads/main
