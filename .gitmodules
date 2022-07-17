@@ -66738,3 +66738,7 @@
 	url = https://github.com/conda-forge/r-ggpackets-feedstock.git
 	path = feedstocks/r-ggpackets
 	branch = refs/heads/main
+[submodule "popmon"]
+	url = https://github.com/conda-forge/popmon-feedstock.git
+	path = feedstocks/popmon
+	branch = refs/heads/main
