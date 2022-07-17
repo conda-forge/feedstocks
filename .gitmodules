@@ -66742,3 +66742,7 @@
 	url = https://github.com/conda-forge/popmon-feedstock.git
 	path = feedstocks/popmon
 	branch = refs/heads/main
+[submodule "histogrammar"]
+	url = https://github.com/conda-forge/histogrammar-feedstock.git
+	path = feedstocks/histogrammar
+	branch = refs/heads/main
