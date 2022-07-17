@@ -66734,3 +66734,7 @@
 	url = https://github.com/conda-forge/r-precommit-feedstock.git
 	path = feedstocks/r-precommit
 	branch = refs/heads/main
+[submodule "r-ggpackets"]
+	url = https://github.com/conda-forge/r-ggpackets-feedstock.git
+	path = feedstocks/r-ggpackets
+	branch = refs/heads/main
