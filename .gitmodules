@@ -66762,3 +66762,7 @@
 	url = https://github.com/conda-forge/picologging-feedstock.git
 	path = feedstocks/picologging
 	branch = refs/heads/main
+[submodule "starlette-exporter"]
+	url = https://github.com/conda-forge/starlette-exporter-feedstock.git
+	path = feedstocks/starlette-exporter
+	branch = refs/heads/main
