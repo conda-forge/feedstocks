@@ -66750,3 +66750,7 @@
 	url = https://github.com/conda-forge/r-dagwood-feedstock.git
 	path = feedstocks/r-dagwood
 	branch = refs/heads/main
+[submodule "napari-pystackreg"]
+	url = https://github.com/conda-forge/napari-pystackreg-feedstock.git
+	path = feedstocks/napari-pystackreg
+	branch = refs/heads/main
