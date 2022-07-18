@@ -66766,3 +66766,7 @@
 	url = https://github.com/conda-forge/starlette-exporter-feedstock.git
 	path = feedstocks/starlette-exporter
 	branch = refs/heads/main
+[submodule "secimport"]
+	url = https://github.com/conda-forge/secimport-feedstock.git
+	path = feedstocks/secimport
+	branch = refs/heads/main
