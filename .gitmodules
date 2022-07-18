@@ -66754,3 +66754,7 @@
 	url = https://github.com/conda-forge/napari-pystackreg-feedstock.git
 	path = feedstocks/napari-pystackreg
 	branch = refs/heads/main
+[submodule "czmodel"]
+	url = https://github.com/conda-forge/czmodel-feedstock.git
+	path = feedstocks/czmodel
+	branch = refs/heads/main
