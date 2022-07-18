@@ -66770,3 +66770,7 @@
 	url = https://github.com/conda-forge/secimport-feedstock.git
 	path = feedstocks/secimport
 	branch = refs/heads/main
+[submodule "fugue-sql-antlr"]
+	url = https://github.com/conda-forge/fugue-sql-antlr-feedstock.git
+	path = feedstocks/fugue-sql-antlr
+	branch = refs/heads/main
