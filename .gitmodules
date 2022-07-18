@@ -66758,3 +66758,7 @@
 	url = https://github.com/conda-forge/czmodel-feedstock.git
 	path = feedstocks/czmodel
 	branch = refs/heads/main
+[submodule "picologging"]
+	url = https://github.com/conda-forge/picologging-feedstock.git
+	path = feedstocks/picologging
+	branch = refs/heads/main
