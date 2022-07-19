@@ -66774,3 +66774,7 @@
 	url = https://github.com/conda-forge/fugue-sql-antlr-feedstock.git
 	path = feedstocks/fugue-sql-antlr
 	branch = refs/heads/main
+[submodule "r-data.validator"]
+	url = https://github.com/conda-forge/r-data.validator-feedstock.git
+	path = feedstocks/r-data.validator
+	branch = refs/heads/main
