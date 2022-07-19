@@ -66782,3 +66782,7 @@
 	url = https://github.com/conda-forge/jupyter_server_ydoc-feedstock.git
 	path = feedstocks/jupyter_server_ydoc
 	branch = refs/heads/main
+[submodule "prometheus-cpp"]
+	url = https://github.com/conda-forge/prometheus-cpp-feedstock.git
+	path = feedstocks/prometheus-cpp
+	branch = refs/heads/main
