@@ -66790,3 +66790,7 @@
 	url = https://github.com/conda-forge/scine-database-feedstock.git
 	path = feedstocks/scine-database
 	branch = refs/heads/main
+[submodule "scine-database-python"]
+	url = https://github.com/conda-forge/scine-database-python-feedstock.git
+	path = feedstocks/scine-database-python
+	branch = refs/heads/main
