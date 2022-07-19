@@ -66786,3 +66786,7 @@
 	url = https://github.com/conda-forge/prometheus-cpp-feedstock.git
 	path = feedstocks/prometheus-cpp
 	branch = refs/heads/main
+[submodule "scine-database"]
+	url = https://github.com/conda-forge/scine-database-feedstock.git
+	path = feedstocks/scine-database
+	branch = refs/heads/main
