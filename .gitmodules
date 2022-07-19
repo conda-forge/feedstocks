@@ -66778,3 +66778,7 @@
 	url = https://github.com/conda-forge/r-data.validator-feedstock.git
 	path = feedstocks/r-data.validator
 	branch = refs/heads/main
+[submodule "jupyter_server_ydoc"]
+	url = https://github.com/conda-forge/jupyter_server_ydoc-feedstock.git
+	path = feedstocks/jupyter_server_ydoc
+	branch = refs/heads/main
