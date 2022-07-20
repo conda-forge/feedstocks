@@ -66794,3 +66794,7 @@
 	url = https://github.com/conda-forge/scine-database-python-feedstock.git
 	path = feedstocks/scine-database-python
 	branch = refs/heads/main
+[submodule "types-s3transfer"]
+	url = https://github.com/conda-forge/types-s3transfer-feedstock.git
+	path = feedstocks/types-s3transfer
+	branch = refs/heads/main
