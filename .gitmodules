@@ -66810,3 +66810,7 @@
 	url = https://github.com/conda-forge/r-frictionless-feedstock.git
 	path = feedstocks/r-frictionless
 	branch = refs/heads/main
+[submodule "r-nplyr"]
+	url = https://github.com/conda-forge/r-nplyr-feedstock.git
+	path = feedstocks/r-nplyr
+	branch = refs/heads/main
