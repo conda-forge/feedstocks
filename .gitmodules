@@ -66814,3 +66814,7 @@
 	url = https://github.com/conda-forge/r-nplyr-feedstock.git
 	path = feedstocks/r-nplyr
 	branch = refs/heads/main
+[submodule "r-urlchecker"]
+	url = https://github.com/conda-forge/r-urlchecker-feedstock.git
+	path = feedstocks/r-urlchecker
+	branch = refs/heads/main
