@@ -66834,3 +66834,7 @@
 	url = https://github.com/conda-forge/aiida-wannier90_workflows-feedstock.git
 	path = feedstocks/aiida-wannier90_workflows
 	branch = refs/heads/main
+[submodule "aqme"]
+	url = https://github.com/conda-forge/aqme-feedstock.git
+	path = feedstocks/aqme
+	branch = refs/heads/main
