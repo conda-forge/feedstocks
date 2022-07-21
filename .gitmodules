@@ -66830,3 +66830,7 @@
 	url = https://github.com/conda-forge/pympipool-feedstock.git
 	path = feedstocks/pympipool
 	branch = refs/heads/main
+[submodule "aiida-wannier90_workflows"]
+	url = https://github.com/conda-forge/aiida-wannier90_workflows-feedstock.git
+	path = feedstocks/aiida-wannier90_workflows
+	branch = refs/heads/main
