@@ -66862,3 +66862,7 @@
 	url = https://github.com/conda-forge/wxmpl-feedstock.git
 	path = feedstocks/wxmpl
 	branch = refs/heads/main
+[submodule "diffusers"]
+	url = https://github.com/conda-forge/diffusers-feedstock.git
+	path = feedstocks/diffusers
+	branch = refs/heads/main
