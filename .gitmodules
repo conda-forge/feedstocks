@@ -66842,3 +66842,7 @@
 	url = https://github.com/conda-forge/dav1d-feedstock.git
 	path = feedstocks/dav1d
 	branch = refs/heads/main
+[submodule "sqlalchemy-oso"]
+	url = https://github.com/conda-forge/sqlalchemy-oso-feedstock.git
+	path = feedstocks/sqlalchemy-oso
+	branch = refs/heads/main
