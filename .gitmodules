@@ -66850,3 +66850,7 @@
 	url = https://github.com/conda-forge/oso-feedstock.git
 	path = feedstocks/oso
 	branch = refs/heads/main
+[submodule "compact-json"]
+	url = https://github.com/conda-forge/compact-json-feedstock.git
+	path = feedstocks/compact-json
+	branch = refs/heads/main
