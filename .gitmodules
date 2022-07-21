@@ -66826,3 +66826,7 @@
 	url = https://github.com/conda-forge/tatc-feedstock.git
 	path = feedstocks/tatc
 	branch = refs/heads/main
+[submodule "pympipool"]
+	url = https://github.com/conda-forge/pympipool-feedstock.git
+	path = feedstocks/pympipool
+	branch = refs/heads/main
