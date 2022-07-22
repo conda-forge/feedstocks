@@ -66906,3 +66906,7 @@
 	url = https://github.com/conda-forge/aiida-castep-feedstock.git
 	path = feedstocks/aiida-castep
 	branch = refs/heads/main
+[submodule "rstcheck-core"]
+	url = https://github.com/conda-forge/rstcheck-core-feedstock.git
+	path = feedstocks/rstcheck-core
+	branch = refs/heads/main
