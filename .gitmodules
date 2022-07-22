@@ -66890,3 +66890,7 @@
 	url = https://github.com/conda-forge/parsevasp-feedstock.git
 	path = feedstocks/parsevasp
 	branch = refs/heads/main
+[submodule "pycontracts"]
+	url = https://github.com/conda-forge/pycontracts-feedstock.git
+	path = feedstocks/pycontracts
+	branch = refs/heads/main
