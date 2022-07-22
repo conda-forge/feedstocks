@@ -66902,3 +66902,7 @@
 	url = https://github.com/conda-forge/aiida-abinit-feedstock.git
 	path = feedstocks/aiida-abinit
 	branch = refs/heads/main
+[submodule "aiida-castep"]
+	url = https://github.com/conda-forge/aiida-castep-feedstock.git
+	path = feedstocks/aiida-castep
+	branch = refs/heads/main
