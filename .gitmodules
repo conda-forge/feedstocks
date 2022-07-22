@@ -66878,3 +66878,7 @@
 	url = https://github.com/conda-forge/aiida-vasp-feedstock.git
 	path = feedstocks/aiida-vasp
 	branch = refs/heads/main
+[submodule "rangehttpserver"]
+	url = https://github.com/conda-forge/rangehttpserver-feedstock.git
+	path = feedstocks/rangehttpserver
+	branch = refs/heads/main
