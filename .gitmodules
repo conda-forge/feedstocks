@@ -66910,3 +66910,7 @@
 	url = https://github.com/conda-forge/rstcheck-core-feedstock.git
 	path = feedstocks/rstcheck-core
 	branch = refs/heads/main
+[submodule "cosmic_profiles"]
+	url = https://github.com/conda-forge/cosmic_profiles-feedstock.git
+	path = feedstocks/cosmic_profiles
+	branch = refs/heads/main
