@@ -66938,3 +66938,7 @@
 	url = https://github.com/conda-forge/dbt-snowflake-feedstock.git
 	path = feedstocks/dbt-snowflake
 	branch = refs/heads/main
+[submodule "cabinetry"]
+	url = https://github.com/conda-forge/cabinetry-feedstock.git
+	path = feedstocks/cabinetry
+	branch = refs/heads/main
