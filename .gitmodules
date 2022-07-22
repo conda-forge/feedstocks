@@ -66882,3 +66882,7 @@
 	url = https://github.com/conda-forge/rangehttpserver-feedstock.git
 	path = feedstocks/rangehttpserver
 	branch = refs/heads/main
+[submodule "aiida-yambo"]
+	url = https://github.com/conda-forge/aiida-yambo-feedstock.git
+	path = feedstocks/aiida-yambo
+	branch = refs/heads/main
