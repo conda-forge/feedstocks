@@ -66942,3 +66942,7 @@
 	url = https://github.com/conda-forge/cabinetry-feedstock.git
 	path = feedstocks/cabinetry
 	branch = refs/heads/main
+[submodule "aioboto3"]
+	url = https://github.com/conda-forge/aioboto3-feedstock.git
+	path = feedstocks/aioboto3
+	branch = refs/heads/main
