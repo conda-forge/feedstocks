@@ -66922,3 +66922,7 @@
 	url = https://github.com/conda-forge/cp2k-input-tools-feedstock.git
 	path = feedstocks/cp2k-input-tools
 	branch = refs/heads/main
+[submodule "atool"]
+	url = https://github.com/conda-forge/atool-feedstock.git
+	path = feedstocks/atool
+	branch = refs/heads/main
