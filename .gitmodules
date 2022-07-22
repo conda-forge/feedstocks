@@ -66914,3 +66914,7 @@
 	url = https://github.com/conda-forge/cosmic_profiles-feedstock.git
 	path = feedstocks/cosmic_profiles
 	branch = refs/heads/main
+[submodule "raiutils"]
+	url = https://github.com/conda-forge/raiutils-feedstock.git
+	path = feedstocks/raiutils
+	branch = refs/heads/main
