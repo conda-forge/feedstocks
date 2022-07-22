@@ -66886,3 +66886,7 @@
 	url = https://github.com/conda-forge/aiida-yambo-feedstock.git
 	path = feedstocks/aiida-yambo
 	branch = refs/heads/main
+[submodule "parsevasp"]
+	url = https://github.com/conda-forge/parsevasp-feedstock.git
+	path = feedstocks/parsevasp
+	branch = refs/heads/main
