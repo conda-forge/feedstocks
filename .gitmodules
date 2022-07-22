@@ -66870,3 +66870,7 @@
 	url = https://github.com/conda-forge/dem_stitcher-feedstock.git
 	path = feedstocks/dem_stitcher
 	branch = refs/heads/main
+[submodule "cp2k-output-tools"]
+	url = https://github.com/conda-forge/cp2k-output-tools-feedstock.git
+	path = feedstocks/cp2k-output-tools
+	branch = refs/heads/main
