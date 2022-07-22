@@ -66918,3 +66918,7 @@
 	url = https://github.com/conda-forge/raiutils-feedstock.git
 	path = feedstocks/raiutils
 	branch = refs/heads/main
+[submodule "cp2k-input-tools"]
+	url = https://github.com/conda-forge/cp2k-input-tools-feedstock.git
+	path = feedstocks/cp2k-input-tools
+	branch = refs/heads/main
