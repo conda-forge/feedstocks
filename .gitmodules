@@ -66934,3 +66934,7 @@
 	url = https://github.com/conda-forge/dbt-redshift-feedstock.git
 	path = feedstocks/dbt-redshift
 	branch = refs/heads/main
+[submodule "dbt-snowflake"]
+	url = https://github.com/conda-forge/dbt-snowflake-feedstock.git
+	path = feedstocks/dbt-snowflake
+	branch = refs/heads/main
