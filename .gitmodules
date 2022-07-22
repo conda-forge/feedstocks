@@ -66866,3 +66866,7 @@
 	url = https://github.com/conda-forge/diffusers-feedstock.git
 	path = feedstocks/diffusers
 	branch = refs/heads/main
+[submodule "dem_stitcher"]
+	url = https://github.com/conda-forge/dem_stitcher-feedstock.git
+	path = feedstocks/dem_stitcher
+	branch = refs/heads/main
