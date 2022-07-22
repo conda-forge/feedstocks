@@ -66898,3 +66898,7 @@
 	url = https://github.com/conda-forge/castepinput-feedstock.git
 	path = feedstocks/castepinput
 	branch = refs/heads/main
+[submodule "aiida-abinit"]
+	url = https://github.com/conda-forge/aiida-abinit-feedstock.git
+	path = feedstocks/aiida-abinit
+	branch = refs/heads/main
