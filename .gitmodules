@@ -66930,3 +66930,7 @@
 	url = https://github.com/conda-forge/dbt-bigquery-feedstock.git
 	path = feedstocks/dbt-bigquery
 	branch = refs/heads/main
+[submodule "dbt-redshift"]
+	url = https://github.com/conda-forge/dbt-redshift-feedstock.git
+	path = feedstocks/dbt-redshift
+	branch = refs/heads/main
