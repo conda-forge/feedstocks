@@ -66926,3 +66926,7 @@
 	url = https://github.com/conda-forge/atool-feedstock.git
 	path = feedstocks/atool
 	branch = refs/heads/main
+[submodule "dbt-bigquery"]
+	url = https://github.com/conda-forge/dbt-bigquery-feedstock.git
+	path = feedstocks/dbt-bigquery
+	branch = refs/heads/main
