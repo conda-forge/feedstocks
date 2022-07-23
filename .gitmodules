@@ -67018,3 +67018,7 @@
 	url = https://github.com/conda-forge/finta-feedstock.git
 	path = feedstocks/finta
 	branch = refs/heads/main
+[submodule "montydb"]
+	url = https://github.com/conda-forge/montydb-feedstock.git
+	path = feedstocks/montydb
+	branch = refs/heads/main
