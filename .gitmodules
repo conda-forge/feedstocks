@@ -67050,3 +67050,7 @@
 	url = https://github.com/conda-forge/nbsafety-feedstock.git
 	path = feedstocks/nbsafety
 	branch = refs/heads/main
+[submodule "tinyflux"]
+	url = https://github.com/conda-forge/tinyflux-feedstock.git
+	path = feedstocks/tinyflux
+	branch = refs/heads/main
