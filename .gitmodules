@@ -66986,3 +66986,7 @@
 	url = https://github.com/conda-forge/effectsize-feedstock.git
 	path = feedstocks/effectsize
 	branch = refs/heads/main
+[submodule "types-aiobotocore-logs"]
+	url = https://github.com/conda-forge/types-aiobotocore-logs-feedstock.git
+	path = feedstocks/types-aiobotocore-logs
+	branch = refs/heads/main
