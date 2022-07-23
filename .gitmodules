@@ -66950,3 +66950,7 @@
 	url = https://github.com/conda-forge/jupyterlab-github-feedstock.git
 	path = feedstocks/jupyterlab-github
 	branch = refs/heads/main
+[submodule "types-aiobotocore-s3"]
+	url = https://github.com/conda-forge/types-aiobotocore-s3-feedstock.git
+	path = feedstocks/types-aiobotocore-s3
+	branch = refs/heads/main
