@@ -66958,3 +66958,7 @@
 	url = https://github.com/conda-forge/types-aiobotocore-cloudformation-feedstock.git
 	path = feedstocks/types-aiobotocore-cloudformation
 	branch = refs/heads/main
+[submodule "boto3-stubs-lite"]
+	url = https://github.com/conda-forge/boto3-stubs-lite-feedstock.git
+	path = feedstocks/boto3-stubs-lite
+	branch = refs/heads/main
