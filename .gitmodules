@@ -66966,3 +66966,7 @@
 	url = https://github.com/conda-forge/types-aiobotocore-ec2-feedstock.git
 	path = feedstocks/types-aiobotocore-ec2
 	branch = refs/heads/main
+[submodule "types-aiobotocore-sqs"]
+	url = https://github.com/conda-forge/types-aiobotocore-sqs-feedstock.git
+	path = feedstocks/types-aiobotocore-sqs
+	branch = refs/heads/main
