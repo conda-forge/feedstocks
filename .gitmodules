@@ -67038,3 +67038,7 @@
 	url = https://github.com/conda-forge/md2py-feedstock.git
 	path = feedstocks/md2py
 	branch = refs/heads/main
+[submodule "tex2py"]
+	url = https://github.com/conda-forge/tex2py-feedstock.git
+	path = feedstocks/tex2py
+	branch = refs/heads/main
