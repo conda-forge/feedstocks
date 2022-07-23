@@ -67042,3 +67042,7 @@
 	url = https://github.com/conda-forge/tex2py-feedstock.git
 	path = feedstocks/tex2py
 	branch = refs/heads/main
+[submodule "pregex"]
+	url = https://github.com/conda-forge/pregex-feedstock.git
+	path = feedstocks/pregex
+	branch = refs/heads/main
