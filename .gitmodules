@@ -67030,3 +67030,7 @@
 	url = https://github.com/conda-forge/erroranalysis-feedstock.git
 	path = feedstocks/erroranalysis
 	branch = refs/heads/main
+[submodule "ast-selector"]
+	url = https://github.com/conda-forge/ast-selector-feedstock.git
+	path = feedstocks/ast-selector
+	branch = refs/heads/main
