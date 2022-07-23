@@ -67010,3 +67010,7 @@
 	url = https://github.com/conda-forge/backstage-feedstock.git
 	path = feedstocks/backstage
 	branch = refs/heads/main
+[submodule "jut"]
+	url = https://github.com/conda-forge/jut-feedstock.git
+	path = feedstocks/jut
+	branch = refs/heads/main
