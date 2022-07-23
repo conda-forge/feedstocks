@@ -67046,3 +67046,7 @@
 	url = https://github.com/conda-forge/pregex-feedstock.git
 	path = feedstocks/pregex
 	branch = refs/heads/main
+[submodule "nbsafety"]
+	url = https://github.com/conda-forge/nbsafety-feedstock.git
+	path = feedstocks/nbsafety
+	branch = refs/heads/main
