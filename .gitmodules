@@ -67022,3 +67022,7 @@
 	url = https://github.com/conda-forge/montydb-feedstock.git
 	path = feedstocks/montydb
 	branch = refs/heads/main
+[submodule "secure"]
+	url = https://github.com/conda-forge/secure-feedstock.git
+	path = feedstocks/secure
+	branch = refs/heads/main
