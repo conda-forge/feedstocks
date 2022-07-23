@@ -66978,3 +66978,7 @@
 	url = https://github.com/conda-forge/types-aiobotocore-batch-feedstock.git
 	path = feedstocks/types-aiobotocore-batch
 	branch = refs/heads/main
+[submodule "types-aiobotocore-dynamodb"]
+	url = https://github.com/conda-forge/types-aiobotocore-dynamodb-feedstock.git
+	path = feedstocks/types-aiobotocore-dynamodb
+	branch = refs/heads/main
