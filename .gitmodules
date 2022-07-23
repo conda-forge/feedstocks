@@ -67026,3 +67026,7 @@
 	url = https://github.com/conda-forge/secure-feedstock.git
 	path = feedstocks/secure
 	branch = refs/heads/main
+[submodule "erroranalysis"]
+	url = https://github.com/conda-forge/erroranalysis-feedstock.git
+	path = feedstocks/erroranalysis
+	branch = refs/heads/main
