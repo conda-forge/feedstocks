@@ -66974,3 +66974,7 @@
 	url = https://github.com/conda-forge/types-aiobotocore-lambda-feedstock.git
 	path = feedstocks/types-aiobotocore-lambda
 	branch = refs/heads/main
+[submodule "types-aiobotocore-batch"]
+	url = https://github.com/conda-forge/types-aiobotocore-batch-feedstock.git
+	path = feedstocks/types-aiobotocore-batch
+	branch = refs/heads/main
