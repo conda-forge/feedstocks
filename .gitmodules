@@ -66994,3 +66994,7 @@
 	url = https://github.com/conda-forge/types-aiobotocore-redshift-data-feedstock.git
 	path = feedstocks/types-aiobotocore-redshift-data
 	branch = refs/heads/main
+[submodule "types-aiobotocore-rds"]
+	url = https://github.com/conda-forge/types-aiobotocore-rds-feedstock.git
+	path = feedstocks/types-aiobotocore-rds
+	branch = refs/heads/main
