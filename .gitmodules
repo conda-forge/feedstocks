@@ -67062,3 +67062,7 @@
 	url = https://github.com/conda-forge/r-ensmodelvis-feedstock.git
 	path = feedstocks/r-ensmodelvis
 	branch = refs/heads/main
+[submodule "django-readers"]
+	url = https://github.com/conda-forge/django-readers-feedstock.git
+	path = feedstocks/django-readers
+	branch = refs/heads/main
