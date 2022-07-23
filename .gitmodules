@@ -67006,3 +67006,7 @@
 	url = https://github.com/conda-forge/ariadne-feedstock.git
 	path = feedstocks/ariadne
 	branch = refs/heads/main
+[submodule "backstage"]
+	url = https://github.com/conda-forge/backstage-feedstock.git
+	path = feedstocks/backstage
+	branch = refs/heads/main
