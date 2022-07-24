@@ -67070,3 +67070,7 @@
 	url = https://github.com/conda-forge/ml-wrappers-feedstock.git
 	path = feedstocks/ml-wrappers
 	branch = refs/heads/main
+[submodule "data-diff"]
+	url = https://github.com/conda-forge/data-diff-feedstock.git
+	path = feedstocks/data-diff
+	branch = refs/heads/main
