@@ -67078,3 +67078,7 @@
 	url = https://github.com/conda-forge/megawidget-feedstock.git
 	path = feedstocks/megawidget
 	branch = refs/heads/main
+[submodule "suggestion"]
+	url = https://github.com/conda-forge/suggestion-feedstock.git
+	path = feedstocks/suggestion
+	branch = refs/heads/main
