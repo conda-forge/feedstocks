@@ -67098,3 +67098,7 @@
 	url = https://github.com/conda-forge/fmi4cpp-feedstock.git
 	path = feedstocks/fmi4cpp
 	branch = refs/heads/main
+[submodule "constyle"]
+	url = https://github.com/conda-forge/constyle-feedstock.git
+	path = feedstocks/constyle
+	branch = refs/heads/main
