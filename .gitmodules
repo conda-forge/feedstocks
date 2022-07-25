@@ -67090,3 +67090,7 @@
 	url = https://github.com/conda-forge/diplib-feedstock.git
 	path = feedstocks/diplib
 	branch = refs/heads/main
+[submodule "libics"]
+	url = https://github.com/conda-forge/libics-feedstock.git
+	path = feedstocks/libics
+	branch = refs/heads/main
