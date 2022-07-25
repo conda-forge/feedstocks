@@ -67086,3 +67086,7 @@
 	url = https://github.com/conda-forge/in-n-out-feedstock.git
 	path = feedstocks/in-n-out
 	branch = refs/heads/main
+[submodule "diplib"]
+	url = https://github.com/conda-forge/diplib-feedstock.git
+	path = feedstocks/diplib
+	branch = refs/heads/main
