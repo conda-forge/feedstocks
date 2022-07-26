@@ -67114,3 +67114,7 @@
 	url = https://github.com/conda-forge/gisdata-feedstock.git
 	path = feedstocks/gisdata
 	branch = refs/heads/main
+[submodule "tethys_dataset_services"]
+	url = https://github.com/conda-forge/tethys_dataset_services-feedstock.git
+	path = feedstocks/tethys_dataset_services
+	branch = refs/heads/main
