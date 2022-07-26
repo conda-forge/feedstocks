@@ -67174,3 +67174,7 @@
 	url = https://github.com/conda-forge/cwb-feedstock.git
 	path = feedstocks/cwb
 	branch = refs/heads/main
+[submodule "kafkit"]
+	url = https://github.com/conda-forge/kafkit-feedstock.git
+	path = feedstocks/kafkit
+	branch = refs/heads/main
