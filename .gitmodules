@@ -67158,3 +67158,7 @@
 	url = https://github.com/conda-forge/paralleltask-feedstock.git
 	path = feedstocks/paralleltask
 	branch = refs/heads/main
+[submodule "pbkdf2"]
+	url = https://github.com/conda-forge/pbkdf2-feedstock.git
+	path = feedstocks/pbkdf2
+	branch = refs/heads/main
