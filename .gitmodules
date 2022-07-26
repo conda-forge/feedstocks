@@ -67166,3 +67166,7 @@
 	url = https://github.com/conda-forge/pystore-feedstock.git
 	path = feedstocks/pystore
 	branch = refs/heads/main
+[submodule "sha256"]
+	url = https://github.com/conda-forge/sha256-feedstock.git
+	path = feedstocks/sha256
+	branch = refs/heads/main
