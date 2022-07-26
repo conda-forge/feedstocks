@@ -67162,3 +67162,7 @@
 	url = https://github.com/conda-forge/pbkdf2-feedstock.git
 	path = feedstocks/pbkdf2
 	branch = refs/heads/main
+[submodule "pystore"]
+	url = https://github.com/conda-forge/pystore-feedstock.git
+	path = feedstocks/pystore
+	branch = refs/heads/main
