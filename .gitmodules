@@ -67106,3 +67106,7 @@
 	url = https://github.com/conda-forge/dart-sdk-feedstock.git
 	path = feedstocks/dart-sdk
 	branch = refs/heads/main
+[submodule "geoserver-restconfig"]
+	url = https://github.com/conda-forge/geoserver-restconfig-feedstock.git
+	path = feedstocks/geoserver-restconfig
+	branch = refs/heads/main
