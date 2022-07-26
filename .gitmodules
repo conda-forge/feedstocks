@@ -67134,3 +67134,7 @@
 	url = https://github.com/conda-forge/crccheck-feedstock.git
 	path = feedstocks/crccheck
 	branch = refs/heads/main
+[submodule "jax-cfd"]
+	url = https://github.com/conda-forge/jax-cfd-feedstock.git
+	path = feedstocks/jax-cfd
+	branch = refs/heads/main
