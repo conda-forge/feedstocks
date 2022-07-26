@@ -67154,3 +67154,7 @@
 	url = https://github.com/conda-forge/mnemonic-feedstock.git
 	path = feedstocks/mnemonic
 	branch = refs/heads/main
+[submodule "paralleltask"]
+	url = https://github.com/conda-forge/paralleltask-feedstock.git
+	path = feedstocks/paralleltask
+	branch = refs/heads/main
