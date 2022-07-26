@@ -67110,3 +67110,7 @@
 	url = https://github.com/conda-forge/geoserver-restconfig-feedstock.git
 	path = feedstocks/geoserver-restconfig
 	branch = refs/heads/main
+[submodule "gisdata"]
+	url = https://github.com/conda-forge/gisdata-feedstock.git
+	path = feedstocks/gisdata
+	branch = refs/heads/main
