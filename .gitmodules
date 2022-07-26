@@ -67138,3 +67138,7 @@
 	url = https://github.com/conda-forge/jax-cfd-feedstock.git
 	path = feedstocks/jax-cfd
 	branch = refs/heads/main
+[submodule "tree-math"]
+	url = https://github.com/conda-forge/tree-math-feedstock.git
+	path = feedstocks/tree-math
+	branch = refs/heads/main
