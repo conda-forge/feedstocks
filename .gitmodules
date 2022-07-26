@@ -67130,3 +67130,7 @@
 	url = https://github.com/conda-forge/r-riskmetric-feedstock.git
 	path = feedstocks/r-riskmetric
 	branch = refs/heads/main
+[submodule "crccheck"]
+	url = https://github.com/conda-forge/crccheck-feedstock.git
+	path = feedstocks/crccheck
+	branch = refs/heads/main
