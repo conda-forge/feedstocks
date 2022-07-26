@@ -67170,3 +67170,7 @@
 	url = https://github.com/conda-forge/sha256-feedstock.git
 	path = feedstocks/sha256
 	branch = refs/heads/main
+[submodule "cwb"]
+	url = https://github.com/conda-forge/cwb-feedstock.git
+	path = feedstocks/cwb
+	branch = refs/heads/main
