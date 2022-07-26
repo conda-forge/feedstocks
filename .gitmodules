@@ -67146,3 +67146,7 @@
 	url = https://github.com/conda-forge/adf2dms-feedstock.git
 	path = feedstocks/adf2dms
 	branch = refs/heads/main
+[submodule "megnet"]
+	url = https://github.com/conda-forge/megnet-feedstock.git
+	path = feedstocks/megnet
+	branch = refs/heads/main
