@@ -67122,3 +67122,7 @@
 	url = https://github.com/conda-forge/app-model-feedstock.git
 	path = feedstocks/app-model
 	branch = refs/heads/main
+[submodule "jupyterlab-niryo-one"]
+	url = https://github.com/conda-forge/jupyterlab-niryo-one-feedstock.git
+	path = feedstocks/jupyterlab-niryo-one
+	branch = refs/heads/main
