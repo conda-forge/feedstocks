@@ -67118,3 +67118,7 @@
 	url = https://github.com/conda-forge/tethys_dataset_services-feedstock.git
 	path = feedstocks/tethys_dataset_services
 	branch = refs/heads/main
+[submodule "app-model"]
+	url = https://github.com/conda-forge/app-model-feedstock.git
+	path = feedstocks/app-model
+	branch = refs/heads/main
