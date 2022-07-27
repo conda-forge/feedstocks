@@ -67178,3 +67178,7 @@
 	url = https://github.com/conda-forge/kafkit-feedstock.git
 	path = feedstocks/kafkit
 	branch = refs/heads/main
+[submodule "stackview"]
+	url = https://github.com/conda-forge/stackview-feedstock.git
+	path = feedstocks/stackview
+	branch = refs/heads/main
