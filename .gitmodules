@@ -67190,3 +67190,7 @@
 	url = https://github.com/conda-forge/r-basetheme-feedstock.git
 	path = feedstocks/r-basetheme
 	branch = refs/heads/main
+[submodule "vollseg"]
+	url = https://github.com/conda-forge/vollseg-feedstock.git
+	path = feedstocks/vollseg
+	branch = refs/heads/main
