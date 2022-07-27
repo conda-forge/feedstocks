@@ -67194,3 +67194,7 @@
 	url = https://github.com/conda-forge/vollseg-feedstock.git
 	path = feedstocks/vollseg
 	branch = refs/heads/main
+[submodule "pampy"]
+	url = https://github.com/conda-forge/pampy-feedstock.git
+	path = feedstocks/pampy
+	branch = refs/heads/main
