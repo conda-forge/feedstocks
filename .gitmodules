@@ -67226,3 +67226,7 @@
 	url = https://github.com/conda-forge/hyppo-feedstock.git
 	path = feedstocks/hyppo
 	branch = refs/heads/main
+[submodule "django-migrations-formatter"]
+	url = https://github.com/conda-forge/django-migrations-formatter-feedstock.git
+	path = feedstocks/django-migrations-formatter
+	branch = refs/heads/main
