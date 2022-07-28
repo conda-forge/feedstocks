@@ -67254,3 +67254,7 @@
 	url = https://github.com/conda-forge/optodetools-feedstock.git
 	path = feedstocks/optodetools
 	branch = refs/heads/main
+[submodule "django-queryset-feeler"]
+	url = https://github.com/conda-forge/django-queryset-feeler-feedstock.git
+	path = feedstocks/django-queryset-feeler
+	branch = refs/heads/main
