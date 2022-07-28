@@ -67198,3 +67198,7 @@
 	url = https://github.com/conda-forge/pampy-feedstock.git
 	path = feedstocks/pampy
 	branch = refs/heads/main
+[submodule "r-tableone"]
+	url = https://github.com/conda-forge/r-tableone-feedstock.git
+	path = feedstocks/r-tableone
+	branch = refs/heads/main
