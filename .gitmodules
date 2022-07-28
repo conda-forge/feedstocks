@@ -67214,3 +67214,7 @@
 	url = https://github.com/conda-forge/hierarchicalforecast-feedstock.git
 	path = feedstocks/hierarchicalforecast
 	branch = refs/heads/main
+[submodule "biothings_client"]
+	url = https://github.com/conda-forge/biothings_client-feedstock.git
+	path = feedstocks/biothings_client
+	branch = refs/heads/main
