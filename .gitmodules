@@ -67218,3 +67218,7 @@
 	url = https://github.com/conda-forge/biothings_client-feedstock.git
 	path = feedstocks/biothings_client
 	branch = refs/heads/main
+[submodule "classify-imports"]
+	url = https://github.com/conda-forge/classify-imports-feedstock.git
+	path = feedstocks/classify-imports
+	branch = refs/heads/main
