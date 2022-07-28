@@ -67206,3 +67206,7 @@
 	url = https://github.com/conda-forge/py-shiny-feedstock.git
 	path = feedstocks/py-shiny
 	branch = refs/heads/main
+[submodule "py-htmltools"]
+	url = https://github.com/conda-forge/py-htmltools-feedstock.git
+	path = feedstocks/py-htmltools
+	branch = refs/heads/main
