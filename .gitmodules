@@ -67250,3 +67250,7 @@
 	url = https://github.com/conda-forge/drawdata-feedstock.git
 	path = feedstocks/drawdata
 	branch = refs/heads/main
+[submodule "optodetools"]
+	url = https://github.com/conda-forge/optodetools-feedstock.git
+	path = feedstocks/optodetools
+	branch = refs/heads/main
