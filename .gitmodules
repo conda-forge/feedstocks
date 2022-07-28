@@ -67202,3 +67202,7 @@
 	url = https://github.com/conda-forge/r-tableone-feedstock.git
 	path = feedstocks/r-tableone
 	branch = refs/heads/main
+[submodule "py-shiny"]
+	url = https://github.com/conda-forge/py-shiny-feedstock.git
+	path = feedstocks/py-shiny
+	branch = refs/heads/main
