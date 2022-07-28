@@ -67246,3 +67246,7 @@
 	url = https://github.com/conda-forge/ipyvizzu-feedstock.git
 	path = feedstocks/ipyvizzu
 	branch = refs/heads/main
+[submodule "drawdata"]
+	url = https://github.com/conda-forge/drawdata-feedstock.git
+	path = feedstocks/drawdata
+	branch = refs/heads/main
