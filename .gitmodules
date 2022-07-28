@@ -67242,3 +67242,7 @@
 	url = https://github.com/conda-forge/ipyvizzu-story-feedstock.git
 	path = feedstocks/ipyvizzu-story
 	branch = refs/heads/main
+[submodule "ipyvizzu"]
+	url = https://github.com/conda-forge/ipyvizzu-feedstock.git
+	path = feedstocks/ipyvizzu
+	branch = refs/heads/main
