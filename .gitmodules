@@ -67222,3 +67222,7 @@
 	url = https://github.com/conda-forge/classify-imports-feedstock.git
 	path = feedstocks/classify-imports
 	branch = refs/heads/main
+[submodule "hyppo"]
+	url = https://github.com/conda-forge/hyppo-feedstock.git
+	path = feedstocks/hyppo
+	branch = refs/heads/main
