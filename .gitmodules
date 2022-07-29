@@ -67262,3 +67262,7 @@
 	url = https://github.com/conda-forge/py4vasp-feedstock.git
 	path = feedstocks/py4vasp
 	branch = refs/heads/main
+[submodule "beaker-py"]
+	url = https://github.com/conda-forge/beaker-py-feedstock.git
+	path = feedstocks/beaker-py
+	branch = refs/heads/main
