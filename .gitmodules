@@ -67266,3 +67266,7 @@
 	url = https://github.com/conda-forge/beaker-py-feedstock.git
 	path = feedstocks/beaker-py
 	branch = refs/heads/main
+[submodule "ylearn"]
+	url = https://github.com/conda-forge/ylearn-feedstock.git
+	path = feedstocks/ylearn
+	branch = refs/heads/main
