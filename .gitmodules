@@ -67302,3 +67302,7 @@
 	url = https://github.com/conda-forge/flowsaber-feedstock.git
 	path = feedstocks/flowsaber
 	branch = refs/heads/main
+[submodule "tkf"]
+	url = https://github.com/conda-forge/tkf-feedstock.git
+	path = feedstocks/tkf
+	branch = refs/heads/main
