@@ -67294,3 +67294,7 @@
 	url = https://github.com/conda-forge/gridspec-feedstock.git
 	path = feedstocks/gridspec
 	branch = refs/heads/main
+[submodule "stream-inflate"]
+	url = https://github.com/conda-forge/stream-inflate-feedstock.git
+	path = feedstocks/stream-inflate
+	branch = refs/heads/main
