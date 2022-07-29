@@ -67286,3 +67286,7 @@
 	url = https://github.com/conda-forge/sparselt-feedstock.git
 	path = feedstocks/sparselt
 	branch = refs/heads/main
+[submodule "word-image"]
+	url = https://github.com/conda-forge/word-image-feedstock.git
+	path = feedstocks/word-image
+	branch = refs/heads/main
