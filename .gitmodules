@@ -67270,3 +67270,7 @@
 	url = https://github.com/conda-forge/ylearn-feedstock.git
 	path = feedstocks/ylearn
 	branch = refs/heads/main
+[submodule "rhos"]
+	url = https://github.com/conda-forge/rhos-feedstock.git
+	path = feedstocks/rhos
+	branch = refs/heads/main
