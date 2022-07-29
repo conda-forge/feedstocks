@@ -67290,3 +67290,7 @@
 	url = https://github.com/conda-forge/word-image-feedstock.git
 	path = feedstocks/word-image
 	branch = refs/heads/main
+[submodule "gridspec"]
+	url = https://github.com/conda-forge/gridspec-feedstock.git
+	path = feedstocks/gridspec
+	branch = refs/heads/main
