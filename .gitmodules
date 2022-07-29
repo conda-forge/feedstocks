@@ -67318,3 +67318,7 @@
 	url = https://github.com/conda-forge/ordered_enum-feedstock.git
 	path = feedstocks/ordered_enum
 	branch = refs/heads/main
+[submodule "compare-requirements"]
+	url = https://github.com/conda-forge/compare-requirements-feedstock.git
+	path = feedstocks/compare-requirements
+	branch = refs/heads/main
