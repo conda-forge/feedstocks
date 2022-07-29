@@ -67322,3 +67322,7 @@
 	url = https://github.com/conda-forge/compare-requirements-feedstock.git
 	path = feedstocks/compare-requirements
 	branch = refs/heads/main
+[submodule "anybadge"]
+	url = https://github.com/conda-forge/anybadge-feedstock.git
+	path = feedstocks/anybadge
+	branch = refs/heads/main
