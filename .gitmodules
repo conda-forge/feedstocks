@@ -67278,3 +67278,7 @@
 	url = https://github.com/conda-forge/sekve-feedstock.git
 	path = feedstocks/sekve
 	branch = refs/heads/main
+[submodule "hypersolver"]
+	url = https://github.com/conda-forge/hypersolver-feedstock.git
+	path = feedstocks/hypersolver
+	branch = refs/heads/main
