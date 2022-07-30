@@ -67334,3 +67334,7 @@
 	url = https://github.com/conda-forge/imap-tools-feedstock.git
 	path = feedstocks/imap-tools
 	branch = refs/heads/main
+[submodule "deno-dom"]
+	url = https://github.com/conda-forge/deno-dom-feedstock.git
+	path = feedstocks/deno-dom
+	branch = refs/heads/main
