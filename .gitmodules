@@ -67330,3 +67330,7 @@
 	url = https://github.com/conda-forge/dgpsi-feedstock.git
 	path = feedstocks/dgpsi
 	branch = refs/heads/main
+[submodule "imap-tools"]
+	url = https://github.com/conda-forge/imap-tools-feedstock.git
+	path = feedstocks/imap-tools
+	branch = refs/heads/main
