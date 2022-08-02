@@ -67350,3 +67350,7 @@
 	url = https://github.com/conda-forge/datatoolbox-feedstock.git
 	path = feedstocks/datatoolbox
 	branch = refs/heads/main
+[submodule "sirocco"]
+	url = https://github.com/conda-forge/sirocco-feedstock.git
+	path = feedstocks/sirocco
+	branch = refs/heads/main
