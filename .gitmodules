@@ -67346,3 +67346,7 @@
 	url = https://github.com/conda-forge/threeml-feedstock.git
 	path = feedstocks/threeml
 	branch = refs/heads/main
+[submodule "datatoolbox"]
+	url = https://github.com/conda-forge/datatoolbox-feedstock.git
+	path = feedstocks/datatoolbox
+	branch = refs/heads/main
