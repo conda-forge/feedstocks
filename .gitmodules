@@ -67402,3 +67402,7 @@
 	url = https://github.com/conda-forge/ddeint-feedstock.git
 	path = feedstocks/ddeint
 	branch = refs/heads/main
+[submodule "mitmproxy"]
+	url = https://github.com/conda-forge/mitmproxy-feedstock.git
+	path = feedstocks/mitmproxy
+	branch = refs/heads/main
