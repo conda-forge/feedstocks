@@ -67382,3 +67382,7 @@
 	url = https://github.com/conda-forge/types-awscrt-feedstock.git
 	path = feedstocks/types-awscrt
 	branch = refs/heads/main
+[submodule "esbuild"]
+	url = https://github.com/conda-forge/esbuild-feedstock.git
+	path = feedstocks/esbuild
+	branch = refs/heads/main
