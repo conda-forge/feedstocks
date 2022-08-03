@@ -67426,3 +67426,7 @@
 	url = https://github.com/conda-forge/nng-feedstock.git
 	path = feedstocks/nng
 	branch = refs/heads/main
+[submodule "scikit-multilearn"]
+	url = https://github.com/conda-forge/scikit-multilearn-feedstock.git
+	path = feedstocks/scikit-multilearn
+	branch = refs/heads/main
