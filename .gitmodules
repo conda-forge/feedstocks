@@ -67406,3 +67406,7 @@
 	url = https://github.com/conda-forge/mitmproxy-feedstock.git
 	path = feedstocks/mitmproxy
 	branch = refs/heads/main
+[submodule "pydivert"]
+	url = https://github.com/conda-forge/pydivert-feedstock.git
+	path = feedstocks/pydivert
+	branch = refs/heads/main
