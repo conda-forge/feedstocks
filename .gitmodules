@@ -67390,3 +67390,7 @@
 	url = https://github.com/conda-forge/pgzip-feedstock.git
 	path = feedstocks/pgzip
 	branch = refs/heads/main
+[submodule "kokkos"]
+	url = https://github.com/conda-forge/kokkos-feedstock.git
+	path = feedstocks/kokkos
+	branch = refs/heads/main
