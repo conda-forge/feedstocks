@@ -67386,3 +67386,7 @@
 	url = https://github.com/conda-forge/esbuild-feedstock.git
 	path = feedstocks/esbuild
 	branch = refs/heads/main
+[submodule "pgzip"]
+	url = https://github.com/conda-forge/pgzip-feedstock.git
+	path = feedstocks/pgzip
+	branch = refs/heads/main
