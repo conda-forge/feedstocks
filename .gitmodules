@@ -67398,3 +67398,7 @@
 	url = https://github.com/conda-forge/github-action-utils-feedstock.git
 	path = feedstocks/github-action-utils
 	branch = refs/heads/main
+[submodule "ddeint"]
+	url = https://github.com/conda-forge/ddeint-feedstock.git
+	path = feedstocks/ddeint
+	branch = refs/heads/main
