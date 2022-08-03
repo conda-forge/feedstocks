@@ -67378,3 +67378,7 @@
 	url = https://github.com/conda-forge/magentropy-feedstock.git
 	path = feedstocks/magentropy
 	branch = refs/heads/main
+[submodule "types-awscrt"]
+	url = https://github.com/conda-forge/types-awscrt-feedstock.git
+	path = feedstocks/types-awscrt
+	branch = refs/heads/main
