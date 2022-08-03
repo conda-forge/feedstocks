@@ -67374,3 +67374,7 @@
 	url = https://github.com/conda-forge/pandas-log-feedstock.git
 	path = feedstocks/pandas-log
 	branch = refs/heads/main
+[submodule "magentropy"]
+	url = https://github.com/conda-forge/magentropy-feedstock.git
+	path = feedstocks/magentropy
+	branch = refs/heads/main
