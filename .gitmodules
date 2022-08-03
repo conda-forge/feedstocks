@@ -67394,3 +67394,7 @@
 	url = https://github.com/conda-forge/kokkos-feedstock.git
 	path = feedstocks/kokkos
 	branch = refs/heads/main
+[submodule "github-action-utils"]
+	url = https://github.com/conda-forge/github-action-utils-feedstock.git
+	path = feedstocks/github-action-utils
+	branch = refs/heads/main
