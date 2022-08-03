@@ -67370,3 +67370,7 @@
 	url = https://github.com/conda-forge/ffmpy-feedstock.git
 	path = feedstocks/ffmpy
 	branch = refs/heads/main
+[submodule "pandas-log"]
+	url = https://github.com/conda-forge/pandas-log-feedstock.git
+	path = feedstocks/pandas-log
+	branch = refs/heads/main
