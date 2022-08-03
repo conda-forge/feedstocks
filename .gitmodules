@@ -67414,3 +67414,7 @@
 	url = https://github.com/conda-forge/kaitaistruct-feedstock.git
 	path = feedstocks/kaitaistruct
 	branch = refs/heads/main
+[submodule "publicsuffix2"]
+	url = https://github.com/conda-forge/publicsuffix2-feedstock.git
+	path = feedstocks/publicsuffix2
+	branch = refs/heads/main
