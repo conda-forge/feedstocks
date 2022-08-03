@@ -67422,3 +67422,7 @@
 	url = https://github.com/conda-forge/numerizer-feedstock.git
 	path = feedstocks/numerizer
 	branch = refs/heads/main
+[submodule "nng"]
+	url = https://github.com/conda-forge/nng-feedstock.git
+	path = feedstocks/nng
+	branch = refs/heads/main
