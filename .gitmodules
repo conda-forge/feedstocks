@@ -67442,3 +67442,7 @@
 	url = https://github.com/conda-forge/text_models-feedstock.git
 	path = feedstocks/text_models
 	branch = refs/heads/main
+[submodule "xbcausalforest"]
+	url = https://github.com/conda-forge/xbcausalforest-feedstock.git
+	path = feedstocks/xbcausalforest
+	branch = refs/heads/main
