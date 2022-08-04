@@ -67438,3 +67438,7 @@
 	url = https://github.com/conda-forge/julian-feedstock.git
 	path = feedstocks/julian
 	branch = refs/heads/main
+[submodule "text_models"]
+	url = https://github.com/conda-forge/text_models-feedstock.git
+	path = feedstocks/text_models
+	branch = refs/heads/main
