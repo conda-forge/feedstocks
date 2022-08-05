@@ -67482,3 +67482,7 @@
 	url = https://github.com/conda-forge/flytekitplugins-sqlalchemy-feedstock.git
 	path = feedstocks/flytekitplugins-sqlalchemy
 	branch = refs/heads/main
+[submodule "flytekitplugins-pandera"]
+	url = https://github.com/conda-forge/flytekitplugins-pandera-feedstock.git
+	path = feedstocks/flytekitplugins-pandera
+	branch = refs/heads/main
