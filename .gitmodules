@@ -67486,3 +67486,7 @@
 	url = https://github.com/conda-forge/flytekitplugins-pandera-feedstock.git
 	path = feedstocks/flytekitplugins-pandera
 	branch = refs/heads/main
+[submodule "flytekitplugins-athena"]
+	url = https://github.com/conda-forge/flytekitplugins-athena-feedstock.git
+	path = feedstocks/flytekitplugins-athena
+	branch = refs/heads/main
