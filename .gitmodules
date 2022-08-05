@@ -67474,3 +67474,7 @@
 	url = https://github.com/conda-forge/playsound-feedstock.git
 	path = feedstocks/playsound
 	branch = refs/heads/main
+[submodule "flytekitplugins-modin"]
+	url = https://github.com/conda-forge/flytekitplugins-modin-feedstock.git
+	path = feedstocks/flytekitplugins-modin
+	branch = refs/heads/main
