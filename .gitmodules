@@ -67498,3 +67498,7 @@
 	url = https://github.com/conda-forge/flytekitplugins-awsbatch-feedstock.git
 	path = feedstocks/flytekitplugins-awsbatch
 	branch = refs/heads/main
+[submodule "flytekitplugins-spark"]
+	url = https://github.com/conda-forge/flytekitplugins-spark-feedstock.git
+	path = feedstocks/flytekitplugins-spark
+	branch = refs/heads/main
