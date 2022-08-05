@@ -67450,3 +67450,7 @@
 	url = https://github.com/conda-forge/riverrem-feedstock.git
 	path = feedstocks/riverrem
 	branch = refs/heads/main
+[submodule "r-mixedcca"]
+	url = https://github.com/conda-forge/r-mixedcca-feedstock.git
+	path = feedstocks/r-mixedcca
+	branch = refs/heads/main
