@@ -67462,3 +67462,7 @@
 	url = https://github.com/conda-forge/actions-runner-feedstock.git
 	path = feedstocks/actions-runner
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-common-sql"]
+	url = https://github.com/conda-forge/apache-airflow-providers-common-sql-feedstock.git
+	path = feedstocks/apache-airflow-providers-common-sql
+	branch = refs/heads/main
