@@ -67466,3 +67466,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-common-sql-feedstock.git
 	path = feedstocks/apache-airflow-providers-common-sql
 	branch = refs/heads/main
+[submodule "aiidalab"]
+	url = https://github.com/conda-forge/aiidalab-feedstock.git
+	path = feedstocks/aiidalab
+	branch = refs/heads/main
