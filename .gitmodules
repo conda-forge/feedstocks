@@ -67478,3 +67478,7 @@
 	url = https://github.com/conda-forge/flytekitplugins-modin-feedstock.git
 	path = feedstocks/flytekitplugins-modin
 	branch = refs/heads/main
+[submodule "flytekitplugins-sqlalchemy"]
+	url = https://github.com/conda-forge/flytekitplugins-sqlalchemy-feedstock.git
+	path = feedstocks/flytekitplugins-sqlalchemy
+	branch = refs/heads/main
