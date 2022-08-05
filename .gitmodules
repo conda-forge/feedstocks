@@ -67494,3 +67494,7 @@
 	url = https://github.com/conda-forge/flytekitplugins-data-fsspec-feedstock.git
 	path = feedstocks/flytekitplugins-data-fsspec
 	branch = refs/heads/main
+[submodule "flytekitplugins-awsbatch"]
+	url = https://github.com/conda-forge/flytekitplugins-awsbatch-feedstock.git
+	path = feedstocks/flytekitplugins-awsbatch
+	branch = refs/heads/main
