@@ -67502,3 +67502,7 @@
 	url = https://github.com/conda-forge/flytekitplugins-spark-feedstock.git
 	path = feedstocks/flytekitplugins-spark
 	branch = refs/heads/main
+[submodule "r-ggseqplot"]
+	url = https://github.com/conda-forge/r-ggseqplot-feedstock.git
+	path = feedstocks/r-ggseqplot
+	branch = refs/heads/main
