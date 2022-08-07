@@ -67506,3 +67506,7 @@
 	url = https://github.com/conda-forge/r-ggseqplot-feedstock.git
 	path = feedstocks/r-ggseqplot
 	branch = refs/heads/main
+[submodule "attributes-doc"]
+	url = https://github.com/conda-forge/attributes-doc-feedstock.git
+	path = feedstocks/attributes-doc
+	branch = refs/heads/main
