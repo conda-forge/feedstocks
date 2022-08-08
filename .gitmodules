@@ -67558,3 +67558,7 @@
 	url = https://github.com/conda-forge/jazzit-feedstock.git
 	path = feedstocks/jazzit
 	branch = refs/heads/main
+[submodule "bleak-winrt"]
+	url = https://github.com/conda-forge/bleak-winrt-feedstock.git
+	path = feedstocks/bleak-winrt
+	branch = refs/heads/main
