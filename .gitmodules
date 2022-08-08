@@ -67586,3 +67586,7 @@
 	url = https://github.com/conda-forge/pyaztro-feedstock.git
 	path = feedstocks/pyaztro
 	branch = refs/heads/main
+[submodule "freva"]
+	url = https://github.com/conda-forge/freva-feedstock.git
+	path = feedstocks/freva
+	branch = refs/heads/main
