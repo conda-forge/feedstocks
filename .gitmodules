@@ -67534,3 +67534,7 @@
 	url = https://github.com/conda-forge/scanpdf-feedstock.git
 	path = feedstocks/scanpdf
 	branch = refs/heads/main
+[submodule "pystow"]
+	url = https://github.com/conda-forge/pystow-feedstock.git
+	path = feedstocks/pystow
+	branch = refs/heads/main
