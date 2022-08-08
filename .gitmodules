@@ -67594,3 +67594,7 @@
 	url = https://github.com/conda-forge/virtue-feedstock.git
 	path = feedstocks/virtue
 	branch = refs/heads/main
+[submodule "apstools"]
+	url = https://github.com/conda-forge/apstools-feedstock.git
+	path = feedstocks/apstools
+	branch = refs/heads/main
