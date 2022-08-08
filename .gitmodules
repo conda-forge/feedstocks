@@ -67562,3 +67562,7 @@
 	url = https://github.com/conda-forge/bleak-winrt-feedstock.git
 	path = feedstocks/bleak-winrt
 	branch = refs/heads/main
+[submodule "dbus-next"]
+	url = https://github.com/conda-forge/dbus-next-feedstock.git
+	path = feedstocks/dbus-next
+	branch = refs/heads/main
