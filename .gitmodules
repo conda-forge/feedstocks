@@ -67554,3 +67554,7 @@
 	url = https://github.com/conda-forge/combo-feedstock.git
 	path = feedstocks/combo
 	branch = refs/heads/main
+[submodule "jazzit"]
+	url = https://github.com/conda-forge/jazzit-feedstock.git
+	path = feedstocks/jazzit
+	branch = refs/heads/main
