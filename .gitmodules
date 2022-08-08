@@ -67570,3 +67570,7 @@
 	url = https://github.com/conda-forge/getmail6-feedstock.git
 	path = feedstocks/getmail6
 	branch = refs/heads/main
+[submodule "bleak"]
+	url = https://github.com/conda-forge/bleak-feedstock.git
+	path = feedstocks/bleak
+	branch = refs/heads/main
