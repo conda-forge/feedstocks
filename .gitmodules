@@ -67550,3 +67550,7 @@
 	url = https://github.com/conda-forge/neattext-feedstock.git
 	path = feedstocks/neattext
 	branch = refs/heads/main
+[submodule "combo"]
+	url = https://github.com/conda-forge/combo-feedstock.git
+	path = feedstocks/combo
+	branch = refs/heads/main
