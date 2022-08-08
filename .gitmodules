@@ -67574,3 +67574,7 @@
 	url = https://github.com/conda-forge/bleak-feedstock.git
 	path = feedstocks/bleak
 	branch = refs/heads/main
+[submodule "pyobjc-framework-corebluetooth"]
+	url = https://github.com/conda-forge/pyobjc-framework-corebluetooth-feedstock.git
+	path = feedstocks/pyobjc-framework-corebluetooth
+	branch = refs/heads/main
