@@ -67518,3 +67518,7 @@
 	url = https://github.com/conda-forge/optimum-graphcore-feedstock.git
 	path = feedstocks/optimum-graphcore
 	branch = refs/heads/main
+[submodule "bulker"]
+	url = https://github.com/conda-forge/bulker-feedstock.git
+	path = feedstocks/bulker
+	branch = refs/heads/main
