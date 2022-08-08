@@ -67526,3 +67526,7 @@
 	url = https://github.com/conda-forge/r-dinamic-feedstock.git
 	path = feedstocks/r-dinamic
 	branch = refs/heads/main
+[submodule "pylgbst"]
+	url = https://github.com/conda-forge/pylgbst-feedstock.git
+	path = feedstocks/pylgbst
+	branch = refs/heads/main
