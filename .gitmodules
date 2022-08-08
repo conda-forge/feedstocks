@@ -67538,3 +67538,7 @@
 	url = https://github.com/conda-forge/pystow-feedstock.git
 	path = feedstocks/pystow
 	branch = refs/heads/main
+[submodule "hatch-fancy-pypi-readme"]
+	url = https://github.com/conda-forge/hatch-fancy-pypi-readme-feedstock.git
+	path = feedstocks/hatch-fancy-pypi-readme
+	branch = refs/heads/main
