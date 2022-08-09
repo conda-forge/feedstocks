@@ -67614,3 +67614,7 @@
 	url = https://github.com/conda-forge/humre-feedstock.git
 	path = feedstocks/humre
 	branch = refs/heads/main
+[submodule "pydalle"]
+	url = https://github.com/conda-forge/pydalle-feedstock.git
+	path = feedstocks/pydalle
+	branch = refs/heads/main
