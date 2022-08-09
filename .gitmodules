@@ -67606,3 +67606,7 @@
 	url = https://github.com/conda-forge/murky-feedstock.git
 	path = feedstocks/murky
 	branch = refs/heads/main
+[submodule "pylink-square"]
+	url = https://github.com/conda-forge/pylink-square-feedstock.git
+	path = feedstocks/pylink-square
+	branch = refs/heads/main
