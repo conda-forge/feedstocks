@@ -67658,3 +67658,7 @@
 	url = https://github.com/conda-forge/hypothesis-graphql-feedstock.git
 	path = feedstocks/hypothesis-graphql
 	branch = refs/heads/main
+[submodule "uharfbuzz"]
+	url = https://github.com/conda-forge/uharfbuzz-feedstock.git
+	path = feedstocks/uharfbuzz
+	branch = refs/heads/main
