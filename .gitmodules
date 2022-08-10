@@ -67622,3 +67622,7 @@
 	url = https://github.com/conda-forge/easycheck-feedstock.git
 	path = feedstocks/easycheck
 	branch = refs/heads/main
+[submodule "stringbrewer"]
+	url = https://github.com/conda-forge/stringbrewer-feedstock.git
+	path = feedstocks/stringbrewer
+	branch = refs/heads/main
