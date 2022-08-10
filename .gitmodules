@@ -67674,3 +67674,7 @@
 	url = https://github.com/conda-forge/beziers-feedstock.git
 	path = feedstocks/beziers
 	branch = refs/heads/main
+[submodule "opentype-sanitizer"]
+	url = https://github.com/conda-forge/opentype-sanitizer-feedstock.git
+	path = feedstocks/opentype-sanitizer
+	branch = refs/heads/main
