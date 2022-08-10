@@ -67618,3 +67618,7 @@
 	url = https://github.com/conda-forge/pydalle-feedstock.git
 	path = feedstocks/pydalle
 	branch = refs/heads/main
+[submodule "easycheck"]
+	url = https://github.com/conda-forge/easycheck-feedstock.git
+	path = feedstocks/easycheck
+	branch = refs/heads/main
