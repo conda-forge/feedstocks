@@ -67694,3 +67694,7 @@
 	url = https://github.com/conda-forge/openstep-plist-feedstock.git
 	path = feedstocks/openstep-plist
 	branch = refs/heads/main
+[submodule "gflanguages"]
+	url = https://github.com/conda-forge/gflanguages-feedstock.git
+	path = feedstocks/gflanguages
+	branch = refs/heads/main
