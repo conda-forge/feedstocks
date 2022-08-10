@@ -67706,3 +67706,7 @@
 	url = https://github.com/conda-forge/cyl1tf-feedstock.git
 	path = feedstocks/cyl1tf
 	branch = refs/heads/main
+[submodule "csvs-to-sqlite"]
+	url = https://github.com/conda-forge/csvs-to-sqlite-feedstock.git
+	path = feedstocks/csvs-to-sqlite
+	branch = refs/heads/main
