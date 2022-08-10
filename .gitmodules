@@ -67642,3 +67642,7 @@
 	url = https://github.com/conda-forge/fontparts-feedstock.git
 	path = feedstocks/fontparts
 	branch = refs/heads/main
+[submodule "font-v"]
+	url = https://github.com/conda-forge/font-v-feedstock.git
+	path = feedstocks/font-v
+	branch = refs/heads/main
