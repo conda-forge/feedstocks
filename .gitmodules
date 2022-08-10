@@ -67722,3 +67722,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-appflow-feedstock.git
 	path = feedstocks/mypy-boto3-appflow
 	branch = refs/heads/main
+[submodule "stats_arrays"]
+	url = https://github.com/conda-forge/stats_arrays-feedstock.git
+	path = feedstocks/stats_arrays
+	branch = refs/heads/main
