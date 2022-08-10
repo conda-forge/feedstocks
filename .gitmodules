@@ -67678,3 +67678,7 @@
 	url = https://github.com/conda-forge/opentype-sanitizer-feedstock.git
 	path = feedstocks/opentype-sanitizer
 	branch = refs/heads/main
+[submodule "dehinter"]
+	url = https://github.com/conda-forge/dehinter-feedstock.git
+	path = feedstocks/dehinter
+	branch = refs/heads/main
