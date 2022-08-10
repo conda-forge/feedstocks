@@ -67718,3 +67718,7 @@
 	url = https://github.com/conda-forge/github-to-sqlite-feedstock.git
 	path = feedstocks/github-to-sqlite
 	branch = refs/heads/main
+[submodule "mypy-boto3-appflow"]
+	url = https://github.com/conda-forge/mypy-boto3-appflow-feedstock.git
+	path = feedstocks/mypy-boto3-appflow
+	branch = refs/heads/main
