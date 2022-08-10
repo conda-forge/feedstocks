@@ -67742,3 +67742,7 @@
 	url = https://github.com/conda-forge/lightwood-feedstock.git
 	path = feedstocks/lightwood
 	branch = refs/heads/main
+[submodule "iredis"]
+	url = https://github.com/conda-forge/iredis-feedstock.git
+	path = feedstocks/iredis
+	branch = refs/heads/main
