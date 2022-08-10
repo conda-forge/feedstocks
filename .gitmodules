@@ -67710,3 +67710,7 @@
 	url = https://github.com/conda-forge/csvs-to-sqlite-feedstock.git
 	path = feedstocks/csvs-to-sqlite
 	branch = refs/heads/main
+[submodule "arby"]
+	url = https://github.com/conda-forge/arby-feedstock.git
+	path = feedstocks/arby
+	branch = refs/heads/main
