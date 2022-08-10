@@ -67690,3 +67690,7 @@
 	url = https://github.com/conda-forge/opentypespec-feedstock.git
 	path = feedstocks/opentypespec
 	branch = refs/heads/main
+[submodule "openstep-plist"]
+	url = https://github.com/conda-forge/openstep-plist-feedstock.git
+	path = feedstocks/openstep-plist
+	branch = refs/heads/main
