@@ -67646,3 +67646,7 @@
 	url = https://github.com/conda-forge/font-v-feedstock.git
 	path = feedstocks/font-v
 	branch = refs/heads/main
+[submodule "ufolint"]
+	url = https://github.com/conda-forge/ufolint-feedstock.git
+	path = feedstocks/ufolint
+	branch = refs/heads/main
