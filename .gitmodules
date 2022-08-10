@@ -67714,3 +67714,7 @@
 	url = https://github.com/conda-forge/arby-feedstock.git
 	path = feedstocks/arby
 	branch = refs/heads/main
+[submodule "github-to-sqlite"]
+	url = https://github.com/conda-forge/github-to-sqlite-feedstock.git
+	path = feedstocks/github-to-sqlite
+	branch = refs/heads/main
