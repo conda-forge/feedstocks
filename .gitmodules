@@ -67654,3 +67654,7 @@
 	url = https://github.com/conda-forge/defcon-feedstock.git
 	path = feedstocks/defcon
 	branch = refs/heads/main
+[submodule "hypothesis-graphql"]
+	url = https://github.com/conda-forge/hypothesis-graphql-feedstock.git
+	path = feedstocks/hypothesis-graphql
+	branch = refs/heads/main
