@@ -67734,3 +67734,7 @@
 	url = https://github.com/conda-forge/bw_processing-feedstock.git
 	path = feedstocks/bw_processing
 	branch = refs/heads/main
+[submodule "suds"]
+	url = https://github.com/conda-forge/suds-feedstock.git
+	path = feedstocks/suds
+	branch = refs/heads/main
