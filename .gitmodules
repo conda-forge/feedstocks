@@ -67750,3 +67750,7 @@
 	url = https://github.com/conda-forge/vharfbuzz-feedstock.git
 	path = feedstocks/vharfbuzz
 	branch = refs/heads/main
+[submodule "cffsubr"]
+	url = https://github.com/conda-forge/cffsubr-feedstock.git
+	path = feedstocks/cffsubr
+	branch = refs/heads/main
