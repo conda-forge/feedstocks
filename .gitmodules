@@ -67762,3 +67762,7 @@
 	url = https://github.com/conda-forge/rivgraph-feedstock.git
 	path = feedstocks/rivgraph
 	branch = refs/heads/main
+[submodule "apprise"]
+	url = https://github.com/conda-forge/apprise-feedstock.git
+	path = feedstocks/apprise
+	branch = refs/heads/main
