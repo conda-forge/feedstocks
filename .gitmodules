@@ -67778,3 +67778,7 @@
 	url = https://github.com/conda-forge/eden-kernel-feedstock.git
 	path = feedstocks/eden-kernel
 	branch = refs/heads/main
+[submodule "lmz"]
+	url = https://github.com/conda-forge/lmz-feedstock.git
+	path = feedstocks/lmz
+	branch = refs/heads/main
