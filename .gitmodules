@@ -67794,3 +67794,7 @@
 	url = https://github.com/conda-forge/biofilm-feedstock.git
 	path = feedstocks/biofilm
 	branch = refs/heads/main
+[submodule "ubergauss"]
+	url = https://github.com/conda-forge/ubergauss-feedstock.git
+	path = feedstocks/ubergauss
+	branch = refs/heads/main
