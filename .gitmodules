@@ -67770,3 +67770,7 @@
 	url = https://github.com/conda-forge/perl-memoize-feedstock.git
 	path = feedstocks/perl-memoize
 	branch = refs/heads/main
+[submodule "conda-env-builder"]
+	url = https://github.com/conda-forge/conda-env-builder-feedstock.git
+	path = feedstocks/conda-env-builder
+	branch = refs/heads/main
