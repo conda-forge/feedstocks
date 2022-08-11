@@ -67766,3 +67766,7 @@
 	url = https://github.com/conda-forge/apprise-feedstock.git
 	path = feedstocks/apprise
 	branch = refs/heads/main
+[submodule "perl-memoize"]
+	url = https://github.com/conda-forge/perl-memoize-feedstock.git
+	path = feedstocks/perl-memoize
+	branch = refs/heads/main
