@@ -67802,3 +67802,7 @@
 	url = https://github.com/conda-forge/perl-exporter-tidy-feedstock.git
 	path = feedstocks/perl-exporter-tidy
 	branch = refs/heads/main
+[submodule "perl-proc-fork"]
+	url = https://github.com/conda-forge/perl-proc-fork-feedstock.git
+	path = feedstocks/perl-proc-fork
+	branch = refs/heads/main
