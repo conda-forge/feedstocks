@@ -67774,3 +67774,7 @@
 	url = https://github.com/conda-forge/conda-env-builder-feedstock.git
 	path = feedstocks/conda-env-builder
 	branch = refs/heads/main
+[submodule "eden-kernel"]
+	url = https://github.com/conda-forge/eden-kernel-feedstock.git
+	path = feedstocks/eden-kernel
+	branch = refs/heads/main
