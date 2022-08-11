@@ -67798,3 +67798,7 @@
 	url = https://github.com/conda-forge/ubergauss-feedstock.git
 	path = feedstocks/ubergauss
 	branch = refs/heads/main
+[submodule "perl-exporter-tidy"]
+	url = https://github.com/conda-forge/perl-exporter-tidy-feedstock.git
+	path = feedstocks/perl-exporter-tidy
+	branch = refs/heads/main
