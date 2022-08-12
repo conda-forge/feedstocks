@@ -67842,3 +67842,7 @@
 	url = https://github.com/conda-forge/regain-feedstock.git
 	path = feedstocks/regain
 	branch = refs/heads/main
+[submodule "neptune-prophet"]
+	url = https://github.com/conda-forge/neptune-prophet-feedstock.git
+	path = feedstocks/neptune-prophet
+	branch = refs/heads/main
