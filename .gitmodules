@@ -67830,3 +67830,7 @@
 	url = https://github.com/conda-forge/facetorch-feedstock.git
 	path = feedstocks/facetorch
 	branch = refs/heads/main
+[submodule "perl-apache-test"]
+	url = https://github.com/conda-forge/perl-apache-test-feedstock.git
+	path = feedstocks/perl-apache-test
+	branch = refs/heads/main
