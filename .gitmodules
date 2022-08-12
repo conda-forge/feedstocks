@@ -67862,3 +67862,7 @@
 	url = https://github.com/conda-forge/r-confintr-feedstock.git
 	path = feedstocks/r-confintr
 	branch = refs/heads/main
+[submodule "perl-data-dumper"]
+	url = https://github.com/conda-forge/perl-data-dumper-feedstock.git
+	path = feedstocks/perl-data-dumper
+	branch = refs/heads/main
