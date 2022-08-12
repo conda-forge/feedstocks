@@ -67818,3 +67818,7 @@
 	url = https://github.com/conda-forge/drawsvg-feedstock.git
 	path = feedstocks/drawsvg
 	branch = refs/heads/main
+[submodule "perl-pathtools"]
+	url = https://github.com/conda-forge/perl-pathtools-feedstock.git
+	path = feedstocks/perl-pathtools
+	branch = refs/heads/main
