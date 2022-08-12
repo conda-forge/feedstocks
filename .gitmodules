@@ -67846,3 +67846,7 @@
 	url = https://github.com/conda-forge/neptune-prophet-feedstock.git
 	path = feedstocks/neptune-prophet
 	branch = refs/heads/main
+[submodule "toml-test"]
+	url = https://github.com/conda-forge/toml-test-feedstock.git
+	path = feedstocks/toml-test
+	branch = refs/heads/main
