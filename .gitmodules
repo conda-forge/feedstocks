@@ -67866,3 +67866,7 @@
 	url = https://github.com/conda-forge/perl-data-dumper-feedstock.git
 	path = feedstocks/perl-data-dumper
 	branch = refs/heads/main
+[submodule "perl-test-needs"]
+	url = https://github.com/conda-forge/perl-test-needs-feedstock.git
+	path = feedstocks/perl-test-needs
+	branch = refs/heads/main
