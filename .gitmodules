@@ -67814,3 +67814,7 @@
 	url = https://github.com/conda-forge/perl-storable-feedstock.git
 	path = feedstocks/perl-storable
 	branch = refs/heads/main
+[submodule "drawsvg"]
+	url = https://github.com/conda-forge/drawsvg-feedstock.git
+	path = feedstocks/drawsvg
+	branch = refs/heads/main
