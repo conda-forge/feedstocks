@@ -67850,3 +67850,7 @@
 	url = https://github.com/conda-forge/toml-test-feedstock.git
 	path = feedstocks/toml-test
 	branch = refs/heads/main
+[submodule "perl-exporter-tiny"]
+	url = https://github.com/conda-forge/perl-exporter-tiny-feedstock.git
+	path = feedstocks/perl-exporter-tiny
+	branch = refs/heads/main
