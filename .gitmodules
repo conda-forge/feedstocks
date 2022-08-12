@@ -67822,3 +67822,7 @@
 	url = https://github.com/conda-forge/perl-pathtools-feedstock.git
 	path = feedstocks/perl-pathtools
 	branch = refs/heads/main
+[submodule "perl-test-simple"]
+	url = https://github.com/conda-forge/perl-test-simple-feedstock.git
+	path = feedstocks/perl-test-simple
+	branch = refs/heads/main
