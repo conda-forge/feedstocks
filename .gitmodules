@@ -67854,3 +67854,7 @@
 	url = https://github.com/conda-forge/perl-exporter-tiny-feedstock.git
 	path = feedstocks/perl-exporter-tiny
 	branch = refs/heads/main
+[submodule "perl-mime-base64"]
+	url = https://github.com/conda-forge/perl-mime-base64-feedstock.git
+	path = feedstocks/perl-mime-base64
+	branch = refs/heads/main
