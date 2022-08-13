@@ -67930,3 +67930,7 @@
 	url = https://github.com/conda-forge/libdlfind-feedstock.git
 	path = feedstocks/libdlfind
 	branch = refs/heads/main
+[submodule "perl-env"]
+	url = https://github.com/conda-forge/perl-env-feedstock.git
+	path = feedstocks/perl-env
+	branch = refs/heads/main
