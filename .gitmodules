@@ -67886,3 +67886,7 @@
 	url = https://github.com/conda-forge/calceph-feedstock.git
 	path = feedstocks/calceph
 	branch = refs/heads/main
+[submodule "vulkan-headers"]
+	url = https://github.com/conda-forge/vulkan-headers-feedstock.git
+	path = feedstocks/vulkan-headers
+	branch = refs/heads/main
