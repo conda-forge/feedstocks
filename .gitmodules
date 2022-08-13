@@ -67922,3 +67922,7 @@
 	url = https://github.com/conda-forge/perl-version-feedstock.git
 	path = feedstocks/perl-version
 	branch = refs/heads/main
+[submodule "perl-io-tty"]
+	url = https://github.com/conda-forge/perl-io-tty-feedstock.git
+	path = feedstocks/perl-io-tty
+	branch = refs/heads/main
