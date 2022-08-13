@@ -67926,3 +67926,7 @@
 	url = https://github.com/conda-forge/perl-io-tty-feedstock.git
 	path = feedstocks/perl-io-tty
 	branch = refs/heads/main
+[submodule "libdlfind"]
+	url = https://github.com/conda-forge/libdlfind-feedstock.git
+	path = feedstocks/libdlfind
+	branch = refs/heads/main
