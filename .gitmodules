@@ -67890,3 +67890,7 @@
 	url = https://github.com/conda-forge/vulkan-headers-feedstock.git
 	path = feedstocks/vulkan-headers
 	branch = refs/heads/main
+[submodule "cyeva"]
+	url = https://github.com/conda-forge/cyeva-feedstock.git
+	path = feedstocks/cyeva
+	branch = refs/heads/main
