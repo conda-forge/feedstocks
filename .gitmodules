@@ -67894,3 +67894,7 @@
 	url = https://github.com/conda-forge/cyeva-feedstock.git
 	path = feedstocks/cyeva
 	branch = refs/heads/main
+[submodule "cmsis-pack-manager"]
+	url = https://github.com/conda-forge/cmsis-pack-manager-feedstock.git
+	path = feedstocks/cmsis-pack-manager
+	branch = refs/heads/main
