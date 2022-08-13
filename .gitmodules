@@ -67910,3 +67910,7 @@
 	url = https://github.com/conda-forge/perl-sub-uplevel-feedstock.git
 	path = feedstocks/perl-sub-uplevel
 	branch = refs/heads/main
+[submodule "perl-test-warn"]
+	url = https://github.com/conda-forge/perl-test-warn-feedstock.git
+	path = feedstocks/perl-test-warn
+	branch = refs/heads/main
