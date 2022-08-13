@@ -67902,3 +67902,7 @@
 	url = https://github.com/conda-forge/perl-file-chdir-feedstock.git
 	path = feedstocks/perl-file-chdir
 	branch = refs/heads/main
+[submodule "perl-compress-raw-zlib"]
+	url = https://github.com/conda-forge/perl-compress-raw-zlib-feedstock.git
+	path = feedstocks/perl-compress-raw-zlib
+	branch = refs/heads/main
