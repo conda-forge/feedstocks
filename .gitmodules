@@ -67898,3 +67898,7 @@
 	url = https://github.com/conda-forge/cmsis-pack-manager-feedstock.git
 	path = feedstocks/cmsis-pack-manager
 	branch = refs/heads/main
+[submodule "perl-file-chdir"]
+	url = https://github.com/conda-forge/perl-file-chdir-feedstock.git
+	path = feedstocks/perl-file-chdir
+	branch = refs/heads/main
