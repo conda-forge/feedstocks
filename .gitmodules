@@ -67934,3 +67934,7 @@
 	url = https://github.com/conda-forge/perl-env-feedstock.git
 	path = feedstocks/perl-env
 	branch = refs/heads/main
+[submodule "perl-compress-raw-bzip2"]
+	url = https://github.com/conda-forge/perl-compress-raw-bzip2-feedstock.git
+	path = feedstocks/perl-compress-raw-bzip2
+	branch = refs/heads/main
