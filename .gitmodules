@@ -68014,3 +68014,7 @@
 	url = https://github.com/conda-forge/softworks-feedstock.git
 	path = feedstocks/softworks
 	branch = refs/heads/main
+[submodule "dvc-http"]
+	url = https://github.com/conda-forge/dvc-http-feedstock.git
+	path = feedstocks/dvc-http
+	branch = refs/heads/main
