@@ -68006,3 +68006,7 @@
 	url = https://github.com/conda-forge/pycatflow-feedstock.git
 	path = feedstocks/pycatflow
 	branch = refs/heads/main
+[submodule "django-denied"]
+	url = https://github.com/conda-forge/django-denied-feedstock.git
+	path = feedstocks/django-denied
+	branch = refs/heads/main
