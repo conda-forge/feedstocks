@@ -68042,3 +68042,7 @@
 	url = https://github.com/conda-forge/r-runner-feedstock.git
 	path = feedstocks/r-runner
 	branch = refs/heads/main
+[submodule "simexpal"]
+	url = https://github.com/conda-forge/simexpal-feedstock.git
+	path = feedstocks/simexpal
+	branch = refs/heads/main
