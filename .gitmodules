@@ -67990,3 +67990,7 @@
 	url = https://github.com/conda-forge/riskfolio-lib-feedstock.git
 	path = feedstocks/riskfolio-lib
 	branch = refs/heads/main
+[submodule "schemathesis"]
+	url = https://github.com/conda-forge/schemathesis-feedstock.git
+	path = feedstocks/schemathesis
+	branch = refs/heads/main
