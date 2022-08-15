@@ -68002,3 +68002,7 @@
 	url = https://github.com/conda-forge/makepackage-feedstock.git
 	path = feedstocks/makepackage
 	branch = refs/heads/main
+[submodule "pycatflow"]
+	url = https://github.com/conda-forge/pycatflow-feedstock.git
+	path = feedstocks/pycatflow
+	branch = refs/heads/main
