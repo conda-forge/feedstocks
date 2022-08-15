@@ -68022,3 +68022,7 @@
 	url = https://github.com/conda-forge/sif-parser-feedstock.git
 	path = feedstocks/sif-parser
 	branch = refs/heads/main
+[submodule "django-request-id"]
+	url = https://github.com/conda-forge/django-request-id-feedstock.git
+	path = feedstocks/django-request-id
+	branch = refs/heads/main
