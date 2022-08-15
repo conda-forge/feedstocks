@@ -68046,3 +68046,7 @@
 	url = https://github.com/conda-forge/simexpal-feedstock.git
 	path = feedstocks/simexpal
 	branch = refs/heads/main
+[submodule "proxsuite"]
+	url = https://github.com/conda-forge/proxsuite-feedstock.git
+	path = feedstocks/proxsuite
+	branch = refs/heads/main
