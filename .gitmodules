@@ -68018,3 +68018,7 @@
 	url = https://github.com/conda-forge/dvc-http-feedstock.git
 	path = feedstocks/dvc-http
 	branch = refs/heads/main
+[submodule "sif-parser"]
+	url = https://github.com/conda-forge/sif-parser-feedstock.git
+	path = feedstocks/sif-parser
+	branch = refs/heads/main
