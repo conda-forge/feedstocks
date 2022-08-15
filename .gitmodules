@@ -67978,3 +67978,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-ansi-feedstock.git
 	path = feedstocks/sphinxcontrib-ansi
 	branch = refs/heads/main
+[submodule "pygments-ansi-color"]
+	url = https://github.com/conda-forge/pygments-ansi-color-feedstock.git
+	path = feedstocks/pygments-ansi-color
+	branch = refs/heads/main
