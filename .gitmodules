@@ -67986,3 +67986,7 @@
 	url = https://github.com/conda-forge/hatch-nodejs-version-feedstock.git
 	path = feedstocks/hatch-nodejs-version
 	branch = refs/heads/main
+[submodule "riskfolio-lib"]
+	url = https://github.com/conda-forge/riskfolio-lib-feedstock.git
+	path = feedstocks/riskfolio-lib
+	branch = refs/heads/main
