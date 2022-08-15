@@ -67994,3 +67994,7 @@
 	url = https://github.com/conda-forge/schemathesis-feedstock.git
 	path = feedstocks/schemathesis
 	branch = refs/heads/main
+[submodule "flet"]
+	url = https://github.com/conda-forge/flet-feedstock.git
+	path = feedstocks/flet
+	branch = refs/heads/main
