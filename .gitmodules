@@ -68010,3 +68010,7 @@
 	url = https://github.com/conda-forge/django-denied-feedstock.git
 	path = feedstocks/django-denied
 	branch = refs/heads/main
+[submodule "softworks"]
+	url = https://github.com/conda-forge/softworks-feedstock.git
+	path = feedstocks/softworks
+	branch = refs/heads/main
