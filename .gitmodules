@@ -68054,3 +68054,7 @@
 	url = https://github.com/conda-forge/beanie-feedstock.git
 	path = feedstocks/beanie
 	branch = refs/heads/main
+[submodule "scine-molassembler"]
+	url = https://github.com/conda-forge/scine-molassembler-feedstock.git
+	path = feedstocks/scine-molassembler
+	branch = refs/heads/main
