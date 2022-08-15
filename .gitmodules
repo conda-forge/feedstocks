@@ -68038,3 +68038,7 @@
 	url = https://github.com/conda-forge/autocorrect-feedstock.git
 	path = feedstocks/autocorrect
 	branch = refs/heads/main
+[submodule "r-runner"]
+	url = https://github.com/conda-forge/r-runner-feedstock.git
+	path = feedstocks/r-runner
+	branch = refs/heads/main
