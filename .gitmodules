@@ -68034,3 +68034,7 @@
 	url = https://github.com/conda-forge/stream-unzip-feedstock.git
 	path = feedstocks/stream-unzip
 	branch = refs/heads/main
+[submodule "autocorrect"]
+	url = https://github.com/conda-forge/autocorrect-feedstock.git
+	path = feedstocks/autocorrect
+	branch = refs/heads/main
