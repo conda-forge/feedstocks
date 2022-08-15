@@ -68050,3 +68050,7 @@
 	url = https://github.com/conda-forge/proxsuite-feedstock.git
 	path = feedstocks/proxsuite
 	branch = refs/heads/main
+[submodule "beanie"]
+	url = https://github.com/conda-forge/beanie-feedstock.git
+	path = feedstocks/beanie
+	branch = refs/heads/main
