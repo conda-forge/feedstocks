@@ -67974,3 +67974,7 @@
 	url = https://github.com/conda-forge/maesters-nwp-feedstock.git
 	path = feedstocks/maesters-nwp
 	branch = refs/heads/main
+[submodule "sphinxcontrib-ansi"]
+	url = https://github.com/conda-forge/sphinxcontrib-ansi-feedstock.git
+	path = feedstocks/sphinxcontrib-ansi
+	branch = refs/heads/main
