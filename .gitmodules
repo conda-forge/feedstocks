@@ -67982,3 +67982,7 @@
 	url = https://github.com/conda-forge/pygments-ansi-color-feedstock.git
 	path = feedstocks/pygments-ansi-color
 	branch = refs/heads/main
+[submodule "hatch-nodejs-version"]
+	url = https://github.com/conda-forge/hatch-nodejs-version-feedstock.git
+	path = feedstocks/hatch-nodejs-version
+	branch = refs/heads/main
