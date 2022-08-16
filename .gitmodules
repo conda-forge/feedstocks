@@ -68066,3 +68066,7 @@
 	url = https://github.com/conda-forge/stac-geoparquet-feedstock.git
 	path = feedstocks/stac-geoparquet
 	branch = refs/heads/main
+[submodule "ghostpii"]
+	url = https://github.com/conda-forge/ghostpii-feedstock.git
+	path = feedstocks/ghostpii
+	branch = refs/heads/main
