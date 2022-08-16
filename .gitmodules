@@ -68062,3 +68062,7 @@
 	url = https://github.com/conda-forge/azure-data-tables-feedstock.git
 	path = feedstocks/azure-data-tables
 	branch = refs/heads/main
+[submodule "stac-geoparquet"]
+	url = https://github.com/conda-forge/stac-geoparquet-feedstock.git
+	path = feedstocks/stac-geoparquet
+	branch = refs/heads/main
