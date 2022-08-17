@@ -68074,3 +68074,7 @@
 	url = https://github.com/conda-forge/gglasso-feedstock.git
 	path = feedstocks/gglasso
 	branch = refs/heads/main
+[submodule "funcx-common"]
+	url = https://github.com/conda-forge/funcx-common-feedstock.git
+	path = feedstocks/funcx-common
+	branch = refs/heads/main
