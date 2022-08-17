@@ -68082,3 +68082,7 @@
 	url = https://github.com/conda-forge/requests-wsgi-adapter-feedstock.git
 	path = feedstocks/requests-wsgi-adapter
 	branch = refs/heads/main
+[submodule "sardem"]
+	url = https://github.com/conda-forge/sardem-feedstock.git
+	path = feedstocks/sardem
+	branch = refs/heads/main
