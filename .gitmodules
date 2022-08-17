@@ -68078,3 +68078,7 @@
 	url = https://github.com/conda-forge/funcx-common-feedstock.git
 	path = feedstocks/funcx-common
 	branch = refs/heads/main
+[submodule "requests-wsgi-adapter"]
+	url = https://github.com/conda-forge/requests-wsgi-adapter-feedstock.git
+	path = feedstocks/requests-wsgi-adapter
+	branch = refs/heads/main
