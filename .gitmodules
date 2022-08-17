@@ -68098,3 +68098,7 @@
 	url = https://github.com/conda-forge/qiskit-ibm-experiment-feedstock.git
 	path = feedstocks/qiskit-ibm-experiment
 	branch = refs/heads/main
+[submodule "openmm-ml"]
+	url = https://github.com/conda-forge/openmm-ml-feedstock.git
+	path = feedstocks/openmm-ml
+	branch = refs/heads/main
