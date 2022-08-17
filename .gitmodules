@@ -68086,3 +68086,7 @@
 	url = https://github.com/conda-forge/sardem-feedstock.git
 	path = feedstocks/sardem
 	branch = refs/heads/main
+[submodule "msmhelper"]
+	url = https://github.com/conda-forge/msmhelper-feedstock.git
+	path = feedstocks/msmhelper
+	branch = refs/heads/main
