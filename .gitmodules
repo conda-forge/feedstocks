@@ -68094,3 +68094,7 @@
 	url = https://github.com/conda-forge/filecache-feedstock.git
 	path = feedstocks/filecache
 	branch = refs/heads/main
+[submodule "qiskit-ibm-experiment"]
+	url = https://github.com/conda-forge/qiskit-ibm-experiment-feedstock.git
+	path = feedstocks/qiskit-ibm-experiment
+	branch = refs/heads/main
