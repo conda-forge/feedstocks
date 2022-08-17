@@ -68090,3 +68090,7 @@
 	url = https://github.com/conda-forge/msmhelper-feedstock.git
 	path = feedstocks/msmhelper
 	branch = refs/heads/main
+[submodule "filecache"]
+	url = https://github.com/conda-forge/filecache-feedstock.git
+	path = feedstocks/filecache
+	branch = refs/heads/main
