@@ -68106,3 +68106,7 @@
 	url = https://github.com/conda-forge/freefem-feedstock.git
 	path = feedstocks/freefem
 	branch = refs/heads/main
+[submodule "napari-trait2d"]
+	url = https://github.com/conda-forge/napari-trait2d-feedstock.git
+	path = feedstocks/napari-trait2d
+	branch = refs/heads/main
