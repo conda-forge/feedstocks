@@ -68174,3 +68174,7 @@
 	url = https://github.com/conda-forge/napari-spatialdata-feedstock.git
 	path = feedstocks/napari-spatialdata
 	branch = refs/heads/main
+[submodule "soxr-python"]
+	url = https://github.com/conda-forge/soxr-python-feedstock.git
+	path = feedstocks/soxr-python
+	branch = refs/heads/main
