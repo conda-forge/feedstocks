@@ -68150,3 +68150,7 @@
 	url = https://github.com/conda-forge/napari-philow-feedstock.git
 	path = feedstocks/napari-philow
 	branch = refs/heads/main
+[submodule "napari-generic-simulator"]
+	url = https://github.com/conda-forge/napari-generic-simulator-feedstock.git
+	path = feedstocks/napari-generic-simulator
+	branch = refs/heads/main
