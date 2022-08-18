@@ -68110,3 +68110,7 @@
 	url = https://github.com/conda-forge/napari-trait2d-feedstock.git
 	path = feedstocks/napari-trait2d
 	branch = refs/heads/main
+[submodule "napari-nasa-samples"]
+	url = https://github.com/conda-forge/napari-nasa-samples-feedstock.git
+	path = feedstocks/napari-nasa-samples
+	branch = refs/heads/main
