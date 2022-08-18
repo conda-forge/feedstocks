@@ -68114,3 +68114,7 @@
 	url = https://github.com/conda-forge/napari-nasa-samples-feedstock.git
 	path = feedstocks/napari-nasa-samples
 	branch = refs/heads/main
+[submodule "xtiff"]
+	url = https://github.com/conda-forge/xtiff-feedstock.git
+	path = feedstocks/xtiff
+	branch = refs/heads/main
