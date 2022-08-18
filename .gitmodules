@@ -68158,3 +68158,7 @@
 	url = https://github.com/conda-forge/napari-stracking-feedstock.git
 	path = feedstocks/napari-stracking
 	branch = refs/heads/main
+[submodule "empanada-dl"]
+	url = https://github.com/conda-forge/empanada-dl-feedstock.git
+	path = feedstocks/empanada-dl
+	branch = refs/heads/main
