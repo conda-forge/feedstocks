@@ -68118,3 +68118,7 @@
 	url = https://github.com/conda-forge/xtiff-feedstock.git
 	path = feedstocks/xtiff
 	branch = refs/heads/main
+[submodule "napari-czann-segment"]
+	url = https://github.com/conda-forge/napari-czann-segment-feedstock.git
+	path = feedstocks/napari-czann-segment
+	branch = refs/heads/main
