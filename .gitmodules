@@ -68178,3 +68178,7 @@
 	url = https://github.com/conda-forge/soxr-python-feedstock.git
 	path = feedstocks/soxr-python
 	branch = refs/heads/main
+[submodule "vollseg-napari"]
+	url = https://github.com/conda-forge/vollseg-napari-feedstock.git
+	path = feedstocks/vollseg-napari
+	branch = refs/heads/main
