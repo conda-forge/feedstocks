@@ -68138,3 +68138,7 @@
 	url = https://github.com/conda-forge/napari-bio-sample-data-feedstock.git
 	path = feedstocks/napari-bio-sample-data
 	branch = refs/heads/main
+[submodule "napari-sift-registration"]
+	url = https://github.com/conda-forge/napari-sift-registration-feedstock.git
+	path = feedstocks/napari-sift-registration
+	branch = refs/heads/main
