@@ -68154,3 +68154,7 @@
 	url = https://github.com/conda-forge/napari-generic-simulator-feedstock.git
 	path = feedstocks/napari-generic-simulator
 	branch = refs/heads/main
+[submodule "napari-stracking"]
+	url = https://github.com/conda-forge/napari-stracking-feedstock.git
+	path = feedstocks/napari-stracking
+	branch = refs/heads/main
