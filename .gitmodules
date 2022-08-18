@@ -68170,3 +68170,7 @@
 	url = https://github.com/conda-forge/napari-nd2-folder-viewer-feedstock.git
 	path = feedstocks/napari-nd2-folder-viewer
 	branch = refs/heads/main
+[submodule "napari-spatialdata"]
+	url = https://github.com/conda-forge/napari-spatialdata-feedstock.git
+	path = feedstocks/napari-spatialdata
+	branch = refs/heads/main
