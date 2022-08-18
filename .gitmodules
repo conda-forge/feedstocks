@@ -68126,3 +68126,7 @@
 	url = https://github.com/conda-forge/napari-vesicles-segmentation-feedstock.git
 	path = feedstocks/napari-vesicles-segmentation
 	branch = refs/heads/main
+[submodule "napari-help"]
+	url = https://github.com/conda-forge/napari-help-feedstock.git
+	path = feedstocks/napari-help
+	branch = refs/heads/main
