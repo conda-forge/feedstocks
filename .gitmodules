@@ -68166,3 +68166,7 @@
 	url = https://github.com/conda-forge/napari-omaas-feedstock.git
 	path = feedstocks/napari-omaas
 	branch = refs/heads/main
+[submodule "napari-nd2-folder-viewer"]
+	url = https://github.com/conda-forge/napari-nd2-folder-viewer-feedstock.git
+	path = feedstocks/napari-nd2-folder-viewer
+	branch = refs/heads/main
