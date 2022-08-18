@@ -68102,3 +68102,7 @@
 	url = https://github.com/conda-forge/openmm-ml-feedstock.git
 	path = feedstocks/openmm-ml
 	branch = refs/heads/main
+[submodule "freefem"]
+	url = https://github.com/conda-forge/freefem-feedstock.git
+	path = feedstocks/freefem
+	branch = refs/heads/main
