@@ -68142,3 +68142,7 @@
 	url = https://github.com/conda-forge/napari-sift-registration-feedstock.git
 	path = feedstocks/napari-sift-registration
 	branch = refs/heads/main
+[submodule "napari-sc3d-viewer"]
+	url = https://github.com/conda-forge/napari-sc3d-viewer-feedstock.git
+	path = feedstocks/napari-sc3d-viewer
+	branch = refs/heads/main
