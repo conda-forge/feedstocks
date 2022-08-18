@@ -68134,3 +68134,7 @@
 	url = https://github.com/conda-forge/guanine-crystal-analysis-feedstock.git
 	path = feedstocks/guanine-crystal-analysis
 	branch = refs/heads/main
+[submodule "napari-bio-sample-data"]
+	url = https://github.com/conda-forge/napari-bio-sample-data-feedstock.git
+	path = feedstocks/napari-bio-sample-data
+	branch = refs/heads/main
