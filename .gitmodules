@@ -68198,3 +68198,7 @@
 	url = https://github.com/conda-forge/fcswrite-feedstock.git
 	path = feedstocks/fcswrite
 	branch = refs/heads/main
+[submodule "napari-turing"]
+	url = https://github.com/conda-forge/napari-turing-feedstock.git
+	path = feedstocks/napari-turing
+	branch = refs/heads/main
