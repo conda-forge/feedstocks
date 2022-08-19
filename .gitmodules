@@ -68194,3 +68194,7 @@
 	url = https://github.com/conda-forge/napari-pdr-reader-feedstock.git
 	path = feedstocks/napari-pdr-reader
 	branch = refs/heads/main
+[submodule "fcswrite"]
+	url = https://github.com/conda-forge/fcswrite-feedstock.git
+	path = feedstocks/fcswrite
+	branch = refs/heads/main
