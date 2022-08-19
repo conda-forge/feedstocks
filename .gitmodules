@@ -68238,3 +68238,7 @@
 	url = https://github.com/conda-forge/molml-feedstock.git
 	path = feedstocks/molml
 	branch = refs/heads/main
+[submodule "odachi"]
+	url = https://github.com/conda-forge/odachi-feedstock.git
+	path = feedstocks/odachi
+	branch = refs/heads/main
