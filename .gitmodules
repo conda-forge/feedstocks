@@ -68210,3 +68210,7 @@
 	url = https://github.com/conda-forge/imaxt-image-feedstock.git
 	path = feedstocks/imaxt-image
 	branch = refs/heads/main
+[submodule "napari-allencell-annotator"]
+	url = https://github.com/conda-forge/napari-allencell-annotator-feedstock.git
+	path = feedstocks/napari-allencell-annotator
+	branch = refs/heads/main
