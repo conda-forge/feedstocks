@@ -68234,3 +68234,7 @@
 	url = https://github.com/conda-forge/global-chem-feedstock.git
 	path = feedstocks/global-chem
 	branch = refs/heads/main
+[submodule "molml"]
+	url = https://github.com/conda-forge/molml-feedstock.git
+	path = feedstocks/molml
+	branch = refs/heads/main
