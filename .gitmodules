@@ -68218,3 +68218,7 @@
 	url = https://github.com/conda-forge/vessel-express-napari-feedstock.git
 	path = feedstocks/vessel-express-napari
 	branch = refs/heads/main
+[submodule "pykmip"]
+	url = https://github.com/conda-forge/pykmip-feedstock.git
+	path = feedstocks/pykmip
+	branch = refs/heads/main
