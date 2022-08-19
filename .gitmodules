@@ -68186,3 +68186,7 @@
 	url = https://github.com/conda-forge/napari-metroid-feedstock.git
 	path = feedstocks/napari-metroid
 	branch = refs/heads/main
+[submodule "avidaq"]
+	url = https://github.com/conda-forge/avidaq-feedstock.git
+	path = feedstocks/avidaq
+	branch = refs/heads/main
