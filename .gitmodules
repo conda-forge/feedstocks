@@ -68202,3 +68202,7 @@
 	url = https://github.com/conda-forge/napari-turing-feedstock.git
 	path = feedstocks/napari-turing
 	branch = refs/heads/main
+[submodule "keras-metrics"]
+	url = https://github.com/conda-forge/keras-metrics-feedstock.git
+	path = feedstocks/keras-metrics
+	branch = refs/heads/main
