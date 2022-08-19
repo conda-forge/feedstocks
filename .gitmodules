@@ -68226,3 +68226,7 @@
 	url = https://github.com/conda-forge/empyre-feedstock.git
 	path = feedstocks/empyre
 	branch = refs/heads/main
+[submodule "pyocd"]
+	url = https://github.com/conda-forge/pyocd-feedstock.git
+	path = feedstocks/pyocd
+	branch = refs/heads/main
