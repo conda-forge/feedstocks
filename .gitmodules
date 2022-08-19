@@ -68182,3 +68182,7 @@
 	url = https://github.com/conda-forge/vollseg-napari-feedstock.git
 	path = feedstocks/vollseg-napari
 	branch = refs/heads/main
+[submodule "napari-metroid"]
+	url = https://github.com/conda-forge/napari-metroid-feedstock.git
+	path = feedstocks/napari-metroid
+	branch = refs/heads/main
