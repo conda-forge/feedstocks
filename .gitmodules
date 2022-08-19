@@ -68190,3 +68190,7 @@
 	url = https://github.com/conda-forge/avidaq-feedstock.git
 	path = feedstocks/avidaq
 	branch = refs/heads/main
+[submodule "napari-pdr-reader"]
+	url = https://github.com/conda-forge/napari-pdr-reader-feedstock.git
+	path = feedstocks/napari-pdr-reader
+	branch = refs/heads/main
