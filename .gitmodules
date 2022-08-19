@@ -68230,3 +68230,7 @@
 	url = https://github.com/conda-forge/pyocd-feedstock.git
 	path = feedstocks/pyocd
 	branch = refs/heads/main
+[submodule "global-chem"]
+	url = https://github.com/conda-forge/global-chem-feedstock.git
+	path = feedstocks/global-chem
+	branch = refs/heads/main
