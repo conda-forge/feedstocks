@@ -68242,3 +68242,7 @@
 	url = https://github.com/conda-forge/odachi-feedstock.git
 	path = feedstocks/odachi
 	branch = refs/heads/main
+[submodule "r-recosystem"]
+	url = https://github.com/conda-forge/r-recosystem-feedstock.git
+	path = feedstocks/r-recosystem
+	branch = refs/heads/main
