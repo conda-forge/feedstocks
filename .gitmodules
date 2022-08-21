@@ -68250,3 +68250,7 @@
 	url = https://github.com/conda-forge/perl-env-path-feedstock.git
 	path = feedstocks/perl-env-path
 	branch = refs/heads/main
+[submodule "perl-test-exception"]
+	url = https://github.com/conda-forge/perl-test-exception-feedstock.git
+	path = feedstocks/perl-test-exception
+	branch = refs/heads/main
