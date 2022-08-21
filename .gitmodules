@@ -68246,3 +68246,7 @@
 	url = https://github.com/conda-forge/r-recosystem-feedstock.git
 	path = feedstocks/r-recosystem
 	branch = refs/heads/main
+[submodule "perl-env-path"]
+	url = https://github.com/conda-forge/perl-env-path-feedstock.git
+	path = feedstocks/perl-env-path
+	branch = refs/heads/main
