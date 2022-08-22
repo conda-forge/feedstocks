@@ -68326,3 +68326,7 @@
 	url = https://github.com/conda-forge/fasttreeshap-feedstock.git
 	path = feedstocks/fasttreeshap
 	branch = refs/heads/main
+[submodule "zest.releaser"]
+	url = https://github.com/conda-forge/zest.releaser-feedstock.git
+	path = feedstocks/zest.releaser
+	branch = refs/heads/main
