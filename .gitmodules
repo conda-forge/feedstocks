@@ -68318,3 +68318,7 @@
 	url = https://github.com/conda-forge/giturlparse.py-feedstock.git
 	path = feedstocks/giturlparse.py
 	branch = refs/heads/main
+[submodule "git-credential-manager"]
+	url = https://github.com/conda-forge/git-credential-manager-feedstock.git
+	path = feedstocks/git-credential-manager
+	branch = refs/heads/main
