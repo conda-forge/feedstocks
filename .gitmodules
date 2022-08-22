@@ -68258,3 +68258,7 @@
 	url = https://github.com/conda-forge/ascii-art-feedstock.git
 	path = feedstocks/ascii-art
 	branch = refs/heads/main
+[submodule "dbt-athena-adapter"]
+	url = https://github.com/conda-forge/dbt-athena-adapter-feedstock.git
+	path = feedstocks/dbt-athena-adapter
+	branch = refs/heads/main
