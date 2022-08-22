@@ -68262,3 +68262,7 @@
 	url = https://github.com/conda-forge/dbt-athena-adapter-feedstock.git
 	path = feedstocks/dbt-athena-adapter
 	branch = refs/heads/main
+[submodule "perl-test-without-module"]
+	url = https://github.com/conda-forge/perl-test-without-module-feedstock.git
+	path = feedstocks/perl-test-without-module
+	branch = refs/heads/main
