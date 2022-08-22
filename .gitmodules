@@ -68298,3 +68298,7 @@
 	url = https://github.com/conda-forge/devpi-common-feedstock.git
 	path = feedstocks/devpi-common
 	branch = refs/heads/main
+[submodule "chemsolve"]
+	url = https://github.com/conda-forge/chemsolve-feedstock.git
+	path = feedstocks/chemsolve
+	branch = refs/heads/main
