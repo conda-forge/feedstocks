@@ -68386,3 +68386,7 @@
 	url = https://github.com/conda-forge/unearth-feedstock.git
 	path = feedstocks/unearth
 	branch = refs/heads/main
+[submodule "xorg-libxres"]
+	url = https://github.com/conda-forge/xorg-libxres-feedstock.git
+	path = feedstocks/xorg-libxres
+	branch = refs/heads/main
