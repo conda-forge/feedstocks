@@ -68314,3 +68314,7 @@
 	url = https://github.com/conda-forge/mac_alias-feedstock.git
 	path = feedstocks/mac_alias
 	branch = refs/heads/main
+[submodule "giturlparse.py"]
+	url = https://github.com/conda-forge/giturlparse.py-feedstock.git
+	path = feedstocks/giturlparse.py
+	branch = refs/heads/main
