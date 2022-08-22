@@ -68354,3 +68354,7 @@
 	url = https://github.com/conda-forge/dvc-webdav-feedstock.git
 	path = feedstocks/dvc-webdav
 	branch = refs/heads/main
+[submodule "dvc-azure"]
+	url = https://github.com/conda-forge/dvc-azure-feedstock.git
+	path = feedstocks/dvc-azure
+	branch = refs/heads/main
