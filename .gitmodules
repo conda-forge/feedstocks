@@ -68266,3 +68266,7 @@
 	url = https://github.com/conda-forge/perl-test-without-module-feedstock.git
 	path = feedstocks/perl-test-without-module
 	branch = refs/heads/main
+[submodule "mrio_common_metadata"]
+	url = https://github.com/conda-forge/mrio_common_metadata-feedstock.git
+	path = feedstocks/mrio_common_metadata
+	branch = refs/heads/main
