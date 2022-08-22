@@ -68294,3 +68294,7 @@
 	url = https://github.com/conda-forge/wtfis-feedstock.git
 	path = feedstocks/wtfis
 	branch = refs/heads/main
+[submodule "devpi-common"]
+	url = https://github.com/conda-forge/devpi-common-feedstock.git
+	path = feedstocks/devpi-common
+	branch = refs/heads/main
