@@ -68270,3 +68270,7 @@
 	url = https://github.com/conda-forge/mrio_common_metadata-feedstock.git
 	path = feedstocks/mrio_common_metadata
 	branch = refs/heads/main
+[submodule "dascore"]
+	url = https://github.com/conda-forge/dascore-feedstock.git
+	path = feedstocks/dascore
+	branch = refs/heads/main
