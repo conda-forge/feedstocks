@@ -68322,3 +68322,7 @@
 	url = https://github.com/conda-forge/git-credential-manager-feedstock.git
 	path = feedstocks/git-credential-manager
 	branch = refs/heads/main
+[submodule "fasttreeshap"]
+	url = https://github.com/conda-forge/fasttreeshap-feedstock.git
+	path = feedstocks/fasttreeshap
+	branch = refs/heads/main
