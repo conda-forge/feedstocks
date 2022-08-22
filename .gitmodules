@@ -68310,3 +68310,7 @@
 	url = https://github.com/conda-forge/smart-arg-feedstock.git
 	path = feedstocks/smart-arg
 	branch = refs/heads/main
+[submodule "mac_alias"]
+	url = https://github.com/conda-forge/mac_alias-feedstock.git
+	path = feedstocks/mac_alias
+	branch = refs/heads/main
