@@ -68378,3 +68378,7 @@
 	url = https://github.com/conda-forge/dvc-gs-feedstock.git
 	path = feedstocks/dvc-gs
 	branch = refs/heads/main
+[submodule "pyscreener"]
+	url = https://github.com/conda-forge/pyscreener-feedstock.git
+	path = feedstocks/pyscreener
+	branch = refs/heads/main
