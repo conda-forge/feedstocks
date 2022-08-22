@@ -68338,3 +68338,7 @@
 	url = https://github.com/conda-forge/asciietch-feedstock.git
 	path = feedstocks/asciietch
 	branch = refs/heads/main
+[submodule "avro-json-serializer"]
+	url = https://github.com/conda-forge/avro-json-serializer-feedstock.git
+	path = feedstocks/avro-json-serializer
+	branch = refs/heads/main
