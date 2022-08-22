@@ -68278,3 +68278,7 @@
 	url = https://github.com/conda-forge/jc-feedstock.git
 	path = feedstocks/jc
 	branch = refs/heads/main
+[submodule "dokter"]
+	url = https://github.com/conda-forge/dokter-feedstock.git
+	path = feedstocks/dokter
+	branch = refs/heads/main
