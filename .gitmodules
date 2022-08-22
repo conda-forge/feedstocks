@@ -68342,3 +68342,7 @@
 	url = https://github.com/conda-forge/avro-json-serializer-feedstock.git
 	path = feedstocks/avro-json-serializer
 	branch = refs/heads/main
+[submodule "dvc-oss"]
+	url = https://github.com/conda-forge/dvc-oss-feedstock.git
+	path = feedstocks/dvc-oss
+	branch = refs/heads/main
