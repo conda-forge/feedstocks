@@ -68286,3 +68286,7 @@
 	url = https://github.com/conda-forge/silly-feedstock.git
 	path = feedstocks/silly
 	branch = refs/heads/main
+[submodule "micropipenv"]
+	url = https://github.com/conda-forge/micropipenv-feedstock.git
+	path = feedstocks/micropipenv
+	branch = refs/heads/main
