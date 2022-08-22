@@ -68374,3 +68374,7 @@
 	url = https://github.com/conda-forge/dvc-s3-feedstock.git
 	path = feedstocks/dvc-s3
 	branch = refs/heads/main
+[submodule "dvc-gs"]
+	url = https://github.com/conda-forge/dvc-gs-feedstock.git
+	path = feedstocks/dvc-gs
+	branch = refs/heads/main
