@@ -68366,3 +68366,7 @@
 	url = https://github.com/conda-forge/dvc-hdfs-feedstock.git
 	path = feedstocks/dvc-hdfs
 	branch = refs/heads/main
+[submodule "dvc-ssh"]
+	url = https://github.com/conda-forge/dvc-ssh-feedstock.git
+	path = feedstocks/dvc-ssh
+	branch = refs/heads/main
