@@ -68390,3 +68390,7 @@
 	url = https://github.com/conda-forge/xorg-libxres-feedstock.git
 	path = feedstocks/xorg-libxres
 	branch = refs/heads/main
+[submodule "paddy"]
+	url = https://github.com/conda-forge/paddy-feedstock.git
+	path = feedstocks/paddy
+	branch = refs/heads/main
