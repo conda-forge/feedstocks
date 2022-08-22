@@ -68346,3 +68346,7 @@
 	url = https://github.com/conda-forge/dvc-oss-feedstock.git
 	path = feedstocks/dvc-oss
 	branch = refs/heads/main
+[submodule "dvc-webhdfs"]
+	url = https://github.com/conda-forge/dvc-webhdfs-feedstock.git
+	path = feedstocks/dvc-webhdfs
+	branch = refs/heads/main
