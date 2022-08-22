@@ -68282,3 +68282,7 @@
 	url = https://github.com/conda-forge/dokter-feedstock.git
 	path = feedstocks/dokter
 	branch = refs/heads/main
+[submodule "silly"]
+	url = https://github.com/conda-forge/silly-feedstock.git
+	path = feedstocks/silly
+	branch = refs/heads/main
