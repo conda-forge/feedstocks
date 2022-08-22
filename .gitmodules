@@ -68330,3 +68330,7 @@
 	url = https://github.com/conda-forge/zest.releaser-feedstock.git
 	path = feedstocks/zest.releaser
 	branch = refs/heads/main
+[submodule "shiv"]
+	url = https://github.com/conda-forge/shiv-feedstock.git
+	path = feedstocks/shiv
+	branch = refs/heads/main
