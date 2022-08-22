@@ -68290,3 +68290,7 @@
 	url = https://github.com/conda-forge/micropipenv-feedstock.git
 	path = feedstocks/micropipenv
 	branch = refs/heads/main
+[submodule "wtfis"]
+	url = https://github.com/conda-forge/wtfis-feedstock.git
+	path = feedstocks/wtfis
+	branch = refs/heads/main
