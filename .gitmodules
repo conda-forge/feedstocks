@@ -68302,3 +68302,7 @@
 	url = https://github.com/conda-forge/chemsolve-feedstock.git
 	path = feedstocks/chemsolve
 	branch = refs/heads/main
+[submodule "python-socks"]
+	url = https://github.com/conda-forge/python-socks-feedstock.git
+	path = feedstocks/python-socks
+	branch = refs/heads/main
