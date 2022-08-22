@@ -68334,3 +68334,7 @@
 	url = https://github.com/conda-forge/shiv-feedstock.git
 	path = feedstocks/shiv
 	branch = refs/heads/main
+[submodule "asciietch"]
+	url = https://github.com/conda-forge/asciietch-feedstock.git
+	path = feedstocks/asciietch
+	branch = refs/heads/main
