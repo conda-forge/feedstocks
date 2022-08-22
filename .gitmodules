@@ -68394,3 +68394,7 @@
 	url = https://github.com/conda-forge/paddy-feedstock.git
 	path = feedstocks/paddy
 	branch = refs/heads/main
+[submodule "sqlalchemy-dremio"]
+	url = https://github.com/conda-forge/sqlalchemy-dremio-feedstock.git
+	path = feedstocks/sqlalchemy-dremio
+	branch = refs/heads/main
