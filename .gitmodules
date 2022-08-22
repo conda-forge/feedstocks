@@ -68358,3 +68358,7 @@
 	url = https://github.com/conda-forge/dvc-azure-feedstock.git
 	path = feedstocks/dvc-azure
 	branch = refs/heads/main
+[submodule "dvc-gdrive"]
+	url = https://github.com/conda-forge/dvc-gdrive-feedstock.git
+	path = feedstocks/dvc-gdrive
+	branch = refs/heads/main
