@@ -68426,3 +68426,7 @@
 	url = https://github.com/conda-forge/foxplainer-feedstock.git
 	path = feedstocks/foxplainer
 	branch = refs/heads/main
+[submodule "mypy-boto3-cloudwatch"]
+	url = https://github.com/conda-forge/mypy-boto3-cloudwatch-feedstock.git
+	path = feedstocks/mypy-boto3-cloudwatch
+	branch = refs/heads/main
