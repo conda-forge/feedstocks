@@ -68410,3 +68410,7 @@
 	url = https://github.com/conda-forge/fett-feedstock.git
 	path = feedstocks/fett
 	branch = refs/heads/main
+[submodule "iterative-telemetry"]
+	url = https://github.com/conda-forge/iterative-telemetry-feedstock.git
+	path = feedstocks/iterative-telemetry
+	branch = refs/heads/main
