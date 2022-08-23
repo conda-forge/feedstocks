@@ -68446,3 +68446,7 @@
 	url = https://github.com/conda-forge/rencode-feedstock.git
 	path = feedstocks/rencode
 	branch = refs/heads/main
+[submodule "hicsv-python"]
+	url = https://github.com/conda-forge/hicsv-python-feedstock.git
+	path = feedstocks/hicsv-python
+	branch = refs/heads/main
