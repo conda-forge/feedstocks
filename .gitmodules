@@ -68458,3 +68458,7 @@
 	url = https://github.com/conda-forge/mapyde-feedstock.git
 	path = feedstocks/mapyde
 	branch = refs/heads/main
+[submodule "stern"]
+	url = https://github.com/conda-forge/stern-feedstock.git
+	path = feedstocks/stern
+	branch = refs/heads/main
