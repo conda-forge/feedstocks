@@ -68442,3 +68442,7 @@
 	url = https://github.com/conda-forge/google-cloud-dataform-feedstock.git
 	path = feedstocks/google-cloud-dataform
 	branch = refs/heads/main
+[submodule "rencode"]
+	url = https://github.com/conda-forge/rencode-feedstock.git
+	path = feedstocks/rencode
+	branch = refs/heads/main
