@@ -68414,3 +68414,7 @@
 	url = https://github.com/conda-forge/iterative-telemetry-feedstock.git
 	path = feedstocks/iterative-telemetry
 	branch = refs/heads/main
+[submodule "python-liquid"]
+	url = https://github.com/conda-forge/python-liquid-feedstock.git
+	path = feedstocks/python-liquid
+	branch = refs/heads/main
