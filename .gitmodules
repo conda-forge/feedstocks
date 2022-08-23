@@ -68430,3 +68430,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-cloudwatch-feedstock.git
 	path = feedstocks/mypy-boto3-cloudwatch
 	branch = refs/heads/main
+[submodule "element-coder"]
+	url = https://github.com/conda-forge/element-coder-feedstock.git
+	path = feedstocks/element-coder
+	branch = refs/heads/main
