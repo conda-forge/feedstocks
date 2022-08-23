@@ -68466,3 +68466,7 @@
 	url = https://github.com/conda-forge/xpra-feedstock.git
 	path = feedstocks/xpra
 	branch = refs/heads/main
+[submodule "sphinx-remove-toctrees"]
+	url = https://github.com/conda-forge/sphinx-remove-toctrees-feedstock.git
+	path = feedstocks/sphinx-remove-toctrees
+	branch = refs/heads/main
