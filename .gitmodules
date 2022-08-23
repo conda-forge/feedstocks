@@ -68434,3 +68434,7 @@
 	url = https://github.com/conda-forge/element-coder-feedstock.git
 	path = feedstocks/element-coder
 	branch = refs/heads/main
+[submodule "nmma"]
+	url = https://github.com/conda-forge/nmma-feedstock.git
+	path = feedstocks/nmma
+	branch = refs/heads/main
