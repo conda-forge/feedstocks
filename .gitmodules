@@ -68438,3 +68438,7 @@
 	url = https://github.com/conda-forge/nmma-feedstock.git
 	path = feedstocks/nmma
 	branch = refs/heads/main
+[submodule "google-cloud-dataform"]
+	url = https://github.com/conda-forge/google-cloud-dataform-feedstock.git
+	path = feedstocks/google-cloud-dataform
+	branch = refs/heads/main
