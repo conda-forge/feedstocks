@@ -68418,3 +68418,7 @@
 	url = https://github.com/conda-forge/python-liquid-feedstock.git
 	path = feedstocks/python-liquid
 	branch = refs/heads/main
+[submodule "r-cbioportalr"]
+	url = https://github.com/conda-forge/r-cbioportalr-feedstock.git
+	path = feedstocks/r-cbioportalr
+	branch = refs/heads/main
