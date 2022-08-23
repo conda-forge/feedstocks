@@ -68462,3 +68462,7 @@
 	url = https://github.com/conda-forge/stern-feedstock.git
 	path = feedstocks/stern
 	branch = refs/heads/main
+[submodule "xpra"]
+	url = https://github.com/conda-forge/xpra-feedstock.git
+	path = feedstocks/xpra
+	branch = refs/heads/main
