@@ -68498,3 +68498,7 @@
 	url = https://github.com/conda-forge/aiohttp-xmlrpc-feedstock.git
 	path = feedstocks/aiohttp-xmlrpc
 	branch = refs/heads/main
+[submodule "powerloader"]
+	url = https://github.com/conda-forge/powerloader-feedstock.git
+	path = feedstocks/powerloader
+	branch = refs/heads/main
