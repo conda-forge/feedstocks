@@ -68530,3 +68530,7 @@
 	url = https://github.com/conda-forge/xitorch-feedstock.git
 	path = feedstocks/xitorch
 	branch = refs/heads/main
+[submodule "gdptools"]
+	url = https://github.com/conda-forge/gdptools-feedstock.git
+	path = feedstocks/gdptools
+	branch = refs/heads/main
