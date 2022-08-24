@@ -68482,3 +68482,7 @@
 	url = https://github.com/conda-forge/matbench-genmetrics-feedstock.git
 	path = feedstocks/matbench-genmetrics
 	branch = refs/heads/main
+[submodule "medaprep"]
+	url = https://github.com/conda-forge/medaprep-feedstock.git
+	path = feedstocks/medaprep
+	branch = refs/heads/main
