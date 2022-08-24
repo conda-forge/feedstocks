@@ -68486,3 +68486,7 @@
 	url = https://github.com/conda-forge/medaprep-feedstock.git
 	path = feedstocks/medaprep
 	branch = refs/heads/main
+[submodule "udlai"]
+	url = https://github.com/conda-forge/udlai-feedstock.git
+	path = feedstocks/udlai
+	branch = refs/heads/main
