@@ -68518,3 +68518,7 @@
 	url = https://github.com/conda-forge/plams-feedstock.git
 	path = feedstocks/plams
 	branch = refs/heads/main
+[submodule "scalene"]
+	url = https://github.com/conda-forge/scalene-feedstock.git
+	path = feedstocks/scalene
+	branch = refs/heads/main
