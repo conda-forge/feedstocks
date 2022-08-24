@@ -68526,3 +68526,7 @@
 	url = https://github.com/conda-forge/formlayout-feedstock.git
 	path = feedstocks/formlayout
 	branch = refs/heads/main
+[submodule "xitorch"]
+	url = https://github.com/conda-forge/xitorch-feedstock.git
+	path = feedstocks/xitorch
+	branch = refs/heads/main
