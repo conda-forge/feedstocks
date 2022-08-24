@@ -68494,3 +68494,7 @@
 	url = https://github.com/conda-forge/pymcdm-feedstock.git
 	path = feedstocks/pymcdm
 	branch = refs/heads/main
+[submodule "aiohttp-xmlrpc"]
+	url = https://github.com/conda-forge/aiohttp-xmlrpc-feedstock.git
+	path = feedstocks/aiohttp-xmlrpc
+	branch = refs/heads/main
