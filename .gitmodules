@@ -68502,3 +68502,7 @@
 	url = https://github.com/conda-forge/powerloader-feedstock.git
 	path = feedstocks/powerloader
 	branch = refs/heads/main
+[submodule "chemcat"]
+	url = https://github.com/conda-forge/chemcat-feedstock.git
+	path = feedstocks/chemcat
+	branch = refs/heads/main
