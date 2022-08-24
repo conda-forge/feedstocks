@@ -68510,3 +68510,7 @@
 	url = https://github.com/conda-forge/yamlprocessor-feedstock.git
 	path = feedstocks/yamlprocessor
 	branch = refs/heads/main
+[submodule "structuregraph-helpers"]
+	url = https://github.com/conda-forge/structuregraph-helpers-feedstock.git
+	path = feedstocks/structuregraph-helpers
+	branch = refs/heads/main
