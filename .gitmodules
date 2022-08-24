@@ -68474,3 +68474,7 @@
 	url = https://github.com/conda-forge/sphinx-toggleprompt-feedstock.git
 	path = feedstocks/sphinx-toggleprompt
 	branch = refs/heads/main
+[submodule "api-inference-community"]
+	url = https://github.com/conda-forge/api-inference-community-feedstock.git
+	path = feedstocks/api-inference-community
+	branch = refs/heads/main
