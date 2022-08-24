@@ -68506,3 +68506,7 @@
 	url = https://github.com/conda-forge/chemcat-feedstock.git
 	path = feedstocks/chemcat
 	branch = refs/heads/main
+[submodule "yamlprocessor"]
+	url = https://github.com/conda-forge/yamlprocessor-feedstock.git
+	path = feedstocks/yamlprocessor
+	branch = refs/heads/main
