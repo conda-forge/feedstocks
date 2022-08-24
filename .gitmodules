@@ -68514,3 +68514,7 @@
 	url = https://github.com/conda-forge/structuregraph-helpers-feedstock.git
 	path = feedstocks/structuregraph-helpers
 	branch = refs/heads/main
+[submodule "plams"]
+	url = https://github.com/conda-forge/plams-feedstock.git
+	path = feedstocks/plams
+	branch = refs/heads/main
