@@ -68478,3 +68478,7 @@
 	url = https://github.com/conda-forge/api-inference-community-feedstock.git
 	path = feedstocks/api-inference-community
 	branch = refs/heads/main
+[submodule "matbench-genmetrics"]
+	url = https://github.com/conda-forge/matbench-genmetrics-feedstock.git
+	path = feedstocks/matbench-genmetrics
+	branch = refs/heads/main
