@@ -68490,3 +68490,7 @@
 	url = https://github.com/conda-forge/udlai-feedstock.git
 	path = feedstocks/udlai
 	branch = refs/heads/main
+[submodule "pymcdm"]
+	url = https://github.com/conda-forge/pymcdm-feedstock.git
+	path = feedstocks/pymcdm
+	branch = refs/heads/main
