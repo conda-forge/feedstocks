@@ -68534,3 +68534,7 @@
 	url = https://github.com/conda-forge/gdptools-feedstock.git
 	path = feedstocks/gdptools
 	branch = refs/heads/main
+[submodule "python-attr"]
+	url = https://github.com/conda-forge/python-attr-feedstock.git
+	path = feedstocks/python-attr
+	branch = refs/heads/main
