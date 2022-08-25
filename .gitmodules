@@ -68538,3 +68538,7 @@
 	url = https://github.com/conda-forge/python-attr-feedstock.git
 	path = feedstocks/python-attr
 	branch = refs/heads/main
+[submodule "mpart"]
+	url = https://github.com/conda-forge/mpart-feedstock.git
+	path = feedstocks/mpart
+	branch = refs/heads/main
