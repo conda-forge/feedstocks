@@ -68546,3 +68546,7 @@
 	url = https://github.com/conda-forge/npmignore-feedstock.git
 	path = feedstocks/npmignore
 	branch = refs/heads/main
+[submodule "arrow_odbc"]
+	url = https://github.com/conda-forge/arrow_odbc-feedstock.git
+	path = feedstocks/arrow_odbc
+	branch = refs/heads/main
