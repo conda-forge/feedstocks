@@ -68542,3 +68542,7 @@
 	url = https://github.com/conda-forge/mpart-feedstock.git
 	path = feedstocks/mpart
 	branch = refs/heads/main
+[submodule "npmignore"]
+	url = https://github.com/conda-forge/npmignore-feedstock.git
+	path = feedstocks/npmignore
+	branch = refs/heads/main
