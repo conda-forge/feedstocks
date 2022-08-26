@@ -68566,3 +68566,7 @@
 	url = https://github.com/conda-forge/cupy-xarray-feedstock.git
 	path = feedstocks/cupy-xarray
 	branch = refs/heads/main
+[submodule "datasette-graphql"]
+	url = https://github.com/conda-forge/datasette-graphql-feedstock.git
+	path = feedstocks/datasette-graphql
+	branch = refs/heads/main
