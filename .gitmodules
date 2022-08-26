@@ -68558,3 +68558,7 @@
 	url = https://github.com/conda-forge/perl-if-feedstock.git
 	path = feedstocks/perl-if
 	branch = refs/heads/main
+[submodule "aiocircuitbreaker"]
+	url = https://github.com/conda-forge/aiocircuitbreaker-feedstock.git
+	path = feedstocks/aiocircuitbreaker
+	branch = refs/heads/main
