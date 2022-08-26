@@ -68570,3 +68570,7 @@
 	url = https://github.com/conda-forge/datasette-graphql-feedstock.git
 	path = feedstocks/datasette-graphql
 	branch = refs/heads/main
+[submodule "h5pyd"]
+	url = https://github.com/conda-forge/h5pyd-feedstock.git
+	path = feedstocks/h5pyd
+	branch = refs/heads/main
