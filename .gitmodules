@@ -68550,3 +68550,7 @@
 	url = https://github.com/conda-forge/arrow_odbc-feedstock.git
 	path = feedstocks/arrow_odbc
 	branch = refs/heads/main
+[submodule "r-redlistr"]
+	url = https://github.com/conda-forge/r-redlistr-feedstock.git
+	path = feedstocks/r-redlistr
+	branch = refs/heads/main
