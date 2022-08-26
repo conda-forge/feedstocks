@@ -68562,3 +68562,7 @@
 	url = https://github.com/conda-forge/aiocircuitbreaker-feedstock.git
 	path = feedstocks/aiocircuitbreaker
 	branch = refs/heads/main
+[submodule "cupy-xarray"]
+	url = https://github.com/conda-forge/cupy-xarray-feedstock.git
+	path = feedstocks/cupy-xarray
+	branch = refs/heads/main
