@@ -68598,3 +68598,7 @@
 	url = https://github.com/conda-forge/r-nmslibr-feedstock.git
 	path = feedstocks/r-nmslibr
 	branch = refs/heads/main
+[submodule "perl-svg"]
+	url = https://github.com/conda-forge/perl-svg-feedstock.git
+	path = feedstocks/perl-svg
+	branch = refs/heads/main
