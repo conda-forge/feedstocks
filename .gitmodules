@@ -68586,3 +68586,7 @@
 	url = https://github.com/conda-forge/multidimio-feedstock.git
 	path = feedstocks/multidimio
 	branch = refs/heads/main
+[submodule "quarto"]
+	url = https://github.com/conda-forge/quarto-feedstock.git
+	path = feedstocks/quarto
+	branch = refs/heads/main
