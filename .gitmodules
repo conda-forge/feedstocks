@@ -68590,3 +68590,7 @@
 	url = https://github.com/conda-forge/quarto-feedstock.git
 	path = feedstocks/quarto
 	branch = refs/heads/main
+[submodule "r-eikosograms"]
+	url = https://github.com/conda-forge/r-eikosograms-feedstock.git
+	path = feedstocks/r-eikosograms
+	branch = refs/heads/main
