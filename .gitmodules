@@ -68626,3 +68626,7 @@
 	url = https://github.com/conda-forge/pygrin-feedstock.git
 	path = feedstocks/pygrin
 	branch = refs/heads/main
+[submodule "pymatgen-io-fleur"]
+	url = https://github.com/conda-forge/pymatgen-io-fleur-feedstock.git
+	path = feedstocks/pymatgen-io-fleur
+	branch = refs/heads/main
