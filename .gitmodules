@@ -68622,3 +68622,7 @@
 	url = https://github.com/conda-forge/aiida-dataframe-feedstock.git
 	path = feedstocks/aiida-dataframe
 	branch = refs/heads/main
+[submodule "pygrin"]
+	url = https://github.com/conda-forge/pygrin-feedstock.git
+	path = feedstocks/pygrin
+	branch = refs/heads/main
