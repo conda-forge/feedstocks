@@ -68606,3 +68606,7 @@
 	url = https://github.com/conda-forge/yaqd-dwyer-feedstock.git
 	path = feedstocks/yaqd-dwyer
 	branch = refs/heads/main
+[submodule "libmatio-cpp"]
+	url = https://github.com/conda-forge/libmatio-cpp-feedstock.git
+	path = feedstocks/libmatio-cpp
+	branch = refs/heads/main
