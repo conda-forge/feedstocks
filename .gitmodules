@@ -68646,3 +68646,7 @@
 	url = https://github.com/conda-forge/scine-chemoton-feedstock.git
 	path = feedstocks/scine-chemoton
 	branch = refs/heads/main
+[submodule "scine-puffin"]
+	url = https://github.com/conda-forge/scine-puffin-feedstock.git
+	path = feedstocks/scine-puffin
+	branch = refs/heads/main
