@@ -68654,3 +68654,7 @@
 	url = https://github.com/conda-forge/getfem-feedstock.git
 	path = feedstocks/getfem
 	branch = refs/heads/main
+[submodule "shared-memory-dict"]
+	url = https://github.com/conda-forge/shared-memory-dict-feedstock.git
+	path = feedstocks/shared-memory-dict
+	branch = refs/heads/main
