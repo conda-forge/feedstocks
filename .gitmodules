@@ -68630,3 +68630,7 @@
 	url = https://github.com/conda-forge/pymatgen-io-fleur-feedstock.git
 	path = feedstocks/pymatgen-io-fleur
 	branch = refs/heads/main
+[submodule "matrix_utils"]
+	url = https://github.com/conda-forge/matrix_utils-feedstock.git
+	path = feedstocks/matrix_utils
+	branch = refs/heads/main
