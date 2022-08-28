@@ -68614,3 +68614,7 @@
 	url = https://github.com/conda-forge/ansicolors-feedstock.git
 	path = feedstocks/ansicolors
 	branch = refs/heads/main
+[submodule "types-psutil"]
+	url = https://github.com/conda-forge/types-psutil-feedstock.git
+	path = feedstocks/types-psutil
+	branch = refs/heads/main
