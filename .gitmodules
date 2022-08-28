@@ -68610,3 +68610,7 @@
 	url = https://github.com/conda-forge/libmatio-cpp-feedstock.git
 	path = feedstocks/libmatio-cpp
 	branch = refs/heads/main
+[submodule "ansicolors"]
+	url = https://github.com/conda-forge/ansicolors-feedstock.git
+	path = feedstocks/ansicolors
+	branch = refs/heads/main
