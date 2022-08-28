@@ -68618,3 +68618,7 @@
 	url = https://github.com/conda-forge/types-psutil-feedstock.git
 	path = feedstocks/types-psutil
 	branch = refs/heads/main
+[submodule "aiida-dataframe"]
+	url = https://github.com/conda-forge/aiida-dataframe-feedstock.git
+	path = feedstocks/aiida-dataframe
+	branch = refs/heads/main
