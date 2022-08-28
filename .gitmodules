@@ -68650,3 +68650,7 @@
 	url = https://github.com/conda-forge/scine-puffin-feedstock.git
 	path = feedstocks/scine-puffin
 	branch = refs/heads/main
+[submodule "getfem"]
+	url = https://github.com/conda-forge/getfem-feedstock.git
+	path = feedstocks/getfem
+	branch = refs/heads/main
