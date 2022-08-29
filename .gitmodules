@@ -68706,3 +68706,7 @@
 	url = https://github.com/conda-forge/debuglater-feedstock.git
 	path = feedstocks/debuglater
 	branch = refs/heads/main
+[submodule "belay"]
+	url = https://github.com/conda-forge/belay-feedstock.git
+	path = feedstocks/belay
+	branch = refs/heads/main
