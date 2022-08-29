@@ -68678,3 +68678,7 @@
 	url = https://github.com/conda-forge/lingua-language-detector-feedstock.git
 	path = feedstocks/lingua-language-detector
 	branch = refs/heads/main
+[submodule "shodan"]
+	url = https://github.com/conda-forge/shodan-feedstock.git
+	path = feedstocks/shodan
+	branch = refs/heads/main
