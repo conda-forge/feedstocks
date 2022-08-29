@@ -68694,3 +68694,7 @@
 	url = https://github.com/conda-forge/ezsheets-feedstock.git
 	path = feedstocks/ezsheets
 	branch = refs/heads/main
+[submodule "simple_slurm"]
+	url = https://github.com/conda-forge/simple_slurm-feedstock.git
+	path = feedstocks/simple_slurm
+	branch = refs/heads/main
