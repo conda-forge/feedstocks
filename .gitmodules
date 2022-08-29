@@ -68714,3 +68714,7 @@
 	url = https://github.com/conda-forge/r-justifyalpha-feedstock.git
 	path = feedstocks/r-justifyalpha
 	branch = refs/heads/main
+[submodule "simple_h5py"]
+	url = https://github.com/conda-forge/simple_h5py-feedstock.git
+	path = feedstocks/simple_h5py
+	branch = refs/heads/main
