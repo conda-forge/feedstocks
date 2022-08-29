@@ -68702,3 +68702,7 @@
 	url = https://github.com/conda-forge/ploomber-core-feedstock.git
 	path = feedstocks/ploomber-core
 	branch = refs/heads/main
+[submodule "debuglater"]
+	url = https://github.com/conda-forge/debuglater-feedstock.git
+	path = feedstocks/debuglater
+	branch = refs/heads/main
