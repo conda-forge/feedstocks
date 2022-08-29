@@ -68662,3 +68662,7 @@
 	url = https://github.com/conda-forge/datetimerange-feedstock.git
 	path = feedstocks/datetimerange
 	branch = refs/heads/main
+[submodule "qt-material"]
+	url = https://github.com/conda-forge/qt-material-feedstock.git
+	path = feedstocks/qt-material
+	branch = refs/heads/main
