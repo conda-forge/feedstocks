@@ -68666,3 +68666,7 @@
 	url = https://github.com/conda-forge/qt-material-feedstock.git
 	path = feedstocks/qt-material
 	branch = refs/heads/main
+[submodule "pytemlib"]
+	url = https://github.com/conda-forge/pytemlib-feedstock.git
+	path = feedstocks/pytemlib
+	branch = refs/heads/main
