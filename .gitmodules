@@ -68682,3 +68682,7 @@
 	url = https://github.com/conda-forge/shodan-feedstock.git
 	path = feedstocks/shodan
 	branch = refs/heads/main
+[submodule "showcallstack"]
+	url = https://github.com/conda-forge/showcallstack-feedstock.git
+	path = feedstocks/showcallstack
+	branch = refs/heads/main
