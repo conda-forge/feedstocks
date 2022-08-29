@@ -68738,3 +68738,7 @@
 	url = https://github.com/conda-forge/xbitinfo-feedstock.git
 	path = feedstocks/xbitinfo
 	branch = refs/heads/main
+[submodule "hdk"]
+	url = https://github.com/conda-forge/hdk-feedstock.git
+	path = feedstocks/hdk
+	branch = refs/heads/main
