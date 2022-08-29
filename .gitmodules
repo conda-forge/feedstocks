@@ -68698,3 +68698,7 @@
 	url = https://github.com/conda-forge/simple_slurm-feedstock.git
 	path = feedstocks/simple_slurm
 	branch = refs/heads/main
+[submodule "ploomber-core"]
+	url = https://github.com/conda-forge/ploomber-core-feedstock.git
+	path = feedstocks/ploomber-core
+	branch = refs/heads/main
