@@ -68658,3 +68658,7 @@
 	url = https://github.com/conda-forge/shared-memory-dict-feedstock.git
 	path = feedstocks/shared-memory-dict
 	branch = refs/heads/main
+[submodule "datetimerange"]
+	url = https://github.com/conda-forge/datetimerange-feedstock.git
+	path = feedstocks/datetimerange
+	branch = refs/heads/main
