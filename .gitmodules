@@ -68722,3 +68722,7 @@
 	url = https://github.com/conda-forge/elyra-r-editor-extension-feedstock.git
 	path = feedstocks/elyra-r-editor-extension
 	branch = refs/heads/main
+[submodule "elyra-scala-editor-extension"]
+	url = https://github.com/conda-forge/elyra-scala-editor-extension-feedstock.git
+	path = feedstocks/elyra-scala-editor-extension
+	branch = refs/heads/main
