@@ -68778,3 +68778,7 @@
 	url = https://github.com/conda-forge/ghcup-feedstock.git
 	path = feedstocks/ghcup
 	branch = refs/heads/main
+[submodule "beaupy"]
+	url = https://github.com/conda-forge/beaupy-feedstock.git
+	path = feedstocks/beaupy
+	branch = refs/heads/main
