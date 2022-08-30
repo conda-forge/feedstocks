@@ -68742,3 +68742,7 @@
 	url = https://github.com/conda-forge/hdk-feedstock.git
 	path = feedstocks/hdk
 	branch = refs/heads/main
+[submodule "numkit"]
+	url = https://github.com/conda-forge/numkit-feedstock.git
+	path = feedstocks/numkit
+	branch = refs/heads/main
