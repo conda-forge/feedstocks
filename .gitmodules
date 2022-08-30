@@ -68766,3 +68766,7 @@
 	url = https://github.com/conda-forge/r-quantpsyc-feedstock.git
 	path = feedstocks/r-quantpsyc
 	branch = refs/heads/main
+[submodule "r-multilevel"]
+	url = https://github.com/conda-forge/r-multilevel-feedstock.git
+	path = feedstocks/r-multilevel
+	branch = refs/heads/main
