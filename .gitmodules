@@ -68746,3 +68746,7 @@
 	url = https://github.com/conda-forge/numkit-feedstock.git
 	path = feedstocks/numkit
 	branch = refs/heads/main
+[submodule "tethys-platform"]
+	url = https://github.com/conda-forge/tethys-platform-feedstock.git
+	path = feedstocks/tethys-platform
+	branch = refs/heads/main
