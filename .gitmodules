@@ -68750,3 +68750,7 @@
 	url = https://github.com/conda-forge/tethys-platform-feedstock.git
 	path = feedstocks/tethys-platform
 	branch = refs/heads/main
+[submodule "r-hydrotsm"]
+	url = https://github.com/conda-forge/r-hydrotsm-feedstock.git
+	path = feedstocks/r-hydrotsm
+	branch = refs/heads/main
