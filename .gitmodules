@@ -68754,3 +68754,7 @@
 	url = https://github.com/conda-forge/r-hydrotsm-feedstock.git
 	path = feedstocks/r-hydrotsm
 	branch = refs/heads/main
+[submodule "r-measurements"]
+	url = https://github.com/conda-forge/r-measurements-feedstock.git
+	path = feedstocks/r-measurements
+	branch = refs/heads/main
