@@ -68774,3 +68774,7 @@
 	url = https://github.com/conda-forge/fastreg-feedstock.git
 	path = feedstocks/fastreg
 	branch = refs/heads/main
+[submodule "ghcup"]
+	url = https://github.com/conda-forge/ghcup-feedstock.git
+	path = feedstocks/ghcup
+	branch = refs/heads/main
