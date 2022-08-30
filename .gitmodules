@@ -68770,3 +68770,7 @@
 	url = https://github.com/conda-forge/r-multilevel-feedstock.git
 	path = feedstocks/r-multilevel
 	branch = refs/heads/main
+[submodule "fastreg"]
+	url = https://github.com/conda-forge/fastreg-feedstock.git
+	path = feedstocks/fastreg
+	branch = refs/heads/main
