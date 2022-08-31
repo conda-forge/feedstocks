@@ -68786,3 +68786,7 @@
 	url = https://github.com/conda-forge/r-tcplfit2-feedstock.git
 	path = feedstocks/r-tcplfit2
 	branch = refs/heads/main
+[submodule "r-broman"]
+	url = https://github.com/conda-forge/r-broman-feedstock.git
+	path = feedstocks/r-broman
+	branch = refs/heads/main
