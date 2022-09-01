@@ -68798,3 +68798,7 @@
 	url = https://github.com/conda-forge/onnx2torch-feedstock.git
 	path = feedstocks/onnx2torch
 	branch = refs/heads/main
+[submodule "delvewheel"]
+	url = https://github.com/conda-forge/delvewheel-feedstock.git
+	path = feedstocks/delvewheel
+	branch = refs/heads/main
