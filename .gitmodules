@@ -68794,3 +68794,7 @@
 	url = https://github.com/conda-forge/reretry-feedstock.git
 	path = feedstocks/reretry
 	branch = refs/heads/main
+[submodule "onnx2torch"]
+	url = https://github.com/conda-forge/onnx2torch-feedstock.git
+	path = feedstocks/onnx2torch
+	branch = refs/heads/main
