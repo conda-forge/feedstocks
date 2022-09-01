@@ -68790,3 +68790,7 @@
 	url = https://github.com/conda-forge/r-broman-feedstock.git
 	path = feedstocks/r-broman
 	branch = refs/heads/main
+[submodule "reretry"]
+	url = https://github.com/conda-forge/reretry-feedstock.git
+	path = feedstocks/reretry
+	branch = refs/heads/main
