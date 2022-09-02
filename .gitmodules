@@ -68818,3 +68818,7 @@
 	url = https://github.com/conda-forge/centerline-feedstock.git
 	path = feedstocks/centerline
 	branch = refs/heads/main
+[submodule "babeltrace"]
+	url = https://github.com/conda-forge/babeltrace-feedstock.git
+	path = feedstocks/babeltrace
+	branch = refs/heads/main
