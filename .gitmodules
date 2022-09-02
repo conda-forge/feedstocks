@@ -68842,3 +68842,7 @@
 	url = https://github.com/conda-forge/jsonschema-spec-feedstock.git
 	path = feedstocks/jsonschema-spec
 	branch = refs/heads/main
+[submodule "udocker"]
+	url = https://github.com/conda-forge/udocker-feedstock.git
+	path = feedstocks/udocker
+	branch = refs/heads/main
