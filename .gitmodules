@@ -68834,3 +68834,7 @@
 	url = https://github.com/conda-forge/r-lmperm-feedstock.git
 	path = feedstocks/r-lmperm
 	branch = refs/heads/main
+[submodule "r-bucss"]
+	url = https://github.com/conda-forge/r-bucss-feedstock.git
+	path = feedstocks/r-bucss
+	branch = refs/heads/main
