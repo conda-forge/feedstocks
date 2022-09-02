@@ -68810,3 +68810,7 @@
 	url = https://github.com/conda-forge/coloraide-feedstock.git
 	path = feedstocks/coloraide
 	branch = refs/heads/main
+[submodule "r-optimparallel"]
+	url = https://github.com/conda-forge/r-optimparallel-feedstock.git
+	path = feedstocks/r-optimparallel
+	branch = refs/heads/main
