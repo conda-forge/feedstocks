@@ -68838,3 +68838,7 @@
 	url = https://github.com/conda-forge/r-bucss-feedstock.git
 	path = feedstocks/r-bucss
 	branch = refs/heads/main
+[submodule "jsonschema-spec"]
+	url = https://github.com/conda-forge/jsonschema-spec-feedstock.git
+	path = feedstocks/jsonschema-spec
+	branch = refs/heads/main
