@@ -68822,3 +68822,7 @@
 	url = https://github.com/conda-forge/babeltrace-feedstock.git
 	path = feedstocks/babeltrace
 	branch = refs/heads/main
+[submodule "fief-client-fastapi"]
+	url = https://github.com/conda-forge/fief-client-fastapi-feedstock.git
+	path = feedstocks/fief-client-fastapi
+	branch = refs/heads/main
