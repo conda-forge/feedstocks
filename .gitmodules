@@ -68814,3 +68814,7 @@
 	url = https://github.com/conda-forge/r-optimparallel-feedstock.git
 	path = feedstocks/r-optimparallel
 	branch = refs/heads/main
+[submodule "centerline"]
+	url = https://github.com/conda-forge/centerline-feedstock.git
+	path = feedstocks/centerline
+	branch = refs/heads/main
