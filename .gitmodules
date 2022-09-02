@@ -68830,3 +68830,7 @@
 	url = https://github.com/conda-forge/r-psychometric-feedstock.git
 	path = feedstocks/r-psychometric
 	branch = refs/heads/main
+[submodule "r-lmperm"]
+	url = https://github.com/conda-forge/r-lmperm-feedstock.git
+	path = feedstocks/r-lmperm
+	branch = refs/heads/main
