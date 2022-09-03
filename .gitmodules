@@ -68854,3 +68854,7 @@
 	url = https://github.com/conda-forge/perl-dbi-feedstock.git
 	path = feedstocks/perl-dbi
 	branch = refs/heads/main
+[submodule "hart-protocol"]
+	url = https://github.com/conda-forge/hart-protocol-feedstock.git
+	path = feedstocks/hart-protocol
+	branch = refs/heads/main
