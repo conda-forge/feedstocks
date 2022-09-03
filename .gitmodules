@@ -68846,3 +68846,7 @@
 	url = https://github.com/conda-forge/udocker-feedstock.git
 	path = feedstocks/udocker
 	branch = refs/heads/main
+[submodule "perl-net-ssleay"]
+	url = https://github.com/conda-forge/perl-net-ssleay-feedstock.git
+	path = feedstocks/perl-net-ssleay
+	branch = refs/heads/main
