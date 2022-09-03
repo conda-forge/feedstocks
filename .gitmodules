@@ -68850,3 +68850,7 @@
 	url = https://github.com/conda-forge/perl-net-ssleay-feedstock.git
 	path = feedstocks/perl-net-ssleay
 	branch = refs/heads/main
+[submodule "perl-dbi"]
+	url = https://github.com/conda-forge/perl-dbi-feedstock.git
+	path = feedstocks/perl-dbi
+	branch = refs/heads/main
