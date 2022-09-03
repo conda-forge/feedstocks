@@ -68858,3 +68858,7 @@
 	url = https://github.com/conda-forge/hart-protocol-feedstock.git
 	path = feedstocks/hart-protocol
 	branch = refs/heads/main
+[submodule "raider"]
+	url = https://github.com/conda-forge/raider-feedstock.git
+	path = feedstocks/raider
+	branch = refs/heads/main
