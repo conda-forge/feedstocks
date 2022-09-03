@@ -68866,3 +68866,7 @@
 	url = https://github.com/conda-forge/cwl-upgrader-feedstock.git
 	path = feedstocks/cwl-upgrader
 	branch = refs/heads/main
+[submodule "shell-source"]
+	url = https://github.com/conda-forge/shell-source-feedstock.git
+	path = feedstocks/shell-source
+	branch = refs/heads/main
