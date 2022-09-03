@@ -68862,3 +68862,7 @@
 	url = https://github.com/conda-forge/raider-feedstock.git
 	path = feedstocks/raider
 	branch = refs/heads/main
+[submodule "cwl-upgrader"]
+	url = https://github.com/conda-forge/cwl-upgrader-feedstock.git
+	path = feedstocks/cwl-upgrader
+	branch = refs/heads/main
