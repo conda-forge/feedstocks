@@ -68918,3 +68918,7 @@
 	url = https://github.com/conda-forge/pymyami-feedstock.git
 	path = feedstocks/pymyami
 	branch = refs/heads/main
+[submodule "perl-test-harness"]
+	url = https://github.com/conda-forge/perl-test-harness-feedstock.git
+	path = feedstocks/perl-test-harness
+	branch = refs/heads/main
