@@ -68926,3 +68926,7 @@
 	url = https://github.com/conda-forge/r-best-feedstock.git
 	path = feedstocks/r-best
 	branch = refs/heads/main
+[submodule "perl-test-deep"]
+	url = https://github.com/conda-forge/perl-test-deep-feedstock.git
+	path = feedstocks/perl-test-deep
+	branch = refs/heads/main
