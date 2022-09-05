@@ -68882,3 +68882,7 @@
 	url = https://github.com/conda-forge/librobometry-feedstock.git
 	path = feedstocks/librobometry
 	branch = refs/heads/main
+[submodule "pynormaliz"]
+	url = https://github.com/conda-forge/pynormaliz-feedstock.git
+	path = feedstocks/pynormaliz
+	branch = refs/heads/main
