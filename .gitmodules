@@ -68910,3 +68910,7 @@
 	url = https://github.com/conda-forge/arccommander-feedstock.git
 	path = feedstocks/arccommander
 	branch = refs/heads/main
+[submodule "kgen"]
+	url = https://github.com/conda-forge/kgen-feedstock.git
+	path = feedstocks/kgen
+	branch = refs/heads/main
