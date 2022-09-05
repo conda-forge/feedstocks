@@ -68914,3 +68914,7 @@
 	url = https://github.com/conda-forge/kgen-feedstock.git
 	path = feedstocks/kgen
 	branch = refs/heads/main
+[submodule "pymyami"]
+	url = https://github.com/conda-forge/pymyami-feedstock.git
+	path = feedstocks/pymyami
+	branch = refs/heads/main
