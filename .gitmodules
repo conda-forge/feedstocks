@@ -68938,3 +68938,7 @@
 	url = https://github.com/conda-forge/fps-auth-fief-feedstock.git
 	path = feedstocks/fps-auth-fief
 	branch = refs/heads/main
+[submodule "transformers-interpret"]
+	url = https://github.com/conda-forge/transformers-interpret-feedstock.git
+	path = feedstocks/transformers-interpret
+	branch = refs/heads/main
