@@ -68978,3 +68978,7 @@
 	url = https://github.com/conda-forge/execnb-feedstock.git
 	path = feedstocks/execnb
 	branch = refs/heads/main
+[submodule "getdist"]
+	url = https://github.com/conda-forge/getdist-feedstock.git
+	path = feedstocks/getdist
+	branch = refs/heads/main
