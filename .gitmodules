@@ -68966,3 +68966,7 @@
 	url = https://github.com/conda-forge/pyobis-feedstock.git
 	path = feedstocks/pyobis
 	branch = refs/heads/main
+[submodule "conda-replicate"]
+	url = https://github.com/conda-forge/conda-replicate-feedstock.git
+	path = feedstocks/conda-replicate
+	branch = refs/heads/main
