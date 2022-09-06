@@ -68950,3 +68950,7 @@
 	url = https://github.com/conda-forge/docquery-feedstock.git
 	path = feedstocks/docquery
 	branch = refs/heads/main
+[submodule "arm-mango"]
+	url = https://github.com/conda-forge/arm-mango-feedstock.git
+	path = feedstocks/arm-mango
+	branch = refs/heads/main
