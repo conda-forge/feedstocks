@@ -68970,3 +68970,7 @@
 	url = https://github.com/conda-forge/conda-replicate-feedstock.git
 	path = feedstocks/conda-replicate
 	branch = refs/heads/main
+[submodule "pybobyqa"]
+	url = https://github.com/conda-forge/pybobyqa-feedstock.git
+	path = feedstocks/pybobyqa
+	branch = refs/heads/main
