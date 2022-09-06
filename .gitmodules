@@ -68934,3 +68934,7 @@
 	url = https://github.com/conda-forge/r-rpact-feedstock.git
 	path = feedstocks/r-rpact
 	branch = refs/heads/main
+[submodule "fps-auth-fief"]
+	url = https://github.com/conda-forge/fps-auth-fief-feedstock.git
+	path = feedstocks/fps-auth-fief
+	branch = refs/heads/main
