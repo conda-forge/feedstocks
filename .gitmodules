@@ -68962,3 +68962,7 @@
 	url = https://github.com/conda-forge/deepgram-sdk-feedstock.git
 	path = feedstocks/deepgram-sdk
 	branch = refs/heads/main
+[submodule "pyobis"]
+	url = https://github.com/conda-forge/pyobis-feedstock.git
+	path = feedstocks/pyobis
+	branch = refs/heads/main
