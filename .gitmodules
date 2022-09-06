@@ -68958,3 +68958,7 @@
 	url = https://github.com/conda-forge/datasloth-feedstock.git
 	path = feedstocks/datasloth
 	branch = refs/heads/main
+[submodule "deepgram-sdk"]
+	url = https://github.com/conda-forge/deepgram-sdk-feedstock.git
+	path = feedstocks/deepgram-sdk
+	branch = refs/heads/main
