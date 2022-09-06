@@ -68954,3 +68954,7 @@
 	url = https://github.com/conda-forge/arm-mango-feedstock.git
 	path = feedstocks/arm-mango
 	branch = refs/heads/main
+[submodule "datasloth"]
+	url = https://github.com/conda-forge/datasloth-feedstock.git
+	path = feedstocks/datasloth
+	branch = refs/heads/main
