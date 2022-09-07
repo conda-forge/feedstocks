@@ -69042,3 +69042,7 @@
 	url = https://github.com/conda-forge/simservice-feedstock.git
 	path = feedstocks/simservice
 	branch = refs/heads/main
+[submodule "tidypolars"]
+	url = https://github.com/conda-forge/tidypolars-feedstock.git
+	path = feedstocks/tidypolars
+	branch = refs/heads/main
