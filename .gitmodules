@@ -69038,3 +69038,7 @@
 	url = https://github.com/conda-forge/pynlp-lib-feedstock.git
 	path = feedstocks/pynlp-lib
 	branch = refs/heads/main
+[submodule "simservice"]
+	url = https://github.com/conda-forge/simservice-feedstock.git
+	path = feedstocks/simservice
+	branch = refs/heads/main
