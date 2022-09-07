@@ -69054,3 +69054,7 @@
 	url = https://github.com/conda-forge/r-interactions-feedstock.git
 	path = feedstocks/r-interactions
 	branch = refs/heads/main
+[submodule "r-titanic"]
+	url = https://github.com/conda-forge/r-titanic-feedstock.git
+	path = feedstocks/r-titanic
+	branch = refs/heads/main
