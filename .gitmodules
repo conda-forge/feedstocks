@@ -69034,3 +69034,7 @@
 	url = https://github.com/conda-forge/nasdaq-data-link-feedstock.git
 	path = feedstocks/nasdaq-data-link
 	branch = refs/heads/main
+[submodule "pynlp-lib"]
+	url = https://github.com/conda-forge/pynlp-lib-feedstock.git
+	path = feedstocks/pynlp-lib
+	branch = refs/heads/main
