@@ -69026,3 +69026,7 @@
 	url = https://github.com/conda-forge/scmorph-feedstock.git
 	path = feedstocks/scmorph
 	branch = refs/heads/main
+[submodule "awsiotpythonsdk"]
+	url = https://github.com/conda-forge/awsiotpythonsdk-feedstock.git
+	path = feedstocks/awsiotpythonsdk
+	branch = refs/heads/main
