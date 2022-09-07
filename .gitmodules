@@ -69058,3 +69058,7 @@
 	url = https://github.com/conda-forge/r-titanic-feedstock.git
 	path = feedstocks/r-titanic
 	branch = refs/heads/main
+[submodule "r-rcartocolor"]
+	url = https://github.com/conda-forge/r-rcartocolor-feedstock.git
+	path = feedstocks/r-rcartocolor
+	branch = refs/heads/main
