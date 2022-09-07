@@ -69078,3 +69078,7 @@
 	url = https://github.com/conda-forge/seamm-dashboard-client-feedstock.git
 	path = feedstocks/seamm-dashboard-client
 	branch = refs/heads/main
+[submodule "sqlbag"]
+	url = https://github.com/conda-forge/sqlbag-feedstock.git
+	path = feedstocks/sqlbag
+	branch = refs/heads/main
