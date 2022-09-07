@@ -69010,3 +69010,7 @@
 	url = https://github.com/conda-forge/nbdev-feedstock.git
 	path = feedstocks/nbdev
 	branch = refs/heads/main
+[submodule "littletable"]
+	url = https://github.com/conda-forge/littletable-feedstock.git
+	path = feedstocks/littletable
+	branch = refs/heads/main
