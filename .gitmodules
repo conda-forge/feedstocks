@@ -69006,3 +69006,7 @@
 	url = https://github.com/conda-forge/pydiverse-pipedag-feedstock.git
 	path = feedstocks/pydiverse-pipedag
 	branch = refs/heads/main
+[submodule "nbdev"]
+	url = https://github.com/conda-forge/nbdev-feedstock.git
+	path = feedstocks/nbdev
+	branch = refs/heads/main
