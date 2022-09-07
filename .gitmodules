@@ -68994,3 +68994,7 @@
 	url = https://github.com/conda-forge/kbatch-feedstock.git
 	path = feedstocks/kbatch
 	branch = refs/heads/main
+[submodule "xstac"]
+	url = https://github.com/conda-forge/xstac-feedstock.git
+	path = feedstocks/xstac
+	branch = refs/heads/main
