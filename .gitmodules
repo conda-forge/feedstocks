@@ -69082,3 +69082,7 @@
 	url = https://github.com/conda-forge/sqlbag-feedstock.git
 	path = feedstocks/sqlbag
 	branch = refs/heads/main
+[submodule "ncrystal"]
+	url = https://github.com/conda-forge/ncrystal-feedstock.git
+	path = feedstocks/ncrystal
+	branch = refs/heads/main
