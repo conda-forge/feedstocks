@@ -68990,3 +68990,7 @@
 	url = https://github.com/conda-forge/noaa-coops-feedstock.git
 	path = feedstocks/noaa-coops
 	branch = refs/heads/main
+[submodule "kbatch"]
+	url = https://github.com/conda-forge/kbatch-feedstock.git
+	path = feedstocks/kbatch
+	branch = refs/heads/main
