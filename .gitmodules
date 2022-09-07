@@ -69074,3 +69074,7 @@
 	url = https://github.com/conda-forge/pylhe-feedstock.git
 	path = feedstocks/pylhe
 	branch = refs/heads/main
+[submodule "seamm-dashboard-client"]
+	url = https://github.com/conda-forge/seamm-dashboard-client-feedstock.git
+	path = feedstocks/seamm-dashboard-client
+	branch = refs/heads/main
