@@ -69030,3 +69030,7 @@
 	url = https://github.com/conda-forge/awsiotpythonsdk-feedstock.git
 	path = feedstocks/awsiotpythonsdk
 	branch = refs/heads/main
+[submodule "nasdaq-data-link"]
+	url = https://github.com/conda-forge/nasdaq-data-link-feedstock.git
+	path = feedstocks/nasdaq-data-link
+	branch = refs/heads/main
