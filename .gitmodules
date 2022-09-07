@@ -69050,3 +69050,7 @@
 	url = https://github.com/conda-forge/plotapi-feedstock.git
 	path = feedstocks/plotapi
 	branch = refs/heads/main
+[submodule "r-interactions"]
+	url = https://github.com/conda-forge/r-interactions-feedstock.git
+	path = feedstocks/r-interactions
+	branch = refs/heads/main
