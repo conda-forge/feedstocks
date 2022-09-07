@@ -68998,3 +68998,7 @@
 	url = https://github.com/conda-forge/xstac-feedstock.git
 	path = feedstocks/xstac
 	branch = refs/heads/main
+[submodule "websockets-cli"]
+	url = https://github.com/conda-forge/websockets-cli-feedstock.git
+	path = feedstocks/websockets-cli
+	branch = refs/heads/main
