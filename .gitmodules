@@ -69046,3 +69046,7 @@
 	url = https://github.com/conda-forge/tidypolars-feedstock.git
 	path = feedstocks/tidypolars
 	branch = refs/heads/main
+[submodule "plotapi"]
+	url = https://github.com/conda-forge/plotapi-feedstock.git
+	path = feedstocks/plotapi
+	branch = refs/heads/main
