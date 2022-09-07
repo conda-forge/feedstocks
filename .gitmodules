@@ -69002,3 +69002,7 @@
 	url = https://github.com/conda-forge/websockets-cli-feedstock.git
 	path = feedstocks/websockets-cli
 	branch = refs/heads/main
+[submodule "pydiverse-pipedag"]
+	url = https://github.com/conda-forge/pydiverse-pipedag-feedstock.git
+	path = feedstocks/pydiverse-pipedag
+	branch = refs/heads/main
