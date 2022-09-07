@@ -69014,3 +69014,7 @@
 	url = https://github.com/conda-forge/littletable-feedstock.git
 	path = feedstocks/littletable
 	branch = refs/heads/main
+[submodule "pydiverse-transform"]
+	url = https://github.com/conda-forge/pydiverse-transform-feedstock.git
+	path = feedstocks/pydiverse-transform
+	branch = refs/heads/main
