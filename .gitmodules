@@ -69098,3 +69098,7 @@
 	url = https://github.com/conda-forge/pyapp-feedstock.git
 	path = feedstocks/pyapp
 	branch = refs/heads/main
+[submodule "numba-mpi"]
+	url = https://github.com/conda-forge/numba-mpi-feedstock.git
+	path = feedstocks/numba-mpi
+	branch = refs/heads/main
