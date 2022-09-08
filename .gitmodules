@@ -69086,3 +69086,7 @@
 	url = https://github.com/conda-forge/ncrystal-feedstock.git
 	path = feedstocks/ncrystal
 	branch = refs/heads/main
+[submodule "schemainspect"]
+	url = https://github.com/conda-forge/schemainspect-feedstock.git
+	path = feedstocks/schemainspect
+	branch = refs/heads/main
