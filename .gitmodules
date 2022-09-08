@@ -69114,3 +69114,7 @@
 	url = https://github.com/conda-forge/adsorption-file-parser-feedstock.git
 	path = feedstocks/adsorption-file-parser
 	branch = refs/heads/main
+[submodule "oscan"]
+	url = https://github.com/conda-forge/oscan-feedstock.git
+	path = feedstocks/oscan
+	branch = refs/heads/main
