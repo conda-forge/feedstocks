@@ -69094,3 +69094,7 @@
 	url = https://github.com/conda-forge/mplsoccer-feedstock.git
 	path = feedstocks/mplsoccer
 	branch = refs/heads/main
+[submodule "pyapp"]
+	url = https://github.com/conda-forge/pyapp-feedstock.git
+	path = feedstocks/pyapp
+	branch = refs/heads/main
