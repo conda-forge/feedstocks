@@ -69102,3 +69102,7 @@
 	url = https://github.com/conda-forge/numba-mpi-feedstock.git
 	path = feedstocks/numba-mpi
 	branch = refs/heads/main
+[submodule "linear_operator"]
+	url = https://github.com/conda-forge/linear_operator-feedstock.git
+	path = feedstocks/linear_operator
+	branch = refs/heads/main
