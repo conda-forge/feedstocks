@@ -69106,3 +69106,7 @@
 	url = https://github.com/conda-forge/linear_operator-feedstock.git
 	path = feedstocks/linear_operator
 	branch = refs/heads/main
+[submodule "zen3geo"]
+	url = https://github.com/conda-forge/zen3geo-feedstock.git
+	path = feedstocks/zen3geo
+	branch = refs/heads/main
