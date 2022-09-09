@@ -69118,3 +69118,7 @@
 	url = https://github.com/conda-forge/oscan-feedstock.git
 	path = feedstocks/oscan
 	branch = refs/heads/main
+[submodule "migra"]
+	url = https://github.com/conda-forge/migra-feedstock.git
+	path = feedstocks/migra
+	branch = refs/heads/main
