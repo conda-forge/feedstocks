@@ -69122,3 +69122,7 @@
 	url = https://github.com/conda-forge/migra-feedstock.git
 	path = feedstocks/migra
 	branch = refs/heads/main
+[submodule "jupyter-rospkg"]
+	url = https://github.com/conda-forge/jupyter-rospkg-feedstock.git
+	path = feedstocks/jupyter-rospkg
+	branch = refs/heads/main
