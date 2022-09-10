@@ -69130,3 +69130,7 @@
 	url = https://github.com/conda-forge/xwrf-feedstock.git
 	path = feedstocks/xwrf
 	branch = refs/heads/main
+[submodule "r-puniform"]
+	url = https://github.com/conda-forge/r-puniform-feedstock.git
+	path = feedstocks/r-puniform
+	branch = refs/heads/main
