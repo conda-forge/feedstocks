@@ -69142,3 +69142,7 @@
 	url = https://github.com/conda-forge/r-zcurve-feedstock.git
 	path = feedstocks/r-zcurve
 	branch = refs/heads/main
+[submodule "axial-positional-embedding"]
+	url = https://github.com/conda-forge/axial-positional-embedding-feedstock.git
+	path = feedstocks/axial-positional-embedding
+	branch = refs/heads/main
