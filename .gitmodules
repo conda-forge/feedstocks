@@ -69134,3 +69134,7 @@
 	url = https://github.com/conda-forge/r-puniform-feedstock.git
 	path = feedstocks/r-puniform
 	branch = refs/heads/main
+[submodule "r-latentcor"]
+	url = https://github.com/conda-forge/r-latentcor-feedstock.git
+	path = feedstocks/r-latentcor
+	branch = refs/heads/main
