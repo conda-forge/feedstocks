@@ -69138,3 +69138,7 @@
 	url = https://github.com/conda-forge/r-latentcor-feedstock.git
 	path = feedstocks/r-latentcor
 	branch = refs/heads/main
+[submodule "r-zcurve"]
+	url = https://github.com/conda-forge/r-zcurve-feedstock.git
+	path = feedstocks/r-zcurve
+	branch = refs/heads/main
