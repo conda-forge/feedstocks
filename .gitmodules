@@ -69146,3 +69146,7 @@
 	url = https://github.com/conda-forge/axial-positional-embedding-feedstock.git
 	path = feedstocks/axial-positional-embedding
 	branch = refs/heads/main
+[submodule "libuvw"]
+	url = https://github.com/conda-forge/libuvw-feedstock.git
+	path = feedstocks/libuvw
+	branch = refs/heads/main
