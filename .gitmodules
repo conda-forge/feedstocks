@@ -69198,3 +69198,7 @@
 	url = https://github.com/conda-forge/napari-affinities-feedstock.git
 	path = feedstocks/napari-affinities
 	branch = refs/heads/main
+[submodule "local-attention"]
+	url = https://github.com/conda-forge/local-attention-feedstock.git
+	path = feedstocks/local-attention
+	branch = refs/heads/main
