@@ -69194,3 +69194,7 @@
 	url = https://github.com/conda-forge/gazpacho-feedstock.git
 	path = feedstocks/gazpacho
 	branch = refs/heads/main
+[submodule "napari-affinities"]
+	url = https://github.com/conda-forge/napari-affinities-feedstock.git
+	path = feedstocks/napari-affinities
+	branch = refs/heads/main
