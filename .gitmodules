@@ -69150,3 +69150,7 @@
 	url = https://github.com/conda-forge/libuvw-feedstock.git
 	path = feedstocks/libuvw
 	branch = refs/heads/main
+[submodule "websocketpp"]
+	url = https://github.com/conda-forge/websocketpp-feedstock.git
+	path = feedstocks/websocketpp
+	branch = refs/heads/main
