@@ -69178,3 +69178,7 @@
 	url = https://github.com/conda-forge/nystrom-attention-feedstock.git
 	path = feedstocks/nystrom-attention
 	branch = refs/heads/main
+[submodule "kotsu"]
+	url = https://github.com/conda-forge/kotsu-feedstock.git
+	path = feedstocks/kotsu
+	branch = refs/heads/main
