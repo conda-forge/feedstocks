@@ -69182,3 +69182,7 @@
 	url = https://github.com/conda-forge/kotsu-feedstock.git
 	path = feedstocks/kotsu
 	branch = refs/heads/main
+[submodule "oct-to-tiff"]
+	url = https://github.com/conda-forge/oct-to-tiff-feedstock.git
+	path = feedstocks/oct-to-tiff
+	branch = refs/heads/main
