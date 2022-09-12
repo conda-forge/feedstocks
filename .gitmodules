@@ -69186,3 +69186,7 @@
 	url = https://github.com/conda-forge/oct-to-tiff-feedstock.git
 	path = feedstocks/oct-to-tiff
 	branch = refs/heads/main
+[submodule "nqlib"]
+	url = https://github.com/conda-forge/nqlib-feedstock.git
+	path = feedstocks/nqlib
+	branch = refs/heads/main
