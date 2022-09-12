@@ -69202,3 +69202,7 @@
 	url = https://github.com/conda-forge/local-attention-feedstock.git
 	path = feedstocks/local-attention
 	branch = refs/heads/main
+[submodule "lsstdesc-galsampler"]
+	url = https://github.com/conda-forge/lsstdesc-galsampler-feedstock.git
+	path = feedstocks/lsstdesc-galsampler
+	branch = refs/heads/main
