@@ -69190,3 +69190,7 @@
 	url = https://github.com/conda-forge/nqlib-feedstock.git
 	path = feedstocks/nqlib
 	branch = refs/heads/main
+[submodule "gazpacho"]
+	url = https://github.com/conda-forge/gazpacho-feedstock.git
+	path = feedstocks/gazpacho
+	branch = refs/heads/main
