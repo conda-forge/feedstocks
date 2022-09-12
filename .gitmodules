@@ -69174,3 +69174,7 @@
 	url = https://github.com/conda-forge/starlite-multipart-feedstock.git
 	path = feedstocks/starlite-multipart
 	branch = refs/heads/main
+[submodule "nystrom-attention"]
+	url = https://github.com/conda-forge/nystrom-attention-feedstock.git
+	path = feedstocks/nystrom-attention
+	branch = refs/heads/main
