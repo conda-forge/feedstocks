@@ -69158,3 +69158,7 @@
 	url = https://github.com/conda-forge/r-ggvenndiagram-feedstock.git
 	path = feedstocks/r-ggvenndiagram
 	branch = refs/heads/main
+[submodule "r-rvenn"]
+	url = https://github.com/conda-forge/r-rvenn-feedstock.git
+	path = feedstocks/r-rvenn
+	branch = refs/heads/main
