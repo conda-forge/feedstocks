@@ -69170,3 +69170,7 @@
 	url = https://github.com/conda-forge/pydantic-openapi-schema-feedstock.git
 	path = feedstocks/pydantic-openapi-schema
 	branch = refs/heads/main
+[submodule "starlite-multipart"]
+	url = https://github.com/conda-forge/starlite-multipart-feedstock.git
+	path = feedstocks/starlite-multipart
+	branch = refs/heads/main
