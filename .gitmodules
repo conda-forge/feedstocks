@@ -69166,3 +69166,7 @@
 	url = https://github.com/conda-forge/py-heat-feedstock.git
 	path = feedstocks/py-heat
 	branch = refs/heads/main
+[submodule "pydantic-openapi-schema"]
+	url = https://github.com/conda-forge/pydantic-openapi-schema-feedstock.git
+	path = feedstocks/pydantic-openapi-schema
+	branch = refs/heads/main
