@@ -69162,3 +69162,7 @@
 	url = https://github.com/conda-forge/r-rvenn-feedstock.git
 	path = feedstocks/r-rvenn
 	branch = refs/heads/main
+[submodule "py-heat"]
+	url = https://github.com/conda-forge/py-heat-feedstock.git
+	path = feedstocks/py-heat
+	branch = refs/heads/main
