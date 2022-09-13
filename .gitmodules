@@ -69266,3 +69266,7 @@
 	url = https://github.com/conda-forge/ducks-feedstock.git
 	path = feedstocks/ducks
 	branch = refs/heads/main
+[submodule "ablang"]
+	url = https://github.com/conda-forge/ablang-feedstock.git
+	path = feedstocks/ablang
+	branch = refs/heads/main
