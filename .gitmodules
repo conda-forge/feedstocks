@@ -69226,3 +69226,7 @@
 	url = https://github.com/conda-forge/regressio-feedstock.git
 	path = feedstocks/regressio
 	branch = refs/heads/main
+[submodule "django-htmx"]
+	url = https://github.com/conda-forge/django-htmx-feedstock.git
+	path = feedstocks/django-htmx
+	branch = refs/heads/main
