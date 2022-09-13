@@ -69254,3 +69254,7 @@
 	url = https://github.com/conda-forge/herbie-data-feedstock.git
 	path = feedstocks/herbie-data
 	branch = refs/heads/main
+[submodule "starlite"]
+	url = https://github.com/conda-forge/starlite-feedstock.git
+	path = feedstocks/starlite
+	branch = refs/heads/main
