@@ -69210,3 +69210,7 @@
 	url = https://github.com/conda-forge/prefect-dask-feedstock.git
 	path = feedstocks/prefect-dask
 	branch = refs/heads/main
+[submodule "enforce-typing"]
+	url = https://github.com/conda-forge/enforce-typing-feedstock.git
+	path = feedstocks/enforce-typing
+	branch = refs/heads/main
