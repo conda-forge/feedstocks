@@ -69262,3 +69262,7 @@
 	url = https://github.com/conda-forge/unicaps-feedstock.git
 	path = feedstocks/unicaps
 	branch = refs/heads/main
+[submodule "ducks"]
+	url = https://github.com/conda-forge/ducks-feedstock.git
+	path = feedstocks/ducks
+	branch = refs/heads/main
