@@ -69214,3 +69214,7 @@
 	url = https://github.com/conda-forge/enforce-typing-feedstock.git
 	path = feedstocks/enforce-typing
 	branch = refs/heads/main
+[submodule "readerwriterlock"]
+	url = https://github.com/conda-forge/readerwriterlock-feedstock.git
+	path = feedstocks/readerwriterlock
+	branch = refs/heads/main
