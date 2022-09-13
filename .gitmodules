@@ -69242,3 +69242,7 @@
 	url = https://github.com/conda-forge/perl-test-feedstock.git
 	path = feedstocks/perl-test
 	branch = refs/heads/main
+[submodule "numbagg"]
+	url = https://github.com/conda-forge/numbagg-feedstock.git
+	path = feedstocks/numbagg
+	branch = refs/heads/main
