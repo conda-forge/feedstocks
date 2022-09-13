@@ -69218,3 +69218,7 @@
 	url = https://github.com/conda-forge/readerwriterlock-feedstock.git
 	path = feedstocks/readerwriterlock
 	branch = refs/heads/main
+[submodule "marqo"]
+	url = https://github.com/conda-forge/marqo-feedstock.git
+	path = feedstocks/marqo
+	branch = refs/heads/main
