@@ -69238,3 +69238,7 @@
 	url = https://github.com/conda-forge/pyproject-flake8-feedstock.git
 	path = feedstocks/pyproject-flake8
 	branch = refs/heads/main
+[submodule "perl-test"]
+	url = https://github.com/conda-forge/perl-test-feedstock.git
+	path = feedstocks/perl-test
+	branch = refs/heads/main
