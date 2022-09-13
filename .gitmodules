@@ -69270,3 +69270,7 @@
 	url = https://github.com/conda-forge/ablang-feedstock.git
 	path = feedstocks/ablang
 	branch = refs/heads/main
+[submodule "flwr"]
+	url = https://github.com/conda-forge/flwr-feedstock.git
+	path = feedstocks/flwr
+	branch = refs/heads/main
