@@ -69250,3 +69250,7 @@
 	url = https://github.com/conda-forge/pep440-feedstock.git
 	path = feedstocks/pep440
 	branch = refs/heads/main
+[submodule "herbie-data"]
+	url = https://github.com/conda-forge/herbie-data-feedstock.git
+	path = feedstocks/herbie-data
+	branch = refs/heads/main
