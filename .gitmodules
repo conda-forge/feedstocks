@@ -69234,3 +69234,7 @@
 	url = https://github.com/conda-forge/iterators-feedstock.git
 	path = feedstocks/iterators
 	branch = refs/heads/main
+[submodule "pyproject-flake8"]
+	url = https://github.com/conda-forge/pyproject-flake8-feedstock.git
+	path = feedstocks/pyproject-flake8
+	branch = refs/heads/main
