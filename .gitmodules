@@ -69230,3 +69230,7 @@
 	url = https://github.com/conda-forge/django-htmx-feedstock.git
 	path = feedstocks/django-htmx
 	branch = refs/heads/main
+[submodule "iterators"]
+	url = https://github.com/conda-forge/iterators-feedstock.git
+	path = feedstocks/iterators
+	branch = refs/heads/main
