@@ -69258,3 +69258,7 @@
 	url = https://github.com/conda-forge/starlite-feedstock.git
 	path = feedstocks/starlite
 	branch = refs/heads/main
+[submodule "unicaps"]
+	url = https://github.com/conda-forge/unicaps-feedstock.git
+	path = feedstocks/unicaps
+	branch = refs/heads/main
