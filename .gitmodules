@@ -69274,3 +69274,7 @@
 	url = https://github.com/conda-forge/flwr-feedstock.git
 	path = feedstocks/flwr
 	branch = refs/heads/main
+[submodule "performer-pytorch"]
+	url = https://github.com/conda-forge/performer-pytorch-feedstock.git
+	path = feedstocks/performer-pytorch
+	branch = refs/heads/main
