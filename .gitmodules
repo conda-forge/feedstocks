@@ -69246,3 +69246,7 @@
 	url = https://github.com/conda-forge/numbagg-feedstock.git
 	path = feedstocks/numbagg
 	branch = refs/heads/main
+[submodule "pep440"]
+	url = https://github.com/conda-forge/pep440-feedstock.git
+	path = feedstocks/pep440
+	branch = refs/heads/main
