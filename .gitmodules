@@ -69206,3 +69206,7 @@
 	url = https://github.com/conda-forge/lsstdesc-galsampler-feedstock.git
 	path = feedstocks/lsstdesc-galsampler
 	branch = refs/heads/main
+[submodule "prefect-dask"]
+	url = https://github.com/conda-forge/prefect-dask-feedstock.git
+	path = feedstocks/prefect-dask
+	branch = refs/heads/main
