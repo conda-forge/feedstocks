@@ -69222,3 +69222,7 @@
 	url = https://github.com/conda-forge/marqo-feedstock.git
 	path = feedstocks/marqo
 	branch = refs/heads/main
+[submodule "regressio"]
+	url = https://github.com/conda-forge/regressio-feedstock.git
+	path = feedstocks/regressio
+	branch = refs/heads/main
