@@ -69286,3 +69286,7 @@
 	url = https://github.com/conda-forge/model_catalogs-feedstock.git
 	path = feedstocks/model_catalogs
 	branch = refs/heads/main
+[submodule "h5grove"]
+	url = https://github.com/conda-forge/h5grove-feedstock.git
+	path = feedstocks/h5grove
+	branch = refs/heads/main
