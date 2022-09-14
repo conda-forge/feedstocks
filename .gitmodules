@@ -69302,3 +69302,7 @@
 	url = https://github.com/conda-forge/ennemi-feedstock.git
 	path = feedstocks/ennemi
 	branch = refs/heads/main
+[submodule "inn-interface"]
+	url = https://github.com/conda-forge/inn-interface-feedstock.git
+	path = feedstocks/inn-interface
+	branch = refs/heads/main
