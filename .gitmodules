@@ -69310,3 +69310,7 @@
 	url = https://github.com/conda-forge/torchtime-feedstock.git
 	path = feedstocks/torchtime
 	branch = refs/heads/main
+[submodule "pado"]
+	url = https://github.com/conda-forge/pado-feedstock.git
+	path = feedstocks/pado
+	branch = refs/heads/main
