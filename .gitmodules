@@ -69278,3 +69278,7 @@
 	url = https://github.com/conda-forge/performer-pytorch-feedstock.git
 	path = feedstocks/performer-pytorch
 	branch = refs/heads/main
+[submodule "xradar"]
+	url = https://github.com/conda-forge/xradar-feedstock.git
+	path = feedstocks/xradar
+	branch = refs/heads/main
