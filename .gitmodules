@@ -69282,3 +69282,7 @@
 	url = https://github.com/conda-forge/xradar-feedstock.git
 	path = feedstocks/xradar
 	branch = refs/heads/main
+[submodule "model_catalogs"]
+	url = https://github.com/conda-forge/model_catalogs-feedstock.git
+	path = feedstocks/model_catalogs
+	branch = refs/heads/main
