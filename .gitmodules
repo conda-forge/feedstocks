@@ -69306,3 +69306,7 @@
 	url = https://github.com/conda-forge/inn-interface-feedstock.git
 	path = feedstocks/inn-interface
 	branch = refs/heads/main
+[submodule "torchtime"]
+	url = https://github.com/conda-forge/torchtime-feedstock.git
+	path = feedstocks/torchtime
+	branch = refs/heads/main
