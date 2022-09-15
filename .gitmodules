@@ -69338,3 +69338,7 @@
 	url = https://github.com/conda-forge/starlite-jwt-feedstock.git
 	path = feedstocks/starlite-jwt
 	branch = refs/heads/main
+[submodule "edrixs"]
+	url = https://github.com/conda-forge/edrixs-feedstock.git
+	path = feedstocks/edrixs
+	branch = refs/heads/main
