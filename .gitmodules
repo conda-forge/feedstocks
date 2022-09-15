@@ -69342,3 +69342,7 @@
 	url = https://github.com/conda-forge/edrixs-feedstock.git
 	path = feedstocks/edrixs
 	branch = refs/heads/main
+[submodule "dimorphite-dl"]
+	url = https://github.com/conda-forge/dimorphite-dl-feedstock.git
+	path = feedstocks/dimorphite-dl
+	branch = refs/heads/main
