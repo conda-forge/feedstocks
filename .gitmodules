@@ -69318,3 +69318,7 @@
 	url = https://github.com/conda-forge/cwl-utils-feedstock.git
 	path = feedstocks/cwl-utils
 	branch = refs/heads/main
+[submodule "optking"]
+	url = https://github.com/conda-forge/optking-feedstock.git
+	path = feedstocks/optking
+	branch = refs/heads/main
