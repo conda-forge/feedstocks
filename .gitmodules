@@ -69314,3 +69314,7 @@
 	url = https://github.com/conda-forge/pado-feedstock.git
 	path = feedstocks/pado
 	branch = refs/heads/main
+[submodule "cwl-utils"]
+	url = https://github.com/conda-forge/cwl-utils-feedstock.git
+	path = feedstocks/cwl-utils
+	branch = refs/heads/main
