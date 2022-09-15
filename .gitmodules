@@ -69330,3 +69330,7 @@
 	url = https://github.com/conda-forge/confection-feedstock.git
 	path = feedstocks/confection
 	branch = refs/heads/main
+[submodule "jupyros"]
+	url = https://github.com/conda-forge/jupyros-feedstock.git
+	path = feedstocks/jupyros
+	branch = refs/heads/main
