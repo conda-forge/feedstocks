@@ -69334,3 +69334,7 @@
 	url = https://github.com/conda-forge/jupyros-feedstock.git
 	path = feedstocks/jupyros
 	branch = refs/heads/main
+[submodule "starlite-jwt"]
+	url = https://github.com/conda-forge/starlite-jwt-feedstock.git
+	path = feedstocks/starlite-jwt
+	branch = refs/heads/main
