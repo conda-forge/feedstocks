@@ -69326,3 +69326,7 @@
 	url = https://github.com/conda-forge/grapheme-feedstock.git
 	path = feedstocks/grapheme
 	branch = refs/heads/main
+[submodule "confection"]
+	url = https://github.com/conda-forge/confection-feedstock.git
+	path = feedstocks/confection
+	branch = refs/heads/main
