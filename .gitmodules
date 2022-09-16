@@ -69362,3 +69362,7 @@
 	url = https://github.com/conda-forge/scriptengine-feedstock.git
 	path = feedstocks/scriptengine
 	branch = refs/heads/main
+[submodule "r-piggyback"]
+	url = https://github.com/conda-forge/r-piggyback-feedstock.git
+	path = feedstocks/r-piggyback
+	branch = refs/heads/main
