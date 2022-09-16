@@ -69358,3 +69358,7 @@
 	url = https://github.com/conda-forge/album-feedstock.git
 	path = feedstocks/album
 	branch = refs/heads/main
+[submodule "scriptengine"]
+	url = https://github.com/conda-forge/scriptengine-feedstock.git
+	path = feedstocks/scriptengine
+	branch = refs/heads/main
