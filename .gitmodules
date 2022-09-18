@@ -69366,3 +69366,7 @@
 	url = https://github.com/conda-forge/r-piggyback-feedstock.git
 	path = feedstocks/r-piggyback
 	branch = refs/heads/main
+[submodule "prefect-ray"]
+	url = https://github.com/conda-forge/prefect-ray-feedstock.git
+	path = feedstocks/prefect-ray
+	branch = refs/heads/main
