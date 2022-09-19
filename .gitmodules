@@ -69374,3 +69374,7 @@
 	url = https://github.com/conda-forge/mp-api-feedstock.git
 	path = feedstocks/mp-api
 	branch = refs/heads/main
+[submodule "emmet-core"]
+	url = https://github.com/conda-forge/emmet-core-feedstock.git
+	path = feedstocks/emmet-core
+	branch = refs/heads/main
