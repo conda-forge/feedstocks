@@ -69370,3 +69370,7 @@
 	url = https://github.com/conda-forge/prefect-ray-feedstock.git
 	path = feedstocks/prefect-ray
 	branch = refs/heads/main
+[submodule "mp-api"]
+	url = https://github.com/conda-forge/mp-api-feedstock.git
+	path = feedstocks/mp-api
+	branch = refs/heads/main
