@@ -69398,3 +69398,7 @@
 	url = https://github.com/conda-forge/roaring-landmask-feedstock.git
 	path = feedstocks/roaring-landmask
 	branch = refs/heads/main
+[submodule "opendrift"]
+	url = https://github.com/conda-forge/opendrift-feedstock.git
+	path = feedstocks/opendrift
+	branch = refs/heads/main
