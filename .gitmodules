@@ -69406,3 +69406,7 @@
 	url = https://github.com/conda-forge/jupyter_app_launcher-feedstock.git
 	path = feedstocks/jupyter_app_launcher
 	branch = refs/heads/main
+[submodule "lumen"]
+	url = https://github.com/conda-forge/lumen-feedstock.git
+	path = feedstocks/lumen
+	branch = refs/heads/main
