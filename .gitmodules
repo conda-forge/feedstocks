@@ -69402,3 +69402,7 @@
 	url = https://github.com/conda-forge/opendrift-feedstock.git
 	path = feedstocks/opendrift
 	branch = refs/heads/main
+[submodule "jupyter_app_launcher"]
+	url = https://github.com/conda-forge/jupyter_app_launcher-feedstock.git
+	path = feedstocks/jupyter_app_launcher
+	branch = refs/heads/main
