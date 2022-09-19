@@ -69410,3 +69410,7 @@
 	url = https://github.com/conda-forge/lumen-feedstock.git
 	path = feedstocks/lumen
 	branch = refs/heads/main
+[submodule "dpdispatcher"]
+	url = https://github.com/conda-forge/dpdispatcher-feedstock.git
+	path = feedstocks/dpdispatcher
+	branch = refs/heads/main
