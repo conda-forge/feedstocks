@@ -69426,3 +69426,7 @@
 	url = https://github.com/conda-forge/pgmpy-feedstock.git
 	path = feedstocks/pgmpy
 	branch = refs/heads/main
+[submodule "causalnex"]
+	url = https://github.com/conda-forge/causalnex-feedstock.git
+	path = feedstocks/causalnex
+	branch = refs/heads/main
