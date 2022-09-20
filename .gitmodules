@@ -69458,3 +69458,7 @@
 	url = https://github.com/conda-forge/grplot-feedstock.git
 	path = feedstocks/grplot
 	branch = refs/heads/main
+[submodule "mpl-gui"]
+	url = https://github.com/conda-forge/mpl-gui-feedstock.git
+	path = feedstocks/mpl-gui
+	branch = refs/heads/main
