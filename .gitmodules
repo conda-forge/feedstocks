@@ -69422,3 +69422,7 @@
 	url = https://github.com/conda-forge/tig-feedstock.git
 	path = feedstocks/tig
 	branch = refs/heads/main
+[submodule "pgmpy"]
+	url = https://github.com/conda-forge/pgmpy-feedstock.git
+	path = feedstocks/pgmpy
+	branch = refs/heads/main
