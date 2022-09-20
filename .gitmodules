@@ -69494,3 +69494,7 @@
 	url = https://github.com/conda-forge/matplotview-feedstock.git
 	path = feedstocks/matplotview
 	branch = refs/heads/main
+[submodule "pymatviz"]
+	url = https://github.com/conda-forge/pymatviz-feedstock.git
+	path = feedstocks/pymatviz
+	branch = refs/heads/main
