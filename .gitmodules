@@ -69482,3 +69482,7 @@
 	url = https://github.com/conda-forge/figpager-feedstock.git
 	path = feedstocks/figpager
 	branch = refs/heads/main
+[submodule "python-utilities-jsm"]
+	url = https://github.com/conda-forge/python-utilities-jsm-feedstock.git
+	path = feedstocks/python-utilities-jsm
+	branch = refs/heads/main
