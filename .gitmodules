@@ -69498,3 +69498,7 @@
 	url = https://github.com/conda-forge/pymatviz-feedstock.git
 	path = feedstocks/pymatviz
 	branch = refs/heads/main
+[submodule "hatch-requirements-txt"]
+	url = https://github.com/conda-forge/hatch-requirements-txt-feedstock.git
+	path = feedstocks/hatch-requirements-txt
+	branch = refs/heads/main
