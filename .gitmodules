@@ -69434,3 +69434,7 @@
 	url = https://github.com/conda-forge/cplot-feedstock.git
 	path = feedstocks/cplot
 	branch = refs/heads/main
+[submodule "wrfplot"]
+	url = https://github.com/conda-forge/wrfplot-feedstock.git
+	path = feedstocks/wrfplot
+	branch = refs/heads/main
