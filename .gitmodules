@@ -69462,3 +69462,7 @@
 	url = https://github.com/conda-forge/mpl-gui-feedstock.git
 	path = feedstocks/mpl-gui
 	branch = refs/heads/main
+[submodule "fps-frontend"]
+	url = https://github.com/conda-forge/fps-frontend-feedstock.git
+	path = feedstocks/fps-frontend
+	branch = refs/heads/main
