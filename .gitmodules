@@ -69502,3 +69502,7 @@
 	url = https://github.com/conda-forge/hatch-requirements-txt-feedstock.git
 	path = feedstocks/hatch-requirements-txt
 	branch = refs/heads/main
+[submodule "parmoo"]
+	url = https://github.com/conda-forge/parmoo-feedstock.git
+	path = feedstocks/parmoo
+	branch = refs/heads/main
