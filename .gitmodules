@@ -69582,3 +69582,7 @@
 	url = https://github.com/conda-forge/sardana-tango-feedstock.git
 	path = feedstocks/sardana-tango
 	branch = refs/heads/main
+[submodule "google-cloud-pubsublite"]
+	url = https://github.com/conda-forge/google-cloud-pubsublite-feedstock.git
+	path = feedstocks/google-cloud-pubsublite
+	branch = refs/heads/main
