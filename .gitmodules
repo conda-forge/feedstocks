@@ -69538,3 +69538,7 @@
 	url = https://github.com/conda-forge/de-strahlenschutz-feedstock.git
 	path = feedstocks/de-strahlenschutz
 	branch = refs/heads/main
+[submodule "de-mudab"]
+	url = https://github.com/conda-forge/de-mudab-feedstock.git
+	path = feedstocks/de-mudab
+	branch = refs/heads/main
