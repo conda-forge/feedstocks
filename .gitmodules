@@ -69574,3 +69574,7 @@
 	url = https://github.com/conda-forge/ploomber-engine-feedstock.git
 	path = feedstocks/ploomber-engine
 	branch = refs/heads/main
+[submodule "hyram"]
+	url = https://github.com/conda-forge/hyram-feedstock.git
+	path = feedstocks/hyram
+	branch = refs/heads/main
