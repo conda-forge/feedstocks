@@ -69590,3 +69590,7 @@
 	url = https://github.com/conda-forge/miniwdl-slurm-feedstock.git
 	path = feedstocks/miniwdl-slurm
 	branch = refs/heads/main
+[submodule "cool_maps"]
+	url = https://github.com/conda-forge/cool_maps-feedstock.git
+	path = feedstocks/cool_maps
+	branch = refs/heads/main
