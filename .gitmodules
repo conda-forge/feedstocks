@@ -69570,3 +69570,7 @@
 	url = https://github.com/conda-forge/yaqd-zaber-feedstock.git
 	path = feedstocks/yaqd-zaber
 	branch = refs/heads/main
+[submodule "ploomber-engine"]
+	url = https://github.com/conda-forge/ploomber-engine-feedstock.git
+	path = feedstocks/ploomber-engine
+	branch = refs/heads/main
