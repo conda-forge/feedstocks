@@ -69578,3 +69578,7 @@
 	url = https://github.com/conda-forge/hyram-feedstock.git
 	path = feedstocks/hyram
 	branch = refs/heads/main
+[submodule "sardana-tango"]
+	url = https://github.com/conda-forge/sardana-tango-feedstock.git
+	path = feedstocks/sardana-tango
+	branch = refs/heads/main
