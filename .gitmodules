@@ -69506,3 +69506,7 @@
 	url = https://github.com/conda-forge/parmoo-feedstock.git
 	path = feedstocks/parmoo
 	branch = refs/heads/main
+[submodule "switcheroo"]
+	url = https://github.com/conda-forge/switcheroo-feedstock.git
+	path = feedstocks/switcheroo
+	branch = refs/heads/main
