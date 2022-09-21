@@ -69510,3 +69510,7 @@
 	url = https://github.com/conda-forge/switcheroo-feedstock.git
 	path = feedstocks/switcheroo
 	branch = refs/heads/main
+[submodule "fps-auth-base"]
+	url = https://github.com/conda-forge/fps-auth-base-feedstock.git
+	path = feedstocks/fps-auth-base
+	branch = refs/heads/main
