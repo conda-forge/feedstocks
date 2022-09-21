@@ -69586,3 +69586,7 @@
 	url = https://github.com/conda-forge/google-cloud-pubsublite-feedstock.git
 	path = feedstocks/google-cloud-pubsublite
 	branch = refs/heads/main
+[submodule "miniwdl-slurm"]
+	url = https://github.com/conda-forge/miniwdl-slurm-feedstock.git
+	path = feedstocks/miniwdl-slurm
+	branch = refs/heads/main
