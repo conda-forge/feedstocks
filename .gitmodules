@@ -69610,3 +69610,7 @@
 	url = https://github.com/conda-forge/mpl-template-feedstock.git
 	path = feedstocks/mpl-template
 	branch = refs/heads/main
+[submodule "pycircos"]
+	url = https://github.com/conda-forge/pycircos-feedstock.git
+	path = feedstocks/pycircos
+	branch = refs/heads/main
