@@ -69598,3 +69598,7 @@
 	url = https://github.com/conda-forge/perl-sub-info-feedstock.git
 	path = feedstocks/perl-sub-info
 	branch = refs/heads/main
+[submodule "sardana-icepap"]
+	url = https://github.com/conda-forge/sardana-icepap-feedstock.git
+	path = feedstocks/sardana-icepap
+	branch = refs/heads/main
