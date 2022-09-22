@@ -69606,3 +69606,7 @@
 	url = https://github.com/conda-forge/kubo-feedstock.git
 	path = feedstocks/kubo
 	branch = refs/heads/main
+[submodule "mpl-template"]
+	url = https://github.com/conda-forge/mpl-template-feedstock.git
+	path = feedstocks/mpl-template
+	branch = refs/heads/main
