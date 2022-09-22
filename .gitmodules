@@ -69642,3 +69642,7 @@
 	url = https://github.com/conda-forge/pypmc-feedstock.git
 	path = feedstocks/pypmc
 	branch = refs/heads/main
+[submodule "thatool"]
+	url = https://github.com/conda-forge/thatool-feedstock.git
+	path = feedstocks/thatool
+	branch = refs/heads/main
