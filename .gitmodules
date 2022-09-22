@@ -69602,3 +69602,7 @@
 	url = https://github.com/conda-forge/sardana-icepap-feedstock.git
 	path = feedstocks/sardana-icepap
 	branch = refs/heads/main
+[submodule "kubo"]
+	url = https://github.com/conda-forge/kubo-feedstock.git
+	path = feedstocks/kubo
+	branch = refs/heads/main
