@@ -69614,3 +69614,7 @@
 	url = https://github.com/conda-forge/pycircos-feedstock.git
 	path = feedstocks/pycircos
 	branch = refs/heads/main
+[submodule "runpynb"]
+	url = https://github.com/conda-forge/runpynb-feedstock.git
+	path = feedstocks/runpynb
+	branch = refs/heads/main
