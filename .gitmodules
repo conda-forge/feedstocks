@@ -69630,3 +69630,7 @@
 	url = https://github.com/conda-forge/detox-feedstock.git
 	path = feedstocks/detox
 	branch = refs/heads/main
+[submodule "bidsschematools"]
+	url = https://github.com/conda-forge/bidsschematools-feedstock.git
+	path = feedstocks/bidsschematools
+	branch = refs/heads/main
