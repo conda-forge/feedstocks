@@ -69638,3 +69638,7 @@
 	url = https://github.com/conda-forge/gromacswrapper-feedstock.git
 	path = feedstocks/gromacswrapper
 	branch = refs/heads/main
+[submodule "pypmc"]
+	url = https://github.com/conda-forge/pypmc-feedstock.git
+	path = feedstocks/pypmc
+	branch = refs/heads/main
