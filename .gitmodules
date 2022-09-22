@@ -69622,3 +69622,7 @@
 	url = https://github.com/conda-forge/mesmerize-core-feedstock.git
 	path = feedstocks/mesmerize-core
 	branch = refs/heads/main
+[submodule "perl-digest-md5"]
+	url = https://github.com/conda-forge/perl-digest-md5-feedstock.git
+	path = feedstocks/perl-digest-md5
+	branch = refs/heads/main
