@@ -69618,3 +69618,7 @@
 	url = https://github.com/conda-forge/runpynb-feedstock.git
 	path = feedstocks/runpynb
 	branch = refs/heads/main
+[submodule "mesmerize-core"]
+	url = https://github.com/conda-forge/mesmerize-core-feedstock.git
+	path = feedstocks/mesmerize-core
+	branch = refs/heads/main
