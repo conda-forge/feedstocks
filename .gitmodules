@@ -69626,3 +69626,7 @@
 	url = https://github.com/conda-forge/perl-digest-md5-feedstock.git
 	path = feedstocks/perl-digest-md5
 	branch = refs/heads/main
+[submodule "detox"]
+	url = https://github.com/conda-forge/detox-feedstock.git
+	path = feedstocks/detox
+	branch = refs/heads/main
