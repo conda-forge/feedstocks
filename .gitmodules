@@ -69646,3 +69646,7 @@
 	url = https://github.com/conda-forge/thatool-feedstock.git
 	path = feedstocks/thatool
 	branch = refs/heads/main
+[submodule "perl-text-diff"]
+	url = https://github.com/conda-forge/perl-text-diff-feedstock.git
+	path = feedstocks/perl-text-diff
+	branch = refs/heads/main
