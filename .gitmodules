@@ -69650,3 +69650,7 @@
 	url = https://github.com/conda-forge/perl-text-diff-feedstock.git
 	path = feedstocks/perl-text-diff
 	branch = refs/heads/main
+[submodule "perl-lib"]
+	url = https://github.com/conda-forge/perl-lib-feedstock.git
+	path = feedstocks/perl-lib
+	branch = refs/heads/main
