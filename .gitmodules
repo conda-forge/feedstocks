@@ -69686,3 +69686,7 @@
 	url = https://github.com/conda-forge/transformato-feedstock.git
 	path = feedstocks/transformato
 	branch = refs/heads/main
+[submodule "perl-extutils-constant"]
+	url = https://github.com/conda-forge/perl-extutils-constant-feedstock.git
+	path = feedstocks/perl-extutils-constant
+	branch = refs/heads/main
