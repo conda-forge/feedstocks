@@ -69674,3 +69674,7 @@
 	url = https://github.com/conda-forge/pycollage-feedstock.git
 	path = feedstocks/pycollage
 	branch = refs/heads/main
+[submodule "mpl-qtthread"]
+	url = https://github.com/conda-forge/mpl-qtthread-feedstock.git
+	path = feedstocks/mpl-qtthread
+	branch = refs/heads/main
