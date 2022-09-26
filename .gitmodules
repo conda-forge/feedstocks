@@ -69710,3 +69710,7 @@
 	url = https://github.com/conda-forge/perl-tie-refhash-feedstock.git
 	path = feedstocks/perl-tie-refhash
 	branch = refs/heads/main
+[submodule "perl-text-csv"]
+	url = https://github.com/conda-forge/perl-text-csv-feedstock.git
+	path = feedstocks/perl-text-csv
+	branch = refs/heads/main
