@@ -69718,3 +69718,7 @@
 	url = https://github.com/conda-forge/pylustrator-feedstock.git
 	path = feedstocks/pylustrator
 	branch = refs/heads/main
+[submodule "pytest-postgresql"]
+	url = https://github.com/conda-forge/pytest-postgresql-feedstock.git
+	path = feedstocks/pytest-postgresql
+	branch = refs/heads/main
