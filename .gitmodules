@@ -69654,3 +69654,7 @@
 	url = https://github.com/conda-forge/perl-lib-feedstock.git
 	path = feedstocks/perl-lib
 	branch = refs/heads/main
+[submodule "fps-noauth"]
+	url = https://github.com/conda-forge/fps-noauth-feedstock.git
+	path = feedstocks/fps-noauth
+	branch = refs/heads/main
