@@ -69722,3 +69722,7 @@
 	url = https://github.com/conda-forge/pytest-postgresql-feedstock.git
 	path = feedstocks/pytest-postgresql
 	branch = refs/heads/main
+[submodule "mirakuru"]
+	url = https://github.com/conda-forge/mirakuru-feedstock.git
+	path = feedstocks/mirakuru
+	branch = refs/heads/main
