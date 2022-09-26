@@ -69702,3 +69702,7 @@
 	url = https://github.com/conda-forge/appmar-feedstock.git
 	path = feedstocks/appmar
 	branch = refs/heads/main
+[submodule "markdown-customblocks"]
+	url = https://github.com/conda-forge/markdown-customblocks-feedstock.git
+	path = feedstocks/markdown-customblocks
+	branch = refs/heads/main
