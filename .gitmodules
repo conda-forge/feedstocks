@@ -69694,3 +69694,7 @@
 	url = https://github.com/conda-forge/bakelite-feedstock.git
 	path = feedstocks/bakelite
 	branch = refs/heads/main
+[submodule "perl-number-compare"]
+	url = https://github.com/conda-forge/perl-number-compare-feedstock.git
+	path = feedstocks/perl-number-compare
+	branch = refs/heads/main
