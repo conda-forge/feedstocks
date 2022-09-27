@@ -69726,3 +69726,7 @@
 	url = https://github.com/conda-forge/mirakuru-feedstock.git
 	path = feedstocks/mirakuru
 	branch = refs/heads/main
+[submodule "perl-io-gzip"]
+	url = https://github.com/conda-forge/perl-io-gzip-feedstock.git
+	path = feedstocks/perl-io-gzip
+	branch = refs/heads/main
