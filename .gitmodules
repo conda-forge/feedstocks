@@ -69774,3 +69774,7 @@
 	url = https://github.com/conda-forge/xcube-cmems-feedstock.git
 	path = feedstocks/xcube-cmems
 	branch = refs/heads/main
+[submodule "blackjax"]
+	url = https://github.com/conda-forge/blackjax-feedstock.git
+	path = feedstocks/blackjax
+	branch = refs/heads/main
