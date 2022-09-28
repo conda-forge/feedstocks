@@ -69758,3 +69758,7 @@
 	url = https://github.com/conda-forge/perl-encode-feedstock.git
 	path = feedstocks/perl-encode
 	branch = refs/heads/main
+[submodule "osyris"]
+	url = https://github.com/conda-forge/osyris-feedstock.git
+	path = feedstocks/osyris
+	branch = refs/heads/main
