@@ -69750,3 +69750,7 @@
 	url = https://github.com/conda-forge/kvh-feedstock.git
 	path = feedstocks/kvh
 	branch = refs/heads/main
+[submodule "bgslibrary"]
+	url = https://github.com/conda-forge/bgslibrary-feedstock.git
+	path = feedstocks/bgslibrary
+	branch = refs/heads/main
