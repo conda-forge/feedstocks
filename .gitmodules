@@ -69738,3 +69738,7 @@
 	url = https://github.com/conda-forge/glasflow-feedstock.git
 	path = feedstocks/glasflow
 	branch = refs/heads/main
+[submodule "r-explore"]
+	url = https://github.com/conda-forge/r-explore-feedstock.git
+	path = feedstocks/r-explore
+	branch = refs/heads/main
