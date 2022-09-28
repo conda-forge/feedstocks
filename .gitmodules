@@ -69746,3 +69746,7 @@
 	url = https://github.com/conda-forge/perl-set-scalar-feedstock.git
 	path = feedstocks/perl-set-scalar
 	branch = refs/heads/main
+[submodule "kvh"]
+	url = https://github.com/conda-forge/kvh-feedstock.git
+	path = feedstocks/kvh
+	branch = refs/heads/main
