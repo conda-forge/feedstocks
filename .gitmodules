@@ -69734,3 +69734,7 @@
 	url = https://github.com/conda-forge/jaxopt-feedstock.git
 	path = feedstocks/jaxopt
 	branch = refs/heads/main
+[submodule "glasflow"]
+	url = https://github.com/conda-forge/glasflow-feedstock.git
+	path = feedstocks/glasflow
+	branch = refs/heads/main
