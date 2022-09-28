@@ -69762,3 +69762,7 @@
 	url = https://github.com/conda-forge/osyris-feedstock.git
 	path = feedstocks/osyris
 	branch = refs/heads/main
+[submodule "duckcli"]
+	url = https://github.com/conda-forge/duckcli-feedstock.git
+	path = feedstocks/duckcli
+	branch = refs/heads/main
