@@ -69770,3 +69770,7 @@
 	url = https://github.com/conda-forge/sphinx-subfigure-feedstock.git
 	path = feedstocks/sphinx-subfigure
 	branch = refs/heads/main
+[submodule "xcube-cmems"]
+	url = https://github.com/conda-forge/xcube-cmems-feedstock.git
+	path = feedstocks/xcube-cmems
+	branch = refs/heads/main
