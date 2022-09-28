@@ -69754,3 +69754,7 @@
 	url = https://github.com/conda-forge/bgslibrary-feedstock.git
 	path = feedstocks/bgslibrary
 	branch = refs/heads/main
+[submodule "perl-encode"]
+	url = https://github.com/conda-forge/perl-encode-feedstock.git
+	path = feedstocks/perl-encode
+	branch = refs/heads/main
