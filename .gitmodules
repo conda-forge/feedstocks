@@ -69730,3 +69730,7 @@
 	url = https://github.com/conda-forge/perl-io-gzip-feedstock.git
 	path = feedstocks/perl-io-gzip
 	branch = refs/heads/main
+[submodule "jaxopt"]
+	url = https://github.com/conda-forge/jaxopt-feedstock.git
+	path = feedstocks/jaxopt
+	branch = refs/heads/main
