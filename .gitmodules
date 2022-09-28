@@ -69778,3 +69778,7 @@
 	url = https://github.com/conda-forge/blackjax-feedstock.git
 	path = feedstocks/blackjax
 	branch = refs/heads/main
+[submodule "mpltoolbox"]
+	url = https://github.com/conda-forge/mpltoolbox-feedstock.git
+	path = feedstocks/mpltoolbox
+	branch = refs/heads/main
