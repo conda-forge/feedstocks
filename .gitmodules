@@ -69818,3 +69818,7 @@
 	url = https://github.com/conda-forge/jupyterlab-h5web-feedstock.git
 	path = feedstocks/jupyterlab-h5web
 	branch = refs/heads/main
+[submodule "jupyterlab-lego-boost"]
+	url = https://github.com/conda-forge/jupyterlab-lego-boost-feedstock.git
+	path = feedstocks/jupyterlab-lego-boost
+	branch = refs/heads/main
