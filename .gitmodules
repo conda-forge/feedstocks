@@ -69802,3 +69802,7 @@
 	url = https://github.com/conda-forge/perl-text-abbrev-feedstock.git
 	path = feedstocks/perl-text-abbrev
 	branch = refs/heads/main
+[submodule "perl-text-parsewords"]
+	url = https://github.com/conda-forge/perl-text-parsewords-feedstock.git
+	path = feedstocks/perl-text-parsewords
+	branch = refs/heads/main
