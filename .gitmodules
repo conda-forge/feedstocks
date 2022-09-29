@@ -69782,3 +69782,7 @@
 	url = https://github.com/conda-forge/mpltoolbox-feedstock.git
 	path = feedstocks/mpltoolbox
 	branch = refs/heads/main
+[submodule "gz-cmake"]
+	url = https://github.com/conda-forge/gz-cmake-feedstock.git
+	path = feedstocks/gz-cmake
+	branch = refs/heads/main
