@@ -69826,3 +69826,7 @@
 	url = https://github.com/conda-forge/panoptes-client-feedstock.git
 	path = feedstocks/panoptes-client
 	branch = refs/heads/main
+[submodule "collatex-python"]
+	url = https://github.com/conda-forge/collatex-python-feedstock.git
+	path = feedstocks/collatex-python
+	branch = refs/heads/main
