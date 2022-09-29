@@ -69842,3 +69842,7 @@
 	url = https://github.com/conda-forge/nvidia-ml-py-feedstock.git
 	path = feedstocks/nvidia-ml-py
 	branch = refs/heads/main
+[submodule "pydaqmx"]
+	url = https://github.com/conda-forge/pydaqmx-feedstock.git
+	path = feedstocks/pydaqmx
+	branch = refs/heads/main
