@@ -69846,3 +69846,7 @@
 	url = https://github.com/conda-forge/pydaqmx-feedstock.git
 	path = feedstocks/pydaqmx
 	branch = refs/heads/main
+[submodule "picosdk"]
+	url = https://github.com/conda-forge/picosdk-feedstock.git
+	path = feedstocks/picosdk
+	branch = refs/heads/main
