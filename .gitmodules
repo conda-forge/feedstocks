@@ -69878,3 +69878,7 @@
 	url = https://github.com/conda-forge/mage-ai-feedstock.git
 	path = feedstocks/mage-ai
 	branch = refs/heads/main
+[submodule "marslab"]
+	url = https://github.com/conda-forge/marslab-feedstock.git
+	path = feedstocks/marslab
+	branch = refs/heads/main
