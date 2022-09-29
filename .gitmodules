@@ -69786,3 +69786,7 @@
 	url = https://github.com/conda-forge/gz-cmake-feedstock.git
 	path = feedstocks/gz-cmake
 	branch = refs/heads/main
+[submodule "pytest-unordered"]
+	url = https://github.com/conda-forge/pytest-unordered-feedstock.git
+	path = feedstocks/pytest-unordered
+	branch = refs/heads/main
