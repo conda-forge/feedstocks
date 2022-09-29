@@ -69882,3 +69882,7 @@
 	url = https://github.com/conda-forge/marslab-feedstock.git
 	path = feedstocks/marslab
 	branch = refs/heads/main
+[submodule "autobot-ml"]
+	url = https://github.com/conda-forge/autobot-ml-feedstock.git
+	path = feedstocks/autobot-ml
+	branch = refs/heads/main
