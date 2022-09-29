@@ -69870,3 +69870,7 @@
 	url = https://github.com/conda-forge/deutschland-feedstock.git
 	path = feedstocks/deutschland
 	branch = refs/heads/main
+[submodule "dask-awkward"]
+	url = https://github.com/conda-forge/dask-awkward-feedstock.git
+	path = feedstocks/dask-awkward
+	branch = refs/heads/main
