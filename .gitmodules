@@ -69806,3 +69806,7 @@
 	url = https://github.com/conda-forge/perl-text-parsewords-feedstock.git
 	path = feedstocks/perl-text-parsewords
 	branch = refs/heads/main
+[submodule "ml-collections"]
+	url = https://github.com/conda-forge/ml-collections-feedstock.git
+	path = feedstocks/ml-collections
+	branch = refs/heads/main
