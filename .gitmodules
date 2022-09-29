@@ -69822,3 +69822,7 @@
 	url = https://github.com/conda-forge/jupyterlab-lego-boost-feedstock.git
 	path = feedstocks/jupyterlab-lego-boost
 	branch = refs/heads/main
+[submodule "panoptes-client"]
+	url = https://github.com/conda-forge/panoptes-client-feedstock.git
+	path = feedstocks/panoptes-client
+	branch = refs/heads/main
