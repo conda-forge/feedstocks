@@ -69850,3 +69850,7 @@
 	url = https://github.com/conda-forge/picosdk-feedstock.git
 	path = feedstocks/picosdk
 	branch = refs/heads/main
+[submodule "latexify-py"]
+	url = https://github.com/conda-forge/latexify-py-feedstock.git
+	path = feedstocks/latexify-py
+	branch = refs/heads/main
