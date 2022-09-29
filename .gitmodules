@@ -69874,3 +69874,7 @@
 	url = https://github.com/conda-forge/dask-awkward-feedstock.git
 	path = feedstocks/dask-awkward
 	branch = refs/heads/main
+[submodule "mage-ai"]
+	url = https://github.com/conda-forge/mage-ai-feedstock.git
+	path = feedstocks/mage-ai
+	branch = refs/heads/main
