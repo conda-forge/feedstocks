@@ -69814,3 +69814,7 @@
 	url = https://github.com/conda-forge/perl-text-wrap-feedstock.git
 	path = feedstocks/perl-text-wrap
 	branch = refs/heads/main
+[submodule "jupyterlab-h5web"]
+	url = https://github.com/conda-forge/jupyterlab-h5web-feedstock.git
+	path = feedstocks/jupyterlab-h5web
+	branch = refs/heads/main
