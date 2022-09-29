@@ -69838,3 +69838,7 @@
 	url = https://github.com/conda-forge/nessai-feedstock.git
 	path = feedstocks/nessai
 	branch = refs/heads/main
+[submodule "nvidia-ml-py"]
+	url = https://github.com/conda-forge/nvidia-ml-py-feedstock.git
+	path = feedstocks/nvidia-ml-py
+	branch = refs/heads/main
