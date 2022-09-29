@@ -69858,3 +69858,7 @@
 	url = https://github.com/conda-forge/de-autobahn-feedstock.git
 	path = feedstocks/de-autobahn
 	branch = refs/heads/main
+[submodule "de-dwd"]
+	url = https://github.com/conda-forge/de-dwd-feedstock.git
+	path = feedstocks/de-dwd
+	branch = refs/heads/main
