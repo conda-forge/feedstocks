@@ -69834,3 +69834,7 @@
 	url = https://github.com/conda-forge/panoptes-aggregation-feedstock.git
 	path = feedstocks/panoptes-aggregation
 	branch = refs/heads/main
+[submodule "nessai"]
+	url = https://github.com/conda-forge/nessai-feedstock.git
+	path = feedstocks/nessai
+	branch = refs/heads/main
