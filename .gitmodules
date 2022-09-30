@@ -69930,3 +69930,7 @@
 	url = https://github.com/conda-forge/perl-text-levenshtein-feedstock.git
 	path = feedstocks/perl-text-levenshtein
 	branch = refs/heads/main
+[submodule "pitot"]
+	url = https://github.com/conda-forge/pitot-feedstock.git
+	path = feedstocks/pitot
+	branch = refs/heads/main
