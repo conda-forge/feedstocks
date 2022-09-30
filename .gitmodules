@@ -69910,3 +69910,7 @@
 	url = https://github.com/conda-forge/de-entgeltatlas-feedstock.git
 	path = feedstocks/de-entgeltatlas
 	branch = refs/heads/main
+[submodule "de-dip-bundestag"]
+	url = https://github.com/conda-forge/de-dip-bundestag-feedstock.git
+	path = feedstocks/de-dip-bundestag
+	branch = refs/heads/main
