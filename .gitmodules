@@ -69926,3 +69926,7 @@
 	url = https://github.com/conda-forge/de-ausbildungssuche-feedstock.git
 	path = feedstocks/de-ausbildungssuche
 	branch = refs/heads/main
+[submodule "perl-text-levenshtein"]
+	url = https://github.com/conda-forge/perl-text-levenshtein-feedstock.git
+	path = feedstocks/perl-text-levenshtein
+	branch = refs/heads/main
