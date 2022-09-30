@@ -69998,3 +69998,7 @@
 	url = https://github.com/conda-forge/r-prt-feedstock.git
 	path = feedstocks/r-prt
 	branch = refs/heads/main
+[submodule "pydrobert-kaldi"]
+	url = https://github.com/conda-forge/pydrobert-kaldi-feedstock.git
+	path = feedstocks/pydrobert-kaldi
+	branch = refs/heads/main
