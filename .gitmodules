@@ -69886,3 +69886,7 @@
 	url = https://github.com/conda-forge/autobot-ml-feedstock.git
 	path = feedstocks/autobot-ml
 	branch = refs/heads/main
+[submodule "hdmf_zarr"]
+	url = https://github.com/conda-forge/hdmf_zarr-feedstock.git
+	path = feedstocks/hdmf_zarr
+	branch = refs/heads/main
