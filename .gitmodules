@@ -70030,3 +70030,7 @@
 	url = https://github.com/conda-forge/espnet-feedstock.git
 	path = feedstocks/espnet
 	branch = refs/heads/main
+[submodule "espnet-tts-frontend"]
+	url = https://github.com/conda-forge/espnet-tts-frontend-feedstock.git
+	path = feedstocks/espnet-tts-frontend
+	branch = refs/heads/main
