@@ -70006,3 +70006,7 @@
 	url = https://github.com/conda-forge/pdfmm-feedstock.git
 	path = feedstocks/pdfmm
 	branch = refs/heads/main
+[submodule "r-bundle"]
+	url = https://github.com/conda-forge/r-bundle-feedstock.git
+	path = feedstocks/r-bundle
+	branch = refs/heads/main
