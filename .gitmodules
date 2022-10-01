@@ -70018,3 +70018,7 @@
 	url = https://github.com/conda-forge/ci-sdr-feedstock.git
 	path = feedstocks/ci-sdr
 	branch = refs/heads/main
+[submodule "ctc-segmentation"]
+	url = https://github.com/conda-forge/ctc-segmentation-feedstock.git
+	path = feedstocks/ctc-segmentation
+	branch = refs/heads/main
