@@ -70026,3 +70026,7 @@
 	url = https://github.com/conda-forge/pytorch-wpe-feedstock.git
 	path = feedstocks/pytorch-wpe
 	branch = refs/heads/main
+[submodule "espnet"]
+	url = https://github.com/conda-forge/espnet-feedstock.git
+	path = feedstocks/espnet
+	branch = refs/heads/main
