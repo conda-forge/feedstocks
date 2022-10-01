@@ -70050,3 +70050,7 @@
 	url = https://github.com/conda-forge/torch-complex-feedstock.git
 	path = feedstocks/torch-complex
 	branch = refs/heads/main
+[submodule "jaxtyping"]
+	url = https://github.com/conda-forge/jaxtyping-feedstock.git
+	path = feedstocks/jaxtyping
+	branch = refs/heads/main
