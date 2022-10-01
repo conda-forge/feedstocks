@@ -70046,3 +70046,7 @@
 	url = https://github.com/conda-forge/fast-bss-eval-feedstock.git
 	path = feedstocks/fast-bss-eval
 	branch = refs/heads/main
+[submodule "torch-complex"]
+	url = https://github.com/conda-forge/torch-complex-feedstock.git
+	path = feedstocks/torch-complex
+	branch = refs/heads/main
