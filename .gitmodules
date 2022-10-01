@@ -70022,3 +70022,7 @@
 	url = https://github.com/conda-forge/ctc-segmentation-feedstock.git
 	path = feedstocks/ctc-segmentation
 	branch = refs/heads/main
+[submodule "pytorch-wpe"]
+	url = https://github.com/conda-forge/pytorch-wpe-feedstock.git
+	path = feedstocks/pytorch-wpe
+	branch = refs/heads/main
