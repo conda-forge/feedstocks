@@ -70034,3 +70034,7 @@
 	url = https://github.com/conda-forge/espnet-tts-frontend-feedstock.git
 	path = feedstocks/espnet-tts-frontend
 	branch = refs/heads/main
+[submodule "jamo"]
+	url = https://github.com/conda-forge/jamo-feedstock.git
+	path = feedstocks/jamo
+	branch = refs/heads/main
