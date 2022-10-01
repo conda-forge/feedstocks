@@ -70042,3 +70042,7 @@
 	url = https://github.com/conda-forge/kaldiio-feedstock.git
 	path = feedstocks/kaldiio
 	branch = refs/heads/main
+[submodule "fast-bss-eval"]
+	url = https://github.com/conda-forge/fast-bss-eval-feedstock.git
+	path = feedstocks/fast-bss-eval
+	branch = refs/heads/main
