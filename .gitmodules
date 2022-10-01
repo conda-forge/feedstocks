@@ -70010,3 +70010,7 @@
 	url = https://github.com/conda-forge/r-bundle-feedstock.git
 	path = feedstocks/r-bundle
 	branch = refs/heads/main
+[submodule "py-modelrunner"]
+	url = https://github.com/conda-forge/py-modelrunner-feedstock.git
+	path = feedstocks/py-modelrunner
+	branch = refs/heads/main
