@@ -70014,3 +70014,7 @@
 	url = https://github.com/conda-forge/py-modelrunner-feedstock.git
 	path = feedstocks/py-modelrunner
 	branch = refs/heads/main
+[submodule "ci-sdr"]
+	url = https://github.com/conda-forge/ci-sdr-feedstock.git
+	path = feedstocks/ci-sdr
+	branch = refs/heads/main
