@@ -70062,3 +70062,7 @@
 	url = https://github.com/conda-forge/sqlathanor-feedstock.git
 	path = feedstocks/sqlathanor
 	branch = refs/heads/main
+[submodule "perl-xml-sax"]
+	url = https://github.com/conda-forge/perl-xml-sax-feedstock.git
+	path = feedstocks/perl-xml-sax
+	branch = refs/heads/main
