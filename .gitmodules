@@ -70074,3 +70074,7 @@
 	url = https://github.com/conda-forge/elapid-feedstock.git
 	path = feedstocks/elapid
 	branch = refs/heads/main
+[submodule "perl-xml-sax-expat"]
+	url = https://github.com/conda-forge/perl-xml-sax-expat-feedstock.git
+	path = feedstocks/perl-xml-sax-expat
+	branch = refs/heads/main
