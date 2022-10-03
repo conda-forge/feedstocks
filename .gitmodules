@@ -70098,3 +70098,7 @@
 	url = https://github.com/conda-forge/ifitpy-feedstock.git
 	path = feedstocks/ifitpy
 	branch = refs/heads/main
+[submodule "csvinsight"]
+	url = https://github.com/conda-forge/csvinsight-feedstock.git
+	path = feedstocks/csvinsight
+	branch = refs/heads/main
