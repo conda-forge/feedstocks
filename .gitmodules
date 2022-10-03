@@ -70094,3 +70094,7 @@
 	url = https://github.com/conda-forge/omsl-feedstock.git
 	path = feedstocks/omsl
 	branch = refs/heads/main
+[submodule "ifitpy"]
+	url = https://github.com/conda-forge/ifitpy-feedstock.git
+	path = feedstocks/ifitpy
+	branch = refs/heads/main
