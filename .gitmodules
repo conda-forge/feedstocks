@@ -70070,3 +70070,7 @@
 	url = https://github.com/conda-forge/lux-feedstock.git
 	path = feedstocks/lux
 	branch = refs/heads/main
+[submodule "elapid"]
+	url = https://github.com/conda-forge/elapid-feedstock.git
+	path = feedstocks/elapid
+	branch = refs/heads/main
