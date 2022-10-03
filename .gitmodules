@@ -70086,3 +70086,7 @@
 	url = https://github.com/conda-forge/pypistats-feedstock.git
 	path = feedstocks/pypistats
 	branch = refs/heads/main
+[submodule "hydrosignatures"]
+	url = https://github.com/conda-forge/hydrosignatures-feedstock.git
+	path = feedstocks/hydrosignatures
+	branch = refs/heads/main
