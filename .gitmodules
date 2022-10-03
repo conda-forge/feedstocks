@@ -70102,3 +70102,7 @@
 	url = https://github.com/conda-forge/csvinsight-feedstock.git
 	path = feedstocks/csvinsight
 	branch = refs/heads/main
+[submodule "pycobertura"]
+	url = https://github.com/conda-forge/pycobertura-feedstock.git
+	path = feedstocks/pycobertura
+	branch = refs/heads/main
