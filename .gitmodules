@@ -70078,3 +70078,7 @@
 	url = https://github.com/conda-forge/perl-xml-sax-expat-feedstock.git
 	path = feedstocks/perl-xml-sax-expat
 	branch = refs/heads/main
+[submodule "gz-math"]
+	url = https://github.com/conda-forge/gz-math-feedstock.git
+	path = feedstocks/gz-math
+	branch = refs/heads/main
