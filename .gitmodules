@@ -70106,3 +70106,7 @@
 	url = https://github.com/conda-forge/pycobertura-feedstock.git
 	path = feedstocks/pycobertura
 	branch = refs/heads/main
+[submodule "face-recognition"]
+	url = https://github.com/conda-forge/face-recognition-feedstock.git
+	path = feedstocks/face-recognition
+	branch = refs/heads/main
