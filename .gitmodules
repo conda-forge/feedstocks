@@ -70082,3 +70082,7 @@
 	url = https://github.com/conda-forge/gz-math-feedstock.git
 	path = feedstocks/gz-math
 	branch = refs/heads/main
+[submodule "pypistats"]
+	url = https://github.com/conda-forge/pypistats-feedstock.git
+	path = feedstocks/pypistats
+	branch = refs/heads/main
