@@ -70114,3 +70114,7 @@
 	url = https://github.com/conda-forge/perl-xml-filter-buffertext-feedstock.git
 	path = feedstocks/perl-xml-filter-buffertext
 	branch = refs/heads/main
+[submodule "jsonschema-default"]
+	url = https://github.com/conda-forge/jsonschema-default-feedstock.git
+	path = feedstocks/jsonschema-default
+	branch = refs/heads/main
