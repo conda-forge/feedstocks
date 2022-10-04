@@ -70118,3 +70118,7 @@
 	url = https://github.com/conda-forge/jsonschema-default-feedstock.git
 	path = feedstocks/jsonschema-default
 	branch = refs/heads/main
+[submodule "pfzy"]
+	url = https://github.com/conda-forge/pfzy-feedstock.git
+	path = feedstocks/pfzy
+	branch = refs/heads/main
