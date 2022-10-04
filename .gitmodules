@@ -70126,3 +70126,7 @@
 	url = https://github.com/conda-forge/gz-common-feedstock.git
 	path = feedstocks/gz-common
 	branch = refs/heads/main
+[submodule "gz-tools2"]
+	url = https://github.com/conda-forge/gz-tools2-feedstock.git
+	path = feedstocks/gz-tools2
+	branch = refs/heads/main
