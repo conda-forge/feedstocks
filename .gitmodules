@@ -70122,3 +70122,7 @@
 	url = https://github.com/conda-forge/pfzy-feedstock.git
 	path = feedstocks/pfzy
 	branch = refs/heads/main
+[submodule "gz-common"]
+	url = https://github.com/conda-forge/gz-common-feedstock.git
+	path = feedstocks/gz-common
+	branch = refs/heads/main
