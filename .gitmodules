@@ -70178,3 +70178,7 @@
 	url = https://github.com/conda-forge/sphinx_changelog-feedstock.git
 	path = feedstocks/sphinx_changelog
 	branch = refs/heads/main
+[submodule "hilltop-py"]
+	url = https://github.com/conda-forge/hilltop-py-feedstock.git
+	path = feedstocks/hilltop-py
+	branch = refs/heads/main
