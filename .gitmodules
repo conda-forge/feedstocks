@@ -70150,3 +70150,7 @@
 	url = https://github.com/conda-forge/mastercard-client-encryption-feedstock.git
 	path = feedstocks/mastercard-client-encryption
 	branch = refs/heads/main
+[submodule "metadata-inspector"]
+	url = https://github.com/conda-forge/metadata-inspector-feedstock.git
+	path = feedstocks/metadata-inspector
+	branch = refs/heads/main
