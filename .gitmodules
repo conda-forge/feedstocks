@@ -70146,3 +70146,7 @@
 	url = https://github.com/conda-forge/mastercard-oauth1-signer-feedstock.git
 	path = feedstocks/mastercard-oauth1-signer
 	branch = refs/heads/main
+[submodule "mastercard-client-encryption"]
+	url = https://github.com/conda-forge/mastercard-client-encryption-feedstock.git
+	path = feedstocks/mastercard-client-encryption
+	branch = refs/heads/main
