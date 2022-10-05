@@ -70138,3 +70138,7 @@
 	url = https://github.com/conda-forge/fastapi-mail-feedstock.git
 	path = feedstocks/fastapi-mail
 	branch = refs/heads/main
+[submodule "r-ricu"]
+	url = https://github.com/conda-forge/r-ricu-feedstock.git
+	path = feedstocks/r-ricu
+	branch = refs/heads/main
