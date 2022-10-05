@@ -70134,3 +70134,7 @@
 	url = https://github.com/conda-forge/inquirerpy-feedstock.git
 	path = feedstocks/inquirerpy
 	branch = refs/heads/main
+[submodule "fastapi-mail"]
+	url = https://github.com/conda-forge/fastapi-mail-feedstock.git
+	path = feedstocks/fastapi-mail
+	branch = refs/heads/main
