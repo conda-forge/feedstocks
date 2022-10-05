@@ -70174,3 +70174,7 @@
 	url = https://github.com/conda-forge/hdf5tools-feedstock.git
 	path = feedstocks/hdf5tools
 	branch = refs/heads/main
+[submodule "sphinx_changelog"]
+	url = https://github.com/conda-forge/sphinx_changelog-feedstock.git
+	path = feedstocks/sphinx_changelog
+	branch = refs/heads/main
