@@ -70142,3 +70142,7 @@
 	url = https://github.com/conda-forge/r-ricu-feedstock.git
 	path = feedstocks/r-ricu
 	branch = refs/heads/main
+[submodule "mastercard-oauth1-signer"]
+	url = https://github.com/conda-forge/mastercard-oauth1-signer-feedstock.git
+	path = feedstocks/mastercard-oauth1-signer
+	branch = refs/heads/main
