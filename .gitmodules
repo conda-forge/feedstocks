@@ -70158,3 +70158,7 @@
 	url = https://github.com/conda-forge/localdeps-feedstock.git
 	path = feedstocks/localdeps
 	branch = refs/heads/main
+[submodule "gz-msgs"]
+	url = https://github.com/conda-forge/gz-msgs-feedstock.git
+	path = feedstocks/gz-msgs
+	branch = refs/heads/main
