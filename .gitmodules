@@ -70166,3 +70166,7 @@
 	url = https://github.com/conda-forge/talipp-feedstock.git
 	path = feedstocks/talipp
 	branch = refs/heads/main
+[submodule "devscripts"]
+	url = https://github.com/conda-forge/devscripts-feedstock.git
+	path = feedstocks/devscripts
+	branch = refs/heads/main
