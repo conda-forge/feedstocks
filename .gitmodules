@@ -70162,3 +70162,7 @@
 	url = https://github.com/conda-forge/gz-msgs-feedstock.git
 	path = feedstocks/gz-msgs
 	branch = refs/heads/main
+[submodule "talipp"]
+	url = https://github.com/conda-forge/talipp-feedstock.git
+	path = feedstocks/talipp
+	branch = refs/heads/main
