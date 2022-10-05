@@ -70170,3 +70170,7 @@
 	url = https://github.com/conda-forge/devscripts-feedstock.git
 	path = feedstocks/devscripts
 	branch = refs/heads/main
+[submodule "hdf5tools"]
+	url = https://github.com/conda-forge/hdf5tools-feedstock.git
+	path = feedstocks/hdf5tools
+	branch = refs/heads/main
