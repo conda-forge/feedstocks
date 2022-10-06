@@ -70218,3 +70218,7 @@
 	url = https://github.com/conda-forge/mvtb-data-feedstock.git
 	path = feedstocks/mvtb-data
 	branch = refs/heads/main
+[submodule "machinevision-toolbox-python"]
+	url = https://github.com/conda-forge/machinevision-toolbox-python-feedstock.git
+	path = feedstocks/machinevision-toolbox-python
+	branch = refs/heads/main
