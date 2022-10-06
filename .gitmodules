@@ -70242,3 +70242,7 @@
 	url = https://github.com/conda-forge/diode-feedstock.git
 	path = feedstocks/diode
 	branch = refs/heads/main
+[submodule "sophus"]
+	url = https://github.com/conda-forge/sophus-feedstock.git
+	path = feedstocks/sophus
+	branch = refs/heads/main
