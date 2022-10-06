@@ -70234,3 +70234,7 @@
 	url = https://github.com/conda-forge/hwinfo-feedstock.git
 	path = feedstocks/hwinfo
 	branch = refs/heads/main
+[submodule "cppast"]
+	url = https://github.com/conda-forge/cppast-feedstock.git
+	path = feedstocks/cppast
+	branch = refs/heads/main
