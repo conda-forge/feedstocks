@@ -70198,3 +70198,7 @@
 	url = https://github.com/conda-forge/pytinyrenderer-feedstock.git
 	path = feedstocks/pytinyrenderer
 	branch = refs/heads/main
+[submodule "bdsim"]
+	url = https://github.com/conda-forge/bdsim-feedstock.git
+	path = feedstocks/bdsim
+	branch = refs/heads/main
