@@ -70250,3 +70250,7 @@
 	url = https://github.com/conda-forge/evaluate-feedstock.git
 	path = feedstocks/evaluate
 	branch = refs/heads/main
+[submodule "accessible-pygments"]
+	url = https://github.com/conda-forge/accessible-pygments-feedstock.git
+	path = feedstocks/accessible-pygments
+	branch = refs/heads/main
