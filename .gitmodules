@@ -70226,3 +70226,7 @@
 	url = https://github.com/conda-forge/pysjef-feedstock.git
 	path = feedstocks/pysjef
 	branch = refs/heads/main
+[submodule "libx86emu"]
+	url = https://github.com/conda-forge/libx86emu-feedstock.git
+	path = feedstocks/libx86emu
+	branch = refs/heads/main
