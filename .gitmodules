@@ -70186,3 +70186,7 @@
 	url = https://github.com/conda-forge/datarobot-bp-workshop-feedstock.git
 	path = feedstocks/datarobot-bp-workshop
 	branch = refs/heads/main
+[submodule "bigdft-suite"]
+	url = https://github.com/conda-forge/bigdft-suite-feedstock.git
+	path = feedstocks/bigdft-suite
+	branch = refs/heads/main
