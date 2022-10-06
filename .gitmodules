@@ -70210,3 +70210,7 @@
 	url = https://github.com/conda-forge/reacton-feedstock.git
 	path = feedstocks/reacton
 	branch = refs/heads/main
+[submodule "meteoserver"]
+	url = https://github.com/conda-forge/meteoserver-feedstock.git
+	path = feedstocks/meteoserver
+	branch = refs/heads/main
