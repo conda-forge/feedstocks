@@ -70230,3 +70230,7 @@
 	url = https://github.com/conda-forge/libx86emu-feedstock.git
 	path = feedstocks/libx86emu
 	branch = refs/heads/main
+[submodule "hwinfo"]
+	url = https://github.com/conda-forge/hwinfo-feedstock.git
+	path = feedstocks/hwinfo
+	branch = refs/heads/main
