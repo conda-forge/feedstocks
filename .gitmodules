@@ -70182,3 +70182,7 @@
 	url = https://github.com/conda-forge/hilltop-py-feedstock.git
 	path = feedstocks/hilltop-py
 	branch = refs/heads/main
+[submodule "datarobot-bp-workshop"]
+	url = https://github.com/conda-forge/datarobot-bp-workshop-feedstock.git
+	path = feedstocks/datarobot-bp-workshop
+	branch = refs/heads/main
