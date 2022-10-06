@@ -70222,3 +70222,7 @@
 	url = https://github.com/conda-forge/machinevision-toolbox-python-feedstock.git
 	path = feedstocks/machinevision-toolbox-python
 	branch = refs/heads/main
+[submodule "pysjef"]
+	url = https://github.com/conda-forge/pysjef-feedstock.git
+	path = feedstocks/pysjef
+	branch = refs/heads/main
