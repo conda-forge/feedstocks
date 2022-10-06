@@ -70202,3 +70202,7 @@
 	url = https://github.com/conda-forge/bdsim-feedstock.git
 	path = feedstocks/bdsim
 	branch = refs/heads/main
+[submodule "xeus-zmq"]
+	url = https://github.com/conda-forge/xeus-zmq-feedstock.git
+	path = feedstocks/xeus-zmq
+	branch = refs/heads/main
