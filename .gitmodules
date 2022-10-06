@@ -70246,3 +70246,7 @@
 	url = https://github.com/conda-forge/sophus-feedstock.git
 	path = feedstocks/sophus
 	branch = refs/heads/main
+[submodule "evaluate"]
+	url = https://github.com/conda-forge/evaluate-feedstock.git
+	path = feedstocks/evaluate
+	branch = refs/heads/main
