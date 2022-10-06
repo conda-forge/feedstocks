@@ -70214,3 +70214,7 @@
 	url = https://github.com/conda-forge/meteoserver-feedstock.git
 	path = feedstocks/meteoserver
 	branch = refs/heads/main
+[submodule "mvtb-data"]
+	url = https://github.com/conda-forge/mvtb-data-feedstock.git
+	path = feedstocks/mvtb-data
+	branch = refs/heads/main
