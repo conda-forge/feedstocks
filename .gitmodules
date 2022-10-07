@@ -70266,3 +70266,7 @@
 	url = https://github.com/conda-forge/gz-transport-feedstock.git
 	path = feedstocks/gz-transport
 	branch = refs/heads/main
+[submodule "gz-plugin"]
+	url = https://github.com/conda-forge/gz-plugin-feedstock.git
+	path = feedstocks/gz-plugin
+	branch = refs/heads/main
