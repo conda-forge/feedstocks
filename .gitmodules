@@ -70258,3 +70258,7 @@
 	url = https://github.com/conda-forge/pandaboxlib-feedstock.git
 	path = feedstocks/pandaboxlib
 	branch = refs/heads/main
+[submodule "gz-fuel-tools"]
+	url = https://github.com/conda-forge/gz-fuel-tools-feedstock.git
+	path = feedstocks/gz-fuel-tools
+	branch = refs/heads/main
