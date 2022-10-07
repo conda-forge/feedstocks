@@ -70254,3 +70254,7 @@
 	url = https://github.com/conda-forge/accessible-pygments-feedstock.git
 	path = feedstocks/accessible-pygments
 	branch = refs/heads/main
+[submodule "pandaboxlib"]
+	url = https://github.com/conda-forge/pandaboxlib-feedstock.git
+	path = feedstocks/pandaboxlib
+	branch = refs/heads/main
