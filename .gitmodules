@@ -70270,3 +70270,7 @@
 	url = https://github.com/conda-forge/gz-plugin-feedstock.git
 	path = feedstocks/gz-plugin
 	branch = refs/heads/main
+[submodule "koopmans-kcp"]
+	url = https://github.com/conda-forge/koopmans-kcp-feedstock.git
+	path = feedstocks/koopmans-kcp
+	branch = refs/heads/main
