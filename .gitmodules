@@ -70274,3 +70274,7 @@
 	url = https://github.com/conda-forge/koopmans-kcp-feedstock.git
 	path = feedstocks/koopmans-kcp
 	branch = refs/heads/main
+[submodule "mup"]
+	url = https://github.com/conda-forge/mup-feedstock.git
+	path = feedstocks/mup
+	branch = refs/heads/main
