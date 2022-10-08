@@ -70282,3 +70282,7 @@
 	url = https://github.com/conda-forge/r-alpaca-feedstock.git
 	path = feedstocks/r-alpaca
 	branch = refs/heads/main
+[submodule "perl-test-requires"]
+	url = https://github.com/conda-forge/perl-test-requires-feedstock.git
+	path = feedstocks/perl-test-requires
+	branch = refs/heads/main
