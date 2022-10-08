@@ -70286,3 +70286,7 @@
 	url = https://github.com/conda-forge/perl-test-requires-feedstock.git
 	path = feedstocks/perl-test-requires
 	branch = refs/heads/main
+[submodule "perl-file-remove"]
+	url = https://github.com/conda-forge/perl-file-remove-feedstock.git
+	path = feedstocks/perl-file-remove
+	branch = refs/heads/main
