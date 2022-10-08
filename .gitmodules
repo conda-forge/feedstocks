@@ -70278,3 +70278,7 @@
 	url = https://github.com/conda-forge/mup-feedstock.git
 	path = feedstocks/mup
 	branch = refs/heads/main
+[submodule "r-alpaca"]
+	url = https://github.com/conda-forge/r-alpaca-feedstock.git
+	path = feedstocks/r-alpaca
+	branch = refs/heads/main
