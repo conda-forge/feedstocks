@@ -70314,3 +70314,7 @@
 	url = https://github.com/conda-forge/perl-tie-cache-feedstock.git
 	path = feedstocks/perl-tie-cache
 	branch = refs/heads/main
+[submodule "perl-tie-cacher"]
+	url = https://github.com/conda-forge/perl-tie-cacher-feedstock.git
+	path = feedstocks/perl-tie-cacher
+	branch = refs/heads/main
