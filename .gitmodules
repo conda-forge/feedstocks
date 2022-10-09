@@ -70310,3 +70310,7 @@
 	url = https://github.com/conda-forge/perl-hash-merge-feedstock.git
 	path = feedstocks/perl-hash-merge
 	branch = refs/heads/main
+[submodule "perl-tie-cache"]
+	url = https://github.com/conda-forge/perl-tie-cache-feedstock.git
+	path = feedstocks/perl-tie-cache
+	branch = refs/heads/main
