@@ -70326,3 +70326,7 @@
 	url = https://github.com/conda-forge/cyrsoxs-feedstock.git
 	path = feedstocks/cyrsoxs
 	branch = refs/heads/main
+[submodule "torch-fidelity"]
+	url = https://github.com/conda-forge/torch-fidelity-feedstock.git
+	path = feedstocks/torch-fidelity
+	branch = refs/heads/main
