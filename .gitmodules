@@ -70318,3 +70318,7 @@
 	url = https://github.com/conda-forge/perl-tie-cacher-feedstock.git
 	path = feedstocks/perl-tie-cacher
 	branch = refs/heads/main
+[submodule "perl-digest-crc32"]
+	url = https://github.com/conda-forge/perl-digest-crc32-feedstock.git
+	path = feedstocks/perl-digest-crc32
+	branch = refs/heads/main
