@@ -70330,3 +70330,7 @@
 	url = https://github.com/conda-forge/torch-fidelity-feedstock.git
 	path = feedstocks/torch-fidelity
 	branch = refs/heads/main
+[submodule "perl-base"]
+	url = https://github.com/conda-forge/perl-base-feedstock.git
+	path = feedstocks/perl-base
+	branch = refs/heads/main
