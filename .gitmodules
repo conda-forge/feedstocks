@@ -70306,3 +70306,7 @@
 	url = https://github.com/conda-forge/perl-sort-key-feedstock.git
 	path = feedstocks/perl-sort-key
 	branch = refs/heads/main
+[submodule "perl-hash-merge"]
+	url = https://github.com/conda-forge/perl-hash-merge-feedstock.git
+	path = feedstocks/perl-hash-merge
+	branch = refs/heads/main
