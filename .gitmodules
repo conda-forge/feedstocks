@@ -70346,3 +70346,7 @@
 	url = https://github.com/conda-forge/perl-cpan-meta-yaml-feedstock.git
 	path = feedstocks/perl-cpan-meta-yaml
 	branch = refs/heads/main
+[submodule "jupyterlab-deck"]
+	url = https://github.com/conda-forge/jupyterlab-deck-feedstock.git
+	path = feedstocks/jupyterlab-deck
+	branch = refs/heads/main
