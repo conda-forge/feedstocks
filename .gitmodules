@@ -70362,3 +70362,7 @@
 	url = https://github.com/conda-forge/perl-sub-install-feedstock.git
 	path = feedstocks/perl-sub-install
 	branch = refs/heads/main
+[submodule "psmpy"]
+	url = https://github.com/conda-forge/psmpy-feedstock.git
+	path = feedstocks/psmpy
+	branch = refs/heads/main
