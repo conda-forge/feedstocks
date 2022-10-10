@@ -70342,3 +70342,7 @@
 	url = https://github.com/conda-forge/d2l-feedstock.git
 	path = feedstocks/d2l
 	branch = refs/heads/main
+[submodule "perl-cpan-meta-yaml"]
+	url = https://github.com/conda-forge/perl-cpan-meta-yaml-feedstock.git
+	path = feedstocks/perl-cpan-meta-yaml
+	branch = refs/heads/main
