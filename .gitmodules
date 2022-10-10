@@ -70334,3 +70334,7 @@
 	url = https://github.com/conda-forge/perl-base-feedstock.git
 	path = feedstocks/perl-base
 	branch = refs/heads/main
+[submodule "perl-module-pluggable"]
+	url = https://github.com/conda-forge/perl-module-pluggable-feedstock.git
+	path = feedstocks/perl-module-pluggable
+	branch = refs/heads/main
