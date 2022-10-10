@@ -70370,3 +70370,7 @@
 	url = https://github.com/conda-forge/sparsestack-feedstock.git
 	path = feedstocks/sparsestack
 	branch = refs/heads/main
+[submodule "pybytebuffer"]
+	url = https://github.com/conda-forge/pybytebuffer-feedstock.git
+	path = feedstocks/pybytebuffer
+	branch = refs/heads/main
