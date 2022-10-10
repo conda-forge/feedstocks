@@ -70366,3 +70366,7 @@
 	url = https://github.com/conda-forge/psmpy-feedstock.git
 	path = feedstocks/psmpy
 	branch = refs/heads/main
+[submodule "sparsestack"]
+	url = https://github.com/conda-forge/sparsestack-feedstock.git
+	path = feedstocks/sparsestack
+	branch = refs/heads/main
