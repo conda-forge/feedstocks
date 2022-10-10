@@ -70338,3 +70338,7 @@
 	url = https://github.com/conda-forge/perl-module-pluggable-feedstock.git
 	path = feedstocks/perl-module-pluggable
 	branch = refs/heads/main
+[submodule "d2l"]
+	url = https://github.com/conda-forge/d2l-feedstock.git
+	path = feedstocks/d2l
+	branch = refs/heads/main
