@@ -70406,3 +70406,7 @@
 	url = https://github.com/conda-forge/pytest-redis-feedstock.git
 	path = feedstocks/pytest-redis
 	branch = refs/heads/main
+[submodule "perl-regexp-common"]
+	url = https://github.com/conda-forge/perl-regexp-common-feedstock.git
+	path = feedstocks/perl-regexp-common
+	branch = refs/heads/main
