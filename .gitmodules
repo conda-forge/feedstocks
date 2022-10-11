@@ -70386,3 +70386,7 @@
 	url = https://github.com/conda-forge/pyrogram-feedstock.git
 	path = feedstocks/pyrogram
 	branch = refs/heads/main
+[submodule "gz-rendering"]
+	url = https://github.com/conda-forge/gz-rendering-feedstock.git
+	path = feedstocks/gz-rendering
+	branch = refs/heads/main
