@@ -70394,3 +70394,7 @@
 	url = https://github.com/conda-forge/conda_envfile-feedstock.git
 	path = feedstocks/conda_envfile
 	branch = refs/heads/main
+[submodule "perl-text-tabs-wrap"]
+	url = https://github.com/conda-forge/perl-text-tabs-wrap-feedstock.git
+	path = feedstocks/perl-text-tabs-wrap
+	branch = refs/heads/main
