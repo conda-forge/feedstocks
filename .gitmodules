@@ -70390,3 +70390,7 @@
 	url = https://github.com/conda-forge/gz-rendering-feedstock.git
 	path = feedstocks/gz-rendering
 	branch = refs/heads/main
+[submodule "conda_envfile"]
+	url = https://github.com/conda-forge/conda_envfile-feedstock.git
+	path = feedstocks/conda_envfile
+	branch = refs/heads/main
