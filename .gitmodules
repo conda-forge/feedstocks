@@ -70402,3 +70402,7 @@
 	url = https://github.com/conda-forge/moleculetda-feedstock.git
 	path = feedstocks/moleculetda
 	branch = refs/heads/main
+[submodule "pytest-redis"]
+	url = https://github.com/conda-forge/pytest-redis-feedstock.git
+	path = feedstocks/pytest-redis
+	branch = refs/heads/main
