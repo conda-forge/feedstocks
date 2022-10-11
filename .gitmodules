@@ -70410,3 +70410,7 @@
 	url = https://github.com/conda-forge/perl-regexp-common-feedstock.git
 	path = feedstocks/perl-regexp-common
 	branch = refs/heads/main
+[submodule "rpy2-arrow"]
+	url = https://github.com/conda-forge/rpy2-arrow-feedstock.git
+	path = feedstocks/rpy2-arrow
+	branch = refs/heads/main
