@@ -70442,3 +70442,7 @@
 	url = https://github.com/conda-forge/tango-atk-tuning-feedstock.git
 	path = feedstocks/tango-atk-tuning
 	branch = refs/heads/main
+[submodule "spyder-vim"]
+	url = https://github.com/conda-forge/spyder-vim-feedstock.git
+	path = feedstocks/spyder-vim
+	branch = refs/heads/main
