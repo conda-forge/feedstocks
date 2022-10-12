@@ -70414,3 +70414,7 @@
 	url = https://github.com/conda-forge/rpy2-arrow-feedstock.git
 	path = feedstocks/rpy2-arrow
 	branch = refs/heads/main
+[submodule "pystoi"]
+	url = https://github.com/conda-forge/pystoi-feedstock.git
+	path = feedstocks/pystoi
+	branch = refs/heads/main
