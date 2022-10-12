@@ -70430,3 +70430,7 @@
 	url = https://github.com/conda-forge/semi-ate-installer-feedstock.git
 	path = feedstocks/semi-ate-installer
 	branch = refs/heads/main
+[submodule "pymolpro"]
+	url = https://github.com/conda-forge/pymolpro-feedstock.git
+	path = feedstocks/pymolpro
+	branch = refs/heads/main
