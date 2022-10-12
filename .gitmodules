@@ -70446,3 +70446,7 @@
 	url = https://github.com/conda-forge/spyder-vim-feedstock.git
 	path = feedstocks/spyder-vim
 	branch = refs/heads/main
+[submodule "gtdownloader"]
+	url = https://github.com/conda-forge/gtdownloader-feedstock.git
+	path = feedstocks/gtdownloader
+	branch = refs/heads/main
