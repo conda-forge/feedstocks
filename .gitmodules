@@ -70422,3 +70422,7 @@
 	url = https://github.com/conda-forge/pesq-feedstock.git
 	path = feedstocks/pesq
 	branch = refs/heads/main
+[submodule "pyqstrat"]
+	url = https://github.com/conda-forge/pyqstrat-feedstock.git
+	path = feedstocks/pyqstrat
+	branch = refs/heads/main
