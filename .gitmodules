@@ -70450,3 +70450,7 @@
 	url = https://github.com/conda-forge/gtdownloader-feedstock.git
 	path = feedstocks/gtdownloader
 	branch = refs/heads/main
+[submodule "brax"]
+	url = https://github.com/conda-forge/brax-feedstock.git
+	path = feedstocks/brax
+	branch = refs/heads/main
