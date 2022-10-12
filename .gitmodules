@@ -70426,3 +70426,7 @@
 	url = https://github.com/conda-forge/pyqstrat-feedstock.git
 	path = feedstocks/pyqstrat
 	branch = refs/heads/main
+[submodule "semi-ate-installer"]
+	url = https://github.com/conda-forge/semi-ate-installer-feedstock.git
+	path = feedstocks/semi-ate-installer
+	branch = refs/heads/main
