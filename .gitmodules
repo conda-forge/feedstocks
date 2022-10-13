@@ -70466,3 +70466,7 @@
 	url = https://github.com/conda-forge/ttkwidgets-feedstock.git
 	path = feedstocks/ttkwidgets
 	branch = refs/heads/main
+[submodule "gz-physics"]
+	url = https://github.com/conda-forge/gz-physics-feedstock.git
+	path = feedstocks/gz-physics
+	branch = refs/heads/main
