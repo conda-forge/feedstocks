@@ -70462,3 +70462,7 @@
 	url = https://github.com/conda-forge/asdf-unit-schemas-feedstock.git
 	path = feedstocks/asdf-unit-schemas
 	branch = refs/heads/main
+[submodule "ttkwidgets"]
+	url = https://github.com/conda-forge/ttkwidgets-feedstock.git
+	path = feedstocks/ttkwidgets
+	branch = refs/heads/main
