@@ -70458,3 +70458,7 @@
 	url = https://github.com/conda-forge/ptychonn-feedstock.git
 	path = feedstocks/ptychonn
 	branch = refs/heads/main
+[submodule "asdf-unit-schemas"]
+	url = https://github.com/conda-forge/asdf-unit-schemas-feedstock.git
+	path = feedstocks/asdf-unit-schemas
+	branch = refs/heads/main
