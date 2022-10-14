@@ -70482,3 +70482,7 @@
 	url = https://github.com/conda-forge/gz-sensors-feedstock.git
 	path = feedstocks/gz-sensors
 	branch = refs/heads/main
+[submodule "mcpl"]
+	url = https://github.com/conda-forge/mcpl-feedstock.git
+	path = feedstocks/mcpl
+	branch = refs/heads/main
