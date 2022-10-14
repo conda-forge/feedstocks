@@ -70478,3 +70478,7 @@
 	url = https://github.com/conda-forge/slurm-feedstock.git
 	path = feedstocks/slurm
 	branch = refs/heads/main
+[submodule "gz-sensors"]
+	url = https://github.com/conda-forge/gz-sensors-feedstock.git
+	path = feedstocks/gz-sensors
+	branch = refs/heads/main
