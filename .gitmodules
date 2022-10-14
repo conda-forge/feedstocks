@@ -70470,3 +70470,7 @@
 	url = https://github.com/conda-forge/gz-physics-feedstock.git
 	path = feedstocks/gz-physics
 	branch = refs/heads/main
+[submodule "gz-gui"]
+	url = https://github.com/conda-forge/gz-gui-feedstock.git
+	path = feedstocks/gz-gui
+	branch = refs/heads/main
