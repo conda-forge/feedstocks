@@ -70494,3 +70494,7 @@
 	url = https://github.com/conda-forge/pysp2-feedstock.git
 	path = feedstocks/pysp2
 	branch = refs/heads/main
+[submodule "nanobind"]
+	url = https://github.com/conda-forge/nanobind-feedstock.git
+	path = feedstocks/nanobind
+	branch = refs/heads/main
