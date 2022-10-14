@@ -70502,3 +70502,7 @@
 	url = https://github.com/conda-forge/latex-rubber-feedstock.git
 	path = feedstocks/latex-rubber
 	branch = refs/heads/main
+[submodule "inline-sql"]
+	url = https://github.com/conda-forge/inline-sql-feedstock.git
+	path = feedstocks/inline-sql
+	branch = refs/heads/main
