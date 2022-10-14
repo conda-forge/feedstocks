@@ -70486,3 +70486,7 @@
 	url = https://github.com/conda-forge/mcpl-feedstock.git
 	path = feedstocks/mcpl
 	branch = refs/heads/main
+[submodule "pylat"]
+	url = https://github.com/conda-forge/pylat-feedstock.git
+	path = feedstocks/pylat
+	branch = refs/heads/main
