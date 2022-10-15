@@ -70514,3 +70514,7 @@
 	url = https://github.com/conda-forge/refurb-feedstock.git
 	path = feedstocks/refurb
 	branch = refs/heads/main
+[submodule "fast-soup"]
+	url = https://github.com/conda-forge/fast-soup-feedstock.git
+	path = feedstocks/fast-soup
+	branch = refs/heads/main
