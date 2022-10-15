@@ -70518,3 +70518,7 @@
 	url = https://github.com/conda-forge/fast-soup-feedstock.git
 	path = feedstocks/fast-soup
 	branch = refs/heads/main
+[submodule "soupy"]
+	url = https://github.com/conda-forge/soupy-feedstock.git
+	path = feedstocks/soupy
+	branch = refs/heads/main
