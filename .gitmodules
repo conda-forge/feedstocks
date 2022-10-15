@@ -70506,3 +70506,7 @@
 	url = https://github.com/conda-forge/inline-sql-feedstock.git
 	path = feedstocks/inline-sql
 	branch = refs/heads/main
+[submodule "starlite-sessions"]
+	url = https://github.com/conda-forge/starlite-sessions-feedstock.git
+	path = feedstocks/starlite-sessions
+	branch = refs/heads/main
