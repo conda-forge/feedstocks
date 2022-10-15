@@ -70510,3 +70510,7 @@
 	url = https://github.com/conda-forge/starlite-sessions-feedstock.git
 	path = feedstocks/starlite-sessions
 	branch = refs/heads/main
+[submodule "refurb"]
+	url = https://github.com/conda-forge/refurb-feedstock.git
+	path = feedstocks/refurb
+	branch = refs/heads/main
