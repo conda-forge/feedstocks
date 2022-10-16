@@ -70534,3 +70534,7 @@
 	url = https://github.com/conda-forge/pyjq-feedstock.git
 	path = feedstocks/pyjq
 	branch = refs/heads/main
+[submodule "awslambdaric"]
+	url = https://github.com/conda-forge/awslambdaric-feedstock.git
+	path = feedstocks/awslambdaric
+	branch = refs/heads/main
