@@ -70530,3 +70530,7 @@
 	url = https://github.com/conda-forge/cmplxfoil-feedstock.git
 	path = feedstocks/cmplxfoil
 	branch = refs/heads/main
+[submodule "pyjq"]
+	url = https://github.com/conda-forge/pyjq-feedstock.git
+	path = feedstocks/pyjq
+	branch = refs/heads/main
