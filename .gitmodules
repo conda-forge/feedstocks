@@ -70538,3 +70538,7 @@
 	url = https://github.com/conda-forge/awslambdaric-feedstock.git
 	path = feedstocks/awslambdaric
 	branch = refs/heads/main
+[submodule "apptainer"]
+	url = https://github.com/conda-forge/apptainer-feedstock.git
+	path = feedstocks/apptainer
+	branch = refs/heads/main
