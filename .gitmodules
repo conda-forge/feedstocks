@@ -70542,3 +70542,7 @@
 	url = https://github.com/conda-forge/apptainer-feedstock.git
 	path = feedstocks/apptainer
 	branch = refs/heads/main
+[submodule "minestrone"]
+	url = https://github.com/conda-forge/minestrone-feedstock.git
+	path = feedstocks/minestrone
+	branch = refs/heads/main
