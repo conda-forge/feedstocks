@@ -70582,3 +70582,7 @@
 	url = https://github.com/conda-forge/mat73-feedstock.git
 	path = feedstocks/mat73
 	branch = refs/heads/main
+[submodule "easyocr"]
+	url = https://github.com/conda-forge/easyocr-feedstock.git
+	path = feedstocks/easyocr
+	branch = refs/heads/main
