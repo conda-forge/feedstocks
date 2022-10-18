@@ -70558,3 +70558,7 @@
 	url = https://github.com/conda-forge/statannotations-feedstock.git
 	path = feedstocks/statannotations
 	branch = refs/heads/main
+[submodule "terraform-provider-databricks"]
+	url = https://github.com/conda-forge/terraform-provider-databricks-feedstock.git
+	path = feedstocks/terraform-provider-databricks
+	branch = refs/heads/main
