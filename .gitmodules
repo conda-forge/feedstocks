@@ -70586,3 +70586,7 @@
 	url = https://github.com/conda-forge/easyocr-feedstock.git
 	path = feedstocks/easyocr
 	branch = refs/heads/main
+[submodule "jacobi"]
+	url = https://github.com/conda-forge/jacobi-feedstock.git
+	path = feedstocks/jacobi
+	branch = refs/heads/main
