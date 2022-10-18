@@ -70562,3 +70562,7 @@
 	url = https://github.com/conda-forge/terraform-provider-databricks-feedstock.git
 	path = feedstocks/terraform-provider-databricks
 	branch = refs/heads/main
+[submodule "katago"]
+	url = https://github.com/conda-forge/katago-feedstock.git
+	path = feedstocks/katago
+	branch = refs/heads/main
