@@ -70574,3 +70574,7 @@
 	url = https://github.com/conda-forge/r-survtmle-feedstock.git
 	path = feedstocks/r-survtmle
 	branch = refs/heads/main
+[submodule "or-datasets"]
+	url = https://github.com/conda-forge/or-datasets-feedstock.git
+	path = feedstocks/or-datasets
+	branch = refs/heads/main
