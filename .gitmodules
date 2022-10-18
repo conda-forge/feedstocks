@@ -70590,3 +70590,7 @@
 	url = https://github.com/conda-forge/jacobi-feedstock.git
 	path = feedstocks/jacobi
 	branch = refs/heads/main
+[submodule "sas7bdat-converter"]
+	url = https://github.com/conda-forge/sas7bdat-converter-feedstock.git
+	path = feedstocks/sas7bdat-converter
+	branch = refs/heads/main
