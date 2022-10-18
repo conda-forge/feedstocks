@@ -70566,3 +70566,7 @@
 	url = https://github.com/conda-forge/katago-feedstock.git
 	path = feedstocks/katago
 	branch = refs/heads/main
+[submodule "r-islr2"]
+	url = https://github.com/conda-forge/r-islr2-feedstock.git
+	path = feedstocks/r-islr2
+	branch = refs/heads/main
