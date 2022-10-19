@@ -70622,3 +70622,7 @@
 	url = https://github.com/conda-forge/fofx-feedstock.git
 	path = feedstocks/fofx
 	branch = refs/heads/main
+[submodule "shredder"]
+	url = https://github.com/conda-forge/shredder-feedstock.git
+	path = feedstocks/shredder
+	branch = refs/heads/main
