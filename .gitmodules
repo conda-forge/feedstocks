@@ -70642,3 +70642,7 @@
 	url = https://github.com/conda-forge/yesqa-feedstock.git
 	path = feedstocks/yesqa
 	branch = refs/heads/main
+[submodule "fars_cleaner"]
+	url = https://github.com/conda-forge/fars_cleaner-feedstock.git
+	path = feedstocks/fars_cleaner
+	branch = refs/heads/main
