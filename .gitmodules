@@ -70638,3 +70638,7 @@
 	url = https://github.com/conda-forge/mof-feedstock.git
 	path = feedstocks/mof
 	branch = refs/heads/main
+[submodule "yesqa"]
+	url = https://github.com/conda-forge/yesqa-feedstock.git
+	path = feedstocks/yesqa
+	branch = refs/heads/main
