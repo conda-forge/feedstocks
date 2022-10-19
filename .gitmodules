@@ -70598,3 +70598,7 @@
 	url = https://github.com/conda-forge/r-maybe-feedstock.git
 	path = feedstocks/r-maybe
 	branch = refs/heads/main
+[submodule "r-secret"]
+	url = https://github.com/conda-forge/r-secret-feedstock.git
+	path = feedstocks/r-secret
+	branch = refs/heads/main
