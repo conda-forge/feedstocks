@@ -70602,3 +70602,7 @@
 	url = https://github.com/conda-forge/r-secret-feedstock.git
 	path = feedstocks/r-secret
 	branch = refs/heads/main
+[submodule "r-grates"]
+	url = https://github.com/conda-forge/r-grates-feedstock.git
+	path = feedstocks/r-grates
+	branch = refs/heads/main
