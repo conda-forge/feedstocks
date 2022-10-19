@@ -70610,3 +70610,7 @@
 	url = https://github.com/conda-forge/glaes-feedstock.git
 	path = feedstocks/glaes
 	branch = refs/heads/main
+[submodule "pymedio"]
+	url = https://github.com/conda-forge/pymedio-feedstock.git
+	path = feedstocks/pymedio
+	branch = refs/heads/main
