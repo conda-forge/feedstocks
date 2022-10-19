@@ -70606,3 +70606,7 @@
 	url = https://github.com/conda-forge/r-grates-feedstock.git
 	path = feedstocks/r-grates
 	branch = refs/heads/main
+[submodule "glaes"]
+	url = https://github.com/conda-forge/glaes-feedstock.git
+	path = feedstocks/glaes
+	branch = refs/heads/main
