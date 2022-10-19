@@ -70650,3 +70650,7 @@
 	url = https://github.com/conda-forge/stdlibs-feedstock.git
 	path = feedstocks/stdlibs
 	branch = refs/heads/main
+[submodule "trailrunner"]
+	url = https://github.com/conda-forge/trailrunner-feedstock.git
+	path = feedstocks/trailrunner
+	branch = refs/heads/main
