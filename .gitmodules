@@ -70614,3 +70614,7 @@
 	url = https://github.com/conda-forge/pymedio-feedstock.git
 	path = feedstocks/pymedio
 	branch = refs/heads/main
+[submodule "sphinx-hoverxref"]
+	url = https://github.com/conda-forge/sphinx-hoverxref-feedstock.git
+	path = feedstocks/sphinx-hoverxref
+	branch = refs/heads/main
