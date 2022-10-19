@@ -70646,3 +70646,7 @@
 	url = https://github.com/conda-forge/fars_cleaner-feedstock.git
 	path = feedstocks/fars_cleaner
 	branch = refs/heads/main
+[submodule "stdlibs"]
+	url = https://github.com/conda-forge/stdlibs-feedstock.git
+	path = feedstocks/stdlibs
+	branch = refs/heads/main
