@@ -70706,3 +70706,7 @@
 	url = https://github.com/conda-forge/faker-vehicle-feedstock.git
 	path = feedstocks/faker-vehicle
 	branch = refs/heads/main
+[submodule "carto-auth"]
+	url = https://github.com/conda-forge/carto-auth-feedstock.git
+	path = feedstocks/carto-auth
+	branch = refs/heads/main
