@@ -70678,3 +70678,7 @@
 	url = https://github.com/conda-forge/perl-role-tiny-feedstock.git
 	path = feedstocks/perl-role-tiny
 	branch = refs/heads/main
+[submodule "perl-test-fatal"]
+	url = https://github.com/conda-forge/perl-test-fatal-feedstock.git
+	path = feedstocks/perl-test-fatal
+	branch = refs/heads/main
