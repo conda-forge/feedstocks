@@ -70698,3 +70698,7 @@
 	url = https://github.com/conda-forge/wcstools-feedstock.git
 	path = feedstocks/wcstools
 	branch = refs/heads/main
+[submodule "tritonclient-split"]
+	url = https://github.com/conda-forge/tritonclient-split-feedstock.git
+	path = feedstocks/tritonclient-split
+	branch = refs/heads/main
