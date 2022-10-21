@@ -70714,3 +70714,7 @@
 	url = https://github.com/conda-forge/dremio-arrow-feedstock.git
 	path = feedstocks/dremio-arrow
 	branch = refs/heads/main
+[submodule "invariant-point-attention"]
+	url = https://github.com/conda-forge/invariant-point-attention-feedstock.git
+	path = feedstocks/invariant-point-attention
+	branch = refs/heads/main
