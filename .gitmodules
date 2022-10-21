@@ -70718,3 +70718,7 @@
 	url = https://github.com/conda-forge/invariant-point-attention-feedstock.git
 	path = feedstocks/invariant-point-attention
 	branch = refs/heads/main
+[submodule "muon"]
+	url = https://github.com/conda-forge/muon-feedstock.git
+	path = feedstocks/muon
+	branch = refs/heads/main
