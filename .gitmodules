@@ -70710,3 +70710,7 @@
 	url = https://github.com/conda-forge/carto-auth-feedstock.git
 	path = feedstocks/carto-auth
 	branch = refs/heads/main
+[submodule "dremio-arrow"]
+	url = https://github.com/conda-forge/dremio-arrow-feedstock.git
+	path = feedstocks/dremio-arrow
+	branch = refs/heads/main
