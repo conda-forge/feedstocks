@@ -70750,3 +70750,7 @@
 	url = https://github.com/conda-forge/jive-feedstock.git
 	path = feedstocks/jive
 	branch = refs/heads/main
+[submodule "nvitop"]
+	url = https://github.com/conda-forge/nvitop-feedstock.git
+	path = feedstocks/nvitop
+	branch = refs/heads/main
