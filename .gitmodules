@@ -70782,3 +70782,7 @@
 	url = https://github.com/conda-forge/r-chronicler-feedstock.git
 	path = feedstocks/r-chronicler
 	branch = refs/heads/main
+[submodule "r-ukbtools"]
+	url = https://github.com/conda-forge/r-ukbtools-feedstock.git
+	path = feedstocks/r-ukbtools
+	branch = refs/heads/main
