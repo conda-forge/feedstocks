@@ -70774,3 +70774,7 @@
 	url = https://github.com/conda-forge/r-sftime-feedstock.git
 	path = feedstocks/r-sftime
 	branch = refs/heads/main
+[submodule "r-encryptedrmd"]
+	url = https://github.com/conda-forge/r-encryptedrmd-feedstock.git
+	path = feedstocks/r-encryptedrmd
+	branch = refs/heads/main
