@@ -70770,3 +70770,7 @@
 	url = https://github.com/conda-forge/hdbpp-es-feedstock.git
 	path = feedstocks/hdbpp-es
 	branch = refs/heads/main
+[submodule "r-sftime"]
+	url = https://github.com/conda-forge/r-sftime-feedstock.git
+	path = feedstocks/r-sftime
+	branch = refs/heads/main
