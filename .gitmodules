@@ -70746,3 +70746,7 @@
 	url = https://github.com/conda-forge/yaqd-labjack-feedstock.git
 	path = feedstocks/yaqd-labjack
 	branch = refs/heads/main
+[submodule "jive"]
+	url = https://github.com/conda-forge/jive-feedstock.git
+	path = feedstocks/jive
+	branch = refs/heads/main
