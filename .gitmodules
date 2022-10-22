@@ -70726,3 +70726,7 @@
 	url = https://github.com/conda-forge/modelcards-feedstock.git
 	path = feedstocks/modelcards
 	branch = refs/heads/main
+[submodule "seqdiag"]
+	url = https://github.com/conda-forge/seqdiag-feedstock.git
+	path = feedstocks/seqdiag
+	branch = refs/heads/main
