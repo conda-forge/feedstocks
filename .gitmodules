@@ -70762,3 +70762,7 @@
 	url = https://github.com/conda-forge/libhdbpp-timescale-feedstock.git
 	path = feedstocks/libhdbpp-timescale
 	branch = refs/heads/main
+[submodule "pycspade"]
+	url = https://github.com/conda-forge/pycspade-feedstock.git
+	path = feedstocks/pycspade
+	branch = refs/heads/main
