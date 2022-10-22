@@ -70738,3 +70738,7 @@
 	url = https://github.com/conda-forge/skops-feedstock.git
 	path = feedstocks/skops
 	branch = refs/heads/main
+[submodule "blockdiag"]
+	url = https://github.com/conda-forge/blockdiag-feedstock.git
+	path = feedstocks/blockdiag
+	branch = refs/heads/main
