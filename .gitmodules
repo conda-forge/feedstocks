@@ -70730,3 +70730,7 @@
 	url = https://github.com/conda-forge/seqdiag-feedstock.git
 	path = feedstocks/seqdiag
 	branch = refs/heads/main
+[submodule "sphinxcontrib-seqdiag"]
+	url = https://github.com/conda-forge/sphinxcontrib-seqdiag-feedstock.git
+	path = feedstocks/sphinxcontrib-seqdiag
+	branch = refs/heads/main
