@@ -70742,3 +70742,7 @@
 	url = https://github.com/conda-forge/blockdiag-feedstock.git
 	path = feedstocks/blockdiag
 	branch = refs/heads/main
+[submodule "yaqd-labjack"]
+	url = https://github.com/conda-forge/yaqd-labjack-feedstock.git
+	path = feedstocks/yaqd-labjack
+	branch = refs/heads/main
