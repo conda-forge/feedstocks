@@ -70766,3 +70766,7 @@
 	url = https://github.com/conda-forge/pycspade-feedstock.git
 	path = feedstocks/pycspade
 	branch = refs/heads/main
+[submodule "hdbpp-es"]
+	url = https://github.com/conda-forge/hdbpp-es-feedstock.git
+	path = feedstocks/hdbpp-es
+	branch = refs/heads/main
