@@ -70758,3 +70758,7 @@
 	url = https://github.com/conda-forge/hdbpp-cm-feedstock.git
 	path = feedstocks/hdbpp-cm
 	branch = refs/heads/main
+[submodule "libhdbpp-timescale"]
+	url = https://github.com/conda-forge/libhdbpp-timescale-feedstock.git
+	path = feedstocks/libhdbpp-timescale
+	branch = refs/heads/main
