@@ -70734,3 +70734,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-seqdiag-feedstock.git
 	path = feedstocks/sphinxcontrib-seqdiag
 	branch = refs/heads/main
+[submodule "skops"]
+	url = https://github.com/conda-forge/skops-feedstock.git
+	path = feedstocks/skops
+	branch = refs/heads/main
