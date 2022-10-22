@@ -70754,3 +70754,7 @@
 	url = https://github.com/conda-forge/nvitop-feedstock.git
 	path = feedstocks/nvitop
 	branch = refs/heads/main
+[submodule "hdbpp-cm"]
+	url = https://github.com/conda-forge/hdbpp-cm-feedstock.git
+	path = feedstocks/hdbpp-cm
+	branch = refs/heads/main
