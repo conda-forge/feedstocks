@@ -70722,3 +70722,7 @@
 	url = https://github.com/conda-forge/muon-feedstock.git
 	path = feedstocks/muon
 	branch = refs/heads/main
+[submodule "modelcards"]
+	url = https://github.com/conda-forge/modelcards-feedstock.git
+	path = feedstocks/modelcards
+	branch = refs/heads/main
