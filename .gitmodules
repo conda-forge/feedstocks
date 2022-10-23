@@ -70794,3 +70794,7 @@
 	url = https://github.com/conda-forge/circuitbreaker-feedstock.git
 	path = feedstocks/circuitbreaker
 	branch = refs/heads/main
+[submodule "perl-email-date-format"]
+	url = https://github.com/conda-forge/perl-email-date-format-feedstock.git
+	path = feedstocks/perl-email-date-format
+	branch = refs/heads/main
