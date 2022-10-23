@@ -70790,3 +70790,7 @@
 	url = https://github.com/conda-forge/r-biodivmapr-feedstock.git
 	path = feedstocks/r-biodivmapr
 	branch = refs/heads/main
+[submodule "circuitbreaker"]
+	url = https://github.com/conda-forge/circuitbreaker-feedstock.git
+	path = feedstocks/circuitbreaker
+	branch = refs/heads/main
