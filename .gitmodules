@@ -70826,3 +70826,7 @@
 	url = https://github.com/conda-forge/catt-feedstock.git
 	path = feedstocks/catt
 	branch = refs/heads/main
+[submodule "perl-b-cow"]
+	url = https://github.com/conda-forge/perl-b-cow-feedstock.git
+	path = feedstocks/perl-b-cow
+	branch = refs/heads/main
