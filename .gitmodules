@@ -70806,3 +70806,7 @@
 	url = https://github.com/conda-forge/asyncio-throttle-feedstock.git
 	path = feedstocks/asyncio-throttle
 	branch = refs/heads/main
+[submodule "aiohue"]
+	url = https://github.com/conda-forge/aiohue-feedstock.git
+	path = feedstocks/aiohue
+	branch = refs/heads/main
