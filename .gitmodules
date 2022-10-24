@@ -70838,3 +70838,7 @@
 	url = https://github.com/conda-forge/forestplot-feedstock.git
 	path = feedstocks/forestplot
 	branch = refs/heads/main
+[submodule "translators"]
+	url = https://github.com/conda-forge/translators-feedstock.git
+	path = feedstocks/translators
+	branch = refs/heads/main
