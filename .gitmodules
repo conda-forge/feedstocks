@@ -70818,3 +70818,7 @@
 	url = https://github.com/conda-forge/casttube-feedstock.git
 	path = feedstocks/casttube
 	branch = refs/heads/main
+[submodule "pychromecast"]
+	url = https://github.com/conda-forge/pychromecast-feedstock.git
+	path = feedstocks/pychromecast
+	branch = refs/heads/main
