@@ -70810,3 +70810,7 @@
 	url = https://github.com/conda-forge/aiohue-feedstock.git
 	path = feedstocks/aiohue
 	branch = refs/heads/main
+[submodule "django-annoying"]
+	url = https://github.com/conda-forge/django-annoying-feedstock.git
+	path = feedstocks/django-annoying
+	branch = refs/heads/main
