@@ -70802,3 +70802,7 @@
 	url = https://github.com/conda-forge/django-loginas-feedstock.git
 	path = feedstocks/django-loginas
 	branch = refs/heads/main
+[submodule "asyncio-throttle"]
+	url = https://github.com/conda-forge/asyncio-throttle-feedstock.git
+	path = feedstocks/asyncio-throttle
+	branch = refs/heads/main
