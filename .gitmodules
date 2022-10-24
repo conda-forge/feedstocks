@@ -70854,3 +70854,7 @@
 	url = https://github.com/conda-forge/partseg-smfish-feedstock.git
 	path = feedstocks/partseg-smfish
 	branch = refs/heads/main
+[submodule "robotframework-databaselibrary"]
+	url = https://github.com/conda-forge/robotframework-databaselibrary-feedstock.git
+	path = feedstocks/robotframework-databaselibrary
+	branch = refs/heads/main
