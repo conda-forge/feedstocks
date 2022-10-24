@@ -70842,3 +70842,7 @@
 	url = https://github.com/conda-forge/translators-feedstock.git
 	path = feedstocks/translators
 	branch = refs/heads/main
+[submodule "pyexecjs"]
+	url = https://github.com/conda-forge/pyexecjs-feedstock.git
+	path = feedstocks/pyexecjs
+	branch = refs/heads/main
