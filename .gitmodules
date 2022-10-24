@@ -70822,3 +70822,7 @@
 	url = https://github.com/conda-forge/pychromecast-feedstock.git
 	path = feedstocks/pychromecast
 	branch = refs/heads/main
+[submodule "catt"]
+	url = https://github.com/conda-forge/catt-feedstock.git
+	path = feedstocks/catt
+	branch = refs/heads/main
