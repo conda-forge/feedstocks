@@ -70878,3 +70878,7 @@
 	url = https://github.com/conda-forge/funsor-feedstock.git
 	path = feedstocks/funsor
 	branch = refs/heads/main
+[submodule "odc-dscache"]
+	url = https://github.com/conda-forge/odc-dscache-feedstock.git
+	path = feedstocks/odc-dscache
+	branch = refs/heads/main
