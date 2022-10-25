@@ -70870,3 +70870,7 @@
 	url = https://github.com/conda-forge/cryotypes-feedstock.git
 	path = feedstocks/cryotypes
 	branch = refs/heads/main
+[submodule "koopa-viz"]
+	url = https://github.com/conda-forge/koopa-viz-feedstock.git
+	path = feedstocks/koopa-viz
+	branch = refs/heads/main
