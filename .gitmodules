@@ -70902,3 +70902,7 @@
 	url = https://github.com/conda-forge/evotorch-feedstock.git
 	path = feedstocks/evotorch
 	branch = refs/heads/main
+[submodule "dynamo-pandas"]
+	url = https://github.com/conda-forge/dynamo-pandas-feedstock.git
+	path = feedstocks/dynamo-pandas
+	branch = refs/heads/main
