@@ -70890,3 +70890,7 @@
 	url = https://github.com/conda-forge/featuretools_sql-feedstock.git
 	path = feedstocks/featuretools_sql
 	branch = refs/heads/main
+[submodule "cf_pandas"]
+	url = https://github.com/conda-forge/cf_pandas-feedstock.git
+	path = feedstocks/cf_pandas
+	branch = refs/heads/main
