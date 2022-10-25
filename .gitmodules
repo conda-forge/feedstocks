@@ -70898,3 +70898,7 @@
 	url = https://github.com/conda-forge/jsf-feedstock.git
 	path = feedstocks/jsf
 	branch = refs/heads/main
+[submodule "evotorch"]
+	url = https://github.com/conda-forge/evotorch-feedstock.git
+	path = feedstocks/evotorch
+	branch = refs/heads/main
