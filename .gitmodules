@@ -70894,3 +70894,7 @@
 	url = https://github.com/conda-forge/cf_pandas-feedstock.git
 	path = feedstocks/cf_pandas
 	branch = refs/heads/main
+[submodule "jsf"]
+	url = https://github.com/conda-forge/jsf-feedstock.git
+	path = feedstocks/jsf
+	branch = refs/heads/main
