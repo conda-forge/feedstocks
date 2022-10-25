@@ -70874,3 +70874,7 @@
 	url = https://github.com/conda-forge/koopa-viz-feedstock.git
 	path = feedstocks/koopa-viz
 	branch = refs/heads/main
+[submodule "funsor"]
+	url = https://github.com/conda-forge/funsor-feedstock.git
+	path = feedstocks/funsor
+	branch = refs/heads/main
