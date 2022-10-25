@@ -70862,3 +70862,7 @@
 	url = https://github.com/conda-forge/hoomd-dlext-feedstock.git
 	path = feedstocks/hoomd-dlext
 	branch = refs/heads/main
+[submodule "odc-cloud"]
+	url = https://github.com/conda-forge/odc-cloud-feedstock.git
+	path = feedstocks/odc-cloud
+	branch = refs/heads/main
