@@ -70866,3 +70866,7 @@
 	url = https://github.com/conda-forge/odc-cloud-feedstock.git
 	path = feedstocks/odc-cloud
 	branch = refs/heads/main
+[submodule "cryotypes"]
+	url = https://github.com/conda-forge/cryotypes-feedstock.git
+	path = feedstocks/cryotypes
+	branch = refs/heads/main
