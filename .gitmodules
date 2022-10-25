@@ -70858,3 +70858,7 @@
 	url = https://github.com/conda-forge/robotframework-databaselibrary-feedstock.git
 	path = feedstocks/robotframework-databaselibrary
 	branch = refs/heads/main
+[submodule "hoomd-dlext"]
+	url = https://github.com/conda-forge/hoomd-dlext-feedstock.git
+	path = feedstocks/hoomd-dlext
+	branch = refs/heads/main
