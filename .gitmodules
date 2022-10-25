@@ -70886,3 +70886,7 @@
 	url = https://github.com/conda-forge/pogo-feedstock.git
 	path = feedstocks/pogo
 	branch = refs/heads/main
+[submodule "featuretools_sql"]
+	url = https://github.com/conda-forge/featuretools_sql-feedstock.git
+	path = feedstocks/featuretools_sql
+	branch = refs/heads/main
