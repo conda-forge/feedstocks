@@ -70922,3 +70922,7 @@
 	url = https://github.com/conda-forge/pyfunctional-feedstock.git
 	path = feedstocks/pyfunctional
 	branch = refs/heads/main
+[submodule "ridgeplot-py"]
+	url = https://github.com/conda-forge/ridgeplot-py-feedstock.git
+	path = feedstocks/ridgeplot-py
+	branch = refs/heads/main
