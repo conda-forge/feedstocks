@@ -70938,3 +70938,7 @@
 	url = https://github.com/conda-forge/pystardb-feedstock.git
 	path = feedstocks/pystardb
 	branch = refs/heads/main
+[submodule "pydeck-carto"]
+	url = https://github.com/conda-forge/pydeck-carto-feedstock.git
+	path = feedstocks/pydeck-carto
+	branch = refs/heads/main
