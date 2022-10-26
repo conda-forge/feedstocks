@@ -70942,3 +70942,7 @@
 	url = https://github.com/conda-forge/pydeck-carto-feedstock.git
 	path = feedstocks/pydeck-carto
 	branch = refs/heads/main
+[submodule "streamlit-aggrid"]
+	url = https://github.com/conda-forge/streamlit-aggrid-feedstock.git
+	path = feedstocks/streamlit-aggrid
+	branch = refs/heads/main
