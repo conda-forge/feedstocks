@@ -70930,3 +70930,7 @@
 	url = https://github.com/conda-forge/nebari-dask-feedstock.git
 	path = feedstocks/nebari-dask
 	branch = refs/heads/main
+[submodule "symlink-exe-substitute"]
+	url = https://github.com/conda-forge/symlink-exe-substitute-feedstock.git
+	path = feedstocks/symlink-exe-substitute
+	branch = refs/heads/main
