@@ -70918,3 +70918,7 @@
 	url = https://github.com/conda-forge/chafer-feedstock.git
 	path = feedstocks/chafer
 	branch = refs/heads/main
+[submodule "pyfunctional"]
+	url = https://github.com/conda-forge/pyfunctional-feedstock.git
+	path = feedstocks/pyfunctional
+	branch = refs/heads/main
