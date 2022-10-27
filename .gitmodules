@@ -70962,3 +70962,7 @@
 	url = https://github.com/conda-forge/libthermo-feedstock.git
 	path = feedstocks/libthermo
 	branch = refs/heads/main
+[submodule "scriptengine-tasks-hpc"]
+	url = https://github.com/conda-forge/scriptengine-tasks-hpc-feedstock.git
+	path = feedstocks/scriptengine-tasks-hpc
+	branch = refs/heads/main
