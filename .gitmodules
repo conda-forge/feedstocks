@@ -70966,3 +70966,7 @@
 	url = https://github.com/conda-forge/scriptengine-tasks-hpc-feedstock.git
 	path = feedstocks/scriptengine-tasks-hpc
 	branch = refs/heads/main
+[submodule "pydistcheck"]
+	url = https://github.com/conda-forge/pydistcheck-feedstock.git
+	path = feedstocks/pydistcheck
+	branch = refs/heads/main
