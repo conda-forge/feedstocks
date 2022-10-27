@@ -70958,3 +70958,7 @@
 	url = https://github.com/conda-forge/pferd-feedstock.git
 	path = feedstocks/pferd
 	branch = refs/heads/main
+[submodule "libthermo"]
+	url = https://github.com/conda-forge/libthermo-feedstock.git
+	path = feedstocks/libthermo
+	branch = refs/heads/main
