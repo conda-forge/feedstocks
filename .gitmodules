@@ -70950,3 +70950,7 @@
 	url = https://github.com/conda-forge/twarc-feedstock.git
 	path = feedstocks/twarc
 	branch = refs/heads/main
+[submodule "odc-apps-dc-tools"]
+	url = https://github.com/conda-forge/odc-apps-dc-tools-feedstock.git
+	path = feedstocks/odc-apps-dc-tools
+	branch = refs/heads/main
