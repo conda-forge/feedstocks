@@ -70974,3 +70974,7 @@
 	url = https://github.com/conda-forge/r-forecasthybrid-feedstock.git
 	path = feedstocks/r-forecasthybrid
 	branch = refs/heads/main
+[submodule "r-thief"]
+	url = https://github.com/conda-forge/r-thief-feedstock.git
+	path = feedstocks/r-thief
+	branch = refs/heads/main
