@@ -70982,3 +70982,7 @@
 	url = https://github.com/conda-forge/r-tsstudio-feedstock.git
 	path = feedstocks/r-tsstudio
 	branch = refs/heads/main
+[submodule "r-hts"]
+	url = https://github.com/conda-forge/r-hts-feedstock.git
+	path = feedstocks/r-hts
+	branch = refs/heads/main
