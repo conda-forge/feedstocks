@@ -70970,3 +70970,7 @@
 	url = https://github.com/conda-forge/pydistcheck-feedstock.git
 	path = feedstocks/pydistcheck
 	branch = refs/heads/main
+[submodule "r-forecasthybrid"]
+	url = https://github.com/conda-forge/r-forecasthybrid-feedstock.git
+	path = feedstocks/r-forecasthybrid
+	branch = refs/heads/main
