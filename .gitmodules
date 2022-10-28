@@ -71002,3 +71002,7 @@
 	url = https://github.com/conda-forge/eudist-feedstock.git
 	path = feedstocks/eudist
 	branch = refs/heads/main
+[submodule "molgrid"]
+	url = https://github.com/conda-forge/molgrid-feedstock.git
+	path = feedstocks/molgrid
+	branch = refs/heads/main
