@@ -70998,3 +70998,7 @@
 	url = https://github.com/conda-forge/loos-feedstock.git
 	path = feedstocks/loos
 	branch = refs/heads/main
+[submodule "eudist"]
+	url = https://github.com/conda-forge/eudist-feedstock.git
+	path = feedstocks/eudist
+	branch = refs/heads/main
