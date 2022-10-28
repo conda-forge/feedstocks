@@ -70986,3 +70986,7 @@
 	url = https://github.com/conda-forge/r-hts-feedstock.git
 	path = feedstocks/r-hts
 	branch = refs/heads/main
+[submodule "bipedal-locomotion-framework"]
+	url = https://github.com/conda-forge/bipedal-locomotion-framework-feedstock.git
+	path = feedstocks/bipedal-locomotion-framework
+	branch = refs/heads/main
