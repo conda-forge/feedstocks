@@ -71010,3 +71010,7 @@
 	url = https://github.com/conda-forge/jupyterlab-copy-relative-path-feedstock.git
 	path = feedstocks/jupyterlab-copy-relative-path
 	branch = refs/heads/main
+[submodule "zenodo_backpack"]
+	url = https://github.com/conda-forge/zenodo_backpack-feedstock.git
+	path = feedstocks/zenodo_backpack
+	branch = refs/heads/main
