@@ -71018,3 +71018,7 @@
 	url = https://github.com/conda-forge/hfradarpy-feedstock.git
 	path = feedstocks/hfradarpy
 	branch = refs/heads/main
+[submodule "minisom"]
+	url = https://github.com/conda-forge/minisom-feedstock.git
+	path = feedstocks/minisom
+	branch = refs/heads/main
