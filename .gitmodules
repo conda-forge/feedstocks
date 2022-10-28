@@ -71014,3 +71014,7 @@
 	url = https://github.com/conda-forge/zenodo_backpack-feedstock.git
 	path = feedstocks/zenodo_backpack
 	branch = refs/heads/main
+[submodule "hfradarpy"]
+	url = https://github.com/conda-forge/hfradarpy-feedstock.git
+	path = feedstocks/hfradarpy
+	branch = refs/heads/main
