@@ -71034,3 +71034,7 @@
 	url = https://github.com/conda-forge/parallelio-feedstock.git
 	path = feedstocks/parallelio
 	branch = refs/heads/main
+[submodule "gz-sim"]
+	url = https://github.com/conda-forge/gz-sim-feedstock.git
+	path = feedstocks/gz-sim
+	branch = refs/heads/main
