@@ -71030,3 +71030,7 @@
 	url = https://github.com/conda-forge/liquid-babel-feedstock.git
 	path = feedstocks/liquid-babel
 	branch = refs/heads/main
+[submodule "parallelio"]
+	url = https://github.com/conda-forge/parallelio-feedstock.git
+	path = feedstocks/parallelio
+	branch = refs/heads/main
