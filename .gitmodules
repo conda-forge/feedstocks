@@ -71038,3 +71038,7 @@
 	url = https://github.com/conda-forge/gz-sim-feedstock.git
 	path = feedstocks/gz-sim
 	branch = refs/heads/main
+[submodule "denoptim"]
+	url = https://github.com/conda-forge/denoptim-feedstock.git
+	path = feedstocks/denoptim
+	branch = refs/heads/main
