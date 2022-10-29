@@ -71026,3 +71026,7 @@
 	url = https://github.com/conda-forge/nyxus-feedstock.git
 	path = feedstocks/nyxus
 	branch = refs/heads/main
+[submodule "liquid-babel"]
+	url = https://github.com/conda-forge/liquid-babel-feedstock.git
+	path = feedstocks/liquid-babel
+	branch = refs/heads/main
