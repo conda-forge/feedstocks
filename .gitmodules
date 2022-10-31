@@ -71110,3 +71110,7 @@
 	url = https://github.com/conda-forge/r-freesurferformats-feedstock.git
 	path = feedstocks/r-freesurferformats
 	branch = refs/heads/main
+[submodule "r-dipsaus"]
+	url = https://github.com/conda-forge/r-dipsaus-feedstock.git
+	path = feedstocks/r-dipsaus
+	branch = refs/heads/main
