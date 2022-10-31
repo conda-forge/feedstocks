@@ -71154,3 +71154,7 @@
 	url = https://github.com/conda-forge/tiara-feedstock.git
 	path = feedstocks/tiara
 	branch = refs/heads/main
+[submodule "r-ivreg"]
+	url = https://github.com/conda-forge/r-ivreg-feedstock.git
+	path = feedstocks/r-ivreg
+	branch = refs/heads/main
