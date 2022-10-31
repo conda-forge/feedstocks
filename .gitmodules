@@ -71054,3 +71054,7 @@
 	url = https://github.com/conda-forge/gz-launch-feedstock.git
 	path = feedstocks/gz-launch
 	branch = refs/heads/main
+[submodule "openpulse"]
+	url = https://github.com/conda-forge/openpulse-feedstock.git
+	path = feedstocks/openpulse
+	branch = refs/heads/main
