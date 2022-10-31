@@ -71066,3 +71066,7 @@
 	url = https://github.com/conda-forge/openqasm3-feedstock.git
 	path = feedstocks/openqasm3
 	branch = refs/heads/main
+[submodule "hpx"]
+	url = https://github.com/conda-forge/hpx-feedstock.git
+	path = feedstocks/hpx
+	branch = refs/heads/main
