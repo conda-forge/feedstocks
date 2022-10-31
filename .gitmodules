@@ -71118,3 +71118,7 @@
 	url = https://github.com/conda-forge/r-raveio-feedstock.git
 	path = feedstocks/r-raveio
 	branch = refs/heads/main
+[submodule "r-edfreader"]
+	url = https://github.com/conda-forge/r-edfreader-feedstock.git
+	path = feedstocks/r-edfreader
+	branch = refs/heads/main
