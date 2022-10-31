@@ -71094,3 +71094,7 @@
 	url = https://github.com/conda-forge/r-filearray-feedstock.git
 	path = feedstocks/r-filearray
 	branch = refs/heads/main
+[submodule "r-startup"]
+	url = https://github.com/conda-forge/r-startup-feedstock.git
+	path = feedstocks/r-startup
+	branch = refs/heads/main
