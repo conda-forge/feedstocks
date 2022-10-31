@@ -71134,3 +71134,7 @@
 	url = https://github.com/conda-forge/r-rpymat-feedstock.git
 	path = feedstocks/r-rpymat
 	branch = refs/heads/main
+[submodule "r-oro.nifti"]
+	url = https://github.com/conda-forge/r-oro.nifti-feedstock.git
+	path = feedstocks/r-oro.nifti
+	branch = refs/heads/main
