@@ -71138,3 +71138,7 @@
 	url = https://github.com/conda-forge/r-oro.nifti-feedstock.git
 	path = feedstocks/r-oro.nifti
 	branch = refs/heads/main
+[submodule "r-shinyvalidate"]
+	url = https://github.com/conda-forge/r-shinyvalidate-feedstock.git
+	path = feedstocks/r-shinyvalidate
+	branch = refs/heads/main
