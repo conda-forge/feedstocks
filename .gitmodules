@@ -71078,3 +71078,7 @@
 	url = https://github.com/conda-forge/perl-devel-nytprof-feedstock.git
 	path = feedstocks/perl-devel-nytprof
 	branch = refs/heads/main
+[submodule "perl-test-differences"]
+	url = https://github.com/conda-forge/perl-test-differences-feedstock.git
+	path = feedstocks/perl-test-differences
+	branch = refs/heads/main
