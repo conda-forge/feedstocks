@@ -71114,3 +71114,7 @@
 	url = https://github.com/conda-forge/r-dipsaus-feedstock.git
 	path = feedstocks/r-dipsaus
 	branch = refs/heads/main
+[submodule "r-raveio"]
+	url = https://github.com/conda-forge/r-raveio-feedstock.git
+	path = feedstocks/r-raveio
+	branch = refs/heads/main
