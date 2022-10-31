@@ -71106,3 +71106,7 @@
 	url = https://github.com/conda-forge/r-pkgfilecache-feedstock.git
 	path = feedstocks/r-pkgfilecache
 	branch = refs/heads/main
+[submodule "r-freesurferformats"]
+	url = https://github.com/conda-forge/r-freesurferformats-feedstock.git
+	path = feedstocks/r-freesurferformats
+	branch = refs/heads/main
