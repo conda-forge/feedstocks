@@ -71142,3 +71142,7 @@
 	url = https://github.com/conda-forge/r-shinyvalidate-feedstock.git
 	path = feedstocks/r-shinyvalidate
 	branch = refs/heads/main
+[submodule "graphblas-algorithms"]
+	url = https://github.com/conda-forge/graphblas-algorithms-feedstock.git
+	path = feedstocks/graphblas-algorithms
+	branch = refs/heads/main
