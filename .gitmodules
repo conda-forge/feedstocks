@@ -71126,3 +71126,7 @@
 	url = https://github.com/conda-forge/r-shidashi-feedstock.git
 	path = feedstocks/r-shidashi
 	branch = refs/heads/main
+[submodule "r-ravedash"]
+	url = https://github.com/conda-forge/r-ravedash-feedstock.git
+	path = feedstocks/r-ravedash
+	branch = refs/heads/main
