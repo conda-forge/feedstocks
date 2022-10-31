@@ -71074,3 +71074,7 @@
 	url = https://github.com/conda-forge/qt-dev-helper-feedstock.git
 	path = feedstocks/qt-dev-helper
 	branch = refs/heads/main
+[submodule "perl-devel-nytprof"]
+	url = https://github.com/conda-forge/perl-devel-nytprof-feedstock.git
+	path = feedstocks/perl-devel-nytprof
+	branch = refs/heads/main
