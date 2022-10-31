@@ -71098,3 +71098,7 @@
 	url = https://github.com/conda-forge/r-startup-feedstock.git
 	path = feedstocks/r-startup
 	branch = refs/heads/main
+[submodule "r-threebrain"]
+	url = https://github.com/conda-forge/r-threebrain-feedstock.git
+	path = feedstocks/r-threebrain
+	branch = refs/heads/main
