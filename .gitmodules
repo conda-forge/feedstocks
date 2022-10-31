@@ -71146,3 +71146,7 @@
 	url = https://github.com/conda-forge/graphblas-algorithms-feedstock.git
 	path = feedstocks/graphblas-algorithms
 	branch = refs/heads/main
+[submodule "viresclient"]
+	url = https://github.com/conda-forge/viresclient-feedstock.git
+	path = feedstocks/viresclient
+	branch = refs/heads/main
