@@ -71102,3 +71102,7 @@
 	url = https://github.com/conda-forge/r-threebrain-feedstock.git
 	path = feedstocks/r-threebrain
 	branch = refs/heads/main
+[submodule "r-pkgfilecache"]
+	url = https://github.com/conda-forge/r-pkgfilecache-feedstock.git
+	path = feedstocks/r-pkgfilecache
+	branch = refs/heads/main
