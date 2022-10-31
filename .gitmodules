@@ -71130,3 +71130,7 @@
 	url = https://github.com/conda-forge/r-ravedash-feedstock.git
 	path = feedstocks/r-ravedash
 	branch = refs/heads/main
+[submodule "r-rpymat"]
+	url = https://github.com/conda-forge/r-rpymat-feedstock.git
+	path = feedstocks/r-rpymat
+	branch = refs/heads/main
