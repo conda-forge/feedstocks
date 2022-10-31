@@ -71150,3 +71150,7 @@
 	url = https://github.com/conda-forge/viresclient-feedstock.git
 	path = feedstocks/viresclient
 	branch = refs/heads/main
+[submodule "tiara"]
+	url = https://github.com/conda-forge/tiara-feedstock.git
+	path = feedstocks/tiara
+	branch = refs/heads/main
