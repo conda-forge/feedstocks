@@ -71086,3 +71086,7 @@
 	url = https://github.com/conda-forge/r-ravetools-feedstock.git
 	path = feedstocks/r-ravetools
 	branch = refs/heads/main
+[submodule "r-gifti"]
+	url = https://github.com/conda-forge/r-gifti-feedstock.git
+	path = feedstocks/r-gifti
+	branch = refs/heads/main
