@@ -71046,3 +71046,7 @@
 	url = https://github.com/conda-forge/nh3-feedstock.git
 	path = feedstocks/nh3
 	branch = refs/heads/main
+[submodule "optree"]
+	url = https://github.com/conda-forge/optree-feedstock.git
+	path = feedstocks/optree
+	branch = refs/heads/main
