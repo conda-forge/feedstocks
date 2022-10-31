@@ -71062,3 +71062,7 @@
 	url = https://github.com/conda-forge/oqpy-feedstock.git
 	path = feedstocks/oqpy
 	branch = refs/heads/main
+[submodule "openqasm3"]
+	url = https://github.com/conda-forge/openqasm3-feedstock.git
+	path = feedstocks/openqasm3
+	branch = refs/heads/main
