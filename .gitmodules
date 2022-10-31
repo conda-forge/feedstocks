@@ -71070,3 +71070,7 @@
 	url = https://github.com/conda-forge/hpx-feedstock.git
 	path = feedstocks/hpx
 	branch = refs/heads/main
+[submodule "qt-dev-helper"]
+	url = https://github.com/conda-forge/qt-dev-helper-feedstock.git
+	path = feedstocks/qt-dev-helper
+	branch = refs/heads/main
