@@ -71058,3 +71058,7 @@
 	url = https://github.com/conda-forge/openpulse-feedstock.git
 	path = feedstocks/openpulse
 	branch = refs/heads/main
+[submodule "oqpy"]
+	url = https://github.com/conda-forge/oqpy-feedstock.git
+	path = feedstocks/oqpy
+	branch = refs/heads/main
