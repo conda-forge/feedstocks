@@ -71122,3 +71122,7 @@
 	url = https://github.com/conda-forge/r-edfreader-feedstock.git
 	path = feedstocks/r-edfreader
 	branch = refs/heads/main
+[submodule "r-shidashi"]
+	url = https://github.com/conda-forge/r-shidashi-feedstock.git
+	path = feedstocks/r-shidashi
+	branch = refs/heads/main
