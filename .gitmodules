@@ -71158,3 +71158,7 @@
 	url = https://github.com/conda-forge/r-ivreg-feedstock.git
 	path = feedstocks/r-ivreg
 	branch = refs/heads/main
+[submodule "datascience"]
+	url = https://github.com/conda-forge/datascience-feedstock.git
+	path = feedstocks/datascience
+	branch = refs/heads/main
