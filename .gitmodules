@@ -71162,3 +71162,7 @@
 	url = https://github.com/conda-forge/datascience-feedstock.git
 	path = feedstocks/datascience
 	branch = refs/heads/main
+[submodule "multitaper"]
+	url = https://github.com/conda-forge/multitaper-feedstock.git
+	path = feedstocks/multitaper
+	branch = refs/heads/main
