@@ -71170,3 +71170,7 @@
 	url = https://github.com/conda-forge/nanoid-feedstock.git
 	path = feedstocks/nanoid
 	branch = refs/heads/main
+[submodule "inflate64"]
+	url = https://github.com/conda-forge/inflate64-feedstock.git
+	path = feedstocks/inflate64
+	branch = refs/heads/main
