@@ -71190,3 +71190,7 @@
 	url = https://github.com/conda-forge/distopia-feedstock.git
 	path = feedstocks/distopia
 	branch = refs/heads/main
+[submodule "force-delete-win"]
+	url = https://github.com/conda-forge/force-delete-win-feedstock.git
+	path = feedstocks/force-delete-win
+	branch = refs/heads/main
