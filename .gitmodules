@@ -71178,3 +71178,7 @@
 	url = https://github.com/conda-forge/python-on-whales-feedstock.git
 	path = feedstocks/python-on-whales
 	branch = refs/heads/main
+[submodule "vl-convert-python"]
+	url = https://github.com/conda-forge/vl-convert-python-feedstock.git
+	path = feedstocks/vl-convert-python
+	branch = refs/heads/main
