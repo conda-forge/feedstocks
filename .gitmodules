@@ -71186,3 +71186,7 @@
 	url = https://github.com/conda-forge/fica-feedstock.git
 	path = feedstocks/fica
 	branch = refs/heads/main
+[submodule "distopia"]
+	url = https://github.com/conda-forge/distopia-feedstock.git
+	path = feedstocks/distopia
+	branch = refs/heads/main
