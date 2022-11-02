@@ -71194,3 +71194,7 @@
 	url = https://github.com/conda-forge/force-delete-win-feedstock.git
 	path = feedstocks/force-delete-win
 	branch = refs/heads/main
+[submodule "tams"]
+	url = https://github.com/conda-forge/tams-feedstock.git
+	path = feedstocks/tams
+	branch = refs/heads/main
