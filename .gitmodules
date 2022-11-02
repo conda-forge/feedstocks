@@ -71198,3 +71198,7 @@
 	url = https://github.com/conda-forge/tams-feedstock.git
 	path = feedstocks/tams
 	branch = refs/heads/main
+[submodule "tilematrix"]
+	url = https://github.com/conda-forge/tilematrix-feedstock.git
+	path = feedstocks/tilematrix
+	branch = refs/heads/main
