@@ -71214,3 +71214,7 @@
 	url = https://github.com/conda-forge/pyodide-py-feedstock.git
 	path = feedstocks/pyodide-py
 	branch = refs/heads/main
+[submodule "fiatlux"]
+	url = https://github.com/conda-forge/fiatlux-feedstock.git
+	path = feedstocks/fiatlux
+	branch = refs/heads/main
