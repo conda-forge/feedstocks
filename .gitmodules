@@ -71206,3 +71206,7 @@
 	url = https://github.com/conda-forge/perl-devel-assert-feedstock.git
 	path = feedstocks/perl-devel-assert
 	branch = refs/heads/main
+[submodule "jsonnetfmt"]
+	url = https://github.com/conda-forge/jsonnetfmt-feedstock.git
+	path = feedstocks/jsonnetfmt
+	branch = refs/heads/main
