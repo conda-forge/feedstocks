@@ -71222,3 +71222,7 @@
 	url = https://github.com/conda-forge/micropip-feedstock.git
 	path = feedstocks/micropip
 	branch = refs/heads/main
+[submodule "cloud-sql-proxy"]
+	url = https://github.com/conda-forge/cloud-sql-proxy-feedstock.git
+	path = feedstocks/cloud-sql-proxy
+	branch = refs/heads/main
