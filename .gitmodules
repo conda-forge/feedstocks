@@ -71246,3 +71246,7 @@
 	url = https://github.com/conda-forge/mapchete-feedstock.git
 	path = feedstocks/mapchete
 	branch = refs/heads/main
+[submodule "azure-storage-file-share"]
+	url = https://github.com/conda-forge/azure-storage-file-share-feedstock.git
+	path = feedstocks/azure-storage-file-share
+	branch = refs/heads/main
