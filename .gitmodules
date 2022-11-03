@@ -71226,3 +71226,7 @@
 	url = https://github.com/conda-forge/cloud-sql-proxy-feedstock.git
 	path = feedstocks/cloud-sql-proxy
 	branch = refs/heads/main
+[submodule "perl-file-slurp"]
+	url = https://github.com/conda-forge/perl-file-slurp-feedstock.git
+	path = feedstocks/perl-file-slurp
+	branch = refs/heads/main
