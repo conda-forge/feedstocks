@@ -71238,3 +71238,7 @@
 	url = https://github.com/conda-forge/jsonnet-lint-feedstock.git
 	path = feedstocks/jsonnet-lint
 	branch = refs/heads/main
+[submodule "jsonnet-deps"]
+	url = https://github.com/conda-forge/jsonnet-deps-feedstock.git
+	path = feedstocks/jsonnet-deps
+	branch = refs/heads/main
