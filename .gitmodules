@@ -71202,3 +71202,7 @@
 	url = https://github.com/conda-forge/tilematrix-feedstock.git
 	path = feedstocks/tilematrix
 	branch = refs/heads/main
+[submodule "perl-devel-assert"]
+	url = https://github.com/conda-forge/perl-devel-assert-feedstock.git
+	path = feedstocks/perl-devel-assert
+	branch = refs/heads/main
