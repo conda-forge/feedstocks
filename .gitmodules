@@ -71242,3 +71242,7 @@
 	url = https://github.com/conda-forge/jsonnet-deps-feedstock.git
 	path = feedstocks/jsonnet-deps
 	branch = refs/heads/main
+[submodule "mapchete"]
+	url = https://github.com/conda-forge/mapchete-feedstock.git
+	path = feedstocks/mapchete
+	branch = refs/heads/main
