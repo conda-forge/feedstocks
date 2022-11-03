@@ -71234,3 +71234,7 @@
 	url = https://github.com/conda-forge/otter-grader-feedstock.git
 	path = feedstocks/otter-grader
 	branch = refs/heads/main
+[submodule "jsonnet-lint"]
+	url = https://github.com/conda-forge/jsonnet-lint-feedstock.git
+	path = feedstocks/jsonnet-lint
+	branch = refs/heads/main
