@@ -71342,3 +71342,7 @@
 	url = https://github.com/conda-forge/r-configr-feedstock.git
 	path = feedstocks/r-configr
 	branch = refs/heads/main
+[submodule "eodatasets3"]
+	url = https://github.com/conda-forge/eodatasets3-feedstock.git
+	path = feedstocks/eodatasets3
+	branch = refs/heads/main
