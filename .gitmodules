@@ -71318,3 +71318,7 @@
 	url = https://github.com/conda-forge/r-knockoff-feedstock.git
 	path = feedstocks/r-knockoff
 	branch = refs/heads/main
+[submodule "r-rtf"]
+	url = https://github.com/conda-forge/r-rtf-feedstock.git
+	path = feedstocks/r-rtf
+	branch = refs/heads/main
