@@ -71314,3 +71314,7 @@
 	url = https://github.com/conda-forge/r-flatxml-feedstock.git
 	path = feedstocks/r-flatxml
 	branch = refs/heads/main
+[submodule "r-knockoff"]
+	url = https://github.com/conda-forge/r-knockoff-feedstock.git
+	path = feedstocks/r-knockoff
+	branch = refs/heads/main
