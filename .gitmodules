@@ -71266,3 +71266,7 @@
 	url = https://github.com/conda-forge/r-brisc-feedstock.git
 	path = feedstocks/r-brisc
 	branch = refs/heads/main
+[submodule "r-pdfcluster"]
+	url = https://github.com/conda-forge/r-pdfcluster-feedstock.git
+	path = feedstocks/r-pdfcluster
+	branch = refs/heads/main
