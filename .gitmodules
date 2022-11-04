@@ -71362,3 +71362,7 @@
 	url = https://github.com/conda-forge/cryohub-feedstock.git
 	path = feedstocks/cryohub
 	branch = refs/heads/main
+[submodule "perl-yaml-libyaml"]
+	url = https://github.com/conda-forge/perl-yaml-libyaml-feedstock.git
+	path = feedstocks/perl-yaml-libyaml
+	branch = refs/heads/main
