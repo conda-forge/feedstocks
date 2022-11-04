@@ -71278,3 +71278,7 @@
 	url = https://github.com/conda-forge/r-statebins-feedstock.git
 	path = feedstocks/r-statebins
 	branch = refs/heads/main
+[submodule "r-fcps"]
+	url = https://github.com/conda-forge/r-fcps-feedstock.git
+	path = feedstocks/r-fcps
+	branch = refs/heads/main
