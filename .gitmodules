@@ -71354,3 +71354,7 @@
 	url = https://github.com/conda-forge/pangeo-forge-runner-feedstock.git
 	path = feedstocks/pangeo-forge-runner
 	branch = refs/heads/main
+[submodule "r-clustercons"]
+	url = https://github.com/conda-forge/r-clustercons-feedstock.git
+	path = feedstocks/r-clustercons
+	branch = refs/heads/main
