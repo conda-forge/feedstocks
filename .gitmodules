@@ -71294,3 +71294,7 @@
 	url = https://github.com/conda-forge/r-analogue-feedstock.git
 	path = feedstocks/r-analogue
 	branch = refs/heads/main
+[submodule "r-xroi"]
+	url = https://github.com/conda-forge/r-xroi-feedstock.git
+	path = feedstocks/r-xroi
+	branch = refs/heads/main
