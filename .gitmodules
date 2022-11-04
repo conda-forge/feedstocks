@@ -71298,3 +71298,7 @@
 	url = https://github.com/conda-forge/r-xroi-feedstock.git
 	path = feedstocks/r-xroi
 	branch = refs/heads/main
+[submodule "r-ttservice"]
+	url = https://github.com/conda-forge/r-ttservice-feedstock.git
+	path = feedstocks/r-ttservice
+	branch = refs/heads/main
