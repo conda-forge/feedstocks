@@ -71270,3 +71270,7 @@
 	url = https://github.com/conda-forge/r-pdfcluster-feedstock.git
 	path = feedstocks/r-pdfcluster
 	branch = refs/heads/main
+[submodule "r-rcppml"]
+	url = https://github.com/conda-forge/r-rcppml-feedstock.git
+	path = feedstocks/r-rcppml
+	branch = refs/heads/main
