@@ -71358,3 +71358,7 @@
 	url = https://github.com/conda-forge/r-clustercons-feedstock.git
 	path = feedstocks/r-clustercons
 	branch = refs/heads/main
+[submodule "cryohub"]
+	url = https://github.com/conda-forge/cryohub-feedstock.git
+	path = feedstocks/cryohub
+	branch = refs/heads/main
