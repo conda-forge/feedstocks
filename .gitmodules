@@ -71274,3 +71274,7 @@
 	url = https://github.com/conda-forge/r-rcppml-feedstock.git
 	path = feedstocks/r-rcppml
 	branch = refs/heads/main
+[submodule "r-statebins"]
+	url = https://github.com/conda-forge/r-statebins-feedstock.git
+	path = feedstocks/r-statebins
+	branch = refs/heads/main
