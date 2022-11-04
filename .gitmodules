@@ -71338,3 +71338,7 @@
 	url = https://github.com/conda-forge/r-elsa-feedstock.git
 	path = feedstocks/r-elsa
 	branch = refs/heads/main
+[submodule "r-configr"]
+	url = https://github.com/conda-forge/r-configr-feedstock.git
+	path = feedstocks/r-configr
+	branch = refs/heads/main
