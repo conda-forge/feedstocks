@@ -71330,3 +71330,7 @@
 	url = https://github.com/conda-forge/r-ncar-feedstock.git
 	path = feedstocks/r-ncar
 	branch = refs/heads/main
+[submodule "r-aods3"]
+	url = https://github.com/conda-forge/r-aods3-feedstock.git
+	path = feedstocks/r-aods3
+	branch = refs/heads/main
