@@ -71322,3 +71322,7 @@
 	url = https://github.com/conda-forge/r-rtf-feedstock.git
 	path = feedstocks/r-rtf
 	branch = refs/heads/main
+[submodule "r-epitools"]
+	url = https://github.com/conda-forge/r-epitools-feedstock.git
+	path = feedstocks/r-epitools
+	branch = refs/heads/main
