@@ -71374,3 +71374,7 @@
 	url = https://github.com/conda-forge/perl-spiffy-feedstock.git
 	path = feedstocks/perl-spiffy
 	branch = refs/heads/main
+[submodule "perl-test-base"]
+	url = https://github.com/conda-forge/perl-test-base-feedstock.git
+	path = feedstocks/perl-test-base
+	branch = refs/heads/main
