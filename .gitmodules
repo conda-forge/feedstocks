@@ -71334,3 +71334,7 @@
 	url = https://github.com/conda-forge/r-aods3-feedstock.git
 	path = feedstocks/r-aods3
 	branch = refs/heads/main
+[submodule "r-elsa"]
+	url = https://github.com/conda-forge/r-elsa-feedstock.git
+	path = feedstocks/r-elsa
+	branch = refs/heads/main
