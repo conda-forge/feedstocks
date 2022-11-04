@@ -71286,3 +71286,7 @@
 	url = https://github.com/conda-forge/r-torch-feedstock.git
 	path = feedstocks/r-torch
 	branch = refs/heads/main
+[submodule "r-tnet"]
+	url = https://github.com/conda-forge/r-tnet-feedstock.git
+	path = feedstocks/r-tnet
+	branch = refs/heads/main
