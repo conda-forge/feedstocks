@@ -71290,3 +71290,7 @@
 	url = https://github.com/conda-forge/r-tnet-feedstock.git
 	path = feedstocks/r-tnet
 	branch = refs/heads/main
+[submodule "r-analogue"]
+	url = https://github.com/conda-forge/r-analogue-feedstock.git
+	path = feedstocks/r-analogue
+	branch = refs/heads/main
