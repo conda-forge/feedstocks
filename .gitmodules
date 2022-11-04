@@ -71326,3 +71326,7 @@
 	url = https://github.com/conda-forge/r-epitools-feedstock.git
 	path = feedstocks/r-epitools
 	branch = refs/heads/main
+[submodule "r-ncar"]
+	url = https://github.com/conda-forge/r-ncar-feedstock.git
+	path = feedstocks/r-ncar
+	branch = refs/heads/main
