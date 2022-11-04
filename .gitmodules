@@ -71306,3 +71306,7 @@
 	url = https://github.com/conda-forge/r-logitnorm-feedstock.git
 	path = feedstocks/r-logitnorm
 	branch = refs/heads/main
+[submodule "r-noncompart"]
+	url = https://github.com/conda-forge/r-noncompart-feedstock.git
+	path = feedstocks/r-noncompart
+	branch = refs/heads/main
