@@ -71346,3 +71346,7 @@
 	url = https://github.com/conda-forge/eodatasets3-feedstock.git
 	path = feedstocks/eodatasets3
 	branch = refs/heads/main
+[submodule "lightning-utilities"]
+	url = https://github.com/conda-forge/lightning-utilities-feedstock.git
+	path = feedstocks/lightning-utilities
+	branch = refs/heads/main
