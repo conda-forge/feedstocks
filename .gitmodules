@@ -71282,3 +71282,7 @@
 	url = https://github.com/conda-forge/r-fcps-feedstock.git
 	path = feedstocks/r-fcps
 	branch = refs/heads/main
+[submodule "r-torch"]
+	url = https://github.com/conda-forge/r-torch-feedstock.git
+	path = feedstocks/r-torch
+	branch = refs/heads/main
