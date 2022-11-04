@@ -71350,3 +71350,7 @@
 	url = https://github.com/conda-forge/lightning-utilities-feedstock.git
 	path = feedstocks/lightning-utilities
 	branch = refs/heads/main
+[submodule "pangeo-forge-runner"]
+	url = https://github.com/conda-forge/pangeo-forge-runner-feedstock.git
+	path = feedstocks/pangeo-forge-runner
+	branch = refs/heads/main
