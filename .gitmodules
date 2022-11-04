@@ -71258,3 +71258,7 @@
 	url = https://github.com/conda-forge/scikit-network-feedstock.git
 	path = feedstocks/scikit-network
 	branch = refs/heads/main
+[submodule "r-dixontest"]
+	url = https://github.com/conda-forge/r-dixontest-feedstock.git
+	path = feedstocks/r-dixontest
+	branch = refs/heads/main
