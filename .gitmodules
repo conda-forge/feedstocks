@@ -71310,3 +71310,7 @@
 	url = https://github.com/conda-forge/r-noncompart-feedstock.git
 	path = feedstocks/r-noncompart
 	branch = refs/heads/main
+[submodule "r-flatxml"]
+	url = https://github.com/conda-forge/r-flatxml-feedstock.git
+	path = feedstocks/r-flatxml
+	branch = refs/heads/main
