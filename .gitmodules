@@ -71262,3 +71262,7 @@
 	url = https://github.com/conda-forge/r-dixontest-feedstock.git
 	path = feedstocks/r-dixontest
 	branch = refs/heads/main
+[submodule "r-brisc"]
+	url = https://github.com/conda-forge/r-brisc-feedstock.git
+	path = feedstocks/r-brisc
+	branch = refs/heads/main
