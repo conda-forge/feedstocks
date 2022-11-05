@@ -71454,3 +71454,7 @@
 	url = https://github.com/conda-forge/r-matrixlaplacian-feedstock.git
 	path = feedstocks/r-matrixlaplacian
 	branch = refs/heads/main
+[submodule "r-this.path"]
+	url = https://github.com/conda-forge/r-this.path-feedstock.git
+	path = feedstocks/r-this.path
+	branch = refs/heads/main
