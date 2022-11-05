@@ -71494,3 +71494,7 @@
 	url = https://github.com/conda-forge/r-cvms-feedstock.git
 	path = feedstocks/r-cvms
 	branch = refs/heads/main
+[submodule "r-dicer"]
+	url = https://github.com/conda-forge/r-dicer-feedstock.git
+	path = feedstocks/r-dicer
+	branch = refs/heads/main
