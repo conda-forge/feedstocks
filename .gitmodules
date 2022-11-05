@@ -71442,3 +71442,7 @@
 	url = https://github.com/conda-forge/r-svars-feedstock.git
 	path = feedstocks/r-svars
 	branch = refs/heads/main
+[submodule "cleverdict"]
+	url = https://github.com/conda-forge/cleverdict-feedstock.git
+	path = feedstocks/cleverdict
+	branch = refs/heads/main
