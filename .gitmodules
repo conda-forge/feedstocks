@@ -71394,3 +71394,7 @@
 	url = https://github.com/conda-forge/n2v-feedstock.git
 	path = feedstocks/n2v
 	branch = refs/heads/main
+[submodule "jupyter_server_fileid"]
+	url = https://github.com/conda-forge/jupyter_server_fileid-feedstock.git
+	path = feedstocks/jupyter_server_fileid
+	branch = refs/heads/main
