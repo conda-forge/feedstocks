@@ -71430,3 +71430,7 @@
 	url = https://github.com/conda-forge/r-ggvenn-feedstock.git
 	path = feedstocks/r-ggvenn
 	branch = refs/heads/main
+[submodule "reskit"]
+	url = https://github.com/conda-forge/reskit-feedstock.git
+	path = feedstocks/reskit
+	branch = refs/heads/main
