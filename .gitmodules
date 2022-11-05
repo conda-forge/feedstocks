@@ -71418,3 +71418,7 @@
 	url = https://github.com/conda-forge/r-redux-feedstock.git
 	path = feedstocks/r-redux
 	branch = refs/heads/main
+[submodule "r-isotree"]
+	url = https://github.com/conda-forge/r-isotree-feedstock.git
+	path = feedstocks/r-isotree
+	branch = refs/heads/main
