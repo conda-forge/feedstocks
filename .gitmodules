@@ -71434,3 +71434,7 @@
 	url = https://github.com/conda-forge/reskit-feedstock.git
 	path = feedstocks/reskit
 	branch = refs/heads/main
+[submodule "perl-test-yaml"]
+	url = https://github.com/conda-forge/perl-test-yaml-feedstock.git
+	path = feedstocks/perl-test-yaml
+	branch = refs/heads/main
