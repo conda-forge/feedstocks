@@ -71390,3 +71390,7 @@
 	url = https://github.com/conda-forge/dphtools-feedstock.git
 	path = feedstocks/dphtools
 	branch = refs/heads/main
+[submodule "n2v"]
+	url = https://github.com/conda-forge/n2v-feedstock.git
+	path = feedstocks/n2v
+	branch = refs/heads/main
