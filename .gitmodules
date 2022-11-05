@@ -71382,3 +71382,7 @@
 	url = https://github.com/conda-forge/reals-feedstock.git
 	path = feedstocks/reals
 	branch = refs/heads/main
+[submodule "django-emoji"]
+	url = https://github.com/conda-forge/django-emoji-feedstock.git
+	path = feedstocks/django-emoji
+	branch = refs/heads/main
