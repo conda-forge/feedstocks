@@ -71422,3 +71422,7 @@
 	url = https://github.com/conda-forge/r-isotree-feedstock.git
 	path = feedstocks/r-isotree
 	branch = refs/heads/main
+[submodule "r-steadyica"]
+	url = https://github.com/conda-forge/r-steadyica-feedstock.git
+	path = feedstocks/r-steadyica
+	branch = refs/heads/main
