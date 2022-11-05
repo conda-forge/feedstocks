@@ -71490,3 +71490,7 @@
 	url = https://github.com/conda-forge/r-logr-feedstock.git
 	path = feedstocks/r-logr
 	branch = refs/heads/main
+[submodule "r-cvms"]
+	url = https://github.com/conda-forge/r-cvms-feedstock.git
+	path = feedstocks/r-cvms
+	branch = refs/heads/main
