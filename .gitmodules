@@ -71410,3 +71410,7 @@
 	url = https://github.com/conda-forge/r-gson-feedstock.git
 	path = feedstocks/r-gson
 	branch = refs/heads/main
+[submodule "r-rjsoncons"]
+	url = https://github.com/conda-forge/r-rjsoncons-feedstock.git
+	path = feedstocks/r-rjsoncons
+	branch = refs/heads/main
