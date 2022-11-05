@@ -71482,3 +71482,7 @@
 	url = https://github.com/conda-forge/r-rorcid-feedstock.git
 	path = feedstocks/r-rorcid
 	branch = refs/heads/main
+[submodule "r-dgeobj.utils"]
+	url = https://github.com/conda-forge/r-dgeobj.utils-feedstock.git
+	path = feedstocks/r-dgeobj.utils
+	branch = refs/heads/main
