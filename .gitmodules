@@ -71426,3 +71426,7 @@
 	url = https://github.com/conda-forge/r-steadyica-feedstock.git
 	path = feedstocks/r-steadyica
 	branch = refs/heads/main
+[submodule "r-ggvenn"]
+	url = https://github.com/conda-forge/r-ggvenn-feedstock.git
+	path = feedstocks/r-ggvenn
+	branch = refs/heads/main
