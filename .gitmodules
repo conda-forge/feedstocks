@@ -71402,3 +71402,7 @@
 	url = https://github.com/conda-forge/r-onesamplemr-feedstock.git
 	path = feedstocks/r-onesamplemr
 	branch = refs/heads/main
+[submodule "r-mclustcomp"]
+	url = https://github.com/conda-forge/r-mclustcomp-feedstock.git
+	path = feedstocks/r-mclustcomp
+	branch = refs/heads/main
