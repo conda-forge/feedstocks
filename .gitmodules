@@ -71446,3 +71446,7 @@
 	url = https://github.com/conda-forge/cleverdict-feedstock.git
 	path = feedstocks/cleverdict
 	branch = refs/heads/main
+[submodule "pytest-pretty"]
+	url = https://github.com/conda-forge/pytest-pretty-feedstock.git
+	path = feedstocks/pytest-pretty
+	branch = refs/heads/main
