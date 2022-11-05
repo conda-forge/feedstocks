@@ -71458,3 +71458,7 @@
 	url = https://github.com/conda-forge/r-this.path-feedstock.git
 	path = feedstocks/r-this.path
 	branch = refs/heads/main
+[submodule "r-fauxpas"]
+	url = https://github.com/conda-forge/r-fauxpas-feedstock.git
+	path = feedstocks/r-fauxpas
+	branch = refs/heads/main
