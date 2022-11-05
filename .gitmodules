@@ -71406,3 +71406,7 @@
 	url = https://github.com/conda-forge/r-mclustcomp-feedstock.git
 	path = feedstocks/r-mclustcomp
 	branch = refs/heads/main
+[submodule "r-gson"]
+	url = https://github.com/conda-forge/r-gson-feedstock.git
+	path = feedstocks/r-gson
+	branch = refs/heads/main
