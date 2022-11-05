@@ -71486,3 +71486,7 @@
 	url = https://github.com/conda-forge/r-dgeobj.utils-feedstock.git
 	path = feedstocks/r-dgeobj.utils
 	branch = refs/heads/main
+[submodule "r-logr"]
+	url = https://github.com/conda-forge/r-logr-feedstock.git
+	path = feedstocks/r-logr
+	branch = refs/heads/main
