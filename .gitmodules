@@ -71502,3 +71502,7 @@
 	url = https://github.com/conda-forge/r-cropcircles-feedstock.git
 	path = feedstocks/r-cropcircles
 	branch = refs/heads/main
+[submodule "lcov_cobertura"]
+	url = https://github.com/conda-forge/lcov_cobertura-feedstock.git
+	path = feedstocks/lcov_cobertura
+	branch = refs/heads/main
