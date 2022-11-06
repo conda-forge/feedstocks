@@ -71506,3 +71506,7 @@
 	url = https://github.com/conda-forge/lcov_cobertura-feedstock.git
 	path = feedstocks/lcov_cobertura
 	branch = refs/heads/main
+[submodule "r-ridge"]
+	url = https://github.com/conda-forge/r-ridge-feedstock.git
+	path = feedstocks/r-ridge
+	branch = refs/heads/main
