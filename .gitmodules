@@ -71518,3 +71518,7 @@
 	url = https://github.com/conda-forge/odc-stats-feedstock.git
 	path = feedstocks/odc-stats
 	branch = refs/heads/main
+[submodule "snowline"]
+	url = https://github.com/conda-forge/snowline-feedstock.git
+	path = feedstocks/snowline
+	branch = refs/heads/main
