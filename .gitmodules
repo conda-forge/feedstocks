@@ -71526,3 +71526,7 @@
 	url = https://github.com/conda-forge/r-taxonomycleanr-feedstock.git
 	path = feedstocks/r-taxonomycleanr
 	branch = refs/heads/main
+[submodule "jina-hubble-sdk"]
+	url = https://github.com/conda-forge/jina-hubble-sdk-feedstock.git
+	path = feedstocks/jina-hubble-sdk
+	branch = refs/heads/main
