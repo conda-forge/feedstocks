@@ -71522,3 +71522,7 @@
 	url = https://github.com/conda-forge/snowline-feedstock.git
 	path = feedstocks/snowline
 	branch = refs/heads/main
+[submodule "r-taxonomycleanr"]
+	url = https://github.com/conda-forge/r-taxonomycleanr-feedstock.git
+	path = feedstocks/r-taxonomycleanr
+	branch = refs/heads/main
