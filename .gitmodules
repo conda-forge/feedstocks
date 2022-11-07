@@ -71514,3 +71514,7 @@
 	url = https://github.com/conda-forge/perl-iterator-simple-feedstock.git
 	path = feedstocks/perl-iterator-simple
 	branch = refs/heads/main
+[submodule "odc-stats"]
+	url = https://github.com/conda-forge/odc-stats-feedstock.git
+	path = feedstocks/odc-stats
+	branch = refs/heads/main
