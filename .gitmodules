@@ -71510,3 +71510,7 @@
 	url = https://github.com/conda-forge/r-ridge-feedstock.git
 	path = feedstocks/r-ridge
 	branch = refs/heads/main
+[submodule "perl-iterator-simple"]
+	url = https://github.com/conda-forge/perl-iterator-simple-feedstock.git
+	path = feedstocks/perl-iterator-simple
+	branch = refs/heads/main
