@@ -71542,3 +71542,7 @@
 	url = https://github.com/conda-forge/r-ghapps-feedstock.git
 	path = feedstocks/r-ghapps
 	branch = refs/heads/main
+[submodule "git-versioner"]
+	url = https://github.com/conda-forge/git-versioner-feedstock.git
+	path = feedstocks/git-versioner
+	branch = refs/heads/main
