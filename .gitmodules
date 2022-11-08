@@ -71546,3 +71546,7 @@
 	url = https://github.com/conda-forge/git-versioner-feedstock.git
 	path = feedstocks/git-versioner
 	branch = refs/heads/main
+[submodule "tethys-data-models"]
+	url = https://github.com/conda-forge/tethys-data-models-feedstock.git
+	path = feedstocks/tethys-data-models
+	branch = refs/heads/main
