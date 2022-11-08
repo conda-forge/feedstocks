@@ -71550,3 +71550,7 @@
 	url = https://github.com/conda-forge/tethys-data-models-feedstock.git
 	path = feedstocks/tethys-data-models
 	branch = refs/heads/main
+[submodule "htmx-flask"]
+	url = https://github.com/conda-forge/htmx-flask-feedstock.git
+	path = feedstocks/htmx-flask
+	branch = refs/heads/main
