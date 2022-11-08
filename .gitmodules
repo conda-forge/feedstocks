@@ -71530,3 +71530,7 @@
 	url = https://github.com/conda-forge/jina-hubble-sdk-feedstock.git
 	path = feedstocks/jina-hubble-sdk
 	branch = refs/heads/main
+[submodule "humap"]
+	url = https://github.com/conda-forge/humap-feedstock.git
+	path = feedstocks/humap
+	branch = refs/heads/main
