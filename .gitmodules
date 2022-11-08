@@ -71578,3 +71578,7 @@
 	url = https://github.com/conda-forge/pymc-bart-feedstock.git
 	path = feedstocks/pymc-bart
 	branch = refs/heads/main
+[submodule "oci"]
+	url = https://github.com/conda-forge/oci-feedstock.git
+	path = feedstocks/oci
+	branch = refs/heads/main
