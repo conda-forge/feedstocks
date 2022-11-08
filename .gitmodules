@@ -71574,3 +71574,7 @@
 	url = https://github.com/conda-forge/xrtpy-feedstock.git
 	path = feedstocks/xrtpy
 	branch = refs/heads/main
+[submodule "pymc-bart"]
+	url = https://github.com/conda-forge/pymc-bart-feedstock.git
+	path = feedstocks/pymc-bart
+	branch = refs/heads/main
