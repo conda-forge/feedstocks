@@ -71562,3 +71562,7 @@
 	url = https://github.com/conda-forge/auto3d-feedstock.git
 	path = feedstocks/auto3d
 	branch = refs/heads/main
+[submodule "geohmt"]
+	url = https://github.com/conda-forge/geohmt-feedstock.git
+	path = feedstocks/geohmt
+	branch = refs/heads/main
