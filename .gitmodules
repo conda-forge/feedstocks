@@ -71558,3 +71558,7 @@
 	url = https://github.com/conda-forge/linopy-feedstock.git
 	path = feedstocks/linopy
 	branch = refs/heads/main
+[submodule "auto3d"]
+	url = https://github.com/conda-forge/auto3d-feedstock.git
+	path = feedstocks/auto3d
+	branch = refs/heads/main
