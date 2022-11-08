@@ -71566,3 +71566,7 @@
 	url = https://github.com/conda-forge/geohmt-feedstock.git
 	path = feedstocks/geohmt
 	branch = refs/heads/main
+[submodule "pycoxmunk"]
+	url = https://github.com/conda-forge/pycoxmunk-feedstock.git
+	path = feedstocks/pycoxmunk
+	branch = refs/heads/main
