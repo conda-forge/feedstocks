@@ -71582,3 +71582,7 @@
 	url = https://github.com/conda-forge/oci-feedstock.git
 	path = feedstocks/oci
 	branch = refs/heads/main
+[submodule "mypyc-ipython"]
+	url = https://github.com/conda-forge/mypyc-ipython-feedstock.git
+	path = feedstocks/mypyc-ipython
+	branch = refs/heads/main
