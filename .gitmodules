@@ -71586,3 +71586,7 @@
 	url = https://github.com/conda-forge/mypyc-ipython-feedstock.git
 	path = feedstocks/mypyc-ipython
 	branch = refs/heads/main
+[submodule "r-spatstat.explore"]
+	url = https://github.com/conda-forge/r-spatstat.explore-feedstock.git
+	path = feedstocks/r-spatstat.explore
+	branch = refs/heads/main
