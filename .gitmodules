@@ -71618,3 +71618,7 @@
 	url = https://github.com/conda-forge/about-time-feedstock.git
 	path = feedstocks/about-time
 	branch = refs/heads/main
+[submodule "ringspy"]
+	url = https://github.com/conda-forge/ringspy-feedstock.git
+	path = feedstocks/ringspy
+	branch = refs/heads/main
