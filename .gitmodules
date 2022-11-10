@@ -71610,3 +71610,7 @@
 	url = https://github.com/conda-forge/r-isotone-feedstock.git
 	path = feedstocks/r-isotone
 	branch = refs/heads/main
+[submodule "plottable"]
+	url = https://github.com/conda-forge/plottable-feedstock.git
+	path = feedstocks/plottable
+	branch = refs/heads/main
