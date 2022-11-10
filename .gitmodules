@@ -71670,3 +71670,7 @@
 	url = https://github.com/conda-forge/rules-feedstock.git
 	path = feedstocks/rules
 	branch = refs/heads/main
+[submodule "sscws"]
+	url = https://github.com/conda-forge/sscws-feedstock.git
+	path = feedstocks/sscws
+	branch = refs/heads/main
