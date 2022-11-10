@@ -71666,3 +71666,7 @@
 	url = https://github.com/conda-forge/launchdarkly-server-sdk-feedstock.git
 	path = feedstocks/launchdarkly-server-sdk
 	branch = refs/heads/main
+[submodule "rules"]
+	url = https://github.com/conda-forge/rules-feedstock.git
+	path = feedstocks/rules
+	branch = refs/heads/main
