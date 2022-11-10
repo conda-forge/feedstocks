@@ -71702,3 +71702,7 @@
 	url = https://github.com/conda-forge/lightpath-feedstock.git
 	path = feedstocks/lightpath
 	branch = refs/heads/main
+[submodule "ironflow"]
+	url = https://github.com/conda-forge/ironflow-feedstock.git
+	path = feedstocks/ironflow
+	branch = refs/heads/main
