@@ -71662,3 +71662,7 @@
 	url = https://github.com/conda-forge/pyphonetics-feedstock.git
 	path = feedstocks/pyphonetics
 	branch = refs/heads/main
+[submodule "launchdarkly-server-sdk"]
+	url = https://github.com/conda-forge/launchdarkly-server-sdk-feedstock.git
+	path = feedstocks/launchdarkly-server-sdk
+	branch = refs/heads/main
