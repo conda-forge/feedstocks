@@ -71594,3 +71594,7 @@
 	url = https://github.com/conda-forge/autokeras-feedstock.git
 	path = feedstocks/autokeras
 	branch = refs/heads/main
+[submodule "r-spatstat.model"]
+	url = https://github.com/conda-forge/r-spatstat.model-feedstock.git
+	path = feedstocks/r-spatstat.model
+	branch = refs/heads/main
