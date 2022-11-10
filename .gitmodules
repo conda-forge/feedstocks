@@ -71630,3 +71630,7 @@
 	url = https://github.com/conda-forge/perl-readonly-feedstock.git
 	path = feedstocks/perl-readonly
 	branch = refs/heads/main
+[submodule "perl-extutils-installpaths"]
+	url = https://github.com/conda-forge/perl-extutils-installpaths-feedstock.git
+	path = feedstocks/perl-extutils-installpaths
+	branch = refs/heads/main
