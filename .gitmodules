@@ -71678,3 +71678,7 @@
 	url = https://github.com/conda-forge/drf-generators-feedstock.git
 	path = feedstocks/drf-generators
 	branch = refs/heads/main
+[submodule "boxing"]
+	url = https://github.com/conda-forge/boxing-feedstock.git
+	path = feedstocks/boxing
+	branch = refs/heads/main
