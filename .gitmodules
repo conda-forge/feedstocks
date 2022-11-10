@@ -71694,3 +71694,7 @@
 	url = https://github.com/conda-forge/django-ranged-fileresponse-feedstock.git
 	path = feedstocks/django-ranged-fileresponse
 	branch = refs/heads/main
+[submodule "drf-flex-fields"]
+	url = https://github.com/conda-forge/drf-flex-fields-feedstock.git
+	path = feedstocks/drf-flex-fields
+	branch = refs/heads/main
