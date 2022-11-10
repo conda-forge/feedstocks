@@ -71598,3 +71598,7 @@
 	url = https://github.com/conda-forge/r-spatstat.model-feedstock.git
 	path = feedstocks/r-spatstat.model
 	branch = refs/heads/main
+[submodule "hvpy"]
+	url = https://github.com/conda-forge/hvpy-feedstock.git
+	path = feedstocks/hvpy
+	branch = refs/heads/main
