@@ -71690,3 +71690,7 @@
 	url = https://github.com/conda-forge/xmljson-feedstock.git
 	path = feedstocks/xmljson
 	branch = refs/heads/main
+[submodule "django-ranged-fileresponse"]
+	url = https://github.com/conda-forge/django-ranged-fileresponse-feedstock.git
+	path = feedstocks/django-ranged-fileresponse
+	branch = refs/heads/main
