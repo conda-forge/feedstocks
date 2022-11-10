@@ -71638,3 +71638,7 @@
 	url = https://github.com/conda-forge/perl-module-build-tiny-feedstock.git
 	path = feedstocks/perl-module-build-tiny
 	branch = refs/heads/main
+[submodule "perl-extutils-helpers"]
+	url = https://github.com/conda-forge/perl-extutils-helpers-feedstock.git
+	path = feedstocks/perl-extutils-helpers
+	branch = refs/heads/main
