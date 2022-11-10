@@ -71674,3 +71674,7 @@
 	url = https://github.com/conda-forge/sscws-feedstock.git
 	path = feedstocks/sscws
 	branch = refs/heads/main
+[submodule "drf-generators"]
+	url = https://github.com/conda-forge/drf-generators-feedstock.git
+	path = feedstocks/drf-generators
+	branch = refs/heads/main
