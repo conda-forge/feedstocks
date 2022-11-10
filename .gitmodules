@@ -71626,3 +71626,7 @@
 	url = https://github.com/conda-forge/pybindgen-feedstock.git
 	path = feedstocks/pybindgen
 	branch = refs/heads/main
+[submodule "perl-readonly"]
+	url = https://github.com/conda-forge/perl-readonly-feedstock.git
+	path = feedstocks/perl-readonly
+	branch = refs/heads/main
