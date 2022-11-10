@@ -71606,3 +71606,7 @@
 	url = https://github.com/conda-forge/specialist-feedstock.git
 	path = feedstocks/specialist
 	branch = refs/heads/main
+[submodule "r-isotone"]
+	url = https://github.com/conda-forge/r-isotone-feedstock.git
+	path = feedstocks/r-isotone
+	branch = refs/heads/main
