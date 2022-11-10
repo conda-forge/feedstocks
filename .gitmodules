@@ -71646,3 +71646,7 @@
 	url = https://github.com/conda-forge/perl-extutils-pl2bat-feedstock.git
 	path = feedstocks/perl-extutils-pl2bat
 	branch = refs/heads/main
+[submodule "perl-extutils-config"]
+	url = https://github.com/conda-forge/perl-extutils-config-feedstock.git
+	path = feedstocks/perl-extutils-config
+	branch = refs/heads/main
