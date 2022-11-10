@@ -71686,3 +71686,7 @@
 	url = https://github.com/conda-forge/django-user-agents-feedstock.git
 	path = feedstocks/django-user-agents
 	branch = refs/heads/main
+[submodule "xmljson"]
+	url = https://github.com/conda-forge/xmljson-feedstock.git
+	path = feedstocks/xmljson
+	branch = refs/heads/main
