@@ -71654,3 +71654,7 @@
 	url = https://github.com/conda-forge/r-adiv-feedstock.git
 	path = feedstocks/r-adiv
 	branch = refs/heads/main
+[submodule "drf-dynamic-fields"]
+	url = https://github.com/conda-forge/drf-dynamic-fields-feedstock.git
+	path = feedstocks/drf-dynamic-fields
+	branch = refs/heads/main
