@@ -71682,3 +71682,7 @@
 	url = https://github.com/conda-forge/boxing-feedstock.git
 	path = feedstocks/boxing
 	branch = refs/heads/main
+[submodule "django-user-agents"]
+	url = https://github.com/conda-forge/django-user-agents-feedstock.git
+	path = feedstocks/django-user-agents
+	branch = refs/heads/main
