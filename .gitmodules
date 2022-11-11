@@ -71722,3 +71722,7 @@
 	url = https://github.com/conda-forge/robomeshcat-feedstock.git
 	path = feedstocks/robomeshcat
 	branch = refs/heads/main
+[submodule "throttler"]
+	url = https://github.com/conda-forge/throttler-feedstock.git
+	path = feedstocks/throttler
+	branch = refs/heads/main
