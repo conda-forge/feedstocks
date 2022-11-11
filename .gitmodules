@@ -71730,3 +71730,7 @@
 	url = https://github.com/conda-forge/lotterycn-feedstock.git
 	path = feedstocks/lotterycn
 	branch = refs/heads/main
+[submodule "autocommand"]
+	url = https://github.com/conda-forge/autocommand-feedstock.git
+	path = feedstocks/autocommand
+	branch = refs/heads/main
