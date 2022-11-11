@@ -71718,3 +71718,7 @@
 	url = https://github.com/conda-forge/feast-feedstock.git
 	path = feedstocks/feast
 	branch = refs/heads/main
+[submodule "robomeshcat"]
+	url = https://github.com/conda-forge/robomeshcat-feedstock.git
+	path = feedstocks/robomeshcat
+	branch = refs/heads/main
