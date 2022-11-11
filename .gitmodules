@@ -71706,3 +71706,7 @@
 	url = https://github.com/conda-forge/ironflow-feedstock.git
 	path = feedstocks/ironflow
 	branch = refs/heads/main
+[submodule "fastapi-oidc"]
+	url = https://github.com/conda-forge/fastapi-oidc-feedstock.git
+	path = feedstocks/fastapi-oidc
+	branch = refs/heads/main
