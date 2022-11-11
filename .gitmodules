@@ -71710,3 +71710,7 @@
 	url = https://github.com/conda-forge/fastapi-oidc-feedstock.git
 	path = feedstocks/fastapi-oidc
 	branch = refs/heads/main
+[submodule "gwmemory"]
+	url = https://github.com/conda-forge/gwmemory-feedstock.git
+	path = feedstocks/gwmemory
+	branch = refs/heads/main
