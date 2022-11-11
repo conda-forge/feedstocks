@@ -71714,3 +71714,7 @@
 	url = https://github.com/conda-forge/gwmemory-feedstock.git
 	path = feedstocks/gwmemory
 	branch = refs/heads/main
+[submodule "feast"]
+	url = https://github.com/conda-forge/feast-feedstock.git
+	path = feedstocks/feast
+	branch = refs/heads/main
