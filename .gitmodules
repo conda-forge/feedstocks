@@ -71734,3 +71734,7 @@
 	url = https://github.com/conda-forge/autocommand-feedstock.git
 	path = feedstocks/autocommand
 	branch = refs/heads/main
+[submodule "openff-models"]
+	url = https://github.com/conda-forge/openff-models-feedstock.git
+	path = feedstocks/openff-models
+	branch = refs/heads/main
