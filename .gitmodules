@@ -71742,3 +71742,7 @@
 	url = https://github.com/conda-forge/professor-feedstock.git
 	path = feedstocks/professor
 	branch = refs/heads/main
+[submodule "r-shinymobile"]
+	url = https://github.com/conda-forge/r-shinymobile-feedstock.git
+	path = feedstocks/r-shinymobile
+	branch = refs/heads/main
