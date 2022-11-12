@@ -71738,3 +71738,7 @@
 	url = https://github.com/conda-forge/openff-models-feedstock.git
 	path = feedstocks/openff-models
 	branch = refs/heads/main
+[submodule "professor"]
+	url = https://github.com/conda-forge/professor-feedstock.git
+	path = feedstocks/professor
+	branch = refs/heads/main
