@@ -71750,3 +71750,7 @@
 	url = https://github.com/conda-forge/dcmtk-feedstock.git
 	path = feedstocks/dcmtk
 	branch = refs/heads/main
+[submodule "perl-termreadkey"]
+	url = https://github.com/conda-forge/perl-termreadkey-feedstock.git
+	path = feedstocks/perl-termreadkey
+	branch = refs/heads/main
