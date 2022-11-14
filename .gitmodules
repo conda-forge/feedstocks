@@ -71794,3 +71794,7 @@
 	url = https://github.com/conda-forge/mssql-django-feedstock.git
 	path = feedstocks/mssql-django
 	branch = refs/heads/main
+[submodule "goes2go"]
+	url = https://github.com/conda-forge/goes2go-feedstock.git
+	path = feedstocks/goes2go
+	branch = refs/heads/main
