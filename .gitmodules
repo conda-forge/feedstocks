@@ -71786,3 +71786,7 @@
 	url = https://github.com/conda-forge/grimp-feedstock.git
 	path = feedstocks/grimp
 	branch = refs/heads/main
+[submodule "compress-pickle"]
+	url = https://github.com/conda-forge/compress-pickle-feedstock.git
+	path = feedstocks/compress-pickle
+	branch = refs/heads/main
