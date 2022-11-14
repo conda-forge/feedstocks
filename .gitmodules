@@ -71762,3 +71762,7 @@
 	url = https://github.com/conda-forge/fortnet-feedstock.git
 	path = feedstocks/fortnet
 	branch = refs/heads/main
+[submodule "import-linter"]
+	url = https://github.com/conda-forge/import-linter-feedstock.git
+	path = feedstocks/import-linter
+	branch = refs/heads/main
