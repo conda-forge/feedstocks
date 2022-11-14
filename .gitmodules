@@ -71782,3 +71782,7 @@
 	url = https://github.com/conda-forge/drf-spectacular-sidecar-feedstock.git
 	path = feedstocks/drf-spectacular-sidecar
 	branch = refs/heads/main
+[submodule "grimp"]
+	url = https://github.com/conda-forge/grimp-feedstock.git
+	path = feedstocks/grimp
+	branch = refs/heads/main
