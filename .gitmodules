@@ -71778,3 +71778,7 @@
 	url = https://github.com/conda-forge/djangorestframework-jsonapi-feedstock.git
 	path = feedstocks/djangorestframework-jsonapi
 	branch = refs/heads/main
+[submodule "drf-spectacular-sidecar"]
+	url = https://github.com/conda-forge/drf-spectacular-sidecar-feedstock.git
+	path = feedstocks/drf-spectacular-sidecar
+	branch = refs/heads/main
