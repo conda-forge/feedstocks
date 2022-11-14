@@ -71766,3 +71766,7 @@
 	url = https://github.com/conda-forge/import-linter-feedstock.git
 	path = feedstocks/import-linter
 	branch = refs/heads/main
+[submodule "django-silk"]
+	url = https://github.com/conda-forge/django-silk-feedstock.git
+	path = feedstocks/django-silk
+	branch = refs/heads/main
