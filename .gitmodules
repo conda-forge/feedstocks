@@ -71770,3 +71770,7 @@
 	url = https://github.com/conda-forge/django-silk-feedstock.git
 	path = feedstocks/django-silk
 	branch = refs/heads/main
+[submodule "django-jsonstore"]
+	url = https://github.com/conda-forge/django-jsonstore-feedstock.git
+	path = feedstocks/django-jsonstore
+	branch = refs/heads/main
