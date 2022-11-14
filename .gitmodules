@@ -71774,3 +71774,7 @@
 	url = https://github.com/conda-forge/django-jsonstore-feedstock.git
 	path = feedstocks/django-jsonstore
 	branch = refs/heads/main
+[submodule "djangorestframework-jsonapi"]
+	url = https://github.com/conda-forge/djangorestframework-jsonapi-feedstock.git
+	path = feedstocks/djangorestframework-jsonapi
+	branch = refs/heads/main
