@@ -71790,3 +71790,7 @@
 	url = https://github.com/conda-forge/compress-pickle-feedstock.git
 	path = feedstocks/compress-pickle
 	branch = refs/heads/main
+[submodule "mssql-django"]
+	url = https://github.com/conda-forge/mssql-django-feedstock.git
+	path = feedstocks/mssql-django
+	branch = refs/heads/main
