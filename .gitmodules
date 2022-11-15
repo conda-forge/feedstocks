@@ -71850,3 +71850,7 @@
 	url = https://github.com/conda-forge/python-redmine-feedstock.git
 	path = feedstocks/python-redmine
 	branch = refs/heads/main
+[submodule "hatch-mypyc"]
+	url = https://github.com/conda-forge/hatch-mypyc-feedstock.git
+	path = feedstocks/hatch-mypyc
+	branch = refs/heads/main
