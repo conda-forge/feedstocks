@@ -71826,3 +71826,7 @@
 	url = https://github.com/conda-forge/virocon-feedstock.git
 	path = feedstocks/virocon
 	branch = refs/heads/main
+[submodule "flastapi"]
+	url = https://github.com/conda-forge/flastapi-feedstock.git
+	path = feedstocks/flastapi
+	branch = refs/heads/main
