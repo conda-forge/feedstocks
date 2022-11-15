@@ -71842,3 +71842,7 @@
 	url = https://github.com/conda-forge/torchview-feedstock.git
 	path = feedstocks/torchview
 	branch = refs/heads/main
+[submodule "koda"]
+	url = https://github.com/conda-forge/koda-feedstock.git
+	path = feedstocks/koda
+	branch = refs/heads/main
