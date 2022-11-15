@@ -71854,3 +71854,7 @@
 	url = https://github.com/conda-forge/hatch-mypyc-feedstock.git
 	path = feedstocks/hatch-mypyc
 	branch = refs/heads/main
+[submodule "perl-io-null"]
+	url = https://github.com/conda-forge/perl-io-null-feedstock.git
+	path = feedstocks/perl-io-null
+	branch = refs/heads/main
