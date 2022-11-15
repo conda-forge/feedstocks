@@ -71838,3 +71838,7 @@
 	url = https://github.com/conda-forge/dictdatabase-feedstock.git
 	path = feedstocks/dictdatabase
 	branch = refs/heads/main
+[submodule "torchview"]
+	url = https://github.com/conda-forge/torchview-feedstock.git
+	path = feedstocks/torchview
+	branch = refs/heads/main
