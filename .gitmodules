@@ -71834,3 +71834,7 @@
 	url = https://github.com/conda-forge/r-wrapr-feedstock.git
 	path = feedstocks/r-wrapr
 	branch = refs/heads/main
+[submodule "dictdatabase"]
+	url = https://github.com/conda-forge/dictdatabase-feedstock.git
+	path = feedstocks/dictdatabase
+	branch = refs/heads/main
