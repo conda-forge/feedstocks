@@ -71806,3 +71806,7 @@
 	url = https://github.com/conda-forge/python-io-wrapper-feedstock.git
 	path = feedstocks/python-io-wrapper
 	branch = refs/heads/main
+[submodule "xlrd3"]
+	url = https://github.com/conda-forge/xlrd3-feedstock.git
+	path = feedstocks/xlrd3
+	branch = refs/heads/main
