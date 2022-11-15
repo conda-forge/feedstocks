@@ -71874,3 +71874,7 @@
 	url = https://github.com/conda-forge/wecopttool-feedstock.git
 	path = feedstocks/wecopttool
 	branch = refs/heads/main
+[submodule "pygeofilter"]
+	url = https://github.com/conda-forge/pygeofilter-feedstock.git
+	path = feedstocks/pygeofilter
+	branch = refs/heads/main
