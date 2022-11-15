@@ -71814,3 +71814,7 @@
 	url = https://github.com/conda-forge/trufflehogregexes-feedstock.git
 	path = feedstocks/trufflehogregexes
 	branch = refs/heads/main
+[submodule "pyinfra"]
+	url = https://github.com/conda-forge/pyinfra-feedstock.git
+	path = feedstocks/pyinfra
+	branch = refs/heads/main
