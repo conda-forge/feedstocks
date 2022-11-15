@@ -71802,3 +71802,7 @@
 	url = https://github.com/conda-forge/trufflehog-feedstock.git
 	path = feedstocks/trufflehog
 	branch = refs/heads/main
+[submodule "python-io-wrapper"]
+	url = https://github.com/conda-forge/python-io-wrapper-feedstock.git
+	path = feedstocks/python-io-wrapper
+	branch = refs/heads/main
