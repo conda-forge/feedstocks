@@ -71830,3 +71830,7 @@
 	url = https://github.com/conda-forge/flastapi-feedstock.git
 	path = feedstocks/flastapi
 	branch = refs/heads/main
+[submodule "r-wrapr"]
+	url = https://github.com/conda-forge/r-wrapr-feedstock.git
+	path = feedstocks/r-wrapr
+	branch = refs/heads/main
