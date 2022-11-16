@@ -71890,3 +71890,7 @@
 	url = https://github.com/conda-forge/r-emlassemblyline-feedstock.git
 	path = feedstocks/r-emlassemblyline
 	branch = refs/heads/main
+[submodule "perl-clone"]
+	url = https://github.com/conda-forge/perl-clone-feedstock.git
+	path = feedstocks/perl-clone
+	branch = refs/heads/main
