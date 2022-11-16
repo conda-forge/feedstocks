@@ -71882,3 +71882,7 @@
 	url = https://github.com/conda-forge/quantulum3-feedstock.git
 	path = feedstocks/quantulum3
 	branch = refs/heads/main
+[submodule "dicfg"]
+	url = https://github.com/conda-forge/dicfg-feedstock.git
+	path = feedstocks/dicfg
+	branch = refs/heads/main
