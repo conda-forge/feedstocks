@@ -71902,3 +71902,7 @@
 	url = https://github.com/conda-forge/linux-perf-feedstock.git
 	path = feedstocks/linux-perf
 	branch = refs/heads/main
+[submodule "pytest-subprocess"]
+	url = https://github.com/conda-forge/pytest-subprocess-feedstock.git
+	path = feedstocks/pytest-subprocess
+	branch = refs/heads/main
