@@ -71906,3 +71906,7 @@
 	url = https://github.com/conda-forge/pytest-subprocess-feedstock.git
 	path = feedstocks/pytest-subprocess
 	branch = refs/heads/main
+[submodule "go-yq"]
+	url = https://github.com/conda-forge/go-yq-feedstock.git
+	path = feedstocks/go-yq
+	branch = refs/heads/main
