@@ -71898,3 +71898,7 @@
 	url = https://github.com/conda-forge/numactl-feedstock.git
 	path = feedstocks/numactl
 	branch = refs/heads/main
+[submodule "linux-perf"]
+	url = https://github.com/conda-forge/linux-perf-feedstock.git
+	path = feedstocks/linux-perf
+	branch = refs/heads/main
