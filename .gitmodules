@@ -71894,3 +71894,7 @@
 	url = https://github.com/conda-forge/perl-clone-feedstock.git
 	path = feedstocks/perl-clone
 	branch = refs/heads/main
+[submodule "numactl"]
+	url = https://github.com/conda-forge/numactl-feedstock.git
+	path = feedstocks/numactl
+	branch = refs/heads/main
