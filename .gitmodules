@@ -71914,3 +71914,7 @@
 	url = https://github.com/conda-forge/pytorch-warmup-feedstock.git
 	path = feedstocks/pytorch-warmup
 	branch = refs/heads/main
+[submodule "fpm-metadata"]
+	url = https://github.com/conda-forge/fpm-metadata-feedstock.git
+	path = feedstocks/fpm-metadata
+	branch = refs/heads/main
