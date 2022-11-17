@@ -71922,3 +71922,7 @@
 	url = https://github.com/conda-forge/r-gbutils-feedstock.git
 	path = feedstocks/r-gbutils
 	branch = refs/heads/main
+[submodule "r-cvar"]
+	url = https://github.com/conda-forge/r-cvar-feedstock.git
+	path = feedstocks/r-cvar
+	branch = refs/heads/main
