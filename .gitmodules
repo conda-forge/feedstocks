@@ -71926,3 +71926,7 @@
 	url = https://github.com/conda-forge/r-cvar-feedstock.git
 	path = feedstocks/r-cvar
 	branch = refs/heads/main
+[submodule "r-juicyjuice"]
+	url = https://github.com/conda-forge/r-juicyjuice-feedstock.git
+	path = feedstocks/r-juicyjuice
+	branch = refs/heads/main
