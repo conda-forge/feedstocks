@@ -71934,3 +71934,7 @@
 	url = https://github.com/conda-forge/r-bigd-feedstock.git
 	path = feedstocks/r-bigd
 	branch = refs/heads/main
+[submodule "comm"]
+	url = https://github.com/conda-forge/comm-feedstock.git
+	path = feedstocks/comm
+	branch = refs/heads/main
