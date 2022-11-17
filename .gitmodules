@@ -71910,3 +71910,7 @@
 	url = https://github.com/conda-forge/go-yq-feedstock.git
 	path = feedstocks/go-yq
 	branch = refs/heads/main
+[submodule "pytorch-warmup"]
+	url = https://github.com/conda-forge/pytorch-warmup-feedstock.git
+	path = feedstocks/pytorch-warmup
+	branch = refs/heads/main
