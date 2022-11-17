@@ -71918,3 +71918,7 @@
 	url = https://github.com/conda-forge/fpm-metadata-feedstock.git
 	path = feedstocks/fpm-metadata
 	branch = refs/heads/main
+[submodule "r-gbutils"]
+	url = https://github.com/conda-forge/r-gbutils-feedstock.git
+	path = feedstocks/r-gbutils
+	branch = refs/heads/main
