@@ -71954,3 +71954,7 @@
 	url = https://github.com/conda-forge/starlette-context-feedstock.git
 	path = feedstocks/starlette-context
 	branch = refs/heads/main
+[submodule "virtual_dataframe"]
+	url = https://github.com/conda-forge/virtual_dataframe-feedstock.git
+	path = feedstocks/virtual_dataframe
+	branch = refs/heads/main
