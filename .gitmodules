@@ -71958,3 +71958,7 @@
 	url = https://github.com/conda-forge/virtual_dataframe-feedstock.git
 	path = feedstocks/virtual_dataframe
 	branch = refs/heads/main
+[submodule "r-modelenv"]
+	url = https://github.com/conda-forge/r-modelenv-feedstock.git
+	path = feedstocks/r-modelenv
+	branch = refs/heads/main
