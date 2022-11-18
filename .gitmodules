@@ -71962,3 +71962,7 @@
 	url = https://github.com/conda-forge/r-modelenv-feedstock.git
 	path = feedstocks/r-modelenv
 	branch = refs/heads/main
+[submodule "esi-utils-io"]
+	url = https://github.com/conda-forge/esi-utils-io-feedstock.git
+	path = feedstocks/esi-utils-io
+	branch = refs/heads/main
