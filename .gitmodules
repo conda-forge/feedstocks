@@ -71966,3 +71966,7 @@
 	url = https://github.com/conda-forge/esi-utils-io-feedstock.git
 	path = feedstocks/esi-utils-io
 	branch = refs/heads/main
+[submodule "esi-utils-rupture"]
+	url = https://github.com/conda-forge/esi-utils-rupture-feedstock.git
+	path = feedstocks/esi-utils-rupture
+	branch = refs/heads/main
