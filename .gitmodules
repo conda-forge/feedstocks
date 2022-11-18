@@ -71942,3 +71942,7 @@
 	url = https://github.com/conda-forge/libqrencode-feedstock.git
 	path = feedstocks/libqrencode
 	branch = refs/heads/main
+[submodule "benchling-api-client"]
+	url = https://github.com/conda-forge/benchling-api-client-feedstock.git
+	path = feedstocks/benchling-api-client
+	branch = refs/heads/main
