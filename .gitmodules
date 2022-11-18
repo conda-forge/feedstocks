@@ -71982,3 +71982,7 @@
 	url = https://github.com/conda-forge/esi-utils-vectors-feedstock.git
 	path = feedstocks/esi-utils-vectors
 	branch = refs/heads/main
+[submodule "esi-utils-time"]
+	url = https://github.com/conda-forge/esi-utils-time-feedstock.git
+	path = feedstocks/esi-utils-time
+	branch = refs/heads/main
