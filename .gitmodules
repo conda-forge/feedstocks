@@ -71974,3 +71974,7 @@
 	url = https://github.com/conda-forge/esi-core-feedstock.git
 	path = feedstocks/esi-core
 	branch = refs/heads/main
+[submodule "esi-utils-colors"]
+	url = https://github.com/conda-forge/esi-utils-colors-feedstock.git
+	path = feedstocks/esi-utils-colors
+	branch = refs/heads/main
