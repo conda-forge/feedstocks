@@ -71938,3 +71938,7 @@
 	url = https://github.com/conda-forge/comm-feedstock.git
 	path = feedstocks/comm
 	branch = refs/heads/main
+[submodule "libqrencode"]
+	url = https://github.com/conda-forge/libqrencode-feedstock.git
+	path = feedstocks/libqrencode
+	branch = refs/heads/main
