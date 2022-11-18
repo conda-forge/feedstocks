@@ -71990,3 +71990,7 @@
 	url = https://github.com/conda-forge/esi-extern-openquake-feedstock.git
 	path = feedstocks/esi-extern-openquake
 	branch = refs/heads/main
+[submodule "jupyter_server_terminals"]
+	url = https://github.com/conda-forge/jupyter_server_terminals-feedstock.git
+	path = feedstocks/jupyter_server_terminals
+	branch = refs/heads/main
