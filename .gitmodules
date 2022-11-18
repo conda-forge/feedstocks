@@ -71986,3 +71986,7 @@
 	url = https://github.com/conda-forge/esi-utils-time-feedstock.git
 	path = feedstocks/esi-utils-time
 	branch = refs/heads/main
+[submodule "esi-extern-openquake"]
+	url = https://github.com/conda-forge/esi-extern-openquake-feedstock.git
+	path = feedstocks/esi-extern-openquake
+	branch = refs/heads/main
