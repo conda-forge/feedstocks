@@ -71994,3 +71994,7 @@
 	url = https://github.com/conda-forge/jupyter_server_terminals-feedstock.git
 	path = feedstocks/jupyter_server_terminals
 	branch = refs/heads/main
+[submodule "django-fsm-admin"]
+	url = https://github.com/conda-forge/django-fsm-admin-feedstock.git
+	path = feedstocks/django-fsm-admin
+	branch = refs/heads/main
