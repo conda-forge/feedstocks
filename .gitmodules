@@ -72006,3 +72006,7 @@
 	url = https://github.com/conda-forge/skope-rules-feedstock.git
 	path = feedstocks/skope-rules
 	branch = refs/heads/main
+[submodule "django-fsm-log"]
+	url = https://github.com/conda-forge/django-fsm-log-feedstock.git
+	path = feedstocks/django-fsm-log
+	branch = refs/heads/main
