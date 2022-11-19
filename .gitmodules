@@ -72010,3 +72010,7 @@
 	url = https://github.com/conda-forge/django-fsm-log-feedstock.git
 	path = feedstocks/django-fsm-log
 	branch = refs/heads/main
+[submodule "objsize"]
+	url = https://github.com/conda-forge/objsize-feedstock.git
+	path = feedstocks/objsize
+	branch = refs/heads/main
