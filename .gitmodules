@@ -72018,3 +72018,7 @@
 	url = https://github.com/conda-forge/pywebp-feedstock.git
 	path = feedstocks/pywebp
 	branch = refs/heads/main
+[submodule "glasbey"]
+	url = https://github.com/conda-forge/glasbey-feedstock.git
+	path = feedstocks/glasbey
+	branch = refs/heads/main
