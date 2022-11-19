@@ -72002,3 +72002,7 @@
 	url = https://github.com/conda-forge/txtai-feedstock.git
 	path = feedstocks/txtai
 	branch = refs/heads/main
+[submodule "skope-rules"]
+	url = https://github.com/conda-forge/skope-rules-feedstock.git
+	path = feedstocks/skope-rules
+	branch = refs/heads/main
