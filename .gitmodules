@@ -72022,3 +72022,7 @@
 	url = https://github.com/conda-forge/glasbey-feedstock.git
 	path = feedstocks/glasbey
 	branch = refs/heads/main
+[submodule "scikit-partial"]
+	url = https://github.com/conda-forge/scikit-partial-feedstock.git
+	path = feedstocks/scikit-partial
+	branch = refs/heads/main
