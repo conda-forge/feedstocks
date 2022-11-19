@@ -72014,3 +72014,7 @@
 	url = https://github.com/conda-forge/objsize-feedstock.git
 	path = feedstocks/objsize
 	branch = refs/heads/main
+[submodule "pywebp"]
+	url = https://github.com/conda-forge/pywebp-feedstock.git
+	path = feedstocks/pywebp
+	branch = refs/heads/main
