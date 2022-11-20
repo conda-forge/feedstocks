@@ -72046,3 +72046,7 @@
 	url = https://github.com/conda-forge/gnuradio-m2k-feedstock.git
 	path = feedstocks/gnuradio-m2k
 	branch = refs/heads/main
+[submodule "sphinx-pydantic"]
+	url = https://github.com/conda-forge/sphinx-pydantic-feedstock.git
+	path = feedstocks/sphinx-pydantic
+	branch = refs/heads/main
