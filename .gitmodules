@@ -72042,3 +72042,7 @@
 	url = https://github.com/conda-forge/cartwright-feedstock.git
 	path = feedstocks/cartwright
 	branch = refs/heads/main
+[submodule "gnuradio-m2k"]
+	url = https://github.com/conda-forge/gnuradio-m2k-feedstock.git
+	path = feedstocks/gnuradio-m2k
+	branch = refs/heads/main
