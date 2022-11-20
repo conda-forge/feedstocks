@@ -72066,3 +72066,7 @@
 	url = https://github.com/conda-forge/storage3-feedstock.git
 	path = feedstocks/storage3
 	branch = refs/heads/main
+[submodule "supabase"]
+	url = https://github.com/conda-forge/supabase-feedstock.git
+	path = feedstocks/supabase
+	branch = refs/heads/main
