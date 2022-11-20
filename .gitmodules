@@ -72054,3 +72054,7 @@
 	url = https://github.com/conda-forge/postgrest-feedstock.git
 	path = feedstocks/postgrest
 	branch = refs/heads/main
+[submodule "supafunc"]
+	url = https://github.com/conda-forge/supafunc-feedstock.git
+	path = feedstocks/supafunc
+	branch = refs/heads/main
