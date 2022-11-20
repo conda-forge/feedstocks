@@ -72050,3 +72050,7 @@
 	url = https://github.com/conda-forge/sphinx-pydantic-feedstock.git
 	path = feedstocks/sphinx-pydantic
 	branch = refs/heads/main
+[submodule "postgrest"]
+	url = https://github.com/conda-forge/postgrest-feedstock.git
+	path = feedstocks/postgrest
+	branch = refs/heads/main
