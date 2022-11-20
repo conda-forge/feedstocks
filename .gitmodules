@@ -72062,3 +72062,7 @@
 	url = https://github.com/conda-forge/realtime-feedstock.git
 	path = feedstocks/realtime
 	branch = refs/heads/main
+[submodule "storage3"]
+	url = https://github.com/conda-forge/storage3-feedstock.git
+	path = feedstocks/storage3
+	branch = refs/heads/main
