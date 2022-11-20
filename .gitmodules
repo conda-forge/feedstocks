@@ -72038,3 +72038,7 @@
 	url = https://github.com/conda-forge/mktestdocs-feedstock.git
 	path = feedstocks/mktestdocs
 	branch = refs/heads/main
+[submodule "cartwright"]
+	url = https://github.com/conda-forge/cartwright-feedstock.git
+	path = feedstocks/cartwright
+	branch = refs/heads/main
