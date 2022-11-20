@@ -72030,3 +72030,7 @@
 	url = https://github.com/conda-forge/cython-lint-feedstock.git
 	path = feedstocks/cython-lint
 	branch = refs/heads/main
+[submodule "bulk"]
+	url = https://github.com/conda-forge/bulk-feedstock.git
+	path = feedstocks/bulk
+	branch = refs/heads/main
