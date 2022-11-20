@@ -72074,3 +72074,7 @@
 	url = https://github.com/conda-forge/gotrue-feedstock.git
 	path = feedstocks/gotrue
 	branch = refs/heads/main
+[submodule "zimg"]
+	url = https://github.com/conda-forge/zimg-feedstock.git
+	path = feedstocks/zimg
+	branch = refs/heads/main
