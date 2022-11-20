@@ -72026,3 +72026,7 @@
 	url = https://github.com/conda-forge/scikit-partial-feedstock.git
 	path = feedstocks/scikit-partial
 	branch = refs/heads/main
+[submodule "cython-lint"]
+	url = https://github.com/conda-forge/cython-lint-feedstock.git
+	path = feedstocks/cython-lint
+	branch = refs/heads/main
