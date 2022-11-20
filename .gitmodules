@@ -72070,3 +72070,7 @@
 	url = https://github.com/conda-forge/supabase-feedstock.git
 	path = feedstocks/supabase
 	branch = refs/heads/main
+[submodule "gotrue"]
+	url = https://github.com/conda-forge/gotrue-feedstock.git
+	path = feedstocks/gotrue
+	branch = refs/heads/main
