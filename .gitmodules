@@ -72034,3 +72034,7 @@
 	url = https://github.com/conda-forge/bulk-feedstock.git
 	path = feedstocks/bulk
 	branch = refs/heads/main
+[submodule "mktestdocs"]
+	url = https://github.com/conda-forge/mktestdocs-feedstock.git
+	path = feedstocks/mktestdocs
+	branch = refs/heads/main
