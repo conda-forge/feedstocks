@@ -72086,3 +72086,7 @@
 	url = https://github.com/conda-forge/redbox-feedstock.git
 	path = feedstocks/redbox
 	branch = refs/heads/main
+[submodule "perl-test-nowarnings"]
+	url = https://github.com/conda-forge/perl-test-nowarnings-feedstock.git
+	path = feedstocks/perl-test-nowarnings
+	branch = refs/heads/main
