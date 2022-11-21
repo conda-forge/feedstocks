@@ -72078,3 +72078,7 @@
 	url = https://github.com/conda-forge/zimg-feedstock.git
 	path = feedstocks/zimg
 	branch = refs/heads/main
+[submodule "caf.toolkit"]
+	url = https://github.com/conda-forge/caf.toolkit-feedstock.git
+	path = feedstocks/caf.toolkit
+	branch = refs/heads/main
