@@ -72090,3 +72090,7 @@
 	url = https://github.com/conda-forge/perl-test-nowarnings-feedstock.git
 	path = feedstocks/perl-test-nowarnings
 	branch = refs/heads/main
+[submodule "autoboost"]
+	url = https://github.com/conda-forge/autoboost-feedstock.git
+	path = feedstocks/autoboost
+	branch = refs/heads/main
