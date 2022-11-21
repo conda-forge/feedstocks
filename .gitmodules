@@ -72082,3 +72082,7 @@
 	url = https://github.com/conda-forge/caf.toolkit-feedstock.git
 	path = feedstocks/caf.toolkit
 	branch = refs/heads/main
+[submodule "redbox"]
+	url = https://github.com/conda-forge/redbox-feedstock.git
+	path = feedstocks/redbox
+	branch = refs/heads/main
