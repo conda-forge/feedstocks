@@ -72114,3 +72114,7 @@
 	url = https://github.com/conda-forge/gcloud-aio-kms-feedstock.git
 	path = feedstocks/gcloud-aio-kms
 	branch = refs/heads/main
+[submodule "gcloud-aio-pubsub"]
+	url = https://github.com/conda-forge/gcloud-aio-pubsub-feedstock.git
+	path = feedstocks/gcloud-aio-pubsub
+	branch = refs/heads/main
