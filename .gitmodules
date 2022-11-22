@@ -72126,3 +72126,7 @@
 	url = https://github.com/conda-forge/gcloud-aio-auth-feedstock.git
 	path = feedstocks/gcloud-aio-auth
 	branch = refs/heads/main
+[submodule "kmedoids"]
+	url = https://github.com/conda-forge/kmedoids-feedstock.git
+	path = feedstocks/kmedoids
+	branch = refs/heads/main
