@@ -72102,3 +72102,7 @@
 	url = https://github.com/conda-forge/gcloud-aio-taskqueue-feedstock.git
 	path = feedstocks/gcloud-aio-taskqueue
 	branch = refs/heads/main
+[submodule "gcloud-aio-datastore"]
+	url = https://github.com/conda-forge/gcloud-aio-datastore-feedstock.git
+	path = feedstocks/gcloud-aio-datastore
+	branch = refs/heads/main
