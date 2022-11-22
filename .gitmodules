@@ -72134,3 +72134,7 @@
 	url = https://github.com/conda-forge/types-jsonschema-feedstock.git
 	path = feedstocks/types-jsonschema
 	branch = refs/heads/main
+[submodule "slipcover"]
+	url = https://github.com/conda-forge/slipcover-feedstock.git
+	path = feedstocks/slipcover
+	branch = refs/heads/main
