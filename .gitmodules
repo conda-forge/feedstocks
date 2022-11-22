@@ -72122,3 +72122,7 @@
 	url = https://github.com/conda-forge/gcloud-aio-storage-feedstock.git
 	path = feedstocks/gcloud-aio-storage
 	branch = refs/heads/main
+[submodule "gcloud-aio-auth"]
+	url = https://github.com/conda-forge/gcloud-aio-auth-feedstock.git
+	path = feedstocks/gcloud-aio-auth
+	branch = refs/heads/main
