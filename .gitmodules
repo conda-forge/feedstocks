@@ -72110,3 +72110,7 @@
 	url = https://github.com/conda-forge/gcloud-aio-bigquery-feedstock.git
 	path = feedstocks/gcloud-aio-bigquery
 	branch = refs/heads/main
+[submodule "gcloud-aio-kms"]
+	url = https://github.com/conda-forge/gcloud-aio-kms-feedstock.git
+	path = feedstocks/gcloud-aio-kms
+	branch = refs/heads/main
