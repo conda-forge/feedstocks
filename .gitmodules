@@ -72142,3 +72142,7 @@
 	url = https://github.com/conda-forge/pyvisa-sim-feedstock.git
 	path = feedstocks/pyvisa-sim
 	branch = refs/heads/main
+[submodule "trajan"]
+	url = https://github.com/conda-forge/trajan-feedstock.git
+	path = feedstocks/trajan
+	branch = refs/heads/main
