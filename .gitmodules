@@ -72146,3 +72146,7 @@
 	url = https://github.com/conda-forge/trajan-feedstock.git
 	path = feedstocks/trajan
 	branch = refs/heads/main
+[submodule "tip"]
+	url = https://github.com/conda-forge/tip-feedstock.git
+	path = feedstocks/tip
+	branch = refs/heads/main
