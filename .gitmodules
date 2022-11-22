@@ -72150,3 +72150,7 @@
 	url = https://github.com/conda-forge/tip-feedstock.git
 	path = feedstocks/tip
 	branch = refs/heads/main
+[submodule "jsonschema-gentypes"]
+	url = https://github.com/conda-forge/jsonschema-gentypes-feedstock.git
+	path = feedstocks/jsonschema-gentypes
+	branch = refs/heads/main
