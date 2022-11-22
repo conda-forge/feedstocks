@@ -72138,3 +72138,7 @@
 	url = https://github.com/conda-forge/slipcover-feedstock.git
 	path = feedstocks/slipcover
 	branch = refs/heads/main
+[submodule "pyvisa-sim"]
+	url = https://github.com/conda-forge/pyvisa-sim-feedstock.git
+	path = feedstocks/pyvisa-sim
+	branch = refs/heads/main
