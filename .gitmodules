@@ -72130,3 +72130,7 @@
 	url = https://github.com/conda-forge/kmedoids-feedstock.git
 	path = feedstocks/kmedoids
 	branch = refs/heads/main
+[submodule "types-jsonschema"]
+	url = https://github.com/conda-forge/types-jsonschema-feedstock.git
+	path = feedstocks/types-jsonschema
+	branch = refs/heads/main
