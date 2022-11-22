@@ -72094,3 +72094,7 @@
 	url = https://github.com/conda-forge/autoboost-feedstock.git
 	path = feedstocks/autoboost
 	branch = refs/heads/main
+[submodule "numpy-allocator"]
+	url = https://github.com/conda-forge/numpy-allocator-feedstock.git
+	path = feedstocks/numpy-allocator
+	branch = refs/heads/main
