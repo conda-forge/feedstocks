@@ -72154,3 +72154,7 @@
 	url = https://github.com/conda-forge/jsonschema-gentypes-feedstock.git
 	path = feedstocks/jsonschema-gentypes
 	branch = refs/heads/main
+[submodule "http-ece"]
+	url = https://github.com/conda-forge/http-ece-feedstock.git
+	path = feedstocks/http-ece
+	branch = refs/heads/main
