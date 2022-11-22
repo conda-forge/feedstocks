@@ -72106,3 +72106,7 @@
 	url = https://github.com/conda-forge/gcloud-aio-datastore-feedstock.git
 	path = feedstocks/gcloud-aio-datastore
 	branch = refs/heads/main
+[submodule "gcloud-aio-bigquery"]
+	url = https://github.com/conda-forge/gcloud-aio-bigquery-feedstock.git
+	path = feedstocks/gcloud-aio-bigquery
+	branch = refs/heads/main
