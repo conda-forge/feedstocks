@@ -72098,3 +72098,7 @@
 	url = https://github.com/conda-forge/numpy-allocator-feedstock.git
 	path = feedstocks/numpy-allocator
 	branch = refs/heads/main
+[submodule "gcloud-aio-taskqueue"]
+	url = https://github.com/conda-forge/gcloud-aio-taskqueue-feedstock.git
+	path = feedstocks/gcloud-aio-taskqueue
+	branch = refs/heads/main
