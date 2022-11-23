@@ -72166,3 +72166,7 @@
 	url = https://github.com/conda-forge/theme-material-darcula-feedstock.git
 	path = feedstocks/theme-material-darcula
 	branch = refs/heads/main
+[submodule "perl-test-leaktrace"]
+	url = https://github.com/conda-forge/perl-test-leaktrace-feedstock.git
+	path = feedstocks/perl-test-leaktrace
+	branch = refs/heads/main
