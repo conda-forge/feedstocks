@@ -72170,3 +72170,7 @@
 	url = https://github.com/conda-forge/perl-test-leaktrace-feedstock.git
 	path = feedstocks/perl-test-leaktrace
 	branch = refs/heads/main
+[submodule "perl-mro-compat"]
+	url = https://github.com/conda-forge/perl-mro-compat-feedstock.git
+	path = feedstocks/perl-mro-compat
+	branch = refs/heads/main
