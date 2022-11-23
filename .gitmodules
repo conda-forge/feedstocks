@@ -72182,3 +72182,7 @@
 	url = https://github.com/conda-forge/perl-devel-stacktrace-feedstock.git
 	path = feedstocks/perl-devel-stacktrace
 	branch = refs/heads/main
+[submodule "perl-inc-latest"]
+	url = https://github.com/conda-forge/perl-inc-latest-feedstock.git
+	path = feedstocks/perl-inc-latest
+	branch = refs/heads/main
