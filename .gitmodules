@@ -72198,3 +72198,7 @@
 	url = https://github.com/conda-forge/perl-module-build-feedstock.git
 	path = feedstocks/perl-module-build
 	branch = refs/heads/main
+[submodule "perl-params-util"]
+	url = https://github.com/conda-forge/perl-params-util-feedstock.git
+	path = feedstocks/perl-params-util
+	branch = refs/heads/main
