@@ -72186,3 +72186,7 @@
 	url = https://github.com/conda-forge/perl-inc-latest-feedstock.git
 	path = feedstocks/perl-inc-latest
 	branch = refs/heads/main
+[submodule "perl-test-warnings"]
+	url = https://github.com/conda-forge/perl-test-warnings-feedstock.git
+	path = feedstocks/perl-test-warnings
+	branch = refs/heads/main
