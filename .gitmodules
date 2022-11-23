@@ -72158,3 +72158,7 @@
 	url = https://github.com/conda-forge/http-ece-feedstock.git
 	path = feedstocks/http-ece
 	branch = refs/heads/main
+[submodule "pnpm"]
+	url = https://github.com/conda-forge/pnpm-feedstock.git
+	path = feedstocks/pnpm
+	branch = refs/heads/main
