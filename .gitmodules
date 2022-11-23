@@ -72194,3 +72194,7 @@
 	url = https://github.com/conda-forge/perl-sub-exporter-progressive-feedstock.git
 	path = feedstocks/perl-sub-exporter-progressive
 	branch = refs/heads/main
+[submodule "perl-module-build"]
+	url = https://github.com/conda-forge/perl-module-build-feedstock.git
+	path = feedstocks/perl-module-build
+	branch = refs/heads/main
