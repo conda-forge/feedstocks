@@ -72162,3 +72162,7 @@
 	url = https://github.com/conda-forge/pnpm-feedstock.git
 	path = feedstocks/pnpm
 	branch = refs/heads/main
+[submodule "theme-material-darcula"]
+	url = https://github.com/conda-forge/theme-material-darcula-feedstock.git
+	path = feedstocks/theme-material-darcula
+	branch = refs/heads/main
