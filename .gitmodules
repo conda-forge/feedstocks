@@ -72214,3 +72214,7 @@
 	url = https://github.com/conda-forge/kangas-feedstock.git
 	path = feedstocks/kangas
 	branch = refs/heads/main
+[submodule "pyiceberg"]
+	url = https://github.com/conda-forge/pyiceberg-feedstock.git
+	path = feedstocks/pyiceberg
+	branch = refs/heads/main
