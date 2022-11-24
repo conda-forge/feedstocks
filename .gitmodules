@@ -72210,3 +72210,7 @@
 	url = https://github.com/conda-forge/scikit-build-core-feedstock.git
 	path = feedstocks/scikit-build-core
 	branch = refs/heads/main
+[submodule "kangas"]
+	url = https://github.com/conda-forge/kangas-feedstock.git
+	path = feedstocks/kangas
+	branch = refs/heads/main
