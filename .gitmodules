@@ -72218,3 +72218,7 @@
 	url = https://github.com/conda-forge/pyiceberg-feedstock.git
 	path = feedstocks/pyiceberg
 	branch = refs/heads/main
+[submodule "pynessie"]
+	url = https://github.com/conda-forge/pynessie-feedstock.git
+	path = feedstocks/pynessie
+	branch = refs/heads/main
