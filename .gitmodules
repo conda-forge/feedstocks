@@ -72234,3 +72234,7 @@
 	url = https://github.com/conda-forge/envs-manager-feedstock.git
 	path = feedstocks/envs-manager
 	branch = refs/heads/main
+[submodule "stdio-mgr"]
+	url = https://github.com/conda-forge/stdio-mgr-feedstock.git
+	path = feedstocks/stdio-mgr
+	branch = refs/heads/main
