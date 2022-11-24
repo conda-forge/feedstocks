@@ -72226,3 +72226,7 @@
 	url = https://github.com/conda-forge/pytensor-suite-feedstock.git
 	path = feedstocks/pytensor-suite
 	branch = refs/heads/main
+[submodule "dbt-dremio"]
+	url = https://github.com/conda-forge/dbt-dremio-feedstock.git
+	path = feedstocks/dbt-dremio
+	branch = refs/heads/main
