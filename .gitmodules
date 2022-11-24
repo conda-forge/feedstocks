@@ -72222,3 +72222,7 @@
 	url = https://github.com/conda-forge/pynessie-feedstock.git
 	path = feedstocks/pynessie
 	branch = refs/heads/main
+[submodule "pytensor-suite"]
+	url = https://github.com/conda-forge/pytensor-suite-feedstock.git
+	path = feedstocks/pytensor-suite
+	branch = refs/heads/main
