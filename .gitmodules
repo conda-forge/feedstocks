@@ -72230,3 +72230,7 @@
 	url = https://github.com/conda-forge/dbt-dremio-feedstock.git
 	path = feedstocks/dbt-dremio
 	branch = refs/heads/main
+[submodule "envs-manager"]
+	url = https://github.com/conda-forge/envs-manager-feedstock.git
+	path = feedstocks/envs-manager
+	branch = refs/heads/main
