@@ -72274,3 +72274,7 @@
 	url = https://github.com/conda-forge/fastberry-feedstock.git
 	path = feedstocks/fastberry
 	branch = refs/heads/main
+[submodule "embetter"]
+	url = https://github.com/conda-forge/embetter-feedstock.git
+	path = feedstocks/embetter
+	branch = refs/heads/main
