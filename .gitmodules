@@ -72266,3 +72266,7 @@
 	url = https://github.com/conda-forge/git-delete-merged-branches-feedstock.git
 	path = feedstocks/git-delete-merged-branches
 	branch = refs/heads/main
+[submodule "tree_sitter_languages"]
+	url = https://github.com/conda-forge/tree_sitter_languages-feedstock.git
+	path = feedstocks/tree_sitter_languages
+	branch = refs/heads/main
