@@ -72282,3 +72282,7 @@
 	url = https://github.com/conda-forge/cpp-argparse-feedstock.git
 	path = feedstocks/cpp-argparse
 	branch = refs/heads/main
+[submodule "esi-utils-geo"]
+	url = https://github.com/conda-forge/esi-utils-geo-feedstock.git
+	path = feedstocks/esi-utils-geo
+	branch = refs/heads/main
