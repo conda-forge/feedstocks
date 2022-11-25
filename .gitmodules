@@ -72242,3 +72242,7 @@
 	url = https://github.com/conda-forge/spoc-feedstock.git
 	path = feedstocks/spoc
 	branch = refs/heads/main
+[submodule "tree_sitter"]
+	url = https://github.com/conda-forge/tree_sitter-feedstock.git
+	path = feedstocks/tree_sitter
+	branch = refs/heads/main
