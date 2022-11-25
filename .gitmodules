@@ -72278,3 +72278,7 @@
 	url = https://github.com/conda-forge/embetter-feedstock.git
 	path = feedstocks/embetter
 	branch = refs/heads/main
+[submodule "cpp-argparse"]
+	url = https://github.com/conda-forge/cpp-argparse-feedstock.git
+	path = feedstocks/cpp-argparse
+	branch = refs/heads/main
