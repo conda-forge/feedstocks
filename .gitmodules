@@ -72262,3 +72262,7 @@
 	url = https://github.com/conda-forge/perl-object-insideout-feedstock.git
 	path = feedstocks/perl-object-insideout
 	branch = refs/heads/main
+[submodule "git-delete-merged-branches"]
+	url = https://github.com/conda-forge/git-delete-merged-branches-feedstock.git
+	path = feedstocks/git-delete-merged-branches
+	branch = refs/heads/main
