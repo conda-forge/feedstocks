@@ -72246,3 +72246,7 @@
 	url = https://github.com/conda-forge/tree_sitter-feedstock.git
 	path = feedstocks/tree_sitter
 	branch = refs/heads/main
+[submodule "perl-math-random-mt-auto"]
+	url = https://github.com/conda-forge/perl-math-random-mt-auto-feedstock.git
+	path = feedstocks/perl-math-random-mt-auto
+	branch = refs/heads/main
