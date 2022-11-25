@@ -72238,3 +72238,7 @@
 	url = https://github.com/conda-forge/stdio-mgr-feedstock.git
 	path = feedstocks/stdio-mgr
 	branch = refs/heads/main
+[submodule "spoc"]
+	url = https://github.com/conda-forge/spoc-feedstock.git
+	path = feedstocks/spoc
+	branch = refs/heads/main
