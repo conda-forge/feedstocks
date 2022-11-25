@@ -72270,3 +72270,7 @@
 	url = https://github.com/conda-forge/tree_sitter_languages-feedstock.git
 	path = feedstocks/tree_sitter_languages
 	branch = refs/heads/main
+[submodule "fastberry"]
+	url = https://github.com/conda-forge/fastberry-feedstock.git
+	path = feedstocks/fastberry
+	branch = refs/heads/main
