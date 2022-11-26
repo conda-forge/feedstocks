@@ -72290,3 +72290,7 @@
 	url = https://github.com/conda-forge/r-hrw-feedstock.git
 	path = feedstocks/r-hrw
 	branch = refs/heads/main
+[submodule "r-modelbased"]
+	url = https://github.com/conda-forge/r-modelbased-feedstock.git
+	path = feedstocks/r-modelbased
+	branch = refs/heads/main
