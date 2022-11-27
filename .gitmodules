@@ -72362,3 +72362,7 @@
 	url = https://github.com/conda-forge/hstream-feedstock.git
 	path = feedstocks/hstream
 	branch = refs/heads/main
+[submodule "pdfsyntax"]
+	url = https://github.com/conda-forge/pdfsyntax-feedstock.git
+	path = feedstocks/pdfsyntax
+	branch = refs/heads/main
