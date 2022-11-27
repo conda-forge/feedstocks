@@ -72334,3 +72334,7 @@
 	url = https://github.com/conda-forge/r-statcheck-feedstock.git
 	path = feedstocks/r-statcheck
 	branch = refs/heads/main
+[submodule "r-reportfactory"]
+	url = https://github.com/conda-forge/r-reportfactory-feedstock.git
+	path = feedstocks/r-reportfactory
+	branch = refs/heads/main
