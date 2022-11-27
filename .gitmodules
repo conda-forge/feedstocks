@@ -72322,3 +72322,7 @@
 	url = https://github.com/conda-forge/r-timechange-feedstock.git
 	path = feedstocks/r-timechange
 	branch = refs/heads/main
+[submodule "r-suncalc"]
+	url = https://github.com/conda-forge/r-suncalc-feedstock.git
+	path = feedstocks/r-suncalc
+	branch = refs/heads/main
