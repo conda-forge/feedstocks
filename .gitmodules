@@ -72414,3 +72414,7 @@
 	url = https://github.com/conda-forge/r-gggibbous-feedstock.git
 	path = feedstocks/r-gggibbous
 	branch = refs/heads/main
+[submodule "snowflake-snowpark-python"]
+	url = https://github.com/conda-forge/snowflake-snowpark-python-feedstock.git
+	path = feedstocks/snowflake-snowpark-python
+	branch = refs/heads/main
