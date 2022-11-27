@@ -72294,3 +72294,7 @@
 	url = https://github.com/conda-forge/r-modelbased-feedstock.git
 	path = feedstocks/r-modelbased
 	branch = refs/heads/main
+[submodule "python-xz"]
+	url = https://github.com/conda-forge/python-xz-feedstock.git
+	path = feedstocks/python-xz
+	branch = refs/heads/main
