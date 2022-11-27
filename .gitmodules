@@ -72326,3 +72326,7 @@
 	url = https://github.com/conda-forge/r-suncalc-feedstock.git
 	path = feedstocks/r-suncalc
 	branch = refs/heads/main
+[submodule "r-ggimage"]
+	url = https://github.com/conda-forge/r-ggimage-feedstock.git
+	path = feedstocks/r-ggimage
+	branch = refs/heads/main
