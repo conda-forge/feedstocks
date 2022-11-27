@@ -72398,3 +72398,7 @@
 	url = https://github.com/conda-forge/stackeddag-feedstock.git
 	path = feedstocks/stackeddag
 	branch = refs/heads/main
+[submodule "cirun"]
+	url = https://github.com/conda-forge/cirun-feedstock.git
+	path = feedstocks/cirun
+	branch = refs/heads/main
