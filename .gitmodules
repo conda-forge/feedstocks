@@ -72386,3 +72386,7 @@
 	url = https://github.com/conda-forge/napari-power-widgets-feedstock.git
 	path = feedstocks/napari-power-widgets
 	branch = refs/heads/main
+[submodule "pgsqlite"]
+	url = https://github.com/conda-forge/pgsqlite-feedstock.git
+	path = feedstocks/pgsqlite
+	branch = refs/heads/main
