@@ -72350,3 +72350,7 @@
 	url = https://github.com/conda-forge/find-libpython-feedstock.git
 	path = feedstocks/find-libpython
 	branch = refs/heads/main
+[submodule "rio-stac"]
+	url = https://github.com/conda-forge/rio-stac-feedstock.git
+	path = feedstocks/rio-stac
+	branch = refs/heads/main
