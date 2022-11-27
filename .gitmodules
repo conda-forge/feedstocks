@@ -72390,3 +72390,7 @@
 	url = https://github.com/conda-forge/pgsqlite-feedstock.git
 	path = feedstocks/pgsqlite
 	branch = refs/heads/main
+[submodule "pytups"]
+	url = https://github.com/conda-forge/pytups-feedstock.git
+	path = feedstocks/pytups
+	branch = refs/heads/main
