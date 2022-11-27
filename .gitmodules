@@ -72402,3 +72402,7 @@
 	url = https://github.com/conda-forge/cirun-feedstock.git
 	path = feedstocks/cirun
 	branch = refs/heads/main
+[submodule "splinedist"]
+	url = https://github.com/conda-forge/splinedist-feedstock.git
+	path = feedstocks/splinedist
+	branch = refs/heads/main
