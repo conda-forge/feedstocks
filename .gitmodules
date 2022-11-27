@@ -72382,3 +72382,7 @@
 	url = https://github.com/conda-forge/semantic-code-search-feedstock.git
 	path = feedstocks/semantic-code-search
 	branch = refs/heads/main
+[submodule "napari-power-widgets"]
+	url = https://github.com/conda-forge/napari-power-widgets-feedstock.git
+	path = feedstocks/napari-power-widgets
+	branch = refs/heads/main
