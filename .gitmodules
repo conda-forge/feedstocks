@@ -72330,3 +72330,7 @@
 	url = https://github.com/conda-forge/r-ggimage-feedstock.git
 	path = feedstocks/r-ggimage
 	branch = refs/heads/main
+[submodule "r-statcheck"]
+	url = https://github.com/conda-forge/r-statcheck-feedstock.git
+	path = feedstocks/r-statcheck
+	branch = refs/heads/main
