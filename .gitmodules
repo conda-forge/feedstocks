@@ -72318,3 +72318,7 @@
 	url = https://github.com/conda-forge/r-pushoverr-feedstock.git
 	path = feedstocks/r-pushoverr
 	branch = refs/heads/main
+[submodule "r-timechange"]
+	url = https://github.com/conda-forge/r-timechange-feedstock.git
+	path = feedstocks/r-timechange
+	branch = refs/heads/main
