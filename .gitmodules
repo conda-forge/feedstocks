@@ -72298,3 +72298,7 @@
 	url = https://github.com/conda-forge/python-xz-feedstock.git
 	path = feedstocks/python-xz
 	branch = refs/heads/main
+[submodule "eerepr"]
+	url = https://github.com/conda-forge/eerepr-feedstock.git
+	path = feedstocks/eerepr
+	branch = refs/heads/main
