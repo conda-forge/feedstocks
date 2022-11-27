@@ -72346,3 +72346,7 @@
 	url = https://github.com/conda-forge/pmlb-feedstock.git
 	path = feedstocks/pmlb
 	branch = refs/heads/main
+[submodule "find-libpython"]
+	url = https://github.com/conda-forge/find-libpython-feedstock.git
+	path = feedstocks/find-libpython
+	branch = refs/heads/main
