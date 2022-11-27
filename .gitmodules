@@ -72338,3 +72338,7 @@
 	url = https://github.com/conda-forge/r-reportfactory-feedstock.git
 	path = feedstocks/r-reportfactory
 	branch = refs/heads/main
+[submodule "r-installr"]
+	url = https://github.com/conda-forge/r-installr-feedstock.git
+	path = feedstocks/r-installr
+	branch = refs/heads/main
