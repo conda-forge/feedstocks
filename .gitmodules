@@ -72378,3 +72378,7 @@
 	url = https://github.com/conda-forge/pypette-feedstock.git
 	path = feedstocks/pypette
 	branch = refs/heads/main
+[submodule "semantic-code-search"]
+	url = https://github.com/conda-forge/semantic-code-search-feedstock.git
+	path = feedstocks/semantic-code-search
+	branch = refs/heads/main
