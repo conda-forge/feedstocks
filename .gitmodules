@@ -72342,3 +72342,7 @@
 	url = https://github.com/conda-forge/r-installr-feedstock.git
 	path = feedstocks/r-installr
 	branch = refs/heads/main
+[submodule "pmlb"]
+	url = https://github.com/conda-forge/pmlb-feedstock.git
+	path = feedstocks/pmlb
+	branch = refs/heads/main
