@@ -72374,3 +72374,7 @@
 	url = https://github.com/conda-forge/redframes-feedstock.git
 	path = feedstocks/redframes
 	branch = refs/heads/main
+[submodule "pypette"]
+	url = https://github.com/conda-forge/pypette-feedstock.git
+	path = feedstocks/pypette
+	branch = refs/heads/main
