@@ -72426,3 +72426,7 @@
 	url = https://github.com/conda-forge/r-visreg-feedstock.git
 	path = feedstocks/r-visreg
 	branch = refs/heads/main
+[submodule "r-sheetreader"]
+	url = https://github.com/conda-forge/r-sheetreader-feedstock.git
+	path = feedstocks/r-sheetreader
+	branch = refs/heads/main
