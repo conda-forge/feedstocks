@@ -72418,3 +72418,7 @@
 	url = https://github.com/conda-forge/snowflake-snowpark-python-feedstock.git
 	path = feedstocks/snowflake-snowpark-python
 	branch = refs/heads/main
+[submodule "momlevel"]
+	url = https://github.com/conda-forge/momlevel-feedstock.git
+	path = feedstocks/momlevel
+	branch = refs/heads/main
