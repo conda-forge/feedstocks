@@ -72458,3 +72458,7 @@
 	url = https://github.com/conda-forge/lucid3-feedstock.git
 	path = feedstocks/lucid3
 	branch = refs/heads/main
+[submodule "scikit-explain"]
+	url = https://github.com/conda-forge/scikit-explain-feedstock.git
+	path = feedstocks/scikit-explain
+	branch = refs/heads/main
