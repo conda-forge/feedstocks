@@ -72462,3 +72462,7 @@
 	url = https://github.com/conda-forge/scikit-explain-feedstock.git
 	path = feedstocks/scikit-explain
 	branch = refs/heads/main
+[submodule "e3nn-jax"]
+	url = https://github.com/conda-forge/e3nn-jax-feedstock.git
+	path = feedstocks/e3nn-jax
+	branch = refs/heads/main
