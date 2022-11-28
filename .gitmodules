@@ -72474,3 +72474,7 @@
 	url = https://github.com/conda-forge/flake8-unused-arguments-feedstock.git
 	path = feedstocks/flake8-unused-arguments
 	branch = refs/heads/main
+[submodule "choclo"]
+	url = https://github.com/conda-forge/choclo-feedstock.git
+	path = feedstocks/choclo
+	branch = refs/heads/main
