@@ -72430,3 +72430,7 @@
 	url = https://github.com/conda-forge/r-sheetreader-feedstock.git
 	path = feedstocks/r-sheetreader
 	branch = refs/heads/main
+[submodule "libjxl-split"]
+	url = https://github.com/conda-forge/libjxl-split-feedstock.git
+	path = feedstocks/libjxl-split
+	branch = refs/heads/main
