@@ -72422,3 +72422,7 @@
 	url = https://github.com/conda-forge/momlevel-feedstock.git
 	path = feedstocks/momlevel
 	branch = refs/heads/main
+[submodule "r-visreg"]
+	url = https://github.com/conda-forge/r-visreg-feedstock.git
+	path = feedstocks/r-visreg
+	branch = refs/heads/main
