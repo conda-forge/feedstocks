@@ -72470,3 +72470,7 @@
 	url = https://github.com/conda-forge/sphobjinv-feedstock.git
 	path = feedstocks/sphobjinv
 	branch = refs/heads/main
+[submodule "flake8-unused-arguments"]
+	url = https://github.com/conda-forge/flake8-unused-arguments-feedstock.git
+	path = feedstocks/flake8-unused-arguments
+	branch = refs/heads/main
