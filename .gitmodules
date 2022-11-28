@@ -72446,3 +72446,7 @@
 	url = https://github.com/conda-forge/chromedriver-autoinstaller-feedstock.git
 	path = feedstocks/chromedriver-autoinstaller
 	branch = refs/heads/main
+[submodule "oci-cli"]
+	url = https://github.com/conda-forge/oci-cli-feedstock.git
+	path = feedstocks/oci-cli
+	branch = refs/heads/main
