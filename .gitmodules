@@ -72466,3 +72466,7 @@
 	url = https://github.com/conda-forge/e3nn-jax-feedstock.git
 	path = feedstocks/e3nn-jax
 	branch = refs/heads/main
+[submodule "sphobjinv"]
+	url = https://github.com/conda-forge/sphobjinv-feedstock.git
+	path = feedstocks/sphobjinv
+	branch = refs/heads/main
