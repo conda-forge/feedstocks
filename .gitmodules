@@ -72454,3 +72454,7 @@
 	url = https://github.com/conda-forge/sphinx-lint-feedstock.git
 	path = feedstocks/sphinx-lint
 	branch = refs/heads/main
+[submodule "lucid3"]
+	url = https://github.com/conda-forge/lucid3-feedstock.git
+	path = feedstocks/lucid3
+	branch = refs/heads/main
