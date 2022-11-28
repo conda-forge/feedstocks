@@ -72434,3 +72434,7 @@
 	url = https://github.com/conda-forge/libjxl-split-feedstock.git
 	path = feedstocks/libjxl-split
 	branch = refs/heads/main
+[submodule "dwave-samplers"]
+	url = https://github.com/conda-forge/dwave-samplers-feedstock.git
+	path = feedstocks/dwave-samplers
+	branch = refs/heads/main
