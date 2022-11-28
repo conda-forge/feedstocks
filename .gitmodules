@@ -72442,3 +72442,7 @@
 	url = https://github.com/conda-forge/svmtk-feedstock.git
 	path = feedstocks/svmtk
 	branch = refs/heads/main
+[submodule "chromedriver-autoinstaller"]
+	url = https://github.com/conda-forge/chromedriver-autoinstaller-feedstock.git
+	path = feedstocks/chromedriver-autoinstaller
+	branch = refs/heads/main
