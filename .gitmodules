@@ -72438,3 +72438,7 @@
 	url = https://github.com/conda-forge/dwave-samplers-feedstock.git
 	path = feedstocks/dwave-samplers
 	branch = refs/heads/main
+[submodule "svmtk"]
+	url = https://github.com/conda-forge/svmtk-feedstock.git
+	path = feedstocks/svmtk
+	branch = refs/heads/main
