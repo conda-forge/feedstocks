@@ -72494,3 +72494,7 @@
 	url = https://github.com/conda-forge/julia-conda-packaging-feedstock.git
 	path = feedstocks/julia-conda-packaging
 	branch = refs/heads/main
+[submodule "bw2data"]
+	url = https://github.com/conda-forge/bw2data-feedstock.git
+	path = feedstocks/bw2data
+	branch = refs/heads/main
