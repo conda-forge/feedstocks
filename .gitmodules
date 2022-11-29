@@ -72510,3 +72510,7 @@
 	url = https://github.com/conda-forge/indexed_zstd-feedstock.git
 	path = feedstocks/indexed_zstd
 	branch = refs/heads/main
+[submodule "foxes"]
+	url = https://github.com/conda-forge/foxes-feedstock.git
+	path = feedstocks/foxes
+	branch = refs/heads/main
