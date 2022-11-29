@@ -72478,3 +72478,7 @@
 	url = https://github.com/conda-forge/choclo-feedstock.git
 	path = feedstocks/choclo
 	branch = refs/heads/main
+[submodule "r-calendr"]
+	url = https://github.com/conda-forge/r-calendr-feedstock.git
+	path = feedstocks/r-calendr
+	branch = refs/heads/main
