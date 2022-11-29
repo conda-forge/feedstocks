@@ -72490,3 +72490,7 @@
 	url = https://github.com/conda-forge/cronodump-feedstock.git
 	path = feedstocks/cronodump
 	branch = refs/heads/main
+[submodule "julia-conda-packaging"]
+	url = https://github.com/conda-forge/julia-conda-packaging-feedstock.git
+	path = feedstocks/julia-conda-packaging
+	branch = refs/heads/main
