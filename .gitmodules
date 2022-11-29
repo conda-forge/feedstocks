@@ -72502,3 +72502,7 @@
 	url = https://github.com/conda-forge/jupikchr-feedstock.git
 	path = feedstocks/jupikchr
 	branch = refs/heads/main
+[submodule "tempest-helper"]
+	url = https://github.com/conda-forge/tempest-helper-feedstock.git
+	path = feedstocks/tempest-helper
+	branch = refs/heads/main
