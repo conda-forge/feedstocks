@@ -72514,3 +72514,7 @@
 	url = https://github.com/conda-forge/foxes-feedstock.git
 	path = feedstocks/foxes
 	branch = refs/heads/main
+[submodule "pycln"]
+	url = https://github.com/conda-forge/pycln-feedstock.git
+	path = feedstocks/pycln
+	branch = refs/heads/main
