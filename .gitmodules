@@ -72522,3 +72522,7 @@
 	url = https://github.com/conda-forge/asgi-correlation-id-feedstock.git
 	path = feedstocks/asgi-correlation-id
 	branch = refs/heads/main
+[submodule "lsds"]
+	url = https://github.com/conda-forge/lsds-feedstock.git
+	path = feedstocks/lsds
+	branch = refs/heads/main
