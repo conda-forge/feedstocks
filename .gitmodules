@@ -72526,3 +72526,7 @@
 	url = https://github.com/conda-forge/lsds-feedstock.git
 	path = feedstocks/lsds
 	branch = refs/heads/main
+[submodule "httpx-cache"]
+	url = https://github.com/conda-forge/httpx-cache-feedstock.git
+	path = feedstocks/httpx-cache
+	branch = refs/heads/main
