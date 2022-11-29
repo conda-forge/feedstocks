@@ -72506,3 +72506,7 @@
 	url = https://github.com/conda-forge/tempest-helper-feedstock.git
 	path = feedstocks/tempest-helper
 	branch = refs/heads/main
+[submodule "indexed_zstd"]
+	url = https://github.com/conda-forge/indexed_zstd-feedstock.git
+	path = feedstocks/indexed_zstd
+	branch = refs/heads/main
