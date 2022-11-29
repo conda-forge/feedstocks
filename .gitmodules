@@ -72486,3 +72486,7 @@
 	url = https://github.com/conda-forge/traitlets_paths-feedstock.git
 	path = feedstocks/traitlets_paths
 	branch = refs/heads/main
+[submodule "cronodump"]
+	url = https://github.com/conda-forge/cronodump-feedstock.git
+	path = feedstocks/cronodump
+	branch = refs/heads/main
