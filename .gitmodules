@@ -72482,3 +72482,7 @@
 	url = https://github.com/conda-forge/r-calendr-feedstock.git
 	path = feedstocks/r-calendr
 	branch = refs/heads/main
+[submodule "traitlets_paths"]
+	url = https://github.com/conda-forge/traitlets_paths-feedstock.git
+	path = feedstocks/traitlets_paths
+	branch = refs/heads/main
