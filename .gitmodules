@@ -72518,3 +72518,7 @@
 	url = https://github.com/conda-forge/pycln-feedstock.git
 	path = feedstocks/pycln
 	branch = refs/heads/main
+[submodule "asgi-correlation-id"]
+	url = https://github.com/conda-forge/asgi-correlation-id-feedstock.git
+	path = feedstocks/asgi-correlation-id
+	branch = refs/heads/main
