@@ -72558,3 +72558,7 @@
 	url = https://github.com/conda-forge/ruff-feedstock.git
 	path = feedstocks/ruff
 	branch = refs/heads/main
+[submodule "airflow-provider-great-expectations"]
+	url = https://github.com/conda-forge/airflow-provider-great-expectations-feedstock.git
+	path = feedstocks/airflow-provider-great-expectations
+	branch = refs/heads/main
