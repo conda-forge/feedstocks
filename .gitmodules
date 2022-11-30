@@ -72550,3 +72550,7 @@
 	url = https://github.com/conda-forge/syrupy-feedstock.git
 	path = feedstocks/syrupy
 	branch = refs/heads/main
+[submodule "pykube"]
+	url = https://github.com/conda-forge/pykube-feedstock.git
+	path = feedstocks/pykube
+	branch = refs/heads/main
