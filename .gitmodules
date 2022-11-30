@@ -72590,3 +72590,7 @@
 	url = https://github.com/conda-forge/red-black-tree-mod-feedstock.git
 	path = feedstocks/red-black-tree-mod
 	branch = refs/heads/main
+[submodule "qiskit-dynamics"]
+	url = https://github.com/conda-forge/qiskit-dynamics-feedstock.git
+	path = feedstocks/qiskit-dynamics
+	branch = refs/heads/main
