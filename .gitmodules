@@ -72566,3 +72566,7 @@
 	url = https://github.com/conda-forge/nebari-feedstock.git
 	path = feedstocks/nebari
 	branch = refs/heads/main
+[submodule "qiskit-ibm-provider"]
+	url = https://github.com/conda-forge/qiskit-ibm-provider-feedstock.git
+	path = feedstocks/qiskit-ibm-provider
+	branch = refs/heads/main
