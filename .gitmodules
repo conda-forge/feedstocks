@@ -72578,3 +72578,7 @@
 	url = https://github.com/conda-forge/qiskit-ibm-runtime-feedstock.git
 	path = feedstocks/qiskit-ibm-runtime
 	branch = refs/heads/main
+[submodule "_ipython_minor_entry_point"]
+	url = https://github.com/conda-forge/_ipython_minor_entry_point-feedstock.git
+	path = feedstocks/_ipython_minor_entry_point
+	branch = refs/heads/main
