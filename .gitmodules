@@ -72570,3 +72570,7 @@
 	url = https://github.com/conda-forge/qiskit-ibm-provider-feedstock.git
 	path = feedstocks/qiskit-ibm-provider
 	branch = refs/heads/main
+[submodule "ibm-platform-services"]
+	url = https://github.com/conda-forge/ibm-platform-services-feedstock.git
+	path = feedstocks/ibm-platform-services
+	branch = refs/heads/main
