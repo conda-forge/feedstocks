@@ -72554,3 +72554,7 @@
 	url = https://github.com/conda-forge/pykube-feedstock.git
 	path = feedstocks/pykube
 	branch = refs/heads/main
+[submodule "ruff"]
+	url = https://github.com/conda-forge/ruff-feedstock.git
+	path = feedstocks/ruff
+	branch = refs/heads/main
