@@ -72542,3 +72542,7 @@
 	url = https://github.com/conda-forge/scriptengine-tasks-ecearth-feedstock.git
 	path = feedstocks/scriptengine-tasks-ecearth
 	branch = refs/heads/main
+[submodule "bw2calc"]
+	url = https://github.com/conda-forge/bw2calc-feedstock.git
+	path = feedstocks/bw2calc
+	branch = refs/heads/main
