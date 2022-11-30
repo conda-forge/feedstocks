@@ -72530,3 +72530,7 @@
 	url = https://github.com/conda-forge/httpx-cache-feedstock.git
 	path = feedstocks/httpx-cache
 	branch = refs/heads/main
+[submodule "cdasws"]
+	url = https://github.com/conda-forge/cdasws-feedstock.git
+	path = feedstocks/cdasws
+	branch = refs/heads/main
