@@ -72562,3 +72562,7 @@
 	url = https://github.com/conda-forge/airflow-provider-great-expectations-feedstock.git
 	path = feedstocks/airflow-provider-great-expectations
 	branch = refs/heads/main
+[submodule "nebari"]
+	url = https://github.com/conda-forge/nebari-feedstock.git
+	path = feedstocks/nebari
+	branch = refs/heads/main
