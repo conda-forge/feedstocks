@@ -72546,3 +72546,7 @@
 	url = https://github.com/conda-forge/bw2calc-feedstock.git
 	path = feedstocks/bw2calc
 	branch = refs/heads/main
+[submodule "syrupy"]
+	url = https://github.com/conda-forge/syrupy-feedstock.git
+	path = feedstocks/syrupy
+	branch = refs/heads/main
