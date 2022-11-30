@@ -72582,3 +72582,7 @@
 	url = https://github.com/conda-forge/_ipython_minor_entry_point-feedstock.git
 	path = feedstocks/_ipython_minor_entry_point
 	branch = refs/heads/main
+[submodule "pytest-jupyter"]
+	url = https://github.com/conda-forge/pytest-jupyter-feedstock.git
+	path = feedstocks/pytest-jupyter
+	branch = refs/heads/main
