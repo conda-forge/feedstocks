@@ -72614,3 +72614,7 @@
 	url = https://github.com/conda-forge/bw_migrations-feedstock.git
 	path = feedstocks/bw_migrations
 	branch = refs/heads/main
+[submodule "bw2analyzer"]
+	url = https://github.com/conda-forge/bw2analyzer-feedstock.git
+	path = feedstocks/bw2analyzer
+	branch = refs/heads/main
