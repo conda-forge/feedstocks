@@ -72610,3 +72610,7 @@
 	url = https://github.com/conda-forge/fastfilters2-feedstock.git
 	path = feedstocks/fastfilters2
 	branch = refs/heads/main
+[submodule "bw_migrations"]
+	url = https://github.com/conda-forge/bw_migrations-feedstock.git
+	path = feedstocks/bw_migrations
+	branch = refs/heads/main
