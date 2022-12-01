@@ -72622,3 +72622,7 @@
 	url = https://github.com/conda-forge/ncas-amof-netcdf-template-feedstock.git
 	path = feedstocks/ncas-amof-netcdf-template
 	branch = refs/heads/main
+[submodule "kaggle-environments"]
+	url = https://github.com/conda-forge/kaggle-environments-feedstock.git
+	path = feedstocks/kaggle-environments
+	branch = refs/heads/main
