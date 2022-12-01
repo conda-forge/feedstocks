@@ -72602,3 +72602,7 @@
 	url = https://github.com/conda-forge/r-bonsai-feedstock.git
 	path = feedstocks/r-bonsai
 	branch = refs/heads/main
+[submodule "architector"]
+	url = https://github.com/conda-forge/architector-feedstock.git
+	path = feedstocks/architector
+	branch = refs/heads/main
