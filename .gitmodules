@@ -72606,3 +72606,7 @@
 	url = https://github.com/conda-forge/architector-feedstock.git
 	path = feedstocks/architector
 	branch = refs/heads/main
+[submodule "fastfilters2"]
+	url = https://github.com/conda-forge/fastfilters2-feedstock.git
+	path = feedstocks/fastfilters2
+	branch = refs/heads/main
