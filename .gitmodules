@@ -72666,3 +72666,7 @@
 	url = https://github.com/conda-forge/beets-feedstock.git
 	path = feedstocks/beets
 	branch = refs/heads/main
+[submodule "drafthorse"]
+	url = https://github.com/conda-forge/drafthorse-feedstock.git
+	path = feedstocks/drafthorse
+	branch = refs/heads/main
