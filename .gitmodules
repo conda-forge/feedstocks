@@ -72646,3 +72646,7 @@
 	url = https://github.com/conda-forge/iwopy-feedstock.git
 	path = feedstocks/iwopy
 	branch = refs/heads/main
+[submodule "realalg"]
+	url = https://github.com/conda-forge/realalg-feedstock.git
+	path = feedstocks/realalg
+	branch = refs/heads/main
