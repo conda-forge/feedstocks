@@ -72654,3 +72654,7 @@
 	url = https://github.com/conda-forge/moe_mediafile-feedstock.git
 	path = feedstocks/moe_mediafile
 	branch = refs/heads/main
+[submodule "jupyter-syncthing-proxy"]
+	url = https://github.com/conda-forge/jupyter-syncthing-proxy-feedstock.git
+	path = feedstocks/jupyter-syncthing-proxy
+	branch = refs/heads/main
