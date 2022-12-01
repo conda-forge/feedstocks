@@ -72662,3 +72662,7 @@
 	url = https://github.com/conda-forge/gladier-feedstock.git
 	path = feedstocks/gladier
 	branch = refs/heads/main
+[submodule "beets"]
+	url = https://github.com/conda-forge/beets-feedstock.git
+	path = feedstocks/beets
+	branch = refs/heads/main
