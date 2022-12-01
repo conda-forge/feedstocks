@@ -72630,3 +72630,7 @@
 	url = https://github.com/conda-forge/presamples-feedstock.git
 	path = feedstocks/presamples
 	branch = refs/heads/main
+[submodule "gladier-tools"]
+	url = https://github.com/conda-forge/gladier-tools-feedstock.git
+	path = feedstocks/gladier-tools
+	branch = refs/heads/main
