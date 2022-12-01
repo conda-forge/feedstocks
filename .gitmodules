@@ -72638,3 +72638,7 @@
 	url = https://github.com/conda-forge/curifactory-feedstock.git
 	path = feedstocks/curifactory
 	branch = refs/heads/main
+[submodule "globus-automate-client"]
+	url = https://github.com/conda-forge/globus-automate-client-feedstock.git
+	path = feedstocks/globus-automate-client
+	branch = refs/heads/main
