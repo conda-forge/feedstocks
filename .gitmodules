@@ -72626,3 +72626,7 @@
 	url = https://github.com/conda-forge/kaggle-environments-feedstock.git
 	path = feedstocks/kaggle-environments
 	branch = refs/heads/main
+[submodule "presamples"]
+	url = https://github.com/conda-forge/presamples-feedstock.git
+	path = feedstocks/presamples
+	branch = refs/heads/main
