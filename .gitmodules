@@ -72634,3 +72634,7 @@
 	url = https://github.com/conda-forge/gladier-tools-feedstock.git
 	path = feedstocks/gladier-tools
 	branch = refs/heads/main
+[submodule "curifactory"]
+	url = https://github.com/conda-forge/curifactory-feedstock.git
+	path = feedstocks/curifactory
+	branch = refs/heads/main
