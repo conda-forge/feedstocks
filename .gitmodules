@@ -72618,3 +72618,7 @@
 	url = https://github.com/conda-forge/bw2analyzer-feedstock.git
 	path = feedstocks/bw2analyzer
 	branch = refs/heads/main
+[submodule "ncas-amof-netcdf-template"]
+	url = https://github.com/conda-forge/ncas-amof-netcdf-template-feedstock.git
+	path = feedstocks/ncas-amof-netcdf-template
+	branch = refs/heads/main
