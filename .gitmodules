@@ -72594,3 +72594,7 @@
 	url = https://github.com/conda-forge/qiskit-dynamics-feedstock.git
 	path = feedstocks/qiskit-dynamics
 	branch = refs/heads/main
+[submodule "rubin-libradtran"]
+	url = https://github.com/conda-forge/rubin-libradtran-feedstock.git
+	path = feedstocks/rubin-libradtran
+	branch = refs/heads/main
