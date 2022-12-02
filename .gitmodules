@@ -72682,3 +72682,7 @@
 	url = https://github.com/conda-forge/pdbufr-feedstock.git
 	path = feedstocks/pdbufr
 	branch = refs/heads/main
+[submodule "mne-bids-pipeline"]
+	url = https://github.com/conda-forge/mne-bids-pipeline-feedstock.git
+	path = feedstocks/mne-bids-pipeline
+	branch = refs/heads/main
