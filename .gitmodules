@@ -72694,3 +72694,7 @@
 	url = https://github.com/conda-forge/bw2io-feedstock.git
 	path = feedstocks/bw2io
 	branch = refs/heads/main
+[submodule "ott-jax"]
+	url = https://github.com/conda-forge/ott-jax-feedstock.git
+	path = feedstocks/ott-jax
+	branch = refs/heads/main
