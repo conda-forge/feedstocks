@@ -72698,3 +72698,7 @@
 	url = https://github.com/conda-forge/ott-jax-feedstock.git
 	path = feedstocks/ott-jax
 	branch = refs/heads/main
+[submodule "adios_db"]
+	url = https://github.com/conda-forge/adios_db-feedstock.git
+	path = feedstocks/adios_db
+	branch = refs/heads/main
