@@ -72686,3 +72686,7 @@
 	url = https://github.com/conda-forge/mne-bids-pipeline-feedstock.git
 	path = feedstocks/mne-bids-pipeline
 	branch = refs/heads/main
+[submodule "biosiglive"]
+	url = https://github.com/conda-forge/biosiglive-feedstock.git
+	path = feedstocks/biosiglive
+	branch = refs/heads/main
