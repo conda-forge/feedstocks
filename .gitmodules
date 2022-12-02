@@ -72674,3 +72674,7 @@
 	url = https://github.com/conda-forge/xradarsat2-feedstock.git
 	path = feedstocks/xradarsat2
 	branch = refs/heads/main
+[submodule "nigsp"]
+	url = https://github.com/conda-forge/nigsp-feedstock.git
+	path = feedstocks/nigsp
+	branch = refs/heads/main
