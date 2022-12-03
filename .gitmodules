@@ -72710,3 +72710,7 @@
 	url = https://github.com/conda-forge/r-treeheatr-feedstock.git
 	path = feedstocks/r-treeheatr
 	branch = refs/heads/main
+[submodule "airflow-code-editor"]
+	url = https://github.com/conda-forge/airflow-code-editor-feedstock.git
+	path = feedstocks/airflow-code-editor
+	branch = refs/heads/main
