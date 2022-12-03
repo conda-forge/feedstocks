@@ -72702,3 +72702,7 @@
 	url = https://github.com/conda-forge/adios_db-feedstock.git
 	path = feedstocks/adios_db
 	branch = refs/heads/main
+[submodule "soxs"]
+	url = https://github.com/conda-forge/soxs-feedstock.git
+	path = feedstocks/soxs
+	branch = refs/heads/main
