@@ -72714,3 +72714,7 @@
 	url = https://github.com/conda-forge/airflow-code-editor-feedstock.git
 	path = feedstocks/airflow-code-editor
 	branch = refs/heads/main
+[submodule "r-datefixr"]
+	url = https://github.com/conda-forge/r-datefixr-feedstock.git
+	path = feedstocks/r-datefixr
+	branch = refs/heads/main
