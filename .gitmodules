@@ -72718,3 +72718,7 @@
 	url = https://github.com/conda-forge/r-datefixr-feedstock.git
 	path = feedstocks/r-datefixr
 	branch = refs/heads/main
+[submodule "versionparsing.jl"]
+	url = https://github.com/conda-forge/versionparsing.jl-feedstock.git
+	path = feedstocks/versionparsing.jl
+	branch = refs/heads/main
