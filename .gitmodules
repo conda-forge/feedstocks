@@ -72758,3 +72758,7 @@
 	url = https://github.com/conda-forge/eidl-feedstock.git
 	path = feedstocks/eidl
 	branch = refs/heads/main
+[submodule "pyproject_hooks"]
+	url = https://github.com/conda-forge/pyproject_hooks-feedstock.git
+	path = feedstocks/pyproject_hooks
+	branch = refs/heads/main
