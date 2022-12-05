@@ -72750,3 +72750,7 @@
 	url = https://github.com/conda-forge/airfly-feedstock.git
 	path = feedstocks/airfly
 	branch = refs/heads/main
+[submodule "airflow-provider-xlsx"]
+	url = https://github.com/conda-forge/airflow-provider-xlsx-feedstock.git
+	path = feedstocks/airflow-provider-xlsx
+	branch = refs/heads/main
