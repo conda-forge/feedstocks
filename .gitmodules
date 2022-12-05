@@ -72726,3 +72726,7 @@
 	url = https://github.com/conda-forge/svgelements-feedstock.git
 	path = feedstocks/svgelements
 	branch = refs/heads/main
+[submodule "r-vistime"]
+	url = https://github.com/conda-forge/r-vistime-feedstock.git
+	path = feedstocks/r-vistime
+	branch = refs/heads/main
