@@ -72730,3 +72730,7 @@
 	url = https://github.com/conda-forge/r-vistime-feedstock.git
 	path = feedstocks/r-vistime
 	branch = refs/heads/main
+[submodule "floret"]
+	url = https://github.com/conda-forge/floret-feedstock.git
+	path = feedstocks/floret
+	branch = refs/heads/main
