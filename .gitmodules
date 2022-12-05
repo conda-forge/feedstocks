@@ -72734,3 +72734,7 @@
 	url = https://github.com/conda-forge/floret-feedstock.git
 	path = feedstocks/floret
 	branch = refs/heads/main
+[submodule "asttrs"]
+	url = https://github.com/conda-forge/asttrs-feedstock.git
+	path = feedstocks/asttrs
+	branch = refs/heads/main
