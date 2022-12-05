@@ -72746,3 +72746,7 @@
 	url = https://github.com/conda-forge/conda-index-feedstock.git
 	path = feedstocks/conda-index
 	branch = refs/heads/main
+[submodule "airfly"]
+	url = https://github.com/conda-forge/airfly-feedstock.git
+	path = feedstocks/airfly
+	branch = refs/heads/main
