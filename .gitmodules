@@ -72754,3 +72754,7 @@
 	url = https://github.com/conda-forge/airflow-provider-xlsx-feedstock.git
 	path = feedstocks/airflow-provider-xlsx
 	branch = refs/heads/main
+[submodule "eidl"]
+	url = https://github.com/conda-forge/eidl-feedstock.git
+	path = feedstocks/eidl
+	branch = refs/heads/main
