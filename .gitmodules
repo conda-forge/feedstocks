@@ -72742,3 +72742,7 @@
 	url = https://github.com/conda-forge/lsprotocol-feedstock.git
 	path = feedstocks/lsprotocol
 	branch = refs/heads/main
+[submodule "conda-index"]
+	url = https://github.com/conda-forge/conda-index-feedstock.git
+	path = feedstocks/conda-index
+	branch = refs/heads/main
