@@ -72762,3 +72762,7 @@
 	url = https://github.com/conda-forge/pyproject_hooks-feedstock.git
 	path = feedstocks/pyproject_hooks
 	branch = refs/heads/main
+[submodule "brightway2"]
+	url = https://github.com/conda-forge/brightway2-feedstock.git
+	path = feedstocks/brightway2
+	branch = refs/heads/main
