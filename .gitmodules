@@ -72770,3 +72770,7 @@
 	url = https://github.com/conda-forge/kedro-airflow-feedstock.git
 	path = feedstocks/kedro-airflow
 	branch = refs/heads/main
+[submodule "r-spdl"]
+	url = https://github.com/conda-forge/r-spdl-feedstock.git
+	path = feedstocks/r-spdl
+	branch = refs/heads/main
