@@ -72790,3 +72790,7 @@
 	url = https://github.com/conda-forge/linkchecker-feedstock.git
 	path = feedstocks/linkchecker
 	branch = refs/heads/main
+[submodule "expandvars"]
+	url = https://github.com/conda-forge/expandvars-feedstock.git
+	path = feedstocks/expandvars
+	branch = refs/heads/main
