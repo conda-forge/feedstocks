@@ -72794,3 +72794,7 @@
 	url = https://github.com/conda-forge/expandvars-feedstock.git
 	path = feedstocks/expandvars
 	branch = refs/heads/main
+[submodule "dinghy"]
+	url = https://github.com/conda-forge/dinghy-feedstock.git
+	path = feedstocks/dinghy
+	branch = refs/heads/main
