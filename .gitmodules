@@ -72810,3 +72810,7 @@
 	url = https://github.com/conda-forge/genv-feedstock.git
 	path = feedstocks/genv
 	branch = refs/heads/main
+[submodule "igwn-lldd-fdio"]
+	url = https://github.com/conda-forge/igwn-lldd-fdio-feedstock.git
+	path = feedstocks/igwn-lldd-fdio
+	branch = refs/heads/main
