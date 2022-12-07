@@ -72814,3 +72814,7 @@
 	url = https://github.com/conda-forge/igwn-lldd-fdio-feedstock.git
 	path = feedstocks/igwn-lldd-fdio
 	branch = refs/heads/main
+[submodule "anaconda-clean"]
+	url = https://github.com/conda-forge/anaconda-clean-feedstock.git
+	path = feedstocks/anaconda-clean
+	branch = refs/heads/main
