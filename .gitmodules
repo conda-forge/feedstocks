@@ -72786,3 +72786,7 @@
 	url = https://github.com/conda-forge/pydorado-feedstock.git
 	path = feedstocks/pydorado
 	branch = refs/heads/main
+[submodule "linkchecker"]
+	url = https://github.com/conda-forge/linkchecker-feedstock.git
+	path = feedstocks/linkchecker
+	branch = refs/heads/main
