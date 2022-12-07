@@ -72774,3 +72774,7 @@
 	url = https://github.com/conda-forge/r-spdl-feedstock.git
 	path = feedstocks/r-spdl
 	branch = refs/heads/main
+[submodule "bionc"]
+	url = https://github.com/conda-forge/bionc-feedstock.git
+	path = feedstocks/bionc
+	branch = refs/heads/main
