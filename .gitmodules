@@ -72830,3 +72830,7 @@
 	url = https://github.com/conda-forge/soilgrids-feedstock.git
 	path = feedstocks/soilgrids
 	branch = refs/heads/main
+[submodule "ptac"]
+	url = https://github.com/conda-forge/ptac-feedstock.git
+	path = feedstocks/ptac
+	branch = refs/heads/main
