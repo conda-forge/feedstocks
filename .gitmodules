@@ -72798,3 +72798,7 @@
 	url = https://github.com/conda-forge/dinghy-feedstock.git
 	path = feedstocks/dinghy
 	branch = refs/heads/main
+[submodule "jupyterlab_genv"]
+	url = https://github.com/conda-forge/jupyterlab_genv-feedstock.git
+	path = feedstocks/jupyterlab_genv
+	branch = refs/heads/main
