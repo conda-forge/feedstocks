@@ -72818,3 +72818,7 @@
 	url = https://github.com/conda-forge/anaconda-clean-feedstock.git
 	path = feedstocks/anaconda-clean
 	branch = refs/heads/main
+[submodule "array-api-compat"]
+	url = https://github.com/conda-forge/array-api-compat-feedstock.git
+	path = feedstocks/array-api-compat
+	branch = refs/heads/main
