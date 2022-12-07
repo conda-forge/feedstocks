@@ -72826,3 +72826,7 @@
 	url = https://github.com/conda-forge/duecredit-feedstock.git
 	path = feedstocks/duecredit
 	branch = refs/heads/main
+[submodule "soilgrids"]
+	url = https://github.com/conda-forge/soilgrids-feedstock.git
+	path = feedstocks/soilgrids
+	branch = refs/heads/main
