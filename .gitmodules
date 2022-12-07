@@ -72778,3 +72778,7 @@
 	url = https://github.com/conda-forge/bionc-feedstock.git
 	path = feedstocks/bionc
 	branch = refs/heads/main
+[submodule "activity-browser"]
+	url = https://github.com/conda-forge/activity-browser-feedstock.git
+	path = feedstocks/activity-browser
+	branch = refs/heads/main
