@@ -72886,3 +72886,7 @@
 	url = https://github.com/conda-forge/gpyreg-feedstock.git
 	path = feedstocks/gpyreg
 	branch = refs/heads/main
+[submodule "pgvector-python"]
+	url = https://github.com/conda-forge/pgvector-python-feedstock.git
+	path = feedstocks/pgvector-python
+	branch = refs/heads/main
