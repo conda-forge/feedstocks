@@ -72962,3 +72962,7 @@
 	url = https://github.com/conda-forge/gymnasium-notices-feedstock.git
 	path = feedstocks/gymnasium-notices
 	branch = refs/heads/main
+[submodule "causalpy"]
+	url = https://github.com/conda-forge/causalpy-feedstock.git
+	path = feedstocks/causalpy
+	branch = refs/heads/main
