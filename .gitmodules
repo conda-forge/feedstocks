@@ -72862,3 +72862,7 @@
 	url = https://github.com/conda-forge/perl-variable-magic-feedstock.git
 	path = feedstocks/perl-variable-magic
 	branch = refs/heads/main
+[submodule "pyaedt"]
+	url = https://github.com/conda-forge/pyaedt-feedstock.git
+	path = feedstocks/pyaedt
+	branch = refs/heads/main
