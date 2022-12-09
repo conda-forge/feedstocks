@@ -72922,3 +72922,7 @@
 	url = https://github.com/conda-forge/qt-charts-feedstock.git
 	path = feedstocks/qt-charts
 	branch = refs/heads/main
+[submodule "pgvector"]
+	url = https://github.com/conda-forge/pgvector-feedstock.git
+	path = feedstocks/pgvector
+	branch = refs/heads/main
