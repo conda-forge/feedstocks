@@ -72926,3 +72926,7 @@
 	url = https://github.com/conda-forge/pgvector-feedstock.git
 	path = feedstocks/pgvector
 	branch = refs/heads/main
+[submodule "hippynn"]
+	url = https://github.com/conda-forge/hippynn-feedstock.git
+	path = feedstocks/hippynn
+	branch = refs/heads/main
