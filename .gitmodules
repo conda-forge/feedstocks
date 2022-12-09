@@ -72938,3 +72938,7 @@
 	url = https://github.com/conda-forge/docker-squash-feedstock.git
 	path = feedstocks/docker-squash
 	branch = refs/heads/main
+[submodule "perl-package-stash-xs"]
+	url = https://github.com/conda-forge/perl-package-stash-xs-feedstock.git
+	path = feedstocks/perl-package-stash-xs
+	branch = refs/heads/main
