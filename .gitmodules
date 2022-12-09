@@ -72918,3 +72918,7 @@
 	url = https://github.com/conda-forge/qt-datavis3d-feedstock.git
 	path = feedstocks/qt-datavis3d
 	branch = refs/heads/main
+[submodule "qt-charts"]
+	url = https://github.com/conda-forge/qt-charts-feedstock.git
+	path = feedstocks/qt-charts
+	branch = refs/heads/main
