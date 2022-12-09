@@ -72994,3 +72994,7 @@
 	url = https://github.com/conda-forge/icfree-feedstock.git
 	path = feedstocks/icfree
 	branch = refs/heads/main
+[submodule "pvwebmonitor"]
+	url = https://github.com/conda-forge/pvwebmonitor-feedstock.git
+	path = feedstocks/pvwebmonitor
+	branch = refs/heads/main
