@@ -72870,3 +72870,7 @@
 	url = https://github.com/conda-forge/perl-module-implementation-feedstock.git
 	path = feedstocks/perl-module-implementation
 	branch = refs/heads/main
+[submodule "time-machine"]
+	url = https://github.com/conda-forge/time-machine-feedstock.git
+	path = feedstocks/time-machine
+	branch = refs/heads/main
