@@ -72874,3 +72874,7 @@
 	url = https://github.com/conda-forge/time-machine-feedstock.git
 	path = feedstocks/time-machine
 	branch = refs/heads/main
+[submodule "jupyter_server_terminals_proxy"]
+	url = https://github.com/conda-forge/jupyter_server_terminals_proxy-feedstock.git
+	path = feedstocks/jupyter_server_terminals_proxy
+	branch = refs/heads/main
