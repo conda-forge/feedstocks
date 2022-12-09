@@ -72978,3 +72978,7 @@
 	url = https://github.com/conda-forge/bmi_era5-feedstock.git
 	path = feedstocks/bmi_era5
 	branch = refs/heads/main
+[submodule "csv-diff"]
+	url = https://github.com/conda-forge/csv-diff-feedstock.git
+	path = feedstocks/csv-diff
+	branch = refs/heads/main
