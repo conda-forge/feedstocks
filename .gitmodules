@@ -72850,3 +72850,7 @@
 	url = https://github.com/conda-forge/perl-dist-checkconflicts-feedstock.git
 	path = feedstocks/perl-dist-checkconflicts
 	branch = refs/heads/main
+[submodule "pyproject-api"]
+	url = https://github.com/conda-forge/pyproject-api-feedstock.git
+	path = feedstocks/pyproject-api
+	branch = refs/heads/main
