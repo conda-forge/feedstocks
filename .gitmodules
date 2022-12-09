@@ -72890,3 +72890,7 @@
 	url = https://github.com/conda-forge/pgvector-python-feedstock.git
 	path = feedstocks/pgvector-python
 	branch = refs/heads/main
+[submodule "pymt_soilgrids"]
+	url = https://github.com/conda-forge/pymt_soilgrids-feedstock.git
+	path = feedstocks/pymt_soilgrids
+	branch = refs/heads/main
