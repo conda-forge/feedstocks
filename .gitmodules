@@ -72906,3 +72906,7 @@
 	url = https://github.com/conda-forge/perl-package-stash-feedstock.git
 	path = feedstocks/perl-package-stash
 	branch = refs/heads/main
+[submodule "perl-cpan-meta-check"]
+	url = https://github.com/conda-forge/perl-cpan-meta-check-feedstock.git
+	path = feedstocks/perl-cpan-meta-check
+	branch = refs/heads/main
