@@ -72974,3 +72974,7 @@
 	url = https://github.com/conda-forge/pyvbmc-feedstock.git
 	path = feedstocks/pyvbmc
 	branch = refs/heads/main
+[submodule "bmi_era5"]
+	url = https://github.com/conda-forge/bmi_era5-feedstock.git
+	path = feedstocks/bmi_era5
+	branch = refs/heads/main
