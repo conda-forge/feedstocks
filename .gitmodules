@@ -72930,3 +72930,7 @@
 	url = https://github.com/conda-forge/hippynn-feedstock.git
 	path = feedstocks/hippynn
 	branch = refs/heads/main
+[submodule "perl-sub-name"]
+	url = https://github.com/conda-forge/perl-sub-name-feedstock.git
+	path = feedstocks/perl-sub-name
+	branch = refs/heads/main
