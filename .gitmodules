@@ -72842,3 +72842,7 @@
 	url = https://github.com/conda-forge/intake-axds-feedstock.git
 	path = feedstocks/intake-axds
 	branch = refs/heads/main
+[submodule "bids-validator"]
+	url = https://github.com/conda-forge/bids-validator-feedstock.git
+	path = feedstocks/bids-validator
+	branch = refs/heads/main
