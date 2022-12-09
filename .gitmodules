@@ -72982,3 +72982,7 @@
 	url = https://github.com/conda-forge/csv-diff-feedstock.git
 	path = feedstocks/csv-diff
 	branch = refs/heads/main
+[submodule "python-frontmatter"]
+	url = https://github.com/conda-forge/python-frontmatter-feedstock.git
+	path = feedstocks/python-frontmatter
+	branch = refs/heads/main
