@@ -72958,3 +72958,7 @@
 	url = https://github.com/conda-forge/envier-feedstock.git
 	path = feedstocks/envier
 	branch = refs/heads/main
+[submodule "gymnasium-notices"]
+	url = https://github.com/conda-forge/gymnasium-notices-feedstock.git
+	path = feedstocks/gymnasium-notices
+	branch = refs/heads/main
