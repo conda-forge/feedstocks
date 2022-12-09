@@ -73002,3 +73002,7 @@
 	url = https://github.com/conda-forge/gymnasium-feedstock.git
 	path = feedstocks/gymnasium
 	branch = refs/heads/main
+[submodule "shimmy"]
+	url = https://github.com/conda-forge/shimmy-feedstock.git
+	path = feedstocks/shimmy
+	branch = refs/heads/main
