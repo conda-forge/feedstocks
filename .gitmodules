@@ -72990,3 +72990,7 @@
 	url = https://github.com/conda-forge/focal-loss-feedstock.git
 	path = feedstocks/focal-loss
 	branch = refs/heads/main
+[submodule "icfree"]
+	url = https://github.com/conda-forge/icfree-feedstock.git
+	path = feedstocks/icfree
+	branch = refs/heads/main
