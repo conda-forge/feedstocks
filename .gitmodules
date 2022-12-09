@@ -72998,3 +72998,7 @@
 	url = https://github.com/conda-forge/pvwebmonitor-feedstock.git
 	path = feedstocks/pvwebmonitor
 	branch = refs/heads/main
+[submodule "gymnasium"]
+	url = https://github.com/conda-forge/gymnasium-feedstock.git
+	path = feedstocks/gymnasium
+	branch = refs/heads/main
