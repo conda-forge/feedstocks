@@ -72838,3 +72838,7 @@
 	url = https://github.com/conda-forge/sott-feedstock.git
 	path = feedstocks/sott
 	branch = refs/heads/main
+[submodule "intake-axds"]
+	url = https://github.com/conda-forge/intake-axds-feedstock.git
+	path = feedstocks/intake-axds
+	branch = refs/heads/main
