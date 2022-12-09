@@ -72882,3 +72882,7 @@
 	url = https://github.com/conda-forge/pyessv-feedstock.git
 	path = feedstocks/pyessv
 	branch = refs/heads/main
+[submodule "gpyreg"]
+	url = https://github.com/conda-forge/gpyreg-feedstock.git
+	path = feedstocks/gpyreg
+	branch = refs/heads/main
