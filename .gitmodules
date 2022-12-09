@@ -72950,3 +72950,7 @@
 	url = https://github.com/conda-forge/perl-data-optlist-feedstock.git
 	path = feedstocks/perl-data-optlist
 	branch = refs/heads/main
+[submodule "label-studio-tools"]
+	url = https://github.com/conda-forge/label-studio-tools-feedstock.git
+	path = feedstocks/label-studio-tools
+	branch = refs/heads/main
