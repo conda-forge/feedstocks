@@ -72854,3 +72854,7 @@
 	url = https://github.com/conda-forge/pyproject-api-feedstock.git
 	path = feedstocks/pyproject-api
 	branch = refs/heads/main
+[submodule "perl-module-runtime"]
+	url = https://github.com/conda-forge/perl-module-runtime-feedstock.git
+	path = feedstocks/perl-module-runtime
+	branch = refs/heads/main
