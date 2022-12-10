@@ -73010,3 +73010,7 @@
 	url = https://github.com/conda-forge/r-redcaptidier-feedstock.git
 	path = feedstocks/r-redcaptidier
 	branch = refs/heads/main
+[submodule "r-redcapr"]
+	url = https://github.com/conda-forge/r-redcapr-feedstock.git
+	path = feedstocks/r-redcapr
+	branch = refs/heads/main
