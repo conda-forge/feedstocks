@@ -73018,3 +73018,7 @@
 	url = https://github.com/conda-forge/parallelproj-feedstock.git
 	path = feedstocks/parallelproj
 	branch = refs/heads/main
+[submodule "libpcapplusplus-split"]
+	url = https://github.com/conda-forge/libpcapplusplus-split-feedstock.git
+	path = feedstocks/libpcapplusplus-split
+	branch = refs/heads/main
