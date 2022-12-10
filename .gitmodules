@@ -73014,3 +73014,7 @@
 	url = https://github.com/conda-forge/r-redcapr-feedstock.git
 	path = feedstocks/r-redcapr
 	branch = refs/heads/main
+[submodule "parallelproj"]
+	url = https://github.com/conda-forge/parallelproj-feedstock.git
+	path = feedstocks/parallelproj
+	branch = refs/heads/main
