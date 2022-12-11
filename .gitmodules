@@ -73042,3 +73042,7 @@
 	url = https://github.com/conda-forge/songdkl-feedstock.git
 	path = feedstocks/songdkl
 	branch = refs/heads/main
+[submodule "sqlalchemy-databricks"]
+	url = https://github.com/conda-forge/sqlalchemy-databricks-feedstock.git
+	path = feedstocks/sqlalchemy-databricks
+	branch = refs/heads/main
