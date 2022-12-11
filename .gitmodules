@@ -73026,3 +73026,7 @@
 	url = https://github.com/conda-forge/skranger-feedstock.git
 	path = feedstocks/skranger
 	branch = refs/heads/main
+[submodule "trove-classifiers"]
+	url = https://github.com/conda-forge/trove-classifiers-feedstock.git
+	path = feedstocks/trove-classifiers
+	branch = refs/heads/main
