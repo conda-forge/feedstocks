@@ -73050,3 +73050,7 @@
 	url = https://github.com/conda-forge/django-relativity-feedstock.git
 	path = feedstocks/django-relativity
 	branch = refs/heads/main
+[submodule "diffpy.pdffit2"]
+	url = https://github.com/conda-forge/diffpy.pdffit2-feedstock.git
+	path = feedstocks/diffpy.pdffit2
+	branch = refs/heads/main
