@@ -73034,3 +73034,7 @@
 	url = https://github.com/conda-forge/calver-feedstock.git
 	path = feedstocks/calver
 	branch = refs/heads/main
+[submodule "pymatgen-analysis-defects"]
+	url = https://github.com/conda-forge/pymatgen-analysis-defects-feedstock.git
+	path = feedstocks/pymatgen-analysis-defects
+	branch = refs/heads/main
