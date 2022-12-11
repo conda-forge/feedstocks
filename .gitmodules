@@ -73046,3 +73046,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-databricks-feedstock.git
 	path = feedstocks/sqlalchemy-databricks
 	branch = refs/heads/main
+[submodule "django-relativity"]
+	url = https://github.com/conda-forge/django-relativity-feedstock.git
+	path = feedstocks/django-relativity
+	branch = refs/heads/main
