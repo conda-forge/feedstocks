@@ -73078,3 +73078,7 @@
 	url = https://github.com/conda-forge/sparktorch-feedstock.git
 	path = feedstocks/sparktorch
 	branch = refs/heads/main
+[submodule "pygame"]
+	url = https://github.com/conda-forge/pygame-feedstock.git
+	path = feedstocks/pygame
+	branch = refs/heads/main
