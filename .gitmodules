@@ -73086,3 +73086,7 @@
 	url = https://github.com/conda-forge/r-ggstats-feedstock.git
 	path = feedstocks/r-ggstats
 	branch = refs/heads/main
+[submodule "jax-jumpy"]
+	url = https://github.com/conda-forge/jax-jumpy-feedstock.git
+	path = feedstocks/jax-jumpy
+	branch = refs/heads/main
