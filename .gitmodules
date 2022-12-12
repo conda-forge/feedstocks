@@ -73058,3 +73058,7 @@
 	url = https://github.com/conda-forge/shapash-feedstock.git
 	path = feedstocks/shapash
 	branch = refs/heads/main
+[submodule "devpi-process"]
+	url = https://github.com/conda-forge/devpi-process-feedstock.git
+	path = feedstocks/devpi-process
+	branch = refs/heads/main
