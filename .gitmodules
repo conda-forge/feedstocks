@@ -73070,3 +73070,7 @@
 	url = https://github.com/conda-forge/devpi-client-feedstock.git
 	path = feedstocks/devpi-client
 	branch = refs/heads/main
+[submodule "portmidi"]
+	url = https://github.com/conda-forge/portmidi-feedstock.git
+	path = feedstocks/portmidi
+	branch = refs/heads/main
