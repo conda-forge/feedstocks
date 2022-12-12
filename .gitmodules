@@ -73066,3 +73066,7 @@
 	url = https://github.com/conda-forge/devpi-server-feedstock.git
 	path = feedstocks/devpi-server
 	branch = refs/heads/main
+[submodule "devpi-client"]
+	url = https://github.com/conda-forge/devpi-client-feedstock.git
+	path = feedstocks/devpi-client
+	branch = refs/heads/main
