@@ -73074,3 +73074,7 @@
 	url = https://github.com/conda-forge/portmidi-feedstock.git
 	path = feedstocks/portmidi
 	branch = refs/heads/main
+[submodule "sparktorch"]
+	url = https://github.com/conda-forge/sparktorch-feedstock.git
+	path = feedstocks/sparktorch
+	branch = refs/heads/main
