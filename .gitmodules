@@ -73090,3 +73090,7 @@
 	url = https://github.com/conda-forge/jax-jumpy-feedstock.git
 	path = feedstocks/jax-jumpy
 	branch = refs/heads/main
+[submodule "autoregistry"]
+	url = https://github.com/conda-forge/autoregistry-feedstock.git
+	path = feedstocks/autoregistry
+	branch = refs/heads/main
