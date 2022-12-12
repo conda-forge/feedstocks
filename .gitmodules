@@ -73102,3 +73102,7 @@
 	url = https://github.com/conda-forge/moffragmentor-feedstock.git
 	path = feedstocks/moffragmentor
 	branch = refs/heads/main
+[submodule "arelle-release"]
+	url = https://github.com/conda-forge/arelle-release-feedstock.git
+	path = feedstocks/arelle-release
+	branch = refs/heads/main
