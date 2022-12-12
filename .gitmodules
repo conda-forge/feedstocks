@@ -73082,3 +73082,7 @@
 	url = https://github.com/conda-forge/pygame-feedstock.git
 	path = feedstocks/pygame
 	branch = refs/heads/main
+[submodule "r-ggstats"]
+	url = https://github.com/conda-forge/r-ggstats-feedstock.git
+	path = feedstocks/r-ggstats
+	branch = refs/heads/main
