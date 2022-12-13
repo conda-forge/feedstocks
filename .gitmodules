@@ -73166,3 +73166,7 @@
 	url = https://github.com/conda-forge/py-channelmodel-feedstock.git
 	path = feedstocks/py-channelmodel
 	branch = refs/heads/main
+[submodule "wurst"]
+	url = https://github.com/conda-forge/wurst-feedstock.git
+	path = feedstocks/wurst
+	branch = refs/heads/main
