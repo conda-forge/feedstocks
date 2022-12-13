@@ -73130,3 +73130,7 @@
 	url = https://github.com/conda-forge/chinese-whispers-feedstock.git
 	path = feedstocks/chinese-whispers
 	branch = refs/heads/main
+[submodule "pymt_era5"]
+	url = https://github.com/conda-forge/pymt_era5-feedstock.git
+	path = feedstocks/pymt_era5
+	branch = refs/heads/main
