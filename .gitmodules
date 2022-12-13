@@ -73110,3 +73110,7 @@
 	url = https://github.com/conda-forge/drf-optionalfields-feedstock.git
 	path = feedstocks/drf-optionalfields
 	branch = refs/heads/main
+[submodule "cpuid-native"]
+	url = https://github.com/conda-forge/cpuid-native-feedstock.git
+	path = feedstocks/cpuid-native
+	branch = refs/heads/main
