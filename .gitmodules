@@ -73154,3 +73154,7 @@
 	url = https://github.com/conda-forge/compositionspace-feedstock.git
 	path = feedstocks/compositionspace
 	branch = refs/heads/main
+[submodule "bmi_nwis"]
+	url = https://github.com/conda-forge/bmi_nwis-feedstock.git
+	path = feedstocks/bmi_nwis
+	branch = refs/heads/main
