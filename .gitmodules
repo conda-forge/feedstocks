@@ -73126,3 +73126,7 @@
 	url = https://github.com/conda-forge/mofdscribe-feedstock.git
 	path = feedstocks/mofdscribe
 	branch = refs/heads/main
+[submodule "chinese-whispers"]
+	url = https://github.com/conda-forge/chinese-whispers-feedstock.git
+	path = feedstocks/chinese-whispers
+	branch = refs/heads/main
