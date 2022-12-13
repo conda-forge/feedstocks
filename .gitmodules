@@ -73138,3 +73138,7 @@
 	url = https://github.com/conda-forge/catalystcoop.ferc-xbrl-extractor-feedstock.git
 	path = feedstocks/catalystcoop.ferc-xbrl-extractor
 	branch = refs/heads/main
+[submodule "omnixai"]
+	url = https://github.com/conda-forge/omnixai-feedstock.git
+	path = feedstocks/omnixai
+	branch = refs/heads/main
