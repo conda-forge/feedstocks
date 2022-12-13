@@ -73118,3 +73118,7 @@
 	url = https://github.com/conda-forge/bodkin-feedstock.git
 	path = feedstocks/bodkin
 	branch = refs/heads/main
+[submodule "loop-rate-limiters"]
+	url = https://github.com/conda-forge/loop-rate-limiters-feedstock.git
+	path = feedstocks/loop-rate-limiters
+	branch = refs/heads/main
