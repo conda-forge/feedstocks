@@ -73158,3 +73158,7 @@
 	url = https://github.com/conda-forge/bmi_nwis-feedstock.git
 	path = feedstocks/bmi_nwis
 	branch = refs/heads/main
+[submodule "premise_gwp"]
+	url = https://github.com/conda-forge/premise_gwp-feedstock.git
+	path = feedstocks/premise_gwp
+	branch = refs/heads/main
