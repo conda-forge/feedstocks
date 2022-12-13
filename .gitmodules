@@ -73106,3 +73106,7 @@
 	url = https://github.com/conda-forge/arelle-release-feedstock.git
 	path = feedstocks/arelle-release
 	branch = refs/heads/main
+[submodule "drf-optionalfields"]
+	url = https://github.com/conda-forge/drf-optionalfields-feedstock.git
+	path = feedstocks/drf-optionalfields
+	branch = refs/heads/main
