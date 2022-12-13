@@ -73114,3 +73114,7 @@
 	url = https://github.com/conda-forge/cpuid-native-feedstock.git
 	path = feedstocks/cpuid-native
 	branch = refs/heads/main
+[submodule "bodkin"]
+	url = https://github.com/conda-forge/bodkin-feedstock.git
+	path = feedstocks/bodkin
+	branch = refs/heads/main
