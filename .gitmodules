@@ -73222,3 +73222,7 @@
 	url = https://github.com/conda-forge/r-tidyseurat-feedstock.git
 	path = feedstocks/r-tidyseurat
 	branch = refs/heads/main
+[submodule "openmetadata-airflow-managed-apis"]
+	url = https://github.com/conda-forge/openmetadata-airflow-managed-apis-feedstock.git
+	path = feedstocks/openmetadata-airflow-managed-apis
+	branch = refs/heads/main
