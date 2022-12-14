@@ -73178,3 +73178,7 @@
 	url = https://github.com/conda-forge/decorrelation-feedstock.git
 	path = feedstocks/decorrelation
 	branch = refs/heads/main
+[submodule "mpxj"]
+	url = https://github.com/conda-forge/mpxj-feedstock.git
+	path = feedstocks/mpxj
+	branch = refs/heads/main
