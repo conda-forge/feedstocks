@@ -73226,3 +73226,7 @@
 	url = https://github.com/conda-forge/openmetadata-airflow-managed-apis-feedstock.git
 	path = feedstocks/openmetadata-airflow-managed-apis
 	branch = refs/heads/main
+[submodule "premise"]
+	url = https://github.com/conda-forge/premise-feedstock.git
+	path = feedstocks/premise
+	branch = refs/heads/main
