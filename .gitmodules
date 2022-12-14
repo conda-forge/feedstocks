@@ -73198,3 +73198,7 @@
 	url = https://github.com/conda-forge/openmetadata-ingestion-feedstock.git
 	path = feedstocks/openmetadata-ingestion
 	branch = refs/heads/main
+[submodule "openmetadata-managed-apis"]
+	url = https://github.com/conda-forge/openmetadata-managed-apis-feedstock.git
+	path = feedstocks/openmetadata-managed-apis
+	branch = refs/heads/main
