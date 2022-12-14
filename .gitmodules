@@ -73206,3 +73206,7 @@
 	url = https://github.com/conda-forge/r-groupdata2-feedstock.git
 	path = feedstocks/r-groupdata2
 	branch = refs/heads/main
+[submodule "commonregex"]
+	url = https://github.com/conda-forge/commonregex-feedstock.git
+	path = feedstocks/commonregex
+	branch = refs/heads/main
