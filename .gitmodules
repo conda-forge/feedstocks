@@ -73170,3 +73170,7 @@
 	url = https://github.com/conda-forge/wurst-feedstock.git
 	path = feedstocks/wurst
 	branch = refs/heads/main
+[submodule "pybids"]
+	url = https://github.com/conda-forge/pybids-feedstock.git
+	path = feedstocks/pybids
+	branch = refs/heads/main
