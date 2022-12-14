@@ -73214,3 +73214,7 @@
 	url = https://github.com/conda-forge/r-kml3d-feedstock.git
 	path = feedstocks/r-kml3d
 	branch = refs/heads/main
+[submodule "sphinx-mdinclude"]
+	url = https://github.com/conda-forge/sphinx-mdinclude-feedstock.git
+	path = feedstocks/sphinx-mdinclude
+	branch = refs/heads/main
