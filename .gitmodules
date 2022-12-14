@@ -73186,3 +73186,7 @@
 	url = https://github.com/conda-forge/django-url-filter-feedstock.git
 	path = feedstocks/django-url-filter
 	branch = refs/heads/main
+[submodule "fps-resource-usage"]
+	url = https://github.com/conda-forge/fps-resource-usage-feedstock.git
+	path = feedstocks/fps-resource-usage
+	branch = refs/heads/main
