@@ -73174,3 +73174,7 @@
 	url = https://github.com/conda-forge/pybids-feedstock.git
 	path = feedstocks/pybids
 	branch = refs/heads/main
+[submodule "decorrelation"]
+	url = https://github.com/conda-forge/decorrelation-feedstock.git
+	path = feedstocks/decorrelation
+	branch = refs/heads/main
