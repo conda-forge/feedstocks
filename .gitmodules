@@ -73218,3 +73218,7 @@
 	url = https://github.com/conda-forge/sphinx-mdinclude-feedstock.git
 	path = feedstocks/sphinx-mdinclude
 	branch = refs/heads/main
+[submodule "r-tidyseurat"]
+	url = https://github.com/conda-forge/r-tidyseurat-feedstock.git
+	path = feedstocks/r-tidyseurat
+	branch = refs/heads/main
