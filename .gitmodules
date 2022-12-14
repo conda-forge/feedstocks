@@ -73182,3 +73182,7 @@
 	url = https://github.com/conda-forge/mpxj-feedstock.git
 	path = feedstocks/mpxj
 	branch = refs/heads/main
+[submodule "django-url-filter"]
+	url = https://github.com/conda-forge/django-url-filter-feedstock.git
+	path = feedstocks/django-url-filter
+	branch = refs/heads/main
