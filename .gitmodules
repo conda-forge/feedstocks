@@ -73194,3 +73194,7 @@
 	url = https://github.com/conda-forge/r-calf-feedstock.git
 	path = feedstocks/r-calf
 	branch = refs/heads/main
+[submodule "openmetadata-ingestion"]
+	url = https://github.com/conda-forge/openmetadata-ingestion-feedstock.git
+	path = feedstocks/openmetadata-ingestion
+	branch = refs/heads/main
