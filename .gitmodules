@@ -73190,3 +73190,7 @@
 	url = https://github.com/conda-forge/fps-resource-usage-feedstock.git
 	path = feedstocks/fps-resource-usage
 	branch = refs/heads/main
+[submodule "r-calf"]
+	url = https://github.com/conda-forge/r-calf-feedstock.git
+	path = feedstocks/r-calf
+	branch = refs/heads/main
