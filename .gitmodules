@@ -73238,3 +73238,7 @@
 	url = https://github.com/conda-forge/annotated-types-feedstock.git
 	path = feedstocks/annotated-types
 	branch = refs/heads/main
+[submodule "inline-model-metrics"]
+	url = https://github.com/conda-forge/inline-model-metrics-feedstock.git
+	path = feedstocks/inline-model-metrics
+	branch = refs/heads/main
