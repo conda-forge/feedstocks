@@ -73242,3 +73242,7 @@
 	url = https://github.com/conda-forge/inline-model-metrics-feedstock.git
 	path = feedstocks/inline-model-metrics
 	branch = refs/heads/main
+[submodule "pymt_nwis"]
+	url = https://github.com/conda-forge/pymt_nwis-feedstock.git
+	path = feedstocks/pymt_nwis
+	branch = refs/heads/main
