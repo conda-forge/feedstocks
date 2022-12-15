@@ -73250,3 +73250,7 @@
 	url = https://github.com/conda-forge/abi3info-feedstock.git
 	path = feedstocks/abi3info
 	branch = refs/heads/main
+[submodule "abi3audit"]
+	url = https://github.com/conda-forge/abi3audit-feedstock.git
+	path = feedstocks/abi3audit
+	branch = refs/heads/main
