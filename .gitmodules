@@ -73274,3 +73274,7 @@
 	url = https://github.com/conda-forge/blobfile-feedstock.git
 	path = feedstocks/blobfile
 	branch = refs/heads/main
+[submodule "dall-e"]
+	url = https://github.com/conda-forge/dall-e-feedstock.git
+	path = feedstocks/dall-e
+	branch = refs/heads/main
