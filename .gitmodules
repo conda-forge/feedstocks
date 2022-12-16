@@ -73262,3 +73262,7 @@
 	url = https://github.com/conda-forge/dirsync-feedstock.git
 	path = feedstocks/dirsync
 	branch = refs/heads/main
+[submodule "pynldas2"]
+	url = https://github.com/conda-forge/pynldas2-feedstock.git
+	path = feedstocks/pynldas2
+	branch = refs/heads/main
