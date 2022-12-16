@@ -73286,3 +73286,7 @@
 	url = https://github.com/conda-forge/uutils-coreutils-feedstock.git
 	path = feedstocks/uutils-coreutils
 	branch = refs/heads/main
+[submodule "pkgparser"]
+	url = https://github.com/conda-forge/pkgparser-feedstock.git
+	path = feedstocks/pkgparser
+	branch = refs/heads/main
