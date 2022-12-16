@@ -73290,3 +73290,7 @@
 	url = https://github.com/conda-forge/pkgparser-feedstock.git
 	path = feedstocks/pkgparser
 	branch = refs/heads/main
+[submodule "cpuid"]
+	url = https://github.com/conda-forge/cpuid-feedstock.git
+	path = feedstocks/cpuid
+	branch = refs/heads/main
