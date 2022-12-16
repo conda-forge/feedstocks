@@ -73258,3 +73258,7 @@
 	url = https://github.com/conda-forge/cofi-feedstock.git
 	path = feedstocks/cofi
 	branch = refs/heads/main
+[submodule "dirsync"]
+	url = https://github.com/conda-forge/dirsync-feedstock.git
+	path = feedstocks/dirsync
+	branch = refs/heads/main
