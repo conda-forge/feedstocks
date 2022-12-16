@@ -73270,3 +73270,7 @@
 	url = https://github.com/conda-forge/sepal-ui-feedstock.git
 	path = feedstocks/sepal-ui
 	branch = refs/heads/main
+[submodule "blobfile"]
+	url = https://github.com/conda-forge/blobfile-feedstock.git
+	path = feedstocks/blobfile
+	branch = refs/heads/main
