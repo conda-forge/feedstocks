@@ -73282,3 +73282,7 @@
 	url = https://github.com/conda-forge/python-yakh-feedstock.git
 	path = feedstocks/python-yakh
 	branch = refs/heads/main
+[submodule "uutils-coreutils"]
+	url = https://github.com/conda-forge/uutils-coreutils-feedstock.git
+	path = feedstocks/uutils-coreutils
+	branch = refs/heads/main
