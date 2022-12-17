@@ -73294,3 +73294,7 @@
 	url = https://github.com/conda-forge/cpuid-feedstock.git
 	path = feedstocks/cpuid
 	branch = refs/heads/main
+[submodule "pytest-asyncio-cooperative"]
+	url = https://github.com/conda-forge/pytest-asyncio-cooperative-feedstock.git
+	path = feedstocks/pytest-asyncio-cooperative
+	branch = refs/heads/main
