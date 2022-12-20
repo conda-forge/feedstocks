@@ -73346,3 +73346,7 @@
 	url = https://github.com/conda-forge/lovely-numpy-feedstock.git
 	path = feedstocks/lovely-numpy
 	branch = refs/heads/main
+[submodule "theseus-ai"]
+	url = https://github.com/conda-forge/theseus-ai-feedstock.git
+	path = feedstocks/theseus-ai
+	branch = refs/heads/main
