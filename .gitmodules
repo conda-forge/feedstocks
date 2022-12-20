@@ -73314,3 +73314,7 @@
 	url = https://github.com/conda-forge/intake-erddap-feedstock.git
 	path = feedstocks/intake-erddap
 	branch = refs/heads/main
+[submodule "pynimate"]
+	url = https://github.com/conda-forge/pynimate-feedstock.git
+	path = feedstocks/pynimate
+	branch = refs/heads/main
