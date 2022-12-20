@@ -73338,3 +73338,7 @@
 	url = https://github.com/conda-forge/rustworkx-feedstock.git
 	path = feedstocks/rustworkx
 	branch = refs/heads/main
+[submodule "tango-astor"]
+	url = https://github.com/conda-forge/tango-astor-feedstock.git
+	path = feedstocks/tango-astor
+	branch = refs/heads/main
