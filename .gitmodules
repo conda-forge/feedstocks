@@ -73342,3 +73342,7 @@
 	url = https://github.com/conda-forge/tango-astor-feedstock.git
 	path = feedstocks/tango-astor
 	branch = refs/heads/main
+[submodule "lovely-numpy"]
+	url = https://github.com/conda-forge/lovely-numpy-feedstock.git
+	path = feedstocks/lovely-numpy
+	branch = refs/heads/main
