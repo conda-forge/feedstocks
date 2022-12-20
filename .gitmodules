@@ -73350,3 +73350,7 @@
 	url = https://github.com/conda-forge/theseus-ai-feedstock.git
 	path = feedstocks/theseus-ai
 	branch = refs/heads/main
+[submodule "rumps"]
+	url = https://github.com/conda-forge/rumps-feedstock.git
+	path = feedstocks/rumps
+	branch = refs/heads/main
