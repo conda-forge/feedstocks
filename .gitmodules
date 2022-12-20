@@ -73310,3 +73310,7 @@
 	url = https://github.com/conda-forge/indexed_bzip2-feedstock.git
 	path = feedstocks/indexed_bzip2
 	branch = refs/heads/main
+[submodule "intake-erddap"]
+	url = https://github.com/conda-forge/intake-erddap-feedstock.git
+	path = feedstocks/intake-erddap
+	branch = refs/heads/main
