@@ -73322,3 +73322,7 @@
 	url = https://github.com/conda-forge/pyedr-feedstock.git
 	path = feedstocks/pyedr
 	branch = refs/heads/main
+[submodule "sphinxcontrib-jquery"]
+	url = https://github.com/conda-forge/sphinxcontrib-jquery-feedstock.git
+	path = feedstocks/sphinxcontrib-jquery
+	branch = refs/heads/main
