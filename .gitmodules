@@ -73318,3 +73318,7 @@
 	url = https://github.com/conda-forge/pynimate-feedstock.git
 	path = feedstocks/pynimate
 	branch = refs/heads/main
+[submodule "pyedr"]
+	url = https://github.com/conda-forge/pyedr-feedstock.git
+	path = feedstocks/pyedr
+	branch = refs/heads/main
