@@ -73354,3 +73354,7 @@
 	url = https://github.com/conda-forge/rumps-feedstock.git
 	path = feedstocks/rumps
 	branch = refs/heads/main
+[submodule "ssh-crypt"]
+	url = https://github.com/conda-forge/ssh-crypt-feedstock.git
+	path = feedstocks/ssh-crypt
+	branch = refs/heads/main
