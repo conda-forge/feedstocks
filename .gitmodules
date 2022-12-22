@@ -73374,3 +73374,7 @@
 	url = https://github.com/conda-forge/dataprofiler-feedstock.git
 	path = feedstocks/dataprofiler
 	branch = refs/heads/main
+[submodule "esi-utils-cartopy"]
+	url = https://github.com/conda-forge/esi-utils-cartopy-feedstock.git
+	path = feedstocks/esi-utils-cartopy
+	branch = refs/heads/main
