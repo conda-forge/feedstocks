@@ -73370,3 +73370,7 @@
 	url = https://github.com/conda-forge/pigeonxt-jupyter-feedstock.git
 	path = feedstocks/pigeonxt-jupyter
 	branch = refs/heads/main
+[submodule "dataprofiler"]
+	url = https://github.com/conda-forge/dataprofiler-feedstock.git
+	path = feedstocks/dataprofiler
+	branch = refs/heads/main
