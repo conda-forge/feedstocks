@@ -73390,3 +73390,7 @@
 	url = https://github.com/conda-forge/unlzw3-feedstock.git
 	path = feedstocks/unlzw3
 	branch = refs/heads/main
+[submodule "intake-satpy"]
+	url = https://github.com/conda-forge/intake-satpy-feedstock.git
+	path = feedstocks/intake-satpy
+	branch = refs/heads/main
