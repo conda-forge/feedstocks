@@ -73394,3 +73394,7 @@
 	url = https://github.com/conda-forge/intake-satpy-feedstock.git
 	path = feedstocks/intake-satpy
 	branch = refs/heads/main
+[submodule "marshmallow3-annotations"]
+	url = https://github.com/conda-forge/marshmallow3-annotations-feedstock.git
+	path = feedstocks/marshmallow3-annotations
+	branch = refs/heads/main
