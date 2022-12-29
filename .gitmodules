@@ -73434,3 +73434,7 @@
 	url = https://github.com/conda-forge/install-jdk-feedstock.git
 	path = feedstocks/install-jdk
 	branch = refs/heads/main
+[submodule "cinnabar"]
+	url = https://github.com/conda-forge/cinnabar-feedstock.git
+	path = feedstocks/cinnabar
+	branch = refs/heads/main
