@@ -73442,3 +73442,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-audio-feedstock.git
 	path = feedstocks/soapysdr-module-audio
 	branch = refs/heads/main
+[submodule "rtaudio"]
+	url = https://github.com/conda-forge/rtaudio-feedstock.git
+	path = feedstocks/rtaudio
+	branch = refs/heads/main
