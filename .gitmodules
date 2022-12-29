@@ -73402,3 +73402,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-volk-converters-feedstock.git
 	path = feedstocks/soapysdr-module-volk-converters
 	branch = refs/heads/main
+[submodule "lovely-tensors"]
+	url = https://github.com/conda-forge/lovely-tensors-feedstock.git
+	path = feedstocks/lovely-tensors
+	branch = refs/heads/main
