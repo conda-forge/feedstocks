@@ -73430,3 +73430,7 @@
 	url = https://github.com/conda-forge/apache-atlas-feedstock.git
 	path = feedstocks/apache-atlas
 	branch = refs/heads/main
+[submodule "install-jdk"]
+	url = https://github.com/conda-forge/install-jdk-feedstock.git
+	path = feedstocks/install-jdk
+	branch = refs/heads/main
