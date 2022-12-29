@@ -73426,3 +73426,7 @@
 	url = https://github.com/conda-forge/amundsen-common-feedstock.git
 	path = feedstocks/amundsen-common
 	branch = refs/heads/main
+[submodule "apache-atlas"]
+	url = https://github.com/conda-forge/apache-atlas-feedstock.git
+	path = feedstocks/apache-atlas
+	branch = refs/heads/main
