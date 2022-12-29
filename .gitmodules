@@ -73406,3 +73406,7 @@
 	url = https://github.com/conda-forge/lovely-tensors-feedstock.git
 	path = feedstocks/lovely-tensors
 	branch = refs/heads/main
+[submodule "lovely-jax"]
+	url = https://github.com/conda-forge/lovely-jax-feedstock.git
+	path = feedstocks/lovely-jax
+	branch = refs/heads/main
