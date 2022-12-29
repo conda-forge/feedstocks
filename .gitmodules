@@ -73438,3 +73438,7 @@
 	url = https://github.com/conda-forge/cinnabar-feedstock.git
 	path = feedstocks/cinnabar
 	branch = refs/heads/main
+[submodule "soapysdr-module-audio"]
+	url = https://github.com/conda-forge/soapysdr-module-audio-feedstock.git
+	path = feedstocks/soapysdr-module-audio
+	branch = refs/heads/main
