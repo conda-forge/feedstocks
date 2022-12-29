@@ -73446,3 +73446,7 @@
 	url = https://github.com/conda-forge/rtaudio-feedstock.git
 	path = feedstocks/rtaudio
 	branch = refs/heads/main
+[submodule "soapysdr-module-netsdr"]
+	url = https://github.com/conda-forge/soapysdr-module-netsdr-feedstock.git
+	path = feedstocks/soapysdr-module-netsdr
+	branch = refs/heads/main
