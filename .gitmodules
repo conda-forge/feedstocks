@@ -73414,3 +73414,7 @@
 	url = https://github.com/conda-forge/ewah-bool-utils-feedstock.git
 	path = feedstocks/ewah-bool-utils
 	branch = refs/heads/main
+[submodule "lenstool"]
+	url = https://github.com/conda-forge/lenstool-feedstock.git
+	path = feedstocks/lenstool
+	branch = refs/heads/main
