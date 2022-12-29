@@ -73418,3 +73418,7 @@
 	url = https://github.com/conda-forge/lenstool-feedstock.git
 	path = feedstocks/lenstool
 	branch = refs/heads/main
+[submodule "amundsen-rds"]
+	url = https://github.com/conda-forge/amundsen-rds-feedstock.git
+	path = feedstocks/amundsen-rds
+	branch = refs/heads/main
