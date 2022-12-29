@@ -73422,3 +73422,7 @@
 	url = https://github.com/conda-forge/amundsen-rds-feedstock.git
 	path = feedstocks/amundsen-rds
 	branch = refs/heads/main
+[submodule "amundsen-common"]
+	url = https://github.com/conda-forge/amundsen-common-feedstock.git
+	path = feedstocks/amundsen-common
+	branch = refs/heads/main
