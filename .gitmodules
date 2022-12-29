@@ -73410,3 +73410,7 @@
 	url = https://github.com/conda-forge/lovely-jax-feedstock.git
 	path = feedstocks/lovely-jax
 	branch = refs/heads/main
+[submodule "ewah-bool-utils"]
+	url = https://github.com/conda-forge/ewah-bool-utils-feedstock.git
+	path = feedstocks/ewah-bool-utils
+	branch = refs/heads/main
