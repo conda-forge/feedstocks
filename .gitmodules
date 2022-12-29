@@ -73398,3 +73398,7 @@
 	url = https://github.com/conda-forge/marshmallow3-annotations-feedstock.git
 	path = feedstocks/marshmallow3-annotations
 	branch = refs/heads/main
+[submodule "soapysdr-module-volk-converters"]
+	url = https://github.com/conda-forge/soapysdr-module-volk-converters-feedstock.git
+	path = feedstocks/soapysdr-module-volk-converters
+	branch = refs/heads/main
