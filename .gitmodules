@@ -73454,3 +73454,7 @@
 	url = https://github.com/conda-forge/napari-n2v-feedstock.git
 	path = feedstocks/napari-n2v
 	branch = refs/heads/main
+[submodule "morphometrics-engine"]
+	url = https://github.com/conda-forge/morphometrics-engine-feedstock.git
+	path = feedstocks/morphometrics-engine
+	branch = refs/heads/main
