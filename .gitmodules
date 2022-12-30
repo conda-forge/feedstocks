@@ -73450,3 +73450,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-netsdr-feedstock.git
 	path = feedstocks/soapysdr-module-netsdr
 	branch = refs/heads/main
+[submodule "napari-n2v"]
+	url = https://github.com/conda-forge/napari-n2v-feedstock.git
+	path = feedstocks/napari-n2v
+	branch = refs/heads/main
