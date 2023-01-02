@@ -73462,3 +73462,7 @@
 	url = https://github.com/conda-forge/napari-filament-annotator-feedstock.git
 	path = feedstocks/napari-filament-annotator
 	branch = refs/heads/main
+[submodule "awkward-cpp"]
+	url = https://github.com/conda-forge/awkward-cpp-feedstock.git
+	path = feedstocks/awkward-cpp
+	branch = refs/heads/main
