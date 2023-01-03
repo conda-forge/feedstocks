@@ -73482,3 +73482,7 @@
 	url = https://github.com/conda-forge/earth-osm-feedstock.git
 	path = feedstocks/earth-osm
 	branch = refs/heads/main
+[submodule "antlr4-tools"]
+	url = https://github.com/conda-forge/antlr4-tools-feedstock.git
+	path = feedstocks/antlr4-tools
+	branch = refs/heads/main
