@@ -73470,3 +73470,7 @@
 	url = https://github.com/conda-forge/forbiddenfruit-feedstock.git
 	path = feedstocks/forbiddenfruit
 	branch = refs/heads/main
+[submodule "river-ingester"]
+	url = https://github.com/conda-forge/river-ingester-feedstock.git
+	path = feedstocks/river-ingester
+	branch = refs/heads/main
