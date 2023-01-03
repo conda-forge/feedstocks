@@ -73478,3 +73478,7 @@
 	url = https://github.com/conda-forge/gitflow-feedstock.git
 	path = feedstocks/gitflow
 	branch = refs/heads/main
+[submodule "earth-osm"]
+	url = https://github.com/conda-forge/earth-osm-feedstock.git
+	path = feedstocks/earth-osm
+	branch = refs/heads/main
