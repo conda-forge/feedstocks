@@ -73486,3 +73486,7 @@
 	url = https://github.com/conda-forge/antlr4-tools-feedstock.git
 	path = feedstocks/antlr4-tools
 	branch = refs/heads/main
+[submodule "git-annex-remote-rclone"]
+	url = https://github.com/conda-forge/git-annex-remote-rclone-feedstock.git
+	path = feedstocks/git-annex-remote-rclone
+	branch = refs/heads/main
