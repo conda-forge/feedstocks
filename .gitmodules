@@ -73474,3 +73474,7 @@
 	url = https://github.com/conda-forge/river-ingester-feedstock.git
 	path = feedstocks/river-ingester
 	branch = refs/heads/main
+[submodule "gitflow"]
+	url = https://github.com/conda-forge/gitflow-feedstock.git
+	path = feedstocks/gitflow
+	branch = refs/heads/main
