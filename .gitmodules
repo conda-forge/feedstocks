@@ -73490,3 +73490,7 @@
 	url = https://github.com/conda-forge/git-annex-remote-rclone-feedstock.git
 	path = feedstocks/git-annex-remote-rclone
 	branch = refs/heads/main
+[submodule "liquid-dsp"]
+	url = https://github.com/conda-forge/liquid-dsp-feedstock.git
+	path = feedstocks/liquid-dsp
+	branch = refs/heads/main
