@@ -73502,3 +73502,7 @@
 	url = https://github.com/conda-forge/libcorrect-feedstock.git
 	path = feedstocks/libcorrect
 	branch = refs/heads/main
+[submodule "soapysdr-module-redpitaya"]
+	url = https://github.com/conda-forge/soapysdr-module-redpitaya-feedstock.git
+	path = feedstocks/soapysdr-module-redpitaya
+	branch = refs/heads/main
