@@ -73494,3 +73494,7 @@
 	url = https://github.com/conda-forge/liquid-dsp-feedstock.git
 	path = feedstocks/liquid-dsp
 	branch = refs/heads/main
+[submodule "inspectrum"]
+	url = https://github.com/conda-forge/inspectrum-feedstock.git
+	path = feedstocks/inspectrum
+	branch = refs/heads/main
