@@ -73506,3 +73506,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-redpitaya-feedstock.git
 	path = feedstocks/soapysdr-module-redpitaya
 	branch = refs/heads/main
+[submodule "veloxchem"]
+	url = https://github.com/conda-forge/veloxchem-feedstock.git
+	path = feedstocks/veloxchem
+	branch = refs/heads/main
