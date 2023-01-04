@@ -73510,3 +73510,7 @@
 	url = https://github.com/conda-forge/veloxchem-feedstock.git
 	path = feedstocks/veloxchem
 	branch = refs/heads/main
+[submodule "pyg-lib"]
+	url = https://github.com/conda-forge/pyg-lib-feedstock.git
+	path = feedstocks/pyg-lib
+	branch = refs/heads/main
