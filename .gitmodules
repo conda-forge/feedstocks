@@ -73498,3 +73498,7 @@
 	url = https://github.com/conda-forge/inspectrum-feedstock.git
 	path = feedstocks/inspectrum
 	branch = refs/heads/main
+[submodule "libcorrect"]
+	url = https://github.com/conda-forge/libcorrect-feedstock.git
+	path = feedstocks/libcorrect
+	branch = refs/heads/main
