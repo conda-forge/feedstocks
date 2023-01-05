@@ -73518,3 +73518,7 @@
 	url = https://github.com/conda-forge/pytest-snapshot-feedstock.git
 	path = feedstocks/pytest-snapshot
 	branch = refs/heads/main
+[submodule "pytest-update-test-results"]
+	url = https://github.com/conda-forge/pytest-update-test-results-feedstock.git
+	path = feedstocks/pytest-update-test-results
+	branch = refs/heads/main
