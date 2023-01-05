@@ -73514,3 +73514,7 @@
 	url = https://github.com/conda-forge/pyg-lib-feedstock.git
 	path = feedstocks/pyg-lib
 	branch = refs/heads/main
+[submodule "pytest-snapshot"]
+	url = https://github.com/conda-forge/pytest-snapshot-feedstock.git
+	path = feedstocks/pytest-snapshot
+	branch = refs/heads/main
