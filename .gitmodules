@@ -73522,3 +73522,7 @@
 	url = https://github.com/conda-forge/pytest-update-test-results-feedstock.git
 	path = feedstocks/pytest-update-test-results
 	branch = refs/heads/main
+[submodule "libcpucycles"]
+	url = https://github.com/conda-forge/libcpucycles-feedstock.git
+	path = feedstocks/libcpucycles
+	branch = refs/heads/main
