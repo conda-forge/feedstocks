@@ -73526,3 +73526,7 @@
 	url = https://github.com/conda-forge/libcpucycles-feedstock.git
 	path = feedstocks/libcpucycles
 	branch = refs/heads/main
+[submodule "untwine"]
+	url = https://github.com/conda-forge/untwine-feedstock.git
+	path = feedstocks/untwine
+	branch = refs/heads/main
