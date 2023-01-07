@@ -73530,3 +73530,7 @@
 	url = https://github.com/conda-forge/untwine-feedstock.git
 	path = feedstocks/untwine
 	branch = refs/heads/main
+[submodule "pypdf"]
+	url = https://github.com/conda-forge/pypdf-feedstock.git
+	path = feedstocks/pypdf
+	branch = refs/heads/main
