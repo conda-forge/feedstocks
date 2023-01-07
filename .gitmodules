@@ -73538,3 +73538,7 @@
 	url = https://github.com/conda-forge/r-xefun-feedstock.git
 	path = feedstocks/r-xefun
 	branch = refs/heads/main
+[submodule "planetary-coverage"]
+	url = https://github.com/conda-forge/planetary-coverage-feedstock.git
+	path = feedstocks/planetary-coverage
+	branch = refs/heads/main
