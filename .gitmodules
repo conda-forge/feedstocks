@@ -73546,3 +73546,7 @@
 	url = https://github.com/conda-forge/r-ggsurvfit-feedstock.git
 	path = feedstocks/r-ggsurvfit
 	branch = refs/heads/main
+[submodule "prefect-aws"]
+	url = https://github.com/conda-forge/prefect-aws-feedstock.git
+	path = feedstocks/prefect-aws
+	branch = refs/heads/main
