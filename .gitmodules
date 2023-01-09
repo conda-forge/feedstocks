@@ -73558,3 +73558,7 @@
 	url = https://github.com/conda-forge/sqlparams-feedstock.git
 	path = feedstocks/sqlparams
 	branch = refs/heads/main
+[submodule "r-future.callr"]
+	url = https://github.com/conda-forge/r-future.callr-feedstock.git
+	path = feedstocks/r-future.callr
+	branch = refs/heads/main
