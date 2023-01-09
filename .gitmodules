@@ -73554,3 +73554,7 @@
 	url = https://github.com/conda-forge/shakenbreak-feedstock.git
 	path = feedstocks/shakenbreak
 	branch = refs/heads/main
+[submodule "sqlparams"]
+	url = https://github.com/conda-forge/sqlparams-feedstock.git
+	path = feedstocks/sqlparams
+	branch = refs/heads/main
