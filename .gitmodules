@@ -73566,3 +73566,7 @@
 	url = https://github.com/conda-forge/airflow-dbt-feedstock.git
 	path = feedstocks/airflow-dbt
 	branch = refs/heads/main
+[submodule "diffpy.pdfgui"]
+	url = https://github.com/conda-forge/diffpy.pdfgui-feedstock.git
+	path = feedstocks/diffpy.pdfgui
+	branch = refs/heads/main
