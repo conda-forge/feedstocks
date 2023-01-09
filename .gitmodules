@@ -73562,3 +73562,7 @@
 	url = https://github.com/conda-forge/r-future.callr-feedstock.git
 	path = feedstocks/r-future.callr
 	branch = refs/heads/main
+[submodule "airflow-dbt"]
+	url = https://github.com/conda-forge/airflow-dbt-feedstock.git
+	path = feedstocks/airflow-dbt
+	branch = refs/heads/main
