@@ -73586,3 +73586,7 @@
 	url = https://github.com/conda-forge/aimrocks-feedstock.git
 	path = feedstocks/aimrocks
 	branch = refs/heads/main
+[submodule "aim-ui"]
+	url = https://github.com/conda-forge/aim-ui-feedstock.git
+	path = feedstocks/aim-ui
+	branch = refs/heads/main
