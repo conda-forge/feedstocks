@@ -73574,3 +73574,7 @@
 	url = https://github.com/conda-forge/oschmod-feedstock.git
 	path = feedstocks/oschmod
 	branch = refs/heads/main
+[submodule "hdxms-datasets"]
+	url = https://github.com/conda-forge/hdxms-datasets-feedstock.git
+	path = feedstocks/hdxms-datasets
+	branch = refs/heads/main
