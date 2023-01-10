@@ -73598,3 +73598,7 @@
 	url = https://github.com/conda-forge/quera-ahs-utils-feedstock.git
 	path = feedstocks/quera-ahs-utils
 	branch = refs/heads/main
+[submodule "kydlib"]
+	url = https://github.com/conda-forge/kydlib-feedstock.git
+	path = feedstocks/kydlib
+	branch = refs/heads/main
