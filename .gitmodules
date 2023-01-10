@@ -73590,3 +73590,7 @@
 	url = https://github.com/conda-forge/aim-ui-feedstock.git
 	path = feedstocks/aim-ui
 	branch = refs/heads/main
+[submodule "pyxsim"]
+	url = https://github.com/conda-forge/pyxsim-feedstock.git
+	path = feedstocks/pyxsim
+	branch = refs/heads/main
