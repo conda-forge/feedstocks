@@ -73582,3 +73582,7 @@
 	url = https://github.com/conda-forge/ssh-ipykernel-feedstock.git
 	path = feedstocks/ssh-ipykernel
 	branch = refs/heads/main
+[submodule "aimrocks"]
+	url = https://github.com/conda-forge/aimrocks-feedstock.git
+	path = feedstocks/aimrocks
+	branch = refs/heads/main
