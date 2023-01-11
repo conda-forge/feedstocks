@@ -73606,3 +73606,7 @@
 	url = https://github.com/conda-forge/kinbot-feedstock.git
 	path = feedstocks/kinbot
 	branch = refs/heads/main
+[submodule "causalimpact"]
+	url = https://github.com/conda-forge/causalimpact-feedstock.git
+	path = feedstocks/causalimpact
+	branch = refs/heads/main
