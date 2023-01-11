@@ -73610,3 +73610,7 @@
 	url = https://github.com/conda-forge/causalimpact-feedstock.git
 	path = feedstocks/causalimpact
 	branch = refs/heads/main
+[submodule "urllib3-secure-extra"]
+	url = https://github.com/conda-forge/urllib3-secure-extra-feedstock.git
+	path = feedstocks/urllib3-secure-extra
+	branch = refs/heads/main
