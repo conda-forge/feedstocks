@@ -73638,3 +73638,7 @@
 	url = https://github.com/conda-forge/autogluon.features-feedstock.git
 	path = feedstocks/autogluon.features
 	branch = refs/heads/main
+[submodule "autogluon.core"]
+	url = https://github.com/conda-forge/autogluon.core-feedstock.git
+	path = feedstocks/autogluon.core
+	branch = refs/heads/main
