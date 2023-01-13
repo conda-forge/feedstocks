@@ -73626,3 +73626,7 @@
 	url = https://github.com/conda-forge/r-hotelling-feedstock.git
 	path = feedstocks/r-hotelling
 	branch = refs/heads/main
+[submodule "autogluon.common"]
+	url = https://github.com/conda-forge/autogluon.common-feedstock.git
+	path = feedstocks/autogluon.common
+	branch = refs/heads/main
