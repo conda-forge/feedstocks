@@ -73630,3 +73630,7 @@
 	url = https://github.com/conda-forge/autogluon.common-feedstock.git
 	path = feedstocks/autogluon.common
 	branch = refs/heads/main
+[submodule "nifti-mrs"]
+	url = https://github.com/conda-forge/nifti-mrs-feedstock.git
+	path = feedstocks/nifti-mrs
+	branch = refs/heads/main
