@@ -73622,3 +73622,7 @@
 	url = https://github.com/conda-forge/r-tgp-feedstock.git
 	path = feedstocks/r-tgp
 	branch = refs/heads/main
+[submodule "r-hotelling"]
+	url = https://github.com/conda-forge/r-hotelling-feedstock.git
+	path = feedstocks/r-hotelling
+	branch = refs/heads/main
