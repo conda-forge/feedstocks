@@ -73618,3 +73618,7 @@
 	url = https://github.com/conda-forge/graalpy-feedstock.git
 	path = feedstocks/graalpy
 	branch = refs/heads/main
+[submodule "r-tgp"]
+	url = https://github.com/conda-forge/r-tgp-feedstock.git
+	path = feedstocks/r-tgp
+	branch = refs/heads/main
