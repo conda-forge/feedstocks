@@ -73614,3 +73614,7 @@
 	url = https://github.com/conda-forge/urllib3-secure-extra-feedstock.git
 	path = feedstocks/urllib3-secure-extra
 	branch = refs/heads/main
+[submodule "graalpy"]
+	url = https://github.com/conda-forge/graalpy-feedstock.git
+	path = feedstocks/graalpy
+	branch = refs/heads/main
