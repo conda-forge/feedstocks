@@ -73642,3 +73642,7 @@
 	url = https://github.com/conda-forge/autogluon.core-feedstock.git
 	path = feedstocks/autogluon.core
 	branch = refs/heads/main
+[submodule "pcsclite"]
+	url = https://github.com/conda-forge/pcsclite-feedstock.git
+	path = feedstocks/pcsclite
+	branch = refs/heads/main
