@@ -73650,3 +73650,7 @@
 	url = https://github.com/conda-forge/py-triangle-feedstock.git
 	path = feedstocks/py-triangle
 	branch = refs/heads/main
+[submodule "libunrar"]
+	url = https://github.com/conda-forge/libunrar-feedstock.git
+	path = feedstocks/libunrar
+	branch = refs/heads/main
