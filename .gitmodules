@@ -73670,3 +73670,7 @@
 	url = https://github.com/conda-forge/synthetic-data-feedstock.git
 	path = feedstocks/synthetic-data
 	branch = refs/heads/main
+[submodule "pytorch-metric-learning"]
+	url = https://github.com/conda-forge/pytorch-metric-learning-feedstock.git
+	path = feedstocks/pytorch-metric-learning
+	branch = refs/heads/main
