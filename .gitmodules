@@ -73682,3 +73682,7 @@
 	url = https://github.com/conda-forge/cerbere-feedstock.git
 	path = feedstocks/cerbere
 	branch = refs/heads/main
+[submodule "naiad-commons"]
+	url = https://github.com/conda-forge/naiad-commons-feedstock.git
+	path = feedstocks/naiad-commons
+	branch = refs/heads/main
