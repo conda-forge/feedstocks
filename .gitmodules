@@ -73678,3 +73678,7 @@
 	url = https://github.com/conda-forge/serapeum_utils-feedstock.git
 	path = feedstocks/serapeum_utils
 	branch = refs/heads/main
+[submodule "cerbere"]
+	url = https://github.com/conda-forge/cerbere-feedstock.git
+	path = feedstocks/cerbere
+	branch = refs/heads/main
