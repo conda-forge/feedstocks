@@ -73666,3 +73666,7 @@
 	url = https://github.com/conda-forge/autogluon.tabular-feedstock.git
 	path = feedstocks/autogluon.tabular
 	branch = refs/heads/main
+[submodule "synthetic-data"]
+	url = https://github.com/conda-forge/synthetic-data-feedstock.git
+	path = feedstocks/synthetic-data
+	branch = refs/heads/main
