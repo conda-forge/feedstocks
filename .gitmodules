@@ -73662,3 +73662,7 @@
 	url = https://github.com/conda-forge/deepspeed-feedstock.git
 	path = feedstocks/deepspeed
 	branch = refs/heads/main
+[submodule "autogluon.tabular"]
+	url = https://github.com/conda-forge/autogluon.tabular-feedstock.git
+	path = feedstocks/autogluon.tabular
+	branch = refs/heads/main
