@@ -73674,3 +73674,7 @@
 	url = https://github.com/conda-forge/pytorch-metric-learning-feedstock.git
 	path = feedstocks/pytorch-metric-learning
 	branch = refs/heads/main
+[submodule "serapeum_utils"]
+	url = https://github.com/conda-forge/serapeum_utils-feedstock.git
+	path = feedstocks/serapeum_utils
+	branch = refs/heads/main
