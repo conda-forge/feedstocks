@@ -73702,3 +73702,7 @@
 	url = https://github.com/conda-forge/picobox-feedstock.git
 	path = feedstocks/picobox
 	branch = refs/heads/main
+[submodule "naiad"]
+	url = https://github.com/conda-forge/naiad-feedstock.git
+	path = feedstocks/naiad
+	branch = refs/heads/main
