@@ -73698,3 +73698,7 @@
 	url = https://github.com/conda-forge/r-optm-feedstock.git
 	path = feedstocks/r-optm
 	branch = refs/heads/main
+[submodule "picobox"]
+	url = https://github.com/conda-forge/picobox-feedstock.git
+	path = feedstocks/picobox
+	branch = refs/heads/main
