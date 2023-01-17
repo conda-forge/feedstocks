@@ -73718,3 +73718,7 @@
 	url = https://github.com/conda-forge/eo-dataflow-manager-feedstock.git
 	path = feedstocks/eo-dataflow-manager
 	branch = refs/heads/main
+[submodule "autocfg"]
+	url = https://github.com/conda-forge/autocfg-feedstock.git
+	path = feedstocks/autocfg
+	branch = refs/heads/main
