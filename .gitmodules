@@ -73722,3 +73722,7 @@
 	url = https://github.com/conda-forge/autocfg-feedstock.git
 	path = feedstocks/autocfg
 	branch = refs/heads/main
+[submodule "gluonts"]
+	url = https://github.com/conda-forge/gluonts-feedstock.git
+	path = feedstocks/gluonts
+	branch = refs/heads/main
