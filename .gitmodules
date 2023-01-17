@@ -73710,3 +73710,7 @@
 	url = https://github.com/conda-forge/eo-dataflow-ui-feedstock.git
 	path = feedstocks/eo-dataflow-ui
 	branch = refs/heads/main
+[submodule "eo-dataflow-report"]
+	url = https://github.com/conda-forge/eo-dataflow-report-feedstock.git
+	path = feedstocks/eo-dataflow-report
+	branch = refs/heads/main
