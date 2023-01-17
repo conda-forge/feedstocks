@@ -73726,3 +73726,7 @@
 	url = https://github.com/conda-forge/gluonts-feedstock.git
 	path = feedstocks/gluonts
 	branch = refs/heads/main
+[submodule "sqeleton"]
+	url = https://github.com/conda-forge/sqeleton-feedstock.git
+	path = feedstocks/sqeleton
+	branch = refs/heads/main
