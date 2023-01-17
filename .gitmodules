@@ -73714,3 +73714,7 @@
 	url = https://github.com/conda-forge/eo-dataflow-report-feedstock.git
 	path = feedstocks/eo-dataflow-report
 	branch = refs/heads/main
+[submodule "eo-dataflow-manager"]
+	url = https://github.com/conda-forge/eo-dataflow-manager-feedstock.git
+	path = feedstocks/eo-dataflow-manager
+	branch = refs/heads/main
