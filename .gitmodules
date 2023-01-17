@@ -73706,3 +73706,7 @@
 	url = https://github.com/conda-forge/naiad-feedstock.git
 	path = feedstocks/naiad
 	branch = refs/heads/main
+[submodule "eo-dataflow-ui"]
+	url = https://github.com/conda-forge/eo-dataflow-ui-feedstock.git
+	path = feedstocks/eo-dataflow-ui
+	branch = refs/heads/main
