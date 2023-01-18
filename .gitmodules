@@ -73774,3 +73774,7 @@
 	url = https://github.com/conda-forge/klongpy-feedstock.git
 	path = feedstocks/klongpy
 	branch = refs/heads/main
+[submodule "jobard-worker-dask"]
+	url = https://github.com/conda-forge/jobard-worker-dask-feedstock.git
+	path = feedstocks/jobard-worker-dask
+	branch = refs/heads/main
