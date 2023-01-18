@@ -73750,3 +73750,7 @@
 	url = https://github.com/conda-forge/jobard-remote-dask-feedstock.git
 	path = feedstocks/jobard-remote-dask
 	branch = refs/heads/main
+[submodule "jobard-daemon"]
+	url = https://github.com/conda-forge/jobard-daemon-feedstock.git
+	path = feedstocks/jobard-daemon
+	branch = refs/heads/main
