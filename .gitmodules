@@ -73758,3 +73758,7 @@
 	url = https://github.com/conda-forge/felyxcontrib-metrics-workflow-feedstock.git
 	path = feedstocks/felyxcontrib-metrics-workflow
 	branch = refs/heads/main
+[submodule "speedy-antlr-tool"]
+	url = https://github.com/conda-forge/speedy-antlr-tool-feedstock.git
+	path = feedstocks/speedy-antlr-tool
+	branch = refs/heads/main
