@@ -73734,3 +73734,7 @@
 	url = https://github.com/conda-forge/gluoncv-feedstock.git
 	path = feedstocks/gluoncv
 	branch = refs/heads/main
+[submodule "jobard-api"]
+	url = https://github.com/conda-forge/jobard-api-feedstock.git
+	path = feedstocks/jobard-api
+	branch = refs/heads/main
