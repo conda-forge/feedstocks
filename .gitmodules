@@ -73730,3 +73730,7 @@
 	url = https://github.com/conda-forge/sqeleton-feedstock.git
 	path = feedstocks/sqeleton
 	branch = refs/heads/main
+[submodule "gluoncv"]
+	url = https://github.com/conda-forge/gluoncv-feedstock.git
+	path = feedstocks/gluoncv
+	branch = refs/heads/main
