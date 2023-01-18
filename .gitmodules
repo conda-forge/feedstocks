@@ -73754,3 +73754,7 @@
 	url = https://github.com/conda-forge/jobard-daemon-feedstock.git
 	path = feedstocks/jobard-daemon
 	branch = refs/heads/main
+[submodule "felyxcontrib-metrics-workflow"]
+	url = https://github.com/conda-forge/felyxcontrib-metrics-workflow-feedstock.git
+	path = feedstocks/felyxcontrib-metrics-workflow
+	branch = refs/heads/main
