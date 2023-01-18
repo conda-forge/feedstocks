@@ -73742,3 +73742,7 @@
 	url = https://github.com/conda-forge/felyxcontribs-metrics-ghrsst-feedstock.git
 	path = feedstocks/felyxcontribs-metrics-ghrsst
 	branch = refs/heads/main
+[submodule "felyxcontribs-metrics-base"]
+	url = https://github.com/conda-forge/felyxcontribs-metrics-base-feedstock.git
+	path = feedstocks/felyxcontribs-metrics-base
+	branch = refs/heads/main
