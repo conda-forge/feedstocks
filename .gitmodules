@@ -73746,3 +73746,7 @@
 	url = https://github.com/conda-forge/felyxcontribs-metrics-base-feedstock.git
 	path = feedstocks/felyxcontribs-metrics-base
 	branch = refs/heads/main
+[submodule "jobard-remote-dask"]
+	url = https://github.com/conda-forge/jobard-remote-dask-feedstock.git
+	path = feedstocks/jobard-remote-dask
+	branch = refs/heads/main
