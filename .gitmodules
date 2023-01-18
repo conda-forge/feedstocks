@@ -73738,3 +73738,7 @@
 	url = https://github.com/conda-forge/jobard-api-feedstock.git
 	path = feedstocks/jobard-api
 	branch = refs/heads/main
+[submodule "felyxcontribs-metrics-ghrsst"]
+	url = https://github.com/conda-forge/felyxcontribs-metrics-ghrsst-feedstock.git
+	path = feedstocks/felyxcontribs-metrics-ghrsst
+	branch = refs/heads/main
