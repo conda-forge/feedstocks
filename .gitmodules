@@ -73778,3 +73778,7 @@
 	url = https://github.com/conda-forge/jobard-worker-dask-feedstock.git
 	path = feedstocks/jobard-worker-dask
 	branch = refs/heads/main
+[submodule "r-bioseq"]
+	url = https://github.com/conda-forge/r-bioseq-feedstock.git
+	path = feedstocks/r-bioseq
+	branch = refs/heads/main
