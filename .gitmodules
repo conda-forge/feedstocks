@@ -73786,3 +73786,7 @@
 	url = https://github.com/conda-forge/scitacean-feedstock.git
 	path = feedstocks/scitacean
 	branch = refs/heads/main
+[submodule "model-index"]
+	url = https://github.com/conda-forge/model-index-feedstock.git
+	path = feedstocks/model-index
+	branch = refs/heads/main
