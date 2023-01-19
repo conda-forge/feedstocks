@@ -73782,3 +73782,7 @@
 	url = https://github.com/conda-forge/r-bioseq-feedstock.git
 	path = feedstocks/r-bioseq
 	branch = refs/heads/main
+[submodule "scitacean"]
+	url = https://github.com/conda-forge/scitacean-feedstock.git
+	path = feedstocks/scitacean
+	branch = refs/heads/main
