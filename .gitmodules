@@ -73826,3 +73826,7 @@
 	url = https://github.com/conda-forge/neptune-aws-feedstock.git
 	path = feedstocks/neptune-aws
 	branch = refs/heads/main
+[submodule "vapoursynth"]
+	url = https://github.com/conda-forge/vapoursynth-feedstock.git
+	path = feedstocks/vapoursynth
+	branch = refs/heads/main
