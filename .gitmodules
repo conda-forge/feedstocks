@@ -73802,3 +73802,7 @@
 	url = https://github.com/conda-forge/r-changepoints-feedstock.git
 	path = feedstocks/r-changepoints
 	branch = refs/heads/main
+[submodule "revtok"]
+	url = https://github.com/conda-forge/revtok-feedstock.git
+	path = feedstocks/revtok
+	branch = refs/heads/main
