@@ -73814,3 +73814,7 @@
 	url = https://github.com/conda-forge/pyproject-fmt-feedstock.git
 	path = feedstocks/pyproject-fmt
 	branch = refs/heads/main
+[submodule "m2cgen"]
+	url = https://github.com/conda-forge/m2cgen-feedstock.git
+	path = feedstocks/m2cgen
+	branch = refs/heads/main
