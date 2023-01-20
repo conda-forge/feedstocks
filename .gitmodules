@@ -73850,3 +73850,7 @@
 	url = https://github.com/conda-forge/zfel-feedstock.git
 	path = feedstocks/zfel
 	branch = refs/heads/main
+[submodule "eeharvest"]
+	url = https://github.com/conda-forge/eeharvest-feedstock.git
+	path = feedstocks/eeharvest
+	branch = refs/heads/main
