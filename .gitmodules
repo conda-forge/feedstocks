@@ -73798,3 +73798,7 @@
 	url = https://github.com/conda-forge/miniful-feedstock.git
 	path = feedstocks/miniful
 	branch = refs/heads/main
+[submodule "r-changepoints"]
+	url = https://github.com/conda-forge/r-changepoints-feedstock.git
+	path = feedstocks/r-changepoints
+	branch = refs/heads/main
