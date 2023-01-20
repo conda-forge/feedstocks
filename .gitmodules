@@ -73838,3 +73838,7 @@
 	url = https://github.com/conda-forge/autogluon.multimodal-feedstock.git
 	path = feedstocks/autogluon.multimodal
 	branch = refs/heads/main
+[submodule "autogluon.timeseries"]
+	url = https://github.com/conda-forge/autogluon.timeseries-feedstock.git
+	path = feedstocks/autogluon.timeseries
+	branch = refs/heads/main
