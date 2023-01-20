@@ -73834,3 +73834,7 @@
 	url = https://github.com/conda-forge/qdax-feedstock.git
 	path = feedstocks/qdax
 	branch = refs/heads/main
+[submodule "autogluon.multimodal"]
+	url = https://github.com/conda-forge/autogluon.multimodal-feedstock.git
+	path = feedstocks/autogluon.multimodal
+	branch = refs/heads/main
