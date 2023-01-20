@@ -73846,3 +73846,7 @@
 	url = https://github.com/conda-forge/ratarmountcore-feedstock.git
 	path = feedstocks/ratarmountcore
 	branch = refs/heads/main
+[submodule "zfel"]
+	url = https://github.com/conda-forge/zfel-feedstock.git
+	path = feedstocks/zfel
+	branch = refs/heads/main
