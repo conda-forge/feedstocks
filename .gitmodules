@@ -73818,3 +73818,7 @@
 	url = https://github.com/conda-forge/m2cgen-feedstock.git
 	path = feedstocks/m2cgen
 	branch = refs/heads/main
+[submodule "ipyforcegraph"]
+	url = https://github.com/conda-forge/ipyforcegraph-feedstock.git
+	path = feedstocks/ipyforcegraph
+	branch = refs/heads/main
