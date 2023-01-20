@@ -73790,3 +73790,7 @@
 	url = https://github.com/conda-forge/model-index-feedstock.git
 	path = feedstocks/model-index
 	branch = refs/heads/main
+[submodule "openmim"]
+	url = https://github.com/conda-forge/openmim-feedstock.git
+	path = feedstocks/openmim
+	branch = refs/heads/main
