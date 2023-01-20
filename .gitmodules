@@ -73842,3 +73842,7 @@
 	url = https://github.com/conda-forge/autogluon.timeseries-feedstock.git
 	path = feedstocks/autogluon.timeseries
 	branch = refs/heads/main
+[submodule "ratarmountcore"]
+	url = https://github.com/conda-forge/ratarmountcore-feedstock.git
+	path = feedstocks/ratarmountcore
+	branch = refs/heads/main
