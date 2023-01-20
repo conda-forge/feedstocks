@@ -73806,3 +73806,7 @@
 	url = https://github.com/conda-forge/revtok-feedstock.git
 	path = feedstocks/revtok
 	branch = refs/heads/main
+[submodule "torchtext"]
+	url = https://github.com/conda-forge/torchtext-feedstock.git
+	path = feedstocks/torchtext
+	branch = refs/heads/main
