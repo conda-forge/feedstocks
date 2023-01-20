@@ -73822,3 +73822,7 @@
 	url = https://github.com/conda-forge/ipyforcegraph-feedstock.git
 	path = feedstocks/ipyforcegraph
 	branch = refs/heads/main
+[submodule "neptune-aws"]
+	url = https://github.com/conda-forge/neptune-aws-feedstock.git
+	path = feedstocks/neptune-aws
+	branch = refs/heads/main
