@@ -73810,3 +73810,7 @@
 	url = https://github.com/conda-forge/torchtext-feedstock.git
 	path = feedstocks/torchtext
 	branch = refs/heads/main
+[submodule "pyproject-fmt"]
+	url = https://github.com/conda-forge/pyproject-fmt-feedstock.git
+	path = feedstocks/pyproject-fmt
+	branch = refs/heads/main
