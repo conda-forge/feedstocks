@@ -73854,3 +73854,7 @@
 	url = https://github.com/conda-forge/eeharvest-feedstock.git
 	path = feedstocks/eeharvest
 	branch = refs/heads/main
+[submodule "r-buildmer"]
+	url = https://github.com/conda-forge/r-buildmer-feedstock.git
+	path = feedstocks/r-buildmer
+	branch = refs/heads/main
