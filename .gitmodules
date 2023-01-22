@@ -73866,3 +73866,7 @@
 	url = https://github.com/conda-forge/anywidget-feedstock.git
 	path = feedstocks/anywidget
 	branch = refs/heads/main
+[submodule "fastapi-healthcheck"]
+	url = https://github.com/conda-forge/fastapi-healthcheck-feedstock.git
+	path = feedstocks/fastapi-healthcheck
+	branch = refs/heads/main
