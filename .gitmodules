@@ -73874,3 +73874,7 @@
 	url = https://github.com/conda-forge/r-tlmoments-feedstock.git
 	path = feedstocks/r-tlmoments
 	branch = refs/heads/main
+[submodule "kahip"]
+	url = https://github.com/conda-forge/kahip-feedstock.git
+	path = feedstocks/kahip
+	branch = refs/heads/main
