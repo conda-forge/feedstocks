@@ -73914,3 +73914,7 @@
 	url = https://github.com/conda-forge/perl-test-cleannamespaces-feedstock.git
 	path = feedstocks/perl-test-cleannamespaces
 	branch = refs/heads/main
+[submodule "perl-moose"]
+	url = https://github.com/conda-forge/perl-moose-feedstock.git
+	path = feedstocks/perl-moose
+	branch = refs/heads/main
