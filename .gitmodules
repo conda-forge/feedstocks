@@ -73910,3 +73910,7 @@
 	url = https://github.com/conda-forge/perl-eval-closure-feedstock.git
 	path = feedstocks/perl-eval-closure
 	branch = refs/heads/main
+[submodule "perl-test-cleannamespaces"]
+	url = https://github.com/conda-forge/perl-test-cleannamespaces-feedstock.git
+	path = feedstocks/perl-test-cleannamespaces
+	branch = refs/heads/main
