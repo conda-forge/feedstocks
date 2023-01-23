@@ -73918,3 +73918,7 @@
 	url = https://github.com/conda-forge/perl-moose-feedstock.git
 	path = feedstocks/perl-moose
 	branch = refs/heads/main
+[submodule "fuzzytm"]
+	url = https://github.com/conda-forge/fuzzytm-feedstock.git
+	path = feedstocks/fuzzytm
+	branch = refs/heads/main
