@@ -73926,3 +73926,7 @@
 	url = https://github.com/conda-forge/pyfume-feedstock.git
 	path = feedstocks/pyfume
 	branch = refs/heads/main
+[submodule "fst-pso"]
+	url = https://github.com/conda-forge/fst-pso-feedstock.git
+	path = feedstocks/fst-pso
+	branch = refs/heads/main
