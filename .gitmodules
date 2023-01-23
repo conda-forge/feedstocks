@@ -73878,3 +73878,7 @@
 	url = https://github.com/conda-forge/kahip-feedstock.git
 	path = feedstocks/kahip
 	branch = refs/heads/main
+[submodule "perl-module-runtime-conflicts"]
+	url = https://github.com/conda-forge/perl-module-runtime-conflicts-feedstock.git
+	path = feedstocks/perl-module-runtime-conflicts
+	branch = refs/heads/main
