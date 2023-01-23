@@ -73886,3 +73886,7 @@
 	url = https://github.com/conda-forge/perl-class-load-feedstock.git
 	path = feedstocks/perl-class-load
 	branch = refs/heads/main
+[submodule "perl-class-load-xs"]
+	url = https://github.com/conda-forge/perl-class-load-xs-feedstock.git
+	path = feedstocks/perl-class-load-xs
+	branch = refs/heads/main
