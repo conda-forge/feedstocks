@@ -73922,3 +73922,7 @@
 	url = https://github.com/conda-forge/fuzzytm-feedstock.git
 	path = feedstocks/fuzzytm
 	branch = refs/heads/main
+[submodule "pyfume"]
+	url = https://github.com/conda-forge/pyfume-feedstock.git
+	path = feedstocks/pyfume
+	branch = refs/heads/main
