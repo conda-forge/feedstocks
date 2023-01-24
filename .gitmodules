@@ -73970,3 +73970,7 @@
 	url = https://github.com/conda-forge/radis-feedstock.git
 	path = feedstocks/radis
 	branch = refs/heads/main
+[submodule "sqlalchemy-views"]
+	url = https://github.com/conda-forge/sqlalchemy-views-feedstock.git
+	path = feedstocks/sqlalchemy-views
+	branch = refs/heads/main
