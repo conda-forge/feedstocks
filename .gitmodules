@@ -73938,3 +73938,7 @@
 	url = https://github.com/conda-forge/itslive-feedstock.git
 	path = feedstocks/itslive
 	branch = refs/heads/main
+[submodule "libusockets"]
+	url = https://github.com/conda-forge/libusockets-feedstock.git
+	path = feedstocks/libusockets
+	branch = refs/heads/main
