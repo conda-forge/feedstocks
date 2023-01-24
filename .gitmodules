@@ -73950,3 +73950,7 @@
 	url = https://github.com/conda-forge/wrappy-feedstock.git
 	path = feedstocks/wrappy
 	branch = refs/heads/main
+[submodule "dvc-studio-client"]
+	url = https://github.com/conda-forge/dvc-studio-client-feedstock.git
+	path = feedstocks/dvc-studio-client
+	branch = refs/heads/main
