@@ -73942,3 +73942,7 @@
 	url = https://github.com/conda-forge/libusockets-feedstock.git
 	path = feedstocks/libusockets
 	branch = refs/heads/main
+[submodule "dagger-io"]
+	url = https://github.com/conda-forge/dagger-io-feedstock.git
+	path = feedstocks/dagger-io
+	branch = refs/heads/main
