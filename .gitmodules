@@ -73974,3 +73974,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-views-feedstock.git
 	path = feedstocks/sqlalchemy-views
 	branch = refs/heads/main
+[submodule "dm_control"]
+	url = https://github.com/conda-forge/dm_control-feedstock.git
+	path = feedstocks/dm_control
+	branch = refs/heads/main
