@@ -73946,3 +73946,7 @@
 	url = https://github.com/conda-forge/dagger-io-feedstock.git
 	path = feedstocks/dagger-io
 	branch = refs/heads/main
+[submodule "wrappy"]
+	url = https://github.com/conda-forge/wrappy-feedstock.git
+	path = feedstocks/wrappy
+	branch = refs/heads/main
