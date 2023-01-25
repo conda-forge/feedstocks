@@ -73982,3 +73982,7 @@
 	url = https://github.com/conda-forge/swapper-feedstock.git
 	path = feedstocks/swapper
 	branch = refs/heads/main
+[submodule "word-forms"]
+	url = https://github.com/conda-forge/word-forms-feedstock.git
+	path = feedstocks/word-forms
+	branch = refs/heads/main
