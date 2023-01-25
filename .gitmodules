@@ -73978,3 +73978,7 @@
 	url = https://github.com/conda-forge/dm_control-feedstock.git
 	path = feedstocks/dm_control
 	branch = refs/heads/main
+[submodule "swapper"]
+	url = https://github.com/conda-forge/swapper-feedstock.git
+	path = feedstocks/swapper
+	branch = refs/heads/main
