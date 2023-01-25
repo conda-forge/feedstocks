@@ -74022,3 +74022,7 @@
 	url = https://github.com/conda-forge/geodata-harvester-feedstock.git
 	path = feedstocks/geodata-harvester
 	branch = refs/heads/main
+[submodule "pyirf"]
+	url = https://github.com/conda-forge/pyirf-feedstock.git
+	path = feedstocks/pyirf
+	branch = refs/heads/main
