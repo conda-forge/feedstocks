@@ -74014,3 +74014,7 @@
 	url = https://github.com/conda-forge/facexlib-feedstock.git
 	path = feedstocks/facexlib
 	branch = refs/heads/main
+[submodule "pypulse"]
+	url = https://github.com/conda-forge/pypulse-feedstock.git
+	path = feedstocks/pypulse
+	branch = refs/heads/main
