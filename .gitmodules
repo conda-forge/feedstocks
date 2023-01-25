@@ -73998,3 +73998,7 @@
 	url = https://github.com/conda-forge/pyshepseg-feedstock.git
 	path = feedstocks/pyshepseg
 	branch = refs/heads/main
+[submodule "autogluon.text"]
+	url = https://github.com/conda-forge/autogluon.text-feedstock.git
+	path = feedstocks/autogluon.text
+	branch = refs/heads/main
