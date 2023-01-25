@@ -74018,3 +74018,7 @@
 	url = https://github.com/conda-forge/pypulse-feedstock.git
 	path = feedstocks/pypulse
 	branch = refs/heads/main
+[submodule "geodata-harvester"]
+	url = https://github.com/conda-forge/geodata-harvester-feedstock.git
+	path = feedstocks/geodata-harvester
+	branch = refs/heads/main
