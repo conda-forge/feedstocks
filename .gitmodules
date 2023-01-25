@@ -73994,3 +73994,7 @@
 	url = https://github.com/conda-forge/open-clip-torch-feedstock.git
 	path = feedstocks/open-clip-torch
 	branch = refs/heads/main
+[submodule "pyshepseg"]
+	url = https://github.com/conda-forge/pyshepseg-feedstock.git
+	path = feedstocks/pyshepseg
+	branch = refs/heads/main
