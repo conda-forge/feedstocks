@@ -74030,3 +74030,7 @@
 	url = https://github.com/conda-forge/ezdag-feedstock.git
 	path = feedstocks/ezdag
 	branch = refs/heads/main
+[submodule "py3dns"]
+	url = https://github.com/conda-forge/py3dns-feedstock.git
+	path = feedstocks/py3dns
+	branch = refs/heads/main
