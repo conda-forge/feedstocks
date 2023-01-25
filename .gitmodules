@@ -74010,3 +74010,7 @@
 	url = https://github.com/conda-forge/autogluon.vision-feedstock.git
 	path = feedstocks/autogluon.vision
 	branch = refs/heads/main
+[submodule "facexlib"]
+	url = https://github.com/conda-forge/facexlib-feedstock.git
+	path = feedstocks/facexlib
+	branch = refs/heads/main
