@@ -74002,3 +74002,7 @@
 	url = https://github.com/conda-forge/autogluon.text-feedstock.git
 	path = feedstocks/autogluon.text
 	branch = refs/heads/main
+[submodule "safetensors"]
+	url = https://github.com/conda-forge/safetensors-feedstock.git
+	path = feedstocks/safetensors
+	branch = refs/heads/main
