@@ -74026,3 +74026,7 @@
 	url = https://github.com/conda-forge/pyirf-feedstock.git
 	path = feedstocks/pyirf
 	branch = refs/heads/main
+[submodule "ezdag"]
+	url = https://github.com/conda-forge/ezdag-feedstock.git
+	path = feedstocks/ezdag
+	branch = refs/heads/main
