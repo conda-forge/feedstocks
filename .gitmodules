@@ -74042,3 +74042,7 @@
 	url = https://github.com/conda-forge/sdformat-mjcf-feedstock.git
 	path = feedstocks/sdformat-mjcf
 	branch = refs/heads/main
+[submodule "pygad"]
+	url = https://github.com/conda-forge/pygad-feedstock.git
+	path = feedstocks/pygad
+	branch = refs/heads/main
