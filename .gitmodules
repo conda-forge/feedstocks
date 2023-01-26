@@ -74070,3 +74070,7 @@
 	url = https://github.com/conda-forge/marquez-python-feedstock.git
 	path = feedstocks/marquez-python
 	branch = refs/heads/main
+[submodule "pint-pal"]
+	url = https://github.com/conda-forge/pint-pal-feedstock.git
+	path = feedstocks/pint-pal
+	branch = refs/heads/main
