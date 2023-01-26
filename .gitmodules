@@ -74078,3 +74078,7 @@
 	url = https://github.com/conda-forge/clouddrift-feedstock.git
 	path = feedstocks/clouddrift
 	branch = refs/heads/main
+[submodule "scikit-fda"]
+	url = https://github.com/conda-forge/scikit-fda-feedstock.git
+	path = feedstocks/scikit-fda
+	branch = refs/heads/main
