@@ -74066,3 +74066,7 @@
 	url = https://github.com/conda-forge/imaginairy-feedstock.git
 	path = feedstocks/imaginairy
 	branch = refs/heads/main
+[submodule "marquez-python"]
+	url = https://github.com/conda-forge/marquez-python-feedstock.git
+	path = feedstocks/marquez-python
+	branch = refs/heads/main
