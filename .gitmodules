@@ -74054,3 +74054,7 @@
 	url = https://github.com/conda-forge/r-qqconf-feedstock.git
 	path = feedstocks/r-qqconf
 	branch = refs/heads/main
+[submodule "r-opdisdownsampling"]
+	url = https://github.com/conda-forge/r-opdisdownsampling-feedstock.git
+	path = feedstocks/r-opdisdownsampling
+	branch = refs/heads/main
