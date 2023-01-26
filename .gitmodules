@@ -74050,3 +74050,7 @@
 	url = https://github.com/conda-forge/r-twosamples-feedstock.git
 	path = feedstocks/r-twosamples
 	branch = refs/heads/main
+[submodule "r-qqconf"]
+	url = https://github.com/conda-forge/r-qqconf-feedstock.git
+	path = feedstocks/r-qqconf
+	branch = refs/heads/main
