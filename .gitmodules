@@ -74038,3 +74038,7 @@
 	url = https://github.com/conda-forge/waves-feedstock.git
 	path = feedstocks/waves
 	branch = refs/heads/main
+[submodule "sdformat-mjcf"]
+	url = https://github.com/conda-forge/sdformat-mjcf-feedstock.git
+	path = feedstocks/sdformat-mjcf
+	branch = refs/heads/main
