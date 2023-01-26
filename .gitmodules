@@ -74074,3 +74074,7 @@
 	url = https://github.com/conda-forge/pint-pal-feedstock.git
 	path = feedstocks/pint-pal
 	branch = refs/heads/main
+[submodule "clouddrift"]
+	url = https://github.com/conda-forge/clouddrift-feedstock.git
+	path = feedstocks/clouddrift
+	branch = refs/heads/main
