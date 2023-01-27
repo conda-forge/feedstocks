@@ -74086,3 +74086,7 @@
 	url = https://github.com/conda-forge/autogluon-feedstock.git
 	path = feedstocks/autogluon
 	branch = refs/heads/main
+[submodule "nardini"]
+	url = https://github.com/conda-forge/nardini-feedstock.git
+	path = feedstocks/nardini
+	branch = refs/heads/main
