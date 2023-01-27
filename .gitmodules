@@ -74110,3 +74110,7 @@
 	url = https://github.com/conda-forge/authres-feedstock.git
 	path = feedstocks/authres
 	branch = refs/heads/main
+[submodule "basicauth"]
+	url = https://github.com/conda-forge/basicauth-feedstock.git
+	path = feedstocks/basicauth
+	branch = refs/heads/main
