@@ -74102,3 +74102,7 @@
 	url = https://github.com/conda-forge/bcolz-zipline-feedstock.git
 	path = feedstocks/bcolz-zipline
 	branch = refs/heads/main
+[submodule "virtual-glob"]
+	url = https://github.com/conda-forge/virtual-glob-feedstock.git
+	path = feedstocks/virtual-glob
+	branch = refs/heads/main
