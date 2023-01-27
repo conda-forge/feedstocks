@@ -74098,3 +74098,7 @@
 	url = https://github.com/conda-forge/toolbox_utils-feedstock.git
 	path = feedstocks/toolbox_utils
 	branch = refs/heads/main
+[submodule "bcolz-zipline"]
+	url = https://github.com/conda-forge/bcolz-zipline-feedstock.git
+	path = feedstocks/bcolz-zipline
+	branch = refs/heads/main
