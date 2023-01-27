@@ -74106,3 +74106,7 @@
 	url = https://github.com/conda-forge/virtual-glob-feedstock.git
 	path = feedstocks/virtual-glob
 	branch = refs/heads/main
+[submodule "authres"]
+	url = https://github.com/conda-forge/authres-feedstock.git
+	path = feedstocks/authres
+	branch = refs/heads/main
