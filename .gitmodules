@@ -74082,3 +74082,7 @@
 	url = https://github.com/conda-forge/scikit-fda-feedstock.git
 	path = feedstocks/scikit-fda
 	branch = refs/heads/main
+[submodule "autogluon"]
+	url = https://github.com/conda-forge/autogluon-feedstock.git
+	path = feedstocks/autogluon
+	branch = refs/heads/main
