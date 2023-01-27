@@ -74094,3 +74094,7 @@
 	url = https://github.com/conda-forge/mobie-feedstock.git
 	path = feedstocks/mobie
 	branch = refs/heads/main
+[submodule "toolbox_utils"]
+	url = https://github.com/conda-forge/toolbox_utils-feedstock.git
+	path = feedstocks/toolbox_utils
+	branch = refs/heads/main
