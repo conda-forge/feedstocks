@@ -74130,3 +74130,7 @@
 	url = https://github.com/conda-forge/de2120-barcode-scanner-feedstock.git
 	path = feedstocks/de2120-barcode-scanner
 	branch = refs/heads/main
+[submodule "glab"]
+	url = https://github.com/conda-forge/glab-feedstock.git
+	path = feedstocks/glab
+	branch = refs/heads/main
