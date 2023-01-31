@@ -74142,3 +74142,7 @@
 	url = https://github.com/conda-forge/solvation_analysis-feedstock.git
 	path = feedstocks/solvation_analysis
 	branch = refs/heads/main
+[submodule "nelson-core"]
+	url = https://github.com/conda-forge/nelson-core-feedstock.git
+	path = feedstocks/nelson-core
+	branch = refs/heads/main
