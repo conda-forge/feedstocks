@@ -74126,3 +74126,7 @@
 	url = https://github.com/conda-forge/timerit-feedstock.git
 	path = feedstocks/timerit
 	branch = refs/heads/main
+[submodule "de2120-barcode-scanner"]
+	url = https://github.com/conda-forge/de2120-barcode-scanner-feedstock.git
+	path = feedstocks/de2120-barcode-scanner
+	branch = refs/heads/main
