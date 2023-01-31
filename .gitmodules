@@ -74138,3 +74138,7 @@
 	url = https://github.com/conda-forge/jyg-feedstock.git
 	path = feedstocks/jyg
 	branch = refs/heads/main
+[submodule "solvation_analysis"]
+	url = https://github.com/conda-forge/solvation_analysis-feedstock.git
+	path = feedstocks/solvation_analysis
+	branch = refs/heads/main
