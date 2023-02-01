@@ -74162,3 +74162,7 @@
 	url = https://github.com/conda-forge/jupyter_server_xarray_leaflet-feedstock.git
 	path = feedstocks/jupyter_server_xarray_leaflet
 	branch = refs/heads/main
+[submodule "httpx-ws"]
+	url = https://github.com/conda-forge/httpx-ws-feedstock.git
+	path = feedstocks/httpx-ws
+	branch = refs/heads/main
