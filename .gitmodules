@@ -74146,3 +74146,7 @@
 	url = https://github.com/conda-forge/nelson-core-feedstock.git
 	path = feedstocks/nelson-core
 	branch = refs/heads/main
+[submodule "hatch-regex-commit"]
+	url = https://github.com/conda-forge/hatch-regex-commit-feedstock.git
+	path = feedstocks/hatch-regex-commit
+	branch = refs/heads/main
