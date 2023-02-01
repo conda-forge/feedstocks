@@ -74158,3 +74158,7 @@
 	url = https://github.com/conda-forge/ogstools-feedstock.git
 	path = feedstocks/ogstools
 	branch = refs/heads/main
+[submodule "jupyter_server_xarray_leaflet"]
+	url = https://github.com/conda-forge/jupyter_server_xarray_leaflet-feedstock.git
+	path = feedstocks/jupyter_server_xarray_leaflet
+	branch = refs/heads/main
