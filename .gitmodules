@@ -74166,3 +74166,7 @@
 	url = https://github.com/conda-forge/httpx-ws-feedstock.git
 	path = feedstocks/httpx-ws
 	branch = refs/heads/main
+[submodule "crowdin-api-client"]
+	url = https://github.com/conda-forge/crowdin-api-client-feedstock.git
+	path = feedstocks/crowdin-api-client
+	branch = refs/heads/main
