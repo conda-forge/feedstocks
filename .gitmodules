@@ -74170,3 +74170,7 @@
 	url = https://github.com/conda-forge/crowdin-api-client-feedstock.git
 	path = feedstocks/crowdin-api-client
 	branch = refs/heads/main
+[submodule "flytekitplugins-dask"]
+	url = https://github.com/conda-forge/flytekitplugins-dask-feedstock.git
+	path = feedstocks/flytekitplugins-dask
+	branch = refs/heads/main
