@@ -74150,3 +74150,7 @@
 	url = https://github.com/conda-forge/hatch-regex-commit-feedstock.git
 	path = feedstocks/hatch-regex-commit
 	branch = refs/heads/main
+[submodule "aria2p"]
+	url = https://github.com/conda-forge/aria2p-feedstock.git
+	path = feedstocks/aria2p
+	branch = refs/heads/main
