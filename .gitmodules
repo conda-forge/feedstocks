@@ -74174,3 +74174,7 @@
 	url = https://github.com/conda-forge/flytekitplugins-dask-feedstock.git
 	path = feedstocks/flytekitplugins-dask
 	branch = refs/heads/main
+[submodule "copier-templates-extensions"]
+	url = https://github.com/conda-forge/copier-templates-extensions-feedstock.git
+	path = feedstocks/copier-templates-extensions
+	branch = refs/heads/main
