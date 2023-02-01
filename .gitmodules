@@ -74154,3 +74154,7 @@
 	url = https://github.com/conda-forge/aria2p-feedstock.git
 	path = feedstocks/aria2p
 	branch = refs/heads/main
+[submodule "ogstools"]
+	url = https://github.com/conda-forge/ogstools-feedstock.git
+	path = feedstocks/ogstools
+	branch = refs/heads/main
