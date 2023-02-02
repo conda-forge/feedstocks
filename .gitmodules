@@ -74178,3 +74178,7 @@
 	url = https://github.com/conda-forge/copier-templates-extensions-feedstock.git
 	path = feedstocks/copier-templates-extensions
 	branch = refs/heads/main
+[submodule "morphys"]
+	url = https://github.com/conda-forge/morphys-feedstock.git
+	path = feedstocks/morphys
+	branch = refs/heads/main
