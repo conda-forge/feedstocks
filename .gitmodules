@@ -74222,3 +74222,7 @@
 	url = https://github.com/conda-forge/animatplot-ng-feedstock.git
 	path = feedstocks/animatplot-ng
 	branch = refs/heads/main
+[submodule "grafana-client"]
+	url = https://github.com/conda-forge/grafana-client-feedstock.git
+	path = feedstocks/grafana-client
+	branch = refs/heads/main
