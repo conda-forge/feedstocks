@@ -74186,3 +74186,7 @@
 	url = https://github.com/conda-forge/py-geth-feedstock.git
 	path = feedstocks/py-geth
 	branch = refs/heads/main
+[submodule "rosbags"]
+	url = https://github.com/conda-forge/rosbags-feedstock.git
+	path = feedstocks/rosbags
+	branch = refs/heads/main
