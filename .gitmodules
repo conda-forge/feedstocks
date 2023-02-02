@@ -74202,3 +74202,7 @@
 	url = https://github.com/conda-forge/r-metamix-feedstock.git
 	path = feedstocks/r-metamix
 	branch = refs/heads/main
+[submodule "pygadm"]
+	url = https://github.com/conda-forge/pygadm-feedstock.git
+	path = feedstocks/pygadm
+	branch = refs/heads/main
