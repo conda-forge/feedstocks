@@ -74194,3 +74194,7 @@
 	url = https://github.com/conda-forge/libestools-feedstock.git
 	path = feedstocks/libestools
 	branch = refs/heads/main
+[submodule "pycolmap"]
+	url = https://github.com/conda-forge/pycolmap-feedstock.git
+	path = feedstocks/pycolmap
+	branch = refs/heads/main
