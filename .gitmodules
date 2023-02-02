@@ -74218,3 +74218,7 @@
 	url = https://github.com/conda-forge/interpret-feedstock.git
 	path = feedstocks/interpret
 	branch = refs/heads/main
+[submodule "animatplot-ng"]
+	url = https://github.com/conda-forge/animatplot-ng-feedstock.git
+	path = feedstocks/animatplot-ng
+	branch = refs/heads/main
