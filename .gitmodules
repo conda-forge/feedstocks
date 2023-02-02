@@ -74210,3 +74210,7 @@
 	url = https://github.com/conda-forge/pdal-parallelizer-feedstock.git
 	path = feedstocks/pdal-parallelizer
 	branch = refs/heads/main
+[submodule "interpret-core"]
+	url = https://github.com/conda-forge/interpret-core-feedstock.git
+	path = feedstocks/interpret-core
+	branch = refs/heads/main
