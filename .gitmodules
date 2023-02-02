@@ -74214,3 +74214,7 @@
 	url = https://github.com/conda-forge/interpret-core-feedstock.git
 	path = feedstocks/interpret-core
 	branch = refs/heads/main
+[submodule "interpret"]
+	url = https://github.com/conda-forge/interpret-feedstock.git
+	path = feedstocks/interpret
+	branch = refs/heads/main
