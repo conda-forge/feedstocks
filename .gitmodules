@@ -74190,3 +74190,7 @@
 	url = https://github.com/conda-forge/rosbags-feedstock.git
 	path = feedstocks/rosbags
 	branch = refs/heads/main
+[submodule "libestools"]
+	url = https://github.com/conda-forge/libestools-feedstock.git
+	path = feedstocks/libestools
+	branch = refs/heads/main
