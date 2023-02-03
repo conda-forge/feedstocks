@@ -74242,3 +74242,7 @@
 	url = https://github.com/conda-forge/trame-server-feedstock.git
 	path = feedstocks/trame-server
 	branch = refs/heads/main
+[submodule "trame-markdown"]
+	url = https://github.com/conda-forge/trame-markdown-feedstock.git
+	path = feedstocks/trame-markdown
+	branch = refs/heads/main
