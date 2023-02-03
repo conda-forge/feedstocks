@@ -74270,3 +74270,7 @@
 	url = https://github.com/conda-forge/trame-rca-feedstock.git
 	path = feedstocks/trame-rca
 	branch = refs/heads/main
+[submodule "trame-simput"]
+	url = https://github.com/conda-forge/trame-simput-feedstock.git
+	path = feedstocks/trame-simput
+	branch = refs/heads/main
