@@ -74238,3 +74238,7 @@
 	url = https://github.com/conda-forge/delta-spark-feedstock.git
 	path = feedstocks/delta-spark
 	branch = refs/heads/main
+[submodule "trame-server"]
+	url = https://github.com/conda-forge/trame-server-feedstock.git
+	path = feedstocks/trame-server
+	branch = refs/heads/main
