@@ -74262,3 +74262,7 @@
 	url = https://github.com/conda-forge/trame-feedstock.git
 	path = feedstocks/trame
 	branch = refs/heads/main
+[submodule "felyx-processor"]
+	url = https://github.com/conda-forge/felyx-processor-feedstock.git
+	path = feedstocks/felyx-processor
+	branch = refs/heads/main
