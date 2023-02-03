@@ -74254,3 +74254,7 @@
 	url = https://github.com/conda-forge/trame-client-feedstock.git
 	path = feedstocks/trame-client
 	branch = refs/heads/main
+[submodule "trame-vuetify"]
+	url = https://github.com/conda-forge/trame-vuetify-feedstock.git
+	path = feedstocks/trame-vuetify
+	branch = refs/heads/main
