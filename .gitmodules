@@ -74246,3 +74246,7 @@
 	url = https://github.com/conda-forge/trame-markdown-feedstock.git
 	path = feedstocks/trame-markdown
 	branch = refs/heads/main
+[submodule "trame-matplotlib"]
+	url = https://github.com/conda-forge/trame-matplotlib-feedstock.git
+	path = feedstocks/trame-matplotlib
+	branch = refs/heads/main
