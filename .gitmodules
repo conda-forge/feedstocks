@@ -74234,3 +74234,7 @@
 	url = https://github.com/conda-forge/felyx-report-feedstock.git
 	path = feedstocks/felyx-report
 	branch = refs/heads/main
+[submodule "delta-spark"]
+	url = https://github.com/conda-forge/delta-spark-feedstock.git
+	path = feedstocks/delta-spark
+	branch = refs/heads/main
