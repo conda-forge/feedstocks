@@ -74250,3 +74250,7 @@
 	url = https://github.com/conda-forge/trame-matplotlib-feedstock.git
 	path = feedstocks/trame-matplotlib
 	branch = refs/heads/main
+[submodule "trame-client"]
+	url = https://github.com/conda-forge/trame-client-feedstock.git
+	path = feedstocks/trame-client
+	branch = refs/heads/main
