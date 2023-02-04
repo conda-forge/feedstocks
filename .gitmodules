@@ -74302,3 +74302,7 @@
 	url = https://github.com/conda-forge/readthedocs-sphinx-ext-feedstock.git
 	path = feedstocks/readthedocs-sphinx-ext
 	branch = refs/heads/main
+[submodule "colourmap"]
+	url = https://github.com/conda-forge/colourmap-feedstock.git
+	path = feedstocks/colourmap
+	branch = refs/heads/main
