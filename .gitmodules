@@ -74306,3 +74306,7 @@
 	url = https://github.com/conda-forge/colourmap-feedstock.git
 	path = feedstocks/colourmap
 	branch = refs/heads/main
+[submodule "trame-plotly"]
+	url = https://github.com/conda-forge/trame-plotly-feedstock.git
+	path = feedstocks/trame-plotly
+	branch = refs/heads/main
