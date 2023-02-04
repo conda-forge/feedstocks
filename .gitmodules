@@ -74294,3 +74294,7 @@
 	url = https://github.com/conda-forge/trame-router-feedstock.git
 	path = feedstocks/trame-router
 	branch = refs/heads/main
+[submodule "trame-deckgl"]
+	url = https://github.com/conda-forge/trame-deckgl-feedstock.git
+	path = feedstocks/trame-deckgl
+	branch = refs/heads/main
