@@ -74290,3 +74290,7 @@
 	url = https://github.com/conda-forge/trame-vtk-feedstock.git
 	path = feedstocks/trame-vtk
 	branch = refs/heads/main
+[submodule "trame-router"]
+	url = https://github.com/conda-forge/trame-router-feedstock.git
+	path = feedstocks/trame-router
+	branch = refs/heads/main
