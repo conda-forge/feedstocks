@@ -74286,3 +74286,7 @@
 	url = https://github.com/conda-forge/dash-bootstrap-templates-feedstock.git
 	path = feedstocks/dash-bootstrap-templates
 	branch = refs/heads/main
+[submodule "trame-vtk"]
+	url = https://github.com/conda-forge/trame-vtk-feedstock.git
+	path = feedstocks/trame-vtk
+	branch = refs/heads/main
