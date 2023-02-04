@@ -74298,3 +74298,7 @@
 	url = https://github.com/conda-forge/trame-deckgl-feedstock.git
 	path = feedstocks/trame-deckgl
 	branch = refs/heads/main
+[submodule "readthedocs-sphinx-ext"]
+	url = https://github.com/conda-forge/readthedocs-sphinx-ext-feedstock.git
+	path = feedstocks/readthedocs-sphinx-ext
+	branch = refs/heads/main
