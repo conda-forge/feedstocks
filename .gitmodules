@@ -74314,3 +74314,7 @@
 	url = https://github.com/conda-forge/reportseff-feedstock.git
 	path = feedstocks/reportseff
 	branch = refs/heads/main
+[submodule "trame-components"]
+	url = https://github.com/conda-forge/trame-components-feedstock.git
+	path = feedstocks/trame-components
+	branch = refs/heads/main
