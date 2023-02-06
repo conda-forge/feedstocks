@@ -74318,3 +74318,7 @@
 	url = https://github.com/conda-forge/trame-components-feedstock.git
 	path = feedstocks/trame-components
 	branch = refs/heads/main
+[submodule "cerberecontrib-s3"]
+	url = https://github.com/conda-forge/cerberecontrib-s3-feedstock.git
+	path = feedstocks/cerberecontrib-s3
+	branch = refs/heads/main
