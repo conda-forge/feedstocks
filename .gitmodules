@@ -74330,3 +74330,7 @@
 	url = https://github.com/conda-forge/types-openpyxl-feedstock.git
 	path = feedstocks/types-openpyxl
 	branch = refs/heads/main
+[submodule "starlette-testclient"]
+	url = https://github.com/conda-forge/starlette-testclient-feedstock.git
+	path = feedstocks/starlette-testclient
+	branch = refs/heads/main
