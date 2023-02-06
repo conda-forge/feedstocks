@@ -74326,3 +74326,7 @@
 	url = https://github.com/conda-forge/buf-feedstock.git
 	path = feedstocks/buf
 	branch = refs/heads/main
+[submodule "types-openpyxl"]
+	url = https://github.com/conda-forge/types-openpyxl-feedstock.git
+	path = feedstocks/types-openpyxl
+	branch = refs/heads/main
