@@ -74322,3 +74322,7 @@
 	url = https://github.com/conda-forge/cerberecontrib-s3-feedstock.git
 	path = feedstocks/cerberecontrib-s3
 	branch = refs/heads/main
+[submodule "buf"]
+	url = https://github.com/conda-forge/buf-feedstock.git
+	path = feedstocks/buf
+	branch = refs/heads/main
