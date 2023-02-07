@@ -74390,3 +74390,7 @@
 	url = https://github.com/conda-forge/hws-feedstock.git
 	path = feedstocks/hws
 	branch = refs/heads/main
+[submodule "tableschema-to-template"]
+	url = https://github.com/conda-forge/tableschema-to-template-feedstock.git
+	path = feedstocks/tableschema-to-template
+	branch = refs/heads/main
