@@ -74354,3 +74354,7 @@
 	url = https://github.com/conda-forge/imodels-feedstock.git
 	path = feedstocks/imodels
 	branch = refs/heads/main
+[submodule "fastai"]
+	url = https://github.com/conda-forge/fastai-feedstock.git
+	path = feedstocks/fastai
+	branch = refs/heads/main
