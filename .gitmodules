@@ -74374,3 +74374,7 @@
 	url = https://github.com/conda-forge/zarr-checksum-feedstock.git
 	path = feedstocks/zarr-checksum
 	branch = refs/heads/main
+[submodule "sphinxcontrib-youtube"]
+	url = https://github.com/conda-forge/sphinxcontrib-youtube-feedstock.git
+	path = feedstocks/sphinxcontrib-youtube
+	branch = refs/heads/main
