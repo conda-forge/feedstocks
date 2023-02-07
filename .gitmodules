@@ -74350,3 +74350,7 @@
 	url = https://github.com/conda-forge/fastdownload-feedstock.git
 	path = feedstocks/fastdownload
 	branch = refs/heads/main
+[submodule "imodels"]
+	url = https://github.com/conda-forge/imodels-feedstock.git
+	path = feedstocks/imodels
+	branch = refs/heads/main
