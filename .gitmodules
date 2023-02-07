@@ -74386,3 +74386,7 @@
 	url = https://github.com/conda-forge/actinia-python-client-feedstock.git
 	path = feedstocks/actinia-python-client
 	branch = refs/heads/main
+[submodule "hws"]
+	url = https://github.com/conda-forge/hws-feedstock.git
+	path = feedstocks/hws
+	branch = refs/heads/main
