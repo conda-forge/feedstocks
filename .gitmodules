@@ -74394,3 +74394,7 @@
 	url = https://github.com/conda-forge/tableschema-to-template-feedstock.git
 	path = feedstocks/tableschema-to-template
 	branch = refs/heads/main
+[submodule "fast_matrix_market"]
+	url = https://github.com/conda-forge/fast_matrix_market-feedstock.git
+	path = feedstocks/fast_matrix_market
+	branch = refs/heads/main
