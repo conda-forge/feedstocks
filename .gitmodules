@@ -74378,3 +74378,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-youtube-feedstock.git
 	path = feedstocks/sphinxcontrib-youtube
 	branch = refs/heads/main
+[submodule "refinitiv-data"]
+	url = https://github.com/conda-forge/refinitiv-data-feedstock.git
+	path = feedstocks/refinitiv-data
+	branch = refs/heads/main
