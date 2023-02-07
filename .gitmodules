@@ -74370,3 +74370,7 @@
 	url = https://github.com/conda-forge/geohexviz-feedstock.git
 	path = feedstocks/geohexviz
 	branch = refs/heads/main
+[submodule "zarr-checksum"]
+	url = https://github.com/conda-forge/zarr-checksum-feedstock.git
+	path = feedstocks/zarr-checksum
+	branch = refs/heads/main
