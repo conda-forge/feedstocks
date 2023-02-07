@@ -74358,3 +74358,7 @@
 	url = https://github.com/conda-forge/fastai-feedstock.git
 	path = feedstocks/fastai
 	branch = refs/heads/main
+[submodule "flet-core"]
+	url = https://github.com/conda-forge/flet-core-feedstock.git
+	path = feedstocks/flet-core
+	branch = refs/heads/main
