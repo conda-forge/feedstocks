@@ -74334,3 +74334,7 @@
 	url = https://github.com/conda-forge/starlette-testclient-feedstock.git
 	path = feedstocks/starlette-testclient
 	branch = refs/heads/main
+[submodule "pyceres"]
+	url = https://github.com/conda-forge/pyceres-feedstock.git
+	path = feedstocks/pyceres
+	branch = refs/heads/main
