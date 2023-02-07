@@ -74382,3 +74382,7 @@
 	url = https://github.com/conda-forge/refinitiv-data-feedstock.git
 	path = feedstocks/refinitiv-data
 	branch = refs/heads/main
+[submodule "actinia-python-client"]
+	url = https://github.com/conda-forge/actinia-python-client-feedstock.git
+	path = feedstocks/actinia-python-client
+	branch = refs/heads/main
