@@ -74338,3 +74338,7 @@
 	url = https://github.com/conda-forge/pyceres-feedstock.git
 	path = feedstocks/pyceres
 	branch = refs/heads/main
+[submodule "pytest-pudb"]
+	url = https://github.com/conda-forge/pytest-pudb-feedstock.git
+	path = feedstocks/pytest-pudb
+	branch = refs/heads/main
