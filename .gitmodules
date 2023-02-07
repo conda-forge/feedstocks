@@ -74346,3 +74346,7 @@
 	url = https://github.com/conda-forge/sdgym-feedstock.git
 	path = feedstocks/sdgym
 	branch = refs/heads/main
+[submodule "fastdownload"]
+	url = https://github.com/conda-forge/fastdownload-feedstock.git
+	path = feedstocks/fastdownload
+	branch = refs/heads/main
