@@ -74362,3 +74362,7 @@
 	url = https://github.com/conda-forge/flet-core-feedstock.git
 	path = feedstocks/flet-core
 	branch = refs/heads/main
+[submodule "causalegm"]
+	url = https://github.com/conda-forge/causalegm-feedstock.git
+	path = feedstocks/causalegm
+	branch = refs/heads/main
