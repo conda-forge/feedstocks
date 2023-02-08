@@ -74474,3 +74474,7 @@
 	url = https://github.com/conda-forge/pyxpcm-feedstock.git
 	path = feedstocks/pyxpcm
 	branch = refs/heads/main
+[submodule "hdx-python-country"]
+	url = https://github.com/conda-forge/hdx-python-country-feedstock.git
+	path = feedstocks/hdx-python-country
+	branch = refs/heads/main
