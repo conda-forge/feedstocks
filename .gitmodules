@@ -74414,3 +74414,7 @@
 	url = https://github.com/conda-forge/zstash-feedstock.git
 	path = feedstocks/zstash
 	branch = refs/heads/main
+[submodule "zppy"]
+	url = https://github.com/conda-forge/zppy-feedstock.git
+	path = feedstocks/zppy
+	branch = refs/heads/main
