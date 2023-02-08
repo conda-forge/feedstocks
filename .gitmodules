@@ -74442,3 +74442,7 @@
 	url = https://github.com/conda-forge/ap_features-feedstock.git
 	path = feedstocks/ap_features
 	branch = refs/heads/main
+[submodule "popfinder"]
+	url = https://github.com/conda-forge/popfinder-feedstock.git
+	path = feedstocks/popfinder
+	branch = refs/heads/main
