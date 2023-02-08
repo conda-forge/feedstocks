@@ -74406,3 +74406,7 @@
 	url = https://github.com/conda-forge/zipline-reloaded-feedstock.git
 	path = feedstocks/zipline-reloaded
 	branch = refs/heads/main
+[submodule "pyquokka"]
+	url = https://github.com/conda-forge/pyquokka-feedstock.git
+	path = feedstocks/pyquokka
+	branch = refs/heads/main
