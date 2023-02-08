@@ -74422,3 +74422,7 @@
 	url = https://github.com/conda-forge/hdx-python-utilities-feedstock.git
 	path = feedstocks/hdx-python-utilities
 	branch = refs/heads/main
+[submodule "pudu"]
+	url = https://github.com/conda-forge/pudu-feedstock.git
+	path = feedstocks/pudu
+	branch = refs/heads/main
