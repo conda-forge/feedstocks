@@ -74398,3 +74398,7 @@
 	url = https://github.com/conda-forge/fast_matrix_market-feedstock.git
 	path = feedstocks/fast_matrix_market
 	branch = refs/heads/main
+[submodule "publicsuffixlist"]
+	url = https://github.com/conda-forge/publicsuffixlist-feedstock.git
+	path = feedstocks/publicsuffixlist
+	branch = refs/heads/main
