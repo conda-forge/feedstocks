@@ -74410,3 +74410,7 @@
 	url = https://github.com/conda-forge/pyquokka-feedstock.git
 	path = feedstocks/pyquokka
 	branch = refs/heads/main
+[submodule "zstash"]
+	url = https://github.com/conda-forge/zstash-feedstock.git
+	path = feedstocks/zstash
+	branch = refs/heads/main
