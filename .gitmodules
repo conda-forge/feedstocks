@@ -74434,3 +74434,7 @@
 	url = https://github.com/conda-forge/python-zlib-ng-feedstock.git
 	path = feedstocks/python-zlib-ng
 	branch = refs/heads/main
+[submodule "libde265"]
+	url = https://github.com/conda-forge/libde265-feedstock.git
+	path = feedstocks/libde265
+	branch = refs/heads/main
