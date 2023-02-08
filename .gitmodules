@@ -74438,3 +74438,7 @@
 	url = https://github.com/conda-forge/libde265-feedstock.git
 	path = feedstocks/libde265
 	branch = refs/heads/main
+[submodule "ap_features"]
+	url = https://github.com/conda-forge/ap_features-feedstock.git
+	path = feedstocks/ap_features
+	branch = refs/heads/main
