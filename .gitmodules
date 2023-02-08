@@ -74430,3 +74430,7 @@
 	url = https://github.com/conda-forge/dargparser-feedstock.git
 	path = feedstocks/dargparser
 	branch = refs/heads/main
+[submodule "python-zlib-ng"]
+	url = https://github.com/conda-forge/python-zlib-ng-feedstock.git
+	path = feedstocks/python-zlib-ng
+	branch = refs/heads/main
