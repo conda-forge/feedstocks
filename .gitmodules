@@ -74462,3 +74462,7 @@
 	url = https://github.com/conda-forge/dhall-python-feedstock.git
 	path = feedstocks/dhall-python
 	branch = refs/heads/main
+[submodule "pyfolio-reloaded"]
+	url = https://github.com/conda-forge/pyfolio-reloaded-feedstock.git
+	path = feedstocks/pyfolio-reloaded
+	branch = refs/heads/main
