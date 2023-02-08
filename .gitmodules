@@ -74458,3 +74458,7 @@
 	url = https://github.com/conda-forge/gettsim-feedstock.git
 	path = feedstocks/gettsim
 	branch = refs/heads/main
+[submodule "dhall-python"]
+	url = https://github.com/conda-forge/dhall-python-feedstock.git
+	path = feedstocks/dhall-python
+	branch = refs/heads/main
