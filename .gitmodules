@@ -74426,3 +74426,7 @@
 	url = https://github.com/conda-forge/pudu-feedstock.git
 	path = feedstocks/pudu
 	branch = refs/heads/main
+[submodule "dargparser"]
+	url = https://github.com/conda-forge/dargparser-feedstock.git
+	path = feedstocks/dargparser
+	branch = refs/heads/main
