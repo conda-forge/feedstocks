@@ -74446,3 +74446,7 @@
 	url = https://github.com/conda-forge/popfinder-feedstock.git
 	path = feedstocks/popfinder
 	branch = refs/heads/main
+[submodule "gradio"]
+	url = https://github.com/conda-forge/gradio-feedstock.git
+	path = feedstocks/gradio
+	branch = refs/heads/main
