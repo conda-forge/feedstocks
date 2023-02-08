@@ -74450,3 +74450,7 @@
 	url = https://github.com/conda-forge/gradio-feedstock.git
 	path = feedstocks/gradio
 	branch = refs/heads/main
+[submodule "cmpitool"]
+	url = https://github.com/conda-forge/cmpitool-feedstock.git
+	path = feedstocks/cmpitool
+	branch = refs/heads/main
