@@ -74418,3 +74418,7 @@
 	url = https://github.com/conda-forge/zppy-feedstock.git
 	path = feedstocks/zppy
 	branch = refs/heads/main
+[submodule "hdx-python-utilities"]
+	url = https://github.com/conda-forge/hdx-python-utilities-feedstock.git
+	path = feedstocks/hdx-python-utilities
+	branch = refs/heads/main
