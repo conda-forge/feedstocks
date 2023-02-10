@@ -74562,3 +74562,7 @@
 	url = https://github.com/conda-forge/openeo-feedstock.git
 	path = feedstocks/openeo
 	branch = refs/heads/main
+[submodule "trackintel"]
+	url = https://github.com/conda-forge/trackintel-feedstock.git
+	path = feedstocks/trackintel
+	branch = refs/heads/main
