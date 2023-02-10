@@ -74570,3 +74570,7 @@
 	url = https://github.com/conda-forge/modelparameters-feedstock.git
 	path = feedstocks/modelparameters
 	branch = refs/heads/main
+[submodule "dolfinx_mpc"]
+	url = https://github.com/conda-forge/dolfinx_mpc-feedstock.git
+	path = feedstocks/dolfinx_mpc
+	branch = refs/heads/main
