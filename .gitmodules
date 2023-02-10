@@ -74538,3 +74538,7 @@
 	url = https://github.com/conda-forge/mdformat-myst-feedstock.git
 	path = feedstocks/mdformat-myst
 	branch = refs/heads/main
+[submodule "rst-to-myst"]
+	url = https://github.com/conda-forge/rst-to-myst-feedstock.git
+	path = feedstocks/rst-to-myst
+	branch = refs/heads/main
