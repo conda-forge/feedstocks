@@ -74530,3 +74530,7 @@
 	url = https://github.com/conda-forge/mdformat-deflist-feedstock.git
 	path = feedstocks/mdformat-deflist
 	branch = refs/heads/main
+[submodule "mdformat-tables"]
+	url = https://github.com/conda-forge/mdformat-tables-feedstock.git
+	path = feedstocks/mdformat-tables
+	branch = refs/heads/main
