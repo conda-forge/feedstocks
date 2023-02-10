@@ -74522,3 +74522,7 @@
 	url = https://github.com/conda-forge/rvc3python-feedstock.git
 	path = feedstocks/rvc3python
 	branch = refs/heads/main
+[submodule "mdformat-frontmatter"]
+	url = https://github.com/conda-forge/mdformat-frontmatter-feedstock.git
+	path = feedstocks/mdformat-frontmatter
+	branch = refs/heads/main
