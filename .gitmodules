@@ -74502,3 +74502,7 @@
 	url = https://github.com/conda-forge/plux-feedstock.git
 	path = feedstocks/plux
 	branch = refs/heads/main
+[submodule "pyiron_ontology"]
+	url = https://github.com/conda-forge/pyiron_ontology-feedstock.git
+	path = feedstocks/pyiron_ontology
+	branch = refs/heads/main
