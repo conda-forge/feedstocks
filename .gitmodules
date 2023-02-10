@@ -74558,3 +74558,7 @@
 	url = https://github.com/conda-forge/r-salso-feedstock.git
 	path = feedstocks/r-salso
 	branch = refs/heads/main
+[submodule "openeo"]
+	url = https://github.com/conda-forge/openeo-feedstock.git
+	path = feedstocks/openeo
+	branch = refs/heads/main
