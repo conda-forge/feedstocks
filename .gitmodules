@@ -74566,3 +74566,7 @@
 	url = https://github.com/conda-forge/trackintel-feedstock.git
 	path = feedstocks/trackintel
 	branch = refs/heads/main
+[submodule "modelparameters"]
+	url = https://github.com/conda-forge/modelparameters-feedstock.git
+	path = feedstocks/modelparameters
+	branch = refs/heads/main
