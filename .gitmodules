@@ -74506,3 +74506,7 @@
 	url = https://github.com/conda-forge/pyiron_ontology-feedstock.git
 	path = feedstocks/pyiron_ontology
 	branch = refs/heads/main
+[submodule "hdx-python-api"]
+	url = https://github.com/conda-forge/hdx-python-api-feedstock.git
+	path = feedstocks/hdx-python-api
+	branch = refs/heads/main
