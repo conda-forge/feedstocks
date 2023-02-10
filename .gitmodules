@@ -74542,3 +74542,7 @@
 	url = https://github.com/conda-forge/rst-to-myst-feedstock.git
 	path = feedstocks/rst-to-myst
 	branch = refs/heads/main
+[submodule "flake8-to-ruff"]
+	url = https://github.com/conda-forge/flake8-to-ruff-feedstock.git
+	path = feedstocks/flake8-to-ruff
+	branch = refs/heads/main
