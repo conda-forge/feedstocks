@@ -74534,3 +74534,7 @@
 	url = https://github.com/conda-forge/mdformat-tables-feedstock.git
 	path = feedstocks/mdformat-tables
 	branch = refs/heads/main
+[submodule "mdformat-myst"]
+	url = https://github.com/conda-forge/mdformat-myst-feedstock.git
+	path = feedstocks/mdformat-myst
+	branch = refs/heads/main
