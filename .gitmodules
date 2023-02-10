@@ -74574,3 +74574,7 @@
 	url = https://github.com/conda-forge/dolfinx_mpc-feedstock.git
 	path = feedstocks/dolfinx_mpc
 	branch = refs/heads/main
+[submodule "kt-legacy"]
+	url = https://github.com/conda-forge/kt-legacy-feedstock.git
+	path = feedstocks/kt-legacy
+	branch = refs/heads/main
