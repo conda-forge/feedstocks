@@ -74554,3 +74554,7 @@
 	url = https://github.com/conda-forge/r-intrinsic-feedstock.git
 	path = feedstocks/r-intrinsic
 	branch = refs/heads/main
+[submodule "r-salso"]
+	url = https://github.com/conda-forge/r-salso-feedstock.git
+	path = feedstocks/r-salso
+	branch = refs/heads/main
