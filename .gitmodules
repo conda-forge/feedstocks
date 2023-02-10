@@ -74550,3 +74550,7 @@
 	url = https://github.com/conda-forge/r-ggspatial-feedstock.git
 	path = feedstocks/r-ggspatial
 	branch = refs/heads/main
+[submodule "r-intrinsic"]
+	url = https://github.com/conda-forge/r-intrinsic-feedstock.git
+	path = feedstocks/r-intrinsic
+	branch = refs/heads/main
