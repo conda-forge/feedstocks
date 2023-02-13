@@ -74594,3 +74594,7 @@
 	url = https://github.com/conda-forge/auditwheel-emscripten-feedstock.git
 	path = feedstocks/auditwheel-emscripten
 	branch = refs/heads/main
+[submodule "pyodide-cli"]
+	url = https://github.com/conda-forge/pyodide-cli-feedstock.git
+	path = feedstocks/pyodide-cli
+	branch = refs/heads/main
