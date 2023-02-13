@@ -74634,3 +74634,7 @@
 	url = https://github.com/conda-forge/protex-feedstock.git
 	path = feedstocks/protex
 	branch = refs/heads/main
+[submodule "google-cloud-dataflow-client"]
+	url = https://github.com/conda-forge/google-cloud-dataflow-client-feedstock.git
+	path = feedstocks/google-cloud-dataflow-client
+	branch = refs/heads/main
