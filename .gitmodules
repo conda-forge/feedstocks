@@ -74582,3 +74582,7 @@
 	url = https://github.com/conda-forge/autodoc-traits-feedstock.git
 	path = feedstocks/autodoc-traits
 	branch = refs/heads/main
+[submodule "pyodide-build"]
+	url = https://github.com/conda-forge/pyodide-build-feedstock.git
+	path = feedstocks/pyodide-build
+	branch = refs/heads/main
