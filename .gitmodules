@@ -74610,3 +74610,7 @@
 	url = https://github.com/conda-forge/scenepic-feedstock.git
 	path = feedstocks/scenepic
 	branch = refs/heads/main
+[submodule "sphinx-multiversion"]
+	url = https://github.com/conda-forge/sphinx-multiversion-feedstock.git
+	path = feedstocks/sphinx-multiversion
+	branch = refs/heads/main
