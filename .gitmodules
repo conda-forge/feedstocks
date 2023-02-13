@@ -74622,3 +74622,7 @@
 	url = https://github.com/conda-forge/irispy-lmsal-feedstock.git
 	path = feedstocks/irispy-lmsal
 	branch = refs/heads/main
+[submodule "gotran"]
+	url = https://github.com/conda-forge/gotran-feedstock.git
+	path = feedstocks/gotran
+	branch = refs/heads/main
