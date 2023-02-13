@@ -74646,3 +74646,7 @@
 	url = https://github.com/conda-forge/opentelemetry-distro-feedstock.git
 	path = feedstocks/opentelemetry-distro
 	branch = refs/heads/main
+[submodule "leocad"]
+	url = https://github.com/conda-forge/leocad-feedstock.git
+	path = feedstocks/leocad
+	branch = refs/heads/main
