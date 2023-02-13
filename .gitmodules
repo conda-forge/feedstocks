@@ -74642,3 +74642,7 @@
 	url = https://github.com/conda-forge/nautilus-sampler-feedstock.git
 	path = feedstocks/nautilus-sampler
 	branch = refs/heads/main
+[submodule "opentelemetry-distro"]
+	url = https://github.com/conda-forge/opentelemetry-distro-feedstock.git
+	path = feedstocks/opentelemetry-distro
+	branch = refs/heads/main
