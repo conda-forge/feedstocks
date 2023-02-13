@@ -74578,3 +74578,7 @@
 	url = https://github.com/conda-forge/kt-legacy-feedstock.git
 	path = feedstocks/kt-legacy
 	branch = refs/heads/main
+[submodule "autodoc-traits"]
+	url = https://github.com/conda-forge/autodoc-traits-feedstock.git
+	path = feedstocks/autodoc-traits
+	branch = refs/heads/main
