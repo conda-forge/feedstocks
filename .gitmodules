@@ -74586,3 +74586,7 @@
 	url = https://github.com/conda-forge/pyodide-build-feedstock.git
 	path = feedstocks/pyodide-build
 	branch = refs/heads/main
+[submodule "leb128"]
+	url = https://github.com/conda-forge/leb128-feedstock.git
+	path = feedstocks/leb128
+	branch = refs/heads/main
