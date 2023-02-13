@@ -74602,3 +74602,7 @@
 	url = https://github.com/conda-forge/r-memisc-feedstock.git
 	path = feedstocks/r-memisc
 	branch = refs/heads/main
+[submodule "echopy"]
+	url = https://github.com/conda-forge/echopy-feedstock.git
+	path = feedstocks/echopy
+	branch = refs/heads/main
