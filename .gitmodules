@@ -74590,3 +74590,7 @@
 	url = https://github.com/conda-forge/leb128-feedstock.git
 	path = feedstocks/leb128
 	branch = refs/heads/main
+[submodule "auditwheel-emscripten"]
+	url = https://github.com/conda-forge/auditwheel-emscripten-feedstock.git
+	path = feedstocks/auditwheel-emscripten
+	branch = refs/heads/main
