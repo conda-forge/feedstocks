@@ -74626,3 +74626,7 @@
 	url = https://github.com/conda-forge/gotran-feedstock.git
 	path = feedstocks/gotran
 	branch = refs/heads/main
+[submodule "pdbinf"]
+	url = https://github.com/conda-forge/pdbinf-feedstock.git
+	path = feedstocks/pdbinf
+	branch = refs/heads/main
