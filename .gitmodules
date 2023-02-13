@@ -74614,3 +74614,7 @@
 	url = https://github.com/conda-forge/sphinx-multiversion-feedstock.git
 	path = feedstocks/sphinx-multiversion
 	branch = refs/heads/main
+[submodule "pycatch22"]
+	url = https://github.com/conda-forge/pycatch22-feedstock.git
+	path = feedstocks/pycatch22
+	branch = refs/heads/main
