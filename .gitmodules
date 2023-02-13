@@ -74598,3 +74598,7 @@
 	url = https://github.com/conda-forge/pyodide-cli-feedstock.git
 	path = feedstocks/pyodide-cli
 	branch = refs/heads/main
+[submodule "r-memisc"]
+	url = https://github.com/conda-forge/r-memisc-feedstock.git
+	path = feedstocks/r-memisc
+	branch = refs/heads/main
