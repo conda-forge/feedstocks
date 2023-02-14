@@ -74658,3 +74658,7 @@
 	url = https://github.com/conda-forge/qiskit-aer-feedstock.git
 	path = feedstocks/qiskit-aer
 	branch = refs/heads/main
+[submodule "mercury"]
+	url = https://github.com/conda-forge/mercury-feedstock.git
+	path = feedstocks/mercury
+	branch = refs/heads/main
