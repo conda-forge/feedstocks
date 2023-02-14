@@ -74654,3 +74654,7 @@
 	url = https://github.com/conda-forge/muparserx-feedstock.git
 	path = feedstocks/muparserx
 	branch = refs/heads/main
+[submodule "qiskit-aer"]
+	url = https://github.com/conda-forge/qiskit-aer-feedstock.git
+	path = feedstocks/qiskit-aer
+	branch = refs/heads/main
