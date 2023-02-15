@@ -74670,3 +74670,7 @@
 	url = https://github.com/conda-forge/pylbl-feedstock.git
 	path = feedstocks/pylbl
 	branch = refs/heads/main
+[submodule "conda-forge-feedstock-check-solvable"]
+	url = https://github.com/conda-forge/conda-forge-feedstock-check-solvable-feedstock.git
+	path = feedstocks/conda-forge-feedstock-check-solvable
+	branch = refs/heads/main
