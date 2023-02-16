@@ -74706,3 +74706,7 @@
 	url = https://github.com/conda-forge/publicsuffix-feedstock.git
 	path = feedstocks/publicsuffix
 	branch = refs/heads/main
+[submodule "r-networklite"]
+	url = https://github.com/conda-forge/r-networklite-feedstock.git
+	path = feedstocks/r-networklite
+	branch = refs/heads/main
