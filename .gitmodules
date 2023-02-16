@@ -74686,3 +74686,7 @@
 	url = https://github.com/conda-forge/grand-feedstock.git
 	path = feedstocks/grand
 	branch = refs/heads/main
+[submodule "bitvector"]
+	url = https://github.com/conda-forge/bitvector-feedstock.git
+	path = feedstocks/bitvector
+	branch = refs/heads/main
