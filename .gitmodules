@@ -74718,3 +74718,7 @@
 	url = https://github.com/conda-forge/asyncache-feedstock.git
 	path = feedstocks/asyncache
 	branch = refs/heads/main
+[submodule "openff-nagl"]
+	url = https://github.com/conda-forge/openff-nagl-feedstock.git
+	path = feedstocks/openff-nagl
+	branch = refs/heads/main
