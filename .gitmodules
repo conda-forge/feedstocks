@@ -74702,3 +74702,7 @@
 	url = https://github.com/conda-forge/pyspf-feedstock.git
 	path = feedstocks/pyspf
 	branch = refs/heads/main
+[submodule "publicsuffix"]
+	url = https://github.com/conda-forge/publicsuffix-feedstock.git
+	path = feedstocks/publicsuffix
+	branch = refs/heads/main
