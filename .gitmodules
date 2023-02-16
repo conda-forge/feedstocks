@@ -74698,3 +74698,7 @@
 	url = https://github.com/conda-forge/itksn-feedstock.git
 	path = feedstocks/itksn
 	branch = refs/heads/main
+[submodule "pyspf"]
+	url = https://github.com/conda-forge/pyspf-feedstock.git
+	path = feedstocks/pyspf
+	branch = refs/heads/main
