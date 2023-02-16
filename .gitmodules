@@ -74690,3 +74690,7 @@
 	url = https://github.com/conda-forge/bitvector-feedstock.git
 	path = feedstocks/bitvector
 	branch = refs/heads/main
+[submodule "keyrings.google-artifactregistry-auth"]
+	url = https://github.com/conda-forge/keyrings.google-artifactregistry-auth-feedstock.git
+	path = feedstocks/keyrings.google-artifactregistry-auth
+	branch = refs/heads/main
