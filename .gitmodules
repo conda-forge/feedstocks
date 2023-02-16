@@ -74694,3 +74694,7 @@
 	url = https://github.com/conda-forge/keyrings.google-artifactregistry-auth-feedstock.git
 	path = feedstocks/keyrings.google-artifactregistry-auth
 	branch = refs/heads/main
+[submodule "itksn"]
+	url = https://github.com/conda-forge/itksn-feedstock.git
+	path = feedstocks/itksn
+	branch = refs/heads/main
