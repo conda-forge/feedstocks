@@ -74710,3 +74710,7 @@
 	url = https://github.com/conda-forge/r-networklite-feedstock.git
 	path = feedstocks/r-networklite
 	branch = refs/heads/main
+[submodule "cubo"]
+	url = https://github.com/conda-forge/cubo-feedstock.git
+	path = feedstocks/cubo
+	branch = refs/heads/main
