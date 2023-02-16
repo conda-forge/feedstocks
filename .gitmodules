@@ -74714,3 +74714,7 @@
 	url = https://github.com/conda-forge/cubo-feedstock.git
 	path = feedstocks/cubo
 	branch = refs/heads/main
+[submodule "asyncache"]
+	url = https://github.com/conda-forge/asyncache-feedstock.git
+	path = feedstocks/asyncache
+	branch = refs/heads/main
