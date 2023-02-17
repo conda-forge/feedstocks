@@ -74742,3 +74742,7 @@
 	url = https://github.com/conda-forge/auto-intersphinx-feedstock.git
 	path = feedstocks/auto-intersphinx
 	branch = refs/heads/main
+[submodule "cuda-version"]
+	url = https://github.com/conda-forge/cuda-version-feedstock.git
+	path = feedstocks/cuda-version
+	branch = refs/heads/main
