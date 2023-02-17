@@ -74722,3 +74722,7 @@
 	url = https://github.com/conda-forge/openff-nagl-feedstock.git
 	path = feedstocks/openff-nagl
 	branch = refs/heads/main
+[submodule "arrow-adbc-split"]
+	url = https://github.com/conda-forge/arrow-adbc-split-feedstock.git
+	path = feedstocks/arrow-adbc-split
+	branch = refs/heads/main
