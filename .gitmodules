@@ -74746,3 +74746,7 @@
 	url = https://github.com/conda-forge/cuda-version-feedstock.git
 	path = feedstocks/cuda-version
 	branch = refs/heads/main
+[submodule "quetz-sql-authenticator"]
+	url = https://github.com/conda-forge/quetz-sql-authenticator-feedstock.git
+	path = feedstocks/quetz-sql-authenticator
+	branch = refs/heads/main
