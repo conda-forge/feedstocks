@@ -74738,3 +74738,7 @@
 	url = https://github.com/conda-forge/pymovements-feedstock.git
 	path = feedstocks/pymovements
 	branch = refs/heads/main
+[submodule "auto-intersphinx"]
+	url = https://github.com/conda-forge/auto-intersphinx-feedstock.git
+	path = feedstocks/auto-intersphinx
+	branch = refs/heads/main
