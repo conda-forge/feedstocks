@@ -74750,3 +74750,7 @@
 	url = https://github.com/conda-forge/quetz-sql-authenticator-feedstock.git
 	path = feedstocks/quetz-sql-authenticator
 	branch = refs/heads/main
+[submodule "tacco"]
+	url = https://github.com/conda-forge/tacco-feedstock.git
+	path = feedstocks/tacco
+	branch = refs/heads/main
