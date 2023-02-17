@@ -74734,3 +74734,7 @@
 	url = https://github.com/conda-forge/qibolab-feedstock.git
 	path = feedstocks/qibolab
 	branch = refs/heads/main
+[submodule "pymovements"]
+	url = https://github.com/conda-forge/pymovements-feedstock.git
+	path = feedstocks/pymovements
+	branch = refs/heads/main
