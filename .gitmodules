@@ -74726,3 +74726,7 @@
 	url = https://github.com/conda-forge/arrow-adbc-split-feedstock.git
 	path = feedstocks/arrow-adbc-split
 	branch = refs/heads/main
+[submodule "instaloader"]
+	url = https://github.com/conda-forge/instaloader-feedstock.git
+	path = feedstocks/instaloader
+	branch = refs/heads/main
