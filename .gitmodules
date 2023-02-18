@@ -74762,3 +74762,7 @@
 	url = https://github.com/conda-forge/des-montara-feedstock.git
 	path = feedstocks/des-montara
 	branch = refs/heads/main
+[submodule "vulkan-loader"]
+	url = https://github.com/conda-forge/vulkan-loader-feedstock.git
+	path = feedstocks/vulkan-loader
+	branch = refs/heads/main
