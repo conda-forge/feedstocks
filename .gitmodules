@@ -74754,3 +74754,7 @@
 	url = https://github.com/conda-forge/tacco-feedstock.git
 	path = feedstocks/tacco
 	branch = refs/heads/main
+[submodule "mitmproxy_wireguard"]
+	url = https://github.com/conda-forge/mitmproxy_wireguard-feedstock.git
+	path = feedstocks/mitmproxy_wireguard
+	branch = refs/heads/main
