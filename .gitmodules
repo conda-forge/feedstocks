@@ -74786,3 +74786,7 @@
 	url = https://github.com/conda-forge/datamodel-code-generator-feedstock.git
 	path = feedstocks/datamodel-code-generator
 	branch = refs/heads/main
+[submodule "openphase"]
+	url = https://github.com/conda-forge/openphase-feedstock.git
+	path = feedstocks/openphase
+	branch = refs/heads/main
