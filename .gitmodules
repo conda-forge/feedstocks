@@ -74782,3 +74782,7 @@
 	url = https://github.com/conda-forge/riccati-feedstock.git
 	path = feedstocks/riccati
 	branch = refs/heads/main
+[submodule "datamodel-code-generator"]
+	url = https://github.com/conda-forge/datamodel-code-generator-feedstock.git
+	path = feedstocks/datamodel-code-generator
+	branch = refs/heads/main
