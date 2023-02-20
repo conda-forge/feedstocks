@@ -74774,3 +74774,7 @@
 	url = https://github.com/conda-forge/xymol-feedstock.git
 	path = feedstocks/xymol
 	branch = refs/heads/main
+[submodule "libheif"]
+	url = https://github.com/conda-forge/libheif-feedstock.git
+	path = feedstocks/libheif
+	branch = refs/heads/main
