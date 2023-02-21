@@ -74794,3 +74794,7 @@
 	url = https://github.com/conda-forge/r-sever-feedstock.git
 	path = feedstocks/r-sever
 	branch = refs/heads/main
+[submodule "r-multilevelmod"]
+	url = https://github.com/conda-forge/r-multilevelmod-feedstock.git
+	path = feedstocks/r-multilevelmod
+	branch = refs/heads/main
