@@ -74802,3 +74802,7 @@
 	url = https://github.com/conda-forge/napari-large-image-importer-feedstock.git
 	path = feedstocks/napari-large-image-importer
 	branch = refs/heads/main
+[submodule "units"]
+	url = https://github.com/conda-forge/units-feedstock.git
+	path = feedstocks/units
+	branch = refs/heads/main
