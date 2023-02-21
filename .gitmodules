@@ -74790,3 +74790,7 @@
 	url = https://github.com/conda-forge/openphase-feedstock.git
 	path = feedstocks/openphase
 	branch = refs/heads/main
+[submodule "r-sever"]
+	url = https://github.com/conda-forge/r-sever-feedstock.git
+	path = feedstocks/r-sever
+	branch = refs/heads/main
