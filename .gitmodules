@@ -74798,3 +74798,7 @@
 	url = https://github.com/conda-forge/r-multilevelmod-feedstock.git
 	path = feedstocks/r-multilevelmod
 	branch = refs/heads/main
+[submodule "napari-large-image-importer"]
+	url = https://github.com/conda-forge/napari-large-image-importer-feedstock.git
+	path = feedstocks/napari-large-image-importer
+	branch = refs/heads/main
