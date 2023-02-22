@@ -74826,3 +74826,7 @@
 	url = https://github.com/conda-forge/pyre-extensions-feedstock.git
 	path = feedstocks/pyre-extensions
 	branch = refs/heads/main
+[submodule "xformers"]
+	url = https://github.com/conda-forge/xformers-feedstock.git
+	path = feedstocks/xformers
+	branch = refs/heads/main
