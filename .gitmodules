@@ -74814,3 +74814,7 @@
 	url = https://github.com/conda-forge/wayland-feedstock.git
 	path = feedstocks/wayland
 	branch = refs/heads/main
+[submodule "xorg-libxxf86vm"]
+	url = https://github.com/conda-forge/xorg-libxxf86vm-feedstock.git
+	path = feedstocks/xorg-libxxf86vm
+	branch = refs/heads/main
