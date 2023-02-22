@@ -74810,3 +74810,7 @@
 	url = https://github.com/conda-forge/libuwebsockets-feedstock.git
 	path = feedstocks/libuwebsockets
 	branch = refs/heads/main
+[submodule "wayland"]
+	url = https://github.com/conda-forge/wayland-feedstock.git
+	path = feedstocks/wayland
+	branch = refs/heads/main
