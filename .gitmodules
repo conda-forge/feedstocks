@@ -74822,3 +74822,7 @@
 	url = https://github.com/conda-forge/cythonbuilder-feedstock.git
 	path = feedstocks/cythonbuilder
 	branch = refs/heads/main
+[submodule "pyre-extensions"]
+	url = https://github.com/conda-forge/pyre-extensions-feedstock.git
+	path = feedstocks/pyre-extensions
+	branch = refs/heads/main
