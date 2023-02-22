@@ -74818,3 +74818,7 @@
 	url = https://github.com/conda-forge/xorg-libxxf86vm-feedstock.git
 	path = feedstocks/xorg-libxxf86vm
 	branch = refs/heads/main
+[submodule "cythonbuilder"]
+	url = https://github.com/conda-forge/cythonbuilder-feedstock.git
+	path = feedstocks/cythonbuilder
+	branch = refs/heads/main
