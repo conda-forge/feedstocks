@@ -74838,3 +74838,7 @@
 	url = https://github.com/conda-forge/sse2neon-feedstock.git
 	path = feedstocks/sse2neon
 	branch = refs/heads/main
+[submodule "dbt-artifacts-parser"]
+	url = https://github.com/conda-forge/dbt-artifacts-parser-feedstock.git
+	path = feedstocks/dbt-artifacts-parser
+	branch = refs/heads/main
