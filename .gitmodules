@@ -74834,3 +74834,7 @@
 	url = https://github.com/conda-forge/jupyterlab-ui-profiler-feedstock.git
 	path = feedstocks/jupyterlab-ui-profiler
 	branch = refs/heads/main
+[submodule "sse2neon"]
+	url = https://github.com/conda-forge/sse2neon-feedstock.git
+	path = feedstocks/sse2neon
+	branch = refs/heads/main
