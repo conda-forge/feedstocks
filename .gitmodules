@@ -74842,3 +74842,7 @@
 	url = https://github.com/conda-forge/dbt-artifacts-parser-feedstock.git
 	path = feedstocks/dbt-artifacts-parser
 	branch = refs/heads/main
+[submodule "snax"]
+	url = https://github.com/conda-forge/snax-feedstock.git
+	path = feedstocks/snax
+	branch = refs/heads/main
