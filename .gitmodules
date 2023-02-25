@@ -74854,3 +74854,7 @@
 	url = https://github.com/conda-forge/oxdna-analysis-tools-feedstock.git
 	path = feedstocks/oxdna-analysis-tools
 	branch = refs/heads/main
+[submodule "cascade"]
+	url = https://github.com/conda-forge/cascade-feedstock.git
+	path = feedstocks/cascade
+	branch = refs/heads/main
