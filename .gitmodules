@@ -74850,3 +74850,7 @@
 	url = https://github.com/conda-forge/xeus-qt-feedstock.git
 	path = feedstocks/xeus-qt
 	branch = refs/heads/main
+[submodule "oxdna-analysis-tools"]
+	url = https://github.com/conda-forge/oxdna-analysis-tools-feedstock.git
+	path = feedstocks/oxdna-analysis-tools
+	branch = refs/heads/main
