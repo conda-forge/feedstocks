@@ -74862,3 +74862,7 @@
 	url = https://github.com/conda-forge/djantic-feedstock.git
 	path = feedstocks/djantic
 	branch = refs/heads/main
+[submodule "pyngo"]
+	url = https://github.com/conda-forge/pyngo-feedstock.git
+	path = feedstocks/pyngo
+	branch = refs/heads/main
