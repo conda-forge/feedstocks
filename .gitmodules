@@ -74858,3 +74858,7 @@
 	url = https://github.com/conda-forge/cascade-feedstock.git
 	path = feedstocks/cascade
 	branch = refs/heads/main
+[submodule "djantic"]
+	url = https://github.com/conda-forge/djantic-feedstock.git
+	path = feedstocks/djantic
+	branch = refs/heads/main
