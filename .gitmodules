@@ -74886,3 +74886,7 @@
 	url = https://github.com/conda-forge/ydata-profiling-feedstock.git
 	path = feedstocks/ydata-profiling
 	branch = refs/heads/main
+[submodule "ydata-synthetic"]
+	url = https://github.com/conda-forge/ydata-synthetic-feedstock.git
+	path = feedstocks/ydata-synthetic
+	branch = refs/heads/main
