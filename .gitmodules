@@ -74866,3 +74866,7 @@
 	url = https://github.com/conda-forge/pyngo-feedstock.git
 	path = feedstocks/pyngo
 	branch = refs/heads/main
+[submodule "ydata-quality"]
+	url = https://github.com/conda-forge/ydata-quality-feedstock.git
+	path = feedstocks/ydata-quality
+	branch = refs/heads/main
