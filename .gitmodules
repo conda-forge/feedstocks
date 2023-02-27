@@ -74870,3 +74870,7 @@
 	url = https://github.com/conda-forge/ydata-quality-feedstock.git
 	path = feedstocks/ydata-quality
 	branch = refs/heads/main
+[submodule "eo-harvest"]
+	url = https://github.com/conda-forge/eo-harvest-feedstock.git
+	path = feedstocks/eo-harvest
+	branch = refs/heads/main
