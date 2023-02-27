@@ -74894,3 +74894,7 @@
 	url = https://github.com/conda-forge/nestd-feedstock.git
 	path = feedstocks/nestd
 	branch = refs/heads/main
+[submodule "pydantic-sqlalchemy"]
+	url = https://github.com/conda-forge/pydantic-sqlalchemy-feedstock.git
+	path = feedstocks/pydantic-sqlalchemy
+	branch = refs/heads/main
