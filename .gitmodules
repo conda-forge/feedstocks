@@ -74878,3 +74878,7 @@
 	url = https://github.com/conda-forge/tox-poetry-installer-feedstock.git
 	path = feedstocks/tox-poetry-installer
 	branch = refs/heads/main
+[submodule "djangorestframework-dataclasses"]
+	url = https://github.com/conda-forge/djangorestframework-dataclasses-feedstock.git
+	path = feedstocks/djangorestframework-dataclasses
+	branch = refs/heads/main
