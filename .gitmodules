@@ -74882,3 +74882,7 @@
 	url = https://github.com/conda-forge/djangorestframework-dataclasses-feedstock.git
 	path = feedstocks/djangorestframework-dataclasses
 	branch = refs/heads/main
+[submodule "ydata-profiling"]
+	url = https://github.com/conda-forge/ydata-profiling-feedstock.git
+	path = feedstocks/ydata-profiling
+	branch = refs/heads/main
