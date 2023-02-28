@@ -74906,3 +74906,7 @@
 	url = https://github.com/conda-forge/s2geography-feedstock.git
 	path = feedstocks/s2geography
 	branch = refs/heads/main
+[submodule "wilds"]
+	url = https://github.com/conda-forge/wilds-feedstock.git
+	path = feedstocks/wilds
+	branch = refs/heads/main
