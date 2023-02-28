@@ -74902,3 +74902,7 @@
 	url = https://github.com/conda-forge/r-jbrowser-feedstock.git
 	path = feedstocks/r-jbrowser
 	branch = refs/heads/main
+[submodule "s2geography"]
+	url = https://github.com/conda-forge/s2geography-feedstock.git
+	path = feedstocks/s2geography
+	branch = refs/heads/main
