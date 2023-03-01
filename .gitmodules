@@ -74914,3 +74914,7 @@
 	url = https://github.com/conda-forge/baked-brie-feedstock.git
 	path = feedstocks/baked-brie
 	branch = refs/heads/main
+[submodule "django-safedelete"]
+	url = https://github.com/conda-forge/django-safedelete-feedstock.git
+	path = feedstocks/django-safedelete
+	branch = refs/heads/main
