@@ -74918,3 +74918,7 @@
 	url = https://github.com/conda-forge/django-safedelete-feedstock.git
 	path = feedstocks/django-safedelete
 	branch = refs/heads/main
+[submodule "pygwalker"]
+	url = https://github.com/conda-forge/pygwalker-feedstock.git
+	path = feedstocks/pygwalker
+	branch = refs/heads/main
