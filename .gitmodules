@@ -74922,3 +74922,7 @@
 	url = https://github.com/conda-forge/pygwalker-feedstock.git
 	path = feedstocks/pygwalker
 	branch = refs/heads/main
+[submodule "ecodata"]
+	url = https://github.com/conda-forge/ecodata-feedstock.git
+	path = feedstocks/ecodata
+	branch = refs/heads/main
