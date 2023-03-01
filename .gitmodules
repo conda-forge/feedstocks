@@ -74910,3 +74910,7 @@
 	url = https://github.com/conda-forge/wilds-feedstock.git
 	path = feedstocks/wilds
 	branch = refs/heads/main
+[submodule "baked-brie"]
+	url = https://github.com/conda-forge/baked-brie-feedstock.git
+	path = feedstocks/baked-brie
+	branch = refs/heads/main
