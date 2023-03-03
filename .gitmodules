@@ -74990,3 +74990,7 @@
 	url = https://github.com/conda-forge/r-mclogit-feedstock.git
 	path = feedstocks/r-mclogit
 	branch = refs/heads/main
+[submodule "terraform-provider-cloudinit"]
+	url = https://github.com/conda-forge/terraform-provider-cloudinit-feedstock.git
+	path = feedstocks/terraform-provider-cloudinit
+	branch = refs/heads/main
