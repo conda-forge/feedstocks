@@ -74982,3 +74982,7 @@
 	url = https://github.com/conda-forge/rodeometric-feedstock.git
 	path = feedstocks/rodeometric
 	branch = refs/heads/main
+[submodule "dbt-spark"]
+	url = https://github.com/conda-forge/dbt-spark-feedstock.git
+	path = feedstocks/dbt-spark
+	branch = refs/heads/main
