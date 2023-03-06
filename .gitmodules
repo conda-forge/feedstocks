@@ -74994,3 +74994,7 @@
 	url = https://github.com/conda-forge/terraform-provider-cloudinit-feedstock.git
 	path = feedstocks/terraform-provider-cloudinit
 	branch = refs/heads/main
+[submodule "xsarslc"]
+	url = https://github.com/conda-forge/xsarslc-feedstock.git
+	path = feedstocks/xsarslc
+	branch = refs/heads/main
