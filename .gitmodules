@@ -75010,3 +75010,7 @@
 	url = https://github.com/conda-forge/libtinyiiod-feedstock.git
 	path = feedstocks/libtinyiiod
 	branch = refs/heads/main
+[submodule "rb-connection_pool"]
+	url = https://github.com/conda-forge/rb-connection_pool-feedstock.git
+	path = feedstocks/rb-connection_pool
+	branch = refs/heads/main
