@@ -75018,3 +75018,7 @@
 	url = https://github.com/conda-forge/reactivex-feedstock.git
 	path = feedstocks/reactivex
 	branch = refs/heads/main
+[submodule "bayes-filters-lib"]
+	url = https://github.com/conda-forge/bayes-filters-lib-feedstock.git
+	path = feedstocks/bayes-filters-lib
+	branch = refs/heads/main
