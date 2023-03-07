@@ -75022,3 +75022,7 @@
 	url = https://github.com/conda-forge/bayes-filters-lib-feedstock.git
 	path = feedstocks/bayes-filters-lib
 	branch = refs/heads/main
+[submodule "random-name"]
+	url = https://github.com/conda-forge/random-name-feedstock.git
+	path = feedstocks/random-name
+	branch = refs/heads/main
