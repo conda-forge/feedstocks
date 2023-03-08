@@ -75026,3 +75026,7 @@
 	url = https://github.com/conda-forge/random-name-feedstock.git
 	path = feedstocks/random-name
 	branch = refs/heads/main
+[submodule "jupyterlab-spreadsheet-editor"]
+	url = https://github.com/conda-forge/jupyterlab-spreadsheet-editor-feedstock.git
+	path = feedstocks/jupyterlab-spreadsheet-editor
+	branch = refs/heads/main
