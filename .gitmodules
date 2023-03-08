@@ -75030,3 +75030,7 @@
 	url = https://github.com/conda-forge/jupyterlab-spreadsheet-editor-feedstock.git
 	path = feedstocks/jupyterlab-spreadsheet-editor
 	branch = refs/heads/main
+[submodule "asyncio_extras"]
+	url = https://github.com/conda-forge/asyncio_extras-feedstock.git
+	path = feedstocks/asyncio_extras
+	branch = refs/heads/main
