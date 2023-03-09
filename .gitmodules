@@ -75078,3 +75078,7 @@
 	url = https://github.com/conda-forge/pygplates-feedstock.git
 	path = feedstocks/pygplates
 	branch = refs/heads/main
+[submodule "netgraph"]
+	url = https://github.com/conda-forge/netgraph-feedstock.git
+	path = feedstocks/netgraph
+	branch = refs/heads/main
