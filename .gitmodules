@@ -75046,3 +75046,7 @@
 	url = https://github.com/conda-forge/priori-feedstock.git
 	path = feedstocks/priori
 	branch = refs/heads/main
+[submodule "skbase-suite"]
+	url = https://github.com/conda-forge/skbase-suite-feedstock.git
+	path = feedstocks/skbase-suite
+	branch = refs/heads/main
