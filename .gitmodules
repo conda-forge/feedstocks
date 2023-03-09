@@ -75062,3 +75062,7 @@
 	url = https://github.com/conda-forge/rb-open_uri_redirections-feedstock.git
 	path = feedstocks/rb-open_uri_redirections
 	branch = refs/heads/main
+[submodule "rb-rack"]
+	url = https://github.com/conda-forge/rb-rack-feedstock.git
+	path = feedstocks/rb-rack
+	branch = refs/heads/main
