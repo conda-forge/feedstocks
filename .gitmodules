@@ -75054,3 +75054,7 @@
 	url = https://github.com/conda-forge/hydra-colorlog-feedstock.git
 	path = feedstocks/hydra-colorlog
 	branch = refs/heads/main
+[submodule "read-version"]
+	url = https://github.com/conda-forge/read-version-feedstock.git
+	path = feedstocks/read-version
+	branch = refs/heads/main
