@@ -75082,3 +75082,7 @@
 	url = https://github.com/conda-forge/netgraph-feedstock.git
 	path = feedstocks/netgraph
 	branch = refs/heads/main
+[submodule "pythresh"]
+	url = https://github.com/conda-forge/pythresh-feedstock.git
+	path = feedstocks/pythresh
+	branch = refs/heads/main
