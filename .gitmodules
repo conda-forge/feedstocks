@@ -75070,3 +75070,7 @@
 	url = https://github.com/conda-forge/rb-net-http-persistent-feedstock.git
 	path = feedstocks/rb-net-http-persistent
 	branch = refs/heads/main
+[submodule "rb-escape_utils"]
+	url = https://github.com/conda-forge/rb-escape_utils-feedstock.git
+	path = feedstocks/rb-escape_utils
+	branch = refs/heads/main
