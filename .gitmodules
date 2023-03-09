@@ -75050,3 +75050,7 @@
 	url = https://github.com/conda-forge/skbase-suite-feedstock.git
 	path = feedstocks/skbase-suite
 	branch = refs/heads/main
+[submodule "hydra-colorlog"]
+	url = https://github.com/conda-forge/hydra-colorlog-feedstock.git
+	path = feedstocks/hydra-colorlog
+	branch = refs/heads/main
