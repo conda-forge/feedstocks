@@ -75090,3 +75090,7 @@
 	url = https://github.com/conda-forge/qt6-advanced-docking-system-feedstock.git
 	path = feedstocks/qt6-advanced-docking-system
 	branch = refs/heads/main
+[submodule "pyside6qtads"]
+	url = https://github.com/conda-forge/pyside6qtads-feedstock.git
+	path = feedstocks/pyside6qtads
+	branch = refs/heads/main
