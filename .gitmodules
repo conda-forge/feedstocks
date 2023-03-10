@@ -75098,3 +75098,7 @@
 	url = https://github.com/conda-forge/rb-uri_template-feedstock.git
 	path = feedstocks/rb-uri_template
 	branch = refs/heads/main
+[submodule "get-annotations"]
+	url = https://github.com/conda-forge/get-annotations-feedstock.git
+	path = feedstocks/get-annotations
+	branch = refs/heads/main
