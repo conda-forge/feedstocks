@@ -75110,3 +75110,7 @@
 	url = https://github.com/conda-forge/ckmeans-1d-dp-feedstock.git
 	path = feedstocks/ckmeans-1d-dp
 	branch = refs/heads/main
+[submodule "marching_cubes"]
+	url = https://github.com/conda-forge/marching_cubes-feedstock.git
+	path = feedstocks/marching_cubes
+	branch = refs/heads/main
