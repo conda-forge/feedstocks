@@ -75106,3 +75106,7 @@
 	url = https://github.com/conda-forge/airss-feedstock.git
 	path = feedstocks/airss
 	branch = refs/heads/main
+[submodule "ckmeans-1d-dp"]
+	url = https://github.com/conda-forge/ckmeans-1d-dp-feedstock.git
+	path = feedstocks/ckmeans-1d-dp
+	branch = refs/heads/main
