@@ -75102,3 +75102,7 @@
 	url = https://github.com/conda-forge/get-annotations-feedstock.git
 	path = feedstocks/get-annotations
 	branch = refs/heads/main
+[submodule "airss"]
+	url = https://github.com/conda-forge/airss-feedstock.git
+	path = feedstocks/airss
+	branch = refs/heads/main
