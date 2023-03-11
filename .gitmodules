@@ -75126,3 +75126,7 @@
 	url = https://github.com/conda-forge/lightning-cloud-feedstock.git
 	path = feedstocks/lightning-cloud
 	branch = refs/heads/main
+[submodule "robot_descriptions"]
+	url = https://github.com/conda-forge/robot_descriptions-feedstock.git
+	path = feedstocks/robot_descriptions
+	branch = refs/heads/main
