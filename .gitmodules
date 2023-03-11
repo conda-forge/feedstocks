@@ -75114,3 +75114,7 @@
 	url = https://github.com/conda-forge/marching_cubes-feedstock.git
 	path = feedstocks/marching_cubes
 	branch = refs/heads/main
+[submodule "libebm"]
+	url = https://github.com/conda-forge/libebm-feedstock.git
+	path = feedstocks/libebm
+	branch = refs/heads/main
