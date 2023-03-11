@@ -75118,3 +75118,7 @@
 	url = https://github.com/conda-forge/libebm-feedstock.git
 	path = feedstocks/libebm
 	branch = refs/heads/main
+[submodule "pyflowchart"]
+	url = https://github.com/conda-forge/pyflowchart-feedstock.git
+	path = feedstocks/pyflowchart
+	branch = refs/heads/main
