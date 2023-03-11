@@ -75122,3 +75122,7 @@
 	url = https://github.com/conda-forge/pyflowchart-feedstock.git
 	path = feedstocks/pyflowchart
 	branch = refs/heads/main
+[submodule "lightning-cloud"]
+	url = https://github.com/conda-forge/lightning-cloud-feedstock.git
+	path = feedstocks/lightning-cloud
+	branch = refs/heads/main
