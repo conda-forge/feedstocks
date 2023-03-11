@@ -75138,3 +75138,7 @@
 	url = https://github.com/conda-forge/pynsee-feedstock.git
 	path = feedstocks/pynsee
 	branch = refs/heads/main
+[submodule "openff-nagl-models"]
+	url = https://github.com/conda-forge/openff-nagl-models-feedstock.git
+	path = feedstocks/openff-nagl-models
+	branch = refs/heads/main
