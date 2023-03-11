@@ -75142,3 +75142,7 @@
 	url = https://github.com/conda-forge/openff-nagl-models-feedstock.git
 	path = feedstocks/openff-nagl-models
 	branch = refs/heads/main
+[submodule "parsita"]
+	url = https://github.com/conda-forge/parsita-feedstock.git
+	path = feedstocks/parsita
+	branch = refs/heads/main
