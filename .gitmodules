@@ -75130,3 +75130,7 @@
 	url = https://github.com/conda-forge/robot_descriptions-feedstock.git
 	path = feedstocks/robot_descriptions
 	branch = refs/heads/main
+[submodule "watex"]
+	url = https://github.com/conda-forge/watex-feedstock.git
+	path = feedstocks/watex
+	branch = refs/heads/main
