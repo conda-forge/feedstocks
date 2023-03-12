@@ -75166,3 +75166,7 @@
 	url = https://github.com/conda-forge/qt-gtk-platformtheme-feedstock.git
 	path = feedstocks/qt-gtk-platformtheme
 	branch = refs/heads/main
+[submodule "qt-wayland"]
+	url = https://github.com/conda-forge/qt-wayland-feedstock.git
+	path = feedstocks/qt-wayland
+	branch = refs/heads/main
