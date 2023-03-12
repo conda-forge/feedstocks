@@ -75162,3 +75162,7 @@
 	url = https://github.com/conda-forge/fastapi-azure-auth-feedstock.git
 	path = feedstocks/fastapi-azure-auth
 	branch = refs/heads/main
+[submodule "qt-gtk-platformtheme"]
+	url = https://github.com/conda-forge/qt-gtk-platformtheme-feedstock.git
+	path = feedstocks/qt-gtk-platformtheme
+	branch = refs/heads/main
