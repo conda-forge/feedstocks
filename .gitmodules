@@ -75154,3 +75154,7 @@
 	url = https://github.com/conda-forge/abi-dumper-feedstock.git
 	path = feedstocks/abi-dumper
 	branch = refs/heads/main
+[submodule "transformer-smaller-training-vocab"]
+	url = https://github.com/conda-forge/transformer-smaller-training-vocab-feedstock.git
+	path = feedstocks/transformer-smaller-training-vocab
+	branch = refs/heads/main
