@@ -75158,3 +75158,7 @@
 	url = https://github.com/conda-forge/transformer-smaller-training-vocab-feedstock.git
 	path = feedstocks/transformer-smaller-training-vocab
 	branch = refs/heads/main
+[submodule "fastapi-azure-auth"]
+	url = https://github.com/conda-forge/fastapi-azure-auth-feedstock.git
+	path = feedstocks/fastapi-azure-auth
+	branch = refs/heads/main
