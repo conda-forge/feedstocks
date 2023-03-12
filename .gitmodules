@@ -75146,3 +75146,7 @@
 	url = https://github.com/conda-forge/parsita-feedstock.git
 	path = feedstocks/parsita
 	branch = refs/heads/main
+[submodule "abi-compliance-checker"]
+	url = https://github.com/conda-forge/abi-compliance-checker-feedstock.git
+	path = feedstocks/abi-compliance-checker
+	branch = refs/heads/main
