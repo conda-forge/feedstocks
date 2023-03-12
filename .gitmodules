@@ -75150,3 +75150,7 @@
 	url = https://github.com/conda-forge/abi-compliance-checker-feedstock.git
 	path = feedstocks/abi-compliance-checker
 	branch = refs/heads/main
+[submodule "abi-dumper"]
+	url = https://github.com/conda-forge/abi-dumper-feedstock.git
+	path = feedstocks/abi-dumper
+	branch = refs/heads/main
