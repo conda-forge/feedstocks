@@ -75206,3 +75206,7 @@
 	url = https://github.com/conda-forge/lilio-feedstock.git
 	path = feedstocks/lilio
 	branch = refs/heads/main
+[submodule "fortecubeview"]
+	url = https://github.com/conda-forge/fortecubeview-feedstock.git
+	path = feedstocks/fortecubeview
+	branch = refs/heads/main
