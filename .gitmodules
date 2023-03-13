@@ -75178,3 +75178,7 @@
 	url = https://github.com/conda-forge/gsettings-desktop-schemas-feedstock.git
 	path = feedstocks/gsettings-desktop-schemas
 	branch = refs/heads/main
+[submodule "adwaita-qt"]
+	url = https://github.com/conda-forge/adwaita-qt-feedstock.git
+	path = feedstocks/adwaita-qt
+	branch = refs/heads/main
