@@ -75186,3 +75186,7 @@
 	url = https://github.com/conda-forge/qgnomeplatform-feedstock.git
 	path = feedstocks/qgnomeplatform
 	branch = refs/heads/main
+[submodule "kfp-tekton-server-api"]
+	url = https://github.com/conda-forge/kfp-tekton-server-api-feedstock.git
+	path = feedstocks/kfp-tekton-server-api
+	branch = refs/heads/main
