@@ -75182,3 +75182,7 @@
 	url = https://github.com/conda-forge/adwaita-qt-feedstock.git
 	path = feedstocks/adwaita-qt
 	branch = refs/heads/main
+[submodule "qgnomeplatform"]
+	url = https://github.com/conda-forge/qgnomeplatform-feedstock.git
+	path = feedstocks/qgnomeplatform
+	branch = refs/heads/main
