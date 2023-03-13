@@ -75170,3 +75170,7 @@
 	url = https://github.com/conda-forge/qt-wayland-feedstock.git
 	path = feedstocks/qt-wayland
 	branch = refs/heads/main
+[submodule "rb-csvlint"]
+	url = https://github.com/conda-forge/rb-csvlint-feedstock.git
+	path = feedstocks/rb-csvlint
+	branch = refs/heads/main
