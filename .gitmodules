@@ -75174,3 +75174,7 @@
 	url = https://github.com/conda-forge/rb-csvlint-feedstock.git
 	path = feedstocks/rb-csvlint
 	branch = refs/heads/main
+[submodule "gsettings-desktop-schemas"]
+	url = https://github.com/conda-forge/gsettings-desktop-schemas-feedstock.git
+	path = feedstocks/gsettings-desktop-schemas
+	branch = refs/heads/main
