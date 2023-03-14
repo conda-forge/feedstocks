@@ -75222,3 +75222,7 @@
 	url = https://github.com/conda-forge/pybads-feedstock.git
 	path = feedstocks/pybads
 	branch = refs/heads/main
+[submodule "python-pypi-mirror"]
+	url = https://github.com/conda-forge/python-pypi-mirror-feedstock.git
+	path = feedstocks/python-pypi-mirror
+	branch = refs/heads/main
