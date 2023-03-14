@@ -75238,3 +75238,7 @@
 	url = https://github.com/conda-forge/jp-noui-feedstock.git
 	path = feedstocks/jp-noui
 	branch = refs/heads/main
+[submodule "autoclick"]
+	url = https://github.com/conda-forge/autoclick-feedstock.git
+	path = feedstocks/autoclick
+	branch = refs/heads/main
