@@ -75242,3 +75242,7 @@
 	url = https://github.com/conda-forge/autoclick-feedstock.git
 	path = feedstocks/autoclick
 	branch = refs/heads/main
+[submodule "vw-executor"]
+	url = https://github.com/conda-forge/vw-executor-feedstock.git
+	path = feedstocks/vw-executor
+	branch = refs/heads/main
