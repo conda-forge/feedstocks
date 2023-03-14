@@ -75226,3 +75226,7 @@
 	url = https://github.com/conda-forge/python-pypi-mirror-feedstock.git
 	path = feedstocks/python-pypi-mirror
 	branch = refs/heads/main
+[submodule "docparse"]
+	url = https://github.com/conda-forge/docparse-feedstock.git
+	path = feedstocks/docparse
+	branch = refs/heads/main
