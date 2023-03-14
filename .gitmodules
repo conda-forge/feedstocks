@@ -75214,3 +75214,7 @@
 	url = https://github.com/conda-forge/django-json-widget-feedstock.git
 	path = feedstocks/django-json-widget
 	branch = refs/heads/main
+[submodule "flask-limiter"]
+	url = https://github.com/conda-forge/flask-limiter-feedstock.git
+	path = feedstocks/flask-limiter
+	branch = refs/heads/main
