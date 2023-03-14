@@ -75218,3 +75218,7 @@
 	url = https://github.com/conda-forge/flask-limiter-feedstock.git
 	path = feedstocks/flask-limiter
 	branch = refs/heads/main
+[submodule "pybads"]
+	url = https://github.com/conda-forge/pybads-feedstock.git
+	path = feedstocks/pybads
+	branch = refs/heads/main
