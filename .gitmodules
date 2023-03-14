@@ -75234,3 +75234,7 @@
 	url = https://github.com/conda-forge/lapy-feedstock.git
 	path = feedstocks/lapy
 	branch = refs/heads/main
+[submodule "jp-noui"]
+	url = https://github.com/conda-forge/jp-noui-feedstock.git
+	path = feedstocks/jp-noui
+	branch = refs/heads/main
