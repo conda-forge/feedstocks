@@ -75230,3 +75230,7 @@
 	url = https://github.com/conda-forge/docparse-feedstock.git
 	path = feedstocks/docparse
 	branch = refs/heads/main
+[submodule "lapy"]
+	url = https://github.com/conda-forge/lapy-feedstock.git
+	path = feedstocks/lapy
+	branch = refs/heads/main
