@@ -75210,3 +75210,7 @@
 	url = https://github.com/conda-forge/fortecubeview-feedstock.git
 	path = feedstocks/fortecubeview
 	branch = refs/heads/main
+[submodule "django-json-widget"]
+	url = https://github.com/conda-forge/django-json-widget-feedstock.git
+	path = feedstocks/django-json-widget
+	branch = refs/heads/main
