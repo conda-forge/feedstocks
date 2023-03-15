@@ -75250,3 +75250,7 @@
 	url = https://github.com/conda-forge/genai-feedstock.git
 	path = feedstocks/genai
 	branch = refs/heads/main
+[submodule "evals"]
+	url = https://github.com/conda-forge/evals-feedstock.git
+	path = feedstocks/evals
+	branch = refs/heads/main
