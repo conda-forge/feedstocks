@@ -75274,3 +75274,7 @@
 	url = https://github.com/conda-forge/r-rvcg-feedstock.git
 	path = feedstocks/r-rvcg
 	branch = refs/heads/main
+[submodule "quantiphy"]
+	url = https://github.com/conda-forge/quantiphy-feedstock.git
+	path = feedstocks/quantiphy
+	branch = refs/heads/main
