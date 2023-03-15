@@ -75286,3 +75286,7 @@
 	url = https://github.com/conda-forge/python-lsp-ruff-feedstock.git
 	path = feedstocks/python-lsp-ruff
 	branch = refs/heads/main
+[submodule "caf.space"]
+	url = https://github.com/conda-forge/caf.space-feedstock.git
+	path = feedstocks/caf.space
+	branch = refs/heads/main
