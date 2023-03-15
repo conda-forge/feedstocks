@@ -75262,3 +75262,7 @@
 	url = https://github.com/conda-forge/pydantic-collections-feedstock.git
 	path = feedstocks/pydantic-collections
 	branch = refs/heads/main
+[submodule "jupyterlab_rise"]
+	url = https://github.com/conda-forge/jupyterlab_rise-feedstock.git
+	path = feedstocks/jupyterlab_rise
+	branch = refs/heads/main
