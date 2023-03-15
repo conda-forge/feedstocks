@@ -75246,3 +75246,7 @@
 	url = https://github.com/conda-forge/vw-executor-feedstock.git
 	path = feedstocks/vw-executor
 	branch = refs/heads/main
+[submodule "genai"]
+	url = https://github.com/conda-forge/genai-feedstock.git
+	path = feedstocks/genai
+	branch = refs/heads/main
