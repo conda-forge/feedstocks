@@ -75306,3 +75306,7 @@
 	url = https://github.com/conda-forge/r-fake-feedstock.git
 	path = feedstocks/r-fake
 	branch = refs/heads/main
+[submodule "molcomplib"]
+	url = https://github.com/conda-forge/molcomplib-feedstock.git
+	path = feedstocks/molcomplib
+	branch = refs/heads/main
