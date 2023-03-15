@@ -75282,3 +75282,7 @@
 	url = https://github.com/conda-forge/qibocal-feedstock.git
 	path = feedstocks/qibocal
 	branch = refs/heads/main
+[submodule "python-lsp-ruff"]
+	url = https://github.com/conda-forge/python-lsp-ruff-feedstock.git
+	path = feedstocks/python-lsp-ruff
+	branch = refs/heads/main
