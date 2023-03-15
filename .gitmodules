@@ -75266,3 +75266,7 @@
 	url = https://github.com/conda-forge/jupyterlab_rise-feedstock.git
 	path = feedstocks/jupyterlab_rise
 	branch = refs/heads/main
+[submodule "gitmodules"]
+	url = https://github.com/conda-forge/gitmodules-feedstock.git
+	path = feedstocks/gitmodules
+	branch = refs/heads/main
