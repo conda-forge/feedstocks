@@ -75254,3 +75254,7 @@
 	url = https://github.com/conda-forge/evals-feedstock.git
 	path = feedstocks/evals
 	branch = refs/heads/main
+[submodule "tiktoken"]
+	url = https://github.com/conda-forge/tiktoken-feedstock.git
+	path = feedstocks/tiktoken
+	branch = refs/heads/main
