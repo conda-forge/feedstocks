@@ -75278,3 +75278,7 @@
 	url = https://github.com/conda-forge/quantiphy-feedstock.git
 	path = feedstocks/quantiphy
 	branch = refs/heads/main
+[submodule "qibocal"]
+	url = https://github.com/conda-forge/qibocal-feedstock.git
+	path = feedstocks/qibocal
+	branch = refs/heads/main
