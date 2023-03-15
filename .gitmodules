@@ -75270,3 +75270,7 @@
 	url = https://github.com/conda-forge/gitmodules-feedstock.git
 	path = feedstocks/gitmodules
 	branch = refs/heads/main
+[submodule "r-rvcg"]
+	url = https://github.com/conda-forge/r-rvcg-feedstock.git
+	path = feedstocks/r-rvcg
+	branch = refs/heads/main
