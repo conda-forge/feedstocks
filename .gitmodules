@@ -75302,3 +75302,7 @@
 	url = https://github.com/conda-forge/r-rlemon-feedstock.git
 	path = feedstocks/r-rlemon
 	branch = refs/heads/main
+[submodule "r-fake"]
+	url = https://github.com/conda-forge/r-fake-feedstock.git
+	path = feedstocks/r-fake
+	branch = refs/heads/main
