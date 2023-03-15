@@ -75258,3 +75258,7 @@
 	url = https://github.com/conda-forge/tiktoken-feedstock.git
 	path = feedstocks/tiktoken
 	branch = refs/heads/main
+[submodule "pydantic-collections"]
+	url = https://github.com/conda-forge/pydantic-collections-feedstock.git
+	path = feedstocks/pydantic-collections
+	branch = refs/heads/main
