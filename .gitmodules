@@ -75414,3 +75414,7 @@
 	url = https://github.com/conda-forge/hapiclient-feedstock.git
 	path = feedstocks/hapiclient
 	branch = refs/heads/main
+[submodule "factor-analyzer"]
+	url = https://github.com/conda-forge/factor-analyzer-feedstock.git
+	path = feedstocks/factor-analyzer
+	branch = refs/heads/main
