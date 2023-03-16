@@ -75370,3 +75370,7 @@
 	url = https://github.com/conda-forge/fastf1-feedstock.git
 	path = feedstocks/fastf1
 	branch = refs/heads/main
+[submodule "signalr-client-aio"]
+	url = https://github.com/conda-forge/signalr-client-aio-feedstock.git
+	path = feedstocks/signalr-client-aio
+	branch = refs/heads/main
