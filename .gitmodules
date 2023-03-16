@@ -75346,3 +75346,7 @@
 	url = https://github.com/conda-forge/new_conda_env-feedstock.git
 	path = feedstocks/new_conda_env
 	branch = refs/heads/main
+[submodule "oneworld"]
+	url = https://github.com/conda-forge/oneworld-feedstock.git
+	path = feedstocks/oneworld
+	branch = refs/heads/main
