@@ -75326,3 +75326,7 @@
 	url = https://github.com/conda-forge/ipyaggrid-feedstock.git
 	path = feedstocks/ipyaggrid
 	branch = refs/heads/main
+[submodule "clearml"]
+	url = https://github.com/conda-forge/clearml-feedstock.git
+	path = feedstocks/clearml
+	branch = refs/heads/main
