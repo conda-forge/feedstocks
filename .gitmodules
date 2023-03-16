@@ -75310,3 +75310,7 @@
 	url = https://github.com/conda-forge/molcomplib-feedstock.git
 	path = feedstocks/molcomplib
 	branch = refs/heads/main
+[submodule "caerus"]
+	url = https://github.com/conda-forge/caerus-feedstock.git
+	path = feedstocks/caerus
+	branch = refs/heads/main
