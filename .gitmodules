@@ -75378,3 +75378,7 @@
 	url = https://github.com/conda-forge/climada-feedstock.git
 	path = feedstocks/climada
 	branch = refs/heads/main
+[submodule "paseos"]
+	url = https://github.com/conda-forge/paseos-feedstock.git
+	path = feedstocks/paseos
+	branch = refs/heads/main
