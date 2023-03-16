@@ -75374,3 +75374,7 @@
 	url = https://github.com/conda-forge/signalr-client-aio-feedstock.git
 	path = feedstocks/signalr-client-aio
 	branch = refs/heads/main
+[submodule "climada"]
+	url = https://github.com/conda-forge/climada-feedstock.git
+	path = feedstocks/climada
+	branch = refs/heads/main
