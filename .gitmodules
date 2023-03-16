@@ -75350,3 +75350,7 @@
 	url = https://github.com/conda-forge/oneworld-feedstock.git
 	path = feedstocks/oneworld
 	branch = refs/heads/main
+[submodule "r-didimputation"]
+	url = https://github.com/conda-forge/r-didimputation-feedstock.git
+	path = feedstocks/r-didimputation
+	branch = refs/heads/main
