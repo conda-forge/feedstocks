@@ -75418,3 +75418,7 @@
 	url = https://github.com/conda-forge/factor-analyzer-feedstock.git
 	path = feedstocks/factor-analyzer
 	branch = refs/heads/main
+[submodule "neptune"]
+	url = https://github.com/conda-forge/neptune-feedstock.git
+	path = feedstocks/neptune
+	branch = refs/heads/main
