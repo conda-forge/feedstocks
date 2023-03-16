@@ -75354,3 +75354,7 @@
 	url = https://github.com/conda-forge/r-didimputation-feedstock.git
 	path = feedstocks/r-didimputation
 	branch = refs/heads/main
+[submodule "ood-metrics"]
+	url = https://github.com/conda-forge/ood-metrics-feedstock.git
+	path = feedstocks/ood-metrics
+	branch = refs/heads/main
