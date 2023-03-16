@@ -75398,3 +75398,7 @@
 	url = https://github.com/conda-forge/acwater-feedstock.git
 	path = feedstocks/acwater
 	branch = refs/heads/main
+[submodule "xvec"]
+	url = https://github.com/conda-forge/xvec-feedstock.git
+	path = feedstocks/xvec
+	branch = refs/heads/main
