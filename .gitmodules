@@ -75410,3 +75410,7 @@
 	url = https://github.com/conda-forge/base64io-feedstock.git
 	path = feedstocks/base64io
 	branch = refs/heads/main
+[submodule "hapiclient"]
+	url = https://github.com/conda-forge/hapiclient-feedstock.git
+	path = feedstocks/hapiclient
+	branch = refs/heads/main
