@@ -75394,3 +75394,7 @@
 	url = https://github.com/conda-forge/roseau-load-flow-feedstock.git
 	path = feedstocks/roseau-load-flow
 	branch = refs/heads/main
+[submodule "acwater"]
+	url = https://github.com/conda-forge/acwater-feedstock.git
+	path = feedstocks/acwater
+	branch = refs/heads/main
