@@ -75426,3 +75426,7 @@
 	url = https://github.com/conda-forge/ilastik-feature-selection-feedstock.git
 	path = feedstocks/ilastik-feature-selection
 	branch = refs/heads/main
+[submodule "lmoments3"]
+	url = https://github.com/conda-forge/lmoments3-feedstock.git
+	path = feedstocks/lmoments3
+	branch = refs/heads/main
