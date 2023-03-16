@@ -75358,3 +75358,7 @@
 	url = https://github.com/conda-forge/ood-metrics-feedstock.git
 	path = feedstocks/ood-metrics
 	branch = refs/heads/main
+[submodule "predictr"]
+	url = https://github.com/conda-forge/predictr-feedstock.git
+	path = feedstocks/predictr
+	branch = refs/heads/main
