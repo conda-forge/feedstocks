@@ -75338,3 +75338,7 @@
 	url = https://github.com/conda-forge/cltoolbox-feedstock.git
 	path = feedstocks/cltoolbox
 	branch = refs/heads/main
+[submodule "gpkgstatus"]
+	url = https://github.com/conda-forge/gpkgstatus-feedstock.git
+	path = feedstocks/gpkgstatus
+	branch = refs/heads/main
