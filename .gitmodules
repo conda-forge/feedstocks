@@ -75390,3 +75390,7 @@
 	url = https://github.com/conda-forge/gridtk-feedstock.git
 	path = feedstocks/gridtk
 	branch = refs/heads/main
+[submodule "roseau-load-flow"]
+	url = https://github.com/conda-forge/roseau-load-flow-feedstock.git
+	path = feedstocks/roseau-load-flow
+	branch = refs/heads/main
