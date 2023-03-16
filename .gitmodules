@@ -75330,3 +75330,7 @@
 	url = https://github.com/conda-forge/clearml-feedstock.git
 	path = feedstocks/clearml
 	branch = refs/heads/main
+[submodule "pygeoops"]
+	url = https://github.com/conda-forge/pygeoops-feedstock.git
+	path = feedstocks/pygeoops
+	branch = refs/heads/main
