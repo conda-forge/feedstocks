@@ -75318,3 +75318,7 @@
 	url = https://github.com/conda-forge/yourdfpy-feedstock.git
 	path = feedstocks/yourdfpy
 	branch = refs/heads/main
+[submodule "georouting"]
+	url = https://github.com/conda-forge/georouting-feedstock.git
+	path = feedstocks/georouting
+	branch = refs/heads/main
