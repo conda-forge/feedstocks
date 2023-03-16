@@ -75382,3 +75382,7 @@
 	url = https://github.com/conda-forge/paseos-feedstock.git
 	path = feedstocks/paseos
 	branch = refs/heads/main
+[submodule "mplsignal"]
+	url = https://github.com/conda-forge/mplsignal-feedstock.git
+	path = feedstocks/mplsignal
+	branch = refs/heads/main
