@@ -75342,3 +75342,7 @@
 	url = https://github.com/conda-forge/gpkgstatus-feedstock.git
 	path = feedstocks/gpkgstatus
 	branch = refs/heads/main
+[submodule "new_conda_env"]
+	url = https://github.com/conda-forge/new_conda_env-feedstock.git
+	path = feedstocks/new_conda_env
+	branch = refs/heads/main
