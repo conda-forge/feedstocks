@@ -75422,3 +75422,7 @@
 	url = https://github.com/conda-forge/neptune-feedstock.git
 	path = feedstocks/neptune
 	branch = refs/heads/main
+[submodule "ilastik-feature-selection"]
+	url = https://github.com/conda-forge/ilastik-feature-selection-feedstock.git
+	path = feedstocks/ilastik-feature-selection
+	branch = refs/heads/main
