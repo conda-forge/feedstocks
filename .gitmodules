@@ -75314,3 +75314,7 @@
 	url = https://github.com/conda-forge/caerus-feedstock.git
 	path = feedstocks/caerus
 	branch = refs/heads/main
+[submodule "yourdfpy"]
+	url = https://github.com/conda-forge/yourdfpy-feedstock.git
+	path = feedstocks/yourdfpy
+	branch = refs/heads/main
