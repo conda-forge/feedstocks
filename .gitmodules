@@ -75406,3 +75406,7 @@
 	url = https://github.com/conda-forge/ast-decompiler-feedstock.git
 	path = feedstocks/ast-decompiler
 	branch = refs/heads/main
+[submodule "base64io"]
+	url = https://github.com/conda-forge/base64io-feedstock.git
+	path = feedstocks/base64io
+	branch = refs/heads/main
