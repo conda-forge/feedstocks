@@ -75402,3 +75402,7 @@
 	url = https://github.com/conda-forge/xvec-feedstock.git
 	path = feedstocks/xvec
 	branch = refs/heads/main
+[submodule "ast-decompiler"]
+	url = https://github.com/conda-forge/ast-decompiler-feedstock.git
+	path = feedstocks/ast-decompiler
+	branch = refs/heads/main
