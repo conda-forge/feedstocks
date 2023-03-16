@@ -75334,3 +75334,7 @@
 	url = https://github.com/conda-forge/pygeoops-feedstock.git
 	path = feedstocks/pygeoops
 	branch = refs/heads/main
+[submodule "cltoolbox"]
+	url = https://github.com/conda-forge/cltoolbox-feedstock.git
+	path = feedstocks/cltoolbox
+	branch = refs/heads/main
