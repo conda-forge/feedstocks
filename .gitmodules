@@ -75446,3 +75446,7 @@
 	url = https://github.com/conda-forge/tensordict-feedstock.git
 	path = feedstocks/tensordict
 	branch = refs/heads/main
+[submodule "gocart"]
+	url = https://github.com/conda-forge/gocart-feedstock.git
+	path = feedstocks/gocart
+	branch = refs/heads/main
