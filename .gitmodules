@@ -75450,3 +75450,7 @@
 	url = https://github.com/conda-forge/gocart-feedstock.git
 	path = feedstocks/gocart
 	branch = refs/heads/main
+[submodule "palantir-oauth-client"]
+	url = https://github.com/conda-forge/palantir-oauth-client-feedstock.git
+	path = feedstocks/palantir-oauth-client
+	branch = refs/heads/main
