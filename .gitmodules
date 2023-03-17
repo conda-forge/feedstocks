@@ -75454,3 +75454,7 @@
 	url = https://github.com/conda-forge/palantir-oauth-client-feedstock.git
 	path = feedstocks/palantir-oauth-client
 	branch = refs/heads/main
+[submodule "dohq-artifactory"]
+	url = https://github.com/conda-forge/dohq-artifactory-feedstock.git
+	path = feedstocks/dohq-artifactory
+	branch = refs/heads/main
