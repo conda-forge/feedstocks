@@ -75442,3 +75442,7 @@
 	url = https://github.com/conda-forge/antarctic-plots-feedstock.git
 	path = feedstocks/antarctic-plots
 	branch = refs/heads/main
+[submodule "tensordict"]
+	url = https://github.com/conda-forge/tensordict-feedstock.git
+	path = feedstocks/tensordict
+	branch = refs/heads/main
