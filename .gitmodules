@@ -75434,3 +75434,7 @@
 	url = https://github.com/conda-forge/libmagma-feedstock.git
 	path = feedstocks/libmagma
 	branch = refs/heads/main
+[submodule "anchor-annotator"]
+	url = https://github.com/conda-forge/anchor-annotator-feedstock.git
+	path = feedstocks/anchor-annotator
+	branch = refs/heads/main
