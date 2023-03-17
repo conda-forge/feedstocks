@@ -75462,3 +75462,7 @@
 	url = https://github.com/conda-forge/polyround-feedstock.git
 	path = feedstocks/polyround
 	branch = refs/heads/main
+[submodule "oasis-deconv"]
+	url = https://github.com/conda-forge/oasis-deconv-feedstock.git
+	path = feedstocks/oasis-deconv
+	branch = refs/heads/main
