@@ -75486,3 +75486,7 @@
 	url = https://github.com/conda-forge/git-delta-feedstock.git
 	path = feedstocks/git-delta
 	branch = refs/heads/main
+[submodule "grep"]
+	url = https://github.com/conda-forge/grep-feedstock.git
+	path = feedstocks/grep
+	branch = refs/heads/main
