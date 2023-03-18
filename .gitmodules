@@ -75474,3 +75474,7 @@
 	url = https://github.com/conda-forge/coastal-cascade-feedstock.git
 	path = feedstocks/coastal-cascade
 	branch = refs/heads/main
+[submodule "mlens"]
+	url = https://github.com/conda-forge/mlens-feedstock.git
+	path = feedstocks/mlens
+	branch = refs/heads/main
