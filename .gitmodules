@@ -75478,3 +75478,7 @@
 	url = https://github.com/conda-forge/mlens-feedstock.git
 	path = feedstocks/mlens
 	branch = refs/heads/main
+[submodule "spin"]
+	url = https://github.com/conda-forge/spin-feedstock.git
+	path = feedstocks/spin
+	branch = refs/heads/main
