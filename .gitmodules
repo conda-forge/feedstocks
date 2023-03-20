@@ -75490,3 +75490,7 @@
 	url = https://github.com/conda-forge/grep-feedstock.git
 	path = feedstocks/grep
 	branch = refs/heads/main
+[submodule "pyjs_code_runner"]
+	url = https://github.com/conda-forge/pyjs_code_runner-feedstock.git
+	path = feedstocks/pyjs_code_runner
+	branch = refs/heads/main
