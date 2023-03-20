@@ -75498,3 +75498,7 @@
 	url = https://github.com/conda-forge/rsatoolbox-feedstock.git
 	path = feedstocks/rsatoolbox
 	branch = refs/heads/main
+[submodule "neo4jsbml"]
+	url = https://github.com/conda-forge/neo4jsbml-feedstock.git
+	path = feedstocks/neo4jsbml
+	branch = refs/heads/main
