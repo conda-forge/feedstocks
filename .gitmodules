@@ -75502,3 +75502,7 @@
 	url = https://github.com/conda-forge/neo4jsbml-feedstock.git
 	path = feedstocks/neo4jsbml
 	branch = refs/heads/main
+[submodule "aws-encryption-sdk"]
+	url = https://github.com/conda-forge/aws-encryption-sdk-feedstock.git
+	path = feedstocks/aws-encryption-sdk
+	branch = refs/heads/main
