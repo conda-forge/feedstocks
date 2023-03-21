@@ -75506,3 +75506,7 @@
 	url = https://github.com/conda-forge/aws-encryption-sdk-feedstock.git
 	path = feedstocks/aws-encryption-sdk
 	branch = refs/heads/main
+[submodule "poetry-plugin-tweak-dependencies-version"]
+	url = https://github.com/conda-forge/poetry-plugin-tweak-dependencies-version-feedstock.git
+	path = feedstocks/poetry-plugin-tweak-dependencies-version
+	branch = refs/heads/main
