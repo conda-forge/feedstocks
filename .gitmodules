@@ -75510,3 +75510,7 @@
 	url = https://github.com/conda-forge/poetry-plugin-tweak-dependencies-version-feedstock.git
 	path = feedstocks/poetry-plugin-tweak-dependencies-version
 	branch = refs/heads/main
+[submodule "paraprobe"]
+	url = https://github.com/conda-forge/paraprobe-feedstock.git
+	path = feedstocks/paraprobe
+	branch = refs/heads/main
