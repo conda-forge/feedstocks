@@ -75514,3 +75514,7 @@
 	url = https://github.com/conda-forge/paraprobe-feedstock.git
 	path = feedstocks/paraprobe
 	branch = refs/heads/main
+[submodule "moscot"]
+	url = https://github.com/conda-forge/moscot-feedstock.git
+	path = feedstocks/moscot
+	branch = refs/heads/main
