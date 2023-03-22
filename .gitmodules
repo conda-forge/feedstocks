@@ -75518,3 +75518,7 @@
 	url = https://github.com/conda-forge/moscot-feedstock.git
 	path = feedstocks/moscot
 	branch = refs/heads/main
+[submodule "py-serializable"]
+	url = https://github.com/conda-forge/py-serializable-feedstock.git
+	path = feedstocks/py-serializable
+	branch = refs/heads/main
