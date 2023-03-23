@@ -75590,3 +75590,7 @@
 	url = https://github.com/conda-forge/migen-feedstock.git
 	path = feedstocks/migen
 	branch = refs/heads/main
+[submodule "hydrotoolbox"]
+	url = https://github.com/conda-forge/hydrotoolbox-feedstock.git
+	path = feedstocks/hydrotoolbox
+	branch = refs/heads/main
