@@ -75522,3 +75522,7 @@
 	url = https://github.com/conda-forge/py-serializable-feedstock.git
 	path = feedstocks/py-serializable
 	branch = refs/heads/main
+[submodule "pydantic-core"]
+	url = https://github.com/conda-forge/pydantic-core-feedstock.git
+	path = feedstocks/pydantic-core
+	branch = refs/heads/main
