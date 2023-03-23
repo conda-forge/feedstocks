@@ -75574,3 +75574,7 @@
 	url = https://github.com/conda-forge/hspfbintoolbox-feedstock.git
 	path = feedstocks/hspfbintoolbox
 	branch = refs/heads/main
+[submodule "pycorruptor"]
+	url = https://github.com/conda-forge/pycorruptor-feedstock.git
+	path = feedstocks/pycorruptor
+	branch = refs/heads/main
