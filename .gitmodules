@@ -75602,3 +75602,7 @@
 	url = https://github.com/conda-forge/enpt_enmapboxapp-feedstock.git
 	path = feedstocks/enpt_enmapboxapp
 	branch = refs/heads/main
+[submodule "chemnlp"]
+	url = https://github.com/conda-forge/chemnlp-feedstock.git
+	path = feedstocks/chemnlp
+	branch = refs/heads/main
