@@ -75582,3 +75582,7 @@
 	url = https://github.com/conda-forge/dapclient-feedstock.git
 	path = feedstocks/dapclient
 	branch = refs/heads/main
+[submodule "hspf_reader"]
+	url = https://github.com/conda-forge/hspf_reader-feedstock.git
+	path = feedstocks/hspf_reader
+	branch = refs/heads/main
