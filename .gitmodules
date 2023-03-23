@@ -75570,3 +75570,7 @@
 	url = https://github.com/conda-forge/wdmtoolbox-feedstock.git
 	path = feedstocks/wdmtoolbox
 	branch = refs/heads/main
+[submodule "hspfbintoolbox"]
+	url = https://github.com/conda-forge/hspfbintoolbox-feedstock.git
+	path = feedstocks/hspfbintoolbox
+	branch = refs/heads/main
