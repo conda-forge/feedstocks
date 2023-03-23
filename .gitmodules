@@ -75546,3 +75546,7 @@
 	url = https://github.com/conda-forge/napari-ui-tracer-feedstock.git
 	path = feedstocks/napari-ui-tracer
 	branch = refs/heads/main
+[submodule "tsdb"]
+	url = https://github.com/conda-forge/tsdb-feedstock.git
+	path = feedstocks/tsdb
+	branch = refs/heads/main
