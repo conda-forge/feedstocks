@@ -75618,3 +75618,7 @@
 	url = https://github.com/conda-forge/django_unicorn-feedstock.git
 	path = feedstocks/django_unicorn
 	branch = refs/heads/main
+[submodule "django-sequences"]
+	url = https://github.com/conda-forge/django-sequences-feedstock.git
+	path = feedstocks/django-sequences
+	branch = refs/heads/main
