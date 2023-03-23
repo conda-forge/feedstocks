@@ -75610,3 +75610,7 @@
 	url = https://github.com/conda-forge/amaranth-feedstock.git
 	path = feedstocks/amaranth
 	branch = refs/heads/main
+[submodule "django-fernet-fields-v2"]
+	url = https://github.com/conda-forge/django-fernet-fields-v2-feedstock.git
+	path = feedstocks/django-fernet-fields-v2
+	branch = refs/heads/main
