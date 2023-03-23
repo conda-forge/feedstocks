@@ -75554,3 +75554,7 @@
 	url = https://github.com/conda-forge/opentile-feedstock.git
 	path = feedstocks/opentile
 	branch = refs/heads/main
+[submodule "patchworklib"]
+	url = https://github.com/conda-forge/patchworklib-feedstock.git
+	path = feedstocks/patchworklib
+	branch = refs/heads/main
