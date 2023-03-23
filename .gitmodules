@@ -75606,3 +75606,7 @@
 	url = https://github.com/conda-forge/chemnlp-feedstock.git
 	path = feedstocks/chemnlp
 	branch = refs/heads/main
+[submodule "amaranth"]
+	url = https://github.com/conda-forge/amaranth-feedstock.git
+	path = feedstocks/amaranth
+	branch = refs/heads/main
