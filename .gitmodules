@@ -75530,3 +75530,7 @@
 	url = https://github.com/conda-forge/mapwidget-feedstock.git
 	path = feedstocks/mapwidget
 	branch = refs/heads/main
+[submodule "sen2nbar"]
+	url = https://github.com/conda-forge/sen2nbar-feedstock.git
+	path = feedstocks/sen2nbar
+	branch = refs/heads/main
