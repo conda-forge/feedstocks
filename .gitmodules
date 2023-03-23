@@ -75534,3 +75534,7 @@
 	url = https://github.com/conda-forge/sen2nbar-feedstock.git
 	path = feedstocks/sen2nbar
 	branch = refs/heads/main
+[submodule "pyslice"]
+	url = https://github.com/conda-forge/pyslice-feedstock.git
+	path = feedstocks/pyslice
+	branch = refs/heads/main
