@@ -75542,3 +75542,7 @@
 	url = https://github.com/conda-forge/pavo-feedstock.git
 	path = feedstocks/pavo
 	branch = refs/heads/main
+[submodule "napari-ui-tracer"]
+	url = https://github.com/conda-forge/napari-ui-tracer-feedstock.git
+	path = feedstocks/napari-ui-tracer
+	branch = refs/heads/main
