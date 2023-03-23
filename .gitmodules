@@ -75614,3 +75614,7 @@
 	url = https://github.com/conda-forge/django-fernet-fields-v2-feedstock.git
 	path = feedstocks/django-fernet-fields-v2
 	branch = refs/heads/main
+[submodule "django_unicorn"]
+	url = https://github.com/conda-forge/django_unicorn-feedstock.git
+	path = feedstocks/django_unicorn
+	branch = refs/heads/main
