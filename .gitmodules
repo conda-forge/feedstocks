@@ -75586,3 +75586,7 @@
 	url = https://github.com/conda-forge/hspf_reader-feedstock.git
 	path = feedstocks/hspf_reader
 	branch = refs/heads/main
+[submodule "migen"]
+	url = https://github.com/conda-forge/migen-feedstock.git
+	path = feedstocks/migen
+	branch = refs/heads/main
