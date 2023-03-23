@@ -75594,3 +75594,7 @@
 	url = https://github.com/conda-forge/hydrotoolbox-feedstock.git
 	path = feedstocks/hydrotoolbox
 	branch = refs/heads/main
+[submodule "swmmtoolbox"]
+	url = https://github.com/conda-forge/swmmtoolbox-feedstock.git
+	path = feedstocks/swmmtoolbox
+	branch = refs/heads/main
