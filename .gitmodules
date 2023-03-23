@@ -75566,3 +75566,7 @@
 	url = https://github.com/conda-forge/plottoolbox-feedstock.git
 	path = feedstocks/plottoolbox
 	branch = refs/heads/main
+[submodule "wdmtoolbox"]
+	url = https://github.com/conda-forge/wdmtoolbox-feedstock.git
+	path = feedstocks/wdmtoolbox
+	branch = refs/heads/main
