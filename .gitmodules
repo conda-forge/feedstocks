@@ -75578,3 +75578,7 @@
 	url = https://github.com/conda-forge/pycorruptor-feedstock.git
 	path = feedstocks/pycorruptor
 	branch = refs/heads/main
+[submodule "dapclient"]
+	url = https://github.com/conda-forge/dapclient-feedstock.git
+	path = feedstocks/dapclient
+	branch = refs/heads/main
