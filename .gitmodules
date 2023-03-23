@@ -75526,3 +75526,7 @@
 	url = https://github.com/conda-forge/pydantic-core-feedstock.git
 	path = feedstocks/pydantic-core
 	branch = refs/heads/main
+[submodule "mapwidget"]
+	url = https://github.com/conda-forge/mapwidget-feedstock.git
+	path = feedstocks/mapwidget
+	branch = refs/heads/main
