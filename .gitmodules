@@ -75670,3 +75670,7 @@
 	url = https://github.com/conda-forge/parallel_statistics-feedstock.git
 	path = feedstocks/parallel_statistics
 	branch = refs/heads/main
+[submodule "pzflow"]
+	url = https://github.com/conda-forge/pzflow-feedstock.git
+	path = feedstocks/pzflow
+	branch = refs/heads/main
