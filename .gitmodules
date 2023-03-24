@@ -75690,3 +75690,7 @@
 	url = https://github.com/conda-forge/lsstdesc-dc2-dm-data-feedstock.git
 	path = feedstocks/lsstdesc-dc2-dm-data
 	branch = refs/heads/main
+[submodule "gplately"]
+	url = https://github.com/conda-forge/gplately-feedstock.git
+	path = feedstocks/gplately
+	branch = refs/heads/main
