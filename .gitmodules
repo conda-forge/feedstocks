@@ -75646,3 +75646,7 @@
 	url = https://github.com/conda-forge/litex-feedstock.git
 	path = feedstocks/litex
 	branch = refs/heads/main
+[submodule "pyink"]
+	url = https://github.com/conda-forge/pyink-feedstock.git
+	path = feedstocks/pyink
+	branch = refs/heads/main
