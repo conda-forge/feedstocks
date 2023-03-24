@@ -75630,3 +75630,7 @@
 	url = https://github.com/conda-forge/eigency-feedstock.git
 	path = feedstocks/eigency
 	branch = refs/heads/main
+[submodule "pygoss-meta"]
+	url = https://github.com/conda-forge/pygoss-meta-feedstock.git
+	path = feedstocks/pygoss-meta
+	branch = refs/heads/main
