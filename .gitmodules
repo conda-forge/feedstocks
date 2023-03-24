@@ -75638,3 +75638,7 @@
 	url = https://github.com/conda-forge/foundry-dev-tools-feedstock.git
 	path = feedstocks/foundry-dev-tools
 	branch = refs/heads/main
+[submodule "dominodatalab"]
+	url = https://github.com/conda-forge/dominodatalab-feedstock.git
+	path = feedstocks/dominodatalab
+	branch = refs/heads/main
