@@ -75650,3 +75650,7 @@
 	url = https://github.com/conda-forge/pyink-feedstock.git
 	path = feedstocks/pyink
 	branch = refs/heads/main
+[submodule "ctapipe-io-nectarcam"]
+	url = https://github.com/conda-forge/ctapipe-io-nectarcam-feedstock.git
+	path = feedstocks/ctapipe-io-nectarcam
+	branch = refs/heads/main
