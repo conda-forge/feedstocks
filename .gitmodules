@@ -75622,3 +75622,7 @@
 	url = https://github.com/conda-forge/django-sequences-feedstock.git
 	path = feedstocks/django-sequences
 	branch = refs/heads/main
+[submodule "gazebo-yarp-plugins"]
+	url = https://github.com/conda-forge/gazebo-yarp-plugins-feedstock.git
+	path = feedstocks/gazebo-yarp-plugins
+	branch = refs/heads/main
