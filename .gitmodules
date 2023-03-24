@@ -75666,3 +75666,7 @@
 	url = https://github.com/conda-forge/libefp-feedstock.git
 	path = feedstocks/libefp
 	branch = refs/heads/main
+[submodule "parallel_statistics"]
+	url = https://github.com/conda-forge/parallel_statistics-feedstock.git
+	path = feedstocks/parallel_statistics
+	branch = refs/heads/main
