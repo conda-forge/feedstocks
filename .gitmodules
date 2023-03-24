@@ -75642,3 +75642,7 @@
 	url = https://github.com/conda-forge/dominodatalab-feedstock.git
 	path = feedstocks/dominodatalab
 	branch = refs/heads/main
+[submodule "litex"]
+	url = https://github.com/conda-forge/litex-feedstock.git
+	path = feedstocks/litex
+	branch = refs/heads/main
