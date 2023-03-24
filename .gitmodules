@@ -75686,3 +75686,7 @@
 	url = https://github.com/conda-forge/platetectonictools-feedstock.git
 	path = feedstocks/platetectonictools
 	branch = refs/heads/main
+[submodule "lsstdesc-dc2-dm-data"]
+	url = https://github.com/conda-forge/lsstdesc-dc2-dm-data-feedstock.git
+	path = feedstocks/lsstdesc-dc2-dm-data
+	branch = refs/heads/main
