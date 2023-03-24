@@ -75678,3 +75678,7 @@
 	url = https://github.com/conda-forge/do-mpc-feedstock.git
 	path = feedstocks/do-mpc
 	branch = refs/heads/main
+[submodule "molfeat"]
+	url = https://github.com/conda-forge/molfeat-feedstock.git
+	path = feedstocks/molfeat
+	branch = refs/heads/main
