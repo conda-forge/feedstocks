@@ -75674,3 +75674,7 @@
 	url = https://github.com/conda-forge/pzflow-feedstock.git
 	path = feedstocks/pzflow
 	branch = refs/heads/main
+[submodule "do-mpc"]
+	url = https://github.com/conda-forge/do-mpc-feedstock.git
+	path = feedstocks/do-mpc
+	branch = refs/heads/main
