@@ -75658,3 +75658,7 @@
 	url = https://github.com/conda-forge/ml_dtypes-feedstock.git
 	path = feedstocks/ml_dtypes
 	branch = refs/heads/main
+[submodule "mockmpi"]
+	url = https://github.com/conda-forge/mockmpi-feedstock.git
+	path = feedstocks/mockmpi
+	branch = refs/heads/main
