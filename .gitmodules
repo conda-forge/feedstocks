@@ -75654,3 +75654,7 @@
 	url = https://github.com/conda-forge/ctapipe-io-nectarcam-feedstock.git
 	path = feedstocks/ctapipe-io-nectarcam
 	branch = refs/heads/main
+[submodule "ml_dtypes"]
+	url = https://github.com/conda-forge/ml_dtypes-feedstock.git
+	path = feedstocks/ml_dtypes
+	branch = refs/heads/main
