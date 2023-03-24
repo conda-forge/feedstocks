@@ -75626,3 +75626,7 @@
 	url = https://github.com/conda-forge/gazebo-yarp-plugins-feedstock.git
 	path = feedstocks/gazebo-yarp-plugins
 	branch = refs/heads/main
+[submodule "eigency"]
+	url = https://github.com/conda-forge/eigency-feedstock.git
+	path = feedstocks/eigency
+	branch = refs/heads/main
