@@ -75634,3 +75634,7 @@
 	url = https://github.com/conda-forge/pygoss-meta-feedstock.git
 	path = feedstocks/pygoss-meta
 	branch = refs/heads/main
+[submodule "foundry-dev-tools"]
+	url = https://github.com/conda-forge/foundry-dev-tools-feedstock.git
+	path = feedstocks/foundry-dev-tools
+	branch = refs/heads/main
