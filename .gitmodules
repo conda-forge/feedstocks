@@ -75662,3 +75662,7 @@
 	url = https://github.com/conda-forge/mockmpi-feedstock.git
 	path = feedstocks/mockmpi
 	branch = refs/heads/main
+[submodule "libefp"]
+	url = https://github.com/conda-forge/libefp-feedstock.git
+	path = feedstocks/libefp
+	branch = refs/heads/main
