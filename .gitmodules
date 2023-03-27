@@ -75706,3 +75706,7 @@
 	url = https://github.com/conda-forge/graphormer-pretrained-feedstock.git
 	path = feedstocks/graphormer-pretrained
 	branch = refs/heads/main
+[submodule "msgpack-cxx"]
+	url = https://github.com/conda-forge/msgpack-cxx-feedstock.git
+	path = feedstocks/msgpack-cxx
+	branch = refs/heads/main
