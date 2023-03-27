@@ -75714,3 +75714,7 @@
 	url = https://github.com/conda-forge/iscd-linearelasticity-feedstock.git
 	path = feedstocks/iscd-linearelasticity
 	branch = refs/heads/main
+[submodule "iscd-nstokes"]
+	url = https://github.com/conda-forge/iscd-nstokes-feedstock.git
+	path = feedstocks/iscd-nstokes
+	branch = refs/heads/main
