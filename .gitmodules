@@ -75746,3 +75746,7 @@
 	url = https://github.com/conda-forge/xmipy-feedstock.git
 	path = feedstocks/xmipy
 	branch = refs/heads/main
+[submodule "azure-purview-catalog"]
+	url = https://github.com/conda-forge/azure-purview-catalog-feedstock.git
+	path = feedstocks/azure-purview-catalog
+	branch = refs/heads/main
