@@ -75754,3 +75754,7 @@
 	url = https://github.com/conda-forge/azure-purview-nspkg-feedstock.git
 	path = feedstocks/azure-purview-nspkg
 	branch = refs/heads/main
+[submodule "azure-purview-account"]
+	url = https://github.com/conda-forge/azure-purview-account-feedstock.git
+	path = feedstocks/azure-purview-account
+	branch = refs/heads/main
