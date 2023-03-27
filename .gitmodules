@@ -75738,3 +75738,7 @@
 	url = https://github.com/conda-forge/iscd-mshdist-feedstock.git
 	path = feedstocks/iscd-mshdist
 	branch = refs/heads/main
+[submodule "pypots"]
+	url = https://github.com/conda-forge/pypots-feedstock.git
+	path = feedstocks/pypots
+	branch = refs/heads/main
