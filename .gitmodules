@@ -75742,3 +75742,7 @@
 	url = https://github.com/conda-forge/pypots-feedstock.git
 	path = feedstocks/pypots
 	branch = refs/heads/main
+[submodule "xmipy"]
+	url = https://github.com/conda-forge/xmipy-feedstock.git
+	path = feedstocks/xmipy
+	branch = refs/heads/main
