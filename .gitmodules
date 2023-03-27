@@ -75726,3 +75726,7 @@
 	url = https://github.com/conda-forge/r-monotone-feedstock.git
 	path = feedstocks/r-monotone
 	branch = refs/heads/main
+[submodule "mmgsuite"]
+	url = https://github.com/conda-forge/mmgsuite-feedstock.git
+	path = feedstocks/mmgsuite
+	branch = refs/heads/main
