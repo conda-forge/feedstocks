@@ -75718,3 +75718,7 @@
 	url = https://github.com/conda-forge/iscd-nstokes-feedstock.git
 	path = feedstocks/iscd-nstokes
 	branch = refs/heads/main
+[submodule "iscd-commons"]
+	url = https://github.com/conda-forge/iscd-commons-feedstock.git
+	path = feedstocks/iscd-commons
+	branch = refs/heads/main
