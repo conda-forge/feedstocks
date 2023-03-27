@@ -75702,3 +75702,7 @@
 	url = https://github.com/conda-forge/level-zero-feedstock.git
 	path = feedstocks/level-zero
 	branch = refs/heads/main
+[submodule "graphormer-pretrained"]
+	url = https://github.com/conda-forge/graphormer-pretrained-feedstock.git
+	path = feedstocks/graphormer-pretrained
+	branch = refs/heads/main
