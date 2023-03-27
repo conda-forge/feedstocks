@@ -75730,3 +75730,7 @@
 	url = https://github.com/conda-forge/mmgsuite-feedstock.git
 	path = feedstocks/mmgsuite
 	branch = refs/heads/main
+[submodule "iscd-advection"]
+	url = https://github.com/conda-forge/iscd-advection-feedstock.git
+	path = feedstocks/iscd-advection
+	branch = refs/heads/main
