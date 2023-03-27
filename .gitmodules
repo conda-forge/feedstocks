@@ -75698,3 +75698,7 @@
 	url = https://github.com/conda-forge/doubt-feedstock.git
 	path = feedstocks/doubt
 	branch = refs/heads/main
+[submodule "level-zero"]
+	url = https://github.com/conda-forge/level-zero-feedstock.git
+	path = feedstocks/level-zero
+	branch = refs/heads/main
