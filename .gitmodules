@@ -75766,3 +75766,7 @@
 	url = https://github.com/conda-forge/azure-purview-workflow-feedstock.git
 	path = feedstocks/azure-purview-workflow
 	branch = refs/heads/main
+[submodule "azure-purview-administration"]
+	url = https://github.com/conda-forge/azure-purview-administration-feedstock.git
+	path = feedstocks/azure-purview-administration
+	branch = refs/heads/main
