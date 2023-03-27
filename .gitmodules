@@ -75778,3 +75778,7 @@
 	url = https://github.com/conda-forge/modflowapi-feedstock.git
 	path = feedstocks/modflowapi
 	branch = refs/heads/main
+[submodule "napari-label-interpolator"]
+	url = https://github.com/conda-forge/napari-label-interpolator-feedstock.git
+	path = feedstocks/napari-label-interpolator
+	branch = refs/heads/main
