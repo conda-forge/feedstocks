@@ -75734,3 +75734,7 @@
 	url = https://github.com/conda-forge/iscd-advection-feedstock.git
 	path = feedstocks/iscd-advection
 	branch = refs/heads/main
+[submodule "iscd-mshdist"]
+	url = https://github.com/conda-forge/iscd-mshdist-feedstock.git
+	path = feedstocks/iscd-mshdist
+	branch = refs/heads/main
