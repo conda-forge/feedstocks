@@ -75710,3 +75710,7 @@
 	url = https://github.com/conda-forge/msgpack-cxx-feedstock.git
 	path = feedstocks/msgpack-cxx
 	branch = refs/heads/main
+[submodule "iscd-linearelasticity"]
+	url = https://github.com/conda-forge/iscd-linearelasticity-feedstock.git
+	path = feedstocks/iscd-linearelasticity
+	branch = refs/heads/main
