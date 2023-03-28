@@ -75802,3 +75802,7 @@
 	url = https://github.com/conda-forge/jupysql-feedstock.git
 	path = feedstocks/jupysql
 	branch = refs/heads/main
+[submodule "defillama-curl"]
+	url = https://github.com/conda-forge/defillama-curl-feedstock.git
+	path = feedstocks/defillama-curl
+	branch = refs/heads/main
