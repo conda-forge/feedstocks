@@ -75834,3 +75834,7 @@
 	url = https://github.com/conda-forge/numpydoc_decorator-feedstock.git
 	path = feedstocks/numpydoc_decorator
 	branch = refs/heads/main
+[submodule "mfpymake"]
+	url = https://github.com/conda-forge/mfpymake-feedstock.git
+	path = feedstocks/mfpymake
+	branch = refs/heads/main
