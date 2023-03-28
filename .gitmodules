@@ -75830,3 +75830,7 @@
 	url = https://github.com/conda-forge/slim-trees-feedstock.git
 	path = feedstocks/slim-trees
 	branch = refs/heads/main
+[submodule "numpydoc_decorator"]
+	url = https://github.com/conda-forge/numpydoc_decorator-feedstock.git
+	path = feedstocks/numpydoc_decorator
+	branch = refs/heads/main
