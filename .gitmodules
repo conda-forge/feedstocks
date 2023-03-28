@@ -75786,3 +75786,7 @@
 	url = https://github.com/conda-forge/r-comorbidity-feedstock.git
 	path = feedstocks/r-comorbidity
 	branch = refs/heads/main
+[submodule "structuretoolkit"]
+	url = https://github.com/conda-forge/structuretoolkit-feedstock.git
+	path = feedstocks/structuretoolkit
+	branch = refs/heads/main
