@@ -75790,3 +75790,7 @@
 	url = https://github.com/conda-forge/structuretoolkit-feedstock.git
 	path = feedstocks/structuretoolkit
 	branch = refs/heads/main
+[submodule "fast-query-parsers"]
+	url = https://github.com/conda-forge/fast-query-parsers-feedstock.git
+	path = feedstocks/fast-query-parsers
+	branch = refs/heads/main
