@@ -75798,3 +75798,7 @@
 	url = https://github.com/conda-forge/medigan-feedstock.git
 	path = feedstocks/medigan
 	branch = refs/heads/main
+[submodule "jupysql"]
+	url = https://github.com/conda-forge/jupysql-feedstock.git
+	path = feedstocks/jupysql
+	branch = refs/heads/main
