@@ -75818,3 +75818,7 @@
 	url = https://github.com/conda-forge/dctmd-feedstock.git
 	path = feedstocks/dctmd
 	branch = refs/heads/main
+[submodule "fsl-sub"]
+	url = https://github.com/conda-forge/fsl-sub-feedstock.git
+	path = feedstocks/fsl-sub
+	branch = refs/heads/main
