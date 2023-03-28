@@ -75810,3 +75810,7 @@
 	url = https://github.com/conda-forge/remotior-sensus-feedstock.git
 	path = feedstocks/remotior-sensus
 	branch = refs/heads/main
+[submodule "mdutils"]
+	url = https://github.com/conda-forge/mdutils-feedstock.git
+	path = feedstocks/mdutils
+	branch = refs/heads/main
