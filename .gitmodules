@@ -75838,3 +75838,7 @@
 	url = https://github.com/conda-forge/mfpymake-feedstock.git
 	path = feedstocks/mfpymake
 	branch = refs/heads/main
+[submodule "sympy_plot_backends"]
+	url = https://github.com/conda-forge/sympy_plot_backends-feedstock.git
+	path = feedstocks/sympy_plot_backends
+	branch = refs/heads/main
