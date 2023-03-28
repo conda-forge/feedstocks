@@ -75826,3 +75826,7 @@
 	url = https://github.com/conda-forge/skmatter-feedstock.git
 	path = feedstocks/skmatter
 	branch = refs/heads/main
+[submodule "slim-trees"]
+	url = https://github.com/conda-forge/slim-trees-feedstock.git
+	path = feedstocks/slim-trees
+	branch = refs/heads/main
