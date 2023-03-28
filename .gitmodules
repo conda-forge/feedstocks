@@ -75814,3 +75814,7 @@
 	url = https://github.com/conda-forge/mdutils-feedstock.git
 	path = feedstocks/mdutils
 	branch = refs/heads/main
+[submodule "dctmd"]
+	url = https://github.com/conda-forge/dctmd-feedstock.git
+	path = feedstocks/dctmd
+	branch = refs/heads/main
