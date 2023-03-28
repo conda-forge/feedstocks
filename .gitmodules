@@ -75822,3 +75822,7 @@
 	url = https://github.com/conda-forge/fsl-sub-feedstock.git
 	path = feedstocks/fsl-sub
 	branch = refs/heads/main
+[submodule "skmatter"]
+	url = https://github.com/conda-forge/skmatter-feedstock.git
+	path = feedstocks/skmatter
+	branch = refs/heads/main
