@@ -75854,3 +75854,7 @@
 	url = https://github.com/conda-forge/dadi-cli-feedstock.git
 	path = feedstocks/dadi-cli
 	branch = refs/heads/main
+[submodule "chessanalysispipeline"]
+	url = https://github.com/conda-forge/chessanalysispipeline-feedstock.git
+	path = feedstocks/chessanalysispipeline
+	branch = refs/heads/main
