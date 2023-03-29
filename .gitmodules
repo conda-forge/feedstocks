@@ -75850,3 +75850,7 @@
 	url = https://github.com/conda-forge/synopticpy-feedstock.git
 	path = feedstocks/synopticpy
 	branch = refs/heads/main
+[submodule "dadi-cli"]
+	url = https://github.com/conda-forge/dadi-cli-feedstock.git
+	path = feedstocks/dadi-cli
+	branch = refs/heads/main
