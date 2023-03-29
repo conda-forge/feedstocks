@@ -75842,3 +75842,7 @@
 	url = https://github.com/conda-forge/sympy_plot_backends-feedstock.git
 	path = feedstocks/sympy_plot_backends
 	branch = refs/heads/main
+[submodule "fsl-pipe"]
+	url = https://github.com/conda-forge/fsl-pipe-feedstock.git
+	path = feedstocks/fsl-pipe
+	branch = refs/heads/main
