@@ -75846,3 +75846,7 @@
 	url = https://github.com/conda-forge/fsl-pipe-feedstock.git
 	path = feedstocks/fsl-pipe
 	branch = refs/heads/main
+[submodule "synopticpy"]
+	url = https://github.com/conda-forge/synopticpy-feedstock.git
+	path = feedstocks/synopticpy
+	branch = refs/heads/main
