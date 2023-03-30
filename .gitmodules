@@ -75874,3 +75874,7 @@
 	url = https://github.com/conda-forge/flake8-pyproject-feedstock.git
 	path = feedstocks/flake8-pyproject
 	branch = refs/heads/main
+[submodule "r-bde"]
+	url = https://github.com/conda-forge/r-bde-feedstock.git
+	path = feedstocks/r-bde
+	branch = refs/heads/main
