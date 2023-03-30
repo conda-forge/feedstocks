@@ -75898,3 +75898,7 @@
 	url = https://github.com/conda-forge/fsl-sub-plugin-slurm-feedstock.git
 	path = feedstocks/fsl-sub-plugin-slurm
 	branch = refs/heads/main
+[submodule "espnet_model_zoo"]
+	url = https://github.com/conda-forge/espnet_model_zoo-feedstock.git
+	path = feedstocks/espnet_model_zoo
+	branch = refs/heads/main
