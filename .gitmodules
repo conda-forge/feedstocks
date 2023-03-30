@@ -75930,3 +75930,7 @@
 	url = https://github.com/conda-forge/hda-feedstock.git
 	path = feedstocks/hda
 	branch = refs/heads/main
+[submodule "napari-wsi"]
+	url = https://github.com/conda-forge/napari-wsi-feedstock.git
+	path = feedstocks/napari-wsi
+	branch = refs/heads/main
