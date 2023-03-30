@@ -75886,3 +75886,7 @@
 	url = https://github.com/conda-forge/pysmartdl-feedstock.git
 	path = feedstocks/pysmartdl
 	branch = refs/heads/main
+[submodule "geodatasets"]
+	url = https://github.com/conda-forge/geodatasets-feedstock.git
+	path = feedstocks/geodatasets
+	branch = refs/heads/main
