@@ -75890,3 +75890,7 @@
 	url = https://github.com/conda-forge/geodatasets-feedstock.git
 	path = feedstocks/geodatasets
 	branch = refs/heads/main
+[submodule "fsl-sub-plugin-sge"]
+	url = https://github.com/conda-forge/fsl-sub-plugin-sge-feedstock.git
+	path = feedstocks/fsl-sub-plugin-sge
+	branch = refs/heads/main
