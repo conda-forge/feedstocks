@@ -75894,3 +75894,7 @@
 	url = https://github.com/conda-forge/fsl-sub-plugin-sge-feedstock.git
 	path = feedstocks/fsl-sub-plugin-sge
 	branch = refs/heads/main
+[submodule "fsl-sub-plugin-slurm"]
+	url = https://github.com/conda-forge/fsl-sub-plugin-slurm-feedstock.git
+	path = feedstocks/fsl-sub-plugin-slurm
+	branch = refs/heads/main
