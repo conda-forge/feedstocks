@@ -75922,3 +75922,7 @@
 	url = https://github.com/conda-forge/napari-ndev-feedstock.git
 	path = feedstocks/napari-ndev
 	branch = refs/heads/main
+[submodule "napari-meshio"]
+	url = https://github.com/conda-forge/napari-meshio-feedstock.git
+	path = feedstocks/napari-meshio
+	branch = refs/heads/main
