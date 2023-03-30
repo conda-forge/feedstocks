@@ -75870,3 +75870,7 @@
 	url = https://github.com/conda-forge/molmass-feedstock.git
 	path = feedstocks/molmass
 	branch = refs/heads/main
+[submodule "flake8-pyproject"]
+	url = https://github.com/conda-forge/flake8-pyproject-feedstock.git
+	path = feedstocks/flake8-pyproject
+	branch = refs/heads/main
