@@ -75878,3 +75878,7 @@
 	url = https://github.com/conda-forge/r-bde-feedstock.git
 	path = feedstocks/r-bde
 	branch = refs/heads/main
+[submodule "pysipfenn"]
+	url = https://github.com/conda-forge/pysipfenn-feedstock.git
+	path = feedstocks/pysipfenn
+	branch = refs/heads/main
