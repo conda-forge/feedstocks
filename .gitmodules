@@ -75918,3 +75918,7 @@
 	url = https://github.com/conda-forge/napari-macrokit-feedstock.git
 	path = feedstocks/napari-macrokit
 	branch = refs/heads/main
+[submodule "napari-ndev"]
+	url = https://github.com/conda-forge/napari-ndev-feedstock.git
+	path = feedstocks/napari-ndev
+	branch = refs/heads/main
