@@ -75942,3 +75942,7 @@
 	url = https://github.com/conda-forge/napari-solarized-feedstock.git
 	path = feedstocks/napari-solarized
 	branch = refs/heads/main
+[submodule "napari-locpix"]
+	url = https://github.com/conda-forge/napari-locpix-feedstock.git
+	path = feedstocks/napari-locpix
+	branch = refs/heads/main
