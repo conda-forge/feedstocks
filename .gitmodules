@@ -75950,3 +75950,7 @@
 	url = https://github.com/conda-forge/napari-pixel-correction-feedstock.git
 	path = feedstocks/napari-pixel-correction
 	branch = refs/heads/main
+[submodule "napari-bleach-correct"]
+	url = https://github.com/conda-forge/napari-bleach-correct-feedstock.git
+	path = feedstocks/napari-bleach-correct
+	branch = refs/heads/main
