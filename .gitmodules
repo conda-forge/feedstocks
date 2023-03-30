@@ -75946,3 +75946,7 @@
 	url = https://github.com/conda-forge/napari-locpix-feedstock.git
 	path = feedstocks/napari-locpix
 	branch = refs/heads/main
+[submodule "napari-pixel-correction"]
+	url = https://github.com/conda-forge/napari-pixel-correction-feedstock.git
+	path = feedstocks/napari-pixel-correction
+	branch = refs/heads/main
