@@ -75906,3 +75906,7 @@
 	url = https://github.com/conda-forge/pymc-sphinx-theme-feedstock.git
 	path = feedstocks/pymc-sphinx-theme
 	branch = refs/heads/main
+[submodule "openidc_client"]
+	url = https://github.com/conda-forge/openidc_client-feedstock.git
+	path = feedstocks/openidc_client
+	branch = refs/heads/main
