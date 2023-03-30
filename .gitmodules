@@ -75902,3 +75902,7 @@
 	url = https://github.com/conda-forge/espnet_model_zoo-feedstock.git
 	path = feedstocks/espnet_model_zoo
 	branch = refs/heads/main
+[submodule "pymc-sphinx-theme"]
+	url = https://github.com/conda-forge/pymc-sphinx-theme-feedstock.git
+	path = feedstocks/pymc-sphinx-theme
+	branch = refs/heads/main
