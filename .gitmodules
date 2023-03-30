@@ -75862,3 +75862,7 @@
 	url = https://github.com/conda-forge/docbook-xsl-feedstock.git
 	path = feedstocks/docbook-xsl
 	branch = refs/heads/main
+[submodule "r-nodbi"]
+	url = https://github.com/conda-forge/r-nodbi-feedstock.git
+	path = feedstocks/r-nodbi
+	branch = refs/heads/main
