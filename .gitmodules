@@ -75914,3 +75914,7 @@
 	url = https://github.com/conda-forge/aiida-optimize-feedstock.git
 	path = feedstocks/aiida-optimize
 	branch = refs/heads/main
+[submodule "napari-macrokit"]
+	url = https://github.com/conda-forge/napari-macrokit-feedstock.git
+	path = feedstocks/napari-macrokit
+	branch = refs/heads/main
