@@ -75858,3 +75858,7 @@
 	url = https://github.com/conda-forge/chessanalysispipeline-feedstock.git
 	path = feedstocks/chessanalysispipeline
 	branch = refs/heads/main
+[submodule "docbook-xsl"]
+	url = https://github.com/conda-forge/docbook-xsl-feedstock.git
+	path = feedstocks/docbook-xsl
+	branch = refs/heads/main
