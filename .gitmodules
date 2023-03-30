@@ -75910,3 +75910,7 @@
 	url = https://github.com/conda-forge/openidc_client-feedstock.git
 	path = feedstocks/openidc_client
 	branch = refs/heads/main
+[submodule "aiida-optimize"]
+	url = https://github.com/conda-forge/aiida-optimize-feedstock.git
+	path = feedstocks/aiida-optimize
+	branch = refs/heads/main
