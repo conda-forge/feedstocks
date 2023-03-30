@@ -75926,3 +75926,7 @@
 	url = https://github.com/conda-forge/napari-meshio-feedstock.git
 	path = feedstocks/napari-meshio
 	branch = refs/heads/main
+[submodule "hda"]
+	url = https://github.com/conda-forge/hda-feedstock.git
+	path = feedstocks/hda
+	branch = refs/heads/main
