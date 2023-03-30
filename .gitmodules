@@ -75866,3 +75866,7 @@
 	url = https://github.com/conda-forge/r-nodbi-feedstock.git
 	path = feedstocks/r-nodbi
 	branch = refs/heads/main
+[submodule "molmass"]
+	url = https://github.com/conda-forge/molmass-feedstock.git
+	path = feedstocks/molmass
+	branch = refs/heads/main
