@@ -75994,3 +75994,7 @@
 	url = https://github.com/conda-forge/aiida-cp2k-feedstock.git
 	path = feedstocks/aiida-cp2k
 	branch = refs/heads/main
+[submodule "pyemf3"]
+	url = https://github.com/conda-forge/pyemf3-feedstock.git
+	path = feedstocks/pyemf3
+	branch = refs/heads/main
