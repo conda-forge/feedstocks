@@ -75974,3 +75974,7 @@
 	url = https://github.com/conda-forge/lammpsio-feedstock.git
 	path = feedstocks/lammpsio
 	branch = refs/heads/main
+[submodule "rfc3161ng"]
+	url = https://github.com/conda-forge/rfc3161ng-feedstock.git
+	path = feedstocks/rfc3161ng
+	branch = refs/heads/main
