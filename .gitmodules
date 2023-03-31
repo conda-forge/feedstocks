@@ -75982,3 +75982,7 @@
 	url = https://github.com/conda-forge/r-chromote-feedstock.git
 	path = feedstocks/r-chromote
 	branch = refs/heads/main
+[submodule "aiida-gaussian-datatypes"]
+	url = https://github.com/conda-forge/aiida-gaussian-datatypes-feedstock.git
+	path = feedstocks/aiida-gaussian-datatypes
+	branch = refs/heads/main
