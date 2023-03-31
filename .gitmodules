@@ -75958,3 +75958,7 @@
 	url = https://github.com/conda-forge/napari-input-visualizer-feedstock.git
 	path = feedstocks/napari-input-visualizer
 	branch = refs/heads/main
+[submodule "dicom-anonymizer"]
+	url = https://github.com/conda-forge/dicom-anonymizer-feedstock.git
+	path = feedstocks/dicom-anonymizer
+	branch = refs/heads/main
