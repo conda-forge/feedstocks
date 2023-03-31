@@ -76014,3 +76014,7 @@
 	url = https://github.com/conda-forge/magic_enum-feedstock.git
 	path = feedstocks/magic_enum
 	branch = refs/heads/main
+[submodule "libcublas"]
+	url = https://github.com/conda-forge/libcublas-feedstock.git
+	path = feedstocks/libcublas
+	branch = refs/heads/main
