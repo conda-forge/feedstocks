@@ -76010,3 +76010,7 @@
 	url = https://github.com/conda-forge/pdb-tools-feedstock.git
 	path = feedstocks/pdb-tools
 	branch = refs/heads/main
+[submodule "magic_enum"]
+	url = https://github.com/conda-forge/magic_enum-feedstock.git
+	path = feedstocks/magic_enum
+	branch = refs/heads/main
