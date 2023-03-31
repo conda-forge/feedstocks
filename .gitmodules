@@ -75990,3 +75990,7 @@
 	url = https://github.com/conda-forge/wwt_api_client-feedstock.git
 	path = feedstocks/wwt_api_client
 	branch = refs/heads/main
+[submodule "aiida-cp2k"]
+	url = https://github.com/conda-forge/aiida-cp2k-feedstock.git
+	path = feedstocks/aiida-cp2k
+	branch = refs/heads/main
