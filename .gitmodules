@@ -75998,3 +75998,7 @@
 	url = https://github.com/conda-forge/pyemf3-feedstock.git
 	path = feedstocks/pyemf3
 	branch = refs/heads/main
+[submodule "napari-segment"]
+	url = https://github.com/conda-forge/napari-segment-feedstock.git
+	path = feedstocks/napari-segment
+	branch = refs/heads/main
