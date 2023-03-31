@@ -75962,3 +75962,7 @@
 	url = https://github.com/conda-forge/dicom-anonymizer-feedstock.git
 	path = feedstocks/dicom-anonymizer
 	branch = refs/heads/main
+[submodule "flake8-pylint"]
+	url = https://github.com/conda-forge/flake8-pylint-feedstock.git
+	path = feedstocks/flake8-pylint
+	branch = refs/heads/main
