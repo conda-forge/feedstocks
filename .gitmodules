@@ -76002,3 +76002,7 @@
 	url = https://github.com/conda-forge/napari-segment-feedstock.git
 	path = feedstocks/napari-segment
 	branch = refs/heads/main
+[submodule "sci-fab"]
+	url = https://github.com/conda-forge/sci-fab-feedstock.git
+	path = feedstocks/sci-fab
+	branch = refs/heads/main
