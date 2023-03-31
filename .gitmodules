@@ -76018,3 +76018,7 @@
 	url = https://github.com/conda-forge/libcublas-feedstock.git
 	path = feedstocks/libcublas
 	branch = refs/heads/main
+[submodule "f77_zmq"]
+	url = https://github.com/conda-forge/f77_zmq-feedstock.git
+	path = feedstocks/f77_zmq
+	branch = refs/heads/main
