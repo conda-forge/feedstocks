@@ -76006,3 +76006,7 @@
 	url = https://github.com/conda-forge/sci-fab-feedstock.git
 	path = feedstocks/sci-fab
 	branch = refs/heads/main
+[submodule "pdb-tools"]
+	url = https://github.com/conda-forge/pdb-tools-feedstock.git
+	path = feedstocks/pdb-tools
+	branch = refs/heads/main
