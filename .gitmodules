@@ -75986,3 +75986,7 @@
 	url = https://github.com/conda-forge/aiida-gaussian-datatypes-feedstock.git
 	path = feedstocks/aiida-gaussian-datatypes
 	branch = refs/heads/main
+[submodule "wwt_api_client"]
+	url = https://github.com/conda-forge/wwt_api_client-feedstock.git
+	path = feedstocks/wwt_api_client
+	branch = refs/heads/main
