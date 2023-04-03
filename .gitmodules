@@ -76026,3 +76026,7 @@
 	url = https://github.com/conda-forge/r-webshot2-feedstock.git
 	path = feedstocks/r-webshot2
 	branch = refs/heads/main
+[submodule "source"]
+	url = https://github.com/conda-forge/source-feedstock.git
+	path = feedstocks/source
+	branch = refs/heads/main
