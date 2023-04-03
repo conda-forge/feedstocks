@@ -76030,3 +76030,7 @@
 	url = https://github.com/conda-forge/source-feedstock.git
 	path = feedstocks/source
 	branch = refs/heads/main
+[submodule "pennylane-lightning-gpu"]
+	url = https://github.com/conda-forge/pennylane-lightning-gpu-feedstock.git
+	path = feedstocks/pennylane-lightning-gpu
+	branch = refs/heads/main
