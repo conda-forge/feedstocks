@@ -76050,3 +76050,7 @@
 	url = https://github.com/conda-forge/napari-result-stack-feedstock.git
 	path = feedstocks/napari-result-stack
 	branch = refs/heads/main
+[submodule "sklearn-genetic-opt"]
+	url = https://github.com/conda-forge/sklearn-genetic-opt-feedstock.git
+	path = feedstocks/sklearn-genetic-opt
+	branch = refs/heads/main
