@@ -76042,3 +76042,7 @@
 	url = https://github.com/conda-forge/okapi-em-feedstock.git
 	path = feedstocks/okapi-em
 	branch = refs/heads/main
+[submodule "bfio"]
+	url = https://github.com/conda-forge/bfio-feedstock.git
+	path = feedstocks/bfio
+	branch = refs/heads/main
