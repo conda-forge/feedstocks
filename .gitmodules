@@ -76058,3 +76058,7 @@
 	url = https://github.com/conda-forge/pynecone-feedstock.git
 	path = feedstocks/pynecone
 	branch = refs/heads/main
+[submodule "peft"]
+	url = https://github.com/conda-forge/peft-feedstock.git
+	path = feedstocks/peft
+	branch = refs/heads/main
