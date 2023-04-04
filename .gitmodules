@@ -76062,3 +76062,7 @@
 	url = https://github.com/conda-forge/peft-feedstock.git
 	path = feedstocks/peft
 	branch = refs/heads/main
+[submodule "loralib"]
+	url = https://github.com/conda-forge/loralib-feedstock.git
+	path = feedstocks/loralib
+	branch = refs/heads/main
