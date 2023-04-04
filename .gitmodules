@@ -76046,3 +76046,7 @@
 	url = https://github.com/conda-forge/bfio-feedstock.git
 	path = feedstocks/bfio
 	branch = refs/heads/main
+[submodule "napari-result-stack"]
+	url = https://github.com/conda-forge/napari-result-stack-feedstock.git
+	path = feedstocks/napari-result-stack
+	branch = refs/heads/main
