@@ -76034,3 +76034,7 @@
 	url = https://github.com/conda-forge/pennylane-lightning-gpu-feedstock.git
 	path = feedstocks/pennylane-lightning-gpu
 	branch = refs/heads/main
+[submodule "xlsx2csv"]
+	url = https://github.com/conda-forge/xlsx2csv-feedstock.git
+	path = feedstocks/xlsx2csv
+	branch = refs/heads/main
