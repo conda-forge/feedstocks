@@ -76054,3 +76054,7 @@
 	url = https://github.com/conda-forge/sklearn-genetic-opt-feedstock.git
 	path = feedstocks/sklearn-genetic-opt
 	branch = refs/heads/main
+[submodule "pynecone"]
+	url = https://github.com/conda-forge/pynecone-feedstock.git
+	path = feedstocks/pynecone
+	branch = refs/heads/main
