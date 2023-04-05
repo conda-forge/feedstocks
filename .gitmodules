@@ -76130,3 +76130,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-cockroachdb-feedstock.git
 	path = feedstocks/sqlalchemy-cockroachdb
 	branch = refs/heads/main
+[submodule "napari-gruvbox"]
+	url = https://github.com/conda-forge/napari-gruvbox-feedstock.git
+	path = feedstocks/napari-gruvbox
+	branch = refs/heads/main
