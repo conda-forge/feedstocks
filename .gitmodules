@@ -76066,3 +76066,7 @@
 	url = https://github.com/conda-forge/loralib-feedstock.git
 	path = feedstocks/loralib
 	branch = refs/heads/main
+[submodule "mlir-python-bindings"]
+	url = https://github.com/conda-forge/mlir-python-bindings-feedstock.git
+	path = feedstocks/mlir-python-bindings
+	branch = refs/heads/main
