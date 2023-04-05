@@ -76090,3 +76090,7 @@
 	url = https://github.com/conda-forge/napari-tomotwin-feedstock.git
 	path = feedstocks/napari-tomotwin
 	branch = refs/heads/main
+[submodule "psf"]
+	url = https://github.com/conda-forge/psf-feedstock.git
+	path = feedstocks/psf
+	branch = refs/heads/main
