@@ -76086,3 +76086,7 @@
 	url = https://github.com/conda-forge/pytcs-feedstock.git
 	path = feedstocks/pytcs
 	branch = refs/heads/main
+[submodule "napari-tomotwin"]
+	url = https://github.com/conda-forge/napari-tomotwin-feedstock.git
+	path = feedstocks/napari-tomotwin
+	branch = refs/heads/main
