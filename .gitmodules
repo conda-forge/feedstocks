@@ -76102,3 +76102,7 @@
 	url = https://github.com/conda-forge/dingo-gw-feedstock.git
 	path = feedstocks/dingo-gw
 	branch = refs/heads/main
+[submodule "ocean-contracts"]
+	url = https://github.com/conda-forge/ocean-contracts-feedstock.git
+	path = feedstocks/ocean-contracts
+	branch = refs/heads/main
