@@ -76098,3 +76098,7 @@
 	url = https://github.com/conda-forge/sphinx-favicon-feedstock.git
 	path = feedstocks/sphinx-favicon
 	branch = refs/heads/main
+[submodule "dingo-gw"]
+	url = https://github.com/conda-forge/dingo-gw-feedstock.git
+	path = feedstocks/dingo-gw
+	branch = refs/heads/main
