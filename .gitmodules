@@ -76082,3 +76082,7 @@
 	url = https://github.com/conda-forge/aiocron-feedstock.git
 	path = feedstocks/aiocron
 	branch = refs/heads/main
+[submodule "pytcs"]
+	url = https://github.com/conda-forge/pytcs-feedstock.git
+	path = feedstocks/pytcs
+	branch = refs/heads/main
