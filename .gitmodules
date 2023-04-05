@@ -76070,3 +76070,7 @@
 	url = https://github.com/conda-forge/mlir-python-bindings-feedstock.git
 	path = feedstocks/mlir-python-bindings
 	branch = refs/heads/main
+[submodule "healpix"]
+	url = https://github.com/conda-forge/healpix-feedstock.git
+	path = feedstocks/healpix
+	branch = refs/heads/main
