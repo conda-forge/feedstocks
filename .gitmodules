@@ -76094,3 +76094,7 @@
 	url = https://github.com/conda-forge/psf-feedstock.git
 	path = feedstocks/psf
 	branch = refs/heads/main
+[submodule "sphinx-favicon"]
+	url = https://github.com/conda-forge/sphinx-favicon-feedstock.git
+	path = feedstocks/sphinx-favicon
+	branch = refs/heads/main
