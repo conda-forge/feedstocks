@@ -76118,3 +76118,7 @@
 	url = https://github.com/conda-forge/aiohttp-devtools-feedstock.git
 	path = feedstocks/aiohttp-devtools
 	branch = refs/heads/main
+[submodule "collections-undo"]
+	url = https://github.com/conda-forge/collections-undo-feedstock.git
+	path = feedstocks/collections-undo
+	branch = refs/heads/main
