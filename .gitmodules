@@ -76114,3 +76114,7 @@
 	url = https://github.com/conda-forge/flake8-import-style-feedstock.git
 	path = feedstocks/flake8-import-style
 	branch = refs/heads/main
+[submodule "aiohttp-devtools"]
+	url = https://github.com/conda-forge/aiohttp-devtools-feedstock.git
+	path = feedstocks/aiohttp-devtools
+	branch = refs/heads/main
