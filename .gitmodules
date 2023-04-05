@@ -76110,3 +76110,7 @@
 	url = https://github.com/conda-forge/cardiac-mps-feedstock.git
 	path = feedstocks/cardiac-mps
 	branch = refs/heads/main
+[submodule "flake8-import-style"]
+	url = https://github.com/conda-forge/flake8-import-style-feedstock.git
+	path = feedstocks/flake8-import-style
+	branch = refs/heads/main
