@@ -76074,3 +76074,7 @@
 	url = https://github.com/conda-forge/healpix-feedstock.git
 	path = feedstocks/healpix
 	branch = refs/heads/main
+[submodule "jinja2schema"]
+	url = https://github.com/conda-forge/jinja2schema-feedstock.git
+	path = feedstocks/jinja2schema
+	branch = refs/heads/main
