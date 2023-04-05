@@ -76106,3 +76106,7 @@
 	url = https://github.com/conda-forge/ocean-contracts-feedstock.git
 	path = feedstocks/ocean-contracts
 	branch = refs/heads/main
+[submodule "cardiac-mps"]
+	url = https://github.com/conda-forge/cardiac-mps-feedstock.git
+	path = feedstocks/cardiac-mps
+	branch = refs/heads/main
