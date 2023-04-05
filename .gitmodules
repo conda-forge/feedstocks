@@ -76078,3 +76078,7 @@
 	url = https://github.com/conda-forge/jinja2schema-feedstock.git
 	path = feedstocks/jinja2schema
 	branch = refs/heads/main
+[submodule "aiocron"]
+	url = https://github.com/conda-forge/aiocron-feedstock.git
+	path = feedstocks/aiocron
+	branch = refs/heads/main
