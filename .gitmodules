@@ -76126,3 +76126,7 @@
 	url = https://github.com/conda-forge/oneat-augmentations-feedstock.git
 	path = feedstocks/oneat-augmentations
 	branch = refs/heads/main
+[submodule "sqlalchemy-cockroachdb"]
+	url = https://github.com/conda-forge/sqlalchemy-cockroachdb-feedstock.git
+	path = feedstocks/sqlalchemy-cockroachdb
+	branch = refs/heads/main
