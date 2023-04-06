@@ -76150,3 +76150,7 @@
 	url = https://github.com/conda-forge/jupyverse-api-feedstock.git
 	path = feedstocks/jupyverse-api
 	branch = refs/heads/main
+[submodule "ssh-python"]
+	url = https://github.com/conda-forge/ssh-python-feedstock.git
+	path = feedstocks/ssh-python
+	branch = refs/heads/main
