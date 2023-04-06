@@ -76142,3 +76142,7 @@
 	url = https://github.com/conda-forge/jupyterlite-pyodide-kernel-feedstock.git
 	path = feedstocks/jupyterlite-pyodide-kernel
 	branch = refs/heads/main
+[submodule "jupyterlite-core"]
+	url = https://github.com/conda-forge/jupyterlite-core-feedstock.git
+	path = feedstocks/jupyterlite-core
+	branch = refs/heads/main
