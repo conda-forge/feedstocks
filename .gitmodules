@@ -76158,3 +76158,7 @@
 	url = https://github.com/conda-forge/parallel-ssh-feedstock.git
 	path = feedstocks/parallel-ssh
 	branch = refs/heads/main
+[submodule "mypy-boto3-secretsmanager"]
+	url = https://github.com/conda-forge/mypy-boto3-secretsmanager-feedstock.git
+	path = feedstocks/mypy-boto3-secretsmanager
+	branch = refs/heads/main
