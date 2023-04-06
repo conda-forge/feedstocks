@@ -76134,3 +76134,7 @@
 	url = https://github.com/conda-forge/napari-gruvbox-feedstock.git
 	path = feedstocks/napari-gruvbox
 	branch = refs/heads/main
+[submodule "jupyterlite"]
+	url = https://github.com/conda-forge/jupyterlite-feedstock.git
+	path = feedstocks/jupyterlite
+	branch = refs/heads/main
