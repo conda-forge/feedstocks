@@ -76170,3 +76170,7 @@
 	url = https://github.com/conda-forge/lightning-feedstock.git
 	path = feedstocks/lightning
 	branch = refs/heads/main
+[submodule "conda-project"]
+	url = https://github.com/conda-forge/conda-project-feedstock.git
+	path = feedstocks/conda-project
+	branch = refs/heads/main
