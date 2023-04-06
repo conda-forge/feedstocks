@@ -76154,3 +76154,7 @@
 	url = https://github.com/conda-forge/ssh-python-feedstock.git
 	path = feedstocks/ssh-python
 	branch = refs/heads/main
+[submodule "parallel-ssh"]
+	url = https://github.com/conda-forge/parallel-ssh-feedstock.git
+	path = feedstocks/parallel-ssh
+	branch = refs/heads/main
