@@ -76162,3 +76162,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-secretsmanager-feedstock.git
 	path = feedstocks/mypy-boto3-secretsmanager
 	branch = refs/heads/main
+[submodule "pybacktrack"]
+	url = https://github.com/conda-forge/pybacktrack-feedstock.git
+	path = feedstocks/pybacktrack
+	branch = refs/heads/main
