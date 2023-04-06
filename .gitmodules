@@ -76146,3 +76146,7 @@
 	url = https://github.com/conda-forge/jupyterlite-core-feedstock.git
 	path = feedstocks/jupyterlite-core
 	branch = refs/heads/main
+[submodule "jupyverse-api"]
+	url = https://github.com/conda-forge/jupyverse-api-feedstock.git
+	path = feedstocks/jupyverse-api
+	branch = refs/heads/main
