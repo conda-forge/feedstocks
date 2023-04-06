@@ -76166,3 +76166,7 @@
 	url = https://github.com/conda-forge/pybacktrack-feedstock.git
 	path = feedstocks/pybacktrack
 	branch = refs/heads/main
+[submodule "lightning"]
+	url = https://github.com/conda-forge/lightning-feedstock.git
+	path = feedstocks/lightning
+	branch = refs/heads/main
