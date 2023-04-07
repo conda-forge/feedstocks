@@ -76182,3 +76182,7 @@
 	url = https://github.com/conda-forge/libcusolver-feedstock.git
 	path = feedstocks/libcusolver
 	branch = refs/heads/main
+[submodule "cuda-cccl-impl"]
+	url = https://github.com/conda-forge/cuda-cccl-impl-feedstock.git
+	path = feedstocks/cuda-cccl-impl
+	branch = refs/heads/main
