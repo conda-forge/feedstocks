@@ -76230,3 +76230,7 @@
 	url = https://github.com/conda-forge/pygsl_lite-feedstock.git
 	path = feedstocks/pygsl_lite
 	branch = refs/heads/main
+[submodule "mellon"]
+	url = https://github.com/conda-forge/mellon-feedstock.git
+	path = feedstocks/mellon
+	branch = refs/heads/main
