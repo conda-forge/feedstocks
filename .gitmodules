@@ -76178,3 +76178,7 @@
 	url = https://github.com/conda-forge/libcusparse-feedstock.git
 	path = feedstocks/libcusparse
 	branch = refs/heads/main
+[submodule "libcusolver"]
+	url = https://github.com/conda-forge/libcusolver-feedstock.git
+	path = feedstocks/libcusolver
+	branch = refs/heads/main
