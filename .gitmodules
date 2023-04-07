@@ -76198,3 +76198,7 @@
 	url = https://github.com/conda-forge/conda-forge-metadata-feedstock.git
 	path = feedstocks/conda-forge-metadata
 	branch = refs/heads/main
+[submodule "excitingtools"]
+	url = https://github.com/conda-forge/excitingtools-feedstock.git
+	path = feedstocks/excitingtools
+	branch = refs/heads/main
