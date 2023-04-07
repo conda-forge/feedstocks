@@ -76226,3 +76226,7 @@
 	url = https://github.com/conda-forge/pyseobnr-feedstock.git
 	path = feedstocks/pyseobnr
 	branch = refs/heads/main
+[submodule "pygsl_lite"]
+	url = https://github.com/conda-forge/pygsl_lite-feedstock.git
+	path = feedstocks/pygsl_lite
+	branch = refs/heads/main
