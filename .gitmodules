@@ -76194,3 +76194,7 @@
 	url = https://github.com/conda-forge/libnvjitlink-feedstock.git
 	path = feedstocks/libnvjitlink
 	branch = refs/heads/main
+[submodule "conda-forge-metadata"]
+	url = https://github.com/conda-forge/conda-forge-metadata-feedstock.git
+	path = feedstocks/conda-forge-metadata
+	branch = refs/heads/main
