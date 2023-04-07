@@ -76214,3 +76214,7 @@
 	url = https://github.com/conda-forge/mps-motion-feedstock.git
 	path = feedstocks/mps-motion
 	branch = refs/heads/main
+[submodule "glue-jupyter"]
+	url = https://github.com/conda-forge/glue-jupyter-feedstock.git
+	path = feedstocks/glue-jupyter
+	branch = refs/heads/main
