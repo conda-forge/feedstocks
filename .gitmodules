@@ -76190,3 +76190,7 @@
 	url = https://github.com/conda-forge/cuda-cccl-feedstock.git
 	path = feedstocks/cuda-cccl
 	branch = refs/heads/main
+[submodule "libnvjitlink"]
+	url = https://github.com/conda-forge/libnvjitlink-feedstock.git
+	path = feedstocks/libnvjitlink
+	branch = refs/heads/main
