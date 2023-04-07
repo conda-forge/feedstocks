@@ -76210,3 +76210,7 @@
 	url = https://github.com/conda-forge/duckargs-feedstock.git
 	path = feedstocks/duckargs
 	branch = refs/heads/main
+[submodule "mps-motion"]
+	url = https://github.com/conda-forge/mps-motion-feedstock.git
+	path = feedstocks/mps-motion
+	branch = refs/heads/main
