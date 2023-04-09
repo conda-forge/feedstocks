@@ -76238,3 +76238,7 @@
 	url = https://github.com/conda-forge/r-shinydisconnect-feedstock.git
 	path = feedstocks/r-shinydisconnect
 	branch = refs/heads/main
+[submodule "r-pedquant"]
+	url = https://github.com/conda-forge/r-pedquant-feedstock.git
+	path = feedstocks/r-pedquant
+	branch = refs/heads/main
