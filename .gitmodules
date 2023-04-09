@@ -76234,3 +76234,7 @@
 	url = https://github.com/conda-forge/mellon-feedstock.git
 	path = feedstocks/mellon
 	branch = refs/heads/main
+[submodule "r-shinydisconnect"]
+	url = https://github.com/conda-forge/r-shinydisconnect-feedstock.git
+	path = feedstocks/r-shinydisconnect
+	branch = refs/heads/main
