@@ -76286,3 +76286,7 @@
 	url = https://github.com/conda-forge/xkcd-cli-feedstock.git
 	path = feedstocks/xkcd-cli
 	branch = refs/heads/main
+[submodule "libcufft"]
+	url = https://github.com/conda-forge/libcufft-feedstock.git
+	path = feedstocks/libcufft
+	branch = refs/heads/main
