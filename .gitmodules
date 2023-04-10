@@ -76262,3 +76262,7 @@
 	url = https://github.com/conda-forge/mmengine-feedstock.git
 	path = feedstocks/mmengine
 	branch = refs/heads/main
+[submodule "afscgap"]
+	url = https://github.com/conda-forge/afscgap-feedstock.git
+	path = feedstocks/afscgap
+	branch = refs/heads/main
