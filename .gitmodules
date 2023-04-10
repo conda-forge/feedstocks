@@ -76258,3 +76258,7 @@
 	url = https://github.com/conda-forge/litedram-feedstock.git
 	path = feedstocks/litedram
 	branch = refs/heads/main
+[submodule "mmengine"]
+	url = https://github.com/conda-forge/mmengine-feedstock.git
+	path = feedstocks/mmengine
+	branch = refs/heads/main
