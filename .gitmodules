@@ -76266,3 +76266,7 @@
 	url = https://github.com/conda-forge/afscgap-feedstock.git
 	path = feedstocks/afscgap
 	branch = refs/heads/main
+[submodule "hpc"]
+	url = https://github.com/conda-forge/hpc-feedstock.git
+	path = feedstocks/hpc
+	branch = refs/heads/main
