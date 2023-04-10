@@ -76290,3 +76290,7 @@
 	url = https://github.com/conda-forge/libcufft-feedstock.git
 	path = feedstocks/libcufft
 	branch = refs/heads/main
+[submodule "intake-duckdb"]
+	url = https://github.com/conda-forge/intake-duckdb-feedstock.git
+	path = feedstocks/intake-duckdb
+	branch = refs/heads/main
