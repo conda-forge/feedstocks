@@ -76274,3 +76274,7 @@
 	url = https://github.com/conda-forge/bigbrother-feedstock.git
 	path = feedstocks/bigbrother
 	branch = refs/heads/main
+[submodule "pangaeapy"]
+	url = https://github.com/conda-forge/pangaeapy-feedstock.git
+	path = feedstocks/pangaeapy
+	branch = refs/heads/main
