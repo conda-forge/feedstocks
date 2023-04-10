@@ -76242,3 +76242,7 @@
 	url = https://github.com/conda-forge/r-pedquant-feedstock.git
 	path = feedstocks/r-pedquant
 	branch = refs/heads/main
+[submodule "openapi-schema-pydantic"]
+	url = https://github.com/conda-forge/openapi-schema-pydantic-feedstock.git
+	path = feedstocks/openapi-schema-pydantic
+	branch = refs/heads/main
