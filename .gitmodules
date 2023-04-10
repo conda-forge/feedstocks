@@ -76250,3 +76250,7 @@
 	url = https://github.com/conda-forge/langchain-feedstock.git
 	path = feedstocks/langchain
 	branch = refs/heads/main
+[submodule "involucro"]
+	url = https://github.com/conda-forge/involucro-feedstock.git
+	path = feedstocks/involucro
+	branch = refs/heads/main
