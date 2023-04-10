@@ -76270,3 +76270,7 @@
 	url = https://github.com/conda-forge/hpc-feedstock.git
 	path = feedstocks/hpc
 	branch = refs/heads/main
+[submodule "bigbrother"]
+	url = https://github.com/conda-forge/bigbrother-feedstock.git
+	path = feedstocks/bigbrother
+	branch = refs/heads/main
