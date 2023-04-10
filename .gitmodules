@@ -76282,3 +76282,7 @@
 	url = https://github.com/conda-forge/litepcie-feedstock.git
 	path = feedstocks/litepcie
 	branch = refs/heads/main
+[submodule "xkcd-cli"]
+	url = https://github.com/conda-forge/xkcd-cli-feedstock.git
+	path = feedstocks/xkcd-cli
+	branch = refs/heads/main
