@@ -76246,3 +76246,7 @@
 	url = https://github.com/conda-forge/openapi-schema-pydantic-feedstock.git
 	path = feedstocks/openapi-schema-pydantic
 	branch = refs/heads/main
+[submodule "langchain"]
+	url = https://github.com/conda-forge/langchain-feedstock.git
+	path = feedstocks/langchain
+	branch = refs/heads/main
