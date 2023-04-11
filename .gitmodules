@@ -76334,3 +76334,7 @@
 	url = https://github.com/conda-forge/napari-mat-file-reader-feedstock.git
 	path = feedstocks/napari-mat-file-reader
 	branch = refs/heads/main
+[submodule "napari-annotate"]
+	url = https://github.com/conda-forge/napari-annotate-feedstock.git
+	path = feedstocks/napari-annotate
+	branch = refs/heads/main
