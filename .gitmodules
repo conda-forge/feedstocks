@@ -76314,3 +76314,7 @@
 	url = https://github.com/conda-forge/perfmetrics-feedstock.git
 	path = feedstocks/perfmetrics
 	branch = refs/heads/main
+[submodule "napari-boids"]
+	url = https://github.com/conda-forge/napari-boids-feedstock.git
+	path = feedstocks/napari-boids
+	branch = refs/heads/main
