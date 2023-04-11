@@ -76326,3 +76326,7 @@
 	url = https://github.com/conda-forge/remotezip-feedstock.git
 	path = feedstocks/remotezip
 	branch = refs/heads/main
+[submodule "napari-sif-reader"]
+	url = https://github.com/conda-forge/napari-sif-reader-feedstock.git
+	path = feedstocks/napari-sif-reader
+	branch = refs/heads/main
