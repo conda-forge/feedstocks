@@ -76338,3 +76338,7 @@
 	url = https://github.com/conda-forge/napari-annotate-feedstock.git
 	path = feedstocks/napari-annotate
 	branch = refs/heads/main
+[submodule "napari-aphid"]
+	url = https://github.com/conda-forge/napari-aphid-feedstock.git
+	path = feedstocks/napari-aphid
+	branch = refs/heads/main
