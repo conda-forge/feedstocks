@@ -76354,3 +76354,7 @@
 	url = https://github.com/conda-forge/napari-buds-feedstock.git
 	path = feedstocks/napari-buds
 	branch = refs/heads/main
+[submodule "napari-nibabel"]
+	url = https://github.com/conda-forge/napari-nibabel-feedstock.git
+	path = feedstocks/napari-nibabel
+	branch = refs/heads/main
