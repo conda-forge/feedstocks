@@ -76306,3 +76306,7 @@
 	url = https://github.com/conda-forge/mixpanel-feedstock.git
 	path = feedstocks/mixpanel
 	branch = refs/heads/main
+[submodule "tranquilo"]
+	url = https://github.com/conda-forge/tranquilo-feedstock.git
+	path = feedstocks/tranquilo
+	branch = refs/heads/main
