@@ -76342,3 +76342,7 @@
 	url = https://github.com/conda-forge/napari-aphid-feedstock.git
 	path = feedstocks/napari-aphid
 	branch = refs/heads/main
+[submodule "vollseg-napari-mtrack"]
+	url = https://github.com/conda-forge/vollseg-napari-mtrack-feedstock.git
+	path = feedstocks/vollseg-napari-mtrack
+	branch = refs/heads/main
