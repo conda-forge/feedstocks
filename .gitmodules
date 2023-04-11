@@ -76310,3 +76310,7 @@
 	url = https://github.com/conda-forge/tranquilo-feedstock.git
 	path = feedstocks/tranquilo
 	branch = refs/heads/main
+[submodule "perfmetrics"]
+	url = https://github.com/conda-forge/perfmetrics-feedstock.git
+	path = feedstocks/perfmetrics
+	branch = refs/heads/main
