@@ -76302,3 +76302,7 @@
 	url = https://github.com/conda-forge/rapidpe-rift-pipe-feedstock.git
 	path = feedstocks/rapidpe-rift-pipe
 	branch = refs/heads/main
+[submodule "mixpanel"]
+	url = https://github.com/conda-forge/mixpanel-feedstock.git
+	path = feedstocks/mixpanel
+	branch = refs/heads/main
