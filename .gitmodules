@@ -76358,3 +76358,7 @@
 	url = https://github.com/conda-forge/napari-nibabel-feedstock.git
 	path = feedstocks/napari-nibabel
 	branch = refs/heads/main
+[submodule "napari-boxmanager"]
+	url = https://github.com/conda-forge/napari-boxmanager-feedstock.git
+	path = feedstocks/napari-boxmanager
+	branch = refs/heads/main
