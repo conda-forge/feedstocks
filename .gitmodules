@@ -76330,3 +76330,7 @@
 	url = https://github.com/conda-forge/napari-sif-reader-feedstock.git
 	path = feedstocks/napari-sif-reader
 	branch = refs/heads/main
+[submodule "napari-mat-file-reader"]
+	url = https://github.com/conda-forge/napari-mat-file-reader-feedstock.git
+	path = feedstocks/napari-mat-file-reader
+	branch = refs/heads/main
