@@ -76446,3 +76446,7 @@
 	url = https://github.com/conda-forge/dclab-feedstock.git
 	path = feedstocks/dclab
 	branch = refs/heads/main
+[submodule "brainreg-napari"]
+	url = https://github.com/conda-forge/brainreg-napari-feedstock.git
+	path = feedstocks/brainreg-napari
+	branch = refs/heads/main
