@@ -76422,3 +76422,7 @@
 	url = https://github.com/conda-forge/napari-pointslayer-projection-feedstock.git
 	path = feedstocks/napari-pointslayer-projection
 	branch = refs/heads/main
+[submodule "zarr-tools"]
+	url = https://github.com/conda-forge/zarr-tools-feedstock.git
+	path = feedstocks/zarr-tools
+	branch = refs/heads/main
