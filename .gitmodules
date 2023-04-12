@@ -76390,3 +76390,7 @@
 	url = https://github.com/conda-forge/recycle-feedstock.git
 	path = feedstocks/recycle
 	branch = refs/heads/main
+[submodule "nlptest"]
+	url = https://github.com/conda-forge/nlptest-feedstock.git
+	path = feedstocks/nlptest
+	branch = refs/heads/main
