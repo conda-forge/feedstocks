@@ -76430,3 +76430,7 @@
 	url = https://github.com/conda-forge/napari-bbox-feedstock.git
 	path = feedstocks/napari-bbox
 	branch = refs/heads/main
+[submodule "napari-obj"]
+	url = https://github.com/conda-forge/napari-obj-feedstock.git
+	path = feedstocks/napari-obj
+	branch = refs/heads/main
