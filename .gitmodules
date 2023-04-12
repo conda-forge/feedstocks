@@ -76426,3 +76426,7 @@
 	url = https://github.com/conda-forge/zarr-tools-feedstock.git
 	path = feedstocks/zarr-tools
 	branch = refs/heads/main
+[submodule "napari-bbox"]
+	url = https://github.com/conda-forge/napari-bbox-feedstock.git
+	path = feedstocks/napari-bbox
+	branch = refs/heads/main
