@@ -76410,3 +76410,7 @@
 	url = https://github.com/conda-forge/ipytablewidgets-feedstock.git
 	path = feedstocks/ipytablewidgets
 	branch = refs/heads/main
+[submodule "napari-rioxarray"]
+	url = https://github.com/conda-forge/napari-rioxarray-feedstock.git
+	path = feedstocks/napari-rioxarray
+	branch = refs/heads/main
