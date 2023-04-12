@@ -76462,3 +76462,7 @@
 	url = https://github.com/conda-forge/cuda-nvrtc-feedstock.git
 	path = feedstocks/cuda-nvrtc
 	branch = refs/heads/main
+[submodule "libcufile"]
+	url = https://github.com/conda-forge/libcufile-feedstock.git
+	path = feedstocks/libcufile
+	branch = refs/heads/main
