@@ -76394,3 +76394,7 @@
 	url = https://github.com/conda-forge/nlptest-feedstock.git
 	path = feedstocks/nlptest
 	branch = refs/heads/main
+[submodule "wn"]
+	url = https://github.com/conda-forge/wn-feedstock.git
+	path = feedstocks/wn
+	branch = refs/heads/main
