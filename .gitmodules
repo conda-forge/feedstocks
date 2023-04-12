@@ -76454,3 +76454,7 @@
 	url = https://github.com/conda-forge/intake-dynamodb-feedstock.git
 	path = feedstocks/intake-dynamodb
 	branch = refs/heads/main
+[submodule "r-dartr.data"]
+	url = https://github.com/conda-forge/r-dartr.data-feedstock.git
+	path = feedstocks/r-dartr.data
+	branch = refs/heads/main
