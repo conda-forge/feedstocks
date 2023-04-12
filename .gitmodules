@@ -76434,3 +76434,7 @@
 	url = https://github.com/conda-forge/napari-obj-feedstock.git
 	path = feedstocks/napari-obj
 	branch = refs/heads/main
+[submodule "napari-features-selector"]
+	url = https://github.com/conda-forge/napari-features-selector-feedstock.git
+	path = feedstocks/napari-features-selector
+	branch = refs/heads/main
