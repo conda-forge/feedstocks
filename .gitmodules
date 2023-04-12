@@ -76386,3 +76386,7 @@
 	url = https://github.com/conda-forge/libcurand-feedstock.git
 	path = feedstocks/libcurand
 	branch = refs/heads/main
+[submodule "recycle"]
+	url = https://github.com/conda-forge/recycle-feedstock.git
+	path = feedstocks/recycle
+	branch = refs/heads/main
