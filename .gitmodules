@@ -76418,3 +76418,7 @@
 	url = https://github.com/conda-forge/griottes-feedstock.git
 	path = feedstocks/griottes
 	branch = refs/heads/main
+[submodule "napari-pointslayer-projection"]
+	url = https://github.com/conda-forge/napari-pointslayer-projection-feedstock.git
+	path = feedstocks/napari-pointslayer-projection
+	branch = refs/heads/main
