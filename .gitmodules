@@ -76438,3 +76438,7 @@
 	url = https://github.com/conda-forge/napari-features-selector-feedstock.git
 	path = feedstocks/napari-features-selector
 	branch = refs/heads/main
+[submodule "vodex"]
+	url = https://github.com/conda-forge/vodex-feedstock.git
+	path = feedstocks/vodex
+	branch = refs/heads/main
