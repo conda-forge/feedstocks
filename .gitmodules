@@ -76450,3 +76450,7 @@
 	url = https://github.com/conda-forge/brainreg-napari-feedstock.git
 	path = feedstocks/brainreg-napari
 	branch = refs/heads/main
+[submodule "intake-dynamodb"]
+	url = https://github.com/conda-forge/intake-dynamodb-feedstock.git
+	path = feedstocks/intake-dynamodb
+	branch = refs/heads/main
