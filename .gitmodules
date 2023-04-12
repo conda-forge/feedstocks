@@ -76362,3 +76362,7 @@
 	url = https://github.com/conda-forge/napari-boxmanager-feedstock.git
 	path = feedstocks/napari-boxmanager
 	branch = refs/heads/main
+[submodule "pytorch_revgrad"]
+	url = https://github.com/conda-forge/pytorch_revgrad-feedstock.git
+	path = feedstocks/pytorch_revgrad
+	branch = refs/heads/main
