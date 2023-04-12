@@ -76466,3 +76466,7 @@
 	url = https://github.com/conda-forge/libcufile-feedstock.git
 	path = feedstocks/libcufile
 	branch = refs/heads/main
+[submodule "cuda-cudart"]
+	url = https://github.com/conda-forge/cuda-cudart-feedstock.git
+	path = feedstocks/cuda-cudart
+	branch = refs/heads/main
