@@ -76366,3 +76366,7 @@
 	url = https://github.com/conda-forge/pytorch_revgrad-feedstock.git
 	path = feedstocks/pytorch_revgrad
 	branch = refs/heads/main
+[submodule "napari-cell-centroid-annotator"]
+	url = https://github.com/conda-forge/napari-cell-centroid-annotator-feedstock.git
+	path = feedstocks/napari-cell-centroid-annotator
+	branch = refs/heads/main
