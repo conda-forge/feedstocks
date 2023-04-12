@@ -76458,3 +76458,7 @@
 	url = https://github.com/conda-forge/r-dartr.data-feedstock.git
 	path = feedstocks/r-dartr.data
 	branch = refs/heads/main
+[submodule "cuda-nvrtc"]
+	url = https://github.com/conda-forge/cuda-nvrtc-feedstock.git
+	path = feedstocks/cuda-nvrtc
+	branch = refs/heads/main
