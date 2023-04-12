@@ -76382,3 +76382,7 @@
 	url = https://github.com/conda-forge/napari-patchcreator-feedstock.git
 	path = feedstocks/napari-patchcreator
 	branch = refs/heads/main
+[submodule "libcurand"]
+	url = https://github.com/conda-forge/libcurand-feedstock.git
+	path = feedstocks/libcurand
+	branch = refs/heads/main
