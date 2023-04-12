@@ -76414,3 +76414,7 @@
 	url = https://github.com/conda-forge/napari-rioxarray-feedstock.git
 	path = feedstocks/napari-rioxarray
 	branch = refs/heads/main
+[submodule "griottes"]
+	url = https://github.com/conda-forge/griottes-feedstock.git
+	path = feedstocks/griottes
+	branch = refs/heads/main
