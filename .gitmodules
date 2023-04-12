@@ -76442,3 +76442,7 @@
 	url = https://github.com/conda-forge/vodex-feedstock.git
 	path = feedstocks/vodex
 	branch = refs/heads/main
+[submodule "dclab"]
+	url = https://github.com/conda-forge/dclab-feedstock.git
+	path = feedstocks/dclab
+	branch = refs/heads/main
