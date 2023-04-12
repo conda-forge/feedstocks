@@ -76378,3 +76378,7 @@
 	url = https://github.com/conda-forge/liteeth-feedstock.git
 	path = feedstocks/liteeth
 	branch = refs/heads/main
+[submodule "napari-patchcreator"]
+	url = https://github.com/conda-forge/napari-patchcreator-feedstock.git
+	path = feedstocks/napari-patchcreator
+	branch = refs/heads/main
