@@ -76398,3 +76398,7 @@
 	url = https://github.com/conda-forge/wn-feedstock.git
 	path = feedstocks/wn
 	branch = refs/heads/main
+[submodule "nceplibs-sp"]
+	url = https://github.com/conda-forge/nceplibs-sp-feedstock.git
+	path = feedstocks/nceplibs-sp
+	branch = refs/heads/main
