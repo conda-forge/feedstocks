@@ -76478,3 +76478,7 @@
 	url = https://github.com/conda-forge/moleculekit-feedstock.git
 	path = feedstocks/moleculekit
 	branch = refs/heads/main
+[submodule "torchtnt"]
+	url = https://github.com/conda-forge/torchtnt-feedstock.git
+	path = feedstocks/torchtnt
+	branch = refs/heads/main
