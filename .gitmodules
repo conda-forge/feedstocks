@@ -76502,3 +76502,7 @@
 	url = https://github.com/conda-forge/boa-framework-feedstock.git
 	path = feedstocks/boa-framework
 	branch = refs/heads/main
+[submodule "napari-process-points-and-surfaces"]
+	url = https://github.com/conda-forge/napari-process-points-and-surfaces-feedstock.git
+	path = feedstocks/napari-process-points-and-surfaces
+	branch = refs/heads/main
