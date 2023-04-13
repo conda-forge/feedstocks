@@ -76470,3 +76470,7 @@
 	url = https://github.com/conda-forge/cuda-cudart-feedstock.git
 	path = feedstocks/cuda-cudart
 	branch = refs/heads/main
+[submodule "python-cityhash"]
+	url = https://github.com/conda-forge/python-cityhash-feedstock.git
+	path = feedstocks/python-cityhash
+	branch = refs/heads/main
