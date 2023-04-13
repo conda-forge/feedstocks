@@ -76482,3 +76482,7 @@
 	url = https://github.com/conda-forge/torchtnt-feedstock.git
 	path = feedstocks/torchtnt
 	branch = refs/heads/main
+[submodule "simple-websocket"]
+	url = https://github.com/conda-forge/simple-websocket-feedstock.git
+	path = feedstocks/simple-websocket
+	branch = refs/heads/main
