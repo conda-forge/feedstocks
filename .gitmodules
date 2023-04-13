@@ -76474,3 +76474,7 @@
 	url = https://github.com/conda-forge/python-cityhash-feedstock.git
 	path = feedstocks/python-cityhash
 	branch = refs/heads/main
+[submodule "moleculekit"]
+	url = https://github.com/conda-forge/moleculekit-feedstock.git
+	path = feedstocks/moleculekit
+	branch = refs/heads/main
