@@ -76534,3 +76534,7 @@
 	url = https://github.com/conda-forge/duckdb-feedstock.git
 	path = feedstocks/duckdb
 	branch = refs/heads/main
+[submodule "chromadb"]
+	url = https://github.com/conda-forge/chromadb-feedstock.git
+	path = feedstocks/chromadb
+	branch = refs/heads/main
