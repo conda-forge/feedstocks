@@ -76530,3 +76530,7 @@
 	url = https://github.com/conda-forge/dbnomics-feedstock.git
 	path = feedstocks/dbnomics
 	branch = refs/heads/main
+[submodule "duckdb"]
+	url = https://github.com/conda-forge/duckdb-feedstock.git
+	path = feedstocks/duckdb
+	branch = refs/heads/main
