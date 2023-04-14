@@ -76522,3 +76522,7 @@
 	url = https://github.com/conda-forge/caped-ai-augmentations-feedstock.git
 	path = feedstocks/caped-ai-augmentations
 	branch = refs/heads/main
+[submodule "pandamesh"]
+	url = https://github.com/conda-forge/pandamesh-feedstock.git
+	path = feedstocks/pandamesh
+	branch = refs/heads/main
