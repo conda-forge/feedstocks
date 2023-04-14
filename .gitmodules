@@ -76538,3 +76538,7 @@
 	url = https://github.com/conda-forge/chromadb-feedstock.git
 	path = feedstocks/chromadb
 	branch = refs/heads/main
+[submodule "clickhouse-connect"]
+	url = https://github.com/conda-forge/clickhouse-connect-feedstock.git
+	path = feedstocks/clickhouse-connect
+	branch = refs/heads/main
