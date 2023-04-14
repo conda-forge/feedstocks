@@ -76526,3 +76526,7 @@
 	url = https://github.com/conda-forge/pandamesh-feedstock.git
 	path = feedstocks/pandamesh
 	branch = refs/heads/main
+[submodule "dbnomics"]
+	url = https://github.com/conda-forge/dbnomics-feedstock.git
+	path = feedstocks/dbnomics
+	branch = refs/heads/main
