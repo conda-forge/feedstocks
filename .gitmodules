@@ -76510,3 +76510,7 @@
 	url = https://github.com/conda-forge/torchsnapshot-feedstock.git
 	path = feedstocks/torchsnapshot
 	branch = refs/heads/main
+[submodule "jupyterlite-sphinx"]
+	url = https://github.com/conda-forge/jupyterlite-sphinx-feedstock.git
+	path = feedstocks/jupyterlite-sphinx
+	branch = refs/heads/main
