@@ -76546,3 +76546,7 @@
 	url = https://github.com/conda-forge/kokkos-kernels-feedstock.git
 	path = feedstocks/kokkos-kernels
 	branch = refs/heads/main
+[submodule "wsgidav"]
+	url = https://github.com/conda-forge/wsgidav-feedstock.git
+	path = feedstocks/wsgidav
+	branch = refs/heads/main
