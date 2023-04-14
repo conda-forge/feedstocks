@@ -76542,3 +76542,7 @@
 	url = https://github.com/conda-forge/clickhouse-connect-feedstock.git
 	path = feedstocks/clickhouse-connect
 	branch = refs/heads/main
+[submodule "kokkos-kernels"]
+	url = https://github.com/conda-forge/kokkos-kernels-feedstock.git
+	path = feedstocks/kokkos-kernels
+	branch = refs/heads/main
