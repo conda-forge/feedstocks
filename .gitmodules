@@ -76506,3 +76506,7 @@
 	url = https://github.com/conda-forge/napari-process-points-and-surfaces-feedstock.git
 	path = feedstocks/napari-process-points-and-surfaces
 	branch = refs/heads/main
+[submodule "torchsnapshot"]
+	url = https://github.com/conda-forge/torchsnapshot-feedstock.git
+	path = feedstocks/torchsnapshot
+	branch = refs/heads/main
