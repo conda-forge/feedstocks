@@ -76554,3 +76554,7 @@
 	url = https://github.com/conda-forge/traffix-feedstock.git
 	path = feedstocks/traffix
 	branch = refs/heads/main
+[submodule "libnvjpeg"]
+	url = https://github.com/conda-forge/libnvjpeg-feedstock.git
+	path = feedstocks/libnvjpeg
+	branch = refs/heads/main
