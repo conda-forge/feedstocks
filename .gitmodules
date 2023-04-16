@@ -76558,3 +76558,7 @@
 	url = https://github.com/conda-forge/libnvjpeg-feedstock.git
 	path = feedstocks/libnvjpeg
 	branch = refs/heads/main
+[submodule "r-modeltime.resample"]
+	url = https://github.com/conda-forge/r-modeltime.resample-feedstock.git
+	path = feedstocks/r-modeltime.resample
+	branch = refs/heads/main
