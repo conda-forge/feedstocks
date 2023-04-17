@@ -76638,3 +76638,7 @@
 	url = https://github.com/conda-forge/python-statemachine-feedstock.git
 	path = feedstocks/python-statemachine
 	branch = refs/heads/main
+[submodule "napari-griottes"]
+	url = https://github.com/conda-forge/napari-griottes-feedstock.git
+	path = feedstocks/napari-griottes
+	branch = refs/heads/main
