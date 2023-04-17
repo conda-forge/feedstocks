@@ -76586,3 +76586,7 @@
 	url = https://github.com/conda-forge/django-cities-feedstock.git
 	path = feedstocks/django-cities
 	branch = refs/heads/main
+[submodule "gmpacket"]
+	url = https://github.com/conda-forge/gmpacket-feedstock.git
+	path = feedstocks/gmpacket
+	branch = refs/heads/main
