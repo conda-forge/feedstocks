@@ -76642,3 +76642,7 @@
 	url = https://github.com/conda-forge/napari-griottes-feedstock.git
 	path = feedstocks/napari-griottes
 	branch = refs/heads/main
+[submodule "big-fish"]
+	url = https://github.com/conda-forge/big-fish-feedstock.git
+	path = feedstocks/big-fish
+	branch = refs/heads/main
