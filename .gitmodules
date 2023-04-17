@@ -76614,3 +76614,7 @@
 	url = https://github.com/conda-forge/taplo-feedstock.git
 	path = feedstocks/taplo
 	branch = refs/heads/main
+[submodule "pyribbit"]
+	url = https://github.com/conda-forge/pyribbit-feedstock.git
+	path = feedstocks/pyribbit
+	branch = refs/heads/main
