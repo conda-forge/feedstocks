@@ -76686,3 +76686,7 @@
 	url = https://github.com/conda-forge/morphospaces-feedstock.git
 	path = feedstocks/morphospaces
 	branch = refs/heads/main
+[submodule "wield.pytest"]
+	url = https://github.com/conda-forge/wield.pytest-feedstock.git
+	path = feedstocks/wield.pytest
+	branch = refs/heads/main
