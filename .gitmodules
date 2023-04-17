@@ -76578,3 +76578,7 @@
 	url = https://github.com/conda-forge/west-feedstock.git
 	path = feedstocks/west
 	branch = refs/heads/main
+[submodule "balance"]
+	url = https://github.com/conda-forge/balance-feedstock.git
+	path = feedstocks/balance
+	branch = refs/heads/main
