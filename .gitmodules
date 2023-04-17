@@ -76722,3 +76722,7 @@
 	url = https://github.com/conda-forge/napari-laptrack-feedstock.git
 	path = feedstocks/napari-laptrack
 	branch = refs/heads/main
+[submodule "napari-bigfish"]
+	url = https://github.com/conda-forge/napari-bigfish-feedstock.git
+	path = feedstocks/napari-bigfish
+	branch = refs/heads/main
