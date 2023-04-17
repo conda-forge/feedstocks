@@ -76678,3 +76678,7 @@
 	url = https://github.com/conda-forge/openvino-feedstock.git
 	path = feedstocks/openvino
 	branch = refs/heads/main
+[submodule "napari-hough-circle-detector"]
+	url = https://github.com/conda-forge/napari-hough-circle-detector-feedstock.git
+	path = feedstocks/napari-hough-circle-detector
+	branch = refs/heads/main
