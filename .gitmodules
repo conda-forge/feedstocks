@@ -76594,3 +76594,7 @@
 	url = https://github.com/conda-forge/pyina-feedstock.git
 	path = feedstocks/pyina
 	branch = refs/heads/main
+[submodule "rpds-py"]
+	url = https://github.com/conda-forge/rpds-py-feedstock.git
+	path = feedstocks/rpds-py
+	branch = refs/heads/main
