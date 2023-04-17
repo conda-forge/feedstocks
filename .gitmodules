@@ -76718,3 +76718,7 @@
 	url = https://github.com/conda-forge/ilastik-napari-feedstock.git
 	path = feedstocks/ilastik-napari
 	branch = refs/heads/main
+[submodule "napari-laptrack"]
+	url = https://github.com/conda-forge/napari-laptrack-feedstock.git
+	path = feedstocks/napari-laptrack
+	branch = refs/heads/main
