@@ -76562,3 +76562,7 @@
 	url = https://github.com/conda-forge/r-modeltime.resample-feedstock.git
 	path = feedstocks/r-modeltime.resample
 	branch = refs/heads/main
+[submodule "gilknocker"]
+	url = https://github.com/conda-forge/gilknocker-feedstock.git
+	path = feedstocks/gilknocker
+	branch = refs/heads/main
