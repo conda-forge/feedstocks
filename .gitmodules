@@ -76618,3 +76618,7 @@
 	url = https://github.com/conda-forge/pyribbit-feedstock.git
 	path = feedstocks/pyribbit
 	branch = refs/heads/main
+[submodule "napari-hdf5-netcdf-viewer"]
+	url = https://github.com/conda-forge/napari-hdf5-netcdf-viewer-feedstock.git
+	path = feedstocks/napari-hdf5-netcdf-viewer
+	branch = refs/heads/main
