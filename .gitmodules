@@ -76674,3 +76674,7 @@
 	url = https://github.com/conda-forge/wield.declarative-feedstock.git
 	path = feedstocks/wield.declarative
 	branch = refs/heads/main
+[submodule "openvino"]
+	url = https://github.com/conda-forge/openvino-feedstock.git
+	path = feedstocks/openvino
+	branch = refs/heads/main
