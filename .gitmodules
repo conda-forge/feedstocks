@@ -76634,3 +76634,7 @@
 	url = https://github.com/conda-forge/textx-feedstock.git
 	path = feedstocks/textx
 	branch = refs/heads/main
+[submodule "python-statemachine"]
+	url = https://github.com/conda-forge/python-statemachine-feedstock.git
+	path = feedstocks/python-statemachine
+	branch = refs/heads/main
