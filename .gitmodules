@@ -76582,3 +76582,7 @@
 	url = https://github.com/conda-forge/balance-feedstock.git
 	path = feedstocks/balance
 	branch = refs/heads/main
+[submodule "django-cities"]
+	url = https://github.com/conda-forge/django-cities-feedstock.git
+	path = feedstocks/django-cities
+	branch = refs/heads/main
