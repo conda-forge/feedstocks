@@ -76698,3 +76698,7 @@
 	url = https://github.com/conda-forge/napari-hierarchical-feedstock.git
 	path = feedstocks/napari-hierarchical
 	branch = refs/heads/main
+[submodule "napari-stable-diffusion"]
+	url = https://github.com/conda-forge/napari-stable-diffusion-feedstock.git
+	path = feedstocks/napari-stable-diffusion
+	branch = refs/heads/main
