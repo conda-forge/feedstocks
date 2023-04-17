@@ -76602,3 +76602,7 @@
 	url = https://github.com/conda-forge/referencing-feedstock.git
 	path = feedstocks/referencing
 	branch = refs/heads/main
+[submodule "ormdantic"]
+	url = https://github.com/conda-forge/ormdantic-feedstock.git
+	path = feedstocks/ormdantic
+	branch = refs/heads/main
