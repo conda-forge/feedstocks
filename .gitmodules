@@ -76654,3 +76654,7 @@
 	url = https://github.com/conda-forge/laptrack-feedstock.git
 	path = feedstocks/laptrack
 	branch = refs/heads/main
+[submodule "caped-ai-metrics"]
+	url = https://github.com/conda-forge/caped-ai-metrics-feedstock.git
+	path = feedstocks/caped-ai-metrics
+	branch = refs/heads/main
