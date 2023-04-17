@@ -76706,3 +76706,7 @@
 	url = https://github.com/conda-forge/tcfile-feedstock.git
 	path = feedstocks/tcfile
 	branch = refs/heads/main
+[submodule "empanada-napari"]
+	url = https://github.com/conda-forge/empanada-napari-feedstock.git
+	path = feedstocks/empanada-napari
+	branch = refs/heads/main
