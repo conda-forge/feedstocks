@@ -76570,3 +76570,7 @@
 	url = https://github.com/conda-forge/lazy-model-feedstock.git
 	path = feedstocks/lazy-model
 	branch = refs/heads/main
+[submodule "intake-hive"]
+	url = https://github.com/conda-forge/intake-hive-feedstock.git
+	path = feedstocks/intake-hive
+	branch = refs/heads/main
