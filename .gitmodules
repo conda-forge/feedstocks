@@ -76626,3 +76626,7 @@
 	url = https://github.com/conda-forge/multi-model-server-feedstock.git
 	path = feedstocks/multi-model-server
 	branch = refs/heads/main
+[submodule "model-archiver"]
+	url = https://github.com/conda-forge/model-archiver-feedstock.git
+	path = feedstocks/model-archiver
+	branch = refs/heads/main
