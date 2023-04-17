@@ -76710,3 +76710,7 @@
 	url = https://github.com/conda-forge/empanada-napari-feedstock.git
 	path = feedstocks/empanada-napari
 	branch = refs/heads/main
+[submodule "napari-validate-random-label-predictions"]
+	url = https://github.com/conda-forge/napari-validate-random-label-predictions-feedstock.git
+	path = feedstocks/napari-validate-random-label-predictions
+	branch = refs/heads/main
