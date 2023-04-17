@@ -76702,3 +76702,7 @@
 	url = https://github.com/conda-forge/napari-stable-diffusion-feedstock.git
 	path = feedstocks/napari-stable-diffusion
 	branch = refs/heads/main
+[submodule "tcfile"]
+	url = https://github.com/conda-forge/tcfile-feedstock.git
+	path = feedstocks/tcfile
+	branch = refs/heads/main
