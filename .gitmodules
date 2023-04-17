@@ -76606,3 +76606,7 @@
 	url = https://github.com/conda-forge/ormdantic-feedstock.git
 	path = feedstocks/ormdantic
 	branch = refs/heads/main
+[submodule "pylyzer"]
+	url = https://github.com/conda-forge/pylyzer-feedstock.git
+	path = feedstocks/pylyzer
+	branch = refs/heads/main
