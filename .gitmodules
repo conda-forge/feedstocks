@@ -76690,3 +76690,7 @@
 	url = https://github.com/conda-forge/wield.pytest-feedstock.git
 	path = feedstocks/wield.pytest
 	branch = refs/heads/main
+[submodule "napari-blender-bridge"]
+	url = https://github.com/conda-forge/napari-blender-bridge-feedstock.git
+	path = feedstocks/napari-blender-bridge
+	branch = refs/heads/main
