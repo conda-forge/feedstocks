@@ -76646,3 +76646,7 @@
 	url = https://github.com/conda-forge/big-fish-feedstock.git
 	path = feedstocks/big-fish
 	branch = refs/heads/main
+[submodule "napari-vodex"]
+	url = https://github.com/conda-forge/napari-vodex-feedstock.git
+	path = feedstocks/napari-vodex
+	branch = refs/heads/main
