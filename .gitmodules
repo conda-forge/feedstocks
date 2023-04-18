@@ -76750,3 +76750,7 @@
 	url = https://github.com/conda-forge/cuda-nvtx-feedstock.git
 	path = feedstocks/cuda-nvtx
 	branch = refs/heads/main
+[submodule "spirv-tools"]
+	url = https://github.com/conda-forge/spirv-tools-feedstock.git
+	path = feedstocks/spirv-tools
+	branch = refs/heads/main
