@@ -76730,3 +76730,7 @@
 	url = https://github.com/conda-forge/xeus-cpp-feedstock.git
 	path = feedstocks/xeus-cpp
 	branch = refs/heads/main
+[submodule "cuda-cupti"]
+	url = https://github.com/conda-forge/cuda-cupti-feedstock.git
+	path = feedstocks/cuda-cupti
+	branch = refs/heads/main
