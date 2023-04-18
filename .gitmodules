@@ -76734,3 +76734,7 @@
 	url = https://github.com/conda-forge/cuda-cupti-feedstock.git
 	path = feedstocks/cuda-cupti
 	branch = refs/heads/main
+[submodule "cuda-nvcc"]
+	url = https://github.com/conda-forge/cuda-nvcc-feedstock.git
+	path = feedstocks/cuda-nvcc
+	branch = refs/heads/main
