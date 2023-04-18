@@ -76798,3 +76798,7 @@
 	url = https://github.com/conda-forge/nicegui-feedstock.git
 	path = feedstocks/nicegui
 	branch = refs/heads/main
+[submodule "fastapi-socketio"]
+	url = https://github.com/conda-forge/fastapi-socketio-feedstock.git
+	path = feedstocks/fastapi-socketio
+	branch = refs/heads/main
