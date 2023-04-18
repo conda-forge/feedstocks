@@ -76790,3 +76790,7 @@
 	url = https://github.com/conda-forge/napari-tyssue-feedstock.git
 	path = feedstocks/napari-tyssue
 	branch = refs/heads/main
+[submodule "vbuild"]
+	url = https://github.com/conda-forge/vbuild-feedstock.git
+	path = feedstocks/vbuild
+	branch = refs/heads/main
