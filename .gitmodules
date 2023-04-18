@@ -76774,3 +76774,7 @@
 	url = https://github.com/conda-forge/arize-phoenix-feedstock.git
 	path = feedstocks/arize-phoenix
 	branch = refs/heads/main
+[submodule "gptcache"]
+	url = https://github.com/conda-forge/gptcache-feedstock.git
+	path = feedstocks/gptcache
+	branch = refs/heads/main
