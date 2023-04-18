@@ -76810,3 +76810,7 @@
 	url = https://github.com/conda-forge/pyhash-feedstock.git
 	path = feedstocks/pyhash
 	branch = refs/heads/main
+[submodule "adrt"]
+	url = https://github.com/conda-forge/adrt-feedstock.git
+	path = feedstocks/adrt
+	branch = refs/heads/main
