@@ -76746,3 +76746,7 @@
 	url = https://github.com/conda-forge/cuda-nvml-dev-feedstock.git
 	path = feedstocks/cuda-nvml-dev
 	branch = refs/heads/main
+[submodule "cuda-nvtx"]
+	url = https://github.com/conda-forge/cuda-nvtx-feedstock.git
+	path = feedstocks/cuda-nvtx
+	branch = refs/heads/main
