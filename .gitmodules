@@ -76778,3 +76778,7 @@
 	url = https://github.com/conda-forge/gptcache-feedstock.git
 	path = feedstocks/gptcache
 	branch = refs/heads/main
+[submodule "napari-brainbow-diagnose"]
+	url = https://github.com/conda-forge/napari-brainbow-diagnose-feedstock.git
+	path = feedstocks/napari-brainbow-diagnose
+	branch = refs/heads/main
