@@ -76762,3 +76762,7 @@
 	url = https://github.com/conda-forge/napari-pssr-feedstock.git
 	path = feedstocks/napari-pssr
 	branch = refs/heads/main
+[submodule "merge-stardist-masks"]
+	url = https://github.com/conda-forge/merge-stardist-masks-feedstock.git
+	path = feedstocks/merge-stardist-masks
+	branch = refs/heads/main
