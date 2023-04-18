@@ -76766,3 +76766,7 @@
 	url = https://github.com/conda-forge/merge-stardist-masks-feedstock.git
 	path = feedstocks/merge-stardist-masks
 	branch = refs/heads/main
+[submodule "django-prose"]
+	url = https://github.com/conda-forge/django-prose-feedstock.git
+	path = feedstocks/django-prose
+	branch = refs/heads/main
