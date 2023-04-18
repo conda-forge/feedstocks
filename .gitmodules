@@ -76726,3 +76726,7 @@
 	url = https://github.com/conda-forge/napari-bigfish-feedstock.git
 	path = feedstocks/napari-bigfish
 	branch = refs/heads/main
+[submodule "xeus-cpp"]
+	url = https://github.com/conda-forge/xeus-cpp-feedstock.git
+	path = feedstocks/xeus-cpp
+	branch = refs/heads/main
