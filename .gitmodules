@@ -76814,3 +76814,7 @@
 	url = https://github.com/conda-forge/adrt-feedstock.git
 	path = feedstocks/adrt
 	branch = refs/heads/main
+[submodule "pymace"]
+	url = https://github.com/conda-forge/pymace-feedstock.git
+	path = feedstocks/pymace
+	branch = refs/heads/main
