@@ -76742,3 +76742,7 @@
 	url = https://github.com/conda-forge/cuda-profiler-api-feedstock.git
 	path = feedstocks/cuda-profiler-api
 	branch = refs/heads/main
+[submodule "cuda-nvml-dev"]
+	url = https://github.com/conda-forge/cuda-nvml-dev-feedstock.git
+	path = feedstocks/cuda-nvml-dev
+	branch = refs/heads/main
