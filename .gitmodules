@@ -76794,3 +76794,7 @@
 	url = https://github.com/conda-forge/vbuild-feedstock.git
 	path = feedstocks/vbuild
 	branch = refs/heads/main
+[submodule "nicegui"]
+	url = https://github.com/conda-forge/nicegui-feedstock.git
+	path = feedstocks/nicegui
+	branch = refs/heads/main
