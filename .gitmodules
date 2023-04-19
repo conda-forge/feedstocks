@@ -76858,3 +76858,7 @@
 	url = https://github.com/conda-forge/somajo-feedstock.git
 	path = feedstocks/somajo
 	branch = refs/heads/main
+[submodule "pyocclient"]
+	url = https://github.com/conda-forge/pyocclient-feedstock.git
+	path = feedstocks/pyocclient
+	branch = refs/heads/main
