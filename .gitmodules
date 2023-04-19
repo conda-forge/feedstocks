@@ -76862,3 +76862,7 @@
 	url = https://github.com/conda-forge/pyocclient-feedstock.git
 	path = feedstocks/pyocclient
 	branch = refs/heads/main
+[submodule "napari-nifti"]
+	url = https://github.com/conda-forge/napari-nifti-feedstock.git
+	path = feedstocks/napari-nifti
+	branch = refs/heads/main
