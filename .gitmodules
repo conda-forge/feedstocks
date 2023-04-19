@@ -76866,3 +76866,7 @@
 	url = https://github.com/conda-forge/napari-nifti-feedstock.git
 	path = feedstocks/napari-nifti
 	branch = refs/heads/main
+[submodule "segment-anything"]
+	url = https://github.com/conda-forge/segment-anything-feedstock.git
+	path = feedstocks/segment-anything
+	branch = refs/heads/main
