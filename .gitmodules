@@ -76834,3 +76834,7 @@
 	url = https://github.com/conda-forge/samurai-feedstock.git
 	path = feedstocks/samurai
 	branch = refs/heads/main
+[submodule "watchgha"]
+	url = https://github.com/conda-forge/watchgha-feedstock.git
+	path = feedstocks/watchgha
+	branch = refs/heads/main
