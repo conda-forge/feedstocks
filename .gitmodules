@@ -76842,3 +76842,7 @@
 	url = https://github.com/conda-forge/r-modeltime.ensemble-feedstock.git
 	path = feedstocks/r-modeltime.ensemble
 	branch = refs/heads/main
+[submodule "r-gmwt"]
+	url = https://github.com/conda-forge/r-gmwt-feedstock.git
+	path = feedstocks/r-gmwt
+	branch = refs/heads/main
