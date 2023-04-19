@@ -76830,3 +76830,7 @@
 	url = https://github.com/conda-forge/cocotb-feedstock.git
 	path = feedstocks/cocotb
 	branch = refs/heads/main
+[submodule "samurai"]
+	url = https://github.com/conda-forge/samurai-feedstock.git
+	path = feedstocks/samurai
+	branch = refs/heads/main
