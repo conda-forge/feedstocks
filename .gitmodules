@@ -76874,3 +76874,7 @@
 	url = https://github.com/conda-forge/lofo-importance-feedstock.git
 	path = feedstocks/lofo-importance
 	branch = refs/heads/main
+[submodule "flux-core"]
+	url = https://github.com/conda-forge/flux-core-feedstock.git
+	path = feedstocks/flux-core
+	branch = refs/heads/main
