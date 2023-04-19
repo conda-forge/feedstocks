@@ -76870,3 +76870,7 @@
 	url = https://github.com/conda-forge/segment-anything-feedstock.git
 	path = feedstocks/segment-anything
 	branch = refs/heads/main
+[submodule "lofo-importance"]
+	url = https://github.com/conda-forge/lofo-importance-feedstock.git
+	path = feedstocks/lofo-importance
+	branch = refs/heads/main
