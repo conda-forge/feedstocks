@@ -76850,3 +76850,7 @@
 	url = https://github.com/conda-forge/ifes-apt-tc-data-modeling-feedstock.git
 	path = feedstocks/ifes-apt-tc-data-modeling
 	branch = refs/heads/main
+[submodule "napari-tomocube-data-viewer"]
+	url = https://github.com/conda-forge/napari-tomocube-data-viewer-feedstock.git
+	path = feedstocks/napari-tomocube-data-viewer
+	branch = refs/heads/main
