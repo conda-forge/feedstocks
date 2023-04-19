@@ -76854,3 +76854,7 @@
 	url = https://github.com/conda-forge/napari-tomocube-data-viewer-feedstock.git
 	path = feedstocks/napari-tomocube-data-viewer
 	branch = refs/heads/main
+[submodule "somajo"]
+	url = https://github.com/conda-forge/somajo-feedstock.git
+	path = feedstocks/somajo
+	branch = refs/heads/main
