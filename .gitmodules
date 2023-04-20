@@ -76882,3 +76882,7 @@
 	url = https://github.com/conda-forge/range-v3-feedstock.git
 	path = feedstocks/range-v3
 	branch = refs/heads/main
+[submodule "spirv-headers"]
+	url = https://github.com/conda-forge/spirv-headers-feedstock.git
+	path = feedstocks/spirv-headers
+	branch = refs/heads/main
