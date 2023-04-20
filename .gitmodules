@@ -76878,3 +76878,7 @@
 	url = https://github.com/conda-forge/flux-core-feedstock.git
 	path = feedstocks/flux-core
 	branch = refs/heads/main
+[submodule "range-v3"]
+	url = https://github.com/conda-forge/range-v3-feedstock.git
+	path = feedstocks/range-v3
+	branch = refs/heads/main
