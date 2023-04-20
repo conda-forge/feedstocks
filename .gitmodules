@@ -76890,3 +76890,7 @@
 	url = https://github.com/conda-forge/r-stinepack-feedstock.git
 	path = feedstocks/r-stinepack
 	branch = refs/heads/main
+[submodule "adaflow"]
+	url = https://github.com/conda-forge/adaflow-feedstock.git
+	path = feedstocks/adaflow
+	branch = refs/heads/main
