@@ -76902,3 +76902,7 @@
 	url = https://github.com/conda-forge/urchin-feedstock.git
 	path = feedstocks/urchin
 	branch = refs/heads/main
+[submodule "intake-odbc"]
+	url = https://github.com/conda-forge/intake-odbc-feedstock.git
+	path = feedstocks/intake-odbc
+	branch = refs/heads/main
