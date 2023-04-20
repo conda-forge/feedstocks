@@ -76894,3 +76894,7 @@
 	url = https://github.com/conda-forge/adaflow-feedstock.git
 	path = feedstocks/adaflow
 	branch = refs/heads/main
+[submodule "libclc"]
+	url = https://github.com/conda-forge/libclc-feedstock.git
+	path = feedstocks/libclc
+	branch = refs/heads/main
