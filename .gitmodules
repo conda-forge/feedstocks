@@ -76918,3 +76918,7 @@
 	url = https://github.com/conda-forge/r-sccs-feedstock.git
 	path = feedstocks/r-sccs
 	branch = refs/heads/main
+[submodule "hdpws"]
+	url = https://github.com/conda-forge/hdpws-feedstock.git
+	path = feedstocks/hdpws
+	branch = refs/heads/main
