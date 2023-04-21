@@ -76922,3 +76922,7 @@
 	url = https://github.com/conda-forge/hdpws-feedstock.git
 	path = feedstocks/hdpws
 	branch = refs/heads/main
+[submodule "napari-owncloud"]
+	url = https://github.com/conda-forge/napari-owncloud-feedstock.git
+	path = feedstocks/napari-owncloud
+	branch = refs/heads/main
