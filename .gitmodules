@@ -76934,3 +76934,7 @@
 	url = https://github.com/conda-forge/geosdemo-feedstock.git
 	path = feedstocks/geosdemo
 	branch = refs/heads/main
+[submodule "segment-geospatial"]
+	url = https://github.com/conda-forge/segment-geospatial-feedstock.git
+	path = feedstocks/segment-geospatial
+	branch = refs/heads/main
