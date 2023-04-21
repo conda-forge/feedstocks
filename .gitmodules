@@ -76910,3 +76910,7 @@
 	url = https://github.com/conda-forge/r-fancova-feedstock.git
 	path = feedstocks/r-fancova
 	branch = refs/heads/main
+[submodule "conda-oci-mirror"]
+	url = https://github.com/conda-forge/conda-oci-mirror-feedstock.git
+	path = feedstocks/conda-oci-mirror
+	branch = refs/heads/main
