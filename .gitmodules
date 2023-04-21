@@ -76914,3 +76914,7 @@
 	url = https://github.com/conda-forge/conda-oci-mirror-feedstock.git
 	path = feedstocks/conda-oci-mirror
 	branch = refs/heads/main
+[submodule "r-sccs"]
+	url = https://github.com/conda-forge/r-sccs-feedstock.git
+	path = feedstocks/r-sccs
+	branch = refs/heads/main
