@@ -76930,3 +76930,7 @@
 	url = https://github.com/conda-forge/basal-and-bark-feedstock.git
 	path = feedstocks/basal-and-bark
 	branch = refs/heads/main
+[submodule "geosdemo"]
+	url = https://github.com/conda-forge/geosdemo-feedstock.git
+	path = feedstocks/geosdemo
+	branch = refs/heads/main
