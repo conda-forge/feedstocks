@@ -76946,3 +76946,7 @@
 	url = https://github.com/conda-forge/r-survc1-feedstock.git
 	path = feedstocks/r-survc1
 	branch = refs/heads/main
+[submodule "jsonschema-specifications"]
+	url = https://github.com/conda-forge/jsonschema-specifications-feedstock.git
+	path = feedstocks/jsonschema-specifications
+	branch = refs/heads/main
