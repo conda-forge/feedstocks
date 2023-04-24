@@ -76982,3 +76982,7 @@
 	url = https://github.com/conda-forge/nvim-feedstock.git
 	path = feedstocks/nvim
 	branch = refs/heads/main
+[submodule "libtree-sitter"]
+	url = https://github.com/conda-forge/libtree-sitter-feedstock.git
+	path = feedstocks/libtree-sitter
+	branch = refs/heads/main
