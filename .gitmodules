@@ -76962,3 +76962,7 @@
 	url = https://github.com/conda-forge/h5glance-feedstock.git
 	path = feedstocks/h5glance
 	branch = refs/heads/main
+[submodule "pdm-backend"]
+	url = https://github.com/conda-forge/pdm-backend-feedstock.git
+	path = feedstocks/pdm-backend
+	branch = refs/heads/main
