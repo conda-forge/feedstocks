@@ -77038,3 +77038,7 @@
 	url = https://github.com/conda-forge/open-radar-data-feedstock.git
 	path = feedstocks/open-radar-data
 	branch = refs/heads/main
+[submodule "napari-unicell"]
+	url = https://github.com/conda-forge/napari-unicell-feedstock.git
+	path = feedstocks/napari-unicell
+	branch = refs/heads/main
