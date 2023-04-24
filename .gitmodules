@@ -76954,3 +76954,7 @@
 	url = https://github.com/conda-forge/pytest-memray-feedstock.git
 	path = feedstocks/pytest-memray
 	branch = refs/heads/main
+[submodule "htmlgen"]
+	url = https://github.com/conda-forge/htmlgen-feedstock.git
+	path = feedstocks/htmlgen
+	branch = refs/heads/main
