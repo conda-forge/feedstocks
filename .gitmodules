@@ -76974,3 +76974,7 @@
 	url = https://github.com/conda-forge/luv-feedstock.git
 	path = feedstocks/luv
 	branch = refs/heads/main
+[submodule "lua-compat-5.3-c"]
+	url = https://github.com/conda-forge/lua-compat-5.3-c-feedstock.git
+	path = feedstocks/lua-compat-5.3-c
+	branch = refs/heads/main
