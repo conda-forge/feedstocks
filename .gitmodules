@@ -76994,3 +76994,7 @@
 	url = https://github.com/conda-forge/luajit-openresty-feedstock.git
 	path = feedstocks/luajit-openresty
 	branch = refs/heads/main
+[submodule "lua-lpeg"]
+	url = https://github.com/conda-forge/lua-lpeg-feedstock.git
+	path = feedstocks/lua-lpeg
+	branch = refs/heads/main
