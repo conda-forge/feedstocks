@@ -76970,3 +76970,7 @@
 	url = https://github.com/conda-forge/unibilium-feedstock.git
 	path = feedstocks/unibilium
 	branch = refs/heads/main
+[submodule "luv"]
+	url = https://github.com/conda-forge/luv-feedstock.git
+	path = feedstocks/luv
+	branch = refs/heads/main
