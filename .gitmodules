@@ -77002,3 +77002,7 @@
 	url = https://github.com/conda-forge/libvterm-feedstock.git
 	path = feedstocks/libvterm
 	branch = refs/heads/main
+[submodule "libtermkey"]
+	url = https://github.com/conda-forge/libtermkey-feedstock.git
+	path = feedstocks/libtermkey
+	branch = refs/heads/main
