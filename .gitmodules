@@ -76998,3 +76998,7 @@
 	url = https://github.com/conda-forge/lua-lpeg-feedstock.git
 	path = feedstocks/lua-lpeg
 	branch = refs/heads/main
+[submodule "libvterm"]
+	url = https://github.com/conda-forge/libvterm-feedstock.git
+	path = feedstocks/libvterm
+	branch = refs/heads/main
