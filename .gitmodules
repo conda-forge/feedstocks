@@ -77030,3 +77030,7 @@
 	url = https://github.com/conda-forge/eumdac-feedstock.git
 	path = feedstocks/eumdac
 	branch = refs/heads/main
+[submodule "climix"]
+	url = https://github.com/conda-forge/climix-feedstock.git
+	path = feedstocks/climix
+	branch = refs/heads/main
