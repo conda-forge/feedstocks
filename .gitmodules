@@ -77042,3 +77042,7 @@
 	url = https://github.com/conda-forge/napari-unicell-feedstock.git
 	path = feedstocks/napari-unicell
 	branch = refs/heads/main
+[submodule "freesasa"]
+	url = https://github.com/conda-forge/freesasa-feedstock.git
+	path = feedstocks/freesasa
+	branch = refs/heads/main
