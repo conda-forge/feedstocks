@@ -76986,3 +76986,7 @@
 	url = https://github.com/conda-forge/libtree-sitter-feedstock.git
 	path = feedstocks/libtree-sitter
 	branch = refs/heads/main
+[submodule "libmpack-lua"]
+	url = https://github.com/conda-forge/libmpack-lua-feedstock.git
+	path = feedstocks/libmpack-lua
+	branch = refs/heads/main
