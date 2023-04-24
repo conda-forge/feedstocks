@@ -77034,3 +77034,7 @@
 	url = https://github.com/conda-forge/climix-feedstock.git
 	path = feedstocks/climix
 	branch = refs/heads/main
+[submodule "open-radar-data"]
+	url = https://github.com/conda-forge/open-radar-data-feedstock.git
+	path = feedstocks/open-radar-data
+	branch = refs/heads/main
