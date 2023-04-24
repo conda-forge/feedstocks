@@ -76958,3 +76958,7 @@
 	url = https://github.com/conda-forge/htmlgen-feedstock.git
 	path = feedstocks/htmlgen
 	branch = refs/heads/main
+[submodule "h5glance"]
+	url = https://github.com/conda-forge/h5glance-feedstock.git
+	path = feedstocks/h5glance
+	branch = refs/heads/main
