@@ -77014,3 +77014,7 @@
 	url = https://github.com/conda-forge/dolphin-feedstock.git
 	path = feedstocks/dolphin
 	branch = refs/heads/main
+[submodule "starlette-csrf"]
+	url = https://github.com/conda-forge/starlette-csrf-feedstock.git
+	path = feedstocks/starlette-csrf
+	branch = refs/heads/main
