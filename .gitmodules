@@ -77018,3 +77018,7 @@
 	url = https://github.com/conda-forge/starlette-csrf-feedstock.git
 	path = feedstocks/starlette-csrf
 	branch = refs/heads/main
+[submodule "flux-sched"]
+	url = https://github.com/conda-forge/flux-sched-feedstock.git
+	path = feedstocks/flux-sched
+	branch = refs/heads/main
