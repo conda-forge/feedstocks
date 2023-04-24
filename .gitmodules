@@ -76990,3 +76990,7 @@
 	url = https://github.com/conda-forge/libmpack-lua-feedstock.git
 	path = feedstocks/libmpack-lua
 	branch = refs/heads/main
+[submodule "luajit-openresty"]
+	url = https://github.com/conda-forge/luajit-openresty-feedstock.git
+	path = feedstocks/luajit-openresty
+	branch = refs/heads/main
