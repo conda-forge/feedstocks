@@ -76978,3 +76978,7 @@
 	url = https://github.com/conda-forge/lua-compat-5.3-c-feedstock.git
 	path = feedstocks/lua-compat-5.3-c
 	branch = refs/heads/main
+[submodule "nvim"]
+	url = https://github.com/conda-forge/nvim-feedstock.git
+	path = feedstocks/nvim
+	branch = refs/heads/main
