@@ -76966,3 +76966,7 @@
 	url = https://github.com/conda-forge/pdm-backend-feedstock.git
 	path = feedstocks/pdm-backend
 	branch = refs/heads/main
+[submodule "unibilium"]
+	url = https://github.com/conda-forge/unibilium-feedstock.git
+	path = feedstocks/unibilium
+	branch = refs/heads/main
