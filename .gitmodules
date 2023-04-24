@@ -77006,3 +77006,7 @@
 	url = https://github.com/conda-forge/libtermkey-feedstock.git
 	path = feedstocks/libtermkey
 	branch = refs/heads/main
+[submodule "geovista-slam"]
+	url = https://github.com/conda-forge/geovista-slam-feedstock.git
+	path = feedstocks/geovista-slam
+	branch = refs/heads/main
