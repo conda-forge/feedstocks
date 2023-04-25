@@ -77082,3 +77082,7 @@
 	url = https://github.com/conda-forge/poppy-feedstock.git
 	path = feedstocks/poppy
 	branch = refs/heads/main
+[submodule "brighteyes-ism"]
+	url = https://github.com/conda-forge/brighteyes-ism-feedstock.git
+	path = feedstocks/brighteyes-ism
+	branch = refs/heads/main
