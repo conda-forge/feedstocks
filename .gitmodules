@@ -77062,3 +77062,7 @@
 	url = https://github.com/conda-forge/respondo-feedstock.git
 	path = feedstocks/respondo
 	branch = refs/heads/main
+[submodule "cross_cal_resourcesat"]
+	url = https://github.com/conda-forge/cross_cal_resourcesat-feedstock.git
+	path = feedstocks/cross_cal_resourcesat
+	branch = refs/heads/main
