@@ -77086,3 +77086,7 @@
 	url = https://github.com/conda-forge/brighteyes-ism-feedstock.git
 	path = feedstocks/brighteyes-ism
 	branch = refs/heads/main
+[submodule "pycustomfocus"]
+	url = https://github.com/conda-forge/pycustomfocus-feedstock.git
+	path = feedstocks/pycustomfocus
+	branch = refs/heads/main
