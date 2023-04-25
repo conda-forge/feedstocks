@@ -77066,3 +77066,7 @@
 	url = https://github.com/conda-forge/cross_cal_resourcesat-feedstock.git
 	path = feedstocks/cross_cal_resourcesat
 	branch = refs/heads/main
+[submodule "bmi_roms"]
+	url = https://github.com/conda-forge/bmi_roms-feedstock.git
+	path = feedstocks/bmi_roms
+	branch = refs/heads/main
