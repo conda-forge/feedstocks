@@ -77054,3 +77054,7 @@
 	url = https://github.com/conda-forge/daqp-feedstock.git
 	path = feedstocks/daqp
 	branch = refs/heads/main
+[submodule "fatpack"]
+	url = https://github.com/conda-forge/fatpack-feedstock.git
+	path = feedstocks/fatpack
+	branch = refs/heads/main
