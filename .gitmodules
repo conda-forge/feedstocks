@@ -77070,3 +77070,7 @@
 	url = https://github.com/conda-forge/bmi_roms-feedstock.git
 	path = feedstocks/bmi_roms
 	branch = refs/heads/main
+[submodule "pyqg-jax"]
+	url = https://github.com/conda-forge/pyqg-jax-feedstock.git
+	path = feedstocks/pyqg-jax
+	branch = refs/heads/main
