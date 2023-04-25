@@ -77046,3 +77046,7 @@
 	url = https://github.com/conda-forge/freesasa-feedstock.git
 	path = feedstocks/freesasa
 	branch = refs/heads/main
+[submodule "sciris"]
+	url = https://github.com/conda-forge/sciris-feedstock.git
+	path = feedstocks/sciris
+	branch = refs/heads/main
