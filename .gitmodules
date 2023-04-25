@@ -77050,3 +77050,7 @@
 	url = https://github.com/conda-forge/sciris-feedstock.git
 	path = feedstocks/sciris
 	branch = refs/heads/main
+[submodule "daqp"]
+	url = https://github.com/conda-forge/daqp-feedstock.git
+	path = feedstocks/daqp
+	branch = refs/heads/main
