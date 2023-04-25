@@ -77078,3 +77078,7 @@
 	url = https://github.com/conda-forge/hijridate-feedstock.git
 	path = feedstocks/hijridate
 	branch = refs/heads/main
+[submodule "poppy"]
+	url = https://github.com/conda-forge/poppy-feedstock.git
+	path = feedstocks/poppy
+	branch = refs/heads/main
