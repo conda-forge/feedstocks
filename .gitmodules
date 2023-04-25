@@ -77090,3 +77090,7 @@
 	url = https://github.com/conda-forge/pycustomfocus-feedstock.git
 	path = feedstocks/pycustomfocus
 	branch = refs/heads/main
+[submodule "bitmagic"]
+	url = https://github.com/conda-forge/bitmagic-feedstock.git
+	path = feedstocks/bitmagic
+	branch = refs/heads/main
