@@ -77110,3 +77110,7 @@
 	url = https://github.com/conda-forge/sanic-testing-feedstock.git
 	path = feedstocks/sanic-testing
 	branch = refs/heads/main
+[submodule "sanic-ext"]
+	url = https://github.com/conda-forge/sanic-ext-feedstock.git
+	path = feedstocks/sanic-ext
+	branch = refs/heads/main
