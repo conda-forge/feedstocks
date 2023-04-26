@@ -77158,3 +77158,7 @@
 	url = https://github.com/conda-forge/gw-sklearn-xarray-feedstock.git
 	path = feedstocks/gw-sklearn-xarray
 	branch = refs/heads/main
+[submodule "pymt_roms"]
+	url = https://github.com/conda-forge/pymt_roms-feedstock.git
+	path = feedstocks/pymt_roms
+	branch = refs/heads/main
