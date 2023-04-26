@@ -77146,3 +77146,7 @@
 	url = https://github.com/conda-forge/pytest-remote-response-feedstock.git
 	path = feedstocks/pytest-remote-response
 	branch = refs/heads/main
+[submodule "responsefun"]
+	url = https://github.com/conda-forge/responsefun-feedstock.git
+	path = feedstocks/responsefun
+	branch = refs/heads/main
