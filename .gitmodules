@@ -77098,3 +77098,7 @@
 	url = https://github.com/conda-forge/psi4-feedstock.git
 	path = feedstocks/psi4
 	branch = refs/heads/main
+[submodule "dkh"]
+	url = https://github.com/conda-forge/dkh-feedstock.git
+	path = feedstocks/dkh
+	branch = refs/heads/main
