@@ -77154,3 +77154,7 @@
 	url = https://github.com/conda-forge/geomcompare-feedstock.git
 	path = feedstocks/geomcompare
 	branch = refs/heads/main
+[submodule "gw-sklearn-xarray"]
+	url = https://github.com/conda-forge/gw-sklearn-xarray-feedstock.git
+	path = feedstocks/gw-sklearn-xarray
+	branch = refs/heads/main
