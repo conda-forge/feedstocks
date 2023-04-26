@@ -77106,3 +77106,7 @@
 	url = https://github.com/conda-forge/semimap-feedstock.git
 	path = feedstocks/semimap
 	branch = refs/heads/main
+[submodule "sanic-testing"]
+	url = https://github.com/conda-forge/sanic-testing-feedstock.git
+	path = feedstocks/sanic-testing
+	branch = refs/heads/main
