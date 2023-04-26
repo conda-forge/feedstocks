@@ -77102,3 +77102,7 @@
 	url = https://github.com/conda-forge/dkh-feedstock.git
 	path = feedstocks/dkh
 	branch = refs/heads/main
+[submodule "semimap"]
+	url = https://github.com/conda-forge/semimap-feedstock.git
+	path = feedstocks/semimap
+	branch = refs/heads/main
