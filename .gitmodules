@@ -77150,3 +77150,7 @@
 	url = https://github.com/conda-forge/responsefun-feedstock.git
 	path = feedstocks/responsefun
 	branch = refs/heads/main
+[submodule "geomcompare"]
+	url = https://github.com/conda-forge/geomcompare-feedstock.git
+	path = feedstocks/geomcompare
+	branch = refs/heads/main
