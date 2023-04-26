@@ -77126,3 +77126,7 @@
 	url = https://github.com/conda-forge/vtkbool-feedstock.git
 	path = feedstocks/vtkbool
 	branch = refs/heads/main
+[submodule "funlib.geometry"]
+	url = https://github.com/conda-forge/funlib.geometry-feedstock.git
+	path = feedstocks/funlib.geometry
+	branch = refs/heads/main
