@@ -77138,3 +77138,7 @@
 	url = https://github.com/conda-forge/airtrafficsim-feedstock.git
 	path = feedstocks/airtrafficsim
 	branch = refs/heads/main
+[submodule "cset"]
+	url = https://github.com/conda-forge/cset-feedstock.git
+	path = feedstocks/cset
+	branch = refs/heads/main
