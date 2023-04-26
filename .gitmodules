@@ -77114,3 +77114,7 @@
 	url = https://github.com/conda-forge/sanic-ext-feedstock.git
 	path = feedstocks/sanic-ext
 	branch = refs/heads/main
+[submodule "r-abcrf"]
+	url = https://github.com/conda-forge/r-abcrf-feedstock.git
+	path = feedstocks/r-abcrf
+	branch = refs/heads/main
