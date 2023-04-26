@@ -77094,3 +77094,7 @@
 	url = https://github.com/conda-forge/bitmagic-feedstock.git
 	path = feedstocks/bitmagic
 	branch = refs/heads/main
+[submodule "psi4"]
+	url = https://github.com/conda-forge/psi4-feedstock.git
+	path = feedstocks/psi4
+	branch = refs/heads/main
