@@ -77174,3 +77174,7 @@
 	url = https://github.com/conda-forge/remotery-split-feedstock.git
 	path = feedstocks/remotery-split
 	branch = refs/heads/main
+[submodule "xkcdpass"]
+	url = https://github.com/conda-forge/xkcdpass-feedstock.git
+	path = feedstocks/xkcdpass
+	branch = refs/heads/main
