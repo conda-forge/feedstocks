@@ -77178,3 +77178,7 @@
 	url = https://github.com/conda-forge/xkcdpass-feedstock.git
 	path = feedstocks/xkcdpass
 	branch = refs/heads/main
+[submodule "bluesky-adaptive"]
+	url = https://github.com/conda-forge/bluesky-adaptive-feedstock.git
+	path = feedstocks/bluesky-adaptive
+	branch = refs/heads/main
