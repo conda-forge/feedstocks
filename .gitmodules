@@ -77182,3 +77182,7 @@
 	url = https://github.com/conda-forge/bluesky-adaptive-feedstock.git
 	path = feedstocks/bluesky-adaptive
 	branch = refs/heads/main
+[submodule "skytag"]
+	url = https://github.com/conda-forge/skytag-feedstock.git
+	path = feedstocks/skytag
+	branch = refs/heads/main
