@@ -77186,3 +77186,7 @@
 	url = https://github.com/conda-forge/skytag-feedstock.git
 	path = feedstocks/skytag
 	branch = refs/heads/main
+[submodule "flask-session2"]
+	url = https://github.com/conda-forge/flask-session2-feedstock.git
+	path = feedstocks/flask-session2
+	branch = refs/heads/main
