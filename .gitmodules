@@ -77198,3 +77198,7 @@
 	url = https://github.com/conda-forge/fonticon-fontawesome6-feedstock.git
 	path = feedstocks/fonticon-fontawesome6
 	branch = refs/heads/main
+[submodule "rich-argparse"]
+	url = https://github.com/conda-forge/rich-argparse-feedstock.git
+	path = feedstocks/rich-argparse
+	branch = refs/heads/main
