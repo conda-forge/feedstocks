@@ -77206,3 +77206,7 @@
 	url = https://github.com/conda-forge/r-emoa-feedstock.git
 	path = feedstocks/r-emoa
 	branch = refs/heads/main
+[submodule "r-plottools"]
+	url = https://github.com/conda-forge/r-plottools-feedstock.git
+	path = feedstocks/r-plottools
+	branch = refs/heads/main
