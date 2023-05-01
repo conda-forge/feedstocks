@@ -77214,3 +77214,7 @@
 	url = https://github.com/conda-forge/r-rgenoud-feedstock.git
 	path = feedstocks/r-rgenoud
 	branch = refs/heads/main
+[submodule "emojis"]
+	url = https://github.com/conda-forge/emojis-feedstock.git
+	path = feedstocks/emojis
+	branch = refs/heads/main
