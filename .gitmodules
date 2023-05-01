@@ -77218,3 +77218,7 @@
 	url = https://github.com/conda-forge/emojis-feedstock.git
 	path = feedstocks/emojis
 	branch = refs/heads/main
+[submodule "usgs-strec"]
+	url = https://github.com/conda-forge/usgs-strec-feedstock.git
+	path = feedstocks/usgs-strec
+	branch = refs/heads/main
