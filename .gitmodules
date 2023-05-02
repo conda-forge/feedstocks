@@ -77230,3 +77230,7 @@
 	url = https://github.com/conda-forge/r-mlr3mbo-feedstock.git
 	path = feedstocks/r-mlr3mbo
 	branch = refs/heads/main
+[submodule "pennylane-lightning-kokkos"]
+	url = https://github.com/conda-forge/pennylane-lightning-kokkos-feedstock.git
+	path = feedstocks/pennylane-lightning-kokkos
+	branch = refs/heads/main
