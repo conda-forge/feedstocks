@@ -77234,3 +77234,7 @@
 	url = https://github.com/conda-forge/pennylane-lightning-kokkos-feedstock.git
 	path = feedstocks/pennylane-lightning-kokkos
 	branch = refs/heads/main
+[submodule "libmetgem"]
+	url = https://github.com/conda-forge/libmetgem-feedstock.git
+	path = feedstocks/libmetgem
+	branch = refs/heads/main
