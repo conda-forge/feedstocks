@@ -77242,3 +77242,7 @@
 	url = https://github.com/conda-forge/ms-gsl-feedstock.git
 	path = feedstocks/ms-gsl
 	branch = refs/heads/main
+[submodule "fast_float"]
+	url = https://github.com/conda-forge/fast_float-feedstock.git
+	path = feedstocks/fast_float
+	branch = refs/heads/main
