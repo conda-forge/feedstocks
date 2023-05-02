@@ -77254,3 +77254,7 @@
 	url = https://github.com/conda-forge/perspective_parquet-feedstock.git
 	path = feedstocks/perspective_parquet
 	branch = refs/heads/main
+[submodule "zulip"]
+	url = https://github.com/conda-forge/zulip-feedstock.git
+	path = feedstocks/zulip
+	branch = refs/heads/main
