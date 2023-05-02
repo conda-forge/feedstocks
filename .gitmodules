@@ -77238,3 +77238,7 @@
 	url = https://github.com/conda-forge/libmetgem-feedstock.git
 	path = feedstocks/libmetgem
 	branch = refs/heads/main
+[submodule "ms-gsl"]
+	url = https://github.com/conda-forge/ms-gsl-feedstock.git
+	path = feedstocks/ms-gsl
+	branch = refs/heads/main
