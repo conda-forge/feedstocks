@@ -77250,3 +77250,7 @@
 	url = https://github.com/conda-forge/cmap-feedstock.git
 	path = feedstocks/cmap
 	branch = refs/heads/main
+[submodule "perspective_parquet"]
+	url = https://github.com/conda-forge/perspective_parquet-feedstock.git
+	path = feedstocks/perspective_parquet
+	branch = refs/heads/main
