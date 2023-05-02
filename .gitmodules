@@ -77246,3 +77246,7 @@
 	url = https://github.com/conda-forge/fast_float-feedstock.git
 	path = feedstocks/fast_float
 	branch = refs/heads/main
+[submodule "cmap"]
+	url = https://github.com/conda-forge/cmap-feedstock.git
+	path = feedstocks/cmap
+	branch = refs/heads/main
