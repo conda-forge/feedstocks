@@ -77258,3 +77258,7 @@
 	url = https://github.com/conda-forge/zulip-feedstock.git
 	path = feedstocks/zulip
 	branch = refs/heads/main
+[submodule "doitoml-split"]
+	url = https://github.com/conda-forge/doitoml-split-feedstock.git
+	path = feedstocks/doitoml-split
+	branch = refs/heads/main
