@@ -77294,3 +77294,7 @@
 	url = https://github.com/conda-forge/mne-gui-addons-feedstock.git
 	path = feedstocks/mne-gui-addons
 	branch = refs/heads/main
+[submodule "general_robotics_toolbox"]
+	url = https://github.com/conda-forge/general_robotics_toolbox-feedstock.git
+	path = feedstocks/general_robotics_toolbox
+	branch = refs/heads/main
