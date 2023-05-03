@@ -77290,3 +77290,7 @@
 	url = https://github.com/conda-forge/urdfdom-py-feedstock.git
 	path = feedstocks/urdfdom-py
 	branch = refs/heads/main
+[submodule "mne-gui-addons"]
+	url = https://github.com/conda-forge/mne-gui-addons-feedstock.git
+	path = feedstocks/mne-gui-addons
+	branch = refs/heads/main
