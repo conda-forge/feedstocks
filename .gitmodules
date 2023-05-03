@@ -77302,3 +77302,7 @@
 	url = https://github.com/conda-forge/proxy-py-feedstock.git
 	path = feedstocks/proxy-py
 	branch = refs/heads/main
+[submodule "junifer"]
+	url = https://github.com/conda-forge/junifer-feedstock.git
+	path = feedstocks/junifer
+	branch = refs/heads/main
