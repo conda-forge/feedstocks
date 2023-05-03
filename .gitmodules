@@ -77286,3 +77286,7 @@
 	url = https://github.com/conda-forge/gpcam-feedstock.git
 	path = feedstocks/gpcam
 	branch = refs/heads/main
+[submodule "urdfdom-py"]
+	url = https://github.com/conda-forge/urdfdom-py-feedstock.git
+	path = feedstocks/urdfdom-py
+	branch = refs/heads/main
