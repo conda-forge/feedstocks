@@ -77278,3 +77278,7 @@
 	url = https://github.com/conda-forge/cnmfsns-feedstock.git
 	path = feedstocks/cnmfsns
 	branch = refs/heads/main
+[submodule "hgdl"]
+	url = https://github.com/conda-forge/hgdl-feedstock.git
+	path = feedstocks/hgdl
+	branch = refs/heads/main
