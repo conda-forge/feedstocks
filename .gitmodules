@@ -77306,3 +77306,7 @@
 	url = https://github.com/conda-forge/junifer-feedstock.git
 	path = feedstocks/junifer
 	branch = refs/heads/main
+[submodule "jupyterlab-daw"]
+	url = https://github.com/conda-forge/jupyterlab-daw-feedstock.git
+	path = feedstocks/jupyterlab-daw
+	branch = refs/heads/main
