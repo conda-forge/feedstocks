@@ -77298,3 +77298,7 @@
 	url = https://github.com/conda-forge/general_robotics_toolbox-feedstock.git
 	path = feedstocks/general_robotics_toolbox
 	branch = refs/heads/main
+[submodule "proxy-py"]
+	url = https://github.com/conda-forge/proxy-py-feedstock.git
+	path = feedstocks/proxy-py
+	branch = refs/heads/main
