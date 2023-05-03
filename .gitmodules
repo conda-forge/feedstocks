@@ -77282,3 +77282,7 @@
 	url = https://github.com/conda-forge/hgdl-feedstock.git
 	path = feedstocks/hgdl
 	branch = refs/heads/main
+[submodule "gpcam"]
+	url = https://github.com/conda-forge/gpcam-feedstock.git
+	path = feedstocks/gpcam
+	branch = refs/heads/main
