@@ -77270,3 +77270,7 @@
 	url = https://github.com/conda-forge/mold-feedstock.git
 	path = feedstocks/mold
 	branch = refs/heads/main
+[submodule "fvgp"]
+	url = https://github.com/conda-forge/fvgp-feedstock.git
+	path = feedstocks/fvgp
+	branch = refs/heads/main
