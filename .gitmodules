@@ -77330,3 +77330,7 @@
 	url = https://github.com/conda-forge/robin_hood-feedstock.git
 	path = feedstocks/robin_hood
 	branch = refs/heads/main
+[submodule "tl2cgen"]
+	url = https://github.com/conda-forge/tl2cgen-feedstock.git
+	path = feedstocks/tl2cgen
+	branch = refs/heads/main
