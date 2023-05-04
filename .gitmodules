@@ -77314,3 +77314,7 @@
 	url = https://github.com/conda-forge/sigpy-feedstock.git
 	path = feedstocks/sigpy
 	branch = refs/heads/main
+[submodule "lmdbxx"]
+	url = https://github.com/conda-forge/lmdbxx-feedstock.git
+	path = feedstocks/lmdbxx
+	branch = refs/heads/main
