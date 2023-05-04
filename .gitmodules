@@ -77322,3 +77322,7 @@
 	url = https://github.com/conda-forge/rapidcheck-feedstock.git
 	path = feedstocks/rapidcheck
 	branch = refs/heads/main
+[submodule "rattler-build"]
+	url = https://github.com/conda-forge/rattler-build-feedstock.git
+	path = feedstocks/rattler-build
+	branch = refs/heads/main
