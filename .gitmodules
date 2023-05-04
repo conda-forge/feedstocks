@@ -77310,3 +77310,7 @@
 	url = https://github.com/conda-forge/jupyterlab-daw-feedstock.git
 	path = feedstocks/jupyterlab-daw
 	branch = refs/heads/main
+[submodule "sigpy"]
+	url = https://github.com/conda-forge/sigpy-feedstock.git
+	path = feedstocks/sigpy
+	branch = refs/heads/main
