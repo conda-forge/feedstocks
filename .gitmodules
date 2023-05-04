@@ -77326,3 +77326,7 @@
 	url = https://github.com/conda-forge/rattler-build-feedstock.git
 	path = feedstocks/rattler-build
 	branch = refs/heads/main
+[submodule "robin_hood"]
+	url = https://github.com/conda-forge/robin_hood-feedstock.git
+	path = feedstocks/robin_hood
+	branch = refs/heads/main
