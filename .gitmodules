@@ -77318,3 +77318,7 @@
 	url = https://github.com/conda-forge/lmdbxx-feedstock.git
 	path = feedstocks/lmdbxx
 	branch = refs/heads/main
+[submodule "rapidcheck"]
+	url = https://github.com/conda-forge/rapidcheck-feedstock.git
+	path = feedstocks/rapidcheck
+	branch = refs/heads/main
