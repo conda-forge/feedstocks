@@ -77334,3 +77334,7 @@
 	url = https://github.com/conda-forge/tl2cgen-feedstock.git
 	path = feedstocks/tl2cgen
 	branch = refs/heads/main
+[submodule "trends_earth_schemas"]
+	url = https://github.com/conda-forge/trends_earth_schemas-feedstock.git
+	path = feedstocks/trends_earth_schemas
+	branch = refs/heads/main
