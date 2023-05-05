@@ -77342,3 +77342,7 @@
 	url = https://github.com/conda-forge/napari-sam4is-feedstock.git
 	path = feedstocks/napari-sam4is
 	branch = refs/heads/main
+[submodule "oneat"]
+	url = https://github.com/conda-forge/oneat-feedstock.git
+	path = feedstocks/oneat
+	branch = refs/heads/main
