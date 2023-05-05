@@ -77354,3 +77354,7 @@
 	url = https://github.com/conda-forge/napari-zulip-feedstock.git
 	path = feedstocks/napari-zulip
 	branch = refs/heads/main
+[submodule "crepes"]
+	url = https://github.com/conda-forge/crepes-feedstock.git
+	path = feedstocks/crepes
+	branch = refs/heads/main
