@@ -77350,3 +77350,7 @@
 	url = https://github.com/conda-forge/django-oauth-toolkit-feedstock.git
 	path = feedstocks/django-oauth-toolkit
 	branch = refs/heads/main
+[submodule "napari-zulip"]
+	url = https://github.com/conda-forge/napari-zulip-feedstock.git
+	path = feedstocks/napari-zulip
+	branch = refs/heads/main
