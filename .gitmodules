@@ -77346,3 +77346,7 @@
 	url = https://github.com/conda-forge/oneat-feedstock.git
 	path = feedstocks/oneat
 	branch = refs/heads/main
+[submodule "django-oauth-toolkit"]
+	url = https://github.com/conda-forge/django-oauth-toolkit-feedstock.git
+	path = feedstocks/django-oauth-toolkit
+	branch = refs/heads/main
