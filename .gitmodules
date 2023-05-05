@@ -77358,3 +77358,7 @@
 	url = https://github.com/conda-forge/crepes-feedstock.git
 	path = feedstocks/crepes
 	branch = refs/heads/main
+[submodule "napari-segment-anything"]
+	url = https://github.com/conda-forge/napari-segment-anything-feedstock.git
+	path = feedstocks/napari-segment-anything
+	branch = refs/heads/main
