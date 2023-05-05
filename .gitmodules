@@ -77362,3 +77362,7 @@
 	url = https://github.com/conda-forge/napari-segment-anything-feedstock.git
 	path = feedstocks/napari-segment-anything
 	branch = refs/heads/main
+[submodule "local-migrator"]
+	url = https://github.com/conda-forge/local-migrator-feedstock.git
+	path = feedstocks/local-migrator
+	branch = refs/heads/main
