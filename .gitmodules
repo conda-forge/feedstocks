@@ -77370,3 +77370,7 @@
 	url = https://github.com/conda-forge/napari-sam-feedstock.git
 	path = feedstocks/napari-sam
 	branch = refs/heads/main
+[submodule "azure-mgmt-batch"]
+	url = https://github.com/conda-forge/azure-mgmt-batch-feedstock.git
+	path = feedstocks/azure-mgmt-batch
+	branch = refs/heads/main
