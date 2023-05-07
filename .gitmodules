@@ -77378,3 +77378,7 @@
 	url = https://github.com/conda-forge/aioshutil-feedstock.git
 	path = feedstocks/aioshutil
 	branch = refs/heads/main
+[submodule "pyduktape2"]
+	url = https://github.com/conda-forge/pyduktape2-feedstock.git
+	path = feedstocks/pyduktape2
+	branch = refs/heads/main
