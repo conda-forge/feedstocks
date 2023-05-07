@@ -77374,3 +77374,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-batch-feedstock.git
 	path = feedstocks/azure-mgmt-batch
 	branch = refs/heads/main
+[submodule "aioshutil"]
+	url = https://github.com/conda-forge/aioshutil-feedstock.git
+	path = feedstocks/aioshutil
+	branch = refs/heads/main
