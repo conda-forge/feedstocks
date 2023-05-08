@@ -77382,3 +77382,7 @@
 	url = https://github.com/conda-forge/pyduktape2-feedstock.git
 	path = feedstocks/pyduktape2
 	branch = refs/heads/main
+[submodule "markdownify"]
+	url = https://github.com/conda-forge/markdownify-feedstock.git
+	path = feedstocks/markdownify
+	branch = refs/heads/main
