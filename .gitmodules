@@ -77390,3 +77390,7 @@
 	url = https://github.com/conda-forge/data-morph-ai-feedstock.git
 	path = feedstocks/data-morph-ai
 	branch = refs/heads/main
+[submodule "environment_settings"]
+	url = https://github.com/conda-forge/environment_settings-feedstock.git
+	path = feedstocks/environment_settings
+	branch = refs/heads/main
