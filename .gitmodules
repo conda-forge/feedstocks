@@ -77386,3 +77386,7 @@
 	url = https://github.com/conda-forge/markdownify-feedstock.git
 	path = feedstocks/markdownify
 	branch = refs/heads/main
+[submodule "data-morph-ai"]
+	url = https://github.com/conda-forge/data-morph-ai-feedstock.git
+	path = feedstocks/data-morph-ai
+	branch = refs/heads/main
