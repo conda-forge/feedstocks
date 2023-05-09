@@ -77398,3 +77398,7 @@
 	url = https://github.com/conda-forge/xarray-safe-s1-feedstock.git
 	path = feedstocks/xarray-safe-s1
 	branch = refs/heads/main
+[submodule "openpmd-validator"]
+	url = https://github.com/conda-forge/openpmd-validator-feedstock.git
+	path = feedstocks/openpmd-validator
+	branch = refs/heads/main
