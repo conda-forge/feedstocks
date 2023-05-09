@@ -77410,3 +77410,7 @@
 	url = https://github.com/conda-forge/frogress-feedstock.git
 	path = feedstocks/frogress
 	branch = refs/heads/main
+[submodule "module-utilities"]
+	url = https://github.com/conda-forge/module-utilities-feedstock.git
+	path = feedstocks/module-utilities
+	branch = refs/heads/main
