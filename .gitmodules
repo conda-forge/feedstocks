@@ -77422,3 +77422,7 @@
 	url = https://github.com/conda-forge/cmomy-feedstock.git
 	path = feedstocks/cmomy
 	branch = refs/heads/main
+[submodule "tmmc-lnpy"]
+	url = https://github.com/conda-forge/tmmc-lnpy-feedstock.git
+	path = feedstocks/tmmc-lnpy
+	branch = refs/heads/main
