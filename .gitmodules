@@ -77418,3 +77418,7 @@
 	url = https://github.com/conda-forge/robotframework-dependencylibrary-feedstock.git
 	path = feedstocks/robotframework-dependencylibrary
 	branch = refs/heads/main
+[submodule "cmomy"]
+	url = https://github.com/conda-forge/cmomy-feedstock.git
+	path = feedstocks/cmomy
+	branch = refs/heads/main
