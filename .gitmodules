@@ -77442,3 +77442,7 @@
 	url = https://github.com/conda-forge/libevalhyd-feedstock.git
 	path = feedstocks/libevalhyd
 	branch = refs/heads/main
+[submodule "r-evalhyd"]
+	url = https://github.com/conda-forge/r-evalhyd-feedstock.git
+	path = feedstocks/r-evalhyd
+	branch = refs/heads/main
