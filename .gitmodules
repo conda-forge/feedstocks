@@ -77434,3 +77434,7 @@
 	url = https://github.com/conda-forge/thermoextrap-feedstock.git
 	path = feedstocks/thermoextrap
 	branch = refs/heads/main
+[submodule "xcb-util-cursor"]
+	url = https://github.com/conda-forge/xcb-util-cursor-feedstock.git
+	path = feedstocks/xcb-util-cursor
+	branch = refs/heads/main
