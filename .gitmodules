@@ -77438,3 +77438,7 @@
 	url = https://github.com/conda-forge/xcb-util-cursor-feedstock.git
 	path = feedstocks/xcb-util-cursor
 	branch = refs/heads/main
+[submodule "libevalhyd"]
+	url = https://github.com/conda-forge/libevalhyd-feedstock.git
+	path = feedstocks/libevalhyd
+	branch = refs/heads/main
