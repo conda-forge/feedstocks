@@ -77470,3 +77470,7 @@
 	url = https://github.com/conda-forge/igwn-lldd-lsmp-feedstock.git
 	path = feedstocks/igwn-lldd-lsmp
 	branch = refs/heads/main
+[submodule "demcmc"]
+	url = https://github.com/conda-forge/demcmc-feedstock.git
+	path = feedstocks/demcmc
+	branch = refs/heads/main
