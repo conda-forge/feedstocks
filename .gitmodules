@@ -77478,3 +77478,7 @@
 	url = https://github.com/conda-forge/pcrunch-feedstock.git
 	path = feedstocks/pcrunch
 	branch = refs/heads/main
+[submodule "scylla-driver"]
+	url = https://github.com/conda-forge/scylla-driver-feedstock.git
+	path = feedstocks/scylla-driver
+	branch = refs/heads/main
