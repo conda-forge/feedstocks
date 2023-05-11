@@ -77482,3 +77482,7 @@
 	url = https://github.com/conda-forge/scylla-driver-feedstock.git
 	path = feedstocks/scylla-driver
 	branch = refs/heads/main
+[submodule "zcollection"]
+	url = https://github.com/conda-forge/zcollection-feedstock.git
+	path = feedstocks/zcollection
+	branch = refs/heads/main
