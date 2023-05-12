@@ -77506,3 +77506,7 @@
 	url = https://github.com/conda-forge/asimov-gwdata-feedstock.git
 	path = feedstocks/asimov-gwdata
 	branch = refs/heads/main
+[submodule "doped"]
+	url = https://github.com/conda-forge/doped-feedstock.git
+	path = feedstocks/doped
+	branch = refs/heads/main
