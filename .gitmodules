@@ -77486,3 +77486,7 @@
 	url = https://github.com/conda-forge/zcollection-feedstock.git
 	path = feedstocks/zcollection
 	branch = refs/heads/main
+[submodule "sqlalchemy-hana"]
+	url = https://github.com/conda-forge/sqlalchemy-hana-feedstock.git
+	path = feedstocks/sqlalchemy-hana
+	branch = refs/heads/main
