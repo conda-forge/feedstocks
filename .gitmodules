@@ -77502,3 +77502,7 @@
 	url = https://github.com/conda-forge/lpython_emulation-feedstock.git
 	path = feedstocks/lpython_emulation
 	branch = refs/heads/main
+[submodule "asimov-gwdata"]
+	url = https://github.com/conda-forge/asimov-gwdata-feedstock.git
+	path = feedstocks/asimov-gwdata
+	branch = refs/heads/main
