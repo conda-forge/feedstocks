@@ -77510,3 +77510,7 @@
 	url = https://github.com/conda-forge/doped-feedstock.git
 	path = feedstocks/doped
 	branch = refs/heads/main
+[submodule "dkist"]
+	url = https://github.com/conda-forge/dkist-feedstock.git
+	path = feedstocks/dkist
+	branch = refs/heads/main
