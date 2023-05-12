@@ -77490,3 +77490,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-hana-feedstock.git
 	path = feedstocks/sqlalchemy-hana
 	branch = refs/heads/main
+[submodule "xpublish-edr"]
+	url = https://github.com/conda-forge/xpublish-edr-feedstock.git
+	path = feedstocks/xpublish-edr
+	branch = refs/heads/main
