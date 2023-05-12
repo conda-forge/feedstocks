@@ -77514,3 +77514,7 @@
 	url = https://github.com/conda-forge/dkist-feedstock.git
 	path = feedstocks/dkist
 	branch = refs/heads/main
+[submodule "miss3d"]
+	url = https://github.com/conda-forge/miss3d-feedstock.git
+	path = feedstocks/miss3d
+	branch = refs/heads/main
