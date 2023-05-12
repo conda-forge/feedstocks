@@ -77518,3 +77518,7 @@
 	url = https://github.com/conda-forge/miss3d-feedstock.git
 	path = feedstocks/miss3d
 	branch = refs/heads/main
+[submodule "code-aster"]
+	url = https://github.com/conda-forge/code-aster-feedstock.git
+	path = feedstocks/code-aster
+	branch = refs/heads/main
