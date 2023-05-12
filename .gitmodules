@@ -77494,3 +77494,7 @@
 	url = https://github.com/conda-forge/xpublish-edr-feedstock.git
 	path = feedstocks/xpublish-edr
 	branch = refs/heads/main
+[submodule "xpublish-opendap"]
+	url = https://github.com/conda-forge/xpublish-opendap-feedstock.git
+	path = feedstocks/xpublish-opendap
+	branch = refs/heads/main
