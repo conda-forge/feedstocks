@@ -77538,3 +77538,7 @@
 	url = https://github.com/conda-forge/rouge-score-feedstock.git
 	path = feedstocks/rouge-score
 	branch = refs/heads/main
+[submodule "dlclibrary"]
+	url = https://github.com/conda-forge/dlclibrary-feedstock.git
+	path = feedstocks/dlclibrary
+	branch = refs/heads/main
