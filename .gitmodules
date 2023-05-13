@@ -77522,3 +77522,7 @@
 	url = https://github.com/conda-forge/code-aster-feedstock.git
 	path = feedstocks/code-aster
 	branch = refs/heads/main
+[submodule "mfront"]
+	url = https://github.com/conda-forge/mfront-feedstock.git
+	path = feedstocks/mfront
+	branch = refs/heads/main
