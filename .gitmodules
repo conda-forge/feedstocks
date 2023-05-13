@@ -77530,3 +77530,7 @@
 	url = https://github.com/conda-forge/r-ggflowchart-feedstock.git
 	path = feedstocks/r-ggflowchart
 	branch = refs/heads/main
+[submodule "r-coloc"]
+	url = https://github.com/conda-forge/r-coloc-feedstock.git
+	path = feedstocks/r-coloc
+	branch = refs/heads/main
