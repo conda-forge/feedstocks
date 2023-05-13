@@ -77534,3 +77534,7 @@
 	url = https://github.com/conda-forge/r-coloc-feedstock.git
 	path = feedstocks/r-coloc
 	branch = refs/heads/main
+[submodule "rouge-score"]
+	url = https://github.com/conda-forge/rouge-score-feedstock.git
+	path = feedstocks/rouge-score
+	branch = refs/heads/main
