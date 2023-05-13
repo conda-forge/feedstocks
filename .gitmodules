@@ -77526,3 +77526,7 @@
 	url = https://github.com/conda-forge/mfront-feedstock.git
 	path = feedstocks/mfront
 	branch = refs/heads/main
+[submodule "r-ggflowchart"]
+	url = https://github.com/conda-forge/r-ggflowchart-feedstock.git
+	path = feedstocks/r-ggflowchart
+	branch = refs/heads/main
