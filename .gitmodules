@@ -77550,3 +77550,7 @@
 	url = https://github.com/conda-forge/r-geniebpc-feedstock.git
 	path = feedstocks/r-geniebpc
 	branch = refs/heads/main
+[submodule "r-cutpointr"]
+	url = https://github.com/conda-forge/r-cutpointr-feedstock.git
+	path = feedstocks/r-cutpointr
+	branch = refs/heads/main
