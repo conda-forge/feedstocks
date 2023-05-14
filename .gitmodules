@@ -77546,3 +77546,7 @@
 	url = https://github.com/conda-forge/r-mirtcat-feedstock.git
 	path = feedstocks/r-mirtcat
 	branch = refs/heads/main
+[submodule "r-geniebpc"]
+	url = https://github.com/conda-forge/r-geniebpc-feedstock.git
+	path = feedstocks/r-geniebpc
+	branch = refs/heads/main
