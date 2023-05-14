@@ -77542,3 +77542,7 @@
 	url = https://github.com/conda-forge/dlclibrary-feedstock.git
 	path = feedstocks/dlclibrary
 	branch = refs/heads/main
+[submodule "r-mirtcat"]
+	url = https://github.com/conda-forge/r-mirtcat-feedstock.git
+	path = feedstocks/r-mirtcat
+	branch = refs/heads/main
