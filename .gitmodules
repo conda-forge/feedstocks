@@ -77558,3 +77558,7 @@
 	url = https://github.com/conda-forge/sphinxext-altair-feedstock.git
 	path = feedstocks/sphinxext-altair
 	branch = refs/heads/main
+[submodule "wayland-protocols"]
+	url = https://github.com/conda-forge/wayland-protocols-feedstock.git
+	path = feedstocks/wayland-protocols
+	branch = refs/heads/main
