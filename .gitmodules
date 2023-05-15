@@ -77570,3 +77570,7 @@
 	url = https://github.com/conda-forge/r-predictnmb-feedstock.git
 	path = feedstocks/r-predictnmb
 	branch = refs/heads/main
+[submodule "nomad"]
+	url = https://github.com/conda-forge/nomad-feedstock.git
+	path = feedstocks/nomad
+	branch = refs/heads/main
