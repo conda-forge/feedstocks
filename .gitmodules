@@ -77578,3 +77578,7 @@
 	url = https://github.com/conda-forge/pyxtal-feedstock.git
 	path = feedstocks/pyxtal
 	branch = refs/heads/main
+[submodule "batoid"]
+	url = https://github.com/conda-forge/batoid-feedstock.git
+	path = feedstocks/batoid
+	branch = refs/heads/main
