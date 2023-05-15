@@ -77554,3 +77554,7 @@
 	url = https://github.com/conda-forge/r-cutpointr-feedstock.git
 	path = feedstocks/r-cutpointr
 	branch = refs/heads/main
+[submodule "sphinxext-altair"]
+	url = https://github.com/conda-forge/sphinxext-altair-feedstock.git
+	path = feedstocks/sphinxext-altair
+	branch = refs/heads/main
