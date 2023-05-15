@@ -77574,3 +77574,7 @@
 	url = https://github.com/conda-forge/nomad-feedstock.git
 	path = feedstocks/nomad
 	branch = refs/heads/main
+[submodule "pyxtal"]
+	url = https://github.com/conda-forge/pyxtal-feedstock.git
+	path = feedstocks/pyxtal
+	branch = refs/heads/main
