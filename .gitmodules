@@ -77582,3 +77582,7 @@
 	url = https://github.com/conda-forge/batoid-feedstock.git
 	path = feedstocks/batoid
 	branch = refs/heads/main
+[submodule "r-shinipsum"]
+	url = https://github.com/conda-forge/r-shinipsum-feedstock.git
+	path = feedstocks/r-shinipsum
+	branch = refs/heads/main
