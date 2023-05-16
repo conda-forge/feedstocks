@@ -77614,3 +77614,7 @@
 	url = https://github.com/conda-forge/cuda-nvcc-impl-feedstock.git
 	path = feedstocks/cuda-nvcc-impl
 	branch = refs/heads/main
+[submodule "solar_system_ephemerides"]
+	url = https://github.com/conda-forge/solar_system_ephemerides-feedstock.git
+	path = feedstocks/solar_system_ephemerides
+	branch = refs/heads/main
