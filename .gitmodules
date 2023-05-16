@@ -77594,3 +77594,7 @@
 	url = https://github.com/conda-forge/farama-notifications-feedstock.git
 	path = feedstocks/farama-notifications
 	branch = refs/heads/main
+[submodule "pgzero"]
+	url = https://github.com/conda-forge/pgzero-feedstock.git
+	path = feedstocks/pgzero
+	branch = refs/heads/main
