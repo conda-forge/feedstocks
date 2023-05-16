@@ -77622,3 +77622,7 @@
 	url = https://github.com/conda-forge/danish-feedstock.git
 	path = feedstocks/danish
 	branch = refs/heads/main
+[submodule "rat"]
+	url = https://github.com/conda-forge/rat-feedstock.git
+	path = feedstocks/rat
+	branch = refs/heads/main
