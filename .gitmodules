@@ -77610,3 +77610,7 @@
 	url = https://github.com/conda-forge/tpot2-feedstock.git
 	path = feedstocks/tpot2
 	branch = refs/heads/main
+[submodule "cuda-nvcc-impl"]
+	url = https://github.com/conda-forge/cuda-nvcc-impl-feedstock.git
+	path = feedstocks/cuda-nvcc-impl
+	branch = refs/heads/main
