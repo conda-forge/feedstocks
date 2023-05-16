@@ -77606,3 +77606,7 @@
 	url = https://github.com/conda-forge/o365-feedstock.git
 	path = feedstocks/o365
 	branch = refs/heads/main
+[submodule "tpot2"]
+	url = https://github.com/conda-forge/tpot2-feedstock.git
+	path = feedstocks/tpot2
+	branch = refs/heads/main
