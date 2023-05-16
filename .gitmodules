@@ -77602,3 +77602,7 @@
 	url = https://github.com/conda-forge/libleidenalg-feedstock.git
 	path = feedstocks/libleidenalg
 	branch = refs/heads/main
+[submodule "o365"]
+	url = https://github.com/conda-forge/o365-feedstock.git
+	path = feedstocks/o365
+	branch = refs/heads/main
