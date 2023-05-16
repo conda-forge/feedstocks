@@ -77598,3 +77598,7 @@
 	url = https://github.com/conda-forge/pgzero-feedstock.git
 	path = feedstocks/pgzero
 	branch = refs/heads/main
+[submodule "libleidenalg"]
+	url = https://github.com/conda-forge/libleidenalg-feedstock.git
+	path = feedstocks/libleidenalg
+	branch = refs/heads/main
