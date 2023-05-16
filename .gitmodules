@@ -77590,3 +77590,7 @@
 	url = https://github.com/conda-forge/r-sirius-ms-feedstock.git
 	path = feedstocks/r-sirius-ms
 	branch = refs/heads/main
+[submodule "farama-notifications"]
+	url = https://github.com/conda-forge/farama-notifications-feedstock.git
+	path = feedstocks/farama-notifications
+	branch = refs/heads/main
