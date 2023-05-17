@@ -77630,3 +77630,7 @@
 	url = https://github.com/conda-forge/xpublish-wms-feedstock.git
 	path = feedstocks/xpublish-wms
 	branch = refs/heads/main
+[submodule "lpython"]
+	url = https://github.com/conda-forge/lpython-feedstock.git
+	path = feedstocks/lpython
+	branch = refs/heads/main
