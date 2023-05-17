@@ -77634,3 +77634,7 @@
 	url = https://github.com/conda-forge/lpython-feedstock.git
 	path = feedstocks/lpython
 	branch = refs/heads/main
+[submodule "r-box"]
+	url = https://github.com/conda-forge/r-box-feedstock.git
+	path = feedstocks/r-box
+	branch = refs/heads/main
