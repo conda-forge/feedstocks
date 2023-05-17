@@ -77626,3 +77626,7 @@
 	url = https://github.com/conda-forge/rat-feedstock.git
 	path = feedstocks/rat
 	branch = refs/heads/main
+[submodule "xpublish-wms"]
+	url = https://github.com/conda-forge/xpublish-wms-feedstock.git
+	path = feedstocks/xpublish-wms
+	branch = refs/heads/main
