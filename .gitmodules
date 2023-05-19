@@ -77698,3 +77698,7 @@
 	url = https://github.com/conda-forge/unifdef-feedstock.git
 	path = feedstocks/unifdef
 	branch = refs/heads/main
+[submodule "macha"]
+	url = https://github.com/conda-forge/macha-feedstock.git
+	path = feedstocks/macha
+	branch = refs/heads/main
