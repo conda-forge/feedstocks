@@ -77678,3 +77678,7 @@
 	url = https://github.com/conda-forge/pe-configurator-feedstock.git
 	path = feedstocks/pe-configurator
 	branch = refs/heads/main
+[submodule "aioinflux"]
+	url = https://github.com/conda-forge/aioinflux-feedstock.git
+	path = feedstocks/aioinflux
+	branch = refs/heads/main
