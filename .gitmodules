@@ -77710,3 +77710,7 @@
 	url = https://github.com/conda-forge/pnpm-licenses-feedstock.git
 	path = feedstocks/pnpm-licenses
 	branch = refs/heads/main
+[submodule "agemo"]
+	url = https://github.com/conda-forge/agemo-feedstock.git
+	path = feedstocks/agemo
+	branch = refs/heads/main
