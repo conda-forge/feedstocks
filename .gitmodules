@@ -77718,3 +77718,7 @@
 	url = https://github.com/conda-forge/etcdpy-feedstock.git
 	path = feedstocks/etcdpy
 	branch = refs/heads/main
+[submodule "python-consul2-split"]
+	url = https://github.com/conda-forge/python-consul2-split-feedstock.git
+	path = feedstocks/python-consul2-split
+	branch = refs/heads/main
