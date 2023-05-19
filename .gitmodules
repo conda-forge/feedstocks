@@ -77646,3 +77646,7 @@
 	url = https://github.com/conda-forge/r-clustmixtype-feedstock.git
 	path = feedstocks/r-clustmixtype
 	branch = refs/heads/main
+[submodule "borneo"]
+	url = https://github.com/conda-forge/borneo-feedstock.git
+	path = feedstocks/borneo
+	branch = refs/heads/main
