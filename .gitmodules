@@ -77694,3 +77694,7 @@
 	url = https://github.com/conda-forge/lsst-efd-client-feedstock.git
 	path = feedstocks/lsst-efd-client
 	branch = refs/heads/main
+[submodule "unifdef"]
+	url = https://github.com/conda-forge/unifdef-feedstock.git
+	path = feedstocks/unifdef
+	branch = refs/heads/main
