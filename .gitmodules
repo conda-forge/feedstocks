@@ -77662,3 +77662,7 @@
 	url = https://github.com/conda-forge/traefik-feedstock.git
 	path = feedstocks/traefik
 	branch = refs/heads/main
+[submodule "dymoval"]
+	url = https://github.com/conda-forge/dymoval-feedstock.git
+	path = feedstocks/dymoval
+	branch = refs/heads/main
