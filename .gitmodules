@@ -77658,3 +77658,7 @@
 	url = https://github.com/conda-forge/thalassa-feedstock.git
 	path = feedstocks/thalassa
 	branch = refs/heads/main
+[submodule "traefik"]
+	url = https://github.com/conda-forge/traefik-feedstock.git
+	path = feedstocks/traefik
+	branch = refs/heads/main
