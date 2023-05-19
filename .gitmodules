@@ -77690,3 +77690,7 @@
 	url = https://github.com/conda-forge/r-smdocker-feedstock.git
 	path = feedstocks/r-smdocker
 	branch = refs/heads/main
+[submodule "lsst-efd-client"]
+	url = https://github.com/conda-forge/lsst-efd-client-feedstock.git
+	path = feedstocks/lsst-efd-client
+	branch = refs/heads/main
