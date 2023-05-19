@@ -77666,3 +77666,7 @@
 	url = https://github.com/conda-forge/dymoval-feedstock.git
 	path = feedstocks/dymoval
 	branch = refs/heads/main
+[submodule "r-shiny.react"]
+	url = https://github.com/conda-forge/r-shiny.react-feedstock.git
+	path = feedstocks/r-shiny.react
+	branch = refs/heads/main
