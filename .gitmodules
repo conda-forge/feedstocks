@@ -77650,3 +77650,7 @@
 	url = https://github.com/conda-forge/borneo-feedstock.git
 	path = feedstocks/borneo
 	branch = refs/heads/main
+[submodule "batoid-rubin"]
+	url = https://github.com/conda-forge/batoid-rubin-feedstock.git
+	path = feedstocks/batoid-rubin
+	branch = refs/heads/main
