@@ -77682,3 +77682,7 @@
 	url = https://github.com/conda-forge/aioinflux-feedstock.git
 	path = feedstocks/aioinflux
 	branch = refs/heads/main
+[submodule "power-grid-model"]
+	url = https://github.com/conda-forge/power-grid-model-feedstock.git
+	path = feedstocks/power-grid-model
+	branch = refs/heads/main
