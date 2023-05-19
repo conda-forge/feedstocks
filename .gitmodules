@@ -77686,3 +77686,7 @@
 	url = https://github.com/conda-forge/power-grid-model-feedstock.git
 	path = feedstocks/power-grid-model
 	branch = refs/heads/main
+[submodule "r-smdocker"]
+	url = https://github.com/conda-forge/r-smdocker-feedstock.git
+	path = feedstocks/r-smdocker
+	branch = refs/heads/main
