@@ -77706,3 +77706,7 @@
 	url = https://github.com/conda-forge/cubed-feedstock.git
 	path = feedstocks/cubed
 	branch = refs/heads/main
+[submodule "pnpm-licenses"]
+	url = https://github.com/conda-forge/pnpm-licenses-feedstock.git
+	path = feedstocks/pnpm-licenses
+	branch = refs/heads/main
