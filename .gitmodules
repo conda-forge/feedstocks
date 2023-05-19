@@ -77638,3 +77638,7 @@
 	url = https://github.com/conda-forge/r-box-feedstock.git
 	path = feedstocks/r-box
 	branch = refs/heads/main
+[submodule "r-rhino"]
+	url = https://github.com/conda-forge/r-rhino-feedstock.git
+	path = feedstocks/r-rhino
+	branch = refs/heads/main
