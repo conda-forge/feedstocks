@@ -77670,3 +77670,7 @@
 	url = https://github.com/conda-forge/r-shiny.react-feedstock.git
 	path = feedstocks/r-shiny.react
 	branch = refs/heads/main
+[submodule "r-dssat"]
+	url = https://github.com/conda-forge/r-dssat-feedstock.git
+	path = feedstocks/r-dssat
+	branch = refs/heads/main
