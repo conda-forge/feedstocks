@@ -77702,3 +77702,7 @@
 	url = https://github.com/conda-forge/macha-feedstock.git
 	path = feedstocks/macha
 	branch = refs/heads/main
+[submodule "cubed"]
+	url = https://github.com/conda-forge/cubed-feedstock.git
+	path = feedstocks/cubed
+	branch = refs/heads/main
