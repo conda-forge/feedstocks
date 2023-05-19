@@ -77714,3 +77714,7 @@
 	url = https://github.com/conda-forge/agemo-feedstock.git
 	path = feedstocks/agemo
 	branch = refs/heads/main
+[submodule "etcdpy"]
+	url = https://github.com/conda-forge/etcdpy-feedstock.git
+	path = feedstocks/etcdpy
+	branch = refs/heads/main
