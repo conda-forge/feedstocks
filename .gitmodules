@@ -77674,3 +77674,7 @@
 	url = https://github.com/conda-forge/r-dssat-feedstock.git
 	path = feedstocks/r-dssat
 	branch = refs/heads/main
+[submodule "pe-configurator"]
+	url = https://github.com/conda-forge/pe-configurator-feedstock.git
+	path = feedstocks/pe-configurator
+	branch = refs/heads/main
