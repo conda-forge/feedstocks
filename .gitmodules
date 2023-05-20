@@ -77726,3 +77726,7 @@
 	url = https://github.com/conda-forge/r-shiny.fluent-feedstock.git
 	path = feedstocks/r-shiny.fluent
 	branch = refs/heads/main
+[submodule "r-shiny.blueprint"]
+	url = https://github.com/conda-forge/r-shiny.blueprint-feedstock.git
+	path = feedstocks/r-shiny.blueprint
+	branch = refs/heads/main
