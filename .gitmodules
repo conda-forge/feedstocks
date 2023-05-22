@@ -77734,3 +77734,7 @@
 	url = https://github.com/conda-forge/anthropic-feedstock.git
 	path = feedstocks/anthropic
 	branch = refs/heads/main
+[submodule "r-shiny.router"]
+	url = https://github.com/conda-forge/r-shiny.router-feedstock.git
+	path = feedstocks/r-shiny.router
+	branch = refs/heads/main
