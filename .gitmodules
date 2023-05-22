@@ -77766,3 +77766,7 @@
 	url = https://github.com/conda-forge/amundsen-search-feedstock.git
 	path = feedstocks/amundsen-search
 	branch = refs/heads/main
+[submodule "perl-uri"]
+	url = https://github.com/conda-forge/perl-uri-feedstock.git
+	path = feedstocks/perl-uri
+	branch = refs/heads/main
