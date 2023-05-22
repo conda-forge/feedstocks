@@ -77754,3 +77754,7 @@
 	url = https://github.com/conda-forge/rdma-core-feedstock.git
 	path = feedstocks/rdma-core
 	branch = refs/heads/main
+[submodule "amundsen-databuilder"]
+	url = https://github.com/conda-forge/amundsen-databuilder-feedstock.git
+	path = feedstocks/amundsen-databuilder
+	branch = refs/heads/main
