@@ -77746,3 +77746,7 @@
 	url = https://github.com/conda-forge/openmetadata-sqllineage-feedstock.git
 	path = feedstocks/openmetadata-sqllineage
 	branch = refs/heads/main
+[submodule "flux-restful-client"]
+	url = https://github.com/conda-forge/flux-restful-client-feedstock.git
+	path = feedstocks/flux-restful-client
+	branch = refs/heads/main
