@@ -77758,3 +77758,7 @@
 	url = https://github.com/conda-forge/amundsen-databuilder-feedstock.git
 	path = feedstocks/amundsen-databuilder
 	branch = refs/heads/main
+[submodule "amundsen-metadata"]
+	url = https://github.com/conda-forge/amundsen-metadata-feedstock.git
+	path = feedstocks/amundsen-metadata
+	branch = refs/heads/main
