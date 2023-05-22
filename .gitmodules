@@ -77750,3 +77750,7 @@
 	url = https://github.com/conda-forge/flux-restful-client-feedstock.git
 	path = feedstocks/flux-restful-client
 	branch = refs/heads/main
+[submodule "rdma-core"]
+	url = https://github.com/conda-forge/rdma-core-feedstock.git
+	path = feedstocks/rdma-core
+	branch = refs/heads/main
