@@ -77738,3 +77738,7 @@
 	url = https://github.com/conda-forge/r-shiny.router-feedstock.git
 	path = feedstocks/r-shiny.router
 	branch = refs/heads/main
+[submodule "mmhash3"]
+	url = https://github.com/conda-forge/mmhash3-feedstock.git
+	path = feedstocks/mmhash3
+	branch = refs/heads/main
