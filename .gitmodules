@@ -77774,3 +77774,7 @@
 	url = https://github.com/conda-forge/r-ggblend-feedstock.git
 	path = feedstocks/r-ggblend
 	branch = refs/heads/main
+[submodule "cubed-xarray"]
+	url = https://github.com/conda-forge/cubed-xarray-feedstock.git
+	path = feedstocks/cubed-xarray
+	branch = refs/heads/main
