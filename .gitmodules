@@ -77782,3 +77782,7 @@
 	url = https://github.com/conda-forge/onstove-feedstock.git
 	path = feedstocks/onstove
 	branch = refs/heads/main
+[submodule "pydataverse"]
+	url = https://github.com/conda-forge/pydataverse-feedstock.git
+	path = feedstocks/pydataverse
+	branch = refs/heads/main
