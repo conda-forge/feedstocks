@@ -77798,3 +77798,7 @@
 	url = https://github.com/conda-forge/articdb-feedstock.git
 	path = feedstocks/articdb
 	branch = refs/heads/main
+[submodule "adam-robotics"]
+	url = https://github.com/conda-forge/adam-robotics-feedstock.git
+	path = feedstocks/adam-robotics
+	branch = refs/heads/main
