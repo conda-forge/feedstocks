@@ -77810,3 +77810,7 @@
 	url = https://github.com/conda-forge/pypythia-feedstock.git
 	path = feedstocks/pypythia
 	branch = refs/heads/main
+[submodule "arcticdb"]
+	url = https://github.com/conda-forge/arcticdb-feedstock.git
+	path = feedstocks/arcticdb
+	branch = refs/heads/main
