@@ -77790,3 +77790,7 @@
 	url = https://github.com/conda-forge/json-stream-rs-tokenizer-feedstock.git
 	path = feedstocks/json-stream-rs-tokenizer
 	branch = refs/heads/main
+[submodule "earthkit-data"]
+	url = https://github.com/conda-forge/earthkit-data-feedstock.git
+	path = feedstocks/earthkit-data
+	branch = refs/heads/main
