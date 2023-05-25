@@ -77806,3 +77806,7 @@
 	url = https://github.com/conda-forge/suxarray-feedstock.git
 	path = feedstocks/suxarray
 	branch = refs/heads/main
+[submodule "pypythia"]
+	url = https://github.com/conda-forge/pypythia-feedstock.git
+	path = feedstocks/pypythia
+	branch = refs/heads/main
