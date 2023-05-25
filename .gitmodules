@@ -77786,3 +77786,7 @@
 	url = https://github.com/conda-forge/pydataverse-feedstock.git
 	path = feedstocks/pydataverse
 	branch = refs/heads/main
+[submodule "json-stream-rs-tokenizer"]
+	url = https://github.com/conda-forge/json-stream-rs-tokenizer-feedstock.git
+	path = feedstocks/json-stream-rs-tokenizer
+	branch = refs/heads/main
