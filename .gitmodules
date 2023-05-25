@@ -77794,3 +77794,7 @@
 	url = https://github.com/conda-forge/earthkit-data-feedstock.git
 	path = feedstocks/earthkit-data
 	branch = refs/heads/main
+[submodule "articdb"]
+	url = https://github.com/conda-forge/articdb-feedstock.git
+	path = feedstocks/articdb
+	branch = refs/heads/main
