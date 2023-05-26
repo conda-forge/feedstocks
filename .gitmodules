@@ -77862,3 +77862,7 @@
 	url = https://github.com/conda-forge/dggrid-feedstock.git
 	path = feedstocks/dggrid
 	branch = refs/heads/main
+[submodule "pcmsolver-split"]
+	url = https://github.com/conda-forge/pcmsolver-split-feedstock.git
+	path = feedstocks/pcmsolver-split
+	branch = refs/heads/main
