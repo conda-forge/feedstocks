@@ -77842,3 +77842,7 @@
 	url = https://github.com/conda-forge/eppy-core-feedstock.git
 	path = feedstocks/eppy-core
 	branch = refs/heads/main
+[submodule "jupyterhub-traefik-proxy"]
+	url = https://github.com/conda-forge/jupyterhub-traefik-proxy-feedstock.git
+	path = feedstocks/jupyterhub-traefik-proxy
+	branch = refs/heads/main
