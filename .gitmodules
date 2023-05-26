@@ -77822,3 +77822,7 @@
 	url = https://github.com/conda-forge/hclfmt-feedstock.git
 	path = feedstocks/hclfmt
 	branch = refs/heads/main
+[submodule "polly"]
+	url = https://github.com/conda-forge/polly-feedstock.git
+	path = feedstocks/polly
+	branch = refs/heads/main
