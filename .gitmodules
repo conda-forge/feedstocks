@@ -77830,3 +77830,7 @@
 	url = https://github.com/conda-forge/unitpackage-feedstock.git
 	path = feedstocks/unitpackage
 	branch = refs/heads/main
+[submodule "kedro-datasets"]
+	url = https://github.com/conda-forge/kedro-datasets-feedstock.git
+	path = feedstocks/kedro-datasets
+	branch = refs/heads/main
