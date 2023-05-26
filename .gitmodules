@@ -77834,3 +77834,7 @@
 	url = https://github.com/conda-forge/kedro-datasets-feedstock.git
 	path = feedstocks/kedro-datasets
 	branch = refs/heads/main
+[submodule "json_stream"]
+	url = https://github.com/conda-forge/json_stream-feedstock.git
+	path = feedstocks/json_stream
+	branch = refs/heads/main
