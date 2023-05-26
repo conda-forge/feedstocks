@@ -77858,3 +77858,7 @@
 	url = https://github.com/conda-forge/polygon3-feedstock.git
 	path = feedstocks/polygon3
 	branch = refs/heads/main
+[submodule "dggrid"]
+	url = https://github.com/conda-forge/dggrid-feedstock.git
+	path = feedstocks/dggrid
+	branch = refs/heads/main
