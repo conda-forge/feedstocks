@@ -77846,3 +77846,7 @@
 	url = https://github.com/conda-forge/jupyterhub-traefik-proxy-feedstock.git
 	path = feedstocks/jupyterhub-traefik-proxy
 	branch = refs/heads/main
+[submodule "bitsandbytes"]
+	url = https://github.com/conda-forge/bitsandbytes-feedstock.git
+	path = feedstocks/bitsandbytes
+	branch = refs/heads/main
