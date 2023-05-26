@@ -77814,3 +77814,7 @@
 	url = https://github.com/conda-forge/arcticdb-feedstock.git
 	path = feedstocks/arcticdb
 	branch = refs/heads/main
+[submodule "r-formatters"]
+	url = https://github.com/conda-forge/r-formatters-feedstock.git
+	path = feedstocks/r-formatters
+	branch = refs/heads/main
