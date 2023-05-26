@@ -77818,3 +77818,7 @@
 	url = https://github.com/conda-forge/r-formatters-feedstock.git
 	path = feedstocks/r-formatters
 	branch = refs/heads/main
+[submodule "hclfmt"]
+	url = https://github.com/conda-forge/hclfmt-feedstock.git
+	path = feedstocks/hclfmt
+	branch = refs/heads/main
