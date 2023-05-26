@@ -77838,3 +77838,7 @@
 	url = https://github.com/conda-forge/json_stream-feedstock.git
 	path = feedstocks/json_stream
 	branch = refs/heads/main
+[submodule "eppy-core"]
+	url = https://github.com/conda-forge/eppy-core-feedstock.git
+	path = feedstocks/eppy-core
+	branch = refs/heads/main
