@@ -77850,3 +77850,7 @@
 	url = https://github.com/conda-forge/bitsandbytes-feedstock.git
 	path = feedstocks/bitsandbytes
 	branch = refs/heads/main
+[submodule "instructorembedding"]
+	url = https://github.com/conda-forge/instructorembedding-feedstock.git
+	path = feedstocks/instructorembedding
+	branch = refs/heads/main
