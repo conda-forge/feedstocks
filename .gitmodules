@@ -77826,3 +77826,7 @@
 	url = https://github.com/conda-forge/polly-feedstock.git
 	path = feedstocks/polly
 	branch = refs/heads/main
+[submodule "unitpackage"]
+	url = https://github.com/conda-forge/unitpackage-feedstock.git
+	path = feedstocks/unitpackage
+	branch = refs/heads/main
