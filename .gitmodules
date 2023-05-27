@@ -77886,3 +77886,7 @@
 	url = https://github.com/conda-forge/dace-feedstock.git
 	path = feedstocks/dace
 	branch = refs/heads/main
+[submodule "arraymap"]
+	url = https://github.com/conda-forge/arraymap-feedstock.git
+	path = feedstocks/arraymap
+	branch = refs/heads/main
