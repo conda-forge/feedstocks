@@ -77890,3 +77890,7 @@
 	url = https://github.com/conda-forge/arraymap-feedstock.git
 	path = feedstocks/arraymap
 	branch = refs/heads/main
+[submodule "r-rtables"]
+	url = https://github.com/conda-forge/r-rtables-feedstock.git
+	path = feedstocks/r-rtables
+	branch = refs/heads/main
