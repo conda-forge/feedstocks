@@ -77882,3 +77882,7 @@
 	url = https://github.com/conda-forge/wrk-feedstock.git
 	path = feedstocks/wrk
 	branch = refs/heads/main
+[submodule "dace"]
+	url = https://github.com/conda-forge/dace-feedstock.git
+	path = feedstocks/dace
+	branch = refs/heads/main
