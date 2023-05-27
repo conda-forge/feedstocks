@@ -77878,3 +77878,7 @@
 	url = https://github.com/conda-forge/helix-feedstock.git
 	path = feedstocks/helix
 	branch = refs/heads/main
+[submodule "wrk"]
+	url = https://github.com/conda-forge/wrk-feedstock.git
+	path = feedstocks/wrk
+	branch = refs/heads/main
