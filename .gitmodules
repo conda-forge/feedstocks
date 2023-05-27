@@ -77870,3 +77870,7 @@
 	url = https://github.com/conda-forge/rathole-feedstock.git
 	path = feedstocks/rathole
 	branch = refs/heads/main
+[submodule "sphinx-versioned-docs"]
+	url = https://github.com/conda-forge/sphinx-versioned-docs-feedstock.git
+	path = feedstocks/sphinx-versioned-docs
+	branch = refs/heads/main
