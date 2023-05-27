@@ -77874,3 +77874,7 @@
 	url = https://github.com/conda-forge/sphinx-versioned-docs-feedstock.git
 	path = feedstocks/sphinx-versioned-docs
 	branch = refs/heads/main
+[submodule "helix"]
+	url = https://github.com/conda-forge/helix-feedstock.git
+	path = feedstocks/helix
+	branch = refs/heads/main
