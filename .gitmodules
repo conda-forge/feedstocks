@@ -77914,3 +77914,7 @@
 	url = https://github.com/conda-forge/r-discrim-feedstock.git
 	path = feedstocks/r-discrim
 	branch = refs/heads/main
+[submodule "r-ggragged"]
+	url = https://github.com/conda-forge/r-ggragged-feedstock.git
+	path = feedstocks/r-ggragged
+	branch = refs/heads/main
