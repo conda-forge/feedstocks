@@ -77906,3 +77906,7 @@
 	url = https://github.com/conda-forge/r-r2rtf-feedstock.git
 	path = feedstocks/r-r2rtf
 	branch = refs/heads/main
+[submodule "r-finetune"]
+	url = https://github.com/conda-forge/r-finetune-feedstock.git
+	path = feedstocks/r-finetune
+	branch = refs/heads/main
