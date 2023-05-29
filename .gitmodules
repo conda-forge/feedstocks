@@ -77918,3 +77918,7 @@
 	url = https://github.com/conda-forge/r-ggragged-feedstock.git
 	path = feedstocks/r-ggragged
 	branch = refs/heads/main
+[submodule "openlineage-python"]
+	url = https://github.com/conda-forge/openlineage-python-feedstock.git
+	path = feedstocks/openlineage-python
+	branch = refs/heads/main
