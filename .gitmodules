@@ -77910,3 +77910,7 @@
 	url = https://github.com/conda-forge/r-finetune-feedstock.git
 	path = feedstocks/r-finetune
 	branch = refs/heads/main
+[submodule "r-discrim"]
+	url = https://github.com/conda-forge/r-discrim-feedstock.git
+	path = feedstocks/r-discrim
+	branch = refs/heads/main
