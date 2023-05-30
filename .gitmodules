@@ -77930,3 +77930,7 @@
 	url = https://github.com/conda-forge/r-ggdag-feedstock.git
 	path = feedstocks/r-ggdag
 	branch = refs/heads/main
+[submodule "types-pywin32"]
+	url = https://github.com/conda-forge/types-pywin32-feedstock.git
+	path = feedstocks/types-pywin32
+	branch = refs/heads/main
