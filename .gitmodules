@@ -77946,3 +77946,7 @@
 	url = https://github.com/conda-forge/nomad-driver-podman-feedstock.git
 	path = feedstocks/nomad-driver-podman
 	branch = refs/heads/main
+[submodule "r-ergm.multi"]
+	url = https://github.com/conda-forge/r-ergm.multi-feedstock.git
+	path = feedstocks/r-ergm.multi
+	branch = refs/heads/main
