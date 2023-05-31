@@ -77950,3 +77950,7 @@
 	url = https://github.com/conda-forge/r-ergm.multi-feedstock.git
 	path = feedstocks/r-ergm.multi
 	branch = refs/heads/main
+[submodule "pegen"]
+	url = https://github.com/conda-forge/pegen-feedstock.git
+	path = feedstocks/pegen
+	branch = refs/heads/main
