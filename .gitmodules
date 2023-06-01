@@ -77966,3 +77966,7 @@
 	url = https://github.com/conda-forge/libnpp-feedstock.git
 	path = feedstocks/libnpp
 	branch = refs/heads/main
+[submodule "git-remote-codecommit"]
+	url = https://github.com/conda-forge/git-remote-codecommit-feedstock.git
+	path = feedstocks/git-remote-codecommit
+	branch = refs/heads/main
