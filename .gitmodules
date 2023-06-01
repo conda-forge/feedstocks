@@ -77986,3 +77986,7 @@
 	url = https://github.com/conda-forge/websocket-feedstock.git
 	path = feedstocks/websocket
 	branch = refs/heads/main
+[submodule "psij-python"]
+	url = https://github.com/conda-forge/psij-python-feedstock.git
+	path = feedstocks/psij-python
+	branch = refs/heads/main
