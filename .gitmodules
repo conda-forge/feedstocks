@@ -77962,3 +77962,7 @@
 	url = https://github.com/conda-forge/ttopt-feedstock.git
 	path = feedstocks/ttopt
 	branch = refs/heads/main
+[submodule "libnpp"]
+	url = https://github.com/conda-forge/libnpp-feedstock.git
+	path = feedstocks/libnpp
+	branch = refs/heads/main
