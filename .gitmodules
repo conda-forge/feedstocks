@@ -77978,3 +77978,7 @@
 	url = https://github.com/conda-forge/psij-rest-feedstock.git
 	path = feedstocks/psij-rest
 	branch = refs/heads/main
+[submodule "psij-zmq"]
+	url = https://github.com/conda-forge/psij-zmq-feedstock.git
+	path = feedstocks/psij-zmq
+	branch = refs/heads/main
