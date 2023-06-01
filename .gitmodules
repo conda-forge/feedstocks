@@ -77982,3 +77982,7 @@
 	url = https://github.com/conda-forge/psij-zmq-feedstock.git
 	path = feedstocks/psij-zmq
 	branch = refs/heads/main
+[submodule "websocket"]
+	url = https://github.com/conda-forge/websocket-feedstock.git
+	path = feedstocks/websocket
+	branch = refs/heads/main
