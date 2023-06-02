@@ -78014,3 +78014,7 @@
 	url = https://github.com/conda-forge/marpyter-feedstock.git
 	path = feedstocks/marpyter
 	branch = refs/heads/main
+[submodule "termtosvg"]
+	url = https://github.com/conda-forge/termtosvg-feedstock.git
+	path = feedstocks/termtosvg
+	branch = refs/heads/main
