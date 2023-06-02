@@ -78042,3 +78042,7 @@
 	url = https://github.com/conda-forge/cuda-nvvp-feedstock.git
 	path = feedstocks/cuda-nvvp
 	branch = refs/heads/main
+[submodule "pytest-excel"]
+	url = https://github.com/conda-forge/pytest-excel-feedstock.git
+	path = feedstocks/pytest-excel
+	branch = refs/heads/main
