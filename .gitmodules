@@ -78010,3 +78010,7 @@
 	url = https://github.com/conda-forge/large_image_source_rasterio-feedstock.git
 	path = feedstocks/large_image_source_rasterio
 	branch = refs/heads/main
+[submodule "marpyter"]
+	url = https://github.com/conda-forge/marpyter-feedstock.git
+	path = feedstocks/marpyter
+	branch = refs/heads/main
