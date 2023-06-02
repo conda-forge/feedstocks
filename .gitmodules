@@ -78038,3 +78038,7 @@
 	url = https://github.com/conda-forge/cuda-nvdisasm-feedstock.git
 	path = feedstocks/cuda-nvdisasm
 	branch = refs/heads/main
+[submodule "cuda-nvvp"]
+	url = https://github.com/conda-forge/cuda-nvvp-feedstock.git
+	path = feedstocks/cuda-nvvp
+	branch = refs/heads/main
