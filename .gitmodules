@@ -78022,3 +78022,7 @@
 	url = https://github.com/conda-forge/ipyreact-feedstock.git
 	path = feedstocks/ipyreact
 	branch = refs/heads/main
+[submodule "numba-progress"]
+	url = https://github.com/conda-forge/numba-progress-feedstock.git
+	path = feedstocks/numba-progress
+	branch = refs/heads/main
