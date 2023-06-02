@@ -78002,3 +78002,7 @@
 	url = https://github.com/conda-forge/cuda-nsight-feedstock.git
 	path = feedstocks/cuda-nsight
 	branch = refs/heads/main
+[submodule "cuda-nvprune"]
+	url = https://github.com/conda-forge/cuda-nvprune-feedstock.git
+	path = feedstocks/cuda-nvprune
+	branch = refs/heads/main
