@@ -78006,3 +78006,7 @@
 	url = https://github.com/conda-forge/cuda-nvprune-feedstock.git
 	path = feedstocks/cuda-nvprune
 	branch = refs/heads/main
+[submodule "large_image_source_rasterio"]
+	url = https://github.com/conda-forge/large_image_source_rasterio-feedstock.git
+	path = feedstocks/large_image_source_rasterio
+	branch = refs/heads/main
