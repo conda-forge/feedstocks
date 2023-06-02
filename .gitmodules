@@ -78046,3 +78046,7 @@
 	url = https://github.com/conda-forge/pytest-excel-feedstock.git
 	path = feedstocks/pytest-excel
 	branch = refs/heads/main
+[submodule "jupyter-collaboration"]
+	url = https://github.com/conda-forge/jupyter-collaboration-feedstock.git
+	path = feedstocks/jupyter-collaboration
+	branch = refs/heads/main
