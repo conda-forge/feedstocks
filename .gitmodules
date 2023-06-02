@@ -78026,3 +78026,7 @@
 	url = https://github.com/conda-forge/numba-progress-feedstock.git
 	path = feedstocks/numba-progress
 	branch = refs/heads/main
+[submodule "cuda-gdb"]
+	url = https://github.com/conda-forge/cuda-gdb-feedstock.git
+	path = feedstocks/cuda-gdb
+	branch = refs/heads/main
