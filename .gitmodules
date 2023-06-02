@@ -78030,3 +78030,7 @@
 	url = https://github.com/conda-forge/cuda-gdb-feedstock.git
 	path = feedstocks/cuda-gdb
 	branch = refs/heads/main
+[submodule "cuda-nvprof"]
+	url = https://github.com/conda-forge/cuda-nvprof-feedstock.git
+	path = feedstocks/cuda-nvprof
+	branch = refs/heads/main
