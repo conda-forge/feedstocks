@@ -77998,3 +77998,7 @@
 	url = https://github.com/conda-forge/cuda-cuxxfilt-feedstock.git
 	path = feedstocks/cuda-cuxxfilt
 	branch = refs/heads/main
+[submodule "cuda-nsight"]
+	url = https://github.com/conda-forge/cuda-nsight-feedstock.git
+	path = feedstocks/cuda-nsight
+	branch = refs/heads/main
