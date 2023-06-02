@@ -77990,3 +77990,7 @@
 	url = https://github.com/conda-forge/psij-python-feedstock.git
 	path = feedstocks/psij-python
 	branch = refs/heads/main
+[submodule "cuda-cuobjdump"]
+	url = https://github.com/conda-forge/cuda-cuobjdump-feedstock.git
+	path = feedstocks/cuda-cuobjdump
+	branch = refs/heads/main
