@@ -78050,3 +78050,7 @@
 	url = https://github.com/conda-forge/jupyter-collaboration-feedstock.git
 	path = feedstocks/jupyter-collaboration
 	branch = refs/heads/main
+[submodule "reacttrs"]
+	url = https://github.com/conda-forge/reacttrs-feedstock.git
+	path = feedstocks/reacttrs
+	branch = refs/heads/main
