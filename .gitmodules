@@ -78054,3 +78054,7 @@
 	url = https://github.com/conda-forge/reacttrs-feedstock.git
 	path = feedstocks/reacttrs
 	branch = refs/heads/main
+[submodule "pyscreenshot"]
+	url = https://github.com/conda-forge/pyscreenshot-feedstock.git
+	path = feedstocks/pyscreenshot
+	branch = refs/heads/main
