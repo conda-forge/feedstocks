@@ -78062,3 +78062,7 @@
 	url = https://github.com/conda-forge/gooseepm-split-feedstock.git
 	path = feedstocks/gooseepm-split
 	branch = refs/heads/main
+[submodule "evalhyd-cli"]
+	url = https://github.com/conda-forge/evalhyd-cli-feedstock.git
+	path = feedstocks/evalhyd-cli
+	branch = refs/heads/main
