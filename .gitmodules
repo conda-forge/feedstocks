@@ -78070,3 +78070,7 @@
 	url = https://github.com/conda-forge/ypywidgets-feedstock.git
 	path = feedstocks/ypywidgets
 	branch = refs/heads/main
+[submodule "cuda-compiler"]
+	url = https://github.com/conda-forge/cuda-compiler-feedstock.git
+	path = feedstocks/cuda-compiler
+	branch = refs/heads/main
