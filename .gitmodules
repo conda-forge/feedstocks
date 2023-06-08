@@ -78082,3 +78082,7 @@
 	url = https://github.com/conda-forge/globus-compute-endpoint-feedstock.git
 	path = feedstocks/globus-compute-endpoint
 	branch = refs/heads/main
+[submodule "globus-compute-sdk"]
+	url = https://github.com/conda-forge/globus-compute-sdk-feedstock.git
+	path = feedstocks/globus-compute-sdk
+	branch = refs/heads/main
