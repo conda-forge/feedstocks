@@ -78074,3 +78074,7 @@
 	url = https://github.com/conda-forge/cuda-compiler-feedstock.git
 	path = feedstocks/cuda-compiler
 	branch = refs/heads/main
+[submodule "globus-compute-common-split"]
+	url = https://github.com/conda-forge/globus-compute-common-split-feedstock.git
+	path = feedstocks/globus-compute-common-split
+	branch = refs/heads/main
