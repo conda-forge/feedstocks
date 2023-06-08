@@ -78086,3 +78086,7 @@
 	url = https://github.com/conda-forge/globus-compute-sdk-feedstock.git
 	path = feedstocks/globus-compute-sdk
 	branch = refs/heads/main
+[submodule "flask-minify"]
+	url = https://github.com/conda-forge/flask-minify-feedstock.git
+	path = feedstocks/flask-minify
+	branch = refs/heads/main
