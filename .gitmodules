@@ -78094,3 +78094,7 @@
 	url = https://github.com/conda-forge/r-rflptools-feedstock.git
 	path = feedstocks/r-rflptools
 	branch = refs/heads/main
+[submodule "ncvis-climate"]
+	url = https://github.com/conda-forge/ncvis-climate-feedstock.git
+	path = feedstocks/ncvis-climate
+	branch = refs/heads/main
