@@ -78098,3 +78098,7 @@
 	url = https://github.com/conda-forge/ncvis-climate-feedstock.git
 	path = feedstocks/ncvis-climate
 	branch = refs/heads/main
+[submodule "trompeloeil"]
+	url = https://github.com/conda-forge/trompeloeil-feedstock.git
+	path = feedstocks/trompeloeil
+	branch = refs/heads/main
