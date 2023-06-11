@@ -78102,3 +78102,7 @@
 	url = https://github.com/conda-forge/trompeloeil-feedstock.git
 	path = feedstocks/trompeloeil
 	branch = refs/heads/main
+[submodule "pyobjc-framework-systemconfiguration"]
+	url = https://github.com/conda-forge/pyobjc-framework-systemconfiguration-feedstock.git
+	path = feedstocks/pyobjc-framework-systemconfiguration
+	branch = refs/heads/main
