@@ -78118,3 +78118,7 @@
 	url = https://github.com/conda-forge/pyapacheatlas-feedstock.git
 	path = feedstocks/pyapacheatlas
 	branch = refs/heads/main
+[submodule "azure-synapse-nspkg"]
+	url = https://github.com/conda-forge/azure-synapse-nspkg-feedstock.git
+	path = feedstocks/azure-synapse-nspkg
+	branch = refs/heads/main
