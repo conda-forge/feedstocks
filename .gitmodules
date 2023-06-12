@@ -78122,3 +78122,7 @@
 	url = https://github.com/conda-forge/azure-synapse-nspkg-feedstock.git
 	path = feedstocks/azure-synapse-nspkg
 	branch = refs/heads/main
+[submodule "interpret-community"]
+	url = https://github.com/conda-forge/interpret-community-feedstock.git
+	path = feedstocks/interpret-community
+	branch = refs/heads/main
