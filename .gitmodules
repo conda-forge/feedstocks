@@ -78126,3 +78126,7 @@
 	url = https://github.com/conda-forge/interpret-community-feedstock.git
 	path = feedstocks/interpret-community
 	branch = refs/heads/main
+[submodule "graphium"]
+	url = https://github.com/conda-forge/graphium-feedstock.git
+	path = feedstocks/graphium
+	branch = refs/heads/main
