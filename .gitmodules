@@ -78130,3 +78130,7 @@
 	url = https://github.com/conda-forge/graphium-feedstock.git
 	path = feedstocks/graphium
 	branch = refs/heads/main
+[submodule "lilly-medchem-rules"]
+	url = https://github.com/conda-forge/lilly-medchem-rules-feedstock.git
+	path = feedstocks/lilly-medchem-rules
+	branch = refs/heads/main
