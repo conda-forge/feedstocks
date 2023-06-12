@@ -78110,3 +78110,7 @@
 	url = https://github.com/conda-forge/pixi-feedstock.git
 	path = feedstocks/pixi
 	branch = refs/heads/main
+[submodule "yjs-widgets"]
+	url = https://github.com/conda-forge/yjs-widgets-feedstock.git
+	path = feedstocks/yjs-widgets
+	branch = refs/heads/main
