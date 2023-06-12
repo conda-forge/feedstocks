@@ -78106,3 +78106,7 @@
 	url = https://github.com/conda-forge/pyobjc-framework-systemconfiguration-feedstock.git
 	path = feedstocks/pyobjc-framework-systemconfiguration
 	branch = refs/heads/main
+[submodule "pixi"]
+	url = https://github.com/conda-forge/pixi-feedstock.git
+	path = feedstocks/pixi
+	branch = refs/heads/main
