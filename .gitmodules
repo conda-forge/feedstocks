@@ -78182,3 +78182,7 @@
 	url = https://github.com/conda-forge/ory-client-feedstock.git
 	path = feedstocks/ory-client
 	branch = refs/heads/main
+[submodule "pkce"]
+	url = https://github.com/conda-forge/pkce-feedstock.git
+	path = feedstocks/pkce
+	branch = refs/heads/main
