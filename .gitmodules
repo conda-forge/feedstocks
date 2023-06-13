@@ -78174,3 +78174,7 @@
 	url = https://github.com/conda-forge/azure-synapse-spark-feedstock.git
 	path = feedstocks/azure-synapse-spark
 	branch = refs/heads/main
+[submodule "buildkite-test-collector"]
+	url = https://github.com/conda-forge/buildkite-test-collector-feedstock.git
+	path = feedstocks/buildkite-test-collector
+	branch = refs/heads/main
