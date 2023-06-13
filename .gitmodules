@@ -78170,3 +78170,7 @@
 	url = https://github.com/conda-forge/raimitigations-feedstock.git
 	path = feedstocks/raimitigations
 	branch = refs/heads/main
+[submodule "azure-synapse-spark"]
+	url = https://github.com/conda-forge/azure-synapse-spark-feedstock.git
+	path = feedstocks/azure-synapse-spark
+	branch = refs/heads/main
