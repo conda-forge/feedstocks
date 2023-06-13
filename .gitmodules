@@ -78138,3 +78138,7 @@
 	url = https://github.com/conda-forge/cuda-opencl-feedstock.git
 	path = feedstocks/cuda-opencl
 	branch = refs/heads/main
+[submodule "nvcomp"]
+	url = https://github.com/conda-forge/nvcomp-feedstock.git
+	path = feedstocks/nvcomp
+	branch = refs/heads/main
