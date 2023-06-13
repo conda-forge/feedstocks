@@ -78154,3 +78154,7 @@
 	url = https://github.com/conda-forge/responsibleai-feedstock.git
 	path = feedstocks/responsibleai
 	branch = refs/heads/main
+[submodule "pypac"]
+	url = https://github.com/conda-forge/pypac-feedstock.git
+	path = feedstocks/pypac
+	branch = refs/heads/main
