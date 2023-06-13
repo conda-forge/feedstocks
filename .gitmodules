@@ -78150,3 +78150,7 @@
 	url = https://github.com/conda-forge/go-task-feedstock.git
 	path = feedstocks/go-task
 	branch = refs/heads/main
+[submodule "responsibleai"]
+	url = https://github.com/conda-forge/responsibleai-feedstock.git
+	path = feedstocks/responsibleai
+	branch = refs/heads/main
