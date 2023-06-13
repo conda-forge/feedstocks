@@ -78142,3 +78142,7 @@
 	url = https://github.com/conda-forge/nvcomp-feedstock.git
 	path = feedstocks/nvcomp
 	branch = refs/heads/main
+[submodule "jupytercad"]
+	url = https://github.com/conda-forge/jupytercad-feedstock.git
+	path = feedstocks/jupytercad
+	branch = refs/heads/main
