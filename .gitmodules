@@ -78134,3 +78134,7 @@
 	url = https://github.com/conda-forge/lilly-medchem-rules-feedstock.git
 	path = feedstocks/lilly-medchem-rules
 	branch = refs/heads/main
+[submodule "cuda-opencl"]
+	url = https://github.com/conda-forge/cuda-opencl-feedstock.git
+	path = feedstocks/cuda-opencl
+	branch = refs/heads/main
