@@ -78146,3 +78146,7 @@
 	url = https://github.com/conda-forge/jupytercad-feedstock.git
 	path = feedstocks/jupytercad
 	branch = refs/heads/main
+[submodule "go-task"]
+	url = https://github.com/conda-forge/go-task-feedstock.git
+	path = feedstocks/go-task
+	branch = refs/heads/main
