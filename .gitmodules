@@ -78186,3 +78186,7 @@
 	url = https://github.com/conda-forge/pkce-feedstock.git
 	path = feedstocks/pkce
 	branch = refs/heads/main
+[submodule "cuda-libraries"]
+	url = https://github.com/conda-forge/cuda-libraries-feedstock.git
+	path = feedstocks/cuda-libraries
+	branch = refs/heads/main
