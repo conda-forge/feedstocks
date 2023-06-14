@@ -78190,3 +78190,7 @@
 	url = https://github.com/conda-forge/cuda-libraries-feedstock.git
 	path = feedstocks/cuda-libraries
 	branch = refs/heads/main
+[submodule "cuda-minimal-build"]
+	url = https://github.com/conda-forge/cuda-minimal-build-feedstock.git
+	path = feedstocks/cuda-minimal-build
+	branch = refs/heads/main
