@@ -78210,3 +78210,7 @@
 	url = https://github.com/conda-forge/nvidia-gds-feedstock.git
 	path = feedstocks/nvidia-gds
 	branch = refs/heads/main
+[submodule "emdfile"]
+	url = https://github.com/conda-forge/emdfile-feedstock.git
+	path = feedstocks/emdfile
+	branch = refs/heads/main
