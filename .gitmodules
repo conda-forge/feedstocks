@@ -78222,3 +78222,7 @@
 	url = https://github.com/conda-forge/pymablock-feedstock.git
 	path = feedstocks/pymablock
 	branch = refs/heads/main
+[submodule "napari-plugin-manager"]
+	url = https://github.com/conda-forge/napari-plugin-manager-feedstock.git
+	path = feedstocks/napari-plugin-manager
+	branch = refs/heads/main
