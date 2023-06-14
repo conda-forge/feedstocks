@@ -78198,3 +78198,7 @@
 	url = https://github.com/conda-forge/cuda-runtime-feedstock.git
 	path = feedstocks/cuda-runtime
 	branch = refs/heads/main
+[submodule "cuda-libraries-static"]
+	url = https://github.com/conda-forge/cuda-libraries-static-feedstock.git
+	path = feedstocks/cuda-libraries-static
+	branch = refs/heads/main
