@@ -78226,3 +78226,7 @@
 	url = https://github.com/conda-forge/napari-plugin-manager-feedstock.git
 	path = feedstocks/napari-plugin-manager
 	branch = refs/heads/main
+[submodule "hydra-submitit-launcher"]
+	url = https://github.com/conda-forge/hydra-submitit-launcher-feedstock.git
+	path = feedstocks/hydra-submitit-launcher
+	branch = refs/heads/main
