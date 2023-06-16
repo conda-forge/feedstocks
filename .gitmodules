@@ -78230,3 +78230,7 @@
 	url = https://github.com/conda-forge/hydra-submitit-launcher-feedstock.git
 	path = feedstocks/hydra-submitit-launcher
 	branch = refs/heads/main
+[submodule "xarray-safe-rcm"]
+	url = https://github.com/conda-forge/xarray-safe-rcm-feedstock.git
+	path = feedstocks/xarray-safe-rcm
+	branch = refs/heads/main
