@@ -78246,3 +78246,7 @@
 	url = https://github.com/conda-forge/hloc-feedstock.git
 	path = feedstocks/hloc
 	branch = refs/heads/main
+[submodule "pixsfm"]
+	url = https://github.com/conda-forge/pixsfm-feedstock.git
+	path = feedstocks/pixsfm
+	branch = refs/heads/main
