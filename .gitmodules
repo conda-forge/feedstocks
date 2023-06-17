@@ -78242,3 +78242,7 @@
 	url = https://github.com/conda-forge/crispy-bootstrap5-feedstock.git
 	path = feedstocks/crispy-bootstrap5
 	branch = refs/heads/main
+[submodule "hloc"]
+	url = https://github.com/conda-forge/hloc-feedstock.git
+	path = feedstocks/hloc
+	branch = refs/heads/main
