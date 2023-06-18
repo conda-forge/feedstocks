@@ -78258,3 +78258,7 @@
 	url = https://github.com/conda-forge/vale-feedstock.git
 	path = feedstocks/vale
 	branch = refs/heads/main
+[submodule "ultralytics"]
+	url = https://github.com/conda-forge/ultralytics-feedstock.git
+	path = feedstocks/ultralytics
+	branch = refs/heads/main
