@@ -78250,3 +78250,7 @@
 	url = https://github.com/conda-forge/pixsfm-feedstock.git
 	path = feedstocks/pixsfm
 	branch = refs/heads/main
+[submodule "pyrootutils"]
+	url = https://github.com/conda-forge/pyrootutils-feedstock.git
+	path = feedstocks/pyrootutils
+	branch = refs/heads/main
