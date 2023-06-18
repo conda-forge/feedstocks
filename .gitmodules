@@ -78254,3 +78254,7 @@
 	url = https://github.com/conda-forge/pyrootutils-feedstock.git
 	path = feedstocks/pyrootutils
 	branch = refs/heads/main
+[submodule "vale"]
+	url = https://github.com/conda-forge/vale-feedstock.git
+	path = feedstocks/vale
+	branch = refs/heads/main
