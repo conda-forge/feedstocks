@@ -78262,3 +78262,7 @@
 	url = https://github.com/conda-forge/ultralytics-feedstock.git
 	path = feedstocks/ultralytics
 	branch = refs/heads/main
+[submodule "valida"]
+	url = https://github.com/conda-forge/valida-feedstock.git
+	path = feedstocks/valida
+	branch = refs/heads/main
