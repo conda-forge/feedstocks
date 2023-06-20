@@ -78270,3 +78270,7 @@
 	url = https://github.com/conda-forge/gita-feedstock.git
 	path = feedstocks/gita
 	branch = refs/heads/main
+[submodule "jupyterlite-xeus-python"]
+	url = https://github.com/conda-forge/jupyterlite-xeus-python-feedstock.git
+	path = feedstocks/jupyterlite-xeus-python
+	branch = refs/heads/main
