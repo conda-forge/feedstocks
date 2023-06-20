@@ -78286,3 +78286,7 @@
 	url = https://github.com/conda-forge/astronomia-feedstock.git
 	path = feedstocks/astronomia
 	branch = refs/heads/main
+[submodule "cwltest"]
+	url = https://github.com/conda-forge/cwltest-feedstock.git
+	path = feedstocks/cwltest
+	branch = refs/heads/main
