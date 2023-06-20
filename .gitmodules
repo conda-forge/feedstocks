@@ -78302,3 +78302,7 @@
 	url = https://github.com/conda-forge/pyscal3-feedstock.git
 	path = feedstocks/pyscal3
 	branch = refs/heads/main
+[submodule "pyscal-rdf"]
+	url = https://github.com/conda-forge/pyscal-rdf-feedstock.git
+	path = feedstocks/pyscal-rdf
+	branch = refs/heads/main
