@@ -78290,3 +78290,7 @@
 	url = https://github.com/conda-forge/cwltest-feedstock.git
 	path = feedstocks/cwltest
 	branch = refs/heads/main
+[submodule "tabloo"]
+	url = https://github.com/conda-forge/tabloo-feedstock.git
+	path = feedstocks/tabloo
+	branch = refs/heads/main
