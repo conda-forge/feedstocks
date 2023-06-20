@@ -78294,3 +78294,7 @@
 	url = https://github.com/conda-forge/tabloo-feedstock.git
 	path = feedstocks/tabloo
 	branch = refs/heads/main
+[submodule "pytest-click"]
+	url = https://github.com/conda-forge/pytest-click-feedstock.git
+	path = feedstocks/pytest-click
+	branch = refs/heads/main
