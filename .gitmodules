@@ -78278,3 +78278,7 @@
 	url = https://github.com/conda-forge/protoc-gen-validate-feedstock.git
 	path = feedstocks/protoc-gen-validate
 	branch = refs/heads/main
+[submodule "pystack"]
+	url = https://github.com/conda-forge/pystack-feedstock.git
+	path = feedstocks/pystack
+	branch = refs/heads/main
