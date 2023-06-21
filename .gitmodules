@@ -78310,3 +78310,7 @@
 	url = https://github.com/conda-forge/panel-jstree-feedstock.git
 	path = feedstocks/panel-jstree
 	branch = refs/heads/main
+[submodule "office365-rest-python-client"]
+	url = https://github.com/conda-forge/office365-rest-python-client-feedstock.git
+	path = feedstocks/office365-rest-python-client
+	branch = refs/heads/main
