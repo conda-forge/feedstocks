@@ -78318,3 +78318,7 @@
 	url = https://github.com/conda-forge/cargo-patch-feedstock.git
 	path = feedstocks/cargo-patch
 	branch = refs/heads/main
+[submodule "xroms"]
+	url = https://github.com/conda-forge/xroms-feedstock.git
+	path = feedstocks/xroms
+	branch = refs/heads/main
