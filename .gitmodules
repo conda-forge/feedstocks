@@ -78326,3 +78326,7 @@
 	url = https://github.com/conda-forge/ants-feedstock.git
 	path = feedstocks/ants
 	branch = refs/heads/main
+[submodule "aria-tools"]
+	url = https://github.com/conda-forge/aria-tools-feedstock.git
+	path = feedstocks/aria-tools
+	branch = refs/heads/main
