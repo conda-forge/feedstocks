@@ -78314,3 +78314,7 @@
 	url = https://github.com/conda-forge/office365-rest-python-client-feedstock.git
 	path = feedstocks/office365-rest-python-client
 	branch = refs/heads/main
+[submodule "cargo-patch"]
+	url = https://github.com/conda-forge/cargo-patch-feedstock.git
+	path = feedstocks/cargo-patch
+	branch = refs/heads/main
