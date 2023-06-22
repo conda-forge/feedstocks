@@ -78322,3 +78322,7 @@
 	url = https://github.com/conda-forge/xroms-feedstock.git
 	path = feedstocks/xroms
 	branch = refs/heads/main
+[submodule "ants"]
+	url = https://github.com/conda-forge/ants-feedstock.git
+	path = feedstocks/ants
+	branch = refs/heads/main
