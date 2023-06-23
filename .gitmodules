@@ -78390,3 +78390,7 @@
 	url = https://github.com/conda-forge/tappy-feedstock.git
 	path = feedstocks/tappy
 	branch = refs/heads/main
+[submodule "nceplibs-ip"]
+	url = https://github.com/conda-forge/nceplibs-ip-feedstock.git
+	path = feedstocks/nceplibs-ip
+	branch = refs/heads/main
