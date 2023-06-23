@@ -78366,3 +78366,7 @@
 	url = https://github.com/conda-forge/encor-feedstock.git
 	path = feedstocks/encor
 	branch = refs/heads/main
+[submodule "syntheseus"]
+	url = https://github.com/conda-forge/syntheseus-feedstock.git
+	path = feedstocks/syntheseus
+	branch = refs/heads/main
