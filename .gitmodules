@@ -78354,3 +78354,7 @@
 	url = https://github.com/conda-forge/guidance-feedstock.git
 	path = feedstocks/guidance
 	branch = refs/heads/main
+[submodule "gw_eccentricity"]
+	url = https://github.com/conda-forge/gw_eccentricity-feedstock.git
+	path = feedstocks/gw_eccentricity
+	branch = refs/heads/main
