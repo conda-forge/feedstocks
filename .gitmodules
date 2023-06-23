@@ -78350,3 +78350,7 @@
 	url = https://github.com/conda-forge/bluesky-hwproxy-feedstock.git
 	path = feedstocks/bluesky-hwproxy
 	branch = refs/heads/main
+[submodule "guidance"]
+	url = https://github.com/conda-forge/guidance-feedstock.git
+	path = feedstocks/guidance
+	branch = refs/heads/main
