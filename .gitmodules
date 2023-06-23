@@ -78374,3 +78374,7 @@
 	url = https://github.com/conda-forge/libpulsar-feedstock.git
 	path = feedstocks/libpulsar
 	branch = refs/heads/main
+[submodule "cppitertools"]
+	url = https://github.com/conda-forge/cppitertools-feedstock.git
+	path = feedstocks/cppitertools
+	branch = refs/heads/main
