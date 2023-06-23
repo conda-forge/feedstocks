@@ -78370,3 +78370,7 @@
 	url = https://github.com/conda-forge/syntheseus-feedstock.git
 	path = feedstocks/syntheseus
 	branch = refs/heads/main
+[submodule "libpulsar"]
+	url = https://github.com/conda-forge/libpulsar-feedstock.git
+	path = feedstocks/libpulsar
+	branch = refs/heads/main
