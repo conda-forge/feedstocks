@@ -78378,3 +78378,7 @@
 	url = https://github.com/conda-forge/cppitertools-feedstock.git
 	path = feedstocks/cppitertools
 	branch = refs/heads/main
+[submodule "pyignite"]
+	url = https://github.com/conda-forge/pyignite-feedstock.git
+	path = feedstocks/pyignite
+	branch = refs/heads/main
