@@ -78334,3 +78334,7 @@
 	url = https://github.com/conda-forge/scitoolsscianalysis-feedstock.git
 	path = feedstocks/scitoolsscianalysis
 	branch = refs/heads/main
+[submodule "cuda-compat"]
+	url = https://github.com/conda-forge/cuda-compat-feedstock.git
+	path = feedstocks/cuda-compat
+	branch = refs/heads/main
