@@ -78386,3 +78386,7 @@
 	url = https://github.com/conda-forge/appose-feedstock.git
 	path = feedstocks/appose
 	branch = refs/heads/main
+[submodule "tappy"]
+	url = https://github.com/conda-forge/tappy-feedstock.git
+	path = feedstocks/tappy
+	branch = refs/heads/main
