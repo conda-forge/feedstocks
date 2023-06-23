@@ -78342,3 +78342,7 @@
 	url = https://github.com/conda-forge/cuda-sanitizer-api-feedstock.git
 	path = feedstocks/cuda-sanitizer-api
 	branch = refs/heads/main
+[submodule "synced_collections"]
+	url = https://github.com/conda-forge/synced_collections-feedstock.git
+	path = feedstocks/synced_collections
+	branch = refs/heads/main
