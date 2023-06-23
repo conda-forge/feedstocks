@@ -78362,3 +78362,7 @@
 	url = https://github.com/conda-forge/rlpycairo-feedstock.git
 	path = feedstocks/rlpycairo
 	branch = refs/heads/main
+[submodule "encor"]
+	url = https://github.com/conda-forge/encor-feedstock.git
+	path = feedstocks/encor
+	branch = refs/heads/main
