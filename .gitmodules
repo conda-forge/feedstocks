@@ -78346,3 +78346,7 @@
 	url = https://github.com/conda-forge/synced_collections-feedstock.git
 	path = feedstocks/synced_collections
 	branch = refs/heads/main
+[submodule "bluesky-hwproxy"]
+	url = https://github.com/conda-forge/bluesky-hwproxy-feedstock.git
+	path = feedstocks/bluesky-hwproxy
+	branch = refs/heads/main
