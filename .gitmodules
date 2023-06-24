@@ -78398,3 +78398,7 @@
 	url = https://github.com/conda-forge/metal-llvm-tools-feedstock.git
 	path = feedstocks/metal-llvm-tools
 	branch = refs/heads/main
+[submodule "shillelagh"]
+	url = https://github.com/conda-forge/shillelagh-feedstock.git
+	path = feedstocks/shillelagh
+	branch = refs/heads/main
