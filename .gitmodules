@@ -78394,3 +78394,7 @@
 	url = https://github.com/conda-forge/nceplibs-ip-feedstock.git
 	path = feedstocks/nceplibs-ip
 	branch = refs/heads/main
+[submodule "metal-llvm-tools"]
+	url = https://github.com/conda-forge/metal-llvm-tools-feedstock.git
+	path = feedstocks/metal-llvm-tools
+	branch = refs/heads/main
