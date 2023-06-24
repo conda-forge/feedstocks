@@ -78402,3 +78402,7 @@
 	url = https://github.com/conda-forge/shillelagh-feedstock.git
 	path = feedstocks/shillelagh
 	branch = refs/heads/main
+[submodule "pyramid_session_redis"]
+	url = https://github.com/conda-forge/pyramid_session_redis-feedstock.git
+	path = feedstocks/pyramid_session_redis
+	branch = refs/heads/main
