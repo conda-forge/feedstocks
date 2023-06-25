@@ -78410,3 +78410,7 @@
 	url = https://github.com/conda-forge/rav1e-feedstock.git
 	path = feedstocks/rav1e
 	branch = refs/heads/main
+[submodule "cglm"]
+	url = https://github.com/conda-forge/cglm-feedstock.git
+	path = feedstocks/cglm
+	branch = refs/heads/main
