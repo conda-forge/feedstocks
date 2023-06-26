@@ -78414,3 +78414,7 @@
 	url = https://github.com/conda-forge/cglm-feedstock.git
 	path = feedstocks/cglm
 	branch = refs/heads/main
+[submodule "glslang"]
+	url = https://github.com/conda-forge/glslang-feedstock.git
+	path = feedstocks/glslang
+	branch = refs/heads/main
