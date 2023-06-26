@@ -78430,3 +78430,7 @@
 	url = https://github.com/conda-forge/sphinx-data-viewer-feedstock.git
 	path = feedstocks/sphinx-data-viewer
 	branch = refs/heads/main
+[submodule "optuna-integration"]
+	url = https://github.com/conda-forge/optuna-integration-feedstock.git
+	path = feedstocks/optuna-integration
+	branch = refs/heads/main
