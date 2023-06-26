@@ -78434,3 +78434,7 @@
 	url = https://github.com/conda-forge/optuna-integration-feedstock.git
 	path = feedstocks/optuna-integration
 	branch = refs/heads/main
+[submodule "aws-request-signer"]
+	url = https://github.com/conda-forge/aws-request-signer-feedstock.git
+	path = feedstocks/aws-request-signer
+	branch = refs/heads/main
