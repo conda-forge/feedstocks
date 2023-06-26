@@ -78422,3 +78422,7 @@
 	url = https://github.com/conda-forge/clspv-feedstock.git
 	path = feedstocks/clspv
 	branch = refs/heads/main
+[submodule "r-common"]
+	url = https://github.com/conda-forge/r-common-feedstock.git
+	path = feedstocks/r-common
+	branch = refs/heads/main
