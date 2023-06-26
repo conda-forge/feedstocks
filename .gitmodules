@@ -78426,3 +78426,7 @@
 	url = https://github.com/conda-forge/r-common-feedstock.git
 	path = feedstocks/r-common
 	branch = refs/heads/main
+[submodule "sphinx-data-viewer"]
+	url = https://github.com/conda-forge/sphinx-data-viewer-feedstock.git
+	path = feedstocks/sphinx-data-viewer
+	branch = refs/heads/main
