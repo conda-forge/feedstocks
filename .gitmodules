@@ -78418,3 +78418,7 @@
 	url = https://github.com/conda-forge/glslang-feedstock.git
 	path = feedstocks/glslang
 	branch = refs/heads/main
+[submodule "clspv"]
+	url = https://github.com/conda-forge/clspv-feedstock.git
+	path = feedstocks/clspv
+	branch = refs/heads/main
