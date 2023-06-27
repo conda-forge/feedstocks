@@ -78470,3 +78470,7 @@
 	url = https://github.com/conda-forge/asyncio-atexit-feedstock.git
 	path = feedstocks/asyncio-atexit
 	branch = refs/heads/main
+[submodule "mmsegmentation"]
+	url = https://github.com/conda-forge/mmsegmentation-feedstock.git
+	path = feedstocks/mmsegmentation
+	branch = refs/heads/main
