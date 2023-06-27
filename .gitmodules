@@ -78446,3 +78446,7 @@
 	url = https://github.com/conda-forge/r-cuperdec-feedstock.git
 	path = feedstocks/r-cuperdec
 	branch = refs/heads/main
+[submodule "python-jsonpath"]
+	url = https://github.com/conda-forge/python-jsonpath-feedstock.git
+	path = feedstocks/python-jsonpath
+	branch = refs/heads/main
