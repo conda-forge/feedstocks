@@ -78474,3 +78474,7 @@
 	url = https://github.com/conda-forge/mmsegmentation-feedstock.git
 	path = feedstocks/mmsegmentation
 	branch = refs/heads/main
+[submodule "scvelo"]
+	url = https://github.com/conda-forge/scvelo-feedstock.git
+	path = feedstocks/scvelo
+	branch = refs/heads/main
