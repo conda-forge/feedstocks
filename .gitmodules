@@ -78454,3 +78454,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-plantuml-feedstock.git
 	path = feedstocks/sphinxcontrib-plantuml
 	branch = refs/heads/main
+[submodule "sphinx-needs"]
+	url = https://github.com/conda-forge/sphinx-needs-feedstock.git
+	path = feedstocks/sphinx-needs
+	branch = refs/heads/main
