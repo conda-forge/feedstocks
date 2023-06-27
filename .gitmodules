@@ -78462,3 +78462,7 @@
 	url = https://github.com/conda-forge/napari-imagej-feedstock.git
 	path = feedstocks/napari-imagej
 	branch = refs/heads/main
+[submodule "asyncpg-listen"]
+	url = https://github.com/conda-forge/asyncpg-listen-feedstock.git
+	path = feedstocks/asyncpg-listen
+	branch = refs/heads/main
