@@ -78466,3 +78466,7 @@
 	url = https://github.com/conda-forge/asyncpg-listen-feedstock.git
 	path = feedstocks/asyncpg-listen
 	branch = refs/heads/main
+[submodule "asyncio-atexit"]
+	url = https://github.com/conda-forge/asyncio-atexit-feedstock.git
+	path = feedstocks/asyncio-atexit
+	branch = refs/heads/main
