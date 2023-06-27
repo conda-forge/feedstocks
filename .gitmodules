@@ -78442,3 +78442,7 @@
 	url = https://github.com/conda-forge/power-grid-model-io-feedstock.git
 	path = feedstocks/power-grid-model-io
 	branch = refs/heads/main
+[submodule "r-cuperdec"]
+	url = https://github.com/conda-forge/r-cuperdec-feedstock.git
+	path = feedstocks/r-cuperdec
+	branch = refs/heads/main
