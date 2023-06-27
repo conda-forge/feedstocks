@@ -78458,3 +78458,7 @@
 	url = https://github.com/conda-forge/sphinx-needs-feedstock.git
 	path = feedstocks/sphinx-needs
 	branch = refs/heads/main
+[submodule "napari-imagej"]
+	url = https://github.com/conda-forge/napari-imagej-feedstock.git
+	path = feedstocks/napari-imagej
+	branch = refs/heads/main
