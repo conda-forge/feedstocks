@@ -78450,3 +78450,7 @@
 	url = https://github.com/conda-forge/python-jsonpath-feedstock.git
 	path = feedstocks/python-jsonpath
 	branch = refs/heads/main
+[submodule "sphinxcontrib-plantuml"]
+	url = https://github.com/conda-forge/sphinxcontrib-plantuml-feedstock.git
+	path = feedstocks/sphinxcontrib-plantuml
+	branch = refs/heads/main
