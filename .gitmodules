@@ -78498,3 +78498,7 @@
 	url = https://github.com/conda-forge/libertem-blobfinder-feedstock.git
 	path = feedstocks/libertem-blobfinder
 	branch = refs/heads/main
+[submodule "libertem-live"]
+	url = https://github.com/conda-forge/libertem-live-feedstock.git
+	path = feedstocks/libertem-live
+	branch = refs/heads/main
