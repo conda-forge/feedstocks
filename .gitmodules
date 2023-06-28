@@ -78526,3 +78526,7 @@
 	url = https://github.com/conda-forge/grib2io-interp-feedstock.git
 	path = feedstocks/grib2io-interp
 	branch = refs/heads/main
+[submodule "pulsar-client"]
+	url = https://github.com/conda-forge/pulsar-client-feedstock.git
+	path = feedstocks/pulsar-client
+	branch = refs/heads/main
