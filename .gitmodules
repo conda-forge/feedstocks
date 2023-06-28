@@ -78486,3 +78486,7 @@
 	url = https://github.com/conda-forge/vulkan-tools-feedstock.git
 	path = feedstocks/vulkan-tools
 	branch = refs/heads/main
+[submodule "libertem"]
+	url = https://github.com/conda-forge/libertem-feedstock.git
+	path = feedstocks/libertem
+	branch = refs/heads/main
