@@ -78514,3 +78514,7 @@
 	url = https://github.com/conda-forge/learn-python-ceg-test-feedstock.git
 	path = feedstocks/learn-python-ceg-test
 	branch = refs/heads/main
+[submodule "databricks-sdk"]
+	url = https://github.com/conda-forge/databricks-sdk-feedstock.git
+	path = feedstocks/databricks-sdk
+	branch = refs/heads/main
