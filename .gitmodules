@@ -78490,3 +78490,7 @@
 	url = https://github.com/conda-forge/libertem-feedstock.git
 	path = feedstocks/libertem
 	branch = refs/heads/main
+[submodule "libertem-asi-tpx3"]
+	url = https://github.com/conda-forge/libertem-asi-tpx3-feedstock.git
+	path = feedstocks/libertem-asi-tpx3
+	branch = refs/heads/main
