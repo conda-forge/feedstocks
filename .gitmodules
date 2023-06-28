@@ -78518,3 +78518,7 @@
 	url = https://github.com/conda-forge/databricks-sdk-feedstock.git
 	path = feedstocks/databricks-sdk
 	branch = refs/heads/main
+[submodule "gluepyter"]
+	url = https://github.com/conda-forge/gluepyter-feedstock.git
+	path = feedstocks/gluepyter
+	branch = refs/heads/main
