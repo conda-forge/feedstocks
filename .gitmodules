@@ -78482,3 +78482,7 @@
 	url = https://github.com/conda-forge/casa_formats_io-feedstock.git
 	path = feedstocks/casa_formats_io
 	branch = refs/heads/main
+[submodule "vulkan-tools"]
+	url = https://github.com/conda-forge/vulkan-tools-feedstock.git
+	path = feedstocks/vulkan-tools
+	branch = refs/heads/main
