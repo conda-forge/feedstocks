@@ -78522,3 +78522,7 @@
 	url = https://github.com/conda-forge/gluepyter-feedstock.git
 	path = feedstocks/gluepyter
 	branch = refs/heads/main
+[submodule "grib2io-interp"]
+	url = https://github.com/conda-forge/grib2io-interp-feedstock.git
+	path = feedstocks/grib2io-interp
+	branch = refs/heads/main
