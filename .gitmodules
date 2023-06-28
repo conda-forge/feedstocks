@@ -78478,3 +78478,7 @@
 	url = https://github.com/conda-forge/scvelo-feedstock.git
 	path = feedstocks/scvelo
 	branch = refs/heads/main
+[submodule "casa_formats_io"]
+	url = https://github.com/conda-forge/casa_formats_io-feedstock.git
+	path = feedstocks/casa_formats_io
+	branch = refs/heads/main
