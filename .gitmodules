@@ -78502,3 +78502,7 @@
 	url = https://github.com/conda-forge/libertem-live-feedstock.git
 	path = feedstocks/libertem-live
 	branch = refs/heads/main
+[submodule "sparseconverter"]
+	url = https://github.com/conda-forge/sparseconverter-feedstock.git
+	path = feedstocks/sparseconverter
+	branch = refs/heads/main
