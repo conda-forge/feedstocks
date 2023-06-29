@@ -78582,3 +78582,7 @@
 	url = https://github.com/conda-forge/urdf-parser-py-feedstock.git
 	path = feedstocks/urdf-parser-py
 	branch = refs/heads/main
+[submodule "google-cloud-scheduler"]
+	url = https://github.com/conda-forge/google-cloud-scheduler-feedstock.git
+	path = feedstocks/google-cloud-scheduler
+	branch = refs/heads/main
