@@ -78538,3 +78538,7 @@
 	url = https://github.com/conda-forge/mpi_serial-feedstock.git
 	path = feedstocks/mpi_serial
 	branch = refs/heads/main
+[submodule "jupyterlab-accessible-themes"]
+	url = https://github.com/conda-forge/jupyterlab-accessible-themes-feedstock.git
+	path = feedstocks/jupyterlab-accessible-themes
+	branch = refs/heads/main
