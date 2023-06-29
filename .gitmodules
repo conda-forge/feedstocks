@@ -78566,3 +78566,7 @@
 	url = https://github.com/conda-forge/html-void-elements-feedstock.git
 	path = feedstocks/html-void-elements
 	branch = refs/heads/main
+[submodule "djlint"]
+	url = https://github.com/conda-forge/djlint-feedstock.git
+	path = feedstocks/djlint
+	branch = refs/heads/main
