@@ -78534,3 +78534,7 @@
 	url = https://github.com/conda-forge/jupyter-pluto-proxy-feedstock.git
 	path = feedstocks/jupyter-pluto-proxy
 	branch = refs/heads/main
+[submodule "mpi_serial"]
+	url = https://github.com/conda-forge/mpi_serial-feedstock.git
+	path = feedstocks/mpi_serial
+	branch = refs/heads/main
