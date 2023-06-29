@@ -78558,3 +78558,7 @@
 	url = https://github.com/conda-forge/cssbeautifier-feedstock.git
 	path = feedstocks/cssbeautifier
 	branch = refs/heads/main
+[submodule "torchlie"]
+	url = https://github.com/conda-forge/torchlie-feedstock.git
+	path = feedstocks/torchlie
+	branch = refs/heads/main
