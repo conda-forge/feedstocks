@@ -78546,3 +78546,7 @@
 	url = https://github.com/conda-forge/kr8s-feedstock.git
 	path = feedstocks/kr8s
 	branch = refs/heads/main
+[submodule "python-substrait"]
+	url = https://github.com/conda-forge/python-substrait-feedstock.git
+	path = feedstocks/python-substrait
+	branch = refs/heads/main
