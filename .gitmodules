@@ -78574,3 +78574,7 @@
 	url = https://github.com/conda-forge/allure-python-feedstock.git
 	path = feedstocks/allure-python
 	branch = refs/heads/main
+[submodule "torchkin"]
+	url = https://github.com/conda-forge/torchkin-feedstock.git
+	path = feedstocks/torchkin
+	branch = refs/heads/main
