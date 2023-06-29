@@ -78542,3 +78542,7 @@
 	url = https://github.com/conda-forge/jupyterlab-accessible-themes-feedstock.git
 	path = feedstocks/jupyterlab-accessible-themes
 	branch = refs/heads/main
+[submodule "kr8s"]
+	url = https://github.com/conda-forge/kr8s-feedstock.git
+	path = feedstocks/kr8s
+	branch = refs/heads/main
