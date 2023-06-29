@@ -78570,3 +78570,7 @@
 	url = https://github.com/conda-forge/djlint-feedstock.git
 	path = feedstocks/djlint
 	branch = refs/heads/main
+[submodule "allure-python"]
+	url = https://github.com/conda-forge/allure-python-feedstock.git
+	path = feedstocks/allure-python
+	branch = refs/heads/main
