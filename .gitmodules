@@ -78530,3 +78530,7 @@
 	url = https://github.com/conda-forge/pulsar-client-feedstock.git
 	path = feedstocks/pulsar-client
 	branch = refs/heads/main
+[submodule "jupyter-pluto-proxy"]
+	url = https://github.com/conda-forge/jupyter-pluto-proxy-feedstock.git
+	path = feedstocks/jupyter-pluto-proxy
+	branch = refs/heads/main
