@@ -78586,3 +78586,7 @@
 	url = https://github.com/conda-forge/google-cloud-scheduler-feedstock.git
 	path = feedstocks/google-cloud-scheduler
 	branch = refs/heads/main
+[submodule "pyo-oracle"]
+	url = https://github.com/conda-forge/pyo-oracle-feedstock.git
+	path = feedstocks/pyo-oracle
+	branch = refs/heads/main
