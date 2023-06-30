@@ -78602,3 +78602,7 @@
 	url = https://github.com/conda-forge/decimal128-feedstock.git
 	path = feedstocks/decimal128
 	branch = refs/heads/main
+[submodule "bunnet"]
+	url = https://github.com/conda-forge/bunnet-feedstock.git
+	path = feedstocks/bunnet
+	branch = refs/heads/main
