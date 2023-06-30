@@ -78606,3 +78606,7 @@
 	url = https://github.com/conda-forge/bunnet-feedstock.git
 	path = feedstocks/bunnet
 	branch = refs/heads/main
+[submodule "fs.googledrivefs"]
+	url = https://github.com/conda-forge/fs.googledrivefs-feedstock.git
+	path = feedstocks/fs.googledrivefs
+	branch = refs/heads/main
