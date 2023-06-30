@@ -78594,3 +78594,7 @@
 	url = https://github.com/conda-forge/kedro-vertexai-feedstock.git
 	path = feedstocks/kedro-vertexai
 	branch = refs/heads/main
+[submodule "pyloadprofilegenerator"]
+	url = https://github.com/conda-forge/pyloadprofilegenerator-feedstock.git
+	path = feedstocks/pyloadprofilegenerator
+	branch = refs/heads/main
