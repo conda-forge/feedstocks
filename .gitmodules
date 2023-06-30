@@ -78590,3 +78590,7 @@
 	url = https://github.com/conda-forge/pyo-oracle-feedstock.git
 	path = feedstocks/pyo-oracle
 	branch = refs/heads/main
+[submodule "kedro-vertexai"]
+	url = https://github.com/conda-forge/kedro-vertexai-feedstock.git
+	path = feedstocks/kedro-vertexai
+	branch = refs/heads/main
