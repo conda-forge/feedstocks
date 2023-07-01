@@ -78610,3 +78610,7 @@
 	url = https://github.com/conda-forge/fs.googledrivefs-feedstock.git
 	path = feedstocks/fs.googledrivefs
 	branch = refs/heads/main
+[submodule "robert"]
+	url = https://github.com/conda-forge/robert-feedstock.git
+	path = feedstocks/robert
+	branch = refs/heads/main
