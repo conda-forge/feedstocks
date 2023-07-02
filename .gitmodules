@@ -78622,3 +78622,7 @@
 	url = https://github.com/conda-forge/shaderc-feedstock.git
 	path = feedstocks/shaderc
 	branch = refs/heads/main
+[submodule "chemdyg"]
+	url = https://github.com/conda-forge/chemdyg-feedstock.git
+	path = feedstocks/chemdyg
+	branch = refs/heads/main
