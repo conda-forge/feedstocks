@@ -78630,3 +78630,7 @@
 	url = https://github.com/conda-forge/pandas-dq-feedstock.git
 	path = feedstocks/pandas-dq
 	branch = refs/heads/main
+[submodule "hll"]
+	url = https://github.com/conda-forge/hll-feedstock.git
+	path = feedstocks/hll
+	branch = refs/heads/main
