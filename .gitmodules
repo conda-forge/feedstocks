@@ -78618,3 +78618,7 @@
 	url = https://github.com/conda-forge/eralchemy2-feedstock.git
 	path = feedstocks/eralchemy2
 	branch = refs/heads/main
+[submodule "shaderc"]
+	url = https://github.com/conda-forge/shaderc-feedstock.git
+	path = feedstocks/shaderc
+	branch = refs/heads/main
