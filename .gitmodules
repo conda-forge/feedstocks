@@ -78642,3 +78642,7 @@
 	url = https://github.com/conda-forge/django-easy-logging-feedstock.git
 	path = feedstocks/django-easy-logging
 	branch = refs/heads/main
+[submodule "datasketches"]
+	url = https://github.com/conda-forge/datasketches-feedstock.git
+	path = feedstocks/datasketches
+	branch = refs/heads/main
