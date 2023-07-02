@@ -78638,3 +78638,7 @@
 	url = https://github.com/conda-forge/sphractal-feedstock.git
 	path = feedstocks/sphractal
 	branch = refs/heads/main
+[submodule "django-easy-logging"]
+	url = https://github.com/conda-forge/django-easy-logging-feedstock.git
+	path = feedstocks/django-easy-logging
+	branch = refs/heads/main
