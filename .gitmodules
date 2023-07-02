@@ -78626,3 +78626,7 @@
 	url = https://github.com/conda-forge/chemdyg-feedstock.git
 	path = feedstocks/chemdyg
 	branch = refs/heads/main
+[submodule "pandas-dq"]
+	url = https://github.com/conda-forge/pandas-dq-feedstock.git
+	path = feedstocks/pandas-dq
+	branch = refs/heads/main
