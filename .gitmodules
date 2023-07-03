@@ -78654,3 +78654,7 @@
 	url = https://github.com/conda-forge/pydantic-settings-feedstock.git
 	path = feedstocks/pydantic-settings
 	branch = refs/heads/main
+[submodule "argparse-addons"]
+	url = https://github.com/conda-forge/argparse-addons-feedstock.git
+	path = feedstocks/argparse-addons
+	branch = refs/heads/main
