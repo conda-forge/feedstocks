@@ -78666,3 +78666,7 @@
 	url = https://github.com/conda-forge/tox-current-env-feedstock.git
 	path = feedstocks/tox-current-env
 	branch = refs/heads/main
+[submodule "textual-dev"]
+	url = https://github.com/conda-forge/textual-dev-feedstock.git
+	path = feedstocks/textual-dev
+	branch = refs/heads/main
