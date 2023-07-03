@@ -78662,3 +78662,7 @@
 	url = https://github.com/conda-forge/tftest-feedstock.git
 	path = feedstocks/tftest
 	branch = refs/heads/main
+[submodule "tox-current-env"]
+	url = https://github.com/conda-forge/tox-current-env-feedstock.git
+	path = feedstocks/tox-current-env
+	branch = refs/heads/main
