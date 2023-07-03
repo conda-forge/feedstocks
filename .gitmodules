@@ -78646,3 +78646,7 @@
 	url = https://github.com/conda-forge/datasketches-feedstock.git
 	path = feedstocks/datasketches
 	branch = refs/heads/main
+[submodule "highs"]
+	url = https://github.com/conda-forge/highs-feedstock.git
+	path = feedstocks/highs
+	branch = refs/heads/main
