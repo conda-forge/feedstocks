@@ -78670,3 +78670,7 @@
 	url = https://github.com/conda-forge/textual-dev-feedstock.git
 	path = feedstocks/textual-dev
 	branch = refs/heads/main
+[submodule "h5coro"]
+	url = https://github.com/conda-forge/h5coro-feedstock.git
+	path = feedstocks/h5coro
+	branch = refs/heads/main
