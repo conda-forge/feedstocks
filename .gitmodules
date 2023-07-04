@@ -78682,3 +78682,7 @@
 	url = https://github.com/conda-forge/r-distributions3-feedstock.git
 	path = feedstocks/r-distributions3
 	branch = refs/heads/main
+[submodule "morningstar-data"]
+	url = https://github.com/conda-forge/morningstar-data-feedstock.git
+	path = feedstocks/morningstar-data
+	branch = refs/heads/main
