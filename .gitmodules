@@ -78678,3 +78678,7 @@
 	url = https://github.com/conda-forge/r-cereal-feedstock.git
 	path = feedstocks/r-cereal
 	branch = refs/heads/main
+[submodule "r-distributions3"]
+	url = https://github.com/conda-forge/r-distributions3-feedstock.git
+	path = feedstocks/r-distributions3
+	branch = refs/heads/main
