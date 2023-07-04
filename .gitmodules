@@ -78674,3 +78674,7 @@
 	url = https://github.com/conda-forge/h5coro-feedstock.git
 	path = feedstocks/h5coro
 	branch = refs/heads/main
+[submodule "r-cereal"]
+	url = https://github.com/conda-forge/r-cereal-feedstock.git
+	path = feedstocks/r-cereal
+	branch = refs/heads/main
