@@ -78694,3 +78694,7 @@
 	url = https://github.com/conda-forge/flynt-feedstock.git
 	path = feedstocks/flynt
 	branch = refs/heads/main
+[submodule "opentelemetry-exporter-otlp-proto-common"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-otlp-proto-common-feedstock.git
+	path = feedstocks/opentelemetry-exporter-otlp-proto-common
+	branch = refs/heads/main
