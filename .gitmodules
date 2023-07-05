@@ -78686,3 +78686,7 @@
 	url = https://github.com/conda-forge/morningstar-data-feedstock.git
 	path = feedstocks/morningstar-data
 	branch = refs/heads/main
+[submodule "pyproximal"]
+	url = https://github.com/conda-forge/pyproximal-feedstock.git
+	path = feedstocks/pyproximal
+	branch = refs/heads/main
