@@ -78698,3 +78698,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-otlp-proto-common-feedstock.git
 	path = feedstocks/opentelemetry-exporter-otlp-proto-common
 	branch = refs/heads/main
+[submodule "ipyflow-core"]
+	url = https://github.com/conda-forge/ipyflow-core-feedstock.git
+	path = feedstocks/ipyflow-core
+	branch = refs/heads/main
