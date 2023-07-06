@@ -78722,3 +78722,7 @@
 	url = https://github.com/conda-forge/gradescope-utils-feedstock.git
 	path = feedstocks/gradescope-utils
 	branch = refs/heads/main
+[submodule "covdrugsim"]
+	url = https://github.com/conda-forge/covdrugsim-feedstock.git
+	path = feedstocks/covdrugsim
+	branch = refs/heads/main
