@@ -78710,3 +78710,7 @@
 	url = https://github.com/conda-forge/polyfactory-feedstock.git
 	path = feedstocks/polyfactory
 	branch = refs/heads/main
+[submodule "libpnetcdf"]
+	url = https://github.com/conda-forge/libpnetcdf-feedstock.git
+	path = feedstocks/libpnetcdf
+	branch = refs/heads/main
