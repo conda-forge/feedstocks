@@ -78718,3 +78718,7 @@
 	url = https://github.com/conda-forge/r-clarify-feedstock.git
 	path = feedstocks/r-clarify
 	branch = refs/heads/main
+[submodule "gradescope-utils"]
+	url = https://github.com/conda-forge/gradescope-utils-feedstock.git
+	path = feedstocks/gradescope-utils
+	branch = refs/heads/main
