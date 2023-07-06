@@ -78726,3 +78726,7 @@
 	url = https://github.com/conda-forge/covdrugsim-feedstock.git
 	path = feedstocks/covdrugsim
 	branch = refs/heads/main
+[submodule "mujoco-python-viewer"]
+	url = https://github.com/conda-forge/mujoco-python-viewer-feedstock.git
+	path = feedstocks/mujoco-python-viewer
+	branch = refs/heads/main
