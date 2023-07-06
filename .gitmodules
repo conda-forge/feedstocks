@@ -78714,3 +78714,7 @@
 	url = https://github.com/conda-forge/libpnetcdf-feedstock.git
 	path = feedstocks/libpnetcdf
 	branch = refs/heads/main
+[submodule "r-clarify"]
+	url = https://github.com/conda-forge/r-clarify-feedstock.git
+	path = feedstocks/r-clarify
+	branch = refs/heads/main
