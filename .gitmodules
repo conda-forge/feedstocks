@@ -78746,3 +78746,7 @@
 	url = https://github.com/conda-forge/wil-feedstock.git
 	path = feedstocks/wil
 	branch = refs/heads/main
+[submodule "brainglobe-utils"]
+	url = https://github.com/conda-forge/brainglobe-utils-feedstock.git
+	path = feedstocks/brainglobe-utils
+	branch = refs/heads/main
