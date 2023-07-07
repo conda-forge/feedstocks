@@ -78758,3 +78758,7 @@
 	url = https://github.com/conda-forge/timescoring-feedstock.git
 	path = feedstocks/timescoring
 	branch = refs/heads/main
+[submodule "lb-telemetry"]
+	url = https://github.com/conda-forge/lb-telemetry-feedstock.git
+	path = feedstocks/lb-telemetry
+	branch = refs/heads/main
