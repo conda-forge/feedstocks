@@ -78738,3 +78738,7 @@
 	url = https://github.com/conda-forge/astropy-iers-data-feedstock.git
 	path = feedstocks/astropy-iers-data
 	branch = refs/heads/main
+[submodule "ktch"]
+	url = https://github.com/conda-forge/ktch-feedstock.git
+	path = feedstocks/ktch
+	branch = refs/heads/main
