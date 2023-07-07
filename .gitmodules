@@ -78734,3 +78734,7 @@
 	url = https://github.com/conda-forge/covalent-feedstock.git
 	path = feedstocks/covalent
 	branch = refs/heads/main
+[submodule "astropy-iers-data"]
+	url = https://github.com/conda-forge/astropy-iers-data-feedstock.git
+	path = feedstocks/astropy-iers-data
+	branch = refs/heads/main
