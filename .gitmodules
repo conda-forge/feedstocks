@@ -78750,3 +78750,7 @@
 	url = https://github.com/conda-forge/brainglobe-utils-feedstock.git
 	path = feedstocks/brainglobe-utils
 	branch = refs/heads/main
+[submodule "mathpad"]
+	url = https://github.com/conda-forge/mathpad-feedstock.git
+	path = feedstocks/mathpad
+	branch = refs/heads/main
