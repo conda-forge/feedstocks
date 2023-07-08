@@ -78778,3 +78778,7 @@
 	url = https://github.com/conda-forge/kalpy-feedstock.git
 	path = feedstocks/kalpy
 	branch = refs/heads/main
+[submodule "flet-runtime"]
+	url = https://github.com/conda-forge/flet-runtime-feedstock.git
+	path = feedstocks/flet-runtime
+	branch = refs/heads/main
