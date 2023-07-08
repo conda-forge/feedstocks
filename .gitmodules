@@ -78774,3 +78774,7 @@
 	url = https://github.com/conda-forge/piano_fingering-feedstock.git
 	path = feedstocks/piano_fingering
 	branch = refs/heads/main
+[submodule "kalpy"]
+	url = https://github.com/conda-forge/kalpy-feedstock.git
+	path = feedstocks/kalpy
+	branch = refs/heads/main
