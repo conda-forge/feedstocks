@@ -78794,3 +78794,7 @@
 	url = https://github.com/conda-forge/pytest_parallel_mpi-feedstock.git
 	path = feedstocks/pytest_parallel_mpi
 	branch = refs/heads/main
+[submodule "omicverse"]
+	url = https://github.com/conda-forge/omicverse-feedstock.git
+	path = feedstocks/omicverse
+	branch = refs/heads/main
