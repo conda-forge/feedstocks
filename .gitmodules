@@ -78810,3 +78810,7 @@
 	url = https://github.com/conda-forge/disperse-feedstock.git
 	path = feedstocks/disperse
 	branch = refs/heads/main
+[submodule "split-file-reader"]
+	url = https://github.com/conda-forge/split-file-reader-feedstock.git
+	path = feedstocks/split-file-reader
+	branch = refs/heads/main
