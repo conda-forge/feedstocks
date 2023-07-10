@@ -78802,3 +78802,7 @@
 	url = https://github.com/conda-forge/gmailsorter-feedstock.git
 	path = feedstocks/gmailsorter
 	branch = refs/heads/main
+[submodule "segment-lidar"]
+	url = https://github.com/conda-forge/segment-lidar-feedstock.git
+	path = feedstocks/segment-lidar
+	branch = refs/heads/main
