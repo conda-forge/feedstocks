@@ -78790,3 +78790,7 @@
 	url = https://github.com/conda-forge/tfv-feedstock.git
 	path = feedstocks/tfv
 	branch = refs/heads/main
+[submodule "pytest_parallel_mpi"]
+	url = https://github.com/conda-forge/pytest_parallel_mpi-feedstock.git
+	path = feedstocks/pytest_parallel_mpi
+	branch = refs/heads/main
