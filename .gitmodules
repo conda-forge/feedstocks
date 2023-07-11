@@ -78830,3 +78830,7 @@
 	url = https://github.com/conda-forge/pyobjc-framework-security-feedstock.git
 	path = feedstocks/pyobjc-framework-security
 	branch = refs/heads/main
+[submodule "fsl-pipe-gui"]
+	url = https://github.com/conda-forge/fsl-pipe-gui-feedstock.git
+	path = feedstocks/fsl-pipe-gui
+	branch = refs/heads/main
