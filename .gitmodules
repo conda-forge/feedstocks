@@ -78814,3 +78814,7 @@
 	url = https://github.com/conda-forge/split-file-reader-feedstock.git
 	path = feedstocks/split-file-reader
 	branch = refs/heads/main
+[submodule "nsight-compute"]
+	url = https://github.com/conda-forge/nsight-compute-feedstock.git
+	path = feedstocks/nsight-compute
+	branch = refs/heads/main
