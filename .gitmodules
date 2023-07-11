@@ -78826,3 +78826,7 @@
 	url = https://github.com/conda-forge/tyro-feedstock.git
 	path = feedstocks/tyro
 	branch = refs/heads/main
+[submodule "pyobjc-framework-security"]
+	url = https://github.com/conda-forge/pyobjc-framework-security-feedstock.git
+	path = feedstocks/pyobjc-framework-security
+	branch = refs/heads/main
