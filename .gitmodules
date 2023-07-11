@@ -78822,3 +78822,7 @@
 	url = https://github.com/conda-forge/sarif-tools-feedstock.git
 	path = feedstocks/sarif-tools
 	branch = refs/heads/main
+[submodule "tyro"]
+	url = https://github.com/conda-forge/tyro-feedstock.git
+	path = feedstocks/tyro
+	branch = refs/heads/main
