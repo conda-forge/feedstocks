@@ -78834,3 +78834,7 @@
 	url = https://github.com/conda-forge/fsl-pipe-gui-feedstock.git
 	path = feedstocks/fsl-pipe-gui
 	branch = refs/heads/main
+[submodule "h5pulsar"]
+	url = https://github.com/conda-forge/h5pulsar-feedstock.git
+	path = feedstocks/h5pulsar
+	branch = refs/heads/main
