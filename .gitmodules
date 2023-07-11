@@ -78858,3 +78858,7 @@
 	url = https://github.com/conda-forge/r-manhattanly-feedstock.git
 	path = feedstocks/r-manhattanly
 	branch = refs/heads/main
+[submodule "r-admm"]
+	url = https://github.com/conda-forge/r-admm-feedstock.git
+	path = feedstocks/r-admm
+	branch = refs/heads/main
