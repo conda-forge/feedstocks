@@ -78846,3 +78846,7 @@
 	url = https://github.com/conda-forge/jaxlie-feedstock.git
 	path = feedstocks/jaxlie
 	branch = refs/heads/main
+[submodule "jupyter-kernel-provisioner-proxy"]
+	url = https://github.com/conda-forge/jupyter-kernel-provisioner-proxy-feedstock.git
+	path = feedstocks/jupyter-kernel-provisioner-proxy
+	branch = refs/heads/main
