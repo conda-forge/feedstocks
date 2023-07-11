@@ -78838,3 +78838,7 @@
 	url = https://github.com/conda-forge/h5pulsar-feedstock.git
 	path = feedstocks/h5pulsar
 	branch = refs/heads/main
+[submodule "pyobjc-framework-webkit"]
+	url = https://github.com/conda-forge/pyobjc-framework-webkit-feedstock.git
+	path = feedstocks/pyobjc-framework-webkit
+	branch = refs/heads/main
