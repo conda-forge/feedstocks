@@ -78818,3 +78818,7 @@
 	url = https://github.com/conda-forge/nsight-compute-feedstock.git
 	path = feedstocks/nsight-compute
 	branch = refs/heads/main
+[submodule "sarif-tools"]
+	url = https://github.com/conda-forge/sarif-tools-feedstock.git
+	path = feedstocks/sarif-tools
+	branch = refs/heads/main
