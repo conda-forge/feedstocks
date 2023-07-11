@@ -78850,3 +78850,7 @@
 	url = https://github.com/conda-forge/jupyter-kernel-provisioner-proxy-feedstock.git
 	path = feedstocks/jupyter-kernel-provisioner-proxy
 	branch = refs/heads/main
+[submodule "grib2io"]
+	url = https://github.com/conda-forge/grib2io-feedstock.git
+	path = feedstocks/grib2io
+	branch = refs/heads/main
