@@ -78862,3 +78862,7 @@
 	url = https://github.com/conda-forge/r-admm-feedstock.git
 	path = feedstocks/r-admm
 	branch = refs/heads/main
+[submodule "r-xslt"]
+	url = https://github.com/conda-forge/r-xslt-feedstock.git
+	path = feedstocks/r-xslt
+	branch = refs/heads/main
