@@ -78890,3 +78890,7 @@
 	url = https://github.com/conda-forge/tf2-gnn-feedstock.git
 	path = feedstocks/tf2-gnn
 	branch = refs/heads/main
+[submodule "mp-pyrho"]
+	url = https://github.com/conda-forge/mp-pyrho-feedstock.git
+	path = feedstocks/mp-pyrho
+	branch = refs/heads/main
