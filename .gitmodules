@@ -78910,3 +78910,7 @@
 	url = https://github.com/conda-forge/seaduck-feedstock.git
 	path = feedstocks/seaduck
 	branch = refs/heads/main
+[submodule "album-gui"]
+	url = https://github.com/conda-forge/album-gui-feedstock.git
+	path = feedstocks/album-gui
+	branch = refs/heads/main
