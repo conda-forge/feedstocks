@@ -78886,3 +78886,7 @@
 	url = https://github.com/conda-forge/molecule-generation-feedstock.git
 	path = feedstocks/molecule-generation
 	branch = refs/heads/main
+[submodule "tf2-gnn"]
+	url = https://github.com/conda-forge/tf2-gnn-feedstock.git
+	path = feedstocks/tf2-gnn
+	branch = refs/heads/main
