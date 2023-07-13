@@ -78874,3 +78874,7 @@
 	url = https://github.com/conda-forge/napari-mzarr-feedstock.git
 	path = feedstocks/napari-mzarr
 	branch = refs/heads/main
+[submodule "conda-inject"]
+	url = https://github.com/conda-forge/conda-inject-feedstock.git
+	path = feedstocks/conda-inject
+	branch = refs/heads/main
