@@ -78882,3 +78882,7 @@
 	url = https://github.com/conda-forge/trio-typing-feedstock.git
 	path = feedstocks/trio-typing
 	branch = refs/heads/main
+[submodule "molecule-generation"]
+	url = https://github.com/conda-forge/molecule-generation-feedstock.git
+	path = feedstocks/molecule-generation
+	branch = refs/heads/main
