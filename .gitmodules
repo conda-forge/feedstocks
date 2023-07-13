@@ -78870,3 +78870,7 @@
 	url = https://github.com/conda-forge/napari-nlm-feedstock.git
 	path = feedstocks/napari-nlm
 	branch = refs/heads/main
+[submodule "napari-mzarr"]
+	url = https://github.com/conda-forge/napari-mzarr-feedstock.git
+	path = feedstocks/napari-mzarr
+	branch = refs/heads/main
