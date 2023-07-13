@@ -78878,3 +78878,7 @@
 	url = https://github.com/conda-forge/conda-inject-feedstock.git
 	path = feedstocks/conda-inject
 	branch = refs/heads/main
+[submodule "trio-typing"]
+	url = https://github.com/conda-forge/trio-typing-feedstock.git
+	path = feedstocks/trio-typing
+	branch = refs/heads/main
