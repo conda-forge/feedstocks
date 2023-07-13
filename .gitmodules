@@ -78906,3 +78906,7 @@
 	url = https://github.com/conda-forge/stamina-feedstock.git
 	path = feedstocks/stamina
 	branch = refs/heads/main
+[submodule "seaduck"]
+	url = https://github.com/conda-forge/seaduck-feedstock.git
+	path = feedstocks/seaduck
+	branch = refs/heads/main
