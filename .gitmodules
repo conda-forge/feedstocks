@@ -78866,3 +78866,7 @@
 	url = https://github.com/conda-forge/r-xslt-feedstock.git
 	path = feedstocks/r-xslt
 	branch = refs/heads/main
+[submodule "napari-nlm"]
+	url = https://github.com/conda-forge/napari-nlm-feedstock.git
+	path = feedstocks/napari-nlm
+	branch = refs/heads/main
