@@ -78922,3 +78922,7 @@
 	url = https://github.com/conda-forge/bytewax-feedstock.git
 	path = feedstocks/bytewax
 	branch = refs/heads/main
+[submodule "aleph-alpha-client"]
+	url = https://github.com/conda-forge/aleph-alpha-client-feedstock.git
+	path = feedstocks/aleph-alpha-client
+	branch = refs/heads/main
