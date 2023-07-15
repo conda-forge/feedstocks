@@ -78934,3 +78934,7 @@
 	url = https://github.com/conda-forge/intake-dataframe-catalog-feedstock.git
 	path = feedstocks/intake-dataframe-catalog
 	branch = refs/heads/main
+[submodule "anaconda-catalogs"]
+	url = https://github.com/conda-forge/anaconda-catalogs-feedstock.git
+	path = feedstocks/anaconda-catalogs
+	branch = refs/heads/main
