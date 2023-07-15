@@ -78930,3 +78930,7 @@
 	url = https://github.com/conda-forge/aioguest-feedstock.git
 	path = feedstocks/aioguest
 	branch = refs/heads/main
+[submodule "intake-dataframe-catalog"]
+	url = https://github.com/conda-forge/intake-dataframe-catalog-feedstock.git
+	path = feedstocks/intake-dataframe-catalog
+	branch = refs/heads/main
