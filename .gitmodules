@@ -78926,3 +78926,7 @@
 	url = https://github.com/conda-forge/aleph-alpha-client-feedstock.git
 	path = feedstocks/aleph-alpha-client
 	branch = refs/heads/main
+[submodule "aioguest"]
+	url = https://github.com/conda-forge/aioguest-feedstock.git
+	path = feedstocks/aioguest
+	branch = refs/heads/main
