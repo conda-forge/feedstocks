@@ -78938,3 +78938,7 @@
 	url = https://github.com/conda-forge/anaconda-catalogs-feedstock.git
 	path = feedstocks/anaconda-catalogs
 	branch = refs/heads/main
+[submodule "langsmith"]
+	url = https://github.com/conda-forge/langsmith-feedstock.git
+	path = feedstocks/langsmith
+	branch = refs/heads/main
