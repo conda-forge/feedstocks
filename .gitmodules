@@ -78942,3 +78942,7 @@
 	url = https://github.com/conda-forge/langsmith-feedstock.git
 	path = feedstocks/langsmith
 	branch = refs/heads/main
+[submodule "google-cloud-storage-transfer"]
+	url = https://github.com/conda-forge/google-cloud-storage-transfer-feedstock.git
+	path = feedstocks/google-cloud-storage-transfer
+	branch = refs/heads/main
