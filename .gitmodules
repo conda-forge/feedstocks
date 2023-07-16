@@ -78958,3 +78958,7 @@
 	url = https://github.com/conda-forge/idiap-devtools-feedstock.git
 	path = feedstocks/idiap-devtools
 	branch = refs/heads/main
+[submodule "asv_runner"]
+	url = https://github.com/conda-forge/asv_runner-feedstock.git
+	path = feedstocks/asv_runner
+	branch = refs/heads/main
