@@ -78966,3 +78966,7 @@
 	url = https://github.com/conda-forge/niacin-feedstock.git
 	path = feedstocks/niacin
 	branch = refs/heads/main
+[submodule "xstate-python"]
+	url = https://github.com/conda-forge/xstate-python-feedstock.git
+	path = feedstocks/xstate-python
+	branch = refs/heads/main
