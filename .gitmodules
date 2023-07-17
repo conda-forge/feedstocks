@@ -78986,3 +78986,7 @@
 	url = https://github.com/conda-forge/sybil-feedstock.git
 	path = feedstocks/sybil
 	branch = refs/heads/main
+[submodule "mariadb-connector-c"]
+	url = https://github.com/conda-forge/mariadb-connector-c-feedstock.git
+	path = feedstocks/mariadb-connector-c
+	branch = refs/heads/main
