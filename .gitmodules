@@ -78970,3 +78970,7 @@
 	url = https://github.com/conda-forge/xstate-python-feedstock.git
 	path = feedstocks/xstate-python
 	branch = refs/heads/main
+[submodule "geoxarray"]
+	url = https://github.com/conda-forge/geoxarray-feedstock.git
+	path = feedstocks/geoxarray
+	branch = refs/heads/main
