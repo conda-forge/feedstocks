@@ -78982,3 +78982,7 @@
 	url = https://github.com/conda-forge/napari-workshop-browser-feedstock.git
 	path = feedstocks/napari-workshop-browser
 	branch = refs/heads/main
+[submodule "sybil"]
+	url = https://github.com/conda-forge/sybil-feedstock.git
+	path = feedstocks/sybil
+	branch = refs/heads/main
