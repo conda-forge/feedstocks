@@ -78974,3 +78974,7 @@
 	url = https://github.com/conda-forge/geoxarray-feedstock.git
 	path = feedstocks/geoxarray
 	branch = refs/heads/main
+[submodule "pins"]
+	url = https://github.com/conda-forge/pins-feedstock.git
+	path = feedstocks/pins
+	branch = refs/heads/main
