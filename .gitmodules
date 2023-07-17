@@ -78978,3 +78978,7 @@
 	url = https://github.com/conda-forge/pins-feedstock.git
 	path = feedstocks/pins
 	branch = refs/heads/main
+[submodule "napari-workshop-browser"]
+	url = https://github.com/conda-forge/napari-workshop-browser-feedstock.git
+	path = feedstocks/napari-workshop-browser
+	branch = refs/heads/main
