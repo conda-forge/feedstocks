@@ -78990,3 +78990,7 @@
 	url = https://github.com/conda-forge/mariadb-connector-c-feedstock.git
 	path = feedstocks/mariadb-connector-c
 	branch = refs/heads/main
+[submodule "pytorch3d"]
+	url = https://github.com/conda-forge/pytorch3d-feedstock.git
+	path = feedstocks/pytorch3d
+	branch = refs/heads/main
