@@ -79010,3 +79010,7 @@
 	url = https://github.com/conda-forge/dymos-feedstock.git
 	path = feedstocks/dymos
 	branch = refs/heads/main
+[submodule "substring"]
+	url = https://github.com/conda-forge/substring-feedstock.git
+	path = feedstocks/substring
+	branch = refs/heads/main
