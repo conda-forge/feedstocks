@@ -78994,3 +78994,7 @@
 	url = https://github.com/conda-forge/pytorch3d-feedstock.git
 	path = feedstocks/pytorch3d
 	branch = refs/heads/main
+[submodule "robotframework-excellib"]
+	url = https://github.com/conda-forge/robotframework-excellib-feedstock.git
+	path = feedstocks/robotframework-excellib
+	branch = refs/heads/main
