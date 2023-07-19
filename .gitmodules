@@ -79058,3 +79058,7 @@
 	url = https://github.com/conda-forge/r-downloadthis-feedstock.git
 	path = feedstocks/r-downloadthis
 	branch = refs/heads/main
+[submodule "r-hdci"]
+	url = https://github.com/conda-forge/r-hdci-feedstock.git
+	path = feedstocks/r-hdci
+	branch = refs/heads/main
