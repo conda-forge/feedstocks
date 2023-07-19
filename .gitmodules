@@ -79038,3 +79038,7 @@
 	url = https://github.com/conda-forge/supervision-feedstock.git
 	path = feedstocks/supervision
 	branch = refs/heads/main
+[submodule "r-nglviewer"]
+	url = https://github.com/conda-forge/r-nglviewer-feedstock.git
+	path = feedstocks/r-nglviewer
+	branch = refs/heads/main
