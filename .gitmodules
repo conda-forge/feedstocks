@@ -79042,3 +79042,7 @@
 	url = https://github.com/conda-forge/r-nglviewer-feedstock.git
 	path = feedstocks/r-nglviewer
 	branch = refs/heads/main
+[submodule "r-archive"]
+	url = https://github.com/conda-forge/r-archive-feedstock.git
+	path = feedstocks/r-archive
+	branch = refs/heads/main
