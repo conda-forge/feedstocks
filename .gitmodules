@@ -79026,3 +79026,7 @@
 	url = https://github.com/conda-forge/r-fportfolio-feedstock.git
 	path = feedstocks/r-fportfolio
 	branch = refs/heads/main
+[submodule "r-fassets"]
+	url = https://github.com/conda-forge/r-fassets-feedstock.git
+	path = feedstocks/r-fassets
+	branch = refs/heads/main
