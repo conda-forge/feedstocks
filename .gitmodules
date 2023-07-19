@@ -79050,3 +79050,7 @@
 	url = https://github.com/conda-forge/r-oaqc-feedstock.git
 	path = feedstocks/r-oaqc
 	branch = refs/heads/main
+[submodule "r-shinytitle"]
+	url = https://github.com/conda-forge/r-shinytitle-feedstock.git
+	path = feedstocks/r-shinytitle
+	branch = refs/heads/main
