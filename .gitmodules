@@ -79022,3 +79022,7 @@
 	url = https://github.com/conda-forge/r-rneos-feedstock.git
 	path = feedstocks/r-rneos
 	branch = refs/heads/main
+[submodule "r-fportfolio"]
+	url = https://github.com/conda-forge/r-fportfolio-feedstock.git
+	path = feedstocks/r-fportfolio
+	branch = refs/heads/main
