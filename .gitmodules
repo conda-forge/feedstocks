@@ -79066,3 +79066,7 @@
 	url = https://github.com/conda-forge/r-directpa-feedstock.git
 	path = feedstocks/r-directpa
 	branch = refs/heads/main
+[submodule "r-remacor"]
+	url = https://github.com/conda-forge/r-remacor-feedstock.git
+	path = feedstocks/r-remacor
+	branch = refs/heads/main
