@@ -79074,3 +79074,7 @@
 	url = https://github.com/conda-forge/r-ssc-feedstock.git
 	path = feedstocks/r-ssc
 	branch = refs/heads/main
+[submodule "r-gmisc"]
+	url = https://github.com/conda-forge/r-gmisc-feedstock.git
+	path = feedstocks/r-gmisc
+	branch = refs/heads/main
