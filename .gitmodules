@@ -79030,3 +79030,7 @@
 	url = https://github.com/conda-forge/r-fassets-feedstock.git
 	path = feedstocks/r-fassets
 	branch = refs/heads/main
+[submodule "groundingdino-py"]
+	url = https://github.com/conda-forge/groundingdino-py-feedstock.git
+	path = feedstocks/groundingdino-py
+	branch = refs/heads/main
