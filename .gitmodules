@@ -79018,3 +79018,7 @@
 	url = https://github.com/conda-forge/r-fcopulae-feedstock.git
 	path = feedstocks/r-fcopulae
 	branch = refs/heads/main
+[submodule "r-rneos"]
+	url = https://github.com/conda-forge/r-rneos-feedstock.git
+	path = feedstocks/r-rneos
+	branch = refs/heads/main
