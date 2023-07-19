@@ -79070,3 +79070,7 @@
 	url = https://github.com/conda-forge/r-remacor-feedstock.git
 	path = feedstocks/r-remacor
 	branch = refs/heads/main
+[submodule "r-ssc"]
+	url = https://github.com/conda-forge/r-ssc-feedstock.git
+	path = feedstocks/r-ssc
+	branch = refs/heads/main
