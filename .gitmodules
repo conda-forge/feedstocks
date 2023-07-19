@@ -79046,3 +79046,7 @@
 	url = https://github.com/conda-forge/r-archive-feedstock.git
 	path = feedstocks/r-archive
 	branch = refs/heads/main
+[submodule "r-oaqc"]
+	url = https://github.com/conda-forge/r-oaqc-feedstock.git
+	path = feedstocks/r-oaqc
+	branch = refs/heads/main
