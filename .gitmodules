@@ -79062,3 +79062,7 @@
 	url = https://github.com/conda-forge/r-hdci-feedstock.git
 	path = feedstocks/r-hdci
 	branch = refs/heads/main
+[submodule "r-directpa"]
+	url = https://github.com/conda-forge/r-directpa-feedstock.git
+	path = feedstocks/r-directpa
+	branch = refs/heads/main
