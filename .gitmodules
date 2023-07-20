@@ -79082,3 +79082,7 @@
 	url = https://github.com/conda-forge/r-greg-feedstock.git
 	path = feedstocks/r-greg
 	branch = refs/heads/main
+[submodule "r-azureauth"]
+	url = https://github.com/conda-forge/r-azureauth-feedstock.git
+	path = feedstocks/r-azureauth
+	branch = refs/heads/main
