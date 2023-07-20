@@ -79106,3 +79106,7 @@
 	url = https://github.com/conda-forge/daggerpy-feedstock.git
 	path = feedstocks/daggerpy
 	branch = refs/heads/main
+[submodule "cellrank"]
+	url = https://github.com/conda-forge/cellrank-feedstock.git
+	path = feedstocks/cellrank
+	branch = refs/heads/main
