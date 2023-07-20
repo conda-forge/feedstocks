@@ -79090,3 +79090,7 @@
 	url = https://github.com/conda-forge/r-azuregraph-feedstock.git
 	path = feedstocks/r-azuregraph
 	branch = refs/heads/main
+[submodule "r-azurermr"]
+	url = https://github.com/conda-forge/r-azurermr-feedstock.git
+	path = feedstocks/r-azurermr
+	branch = refs/heads/main
