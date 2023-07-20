@@ -79114,3 +79114,7 @@
 	url = https://github.com/conda-forge/newrelic-telemetry-sdk-feedstock.git
 	path = feedstocks/newrelic-telemetry-sdk
 	branch = refs/heads/main
+[submodule "py4d-browser"]
+	url = https://github.com/conda-forge/py4d-browser-feedstock.git
+	path = feedstocks/py4d-browser
+	branch = refs/heads/main
