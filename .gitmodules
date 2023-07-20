@@ -79110,3 +79110,7 @@
 	url = https://github.com/conda-forge/cellrank-feedstock.git
 	path = feedstocks/cellrank
 	branch = refs/heads/main
+[submodule "newrelic-telemetry-sdk"]
+	url = https://github.com/conda-forge/newrelic-telemetry-sdk-feedstock.git
+	path = feedstocks/newrelic-telemetry-sdk
+	branch = refs/heads/main
