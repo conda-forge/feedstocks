@@ -79098,3 +79098,7 @@
 	url = https://github.com/conda-forge/r-wrswor-feedstock.git
 	path = feedstocks/r-wrswor
 	branch = refs/heads/main
+[submodule "r-azurestor"]
+	url = https://github.com/conda-forge/r-azurestor-feedstock.git
+	path = feedstocks/r-azurestor
+	branch = refs/heads/main
