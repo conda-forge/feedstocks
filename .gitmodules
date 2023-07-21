@@ -79130,3 +79130,7 @@
 	url = https://github.com/conda-forge/dict-trie-feedstock.git
 	path = feedstocks/dict-trie
 	branch = refs/heads/main
+[submodule "jit-open"]
+	url = https://github.com/conda-forge/jit-open-feedstock.git
+	path = feedstocks/jit-open
+	branch = refs/heads/main
