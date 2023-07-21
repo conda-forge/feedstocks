@@ -79158,3 +79158,7 @@
 	url = https://github.com/conda-forge/descriptastorus-feedstock.git
 	path = feedstocks/descriptastorus
 	branch = refs/heads/main
+[submodule "pywatershed"]
+	url = https://github.com/conda-forge/pywatershed-feedstock.git
+	path = feedstocks/pywatershed
+	branch = refs/heads/main
