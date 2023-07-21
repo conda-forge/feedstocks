@@ -79126,3 +79126,7 @@
 	url = https://github.com/conda-forge/supermorecado-feedstock.git
 	path = feedstocks/supermorecado
 	branch = refs/heads/main
+[submodule "dict-trie"]
+	url = https://github.com/conda-forge/dict-trie-feedstock.git
+	path = feedstocks/dict-trie
+	branch = refs/heads/main
