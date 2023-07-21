@@ -79142,3 +79142,7 @@
 	url = https://github.com/conda-forge/pybtexris-feedstock.git
 	path = feedstocks/pybtexris
 	branch = refs/heads/main
+[submodule "lstchain"]
+	url = https://github.com/conda-forge/lstchain-feedstock.git
+	path = feedstocks/lstchain
+	branch = refs/heads/main
