@@ -79174,3 +79174,7 @@
 	url = https://github.com/conda-forge/pyqalloy-feedstock.git
 	path = feedstocks/pyqalloy
 	branch = refs/heads/main
+[submodule "pydantic-config"]
+	url = https://github.com/conda-forge/pydantic-config-feedstock.git
+	path = feedstocks/pydantic-config
+	branch = refs/heads/main
