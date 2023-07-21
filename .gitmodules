@@ -79150,3 +79150,7 @@
 	url = https://github.com/conda-forge/solara-feedstock.git
 	path = feedstocks/solara
 	branch = refs/heads/main
+[submodule "pyunormalize"]
+	url = https://github.com/conda-forge/pyunormalize-feedstock.git
+	path = feedstocks/pyunormalize
+	branch = refs/heads/main
