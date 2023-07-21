@@ -79178,3 +79178,7 @@
 	url = https://github.com/conda-forge/pydantic-config-feedstock.git
 	path = feedstocks/pydantic-config
 	branch = refs/heads/main
+[submodule "sorcha"]
+	url = https://github.com/conda-forge/sorcha-feedstock.git
+	path = feedstocks/sorcha
+	branch = refs/heads/main
