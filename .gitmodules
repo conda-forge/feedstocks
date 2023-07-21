@@ -79146,3 +79146,7 @@
 	url = https://github.com/conda-forge/lstchain-feedstock.git
 	path = feedstocks/lstchain
 	branch = refs/heads/main
+[submodule "solara"]
+	url = https://github.com/conda-forge/solara-feedstock.git
+	path = feedstocks/solara
+	branch = refs/heads/main
