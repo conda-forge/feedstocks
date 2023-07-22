@@ -79186,3 +79186,7 @@
 	url = https://github.com/conda-forge/cosmopy-feedstock.git
 	path = feedstocks/cosmopy
 	branch = refs/heads/main
+[submodule "google-re2"]
+	url = https://github.com/conda-forge/google-re2-feedstock.git
+	path = feedstocks/google-re2
+	branch = refs/heads/main
