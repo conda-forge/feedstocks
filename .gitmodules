@@ -79182,3 +79182,7 @@
 	url = https://github.com/conda-forge/sorcha-feedstock.git
 	path = feedstocks/sorcha
 	branch = refs/heads/main
+[submodule "cosmopy"]
+	url = https://github.com/conda-forge/cosmopy-feedstock.git
+	path = feedstocks/cosmopy
+	branch = refs/heads/main
