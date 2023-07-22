@@ -79194,3 +79194,7 @@
 	url = https://github.com/conda-forge/alibabacloud-tea-openapi-feedstock.git
 	path = feedstocks/alibabacloud-tea-openapi
 	branch = refs/heads/main
+[submodule "alibabacloud-tea-util"]
+	url = https://github.com/conda-forge/alibabacloud-tea-util-feedstock.git
+	path = feedstocks/alibabacloud-tea-util
+	branch = refs/heads/main
