@@ -79206,3 +79206,7 @@
 	url = https://github.com/conda-forge/alibabacloud-tea-xml-feedstock.git
 	path = feedstocks/alibabacloud-tea-xml
 	branch = refs/heads/main
+[submodule "alibabacloud-endpoint-util"]
+	url = https://github.com/conda-forge/alibabacloud-endpoint-util-feedstock.git
+	path = feedstocks/alibabacloud-endpoint-util
+	branch = refs/heads/main
