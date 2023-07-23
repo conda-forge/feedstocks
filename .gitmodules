@@ -79250,3 +79250,7 @@
 	url = https://github.com/conda-forge/zfit_interface-feedstock.git
 	path = feedstocks/zfit_interface
 	branch = refs/heads/main
+[submodule "robotframework-faker"]
+	url = https://github.com/conda-forge/robotframework-faker-feedstock.git
+	path = feedstocks/robotframework-faker
+	branch = refs/heads/main
