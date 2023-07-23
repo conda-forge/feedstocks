@@ -79238,3 +79238,7 @@
 	url = https://github.com/conda-forge/natpy-feedstock.git
 	path = feedstocks/natpy
 	branch = refs/heads/main
+[submodule "biobear"]
+	url = https://github.com/conda-forge/biobear-feedstock.git
+	path = feedstocks/biobear
+	branch = refs/heads/main
