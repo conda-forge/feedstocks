@@ -79234,3 +79234,7 @@
 	url = https://github.com/conda-forge/r-maotai-feedstock.git
 	path = feedstocks/r-maotai
 	branch = refs/heads/main
+[submodule "natpy"]
+	url = https://github.com/conda-forge/natpy-feedstock.git
+	path = feedstocks/natpy
+	branch = refs/heads/main
