@@ -79242,3 +79242,7 @@
 	url = https://github.com/conda-forge/biobear-feedstock.git
 	path = feedstocks/biobear
 	branch = refs/heads/main
+[submodule "kdepy"]
+	url = https://github.com/conda-forge/kdepy-feedstock.git
+	path = feedstocks/kdepy
+	branch = refs/heads/main
