@@ -79270,3 +79270,7 @@
 	url = https://github.com/conda-forge/pybtexnbib-feedstock.git
 	path = feedstocks/pybtexnbib
 	branch = refs/heads/main
+[submodule "mosec"]
+	url = https://github.com/conda-forge/mosec-feedstock.git
+	path = feedstocks/mosec
+	branch = refs/heads/main
