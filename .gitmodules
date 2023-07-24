@@ -79274,3 +79274,7 @@
 	url = https://github.com/conda-forge/mosec-feedstock.git
 	path = feedstocks/mosec
 	branch = refs/heads/main
+[submodule "floatcsep"]
+	url = https://github.com/conda-forge/floatcsep-feedstock.git
+	path = feedstocks/floatcsep
+	branch = refs/heads/main
