@@ -79262,3 +79262,7 @@
 	url = https://github.com/conda-forge/mknotebooks-feedstock.git
 	path = feedstocks/mknotebooks
 	branch = refs/heads/main
+[submodule "topometry"]
+	url = https://github.com/conda-forge/topometry-feedstock.git
+	path = feedstocks/topometry
+	branch = refs/heads/main
