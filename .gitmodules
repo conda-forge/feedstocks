@@ -79258,3 +79258,7 @@
 	url = https://github.com/conda-forge/pyringgw-feedstock.git
 	path = feedstocks/pyringgw
 	branch = refs/heads/main
+[submodule "mknotebooks"]
+	url = https://github.com/conda-forge/mknotebooks-feedstock.git
+	path = feedstocks/mknotebooks
+	branch = refs/heads/main
