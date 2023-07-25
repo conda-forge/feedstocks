@@ -79310,3 +79310,7 @@
 	url = https://github.com/conda-forge/fancy-collections-feedstock.git
 	path = feedstocks/fancy-collections
 	branch = refs/heads/main
+[submodule "r-rdimtools"]
+	url = https://github.com/conda-forge/r-rdimtools-feedstock.git
+	path = feedstocks/r-rdimtools
+	branch = refs/heads/main
