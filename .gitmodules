@@ -79302,3 +79302,7 @@
 	url = https://github.com/conda-forge/outlier-utils-feedstock.git
 	path = feedstocks/outlier-utils
 	branch = refs/heads/main
+[submodule "dtw"]
+	url = https://github.com/conda-forge/dtw-feedstock.git
+	path = feedstocks/dtw
+	branch = refs/heads/main
