@@ -79294,3 +79294,7 @@
 	url = https://github.com/conda-forge/greenletio-feedstock.git
 	path = feedstocks/greenletio
 	branch = refs/heads/main
+[submodule "micro_sam"]
+	url = https://github.com/conda-forge/micro_sam-feedstock.git
+	path = feedstocks/micro_sam
+	branch = refs/heads/main
