@@ -79282,3 +79282,7 @@
 	url = https://github.com/conda-forge/r-ragtop-feedstock.git
 	path = feedstocks/r-ragtop
 	branch = refs/heads/main
+[submodule "sliceable-dict"]
+	url = https://github.com/conda-forge/sliceable-dict-feedstock.git
+	path = feedstocks/sliceable-dict
+	branch = refs/heads/main
