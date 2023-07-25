@@ -79306,3 +79306,7 @@
 	url = https://github.com/conda-forge/dtw-feedstock.git
 	path = feedstocks/dtw
 	branch = refs/heads/main
+[submodule "fancy-collections"]
+	url = https://github.com/conda-forge/fancy-collections-feedstock.git
+	path = feedstocks/fancy-collections
+	branch = refs/heads/main
