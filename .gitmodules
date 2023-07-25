@@ -79298,3 +79298,7 @@
 	url = https://github.com/conda-forge/micro_sam-feedstock.git
 	path = feedstocks/micro_sam
 	branch = refs/heads/main
+[submodule "outlier-utils"]
+	url = https://github.com/conda-forge/outlier-utils-feedstock.git
+	path = feedstocks/outlier-utils
+	branch = refs/heads/main
