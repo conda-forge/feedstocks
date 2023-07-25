@@ -79290,3 +79290,7 @@
 	url = https://github.com/conda-forge/abacusutils-feedstock.git
 	path = feedstocks/abacusutils
 	branch = refs/heads/main
+[submodule "greenletio"]
+	url = https://github.com/conda-forge/greenletio-feedstock.git
+	path = feedstocks/greenletio
+	branch = refs/heads/main
