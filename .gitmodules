@@ -79278,3 +79278,7 @@
 	url = https://github.com/conda-forge/floatcsep-feedstock.git
 	path = feedstocks/floatcsep
 	branch = refs/heads/main
+[submodule "r-ragtop"]
+	url = https://github.com/conda-forge/r-ragtop-feedstock.git
+	path = feedstocks/r-ragtop
+	branch = refs/heads/main
