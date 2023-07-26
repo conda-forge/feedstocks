@@ -79314,3 +79314,7 @@
 	url = https://github.com/conda-forge/r-rdimtools-feedstock.git
 	path = feedstocks/r-rdimtools
 	branch = refs/heads/main
+[submodule "starlette-admin"]
+	url = https://github.com/conda-forge/starlette-admin-feedstock.git
+	path = feedstocks/starlette-admin
+	branch = refs/heads/main
