@@ -79330,3 +79330,7 @@
 	url = https://github.com/conda-forge/sphinx-pdj-theme-feedstock.git
 	path = feedstocks/sphinx-pdj-theme
 	branch = refs/heads/main
+[submodule "vermouth"]
+	url = https://github.com/conda-forge/vermouth-feedstock.git
+	path = feedstocks/vermouth
+	branch = refs/heads/main
