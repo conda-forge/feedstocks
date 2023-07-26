@@ -79322,3 +79322,7 @@
 	url = https://github.com/conda-forge/saqc-feedstock.git
 	path = feedstocks/saqc
 	branch = refs/heads/main
+[submodule "wsinfer-zoo"]
+	url = https://github.com/conda-forge/wsinfer-zoo-feedstock.git
+	path = feedstocks/wsinfer-zoo
+	branch = refs/heads/main
