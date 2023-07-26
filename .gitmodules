@@ -79326,3 +79326,7 @@
 	url = https://github.com/conda-forge/wsinfer-zoo-feedstock.git
 	path = feedstocks/wsinfer-zoo
 	branch = refs/heads/main
+[submodule "sphinx-pdj-theme"]
+	url = https://github.com/conda-forge/sphinx-pdj-theme-feedstock.git
+	path = feedstocks/sphinx-pdj-theme
+	branch = refs/heads/main
