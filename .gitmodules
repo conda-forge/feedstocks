@@ -79354,3 +79354,7 @@
 	url = https://github.com/conda-forge/r-allelicseries-feedstock.git
 	path = feedstocks/r-allelicseries
 	branch = refs/heads/main
+[submodule "hipace"]
+	url = https://github.com/conda-forge/hipace-feedstock.git
+	path = feedstocks/hipace
+	branch = refs/heads/main
