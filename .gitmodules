@@ -79358,3 +79358,7 @@
 	url = https://github.com/conda-forge/hipace-feedstock.git
 	path = feedstocks/hipace
 	branch = refs/heads/main
+[submodule "gdma"]
+	url = https://github.com/conda-forge/gdma-feedstock.git
+	path = feedstocks/gdma
+	branch = refs/heads/main
