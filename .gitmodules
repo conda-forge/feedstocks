@@ -79362,3 +79362,7 @@
 	url = https://github.com/conda-forge/gdma-feedstock.git
 	path = feedstocks/gdma
 	branch = refs/heads/main
+[submodule "visp"]
+	url = https://github.com/conda-forge/visp-feedstock.git
+	path = feedstocks/visp
+	branch = refs/heads/main
