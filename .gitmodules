@@ -79334,3 +79334,7 @@
 	url = https://github.com/conda-forge/vermouth-feedstock.git
 	path = feedstocks/vermouth
 	branch = refs/heads/main
+[submodule "lobsterpy"]
+	url = https://github.com/conda-forge/lobsterpy-feedstock.git
+	path = feedstocks/lobsterpy
+	branch = refs/heads/main
