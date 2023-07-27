@@ -79346,3 +79346,7 @@
 	url = https://github.com/conda-forge/pytorch_tabular-feedstock.git
 	path = feedstocks/pytorch_tabular
 	branch = refs/heads/main
+[submodule "wsinfer"]
+	url = https://github.com/conda-forge/wsinfer-feedstock.git
+	path = feedstocks/wsinfer
+	branch = refs/heads/main
