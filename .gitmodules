@@ -79366,3 +79366,7 @@
 	url = https://github.com/conda-forge/visp-feedstock.git
 	path = feedstocks/visp
 	branch = refs/heads/main
+[submodule "rosettasciio"]
+	url = https://github.com/conda-forge/rosettasciio-feedstock.git
+	path = feedstocks/rosettasciio
+	branch = refs/heads/main
