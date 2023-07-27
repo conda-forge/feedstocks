@@ -79342,3 +79342,7 @@
 	url = https://github.com/conda-forge/auto_rxn-feedstock.git
 	path = feedstocks/auto_rxn
 	branch = refs/heads/main
+[submodule "pytorch_tabular"]
+	url = https://github.com/conda-forge/pytorch_tabular-feedstock.git
+	path = feedstocks/pytorch_tabular
+	branch = refs/heads/main
