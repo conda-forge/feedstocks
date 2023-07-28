@@ -79370,3 +79370,7 @@
 	url = https://github.com/conda-forge/rosettasciio-feedstock.git
 	path = feedstocks/rosettasciio
 	branch = refs/heads/main
+[submodule "ebcdic-parser"]
+	url = https://github.com/conda-forge/ebcdic-parser-feedstock.git
+	path = feedstocks/ebcdic-parser
+	branch = refs/heads/main
