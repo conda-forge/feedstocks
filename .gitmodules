@@ -79378,3 +79378,7 @@
 	url = https://github.com/conda-forge/s1reader-feedstock.git
 	path = feedstocks/s1reader
 	branch = refs/heads/main
+[submodule "rerun-sdk"]
+	url = https://github.com/conda-forge/rerun-sdk-feedstock.git
+	path = feedstocks/rerun-sdk
+	branch = refs/heads/main
