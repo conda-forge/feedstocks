@@ -79374,3 +79374,7 @@
 	url = https://github.com/conda-forge/ebcdic-parser-feedstock.git
 	path = feedstocks/ebcdic-parser
 	branch = refs/heads/main
+[submodule "s1reader"]
+	url = https://github.com/conda-forge/s1reader-feedstock.git
+	path = feedstocks/s1reader
+	branch = refs/heads/main
