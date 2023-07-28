@@ -79386,3 +79386,7 @@
 	url = https://github.com/conda-forge/mordredcommunity-feedstock.git
 	path = feedstocks/mordredcommunity
 	branch = refs/heads/main
+[submodule "materials-learning-algorithms"]
+	url = https://github.com/conda-forge/materials-learning-algorithms-feedstock.git
+	path = feedstocks/materials-learning-algorithms
+	branch = refs/heads/main
