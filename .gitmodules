@@ -79402,3 +79402,7 @@
 	url = https://github.com/conda-forge/asphalt-sqlalchemy-feedstock.git
 	path = feedstocks/asphalt-sqlalchemy
 	branch = refs/heads/main
+[submodule "openlineage-sql"]
+	url = https://github.com/conda-forge/openlineage-sql-feedstock.git
+	path = feedstocks/openlineage-sql
+	branch = refs/heads/main
