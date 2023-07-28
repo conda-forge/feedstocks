@@ -79398,3 +79398,7 @@
 	url = https://github.com/conda-forge/anchor-exp-feedstock.git
 	path = feedstocks/anchor-exp
 	branch = refs/heads/main
+[submodule "asphalt-sqlalchemy"]
+	url = https://github.com/conda-forge/asphalt-sqlalchemy-feedstock.git
+	path = feedstocks/asphalt-sqlalchemy
+	branch = refs/heads/main
