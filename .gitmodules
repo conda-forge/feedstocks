@@ -79406,3 +79406,7 @@
 	url = https://github.com/conda-forge/openlineage-sql-feedstock.git
 	path = feedstocks/openlineage-sql
 	branch = refs/heads/main
+[submodule "is2view"]
+	url = https://github.com/conda-forge/is2view-feedstock.git
+	path = feedstocks/is2view
+	branch = refs/heads/main
