@@ -79414,3 +79414,7 @@
 	url = https://github.com/conda-forge/html5tagger-feedstock.git
 	path = feedstocks/html5tagger
 	branch = refs/heads/main
+[submodule "pyfda"]
+	url = https://github.com/conda-forge/pyfda-feedstock.git
+	path = feedstocks/pyfda
+	branch = refs/heads/main
