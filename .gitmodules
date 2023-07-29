@@ -79418,3 +79418,7 @@
 	url = https://github.com/conda-forge/pyfda-feedstock.git
 	path = feedstocks/pyfda
 	branch = refs/heads/main
+[submodule "openlineage-integration-common"]
+	url = https://github.com/conda-forge/openlineage-integration-common-feedstock.git
+	path = feedstocks/openlineage-integration-common
+	branch = refs/heads/main
