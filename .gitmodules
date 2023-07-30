@@ -79470,3 +79470,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-sqs-feedstock.git
 	path = feedstocks/aws-cdk.aws-sqs
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-cloudfront"]
+	url = https://github.com/conda-forge/aws-cdk.aws-cloudfront-feedstock.git
+	path = feedstocks/aws-cdk.aws-cloudfront
+	branch = refs/heads/main
