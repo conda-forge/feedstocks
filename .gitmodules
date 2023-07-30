@@ -79426,3 +79426,7 @@
 	url = https://github.com/conda-forge/tracerite-feedstock.git
 	path = feedstocks/tracerite
 	branch = refs/heads/main
+[submodule "grunnur"]
+	url = https://github.com/conda-forge/grunnur-feedstock.git
+	path = feedstocks/grunnur
+	branch = refs/heads/main
