@@ -79558,3 +79558,7 @@
 	url = https://github.com/conda-forge/aws-cdk.custom-resources-feedstock.git
 	path = feedstocks/aws-cdk.custom-resources
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-autoscaling-common"]
+	url = https://github.com/conda-forge/aws-cdk.aws-autoscaling-common-feedstock.git
+	path = feedstocks/aws-cdk.aws-autoscaling-common
+	branch = refs/heads/main
