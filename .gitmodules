@@ -79526,3 +79526,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-stepfunctions-feedstock.git
 	path = feedstocks/aws-cdk.aws-stepfunctions
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-cognito"]
+	url = https://github.com/conda-forge/aws-cdk.aws-cognito-feedstock.git
+	path = feedstocks/aws-cdk.aws-cognito
+	branch = refs/heads/main
