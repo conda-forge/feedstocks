@@ -79602,3 +79602,7 @@
 	url = https://github.com/conda-forge/aws-cdk.core-feedstock.git
 	path = feedstocks/aws-cdk.core
 	branch = refs/heads/main
+[submodule "aws-cdk.cx-api"]
+	url = https://github.com/conda-forge/aws-cdk.cx-api-feedstock.git
+	path = feedstocks/aws-cdk.cx-api
+	branch = refs/heads/main
