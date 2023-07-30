@@ -79614,3 +79614,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-cloudwatch-feedstock.git
 	path = feedstocks/aws-cdk.aws-cloudwatch
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-lambda"]
+	url = https://github.com/conda-forge/aws-cdk.aws-lambda-feedstock.git
+	path = feedstocks/aws-cdk.aws-lambda
+	branch = refs/heads/main
