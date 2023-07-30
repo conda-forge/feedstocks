@@ -79466,3 +79466,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-ecs-feedstock.git
 	path = feedstocks/aws-cdk.aws-ecs
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-sqs"]
+	url = https://github.com/conda-forge/aws-cdk.aws-sqs-feedstock.git
+	path = feedstocks/aws-cdk.aws-sqs
+	branch = refs/heads/main
