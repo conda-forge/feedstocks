@@ -79642,3 +79642,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-sns-feedstock.git
 	path = feedstocks/aws-cdk.aws-sns
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-codeguruprofiler"]
+	url = https://github.com/conda-forge/aws-cdk.aws-codeguruprofiler-feedstock.git
+	path = feedstocks/aws-cdk.aws-codeguruprofiler
+	branch = refs/heads/main
