@@ -79506,3 +79506,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-codestarnotifications-feedstock.git
 	path = feedstocks/aws-cdk.aws-codestarnotifications
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-ecr"]
+	url = https://github.com/conda-forge/aws-cdk.aws-ecr-feedstock.git
+	path = feedstocks/aws-cdk.aws-ecr
+	branch = refs/heads/main
