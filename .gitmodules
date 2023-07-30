@@ -79450,3 +79450,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-ecr-assets-feedstock.git
 	path = feedstocks/aws-cdk.aws-ecr-assets
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-elasticloadbalancingv2"]
+	url = https://github.com/conda-forge/aws-cdk.aws-elasticloadbalancingv2-feedstock.git
+	path = feedstocks/aws-cdk.aws-elasticloadbalancingv2
+	branch = refs/heads/main
