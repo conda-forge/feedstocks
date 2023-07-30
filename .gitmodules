@@ -79498,3 +79498,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-efs-feedstock.git
 	path = feedstocks/aws-cdk.aws-efs
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-imagebuilder"]
+	url = https://github.com/conda-forge/aws-cdk.aws-imagebuilder-feedstock.git
+	path = feedstocks/aws-cdk.aws-imagebuilder
+	branch = refs/heads/main
