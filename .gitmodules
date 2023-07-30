@@ -79650,3 +79650,7 @@
 	url = https://github.com/conda-forge/aws-cdk.region-info-feedstock.git
 	path = feedstocks/aws-cdk.region-info
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-logs"]
+	url = https://github.com/conda-forge/aws-cdk.aws-logs-feedstock.git
+	path = feedstocks/aws-cdk.aws-logs
+	branch = refs/heads/main
