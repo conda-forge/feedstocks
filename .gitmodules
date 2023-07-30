@@ -79442,3 +79442,7 @@
 	url = https://github.com/conda-forge/aws-cdk.assets-feedstock.git
 	path = feedstocks/aws-cdk.assets
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-cloudformation"]
+	url = https://github.com/conda-forge/aws-cdk.aws-cloudformation-feedstock.git
+	path = feedstocks/aws-cdk.aws-cloudformation
+	branch = refs/heads/main
