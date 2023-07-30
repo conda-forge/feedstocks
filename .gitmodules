@@ -79522,3 +79522,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-secretsmanager-feedstock.git
 	path = feedstocks/aws-cdk.aws-secretsmanager
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-stepfunctions"]
+	url = https://github.com/conda-forge/aws-cdk.aws-stepfunctions-feedstock.git
+	path = feedstocks/aws-cdk.aws-stepfunctions
+	branch = refs/heads/main
