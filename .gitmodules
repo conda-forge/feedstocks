@@ -79586,3 +79586,7 @@
 	url = https://github.com/conda-forge/constructs-feedstock.git
 	path = feedstocks/constructs
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-fsx"]
+	url = https://github.com/conda-forge/aws-cdk.aws-fsx-feedstock.git
+	path = feedstocks/aws-cdk.aws-fsx
+	branch = refs/heads/main
