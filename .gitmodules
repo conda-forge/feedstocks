@@ -79482,3 +79482,7 @@
 	url = https://github.com/conda-forge/polarify-feedstock.git
 	path = feedstocks/polarify
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-kinesis"]
+	url = https://github.com/conda-forge/aws-cdk.aws-kinesis-feedstock.git
+	path = feedstocks/aws-cdk.aws-kinesis
+	branch = refs/heads/main
