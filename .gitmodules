@@ -79606,3 +79606,7 @@
 	url = https://github.com/conda-forge/aws-cdk.cx-api-feedstock.git
 	path = feedstocks/aws-cdk.cx-api
 	branch = refs/heads/main
+[submodule "multiurl"]
+	url = https://github.com/conda-forge/multiurl-feedstock.git
+	path = feedstocks/multiurl
+	branch = refs/heads/main
