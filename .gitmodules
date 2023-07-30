@@ -79454,3 +79454,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-elasticloadbalancingv2-feedstock.git
 	path = feedstocks/aws-cdk.aws-elasticloadbalancingv2
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-certificatemanager"]
+	url = https://github.com/conda-forge/aws-cdk.aws-certificatemanager-feedstock.git
+	path = feedstocks/aws-cdk.aws-certificatemanager
+	branch = refs/heads/main
