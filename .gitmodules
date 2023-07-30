@@ -79574,3 +79574,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-batch-feedstock.git
 	path = feedstocks/aws-cdk.aws-batch
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-signer"]
+	url = https://github.com/conda-forge/aws-cdk.aws-signer-feedstock.git
+	path = feedstocks/aws-cdk.aws-signer
+	branch = refs/heads/main
