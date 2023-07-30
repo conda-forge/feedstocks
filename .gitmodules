@@ -79546,3 +79546,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-s3-feedstock.git
 	path = feedstocks/aws-cdk.aws-s3
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-dynamodb"]
+	url = https://github.com/conda-forge/aws-cdk.aws-dynamodb-feedstock.git
+	path = feedstocks/aws-cdk.aws-dynamodb
+	branch = refs/heads/main
