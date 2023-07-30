@@ -79438,3 +79438,7 @@
 	url = https://github.com/conda-forge/gwemopt-feedstock.git
 	path = feedstocks/gwemopt
 	branch = refs/heads/main
+[submodule "aws-cdk.assets"]
+	url = https://github.com/conda-forge/aws-cdk.assets-feedstock.git
+	path = feedstocks/aws-cdk.assets
+	branch = refs/heads/main
