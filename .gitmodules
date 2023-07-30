@@ -79434,3 +79434,7 @@
 	url = https://github.com/conda-forge/openlineage-dbt-feedstock.git
 	path = feedstocks/openlineage-dbt
 	branch = refs/heads/main
+[submodule "gwemopt"]
+	url = https://github.com/conda-forge/gwemopt-feedstock.git
+	path = feedstocks/gwemopt
+	branch = refs/heads/main
