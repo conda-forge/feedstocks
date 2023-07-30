@@ -79462,3 +79462,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-codecommit-feedstock.git
 	path = feedstocks/aws-cdk.aws-codecommit
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-ecs"]
+	url = https://github.com/conda-forge/aws-cdk.aws-ecs-feedstock.git
+	path = feedstocks/aws-cdk.aws-ecs
+	branch = refs/heads/main
