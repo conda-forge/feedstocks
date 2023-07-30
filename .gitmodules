@@ -79582,3 +79582,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-route53-feedstock.git
 	path = feedstocks/aws-cdk.aws-route53
 	branch = refs/heads/main
+[submodule "constructs"]
+	url = https://github.com/conda-forge/constructs-feedstock.git
+	path = feedstocks/constructs
+	branch = refs/heads/main
