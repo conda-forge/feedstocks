@@ -79570,3 +79570,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-apigateway-feedstock.git
 	path = feedstocks/aws-cdk.aws-apigateway
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-batch"]
+	url = https://github.com/conda-forge/aws-cdk.aws-batch-feedstock.git
+	path = feedstocks/aws-cdk.aws-batch
+	branch = refs/heads/main
