@@ -79622,3 +79622,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-elasticloadbalancing-feedstock.git
 	path = feedstocks/aws-cdk.aws-elasticloadbalancing
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-s3-assets"]
+	url = https://github.com/conda-forge/aws-cdk.aws-s3-assets-feedstock.git
+	path = feedstocks/aws-cdk.aws-s3-assets
+	branch = refs/heads/main
