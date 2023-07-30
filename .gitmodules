@@ -79594,3 +79594,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-ssm-feedstock.git
 	path = feedstocks/aws-cdk.aws-ssm
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-acmpca"]
+	url = https://github.com/conda-forge/aws-cdk.aws-acmpca-feedstock.git
+	path = feedstocks/aws-cdk.aws-acmpca
+	branch = refs/heads/main
