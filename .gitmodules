@@ -79618,3 +79618,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-lambda-feedstock.git
 	path = feedstocks/aws-cdk.aws-lambda
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-elasticloadbalancing"]
+	url = https://github.com/conda-forge/aws-cdk.aws-elasticloadbalancing-feedstock.git
+	path = feedstocks/aws-cdk.aws-elasticloadbalancing
+	branch = refs/heads/main
