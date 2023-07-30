@@ -79534,3 +79534,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-ec2-feedstock.git
 	path = feedstocks/aws-cdk.aws-ec2
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-iam"]
+	url = https://github.com/conda-forge/aws-cdk.aws-iam-feedstock.git
+	path = feedstocks/aws-cdk.aws-iam
+	branch = refs/heads/main
