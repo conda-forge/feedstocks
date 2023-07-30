@@ -79486,3 +79486,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-kinesis-feedstock.git
 	path = feedstocks/aws-cdk.aws-kinesis
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-applicationautoscaling"]
+	url = https://github.com/conda-forge/aws-cdk.aws-applicationautoscaling-feedstock.git
+	path = feedstocks/aws-cdk.aws-applicationautoscaling
+	branch = refs/heads/main
