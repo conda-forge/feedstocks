@@ -79610,3 +79610,7 @@
 	url = https://github.com/conda-forge/multiurl-feedstock.git
 	path = feedstocks/multiurl
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-cloudwatch"]
+	url = https://github.com/conda-forge/aws-cdk.aws-cloudwatch-feedstock.git
+	path = feedstocks/aws-cdk.aws-cloudwatch
+	branch = refs/heads/main
