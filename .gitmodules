@@ -79422,3 +79422,7 @@
 	url = https://github.com/conda-forge/openlineage-integration-common-feedstock.git
 	path = feedstocks/openlineage-integration-common
 	branch = refs/heads/main
+[submodule "tracerite"]
+	url = https://github.com/conda-forge/tracerite-feedstock.git
+	path = feedstocks/tracerite
+	branch = refs/heads/main
