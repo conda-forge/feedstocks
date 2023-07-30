@@ -79494,3 +79494,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-autoscaling-hooktargets-feedstock.git
 	path = feedstocks/aws-cdk.aws-autoscaling-hooktargets
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-efs"]
+	url = https://github.com/conda-forge/aws-cdk.aws-efs-feedstock.git
+	path = feedstocks/aws-cdk.aws-efs
+	branch = refs/heads/main
