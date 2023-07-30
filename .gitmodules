@@ -79626,3 +79626,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-s3-assets-feedstock.git
 	path = feedstocks/aws-cdk.aws-s3-assets
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-servicediscovery"]
+	url = https://github.com/conda-forge/aws-cdk.aws-servicediscovery-feedstock.git
+	path = feedstocks/aws-cdk.aws-servicediscovery
+	branch = refs/heads/main
