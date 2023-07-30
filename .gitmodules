@@ -79530,3 +79530,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-cognito-feedstock.git
 	path = feedstocks/aws-cdk.aws-cognito
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-ec2"]
+	url = https://github.com/conda-forge/aws-cdk.aws-ec2-feedstock.git
+	path = feedstocks/aws-cdk.aws-ec2
+	branch = refs/heads/main
