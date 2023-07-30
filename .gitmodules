@@ -79590,3 +79590,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-fsx-feedstock.git
 	path = feedstocks/aws-cdk.aws-fsx
 	branch = refs/heads/main
+[submodule "aws-cdk.aws-ssm"]
+	url = https://github.com/conda-forge/aws-cdk.aws-ssm-feedstock.git
+	path = feedstocks/aws-cdk.aws-ssm
+	branch = refs/heads/main
