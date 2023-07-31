@@ -79662,3 +79662,7 @@
 	url = https://github.com/conda-forge/mystmd-feedstock.git
 	path = feedstocks/mystmd
 	branch = refs/heads/main
+[submodule "earthformer"]
+	url = https://github.com/conda-forge/earthformer-feedstock.git
+	path = feedstocks/earthformer
+	branch = refs/heads/main
