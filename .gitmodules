@@ -79670,3 +79670,7 @@
 	url = https://github.com/conda-forge/html-sanitizer-feedstock.git
 	path = feedstocks/html-sanitizer
 	branch = refs/heads/main
+[submodule "abacus"]
+	url = https://github.com/conda-forge/abacus-feedstock.git
+	path = feedstocks/abacus
+	branch = refs/heads/main
