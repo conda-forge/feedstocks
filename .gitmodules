@@ -79666,3 +79666,7 @@
 	url = https://github.com/conda-forge/earthformer-feedstock.git
 	path = feedstocks/earthformer
 	branch = refs/heads/main
+[submodule "html-sanitizer"]
+	url = https://github.com/conda-forge/html-sanitizer-feedstock.git
+	path = feedstocks/html-sanitizer
+	branch = refs/heads/main
