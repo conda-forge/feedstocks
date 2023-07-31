@@ -79658,3 +79658,7 @@
 	url = https://github.com/conda-forge/aws-cdk.aws-events-feedstock.git
 	path = feedstocks/aws-cdk.aws-events
 	branch = refs/heads/main
+[submodule "mystmd"]
+	url = https://github.com/conda-forge/mystmd-feedstock.git
+	path = feedstocks/mystmd
+	branch = refs/heads/main
