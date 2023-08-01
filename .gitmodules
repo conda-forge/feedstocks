@@ -79706,3 +79706,7 @@
 	url = https://github.com/conda-forge/pyhams-feedstock.git
 	path = feedstocks/pyhams
 	branch = refs/heads/main
+[submodule "napari-assistant-plugin-generator"]
+	url = https://github.com/conda-forge/napari-assistant-plugin-generator-feedstock.git
+	path = feedstocks/napari-assistant-plugin-generator
+	branch = refs/heads/main
