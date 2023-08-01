@@ -79690,3 +79690,7 @@
 	url = https://github.com/conda-forge/eosets-feedstock.git
 	path = feedstocks/eosets
 	branch = refs/heads/main
+[submodule "earthnet"]
+	url = https://github.com/conda-forge/earthnet-feedstock.git
+	path = feedstocks/earthnet
+	branch = refs/heads/main
