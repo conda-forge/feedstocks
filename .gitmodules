@@ -79718,3 +79718,7 @@
 	url = https://github.com/conda-forge/in-silico-fate-mapping-feedstock.git
 	path = feedstocks/in-silico-fate-mapping
 	branch = refs/heads/main
+[submodule "napari-correct-drift"]
+	url = https://github.com/conda-forge/napari-correct-drift-feedstock.git
+	path = feedstocks/napari-correct-drift
+	branch = refs/heads/main
