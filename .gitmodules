@@ -79702,3 +79702,7 @@
 	url = https://github.com/conda-forge/r-mixlm-feedstock.git
 	path = feedstocks/r-mixlm
 	branch = refs/heads/main
+[submodule "pyhams"]
+	url = https://github.com/conda-forge/pyhams-feedstock.git
+	path = feedstocks/pyhams
+	branch = refs/heads/main
