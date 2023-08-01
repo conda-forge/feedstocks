@@ -79710,3 +79710,7 @@
 	url = https://github.com/conda-forge/napari-assistant-plugin-generator-feedstock.git
 	path = feedstocks/napari-assistant-plugin-generator
 	branch = refs/heads/main
+[submodule "pyvisgraph"]
+	url = https://github.com/conda-forge/pyvisgraph-feedstock.git
+	path = feedstocks/pyvisgraph
+	branch = refs/heads/main
