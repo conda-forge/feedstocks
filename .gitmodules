@@ -79694,3 +79694,7 @@
 	url = https://github.com/conda-forge/earthnet-feedstock.git
 	path = feedstocks/earthnet
 	branch = refs/heads/main
+[submodule "r-ssbtools"]
+	url = https://github.com/conda-forge/r-ssbtools-feedstock.git
+	path = feedstocks/r-ssbtools
+	branch = refs/heads/main
