@@ -79722,3 +79722,7 @@
 	url = https://github.com/conda-forge/napari-correct-drift-feedstock.git
 	path = feedstocks/napari-correct-drift
 	branch = refs/heads/main
+[submodule "napari-napari"]
+	url = https://github.com/conda-forge/napari-napari-feedstock.git
+	path = feedstocks/napari-napari
+	branch = refs/heads/main
