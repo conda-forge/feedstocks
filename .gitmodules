@@ -79678,3 +79678,7 @@
 	url = https://github.com/conda-forge/ambit-feedstock.git
 	path = feedstocks/ambit
 	branch = refs/heads/main
+[submodule "moorpy"]
+	url = https://github.com/conda-forge/moorpy-feedstock.git
+	path = feedstocks/moorpy
+	branch = refs/heads/main
