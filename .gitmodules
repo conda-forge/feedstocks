@@ -79698,3 +79698,7 @@
 	url = https://github.com/conda-forge/r-ssbtools-feedstock.git
 	path = feedstocks/r-ssbtools
 	branch = refs/heads/main
+[submodule "r-mixlm"]
+	url = https://github.com/conda-forge/r-mixlm-feedstock.git
+	path = feedstocks/r-mixlm
+	branch = refs/heads/main
