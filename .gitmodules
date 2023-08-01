@@ -79686,3 +79686,7 @@
 	url = https://github.com/conda-forge/dbt-semantic-interfaces-feedstock.git
 	path = feedstocks/dbt-semantic-interfaces
 	branch = refs/heads/main
+[submodule "eosets"]
+	url = https://github.com/conda-forge/eosets-feedstock.git
+	path = feedstocks/eosets
+	branch = refs/heads/main
