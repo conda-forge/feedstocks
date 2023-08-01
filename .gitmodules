@@ -79682,3 +79682,7 @@
 	url = https://github.com/conda-forge/moorpy-feedstock.git
 	path = feedstocks/moorpy
 	branch = refs/heads/main
+[submodule "dbt-semantic-interfaces"]
+	url = https://github.com/conda-forge/dbt-semantic-interfaces-feedstock.git
+	path = feedstocks/dbt-semantic-interfaces
+	branch = refs/heads/main
