@@ -79778,3 +79778,7 @@
 	url = https://github.com/conda-forge/pydantic-compat-feedstock.git
 	path = feedstocks/pydantic-compat
 	branch = refs/heads/main
+[submodule "argparse-dataclass"]
+	url = https://github.com/conda-forge/argparse-dataclass-feedstock.git
+	path = feedstocks/argparse-dataclass
+	branch = refs/heads/main
