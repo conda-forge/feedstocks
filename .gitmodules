@@ -79790,3 +79790,7 @@
 	url = https://github.com/conda-forge/napari-geoscience-viewer-feedstock.git
 	path = feedstocks/napari-geoscience-viewer
 	branch = refs/heads/main
+[submodule "carterbox-torch-radon"]
+	url = https://github.com/conda-forge/carterbox-torch-radon-feedstock.git
+	path = feedstocks/carterbox-torch-radon
+	branch = refs/heads/main
