@@ -79754,3 +79754,7 @@
 	url = https://github.com/conda-forge/tootapari-feedstock.git
 	path = feedstocks/tootapari
 	branch = refs/heads/main
+[submodule "xarray-dataclasses"]
+	url = https://github.com/conda-forge/xarray-dataclasses-feedstock.git
+	path = feedstocks/xarray-dataclasses
+	branch = refs/heads/main
