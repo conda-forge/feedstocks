@@ -79766,3 +79766,7 @@
 	url = https://github.com/conda-forge/eofetch-feedstock.git
 	path = feedstocks/eofetch
 	branch = refs/heads/main
+[submodule "yosys"]
+	url = https://github.com/conda-forge/yosys-feedstock.git
+	path = feedstocks/yosys
+	branch = refs/heads/main
