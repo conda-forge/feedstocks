@@ -79782,3 +79782,7 @@
 	url = https://github.com/conda-forge/argparse-dataclass-feedstock.git
 	path = feedstocks/argparse-dataclass
 	branch = refs/heads/main
+[submodule "ocsmesh"]
+	url = https://github.com/conda-forge/ocsmesh-feedstock.git
+	path = feedstocks/ocsmesh
+	branch = refs/heads/main
