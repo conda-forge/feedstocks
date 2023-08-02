@@ -79730,3 +79730,7 @@
 	url = https://github.com/conda-forge/napari-graph-feedstock.git
 	path = feedstocks/napari-graph
 	branch = refs/heads/main
+[submodule "acquifer"]
+	url = https://github.com/conda-forge/acquifer-feedstock.git
+	path = feedstocks/acquifer
+	branch = refs/heads/main
