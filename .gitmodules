@@ -79726,3 +79726,7 @@
 	url = https://github.com/conda-forge/napari-napari-feedstock.git
 	path = feedstocks/napari-napari
 	branch = refs/heads/main
+[submodule "napari-graph"]
+	url = https://github.com/conda-forge/napari-graph-feedstock.git
+	path = feedstocks/napari-graph
+	branch = refs/heads/main
