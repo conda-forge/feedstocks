@@ -79742,3 +79742,7 @@
 	url = https://github.com/conda-forge/xplugin-feedstock.git
 	path = feedstocks/xplugin
 	branch = refs/heads/main
+[submodule "napari-vedo-bridge"]
+	url = https://github.com/conda-forge/napari-vedo-bridge-feedstock.git
+	path = feedstocks/napari-vedo-bridge
+	branch = refs/heads/main
