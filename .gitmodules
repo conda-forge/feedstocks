@@ -79774,3 +79774,7 @@
 	url = https://github.com/conda-forge/lib3to6-feedstock.git
 	path = feedstocks/lib3to6
 	branch = refs/heads/main
+[submodule "pydantic-compat"]
+	url = https://github.com/conda-forge/pydantic-compat-feedstock.git
+	path = feedstocks/pydantic-compat
+	branch = refs/heads/main
