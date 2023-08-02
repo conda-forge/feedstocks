@@ -79770,3 +79770,7 @@
 	url = https://github.com/conda-forge/yosys-feedstock.git
 	path = feedstocks/yosys
 	branch = refs/heads/main
+[submodule "lib3to6"]
+	url = https://github.com/conda-forge/lib3to6-feedstock.git
+	path = feedstocks/lib3to6
+	branch = refs/heads/main
