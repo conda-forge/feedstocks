@@ -79750,3 +79750,7 @@
 	url = https://github.com/conda-forge/napari-mclabel-feedstock.git
 	path = feedstocks/napari-mclabel
 	branch = refs/heads/main
+[submodule "tootapari"]
+	url = https://github.com/conda-forge/tootapari-feedstock.git
+	path = feedstocks/tootapari
+	branch = refs/heads/main
