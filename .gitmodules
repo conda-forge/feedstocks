@@ -79746,3 +79746,7 @@
 	url = https://github.com/conda-forge/napari-vedo-bridge-feedstock.git
 	path = feedstocks/napari-vedo-bridge
 	branch = refs/heads/main
+[submodule "napari-mclabel"]
+	url = https://github.com/conda-forge/napari-mclabel-feedstock.git
+	path = feedstocks/napari-mclabel
+	branch = refs/heads/main
