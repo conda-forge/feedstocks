@@ -79814,3 +79814,7 @@
 	url = https://github.com/conda-forge/varys-feedstock.git
 	path = feedstocks/varys
 	branch = refs/heads/main
+[submodule "sigfig"]
+	url = https://github.com/conda-forge/sigfig-feedstock.git
+	path = feedstocks/sigfig
+	branch = refs/heads/main
