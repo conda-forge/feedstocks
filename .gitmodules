@@ -79846,3 +79846,7 @@
 	url = https://github.com/conda-forge/r-multiblock-feedstock.git
 	path = feedstocks/r-multiblock
 	branch = refs/heads/main
+[submodule "fontpens"]
+	url = https://github.com/conda-forge/fontpens-feedstock.git
+	path = feedstocks/fontpens
+	branch = refs/heads/main
