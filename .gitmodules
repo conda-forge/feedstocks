@@ -79798,3 +79798,7 @@
 	url = https://github.com/conda-forge/gorilla-cli-feedstock.git
 	path = feedstocks/gorilla-cli
 	branch = refs/heads/main
+[submodule "qt-command-palette"]
+	url = https://github.com/conda-forge/qt-command-palette-feedstock.git
+	path = feedstocks/qt-command-palette
+	branch = refs/heads/main
