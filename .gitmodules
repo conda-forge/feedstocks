@@ -79810,3 +79810,7 @@
 	url = https://github.com/conda-forge/epitools-feedstock.git
 	path = feedstocks/epitools
 	branch = refs/heads/main
+[submodule "varys"]
+	url = https://github.com/conda-forge/varys-feedstock.git
+	path = feedstocks/varys
+	branch = refs/heads/main
