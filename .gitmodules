@@ -79850,3 +79850,7 @@
 	url = https://github.com/conda-forge/fontpens-feedstock.git
 	path = feedstocks/fontpens
 	branch = refs/heads/main
+[submodule "easing-functions"]
+	url = https://github.com/conda-forge/easing-functions-feedstock.git
+	path = feedstocks/easing-functions
+	branch = refs/heads/main
