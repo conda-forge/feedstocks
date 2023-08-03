@@ -79818,3 +79818,7 @@
 	url = https://github.com/conda-forge/sigfig-feedstock.git
 	path = feedstocks/sigfig
 	branch = refs/heads/main
+[submodule "acquifer-napari"]
+	url = https://github.com/conda-forge/acquifer-napari-feedstock.git
+	path = feedstocks/acquifer-napari
+	branch = refs/heads/main
