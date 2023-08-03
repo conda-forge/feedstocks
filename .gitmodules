@@ -79806,3 +79806,7 @@
 	url = https://github.com/conda-forge/spatial-image-feedstock.git
 	path = feedstocks/spatial-image
 	branch = refs/heads/main
+[submodule "epitools"]
+	url = https://github.com/conda-forge/epitools-feedstock.git
+	path = feedstocks/epitools
+	branch = refs/heads/main
