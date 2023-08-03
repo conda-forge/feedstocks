@@ -79802,3 +79802,7 @@
 	url = https://github.com/conda-forge/qt-command-palette-feedstock.git
 	path = feedstocks/qt-command-palette
 	branch = refs/heads/main
+[submodule "spatial-image"]
+	url = https://github.com/conda-forge/spatial-image-feedstock.git
+	path = feedstocks/spatial-image
+	branch = refs/heads/main
