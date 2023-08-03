@@ -79822,3 +79822,7 @@
 	url = https://github.com/conda-forge/acquifer-napari-feedstock.git
 	path = feedstocks/acquifer-napari
 	branch = refs/heads/main
+[submodule "pfsspy"]
+	url = https://github.com/conda-forge/pfsspy-feedstock.git
+	path = feedstocks/pfsspy
+	branch = refs/heads/main
