@@ -79794,3 +79794,7 @@
 	url = https://github.com/conda-forge/carterbox-torch-radon-feedstock.git
 	path = feedstocks/carterbox-torch-radon
 	branch = refs/heads/main
+[submodule "gorilla-cli"]
+	url = https://github.com/conda-forge/gorilla-cli-feedstock.git
+	path = feedstocks/gorilla-cli
+	branch = refs/heads/main
