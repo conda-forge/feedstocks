@@ -79838,3 +79838,7 @@
 	url = https://github.com/conda-forge/dotdict-feedstock.git
 	path = feedstocks/dotdict
 	branch = refs/heads/main
+[submodule "blackrenderer"]
+	url = https://github.com/conda-forge/blackrenderer-feedstock.git
+	path = feedstocks/blackrenderer
+	branch = refs/heads/main
