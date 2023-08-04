@@ -79866,3 +79866,7 @@
 	url = https://github.com/conda-forge/b3denv-feedstock.git
 	path = feedstocks/b3denv
 	branch = refs/heads/main
+[submodule "streamtracer"]
+	url = https://github.com/conda-forge/streamtracer-feedstock.git
+	path = feedstocks/streamtracer
+	branch = refs/heads/main
