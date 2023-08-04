@@ -79870,3 +79870,7 @@
 	url = https://github.com/conda-forge/streamtracer-feedstock.git
 	path = feedstocks/streamtracer
 	branch = refs/heads/main
+[submodule "chemcoord"]
+	url = https://github.com/conda-forge/chemcoord-feedstock.git
+	path = feedstocks/chemcoord
+	branch = refs/heads/main
