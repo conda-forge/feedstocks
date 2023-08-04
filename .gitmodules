@@ -79862,3 +79862,7 @@
 	url = https://github.com/conda-forge/cwlref-runner-feedstock.git
 	path = feedstocks/cwlref-runner
 	branch = refs/heads/main
+[submodule "b3denv"]
+	url = https://github.com/conda-forge/b3denv-feedstock.git
+	path = feedstocks/b3denv
+	branch = refs/heads/main
