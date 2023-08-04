@@ -79858,3 +79858,7 @@
 	url = https://github.com/conda-forge/fps-auth-jupyterhub-feedstock.git
 	path = feedstocks/fps-auth-jupyterhub
 	branch = refs/heads/main
+[submodule "cwlref-runner"]
+	url = https://github.com/conda-forge/cwlref-runner-feedstock.git
+	path = feedstocks/cwlref-runner
+	branch = refs/heads/main
