@@ -79906,3 +79906,7 @@
 	url = https://github.com/conda-forge/django-contrib-comments-feedstock.git
 	path = feedstocks/django-contrib-comments
 	branch = refs/heads/main
+[submodule "creosote"]
+	url = https://github.com/conda-forge/creosote-feedstock.git
+	path = feedstocks/creosote
+	branch = refs/heads/main
