@@ -79902,3 +79902,7 @@
 	url = https://github.com/conda-forge/coldtype-feedstock.git
 	path = feedstocks/coldtype
 	branch = refs/heads/main
+[submodule "django-contrib-comments"]
+	url = https://github.com/conda-forge/django-contrib-comments-feedstock.git
+	path = feedstocks/django-contrib-comments
+	branch = refs/heads/main
