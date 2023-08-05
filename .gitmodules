@@ -79890,3 +79890,7 @@
 	url = https://github.com/conda-forge/survey-feedstock.git
 	path = feedstocks/survey
 	branch = refs/heads/main
+[submodule "pyserde"]
+	url = https://github.com/conda-forge/pyserde-feedstock.git
+	path = feedstocks/pyserde
+	branch = refs/heads/main
