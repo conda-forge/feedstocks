@@ -79882,3 +79882,7 @@
 	url = https://github.com/conda-forge/microvenv-feedstock.git
 	path = feedstocks/microvenv
 	branch = refs/heads/main
+[submodule "compass"]
+	url = https://github.com/conda-forge/compass-feedstock.git
+	path = feedstocks/compass
+	branch = refs/heads/main
