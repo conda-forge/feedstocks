@@ -79886,3 +79886,7 @@
 	url = https://github.com/conda-forge/compass-feedstock.git
 	path = feedstocks/compass
 	branch = refs/heads/main
+[submodule "survey"]
+	url = https://github.com/conda-forge/survey-feedstock.git
+	path = feedstocks/survey
+	branch = refs/heads/main
