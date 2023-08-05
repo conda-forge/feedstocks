@@ -79898,3 +79898,7 @@
 	url = https://github.com/conda-forge/string2string-feedstock.git
 	path = feedstocks/string2string
 	branch = refs/heads/main
+[submodule "coldtype"]
+	url = https://github.com/conda-forge/coldtype-feedstock.git
+	path = feedstocks/coldtype
+	branch = refs/heads/main
