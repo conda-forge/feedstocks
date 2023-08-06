@@ -79914,3 +79914,7 @@
 	url = https://github.com/conda-forge/perl-data-dumper-concise-feedstock.git
 	path = feedstocks/perl-data-dumper-concise
 	branch = refs/heads/main
+[submodule "perl-mojolicious"]
+	url = https://github.com/conda-forge/perl-mojolicious-feedstock.git
+	path = feedstocks/perl-mojolicious
+	branch = refs/heads/main
