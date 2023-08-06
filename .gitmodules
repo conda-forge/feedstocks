@@ -79910,3 +79910,7 @@
 	url = https://github.com/conda-forge/creosote-feedstock.git
 	path = feedstocks/creosote
 	branch = refs/heads/main
+[submodule "perl-data-dumper-concise"]
+	url = https://github.com/conda-forge/perl-data-dumper-concise-feedstock.git
+	path = feedstocks/perl-data-dumper-concise
+	branch = refs/heads/main
