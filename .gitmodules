@@ -79930,3 +79930,7 @@
 	url = https://github.com/conda-forge/r-ottr-feedstock.git
 	path = feedstocks/r-ottr
 	branch = refs/heads/main
+[submodule "edgedb-python"]
+	url = https://github.com/conda-forge/edgedb-python-feedstock.git
+	path = feedstocks/edgedb-python
+	branch = refs/heads/main
