@@ -79958,3 +79958,7 @@
 	url = https://github.com/conda-forge/miepython-feedstock.git
 	path = feedstocks/miepython
 	branch = refs/heads/main
+[submodule "pidibble"]
+	url = https://github.com/conda-forge/pidibble-feedstock.git
+	path = feedstocks/pidibble
+	branch = refs/heads/main
