@@ -79942,3 +79942,7 @@
 	url = https://github.com/conda-forge/openlineage-airflow-feedstock.git
 	path = feedstocks/openlineage-airflow
 	branch = refs/heads/main
+[submodule "perl-text-unidecode"]
+	url = https://github.com/conda-forge/perl-text-unidecode-feedstock.git
+	path = feedstocks/perl-text-unidecode
+	branch = refs/heads/main
