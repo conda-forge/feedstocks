@@ -79938,3 +79938,7 @@
 	url = https://github.com/conda-forge/pygaul-feedstock.git
 	path = feedstocks/pygaul
 	branch = refs/heads/main
+[submodule "openlineage-airflow"]
+	url = https://github.com/conda-forge/openlineage-airflow-feedstock.git
+	path = feedstocks/openlineage-airflow
+	branch = refs/heads/main
