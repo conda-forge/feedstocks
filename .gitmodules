@@ -79926,3 +79926,7 @@
 	url = https://github.com/conda-forge/egglog-feedstock.git
 	path = feedstocks/egglog
 	branch = refs/heads/main
+[submodule "r-ottr"]
+	url = https://github.com/conda-forge/r-ottr-feedstock.git
+	path = feedstocks/r-ottr
+	branch = refs/heads/main
