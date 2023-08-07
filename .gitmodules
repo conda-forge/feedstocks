@@ -79950,3 +79950,7 @@
 	url = https://github.com/conda-forge/perl-data-structure-util-feedstock.git
 	path = feedstocks/perl-data-structure-util
 	branch = refs/heads/main
+[submodule "epdb"]
+	url = https://github.com/conda-forge/epdb-feedstock.git
+	path = feedstocks/epdb
+	branch = refs/heads/main
