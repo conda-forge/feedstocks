@@ -79922,3 +79922,7 @@
 	url = https://github.com/conda-forge/impunity-feedstock.git
 	path = feedstocks/impunity
 	branch = refs/heads/main
+[submodule "egglog"]
+	url = https://github.com/conda-forge/egglog-feedstock.git
+	path = feedstocks/egglog
+	branch = refs/heads/main
