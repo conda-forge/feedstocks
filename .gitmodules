@@ -79934,3 +79934,7 @@
 	url = https://github.com/conda-forge/edgedb-python-feedstock.git
 	path = feedstocks/edgedb-python
 	branch = refs/heads/main
+[submodule "pygaul"]
+	url = https://github.com/conda-forge/pygaul-feedstock.git
+	path = feedstocks/pygaul
+	branch = refs/heads/main
