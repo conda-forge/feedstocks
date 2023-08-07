@@ -79954,3 +79954,7 @@
 	url = https://github.com/conda-forge/epdb-feedstock.git
 	path = feedstocks/epdb
 	branch = refs/heads/main
+[submodule "miepython"]
+	url = https://github.com/conda-forge/miepython-feedstock.git
+	path = feedstocks/miepython
+	branch = refs/heads/main
