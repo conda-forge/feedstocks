@@ -79974,3 +79974,7 @@
 	url = https://github.com/conda-forge/eqt-feedstock.git
 	path = feedstocks/eqt
 	branch = refs/heads/main
+[submodule "pymorton"]
+	url = https://github.com/conda-forge/pymorton-feedstock.git
+	path = feedstocks/pymorton
+	branch = refs/heads/main
