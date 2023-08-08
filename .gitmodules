@@ -79990,3 +79990,7 @@
 	url = https://github.com/conda-forge/kedro-aim-feedstock.git
 	path = feedstocks/kedro-aim
 	branch = refs/heads/main
+[submodule "prophecy-build-tool"]
+	url = https://github.com/conda-forge/prophecy-build-tool-feedstock.git
+	path = feedstocks/prophecy-build-tool
+	branch = refs/heads/main
