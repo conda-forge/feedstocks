@@ -79978,3 +79978,7 @@
 	url = https://github.com/conda-forge/pymorton-feedstock.git
 	path = feedstocks/pymorton
 	branch = refs/heads/main
+[submodule "skprogs-python"]
+	url = https://github.com/conda-forge/skprogs-python-feedstock.git
+	path = feedstocks/skprogs-python
+	branch = refs/heads/main
