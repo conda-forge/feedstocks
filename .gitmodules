@@ -79998,3 +79998,7 @@
 	url = https://github.com/conda-forge/titrate-feedstock.git
 	path = feedstocks/titrate
 	branch = refs/heads/main
+[submodule "dask-expr"]
+	url = https://github.com/conda-forge/dask-expr-feedstock.git
+	path = feedstocks/dask-expr
+	branch = refs/heads/main
