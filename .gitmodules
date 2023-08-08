@@ -79970,3 +79970,7 @@
 	url = https://github.com/conda-forge/gitui-feedstock.git
 	path = feedstocks/gitui
 	branch = refs/heads/main
+[submodule "eqt"]
+	url = https://github.com/conda-forge/eqt-feedstock.git
+	path = feedstocks/eqt
+	branch = refs/heads/main
