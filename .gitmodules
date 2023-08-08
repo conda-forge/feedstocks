@@ -79986,3 +79986,7 @@
 	url = https://github.com/conda-forge/colormaps-feedstock.git
 	path = feedstocks/colormaps
 	branch = refs/heads/main
+[submodule "kedro-aim"]
+	url = https://github.com/conda-forge/kedro-aim-feedstock.git
+	path = feedstocks/kedro-aim
+	branch = refs/heads/main
