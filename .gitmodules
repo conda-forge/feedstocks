@@ -79994,3 +79994,7 @@
 	url = https://github.com/conda-forge/prophecy-build-tool-feedstock.git
 	path = feedstocks/prophecy-build-tool
 	branch = refs/heads/main
+[submodule "titrate"]
+	url = https://github.com/conda-forge/titrate-feedstock.git
+	path = feedstocks/titrate
+	branch = refs/heads/main
