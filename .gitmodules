@@ -80002,3 +80002,7 @@
 	url = https://github.com/conda-forge/dask-expr-feedstock.git
 	path = feedstocks/dask-expr
 	branch = refs/heads/main
+[submodule "perl-date-calc"]
+	url = https://github.com/conda-forge/perl-date-calc-feedstock.git
+	path = feedstocks/perl-date-calc
+	branch = refs/heads/main
