@@ -80006,3 +80006,7 @@
 	url = https://github.com/conda-forge/perl-date-calc-feedstock.git
 	path = feedstocks/perl-date-calc
 	branch = refs/heads/main
+[submodule "tsdownsample"]
+	url = https://github.com/conda-forge/tsdownsample-feedstock.git
+	path = feedstocks/tsdownsample
+	branch = refs/heads/main
