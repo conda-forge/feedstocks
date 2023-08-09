@@ -80010,3 +80010,7 @@
 	url = https://github.com/conda-forge/tsdownsample-feedstock.git
 	path = feedstocks/tsdownsample
 	branch = refs/heads/main
+[submodule "detect-test-pollution"]
+	url = https://github.com/conda-forge/detect-test-pollution-feedstock.git
+	path = feedstocks/detect-test-pollution
+	branch = refs/heads/main
