@@ -80042,3 +80042,7 @@
 	url = https://github.com/conda-forge/r-ggfx-feedstock.git
 	path = feedstocks/r-ggfx
 	branch = refs/heads/main
+[submodule "r-rnpn"]
+	url = https://github.com/conda-forge/r-rnpn-feedstock.git
+	path = feedstocks/r-rnpn
+	branch = refs/heads/main
