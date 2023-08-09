@@ -80034,3 +80034,7 @@
 	url = https://github.com/conda-forge/pykerr-feedstock.git
 	path = feedstocks/pykerr
 	branch = refs/heads/main
+[submodule "deltalake"]
+	url = https://github.com/conda-forge/deltalake-feedstock.git
+	path = feedstocks/deltalake
+	branch = refs/heads/main
