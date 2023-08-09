@@ -80050,3 +80050,7 @@
 	url = https://github.com/conda-forge/r-snotelr-feedstock.git
 	path = feedstocks/r-snotelr
 	branch = refs/heads/main
+[submodule "r-sbtools"]
+	url = https://github.com/conda-forge/r-sbtools-feedstock.git
+	path = feedstocks/r-sbtools
+	branch = refs/heads/main
