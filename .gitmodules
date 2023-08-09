@@ -80018,3 +80018,7 @@
 	url = https://github.com/conda-forge/openvino-telemetry-feedstock.git
 	path = feedstocks/openvino-telemetry
 	branch = refs/heads/main
+[submodule "r-dataretrieval"]
+	url = https://github.com/conda-forge/r-dataretrieval-feedstock.git
+	path = feedstocks/r-dataretrieval
+	branch = refs/heads/main
