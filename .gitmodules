@@ -80030,3 +80030,7 @@
 	url = https://github.com/conda-forge/dgl-feedstock.git
 	path = feedstocks/dgl
 	branch = refs/heads/main
+[submodule "pykerr"]
+	url = https://github.com/conda-forge/pykerr-feedstock.git
+	path = feedstocks/pykerr
+	branch = refs/heads/main
