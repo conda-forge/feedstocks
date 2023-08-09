@@ -80026,3 +80026,7 @@
 	url = https://github.com/conda-forge/r-repurrrsive-feedstock.git
 	path = feedstocks/r-repurrrsive
 	branch = refs/heads/main
+[submodule "dgl"]
+	url = https://github.com/conda-forge/dgl-feedstock.git
+	path = feedstocks/dgl
+	branch = refs/heads/main
