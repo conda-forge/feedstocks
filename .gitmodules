@@ -80014,3 +80014,7 @@
 	url = https://github.com/conda-forge/detect-test-pollution-feedstock.git
 	path = feedstocks/detect-test-pollution
 	branch = refs/heads/main
+[submodule "openvino-telemetry"]
+	url = https://github.com/conda-forge/openvino-telemetry-feedstock.git
+	path = feedstocks/openvino-telemetry
+	branch = refs/heads/main
