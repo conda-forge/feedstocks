@@ -80046,3 +80046,7 @@
 	url = https://github.com/conda-forge/r-rnpn-feedstock.git
 	path = feedstocks/r-rnpn
 	branch = refs/heads/main
+[submodule "r-snotelr"]
+	url = https://github.com/conda-forge/r-snotelr-feedstock.git
+	path = feedstocks/r-snotelr
+	branch = refs/heads/main
