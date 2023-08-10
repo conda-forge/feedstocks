@@ -80082,3 +80082,7 @@
 	url = https://github.com/conda-forge/nichord-feedstock.git
 	path = feedstocks/nichord
 	branch = refs/heads/main
+[submodule "coexist"]
+	url = https://github.com/conda-forge/coexist-feedstock.git
+	path = feedstocks/coexist
+	branch = refs/heads/main
