@@ -80058,3 +80058,7 @@
 	url = https://github.com/conda-forge/cellhint-feedstock.git
 	path = feedstocks/cellhint
 	branch = refs/heads/main
+[submodule "pysubgroup"]
+	url = https://github.com/conda-forge/pysubgroup-feedstock.git
+	path = feedstocks/pysubgroup
+	branch = refs/heads/main
