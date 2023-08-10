@@ -80054,3 +80054,7 @@
 	url = https://github.com/conda-forge/r-sbtools-feedstock.git
 	path = feedstocks/r-sbtools
 	branch = refs/heads/main
+[submodule "cellhint"]
+	url = https://github.com/conda-forge/cellhint-feedstock.git
+	path = feedstocks/cellhint
+	branch = refs/heads/main
