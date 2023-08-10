@@ -80062,3 +80062,7 @@
 	url = https://github.com/conda-forge/pysubgroup-feedstock.git
 	path = feedstocks/pysubgroup
 	branch = refs/heads/main
+[submodule "watset"]
+	url = https://github.com/conda-forge/watset-feedstock.git
+	path = feedstocks/watset
+	branch = refs/heads/main
