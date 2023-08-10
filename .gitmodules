@@ -80066,3 +80066,7 @@
 	url = https://github.com/conda-forge/watset-feedstock.git
 	path = feedstocks/watset
 	branch = refs/heads/main
+[submodule "selenium-manager"]
+	url = https://github.com/conda-forge/selenium-manager-feedstock.git
+	path = feedstocks/selenium-manager
+	branch = refs/heads/main
