@@ -80074,3 +80074,7 @@
 	url = https://github.com/conda-forge/holodeck-gw-feedstock.git
 	path = feedstocks/holodeck-gw
 	branch = refs/heads/main
+[submodule "xcube-4d-viewer"]
+	url = https://github.com/conda-forge/xcube-4d-viewer-feedstock.git
+	path = feedstocks/xcube-4d-viewer
+	branch = refs/heads/main
