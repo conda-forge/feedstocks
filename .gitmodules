@@ -80078,3 +80078,7 @@
 	url = https://github.com/conda-forge/xcube-4d-viewer-feedstock.git
 	path = feedstocks/xcube-4d-viewer
 	branch = refs/heads/main
+[submodule "nichord"]
+	url = https://github.com/conda-forge/nichord-feedstock.git
+	path = feedstocks/nichord
+	branch = refs/heads/main
