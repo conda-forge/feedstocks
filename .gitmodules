@@ -80070,3 +80070,7 @@
 	url = https://github.com/conda-forge/selenium-manager-feedstock.git
 	path = feedstocks/selenium-manager
 	branch = refs/heads/main
+[submodule "holodeck-gw"]
+	url = https://github.com/conda-forge/holodeck-gw-feedstock.git
+	path = feedstocks/holodeck-gw
+	branch = refs/heads/main
