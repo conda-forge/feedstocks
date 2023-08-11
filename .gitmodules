@@ -80090,3 +80090,7 @@
 	url = https://github.com/conda-forge/dask-deltatable-feedstock.git
 	path = feedstocks/dask-deltatable
 	branch = refs/heads/main
+[submodule "esa-climate-toolbox"]
+	url = https://github.com/conda-forge/esa-climate-toolbox-feedstock.git
+	path = feedstocks/esa-climate-toolbox
+	branch = refs/heads/main
