@@ -80110,3 +80110,7 @@
 	url = https://github.com/conda-forge/r-mcp-feedstock.git
 	path = feedstocks/r-mcp
 	branch = refs/heads/main
+[submodule "unbaffeld"]
+	url = https://github.com/conda-forge/unbaffeld-feedstock.git
+	path = feedstocks/unbaffeld
+	branch = refs/heads/main
