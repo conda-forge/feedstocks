@@ -80126,3 +80126,7 @@
 	url = https://github.com/conda-forge/aeon-feedstock.git
 	path = feedstocks/aeon
 	branch = refs/heads/main
+[submodule "randomname"]
+	url = https://github.com/conda-forge/randomname-feedstock.git
+	path = feedstocks/randomname
+	branch = refs/heads/main
