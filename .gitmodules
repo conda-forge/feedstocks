@@ -80118,3 +80118,7 @@
 	url = https://github.com/conda-forge/inference-tools-feedstock.git
 	path = feedstocks/inference-tools
 	branch = refs/heads/main
+[submodule "pokerkit"]
+	url = https://github.com/conda-forge/pokerkit-feedstock.git
+	path = feedstocks/pokerkit
+	branch = refs/heads/main
