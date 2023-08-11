@@ -80098,3 +80098,7 @@
 	url = https://github.com/conda-forge/r-pkgsearch-feedstock.git
 	path = feedstocks/r-pkgsearch
 	branch = refs/heads/main
+[submodule "htpolynet"]
+	url = https://github.com/conda-forge/htpolynet-feedstock.git
+	path = feedstocks/htpolynet
+	branch = refs/heads/main
