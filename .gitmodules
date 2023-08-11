@@ -80102,3 +80102,7 @@
 	url = https://github.com/conda-forge/htpolynet-feedstock.git
 	path = feedstocks/htpolynet
 	branch = refs/heads/main
+[submodule "weasel"]
+	url = https://github.com/conda-forge/weasel-feedstock.git
+	path = feedstocks/weasel
+	branch = refs/heads/main
