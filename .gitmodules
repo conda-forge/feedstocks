@@ -80114,3 +80114,7 @@
 	url = https://github.com/conda-forge/unbaffeld-feedstock.git
 	path = feedstocks/unbaffeld
 	branch = refs/heads/main
+[submodule "inference-tools"]
+	url = https://github.com/conda-forge/inference-tools-feedstock.git
+	path = feedstocks/inference-tools
+	branch = refs/heads/main
