@@ -80086,3 +80086,7 @@
 	url = https://github.com/conda-forge/coexist-feedstock.git
 	path = feedstocks/coexist
 	branch = refs/heads/main
+[submodule "dask-deltatable"]
+	url = https://github.com/conda-forge/dask-deltatable-feedstock.git
+	path = feedstocks/dask-deltatable
+	branch = refs/heads/main
