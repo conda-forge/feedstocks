@@ -80094,3 +80094,7 @@
 	url = https://github.com/conda-forge/esa-climate-toolbox-feedstock.git
 	path = feedstocks/esa-climate-toolbox
 	branch = refs/heads/main
+[submodule "r-pkgsearch"]
+	url = https://github.com/conda-forge/r-pkgsearch-feedstock.git
+	path = feedstocks/r-pkgsearch
+	branch = refs/heads/main
