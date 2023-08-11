@@ -80106,3 +80106,7 @@
 	url = https://github.com/conda-forge/weasel-feedstock.git
 	path = feedstocks/weasel
 	branch = refs/heads/main
+[submodule "r-mcp"]
+	url = https://github.com/conda-forge/r-mcp-feedstock.git
+	path = feedstocks/r-mcp
+	branch = refs/heads/main
