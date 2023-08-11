@@ -80122,3 +80122,7 @@
 	url = https://github.com/conda-forge/pokerkit-feedstock.git
 	path = feedstocks/pokerkit
 	branch = refs/heads/main
+[submodule "aeon"]
+	url = https://github.com/conda-forge/aeon-feedstock.git
+	path = feedstocks/aeon
+	branch = refs/heads/main
