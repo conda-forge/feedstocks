@@ -80130,3 +80130,7 @@
 	url = https://github.com/conda-forge/randomname-feedstock.git
 	path = feedstocks/randomname
 	branch = refs/heads/main
+[submodule "antimeridian"]
+	url = https://github.com/conda-forge/antimeridian-feedstock.git
+	path = feedstocks/antimeridian
+	branch = refs/heads/main
