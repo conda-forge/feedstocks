@@ -80146,3 +80146,7 @@
 	url = https://github.com/conda-forge/financetoolkit-feedstock.git
 	path = feedstocks/financetoolkit
 	branch = refs/heads/main
+[submodule "fastapi-restful"]
+	url = https://github.com/conda-forge/fastapi-restful-feedstock.git
+	path = feedstocks/fastapi-restful
+	branch = refs/heads/main
