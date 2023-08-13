@@ -80154,3 +80154,7 @@
 	url = https://github.com/conda-forge/segment-anything-hq-feedstock.git
 	path = feedstocks/segment-anything-hq
 	branch = refs/heads/main
+[submodule "lazy-imports"]
+	url = https://github.com/conda-forge/lazy-imports-feedstock.git
+	path = feedstocks/lazy-imports
+	branch = refs/heads/main
