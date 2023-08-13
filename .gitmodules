@@ -80182,3 +80182,7 @@
 	url = https://github.com/conda-forge/azure-core-cpp-feedstock.git
 	path = feedstocks/azure-core-cpp
 	branch = refs/heads/main
+[submodule "azure-storage-common-cpp"]
+	url = https://github.com/conda-forge/azure-storage-common-cpp-feedstock.git
+	path = feedstocks/azure-storage-common-cpp
+	branch = refs/heads/main
