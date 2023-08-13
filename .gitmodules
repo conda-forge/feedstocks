@@ -80162,3 +80162,7 @@
 	url = https://github.com/conda-forge/azure-storage-files-datalake-cpp-feedstock.git
 	path = feedstocks/azure-storage-files-datalake-cpp
 	branch = refs/heads/main
+[submodule "gnss-sdr"]
+	url = https://github.com/conda-forge/gnss-sdr-feedstock.git
+	path = feedstocks/gnss-sdr
+	branch = refs/heads/main
