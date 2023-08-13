@@ -80174,3 +80174,7 @@
 	url = https://github.com/conda-forge/azure-storage-blobs-cpp-feedstock.git
 	path = feedstocks/azure-storage-blobs-cpp
 	branch = refs/heads/main
+[submodule "azure-storage-files-shares-cpp"]
+	url = https://github.com/conda-forge/azure-storage-files-shares-cpp-feedstock.git
+	path = feedstocks/azure-storage-files-shares-cpp
+	branch = refs/heads/main
