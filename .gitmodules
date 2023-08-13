@@ -80150,3 +80150,7 @@
 	url = https://github.com/conda-forge/fastapi-restful-feedstock.git
 	path = feedstocks/fastapi-restful
 	branch = refs/heads/main
+[submodule "segment-anything-hq"]
+	url = https://github.com/conda-forge/segment-anything-hq-feedstock.git
+	path = feedstocks/segment-anything-hq
+	branch = refs/heads/main
