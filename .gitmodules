@@ -80190,3 +80190,7 @@
 	url = https://github.com/conda-forge/azure-identity-cpp-feedstock.git
 	path = feedstocks/azure-identity-cpp
 	branch = refs/heads/main
+[submodule "tasklib"]
+	url = https://github.com/conda-forge/tasklib-feedstock.git
+	path = feedstocks/tasklib
+	branch = refs/heads/main
