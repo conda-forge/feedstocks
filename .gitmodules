@@ -80218,3 +80218,7 @@
 	url = https://github.com/conda-forge/kedro-telemetry-feedstock.git
 	path = feedstocks/kedro-telemetry
 	branch = refs/heads/main
+[submodule "openvdb"]
+	url = https://github.com/conda-forge/openvdb-feedstock.git
+	path = feedstocks/openvdb
+	branch = refs/heads/main
