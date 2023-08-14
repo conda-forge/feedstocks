@@ -80206,3 +80206,7 @@
 	url = https://github.com/conda-forge/piqp-feedstock.git
 	path = feedstocks/piqp
 	branch = refs/heads/main
+[submodule "azure-ai-ml"]
+	url = https://github.com/conda-forge/azure-ai-ml-feedstock.git
+	path = feedstocks/azure-ai-ml
+	branch = refs/heads/main
