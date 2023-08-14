@@ -80222,3 +80222,7 @@
 	url = https://github.com/conda-forge/openvdb-feedstock.git
 	path = feedstocks/openvdb
 	branch = refs/heads/main
+[submodule "unimport"]
+	url = https://github.com/conda-forge/unimport-feedstock.git
+	path = feedstocks/unimport
+	branch = refs/heads/main
