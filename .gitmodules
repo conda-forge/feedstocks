@@ -80194,3 +80194,7 @@
 	url = https://github.com/conda-forge/tasklib-feedstock.git
 	path = feedstocks/tasklib
 	branch = refs/heads/main
+[submodule "pipestat"]
+	url = https://github.com/conda-forge/pipestat-feedstock.git
+	path = feedstocks/pipestat
+	branch = refs/heads/main
