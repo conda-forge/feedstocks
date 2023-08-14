@@ -80226,3 +80226,7 @@
 	url = https://github.com/conda-forge/unimport-feedstock.git
 	path = feedstocks/unimport
 	branch = refs/heads/main
+[submodule "pyobsplot"]
+	url = https://github.com/conda-forge/pyobsplot-feedstock.git
+	path = feedstocks/pyobsplot
+	branch = refs/heads/main
