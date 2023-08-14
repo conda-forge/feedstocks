@@ -80210,3 +80210,7 @@
 	url = https://github.com/conda-forge/azure-ai-ml-feedstock.git
 	path = feedstocks/azure-ai-ml
 	branch = refs/heads/main
+[submodule "py-grpc-prometheus"]
+	url = https://github.com/conda-forge/py-grpc-prometheus-feedstock.git
+	path = feedstocks/py-grpc-prometheus
+	branch = refs/heads/main
