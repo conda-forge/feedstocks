@@ -80198,3 +80198,7 @@
 	url = https://github.com/conda-forge/pipestat-feedstock.git
 	path = feedstocks/pipestat
 	branch = refs/heads/main
+[submodule "sctour"]
+	url = https://github.com/conda-forge/sctour-feedstock.git
+	path = feedstocks/sctour
+	branch = refs/heads/main
