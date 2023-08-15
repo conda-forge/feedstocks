@@ -80234,3 +80234,7 @@
 	url = https://github.com/conda-forge/caddy-feedstock.git
 	path = feedstocks/caddy
 	branch = refs/heads/main
+[submodule "cliffordlayers"]
+	url = https://github.com/conda-forge/cliffordlayers-feedstock.git
+	path = feedstocks/cliffordlayers
+	branch = refs/heads/main
