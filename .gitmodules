@@ -80250,3 +80250,7 @@
 	url = https://github.com/conda-forge/ceffyl-feedstock.git
 	path = feedstocks/ceffyl
 	branch = refs/heads/main
+[submodule "album-environments"]
+	url = https://github.com/conda-forge/album-environments-feedstock.git
+	path = feedstocks/album-environments
+	branch = refs/heads/main
