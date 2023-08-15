@@ -80254,3 +80254,7 @@
 	url = https://github.com/conda-forge/album-environments-feedstock.git
 	path = feedstocks/album-environments
 	branch = refs/heads/main
+[submodule "kedro-viz"]
+	url = https://github.com/conda-forge/kedro-viz-feedstock.git
+	path = feedstocks/kedro-viz
+	branch = refs/heads/main
