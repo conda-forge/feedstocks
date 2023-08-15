@@ -80258,3 +80258,7 @@
 	url = https://github.com/conda-forge/kedro-viz-feedstock.git
 	path = feedstocks/kedro-viz
 	branch = refs/heads/main
+[submodule "ptarcade"]
+	url = https://github.com/conda-forge/ptarcade-feedstock.git
+	path = feedstocks/ptarcade
+	branch = refs/heads/main
