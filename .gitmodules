@@ -80266,3 +80266,7 @@
 	url = https://github.com/conda-forge/markdown-code-runner-feedstock.git
 	path = feedstocks/markdown-code-runner
 	branch = refs/heads/main
+[submodule "mpipartition"]
+	url = https://github.com/conda-forge/mpipartition-feedstock.git
+	path = feedstocks/mpipartition
+	branch = refs/heads/main
