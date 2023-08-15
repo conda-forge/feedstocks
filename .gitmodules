@@ -80242,3 +80242,7 @@
 	url = https://github.com/conda-forge/dtool_lookup_server_search_plugin_mongo-feedstock.git
 	path = feedstocks/dtool_lookup_server_search_plugin_mongo
 	branch = refs/heads/main
+[submodule "dtool_lookup_server_retrieve_plugin_mongo"]
+	url = https://github.com/conda-forge/dtool_lookup_server_retrieve_plugin_mongo-feedstock.git
+	path = feedstocks/dtool_lookup_server_retrieve_plugin_mongo
+	branch = refs/heads/main
