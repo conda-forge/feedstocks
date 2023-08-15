@@ -80230,3 +80230,7 @@
 	url = https://github.com/conda-forge/pyobsplot-feedstock.git
 	path = feedstocks/pyobsplot
 	branch = refs/heads/main
+[submodule "caddy"]
+	url = https://github.com/conda-forge/caddy-feedstock.git
+	path = feedstocks/caddy
+	branch = refs/heads/main
