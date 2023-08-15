@@ -80270,3 +80270,7 @@
 	url = https://github.com/conda-forge/mpipartition-feedstock.git
 	path = feedstocks/mpipartition
 	branch = refs/heads/main
+[submodule "clipboard"]
+	url = https://github.com/conda-forge/clipboard-feedstock.git
+	path = feedstocks/clipboard
+	branch = refs/heads/main
