@@ -80262,3 +80262,7 @@
 	url = https://github.com/conda-forge/ptarcade-feedstock.git
 	path = feedstocks/ptarcade
 	branch = refs/heads/main
+[submodule "markdown-code-runner"]
+	url = https://github.com/conda-forge/markdown-code-runner-feedstock.git
+	path = feedstocks/markdown-code-runner
+	branch = refs/heads/main
