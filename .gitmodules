@@ -80246,3 +80246,7 @@
 	url = https://github.com/conda-forge/dtool_lookup_server_retrieve_plugin_mongo-feedstock.git
 	path = feedstocks/dtool_lookup_server_retrieve_plugin_mongo
 	branch = refs/heads/main
+[submodule "ceffyl"]
+	url = https://github.com/conda-forge/ceffyl-feedstock.git
+	path = feedstocks/ceffyl
+	branch = refs/heads/main
