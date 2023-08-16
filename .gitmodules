@@ -80290,3 +80290,7 @@
 	url = https://github.com/conda-forge/r-greta-feedstock.git
 	path = feedstocks/r-greta
 	branch = refs/heads/main
+[submodule "spgl1"]
+	url = https://github.com/conda-forge/spgl1-feedstock.git
+	path = feedstocks/spgl1
+	branch = refs/heads/main
