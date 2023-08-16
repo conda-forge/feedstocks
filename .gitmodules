@@ -80274,3 +80274,7 @@
 	url = https://github.com/conda-forge/clipboard-feedstock.git
 	path = feedstocks/clipboard
 	branch = refs/heads/main
+[submodule "kedro-light"]
+	url = https://github.com/conda-forge/kedro-light-feedstock.git
+	path = feedstocks/kedro-light
+	branch = refs/heads/main
