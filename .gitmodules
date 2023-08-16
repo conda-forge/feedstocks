@@ -80282,3 +80282,7 @@
 	url = https://github.com/conda-forge/array-to-latex-feedstock.git
 	path = feedstocks/array-to-latex
 	branch = refs/heads/main
+[submodule "jaxonnxruntime"]
+	url = https://github.com/conda-forge/jaxonnxruntime-feedstock.git
+	path = feedstocks/jaxonnxruntime
+	branch = refs/heads/main
