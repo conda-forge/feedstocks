@@ -80302,3 +80302,7 @@
 	url = https://github.com/conda-forge/ecmwf-opendata-feedstock.git
 	path = feedstocks/ecmwf-opendata
 	branch = refs/heads/main
+[submodule "tcmarkers"]
+	url = https://github.com/conda-forge/tcmarkers-feedstock.git
+	path = feedstocks/tcmarkers
+	branch = refs/heads/main
