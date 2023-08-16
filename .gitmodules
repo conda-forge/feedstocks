@@ -80278,3 +80278,7 @@
 	url = https://github.com/conda-forge/kedro-light-feedstock.git
 	path = feedstocks/kedro-light
 	branch = refs/heads/main
+[submodule "array-to-latex"]
+	url = https://github.com/conda-forge/array-to-latex-feedstock.git
+	path = feedstocks/array-to-latex
+	branch = refs/heads/main
