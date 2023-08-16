@@ -80306,3 +80306,7 @@
 	url = https://github.com/conda-forge/tcmarkers-feedstock.git
 	path = feedstocks/tcmarkers
 	branch = refs/heads/main
+[submodule "aimsim"]
+	url = https://github.com/conda-forge/aimsim-feedstock.git
+	path = feedstocks/aimsim
+	branch = refs/heads/main
