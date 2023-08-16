@@ -80294,3 +80294,7 @@
 	url = https://github.com/conda-forge/spgl1-feedstock.git
 	path = feedstocks/spgl1
 	branch = refs/heads/main
+[submodule "xinvert"]
+	url = https://github.com/conda-forge/xinvert-feedstock.git
+	path = feedstocks/xinvert
+	branch = refs/heads/main
