@@ -80286,3 +80286,7 @@
 	url = https://github.com/conda-forge/jaxonnxruntime-feedstock.git
 	path = feedstocks/jaxonnxruntime
 	branch = refs/heads/main
+[submodule "r-greta"]
+	url = https://github.com/conda-forge/r-greta-feedstock.git
+	path = feedstocks/r-greta
+	branch = refs/heads/main
