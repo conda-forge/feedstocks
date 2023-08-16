@@ -80298,3 +80298,7 @@
 	url = https://github.com/conda-forge/xinvert-feedstock.git
 	path = feedstocks/xinvert
 	branch = refs/heads/main
+[submodule "ecmwf-opendata"]
+	url = https://github.com/conda-forge/ecmwf-opendata-feedstock.git
+	path = feedstocks/ecmwf-opendata
+	branch = refs/heads/main
