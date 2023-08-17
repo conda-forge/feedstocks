@@ -80342,3 +80342,7 @@
 	url = https://github.com/conda-forge/awkward-pandas-feedstock.git
 	path = feedstocks/awkward-pandas
 	branch = refs/heads/main
+[submodule "mypy-gitlab-code-quality"]
+	url = https://github.com/conda-forge/mypy-gitlab-code-quality-feedstock.git
+	path = feedstocks/mypy-gitlab-code-quality
+	branch = refs/heads/main
