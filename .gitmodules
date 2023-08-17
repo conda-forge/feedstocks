@@ -80334,3 +80334,7 @@
 	url = https://github.com/conda-forge/rateslib-feedstock.git
 	path = feedstocks/rateslib
 	branch = refs/heads/main
+[submodule "bump-my-version"]
+	url = https://github.com/conda-forge/bump-my-version-feedstock.git
+	path = feedstocks/bump-my-version
+	branch = refs/heads/main
