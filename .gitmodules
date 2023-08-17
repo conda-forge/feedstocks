@@ -80338,3 +80338,7 @@
 	url = https://github.com/conda-forge/bump-my-version-feedstock.git
 	path = feedstocks/bump-my-version
 	branch = refs/heads/main
+[submodule "awkward-pandas"]
+	url = https://github.com/conda-forge/awkward-pandas-feedstock.git
+	path = feedstocks/awkward-pandas
+	branch = refs/heads/main
