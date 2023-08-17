@@ -80326,3 +80326,7 @@
 	url = https://github.com/conda-forge/anaconda-cloud-feedstock.git
 	path = feedstocks/anaconda-cloud
 	branch = refs/heads/main
+[submodule "anaconda-cloud-cli"]
+	url = https://github.com/conda-forge/anaconda-cloud-cli-feedstock.git
+	path = feedstocks/anaconda-cloud-cli
+	branch = refs/heads/main
