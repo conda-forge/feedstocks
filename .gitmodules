@@ -80362,3 +80362,7 @@
 	url = https://github.com/conda-forge/r-pathfindr.data-feedstock.git
 	path = feedstocks/r-pathfindr.data
 	branch = refs/heads/main
+[submodule "google-cloud-artifact-registry"]
+	url = https://github.com/conda-forge/google-cloud-artifact-registry-feedstock.git
+	path = feedstocks/google-cloud-artifact-registry
+	branch = refs/heads/main
