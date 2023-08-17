@@ -80314,3 +80314,7 @@
 	url = https://github.com/conda-forge/r-messydates-feedstock.git
 	path = feedstocks/r-messydates
 	branch = refs/heads/main
+[submodule "anaconda-cli-base"]
+	url = https://github.com/conda-forge/anaconda-cli-base-feedstock.git
+	path = feedstocks/anaconda-cli-base
+	branch = refs/heads/main
