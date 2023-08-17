@@ -80346,3 +80346,7 @@
 	url = https://github.com/conda-forge/mypy-gitlab-code-quality-feedstock.git
 	path = feedstocks/mypy-gitlab-code-quality
 	branch = refs/heads/main
+[submodule "mappyfile"]
+	url = https://github.com/conda-forge/mappyfile-feedstock.git
+	path = feedstocks/mappyfile
+	branch = refs/heads/main
