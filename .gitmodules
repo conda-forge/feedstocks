@@ -80354,3 +80354,7 @@
 	url = https://github.com/conda-forge/astartes-feedstock.git
 	path = feedstocks/astartes
 	branch = refs/heads/main
+[submodule "resvg"]
+	url = https://github.com/conda-forge/resvg-feedstock.git
+	path = feedstocks/resvg
+	branch = refs/heads/main
