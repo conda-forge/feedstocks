@@ -80358,3 +80358,7 @@
 	url = https://github.com/conda-forge/resvg-feedstock.git
 	path = feedstocks/resvg
 	branch = refs/heads/main
+[submodule "r-pathfindr.data"]
+	url = https://github.com/conda-forge/r-pathfindr.data-feedstock.git
+	path = feedstocks/r-pathfindr.data
+	branch = refs/heads/main
