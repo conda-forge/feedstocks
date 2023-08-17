@@ -80366,3 +80366,7 @@
 	url = https://github.com/conda-forge/google-cloud-artifact-registry-feedstock.git
 	path = feedstocks/google-cloud-artifact-registry
 	branch = refs/heads/main
+[submodule "spral"]
+	url = https://github.com/conda-forge/spral-feedstock.git
+	path = feedstocks/spral
+	branch = refs/heads/main
