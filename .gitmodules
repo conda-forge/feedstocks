@@ -80350,3 +80350,7 @@
 	url = https://github.com/conda-forge/mappyfile-feedstock.git
 	path = feedstocks/mappyfile
 	branch = refs/heads/main
+[submodule "astartes"]
+	url = https://github.com/conda-forge/astartes-feedstock.git
+	path = feedstocks/astartes
+	branch = refs/heads/main
