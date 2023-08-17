@@ -80310,3 +80310,7 @@
 	url = https://github.com/conda-forge/aimsim-feedstock.git
 	path = feedstocks/aimsim
 	branch = refs/heads/main
+[submodule "r-messydates"]
+	url = https://github.com/conda-forge/r-messydates-feedstock.git
+	path = feedstocks/r-messydates
+	branch = refs/heads/main
