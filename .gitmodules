@@ -80330,3 +80330,7 @@
 	url = https://github.com/conda-forge/anaconda-cloud-cli-feedstock.git
 	path = feedstocks/anaconda-cloud-cli
 	branch = refs/heads/main
+[submodule "rateslib"]
+	url = https://github.com/conda-forge/rateslib-feedstock.git
+	path = feedstocks/rateslib
+	branch = refs/heads/main
