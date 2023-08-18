@@ -80386,3 +80386,7 @@
 	url = https://github.com/conda-forge/dspawpy-feedstock.git
 	path = feedstocks/dspawpy
 	branch = refs/heads/main
+[submodule "atomistics"]
+	url = https://github.com/conda-forge/atomistics-feedstock.git
+	path = feedstocks/atomistics
+	branch = refs/heads/main
