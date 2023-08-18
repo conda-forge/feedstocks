@@ -80374,3 +80374,7 @@
 	url = https://github.com/conda-forge/r-rcatch22-feedstock.git
 	path = feedstocks/r-rcatch22
 	branch = refs/heads/main
+[submodule "windows-terminal"]
+	url = https://github.com/conda-forge/windows-terminal-feedstock.git
+	path = feedstocks/windows-terminal
+	branch = refs/heads/main
