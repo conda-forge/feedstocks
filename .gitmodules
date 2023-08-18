@@ -80394,3 +80394,7 @@
 	url = https://github.com/conda-forge/area-feedstock.git
 	path = feedstocks/area
 	branch = refs/heads/main
+[submodule "coastseg"]
+	url = https://github.com/conda-forge/coastseg-feedstock.git
+	path = feedstocks/coastseg
+	branch = refs/heads/main
