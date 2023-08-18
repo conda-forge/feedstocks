@@ -80378,3 +80378,7 @@
 	url = https://github.com/conda-forge/windows-terminal-feedstock.git
 	path = feedstocks/windows-terminal
 	branch = refs/heads/main
+[submodule "mdanalysis-sphinx-theme"]
+	url = https://github.com/conda-forge/mdanalysis-sphinx-theme-feedstock.git
+	path = feedstocks/mdanalysis-sphinx-theme
+	branch = refs/heads/main
