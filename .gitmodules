@@ -80402,3 +80402,7 @@
 	url = https://github.com/conda-forge/doodleverse-utils-feedstock.git
 	path = feedstocks/doodleverse-utils
 	branch = refs/heads/main
+[submodule "coastsat-package"]
+	url = https://github.com/conda-forge/coastsat-package-feedstock.git
+	path = feedstocks/coastsat-package
+	branch = refs/heads/main
