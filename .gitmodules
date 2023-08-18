@@ -80382,3 +80382,7 @@
 	url = https://github.com/conda-forge/mdanalysis-sphinx-theme-feedstock.git
 	path = feedstocks/mdanalysis-sphinx-theme
 	branch = refs/heads/main
+[submodule "dspawpy"]
+	url = https://github.com/conda-forge/dspawpy-feedstock.git
+	path = feedstocks/dspawpy
+	branch = refs/heads/main
