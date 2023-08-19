@@ -80414,3 +80414,7 @@
 	url = https://github.com/conda-forge/rigolwfm-feedstock.git
 	path = feedstocks/rigolwfm
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-apprise"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apprise-feedstock.git
+	path = feedstocks/apache-airflow-providers-apprise
+	branch = refs/heads/main
