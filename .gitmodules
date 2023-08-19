@@ -80430,3 +80430,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-arangodb-feedstock.git
 	path = feedstocks/apache-airflow-providers-arangodb
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-daskexecutor"]
+	url = https://github.com/conda-forge/apache-airflow-providers-daskexecutor-feedstock.git
+	path = feedstocks/apache-airflow-providers-daskexecutor
+	branch = refs/heads/main
