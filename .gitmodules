@@ -80422,3 +80422,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-flink-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-flink
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-atlassian-jira"]
+	url = https://github.com/conda-forge/apache-airflow-providers-atlassian-jira-feedstock.git
+	path = feedstocks/apache-airflow-providers-atlassian-jira
+	branch = refs/heads/main
