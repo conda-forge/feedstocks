@@ -80418,3 +80418,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apprise-feedstock.git
 	path = feedstocks/apache-airflow-providers-apprise
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-apache-flink"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-flink-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-flink
+	branch = refs/heads/main
