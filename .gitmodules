@@ -80426,3 +80426,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-atlassian-jira-feedstock.git
 	path = feedstocks/apache-airflow-providers-atlassian-jira
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-arangodb"]
+	url = https://github.com/conda-forge/apache-airflow-providers-arangodb-feedstock.git
+	path = feedstocks/apache-airflow-providers-arangodb
+	branch = refs/heads/main
