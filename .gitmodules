@@ -80446,3 +80446,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-openlineage-feedstock.git
 	path = feedstocks/apache-airflow-providers-openlineage
 	branch = refs/heads/main
+[submodule "chroma-hnswlib"]
+	url = https://github.com/conda-forge/chroma-hnswlib-feedstock.git
+	path = feedstocks/chroma-hnswlib
+	branch = refs/heads/main
