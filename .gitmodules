@@ -80434,3 +80434,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-daskexecutor-feedstock.git
 	path = feedstocks/apache-airflow-providers-daskexecutor
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-tabular"]
+	url = https://github.com/conda-forge/apache-airflow-providers-tabular-feedstock.git
+	path = feedstocks/apache-airflow-providers-tabular
+	branch = refs/heads/main
