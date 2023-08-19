@@ -80438,3 +80438,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-tabular-feedstock.git
 	path = feedstocks/apache-airflow-providers-tabular
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-apache-kafka"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-kafka-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-kafka
+	branch = refs/heads/main
