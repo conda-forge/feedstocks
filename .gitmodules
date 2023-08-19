@@ -80442,3 +80442,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-kafka-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-kafka
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-openlineage"]
+	url = https://github.com/conda-forge/apache-airflow-providers-openlineage-feedstock.git
+	path = feedstocks/apache-airflow-providers-openlineage
+	branch = refs/heads/main
