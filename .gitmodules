@@ -80450,3 +80450,7 @@
 	url = https://github.com/conda-forge/chroma-hnswlib-feedstock.git
 	path = feedstocks/chroma-hnswlib
 	branch = refs/heads/main
+[submodule "shortid"]
+	url = https://github.com/conda-forge/shortid-feedstock.git
+	path = feedstocks/shortid
+	branch = refs/heads/main
