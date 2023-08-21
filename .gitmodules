@@ -80454,3 +80454,7 @@
 	url = https://github.com/conda-forge/shortid-feedstock.git
 	path = feedstocks/shortid
 	branch = refs/heads/main
+[submodule "r-shapviz"]
+	url = https://github.com/conda-forge/r-shapviz-feedstock.git
+	path = feedstocks/r-shapviz
+	branch = refs/heads/main
