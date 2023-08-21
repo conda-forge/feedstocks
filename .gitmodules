@@ -80518,3 +80518,7 @@
 	url = https://github.com/conda-forge/snkit-feedstock.git
 	path = feedstocks/snkit
 	branch = refs/heads/main
+[submodule "mosaicmpi"]
+	url = https://github.com/conda-forge/mosaicmpi-feedstock.git
+	path = feedstocks/mosaicmpi
+	branch = refs/heads/main
