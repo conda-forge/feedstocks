@@ -80526,3 +80526,7 @@
 	url = https://github.com/conda-forge/pydflow-feedstock.git
 	path = feedstocks/pydflow
 	branch = refs/heads/main
+[submodule "bw-projects"]
+	url = https://github.com/conda-forge/bw-projects-feedstock.git
+	path = feedstocks/bw-projects
+	branch = refs/heads/main
