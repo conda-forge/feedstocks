@@ -80462,3 +80462,7 @@
 	url = https://github.com/conda-forge/rtdip-sdk-feedstock.git
 	path = feedstocks/rtdip-sdk
 	branch = refs/heads/main
+[submodule "xscen"]
+	url = https://github.com/conda-forge/xscen-feedstock.git
+	path = feedstocks/xscen
+	branch = refs/heads/main
