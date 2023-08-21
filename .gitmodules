@@ -80522,3 +80522,7 @@
 	url = https://github.com/conda-forge/mosaicmpi-feedstock.git
 	path = feedstocks/mosaicmpi
 	branch = refs/heads/main
+[submodule "pydflow"]
+	url = https://github.com/conda-forge/pydflow-feedstock.git
+	path = feedstocks/pydflow
+	branch = refs/heads/main
