@@ -80458,3 +80458,7 @@
 	url = https://github.com/conda-forge/r-shapviz-feedstock.git
 	path = feedstocks/r-shapviz
 	branch = refs/heads/main
+[submodule "rtdip-sdk"]
+	url = https://github.com/conda-forge/rtdip-sdk-feedstock.git
+	path = feedstocks/rtdip-sdk
+	branch = refs/heads/main
