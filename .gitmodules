@@ -80490,3 +80490,7 @@
 	url = https://github.com/conda-forge/r-charlatan-feedstock.git
 	path = feedstocks/r-charlatan
 	branch = refs/heads/main
+[submodule "glue-plotly"]
+	url = https://github.com/conda-forge/glue-plotly-feedstock.git
+	path = feedstocks/glue-plotly
+	branch = refs/heads/main
