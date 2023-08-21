@@ -80514,3 +80514,7 @@
 	url = https://github.com/conda-forge/pyopensky-feedstock.git
 	path = feedstocks/pyopensky
 	branch = refs/heads/main
+[submodule "snkit"]
+	url = https://github.com/conda-forge/snkit-feedstock.git
+	path = feedstocks/snkit
+	branch = refs/heads/main
