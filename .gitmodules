@@ -80478,3 +80478,7 @@
 	url = https://github.com/conda-forge/glue-samp-feedstock.git
 	path = feedstocks/glue-samp
 	branch = refs/heads/main
+[submodule "glue-qt"]
+	url = https://github.com/conda-forge/glue-qt-feedstock.git
+	path = feedstocks/glue-qt
+	branch = refs/heads/main
