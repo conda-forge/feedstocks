@@ -80470,3 +80470,7 @@
 	url = https://github.com/conda-forge/uproc-feedstock.git
 	path = feedstocks/uproc
 	branch = refs/heads/main
+[submodule "glue-medical"]
+	url = https://github.com/conda-forge/glue-medical-feedstock.git
+	path = feedstocks/glue-medical
+	branch = refs/heads/main
