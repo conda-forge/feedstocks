@@ -80506,3 +80506,7 @@
 	url = https://github.com/conda-forge/pacmap-feedstock.git
 	path = feedstocks/pacmap
 	branch = refs/heads/main
+[submodule "pygfunction"]
+	url = https://github.com/conda-forge/pygfunction-feedstock.git
+	path = feedstocks/pygfunction
+	branch = refs/heads/main
