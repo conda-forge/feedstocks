@@ -80554,3 +80554,7 @@
 	url = https://github.com/conda-forge/cosmotransitions-feedstock.git
 	path = feedstocks/cosmotransitions
 	branch = refs/heads/main
+[submodule "bincopy"]
+	url = https://github.com/conda-forge/bincopy-feedstock.git
+	path = feedstocks/bincopy
+	branch = refs/heads/main
