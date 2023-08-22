@@ -80542,3 +80542,7 @@
 	url = https://github.com/conda-forge/xcube_places_plugin-feedstock.git
 	path = feedstocks/xcube_places_plugin
 	branch = refs/heads/main
+[submodule "timescale"]
+	url = https://github.com/conda-forge/timescale-feedstock.git
+	path = feedstocks/timescale
+	branch = refs/heads/main
