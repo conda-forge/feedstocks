@@ -80562,3 +80562,7 @@
 	url = https://github.com/conda-forge/sweets-feedstock.git
 	path = feedstocks/sweets
 	branch = refs/heads/main
+[submodule "readtime"]
+	url = https://github.com/conda-forge/readtime-feedstock.git
+	path = feedstocks/readtime
+	branch = refs/heads/main
