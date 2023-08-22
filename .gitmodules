@@ -80538,3 +80538,7 @@
 	url = https://github.com/conda-forge/typst-feedstock.git
 	path = feedstocks/typst
 	branch = refs/heads/main
+[submodule "xcube_places_plugin"]
+	url = https://github.com/conda-forge/xcube_places_plugin-feedstock.git
+	path = feedstocks/xcube_places_plugin
+	branch = refs/heads/main
