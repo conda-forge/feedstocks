@@ -80534,3 +80534,7 @@
 	url = https://github.com/conda-forge/sb3-contrib-feedstock.git
 	path = feedstocks/sb3-contrib
 	branch = refs/heads/main
+[submodule "typst"]
+	url = https://github.com/conda-forge/typst-feedstock.git
+	path = feedstocks/typst
+	branch = refs/heads/main
