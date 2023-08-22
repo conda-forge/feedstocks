@@ -80558,3 +80558,7 @@
 	url = https://github.com/conda-forge/bincopy-feedstock.git
 	path = feedstocks/bincopy
 	branch = refs/heads/main
+[submodule "sweets"]
+	url = https://github.com/conda-forge/sweets-feedstock.git
+	path = feedstocks/sweets
+	branch = refs/heads/main
