@@ -80546,3 +80546,7 @@
 	url = https://github.com/conda-forge/timescale-feedstock.git
 	path = feedstocks/timescale
 	branch = refs/heads/main
+[submodule "cmweather"]
+	url = https://github.com/conda-forge/cmweather-feedstock.git
+	path = feedstocks/cmweather
+	branch = refs/heads/main
