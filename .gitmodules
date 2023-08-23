@@ -80574,3 +80574,7 @@
 	url = https://github.com/conda-forge/autoscraper-feedstock.git
 	path = feedstocks/autoscraper
 	branch = refs/heads/main
+[submodule "typst-py"]
+	url = https://github.com/conda-forge/typst-py-feedstock.git
+	path = feedstocks/typst-py
+	branch = refs/heads/main
