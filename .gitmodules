@@ -80566,3 +80566,7 @@
 	url = https://github.com/conda-forge/readtime-feedstock.git
 	path = feedstocks/readtime
 	branch = refs/heads/main
+[submodule "pyale"]
+	url = https://github.com/conda-forge/pyale-feedstock.git
+	path = feedstocks/pyale
+	branch = refs/heads/main
