@@ -80570,3 +80570,7 @@
 	url = https://github.com/conda-forge/pyale-feedstock.git
 	path = feedstocks/pyale
 	branch = refs/heads/main
+[submodule "autoscraper"]
+	url = https://github.com/conda-forge/autoscraper-feedstock.git
+	path = feedstocks/autoscraper
+	branch = refs/heads/main
