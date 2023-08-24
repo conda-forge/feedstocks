@@ -80578,3 +80578,7 @@
 	url = https://github.com/conda-forge/typst-py-feedstock.git
 	path = feedstocks/typst-py
 	branch = refs/heads/main
+[submodule "binary"]
+	url = https://github.com/conda-forge/binary-feedstock.git
+	path = feedstocks/binary
+	branch = refs/heads/main
