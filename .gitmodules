@@ -80582,3 +80582,7 @@
 	url = https://github.com/conda-forge/binary-feedstock.git
 	path = feedstocks/binary
 	branch = refs/heads/main
+[submodule "pypinfo"]
+	url = https://github.com/conda-forge/pypinfo-feedstock.git
+	path = feedstocks/pypinfo
+	branch = refs/heads/main
