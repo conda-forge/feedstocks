@@ -80606,3 +80606,7 @@
 	url = https://github.com/conda-forge/segment-anything-fast-feedstock.git
 	path = feedstocks/segment-anything-fast
 	branch = refs/heads/main
+[submodule "scicookie"]
+	url = https://github.com/conda-forge/scicookie-feedstock.git
+	path = feedstocks/scicookie
+	branch = refs/heads/main
