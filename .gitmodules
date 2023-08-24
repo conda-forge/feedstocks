@@ -80598,3 +80598,7 @@
 	url = https://github.com/conda-forge/r-theft-feedstock.git
 	path = feedstocks/r-theft
 	branch = refs/heads/main
+[submodule "openai-clip"]
+	url = https://github.com/conda-forge/openai-clip-feedstock.git
+	path = feedstocks/openai-clip
+	branch = refs/heads/main
