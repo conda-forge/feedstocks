@@ -80610,3 +80610,7 @@
 	url = https://github.com/conda-forge/scicookie-feedstock.git
 	path = feedstocks/scicookie
 	branch = refs/heads/main
+[submodule "hatch-ci"]
+	url = https://github.com/conda-forge/hatch-ci-feedstock.git
+	path = feedstocks/hatch-ci
+	branch = refs/heads/main
