@@ -80590,3 +80590,7 @@
 	url = https://github.com/conda-forge/tinyrecord-feedstock.git
 	path = feedstocks/tinyrecord
 	branch = refs/heads/main
+[submodule "r-causact"]
+	url = https://github.com/conda-forge/r-causact-feedstock.git
+	path = feedstocks/r-causact
+	branch = refs/heads/main
