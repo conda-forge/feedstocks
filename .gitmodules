@@ -80614,3 +80614,7 @@
 	url = https://github.com/conda-forge/hatch-ci-feedstock.git
 	path = feedstocks/hatch-ci
 	branch = refs/heads/main
+[submodule "viv"]
+	url = https://github.com/conda-forge/viv-feedstock.git
+	path = feedstocks/viv
+	branch = refs/heads/main
