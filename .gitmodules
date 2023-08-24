@@ -80586,3 +80586,7 @@
 	url = https://github.com/conda-forge/pypinfo-feedstock.git
 	path = feedstocks/pypinfo
 	branch = refs/heads/main
+[submodule "tinyrecord"]
+	url = https://github.com/conda-forge/tinyrecord-feedstock.git
+	path = feedstocks/tinyrecord
+	branch = refs/heads/main
