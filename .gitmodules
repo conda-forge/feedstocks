@@ -80602,3 +80602,7 @@
 	url = https://github.com/conda-forge/openai-clip-feedstock.git
 	path = feedstocks/openai-clip
 	branch = refs/heads/main
+[submodule "segment-anything-fast"]
+	url = https://github.com/conda-forge/segment-anything-fast-feedstock.git
+	path = feedstocks/segment-anything-fast
+	branch = refs/heads/main
