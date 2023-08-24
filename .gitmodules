@@ -80594,3 +80594,7 @@
 	url = https://github.com/conda-forge/r-causact-feedstock.git
 	path = feedstocks/r-causact
 	branch = refs/heads/main
+[submodule "r-theft"]
+	url = https://github.com/conda-forge/r-theft-feedstock.git
+	path = feedstocks/r-theft
+	branch = refs/heads/main
