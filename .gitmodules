@@ -80662,3 +80662,7 @@
 	url = https://github.com/conda-forge/trogon-feedstock.git
 	path = feedstocks/trogon
 	branch = refs/heads/main
+[submodule "truststore"]
+	url = https://github.com/conda-forge/truststore-feedstock.git
+	path = feedstocks/truststore
+	branch = refs/heads/main
