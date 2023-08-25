@@ -80646,3 +80646,7 @@
 	url = https://github.com/conda-forge/robocorp-workitems-feedstock.git
 	path = feedstocks/robocorp-workitems
 	branch = refs/heads/main
+[submodule "robocorp-excel"]
+	url = https://github.com/conda-forge/robocorp-excel-feedstock.git
+	path = feedstocks/robocorp-excel
+	branch = refs/heads/main
