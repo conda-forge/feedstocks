@@ -80686,3 +80686,7 @@
 	url = https://github.com/conda-forge/robocorp-http-feedstock.git
 	path = feedstocks/robocorp-http
 	branch = refs/heads/main
+[submodule "utilsforecast"]
+	url = https://github.com/conda-forge/utilsforecast-feedstock.git
+	path = feedstocks/utilsforecast
+	branch = refs/heads/main
