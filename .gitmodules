@@ -80638,3 +80638,7 @@
 	url = https://github.com/conda-forge/robocorp-vault-feedstock.git
 	path = feedstocks/robocorp-vault
 	branch = refs/heads/main
+[submodule "robocorp-log"]
+	url = https://github.com/conda-forge/robocorp-log-feedstock.git
+	path = feedstocks/robocorp-log
+	branch = refs/heads/main
