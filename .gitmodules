@@ -80622,3 +80622,7 @@
 	url = https://github.com/conda-forge/reprimand-feedstock.git
 	path = feedstocks/reprimand
 	branch = refs/heads/main
+[submodule "skscope"]
+	url = https://github.com/conda-forge/skscope-feedstock.git
+	path = feedstocks/skscope
+	branch = refs/heads/main
