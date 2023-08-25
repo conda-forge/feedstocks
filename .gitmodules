@@ -80658,3 +80658,7 @@
 	url = https://github.com/conda-forge/climada-petals-feedstock.git
 	path = feedstocks/climada-petals
 	branch = refs/heads/main
+[submodule "trogon"]
+	url = https://github.com/conda-forge/trogon-feedstock.git
+	path = feedstocks/trogon
+	branch = refs/heads/main
