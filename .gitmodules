@@ -80618,3 +80618,7 @@
 	url = https://github.com/conda-forge/viv-feedstock.git
 	path = feedstocks/viv
 	branch = refs/heads/main
+[submodule "reprimand"]
+	url = https://github.com/conda-forge/reprimand-feedstock.git
+	path = feedstocks/reprimand
+	branch = refs/heads/main
