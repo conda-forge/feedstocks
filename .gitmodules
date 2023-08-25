@@ -80666,3 +80666,7 @@
 	url = https://github.com/conda-forge/truststore-feedstock.git
 	path = feedstocks/truststore
 	branch = refs/heads/main
+[submodule "htbuilder"]
+	url = https://github.com/conda-forge/htbuilder-feedstock.git
+	path = feedstocks/htbuilder
+	branch = refs/heads/main
