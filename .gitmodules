@@ -80630,3 +80630,7 @@
 	url = https://github.com/conda-forge/robocorp-storage-feedstock.git
 	path = feedstocks/robocorp-storage
 	branch = refs/heads/main
+[submodule "robocorp"]
+	url = https://github.com/conda-forge/robocorp-feedstock.git
+	path = feedstocks/robocorp
+	branch = refs/heads/main
