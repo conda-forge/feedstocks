@@ -80626,3 +80626,7 @@
 	url = https://github.com/conda-forge/skscope-feedstock.git
 	path = feedstocks/skscope
 	branch = refs/heads/main
+[submodule "robocorp-storage"]
+	url = https://github.com/conda-forge/robocorp-storage-feedstock.git
+	path = feedstocks/robocorp-storage
+	branch = refs/heads/main
