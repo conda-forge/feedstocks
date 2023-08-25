@@ -80682,3 +80682,7 @@
 	url = https://github.com/conda-forge/st-annotated-text-feedstock.git
 	path = feedstocks/st-annotated-text
 	branch = refs/heads/main
+[submodule "robocorp-http"]
+	url = https://github.com/conda-forge/robocorp-http-feedstock.git
+	path = feedstocks/robocorp-http
+	branch = refs/heads/main
