@@ -80670,3 +80670,7 @@
 	url = https://github.com/conda-forge/htbuilder-feedstock.git
 	path = feedstocks/htbuilder
 	branch = refs/heads/main
+[submodule "earthly"]
+	url = https://github.com/conda-forge/earthly-feedstock.git
+	path = feedstocks/earthly
+	branch = refs/heads/main
