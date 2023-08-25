@@ -80674,3 +80674,7 @@
 	url = https://github.com/conda-forge/earthly-feedstock.git
 	path = feedstocks/earthly
 	branch = refs/heads/main
+[submodule "bubbledet"]
+	url = https://github.com/conda-forge/bubbledet-feedstock.git
+	path = feedstocks/bubbledet
+	branch = refs/heads/main
