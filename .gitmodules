@@ -80690,3 +80690,7 @@
 	url = https://github.com/conda-forge/utilsforecast-feedstock.git
 	path = feedstocks/utilsforecast
 	branch = refs/heads/main
+[submodule "cccl"]
+	url = https://github.com/conda-forge/cccl-feedstock.git
+	path = feedstocks/cccl
+	branch = refs/heads/main
