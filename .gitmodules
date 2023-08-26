@@ -80694,3 +80694,7 @@
 	url = https://github.com/conda-forge/cccl-feedstock.git
 	path = feedstocks/cccl
 	branch = refs/heads/main
+[submodule "arraylake-client"]
+	url = https://github.com/conda-forge/arraylake-client-feedstock.git
+	path = feedstocks/arraylake-client
+	branch = refs/heads/main
