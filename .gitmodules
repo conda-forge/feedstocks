@@ -80706,3 +80706,7 @@
 	url = https://github.com/conda-forge/r-dimensionsr-feedstock.git
 	path = feedstocks/r-dimensionsr
 	branch = refs/heads/main
+[submodule "r-rscopus"]
+	url = https://github.com/conda-forge/r-rscopus-feedstock.git
+	path = feedstocks/r-rscopus
+	branch = refs/heads/main
