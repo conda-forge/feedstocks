@@ -80714,3 +80714,7 @@
 	url = https://github.com/conda-forge/r-bibliometrix-feedstock.git
 	path = feedstocks/r-bibliometrix
 	branch = refs/heads/main
+[submodule "r-bibliometrixdata"]
+	url = https://github.com/conda-forge/r-bibliometrixdata-feedstock.git
+	path = feedstocks/r-bibliometrixdata
+	branch = refs/heads/main
