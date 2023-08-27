@@ -80722,3 +80722,7 @@
 	url = https://github.com/conda-forge/r-openalexr-feedstock.git
 	path = feedstocks/r-openalexr
 	branch = refs/heads/main
+[submodule "r-qgisprocess"]
+	url = https://github.com/conda-forge/r-qgisprocess-feedstock.git
+	path = feedstocks/r-qgisprocess
+	branch = refs/heads/main
