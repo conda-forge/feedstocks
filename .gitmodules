@@ -80718,3 +80718,7 @@
 	url = https://github.com/conda-forge/r-bibliometrixdata-feedstock.git
 	path = feedstocks/r-bibliometrixdata
 	branch = refs/heads/main
+[submodule "r-openalexr"]
+	url = https://github.com/conda-forge/r-openalexr-feedstock.git
+	path = feedstocks/r-openalexr
+	branch = refs/heads/main
