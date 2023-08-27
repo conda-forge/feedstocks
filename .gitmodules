@@ -80710,3 +80710,7 @@
 	url = https://github.com/conda-forge/r-rscopus-feedstock.git
 	path = feedstocks/r-rscopus
 	branch = refs/heads/main
+[submodule "r-bibliometrix"]
+	url = https://github.com/conda-forge/r-bibliometrix-feedstock.git
+	path = feedstocks/r-bibliometrix
+	branch = refs/heads/main
