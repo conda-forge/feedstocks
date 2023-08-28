@@ -80746,3 +80746,7 @@
 	url = https://github.com/conda-forge/paginate-feedstock.git
 	path = feedstocks/paginate
 	branch = refs/heads/main
+[submodule "zen-engine"]
+	url = https://github.com/conda-forge/zen-engine-feedstock.git
+	path = feedstocks/zen-engine
+	branch = refs/heads/main
