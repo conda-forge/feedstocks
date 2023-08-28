@@ -80730,3 +80730,7 @@
 	url = https://github.com/conda-forge/slack-bolt-feedstock.git
 	path = feedstocks/slack-bolt
 	branch = refs/heads/main
+[submodule "bilby_tgr"]
+	url = https://github.com/conda-forge/bilby_tgr-feedstock.git
+	path = feedstocks/bilby_tgr
+	branch = refs/heads/main
