@@ -80738,3 +80738,7 @@
 	url = https://github.com/conda-forge/pss-feedstock.git
 	path = feedstocks/pss
 	branch = refs/heads/main
+[submodule "kedro-pack"]
+	url = https://github.com/conda-forge/kedro-pack-feedstock.git
+	path = feedstocks/kedro-pack
+	branch = refs/heads/main
