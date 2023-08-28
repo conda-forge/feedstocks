@@ -80726,3 +80726,7 @@
 	url = https://github.com/conda-forge/r-qgisprocess-feedstock.git
 	path = feedstocks/r-qgisprocess
 	branch = refs/heads/main
+[submodule "slack-bolt"]
+	url = https://github.com/conda-forge/slack-bolt-feedstock.git
+	path = feedstocks/slack-bolt
+	branch = refs/heads/main
