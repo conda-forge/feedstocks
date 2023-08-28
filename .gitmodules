@@ -80734,3 +80734,7 @@
 	url = https://github.com/conda-forge/bilby_tgr-feedstock.git
 	path = feedstocks/bilby_tgr
 	branch = refs/heads/main
+[submodule "pss"]
+	url = https://github.com/conda-forge/pss-feedstock.git
+	path = feedstocks/pss
+	branch = refs/heads/main
