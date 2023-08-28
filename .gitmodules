@@ -80742,3 +80742,7 @@
 	url = https://github.com/conda-forge/kedro-pack-feedstock.git
 	path = feedstocks/kedro-pack
 	branch = refs/heads/main
+[submodule "paginate"]
+	url = https://github.com/conda-forge/paginate-feedstock.git
+	path = feedstocks/paginate
+	branch = refs/heads/main
