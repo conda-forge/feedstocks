@@ -80758,3 +80758,7 @@
 	url = https://github.com/conda-forge/google-cloud-batch-feedstock.git
 	path = feedstocks/google-cloud-batch
 	branch = refs/heads/main
+[submodule "google-cloud-run"]
+	url = https://github.com/conda-forge/google-cloud-run-feedstock.git
+	path = feedstocks/google-cloud-run
+	branch = refs/heads/main
