@@ -80766,3 +80766,7 @@
 	url = https://github.com/conda-forge/mixer-feedstock.git
 	path = feedstocks/mixer
 	branch = refs/heads/main
+[submodule "latex2mathml"]
+	url = https://github.com/conda-forge/latex2mathml-feedstock.git
+	path = feedstocks/latex2mathml
+	branch = refs/heads/main
