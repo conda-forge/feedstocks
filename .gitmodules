@@ -80786,3 +80786,7 @@
 	url = https://github.com/conda-forge/r-ctrdata-feedstock.git
 	path = feedstocks/r-ctrdata
 	branch = refs/heads/main
+[submodule "r-fmesher"]
+	url = https://github.com/conda-forge/r-fmesher-feedstock.git
+	path = feedstocks/r-fmesher
+	branch = refs/heads/main
