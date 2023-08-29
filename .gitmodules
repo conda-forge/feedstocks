@@ -80770,3 +80770,7 @@
 	url = https://github.com/conda-forge/latex2mathml-feedstock.git
 	path = feedstocks/latex2mathml
 	branch = refs/heads/main
+[submodule "xarray-ceos-alos2"]
+	url = https://github.com/conda-forge/xarray-ceos-alos2-feedstock.git
+	path = feedstocks/xarray-ceos-alos2
+	branch = refs/heads/main
