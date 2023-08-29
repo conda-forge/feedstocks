@@ -80762,3 +80762,7 @@
 	url = https://github.com/conda-forge/google-cloud-run-feedstock.git
 	path = feedstocks/google-cloud-run
 	branch = refs/heads/main
+[submodule "mixer"]
+	url = https://github.com/conda-forge/mixer-feedstock.git
+	path = feedstocks/mixer
+	branch = refs/heads/main
