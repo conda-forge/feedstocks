@@ -80774,3 +80774,7 @@
 	url = https://github.com/conda-forge/xarray-ceos-alos2-feedstock.git
 	path = feedstocks/xarray-ceos-alos2
 	branch = refs/heads/main
+[submodule "awscli2"]
+	url = https://github.com/conda-forge/awscli2-feedstock.git
+	path = feedstocks/awscli2
+	branch = refs/heads/main
