@@ -80794,3 +80794,7 @@
 	url = https://github.com/conda-forge/mda-xdrlib-feedstock.git
 	path = feedstocks/mda-xdrlib
 	branch = refs/heads/main
+[submodule "django-funky-sheets"]
+	url = https://github.com/conda-forge/django-funky-sheets-feedstock.git
+	path = feedstocks/django-funky-sheets
+	branch = refs/heads/main
