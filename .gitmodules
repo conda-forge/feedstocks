@@ -80750,3 +80750,7 @@
 	url = https://github.com/conda-forge/zen-engine-feedstock.git
 	path = feedstocks/zen-engine
 	branch = refs/heads/main
+[submodule "eurostat"]
+	url = https://github.com/conda-forge/eurostat-feedstock.git
+	path = feedstocks/eurostat
+	branch = refs/heads/main
