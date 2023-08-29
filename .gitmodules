@@ -80790,3 +80790,7 @@
 	url = https://github.com/conda-forge/r-fmesher-feedstock.git
 	path = feedstocks/r-fmesher
 	branch = refs/heads/main
+[submodule "mda-xdrlib"]
+	url = https://github.com/conda-forge/mda-xdrlib-feedstock.git
+	path = feedstocks/mda-xdrlib
+	branch = refs/heads/main
