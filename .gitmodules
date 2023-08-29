@@ -80778,3 +80778,7 @@
 	url = https://github.com/conda-forge/awscli2-feedstock.git
 	path = feedstocks/awscli2
 	branch = refs/heads/main
+[submodule "django-extra-views"]
+	url = https://github.com/conda-forge/django-extra-views-feedstock.git
+	path = feedstocks/django-extra-views
+	branch = refs/heads/main
