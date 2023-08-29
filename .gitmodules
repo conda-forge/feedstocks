@@ -80754,3 +80754,7 @@
 	url = https://github.com/conda-forge/eurostat-feedstock.git
 	path = feedstocks/eurostat
 	branch = refs/heads/main
+[submodule "google-cloud-batch"]
+	url = https://github.com/conda-forge/google-cloud-batch-feedstock.git
+	path = feedstocks/google-cloud-batch
+	branch = refs/heads/main
