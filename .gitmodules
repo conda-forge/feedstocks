@@ -80822,3 +80822,7 @@
 	url = https://github.com/conda-forge/calibrated-explanations-feedstock.git
 	path = feedstocks/calibrated-explanations
 	branch = refs/heads/main
+[submodule "uuid6"]
+	url = https://github.com/conda-forge/uuid6-feedstock.git
+	path = feedstocks/uuid6
+	branch = refs/heads/main
