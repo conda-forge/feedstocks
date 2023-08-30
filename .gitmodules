@@ -80814,3 +80814,7 @@
 	url = https://github.com/conda-forge/taxonid-feedstock.git
 	path = feedstocks/taxonid
 	branch = refs/heads/main
+[submodule "hypsoreader"]
+	url = https://github.com/conda-forge/hypsoreader-feedstock.git
+	path = feedstocks/hypsoreader
+	branch = refs/heads/main
