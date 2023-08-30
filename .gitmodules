@@ -80834,3 +80834,7 @@
 	url = https://github.com/conda-forge/lambdaprompt-feedstock.git
 	path = feedstocks/lambdaprompt
 	branch = refs/heads/main
+[submodule "datasketch"]
+	url = https://github.com/conda-forge/datasketch-feedstock.git
+	path = feedstocks/datasketch
+	branch = refs/heads/main
