@@ -80798,3 +80798,7 @@
 	url = https://github.com/conda-forge/django-funky-sheets-feedstock.git
 	path = feedstocks/django-funky-sheets
 	branch = refs/heads/main
+[submodule "libtirpc"]
+	url = https://github.com/conda-forge/libtirpc-feedstock.git
+	path = feedstocks/libtirpc
+	branch = refs/heads/main
