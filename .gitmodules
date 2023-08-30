@@ -80818,3 +80818,7 @@
 	url = https://github.com/conda-forge/hypsoreader-feedstock.git
 	path = feedstocks/hypsoreader
 	branch = refs/heads/main
+[submodule "calibrated-explanations"]
+	url = https://github.com/conda-forge/calibrated-explanations-feedstock.git
+	path = feedstocks/calibrated-explanations
+	branch = refs/heads/main
