@@ -80810,3 +80810,7 @@
 	url = https://github.com/conda-forge/torch-frft-feedstock.git
 	path = feedstocks/torch-frft
 	branch = refs/heads/main
+[submodule "taxonid"]
+	url = https://github.com/conda-forge/taxonid-feedstock.git
+	path = feedstocks/taxonid
+	branch = refs/heads/main
