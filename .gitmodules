@@ -80806,3 +80806,7 @@
 	url = https://github.com/conda-forge/rockstar-galaxies-feedstock.git
 	path = feedstocks/rockstar-galaxies
 	branch = refs/heads/main
+[submodule "torch-frft"]
+	url = https://github.com/conda-forge/torch-frft-feedstock.git
+	path = feedstocks/torch-frft
+	branch = refs/heads/main
