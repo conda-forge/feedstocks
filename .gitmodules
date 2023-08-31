@@ -80850,3 +80850,7 @@
 	url = https://github.com/conda-forge/matrepr-feedstock.git
 	path = feedstocks/matrepr
 	branch = refs/heads/main
+[submodule "pyprctl"]
+	url = https://github.com/conda-forge/pyprctl-feedstock.git
+	path = feedstocks/pyprctl
+	branch = refs/heads/main
