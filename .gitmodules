@@ -80838,3 +80838,7 @@
 	url = https://github.com/conda-forge/datasketch-feedstock.git
 	path = feedstocks/datasketch
 	branch = refs/heads/main
+[submodule "epicsmacrolib"]
+	url = https://github.com/conda-forge/epicsmacrolib-feedstock.git
+	path = feedstocks/epicsmacrolib
+	branch = refs/heads/main
