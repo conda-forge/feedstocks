@@ -80842,3 +80842,7 @@
 	url = https://github.com/conda-forge/epicsmacrolib-feedstock.git
 	path = feedstocks/epicsmacrolib
 	branch = refs/heads/main
+[submodule "matspy"]
+	url = https://github.com/conda-forge/matspy-feedstock.git
+	path = feedstocks/matspy
+	branch = refs/heads/main
