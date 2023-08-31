@@ -80846,3 +80846,7 @@
 	url = https://github.com/conda-forge/matspy-feedstock.git
 	path = feedstocks/matspy
 	branch = refs/heads/main
+[submodule "matrepr"]
+	url = https://github.com/conda-forge/matrepr-feedstock.git
+	path = feedstocks/matrepr
+	branch = refs/heads/main
