@@ -80870,3 +80870,7 @@
 	url = https://github.com/conda-forge/setuptools-parcels-feedstock.git
 	path = feedstocks/setuptools-parcels
 	branch = refs/heads/main
+[submodule "vcver"]
+	url = https://github.com/conda-forge/vcver-feedstock.git
+	path = feedstocks/vcver
+	branch = refs/heads/main
