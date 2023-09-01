@@ -80878,3 +80878,7 @@
 	url = https://github.com/conda-forge/qiskit-feedstock.git
 	path = feedstocks/qiskit
 	branch = refs/heads/main
+[submodule "modflow-devtools"]
+	url = https://github.com/conda-forge/modflow-devtools-feedstock.git
+	path = feedstocks/modflow-devtools
+	branch = refs/heads/main
