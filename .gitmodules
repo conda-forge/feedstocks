@@ -80862,3 +80862,7 @@
 	url = https://github.com/conda-forge/pyemu-feedstock.git
 	path = feedstocks/pyemu
 	branch = refs/heads/main
+[submodule "sparc-x"]
+	url = https://github.com/conda-forge/sparc-x-feedstock.git
+	path = feedstocks/sparc-x
+	branch = refs/heads/main
