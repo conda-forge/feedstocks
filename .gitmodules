@@ -80882,3 +80882,7 @@
 	url = https://github.com/conda-forge/modflow-devtools-feedstock.git
 	path = feedstocks/modflow-devtools
 	branch = refs/heads/main
+[submodule "pyspeckle"]
+	url = https://github.com/conda-forge/pyspeckle-feedstock.git
+	path = feedstocks/pyspeckle
+	branch = refs/heads/main
