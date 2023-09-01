@@ -80874,3 +80874,7 @@
 	url = https://github.com/conda-forge/vcver-feedstock.git
 	path = feedstocks/vcver
 	branch = refs/heads/main
+[submodule "qiskit"]
+	url = https://github.com/conda-forge/qiskit-feedstock.git
+	path = feedstocks/qiskit
+	branch = refs/heads/main
