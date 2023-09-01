@@ -80866,3 +80866,7 @@
 	url = https://github.com/conda-forge/sparc-x-feedstock.git
 	path = feedstocks/sparc-x
 	branch = refs/heads/main
+[submodule "setuptools-parcels"]
+	url = https://github.com/conda-forge/setuptools-parcels-feedstock.git
+	path = feedstocks/setuptools-parcels
+	branch = refs/heads/main
