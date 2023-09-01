@@ -80854,3 +80854,7 @@
 	url = https://github.com/conda-forge/pyprctl-feedstock.git
 	path = feedstocks/pyprctl
 	branch = refs/heads/main
+[submodule "intake-nested-yaml-catalog"]
+	url = https://github.com/conda-forge/intake-nested-yaml-catalog-feedstock.git
+	path = feedstocks/intake-nested-yaml-catalog
+	branch = refs/heads/main
