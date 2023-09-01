@@ -80858,3 +80858,7 @@
 	url = https://github.com/conda-forge/intake-nested-yaml-catalog-feedstock.git
 	path = feedstocks/intake-nested-yaml-catalog
 	branch = refs/heads/main
+[submodule "pyemu"]
+	url = https://github.com/conda-forge/pyemu-feedstock.git
+	path = feedstocks/pyemu
+	branch = refs/heads/main
