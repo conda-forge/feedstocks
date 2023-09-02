@@ -80898,3 +80898,7 @@
 	url = https://github.com/conda-forge/osx-sysroot-feedstock.git
 	path = feedstocks/osx-sysroot
 	branch = refs/heads/main
+[submodule "binwalk"]
+	url = https://github.com/conda-forge/binwalk-feedstock.git
+	path = feedstocks/binwalk
+	branch = refs/heads/main
