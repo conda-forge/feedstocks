@@ -80902,3 +80902,7 @@
 	url = https://github.com/conda-forge/binwalk-feedstock.git
 	path = feedstocks/binwalk
 	branch = refs/heads/main
+[submodule "cargo-c"]
+	url = https://github.com/conda-forge/cargo-c-feedstock.git
+	path = feedstocks/cargo-c
+	branch = refs/heads/main
