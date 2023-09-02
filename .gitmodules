@@ -80890,3 +80890,7 @@
 	url = https://github.com/conda-forge/pydantic-yaml-feedstock.git
 	path = feedstocks/pydantic-yaml
 	branch = refs/heads/main
+[submodule "reno"]
+	url = https://github.com/conda-forge/reno-feedstock.git
+	path = feedstocks/reno
+	branch = refs/heads/main
