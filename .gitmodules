@@ -80894,3 +80894,7 @@
 	url = https://github.com/conda-forge/reno-feedstock.git
 	path = feedstocks/reno
 	branch = refs/heads/main
+[submodule "osx-sysroot"]
+	url = https://github.com/conda-forge/osx-sysroot-feedstock.git
+	path = feedstocks/osx-sysroot
+	branch = refs/heads/main
