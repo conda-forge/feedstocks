@@ -80922,3 +80922,7 @@
 	url = https://github.com/conda-forge/irrep-feedstock.git
 	path = feedstocks/irrep
 	branch = refs/heads/main
+[submodule "dockstring"]
+	url = https://github.com/conda-forge/dockstring-feedstock.git
+	path = feedstocks/dockstring
+	branch = refs/heads/main
