@@ -80906,3 +80906,7 @@
 	url = https://github.com/conda-forge/cargo-c-feedstock.git
 	path = feedstocks/cargo-c
 	branch = refs/heads/main
+[submodule "sng"]
+	url = https://github.com/conda-forge/sng-feedstock.git
+	path = feedstocks/sng
+	branch = refs/heads/main
