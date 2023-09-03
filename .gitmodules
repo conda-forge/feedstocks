@@ -80910,3 +80910,7 @@
 	url = https://github.com/conda-forge/sng-feedstock.git
 	path = feedstocks/sng
 	branch = refs/heads/main
+[submodule "feathr"]
+	url = https://github.com/conda-forge/feathr-feedstock.git
+	path = feedstocks/feathr
+	branch = refs/heads/main
