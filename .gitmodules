@@ -80918,3 +80918,7 @@
 	url = https://github.com/conda-forge/irreptables-feedstock.git
 	path = feedstocks/irreptables
 	branch = refs/heads/main
+[submodule "irrep"]
+	url = https://github.com/conda-forge/irrep-feedstock.git
+	path = feedstocks/irrep
+	branch = refs/heads/main
