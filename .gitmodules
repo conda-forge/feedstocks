@@ -80930,3 +80930,7 @@
 	url = https://github.com/conda-forge/rasam-feedstock.git
 	path = feedstocks/rasam
 	branch = refs/heads/main
+[submodule "resolve-robotics-uri-py"]
+	url = https://github.com/conda-forge/resolve-robotics-uri-py-feedstock.git
+	path = feedstocks/resolve-robotics-uri-py
+	branch = refs/heads/main
