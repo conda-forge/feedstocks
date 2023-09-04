@@ -80946,3 +80946,7 @@
 	url = https://github.com/conda-forge/django-tenant-schemas-feedstock.git
 	path = feedstocks/django-tenant-schemas
 	branch = refs/heads/main
+[submodule "django-tenants"]
+	url = https://github.com/conda-forge/django-tenants-feedstock.git
+	path = feedstocks/django-tenants
+	branch = refs/heads/main
