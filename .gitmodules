@@ -80938,3 +80938,7 @@
 	url = https://github.com/conda-forge/kedro-pandera-feedstock.git
 	path = feedstocks/kedro-pandera
 	branch = refs/heads/main
+[submodule "opensimplex"]
+	url = https://github.com/conda-forge/opensimplex-feedstock.git
+	path = feedstocks/opensimplex
+	branch = refs/heads/main
