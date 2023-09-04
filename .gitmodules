@@ -80926,3 +80926,7 @@
 	url = https://github.com/conda-forge/dockstring-feedstock.git
 	path = feedstocks/dockstring
 	branch = refs/heads/main
+[submodule "rasam"]
+	url = https://github.com/conda-forge/rasam-feedstock.git
+	path = feedstocks/rasam
+	branch = refs/heads/main
