@@ -80934,3 +80934,7 @@
 	url = https://github.com/conda-forge/resolve-robotics-uri-py-feedstock.git
 	path = feedstocks/resolve-robotics-uri-py
 	branch = refs/heads/main
+[submodule "kedro-pandera"]
+	url = https://github.com/conda-forge/kedro-pandera-feedstock.git
+	path = feedstocks/kedro-pandera
+	branch = refs/heads/main
