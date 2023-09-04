@@ -80942,3 +80942,7 @@
 	url = https://github.com/conda-forge/opensimplex-feedstock.git
 	path = feedstocks/opensimplex
 	branch = refs/heads/main
+[submodule "django-tenant-schemas"]
+	url = https://github.com/conda-forge/django-tenant-schemas-feedstock.git
+	path = feedstocks/django-tenant-schemas
+	branch = refs/heads/main
