@@ -80950,3 +80950,7 @@
 	url = https://github.com/conda-forge/django-tenants-feedstock.git
 	path = feedstocks/django-tenants
 	branch = refs/heads/main
+[submodule "blink"]
+	url = https://github.com/conda-forge/blink-feedstock.git
+	path = feedstocks/blink
+	branch = refs/heads/main
