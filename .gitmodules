@@ -80978,3 +80978,7 @@
 	url = https://github.com/conda-forge/mslex-feedstock.git
 	path = feedstocks/mslex
 	branch = refs/heads/main
+[submodule "compas_eve"]
+	url = https://github.com/conda-forge/compas_eve-feedstock.git
+	path = feedstocks/compas_eve
+	branch = refs/heads/main
