@@ -80954,3 +80954,7 @@
 	url = https://github.com/conda-forge/blink-feedstock.git
 	path = feedstocks/blink
 	branch = refs/heads/main
+[submodule "coloc_sat"]
+	url = https://github.com/conda-forge/coloc_sat-feedstock.git
+	path = feedstocks/coloc_sat
+	branch = refs/heads/main
