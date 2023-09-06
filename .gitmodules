@@ -81002,3 +81002,7 @@
 	url = https://github.com/conda-forge/crispy-bootstrap4-feedstock.git
 	path = feedstocks/crispy-bootstrap4
 	branch = refs/heads/main
+[submodule "django-slick-reporting"]
+	url = https://github.com/conda-forge/django-slick-reporting-feedstock.git
+	path = feedstocks/django-slick-reporting
+	branch = refs/heads/main
