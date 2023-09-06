@@ -81006,3 +81006,7 @@
 	url = https://github.com/conda-forge/django-slick-reporting-feedstock.git
 	path = feedstocks/django-slick-reporting
 	branch = refs/heads/main
+[submodule "archinfo"]
+	url = https://github.com/conda-forge/archinfo-feedstock.git
+	path = feedstocks/archinfo
+	branch = refs/heads/main
