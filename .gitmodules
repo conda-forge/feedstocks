@@ -81010,3 +81010,7 @@
 	url = https://github.com/conda-forge/archinfo-feedstock.git
 	path = feedstocks/archinfo
 	branch = refs/heads/main
+[submodule "somata"]
+	url = https://github.com/conda-forge/somata-feedstock.git
+	path = feedstocks/somata
+	branch = refs/heads/main
