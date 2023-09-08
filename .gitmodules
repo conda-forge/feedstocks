@@ -81026,3 +81026,7 @@
 	url = https://github.com/conda-forge/print-on-steroids-feedstock.git
 	path = feedstocks/print-on-steroids
 	branch = refs/heads/main
+[submodule "django-guid"]
+	url = https://github.com/conda-forge/django-guid-feedstock.git
+	path = feedstocks/django-guid
+	branch = refs/heads/main
