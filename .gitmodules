@@ -81018,3 +81018,7 @@
 	url = https://github.com/conda-forge/bctpy-feedstock.git
 	path = feedstocks/bctpy
 	branch = refs/heads/main
+[submodule "pyrtcm"]
+	url = https://github.com/conda-forge/pyrtcm-feedstock.git
+	path = feedstocks/pyrtcm
+	branch = refs/heads/main
