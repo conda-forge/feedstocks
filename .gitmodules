@@ -81030,3 +81030,7 @@
 	url = https://github.com/conda-forge/django-guid-feedstock.git
 	path = feedstocks/django-guid
 	branch = refs/heads/main
+[submodule "fastapi-admin"]
+	url = https://github.com/conda-forge/fastapi-admin-feedstock.git
+	path = feedstocks/fastapi-admin
+	branch = refs/heads/main
