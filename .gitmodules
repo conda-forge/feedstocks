@@ -81014,3 +81014,7 @@
 	url = https://github.com/conda-forge/somata-feedstock.git
 	path = feedstocks/somata
 	branch = refs/heads/main
+[submodule "bctpy"]
+	url = https://github.com/conda-forge/bctpy-feedstock.git
+	path = feedstocks/bctpy
+	branch = refs/heads/main
