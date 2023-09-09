@@ -81050,3 +81050,7 @@
 	url = https://github.com/conda-forge/google-cloud-bigquery-connection-feedstock.git
 	path = feedstocks/google-cloud-bigquery-connection
 	branch = refs/heads/main
+[submodule "fastapi-crudrouter"]
+	url = https://github.com/conda-forge/fastapi-crudrouter-feedstock.git
+	path = feedstocks/fastapi-crudrouter
+	branch = refs/heads/main
