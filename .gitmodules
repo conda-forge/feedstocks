@@ -81058,3 +81058,7 @@
 	url = https://github.com/conda-forge/fastapi-pagination-feedstock.git
 	path = feedstocks/fastapi-pagination
 	branch = refs/heads/main
+[submodule "smact"]
+	url = https://github.com/conda-forge/smact-feedstock.git
+	path = feedstocks/smact
+	branch = refs/heads/main
