@@ -81046,3 +81046,7 @@
 	url = https://github.com/conda-forge/google-cloud-functions-feedstock.git
 	path = feedstocks/google-cloud-functions
 	branch = refs/heads/main
+[submodule "google-cloud-bigquery-connection"]
+	url = https://github.com/conda-forge/google-cloud-bigquery-connection-feedstock.git
+	path = feedstocks/google-cloud-bigquery-connection
+	branch = refs/heads/main
