@@ -81038,3 +81038,7 @@
 	url = https://github.com/conda-forge/ingeoml-feedstock.git
 	path = feedstocks/ingeoml
 	branch = refs/heads/main
+[submodule "bigframes"]
+	url = https://github.com/conda-forge/bigframes-feedstock.git
+	path = feedstocks/bigframes
+	branch = refs/heads/main
