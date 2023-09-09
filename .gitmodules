@@ -81062,3 +81062,7 @@
 	url = https://github.com/conda-forge/smact-feedstock.git
 	path = feedstocks/smact
 	branch = refs/heads/main
+[submodule "aihwkit-gpu"]
+	url = https://github.com/conda-forge/aihwkit-gpu-feedstock.git
+	path = feedstocks/aihwkit-gpu
+	branch = refs/heads/main
