@@ -81042,3 +81042,7 @@
 	url = https://github.com/conda-forge/bigframes-feedstock.git
 	path = feedstocks/bigframes
 	branch = refs/heads/main
+[submodule "google-cloud-functions"]
+	url = https://github.com/conda-forge/google-cloud-functions-feedstock.git
+	path = feedstocks/google-cloud-functions
+	branch = refs/heads/main
