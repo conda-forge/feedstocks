@@ -81054,3 +81054,7 @@
 	url = https://github.com/conda-forge/fastapi-crudrouter-feedstock.git
 	path = feedstocks/fastapi-crudrouter
 	branch = refs/heads/main
+[submodule "fastapi-pagination"]
+	url = https://github.com/conda-forge/fastapi-pagination-feedstock.git
+	path = feedstocks/fastapi-pagination
+	branch = refs/heads/main
