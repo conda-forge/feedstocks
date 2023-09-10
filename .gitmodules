@@ -81070,3 +81070,7 @@
 	url = https://github.com/conda-forge/django-grpc-feedstock.git
 	path = feedstocks/django-grpc
 	branch = refs/heads/main
+[submodule "pyproject2conda"]
+	url = https://github.com/conda-forge/pyproject2conda-feedstock.git
+	path = feedstocks/pyproject2conda
+	branch = refs/heads/main
