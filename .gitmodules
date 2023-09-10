@@ -81094,3 +81094,7 @@
 	url = https://github.com/conda-forge/behave-django-feedstock.git
 	path = feedstocks/behave-django
 	branch = refs/heads/main
+[submodule "basedmypy"]
+	url = https://github.com/conda-forge/basedmypy-feedstock.git
+	path = feedstocks/basedmypy
+	branch = refs/heads/main
