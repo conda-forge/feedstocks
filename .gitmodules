@@ -81074,3 +81074,7 @@
 	url = https://github.com/conda-forge/pyproject2conda-feedstock.git
 	path = feedstocks/pyproject2conda
 	branch = refs/heads/main
+[submodule "whl2conda"]
+	url = https://github.com/conda-forge/whl2conda-feedstock.git
+	path = feedstocks/whl2conda
+	branch = refs/heads/main
