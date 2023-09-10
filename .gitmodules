@@ -81090,3 +81090,7 @@
 	url = https://github.com/conda-forge/flake8-logging-feedstock.git
 	path = feedstocks/flake8-logging
 	branch = refs/heads/main
+[submodule "behave-django"]
+	url = https://github.com/conda-forge/behave-django-feedstock.git
+	path = feedstocks/behave-django
+	branch = refs/heads/main
