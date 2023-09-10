@@ -81086,3 +81086,7 @@
 	url = https://github.com/conda-forge/basedtyping-feedstock.git
 	path = feedstocks/basedtyping
 	branch = refs/heads/main
+[submodule "flake8-logging"]
+	url = https://github.com/conda-forge/flake8-logging-feedstock.git
+	path = feedstocks/flake8-logging
+	branch = refs/heads/main
