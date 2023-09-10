@@ -81066,3 +81066,7 @@
 	url = https://github.com/conda-forge/aihwkit-gpu-feedstock.git
 	path = feedstocks/aihwkit-gpu
 	branch = refs/heads/main
+[submodule "django-grpc"]
+	url = https://github.com/conda-forge/django-grpc-feedstock.git
+	path = feedstocks/django-grpc
+	branch = refs/heads/main
