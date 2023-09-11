@@ -81110,3 +81110,7 @@
 	url = https://github.com/conda-forge/gimble-feedstock.git
 	path = feedstocks/gimble
 	branch = refs/heads/main
+[submodule "pytest-robotframework"]
+	url = https://github.com/conda-forge/pytest-robotframework-feedstock.git
+	path = feedstocks/pytest-robotframework
+	branch = refs/heads/main
