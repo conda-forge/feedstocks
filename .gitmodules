@@ -81122,3 +81122,7 @@
 	url = https://github.com/conda-forge/singleton-decorator-feedstock.git
 	path = feedstocks/singleton-decorator
 	branch = refs/heads/main
+[submodule "minio-server"]
+	url = https://github.com/conda-forge/minio-server-feedstock.git
+	path = feedstocks/minio-server
+	branch = refs/heads/main
