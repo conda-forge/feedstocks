@@ -81102,3 +81102,7 @@
 	url = https://github.com/conda-forge/dbt-duckdb-feedstock.git
 	path = feedstocks/dbt-duckdb
 	branch = refs/heads/main
+[submodule "django-linear-migrations"]
+	url = https://github.com/conda-forge/django-linear-migrations-feedstock.git
+	path = feedstocks/django-linear-migrations
+	branch = refs/heads/main
