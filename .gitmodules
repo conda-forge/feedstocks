@@ -81114,3 +81114,7 @@
 	url = https://github.com/conda-forge/pytest-robotframework-feedstock.git
 	path = feedstocks/pytest-robotframework
 	branch = refs/heads/main
+[submodule "django-socio-grpc"]
+	url = https://github.com/conda-forge/django-socio-grpc-feedstock.git
+	path = feedstocks/django-socio-grpc
+	branch = refs/heads/main
