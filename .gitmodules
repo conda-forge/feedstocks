@@ -81106,3 +81106,7 @@
 	url = https://github.com/conda-forge/django-linear-migrations-feedstock.git
 	path = feedstocks/django-linear-migrations
 	branch = refs/heads/main
+[submodule "gimble"]
+	url = https://github.com/conda-forge/gimble-feedstock.git
+	path = feedstocks/gimble
+	branch = refs/heads/main
