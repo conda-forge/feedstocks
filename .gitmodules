@@ -81130,3 +81130,7 @@
 	url = https://github.com/conda-forge/finam-feedstock.git
 	path = feedstocks/finam
 	branch = refs/heads/main
+[submodule "jupyterlab-s3-browser"]
+	url = https://github.com/conda-forge/jupyterlab-s3-browser-feedstock.git
+	path = feedstocks/jupyterlab-s3-browser
+	branch = refs/heads/main
