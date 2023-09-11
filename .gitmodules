@@ -81098,3 +81098,7 @@
 	url = https://github.com/conda-forge/basedmypy-feedstock.git
 	path = feedstocks/basedmypy
 	branch = refs/heads/main
+[submodule "dbt-duckdb"]
+	url = https://github.com/conda-forge/dbt-duckdb-feedstock.git
+	path = feedstocks/dbt-duckdb
+	branch = refs/heads/main
