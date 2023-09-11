@@ -81126,3 +81126,7 @@
 	url = https://github.com/conda-forge/minio-server-feedstock.git
 	path = feedstocks/minio-server
 	branch = refs/heads/main
+[submodule "finam"]
+	url = https://github.com/conda-forge/finam-feedstock.git
+	path = feedstocks/finam
+	branch = refs/heads/main
