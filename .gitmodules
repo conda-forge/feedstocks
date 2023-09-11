@@ -81118,3 +81118,7 @@
 	url = https://github.com/conda-forge/django-socio-grpc-feedstock.git
 	path = feedstocks/django-socio-grpc
 	branch = refs/heads/main
+[submodule "singleton-decorator"]
+	url = https://github.com/conda-forge/singleton-decorator-feedstock.git
+	path = feedstocks/singleton-decorator
+	branch = refs/heads/main
