@@ -81134,3 +81134,7 @@
 	url = https://github.com/conda-forge/jupyterlab-s3-browser-feedstock.git
 	path = feedstocks/jupyterlab-s3-browser
 	branch = refs/heads/main
+[submodule "uhdm"]
+	url = https://github.com/conda-forge/uhdm-feedstock.git
+	path = feedstocks/uhdm
+	branch = refs/heads/main
