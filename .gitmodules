@@ -81138,3 +81138,7 @@
 	url = https://github.com/conda-forge/uhdm-feedstock.git
 	path = feedstocks/uhdm
 	branch = refs/heads/main
+[submodule "pynmeagps"]
+	url = https://github.com/conda-forge/pynmeagps-feedstock.git
+	path = feedstocks/pynmeagps
+	branch = refs/heads/main
