@@ -81150,3 +81150,7 @@
 	url = https://github.com/conda-forge/cotengra-feedstock.git
 	path = feedstocks/cotengra
 	branch = refs/heads/main
+[submodule "sphinxcontrib-matlabdomain"]
+	url = https://github.com/conda-forge/sphinxcontrib-matlabdomain-feedstock.git
+	path = feedstocks/sphinxcontrib-matlabdomain
+	branch = refs/heads/main
