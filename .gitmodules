@@ -81154,3 +81154,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-matlabdomain-feedstock.git
 	path = feedstocks/sphinxcontrib-matlabdomain
 	branch = refs/heads/main
+[submodule "oda-api"]
+	url = https://github.com/conda-forge/oda-api-feedstock.git
+	path = feedstocks/oda-api
+	branch = refs/heads/main
