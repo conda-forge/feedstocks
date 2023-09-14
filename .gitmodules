@@ -81174,3 +81174,7 @@
 	url = https://github.com/conda-forge/qgis-plugin-manager-feedstock.git
 	path = feedstocks/qgis-plugin-manager
 	branch = refs/heads/main
+[submodule "powerpax"]
+	url = https://github.com/conda-forge/powerpax-feedstock.git
+	path = feedstocks/powerpax
+	branch = refs/heads/main
