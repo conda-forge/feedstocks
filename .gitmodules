@@ -81170,3 +81170,7 @@
 	url = https://github.com/conda-forge/mesa-geo-feedstock.git
 	path = feedstocks/mesa-geo
 	branch = refs/heads/main
+[submodule "qgis-plugin-manager"]
+	url = https://github.com/conda-forge/qgis-plugin-manager-feedstock.git
+	path = feedstocks/qgis-plugin-manager
+	branch = refs/heads/main
