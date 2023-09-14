@@ -81166,3 +81166,7 @@
 	url = https://github.com/conda-forge/bsplines2d-feedstock.git
 	path = feedstocks/bsplines2d
 	branch = refs/heads/main
+[submodule "mesa-geo"]
+	url = https://github.com/conda-forge/mesa-geo-feedstock.git
+	path = feedstocks/mesa-geo
+	branch = refs/heads/main
