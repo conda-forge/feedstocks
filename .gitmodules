@@ -81194,3 +81194,7 @@
 	url = https://github.com/conda-forge/minizip-feedstock.git
 	path = feedstocks/minizip
 	branch = refs/heads/main
+[submodule "normi"]
+	url = https://github.com/conda-forge/normi-feedstock.git
+	path = feedstocks/normi
+	branch = refs/heads/main
