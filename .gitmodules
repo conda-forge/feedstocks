@@ -81178,3 +81178,7 @@
 	url = https://github.com/conda-forge/powerpax-feedstock.git
 	path = feedstocks/powerpax
 	branch = refs/heads/main
+[submodule "stemflow"]
+	url = https://github.com/conda-forge/stemflow-feedstock.git
+	path = feedstocks/stemflow
+	branch = refs/heads/main
