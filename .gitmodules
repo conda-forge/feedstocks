@@ -81186,3 +81186,7 @@
 	url = https://github.com/conda-forge/click-configfile-feedstock.git
 	path = feedstocks/click-configfile
 	branch = refs/heads/main
+[submodule "tsml"]
+	url = https://github.com/conda-forge/tsml-feedstock.git
+	path = feedstocks/tsml
+	branch = refs/heads/main
