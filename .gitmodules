@@ -81182,3 +81182,7 @@
 	url = https://github.com/conda-forge/stemflow-feedstock.git
 	path = feedstocks/stemflow
 	branch = refs/heads/main
+[submodule "click-configfile"]
+	url = https://github.com/conda-forge/click-configfile-feedstock.git
+	path = feedstocks/click-configfile
+	branch = refs/heads/main
