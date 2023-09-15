@@ -81190,3 +81190,7 @@
 	url = https://github.com/conda-forge/tsml-feedstock.git
 	path = feedstocks/tsml
 	branch = refs/heads/main
+[submodule "minizip"]
+	url = https://github.com/conda-forge/minizip-feedstock.git
+	path = feedstocks/minizip
+	branch = refs/heads/main
