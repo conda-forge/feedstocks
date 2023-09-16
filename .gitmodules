@@ -81202,3 +81202,7 @@
 	url = https://github.com/conda-forge/laserbeamsize-feedstock.git
 	path = feedstocks/laserbeamsize
 	branch = refs/heads/main
+[submodule "unix-ar"]
+	url = https://github.com/conda-forge/unix-ar-feedstock.git
+	path = feedstocks/unix-ar
+	branch = refs/heads/main
