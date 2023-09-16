@@ -81206,3 +81206,7 @@
 	url = https://github.com/conda-forge/unix-ar-feedstock.git
 	path = feedstocks/unix-ar
 	branch = refs/heads/main
+[submodule "robotframework-assertion-engine"]
+	url = https://github.com/conda-forge/robotframework-assertion-engine-feedstock.git
+	path = feedstocks/robotframework-assertion-engine
+	branch = refs/heads/main
