@@ -81226,3 +81226,7 @@
 	url = https://github.com/conda-forge/trlib-feedstock.git
 	path = feedstocks/trlib
 	branch = refs/heads/main
+[submodule "pylinalg"]
+	url = https://github.com/conda-forge/pylinalg-feedstock.git
+	path = feedstocks/pylinalg
+	branch = refs/heads/main
