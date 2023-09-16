@@ -81218,3 +81218,7 @@
 	url = https://github.com/conda-forge/wgpu-native-feedstock.git
 	path = feedstocks/wgpu-native
 	branch = refs/heads/main
+[submodule "pyodide-lock"]
+	url = https://github.com/conda-forge/pyodide-lock-feedstock.git
+	path = feedstocks/pyodide-lock
+	branch = refs/heads/main
