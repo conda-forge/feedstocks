@@ -81210,3 +81210,7 @@
 	url = https://github.com/conda-forge/robotframework-assertion-engine-feedstock.git
 	path = feedstocks/robotframework-assertion-engine
 	branch = refs/heads/main
+[submodule "webgpu-headers"]
+	url = https://github.com/conda-forge/webgpu-headers-feedstock.git
+	path = feedstocks/webgpu-headers
+	branch = refs/heads/main
