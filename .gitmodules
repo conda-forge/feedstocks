@@ -81214,3 +81214,7 @@
 	url = https://github.com/conda-forge/webgpu-headers-feedstock.git
 	path = feedstocks/webgpu-headers
 	branch = refs/heads/main
+[submodule "wgpu-native"]
+	url = https://github.com/conda-forge/wgpu-native-feedstock.git
+	path = feedstocks/wgpu-native
+	branch = refs/heads/main
