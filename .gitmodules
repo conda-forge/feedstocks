@@ -81222,3 +81222,7 @@
 	url = https://github.com/conda-forge/pyodide-lock-feedstock.git
 	path = feedstocks/pyodide-lock
 	branch = refs/heads/main
+[submodule "trlib"]
+	url = https://github.com/conda-forge/trlib-feedstock.git
+	path = feedstocks/trlib
+	branch = refs/heads/main
