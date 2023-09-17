@@ -81230,3 +81230,7 @@
 	url = https://github.com/conda-forge/pylinalg-feedstock.git
 	path = feedstocks/pylinalg
 	branch = refs/heads/main
+[submodule "odbc2parquet"]
+	url = https://github.com/conda-forge/odbc2parquet-feedstock.git
+	path = feedstocks/odbc2parquet
+	branch = refs/heads/main
