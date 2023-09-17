@@ -81238,3 +81238,7 @@
 	url = https://github.com/conda-forge/wgpu-py-feedstock.git
 	path = feedstocks/wgpu-py
 	branch = refs/heads/main
+[submodule "pygfx"]
+	url = https://github.com/conda-forge/pygfx-feedstock.git
+	path = feedstocks/pygfx
+	branch = refs/heads/main
