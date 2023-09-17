@@ -81234,3 +81234,7 @@
 	url = https://github.com/conda-forge/odbc2parquet-feedstock.git
 	path = feedstocks/odbc2parquet
 	branch = refs/heads/main
+[submodule "wgpu-py"]
+	url = https://github.com/conda-forge/wgpu-py-feedstock.git
+	path = feedstocks/wgpu-py
+	branch = refs/heads/main
