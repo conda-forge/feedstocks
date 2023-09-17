@@ -81246,3 +81246,7 @@
 	url = https://github.com/conda-forge/geomesher-feedstock.git
 	path = feedstocks/geomesher
 	branch = refs/heads/main
+[submodule "pywaterflood"]
+	url = https://github.com/conda-forge/pywaterflood-feedstock.git
+	path = feedstocks/pywaterflood
+	branch = refs/heads/main
