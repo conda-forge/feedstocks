@@ -81242,3 +81242,7 @@
 	url = https://github.com/conda-forge/pygfx-feedstock.git
 	path = feedstocks/pygfx
 	branch = refs/heads/main
+[submodule "geomesher"]
+	url = https://github.com/conda-forge/geomesher-feedstock.git
+	path = feedstocks/geomesher
+	branch = refs/heads/main
