@@ -81254,3 +81254,7 @@
 	url = https://github.com/conda-forge/r-mediation-feedstock.git
 	path = feedstocks/r-mediation
 	branch = refs/heads/main
+[submodule "r-rcppint64"]
+	url = https://github.com/conda-forge/r-rcppint64-feedstock.git
+	path = feedstocks/r-rcppint64
+	branch = refs/heads/main
