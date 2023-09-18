@@ -81258,3 +81258,7 @@
 	url = https://github.com/conda-forge/r-rcppint64-feedstock.git
 	path = feedstocks/r-rcppint64
 	branch = refs/heads/main
+[submodule "raynest"]
+	url = https://github.com/conda-forge/raynest-feedstock.git
+	path = feedstocks/raynest
+	branch = refs/heads/main
