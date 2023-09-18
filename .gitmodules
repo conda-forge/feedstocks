@@ -81262,3 +81262,7 @@
 	url = https://github.com/conda-forge/raynest-feedstock.git
 	path = feedstocks/raynest
 	branch = refs/heads/main
+[submodule "osdf-client"]
+	url = https://github.com/conda-forge/osdf-client-feedstock.git
+	path = feedstocks/osdf-client
+	branch = refs/heads/main
