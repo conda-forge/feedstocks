@@ -81302,3 +81302,7 @@
 	url = https://github.com/conda-forge/powerfit-feedstock.git
 	path = feedstocks/powerfit
 	branch = refs/heads/main
+[submodule "uiautomation"]
+	url = https://github.com/conda-forge/uiautomation-feedstock.git
+	path = feedstocks/uiautomation
+	branch = refs/heads/main
