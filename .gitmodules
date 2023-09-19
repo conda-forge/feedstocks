@@ -81306,3 +81306,7 @@
 	url = https://github.com/conda-forge/uiautomation-feedstock.git
 	path = feedstocks/uiautomation
 	branch = refs/heads/main
+[submodule "sagemaker-studio-analytics-extension"]
+	url = https://github.com/conda-forge/sagemaker-studio-analytics-extension-feedstock.git
+	path = feedstocks/sagemaker-studio-analytics-extension
+	branch = refs/heads/main
