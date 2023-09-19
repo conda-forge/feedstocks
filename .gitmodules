@@ -81266,3 +81266,7 @@
 	url = https://github.com/conda-forge/osdf-client-feedstock.git
 	path = feedstocks/osdf-client
 	branch = refs/heads/main
+[submodule "smee"]
+	url = https://github.com/conda-forge/smee-feedstock.git
+	path = feedstocks/smee
+	branch = refs/heads/main
