@@ -81294,3 +81294,7 @@
 	url = https://github.com/conda-forge/pypolar-feedstock.git
 	path = feedstocks/pypolar
 	branch = refs/heads/main
+[submodule "lagrange-ng"]
+	url = https://github.com/conda-forge/lagrange-ng-feedstock.git
+	path = feedstocks/lagrange-ng
+	branch = refs/heads/main
