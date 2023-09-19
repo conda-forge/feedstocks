@@ -81270,3 +81270,7 @@
 	url = https://github.com/conda-forge/smee-feedstock.git
 	path = feedstocks/smee
 	branch = refs/heads/main
+[submodule "pgdumplib"]
+	url = https://github.com/conda-forge/pgdumplib-feedstock.git
+	path = feedstocks/pgdumplib
+	branch = refs/heads/main
