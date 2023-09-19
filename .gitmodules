@@ -81290,3 +81290,7 @@
 	url = https://github.com/conda-forge/py-wake-feedstock.git
 	path = feedstocks/py-wake
 	branch = refs/heads/main
+[submodule "pypolar"]
+	url = https://github.com/conda-forge/pypolar-feedstock.git
+	path = feedstocks/pypolar
+	branch = refs/heads/main
