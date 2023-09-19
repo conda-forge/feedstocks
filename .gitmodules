@@ -81282,3 +81282,7 @@
 	url = https://github.com/conda-forge/pyobjc-framework-applicationservices-feedstock.git
 	path = feedstocks/pyobjc-framework-applicationservices
 	branch = refs/heads/main
+[submodule "pyobjc-framework-coretext"]
+	url = https://github.com/conda-forge/pyobjc-framework-coretext-feedstock.git
+	path = feedstocks/pyobjc-framework-coretext
+	branch = refs/heads/main
