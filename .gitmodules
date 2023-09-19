@@ -81278,3 +81278,7 @@
 	url = https://github.com/conda-forge/heat-feedstock.git
 	path = feedstocks/heat
 	branch = refs/heads/main
+[submodule "pyobjc-framework-applicationservices"]
+	url = https://github.com/conda-forge/pyobjc-framework-applicationservices-feedstock.git
+	path = feedstocks/pyobjc-framework-applicationservices
+	branch = refs/heads/main
