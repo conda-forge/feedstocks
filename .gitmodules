@@ -81310,3 +81310,7 @@
 	url = https://github.com/conda-forge/sagemaker-studio-analytics-extension-feedstock.git
 	path = feedstocks/sagemaker-studio-analytics-extension
 	branch = refs/heads/main
+[submodule "sagemaker-studio-sparkmagic-lib"]
+	url = https://github.com/conda-forge/sagemaker-studio-sparkmagic-lib-feedstock.git
+	path = feedstocks/sagemaker-studio-sparkmagic-lib
+	branch = refs/heads/main
