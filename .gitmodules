@@ -81314,3 +81314,7 @@
 	url = https://github.com/conda-forge/sagemaker-studio-sparkmagic-lib-feedstock.git
 	path = feedstocks/sagemaker-studio-sparkmagic-lib
 	branch = refs/heads/main
+[submodule "cbor2"]
+	url = https://github.com/conda-forge/cbor2-feedstock.git
+	path = feedstocks/cbor2
+	branch = refs/heads/main
