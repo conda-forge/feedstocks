@@ -81298,3 +81298,7 @@
 	url = https://github.com/conda-forge/lagrange-ng-feedstock.git
 	path = feedstocks/lagrange-ng
 	branch = refs/heads/main
+[submodule "powerfit"]
+	url = https://github.com/conda-forge/powerfit-feedstock.git
+	path = feedstocks/powerfit
+	branch = refs/heads/main
