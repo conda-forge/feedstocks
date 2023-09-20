@@ -81318,3 +81318,7 @@
 	url = https://github.com/conda-forge/cbor2-feedstock.git
 	path = feedstocks/cbor2
 	branch = refs/heads/main
+[submodule "lstmcpipe"]
+	url = https://github.com/conda-forge/lstmcpipe-feedstock.git
+	path = feedstocks/lstmcpipe
+	branch = refs/heads/main
