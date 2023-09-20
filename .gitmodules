@@ -81322,3 +81322,7 @@
 	url = https://github.com/conda-forge/lstmcpipe-feedstock.git
 	path = feedstocks/lstmcpipe
 	branch = refs/heads/main
+[submodule "opentelemetry-exporter-prometheus"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-prometheus-feedstock.git
+	path = feedstocks/opentelemetry-exporter-prometheus
+	branch = refs/heads/main
