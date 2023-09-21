@@ -81342,3 +81342,7 @@
 	url = https://github.com/conda-forge/pyparam-feedstock.git
 	path = feedstocks/pyparam
 	branch = refs/heads/main
+[submodule "robocorp-truststore"]
+	url = https://github.com/conda-forge/robocorp-truststore-feedstock.git
+	path = feedstocks/robocorp-truststore
+	branch = refs/heads/main
