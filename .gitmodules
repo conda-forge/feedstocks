@@ -81338,3 +81338,7 @@
 	url = https://github.com/conda-forge/financedatabase-feedstock.git
 	path = feedstocks/financedatabase
 	branch = refs/heads/main
+[submodule "pyparam"]
+	url = https://github.com/conda-forge/pyparam-feedstock.git
+	path = feedstocks/pyparam
+	branch = refs/heads/main
