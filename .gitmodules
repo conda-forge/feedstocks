@@ -81326,3 +81326,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-prometheus-feedstock.git
 	path = feedstocks/opentelemetry-exporter-prometheus
 	branch = refs/heads/main
+[submodule "pytest-speed"]
+	url = https://github.com/conda-forge/pytest-speed-feedstock.git
+	path = feedstocks/pytest-speed
+	branch = refs/heads/main
