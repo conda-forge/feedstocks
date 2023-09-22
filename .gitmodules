@@ -81346,3 +81346,7 @@
 	url = https://github.com/conda-forge/robocorp-truststore-feedstock.git
 	path = feedstocks/robocorp-truststore
 	branch = refs/heads/main
+[submodule "graphpro"]
+	url = https://github.com/conda-forge/graphpro-feedstock.git
+	path = feedstocks/graphpro
+	branch = refs/heads/main
