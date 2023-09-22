@@ -81374,3 +81374,7 @@
 	url = https://github.com/conda-forge/metocean-api-feedstock.git
 	path = feedstocks/metocean-api
 	branch = refs/heads/main
+[submodule "perl-uri-query"]
+	url = https://github.com/conda-forge/perl-uri-query-feedstock.git
+	path = feedstocks/perl-uri-query
+	branch = refs/heads/main
