@@ -81350,3 +81350,7 @@
 	url = https://github.com/conda-forge/graphpro-feedstock.git
 	path = feedstocks/graphpro
 	branch = refs/heads/main
+[submodule "check-wheel-contents"]
+	url = https://github.com/conda-forge/check-wheel-contents-feedstock.git
+	path = feedstocks/check-wheel-contents
+	branch = refs/heads/main
