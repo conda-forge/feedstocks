@@ -81366,3 +81366,7 @@
 	url = https://github.com/conda-forge/iadpython-feedstock.git
 	path = feedstocks/iadpython
 	branch = refs/heads/main
+[submodule "webauthn"]
+	url = https://github.com/conda-forge/webauthn-feedstock.git
+	path = feedstocks/webauthn
+	branch = refs/heads/main
