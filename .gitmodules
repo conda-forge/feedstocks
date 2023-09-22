@@ -81386,3 +81386,7 @@
 	url = https://github.com/conda-forge/s2sphere-feedstock.git
 	path = feedstocks/s2sphere
 	branch = refs/heads/main
+[submodule "ofiber"]
+	url = https://github.com/conda-forge/ofiber-feedstock.git
+	path = feedstocks/ofiber
+	branch = refs/heads/main
