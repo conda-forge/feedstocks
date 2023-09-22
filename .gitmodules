@@ -81362,3 +81362,7 @@
 	url = https://github.com/conda-forge/rtoml-feedstock.git
 	path = feedstocks/rtoml
 	branch = refs/heads/main
+[submodule "iadpython"]
+	url = https://github.com/conda-forge/iadpython-feedstock.git
+	path = feedstocks/iadpython
+	branch = refs/heads/main
