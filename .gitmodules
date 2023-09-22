@@ -81378,3 +81378,7 @@
 	url = https://github.com/conda-forge/perl-uri-query-feedstock.git
 	path = feedstocks/perl-uri-query
 	branch = refs/heads/main
+[submodule "rod"]
+	url = https://github.com/conda-forge/rod-feedstock.git
+	path = feedstocks/rod
+	branch = refs/heads/main
