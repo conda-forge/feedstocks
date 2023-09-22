@@ -81390,3 +81390,7 @@
 	url = https://github.com/conda-forge/ofiber-feedstock.git
 	path = feedstocks/ofiber
 	branch = refs/heads/main
+[submodule "java-access-bridge-wrapper"]
+	url = https://github.com/conda-forge/java-access-bridge-wrapper-feedstock.git
+	path = feedstocks/java-access-bridge-wrapper
+	branch = refs/heads/main
