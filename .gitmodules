@@ -81358,3 +81358,7 @@
 	url = https://github.com/conda-forge/llama-index-feedstock.git
 	path = feedstocks/llama-index
 	branch = refs/heads/main
+[submodule "rtoml"]
+	url = https://github.com/conda-forge/rtoml-feedstock.git
+	path = feedstocks/rtoml
+	branch = refs/heads/main
