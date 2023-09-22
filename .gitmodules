@@ -81354,3 +81354,7 @@
 	url = https://github.com/conda-forge/check-wheel-contents-feedstock.git
 	path = feedstocks/check-wheel-contents
 	branch = refs/heads/main
+[submodule "llama-index"]
+	url = https://github.com/conda-forge/llama-index-feedstock.git
+	path = feedstocks/llama-index
+	branch = refs/heads/main
