@@ -81370,3 +81370,7 @@
 	url = https://github.com/conda-forge/webauthn-feedstock.git
 	path = feedstocks/webauthn
 	branch = refs/heads/main
+[submodule "metocean-api"]
+	url = https://github.com/conda-forge/metocean-api-feedstock.git
+	path = feedstocks/metocean-api
+	branch = refs/heads/main
