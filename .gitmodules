@@ -81382,3 +81382,7 @@
 	url = https://github.com/conda-forge/rod-feedstock.git
 	path = feedstocks/rod
 	branch = refs/heads/main
+[submodule "s2sphere"]
+	url = https://github.com/conda-forge/s2sphere-feedstock.git
+	path = feedstocks/s2sphere
+	branch = refs/heads/main
