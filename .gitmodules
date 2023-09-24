@@ -81394,3 +81394,7 @@
 	url = https://github.com/conda-forge/java-access-bridge-wrapper-feedstock.git
 	path = feedstocks/java-access-bridge-wrapper
 	branch = refs/heads/main
+[submodule "_python_rc"]
+	url = https://github.com/conda-forge/_python_rc-feedstock.git
+	path = feedstocks/_python_rc
+	branch = refs/heads/main
