@@ -81398,3 +81398,7 @@
 	url = https://github.com/conda-forge/_python_rc-feedstock.git
 	path = feedstocks/_python_rc
 	branch = refs/heads/main
+[submodule "smartsheet-python-sdk"]
+	url = https://github.com/conda-forge/smartsheet-python-sdk-feedstock.git
+	path = feedstocks/smartsheet-python-sdk
+	branch = refs/heads/main
