@@ -81410,3 +81410,7 @@
 	url = https://github.com/conda-forge/conda-minify-feedstock.git
 	path = feedstocks/conda-minify
 	branch = refs/heads/main
+[submodule "hubspot-api-client"]
+	url = https://github.com/conda-forge/hubspot-api-client-feedstock.git
+	path = feedstocks/hubspot-api-client
+	branch = refs/heads/main
