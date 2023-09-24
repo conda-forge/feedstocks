@@ -81406,3 +81406,7 @@
 	url = https://github.com/conda-forge/htmldocx-feedstock.git
 	path = feedstocks/htmldocx
 	branch = refs/heads/main
+[submodule "conda-minify"]
+	url = https://github.com/conda-forge/conda-minify-feedstock.git
+	path = feedstocks/conda-minify
+	branch = refs/heads/main
