@@ -81414,3 +81414,7 @@
 	url = https://github.com/conda-forge/hubspot-api-client-feedstock.git
 	path = feedstocks/hubspot-api-client
 	branch = refs/heads/main
+[submodule "antlr-cpp-runtime"]
+	url = https://github.com/conda-forge/antlr-cpp-runtime-feedstock.git
+	path = feedstocks/antlr-cpp-runtime
+	branch = refs/heads/main
