@@ -81426,3 +81426,7 @@
 	url = https://github.com/conda-forge/pytest-pyvista-feedstock.git
 	path = feedstocks/pytest-pyvista
 	branch = refs/heads/main
+[submodule "pedantic"]
+	url = https://github.com/conda-forge/pedantic-feedstock.git
+	path = feedstocks/pedantic
+	branch = refs/heads/main
