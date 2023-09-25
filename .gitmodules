@@ -81422,3 +81422,7 @@
 	url = https://github.com/conda-forge/cookiecutter-django-core-feedstock.git
 	path = feedstocks/cookiecutter-django-core
 	branch = refs/heads/main
+[submodule "pytest-pyvista"]
+	url = https://github.com/conda-forge/pytest-pyvista-feedstock.git
+	path = feedstocks/pytest-pyvista
+	branch = refs/heads/main
