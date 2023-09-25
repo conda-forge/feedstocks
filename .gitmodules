@@ -81418,3 +81418,7 @@
 	url = https://github.com/conda-forge/antlr-cpp-runtime-feedstock.git
 	path = feedstocks/antlr-cpp-runtime
 	branch = refs/heads/main
+[submodule "cookiecutter-django-core"]
+	url = https://github.com/conda-forge/cookiecutter-django-core-feedstock.git
+	path = feedstocks/cookiecutter-django-core
+	branch = refs/heads/main
