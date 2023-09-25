@@ -81430,3 +81430,7 @@
 	url = https://github.com/conda-forge/pedantic-feedstock.git
 	path = feedstocks/pedantic
 	branch = refs/heads/main
+[submodule "metocean-stats"]
+	url = https://github.com/conda-forge/metocean-stats-feedstock.git
+	path = feedstocks/metocean-stats
+	branch = refs/heads/main
