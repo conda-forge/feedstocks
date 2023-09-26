@@ -81438,3 +81438,7 @@
 	url = https://github.com/conda-forge/pylsqpack-feedstock.git
 	path = feedstocks/pylsqpack
 	branch = refs/heads/main
+[submodule "python-ace"]
+	url = https://github.com/conda-forge/python-ace-feedstock.git
+	path = feedstocks/python-ace
+	branch = refs/heads/main
