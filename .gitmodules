@@ -81446,3 +81446,7 @@
 	url = https://github.com/conda-forge/ctapipe-io-magic-feedstock.git
 	path = feedstocks/ctapipe-io-magic
 	branch = refs/heads/main
+[submodule "jupyter_scheduler"]
+	url = https://github.com/conda-forge/jupyter_scheduler-feedstock.git
+	path = feedstocks/jupyter_scheduler
+	branch = refs/heads/main
