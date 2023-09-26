@@ -81450,3 +81450,7 @@
 	url = https://github.com/conda-forge/jupyter_scheduler-feedstock.git
 	path = feedstocks/jupyter_scheduler
 	branch = refs/heads/main
+[submodule "jupyter-ai"]
+	url = https://github.com/conda-forge/jupyter-ai-feedstock.git
+	path = feedstocks/jupyter-ai
+	branch = refs/heads/main
