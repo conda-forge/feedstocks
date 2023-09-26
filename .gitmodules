@@ -81458,3 +81458,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-magics-feedstock.git
 	path = feedstocks/jupyter-ai-magics
 	branch = refs/heads/main
+[submodule "redflag"]
+	url = https://github.com/conda-forge/redflag-feedstock.git
+	path = feedstocks/redflag
+	branch = refs/heads/main
