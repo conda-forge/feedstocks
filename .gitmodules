@@ -81434,3 +81434,7 @@
 	url = https://github.com/conda-forge/metocean-stats-feedstock.git
 	path = feedstocks/metocean-stats
 	branch = refs/heads/main
+[submodule "pylsqpack"]
+	url = https://github.com/conda-forge/pylsqpack-feedstock.git
+	path = feedstocks/pylsqpack
+	branch = refs/heads/main
