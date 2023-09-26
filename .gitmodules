@@ -81454,3 +81454,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-feedstock.git
 	path = feedstocks/jupyter-ai
 	branch = refs/heads/main
+[submodule "jupyter-ai-magics"]
+	url = https://github.com/conda-forge/jupyter-ai-magics-feedstock.git
+	path = feedstocks/jupyter-ai-magics
+	branch = refs/heads/main
