@@ -81442,3 +81442,7 @@
 	url = https://github.com/conda-forge/python-ace-feedstock.git
 	path = feedstocks/python-ace
 	branch = refs/heads/main
+[submodule "ctapipe-io-magic"]
+	url = https://github.com/conda-forge/ctapipe-io-magic-feedstock.git
+	path = feedstocks/ctapipe-io-magic
+	branch = refs/heads/main
