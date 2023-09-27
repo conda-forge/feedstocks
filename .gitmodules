@@ -81466,3 +81466,7 @@
 	url = https://github.com/conda-forge/prima-feedstock.git
 	path = feedstocks/prima
 	branch = refs/heads/main
+[submodule "autoeft"]
+	url = https://github.com/conda-forge/autoeft-feedstock.git
+	path = feedstocks/autoeft
+	branch = refs/heads/main
