@@ -81470,3 +81470,7 @@
 	url = https://github.com/conda-forge/autoeft-feedstock.git
 	path = feedstocks/autoeft
 	branch = refs/heads/main
+[submodule "jupyterlab-mathjax2"]
+	url = https://github.com/conda-forge/jupyterlab-mathjax2-feedstock.git
+	path = feedstocks/jupyterlab-mathjax2
+	branch = refs/heads/main
