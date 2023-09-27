@@ -81462,3 +81462,7 @@
 	url = https://github.com/conda-forge/redflag-feedstock.git
 	path = feedstocks/redflag
 	branch = refs/heads/main
+[submodule "prima"]
+	url = https://github.com/conda-forge/prima-feedstock.git
+	path = feedstocks/prima
+	branch = refs/heads/main
