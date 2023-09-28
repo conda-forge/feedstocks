@@ -81494,3 +81494,7 @@
 	url = https://github.com/conda-forge/azureml-feedstock.git
 	path = feedstocks/azureml
 	branch = refs/heads/main
+[submodule "harlequin"]
+	url = https://github.com/conda-forge/harlequin-feedstock.git
+	path = feedstocks/harlequin
+	branch = refs/heads/main
