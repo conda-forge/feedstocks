@@ -81490,3 +81490,7 @@
 	url = https://github.com/conda-forge/textual-textarea-feedstock.git
 	path = feedstocks/textual-textarea
 	branch = refs/heads/main
+[submodule "azureml"]
+	url = https://github.com/conda-forge/azureml-feedstock.git
+	path = feedstocks/azureml
+	branch = refs/heads/main
