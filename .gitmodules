@@ -81482,3 +81482,7 @@
 	url = https://github.com/conda-forge/cloud-data-connector-feedstock.git
 	path = feedstocks/cloud-data-connector
 	branch = refs/heads/main
+[submodule "shandy-sqlfmt"]
+	url = https://github.com/conda-forge/shandy-sqlfmt-feedstock.git
+	path = feedstocks/shandy-sqlfmt
+	branch = refs/heads/main
