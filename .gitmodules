@@ -81478,3 +81478,7 @@
 	url = https://github.com/conda-forge/freeqdsk-feedstock.git
 	path = feedstocks/freeqdsk
 	branch = refs/heads/main
+[submodule "cloud-data-connector"]
+	url = https://github.com/conda-forge/cloud-data-connector-feedstock.git
+	path = feedstocks/cloud-data-connector
+	branch = refs/heads/main
