@@ -81498,3 +81498,7 @@
 	url = https://github.com/conda-forge/harlequin-feedstock.git
 	path = feedstocks/harlequin
 	branch = refs/heads/main
+[submodule "winpthreads"]
+	url = https://github.com/conda-forge/winpthreads-feedstock.git
+	path = feedstocks/winpthreads
+	branch = refs/heads/main
