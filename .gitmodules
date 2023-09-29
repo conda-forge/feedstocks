@@ -81502,3 +81502,7 @@
 	url = https://github.com/conda-forge/winpthreads-feedstock.git
 	path = feedstocks/winpthreads
 	branch = refs/heads/main
+[submodule "m2w64-gcc-libs"]
+	url = https://github.com/conda-forge/m2w64-gcc-libs-feedstock.git
+	path = feedstocks/m2w64-gcc-libs
+	branch = refs/heads/main
