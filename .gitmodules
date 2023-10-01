@@ -81506,3 +81506,7 @@
 	url = https://github.com/conda-forge/m2w64-gcc-libs-feedstock.git
 	path = feedstocks/m2w64-gcc-libs
 	branch = refs/heads/main
+[submodule "m2-conda-epoch"]
+	url = https://github.com/conda-forge/m2-conda-epoch-feedstock.git
+	path = feedstocks/m2-conda-epoch
+	branch = refs/heads/main
