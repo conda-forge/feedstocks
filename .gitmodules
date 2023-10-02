@@ -81526,3 +81526,7 @@
 	url = https://github.com/conda-forge/namex-feedstock.git
 	path = feedstocks/namex
 	branch = refs/heads/main
+[submodule "assist"]
+	url = https://github.com/conda-forge/assist-feedstock.git
+	path = feedstocks/assist
+	branch = refs/heads/main
