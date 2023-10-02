@@ -81514,3 +81514,7 @@
 	url = https://github.com/conda-forge/medchem-feedstock.git
 	path = feedstocks/medchem
 	branch = refs/heads/main
+[submodule "smipoly"]
+	url = https://github.com/conda-forge/smipoly-feedstock.git
+	path = feedstocks/smipoly
+	branch = refs/heads/main
