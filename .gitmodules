@@ -81534,3 +81534,7 @@
 	url = https://github.com/conda-forge/xgrads-feedstock.git
 	path = feedstocks/xgrads
 	branch = refs/heads/main
+[submodule "tzfpy"]
+	url = https://github.com/conda-forge/tzfpy-feedstock.git
+	path = feedstocks/tzfpy
+	branch = refs/heads/main
