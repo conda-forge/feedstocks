@@ -81518,3 +81518,7 @@
 	url = https://github.com/conda-forge/smipoly-feedstock.git
 	path = feedstocks/smipoly
 	branch = refs/heads/main
+[submodule "vocalpy"]
+	url = https://github.com/conda-forge/vocalpy-feedstock.git
+	path = feedstocks/vocalpy
+	branch = refs/heads/main
