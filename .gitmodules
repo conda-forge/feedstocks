@@ -81510,3 +81510,7 @@
 	url = https://github.com/conda-forge/m2-conda-epoch-feedstock.git
 	path = feedstocks/m2-conda-epoch
 	branch = refs/heads/main
+[submodule "medchem"]
+	url = https://github.com/conda-forge/medchem-feedstock.git
+	path = feedstocks/medchem
+	branch = refs/heads/main
