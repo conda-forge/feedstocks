@@ -81530,3 +81530,7 @@
 	url = https://github.com/conda-forge/assist-feedstock.git
 	path = feedstocks/assist
 	branch = refs/heads/main
+[submodule "xgrads"]
+	url = https://github.com/conda-forge/xgrads-feedstock.git
+	path = feedstocks/xgrads
+	branch = refs/heads/main
