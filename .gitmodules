@@ -81538,3 +81538,7 @@
 	url = https://github.com/conda-forge/tzfpy-feedstock.git
 	path = feedstocks/tzfpy
 	branch = refs/heads/main
+[submodule "minijinja"]
+	url = https://github.com/conda-forge/minijinja-feedstock.git
+	path = feedstocks/minijinja
+	branch = refs/heads/main
