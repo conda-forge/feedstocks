@@ -81590,3 +81590,7 @@
 	url = https://github.com/conda-forge/aws-embedded-metrics-feedstock.git
 	path = feedstocks/aws-embedded-metrics
 	branch = refs/heads/main
+[submodule "stanio"]
+	url = https://github.com/conda-forge/stanio-feedstock.git
+	path = feedstocks/stanio
+	branch = refs/heads/main
