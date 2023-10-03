@@ -81578,3 +81578,7 @@
 	url = https://github.com/conda-forge/vtk-m-feedstock.git
 	path = feedstocks/vtk-m
 	branch = refs/heads/main
+[submodule "scorecardpy"]
+	url = https://github.com/conda-forge/scorecardpy-feedstock.git
+	path = feedstocks/scorecardpy
+	branch = refs/heads/main
