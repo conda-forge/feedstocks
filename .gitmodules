@@ -81566,3 +81566,7 @@
 	url = https://github.com/conda-forge/credible-feedstock.git
 	path = feedstocks/credible
 	branch = refs/heads/main
+[submodule "alchemiscale"]
+	url = https://github.com/conda-forge/alchemiscale-feedstock.git
+	path = feedstocks/alchemiscale
+	branch = refs/heads/main
