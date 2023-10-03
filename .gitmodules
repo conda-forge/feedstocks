@@ -81554,3 +81554,7 @@
 	url = https://github.com/conda-forge/pyvitae-feedstock.git
 	path = feedstocks/pyvitae
 	branch = refs/heads/main
+[submodule "lightly-utils"]
+	url = https://github.com/conda-forge/lightly-utils-feedstock.git
+	path = feedstocks/lightly-utils
+	branch = refs/heads/main
