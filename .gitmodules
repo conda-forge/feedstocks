@@ -81594,3 +81594,7 @@
 	url = https://github.com/conda-forge/stanio-feedstock.git
 	path = feedstocks/stanio
 	branch = refs/heads/main
+[submodule "geo-skeletons"]
+	url = https://github.com/conda-forge/geo-skeletons-feedstock.git
+	path = feedstocks/geo-skeletons
+	branch = refs/heads/main
