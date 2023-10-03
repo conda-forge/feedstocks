@@ -81598,3 +81598,7 @@
 	url = https://github.com/conda-forge/geo-skeletons-feedstock.git
 	path = feedstocks/geo-skeletons
 	branch = refs/heads/main
+[submodule "pytest-mypy-testing"]
+	url = https://github.com/conda-forge/pytest-mypy-testing-feedstock.git
+	path = feedstocks/pytest-mypy-testing
+	branch = refs/heads/main
