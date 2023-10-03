@@ -81586,3 +81586,7 @@
 	url = https://github.com/conda-forge/protected-classification-feedstock.git
 	path = feedstocks/protected-classification
 	branch = refs/heads/main
+[submodule "aws-embedded-metrics"]
+	url = https://github.com/conda-forge/aws-embedded-metrics-feedstock.git
+	path = feedstocks/aws-embedded-metrics
+	branch = refs/heads/main
