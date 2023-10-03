@@ -81562,3 +81562,7 @@
 	url = https://github.com/conda-forge/lightly-feedstock.git
 	path = feedstocks/lightly
 	branch = refs/heads/main
+[submodule "credible"]
+	url = https://github.com/conda-forge/credible-feedstock.git
+	path = feedstocks/credible
+	branch = refs/heads/main
