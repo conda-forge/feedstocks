@@ -81550,3 +81550,7 @@
 	url = https://github.com/conda-forge/locan-feedstock.git
 	path = feedstocks/locan
 	branch = refs/heads/main
+[submodule "pyvitae"]
+	url = https://github.com/conda-forge/pyvitae-feedstock.git
+	path = feedstocks/pyvitae
+	branch = refs/heads/main
