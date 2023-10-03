@@ -81574,3 +81574,7 @@
 	url = https://github.com/conda-forge/openfe-analysis-feedstock.git
 	path = feedstocks/openfe-analysis
 	branch = refs/heads/main
+[submodule "vtk-m"]
+	url = https://github.com/conda-forge/vtk-m-feedstock.git
+	path = feedstocks/vtk-m
+	branch = refs/heads/main
