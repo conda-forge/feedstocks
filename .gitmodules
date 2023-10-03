@@ -81582,3 +81582,7 @@
 	url = https://github.com/conda-forge/scorecardpy-feedstock.git
 	path = feedstocks/scorecardpy
 	branch = refs/heads/main
+[submodule "protected-classification"]
+	url = https://github.com/conda-forge/protected-classification-feedstock.git
+	path = feedstocks/protected-classification
+	branch = refs/heads/main
