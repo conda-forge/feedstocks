@@ -81570,3 +81570,7 @@
 	url = https://github.com/conda-forge/alchemiscale-feedstock.git
 	path = feedstocks/alchemiscale
 	branch = refs/heads/main
+[submodule "openfe-analysis"]
+	url = https://github.com/conda-forge/openfe-analysis-feedstock.git
+	path = feedstocks/openfe-analysis
+	branch = refs/heads/main
