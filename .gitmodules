@@ -81622,3 +81622,7 @@
 	url = https://github.com/conda-forge/gofit-feedstock.git
 	path = feedstocks/gofit
 	branch = refs/heads/main
+[submodule "gradio-client"]
+	url = https://github.com/conda-forge/gradio-client-feedstock.git
+	path = feedstocks/gradio-client
+	branch = refs/heads/main
