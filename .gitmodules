@@ -81606,3 +81606,7 @@
 	url = https://github.com/conda-forge/freesas-feedstock.git
 	path = feedstocks/freesas
 	branch = refs/heads/main
+[submodule "python-poppler"]
+	url = https://github.com/conda-forge/python-poppler-feedstock.git
+	path = feedstocks/python-poppler
+	branch = refs/heads/main
