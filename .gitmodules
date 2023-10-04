@@ -81626,3 +81626,7 @@
 	url = https://github.com/conda-forge/gradio-client-feedstock.git
 	path = feedstocks/gradio-client
 	branch = refs/heads/main
+[submodule "pyconify"]
+	url = https://github.com/conda-forge/pyconify-feedstock.git
+	path = feedstocks/pyconify
+	branch = refs/heads/main
