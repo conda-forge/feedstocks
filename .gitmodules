@@ -81650,3 +81650,7 @@
 	url = https://github.com/conda-forge/conda-auth-feedstock.git
 	path = feedstocks/conda-auth
 	branch = refs/heads/main
+[submodule "phidget22"]
+	url = https://github.com/conda-forge/phidget22-feedstock.git
+	path = feedstocks/phidget22
+	branch = refs/heads/main
