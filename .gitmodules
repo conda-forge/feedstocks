@@ -81638,3 +81638,7 @@
 	url = https://github.com/conda-forge/fractal-server-feedstock.git
 	path = feedstocks/fractal-server
 	branch = refs/heads/main
+[submodule "mecademicpy"]
+	url = https://github.com/conda-forge/mecademicpy-feedstock.git
+	path = feedstocks/mecademicpy
+	branch = refs/heads/main
