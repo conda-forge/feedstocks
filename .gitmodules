@@ -81634,3 +81634,7 @@
 	url = https://github.com/conda-forge/tophu-feedstock.git
 	path = feedstocks/tophu
 	branch = refs/heads/main
+[submodule "fractal-server"]
+	url = https://github.com/conda-forge/fractal-server-feedstock.git
+	path = feedstocks/fractal-server
+	branch = refs/heads/main
