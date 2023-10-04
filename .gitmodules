@@ -81614,3 +81614,7 @@
 	url = https://github.com/conda-forge/fractal-client-feedstock.git
 	path = feedstocks/fractal-client
 	branch = refs/heads/main
+[submodule "endstate_correction"]
+	url = https://github.com/conda-forge/endstate_correction-feedstock.git
+	path = feedstocks/endstate_correction
+	branch = refs/heads/main
