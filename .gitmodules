@@ -81646,3 +81646,7 @@
 	url = https://github.com/conda-forge/ticlib-feedstock.git
 	path = feedstocks/ticlib
 	branch = refs/heads/main
+[submodule "conda-auth"]
+	url = https://github.com/conda-forge/conda-auth-feedstock.git
+	path = feedstocks/conda-auth
+	branch = refs/heads/main
