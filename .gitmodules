@@ -81642,3 +81642,7 @@
 	url = https://github.com/conda-forge/mecademicpy-feedstock.git
 	path = feedstocks/mecademicpy
 	branch = refs/heads/main
+[submodule "ticlib"]
+	url = https://github.com/conda-forge/ticlib-feedstock.git
+	path = feedstocks/ticlib
+	branch = refs/heads/main
