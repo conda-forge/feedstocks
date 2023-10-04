@@ -81610,3 +81610,7 @@
 	url = https://github.com/conda-forge/python-poppler-feedstock.git
 	path = feedstocks/python-poppler
 	branch = refs/heads/main
+[submodule "fractal-client"]
+	url = https://github.com/conda-forge/fractal-client-feedstock.git
+	path = feedstocks/fractal-client
+	branch = refs/heads/main
