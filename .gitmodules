@@ -81654,3 +81654,7 @@
 	url = https://github.com/conda-forge/phidget22-feedstock.git
 	path = feedstocks/phidget22
 	branch = refs/heads/main
+[submodule "fractal-tasks-core"]
+	url = https://github.com/conda-forge/fractal-tasks-core-feedstock.git
+	path = feedstocks/fractal-tasks-core
+	branch = refs/heads/main
