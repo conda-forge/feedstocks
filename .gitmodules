@@ -81658,3 +81658,7 @@
 	url = https://github.com/conda-forge/fractal-tasks-core-feedstock.git
 	path = feedstocks/fractal-tasks-core
 	branch = refs/heads/main
+[submodule "types-html5lib"]
+	url = https://github.com/conda-forge/types-html5lib-feedstock.git
+	path = feedstocks/types-html5lib
+	branch = refs/heads/main
