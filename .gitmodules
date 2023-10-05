@@ -81674,3 +81674,7 @@
 	url = https://github.com/conda-forge/types-pygments-feedstock.git
 	path = feedstocks/types-pygments
 	branch = refs/heads/main
+[submodule "attrmap"]
+	url = https://github.com/conda-forge/attrmap-feedstock.git
+	path = feedstocks/attrmap
+	branch = refs/heads/main
