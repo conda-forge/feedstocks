@@ -81682,3 +81682,7 @@
 	url = https://github.com/conda-forge/diffsky-feedstock.git
 	path = feedstocks/diffsky
 	branch = refs/heads/main
+[submodule "va_am"]
+	url = https://github.com/conda-forge/va_am-feedstock.git
+	path = feedstocks/va_am
+	branch = refs/heads/main
