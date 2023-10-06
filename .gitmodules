@@ -81686,3 +81686,7 @@
 	url = https://github.com/conda-forge/va_am-feedstock.git
 	path = feedstocks/va_am
 	branch = refs/heads/main
+[submodule "gotm"]
+	url = https://github.com/conda-forge/gotm-feedstock.git
+	path = feedstocks/gotm
+	branch = refs/heads/main
