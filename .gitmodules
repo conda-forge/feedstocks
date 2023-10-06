@@ -81690,3 +81690,7 @@
 	url = https://github.com/conda-forge/gotm-feedstock.git
 	path = feedstocks/gotm
 	branch = refs/heads/main
+[submodule "jupyterlab-flake8"]
+	url = https://github.com/conda-forge/jupyterlab-flake8-feedstock.git
+	path = feedstocks/jupyterlab-flake8
+	branch = refs/heads/main
