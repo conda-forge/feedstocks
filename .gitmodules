@@ -81698,3 +81698,7 @@
 	url = https://github.com/conda-forge/psiflow-feedstock.git
 	path = feedstocks/psiflow
 	branch = refs/heads/main
+[submodule "knapsack"]
+	url = https://github.com/conda-forge/knapsack-feedstock.git
+	path = feedstocks/knapsack
+	branch = refs/heads/main
