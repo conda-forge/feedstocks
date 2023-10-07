@@ -81694,3 +81694,7 @@
 	url = https://github.com/conda-forge/jupyterlab-flake8-feedstock.git
 	path = feedstocks/jupyterlab-flake8
 	branch = refs/heads/main
+[submodule "psiflow"]
+	url = https://github.com/conda-forge/psiflow-feedstock.git
+	path = feedstocks/psiflow
+	branch = refs/heads/main
