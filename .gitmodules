@@ -81714,3 +81714,7 @@
 	url = https://github.com/conda-forge/django-tenant-users-feedstock.git
 	path = feedstocks/django-tenant-users
 	branch = refs/heads/main
+[submodule "django-dbbackup"]
+	url = https://github.com/conda-forge/django-dbbackup-feedstock.git
+	path = feedstocks/django-dbbackup
+	branch = refs/heads/main
