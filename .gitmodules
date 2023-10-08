@@ -81718,3 +81718,7 @@
 	url = https://github.com/conda-forge/django-dbbackup-feedstock.git
 	path = feedstocks/django-dbbackup
 	branch = refs/heads/main
+[submodule "django-hosts"]
+	url = https://github.com/conda-forge/django-hosts-feedstock.git
+	path = feedstocks/django-hosts
+	branch = refs/heads/main
