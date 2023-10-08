@@ -81702,3 +81702,7 @@
 	url = https://github.com/conda-forge/knapsack-feedstock.git
 	path = feedstocks/knapsack
 	branch = refs/heads/main
+[submodule "lenstest"]
+	url = https://github.com/conda-forge/lenstest-feedstock.git
+	path = feedstocks/lenstest
+	branch = refs/heads/main
