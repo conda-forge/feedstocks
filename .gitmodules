@@ -81726,3 +81726,7 @@
 	url = https://github.com/conda-forge/diazo-feedstock.git
 	path = feedstocks/diazo
 	branch = refs/heads/main
+[submodule "django-revproxy"]
+	url = https://github.com/conda-forge/django-revproxy-feedstock.git
+	path = feedstocks/django-revproxy
+	branch = refs/heads/main
