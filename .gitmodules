@@ -81710,3 +81710,7 @@
 	url = https://github.com/conda-forge/apng-feedstock.git
 	path = feedstocks/apng
 	branch = refs/heads/main
+[submodule "django-tenant-users"]
+	url = https://github.com/conda-forge/django-tenant-users-feedstock.git
+	path = feedstocks/django-tenant-users
+	branch = refs/heads/main
