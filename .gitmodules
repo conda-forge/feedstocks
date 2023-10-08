@@ -81722,3 +81722,7 @@
 	url = https://github.com/conda-forge/django-hosts-feedstock.git
 	path = feedstocks/django-hosts
 	branch = refs/heads/main
+[submodule "diazo"]
+	url = https://github.com/conda-forge/diazo-feedstock.git
+	path = feedstocks/diazo
+	branch = refs/heads/main
