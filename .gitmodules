@@ -81730,3 +81730,7 @@
 	url = https://github.com/conda-forge/django-revproxy-feedstock.git
 	path = feedstocks/django-revproxy
 	branch = refs/heads/main
+[submodule "pyasyncore"]
+	url = https://github.com/conda-forge/pyasyncore-feedstock.git
+	path = feedstocks/pyasyncore
+	branch = refs/heads/main
