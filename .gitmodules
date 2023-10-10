@@ -81758,3 +81758,7 @@
 	url = https://github.com/conda-forge/cuda-command-line-tools-feedstock.git
 	path = feedstocks/cuda-command-line-tools
 	branch = refs/heads/main
+[submodule "cuda-tools"]
+	url = https://github.com/conda-forge/cuda-tools-feedstock.git
+	path = feedstocks/cuda-tools
+	branch = refs/heads/main
