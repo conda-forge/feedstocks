@@ -81742,3 +81742,7 @@
 	url = https://github.com/conda-forge/py-rattler-feedstock.git
 	path = feedstocks/py-rattler
 	branch = refs/heads/main
+[submodule "django-log-request-id"]
+	url = https://github.com/conda-forge/django-log-request-id-feedstock.git
+	path = feedstocks/django-log-request-id
+	branch = refs/heads/main
