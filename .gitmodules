@@ -81746,3 +81746,7 @@
 	url = https://github.com/conda-forge/django-log-request-id-feedstock.git
 	path = feedstocks/django-log-request-id
 	branch = refs/heads/main
+[submodule "cuda-visual-tools"]
+	url = https://github.com/conda-forge/cuda-visual-tools-feedstock.git
+	path = feedstocks/cuda-visual-tools
+	branch = refs/heads/main
