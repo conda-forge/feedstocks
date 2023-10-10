@@ -81738,3 +81738,7 @@
 	url = https://github.com/conda-forge/r-optmatch-feedstock.git
 	path = feedstocks/r-optmatch
 	branch = refs/heads/main
+[submodule "py-rattler"]
+	url = https://github.com/conda-forge/py-rattler-feedstock.git
+	path = feedstocks/py-rattler
+	branch = refs/heads/main
