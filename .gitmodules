@@ -81766,3 +81766,7 @@
 	url = https://github.com/conda-forge/cuda-toolkit-feedstock.git
 	path = feedstocks/cuda-toolkit
 	branch = refs/heads/main
+[submodule "xee"]
+	url = https://github.com/conda-forge/xee-feedstock.git
+	path = feedstocks/xee
+	branch = refs/heads/main
