@@ -81782,3 +81782,7 @@
 	url = https://github.com/conda-forge/clarabel-feedstock.git
 	path = feedstocks/clarabel
 	branch = refs/heads/main
+[submodule "veros"]
+	url = https://github.com/conda-forge/veros-feedstock.git
+	path = feedstocks/veros
+	branch = refs/heads/main
