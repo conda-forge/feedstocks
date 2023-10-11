@@ -81798,3 +81798,7 @@
 	url = https://github.com/conda-forge/rbeast-feedstock.git
 	path = feedstocks/rbeast
 	branch = refs/heads/main
+[submodule "mlo-co2"]
+	url = https://github.com/conda-forge/mlo-co2-feedstock.git
+	path = feedstocks/mlo-co2
+	branch = refs/heads/main
