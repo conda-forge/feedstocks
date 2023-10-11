@@ -81786,3 +81786,7 @@
 	url = https://github.com/conda-forge/veros-feedstock.git
 	path = feedstocks/veros
 	branch = refs/heads/main
+[submodule "kernax"]
+	url = https://github.com/conda-forge/kernax-feedstock.git
+	path = feedstocks/kernax
+	branch = refs/heads/main
