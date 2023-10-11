@@ -81806,3 +81806,7 @@
 	url = https://github.com/conda-forge/bathyreq-feedstock.git
 	path = feedstocks/bathyreq
 	branch = refs/heads/main
+[submodule "discid"]
+	url = https://github.com/conda-forge/discid-feedstock.git
+	path = feedstocks/discid
+	branch = refs/heads/main
