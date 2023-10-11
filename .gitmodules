@@ -81794,3 +81794,7 @@
 	url = https://github.com/conda-forge/pycoare-feedstock.git
 	path = feedstocks/pycoare
 	branch = refs/heads/main
+[submodule "rbeast"]
+	url = https://github.com/conda-forge/rbeast-feedstock.git
+	path = feedstocks/rbeast
+	branch = refs/heads/main
