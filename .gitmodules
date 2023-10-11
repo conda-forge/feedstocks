@@ -81790,3 +81790,7 @@
 	url = https://github.com/conda-forge/kernax-feedstock.git
 	path = feedstocks/kernax
 	branch = refs/heads/main
+[submodule "pycoare"]
+	url = https://github.com/conda-forge/pycoare-feedstock.git
+	path = feedstocks/pycoare
+	branch = refs/heads/main
