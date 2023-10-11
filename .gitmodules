@@ -81802,3 +81802,7 @@
 	url = https://github.com/conda-forge/mlo-co2-feedstock.git
 	path = feedstocks/mlo-co2
 	branch = refs/heads/main
+[submodule "bathyreq"]
+	url = https://github.com/conda-forge/bathyreq-feedstock.git
+	path = feedstocks/bathyreq
+	branch = refs/heads/main
