@@ -81858,3 +81858,7 @@
 	url = https://github.com/conda-forge/qt-collapsible-section-pyside6-feedstock.git
 	path = feedstocks/qt-collapsible-section-pyside6
 	branch = refs/heads/main
+[submodule "django-mptt2"]
+	url = https://github.com/conda-forge/django-mptt2-feedstock.git
+	path = feedstocks/django-mptt2
+	branch = refs/heads/main
