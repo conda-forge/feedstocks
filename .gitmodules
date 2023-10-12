@@ -81838,3 +81838,7 @@
 	url = https://github.com/conda-forge/qbatch-feedstock.git
 	path = feedstocks/qbatch
 	branch = refs/heads/main
+[submodule "batanalysis"]
+	url = https://github.com/conda-forge/batanalysis-feedstock.git
+	path = feedstocks/batanalysis
+	branch = refs/heads/main
