@@ -81842,3 +81842,7 @@
 	url = https://github.com/conda-forge/batanalysis-feedstock.git
 	path = feedstocks/batanalysis
 	branch = refs/heads/main
+[submodule "daft"]
+	url = https://github.com/conda-forge/daft-feedstock.git
+	path = feedstocks/daft
+	branch = refs/heads/main
