@@ -81830,3 +81830,7 @@
 	url = https://github.com/conda-forge/cctk-feedstock.git
 	path = feedstocks/cctk
 	branch = refs/heads/main
+[submodule "swiftbat"]
+	url = https://github.com/conda-forge/swiftbat-feedstock.git
+	path = feedstocks/swiftbat
+	branch = refs/heads/main
