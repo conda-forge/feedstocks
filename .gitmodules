@@ -81874,3 +81874,7 @@
 	url = https://github.com/conda-forge/django-orghierarchy-feedstock.git
 	path = feedstocks/django-orghierarchy
 	branch = refs/heads/main
+[submodule "django-mptt-tree-editor"]
+	url = https://github.com/conda-forge/django-mptt-tree-editor-feedstock.git
+	path = feedstocks/django-mptt-tree-editor
+	branch = refs/heads/main
