@@ -81822,3 +81822,7 @@
 	url = https://github.com/conda-forge/torchapp-feedstock.git
 	path = feedstocks/torchapp
 	branch = refs/heads/main
+[submodule "geoai-py"]
+	url = https://github.com/conda-forge/geoai-py-feedstock.git
+	path = feedstocks/geoai-py
+	branch = refs/heads/main
