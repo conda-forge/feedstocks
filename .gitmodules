@@ -81826,3 +81826,7 @@
 	url = https://github.com/conda-forge/geoai-py-feedstock.git
 	path = feedstocks/geoai-py
 	branch = refs/heads/main
+[submodule "cctk"]
+	url = https://github.com/conda-forge/cctk-feedstock.git
+	path = feedstocks/cctk
+	branch = refs/heads/main
