@@ -81846,3 +81846,7 @@
 	url = https://github.com/conda-forge/daft-feedstock.git
 	path = feedstocks/daft
 	branch = refs/heads/main
+[submodule "xpublish-intake-provider"]
+	url = https://github.com/conda-forge/xpublish-intake-provider-feedstock.git
+	path = feedstocks/xpublish-intake-provider
+	branch = refs/heads/main
