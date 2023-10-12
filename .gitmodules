@@ -81810,3 +81810,7 @@
 	url = https://github.com/conda-forge/discid-feedstock.git
 	path = feedstocks/discid
 	branch = refs/heads/main
+[submodule "searoute"]
+	url = https://github.com/conda-forge/searoute-feedstock.git
+	path = feedstocks/searoute
+	branch = refs/heads/main
