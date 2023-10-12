@@ -81850,3 +81850,7 @@
 	url = https://github.com/conda-forge/xpublish-intake-provider-feedstock.git
 	path = feedstocks/xpublish-intake-provider
 	branch = refs/heads/main
+[submodule "drf-pydantic"]
+	url = https://github.com/conda-forge/drf-pydantic-feedstock.git
+	path = feedstocks/drf-pydantic
+	branch = refs/heads/main
