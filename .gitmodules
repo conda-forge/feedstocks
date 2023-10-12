@@ -81818,3 +81818,7 @@
 	url = https://github.com/conda-forge/swifttools-feedstock.git
 	path = feedstocks/swifttools
 	branch = refs/heads/main
+[submodule "torchapp"]
+	url = https://github.com/conda-forge/torchapp-feedstock.git
+	path = feedstocks/torchapp
+	branch = refs/heads/main
