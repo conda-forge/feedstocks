@@ -81886,3 +81886,7 @@
 	url = https://github.com/conda-forge/cnsr-feedstock.git
 	path = feedstocks/cnsr
 	branch = refs/heads/main
+[submodule "python-kerberos"]
+	url = https://github.com/conda-forge/python-kerberos-feedstock.git
+	path = feedstocks/python-kerberos
+	branch = refs/heads/main
