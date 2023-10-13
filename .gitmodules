@@ -81890,3 +81890,7 @@
 	url = https://github.com/conda-forge/python-kerberos-feedstock.git
 	path = feedstocks/python-kerberos
 	branch = refs/heads/main
+[submodule "veros-extra-setups"]
+	url = https://github.com/conda-forge/veros-extra-setups-feedstock.git
+	path = feedstocks/veros-extra-setups
+	branch = refs/heads/main
