@@ -81894,3 +81894,7 @@
 	url = https://github.com/conda-forge/veros-extra-setups-feedstock.git
 	path = feedstocks/veros-extra-setups
 	branch = refs/heads/main
+[submodule "r-bigsparser"]
+	url = https://github.com/conda-forge/r-bigsparser-feedstock.git
+	path = feedstocks/r-bigsparser
+	branch = refs/heads/main
