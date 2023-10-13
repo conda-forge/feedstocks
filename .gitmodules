@@ -81878,3 +81878,7 @@
 	url = https://github.com/conda-forge/django-mptt-tree-editor-feedstock.git
 	path = feedstocks/django-mptt-tree-editor
 	branch = refs/heads/main
+[submodule "vizro"]
+	url = https://github.com/conda-forge/vizro-feedstock.git
+	path = feedstocks/vizro
+	branch = refs/heads/main
