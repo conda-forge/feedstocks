@@ -81902,3 +81902,7 @@
 	url = https://github.com/conda-forge/r-runonce-feedstock.git
 	path = feedstocks/r-runonce
 	branch = refs/heads/main
+[submodule "r-bigutilsr"]
+	url = https://github.com/conda-forge/r-bigutilsr-feedstock.git
+	path = feedstocks/r-bigutilsr
+	branch = refs/heads/main
