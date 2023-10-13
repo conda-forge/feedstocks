@@ -81906,3 +81906,7 @@
 	url = https://github.com/conda-forge/r-bigutilsr-feedstock.git
 	path = feedstocks/r-bigutilsr
 	branch = refs/heads/main
+[submodule "jsonschema-path"]
+	url = https://github.com/conda-forge/jsonschema-path-feedstock.git
+	path = feedstocks/jsonschema-path
+	branch = refs/heads/main
