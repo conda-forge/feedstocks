@@ -81898,3 +81898,7 @@
 	url = https://github.com/conda-forge/r-bigsparser-feedstock.git
 	path = feedstocks/r-bigsparser
 	branch = refs/heads/main
+[submodule "r-runonce"]
+	url = https://github.com/conda-forge/r-runonce-feedstock.git
+	path = feedstocks/r-runonce
+	branch = refs/heads/main
