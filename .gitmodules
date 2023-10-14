@@ -81946,3 +81946,7 @@
 	url = https://github.com/conda-forge/r-rxode2random-feedstock.git
 	path = feedstocks/r-rxode2random
 	branch = refs/heads/main
+[submodule "cornice"]
+	url = https://github.com/conda-forge/cornice-feedstock.git
+	path = feedstocks/cornice
+	branch = refs/heads/main
