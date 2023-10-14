@@ -81942,3 +81942,7 @@
 	url = https://github.com/conda-forge/r-rxode2parse-feedstock.git
 	path = feedstocks/r-rxode2parse
 	branch = refs/heads/main
+[submodule "r-rxode2random"]
+	url = https://github.com/conda-forge/r-rxode2random-feedstock.git
+	path = feedstocks/r-rxode2random
+	branch = refs/heads/main
