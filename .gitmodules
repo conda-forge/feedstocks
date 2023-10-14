@@ -81926,3 +81926,7 @@
 	url = https://github.com/conda-forge/r-ordinalnet-feedstock.git
 	path = feedstocks/r-ordinalnet
 	branch = refs/heads/main
+[submodule "r-rxode2"]
+	url = https://github.com/conda-forge/r-rxode2-feedstock.git
+	path = feedstocks/r-rxode2
+	branch = refs/heads/main
