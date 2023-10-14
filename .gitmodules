@@ -81922,3 +81922,7 @@
 	url = https://github.com/conda-forge/r-fastglm-feedstock.git
 	path = feedstocks/r-fastglm
 	branch = refs/heads/main
+[submodule "r-ordinalnet"]
+	url = https://github.com/conda-forge/r-ordinalnet-feedstock.git
+	path = feedstocks/r-ordinalnet
+	branch = refs/heads/main
