@@ -81954,3 +81954,7 @@
 	url = https://github.com/conda-forge/sorcha-addons-feedstock.git
 	path = feedstocks/sorcha-addons
 	branch = refs/heads/main
+[submodule "lmdbm"]
+	url = https://github.com/conda-forge/lmdbm-feedstock.git
+	path = feedstocks/lmdbm
+	branch = refs/heads/main
