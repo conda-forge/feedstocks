@@ -81962,3 +81962,7 @@
 	url = https://github.com/conda-forge/festvox-kallpc16k-feedstock.git
 	path = feedstocks/festvox-kallpc16k
 	branch = refs/heads/main
+[submodule "festlex-poslex"]
+	url = https://github.com/conda-forge/festlex-poslex-feedstock.git
+	path = feedstocks/festlex-poslex
+	branch = refs/heads/main
