@@ -81950,3 +81950,7 @@
 	url = https://github.com/conda-forge/cornice-feedstock.git
 	path = feedstocks/cornice
 	branch = refs/heads/main
+[submodule "sorcha-addons"]
+	url = https://github.com/conda-forge/sorcha-addons-feedstock.git
+	path = feedstocks/sorcha-addons
+	branch = refs/heads/main
