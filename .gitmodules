@@ -81966,3 +81966,7 @@
 	url = https://github.com/conda-forge/festlex-poslex-feedstock.git
 	path = feedstocks/festlex-poslex
 	branch = refs/heads/main
+[submodule "festival"]
+	url = https://github.com/conda-forge/festival-feedstock.git
+	path = feedstocks/festival
+	branch = refs/heads/main
