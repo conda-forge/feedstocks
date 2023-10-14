@@ -81974,3 +81974,7 @@
 	url = https://github.com/conda-forge/festlex-cmu-feedstock.git
 	path = feedstocks/festlex-cmu
 	branch = refs/heads/main
+[submodule "plaid"]
+	url = https://github.com/conda-forge/plaid-feedstock.git
+	path = feedstocks/plaid
+	branch = refs/heads/main
