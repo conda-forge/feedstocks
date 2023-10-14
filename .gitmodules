@@ -81918,3 +81918,7 @@
 	url = https://github.com/conda-forge/verlib2-feedstock.git
 	path = feedstocks/verlib2
 	branch = refs/heads/main
+[submodule "r-fastglm"]
+	url = https://github.com/conda-forge/r-fastglm-feedstock.git
+	path = feedstocks/r-fastglm
+	branch = refs/heads/main
