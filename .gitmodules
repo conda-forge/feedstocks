@@ -81970,3 +81970,7 @@
 	url = https://github.com/conda-forge/festival-feedstock.git
 	path = feedstocks/festival
 	branch = refs/heads/main
+[submodule "festlex-cmu"]
+	url = https://github.com/conda-forge/festlex-cmu-feedstock.git
+	path = feedstocks/festlex-cmu
+	branch = refs/heads/main
