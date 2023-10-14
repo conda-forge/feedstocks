@@ -81978,3 +81978,7 @@
 	url = https://github.com/conda-forge/plaid-feedstock.git
 	path = feedstocks/plaid
 	branch = refs/heads/main
+[submodule "cognite-sdk"]
+	url = https://github.com/conda-forge/cognite-sdk-feedstock.git
+	path = feedstocks/cognite-sdk
+	branch = refs/heads/main
