@@ -81938,3 +81938,7 @@
 	url = https://github.com/conda-forge/r-rxode2et-feedstock.git
 	path = feedstocks/r-rxode2et
 	branch = refs/heads/main
+[submodule "r-rxode2parse"]
+	url = https://github.com/conda-forge/r-rxode2parse-feedstock.git
+	path = feedstocks/r-rxode2parse
+	branch = refs/heads/main
