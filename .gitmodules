@@ -81958,3 +81958,7 @@
 	url = https://github.com/conda-forge/lmdbm-feedstock.git
 	path = feedstocks/lmdbm
 	branch = refs/heads/main
+[submodule "festvox-kallpc16k"]
+	url = https://github.com/conda-forge/festvox-kallpc16k-feedstock.git
+	path = feedstocks/festvox-kallpc16k
+	branch = refs/heads/main
