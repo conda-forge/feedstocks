@@ -81982,3 +81982,7 @@
 	url = https://github.com/conda-forge/cognite-sdk-feedstock.git
 	path = feedstocks/cognite-sdk
 	branch = refs/heads/main
+[submodule "lsstdesc-diffsky"]
+	url = https://github.com/conda-forge/lsstdesc-diffsky-feedstock.git
+	path = feedstocks/lsstdesc-diffsky
+	branch = refs/heads/main
