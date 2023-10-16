@@ -82002,3 +82002,7 @@
 	url = https://github.com/conda-forge/pyiron_workflow-feedstock.git
 	path = feedstocks/pyiron_workflow
 	branch = refs/heads/main
+[submodule "pyiron_potentialfit"]
+	url = https://github.com/conda-forge/pyiron_potentialfit-feedstock.git
+	path = feedstocks/pyiron_potentialfit
+	branch = refs/heads/main
