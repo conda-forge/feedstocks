@@ -81994,3 +81994,7 @@
 	url = https://github.com/conda-forge/sagemaker-kernel-wrapper-feedstock.git
 	path = feedstocks/sagemaker-kernel-wrapper
 	branch = refs/heads/main
+[submodule "mne-lsl"]
+	url = https://github.com/conda-forge/mne-lsl-feedstock.git
+	path = feedstocks/mne-lsl
+	branch = refs/heads/main
