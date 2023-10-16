@@ -81990,3 +81990,7 @@
 	url = https://github.com/conda-forge/muscat-split-feedstock.git
 	path = feedstocks/muscat-split
 	branch = refs/heads/main
+[submodule "sagemaker-kernel-wrapper"]
+	url = https://github.com/conda-forge/sagemaker-kernel-wrapper-feedstock.git
+	path = feedstocks/sagemaker-kernel-wrapper
+	branch = refs/heads/main
