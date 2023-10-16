@@ -82018,3 +82018,7 @@
 	url = https://github.com/conda-forge/pestpp-feedstock.git
 	path = feedstocks/pestpp
 	branch = refs/heads/main
+[submodule "pytorch-msssim"]
+	url = https://github.com/conda-forge/pytorch-msssim-feedstock.git
+	path = feedstocks/pytorch-msssim
+	branch = refs/heads/main
