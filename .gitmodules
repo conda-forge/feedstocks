@@ -82010,3 +82010,7 @@
 	url = https://github.com/conda-forge/sparc-x-api-feedstock.git
 	path = feedstocks/sparc-x-api
 	branch = refs/heads/main
+[submodule "verapdf"]
+	url = https://github.com/conda-forge/verapdf-feedstock.git
+	path = feedstocks/verapdf
+	branch = refs/heads/main
