@@ -82014,3 +82014,7 @@
 	url = https://github.com/conda-forge/verapdf-feedstock.git
 	path = feedstocks/verapdf
 	branch = refs/heads/main
+[submodule "pestpp"]
+	url = https://github.com/conda-forge/pestpp-feedstock.git
+	path = feedstocks/pestpp
+	branch = refs/heads/main
