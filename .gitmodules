@@ -81986,3 +81986,7 @@
 	url = https://github.com/conda-forge/lsstdesc-diffsky-feedstock.git
 	path = feedstocks/lsstdesc-diffsky
 	branch = refs/heads/main
+[submodule "muscat-split"]
+	url = https://github.com/conda-forge/muscat-split-feedstock.git
+	path = feedstocks/muscat-split
+	branch = refs/heads/main
