@@ -82006,3 +82006,7 @@
 	url = https://github.com/conda-forge/pyiron_potentialfit-feedstock.git
 	path = feedstocks/pyiron_potentialfit
 	branch = refs/heads/main
+[submodule "sparc-x-api"]
+	url = https://github.com/conda-forge/sparc-x-api-feedstock.git
+	path = feedstocks/sparc-x-api
+	branch = refs/heads/main
