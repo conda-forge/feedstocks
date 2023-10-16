@@ -81998,3 +81998,7 @@
 	url = https://github.com/conda-forge/mne-lsl-feedstock.git
 	path = feedstocks/mne-lsl
 	branch = refs/heads/main
+[submodule "pyiron_workflow"]
+	url = https://github.com/conda-forge/pyiron_workflow-feedstock.git
+	path = feedstocks/pyiron_workflow
+	branch = refs/heads/main
