@@ -82062,3 +82062,7 @@
 	url = https://github.com/conda-forge/aws-glue-sessions-feedstock.git
 	path = feedstocks/aws-glue-sessions
 	branch = refs/heads/main
+[submodule "xsarsea"]
+	url = https://github.com/conda-forge/xsarsea-feedstock.git
+	path = feedstocks/xsarsea
+	branch = refs/heads/main
