@@ -82038,3 +82038,7 @@
 	url = https://github.com/conda-forge/qgv-feedstock.git
 	path = feedstocks/qgv
 	branch = refs/heads/main
+[submodule "hpp-practicals"]
+	url = https://github.com/conda-forge/hpp-practicals-feedstock.git
+	path = feedstocks/hpp-practicals
+	branch = refs/heads/main
