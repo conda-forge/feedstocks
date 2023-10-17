@@ -82050,3 +82050,7 @@
 	url = https://github.com/conda-forge/hpp-tutorial-feedstock.git
 	path = feedstocks/hpp-tutorial
 	branch = refs/heads/main
+[submodule "r-flowml"]
+	url = https://github.com/conda-forge/r-flowml-feedstock.git
+	path = feedstocks/r-flowml
+	branch = refs/heads/main
