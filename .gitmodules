@@ -82026,3 +82026,7 @@
 	url = https://github.com/conda-forge/r-fastshap-feedstock.git
 	path = feedstocks/r-fastshap
 	branch = refs/heads/main
+[submodule "r-abcanalysis"]
+	url = https://github.com/conda-forge/r-abcanalysis-feedstock.git
+	path = feedstocks/r-abcanalysis
+	branch = refs/heads/main
