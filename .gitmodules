@@ -82042,3 +82042,7 @@
 	url = https://github.com/conda-forge/hpp-practicals-feedstock.git
 	path = feedstocks/hpp-practicals
 	branch = refs/heads/main
+[submodule "hpp-doc"]
+	url = https://github.com/conda-forge/hpp-doc-feedstock.git
+	path = feedstocks/hpp-doc
+	branch = refs/heads/main
