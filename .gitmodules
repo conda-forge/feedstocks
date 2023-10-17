@@ -82022,3 +82022,7 @@
 	url = https://github.com/conda-forge/pytorch-msssim-feedstock.git
 	path = feedstocks/pytorch-msssim
 	branch = refs/heads/main
+[submodule "r-fastshap"]
+	url = https://github.com/conda-forge/r-fastshap-feedstock.git
+	path = feedstocks/r-fastshap
+	branch = refs/heads/main
