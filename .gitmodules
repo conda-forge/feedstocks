@@ -82030,3 +82030,7 @@
 	url = https://github.com/conda-forge/r-abcanalysis-feedstock.git
 	path = feedstocks/r-abcanalysis
 	branch = refs/heads/main
+[submodule "hpp-plot"]
+	url = https://github.com/conda-forge/hpp-plot-feedstock.git
+	path = feedstocks/hpp-plot
+	branch = refs/heads/main
