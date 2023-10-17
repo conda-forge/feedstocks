@@ -82058,3 +82058,7 @@
 	url = https://github.com/conda-forge/pyfabm-feedstock.git
 	path = feedstocks/pyfabm
 	branch = refs/heads/main
+[submodule "aws-glue-sessions"]
+	url = https://github.com/conda-forge/aws-glue-sessions-feedstock.git
+	path = feedstocks/aws-glue-sessions
+	branch = refs/heads/main
