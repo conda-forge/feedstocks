@@ -82054,3 +82054,7 @@
 	url = https://github.com/conda-forge/r-flowml-feedstock.git
 	path = feedstocks/r-flowml
 	branch = refs/heads/main
+[submodule "pyfabm"]
+	url = https://github.com/conda-forge/pyfabm-feedstock.git
+	path = feedstocks/pyfabm
+	branch = refs/heads/main
