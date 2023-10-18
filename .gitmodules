@@ -82074,3 +82074,7 @@
 	url = https://github.com/conda-forge/policyuniverse-feedstock.git
 	path = feedstocks/policyuniverse
 	branch = refs/heads/main
+[submodule "pycep-parser"]
+	url = https://github.com/conda-forge/pycep-parser-feedstock.git
+	path = feedstocks/pycep-parser
+	branch = refs/heads/main
