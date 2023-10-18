@@ -82078,3 +82078,7 @@
 	url = https://github.com/conda-forge/pycep-parser-feedstock.git
 	path = feedstocks/pycep-parser
 	branch = refs/heads/main
+[submodule "dockerfile-parse"]
+	url = https://github.com/conda-forge/dockerfile-parse-feedstock.git
+	path = feedstocks/dockerfile-parse
+	branch = refs/heads/main
