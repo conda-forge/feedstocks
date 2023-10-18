@@ -82090,3 +82090,7 @@
 	url = https://github.com/conda-forge/bc-detect-secrets-feedstock.git
 	path = feedstocks/bc-detect-secrets
 	branch = refs/heads/main
+[submodule "bc-jsonpath-ng"]
+	url = https://github.com/conda-forge/bc-jsonpath-ng-feedstock.git
+	path = feedstocks/bc-jsonpath-ng
+	branch = refs/heads/main
