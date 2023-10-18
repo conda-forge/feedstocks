@@ -82110,3 +82110,7 @@
 	url = https://github.com/conda-forge/r-mmapcharr-feedstock.git
 	path = feedstocks/r-mmapcharr
 	branch = refs/heads/main
+[submodule "r-bien"]
+	url = https://github.com/conda-forge/r-bien-feedstock.git
+	path = feedstocks/r-bien
+	branch = refs/heads/main
