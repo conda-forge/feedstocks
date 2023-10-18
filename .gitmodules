@@ -82082,3 +82082,7 @@
 	url = https://github.com/conda-forge/dockerfile-parse-feedstock.git
 	path = feedstocks/dockerfile-parse
 	branch = refs/heads/main
+[submodule "bc-python-hcl2"]
+	url = https://github.com/conda-forge/bc-python-hcl2-feedstock.git
+	path = feedstocks/bc-python-hcl2
+	branch = refs/heads/main
