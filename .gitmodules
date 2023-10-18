@@ -82102,3 +82102,7 @@
 	url = https://github.com/conda-forge/spdx-tools-feedstock.git
 	path = feedstocks/spdx-tools
 	branch = refs/heads/main
+[submodule "r-pcadapt"]
+	url = https://github.com/conda-forge/r-pcadapt-feedstock.git
+	path = feedstocks/r-pcadapt
+	branch = refs/heads/main
