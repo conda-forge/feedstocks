@@ -82146,3 +82146,7 @@
 	url = https://github.com/conda-forge/orsopy-feedstock.git
 	path = feedstocks/orsopy
 	branch = refs/heads/main
+[submodule "quartodoc"]
+	url = https://github.com/conda-forge/quartodoc-feedstock.git
+	path = feedstocks/quartodoc
+	branch = refs/heads/main
