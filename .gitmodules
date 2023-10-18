@@ -82142,3 +82142,7 @@
 	url = https://github.com/conda-forge/slcwindinversion-feedstock.git
 	path = feedstocks/slcwindinversion
 	branch = refs/heads/main
+[submodule "orsopy"]
+	url = https://github.com/conda-forge/orsopy-feedstock.git
+	path = feedstocks/orsopy
+	branch = refs/heads/main
