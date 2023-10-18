@@ -82114,3 +82114,7 @@
 	url = https://github.com/conda-forge/r-bien-feedstock.git
 	path = feedstocks/r-bien
 	branch = refs/heads/main
+[submodule "sagemaker-jupyterlab-extension"]
+	url = https://github.com/conda-forge/sagemaker-jupyterlab-extension-feedstock.git
+	path = feedstocks/sagemaker-jupyterlab-extension
+	branch = refs/heads/main
