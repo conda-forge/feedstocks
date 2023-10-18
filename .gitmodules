@@ -82138,3 +82138,7 @@
 	url = https://github.com/conda-forge/typeshed-client-feedstock.git
 	path = feedstocks/typeshed-client
 	branch = refs/heads/main
+[submodule "slcwindinversion"]
+	url = https://github.com/conda-forge/slcwindinversion-feedstock.git
+	path = feedstocks/slcwindinversion
+	branch = refs/heads/main
