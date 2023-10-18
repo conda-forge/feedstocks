@@ -82098,3 +82098,7 @@
 	url = https://github.com/conda-forge/cloudsplaining-feedstock.git
 	path = feedstocks/cloudsplaining
 	branch = refs/heads/main
+[submodule "spdx-tools"]
+	url = https://github.com/conda-forge/spdx-tools-feedstock.git
+	path = feedstocks/spdx-tools
+	branch = refs/heads/main
