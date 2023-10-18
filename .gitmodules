@@ -82122,3 +82122,7 @@
 	url = https://github.com/conda-forge/sagemaker-jupyterlab-extension-common-feedstock.git
 	path = feedstocks/sagemaker-jupyterlab-extension-common
 	branch = refs/heads/main
+[submodule "sagemaker-jupyterlab-emr-extension"]
+	url = https://github.com/conda-forge/sagemaker-jupyterlab-emr-extension-feedstock.git
+	path = feedstocks/sagemaker-jupyterlab-emr-extension
+	branch = refs/heads/main
