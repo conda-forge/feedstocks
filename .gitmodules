@@ -82134,3 +82134,7 @@
 	url = https://github.com/conda-forge/facit-feedstock.git
 	path = feedstocks/facit
 	branch = refs/heads/main
+[submodule "typeshed-client"]
+	url = https://github.com/conda-forge/typeshed-client-feedstock.git
+	path = feedstocks/typeshed-client
+	branch = refs/heads/main
