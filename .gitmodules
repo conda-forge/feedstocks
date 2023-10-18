@@ -82126,3 +82126,7 @@
 	url = https://github.com/conda-forge/sagemaker-jupyterlab-emr-extension-feedstock.git
 	path = feedstocks/sagemaker-jupyterlab-emr-extension
 	branch = refs/heads/main
+[submodule "r-glmmadaptive"]
+	url = https://github.com/conda-forge/r-glmmadaptive-feedstock.git
+	path = feedstocks/r-glmmadaptive
+	branch = refs/heads/main
