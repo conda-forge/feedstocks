@@ -82130,3 +82130,7 @@
 	url = https://github.com/conda-forge/r-glmmadaptive-feedstock.git
 	path = feedstocks/r-glmmadaptive
 	branch = refs/heads/main
+[submodule "facit"]
+	url = https://github.com/conda-forge/facit-feedstock.git
+	path = feedstocks/facit
+	branch = refs/heads/main
