@@ -82154,3 +82154,7 @@
 	url = https://github.com/conda-forge/dtumathtools-feedstock.git
 	path = feedstocks/dtumathtools
 	branch = refs/heads/main
+[submodule "sagemaker-headless-execution-driver"]
+	url = https://github.com/conda-forge/sagemaker-headless-execution-driver-feedstock.git
+	path = feedstocks/sagemaker-headless-execution-driver
+	branch = refs/heads/main
