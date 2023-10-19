@@ -82158,3 +82158,7 @@
 	url = https://github.com/conda-forge/sagemaker-headless-execution-driver-feedstock.git
 	path = feedstocks/sagemaker-headless-execution-driver
 	branch = refs/heads/main
+[submodule "r-dbitest"]
+	url = https://github.com/conda-forge/r-dbitest-feedstock.git
+	path = feedstocks/r-dbitest
+	branch = refs/heads/main
