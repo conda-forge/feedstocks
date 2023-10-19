@@ -82162,3 +82162,7 @@
 	url = https://github.com/conda-forge/r-dbitest-feedstock.git
 	path = feedstocks/r-dbitest
 	branch = refs/heads/main
+[submodule "amrex"]
+	url = https://github.com/conda-forge/amrex-feedstock.git
+	path = feedstocks/amrex
+	branch = refs/heads/main
