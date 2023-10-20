@@ -82170,3 +82170,7 @@
 	url = https://github.com/conda-forge/pycrdt-feedstock.git
 	path = feedstocks/pycrdt
 	branch = refs/heads/main
+[submodule "curviriver"]
+	url = https://github.com/conda-forge/curviriver-feedstock.git
+	path = feedstocks/curviriver
+	branch = refs/heads/main
