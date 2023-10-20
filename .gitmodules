@@ -82178,3 +82178,7 @@
 	url = https://github.com/conda-forge/hypso-feedstock.git
 	path = feedstocks/hypso
 	branch = refs/heads/main
+[submodule "src-endpoints"]
+	url = https://github.com/conda-forge/src-endpoints-feedstock.git
+	path = feedstocks/src-endpoints
+	branch = refs/heads/main
