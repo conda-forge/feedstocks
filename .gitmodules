@@ -82166,3 +82166,7 @@
 	url = https://github.com/conda-forge/amrex-feedstock.git
 	path = feedstocks/amrex
 	branch = refs/heads/main
+[submodule "pycrdt"]
+	url = https://github.com/conda-forge/pycrdt-feedstock.git
+	path = feedstocks/pycrdt
+	branch = refs/heads/main
