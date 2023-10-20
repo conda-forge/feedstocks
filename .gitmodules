@@ -82174,3 +82174,7 @@
 	url = https://github.com/conda-forge/curviriver-feedstock.git
 	path = feedstocks/curviriver
 	branch = refs/heads/main
+[submodule "hypso"]
+	url = https://github.com/conda-forge/hypso-feedstock.git
+	path = feedstocks/hypso
+	branch = refs/heads/main
