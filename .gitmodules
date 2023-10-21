@@ -82182,3 +82182,7 @@
 	url = https://github.com/conda-forge/src-endpoints-feedstock.git
 	path = feedstocks/src-endpoints
 	branch = refs/heads/main
+[submodule "ctre"]
+	url = https://github.com/conda-forge/ctre-feedstock.git
+	path = feedstocks/ctre
+	branch = refs/heads/main
