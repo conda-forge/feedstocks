@@ -82194,3 +82194,7 @@
 	url = https://github.com/conda-forge/libmirisdr-feedstock.git
 	path = feedstocks/libmirisdr
 	branch = refs/heads/main
+[submodule "amazon-codewhisperer-jupyterlab-ext"]
+	url = https://github.com/conda-forge/amazon-codewhisperer-jupyterlab-ext-feedstock.git
+	path = feedstocks/amazon-codewhisperer-jupyterlab-ext
+	branch = refs/heads/main
