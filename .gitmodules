@@ -82198,3 +82198,7 @@
 	url = https://github.com/conda-forge/amazon-codewhisperer-jupyterlab-ext-feedstock.git
 	path = feedstocks/amazon-codewhisperer-jupyterlab-ext
 	branch = refs/heads/main
+[submodule "b3sum"]
+	url = https://github.com/conda-forge/b3sum-feedstock.git
+	path = feedstocks/b3sum
+	branch = refs/heads/main
