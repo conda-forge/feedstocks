@@ -82202,3 +82202,7 @@
 	url = https://github.com/conda-forge/b3sum-feedstock.git
 	path = feedstocks/b3sum
 	branch = refs/heads/main
+[submodule "as-tree"]
+	url = https://github.com/conda-forge/as-tree-feedstock.git
+	path = feedstocks/as-tree
+	branch = refs/heads/main
