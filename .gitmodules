@@ -82190,3 +82190,7 @@
 	url = https://github.com/conda-forge/pyclesperanto-feedstock.git
 	path = feedstocks/pyclesperanto
 	branch = refs/heads/main
+[submodule "libmirisdr"]
+	url = https://github.com/conda-forge/libmirisdr-feedstock.git
+	path = feedstocks/libmirisdr
+	branch = refs/heads/main
