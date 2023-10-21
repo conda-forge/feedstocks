@@ -82210,3 +82210,7 @@
 	url = https://github.com/conda-forge/angle-grinder-feedstock.git
 	path = feedstocks/angle-grinder
 	branch = refs/heads/main
+[submodule "atuin"]
+	url = https://github.com/conda-forge/atuin-feedstock.git
+	path = feedstocks/atuin
+	branch = refs/heads/main
