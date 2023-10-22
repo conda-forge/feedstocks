@@ -82242,3 +82242,7 @@
 	url = https://github.com/conda-forge/gto-feedstock.git
 	path = feedstocks/gto
 	branch = refs/heads/main
+[submodule "plate-model-manager"]
+	url = https://github.com/conda-forge/plate-model-manager-feedstock.git
+	path = feedstocks/plate-model-manager
+	branch = refs/heads/main
