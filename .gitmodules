@@ -82218,3 +82218,7 @@
 	url = https://github.com/conda-forge/python-libdiscid-feedstock.git
 	path = feedstocks/python-libdiscid
 	branch = refs/heads/main
+[submodule "grheat"]
+	url = https://github.com/conda-forge/grheat-feedstock.git
+	path = feedstocks/grheat
+	branch = refs/heads/main
