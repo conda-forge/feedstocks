@@ -82234,3 +82234,7 @@
 	url = https://github.com/conda-forge/sardana-ni660x-feedstock.git
 	path = feedstocks/sardana-ni660x
 	branch = refs/heads/main
+[submodule "geoarrow-c"]
+	url = https://github.com/conda-forge/geoarrow-c-feedstock.git
+	path = feedstocks/geoarrow-c
+	branch = refs/heads/main
