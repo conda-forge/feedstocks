@@ -82238,3 +82238,7 @@
 	url = https://github.com/conda-forge/geoarrow-c-feedstock.git
 	path = feedstocks/geoarrow-c
 	branch = refs/heads/main
+[submodule "gto"]
+	url = https://github.com/conda-forge/gto-feedstock.git
+	path = feedstocks/gto
+	branch = refs/heads/main
