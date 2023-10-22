@@ -82226,3 +82226,7 @@
 	url = https://github.com/conda-forge/prettydiff-feedstock.git
 	path = feedstocks/prettydiff
 	branch = refs/heads/main
+[submodule "reverse-argparse"]
+	url = https://github.com/conda-forge/reverse-argparse-feedstock.git
+	path = feedstocks/reverse-argparse
+	branch = refs/heads/main
