@@ -82214,3 +82214,7 @@
 	url = https://github.com/conda-forge/atuin-feedstock.git
 	path = feedstocks/atuin
 	branch = refs/heads/main
+[submodule "python-libdiscid"]
+	url = https://github.com/conda-forge/python-libdiscid-feedstock.git
+	path = feedstocks/python-libdiscid
+	branch = refs/heads/main
