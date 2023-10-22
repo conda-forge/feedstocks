@@ -82230,3 +82230,7 @@
 	url = https://github.com/conda-forge/reverse-argparse-feedstock.git
 	path = feedstocks/reverse-argparse
 	branch = refs/heads/main
+[submodule "sardana-ni660x"]
+	url = https://github.com/conda-forge/sardana-ni660x-feedstock.git
+	path = feedstocks/sardana-ni660x
+	branch = refs/heads/main
