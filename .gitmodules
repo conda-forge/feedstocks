@@ -82222,3 +82222,7 @@
 	url = https://github.com/conda-forge/grheat-feedstock.git
 	path = feedstocks/grheat
 	branch = refs/heads/main
+[submodule "prettydiff"]
+	url = https://github.com/conda-forge/prettydiff-feedstock.git
+	path = feedstocks/prettydiff
+	branch = refs/heads/main
