@@ -82254,3 +82254,7 @@
 	url = https://github.com/conda-forge/modelx-cython-feedstock.git
 	path = feedstocks/modelx-cython
 	branch = refs/heads/main
+[submodule "textual-fastdatatable"]
+	url = https://github.com/conda-forge/textual-fastdatatable-feedstock.git
+	path = feedstocks/textual-fastdatatable
+	branch = refs/heads/main
