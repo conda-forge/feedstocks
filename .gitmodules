@@ -82250,3 +82250,7 @@
 	url = https://github.com/conda-forge/mmgp-feedstock.git
 	path = feedstocks/mmgp
 	branch = refs/heads/main
+[submodule "modelx-cython"]
+	url = https://github.com/conda-forge/modelx-cython-feedstock.git
+	path = feedstocks/modelx-cython
+	branch = refs/heads/main
