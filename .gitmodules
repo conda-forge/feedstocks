@@ -82246,3 +82246,7 @@
 	url = https://github.com/conda-forge/plate-model-manager-feedstock.git
 	path = feedstocks/plate-model-manager
 	branch = refs/heads/main
+[submodule "mmgp"]
+	url = https://github.com/conda-forge/mmgp-feedstock.git
+	path = feedstocks/mmgp
+	branch = refs/heads/main
