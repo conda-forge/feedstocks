@@ -82258,3 +82258,7 @@
 	url = https://github.com/conda-forge/textual-fastdatatable-feedstock.git
 	path = feedstocks/textual-fastdatatable
 	branch = refs/heads/main
+[submodule "keras-core"]
+	url = https://github.com/conda-forge/keras-core-feedstock.git
+	path = feedstocks/keras-core
+	branch = refs/heads/main
