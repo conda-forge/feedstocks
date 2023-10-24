@@ -82262,3 +82262,7 @@
 	url = https://github.com/conda-forge/keras-core-feedstock.git
 	path = feedstocks/keras-core
 	branch = refs/heads/main
+[submodule "ghstack"]
+	url = https://github.com/conda-forge/ghstack-feedstock.git
+	path = feedstocks/ghstack
+	branch = refs/heads/main
