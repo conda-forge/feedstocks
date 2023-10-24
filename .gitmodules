@@ -82282,3 +82282,7 @@
 	url = https://github.com/conda-forge/mgis-feedstock.git
 	path = feedstocks/mgis
 	branch = refs/heads/main
+[submodule "mtpy-v2"]
+	url = https://github.com/conda-forge/mtpy-v2-feedstock.git
+	path = feedstocks/mtpy-v2
+	branch = refs/heads/main
