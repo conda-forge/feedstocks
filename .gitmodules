@@ -82278,3 +82278,7 @@
 	url = https://github.com/conda-forge/ja-webutils-feedstock.git
 	path = feedstocks/ja-webutils
 	branch = refs/heads/main
+[submodule "mgis"]
+	url = https://github.com/conda-forge/mgis-feedstock.git
+	path = feedstocks/mgis
+	branch = refs/heads/main
