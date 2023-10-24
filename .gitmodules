@@ -82270,3 +82270,7 @@
 	url = https://github.com/conda-forge/lintrunner-feedstock.git
 	path = feedstocks/lintrunner
 	branch = refs/heads/main
+[submodule "dash-ag-grid"]
+	url = https://github.com/conda-forge/dash-ag-grid-feedstock.git
+	path = feedstocks/dash-ag-grid
+	branch = refs/heads/main
