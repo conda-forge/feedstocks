@@ -82266,3 +82266,7 @@
 	url = https://github.com/conda-forge/ghstack-feedstock.git
 	path = feedstocks/ghstack
 	branch = refs/heads/main
+[submodule "lintrunner"]
+	url = https://github.com/conda-forge/lintrunner-feedstock.git
+	path = feedstocks/lintrunner
+	branch = refs/heads/main
