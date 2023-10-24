@@ -82286,3 +82286,7 @@
 	url = https://github.com/conda-forge/mtpy-v2-feedstock.git
 	path = feedstocks/mtpy-v2
 	branch = refs/heads/main
+[submodule "divemesh"]
+	url = https://github.com/conda-forge/divemesh-feedstock.git
+	path = feedstocks/divemesh
+	branch = refs/heads/main
