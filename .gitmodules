@@ -82294,3 +82294,7 @@
 	url = https://github.com/conda-forge/reef3d-feedstock.git
 	path = feedstocks/reef3d
 	branch = refs/heads/main
+[submodule "torchmd-net"]
+	url = https://github.com/conda-forge/torchmd-net-feedstock.git
+	path = feedstocks/torchmd-net
+	branch = refs/heads/main
