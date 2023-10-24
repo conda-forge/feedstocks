@@ -82290,3 +82290,7 @@
 	url = https://github.com/conda-forge/divemesh-feedstock.git
 	path = feedstocks/divemesh
 	branch = refs/heads/main
+[submodule "reef3d"]
+	url = https://github.com/conda-forge/reef3d-feedstock.git
+	path = feedstocks/reef3d
+	branch = refs/heads/main
