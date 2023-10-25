@@ -82306,3 +82306,7 @@
 	url = https://github.com/conda-forge/r-latexpdf-feedstock.git
 	path = feedstocks/r-latexpdf
 	branch = refs/heads/main
+[submodule "subarch-select"]
+	url = https://github.com/conda-forge/subarch-select-feedstock.git
+	path = feedstocks/subarch-select
+	branch = refs/heads/main
