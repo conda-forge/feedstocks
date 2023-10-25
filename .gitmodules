@@ -82302,3 +82302,7 @@
 	url = https://github.com/conda-forge/pyamrex-feedstock.git
 	path = feedstocks/pyamrex
 	branch = refs/heads/main
+[submodule "r-latexpdf"]
+	url = https://github.com/conda-forge/r-latexpdf-feedstock.git
+	path = feedstocks/r-latexpdf
+	branch = refs/heads/main
