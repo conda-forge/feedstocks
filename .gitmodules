@@ -82298,3 +82298,7 @@
 	url = https://github.com/conda-forge/torchmd-net-feedstock.git
 	path = feedstocks/torchmd-net
 	branch = refs/heads/main
+[submodule "pyamrex"]
+	url = https://github.com/conda-forge/pyamrex-feedstock.git
+	path = feedstocks/pyamrex
+	branch = refs/heads/main
