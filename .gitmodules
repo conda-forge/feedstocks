@@ -82334,3 +82334,7 @@
 	url = https://github.com/conda-forge/plotms-feedstock.git
 	path = feedstocks/plotms
 	branch = refs/heads/main
+[submodule "augmentor"]
+	url = https://github.com/conda-forge/augmentor-feedstock.git
+	path = feedstocks/augmentor
+	branch = refs/heads/main
