@@ -82322,3 +82322,7 @@
 	url = https://github.com/conda-forge/r5py.sampledata.helsinki-feedstock.git
 	path = feedstocks/r5py.sampledata.helsinki
 	branch = refs/heads/main
+[submodule "proxy-tools"]
+	url = https://github.com/conda-forge/proxy-tools-feedstock.git
+	path = feedstocks/proxy-tools
+	branch = refs/heads/main
