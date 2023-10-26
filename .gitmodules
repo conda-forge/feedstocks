@@ -82310,3 +82310,7 @@
 	url = https://github.com/conda-forge/subarch-select-feedstock.git
 	path = feedstocks/subarch-select
 	branch = refs/heads/main
+[submodule "mubody"]
+	url = https://github.com/conda-forge/mubody-feedstock.git
+	path = feedstocks/mubody
+	branch = refs/heads/main
