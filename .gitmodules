@@ -82318,3 +82318,7 @@
 	url = https://github.com/conda-forge/lintrunner-adapters-feedstock.git
 	path = feedstocks/lintrunner-adapters
 	branch = refs/heads/main
+[submodule "r5py.sampledata.helsinki"]
+	url = https://github.com/conda-forge/r5py.sampledata.helsinki-feedstock.git
+	path = feedstocks/r5py.sampledata.helsinki
+	branch = refs/heads/main
