@@ -82314,3 +82314,7 @@
 	url = https://github.com/conda-forge/mubody-feedstock.git
 	path = feedstocks/mubody
 	branch = refs/heads/main
+[submodule "lintrunner-adapters"]
+	url = https://github.com/conda-forge/lintrunner-adapters-feedstock.git
+	path = feedstocks/lintrunner-adapters
+	branch = refs/heads/main
