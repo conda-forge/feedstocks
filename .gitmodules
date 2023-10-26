@@ -82326,3 +82326,7 @@
 	url = https://github.com/conda-forge/proxy-tools-feedstock.git
 	path = feedstocks/proxy-tools
 	branch = refs/heads/main
+[submodule "r5py.sampledata.sao_paulo"]
+	url = https://github.com/conda-forge/r5py.sampledata.sao_paulo-feedstock.git
+	path = feedstocks/r5py.sampledata.sao_paulo
+	branch = refs/heads/main
