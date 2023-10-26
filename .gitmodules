@@ -82330,3 +82330,7 @@
 	url = https://github.com/conda-forge/r5py.sampledata.sao_paulo-feedstock.git
 	path = feedstocks/r5py.sampledata.sao_paulo
 	branch = refs/heads/main
+[submodule "plotms"]
+	url = https://github.com/conda-forge/plotms-feedstock.git
+	path = feedstocks/plotms
+	branch = refs/heads/main
