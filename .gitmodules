@@ -82346,3 +82346,7 @@
 	url = https://github.com/conda-forge/pyefd-feedstock.git
 	path = feedstocks/pyefd
 	branch = refs/heads/main
+[submodule "mp_pytorch"]
+	url = https://github.com/conda-forge/mp_pytorch-feedstock.git
+	path = feedstocks/mp_pytorch
+	branch = refs/heads/main
