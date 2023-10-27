@@ -82354,3 +82354,7 @@
 	url = https://github.com/conda-forge/sardana-limaccd-feedstock.git
 	path = feedstocks/sardana-limaccd
 	branch = refs/heads/main
+[submodule "rembg"]
+	url = https://github.com/conda-forge/rembg-feedstock.git
+	path = feedstocks/rembg
+	branch = refs/heads/main
