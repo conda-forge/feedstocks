@@ -82374,3 +82374,7 @@
 	url = https://github.com/conda-forge/onedrivedownloader-feedstock.git
 	path = feedstocks/onedrivedownloader
 	branch = refs/heads/main
+[submodule "hamlib"]
+	url = https://github.com/conda-forge/hamlib-feedstock.git
+	path = feedstocks/hamlib
+	branch = refs/heads/main
