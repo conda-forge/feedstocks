@@ -82342,3 +82342,7 @@
 	url = https://github.com/conda-forge/bigtree-feedstock.git
 	path = feedstocks/bigtree
 	branch = refs/heads/main
+[submodule "pyefd"]
+	url = https://github.com/conda-forge/pyefd-feedstock.git
+	path = feedstocks/pyefd
+	branch = refs/heads/main
