@@ -82350,3 +82350,7 @@
 	url = https://github.com/conda-forge/mp_pytorch-feedstock.git
 	path = feedstocks/mp_pytorch
 	branch = refs/heads/main
+[submodule "sardana-limaccd"]
+	url = https://github.com/conda-forge/sardana-limaccd-feedstock.git
+	path = feedstocks/sardana-limaccd
+	branch = refs/heads/main
