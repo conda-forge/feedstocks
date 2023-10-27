@@ -82358,3 +82358,7 @@
 	url = https://github.com/conda-forge/rembg-feedstock.git
 	path = feedstocks/rembg
 	branch = refs/heads/main
+[submodule "gnuradio-iqbalance"]
+	url = https://github.com/conda-forge/gnuradio-iqbalance-feedstock.git
+	path = feedstocks/gnuradio-iqbalance
+	branch = refs/heads/main
