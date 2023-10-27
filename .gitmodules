@@ -82370,3 +82370,7 @@
 	url = https://github.com/conda-forge/libosmo-dsp-feedstock.git
 	path = feedstocks/libosmo-dsp
 	branch = refs/heads/main
+[submodule "onedrivedownloader"]
+	url = https://github.com/conda-forge/onedrivedownloader-feedstock.git
+	path = feedstocks/onedrivedownloader
+	branch = refs/heads/main
