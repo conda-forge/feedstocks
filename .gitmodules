@@ -82422,3 +82422,7 @@
 	url = https://github.com/conda-forge/safe-mol-feedstock.git
 	path = feedstocks/safe-mol
 	branch = refs/heads/main
+[submodule "descent"]
+	url = https://github.com/conda-forge/descent-feedstock.git
+	path = feedstocks/descent
+	branch = refs/heads/main
