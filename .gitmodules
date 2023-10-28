@@ -82390,3 +82390,7 @@
 	url = https://github.com/conda-forge/multiscale-spatial-image-feedstock.git
 	path = feedstocks/multiscale-spatial-image
 	branch = refs/heads/main
+[submodule "napari-bfio"]
+	url = https://github.com/conda-forge/napari-bfio-feedstock.git
+	path = feedstocks/napari-bfio
+	branch = refs/heads/main
