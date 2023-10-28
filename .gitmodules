@@ -82426,3 +82426,7 @@
 	url = https://github.com/conda-forge/descent-feedstock.git
 	path = feedstocks/descent
 	branch = refs/heads/main
+[submodule "setfit"]
+	url = https://github.com/conda-forge/setfit-feedstock.git
+	path = feedstocks/setfit
+	branch = refs/heads/main
