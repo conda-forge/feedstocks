@@ -82414,3 +82414,7 @@
 	url = https://github.com/conda-forge/hidefix-feedstock.git
 	path = feedstocks/hidefix
 	branch = refs/heads/main
+[submodule "ssp_detector"]
+	url = https://github.com/conda-forge/ssp_detector-feedstock.git
+	path = feedstocks/ssp_detector
+	branch = refs/heads/main
