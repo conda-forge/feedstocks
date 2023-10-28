@@ -82382,3 +82382,7 @@
 	url = https://github.com/conda-forge/py-bip39-bindings-feedstock.git
 	path = feedstocks/py-bip39-bindings
 	branch = refs/heads/main
+[submodule "einsums"]
+	url = https://github.com/conda-forge/einsums-feedstock.git
+	path = feedstocks/einsums
+	branch = refs/heads/main
