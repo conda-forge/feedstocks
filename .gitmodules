@@ -82406,3 +82406,7 @@
 	url = https://github.com/conda-forge/generate-dense-patches-feedstock.git
 	path = feedstocks/generate-dense-patches
 	branch = refs/heads/main
+[submodule "fast_hdbscan"]
+	url = https://github.com/conda-forge/fast_hdbscan-feedstock.git
+	path = feedstocks/fast_hdbscan
+	branch = refs/heads/main
