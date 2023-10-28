@@ -82402,3 +82402,7 @@
 	url = https://github.com/conda-forge/deep-labelprop-feedstock.git
 	path = feedstocks/deep-labelprop
 	branch = refs/heads/main
+[submodule "generate-dense-patches"]
+	url = https://github.com/conda-forge/generate-dense-patches-feedstock.git
+	path = feedstocks/generate-dense-patches
+	branch = refs/heads/main
