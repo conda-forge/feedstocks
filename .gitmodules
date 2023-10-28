@@ -82418,3 +82418,7 @@
 	url = https://github.com/conda-forge/ssp_detector-feedstock.git
 	path = feedstocks/ssp_detector
 	branch = refs/heads/main
+[submodule "safe-mol"]
+	url = https://github.com/conda-forge/safe-mol-feedstock.git
+	path = feedstocks/safe-mol
+	branch = refs/heads/main
