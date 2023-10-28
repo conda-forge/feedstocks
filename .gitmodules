@@ -82386,3 +82386,7 @@
 	url = https://github.com/conda-forge/einsums-feedstock.git
 	path = feedstocks/einsums
 	branch = refs/heads/main
+[submodule "multiscale-spatial-image"]
+	url = https://github.com/conda-forge/multiscale-spatial-image-feedstock.git
+	path = feedstocks/multiscale-spatial-image
+	branch = refs/heads/main
