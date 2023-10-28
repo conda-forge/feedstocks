@@ -82410,3 +82410,7 @@
 	url = https://github.com/conda-forge/fast_hdbscan-feedstock.git
 	path = feedstocks/fast_hdbscan
 	branch = refs/heads/main
+[submodule "hidefix"]
+	url = https://github.com/conda-forge/hidefix-feedstock.git
+	path = feedstocks/hidefix
+	branch = refs/heads/main
