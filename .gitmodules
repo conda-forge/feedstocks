@@ -82502,3 +82502,7 @@
 	url = https://github.com/conda-forge/arraylake-feedstock.git
 	path = feedstocks/arraylake
 	branch = refs/heads/main
+[submodule "cmake-package-check"]
+	url = https://github.com/conda-forge/cmake-package-check-feedstock.git
+	path = feedstocks/cmake-package-check
+	branch = refs/heads/main
