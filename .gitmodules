@@ -82478,3 +82478,7 @@
 	url = https://github.com/conda-forge/napari-signal-selector-feedstock.git
 	path = feedstocks/napari-signal-selector
 	branch = refs/heads/main
+[submodule "napari-h5"]
+	url = https://github.com/conda-forge/napari-h5-feedstock.git
+	path = feedstocks/napari-h5
+	branch = refs/heads/main
