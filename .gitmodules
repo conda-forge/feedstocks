@@ -82494,3 +82494,7 @@
 	url = https://github.com/conda-forge/napari-caphid-feedstock.git
 	path = feedstocks/napari-caphid
 	branch = refs/heads/main
+[submodule "checkov"]
+	url = https://github.com/conda-forge/checkov-feedstock.git
+	path = feedstocks/checkov
+	branch = refs/heads/main
