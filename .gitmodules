@@ -82462,3 +82462,7 @@
 	url = https://github.com/conda-forge/sparsecca-feedstock.git
 	path = feedstocks/sparsecca
 	branch = refs/heads/main
+[submodule "py-ed25519-zebra-bindings"]
+	url = https://github.com/conda-forge/py-ed25519-zebra-bindings-feedstock.git
+	path = feedstocks/py-ed25519-zebra-bindings
+	branch = refs/heads/main
