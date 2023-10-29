@@ -82430,3 +82430,7 @@
 	url = https://github.com/conda-forge/setfit-feedstock.git
 	path = feedstocks/setfit
 	branch = refs/heads/main
+[submodule "backports.entry-points-selectable"]
+	url = https://github.com/conda-forge/backports.entry-points-selectable-feedstock.git
+	path = feedstocks/backports.entry-points-selectable
+	branch = refs/heads/main
