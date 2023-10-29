@@ -82498,3 +82498,7 @@
 	url = https://github.com/conda-forge/checkov-feedstock.git
 	path = feedstocks/checkov
 	branch = refs/heads/main
+[submodule "arraylake"]
+	url = https://github.com/conda-forge/arraylake-feedstock.git
+	path = feedstocks/arraylake
+	branch = refs/heads/main
