@@ -82458,3 +82458,7 @@
 	url = https://github.com/conda-forge/napari-file-watcher-feedstock.git
 	path = feedstocks/napari-file-watcher
 	branch = refs/heads/main
+[submodule "sparsecca"]
+	url = https://github.com/conda-forge/sparsecca-feedstock.git
+	path = feedstocks/sparsecca
+	branch = refs/heads/main
