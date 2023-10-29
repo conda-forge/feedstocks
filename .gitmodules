@@ -82434,3 +82434,7 @@
 	url = https://github.com/conda-forge/backports.entry-points-selectable-feedstock.git
 	path = feedstocks/backports.entry-points-selectable
 	branch = refs/heads/main
+[submodule "napari-organoid-counter"]
+	url = https://github.com/conda-forge/napari-organoid-counter-feedstock.git
+	path = feedstocks/napari-organoid-counter
+	branch = refs/heads/main
