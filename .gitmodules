@@ -82482,3 +82482,7 @@
 	url = https://github.com/conda-forge/napari-h5-feedstock.git
 	path = feedstocks/napari-h5
 	branch = refs/heads/main
+[submodule "geoarrow-pyarrow"]
+	url = https://github.com/conda-forge/geoarrow-pyarrow-feedstock.git
+	path = feedstocks/geoarrow-pyarrow
+	branch = refs/heads/main
