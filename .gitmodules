@@ -82474,3 +82474,7 @@
 	url = https://github.com/conda-forge/open3spn2-feedstock.git
 	path = feedstocks/open3spn2
 	branch = refs/heads/main
+[submodule "napari-signal-selector"]
+	url = https://github.com/conda-forge/napari-signal-selector-feedstock.git
+	path = feedstocks/napari-signal-selector
+	branch = refs/heads/main
