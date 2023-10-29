@@ -82442,3 +82442,7 @@
 	url = https://github.com/conda-forge/napari-3d-counter-feedstock.git
 	path = feedstocks/napari-3d-counter
 	branch = refs/heads/main
+[submodule "opennavsurf-bag"]
+	url = https://github.com/conda-forge/opennavsurf-bag-feedstock.git
+	path = feedstocks/opennavsurf-bag
+	branch = refs/heads/main
