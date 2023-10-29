@@ -82486,3 +82486,7 @@
 	url = https://github.com/conda-forge/geoarrow-pyarrow-feedstock.git
 	path = feedstocks/geoarrow-pyarrow
 	branch = refs/heads/main
+[submodule "napari-parallel"]
+	url = https://github.com/conda-forge/napari-parallel-feedstock.git
+	path = feedstocks/napari-parallel
+	branch = refs/heads/main
