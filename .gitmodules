@@ -82454,3 +82454,7 @@
 	url = https://github.com/conda-forge/napari-cursor-tracker-feedstock.git
 	path = feedstocks/napari-cursor-tracker
 	branch = refs/heads/main
+[submodule "napari-file-watcher"]
+	url = https://github.com/conda-forge/napari-file-watcher-feedstock.git
+	path = feedstocks/napari-file-watcher
+	branch = refs/heads/main
