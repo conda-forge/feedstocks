@@ -82466,3 +82466,7 @@
 	url = https://github.com/conda-forge/py-ed25519-zebra-bindings-feedstock.git
 	path = feedstocks/py-ed25519-zebra-bindings
 	branch = refs/heads/main
+[submodule "py-sr25519-bindings"]
+	url = https://github.com/conda-forge/py-sr25519-bindings-feedstock.git
+	path = feedstocks/py-sr25519-bindings
+	branch = refs/heads/main
