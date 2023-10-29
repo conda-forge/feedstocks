@@ -82438,3 +82438,7 @@
 	url = https://github.com/conda-forge/napari-organoid-counter-feedstock.git
 	path = feedstocks/napari-organoid-counter
 	branch = refs/heads/main
+[submodule "napari-3d-counter"]
+	url = https://github.com/conda-forge/napari-3d-counter-feedstock.git
+	path = feedstocks/napari-3d-counter
+	branch = refs/heads/main
