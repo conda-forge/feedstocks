@@ -82510,3 +82510,7 @@
 	url = https://github.com/conda-forge/tensorstore-feedstock.git
 	path = feedstocks/tensorstore
 	branch = refs/heads/main
+[submodule "amazon-sagemaker-jupyter-scheduler"]
+	url = https://github.com/conda-forge/amazon-sagemaker-jupyter-scheduler-feedstock.git
+	path = feedstocks/amazon-sagemaker-jupyter-scheduler
+	branch = refs/heads/main
