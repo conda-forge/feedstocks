@@ -82506,3 +82506,7 @@
 	url = https://github.com/conda-forge/cmake-package-check-feedstock.git
 	path = feedstocks/cmake-package-check
 	branch = refs/heads/main
+[submodule "tensorstore"]
+	url = https://github.com/conda-forge/tensorstore-feedstock.git
+	path = feedstocks/tensorstore
+	branch = refs/heads/main
