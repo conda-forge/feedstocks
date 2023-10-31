@@ -82514,3 +82514,7 @@
 	url = https://github.com/conda-forge/amazon-sagemaker-jupyter-scheduler-feedstock.git
 	path = feedstocks/amazon-sagemaker-jupyter-scheduler
 	branch = refs/heads/main
+[submodule "orbax-checkpoint"]
+	url = https://github.com/conda-forge/orbax-checkpoint-feedstock.git
+	path = feedstocks/orbax-checkpoint
+	branch = refs/heads/main
