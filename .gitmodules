@@ -82518,3 +82518,7 @@
 	url = https://github.com/conda-forge/orbax-checkpoint-feedstock.git
 	path = feedstocks/orbax-checkpoint
 	branch = refs/heads/main
+[submodule "inspectds"]
+	url = https://github.com/conda-forge/inspectds-feedstock.git
+	path = feedstocks/inspectds
+	branch = refs/heads/main
