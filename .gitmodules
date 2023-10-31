@@ -82522,3 +82522,7 @@
 	url = https://github.com/conda-forge/inspectds-feedstock.git
 	path = feedstocks/inspectds
 	branch = refs/heads/main
+[submodule "open-notebook"]
+	url = https://github.com/conda-forge/open-notebook-feedstock.git
+	path = feedstocks/open-notebook
+	branch = refs/heads/main
