@@ -82526,3 +82526,7 @@
 	url = https://github.com/conda-forge/open-notebook-feedstock.git
 	path = feedstocks/open-notebook
 	branch = refs/heads/main
+[submodule "ouch"]
+	url = https://github.com/conda-forge/ouch-feedstock.git
+	path = feedstocks/ouch
+	branch = refs/heads/main
