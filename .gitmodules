@@ -82530,3 +82530,7 @@
 	url = https://github.com/conda-forge/ouch-feedstock.git
 	path = feedstocks/ouch
 	branch = refs/heads/main
+[submodule "ruff-lsp"]
+	url = https://github.com/conda-forge/ruff-lsp-feedstock.git
+	path = feedstocks/ruff-lsp
+	branch = refs/heads/main
