@@ -82538,3 +82538,7 @@
 	url = https://github.com/conda-forge/yaqd-omega-feedstock.git
 	path = feedstocks/yaqd-omega
 	branch = refs/heads/main
+[submodule "kedro-boot"]
+	url = https://github.com/conda-forge/kedro-boot-feedstock.git
+	path = feedstocks/kedro-boot
+	branch = refs/heads/main
