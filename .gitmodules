@@ -82542,3 +82542,7 @@
 	url = https://github.com/conda-forge/kedro-boot-feedstock.git
 	path = feedstocks/kedro-boot
 	branch = refs/heads/main
+[submodule "pymongo_inmemory"]
+	url = https://github.com/conda-forge/pymongo_inmemory-feedstock.git
+	path = feedstocks/pymongo_inmemory
+	branch = refs/heads/main
