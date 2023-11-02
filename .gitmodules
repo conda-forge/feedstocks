@@ -82534,3 +82534,7 @@
 	url = https://github.com/conda-forge/ruff-lsp-feedstock.git
 	path = feedstocks/ruff-lsp
 	branch = refs/heads/main
+[submodule "yaqd-omega"]
+	url = https://github.com/conda-forge/yaqd-omega-feedstock.git
+	path = feedstocks/yaqd-omega
+	branch = refs/heads/main
