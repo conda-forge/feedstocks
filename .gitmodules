@@ -82578,3 +82578,7 @@
 	url = https://github.com/conda-forge/fscan-feedstock.git
 	path = feedstocks/fscan
 	branch = refs/heads/main
+[submodule "r-bigsnpr"]
+	url = https://github.com/conda-forge/r-bigsnpr-feedstock.git
+	path = feedstocks/r-bigsnpr
+	branch = refs/heads/main
