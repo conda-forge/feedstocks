@@ -82558,3 +82558,7 @@
 	url = https://github.com/conda-forge/r-cmdstanr-feedstock.git
 	path = feedstocks/r-cmdstanr
 	branch = refs/heads/main
+[submodule "voici"]
+	url = https://github.com/conda-forge/voici-feedstock.git
+	path = feedstocks/voici
+	branch = refs/heads/main
