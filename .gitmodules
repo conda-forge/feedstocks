@@ -82574,3 +82574,7 @@
 	url = https://github.com/conda-forge/r-spam64-feedstock.git
 	path = feedstocks/r-spam64
 	branch = refs/heads/main
+[submodule "fscan"]
+	url = https://github.com/conda-forge/fscan-feedstock.git
+	path = feedstocks/fscan
+	branch = refs/heads/main
