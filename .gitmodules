@@ -82562,3 +82562,7 @@
 	url = https://github.com/conda-forge/voici-feedstock.git
 	path = feedstocks/voici
 	branch = refs/heads/main
+[submodule "djangorestframework-guardian2"]
+	url = https://github.com/conda-forge/djangorestframework-guardian2-feedstock.git
+	path = feedstocks/djangorestframework-guardian2
+	branch = refs/heads/main
