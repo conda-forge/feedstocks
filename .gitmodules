@@ -82566,3 +82566,7 @@
 	url = https://github.com/conda-forge/djangorestframework-guardian2-feedstock.git
 	path = feedstocks/djangorestframework-guardian2
 	branch = refs/heads/main
+[submodule "conda-poetry-liaison"]
+	url = https://github.com/conda-forge/conda-poetry-liaison-feedstock.git
+	path = feedstocks/conda-poetry-liaison
+	branch = refs/heads/main
