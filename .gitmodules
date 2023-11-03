@@ -82570,3 +82570,7 @@
 	url = https://github.com/conda-forge/conda-poetry-liaison-feedstock.git
 	path = feedstocks/conda-poetry-liaison
 	branch = refs/heads/main
+[submodule "r-spam64"]
+	url = https://github.com/conda-forge/r-spam64-feedstock.git
+	path = feedstocks/r-spam64
+	branch = refs/heads/main
