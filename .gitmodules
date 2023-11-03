@@ -82554,3 +82554,7 @@
 	url = https://github.com/conda-forge/distrax-feedstock.git
 	path = feedstocks/distrax
 	branch = refs/heads/main
+[submodule "r-cmdstanr"]
+	url = https://github.com/conda-forge/r-cmdstanr-feedstock.git
+	path = feedstocks/r-cmdstanr
+	branch = refs/heads/main
