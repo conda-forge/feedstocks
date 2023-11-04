@@ -82610,3 +82610,7 @@
 	url = https://github.com/conda-forge/r-nlmixr2data-feedstock.git
 	path = feedstocks/r-nlmixr2data
 	branch = refs/heads/main
+[submodule "r-nlmixr2extra"]
+	url = https://github.com/conda-forge/r-nlmixr2extra-feedstock.git
+	path = feedstocks/r-nlmixr2extra
+	branch = refs/heads/main
