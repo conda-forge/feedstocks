@@ -82598,3 +82598,7 @@
 	url = https://github.com/conda-forge/r-nlmixr2-feedstock.git
 	path = feedstocks/r-nlmixr2
 	branch = refs/heads/main
+[submodule "r-nlmixr2est"]
+	url = https://github.com/conda-forge/r-nlmixr2est-feedstock.git
+	path = feedstocks/r-nlmixr2est
+	branch = refs/heads/main
