@@ -82630,3 +82630,7 @@
 	url = https://github.com/conda-forge/nomad-camels-driver-ni-daq-feedstock.git
 	path = feedstocks/nomad-camels-driver-ni-daq
 	branch = refs/heads/main
+[submodule "nomad-camels-driver-agilent-34401a"]
+	url = https://github.com/conda-forge/nomad-camels-driver-agilent-34401a-feedstock.git
+	path = feedstocks/nomad-camels-driver-agilent-34401a
+	branch = refs/heads/main
