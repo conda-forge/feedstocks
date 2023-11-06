@@ -82674,3 +82674,7 @@
 	url = https://github.com/conda-forge/dagster-libs-feedstock.git
 	path = feedstocks/dagster-libs
 	branch = refs/heads/main
+[submodule "canopen"]
+	url = https://github.com/conda-forge/canopen-feedstock.git
+	path = feedstocks/canopen
+	branch = refs/heads/main
