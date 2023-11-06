@@ -82694,3 +82694,7 @@
 	url = https://github.com/conda-forge/perl-uri-encode-feedstock.git
 	path = feedstocks/perl-uri-encode
 	branch = refs/heads/main
+[submodule "anyscale"]
+	url = https://github.com/conda-forge/anyscale-feedstock.git
+	path = feedstocks/anyscale
+	branch = refs/heads/main
