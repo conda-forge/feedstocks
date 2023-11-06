@@ -82698,3 +82698,7 @@
 	url = https://github.com/conda-forge/anyscale-feedstock.git
 	path = feedstocks/anyscale
 	branch = refs/heads/main
+[submodule "coreforecast"]
+	url = https://github.com/conda-forge/coreforecast-feedstock.git
+	path = feedstocks/coreforecast
+	branch = refs/heads/main
