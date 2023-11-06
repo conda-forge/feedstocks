@@ -82642,3 +82642,7 @@
 	url = https://github.com/conda-forge/nomad-camels-driver-keithley-2000-feedstock.git
 	path = feedstocks/nomad-camels-driver-keithley-2000
 	branch = refs/heads/main
+[submodule "pytrinamic"]
+	url = https://github.com/conda-forge/pytrinamic-feedstock.git
+	path = feedstocks/pytrinamic
+	branch = refs/heads/main
