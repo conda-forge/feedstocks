@@ -82638,3 +82638,7 @@
 	url = https://github.com/conda-forge/pyheatdemand-feedstock.git
 	path = feedstocks/pyheatdemand
 	branch = refs/heads/main
+[submodule "nomad-camels-driver-keithley-2000"]
+	url = https://github.com/conda-forge/nomad-camels-driver-keithley-2000-feedstock.git
+	path = feedstocks/nomad-camels-driver-keithley-2000
+	branch = refs/heads/main
