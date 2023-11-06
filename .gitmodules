@@ -82690,3 +82690,7 @@
 	url = https://github.com/conda-forge/pypromice-feedstock.git
 	path = feedstocks/pypromice
 	branch = refs/heads/main
+[submodule "perl-uri-encode"]
+	url = https://github.com/conda-forge/perl-uri-encode-feedstock.git
+	path = feedstocks/perl-uri-encode
+	branch = refs/heads/main
