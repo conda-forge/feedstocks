@@ -82686,3 +82686,7 @@
 	url = https://github.com/conda-forge/nomad-camels-driver-pid-feedstock.git
 	path = feedstocks/nomad-camels-driver-pid
 	branch = refs/heads/main
+[submodule "pypromice"]
+	url = https://github.com/conda-forge/pypromice-feedstock.git
+	path = feedstocks/pypromice
+	branch = refs/heads/main
