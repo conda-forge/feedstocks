@@ -82658,3 +82658,7 @@
 	url = https://github.com/conda-forge/nomad-camels-driver-demo-instrument-feedstock.git
 	path = feedstocks/nomad-camels-driver-demo-instrument
 	branch = refs/heads/main
+[submodule "nomad-camels-driver-keithley-220"]
+	url = https://github.com/conda-forge/nomad-camels-driver-keithley-220-feedstock.git
+	path = feedstocks/nomad-camels-driver-keithley-220
+	branch = refs/heads/main
