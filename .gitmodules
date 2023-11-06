@@ -82622,3 +82622,7 @@
 	url = https://github.com/conda-forge/zope.sqlalchemy-feedstock.git
 	path = feedstocks/zope.sqlalchemy
 	branch = refs/heads/main
+[submodule "types-lxml"]
+	url = https://github.com/conda-forge/types-lxml-feedstock.git
+	path = feedstocks/types-lxml
+	branch = refs/heads/main
