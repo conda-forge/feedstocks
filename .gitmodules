@@ -82682,3 +82682,7 @@
 	url = https://github.com/conda-forge/nomad-camels-driver-voltcraft-pps-feedstock.git
 	path = feedstocks/nomad-camels-driver-voltcraft-pps
 	branch = refs/heads/main
+[submodule "nomad-camels-driver-pid"]
+	url = https://github.com/conda-forge/nomad-camels-driver-pid-feedstock.git
+	path = feedstocks/nomad-camels-driver-pid
+	branch = refs/heads/main
