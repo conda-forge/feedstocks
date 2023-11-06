@@ -82678,3 +82678,7 @@
 	url = https://github.com/conda-forge/canopen-feedstock.git
 	path = feedstocks/canopen
 	branch = refs/heads/main
+[submodule "nomad-camels-driver-voltcraft-pps"]
+	url = https://github.com/conda-forge/nomad-camels-driver-voltcraft-pps-feedstock.git
+	path = feedstocks/nomad-camels-driver-voltcraft-pps
+	branch = refs/heads/main
