@@ -82626,3 +82626,7 @@
 	url = https://github.com/conda-forge/types-lxml-feedstock.git
 	path = feedstocks/types-lxml
 	branch = refs/heads/main
+[submodule "nomad-camels-driver-ni-daq"]
+	url = https://github.com/conda-forge/nomad-camels-driver-ni-daq-feedstock.git
+	path = feedstocks/nomad-camels-driver-ni-daq
+	branch = refs/heads/main
