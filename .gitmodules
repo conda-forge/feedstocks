@@ -82670,3 +82670,7 @@
 	url = https://github.com/conda-forge/pandora-geno-feedstock.git
 	path = feedstocks/pandora-geno
 	branch = refs/heads/main
+[submodule "dagster-libs"]
+	url = https://github.com/conda-forge/dagster-libs-feedstock.git
+	path = feedstocks/dagster-libs
+	branch = refs/heads/main
