@@ -82618,3 +82618,7 @@
 	url = https://github.com/conda-forge/r-jmbayes2-feedstock.git
 	path = feedstocks/r-jmbayes2
 	branch = refs/heads/main
+[submodule "zope.sqlalchemy"]
+	url = https://github.com/conda-forge/zope.sqlalchemy-feedstock.git
+	path = feedstocks/zope.sqlalchemy
+	branch = refs/heads/main
