@@ -82706,3 +82706,7 @@
 	url = https://github.com/conda-forge/pymonctl-feedstock.git
 	path = feedstocks/pymonctl
 	branch = refs/heads/main
+[submodule "pywinctl"]
+	url = https://github.com/conda-forge/pywinctl-feedstock.git
+	path = feedstocks/pywinctl
+	branch = refs/heads/main
