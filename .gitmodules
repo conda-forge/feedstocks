@@ -82722,3 +82722,7 @@
 	url = https://github.com/conda-forge/containers-sugar-feedstock.git
 	path = feedstocks/containers-sugar
 	branch = refs/heads/main
+[submodule "makim"]
+	url = https://github.com/conda-forge/makim-feedstock.git
+	path = feedstocks/makim
+	branch = refs/heads/main
