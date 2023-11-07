@@ -82734,3 +82734,7 @@
 	url = https://github.com/conda-forge/microarch-level-feedstock.git
 	path = feedstocks/microarch-level
 	branch = refs/heads/main
+[submodule "rio-vrt"]
+	url = https://github.com/conda-forge/rio-vrt-feedstock.git
+	path = feedstocks/rio-vrt
+	branch = refs/heads/main
