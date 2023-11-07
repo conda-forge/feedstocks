@@ -82718,3 +82718,7 @@
 	url = https://github.com/conda-forge/umachine-pyio-feedstock.git
 	path = feedstocks/umachine-pyio
 	branch = refs/heads/main
+[submodule "containers-sugar"]
+	url = https://github.com/conda-forge/containers-sugar-feedstock.git
+	path = feedstocks/containers-sugar
+	branch = refs/heads/main
