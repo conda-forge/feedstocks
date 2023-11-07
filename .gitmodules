@@ -82714,3 +82714,7 @@
 	url = https://github.com/conda-forge/pywinbox-feedstock.git
 	path = feedstocks/pywinbox
 	branch = refs/heads/main
+[submodule "umachine-pyio"]
+	url = https://github.com/conda-forge/umachine-pyio-feedstock.git
+	path = feedstocks/umachine-pyio
+	branch = refs/heads/main
