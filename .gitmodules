@@ -82710,3 +82710,7 @@
 	url = https://github.com/conda-forge/pywinctl-feedstock.git
 	path = feedstocks/pywinctl
 	branch = refs/heads/main
+[submodule "pywinbox"]
+	url = https://github.com/conda-forge/pywinbox-feedstock.git
+	path = feedstocks/pywinbox
+	branch = refs/heads/main
