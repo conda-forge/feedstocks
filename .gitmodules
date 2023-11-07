@@ -82726,3 +82726,7 @@
 	url = https://github.com/conda-forge/makim-feedstock.git
 	path = feedstocks/makim
 	branch = refs/heads/main
+[submodule "pyet"]
+	url = https://github.com/conda-forge/pyet-feedstock.git
+	path = feedstocks/pyet
+	branch = refs/heads/main
