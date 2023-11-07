@@ -82730,3 +82730,7 @@
 	url = https://github.com/conda-forge/pyet-feedstock.git
 	path = feedstocks/pyet
 	branch = refs/heads/main
+[submodule "microarch-level"]
+	url = https://github.com/conda-forge/microarch-level-feedstock.git
+	path = feedstocks/microarch-level
+	branch = refs/heads/main
