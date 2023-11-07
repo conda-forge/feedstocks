@@ -82702,3 +82702,7 @@
 	url = https://github.com/conda-forge/coreforecast-feedstock.git
 	path = feedstocks/coreforecast
 	branch = refs/heads/main
+[submodule "pymonctl"]
+	url = https://github.com/conda-forge/pymonctl-feedstock.git
+	path = feedstocks/pymonctl
+	branch = refs/heads/main
