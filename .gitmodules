@@ -82738,3 +82738,7 @@
 	url = https://github.com/conda-forge/rio-vrt-feedstock.git
 	path = feedstocks/rio-vrt
 	branch = refs/heads/main
+[submodule "lonboard"]
+	url = https://github.com/conda-forge/lonboard-feedstock.git
+	path = feedstocks/lonboard
+	branch = refs/heads/main
