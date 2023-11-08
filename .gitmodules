@@ -82742,3 +82742,7 @@
 	url = https://github.com/conda-forge/lonboard-feedstock.git
 	path = feedstocks/lonboard
 	branch = refs/heads/main
+[submodule "napari-trackpy"]
+	url = https://github.com/conda-forge/napari-trackpy-feedstock.git
+	path = feedstocks/napari-trackpy
+	branch = refs/heads/main
