@@ -82746,3 +82746,7 @@
 	url = https://github.com/conda-forge/napari-trackpy-feedstock.git
 	path = feedstocks/napari-trackpy
 	branch = refs/heads/main
+[submodule "opera-utils"]
+	url = https://github.com/conda-forge/opera-utils-feedstock.git
+	path = feedstocks/opera-utils
+	branch = refs/heads/main
