@@ -82762,3 +82762,7 @@
 	url = https://github.com/conda-forge/tosholi-feedstock.git
 	path = feedstocks/tosholi
 	branch = refs/heads/main
+[submodule "primod"]
+	url = https://github.com/conda-forge/primod-feedstock.git
+	path = feedstocks/primod
+	branch = refs/heads/main
