@@ -82754,3 +82754,7 @@
 	url = https://github.com/conda-forge/globus-identity-mapping-feedstock.git
 	path = feedstocks/globus-identity-mapping
 	branch = refs/heads/main
+[submodule "pyarrow-hotfix"]
+	url = https://github.com/conda-forge/pyarrow-hotfix-feedstock.git
+	path = feedstocks/pyarrow-hotfix
+	branch = refs/heads/main
