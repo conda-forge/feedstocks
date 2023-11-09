@@ -82766,3 +82766,7 @@
 	url = https://github.com/conda-forge/primod-feedstock.git
 	path = feedstocks/primod
 	branch = refs/heads/main
+[submodule "dask-databricks"]
+	url = https://github.com/conda-forge/dask-databricks-feedstock.git
+	path = feedstocks/dask-databricks
+	branch = refs/heads/main
