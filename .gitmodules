@@ -82750,3 +82750,7 @@
 	url = https://github.com/conda-forge/opera-utils-feedstock.git
 	path = feedstocks/opera-utils
 	branch = refs/heads/main
+[submodule "globus-identity-mapping"]
+	url = https://github.com/conda-forge/globus-identity-mapping-feedstock.git
+	path = feedstocks/globus-identity-mapping
+	branch = refs/heads/main
