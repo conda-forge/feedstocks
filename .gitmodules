@@ -82770,3 +82770,7 @@
 	url = https://github.com/conda-forge/dask-databricks-feedstock.git
 	path = feedstocks/dask-databricks
 	branch = refs/heads/main
+[submodule "lenskit-implicit"]
+	url = https://github.com/conda-forge/lenskit-implicit-feedstock.git
+	path = feedstocks/lenskit-implicit
+	branch = refs/heads/main
