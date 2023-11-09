@@ -82758,3 +82758,7 @@
 	url = https://github.com/conda-forge/pyarrow-hotfix-feedstock.git
 	path = feedstocks/pyarrow-hotfix
 	branch = refs/heads/main
+[submodule "tosholi"]
+	url = https://github.com/conda-forge/tosholi-feedstock.git
+	path = feedstocks/tosholi
+	branch = refs/heads/main
