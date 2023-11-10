@@ -82782,3 +82782,7 @@
 	url = https://github.com/conda-forge/jinja2-git-feedstock.git
 	path = feedstocks/jinja2-git
 	branch = refs/heads/main
+[submodule "arm-test-data"]
+	url = https://github.com/conda-forge/arm-test-data-feedstock.git
+	path = feedstocks/arm-test-data
+	branch = refs/heads/main
