@@ -82774,3 +82774,7 @@
 	url = https://github.com/conda-forge/lenskit-implicit-feedstock.git
 	path = feedstocks/lenskit-implicit
 	branch = refs/heads/main
+[submodule "pdflatex"]
+	url = https://github.com/conda-forge/pdflatex-feedstock.git
+	path = feedstocks/pdflatex
+	branch = refs/heads/main
