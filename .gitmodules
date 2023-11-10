@@ -82778,3 +82778,7 @@
 	url = https://github.com/conda-forge/pdflatex-feedstock.git
 	path = feedstocks/pdflatex
 	branch = refs/heads/main
+[submodule "jinja2-git"]
+	url = https://github.com/conda-forge/jinja2-git-feedstock.git
+	path = feedstocks/jinja2-git
+	branch = refs/heads/main
