@@ -82786,3 +82786,7 @@
 	url = https://github.com/conda-forge/arm-test-data-feedstock.git
 	path = feedstocks/arm-test-data
 	branch = refs/heads/main
+[submodule "xeus-r"]
+	url = https://github.com/conda-forge/xeus-r-feedstock.git
+	path = feedstocks/xeus-r
+	branch = refs/heads/main
