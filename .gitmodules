@@ -82798,3 +82798,7 @@
 	url = https://github.com/conda-forge/qiskit-algorithms-feedstock.git
 	path = feedstocks/qiskit-algorithms
 	branch = refs/heads/main
+[submodule "rst2txt"]
+	url = https://github.com/conda-forge/rst2txt-feedstock.git
+	path = feedstocks/rst2txt
+	branch = refs/heads/main
