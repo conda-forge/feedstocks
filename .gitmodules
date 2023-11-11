@@ -82794,3 +82794,7 @@
 	url = https://github.com/conda-forge/napari-locan-feedstock.git
 	path = feedstocks/napari-locan
 	branch = refs/heads/main
+[submodule "qiskit-algorithms"]
+	url = https://github.com/conda-forge/qiskit-algorithms-feedstock.git
+	path = feedstocks/qiskit-algorithms
+	branch = refs/heads/main
