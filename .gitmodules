@@ -82822,3 +82822,7 @@
 	url = https://github.com/conda-forge/py-sirius-ms-feedstock.git
 	path = feedstocks/py-sirius-ms
 	branch = refs/heads/main
+[submodule "pydmd"]
+	url = https://github.com/conda-forge/pydmd-feedstock.git
+	path = feedstocks/pydmd
+	branch = refs/heads/main
