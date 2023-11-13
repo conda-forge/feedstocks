@@ -82810,3 +82810,7 @@
 	url = https://github.com/conda-forge/clusterx-feedstock.git
 	path = feedstocks/clusterx
 	branch = refs/heads/main
+[submodule "ribasim-api"]
+	url = https://github.com/conda-forge/ribasim-api-feedstock.git
+	path = feedstocks/ribasim-api
+	branch = refs/heads/main
