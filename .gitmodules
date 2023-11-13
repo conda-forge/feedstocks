@@ -82802,3 +82802,7 @@
 	url = https://github.com/conda-forge/rst2txt-feedstock.git
 	path = feedstocks/rst2txt
 	branch = refs/heads/main
+[submodule "meeko"]
+	url = https://github.com/conda-forge/meeko-feedstock.git
+	path = feedstocks/meeko
+	branch = refs/heads/main
