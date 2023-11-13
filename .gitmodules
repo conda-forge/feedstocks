@@ -82826,3 +82826,7 @@
 	url = https://github.com/conda-forge/pydmd-feedstock.git
 	path = feedstocks/pydmd
 	branch = refs/heads/main
+[submodule "nrel.routee.compass"]
+	url = https://github.com/conda-forge/nrel.routee.compass-feedstock.git
+	path = feedstocks/nrel.routee.compass
+	branch = refs/heads/main
