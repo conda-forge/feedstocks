@@ -82806,3 +82806,7 @@
 	url = https://github.com/conda-forge/meeko-feedstock.git
 	path = feedstocks/meeko
 	branch = refs/heads/main
+[submodule "clusterx"]
+	url = https://github.com/conda-forge/clusterx-feedstock.git
+	path = feedstocks/clusterx
+	branch = refs/heads/main
