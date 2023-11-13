@@ -82818,3 +82818,7 @@
 	url = https://github.com/conda-forge/zernike-feedstock.git
 	path = feedstocks/zernike
 	branch = refs/heads/main
+[submodule "py-sirius-ms"]
+	url = https://github.com/conda-forge/py-sirius-ms-feedstock.git
+	path = feedstocks/py-sirius-ms
+	branch = refs/heads/main
