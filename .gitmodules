@@ -82834,3 +82834,7 @@
 	url = https://github.com/conda-forge/presto-server-feedstock.git
 	path = feedstocks/presto-server
 	branch = refs/heads/main
+[submodule "aioresponses"]
+	url = https://github.com/conda-forge/aioresponses-feedstock.git
+	path = feedstocks/aioresponses
+	branch = refs/heads/main
