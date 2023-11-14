@@ -82830,3 +82830,7 @@
 	url = https://github.com/conda-forge/nrel.routee.compass-feedstock.git
 	path = feedstocks/nrel.routee.compass
 	branch = refs/heads/main
+[submodule "presto-server"]
+	url = https://github.com/conda-forge/presto-server-feedstock.git
+	path = feedstocks/presto-server
+	branch = refs/heads/main
