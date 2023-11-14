@@ -82854,3 +82854,7 @@
 	url = https://github.com/conda-forge/python-localvenv-kernel-feedstock.git
 	path = feedstocks/python-localvenv-kernel
 	branch = refs/heads/main
+[submodule "pygsti"]
+	url = https://github.com/conda-forge/pygsti-feedstock.git
+	path = feedstocks/pygsti
+	branch = refs/heads/main
