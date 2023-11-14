@@ -82842,3 +82842,7 @@
 	url = https://github.com/conda-forge/simdutf-feedstock.git
 	path = feedstocks/simdutf
 	branch = refs/heads/main
+[submodule "pytest-copie"]
+	url = https://github.com/conda-forge/pytest-copie-feedstock.git
+	path = feedstocks/pytest-copie
+	branch = refs/heads/main
