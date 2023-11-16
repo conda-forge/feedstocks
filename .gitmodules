@@ -82918,3 +82918,7 @@
 	url = https://github.com/conda-forge/spindry-feedstock.git
 	path = feedstocks/spindry
 	branch = refs/heads/main
+[submodule "mchammer"]
+	url = https://github.com/conda-forge/mchammer-feedstock.git
+	path = feedstocks/mchammer
+	branch = refs/heads/main
