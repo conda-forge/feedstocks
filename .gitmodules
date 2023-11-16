@@ -82870,3 +82870,7 @@
 	url = https://github.com/conda-forge/holonote-feedstock.git
 	path = feedstocks/holonote
 	branch = refs/heads/main
+[submodule "waterdynamics"]
+	url = https://github.com/conda-forge/waterdynamics-feedstock.git
+	path = feedstocks/waterdynamics
+	branch = refs/heads/main
