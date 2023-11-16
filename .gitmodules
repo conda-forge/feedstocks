@@ -82878,3 +82878,7 @@
 	url = https://github.com/conda-forge/actflow-feedstock.git
 	path = feedstocks/actflow
 	branch = refs/heads/main
+[submodule "rubin-scheduler"]
+	url = https://github.com/conda-forge/rubin-scheduler-feedstock.git
+	path = feedstocks/rubin-scheduler
+	branch = refs/heads/main
