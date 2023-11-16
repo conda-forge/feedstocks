@@ -82862,3 +82862,7 @@
 	url = https://github.com/conda-forge/channels_redis-feedstock.git
 	path = feedstocks/channels_redis
 	branch = refs/heads/main
+[submodule "snirf"]
+	url = https://github.com/conda-forge/snirf-feedstock.git
+	path = feedstocks/snirf
+	branch = refs/heads/main
