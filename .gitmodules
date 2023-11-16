@@ -82858,3 +82858,7 @@
 	url = https://github.com/conda-forge/pygsti-feedstock.git
 	path = feedstocks/pygsti
 	branch = refs/heads/main
+[submodule "channels_redis"]
+	url = https://github.com/conda-forge/channels_redis-feedstock.git
+	path = feedstocks/channels_redis
+	branch = refs/heads/main
