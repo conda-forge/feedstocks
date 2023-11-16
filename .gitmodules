@@ -82902,3 +82902,7 @@
 	url = https://github.com/conda-forge/edfio-feedstock.git
 	path = feedstocks/edfio
 	branch = refs/heads/main
+[submodule "stk"]
+	url = https://github.com/conda-forge/stk-feedstock.git
+	path = feedstocks/stk
+	branch = refs/heads/main
