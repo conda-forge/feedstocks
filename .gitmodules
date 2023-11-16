@@ -82906,3 +82906,7 @@
 	url = https://github.com/conda-forge/stk-feedstock.git
 	path = feedstocks/stk
 	branch = refs/heads/main
+[submodule "atomlite"]
+	url = https://github.com/conda-forge/atomlite-feedstock.git
+	path = feedstocks/atomlite
+	branch = refs/heads/main
