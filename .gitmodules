@@ -82894,3 +82894,7 @@
 	url = https://github.com/conda-forge/flowermd-feedstock.git
 	path = feedstocks/flowermd
 	branch = refs/heads/main
+[submodule "reconciliation"]
+	url = https://github.com/conda-forge/reconciliation-feedstock.git
+	path = feedstocks/reconciliation
+	branch = refs/heads/main
