@@ -82898,3 +82898,7 @@
 	url = https://github.com/conda-forge/reconciliation-feedstock.git
 	path = feedstocks/reconciliation
 	branch = refs/heads/main
+[submodule "edfio"]
+	url = https://github.com/conda-forge/edfio-feedstock.git
+	path = feedstocks/edfio
+	branch = refs/heads/main
