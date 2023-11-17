@@ -82922,3 +82922,7 @@
 	url = https://github.com/conda-forge/mchammer-feedstock.git
 	path = feedstocks/mchammer
 	branch = refs/heads/main
+[submodule "pyformlang"]
+	url = https://github.com/conda-forge/pyformlang-feedstock.git
+	path = feedstocks/pyformlang
+	branch = refs/heads/main
