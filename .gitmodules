@@ -82926,3 +82926,7 @@
 	url = https://github.com/conda-forge/pyformlang-feedstock.git
 	path = feedstocks/pyformlang
 	branch = refs/heads/main
+[submodule "uuid-utils"]
+	url = https://github.com/conda-forge/uuid-utils-feedstock.git
+	path = feedstocks/uuid-utils
+	branch = refs/heads/main
