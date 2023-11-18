@@ -82990,3 +82990,7 @@
 	url = https://github.com/conda-forge/brainglobe-segmentation-feedstock.git
 	path = feedstocks/brainglobe-segmentation
 	branch = refs/heads/main
+[submodule "napari-microtubule-analyzer"]
+	url = https://github.com/conda-forge/napari-microtubule-analyzer-feedstock.git
+	path = feedstocks/napari-microtubule-analyzer
+	branch = refs/heads/main
