@@ -83006,3 +83006,7 @@
 	url = https://github.com/conda-forge/large-image-viewer-feedstock.git
 	path = feedstocks/large-image-viewer
 	branch = refs/heads/main
+[submodule "brainrender-napari"]
+	url = https://github.com/conda-forge/brainrender-napari-feedstock.git
+	path = feedstocks/brainrender-napari
+	branch = refs/heads/main
