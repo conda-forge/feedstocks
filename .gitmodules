@@ -82942,3 +82942,7 @@
 	url = https://github.com/conda-forge/libfilepattern-feedstock.git
 	path = feedstocks/libfilepattern
 	branch = refs/heads/main
+[submodule "hurl"]
+	url = https://github.com/conda-forge/hurl-feedstock.git
+	path = feedstocks/hurl
+	branch = refs/heads/main
