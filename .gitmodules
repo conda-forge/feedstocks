@@ -83030,3 +83030,7 @@
 	url = https://github.com/conda-forge/napari-rembg-feedstock.git
 	path = feedstocks/napari-rembg
 	branch = refs/heads/main
+[submodule "python-blosc2"]
+	url = https://github.com/conda-forge/python-blosc2-feedstock.git
+	path = feedstocks/python-blosc2
+	branch = refs/heads/main
