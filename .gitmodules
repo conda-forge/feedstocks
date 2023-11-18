@@ -83018,3 +83018,7 @@
 	url = https://github.com/conda-forge/napari-lf-feedstock.git
 	path = feedstocks/napari-lf
 	branch = refs/heads/main
+[submodule "napari-splinedist"]
+	url = https://github.com/conda-forge/napari-splinedist-feedstock.git
+	path = feedstocks/napari-splinedist
+	branch = refs/heads/main
