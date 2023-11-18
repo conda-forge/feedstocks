@@ -82986,3 +82986,7 @@
 	url = https://github.com/conda-forge/napari-annotation-project-feedstock.git
 	path = feedstocks/napari-annotation-project
 	branch = refs/heads/main
+[submodule "brainglobe-segmentation"]
+	url = https://github.com/conda-forge/brainglobe-segmentation-feedstock.git
+	path = feedstocks/brainglobe-segmentation
+	branch = refs/heads/main
