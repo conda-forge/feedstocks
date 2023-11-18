@@ -83002,3 +83002,7 @@
 	url = https://github.com/conda-forge/fft-conv-pytorch-feedstock.git
 	path = feedstocks/fft-conv-pytorch
 	branch = refs/heads/main
+[submodule "large-image-viewer"]
+	url = https://github.com/conda-forge/large-image-viewer-feedstock.git
+	path = feedstocks/large-image-viewer
+	branch = refs/heads/main
