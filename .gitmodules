@@ -82934,3 +82934,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-prometheus-remote-write-feedstock.git
 	path = feedstocks/opentelemetry-exporter-prometheus-remote-write
 	branch = refs/heads/main
+[submodule "matsubplots"]
+	url = https://github.com/conda-forge/matsubplots-feedstock.git
+	path = feedstocks/matsubplots
+	branch = refs/heads/main
