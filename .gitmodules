@@ -83026,3 +83026,7 @@
 	url = https://github.com/conda-forge/napari-labelprop-feedstock.git
 	path = feedstocks/napari-labelprop
 	branch = refs/heads/main
+[submodule "napari-rembg"]
+	url = https://github.com/conda-forge/napari-rembg-feedstock.git
+	path = feedstocks/napari-rembg
+	branch = refs/heads/main
