@@ -83014,3 +83014,7 @@
 	url = https://github.com/conda-forge/zarpaint-feedstock.git
 	path = feedstocks/zarpaint
 	branch = refs/heads/main
+[submodule "napari-lf"]
+	url = https://github.com/conda-forge/napari-lf-feedstock.git
+	path = feedstocks/napari-lf
+	branch = refs/heads/main
