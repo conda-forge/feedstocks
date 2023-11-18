@@ -82962,3 +82962,7 @@
 	url = https://github.com/conda-forge/roocs-grids-feedstock.git
 	path = feedstocks/roocs-grids
 	branch = refs/heads/main
+[submodule "napari-simpleannotate"]
+	url = https://github.com/conda-forge/napari-simpleannotate-feedstock.git
+	path = feedstocks/napari-simpleannotate
+	branch = refs/heads/main
