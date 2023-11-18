@@ -82982,3 +82982,7 @@
 	url = https://github.com/conda-forge/ufish-feedstock.git
 	path = feedstocks/ufish
 	branch = refs/heads/main
+[submodule "napari-annotation-project"]
+	url = https://github.com/conda-forge/napari-annotation-project-feedstock.git
+	path = feedstocks/napari-annotation-project
+	branch = refs/heads/main
