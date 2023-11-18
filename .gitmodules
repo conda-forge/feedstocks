@@ -82946,3 +82946,7 @@
 	url = https://github.com/conda-forge/hurl-feedstock.git
 	path = feedstocks/hurl
 	branch = refs/heads/main
+[submodule "spatialdata"]
+	url = https://github.com/conda-forge/spatialdata-feedstock.git
+	path = feedstocks/spatialdata
+	branch = refs/heads/main
