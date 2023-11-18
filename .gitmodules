@@ -82998,3 +82998,7 @@
 	url = https://github.com/conda-forge/napari-aideveloper-feedstock.git
 	path = feedstocks/napari-aideveloper
 	branch = refs/heads/main
+[submodule "fft-conv-pytorch"]
+	url = https://github.com/conda-forge/fft-conv-pytorch-feedstock.git
+	path = feedstocks/fft-conv-pytorch
+	branch = refs/heads/main
