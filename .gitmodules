@@ -83010,3 +83010,7 @@
 	url = https://github.com/conda-forge/brainrender-napari-feedstock.git
 	path = feedstocks/brainrender-napari
 	branch = refs/heads/main
+[submodule "zarpaint"]
+	url = https://github.com/conda-forge/zarpaint-feedstock.git
+	path = feedstocks/zarpaint
+	branch = refs/heads/main
