@@ -82966,3 +82966,7 @@
 	url = https://github.com/conda-forge/napari-simpleannotate-feedstock.git
 	path = feedstocks/napari-simpleannotate
 	branch = refs/heads/main
+[submodule "napari-guitils"]
+	url = https://github.com/conda-forge/napari-guitils-feedstock.git
+	path = feedstocks/napari-guitils
+	branch = refs/heads/main
