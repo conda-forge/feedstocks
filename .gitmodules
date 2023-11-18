@@ -82930,3 +82930,7 @@
 	url = https://github.com/conda-forge/uuid-utils-feedstock.git
 	path = feedstocks/uuid-utils
 	branch = refs/heads/main
+[submodule "opentelemetry-exporter-prometheus-remote-write"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-prometheus-remote-write-feedstock.git
+	path = feedstocks/opentelemetry-exporter-prometheus-remote-write
+	branch = refs/heads/main
