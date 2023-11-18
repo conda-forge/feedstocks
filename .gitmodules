@@ -82950,3 +82950,7 @@
 	url = https://github.com/conda-forge/spatialdata-feedstock.git
 	path = feedstocks/spatialdata
 	branch = refs/heads/main
+[submodule "nap-plot-tools"]
+	url = https://github.com/conda-forge/nap-plot-tools-feedstock.git
+	path = feedstocks/nap-plot-tools
+	branch = refs/heads/main
