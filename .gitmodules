@@ -82978,3 +82978,7 @@
 	url = https://github.com/conda-forge/set-calibration-feedstock.git
 	path = feedstocks/set-calibration
 	branch = refs/heads/main
+[submodule "ufish"]
+	url = https://github.com/conda-forge/ufish-feedstock.git
+	path = feedstocks/ufish
+	branch = refs/heads/main
