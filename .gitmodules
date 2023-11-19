@@ -83038,3 +83038,7 @@
 	url = https://github.com/conda-forge/napari-bud-cell-segmenter-feedstock.git
 	path = feedstocks/napari-bud-cell-segmenter
 	branch = refs/heads/main
+[submodule "lsst-ts-xml"]
+	url = https://github.com/conda-forge/lsst-ts-xml-feedstock.git
+	path = feedstocks/lsst-ts-xml
+	branch = refs/heads/main
