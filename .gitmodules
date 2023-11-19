@@ -83042,3 +83042,7 @@
 	url = https://github.com/conda-forge/lsst-ts-xml-feedstock.git
 	path = feedstocks/lsst-ts-xml
 	branch = refs/heads/main
+[submodule "horovod"]
+	url = https://github.com/conda-forge/horovod-feedstock.git
+	path = feedstocks/horovod
+	branch = refs/heads/main
