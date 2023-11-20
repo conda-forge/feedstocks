@@ -83070,3 +83070,7 @@
 	url = https://github.com/conda-forge/hspf_utils-feedstock.git
 	path = feedstocks/hspf_utils
 	branch = refs/heads/main
+[submodule "dydx-v3-python"]
+	url = https://github.com/conda-forge/dydx-v3-python-feedstock.git
+	path = feedstocks/dydx-v3-python
+	branch = refs/heads/main
