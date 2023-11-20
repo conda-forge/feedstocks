@@ -83066,3 +83066,7 @@
 	url = https://github.com/conda-forge/backports.strenum-feedstock.git
 	path = feedstocks/backports.strenum
 	branch = refs/heads/main
+[submodule "hspf_utils"]
+	url = https://github.com/conda-forge/hspf_utils-feedstock.git
+	path = feedstocks/hspf_utils
+	branch = refs/heads/main
