@@ -83050,3 +83050,7 @@
 	url = https://github.com/conda-forge/conda-sphinx-theme-feedstock.git
 	path = feedstocks/conda-sphinx-theme
 	branch = refs/heads/main
+[submodule "aiohttp-socks"]
+	url = https://github.com/conda-forge/aiohttp-socks-feedstock.git
+	path = feedstocks/aiohttp-socks
+	branch = refs/heads/main
