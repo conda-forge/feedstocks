@@ -83058,3 +83058,7 @@
 	url = https://github.com/conda-forge/napari-ufish-feedstock.git
 	path = feedstocks/napari-ufish
 	branch = refs/heads/main
+[submodule "iohub"]
+	url = https://github.com/conda-forge/iohub-feedstock.git
+	path = feedstocks/iohub
+	branch = refs/heads/main
