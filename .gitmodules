@@ -83062,3 +83062,7 @@
 	url = https://github.com/conda-forge/iohub-feedstock.git
 	path = feedstocks/iohub
 	branch = refs/heads/main
+[submodule "backports.strenum"]
+	url = https://github.com/conda-forge/backports.strenum-feedstock.git
+	path = feedstocks/backports.strenum
+	branch = refs/heads/main
