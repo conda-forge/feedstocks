@@ -83054,3 +83054,7 @@
 	url = https://github.com/conda-forge/aiohttp-socks-feedstock.git
 	path = feedstocks/aiohttp-socks
 	branch = refs/heads/main
+[submodule "napari-ufish"]
+	url = https://github.com/conda-forge/napari-ufish-feedstock.git
+	path = feedstocks/napari-ufish
+	branch = refs/heads/main
