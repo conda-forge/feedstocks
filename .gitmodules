@@ -83046,3 +83046,7 @@
 	url = https://github.com/conda-forge/horovod-feedstock.git
 	path = feedstocks/horovod
 	branch = refs/heads/main
+[submodule "conda-sphinx-theme"]
+	url = https://github.com/conda-forge/conda-sphinx-theme-feedstock.git
+	path = feedstocks/conda-sphinx-theme
+	branch = refs/heads/main
