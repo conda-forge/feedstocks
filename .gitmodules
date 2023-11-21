@@ -83094,3 +83094,7 @@
 	url = https://github.com/conda-forge/broh5-feedstock.git
 	path = feedstocks/broh5
 	branch = refs/heads/main
+[submodule "r-pim"]
+	url = https://github.com/conda-forge/r-pim-feedstock.git
+	path = feedstocks/r-pim
+	branch = refs/heads/main
