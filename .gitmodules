@@ -83074,3 +83074,7 @@
 	url = https://github.com/conda-forge/dydx-v3-python-feedstock.git
 	path = feedstocks/dydx-v3-python
 	branch = refs/heads/main
+[submodule "dynamo-release"]
+	url = https://github.com/conda-forge/dynamo-release-feedstock.git
+	path = feedstocks/dynamo-release
+	branch = refs/heads/main
