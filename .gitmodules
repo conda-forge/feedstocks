@@ -83078,3 +83078,7 @@
 	url = https://github.com/conda-forge/dynamo-release-feedstock.git
 	path = feedstocks/dynamo-release
 	branch = refs/heads/main
+[submodule "folium-pmtiles"]
+	url = https://github.com/conda-forge/folium-pmtiles-feedstock.git
+	path = feedstocks/folium-pmtiles
+	branch = refs/heads/main
