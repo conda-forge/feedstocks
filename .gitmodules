@@ -83106,3 +83106,7 @@
 	url = https://github.com/conda-forge/git-story-feedstock.git
 	path = feedstocks/git-story
 	branch = refs/heads/main
+[submodule "fenics-fiat"]
+	url = https://github.com/conda-forge/fenics-fiat-feedstock.git
+	path = feedstocks/fenics-fiat
+	branch = refs/heads/main
