@@ -83142,3 +83142,7 @@
 	url = https://github.com/conda-forge/atomic-counter-feedstock.git
 	path = feedstocks/atomic-counter
 	branch = refs/heads/main
+[submodule "nbcx"]
+	url = https://github.com/conda-forge/nbcx-feedstock.git
+	path = feedstocks/nbcx
+	branch = refs/heads/main
