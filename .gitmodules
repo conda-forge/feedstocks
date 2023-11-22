@@ -83154,3 +83154,7 @@
 	url = https://github.com/conda-forge/gurobi-logtools-feedstock.git
 	path = feedstocks/gurobi-logtools
 	branch = refs/heads/main
+[submodule "openawsem"]
+	url = https://github.com/conda-forge/openawsem-feedstock.git
+	path = feedstocks/openawsem
+	branch = refs/heads/main
