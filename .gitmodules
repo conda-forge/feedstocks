@@ -83102,3 +83102,7 @@
 	url = https://github.com/conda-forge/pydoe3-feedstock.git
 	path = feedstocks/pydoe3
 	branch = refs/heads/main
+[submodule "git-story"]
+	url = https://github.com/conda-forge/git-story-feedstock.git
+	path = feedstocks/git-story
+	branch = refs/heads/main
