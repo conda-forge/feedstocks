@@ -83158,3 +83158,7 @@
 	url = https://github.com/conda-forge/openawsem-feedstock.git
 	path = feedstocks/openawsem
 	branch = refs/heads/main
+[submodule "locate"]
+	url = https://github.com/conda-forge/locate-feedstock.git
+	path = feedstocks/locate
+	branch = refs/heads/main
