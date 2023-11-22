@@ -83126,3 +83126,7 @@
 	url = https://github.com/conda-forge/pytest-freezer-feedstock.git
 	path = feedstocks/pytest-freezer
 	branch = refs/heads/main
+[submodule "trino-server"]
+	url = https://github.com/conda-forge/trino-server-feedstock.git
+	path = feedstocks/trino-server
+	branch = refs/heads/main
