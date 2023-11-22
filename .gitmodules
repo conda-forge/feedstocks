@@ -83122,3 +83122,7 @@
 	url = https://github.com/conda-forge/fenics-ffc-feedstock.git
 	path = feedstocks/fenics-ffc
 	branch = refs/heads/main
+[submodule "pytest-freezer"]
+	url = https://github.com/conda-forge/pytest-freezer-feedstock.git
+	path = feedstocks/pytest-freezer
+	branch = refs/heads/main
