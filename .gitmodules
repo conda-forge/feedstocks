@@ -83146,3 +83146,7 @@
 	url = https://github.com/conda-forge/nbcx-feedstock.git
 	path = feedstocks/nbcx
 	branch = refs/heads/main
+[submodule "vizent"]
+	url = https://github.com/conda-forge/vizent-feedstock.git
+	path = feedstocks/vizent
+	branch = refs/heads/main
