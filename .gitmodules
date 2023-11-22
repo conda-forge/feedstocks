@@ -83118,3 +83118,7 @@
 	url = https://github.com/conda-forge/fenics-ufl-legacy-feedstock.git
 	path = feedstocks/fenics-ufl-legacy
 	branch = refs/heads/main
+[submodule "fenics-ffc"]
+	url = https://github.com/conda-forge/fenics-ffc-feedstock.git
+	path = feedstocks/fenics-ffc
+	branch = refs/heads/main
