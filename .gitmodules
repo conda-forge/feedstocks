@@ -83138,3 +83138,7 @@
 	url = https://github.com/conda-forge/rooki-feedstock.git
 	path = feedstocks/rooki
 	branch = refs/heads/main
+[submodule "atomic-counter"]
+	url = https://github.com/conda-forge/atomic-counter-feedstock.git
+	path = feedstocks/atomic-counter
+	branch = refs/heads/main
