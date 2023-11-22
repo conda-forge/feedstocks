@@ -83150,3 +83150,7 @@
 	url = https://github.com/conda-forge/vizent-feedstock.git
 	path = feedstocks/vizent
 	branch = refs/heads/main
+[submodule "gurobi-logtools"]
+	url = https://github.com/conda-forge/gurobi-logtools-feedstock.git
+	path = feedstocks/gurobi-logtools
+	branch = refs/heads/main
