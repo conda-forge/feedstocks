@@ -83130,3 +83130,7 @@
 	url = https://github.com/conda-forge/trino-server-feedstock.git
 	path = feedstocks/trino-server
 	branch = refs/heads/main
+[submodule "sphinx-simplepdf"]
+	url = https://github.com/conda-forge/sphinx-simplepdf-feedstock.git
+	path = feedstocks/sphinx-simplepdf
+	branch = refs/heads/main
