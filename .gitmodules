@@ -83170,3 +83170,7 @@
 	url = https://github.com/conda-forge/nomad-camels-feedstock.git
 	path = feedstocks/nomad-camels
 	branch = refs/heads/main
+[submodule "nomad-camels-driver-thorlabs-mff"]
+	url = https://github.com/conda-forge/nomad-camels-driver-thorlabs-mff-feedstock.git
+	path = feedstocks/nomad-camels-driver-thorlabs-mff
+	branch = refs/heads/main
