@@ -83162,3 +83162,7 @@
 	url = https://github.com/conda-forge/locate-feedstock.git
 	path = feedstocks/locate
 	branch = refs/heads/main
+[submodule "dbbot"]
+	url = https://github.com/conda-forge/dbbot-feedstock.git
+	path = feedstocks/dbbot
+	branch = refs/heads/main
