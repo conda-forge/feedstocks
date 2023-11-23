@@ -83186,3 +83186,7 @@
 	url = https://github.com/conda-forge/nomad-camels-driver-keithley-2400-feedstock.git
 	path = feedstocks/nomad-camels-driver-keithley-2400
 	branch = refs/heads/main
+[submodule "nomad-camels-driver-thorlabs-tlpm"]
+	url = https://github.com/conda-forge/nomad-camels-driver-thorlabs-tlpm-feedstock.git
+	path = feedstocks/nomad-camels-driver-thorlabs-tlpm
+	branch = refs/heads/main
