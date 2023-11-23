@@ -83174,3 +83174,7 @@
 	url = https://github.com/conda-forge/nomad-camels-driver-thorlabs-mff-feedstock.git
 	path = feedstocks/nomad-camels-driver-thorlabs-mff
 	branch = refs/heads/main
+[submodule "nomad-camels-driver-cam-control-pylablib"]
+	url = https://github.com/conda-forge/nomad-camels-driver-cam-control-pylablib-feedstock.git
+	path = feedstocks/nomad-camels-driver-cam-control-pylablib
+	branch = refs/heads/main
