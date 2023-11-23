@@ -83166,3 +83166,7 @@
 	url = https://github.com/conda-forge/dbbot-feedstock.git
 	path = feedstocks/dbbot
 	branch = refs/heads/main
+[submodule "nomad-camels"]
+	url = https://github.com/conda-forge/nomad-camels-feedstock.git
+	path = feedstocks/nomad-camels
+	branch = refs/heads/main
