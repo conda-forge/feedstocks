@@ -83226,3 +83226,7 @@
 	url = https://github.com/conda-forge/dace-query-feedstock.git
 	path = feedstocks/dace-query
 	branch = refs/heads/main
+[submodule "r-climate4r.hub"]
+	url = https://github.com/conda-forge/r-climate4r.hub-feedstock.git
+	path = feedstocks/r-climate4r.hub
+	branch = refs/heads/main
