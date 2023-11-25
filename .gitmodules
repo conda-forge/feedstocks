@@ -83202,3 +83202,7 @@
 	url = https://github.com/conda-forge/nomad-camels-driver-swabianinstruments-timetagger-feedstock.git
 	path = feedstocks/nomad-camels-driver-swabianinstruments-timetagger
 	branch = refs/heads/main
+[submodule "polaris"]
+	url = https://github.com/conda-forge/polaris-feedstock.git
+	path = feedstocks/polaris
+	branch = refs/heads/main
