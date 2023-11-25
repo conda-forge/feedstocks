@@ -83210,3 +83210,7 @@
 	url = https://github.com/conda-forge/docstring_parser_fork-feedstock.git
 	path = feedstocks/docstring_parser_fork
 	branch = refs/heads/main
+[submodule "cbcflow"]
+	url = https://github.com/conda-forge/cbcflow-feedstock.git
+	path = feedstocks/cbcflow
+	branch = refs/heads/main
