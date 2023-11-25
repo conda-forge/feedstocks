@@ -83222,3 +83222,7 @@
 	url = https://github.com/conda-forge/qdoas-feedstock.git
 	path = feedstocks/qdoas
 	branch = refs/heads/main
+[submodule "dace-query"]
+	url = https://github.com/conda-forge/dace-query-feedstock.git
+	path = feedstocks/dace-query
+	branch = refs/heads/main
