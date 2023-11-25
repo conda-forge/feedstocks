@@ -83218,3 +83218,7 @@
 	url = https://github.com/conda-forge/linmarg-feedstock.git
 	path = feedstocks/linmarg
 	branch = refs/heads/main
+[submodule "qdoas"]
+	url = https://github.com/conda-forge/qdoas-feedstock.git
+	path = feedstocks/qdoas
+	branch = refs/heads/main
