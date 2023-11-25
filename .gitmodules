@@ -83214,3 +83214,7 @@
 	url = https://github.com/conda-forge/cbcflow-feedstock.git
 	path = feedstocks/cbcflow
 	branch = refs/heads/main
+[submodule "linmarg"]
+	url = https://github.com/conda-forge/linmarg-feedstock.git
+	path = feedstocks/linmarg
+	branch = refs/heads/main
