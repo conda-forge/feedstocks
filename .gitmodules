@@ -83206,3 +83206,7 @@
 	url = https://github.com/conda-forge/polaris-feedstock.git
 	path = feedstocks/polaris
 	branch = refs/heads/main
+[submodule "docstring_parser_fork"]
+	url = https://github.com/conda-forge/docstring_parser_fork-feedstock.git
+	path = feedstocks/docstring_parser_fork
+	branch = refs/heads/main
