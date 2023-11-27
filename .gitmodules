@@ -83274,3 +83274,7 @@
 	url = https://github.com/conda-forge/filepattern-feedstock.git
 	path = feedstocks/filepattern
 	branch = refs/heads/main
+[submodule "pipefunc"]
+	url = https://github.com/conda-forge/pipefunc-feedstock.git
+	path = feedstocks/pipefunc
+	branch = refs/heads/main
