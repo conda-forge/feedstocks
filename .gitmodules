@@ -83254,3 +83254,7 @@
 	url = https://github.com/conda-forge/gravis-feedstock.git
 	path = feedstocks/gravis
 	branch = refs/heads/main
+[submodule "smqtk-core"]
+	url = https://github.com/conda-forge/smqtk-core-feedstock.git
+	path = feedstocks/smqtk-core
+	branch = refs/heads/main
