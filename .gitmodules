@@ -83234,3 +83234,7 @@
 	url = https://github.com/conda-forge/r-paran-feedstock.git
 	path = feedstocks/r-paran
 	branch = refs/heads/main
+[submodule "medenv"]
+	url = https://github.com/conda-forge/medenv-feedstock.git
+	path = feedstocks/medenv
+	branch = refs/heads/main
