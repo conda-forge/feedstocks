@@ -83242,3 +83242,7 @@
 	url = https://github.com/conda-forge/stream-zip-feedstock.git
 	path = feedstocks/stream-zip
 	branch = refs/heads/main
+[submodule "conway-polynomials"]
+	url = https://github.com/conda-forge/conway-polynomials-feedstock.git
+	path = feedstocks/conway-polynomials
+	branch = refs/heads/main
