@@ -83258,3 +83258,7 @@
 	url = https://github.com/conda-forge/smqtk-core-feedstock.git
 	path = feedstocks/smqtk-core
 	branch = refs/heads/main
+[submodule "vertica_highcharts"]
+	url = https://github.com/conda-forge/vertica_highcharts-feedstock.git
+	path = feedstocks/vertica_highcharts
+	branch = refs/heads/main
