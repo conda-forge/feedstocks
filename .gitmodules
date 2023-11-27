@@ -83250,3 +83250,7 @@
 	url = https://github.com/conda-forge/dbbot-sqlalchemy-feedstock.git
 	path = feedstocks/dbbot-sqlalchemy
 	branch = refs/heads/main
+[submodule "gravis"]
+	url = https://github.com/conda-forge/gravis-feedstock.git
+	path = feedstocks/gravis
+	branch = refs/heads/main
