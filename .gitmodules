@@ -83238,3 +83238,7 @@
 	url = https://github.com/conda-forge/medenv-feedstock.git
 	path = feedstocks/medenv
 	branch = refs/heads/main
+[submodule "stream-zip"]
+	url = https://github.com/conda-forge/stream-zip-feedstock.git
+	path = feedstocks/stream-zip
+	branch = refs/heads/main
