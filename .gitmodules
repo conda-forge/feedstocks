@@ -83246,3 +83246,7 @@
 	url = https://github.com/conda-forge/conway-polynomials-feedstock.git
 	path = feedstocks/conway-polynomials
 	branch = refs/heads/main
+[submodule "dbbot-sqlalchemy"]
+	url = https://github.com/conda-forge/dbbot-sqlalchemy-feedstock.git
+	path = feedstocks/dbbot-sqlalchemy
+	branch = refs/heads/main
