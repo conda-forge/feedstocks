@@ -83282,3 +83282,7 @@
 	url = https://github.com/conda-forge/osm2pgrouting-feedstock.git
 	path = feedstocks/osm2pgrouting
 	branch = refs/heads/main
+[submodule "lbcharmdb"]
+	url = https://github.com/conda-forge/lbcharmdb-feedstock.git
+	path = feedstocks/lbcharmdb
+	branch = refs/heads/main
