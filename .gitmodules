@@ -83278,3 +83278,7 @@
 	url = https://github.com/conda-forge/pipefunc-feedstock.git
 	path = feedstocks/pipefunc
 	branch = refs/heads/main
+[submodule "osm2pgrouting"]
+	url = https://github.com/conda-forge/osm2pgrouting-feedstock.git
+	path = feedstocks/osm2pgrouting
+	branch = refs/heads/main
