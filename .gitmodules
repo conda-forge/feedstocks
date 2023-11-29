@@ -83286,3 +83286,7 @@
 	url = https://github.com/conda-forge/lbcharmdb-feedstock.git
 	path = feedstocks/lbcharmdb
 	branch = refs/heads/main
+[submodule "mcstas-suite"]
+	url = https://github.com/conda-forge/mcstas-suite-feedstock.git
+	path = feedstocks/mcstas-suite
+	branch = refs/heads/main
