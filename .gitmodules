@@ -83290,3 +83290,7 @@
 	url = https://github.com/conda-forge/mcstas-suite-feedstock.git
 	path = feedstocks/mcstas-suite
 	branch = refs/heads/main
+[submodule "dynare-preprocessor"]
+	url = https://github.com/conda-forge/dynare-preprocessor-feedstock.git
+	path = feedstocks/dynare-preprocessor
+	branch = refs/heads/main
