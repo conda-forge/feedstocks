@@ -83294,3 +83294,7 @@
 	url = https://github.com/conda-forge/dynare-preprocessor-feedstock.git
 	path = feedstocks/dynare-preprocessor
 	branch = refs/heads/main
+[submodule "flake8-debugger"]
+	url = https://github.com/conda-forge/flake8-debugger-feedstock.git
+	path = feedstocks/flake8-debugger
+	branch = refs/heads/main
