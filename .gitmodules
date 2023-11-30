@@ -83298,3 +83298,7 @@
 	url = https://github.com/conda-forge/flake8-debugger-feedstock.git
 	path = feedstocks/flake8-debugger
 	branch = refs/heads/main
+[submodule "flake8-executable"]
+	url = https://github.com/conda-forge/flake8-executable-feedstock.git
+	path = feedstocks/flake8-executable
+	branch = refs/heads/main
