@@ -83302,3 +83302,7 @@
 	url = https://github.com/conda-forge/flake8-executable-feedstock.git
 	path = feedstocks/flake8-executable
 	branch = refs/heads/main
+[submodule "pybufrkit"]
+	url = https://github.com/conda-forge/pybufrkit-feedstock.git
+	path = feedstocks/pybufrkit
+	branch = refs/heads/main
