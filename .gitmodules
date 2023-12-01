@@ -83310,3 +83310,7 @@
 	url = https://github.com/conda-forge/r-c4r-calibrator-feedstock.git
 	path = feedstocks/r-c4r-calibrator
 	branch = refs/heads/main
+[submodule "unidep"]
+	url = https://github.com/conda-forge/unidep-feedstock.git
+	path = feedstocks/unidep
+	branch = refs/heads/main
