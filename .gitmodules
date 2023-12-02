@@ -83314,3 +83314,7 @@
 	url = https://github.com/conda-forge/unidep-feedstock.git
 	path = feedstocks/unidep
 	branch = refs/heads/main
+[submodule "gcld3"]
+	url = https://github.com/conda-forge/gcld3-feedstock.git
+	path = feedstocks/gcld3
+	branch = refs/heads/main
