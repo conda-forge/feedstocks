@@ -83318,3 +83318,7 @@
 	url = https://github.com/conda-forge/gcld3-feedstock.git
 	path = feedstocks/gcld3
 	branch = refs/heads/main
+[submodule "r-wfe"]
+	url = https://github.com/conda-forge/r-wfe-feedstock.git
+	path = feedstocks/r-wfe
+	branch = refs/heads/main
