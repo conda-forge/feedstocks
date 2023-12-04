@@ -83338,3 +83338,7 @@
 	url = https://github.com/conda-forge/libhidapi-feedstock.git
 	path = feedstocks/libhidapi
 	branch = refs/heads/main
+[submodule "flake8-bandit"]
+	url = https://github.com/conda-forge/flake8-bandit-feedstock.git
+	path = feedstocks/flake8-bandit
+	branch = refs/heads/main
