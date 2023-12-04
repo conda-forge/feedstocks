@@ -83434,3 +83434,7 @@
 	url = https://github.com/conda-forge/napari-convpaint-feedstock.git
 	path = feedstocks/napari-convpaint
 	branch = refs/heads/main
+[submodule "nbwipers"]
+	url = https://github.com/conda-forge/nbwipers-feedstock.git
+	path = feedstocks/nbwipers
+	branch = refs/heads/main
