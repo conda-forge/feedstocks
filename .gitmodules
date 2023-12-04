@@ -83366,3 +83366,7 @@
 	url = https://github.com/conda-forge/sinabs-exodus-feedstock.git
 	path = feedstocks/sinabs-exodus
 	branch = refs/heads/main
+[submodule "ollama"]
+	url = https://github.com/conda-forge/ollama-feedstock.git
+	path = feedstocks/ollama
+	branch = refs/heads/main
