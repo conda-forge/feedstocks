@@ -83422,3 +83422,7 @@
 	url = https://github.com/conda-forge/tiledb-bioimg-feedstock.git
 	path = feedstocks/tiledb-bioimg
 	branch = refs/heads/main
+[submodule "spots-in-yeasts"]
+	url = https://github.com/conda-forge/spots-in-yeasts-feedstock.git
+	path = feedstocks/spots-in-yeasts
+	branch = refs/heads/main
