@@ -83382,3 +83382,7 @@
 	url = https://github.com/conda-forge/napari-emd-feedstock.git
 	path = feedstocks/napari-emd
 	branch = refs/heads/main
+[submodule "pygeodesic"]
+	url = https://github.com/conda-forge/pygeodesic-feedstock.git
+	path = feedstocks/pygeodesic
+	branch = refs/heads/main
