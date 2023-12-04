@@ -83414,3 +83414,7 @@
 	url = https://github.com/conda-forge/mim-solvers-feedstock.git
 	path = feedstocks/mim-solvers
 	branch = refs/heads/main
+[submodule "napari-serialcellpose"]
+	url = https://github.com/conda-forge/napari-serialcellpose-feedstock.git
+	path = feedstocks/napari-serialcellpose
+	branch = refs/heads/main
