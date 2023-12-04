@@ -83398,3 +83398,7 @@
 	url = https://github.com/conda-forge/anchor-droplet-chip-feedstock.git
 	path = feedstocks/anchor-droplet-chip
 	branch = refs/heads/main
+[submodule "domb"]
+	url = https://github.com/conda-forge/domb-feedstock.git
+	path = feedstocks/domb
+	branch = refs/heads/main
