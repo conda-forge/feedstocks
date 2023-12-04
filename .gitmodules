@@ -83378,3 +83378,7 @@
 	url = https://github.com/conda-forge/napari-merge-stardist-masks-feedstock.git
 	path = feedstocks/napari-merge-stardist-masks
 	branch = refs/heads/main
+[submodule "napari-emd"]
+	url = https://github.com/conda-forge/napari-emd-feedstock.git
+	path = feedstocks/napari-emd
+	branch = refs/heads/main
