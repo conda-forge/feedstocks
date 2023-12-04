@@ -83406,3 +83406,7 @@
 	url = https://github.com/conda-forge/gemspa-spt-feedstock.git
 	path = feedstocks/gemspa-spt
 	branch = refs/heads/main
+[submodule "fastui"]
+	url = https://github.com/conda-forge/fastui-feedstock.git
+	path = feedstocks/fastui
+	branch = refs/heads/main
