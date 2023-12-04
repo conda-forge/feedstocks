@@ -83326,3 +83326,7 @@
 	url = https://github.com/conda-forge/pythonji-feedstock.git
 	path = feedstocks/pythonji
 	branch = refs/heads/main
+[submodule "llama-cpp-python"]
+	url = https://github.com/conda-forge/llama-cpp-python-feedstock.git
+	path = feedstocks/llama-cpp-python
+	branch = refs/heads/main
