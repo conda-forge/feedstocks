@@ -83334,3 +83334,7 @@
 	url = https://github.com/conda-forge/llama.cpp-feedstock.git
 	path = feedstocks/llama.cpp
 	branch = refs/heads/main
+[submodule "libhidapi"]
+	url = https://github.com/conda-forge/libhidapi-feedstock.git
+	path = feedstocks/libhidapi
+	branch = refs/heads/main
