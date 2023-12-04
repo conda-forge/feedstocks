@@ -83342,3 +83342,7 @@
 	url = https://github.com/conda-forge/flake8-bandit-feedstock.git
 	path = feedstocks/flake8-bandit
 	branch = refs/heads/main
+[submodule "flake8-tidy-imports"]
+	url = https://github.com/conda-forge/flake8-tidy-imports-feedstock.git
+	path = feedstocks/flake8-tidy-imports
+	branch = refs/heads/main
