@@ -83394,3 +83394,7 @@
 	url = https://github.com/conda-forge/gekko-feedstock.git
 	path = feedstocks/gekko
 	branch = refs/heads/main
+[submodule "anchor-droplet-chip"]
+	url = https://github.com/conda-forge/anchor-droplet-chip-feedstock.git
+	path = feedstocks/anchor-droplet-chip
+	branch = refs/heads/main
