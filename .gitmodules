@@ -83402,3 +83402,7 @@
 	url = https://github.com/conda-forge/domb-feedstock.git
 	path = feedstocks/domb
 	branch = refs/heads/main
+[submodule "gemspa-spt"]
+	url = https://github.com/conda-forge/gemspa-spt-feedstock.git
+	path = feedstocks/gemspa-spt
+	branch = refs/heads/main
