@@ -83322,3 +83322,7 @@
 	url = https://github.com/conda-forge/r-wfe-feedstock.git
 	path = feedstocks/r-wfe
 	branch = refs/heads/main
+[submodule "pythonji"]
+	url = https://github.com/conda-forge/pythonji-feedstock.git
+	path = feedstocks/pythonji
+	branch = refs/heads/main
