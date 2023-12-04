@@ -83426,3 +83426,7 @@
 	url = https://github.com/conda-forge/spots-in-yeasts-feedstock.git
 	path = feedstocks/spots-in-yeasts
 	branch = refs/heads/main
+[submodule "rouge"]
+	url = https://github.com/conda-forge/rouge-feedstock.git
+	path = feedstocks/rouge
+	branch = refs/heads/main
