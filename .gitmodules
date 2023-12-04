@@ -83350,3 +83350,7 @@
 	url = https://github.com/conda-forge/tabulous-feedstock.git
 	path = feedstocks/tabulous
 	branch = refs/heads/main
+[submodule "matrix-nio"]
+	url = https://github.com/conda-forge/matrix-nio-feedstock.git
+	path = feedstocks/matrix-nio
+	branch = refs/heads/main
