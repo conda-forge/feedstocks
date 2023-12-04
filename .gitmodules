@@ -83370,3 +83370,7 @@
 	url = https://github.com/conda-forge/ollama-feedstock.git
 	path = feedstocks/ollama
 	branch = refs/heads/main
+[submodule "napari-indices"]
+	url = https://github.com/conda-forge/napari-indices-feedstock.git
+	path = feedstocks/napari-indices
+	branch = refs/heads/main
