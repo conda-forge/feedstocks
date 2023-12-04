@@ -83410,3 +83410,7 @@
 	url = https://github.com/conda-forge/fastui-feedstock.git
 	path = feedstocks/fastui
 	branch = refs/heads/main
+[submodule "mim-solvers"]
+	url = https://github.com/conda-forge/mim-solvers-feedstock.git
+	path = feedstocks/mim-solvers
+	branch = refs/heads/main
