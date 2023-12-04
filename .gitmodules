@@ -83418,3 +83418,7 @@
 	url = https://github.com/conda-forge/napari-serialcellpose-feedstock.git
 	path = feedstocks/napari-serialcellpose
 	branch = refs/heads/main
+[submodule "tiledb-bioimg"]
+	url = https://github.com/conda-forge/tiledb-bioimg-feedstock.git
+	path = feedstocks/tiledb-bioimg
+	branch = refs/heads/main
