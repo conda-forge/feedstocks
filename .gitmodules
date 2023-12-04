@@ -83358,3 +83358,7 @@
 	url = https://github.com/conda-forge/questo-feedstock.git
 	path = feedstocks/questo
 	branch = refs/heads/main
+[submodule "flake8-no-pep420"]
+	url = https://github.com/conda-forge/flake8-no-pep420-feedstock.git
+	path = feedstocks/flake8-no-pep420
+	branch = refs/heads/main
