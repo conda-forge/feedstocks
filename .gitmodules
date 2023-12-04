@@ -83390,3 +83390,7 @@
 	url = https://github.com/conda-forge/darth-d-feedstock.git
 	path = feedstocks/darth-d
 	branch = refs/heads/main
+[submodule "gekko"]
+	url = https://github.com/conda-forge/gekko-feedstock.git
+	path = feedstocks/gekko
+	branch = refs/heads/main
