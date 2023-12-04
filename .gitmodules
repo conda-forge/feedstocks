@@ -83430,3 +83430,7 @@
 	url = https://github.com/conda-forge/rouge-feedstock.git
 	path = feedstocks/rouge
 	branch = refs/heads/main
+[submodule "napari-convpaint"]
+	url = https://github.com/conda-forge/napari-convpaint-feedstock.git
+	path = feedstocks/napari-convpaint
+	branch = refs/heads/main
