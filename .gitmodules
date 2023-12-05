@@ -83518,3 +83518,7 @@
 	url = https://github.com/conda-forge/smqtk-detection-feedstock.git
 	path = feedstocks/smqtk-detection
 	branch = refs/heads/main
+[submodule "smqtk-image-io"]
+	url = https://github.com/conda-forge/smqtk-image-io-feedstock.git
+	path = feedstocks/smqtk-image-io
+	branch = refs/heads/main
