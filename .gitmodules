@@ -83462,3 +83462,7 @@
 	url = https://github.com/conda-forge/cloupy-feedstock.git
 	path = feedstocks/cloupy
 	branch = refs/heads/main
+[submodule "xesn"]
+	url = https://github.com/conda-forge/xesn-feedstock.git
+	path = feedstocks/xesn
+	branch = refs/heads/main
