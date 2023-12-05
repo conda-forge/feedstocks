@@ -83454,3 +83454,7 @@
 	url = https://github.com/conda-forge/pyspartn-feedstock.git
 	path = feedstocks/pyspartn
 	branch = refs/heads/main
+[submodule "spams-cython"]
+	url = https://github.com/conda-forge/spams-cython-feedstock.git
+	path = feedstocks/spams-cython
+	branch = refs/heads/main
