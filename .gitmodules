@@ -83578,3 +83578,7 @@
 	url = https://github.com/conda-forge/cherab-inversion-feedstock.git
 	path = feedstocks/cherab-inversion
 	branch = refs/heads/main
+[submodule "libcramjam"]
+	url = https://github.com/conda-forge/libcramjam-feedstock.git
+	path = feedstocks/libcramjam
+	branch = refs/heads/main
