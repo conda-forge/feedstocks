@@ -83458,3 +83458,7 @@
 	url = https://github.com/conda-forge/spams-cython-feedstock.git
 	path = feedstocks/spams-cython
 	branch = refs/heads/main
+[submodule "cloupy"]
+	url = https://github.com/conda-forge/cloupy-feedstock.git
+	path = feedstocks/cloupy
+	branch = refs/heads/main
