@@ -83478,3 +83478,7 @@
 	url = https://github.com/conda-forge/tsml-eval-feedstock.git
 	path = feedstocks/tsml-eval
 	branch = refs/heads/main
+[submodule "soapysdr-module-fcdpp"]
+	url = https://github.com/conda-forge/soapysdr-module-fcdpp-feedstock.git
+	path = feedstocks/soapysdr-module-fcdpp
+	branch = refs/heads/main
