@@ -83534,3 +83534,7 @@
 	url = https://github.com/conda-forge/baron-feedstock.git
 	path = feedstocks/baron
 	branch = refs/heads/main
+[submodule "pyx"]
+	url = https://github.com/conda-forge/pyx-feedstock.git
+	path = feedstocks/pyx
+	branch = refs/heads/main
