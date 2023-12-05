@@ -83474,3 +83474,7 @@
 	url = https://github.com/conda-forge/invert4geom-feedstock.git
 	path = feedstocks/invert4geom
 	branch = refs/heads/main
+[submodule "tsml-eval"]
+	url = https://github.com/conda-forge/tsml-eval-feedstock.git
+	path = feedstocks/tsml-eval
+	branch = refs/heads/main
