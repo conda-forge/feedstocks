@@ -83514,3 +83514,7 @@
 	url = https://github.com/conda-forge/smqtk-descriptors-feedstock.git
 	path = feedstocks/smqtk-descriptors
 	branch = refs/heads/main
+[submodule "smqtk-detection"]
+	url = https://github.com/conda-forge/smqtk-detection-feedstock.git
+	path = feedstocks/smqtk-detection
+	branch = refs/heads/main
