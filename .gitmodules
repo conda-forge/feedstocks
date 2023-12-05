@@ -83466,3 +83466,7 @@
 	url = https://github.com/conda-forge/xesn-feedstock.git
 	path = feedstocks/xesn
 	branch = refs/heads/main
+[submodule "chgnet"]
+	url = https://github.com/conda-forge/chgnet-feedstock.git
+	path = feedstocks/chgnet
+	branch = refs/heads/main
