@@ -83442,3 +83442,7 @@
 	url = https://github.com/conda-forge/libml_dtypes-headers-feedstock.git
 	path = feedstocks/libml_dtypes-headers
 	branch = refs/heads/main
+[submodule "openseries"]
+	url = https://github.com/conda-forge/openseries-feedstock.git
+	path = feedstocks/openseries
+	branch = refs/heads/main
