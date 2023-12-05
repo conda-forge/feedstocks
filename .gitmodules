@@ -83554,3 +83554,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-cosmosdb-feedstock.git
 	path = feedstocks/azure-mgmt-cosmosdb
 	branch = refs/heads/main
+[submodule "sourmash_plugin_branchwater"]
+	url = https://github.com/conda-forge/sourmash_plugin_branchwater-feedstock.git
+	path = feedstocks/sourmash_plugin_branchwater
+	branch = refs/heads/main
