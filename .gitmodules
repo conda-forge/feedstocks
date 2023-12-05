@@ -83446,3 +83446,7 @@
 	url = https://github.com/conda-forge/openseries-feedstock.git
 	path = feedstocks/openseries
 	branch = refs/heads/main
+[submodule "litecli"]
+	url = https://github.com/conda-forge/litecli-feedstock.git
+	path = feedstocks/litecli
+	branch = refs/heads/main
