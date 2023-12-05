@@ -83570,3 +83570,7 @@
 	url = https://github.com/conda-forge/genesis4-feedstock.git
 	path = feedstocks/genesis4
 	branch = refs/heads/main
+[submodule "mlsauce"]
+	url = https://github.com/conda-forge/mlsauce-feedstock.git
+	path = feedstocks/mlsauce
+	branch = refs/heads/main
