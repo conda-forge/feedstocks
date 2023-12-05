@@ -83558,3 +83558,7 @@
 	url = https://github.com/conda-forge/sourmash_plugin_branchwater-feedstock.git
 	path = feedstocks/sourmash_plugin_branchwater
 	branch = refs/heads/main
+[submodule "hostess"]
+	url = https://github.com/conda-forge/hostess-feedstock.git
+	path = feedstocks/hostess
+	branch = refs/heads/main
