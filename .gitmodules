@@ -83522,3 +83522,7 @@
 	url = https://github.com/conda-forge/smqtk-image-io-feedstock.git
 	path = feedstocks/smqtk-image-io
 	branch = refs/heads/main
+[submodule "redbaron"]
+	url = https://github.com/conda-forge/redbaron-feedstock.git
+	path = feedstocks/redbaron
+	branch = refs/heads/main
