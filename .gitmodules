@@ -83438,3 +83438,7 @@
 	url = https://github.com/conda-forge/nbwipers-feedstock.git
 	path = feedstocks/nbwipers
 	branch = refs/heads/main
+[submodule "libml_dtypes-headers"]
+	url = https://github.com/conda-forge/libml_dtypes-headers-feedstock.git
+	path = feedstocks/libml_dtypes-headers
+	branch = refs/heads/main
