@@ -83542,3 +83542,7 @@
 	url = https://github.com/conda-forge/smqtk-dataprovider-feedstock.git
 	path = feedstocks/smqtk-dataprovider
 	branch = refs/heads/main
+[submodule "delft_fiat"]
+	url = https://github.com/conda-forge/delft_fiat-feedstock.git
+	path = feedstocks/delft_fiat
+	branch = refs/heads/main
