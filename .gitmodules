@@ -83546,3 +83546,7 @@
 	url = https://github.com/conda-forge/delft_fiat-feedstock.git
 	path = feedstocks/delft_fiat
 	branch = refs/heads/main
+[submodule "libdicom"]
+	url = https://github.com/conda-forge/libdicom-feedstock.git
+	path = feedstocks/libdicom
+	branch = refs/heads/main
