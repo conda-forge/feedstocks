@@ -83530,3 +83530,7 @@
 	url = https://github.com/conda-forge/python-ipware-feedstock.git
 	path = feedstocks/python-ipware
 	branch = refs/heads/main
+[submodule "baron"]
+	url = https://github.com/conda-forge/baron-feedstock.git
+	path = feedstocks/baron
+	branch = refs/heads/main
