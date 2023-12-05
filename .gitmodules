@@ -83582,3 +83582,7 @@
 	url = https://github.com/conda-forge/libcramjam-feedstock.git
 	path = feedstocks/libcramjam
 	branch = refs/heads/main
+[submodule "vnu-validator"]
+	url = https://github.com/conda-forge/vnu-validator-feedstock.git
+	path = feedstocks/vnu-validator
+	branch = refs/heads/main
