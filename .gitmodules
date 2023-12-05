@@ -83526,3 +83526,7 @@
 	url = https://github.com/conda-forge/redbaron-feedstock.git
 	path = feedstocks/redbaron
 	branch = refs/heads/main
+[submodule "python-ipware"]
+	url = https://github.com/conda-forge/python-ipware-feedstock.git
+	path = feedstocks/python-ipware
+	branch = refs/heads/main
