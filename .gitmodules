@@ -83510,3 +83510,7 @@
 	url = https://github.com/conda-forge/plotmol-feedstock.git
 	path = feedstocks/plotmol
 	branch = refs/heads/main
+[submodule "smqtk-descriptors"]
+	url = https://github.com/conda-forge/smqtk-descriptors-feedstock.git
+	path = feedstocks/smqtk-descriptors
+	branch = refs/heads/main
