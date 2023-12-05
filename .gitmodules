@@ -83450,3 +83450,7 @@
 	url = https://github.com/conda-forge/litecli-feedstock.git
 	path = feedstocks/litecli
 	branch = refs/heads/main
+[submodule "pyspartn"]
+	url = https://github.com/conda-forge/pyspartn-feedstock.git
+	path = feedstocks/pyspartn
+	branch = refs/heads/main
