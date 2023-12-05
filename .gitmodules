@@ -83490,3 +83490,7 @@
 	url = https://github.com/conda-forge/meilisearch-python-async-feedstock.git
 	path = feedstocks/meilisearch-python-async
 	branch = refs/heads/main
+[submodule "openraft"]
+	url = https://github.com/conda-forge/openraft-feedstock.git
+	path = feedstocks/openraft
+	branch = refs/heads/main
