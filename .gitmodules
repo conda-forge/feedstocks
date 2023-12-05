@@ -83574,3 +83574,7 @@
 	url = https://github.com/conda-forge/mlsauce-feedstock.git
 	path = feedstocks/mlsauce
 	branch = refs/heads/main
+[submodule "cherab-inversion"]
+	url = https://github.com/conda-forge/cherab-inversion-feedstock.git
+	path = feedstocks/cherab-inversion
+	branch = refs/heads/main
