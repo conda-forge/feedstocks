@@ -83486,3 +83486,7 @@
 	url = https://github.com/conda-forge/camel-converter-feedstock.git
 	path = feedstocks/camel-converter
 	branch = refs/heads/main
+[submodule "meilisearch-python-async"]
+	url = https://github.com/conda-forge/meilisearch-python-async-feedstock.git
+	path = feedstocks/meilisearch-python-async
+	branch = refs/heads/main
