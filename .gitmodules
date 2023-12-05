@@ -83498,3 +83498,7 @@
 	url = https://github.com/conda-forge/replicate-feedstock.git
 	path = feedstocks/replicate
 	branch = refs/heads/main
+[submodule "socksio"]
+	url = https://github.com/conda-forge/socksio-feedstock.git
+	path = feedstocks/socksio
+	branch = refs/heads/main
