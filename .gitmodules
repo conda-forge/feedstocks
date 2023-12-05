@@ -83566,3 +83566,7 @@
 	url = https://github.com/conda-forge/gnuradio-funcube-feedstock.git
 	path = feedstocks/gnuradio-funcube
 	branch = refs/heads/main
+[submodule "genesis4"]
+	url = https://github.com/conda-forge/genesis4-feedstock.git
+	path = feedstocks/genesis4
+	branch = refs/heads/main
