@@ -83494,3 +83494,7 @@
 	url = https://github.com/conda-forge/openraft-feedstock.git
 	path = feedstocks/openraft
 	branch = refs/heads/main
+[submodule "replicate"]
+	url = https://github.com/conda-forge/replicate-feedstock.git
+	path = feedstocks/replicate
+	branch = refs/heads/main
