@@ -83482,3 +83482,7 @@
 	url = https://github.com/conda-forge/soapysdr-module-fcdpp-feedstock.git
 	path = feedstocks/soapysdr-module-fcdpp
 	branch = refs/heads/main
+[submodule "camel-converter"]
+	url = https://github.com/conda-forge/camel-converter-feedstock.git
+	path = feedstocks/camel-converter
+	branch = refs/heads/main
