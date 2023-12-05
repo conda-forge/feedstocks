@@ -83562,3 +83562,7 @@
 	url = https://github.com/conda-forge/hostess-feedstock.git
 	path = feedstocks/hostess
 	branch = refs/heads/main
+[submodule "gnuradio-funcube"]
+	url = https://github.com/conda-forge/gnuradio-funcube-feedstock.git
+	path = feedstocks/gnuradio-funcube
+	branch = refs/heads/main
