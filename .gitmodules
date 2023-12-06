@@ -83594,3 +83594,7 @@
 	url = https://github.com/conda-forge/django-cms-feedstock.git
 	path = feedstocks/django-cms
 	branch = refs/heads/main
+[submodule "django-formtools"]
+	url = https://github.com/conda-forge/django-formtools-feedstock.git
+	path = feedstocks/django-formtools
+	branch = refs/heads/main
