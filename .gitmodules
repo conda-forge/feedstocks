@@ -83630,3 +83630,7 @@
 	url = https://github.com/conda-forge/xaitk-saliency-feedstock.git
 	path = feedstocks/xaitk-saliency
 	branch = refs/heads/main
+[submodule "eip712"]
+	url = https://github.com/conda-forge/eip712-feedstock.git
+	path = feedstocks/eip712
+	branch = refs/heads/main
