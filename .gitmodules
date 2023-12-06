@@ -83590,3 +83590,7 @@
 	url = https://github.com/conda-forge/django-sekizai-feedstock.git
 	path = feedstocks/django-sekizai
 	branch = refs/heads/main
+[submodule "django-cms"]
+	url = https://github.com/conda-forge/django-cms-feedstock.git
+	path = feedstocks/django-cms
+	branch = refs/heads/main
