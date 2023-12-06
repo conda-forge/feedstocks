@@ -83626,3 +83626,7 @@
 	url = https://github.com/conda-forge/pybsm-feedstock.git
 	path = feedstocks/pybsm
 	branch = refs/heads/main
+[submodule "xaitk-saliency"]
+	url = https://github.com/conda-forge/xaitk-saliency-feedstock.git
+	path = feedstocks/xaitk-saliency
+	branch = refs/heads/main
