@@ -83622,3 +83622,7 @@
 	url = https://github.com/conda-forge/ripgrepy-feedstock.git
 	path = feedstocks/ripgrepy
 	branch = refs/heads/main
+[submodule "pybsm"]
+	url = https://github.com/conda-forge/pybsm-feedstock.git
+	path = feedstocks/pybsm
+	branch = refs/heads/main
