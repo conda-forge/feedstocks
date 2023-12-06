@@ -83606,3 +83606,7 @@
 	url = https://github.com/conda-forge/pycnite-feedstock.git
 	path = feedstocks/pycnite
 	branch = refs/heads/main
+[submodule "panoply"]
+	url = https://github.com/conda-forge/panoply-feedstock.git
+	path = feedstocks/panoply
+	branch = refs/heads/main
