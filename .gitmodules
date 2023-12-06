@@ -83618,3 +83618,7 @@
 	url = https://github.com/conda-forge/winfiletime-feedstock.git
 	path = feedstocks/winfiletime
 	branch = refs/heads/main
+[submodule "ripgrepy"]
+	url = https://github.com/conda-forge/ripgrepy-feedstock.git
+	path = feedstocks/ripgrepy
+	branch = refs/heads/main
