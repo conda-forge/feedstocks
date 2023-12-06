@@ -83586,3 +83586,7 @@
 	url = https://github.com/conda-forge/vnu-validator-feedstock.git
 	path = feedstocks/vnu-validator
 	branch = refs/heads/main
+[submodule "django-sekizai"]
+	url = https://github.com/conda-forge/django-sekizai-feedstock.git
+	path = feedstocks/django-sekizai
+	branch = refs/heads/main
