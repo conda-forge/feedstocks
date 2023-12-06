@@ -83614,3 +83614,7 @@
 	url = https://github.com/conda-forge/insert-license-header-feedstock.git
 	path = feedstocks/insert-license-header
 	branch = refs/heads/main
+[submodule "winfiletime"]
+	url = https://github.com/conda-forge/winfiletime-feedstock.git
+	path = feedstocks/winfiletime
+	branch = refs/heads/main
