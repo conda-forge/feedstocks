@@ -83610,3 +83610,7 @@
 	url = https://github.com/conda-forge/panoply-feedstock.git
 	path = feedstocks/panoply
 	branch = refs/heads/main
+[submodule "insert-license-header"]
+	url = https://github.com/conda-forge/insert-license-header-feedstock.git
+	path = feedstocks/insert-license-header
+	branch = refs/heads/main
