@@ -83602,3 +83602,7 @@
 	url = https://github.com/conda-forge/django-classy-tags-feedstock.git
 	path = feedstocks/django-classy-tags
 	branch = refs/heads/main
+[submodule "pycnite"]
+	url = https://github.com/conda-forge/pycnite-feedstock.git
+	path = feedstocks/pycnite
+	branch = refs/heads/main
