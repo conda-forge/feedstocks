@@ -83638,3 +83638,7 @@
 	url = https://github.com/conda-forge/r-egcm-feedstock.git
 	path = feedstocks/r-egcm
 	branch = refs/heads/main
+[submodule "qsimcirq"]
+	url = https://github.com/conda-forge/qsimcirq-feedstock.git
+	path = feedstocks/qsimcirq
+	branch = refs/heads/main
