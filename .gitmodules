@@ -83642,3 +83642,7 @@
 	url = https://github.com/conda-forge/qsimcirq-feedstock.git
 	path = feedstocks/qsimcirq
 	branch = refs/heads/main
+[submodule "vl-convert"]
+	url = https://github.com/conda-forge/vl-convert-feedstock.git
+	path = feedstocks/vl-convert
+	branch = refs/heads/main
