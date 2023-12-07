@@ -83658,3 +83658,7 @@
 	url = https://github.com/conda-forge/pdal_wrench-feedstock.git
 	path = feedstocks/pdal_wrench
 	branch = refs/heads/main
+[submodule "directory-tree"]
+	url = https://github.com/conda-forge/directory-tree-feedstock.git
+	path = feedstocks/directory-tree
+	branch = refs/heads/main
