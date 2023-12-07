@@ -83650,3 +83650,7 @@
 	url = https://github.com/conda-forge/netcdf-java-feedstock.git
 	path = feedstocks/netcdf-java
 	branch = refs/heads/main
+[submodule "pytest-golden"]
+	url = https://github.com/conda-forge/pytest-golden-feedstock.git
+	path = feedstocks/pytest-golden
+	branch = refs/heads/main
