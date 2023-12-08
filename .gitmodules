@@ -83778,3 +83778,7 @@
 	url = https://github.com/conda-forge/causal-learn-feedstock.git
 	path = feedstocks/causal-learn
 	branch = refs/heads/main
+[submodule "djangocms-text-ckeditor"]
+	url = https://github.com/conda-forge/djangocms-text-ckeditor-feedstock.git
+	path = feedstocks/djangocms-text-ckeditor
+	branch = refs/heads/main
