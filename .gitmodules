@@ -83766,3 +83766,7 @@
 	url = https://github.com/conda-forge/fsspec-xrootd-feedstock.git
 	path = feedstocks/fsspec-xrootd
 	branch = refs/heads/main
+[submodule "djangocms-history"]
+	url = https://github.com/conda-forge/djangocms-history-feedstock.git
+	path = feedstocks/djangocms-history
+	branch = refs/heads/main
