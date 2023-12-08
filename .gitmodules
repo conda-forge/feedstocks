@@ -83690,3 +83690,7 @@
 	url = https://github.com/conda-forge/domb-napari-feedstock.git
 	path = feedstocks/domb-napari
 	branch = refs/heads/main
+[submodule "napari-tiledb-bioimg"]
+	url = https://github.com/conda-forge/napari-tiledb-bioimg-feedstock.git
+	path = feedstocks/napari-tiledb-bioimg
+	branch = refs/heads/main
