@@ -83722,3 +83722,7 @@
 	url = https://github.com/conda-forge/napari-gemspa-feedstock.git
 	path = feedstocks/napari-gemspa
 	branch = refs/heads/main
+[submodule "blast-codes"]
+	url = https://github.com/conda-forge/blast-codes-feedstock.git
+	path = feedstocks/blast-codes
+	branch = refs/heads/main
