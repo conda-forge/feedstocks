@@ -83742,3 +83742,7 @@
 	url = https://github.com/conda-forge/numcpp-feedstock.git
 	path = feedstocks/numcpp
 	branch = refs/heads/main
+[submodule "kernel-tuner"]
+	url = https://github.com/conda-forge/kernel-tuner-feedstock.git
+	path = feedstocks/kernel-tuner
+	branch = refs/heads/main
