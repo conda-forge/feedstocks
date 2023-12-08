@@ -83682,3 +83682,7 @@
 	url = https://github.com/conda-forge/lxmlh-feedstock.git
 	path = feedstocks/lxmlh
 	branch = refs/heads/main
+[submodule "femto"]
+	url = https://github.com/conda-forge/femto-feedstock.git
+	path = feedstocks/femto
+	branch = refs/heads/main
