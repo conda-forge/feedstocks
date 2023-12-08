@@ -83686,3 +83686,7 @@
 	url = https://github.com/conda-forge/femto-feedstock.git
 	path = feedstocks/femto
 	branch = refs/heads/main
+[submodule "domb-napari"]
+	url = https://github.com/conda-forge/domb-napari-feedstock.git
+	path = feedstocks/domb-napari
+	branch = refs/heads/main
