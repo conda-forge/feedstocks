@@ -83666,3 +83666,7 @@
 	url = https://github.com/conda-forge/terraform-provider-opensearch-feedstock.git
 	path = feedstocks/terraform-provider-opensearch
 	branch = refs/heads/main
+[submodule "pycrdt-websocket"]
+	url = https://github.com/conda-forge/pycrdt-websocket-feedstock.git
+	path = feedstocks/pycrdt-websocket
+	branch = refs/heads/main
