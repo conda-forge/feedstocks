@@ -83730,3 +83730,7 @@
 	url = https://github.com/conda-forge/compas_libigl-feedstock.git
 	path = feedstocks/compas_libigl
 	branch = refs/heads/main
+[submodule "commlib-py"]
+	url = https://github.com/conda-forge/commlib-py-feedstock.git
+	path = feedstocks/commlib-py
+	branch = refs/heads/main
