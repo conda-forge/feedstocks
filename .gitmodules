@@ -83674,3 +83674,7 @@
 	url = https://github.com/conda-forge/parallel-numpy-rng-feedstock.git
 	path = feedstocks/parallel-numpy-rng
 	branch = refs/heads/main
+[submodule "yaqd-pololu"]
+	url = https://github.com/conda-forge/yaqd-pololu-feedstock.git
+	path = feedstocks/yaqd-pololu
+	branch = refs/heads/main
