@@ -83694,3 +83694,7 @@
 	url = https://github.com/conda-forge/napari-tiledb-bioimg-feedstock.git
 	path = feedstocks/napari-tiledb-bioimg
 	branch = refs/heads/main
+[submodule "napari-spreadsheet"]
+	url = https://github.com/conda-forge/napari-spreadsheet-feedstock.git
+	path = feedstocks/napari-spreadsheet
+	branch = refs/heads/main
