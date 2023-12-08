@@ -83702,3 +83702,7 @@
 	url = https://github.com/conda-forge/napari-stress-feedstock.git
 	path = feedstocks/napari-stress
 	branch = refs/heads/main
+[submodule "warp-lang"]
+	url = https://github.com/conda-forge/warp-lang-feedstock.git
+	path = feedstocks/warp-lang
+	branch = refs/heads/main
