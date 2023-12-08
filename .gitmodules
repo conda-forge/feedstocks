@@ -83662,3 +83662,7 @@
 	url = https://github.com/conda-forge/directory-tree-feedstock.git
 	path = feedstocks/directory-tree
 	branch = refs/heads/main
+[submodule "terraform-provider-opensearch"]
+	url = https://github.com/conda-forge/terraform-provider-opensearch-feedstock.git
+	path = feedstocks/terraform-provider-opensearch
+	branch = refs/heads/main
