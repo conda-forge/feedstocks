@@ -83754,3 +83754,7 @@
 	url = https://github.com/conda-forge/logutils-feedstock.git
 	path = feedstocks/logutils
 	branch = refs/heads/main
+[submodule "opendatasets"]
+	url = https://github.com/conda-forge/opendatasets-feedstock.git
+	path = feedstocks/opendatasets
+	branch = refs/heads/main
