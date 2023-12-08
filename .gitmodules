@@ -83738,3 +83738,7 @@
 	url = https://github.com/conda-forge/pelicanplatform-feedstock.git
 	path = feedstocks/pelicanplatform
 	branch = refs/heads/main
+[submodule "numcpp"]
+	url = https://github.com/conda-forge/numcpp-feedstock.git
+	path = feedstocks/numcpp
+	branch = refs/heads/main
