@@ -83758,3 +83758,7 @@
 	url = https://github.com/conda-forge/opendatasets-feedstock.git
 	path = feedstocks/opendatasets
 	branch = refs/heads/main
+[submodule "plant-seg"]
+	url = https://github.com/conda-forge/plant-seg-feedstock.git
+	path = feedstocks/plant-seg
+	branch = refs/heads/main
