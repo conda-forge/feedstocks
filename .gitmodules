@@ -83714,3 +83714,7 @@
 	url = https://github.com/conda-forge/morphodynamics-feedstock.git
 	path = feedstocks/morphodynamics
 	branch = refs/heads/main
+[submodule "steinbock"]
+	url = https://github.com/conda-forge/steinbock-feedstock.git
+	path = feedstocks/steinbock
+	branch = refs/heads/main
