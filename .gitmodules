@@ -83698,3 +83698,7 @@
 	url = https://github.com/conda-forge/napari-spreadsheet-feedstock.git
 	path = feedstocks/napari-spreadsheet
 	branch = refs/heads/main
+[submodule "napari-stress"]
+	url = https://github.com/conda-forge/napari-stress-feedstock.git
+	path = feedstocks/napari-stress
+	branch = refs/heads/main
