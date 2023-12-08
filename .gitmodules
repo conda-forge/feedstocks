@@ -83734,3 +83734,7 @@
 	url = https://github.com/conda-forge/commlib-py-feedstock.git
 	path = feedstocks/commlib-py
 	branch = refs/heads/main
+[submodule "pelicanplatform"]
+	url = https://github.com/conda-forge/pelicanplatform-feedstock.git
+	path = feedstocks/pelicanplatform
+	branch = refs/heads/main
