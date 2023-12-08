@@ -83746,3 +83746,7 @@
 	url = https://github.com/conda-forge/kernel-tuner-feedstock.git
 	path = feedstocks/kernel-tuner
 	branch = refs/heads/main
+[submodule "python-constraint2"]
+	url = https://github.com/conda-forge/python-constraint2-feedstock.git
+	path = feedstocks/python-constraint2
+	branch = refs/heads/main
