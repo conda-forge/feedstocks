@@ -83718,3 +83718,7 @@
 	url = https://github.com/conda-forge/steinbock-feedstock.git
 	path = feedstocks/steinbock
 	branch = refs/heads/main
+[submodule "napari-gemspa"]
+	url = https://github.com/conda-forge/napari-gemspa-feedstock.git
+	path = feedstocks/napari-gemspa
+	branch = refs/heads/main
