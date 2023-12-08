@@ -83670,3 +83670,7 @@
 	url = https://github.com/conda-forge/pycrdt-websocket-feedstock.git
 	path = feedstocks/pycrdt-websocket
 	branch = refs/heads/main
+[submodule "parallel-numpy-rng"]
+	url = https://github.com/conda-forge/parallel-numpy-rng-feedstock.git
+	path = feedstocks/parallel-numpy-rng
+	branch = refs/heads/main
