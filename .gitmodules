@@ -83770,3 +83770,7 @@
 	url = https://github.com/conda-forge/djangocms-history-feedstock.git
 	path = feedstocks/djangocms-history
 	branch = refs/heads/main
+[submodule "hexdump"]
+	url = https://github.com/conda-forge/hexdump-feedstock.git
+	path = feedstocks/hexdump
+	branch = refs/heads/main
