@@ -83706,3 +83706,7 @@
 	url = https://github.com/conda-forge/warp-lang-feedstock.git
 	path = feedstocks/warp-lang
 	branch = refs/heads/main
+[submodule "terraform-provider-restapi"]
+	url = https://github.com/conda-forge/terraform-provider-restapi-feedstock.git
+	path = feedstocks/terraform-provider-restapi
+	branch = refs/heads/main
