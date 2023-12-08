@@ -83774,3 +83774,7 @@
 	url = https://github.com/conda-forge/hexdump-feedstock.git
 	path = feedstocks/hexdump
 	branch = refs/heads/main
+[submodule "causal-learn"]
+	url = https://github.com/conda-forge/causal-learn-feedstock.git
+	path = feedstocks/causal-learn
+	branch = refs/heads/main
