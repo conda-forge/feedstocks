@@ -83710,3 +83710,7 @@
 	url = https://github.com/conda-forge/terraform-provider-restapi-feedstock.git
 	path = feedstocks/terraform-provider-restapi
 	branch = refs/heads/main
+[submodule "morphodynamics"]
+	url = https://github.com/conda-forge/morphodynamics-feedstock.git
+	path = feedstocks/morphodynamics
+	branch = refs/heads/main
