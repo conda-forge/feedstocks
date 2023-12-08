@@ -83750,3 +83750,7 @@
 	url = https://github.com/conda-forge/python-constraint2-feedstock.git
 	path = feedstocks/python-constraint2
 	branch = refs/heads/main
+[submodule "logutils"]
+	url = https://github.com/conda-forge/logutils-feedstock.git
+	path = feedstocks/logutils
+	branch = refs/heads/main
