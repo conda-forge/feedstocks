@@ -83762,3 +83762,7 @@
 	url = https://github.com/conda-forge/plant-seg-feedstock.git
 	path = feedstocks/plant-seg
 	branch = refs/heads/main
+[submodule "fsspec-xrootd"]
+	url = https://github.com/conda-forge/fsspec-xrootd-feedstock.git
+	path = feedstocks/fsspec-xrootd
+	branch = refs/heads/main
