@@ -83858,3 +83858,7 @@
 	url = https://github.com/conda-forge/loki-logger-handler-feedstock.git
 	path = feedstocks/loki-logger-handler
 	branch = refs/heads/main
+[submodule "skglm"]
+	url = https://github.com/conda-forge/skglm-feedstock.git
+	path = feedstocks/skglm
+	branch = refs/heads/main
