@@ -83862,3 +83862,7 @@
 	url = https://github.com/conda-forge/skglm-feedstock.git
 	path = feedstocks/skglm
 	branch = refs/heads/main
+[submodule "m2-binary-packages"]
+	url = https://github.com/conda-forge/m2-binary-packages-feedstock.git
+	path = feedstocks/m2-binary-packages
+	branch = refs/heads/main
