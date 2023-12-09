@@ -83854,3 +83854,7 @@
 	url = https://github.com/conda-forge/itertable-feedstock.git
 	path = feedstocks/itertable
 	branch = refs/heads/main
+[submodule "loki-logger-handler"]
+	url = https://github.com/conda-forge/loki-logger-handler-feedstock.git
+	path = feedstocks/loki-logger-handler
+	branch = refs/heads/main
