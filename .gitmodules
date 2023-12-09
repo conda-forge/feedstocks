@@ -83798,3 +83798,7 @@
 	url = https://github.com/conda-forge/napari-morphodynamics-feedstock.git
 	path = feedstocks/napari-morphodynamics
 	branch = refs/heads/main
+[submodule "napari-steinpose"]
+	url = https://github.com/conda-forge/napari-steinpose-feedstock.git
+	path = feedstocks/napari-steinpose
+	branch = refs/heads/main
