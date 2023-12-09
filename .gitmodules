@@ -83806,3 +83806,7 @@
 	url = https://github.com/conda-forge/rainbow-logging-handler-feedstock.git
 	path = feedstocks/rainbow-logging-handler
 	branch = refs/heads/main
+[submodule "umetrix"]
+	url = https://github.com/conda-forge/umetrix-feedstock.git
+	path = feedstocks/umetrix
+	branch = refs/heads/main
