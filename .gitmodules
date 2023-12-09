@@ -83810,3 +83810,7 @@
 	url = https://github.com/conda-forge/umetrix-feedstock.git
 	path = feedstocks/umetrix
 	branch = refs/heads/main
+[submodule "napari-superres"]
+	url = https://github.com/conda-forge/napari-superres-feedstock.git
+	path = feedstocks/napari-superres
+	branch = refs/heads/main
