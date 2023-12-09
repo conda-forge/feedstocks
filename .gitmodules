@@ -83842,3 +83842,7 @@
 	url = https://github.com/conda-forge/rest-pandas-feedstock.git
 	path = feedstocks/rest-pandas
 	branch = refs/heads/main
+[submodule "pytorch-3dunet"]
+	url = https://github.com/conda-forge/pytorch-3dunet-feedstock.git
+	path = feedstocks/pytorch-3dunet
+	branch = refs/heads/main
