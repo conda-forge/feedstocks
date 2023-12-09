@@ -83802,3 +83802,7 @@
 	url = https://github.com/conda-forge/napari-steinpose-feedstock.git
 	path = feedstocks/napari-steinpose
 	branch = refs/heads/main
+[submodule "rainbow-logging-handler"]
+	url = https://github.com/conda-forge/rainbow-logging-handler-feedstock.git
+	path = feedstocks/rainbow-logging-handler
+	branch = refs/heads/main
