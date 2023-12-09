@@ -83822,3 +83822,7 @@
 	url = https://github.com/conda-forge/hdwallets-feedstock.git
 	path = feedstocks/hdwallets
 	branch = refs/heads/main
+[submodule "safe-pysha3"]
+	url = https://github.com/conda-forge/safe-pysha3-feedstock.git
+	path = feedstocks/safe-pysha3
+	branch = refs/heads/main
