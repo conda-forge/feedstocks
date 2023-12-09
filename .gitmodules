@@ -83838,3 +83838,7 @@
 	url = https://github.com/conda-forge/natural-keys-feedstock.git
 	path = feedstocks/natural-keys
 	branch = refs/heads/main
+[submodule "rest-pandas"]
+	url = https://github.com/conda-forge/rest-pandas-feedstock.git
+	path = feedstocks/rest-pandas
+	branch = refs/heads/main
