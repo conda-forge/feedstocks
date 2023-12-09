@@ -83846,3 +83846,7 @@
 	url = https://github.com/conda-forge/pytorch-3dunet-feedstock.git
 	path = feedstocks/pytorch-3dunet
 	branch = refs/heads/main
+[submodule "data-wizard"]
+	url = https://github.com/conda-forge/data-wizard-feedstock.git
+	path = feedstocks/data-wizard
+	branch = refs/heads/main
