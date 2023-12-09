@@ -83818,3 +83818,7 @@
 	url = https://github.com/conda-forge/continuedev-feedstock.git
 	path = feedstocks/continuedev
 	branch = refs/heads/main
+[submodule "hdwallets"]
+	url = https://github.com/conda-forge/hdwallets-feedstock.git
+	path = feedstocks/hdwallets
+	branch = refs/heads/main
