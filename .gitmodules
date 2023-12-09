@@ -83826,3 +83826,7 @@
 	url = https://github.com/conda-forge/safe-pysha3-feedstock.git
 	path = feedstocks/safe-pysha3
 	branch = refs/heads/main
+[submodule "gguf"]
+	url = https://github.com/conda-forge/gguf-feedstock.git
+	path = feedstocks/gguf
+	branch = refs/heads/main
