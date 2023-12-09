@@ -83814,3 +83814,7 @@
 	url = https://github.com/conda-forge/napari-superres-feedstock.git
 	path = feedstocks/napari-superres
 	branch = refs/heads/main
+[submodule "continuedev"]
+	url = https://github.com/conda-forge/continuedev-feedstock.git
+	path = feedstocks/continuedev
+	branch = refs/heads/main
