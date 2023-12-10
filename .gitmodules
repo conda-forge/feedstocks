@@ -83866,3 +83866,7 @@
 	url = https://github.com/conda-forge/m2-binary-packages-feedstock.git
 	path = feedstocks/m2-binary-packages
 	branch = refs/heads/main
+[submodule "metgem"]
+	url = https://github.com/conda-forge/metgem-feedstock.git
+	path = feedstocks/metgem
+	branch = refs/heads/main
