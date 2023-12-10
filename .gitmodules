@@ -83870,3 +83870,7 @@
 	url = https://github.com/conda-forge/metgem-feedstock.git
 	path = feedstocks/metgem
 	branch = refs/heads/main
+[submodule "sardana-alba"]
+	url = https://github.com/conda-forge/sardana-alba-feedstock.git
+	path = feedstocks/sardana-alba
+	branch = refs/heads/main
