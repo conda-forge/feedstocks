@@ -83874,3 +83874,7 @@
 	url = https://github.com/conda-forge/sardana-alba-feedstock.git
 	path = feedstocks/sardana-alba
 	branch = refs/heads/main
+[submodule "sardana-adlink"]
+	url = https://github.com/conda-forge/sardana-adlink-feedstock.git
+	path = feedstocks/sardana-adlink
+	branch = refs/heads/main
