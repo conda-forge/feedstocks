@@ -83910,3 +83910,7 @@
 	url = https://github.com/conda-forge/ebg-feedstock.git
 	path = feedstocks/ebg
 	branch = refs/heads/main
+[submodule "kerrgeopy"]
+	url = https://github.com/conda-forge/kerrgeopy-feedstock.git
+	path = feedstocks/kerrgeopy
+	branch = refs/heads/main
