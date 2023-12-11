@@ -83906,3 +83906,7 @@
 	url = https://github.com/conda-forge/acgc-feedstock.git
 	path = feedstocks/acgc
 	branch = refs/heads/main
+[submodule "ebg"]
+	url = https://github.com/conda-forge/ebg-feedstock.git
+	path = feedstocks/ebg
+	branch = refs/heads/main
