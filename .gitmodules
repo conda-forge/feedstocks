@@ -83894,3 +83894,7 @@
 	url = https://github.com/conda-forge/actions-toolkit-feedstock.git
 	path = feedstocks/actions-toolkit
 	branch = refs/heads/main
+[submodule "pycocoevalcap"]
+	url = https://github.com/conda-forge/pycocoevalcap-feedstock.git
+	path = feedstocks/pycocoevalcap
+	branch = refs/heads/main
