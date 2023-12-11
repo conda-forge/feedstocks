@@ -83914,3 +83914,7 @@
 	url = https://github.com/conda-forge/kerrgeopy-feedstock.git
 	path = feedstocks/kerrgeopy
 	branch = refs/heads/main
+[submodule "gdpx"]
+	url = https://github.com/conda-forge/gdpx-feedstock.git
+	path = feedstocks/gdpx
+	branch = refs/heads/main
