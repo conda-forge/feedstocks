@@ -83890,3 +83890,7 @@
 	url = https://github.com/conda-forge/pycasreg-feedstock.git
 	path = feedstocks/pycasreg
 	branch = refs/heads/main
+[submodule "actions-toolkit"]
+	url = https://github.com/conda-forge/actions-toolkit-feedstock.git
+	path = feedstocks/actions-toolkit
+	branch = refs/heads/main
