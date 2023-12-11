@@ -83902,3 +83902,7 @@
 	url = https://github.com/conda-forge/pyecospold-feedstock.git
 	path = feedstocks/pyecospold
 	branch = refs/heads/main
+[submodule "acgc"]
+	url = https://github.com/conda-forge/acgc-feedstock.git
+	path = feedstocks/acgc
+	branch = refs/heads/main
