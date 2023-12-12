@@ -83922,3 +83922,7 @@
 	url = https://github.com/conda-forge/spheroidal-feedstock.git
 	path = feedstocks/spheroidal
 	branch = refs/heads/main
+[submodule "pycycle"]
+	url = https://github.com/conda-forge/pycycle-feedstock.git
+	path = feedstocks/pycycle
+	branch = refs/heads/main
