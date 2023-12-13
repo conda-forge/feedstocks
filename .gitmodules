@@ -83942,3 +83942,7 @@
 	url = https://github.com/conda-forge/optimas-feedstock.git
 	path = feedstocks/optimas
 	branch = refs/heads/main
+[submodule "wannier90io"]
+	url = https://github.com/conda-forge/wannier90io-feedstock.git
+	path = feedstocks/wannier90io
+	branch = refs/heads/main
