@@ -83962,3 +83962,7 @@
 	url = https://github.com/conda-forge/cdsodatacli-feedstock.git
 	path = feedstocks/cdsodatacli
 	branch = refs/heads/main
+[submodule "langchain-core"]
+	url = https://github.com/conda-forge/langchain-core-feedstock.git
+	path = feedstocks/langchain-core
+	branch = refs/heads/main
