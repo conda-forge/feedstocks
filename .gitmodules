@@ -83934,3 +83934,7 @@
 	url = https://github.com/conda-forge/full-fred-feedstock.git
 	path = feedstocks/full-fred
 	branch = refs/heads/main
+[submodule "mesa-viz-tornado"]
+	url = https://github.com/conda-forge/mesa-viz-tornado-feedstock.git
+	path = feedstocks/mesa-viz-tornado
+	branch = refs/heads/main
