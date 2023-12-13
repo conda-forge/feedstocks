@@ -83958,3 +83958,7 @@
 	url = https://github.com/conda-forge/axiprop-feedstock.git
 	path = feedstocks/axiprop
 	branch = refs/heads/main
+[submodule "cdsodatacli"]
+	url = https://github.com/conda-forge/cdsodatacli-feedstock.git
+	path = feedstocks/cdsodatacli
+	branch = refs/heads/main
