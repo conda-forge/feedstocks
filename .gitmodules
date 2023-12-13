@@ -83926,3 +83926,7 @@
 	url = https://github.com/conda-forge/pycycle-feedstock.git
 	path = feedstocks/pycycle
 	branch = refs/heads/main
+[submodule "deco"]
+	url = https://github.com/conda-forge/deco-feedstock.git
+	path = feedstocks/deco
+	branch = refs/heads/main
