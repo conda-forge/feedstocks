@@ -83946,3 +83946,7 @@
 	url = https://github.com/conda-forge/wannier90io-feedstock.git
 	path = feedstocks/wannier90io
 	branch = refs/heads/main
+[submodule "kanaries-track"]
+	url = https://github.com/conda-forge/kanaries-track-feedstock.git
+	path = feedstocks/kanaries-track
+	branch = refs/heads/main
