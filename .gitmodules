@@ -83930,3 +83930,7 @@
 	url = https://github.com/conda-forge/deco-feedstock.git
 	path = feedstocks/deco
 	branch = refs/heads/main
+[submodule "full-fred"]
+	url = https://github.com/conda-forge/full-fred-feedstock.git
+	path = feedstocks/full-fred
+	branch = refs/heads/main
