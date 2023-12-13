@@ -83950,3 +83950,7 @@
 	url = https://github.com/conda-forge/kanaries-track-feedstock.git
 	path = feedstocks/kanaries-track
 	branch = refs/heads/main
+[submodule "fbpic"]
+	url = https://github.com/conda-forge/fbpic-feedstock.git
+	path = feedstocks/fbpic
+	branch = refs/heads/main
