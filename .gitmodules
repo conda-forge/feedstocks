@@ -83978,3 +83978,7 @@
 	url = https://github.com/conda-forge/jupysql-plugin-feedstock.git
 	path = feedstocks/jupysql-plugin
 	branch = refs/heads/main
+[submodule "tqdm-multiprocess"]
+	url = https://github.com/conda-forge/tqdm-multiprocess-feedstock.git
+	path = feedstocks/tqdm-multiprocess
+	branch = refs/heads/main
