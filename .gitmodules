@@ -83970,3 +83970,7 @@
 	url = https://github.com/conda-forge/r-baseset-feedstock.git
 	path = feedstocks/r-baseset
 	branch = refs/heads/main
+[submodule "dep-logic"]
+	url = https://github.com/conda-forge/dep-logic-feedstock.git
+	path = feedstocks/dep-logic
+	branch = refs/heads/main
