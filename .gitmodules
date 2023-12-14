@@ -83974,3 +83974,7 @@
 	url = https://github.com/conda-forge/dep-logic-feedstock.git
 	path = feedstocks/dep-logic
 	branch = refs/heads/main
+[submodule "jupysql-plugin"]
+	url = https://github.com/conda-forge/jupysql-plugin-feedstock.git
+	path = feedstocks/jupysql-plugin
+	branch = refs/heads/main
