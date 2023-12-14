@@ -83966,3 +83966,7 @@
 	url = https://github.com/conda-forge/langchain-core-feedstock.git
 	path = feedstocks/langchain-core
 	branch = refs/heads/main
+[submodule "r-baseset"]
+	url = https://github.com/conda-forge/r-baseset-feedstock.git
+	path = feedstocks/r-baseset
+	branch = refs/heads/main
