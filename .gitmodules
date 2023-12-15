@@ -84006,3 +84006,7 @@
 	url = https://github.com/conda-forge/nrel-rex-feedstock.git
 	path = feedstocks/nrel-rex
 	branch = refs/heads/main
+[submodule "jupyterlab-pioneer"]
+	url = https://github.com/conda-forge/jupyterlab-pioneer-feedstock.git
+	path = feedstocks/jupyterlab-pioneer
+	branch = refs/heads/main
