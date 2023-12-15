@@ -83982,3 +83982,7 @@
 	url = https://github.com/conda-forge/tqdm-multiprocess-feedstock.git
 	path = feedstocks/tqdm-multiprocess
 	branch = refs/heads/main
+[submodule "lasy"]
+	url = https://github.com/conda-forge/lasy-feedstock.git
+	path = feedstocks/lasy
+	branch = refs/heads/main
