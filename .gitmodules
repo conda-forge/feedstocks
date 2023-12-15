@@ -84002,3 +84002,7 @@
 	url = https://github.com/conda-forge/lm_eval-feedstock.git
 	path = feedstocks/lm_eval
 	branch = refs/heads/main
+[submodule "nrel-rex"]
+	url = https://github.com/conda-forge/nrel-rex-feedstock.git
+	path = feedstocks/nrel-rex
+	branch = refs/heads/main
