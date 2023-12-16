@@ -84026,3 +84026,7 @@
 	url = https://github.com/conda-forge/citric-feedstock.git
 	path = feedstocks/citric
 	branch = refs/heads/main
+[submodule "duckdb-split"]
+	url = https://github.com/conda-forge/duckdb-split-feedstock.git
+	path = feedstocks/duckdb-split
+	branch = refs/heads/main
