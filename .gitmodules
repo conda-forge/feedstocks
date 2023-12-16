@@ -84038,3 +84038,7 @@
 	url = https://github.com/conda-forge/runstats-feedstock.git
 	path = feedstocks/runstats
 	branch = refs/heads/main
+[submodule "r-osd"]
+	url = https://github.com/conda-forge/r-osd-feedstock.git
+	path = feedstocks/r-osd
+	branch = refs/heads/main
