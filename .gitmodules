@@ -84022,3 +84022,7 @@
 	url = https://github.com/conda-forge/apache-flink-libraries-feedstock.git
 	path = feedstocks/apache-flink-libraries
 	branch = refs/heads/main
+[submodule "citric"]
+	url = https://github.com/conda-forge/citric-feedstock.git
+	path = feedstocks/citric
+	branch = refs/heads/main
