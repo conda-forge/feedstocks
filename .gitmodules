@@ -84034,3 +84034,7 @@
 	url = https://github.com/conda-forge/cocopye-feedstock.git
 	path = feedstocks/cocopye
 	branch = refs/heads/main
+[submodule "runstats"]
+	url = https://github.com/conda-forge/runstats-feedstock.git
+	path = feedstocks/runstats
+	branch = refs/heads/main
