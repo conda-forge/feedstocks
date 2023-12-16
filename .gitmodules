@@ -84018,3 +84018,7 @@
 	url = https://github.com/conda-forge/pemja-feedstock.git
 	path = feedstocks/pemja
 	branch = refs/heads/main
+[submodule "apache-flink-libraries"]
+	url = https://github.com/conda-forge/apache-flink-libraries-feedstock.git
+	path = feedstocks/apache-flink-libraries
+	branch = refs/heads/main
