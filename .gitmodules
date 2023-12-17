@@ -84046,3 +84046,7 @@
 	url = https://github.com/conda-forge/demumble-feedstock.git
 	path = feedstocks/demumble
 	branch = refs/heads/main
+[submodule "django-sesame"]
+	url = https://github.com/conda-forge/django-sesame-feedstock.git
+	path = feedstocks/django-sesame
+	branch = refs/heads/main
