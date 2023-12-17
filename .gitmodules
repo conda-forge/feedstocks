@@ -84078,3 +84078,7 @@
 	url = https://github.com/conda-forge/neuromorphic-drivers-feedstock.git
 	path = feedstocks/neuromorphic-drivers
 	branch = refs/heads/main
+[submodule "openmm-nonbonded-slicing"]
+	url = https://github.com/conda-forge/openmm-nonbonded-slicing-feedstock.git
+	path = feedstocks/openmm-nonbonded-slicing
+	branch = refs/heads/main
