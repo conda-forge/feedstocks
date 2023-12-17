@@ -84062,3 +84062,7 @@
 	url = https://github.com/conda-forge/gds-monitor-apps-feedstock.git
 	path = feedstocks/gds-monitor-apps
 	branch = refs/heads/main
+[submodule "aptools"]
+	url = https://github.com/conda-forge/aptools-feedstock.git
+	path = feedstocks/aptools
+	branch = refs/heads/main
