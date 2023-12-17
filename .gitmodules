@@ -84058,3 +84058,7 @@
 	url = https://github.com/conda-forge/gds-dmt-feedstock.git
 	path = feedstocks/gds-dmt
 	branch = refs/heads/main
+[submodule "gds-monitor-apps"]
+	url = https://github.com/conda-forge/gds-monitor-apps-feedstock.git
+	path = feedstocks/gds-monitor-apps
+	branch = refs/heads/main
