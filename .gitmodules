@@ -84050,3 +84050,7 @@
 	url = https://github.com/conda-forge/django-sesame-feedstock.git
 	path = feedstocks/django-sesame
 	branch = refs/heads/main
+[submodule "django-codemirror6"]
+	url = https://github.com/conda-forge/django-codemirror6-feedstock.git
+	path = feedstocks/django-codemirror6
+	branch = refs/heads/main
