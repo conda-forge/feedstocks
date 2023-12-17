@@ -84066,3 +84066,7 @@
 	url = https://github.com/conda-forge/aptools-feedstock.git
 	path = feedstocks/aptools
 	branch = refs/heads/main
+[submodule "veerer"]
+	url = https://github.com/conda-forge/veerer-feedstock.git
+	path = feedstocks/veerer
+	branch = refs/heads/main
