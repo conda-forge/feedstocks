@@ -84074,3 +84074,7 @@
 	url = https://github.com/conda-forge/openvino-tokenizers-feedstock.git
 	path = feedstocks/openvino-tokenizers
 	branch = refs/heads/main
+[submodule "neuromorphic-drivers"]
+	url = https://github.com/conda-forge/neuromorphic-drivers-feedstock.git
+	path = feedstocks/neuromorphic-drivers
+	branch = refs/heads/main
