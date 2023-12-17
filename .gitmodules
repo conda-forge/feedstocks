@@ -84082,3 +84082,7 @@
 	url = https://github.com/conda-forge/openmm-nonbonded-slicing-feedstock.git
 	path = feedstocks/openmm-nonbonded-slicing
 	branch = refs/heads/main
+[submodule "cpprate"]
+	url = https://github.com/conda-forge/cpprate-feedstock.git
+	path = feedstocks/cpprate
+	branch = refs/heads/main
