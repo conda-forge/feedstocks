@@ -84054,3 +84054,7 @@
 	url = https://github.com/conda-forge/django-codemirror6-feedstock.git
 	path = feedstocks/django-codemirror6
 	branch = refs/heads/main
+[submodule "gds-dmt"]
+	url = https://github.com/conda-forge/gds-dmt-feedstock.git
+	path = feedstocks/gds-dmt
+	branch = refs/heads/main
