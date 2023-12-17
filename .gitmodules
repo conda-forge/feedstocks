@@ -84094,3 +84094,7 @@
 	url = https://github.com/conda-forge/symbolite-feedstock.git
 	path = feedstocks/symbolite
 	branch = refs/heads/main
+[submodule "haystack-bm25"]
+	url = https://github.com/conda-forge/haystack-bm25-feedstock.git
+	path = feedstocks/haystack-bm25
+	branch = refs/heads/main
