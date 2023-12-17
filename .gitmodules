@@ -84086,3 +84086,7 @@
 	url = https://github.com/conda-forge/cpprate-feedstock.git
 	path = feedstocks/cpprate
 	branch = refs/heads/main
+[submodule "jimtcl"]
+	url = https://github.com/conda-forge/jimtcl-feedstock.git
+	path = feedstocks/jimtcl
+	branch = refs/heads/main
