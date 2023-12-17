@@ -84070,3 +84070,7 @@
 	url = https://github.com/conda-forge/veerer-feedstock.git
 	path = feedstocks/veerer
 	branch = refs/heads/main
+[submodule "openvino-tokenizers"]
+	url = https://github.com/conda-forge/openvino-tokenizers-feedstock.git
+	path = feedstocks/openvino-tokenizers
+	branch = refs/heads/main
