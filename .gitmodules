@@ -84102,3 +84102,7 @@
 	url = https://github.com/conda-forge/h2o-wave-feedstock.git
 	path = feedstocks/h2o-wave
 	branch = refs/heads/main
+[submodule "matgl"]
+	url = https://github.com/conda-forge/matgl-feedstock.git
+	path = feedstocks/matgl
+	branch = refs/heads/main
