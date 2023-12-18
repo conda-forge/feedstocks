@@ -84134,3 +84134,7 @@
 	url = https://github.com/conda-forge/resp-feedstock.git
 	path = feedstocks/resp
 	branch = refs/heads/main
+[submodule "r-bvar"]
+	url = https://github.com/conda-forge/r-bvar-feedstock.git
+	path = feedstocks/r-bvar
+	branch = refs/heads/main
