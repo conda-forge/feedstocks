@@ -84106,3 +84106,7 @@
 	url = https://github.com/conda-forge/matgl-feedstock.git
 	path = feedstocks/matgl
 	branch = refs/heads/main
+[submodule "polars-upgrade"]
+	url = https://github.com/conda-forge/polars-upgrade-feedstock.git
+	path = feedstocks/polars-upgrade
+	branch = refs/heads/main
