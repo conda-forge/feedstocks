@@ -84098,3 +84098,7 @@
 	url = https://github.com/conda-forge/haystack-bm25-feedstock.git
 	path = feedstocks/haystack-bm25
 	branch = refs/heads/main
+[submodule "h2o-wave"]
+	url = https://github.com/conda-forge/h2o-wave-feedstock.git
+	path = feedstocks/h2o-wave
+	branch = refs/heads/main
