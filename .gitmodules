@@ -84150,3 +84150,7 @@
 	url = https://github.com/conda-forge/rill-feedstock.git
 	path = feedstocks/rill
 	branch = refs/heads/main
+[submodule "cyclopts"]
+	url = https://github.com/conda-forge/cyclopts-feedstock.git
+	path = feedstocks/cyclopts
+	branch = refs/heads/main
