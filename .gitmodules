@@ -84130,3 +84130,7 @@
 	url = https://github.com/conda-forge/r-tsdyn-feedstock.git
 	path = feedstocks/r-tsdyn
 	branch = refs/heads/main
+[submodule "resp"]
+	url = https://github.com/conda-forge/resp-feedstock.git
+	path = feedstocks/resp
+	branch = refs/heads/main
