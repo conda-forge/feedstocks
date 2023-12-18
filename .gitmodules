@@ -84118,3 +84118,7 @@
 	url = https://github.com/conda-forge/mkdocs-git-authors-plugin-feedstock.git
 	path = feedstocks/mkdocs-git-authors-plugin
 	branch = refs/heads/main
+[submodule "mlx"]
+	url = https://github.com/conda-forge/mlx-feedstock.git
+	path = feedstocks/mlx
+	branch = refs/heads/main
