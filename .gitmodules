@@ -84126,3 +84126,7 @@
 	url = https://github.com/conda-forge/uhttp-feedstock.git
 	path = feedstocks/uhttp
 	branch = refs/heads/main
+[submodule "r-tsdyn"]
+	url = https://github.com/conda-forge/r-tsdyn-feedstock.git
+	path = feedstocks/r-tsdyn
+	branch = refs/heads/main
