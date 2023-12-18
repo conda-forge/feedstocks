@@ -84138,3 +84138,7 @@
 	url = https://github.com/conda-forge/r-bvar-feedstock.git
 	path = feedstocks/r-bvar
 	branch = refs/heads/main
+[submodule "espsim"]
+	url = https://github.com/conda-forge/espsim-feedstock.git
+	path = feedstocks/espsim
+	branch = refs/heads/main
