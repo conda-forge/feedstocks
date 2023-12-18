@@ -84114,3 +84114,7 @@
 	url = https://github.com/conda-forge/mkdocs-git-committers-plugin-2-feedstock.git
 	path = feedstocks/mkdocs-git-committers-plugin-2
 	branch = refs/heads/main
+[submodule "mkdocs-git-authors-plugin"]
+	url = https://github.com/conda-forge/mkdocs-git-authors-plugin-feedstock.git
+	path = feedstocks/mkdocs-git-authors-plugin
+	branch = refs/heads/main
