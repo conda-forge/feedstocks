@@ -84122,3 +84122,7 @@
 	url = https://github.com/conda-forge/mlx-feedstock.git
 	path = feedstocks/mlx
 	branch = refs/heads/main
+[submodule "uhttp"]
+	url = https://github.com/conda-forge/uhttp-feedstock.git
+	path = feedstocks/uhttp
+	branch = refs/heads/main
