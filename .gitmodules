@@ -84146,3 +84146,7 @@
 	url = https://github.com/conda-forge/ecoinvent_interface-feedstock.git
 	path = feedstocks/ecoinvent_interface
 	branch = refs/heads/main
+[submodule "rill"]
+	url = https://github.com/conda-forge/rill-feedstock.git
+	path = feedstocks/rill
+	branch = refs/heads/main
