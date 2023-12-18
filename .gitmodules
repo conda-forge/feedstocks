@@ -84154,3 +84154,7 @@
 	url = https://github.com/conda-forge/cyclopts-feedstock.git
 	path = feedstocks/cyclopts
 	branch = refs/heads/main
+[submodule "arrest"]
+	url = https://github.com/conda-forge/arrest-feedstock.git
+	path = feedstocks/arrest
+	branch = refs/heads/main
