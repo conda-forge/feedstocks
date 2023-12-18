@@ -84142,3 +84142,7 @@
 	url = https://github.com/conda-forge/espsim-feedstock.git
 	path = feedstocks/espsim
 	branch = refs/heads/main
+[submodule "ecoinvent_interface"]
+	url = https://github.com/conda-forge/ecoinvent_interface-feedstock.git
+	path = feedstocks/ecoinvent_interface
+	branch = refs/heads/main
