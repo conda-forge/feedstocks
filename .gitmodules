@@ -84186,3 +84186,7 @@
 	url = https://github.com/conda-forge/rootpath-feedstock.git
 	path = feedstocks/rootpath
 	branch = refs/heads/main
+[submodule "json-logging"]
+	url = https://github.com/conda-forge/json-logging-feedstock.git
+	path = feedstocks/json-logging
+	branch = refs/heads/main
