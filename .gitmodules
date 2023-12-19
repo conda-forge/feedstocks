@@ -84166,3 +84166,7 @@
 	url = https://github.com/conda-forge/r-prais-feedstock.git
 	path = feedstocks/r-prais
 	branch = refs/heads/main
+[submodule "r-pcse"]
+	url = https://github.com/conda-forge/r-pcse-feedstock.git
+	path = feedstocks/r-pcse
+	branch = refs/heads/main
