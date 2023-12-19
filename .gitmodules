@@ -84178,3 +84178,7 @@
 	url = https://github.com/conda-forge/pygnssutils-feedstock.git
 	path = feedstocks/pygnssutils
 	branch = refs/heads/main
+[submodule "kanban-python"]
+	url = https://github.com/conda-forge/kanban-python-feedstock.git
+	path = feedstocks/kanban-python
+	branch = refs/heads/main
