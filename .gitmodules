@@ -84190,3 +84190,7 @@
 	url = https://github.com/conda-forge/json-logging-feedstock.git
 	path = feedstocks/json-logging
 	branch = refs/heads/main
+[submodule "sysrsync"]
+	url = https://github.com/conda-forge/sysrsync-feedstock.git
+	path = feedstocks/sysrsync
+	branch = refs/heads/main
