@@ -84174,3 +84174,7 @@
 	url = https://github.com/conda-forge/nir-feedstock.git
 	path = feedstocks/nir
 	branch = refs/heads/main
+[submodule "pygnssutils"]
+	url = https://github.com/conda-forge/pygnssutils-feedstock.git
+	path = feedstocks/pygnssutils
+	branch = refs/heads/main
