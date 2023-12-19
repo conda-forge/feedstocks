@@ -84170,3 +84170,7 @@
 	url = https://github.com/conda-forge/r-pcse-feedstock.git
 	path = feedstocks/r-pcse
 	branch = refs/heads/main
+[submodule "nir"]
+	url = https://github.com/conda-forge/nir-feedstock.git
+	path = feedstocks/nir
+	branch = refs/heads/main
