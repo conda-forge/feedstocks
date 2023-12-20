@@ -84194,3 +84194,7 @@
 	url = https://github.com/conda-forge/sysrsync-feedstock.git
 	path = feedstocks/sysrsync
 	branch = refs/heads/main
+[submodule "google-cloud-cpp-core"]
+	url = https://github.com/conda-forge/google-cloud-cpp-core-feedstock.git
+	path = feedstocks/google-cloud-cpp-core
+	branch = refs/heads/main
