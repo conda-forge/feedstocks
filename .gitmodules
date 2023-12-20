@@ -84214,3 +84214,7 @@
 	url = https://github.com/conda-forge/scico-feedstock.git
 	path = feedstocks/scico
 	branch = refs/heads/main
+[submodule "wake-t"]
+	url = https://github.com/conda-forge/wake-t-feedstock.git
+	path = feedstocks/wake-t
+	branch = refs/heads/main
