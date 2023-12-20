@@ -84198,3 +84198,7 @@
 	url = https://github.com/conda-forge/google-cloud-cpp-core-feedstock.git
 	path = feedstocks/google-cloud-cpp-core
 	branch = refs/heads/main
+[submodule "dfvue"]
+	url = https://github.com/conda-forge/dfvue-feedstock.git
+	path = feedstocks/dfvue
+	branch = refs/heads/main
