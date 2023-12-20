@@ -84210,3 +84210,7 @@
 	url = https://github.com/conda-forge/wapordl-feedstock.git
 	path = feedstocks/wapordl
 	branch = refs/heads/main
+[submodule "scico"]
+	url = https://github.com/conda-forge/scico-feedstock.git
+	path = feedstocks/scico
+	branch = refs/heads/main
