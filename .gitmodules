@@ -84202,3 +84202,7 @@
 	url = https://github.com/conda-forge/dfvue-feedstock.git
 	path = feedstocks/dfvue
 	branch = refs/heads/main
+[submodule "asyncclick"]
+	url = https://github.com/conda-forge/asyncclick-feedstock.git
+	path = feedstocks/asyncclick
+	branch = refs/heads/main
