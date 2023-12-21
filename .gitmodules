@@ -84230,3 +84230,7 @@
 	url = https://github.com/conda-forge/neutralnemo-feedstock.git
 	path = feedstocks/neutralnemo
 	branch = refs/heads/main
+[submodule "metget"]
+	url = https://github.com/conda-forge/metget-feedstock.git
+	path = feedstocks/metget
+	branch = refs/heads/main
