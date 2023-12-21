@@ -84234,3 +84234,7 @@
 	url = https://github.com/conda-forge/metget-feedstock.git
 	path = feedstocks/metget
 	branch = refs/heads/main
+[submodule "python-ghostscript"]
+	url = https://github.com/conda-forge/python-ghostscript-feedstock.git
+	path = feedstocks/python-ghostscript
+	branch = refs/heads/main
