@@ -84238,3 +84238,7 @@
 	url = https://github.com/conda-forge/python-ghostscript-feedstock.git
 	path = feedstocks/python-ghostscript
 	branch = refs/heads/main
+[submodule "r-stringmagic"]
+	url = https://github.com/conda-forge/r-stringmagic-feedstock.git
+	path = feedstocks/r-stringmagic
+	branch = refs/heads/main
