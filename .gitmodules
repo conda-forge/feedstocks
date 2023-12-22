@@ -84246,3 +84246,7 @@
 	url = https://github.com/conda-forge/r-climate4r-feedstock.git
 	path = feedstocks/r-climate4r
 	branch = refs/heads/main
+[submodule "findblas"]
+	url = https://github.com/conda-forge/findblas-feedstock.git
+	path = feedstocks/findblas
+	branch = refs/heads/main
