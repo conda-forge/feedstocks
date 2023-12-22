@@ -84254,3 +84254,7 @@
 	url = https://github.com/conda-forge/pywapor-feedstock.git
 	path = feedstocks/pywapor
 	branch = refs/heads/main
+[submodule "quantile-python"]
+	url = https://github.com/conda-forge/quantile-python-feedstock.git
+	path = feedstocks/quantile-python
+	branch = refs/heads/main
