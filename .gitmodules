@@ -84250,3 +84250,7 @@
 	url = https://github.com/conda-forge/findblas-feedstock.git
 	path = feedstocks/findblas
 	branch = refs/heads/main
+[submodule "pywapor"]
+	url = https://github.com/conda-forge/pywapor-feedstock.git
+	path = feedstocks/pywapor
+	branch = refs/heads/main
