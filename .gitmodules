@@ -84258,3 +84258,7 @@
 	url = https://github.com/conda-forge/quantile-python-feedstock.git
 	path = feedstocks/quantile-python
 	branch = refs/heads/main
+[submodule "inspecta"]
+	url = https://github.com/conda-forge/inspecta-feedstock.git
+	path = feedstocks/inspecta
+	branch = refs/heads/main
