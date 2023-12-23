@@ -84262,3 +84262,7 @@
 	url = https://github.com/conda-forge/inspecta-feedstock.git
 	path = feedstocks/inspecta
 	branch = refs/heads/main
+[submodule "mkdocs-video"]
+	url = https://github.com/conda-forge/mkdocs-video-feedstock.git
+	path = feedstocks/mkdocs-video
+	branch = refs/heads/main
