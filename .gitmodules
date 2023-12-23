@@ -84278,3 +84278,7 @@
 	url = https://github.com/conda-forge/apache-flink-feedstock.git
 	path = feedstocks/apache-flink
 	branch = refs/heads/main
+[submodule "bpack"]
+	url = https://github.com/conda-forge/bpack-feedstock.git
+	path = feedstocks/bpack
+	branch = refs/heads/main
