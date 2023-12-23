@@ -84270,3 +84270,7 @@
 	url = https://github.com/conda-forge/asfsmd-feedstock.git
 	path = feedstocks/asfsmd
 	branch = refs/heads/main
+[submodule "bmf"]
+	url = https://github.com/conda-forge/bmf-feedstock.git
+	path = feedstocks/bmf
+	branch = refs/heads/main
