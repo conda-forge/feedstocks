@@ -84290,3 +84290,7 @@
 	url = https://github.com/conda-forge/outlines-feedstock.git
 	path = feedstocks/outlines
 	branch = refs/heads/main
+[submodule "perscache"]
+	url = https://github.com/conda-forge/perscache-feedstock.git
+	path = feedstocks/perscache
+	branch = refs/heads/main
