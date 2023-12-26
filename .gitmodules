@@ -84298,3 +84298,7 @@
 	url = https://github.com/conda-forge/i18nice-feedstock.git
 	path = feedstocks/i18nice
 	branch = refs/heads/main
+[submodule "r-safetensors"]
+	url = https://github.com/conda-forge/r-safetensors-feedstock.git
+	path = feedstocks/r-safetensors
+	branch = refs/heads/main
