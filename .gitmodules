@@ -84302,3 +84302,7 @@
 	url = https://github.com/conda-forge/r-safetensors-feedstock.git
 	path = feedstocks/r-safetensors
 	branch = refs/heads/main
+[submodule "repro-zipfile"]
+	url = https://github.com/conda-forge/repro-zipfile-feedstock.git
+	path = feedstocks/repro-zipfile
+	branch = refs/heads/main
