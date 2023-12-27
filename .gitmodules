@@ -84306,3 +84306,7 @@
 	url = https://github.com/conda-forge/repro-zipfile-feedstock.git
 	path = feedstocks/repro-zipfile
 	branch = refs/heads/main
+[submodule "hapsira"]
+	url = https://github.com/conda-forge/hapsira-feedstock.git
+	path = feedstocks/hapsira
+	branch = refs/heads/main
