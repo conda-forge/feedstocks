@@ -84310,3 +84310,7 @@
 	url = https://github.com/conda-forge/hapsira-feedstock.git
 	path = feedstocks/hapsira
 	branch = refs/heads/main
+[submodule "flite-tts"]
+	url = https://github.com/conda-forge/flite-tts-feedstock.git
+	path = feedstocks/flite-tts
+	branch = refs/heads/main
