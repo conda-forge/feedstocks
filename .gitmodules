@@ -84314,3 +84314,7 @@
 	url = https://github.com/conda-forge/flite-tts-feedstock.git
 	path = feedstocks/flite-tts
 	branch = refs/heads/main
+[submodule "systemc"]
+	url = https://github.com/conda-forge/systemc-feedstock.git
+	path = feedstocks/systemc
+	branch = refs/heads/main
