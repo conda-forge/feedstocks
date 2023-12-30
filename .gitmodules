@@ -84322,3 +84322,7 @@
 	url = https://github.com/conda-forge/nirtorch-feedstock.git
 	path = feedstocks/nirtorch
 	branch = refs/heads/main
+[submodule "vision-explanation-methods"]
+	url = https://github.com/conda-forge/vision-explanation-methods-feedstock.git
+	path = feedstocks/vision-explanation-methods
+	branch = refs/heads/main
