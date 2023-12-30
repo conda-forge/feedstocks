@@ -84326,3 +84326,7 @@
 	url = https://github.com/conda-forge/vision-explanation-methods-feedstock.git
 	path = feedstocks/vision-explanation-methods
 	branch = refs/heads/main
+[submodule "marimo"]
+	url = https://github.com/conda-forge/marimo-feedstock.git
+	path = feedstocks/marimo
+	branch = refs/heads/main
