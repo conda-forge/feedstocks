@@ -84330,3 +84330,7 @@
 	url = https://github.com/conda-forge/marimo-feedstock.git
 	path = feedstocks/marimo
 	branch = refs/heads/main
+[submodule "auto-dotenv"]
+	url = https://github.com/conda-forge/auto-dotenv-feedstock.git
+	path = feedstocks/auto-dotenv
+	branch = refs/heads/main
