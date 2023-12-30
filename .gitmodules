@@ -84318,3 +84318,7 @@
 	url = https://github.com/conda-forge/systemc-feedstock.git
 	path = feedstocks/systemc
 	branch = refs/heads/main
+[submodule "nirtorch"]
+	url = https://github.com/conda-forge/nirtorch-feedstock.git
+	path = feedstocks/nirtorch
+	branch = refs/heads/main
