@@ -84366,3 +84366,7 @@
 	url = https://github.com/conda-forge/responsibleai-text-feedstock.git
 	path = feedstocks/responsibleai-text
 	branch = refs/heads/main
+[submodule "django-pygwalker"]
+	url = https://github.com/conda-forge/django-pygwalker-feedstock.git
+	path = feedstocks/django-pygwalker
+	branch = refs/heads/main
