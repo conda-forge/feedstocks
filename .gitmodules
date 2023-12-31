@@ -84370,3 +84370,7 @@
 	url = https://github.com/conda-forge/django-pygwalker-feedstock.git
 	path = feedstocks/django-pygwalker
 	branch = refs/heads/main
+[submodule "types-appdirs"]
+	url = https://github.com/conda-forge/types-appdirs-feedstock.git
+	path = feedstocks/types-appdirs
+	branch = refs/heads/main
