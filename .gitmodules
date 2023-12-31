@@ -84334,3 +84334,7 @@
 	url = https://github.com/conda-forge/auto-dotenv-feedstock.git
 	path = feedstocks/auto-dotenv
 	branch = refs/heads/main
+[submodule "tabpy"]
+	url = https://github.com/conda-forge/tabpy-feedstock.git
+	path = feedstocks/tabpy
+	branch = refs/heads/main
