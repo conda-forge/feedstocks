@@ -84354,3 +84354,7 @@
 	url = https://github.com/conda-forge/gender-guesser-feedstock.git
 	path = feedstocks/gender-guesser
 	branch = refs/heads/main
+[submodule "negspacy"]
+	url = https://github.com/conda-forge/negspacy-feedstock.git
+	path = feedstocks/negspacy
+	branch = refs/heads/main
