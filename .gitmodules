@@ -84342,3 +84342,7 @@
 	url = https://github.com/conda-forge/nlp-feature-extractors-feedstock.git
 	path = feedstocks/nlp-feature-extractors
 	branch = refs/heads/main
+[submodule "django-handyhelpers"]
+	url = https://github.com/conda-forge/django-handyhelpers-feedstock.git
+	path = feedstocks/django-handyhelpers
+	branch = refs/heads/main
