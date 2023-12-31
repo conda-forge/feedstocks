@@ -84350,3 +84350,7 @@
 	url = https://github.com/conda-forge/pyinstaller-versionfile-feedstock.git
 	path = feedstocks/pyinstaller-versionfile
 	branch = refs/heads/main
+[submodule "gender-guesser"]
+	url = https://github.com/conda-forge/gender-guesser-feedstock.git
+	path = feedstocks/gender-guesser
+	branch = refs/heads/main
