@@ -84346,3 +84346,7 @@
 	url = https://github.com/conda-forge/django-handyhelpers-feedstock.git
 	path = feedstocks/django-handyhelpers
 	branch = refs/heads/main
+[submodule "pyinstaller-versionfile"]
+	url = https://github.com/conda-forge/pyinstaller-versionfile-feedstock.git
+	path = feedstocks/pyinstaller-versionfile
+	branch = refs/heads/main
