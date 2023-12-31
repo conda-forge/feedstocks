@@ -84338,3 +84338,7 @@
 	url = https://github.com/conda-forge/tabpy-feedstock.git
 	path = feedstocks/tabpy
 	branch = refs/heads/main
+[submodule "nlp-feature-extractors"]
+	url = https://github.com/conda-forge/nlp-feature-extractors-feedstock.git
+	path = feedstocks/nlp-feature-extractors
+	branch = refs/heads/main
