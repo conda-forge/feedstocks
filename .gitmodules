@@ -84390,3 +84390,7 @@
 	url = https://github.com/conda-forge/djangocms-frontend-feedstock.git
 	path = feedstocks/djangocms-frontend
 	branch = refs/heads/main
+[submodule "djangocms-attributes-field"]
+	url = https://github.com/conda-forge/djangocms-attributes-field-feedstock.git
+	path = feedstocks/djangocms-attributes-field
+	branch = refs/heads/main
