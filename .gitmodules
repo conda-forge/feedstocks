@@ -84394,3 +84394,7 @@
 	url = https://github.com/conda-forge/djangocms-attributes-field-feedstock.git
 	path = feedstocks/djangocms-attributes-field
 	branch = refs/heads/main
+[submodule "django-entangled"]
+	url = https://github.com/conda-forge/django-entangled-feedstock.git
+	path = feedstocks/django-entangled
+	branch = refs/heads/main
