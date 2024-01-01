@@ -84398,3 +84398,7 @@
 	url = https://github.com/conda-forge/django-entangled-feedstock.git
 	path = feedstocks/django-entangled
 	branch = refs/heads/main
+[submodule "h5io_browser"]
+	url = https://github.com/conda-forge/h5io_browser-feedstock.git
+	path = feedstocks/h5io_browser
+	branch = refs/heads/main
