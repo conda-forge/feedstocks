@@ -84382,3 +84382,7 @@
 	url = https://github.com/conda-forge/djangocms-style-feedstock.git
 	path = feedstocks/djangocms-style
 	branch = refs/heads/main
+[submodule "djangocms-picture"]
+	url = https://github.com/conda-forge/djangocms-picture-feedstock.git
+	path = feedstocks/djangocms-picture
+	branch = refs/heads/main
