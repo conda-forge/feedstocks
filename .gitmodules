@@ -84422,3 +84422,7 @@
 	url = https://github.com/conda-forge/planetmapper-feedstock.git
 	path = feedstocks/planetmapper
 	branch = refs/heads/main
+[submodule "pyibs"]
+	url = https://github.com/conda-forge/pyibs-feedstock.git
+	path = feedstocks/pyibs
+	branch = refs/heads/main
