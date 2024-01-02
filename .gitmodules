@@ -84434,3 +84434,7 @@
 	url = https://github.com/conda-forge/cache_decorator-feedstock.git
 	path = feedstocks/cache_decorator
 	branch = refs/heads/main
+[submodule "environments_utils"]
+	url = https://github.com/conda-forge/environments_utils-feedstock.git
+	path = feedstocks/environments_utils
+	branch = refs/heads/main
