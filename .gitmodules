@@ -84418,3 +84418,7 @@
 	url = https://github.com/conda-forge/dmff-feedstock.git
 	path = feedstocks/dmff
 	branch = refs/heads/main
+[submodule "planetmapper"]
+	url = https://github.com/conda-forge/planetmapper-feedstock.git
+	path = feedstocks/planetmapper
+	branch = refs/heads/main
