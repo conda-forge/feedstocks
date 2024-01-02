@@ -84406,3 +84406,7 @@
 	url = https://github.com/conda-forge/powergenome-feedstock.git
 	path = feedstocks/powergenome
 	branch = refs/heads/main
+[submodule "lpynn"]
+	url = https://github.com/conda-forge/lpynn-feedstock.git
+	path = feedstocks/lpynn
+	branch = refs/heads/main
