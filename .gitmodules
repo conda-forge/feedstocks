@@ -84438,3 +84438,7 @@
 	url = https://github.com/conda-forge/environments_utils-feedstock.git
 	path = feedstocks/environments_utils
 	branch = refs/heads/main
+[submodule "dict_hash"]
+	url = https://github.com/conda-forge/dict_hash-feedstock.git
+	path = feedstocks/dict_hash
+	branch = refs/heads/main
