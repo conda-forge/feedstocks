@@ -84478,3 +84478,7 @@
 	url = https://github.com/conda-forge/support_developer-feedstock.git
 	path = feedstocks/support_developer
 	branch = refs/heads/main
+[submodule "bioregistry"]
+	url = https://github.com/conda-forge/bioregistry-feedstock.git
+	path = feedstocks/bioregistry
+	branch = refs/heads/main
