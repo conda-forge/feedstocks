@@ -84446,3 +84446,7 @@
 	url = https://github.com/conda-forge/userinput-feedstock.git
 	path = feedstocks/userinput
 	branch = refs/heads/main
+[submodule "downloaders"]
+	url = https://github.com/conda-forge/downloaders-feedstock.git
+	path = feedstocks/downloaders
+	branch = refs/heads/main
