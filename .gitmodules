@@ -84430,3 +84430,7 @@
 	url = https://github.com/conda-forge/aggregate-feedstock.git
 	path = feedstocks/aggregate
 	branch = refs/heads/main
+[submodule "cache_decorator"]
+	url = https://github.com/conda-forge/cache_decorator-feedstock.git
+	path = feedstocks/cache_decorator
+	branch = refs/heads/main
