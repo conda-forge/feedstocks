@@ -84466,3 +84466,7 @@
 	url = https://github.com/conda-forge/deflate_dict-feedstock.git
 	path = feedstocks/deflate_dict
 	branch = refs/heads/main
+[submodule "compress_json"]
+	url = https://github.com/conda-forge/compress_json-feedstock.git
+	path = feedstocks/compress_json
+	branch = refs/heads/main
