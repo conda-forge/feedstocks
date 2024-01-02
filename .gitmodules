@@ -84502,3 +84502,7 @@
 	url = https://github.com/conda-forge/r-sensemakr-feedstock.git
 	path = feedstocks/r-sensemakr
 	branch = refs/heads/main
+[submodule "openapi-pydantic"]
+	url = https://github.com/conda-forge/openapi-pydantic-feedstock.git
+	path = feedstocks/openapi-pydantic
+	branch = refs/heads/main
