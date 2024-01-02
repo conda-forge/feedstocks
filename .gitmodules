@@ -84506,3 +84506,7 @@
 	url = https://github.com/conda-forge/openapi-pydantic-feedstock.git
 	path = feedstocks/openapi-pydantic
 	branch = refs/heads/main
+[submodule "ustrid"]
+	url = https://github.com/conda-forge/ustrid-feedstock.git
+	path = feedstocks/ustrid
+	branch = refs/heads/main
