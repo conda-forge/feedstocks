@@ -84454,3 +84454,7 @@
 	url = https://github.com/conda-forge/curies-feedstock.git
 	path = feedstocks/curies
 	branch = refs/heads/main
+[submodule "jaro-winkler"]
+	url = https://github.com/conda-forge/jaro-winkler-feedstock.git
+	path = feedstocks/jaro-winkler
+	branch = refs/heads/main
