@@ -84442,3 +84442,7 @@
 	url = https://github.com/conda-forge/dict_hash-feedstock.git
 	path = feedstocks/dict_hash
 	branch = refs/heads/main
+[submodule "userinput"]
+	url = https://github.com/conda-forge/userinput-feedstock.git
+	path = feedstocks/userinput
+	branch = refs/heads/main
