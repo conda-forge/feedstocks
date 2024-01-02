@@ -84474,3 +84474,7 @@
 	url = https://github.com/conda-forge/validate_version_code-feedstock.git
 	path = feedstocks/validate_version_code
 	branch = refs/heads/main
+[submodule "support_developer"]
+	url = https://github.com/conda-forge/support_developer-feedstock.git
+	path = feedstocks/support_developer
+	branch = refs/heads/main
