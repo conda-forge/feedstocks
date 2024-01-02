@@ -84410,3 +84410,7 @@
 	url = https://github.com/conda-forge/lpynn-feedstock.git
 	path = feedstocks/lpynn
 	branch = refs/heads/main
+[submodule "xsocs"]
+	url = https://github.com/conda-forge/xsocs-feedstock.git
+	path = feedstocks/xsocs
+	branch = refs/heads/main
