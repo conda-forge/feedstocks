@@ -84490,3 +84490,7 @@
 	url = https://github.com/conda-forge/inform-feedstock.git
 	path = feedstocks/inform
 	branch = refs/heads/main
+[submodule "r-smd"]
+	url = https://github.com/conda-forge/r-smd-feedstock.git
+	path = feedstocks/r-smd
+	branch = refs/heads/main
