@@ -84470,3 +84470,7 @@
 	url = https://github.com/conda-forge/compress_json-feedstock.git
 	path = feedstocks/compress_json
 	branch = refs/heads/main
+[submodule "validate_version_code"]
+	url = https://github.com/conda-forge/validate_version_code-feedstock.git
+	path = feedstocks/validate_version_code
+	branch = refs/heads/main
