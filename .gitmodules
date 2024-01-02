@@ -84426,3 +84426,7 @@
 	url = https://github.com/conda-forge/pyibs-feedstock.git
 	path = feedstocks/pyibs
 	branch = refs/heads/main
+[submodule "aggregate"]
+	url = https://github.com/conda-forge/aggregate-feedstock.git
+	path = feedstocks/aggregate
+	branch = refs/heads/main
