@@ -84414,3 +84414,7 @@
 	url = https://github.com/conda-forge/xsocs-feedstock.git
 	path = feedstocks/xsocs
 	branch = refs/heads/main
+[submodule "dmff"]
+	url = https://github.com/conda-forge/dmff-feedstock.git
+	path = feedstocks/dmff
+	branch = refs/heads/main
