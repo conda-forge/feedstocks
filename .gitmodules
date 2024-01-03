@@ -84526,3 +84526,7 @@
 	url = https://github.com/conda-forge/r-medflex-feedstock.git
 	path = feedstocks/r-medflex
 	branch = refs/heads/main
+[submodule "hpcflow"]
+	url = https://github.com/conda-forge/hpcflow-feedstock.git
+	path = feedstocks/hpcflow
+	branch = refs/heads/main
