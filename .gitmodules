@@ -84522,3 +84522,7 @@
 	url = https://github.com/conda-forge/r-svyvgam-feedstock.git
 	path = feedstocks/r-svyvgam
 	branch = refs/heads/main
+[submodule "r-medflex"]
+	url = https://github.com/conda-forge/r-medflex-feedstock.git
+	path = feedstocks/r-medflex
+	branch = refs/heads/main
