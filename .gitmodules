@@ -84530,3 +84530,7 @@
 	url = https://github.com/conda-forge/hpcflow-feedstock.git
 	path = feedstocks/hpcflow
 	branch = refs/heads/main
+[submodule "pyopenbt"]
+	url = https://github.com/conda-forge/pyopenbt-feedstock.git
+	path = feedstocks/pyopenbt
+	branch = refs/heads/main
