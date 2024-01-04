@@ -84542,3 +84542,7 @@
 	url = https://github.com/conda-forge/pygridmet-feedstock.git
 	path = feedstocks/pygridmet
 	branch = refs/heads/main
+[submodule "hooking"]
+	url = https://github.com/conda-forge/hooking-feedstock.git
+	path = feedstocks/hooking
+	branch = refs/heads/main
