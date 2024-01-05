@@ -84550,3 +84550,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-towncrier-feedstock.git
 	path = feedstocks/sphinxcontrib-towncrier
 	branch = refs/heads/main
+[submodule "pem"]
+	url = https://github.com/conda-forge/pem-feedstock.git
+	path = feedstocks/pem
+	branch = refs/heads/main
