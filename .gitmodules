@@ -84554,3 +84554,7 @@
 	url = https://github.com/conda-forge/pem-feedstock.git
 	path = feedstocks/pem
 	branch = refs/heads/main
+[submodule "concurrentbuffer"]
+	url = https://github.com/conda-forge/concurrentbuffer-feedstock.git
+	path = feedstocks/concurrentbuffer
+	branch = refs/heads/main
