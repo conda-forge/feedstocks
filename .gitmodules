@@ -84586,3 +84586,7 @@
 	url = https://github.com/conda-forge/viewstack-feedstock.git
 	path = feedstocks/viewstack
 	branch = refs/heads/main
+[submodule "boxsdk"]
+	url = https://github.com/conda-forge/boxsdk-feedstock.git
+	path = feedstocks/boxsdk
+	branch = refs/heads/main
