@@ -84602,3 +84602,7 @@
 	url = https://github.com/conda-forge/wholeslidedata-feedstock.git
 	path = feedstocks/wholeslidedata
 	branch = refs/heads/main
+[submodule "cyfi"]
+	url = https://github.com/conda-forge/cyfi-feedstock.git
+	path = feedstocks/cyfi
+	branch = refs/heads/main
