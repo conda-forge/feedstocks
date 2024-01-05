@@ -84598,3 +84598,7 @@
 	url = https://github.com/conda-forge/ximage-feedstock.git
 	path = feedstocks/ximage
 	branch = refs/heads/main
+[submodule "wholeslidedata"]
+	url = https://github.com/conda-forge/wholeslidedata-feedstock.git
+	path = feedstocks/wholeslidedata
+	branch = refs/heads/main
