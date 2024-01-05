@@ -84594,3 +84594,7 @@
 	url = https://github.com/conda-forge/ncdata-feedstock.git
 	path = feedstocks/ncdata
 	branch = refs/heads/main
+[submodule "ximage"]
+	url = https://github.com/conda-forge/ximage-feedstock.git
+	path = feedstocks/ximage
+	branch = refs/heads/main
