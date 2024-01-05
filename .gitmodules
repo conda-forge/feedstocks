@@ -84590,3 +84590,7 @@
 	url = https://github.com/conda-forge/boxsdk-feedstock.git
 	path = feedstocks/boxsdk
 	branch = refs/heads/main
+[submodule "ncdata"]
+	url = https://github.com/conda-forge/ncdata-feedstock.git
+	path = feedstocks/ncdata
+	branch = refs/heads/main
