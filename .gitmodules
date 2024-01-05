@@ -84546,3 +84546,7 @@
 	url = https://github.com/conda-forge/hooking-feedstock.git
 	path = feedstocks/hooking
 	branch = refs/heads/main
+[submodule "sphinxcontrib-towncrier"]
+	url = https://github.com/conda-forge/sphinxcontrib-towncrier-feedstock.git
+	path = feedstocks/sphinxcontrib-towncrier
+	branch = refs/heads/main
