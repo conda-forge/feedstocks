@@ -84566,3 +84566,7 @@
 	url = https://github.com/conda-forge/stackvana-meas_algorithms-feedstock.git
 	path = feedstocks/stackvana-meas_algorithms
 	branch = refs/heads/main
+[submodule "braq"]
+	url = https://github.com/conda-forge/braq-feedstock.git
+	path = feedstocks/braq
+	branch = refs/heads/main
