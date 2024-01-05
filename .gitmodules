@@ -84606,3 +84606,7 @@
 	url = https://github.com/conda-forge/cyfi-feedstock.git
 	path = feedstocks/cyfi
 	branch = refs/heads/main
+[submodule "mtenn"]
+	url = https://github.com/conda-forge/mtenn-feedstock.git
+	path = feedstocks/mtenn
+	branch = refs/heads/main
