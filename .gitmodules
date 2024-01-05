@@ -84570,3 +84570,7 @@
 	url = https://github.com/conda-forge/braq-feedstock.git
 	path = feedstocks/braq
 	branch = refs/heads/main
+[submodule "trx-python"]
+	url = https://github.com/conda-forge/trx-python-feedstock.git
+	path = feedstocks/trx-python
+	branch = refs/heads/main
