@@ -84610,3 +84610,7 @@
 	url = https://github.com/conda-forge/mtenn-feedstock.git
 	path = feedstocks/mtenn
 	branch = refs/heads/main
+[submodule "jhub-apps"]
+	url = https://github.com/conda-forge/jhub-apps-feedstock.git
+	path = feedstocks/jhub-apps
+	branch = refs/heads/main
