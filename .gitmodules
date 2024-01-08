@@ -84642,3 +84642,7 @@
 	url = https://github.com/conda-forge/fixit-feedstock.git
 	path = feedstocks/fixit
 	branch = refs/heads/main
+[submodule "codeval"]
+	url = https://github.com/conda-forge/codeval-feedstock.git
+	path = feedstocks/codeval
+	branch = refs/heads/main
