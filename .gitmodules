@@ -84714,3 +84714,7 @@
 	url = https://github.com/conda-forge/versiontag-feedstock.git
 	path = feedstocks/versiontag
 	branch = refs/heads/main
+[submodule "kagglehub"]
+	url = https://github.com/conda-forge/kagglehub-feedstock.git
+	path = feedstocks/kagglehub
+	branch = refs/heads/main
