@@ -84646,3 +84646,7 @@
 	url = https://github.com/conda-forge/codeval-feedstock.git
 	path = feedstocks/codeval
 	branch = refs/heads/main
+[submodule "marcel"]
+	url = https://github.com/conda-forge/marcel-feedstock.git
+	path = feedstocks/marcel
+	branch = refs/heads/main
