@@ -84634,3 +84634,7 @@
 	url = https://github.com/conda-forge/audio-separator-feedstock.git
 	path = feedstocks/audio-separator
 	branch = refs/heads/main
+[submodule "django-moderation"]
+	url = https://github.com/conda-forge/django-moderation-feedstock.git
+	path = feedstocks/django-moderation
+	branch = refs/heads/main
