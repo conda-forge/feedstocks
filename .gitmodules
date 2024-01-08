@@ -84638,3 +84638,7 @@
 	url = https://github.com/conda-forge/django-moderation-feedstock.git
 	path = feedstocks/django-moderation
 	branch = refs/heads/main
+[submodule "fixit"]
+	url = https://github.com/conda-forge/fixit-feedstock.git
+	path = feedstocks/fixit
+	branch = refs/heads/main
