@@ -84734,3 +84734,7 @@
 	url = https://github.com/conda-forge/trame-xterm-feedstock.git
 	path = feedstocks/trame-xterm
 	branch = refs/heads/main
+[submodule "django-nyt"]
+	url = https://github.com/conda-forge/django-nyt-feedstock.git
+	path = feedstocks/django-nyt
+	branch = refs/heads/main
