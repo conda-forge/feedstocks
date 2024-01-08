@@ -84630,3 +84630,7 @@
 	url = https://github.com/conda-forge/django-approval-feedstock.git
 	path = feedstocks/django-approval
 	branch = refs/heads/main
+[submodule "audio-separator"]
+	url = https://github.com/conda-forge/audio-separator-feedstock.git
+	path = feedstocks/audio-separator
+	branch = refs/heads/main
