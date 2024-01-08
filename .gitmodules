@@ -84678,3 +84678,7 @@
 	url = https://github.com/conda-forge/ahlive-feedstock.git
 	path = feedstocks/ahlive
 	branch = refs/heads/main
+[submodule "nbprint"]
+	url = https://github.com/conda-forge/nbprint-feedstock.git
+	path = feedstocks/nbprint
+	branch = refs/heads/main
