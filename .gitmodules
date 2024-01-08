@@ -84738,3 +84738,7 @@
 	url = https://github.com/conda-forge/django-nyt-feedstock.git
 	path = feedstocks/django-nyt
 	branch = refs/heads/main
+[submodule "honcho"]
+	url = https://github.com/conda-forge/honcho-feedstock.git
+	path = feedstocks/honcho
+	branch = refs/heads/main
