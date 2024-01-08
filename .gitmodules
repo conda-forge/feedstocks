@@ -84750,3 +84750,7 @@
 	url = https://github.com/conda-forge/paracelsus-feedstock.git
 	path = feedstocks/paracelsus
 	branch = refs/heads/main
+[submodule "pyecharts"]
+	url = https://github.com/conda-forge/pyecharts-feedstock.git
+	path = feedstocks/pyecharts
+	branch = refs/heads/main
