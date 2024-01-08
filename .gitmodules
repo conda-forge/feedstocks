@@ -84722,3 +84722,7 @@
 	url = https://github.com/conda-forge/trame-leaflet-feedstock.git
 	path = feedstocks/trame-leaflet
 	branch = refs/heads/main
+[submodule "trame-formkit"]
+	url = https://github.com/conda-forge/trame-formkit-feedstock.git
+	path = feedstocks/trame-formkit
+	branch = refs/heads/main
