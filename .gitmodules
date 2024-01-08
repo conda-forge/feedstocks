@@ -84710,3 +84710,7 @@
 	url = https://github.com/conda-forge/trame-iframe-feedstock.git
 	path = feedstocks/trame-iframe
 	branch = refs/heads/main
+[submodule "versiontag"]
+	url = https://github.com/conda-forge/versiontag-feedstock.git
+	path = feedstocks/versiontag
+	branch = refs/heads/main
