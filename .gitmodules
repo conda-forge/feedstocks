@@ -84726,3 +84726,7 @@
 	url = https://github.com/conda-forge/trame-formkit-feedstock.git
 	path = feedstocks/trame-formkit
 	branch = refs/heads/main
+[submodule "movis"]
+	url = https://github.com/conda-forge/movis-feedstock.git
+	path = feedstocks/movis
+	branch = refs/heads/main
