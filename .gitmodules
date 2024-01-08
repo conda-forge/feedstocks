@@ -84694,3 +84694,7 @@
 	url = https://github.com/conda-forge/trame-pvui-feedstock.git
 	path = feedstocks/trame-pvui
 	branch = refs/heads/main
+[submodule "trame-grid-layout"]
+	url = https://github.com/conda-forge/trame-grid-layout-feedstock.git
+	path = feedstocks/trame-grid-layout
+	branch = refs/heads/main
