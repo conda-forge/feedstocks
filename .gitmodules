@@ -84706,3 +84706,7 @@
 	url = https://github.com/conda-forge/trame-tauri-feedstock.git
 	path = feedstocks/trame-tauri
 	branch = refs/heads/main
+[submodule "trame-iframe"]
+	url = https://github.com/conda-forge/trame-iframe-feedstock.git
+	path = feedstocks/trame-iframe
+	branch = refs/heads/main
