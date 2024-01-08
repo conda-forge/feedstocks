@@ -84658,3 +84658,7 @@
 	url = https://github.com/conda-forge/giturlparse-feedstock.git
 	path = feedstocks/giturlparse
 	branch = refs/heads/main
+[submodule "win-precise-time"]
+	url = https://github.com/conda-forge/win-precise-time-feedstock.git
+	path = feedstocks/win-precise-time
+	branch = refs/heads/main
