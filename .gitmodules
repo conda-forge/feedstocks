@@ -84662,3 +84662,7 @@
 	url = https://github.com/conda-forge/win-precise-time-feedstock.git
 	path = feedstocks/win-precise-time
 	branch = refs/heads/main
+[submodule "tldraw"]
+	url = https://github.com/conda-forge/tldraw-feedstock.git
+	path = feedstocks/tldraw
+	branch = refs/heads/main
