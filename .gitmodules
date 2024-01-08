@@ -84654,3 +84654,7 @@
 	url = https://github.com/conda-forge/gaspium-feedstock.git
 	path = feedstocks/gaspium
 	branch = refs/heads/main
+[submodule "giturlparse"]
+	url = https://github.com/conda-forge/giturlparse-feedstock.git
+	path = feedstocks/giturlparse
+	branch = refs/heads/main
