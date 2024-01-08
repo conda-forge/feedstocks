@@ -84742,3 +84742,7 @@
 	url = https://github.com/conda-forge/honcho-feedstock.git
 	path = feedstocks/honcho
 	branch = refs/heads/main
+[submodule "mlgb"]
+	url = https://github.com/conda-forge/mlgb-feedstock.git
+	path = feedstocks/mlgb
+	branch = refs/heads/main
