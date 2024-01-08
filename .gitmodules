@@ -84670,3 +84670,7 @@
 	url = https://github.com/conda-forge/cappa-feedstock.git
 	path = feedstocks/cappa
 	branch = refs/heads/main
+[submodule "microdot"]
+	url = https://github.com/conda-forge/microdot-feedstock.git
+	path = feedstocks/microdot
+	branch = refs/heads/main
