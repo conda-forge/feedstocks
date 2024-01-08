@@ -84666,3 +84666,7 @@
 	url = https://github.com/conda-forge/tldraw-feedstock.git
 	path = feedstocks/tldraw
 	branch = refs/heads/main
+[submodule "cappa"]
+	url = https://github.com/conda-forge/cappa-feedstock.git
+	path = feedstocks/cappa
+	branch = refs/heads/main
