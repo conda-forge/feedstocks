@@ -84626,3 +84626,7 @@
 	url = https://github.com/conda-forge/membrane-curvature-feedstock.git
 	path = feedstocks/membrane-curvature
 	branch = refs/heads/main
+[submodule "django-approval"]
+	url = https://github.com/conda-forge/django-approval-feedstock.git
+	path = feedstocks/django-approval
+	branch = refs/heads/main
