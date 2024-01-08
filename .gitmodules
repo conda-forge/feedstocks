@@ -84730,3 +84730,7 @@
 	url = https://github.com/conda-forge/movis-feedstock.git
 	path = feedstocks/movis
 	branch = refs/heads/main
+[submodule "trame-xterm"]
+	url = https://github.com/conda-forge/trame-xterm-feedstock.git
+	path = feedstocks/trame-xterm
+	branch = refs/heads/main
