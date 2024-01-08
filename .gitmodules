@@ -84698,3 +84698,7 @@
 	url = https://github.com/conda-forge/trame-grid-layout-feedstock.git
 	path = feedstocks/trame-grid-layout
 	branch = refs/heads/main
+[submodule "trame-code"]
+	url = https://github.com/conda-forge/trame-code-feedstock.git
+	path = feedstocks/trame-code
+	branch = refs/heads/main
