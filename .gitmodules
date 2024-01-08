@@ -84718,3 +84718,7 @@
 	url = https://github.com/conda-forge/kagglehub-feedstock.git
 	path = feedstocks/kagglehub
 	branch = refs/heads/main
+[submodule "trame-leaflet"]
+	url = https://github.com/conda-forge/trame-leaflet-feedstock.git
+	path = feedstocks/trame-leaflet
+	branch = refs/heads/main
