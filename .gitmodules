@@ -84674,3 +84674,7 @@
 	url = https://github.com/conda-forge/microdot-feedstock.git
 	path = feedstocks/microdot
 	branch = refs/heads/main
+[submodule "ahlive"]
+	url = https://github.com/conda-forge/ahlive-feedstock.git
+	path = feedstocks/ahlive
+	branch = refs/heads/main
