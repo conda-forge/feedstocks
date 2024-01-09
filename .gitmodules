@@ -84782,3 +84782,7 @@
 	url = https://github.com/conda-forge/numthreads-feedstock.git
 	path = feedstocks/numthreads
 	branch = refs/heads/main
+[submodule "pytest-twisted"]
+	url = https://github.com/conda-forge/pytest-twisted-feedstock.git
+	path = feedstocks/pytest-twisted
+	branch = refs/heads/main
