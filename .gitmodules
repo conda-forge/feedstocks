@@ -84786,3 +84786,7 @@
 	url = https://github.com/conda-forge/pytest-twisted-feedstock.git
 	path = feedstocks/pytest-twisted
 	branch = refs/heads/main
+[submodule "jupitest"]
+	url = https://github.com/conda-forge/jupitest-feedstock.git
+	path = feedstocks/jupitest
+	branch = refs/heads/main
