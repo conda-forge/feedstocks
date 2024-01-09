@@ -84818,3 +84818,7 @@
 	url = https://github.com/conda-forge/pytest-gee-feedstock.git
 	path = feedstocks/pytest-gee
 	branch = refs/heads/main
+[submodule "reader"]
+	url = https://github.com/conda-forge/reader-feedstock.git
+	path = feedstocks/reader
+	branch = refs/heads/main
