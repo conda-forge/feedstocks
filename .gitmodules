@@ -84822,3 +84822,7 @@
 	url = https://github.com/conda-forge/reader-feedstock.git
 	path = feedstocks/reader
 	branch = refs/heads/main
+[submodule "psycopg-pool"]
+	url = https://github.com/conda-forge/psycopg-pool-feedstock.git
+	path = feedstocks/psycopg-pool
+	branch = refs/heads/main
