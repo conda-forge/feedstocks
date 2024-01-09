@@ -84798,3 +84798,7 @@
 	url = https://github.com/conda-forge/pygraft-feedstock.git
 	path = feedstocks/pygraft
 	branch = refs/heads/main
+[submodule "rustiql"]
+	url = https://github.com/conda-forge/rustiql-feedstock.git
+	path = feedstocks/rustiql
+	branch = refs/heads/main
