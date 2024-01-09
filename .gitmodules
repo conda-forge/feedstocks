@@ -84790,3 +84790,7 @@
 	url = https://github.com/conda-forge/jupitest-feedstock.git
 	path = feedstocks/jupitest
 	branch = refs/heads/main
+[submodule "disdrodb"]
+	url = https://github.com/conda-forge/disdrodb-feedstock.git
+	path = feedstocks/disdrodb
+	branch = refs/heads/main
