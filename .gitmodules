@@ -84778,3 +84778,7 @@
 	url = https://github.com/conda-forge/hubstore-feedstock.git
 	path = feedstocks/hubstore
 	branch = refs/heads/main
+[submodule "numthreads"]
+	url = https://github.com/conda-forge/numthreads-feedstock.git
+	path = feedstocks/numthreads
+	branch = refs/heads/main
