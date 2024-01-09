@@ -84802,3 +84802,7 @@
 	url = https://github.com/conda-forge/rustiql-feedstock.git
 	path = feedstocks/rustiql
 	branch = refs/heads/main
+[submodule "homeharvest"]
+	url = https://github.com/conda-forge/homeharvest-feedstock.git
+	path = feedstocks/homeharvest
+	branch = refs/heads/main
