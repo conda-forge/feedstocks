@@ -84770,3 +84770,7 @@
 	url = https://github.com/conda-forge/flask-muck-feedstock.git
 	path = feedstocks/flask-muck
 	branch = refs/heads/main
+[submodule "binlets"]
+	url = https://github.com/conda-forge/binlets-feedstock.git
+	path = feedstocks/binlets
+	branch = refs/heads/main
