@@ -84774,3 +84774,7 @@
 	url = https://github.com/conda-forge/binlets-feedstock.git
 	path = feedstocks/binlets
 	branch = refs/heads/main
+[submodule "hubstore"]
+	url = https://github.com/conda-forge/hubstore-feedstock.git
+	path = feedstocks/hubstore
+	branch = refs/heads/main
