@@ -84826,3 +84826,7 @@
 	url = https://github.com/conda-forge/psycopg-pool-feedstock.git
 	path = feedstocks/psycopg-pool
 	branch = refs/heads/main
+[submodule "pywwa"]
+	url = https://github.com/conda-forge/pywwa-feedstock.git
+	path = feedstocks/pywwa
+	branch = refs/heads/main
