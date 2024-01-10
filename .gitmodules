@@ -84842,3 +84842,7 @@
 	url = https://github.com/conda-forge/llvm-bazel-cache-feedstock.git
 	path = feedstocks/llvm-bazel-cache
 	branch = refs/heads/main
+[submodule "pawflim"]
+	url = https://github.com/conda-forge/pawflim-feedstock.git
+	path = feedstocks/pawflim
+	branch = refs/heads/main
