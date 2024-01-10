@@ -84834,3 +84834,7 @@
 	url = https://github.com/conda-forge/gis-utils-feedstock.git
 	path = feedstocks/gis-utils
 	branch = refs/heads/main
+[submodule "great_tables"]
+	url = https://github.com/conda-forge/great_tables-feedstock.git
+	path = feedstocks/great_tables
+	branch = refs/heads/main
