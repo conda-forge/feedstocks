@@ -84830,3 +84830,7 @@
 	url = https://github.com/conda-forge/pywwa-feedstock.git
 	path = feedstocks/pywwa
 	branch = refs/heads/main
+[submodule "gis-utils"]
+	url = https://github.com/conda-forge/gis-utils-feedstock.git
+	path = feedstocks/gis-utils
+	branch = refs/heads/main
