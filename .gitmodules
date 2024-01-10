@@ -84846,3 +84846,7 @@
 	url = https://github.com/conda-forge/pawflim-feedstock.git
 	path = feedstocks/pawflim
 	branch = refs/heads/main
+[submodule "robotframework-seriallibrary"]
+	url = https://github.com/conda-forge/robotframework-seriallibrary-feedstock.git
+	path = feedstocks/robotframework-seriallibrary
+	branch = refs/heads/main
