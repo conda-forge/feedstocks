@@ -84838,3 +84838,7 @@
 	url = https://github.com/conda-forge/great_tables-feedstock.git
 	path = feedstocks/great_tables
 	branch = refs/heads/main
+[submodule "llvm-bazel-cache"]
+	url = https://github.com/conda-forge/llvm-bazel-cache-feedstock.git
+	path = feedstocks/llvm-bazel-cache
+	branch = refs/heads/main
