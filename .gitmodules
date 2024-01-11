@@ -84870,3 +84870,7 @@
 	url = https://github.com/conda-forge/attributedict-feedstock.git
 	path = feedstocks/attributedict
 	branch = refs/heads/main
+[submodule "aioprometheus"]
+	url = https://github.com/conda-forge/aioprometheus-feedstock.git
+	path = feedstocks/aioprometheus
+	branch = refs/heads/main
