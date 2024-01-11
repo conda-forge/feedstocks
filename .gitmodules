@@ -84862,3 +84862,7 @@
 	url = https://github.com/conda-forge/cppinterop-feedstock.git
 	path = feedstocks/cppinterop
 	branch = refs/heads/main
+[submodule "pycompilation"]
+	url = https://github.com/conda-forge/pycompilation-feedstock.git
+	path = feedstocks/pycompilation
+	branch = refs/heads/main
