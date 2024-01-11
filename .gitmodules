@@ -84874,3 +84874,7 @@
 	url = https://github.com/conda-forge/aioprometheus-feedstock.git
 	path = feedstocks/aioprometheus
 	branch = refs/heads/main
+[submodule "digdem"]
+	url = https://github.com/conda-forge/digdem-feedstock.git
+	path = feedstocks/digdem
+	branch = refs/heads/main
