@@ -84878,3 +84878,7 @@
 	url = https://github.com/conda-forge/digdem-feedstock.git
 	path = feedstocks/digdem
 	branch = refs/heads/main
+[submodule "box-sdk-gen"]
+	url = https://github.com/conda-forge/box-sdk-gen-feedstock.git
+	path = feedstocks/box-sdk-gen
+	branch = refs/heads/main
