@@ -84858,3 +84858,7 @@
 	url = https://github.com/conda-forge/r-stpphawkes-feedstock.git
 	path = feedstocks/r-stpphawkes
 	branch = refs/heads/main
+[submodule "cppinterop"]
+	url = https://github.com/conda-forge/cppinterop-feedstock.git
+	path = feedstocks/cppinterop
+	branch = refs/heads/main
