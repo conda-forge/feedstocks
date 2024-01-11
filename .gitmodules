@@ -84882,3 +84882,7 @@
 	url = https://github.com/conda-forge/box-sdk-gen-feedstock.git
 	path = feedstocks/box-sdk-gen
 	branch = refs/heads/main
+[submodule "vale-ls"]
+	url = https://github.com/conda-forge/vale-ls-feedstock.git
+	path = feedstocks/vale-ls
+	branch = refs/heads/main
