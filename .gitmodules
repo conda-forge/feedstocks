@@ -84886,3 +84886,7 @@
 	url = https://github.com/conda-forge/vale-ls-feedstock.git
 	path = feedstocks/vale-ls
 	branch = refs/heads/main
+[submodule "serapis"]
+	url = https://github.com/conda-forge/serapis-feedstock.git
+	path = feedstocks/serapis
+	branch = refs/heads/main
