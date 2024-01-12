@@ -84902,3 +84902,7 @@
 	url = https://github.com/conda-forge/coincurve-feedstock.git
 	path = feedstocks/coincurve
 	branch = refs/heads/main
+[submodule "libsecp256k1-py-bindings"]
+	url = https://github.com/conda-forge/libsecp256k1-py-bindings-feedstock.git
+	path = feedstocks/libsecp256k1-py-bindings
+	branch = refs/heads/main
