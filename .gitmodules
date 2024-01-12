@@ -84918,3 +84918,7 @@
 	url = https://github.com/conda-forge/lsst-sphgeom-feedstock.git
 	path = feedstocks/lsst-sphgeom
 	branch = refs/heads/main
+[submodule "tilupy"]
+	url = https://github.com/conda-forge/tilupy-feedstock.git
+	path = feedstocks/tilupy
+	branch = refs/heads/main
