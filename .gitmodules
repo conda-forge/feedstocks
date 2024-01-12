@@ -84906,3 +84906,7 @@
 	url = https://github.com/conda-forge/libsecp256k1-py-bindings-feedstock.git
 	path = feedstocks/libsecp256k1-py-bindings
 	branch = refs/heads/main
+[submodule "libsecp256k1"]
+	url = https://github.com/conda-forge/libsecp256k1-feedstock.git
+	path = feedstocks/libsecp256k1
+	branch = refs/heads/main
