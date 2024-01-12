@@ -84914,3 +84914,7 @@
 	url = https://github.com/conda-forge/lsst-versions-feedstock.git
 	path = feedstocks/lsst-versions
 	branch = refs/heads/main
+[submodule "lsst-sphgeom"]
+	url = https://github.com/conda-forge/lsst-sphgeom-feedstock.git
+	path = feedstocks/lsst-sphgeom
+	branch = refs/heads/main
