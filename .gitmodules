@@ -84910,3 +84910,7 @@
 	url = https://github.com/conda-forge/libsecp256k1-feedstock.git
 	path = feedstocks/libsecp256k1
 	branch = refs/heads/main
+[submodule "lsst-versions"]
+	url = https://github.com/conda-forge/lsst-versions-feedstock.git
+	path = feedstocks/lsst-versions
+	branch = refs/heads/main
