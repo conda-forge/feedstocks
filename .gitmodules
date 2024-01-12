@@ -84898,3 +84898,7 @@
 	url = https://github.com/conda-forge/python-dashing-feedstock.git
 	path = feedstocks/python-dashing
 	branch = refs/heads/main
+[submodule "coincurve"]
+	url = https://github.com/conda-forge/coincurve-feedstock.git
+	path = feedstocks/coincurve
+	branch = refs/heads/main
