@@ -84954,3 +84954,7 @@
 	url = https://github.com/conda-forge/qt-graphs-feedstock.git
 	path = feedstocks/qt-graphs
 	branch = refs/heads/main
+[submodule "redis-dict"]
+	url = https://github.com/conda-forge/redis-dict-feedstock.git
+	path = feedstocks/redis-dict
+	branch = refs/heads/main
