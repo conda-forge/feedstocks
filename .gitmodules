@@ -84946,3 +84946,7 @@
 	url = https://github.com/conda-forge/trustllm-feedstock.git
 	path = feedstocks/trustllm
 	branch = refs/heads/main
+[submodule "onnx2pytorch"]
+	url = https://github.com/conda-forge/onnx2pytorch-feedstock.git
+	path = feedstocks/onnx2pytorch
+	branch = refs/heads/main
