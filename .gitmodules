@@ -84938,3 +84938,7 @@
 	url = https://github.com/conda-forge/simple-build-system-feedstock.git
 	path = feedstocks/simple-build-system
 	branch = refs/heads/main
+[submodule "nrtk"]
+	url = https://github.com/conda-forge/nrtk-feedstock.git
+	path = feedstocks/nrtk
+	branch = refs/heads/main
