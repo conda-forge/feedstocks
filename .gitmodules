@@ -84958,3 +84958,7 @@
 	url = https://github.com/conda-forge/redis-dict-feedstock.git
 	path = feedstocks/redis-dict
 	branch = refs/heads/main
+[submodule "sctk"]
+	url = https://github.com/conda-forge/sctk-feedstock.git
+	path = feedstocks/sctk
+	branch = refs/heads/main
