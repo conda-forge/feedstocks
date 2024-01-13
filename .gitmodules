@@ -84934,3 +84934,7 @@
 	url = https://github.com/conda-forge/can-isotp-feedstock.git
 	path = feedstocks/can-isotp
 	branch = refs/heads/main
+[submodule "simple-build-system"]
+	url = https://github.com/conda-forge/simple-build-system-feedstock.git
+	path = feedstocks/simple-build-system
+	branch = refs/heads/main
