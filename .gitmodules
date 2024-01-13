@@ -84930,3 +84930,7 @@
 	url = https://github.com/conda-forge/asitop-feedstock.git
 	path = feedstocks/asitop
 	branch = refs/heads/main
+[submodule "can-isotp"]
+	url = https://github.com/conda-forge/can-isotp-feedstock.git
+	path = feedstocks/can-isotp
+	branch = refs/heads/main
