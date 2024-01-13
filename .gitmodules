@@ -84950,3 +84950,7 @@
 	url = https://github.com/conda-forge/onnx2pytorch-feedstock.git
 	path = feedstocks/onnx2pytorch
 	branch = refs/heads/main
+[submodule "qt-graphs"]
+	url = https://github.com/conda-forge/qt-graphs-feedstock.git
+	path = feedstocks/qt-graphs
+	branch = refs/heads/main
