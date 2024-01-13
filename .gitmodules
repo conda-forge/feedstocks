@@ -84942,3 +84942,7 @@
 	url = https://github.com/conda-forge/nrtk-feedstock.git
 	path = feedstocks/nrtk
 	branch = refs/heads/main
+[submodule "trustllm"]
+	url = https://github.com/conda-forge/trustllm-feedstock.git
+	path = feedstocks/trustllm
+	branch = refs/heads/main
