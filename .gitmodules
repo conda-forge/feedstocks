@@ -84990,3 +84990,7 @@
 	url = https://github.com/conda-forge/mpv-feedstock.git
 	path = feedstocks/mpv
 	branch = refs/heads/main
+[submodule "spiceql"]
+	url = https://github.com/conda-forge/spiceql-feedstock.git
+	path = feedstocks/spiceql
+	branch = refs/heads/main
