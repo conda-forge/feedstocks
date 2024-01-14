@@ -84970,3 +84970,7 @@
 	url = https://github.com/conda-forge/libmixmod-feedstock.git
 	path = feedstocks/libmixmod
 	branch = refs/heads/main
+[submodule "mlx-lm"]
+	url = https://github.com/conda-forge/mlx-lm-feedstock.git
+	path = feedstocks/mlx-lm
+	branch = refs/heads/main
