@@ -84978,3 +84978,7 @@
 	url = https://github.com/conda-forge/qpbenchmark-feedstock.git
 	path = feedstocks/qpbenchmark
 	branch = refs/heads/main
+[submodule "tstoolbox"]
+	url = https://github.com/conda-forge/tstoolbox-feedstock.git
+	path = feedstocks/tstoolbox
+	branch = refs/heads/main
