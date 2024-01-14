@@ -84974,3 +84974,7 @@
 	url = https://github.com/conda-forge/mlx-lm-feedstock.git
 	path = feedstocks/mlx-lm
 	branch = refs/heads/main
+[submodule "qpbenchmark"]
+	url = https://github.com/conda-forge/qpbenchmark-feedstock.git
+	path = feedstocks/qpbenchmark
+	branch = refs/heads/main
