@@ -84966,3 +84966,7 @@
 	url = https://github.com/conda-forge/sasktran2-feedstock.git
 	path = feedstocks/sasktran2
 	branch = refs/heads/main
+[submodule "libmixmod"]
+	url = https://github.com/conda-forge/libmixmod-feedstock.git
+	path = feedstocks/libmixmod
+	branch = refs/heads/main
