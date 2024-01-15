@@ -85018,3 +85018,7 @@
 	url = https://github.com/conda-forge/launchdarkly-eventsource-feedstock.git
 	path = feedstocks/launchdarkly-eventsource
 	branch = refs/heads/main
+[submodule "modflow-export"]
+	url = https://github.com/conda-forge/modflow-export-feedstock.git
+	path = feedstocks/modflow-export
+	branch = refs/heads/main
