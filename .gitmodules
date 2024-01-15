@@ -84994,3 +84994,7 @@
 	url = https://github.com/conda-forge/spiceql-feedstock.git
 	path = feedstocks/spiceql
 	branch = refs/heads/main
+[submodule "jupyterlite-xeus"]
+	url = https://github.com/conda-forge/jupyterlite-xeus-feedstock.git
+	path = feedstocks/jupyterlite-xeus
+	branch = refs/heads/main
