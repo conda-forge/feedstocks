@@ -84998,3 +84998,7 @@
 	url = https://github.com/conda-forge/jupyterlite-xeus-feedstock.git
 	path = feedstocks/jupyterlite-xeus
 	branch = refs/heads/main
+[submodule "pykrb5"]
+	url = https://github.com/conda-forge/pykrb5-feedstock.git
+	path = feedstocks/pykrb5
+	branch = refs/heads/main
