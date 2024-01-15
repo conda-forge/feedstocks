@@ -85014,3 +85014,7 @@
 	url = https://github.com/conda-forge/fleximod-feedstock.git
 	path = feedstocks/fleximod
 	branch = refs/heads/main
+[submodule "launchdarkly-eventsource"]
+	url = https://github.com/conda-forge/launchdarkly-eventsource-feedstock.git
+	path = feedstocks/launchdarkly-eventsource
+	branch = refs/heads/main
