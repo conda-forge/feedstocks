@@ -85030,3 +85030,7 @@
 	url = https://github.com/conda-forge/jupytercad-salome-feedstock.git
 	path = feedstocks/jupytercad-salome
 	branch = refs/heads/main
+[submodule "gpm-api"]
+	url = https://github.com/conda-forge/gpm-api-feedstock.git
+	path = feedstocks/gpm-api
+	branch = refs/heads/main
