@@ -85058,3 +85058,7 @@
 	url = https://github.com/conda-forge/udsoncan-feedstock.git
 	path = feedstocks/udsoncan
 	branch = refs/heads/main
+[submodule "xgboost_ray"]
+	url = https://github.com/conda-forge/xgboost_ray-feedstock.git
+	path = feedstocks/xgboost_ray
+	branch = refs/heads/main
