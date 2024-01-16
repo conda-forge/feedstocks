@@ -85034,3 +85034,7 @@
 	url = https://github.com/conda-forge/gpm-api-feedstock.git
 	path = feedstocks/gpm-api
 	branch = refs/heads/main
+[submodule "airium"]
+	url = https://github.com/conda-forge/airium-feedstock.git
+	path = feedstocks/airium
+	branch = refs/heads/main
