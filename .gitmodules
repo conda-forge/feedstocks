@@ -85062,3 +85062,7 @@
 	url = https://github.com/conda-forge/xgboost_ray-feedstock.git
 	path = feedstocks/xgboost_ray
 	branch = refs/heads/main
+[submodule "lightgbm_ray"]
+	url = https://github.com/conda-forge/lightgbm_ray-feedstock.git
+	path = feedstocks/lightgbm_ray
+	branch = refs/heads/main
