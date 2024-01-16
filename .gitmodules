@@ -85066,3 +85066,7 @@
 	url = https://github.com/conda-forge/lightgbm_ray-feedstock.git
 	path = feedstocks/lightgbm_ray
 	branch = refs/heads/main
+[submodule "arraylias"]
+	url = https://github.com/conda-forge/arraylias-feedstock.git
+	path = feedstocks/arraylias
+	branch = refs/heads/main
