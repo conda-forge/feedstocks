@@ -85026,3 +85026,7 @@
 	url = https://github.com/conda-forge/jupytercad-freecad-feedstock.git
 	path = feedstocks/jupytercad-freecad
 	branch = refs/heads/main
+[submodule "jupytercad-salome"]
+	url = https://github.com/conda-forge/jupytercad-salome-feedstock.git
+	path = feedstocks/jupytercad-salome
+	branch = refs/heads/main
