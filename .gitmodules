@@ -85022,3 +85022,7 @@
 	url = https://github.com/conda-forge/modflow-export-feedstock.git
 	path = feedstocks/modflow-export
 	branch = refs/heads/main
+[submodule "jupytercad-freecad"]
+	url = https://github.com/conda-forge/jupytercad-freecad-feedstock.git
+	path = feedstocks/jupytercad-freecad
+	branch = refs/heads/main
