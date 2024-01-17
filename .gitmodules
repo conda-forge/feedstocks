@@ -85074,3 +85074,7 @@
 	url = https://github.com/conda-forge/qdoas2harp-feedstock.git
 	path = feedstocks/qdoas2harp
 	branch = refs/heads/main
+[submodule "mkdocstrings-python-xref"]
+	url = https://github.com/conda-forge/mkdocstrings-python-xref-feedstock.git
+	path = feedstocks/mkdocstrings-python-xref
+	branch = refs/heads/main
