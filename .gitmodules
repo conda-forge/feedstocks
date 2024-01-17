@@ -85082,3 +85082,7 @@
 	url = https://github.com/conda-forge/optparse-pretty-feedstock.git
 	path = feedstocks/optparse-pretty
 	branch = refs/heads/main
+[submodule "modflow-setup"]
+	url = https://github.com/conda-forge/modflow-setup-feedstock.git
+	path = feedstocks/modflow-setup
+	branch = refs/heads/main
