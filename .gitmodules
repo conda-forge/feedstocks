@@ -85094,3 +85094,7 @@
 	url = https://github.com/conda-forge/r-quickjsr-feedstock.git
 	path = feedstocks/r-quickjsr
 	branch = refs/heads/main
+[submodule "bech32"]
+	url = https://github.com/conda-forge/bech32-feedstock.git
+	path = feedstocks/bech32
+	branch = refs/heads/main
