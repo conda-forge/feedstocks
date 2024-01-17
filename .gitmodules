@@ -85086,3 +85086,7 @@
 	url = https://github.com/conda-forge/modflow-setup-feedstock.git
 	path = feedstocks/modflow-setup
 	branch = refs/heads/main
+[submodule "gwcosmo"]
+	url = https://github.com/conda-forge/gwcosmo-feedstock.git
+	path = feedstocks/gwcosmo
+	branch = refs/heads/main
