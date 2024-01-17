@@ -85090,3 +85090,7 @@
 	url = https://github.com/conda-forge/gwcosmo-feedstock.git
 	path = feedstocks/gwcosmo
 	branch = refs/heads/main
+[submodule "r-quickjsr"]
+	url = https://github.com/conda-forge/r-quickjsr-feedstock.git
+	path = feedstocks/r-quickjsr
+	branch = refs/heads/main
