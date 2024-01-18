@@ -85098,3 +85098,7 @@
 	url = https://github.com/conda-forge/bech32-feedstock.git
 	path = feedstocks/bech32
 	branch = refs/heads/main
+[submodule "aioprocessing"]
+	url = https://github.com/conda-forge/aioprocessing-feedstock.git
+	path = feedstocks/aioprocessing
+	branch = refs/heads/main
