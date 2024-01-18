@@ -85110,3 +85110,7 @@
 	url = https://github.com/conda-forge/harlequin-trino-feedstock.git
 	path = feedstocks/harlequin-trino
 	branch = refs/heads/main
+[submodule "harlequin-postgres"]
+	url = https://github.com/conda-forge/harlequin-postgres-feedstock.git
+	path = feedstocks/harlequin-postgres
+	branch = refs/heads/main
