@@ -85102,3 +85102,7 @@
 	url = https://github.com/conda-forge/aioprocessing-feedstock.git
 	path = feedstocks/aioprocessing
 	branch = refs/heads/main
+[submodule "harlequin-bigquery"]
+	url = https://github.com/conda-forge/harlequin-bigquery-feedstock.git
+	path = feedstocks/harlequin-bigquery
+	branch = refs/heads/main
