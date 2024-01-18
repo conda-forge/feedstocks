@@ -85106,3 +85106,7 @@
 	url = https://github.com/conda-forge/harlequin-bigquery-feedstock.git
 	path = feedstocks/harlequin-bigquery
 	branch = refs/heads/main
+[submodule "harlequin-trino"]
+	url = https://github.com/conda-forge/harlequin-trino-feedstock.git
+	path = feedstocks/harlequin-trino
+	branch = refs/heads/main
