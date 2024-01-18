@@ -85114,3 +85114,7 @@
 	url = https://github.com/conda-forge/harlequin-postgres-feedstock.git
 	path = feedstocks/harlequin-postgres
 	branch = refs/heads/main
+[submodule "harlequin-odbc"]
+	url = https://github.com/conda-forge/harlequin-odbc-feedstock.git
+	path = feedstocks/harlequin-odbc
+	branch = refs/heads/main
