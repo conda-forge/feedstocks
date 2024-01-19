@@ -85134,3 +85134,7 @@
 	url = https://github.com/conda-forge/snaphu-feedstock.git
 	path = feedstocks/snaphu
 	branch = refs/heads/main
+[submodule "pandas-bokeh"]
+	url = https://github.com/conda-forge/pandas-bokeh-feedstock.git
+	path = feedstocks/pandas-bokeh
+	branch = refs/heads/main
