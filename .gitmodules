@@ -85138,3 +85138,7 @@
 	url = https://github.com/conda-forge/pandas-bokeh-feedstock.git
 	path = feedstocks/pandas-bokeh
 	branch = refs/heads/main
+[submodule "openactive"]
+	url = https://github.com/conda-forge/openactive-feedstock.git
+	path = feedstocks/openactive
+	branch = refs/heads/main
