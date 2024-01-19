@@ -85126,3 +85126,7 @@
 	url = https://github.com/conda-forge/r-semantic.assets-feedstock.git
 	path = feedstocks/r-semantic.assets
 	branch = refs/heads/main
+[submodule "rice"]
+	url = https://github.com/conda-forge/rice-feedstock.git
+	path = feedstocks/rice
+	branch = refs/heads/main
