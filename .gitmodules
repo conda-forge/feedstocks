@@ -85122,3 +85122,7 @@
 	url = https://github.com/conda-forge/r-usemodels-feedstock.git
 	path = feedstocks/r-usemodels
 	branch = refs/heads/main
+[submodule "r-semantic.assets"]
+	url = https://github.com/conda-forge/r-semantic.assets-feedstock.git
+	path = feedstocks/r-semantic.assets
+	branch = refs/heads/main
