@@ -85142,3 +85142,7 @@
 	url = https://github.com/conda-forge/openactive-feedstock.git
 	path = feedstocks/openactive
 	branch = refs/heads/main
+[submodule "r-nanoarrow"]
+	url = https://github.com/conda-forge/r-nanoarrow-feedstock.git
+	path = feedstocks/r-nanoarrow
+	branch = refs/heads/main
