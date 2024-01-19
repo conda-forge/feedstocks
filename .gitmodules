@@ -85118,3 +85118,7 @@
 	url = https://github.com/conda-forge/harlequin-odbc-feedstock.git
 	path = feedstocks/harlequin-odbc
 	branch = refs/heads/main
+[submodule "r-usemodels"]
+	url = https://github.com/conda-forge/r-usemodels-feedstock.git
+	path = feedstocks/r-usemodels
+	branch = refs/heads/main
