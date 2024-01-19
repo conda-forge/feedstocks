@@ -85130,3 +85130,7 @@
 	url = https://github.com/conda-forge/rice-feedstock.git
 	path = feedstocks/rice
 	branch = refs/heads/main
+[submodule "snaphu"]
+	url = https://github.com/conda-forge/snaphu-feedstock.git
+	path = feedstocks/snaphu
+	branch = refs/heads/main
