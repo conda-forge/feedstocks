@@ -85154,3 +85154,7 @@
 	url = https://github.com/conda-forge/haystack-ai-feedstock.git
 	path = feedstocks/haystack-ai
 	branch = refs/heads/main
+[submodule "r-spiderbar"]
+	url = https://github.com/conda-forge/r-spiderbar-feedstock.git
+	path = feedstocks/r-spiderbar
+	branch = refs/heads/main
