@@ -85158,3 +85158,7 @@
 	url = https://github.com/conda-forge/r-spiderbar-feedstock.git
 	path = feedstocks/r-spiderbar
 	branch = refs/heads/main
+[submodule "ssh-utilities"]
+	url = https://github.com/conda-forge/ssh-utilities-feedstock.git
+	path = feedstocks/ssh-utilities
+	branch = refs/heads/main
