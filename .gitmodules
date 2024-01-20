@@ -85170,3 +85170,7 @@
 	url = https://github.com/conda-forge/pascal-voc-writer-feedstock.git
 	path = feedstocks/pascal-voc-writer
 	branch = refs/heads/main
+[submodule "conda_subprocess"]
+	url = https://github.com/conda-forge/conda_subprocess-feedstock.git
+	path = feedstocks/conda_subprocess
+	branch = refs/heads/main
