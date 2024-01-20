@@ -85146,3 +85146,7 @@
 	url = https://github.com/conda-forge/r-nanoarrow-feedstock.git
 	path = feedstocks/r-nanoarrow
 	branch = refs/heads/main
+[submodule "hydrosar"]
+	url = https://github.com/conda-forge/hydrosar-feedstock.git
+	path = feedstocks/hydrosar
+	branch = refs/heads/main
