@@ -85162,3 +85162,7 @@
 	url = https://github.com/conda-forge/ssh-utilities-feedstock.git
 	path = feedstocks/ssh-utilities
 	branch = refs/heads/main
+[submodule "safety-schemas"]
+	url = https://github.com/conda-forge/safety-schemas-feedstock.git
+	path = feedstocks/safety-schemas
+	branch = refs/heads/main
