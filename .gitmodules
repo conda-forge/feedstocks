@@ -85150,3 +85150,7 @@
 	url = https://github.com/conda-forge/hydrosar-feedstock.git
 	path = feedstocks/hydrosar
 	branch = refs/heads/main
+[submodule "haystack-ai"]
+	url = https://github.com/conda-forge/haystack-ai-feedstock.git
+	path = feedstocks/haystack-ai
+	branch = refs/heads/main
