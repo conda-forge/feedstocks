@@ -85174,3 +85174,7 @@
 	url = https://github.com/conda-forge/conda_subprocess-feedstock.git
 	path = feedstocks/conda_subprocess
 	branch = refs/heads/main
+[submodule "r-robotstxt"]
+	url = https://github.com/conda-forge/r-robotstxt-feedstock.git
+	path = feedstocks/r-robotstxt
+	branch = refs/heads/main
