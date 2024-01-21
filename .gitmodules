@@ -85178,3 +85178,7 @@
 	url = https://github.com/conda-forge/r-robotstxt-feedstock.git
 	path = feedstocks/r-robotstxt
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-common-io"]
+	url = https://github.com/conda-forge/apache-airflow-providers-common-io-feedstock.git
+	path = feedstocks/apache-airflow-providers-common-io
+	branch = refs/heads/main
