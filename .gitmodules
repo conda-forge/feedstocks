@@ -85182,3 +85182,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-common-io-feedstock.git
 	path = feedstocks/apache-airflow-providers-common-io
 	branch = refs/heads/main
+[submodule "r-polite"]
+	url = https://github.com/conda-forge/r-polite-feedstock.git
+	path = feedstocks/r-polite
+	branch = refs/heads/main
