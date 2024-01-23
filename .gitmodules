@@ -85186,3 +85186,7 @@
 	url = https://github.com/conda-forge/r-polite-feedstock.git
 	path = feedstocks/r-polite
 	branch = refs/heads/main
+[submodule "r-interleave"]
+	url = https://github.com/conda-forge/r-interleave-feedstock.git
+	path = feedstocks/r-interleave
+	branch = refs/heads/main
