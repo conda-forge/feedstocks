@@ -85202,3 +85202,7 @@
 	url = https://github.com/conda-forge/qcachegrind-feedstock.git
 	path = feedstocks/qcachegrind
 	branch = refs/heads/main
+[submodule "osmpythontools"]
+	url = https://github.com/conda-forge/osmpythontools-feedstock.git
+	path = feedstocks/osmpythontools
+	branch = refs/heads/main
