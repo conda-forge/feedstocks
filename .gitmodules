@@ -85194,3 +85194,7 @@
 	url = https://github.com/conda-forge/sphinx-wagtail-theme-feedstock.git
 	path = feedstocks/sphinx-wagtail-theme
 	branch = refs/heads/main
+[submodule "cptec-model"]
+	url = https://github.com/conda-forge/cptec-model-feedstock.git
+	path = feedstocks/cptec-model
+	branch = refs/heads/main
