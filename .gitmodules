@@ -85198,3 +85198,7 @@
 	url = https://github.com/conda-forge/cptec-model-feedstock.git
 	path = feedstocks/cptec-model
 	branch = refs/heads/main
+[submodule "qcachegrind"]
+	url = https://github.com/conda-forge/qcachegrind-feedstock.git
+	path = feedstocks/qcachegrind
+	branch = refs/heads/main
