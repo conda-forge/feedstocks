@@ -85234,3 +85234,7 @@
 	url = https://github.com/conda-forge/tile_mate-feedstock.git
 	path = feedstocks/tile_mate
 	branch = refs/heads/main
+[submodule "pygmtools"]
+	url = https://github.com/conda-forge/pygmtools-feedstock.git
+	path = feedstocks/pygmtools
+	branch = refs/heads/main
