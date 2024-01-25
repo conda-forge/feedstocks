@@ -85238,3 +85238,7 @@
 	url = https://github.com/conda-forge/pygmtools-feedstock.git
 	path = feedstocks/pygmtools
 	branch = refs/heads/main
+[submodule "taipy-config"]
+	url = https://github.com/conda-forge/taipy-config-feedstock.git
+	path = feedstocks/taipy-config
+	branch = refs/heads/main
