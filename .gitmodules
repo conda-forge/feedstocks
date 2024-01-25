@@ -85218,3 +85218,7 @@
 	url = https://github.com/conda-forge/pydantic-partial-feedstock.git
 	path = feedstocks/pydantic-partial
 	branch = refs/heads/main
+[submodule "s1_frame_enumerator"]
+	url = https://github.com/conda-forge/s1_frame_enumerator-feedstock.git
+	path = feedstocks/s1_frame_enumerator
+	branch = refs/heads/main
