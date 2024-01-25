@@ -85210,3 +85210,7 @@
 	url = https://github.com/conda-forge/vp4jl-feedstock.git
 	path = feedstocks/vp4jl
 	branch = refs/heads/main
+[submodule "xcube-smos"]
+	url = https://github.com/conda-forge/xcube-smos-feedstock.git
+	path = feedstocks/xcube-smos
+	branch = refs/heads/main
