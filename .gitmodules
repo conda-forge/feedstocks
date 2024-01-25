@@ -85226,3 +85226,7 @@
 	url = https://github.com/conda-forge/beamf-feedstock.git
 	path = feedstocks/beamf
 	branch = refs/heads/main
+[submodule "mammos"]
+	url = https://github.com/conda-forge/mammos-feedstock.git
+	path = feedstocks/mammos
+	branch = refs/heads/main
