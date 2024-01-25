@@ -85222,3 +85222,7 @@
 	url = https://github.com/conda-forge/s1_frame_enumerator-feedstock.git
 	path = feedstocks/s1_frame_enumerator
 	branch = refs/heads/main
+[submodule "beamf"]
+	url = https://github.com/conda-forge/beamf-feedstock.git
+	path = feedstocks/beamf
+	branch = refs/heads/main
