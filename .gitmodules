@@ -85214,3 +85214,7 @@
 	url = https://github.com/conda-forge/xcube-smos-feedstock.git
 	path = feedstocks/xcube-smos
 	branch = refs/heads/main
+[submodule "pydantic-partial"]
+	url = https://github.com/conda-forge/pydantic-partial-feedstock.git
+	path = feedstocks/pydantic-partial
+	branch = refs/heads/main
