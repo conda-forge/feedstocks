@@ -85230,3 +85230,7 @@
 	url = https://github.com/conda-forge/mammos-feedstock.git
 	path = feedstocks/mammos
 	branch = refs/heads/main
+[submodule "tile_mate"]
+	url = https://github.com/conda-forge/tile_mate-feedstock.git
+	path = feedstocks/tile_mate
+	branch = refs/heads/main
