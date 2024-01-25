@@ -85242,3 +85242,7 @@
 	url = https://github.com/conda-forge/taipy-config-feedstock.git
 	path = feedstocks/taipy-config
 	branch = refs/heads/main
+[submodule "particle-tracking-manager"]
+	url = https://github.com/conda-forge/particle-tracking-manager-feedstock.git
+	path = feedstocks/particle-tracking-manager
+	branch = refs/heads/main
