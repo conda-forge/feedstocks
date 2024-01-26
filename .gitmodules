@@ -85250,3 +85250,7 @@
 	url = https://github.com/conda-forge/inputimeout-feedstock.git
 	path = feedstocks/inputimeout
 	branch = refs/heads/main
+[submodule "ghetool"]
+	url = https://github.com/conda-forge/ghetool-feedstock.git
+	path = feedstocks/ghetool
+	branch = refs/heads/main
