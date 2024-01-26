@@ -85258,3 +85258,7 @@
 	url = https://github.com/conda-forge/simple_template-feedstock.git
 	path = feedstocks/simple_template
 	branch = refs/heads/main
+[submodule "array-api-strict"]
+	url = https://github.com/conda-forge/array-api-strict-feedstock.git
+	path = feedstocks/array-api-strict
+	branch = refs/heads/main
