@@ -85254,3 +85254,7 @@
 	url = https://github.com/conda-forge/ghetool-feedstock.git
 	path = feedstocks/ghetool
 	branch = refs/heads/main
+[submodule "simple_template"]
+	url = https://github.com/conda-forge/simple_template-feedstock.git
+	path = feedstocks/simple_template
+	branch = refs/heads/main
