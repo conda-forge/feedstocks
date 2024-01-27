@@ -85262,3 +85262,7 @@
 	url = https://github.com/conda-forge/array-api-strict-feedstock.git
 	path = feedstocks/array-api-strict
 	branch = refs/heads/main
+[submodule "nbmerge"]
+	url = https://github.com/conda-forge/nbmerge-feedstock.git
+	path = feedstocks/nbmerge
+	branch = refs/heads/main
