@@ -85302,3 +85302,7 @@
 	url = https://github.com/conda-forge/django-schema-viewer-feedstock.git
 	path = feedstocks/django-schema-viewer
 	branch = refs/heads/main
+[submodule "sqlalchemy-risingwave"]
+	url = https://github.com/conda-forge/sqlalchemy-risingwave-feedstock.git
+	path = feedstocks/sqlalchemy-risingwave
+	branch = refs/heads/main
