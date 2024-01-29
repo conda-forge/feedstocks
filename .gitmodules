@@ -85294,3 +85294,7 @@
 	url = https://github.com/conda-forge/pink-feedstock.git
 	path = feedstocks/pink
 	branch = refs/heads/main
+[submodule "polartoolkit"]
+	url = https://github.com/conda-forge/polartoolkit-feedstock.git
+	path = feedstocks/polartoolkit
+	branch = refs/heads/main
