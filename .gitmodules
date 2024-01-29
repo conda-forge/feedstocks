@@ -85278,3 +85278,7 @@
 	url = https://github.com/conda-forge/hipscat-feedstock.git
 	path = feedstocks/hipscat
 	branch = refs/heads/main
+[submodule "holospy"]
+	url = https://github.com/conda-forge/holospy-feedstock.git
+	path = feedstocks/holospy
+	branch = refs/heads/main
