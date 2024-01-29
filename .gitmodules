@@ -85306,3 +85306,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-risingwave-feedstock.git
 	path = feedstocks/sqlalchemy-risingwave
 	branch = refs/heads/main
+[submodule "m2w64-gcc"]
+	url = https://github.com/conda-forge/m2w64-gcc-feedstock.git
+	path = feedstocks/m2w64-gcc
+	branch = refs/heads/main
