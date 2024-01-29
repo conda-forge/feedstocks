@@ -85310,3 +85310,7 @@
 	url = https://github.com/conda-forge/m2w64-gcc-feedstock.git
 	path = feedstocks/m2w64-gcc
 	branch = refs/heads/main
+[submodule "better-setuptools-git-version"]
+	url = https://github.com/conda-forge/better-setuptools-git-version-feedstock.git
+	path = feedstocks/better-setuptools-git-version
+	branch = refs/heads/main
