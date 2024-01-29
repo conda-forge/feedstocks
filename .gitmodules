@@ -85270,3 +85270,7 @@
 	url = https://github.com/conda-forge/hipscat-import-feedstock.git
 	path = feedstocks/hipscat-import
 	branch = refs/heads/main
+[submodule "lsdb"]
+	url = https://github.com/conda-forge/lsdb-feedstock.git
+	path = feedstocks/lsdb
+	branch = refs/heads/main
