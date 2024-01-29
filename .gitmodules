@@ -85266,3 +85266,7 @@
 	url = https://github.com/conda-forge/nbmerge-feedstock.git
 	path = feedstocks/nbmerge
 	branch = refs/heads/main
+[submodule "hipscat-import"]
+	url = https://github.com/conda-forge/hipscat-import-feedstock.git
+	path = feedstocks/hipscat-import
+	branch = refs/heads/main
