@@ -85298,3 +85298,7 @@
 	url = https://github.com/conda-forge/polartoolkit-feedstock.git
 	path = feedstocks/polartoolkit
 	branch = refs/heads/main
+[submodule "django-schema-viewer"]
+	url = https://github.com/conda-forge/django-schema-viewer-feedstock.git
+	path = feedstocks/django-schema-viewer
+	branch = refs/heads/main
