@@ -85282,3 +85282,7 @@
 	url = https://github.com/conda-forge/holospy-feedstock.git
 	path = feedstocks/holospy
 	branch = refs/heads/main
+[submodule "pyquickbench"]
+	url = https://github.com/conda-forge/pyquickbench-feedstock.git
+	path = feedstocks/pyquickbench
+	branch = refs/heads/main
