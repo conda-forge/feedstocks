@@ -85290,3 +85290,7 @@
 	url = https://github.com/conda-forge/zappend-feedstock.git
 	path = feedstocks/zappend
 	branch = refs/heads/main
+[submodule "pink"]
+	url = https://github.com/conda-forge/pink-feedstock.git
+	path = feedstocks/pink
+	branch = refs/heads/main
