@@ -85326,3 +85326,7 @@
 	url = https://github.com/conda-forge/aligator-feedstock.git
 	path = feedstocks/aligator
 	branch = refs/heads/main
+[submodule "lastpass-cli"]
+	url = https://github.com/conda-forge/lastpass-cli-feedstock.git
+	path = feedstocks/lastpass-cli
+	branch = refs/heads/main
