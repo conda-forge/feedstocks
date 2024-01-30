@@ -85314,3 +85314,7 @@
 	url = https://github.com/conda-forge/better-setuptools-git-version-feedstock.git
 	path = feedstocks/better-setuptools-git-version
 	branch = refs/heads/main
+[submodule "python-mumps"]
+	url = https://github.com/conda-forge/python-mumps-feedstock.git
+	path = feedstocks/python-mumps
+	branch = refs/heads/main
