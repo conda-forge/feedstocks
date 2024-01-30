@@ -85330,3 +85330,7 @@
 	url = https://github.com/conda-forge/lastpass-cli-feedstock.git
 	path = feedstocks/lastpass-cli
 	branch = refs/heads/main
+[submodule "proxsuite-nlp"]
+	url = https://github.com/conda-forge/proxsuite-nlp-feedstock.git
+	path = feedstocks/proxsuite-nlp
+	branch = refs/heads/main
