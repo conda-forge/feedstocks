@@ -85318,3 +85318,7 @@
 	url = https://github.com/conda-forge/python-mumps-feedstock.git
 	path = feedstocks/python-mumps
 	branch = refs/heads/main
+[submodule "ensmallen_graph"]
+	url = https://github.com/conda-forge/ensmallen_graph-feedstock.git
+	path = feedstocks/ensmallen_graph
+	branch = refs/heads/main
