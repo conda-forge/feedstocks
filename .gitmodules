@@ -85334,3 +85334,7 @@
 	url = https://github.com/conda-forge/proxsuite-nlp-feedstock.git
 	path = feedstocks/proxsuite-nlp
 	branch = refs/heads/main
+[submodule "cutest"]
+	url = https://github.com/conda-forge/cutest-feedstock.git
+	path = feedstocks/cutest
+	branch = refs/heads/main
