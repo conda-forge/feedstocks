@@ -85322,3 +85322,7 @@
 	url = https://github.com/conda-forge/ensmallen_graph-feedstock.git
 	path = feedstocks/ensmallen_graph
 	branch = refs/heads/main
+[submodule "aligator"]
+	url = https://github.com/conda-forge/aligator-feedstock.git
+	path = feedstocks/aligator
+	branch = refs/heads/main
