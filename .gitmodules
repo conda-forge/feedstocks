@@ -85346,3 +85346,7 @@
 	url = https://github.com/conda-forge/git-changelog-feedstock.git
 	path = feedstocks/git-changelog
 	branch = refs/heads/main
+[submodule "google-analytics-admin"]
+	url = https://github.com/conda-forge/google-analytics-admin-feedstock.git
+	path = feedstocks/google-analytics-admin
+	branch = refs/heads/main
