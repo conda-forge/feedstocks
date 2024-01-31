@@ -85362,3 +85362,7 @@
 	url = https://github.com/conda-forge/sqlite-anyio-feedstock.git
 	path = feedstocks/sqlite-anyio
 	branch = refs/heads/main
+[submodule "grpc-interceptor"]
+	url = https://github.com/conda-forge/grpc-interceptor-feedstock.git
+	path = feedstocks/grpc-interceptor
+	branch = refs/heads/main
