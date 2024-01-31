@@ -85338,3 +85338,7 @@
 	url = https://github.com/conda-forge/cutest-feedstock.git
 	path = feedstocks/cutest
 	branch = refs/heads/main
+[submodule "heliclockter"]
+	url = https://github.com/conda-forge/heliclockter-feedstock.git
+	path = feedstocks/heliclockter
+	branch = refs/heads/main
