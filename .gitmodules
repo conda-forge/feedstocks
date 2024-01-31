@@ -85374,3 +85374,7 @@
 	url = https://github.com/conda-forge/whenever-feedstock.git
 	path = feedstocks/whenever
 	branch = refs/heads/main
+[submodule "kiss-headers"]
+	url = https://github.com/conda-forge/kiss-headers-feedstock.git
+	path = feedstocks/kiss-headers
+	branch = refs/heads/main
