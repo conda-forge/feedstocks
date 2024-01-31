@@ -85342,3 +85342,7 @@
 	url = https://github.com/conda-forge/heliclockter-feedstock.git
 	path = feedstocks/heliclockter
 	branch = refs/heads/main
+[submodule "git-changelog"]
+	url = https://github.com/conda-forge/git-changelog-feedstock.git
+	path = feedstocks/git-changelog
+	branch = refs/heads/main
