@@ -85358,3 +85358,7 @@
 	url = https://github.com/conda-forge/gordias-feedstock.git
 	path = feedstocks/gordias
 	branch = refs/heads/main
+[submodule "sqlite-anyio"]
+	url = https://github.com/conda-forge/sqlite-anyio-feedstock.git
+	path = feedstocks/sqlite-anyio
+	branch = refs/heads/main
