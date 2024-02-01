@@ -85402,3 +85402,7 @@
 	url = https://github.com/conda-forge/ndx-pose-feedstock.git
 	path = feedstocks/ndx-pose
 	branch = refs/heads/main
+[submodule "ddd_subplots"]
+	url = https://github.com/conda-forge/ddd_subplots-feedstock.git
+	path = feedstocks/ddd_subplots
+	branch = refs/heads/main
