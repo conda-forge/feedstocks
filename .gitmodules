@@ -85414,3 +85414,7 @@
 	url = https://github.com/conda-forge/embiggen-feedstock.git
 	path = feedstocks/embiggen
 	branch = refs/heads/main
+[submodule "sanitize_ml_labels"]
+	url = https://github.com/conda-forge/sanitize_ml_labels-feedstock.git
+	path = feedstocks/sanitize_ml_labels
+	branch = refs/heads/main
