@@ -85398,3 +85398,7 @@
 	url = https://github.com/conda-forge/interactivefitting-feedstock.git
 	path = feedstocks/interactivefitting
 	branch = refs/heads/main
+[submodule "ndx-pose"]
+	url = https://github.com/conda-forge/ndx-pose-feedstock.git
+	path = feedstocks/ndx-pose
+	branch = refs/heads/main
