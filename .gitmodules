@@ -85410,3 +85410,7 @@
 	url = https://github.com/conda-forge/grape-feedstock.git
 	path = feedstocks/grape
 	branch = refs/heads/main
+[submodule "embiggen"]
+	url = https://github.com/conda-forge/embiggen-feedstock.git
+	path = feedstocks/embiggen
+	branch = refs/heads/main
