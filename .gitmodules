@@ -85434,3 +85434,7 @@
 	url = https://github.com/conda-forge/nanoarrow-feedstock.git
 	path = feedstocks/nanoarrow
 	branch = refs/heads/main
+[submodule "sqlalchemy-access"]
+	url = https://github.com/conda-forge/sqlalchemy-access-feedstock.git
+	path = feedstocks/sqlalchemy-access
+	branch = refs/heads/main
