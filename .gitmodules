@@ -85438,3 +85438,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-access-feedstock.git
 	path = feedstocks/sqlalchemy-access
 	branch = refs/heads/main
+[submodule "seasocks"]
+	url = https://github.com/conda-forge/seasocks-feedstock.git
+	path = feedstocks/seasocks
+	branch = refs/heads/main
