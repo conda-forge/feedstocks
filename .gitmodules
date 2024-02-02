@@ -85430,3 +85430,7 @@
 	url = https://github.com/conda-forge/dirtyjson-feedstock.git
 	path = feedstocks/dirtyjson
 	branch = refs/heads/main
+[submodule "nanoarrow"]
+	url = https://github.com/conda-forge/nanoarrow-feedstock.git
+	path = feedstocks/nanoarrow
+	branch = refs/heads/main
