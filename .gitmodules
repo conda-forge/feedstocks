@@ -85442,3 +85442,7 @@
 	url = https://github.com/conda-forge/seasocks-feedstock.git
 	path = feedstocks/seasocks
 	branch = refs/heads/main
+[submodule "logtalk-jupyter-kernel"]
+	url = https://github.com/conda-forge/logtalk-jupyter-kernel-feedstock.git
+	path = feedstocks/logtalk-jupyter-kernel
+	branch = refs/heads/main
