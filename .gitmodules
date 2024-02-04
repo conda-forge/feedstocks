@@ -85458,3 +85458,7 @@
 	url = https://github.com/conda-forge/robotraconteur-feedstock.git
 	path = feedstocks/robotraconteur
 	branch = refs/heads/main
+[submodule "robotraconteur_companion"]
+	url = https://github.com/conda-forge/robotraconteur_companion-feedstock.git
+	path = feedstocks/robotraconteur_companion
+	branch = refs/heads/main
