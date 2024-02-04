@@ -85462,3 +85462,7 @@
 	url = https://github.com/conda-forge/robotraconteur_companion-feedstock.git
 	path = feedstocks/robotraconteur_companion
 	branch = refs/heads/main
+[submodule "jaxsim"]
+	url = https://github.com/conda-forge/jaxsim-feedstock.git
+	path = feedstocks/jaxsim
+	branch = refs/heads/main
