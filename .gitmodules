@@ -85466,3 +85466,7 @@
 	url = https://github.com/conda-forge/jaxsim-feedstock.git
 	path = feedstocks/jaxsim
 	branch = refs/heads/main
+[submodule "zospy"]
+	url = https://github.com/conda-forge/zospy-feedstock.git
+	path = feedstocks/zospy
+	branch = refs/heads/main
