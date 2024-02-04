@@ -85454,3 +85454,7 @@
 	url = https://github.com/conda-forge/r-getip-feedstock.git
 	path = feedstocks/r-getip
 	branch = refs/heads/main
+[submodule "robotraconteur"]
+	url = https://github.com/conda-forge/robotraconteur-feedstock.git
+	path = feedstocks/robotraconteur
+	branch = refs/heads/main
