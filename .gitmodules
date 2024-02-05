@@ -85518,3 +85518,7 @@
 	url = https://github.com/conda-forge/repro-tarfile-feedstock.git
 	path = feedstocks/repro-tarfile
 	branch = refs/heads/main
+[submodule "wagtail-periodic-review"]
+	url = https://github.com/conda-forge/wagtail-periodic-review-feedstock.git
+	path = feedstocks/wagtail-periodic-review
+	branch = refs/heads/main
