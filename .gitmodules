@@ -85534,3 +85534,7 @@
 	url = https://github.com/conda-forge/django-todo-feedstock.git
 	path = feedstocks/django-todo
 	branch = refs/heads/main
+[submodule "wagtail-app-pages"]
+	url = https://github.com/conda-forge/wagtail-app-pages-feedstock.git
+	path = feedstocks/wagtail-app-pages
+	branch = refs/heads/main
