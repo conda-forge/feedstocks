@@ -85586,3 +85586,7 @@
 	url = https://github.com/conda-forge/wagtailgridder-feedstock.git
 	path = feedstocks/wagtailgridder
 	branch = refs/heads/main
+[submodule "wagtail-surveyjs"]
+	url = https://github.com/conda-forge/wagtail-surveyjs-feedstock.git
+	path = feedstocks/wagtail-surveyjs
+	branch = refs/heads/main
