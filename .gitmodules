@@ -85506,3 +85506,7 @@
 	url = https://github.com/conda-forge/pyospackage-feedstock.git
 	path = feedstocks/pyospackage
 	branch = refs/heads/main
+[submodule "wagtail-ai"]
+	url = https://github.com/conda-forge/wagtail-ai-feedstock.git
+	path = feedstocks/wagtail-ai
+	branch = refs/heads/main
