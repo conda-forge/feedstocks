@@ -85594,3 +85594,7 @@
 	url = https://github.com/conda-forge/wagtail-trash-feedstock.git
 	path = feedstocks/wagtail-trash
 	branch = refs/heads/main
+[submodule "wagtail-color-panel"]
+	url = https://github.com/conda-forge/wagtail-color-panel-feedstock.git
+	path = feedstocks/wagtail-color-panel
+	branch = refs/heads/main
