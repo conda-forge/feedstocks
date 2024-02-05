@@ -85554,3 +85554,7 @@
 	url = https://github.com/conda-forge/wagtailnews-feedstock.git
 	path = feedstocks/wagtailnews
 	branch = refs/heads/main
+[submodule "wagtail-taggable"]
+	url = https://github.com/conda-forge/wagtail-taggable-feedstock.git
+	path = feedstocks/wagtail-taggable
+	branch = refs/heads/main
