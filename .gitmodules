@@ -85490,3 +85490,7 @@
 	url = https://github.com/conda-forge/django-events-timetable-feedstock.git
 	path = feedstocks/django-events-timetable
 	branch = refs/heads/main
+[submodule "single-sample-gsea"]
+	url = https://github.com/conda-forge/single-sample-gsea-feedstock.git
+	path = feedstocks/single-sample-gsea
+	branch = refs/heads/main
