@@ -85566,3 +85566,7 @@
 	url = https://github.com/conda-forge/wagtailmedia-feedstock.git
 	path = feedstocks/wagtailmedia
 	branch = refs/heads/main
+[submodule "wagtail-transfer"]
+	url = https://github.com/conda-forge/wagtail-transfer-feedstock.git
+	path = feedstocks/wagtail-transfer
+	branch = refs/heads/main
