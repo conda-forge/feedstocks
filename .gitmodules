@@ -85494,3 +85494,7 @@
 	url = https://github.com/conda-forge/single-sample-gsea-feedstock.git
 	path = feedstocks/single-sample-gsea
 	branch = refs/heads/main
+[submodule "dvg-ringbuffer"]
+	url = https://github.com/conda-forge/dvg-ringbuffer-feedstock.git
+	path = feedstocks/dvg-ringbuffer
+	branch = refs/heads/main
