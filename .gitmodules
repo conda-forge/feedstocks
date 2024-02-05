@@ -85486,3 +85486,7 @@
 	url = https://github.com/conda-forge/bloaty-feedstock.git
 	path = feedstocks/bloaty
 	branch = refs/heads/main
+[submodule "django-events-timetable"]
+	url = https://github.com/conda-forge/django-events-timetable-feedstock.git
+	path = feedstocks/django-events-timetable
+	branch = refs/heads/main
