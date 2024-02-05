@@ -85482,3 +85482,7 @@
 	url = https://github.com/conda-forge/django-flags-feedstock.git
 	path = feedstocks/django-flags
 	branch = refs/heads/main
+[submodule "bloaty"]
+	url = https://github.com/conda-forge/bloaty-feedstock.git
+	path = feedstocks/bloaty
+	branch = refs/heads/main
