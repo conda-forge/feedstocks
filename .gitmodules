@@ -85474,3 +85474,7 @@
 	url = https://github.com/conda-forge/capsula-feedstock.git
 	path = feedstocks/capsula
 	branch = refs/heads/main
+[submodule "harlequin-databricks"]
+	url = https://github.com/conda-forge/harlequin-databricks-feedstock.git
+	path = feedstocks/harlequin-databricks
+	branch = refs/heads/main
