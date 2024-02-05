@@ -85502,3 +85502,7 @@
 	url = https://github.com/conda-forge/bynder-sdk-feedstock.git
 	path = feedstocks/bynder-sdk
 	branch = refs/heads/main
+[submodule "pyospackage"]
+	url = https://github.com/conda-forge/pyospackage-feedstock.git
+	path = feedstocks/pyospackage
+	branch = refs/heads/main
