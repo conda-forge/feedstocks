@@ -85530,3 +85530,7 @@
 	url = https://github.com/conda-forge/wagtail-modeladmin-feedstock.git
 	path = feedstocks/wagtail-modeladmin
 	branch = refs/heads/main
+[submodule "django-todo"]
+	url = https://github.com/conda-forge/django-todo-feedstock.git
+	path = feedstocks/django-todo
+	branch = refs/heads/main
