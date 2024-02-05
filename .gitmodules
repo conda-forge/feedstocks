@@ -85498,3 +85498,7 @@
 	url = https://github.com/conda-forge/dvg-ringbuffer-feedstock.git
 	path = feedstocks/dvg-ringbuffer
 	branch = refs/heads/main
+[submodule "bynder-sdk"]
+	url = https://github.com/conda-forge/bynder-sdk-feedstock.git
+	path = feedstocks/bynder-sdk
+	branch = refs/heads/main
