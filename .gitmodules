@@ -85478,3 +85478,7 @@
 	url = https://github.com/conda-forge/harlequin-databricks-feedstock.git
 	path = feedstocks/harlequin-databricks
 	branch = refs/heads/main
+[submodule "django-flags"]
+	url = https://github.com/conda-forge/django-flags-feedstock.git
+	path = feedstocks/django-flags
+	branch = refs/heads/main
