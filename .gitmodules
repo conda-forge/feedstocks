@@ -85538,3 +85538,7 @@
 	url = https://github.com/conda-forge/wagtail-app-pages-feedstock.git
 	path = feedstocks/wagtail-app-pages
 	branch = refs/heads/main
+[submodule "wagtail-generic-chooser"]
+	url = https://github.com/conda-forge/wagtail-generic-chooser-feedstock.git
+	path = feedstocks/wagtail-generic-chooser
+	branch = refs/heads/main
