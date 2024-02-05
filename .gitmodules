@@ -85514,3 +85514,7 @@
 	url = https://github.com/conda-forge/heroicons-feedstock.git
 	path = feedstocks/heroicons
 	branch = refs/heads/main
+[submodule "repro-tarfile"]
+	url = https://github.com/conda-forge/repro-tarfile-feedstock.git
+	path = feedstocks/repro-tarfile
+	branch = refs/heads/main
