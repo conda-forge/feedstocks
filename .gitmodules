@@ -85574,3 +85574,7 @@
 	url = https://github.com/conda-forge/wagtail-themes-feedstock.git
 	path = feedstocks/wagtail-themes
 	branch = refs/heads/main
+[submodule "wagtailcharts"]
+	url = https://github.com/conda-forge/wagtailcharts-feedstock.git
+	path = feedstocks/wagtailcharts
+	branch = refs/heads/main
