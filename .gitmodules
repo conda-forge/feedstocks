@@ -85590,3 +85590,7 @@
 	url = https://github.com/conda-forge/wagtail-surveyjs-feedstock.git
 	path = feedstocks/wagtail-surveyjs
 	branch = refs/heads/main
+[submodule "wagtail-trash"]
+	url = https://github.com/conda-forge/wagtail-trash-feedstock.git
+	path = feedstocks/wagtail-trash
+	branch = refs/heads/main
