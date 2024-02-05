@@ -85578,3 +85578,7 @@
 	url = https://github.com/conda-forge/wagtailcharts-feedstock.git
 	path = feedstocks/wagtailcharts
 	branch = refs/heads/main
+[submodule "wagtail-treemodeladmin"]
+	url = https://github.com/conda-forge/wagtail-treemodeladmin-feedstock.git
+	path = feedstocks/wagtail-treemodeladmin
+	branch = refs/heads/main
