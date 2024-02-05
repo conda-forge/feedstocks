@@ -85526,3 +85526,7 @@
 	url = https://github.com/conda-forge/django-solo-feedstock.git
 	path = feedstocks/django-solo
 	branch = refs/heads/main
+[submodule "wagtail-modeladmin"]
+	url = https://github.com/conda-forge/wagtail-modeladmin-feedstock.git
+	path = feedstocks/wagtail-modeladmin
+	branch = refs/heads/main
