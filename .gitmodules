@@ -85550,3 +85550,7 @@
 	url = https://github.com/conda-forge/wagtailstreamforms-feedstock.git
 	path = feedstocks/wagtailstreamforms
 	branch = refs/heads/main
+[submodule "wagtailnews"]
+	url = https://github.com/conda-forge/wagtailnews-feedstock.git
+	path = feedstocks/wagtailnews
+	branch = refs/heads/main
