@@ -85598,3 +85598,7 @@
 	url = https://github.com/conda-forge/wagtail-color-panel-feedstock.git
 	path = feedstocks/wagtail-color-panel
 	branch = refs/heads/main
+[submodule "mypy-boto3-glue"]
+	url = https://github.com/conda-forge/mypy-boto3-glue-feedstock.git
+	path = feedstocks/mypy-boto3-glue
+	branch = refs/heads/main
