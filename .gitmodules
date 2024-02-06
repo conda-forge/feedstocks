@@ -85650,3 +85650,7 @@
 	url = https://github.com/conda-forge/django-breeze-feedstock.git
 	path = feedstocks/django-breeze
 	branch = refs/heads/main
+[submodule "django-vite-plugin"]
+	url = https://github.com/conda-forge/django-vite-plugin-feedstock.git
+	path = feedstocks/django-vite-plugin
+	branch = refs/heads/main
