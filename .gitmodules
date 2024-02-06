@@ -85638,3 +85638,7 @@
 	url = https://github.com/conda-forge/inertia-django-feedstock.git
 	path = feedstocks/inertia-django
 	branch = refs/heads/main
+[submodule "pyjuliacall"]
+	url = https://github.com/conda-forge/pyjuliacall-feedstock.git
+	path = feedstocks/pyjuliacall
+	branch = refs/heads/main
