@@ -85630,3 +85630,7 @@
 	url = https://github.com/conda-forge/r-sbl-feedstock.git
 	path = feedstocks/r-sbl
 	branch = refs/heads/main
+[submodule "x-wr-timezone"]
+	url = https://github.com/conda-forge/x-wr-timezone-feedstock.git
+	path = feedstocks/x-wr-timezone
+	branch = refs/heads/main
