@@ -85658,3 +85658,7 @@
 	url = https://github.com/conda-forge/django-vite-feedstock.git
 	path = feedstocks/django-vite
 	branch = refs/heads/main
+[submodule "passhash"]
+	url = https://github.com/conda-forge/passhash-feedstock.git
+	path = feedstocks/passhash
+	branch = refs/heads/main
