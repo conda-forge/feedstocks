@@ -85666,3 +85666,7 @@
 	url = https://github.com/conda-forge/meamfit-feedstock.git
 	path = feedstocks/meamfit
 	branch = refs/heads/main
+[submodule "wagtail-cache"]
+	url = https://github.com/conda-forge/wagtail-cache-feedstock.git
+	path = feedstocks/wagtail-cache
+	branch = refs/heads/main
