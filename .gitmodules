@@ -85602,3 +85602,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-glue-feedstock.git
 	path = feedstocks/mypy-boto3-glue
 	branch = refs/heads/main
+[submodule "cobyqa"]
+	url = https://github.com/conda-forge/cobyqa-feedstock.git
+	path = feedstocks/cobyqa
+	branch = refs/heads/main
