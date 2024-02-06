@@ -85642,3 +85642,7 @@
 	url = https://github.com/conda-forge/pyjuliacall-feedstock.git
 	path = feedstocks/pyjuliacall
 	branch = refs/heads/main
+[submodule "pyjuliapkg"]
+	url = https://github.com/conda-forge/pyjuliapkg-feedstock.git
+	path = feedstocks/pyjuliapkg
+	branch = refs/heads/main
