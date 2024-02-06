@@ -85662,3 +85662,7 @@
 	url = https://github.com/conda-forge/passhash-feedstock.git
 	path = feedstocks/passhash
 	branch = refs/heads/main
+[submodule "meamfit"]
+	url = https://github.com/conda-forge/meamfit-feedstock.git
+	path = feedstocks/meamfit
+	branch = refs/heads/main
