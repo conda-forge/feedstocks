@@ -85622,3 +85622,7 @@
 	url = https://github.com/conda-forge/wagtail-knowledgebase-feedstock.git
 	path = feedstocks/wagtail-knowledgebase
 	branch = refs/heads/main
+[submodule "wagtail-review"]
+	url = https://github.com/conda-forge/wagtail-review-feedstock.git
+	path = feedstocks/wagtail-review
+	branch = refs/heads/main
