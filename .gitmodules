@@ -85610,3 +85610,7 @@
 	url = https://github.com/conda-forge/wagtail-linkchecker-feedstock.git
 	path = feedstocks/wagtail-linkchecker
 	branch = refs/heads/main
+[submodule "pycmtensor"]
+	url = https://github.com/conda-forge/pycmtensor-feedstock.git
+	path = feedstocks/pycmtensor
+	branch = refs/heads/main
