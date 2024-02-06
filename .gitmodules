@@ -85654,3 +85654,7 @@
 	url = https://github.com/conda-forge/django-vite-plugin-feedstock.git
 	path = feedstocks/django-vite-plugin
 	branch = refs/heads/main
+[submodule "django-vite"]
+	url = https://github.com/conda-forge/django-vite-feedstock.git
+	path = feedstocks/django-vite
+	branch = refs/heads/main
