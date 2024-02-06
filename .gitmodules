@@ -85634,3 +85634,7 @@
 	url = https://github.com/conda-forge/x-wr-timezone-feedstock.git
 	path = feedstocks/x-wr-timezone
 	branch = refs/heads/main
+[submodule "inertia-django"]
+	url = https://github.com/conda-forge/inertia-django-feedstock.git
+	path = feedstocks/inertia-django
+	branch = refs/heads/main
