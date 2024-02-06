@@ -85670,3 +85670,7 @@
 	url = https://github.com/conda-forge/wagtail-cache-feedstock.git
 	path = feedstocks/wagtail-cache
 	branch = refs/heads/main
+[submodule "wagtail-seo"]
+	url = https://github.com/conda-forge/wagtail-seo-feedstock.git
+	path = feedstocks/wagtail-seo
+	branch = refs/heads/main
