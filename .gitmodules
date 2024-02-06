@@ -85646,3 +85646,7 @@
 	url = https://github.com/conda-forge/pyjuliapkg-feedstock.git
 	path = feedstocks/pyjuliapkg
 	branch = refs/heads/main
+[submodule "django-breeze"]
+	url = https://github.com/conda-forge/django-breeze-feedstock.git
+	path = feedstocks/django-breeze
+	branch = refs/heads/main
