@@ -85626,3 +85626,7 @@
 	url = https://github.com/conda-forge/wagtail-review-feedstock.git
 	path = feedstocks/wagtail-review
 	branch = refs/heads/main
+[submodule "r-sbl"]
+	url = https://github.com/conda-forge/r-sbl-feedstock.git
+	path = feedstocks/r-sbl
+	branch = refs/heads/main
