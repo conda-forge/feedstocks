@@ -85606,3 +85606,7 @@
 	url = https://github.com/conda-forge/cobyqa-feedstock.git
 	path = feedstocks/cobyqa
 	branch = refs/heads/main
+[submodule "wagtail-linkchecker"]
+	url = https://github.com/conda-forge/wagtail-linkchecker-feedstock.git
+	path = feedstocks/wagtail-linkchecker
+	branch = refs/heads/main
