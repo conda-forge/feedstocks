@@ -85690,3 +85690,7 @@
 	url = https://github.com/conda-forge/hextools-feedstock.git
 	path = feedstocks/hextools
 	branch = refs/heads/main
+[submodule "sqlmermaid"]
+	url = https://github.com/conda-forge/sqlmermaid-feedstock.git
+	path = feedstocks/sqlmermaid
+	branch = refs/heads/main
