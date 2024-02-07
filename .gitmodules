@@ -85698,3 +85698,7 @@
 	url = https://github.com/conda-forge/gocommands-feedstock.git
 	path = feedstocks/gocommands
 	branch = refs/heads/main
+[submodule "pylance"]
+	url = https://github.com/conda-forge/pylance-feedstock.git
+	path = feedstocks/pylance
+	branch = refs/heads/main
