@@ -85686,3 +85686,7 @@
 	url = https://github.com/conda-forge/perl-number-format-feedstock.git
 	path = feedstocks/perl-number-format
 	branch = refs/heads/main
+[submodule "hextools"]
+	url = https://github.com/conda-forge/hextools-feedstock.git
+	path = feedstocks/hextools
+	branch = refs/heads/main
