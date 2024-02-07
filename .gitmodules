@@ -85714,3 +85714,7 @@
 	url = https://github.com/conda-forge/compas_robots-feedstock.git
 	path = feedstocks/compas_robots
 	branch = refs/heads/main
+[submodule "caldav"]
+	url = https://github.com/conda-forge/caldav-feedstock.git
+	path = feedstocks/caldav
+	branch = refs/heads/main
