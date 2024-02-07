@@ -85702,3 +85702,7 @@
 	url = https://github.com/conda-forge/pylance-feedstock.git
 	path = feedstocks/pylance
 	branch = refs/heads/main
+[submodule "ssh-audit"]
+	url = https://github.com/conda-forge/ssh-audit-feedstock.git
+	path = feedstocks/ssh-audit
+	branch = refs/heads/main
