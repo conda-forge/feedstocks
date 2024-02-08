@@ -85746,3 +85746,7 @@
 	url = https://github.com/conda-forge/geetools-feedstock.git
 	path = feedstocks/geetools
 	branch = refs/heads/main
+[submodule "python-ulid"]
+	url = https://github.com/conda-forge/python-ulid-feedstock.git
+	path = feedstocks/python-ulid
+	branch = refs/heads/main
