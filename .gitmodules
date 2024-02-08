@@ -85770,3 +85770,7 @@
 	url = https://github.com/conda-forge/r-supernova-feedstock.git
 	path = feedstocks/r-supernova
 	branch = refs/heads/main
+[submodule "helm-docs"]
+	url = https://github.com/conda-forge/helm-docs-feedstock.git
+	path = feedstocks/helm-docs
+	branch = refs/heads/main
