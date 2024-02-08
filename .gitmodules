@@ -85774,3 +85774,7 @@
 	url = https://github.com/conda-forge/helm-docs-feedstock.git
 	path = feedstocks/helm-docs
 	branch = refs/heads/main
+[submodule "r-robustgasp"]
+	url = https://github.com/conda-forge/r-robustgasp-feedstock.git
+	path = feedstocks/r-robustgasp
+	branch = refs/heads/main
