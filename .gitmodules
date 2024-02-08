@@ -85742,3 +85742,7 @@
 	url = https://github.com/conda-forge/tfcausalimpact-feedstock.git
 	path = feedstocks/tfcausalimpact
 	branch = refs/heads/main
+[submodule "geetools"]
+	url = https://github.com/conda-forge/geetools-feedstock.git
+	path = feedstocks/geetools
+	branch = refs/heads/main
