@@ -85758,3 +85758,7 @@
 	url = https://github.com/conda-forge/llm-feedstock.git
 	path = feedstocks/llm
 	branch = refs/heads/main
+[submodule "ai2-olmo"]
+	url = https://github.com/conda-forge/ai2-olmo-feedstock.git
+	path = feedstocks/ai2-olmo
+	branch = refs/heads/main
