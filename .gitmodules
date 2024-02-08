@@ -85730,3 +85730,7 @@
 	url = https://github.com/conda-forge/r-causalimpact-feedstock.git
 	path = feedstocks/r-causalimpact
 	branch = refs/heads/main
+[submodule "fastcrud"]
+	url = https://github.com/conda-forge/fastcrud-feedstock.git
+	path = feedstocks/fastcrud
+	branch = refs/heads/main
