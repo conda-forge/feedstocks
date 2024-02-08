@@ -85734,3 +85734,7 @@
 	url = https://github.com/conda-forge/fastcrud-feedstock.git
 	path = feedstocks/fastcrud
 	branch = refs/heads/main
+[submodule "typed-configparser"]
+	url = https://github.com/conda-forge/typed-configparser-feedstock.git
+	path = feedstocks/typed-configparser
+	branch = refs/heads/main
