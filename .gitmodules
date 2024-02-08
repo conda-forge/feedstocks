@@ -85762,3 +85762,7 @@
 	url = https://github.com/conda-forge/ai2-olmo-feedstock.git
 	path = feedstocks/ai2-olmo
 	branch = refs/heads/main
+[submodule "poe-api-wrapper"]
+	url = https://github.com/conda-forge/poe-api-wrapper-feedstock.git
+	path = feedstocks/poe-api-wrapper
+	branch = refs/heads/main
