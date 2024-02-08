@@ -85726,3 +85726,7 @@
 	url = https://github.com/conda-forge/lineax-feedstock.git
 	path = feedstocks/lineax
 	branch = refs/heads/main
+[submodule "r-causalimpact"]
+	url = https://github.com/conda-forge/r-causalimpact-feedstock.git
+	path = feedstocks/r-causalimpact
+	branch = refs/heads/main
