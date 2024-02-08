@@ -85738,3 +85738,7 @@
 	url = https://github.com/conda-forge/typed-configparser-feedstock.git
 	path = feedstocks/typed-configparser
 	branch = refs/heads/main
+[submodule "tfcausalimpact"]
+	url = https://github.com/conda-forge/tfcausalimpact-feedstock.git
+	path = feedstocks/tfcausalimpact
+	branch = refs/heads/main
