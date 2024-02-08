@@ -85750,3 +85750,7 @@
 	url = https://github.com/conda-forge/python-ulid-feedstock.git
 	path = feedstocks/python-ulid
 	branch = refs/heads/main
+[submodule "sqlite-migrate"]
+	url = https://github.com/conda-forge/sqlite-migrate-feedstock.git
+	path = feedstocks/sqlite-migrate
+	branch = refs/heads/main
