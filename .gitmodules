@@ -85754,3 +85754,7 @@
 	url = https://github.com/conda-forge/sqlite-migrate-feedstock.git
 	path = feedstocks/sqlite-migrate
 	branch = refs/heads/main
+[submodule "llm"]
+	url = https://github.com/conda-forge/llm-feedstock.git
+	path = feedstocks/llm
+	branch = refs/heads/main
