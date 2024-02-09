@@ -85810,3 +85810,7 @@
 	url = https://github.com/conda-forge/dmri-amico-feedstock.git
 	path = feedstocks/dmri-amico
 	branch = refs/heads/main
+[submodule "dmri-dicelib"]
+	url = https://github.com/conda-forge/dmri-dicelib-feedstock.git
+	path = feedstocks/dmri-dicelib
+	branch = refs/heads/main
