@@ -85806,3 +85806,7 @@
 	url = https://github.com/conda-forge/greykite-feedstock.git
 	path = feedstocks/greykite
 	branch = refs/heads/main
+[submodule "dmri-amico"]
+	url = https://github.com/conda-forge/dmri-amico-feedstock.git
+	path = feedstocks/dmri-amico
+	branch = refs/heads/main
