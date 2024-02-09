@@ -85830,3 +85830,7 @@
 	url = https://github.com/conda-forge/vulp-feedstock.git
 	path = feedstocks/vulp
 	branch = refs/heads/main
+[submodule "laces"]
+	url = https://github.com/conda-forge/laces-feedstock.git
+	path = feedstocks/laces
+	branch = refs/heads/main
