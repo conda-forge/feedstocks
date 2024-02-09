@@ -85838,3 +85838,7 @@
 	url = https://github.com/conda-forge/holidays-ext-feedstock.git
 	path = feedstocks/holidays-ext
 	branch = refs/heads/main
+[submodule "robotframework-mqttlibrary"]
+	url = https://github.com/conda-forge/robotframework-mqttlibrary-feedstock.git
+	path = feedstocks/robotframework-mqttlibrary
+	branch = refs/heads/main
