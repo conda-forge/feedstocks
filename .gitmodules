@@ -85818,3 +85818,7 @@
 	url = https://github.com/conda-forge/brainglobe-space-feedstock.git
 	path = feedstocks/brainglobe-space
 	branch = refs/heads/main
+[submodule "mdp"]
+	url = https://github.com/conda-forge/mdp-feedstock.git
+	path = feedstocks/mdp
+	branch = refs/heads/main
