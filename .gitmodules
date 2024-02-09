@@ -85794,3 +85794,7 @@
 	url = https://github.com/conda-forge/fluidfft-builder-feedstock.git
 	path = feedstocks/fluidfft-builder
 	branch = refs/heads/main
+[submodule "pydlm"]
+	url = https://github.com/conda-forge/pydlm-feedstock.git
+	path = feedstocks/pydlm
+	branch = refs/heads/main
