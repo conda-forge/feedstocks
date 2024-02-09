@@ -85790,3 +85790,7 @@
 	url = https://github.com/conda-forge/segalign-feedstock.git
 	path = feedstocks/segalign
 	branch = refs/heads/main
+[submodule "fluidfft-builder"]
+	url = https://github.com/conda-forge/fluidfft-builder-feedstock.git
+	path = feedstocks/fluidfft-builder
+	branch = refs/heads/main
