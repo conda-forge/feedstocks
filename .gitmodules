@@ -85814,3 +85814,7 @@
 	url = https://github.com/conda-forge/dmri-dicelib-feedstock.git
 	path = feedstocks/dmri-dicelib
 	branch = refs/heads/main
+[submodule "brainglobe-space"]
+	url = https://github.com/conda-forge/brainglobe-space-feedstock.git
+	path = feedstocks/brainglobe-space
+	branch = refs/heads/main
