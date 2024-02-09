@@ -85786,3 +85786,7 @@
 	url = https://github.com/conda-forge/google-cloud-cpp-compute-feedstock.git
 	path = feedstocks/google-cloud-cpp-compute
 	branch = refs/heads/main
+[submodule "segalign"]
+	url = https://github.com/conda-forge/segalign-feedstock.git
+	path = feedstocks/segalign
+	branch = refs/heads/main
