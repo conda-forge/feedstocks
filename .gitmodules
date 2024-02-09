@@ -85842,3 +85842,7 @@
 	url = https://github.com/conda-forge/robotframework-mqttlibrary-feedstock.git
 	path = feedstocks/robotframework-mqttlibrary
 	branch = refs/heads/main
+[submodule "birka"]
+	url = https://github.com/conda-forge/birka-feedstock.git
+	path = feedstocks/birka
+	branch = refs/heads/main
