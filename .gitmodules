@@ -85822,3 +85822,7 @@
 	url = https://github.com/conda-forge/mdp-feedstock.git
 	path = feedstocks/mdp
 	branch = refs/heads/main
+[submodule "pyberny"]
+	url = https://github.com/conda-forge/pyberny-feedstock.git
+	path = feedstocks/pyberny
+	branch = refs/heads/main
