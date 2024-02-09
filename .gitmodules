@@ -85834,3 +85834,7 @@
 	url = https://github.com/conda-forge/laces-feedstock.git
 	path = feedstocks/laces
 	branch = refs/heads/main
+[submodule "holidays-ext"]
+	url = https://github.com/conda-forge/holidays-ext-feedstock.git
+	path = feedstocks/holidays-ext
+	branch = refs/heads/main
