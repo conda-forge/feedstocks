@@ -85782,3 +85782,7 @@
 	url = https://github.com/conda-forge/optimistix-feedstock.git
 	path = feedstocks/optimistix
 	branch = refs/heads/main
+[submodule "google-cloud-cpp-compute"]
+	url = https://github.com/conda-forge/google-cloud-cpp-compute-feedstock.git
+	path = feedstocks/google-cloud-cpp-compute
+	branch = refs/heads/main
