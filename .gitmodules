@@ -85802,3 +85802,7 @@
 	url = https://github.com/conda-forge/tico-feedstock.git
 	path = feedstocks/tico
 	branch = refs/heads/main
+[submodule "greykite"]
+	url = https://github.com/conda-forge/greykite-feedstock.git
+	path = feedstocks/greykite
+	branch = refs/heads/main
