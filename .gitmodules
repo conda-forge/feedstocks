@@ -85870,3 +85870,7 @@
 	url = https://github.com/conda-forge/granian-feedstock.git
 	path = feedstocks/granian
 	branch = refs/heads/main
+[submodule "google-cloud-cpp-bigquery"]
+	url = https://github.com/conda-forge/google-cloud-cpp-bigquery-feedstock.git
+	path = feedstocks/google-cloud-cpp-bigquery
+	branch = refs/heads/main
