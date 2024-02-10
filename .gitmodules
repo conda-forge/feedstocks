@@ -85894,3 +85894,7 @@
 	url = https://github.com/conda-forge/kthread-feedstock.git
 	path = feedstocks/kthread
 	branch = refs/heads/main
+[submodule "django-plotly-dash"]
+	url = https://github.com/conda-forge/django-plotly-dash-feedstock.git
+	path = feedstocks/django-plotly-dash
+	branch = refs/heads/main
