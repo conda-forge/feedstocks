@@ -85902,3 +85902,7 @@
 	url = https://github.com/conda-forge/vala-feedstock.git
 	path = feedstocks/vala
 	branch = refs/heads/main
+[submodule "django-plotly-wagtail"]
+	url = https://github.com/conda-forge/django-plotly-wagtail-feedstock.git
+	path = feedstocks/django-plotly-wagtail
+	branch = refs/heads/main
