@@ -85878,3 +85878,7 @@
 	url = https://github.com/conda-forge/google-cloud-cpp-ai-feedstock.git
 	path = feedstocks/google-cloud-cpp-ai
 	branch = refs/heads/main
+[submodule "taipy-templates"]
+	url = https://github.com/conda-forge/taipy-templates-feedstock.git
+	path = feedstocks/taipy-templates
+	branch = refs/heads/main
