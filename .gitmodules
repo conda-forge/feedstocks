@@ -85846,3 +85846,7 @@
 	url = https://github.com/conda-forge/birka-feedstock.git
 	path = feedstocks/birka
 	branch = refs/heads/main
+[submodule "exonote"]
+	url = https://github.com/conda-forge/exonote-feedstock.git
+	path = feedstocks/exonote
+	branch = refs/heads/main
