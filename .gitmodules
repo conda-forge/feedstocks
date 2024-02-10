@@ -85882,3 +85882,7 @@
 	url = https://github.com/conda-forge/taipy-templates-feedstock.git
 	path = feedstocks/taipy-templates
 	branch = refs/heads/main
+[submodule "wagtail-tag-manager"]
+	url = https://github.com/conda-forge/wagtail-tag-manager-feedstock.git
+	path = feedstocks/wagtail-tag-manager
+	branch = refs/heads/main
