@@ -85874,3 +85874,7 @@
 	url = https://github.com/conda-forge/google-cloud-cpp-bigquery-feedstock.git
 	path = feedstocks/google-cloud-cpp-bigquery
 	branch = refs/heads/main
+[submodule "google-cloud-cpp-ai"]
+	url = https://github.com/conda-forge/google-cloud-cpp-ai-feedstock.git
+	path = feedstocks/google-cloud-cpp-ai
+	branch = refs/heads/main
