@@ -85890,3 +85890,7 @@
 	url = https://github.com/conda-forge/h2o-lightwave-web-feedstock.git
 	path = feedstocks/h2o-lightwave-web
 	branch = refs/heads/main
+[submodule "kthread"]
+	url = https://github.com/conda-forge/kthread-feedstock.git
+	path = feedstocks/kthread
+	branch = refs/heads/main
