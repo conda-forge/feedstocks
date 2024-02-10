@@ -85862,3 +85862,7 @@
 	url = https://github.com/conda-forge/httpx-negotiate-sspi-feedstock.git
 	path = feedstocks/httpx-negotiate-sspi
 	branch = refs/heads/main
+[submodule "django-cte"]
+	url = https://github.com/conda-forge/django-cte-feedstock.git
+	path = feedstocks/django-cte
+	branch = refs/heads/main
