@@ -85886,3 +85886,7 @@
 	url = https://github.com/conda-forge/wagtail-tag-manager-feedstock.git
 	path = feedstocks/wagtail-tag-manager
 	branch = refs/heads/main
+[submodule "h2o-lightwave-web"]
+	url = https://github.com/conda-forge/h2o-lightwave-web-feedstock.git
+	path = feedstocks/h2o-lightwave-web
+	branch = refs/heads/main
