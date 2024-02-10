@@ -85850,3 +85850,7 @@
 	url = https://github.com/conda-forge/exonote-feedstock.git
 	path = feedstocks/exonote
 	branch = refs/heads/main
+[submodule "httpx-ntlm"]
+	url = https://github.com/conda-forge/httpx-ntlm-feedstock.git
+	path = feedstocks/httpx-ntlm
+	branch = refs/heads/main
