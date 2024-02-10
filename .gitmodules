@@ -85854,3 +85854,7 @@
 	url = https://github.com/conda-forge/httpx-ntlm-feedstock.git
 	path = feedstocks/httpx-ntlm
 	branch = refs/heads/main
+[submodule "django-constance"]
+	url = https://github.com/conda-forge/django-constance-feedstock.git
+	path = feedstocks/django-constance
+	branch = refs/heads/main
