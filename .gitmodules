@@ -85858,3 +85858,7 @@
 	url = https://github.com/conda-forge/django-constance-feedstock.git
 	path = feedstocks/django-constance
 	branch = refs/heads/main
+[submodule "httpx-negotiate-sspi"]
+	url = https://github.com/conda-forge/httpx-negotiate-sspi-feedstock.git
+	path = feedstocks/httpx-negotiate-sspi
+	branch = refs/heads/main
