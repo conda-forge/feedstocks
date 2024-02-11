@@ -85922,3 +85922,7 @@
 	url = https://github.com/conda-forge/openllm-core-feedstock.git
 	path = feedstocks/openllm-core
 	branch = refs/heads/main
+[submodule "toolong"]
+	url = https://github.com/conda-forge/toolong-feedstock.git
+	path = feedstocks/toolong
+	branch = refs/heads/main
