@@ -85942,3 +85942,7 @@
 	url = https://github.com/conda-forge/ploomber-extension-feedstock.git
 	path = feedstocks/ploomber-extension
 	branch = refs/heads/main
+[submodule "argbash"]
+	url = https://github.com/conda-forge/argbash-feedstock.git
+	path = feedstocks/argbash
+	branch = refs/heads/main
