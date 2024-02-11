@@ -85910,3 +85910,7 @@
 	url = https://github.com/conda-forge/openllm-playground-feedstock.git
 	path = feedstocks/openllm-playground
 	branch = refs/heads/main
+[submodule "openllm-client"]
+	url = https://github.com/conda-forge/openllm-client-feedstock.git
+	path = feedstocks/openllm-client
+	branch = refs/heads/main
