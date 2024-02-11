@@ -85926,3 +85926,7 @@
 	url = https://github.com/conda-forge/toolong-feedstock.git
 	path = feedstocks/toolong
 	branch = refs/heads/main
+[submodule "cfenv"]
+	url = https://github.com/conda-forge/cfenv-feedstock.git
+	path = feedstocks/cfenv
+	branch = refs/heads/main
