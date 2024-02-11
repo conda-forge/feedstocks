@@ -85918,3 +85918,7 @@
 	url = https://github.com/conda-forge/openllm-feedstock.git
 	path = feedstocks/openllm
 	branch = refs/heads/main
+[submodule "openllm-core"]
+	url = https://github.com/conda-forge/openllm-core-feedstock.git
+	path = feedstocks/openllm-core
+	branch = refs/heads/main
