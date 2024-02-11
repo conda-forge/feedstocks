@@ -85906,3 +85906,7 @@
 	url = https://github.com/conda-forge/django-plotly-wagtail-feedstock.git
 	path = feedstocks/django-plotly-wagtail
 	branch = refs/heads/main
+[submodule "openllm-playground"]
+	url = https://github.com/conda-forge/openllm-playground-feedstock.git
+	path = feedstocks/openllm-playground
+	branch = refs/heads/main
