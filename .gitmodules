@@ -85934,3 +85934,7 @@
 	url = https://github.com/conda-forge/phidata-feedstock.git
 	path = feedstocks/phidata
 	branch = refs/heads/main
+[submodule "validate-pyproject"]
+	url = https://github.com/conda-forge/validate-pyproject-feedstock.git
+	path = feedstocks/validate-pyproject
+	branch = refs/heads/main
