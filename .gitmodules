@@ -85930,3 +85930,7 @@
 	url = https://github.com/conda-forge/cfenv-feedstock.git
 	path = feedstocks/cfenv
 	branch = refs/heads/main
+[submodule "phidata"]
+	url = https://github.com/conda-forge/phidata-feedstock.git
+	path = feedstocks/phidata
+	branch = refs/heads/main
