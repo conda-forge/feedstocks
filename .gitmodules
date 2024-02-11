@@ -85938,3 +85938,7 @@
 	url = https://github.com/conda-forge/validate-pyproject-feedstock.git
 	path = feedstocks/validate-pyproject
 	branch = refs/heads/main
+[submodule "ploomber-extension"]
+	url = https://github.com/conda-forge/ploomber-extension-feedstock.git
+	path = feedstocks/ploomber-extension
+	branch = refs/heads/main
