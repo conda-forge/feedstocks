@@ -86014,3 +86014,7 @@
 	url = https://github.com/conda-forge/wagtail-blocks-feedstock.git
 	path = feedstocks/wagtail-blocks
 	branch = refs/heads/main
+[submodule "kanidm-clients"]
+	url = https://github.com/conda-forge/kanidm-clients-feedstock.git
+	path = feedstocks/kanidm-clients
+	branch = refs/heads/main
