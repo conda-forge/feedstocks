@@ -85950,3 +85950,7 @@
 	url = https://github.com/conda-forge/django-data-browser-feedstock.git
 	path = feedstocks/django-data-browser
 	branch = refs/heads/main
+[submodule "wagtail-font-awesome-svg"]
+	url = https://github.com/conda-forge/wagtail-font-awesome-svg-feedstock.git
+	path = feedstocks/wagtail-font-awesome-svg
+	branch = refs/heads/main
