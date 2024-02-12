@@ -85966,3 +85966,7 @@
 	url = https://github.com/conda-forge/wagtail-grapple-feedstock.git
 	path = feedstocks/wagtail-grapple
 	branch = refs/heads/main
+[submodule "django-wildewidgets"]
+	url = https://github.com/conda-forge/django-wildewidgets-feedstock.git
+	path = feedstocks/django-wildewidgets
+	branch = refs/heads/main
