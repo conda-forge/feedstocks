@@ -86030,3 +86030,7 @@
 	url = https://github.com/conda-forge/r-iheatmapr-feedstock.git
 	path = feedstocks/r-iheatmapr
 	branch = refs/heads/main
+[submodule "universaltest"]
+	url = https://github.com/conda-forge/universaltest-feedstock.git
+	path = feedstocks/universaltest
+	branch = refs/heads/main
