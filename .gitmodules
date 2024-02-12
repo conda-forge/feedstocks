@@ -85982,3 +85982,7 @@
 	url = https://github.com/conda-forge/loki-logcli-feedstock.git
 	path = feedstocks/loki-logcli
 	branch = refs/heads/main
+[submodule "harmony-py"]
+	url = https://github.com/conda-forge/harmony-py-feedstock.git
+	path = feedstocks/harmony-py
+	branch = refs/heads/main
