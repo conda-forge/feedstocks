@@ -85978,3 +85978,7 @@
 	url = https://github.com/conda-forge/django-streamfield-feedstock.git
 	path = feedstocks/django-streamfield
 	branch = refs/heads/main
+[submodule "loki-logcli"]
+	url = https://github.com/conda-forge/loki-logcli-feedstock.git
+	path = feedstocks/loki-logcli
+	branch = refs/heads/main
