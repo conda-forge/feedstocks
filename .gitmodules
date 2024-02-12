@@ -86042,3 +86042,7 @@
 	url = https://github.com/conda-forge/wagtail-inventory-feedstock.git
 	path = feedstocks/wagtail-inventory
 	branch = refs/heads/main
+[submodule "quasiqueue"]
+	url = https://github.com/conda-forge/quasiqueue-feedstock.git
+	path = feedstocks/quasiqueue
+	branch = refs/heads/main
