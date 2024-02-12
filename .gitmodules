@@ -85962,3 +85962,7 @@
 	url = https://github.com/conda-forge/wagtail-headless-preview-feedstock.git
 	path = feedstocks/wagtail-headless-preview
 	branch = refs/heads/main
+[submodule "wagtail-grapple"]
+	url = https://github.com/conda-forge/wagtail-grapple-feedstock.git
+	path = feedstocks/wagtail-grapple
+	branch = refs/heads/main
