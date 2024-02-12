@@ -86034,3 +86034,7 @@
 	url = https://github.com/conda-forge/universaltest-feedstock.git
 	path = feedstocks/universaltest
 	branch = refs/heads/main
+[submodule "wagtail-flags"]
+	url = https://github.com/conda-forge/wagtail-flags-feedstock.git
+	path = feedstocks/wagtail-flags
+	branch = refs/heads/main
