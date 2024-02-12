@@ -86022,3 +86022,7 @@
 	url = https://github.com/conda-forge/rotary-embedding-torch-feedstock.git
 	path = feedstocks/rotary-embedding-torch
 	branch = refs/heads/main
+[submodule "exprparse"]
+	url = https://github.com/conda-forge/exprparse-feedstock.git
+	path = feedstocks/exprparse
+	branch = refs/heads/main
