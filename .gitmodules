@@ -86010,3 +86010,7 @@
 	url = https://github.com/conda-forge/wagtail-sharing-feedstock.git
 	path = feedstocks/wagtail-sharing
 	branch = refs/heads/main
+[submodule "wagtail-blocks"]
+	url = https://github.com/conda-forge/wagtail-blocks-feedstock.git
+	path = feedstocks/wagtail-blocks
+	branch = refs/heads/main
