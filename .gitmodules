@@ -86018,3 +86018,7 @@
 	url = https://github.com/conda-forge/kanidm-clients-feedstock.git
 	path = feedstocks/kanidm-clients
 	branch = refs/heads/main
+[submodule "rotary-embedding-torch"]
+	url = https://github.com/conda-forge/rotary-embedding-torch-feedstock.git
+	path = feedstocks/rotary-embedding-torch
+	branch = refs/heads/main
