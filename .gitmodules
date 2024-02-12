@@ -85954,3 +85954,7 @@
 	url = https://github.com/conda-forge/wagtail-font-awesome-svg-feedstock.git
 	path = feedstocks/wagtail-font-awesome-svg
 	branch = refs/heads/main
+[submodule "wagtail-accessibility"]
+	url = https://github.com/conda-forge/wagtail-accessibility-feedstock.git
+	path = feedstocks/wagtail-accessibility
+	branch = refs/heads/main
