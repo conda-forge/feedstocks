@@ -85990,3 +85990,7 @@
 	url = https://github.com/conda-forge/wagtail-storages-feedstock.git
 	path = feedstocks/wagtail-storages
 	branch = refs/heads/main
+[submodule "wagtail-nav-menus"]
+	url = https://github.com/conda-forge/wagtail-nav-menus-feedstock.git
+	path = feedstocks/wagtail-nav-menus
+	branch = refs/heads/main
