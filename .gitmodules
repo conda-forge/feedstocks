@@ -85946,3 +85946,7 @@
 	url = https://github.com/conda-forge/argbash-feedstock.git
 	path = feedstocks/argbash
 	branch = refs/heads/main
+[submodule "django-data-browser"]
+	url = https://github.com/conda-forge/django-data-browser-feedstock.git
+	path = feedstocks/django-data-browser
+	branch = refs/heads/main
