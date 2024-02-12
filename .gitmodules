@@ -85986,3 +85986,7 @@
 	url = https://github.com/conda-forge/harmony-py-feedstock.git
 	path = feedstocks/harmony-py
 	branch = refs/heads/main
+[submodule "wagtail-storages"]
+	url = https://github.com/conda-forge/wagtail-storages-feedstock.git
+	path = feedstocks/wagtail-storages
+	branch = refs/heads/main
