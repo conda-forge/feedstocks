@@ -85994,3 +85994,7 @@
 	url = https://github.com/conda-forge/wagtail-nav-menus-feedstock.git
 	path = feedstocks/wagtail-nav-menus
 	branch = refs/heads/main
+[submodule "wagtail-sb-admin-interface"]
+	url = https://github.com/conda-forge/wagtail-sb-admin-interface-feedstock.git
+	path = feedstocks/wagtail-sb-admin-interface
+	branch = refs/heads/main
