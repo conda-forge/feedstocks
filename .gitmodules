@@ -86006,3 +86006,7 @@
 	url = https://github.com/conda-forge/wagtail-rangefilter-feedstock.git
 	path = feedstocks/wagtail-rangefilter
 	branch = refs/heads/main
+[submodule "wagtail-sharing"]
+	url = https://github.com/conda-forge/wagtail-sharing-feedstock.git
+	path = feedstocks/wagtail-sharing
+	branch = refs/heads/main
