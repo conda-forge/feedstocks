@@ -86038,3 +86038,7 @@
 	url = https://github.com/conda-forge/wagtail-flags-feedstock.git
 	path = feedstocks/wagtail-flags
 	branch = refs/heads/main
+[submodule "wagtail-inventory"]
+	url = https://github.com/conda-forge/wagtail-inventory-feedstock.git
+	path = feedstocks/wagtail-inventory
+	branch = refs/heads/main
