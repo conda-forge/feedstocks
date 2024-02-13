@@ -86066,3 +86066,7 @@
 	url = https://github.com/conda-forge/exn-feedstock.git
 	path = feedstocks/exn
 	branch = refs/heads/main
+[submodule "django-webhook"]
+	url = https://github.com/conda-forge/django-webhook-feedstock.git
+	path = feedstocks/django-webhook
+	branch = refs/heads/main
