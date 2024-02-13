@@ -86062,3 +86062,7 @@
 	url = https://github.com/conda-forge/s1etad-feedstock.git
 	path = feedstocks/s1etad
 	branch = refs/heads/main
+[submodule "exn"]
+	url = https://github.com/conda-forge/exn-feedstock.git
+	path = feedstocks/exn
+	branch = refs/heads/main
