@@ -86050,3 +86050,7 @@
 	url = https://github.com/conda-forge/table-evaluator-feedstock.git
 	path = feedstocks/table-evaluator
 	branch = refs/heads/main
+[submodule "robotraconteur_companion_python"]
+	url = https://github.com/conda-forge/robotraconteur_companion_python-feedstock.git
+	path = feedstocks/robotraconteur_companion_python
+	branch = refs/heads/main
