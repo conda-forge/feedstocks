@@ -86070,3 +86070,7 @@
 	url = https://github.com/conda-forge/django-webhook-feedstock.git
 	path = feedstocks/django-webhook
 	branch = refs/heads/main
+[submodule "pypdfform"]
+	url = https://github.com/conda-forge/pypdfform-feedstock.git
+	path = feedstocks/pypdfform
+	branch = refs/heads/main
