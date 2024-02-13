@@ -86046,3 +86046,7 @@
 	url = https://github.com/conda-forge/quasiqueue-feedstock.git
 	path = feedstocks/quasiqueue
 	branch = refs/heads/main
+[submodule "table-evaluator"]
+	url = https://github.com/conda-forge/table-evaluator-feedstock.git
+	path = feedstocks/table-evaluator
+	branch = refs/heads/main
