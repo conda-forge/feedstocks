@@ -86054,3 +86054,7 @@
 	url = https://github.com/conda-forge/robotraconteur_companion_python-feedstock.git
 	path = feedstocks/robotraconteur_companion_python
 	branch = refs/heads/main
+[submodule "compas_timber"]
+	url = https://github.com/conda-forge/compas_timber-feedstock.git
+	path = feedstocks/compas_timber
+	branch = refs/heads/main
