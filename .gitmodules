@@ -86094,3 +86094,7 @@
 	url = https://github.com/conda-forge/cortecs-feedstock.git
 	path = feedstocks/cortecs
 	branch = refs/heads/main
+[submodule "finagg"]
+	url = https://github.com/conda-forge/finagg-feedstock.git
+	path = feedstocks/finagg
+	branch = refs/heads/main
