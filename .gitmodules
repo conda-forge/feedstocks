@@ -86090,3 +86090,7 @@
 	url = https://github.com/conda-forge/kinisi-feedstock.git
 	path = feedstocks/kinisi
 	branch = refs/heads/main
+[submodule "cortecs"]
+	url = https://github.com/conda-forge/cortecs-feedstock.git
+	path = feedstocks/cortecs
+	branch = refs/heads/main
