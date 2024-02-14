@@ -86082,3 +86082,7 @@
 	url = https://github.com/conda-forge/uravu-feedstock.git
 	path = feedstocks/uravu
 	branch = refs/heads/main
+[submodule "loadskernel"]
+	url = https://github.com/conda-forge/loadskernel-feedstock.git
+	path = feedstocks/loadskernel
+	branch = refs/heads/main
