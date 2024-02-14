@@ -86102,3 +86102,7 @@
 	url = https://github.com/conda-forge/fasthx-feedstock.git
 	path = feedstocks/fasthx
 	branch = refs/heads/main
+[submodule "sagemaker-code-editor"]
+	url = https://github.com/conda-forge/sagemaker-code-editor-feedstock.git
+	path = feedstocks/sagemaker-code-editor
+	branch = refs/heads/main
