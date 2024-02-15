@@ -86114,3 +86114,7 @@
 	url = https://github.com/conda-forge/coinbase-advanced-py-feedstock.git
 	path = feedstocks/coinbase-advanced-py
 	branch = refs/heads/main
+[submodule "pyassimp"]
+	url = https://github.com/conda-forge/pyassimp-feedstock.git
+	path = feedstocks/pyassimp
+	branch = refs/heads/main
