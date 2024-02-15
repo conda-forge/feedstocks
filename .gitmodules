@@ -86134,3 +86134,7 @@
 	url = https://github.com/conda-forge/json-schema-for-humans-feedstock.git
 	path = feedstocks/json-schema-for-humans
 	branch = refs/heads/main
+[submodule "typstfmt"]
+	url = https://github.com/conda-forge/typstfmt-feedstock.git
+	path = feedstocks/typstfmt
+	branch = refs/heads/main
