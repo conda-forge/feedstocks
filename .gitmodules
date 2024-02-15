@@ -86130,3 +86130,7 @@
 	url = https://github.com/conda-forge/iosacal-feedstock.git
 	path = feedstocks/iosacal
 	branch = refs/heads/main
+[submodule "json-schema-for-humans"]
+	url = https://github.com/conda-forge/json-schema-for-humans-feedstock.git
+	path = feedstocks/json-schema-for-humans
+	branch = refs/heads/main
