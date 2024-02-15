@@ -86154,3 +86154,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-langchain-feedstock.git
 	path = feedstocks/openinference-instrumentation-langchain
 	branch = refs/heads/main
+[submodule "openinference-instrumentation-bedrock"]
+	url = https://github.com/conda-forge/openinference-instrumentation-bedrock-feedstock.git
+	path = feedstocks/openinference-instrumentation-bedrock
+	branch = refs/heads/main
