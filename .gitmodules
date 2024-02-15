@@ -86122,3 +86122,7 @@
 	url = https://github.com/conda-forge/openinference-semantic-conventions-feedstock.git
 	path = feedstocks/openinference-semantic-conventions
 	branch = refs/heads/main
+[submodule "fluidfft-fftw"]
+	url = https://github.com/conda-forge/fluidfft-fftw-feedstock.git
+	path = feedstocks/fluidfft-fftw
+	branch = refs/heads/main
