@@ -86118,3 +86118,7 @@
 	url = https://github.com/conda-forge/pyassimp-feedstock.git
 	path = feedstocks/pyassimp
 	branch = refs/heads/main
+[submodule "openinference-semantic-conventions"]
+	url = https://github.com/conda-forge/openinference-semantic-conventions-feedstock.git
+	path = feedstocks/openinference-semantic-conventions
+	branch = refs/heads/main
