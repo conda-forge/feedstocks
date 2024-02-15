@@ -86126,3 +86126,7 @@
 	url = https://github.com/conda-forge/fluidfft-fftw-feedstock.git
 	path = feedstocks/fluidfft-fftw
 	branch = refs/heads/main
+[submodule "iosacal"]
+	url = https://github.com/conda-forge/iosacal-feedstock.git
+	path = feedstocks/iosacal
+	branch = refs/heads/main
