@@ -86106,3 +86106,7 @@
 	url = https://github.com/conda-forge/sagemaker-code-editor-feedstock.git
 	path = feedstocks/sagemaker-code-editor
 	branch = refs/heads/main
+[submodule "r-chatgpt"]
+	url = https://github.com/conda-forge/r-chatgpt-feedstock.git
+	path = feedstocks/r-chatgpt
+	branch = refs/heads/main
