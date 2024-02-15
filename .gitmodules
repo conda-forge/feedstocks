@@ -86138,3 +86138,7 @@
 	url = https://github.com/conda-forge/typstfmt-feedstock.git
 	path = feedstocks/typstfmt
 	branch = refs/heads/main
+[submodule "openinference-instrumentation-dspy"]
+	url = https://github.com/conda-forge/openinference-instrumentation-dspy-feedstock.git
+	path = feedstocks/openinference-instrumentation-dspy
+	branch = refs/heads/main
