@@ -86146,3 +86146,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-openai-feedstock.git
 	path = feedstocks/openinference-instrumentation-openai
 	branch = refs/heads/main
+[submodule "bayesopt"]
+	url = https://github.com/conda-forge/bayesopt-feedstock.git
+	path = feedstocks/bayesopt
+	branch = refs/heads/main
