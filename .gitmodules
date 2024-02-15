@@ -86158,3 +86158,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-bedrock-feedstock.git
 	path = feedstocks/openinference-instrumentation-bedrock
 	branch = refs/heads/main
+[submodule "ast-grep"]
+	url = https://github.com/conda-forge/ast-grep-feedstock.git
+	path = feedstocks/ast-grep
+	branch = refs/heads/main
