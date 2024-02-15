@@ -86142,3 +86142,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-dspy-feedstock.git
 	path = feedstocks/openinference-instrumentation-dspy
 	branch = refs/heads/main
+[submodule "openinference-instrumentation-openai"]
+	url = https://github.com/conda-forge/openinference-instrumentation-openai-feedstock.git
+	path = feedstocks/openinference-instrumentation-openai
+	branch = refs/heads/main
