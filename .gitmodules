@@ -86170,3 +86170,7 @@
 	url = https://github.com/conda-forge/runnerase-feedstock.git
 	path = feedstocks/runnerase
 	branch = refs/heads/main
+[submodule "openinference-instrumentation-llama-index"]
+	url = https://github.com/conda-forge/openinference-instrumentation-llama-index-feedstock.git
+	path = feedstocks/openinference-instrumentation-llama-index
+	branch = refs/heads/main
