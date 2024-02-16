@@ -86174,3 +86174,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-llama-index-feedstock.git
 	path = feedstocks/openinference-instrumentation-llama-index
 	branch = refs/heads/main
+[submodule "ctransformers"]
+	url = https://github.com/conda-forge/ctransformers-feedstock.git
+	path = feedstocks/ctransformers
+	branch = refs/heads/main
