@@ -86178,3 +86178,7 @@
 	url = https://github.com/conda-forge/ctransformers-feedstock.git
 	path = feedstocks/ctransformers
 	branch = refs/heads/main
+[submodule "vivid"]
+	url = https://github.com/conda-forge/vivid-feedstock.git
+	path = feedstocks/vivid
+	branch = refs/heads/main
