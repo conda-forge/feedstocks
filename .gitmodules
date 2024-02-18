@@ -86262,3 +86262,7 @@
 	url = https://github.com/conda-forge/csv2parquet-feedstock.git
 	path = feedstocks/csv2parquet
 	branch = refs/heads/main
+[submodule "parquet-metadata"]
+	url = https://github.com/conda-forge/parquet-metadata-feedstock.git
+	path = feedstocks/parquet-metadata
+	branch = refs/heads/main
