@@ -86286,3 +86286,7 @@
 	url = https://github.com/conda-forge/climb-onyx-client-feedstock.git
 	path = feedstocks/climb-onyx-client
 	branch = refs/heads/main
+[submodule "pdb2sql"]
+	url = https://github.com/conda-forge/pdb2sql-feedstock.git
+	path = feedstocks/pdb2sql
+	branch = refs/heads/main
