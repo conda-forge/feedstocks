@@ -86190,3 +86190,7 @@
 	url = https://github.com/conda-forge/karilang-kernel-feedstock.git
 	path = feedstocks/karilang-kernel
 	branch = refs/heads/main
+[submodule "ed25519-blake2b"]
+	url = https://github.com/conda-forge/ed25519-blake2b-feedstock.git
+	path = feedstocks/ed25519-blake2b
+	branch = refs/heads/main
