@@ -86222,3 +86222,7 @@
 	url = https://github.com/conda-forge/datasette-leaflet-feedstock.git
 	path = feedstocks/datasette-leaflet
 	branch = refs/heads/main
+[submodule "datasette-render-markdown"]
+	url = https://github.com/conda-forge/datasette-render-markdown-feedstock.git
+	path = feedstocks/datasette-render-markdown
+	branch = refs/heads/main
