@@ -86326,3 +86326,7 @@
 	url = https://github.com/conda-forge/datasette-enrichments-feedstock.git
 	path = feedstocks/datasette-enrichments
 	branch = refs/heads/main
+[submodule "db-to-sqlite"]
+	url = https://github.com/conda-forge/db-to-sqlite-feedstock.git
+	path = feedstocks/db-to-sqlite
+	branch = refs/heads/main
