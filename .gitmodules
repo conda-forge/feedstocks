@@ -86254,3 +86254,7 @@
 	url = https://github.com/conda-forge/datasette-parquet-feedstock.git
 	path = feedstocks/datasette-parquet
 	branch = refs/heads/main
+[submodule "selectolax"]
+	url = https://github.com/conda-forge/selectolax-feedstock.git
+	path = feedstocks/selectolax
+	branch = refs/heads/main
