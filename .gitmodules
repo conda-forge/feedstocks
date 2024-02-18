@@ -86238,3 +86238,7 @@
 	url = https://github.com/conda-forge/django-sql-dashboard-feedstock.git
 	path = feedstocks/django-sql-dashboard
 	branch = refs/heads/main
+[submodule "datasette-template-sql"]
+	url = https://github.com/conda-forge/datasette-template-sql-feedstock.git
+	path = feedstocks/datasette-template-sql
+	branch = refs/heads/main
