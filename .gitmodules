@@ -86270,3 +86270,7 @@
 	url = https://github.com/conda-forge/pyco2sys-feedstock.git
 	path = feedstocks/pyco2sys
 	branch = refs/heads/main
+[submodule "llama-index-llms-openai"]
+	url = https://github.com/conda-forge/llama-index-llms-openai-feedstock.git
+	path = feedstocks/llama-index-llms-openai
+	branch = refs/heads/main
