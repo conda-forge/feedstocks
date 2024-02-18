@@ -86210,3 +86210,7 @@
 	url = https://github.com/conda-forge/r-roloc-feedstock.git
 	path = feedstocks/r-roloc
 	branch = refs/heads/main
+[submodule "r-nanonext"]
+	url = https://github.com/conda-forge/r-nanonext-feedstock.git
+	path = feedstocks/r-nanonext
+	branch = refs/heads/main
