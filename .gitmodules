@@ -86282,3 +86282,7 @@
 	url = https://github.com/conda-forge/aixd-feedstock.git
 	path = feedstocks/aixd
 	branch = refs/heads/main
+[submodule "climb-onyx-client"]
+	url = https://github.com/conda-forge/climb-onyx-client-feedstock.git
+	path = feedstocks/climb-onyx-client
+	branch = refs/heads/main
