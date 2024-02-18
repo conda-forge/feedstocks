@@ -86202,3 +86202,7 @@
 	url = https://github.com/conda-forge/r-gpindex-feedstock.git
 	path = feedstocks/r-gpindex
 	branch = refs/heads/main
+[submodule "r-sps"]
+	url = https://github.com/conda-forge/r-sps-feedstock.git
+	path = feedstocks/r-sps
+	branch = refs/heads/main
