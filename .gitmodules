@@ -86250,3 +86250,7 @@
 	url = https://github.com/conda-forge/django-sql-explorer-feedstock.git
 	path = feedstocks/django-sql-explorer
 	branch = refs/heads/main
+[submodule "datasette-parquet"]
+	url = https://github.com/conda-forge/datasette-parquet-feedstock.git
+	path = feedstocks/datasette-parquet
+	branch = refs/heads/main
