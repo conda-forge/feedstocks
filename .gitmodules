@@ -86242,3 +86242,7 @@
 	url = https://github.com/conda-forge/datasette-template-sql-feedstock.git
 	path = feedstocks/datasette-template-sql
 	branch = refs/heads/main
+[submodule "datasette-insert"]
+	url = https://github.com/conda-forge/datasette-insert-feedstock.git
+	path = feedstocks/datasette-insert
+	branch = refs/heads/main
