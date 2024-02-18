@@ -86338,3 +86338,7 @@
 	url = https://github.com/conda-forge/tableauscraper-feedstock.git
 	path = feedstocks/tableauscraper
 	branch = refs/heads/main
+[submodule "llama-index-core"]
+	url = https://github.com/conda-forge/llama-index-core-feedstock.git
+	path = feedstocks/llama-index-core
+	branch = refs/heads/main
