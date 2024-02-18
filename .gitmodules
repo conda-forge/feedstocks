@@ -86322,3 +86322,7 @@
 	url = https://github.com/conda-forge/db-build-feedstock.git
 	path = feedstocks/db-build
 	branch = refs/heads/main
+[submodule "datasette-enrichments"]
+	url = https://github.com/conda-forge/datasette-enrichments-feedstock.git
+	path = feedstocks/datasette-enrichments
+	branch = refs/heads/main
