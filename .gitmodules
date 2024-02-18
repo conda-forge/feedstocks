@@ -86198,3 +86198,7 @@
 	url = https://github.com/conda-forge/r-piar-feedstock.git
 	path = feedstocks/r-piar
 	branch = refs/heads/main
+[submodule "r-gpindex"]
+	url = https://github.com/conda-forge/r-gpindex-feedstock.git
+	path = feedstocks/r-gpindex
+	branch = refs/heads/main
