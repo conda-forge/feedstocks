@@ -86302,3 +86302,7 @@
 	url = https://github.com/conda-forge/datasette-configure-fts-feedstock.git
 	path = feedstocks/datasette-configure-fts
 	branch = refs/heads/main
+[submodule "llamaindex-py-client"]
+	url = https://github.com/conda-forge/llamaindex-py-client-feedstock.git
+	path = feedstocks/llamaindex-py-client
+	branch = refs/heads/main
