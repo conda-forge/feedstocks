@@ -86194,3 +86194,7 @@
 	url = https://github.com/conda-forge/ed25519-blake2b-feedstock.git
 	path = feedstocks/ed25519-blake2b
 	branch = refs/heads/main
+[submodule "r-piar"]
+	url = https://github.com/conda-forge/r-piar-feedstock.git
+	path = feedstocks/r-piar
+	branch = refs/heads/main
