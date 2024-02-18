@@ -86258,3 +86258,7 @@
 	url = https://github.com/conda-forge/selectolax-feedstock.git
 	path = feedstocks/selectolax
 	branch = refs/heads/main
+[submodule "csv2parquet"]
+	url = https://github.com/conda-forge/csv2parquet-feedstock.git
+	path = feedstocks/csv2parquet
+	branch = refs/heads/main
