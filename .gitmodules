@@ -86330,3 +86330,7 @@
 	url = https://github.com/conda-forge/db-to-sqlite-feedstock.git
 	path = feedstocks/db-to-sqlite
 	branch = refs/heads/main
+[submodule "datasette-dashboards"]
+	url = https://github.com/conda-forge/datasette-dashboards-feedstock.git
+	path = feedstocks/datasette-dashboards
+	branch = refs/heads/main
