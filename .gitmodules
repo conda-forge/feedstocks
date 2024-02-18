@@ -86206,3 +86206,7 @@
 	url = https://github.com/conda-forge/r-sps-feedstock.git
 	path = feedstocks/r-sps
 	branch = refs/heads/main
+[submodule "r-roloc"]
+	url = https://github.com/conda-forge/r-roloc-feedstock.git
+	path = feedstocks/r-roloc
+	branch = refs/heads/main
