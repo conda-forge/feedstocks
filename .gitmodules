@@ -86294,3 +86294,7 @@
 	url = https://github.com/conda-forge/sqlite-history-feedstock.git
 	path = feedstocks/sqlite-history
 	branch = refs/heads/main
+[submodule "datasette-search-all"]
+	url = https://github.com/conda-forge/datasette-search-all-feedstock.git
+	path = feedstocks/datasette-search-all
+	branch = refs/heads/main
