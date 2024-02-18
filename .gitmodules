@@ -86318,3 +86318,7 @@
 	url = https://github.com/conda-forge/datasette-cluster-map-feedstock.git
 	path = feedstocks/datasette-cluster-map
 	branch = refs/heads/main
+[submodule "db-build"]
+	url = https://github.com/conda-forge/db-build-feedstock.git
+	path = feedstocks/db-build
+	branch = refs/heads/main
