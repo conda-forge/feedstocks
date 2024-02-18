@@ -86246,3 +86246,7 @@
 	url = https://github.com/conda-forge/datasette-insert-feedstock.git
 	path = feedstocks/datasette-insert
 	branch = refs/heads/main
+[submodule "django-sql-explorer"]
+	url = https://github.com/conda-forge/django-sql-explorer-feedstock.git
+	path = feedstocks/django-sql-explorer
+	branch = refs/heads/main
