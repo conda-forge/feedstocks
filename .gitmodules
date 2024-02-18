@@ -86218,3 +86218,7 @@
 	url = https://github.com/conda-forge/datasette-edit-schema-feedstock.git
 	path = feedstocks/datasette-edit-schema
 	branch = refs/heads/main
+[submodule "datasette-leaflet"]
+	url = https://github.com/conda-forge/datasette-leaflet-feedstock.git
+	path = feedstocks/datasette-leaflet
+	branch = refs/heads/main
