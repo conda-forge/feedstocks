@@ -86290,3 +86290,7 @@
 	url = https://github.com/conda-forge/pdb2sql-feedstock.git
 	path = feedstocks/pdb2sql
 	branch = refs/heads/main
+[submodule "sqlite-history"]
+	url = https://github.com/conda-forge/sqlite-history-feedstock.git
+	path = feedstocks/sqlite-history
+	branch = refs/heads/main
