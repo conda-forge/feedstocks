@@ -86266,3 +86266,7 @@
 	url = https://github.com/conda-forge/parquet-metadata-feedstock.git
 	path = feedstocks/parquet-metadata
 	branch = refs/heads/main
+[submodule "pyco2sys"]
+	url = https://github.com/conda-forge/pyco2sys-feedstock.git
+	path = feedstocks/pyco2sys
+	branch = refs/heads/main
