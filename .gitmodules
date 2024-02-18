@@ -86342,3 +86342,7 @@
 	url = https://github.com/conda-forge/llama-index-core-feedstock.git
 	path = feedstocks/llama-index-core
 	branch = refs/heads/main
+[submodule "datasette-scraper"]
+	url = https://github.com/conda-forge/datasette-scraper-feedstock.git
+	path = feedstocks/datasette-scraper
+	branch = refs/heads/main
