@@ -86334,3 +86334,7 @@
 	url = https://github.com/conda-forge/datasette-dashboards-feedstock.git
 	path = feedstocks/datasette-dashboards
 	branch = refs/heads/main
+[submodule "tableauscraper"]
+	url = https://github.com/conda-forge/tableauscraper-feedstock.git
+	path = feedstocks/tableauscraper
+	branch = refs/heads/main
