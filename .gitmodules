@@ -86226,3 +86226,7 @@
 	url = https://github.com/conda-forge/datasette-render-markdown-feedstock.git
 	path = feedstocks/datasette-render-markdown
 	branch = refs/heads/main
+[submodule "datasette-copyable"]
+	url = https://github.com/conda-forge/datasette-copyable-feedstock.git
+	path = feedstocks/datasette-copyable
+	branch = refs/heads/main
