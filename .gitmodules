@@ -86234,3 +86234,7 @@
 	url = https://github.com/conda-forge/datasette-nteract-data-explorer-feedstock.git
 	path = feedstocks/datasette-nteract-data-explorer
 	branch = refs/heads/main
+[submodule "django-sql-dashboard"]
+	url = https://github.com/conda-forge/django-sql-dashboard-feedstock.git
+	path = feedstocks/django-sql-dashboard
+	branch = refs/heads/main
