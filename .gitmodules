@@ -86230,3 +86230,7 @@
 	url = https://github.com/conda-forge/datasette-copyable-feedstock.git
 	path = feedstocks/datasette-copyable
 	branch = refs/heads/main
+[submodule "datasette-nteract-data-explorer"]
+	url = https://github.com/conda-forge/datasette-nteract-data-explorer-feedstock.git
+	path = feedstocks/datasette-nteract-data-explorer
+	branch = refs/heads/main
