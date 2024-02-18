@@ -86186,3 +86186,7 @@
 	url = https://github.com/conda-forge/bip-utils-feedstock.git
 	path = feedstocks/bip-utils
 	branch = refs/heads/main
+[submodule "karilang-kernel"]
+	url = https://github.com/conda-forge/karilang-kernel-feedstock.git
+	path = feedstocks/karilang-kernel
+	branch = refs/heads/main
