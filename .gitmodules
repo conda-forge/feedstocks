@@ -86182,3 +86182,7 @@
 	url = https://github.com/conda-forge/vivid-feedstock.git
 	path = feedstocks/vivid
 	branch = refs/heads/main
+[submodule "bip-utils"]
+	url = https://github.com/conda-forge/bip-utils-feedstock.git
+	path = feedstocks/bip-utils
+	branch = refs/heads/main
