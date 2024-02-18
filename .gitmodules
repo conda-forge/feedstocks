@@ -86278,3 +86278,7 @@
 	url = https://github.com/conda-forge/llama-index-program-openai-feedstock.git
 	path = feedstocks/llama-index-program-openai
 	branch = refs/heads/main
+[submodule "aixd"]
+	url = https://github.com/conda-forge/aixd-feedstock.git
+	path = feedstocks/aixd
+	branch = refs/heads/main
