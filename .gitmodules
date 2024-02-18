@@ -86314,3 +86314,7 @@
 	url = https://github.com/conda-forge/datasette-gunicorn-feedstock.git
 	path = feedstocks/datasette-gunicorn
 	branch = refs/heads/main
+[submodule "datasette-cluster-map"]
+	url = https://github.com/conda-forge/datasette-cluster-map-feedstock.git
+	path = feedstocks/datasette-cluster-map
+	branch = refs/heads/main
