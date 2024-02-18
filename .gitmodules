@@ -86298,3 +86298,7 @@
 	url = https://github.com/conda-forge/datasette-search-all-feedstock.git
 	path = feedstocks/datasette-search-all
 	branch = refs/heads/main
+[submodule "datasette-configure-fts"]
+	url = https://github.com/conda-forge/datasette-configure-fts-feedstock.git
+	path = feedstocks/datasette-configure-fts
+	branch = refs/heads/main
