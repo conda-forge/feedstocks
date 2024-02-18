@@ -86214,3 +86214,7 @@
 	url = https://github.com/conda-forge/r-nanonext-feedstock.git
 	path = feedstocks/r-nanonext
 	branch = refs/heads/main
+[submodule "datasette-edit-schema"]
+	url = https://github.com/conda-forge/datasette-edit-schema-feedstock.git
+	path = feedstocks/datasette-edit-schema
+	branch = refs/heads/main
