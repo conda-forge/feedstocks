@@ -86306,3 +86306,7 @@
 	url = https://github.com/conda-forge/llamaindex-py-client-feedstock.git
 	path = feedstocks/llamaindex-py-client
 	branch = refs/heads/main
+[submodule "datasette-statistics"]
+	url = https://github.com/conda-forge/datasette-statistics-feedstock.git
+	path = feedstocks/datasette-statistics
+	branch = refs/heads/main
