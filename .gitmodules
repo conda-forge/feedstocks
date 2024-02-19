@@ -86414,3 +86414,7 @@
 	url = https://github.com/conda-forge/stua-feedstock.git
 	path = feedstocks/stua
 	branch = refs/heads/main
+[submodule "julia-parsers"]
+	url = https://github.com/conda-forge/julia-parsers-feedstock.git
+	path = feedstocks/julia-parsers
+	branch = refs/heads/main
