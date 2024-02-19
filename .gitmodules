@@ -86370,3 +86370,7 @@
 	url = https://github.com/conda-forge/django-tex-feedstock.git
 	path = feedstocks/django-tex
 	branch = refs/heads/main
+[submodule "wagtail-constance"]
+	url = https://github.com/conda-forge/wagtail-constance-feedstock.git
+	path = feedstocks/wagtail-constance
+	branch = refs/heads/main
