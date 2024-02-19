@@ -86410,3 +86410,7 @@
 	url = https://github.com/conda-forge/lancedb-feedstock.git
 	path = feedstocks/lancedb
 	branch = refs/heads/main
+[submodule "stua"]
+	url = https://github.com/conda-forge/stua-feedstock.git
+	path = feedstocks/stua
+	branch = refs/heads/main
