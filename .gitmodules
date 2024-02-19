@@ -86382,3 +86382,7 @@
 	url = https://github.com/conda-forge/wagtail-pdf-feedstock.git
 	path = feedstocks/wagtail-pdf
 	branch = refs/heads/main
+[submodule "django-otlp-log-exporter"]
+	url = https://github.com/conda-forge/django-otlp-log-exporter-feedstock.git
+	path = feedstocks/django-otlp-log-exporter
+	branch = refs/heads/main
