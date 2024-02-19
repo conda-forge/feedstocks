@@ -86350,3 +86350,7 @@
 	url = https://github.com/conda-forge/delabella-feedstock.git
 	path = feedstocks/delabella
 	branch = refs/heads/main
+[submodule "openvsp-code-eli"]
+	url = https://github.com/conda-forge/openvsp-code-eli-feedstock.git
+	path = feedstocks/openvsp-code-eli
+	branch = refs/heads/main
