@@ -86346,3 +86346,7 @@
 	url = https://github.com/conda-forge/datasette-scraper-feedstock.git
 	path = feedstocks/datasette-scraper
 	branch = refs/heads/main
+[submodule "delabella"]
+	url = https://github.com/conda-forge/delabella-feedstock.git
+	path = feedstocks/delabella
+	branch = refs/heads/main
