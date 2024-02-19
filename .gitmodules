@@ -86426,3 +86426,7 @@
 	url = https://github.com/conda-forge/pytest-pythonpath-feedstock.git
 	path = feedstocks/pytest-pythonpath
 	branch = refs/heads/main
+[submodule "llama-index-embeddings-openai"]
+	url = https://github.com/conda-forge/llama-index-embeddings-openai-feedstock.git
+	path = feedstocks/llama-index-embeddings-openai
+	branch = refs/heads/main
