@@ -86390,3 +86390,7 @@
 	url = https://github.com/conda-forge/wagtail-experiments-feedstock.git
 	path = feedstocks/wagtail-experiments
 	branch = refs/heads/main
+[submodule "wagtail-live"]
+	url = https://github.com/conda-forge/wagtail-live-feedstock.git
+	path = feedstocks/wagtail-live
+	branch = refs/heads/main
