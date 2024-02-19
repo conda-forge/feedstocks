@@ -86430,3 +86430,7 @@
 	url = https://github.com/conda-forge/llama-index-embeddings-openai-feedstock.git
 	path = feedstocks/llama-index-embeddings-openai
 	branch = refs/heads/main
+[submodule "scripts"]
+	url = https://github.com/conda-forge/scripts-feedstock.git
+	path = feedstocks/scripts
+	branch = refs/heads/main
