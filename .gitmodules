@@ -86442,3 +86442,7 @@
 	url = https://github.com/conda-forge/hypofuzz-feedstock.git
 	path = feedstocks/hypofuzz
 	branch = refs/heads/main
+[submodule "pytest-integration"]
+	url = https://github.com/conda-forge/pytest-integration-feedstock.git
+	path = feedstocks/pytest-integration
+	branch = refs/heads/main
