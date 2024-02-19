@@ -86398,3 +86398,7 @@
 	url = https://github.com/conda-forge/django-weasyprint-feedstock.git
 	path = feedstocks/django-weasyprint
 	branch = refs/heads/main
+[submodule "objectlist"]
+	url = https://github.com/conda-forge/objectlist-feedstock.git
+	path = feedstocks/objectlist
+	branch = refs/heads/main
