@@ -86418,3 +86418,7 @@
 	url = https://github.com/conda-forge/julia-parsers-feedstock.git
 	path = feedstocks/julia-parsers
 	branch = refs/heads/main
+[submodule "wagtail-factories"]
+	url = https://github.com/conda-forge/wagtail-factories-feedstock.git
+	path = feedstocks/wagtail-factories
+	branch = refs/heads/main
