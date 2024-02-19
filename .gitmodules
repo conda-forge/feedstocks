@@ -86394,3 +86394,7 @@
 	url = https://github.com/conda-forge/wagtail-live-feedstock.git
 	path = feedstocks/wagtail-live
 	branch = refs/heads/main
+[submodule "django-weasyprint"]
+	url = https://github.com/conda-forge/django-weasyprint-feedstock.git
+	path = feedstocks/django-weasyprint
+	branch = refs/heads/main
