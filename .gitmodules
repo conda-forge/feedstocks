@@ -86434,3 +86434,7 @@
 	url = https://github.com/conda-forge/scripts-feedstock.git
 	path = feedstocks/scripts
 	branch = refs/heads/main
+[submodule "django-queryhunter"]
+	url = https://github.com/conda-forge/django-queryhunter-feedstock.git
+	path = feedstocks/django-queryhunter
+	branch = refs/heads/main
