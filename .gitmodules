@@ -86362,3 +86362,7 @@
 	url = https://github.com/conda-forge/tableau-to-sqlite-feedstock.git
 	path = feedstocks/tableau-to-sqlite
 	branch = refs/heads/main
+[submodule "wagtail-markdown"]
+	url = https://github.com/conda-forge/wagtail-markdown-feedstock.git
+	path = feedstocks/wagtail-markdown
+	branch = refs/heads/main
