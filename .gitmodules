@@ -86358,3 +86358,7 @@
 	url = https://github.com/conda-forge/calkulate-feedstock.git
 	path = feedstocks/calkulate
 	branch = refs/heads/main
+[submodule "tableau-to-sqlite"]
+	url = https://github.com/conda-forge/tableau-to-sqlite-feedstock.git
+	path = feedstocks/tableau-to-sqlite
+	branch = refs/heads/main
