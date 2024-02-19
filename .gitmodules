@@ -86374,3 +86374,7 @@
 	url = https://github.com/conda-forge/wagtail-constance-feedstock.git
 	path = feedstocks/wagtail-constance
 	branch = refs/heads/main
+[submodule "django-colorful"]
+	url = https://github.com/conda-forge/django-colorful-feedstock.git
+	path = feedstocks/django-colorful
+	branch = refs/heads/main
