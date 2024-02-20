@@ -86478,3 +86478,7 @@
 	url = https://github.com/conda-forge/llama-index-question-gen-openai-feedstock.git
 	path = feedstocks/llama-index-question-gen-openai
 	branch = refs/heads/main
+[submodule "llama-index-multi-modal-llms-openai"]
+	url = https://github.com/conda-forge/llama-index-multi-modal-llms-openai-feedstock.git
+	path = feedstocks/llama-index-multi-modal-llms-openai
+	branch = refs/heads/main
