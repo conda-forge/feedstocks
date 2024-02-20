@@ -86462,3 +86462,7 @@
 	url = https://github.com/conda-forge/fixedwidth-feedstock.git
 	path = feedstocks/fixedwidth
 	branch = refs/heads/main
+[submodule "osm-flex"]
+	url = https://github.com/conda-forge/osm-flex-feedstock.git
+	path = feedstocks/osm-flex
+	branch = refs/heads/main
