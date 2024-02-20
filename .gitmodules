@@ -86450,3 +86450,7 @@
 	url = https://github.com/conda-forge/lunchable-feedstock.git
 	path = feedstocks/lunchable
 	branch = refs/heads/main
+[submodule "decoupler-py"]
+	url = https://github.com/conda-forge/decoupler-py-feedstock.git
+	path = feedstocks/decoupler-py
+	branch = refs/heads/main
