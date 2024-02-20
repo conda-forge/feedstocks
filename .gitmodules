@@ -86466,3 +86466,7 @@
 	url = https://github.com/conda-forge/osm-flex-feedstock.git
 	path = feedstocks/osm-flex
 	branch = refs/heads/main
+[submodule "llama-index-agent-openai"]
+	url = https://github.com/conda-forge/llama-index-agent-openai-feedstock.git
+	path = feedstocks/llama-index-agent-openai
+	branch = refs/heads/main
