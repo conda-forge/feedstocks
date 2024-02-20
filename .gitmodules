@@ -86446,3 +86446,7 @@
 	url = https://github.com/conda-forge/pytest-integration-feedstock.git
 	path = feedstocks/pytest-integration
 	branch = refs/heads/main
+[submodule "lunchable"]
+	url = https://github.com/conda-forge/lunchable-feedstock.git
+	path = feedstocks/lunchable
+	branch = refs/heads/main
