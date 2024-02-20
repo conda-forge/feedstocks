@@ -86458,3 +86458,7 @@
 	url = https://github.com/conda-forge/upkie_description-feedstock.git
 	path = feedstocks/upkie_description
 	branch = refs/heads/main
+[submodule "fixedwidth"]
+	url = https://github.com/conda-forge/fixedwidth-feedstock.git
+	path = feedstocks/fixedwidth
+	branch = refs/heads/main
