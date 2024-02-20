@@ -86470,3 +86470,7 @@
 	url = https://github.com/conda-forge/llama-index-agent-openai-feedstock.git
 	path = feedstocks/llama-index-agent-openai
 	branch = refs/heads/main
+[submodule "ritas"]
+	url = https://github.com/conda-forge/ritas-feedstock.git
+	path = feedstocks/ritas
+	branch = refs/heads/main
