@@ -86474,3 +86474,7 @@
 	url = https://github.com/conda-forge/ritas-feedstock.git
 	path = feedstocks/ritas
 	branch = refs/heads/main
+[submodule "llama-index-question-gen-openai"]
+	url = https://github.com/conda-forge/llama-index-question-gen-openai-feedstock.git
+	path = feedstocks/llama-index-question-gen-openai
+	branch = refs/heads/main
