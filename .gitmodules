@@ -86530,3 +86530,7 @@
 	url = https://github.com/conda-forge/substrate-interface-feedstock.git
 	path = feedstocks/substrate-interface
 	branch = refs/heads/main
+[submodule "injective-py"]
+	url = https://github.com/conda-forge/injective-py-feedstock.git
+	path = feedstocks/injective-py
+	branch = refs/heads/main
