@@ -86506,3 +86506,7 @@
 	url = https://github.com/conda-forge/wagtail-ab-testing-feedstock.git
 	path = feedstocks/wagtail-ab-testing
 	branch = refs/heads/main
+[submodule "naked"]
+	url = https://github.com/conda-forge/naked-feedstock.git
+	path = feedstocks/naked
+	branch = refs/heads/main
