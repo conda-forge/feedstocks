@@ -86494,3 +86494,7 @@
 	url = https://github.com/conda-forge/wagtail-import-export-tool-feedstock.git
 	path = feedstocks/wagtail-import-export-tool
 	branch = refs/heads/main
+[submodule "wagtail-footnotes"]
+	url = https://github.com/conda-forge/wagtail-footnotes-feedstock.git
+	path = feedstocks/wagtail-footnotes
+	branch = refs/heads/main
