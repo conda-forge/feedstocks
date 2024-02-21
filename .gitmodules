@@ -86526,3 +86526,7 @@
 	url = https://github.com/conda-forge/ormsgpack-feedstock.git
 	path = feedstocks/ormsgpack
 	branch = refs/heads/main
+[submodule "substrate-interface"]
+	url = https://github.com/conda-forge/substrate-interface-feedstock.git
+	path = feedstocks/substrate-interface
+	branch = refs/heads/main
