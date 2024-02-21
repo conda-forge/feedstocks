@@ -86522,3 +86522,7 @@
 	url = https://github.com/conda-forge/r-secretbase-feedstock.git
 	path = feedstocks/r-secretbase
 	branch = refs/heads/main
+[submodule "ormsgpack"]
+	url = https://github.com/conda-forge/ormsgpack-feedstock.git
+	path = feedstocks/ormsgpack
+	branch = refs/heads/main
