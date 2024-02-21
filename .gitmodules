@@ -86502,3 +86502,7 @@
 	url = https://github.com/conda-forge/wagtailmath-feedstock.git
 	path = feedstocks/wagtailmath
 	branch = refs/heads/main
+[submodule "wagtail-ab-testing"]
+	url = https://github.com/conda-forge/wagtail-ab-testing-feedstock.git
+	path = feedstocks/wagtail-ab-testing
+	branch = refs/heads/main
