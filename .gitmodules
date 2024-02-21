@@ -86518,3 +86518,7 @@
 	url = https://github.com/conda-forge/intake-esgf-feedstock.git
 	path = feedstocks/intake-esgf
 	branch = refs/heads/main
+[submodule "r-secretbase"]
+	url = https://github.com/conda-forge/r-secretbase-feedstock.git
+	path = feedstocks/r-secretbase
+	branch = refs/heads/main
