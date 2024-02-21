@@ -86490,3 +86490,7 @@
 	url = https://github.com/conda-forge/scalecodec-feedstock.git
 	path = feedstocks/scalecodec
 	branch = refs/heads/main
+[submodule "wagtail-import-export-tool"]
+	url = https://github.com/conda-forge/wagtail-import-export-tool-feedstock.git
+	path = feedstocks/wagtail-import-export-tool
+	branch = refs/heads/main
