@@ -86510,3 +86510,7 @@
 	url = https://github.com/conda-forge/naked-feedstock.git
 	path = feedstocks/naked
 	branch = refs/heads/main
+[submodule "fastclasses-json"]
+	url = https://github.com/conda-forge/fastclasses-json-feedstock.git
+	path = feedstocks/fastclasses-json
+	branch = refs/heads/main
