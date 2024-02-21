@@ -86514,3 +86514,7 @@
 	url = https://github.com/conda-forge/fastclasses-json-feedstock.git
 	path = feedstocks/fastclasses-json
 	branch = refs/heads/main
+[submodule "intake-esgf"]
+	url = https://github.com/conda-forge/intake-esgf-feedstock.git
+	path = feedstocks/intake-esgf
+	branch = refs/heads/main
