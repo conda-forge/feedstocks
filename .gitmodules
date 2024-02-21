@@ -86482,3 +86482,7 @@
 	url = https://github.com/conda-forge/llama-index-multi-modal-llms-openai-feedstock.git
 	path = feedstocks/llama-index-multi-modal-llms-openai
 	branch = refs/heads/main
+[submodule "git-cliff"]
+	url = https://github.com/conda-forge/git-cliff-feedstock.git
+	path = feedstocks/git-cliff
+	branch = refs/heads/main
