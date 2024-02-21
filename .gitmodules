@@ -86486,3 +86486,7 @@
 	url = https://github.com/conda-forge/git-cliff-feedstock.git
 	path = feedstocks/git-cliff
 	branch = refs/heads/main
+[submodule "scalecodec"]
+	url = https://github.com/conda-forge/scalecodec-feedstock.git
+	path = feedstocks/scalecodec
+	branch = refs/heads/main
