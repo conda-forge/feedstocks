@@ -86566,3 +86566,7 @@
 	url = https://github.com/conda-forge/hugo-feedstock.git
 	path = feedstocks/hugo
 	branch = refs/heads/main
+[submodule "fastjet"]
+	url = https://github.com/conda-forge/fastjet-feedstock.git
+	path = feedstocks/fastjet
+	branch = refs/heads/main
