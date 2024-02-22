@@ -86562,3 +86562,7 @@
 	url = https://github.com/conda-forge/iotaa-feedstock.git
 	path = feedstocks/iotaa
 	branch = refs/heads/main
+[submodule "hugo"]
+	url = https://github.com/conda-forge/hugo-feedstock.git
+	path = feedstocks/hugo
+	branch = refs/heads/main
