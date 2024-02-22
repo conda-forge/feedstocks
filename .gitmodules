@@ -86534,3 +86534,7 @@
 	url = https://github.com/conda-forge/injective-py-feedstock.git
 	path = feedstocks/injective-py
 	branch = refs/heads/main
+[submodule "compstats"]
+	url = https://github.com/conda-forge/compstats-feedstock.git
+	path = feedstocks/compstats
+	branch = refs/heads/main
