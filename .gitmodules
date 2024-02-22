@@ -86542,3 +86542,7 @@
 	url = https://github.com/conda-forge/zuko-feedstock.git
 	path = feedstocks/zuko
 	branch = refs/heads/main
+[submodule "emoji-extractor"]
+	url = https://github.com/conda-forge/emoji-extractor-feedstock.git
+	path = feedstocks/emoji-extractor
+	branch = refs/heads/main
