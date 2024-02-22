@@ -86538,3 +86538,7 @@
 	url = https://github.com/conda-forge/compstats-feedstock.git
 	path = feedstocks/compstats
 	branch = refs/heads/main
+[submodule "zuko"]
+	url = https://github.com/conda-forge/zuko-feedstock.git
+	path = feedstocks/zuko
+	branch = refs/heads/main
