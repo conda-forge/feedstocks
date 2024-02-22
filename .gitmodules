@@ -86550,3 +86550,7 @@
 	url = https://github.com/conda-forge/orange3-fairness-feedstock.git
 	path = feedstocks/orange3-fairness
 	branch = refs/heads/main
+[submodule "archapp"]
+	url = https://github.com/conda-forge/archapp-feedstock.git
+	path = feedstocks/archapp
+	branch = refs/heads/main
