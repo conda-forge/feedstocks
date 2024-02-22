@@ -86554,3 +86554,7 @@
 	url = https://github.com/conda-forge/archapp-feedstock.git
 	path = feedstocks/archapp
 	branch = refs/heads/main
+[submodule "harlequin-mysql"]
+	url = https://github.com/conda-forge/harlequin-mysql-feedstock.git
+	path = feedstocks/harlequin-mysql
+	branch = refs/heads/main
