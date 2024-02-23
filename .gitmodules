@@ -86590,3 +86590,7 @@
 	url = https://github.com/conda-forge/r-crew-feedstock.git
 	path = feedstocks/r-crew
 	branch = refs/heads/main
+[submodule "atef"]
+	url = https://github.com/conda-forge/atef-feedstock.git
+	path = feedstocks/atef
+	branch = refs/heads/main
