@@ -86598,3 +86598,7 @@
 	url = https://github.com/conda-forge/vega-python-sdk-feedstock.git
 	path = feedstocks/vega-python-sdk
 	branch = refs/heads/main
+[submodule "protoc-gen-openapiv2"]
+	url = https://github.com/conda-forge/protoc-gen-openapiv2-feedstock.git
+	path = feedstocks/protoc-gen-openapiv2
+	branch = refs/heads/main
