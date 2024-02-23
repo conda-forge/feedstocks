@@ -86594,3 +86594,7 @@
 	url = https://github.com/conda-forge/atef-feedstock.git
 	path = feedstocks/atef
 	branch = refs/heads/main
+[submodule "vega-python-sdk"]
+	url = https://github.com/conda-forge/vega-python-sdk-feedstock.git
+	path = feedstocks/vega-python-sdk
+	branch = refs/heads/main
