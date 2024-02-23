@@ -86610,3 +86610,7 @@
 	url = https://github.com/conda-forge/onnxoptimizer-feedstock.git
 	path = feedstocks/onnxoptimizer
 	branch = refs/heads/main
+[submodule "greenback"]
+	url = https://github.com/conda-forge/greenback-feedstock.git
+	path = feedstocks/greenback
+	branch = refs/heads/main
