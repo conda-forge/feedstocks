@@ -86582,3 +86582,7 @@
 	url = https://github.com/conda-forge/r-mirai-feedstock.git
 	path = feedstocks/r-mirai
 	branch = refs/heads/main
+[submodule "r-crew.cluster"]
+	url = https://github.com/conda-forge/r-crew.cluster-feedstock.git
+	path = feedstocks/r-crew.cluster
+	branch = refs/heads/main
