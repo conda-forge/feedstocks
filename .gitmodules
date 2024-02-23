@@ -86574,3 +86574,7 @@
 	url = https://github.com/conda-forge/dry-attr-feedstock.git
 	path = feedstocks/dry-attr
 	branch = refs/heads/main
+[submodule "simple-build-dgcode"]
+	url = https://github.com/conda-forge/simple-build-dgcode-feedstock.git
+	path = feedstocks/simple-build-dgcode
+	branch = refs/heads/main
