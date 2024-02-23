@@ -86570,3 +86570,7 @@
 	url = https://github.com/conda-forge/fastjet-feedstock.git
 	path = feedstocks/fastjet
 	branch = refs/heads/main
+[submodule "dry-attr"]
+	url = https://github.com/conda-forge/dry-attr-feedstock.git
+	path = feedstocks/dry-attr
+	branch = refs/heads/main
