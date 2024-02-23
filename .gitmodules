@@ -86606,3 +86606,7 @@
 	url = https://github.com/conda-forge/show-in-file-manager-feedstock.git
 	path = feedstocks/show-in-file-manager
 	branch = refs/heads/main
+[submodule "onnxoptimizer"]
+	url = https://github.com/conda-forge/onnxoptimizer-feedstock.git
+	path = feedstocks/onnxoptimizer
+	branch = refs/heads/main
