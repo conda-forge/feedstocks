@@ -86614,3 +86614,7 @@
 	url = https://github.com/conda-forge/greenback-feedstock.git
 	path = feedstocks/greenback
 	branch = refs/heads/main
+[submodule "disnake"]
+	url = https://github.com/conda-forge/disnake-feedstock.git
+	path = feedstocks/disnake
+	branch = refs/heads/main
