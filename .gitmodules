@@ -86622,3 +86622,7 @@
 	url = https://github.com/conda-forge/magika-feedstock.git
 	path = feedstocks/magika
 	branch = refs/heads/main
+[submodule "hyperdiv"]
+	url = https://github.com/conda-forge/hyperdiv-feedstock.git
+	path = feedstocks/hyperdiv
+	branch = refs/heads/main
