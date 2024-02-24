@@ -86618,3 +86618,7 @@
 	url = https://github.com/conda-forge/disnake-feedstock.git
 	path = feedstocks/disnake
 	branch = refs/heads/main
+[submodule "magika"]
+	url = https://github.com/conda-forge/magika-feedstock.git
+	path = feedstocks/magika
+	branch = refs/heads/main
