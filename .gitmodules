@@ -86634,3 +86634,7 @@
 	url = https://github.com/conda-forge/django-yugabytedb-feedstock.git
 	path = feedstocks/django-yugabytedb
 	branch = refs/heads/main
+[submodule "metaflow-stubs"]
+	url = https://github.com/conda-forge/metaflow-stubs-feedstock.git
+	path = feedstocks/metaflow-stubs
+	branch = refs/heads/main
