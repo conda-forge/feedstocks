@@ -86630,3 +86630,7 @@
 	url = https://github.com/conda-forge/xstatic-font-awesome-feedstock.git
 	path = feedstocks/xstatic-font-awesome
 	branch = refs/heads/main
+[submodule "django-yugabytedb"]
+	url = https://github.com/conda-forge/django-yugabytedb-feedstock.git
+	path = feedstocks/django-yugabytedb
+	branch = refs/heads/main
