@@ -86698,3 +86698,7 @@
 	url = https://github.com/conda-forge/psycopg2-yugabytedb-feedstock.git
 	path = feedstocks/psycopg2-yugabytedb
 	branch = refs/heads/main
+[submodule "pinttrs"]
+	url = https://github.com/conda-forge/pinttrs-feedstock.git
+	path = feedstocks/pinttrs
+	branch = refs/heads/main
