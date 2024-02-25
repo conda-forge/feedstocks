@@ -86662,3 +86662,7 @@
 	url = https://github.com/conda-forge/wagtail-word-feedstock.git
 	path = feedstocks/wagtail-word
 	branch = refs/heads/main
+[submodule "distilabel"]
+	url = https://github.com/conda-forge/distilabel-feedstock.git
+	path = feedstocks/distilabel
+	branch = refs/heads/main
