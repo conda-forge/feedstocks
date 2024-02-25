@@ -86682,3 +86682,7 @@
 	url = https://github.com/conda-forge/xrpl-py-feedstock.git
 	path = feedstocks/xrpl-py
 	branch = refs/heads/main
+[submodule "alto-dev"]
+	url = https://github.com/conda-forge/alto-dev-feedstock.git
+	path = feedstocks/alto-dev
+	branch = refs/heads/main
