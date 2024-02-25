@@ -86658,3 +86658,7 @@
 	url = https://github.com/conda-forge/wagtail-metadata-feedstock.git
 	path = feedstocks/wagtail-metadata
 	branch = refs/heads/main
+[submodule "wagtail-word"]
+	url = https://github.com/conda-forge/wagtail-word-feedstock.git
+	path = feedstocks/wagtail-word
+	branch = refs/heads/main
