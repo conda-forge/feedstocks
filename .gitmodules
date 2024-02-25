@@ -86650,3 +86650,7 @@
 	url = https://github.com/conda-forge/r-bart-feedstock.git
 	path = feedstocks/r-bart
 	branch = refs/heads/main
+[submodule "argilla"]
+	url = https://github.com/conda-forge/argilla-feedstock.git
+	path = feedstocks/argilla
+	branch = refs/heads/main
