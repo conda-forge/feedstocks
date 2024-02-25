@@ -86642,3 +86642,7 @@
 	url = https://github.com/conda-forge/ltbams-feedstock.git
 	path = feedstocks/ltbams
 	branch = refs/heads/main
+[submodule "r-harmony"]
+	url = https://github.com/conda-forge/r-harmony-feedstock.git
+	path = feedstocks/r-harmony
+	branch = refs/heads/main
