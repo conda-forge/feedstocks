@@ -86686,3 +86686,7 @@
 	url = https://github.com/conda-forge/alto-dev-feedstock.git
 	path = feedstocks/alto-dev
 	branch = refs/heads/main
+[submodule "ecpy"]
+	url = https://github.com/conda-forge/ecpy-feedstock.git
+	path = feedstocks/ecpy
+	branch = refs/heads/main
