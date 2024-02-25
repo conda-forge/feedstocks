@@ -86738,3 +86738,7 @@
 	url = https://github.com/conda-forge/wagtail-autocomplete-feedstock.git
 	path = feedstocks/wagtail-autocomplete
 	branch = refs/heads/main
+[submodule "artifacts-keyring"]
+	url = https://github.com/conda-forge/artifacts-keyring-feedstock.git
+	path = feedstocks/artifacts-keyring
+	branch = refs/heads/main
