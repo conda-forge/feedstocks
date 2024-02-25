@@ -86726,3 +86726,7 @@
 	url = https://github.com/conda-forge/wagtail-feedback-feedstock.git
 	path = feedstocks/wagtail-feedback
 	branch = refs/heads/main
+[submodule "wagtail-charcount"]
+	url = https://github.com/conda-forge/wagtail-charcount-feedstock.git
+	path = feedstocks/wagtail-charcount
+	branch = refs/heads/main
