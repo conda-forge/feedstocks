@@ -86730,3 +86730,7 @@
 	url = https://github.com/conda-forge/wagtail-charcount-feedstock.git
 	path = feedstocks/wagtail-charcount
 	branch = refs/heads/main
+[submodule "wagtail-dynamic-dropdown"]
+	url = https://github.com/conda-forge/wagtail-dynamic-dropdown-feedstock.git
+	path = feedstocks/wagtail-dynamic-dropdown
+	branch = refs/heads/main
