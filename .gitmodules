@@ -86670,3 +86670,7 @@
 	url = https://github.com/conda-forge/wtforms-sqlalchemy-feedstock.git
 	path = feedstocks/wtforms-sqlalchemy
 	branch = refs/heads/main
+[submodule "wtforms-django"]
+	url = https://github.com/conda-forge/wtforms-django-feedstock.git
+	path = feedstocks/wtforms-django
+	branch = refs/heads/main
