@@ -86718,3 +86718,7 @@
 	url = https://github.com/conda-forge/flake8-django-feedstock.git
 	path = feedstocks/flake8-django
 	branch = refs/heads/main
+[submodule "arize-phoenix-evals"]
+	url = https://github.com/conda-forge/arize-phoenix-evals-feedstock.git
+	path = feedstocks/arize-phoenix-evals
+	branch = refs/heads/main
