@@ -86702,3 +86702,7 @@
 	url = https://github.com/conda-forge/pinttrs-feedstock.git
 	path = feedstocks/pinttrs
 	branch = refs/heads/main
+[submodule "wagtail-meta-preview"]
+	url = https://github.com/conda-forge/wagtail-meta-preview-feedstock.git
+	path = feedstocks/wagtail-meta-preview
+	branch = refs/heads/main
