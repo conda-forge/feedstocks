@@ -86734,3 +86734,7 @@
 	url = https://github.com/conda-forge/wagtail-dynamic-dropdown-feedstock.git
 	path = feedstocks/wagtail-dynamic-dropdown
 	branch = refs/heads/main
+[submodule "wagtail-autocomplete"]
+	url = https://github.com/conda-forge/wagtail-autocomplete-feedstock.git
+	path = feedstocks/wagtail-autocomplete
+	branch = refs/heads/main
