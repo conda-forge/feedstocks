@@ -86742,3 +86742,7 @@
 	url = https://github.com/conda-forge/artifacts-keyring-feedstock.git
 	path = feedstocks/artifacts-keyring
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-system-metrics"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-system-metrics-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-system-metrics
+	branch = refs/heads/main
