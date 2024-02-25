@@ -86694,3 +86694,7 @@
 	url = https://github.com/conda-forge/uv-feedstock.git
 	path = feedstocks/uv
 	branch = refs/heads/main
+[submodule "psycopg2-yugabytedb"]
+	url = https://github.com/conda-forge/psycopg2-yugabytedb-feedstock.git
+	path = feedstocks/psycopg2-yugabytedb
+	branch = refs/heads/main
