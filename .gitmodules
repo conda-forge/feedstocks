@@ -86714,3 +86714,7 @@
 	url = https://github.com/conda-forge/dessinemoi-feedstock.git
 	path = feedstocks/dessinemoi
 	branch = refs/heads/main
+[submodule "flake8-django"]
+	url = https://github.com/conda-forge/flake8-django-feedstock.git
+	path = feedstocks/flake8-django
+	branch = refs/heads/main
