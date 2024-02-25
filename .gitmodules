@@ -86674,3 +86674,7 @@
 	url = https://github.com/conda-forge/wtforms-django-feedstock.git
 	path = feedstocks/wtforms-django
 	branch = refs/heads/main
+[submodule "prism-ds"]
+	url = https://github.com/conda-forge/prism-ds-feedstock.git
+	path = feedstocks/prism-ds
+	branch = refs/heads/main
