@@ -86646,3 +86646,7 @@
 	url = https://github.com/conda-forge/r-harmony-feedstock.git
 	path = feedstocks/r-harmony
 	branch = refs/heads/main
+[submodule "r-bart"]
+	url = https://github.com/conda-forge/r-bart-feedstock.git
+	path = feedstocks/r-bart
+	branch = refs/heads/main
