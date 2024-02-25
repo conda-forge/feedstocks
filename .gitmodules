@@ -86654,3 +86654,7 @@
 	url = https://github.com/conda-forge/argilla-feedstock.git
 	path = feedstocks/argilla
 	branch = refs/heads/main
+[submodule "wagtail-metadata"]
+	url = https://github.com/conda-forge/wagtail-metadata-feedstock.git
+	path = feedstocks/wagtail-metadata
+	branch = refs/heads/main
