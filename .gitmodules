@@ -86722,3 +86722,7 @@
 	url = https://github.com/conda-forge/arize-phoenix-evals-feedstock.git
 	path = feedstocks/arize-phoenix-evals
 	branch = refs/heads/main
+[submodule "wagtail-feedback"]
+	url = https://github.com/conda-forge/wagtail-feedback-feedstock.git
+	path = feedstocks/wagtail-feedback
+	branch = refs/heads/main
