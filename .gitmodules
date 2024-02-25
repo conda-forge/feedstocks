@@ -86690,3 +86690,7 @@
 	url = https://github.com/conda-forge/ecpy-feedstock.git
 	path = feedstocks/ecpy
 	branch = refs/heads/main
+[submodule "uv"]
+	url = https://github.com/conda-forge/uv-feedstock.git
+	path = feedstocks/uv
+	branch = refs/heads/main
