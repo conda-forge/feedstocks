@@ -86766,3 +86766,7 @@
 	url = https://github.com/conda-forge/sherlock-lib-feedstock.git
 	path = feedstocks/sherlock-lib
 	branch = refs/heads/main
+[submodule "mcxtrace-suite"]
+	url = https://github.com/conda-forge/mcxtrace-suite-feedstock.git
+	path = feedstocks/mcxtrace-suite
+	branch = refs/heads/main
