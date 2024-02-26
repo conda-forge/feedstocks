@@ -86750,3 +86750,7 @@
 	url = https://github.com/conda-forge/oceanum-feedstock.git
 	path = feedstocks/oceanum
 	branch = refs/heads/main
+[submodule "cnv-vcf2json"]
+	url = https://github.com/conda-forge/cnv-vcf2json-feedstock.git
+	path = feedstocks/cnv-vcf2json
+	branch = refs/heads/main
