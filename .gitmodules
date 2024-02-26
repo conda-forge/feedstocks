@@ -86754,3 +86754,7 @@
 	url = https://github.com/conda-forge/cnv-vcf2json-feedstock.git
 	path = feedstocks/cnv-vcf2json
 	branch = refs/heads/main
+[submodule "cnv-phenopacket"]
+	url = https://github.com/conda-forge/cnv-phenopacket-feedstock.git
+	path = feedstocks/cnv-phenopacket
+	branch = refs/heads/main
