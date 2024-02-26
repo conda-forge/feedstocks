@@ -86746,3 +86746,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-system-metrics-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-system-metrics
 	branch = refs/heads/main
+[submodule "oceanum"]
+	url = https://github.com/conda-forge/oceanum-feedstock.git
+	path = feedstocks/oceanum
+	branch = refs/heads/main
