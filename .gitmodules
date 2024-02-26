@@ -86762,3 +86762,7 @@
 	url = https://github.com/conda-forge/kg4vasp-feedstock.git
 	path = feedstocks/kg4vasp
 	branch = refs/heads/main
+[submodule "sherlock-lib"]
+	url = https://github.com/conda-forge/sherlock-lib-feedstock.git
+	path = feedstocks/sherlock-lib
+	branch = refs/heads/main
