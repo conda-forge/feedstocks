@@ -86798,3 +86798,7 @@
 	url = https://github.com/conda-forge/xia2-feedstock.git
 	path = feedstocks/xia2
 	branch = refs/heads/main
+[submodule "slowapi"]
+	url = https://github.com/conda-forge/slowapi-feedstock.git
+	path = feedstocks/slowapi
+	branch = refs/heads/main
