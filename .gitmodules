@@ -86806,3 +86806,7 @@
 	url = https://github.com/conda-forge/simple-term-menu-feedstock.git
 	path = feedstocks/simple-term-menu
 	branch = refs/heads/main
+[submodule "amazon-sagemaker-sql-magic"]
+	url = https://github.com/conda-forge/amazon-sagemaker-sql-magic-feedstock.git
+	path = feedstocks/amazon-sagemaker-sql-magic
+	branch = refs/heads/main
