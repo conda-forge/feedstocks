@@ -86810,3 +86810,7 @@
 	url = https://github.com/conda-forge/amazon-sagemaker-sql-magic-feedstock.git
 	path = feedstocks/amazon-sagemaker-sql-magic
 	branch = refs/heads/main
+[submodule "amazon-sagemaker-sql-editor"]
+	url = https://github.com/conda-forge/amazon-sagemaker-sql-editor-feedstock.git
+	path = feedstocks/amazon-sagemaker-sql-editor
+	branch = refs/heads/main
