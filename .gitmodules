@@ -86842,3 +86842,7 @@
 	url = https://github.com/conda-forge/liblzf-feedstock.git
 	path = feedstocks/liblzf
 	branch = refs/heads/main
+[submodule "imgui"]
+	url = https://github.com/conda-forge/imgui-feedstock.git
+	path = feedstocks/imgui
+	branch = refs/heads/main
