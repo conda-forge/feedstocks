@@ -86818,3 +86818,7 @@
 	url = https://github.com/conda-forge/amazon-sagemaker-sql-execution-feedstock.git
 	path = feedstocks/amazon-sagemaker-sql-execution
 	branch = refs/heads/main
+[submodule "koolstof"]
+	url = https://github.com/conda-forge/koolstof-feedstock.git
+	path = feedstocks/koolstof
+	branch = refs/heads/main
