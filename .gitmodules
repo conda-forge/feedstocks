@@ -86846,3 +86846,7 @@
 	url = https://github.com/conda-forge/imgui-feedstock.git
 	path = feedstocks/imgui
 	branch = refs/heads/main
+[submodule "open3d"]
+	url = https://github.com/conda-forge/open3d-feedstock.git
+	path = feedstocks/open3d
+	branch = refs/heads/main
