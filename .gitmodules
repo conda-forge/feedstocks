@@ -86822,3 +86822,7 @@
 	url = https://github.com/conda-forge/koolstof-feedstock.git
 	path = feedstocks/koolstof
 	branch = refs/heads/main
+[submodule "rdatasets"]
+	url = https://github.com/conda-forge/rdatasets-feedstock.git
+	path = feedstocks/rdatasets
+	branch = refs/heads/main
