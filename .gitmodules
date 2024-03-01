@@ -86834,3 +86834,7 @@
 	url = https://github.com/conda-forge/hydra-zen-feedstock.git
 	path = feedstocks/hydra-zen
 	branch = refs/heads/main
+[submodule "mkdocs-bibtex"]
+	url = https://github.com/conda-forge/mkdocs-bibtex-feedstock.git
+	path = feedstocks/mkdocs-bibtex
+	branch = refs/heads/main
