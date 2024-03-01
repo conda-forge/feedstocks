@@ -86838,3 +86838,7 @@
 	url = https://github.com/conda-forge/mkdocs-bibtex-feedstock.git
 	path = feedstocks/mkdocs-bibtex
 	branch = refs/heads/main
+[submodule "liblzf"]
+	url = https://github.com/conda-forge/liblzf-feedstock.git
+	path = feedstocks/liblzf
+	branch = refs/heads/main
