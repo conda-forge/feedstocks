@@ -86882,3 +86882,7 @@
 	url = https://github.com/conda-forge/rl_games-feedstock.git
 	path = feedstocks/rl_games
 	branch = refs/heads/main
+[submodule "unordered_dense"]
+	url = https://github.com/conda-forge/unordered_dense-feedstock.git
+	path = feedstocks/unordered_dense
+	branch = refs/heads/main
