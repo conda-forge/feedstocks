@@ -86890,3 +86890,7 @@
 	url = https://github.com/conda-forge/sounderpy-feedstock.git
 	path = feedstocks/sounderpy
 	branch = refs/heads/main
+[submodule "functime"]
+	url = https://github.com/conda-forge/functime-feedstock.git
+	path = feedstocks/functime
+	branch = refs/heads/main
