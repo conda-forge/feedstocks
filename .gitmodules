@@ -86914,3 +86914,7 @@
 	url = https://github.com/conda-forge/docite-feedstock.git
 	path = feedstocks/docite
 	branch = refs/heads/main
+[submodule "clearml-agent"]
+	url = https://github.com/conda-forge/clearml-agent-feedstock.git
+	path = feedstocks/clearml-agent
+	branch = refs/heads/main
