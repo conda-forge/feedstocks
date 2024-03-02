@@ -86898,3 +86898,7 @@
 	url = https://github.com/conda-forge/esbmtk-feedstock.git
 	path = feedstocks/esbmtk
 	branch = refs/heads/main
+[submodule "sqlglotrs"]
+	url = https://github.com/conda-forge/sqlglotrs-feedstock.git
+	path = feedstocks/sqlglotrs
+	branch = refs/heads/main
