@@ -86858,3 +86858,7 @@
 	url = https://github.com/conda-forge/langchain-text-splitters-feedstock.git
 	path = feedstocks/langchain-text-splitters
 	branch = refs/heads/main
+[submodule "ecape-parcel"]
+	url = https://github.com/conda-forge/ecape-parcel-feedstock.git
+	path = feedstocks/ecape-parcel
+	branch = refs/heads/main
