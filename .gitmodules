@@ -86922,3 +86922,7 @@
 	url = https://github.com/conda-forge/hypothesis-rdkit-feedstock.git
 	path = feedstocks/hypothesis-rdkit
 	branch = refs/heads/main
+[submodule "pyclean"]
+	url = https://github.com/conda-forge/pyclean-feedstock.git
+	path = feedstocks/pyclean
+	branch = refs/heads/main
