@@ -86862,3 +86862,7 @@
 	url = https://github.com/conda-forge/ecape-parcel-feedstock.git
 	path = feedstocks/ecape-parcel
 	branch = refs/heads/main
+[submodule "hofstadtertools"]
+	url = https://github.com/conda-forge/hofstadtertools-feedstock.git
+	path = feedstocks/hofstadtertools
+	branch = refs/heads/main
