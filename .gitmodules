@@ -86902,3 +86902,7 @@
 	url = https://github.com/conda-forge/sqlglotrs-feedstock.git
 	path = feedstocks/sqlglotrs
 	branch = refs/heads/main
+[submodule "django-pint"]
+	url = https://github.com/conda-forge/django-pint-feedstock.git
+	path = feedstocks/django-pint
+	branch = refs/heads/main
