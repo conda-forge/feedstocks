@@ -86850,3 +86850,7 @@
 	url = https://github.com/conda-forge/open3d-feedstock.git
 	path = feedstocks/open3d
 	branch = refs/heads/main
+[submodule "ecape"]
+	url = https://github.com/conda-forge/ecape-feedstock.git
+	path = feedstocks/ecape
+	branch = refs/heads/main
