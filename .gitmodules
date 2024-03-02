@@ -86918,3 +86918,7 @@
 	url = https://github.com/conda-forge/clearml-agent-feedstock.git
 	path = feedstocks/clearml-agent
 	branch = refs/heads/main
+[submodule "hypothesis-rdkit"]
+	url = https://github.com/conda-forge/hypothesis-rdkit-feedstock.git
+	path = feedstocks/hypothesis-rdkit
+	branch = refs/heads/main
