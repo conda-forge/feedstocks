@@ -86878,3 +86878,7 @@
 	url = https://github.com/conda-forge/solders-feedstock.git
 	path = feedstocks/solders
 	branch = refs/heads/main
+[submodule "rl_games"]
+	url = https://github.com/conda-forge/rl_games-feedstock.git
+	path = feedstocks/rl_games
+	branch = refs/heads/main
