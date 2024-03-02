@@ -86874,3 +86874,7 @@
 	url = https://github.com/conda-forge/pybip39-feedstock.git
 	path = feedstocks/pybip39
 	branch = refs/heads/main
+[submodule "solders"]
+	url = https://github.com/conda-forge/solders-feedstock.git
+	path = feedstocks/solders
+	branch = refs/heads/main
