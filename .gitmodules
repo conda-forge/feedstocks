@@ -86870,3 +86870,7 @@
 	url = https://github.com/conda-forge/jsonalias-feedstock.git
 	path = feedstocks/jsonalias
 	branch = refs/heads/main
+[submodule "pybip39"]
+	url = https://github.com/conda-forge/pybip39-feedstock.git
+	path = feedstocks/pybip39
+	branch = refs/heads/main
