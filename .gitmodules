@@ -86946,3 +86946,7 @@
 	url = https://github.com/conda-forge/pyfilemanager-feedstock.git
 	path = feedstocks/pyfilemanager
 	branch = refs/heads/main
+[submodule "liburing"]
+	url = https://github.com/conda-forge/liburing-feedstock.git
+	path = feedstocks/liburing
+	branch = refs/heads/main
