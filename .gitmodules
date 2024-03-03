@@ -86962,3 +86962,7 @@
 	url = https://github.com/conda-forge/hillmaker-feedstock.git
 	path = feedstocks/hillmaker
 	branch = refs/heads/main
+[submodule "dupin"]
+	url = https://github.com/conda-forge/dupin-feedstock.git
+	path = feedstocks/dupin
+	branch = refs/heads/main
