@@ -86938,3 +86938,7 @@
 	url = https://github.com/conda-forge/pdbstore-feedstock.git
 	path = feedstocks/pdbstore
 	branch = refs/heads/main
+[submodule "agox"]
+	url = https://github.com/conda-forge/agox-feedstock.git
+	path = feedstocks/agox
+	branch = refs/heads/main
