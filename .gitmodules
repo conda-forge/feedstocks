@@ -86926,3 +86926,7 @@
 	url = https://github.com/conda-forge/pyclean-feedstock.git
 	path = feedstocks/pyclean
 	branch = refs/heads/main
+[submodule "xibs"]
+	url = https://github.com/conda-forge/xibs-feedstock.git
+	path = feedstocks/xibs
+	branch = refs/heads/main
