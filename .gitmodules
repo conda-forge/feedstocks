@@ -86934,3 +86934,7 @@
 	url = https://github.com/conda-forge/harissa-feedstock.git
 	path = feedstocks/harissa
 	branch = refs/heads/main
+[submodule "pdbstore"]
+	url = https://github.com/conda-forge/pdbstore-feedstock.git
+	path = feedstocks/pdbstore
+	branch = refs/heads/main
