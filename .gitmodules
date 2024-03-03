@@ -86950,3 +86950,7 @@
 	url = https://github.com/conda-forge/liburing-feedstock.git
 	path = feedstocks/liburing
 	branch = refs/heads/main
+[submodule "pymcma"]
+	url = https://github.com/conda-forge/pymcma-feedstock.git
+	path = feedstocks/pymcma
+	branch = refs/heads/main
