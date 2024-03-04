@@ -86978,3 +86978,7 @@
 	url = https://github.com/conda-forge/tmm-feedstock.git
 	path = feedstocks/tmm
 	branch = refs/heads/main
+[submodule "kubeflow-training"]
+	url = https://github.com/conda-forge/kubeflow-training-feedstock.git
+	path = feedstocks/kubeflow-training
+	branch = refs/heads/main
