@@ -86966,3 +86966,7 @@
 	url = https://github.com/conda-forge/dupin-feedstock.git
 	path = feedstocks/dupin
 	branch = refs/heads/main
+[submodule "litdata"]
+	url = https://github.com/conda-forge/litdata-feedstock.git
+	path = feedstocks/litdata
+	branch = refs/heads/main
