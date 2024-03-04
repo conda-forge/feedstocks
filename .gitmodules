@@ -86982,3 +86982,7 @@
 	url = https://github.com/conda-forge/kubeflow-training-feedstock.git
 	path = feedstocks/kubeflow-training
 	branch = refs/heads/main
+[submodule "kubeflow-katib"]
+	url = https://github.com/conda-forge/kubeflow-katib-feedstock.git
+	path = feedstocks/kubeflow-katib
+	branch = refs/heads/main
