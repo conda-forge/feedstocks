@@ -86986,3 +86986,7 @@
 	url = https://github.com/conda-forge/kubeflow-katib-feedstock.git
 	path = feedstocks/kubeflow-katib
 	branch = refs/heads/main
+[submodule "ruptura"]
+	url = https://github.com/conda-forge/ruptura-feedstock.git
+	path = feedstocks/ruptura
+	branch = refs/heads/main
