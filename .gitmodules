@@ -86990,3 +86990,7 @@
 	url = https://github.com/conda-forge/ruptura-feedstock.git
 	path = feedstocks/ruptura
 	branch = refs/heads/main
+[submodule "voila_topbar"]
+	url = https://github.com/conda-forge/voila_topbar-feedstock.git
+	path = feedstocks/voila_topbar
+	branch = refs/heads/main
