@@ -87002,3 +87002,7 @@
 	url = https://github.com/conda-forge/jscatter-feedstock.git
 	path = feedstocks/jscatter
 	branch = refs/heads/main
+[submodule "unicloud"]
+	url = https://github.com/conda-forge/unicloud-feedstock.git
+	path = feedstocks/unicloud
+	branch = refs/heads/main
