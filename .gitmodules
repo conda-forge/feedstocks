@@ -87014,3 +87014,7 @@
 	url = https://github.com/conda-forge/r-mockthat-feedstock.git
 	path = feedstocks/r-mockthat
 	branch = refs/heads/main
+[submodule "cryptlib"]
+	url = https://github.com/conda-forge/cryptlib-feedstock.git
+	path = feedstocks/cryptlib
+	branch = refs/heads/main
