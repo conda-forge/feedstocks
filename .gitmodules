@@ -87026,3 +87026,7 @@
 	url = https://github.com/conda-forge/libnvfatbin-feedstock.git
 	path = feedstocks/libnvfatbin
 	branch = refs/heads/main
+[submodule "bindensity"]
+	url = https://github.com/conda-forge/bindensity-feedstock.git
+	path = feedstocks/bindensity
+	branch = refs/heads/main
