@@ -87018,3 +87018,7 @@
 	url = https://github.com/conda-forge/cryptlib-feedstock.git
 	path = feedstocks/cryptlib
 	branch = refs/heads/main
+[submodule "ioproc"]
+	url = https://github.com/conda-forge/ioproc-feedstock.git
+	path = feedstocks/ioproc
+	branch = refs/heads/main
