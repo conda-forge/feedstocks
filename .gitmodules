@@ -87030,3 +87030,7 @@
 	url = https://github.com/conda-forge/bindensity-feedstock.git
 	path = feedstocks/bindensity
 	branch = refs/heads/main
+[submodule "pyeee"]
+	url = https://github.com/conda-forge/pyeee-feedstock.git
+	path = feedstocks/pyeee
+	branch = refs/heads/main
