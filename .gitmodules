@@ -87022,3 +87022,7 @@
 	url = https://github.com/conda-forge/ioproc-feedstock.git
 	path = feedstocks/ioproc
 	branch = refs/heads/main
+[submodule "libnvfatbin"]
+	url = https://github.com/conda-forge/libnvfatbin-feedstock.git
+	path = feedstocks/libnvfatbin
+	branch = refs/heads/main
