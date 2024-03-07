@@ -87038,3 +87038,7 @@
 	url = https://github.com/conda-forge/hatch-build-scripts-feedstock.git
 	path = feedstocks/hatch-build-scripts
 	branch = refs/heads/main
+[submodule "sparrow"]
+	url = https://github.com/conda-forge/sparrow-feedstock.git
+	path = feedstocks/sparrow
+	branch = refs/heads/main
