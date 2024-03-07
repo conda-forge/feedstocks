@@ -87034,3 +87034,7 @@
 	url = https://github.com/conda-forge/pyeee-feedstock.git
 	path = feedstocks/pyeee
 	branch = refs/heads/main
+[submodule "hatch-build-scripts"]
+	url = https://github.com/conda-forge/hatch-build-scripts-feedstock.git
+	path = feedstocks/hatch-build-scripts
+	branch = refs/heads/main
