@@ -87046,3 +87046,7 @@
 	url = https://github.com/conda-forge/spyx-feedstock.git
 	path = feedstocks/spyx
 	branch = refs/heads/main
+[submodule "jax-tqdm"]
+	url = https://github.com/conda-forge/jax-tqdm-feedstock.git
+	path = feedstocks/jax-tqdm
+	branch = refs/heads/main
