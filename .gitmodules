@@ -87054,3 +87054,7 @@
 	url = https://github.com/conda-forge/poetry-conda-feedstock.git
 	path = feedstocks/poetry-conda
 	branch = refs/heads/main
+[submodule "azure-synapse-artifacts"]
+	url = https://github.com/conda-forge/azure-synapse-artifacts-feedstock.git
+	path = feedstocks/azure-synapse-artifacts
+	branch = refs/heads/main
