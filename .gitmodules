@@ -87050,3 +87050,7 @@
 	url = https://github.com/conda-forge/jax-tqdm-feedstock.git
 	path = feedstocks/jax-tqdm
 	branch = refs/heads/main
+[submodule "poetry-conda"]
+	url = https://github.com/conda-forge/poetry-conda-feedstock.git
+	path = feedstocks/poetry-conda
+	branch = refs/heads/main
