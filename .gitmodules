@@ -87078,3 +87078,7 @@
 	url = https://github.com/conda-forge/types-editdistance-feedstock.git
 	path = feedstocks/types-editdistance
 	branch = refs/heads/main
+[submodule "types-hdbcli"]
+	url = https://github.com/conda-forge/types-hdbcli-feedstock.git
+	path = feedstocks/types-hdbcli
+	branch = refs/heads/main
