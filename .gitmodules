@@ -87074,3 +87074,7 @@
 	url = https://github.com/conda-forge/version-parser-feedstock.git
 	path = feedstocks/version-parser
 	branch = refs/heads/main
+[submodule "types-editdistance"]
+	url = https://github.com/conda-forge/types-editdistance-feedstock.git
+	path = feedstocks/types-editdistance
+	branch = refs/heads/main
