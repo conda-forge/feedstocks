@@ -87066,3 +87066,7 @@
 	url = https://github.com/conda-forge/django-cogwheels-feedstock.git
 	path = feedstocks/django-cogwheels
 	branch = refs/heads/main
+[submodule "django-auditlog"]
+	url = https://github.com/conda-forge/django-auditlog-feedstock.git
+	path = feedstocks/django-auditlog
+	branch = refs/heads/main
