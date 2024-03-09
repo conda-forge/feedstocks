@@ -87062,3 +87062,7 @@
 	url = https://github.com/conda-forge/wagtailmenus-feedstock.git
 	path = feedstocks/wagtailmenus
 	branch = refs/heads/main
+[submodule "django-cogwheels"]
+	url = https://github.com/conda-forge/django-cogwheels-feedstock.git
+	path = feedstocks/django-cogwheels
+	branch = refs/heads/main
