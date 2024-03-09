@@ -87070,3 +87070,7 @@
 	url = https://github.com/conda-forge/django-auditlog-feedstock.git
 	path = feedstocks/django-auditlog
 	branch = refs/heads/main
+[submodule "version-parser"]
+	url = https://github.com/conda-forge/version-parser-feedstock.git
+	path = feedstocks/version-parser
+	branch = refs/heads/main
