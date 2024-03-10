@@ -87090,3 +87090,7 @@
 	url = https://github.com/conda-forge/pytorch-minimize-feedstock.git
 	path = feedstocks/pytorch-minimize
 	branch = refs/heads/main
+[submodule "joserfc"]
+	url = https://github.com/conda-forge/joserfc-feedstock.git
+	path = feedstocks/joserfc
+	branch = refs/heads/main
