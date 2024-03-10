@@ -87086,3 +87086,7 @@
 	url = https://github.com/conda-forge/uniplot-feedstock.git
 	path = feedstocks/uniplot
 	branch = refs/heads/main
+[submodule "pytorch-minimize"]
+	url = https://github.com/conda-forge/pytorch-minimize-feedstock.git
+	path = feedstocks/pytorch-minimize
+	branch = refs/heads/main
