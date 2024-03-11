@@ -87118,3 +87118,7 @@
 	url = https://github.com/conda-forge/pwdlib-feedstock.git
 	path = feedstocks/pwdlib
 	branch = refs/heads/main
+[submodule "pydpc"]
+	url = https://github.com/conda-forge/pydpc-feedstock.git
+	path = feedstocks/pydpc
+	branch = refs/heads/main
