@@ -87114,3 +87114,7 @@
 	url = https://github.com/conda-forge/logfire-feedstock.git
 	path = feedstocks/logfire
 	branch = refs/heads/main
+[submodule "pwdlib"]
+	url = https://github.com/conda-forge/pwdlib-feedstock.git
+	path = feedstocks/pwdlib
+	branch = refs/heads/main
