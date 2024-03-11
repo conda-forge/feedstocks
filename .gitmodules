@@ -87098,3 +87098,7 @@
 	url = https://github.com/conda-forge/eza-feedstock.git
 	path = feedstocks/eza
 	branch = refs/heads/main
+[submodule "eval_type_backport"]
+	url = https://github.com/conda-forge/eval_type_backport-feedstock.git
+	path = feedstocks/eval_type_backport
+	branch = refs/heads/main
