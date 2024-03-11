@@ -87110,3 +87110,7 @@
 	url = https://github.com/conda-forge/r-fillpattern-feedstock.git
 	path = feedstocks/r-fillpattern
 	branch = refs/heads/main
+[submodule "logfire"]
+	url = https://github.com/conda-forge/logfire-feedstock.git
+	path = feedstocks/logfire
+	branch = refs/heads/main
