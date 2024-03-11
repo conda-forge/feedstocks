@@ -87126,3 +87126,7 @@
 	url = https://github.com/conda-forge/segy-feedstock.git
 	path = feedstocks/segy
 	branch = refs/heads/main
+[submodule "pysisso"]
+	url = https://github.com/conda-forge/pysisso-feedstock.git
+	path = feedstocks/pysisso
+	branch = refs/heads/main
