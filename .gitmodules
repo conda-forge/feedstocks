@@ -87122,3 +87122,7 @@
 	url = https://github.com/conda-forge/pydpc-feedstock.git
 	path = feedstocks/pydpc
 	branch = refs/heads/main
+[submodule "segy"]
+	url = https://github.com/conda-forge/segy-feedstock.git
+	path = feedstocks/segy
+	branch = refs/heads/main
