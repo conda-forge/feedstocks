@@ -87150,3 +87150,7 @@
 	url = https://github.com/conda-forge/lz-feedstock.git
 	path = feedstocks/lz
 	branch = refs/heads/main
+[submodule "ada-py"]
+	url = https://github.com/conda-forge/ada-py-feedstock.git
+	path = feedstocks/ada-py
+	branch = refs/heads/main
