@@ -87174,3 +87174,7 @@
 	url = https://github.com/conda-forge/madminer-feedstock.git
 	path = feedstocks/madminer
 	branch = refs/heads/main
+[submodule "unidock"]
+	url = https://github.com/conda-forge/unidock-feedstock.git
+	path = feedstocks/unidock
+	branch = refs/heads/main
