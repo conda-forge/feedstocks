@@ -87166,3 +87166,7 @@
 	url = https://github.com/conda-forge/memoir-feedstock.git
 	path = feedstocks/memoir
 	branch = refs/heads/main
+[submodule "katex"]
+	url = https://github.com/conda-forge/katex-feedstock.git
+	path = feedstocks/katex
+	branch = refs/heads/main
