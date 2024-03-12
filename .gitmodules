@@ -87142,3 +87142,7 @@
 	url = https://github.com/conda-forge/son-feedstock.git
 	path = feedstocks/son
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-smtp"]
+	url = https://github.com/conda-forge/apache-airflow-providers-smtp-feedstock.git
+	path = feedstocks/apache-airflow-providers-smtp
+	branch = refs/heads/main
