@@ -87178,3 +87178,7 @@
 	url = https://github.com/conda-forge/unidock-feedstock.git
 	path = feedstocks/unidock
 	branch = refs/heads/main
+[submodule "pixi-pycharm"]
+	url = https://github.com/conda-forge/pixi-pycharm-feedstock.git
+	path = feedstocks/pixi-pycharm
+	branch = refs/heads/main
