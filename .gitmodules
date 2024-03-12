@@ -87170,3 +87170,7 @@
 	url = https://github.com/conda-forge/katex-feedstock.git
 	path = feedstocks/katex
 	branch = refs/heads/main
+[submodule "madminer"]
+	url = https://github.com/conda-forge/madminer-feedstock.git
+	path = feedstocks/madminer
+	branch = refs/heads/main
