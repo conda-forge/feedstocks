@@ -87138,3 +87138,7 @@
 	url = https://github.com/conda-forge/copernicusmarine-feedstock.git
 	path = feedstocks/copernicusmarine
 	branch = refs/heads/main
+[submodule "son"]
+	url = https://github.com/conda-forge/son-feedstock.git
+	path = feedstocks/son
+	branch = refs/heads/main
