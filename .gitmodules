@@ -87154,3 +87154,7 @@
 	url = https://github.com/conda-forge/ada-py-feedstock.git
 	path = feedstocks/ada-py
 	branch = refs/heads/main
+[submodule "paradigm"]
+	url = https://github.com/conda-forge/paradigm-feedstock.git
+	path = feedstocks/paradigm
+	branch = refs/heads/main
