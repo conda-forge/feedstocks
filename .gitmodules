@@ -87194,3 +87194,7 @@
 	url = https://github.com/conda-forge/r-sdmpredictors-feedstock.git
 	path = feedstocks/r-sdmpredictors
 	branch = refs/heads/main
+[submodule "django-etc"]
+	url = https://github.com/conda-forge/django-etc-feedstock.git
+	path = feedstocks/django-etc
+	branch = refs/heads/main
