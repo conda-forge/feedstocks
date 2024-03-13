@@ -87186,3 +87186,7 @@
 	url = https://github.com/conda-forge/r-mimic.demo-feedstock.git
 	path = feedstocks/r-mimic.demo
 	branch = refs/heads/main
+[submodule "yamlable"]
+	url = https://github.com/conda-forge/yamlable-feedstock.git
+	path = feedstocks/yamlable
+	branch = refs/heads/main
