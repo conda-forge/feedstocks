@@ -87182,3 +87182,7 @@
 	url = https://github.com/conda-forge/pixi-pycharm-feedstock.git
 	path = feedstocks/pixi-pycharm
 	branch = refs/heads/main
+[submodule "r-mimic.demo"]
+	url = https://github.com/conda-forge/r-mimic.demo-feedstock.git
+	path = feedstocks/r-mimic.demo
+	branch = refs/heads/main
