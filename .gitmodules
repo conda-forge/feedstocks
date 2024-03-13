@@ -87206,3 +87206,7 @@
 	url = https://github.com/conda-forge/django-hitcount-feedstock.git
 	path = feedstocks/django-hitcount
 	branch = refs/heads/main
+[submodule "streamlit-reveal-slides"]
+	url = https://github.com/conda-forge/streamlit-reveal-slides-feedstock.git
+	path = feedstocks/streamlit-reveal-slides
+	branch = refs/heads/main
