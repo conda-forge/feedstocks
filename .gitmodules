@@ -87198,3 +87198,7 @@
 	url = https://github.com/conda-forge/django-etc-feedstock.git
 	path = feedstocks/django-etc
 	branch = refs/heads/main
+[submodule "django-star-ratings"]
+	url = https://github.com/conda-forge/django-star-ratings-feedstock.git
+	path = feedstocks/django-star-ratings
+	branch = refs/heads/main
