@@ -87202,3 +87202,7 @@
 	url = https://github.com/conda-forge/django-star-ratings-feedstock.git
 	path = feedstocks/django-star-ratings
 	branch = refs/heads/main
+[submodule "django-hitcount"]
+	url = https://github.com/conda-forge/django-hitcount-feedstock.git
+	path = feedstocks/django-hitcount
+	branch = refs/heads/main
