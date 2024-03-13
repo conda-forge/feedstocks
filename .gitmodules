@@ -87190,3 +87190,7 @@
 	url = https://github.com/conda-forge/yamlable-feedstock.git
 	path = feedstocks/yamlable
 	branch = refs/heads/main
+[submodule "r-sdmpredictors"]
+	url = https://github.com/conda-forge/r-sdmpredictors-feedstock.git
+	path = feedstocks/r-sdmpredictors
+	branch = refs/heads/main
