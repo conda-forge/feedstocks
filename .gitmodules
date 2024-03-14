@@ -87234,3 +87234,7 @@
 	url = https://github.com/conda-forge/autoawq-feedstock.git
 	path = feedstocks/autoawq
 	branch = refs/heads/main
+[submodule "graspologic-native"]
+	url = https://github.com/conda-forge/graspologic-native-feedstock.git
+	path = feedstocks/graspologic-native
+	branch = refs/heads/main
