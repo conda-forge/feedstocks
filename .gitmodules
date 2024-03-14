@@ -87270,3 +87270,7 @@
 	url = https://github.com/conda-forge/dust-feedstock.git
 	path = feedstocks/dust
 	branch = refs/heads/main
+[submodule "python-sscha"]
+	url = https://github.com/conda-forge/python-sscha-feedstock.git
+	path = feedstocks/python-sscha
+	branch = refs/heads/main
