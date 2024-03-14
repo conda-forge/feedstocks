@@ -87222,3 +87222,7 @@
 	url = https://github.com/conda-forge/kineticpredictormodel-feedstock.git
 	path = feedstocks/kineticpredictormodel
 	branch = refs/heads/main
+[submodule "dataflows-tabulator"]
+	url = https://github.com/conda-forge/dataflows-tabulator-feedstock.git
+	path = feedstocks/dataflows-tabulator
+	branch = refs/heads/main
