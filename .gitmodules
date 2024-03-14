@@ -87230,3 +87230,7 @@
 	url = https://github.com/conda-forge/langchain-openai-feedstock.git
 	path = feedstocks/langchain-openai
 	branch = refs/heads/main
+[submodule "autoawq"]
+	url = https://github.com/conda-forge/autoawq-feedstock.git
+	path = feedstocks/autoawq
+	branch = refs/heads/main
