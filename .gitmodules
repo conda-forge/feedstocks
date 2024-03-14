@@ -87266,3 +87266,7 @@
 	url = https://github.com/conda-forge/pymcubes-feedstock.git
 	path = feedstocks/pymcubes
 	branch = refs/heads/main
+[submodule "dust"]
+	url = https://github.com/conda-forge/dust-feedstock.git
+	path = feedstocks/dust
+	branch = refs/heads/main
