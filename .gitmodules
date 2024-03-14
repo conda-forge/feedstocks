@@ -87242,3 +87242,7 @@
 	url = https://github.com/conda-forge/keybert-feedstock.git
 	path = feedstocks/keybert
 	branch = refs/heads/main
+[submodule "fluidfft-mpi_with_fftw"]
+	url = https://github.com/conda-forge/fluidfft-mpi_with_fftw-feedstock.git
+	path = feedstocks/fluidfft-mpi_with_fftw
+	branch = refs/heads/main
