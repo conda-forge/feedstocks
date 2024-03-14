@@ -87254,3 +87254,7 @@
 	url = https://github.com/conda-forge/earthkit-geo-feedstock.git
 	path = feedstocks/earthkit-geo
 	branch = refs/heads/main
+[submodule "psimpy"]
+	url = https://github.com/conda-forge/psimpy-feedstock.git
+	path = feedstocks/psimpy
+	branch = refs/heads/main
