@@ -87250,3 +87250,7 @@
 	url = https://github.com/conda-forge/pydantic-extra-types-feedstock.git
 	path = feedstocks/pydantic-extra-types
 	branch = refs/heads/main
+[submodule "earthkit-geo"]
+	url = https://github.com/conda-forge/earthkit-geo-feedstock.git
+	path = feedstocks/earthkit-geo
+	branch = refs/heads/main
