@@ -87238,3 +87238,7 @@
 	url = https://github.com/conda-forge/graspologic-native-feedstock.git
 	path = feedstocks/graspologic-native
 	branch = refs/heads/main
+[submodule "keybert"]
+	url = https://github.com/conda-forge/keybert-feedstock.git
+	path = feedstocks/keybert
+	branch = refs/heads/main
