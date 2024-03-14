@@ -87226,3 +87226,7 @@
 	url = https://github.com/conda-forge/dataflows-tabulator-feedstock.git
 	path = feedstocks/dataflows-tabulator
 	branch = refs/heads/main
+[submodule "langchain-openai"]
+	url = https://github.com/conda-forge/langchain-openai-feedstock.git
+	path = feedstocks/langchain-openai
+	branch = refs/heads/main
