@@ -87262,3 +87262,7 @@
 	url = https://github.com/conda-forge/brainglobe-atlasapi-feedstock.git
 	path = feedstocks/brainglobe-atlasapi
 	branch = refs/heads/main
+[submodule "pymcubes"]
+	url = https://github.com/conda-forge/pymcubes-feedstock.git
+	path = feedstocks/pymcubes
+	branch = refs/heads/main
