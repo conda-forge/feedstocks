@@ -87246,3 +87246,7 @@
 	url = https://github.com/conda-forge/fluidfft-mpi_with_fftw-feedstock.git
 	path = feedstocks/fluidfft-mpi_with_fftw
 	branch = refs/heads/main
+[submodule "pydantic-extra-types"]
+	url = https://github.com/conda-forge/pydantic-extra-types-feedstock.git
+	path = feedstocks/pydantic-extra-types
+	branch = refs/heads/main
