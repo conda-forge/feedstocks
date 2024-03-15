@@ -87290,3 +87290,7 @@
 	url = https://github.com/conda-forge/pypar-feedstock.git
 	path = feedstocks/pypar
 	branch = refs/heads/main
+[submodule "testgres"]
+	url = https://github.com/conda-forge/testgres-feedstock.git
+	path = feedstocks/testgres
+	branch = refs/heads/main
