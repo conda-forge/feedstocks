@@ -87286,3 +87286,7 @@
 	url = https://github.com/conda-forge/prisms-jobs-feedstock.git
 	path = feedstocks/prisms-jobs
 	branch = refs/heads/main
+[submodule "pypar"]
+	url = https://github.com/conda-forge/pypar-feedstock.git
+	path = feedstocks/pypar
+	branch = refs/heads/main
