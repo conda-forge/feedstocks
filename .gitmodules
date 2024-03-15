@@ -87298,3 +87298,7 @@
 	url = https://github.com/conda-forge/medcoupling-feedstock.git
 	path = feedstocks/medcoupling
 	branch = refs/heads/main
+[submodule "lucky-commit"]
+	url = https://github.com/conda-forge/lucky-commit-feedstock.git
+	path = feedstocks/lucky-commit
+	branch = refs/heads/main
