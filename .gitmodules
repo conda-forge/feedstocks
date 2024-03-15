@@ -87294,3 +87294,7 @@
 	url = https://github.com/conda-forge/testgres-feedstock.git
 	path = feedstocks/testgres
 	branch = refs/heads/main
+[submodule "medcoupling"]
+	url = https://github.com/conda-forge/medcoupling-feedstock.git
+	path = feedstocks/medcoupling
+	branch = refs/heads/main
