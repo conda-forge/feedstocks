@@ -87346,3 +87346,7 @@
 	url = https://github.com/conda-forge/ria-feedstock.git
 	path = feedstocks/ria
 	branch = refs/heads/main
+[submodule "acachecontrol"]
+	url = https://github.com/conda-forge/acachecontrol-feedstock.git
+	path = feedstocks/acachecontrol
+	branch = refs/heads/main
