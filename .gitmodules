@@ -87318,3 +87318,7 @@
 	url = https://github.com/conda-forge/molecular-rectifier-feedstock.git
 	path = feedstocks/molecular-rectifier
 	branch = refs/heads/main
+[submodule "redis-json-dict"]
+	url = https://github.com/conda-forge/redis-json-dict-feedstock.git
+	path = feedstocks/redis-json-dict
+	branch = refs/heads/main
