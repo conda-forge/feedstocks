@@ -87354,3 +87354,7 @@
 	url = https://github.com/conda-forge/aws_secretsmanager_caching-feedstock.git
 	path = feedstocks/aws_secretsmanager_caching
 	branch = refs/heads/main
+[submodule "cosmopharm"]
+	url = https://github.com/conda-forge/cosmopharm-feedstock.git
+	path = feedstocks/cosmopharm
+	branch = refs/heads/main
