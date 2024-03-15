@@ -87310,3 +87310,7 @@
 	url = https://github.com/conda-forge/graspologic-feedstock.git
 	path = feedstocks/graspologic
 	branch = refs/heads/main
+[submodule "alt-profanity-check"]
+	url = https://github.com/conda-forge/alt-profanity-check-feedstock.git
+	path = feedstocks/alt-profanity-check
+	branch = refs/heads/main
