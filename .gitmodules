@@ -87278,3 +87278,7 @@
 	url = https://github.com/conda-forge/cellconstructor-feedstock.git
 	path = feedstocks/cellconstructor
 	branch = refs/heads/main
+[submodule "tdscha"]
+	url = https://github.com/conda-forge/tdscha-feedstock.git
+	path = feedstocks/tdscha
+	branch = refs/heads/main
