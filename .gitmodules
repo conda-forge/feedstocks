@@ -87282,3 +87282,7 @@
 	url = https://github.com/conda-forge/tdscha-feedstock.git
 	path = feedstocks/tdscha
 	branch = refs/heads/main
+[submodule "prisms-jobs"]
+	url = https://github.com/conda-forge/prisms-jobs-feedstock.git
+	path = feedstocks/prisms-jobs
+	branch = refs/heads/main
