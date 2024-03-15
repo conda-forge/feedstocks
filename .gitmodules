@@ -87330,3 +87330,7 @@
 	url = https://github.com/conda-forge/darkgraylib-feedstock.git
 	path = feedstocks/darkgraylib
 	branch = refs/heads/main
+[submodule "smallworld-api"]
+	url = https://github.com/conda-forge/smallworld-api-feedstock.git
+	path = feedstocks/smallworld-api
+	branch = refs/heads/main
