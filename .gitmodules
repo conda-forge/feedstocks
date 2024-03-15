@@ -87322,3 +87322,7 @@
 	url = https://github.com/conda-forge/redis-json-dict-feedstock.git
 	path = feedstocks/redis-json-dict
 	branch = refs/heads/main
+[submodule "elphmod"]
+	url = https://github.com/conda-forge/elphmod-feedstock.git
+	path = feedstocks/elphmod
+	branch = refs/heads/main
