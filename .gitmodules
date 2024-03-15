@@ -87342,3 +87342,7 @@
 	url = https://github.com/conda-forge/rdkit-to-params-feedstock.git
 	path = feedstocks/rdkit-to-params
 	branch = refs/heads/main
+[submodule "ria"]
+	url = https://github.com/conda-forge/ria-feedstock.git
+	path = feedstocks/ria
+	branch = refs/heads/main
