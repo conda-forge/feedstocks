@@ -87326,3 +87326,7 @@
 	url = https://github.com/conda-forge/elphmod-feedstock.git
 	path = feedstocks/elphmod
 	branch = refs/heads/main
+[submodule "darkgraylib"]
+	url = https://github.com/conda-forge/darkgraylib-feedstock.git
+	path = feedstocks/darkgraylib
+	branch = refs/heads/main
