@@ -87338,3 +87338,7 @@
 	url = https://github.com/conda-forge/fragmenstein-feedstock.git
 	path = feedstocks/fragmenstein
 	branch = refs/heads/main
+[submodule "rdkit-to-params"]
+	url = https://github.com/conda-forge/rdkit-to-params-feedstock.git
+	path = feedstocks/rdkit-to-params
+	branch = refs/heads/main
