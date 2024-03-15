@@ -87350,3 +87350,7 @@
 	url = https://github.com/conda-forge/acachecontrol-feedstock.git
 	path = feedstocks/acachecontrol
 	branch = refs/heads/main
+[submodule "aws_secretsmanager_caching"]
+	url = https://github.com/conda-forge/aws_secretsmanager_caching-feedstock.git
+	path = feedstocks/aws_secretsmanager_caching
+	branch = refs/heads/main
