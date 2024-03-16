@@ -87414,3 +87414,7 @@
 	url = https://github.com/conda-forge/plpygis-feedstock.git
 	path = feedstocks/plpygis
 	branch = refs/heads/main
+[submodule "activemq-cpp"]
+	url = https://github.com/conda-forge/activemq-cpp-feedstock.git
+	path = feedstocks/activemq-cpp
+	branch = refs/heads/main
