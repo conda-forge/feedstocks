@@ -87402,3 +87402,7 @@
 	url = https://github.com/conda-forge/okta-jwt-verifier-feedstock.git
 	path = feedstocks/okta-jwt-verifier
 	branch = refs/heads/main
+[submodule "django-utils-six"]
+	url = https://github.com/conda-forge/django-utils-six-feedstock.git
+	path = feedstocks/django-utils-six
+	branch = refs/heads/main
