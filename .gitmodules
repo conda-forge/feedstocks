@@ -87382,3 +87382,7 @@
 	url = https://github.com/conda-forge/frettipy-feedstock.git
 	path = feedstocks/frettipy
 	branch = refs/heads/main
+[submodule "polybeat"]
+	url = https://github.com/conda-forge/polybeat-feedstock.git
+	path = feedstocks/polybeat
+	branch = refs/heads/main
