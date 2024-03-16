@@ -87386,3 +87386,7 @@
 	url = https://github.com/conda-forge/polybeat-feedstock.git
 	path = feedstocks/polybeat
 	branch = refs/heads/main
+[submodule "ttp"]
+	url = https://github.com/conda-forge/ttp-feedstock.git
+	path = feedstocks/ttp
+	branch = refs/heads/main
