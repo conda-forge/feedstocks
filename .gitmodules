@@ -87394,3 +87394,7 @@
 	url = https://github.com/conda-forge/salabim-feedstock.git
 	path = feedstocks/salabim
 	branch = refs/heads/main
+[submodule "hadoop-test-cluster"]
+	url = https://github.com/conda-forge/hadoop-test-cluster-feedstock.git
+	path = feedstocks/hadoop-test-cluster
+	branch = refs/heads/main
