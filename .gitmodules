@@ -87358,3 +87358,7 @@
 	url = https://github.com/conda-forge/cosmopharm-feedstock.git
 	path = feedstocks/cosmopharm
 	branch = refs/heads/main
+[submodule "bython"]
+	url = https://github.com/conda-forge/bython-feedstock.git
+	path = feedstocks/bython
+	branch = refs/heads/main
