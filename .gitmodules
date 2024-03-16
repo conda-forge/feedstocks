@@ -87370,3 +87370,7 @@
 	url = https://github.com/conda-forge/hipcc-feedstock.git
 	path = feedstocks/hipcc
 	branch = refs/heads/main
+[submodule "makemake90"]
+	url = https://github.com/conda-forge/makemake90-feedstock.git
+	path = feedstocks/makemake90
+	branch = refs/heads/main
