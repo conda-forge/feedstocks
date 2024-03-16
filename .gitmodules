@@ -87362,3 +87362,7 @@
 	url = https://github.com/conda-forge/bython-feedstock.git
 	path = feedstocks/bython
 	branch = refs/heads/main
+[submodule "librerun-sdk"]
+	url = https://github.com/conda-forge/librerun-sdk-feedstock.git
+	path = feedstocks/librerun-sdk
+	branch = refs/heads/main
