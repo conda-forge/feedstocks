@@ -87398,3 +87398,7 @@
 	url = https://github.com/conda-forge/hadoop-test-cluster-feedstock.git
 	path = feedstocks/hadoop-test-cluster
 	branch = refs/heads/main
+[submodule "okta-jwt-verifier"]
+	url = https://github.com/conda-forge/okta-jwt-verifier-feedstock.git
+	path = feedstocks/okta-jwt-verifier
+	branch = refs/heads/main
