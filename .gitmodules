@@ -87410,3 +87410,7 @@
 	url = https://github.com/conda-forge/parprocco-feedstock.git
 	path = feedstocks/parprocco
 	branch = refs/heads/main
+[submodule "plpygis"]
+	url = https://github.com/conda-forge/plpygis-feedstock.git
+	path = feedstocks/plpygis
+	branch = refs/heads/main
