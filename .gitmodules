@@ -87378,3 +87378,7 @@
 	url = https://github.com/conda-forge/storylines-feedstock.git
 	path = feedstocks/storylines
 	branch = refs/heads/main
+[submodule "frettipy"]
+	url = https://github.com/conda-forge/frettipy-feedstock.git
+	path = feedstocks/frettipy
+	branch = refs/heads/main
