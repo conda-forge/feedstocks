@@ -87366,3 +87366,7 @@
 	url = https://github.com/conda-forge/librerun-sdk-feedstock.git
 	path = feedstocks/librerun-sdk
 	branch = refs/heads/main
+[submodule "hipcc"]
+	url = https://github.com/conda-forge/hipcc-feedstock.git
+	path = feedstocks/hipcc
+	branch = refs/heads/main
