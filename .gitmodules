@@ -87406,3 +87406,7 @@
 	url = https://github.com/conda-forge/django-utils-six-feedstock.git
 	path = feedstocks/django-utils-six
 	branch = refs/heads/main
+[submodule "parprocco"]
+	url = https://github.com/conda-forge/parprocco-feedstock.git
+	path = feedstocks/parprocco
+	branch = refs/heads/main
