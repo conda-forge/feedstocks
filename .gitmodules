@@ -87422,3 +87422,7 @@
 	url = https://github.com/conda-forge/altair_tiles-feedstock.git
 	path = feedstocks/altair_tiles
 	branch = refs/heads/main
+[submodule "optimask"]
+	url = https://github.com/conda-forge/optimask-feedstock.git
+	path = feedstocks/optimask
+	branch = refs/heads/main
