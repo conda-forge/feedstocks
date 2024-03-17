@@ -87426,3 +87426,7 @@
 	url = https://github.com/conda-forge/optimask-feedstock.git
 	path = feedstocks/optimask
 	branch = refs/heads/main
+[submodule "datashuttle"]
+	url = https://github.com/conda-forge/datashuttle-feedstock.git
+	path = feedstocks/datashuttle
+	branch = refs/heads/main
