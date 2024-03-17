@@ -87430,3 +87430,7 @@
 	url = https://github.com/conda-forge/datashuttle-feedstock.git
 	path = feedstocks/datashuttle
 	branch = refs/heads/main
+[submodule "chess"]
+	url = https://github.com/conda-forge/chess-feedstock.git
+	path = feedstocks/chess
+	branch = refs/heads/main
