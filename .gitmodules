@@ -87434,3 +87434,7 @@
 	url = https://github.com/conda-forge/chess-feedstock.git
 	path = feedstocks/chess
 	branch = refs/heads/main
+[submodule "xarg-python"]
+	url = https://github.com/conda-forge/xarg-python-feedstock.git
+	path = feedstocks/xarg-python
+	branch = refs/heads/main
