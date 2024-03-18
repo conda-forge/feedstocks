@@ -87438,3 +87438,7 @@
 	url = https://github.com/conda-forge/xarg-python-feedstock.git
 	path = feedstocks/xarg-python
 	branch = refs/heads/main
+[submodule "cppimport"]
+	url = https://github.com/conda-forge/cppimport-feedstock.git
+	path = feedstocks/cppimport
+	branch = refs/heads/main
