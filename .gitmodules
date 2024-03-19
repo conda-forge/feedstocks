@@ -87482,3 +87482,7 @@
 	url = https://github.com/conda-forge/lpsolvers-feedstock.git
 	path = feedstocks/lpsolvers
 	branch = refs/heads/main
+[submodule "rtopy"]
+	url = https://github.com/conda-forge/rtopy-feedstock.git
+	path = feedstocks/rtopy
+	branch = refs/heads/main
