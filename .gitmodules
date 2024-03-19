@@ -87462,3 +87462,7 @@
 	url = https://github.com/conda-forge/earthstat-feedstock.git
 	path = feedstocks/earthstat
 	branch = refs/heads/main
+[submodule "rxnmapper"]
+	url = https://github.com/conda-forge/rxnmapper-feedstock.git
+	path = feedstocks/rxnmapper
+	branch = refs/heads/main
