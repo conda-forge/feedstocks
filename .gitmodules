@@ -87450,3 +87450,7 @@
 	url = https://github.com/conda-forge/posebusters-feedstock.git
 	path = feedstocks/posebusters
 	branch = refs/heads/main
+[submodule "eis_toolkit"]
+	url = https://github.com/conda-forge/eis_toolkit-feedstock.git
+	path = feedstocks/eis_toolkit
+	branch = refs/heads/main
