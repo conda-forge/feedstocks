@@ -87478,3 +87478,7 @@
 	url = https://github.com/conda-forge/rxn-chem-utils-feedstock.git
 	path = feedstocks/rxn-chem-utils
 	branch = refs/heads/main
+[submodule "lpsolvers"]
+	url = https://github.com/conda-forge/lpsolvers-feedstock.git
+	path = feedstocks/lpsolvers
+	branch = refs/heads/main
