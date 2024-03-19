@@ -87474,3 +87474,7 @@
 	url = https://github.com/conda-forge/rxn-utils-feedstock.git
 	path = feedstocks/rxn-utils
 	branch = refs/heads/main
+[submodule "rxn-chem-utils"]
+	url = https://github.com/conda-forge/rxn-chem-utils-feedstock.git
+	path = feedstocks/rxn-chem-utils
+	branch = refs/heads/main
