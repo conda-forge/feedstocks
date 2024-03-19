@@ -87458,3 +87458,7 @@
 	url = https://github.com/conda-forge/unfold-feedstock.git
 	path = feedstocks/unfold
 	branch = refs/heads/main
+[submodule "earthstat"]
+	url = https://github.com/conda-forge/earthstat-feedstock.git
+	path = feedstocks/earthstat
+	branch = refs/heads/main
