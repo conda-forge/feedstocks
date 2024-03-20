@@ -87502,3 +87502,7 @@
 	url = https://github.com/conda-forge/dbt-ibis-feedstock.git
 	path = feedstocks/dbt-ibis
 	branch = refs/heads/main
+[submodule "chfem"]
+	url = https://github.com/conda-forge/chfem-feedstock.git
+	path = feedstocks/chfem
+	branch = refs/heads/main
