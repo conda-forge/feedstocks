@@ -87494,3 +87494,7 @@
 	url = https://github.com/conda-forge/caustics-feedstock.git
 	path = feedstocks/caustics
 	branch = refs/heads/main
+[submodule "hepconvert"]
+	url = https://github.com/conda-forge/hepconvert-feedstock.git
+	path = feedstocks/hepconvert
+	branch = refs/heads/main
