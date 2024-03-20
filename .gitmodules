@@ -87498,3 +87498,7 @@
 	url = https://github.com/conda-forge/hepconvert-feedstock.git
 	path = feedstocks/hepconvert
 	branch = refs/heads/main
+[submodule "dbt-ibis"]
+	url = https://github.com/conda-forge/dbt-ibis-feedstock.git
+	path = feedstocks/dbt-ibis
+	branch = refs/heads/main
