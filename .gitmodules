@@ -87490,3 +87490,7 @@
 	url = https://github.com/conda-forge/deepcs-feedstock.git
 	path = feedstocks/deepcs
 	branch = refs/heads/main
+[submodule "caustics"]
+	url = https://github.com/conda-forge/caustics-feedstock.git
+	path = feedstocks/caustics
+	branch = refs/heads/main
