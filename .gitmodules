@@ -87486,3 +87486,7 @@
 	url = https://github.com/conda-forge/rtopy-feedstock.git
 	path = feedstocks/rtopy
 	branch = refs/heads/main
+[submodule "deepcs"]
+	url = https://github.com/conda-forge/deepcs-feedstock.git
+	path = feedstocks/deepcs
+	branch = refs/heads/main
