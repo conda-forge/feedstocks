@@ -87510,3 +87510,7 @@
 	url = https://github.com/conda-forge/zabbix_utils-feedstock.git
 	path = feedstocks/zabbix_utils
 	branch = refs/heads/main
+[submodule "lintsampler"]
+	url = https://github.com/conda-forge/lintsampler-feedstock.git
+	path = feedstocks/lintsampler
+	branch = refs/heads/main
