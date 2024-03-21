@@ -87566,3 +87566,7 @@
 	url = https://github.com/conda-forge/pytest-aio-feedstock.git
 	path = feedstocks/pytest-aio
 	branch = refs/heads/main
+[submodule "cdlib"]
+	url = https://github.com/conda-forge/cdlib-feedstock.git
+	path = feedstocks/cdlib
+	branch = refs/heads/main
