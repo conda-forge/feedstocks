@@ -87554,3 +87554,7 @@
 	url = https://github.com/conda-forge/rinohtype-feedstock.git
 	path = feedstocks/rinohtype
 	branch = refs/heads/main
+[submodule "nox-poetry"]
+	url = https://github.com/conda-forge/nox-poetry-feedstock.git
+	path = feedstocks/nox-poetry
+	branch = refs/heads/main
