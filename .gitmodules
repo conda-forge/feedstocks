@@ -87562,3 +87562,7 @@
 	url = https://github.com/conda-forge/fides-feedstock.git
 	path = feedstocks/fides
 	branch = refs/heads/main
+[submodule "pytest-aio"]
+	url = https://github.com/conda-forge/pytest-aio-feedstock.git
+	path = feedstocks/pytest-aio
+	branch = refs/heads/main
