@@ -87518,3 +87518,7 @@
 	url = https://github.com/conda-forge/markov-clustering-feedstock.git
 	path = feedstocks/markov-clustering
 	branch = refs/heads/main
+[submodule "nf1"]
+	url = https://github.com/conda-forge/nf1-feedstock.git
+	path = feedstocks/nf1
+	branch = refs/heads/main
