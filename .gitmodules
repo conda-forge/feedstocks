@@ -87542,3 +87542,7 @@
 	url = https://github.com/conda-forge/angelcommunity-feedstock.git
 	path = feedstocks/angelcommunity
 	branch = refs/heads/main
+[submodule "demon"]
+	url = https://github.com/conda-forge/demon-feedstock.git
+	path = feedstocks/demon
+	branch = refs/heads/main
