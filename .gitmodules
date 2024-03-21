@@ -87534,3 +87534,7 @@
 	url = https://github.com/conda-forge/thresholdclustering-feedstock.git
 	path = feedstocks/thresholdclustering
 	branch = refs/heads/main
+[submodule "eva-lcd"]
+	url = https://github.com/conda-forge/eva-lcd-feedstock.git
+	path = feedstocks/eva-lcd
+	branch = refs/heads/main
