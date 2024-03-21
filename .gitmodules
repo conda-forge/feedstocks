@@ -87522,3 +87522,7 @@
 	url = https://github.com/conda-forge/nf1-feedstock.git
 	path = feedstocks/nf1
 	branch = refs/heads/main
+[submodule "amep"]
+	url = https://github.com/conda-forge/amep-feedstock.git
+	path = feedstocks/amep
+	branch = refs/heads/main
