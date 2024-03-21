@@ -87514,3 +87514,7 @@
 	url = https://github.com/conda-forge/lintsampler-feedstock.git
 	path = feedstocks/lintsampler
 	branch = refs/heads/main
+[submodule "markov-clustering"]
+	url = https://github.com/conda-forge/markov-clustering-feedstock.git
+	path = feedstocks/markov-clustering
+	branch = refs/heads/main
