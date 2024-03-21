@@ -87558,3 +87558,7 @@
 	url = https://github.com/conda-forge/nox-poetry-feedstock.git
 	path = feedstocks/nox-poetry
 	branch = refs/heads/main
+[submodule "fides"]
+	url = https://github.com/conda-forge/fides-feedstock.git
+	path = feedstocks/fides
+	branch = refs/heads/main
