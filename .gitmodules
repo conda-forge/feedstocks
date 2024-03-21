@@ -87538,3 +87538,7 @@
 	url = https://github.com/conda-forge/eva-lcd-feedstock.git
 	path = feedstocks/eva-lcd
 	branch = refs/heads/main
+[submodule "angelcommunity"]
+	url = https://github.com/conda-forge/angelcommunity-feedstock.git
+	path = feedstocks/angelcommunity
+	branch = refs/heads/main
