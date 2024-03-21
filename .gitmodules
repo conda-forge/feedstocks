@@ -87506,3 +87506,7 @@
 	url = https://github.com/conda-forge/chfem-feedstock.git
 	path = feedstocks/chfem
 	branch = refs/heads/main
+[submodule "zabbix_utils"]
+	url = https://github.com/conda-forge/zabbix_utils-feedstock.git
+	path = feedstocks/zabbix_utils
+	branch = refs/heads/main
