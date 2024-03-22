@@ -87602,3 +87602,7 @@
 	url = https://github.com/conda-forge/apriltag-feedstock.git
 	path = feedstocks/apriltag
 	branch = refs/heads/main
+[submodule "r-conf.design"]
+	url = https://github.com/conda-forge/r-conf.design-feedstock.git
+	path = feedstocks/r-conf.design
+	branch = refs/heads/main
