@@ -87582,3 +87582,7 @@
 	url = https://github.com/conda-forge/seapipy-feedstock.git
 	path = feedstocks/seapipy
 	branch = refs/heads/main
+[submodule "csp"]
+	url = https://github.com/conda-forge/csp-feedstock.git
+	path = feedstocks/csp
+	branch = refs/heads/main
