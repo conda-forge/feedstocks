@@ -87586,3 +87586,7 @@
 	url = https://github.com/conda-forge/csp-feedstock.git
 	path = feedstocks/csp
 	branch = refs/heads/main
+[submodule "rustimport"]
+	url = https://github.com/conda-forge/rustimport-feedstock.git
+	path = feedstocks/rustimport
+	branch = refs/heads/main
