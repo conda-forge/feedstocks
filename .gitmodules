@@ -87574,3 +87574,7 @@
 	url = https://github.com/conda-forge/r-idefix-feedstock.git
 	path = feedstocks/r-idefix
 	branch = refs/heads/main
+[submodule "r-logitr"]
+	url = https://github.com/conda-forge/r-logitr-feedstock.git
+	path = feedstocks/r-logitr
+	branch = refs/heads/main
