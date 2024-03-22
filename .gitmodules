@@ -87578,3 +87578,7 @@
 	url = https://github.com/conda-forge/r-logitr-feedstock.git
 	path = feedstocks/r-logitr
 	branch = refs/heads/main
+[submodule "seapipy"]
+	url = https://github.com/conda-forge/seapipy-feedstock.git
+	path = feedstocks/seapipy
+	branch = refs/heads/main
