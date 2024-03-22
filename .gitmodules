@@ -87570,3 +87570,7 @@
 	url = https://github.com/conda-forge/cdlib-feedstock.git
 	path = feedstocks/cdlib
 	branch = refs/heads/main
+[submodule "r-idefix"]
+	url = https://github.com/conda-forge/r-idefix-feedstock.git
+	path = feedstocks/r-idefix
+	branch = refs/heads/main
