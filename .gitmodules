@@ -87590,3 +87590,7 @@
 	url = https://github.com/conda-forge/rustimport-feedstock.git
 	path = feedstocks/rustimport
 	branch = refs/heads/main
+[submodule "skpro"]
+	url = https://github.com/conda-forge/skpro-feedstock.git
+	path = feedstocks/skpro
+	branch = refs/heads/main
