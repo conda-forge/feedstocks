@@ -87598,3 +87598,7 @@
 	url = https://github.com/conda-forge/daml-feedstock.git
 	path = feedstocks/daml
 	branch = refs/heads/main
+[submodule "apriltag"]
+	url = https://github.com/conda-forge/apriltag-feedstock.git
+	path = feedstocks/apriltag
+	branch = refs/heads/main
