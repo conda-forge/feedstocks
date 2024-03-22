@@ -87594,3 +87594,7 @@
 	url = https://github.com/conda-forge/skpro-feedstock.git
 	path = feedstocks/skpro
 	branch = refs/heads/main
+[submodule "daml"]
+	url = https://github.com/conda-forge/daml-feedstock.git
+	path = feedstocks/daml
+	branch = refs/heads/main
