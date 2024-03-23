@@ -87614,3 +87614,7 @@
 	url = https://github.com/conda-forge/django-dcat-feedstock.git
 	path = feedstocks/django-dcat
 	branch = refs/heads/main
+[submodule "django-log-viewer"]
+	url = https://github.com/conda-forge/django-log-viewer-feedstock.git
+	path = feedstocks/django-log-viewer
+	branch = refs/heads/main
