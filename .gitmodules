@@ -87606,3 +87606,7 @@
 	url = https://github.com/conda-forge/r-conf.design-feedstock.git
 	path = feedstocks/r-conf.design
 	branch = refs/heads/main
+[submodule "django-db-logger"]
+	url = https://github.com/conda-forge/django-db-logger-feedstock.git
+	path = feedstocks/django-db-logger
+	branch = refs/heads/main
