@@ -87638,3 +87638,7 @@
 	url = https://github.com/conda-forge/recordclass-feedstock.git
 	path = feedstocks/recordclass
 	branch = refs/heads/main
+[submodule "countest"]
+	url = https://github.com/conda-forge/countest-feedstock.git
+	path = feedstocks/countest
+	branch = refs/heads/main
