@@ -87650,3 +87650,7 @@
 	url = https://github.com/conda-forge/polars-ds-feedstock.git
 	path = feedstocks/polars-ds
 	branch = refs/heads/main
+[submodule "unstructured-client"]
+	url = https://github.com/conda-forge/unstructured-client-feedstock.git
+	path = feedstocks/unstructured-client
+	branch = refs/heads/main
