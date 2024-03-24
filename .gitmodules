@@ -87690,3 +87690,7 @@
 	url = https://github.com/conda-forge/pathlib-abc-feedstock.git
 	path = feedstocks/pathlib-abc
 	branch = refs/heads/main
+[submodule "genomekit"]
+	url = https://github.com/conda-forge/genomekit-feedstock.git
+	path = feedstocks/genomekit
+	branch = refs/heads/main
