@@ -87646,3 +87646,7 @@
 	url = https://github.com/conda-forge/llmlingua-feedstock.git
 	path = feedstocks/llmlingua
 	branch = refs/heads/main
+[submodule "polars-ds"]
+	url = https://github.com/conda-forge/polars-ds-feedstock.git
+	path = feedstocks/polars-ds
+	branch = refs/heads/main
