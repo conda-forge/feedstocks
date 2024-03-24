@@ -87626,3 +87626,7 @@
 	url = https://github.com/conda-forge/igor2-feedstock.git
 	path = feedstocks/igor2
 	branch = refs/heads/main
+[submodule "subgroups"]
+	url = https://github.com/conda-forge/subgroups-feedstock.git
+	path = feedstocks/subgroups
+	branch = refs/heads/main
