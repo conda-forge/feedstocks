@@ -87642,3 +87642,7 @@
 	url = https://github.com/conda-forge/countest-feedstock.git
 	path = feedstocks/countest
 	branch = refs/heads/main
+[submodule "llmlingua"]
+	url = https://github.com/conda-forge/llmlingua-feedstock.git
+	path = feedstocks/llmlingua
+	branch = refs/heads/main
