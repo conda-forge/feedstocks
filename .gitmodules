@@ -87658,3 +87658,7 @@
 	url = https://github.com/conda-forge/litellm-feedstock.git
 	path = feedstocks/litellm
 	branch = refs/heads/main
+[submodule "matplotlib-fontja"]
+	url = https://github.com/conda-forge/matplotlib-fontja-feedstock.git
+	path = feedstocks/matplotlib-fontja
+	branch = refs/heads/main
