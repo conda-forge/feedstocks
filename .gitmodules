@@ -87682,3 +87682,7 @@
 	url = https://github.com/conda-forge/python-iso639-feedstock.git
 	path = feedstocks/python-iso639
 	branch = refs/heads/main
+[submodule "cad_to_dagmc"]
+	url = https://github.com/conda-forge/cad_to_dagmc-feedstock.git
+	path = feedstocks/cad_to_dagmc
+	branch = refs/heads/main
