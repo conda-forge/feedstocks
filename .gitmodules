@@ -87670,3 +87670,7 @@
 	url = https://github.com/conda-forge/aestream-feedstock.git
 	path = feedstocks/aestream
 	branch = refs/heads/main
+[submodule "pytest-codspeed"]
+	url = https://github.com/conda-forge/pytest-codspeed-feedstock.git
+	path = feedstocks/pytest-codspeed
+	branch = refs/heads/main
