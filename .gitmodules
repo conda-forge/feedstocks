@@ -87622,3 +87622,7 @@
 	url = https://github.com/conda-forge/serialite-feedstock.git
 	path = feedstocks/serialite
 	branch = refs/heads/main
+[submodule "igor2"]
+	url = https://github.com/conda-forge/igor2-feedstock.git
+	path = feedstocks/igor2
+	branch = refs/heads/main
