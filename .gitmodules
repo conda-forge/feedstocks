@@ -87678,3 +87678,7 @@
 	url = https://github.com/conda-forge/unstructured-feedstock.git
 	path = feedstocks/unstructured
 	branch = refs/heads/main
+[submodule "python-iso639"]
+	url = https://github.com/conda-forge/python-iso639-feedstock.git
+	path = feedstocks/python-iso639
+	branch = refs/heads/main
