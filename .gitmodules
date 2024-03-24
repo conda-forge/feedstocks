@@ -87618,3 +87618,7 @@
 	url = https://github.com/conda-forge/django-log-viewer-feedstock.git
 	path = feedstocks/django-log-viewer
 	branch = refs/heads/main
+[submodule "serialite"]
+	url = https://github.com/conda-forge/serialite-feedstock.git
+	path = feedstocks/serialite
+	branch = refs/heads/main
