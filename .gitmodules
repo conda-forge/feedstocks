@@ -87634,3 +87634,7 @@
 	url = https://github.com/conda-forge/r-doe.base-feedstock.git
 	path = feedstocks/r-doe.base
 	branch = refs/heads/main
+[submodule "recordclass"]
+	url = https://github.com/conda-forge/recordclass-feedstock.git
+	path = feedstocks/recordclass
+	branch = refs/heads/main
