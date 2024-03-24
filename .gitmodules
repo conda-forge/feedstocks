@@ -87686,3 +87686,7 @@
 	url = https://github.com/conda-forge/cad_to_dagmc-feedstock.git
 	path = feedstocks/cad_to_dagmc
 	branch = refs/heads/main
+[submodule "pathlib-abc"]
+	url = https://github.com/conda-forge/pathlib-abc-feedstock.git
+	path = feedstocks/pathlib-abc
+	branch = refs/heads/main
