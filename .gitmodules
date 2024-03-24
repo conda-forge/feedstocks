@@ -87654,3 +87654,7 @@
 	url = https://github.com/conda-forge/unstructured-client-feedstock.git
 	path = feedstocks/unstructured-client
 	branch = refs/heads/main
+[submodule "litellm"]
+	url = https://github.com/conda-forge/litellm-feedstock.git
+	path = feedstocks/litellm
+	branch = refs/heads/main
