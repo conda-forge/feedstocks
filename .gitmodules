@@ -87694,3 +87694,7 @@
 	url = https://github.com/conda-forge/genomekit-feedstock.git
 	path = feedstocks/genomekit
 	branch = refs/heads/main
+[submodule "tokentrim"]
+	url = https://github.com/conda-forge/tokentrim-feedstock.git
+	path = feedstocks/tokentrim
+	branch = refs/heads/main
