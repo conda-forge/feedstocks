@@ -87630,3 +87630,7 @@
 	url = https://github.com/conda-forge/subgroups-feedstock.git
 	path = feedstocks/subgroups
 	branch = refs/heads/main
+[submodule "r-doe.base"]
+	url = https://github.com/conda-forge/r-doe.base-feedstock.git
+	path = feedstocks/r-doe.base
+	branch = refs/heads/main
