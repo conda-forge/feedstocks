@@ -87674,3 +87674,7 @@
 	url = https://github.com/conda-forge/pytest-codspeed-feedstock.git
 	path = feedstocks/pytest-codspeed
 	branch = refs/heads/main
+[submodule "unstructured"]
+	url = https://github.com/conda-forge/unstructured-feedstock.git
+	path = feedstocks/unstructured
+	branch = refs/heads/main
