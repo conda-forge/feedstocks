@@ -87698,3 +87698,7 @@
 	url = https://github.com/conda-forge/tokentrim-feedstock.git
 	path = feedstocks/tokentrim
 	branch = refs/heads/main
+[submodule "jsonpath-python"]
+	url = https://github.com/conda-forge/jsonpath-python-feedstock.git
+	path = feedstocks/jsonpath-python
+	branch = refs/heads/main
