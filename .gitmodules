@@ -87710,3 +87710,7 @@
 	url = https://github.com/conda-forge/flit-core-feedstock.git
 	path = feedstocks/flit-core
 	branch = refs/heads/main
+[submodule "sphinx-markdown-builder"]
+	url = https://github.com/conda-forge/sphinx-markdown-builder-feedstock.git
+	path = feedstocks/sphinx-markdown-builder
+	branch = refs/heads/main
