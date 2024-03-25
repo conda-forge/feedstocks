@@ -87702,3 +87702,7 @@
 	url = https://github.com/conda-forge/jsonpath-python-feedstock.git
 	path = feedstocks/jsonpath-python
 	branch = refs/heads/main
+[submodule "r-cbctools"]
+	url = https://github.com/conda-forge/r-cbctools-feedstock.git
+	path = feedstocks/r-cbctools
+	branch = refs/heads/main
