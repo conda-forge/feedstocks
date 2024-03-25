@@ -87706,3 +87706,7 @@
 	url = https://github.com/conda-forge/r-cbctools-feedstock.git
 	path = feedstocks/r-cbctools
 	branch = refs/heads/main
+[submodule "flit-core"]
+	url = https://github.com/conda-forge/flit-core-feedstock.git
+	path = feedstocks/flit-core
+	branch = refs/heads/main
