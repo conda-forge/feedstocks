@@ -87714,3 +87714,7 @@
 	url = https://github.com/conda-forge/sphinx-markdown-builder-feedstock.git
 	path = feedstocks/sphinx-markdown-builder
 	branch = refs/heads/main
+[submodule "sqlite-zstd"]
+	url = https://github.com/conda-forge/sqlite-zstd-feedstock.git
+	path = feedstocks/sqlite-zstd
+	branch = refs/heads/main
