@@ -87754,3 +87754,7 @@
 	url = https://github.com/conda-forge/cantok-feedstock.git
 	path = feedstocks/cantok
 	branch = refs/heads/main
+[submodule "openinference-instrumentation-mistralai"]
+	url = https://github.com/conda-forge/openinference-instrumentation-mistralai-feedstock.git
+	path = feedstocks/openinference-instrumentation-mistralai
+	branch = refs/heads/main
