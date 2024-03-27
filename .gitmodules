@@ -87766,3 +87766,7 @@
 	url = https://github.com/conda-forge/bayesianbandits-feedstock.git
 	path = feedstocks/bayesianbandits
 	branch = refs/heads/main
+[submodule "targ"]
+	url = https://github.com/conda-forge/targ-feedstock.git
+	path = feedstocks/targ
+	branch = refs/heads/main
