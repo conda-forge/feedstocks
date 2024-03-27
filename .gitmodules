@@ -87718,3 +87718,7 @@
 	url = https://github.com/conda-forge/sqlite-zstd-feedstock.git
 	path = feedstocks/sqlite-zstd
 	branch = refs/heads/main
+[submodule "emptylog"]
+	url = https://github.com/conda-forge/emptylog-feedstock.git
+	path = feedstocks/emptylog
+	branch = refs/heads/main
