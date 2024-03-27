@@ -87762,3 +87762,7 @@
 	url = https://github.com/conda-forge/dbt-databricks-feedstock.git
 	path = feedstocks/dbt-databricks
 	branch = refs/heads/main
+[submodule "bayesianbandits"]
+	url = https://github.com/conda-forge/bayesianbandits-feedstock.git
+	path = feedstocks/bayesianbandits
+	branch = refs/heads/main
