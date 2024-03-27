@@ -87738,3 +87738,7 @@
 	url = https://github.com/conda-forge/meos-feedstock.git
 	path = feedstocks/meos
 	branch = refs/heads/main
+[submodule "pylibjpeg"]
+	url = https://github.com/conda-forge/pylibjpeg-feedstock.git
+	path = feedstocks/pylibjpeg
+	branch = refs/heads/main
