@@ -87758,3 +87758,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-mistralai-feedstock.git
 	path = feedstocks/openinference-instrumentation-mistralai
 	branch = refs/heads/main
+[submodule "dbt-databricks"]
+	url = https://github.com/conda-forge/dbt-databricks-feedstock.git
+	path = feedstocks/dbt-databricks
+	branch = refs/heads/main
