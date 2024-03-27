@@ -87770,3 +87770,7 @@
 	url = https://github.com/conda-forge/targ-feedstock.git
 	path = feedstocks/targ
 	branch = refs/heads/main
+[submodule "cibuildwheel"]
+	url = https://github.com/conda-forge/cibuildwheel-feedstock.git
+	path = feedstocks/cibuildwheel
+	branch = refs/heads/main
