@@ -87750,3 +87750,7 @@
 	url = https://github.com/conda-forge/graylint-feedstock.git
 	path = feedstocks/graylint
 	branch = refs/heads/main
+[submodule "cantok"]
+	url = https://github.com/conda-forge/cantok-feedstock.git
+	path = feedstocks/cantok
+	branch = refs/heads/main
