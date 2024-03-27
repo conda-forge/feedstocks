@@ -87774,3 +87774,7 @@
 	url = https://github.com/conda-forge/cibuildwheel-feedstock.git
 	path = feedstocks/cibuildwheel
 	branch = refs/heads/main
+[submodule "openinference-instrumentation"]
+	url = https://github.com/conda-forge/openinference-instrumentation-feedstock.git
+	path = feedstocks/openinference-instrumentation
+	branch = refs/heads/main
