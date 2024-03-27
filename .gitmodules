@@ -87742,3 +87742,7 @@
 	url = https://github.com/conda-forge/pylibjpeg-feedstock.git
 	path = feedstocks/pylibjpeg
 	branch = refs/heads/main
+[submodule "miniopy-async"]
+	url = https://github.com/conda-forge/miniopy-async-feedstock.git
+	path = feedstocks/miniopy-async
+	branch = refs/heads/main
