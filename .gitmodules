@@ -87726,3 +87726,7 @@
 	url = https://github.com/conda-forge/deepinv-feedstock.git
 	path = feedstocks/deepinv
 	branch = refs/heads/main
+[submodule "pymeos"]
+	url = https://github.com/conda-forge/pymeos-feedstock.git
+	path = feedstocks/pymeos
+	branch = refs/heads/main
