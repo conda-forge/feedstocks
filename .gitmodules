@@ -87782,3 +87782,7 @@
 	url = https://github.com/conda-forge/ismrmrd-python-feedstock.git
 	path = feedstocks/ismrmrd-python
 	branch = refs/heads/main
+[submodule "mosdef-dihedral-fit"]
+	url = https://github.com/conda-forge/mosdef-dihedral-fit-feedstock.git
+	path = feedstocks/mosdef-dihedral-fit
+	branch = refs/heads/main
