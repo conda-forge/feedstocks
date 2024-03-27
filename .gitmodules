@@ -87730,3 +87730,7 @@
 	url = https://github.com/conda-forge/pymeos-feedstock.git
 	path = feedstocks/pymeos
 	branch = refs/heads/main
+[submodule "pymeos-cffi"]
+	url = https://github.com/conda-forge/pymeos-cffi-feedstock.git
+	path = feedstocks/pymeos-cffi
+	branch = refs/heads/main
