@@ -87722,3 +87722,7 @@
 	url = https://github.com/conda-forge/emptylog-feedstock.git
 	path = feedstocks/emptylog
 	branch = refs/heads/main
+[submodule "deepinv"]
+	url = https://github.com/conda-forge/deepinv-feedstock.git
+	path = feedstocks/deepinv
+	branch = refs/heads/main
