@@ -87778,3 +87778,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-feedstock.git
 	path = feedstocks/openinference-instrumentation
 	branch = refs/heads/main
+[submodule "ismrmrd-python"]
+	url = https://github.com/conda-forge/ismrmrd-python-feedstock.git
+	path = feedstocks/ismrmrd-python
+	branch = refs/heads/main
