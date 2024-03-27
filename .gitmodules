@@ -87746,3 +87746,7 @@
 	url = https://github.com/conda-forge/miniopy-async-feedstock.git
 	path = feedstocks/miniopy-async
 	branch = refs/heads/main
+[submodule "graylint"]
+	url = https://github.com/conda-forge/graylint-feedstock.git
+	path = feedstocks/graylint
+	branch = refs/heads/main
