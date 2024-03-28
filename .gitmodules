@@ -87794,3 +87794,7 @@
 	url = https://github.com/conda-forge/trata-feedstock.git
 	path = feedstocks/trata
 	branch = refs/heads/main
+[submodule "jalali-core"]
+	url = https://github.com/conda-forge/jalali-core-feedstock.git
+	path = feedstocks/jalali-core
+	branch = refs/heads/main
