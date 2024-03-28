@@ -87810,3 +87810,7 @@
 	url = https://github.com/conda-forge/kfac-jax-feedstock.git
 	path = feedstocks/kfac-jax
 	branch = refs/heads/main
+[submodule "typenames"]
+	url = https://github.com/conda-forge/typenames-feedstock.git
+	path = feedstocks/typenames
+	branch = refs/heads/main
