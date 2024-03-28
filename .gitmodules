@@ -87822,3 +87822,7 @@
 	url = https://github.com/conda-forge/suby-feedstock.git
 	path = feedstocks/suby
 	branch = refs/heads/main
+[submodule "protis"]
+	url = https://github.com/conda-forge/protis-feedstock.git
+	path = feedstocks/protis
+	branch = refs/heads/main
