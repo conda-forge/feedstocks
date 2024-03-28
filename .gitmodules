@@ -87806,3 +87806,7 @@
 	url = https://github.com/conda-forge/amp-atomistics-feedstock.git
 	path = feedstocks/amp-atomistics
 	branch = refs/heads/main
+[submodule "kfac-jax"]
+	url = https://github.com/conda-forge/kfac-jax-feedstock.git
+	path = feedstocks/kfac-jax
+	branch = refs/heads/main
