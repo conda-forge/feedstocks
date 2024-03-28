@@ -87798,3 +87798,7 @@
 	url = https://github.com/conda-forge/jalali-core-feedstock.git
 	path = feedstocks/jalali-core
 	branch = refs/heads/main
+[submodule "sortedcontainers-pydantic"]
+	url = https://github.com/conda-forge/sortedcontainers-pydantic-feedstock.git
+	path = feedstocks/sortedcontainers-pydantic
+	branch = refs/heads/main
