@@ -87846,3 +87846,7 @@
 	url = https://github.com/conda-forge/qdrant-client-feedstock.git
 	path = feedstocks/qdrant-client
 	branch = refs/heads/main
+[submodule "striprtf"]
+	url = https://github.com/conda-forge/striprtf-feedstock.git
+	path = feedstocks/striprtf
+	branch = refs/heads/main
