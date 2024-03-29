@@ -87826,3 +87826,7 @@
 	url = https://github.com/conda-forge/protis-feedstock.git
 	path = feedstocks/protis
 	branch = refs/heads/main
+[submodule "pytest-skip-slow"]
+	url = https://github.com/conda-forge/pytest-skip-slow-feedstock.git
+	path = feedstocks/pytest-skip-slow
+	branch = refs/heads/main
