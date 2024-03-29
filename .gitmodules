@@ -87834,3 +87834,7 @@
 	url = https://github.com/conda-forge/pymupdf-feedstock.git
 	path = feedstocks/pymupdf
 	branch = refs/heads/main
+[submodule "nushell"]
+	url = https://github.com/conda-forge/nushell-feedstock.git
+	path = feedstocks/nushell
+	branch = refs/heads/main
