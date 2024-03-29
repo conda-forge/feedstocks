@@ -87842,3 +87842,7 @@
 	url = https://github.com/conda-forge/maestrowf-feedstock.git
 	path = feedstocks/maestrowf
 	branch = refs/heads/main
+[submodule "qdrant-client"]
+	url = https://github.com/conda-forge/qdrant-client-feedstock.git
+	path = feedstocks/qdrant-client
+	branch = refs/heads/main
