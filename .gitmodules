@@ -87838,3 +87838,7 @@
 	url = https://github.com/conda-forge/nushell-feedstock.git
 	path = feedstocks/nushell
 	branch = refs/heads/main
+[submodule "maestrowf"]
+	url = https://github.com/conda-forge/maestrowf-feedstock.git
+	path = feedstocks/maestrowf
+	branch = refs/heads/main
