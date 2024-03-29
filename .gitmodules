@@ -87854,3 +87854,7 @@
 	url = https://github.com/conda-forge/alignn-feedstock.git
 	path = feedstocks/alignn
 	branch = refs/heads/main
+[submodule "pymupdf-fonts"]
+	url = https://github.com/conda-forge/pymupdf-fonts-feedstock.git
+	path = feedstocks/pymupdf-fonts
+	branch = refs/heads/main
