@@ -87858,3 +87858,7 @@
 	url = https://github.com/conda-forge/pymupdf-fonts-feedstock.git
 	path = feedstocks/pymupdf-fonts
 	branch = refs/heads/main
+[submodule "pbs-installer"]
+	url = https://github.com/conda-forge/pbs-installer-feedstock.git
+	path = feedstocks/pbs-installer
+	branch = refs/heads/main
