@@ -87862,3 +87862,7 @@
 	url = https://github.com/conda-forge/pbs-installer-feedstock.git
 	path = feedstocks/pbs-installer
 	branch = refs/heads/main
+[submodule "antmocdata"]
+	url = https://github.com/conda-forge/antmocdata-feedstock.git
+	path = feedstocks/antmocdata
+	branch = refs/heads/main
