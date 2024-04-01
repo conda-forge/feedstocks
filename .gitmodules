@@ -87874,3 +87874,7 @@
 	url = https://github.com/conda-forge/hishel-feedstock.git
 	path = feedstocks/hishel
 	branch = refs/heads/main
+[submodule "opentelemetry-exporter-gcp-trace"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-gcp-trace-feedstock.git
+	path = feedstocks/opentelemetry-exporter-gcp-trace
+	branch = refs/heads/main
