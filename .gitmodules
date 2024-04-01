@@ -87882,3 +87882,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-gcp-monitoring-feedstock.git
 	path = feedstocks/opentelemetry-exporter-gcp-monitoring
 	branch = refs/heads/main
+[submodule "repo-review"]
+	url = https://github.com/conda-forge/repo-review-feedstock.git
+	path = feedstocks/repo-review
+	branch = refs/heads/main
