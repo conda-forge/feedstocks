@@ -87890,3 +87890,7 @@
 	url = https://github.com/conda-forge/cad-to-openmc-feedstock.git
 	path = feedstocks/cad-to-openmc
 	branch = refs/heads/main
+[submodule "opentelemetry-propagator-gcp"]
+	url = https://github.com/conda-forge/opentelemetry-propagator-gcp-feedstock.git
+	path = feedstocks/opentelemetry-propagator-gcp
+	branch = refs/heads/main
