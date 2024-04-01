@@ -87886,3 +87886,7 @@
 	url = https://github.com/conda-forge/repo-review-feedstock.git
 	path = feedstocks/repo-review
 	branch = refs/heads/main
+[submodule "cad-to-openmc"]
+	url = https://github.com/conda-forge/cad-to-openmc-feedstock.git
+	path = feedstocks/cad-to-openmc
+	branch = refs/heads/main
