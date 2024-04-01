@@ -87898,3 +87898,7 @@
 	url = https://github.com/conda-forge/opentelemetry-resourcedetector-gcp-feedstock.git
 	path = feedstocks/opentelemetry-resourcedetector-gcp
 	branch = refs/heads/main
+[submodule "baseopt"]
+	url = https://github.com/conda-forge/baseopt-feedstock.git
+	path = feedstocks/baseopt
+	branch = refs/heads/main
