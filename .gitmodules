@@ -87894,3 +87894,7 @@
 	url = https://github.com/conda-forge/opentelemetry-propagator-gcp-feedstock.git
 	path = feedstocks/opentelemetry-propagator-gcp
 	branch = refs/heads/main
+[submodule "opentelemetry-resourcedetector-gcp"]
+	url = https://github.com/conda-forge/opentelemetry-resourcedetector-gcp-feedstock.git
+	path = feedstocks/opentelemetry-resourcedetector-gcp
+	branch = refs/heads/main
