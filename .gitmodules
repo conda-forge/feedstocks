@@ -87906,3 +87906,7 @@
 	url = https://github.com/conda-forge/getdaft-feedstock.git
 	path = feedstocks/getdaft
 	branch = refs/heads/main
+[submodule "hatch-docstring-description"]
+	url = https://github.com/conda-forge/hatch-docstring-description-feedstock.git
+	path = feedstocks/hatch-docstring-description
+	branch = refs/heads/main
