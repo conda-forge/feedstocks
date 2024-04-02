@@ -87918,3 +87918,7 @@
 	url = https://github.com/conda-forge/mdsapt-feedstock.git
 	path = feedstocks/mdsapt
 	branch = refs/heads/main
+[submodule "rollup"]
+	url = https://github.com/conda-forge/rollup-feedstock.git
+	path = feedstocks/rollup
+	branch = refs/heads/main
