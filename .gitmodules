@@ -87914,3 +87914,7 @@
 	url = https://github.com/conda-forge/cargo-feature-feedstock.git
 	path = feedstocks/cargo-feature
 	branch = refs/heads/main
+[submodule "mdsapt"]
+	url = https://github.com/conda-forge/mdsapt-feedstock.git
+	path = feedstocks/mdsapt
+	branch = refs/heads/main
