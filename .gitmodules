@@ -87926,3 +87926,7 @@
 	url = https://github.com/conda-forge/pyqparamwidget-feedstock.git
 	path = feedstocks/pyqparamwidget
 	branch = refs/heads/main
+[submodule "django-structlog"]
+	url = https://github.com/conda-forge/django-structlog-feedstock.git
+	path = feedstocks/django-structlog
+	branch = refs/heads/main
