@@ -87902,3 +87902,7 @@
 	url = https://github.com/conda-forge/baseopt-feedstock.git
 	path = feedstocks/baseopt
 	branch = refs/heads/main
+[submodule "getdaft"]
+	url = https://github.com/conda-forge/getdaft-feedstock.git
+	path = feedstocks/getdaft
+	branch = refs/heads/main
