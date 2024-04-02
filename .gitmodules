@@ -87930,3 +87930,7 @@
 	url = https://github.com/conda-forge/django-structlog-feedstock.git
 	path = feedstocks/django-structlog
 	branch = refs/heads/main
+[submodule "gemviz"]
+	url = https://github.com/conda-forge/gemviz-feedstock.git
+	path = feedstocks/gemviz
+	branch = refs/heads/main
