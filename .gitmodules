@@ -87934,3 +87934,7 @@
 	url = https://github.com/conda-forge/gemviz-feedstock.git
 	path = feedstocks/gemviz
 	branch = refs/heads/main
+[submodule "vastdb"]
+	url = https://github.com/conda-forge/vastdb-feedstock.git
+	path = feedstocks/vastdb
+	branch = refs/heads/main
