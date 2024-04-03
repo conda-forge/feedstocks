@@ -87942,3 +87942,7 @@
 	url = https://github.com/conda-forge/sp-repo-review-feedstock.git
 	path = feedstocks/sp-repo-review
 	branch = refs/heads/main
+[submodule "trame-jupyter-extension"]
+	url = https://github.com/conda-forge/trame-jupyter-extension-feedstock.git
+	path = feedstocks/trame-jupyter-extension
+	branch = refs/heads/main
