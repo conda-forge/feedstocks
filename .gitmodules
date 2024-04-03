@@ -87938,3 +87938,7 @@
 	url = https://github.com/conda-forge/vastdb-feedstock.git
 	path = feedstocks/vastdb
 	branch = refs/heads/main
+[submodule "sp-repo-review"]
+	url = https://github.com/conda-forge/sp-repo-review-feedstock.git
+	path = feedstocks/sp-repo-review
+	branch = refs/heads/main
