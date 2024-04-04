@@ -87954,3 +87954,7 @@
 	url = https://github.com/conda-forge/ipfsspec-feedstock.git
 	path = feedstocks/ipfsspec
 	branch = refs/heads/main
+[submodule "langchain-experimental"]
+	url = https://github.com/conda-forge/langchain-experimental-feedstock.git
+	path = feedstocks/langchain-experimental
+	branch = refs/heads/main
