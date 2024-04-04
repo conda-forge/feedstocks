@@ -87974,3 +87974,7 @@
 	url = https://github.com/conda-forge/mlcroissant-feedstock.git
 	path = feedstocks/mlcroissant
 	branch = refs/heads/main
+[submodule "eatpy"]
+	url = https://github.com/conda-forge/eatpy-feedstock.git
+	path = feedstocks/eatpy
+	branch = refs/heads/main
