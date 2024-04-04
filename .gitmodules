@@ -87958,3 +87958,7 @@
 	url = https://github.com/conda-forge/langchain-experimental-feedstock.git
 	path = feedstocks/langchain-experimental
 	branch = refs/heads/main
+[submodule "mujs"]
+	url = https://github.com/conda-forge/mujs-feedstock.git
+	path = feedstocks/mujs
+	branch = refs/heads/main
