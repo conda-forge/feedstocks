@@ -87950,3 +87950,7 @@
 	url = https://github.com/conda-forge/django-health-check-feedstock.git
 	path = feedstocks/django-health-check
 	branch = refs/heads/main
+[submodule "ipfsspec"]
+	url = https://github.com/conda-forge/ipfsspec-feedstock.git
+	path = feedstocks/ipfsspec
+	branch = refs/heads/main
