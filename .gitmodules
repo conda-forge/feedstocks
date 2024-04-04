@@ -87970,3 +87970,7 @@
 	url = https://github.com/conda-forge/jsonpath-rw-feedstock.git
 	path = feedstocks/jsonpath-rw
 	branch = refs/heads/main
+[submodule "mlcroissant"]
+	url = https://github.com/conda-forge/mlcroissant-feedstock.git
+	path = feedstocks/mlcroissant
+	branch = refs/heads/main
