@@ -87982,3 +87982,7 @@
 	url = https://github.com/conda-forge/r-ddoutlier-feedstock.git
 	path = feedstocks/r-ddoutlier
 	branch = refs/heads/main
+[submodule "pixi-kernel"]
+	url = https://github.com/conda-forge/pixi-kernel-feedstock.git
+	path = feedstocks/pixi-kernel
+	branch = refs/heads/main
