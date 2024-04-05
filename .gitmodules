@@ -87986,3 +87986,7 @@
 	url = https://github.com/conda-forge/pixi-kernel-feedstock.git
 	path = feedstocks/pixi-kernel
 	branch = refs/heads/main
+[submodule "structlog-gcp"]
+	url = https://github.com/conda-forge/structlog-gcp-feedstock.git
+	path = feedstocks/structlog-gcp
+	branch = refs/heads/main
