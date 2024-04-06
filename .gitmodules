@@ -87998,3 +87998,7 @@
 	url = https://github.com/conda-forge/r-eicu.demo-feedstock.git
 	path = feedstocks/r-eicu.demo
 	branch = refs/heads/main
+[submodule "fair"]
+	url = https://github.com/conda-forge/fair-feedstock.git
+	path = feedstocks/fair
+	branch = refs/heads/main
