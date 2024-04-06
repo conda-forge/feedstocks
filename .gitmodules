@@ -87994,3 +87994,7 @@
 	url = https://github.com/conda-forge/r-toastui-feedstock.git
 	path = feedstocks/r-toastui
 	branch = refs/heads/main
+[submodule "r-eicu.demo"]
+	url = https://github.com/conda-forge/r-eicu.demo-feedstock.git
+	path = feedstocks/r-eicu.demo
+	branch = refs/heads/main
