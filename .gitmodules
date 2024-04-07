@@ -88002,3 +88002,7 @@
 	url = https://github.com/conda-forge/fair-feedstock.git
 	path = feedstocks/fair
 	branch = refs/heads/main
+[submodule "e3x"]
+	url = https://github.com/conda-forge/e3x-feedstock.git
+	path = feedstocks/e3x
+	branch = refs/heads/main
