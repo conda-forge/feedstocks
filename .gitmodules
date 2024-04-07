@@ -88006,3 +88006,7 @@
 	url = https://github.com/conda-forge/e3x-feedstock.git
 	path = feedstocks/e3x
 	branch = refs/heads/main
+[submodule "django-prose-editor"]
+	url = https://github.com/conda-forge/django-prose-editor-feedstock.git
+	path = feedstocks/django-prose-editor
+	branch = refs/heads/main
