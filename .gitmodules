@@ -88010,3 +88010,7 @@
 	url = https://github.com/conda-forge/django-prose-editor-feedstock.git
 	path = feedstocks/django-prose-editor
 	branch = refs/heads/main
+[submodule "pydumpling"]
+	url = https://github.com/conda-forge/pydumpling-feedstock.git
+	path = feedstocks/pydumpling
+	branch = refs/heads/main
