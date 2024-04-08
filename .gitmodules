@@ -88074,3 +88074,7 @@
 	url = https://github.com/conda-forge/vale-styles-proselint-feedstock.git
 	path = feedstocks/vale-styles-proselint
 	branch = refs/heads/main
+[submodule "vale-styles-joblint"]
+	url = https://github.com/conda-forge/vale-styles-joblint-feedstock.git
+	path = feedstocks/vale-styles-joblint
+	branch = refs/heads/main
