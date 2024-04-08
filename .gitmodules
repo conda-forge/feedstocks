@@ -88086,3 +88086,7 @@
 	url = https://github.com/conda-forge/vale-styles-alex-feedstock.git
 	path = feedstocks/vale-styles-alex
 	branch = refs/heads/main
+[submodule "vale-styles-google"]
+	url = https://github.com/conda-forge/vale-styles-google-feedstock.git
+	path = feedstocks/vale-styles-google
+	branch = refs/heads/main
