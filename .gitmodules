@@ -88034,3 +88034,7 @@
 	url = https://github.com/conda-forge/erlabpy-feedstock.git
 	path = feedstocks/erlabpy
 	branch = refs/heads/main
+[submodule "pyromark"]
+	url = https://github.com/conda-forge/pyromark-feedstock.git
+	path = feedstocks/pyromark
+	branch = refs/heads/main
