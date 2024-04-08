@@ -88066,3 +88066,7 @@
 	url = https://github.com/conda-forge/opentofu-feedstock.git
 	path = feedstocks/opentofu
 	branch = refs/heads/main
+[submodule "vale-spelling-aoo-mozilla-en-dict"]
+	url = https://github.com/conda-forge/vale-spelling-aoo-mozilla-en-dict-feedstock.git
+	path = feedstocks/vale-spelling-aoo-mozilla-en-dict
+	branch = refs/heads/main
