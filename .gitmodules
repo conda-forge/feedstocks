@@ -88094,3 +88094,7 @@
 	url = https://github.com/conda-forge/vale-styles-microsoft-feedstock.git
 	path = feedstocks/vale-styles-microsoft
 	branch = refs/heads/main
+[submodule "vale-styles-write-good"]
+	url = https://github.com/conda-forge/vale-styles-write-good-feedstock.git
+	path = feedstocks/vale-styles-write-good
+	branch = refs/heads/main
