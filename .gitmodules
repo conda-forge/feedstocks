@@ -88062,3 +88062,7 @@
 	url = https://github.com/conda-forge/litestar-feedstock.git
 	path = feedstocks/litestar
 	branch = refs/heads/main
+[submodule "opentofu"]
+	url = https://github.com/conda-forge/opentofu-feedstock.git
+	path = feedstocks/opentofu
+	branch = refs/heads/main
