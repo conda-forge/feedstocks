@@ -88054,3 +88054,7 @@
 	url = https://github.com/conda-forge/libdispatch-feedstock.git
 	path = feedstocks/libdispatch
 	branch = refs/heads/main
+[submodule "helios"]
+	url = https://github.com/conda-forge/helios-feedstock.git
+	path = feedstocks/helios
+	branch = refs/heads/main
