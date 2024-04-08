@@ -88038,3 +88038,7 @@
 	url = https://github.com/conda-forge/pyromark-feedstock.git
 	path = feedstocks/pyromark
 	branch = refs/heads/main
+[submodule "llmtuner"]
+	url = https://github.com/conda-forge/llmtuner-feedstock.git
+	path = feedstocks/llmtuner
+	branch = refs/heads/main
