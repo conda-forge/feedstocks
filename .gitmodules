@@ -88046,3 +88046,7 @@
 	url = https://github.com/conda-forge/trl-feedstock.git
 	path = feedstocks/trl
 	branch = refs/heads/main
+[submodule "galore-torch"]
+	url = https://github.com/conda-forge/galore-torch-feedstock.git
+	path = feedstocks/galore-torch
+	branch = refs/heads/main
