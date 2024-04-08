@@ -88030,3 +88030,7 @@
 	url = https://github.com/conda-forge/pyrage-feedstock.git
 	path = feedstocks/pyrage
 	branch = refs/heads/main
+[submodule "erlabpy"]
+	url = https://github.com/conda-forge/erlabpy-feedstock.git
+	path = feedstocks/erlabpy
+	branch = refs/heads/main
