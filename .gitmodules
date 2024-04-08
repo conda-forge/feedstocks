@@ -88070,3 +88070,7 @@
 	url = https://github.com/conda-forge/vale-spelling-aoo-mozilla-en-dict-feedstock.git
 	path = feedstocks/vale-spelling-aoo-mozilla-en-dict
 	branch = refs/heads/main
+[submodule "vale-styles-proselint"]
+	url = https://github.com/conda-forge/vale-styles-proselint-feedstock.git
+	path = feedstocks/vale-styles-proselint
+	branch = refs/heads/main
