@@ -88078,3 +88078,7 @@
 	url = https://github.com/conda-forge/vale-styles-joblint-feedstock.git
 	path = feedstocks/vale-styles-joblint
 	branch = refs/heads/main
+[submodule "vale-styles-readability"]
+	url = https://github.com/conda-forge/vale-styles-readability-feedstock.git
+	path = feedstocks/vale-styles-readability
+	branch = refs/heads/main
