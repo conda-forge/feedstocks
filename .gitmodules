@@ -88050,3 +88050,7 @@
 	url = https://github.com/conda-forge/galore-torch-feedstock.git
 	path = feedstocks/galore-torch
 	branch = refs/heads/main
+[submodule "libdispatch"]
+	url = https://github.com/conda-forge/libdispatch-feedstock.git
+	path = feedstocks/libdispatch
+	branch = refs/heads/main
