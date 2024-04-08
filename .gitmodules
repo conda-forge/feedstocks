@@ -88042,3 +88042,7 @@
 	url = https://github.com/conda-forge/llmtuner-feedstock.git
 	path = feedstocks/llmtuner
 	branch = refs/heads/main
+[submodule "trl"]
+	url = https://github.com/conda-forge/trl-feedstock.git
+	path = feedstocks/trl
+	branch = refs/heads/main
