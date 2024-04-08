@@ -88026,3 +88026,7 @@
 	url = https://github.com/conda-forge/r-report-feedstock.git
 	path = feedstocks/r-report
 	branch = refs/heads/main
+[submodule "pyrage"]
+	url = https://github.com/conda-forge/pyrage-feedstock.git
+	path = feedstocks/pyrage
+	branch = refs/heads/main
