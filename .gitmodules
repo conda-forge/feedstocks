@@ -88130,3 +88130,7 @@
 	url = https://github.com/conda-forge/gz-sim-yarp-plugins-feedstock.git
 	path = feedstocks/gz-sim-yarp-plugins
 	branch = refs/heads/main
+[submodule "upkie"]
+	url = https://github.com/conda-forge/upkie-feedstock.git
+	path = feedstocks/upkie
+	branch = refs/heads/main
