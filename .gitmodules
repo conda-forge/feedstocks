@@ -88142,3 +88142,7 @@
 	url = https://github.com/conda-forge/qlient-feedstock.git
 	path = feedstocks/qlient
 	branch = refs/heads/main
+[submodule "qlient-core"]
+	url = https://github.com/conda-forge/qlient-core-feedstock.git
+	path = feedstocks/qlient-core
+	branch = refs/heads/main
