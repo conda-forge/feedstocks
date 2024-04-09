@@ -88106,3 +88106,7 @@
 	url = https://github.com/conda-forge/backports.tarfile-feedstock.git
 	path = feedstocks/backports.tarfile
 	branch = refs/heads/main
+[submodule "frictionless-ckan-mapper"]
+	url = https://github.com/conda-forge/frictionless-ckan-mapper-feedstock.git
+	path = feedstocks/frictionless-ckan-mapper
+	branch = refs/heads/main
