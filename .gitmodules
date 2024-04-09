@@ -88110,3 +88110,7 @@
 	url = https://github.com/conda-forge/frictionless-ckan-mapper-feedstock.git
 	path = feedstocks/frictionless-ckan-mapper
 	branch = refs/heads/main
+[submodule "mkdocs-redirects"]
+	url = https://github.com/conda-forge/mkdocs-redirects-feedstock.git
+	path = feedstocks/mkdocs-redirects
+	branch = refs/heads/main
