@@ -88126,3 +88126,7 @@
 	url = https://github.com/conda-forge/polysche-feedstock.git
 	path = feedstocks/polysche
 	branch = refs/heads/main
+[submodule "gz-sim-yarp-plugins"]
+	url = https://github.com/conda-forge/gz-sim-yarp-plugins-feedstock.git
+	path = feedstocks/gz-sim-yarp-plugins
+	branch = refs/heads/main
