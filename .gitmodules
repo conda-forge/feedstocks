@@ -88138,3 +88138,7 @@
 	url = https://github.com/conda-forge/shadie-feedstock.git
 	path = feedstocks/shadie
 	branch = refs/heads/main
+[submodule "qlient"]
+	url = https://github.com/conda-forge/qlient-feedstock.git
+	path = feedstocks/qlient
+	branch = refs/heads/main
