@@ -88146,3 +88146,7 @@
 	url = https://github.com/conda-forge/qlient-core-feedstock.git
 	path = feedstocks/qlient-core
 	branch = refs/heads/main
+[submodule "torch-nl"]
+	url = https://github.com/conda-forge/torch-nl-feedstock.git
+	path = feedstocks/torch-nl
+	branch = refs/heads/main
