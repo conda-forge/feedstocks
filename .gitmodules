@@ -88122,3 +88122,7 @@
 	url = https://github.com/conda-forge/cargo-make-feedstock.git
 	path = feedstocks/cargo-make
 	branch = refs/heads/main
+[submodule "polysche"]
+	url = https://github.com/conda-forge/polysche-feedstock.git
+	path = feedstocks/polysche
+	branch = refs/heads/main
