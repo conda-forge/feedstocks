@@ -88186,3 +88186,7 @@
 	url = https://github.com/conda-forge/llama-index-cli-feedstock.git
 	path = feedstocks/llama-index-cli
 	branch = refs/heads/main
+[submodule "mesher"]
+	url = https://github.com/conda-forge/mesher-feedstock.git
+	path = feedstocks/mesher
+	branch = refs/heads/main
