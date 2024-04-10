@@ -88166,3 +88166,7 @@
 	url = https://github.com/conda-forge/rattler-build-conda-compat-feedstock.git
 	path = feedstocks/rattler-build-conda-compat
 	branch = refs/heads/main
+[submodule "adani"]
+	url = https://github.com/conda-forge/adani-feedstock.git
+	path = feedstocks/adani
+	branch = refs/heads/main
