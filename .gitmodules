@@ -88162,3 +88162,7 @@
 	url = https://github.com/conda-forge/indexedconv-feedstock.git
 	path = feedstocks/indexedconv
 	branch = refs/heads/main
+[submodule "rattler-build-conda-compat"]
+	url = https://github.com/conda-forge/rattler-build-conda-compat-feedstock.git
+	path = feedstocks/rattler-build-conda-compat
+	branch = refs/heads/main
