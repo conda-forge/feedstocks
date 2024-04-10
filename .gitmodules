@@ -88158,3 +88158,7 @@
 	url = https://github.com/conda-forge/pulumi-sdks-feedstock.git
 	path = feedstocks/pulumi-sdks
 	branch = refs/heads/main
+[submodule "indexedconv"]
+	url = https://github.com/conda-forge/indexedconv-feedstock.git
+	path = feedstocks/indexedconv
+	branch = refs/heads/main
