@@ -88178,3 +88178,7 @@
 	url = https://github.com/conda-forge/llama-index-indices-managed-llama-cloud-feedstock.git
 	path = feedstocks/llama-index-indices-managed-llama-cloud
 	branch = refs/heads/main
+[submodule "llama-parse"]
+	url = https://github.com/conda-forge/llama-parse-feedstock.git
+	path = feedstocks/llama-parse
+	branch = refs/heads/main
