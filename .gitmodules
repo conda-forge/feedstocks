@@ -88150,3 +88150,7 @@
 	url = https://github.com/conda-forge/torch-nl-feedstock.git
 	path = feedstocks/torch-nl
 	branch = refs/heads/main
+[submodule "llama-index-readers-file"]
+	url = https://github.com/conda-forge/llama-index-readers-file-feedstock.git
+	path = feedstocks/llama-index-readers-file
+	branch = refs/heads/main
