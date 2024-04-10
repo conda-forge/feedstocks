@@ -88198,3 +88198,7 @@
 	url = https://github.com/conda-forge/napari-toothfairy-annotator-feedstock.git
 	path = feedstocks/napari-toothfairy-annotator
 	branch = refs/heads/main
+[submodule "marimo-labs"]
+	url = https://github.com/conda-forge/marimo-labs-feedstock.git
+	path = feedstocks/marimo-labs
+	branch = refs/heads/main
