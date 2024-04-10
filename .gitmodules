@@ -88206,3 +88206,7 @@
 	url = https://github.com/conda-forge/asaplib-feedstock.git
 	path = feedstocks/asaplib
 	branch = refs/heads/main
+[submodule "torchopt"]
+	url = https://github.com/conda-forge/torchopt-feedstock.git
+	path = feedstocks/torchopt
+	branch = refs/heads/main
