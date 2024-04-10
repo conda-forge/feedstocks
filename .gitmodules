@@ -88170,3 +88170,7 @@
 	url = https://github.com/conda-forge/adani-feedstock.git
 	path = feedstocks/adani
 	branch = refs/heads/main
+[submodule "exspy"]
+	url = https://github.com/conda-forge/exspy-feedstock.git
+	path = feedstocks/exspy
+	branch = refs/heads/main
