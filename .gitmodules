@@ -88154,3 +88154,7 @@
 	url = https://github.com/conda-forge/llama-index-readers-file-feedstock.git
 	path = feedstocks/llama-index-readers-file
 	branch = refs/heads/main
+[submodule "pulumi-sdks"]
+	url = https://github.com/conda-forge/pulumi-sdks-feedstock.git
+	path = feedstocks/pulumi-sdks
+	branch = refs/heads/main
