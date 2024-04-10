@@ -88202,3 +88202,7 @@
 	url = https://github.com/conda-forge/marimo-labs-feedstock.git
 	path = feedstocks/marimo-labs
 	branch = refs/heads/main
+[submodule "asaplib"]
+	url = https://github.com/conda-forge/asaplib-feedstock.git
+	path = feedstocks/asaplib
+	branch = refs/heads/main
