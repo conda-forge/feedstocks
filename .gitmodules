@@ -88210,3 +88210,7 @@
 	url = https://github.com/conda-forge/torchopt-feedstock.git
 	path = feedstocks/torchopt
 	branch = refs/heads/main
+[submodule "plot-av"]
+	url = https://github.com/conda-forge/plot-av-feedstock.git
+	path = feedstocks/plot-av
+	branch = refs/heads/main
