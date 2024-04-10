@@ -88190,3 +88190,7 @@
 	url = https://github.com/conda-forge/mesher-feedstock.git
 	path = feedstocks/mesher
 	branch = refs/heads/main
+[submodule "llama-index-readers-llama-parse"]
+	url = https://github.com/conda-forge/llama-index-readers-llama-parse-feedstock.git
+	path = feedstocks/llama-index-readers-llama-parse
+	branch = refs/heads/main
