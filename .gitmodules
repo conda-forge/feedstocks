@@ -88174,3 +88174,7 @@
 	url = https://github.com/conda-forge/exspy-feedstock.git
 	path = feedstocks/exspy
 	branch = refs/heads/main
+[submodule "llama-index-indices-managed-llama-cloud"]
+	url = https://github.com/conda-forge/llama-index-indices-managed-llama-cloud-feedstock.git
+	path = feedstocks/llama-index-indices-managed-llama-cloud
+	branch = refs/heads/main
