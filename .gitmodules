@@ -88234,3 +88234,7 @@
 	url = https://github.com/conda-forge/dsms-sdk-feedstock.git
 	path = feedstocks/dsms-sdk
 	branch = refs/heads/main
+[submodule "chemiscope"]
+	url = https://github.com/conda-forge/chemiscope-feedstock.git
+	path = feedstocks/chemiscope
+	branch = refs/heads/main
