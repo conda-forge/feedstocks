@@ -88222,3 +88222,7 @@
 	url = https://github.com/conda-forge/libtmux-feedstock.git
 	path = feedstocks/libtmux
 	branch = refs/heads/main
+[submodule "tmuxp"]
+	url = https://github.com/conda-forge/tmuxp-feedstock.git
+	path = feedstocks/tmuxp
+	branch = refs/heads/main
