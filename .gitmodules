@@ -88226,3 +88226,7 @@
 	url = https://github.com/conda-forge/tmuxp-feedstock.git
 	path = feedstocks/tmuxp
 	branch = refs/heads/main
+[submodule "neighpy"]
+	url = https://github.com/conda-forge/neighpy-feedstock.git
+	path = feedstocks/neighpy
+	branch = refs/heads/main
