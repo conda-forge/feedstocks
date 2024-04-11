@@ -88214,3 +88214,7 @@
 	url = https://github.com/conda-forge/plot-av-feedstock.git
 	path = feedstocks/plot-av
 	branch = refs/heads/main
+[submodule "gauche"]
+	url = https://github.com/conda-forge/gauche-feedstock.git
+	path = feedstocks/gauche
+	branch = refs/heads/main
