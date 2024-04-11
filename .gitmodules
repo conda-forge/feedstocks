@@ -88230,3 +88230,7 @@
 	url = https://github.com/conda-forge/neighpy-feedstock.git
 	path = feedstocks/neighpy
 	branch = refs/heads/main
+[submodule "dsms-sdk"]
+	url = https://github.com/conda-forge/dsms-sdk-feedstock.git
+	path = feedstocks/dsms-sdk
+	branch = refs/heads/main
