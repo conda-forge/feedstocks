@@ -88218,3 +88218,7 @@
 	url = https://github.com/conda-forge/gauche-feedstock.git
 	path = feedstocks/gauche
 	branch = refs/heads/main
+[submodule "libtmux"]
+	url = https://github.com/conda-forge/libtmux-feedstock.git
+	path = feedstocks/libtmux
+	branch = refs/heads/main
