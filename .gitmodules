@@ -88270,3 +88270,7 @@
 	url = https://github.com/conda-forge/pydefect-feedstock.git
 	path = feedstocks/pydefect
 	branch = refs/heads/main
+[submodule "moleculeace"]
+	url = https://github.com/conda-forge/moleculeace-feedstock.git
+	path = feedstocks/moleculeace
+	branch = refs/heads/main
