@@ -88258,3 +88258,7 @@
 	url = https://github.com/conda-forge/alembic-utils-feedstock.git
 	path = feedstocks/alembic-utils
 	branch = refs/heads/main
+[submodule "multifutures"]
+	url = https://github.com/conda-forge/multifutures-feedstock.git
+	path = feedstocks/multifutures
+	branch = refs/heads/main
