@@ -88262,3 +88262,7 @@
 	url = https://github.com/conda-forge/multifutures-feedstock.git
 	path = feedstocks/multifutures
 	branch = refs/heads/main
+[submodule "mljar-scikit-plot"]
+	url = https://github.com/conda-forge/mljar-scikit-plot-feedstock.git
+	path = feedstocks/mljar-scikit-plot
+	branch = refs/heads/main
