@@ -88246,3 +88246,7 @@
 	url = https://github.com/conda-forge/asyncmock-feedstock.git
 	path = feedstocks/asyncmock
 	branch = refs/heads/main
+[submodule "flupy"]
+	url = https://github.com/conda-forge/flupy-feedstock.git
+	path = feedstocks/flupy
+	branch = refs/heads/main
