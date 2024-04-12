@@ -88242,3 +88242,7 @@
 	url = https://github.com/conda-forge/mafft-feedstock.git
 	path = feedstocks/mafft
 	branch = refs/heads/main
+[submodule "asyncmock"]
+	url = https://github.com/conda-forge/asyncmock-feedstock.git
+	path = feedstocks/asyncmock
+	branch = refs/heads/main
