@@ -88274,3 +88274,7 @@
 	url = https://github.com/conda-forge/moleculeace-feedstock.git
 	path = feedstocks/moleculeace
 	branch = refs/heads/main
+[submodule "jinja_partials"]
+	url = https://github.com/conda-forge/jinja_partials-feedstock.git
+	path = feedstocks/jinja_partials
+	branch = refs/heads/main
