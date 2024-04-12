@@ -88238,3 +88238,7 @@
 	url = https://github.com/conda-forge/chemiscope-feedstock.git
 	path = feedstocks/chemiscope
 	branch = refs/heads/main
+[submodule "mafft"]
+	url = https://github.com/conda-forge/mafft-feedstock.git
+	path = feedstocks/mafft
+	branch = refs/heads/main
