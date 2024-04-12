@@ -88250,3 +88250,7 @@
 	url = https://github.com/conda-forge/flupy-feedstock.git
 	path = feedstocks/flupy
 	branch = refs/heads/main
+[submodule "vise"]
+	url = https://github.com/conda-forge/vise-feedstock.git
+	path = feedstocks/vise
+	branch = refs/heads/main
