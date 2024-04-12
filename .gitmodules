@@ -88254,3 +88254,7 @@
 	url = https://github.com/conda-forge/vise-feedstock.git
 	path = feedstocks/vise
 	branch = refs/heads/main
+[submodule "alembic-utils"]
+	url = https://github.com/conda-forge/alembic-utils-feedstock.git
+	path = feedstocks/alembic-utils
+	branch = refs/heads/main
