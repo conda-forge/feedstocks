@@ -88282,3 +88282,7 @@
 	url = https://github.com/conda-forge/sciencebasepy-feedstock.git
 	path = feedstocks/sciencebasepy
 	branch = refs/heads/main
+[submodule "r-easystats"]
+	url = https://github.com/conda-forge/r-easystats-feedstock.git
+	path = feedstocks/r-easystats
+	branch = refs/heads/main
