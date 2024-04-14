@@ -88286,3 +88286,7 @@
 	url = https://github.com/conda-forge/r-easystats-feedstock.git
 	path = feedstocks/r-easystats
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-fab"]
+	url = https://github.com/conda-forge/apache-airflow-providers-fab-feedstock.git
+	path = feedstocks/apache-airflow-providers-fab
+	branch = refs/heads/main
