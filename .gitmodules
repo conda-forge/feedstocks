@@ -88294,3 +88294,7 @@
 	url = https://github.com/conda-forge/r-metalite-feedstock.git
 	path = feedstocks/r-metalite
 	branch = refs/heads/main
+[submodule "declare"]
+	url = https://github.com/conda-forge/declare-feedstock.git
+	path = feedstocks/declare
+	branch = refs/heads/main
