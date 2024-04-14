@@ -88290,3 +88290,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-fab-feedstock.git
 	path = feedstocks/apache-airflow-providers-fab
 	branch = refs/heads/main
+[submodule "r-metalite"]
+	url = https://github.com/conda-forge/r-metalite-feedstock.git
+	path = feedstocks/r-metalite
+	branch = refs/heads/main
