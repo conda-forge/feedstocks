@@ -88302,3 +88302,7 @@
 	url = https://github.com/conda-forge/maplibre-feedstock.git
 	path = feedstocks/maplibre
 	branch = refs/heads/main
+[submodule "cp2kdata"]
+	url = https://github.com/conda-forge/cp2kdata-feedstock.git
+	path = feedstocks/cp2kdata
+	branch = refs/heads/main
