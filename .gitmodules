@@ -88298,3 +88298,7 @@
 	url = https://github.com/conda-forge/declare-feedstock.git
 	path = feedstocks/declare
 	branch = refs/heads/main
+[submodule "maplibre"]
+	url = https://github.com/conda-forge/maplibre-feedstock.git
+	path = feedstocks/maplibre
+	branch = refs/heads/main
