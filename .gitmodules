@@ -88378,3 +88378,7 @@
 	url = https://github.com/conda-forge/pyaspeller-feedstock.git
 	path = feedstocks/pyaspeller
 	branch = refs/heads/main
+[submodule "microgen"]
+	url = https://github.com/conda-forge/microgen-feedstock.git
+	path = feedstocks/microgen
+	branch = refs/heads/main
