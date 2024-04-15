@@ -88334,3 +88334,7 @@
 	url = https://github.com/conda-forge/fps-notebook-feedstock.git
 	path = feedstocks/fps-notebook
 	branch = refs/heads/main
+[submodule "metatensor"]
+	url = https://github.com/conda-forge/metatensor-feedstock.git
+	path = feedstocks/metatensor
+	branch = refs/heads/main
