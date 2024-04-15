@@ -88338,3 +88338,7 @@
 	url = https://github.com/conda-forge/metatensor-feedstock.git
 	path = feedstocks/metatensor
 	branch = refs/heads/main
+[submodule "carlsim6"]
+	url = https://github.com/conda-forge/carlsim6-feedstock.git
+	path = feedstocks/carlsim6
+	branch = refs/heads/main
