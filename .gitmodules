@@ -88326,3 +88326,7 @@
 	url = https://github.com/conda-forge/narwhals-feedstock.git
 	path = feedstocks/narwhals
 	branch = refs/heads/main
+[submodule "pychromatic"]
+	url = https://github.com/conda-forge/pychromatic-feedstock.git
+	path = feedstocks/pychromatic
+	branch = refs/heads/main
