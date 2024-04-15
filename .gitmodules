@@ -88306,3 +88306,7 @@
 	url = https://github.com/conda-forge/cp2kdata-feedstock.git
 	path = feedstocks/cp2kdata
 	branch = refs/heads/main
+[submodule "mkdocs-glightbox"]
+	url = https://github.com/conda-forge/mkdocs-glightbox-feedstock.git
+	path = feedstocks/mkdocs-glightbox
+	branch = refs/heads/main
