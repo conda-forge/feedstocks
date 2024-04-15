@@ -88322,3 +88322,7 @@
 	url = https://github.com/conda-forge/drawpyo-feedstock.git
 	path = feedstocks/drawpyo
 	branch = refs/heads/main
+[submodule "narwhals"]
+	url = https://github.com/conda-forge/narwhals-feedstock.git
+	path = feedstocks/narwhals
+	branch = refs/heads/main
