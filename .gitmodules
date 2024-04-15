@@ -88350,3 +88350,7 @@
 	url = https://github.com/conda-forge/plotille-feedstock.git
 	path = feedstocks/plotille
 	branch = refs/heads/main
+[submodule "atomrdf"]
+	url = https://github.com/conda-forge/atomrdf-feedstock.git
+	path = feedstocks/atomrdf
+	branch = refs/heads/main
