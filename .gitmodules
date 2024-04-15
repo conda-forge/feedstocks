@@ -88362,3 +88362,7 @@
 	url = https://github.com/conda-forge/geo-parameters-feedstock.git
 	path = feedstocks/geo-parameters
 	branch = refs/heads/main
+[submodule "tetra"]
+	url = https://github.com/conda-forge/tetra-feedstock.git
+	path = feedstocks/tetra
+	branch = refs/heads/main
