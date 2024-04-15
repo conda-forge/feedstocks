@@ -88330,3 +88330,7 @@
 	url = https://github.com/conda-forge/pychromatic-feedstock.git
 	path = feedstocks/pychromatic
 	branch = refs/heads/main
+[submodule "fps-notebook"]
+	url = https://github.com/conda-forge/fps-notebook-feedstock.git
+	path = feedstocks/fps-notebook
+	branch = refs/heads/main
