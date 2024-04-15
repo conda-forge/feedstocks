@@ -88382,3 +88382,7 @@
 	url = https://github.com/conda-forge/microgen-feedstock.git
 	path = feedstocks/microgen
 	branch = refs/heads/main
+[submodule "mypy-boto3-ssm"]
+	url = https://github.com/conda-forge/mypy-boto3-ssm-feedstock.git
+	path = feedstocks/mypy-boto3-ssm
+	branch = refs/heads/main
