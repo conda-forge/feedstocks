@@ -88354,3 +88354,7 @@
 	url = https://github.com/conda-forge/atomrdf-feedstock.git
 	path = feedstocks/atomrdf
 	branch = refs/heads/main
+[submodule "intermat"]
+	url = https://github.com/conda-forge/intermat-feedstock.git
+	path = feedstocks/intermat
+	branch = refs/heads/main
