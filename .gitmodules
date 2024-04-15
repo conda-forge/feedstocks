@@ -88386,3 +88386,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-ssm-feedstock.git
 	path = feedstocks/mypy-boto3-ssm
 	branch = refs/heads/main
+[submodule "mypy-boto3-ses"]
+	url = https://github.com/conda-forge/mypy-boto3-ses-feedstock.git
+	path = feedstocks/mypy-boto3-ses
+	branch = refs/heads/main
