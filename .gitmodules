@@ -88314,3 +88314,7 @@
 	url = https://github.com/conda-forge/ioos_metrics-feedstock.git
 	path = feedstocks/ioos_metrics
 	branch = refs/heads/main
+[submodule "regional-mom6"]
+	url = https://github.com/conda-forge/regional-mom6-feedstock.git
+	path = feedstocks/regional-mom6
+	branch = refs/heads/main
