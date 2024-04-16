@@ -88410,3 +88410,7 @@
 	url = https://github.com/conda-forge/paicos-feedstock.git
 	path = feedstocks/paicos
 	branch = refs/heads/main
+[submodule "labbench"]
+	url = https://github.com/conda-forge/labbench-feedstock.git
+	path = feedstocks/labbench
+	branch = refs/heads/main
