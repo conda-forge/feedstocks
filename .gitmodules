@@ -88422,3 +88422,7 @@
 	url = https://github.com/conda-forge/antiberty-feedstock.git
 	path = feedstocks/antiberty
 	branch = refs/heads/main
+[submodule "metaflow-netflixext"]
+	url = https://github.com/conda-forge/metaflow-netflixext-feedstock.git
+	path = feedstocks/metaflow-netflixext
+	branch = refs/heads/main
