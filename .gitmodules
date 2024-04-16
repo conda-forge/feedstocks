@@ -88406,3 +88406,7 @@
 	url = https://github.com/conda-forge/pygm-feedstock.git
 	path = feedstocks/pygm
 	branch = refs/heads/main
+[submodule "paicos"]
+	url = https://github.com/conda-forge/paicos-feedstock.git
+	path = feedstocks/paicos
+	branch = refs/heads/main
