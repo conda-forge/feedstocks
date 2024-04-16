@@ -88402,3 +88402,7 @@
 	url = https://github.com/conda-forge/molbloom-feedstock.git
 	path = feedstocks/molbloom
 	branch = refs/heads/main
+[submodule "pygm"]
+	url = https://github.com/conda-forge/pygm-feedstock.git
+	path = feedstocks/pygm
+	branch = refs/heads/main
