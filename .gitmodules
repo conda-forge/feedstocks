@@ -88430,3 +88430,7 @@
 	url = https://github.com/conda-forge/multispaeti-feedstock.git
 	path = feedstocks/multispaeti
 	branch = refs/heads/main
+[submodule "jenn"]
+	url = https://github.com/conda-forge/jenn-feedstock.git
+	path = feedstocks/jenn
+	branch = refs/heads/main
