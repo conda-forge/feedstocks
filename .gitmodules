@@ -88414,3 +88414,7 @@
 	url = https://github.com/conda-forge/labbench-feedstock.git
 	path = feedstocks/labbench
 	branch = refs/heads/main
+[submodule "diive"]
+	url = https://github.com/conda-forge/diive-feedstock.git
+	path = feedstocks/diive
+	branch = refs/heads/main
