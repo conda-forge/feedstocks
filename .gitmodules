@@ -88398,3 +88398,7 @@
 	url = https://github.com/conda-forge/raydar-feedstock.git
 	path = feedstocks/raydar
 	branch = refs/heads/main
+[submodule "molbloom"]
+	url = https://github.com/conda-forge/molbloom-feedstock.git
+	path = feedstocks/molbloom
+	branch = refs/heads/main
