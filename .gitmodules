@@ -88442,3 +88442,7 @@
 	url = https://github.com/conda-forge/pubmed-parser-feedstock.git
 	path = feedstocks/pubmed-parser
 	branch = refs/heads/main
+[submodule "asapdiscovery"]
+	url = https://github.com/conda-forge/asapdiscovery-feedstock.git
+	path = feedstocks/asapdiscovery
+	branch = refs/heads/main
