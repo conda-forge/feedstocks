@@ -88438,3 +88438,7 @@
 	url = https://github.com/conda-forge/r-metalite.ae-feedstock.git
 	path = feedstocks/r-metalite.ae
 	branch = refs/heads/main
+[submodule "pubmed-parser"]
+	url = https://github.com/conda-forge/pubmed-parser-feedstock.git
+	path = feedstocks/pubmed-parser
+	branch = refs/heads/main
