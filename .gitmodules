@@ -88470,3 +88470,7 @@
 	url = https://github.com/conda-forge/daggre-feedstock.git
 	path = feedstocks/daggre
 	branch = refs/heads/main
+[submodule "djangorestframework-camel-case"]
+	url = https://github.com/conda-forge/djangorestframework-camel-case-feedstock.git
+	path = feedstocks/djangorestframework-camel-case
+	branch = refs/heads/main
