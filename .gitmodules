@@ -88482,3 +88482,7 @@
 	url = https://github.com/conda-forge/rnaformer-feedstock.git
 	path = feedstocks/rnaformer
 	branch = refs/heads/main
+[submodule "agilent-format"]
+	url = https://github.com/conda-forge/agilent-format-feedstock.git
+	path = feedstocks/agilent-format
+	branch = refs/heads/main
