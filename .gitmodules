@@ -88458,3 +88458,7 @@
 	url = https://github.com/conda-forge/mudirac-feedstock.git
 	path = feedstocks/mudirac
 	branch = refs/heads/main
+[submodule "graphdatascience"]
+	url = https://github.com/conda-forge/graphdatascience-feedstock.git
+	path = feedstocks/graphdatascience
+	branch = refs/heads/main
