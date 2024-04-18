@@ -88478,3 +88478,7 @@
 	url = https://github.com/conda-forge/semsimian-feedstock.git
 	path = feedstocks/semsimian
 	branch = refs/heads/main
+[submodule "rnaformer"]
+	url = https://github.com/conda-forge/rnaformer-feedstock.git
+	path = feedstocks/rnaformer
+	branch = refs/heads/main
