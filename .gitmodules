@@ -88466,3 +88466,7 @@
 	url = https://github.com/conda-forge/sim-tools-feedstock.git
 	path = feedstocks/sim-tools
 	branch = refs/heads/main
+[submodule "daggre"]
+	url = https://github.com/conda-forge/daggre-feedstock.git
+	path = feedstocks/daggre
+	branch = refs/heads/main
