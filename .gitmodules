@@ -88474,3 +88474,7 @@
 	url = https://github.com/conda-forge/djangorestframework-camel-case-feedstock.git
 	path = feedstocks/djangorestframework-camel-case
 	branch = refs/heads/main
+[submodule "semsimian"]
+	url = https://github.com/conda-forge/semsimian-feedstock.git
+	path = feedstocks/semsimian
+	branch = refs/heads/main
