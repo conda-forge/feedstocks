@@ -88462,3 +88462,7 @@
 	url = https://github.com/conda-forge/graphdatascience-feedstock.git
 	path = feedstocks/graphdatascience
 	branch = refs/heads/main
+[submodule "sim-tools"]
+	url = https://github.com/conda-forge/sim-tools-feedstock.git
+	path = feedstocks/sim-tools
+	branch = refs/heads/main
