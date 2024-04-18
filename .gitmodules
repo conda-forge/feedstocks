@@ -88486,3 +88486,7 @@
 	url = https://github.com/conda-forge/agilent-format-feedstock.git
 	path = feedstocks/agilent-format
 	branch = refs/heads/main
+[submodule "yandex-query-client"]
+	url = https://github.com/conda-forge/yandex-query-client-feedstock.git
+	path = feedstocks/yandex-query-client
+	branch = refs/heads/main
