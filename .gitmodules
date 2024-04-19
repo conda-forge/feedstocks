@@ -88510,3 +88510,7 @@
 	url = https://github.com/conda-forge/dewret-feedstock.git
 	path = feedstocks/dewret
 	branch = refs/heads/main
+[submodule "langchain-aws"]
+	url = https://github.com/conda-forge/langchain-aws-feedstock.git
+	path = feedstocks/langchain-aws
+	branch = refs/heads/main
