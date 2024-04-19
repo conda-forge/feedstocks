@@ -88494,3 +88494,7 @@
 	url = https://github.com/conda-forge/hypercoast-feedstock.git
 	path = feedstocks/hypercoast
 	branch = refs/heads/main
+[submodule "streamlit-vis-timeline"]
+	url = https://github.com/conda-forge/streamlit-vis-timeline-feedstock.git
+	path = feedstocks/streamlit-vis-timeline
+	branch = refs/heads/main
