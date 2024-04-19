@@ -88514,3 +88514,7 @@
 	url = https://github.com/conda-forge/langchain-aws-feedstock.git
 	path = feedstocks/langchain-aws
 	branch = refs/heads/main
+[submodule "ewmh"]
+	url = https://github.com/conda-forge/ewmh-feedstock.git
+	path = feedstocks/ewmh
+	branch = refs/heads/main
