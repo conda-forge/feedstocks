@@ -88506,3 +88506,7 @@
 	url = https://github.com/conda-forge/cargo-llvm-cov-feedstock.git
 	path = feedstocks/cargo-llvm-cov
 	branch = refs/heads/main
+[submodule "dewret"]
+	url = https://github.com/conda-forge/dewret-feedstock.git
+	path = feedstocks/dewret
+	branch = refs/heads/main
