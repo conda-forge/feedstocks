@@ -88502,3 +88502,7 @@
 	url = https://github.com/conda-forge/r-kdetrees-feedstock.git
 	path = feedstocks/r-kdetrees
 	branch = refs/heads/main
+[submodule "cargo-llvm-cov"]
+	url = https://github.com/conda-forge/cargo-llvm-cov-feedstock.git
+	path = feedstocks/cargo-llvm-cov
+	branch = refs/heads/main
