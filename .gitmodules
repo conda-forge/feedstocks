@@ -88522,3 +88522,7 @@
 	url = https://github.com/conda-forge/bert-extractive-summarizer-feedstock.git
 	path = feedstocks/bert-extractive-summarizer
 	branch = refs/heads/main
+[submodule "instructor"]
+	url = https://github.com/conda-forge/instructor-feedstock.git
+	path = feedstocks/instructor
+	branch = refs/heads/main
