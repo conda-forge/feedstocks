@@ -88518,3 +88518,7 @@
 	url = https://github.com/conda-forge/ewmh-feedstock.git
 	path = feedstocks/ewmh
 	branch = refs/heads/main
+[submodule "bert-extractive-summarizer"]
+	url = https://github.com/conda-forge/bert-extractive-summarizer-feedstock.git
+	path = feedstocks/bert-extractive-summarizer
+	branch = refs/heads/main
