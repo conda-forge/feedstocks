@@ -88530,3 +88530,7 @@
 	url = https://github.com/conda-forge/r-smoothr-feedstock.git
 	path = feedstocks/r-smoothr
 	branch = refs/heads/main
+[submodule "mkdocs-get-deps"]
+	url = https://github.com/conda-forge/mkdocs-get-deps-feedstock.git
+	path = feedstocks/mkdocs-get-deps
+	branch = refs/heads/main
