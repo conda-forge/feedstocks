@@ -88546,3 +88546,7 @@
 	url = https://github.com/conda-forge/linkcheckmd-feedstock.git
 	path = feedstocks/linkcheckmd
 	branch = refs/heads/main
+[submodule "pypeec"]
+	url = https://github.com/conda-forge/pypeec-feedstock.git
+	path = feedstocks/pypeec
+	branch = refs/heads/main
