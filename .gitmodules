@@ -88558,3 +88558,7 @@
 	url = https://github.com/conda-forge/skyllh-feedstock.git
 	path = feedstocks/skyllh
 	branch = refs/heads/main
+[submodule "sqlean.py"]
+	url = https://github.com/conda-forge/sqlean.py-feedstock.git
+	path = feedstocks/sqlean.py
+	branch = refs/heads/main
