@@ -88590,3 +88590,7 @@
 	url = https://github.com/conda-forge/chowlk-unofficial-fork-feedstock.git
 	path = feedstocks/chowlk-unofficial-fork
 	branch = refs/heads/main
+[submodule "data2rdf"]
+	url = https://github.com/conda-forge/data2rdf-feedstock.git
+	path = feedstocks/data2rdf
+	branch = refs/heads/main
