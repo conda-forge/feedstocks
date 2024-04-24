@@ -88582,3 +88582,7 @@
 	url = https://github.com/conda-forge/autocron-feedstock.git
 	path = feedstocks/autocron
 	branch = refs/heads/main
+[submodule "helios-menuinst"]
+	url = https://github.com/conda-forge/helios-menuinst-feedstock.git
+	path = feedstocks/helios-menuinst
+	branch = refs/heads/main
