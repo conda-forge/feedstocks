@@ -88578,3 +88578,7 @@
 	url = https://github.com/conda-forge/nodify-feedstock.git
 	path = feedstocks/nodify
 	branch = refs/heads/main
+[submodule "autocron"]
+	url = https://github.com/conda-forge/autocron-feedstock.git
+	path = feedstocks/autocron
+	branch = refs/heads/main
