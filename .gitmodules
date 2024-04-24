@@ -88574,3 +88574,7 @@
 	url = https://github.com/conda-forge/dlux-feedstock.git
 	path = feedstocks/dlux
 	branch = refs/heads/main
+[submodule "nodify"]
+	url = https://github.com/conda-forge/nodify-feedstock.git
+	path = feedstocks/nodify
+	branch = refs/heads/main
