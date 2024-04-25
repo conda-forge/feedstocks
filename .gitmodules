@@ -88606,3 +88606,7 @@
 	url = https://github.com/conda-forge/orgparse-feedstock.git
 	path = feedstocks/orgparse
 	branch = refs/heads/main
+[submodule "r-predicts"]
+	url = https://github.com/conda-forge/r-predicts-feedstock.git
+	path = feedstocks/r-predicts
+	branch = refs/heads/main
