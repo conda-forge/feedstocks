@@ -88602,3 +88602,7 @@
 	url = https://github.com/conda-forge/dliswriter-feedstock.git
 	path = feedstocks/dliswriter
 	branch = refs/heads/main
+[submodule "orgparse"]
+	url = https://github.com/conda-forge/orgparse-feedstock.git
+	path = feedstocks/orgparse
+	branch = refs/heads/main
