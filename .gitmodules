@@ -88638,3 +88638,7 @@
 	url = https://github.com/conda-forge/papi-feedstock.git
 	path = feedstocks/papi
 	branch = refs/heads/main
+[submodule "label-studio-sdk"]
+	url = https://github.com/conda-forge/label-studio-sdk-feedstock.git
+	path = feedstocks/label-studio-sdk
+	branch = refs/heads/main
