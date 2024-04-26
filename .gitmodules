@@ -88658,3 +88658,7 @@
 	url = https://github.com/conda-forge/pygsheets-feedstock.git
 	path = feedstocks/pygsheets
 	branch = refs/heads/main
+[submodule "csaps"]
+	url = https://github.com/conda-forge/csaps-feedstock.git
+	path = feedstocks/csaps
+	branch = refs/heads/main
