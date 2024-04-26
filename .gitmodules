@@ -88634,3 +88634,7 @@
 	url = https://github.com/conda-forge/tad-dftd3-feedstock.git
 	path = feedstocks/tad-dftd3
 	branch = refs/heads/main
+[submodule "papi"]
+	url = https://github.com/conda-forge/papi-feedstock.git
+	path = feedstocks/papi
+	branch = refs/heads/main
