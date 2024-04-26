@@ -88630,3 +88630,7 @@
 	url = https://github.com/conda-forge/atlasgo-feedstock.git
 	path = feedstocks/atlasgo
 	branch = refs/heads/main
+[submodule "tad-dftd3"]
+	url = https://github.com/conda-forge/tad-dftd3-feedstock.git
+	path = feedstocks/tad-dftd3
+	branch = refs/heads/main
