@@ -88666,3 +88666,7 @@
 	url = https://github.com/conda-forge/cads-api-client-feedstock.git
 	path = feedstocks/cads-api-client
 	branch = refs/heads/main
+[submodule "jax-finufft"]
+	url = https://github.com/conda-forge/jax-finufft-feedstock.git
+	path = feedstocks/jax-finufft
+	branch = refs/heads/main
