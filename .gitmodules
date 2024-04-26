@@ -88674,3 +88674,7 @@
 	url = https://github.com/conda-forge/egobox-feedstock.git
 	path = feedstocks/egobox
 	branch = refs/heads/main
+[submodule "ragna"]
+	url = https://github.com/conda-forge/ragna-feedstock.git
+	path = feedstocks/ragna
+	branch = refs/heads/main
