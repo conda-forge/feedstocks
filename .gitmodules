@@ -88670,3 +88670,7 @@
 	url = https://github.com/conda-forge/jax-finufft-feedstock.git
 	path = feedstocks/jax-finufft
 	branch = refs/heads/main
+[submodule "egobox"]
+	url = https://github.com/conda-forge/egobox-feedstock.git
+	path = feedstocks/egobox
+	branch = refs/heads/main
