@@ -88662,3 +88662,7 @@
 	url = https://github.com/conda-forge/csaps-feedstock.git
 	path = feedstocks/csaps
 	branch = refs/heads/main
+[submodule "cads-api-client"]
+	url = https://github.com/conda-forge/cads-api-client-feedstock.git
+	path = feedstocks/cads-api-client
+	branch = refs/heads/main
