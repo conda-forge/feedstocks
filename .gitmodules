@@ -88626,3 +88626,7 @@
 	url = https://github.com/conda-forge/sqlx-cli-feedstock.git
 	path = feedstocks/sqlx-cli
 	branch = refs/heads/main
+[submodule "atlasgo"]
+	url = https://github.com/conda-forge/atlasgo-feedstock.git
+	path = feedstocks/atlasgo
+	branch = refs/heads/main
