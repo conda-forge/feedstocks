@@ -88642,3 +88642,7 @@
 	url = https://github.com/conda-forge/label-studio-sdk-feedstock.git
 	path = feedstocks/label-studio-sdk
 	branch = refs/heads/main
+[submodule "ssm-simulators"]
+	url = https://github.com/conda-forge/ssm-simulators-feedstock.git
+	path = feedstocks/ssm-simulators
+	branch = refs/heads/main
