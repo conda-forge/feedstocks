@@ -88614,3 +88614,7 @@
 	url = https://github.com/conda-forge/rs1090-feedstock.git
 	path = feedstocks/rs1090
 	branch = refs/heads/main
+[submodule "jinja2-humanize-extension"]
+	url = https://github.com/conda-forge/jinja2-humanize-extension-feedstock.git
+	path = feedstocks/jinja2-humanize-extension
+	branch = refs/heads/main
