@@ -88646,3 +88646,7 @@
 	url = https://github.com/conda-forge/ssm-simulators-feedstock.git
 	path = feedstocks/ssm-simulators
 	branch = refs/heads/main
+[submodule "cpptrace"]
+	url = https://github.com/conda-forge/cpptrace-feedstock.git
+	path = feedstocks/cpptrace
+	branch = refs/heads/main
