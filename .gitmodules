@@ -88622,3 +88622,7 @@
 	url = https://github.com/conda-forge/tad-multicharge-feedstock.git
 	path = feedstocks/tad-multicharge
 	branch = refs/heads/main
+[submodule "sqlx-cli"]
+	url = https://github.com/conda-forge/sqlx-cli-feedstock.git
+	path = feedstocks/sqlx-cli
+	branch = refs/heads/main
