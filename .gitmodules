@@ -88694,3 +88694,7 @@
 	url = https://github.com/conda-forge/anycorn-feedstock.git
 	path = feedstocks/anycorn
 	branch = refs/heads/main
+[submodule "hashquery"]
+	url = https://github.com/conda-forge/hashquery-feedstock.git
+	path = feedstocks/hashquery
+	branch = refs/heads/main
