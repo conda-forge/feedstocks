@@ -88702,3 +88702,7 @@
 	url = https://github.com/conda-forge/forte-feedstock.git
 	path = feedstocks/forte
 	branch = refs/heads/main
+[submodule "markdownlint-cli2"]
+	url = https://github.com/conda-forge/markdownlint-cli2-feedstock.git
+	path = feedstocks/markdownlint-cli2
+	branch = refs/heads/main
