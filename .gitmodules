@@ -88686,3 +88686,7 @@
 	url = https://github.com/conda-forge/packaging-legacy-feedstock.git
 	path = feedstocks/packaging-legacy
 	branch = refs/heads/main
+[submodule "datasette-secrets"]
+	url = https://github.com/conda-forge/datasette-secrets-feedstock.git
+	path = feedstocks/datasette-secrets
+	branch = refs/heads/main
