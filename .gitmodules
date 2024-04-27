@@ -88706,3 +88706,7 @@
 	url = https://github.com/conda-forge/markdownlint-cli2-feedstock.git
 	path = feedstocks/markdownlint-cli2
 	branch = refs/heads/main
+[submodule "dlt"]
+	url = https://github.com/conda-forge/dlt-feedstock.git
+	path = feedstocks/dlt
+	branch = refs/heads/main
