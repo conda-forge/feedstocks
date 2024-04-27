@@ -88682,3 +88682,7 @@
 	url = https://github.com/conda-forge/language-data-feedstock.git
 	path = feedstocks/language-data
 	branch = refs/heads/main
+[submodule "packaging-legacy"]
+	url = https://github.com/conda-forge/packaging-legacy-feedstock.git
+	path = feedstocks/packaging-legacy
+	branch = refs/heads/main
