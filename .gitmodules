@@ -88698,3 +88698,7 @@
 	url = https://github.com/conda-forge/hashquery-feedstock.git
 	path = feedstocks/hashquery
 	branch = refs/heads/main
+[submodule "forte"]
+	url = https://github.com/conda-forge/forte-feedstock.git
+	path = feedstocks/forte
+	branch = refs/heads/main
