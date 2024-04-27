@@ -88690,3 +88690,7 @@
 	url = https://github.com/conda-forge/datasette-secrets-feedstock.git
 	path = feedstocks/datasette-secrets
 	branch = refs/heads/main
+[submodule "anycorn"]
+	url = https://github.com/conda-forge/anycorn-feedstock.git
+	path = feedstocks/anycorn
+	branch = refs/heads/main
