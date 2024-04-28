@@ -88710,3 +88710,7 @@
 	url = https://github.com/conda-forge/dlt-feedstock.git
 	path = feedstocks/dlt
 	branch = refs/heads/main
+[submodule "gloe"]
+	url = https://github.com/conda-forge/gloe-feedstock.git
+	path = feedstocks/gloe
+	branch = refs/heads/main
