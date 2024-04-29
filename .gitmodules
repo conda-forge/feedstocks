@@ -88722,3 +88722,7 @@
 	url = https://github.com/conda-forge/make-it-sync-feedstock.git
 	path = feedstocks/make-it-sync
 	branch = refs/heads/main
+[submodule "sspilib"]
+	url = https://github.com/conda-forge/sspilib-feedstock.git
+	path = feedstocks/sspilib
+	branch = refs/heads/main
