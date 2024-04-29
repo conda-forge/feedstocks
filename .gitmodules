@@ -88718,3 +88718,7 @@
 	url = https://github.com/conda-forge/openmm-xtb-feedstock.git
 	path = feedstocks/openmm-xtb
 	branch = refs/heads/main
+[submodule "make-it-sync"]
+	url = https://github.com/conda-forge/make-it-sync-feedstock.git
+	path = feedstocks/make-it-sync
+	branch = refs/heads/main
