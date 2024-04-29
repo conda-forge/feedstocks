@@ -88734,3 +88734,7 @@
 	url = https://github.com/conda-forge/moraine-feedstock.git
 	path = feedstocks/moraine
 	branch = refs/heads/main
+[submodule "kafka-python-ng"]
+	url = https://github.com/conda-forge/kafka-python-ng-feedstock.git
+	path = feedstocks/kafka-python-ng
+	branch = refs/heads/main
