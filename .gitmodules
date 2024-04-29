@@ -88726,3 +88726,7 @@
 	url = https://github.com/conda-forge/sspilib-feedstock.git
 	path = feedstocks/sspilib
 	branch = refs/heads/main
+[submodule "mct_quantizers"]
+	url = https://github.com/conda-forge/mct_quantizers-feedstock.git
+	path = feedstocks/mct_quantizers
+	branch = refs/heads/main
