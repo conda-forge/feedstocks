@@ -88742,3 +88742,7 @@
 	url = https://github.com/conda-forge/imodmodel-feedstock.git
 	path = feedstocks/imodmodel
 	branch = refs/heads/main
+[submodule "ergocub-software"]
+	url = https://github.com/conda-forge/ergocub-software-feedstock.git
+	path = feedstocks/ergocub-software
+	branch = refs/heads/main
