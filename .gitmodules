@@ -88754,3 +88754,7 @@
 	url = https://github.com/conda-forge/espaloma_charge-feedstock.git
 	path = feedstocks/espaloma_charge
 	branch = refs/heads/main
+[submodule "skytools"]
+	url = https://github.com/conda-forge/skytools-feedstock.git
+	path = feedstocks/skytools
+	branch = refs/heads/main
