@@ -88750,3 +88750,7 @@
 	url = https://github.com/conda-forge/litespi-feedstock.git
 	path = feedstocks/litespi
 	branch = refs/heads/main
+[submodule "espaloma_charge"]
+	url = https://github.com/conda-forge/espaloma_charge-feedstock.git
+	path = feedstocks/espaloma_charge
+	branch = refs/heads/main
