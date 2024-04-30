@@ -88770,3 +88770,7 @@
 	url = https://github.com/conda-forge/_numpy_rc-feedstock.git
 	path = feedstocks/_numpy_rc
 	branch = refs/heads/main
+[submodule "quil-split"]
+	url = https://github.com/conda-forge/quil-split-feedstock.git
+	path = feedstocks/quil-split
+	branch = refs/heads/main
