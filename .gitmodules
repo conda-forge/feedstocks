@@ -88782,3 +88782,7 @@
 	url = https://github.com/conda-forge/adios4dolfinx-feedstock.git
 	path = feedstocks/adios4dolfinx
 	branch = refs/heads/main
+[submodule "mockafka-py"]
+	url = https://github.com/conda-forge/mockafka-py-feedstock.git
+	path = feedstocks/mockafka-py
+	branch = refs/heads/main
