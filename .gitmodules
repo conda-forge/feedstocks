@@ -88766,3 +88766,7 @@
 	url = https://github.com/conda-forge/r-adjustedcurves-feedstock.git
 	path = feedstocks/r-adjustedcurves
 	branch = refs/heads/main
+[submodule "_numpy_rc"]
+	url = https://github.com/conda-forge/_numpy_rc-feedstock.git
+	path = feedstocks/_numpy_rc
+	branch = refs/heads/main
