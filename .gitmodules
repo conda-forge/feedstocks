@@ -88778,3 +88778,7 @@
 	url = https://github.com/conda-forge/netavark-feedstock.git
 	path = feedstocks/netavark
 	branch = refs/heads/main
+[submodule "adios4dolfinx"]
+	url = https://github.com/conda-forge/adios4dolfinx-feedstock.git
+	path = feedstocks/adios4dolfinx
+	branch = refs/heads/main
