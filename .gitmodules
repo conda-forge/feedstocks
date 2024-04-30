@@ -88774,3 +88774,7 @@
 	url = https://github.com/conda-forge/quil-split-feedstock.git
 	path = feedstocks/quil-split
 	branch = refs/heads/main
+[submodule "netavark"]
+	url = https://github.com/conda-forge/netavark-feedstock.git
+	path = feedstocks/netavark
+	branch = refs/heads/main
