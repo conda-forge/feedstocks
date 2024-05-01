@@ -88790,3 +88790,7 @@
 	url = https://github.com/conda-forge/mlx-vlm-feedstock.git
 	path = feedstocks/mlx-vlm
 	branch = refs/heads/main
+[submodule "python-systemd"]
+	url = https://github.com/conda-forge/python-systemd-feedstock.git
+	path = feedstocks/python-systemd
+	branch = refs/heads/main
