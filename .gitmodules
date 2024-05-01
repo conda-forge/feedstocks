@@ -88786,3 +88786,7 @@
 	url = https://github.com/conda-forge/mockafka-py-feedstock.git
 	path = feedstocks/mockafka-py
 	branch = refs/heads/main
+[submodule "mlx-vlm"]
+	url = https://github.com/conda-forge/mlx-vlm-feedstock.git
+	path = feedstocks/mlx-vlm
+	branch = refs/heads/main
