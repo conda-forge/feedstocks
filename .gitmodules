@@ -88794,3 +88794,7 @@
 	url = https://github.com/conda-forge/python-systemd-feedstock.git
 	path = feedstocks/python-systemd
 	branch = refs/heads/main
+[submodule "google-geo-type"]
+	url = https://github.com/conda-forge/google-geo-type-feedstock.git
+	path = feedstocks/google-geo-type
+	branch = refs/heads/main
