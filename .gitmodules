@@ -88830,3 +88830,7 @@
 	url = https://github.com/conda-forge/pandas-indexing-feedstock.git
 	path = feedstocks/pandas-indexing
 	branch = refs/heads/main
+[submodule "des-pizza-patches"]
+	url = https://github.com/conda-forge/des-pizza-patches-feedstock.git
+	path = feedstocks/des-pizza-patches
+	branch = refs/heads/main
