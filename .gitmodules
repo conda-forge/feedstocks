@@ -88818,3 +88818,7 @@
 	url = https://github.com/conda-forge/gwtc-tools-feedstock.git
 	path = feedstocks/gwtc-tools
 	branch = refs/heads/main
+[submodule "auto-ts"]
+	url = https://github.com/conda-forge/auto-ts-feedstock.git
+	path = feedstocks/auto-ts
+	branch = refs/heads/main
