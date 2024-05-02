@@ -88842,3 +88842,7 @@
 	url = https://github.com/conda-forge/google-maps-routing-feedstock.git
 	path = feedstocks/google-maps-routing
 	branch = refs/heads/main
+[submodule "lyra"]
+	url = https://github.com/conda-forge/lyra-feedstock.git
+	path = feedstocks/lyra
+	branch = refs/heads/main
