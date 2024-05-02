@@ -88822,3 +88822,7 @@
 	url = https://github.com/conda-forge/auto-ts-feedstock.git
 	path = feedstocks/auto-ts
 	branch = refs/heads/main
+[submodule "mlx-ctc"]
+	url = https://github.com/conda-forge/mlx-ctc-feedstock.git
+	path = feedstocks/mlx-ctc
+	branch = refs/heads/main
