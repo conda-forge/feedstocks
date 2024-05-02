@@ -88814,3 +88814,7 @@
 	url = https://github.com/conda-forge/tailscaled-feedstock.git
 	path = feedstocks/tailscaled
 	branch = refs/heads/main
+[submodule "gwtc-tools"]
+	url = https://github.com/conda-forge/gwtc-tools-feedstock.git
+	path = feedstocks/gwtc-tools
+	branch = refs/heads/main
