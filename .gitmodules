@@ -88802,3 +88802,7 @@
 	url = https://github.com/conda-forge/pylabeladjust-feedstock.git
 	path = feedstocks/pylabeladjust
 	branch = refs/heads/main
+[submodule "qcs-sdk-python"]
+	url = https://github.com/conda-forge/qcs-sdk-python-feedstock.git
+	path = feedstocks/qcs-sdk-python
+	branch = refs/heads/main
