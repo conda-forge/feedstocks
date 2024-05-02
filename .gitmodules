@@ -88810,3 +88810,7 @@
 	url = https://github.com/conda-forge/tailscale-feedstock.git
 	path = feedstocks/tailscale
 	branch = refs/heads/main
+[submodule "tailscaled"]
+	url = https://github.com/conda-forge/tailscaled-feedstock.git
+	path = feedstocks/tailscaled
+	branch = refs/heads/main
