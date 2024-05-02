@@ -88834,3 +88834,7 @@
 	url = https://github.com/conda-forge/des-pizza-patches-feedstock.git
 	path = feedstocks/des-pizza-patches
 	branch = refs/heads/main
+[submodule "prefect-docker"]
+	url = https://github.com/conda-forge/prefect-docker-feedstock.git
+	path = feedstocks/prefect-docker
+	branch = refs/heads/main
