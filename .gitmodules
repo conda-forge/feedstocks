@@ -88850,3 +88850,7 @@
 	url = https://github.com/conda-forge/des-pizza-cutter-masking-feedstock.git
 	path = feedstocks/des-pizza-cutter-masking
 	branch = refs/heads/main
+[submodule "ucc"]
+	url = https://github.com/conda-forge/ucc-feedstock.git
+	path = feedstocks/ucc
+	branch = refs/heads/main
