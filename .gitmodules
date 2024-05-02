@@ -88826,3 +88826,7 @@
 	url = https://github.com/conda-forge/mlx-ctc-feedstock.git
 	path = feedstocks/mlx-ctc
 	branch = refs/heads/main
+[submodule "pandas-indexing"]
+	url = https://github.com/conda-forge/pandas-indexing-feedstock.git
+	path = feedstocks/pandas-indexing
+	branch = refs/heads/main
