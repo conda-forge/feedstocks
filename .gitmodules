@@ -88838,3 +88838,7 @@
 	url = https://github.com/conda-forge/prefect-docker-feedstock.git
 	path = feedstocks/prefect-docker
 	branch = refs/heads/main
+[submodule "google-maps-routing"]
+	url = https://github.com/conda-forge/google-maps-routing-feedstock.git
+	path = feedstocks/google-maps-routing
+	branch = refs/heads/main
