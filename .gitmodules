@@ -88890,3 +88890,7 @@
 	url = https://github.com/conda-forge/modelmimic-feedstock.git
 	path = feedstocks/modelmimic
 	branch = refs/heads/main
+[submodule "julearn"]
+	url = https://github.com/conda-forge/julearn-feedstock.git
+	path = feedstocks/julearn
+	branch = refs/heads/main
