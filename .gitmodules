@@ -88898,3 +88898,7 @@
 	url = https://github.com/conda-forge/ampform-dpd-feedstock.git
 	path = feedstocks/ampform-dpd
 	branch = refs/heads/main
+[submodule "scikit-fdiff"]
+	url = https://github.com/conda-forge/scikit-fdiff-feedstock.git
+	path = feedstocks/scikit-fdiff
+	branch = refs/heads/main
