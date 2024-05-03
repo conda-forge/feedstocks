@@ -88878,3 +88878,7 @@
 	url = https://github.com/conda-forge/amara3.iri-feedstock.git
 	path = feedstocks/amara3.iri
 	branch = refs/heads/main
+[submodule "mlx-image"]
+	url = https://github.com/conda-forge/mlx-image-feedstock.git
+	path = feedstocks/mlx-image
+	branch = refs/heads/main
