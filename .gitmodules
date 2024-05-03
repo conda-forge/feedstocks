@@ -88870,3 +88870,7 @@
 	url = https://github.com/conda-forge/samplex-feedstock.git
 	path = feedstocks/samplex
 	branch = refs/heads/main
+[submodule "nbappinator"]
+	url = https://github.com/conda-forge/nbappinator-feedstock.git
+	path = feedstocks/nbappinator
+	branch = refs/heads/main
