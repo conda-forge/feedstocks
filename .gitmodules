@@ -88894,3 +88894,7 @@
 	url = https://github.com/conda-forge/julearn-feedstock.git
 	path = feedstocks/julearn
 	branch = refs/heads/main
+[submodule "ampform-dpd"]
+	url = https://github.com/conda-forge/ampform-dpd-feedstock.git
+	path = feedstocks/ampform-dpd
+	branch = refs/heads/main
