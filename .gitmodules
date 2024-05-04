@@ -88914,3 +88914,7 @@
 	url = https://github.com/conda-forge/fastapi-cli-feedstock.git
 	path = feedstocks/fastapi-cli
 	branch = refs/heads/main
+[submodule "tsplib95"]
+	url = https://github.com/conda-forge/tsplib95-feedstock.git
+	path = feedstocks/tsplib95
+	branch = refs/heads/main
