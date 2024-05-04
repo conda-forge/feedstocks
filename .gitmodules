@@ -88918,3 +88918,7 @@
 	url = https://github.com/conda-forge/tsplib95-feedstock.git
 	path = feedstocks/tsplib95
 	branch = refs/heads/main
+[submodule "python-tsp"]
+	url = https://github.com/conda-forge/python-tsp-feedstock.git
+	path = feedstocks/python-tsp
+	branch = refs/heads/main
