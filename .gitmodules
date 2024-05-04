@@ -88906,3 +88906,7 @@
 	url = https://github.com/conda-forge/elegant-feedstock.git
 	path = feedstocks/elegant
 	branch = refs/heads/main
+[submodule "libcuba"]
+	url = https://github.com/conda-forge/libcuba-feedstock.git
+	path = feedstocks/libcuba
+	branch = refs/heads/main
