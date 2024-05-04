@@ -88910,3 +88910,7 @@
 	url = https://github.com/conda-forge/libcuba-feedstock.git
 	path = feedstocks/libcuba
 	branch = refs/heads/main
+[submodule "fastapi-cli"]
+	url = https://github.com/conda-forge/fastapi-cli-feedstock.git
+	path = feedstocks/fastapi-cli
+	branch = refs/heads/main
