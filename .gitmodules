@@ -88938,3 +88938,7 @@
 	url = https://github.com/conda-forge/r-allcontributors-feedstock.git
 	path = feedstocks/r-allcontributors
 	branch = refs/heads/main
+[submodule "daemontools-encore"]
+	url = https://github.com/conda-forge/daemontools-encore-feedstock.git
+	path = feedstocks/daemontools-encore
+	branch = refs/heads/main
