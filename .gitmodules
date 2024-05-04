@@ -88930,3 +88930,7 @@
 	url = https://github.com/conda-forge/r-thankr-feedstock.git
 	path = feedstocks/r-thankr
 	branch = refs/heads/main
+[submodule "r-citation"]
+	url = https://github.com/conda-forge/r-citation-feedstock.git
+	path = feedstocks/r-citation
+	branch = refs/heads/main
