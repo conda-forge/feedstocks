@@ -88934,3 +88934,7 @@
 	url = https://github.com/conda-forge/r-citation-feedstock.git
 	path = feedstocks/r-citation
 	branch = refs/heads/main
+[submodule "r-allcontributors"]
+	url = https://github.com/conda-forge/r-allcontributors-feedstock.git
+	path = feedstocks/r-allcontributors
+	branch = refs/heads/main
