@@ -88950,3 +88950,7 @@
 	url = https://github.com/conda-forge/pymoodef-feedstock.git
 	path = feedstocks/pymoodef
 	branch = refs/heads/main
+[submodule "unicode-slugify"]
+	url = https://github.com/conda-forge/unicode-slugify-feedstock.git
+	path = feedstocks/unicode-slugify
+	branch = refs/heads/main
