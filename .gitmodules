@@ -88942,3 +88942,7 @@
 	url = https://github.com/conda-forge/daemontools-encore-feedstock.git
 	path = feedstocks/daemontools-encore
 	branch = refs/heads/main
+[submodule "pymodis"]
+	url = https://github.com/conda-forge/pymodis-feedstock.git
+	path = feedstocks/pymodis
+	branch = refs/heads/main
