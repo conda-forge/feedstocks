@@ -88954,3 +88954,7 @@
 	url = https://github.com/conda-forge/unicode-slugify-feedstock.git
 	path = feedstocks/unicode-slugify
 	branch = refs/heads/main
+[submodule "r-packer"]
+	url = https://github.com/conda-forge/r-packer-feedstock.git
+	path = feedstocks/r-packer
+	branch = refs/heads/main
