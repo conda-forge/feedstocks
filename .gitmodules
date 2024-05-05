@@ -88958,3 +88958,7 @@
 	url = https://github.com/conda-forge/r-packer-feedstock.git
 	path = feedstocks/r-packer
 	branch = refs/heads/main
+[submodule "executorlib-core"]
+	url = https://github.com/conda-forge/executorlib-core-feedstock.git
+	path = feedstocks/executorlib-core
+	branch = refs/heads/main
