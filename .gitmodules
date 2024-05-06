@@ -88966,3 +88966,7 @@
 	url = https://github.com/conda-forge/egl-probe-feedstock.git
 	path = feedstocks/egl-probe
 	branch = refs/heads/main
+[submodule "crystal-toolkit"]
+	url = https://github.com/conda-forge/crystal-toolkit-feedstock.git
+	path = feedstocks/crystal-toolkit
+	branch = refs/heads/main
