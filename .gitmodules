@@ -88962,3 +88962,7 @@
 	url = https://github.com/conda-forge/executorlib-core-feedstock.git
 	path = feedstocks/executorlib-core
 	branch = refs/heads/main
+[submodule "egl-probe"]
+	url = https://github.com/conda-forge/egl-probe-feedstock.git
+	path = feedstocks/egl-probe
+	branch = refs/heads/main
