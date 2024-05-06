@@ -88978,3 +88978,7 @@
 	url = https://github.com/conda-forge/dash-mp-components-feedstock.git
 	path = feedstocks/dash-mp-components
 	branch = refs/heads/main
+[submodule "libzio"]
+	url = https://github.com/conda-forge/libzio-feedstock.git
+	path = feedstocks/libzio
+	branch = refs/heads/main
