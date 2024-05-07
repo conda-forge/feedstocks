@@ -5097,7 +5097,7 @@
 [submodule "pyarrow"]
 	path = feedstocks/pyarrow
 	url = https://github.com/conda-forge/pyarrow-feedstock.git
-	branch = refs/heads/master
+	branch = refs/heads/main
 [submodule "pytest-datadir"]
 	path = feedstocks/pytest-datadir
 	url = https://github.com/conda-forge/pytest-datadir-feedstock.git
