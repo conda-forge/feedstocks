@@ -88994,3 +88994,7 @@
 	url = https://github.com/conda-forge/relentless-feedstock.git
 	path = feedstocks/relentless
 	branch = refs/heads/main
+[submodule "finufft-split"]
+	url = https://github.com/conda-forge/finufft-split-feedstock.git
+	path = feedstocks/finufft-split
+	branch = refs/heads/main
