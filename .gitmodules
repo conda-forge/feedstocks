@@ -89006,3 +89006,7 @@
 	url = https://github.com/conda-forge/menpowidgets-feedstock.git
 	path = feedstocks/menpowidgets
 	branch = refs/heads/main
+[submodule "flash-attn"]
+	url = https://github.com/conda-forge/flash-attn-feedstock.git
+	path = feedstocks/flash-attn
+	branch = refs/heads/main
