@@ -89038,3 +89038,7 @@
 	url = https://github.com/conda-forge/langchainhub-feedstock.git
 	path = feedstocks/langchainhub
 	branch = refs/heads/main
+[submodule "libmetatensor"]
+	url = https://github.com/conda-forge/libmetatensor-feedstock.git
+	path = feedstocks/libmetatensor
+	branch = refs/heads/main
