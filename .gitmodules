@@ -89046,3 +89046,7 @@
 	url = https://github.com/conda-forge/fa2_modified-feedstock.git
 	path = feedstocks/fa2_modified
 	branch = refs/heads/main
+[submodule "dspy-ai"]
+	url = https://github.com/conda-forge/dspy-ai-feedstock.git
+	path = feedstocks/dspy-ai
+	branch = refs/heads/main
