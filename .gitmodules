@@ -89014,3 +89014,7 @@
 	url = https://github.com/conda-forge/physicsml-feedstock.git
 	path = feedstocks/physicsml
 	branch = refs/heads/main
+[submodule "molflux"]
+	url = https://github.com/conda-forge/molflux-feedstock.git
+	path = feedstocks/molflux
+	branch = refs/heads/main
