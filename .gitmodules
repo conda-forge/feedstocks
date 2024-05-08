@@ -89034,3 +89034,7 @@
 	url = https://github.com/conda-forge/hepdata-validator-feedstock.git
 	path = feedstocks/hepdata-validator
 	branch = refs/heads/main
+[submodule "langchainhub"]
+	url = https://github.com/conda-forge/langchainhub-feedstock.git
+	path = feedstocks/langchainhub
+	branch = refs/heads/main
