@@ -89042,3 +89042,7 @@
 	url = https://github.com/conda-forge/libmetatensor-feedstock.git
 	path = feedstocks/libmetatensor
 	branch = refs/heads/main
+[submodule "fa2_modified"]
+	url = https://github.com/conda-forge/fa2_modified-feedstock.git
+	path = feedstocks/fa2_modified
+	branch = refs/heads/main
