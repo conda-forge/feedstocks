@@ -89030,3 +89030,7 @@
 	url = https://github.com/conda-forge/ragas-feedstock.git
 	path = feedstocks/ragas
 	branch = refs/heads/main
+[submodule "hepdata-validator"]
+	url = https://github.com/conda-forge/hepdata-validator-feedstock.git
+	path = feedstocks/hepdata-validator
+	branch = refs/heads/main
