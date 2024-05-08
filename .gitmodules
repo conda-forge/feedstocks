@@ -89026,3 +89026,7 @@
 	url = https://github.com/conda-forge/finvader-feedstock.git
 	path = feedstocks/finvader
 	branch = refs/heads/main
+[submodule "ragas"]
+	url = https://github.com/conda-forge/ragas-feedstock.git
+	path = feedstocks/ragas
+	branch = refs/heads/main
