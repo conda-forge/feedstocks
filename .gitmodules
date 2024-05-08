@@ -89010,3 +89010,7 @@
 	url = https://github.com/conda-forge/flash-attn-feedstock.git
 	path = feedstocks/flash-attn
 	branch = refs/heads/main
+[submodule "physicsml"]
+	url = https://github.com/conda-forge/physicsml-feedstock.git
+	path = feedstocks/physicsml
+	branch = refs/heads/main
