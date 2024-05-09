@@ -89078,3 +89078,7 @@
 	url = https://github.com/conda-forge/preliz-feedstock.git
 	path = feedstocks/preliz
 	branch = refs/heads/main
+[submodule "aiolimiter"]
+	url = https://github.com/conda-forge/aiolimiter-feedstock.git
+	path = feedstocks/aiolimiter
+	branch = refs/heads/main
