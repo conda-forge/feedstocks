@@ -89058,3 +89058,7 @@
 	url = https://github.com/conda-forge/groq-feedstock.git
 	path = feedstocks/groq
 	branch = refs/heads/main
+[submodule "langchain-groq"]
+	url = https://github.com/conda-forge/langchain-groq-feedstock.git
+	path = feedstocks/langchain-groq
+	branch = refs/heads/main
