@@ -89062,3 +89062,7 @@
 	url = https://github.com/conda-forge/langchain-groq-feedstock.git
 	path = feedstocks/langchain-groq
 	branch = refs/heads/main
+[submodule "prefixmaps"]
+	url = https://github.com/conda-forge/prefixmaps-feedstock.git
+	path = feedstocks/prefixmaps
+	branch = refs/heads/main
