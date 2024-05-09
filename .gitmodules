@@ -89074,3 +89074,7 @@
 	url = https://github.com/conda-forge/dbt-athena-community-feedstock.git
 	path = feedstocks/dbt-athena-community
 	branch = refs/heads/main
+[submodule "preliz"]
+	url = https://github.com/conda-forge/preliz-feedstock.git
+	path = feedstocks/preliz
+	branch = refs/heads/main
