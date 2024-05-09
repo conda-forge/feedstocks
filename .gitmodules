@@ -89086,3 +89086,7 @@
 	url = https://github.com/conda-forge/sysloss-feedstock.git
 	path = feedstocks/sysloss
 	branch = refs/heads/main
+[submodule "python_cmethods"]
+	url = https://github.com/conda-forge/python_cmethods-feedstock.git
+	path = feedstocks/python_cmethods
+	branch = refs/heads/main
