@@ -89082,3 +89082,7 @@
 	url = https://github.com/conda-forge/aiolimiter-feedstock.git
 	path = feedstocks/aiolimiter
 	branch = refs/heads/main
+[submodule "sysloss"]
+	url = https://github.com/conda-forge/sysloss-feedstock.git
+	path = feedstocks/sysloss
+	branch = refs/heads/main
