@@ -89070,3 +89070,7 @@
 	url = https://github.com/conda-forge/langchain-anthropic-feedstock.git
 	path = feedstocks/langchain-anthropic
 	branch = refs/heads/main
+[submodule "dbt-athena-community"]
+	url = https://github.com/conda-forge/dbt-athena-community-feedstock.git
+	path = feedstocks/dbt-athena-community
+	branch = refs/heads/main
