@@ -89054,3 +89054,7 @@
 	url = https://github.com/conda-forge/json-flattener-feedstock.git
 	path = feedstocks/json-flattener
 	branch = refs/heads/main
+[submodule "groq"]
+	url = https://github.com/conda-forge/groq-feedstock.git
+	path = feedstocks/groq
+	branch = refs/heads/main
