@@ -89050,3 +89050,7 @@
 	url = https://github.com/conda-forge/dspy-ai-feedstock.git
 	path = feedstocks/dspy-ai
 	branch = refs/heads/main
+[submodule "json-flattener"]
+	url = https://github.com/conda-forge/json-flattener-feedstock.git
+	path = feedstocks/json-flattener
+	branch = refs/heads/main
