@@ -89066,3 +89066,7 @@
 	url = https://github.com/conda-forge/prefixmaps-feedstock.git
 	path = feedstocks/prefixmaps
 	branch = refs/heads/main
+[submodule "langchain-anthropic"]
+	url = https://github.com/conda-forge/langchain-anthropic-feedstock.git
+	path = feedstocks/langchain-anthropic
+	branch = refs/heads/main
