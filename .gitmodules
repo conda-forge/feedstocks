@@ -89154,3 +89154,7 @@
 	url = https://github.com/conda-forge/hddm-wfpt-feedstock.git
 	path = feedstocks/hddm-wfpt
 	branch = refs/heads/main
+[submodule "hssm"]
+	url = https://github.com/conda-forge/hssm-feedstock.git
+	path = feedstocks/hssm
+	branch = refs/heads/main
