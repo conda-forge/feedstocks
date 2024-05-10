@@ -89122,3 +89122,7 @@
 	url = https://github.com/conda-forge/chilife-feedstock.git
 	path = feedstocks/chilife
 	branch = refs/heads/main
+[submodule "aioca"]
+	url = https://github.com/conda-forge/aioca-feedstock.git
+	path = feedstocks/aioca
+	branch = refs/heads/main
