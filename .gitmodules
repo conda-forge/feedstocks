@@ -89162,3 +89162,7 @@
 	url = https://github.com/conda-forge/litescope-feedstock.git
 	path = feedstocks/litescope
 	branch = refs/heads/main
+[submodule "lxml-html-clean"]
+	url = https://github.com/conda-forge/lxml-html-clean-feedstock.git
+	path = feedstocks/lxml-html-clean
+	branch = refs/heads/main
