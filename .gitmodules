@@ -89142,3 +89142,7 @@
 	url = https://github.com/conda-forge/gnucobol-feedstock.git
 	path = feedstocks/gnucobol
 	branch = refs/heads/main
+[submodule "pdemtools"]
+	url = https://github.com/conda-forge/pdemtools-feedstock.git
+	path = feedstocks/pdemtools
+	branch = refs/heads/main
