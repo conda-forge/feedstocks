@@ -89114,3 +89114,7 @@
 	url = https://github.com/conda-forge/yen-feedstock.git
 	path = feedstocks/yen
 	branch = refs/heads/main
+[submodule "daff"]
+	url = https://github.com/conda-forge/daff-feedstock.git
+	path = feedstocks/daff
+	branch = refs/heads/main
