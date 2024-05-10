@@ -89106,3 +89106,7 @@
 	url = https://github.com/conda-forge/packaged-feedstock.git
 	path = feedstocks/packaged
 	branch = refs/heads/main
+[submodule "yahoo-search-py"]
+	url = https://github.com/conda-forge/yahoo-search-py-feedstock.git
+	path = feedstocks/yahoo-search-py
+	branch = refs/heads/main
