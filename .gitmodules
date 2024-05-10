@@ -89098,3 +89098,7 @@
 	url = https://github.com/conda-forge/google-ai-generativelanguage-feedstock.git
 	path = feedstocks/google-ai-generativelanguage
 	branch = refs/heads/main
+[submodule "langchain-google-genai"]
+	url = https://github.com/conda-forge/langchain-google-genai-feedstock.git
+	path = feedstocks/langchain-google-genai
+	branch = refs/heads/main
