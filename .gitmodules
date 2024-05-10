@@ -89126,3 +89126,7 @@
 	url = https://github.com/conda-forge/aioca-feedstock.git
 	path = feedstocks/aioca
 	branch = refs/heads/main
+[submodule "r-crossdes"]
+	url = https://github.com/conda-forge/r-crossdes-feedstock.git
+	path = feedstocks/r-crossdes
+	branch = refs/heads/main
