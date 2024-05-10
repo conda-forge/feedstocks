@@ -89090,3 +89090,7 @@
 	url = https://github.com/conda-forge/python_cmethods-feedstock.git
 	path = feedstocks/python_cmethods
 	branch = refs/heads/main
+[submodule "google-generativeai"]
+	url = https://github.com/conda-forge/google-generativeai-feedstock.git
+	path = feedstocks/google-generativeai
+	branch = refs/heads/main
