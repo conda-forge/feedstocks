@@ -89138,3 +89138,7 @@
 	url = https://github.com/conda-forge/dbt-common-feedstock.git
 	path = feedstocks/dbt-common
 	branch = refs/heads/main
+[submodule "gnucobol"]
+	url = https://github.com/conda-forge/gnucobol-feedstock.git
+	path = feedstocks/gnucobol
+	branch = refs/heads/main
