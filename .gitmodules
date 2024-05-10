@@ -89166,3 +89166,7 @@
 	url = https://github.com/conda-forge/lxml-html-clean-feedstock.git
 	path = feedstocks/lxml-html-clean
 	branch = refs/heads/main
+[submodule "mf2py"]
+	url = https://github.com/conda-forge/mf2py-feedstock.git
+	path = feedstocks/mf2py
+	branch = refs/heads/main
