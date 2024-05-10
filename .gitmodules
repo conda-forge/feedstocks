@@ -89146,3 +89146,7 @@
 	url = https://github.com/conda-forge/pdemtools-feedstock.git
 	path = feedstocks/pdemtools
 	branch = refs/heads/main
+[submodule "hepdata-lib"]
+	url = https://github.com/conda-forge/hepdata-lib-feedstock.git
+	path = feedstocks/hepdata-lib
+	branch = refs/heads/main
