@@ -89130,3 +89130,7 @@
 	url = https://github.com/conda-forge/r-crossdes-feedstock.git
 	path = feedstocks/r-crossdes
 	branch = refs/heads/main
+[submodule "maite"]
+	url = https://github.com/conda-forge/maite-feedstock.git
+	path = feedstocks/maite
+	branch = refs/heads/main
