@@ -89158,3 +89158,7 @@
 	url = https://github.com/conda-forge/hssm-feedstock.git
 	path = feedstocks/hssm
 	branch = refs/heads/main
+[submodule "litescope"]
+	url = https://github.com/conda-forge/litescope-feedstock.git
+	path = feedstocks/litescope
+	branch = refs/heads/main
