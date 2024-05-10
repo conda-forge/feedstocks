@@ -89102,3 +89102,7 @@
 	url = https://github.com/conda-forge/langchain-google-genai-feedstock.git
 	path = feedstocks/langchain-google-genai
 	branch = refs/heads/main
+[submodule "packaged"]
+	url = https://github.com/conda-forge/packaged-feedstock.git
+	path = feedstocks/packaged
+	branch = refs/heads/main
