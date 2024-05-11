@@ -89194,3 +89194,7 @@
 	url = https://github.com/conda-forge/thztools-feedstock.git
 	path = feedstocks/thztools
 	branch = refs/heads/main
+[submodule "dbt-adapters"]
+	url = https://github.com/conda-forge/dbt-adapters-feedstock.git
+	path = feedstocks/dbt-adapters
+	branch = refs/heads/main
