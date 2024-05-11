@@ -89226,3 +89226,7 @@
 	url = https://github.com/conda-forge/readfcs-feedstock.git
 	path = feedstocks/readfcs
 	branch = refs/heads/main
+[submodule "flowsom"]
+	url = https://github.com/conda-forge/flowsom-feedstock.git
+	path = feedstocks/flowsom
+	branch = refs/heads/main
