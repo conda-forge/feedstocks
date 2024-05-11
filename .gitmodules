@@ -89214,3 +89214,7 @@
 	url = https://github.com/conda-forge/servir-aces-feedstock.git
 	path = feedstocks/servir-aces
 	branch = refs/heads/main
+[submodule "cime_gen_domain"]
+	url = https://github.com/conda-forge/cime_gen_domain-feedstock.git
+	path = feedstocks/cime_gen_domain
+	branch = refs/heads/main
