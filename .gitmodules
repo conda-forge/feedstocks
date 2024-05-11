@@ -89218,3 +89218,7 @@
 	url = https://github.com/conda-forge/cime_gen_domain-feedstock.git
 	path = feedstocks/cime_gen_domain
 	branch = refs/heads/main
+[submodule "lamin_utils"]
+	url = https://github.com/conda-forge/lamin_utils-feedstock.git
+	path = feedstocks/lamin_utils
+	branch = refs/heads/main
