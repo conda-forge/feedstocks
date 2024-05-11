@@ -89210,3 +89210,7 @@
 	url = https://github.com/conda-forge/open-exchange-feedstock.git
 	path = feedstocks/open-exchange
 	branch = refs/heads/main
+[submodule "servir-aces"]
+	url = https://github.com/conda-forge/servir-aces-feedstock.git
+	path = feedstocks/servir-aces
+	branch = refs/heads/main
