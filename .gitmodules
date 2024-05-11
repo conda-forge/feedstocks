@@ -89230,3 +89230,7 @@
 	url = https://github.com/conda-forge/flowsom-feedstock.git
 	path = feedstocks/flowsom
 	branch = refs/heads/main
+[submodule "fcsparser"]
+	url = https://github.com/conda-forge/fcsparser-feedstock.git
+	path = feedstocks/fcsparser
+	branch = refs/heads/main
