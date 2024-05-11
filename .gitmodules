@@ -89182,3 +89182,7 @@
 	url = https://github.com/conda-forge/litesata-feedstock.git
 	path = feedstocks/litesata
 	branch = refs/heads/main
+[submodule "minify-html"]
+	url = https://github.com/conda-forge/minify-html-feedstock.git
+	path = feedstocks/minify-html
+	branch = refs/heads/main
