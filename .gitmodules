@@ -89202,3 +89202,7 @@
 	url = https://github.com/conda-forge/hyfetch-feedstock.git
 	path = feedstocks/hyfetch
 	branch = refs/heads/main
+[submodule "auto_gptq"]
+	url = https://github.com/conda-forge/auto_gptq-feedstock.git
+	path = feedstocks/auto_gptq
+	branch = refs/heads/main
