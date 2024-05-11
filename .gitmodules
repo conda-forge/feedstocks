@@ -89222,3 +89222,7 @@
 	url = https://github.com/conda-forge/lamin_utils-feedstock.git
 	path = feedstocks/lamin_utils
 	branch = refs/heads/main
+[submodule "readfcs"]
+	url = https://github.com/conda-forge/readfcs-feedstock.git
+	path = feedstocks/readfcs
+	branch = refs/heads/main
