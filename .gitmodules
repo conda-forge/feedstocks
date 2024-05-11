@@ -89238,3 +89238,7 @@
 	url = https://github.com/conda-forge/pytometry-feedstock.git
 	path = feedstocks/pytometry
 	branch = refs/heads/main
+[submodule "nbproject"]
+	url = https://github.com/conda-forge/nbproject-feedstock.git
+	path = feedstocks/nbproject
+	branch = refs/heads/main
