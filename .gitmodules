@@ -89206,3 +89206,7 @@
 	url = https://github.com/conda-forge/auto_gptq-feedstock.git
 	path = feedstocks/auto_gptq
 	branch = refs/heads/main
+[submodule "open-exchange"]
+	url = https://github.com/conda-forge/open-exchange-feedstock.git
+	path = feedstocks/open-exchange
+	branch = refs/heads/main
