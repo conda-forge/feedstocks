@@ -89234,3 +89234,7 @@
 	url = https://github.com/conda-forge/fcsparser-feedstock.git
 	path = feedstocks/fcsparser
 	branch = refs/heads/main
+[submodule "pytometry"]
+	url = https://github.com/conda-forge/pytometry-feedstock.git
+	path = feedstocks/pytometry
+	branch = refs/heads/main
