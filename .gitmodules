@@ -89258,3 +89258,7 @@
 	url = https://github.com/conda-forge/r-forestly-feedstock.git
 	path = feedstocks/r-forestly
 	branch = refs/heads/main
+[submodule "dbt-postgres"]
+	url = https://github.com/conda-forge/dbt-postgres-feedstock.git
+	path = feedstocks/dbt-postgres
+	branch = refs/heads/main
