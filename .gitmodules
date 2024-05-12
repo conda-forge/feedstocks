@@ -89250,3 +89250,7 @@
 	url = https://github.com/conda-forge/pytest-shard-feedstock.git
 	path = feedstocks/pytest-shard
 	branch = refs/heads/main
+[submodule "testcontainers"]
+	url = https://github.com/conda-forge/testcontainers-feedstock.git
+	path = feedstocks/testcontainers
+	branch = refs/heads/main
