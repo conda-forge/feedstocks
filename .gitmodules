@@ -89254,3 +89254,7 @@
 	url = https://github.com/conda-forge/testcontainers-feedstock.git
 	path = feedstocks/testcontainers
 	branch = refs/heads/main
+[submodule "r-forestly"]
+	url = https://github.com/conda-forge/r-forestly-feedstock.git
+	path = feedstocks/r-forestly
+	branch = refs/heads/main
