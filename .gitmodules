@@ -89242,3 +89242,7 @@
 	url = https://github.com/conda-forge/nbproject-feedstock.git
 	path = feedstocks/nbproject
 	branch = refs/heads/main
+[submodule "pytest-flakefinder"]
+	url = https://github.com/conda-forge/pytest-flakefinder-feedstock.git
+	path = feedstocks/pytest-flakefinder
+	branch = refs/heads/main
