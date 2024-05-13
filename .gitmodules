@@ -89266,3 +89266,7 @@
 	url = https://github.com/conda-forge/pyproject-fmt-rust-feedstock.git
 	path = feedstocks/pyproject-fmt-rust
 	branch = refs/heads/main
+[submodule "age"]
+	url = https://github.com/conda-forge/age-feedstock.git
+	path = feedstocks/age
+	branch = refs/heads/main
