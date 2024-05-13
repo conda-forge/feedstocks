@@ -89274,3 +89274,7 @@
 	url = https://github.com/conda-forge/squadgen-feedstock.git
 	path = feedstocks/squadgen
 	branch = refs/heads/main
+[submodule "pyleco"]
+	url = https://github.com/conda-forge/pyleco-feedstock.git
+	path = feedstocks/pyleco
+	branch = refs/heads/main
