@@ -89270,3 +89270,7 @@
 	url = https://github.com/conda-forge/age-feedstock.git
 	path = feedstocks/age
 	branch = refs/heads/main
+[submodule "squadgen"]
+	url = https://github.com/conda-forge/squadgen-feedstock.git
+	path = feedstocks/squadgen
+	branch = refs/heads/main
