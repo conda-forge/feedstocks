@@ -89282,3 +89282,7 @@
 	url = https://github.com/conda-forge/html-text-feedstock.git
 	path = feedstocks/html-text
 	branch = refs/heads/main
+[submodule "r-bwstools"]
+	url = https://github.com/conda-forge/r-bwstools-feedstock.git
+	path = feedstocks/r-bwstools
+	branch = refs/heads/main
