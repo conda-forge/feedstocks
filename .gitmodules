@@ -89262,3 +89262,7 @@
 	url = https://github.com/conda-forge/dbt-postgres-feedstock.git
 	path = feedstocks/dbt-postgres
 	branch = refs/heads/main
+[submodule "pyproject-fmt-rust"]
+	url = https://github.com/conda-forge/pyproject-fmt-rust-feedstock.git
+	path = feedstocks/pyproject-fmt-rust
+	branch = refs/heads/main
