@@ -89294,3 +89294,7 @@
 	url = https://github.com/conda-forge/faststream-feedstock.git
 	path = feedstocks/faststream
 	branch = refs/heads/main
+[submodule "xmlstore"]
+	url = https://github.com/conda-forge/xmlstore-feedstock.git
+	path = feedstocks/xmlstore
+	branch = refs/heads/main
