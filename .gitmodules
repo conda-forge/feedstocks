@@ -89318,3 +89318,7 @@
 	url = https://github.com/conda-forge/hamilflow-feedstock.git
 	path = feedstocks/hamilflow
 	branch = refs/heads/main
+[submodule "tinycbor"]
+	url = https://github.com/conda-forge/tinycbor-feedstock.git
+	path = feedstocks/tinycbor
+	branch = refs/heads/main
