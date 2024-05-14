@@ -89314,3 +89314,7 @@
 	url = https://github.com/conda-forge/superblockify-feedstock.git
 	path = feedstocks/superblockify
 	branch = refs/heads/main
+[submodule "hamilflow"]
+	url = https://github.com/conda-forge/hamilflow-feedstock.git
+	path = feedstocks/hamilflow
+	branch = refs/heads/main
