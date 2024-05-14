@@ -89286,3 +89286,7 @@
 	url = https://github.com/conda-forge/r-bwstools-feedstock.git
 	path = feedstocks/r-bwstools
 	branch = refs/heads/main
+[submodule "fast-depends"]
+	url = https://github.com/conda-forge/fast-depends-feedstock.git
+	path = feedstocks/fast-depends
+	branch = refs/heads/main
