@@ -89302,3 +89302,7 @@
 	url = https://github.com/conda-forge/xmlplot-feedstock.git
 	path = feedstocks/xmlplot
 	branch = refs/heads/main
+[submodule "posix_ipc"]
+	url = https://github.com/conda-forge/posix_ipc-feedstock.git
+	path = feedstocks/posix_ipc
+	branch = refs/heads/main
