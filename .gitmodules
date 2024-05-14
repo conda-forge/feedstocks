@@ -89326,3 +89326,7 @@
 	url = https://github.com/conda-forge/vet-feedstock.git
 	path = feedstocks/vet
 	branch = refs/heads/main
+[submodule "pacemaker-lite"]
+	url = https://github.com/conda-forge/pacemaker-lite-feedstock.git
+	path = feedstocks/pacemaker-lite
+	branch = refs/heads/main
