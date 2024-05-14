@@ -89322,3 +89322,7 @@
 	url = https://github.com/conda-forge/tinycbor-feedstock.git
 	path = feedstocks/tinycbor
 	branch = refs/heads/main
+[submodule "vet"]
+	url = https://github.com/conda-forge/vet-feedstock.git
+	path = feedstocks/vet
+	branch = refs/heads/main
