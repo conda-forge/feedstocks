@@ -89290,3 +89290,7 @@
 	url = https://github.com/conda-forge/fast-depends-feedstock.git
 	path = feedstocks/fast-depends
 	branch = refs/heads/main
+[submodule "faststream"]
+	url = https://github.com/conda-forge/faststream-feedstock.git
+	path = feedstocks/faststream
+	branch = refs/heads/main
