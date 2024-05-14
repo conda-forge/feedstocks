@@ -89306,3 +89306,7 @@
 	url = https://github.com/conda-forge/posix_ipc-feedstock.git
 	path = feedstocks/posix_ipc
 	branch = refs/heads/main
+[submodule "pyncview"]
+	url = https://github.com/conda-forge/pyncview-feedstock.git
+	path = feedstocks/pyncview
+	branch = refs/heads/main
