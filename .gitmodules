@@ -89358,3 +89358,7 @@
 	url = https://github.com/conda-forge/escaping-feedstock.git
 	path = feedstocks/escaping
 	branch = refs/heads/main
+[submodule "wireviz"]
+	url = https://github.com/conda-forge/wireviz-feedstock.git
+	path = feedstocks/wireviz
+	branch = refs/heads/main
