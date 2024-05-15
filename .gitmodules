@@ -89362,3 +89362,7 @@
 	url = https://github.com/conda-forge/wireviz-feedstock.git
 	path = feedstocks/wireviz
 	branch = refs/heads/main
+[submodule "langchain-huggingface"]
+	url = https://github.com/conda-forge/langchain-huggingface-feedstock.git
+	path = feedstocks/langchain-huggingface
+	branch = refs/heads/main
