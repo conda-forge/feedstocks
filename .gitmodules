@@ -89334,3 +89334,7 @@
 	url = https://github.com/conda-forge/chiral-transfermatrix-feedstock.git
 	path = feedstocks/chiral-transfermatrix
 	branch = refs/heads/main
+[submodule "arabica"]
+	url = https://github.com/conda-forge/arabica-feedstock.git
+	path = feedstocks/arabica
+	branch = refs/heads/main
