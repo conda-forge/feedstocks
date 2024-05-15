@@ -89342,3 +89342,7 @@
 	url = https://github.com/conda-forge/laserfields-feedstock.git
 	path = feedstocks/laserfields
 	branch = refs/heads/main
+[submodule "quickseries"]
+	url = https://github.com/conda-forge/quickseries-feedstock.git
+	path = feedstocks/quickseries
+	branch = refs/heads/main
