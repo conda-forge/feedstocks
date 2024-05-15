@@ -89354,3 +89354,7 @@
 	url = https://github.com/conda-forge/nats-py-feedstock.git
 	path = feedstocks/nats-py
 	branch = refs/heads/main
+[submodule "escaping"]
+	url = https://github.com/conda-forge/escaping-feedstock.git
+	path = feedstocks/escaping
+	branch = refs/heads/main
