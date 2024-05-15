@@ -89330,3 +89330,7 @@
 	url = https://github.com/conda-forge/pacemaker-lite-feedstock.git
 	path = feedstocks/pacemaker-lite
 	branch = refs/heads/main
+[submodule "chiral-transfermatrix"]
+	url = https://github.com/conda-forge/chiral-transfermatrix-feedstock.git
+	path = feedstocks/chiral-transfermatrix
+	branch = refs/heads/main
