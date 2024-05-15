@@ -89370,3 +89370,7 @@
 	url = https://github.com/conda-forge/extruct-feedstock.git
 	path = feedstocks/extruct
 	branch = refs/heads/main
+[submodule "text-generation"]
+	url = https://github.com/conda-forge/text-generation-feedstock.git
+	path = feedstocks/text-generation
+	branch = refs/heads/main
