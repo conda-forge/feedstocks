@@ -89346,3 +89346,7 @@
 	url = https://github.com/conda-forge/quickseries-feedstock.git
 	path = feedstocks/quickseries
 	branch = refs/heads/main
+[submodule "simple_spaced_repetition"]
+	url = https://github.com/conda-forge/simple_spaced_repetition-feedstock.git
+	path = feedstocks/simple_spaced_repetition
+	branch = refs/heads/main
