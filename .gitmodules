@@ -89350,3 +89350,7 @@
 	url = https://github.com/conda-forge/simple_spaced_repetition-feedstock.git
 	path = feedstocks/simple_spaced_repetition
 	branch = refs/heads/main
+[submodule "nats-py"]
+	url = https://github.com/conda-forge/nats-py-feedstock.git
+	path = feedstocks/nats-py
+	branch = refs/heads/main
