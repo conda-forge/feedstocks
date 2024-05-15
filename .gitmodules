@@ -89366,3 +89366,7 @@
 	url = https://github.com/conda-forge/langchain-huggingface-feedstock.git
 	path = feedstocks/langchain-huggingface
 	branch = refs/heads/main
+[submodule "extruct"]
+	url = https://github.com/conda-forge/extruct-feedstock.git
+	path = feedstocks/extruct
+	branch = refs/heads/main
