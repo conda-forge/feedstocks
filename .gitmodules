@@ -89374,3 +89374,7 @@
 	url = https://github.com/conda-forge/text-generation-feedstock.git
 	path = feedstocks/text-generation
 	branch = refs/heads/main
+[submodule "django-simple-menu"]
+	url = https://github.com/conda-forge/django-simple-menu-feedstock.git
+	path = feedstocks/django-simple-menu
+	branch = refs/heads/main
