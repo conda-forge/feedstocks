@@ -89382,3 +89382,7 @@
 	url = https://github.com/conda-forge/silvimetric-feedstock.git
 	path = feedstocks/silvimetric
 	branch = refs/heads/main
+[submodule "ml4xcube"]
+	url = https://github.com/conda-forge/ml4xcube-feedstock.git
+	path = feedstocks/ml4xcube
+	branch = refs/heads/main
