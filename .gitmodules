@@ -89386,3 +89386,7 @@
 	url = https://github.com/conda-forge/ml4xcube-feedstock.git
 	path = feedstocks/ml4xcube
 	branch = refs/heads/main
+[submodule "sluarch"]
+	url = https://github.com/conda-forge/sluarch-feedstock.git
+	path = feedstocks/sluarch
+	branch = refs/heads/main
