@@ -89402,3 +89402,7 @@
 	url = https://github.com/conda-forge/mrmr_selection-feedstock.git
 	path = feedstocks/mrmr_selection
 	branch = refs/heads/main
+[submodule "cosolvkit"]
+	url = https://github.com/conda-forge/cosolvkit-feedstock.git
+	path = feedstocks/cosolvkit
+	branch = refs/heads/main
