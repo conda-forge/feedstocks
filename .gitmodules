@@ -89398,3 +89398,7 @@
 	url = https://github.com/conda-forge/exactextract-feedstock.git
 	path = feedstocks/exactextract
 	branch = refs/heads/main
+[submodule "mrmr_selection"]
+	url = https://github.com/conda-forge/mrmr_selection-feedstock.git
+	path = feedstocks/mrmr_selection
+	branch = refs/heads/main
