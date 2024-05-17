@@ -89418,3 +89418,7 @@
 	url = https://github.com/conda-forge/valmix-feedstock.git
 	path = feedstocks/valmix
 	branch = refs/heads/main
+[submodule "libmetatensor-torch"]
+	url = https://github.com/conda-forge/libmetatensor-torch-feedstock.git
+	path = feedstocks/libmetatensor-torch
+	branch = refs/heads/main
