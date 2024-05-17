@@ -89410,3 +89410,7 @@
 	url = https://github.com/conda-forge/loguru-mypy-feedstock.git
 	path = feedstocks/loguru-mypy
 	branch = refs/heads/main
+[submodule "price-parser"]
+	url = https://github.com/conda-forge/price-parser-feedstock.git
+	path = feedstocks/price-parser
+	branch = refs/heads/main
