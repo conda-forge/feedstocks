@@ -89414,3 +89414,7 @@
 	url = https://github.com/conda-forge/price-parser-feedstock.git
 	path = feedstocks/price-parser
 	branch = refs/heads/main
+[submodule "valmix"]
+	url = https://github.com/conda-forge/valmix-feedstock.git
+	path = feedstocks/valmix
+	branch = refs/heads/main
