@@ -89490,3 +89490,7 @@
 	url = https://github.com/conda-forge/r-flow-feedstock.git
 	path = feedstocks/r-flow
 	branch = refs/heads/main
+[submodule "r-debugr"]
+	url = https://github.com/conda-forge/r-debugr-feedstock.git
+	path = feedstocks/r-debugr
+	branch = refs/heads/main
