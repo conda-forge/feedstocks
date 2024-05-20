@@ -89506,3 +89506,7 @@
 	url = https://github.com/conda-forge/functional_algorithms-feedstock.git
 	path = feedstocks/functional_algorithms
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-apache-iceberg"]
+	url = https://github.com/conda-forge/apache-airflow-providers-apache-iceberg-feedstock.git
+	path = feedstocks/apache-airflow-providers-apache-iceberg
+	branch = refs/heads/main
