@@ -89446,3 +89446,7 @@
 	url = https://github.com/conda-forge/lkml-feedstock.git
 	path = feedstocks/lkml
 	branch = refs/heads/main
+[submodule "qonnx"]
+	url = https://github.com/conda-forge/qonnx-feedstock.git
+	path = feedstocks/qonnx
+	branch = refs/heads/main
