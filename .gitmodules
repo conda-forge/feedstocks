@@ -89486,3 +89486,7 @@
 	url = https://github.com/conda-forge/pygmc-feedstock.git
 	path = feedstocks/pygmc
 	branch = refs/heads/main
+[submodule "r-flow"]
+	url = https://github.com/conda-forge/r-flow-feedstock.git
+	path = feedstocks/r-flow
+	branch = refs/heads/main
