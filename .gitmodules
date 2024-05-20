@@ -89510,3 +89510,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-iceberg-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-iceberg
 	branch = refs/heads/main
+[submodule "passwordless"]
+	url = https://github.com/conda-forge/passwordless-feedstock.git
+	path = feedstocks/passwordless
+	branch = refs/heads/main
