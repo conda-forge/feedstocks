@@ -89494,3 +89494,7 @@
 	url = https://github.com/conda-forge/r-debugr-feedstock.git
 	path = feedstocks/r-debugr
 	branch = refs/heads/main
+[submodule "nrtk-explorer"]
+	url = https://github.com/conda-forge/nrtk-explorer-feedstock.git
+	path = feedstocks/nrtk-explorer
+	branch = refs/heads/main
