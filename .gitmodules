@@ -89482,3 +89482,7 @@
 	url = https://github.com/conda-forge/r-tinytable-feedstock.git
 	path = feedstocks/r-tinytable
 	branch = refs/heads/main
+[submodule "pygmc"]
+	url = https://github.com/conda-forge/pygmc-feedstock.git
+	path = feedstocks/pygmc
+	branch = refs/heads/main
