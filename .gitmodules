@@ -89458,3 +89458,7 @@
 	url = https://github.com/conda-forge/pythermo-feedstock.git
 	path = feedstocks/pythermo
 	branch = refs/heads/main
+[submodule "higra"]
+	url = https://github.com/conda-forge/higra-feedstock.git
+	path = feedstocks/higra
+	branch = refs/heads/main
