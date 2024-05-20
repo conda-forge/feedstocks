@@ -89422,3 +89422,7 @@
 	url = https://github.com/conda-forge/libmetatensor-torch-feedstock.git
 	path = feedstocks/libmetatensor-torch
 	branch = refs/heads/main
+[submodule "itrm"]
+	url = https://github.com/conda-forge/itrm-feedstock.git
+	path = feedstocks/itrm
+	branch = refs/heads/main
