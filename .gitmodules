@@ -89450,3 +89450,7 @@
 	url = https://github.com/conda-forge/qonnx-feedstock.git
 	path = feedstocks/qonnx
 	branch = refs/heads/main
+[submodule "bokeh-django"]
+	url = https://github.com/conda-forge/bokeh-django-feedstock.git
+	path = feedstocks/bokeh-django
+	branch = refs/heads/main
