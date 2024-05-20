@@ -89470,3 +89470,7 @@
 	url = https://github.com/conda-forge/r-fritools-feedstock.git
 	path = feedstocks/r-fritools
 	branch = refs/heads/main
+[submodule "geouned"]
+	url = https://github.com/conda-forge/geouned-feedstock.git
+	path = feedstocks/geouned
+	branch = refs/heads/main
