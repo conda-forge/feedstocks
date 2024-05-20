@@ -89442,3 +89442,7 @@
 	url = https://github.com/conda-forge/uxsim-feedstock.git
 	path = feedstocks/uxsim
 	branch = refs/heads/main
+[submodule "lkml"]
+	url = https://github.com/conda-forge/lkml-feedstock.git
+	path = feedstocks/lkml
+	branch = refs/heads/main
