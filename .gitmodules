@@ -89466,3 +89466,7 @@
 	url = https://github.com/conda-forge/biome-feedstock.git
 	path = feedstocks/biome
 	branch = refs/heads/main
+[submodule "r-fritools"]
+	url = https://github.com/conda-forge/r-fritools-feedstock.git
+	path = feedstocks/r-fritools
+	branch = refs/heads/main
