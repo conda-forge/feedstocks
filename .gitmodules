@@ -89430,3 +89430,7 @@
 	url = https://github.com/conda-forge/r-makefiler-feedstock.git
 	path = feedstocks/r-makefiler
 	branch = refs/heads/main
+[submodule "r-fairmodels"]
+	url = https://github.com/conda-forge/r-fairmodels-feedstock.git
+	path = feedstocks/r-fairmodels
+	branch = refs/heads/main
