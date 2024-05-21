@@ -89514,3 +89514,7 @@
 	url = https://github.com/conda-forge/passwordless-feedstock.git
 	path = feedstocks/passwordless
 	branch = refs/heads/main
+[submodule "hysetter"]
+	url = https://github.com/conda-forge/hysetter-feedstock.git
+	path = feedstocks/hysetter
+	branch = refs/heads/main
