@@ -89546,3 +89546,7 @@
 	url = https://github.com/conda-forge/bokeh_sampledata-feedstock.git
 	path = feedstocks/bokeh_sampledata
 	branch = refs/heads/main
+[submodule "r-rcdd"]
+	url = https://github.com/conda-forge/r-rcdd-feedstock.git
+	path = feedstocks/r-rcdd
+	branch = refs/heads/main
