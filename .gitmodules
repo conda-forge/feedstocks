@@ -89526,3 +89526,7 @@
 	url = https://github.com/conda-forge/microsoft-kiota-authentication-azure-feedstock.git
 	path = feedstocks/microsoft-kiota-authentication-azure
 	branch = refs/heads/main
+[submodule "microsoft-kiota-http"]
+	url = https://github.com/conda-forge/microsoft-kiota-http-feedstock.git
+	path = feedstocks/microsoft-kiota-http
+	branch = refs/heads/main
