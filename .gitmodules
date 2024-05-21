@@ -89518,3 +89518,7 @@
 	url = https://github.com/conda-forge/hysetter-feedstock.git
 	path = feedstocks/hysetter
 	branch = refs/heads/main
+[submodule "sphinxcontrib-video"]
+	url = https://github.com/conda-forge/sphinxcontrib-video-feedstock.git
+	path = feedstocks/sphinxcontrib-video
+	branch = refs/heads/main
