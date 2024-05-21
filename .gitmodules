@@ -89542,3 +89542,7 @@
 	url = https://github.com/conda-forge/microsoft-kiota-abstractions-feedstock.git
 	path = feedstocks/microsoft-kiota-abstractions
 	branch = refs/heads/main
+[submodule "bokeh_sampledata"]
+	url = https://github.com/conda-forge/bokeh_sampledata-feedstock.git
+	path = feedstocks/bokeh_sampledata
+	branch = refs/heads/main
