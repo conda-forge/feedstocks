@@ -89530,3 +89530,7 @@
 	url = https://github.com/conda-forge/microsoft-kiota-http-feedstock.git
 	path = feedstocks/microsoft-kiota-http
 	branch = refs/heads/main
+[submodule "msgraph-core"]
+	url = https://github.com/conda-forge/msgraph-core-feedstock.git
+	path = feedstocks/msgraph-core
+	branch = refs/heads/main
