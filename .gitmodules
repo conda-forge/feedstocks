@@ -89538,3 +89538,7 @@
 	url = https://github.com/conda-forge/std-uritemplate-feedstock.git
 	path = feedstocks/std-uritemplate
 	branch = refs/heads/main
+[submodule "microsoft-kiota-abstractions"]
+	url = https://github.com/conda-forge/microsoft-kiota-abstractions-feedstock.git
+	path = feedstocks/microsoft-kiota-abstractions
+	branch = refs/heads/main
