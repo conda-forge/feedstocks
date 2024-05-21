@@ -89534,3 +89534,7 @@
 	url = https://github.com/conda-forge/msgraph-core-feedstock.git
 	path = feedstocks/msgraph-core
 	branch = refs/heads/main
+[submodule "std-uritemplate"]
+	url = https://github.com/conda-forge/std-uritemplate-feedstock.git
+	path = feedstocks/std-uritemplate
+	branch = refs/heads/main
