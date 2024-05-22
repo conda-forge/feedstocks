@@ -89558,3 +89558,7 @@
 	url = https://github.com/conda-forge/jiter-feedstock.git
 	path = feedstocks/jiter
 	branch = refs/heads/main
+[submodule "streamlit_passwordless"]
+	url = https://github.com/conda-forge/streamlit_passwordless-feedstock.git
+	path = feedstocks/streamlit_passwordless
+	branch = refs/heads/main
