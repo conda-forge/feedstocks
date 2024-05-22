@@ -89570,3 +89570,7 @@
 	url = https://github.com/conda-forge/pygbif-feedstock.git
 	path = feedstocks/pygbif
 	branch = refs/heads/main
+[submodule "spcqe"]
+	url = https://github.com/conda-forge/spcqe-feedstock.git
+	path = feedstocks/spcqe
+	branch = refs/heads/main
