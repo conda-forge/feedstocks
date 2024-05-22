@@ -89562,3 +89562,7 @@
 	url = https://github.com/conda-forge/streamlit_passwordless-feedstock.git
 	path = feedstocks/streamlit_passwordless
 	branch = refs/heads/main
+[submodule "carma"]
+	url = https://github.com/conda-forge/carma-feedstock.git
+	path = feedstocks/carma
+	branch = refs/heads/main
