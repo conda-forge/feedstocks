@@ -89550,3 +89550,7 @@
 	url = https://github.com/conda-forge/r-rcdd-feedstock.git
 	path = feedstocks/r-rcdd
 	branch = refs/heads/main
+[submodule "html5-parser"]
+	url = https://github.com/conda-forge/html5-parser-feedstock.git
+	path = feedstocks/html5-parser
+	branch = refs/heads/main
