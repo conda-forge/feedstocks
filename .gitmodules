@@ -89566,3 +89566,7 @@
 	url = https://github.com/conda-forge/carma-feedstock.git
 	path = feedstocks/carma
 	branch = refs/heads/main
+[submodule "pygbif"]
+	url = https://github.com/conda-forge/pygbif-feedstock.git
+	path = feedstocks/pygbif
+	branch = refs/heads/main
