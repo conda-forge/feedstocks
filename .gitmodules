@@ -89574,3 +89574,7 @@
 	url = https://github.com/conda-forge/spcqe-feedstock.git
 	path = feedstocks/spcqe
 	branch = refs/heads/main
+[submodule "qass-tools-analyzer"]
+	url = https://github.com/conda-forge/qass-tools-analyzer-feedstock.git
+	path = feedstocks/qass-tools-analyzer
+	branch = refs/heads/main
