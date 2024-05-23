@@ -89582,3 +89582,7 @@
 	url = https://github.com/conda-forge/nceplibs-bufr-feedstock.git
 	path = feedstocks/nceplibs-bufr
 	branch = refs/heads/main
+[submodule "jupyterlite-javascript-kernel"]
+	url = https://github.com/conda-forge/jupyterlite-javascript-kernel-feedstock.git
+	path = feedstocks/jupyterlite-javascript-kernel
+	branch = refs/heads/main
