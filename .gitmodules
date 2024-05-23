@@ -89586,3 +89586,7 @@
 	url = https://github.com/conda-forge/jupyterlite-javascript-kernel-feedstock.git
 	path = feedstocks/jupyterlite-javascript-kernel
 	branch = refs/heads/main
+[submodule "chronon-ai"]
+	url = https://github.com/conda-forge/chronon-ai-feedstock.git
+	path = feedstocks/chronon-ai
+	branch = refs/heads/main
