@@ -89578,3 +89578,7 @@
 	url = https://github.com/conda-forge/qass-tools-analyzer-feedstock.git
 	path = feedstocks/qass-tools-analyzer
 	branch = refs/heads/main
+[submodule "nceplibs-bufr"]
+	url = https://github.com/conda-forge/nceplibs-bufr-feedstock.git
+	path = feedstocks/nceplibs-bufr
+	branch = refs/heads/main
