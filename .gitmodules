@@ -89642,3 +89642,7 @@
 	url = https://github.com/conda-forge/types-networkx-feedstock.git
 	path = feedstocks/types-networkx
 	branch = refs/heads/main
+[submodule "types-seaborn"]
+	url = https://github.com/conda-forge/types-seaborn-feedstock.git
+	path = feedstocks/types-seaborn
+	branch = refs/heads/main
