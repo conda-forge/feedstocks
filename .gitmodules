@@ -89610,3 +89610,7 @@
 	url = https://github.com/conda-forge/odetoolbox-feedstock.git
 	path = feedstocks/odetoolbox
 	branch = refs/heads/main
+[submodule "nestml"]
+	url = https://github.com/conda-forge/nestml-feedstock.git
+	path = feedstocks/nestml
+	branch = refs/heads/main
