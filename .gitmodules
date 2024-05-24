@@ -89626,3 +89626,7 @@
 	url = https://github.com/conda-forge/overturemaps-feedstock.git
 	path = feedstocks/overturemaps
 	branch = refs/heads/main
+[submodule "sphinx-immaterial"]
+	url = https://github.com/conda-forge/sphinx-immaterial-feedstock.git
+	path = feedstocks/sphinx-immaterial
+	branch = refs/heads/main
