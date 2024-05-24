@@ -89618,3 +89618,7 @@
 	url = https://github.com/conda-forge/row-feedstock.git
 	path = feedstocks/row
 	branch = refs/heads/main
+[submodule "auroris"]
+	url = https://github.com/conda-forge/auroris-feedstock.git
+	path = feedstocks/auroris
+	branch = refs/heads/main
