@@ -89646,3 +89646,7 @@
 	url = https://github.com/conda-forge/types-seaborn-feedstock.git
 	path = feedstocks/types-seaborn
 	branch = refs/heads/main
+[submodule "pybind11-numpy-example"]
+	url = https://github.com/conda-forge/pybind11-numpy-example-feedstock.git
+	path = feedstocks/pybind11-numpy-example
+	branch = refs/heads/main
