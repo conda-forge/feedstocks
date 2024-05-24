@@ -89606,3 +89606,7 @@
 	url = https://github.com/conda-forge/python-cudnn-frontend-feedstock.git
 	path = feedstocks/python-cudnn-frontend
 	branch = refs/heads/main
+[submodule "odetoolbox"]
+	url = https://github.com/conda-forge/odetoolbox-feedstock.git
+	path = feedstocks/odetoolbox
+	branch = refs/heads/main
