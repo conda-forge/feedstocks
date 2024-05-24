@@ -89630,3 +89630,7 @@
 	url = https://github.com/conda-forge/sphinx-immaterial-feedstock.git
 	path = feedstocks/sphinx-immaterial
 	branch = refs/heads/main
+[submodule "markdownlint-cli"]
+	url = https://github.com/conda-forge/markdownlint-cli-feedstock.git
+	path = feedstocks/markdownlint-cli
+	branch = refs/heads/main
