@@ -89598,3 +89598,7 @@
 	url = https://github.com/conda-forge/batchstats-feedstock.git
 	path = feedstocks/batchstats
 	branch = refs/heads/main
+[submodule "terraform-provider-kubectl"]
+	url = https://github.com/conda-forge/terraform-provider-kubectl-feedstock.git
+	path = feedstocks/terraform-provider-kubectl
+	branch = refs/heads/main
