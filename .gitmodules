@@ -89634,3 +89634,7 @@
 	url = https://github.com/conda-forge/markdownlint-cli-feedstock.git
 	path = feedstocks/markdownlint-cli
 	branch = refs/heads/main
+[submodule "sphinxawesome-theme"]
+	url = https://github.com/conda-forge/sphinxawesome-theme-feedstock.git
+	path = feedstocks/sphinxawesome-theme
+	branch = refs/heads/main
