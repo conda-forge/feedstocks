@@ -89594,3 +89594,7 @@
 	url = https://github.com/conda-forge/jsonasobj-feedstock.git
 	path = feedstocks/jsonasobj
 	branch = refs/heads/main
+[submodule "batchstats"]
+	url = https://github.com/conda-forge/batchstats-feedstock.git
+	path = feedstocks/batchstats
+	branch = refs/heads/main
