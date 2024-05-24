@@ -89638,3 +89638,7 @@
 	url = https://github.com/conda-forge/sphinxawesome-theme-feedstock.git
 	path = feedstocks/sphinxawesome-theme
 	branch = refs/heads/main
+[submodule "types-networkx"]
+	url = https://github.com/conda-forge/types-networkx-feedstock.git
+	path = feedstocks/types-networkx
+	branch = refs/heads/main
