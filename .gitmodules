@@ -89602,3 +89602,7 @@
 	url = https://github.com/conda-forge/terraform-provider-kubectl-feedstock.git
 	path = feedstocks/terraform-provider-kubectl
 	branch = refs/heads/main
+[submodule "python-cudnn-frontend"]
+	url = https://github.com/conda-forge/python-cudnn-frontend-feedstock.git
+	path = feedstocks/python-cudnn-frontend
+	branch = refs/heads/main
