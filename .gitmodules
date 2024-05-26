@@ -89662,3 +89662,7 @@
 	url = https://github.com/conda-forge/opentelemac-feedstock.git
 	path = feedstocks/opentelemac
 	branch = refs/heads/main
+[submodule "tf-keras"]
+	url = https://github.com/conda-forge/tf-keras-feedstock.git
+	path = feedstocks/tf-keras
+	branch = refs/heads/main
