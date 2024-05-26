@@ -89658,3 +89658,7 @@
 	url = https://github.com/conda-forge/vegspec-feedstock.git
 	path = feedstocks/vegspec
 	branch = refs/heads/main
+[submodule "opentelemac"]
+	url = https://github.com/conda-forge/opentelemac-feedstock.git
+	path = feedstocks/opentelemac
+	branch = refs/heads/main
