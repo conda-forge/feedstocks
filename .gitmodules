@@ -89666,3 +89666,7 @@
 	url = https://github.com/conda-forge/tf-keras-feedstock.git
 	path = feedstocks/tf-keras
 	branch = refs/heads/main
+[submodule "stim"]
+	url = https://github.com/conda-forge/stim-feedstock.git
+	path = feedstocks/stim
+	branch = refs/heads/main
