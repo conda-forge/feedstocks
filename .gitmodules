@@ -89710,3 +89710,7 @@
 	url = https://github.com/conda-forge/bayesbay-feedstock.git
 	path = feedstocks/bayesbay
 	branch = refs/heads/main
+[submodule "wcosmo"]
+	url = https://github.com/conda-forge/wcosmo-feedstock.git
+	path = feedstocks/wcosmo
+	branch = refs/heads/main
