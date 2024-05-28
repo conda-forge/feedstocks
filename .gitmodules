@@ -89678,3 +89678,7 @@
 	url = https://github.com/conda-forge/convcolors-feedstock.git
 	path = feedstocks/convcolors
 	branch = refs/heads/main
+[submodule "colordict"]
+	url = https://github.com/conda-forge/colordict-feedstock.git
+	path = feedstocks/colordict
+	branch = refs/heads/main
