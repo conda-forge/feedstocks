@@ -89690,3 +89690,7 @@
 	url = https://github.com/conda-forge/wemake-python-styleguide-feedstock.git
 	path = feedstocks/wemake-python-styleguide
 	branch = refs/heads/main
+[submodule "flake8-commas"]
+	url = https://github.com/conda-forge/flake8-commas-feedstock.git
+	path = feedstocks/flake8-commas
+	branch = refs/heads/main
