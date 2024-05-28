@@ -89702,3 +89702,7 @@
 	url = https://github.com/conda-forge/flux-pmix-feedstock.git
 	path = feedstocks/flux-pmix
 	branch = refs/heads/main
+[submodule "intersphinx-registry"]
+	url = https://github.com/conda-forge/intersphinx-registry-feedstock.git
+	path = feedstocks/intersphinx-registry
+	branch = refs/heads/main
