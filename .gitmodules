@@ -89674,3 +89674,7 @@
 	url = https://github.com/conda-forge/extcolors-feedstock.git
 	path = feedstocks/extcolors
 	branch = refs/heads/main
+[submodule "convcolors"]
+	url = https://github.com/conda-forge/convcolors-feedstock.git
+	path = feedstocks/convcolors
+	branch = refs/heads/main
