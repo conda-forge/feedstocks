@@ -89698,3 +89698,7 @@
 	url = https://github.com/conda-forge/flake8-string-format-feedstock.git
 	path = feedstocks/flake8-string-format
 	branch = refs/heads/main
+[submodule "flux-pmix"]
+	url = https://github.com/conda-forge/flux-pmix-feedstock.git
+	path = feedstocks/flux-pmix
+	branch = refs/heads/main
