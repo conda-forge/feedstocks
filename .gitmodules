@@ -89694,3 +89694,7 @@
 	url = https://github.com/conda-forge/flake8-commas-feedstock.git
 	path = feedstocks/flake8-commas
 	branch = refs/heads/main
+[submodule "flake8-string-format"]
+	url = https://github.com/conda-forge/flake8-string-format-feedstock.git
+	path = feedstocks/flake8-string-format
+	branch = refs/heads/main
