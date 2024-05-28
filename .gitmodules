@@ -89714,3 +89714,7 @@
 	url = https://github.com/conda-forge/wcosmo-feedstock.git
 	path = feedstocks/wcosmo
 	branch = refs/heads/main
+[submodule "r-spatstat.univar"]
+	url = https://github.com/conda-forge/r-spatstat.univar-feedstock.git
+	path = feedstocks/r-spatstat.univar
+	branch = refs/heads/main
