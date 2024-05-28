@@ -89686,3 +89686,7 @@
 	url = https://github.com/conda-forge/colorir-feedstock.git
 	path = feedstocks/colorir
 	branch = refs/heads/main
+[submodule "wemake-python-styleguide"]
+	url = https://github.com/conda-forge/wemake-python-styleguide-feedstock.git
+	path = feedstocks/wemake-python-styleguide
+	branch = refs/heads/main
