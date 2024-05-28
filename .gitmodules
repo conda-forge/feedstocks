@@ -89706,3 +89706,7 @@
 	url = https://github.com/conda-forge/intersphinx-registry-feedstock.git
 	path = feedstocks/intersphinx-registry
 	branch = refs/heads/main
+[submodule "bayesbay"]
+	url = https://github.com/conda-forge/bayesbay-feedstock.git
+	path = feedstocks/bayesbay
+	branch = refs/heads/main
