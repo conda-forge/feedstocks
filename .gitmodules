@@ -89670,3 +89670,7 @@
 	url = https://github.com/conda-forge/stim-feedstock.git
 	path = feedstocks/stim
 	branch = refs/heads/main
+[submodule "extcolors"]
+	url = https://github.com/conda-forge/extcolors-feedstock.git
+	path = feedstocks/extcolors
+	branch = refs/heads/main
