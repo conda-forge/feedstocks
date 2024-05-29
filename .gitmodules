@@ -89722,3 +89722,7 @@
 	url = https://github.com/conda-forge/qt-multimedia-feedstock.git
 	path = feedstocks/qt-multimedia
 	branch = refs/heads/main
+[submodule "pixi-diff-to-markdown"]
+	url = https://github.com/conda-forge/pixi-diff-to-markdown-feedstock.git
+	path = feedstocks/pixi-diff-to-markdown
+	branch = refs/heads/main
