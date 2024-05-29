@@ -89758,3 +89758,7 @@
 	url = https://github.com/conda-forge/lm-format-enforcer-feedstock.git
 	path = feedstocks/lm-format-enforcer
 	branch = refs/heads/main
+[submodule "evdev"]
+	url = https://github.com/conda-forge/evdev-feedstock.git
+	path = feedstocks/evdev
+	branch = refs/heads/main
