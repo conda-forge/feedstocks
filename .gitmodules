@@ -89750,3 +89750,7 @@
 	url = https://github.com/conda-forge/glasspy-feedstock.git
 	path = feedstocks/glasspy
 	branch = refs/heads/main
+[submodule "pyiron_snippets"]
+	url = https://github.com/conda-forge/pyiron_snippets-feedstock.git
+	path = feedstocks/pyiron_snippets
+	branch = refs/heads/main
