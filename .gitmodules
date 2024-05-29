@@ -89730,3 +89730,7 @@
 	url = https://github.com/conda-forge/r-coursekata-feedstock.git
 	path = feedstocks/r-coursekata
 	branch = refs/heads/main
+[submodule "r-dslabs"]
+	url = https://github.com/conda-forge/r-dslabs-feedstock.git
+	path = feedstocks/r-dslabs
+	branch = refs/heads/main
