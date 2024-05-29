@@ -89754,3 +89754,7 @@
 	url = https://github.com/conda-forge/pyiron_snippets-feedstock.git
 	path = feedstocks/pyiron_snippets
 	branch = refs/heads/main
+[submodule "lm-format-enforcer"]
+	url = https://github.com/conda-forge/lm-format-enforcer-feedstock.git
+	path = feedstocks/lm-format-enforcer
+	branch = refs/heads/main
