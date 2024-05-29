@@ -89718,3 +89718,7 @@
 	url = https://github.com/conda-forge/r-spatstat.univar-feedstock.git
 	path = feedstocks/r-spatstat.univar
 	branch = refs/heads/main
+[submodule "qt-multimedia"]
+	url = https://github.com/conda-forge/qt-multimedia-feedstock.git
+	path = feedstocks/qt-multimedia
+	branch = refs/heads/main
