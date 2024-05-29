@@ -89738,3 +89738,7 @@
 	url = https://github.com/conda-forge/mpacklog-feedstock.git
 	path = feedstocks/mpacklog
 	branch = refs/heads/main
+[submodule "vllm-nccl-cu12"]
+	url = https://github.com/conda-forge/vllm-nccl-cu12-feedstock.git
+	path = feedstocks/vllm-nccl-cu12
+	branch = refs/heads/main
