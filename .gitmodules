@@ -89742,3 +89742,7 @@
 	url = https://github.com/conda-forge/vllm-nccl-cu12-feedstock.git
 	path = feedstocks/vllm-nccl-cu12
 	branch = refs/heads/main
+[submodule "chemparse"]
+	url = https://github.com/conda-forge/chemparse-feedstock.git
+	path = feedstocks/chemparse
+	branch = refs/heads/main
