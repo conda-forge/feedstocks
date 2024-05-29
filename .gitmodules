@@ -89734,3 +89734,7 @@
 	url = https://github.com/conda-forge/r-dslabs-feedstock.git
 	path = feedstocks/r-dslabs
 	branch = refs/heads/main
+[submodule "mpacklog"]
+	url = https://github.com/conda-forge/mpacklog-feedstock.git
+	path = feedstocks/mpacklog
+	branch = refs/heads/main
