@@ -89778,3 +89778,7 @@
 	url = https://github.com/conda-forge/casq-feedstock.git
 	path = feedstocks/casq
 	branch = refs/heads/main
+[submodule "morefs"]
+	url = https://github.com/conda-forge/morefs-feedstock.git
+	path = feedstocks/morefs
+	branch = refs/heads/main
