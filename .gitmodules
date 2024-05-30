@@ -89782,3 +89782,7 @@
 	url = https://github.com/conda-forge/morefs-feedstock.git
 	path = feedstocks/morefs
 	branch = refs/heads/main
+[submodule "r-openxlsx2"]
+	url = https://github.com/conda-forge/r-openxlsx2-feedstock.git
+	path = feedstocks/r-openxlsx2
+	branch = refs/heads/main
