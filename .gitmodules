@@ -89774,3 +89774,7 @@
 	url = https://github.com/conda-forge/h2mm-c-feedstock.git
 	path = feedstocks/h2mm-c
 	branch = refs/heads/main
+[submodule "casq"]
+	url = https://github.com/conda-forge/casq-feedstock.git
+	path = feedstocks/casq
+	branch = refs/heads/main
