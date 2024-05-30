@@ -89766,3 +89766,7 @@
 	url = https://github.com/conda-forge/jupyter_resource_usage_proxy-feedstock.git
 	path = feedstocks/jupyter_resource_usage_proxy
 	branch = refs/heads/main
+[submodule "coppeliasim-zmqremoteapi-client"]
+	url = https://github.com/conda-forge/coppeliasim-zmqremoteapi-client-feedstock.git
+	path = feedstocks/coppeliasim-zmqremoteapi-client
+	branch = refs/heads/main
