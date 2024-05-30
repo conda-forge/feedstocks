@@ -89762,3 +89762,7 @@
 	url = https://github.com/conda-forge/evdev-feedstock.git
 	path = feedstocks/evdev
 	branch = refs/heads/main
+[submodule "jupyter_resource_usage_proxy"]
+	url = https://github.com/conda-forge/jupyter_resource_usage_proxy-feedstock.git
+	path = feedstocks/jupyter_resource_usage_proxy
+	branch = refs/heads/main
