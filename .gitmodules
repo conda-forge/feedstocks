@@ -89814,3 +89814,7 @@
 	url = https://github.com/conda-forge/conda-recipe-manager-feedstock.git
 	path = feedstocks/conda-recipe-manager
 	branch = refs/heads/main
+[submodule "sodapy"]
+	url = https://github.com/conda-forge/sodapy-feedstock.git
+	path = feedstocks/sodapy
+	branch = refs/heads/main
