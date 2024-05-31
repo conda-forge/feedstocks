@@ -89790,3 +89790,7 @@
 	url = https://github.com/conda-forge/ansys-tools-path-feedstock.git
 	path = feedstocks/ansys-tools-path
 	branch = refs/heads/main
+[submodule "ansys_tools_protoc_helper"]
+	url = https://github.com/conda-forge/ansys_tools_protoc_helper-feedstock.git
+	path = feedstocks/ansys_tools_protoc_helper
+	branch = refs/heads/main
