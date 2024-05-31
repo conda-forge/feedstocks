@@ -89786,3 +89786,7 @@
 	url = https://github.com/conda-forge/r-openxlsx2-feedstock.git
 	path = feedstocks/r-openxlsx2
 	branch = refs/heads/main
+[submodule "ansys-tools-path"]
+	url = https://github.com/conda-forge/ansys-tools-path-feedstock.git
+	path = feedstocks/ansys-tools-path
+	branch = refs/heads/main
