@@ -89810,3 +89810,7 @@
 	url = https://github.com/conda-forge/wlighter-feedstock.git
 	path = feedstocks/wlighter
 	branch = refs/heads/main
+[submodule "conda-recipe-manager"]
+	url = https://github.com/conda-forge/conda-recipe-manager-feedstock.git
+	path = feedstocks/conda-recipe-manager
+	branch = refs/heads/main
