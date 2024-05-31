@@ -89794,3 +89794,7 @@
 	url = https://github.com/conda-forge/ansys_tools_protoc_helper-feedstock.git
 	path = feedstocks/ansys_tools_protoc_helper
 	branch = refs/heads/main
+[submodule "xarpes"]
+	url = https://github.com/conda-forge/xarpes-feedstock.git
+	path = feedstocks/xarpes
+	branch = refs/heads/main
