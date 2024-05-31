@@ -89802,3 +89802,7 @@
 	url = https://github.com/conda-forge/ansys-api-dbu-feedstock.git
 	path = feedstocks/ansys-api-dbu
 	branch = refs/heads/main
+[submodule "ansys-api-geometry"]
+	url = https://github.com/conda-forge/ansys-api-geometry-feedstock.git
+	path = feedstocks/ansys-api-geometry
+	branch = refs/heads/main
