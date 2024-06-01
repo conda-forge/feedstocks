@@ -89842,3 +89842,7 @@
 	url = https://github.com/conda-forge/wmctrl-cli-feedstock.git
 	path = feedstocks/wmctrl-cli
 	branch = refs/heads/main
+[submodule "xdotool"]
+	url = https://github.com/conda-forge/xdotool-feedstock.git
+	path = feedstocks/xdotool
+	branch = refs/heads/main
