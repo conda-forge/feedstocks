@@ -89826,3 +89826,7 @@
 	url = https://github.com/conda-forge/dash-pydantic-form-feedstock.git
 	path = feedstocks/dash-pydantic-form
 	branch = refs/heads/main
+[submodule "xsel"]
+	url = https://github.com/conda-forge/xsel-feedstock.git
+	path = feedstocks/xsel
+	branch = refs/heads/main
