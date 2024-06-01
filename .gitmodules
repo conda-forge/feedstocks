@@ -89838,3 +89838,7 @@
 	url = https://github.com/conda-forge/xclip-feedstock.git
 	path = feedstocks/xclip
 	branch = refs/heads/main
+[submodule "wmctrl-cli"]
+	url = https://github.com/conda-forge/wmctrl-cli-feedstock.git
+	path = feedstocks/wmctrl-cli
+	branch = refs/heads/main
