@@ -89830,3 +89830,7 @@
 	url = https://github.com/conda-forge/xsel-feedstock.git
 	path = feedstocks/xsel
 	branch = refs/heads/main
+[submodule "snompy"]
+	url = https://github.com/conda-forge/snompy-feedstock.git
+	path = feedstocks/snompy
+	branch = refs/heads/main
