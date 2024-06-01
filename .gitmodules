@@ -89822,3 +89822,7 @@
 	url = https://github.com/conda-forge/pynucastro-feedstock.git
 	path = feedstocks/pynucastro
 	branch = refs/heads/main
+[submodule "dash-pydantic-form"]
+	url = https://github.com/conda-forge/dash-pydantic-form-feedstock.git
+	path = feedstocks/dash-pydantic-form
+	branch = refs/heads/main
