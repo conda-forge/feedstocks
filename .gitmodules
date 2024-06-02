@@ -89846,3 +89846,7 @@
 	url = https://github.com/conda-forge/xdotool-feedstock.git
 	path = feedstocks/xdotool
 	branch = refs/heads/main
+[submodule "xorg-xauth"]
+	url = https://github.com/conda-forge/xorg-xauth-feedstock.git
+	path = feedstocks/xorg-xauth
+	branch = refs/heads/main
