@@ -89850,3 +89850,7 @@
 	url = https://github.com/conda-forge/xorg-xauth-feedstock.git
 	path = feedstocks/xorg-xauth
 	branch = refs/heads/main
+[submodule "xorg-libxcvt"]
+	url = https://github.com/conda-forge/xorg-libxcvt-feedstock.git
+	path = feedstocks/xorg-libxcvt
+	branch = refs/heads/main
