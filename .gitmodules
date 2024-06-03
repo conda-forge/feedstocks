@@ -89878,3 +89878,7 @@
 	url = https://github.com/conda-forge/quill-feedstock.git
 	path = feedstocks/quill
 	branch = refs/heads/main
+[submodule "types-influxdb-client"]
+	url = https://github.com/conda-forge/types-influxdb-client-feedstock.git
+	path = feedstocks/types-influxdb-client
+	branch = refs/heads/main
