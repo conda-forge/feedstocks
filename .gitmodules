@@ -89870,3 +89870,7 @@
 	url = https://github.com/conda-forge/fdm-feedstock.git
 	path = feedstocks/fdm
 	branch = refs/heads/main
+[submodule "ansys-api-platform-instancemanagement"]
+	url = https://github.com/conda-forge/ansys-api-platform-instancemanagement-feedstock.git
+	path = feedstocks/ansys-api-platform-instancemanagement
+	branch = refs/heads/main
