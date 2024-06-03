@@ -89858,3 +89858,7 @@
 	url = https://github.com/conda-forge/paper-qa-feedstock.git
 	path = feedstocks/paper-qa
 	branch = refs/heads/main
+[submodule "windows-default-manifest"]
+	url = https://github.com/conda-forge/windows-default-manifest-feedstock.git
+	path = feedstocks/windows-default-manifest
+	branch = refs/heads/main
