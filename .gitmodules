@@ -89854,3 +89854,7 @@
 	url = https://github.com/conda-forge/xorg-libxcvt-feedstock.git
 	path = feedstocks/xorg-libxcvt
 	branch = refs/heads/main
+[submodule "paper-qa"]
+	url = https://github.com/conda-forge/paper-qa-feedstock.git
+	path = feedstocks/paper-qa
+	branch = refs/heads/main
