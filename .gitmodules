@@ -89862,3 +89862,7 @@
 	url = https://github.com/conda-forge/windows-default-manifest-feedstock.git
 	path = feedstocks/windows-default-manifest
 	branch = refs/heads/main
+[submodule "backends"]
+	url = https://github.com/conda-forge/backends-feedstock.git
+	path = feedstocks/backends
+	branch = refs/heads/main
