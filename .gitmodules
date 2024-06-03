@@ -89894,3 +89894,7 @@
 	url = https://github.com/conda-forge/m2w64-sysroot-feedstock.git
 	path = feedstocks/m2w64-sysroot
 	branch = refs/heads/main
+[submodule "eo_tools"]
+	url = https://github.com/conda-forge/eo_tools-feedstock.git
+	path = feedstocks/eo_tools
+	branch = refs/heads/main
