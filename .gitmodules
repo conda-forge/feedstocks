@@ -89890,3 +89890,7 @@
 	url = https://github.com/conda-forge/ansys-platform-instancemanagement-feedstock.git
 	path = feedstocks/ansys-platform-instancemanagement
 	branch = refs/heads/main
+[submodule "m2w64-sysroot"]
+	url = https://github.com/conda-forge/m2w64-sysroot-feedstock.git
+	path = feedstocks/m2w64-sysroot
+	branch = refs/heads/main
