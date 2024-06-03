@@ -89866,3 +89866,7 @@
 	url = https://github.com/conda-forge/backends-feedstock.git
 	path = feedstocks/backends
 	branch = refs/heads/main
+[submodule "fdm"]
+	url = https://github.com/conda-forge/fdm-feedstock.git
+	path = feedstocks/fdm
+	branch = refs/heads/main
