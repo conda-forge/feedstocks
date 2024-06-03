@@ -89882,3 +89882,7 @@
 	url = https://github.com/conda-forge/types-influxdb-client-feedstock.git
 	path = feedstocks/types-influxdb-client
 	branch = refs/heads/main
+[submodule "pygsl"]
+	url = https://github.com/conda-forge/pygsl-feedstock.git
+	path = feedstocks/pygsl
+	branch = refs/heads/main
