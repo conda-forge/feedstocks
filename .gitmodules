@@ -89886,3 +89886,7 @@
 	url = https://github.com/conda-forge/pygsl-feedstock.git
 	path = feedstocks/pygsl
 	branch = refs/heads/main
+[submodule "ansys-platform-instancemanagement"]
+	url = https://github.com/conda-forge/ansys-platform-instancemanagement-feedstock.git
+	path = feedstocks/ansys-platform-instancemanagement
+	branch = refs/heads/main
