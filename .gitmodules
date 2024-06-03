@@ -89874,3 +89874,7 @@
 	url = https://github.com/conda-forge/ansys-api-platform-instancemanagement-feedstock.git
 	path = feedstocks/ansys-api-platform-instancemanagement
 	branch = refs/heads/main
+[submodule "quill"]
+	url = https://github.com/conda-forge/quill-feedstock.git
+	path = feedstocks/quill
+	branch = refs/heads/main
