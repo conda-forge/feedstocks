@@ -89902,3 +89902,7 @@
 	url = https://github.com/conda-forge/ansys-tools-visualization-interface-feedstock.git
 	path = feedstocks/ansys-tools-visualization-interface
 	branch = refs/heads/main
+[submodule "gliner"]
+	url = https://github.com/conda-forge/gliner-feedstock.git
+	path = feedstocks/gliner
+	branch = refs/heads/main
