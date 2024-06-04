@@ -89906,3 +89906,7 @@
 	url = https://github.com/conda-forge/gliner-feedstock.git
 	path = feedstocks/gliner
 	branch = refs/heads/main
+[submodule "fs.smbfs"]
+	url = https://github.com/conda-forge/fs.smbfs-feedstock.git
+	path = feedstocks/fs.smbfs
+	branch = refs/heads/main
