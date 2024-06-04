@@ -89898,3 +89898,7 @@
 	url = https://github.com/conda-forge/eo_tools-feedstock.git
 	path = feedstocks/eo_tools
 	branch = refs/heads/main
+[submodule "ansys-tools-visualization-interface"]
+	url = https://github.com/conda-forge/ansys-tools-visualization-interface-feedstock.git
+	path = feedstocks/ansys-tools-visualization-interface
+	branch = refs/heads/main
