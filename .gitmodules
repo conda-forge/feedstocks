@@ -89914,3 +89914,7 @@
 	url = https://github.com/conda-forge/grep-ast-feedstock.git
 	path = feedstocks/grep-ast
 	branch = refs/heads/main
+[submodule "pyairports"]
+	url = https://github.com/conda-forge/pyairports-feedstock.git
+	path = feedstocks/pyairports
+	branch = refs/heads/main
