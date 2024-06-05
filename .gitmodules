@@ -89910,3 +89910,7 @@
 	url = https://github.com/conda-forge/fs.smbfs-feedstock.git
 	path = feedstocks/fs.smbfs
 	branch = refs/heads/main
+[submodule "grep-ast"]
+	url = https://github.com/conda-forge/grep-ast-feedstock.git
+	path = feedstocks/grep-ast
+	branch = refs/heads/main
