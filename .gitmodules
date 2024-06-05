@@ -89922,3 +89922,7 @@
 	url = https://github.com/conda-forge/ersilia-feedstock.git
 	path = feedstocks/ersilia
 	branch = refs/heads/main
+[submodule "geofabrics"]
+	url = https://github.com/conda-forge/geofabrics-feedstock.git
+	path = feedstocks/geofabrics
+	branch = refs/heads/main
