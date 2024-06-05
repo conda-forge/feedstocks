@@ -89926,3 +89926,7 @@
 	url = https://github.com/conda-forge/geofabrics-feedstock.git
 	path = feedstocks/geofabrics
 	branch = refs/heads/main
+[submodule "serpenttools"]
+	url = https://github.com/conda-forge/serpenttools-feedstock.git
+	path = feedstocks/serpenttools
+	branch = refs/heads/main
