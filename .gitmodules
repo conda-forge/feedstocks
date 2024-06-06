@@ -89934,3 +89934,7 @@
 	url = https://github.com/conda-forge/pygltflib-feedstock.git
 	path = feedstocks/pygltflib
 	branch = refs/heads/main
+[submodule "sourmash_plugin_directsketch"]
+	url = https://github.com/conda-forge/sourmash_plugin_directsketch-feedstock.git
+	path = feedstocks/sourmash_plugin_directsketch
+	branch = refs/heads/main
