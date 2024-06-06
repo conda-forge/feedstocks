@@ -89950,3 +89950,7 @@
 	url = https://github.com/conda-forge/symfc-feedstock.git
 	path = feedstocks/symfc
 	branch = refs/heads/main
+[submodule "tecio"]
+	url = https://github.com/conda-forge/tecio-feedstock.git
+	path = feedstocks/tecio
+	branch = refs/heads/main
