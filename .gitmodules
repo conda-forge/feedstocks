@@ -89946,3 +89946,7 @@
 	url = https://github.com/conda-forge/dimad-feedstock.git
 	path = feedstocks/dimad
 	branch = refs/heads/main
+[submodule "symfc"]
+	url = https://github.com/conda-forge/symfc-feedstock.git
+	path = feedstocks/symfc
+	branch = refs/heads/main
