@@ -89930,3 +89930,7 @@
 	url = https://github.com/conda-forge/serpenttools-feedstock.git
 	path = feedstocks/serpenttools
 	branch = refs/heads/main
+[submodule "pygltflib"]
+	url = https://github.com/conda-forge/pygltflib-feedstock.git
+	path = feedstocks/pygltflib
+	branch = refs/heads/main
