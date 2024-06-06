@@ -89958,3 +89958,7 @@
 	url = https://github.com/conda-forge/conda-protect-feedstock.git
 	path = feedstocks/conda-protect
 	branch = refs/heads/main
+[submodule "gendef"]
+	url = https://github.com/conda-forge/gendef-feedstock.git
+	path = feedstocks/gendef
+	branch = refs/heads/main
