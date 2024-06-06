@@ -89962,3 +89962,7 @@
 	url = https://github.com/conda-forge/gendef-feedstock.git
 	path = feedstocks/gendef
 	branch = refs/heads/main
+[submodule "iterative_solver"]
+	url = https://github.com/conda-forge/iterative_solver-feedstock.git
+	path = feedstocks/iterative_solver
+	branch = refs/heads/main
