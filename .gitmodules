@@ -89954,3 +89954,7 @@
 	url = https://github.com/conda-forge/tecio-feedstock.git
 	path = feedstocks/tecio
 	branch = refs/heads/main
+[submodule "conda-protect"]
+	url = https://github.com/conda-forge/conda-protect-feedstock.git
+	path = feedstocks/conda-protect
+	branch = refs/heads/main
