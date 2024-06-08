@@ -89974,3 +89974,7 @@
 	url = https://github.com/conda-forge/tbparse-feedstock.git
 	path = feedstocks/tbparse
 	branch = refs/heads/main
+[submodule "spacy-universal-sentence-encoder"]
+	url = https://github.com/conda-forge/spacy-universal-sentence-encoder-feedstock.git
+	path = feedstocks/spacy-universal-sentence-encoder
+	branch = refs/heads/main
