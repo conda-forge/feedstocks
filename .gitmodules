@@ -90010,3 +90010,7 @@
 	url = https://github.com/conda-forge/taskgroup-feedstock.git
 	path = feedstocks/taskgroup
 	branch = refs/heads/main
+[submodule "django-csvimport"]
+	url = https://github.com/conda-forge/django-csvimport-feedstock.git
+	path = feedstocks/django-csvimport
+	branch = refs/heads/main
