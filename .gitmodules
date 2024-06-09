@@ -89994,3 +89994,7 @@
 	url = https://github.com/conda-forge/async-property-feedstock.git
 	path = feedstocks/async-property
 	branch = refs/heads/main
+[submodule "ncompare"]
+	url = https://github.com/conda-forge/ncompare-feedstock.git
+	path = feedstocks/ncompare
+	branch = refs/heads/main
