@@ -90014,3 +90014,7 @@
 	url = https://github.com/conda-forge/django-csvimport-feedstock.git
 	path = feedstocks/django-csvimport
 	branch = refs/heads/main
+[submodule "ansys-geometry-core"]
+	url = https://github.com/conda-forge/ansys-geometry-core-feedstock.git
+	path = feedstocks/ansys-geometry-core
+	branch = refs/heads/main
