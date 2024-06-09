@@ -90022,3 +90022,7 @@
 	url = https://github.com/conda-forge/no-more-breakpoints-feedstock.git
 	path = feedstocks/no-more-breakpoints
 	branch = refs/heads/main
+[submodule "setuptools-git-version"]
+	url = https://github.com/conda-forge/setuptools-git-version-feedstock.git
+	path = feedstocks/setuptools-git-version
+	branch = refs/heads/main
