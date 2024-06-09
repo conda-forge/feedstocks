@@ -89990,3 +89990,7 @@
 	url = https://github.com/conda-forge/r-box.linters-feedstock.git
 	path = feedstocks/r-box.linters
 	branch = refs/heads/main
+[submodule "async-property"]
+	url = https://github.com/conda-forge/async-property-feedstock.git
+	path = feedstocks/async-property
+	branch = refs/heads/main
