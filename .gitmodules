@@ -90002,3 +90002,7 @@
 	url = https://github.com/conda-forge/playwright-python-feedstock.git
 	path = feedstocks/playwright-python
 	branch = refs/heads/main
+[submodule "playwright"]
+	url = https://github.com/conda-forge/playwright-feedstock.git
+	path = feedstocks/playwright
+	branch = refs/heads/main
