@@ -89986,3 +89986,7 @@
 	url = https://github.com/conda-forge/r-tidyheatmaps-feedstock.git
 	path = feedstocks/r-tidyheatmaps
 	branch = refs/heads/main
+[submodule "r-box.linters"]
+	url = https://github.com/conda-forge/r-box.linters-feedstock.git
+	path = feedstocks/r-box.linters
+	branch = refs/heads/main
