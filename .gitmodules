@@ -89998,3 +89998,7 @@
 	url = https://github.com/conda-forge/ncompare-feedstock.git
 	path = feedstocks/ncompare
 	branch = refs/heads/main
+[submodule "playwright-python"]
+	url = https://github.com/conda-forge/playwright-python-feedstock.git
+	path = feedstocks/playwright-python
+	branch = refs/heads/main
