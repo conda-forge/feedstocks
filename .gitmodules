@@ -90006,3 +90006,7 @@
 	url = https://github.com/conda-forge/playwright-feedstock.git
 	path = feedstocks/playwright
 	branch = refs/heads/main
+[submodule "taskgroup"]
+	url = https://github.com/conda-forge/taskgroup-feedstock.git
+	path = feedstocks/taskgroup
+	branch = refs/heads/main
