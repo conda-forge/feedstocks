@@ -90066,3 +90066,7 @@
 	url = https://github.com/conda-forge/pysoundcard-feedstock.git
 	path = feedstocks/pysoundcard
 	branch = refs/heads/main
+[submodule "vhs"]
+	url = https://github.com/conda-forge/vhs-feedstock.git
+	path = feedstocks/vhs
+	branch = refs/heads/main
