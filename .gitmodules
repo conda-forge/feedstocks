@@ -90030,3 +90030,7 @@
 	url = https://github.com/conda-forge/django-excel-tools-feedstock.git
 	path = feedstocks/django-excel-tools
 	branch = refs/heads/main
+[submodule "pinyin"]
+	url = https://github.com/conda-forge/pinyin-feedstock.git
+	path = feedstocks/pinyin
+	branch = refs/heads/main
