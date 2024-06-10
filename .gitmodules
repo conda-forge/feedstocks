@@ -90042,3 +90042,7 @@
 	url = https://github.com/conda-forge/jaraco.test-feedstock.git
 	path = feedstocks/jaraco.test
 	branch = refs/heads/main
+[submodule "langgraph"]
+	url = https://github.com/conda-forge/langgraph-feedstock.git
+	path = feedstocks/langgraph
+	branch = refs/heads/main
