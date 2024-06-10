@@ -90034,3 +90034,7 @@
 	url = https://github.com/conda-forge/pinyin-feedstock.git
 	path = feedstocks/pinyin
 	branch = refs/heads/main
+[submodule "mgzip"]
+	url = https://github.com/conda-forge/mgzip-feedstock.git
+	path = feedstocks/mgzip
+	branch = refs/heads/main
