@@ -90026,3 +90026,7 @@
 	url = https://github.com/conda-forge/setuptools-git-version-feedstock.git
 	path = feedstocks/setuptools-git-version
 	branch = refs/heads/main
+[submodule "django-excel-tools"]
+	url = https://github.com/conda-forge/django-excel-tools-feedstock.git
+	path = feedstocks/django-excel-tools
+	branch = refs/heads/main
