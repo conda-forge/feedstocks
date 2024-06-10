@@ -90038,3 +90038,7 @@
 	url = https://github.com/conda-forge/mgzip-feedstock.git
 	path = feedstocks/mgzip
 	branch = refs/heads/main
+[submodule "jaraco.test"]
+	url = https://github.com/conda-forge/jaraco.test-feedstock.git
+	path = feedstocks/jaraco.test
+	branch = refs/heads/main
