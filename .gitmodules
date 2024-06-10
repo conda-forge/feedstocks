@@ -90058,3 +90058,7 @@
 	url = https://github.com/conda-forge/ivmodels-feedstock.git
 	path = feedstocks/ivmodels
 	branch = refs/heads/main
+[submodule "meshcat-shapes"]
+	url = https://github.com/conda-forge/meshcat-shapes-feedstock.git
+	path = feedstocks/meshcat-shapes
+	branch = refs/heads/main
