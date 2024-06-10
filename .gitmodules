@@ -90070,3 +90070,7 @@
 	url = https://github.com/conda-forge/vhs-feedstock.git
 	path = feedstocks/vhs
 	branch = refs/heads/main
+[submodule "verible"]
+	url = https://github.com/conda-forge/verible-feedstock.git
+	path = feedstocks/verible
+	branch = refs/heads/main
