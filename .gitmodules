@@ -90074,3 +90074,7 @@
 	url = https://github.com/conda-forge/verible-feedstock.git
 	path = feedstocks/verible
 	branch = refs/heads/main
+[submodule "typstyle"]
+	url = https://github.com/conda-forge/typstyle-feedstock.git
+	path = feedstocks/typstyle
+	branch = refs/heads/main
