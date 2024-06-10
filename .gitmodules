@@ -90062,3 +90062,7 @@
 	url = https://github.com/conda-forge/meshcat-shapes-feedstock.git
 	path = feedstocks/meshcat-shapes
 	branch = refs/heads/main
+[submodule "pysoundcard"]
+	url = https://github.com/conda-forge/pysoundcard-feedstock.git
+	path = feedstocks/pysoundcard
+	branch = refs/heads/main
