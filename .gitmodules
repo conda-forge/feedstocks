@@ -90046,3 +90046,7 @@
 	url = https://github.com/conda-forge/langgraph-feedstock.git
 	path = feedstocks/langgraph
 	branch = refs/heads/main
+[submodule "upsonic"]
+	url = https://github.com/conda-forge/upsonic-feedstock.git
+	path = feedstocks/upsonic
+	branch = refs/heads/main
