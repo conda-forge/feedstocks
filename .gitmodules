@@ -90098,3 +90098,7 @@
 	url = https://github.com/conda-forge/flexcache-feedstock.git
 	path = feedstocks/flexcache
 	branch = refs/heads/main
+[submodule "flexparser"]
+	url = https://github.com/conda-forge/flexparser-feedstock.git
+	path = feedstocks/flexparser
+	branch = refs/heads/main
