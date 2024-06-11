@@ -90082,3 +90082,7 @@
 	url = https://github.com/conda-forge/scheduler-feedstock.git
 	path = feedstocks/scheduler
 	branch = refs/heads/main
+[submodule "aws-s3-cli"]
+	url = https://github.com/conda-forge/aws-s3-cli-feedstock.git
+	path = feedstocks/aws-s3-cli
+	branch = refs/heads/main
