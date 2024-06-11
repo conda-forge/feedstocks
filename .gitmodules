@@ -90106,3 +90106,7 @@
 	url = https://github.com/conda-forge/aider-feedstock.git
 	path = feedstocks/aider
 	branch = refs/heads/main
+[submodule "crane"]
+	url = https://github.com/conda-forge/crane-feedstock.git
+	path = feedstocks/crane
+	branch = refs/heads/main
