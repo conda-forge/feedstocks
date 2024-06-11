@@ -90078,3 +90078,7 @@
 	url = https://github.com/conda-forge/typstyle-feedstock.git
 	path = feedstocks/typstyle
 	branch = refs/heads/main
+[submodule "scheduler"]
+	url = https://github.com/conda-forge/scheduler-feedstock.git
+	path = feedstocks/scheduler
+	branch = refs/heads/main
