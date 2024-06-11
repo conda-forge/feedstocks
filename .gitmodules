@@ -90086,3 +90086,7 @@
 	url = https://github.com/conda-forge/aws-s3-cli-feedstock.git
 	path = feedstocks/aws-s3-cli
 	branch = refs/heads/main
+[submodule "text-encrypt-decrypt"]
+	url = https://github.com/conda-forge/text-encrypt-decrypt-feedstock.git
+	path = feedstocks/text-encrypt-decrypt
+	branch = refs/heads/main
