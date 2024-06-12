@@ -90118,3 +90118,7 @@
 	url = https://github.com/conda-forge/tangods-achtung-feedstock.git
 	path = feedstocks/tangods-achtung
 	branch = refs/heads/main
+[submodule "fast-barnes-py"]
+	url = https://github.com/conda-forge/fast-barnes-py-feedstock.git
+	path = feedstocks/fast-barnes-py
+	branch = refs/heads/main
