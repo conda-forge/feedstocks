@@ -90122,3 +90122,7 @@
 	url = https://github.com/conda-forge/fast-barnes-py-feedstock.git
 	path = feedstocks/fast-barnes-py
 	branch = refs/heads/main
+[submodule "resolvo-cpp"]
+	url = https://github.com/conda-forge/resolvo-cpp-feedstock.git
+	path = feedstocks/resolvo-cpp
+	branch = refs/heads/main
