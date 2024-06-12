@@ -90126,3 +90126,7 @@
 	url = https://github.com/conda-forge/resolvo-cpp-feedstock.git
 	path = feedstocks/resolvo-cpp
 	branch = refs/heads/main
+[submodule "mhkit"]
+	url = https://github.com/conda-forge/mhkit-feedstock.git
+	path = feedstocks/mhkit
+	branch = refs/heads/main
