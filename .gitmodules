@@ -90110,3 +90110,7 @@
 	url = https://github.com/conda-forge/crane-feedstock.git
 	path = feedstocks/crane
 	branch = refs/heads/main
+[submodule "sseclient-py"]
+	url = https://github.com/conda-forge/sseclient-py-feedstock.git
+	path = feedstocks/sseclient-py
+	branch = refs/heads/main
