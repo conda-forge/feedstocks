@@ -90146,3 +90146,7 @@
 	url = https://github.com/conda-forge/act-feedstock.git
 	path = feedstocks/act
 	branch = refs/heads/main
+[submodule "kornia-rs"]
+	url = https://github.com/conda-forge/kornia-rs-feedstock.git
+	path = feedstocks/kornia-rs
+	branch = refs/heads/main
