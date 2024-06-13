@@ -90154,3 +90154,7 @@
 	url = https://github.com/conda-forge/alpaca-py-feedstock.git
 	path = feedstocks/alpaca-py
 	branch = refs/heads/main
+[submodule "typst-lsp"]
+	url = https://github.com/conda-forge/typst-lsp-feedstock.git
+	path = feedstocks/typst-lsp
+	branch = refs/heads/main
