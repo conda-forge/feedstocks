@@ -90138,3 +90138,7 @@
 	url = https://github.com/conda-forge/deptry-feedstock.git
 	path = feedstocks/deptry
 	branch = refs/heads/main
+[submodule "leiningen"]
+	url = https://github.com/conda-forge/leiningen-feedstock.git
+	path = feedstocks/leiningen
+	branch = refs/heads/main
