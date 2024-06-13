@@ -90134,3 +90134,7 @@
 	url = https://github.com/conda-forge/actionlint-feedstock.git
 	path = feedstocks/actionlint
 	branch = refs/heads/main
+[submodule "deptry"]
+	url = https://github.com/conda-forge/deptry-feedstock.git
+	path = feedstocks/deptry
+	branch = refs/heads/main
