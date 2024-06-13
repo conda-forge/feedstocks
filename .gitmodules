@@ -90150,3 +90150,7 @@
 	url = https://github.com/conda-forge/kornia-rs-feedstock.git
 	path = feedstocks/kornia-rs
 	branch = refs/heads/main
+[submodule "alpaca-py"]
+	url = https://github.com/conda-forge/alpaca-py-feedstock.git
+	path = feedstocks/alpaca-py
+	branch = refs/heads/main
