@@ -90142,3 +90142,7 @@
 	url = https://github.com/conda-forge/leiningen-feedstock.git
 	path = feedstocks/leiningen
 	branch = refs/heads/main
+[submodule "act"]
+	url = https://github.com/conda-forge/act-feedstock.git
+	path = feedstocks/act
+	branch = refs/heads/main
