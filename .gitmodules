@@ -90130,3 +90130,7 @@
 	url = https://github.com/conda-forge/mhkit-feedstock.git
 	path = feedstocks/mhkit
 	branch = refs/heads/main
+[submodule "actionlint"]
+	url = https://github.com/conda-forge/actionlint-feedstock.git
+	path = feedstocks/actionlint
+	branch = refs/heads/main
