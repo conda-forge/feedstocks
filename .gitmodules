@@ -90162,3 +90162,7 @@
 	url = https://github.com/conda-forge/surelog-feedstock.git
 	path = feedstocks/surelog
 	branch = refs/heads/main
+[submodule "ghtoken"]
+	url = https://github.com/conda-forge/ghtoken-feedstock.git
+	path = feedstocks/ghtoken
+	branch = refs/heads/main
