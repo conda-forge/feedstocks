@@ -90182,3 +90182,7 @@
 	url = https://github.com/conda-forge/compas_model-feedstock.git
 	path = feedstocks/compas_model
 	branch = refs/heads/main
+[submodule "amazon-q-developer-jupyterlab-ext"]
+	url = https://github.com/conda-forge/amazon-q-developer-jupyterlab-ext-feedstock.git
+	path = feedstocks/amazon-q-developer-jupyterlab-ext
+	branch = refs/heads/main
