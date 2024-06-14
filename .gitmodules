@@ -90178,3 +90178,7 @@
 	url = https://github.com/conda-forge/sphericaltexture-feedstock.git
 	path = feedstocks/sphericaltexture
 	branch = refs/heads/main
+[submodule "compas_model"]
+	url = https://github.com/conda-forge/compas_model-feedstock.git
+	path = feedstocks/compas_model
+	branch = refs/heads/main
