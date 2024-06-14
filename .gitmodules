@@ -90186,3 +90186,7 @@
 	url = https://github.com/conda-forge/amazon-q-developer-jupyterlab-ext-feedstock.git
 	path = feedstocks/amazon-q-developer-jupyterlab-ext
 	branch = refs/heads/main
+[submodule "amazon-sagemaker-jupyter-ai-q-developer"]
+	url = https://github.com/conda-forge/amazon-sagemaker-jupyter-ai-q-developer-feedstock.git
+	path = feedstocks/amazon-sagemaker-jupyter-ai-q-developer
+	branch = refs/heads/main
