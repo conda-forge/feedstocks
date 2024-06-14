@@ -90170,3 +90170,7 @@
 	url = https://github.com/conda-forge/jaraco.docker-feedstock.git
 	path = feedstocks/jaraco.docker
 	branch = refs/heads/main
+[submodule "conda-pypi"]
+	url = https://github.com/conda-forge/conda-pypi-feedstock.git
+	path = feedstocks/conda-pypi
+	branch = refs/heads/main
