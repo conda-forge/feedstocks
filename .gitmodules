@@ -90194,3 +90194,7 @@
 	url = https://github.com/conda-forge/ndonnx-feedstock.git
 	path = feedstocks/ndonnx
 	branch = refs/heads/main
+[submodule "radicli"]
+	url = https://github.com/conda-forge/radicli-feedstock.git
+	path = feedstocks/radicli
+	branch = refs/heads/main
