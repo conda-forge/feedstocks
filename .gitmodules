@@ -90198,3 +90198,7 @@
 	url = https://github.com/conda-forge/radicli-feedstock.git
 	path = feedstocks/radicli
 	branch = refs/heads/main
+[submodule "kustomize"]
+	url = https://github.com/conda-forge/kustomize-feedstock.git
+	path = feedstocks/kustomize
+	branch = refs/heads/main
