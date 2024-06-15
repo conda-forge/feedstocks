@@ -90206,3 +90206,7 @@
 	url = https://github.com/conda-forge/libtinyspline-feedstock.git
 	path = feedstocks/libtinyspline
 	branch = refs/heads/main
+[submodule "silicon"]
+	url = https://github.com/conda-forge/silicon-feedstock.git
+	path = feedstocks/silicon
+	branch = refs/heads/main
