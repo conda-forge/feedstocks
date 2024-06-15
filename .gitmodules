@@ -90202,3 +90202,7 @@
 	url = https://github.com/conda-forge/kustomize-feedstock.git
 	path = feedstocks/kustomize
 	branch = refs/heads/main
+[submodule "libtinyspline"]
+	url = https://github.com/conda-forge/libtinyspline-feedstock.git
+	path = feedstocks/libtinyspline
+	branch = refs/heads/main
