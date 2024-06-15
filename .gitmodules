@@ -90190,3 +90190,7 @@
 	url = https://github.com/conda-forge/amazon-sagemaker-jupyter-ai-q-developer-feedstock.git
 	path = feedstocks/amazon-sagemaker-jupyter-ai-q-developer
 	branch = refs/heads/main
+[submodule "ndonnx"]
+	url = https://github.com/conda-forge/ndonnx-feedstock.git
+	path = feedstocks/ndonnx
+	branch = refs/heads/main
