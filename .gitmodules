@@ -90210,3 +90210,7 @@
 	url = https://github.com/conda-forge/silicon-feedstock.git
 	path = feedstocks/silicon
 	branch = refs/heads/main
+[submodule "websocket-server"]
+	url = https://github.com/conda-forge/websocket-server-feedstock.git
+	path = feedstocks/websocket-server
+	branch = refs/heads/main
