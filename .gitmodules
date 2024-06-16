@@ -90234,3 +90234,7 @@
 	url = https://github.com/conda-forge/colourtime-feedstock.git
 	path = feedstocks/colourtime
 	branch = refs/heads/main
+[submodule "event-stream"]
+	url = https://github.com/conda-forge/event-stream-feedstock.git
+	path = feedstocks/event-stream
+	branch = refs/heads/main
