@@ -90246,3 +90246,7 @@
 	url = https://github.com/conda-forge/r-minty-feedstock.git
 	path = feedstocks/r-minty
 	branch = refs/heads/main
+[submodule "r-equalityml"]
+	url = https://github.com/conda-forge/r-equalityml-feedstock.git
+	path = feedstocks/r-equalityml
+	branch = refs/heads/main
