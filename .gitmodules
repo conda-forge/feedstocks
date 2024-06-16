@@ -90218,3 +90218,7 @@
 	url = https://github.com/conda-forge/py2cfg-feedstock.git
 	path = feedstocks/py2cfg
 	branch = refs/heads/main
+[submodule "asv_bench_memray"]
+	url = https://github.com/conda-forge/asv_bench_memray-feedstock.git
+	path = feedstocks/asv_bench_memray
+	branch = refs/heads/main
