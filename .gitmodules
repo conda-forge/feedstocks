@@ -90222,3 +90222,7 @@
 	url = https://github.com/conda-forge/asv_bench_memray-feedstock.git
 	path = feedstocks/asv_bench_memray
 	branch = refs/heads/main
+[submodule "gspread-dataframe"]
+	url = https://github.com/conda-forge/gspread-dataframe-feedstock.git
+	path = feedstocks/gspread-dataframe
+	branch = refs/heads/main
