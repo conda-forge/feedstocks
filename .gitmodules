@@ -90238,3 +90238,7 @@
 	url = https://github.com/conda-forge/event-stream-feedstock.git
 	path = feedstocks/event-stream
 	branch = refs/heads/main
+[submodule "command_line_tools"]
+	url = https://github.com/conda-forge/command_line_tools-feedstock.git
+	path = feedstocks/command_line_tools
+	branch = refs/heads/main
