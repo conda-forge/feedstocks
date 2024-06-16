@@ -90242,3 +90242,7 @@
 	url = https://github.com/conda-forge/command_line_tools-feedstock.git
 	path = feedstocks/command_line_tools
 	branch = refs/heads/main
+[submodule "r-minty"]
+	url = https://github.com/conda-forge/r-minty-feedstock.git
+	path = feedstocks/r-minty
+	branch = refs/heads/main
