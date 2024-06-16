@@ -90214,3 +90214,7 @@
 	url = https://github.com/conda-forge/websocket-server-feedstock.git
 	path = feedstocks/websocket-server
 	branch = refs/heads/main
+[submodule "py2cfg"]
+	url = https://github.com/conda-forge/py2cfg-feedstock.git
+	path = feedstocks/py2cfg
+	branch = refs/heads/main
