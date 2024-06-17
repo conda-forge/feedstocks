@@ -90254,3 +90254,7 @@
 	url = https://github.com/conda-forge/ib_async-feedstock.git
 	path = feedstocks/ib_async
 	branch = refs/heads/main
+[submodule "gym-pusht"]
+	url = https://github.com/conda-forge/gym-pusht-feedstock.git
+	path = feedstocks/gym-pusht
+	branch = refs/heads/main
