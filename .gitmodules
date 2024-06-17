@@ -90262,3 +90262,7 @@
 	url = https://github.com/conda-forge/mariadb-feedstock.git
 	path = feedstocks/mariadb
 	branch = refs/heads/main
+[submodule "jschon"]
+	url = https://github.com/conda-forge/jschon-feedstock.git
+	path = feedstocks/jschon
+	branch = refs/heads/main
