@@ -90258,3 +90258,7 @@
 	url = https://github.com/conda-forge/gym-pusht-feedstock.git
 	path = feedstocks/gym-pusht
 	branch = refs/heads/main
+[submodule "mariadb"]
+	url = https://github.com/conda-forge/mariadb-feedstock.git
+	path = feedstocks/mariadb
+	branch = refs/heads/main
