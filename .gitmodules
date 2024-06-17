@@ -90250,3 +90250,7 @@
 	url = https://github.com/conda-forge/r-equalityml-feedstock.git
 	path = feedstocks/r-equalityml
 	branch = refs/heads/main
+[submodule "ib_async"]
+	url = https://github.com/conda-forge/ib_async-feedstock.git
+	path = feedstocks/ib_async
+	branch = refs/heads/main
