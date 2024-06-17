@@ -90270,3 +90270,7 @@
 	url = https://github.com/conda-forge/mpackview-feedstock.git
 	path = feedstocks/mpackview
 	branch = refs/heads/main
+[submodule "xorjson"]
+	url = https://github.com/conda-forge/xorjson-feedstock.git
+	path = feedstocks/xorjson
+	branch = refs/heads/main
