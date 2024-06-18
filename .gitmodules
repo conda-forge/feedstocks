@@ -90286,3 +90286,7 @@
 	url = https://github.com/conda-forge/textgrad-feedstock.git
 	path = feedstocks/textgrad
 	branch = refs/heads/main
+[submodule "hklpy2"]
+	url = https://github.com/conda-forge/hklpy2-feedstock.git
+	path = feedstocks/hklpy2
+	branch = refs/heads/main
