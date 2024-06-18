@@ -90282,3 +90282,7 @@
 	url = https://github.com/conda-forge/minimal_molview-feedstock.git
 	path = feedstocks/minimal_molview
 	branch = refs/heads/main
+[submodule "textgrad"]
+	url = https://github.com/conda-forge/textgrad-feedstock.git
+	path = feedstocks/textgrad
+	branch = refs/heads/main
