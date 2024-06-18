@@ -90294,3 +90294,7 @@
 	url = https://github.com/conda-forge/gridemissions-feedstock.git
 	path = feedstocks/gridemissions
 	branch = refs/heads/main
+[submodule "pyserini"]
+	url = https://github.com/conda-forge/pyserini-feedstock.git
+	path = feedstocks/pyserini
+	branch = refs/heads/main
