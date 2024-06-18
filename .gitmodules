@@ -90298,3 +90298,7 @@
 	url = https://github.com/conda-forge/pyserini-feedstock.git
 	path = feedstocks/pyserini
 	branch = refs/heads/main
+[submodule "metalearners"]
+	url = https://github.com/conda-forge/metalearners-feedstock.git
+	path = feedstocks/metalearners
+	branch = refs/heads/main
