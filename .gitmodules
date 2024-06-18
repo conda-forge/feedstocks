@@ -90278,3 +90278,7 @@
 	url = https://github.com/conda-forge/iotop-feedstock.git
 	path = feedstocks/iotop
 	branch = refs/heads/main
+[submodule "minimal_molview"]
+	url = https://github.com/conda-forge/minimal_molview-feedstock.git
+	path = feedstocks/minimal_molview
+	branch = refs/heads/main
