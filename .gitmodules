@@ -90366,3 +90366,7 @@
 	url = https://github.com/conda-forge/fireworks-ai-feedstock.git
 	path = feedstocks/fireworks-ai
 	branch = refs/heads/main
+[submodule "vdms"]
+	url = https://github.com/conda-forge/vdms-feedstock.git
+	path = feedstocks/vdms
+	branch = refs/heads/main
