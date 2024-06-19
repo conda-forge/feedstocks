@@ -90338,3 +90338,7 @@
 	url = https://github.com/conda-forge/upstash-redis-feedstock.git
 	path = feedstocks/upstash-redis
 	branch = refs/heads/main
+[submodule "tidb-vector"]
+	url = https://github.com/conda-forge/tidb-vector-feedstock.git
+	path = feedstocks/tidb-vector
+	branch = refs/heads/main
