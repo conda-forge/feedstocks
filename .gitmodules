@@ -90362,3 +90362,7 @@
 	url = https://github.com/conda-forge/python_jsonschema_objects-feedstock.git
 	path = feedstocks/python_jsonschema_objects
 	branch = refs/heads/main
+[submodule "fireworks-ai"]
+	url = https://github.com/conda-forge/fireworks-ai-feedstock.git
+	path = feedstocks/fireworks-ai
+	branch = refs/heads/main
