@@ -90382,3 +90382,7 @@
 	url = https://github.com/conda-forge/gradientai-feedstock.git
 	path = feedstocks/gradientai
 	branch = refs/heads/main
+[submodule "pdgstaging"]
+	url = https://github.com/conda-forge/pdgstaging-feedstock.git
+	path = feedstocks/pdgstaging
+	branch = refs/heads/main
