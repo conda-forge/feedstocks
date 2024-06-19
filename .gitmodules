@@ -90334,3 +90334,7 @@
 	url = https://github.com/conda-forge/ocifs-feedstock.git
 	path = feedstocks/ocifs
 	branch = refs/heads/main
+[submodule "upstash-redis"]
+	url = https://github.com/conda-forge/upstash-redis-feedstock.git
+	path = feedstocks/upstash-redis
+	branch = refs/heads/main
