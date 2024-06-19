@@ -90314,3 +90314,7 @@
 	url = https://github.com/conda-forge/rq_scheduler-feedstock.git
 	path = feedstocks/rq_scheduler
 	branch = refs/heads/main
+[submodule "ipecharts"]
+	url = https://github.com/conda-forge/ipecharts-feedstock.git
+	path = feedstocks/ipecharts
+	branch = refs/heads/main
