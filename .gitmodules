@@ -90318,3 +90318,7 @@
 	url = https://github.com/conda-forge/ipecharts-feedstock.git
 	path = feedstocks/ipecharts
 	branch = refs/heads/main
+[submodule "choppa"]
+	url = https://github.com/conda-forge/choppa-feedstock.git
+	path = feedstocks/choppa
+	branch = refs/heads/main
