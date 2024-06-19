@@ -90350,3 +90350,7 @@
 	url = https://github.com/conda-forge/friendli-client-feedstock.git
 	path = feedstocks/friendli-client
 	branch = refs/heads/main
+[submodule "oracle-ads"]
+	url = https://github.com/conda-forge/oracle-ads-feedstock.git
+	path = feedstocks/oracle-ads
+	branch = refs/heads/main
