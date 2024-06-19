@@ -90326,3 +90326,7 @@
 	url = https://github.com/conda-forge/upstash-ratelimit-feedstock.git
 	path = feedstocks/upstash-ratelimit
 	branch = refs/heads/main
+[submodule "azure-ai-documentintelligence"]
+	url = https://github.com/conda-forge/azure-ai-documentintelligence-feedstock.git
+	path = feedstocks/azure-ai-documentintelligence
+	branch = refs/heads/main
