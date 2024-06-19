@@ -90306,3 +90306,7 @@
 	url = https://github.com/conda-forge/forallpeople-feedstock.git
 	path = feedstocks/forallpeople
 	branch = refs/heads/main
+[submodule "multipart"]
+	url = https://github.com/conda-forge/multipart-feedstock.git
+	path = feedstocks/multipart
+	branch = refs/heads/main
