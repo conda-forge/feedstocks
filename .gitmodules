@@ -90342,3 +90342,7 @@
 	url = https://github.com/conda-forge/tidb-vector-feedstock.git
 	path = feedstocks/tidb-vector
 	branch = refs/heads/main
+[submodule "azure-search-documents"]
+	url = https://github.com/conda-forge/azure-search-documents-feedstock.git
+	path = feedstocks/azure-search-documents
+	branch = refs/heads/main
