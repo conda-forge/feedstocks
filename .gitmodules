@@ -90378,3 +90378,7 @@
 	url = https://github.com/conda-forge/ariadne-codegen-feedstock.git
 	path = feedstocks/ariadne-codegen
 	branch = refs/heads/main
+[submodule "gradientai"]
+	url = https://github.com/conda-forge/gradientai-feedstock.git
+	path = feedstocks/gradientai
+	branch = refs/heads/main
