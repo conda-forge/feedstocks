@@ -90330,3 +90330,7 @@
 	url = https://github.com/conda-forge/azure-ai-documentintelligence-feedstock.git
 	path = feedstocks/azure-ai-documentintelligence
 	branch = refs/heads/main
+[submodule "ocifs"]
+	url = https://github.com/conda-forge/ocifs-feedstock.git
+	path = feedstocks/ocifs
+	branch = refs/heads/main
