@@ -90374,3 +90374,7 @@
 	url = https://github.com/conda-forge/premai-feedstock.git
 	path = feedstocks/premai
 	branch = refs/heads/main
+[submodule "ariadne-codegen"]
+	url = https://github.com/conda-forge/ariadne-codegen-feedstock.git
+	path = feedstocks/ariadne-codegen
+	branch = refs/heads/main
