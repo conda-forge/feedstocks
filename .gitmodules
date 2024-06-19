@@ -90346,3 +90346,7 @@
 	url = https://github.com/conda-forge/azure-search-documents-feedstock.git
 	path = feedstocks/azure-search-documents
 	branch = refs/heads/main
+[submodule "friendli-client"]
+	url = https://github.com/conda-forge/friendli-client-feedstock.git
+	path = feedstocks/friendli-client
+	branch = refs/heads/main
