@@ -90322,3 +90322,7 @@
 	url = https://github.com/conda-forge/choppa-feedstock.git
 	path = feedstocks/choppa
 	branch = refs/heads/main
+[submodule "upstash-ratelimit"]
+	url = https://github.com/conda-forge/upstash-ratelimit-feedstock.git
+	path = feedstocks/upstash-ratelimit
+	branch = refs/heads/main
