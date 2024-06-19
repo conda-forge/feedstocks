@@ -90310,3 +90310,7 @@
 	url = https://github.com/conda-forge/multipart-feedstock.git
 	path = feedstocks/multipart
 	branch = refs/heads/main
+[submodule "rq_scheduler"]
+	url = https://github.com/conda-forge/rq_scheduler-feedstock.git
+	path = feedstocks/rq_scheduler
+	branch = refs/heads/main
