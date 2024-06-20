@@ -90402,3 +90402,7 @@
 	url = https://github.com/conda-forge/ai21-feedstock.git
 	path = feedstocks/ai21
 	branch = refs/heads/main
+[submodule "langchain-ai21"]
+	url = https://github.com/conda-forge/langchain-ai21-feedstock.git
+	path = feedstocks/langchain-ai21
+	branch = refs/heads/main
