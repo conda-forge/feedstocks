@@ -90414,3 +90414,7 @@
 	url = https://github.com/conda-forge/ai21-tokenizer-feedstock.git
 	path = feedstocks/ai21-tokenizer
 	branch = refs/heads/main
+[submodule "langchain-nomic"]
+	url = https://github.com/conda-forge/langchain-nomic-feedstock.git
+	path = feedstocks/langchain-nomic
+	branch = refs/heads/main
