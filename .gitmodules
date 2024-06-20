@@ -90426,3 +90426,7 @@
 	url = https://github.com/conda-forge/langchain-qdrant-feedstock.git
 	path = feedstocks/langchain-qdrant
 	branch = refs/heads/main
+[submodule "voyageai"]
+	url = https://github.com/conda-forge/voyageai-feedstock.git
+	path = feedstocks/voyageai
+	branch = refs/heads/main
