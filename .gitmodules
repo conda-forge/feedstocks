@@ -90394,3 +90394,7 @@
 	url = https://github.com/conda-forge/qt-quick3d-feedstock.git
 	path = feedstocks/qt-quick3d
 	branch = refs/heads/main
+[submodule "sagemaker-mlflow"]
+	url = https://github.com/conda-forge/sagemaker-mlflow-feedstock.git
+	path = feedstocks/sagemaker-mlflow
+	branch = refs/heads/main
