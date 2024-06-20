@@ -90406,3 +90406,7 @@
 	url = https://github.com/conda-forge/langchain-ai21-feedstock.git
 	path = feedstocks/langchain-ai21
 	branch = refs/heads/main
+[submodule "langchain-fireworks"]
+	url = https://github.com/conda-forge/langchain-fireworks-feedstock.git
+	path = feedstocks/langchain-fireworks
+	branch = refs/heads/main
