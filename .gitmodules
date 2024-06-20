@@ -90430,3 +90430,7 @@
 	url = https://github.com/conda-forge/voyageai-feedstock.git
 	path = feedstocks/voyageai
 	branch = refs/heads/main
+[submodule "nomic"]
+	url = https://github.com/conda-forge/nomic-feedstock.git
+	path = feedstocks/nomic
+	branch = refs/heads/main
