@@ -90442,3 +90442,7 @@
 	url = https://github.com/conda-forge/langchain-together-feedstock.git
 	path = feedstocks/langchain-together
 	branch = refs/heads/main
+[submodule "langchain-mistralai"]
+	url = https://github.com/conda-forge/langchain-mistralai-feedstock.git
+	path = feedstocks/langchain-mistralai
+	branch = refs/heads/main
