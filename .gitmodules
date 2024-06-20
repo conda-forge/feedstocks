@@ -90462,3 +90462,7 @@
 	url = https://github.com/conda-forge/langchain-robocorp-feedstock.git
 	path = feedstocks/langchain-robocorp
 	branch = refs/heads/main
+[submodule "pyhdbpp"]
+	url = https://github.com/conda-forge/pyhdbpp-feedstock.git
+	path = feedstocks/pyhdbpp
+	branch = refs/heads/main
