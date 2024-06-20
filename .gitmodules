@@ -90398,3 +90398,7 @@
 	url = https://github.com/conda-forge/sagemaker-mlflow-feedstock.git
 	path = feedstocks/sagemaker-mlflow
 	branch = refs/heads/main
+[submodule "ai21"]
+	url = https://github.com/conda-forge/ai21-feedstock.git
+	path = feedstocks/ai21
+	branch = refs/heads/main
