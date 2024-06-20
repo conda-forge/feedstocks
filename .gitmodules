@@ -90410,3 +90410,7 @@
 	url = https://github.com/conda-forge/langchain-fireworks-feedstock.git
 	path = feedstocks/langchain-fireworks
 	branch = refs/heads/main
+[submodule "ai21-tokenizer"]
+	url = https://github.com/conda-forge/ai21-tokenizer-feedstock.git
+	path = feedstocks/ai21-tokenizer
+	branch = refs/heads/main
