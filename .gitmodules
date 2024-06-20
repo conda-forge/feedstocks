@@ -90434,3 +90434,7 @@
 	url = https://github.com/conda-forge/nomic-feedstock.git
 	path = feedstocks/nomic
 	branch = refs/heads/main
+[submodule "langchain-azure-dynamic-sessions"]
+	url = https://github.com/conda-forge/langchain-azure-dynamic-sessions-feedstock.git
+	path = feedstocks/langchain-azure-dynamic-sessions
+	branch = refs/heads/main
