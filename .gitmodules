@@ -90386,3 +90386,7 @@
 	url = https://github.com/conda-forge/pdgstaging-feedstock.git
 	path = feedstocks/pdgstaging
 	branch = refs/heads/main
+[submodule "pyvinecopulib"]
+	url = https://github.com/conda-forge/pyvinecopulib-feedstock.git
+	path = feedstocks/pyvinecopulib
+	branch = refs/heads/main
