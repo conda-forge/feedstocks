@@ -90450,3 +90450,7 @@
 	url = https://github.com/conda-forge/langchain-mongodb-feedstock.git
 	path = feedstocks/langchain-mongodb
 	branch = refs/heads/main
+[submodule "langchain-chroma"]
+	url = https://github.com/conda-forge/langchain-chroma-feedstock.git
+	path = feedstocks/langchain-chroma
+	branch = refs/heads/main
