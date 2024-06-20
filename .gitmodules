@@ -90422,3 +90422,7 @@
 	url = https://github.com/conda-forge/langchain-prompty-feedstock.git
 	path = feedstocks/langchain-prompty
 	branch = refs/heads/main
+[submodule "langchain-qdrant"]
+	url = https://github.com/conda-forge/langchain-qdrant-feedstock.git
+	path = feedstocks/langchain-qdrant
+	branch = refs/heads/main
