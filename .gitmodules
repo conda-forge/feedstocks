@@ -90446,3 +90446,7 @@
 	url = https://github.com/conda-forge/langchain-mistralai-feedstock.git
 	path = feedstocks/langchain-mistralai
 	branch = refs/heads/main
+[submodule "langchain-mongodb"]
+	url = https://github.com/conda-forge/langchain-mongodb-feedstock.git
+	path = feedstocks/langchain-mongodb
+	branch = refs/heads/main
