@@ -90454,3 +90454,7 @@
 	url = https://github.com/conda-forge/langchain-chroma-feedstock.git
 	path = feedstocks/langchain-chroma
 	branch = refs/heads/main
+[submodule "langchain-voyageai"]
+	url = https://github.com/conda-forge/langchain-voyageai-feedstock.git
+	path = feedstocks/langchain-voyageai
+	branch = refs/heads/main
