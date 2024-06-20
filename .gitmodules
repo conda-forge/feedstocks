@@ -90438,3 +90438,7 @@
 	url = https://github.com/conda-forge/langchain-azure-dynamic-sessions-feedstock.git
 	path = feedstocks/langchain-azure-dynamic-sessions
 	branch = refs/heads/main
+[submodule "langchain-together"]
+	url = https://github.com/conda-forge/langchain-together-feedstock.git
+	path = feedstocks/langchain-together
+	branch = refs/heads/main
