@@ -90470,3 +90470,7 @@
 	url = https://github.com/conda-forge/r-betapart-feedstock.git
 	path = feedstocks/r-betapart
 	branch = refs/heads/main
+[submodule "hydromt_delwaq"]
+	url = https://github.com/conda-forge/hydromt_delwaq-feedstock.git
+	path = feedstocks/hydromt_delwaq
+	branch = refs/heads/main
