@@ -90490,3 +90490,7 @@
 	url = https://github.com/conda-forge/dispenso-feedstock.git
 	path = feedstocks/dispenso
 	branch = refs/heads/main
+[submodule "drjit-cpp"]
+	url = https://github.com/conda-forge/drjit-cpp-feedstock.git
+	path = feedstocks/drjit-cpp
+	branch = refs/heads/main
