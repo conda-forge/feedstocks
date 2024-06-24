@@ -90546,3 +90546,7 @@
 	url = https://github.com/conda-forge/bmadx-feedstock.git
 	path = feedstocks/bmadx
 	branch = refs/heads/main
+[submodule "poligrain"]
+	url = https://github.com/conda-forge/poligrain-feedstock.git
+	path = feedstocks/poligrain
+	branch = refs/heads/main
