@@ -90534,3 +90534,7 @@
 	url = https://github.com/conda-forge/pygbx-feedstock.git
 	path = feedstocks/pygbx
 	branch = refs/heads/main
+[submodule "ptflops"]
+	url = https://github.com/conda-forge/ptflops-feedstock.git
+	path = feedstocks/ptflops
+	branch = refs/heads/main
