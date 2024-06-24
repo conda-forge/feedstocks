@@ -90538,3 +90538,7 @@
 	url = https://github.com/conda-forge/ptflops-feedstock.git
 	path = feedstocks/ptflops
 	branch = refs/heads/main
+[submodule "rocfft"]
+	url = https://github.com/conda-forge/rocfft-feedstock.git
+	path = feedstocks/rocfft
+	branch = refs/heads/main
