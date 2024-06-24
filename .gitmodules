@@ -90526,3 +90526,7 @@
 	url = https://github.com/conda-forge/readwritememory-feedstock.git
 	path = feedstocks/readwritememory
 	branch = refs/heads/main
+[submodule "pyorerun"]
+	url = https://github.com/conda-forge/pyorerun-feedstock.git
+	path = feedstocks/pyorerun
+	branch = refs/heads/main
