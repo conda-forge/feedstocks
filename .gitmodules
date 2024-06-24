@@ -90514,3 +90514,7 @@
 	url = https://github.com/conda-forge/llama-cloud-feedstock.git
 	path = feedstocks/llama-cloud
 	branch = refs/heads/main
+[submodule "dxcam"]
+	url = https://github.com/conda-forge/dxcam-feedstock.git
+	path = feedstocks/dxcam
+	branch = refs/heads/main
