@@ -90542,3 +90542,7 @@
 	url = https://github.com/conda-forge/rocfft-feedstock.git
 	path = feedstocks/rocfft
 	branch = refs/heads/main
+[submodule "bmadx"]
+	url = https://github.com/conda-forge/bmadx-feedstock.git
+	path = feedstocks/bmadx
+	branch = refs/heads/main
