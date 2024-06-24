@@ -90550,3 +90550,7 @@
 	url = https://github.com/conda-forge/poligrain-feedstock.git
 	path = feedstocks/poligrain
 	branch = refs/heads/main
+[submodule "pyjsg"]
+	url = https://github.com/conda-forge/pyjsg-feedstock.git
+	path = feedstocks/pyjsg
+	branch = refs/heads/main
