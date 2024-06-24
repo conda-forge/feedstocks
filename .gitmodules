@@ -90518,3 +90518,7 @@
 	url = https://github.com/conda-forge/dxcam-feedstock.git
 	path = feedstocks/dxcam
 	branch = refs/heads/main
+[submodule "pydirectinput"]
+	url = https://github.com/conda-forge/pydirectinput-feedstock.git
+	path = feedstocks/pydirectinput
+	branch = refs/heads/main
