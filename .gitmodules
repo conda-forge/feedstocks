@@ -90506,3 +90506,7 @@
 	url = https://github.com/conda-forge/tminterface-feedstock.git
 	path = feedstocks/tminterface
 	branch = refs/heads/main
+[submodule "nessai-bilby"]
+	url = https://github.com/conda-forge/nessai-bilby-feedstock.git
+	path = feedstocks/nessai-bilby
+	branch = refs/heads/main
