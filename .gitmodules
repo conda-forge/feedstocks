@@ -90494,3 +90494,7 @@
 	url = https://github.com/conda-forge/drjit-cpp-feedstock.git
 	path = feedstocks/drjit-cpp
 	branch = refs/heads/main
+[submodule "albucore"]
+	url = https://github.com/conda-forge/albucore-feedstock.git
+	path = feedstocks/albucore
+	branch = refs/heads/main
