@@ -90510,3 +90510,7 @@
 	url = https://github.com/conda-forge/nessai-bilby-feedstock.git
 	path = feedstocks/nessai-bilby
 	branch = refs/heads/main
+[submodule "llama-cloud"]
+	url = https://github.com/conda-forge/llama-cloud-feedstock.git
+	path = feedstocks/llama-cloud
+	branch = refs/heads/main
