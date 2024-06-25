@@ -90558,3 +90558,7 @@
 	url = https://github.com/conda-forge/pokemonpy-feedstock.git
 	path = feedstocks/pokemonpy
 	branch = refs/heads/main
+[submodule "ndbc-api"]
+	url = https://github.com/conda-forge/ndbc-api-feedstock.git
+	path = feedstocks/ndbc-api
+	branch = refs/heads/main
