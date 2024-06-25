@@ -90606,3 +90606,7 @@
 	url = https://github.com/conda-forge/shinywidgets-feedstock.git
 	path = feedstocks/shinywidgets
 	branch = refs/heads/main
+[submodule "hipfft"]
+	url = https://github.com/conda-forge/hipfft-feedstock.git
+	path = feedstocks/hipfft
+	branch = refs/heads/main
