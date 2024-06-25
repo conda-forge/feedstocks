@@ -90598,3 +90598,7 @@
 	url = https://github.com/conda-forge/dask-ee-feedstock.git
 	path = feedstocks/dask-ee
 	branch = refs/heads/main
+[submodule "faicons"]
+	url = https://github.com/conda-forge/faicons-feedstock.git
+	path = feedstocks/faicons
+	branch = refs/heads/main
