@@ -90566,3 +90566,7 @@
 	url = https://github.com/conda-forge/libgpiod-split-feedstock.git
 	path = feedstocks/libgpiod-split
 	branch = refs/heads/main
+[submodule "pdgraster"]
+	url = https://github.com/conda-forge/pdgraster-feedstock.git
+	path = feedstocks/pdgraster
+	branch = refs/heads/main
