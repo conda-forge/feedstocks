@@ -90602,3 +90602,7 @@
 	url = https://github.com/conda-forge/faicons-feedstock.git
 	path = feedstocks/faicons
 	branch = refs/heads/main
+[submodule "shinywidgets"]
+	url = https://github.com/conda-forge/shinywidgets-feedstock.git
+	path = feedstocks/shinywidgets
+	branch = refs/heads/main
