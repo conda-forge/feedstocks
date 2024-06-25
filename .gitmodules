@@ -90590,3 +90590,7 @@
 	url = https://github.com/conda-forge/undetected-chromedriver-feedstock.git
 	path = feedstocks/undetected-chromedriver
 	branch = refs/heads/main
+[submodule "clojure"]
+	url = https://github.com/conda-forge/clojure-feedstock.git
+	path = feedstocks/clojure
+	branch = refs/heads/main
