@@ -90582,3 +90582,7 @@
 	url = https://github.com/conda-forge/dagster-cloud-cli-feedstock.git
 	path = feedstocks/dagster-cloud-cli
 	branch = refs/heads/main
+[submodule "typst-test"]
+	url = https://github.com/conda-forge/typst-test-feedstock.git
+	path = feedstocks/typst-test
+	branch = refs/heads/main
