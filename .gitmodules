@@ -90586,3 +90586,7 @@
 	url = https://github.com/conda-forge/typst-test-feedstock.git
 	path = feedstocks/typst-test
 	branch = refs/heads/main
+[submodule "undetected-chromedriver"]
+	url = https://github.com/conda-forge/undetected-chromedriver-feedstock.git
+	path = feedstocks/undetected-chromedriver
+	branch = refs/heads/main
