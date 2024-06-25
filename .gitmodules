@@ -90570,3 +90570,7 @@
 	url = https://github.com/conda-forge/pdgraster-feedstock.git
 	path = feedstocks/pdgraster
 	branch = refs/heads/main
+[submodule "dagster-cloud"]
+	url = https://github.com/conda-forge/dagster-cloud-feedstock.git
+	path = feedstocks/dagster-cloud
+	branch = refs/heads/main
