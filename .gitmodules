@@ -90610,3 +90610,7 @@
 	url = https://github.com/conda-forge/hipfft-feedstock.git
 	path = feedstocks/hipfft
 	branch = refs/heads/main
+[submodule "dropstackframe"]
+	url = https://github.com/conda-forge/dropstackframe-feedstock.git
+	path = feedstocks/dropstackframe
+	branch = refs/heads/main
