@@ -90578,3 +90578,7 @@
 	url = https://github.com/conda-forge/pex-feedstock.git
 	path = feedstocks/pex
 	branch = refs/heads/main
+[submodule "dagster-cloud-cli"]
+	url = https://github.com/conda-forge/dagster-cloud-cli-feedstock.git
+	path = feedstocks/dagster-cloud-cli
+	branch = refs/heads/main
