@@ -90622,3 +90622,7 @@
 	url = https://github.com/conda-forge/django-cryptography-django5-feedstock.git
 	path = feedstocks/django-cryptography-django5
 	branch = refs/heads/main
+[submodule "pystemmer"]
+	url = https://github.com/conda-forge/pystemmer-feedstock.git
+	path = feedstocks/pystemmer
+	branch = refs/heads/main
