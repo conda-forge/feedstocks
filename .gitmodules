@@ -90614,3 +90614,7 @@
 	url = https://github.com/conda-forge/dropstackframe-feedstock.git
 	path = feedstocks/dropstackframe
 	branch = refs/heads/main
+[submodule "check_shapes"]
+	url = https://github.com/conda-forge/check_shapes-feedstock.git
+	path = feedstocks/check_shapes
+	branch = refs/heads/main
