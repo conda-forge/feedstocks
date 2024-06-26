@@ -90618,3 +90618,7 @@
 	url = https://github.com/conda-forge/check_shapes-feedstock.git
 	path = feedstocks/check_shapes
 	branch = refs/heads/main
+[submodule "django-cryptography-django5"]
+	url = https://github.com/conda-forge/django-cryptography-django5-feedstock.git
+	path = feedstocks/django-cryptography-django5
+	branch = refs/heads/main
