@@ -90626,3 +90626,7 @@
 	url = https://github.com/conda-forge/pystemmer-feedstock.git
 	path = feedstocks/pystemmer
 	branch = refs/heads/main
+[submodule "python-libxdo"]
+	url = https://github.com/conda-forge/python-libxdo-feedstock.git
+	path = feedstocks/python-libxdo
+	branch = refs/heads/main
