@@ -90630,3 +90630,7 @@
 	url = https://github.com/conda-forge/python-libxdo-feedstock.git
 	path = feedstocks/python-libxdo
 	branch = refs/heads/main
+[submodule "pytorchrl"]
+	url = https://github.com/conda-forge/pytorchrl-feedstock.git
+	path = feedstocks/pytorchrl
+	branch = refs/heads/main
