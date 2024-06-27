@@ -90642,3 +90642,7 @@
 	url = https://github.com/conda-forge/pytest-datafiles-feedstock.git
 	path = feedstocks/pytest-datafiles
 	branch = refs/heads/main
+[submodule "jax2torch"]
+	url = https://github.com/conda-forge/jax2torch-feedstock.git
+	path = feedstocks/jax2torch
+	branch = refs/heads/main
