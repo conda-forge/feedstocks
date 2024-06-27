@@ -90650,3 +90650,7 @@
 	url = https://github.com/conda-forge/bm25s-feedstock.git
 	path = feedstocks/bm25s
 	branch = refs/heads/main
+[submodule "geotesscpp"]
+	url = https://github.com/conda-forge/geotesscpp-feedstock.git
+	path = feedstocks/geotesscpp
+	branch = refs/heads/main
