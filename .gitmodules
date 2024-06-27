@@ -90654,3 +90654,7 @@
 	url = https://github.com/conda-forge/geotesscpp-feedstock.git
 	path = feedstocks/geotesscpp
 	branch = refs/heads/main
+[submodule "bigquery-magics"]
+	url = https://github.com/conda-forge/bigquery-magics-feedstock.git
+	path = feedstocks/bigquery-magics
+	branch = refs/heads/main
