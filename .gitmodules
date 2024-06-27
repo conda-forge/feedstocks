@@ -90638,3 +90638,7 @@
 	url = https://github.com/conda-forge/cogwheel-pe-feedstock.git
 	path = feedstocks/cogwheel-pe
 	branch = refs/heads/main
+[submodule "pytest-datafiles"]
+	url = https://github.com/conda-forge/pytest-datafiles-feedstock.git
+	path = feedstocks/pytest-datafiles
+	branch = refs/heads/main
