@@ -90646,3 +90646,7 @@
 	url = https://github.com/conda-forge/jax2torch-feedstock.git
 	path = feedstocks/jax2torch
 	branch = refs/heads/main
+[submodule "bm25s"]
+	url = https://github.com/conda-forge/bm25s-feedstock.git
+	path = feedstocks/bm25s
+	branch = refs/heads/main
