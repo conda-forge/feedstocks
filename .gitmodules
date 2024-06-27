@@ -90634,3 +90634,7 @@
 	url = https://github.com/conda-forge/pytorchrl-feedstock.git
 	path = feedstocks/pytorchrl
 	branch = refs/heads/main
+[submodule "cogwheel-pe"]
+	url = https://github.com/conda-forge/cogwheel-pe-feedstock.git
+	path = feedstocks/cogwheel-pe
+	branch = refs/heads/main
