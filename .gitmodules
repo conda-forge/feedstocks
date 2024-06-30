@@ -90678,3 +90678,7 @@
 	url = https://github.com/conda-forge/pti-gpu-unitrace-feedstock.git
 	path = feedstocks/pti-gpu-unitrace
 	branch = refs/heads/main
+[submodule "zenoh-c"]
+	url = https://github.com/conda-forge/zenoh-c-feedstock.git
+	path = feedstocks/zenoh-c
+	branch = refs/heads/main
