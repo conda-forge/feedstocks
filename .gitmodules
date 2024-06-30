@@ -90670,3 +90670,7 @@
 	url = https://github.com/conda-forge/zenoh-plugin-webserver-feedstock.git
 	path = feedstocks/zenoh-plugin-webserver
 	branch = refs/heads/main
+[submodule "zenoh"]
+	url = https://github.com/conda-forge/zenoh-feedstock.git
+	path = feedstocks/zenoh
+	branch = refs/heads/main
