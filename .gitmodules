@@ -90666,3 +90666,7 @@
 	url = https://github.com/conda-forge/tinymist-feedstock.git
 	path = feedstocks/tinymist
 	branch = refs/heads/main
+[submodule "zenoh-plugin-webserver"]
+	url = https://github.com/conda-forge/zenoh-plugin-webserver-feedstock.git
+	path = feedstocks/zenoh-plugin-webserver
+	branch = refs/heads/main
