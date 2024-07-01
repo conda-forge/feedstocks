@@ -90694,3 +90694,7 @@
 	url = https://github.com/conda-forge/tsv-utils-feedstock.git
 	path = feedstocks/tsv-utils
 	branch = refs/heads/main
+[submodule "spectra-cpp"]
+	url = https://github.com/conda-forge/spectra-cpp-feedstock.git
+	path = feedstocks/spectra-cpp
+	branch = refs/heads/main
