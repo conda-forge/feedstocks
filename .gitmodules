@@ -90750,3 +90750,7 @@
 	url = https://github.com/conda-forge/cabarchive-feedstock.git
 	path = feedstocks/cabarchive
 	branch = refs/heads/main
+[submodule "csp-adapter-symphony"]
+	url = https://github.com/conda-forge/csp-adapter-symphony-feedstock.git
+	path = feedstocks/csp-adapter-symphony
+	branch = refs/heads/main
