@@ -90726,3 +90726,7 @@
 	url = https://github.com/conda-forge/shexjsg-feedstock.git
 	path = feedstocks/shexjsg
 	branch = refs/heads/main
+[submodule "pyfes"]
+	url = https://github.com/conda-forge/pyfes-feedstock.git
+	path = feedstocks/pyfes
+	branch = refs/heads/main
