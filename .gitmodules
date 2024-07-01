@@ -90718,3 +90718,7 @@
 	url = https://github.com/conda-forge/dmgbuild-feedstock.git
 	path = feedstocks/dmgbuild
 	branch = refs/heads/main
+[submodule "cfgraph"]
+	url = https://github.com/conda-forge/cfgraph-feedstock.git
+	path = feedstocks/cfgraph
+	branch = refs/heads/main
