@@ -90746,3 +90746,7 @@
 	url = https://github.com/conda-forge/pydantic-mongo-feedstock.git
 	path = feedstocks/pydantic-mongo
 	branch = refs/heads/main
+[submodule "cabarchive"]
+	url = https://github.com/conda-forge/cabarchive-feedstock.git
+	path = feedstocks/cabarchive
+	branch = refs/heads/main
