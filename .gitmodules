@@ -90690,3 +90690,7 @@
 	url = https://github.com/conda-forge/reladiff-feedstock.git
 	path = feedstocks/reladiff
 	branch = refs/heads/main
+[submodule "tsv-utils"]
+	url = https://github.com/conda-forge/tsv-utils-feedstock.git
+	path = feedstocks/tsv-utils
+	branch = refs/heads/main
