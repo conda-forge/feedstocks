@@ -90766,3 +90766,7 @@
 	url = https://github.com/conda-forge/harfile-feedstock.git
 	path = feedstocks/harfile
 	branch = refs/heads/main
+[submodule "openfbx"]
+	url = https://github.com/conda-forge/openfbx-feedstock.git
+	path = feedstocks/openfbx
+	branch = refs/heads/main
