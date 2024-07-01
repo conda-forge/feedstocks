@@ -90710,3 +90710,7 @@
 	url = https://github.com/conda-forge/medatetime-feedstock.git
 	path = feedstocks/medatetime
 	branch = refs/heads/main
+[submodule "nx-parallel"]
+	url = https://github.com/conda-forge/nx-parallel-feedstock.git
+	path = feedstocks/nx-parallel
+	branch = refs/heads/main
