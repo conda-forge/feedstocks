@@ -90730,3 +90730,7 @@
 	url = https://github.com/conda-forge/pyfes-feedstock.git
 	path = feedstocks/pyfes
 	branch = refs/heads/main
+[submodule "rdflib-shim"]
+	url = https://github.com/conda-forge/rdflib-shim-feedstock.git
+	path = feedstocks/rdflib-shim
+	branch = refs/heads/main
