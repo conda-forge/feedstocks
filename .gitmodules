@@ -90742,3 +90742,7 @@
 	url = https://github.com/conda-forge/simplification-feedstock.git
 	path = feedstocks/simplification
 	branch = refs/heads/main
+[submodule "pydantic-mongo"]
+	url = https://github.com/conda-forge/pydantic-mongo-feedstock.git
+	path = feedstocks/pydantic-mongo
+	branch = refs/heads/main
