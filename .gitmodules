@@ -90714,3 +90714,7 @@
 	url = https://github.com/conda-forge/nx-parallel-feedstock.git
 	path = feedstocks/nx-parallel
 	branch = refs/heads/main
+[submodule "dmgbuild"]
+	url = https://github.com/conda-forge/dmgbuild-feedstock.git
+	path = feedstocks/dmgbuild
+	branch = refs/heads/main
