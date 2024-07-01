@@ -90706,3 +90706,7 @@
 	url = https://github.com/conda-forge/pydron-dataflow-feedstock.git
 	path = feedstocks/pydron-dataflow
 	branch = refs/heads/main
+[submodule "medatetime"]
+	url = https://github.com/conda-forge/medatetime-feedstock.git
+	path = feedstocks/medatetime
+	branch = refs/heads/main
