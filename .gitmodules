@@ -90758,3 +90758,7 @@
 	url = https://github.com/conda-forge/qh3-feedstock.git
 	path = feedstocks/qh3
 	branch = refs/heads/main
+[submodule "bfiocpp"]
+	url = https://github.com/conda-forge/bfiocpp-feedstock.git
+	path = feedstocks/bfiocpp
+	branch = refs/heads/main
