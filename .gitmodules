@@ -90702,3 +90702,7 @@
 	url = https://github.com/conda-forge/tblis-feedstock.git
 	path = feedstocks/tblis
 	branch = refs/heads/main
+[submodule "pydron-dataflow"]
+	url = https://github.com/conda-forge/pydron-dataflow-feedstock.git
+	path = feedstocks/pydron-dataflow
+	branch = refs/heads/main
