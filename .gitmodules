@@ -90794,3 +90794,7 @@
 	url = https://github.com/conda-forge/cookiecutter-data-science-feedstock.git
 	path = feedstocks/cookiecutter-data-science
 	branch = refs/heads/main
+[submodule "antitesting"]
+	url = https://github.com/conda-forge/antitesting-feedstock.git
+	path = feedstocks/antitesting
+	branch = refs/heads/main
