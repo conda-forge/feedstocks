@@ -90802,3 +90802,7 @@
 	url = https://github.com/conda-forge/pyshexc-feedstock.git
 	path = feedstocks/pyshexc
 	branch = refs/heads/main
+[submodule "termdbms"]
+	url = https://github.com/conda-forge/termdbms-feedstock.git
+	path = feedstocks/termdbms
+	branch = refs/heads/main
