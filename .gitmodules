@@ -90782,3 +90782,7 @@
 	url = https://github.com/conda-forge/allpairspy-feedstock.git
 	path = feedstocks/allpairspy
 	branch = refs/heads/main
+[submodule "empty-files"]
+	url = https://github.com/conda-forge/empty-files-feedstock.git
+	path = feedstocks/empty-files
+	branch = refs/heads/main
