@@ -90786,3 +90786,7 @@
 	url = https://github.com/conda-forge/empty-files-feedstock.git
 	path = feedstocks/empty-files
 	branch = refs/heads/main
+[submodule "approvaltests"]
+	url = https://github.com/conda-forge/approvaltests-feedstock.git
+	path = feedstocks/approvaltests
+	branch = refs/heads/main
