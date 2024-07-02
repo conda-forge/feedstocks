@@ -90770,3 +90770,7 @@
 	url = https://github.com/conda-forge/openfbx-feedstock.git
 	path = feedstocks/openfbx
 	branch = refs/heads/main
+[submodule "approval-utilities"]
+	url = https://github.com/conda-forge/approval-utilities-feedstock.git
+	path = feedstocks/approval-utilities
+	branch = refs/heads/main
