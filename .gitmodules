@@ -90806,3 +90806,7 @@
 	url = https://github.com/conda-forge/termdbms-feedstock.git
 	path = feedstocks/termdbms
 	branch = refs/heads/main
+[submodule "kmc_smudge_pairs"]
+	url = https://github.com/conda-forge/kmc_smudge_pairs-feedstock.git
+	path = feedstocks/kmc_smudge_pairs
+	branch = refs/heads/main
