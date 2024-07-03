@@ -90830,3 +90830,7 @@
 	url = https://github.com/conda-forge/timer-dict-feedstock.git
 	path = feedstocks/timer-dict
 	branch = refs/heads/main
+[submodule "uniserde"]
+	url = https://github.com/conda-forge/uniserde-feedstock.git
+	path = feedstocks/uniserde
+	branch = refs/heads/main
