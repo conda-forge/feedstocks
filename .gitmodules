@@ -90822,3 +90822,7 @@
 	url = https://github.com/conda-forge/pyometiff-feedstock.git
 	path = feedstocks/pyometiff
 	branch = refs/heads/main
+[submodule "foxes-opt"]
+	url = https://github.com/conda-forge/foxes-opt-feedstock.git
+	path = feedstocks/foxes-opt
+	branch = refs/heads/main
