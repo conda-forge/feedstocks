@@ -90838,3 +90838,7 @@
 	url = https://github.com/conda-forge/pkg-about-feedstock.git
 	path = feedstocks/pkg-about
 	branch = refs/heads/main
+[submodule "renumerate"]
+	url = https://github.com/conda-forge/renumerate-feedstock.git
+	path = feedstocks/renumerate
+	branch = refs/heads/main
