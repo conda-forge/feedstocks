@@ -90834,3 +90834,7 @@
 	url = https://github.com/conda-forge/uniserde-feedstock.git
 	path = feedstocks/uniserde
 	branch = refs/heads/main
+[submodule "pkg-about"]
+	url = https://github.com/conda-forge/pkg-about-feedstock.git
+	path = feedstocks/pkg-about
+	branch = refs/heads/main
