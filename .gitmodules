@@ -90850,3 +90850,7 @@
 	url = https://github.com/conda-forge/introspection-feedstock.git
 	path = feedstocks/introspection
 	branch = refs/heads/main
+[submodule "imy"]
+	url = https://github.com/conda-forge/imy-feedstock.git
+	path = feedstocks/imy
+	branch = refs/heads/main
