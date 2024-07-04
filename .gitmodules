@@ -90858,3 +90858,7 @@
 	url = https://github.com/conda-forge/barfi-feedstock.git
 	path = feedstocks/barfi
 	branch = refs/heads/main
+[submodule "pyflyde"]
+	url = https://github.com/conda-forge/pyflyde-feedstock.git
+	path = feedstocks/pyflyde
+	branch = refs/heads/main
