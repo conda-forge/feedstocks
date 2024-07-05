@@ -90874,3 +90874,7 @@
 	url = https://github.com/conda-forge/foundry-platform-sdk-feedstock.git
 	path = feedstocks/foundry-platform-sdk
 	branch = refs/heads/main
+[submodule "staged-script"]
+	url = https://github.com/conda-forge/staged-script-feedstock.git
+	path = feedstocks/staged-script
+	branch = refs/heads/main
