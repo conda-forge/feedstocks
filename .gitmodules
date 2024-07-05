@@ -90870,3 +90870,7 @@
 	url = https://github.com/conda-forge/astrolink-feedstock.git
 	path = feedstocks/astrolink
 	branch = refs/heads/main
+[submodule "foundry-platform-sdk"]
+	url = https://github.com/conda-forge/foundry-platform-sdk-feedstock.git
+	path = feedstocks/foundry-platform-sdk
+	branch = refs/heads/main
