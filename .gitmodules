@@ -90862,3 +90862,7 @@
 	url = https://github.com/conda-forge/pyflyde-feedstock.git
 	path = feedstocks/pyflyde
 	branch = refs/heads/main
+[submodule "featuremap-learn"]
+	url = https://github.com/conda-forge/featuremap-learn-feedstock.git
+	path = feedstocks/featuremap-learn
+	branch = refs/heads/main
