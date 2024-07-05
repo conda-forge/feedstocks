@@ -90878,3 +90878,7 @@
 	url = https://github.com/conda-forge/staged-script-feedstock.git
 	path = feedstocks/staged-script
 	branch = refs/heads/main
+[submodule "pycontrails"]
+	url = https://github.com/conda-forge/pycontrails-feedstock.git
+	path = feedstocks/pycontrails
+	branch = refs/heads/main
