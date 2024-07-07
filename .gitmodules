@@ -90894,3 +90894,7 @@
 	url = https://github.com/conda-forge/molpipeline-feedstock.git
 	path = feedstocks/molpipeline
 	branch = refs/heads/main
+[submodule "bofire"]
+	url = https://github.com/conda-forge/bofire-feedstock.git
+	path = feedstocks/bofire
+	branch = refs/heads/main
