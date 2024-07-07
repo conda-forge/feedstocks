@@ -90898,3 +90898,7 @@
 	url = https://github.com/conda-forge/bofire-feedstock.git
 	path = feedstocks/bofire
 	branch = refs/heads/main
+[submodule "crunchflow"]
+	url = https://github.com/conda-forge/crunchflow-feedstock.git
+	path = feedstocks/crunchflow
+	branch = refs/heads/main
