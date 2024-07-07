@@ -90902,3 +90902,7 @@
 	url = https://github.com/conda-forge/crunchflow-feedstock.git
 	path = feedstocks/crunchflow
 	branch = refs/heads/main
+[submodule "poli"]
+	url = https://github.com/conda-forge/poli-feedstock.git
+	path = feedstocks/poli
+	branch = refs/heads/main
