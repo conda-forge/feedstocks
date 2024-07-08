@@ -90918,3 +90918,7 @@
 	url = https://github.com/conda-forge/sparqlslurper-feedstock.git
 	path = feedstocks/sparqlslurper
 	branch = refs/heads/main
+[submodule "gs-quant"]
+	url = https://github.com/conda-forge/gs-quant-feedstock.git
+	path = feedstocks/gs-quant
+	branch = refs/heads/main
