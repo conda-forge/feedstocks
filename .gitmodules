@@ -90942,3 +90942,7 @@
 	url = https://github.com/conda-forge/fazy-feedstock.git
 	path = feedstocks/fazy
 	branch = refs/heads/main
+[submodule "jupyter-idle"]
+	url = https://github.com/conda-forge/jupyter-idle-feedstock.git
+	path = feedstocks/jupyter-idle
+	branch = refs/heads/main
