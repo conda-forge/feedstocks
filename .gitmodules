@@ -90926,3 +90926,7 @@
 	url = https://github.com/conda-forge/fabmos-feedstock.git
 	path = feedstocks/fabmos
 	branch = refs/heads/main
+[submodule "pygotm"]
+	url = https://github.com/conda-forge/pygotm-feedstock.git
+	path = feedstocks/pygotm
+	branch = refs/heads/main
