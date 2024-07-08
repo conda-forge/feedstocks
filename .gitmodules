@@ -90922,3 +90922,7 @@
 	url = https://github.com/conda-forge/gs-quant-feedstock.git
 	path = feedstocks/gs-quant
 	branch = refs/heads/main
+[submodule "fabmos"]
+	url = https://github.com/conda-forge/fabmos-feedstock.git
+	path = feedstocks/fabmos
+	branch = refs/heads/main
