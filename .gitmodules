@@ -90946,3 +90946,7 @@
 	url = https://github.com/conda-forge/jupyter-idle-feedstock.git
 	path = feedstocks/jupyter-idle
 	branch = refs/heads/main
+[submodule "siphash24"]
+	url = https://github.com/conda-forge/siphash24-feedstock.git
+	path = feedstocks/siphash24
+	branch = refs/heads/main
