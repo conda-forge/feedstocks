@@ -90910,3 +90910,7 @@
 	url = https://github.com/conda-forge/momentum-feedstock.git
 	path = feedstocks/momentum
 	branch = refs/heads/main
+[submodule "pylibacl"]
+	url = https://github.com/conda-forge/pylibacl-feedstock.git
+	path = feedstocks/pylibacl
+	branch = refs/heads/main
