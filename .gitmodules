@@ -90970,3 +90970,7 @@
 	url = https://github.com/conda-forge/asyncpg-stubs-feedstock.git
 	path = feedstocks/asyncpg-stubs
 	branch = refs/heads/main
+[submodule "r-msbox"]
+	url = https://github.com/conda-forge/r-msbox-feedstock.git
+	path = feedstocks/r-msbox
+	branch = refs/heads/main
