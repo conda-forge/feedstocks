@@ -90962,3 +90962,7 @@
 	url = https://github.com/conda-forge/r-fedmatch-feedstock.git
 	path = feedstocks/r-fedmatch
 	branch = refs/heads/main
+[submodule "pyshex"]
+	url = https://github.com/conda-forge/pyshex-feedstock.git
+	path = feedstocks/pyshex
+	branch = refs/heads/main
