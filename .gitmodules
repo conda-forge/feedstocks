@@ -90966,3 +90966,7 @@
 	url = https://github.com/conda-forge/pyshex-feedstock.git
 	path = feedstocks/pyshex
 	branch = refs/heads/main
+[submodule "asyncpg-stubs"]
+	url = https://github.com/conda-forge/asyncpg-stubs-feedstock.git
+	path = feedstocks/asyncpg-stubs
+	branch = refs/heads/main
