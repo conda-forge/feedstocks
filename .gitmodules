@@ -91046,3 +91046,7 @@
 	url = https://github.com/conda-forge/txl-feedstock.git
 	path = feedstocks/txl
 	branch = refs/heads/main
+[submodule "ctypesgen-pypdfium2-team"]
+	url = https://github.com/conda-forge/ctypesgen-pypdfium2-team-feedstock.git
+	path = feedstocks/ctypesgen-pypdfium2-team
+	branch = refs/heads/main
