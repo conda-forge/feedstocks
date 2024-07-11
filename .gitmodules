@@ -91102,3 +91102,7 @@
 	url = https://github.com/conda-forge/printo-feedstock.git
 	path = feedstocks/printo
 	branch = refs/heads/main
+[submodule "pixi-pack"]
+	url = https://github.com/conda-forge/pixi-pack-feedstock.git
+	path = feedstocks/pixi-pack
+	branch = refs/heads/main
