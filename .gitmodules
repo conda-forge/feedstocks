@@ -91090,3 +91090,7 @@
 	url = https://github.com/conda-forge/pygwb-feedstock.git
 	path = feedstocks/pygwb
 	branch = refs/heads/main
+[submodule "hpfrec"]
+	url = https://github.com/conda-forge/hpfrec-feedstock.git
+	path = feedstocks/hpfrec
+	branch = refs/heads/main
