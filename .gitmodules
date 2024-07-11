@@ -91042,3 +91042,7 @@
 	url = https://github.com/conda-forge/polars-distance-feedstock.git
 	path = feedstocks/polars-distance
 	branch = refs/heads/main
+[submodule "txl"]
+	url = https://github.com/conda-forge/txl-feedstock.git
+	path = feedstocks/txl
+	branch = refs/heads/main
