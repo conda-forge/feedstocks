@@ -91074,3 +91074,7 @@
 	url = https://github.com/conda-forge/txl-file-browser-feedstock.git
 	path = feedstocks/txl-file-browser
 	branch = refs/heads/main
+[submodule "txl-console"]
+	url = https://github.com/conda-forge/txl-console-feedstock.git
+	path = feedstocks/txl-console
+	branch = refs/heads/main
