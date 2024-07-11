@@ -91018,3 +91018,7 @@
 	url = https://github.com/conda-forge/r-statcanr-feedstock.git
 	path = feedstocks/r-statcanr
 	branch = refs/heads/main
+[submodule "ltex-ls"]
+	url = https://github.com/conda-forge/ltex-ls-feedstock.git
+	path = feedstocks/ltex-ls
+	branch = refs/heads/main
