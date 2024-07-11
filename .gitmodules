@@ -91038,3 +91038,7 @@
 	url = https://github.com/conda-forge/polars-hash-feedstock.git
 	path = feedstocks/polars-hash
 	branch = refs/heads/main
+[submodule "polars-distance"]
+	url = https://github.com/conda-forge/polars-distance-feedstock.git
+	path = feedstocks/polars-distance
+	branch = refs/heads/main
