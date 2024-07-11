@@ -91006,3 +91006,7 @@
 	url = https://github.com/conda-forge/nuget-license-feedstock.git
 	path = feedstocks/nuget-license
 	branch = refs/heads/main
+[submodule "lima-vm"]
+	url = https://github.com/conda-forge/lima-vm-feedstock.git
+	path = feedstocks/lima-vm
+	branch = refs/heads/main
