@@ -91034,3 +91034,7 @@
 	url = https://github.com/conda-forge/s2downloader-feedstock.git
 	path = feedstocks/s2downloader
 	branch = refs/heads/main
+[submodule "polars-hash"]
+	url = https://github.com/conda-forge/polars-hash-feedstock.git
+	path = feedstocks/polars-hash
+	branch = refs/heads/main
