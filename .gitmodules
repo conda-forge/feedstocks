@@ -91022,3 +91022,7 @@
 	url = https://github.com/conda-forge/ltex-ls-feedstock.git
 	path = feedstocks/ltex-ls
 	branch = refs/heads/main
+[submodule "jsonsubschema"]
+	url = https://github.com/conda-forge/jsonsubschema-feedstock.git
+	path = feedstocks/jsonsubschema
+	branch = refs/heads/main
