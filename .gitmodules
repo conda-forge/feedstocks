@@ -91070,3 +91070,7 @@
 	url = https://github.com/conda-forge/clustercleaver-feedstock.git
 	path = feedstocks/clustercleaver
 	branch = refs/heads/main
+[submodule "txl-file-browser"]
+	url = https://github.com/conda-forge/txl-file-browser-feedstock.git
+	path = feedstocks/txl-file-browser
+	branch = refs/heads/main
