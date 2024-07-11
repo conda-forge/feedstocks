@@ -91054,3 +91054,7 @@
 	url = https://github.com/conda-forge/pydgsa-feedstock.git
 	path = feedstocks/pydgsa
 	branch = refs/heads/main
+[submodule "binapy"]
+	url = https://github.com/conda-forge/binapy-feedstock.git
+	path = feedstocks/binapy
+	branch = refs/heads/main
