@@ -91026,3 +91026,7 @@
 	url = https://github.com/conda-forge/jsonsubschema-feedstock.git
 	path = feedstocks/jsonsubschema
 	branch = refs/heads/main
+[submodule "orjsonl"]
+	url = https://github.com/conda-forge/orjsonl-feedstock.git
+	path = feedstocks/orjsonl
+	branch = refs/heads/main
