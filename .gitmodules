@@ -91062,3 +91062,7 @@
 	url = https://github.com/conda-forge/txl-cell-feedstock.git
 	path = feedstocks/txl-cell
 	branch = refs/heads/main
+[submodule "txl-editors"]
+	url = https://github.com/conda-forge/txl-editors-feedstock.git
+	path = feedstocks/txl-editors
+	branch = refs/heads/main
