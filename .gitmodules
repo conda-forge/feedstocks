@@ -91082,3 +91082,7 @@
 	url = https://github.com/conda-forge/lale-feedstock.git
 	path = feedstocks/lale
 	branch = refs/heads/main
+[submodule "wpextract"]
+	url = https://github.com/conda-forge/wpextract-feedstock.git
+	path = feedstocks/wpextract
+	branch = refs/heads/main
