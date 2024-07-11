@@ -91014,3 +91014,7 @@
 	url = https://github.com/conda-forge/tensorpotential-feedstock.git
 	path = feedstocks/tensorpotential
 	branch = refs/heads/main
+[submodule "r-statcanr"]
+	url = https://github.com/conda-forge/r-statcanr-feedstock.git
+	path = feedstocks/r-statcanr
+	branch = refs/heads/main
