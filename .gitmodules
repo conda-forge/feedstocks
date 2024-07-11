@@ -91086,3 +91086,7 @@
 	url = https://github.com/conda-forge/wpextract-feedstock.git
 	path = feedstocks/wpextract
 	branch = refs/heads/main
+[submodule "pygwb"]
+	url = https://github.com/conda-forge/pygwb-feedstock.git
+	path = feedstocks/pygwb
+	branch = refs/heads/main
