@@ -91030,3 +91030,7 @@
 	url = https://github.com/conda-forge/orjsonl-feedstock.git
 	path = feedstocks/orjsonl
 	branch = refs/heads/main
+[submodule "s2downloader"]
+	url = https://github.com/conda-forge/s2downloader-feedstock.git
+	path = feedstocks/s2downloader
+	branch = refs/heads/main
