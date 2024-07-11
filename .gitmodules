@@ -91078,3 +91078,7 @@
 	url = https://github.com/conda-forge/txl-console-feedstock.git
 	path = feedstocks/txl-console
 	branch = refs/heads/main
+[submodule "lale"]
+	url = https://github.com/conda-forge/lale-feedstock.git
+	path = feedstocks/lale
+	branch = refs/heads/main
