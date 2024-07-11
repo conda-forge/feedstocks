@@ -91010,3 +91010,7 @@
 	url = https://github.com/conda-forge/lima-vm-feedstock.git
 	path = feedstocks/lima-vm
 	branch = refs/heads/main
+[submodule "tensorpotential"]
+	url = https://github.com/conda-forge/tensorpotential-feedstock.git
+	path = feedstocks/tensorpotential
+	branch = refs/heads/main
