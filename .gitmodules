@@ -91094,3 +91094,7 @@
 	url = https://github.com/conda-forge/hpfrec-feedstock.git
 	path = feedstocks/hpfrec
 	branch = refs/heads/main
+[submodule "libbip3x"]
+	url = https://github.com/conda-forge/libbip3x-feedstock.git
+	path = feedstocks/libbip3x
+	branch = refs/heads/main
