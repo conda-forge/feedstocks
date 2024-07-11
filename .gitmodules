@@ -91058,3 +91058,7 @@
 	url = https://github.com/conda-forge/binapy-feedstock.git
 	path = feedstocks/binapy
 	branch = refs/heads/main
+[submodule "txl-cell"]
+	url = https://github.com/conda-forge/txl-cell-feedstock.git
+	path = feedstocks/txl-cell
+	branch = refs/heads/main
