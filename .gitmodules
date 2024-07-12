@@ -91194,3 +91194,7 @@
 	url = https://github.com/conda-forge/conquest-feedstock.git
 	path = feedstocks/conquest
 	branch = refs/heads/main
+[submodule "fancytypes"]
+	url = https://github.com/conda-forge/fancytypes-feedstock.git
+	path = feedstocks/fancytypes
+	branch = refs/heads/main
