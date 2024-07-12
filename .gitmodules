@@ -91186,3 +91186,7 @@
 	url = https://github.com/conda-forge/aioopenssl-feedstock.git
 	path = feedstocks/aioopenssl
 	branch = refs/heads/main
+[submodule "aiosasl"]
+	url = https://github.com/conda-forge/aiosasl-feedstock.git
+	path = feedstocks/aiosasl
+	branch = refs/heads/main
