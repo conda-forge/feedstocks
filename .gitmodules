@@ -91138,3 +91138,7 @@
 	url = https://github.com/conda-forge/txl-markdown-viewer-feedstock.git
 	path = feedstocks/txl-markdown-viewer
 	branch = refs/heads/main
+[submodule "cucopy"]
+	url = https://github.com/conda-forge/cucopy-feedstock.git
+	path = feedstocks/cucopy
+	branch = refs/heads/main
