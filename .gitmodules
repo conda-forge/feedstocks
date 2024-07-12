@@ -91162,3 +91162,7 @@
 	url = https://github.com/conda-forge/txl-kernel-feedstock.git
 	path = feedstocks/txl-kernel
 	branch = refs/heads/main
+[submodule "txl-text-editor"]
+	url = https://github.com/conda-forge/txl-text-editor-feedstock.git
+	path = feedstocks/txl-text-editor
+	branch = refs/heads/main
