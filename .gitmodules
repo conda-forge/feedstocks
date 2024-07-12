@@ -91134,3 +91134,7 @@
 	url = https://github.com/conda-forge/surya-ocr-feedstock.git
 	path = feedstocks/surya-ocr
 	branch = refs/heads/main
+[submodule "txl-markdown-viewer"]
+	url = https://github.com/conda-forge/txl-markdown-viewer-feedstock.git
+	path = feedstocks/txl-markdown-viewer
+	branch = refs/heads/main
