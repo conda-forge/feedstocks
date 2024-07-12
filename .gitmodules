@@ -91130,3 +91130,7 @@
 	url = https://github.com/conda-forge/pdftext-feedstock.git
 	path = feedstocks/pdftext
 	branch = refs/heads/main
+[submodule "surya-ocr"]
+	url = https://github.com/conda-forge/surya-ocr-feedstock.git
+	path = feedstocks/surya-ocr
+	branch = refs/heads/main
