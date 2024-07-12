@@ -91206,3 +91206,7 @@
 	url = https://github.com/conda-forge/qlayers-feedstock.git
 	path = feedstocks/qlayers
 	branch = refs/heads/main
+[submodule "virtualizarr"]
+	url = https://github.com/conda-forge/virtualizarr-feedstock.git
+	path = feedstocks/virtualizarr
+	branch = refs/heads/main
