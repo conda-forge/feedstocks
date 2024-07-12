@@ -91118,3 +91118,7 @@
 	url = https://github.com/conda-forge/qmflows-feedstock.git
 	path = feedstocks/qmflows
 	branch = refs/heads/main
+[submodule "pyxenon"]
+	url = https://github.com/conda-forge/pyxenon-feedstock.git
+	path = feedstocks/pyxenon
+	branch = refs/heads/main
