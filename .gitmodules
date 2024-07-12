@@ -91150,3 +91150,7 @@
 	url = https://github.com/conda-forge/txl-notebook-editor-feedstock.git
 	path = feedstocks/txl-notebook-editor
 	branch = refs/heads/main
+[submodule "txl-terminal"]
+	url = https://github.com/conda-forge/txl-terminal-feedstock.git
+	path = feedstocks/txl-terminal
+	branch = refs/heads/main
