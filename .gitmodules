@@ -91190,3 +91190,7 @@
 	url = https://github.com/conda-forge/aiosasl-feedstock.git
 	path = feedstocks/aiosasl
 	branch = refs/heads/main
+[submodule "conquest"]
+	url = https://github.com/conda-forge/conquest-feedstock.git
+	path = feedstocks/conquest
+	branch = refs/heads/main
