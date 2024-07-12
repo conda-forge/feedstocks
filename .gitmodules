@@ -91170,3 +91170,7 @@
 	url = https://github.com/conda-forge/ai2-olmo-core-feedstock.git
 	path = feedstocks/ai2-olmo-core
 	branch = refs/heads/main
+[submodule "pysages"]
+	url = https://github.com/conda-forge/pysages-feedstock.git
+	path = feedstocks/pysages
+	branch = refs/heads/main
