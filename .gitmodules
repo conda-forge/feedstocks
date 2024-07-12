@@ -91142,3 +91142,7 @@
 	url = https://github.com/conda-forge/cucopy-feedstock.git
 	path = feedstocks/cucopy
 	branch = refs/heads/main
+[submodule "schedulefree"]
+	url = https://github.com/conda-forge/schedulefree-feedstock.git
+	path = feedstocks/schedulefree
+	branch = refs/heads/main
