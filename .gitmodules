@@ -91166,3 +91166,7 @@
 	url = https://github.com/conda-forge/txl-text-editor-feedstock.git
 	path = feedstocks/txl-text-editor
 	branch = refs/heads/main
+[submodule "ai2-olmo-core"]
+	url = https://github.com/conda-forge/ai2-olmo-core-feedstock.git
+	path = feedstocks/ai2-olmo-core
+	branch = refs/heads/main
