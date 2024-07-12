@@ -91122,3 +91122,7 @@
 	url = https://github.com/conda-forge/pyxenon-feedstock.git
 	path = feedstocks/pyxenon
 	branch = refs/heads/main
+[submodule "texify"]
+	url = https://github.com/conda-forge/texify-feedstock.git
+	path = feedstocks/texify
+	branch = refs/heads/main
