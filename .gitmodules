@@ -91178,3 +91178,7 @@
 	url = https://github.com/conda-forge/txl-local-kernels-feedstock.git
 	path = feedstocks/txl-local-kernels
 	branch = refs/heads/main
+[submodule "txl-jpterm"]
+	url = https://github.com/conda-forge/txl-jpterm-feedstock.git
+	path = feedstocks/txl-jpterm
+	branch = refs/heads/main
