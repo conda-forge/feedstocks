@@ -91154,3 +91154,7 @@
 	url = https://github.com/conda-forge/txl-terminal-feedstock.git
 	path = feedstocks/txl-terminal
 	branch = refs/heads/main
+[submodule "txl-launcher"]
+	url = https://github.com/conda-forge/txl-launcher-feedstock.git
+	path = feedstocks/txl-launcher
+	branch = refs/heads/main
