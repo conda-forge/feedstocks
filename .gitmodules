@@ -91158,3 +91158,7 @@
 	url = https://github.com/conda-forge/txl-launcher-feedstock.git
 	path = feedstocks/txl-launcher
 	branch = refs/heads/main
+[submodule "txl-kernel"]
+	url = https://github.com/conda-forge/txl-kernel-feedstock.git
+	path = feedstocks/txl-kernel
+	branch = refs/heads/main
