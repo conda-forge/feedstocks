@@ -91146,3 +91146,7 @@
 	url = https://github.com/conda-forge/schedulefree-feedstock.git
 	path = feedstocks/schedulefree
 	branch = refs/heads/main
+[submodule "txl-notebook-editor"]
+	url = https://github.com/conda-forge/txl-notebook-editor-feedstock.git
+	path = feedstocks/txl-notebook-editor
+	branch = refs/heads/main
