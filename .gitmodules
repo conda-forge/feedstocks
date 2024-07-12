@@ -91114,3 +91114,7 @@
 	url = https://github.com/conda-forge/noodles-feedstock.git
 	path = feedstocks/noodles
 	branch = refs/heads/main
+[submodule "qmflows"]
+	url = https://github.com/conda-forge/qmflows-feedstock.git
+	path = feedstocks/qmflows
+	branch = refs/heads/main
