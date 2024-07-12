@@ -91126,3 +91126,7 @@
 	url = https://github.com/conda-forge/texify-feedstock.git
 	path = feedstocks/texify
 	branch = refs/heads/main
+[submodule "pdftext"]
+	url = https://github.com/conda-forge/pdftext-feedstock.git
+	path = feedstocks/pdftext
+	branch = refs/heads/main
