@@ -91110,3 +91110,7 @@
 	url = https://github.com/conda-forge/pypdfium2-feedstock.git
 	path = feedstocks/pypdfium2
 	branch = refs/heads/main
+[submodule "noodles"]
+	url = https://github.com/conda-forge/noodles-feedstock.git
+	path = feedstocks/noodles
+	branch = refs/heads/main
