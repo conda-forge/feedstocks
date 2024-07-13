@@ -91274,3 +91274,7 @@
 	url = https://github.com/conda-forge/r-cansim-feedstock.git
 	path = feedstocks/r-cansim
 	branch = refs/heads/main
+[submodule "r-fredr"]
+	url = https://github.com/conda-forge/r-fredr-feedstock.git
+	path = feedstocks/r-fredr
+	branch = refs/heads/main
