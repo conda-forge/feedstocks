@@ -91254,3 +91254,7 @@
 	url = https://github.com/conda-forge/accelerator-toolbox-feedstock.git
 	path = feedstocks/accelerator-toolbox
 	branch = refs/heads/main
+[submodule "fastexcel"]
+	url = https://github.com/conda-forge/fastexcel-feedstock.git
+	path = feedstocks/fastexcel
+	branch = refs/heads/main
