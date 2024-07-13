@@ -91246,3 +91246,7 @@
 	url = https://github.com/conda-forge/pyvpt2-feedstock.git
 	path = feedstocks/pyvpt2
 	branch = refs/heads/main
+[submodule "jpterm"]
+	url = https://github.com/conda-forge/jpterm-feedstock.git
+	path = feedstocks/jpterm
+	branch = refs/heads/main
