@@ -91218,3 +91218,7 @@
 	url = https://github.com/conda-forge/txl-local-terminals-feedstock.git
 	path = feedstocks/txl-local-terminals
 	branch = refs/heads/main
+[submodule "mdanse"]
+	url = https://github.com/conda-forge/mdanse-feedstock.git
+	path = feedstocks/mdanse
+	branch = refs/heads/main
