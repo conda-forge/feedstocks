@@ -91270,3 +91270,7 @@
 	url = https://github.com/conda-forge/gammasimtools-feedstock.git
 	path = feedstocks/gammasimtools
 	branch = refs/heads/main
+[submodule "r-cansim"]
+	url = https://github.com/conda-forge/r-cansim-feedstock.git
+	path = feedstocks/r-cansim
+	branch = refs/heads/main
