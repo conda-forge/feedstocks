@@ -91258,3 +91258,7 @@
 	url = https://github.com/conda-forge/fastexcel-feedstock.git
 	path = feedstocks/fastexcel
 	branch = refs/heads/main
+[submodule "r-cchsflow"]
+	url = https://github.com/conda-forge/r-cchsflow-feedstock.git
+	path = feedstocks/r-cchsflow
+	branch = refs/heads/main
