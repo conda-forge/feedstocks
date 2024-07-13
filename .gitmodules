@@ -91250,3 +91250,7 @@
 	url = https://github.com/conda-forge/jpterm-feedstock.git
 	path = feedstocks/jpterm
 	branch = refs/heads/main
+[submodule "accelerator-toolbox"]
+	url = https://github.com/conda-forge/accelerator-toolbox-feedstock.git
+	path = feedstocks/accelerator-toolbox
+	branch = refs/heads/main
