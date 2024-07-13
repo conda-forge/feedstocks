@@ -91242,3 +91242,7 @@
 	url = https://github.com/conda-forge/spatialdata-io-feedstock.git
 	path = feedstocks/spatialdata-io
 	branch = refs/heads/main
+[submodule "pyvpt2"]
+	url = https://github.com/conda-forge/pyvpt2-feedstock.git
+	path = feedstocks/pyvpt2
+	branch = refs/heads/main
