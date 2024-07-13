@@ -91214,3 +91214,7 @@
 	url = https://github.com/conda-forge/libpdal-feedstock.git
 	path = feedstocks/libpdal
 	branch = refs/heads/main
+[submodule "txl-local-terminals"]
+	url = https://github.com/conda-forge/txl-local-terminals-feedstock.git
+	path = feedstocks/txl-local-terminals
+	branch = refs/heads/main
