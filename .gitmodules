@@ -91262,3 +91262,7 @@
 	url = https://github.com/conda-forge/r-cchsflow-feedstock.git
 	path = feedstocks/r-cchsflow
 	branch = refs/heads/main
+[submodule "r-cancensus"]
+	url = https://github.com/conda-forge/r-cancensus-feedstock.git
+	path = feedstocks/r-cancensus
+	branch = refs/heads/main
