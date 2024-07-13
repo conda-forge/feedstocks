@@ -91238,3 +91238,7 @@
 	url = https://github.com/conda-forge/aioxmpp-feedstock.git
 	path = feedstocks/aioxmpp
 	branch = refs/heads/main
+[submodule "spatialdata-io"]
+	url = https://github.com/conda-forge/spatialdata-io-feedstock.git
+	path = feedstocks/spatialdata-io
+	branch = refs/heads/main
