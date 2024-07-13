@@ -91222,3 +91222,7 @@
 	url = https://github.com/conda-forge/mdanse-feedstock.git
 	path = feedstocks/mdanse
 	branch = refs/heads/main
+[submodule "txl-local-contents"]
+	url = https://github.com/conda-forge/txl-local-contents-feedstock.git
+	path = feedstocks/txl-local-contents
+	branch = refs/heads/main
