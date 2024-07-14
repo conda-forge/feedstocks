@@ -91282,3 +91282,7 @@
 	url = https://github.com/conda-forge/jwskate-feedstock.git
 	path = feedstocks/jwskate
 	branch = refs/heads/main
+[submodule "mosaic"]
+	url = https://github.com/conda-forge/mosaic-feedstock.git
+	path = feedstocks/mosaic
+	branch = refs/heads/main
