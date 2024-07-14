@@ -91278,3 +91278,7 @@
 	url = https://github.com/conda-forge/r-fredr-feedstock.git
 	path = feedstocks/r-fredr
 	branch = refs/heads/main
+[submodule "jwskate"]
+	url = https://github.com/conda-forge/jwskate-feedstock.git
+	path = feedstocks/jwskate
+	branch = refs/heads/main
