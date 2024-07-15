@@ -91310,3 +91310,7 @@
 	url = https://github.com/conda-forge/r-did-feedstock.git
 	path = feedstocks/r-did
 	branch = refs/heads/main
+[submodule "r-drdid"]
+	url = https://github.com/conda-forge/r-drdid-feedstock.git
+	path = feedstocks/r-drdid
+	branch = refs/heads/main
