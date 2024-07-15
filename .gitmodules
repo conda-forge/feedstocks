@@ -91298,3 +91298,7 @@
 	url = https://github.com/conda-forge/graphrag-feedstock.git
 	path = feedstocks/graphrag
 	branch = refs/heads/main
+[submodule "datashaper"]
+	url = https://github.com/conda-forge/datashaper-feedstock.git
+	path = feedstocks/datashaper
+	branch = refs/heads/main
