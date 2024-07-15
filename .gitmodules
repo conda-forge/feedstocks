@@ -91290,3 +91290,7 @@
 	url = https://github.com/conda-forge/executorlib-feedstock.git
 	path = feedstocks/executorlib
 	branch = refs/heads/main
+[submodule "mcdev"]
+	url = https://github.com/conda-forge/mcdev-feedstock.git
+	path = feedstocks/mcdev
+	branch = refs/heads/main
