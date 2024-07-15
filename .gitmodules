@@ -91286,3 +91286,7 @@
 	url = https://github.com/conda-forge/mosaic-feedstock.git
 	path = feedstocks/mosaic
 	branch = refs/heads/main
+[submodule "executorlib"]
+	url = https://github.com/conda-forge/executorlib-feedstock.git
+	path = feedstocks/executorlib
+	branch = refs/heads/main
