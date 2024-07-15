@@ -91322,3 +91322,7 @@
 	url = https://github.com/conda-forge/r-specr-feedstock.git
 	path = feedstocks/r-specr
 	branch = refs/heads/main
+[submodule "xdatasets"]
+	url = https://github.com/conda-forge/xdatasets-feedstock.git
+	path = feedstocks/xdatasets
+	branch = refs/heads/main
