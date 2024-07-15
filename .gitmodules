@@ -91318,3 +91318,7 @@
 	url = https://github.com/conda-forge/r-phyloregion-feedstock.git
 	path = feedstocks/r-phyloregion
 	branch = refs/heads/main
+[submodule "r-specr"]
+	url = https://github.com/conda-forge/r-specr-feedstock.git
+	path = feedstocks/r-specr
+	branch = refs/heads/main
