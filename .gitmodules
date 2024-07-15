@@ -91294,3 +91294,7 @@
 	url = https://github.com/conda-forge/mcdev-feedstock.git
 	path = feedstocks/mcdev
 	branch = refs/heads/main
+[submodule "graphrag"]
+	url = https://github.com/conda-forge/graphrag-feedstock.git
+	path = feedstocks/graphrag
+	branch = refs/heads/main
