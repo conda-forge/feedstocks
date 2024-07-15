@@ -91326,3 +91326,7 @@
 	url = https://github.com/conda-forge/xdatasets-feedstock.git
 	path = feedstocks/xdatasets
 	branch = refs/heads/main
+[submodule "r-iterpc"]
+	url = https://github.com/conda-forge/r-iterpc-feedstock.git
+	path = feedstocks/r-iterpc
+	branch = refs/heads/main
