@@ -91302,3 +91302,7 @@
 	url = https://github.com/conda-forge/datashaper-feedstock.git
 	path = feedstocks/datashaper
 	branch = refs/heads/main
+[submodule "r-bmisc"]
+	url = https://github.com/conda-forge/r-bmisc-feedstock.git
+	path = feedstocks/r-bmisc
+	branch = refs/heads/main
