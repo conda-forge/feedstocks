@@ -91342,3 +91342,7 @@
 	url = https://github.com/conda-forge/mistralai-feedstock.git
 	path = feedstocks/mistralai
 	branch = refs/heads/main
+[submodule "pyem"]
+	url = https://github.com/conda-forge/pyem-feedstock.git
+	path = feedstocks/pyem
+	branch = refs/heads/main
