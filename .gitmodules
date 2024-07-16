@@ -91338,3 +91338,7 @@
 	url = https://github.com/conda-forge/r-mendelianrandomization-feedstock.git
 	path = feedstocks/r-mendelianrandomization
 	branch = refs/heads/main
+[submodule "mistralai"]
+	url = https://github.com/conda-forge/mistralai-feedstock.git
+	path = feedstocks/mistralai
+	branch = refs/heads/main
