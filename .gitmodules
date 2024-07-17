@@ -91358,3 +91358,7 @@
 	url = https://github.com/conda-forge/eegrasp-feedstock.git
 	path = feedstocks/eegrasp
 	branch = refs/heads/main
+[submodule "compas_viewer"]
+	url = https://github.com/conda-forge/compas_viewer-feedstock.git
+	path = feedstocks/compas_viewer
+	branch = refs/heads/main
