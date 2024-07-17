@@ -91374,3 +91374,7 @@
 	url = https://github.com/conda-forge/qastle-feedstock.git
 	path = feedstocks/qastle
 	branch = refs/heads/main
+[submodule "pmd"]
+	url = https://github.com/conda-forge/pmd-feedstock.git
+	path = feedstocks/pmd
+	branch = refs/heads/main
