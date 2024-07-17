@@ -91386,3 +91386,7 @@
 	url = https://github.com/conda-forge/inetutils-feedstock.git
 	path = feedstocks/inetutils
 	branch = refs/heads/main
+[submodule "checkstyle"]
+	url = https://github.com/conda-forge/checkstyle-feedstock.git
+	path = feedstocks/checkstyle
+	branch = refs/heads/main
