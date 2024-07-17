@@ -91366,3 +91366,7 @@
 	url = https://github.com/conda-forge/gsffile-feedstock.git
 	path = feedstocks/gsffile
 	branch = refs/heads/main
+[submodule "torchmanager"]
+	url = https://github.com/conda-forge/torchmanager-feedstock.git
+	path = feedstocks/torchmanager
+	branch = refs/heads/main
