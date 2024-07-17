@@ -91370,3 +91370,7 @@
 	url = https://github.com/conda-forge/torchmanager-feedstock.git
 	path = feedstocks/torchmanager
 	branch = refs/heads/main
+[submodule "qastle"]
+	url = https://github.com/conda-forge/qastle-feedstock.git
+	path = feedstocks/qastle
+	branch = refs/heads/main
