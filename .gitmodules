@@ -91350,3 +91350,7 @@
 	url = https://github.com/conda-forge/r-bootsvd-feedstock.git
 	path = feedstocks/r-bootsvd
 	branch = refs/heads/main
+[submodule "r-smartsnp"]
+	url = https://github.com/conda-forge/r-smartsnp-feedstock.git
+	path = feedstocks/r-smartsnp
+	branch = refs/heads/main
