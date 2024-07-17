@@ -91390,3 +91390,7 @@
 	url = https://github.com/conda-forge/checkstyle-feedstock.git
 	path = feedstocks/checkstyle
 	branch = refs/heads/main
+[submodule "jdtls"]
+	url = https://github.com/conda-forge/jdtls-feedstock.git
+	path = feedstocks/jdtls
+	branch = refs/heads/main
