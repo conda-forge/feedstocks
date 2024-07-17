@@ -91346,3 +91346,7 @@
 	url = https://github.com/conda-forge/pyem-feedstock.git
 	path = feedstocks/pyem
 	branch = refs/heads/main
+[submodule "r-bootsvd"]
+	url = https://github.com/conda-forge/r-bootsvd-feedstock.git
+	path = feedstocks/r-bootsvd
+	branch = refs/heads/main
