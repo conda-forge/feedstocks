@@ -91354,3 +91354,7 @@
 	url = https://github.com/conda-forge/r-smartsnp-feedstock.git
 	path = feedstocks/r-smartsnp
 	branch = refs/heads/main
+[submodule "eegrasp"]
+	url = https://github.com/conda-forge/eegrasp-feedstock.git
+	path = feedstocks/eegrasp
+	branch = refs/heads/main
