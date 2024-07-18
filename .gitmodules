@@ -91414,3 +91414,7 @@
 	url = https://github.com/conda-forge/ammonite-repl-feedstock.git
 	path = feedstocks/ammonite-repl
 	branch = refs/heads/main
+[submodule "mill"]
+	url = https://github.com/conda-forge/mill-feedstock.git
+	path = feedstocks/mill
+	branch = refs/heads/main
