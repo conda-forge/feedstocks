@@ -91430,3 +91430,7 @@
 	url = https://github.com/conda-forge/ivy-feedstock.git
 	path = feedstocks/ivy
 	branch = refs/heads/main
+[submodule "scalariform"]
+	url = https://github.com/conda-forge/scalariform-feedstock.git
+	path = feedstocks/scalariform
+	branch = refs/heads/main
