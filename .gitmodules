@@ -91410,3 +91410,7 @@
 	url = https://github.com/conda-forge/libxnvme-feedstock.git
 	path = feedstocks/libxnvme
 	branch = refs/heads/main
+[submodule "ammonite-repl"]
+	url = https://github.com/conda-forge/ammonite-repl-feedstock.git
+	path = feedstocks/ammonite-repl
+	branch = refs/heads/main
