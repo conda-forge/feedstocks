@@ -91394,3 +91394,7 @@
 	url = https://github.com/conda-forge/jdtls-feedstock.git
 	path = feedstocks/jdtls
 	branch = refs/heads/main
+[submodule "colima"]
+	url = https://github.com/conda-forge/colima-feedstock.git
+	path = feedstocks/colima
+	branch = refs/heads/main
