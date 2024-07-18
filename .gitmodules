@@ -91398,3 +91398,7 @@
 	url = https://github.com/conda-forge/colima-feedstock.git
 	path = feedstocks/colima
 	branch = refs/heads/main
+[submodule "docker-cli"]
+	url = https://github.com/conda-forge/docker-cli-feedstock.git
+	path = feedstocks/docker-cli
+	branch = refs/heads/main
