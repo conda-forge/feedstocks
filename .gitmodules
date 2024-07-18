@@ -91402,3 +91402,7 @@
 	url = https://github.com/conda-forge/docker-cli-feedstock.git
 	path = feedstocks/docker-cli
 	branch = refs/heads/main
+[submodule "docker-buildx"]
+	url = https://github.com/conda-forge/docker-buildx-feedstock.git
+	path = feedstocks/docker-buildx
+	branch = refs/heads/main
