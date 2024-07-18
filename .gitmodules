@@ -91406,3 +91406,7 @@
 	url = https://github.com/conda-forge/docker-buildx-feedstock.git
 	path = feedstocks/docker-buildx
 	branch = refs/heads/main
+[submodule "libxnvme"]
+	url = https://github.com/conda-forge/libxnvme-feedstock.git
+	path = feedstocks/libxnvme
+	branch = refs/heads/main
