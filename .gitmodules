@@ -91418,3 +91418,7 @@
 	url = https://github.com/conda-forge/mill-feedstock.git
 	path = feedstocks/mill
 	branch = refs/heads/main
+[submodule "travo"]
+	url = https://github.com/conda-forge/travo-feedstock.git
+	path = feedstocks/travo
+	branch = refs/heads/main
