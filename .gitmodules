@@ -91426,3 +91426,7 @@
 	url = https://github.com/conda-forge/scala3-feedstock.git
 	path = feedstocks/scala3
 	branch = refs/heads/main
+[submodule "ivy"]
+	url = https://github.com/conda-forge/ivy-feedstock.git
+	path = feedstocks/ivy
+	branch = refs/heads/main
