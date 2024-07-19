@@ -91442,3 +91442,7 @@
 	url = https://github.com/conda-forge/ccx2paraview-feedstock.git
 	path = feedstocks/ccx2paraview
 	branch = refs/heads/main
+[submodule "inline-snapshot"]
+	url = https://github.com/conda-forge/inline-snapshot-feedstock.git
+	path = feedstocks/inline-snapshot
+	branch = refs/heads/main
