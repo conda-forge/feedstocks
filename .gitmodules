@@ -91434,3 +91434,7 @@
 	url = https://github.com/conda-forge/scalariform-feedstock.git
 	path = feedstocks/scalariform
 	branch = refs/heads/main
+[submodule "ansys-api-mechanical"]
+	url = https://github.com/conda-forge/ansys-api-mechanical-feedstock.git
+	path = feedstocks/ansys-api-mechanical
+	branch = refs/heads/main
