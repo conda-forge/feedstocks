@@ -91446,3 +91446,7 @@
 	url = https://github.com/conda-forge/inline-snapshot-feedstock.git
 	path = feedstocks/inline-snapshot
 	branch = refs/heads/main
+[submodule "r-nanoparquet"]
+	url = https://github.com/conda-forge/r-nanoparquet-feedstock.git
+	path = feedstocks/r-nanoparquet
+	branch = refs/heads/main
