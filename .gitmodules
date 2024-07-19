@@ -91438,3 +91438,7 @@
 	url = https://github.com/conda-forge/ansys-api-mechanical-feedstock.git
 	path = feedstocks/ansys-api-mechanical
 	branch = refs/heads/main
+[submodule "ccx2paraview"]
+	url = https://github.com/conda-forge/ccx2paraview-feedstock.git
+	path = feedstocks/ccx2paraview
+	branch = refs/heads/main
