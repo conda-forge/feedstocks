@@ -91602,3 +91602,7 @@
 	url = https://github.com/conda-forge/ypywidgets-textual-feedstock.git
 	path = feedstocks/ypywidgets-textual
 	branch = refs/heads/main
+[submodule "pyrtools"]
+	url = https://github.com/conda-forge/pyrtools-feedstock.git
+	path = feedstocks/pyrtools
+	branch = refs/heads/main
