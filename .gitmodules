@@ -91530,3 +91530,7 @@
 	url = https://github.com/conda-forge/paket-feedstock.git
 	path = feedstocks/paket
 	branch = refs/heads/main
+[submodule "cake"]
+	url = https://github.com/conda-forge/cake-feedstock.git
+	path = feedstocks/cake
+	branch = refs/heads/main
