@@ -91554,3 +91554,7 @@
 	url = https://github.com/conda-forge/txl-remote-contents-feedstock.git
 	path = feedstocks/txl-remote-contents
 	branch = refs/heads/main
+[submodule "dl1_data_handler"]
+	url = https://github.com/conda-forge/dl1_data_handler-feedstock.git
+	path = feedstocks/dl1_data_handler
+	branch = refs/heads/main
