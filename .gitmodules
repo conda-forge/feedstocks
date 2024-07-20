@@ -91486,3 +91486,7 @@
 	url = https://github.com/conda-forge/gradle-language-server-feedstock.git
 	path = feedstocks/gradle-language-server
 	branch = refs/heads/main
+[submodule "txl-remote-kernels"]
+	url = https://github.com/conda-forge/txl-remote-kernels-feedstock.git
+	path = feedstocks/txl-remote-kernels
+	branch = refs/heads/main
