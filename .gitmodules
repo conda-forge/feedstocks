@@ -91462,3 +91462,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-vertexai-feedstock.git
 	path = feedstocks/openinference-instrumentation-vertexai
 	branch = refs/heads/main
+[submodule "cpprb"]
+	url = https://github.com/conda-forge/cpprb-feedstock.git
+	path = feedstocks/cpprb
+	branch = refs/heads/main
