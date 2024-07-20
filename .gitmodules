@@ -91590,3 +91590,7 @@
 	url = https://github.com/conda-forge/attrs-strict-feedstock.git
 	path = feedstocks/attrs-strict
 	branch = refs/heads/main
+[submodule "txl-image-viewer"]
+	url = https://github.com/conda-forge/txl-image-viewer-feedstock.git
+	path = feedstocks/txl-image-viewer
+	branch = refs/heads/main
