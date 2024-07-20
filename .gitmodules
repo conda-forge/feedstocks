@@ -91574,3 +91574,7 @@
 	url = https://github.com/conda-forge/pycel-feedstock.git
 	path = feedstocks/pycel
 	branch = refs/heads/main
+[submodule "trubar"]
+	url = https://github.com/conda-forge/trubar-feedstock.git
+	path = feedstocks/trubar
+	branch = refs/heads/main
