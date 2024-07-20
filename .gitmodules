@@ -91526,3 +91526,7 @@
 	url = https://github.com/conda-forge/nuke-feedstock.git
 	path = feedstocks/nuke
 	branch = refs/heads/main
+[submodule "paket"]
+	url = https://github.com/conda-forge/paket-feedstock.git
+	path = feedstocks/paket
+	branch = refs/heads/main
