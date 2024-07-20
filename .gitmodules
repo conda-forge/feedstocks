@@ -91498,3 +91498,7 @@
 	url = https://github.com/conda-forge/geoarrow-types-feedstock.git
 	path = feedstocks/geoarrow-types
 	branch = refs/heads/main
+[submodule "dotnet-script"]
+	url = https://github.com/conda-forge/dotnet-script-feedstock.git
+	path = feedstocks/dotnet-script
+	branch = refs/heads/main
