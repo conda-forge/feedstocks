@@ -91522,3 +91522,7 @@
 	url = https://github.com/conda-forge/msbuild-project-tools-server-feedstock.git
 	path = feedstocks/msbuild-project-tools-server
 	branch = refs/heads/main
+[submodule "nuke"]
+	url = https://github.com/conda-forge/nuke-feedstock.git
+	path = feedstocks/nuke
+	branch = refs/heads/main
