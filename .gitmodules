@@ -91542,3 +91542,7 @@
 	url = https://github.com/conda-forge/csharpier-feedstock.git
 	path = feedstocks/csharpier
 	branch = refs/heads/main
+[submodule "fake"]
+	url = https://github.com/conda-forge/fake-feedstock.git
+	path = feedstocks/fake
+	branch = refs/heads/main
