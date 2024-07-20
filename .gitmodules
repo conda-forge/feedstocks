@@ -91458,3 +91458,7 @@
 	url = https://github.com/conda-forge/spatialdata-plot-feedstock.git
 	path = feedstocks/spatialdata-plot
 	branch = refs/heads/main
+[submodule "openinference-instrumentation-vertexai"]
+	url = https://github.com/conda-forge/openinference-instrumentation-vertexai-feedstock.git
+	path = feedstocks/openinference-instrumentation-vertexai
+	branch = refs/heads/main
