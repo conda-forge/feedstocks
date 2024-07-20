@@ -91482,3 +91482,7 @@
 	url = https://github.com/conda-forge/fsautocomplete-feedstock.git
 	path = feedstocks/fsautocomplete
 	branch = refs/heads/main
+[submodule "gradle-language-server"]
+	url = https://github.com/conda-forge/gradle-language-server-feedstock.git
+	path = feedstocks/gradle-language-server
+	branch = refs/heads/main
