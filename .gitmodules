@@ -91550,3 +91550,7 @@
 	url = https://github.com/conda-forge/dotnet-diagnostics-feedstock.git
 	path = feedstocks/dotnet-diagnostics
 	branch = refs/heads/main
+[submodule "txl-remote-contents"]
+	url = https://github.com/conda-forge/txl-remote-contents-feedstock.git
+	path = feedstocks/txl-remote-contents
+	branch = refs/heads/main
