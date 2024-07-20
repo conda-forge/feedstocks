@@ -91502,3 +91502,7 @@
 	url = https://github.com/conda-forge/dotnet-script-feedstock.git
 	path = feedstocks/dotnet-script
 	branch = refs/heads/main
+[submodule "textual-imageview"]
+	url = https://github.com/conda-forge/textual-imageview-feedstock.git
+	path = feedstocks/textual-imageview
+	branch = refs/heads/main
