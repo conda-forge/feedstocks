@@ -91454,3 +91454,7 @@
 	url = https://github.com/conda-forge/txl-remote-terminals-feedstock.git
 	path = feedstocks/txl-remote-terminals
 	branch = refs/heads/main
+[submodule "spatialdata-plot"]
+	url = https://github.com/conda-forge/spatialdata-plot-feedstock.git
+	path = feedstocks/spatialdata-plot
+	branch = refs/heads/main
