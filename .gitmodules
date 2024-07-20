@@ -91478,3 +91478,7 @@
 	url = https://github.com/conda-forge/groovy-feedstock.git
 	path = feedstocks/groovy
 	branch = refs/heads/main
+[submodule "fsautocomplete"]
+	url = https://github.com/conda-forge/fsautocomplete-feedstock.git
+	path = feedstocks/fsautocomplete
+	branch = refs/heads/main
