@@ -91586,3 +91586,7 @@
 	url = https://github.com/conda-forge/quickxorhash-feedstock.git
 	path = feedstocks/quickxorhash
 	branch = refs/heads/main
+[submodule "attrs-strict"]
+	url = https://github.com/conda-forge/attrs-strict-feedstock.git
+	path = feedstocks/attrs-strict
+	branch = refs/heads/main
