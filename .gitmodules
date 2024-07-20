@@ -91518,3 +91518,7 @@
 	url = https://github.com/conda-forge/dataclass-csv-feedstock.git
 	path = feedstocks/dataclass-csv
 	branch = refs/heads/main
+[submodule "msbuild-project-tools-server"]
+	url = https://github.com/conda-forge/msbuild-project-tools-server-feedstock.git
+	path = feedstocks/msbuild-project-tools-server
+	branch = refs/heads/main
