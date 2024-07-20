@@ -91570,3 +91570,7 @@
 	url = https://github.com/conda-forge/resmda-feedstock.git
 	path = feedstocks/resmda
 	branch = refs/heads/main
+[submodule "pycel"]
+	url = https://github.com/conda-forge/pycel-feedstock.git
+	path = feedstocks/pycel
+	branch = refs/heads/main
