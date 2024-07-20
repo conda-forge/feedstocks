@@ -91450,3 +91450,7 @@
 	url = https://github.com/conda-forge/r-nanoparquet-feedstock.git
 	path = feedstocks/r-nanoparquet
 	branch = refs/heads/main
+[submodule "txl-remote-terminals"]
+	url = https://github.com/conda-forge/txl-remote-terminals-feedstock.git
+	path = feedstocks/txl-remote-terminals
+	branch = refs/heads/main
