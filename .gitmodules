@@ -91466,3 +91466,7 @@
 	url = https://github.com/conda-forge/cpprb-feedstock.git
 	path = feedstocks/cpprb
 	branch = refs/heads/main
+[submodule "omnisharp-roslyn"]
+	url = https://github.com/conda-forge/omnisharp-roslyn-feedstock.git
+	path = feedstocks/omnisharp-roslyn
+	branch = refs/heads/main
