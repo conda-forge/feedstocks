@@ -91538,3 +91538,7 @@
 	url = https://github.com/conda-forge/aiidalab-widgets-base-feedstock.git
 	path = feedstocks/aiidalab-widgets-base
 	branch = refs/heads/main
+[submodule "csharpier"]
+	url = https://github.com/conda-forge/csharpier-feedstock.git
+	path = feedstocks/csharpier
+	branch = refs/heads/main
