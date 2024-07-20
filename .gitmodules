@@ -91534,3 +91534,7 @@
 	url = https://github.com/conda-forge/cake-feedstock.git
 	path = feedstocks/cake
 	branch = refs/heads/main
+[submodule "aiidalab-widgets-base"]
+	url = https://github.com/conda-forge/aiidalab-widgets-base-feedstock.git
+	path = feedstocks/aiidalab-widgets-base
+	branch = refs/heads/main
