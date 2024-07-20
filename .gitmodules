@@ -91490,3 +91490,7 @@
 	url = https://github.com/conda-forge/txl-remote-kernels-feedstock.git
 	path = feedstocks/txl-remote-kernels
 	branch = refs/heads/main
+[submodule "textual-plotext"]
+	url = https://github.com/conda-forge/textual-plotext-feedstock.git
+	path = feedstocks/textual-plotext
+	branch = refs/heads/main
