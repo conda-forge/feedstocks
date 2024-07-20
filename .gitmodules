@@ -91514,3 +91514,7 @@
 	url = https://github.com/conda-forge/segmentationmetrics-feedstock.git
 	path = feedstocks/segmentationmetrics
 	branch = refs/heads/main
+[submodule "dataclass-csv"]
+	url = https://github.com/conda-forge/dataclass-csv-feedstock.git
+	path = feedstocks/dataclass-csv
+	branch = refs/heads/main
