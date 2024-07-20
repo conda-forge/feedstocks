@@ -91494,3 +91494,7 @@
 	url = https://github.com/conda-forge/textual-plotext-feedstock.git
 	path = feedstocks/textual-plotext
 	branch = refs/heads/main
+[submodule "geoarrow-types"]
+	url = https://github.com/conda-forge/geoarrow-types-feedstock.git
+	path = feedstocks/geoarrow-types
+	branch = refs/heads/main
