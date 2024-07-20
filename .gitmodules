@@ -91546,3 +91546,7 @@
 	url = https://github.com/conda-forge/fake-feedstock.git
 	path = feedstocks/fake
 	branch = refs/heads/main
+[submodule "dotnet-diagnostics"]
+	url = https://github.com/conda-forge/dotnet-diagnostics-feedstock.git
+	path = feedstocks/dotnet-diagnostics
+	branch = refs/heads/main
