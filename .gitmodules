@@ -91578,3 +91578,7 @@
 	url = https://github.com/conda-forge/trubar-feedstock.git
 	path = feedstocks/trubar
 	branch = refs/heads/main
+[submodule "plus_sync"]
+	url = https://github.com/conda-forge/plus_sync-feedstock.git
+	path = feedstocks/plus_sync
+	branch = refs/heads/main
