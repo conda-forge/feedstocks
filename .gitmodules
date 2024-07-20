@@ -91506,3 +91506,7 @@
 	url = https://github.com/conda-forge/textual-imageview-feedstock.git
 	path = feedstocks/textual-imageview
 	branch = refs/heads/main
+[submodule "fantomas"]
+	url = https://github.com/conda-forge/fantomas-feedstock.git
+	path = feedstocks/fantomas
+	branch = refs/heads/main
