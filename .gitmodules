@@ -91614,3 +91614,7 @@
 	url = https://github.com/conda-forge/aab-feedstock.git
 	path = feedstocks/aab
 	branch = refs/heads/main
+[submodule "csp-adapter-slack"]
+	url = https://github.com/conda-forge/csp-adapter-slack-feedstock.git
+	path = feedstocks/csp-adapter-slack
+	branch = refs/heads/main
