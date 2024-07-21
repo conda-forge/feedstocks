@@ -91606,3 +91606,7 @@
 	url = https://github.com/conda-forge/pyrtools-feedstock.git
 	path = feedstocks/pyrtools
 	branch = refs/heads/main
+[submodule "evalica"]
+	url = https://github.com/conda-forge/evalica-feedstock.git
+	path = feedstocks/evalica
+	branch = refs/heads/main
