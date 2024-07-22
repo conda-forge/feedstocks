@@ -91626,3 +91626,7 @@
 	url = https://github.com/conda-forge/kubernetes-kind-feedstock.git
 	path = feedstocks/kubernetes-kind
 	branch = refs/heads/main
+[submodule "ghorg"]
+	url = https://github.com/conda-forge/ghorg-feedstock.git
+	path = feedstocks/ghorg
+	branch = refs/heads/main
