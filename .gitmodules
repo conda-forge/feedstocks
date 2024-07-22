@@ -91646,3 +91646,7 @@
 	url = https://github.com/conda-forge/neocmakelsp-feedstock.git
 	path = feedstocks/neocmakelsp
 	branch = refs/heads/main
+[submodule "pkgconf"]
+	url = https://github.com/conda-forge/pkgconf-feedstock.git
+	path = feedstocks/pkgconf
+	branch = refs/heads/main
