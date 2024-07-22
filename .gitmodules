@@ -91698,3 +91698,7 @@
 	url = https://github.com/conda-forge/octosql-feedstock.git
 	path = feedstocks/octosql
 	branch = refs/heads/main
+[submodule "sqls"]
+	url = https://github.com/conda-forge/sqls-feedstock.git
+	path = feedstocks/sqls
+	branch = refs/heads/main
