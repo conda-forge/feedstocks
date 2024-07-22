@@ -91622,3 +91622,7 @@
 	url = https://github.com/conda-forge/argocd-cli-feedstock.git
 	path = feedstocks/argocd-cli
 	branch = refs/heads/main
+[submodule "kubernetes-kind"]
+	url = https://github.com/conda-forge/kubernetes-kind-feedstock.git
+	path = feedstocks/kubernetes-kind
+	branch = refs/heads/main
