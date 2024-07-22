@@ -91686,3 +91686,7 @@
 	url = https://github.com/conda-forge/scrapy-playwright-feedstock.git
 	path = feedstocks/scrapy-playwright
 	branch = refs/heads/main
+[submodule "plus_slurm"]
+	url = https://github.com/conda-forge/plus_slurm-feedstock.git
+	path = feedstocks/plus_slurm
+	branch = refs/heads/main
