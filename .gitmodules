@@ -91638,3 +91638,7 @@
 	url = https://github.com/conda-forge/reposurgeon-feedstock.git
 	path = feedstocks/reposurgeon
 	branch = refs/heads/main
+[submodule "myerson"]
+	url = https://github.com/conda-forge/myerson-feedstock.git
+	path = feedstocks/myerson
+	branch = refs/heads/main
