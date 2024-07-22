@@ -91682,3 +91682,7 @@
 	url = https://github.com/conda-forge/r-rworkflows-feedstock.git
 	path = feedstocks/r-rworkflows
 	branch = refs/heads/main
+[submodule "scrapy-playwright"]
+	url = https://github.com/conda-forge/scrapy-playwright-feedstock.git
+	path = feedstocks/scrapy-playwright
+	branch = refs/heads/main
