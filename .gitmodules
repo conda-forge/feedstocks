@@ -91654,3 +91654,7 @@
 	url = https://github.com/conda-forge/mesonlsp-feedstock.git
 	path = feedstocks/mesonlsp
 	branch = refs/heads/main
+[submodule "checkmake"]
+	url = https://github.com/conda-forge/checkmake-feedstock.git
+	path = feedstocks/checkmake
+	branch = refs/heads/main
