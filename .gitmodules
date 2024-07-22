@@ -91634,3 +91634,7 @@
 	url = https://github.com/conda-forge/bit-git-feedstock.git
 	path = feedstocks/bit-git
 	branch = refs/heads/main
+[submodule "reposurgeon"]
+	url = https://github.com/conda-forge/reposurgeon-feedstock.git
+	path = feedstocks/reposurgeon
+	branch = refs/heads/main
