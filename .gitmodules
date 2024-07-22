@@ -91670,3 +91670,7 @@
 	url = https://github.com/conda-forge/ripgrep-all-feedstock.git
 	path = feedstocks/ripgrep-all
 	branch = refs/heads/main
+[submodule "bzip3"]
+	url = https://github.com/conda-forge/bzip3-feedstock.git
+	path = feedstocks/bzip3
+	branch = refs/heads/main
