@@ -91618,3 +91618,7 @@
 	url = https://github.com/conda-forge/csp-adapter-slack-feedstock.git
 	path = feedstocks/csp-adapter-slack
 	branch = refs/heads/main
+[submodule "argocd-cli"]
+	url = https://github.com/conda-forge/argocd-cli-feedstock.git
+	path = feedstocks/argocd-cli
+	branch = refs/heads/main
