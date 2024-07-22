@@ -91650,3 +91650,7 @@
 	url = https://github.com/conda-forge/pkgconf-feedstock.git
 	path = feedstocks/pkgconf
 	branch = refs/heads/main
+[submodule "mesonlsp"]
+	url = https://github.com/conda-forge/mesonlsp-feedstock.git
+	path = feedstocks/mesonlsp
+	branch = refs/heads/main
