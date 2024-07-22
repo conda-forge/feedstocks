@@ -91678,3 +91678,7 @@
 	url = https://github.com/conda-forge/bingrep-feedstock.git
 	path = feedstocks/bingrep
 	branch = refs/heads/main
+[submodule "r-rworkflows"]
+	url = https://github.com/conda-forge/r-rworkflows-feedstock.git
+	path = feedstocks/r-rworkflows
+	branch = refs/heads/main
