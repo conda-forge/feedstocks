@@ -91702,3 +91702,7 @@
 	url = https://github.com/conda-forge/sqls-feedstock.git
 	path = feedstocks/sqls
 	branch = refs/heads/main
+[submodule "dsq"]
+	url = https://github.com/conda-forge/dsq-feedstock.git
+	path = feedstocks/dsq
+	branch = refs/heads/main
