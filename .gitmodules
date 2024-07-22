@@ -91662,3 +91662,7 @@
 	url = https://github.com/conda-forge/spotiflow-feedstock.git
 	path = feedstocks/spotiflow
 	branch = refs/heads/main
+[submodule "ugrep"]
+	url = https://github.com/conda-forge/ugrep-feedstock.git
+	path = feedstocks/ugrep
+	branch = refs/heads/main
