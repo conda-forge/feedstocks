@@ -91658,3 +91658,7 @@
 	url = https://github.com/conda-forge/checkmake-feedstock.git
 	path = feedstocks/checkmake
 	branch = refs/heads/main
+[submodule "spotiflow"]
+	url = https://github.com/conda-forge/spotiflow-feedstock.git
+	path = feedstocks/spotiflow
+	branch = refs/heads/main
