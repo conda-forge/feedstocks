@@ -91666,3 +91666,7 @@
 	url = https://github.com/conda-forge/ugrep-feedstock.git
 	path = feedstocks/ugrep
 	branch = refs/heads/main
+[submodule "ripgrep-all"]
+	url = https://github.com/conda-forge/ripgrep-all-feedstock.git
+	path = feedstocks/ripgrep-all
+	branch = refs/heads/main
