@@ -91674,3 +91674,7 @@
 	url = https://github.com/conda-forge/bzip3-feedstock.git
 	path = feedstocks/bzip3
 	branch = refs/heads/main
+[submodule "bingrep"]
+	url = https://github.com/conda-forge/bingrep-feedstock.git
+	path = feedstocks/bingrep
+	branch = refs/heads/main
