@@ -91630,3 +91630,7 @@
 	url = https://github.com/conda-forge/ghorg-feedstock.git
 	path = feedstocks/ghorg
 	branch = refs/heads/main
+[submodule "bit-git"]
+	url = https://github.com/conda-forge/bit-git-feedstock.git
+	path = feedstocks/bit-git
+	branch = refs/heads/main
