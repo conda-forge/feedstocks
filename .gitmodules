@@ -91690,3 +91690,7 @@
 	url = https://github.com/conda-forge/plus_slurm-feedstock.git
 	path = feedstocks/plus_slurm
 	branch = refs/heads/main
+[submodule "sql-language-server"]
+	url = https://github.com/conda-forge/sql-language-server-feedstock.git
+	path = feedstocks/sql-language-server
+	branch = refs/heads/main
