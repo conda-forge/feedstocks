@@ -91714,3 +91714,7 @@
 	url = https://github.com/conda-forge/python-zstd-feedstock.git
 	path = feedstocks/python-zstd
 	branch = refs/heads/main
+[submodule "xarray-tensorstore"]
+	url = https://github.com/conda-forge/xarray-tensorstore-feedstock.git
+	path = feedstocks/xarray-tensorstore
+	branch = refs/heads/main
