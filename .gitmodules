@@ -91722,3 +91722,7 @@
 	url = https://github.com/conda-forge/dinosaur-dycore-feedstock.git
 	path = feedstocks/dinosaur-dycore
 	branch = refs/heads/main
+[submodule "pyautogen"]
+	url = https://github.com/conda-forge/pyautogen-feedstock.git
+	path = feedstocks/pyautogen
+	branch = refs/heads/main
