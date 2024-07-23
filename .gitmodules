@@ -91718,3 +91718,7 @@
 	url = https://github.com/conda-forge/xarray-tensorstore-feedstock.git
 	path = feedstocks/xarray-tensorstore
 	branch = refs/heads/main
+[submodule "dinosaur-dycore"]
+	url = https://github.com/conda-forge/dinosaur-dycore-feedstock.git
+	path = feedstocks/dinosaur-dycore
+	branch = refs/heads/main
