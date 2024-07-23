@@ -91730,3 +91730,7 @@
 	url = https://github.com/conda-forge/plenoptic-feedstock.git
 	path = feedstocks/plenoptic
 	branch = refs/heads/main
+[submodule "r-cards"]
+	url = https://github.com/conda-forge/r-cards-feedstock.git
+	path = feedstocks/r-cards
+	branch = refs/heads/main
