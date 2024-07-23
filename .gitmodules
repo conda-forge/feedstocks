@@ -91706,3 +91706,7 @@
 	url = https://github.com/conda-forge/dsq-feedstock.git
 	path = feedstocks/dsq
 	branch = refs/heads/main
+[submodule "input4mips-validation"]
+	url = https://github.com/conda-forge/input4mips-validation-feedstock.git
+	path = feedstocks/input4mips-validation
+	branch = refs/heads/main
