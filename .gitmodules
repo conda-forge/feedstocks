@@ -91710,3 +91710,7 @@
 	url = https://github.com/conda-forge/input4mips-validation-feedstock.git
 	path = feedstocks/input4mips-validation
 	branch = refs/heads/main
+[submodule "python-zstd"]
+	url = https://github.com/conda-forge/python-zstd-feedstock.git
+	path = feedstocks/python-zstd
+	branch = refs/heads/main
