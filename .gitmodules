@@ -91734,3 +91734,7 @@
 	url = https://github.com/conda-forge/r-cards-feedstock.git
 	path = feedstocks/r-cards
 	branch = refs/heads/main
+[submodule "sleap-io"]
+	url = https://github.com/conda-forge/sleap-io-feedstock.git
+	path = feedstocks/sleap-io
+	branch = refs/heads/main
