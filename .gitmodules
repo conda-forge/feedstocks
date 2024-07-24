@@ -91790,3 +91790,7 @@
 	url = https://github.com/conda-forge/pyxlsx-feedstock.git
 	path = feedstocks/pyxlsx
 	branch = refs/heads/main
+[submodule "geoh5py"]
+	url = https://github.com/conda-forge/geoh5py-feedstock.git
+	path = feedstocks/geoh5py
+	branch = refs/heads/main
