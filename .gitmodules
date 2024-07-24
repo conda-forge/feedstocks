@@ -91782,3 +91782,7 @@
 	url = https://github.com/conda-forge/easygems-feedstock.git
 	path = feedstocks/easygems
 	branch = refs/heads/main
+[submodule "catppuccin-jupyterlab"]
+	url = https://github.com/conda-forge/catppuccin-jupyterlab-feedstock.git
+	path = feedstocks/catppuccin-jupyterlab
+	branch = refs/heads/main
