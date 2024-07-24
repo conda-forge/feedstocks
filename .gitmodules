@@ -91766,3 +91766,7 @@
 	url = https://github.com/conda-forge/lightglue-feedstock.git
 	path = feedstocks/lightglue
 	branch = refs/heads/main
+[submodule "diffeqpy"]
+	url = https://github.com/conda-forge/diffeqpy-feedstock.git
+	path = feedstocks/diffeqpy
+	branch = refs/heads/main
