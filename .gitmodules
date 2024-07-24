@@ -91770,3 +91770,7 @@
 	url = https://github.com/conda-forge/diffeqpy-feedstock.git
 	path = feedstocks/diffeqpy
 	branch = refs/heads/main
+[submodule "pyrms"]
+	url = https://github.com/conda-forge/pyrms-feedstock.git
+	path = feedstocks/pyrms
+	branch = refs/heads/main
