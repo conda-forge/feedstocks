@@ -91762,3 +91762,7 @@
 	url = https://github.com/conda-forge/neuralgcm-feedstock.git
 	path = feedstocks/neuralgcm
 	branch = refs/heads/main
+[submodule "lightglue"]
+	url = https://github.com/conda-forge/lightglue-feedstock.git
+	path = feedstocks/lightglue
+	branch = refs/heads/main
