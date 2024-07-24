@@ -91746,3 +91746,7 @@
 	url = https://github.com/conda-forge/simplemseed-feedstock.git
 	path = feedstocks/simplemseed
 	branch = refs/heads/main
+[submodule "txl-widgets"]
+	url = https://github.com/conda-forge/txl-widgets-feedstock.git
+	path = feedstocks/txl-widgets
+	branch = refs/heads/main
