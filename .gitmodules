@@ -91798,3 +91798,7 @@
 	url = https://github.com/conda-forge/ctlearn-feedstock.git
 	path = feedstocks/ctlearn
 	branch = refs/heads/main
+[submodule "fluidfft-fftwmpi"]
+	url = https://github.com/conda-forge/fluidfft-fftwmpi-feedstock.git
+	path = feedstocks/fluidfft-fftwmpi
+	branch = refs/heads/main
