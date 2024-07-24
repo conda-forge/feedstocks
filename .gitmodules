@@ -91742,3 +91742,7 @@
 	url = https://github.com/conda-forge/r-cardx-feedstock.git
 	path = feedstocks/r-cardx
 	branch = refs/heads/main
+[submodule "simplemseed"]
+	url = https://github.com/conda-forge/simplemseed-feedstock.git
+	path = feedstocks/simplemseed
+	branch = refs/heads/main
