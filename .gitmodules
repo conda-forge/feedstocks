@@ -91786,3 +91786,7 @@
 	url = https://github.com/conda-forge/catppuccin-jupyterlab-feedstock.git
 	path = feedstocks/catppuccin-jupyterlab
 	branch = refs/heads/main
+[submodule "pyxlsx"]
+	url = https://github.com/conda-forge/pyxlsx-feedstock.git
+	path = feedstocks/pyxlsx
+	branch = refs/heads/main
