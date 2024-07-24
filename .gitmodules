@@ -91810,3 +91810,7 @@
 	url = https://github.com/conda-forge/scriv-feedstock.git
 	path = feedstocks/scriv
 	branch = refs/heads/main
+[submodule "streamlit_option_menu"]
+	url = https://github.com/conda-forge/streamlit_option_menu-feedstock.git
+	path = feedstocks/streamlit_option_menu
+	branch = refs/heads/main
