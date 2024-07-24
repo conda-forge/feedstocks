@@ -91778,3 +91778,7 @@
 	url = https://github.com/conda-forge/conda-recipe-v2-schema-feedstock.git
 	path = feedstocks/conda-recipe-v2-schema
 	branch = refs/heads/main
+[submodule "easygems"]
+	url = https://github.com/conda-forge/easygems-feedstock.git
+	path = feedstocks/easygems
+	branch = refs/heads/main
