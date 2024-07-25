@@ -91842,3 +91842,7 @@
 	url = https://github.com/conda-forge/mathdx-feedstock.git
 	path = feedstocks/mathdx
 	branch = refs/heads/main
+[submodule "nvmath"]
+	url = https://github.com/conda-forge/nvmath-feedstock.git
+	path = feedstocks/nvmath
+	branch = refs/heads/main
