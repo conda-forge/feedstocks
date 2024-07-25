@@ -91826,3 +91826,7 @@
 	url = https://github.com/conda-forge/r-stochvol-feedstock.git
 	path = feedstocks/r-stochvol
 	branch = refs/heads/main
+[submodule "r-fakemake"]
+	url = https://github.com/conda-forge/r-fakemake-feedstock.git
+	path = feedstocks/r-fakemake
+	branch = refs/heads/main
