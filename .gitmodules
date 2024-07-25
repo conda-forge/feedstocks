@@ -91834,3 +91834,7 @@
 	url = https://github.com/conda-forge/kazu-feedstock.git
 	path = feedstocks/kazu
 	branch = refs/heads/main
+[submodule "omero-marshal"]
+	url = https://github.com/conda-forge/omero-marshal-feedstock.git
+	path = feedstocks/omero-marshal
+	branch = refs/heads/main
