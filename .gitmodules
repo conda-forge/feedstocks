@@ -91822,3 +91822,7 @@
 	url = https://github.com/conda-forge/r-duckplyr-feedstock.git
 	path = feedstocks/r-duckplyr
 	branch = refs/heads/main
+[submodule "r-stochvol"]
+	url = https://github.com/conda-forge/r-stochvol-feedstock.git
+	path = feedstocks/r-stochvol
+	branch = refs/heads/main
