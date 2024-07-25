@@ -91818,3 +91818,7 @@
 	url = https://github.com/conda-forge/revel-feedstock.git
 	path = feedstocks/revel
 	branch = refs/heads/main
+[submodule "r-duckplyr"]
+	url = https://github.com/conda-forge/r-duckplyr-feedstock.git
+	path = feedstocks/r-duckplyr
+	branch = refs/heads/main
