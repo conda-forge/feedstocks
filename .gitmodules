@@ -91838,3 +91838,7 @@
 	url = https://github.com/conda-forge/omero-marshal-feedstock.git
 	path = feedstocks/omero-marshal
 	branch = refs/heads/main
+[submodule "mathdx"]
+	url = https://github.com/conda-forge/mathdx-feedstock.git
+	path = feedstocks/mathdx
+	branch = refs/heads/main
