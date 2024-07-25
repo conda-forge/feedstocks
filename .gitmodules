@@ -91830,3 +91830,7 @@
 	url = https://github.com/conda-forge/r-fakemake-feedstock.git
 	path = feedstocks/r-fakemake
 	branch = refs/heads/main
+[submodule "kazu"]
+	url = https://github.com/conda-forge/kazu-feedstock.git
+	path = feedstocks/kazu
+	branch = refs/heads/main
