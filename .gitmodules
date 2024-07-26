@@ -91858,3 +91858,7 @@
 	url = https://github.com/conda-forge/r-gigrvg-feedstock.git
 	path = feedstocks/r-gigrvg
 	branch = refs/heads/main
+[submodule "r-tinyplot"]
+	url = https://github.com/conda-forge/r-tinyplot-feedstock.git
+	path = feedstocks/r-tinyplot
+	branch = refs/heads/main
