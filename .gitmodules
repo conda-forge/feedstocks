@@ -91850,3 +91850,7 @@
 	url = https://github.com/conda-forge/r-procmaps-feedstock.git
 	path = feedstocks/r-procmaps
 	branch = refs/heads/main
+[submodule "r-rcpptn"]
+	url = https://github.com/conda-forge/r-rcpptn-feedstock.git
+	path = feedstocks/r-rcpptn
+	branch = refs/heads/main
