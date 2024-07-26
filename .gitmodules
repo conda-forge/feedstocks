@@ -91862,3 +91862,7 @@
 	url = https://github.com/conda-forge/r-tinyplot-feedstock.git
 	path = feedstocks/r-tinyplot
 	branch = refs/heads/main
+[submodule "haystack-experimental"]
+	url = https://github.com/conda-forge/haystack-experimental-feedstock.git
+	path = feedstocks/haystack-experimental
+	branch = refs/heads/main
