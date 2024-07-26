@@ -91846,3 +91846,7 @@
 	url = https://github.com/conda-forge/nvmath-feedstock.git
 	path = feedstocks/nvmath
 	branch = refs/heads/main
+[submodule "r-procmaps"]
+	url = https://github.com/conda-forge/r-procmaps-feedstock.git
+	path = feedstocks/r-procmaps
+	branch = refs/heads/main
