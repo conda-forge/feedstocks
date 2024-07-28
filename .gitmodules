@@ -91870,3 +91870,7 @@
 	url = https://github.com/conda-forge/snowexsql-feedstock.git
 	path = feedstocks/snowexsql
 	branch = refs/heads/main
+[submodule "heart-library"]
+	url = https://github.com/conda-forge/heart-library-feedstock.git
+	path = feedstocks/heart-library
+	branch = refs/heads/main
