@@ -91866,3 +91866,7 @@
 	url = https://github.com/conda-forge/haystack-experimental-feedstock.git
 	path = feedstocks/haystack-experimental
 	branch = refs/heads/main
+[submodule "snowexsql"]
+	url = https://github.com/conda-forge/snowexsql-feedstock.git
+	path = feedstocks/snowexsql
+	branch = refs/heads/main
