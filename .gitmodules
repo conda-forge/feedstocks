@@ -91890,3 +91890,7 @@
 	url = https://github.com/conda-forge/pastix-feedstock.git
 	path = feedstocks/pastix
 	branch = refs/heads/main
+[submodule "sphinx-proof"]
+	url = https://github.com/conda-forge/sphinx-proof-feedstock.git
+	path = feedstocks/sphinx-proof
+	branch = refs/heads/main
