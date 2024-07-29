@@ -91882,3 +91882,7 @@
 	url = https://github.com/conda-forge/protobuf-c-feedstock.git
 	path = feedstocks/protobuf-c
 	branch = refs/heads/main
+[submodule "mystran"]
+	url = https://github.com/conda-forge/mystran-feedstock.git
+	path = feedstocks/mystran
+	branch = refs/heads/main
