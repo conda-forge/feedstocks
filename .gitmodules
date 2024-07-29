@@ -91878,3 +91878,7 @@
 	url = https://github.com/conda-forge/satlaspretrain-models-feedstock.git
 	path = feedstocks/satlaspretrain-models
 	branch = refs/heads/main
+[submodule "protobuf-c"]
+	url = https://github.com/conda-forge/protobuf-c-feedstock.git
+	path = feedstocks/protobuf-c
+	branch = refs/heads/main
