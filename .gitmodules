@@ -91874,3 +91874,7 @@
 	url = https://github.com/conda-forge/heart-library-feedstock.git
 	path = feedstocks/heart-library
 	branch = refs/heads/main
+[submodule "satlaspretrain-models"]
+	url = https://github.com/conda-forge/satlaspretrain-models-feedstock.git
+	path = feedstocks/satlaspretrain-models
+	branch = refs/heads/main
