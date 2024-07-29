@@ -91886,3 +91886,7 @@
 	url = https://github.com/conda-forge/mystran-feedstock.git
 	path = feedstocks/mystran
 	branch = refs/heads/main
+[submodule "pastix"]
+	url = https://github.com/conda-forge/pastix-feedstock.git
+	path = feedstocks/pastix
+	branch = refs/heads/main
