@@ -91898,3 +91898,7 @@
 	url = https://github.com/conda-forge/pit-rift-feedstock.git
 	path = feedstocks/pit-rift
 	branch = refs/heads/main
+[submodule "fastlite"]
+	url = https://github.com/conda-forge/fastlite-feedstock.git
+	path = feedstocks/fastlite
+	branch = refs/heads/main
