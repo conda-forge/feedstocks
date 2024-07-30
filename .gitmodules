@@ -91910,3 +91910,7 @@
 	url = https://github.com/conda-forge/nipreps-versions-feedstock.git
 	path = feedstocks/nipreps-versions
 	branch = refs/heads/main
+[submodule "sqlite-minutils"]
+	url = https://github.com/conda-forge/sqlite-minutils-feedstock.git
+	path = feedstocks/sqlite-minutils
+	branch = refs/heads/main
