@@ -91918,3 +91918,7 @@
 	url = https://github.com/conda-forge/templateflow-feedstock.git
 	path = feedstocks/templateflow
 	branch = refs/heads/main
+[submodule "endf"]
+	url = https://github.com/conda-forge/endf-feedstock.git
+	path = feedstocks/endf
+	branch = refs/heads/main
