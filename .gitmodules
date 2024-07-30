@@ -91906,3 +91906,7 @@
 	url = https://github.com/conda-forge/python-fasthtml-feedstock.git
 	path = feedstocks/python-fasthtml
 	branch = refs/heads/main
+[submodule "nipreps-versions"]
+	url = https://github.com/conda-forge/nipreps-versions-feedstock.git
+	path = feedstocks/nipreps-versions
+	branch = refs/heads/main
