@@ -91942,3 +91942,7 @@
 	url = https://github.com/conda-forge/loguru-config-feedstock.git
 	path = feedstocks/loguru-config
 	branch = refs/heads/main
+[submodule "movement"]
+	url = https://github.com/conda-forge/movement-feedstock.git
+	path = feedstocks/movement
+	branch = refs/heads/main
