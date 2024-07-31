@@ -91938,3 +91938,7 @@
 	url = https://github.com/conda-forge/pytest-lazy-fixtures-feedstock.git
 	path = feedstocks/pytest-lazy-fixtures
 	branch = refs/heads/main
+[submodule "loguru-config"]
+	url = https://github.com/conda-forge/loguru-config-feedstock.git
+	path = feedstocks/loguru-config
+	branch = refs/heads/main
