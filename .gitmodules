@@ -91946,3 +91946,7 @@
 	url = https://github.com/conda-forge/movement-feedstock.git
 	path = feedstocks/movement
 	branch = refs/heads/main
+[submodule "torchsurv"]
+	url = https://github.com/conda-forge/torchsurv-feedstock.git
+	path = feedstocks/torchsurv
+	branch = refs/heads/main
