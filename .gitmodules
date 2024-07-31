@@ -91922,3 +91922,7 @@
 	url = https://github.com/conda-forge/endf-feedstock.git
 	path = feedstocks/endf
 	branch = refs/heads/main
+[submodule "r-selenider"]
+	url = https://github.com/conda-forge/r-selenider-feedstock.git
+	path = feedstocks/r-selenider
+	branch = refs/heads/main
