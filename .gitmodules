@@ -91930,3 +91930,7 @@
 	url = https://github.com/conda-forge/r-bacondecomp-feedstock.git
 	path = feedstocks/r-bacondecomp
 	branch = refs/heads/main
+[submodule "r-marquee"]
+	url = https://github.com/conda-forge/r-marquee-feedstock.git
+	path = feedstocks/r-marquee
+	branch = refs/heads/main
