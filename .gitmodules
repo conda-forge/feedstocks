@@ -91926,3 +91926,7 @@
 	url = https://github.com/conda-forge/r-selenider-feedstock.git
 	path = feedstocks/r-selenider
 	branch = refs/heads/main
+[submodule "r-bacondecomp"]
+	url = https://github.com/conda-forge/r-bacondecomp-feedstock.git
+	path = feedstocks/r-bacondecomp
+	branch = refs/heads/main
