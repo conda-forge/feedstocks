@@ -91970,3 +91970,7 @@
 	url = https://github.com/conda-forge/tea-tasting-feedstock.git
 	path = feedstocks/tea-tasting
 	branch = refs/heads/main
+[submodule "pypcd4"]
+	url = https://github.com/conda-forge/pypcd4-feedstock.git
+	path = feedstocks/pypcd4
+	branch = refs/heads/main
