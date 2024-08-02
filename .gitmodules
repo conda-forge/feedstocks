@@ -91990,3 +91990,7 @@
 	url = https://github.com/conda-forge/case-conversion-feedstock.git
 	path = feedstocks/case-conversion
 	branch = refs/heads/main
+[submodule "r-gpg"]
+	url = https://github.com/conda-forge/r-gpg-feedstock.git
+	path = feedstocks/r-gpg
+	branch = refs/heads/main
