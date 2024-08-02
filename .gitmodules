@@ -91982,3 +91982,7 @@
 	url = https://github.com/conda-forge/climlab-sbm-convection-feedstock.git
 	path = feedstocks/climlab-sbm-convection
 	branch = refs/heads/main
+[submodule "rio-ui"]
+	url = https://github.com/conda-forge/rio-ui-feedstock.git
+	path = feedstocks/rio-ui
+	branch = refs/heads/main
