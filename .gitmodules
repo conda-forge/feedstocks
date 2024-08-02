@@ -91958,3 +91958,7 @@
 	url = https://github.com/conda-forge/cryptocode-feedstock.git
 	path = feedstocks/cryptocode
 	branch = refs/heads/main
+[submodule "python-lzf"]
+	url = https://github.com/conda-forge/python-lzf-feedstock.git
+	path = feedstocks/python-lzf
+	branch = refs/heads/main
