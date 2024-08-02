@@ -91974,3 +91974,7 @@
 	url = https://github.com/conda-forge/pypcd4-feedstock.git
 	path = feedstocks/pypcd4
 	branch = refs/heads/main
+[submodule "feflow"]
+	url = https://github.com/conda-forge/feflow-feedstock.git
+	path = feedstocks/feflow
+	branch = refs/heads/main
