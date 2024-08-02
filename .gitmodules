@@ -91978,3 +91978,7 @@
 	url = https://github.com/conda-forge/feflow-feedstock.git
 	path = feedstocks/feflow
 	branch = refs/heads/main
+[submodule "climlab-sbm-convection"]
+	url = https://github.com/conda-forge/climlab-sbm-convection-feedstock.git
+	path = feedstocks/climlab-sbm-convection
+	branch = refs/heads/main
