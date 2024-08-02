@@ -91954,3 +91954,7 @@
 	url = https://github.com/conda-forge/r-didforbigdata-feedstock.git
 	path = feedstocks/r-didforbigdata
 	branch = refs/heads/main
+[submodule "cryptocode"]
+	url = https://github.com/conda-forge/cryptocode-feedstock.git
+	path = feedstocks/cryptocode
+	branch = refs/heads/main
