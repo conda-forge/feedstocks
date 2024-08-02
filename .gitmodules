@@ -91986,3 +91986,7 @@
 	url = https://github.com/conda-forge/rio-ui-feedstock.git
 	path = feedstocks/rio-ui
 	branch = refs/heads/main
+[submodule "case-conversion"]
+	url = https://github.com/conda-forge/case-conversion-feedstock.git
+	path = feedstocks/case-conversion
+	branch = refs/heads/main
