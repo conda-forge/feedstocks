@@ -91994,3 +91994,7 @@
 	url = https://github.com/conda-forge/r-gpg-feedstock.git
 	path = feedstocks/r-gpg
 	branch = refs/heads/main
+[submodule "atool2"]
+	url = https://github.com/conda-forge/atool2-feedstock.git
+	path = feedstocks/atool2
+	branch = refs/heads/main
