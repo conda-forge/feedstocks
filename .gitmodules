@@ -92002,3 +92002,7 @@
 	url = https://github.com/conda-forge/cythonbiogeme-feedstock.git
 	path = feedstocks/cythonbiogeme
 	branch = refs/heads/main
+[submodule "conda-which"]
+	url = https://github.com/conda-forge/conda-which-feedstock.git
+	path = feedstocks/conda-which
+	branch = refs/heads/main
