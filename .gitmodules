@@ -92034,3 +92034,7 @@
 	url = https://github.com/conda-forge/py-build-cmake-feedstock.git
 	path = feedstocks/py-build-cmake
 	branch = refs/heads/main
+[submodule "highspy"]
+	url = https://github.com/conda-forge/highspy-feedstock.git
+	path = feedstocks/highspy
+	branch = refs/heads/main
