@@ -92030,3 +92030,7 @@
 	url = https://github.com/conda-forge/lens-vpr-feedstock.git
 	path = feedstocks/lens-vpr
 	branch = refs/heads/main
+[submodule "py-build-cmake"]
+	url = https://github.com/conda-forge/py-build-cmake-feedstock.git
+	path = feedstocks/py-build-cmake
+	branch = refs/heads/main
