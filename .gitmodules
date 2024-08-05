@@ -92006,3 +92006,7 @@
 	url = https://github.com/conda-forge/conda-which-feedstock.git
 	path = feedstocks/conda-which
 	branch = refs/heads/main
+[submodule "airflow-priority"]
+	url = https://github.com/conda-forge/airflow-priority-feedstock.git
+	path = feedstocks/airflow-priority
+	branch = refs/heads/main
