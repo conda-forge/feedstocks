@@ -92010,3 +92010,7 @@
 	url = https://github.com/conda-forge/airflow-priority-feedstock.git
 	path = feedstocks/airflow-priority
 	branch = refs/heads/main
+[submodule "lckr_jupyterlab_variableinspector"]
+	url = https://github.com/conda-forge/lckr_jupyterlab_variableinspector-feedstock.git
+	path = feedstocks/lckr_jupyterlab_variableinspector
+	branch = refs/heads/main
