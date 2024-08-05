@@ -92022,3 +92022,7 @@
 	url = https://github.com/conda-forge/wakepy-feedstock.git
 	path = feedstocks/wakepy
 	branch = refs/heads/main
+[submodule "scores"]
+	url = https://github.com/conda-forge/scores-feedstock.git
+	path = feedstocks/scores
+	branch = refs/heads/main
