@@ -92018,3 +92018,7 @@
 	url = https://github.com/conda-forge/django-comments-xtd-feedstock.git
 	path = feedstocks/django-comments-xtd
 	branch = refs/heads/main
+[submodule "wakepy"]
+	url = https://github.com/conda-forge/wakepy-feedstock.git
+	path = feedstocks/wakepy
+	branch = refs/heads/main
