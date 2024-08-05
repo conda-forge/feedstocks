@@ -92026,3 +92026,7 @@
 	url = https://github.com/conda-forge/scores-feedstock.git
 	path = feedstocks/scores
 	branch = refs/heads/main
+[submodule "lens-vpr"]
+	url = https://github.com/conda-forge/lens-vpr-feedstock.git
+	path = feedstocks/lens-vpr
+	branch = refs/heads/main
