@@ -92058,3 +92058,7 @@
 	url = https://github.com/conda-forge/json-repair-feedstock.git
 	path = feedstocks/json-repair
 	branch = refs/heads/main
+[submodule "lsstdesc-wl-shear-sims"]
+	url = https://github.com/conda-forge/lsstdesc-wl-shear-sims-feedstock.git
+	path = feedstocks/lsstdesc-wl-shear-sims
+	branch = refs/heads/main
