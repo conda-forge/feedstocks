@@ -92054,3 +92054,7 @@
 	url = https://github.com/conda-forge/supabase-pydantic-feedstock.git
 	path = feedstocks/supabase-pydantic
 	branch = refs/heads/main
+[submodule "json-repair"]
+	url = https://github.com/conda-forge/json-repair-feedstock.git
+	path = feedstocks/json-repair
+	branch = refs/heads/main
