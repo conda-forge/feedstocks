@@ -92050,3 +92050,7 @@
 	url = https://github.com/conda-forge/aeon-neuro-feedstock.git
 	path = feedstocks/aeon-neuro
 	branch = refs/heads/main
+[submodule "supabase-pydantic"]
+	url = https://github.com/conda-forge/supabase-pydantic-feedstock.git
+	path = feedstocks/supabase-pydantic
+	branch = refs/heads/main
