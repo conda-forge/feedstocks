@@ -92070,3 +92070,7 @@
 	url = https://github.com/conda-forge/dataeval-feedstock.git
 	path = feedstocks/dataeval
 	branch = refs/heads/main
+[submodule "hydrampp"]
+	url = https://github.com/conda-forge/hydrampp-feedstock.git
+	path = feedstocks/hydrampp
+	branch = refs/heads/main
