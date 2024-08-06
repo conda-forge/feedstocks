@@ -92074,3 +92074,7 @@
 	url = https://github.com/conda-forge/hydrampp-feedstock.git
 	path = feedstocks/hydrampp
 	branch = refs/heads/main
+[submodule "paradoc"]
+	url = https://github.com/conda-forge/paradoc-feedstock.git
+	path = feedstocks/paradoc
+	branch = refs/heads/main
