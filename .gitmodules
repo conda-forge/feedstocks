@@ -92078,3 +92078,7 @@
 	url = https://github.com/conda-forge/paradoc-feedstock.git
 	path = feedstocks/paradoc
 	branch = refs/heads/main
+[submodule "jupyter-sshd-proxy"]
+	url = https://github.com/conda-forge/jupyter-sshd-proxy-feedstock.git
+	path = feedstocks/jupyter-sshd-proxy
+	branch = refs/heads/main
