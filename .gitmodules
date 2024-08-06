@@ -92066,3 +92066,7 @@
 	url = https://github.com/conda-forge/notolog-feedstock.git
 	path = feedstocks/notolog
 	branch = refs/heads/main
+[submodule "dataeval"]
+	url = https://github.com/conda-forge/dataeval-feedstock.git
+	path = feedstocks/dataeval
+	branch = refs/heads/main
