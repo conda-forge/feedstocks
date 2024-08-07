@@ -92086,3 +92086,7 @@
 	url = https://github.com/conda-forge/airflow-config-feedstock.git
 	path = feedstocks/airflow-config
 	branch = refs/heads/main
+[submodule "pytexit"]
+	url = https://github.com/conda-forge/pytexit-feedstock.git
+	path = feedstocks/pytexit
+	branch = refs/heads/main
