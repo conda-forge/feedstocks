@@ -92134,3 +92134,7 @@
 	url = https://github.com/conda-forge/lsstdesc-smokescreen-feedstock.git
 	path = feedstocks/lsstdesc-smokescreen
 	branch = refs/heads/main
+[submodule "prettypretty"]
+	url = https://github.com/conda-forge/prettypretty-feedstock.git
+	path = feedstocks/prettypretty
+	branch = refs/heads/main
