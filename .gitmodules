@@ -92118,3 +92118,7 @@
 	url = https://github.com/conda-forge/jrsync-feedstock.git
 	path = feedstocks/jrsync
 	branch = refs/heads/main
+[submodule "r-spectrum"]
+	url = https://github.com/conda-forge/r-spectrum-feedstock.git
+	path = feedstocks/r-spectrum
+	branch = refs/heads/main
