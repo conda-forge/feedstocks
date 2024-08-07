@@ -92114,3 +92114,7 @@
 	url = https://github.com/conda-forge/baybe-feedstock.git
 	path = feedstocks/baybe
 	branch = refs/heads/main
+[submodule "jrsync"]
+	url = https://github.com/conda-forge/jrsync-feedstock.git
+	path = feedstocks/jrsync
+	branch = refs/heads/main
