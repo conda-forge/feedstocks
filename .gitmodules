@@ -92090,3 +92090,7 @@
 	url = https://github.com/conda-forge/pytexit-feedstock.git
 	path = feedstocks/pytexit
 	branch = refs/heads/main
+[submodule "langgraph-checkpoint"]
+	url = https://github.com/conda-forge/langgraph-checkpoint-feedstock.git
+	path = feedstocks/langgraph-checkpoint
+	branch = refs/heads/main
