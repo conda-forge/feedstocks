@@ -92082,3 +92082,7 @@
 	url = https://github.com/conda-forge/jupyter-sshd-proxy-feedstock.git
 	path = feedstocks/jupyter-sshd-proxy
 	branch = refs/heads/main
+[submodule "airflow-config"]
+	url = https://github.com/conda-forge/airflow-config-feedstock.git
+	path = feedstocks/airflow-config
+	branch = refs/heads/main
