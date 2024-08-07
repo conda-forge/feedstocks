@@ -92122,3 +92122,7 @@
 	url = https://github.com/conda-forge/r-spectrum-feedstock.git
 	path = feedstocks/r-spectrum
 	branch = refs/heads/main
+[submodule "matplotlive"]
+	url = https://github.com/conda-forge/matplotlive-feedstock.git
+	path = feedstocks/matplotlive
+	branch = refs/heads/main
