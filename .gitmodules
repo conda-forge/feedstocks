@@ -92126,3 +92126,7 @@
 	url = https://github.com/conda-forge/matplotlive-feedstock.git
 	path = feedstocks/matplotlive
 	branch = refs/heads/main
+[submodule "elementembeddings"]
+	url = https://github.com/conda-forge/elementembeddings-feedstock.git
+	path = feedstocks/elementembeddings
+	branch = refs/heads/main
