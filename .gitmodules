@@ -92094,3 +92094,7 @@
 	url = https://github.com/conda-forge/langgraph-checkpoint-feedstock.git
 	path = feedstocks/langgraph-checkpoint
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-common-compat"]
+	url = https://github.com/conda-forge/apache-airflow-providers-common-compat-feedstock.git
+	path = feedstocks/apache-airflow-providers-common-compat
+	branch = refs/heads/main
