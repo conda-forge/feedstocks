@@ -92102,3 +92102,7 @@
 	url = https://github.com/conda-forge/opentelemetry-propagator-aws-xray-feedstock.git
 	path = feedstocks/opentelemetry-propagator-aws-xray
 	branch = refs/heads/main
+[submodule "opentelemetry-sdk-extension-aws"]
+	url = https://github.com/conda-forge/opentelemetry-sdk-extension-aws-feedstock.git
+	path = feedstocks/opentelemetry-sdk-extension-aws
+	branch = refs/heads/main
