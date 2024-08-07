@@ -92130,3 +92130,7 @@
 	url = https://github.com/conda-forge/elementembeddings-feedstock.git
 	path = feedstocks/elementembeddings
 	branch = refs/heads/main
+[submodule "lsstdesc-smokescreen"]
+	url = https://github.com/conda-forge/lsstdesc-smokescreen-feedstock.git
+	path = feedstocks/lsstdesc-smokescreen
+	branch = refs/heads/main
