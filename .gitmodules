@@ -92106,3 +92106,7 @@
 	url = https://github.com/conda-forge/opentelemetry-sdk-extension-aws-feedstock.git
 	path = feedstocks/opentelemetry-sdk-extension-aws
 	branch = refs/heads/main
+[submodule "pysnmpcrypto"]
+	url = https://github.com/conda-forge/pysnmpcrypto-feedstock.git
+	path = feedstocks/pysnmpcrypto
+	branch = refs/heads/main
