@@ -92158,3 +92158,7 @@
 	url = https://github.com/conda-forge/conda-forge-tick-feedstock.git
 	path = feedstocks/conda-forge-tick
 	branch = refs/heads/main
+[submodule "mysqlx-connector-python"]
+	url = https://github.com/conda-forge/mysqlx-connector-python-feedstock.git
+	path = feedstocks/mysqlx-connector-python
+	branch = refs/heads/main
