@@ -92146,3 +92146,7 @@
 	url = https://github.com/conda-forge/jnv-feedstock.git
 	path = feedstocks/jnv
 	branch = refs/heads/main
+[submodule "lsstdesc-ceci"]
+	url = https://github.com/conda-forge/lsstdesc-ceci-feedstock.git
+	path = feedstocks/lsstdesc-ceci
+	branch = refs/heads/main
