@@ -92150,3 +92150,7 @@
 	url = https://github.com/conda-forge/lsstdesc-ceci-feedstock.git
 	path = feedstocks/lsstdesc-ceci
 	branch = refs/heads/main
+[submodule "stripe"]
+	url = https://github.com/conda-forge/stripe-feedstock.git
+	path = feedstocks/stripe
+	branch = refs/heads/main
