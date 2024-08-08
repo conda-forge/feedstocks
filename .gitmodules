@@ -92142,3 +92142,7 @@
 	url = https://github.com/conda-forge/r-fpp3-feedstock.git
 	path = feedstocks/r-fpp3
 	branch = refs/heads/main
+[submodule "jnv"]
+	url = https://github.com/conda-forge/jnv-feedstock.git
+	path = feedstocks/jnv
+	branch = refs/heads/main
