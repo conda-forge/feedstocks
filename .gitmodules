@@ -92154,3 +92154,7 @@
 	url = https://github.com/conda-forge/stripe-feedstock.git
 	path = feedstocks/stripe
 	branch = refs/heads/main
+[submodule "conda-forge-tick"]
+	url = https://github.com/conda-forge/conda-forge-tick-feedstock.git
+	path = feedstocks/conda-forge-tick
+	branch = refs/heads/main
