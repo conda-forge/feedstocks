@@ -92190,3 +92190,7 @@
 	url = https://github.com/conda-forge/pz-rail-sklearn-feedstock.git
 	path = feedstocks/pz-rail-sklearn
 	branch = refs/heads/main
+[submodule "mariadb-context-manager"]
+	url = https://github.com/conda-forge/mariadb-context-manager-feedstock.git
+	path = feedstocks/mariadb-context-manager
+	branch = refs/heads/main
