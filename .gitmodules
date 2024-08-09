@@ -92174,3 +92174,7 @@
 	url = https://github.com/conda-forge/scikits_odes_sundials-feedstock.git
 	path = feedstocks/scikits_odes_sundials
 	branch = refs/heads/main
+[submodule "sqlalchemy-searchable"]
+	url = https://github.com/conda-forge/sqlalchemy-searchable-feedstock.git
+	path = feedstocks/sqlalchemy-searchable
+	branch = refs/heads/main
