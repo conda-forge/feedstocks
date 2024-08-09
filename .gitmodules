@@ -92178,3 +92178,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-searchable-feedstock.git
 	path = feedstocks/sqlalchemy-searchable
 	branch = refs/heads/main
+[submodule "tango-checkup"]
+	url = https://github.com/conda-forge/tango-checkup-feedstock.git
+	path = feedstocks/tango-checkup
+	branch = refs/heads/main
