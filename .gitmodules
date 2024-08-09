@@ -92162,3 +92162,7 @@
 	url = https://github.com/conda-forge/mysqlx-connector-python-feedstock.git
 	path = feedstocks/mysqlx-connector-python
 	branch = refs/heads/main
+[submodule "s1_orbits"]
+	url = https://github.com/conda-forge/s1_orbits-feedstock.git
+	path = feedstocks/s1_orbits
+	branch = refs/heads/main
