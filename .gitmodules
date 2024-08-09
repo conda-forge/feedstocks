@@ -92186,3 +92186,7 @@
 	url = https://github.com/conda-forge/saa-feedstock.git
 	path = feedstocks/saa
 	branch = refs/heads/main
+[submodule "pz-rail-sklearn"]
+	url = https://github.com/conda-forge/pz-rail-sklearn-feedstock.git
+	path = feedstocks/pz-rail-sklearn
+	branch = refs/heads/main
