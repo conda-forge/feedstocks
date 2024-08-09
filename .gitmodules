@@ -92170,3 +92170,7 @@
 	url = https://github.com/conda-forge/pz-rail-base-feedstock.git
 	path = feedstocks/pz-rail-base
 	branch = refs/heads/main
+[submodule "scikits_odes_sundials"]
+	url = https://github.com/conda-forge/scikits_odes_sundials-feedstock.git
+	path = feedstocks/scikits_odes_sundials
+	branch = refs/heads/main
