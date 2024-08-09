@@ -92166,3 +92166,7 @@
 	url = https://github.com/conda-forge/s1_orbits-feedstock.git
 	path = feedstocks/s1_orbits
 	branch = refs/heads/main
+[submodule "pz-rail-base"]
+	url = https://github.com/conda-forge/pz-rail-base-feedstock.git
+	path = feedstocks/pz-rail-base
+	branch = refs/heads/main
