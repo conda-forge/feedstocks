@@ -92194,3 +92194,7 @@
 	url = https://github.com/conda-forge/mariadb-context-manager-feedstock.git
 	path = feedstocks/mariadb-context-manager
 	branch = refs/heads/main
+[submodule "r-bsvars"]
+	url = https://github.com/conda-forge/r-bsvars-feedstock.git
+	path = feedstocks/r-bsvars
+	branch = refs/heads/main
