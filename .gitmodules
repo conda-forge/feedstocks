@@ -92182,3 +92182,7 @@
 	url = https://github.com/conda-forge/tango-checkup-feedstock.git
 	path = feedstocks/tango-checkup
 	branch = refs/heads/main
+[submodule "saa"]
+	url = https://github.com/conda-forge/saa-feedstock.git
+	path = feedstocks/saa
+	branch = refs/heads/main
