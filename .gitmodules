@@ -92206,3 +92206,7 @@
 	url = https://github.com/conda-forge/faim-ipa-feedstock.git
 	path = feedstocks/faim-ipa
 	branch = refs/heads/main
+[submodule "locklib"]
+	url = https://github.com/conda-forge/locklib-feedstock.git
+	path = feedstocks/locklib
+	branch = refs/heads/main
