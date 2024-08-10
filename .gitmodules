@@ -92202,3 +92202,7 @@
 	url = https://github.com/conda-forge/r-dtrackr-feedstock.git
 	path = feedstocks/r-dtrackr
 	branch = refs/heads/main
+[submodule "faim-ipa"]
+	url = https://github.com/conda-forge/faim-ipa-feedstock.git
+	path = feedstocks/faim-ipa
+	branch = refs/heads/main
