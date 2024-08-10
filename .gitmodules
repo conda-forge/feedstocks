@@ -92198,3 +92198,7 @@
 	url = https://github.com/conda-forge/r-bsvars-feedstock.git
 	path = feedstocks/r-bsvars
 	branch = refs/heads/main
+[submodule "r-dtrackr"]
+	url = https://github.com/conda-forge/r-dtrackr-feedstock.git
+	path = feedstocks/r-dtrackr
+	branch = refs/heads/main
