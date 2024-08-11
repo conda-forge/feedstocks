@@ -92210,3 +92210,7 @@
 	url = https://github.com/conda-forge/locklib-feedstock.git
 	path = feedstocks/locklib
 	branch = refs/heads/main
+[submodule "persist_ext"]
+	url = https://github.com/conda-forge/persist_ext-feedstock.git
+	path = feedstocks/persist_ext
+	branch = refs/heads/main
