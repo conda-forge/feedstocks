@@ -92234,3 +92234,7 @@
 	url = https://github.com/conda-forge/blasfeo-feedstock.git
 	path = feedstocks/blasfeo
 	branch = refs/heads/main
+[submodule "pyclarify"]
+	url = https://github.com/conda-forge/pyclarify-feedstock.git
+	path = feedstocks/pyclarify
+	branch = refs/heads/main
