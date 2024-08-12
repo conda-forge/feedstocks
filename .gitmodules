@@ -92218,3 +92218,7 @@
 	url = https://github.com/conda-forge/ipyflow-feedstock.git
 	path = feedstocks/ipyflow
 	branch = refs/heads/main
+[submodule "wat-inspector"]
+	url = https://github.com/conda-forge/wat-inspector-feedstock.git
+	path = feedstocks/wat-inspector
+	branch = refs/heads/main
