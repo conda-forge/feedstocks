@@ -92250,3 +92250,7 @@
 	url = https://github.com/conda-forge/r-attachment-feedstock.git
 	path = feedstocks/r-attachment
 	branch = refs/heads/main
+[submodule "jolt-physics"]
+	url = https://github.com/conda-forge/jolt-physics-feedstock.git
+	path = feedstocks/jolt-physics
+	branch = refs/heads/main
