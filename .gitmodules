@@ -92242,3 +92242,7 @@
 	url = https://github.com/conda-forge/bootstrap-flask-feedstock.git
 	path = feedstocks/bootstrap-flask
 	branch = refs/heads/main
+[submodule "libglvnd"]
+	url = https://github.com/conda-forge/libglvnd-feedstock.git
+	path = feedstocks/libglvnd
+	branch = refs/heads/main
