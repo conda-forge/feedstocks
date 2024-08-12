@@ -92222,3 +92222,7 @@
 	url = https://github.com/conda-forge/wat-inspector-feedstock.git
 	path = feedstocks/wat-inspector
 	branch = refs/heads/main
+[submodule "aurora-ssg"]
+	url = https://github.com/conda-forge/aurora-ssg-feedstock.git
+	path = feedstocks/aurora-ssg
+	branch = refs/heads/main
