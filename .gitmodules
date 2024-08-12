@@ -92258,3 +92258,7 @@
 	url = https://github.com/conda-forge/ansys-pythonnet-feedstock.git
 	path = feedstocks/ansys-pythonnet
 	branch = refs/heads/main
+[submodule "types-aiobotocore"]
+	url = https://github.com/conda-forge/types-aiobotocore-feedstock.git
+	path = feedstocks/types-aiobotocore
+	branch = refs/heads/main
