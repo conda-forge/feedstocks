@@ -92226,3 +92226,7 @@
 	url = https://github.com/conda-forge/aurora-ssg-feedstock.git
 	path = feedstocks/aurora-ssg
 	branch = refs/heads/main
+[submodule "treescope"]
+	url = https://github.com/conda-forge/treescope-feedstock.git
+	path = feedstocks/treescope
+	branch = refs/heads/main
