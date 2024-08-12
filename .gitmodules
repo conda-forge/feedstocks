@@ -92238,3 +92238,7 @@
 	url = https://github.com/conda-forge/pyclarify-feedstock.git
 	path = feedstocks/pyclarify
 	branch = refs/heads/main
+[submodule "bootstrap-flask"]
+	url = https://github.com/conda-forge/bootstrap-flask-feedstock.git
+	path = feedstocks/bootstrap-flask
+	branch = refs/heads/main
