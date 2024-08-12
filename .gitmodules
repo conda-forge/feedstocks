@@ -92230,3 +92230,7 @@
 	url = https://github.com/conda-forge/treescope-feedstock.git
 	path = feedstocks/treescope
 	branch = refs/heads/main
+[submodule "blasfeo"]
+	url = https://github.com/conda-forge/blasfeo-feedstock.git
+	path = feedstocks/blasfeo
+	branch = refs/heads/main
