@@ -92246,3 +92246,7 @@
 	url = https://github.com/conda-forge/libglvnd-feedstock.git
 	path = feedstocks/libglvnd
 	branch = refs/heads/main
+[submodule "r-attachment"]
+	url = https://github.com/conda-forge/r-attachment-feedstock.git
+	path = feedstocks/r-attachment
+	branch = refs/heads/main
