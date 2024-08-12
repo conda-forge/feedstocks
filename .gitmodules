@@ -92254,3 +92254,7 @@
 	url = https://github.com/conda-forge/jolt-physics-feedstock.git
 	path = feedstocks/jolt-physics
 	branch = refs/heads/main
+[submodule "ansys-pythonnet"]
+	url = https://github.com/conda-forge/ansys-pythonnet-feedstock.git
+	path = feedstocks/ansys-pythonnet
+	branch = refs/heads/main
