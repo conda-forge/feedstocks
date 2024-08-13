@@ -92274,3 +92274,7 @@
 	url = https://github.com/conda-forge/sqlcompyre-feedstock.git
 	path = feedstocks/sqlcompyre
 	branch = refs/heads/main
+[submodule "openmm-hip"]
+	url = https://github.com/conda-forge/openmm-hip-feedstock.git
+	path = feedstocks/openmm-hip
+	branch = refs/heads/main
