@@ -92262,3 +92262,7 @@
 	url = https://github.com/conda-forge/types-aiobotocore-feedstock.git
 	path = feedstocks/types-aiobotocore
 	branch = refs/heads/main
+[submodule "fatrop"]
+	url = https://github.com/conda-forge/fatrop-feedstock.git
+	path = feedstocks/fatrop
+	branch = refs/heads/main
