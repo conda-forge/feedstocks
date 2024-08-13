@@ -92266,3 +92266,7 @@
 	url = https://github.com/conda-forge/fatrop-feedstock.git
 	path = feedstocks/fatrop
 	branch = refs/heads/main
+[submodule "snowflake-ml-python"]
+	url = https://github.com/conda-forge/snowflake-ml-python-feedstock.git
+	path = feedstocks/snowflake-ml-python
+	branch = refs/heads/main
