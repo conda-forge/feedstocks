@@ -92270,3 +92270,7 @@
 	url = https://github.com/conda-forge/snowflake-ml-python-feedstock.git
 	path = feedstocks/snowflake-ml-python
 	branch = refs/heads/main
+[submodule "sqlcompyre"]
+	url = https://github.com/conda-forge/sqlcompyre-feedstock.git
+	path = feedstocks/sqlcompyre
+	branch = refs/heads/main
