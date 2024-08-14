@@ -92278,3 +92278,7 @@
 	url = https://github.com/conda-forge/openmm-hip-feedstock.git
 	path = feedstocks/openmm-hip
 	branch = refs/heads/main
+[submodule "r-rathena"]
+	url = https://github.com/conda-forge/r-rathena-feedstock.git
+	path = feedstocks/r-rathena
+	branch = refs/heads/main
