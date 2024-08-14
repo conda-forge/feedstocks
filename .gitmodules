@@ -92282,3 +92282,7 @@
 	url = https://github.com/conda-forge/r-rathena-feedstock.git
 	path = feedstocks/r-rathena
 	branch = refs/heads/main
+[submodule "r-lightparser"]
+	url = https://github.com/conda-forge/r-lightparser-feedstock.git
+	path = feedstocks/r-lightparser
+	branch = refs/heads/main
