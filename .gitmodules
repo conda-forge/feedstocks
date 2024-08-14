@@ -92286,3 +92286,7 @@
 	url = https://github.com/conda-forge/r-lightparser-feedstock.git
 	path = feedstocks/r-lightparser
 	branch = refs/heads/main
+[submodule "rapidminer"]
+	url = https://github.com/conda-forge/rapidminer-feedstock.git
+	path = feedstocks/rapidminer
+	branch = refs/heads/main
