@@ -92290,3 +92290,7 @@
 	url = https://github.com/conda-forge/rapidminer-feedstock.git
 	path = feedstocks/rapidminer
 	branch = refs/heads/main
+[submodule "arcx"]
+	url = https://github.com/conda-forge/arcx-feedstock.git
+	path = feedstocks/arcx
+	branch = refs/heads/main
