@@ -92294,3 +92294,7 @@
 	url = https://github.com/conda-forge/arcx-feedstock.git
 	path = feedstocks/arcx
 	branch = refs/heads/main
+[submodule "qpmpc"]
+	url = https://github.com/conda-forge/qpmpc-feedstock.git
+	path = feedstocks/qpmpc
+	branch = refs/heads/main
