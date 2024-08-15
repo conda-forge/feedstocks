@@ -92310,3 +92310,7 @@
 	url = https://github.com/conda-forge/aioquic-feedstock.git
 	path = feedstocks/aioquic
 	branch = refs/heads/main
+[submodule "dataclasses-avroschema"]
+	url = https://github.com/conda-forge/dataclasses-avroschema-feedstock.git
+	path = feedstocks/dataclasses-avroschema
+	branch = refs/heads/main
