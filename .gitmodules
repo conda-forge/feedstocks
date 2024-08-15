@@ -92306,3 +92306,7 @@
 	url = https://github.com/conda-forge/mdonatello-feedstock.git
 	path = feedstocks/mdonatello
 	branch = refs/heads/main
+[submodule "aioquic"]
+	url = https://github.com/conda-forge/aioquic-feedstock.git
+	path = feedstocks/aioquic
+	branch = refs/heads/main
