@@ -92302,3 +92302,7 @@
 	url = https://github.com/conda-forge/python-syringe-pump-feedstock.git
 	path = feedstocks/python-syringe-pump
 	branch = refs/heads/main
+[submodule "mdonatello"]
+	url = https://github.com/conda-forge/mdonatello-feedstock.git
+	path = feedstocks/mdonatello
+	branch = refs/heads/main
