@@ -92314,3 +92314,7 @@
 	url = https://github.com/conda-forge/dataclasses-avroschema-feedstock.git
 	path = feedstocks/dataclasses-avroschema
 	branch = refs/heads/main
+[submodule "socketify"]
+	url = https://github.com/conda-forge/socketify-feedstock.git
+	path = feedstocks/socketify
+	branch = refs/heads/main
