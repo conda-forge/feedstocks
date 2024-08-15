@@ -92298,3 +92298,7 @@
 	url = https://github.com/conda-forge/qpmpc-feedstock.git
 	path = feedstocks/qpmpc
 	branch = refs/heads/main
+[submodule "python-syringe-pump"]
+	url = https://github.com/conda-forge/python-syringe-pump-feedstock.git
+	path = feedstocks/python-syringe-pump
+	branch = refs/heads/main
