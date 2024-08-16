@@ -92326,3 +92326,7 @@
 	url = https://github.com/conda-forge/mpdecimal-feedstock.git
 	path = feedstocks/mpdecimal
 	branch = refs/heads/main
+[submodule "r-cftime"]
+	url = https://github.com/conda-forge/r-cftime-feedstock.git
+	path = feedstocks/r-cftime
+	branch = refs/heads/main
