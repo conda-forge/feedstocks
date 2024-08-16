@@ -92322,3 +92322,7 @@
 	url = https://github.com/conda-forge/fastcan-feedstock.git
 	path = feedstocks/fastcan
 	branch = refs/heads/main
+[submodule "mpdecimal"]
+	url = https://github.com/conda-forge/mpdecimal-feedstock.git
+	path = feedstocks/mpdecimal
+	branch = refs/heads/main
