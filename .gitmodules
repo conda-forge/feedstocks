@@ -92318,3 +92318,7 @@
 	url = https://github.com/conda-forge/socketify-feedstock.git
 	path = feedstocks/socketify
 	branch = refs/heads/main
+[submodule "fastcan"]
+	url = https://github.com/conda-forge/fastcan-feedstock.git
+	path = feedstocks/fastcan
+	branch = refs/heads/main
