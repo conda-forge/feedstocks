@@ -92330,3 +92330,7 @@
 	url = https://github.com/conda-forge/r-cftime-feedstock.git
 	path = feedstocks/r-cftime
 	branch = refs/heads/main
+[submodule "pvmail"]
+	url = https://github.com/conda-forge/pvmail-feedstock.git
+	path = feedstocks/pvmail
+	branch = refs/heads/main
