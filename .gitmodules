@@ -92334,3 +92334,7 @@
 	url = https://github.com/conda-forge/pvmail-feedstock.git
 	path = feedstocks/pvmail
 	branch = refs/heads/main
+[submodule "llama-index-legacy"]
+	url = https://github.com/conda-forge/llama-index-legacy-feedstock.git
+	path = feedstocks/llama-index-legacy
+	branch = refs/heads/main
