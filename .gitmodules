@@ -92338,3 +92338,7 @@
 	url = https://github.com/conda-forge/llama-index-legacy-feedstock.git
 	path = feedstocks/llama-index-legacy
 	branch = refs/heads/main
+[submodule "deltadb"]
+	url = https://github.com/conda-forge/deltadb-feedstock.git
+	path = feedstocks/deltadb
+	branch = refs/heads/main
