@@ -92378,3 +92378,7 @@
 	url = https://github.com/conda-forge/golangci-lint-langserver-feedstock.git
 	path = feedstocks/golangci-lint-langserver
 	branch = refs/heads/main
+[submodule "staticcheck"]
+	url = https://github.com/conda-forge/staticcheck-feedstock.git
+	path = feedstocks/staticcheck
+	branch = refs/heads/main
