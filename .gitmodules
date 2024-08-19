@@ -92366,3 +92366,7 @@
 	url = https://github.com/conda-forge/jupyter-templates-feedstock.git
 	path = feedstocks/jupyter-templates
 	branch = refs/heads/main
+[submodule "libtoolbox"]
+	url = https://github.com/conda-forge/libtoolbox-feedstock.git
+	path = feedstocks/libtoolbox
+	branch = refs/heads/main
