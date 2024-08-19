@@ -92362,3 +92362,7 @@
 	url = https://github.com/conda-forge/moonrepo-moon-feedstock.git
 	path = feedstocks/moonrepo-moon
 	branch = refs/heads/main
+[submodule "jupyter-templates"]
+	url = https://github.com/conda-forge/jupyter-templates-feedstock.git
+	path = feedstocks/jupyter-templates
+	branch = refs/heads/main
