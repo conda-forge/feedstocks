@@ -92394,3 +92394,7 @@
 	url = https://github.com/conda-forge/gopls-feedstock.git
 	path = feedstocks/gopls
 	branch = refs/heads/main
+[submodule "golangci-lint"]
+	url = https://github.com/conda-forge/golangci-lint-feedstock.git
+	path = feedstocks/golangci-lint
+	branch = refs/heads/main
