@@ -92354,3 +92354,7 @@
 	url = https://github.com/conda-forge/h5pywrappers-feedstock.git
 	path = feedstocks/h5pywrappers
 	branch = refs/heads/main
+[submodule "emval"]
+	url = https://github.com/conda-forge/emval-feedstock.git
+	path = feedstocks/emval
+	branch = refs/heads/main
