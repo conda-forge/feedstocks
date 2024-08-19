@@ -92382,3 +92382,7 @@
 	url = https://github.com/conda-forge/staticcheck-feedstock.git
 	path = feedstocks/staticcheck
 	branch = refs/heads/main
+[submodule "revive"]
+	url = https://github.com/conda-forge/revive-feedstock.git
+	path = feedstocks/revive
+	branch = refs/heads/main
