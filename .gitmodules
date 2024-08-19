@@ -92374,3 +92374,7 @@
 	url = https://github.com/conda-forge/qsv-feedstock.git
 	path = feedstocks/qsv
 	branch = refs/heads/main
+[submodule "golangci-lint-langserver"]
+	url = https://github.com/conda-forge/golangci-lint-langserver-feedstock.git
+	path = feedstocks/golangci-lint-langserver
+	branch = refs/heads/main
