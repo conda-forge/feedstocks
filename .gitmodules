@@ -92450,3 +92450,7 @@
 	url = https://github.com/conda-forge/pygubu-feedstock.git
 	path = feedstocks/pygubu
 	branch = refs/heads/main
+[submodule "myst-sphinx-gallery"]
+	url = https://github.com/conda-forge/myst-sphinx-gallery-feedstock.git
+	path = feedstocks/myst-sphinx-gallery
+	branch = refs/heads/main
