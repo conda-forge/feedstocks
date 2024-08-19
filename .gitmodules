@@ -92422,3 +92422,7 @@
 	url = https://github.com/conda-forge/golines-feedstock.git
 	path = feedstocks/golines
 	branch = refs/heads/main
+[submodule "openmmdl"]
+	url = https://github.com/conda-forge/openmmdl-feedstock.git
+	path = feedstocks/openmmdl
+	branch = refs/heads/main
