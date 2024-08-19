@@ -92402,3 +92402,7 @@
 	url = https://github.com/conda-forge/gomodifytags-feedstock.git
 	path = feedstocks/gomodifytags
 	branch = refs/heads/main
+[submodule "impl"]
+	url = https://github.com/conda-forge/impl-feedstock.git
+	path = feedstocks/impl
+	branch = refs/heads/main
