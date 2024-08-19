@@ -92430,3 +92430,7 @@
 	url = https://github.com/conda-forge/openpisco-split-feedstock.git
 	path = feedstocks/openpisco-split
 	branch = refs/heads/main
+[submodule "poselib"]
+	url = https://github.com/conda-forge/poselib-feedstock.git
+	path = feedstocks/poselib
+	branch = refs/heads/main
