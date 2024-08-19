@@ -92390,3 +92390,7 @@
 	url = https://github.com/conda-forge/gofumpt-feedstock.git
 	path = feedstocks/gofumpt
 	branch = refs/heads/main
+[submodule "gopls"]
+	url = https://github.com/conda-forge/gopls-feedstock.git
+	path = feedstocks/gopls
+	branch = refs/heads/main
