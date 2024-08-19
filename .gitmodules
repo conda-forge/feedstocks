@@ -92386,3 +92386,7 @@
 	url = https://github.com/conda-forge/revive-feedstock.git
 	path = feedstocks/revive
 	branch = refs/heads/main
+[submodule "gofumpt"]
+	url = https://github.com/conda-forge/gofumpt-feedstock.git
+	path = feedstocks/gofumpt
+	branch = refs/heads/main
