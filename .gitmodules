@@ -92406,3 +92406,7 @@
 	url = https://github.com/conda-forge/impl-feedstock.git
 	path = feedstocks/impl
 	branch = refs/heads/main
+[submodule "goimports-reviser"]
+	url = https://github.com/conda-forge/goimports-reviser-feedstock.git
+	path = feedstocks/goimports-reviser
+	branch = refs/heads/main
