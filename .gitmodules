@@ -92358,3 +92358,7 @@
 	url = https://github.com/conda-forge/emval-feedstock.git
 	path = feedstocks/emval
 	branch = refs/heads/main
+[submodule "moonrepo-moon"]
+	url = https://github.com/conda-forge/moonrepo-moon-feedstock.git
+	path = feedstocks/moonrepo-moon
+	branch = refs/heads/main
