@@ -92442,3 +92442,7 @@
 	url = https://github.com/conda-forge/fcgi2-feedstock.git
 	path = feedstocks/fcgi2
 	branch = refs/heads/main
+[submodule "jsa_data_manager"]
+	url = https://github.com/conda-forge/jsa_data_manager-feedstock.git
+	path = feedstocks/jsa_data_manager
+	branch = refs/heads/main
