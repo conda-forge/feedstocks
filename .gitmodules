@@ -92346,3 +92346,7 @@
 	url = https://github.com/conda-forge/nodimo-feedstock.git
 	path = feedstocks/nodimo
 	branch = refs/heads/main
+[submodule "vasprun-xml"]
+	url = https://github.com/conda-forge/vasprun-xml-feedstock.git
+	path = feedstocks/vasprun-xml
+	branch = refs/heads/main
