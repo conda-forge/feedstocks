@@ -92410,3 +92410,7 @@
 	url = https://github.com/conda-forge/goimports-reviser-feedstock.git
 	path = feedstocks/goimports-reviser
 	branch = refs/heads/main
+[submodule "delve"]
+	url = https://github.com/conda-forge/delve-feedstock.git
+	path = feedstocks/delve
+	branch = refs/heads/main
