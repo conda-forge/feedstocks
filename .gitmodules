@@ -92418,3 +92418,7 @@
 	url = https://github.com/conda-forge/godoctor-feedstock.git
 	path = feedstocks/godoctor
 	branch = refs/heads/main
+[submodule "golines"]
+	url = https://github.com/conda-forge/golines-feedstock.git
+	path = feedstocks/golines
+	branch = refs/heads/main
