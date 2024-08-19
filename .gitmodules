@@ -92426,3 +92426,7 @@
 	url = https://github.com/conda-forge/openmmdl-feedstock.git
 	path = feedstocks/openmmdl
 	branch = refs/heads/main
+[submodule "openpisco-split"]
+	url = https://github.com/conda-forge/openpisco-split-feedstock.git
+	path = feedstocks/openpisco-split
+	branch = refs/heads/main
