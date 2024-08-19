@@ -92370,3 +92370,7 @@
 	url = https://github.com/conda-forge/libtoolbox-feedstock.git
 	path = feedstocks/libtoolbox
 	branch = refs/heads/main
+[submodule "qsv"]
+	url = https://github.com/conda-forge/qsv-feedstock.git
+	path = feedstocks/qsv
+	branch = refs/heads/main
