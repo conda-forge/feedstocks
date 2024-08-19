@@ -92414,3 +92414,7 @@
 	url = https://github.com/conda-forge/delve-feedstock.git
 	path = feedstocks/delve
 	branch = refs/heads/main
+[submodule "godoctor"]
+	url = https://github.com/conda-forge/godoctor-feedstock.git
+	path = feedstocks/godoctor
+	branch = refs/heads/main
