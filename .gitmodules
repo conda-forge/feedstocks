@@ -92446,3 +92446,7 @@
 	url = https://github.com/conda-forge/jsa_data_manager-feedstock.git
 	path = feedstocks/jsa_data_manager
 	branch = refs/heads/main
+[submodule "pygubu"]
+	url = https://github.com/conda-forge/pygubu-feedstock.git
+	path = feedstocks/pygubu
+	branch = refs/heads/main
