@@ -92350,3 +92350,7 @@
 	url = https://github.com/conda-forge/vasprun-xml-feedstock.git
 	path = feedstocks/vasprun-xml
 	branch = refs/heads/main
+[submodule "h5pywrappers"]
+	url = https://github.com/conda-forge/h5pywrappers-feedstock.git
+	path = feedstocks/h5pywrappers
+	branch = refs/heads/main
