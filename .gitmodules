@@ -92398,3 +92398,7 @@
 	url = https://github.com/conda-forge/golangci-lint-feedstock.git
 	path = feedstocks/golangci-lint
 	branch = refs/heads/main
+[submodule "gomodifytags"]
+	url = https://github.com/conda-forge/gomodifytags-feedstock.git
+	path = feedstocks/gomodifytags
+	branch = refs/heads/main
