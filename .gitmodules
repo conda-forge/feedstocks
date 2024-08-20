@@ -92458,3 +92458,7 @@
 	url = https://github.com/conda-forge/docopt-ng-feedstock.git
 	path = feedstocks/docopt-ng
 	branch = refs/heads/main
+[submodule "gps-timemachine"]
+	url = https://github.com/conda-forge/gps-timemachine-feedstock.git
+	path = feedstocks/gps-timemachine
+	branch = refs/heads/main
