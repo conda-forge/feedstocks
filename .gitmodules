@@ -92470,3 +92470,7 @@
 	url = https://github.com/conda-forge/vectorbt-feedstock.git
 	path = feedstocks/vectorbt
 	branch = refs/heads/main
+[submodule "metronomes"]
+	url = https://github.com/conda-forge/metronomes-feedstock.git
+	path = feedstocks/metronomes
+	branch = refs/heads/main
