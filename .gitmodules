@@ -92454,3 +92454,7 @@
 	url = https://github.com/conda-forge/myst-sphinx-gallery-feedstock.git
 	path = feedstocks/myst-sphinx-gallery
 	branch = refs/heads/main
+[submodule "docopt-ng"]
+	url = https://github.com/conda-forge/docopt-ng-feedstock.git
+	path = feedstocks/docopt-ng
+	branch = refs/heads/main
