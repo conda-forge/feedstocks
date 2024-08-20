@@ -92466,3 +92466,7 @@
 	url = https://github.com/conda-forge/ragged-feedstock.git
 	path = feedstocks/ragged
 	branch = refs/heads/main
+[submodule "vectorbt"]
+	url = https://github.com/conda-forge/vectorbt-feedstock.git
+	path = feedstocks/vectorbt
+	branch = refs/heads/main
