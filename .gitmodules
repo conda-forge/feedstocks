@@ -92506,3 +92506,7 @@
 	url = https://github.com/conda-forge/r-sfd-feedstock.git
 	path = feedstocks/r-sfd
 	branch = refs/heads/main
+[submodule "qubovert"]
+	url = https://github.com/conda-forge/qubovert-feedstock.git
+	path = feedstocks/qubovert
+	branch = refs/heads/main
