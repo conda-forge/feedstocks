@@ -92554,3 +92554,7 @@
 	url = https://github.com/conda-forge/zellij-feedstock.git
 	path = feedstocks/zellij
 	branch = refs/heads/main
+[submodule "glow-md"]
+	url = https://github.com/conda-forge/glow-md-feedstock.git
+	path = feedstocks/glow-md
+	branch = refs/heads/main
