@@ -92546,3 +92546,7 @@
 	url = https://github.com/conda-forge/prql-compiler-feedstock.git
 	path = feedstocks/prql-compiler
 	branch = refs/heads/main
+[submodule "gojq"]
+	url = https://github.com/conda-forge/gojq-feedstock.git
+	path = feedstocks/gojq
+	branch = refs/heads/main
