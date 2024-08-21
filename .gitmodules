@@ -92570,3 +92570,7 @@
 	url = https://github.com/conda-forge/chezmoi-feedstock.git
 	path = feedstocks/chezmoi
 	branch = refs/heads/main
+[submodule "csvq"]
+	url = https://github.com/conda-forge/csvq-feedstock.git
+	path = feedstocks/csvq
+	branch = refs/heads/main
