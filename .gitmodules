@@ -92494,3 +92494,7 @@
 	url = https://github.com/conda-forge/marsilea-feedstock.git
 	path = feedstocks/marsilea
 	branch = refs/heads/main
+[submodule "qpax"]
+	url = https://github.com/conda-forge/qpax-feedstock.git
+	path = feedstocks/qpax
+	branch = refs/heads/main
