@@ -92538,3 +92538,7 @@
 	url = https://github.com/conda-forge/jaq-feedstock.git
 	path = feedstocks/jaq
 	branch = refs/heads/main
+[submodule "prosemd-lsp"]
+	url = https://github.com/conda-forge/prosemd-lsp-feedstock.git
+	path = feedstocks/prosemd-lsp
+	branch = refs/heads/main
