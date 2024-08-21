@@ -92510,3 +92510,7 @@
 	url = https://github.com/conda-forge/qubovert-feedstock.git
 	path = feedstocks/qubovert
 	branch = refs/heads/main
+[submodule "caf.distribute"]
+	url = https://github.com/conda-forge/caf.distribute-feedstock.git
+	path = feedstocks/caf.distribute
+	branch = refs/heads/main
