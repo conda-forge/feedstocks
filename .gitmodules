@@ -92542,3 +92542,7 @@
 	url = https://github.com/conda-forge/prosemd-lsp-feedstock.git
 	path = feedstocks/prosemd-lsp
 	branch = refs/heads/main
+[submodule "prql-compiler"]
+	url = https://github.com/conda-forge/prql-compiler-feedstock.git
+	path = feedstocks/prql-compiler
+	branch = refs/heads/main
