@@ -92566,3 +92566,7 @@
 	url = https://github.com/conda-forge/mdslw-feedstock.git
 	path = feedstocks/mdslw
 	branch = refs/heads/main
+[submodule "chezmoi"]
+	url = https://github.com/conda-forge/chezmoi-feedstock.git
+	path = feedstocks/chezmoi
+	branch = refs/heads/main
