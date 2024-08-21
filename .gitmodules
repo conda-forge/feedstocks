@@ -92550,3 +92550,7 @@
 	url = https://github.com/conda-forge/gojq-feedstock.git
 	path = feedstocks/gojq
 	branch = refs/heads/main
+[submodule "zellij"]
+	url = https://github.com/conda-forge/zellij-feedstock.git
+	path = feedstocks/zellij
+	branch = refs/heads/main
