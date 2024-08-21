@@ -92486,3 +92486,7 @@
 	url = https://github.com/conda-forge/arro3-core-feedstock.git
 	path = feedstocks/arro3-core
 	branch = refs/heads/main
+[submodule "legendkit"]
+	url = https://github.com/conda-forge/legendkit-feedstock.git
+	path = feedstocks/legendkit
+	branch = refs/heads/main
