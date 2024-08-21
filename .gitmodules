@@ -92526,3 +92526,7 @@
 	url = https://github.com/conda-forge/jql-feedstock.git
 	path = feedstocks/jql
 	branch = refs/heads/main
+[submodule "valkey-server"]
+	url = https://github.com/conda-forge/valkey-server-feedstock.git
+	path = feedstocks/valkey-server
+	branch = refs/heads/main
