@@ -92522,3 +92522,7 @@
 	url = https://github.com/conda-forge/mdcat-feedstock.git
 	path = feedstocks/mdcat
 	branch = refs/heads/main
+[submodule "jql"]
+	url = https://github.com/conda-forge/jql-feedstock.git
+	path = feedstocks/jql
+	branch = refs/heads/main
