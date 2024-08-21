@@ -92474,3 +92474,7 @@
 	url = https://github.com/conda-forge/metronomes-feedstock.git
 	path = feedstocks/metronomes
 	branch = refs/heads/main
+[submodule "notebook-as-pdf"]
+	url = https://github.com/conda-forge/notebook-as-pdf-feedstock.git
+	path = feedstocks/notebook-as-pdf
+	branch = refs/heads/main
