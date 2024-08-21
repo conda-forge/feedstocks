@@ -92482,3 +92482,7 @@
 	url = https://github.com/conda-forge/nsidc-iceflow-feedstock.git
 	path = feedstocks/nsidc-iceflow
 	branch = refs/heads/main
+[submodule "arro3-core"]
+	url = https://github.com/conda-forge/arro3-core-feedstock.git
+	path = feedstocks/arro3-core
+	branch = refs/heads/main
