@@ -92502,3 +92502,7 @@
 	url = https://github.com/conda-forge/ocean-wave-tracing-feedstock.git
 	path = feedstocks/ocean-wave-tracing
 	branch = refs/heads/main
+[submodule "r-sfd"]
+	url = https://github.com/conda-forge/r-sfd-feedstock.git
+	path = feedstocks/r-sfd
+	branch = refs/heads/main
