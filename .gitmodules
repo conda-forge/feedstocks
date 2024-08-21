@@ -92498,3 +92498,7 @@
 	url = https://github.com/conda-forge/qpax-feedstock.git
 	path = feedstocks/qpax
 	branch = refs/heads/main
+[submodule "ocean-wave-tracing"]
+	url = https://github.com/conda-forge/ocean-wave-tracing-feedstock.git
+	path = feedstocks/ocean-wave-tracing
+	branch = refs/heads/main
