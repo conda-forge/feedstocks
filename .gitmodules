@@ -92478,3 +92478,7 @@
 	url = https://github.com/conda-forge/notebook-as-pdf-feedstock.git
 	path = feedstocks/notebook-as-pdf
 	branch = refs/heads/main
+[submodule "nsidc-iceflow"]
+	url = https://github.com/conda-forge/nsidc-iceflow-feedstock.git
+	path = feedstocks/nsidc-iceflow
+	branch = refs/heads/main
