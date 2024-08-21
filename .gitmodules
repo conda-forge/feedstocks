@@ -92530,3 +92530,7 @@
 	url = https://github.com/conda-forge/valkey-server-feedstock.git
 	path = feedstocks/valkey-server
 	branch = refs/heads/main
+[submodule "mdsf"]
+	url = https://github.com/conda-forge/mdsf-feedstock.git
+	path = feedstocks/mdsf
+	branch = refs/heads/main
