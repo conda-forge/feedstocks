@@ -92574,3 +92574,7 @@
 	url = https://github.com/conda-forge/csvq-feedstock.git
 	path = feedstocks/csvq
 	branch = refs/heads/main
+[submodule "biotraj"]
+	url = https://github.com/conda-forge/biotraj-feedstock.git
+	path = feedstocks/biotraj
+	branch = refs/heads/main
