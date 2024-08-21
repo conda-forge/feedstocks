@@ -92518,3 +92518,7 @@
 	url = https://github.com/conda-forge/asciiquarium-feedstock.git
 	path = feedstocks/asciiquarium
 	branch = refs/heads/main
+[submodule "mdcat"]
+	url = https://github.com/conda-forge/mdcat-feedstock.git
+	path = feedstocks/mdcat
+	branch = refs/heads/main
