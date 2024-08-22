@@ -92582,3 +92582,7 @@
 	url = https://github.com/conda-forge/plotpy-feedstock.git
 	path = feedstocks/plotpy
 	branch = refs/heads/main
+[submodule "pmtiles"]
+	url = https://github.com/conda-forge/pmtiles-feedstock.git
+	path = feedstocks/pmtiles
+	branch = refs/heads/main
