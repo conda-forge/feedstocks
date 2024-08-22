@@ -92578,3 +92578,7 @@
 	url = https://github.com/conda-forge/biotraj-feedstock.git
 	path = feedstocks/biotraj
 	branch = refs/heads/main
+[submodule "plotpy"]
+	url = https://github.com/conda-forge/plotpy-feedstock.git
+	path = feedstocks/plotpy
+	branch = refs/heads/main
