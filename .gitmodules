@@ -92598,3 +92598,7 @@
 	url = https://github.com/conda-forge/datalab-feedstock.git
 	path = feedstocks/datalab
 	branch = refs/heads/main
+[submodule "cptec-sazonal"]
+	url = https://github.com/conda-forge/cptec-sazonal-feedstock.git
+	path = feedstocks/cptec-sazonal
+	branch = refs/heads/main
