@@ -92594,3 +92594,7 @@
 	url = https://github.com/conda-forge/litserve-feedstock.git
 	path = feedstocks/litserve
 	branch = refs/heads/main
+[submodule "datalab"]
+	url = https://github.com/conda-forge/datalab-feedstock.git
+	path = feedstocks/datalab
+	branch = refs/heads/main
