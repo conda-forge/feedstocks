@@ -92602,3 +92602,7 @@
 	url = https://github.com/conda-forge/cptec-sazonal-feedstock.git
 	path = feedstocks/cptec-sazonal
 	branch = refs/heads/main
+[submodule "optimagic"]
+	url = https://github.com/conda-forge/optimagic-feedstock.git
+	path = feedstocks/optimagic
+	branch = refs/heads/main
