@@ -92610,3 +92610,7 @@
 	url = https://github.com/conda-forge/foundry-dev-tools-transforms-feedstock.git
 	path = feedstocks/foundry-dev-tools-transforms
 	branch = refs/heads/main
+[submodule "datalabsimpleclient"]
+	url = https://github.com/conda-forge/datalabsimpleclient-feedstock.git
+	path = feedstocks/datalabsimpleclient
+	branch = refs/heads/main
