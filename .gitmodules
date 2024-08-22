@@ -92590,3 +92590,7 @@
 	url = https://github.com/conda-forge/gitlab-ci-ls-feedstock.git
 	path = feedstocks/gitlab-ci-ls
 	branch = refs/heads/main
+[submodule "litserve"]
+	url = https://github.com/conda-forge/litserve-feedstock.git
+	path = feedstocks/litserve
+	branch = refs/heads/main
