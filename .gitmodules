@@ -92606,3 +92606,7 @@
 	url = https://github.com/conda-forge/optimagic-feedstock.git
 	path = feedstocks/optimagic
 	branch = refs/heads/main
+[submodule "foundry-dev-tools-transforms"]
+	url = https://github.com/conda-forge/foundry-dev-tools-transforms-feedstock.git
+	path = feedstocks/foundry-dev-tools-transforms
+	branch = refs/heads/main
