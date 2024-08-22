@@ -92586,3 +92586,7 @@
 	url = https://github.com/conda-forge/pmtiles-feedstock.git
 	path = feedstocks/pmtiles
 	branch = refs/heads/main
+[submodule "gitlab-ci-ls"]
+	url = https://github.com/conda-forge/gitlab-ci-ls-feedstock.git
+	path = feedstocks/gitlab-ci-ls
+	branch = refs/heads/main
