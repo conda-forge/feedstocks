@@ -92642,3 +92642,7 @@
 	url = https://github.com/conda-forge/r-mwcsr-feedstock.git
 	path = feedstocks/r-mwcsr
 	branch = refs/heads/main
+[submodule "r-microbiomestat"]
+	url = https://github.com/conda-forge/r-microbiomestat-feedstock.git
+	path = feedstocks/r-microbiomestat
+	branch = refs/heads/main
