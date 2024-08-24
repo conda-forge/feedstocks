@@ -92634,3 +92634,7 @@
 	url = https://github.com/conda-forge/r-rbeta2009-feedstock.git
 	path = feedstocks/r-rbeta2009
 	branch = refs/heads/main
+[submodule "r-gggenomes"]
+	url = https://github.com/conda-forge/r-gggenomes-feedstock.git
+	path = feedstocks/r-gggenomes
+	branch = refs/heads/main
