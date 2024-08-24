@@ -92622,3 +92622,7 @@
 	url = https://github.com/conda-forge/mednet-feedstock.git
 	path = feedstocks/mednet
 	branch = refs/heads/main
+[submodule "r-shinycyjs"]
+	url = https://github.com/conda-forge/r-shinycyjs-feedstock.git
+	path = feedstocks/r-shinycyjs
+	branch = refs/heads/main
