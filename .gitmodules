@@ -92618,3 +92618,7 @@
 	url = https://github.com/conda-forge/r-truncexpfam-feedstock.git
 	path = feedstocks/r-truncexpfam
 	branch = refs/heads/main
+[submodule "mednet"]
+	url = https://github.com/conda-forge/mednet-feedstock.git
+	path = feedstocks/mednet
+	branch = refs/heads/main
