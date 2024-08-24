@@ -92646,3 +92646,7 @@
 	url = https://github.com/conda-forge/r-microbiomestat-feedstock.git
 	path = feedstocks/r-microbiomestat
 	branch = refs/heads/main
+[submodule "r-tidydr"]
+	url = https://github.com/conda-forge/r-tidydr-feedstock.git
+	path = feedstocks/r-tidydr
+	branch = refs/heads/main
