@@ -92650,3 +92650,7 @@
 	url = https://github.com/conda-forge/r-tidydr-feedstock.git
 	path = feedstocks/r-tidydr
 	branch = refs/heads/main
+[submodule "r-mashr"]
+	url = https://github.com/conda-forge/r-mashr-feedstock.git
+	path = feedstocks/r-mashr
+	branch = refs/heads/main
