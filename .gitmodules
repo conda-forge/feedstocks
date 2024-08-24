@@ -92638,3 +92638,7 @@
 	url = https://github.com/conda-forge/r-gggenomes-feedstock.git
 	path = feedstocks/r-gggenomes
 	branch = refs/heads/main
+[submodule "r-mwcsr"]
+	url = https://github.com/conda-forge/r-mwcsr-feedstock.git
+	path = feedstocks/r-mwcsr
+	branch = refs/heads/main
