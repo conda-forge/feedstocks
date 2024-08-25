@@ -92662,3 +92662,7 @@
 	url = https://github.com/conda-forge/pychooch-feedstock.git
 	path = feedstocks/pychooch
 	branch = refs/heads/main
+[submodule "chooch"]
+	url = https://github.com/conda-forge/chooch-feedstock.git
+	path = feedstocks/chooch
+	branch = refs/heads/main
