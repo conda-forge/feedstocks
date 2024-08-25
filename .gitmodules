@@ -92658,3 +92658,7 @@
 	url = https://github.com/conda-forge/r-tca-feedstock.git
 	path = feedstocks/r-tca
 	branch = refs/heads/main
+[submodule "pychooch"]
+	url = https://github.com/conda-forge/pychooch-feedstock.git
+	path = feedstocks/pychooch
+	branch = refs/heads/main
