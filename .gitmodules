@@ -92666,3 +92666,7 @@
 	url = https://github.com/conda-forge/chooch-feedstock.git
 	path = feedstocks/chooch
 	branch = refs/heads/main
+[submodule "numpydantic"]
+	url = https://github.com/conda-forge/numpydantic-feedstock.git
+	path = feedstocks/numpydantic
+	branch = refs/heads/main
