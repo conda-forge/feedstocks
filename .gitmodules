@@ -92686,3 +92686,7 @@
 	url = https://github.com/conda-forge/jupyter-scatter-feedstock.git
 	path = feedstocks/jupyter-scatter
 	branch = refs/heads/main
+[submodule "ansys-mechanical-env"]
+	url = https://github.com/conda-forge/ansys-mechanical-env-feedstock.git
+	path = feedstocks/ansys-mechanical-env
+	branch = refs/heads/main
