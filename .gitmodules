@@ -92678,3 +92678,7 @@
 	url = https://github.com/conda-forge/airflow-supervisor-feedstock.git
 	path = feedstocks/airflow-supervisor
 	branch = refs/heads/main
+[submodule "pydantic-numpy"]
+	url = https://github.com/conda-forge/pydantic-numpy-feedstock.git
+	path = feedstocks/pydantic-numpy
+	branch = refs/heads/main
