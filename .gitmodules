@@ -92690,3 +92690,7 @@
 	url = https://github.com/conda-forge/ansys-mechanical-env-feedstock.git
 	path = feedstocks/ansys-mechanical-env
 	branch = refs/heads/main
+[submodule "gridit"]
+	url = https://github.com/conda-forge/gridit-feedstock.git
+	path = feedstocks/gridit
+	branch = refs/heads/main
