@@ -92670,3 +92670,7 @@
 	url = https://github.com/conda-forge/numpydantic-feedstock.git
 	path = feedstocks/numpydantic
 	branch = refs/heads/main
+[submodule "openinference-instrumentation-haystack"]
+	url = https://github.com/conda-forge/openinference-instrumentation-haystack-feedstock.git
+	path = feedstocks/openinference-instrumentation-haystack
+	branch = refs/heads/main
