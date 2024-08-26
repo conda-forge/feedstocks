@@ -92674,3 +92674,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-haystack-feedstock.git
 	path = feedstocks/openinference-instrumentation-haystack
 	branch = refs/heads/main
+[submodule "airflow-supervisor"]
+	url = https://github.com/conda-forge/airflow-supervisor-feedstock.git
+	path = feedstocks/airflow-supervisor
+	branch = refs/heads/main
