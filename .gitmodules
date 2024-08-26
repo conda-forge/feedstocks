@@ -92682,3 +92682,7 @@
 	url = https://github.com/conda-forge/pydantic-numpy-feedstock.git
 	path = feedstocks/pydantic-numpy
 	branch = refs/heads/main
+[submodule "jupyter-scatter"]
+	url = https://github.com/conda-forge/jupyter-scatter-feedstock.git
+	path = feedstocks/jupyter-scatter
+	branch = refs/heads/main
