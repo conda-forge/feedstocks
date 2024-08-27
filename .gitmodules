@@ -92694,3 +92694,7 @@
 	url = https://github.com/conda-forge/gridit-feedstock.git
 	path = feedstocks/gridit
 	branch = refs/heads/main
+[submodule "microsoft-aurora"]
+	url = https://github.com/conda-forge/microsoft-aurora-feedstock.git
+	path = feedstocks/microsoft-aurora
+	branch = refs/heads/main
