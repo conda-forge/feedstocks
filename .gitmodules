@@ -92702,3 +92702,7 @@
 	url = https://github.com/conda-forge/evermore-feedstock.git
 	path = feedstocks/evermore
 	branch = refs/heads/main
+[submodule "airflow-ha"]
+	url = https://github.com/conda-forge/airflow-ha-feedstock.git
+	path = feedstocks/airflow-ha
+	branch = refs/heads/main
