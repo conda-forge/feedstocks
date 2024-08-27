@@ -92706,3 +92706,7 @@
 	url = https://github.com/conda-forge/airflow-ha-feedstock.git
 	path = feedstocks/airflow-ha
 	branch = refs/heads/main
+[submodule "nabs"]
+	url = https://github.com/conda-forge/nabs-feedstock.git
+	path = feedstocks/nabs
+	branch = refs/heads/main
