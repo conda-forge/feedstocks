@@ -92698,3 +92698,7 @@
 	url = https://github.com/conda-forge/microsoft-aurora-feedstock.git
 	path = feedstocks/microsoft-aurora
 	branch = refs/heads/main
+[submodule "evermore"]
+	url = https://github.com/conda-forge/evermore-feedstock.git
+	path = feedstocks/evermore
+	branch = refs/heads/main
