@@ -92730,3 +92730,7 @@
 	url = https://github.com/conda-forge/displayhooks-feedstock.git
 	path = feedstocks/displayhooks
 	branch = refs/heads/main
+[submodule "hatch-deps-selector"]
+	url = https://github.com/conda-forge/hatch-deps-selector-feedstock.git
+	path = feedstocks/hatch-deps-selector
+	branch = refs/heads/main
