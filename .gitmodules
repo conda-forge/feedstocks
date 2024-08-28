@@ -92722,3 +92722,7 @@
 	url = https://github.com/conda-forge/ocpsvg-feedstock.git
 	path = feedstocks/ocpsvg
 	branch = refs/heads/main
+[submodule "shibuya"]
+	url = https://github.com/conda-forge/shibuya-feedstock.git
+	path = feedstocks/shibuya
+	branch = refs/heads/main
