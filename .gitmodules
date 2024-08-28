@@ -92734,3 +92734,7 @@
 	url = https://github.com/conda-forge/hatch-deps-selector-feedstock.git
 	path = feedstocks/hatch-deps-selector
 	branch = refs/heads/main
+[submodule "crystalpytools"]
+	url = https://github.com/conda-forge/crystalpytools-feedstock.git
+	path = feedstocks/crystalpytools
+	branch = refs/heads/main
