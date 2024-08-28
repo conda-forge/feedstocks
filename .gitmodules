@@ -92726,3 +92726,7 @@
 	url = https://github.com/conda-forge/shibuya-feedstock.git
 	path = feedstocks/shibuya
 	branch = refs/heads/main
+[submodule "displayhooks"]
+	url = https://github.com/conda-forge/displayhooks-feedstock.git
+	path = feedstocks/displayhooks
+	branch = refs/heads/main
