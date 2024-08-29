@@ -92750,3 +92750,7 @@
 	url = https://github.com/conda-forge/kegalign-feedstock.git
 	path = feedstocks/kegalign
 	branch = refs/heads/main
+[submodule "e3sm-tools"]
+	url = https://github.com/conda-forge/e3sm-tools-feedstock.git
+	path = feedstocks/e3sm-tools
+	branch = refs/heads/main
