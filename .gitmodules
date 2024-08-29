@@ -92766,3 +92766,7 @@
 	url = https://github.com/conda-forge/gospel-feedstock.git
 	path = feedstocks/gospel
 	branch = refs/heads/main
+[submodule "dockle"]
+	url = https://github.com/conda-forge/dockle-feedstock.git
+	path = feedstocks/dockle
+	branch = refs/heads/main
