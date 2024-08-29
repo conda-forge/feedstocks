@@ -92762,3 +92762,7 @@
 	url = https://github.com/conda-forge/crowdin-cli-feedstock.git
 	path = feedstocks/crowdin-cli
 	branch = refs/heads/main
+[submodule "gospel"]
+	url = https://github.com/conda-forge/gospel-feedstock.git
+	path = feedstocks/gospel
+	branch = refs/heads/main
