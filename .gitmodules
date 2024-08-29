@@ -92786,3 +92786,7 @@
 	url = https://github.com/conda-forge/astroglue-feedstock.git
 	path = feedstocks/astroglue
 	branch = refs/heads/main
+[submodule "ssubmit"]
+	url = https://github.com/conda-forge/ssubmit-feedstock.git
+	path = feedstocks/ssubmit
+	branch = refs/heads/main
