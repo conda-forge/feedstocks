@@ -92758,3 +92758,7 @@
 	url = https://github.com/conda-forge/e3sm-unified-feedstock.git
 	path = feedstocks/e3sm-unified
 	branch = refs/heads/main
+[submodule "crowdin-cli"]
+	url = https://github.com/conda-forge/crowdin-cli-feedstock.git
+	path = feedstocks/crowdin-cli
+	branch = refs/heads/main
