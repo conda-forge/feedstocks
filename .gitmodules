@@ -92770,3 +92770,7 @@
 	url = https://github.com/conda-forge/dockle-feedstock.git
 	path = feedstocks/dockle
 	branch = refs/heads/main
+[submodule "junit5"]
+	url = https://github.com/conda-forge/junit5-feedstock.git
+	path = feedstocks/junit5
+	branch = refs/heads/main
