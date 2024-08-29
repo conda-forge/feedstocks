@@ -92782,3 +92782,7 @@
 	url = https://github.com/conda-forge/jacoco-feedstock.git
 	path = feedstocks/jacoco
 	branch = refs/heads/main
+[submodule "astroglue"]
+	url = https://github.com/conda-forge/astroglue-feedstock.git
+	path = feedstocks/astroglue
+	branch = refs/heads/main
