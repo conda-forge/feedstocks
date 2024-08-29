@@ -92754,3 +92754,7 @@
 	url = https://github.com/conda-forge/e3sm-tools-feedstock.git
 	path = feedstocks/e3sm-tools
 	branch = refs/heads/main
+[submodule "e3sm-unified"]
+	url = https://github.com/conda-forge/e3sm-unified-feedstock.git
+	path = feedstocks/e3sm-unified
+	branch = refs/heads/main
