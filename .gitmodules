@@ -92794,3 +92794,7 @@
 	url = https://github.com/conda-forge/dydxprotocol-v4-proto-py-feedstock.git
 	path = feedstocks/dydxprotocol-v4-proto-py
 	branch = refs/heads/main
+[submodule "wagtail-plotly"]
+	url = https://github.com/conda-forge/wagtail-plotly-feedstock.git
+	path = feedstocks/wagtail-plotly
+	branch = refs/heads/main
