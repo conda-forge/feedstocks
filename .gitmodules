@@ -92778,3 +92778,7 @@
 	url = https://github.com/conda-forge/harper-feedstock.git
 	path = feedstocks/harper
 	branch = refs/heads/main
+[submodule "jacoco"]
+	url = https://github.com/conda-forge/jacoco-feedstock.git
+	path = feedstocks/jacoco
+	branch = refs/heads/main
