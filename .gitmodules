@@ -92818,3 +92818,7 @@
 	url = https://github.com/conda-forge/r-pre-feedstock.git
 	path = feedstocks/r-pre
 	branch = refs/heads/main
+[submodule "r-icebox"]
+	url = https://github.com/conda-forge/r-icebox-feedstock.git
+	path = feedstocks/r-icebox
+	branch = refs/heads/main
