@@ -92810,3 +92810,7 @@
 	url = https://github.com/conda-forge/r-condvis-feedstock.git
 	path = feedstocks/r-condvis
 	branch = refs/heads/main
+[submodule "r-fusen"]
+	url = https://github.com/conda-forge/r-fusen-feedstock.git
+	path = feedstocks/r-fusen
+	branch = refs/heads/main
