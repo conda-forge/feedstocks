@@ -92826,3 +92826,7 @@
 	url = https://github.com/conda-forge/r-b64-feedstock.git
 	path = feedstocks/r-b64
 	branch = refs/heads/main
+[submodule "grype"]
+	url = https://github.com/conda-forge/grype-feedstock.git
+	path = feedstocks/grype
+	branch = refs/heads/main
