@@ -92802,3 +92802,7 @@
 	url = https://github.com/conda-forge/heffte-feedstock.git
 	path = feedstocks/heffte
 	branch = refs/heads/main
+[submodule "pytorchvideo"]
+	url = https://github.com/conda-forge/pytorchvideo-feedstock.git
+	path = feedstocks/pytorchvideo
+	branch = refs/heads/main
