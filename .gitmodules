@@ -92806,3 +92806,7 @@
 	url = https://github.com/conda-forge/pytorchvideo-feedstock.git
 	path = feedstocks/pytorchvideo
 	branch = refs/heads/main
+[submodule "r-condvis"]
+	url = https://github.com/conda-forge/r-condvis-feedstock.git
+	path = feedstocks/r-condvis
+	branch = refs/heads/main
