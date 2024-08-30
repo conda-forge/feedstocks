@@ -92798,3 +92798,7 @@
 	url = https://github.com/conda-forge/wagtail-plotly-feedstock.git
 	path = feedstocks/wagtail-plotly
 	branch = refs/heads/main
+[submodule "heffte"]
+	url = https://github.com/conda-forge/heffte-feedstock.git
+	path = feedstocks/heffte
+	branch = refs/heads/main
