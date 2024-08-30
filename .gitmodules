@@ -92822,3 +92822,7 @@
 	url = https://github.com/conda-forge/r-icebox-feedstock.git
 	path = feedstocks/r-icebox
 	branch = refs/heads/main
+[submodule "r-b64"]
+	url = https://github.com/conda-forge/r-b64-feedstock.git
+	path = feedstocks/r-b64
+	branch = refs/heads/main
