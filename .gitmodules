@@ -92814,3 +92814,7 @@
 	url = https://github.com/conda-forge/r-fusen-feedstock.git
 	path = feedstocks/r-fusen
 	branch = refs/heads/main
+[submodule "r-pre"]
+	url = https://github.com/conda-forge/r-pre-feedstock.git
+	path = feedstocks/r-pre
+	branch = refs/heads/main
