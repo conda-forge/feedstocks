@@ -92838,3 +92838,7 @@
 	url = https://github.com/conda-forge/biogeme-feedstock.git
 	path = feedstocks/biogeme
 	branch = refs/heads/main
+[submodule "biogeme-optimization"]
+	url = https://github.com/conda-forge/biogeme-optimization-feedstock.git
+	path = feedstocks/biogeme-optimization
+	branch = refs/heads/main
