@@ -92834,3 +92834,7 @@
 	url = https://github.com/conda-forge/glomap-feedstock.git
 	path = feedstocks/glomap
 	branch = refs/heads/main
+[submodule "biogeme"]
+	url = https://github.com/conda-forge/biogeme-feedstock.git
+	path = feedstocks/biogeme
+	branch = refs/heads/main
