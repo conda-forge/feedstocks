@@ -92846,3 +92846,7 @@
 	url = https://github.com/conda-forge/torchscan-feedstock.git
 	path = feedstocks/torchscan
 	branch = refs/heads/main
+[submodule "r-constructive"]
+	url = https://github.com/conda-forge/r-constructive-feedstock.git
+	path = feedstocks/r-constructive
+	branch = refs/heads/main
