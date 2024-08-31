@@ -92842,3 +92842,7 @@
 	url = https://github.com/conda-forge/biogeme-optimization-feedstock.git
 	path = feedstocks/biogeme-optimization
 	branch = refs/heads/main
+[submodule "torchscan"]
+	url = https://github.com/conda-forge/torchscan-feedstock.git
+	path = feedstocks/torchscan
+	branch = refs/heads/main
