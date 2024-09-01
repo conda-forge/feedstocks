@@ -92870,3 +92870,7 @@
 	url = https://github.com/conda-forge/r-functiondepends-feedstock.git
 	path = feedstocks/r-functiondepends
 	branch = refs/heads/main
+[submodule "r-rcompendium"]
+	url = https://github.com/conda-forge/r-rcompendium-feedstock.git
+	path = feedstocks/r-rcompendium
+	branch = refs/heads/main
