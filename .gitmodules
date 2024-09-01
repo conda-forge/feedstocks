@@ -92866,3 +92866,7 @@
 	url = https://github.com/conda-forge/r-oyster-feedstock.git
 	path = feedstocks/r-oyster
 	branch = refs/heads/main
+[submodule "r-functiondepends"]
+	url = https://github.com/conda-forge/r-functiondepends-feedstock.git
+	path = feedstocks/r-functiondepends
+	branch = refs/heads/main
