@@ -92862,3 +92862,7 @@
 	url = https://github.com/conda-forge/r-checkhelper-feedstock.git
 	path = feedstocks/r-checkhelper
 	branch = refs/heads/main
+[submodule "r-oyster"]
+	url = https://github.com/conda-forge/r-oyster-feedstock.git
+	path = feedstocks/r-oyster
+	branch = refs/heads/main
