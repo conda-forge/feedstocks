@@ -92910,3 +92910,7 @@
 	url = https://github.com/conda-forge/csv_trimming-feedstock.git
 	path = feedstocks/csv_trimming
 	branch = refs/heads/main
+[submodule "poltergeist"]
+	url = https://github.com/conda-forge/poltergeist-feedstock.git
+	path = feedstocks/poltergeist
+	branch = refs/heads/main
