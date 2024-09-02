@@ -92874,3 +92874,7 @@
 	url = https://github.com/conda-forge/r-rcompendium-feedstock.git
 	path = feedstocks/r-rcompendium
 	branch = refs/heads/main
+[submodule "collectfasta"]
+	url = https://github.com/conda-forge/collectfasta-feedstock.git
+	path = feedstocks/collectfasta
+	branch = refs/heads/main
