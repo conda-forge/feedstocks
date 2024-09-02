@@ -92934,3 +92934,7 @@
 	url = https://github.com/conda-forge/uvicorn-worker-feedstock.git
 	path = feedstocks/uvicorn-worker
 	branch = refs/heads/main
+[submodule "bibmon"]
+	url = https://github.com/conda-forge/bibmon-feedstock.git
+	path = feedstocks/bibmon
+	branch = refs/heads/main
