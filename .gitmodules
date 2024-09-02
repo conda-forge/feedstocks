@@ -92906,3 +92906,7 @@
 	url = https://github.com/conda-forge/picows-feedstock.git
 	path = feedstocks/picows
 	branch = refs/heads/main
+[submodule "csv_trimming"]
+	url = https://github.com/conda-forge/csv_trimming-feedstock.git
+	path = feedstocks/csv_trimming
+	branch = refs/heads/main
