@@ -92878,3 +92878,7 @@
 	url = https://github.com/conda-forge/collectfasta-feedstock.git
 	path = feedstocks/collectfasta
 	branch = refs/heads/main
+[submodule "pywbt"]
+	url = https://github.com/conda-forge/pywbt-feedstock.git
+	path = feedstocks/pywbt
+	branch = refs/heads/main
