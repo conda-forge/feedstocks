@@ -92922,3 +92922,7 @@
 	url = https://github.com/conda-forge/textual-serve-feedstock.git
 	path = feedstocks/textual-serve
 	branch = refs/heads/main
+[submodule "matcalc"]
+	url = https://github.com/conda-forge/matcalc-feedstock.git
+	path = feedstocks/matcalc
+	branch = refs/heads/main
