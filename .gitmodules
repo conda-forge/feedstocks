@@ -92914,3 +92914,7 @@
 	url = https://github.com/conda-forge/poltergeist-feedstock.git
 	path = feedstocks/poltergeist
 	branch = refs/heads/main
+[submodule "django-cotton"]
+	url = https://github.com/conda-forge/django-cotton-feedstock.git
+	path = feedstocks/django-cotton
+	branch = refs/heads/main
