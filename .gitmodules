@@ -92930,3 +92930,7 @@
 	url = https://github.com/conda-forge/unfoldnd-feedstock.git
 	path = feedstocks/unfoldnd
 	branch = refs/heads/main
+[submodule "uvicorn-worker"]
+	url = https://github.com/conda-forge/uvicorn-worker-feedstock.git
+	path = feedstocks/uvicorn-worker
+	branch = refs/heads/main
