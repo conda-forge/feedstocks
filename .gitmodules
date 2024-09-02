@@ -92882,3 +92882,7 @@
 	url = https://github.com/conda-forge/pywbt-feedstock.git
 	path = feedstocks/pywbt
 	branch = refs/heads/main
+[submodule "django-http-debug"]
+	url = https://github.com/conda-forge/django-http-debug-feedstock.git
+	path = feedstocks/django-http-debug
+	branch = refs/heads/main
