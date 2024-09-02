@@ -92918,3 +92918,7 @@
 	url = https://github.com/conda-forge/django-cotton-feedstock.git
 	path = feedstocks/django-cotton
 	branch = refs/heads/main
+[submodule "textual-serve"]
+	url = https://github.com/conda-forge/textual-serve-feedstock.git
+	path = feedstocks/textual-serve
+	branch = refs/heads/main
