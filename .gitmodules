@@ -92958,3 +92958,7 @@
 	url = https://github.com/conda-forge/keyrings.artifacts-feedstock.git
 	path = feedstocks/keyrings.artifacts
 	branch = refs/heads/main
+[submodule "nested-dask"]
+	url = https://github.com/conda-forge/nested-dask-feedstock.git
+	path = feedstocks/nested-dask
+	branch = refs/heads/main
