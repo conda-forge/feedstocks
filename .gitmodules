@@ -92966,3 +92966,7 @@
 	url = https://github.com/conda-forge/nested-pandas-feedstock.git
 	path = feedstocks/nested-pandas
 	branch = refs/heads/main
+[submodule "amazon-sagemaker-hyperpod"]
+	url = https://github.com/conda-forge/amazon-sagemaker-hyperpod-feedstock.git
+	path = feedstocks/amazon-sagemaker-hyperpod
+	branch = refs/heads/main
