@@ -92954,3 +92954,7 @@
 	url = https://github.com/conda-forge/vulkan-memory-allocator-feedstock.git
 	path = feedstocks/vulkan-memory-allocator
 	branch = refs/heads/main
+[submodule "keyrings.artifacts"]
+	url = https://github.com/conda-forge/keyrings.artifacts-feedstock.git
+	path = feedstocks/keyrings.artifacts
+	branch = refs/heads/main
