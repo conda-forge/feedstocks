@@ -92962,3 +92962,7 @@
 	url = https://github.com/conda-forge/nested-dask-feedstock.git
 	path = feedstocks/nested-dask
 	branch = refs/heads/main
+[submodule "nested-pandas"]
+	url = https://github.com/conda-forge/nested-pandas-feedstock.git
+	path = feedstocks/nested-pandas
+	branch = refs/heads/main
