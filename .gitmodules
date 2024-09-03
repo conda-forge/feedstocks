@@ -92938,3 +92938,7 @@
 	url = https://github.com/conda-forge/bibmon-feedstock.git
 	path = feedstocks/bibmon
 	branch = refs/heads/main
+[submodule "marp-cli"]
+	url = https://github.com/conda-forge/marp-cli-feedstock.git
+	path = feedstocks/marp-cli
+	branch = refs/heads/main
