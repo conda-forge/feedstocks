@@ -92946,3 +92946,7 @@
 	url = https://github.com/conda-forge/cifkit-feedstock.git
 	path = feedstocks/cifkit
 	branch = refs/heads/main
+[submodule "conda-forge-feedstock-ops"]
+	url = https://github.com/conda-forge/conda-forge-feedstock-ops-feedstock.git
+	path = feedstocks/conda-forge-feedstock-ops
+	branch = refs/heads/main
