@@ -92950,3 +92950,7 @@
 	url = https://github.com/conda-forge/conda-forge-feedstock-ops-feedstock.git
 	path = feedstocks/conda-forge-feedstock-ops
 	branch = refs/heads/main
+[submodule "vulkan-memory-allocator"]
+	url = https://github.com/conda-forge/vulkan-memory-allocator-feedstock.git
+	path = feedstocks/vulkan-memory-allocator
+	branch = refs/heads/main
