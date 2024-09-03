@@ -92970,3 +92970,7 @@
 	url = https://github.com/conda-forge/amazon-sagemaker-hyperpod-feedstock.git
 	path = feedstocks/amazon-sagemaker-hyperpod
 	branch = refs/heads/main
+[submodule "ugly_csv_generator"]
+	url = https://github.com/conda-forge/ugly_csv_generator-feedstock.git
+	path = feedstocks/ugly_csv_generator
+	branch = refs/heads/main
