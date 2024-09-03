@@ -92942,3 +92942,7 @@
 	url = https://github.com/conda-forge/marp-cli-feedstock.git
 	path = feedstocks/marp-cli
 	branch = refs/heads/main
+[submodule "cifkit"]
+	url = https://github.com/conda-forge/cifkit-feedstock.git
+	path = feedstocks/cifkit
+	branch = refs/heads/main
