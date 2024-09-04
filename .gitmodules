@@ -93030,3 +93030,7 @@
 	url = https://github.com/conda-forge/beancount-feedstock.git
 	path = feedstocks/beancount
 	branch = refs/heads/main
+[submodule "bregman-learning"]
+	url = https://github.com/conda-forge/bregman-learning-feedstock.git
+	path = feedstocks/bregman-learning
+	branch = refs/heads/main
