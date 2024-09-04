@@ -92982,3 +92982,7 @@
 	url = https://github.com/conda-forge/peccary-feedstock.git
 	path = feedstocks/peccary
 	branch = refs/heads/main
+[submodule "ada-cpp"]
+	url = https://github.com/conda-forge/ada-cpp-feedstock.git
+	path = feedstocks/ada-cpp
+	branch = refs/heads/main
