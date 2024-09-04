@@ -93010,3 +93010,7 @@
 	url = https://github.com/conda-forge/magic-cta-pipe-feedstock.git
 	path = feedstocks/magic-cta-pipe
 	branch = refs/heads/main
+[submodule "cuda-api-wrappers"]
+	url = https://github.com/conda-forge/cuda-api-wrappers-feedstock.git
+	path = feedstocks/cuda-api-wrappers
+	branch = refs/heads/main
