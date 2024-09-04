@@ -93018,3 +93018,7 @@
 	url = https://github.com/conda-forge/geoindex-rs-feedstock.git
 	path = feedstocks/geoindex-rs
 	branch = refs/heads/main
+[submodule "jupyterlite-terminal"]
+	url = https://github.com/conda-forge/jupyterlite-terminal-feedstock.git
+	path = feedstocks/jupyterlite-terminal
+	branch = refs/heads/main
