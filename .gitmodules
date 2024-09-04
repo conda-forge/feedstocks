@@ -93002,3 +93002,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-anthropic-feedstock.git
 	path = feedstocks/openinference-instrumentation-anthropic
 	branch = refs/heads/main
+[submodule "sphinxcontrib-svg2pdfconverter"]
+	url = https://github.com/conda-forge/sphinxcontrib-svg2pdfconverter-feedstock.git
+	path = feedstocks/sphinxcontrib-svg2pdfconverter
+	branch = refs/heads/main
