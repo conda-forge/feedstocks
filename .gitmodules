@@ -92998,3 +92998,7 @@
 	url = https://github.com/conda-forge/pytest-deadfixtures-feedstock.git
 	path = feedstocks/pytest-deadfixtures
 	branch = refs/heads/main
+[submodule "openinference-instrumentation-anthropic"]
+	url = https://github.com/conda-forge/openinference-instrumentation-anthropic-feedstock.git
+	path = feedstocks/openinference-instrumentation-anthropic
+	branch = refs/heads/main
