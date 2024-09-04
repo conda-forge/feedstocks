@@ -92994,3 +92994,7 @@
 	url = https://github.com/conda-forge/antio-feedstock.git
 	path = feedstocks/antio
 	branch = refs/heads/main
+[submodule "pytest-deadfixtures"]
+	url = https://github.com/conda-forge/pytest-deadfixtures-feedstock.git
+	path = feedstocks/pytest-deadfixtures
+	branch = refs/heads/main
