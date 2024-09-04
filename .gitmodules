@@ -92978,3 +92978,7 @@
 	url = https://github.com/conda-forge/kubeseal-feedstock.git
 	path = feedstocks/kubeseal
 	branch = refs/heads/main
+[submodule "peccary"]
+	url = https://github.com/conda-forge/peccary-feedstock.git
+	path = feedstocks/peccary
+	branch = refs/heads/main
