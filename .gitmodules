@@ -93026,3 +93026,7 @@
 	url = https://github.com/conda-forge/trianglesolver-feedstock.git
 	path = feedstocks/trianglesolver
 	branch = refs/heads/main
+[submodule "beancount"]
+	url = https://github.com/conda-forge/beancount-feedstock.git
+	path = feedstocks/beancount
+	branch = refs/heads/main
