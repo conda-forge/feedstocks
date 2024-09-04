@@ -93034,3 +93034,7 @@
 	url = https://github.com/conda-forge/bregman-learning-feedstock.git
 	path = feedstocks/bregman-learning
 	branch = refs/heads/main
+[submodule "torch-simplify"]
+	url = https://github.com/conda-forge/torch-simplify-feedstock.git
+	path = feedstocks/torch-simplify
+	branch = refs/heads/main
