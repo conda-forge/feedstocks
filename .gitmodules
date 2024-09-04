@@ -92974,3 +92974,7 @@
 	url = https://github.com/conda-forge/ugly_csv_generator-feedstock.git
 	path = feedstocks/ugly_csv_generator
 	branch = refs/heads/main
+[submodule "kubeseal"]
+	url = https://github.com/conda-forge/kubeseal-feedstock.git
+	path = feedstocks/kubeseal
+	branch = refs/heads/main
