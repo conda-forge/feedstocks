@@ -93054,3 +93054,7 @@
 	url = https://github.com/conda-forge/r-gsignal-feedstock.git
 	path = feedstocks/r-gsignal
 	branch = refs/heads/main
+[submodule "geoapps-utils"]
+	url = https://github.com/conda-forge/geoapps-utils-feedstock.git
+	path = feedstocks/geoapps-utils
+	branch = refs/heads/main
