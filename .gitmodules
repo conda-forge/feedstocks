@@ -93042,3 +93042,7 @@
 	url = https://github.com/conda-forge/probeinterface-feedstock.git
 	path = feedstocks/probeinterface
 	branch = refs/heads/main
+[submodule "r-deps"]
+	url = https://github.com/conda-forge/r-deps-feedstock.git
+	path = feedstocks/r-deps
+	branch = refs/heads/main
