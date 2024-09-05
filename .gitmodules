@@ -93062,3 +93062,7 @@
 	url = https://github.com/conda-forge/curve-apps-feedstock.git
 	path = feedstocks/curve-apps
 	branch = refs/heads/main
+[submodule "param-sweeps"]
+	url = https://github.com/conda-forge/param-sweeps-feedstock.git
+	path = feedstocks/param-sweeps
+	branch = refs/heads/main
