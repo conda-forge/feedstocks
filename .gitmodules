@@ -93050,3 +93050,7 @@
 	url = https://github.com/conda-forge/spiffe-packages-feedstock.git
 	path = feedstocks/spiffe-packages
 	branch = refs/heads/main
+[submodule "r-gsignal"]
+	url = https://github.com/conda-forge/r-gsignal-feedstock.git
+	path = feedstocks/r-gsignal
+	branch = refs/heads/main
