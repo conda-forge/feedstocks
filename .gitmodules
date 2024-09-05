@@ -93058,3 +93058,7 @@
 	url = https://github.com/conda-forge/geoapps-utils-feedstock.git
 	path = feedstocks/geoapps-utils
 	branch = refs/heads/main
+[submodule "curve-apps"]
+	url = https://github.com/conda-forge/curve-apps-feedstock.git
+	path = feedstocks/curve-apps
+	branch = refs/heads/main
