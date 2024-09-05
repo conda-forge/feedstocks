@@ -93066,3 +93066,7 @@
 	url = https://github.com/conda-forge/param-sweeps-feedstock.git
 	path = feedstocks/param-sweeps
 	branch = refs/heads/main
+[submodule "mira-simpeg"]
+	url = https://github.com/conda-forge/mira-simpeg-feedstock.git
+	path = feedstocks/mira-simpeg
+	branch = refs/heads/main
