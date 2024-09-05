@@ -93070,3 +93070,7 @@
 	url = https://github.com/conda-forge/mira-simpeg-feedstock.git
 	path = feedstocks/mira-simpeg
 	branch = refs/heads/main
+[submodule "octree-creation-app"]
+	url = https://github.com/conda-forge/octree-creation-app-feedstock.git
+	path = feedstocks/octree-creation-app
+	branch = refs/heads/main
