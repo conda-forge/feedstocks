@@ -93086,3 +93086,7 @@
 	url = https://github.com/conda-forge/kwarray-feedstock.git
 	path = feedstocks/kwarray
 	branch = refs/heads/main
+[submodule "pyhyperscattering"]
+	url = https://github.com/conda-forge/pyhyperscattering-feedstock.git
+	path = feedstocks/pyhyperscattering
+	branch = refs/heads/main
