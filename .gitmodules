@@ -93078,3 +93078,7 @@
 	url = https://github.com/conda-forge/scriptconfig-feedstock.git
 	path = feedstocks/scriptconfig
 	branch = refs/heads/main
+[submodule "peak-finder-app"]
+	url = https://github.com/conda-forge/peak-finder-app-feedstock.git
+	path = feedstocks/peak-finder-app
+	branch = refs/heads/main
