@@ -93082,3 +93082,7 @@
 	url = https://github.com/conda-forge/peak-finder-app-feedstock.git
 	path = feedstocks/peak-finder-app
 	branch = refs/heads/main
+[submodule "kwarray"]
+	url = https://github.com/conda-forge/kwarray-feedstock.git
+	path = feedstocks/kwarray
+	branch = refs/heads/main
