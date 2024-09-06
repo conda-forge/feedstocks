@@ -93094,3 +93094,7 @@
 	url = https://github.com/conda-forge/r-correctr-feedstock.git
 	path = feedstocks/r-correctr
 	branch = refs/heads/main
+[submodule "jrnl"]
+	url = https://github.com/conda-forge/jrnl-feedstock.git
+	path = feedstocks/jrnl
+	branch = refs/heads/main
