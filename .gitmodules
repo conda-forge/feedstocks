@@ -93090,3 +93090,7 @@
 	url = https://github.com/conda-forge/pyhyperscattering-feedstock.git
 	path = feedstocks/pyhyperscattering
 	branch = refs/heads/main
+[submodule "r-correctr"]
+	url = https://github.com/conda-forge/r-correctr-feedstock.git
+	path = feedstocks/r-correctr
+	branch = refs/heads/main
