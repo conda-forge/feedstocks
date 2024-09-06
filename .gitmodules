@@ -93102,3 +93102,7 @@
 	url = https://github.com/conda-forge/unionfind-feedstock.git
 	path = feedstocks/unionfind
 	branch = refs/heads/main
+[submodule "spikeinterface"]
+	url = https://github.com/conda-forge/spikeinterface-feedstock.git
+	path = feedstocks/spikeinterface
+	branch = refs/heads/main
