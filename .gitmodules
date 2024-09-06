@@ -93098,3 +93098,7 @@
 	url = https://github.com/conda-forge/jrnl-feedstock.git
 	path = feedstocks/jrnl
 	branch = refs/heads/main
+[submodule "unionfind"]
+	url = https://github.com/conda-forge/unionfind-feedstock.git
+	path = feedstocks/unionfind
+	branch = refs/heads/main
