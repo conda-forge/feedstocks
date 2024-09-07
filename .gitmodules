@@ -93122,3 +93122,7 @@
 	url = https://github.com/conda-forge/fiftyone-brain-feedstock.git
 	path = feedstocks/fiftyone-brain
 	branch = refs/heads/main
+[submodule "voxel51-eta"]
+	url = https://github.com/conda-forge/voxel51-eta-feedstock.git
+	path = feedstocks/voxel51-eta
+	branch = refs/heads/main
