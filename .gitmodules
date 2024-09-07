@@ -93106,3 +93106,7 @@
 	url = https://github.com/conda-forge/spikeinterface-feedstock.git
 	path = feedstocks/spikeinterface
 	branch = refs/heads/main
+[submodule "mambular"]
+	url = https://github.com/conda-forge/mambular-feedstock.git
+	path = feedstocks/mambular
+	branch = refs/heads/main
