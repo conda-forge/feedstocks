@@ -93114,3 +93114,7 @@
 	url = https://github.com/conda-forge/universal-analytics-python3-feedstock.git
 	path = feedstocks/universal-analytics-python3
 	branch = refs/heads/main
+[submodule "fiftyone"]
+	url = https://github.com/conda-forge/fiftyone-feedstock.git
+	path = feedstocks/fiftyone
+	branch = refs/heads/main
