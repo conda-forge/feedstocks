@@ -93118,3 +93118,7 @@
 	url = https://github.com/conda-forge/fiftyone-feedstock.git
 	path = feedstocks/fiftyone
 	branch = refs/heads/main
+[submodule "fiftyone-brain"]
+	url = https://github.com/conda-forge/fiftyone-brain-feedstock.git
+	path = feedstocks/fiftyone-brain
+	branch = refs/heads/main
