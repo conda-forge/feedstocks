@@ -93126,3 +93126,7 @@
 	url = https://github.com/conda-forge/voxel51-eta-feedstock.git
 	path = feedstocks/voxel51-eta
 	branch = refs/heads/main
+[submodule "kwimage"]
+	url = https://github.com/conda-forge/kwimage-feedstock.git
+	path = feedstocks/kwimage
+	branch = refs/heads/main
