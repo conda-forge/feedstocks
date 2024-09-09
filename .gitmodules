@@ -93154,3 +93154,7 @@
 	url = https://github.com/conda-forge/ttags-feedstock.git
 	path = feedstocks/ttags
 	branch = refs/heads/main
+[submodule "code-minimap"]
+	url = https://github.com/conda-forge/code-minimap-feedstock.git
+	path = feedstocks/code-minimap
+	branch = refs/heads/main
