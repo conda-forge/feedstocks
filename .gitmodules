@@ -93130,3 +93130,7 @@
 	url = https://github.com/conda-forge/kwimage-feedstock.git
 	path = feedstocks/kwimage
 	branch = refs/heads/main
+[submodule "flory"]
+	url = https://github.com/conda-forge/flory-feedstock.git
+	path = feedstocks/flory
+	branch = refs/heads/main
