@@ -93170,3 +93170,7 @@
 	url = https://github.com/conda-forge/oh-my-posh-feedstock.git
 	path = feedstocks/oh-my-posh
 	branch = refs/heads/main
+[submodule "murex"]
+	url = https://github.com/conda-forge/murex-feedstock.git
+	path = feedstocks/murex
+	branch = refs/heads/main
