@@ -93150,3 +93150,7 @@
 	url = https://github.com/conda-forge/dprint-feedstock.git
 	path = feedstocks/dprint
 	branch = refs/heads/main
+[submodule "ttags"]
+	url = https://github.com/conda-forge/ttags-feedstock.git
+	path = feedstocks/ttags
+	branch = refs/heads/main
