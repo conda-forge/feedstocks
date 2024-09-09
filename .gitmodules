@@ -93134,3 +93134,7 @@
 	url = https://github.com/conda-forge/flory-feedstock.git
 	path = feedstocks/flory
 	branch = refs/heads/main
+[submodule "sam2"]
+	url = https://github.com/conda-forge/sam2-feedstock.git
+	path = feedstocks/sam2
+	branch = refs/heads/main
