@@ -93138,3 +93138,7 @@
 	url = https://github.com/conda-forge/sam2-feedstock.git
 	path = feedstocks/sam2
 	branch = refs/heads/main
+[submodule "jd"]
+	url = https://github.com/conda-forge/jd-feedstock.git
+	path = feedstocks/jd
+	branch = refs/heads/main
