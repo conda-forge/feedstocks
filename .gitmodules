@@ -93162,3 +93162,7 @@
 	url = https://github.com/conda-forge/oceanumlab-feedstock.git
 	path = feedstocks/oceanumlab
 	branch = refs/heads/main
+[submodule "diffr"]
+	url = https://github.com/conda-forge/diffr-feedstock.git
+	path = feedstocks/diffr
+	branch = refs/heads/main
