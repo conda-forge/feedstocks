@@ -93146,3 +93146,7 @@
 	url = https://github.com/conda-forge/spherely-feedstock.git
 	path = feedstocks/spherely
 	branch = refs/heads/main
+[submodule "dprint"]
+	url = https://github.com/conda-forge/dprint-feedstock.git
+	path = feedstocks/dprint
+	branch = refs/heads/main
