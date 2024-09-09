@@ -93178,3 +93178,7 @@
 	url = https://github.com/conda-forge/elvish-feedstock.git
 	path = feedstocks/elvish
 	branch = refs/heads/main
+[submodule "difftastic"]
+	url = https://github.com/conda-forge/difftastic-feedstock.git
+	path = feedstocks/difftastic
+	branch = refs/heads/main
