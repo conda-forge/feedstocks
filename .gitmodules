@@ -93142,3 +93142,7 @@
 	url = https://github.com/conda-forge/jd-feedstock.git
 	path = feedstocks/jd
 	branch = refs/heads/main
+[submodule "spherely"]
+	url = https://github.com/conda-forge/spherely-feedstock.git
+	path = feedstocks/spherely
+	branch = refs/heads/main
