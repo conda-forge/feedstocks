@@ -93166,3 +93166,7 @@
 	url = https://github.com/conda-forge/diffr-feedstock.git
 	path = feedstocks/diffr
 	branch = refs/heads/main
+[submodule "oh-my-posh"]
+	url = https://github.com/conda-forge/oh-my-posh-feedstock.git
+	path = feedstocks/oh-my-posh
+	branch = refs/heads/main
