@@ -93218,3 +93218,7 @@
 	url = https://github.com/conda-forge/pyocse-feedstock.git
 	path = feedstocks/pyocse
 	branch = refs/heads/main
+[submodule "radarx"]
+	url = https://github.com/conda-forge/radarx-feedstock.git
+	path = feedstocks/radarx
+	branch = refs/heads/main
