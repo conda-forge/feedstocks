@@ -93202,3 +93202,7 @@
 	url = https://github.com/conda-forge/r-parglm-feedstock.git
 	path = feedstocks/r-parglm
 	branch = refs/heads/main
+[submodule "r-ftrading"]
+	url = https://github.com/conda-forge/r-ftrading-feedstock.git
+	path = feedstocks/r-ftrading
+	branch = refs/heads/main
