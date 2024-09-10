@@ -93226,3 +93226,7 @@
 	url = https://github.com/conda-forge/flang-activation-feedstock.git
 	path = feedstocks/flang-activation
 	branch = refs/heads/main
+[submodule "ringtail"]
+	url = https://github.com/conda-forge/ringtail-feedstock.git
+	path = feedstocks/ringtail
+	branch = refs/heads/main
