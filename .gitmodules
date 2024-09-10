@@ -93194,3 +93194,7 @@
 	url = https://github.com/conda-forge/r-symphony-feedstock.git
 	path = feedstocks/r-symphony
 	branch = refs/heads/main
+[submodule "r-roi.plugin.glpk"]
+	url = https://github.com/conda-forge/r-roi.plugin.glpk-feedstock.git
+	path = feedstocks/r-roi.plugin.glpk
+	branch = refs/heads/main
