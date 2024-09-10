@@ -93198,3 +93198,7 @@
 	url = https://github.com/conda-forge/r-roi.plugin.glpk-feedstock.git
 	path = feedstocks/r-roi.plugin.glpk
 	branch = refs/heads/main
+[submodule "r-parglm"]
+	url = https://github.com/conda-forge/r-parglm-feedstock.git
+	path = feedstocks/r-parglm
+	branch = refs/heads/main
