@@ -93210,3 +93210,7 @@
 	url = https://github.com/conda-forge/r-roi.plugin.quadprog-feedstock.git
 	path = feedstocks/r-roi.plugin.quadprog
 	branch = refs/heads/main
+[submodule "vulkan-volk"]
+	url = https://github.com/conda-forge/vulkan-volk-feedstock.git
+	path = feedstocks/vulkan-volk
+	branch = refs/heads/main
