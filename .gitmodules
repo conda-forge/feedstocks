@@ -93214,3 +93214,7 @@
 	url = https://github.com/conda-forge/vulkan-volk-feedstock.git
 	path = feedstocks/vulkan-volk
 	branch = refs/heads/main
+[submodule "pyocse"]
+	url = https://github.com/conda-forge/pyocse-feedstock.git
+	path = feedstocks/pyocse
+	branch = refs/heads/main
