@@ -93250,3 +93250,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-textract-feedstock.git
 	path = feedstocks/mypy-boto3-textract
 	branch = refs/heads/main
+[submodule "xorg-libxxf86dga"]
+	url = https://github.com/conda-forge/xorg-libxxf86dga-feedstock.git
+	path = feedstocks/xorg-libxxf86dga
+	branch = refs/heads/main
