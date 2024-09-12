@@ -93254,3 +93254,7 @@
 	url = https://github.com/conda-forge/xorg-libxxf86dga-feedstock.git
 	path = feedstocks/xorg-libxxf86dga
 	branch = refs/heads/main
+[submodule "parallelbar"]
+	url = https://github.com/conda-forge/parallelbar-feedstock.git
+	path = feedstocks/parallelbar
+	branch = refs/heads/main
