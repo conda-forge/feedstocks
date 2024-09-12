@@ -93262,3 +93262,7 @@
 	url = https://github.com/conda-forge/xorg-libxshmfence-feedstock.git
 	path = feedstocks/xorg-libxshmfence
 	branch = refs/heads/main
+[submodule "xorg-libxv"]
+	url = https://github.com/conda-forge/xorg-libxv-feedstock.git
+	path = feedstocks/xorg-libxv
+	branch = refs/heads/main
