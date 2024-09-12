@@ -93258,3 +93258,7 @@
 	url = https://github.com/conda-forge/parallelbar-feedstock.git
 	path = feedstocks/parallelbar
 	branch = refs/heads/main
+[submodule "xorg-libxshmfence"]
+	url = https://github.com/conda-forge/xorg-libxshmfence-feedstock.git
+	path = feedstocks/xorg-libxshmfence
+	branch = refs/heads/main
