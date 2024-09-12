@@ -93234,3 +93234,7 @@
 	url = https://github.com/conda-forge/mangohud-feedstock.git
 	path = feedstocks/mangohud
 	branch = refs/heads/main
+[submodule "pubtator_loader"]
+	url = https://github.com/conda-forge/pubtator_loader-feedstock.git
+	path = feedstocks/pubtator_loader
+	branch = refs/heads/main
