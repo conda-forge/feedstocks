@@ -93246,3 +93246,7 @@
 	url = https://github.com/conda-forge/fhaviary-feedstock.git
 	path = feedstocks/fhaviary
 	branch = refs/heads/main
+[submodule "mypy-boto3-textract"]
+	url = https://github.com/conda-forge/mypy-boto3-textract-feedstock.git
+	path = feedstocks/mypy-boto3-textract
+	branch = refs/heads/main
