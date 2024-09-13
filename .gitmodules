@@ -93274,3 +93274,7 @@
 	url = https://github.com/conda-forge/surface-water-network-feedstock.git
 	path = feedstocks/surface-water-network
 	branch = refs/heads/main
+[submodule "tantivy"]
+	url = https://github.com/conda-forge/tantivy-feedstock.git
+	path = feedstocks/tantivy
+	branch = refs/heads/main
