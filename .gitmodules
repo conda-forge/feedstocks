@@ -93270,3 +93270,7 @@
 	url = https://github.com/conda-forge/filesendercli-feedstock.git
 	path = feedstocks/filesendercli
 	branch = refs/heads/main
+[submodule "surface-water-network"]
+	url = https://github.com/conda-forge/surface-water-network-feedstock.git
+	path = feedstocks/surface-water-network
+	branch = refs/heads/main
