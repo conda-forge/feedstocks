@@ -93266,3 +93266,7 @@
 	url = https://github.com/conda-forge/xorg-libxv-feedstock.git
 	path = feedstocks/xorg-libxv
 	branch = refs/heads/main
+[submodule "filesendercli"]
+	url = https://github.com/conda-forge/filesendercli-feedstock.git
+	path = feedstocks/filesendercli
+	branch = refs/heads/main
