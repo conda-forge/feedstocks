@@ -93310,3 +93310,7 @@
 	url = https://github.com/conda-forge/xh-feedstock.git
 	path = feedstocks/xh
 	branch = refs/heads/main
+[submodule "tantivy-py"]
+	url = https://github.com/conda-forge/tantivy-py-feedstock.git
+	path = feedstocks/tantivy-py
+	branch = refs/heads/main
