@@ -93282,3 +93282,7 @@
 	url = https://github.com/conda-forge/quadax-feedstock.git
 	path = feedstocks/quadax
 	branch = refs/heads/main
+[submodule "fastmod"]
+	url = https://github.com/conda-forge/fastmod-feedstock.git
+	path = feedstocks/fastmod
+	branch = refs/heads/main
