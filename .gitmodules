@@ -93314,3 +93314,7 @@
 	url = https://github.com/conda-forge/tantivy-py-feedstock.git
 	path = feedstocks/tantivy-py
 	branch = refs/heads/main
+[submodule "tree-sitter-cli"]
+	url = https://github.com/conda-forge/tree-sitter-cli-feedstock.git
+	path = feedstocks/tree-sitter-cli
+	branch = refs/heads/main
