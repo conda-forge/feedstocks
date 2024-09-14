@@ -93298,3 +93298,7 @@
 	url = https://github.com/conda-forge/lychee-feedstock.git
 	path = feedstocks/lychee
 	branch = refs/heads/main
+[submodule "curlie"]
+	url = https://github.com/conda-forge/curlie-feedstock.git
+	path = feedstocks/curlie
+	branch = refs/heads/main
