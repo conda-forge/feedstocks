@@ -93294,3 +93294,7 @@
 	url = https://github.com/conda-forge/pget-feedstock.git
 	path = feedstocks/pget
 	branch = refs/heads/main
+[submodule "lychee"]
+	url = https://github.com/conda-forge/lychee-feedstock.git
+	path = feedstocks/lychee
+	branch = refs/heads/main
