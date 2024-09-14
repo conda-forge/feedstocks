@@ -93318,3 +93318,7 @@
 	url = https://github.com/conda-forge/tree-sitter-cli-feedstock.git
 	path = feedstocks/tree-sitter-cli
 	branch = refs/heads/main
+[submodule "popclass"]
+	url = https://github.com/conda-forge/popclass-feedstock.git
+	path = feedstocks/popclass
+	branch = refs/heads/main
