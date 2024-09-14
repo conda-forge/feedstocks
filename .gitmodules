@@ -93286,3 +93286,7 @@
 	url = https://github.com/conda-forge/fastmod-feedstock.git
 	path = feedstocks/fastmod
 	branch = refs/heads/main
+[submodule "dydx-v4-client-split"]
+	url = https://github.com/conda-forge/dydx-v4-client-split-feedstock.git
+	path = feedstocks/dydx-v4-client-split
+	branch = refs/heads/main
