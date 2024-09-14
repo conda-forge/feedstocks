@@ -93290,3 +93290,7 @@
 	url = https://github.com/conda-forge/dydx-v4-client-split-feedstock.git
 	path = feedstocks/dydx-v4-client-split
 	branch = refs/heads/main
+[submodule "pget"]
+	url = https://github.com/conda-forge/pget-feedstock.git
+	path = feedstocks/pget
+	branch = refs/heads/main
