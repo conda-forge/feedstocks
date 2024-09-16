@@ -93346,3 +93346,7 @@
 	url = https://github.com/conda-forge/python-doi-feedstock.git
 	path = feedstocks/python-doi
 	branch = refs/heads/main
+[submodule "delayed_image"]
+	url = https://github.com/conda-forge/delayed_image-feedstock.git
+	path = feedstocks/delayed_image
+	branch = refs/heads/main
