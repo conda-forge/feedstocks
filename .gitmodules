@@ -93362,3 +93362,7 @@
 	url = https://github.com/conda-forge/screenfetch-feedstock.git
 	path = feedstocks/screenfetch
 	branch = refs/heads/main
+[submodule "libcal"]
+	url = https://github.com/conda-forge/libcal-feedstock.git
+	path = feedstocks/libcal
+	branch = refs/heads/main
