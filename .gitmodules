@@ -93338,3 +93338,7 @@
 	url = https://github.com/conda-forge/arxiv2bib-feedstock.git
 	path = feedstocks/arxiv2bib
 	branch = refs/heads/main
+[submodule "papis"]
+	url = https://github.com/conda-forge/papis-feedstock.git
+	path = feedstocks/papis
+	branch = refs/heads/main
