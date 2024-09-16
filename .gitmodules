@@ -93370,3 +93370,7 @@
 	url = https://github.com/conda-forge/cublasmp-feedstock.git
 	path = feedstocks/cublasmp
 	branch = refs/heads/main
+[submodule "libcublasmp"]
+	url = https://github.com/conda-forge/libcublasmp-feedstock.git
+	path = feedstocks/libcublasmp
+	branch = refs/heads/main
