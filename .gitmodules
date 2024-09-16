@@ -93342,3 +93342,7 @@
 	url = https://github.com/conda-forge/papis-feedstock.git
 	path = feedstocks/papis
 	branch = refs/heads/main
+[submodule "python-doi"]
+	url = https://github.com/conda-forge/python-doi-feedstock.git
+	path = feedstocks/python-doi
+	branch = refs/heads/main
