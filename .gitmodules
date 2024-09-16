@@ -93322,3 +93322,7 @@
 	url = https://github.com/conda-forge/popclass-feedstock.git
 	path = feedstocks/popclass
 	branch = refs/heads/main
+[submodule "qt-networkauth"]
+	url = https://github.com/conda-forge/qt-networkauth-feedstock.git
+	path = feedstocks/qt-networkauth
+	branch = refs/heads/main
