@@ -93350,3 +93350,7 @@
 	url = https://github.com/conda-forge/delayed_image-feedstock.git
 	path = feedstocks/delayed_image
 	branch = refs/heads/main
+[submodule "repype"]
+	url = https://github.com/conda-forge/repype-feedstock.git
+	path = feedstocks/repype
+	branch = refs/heads/main
