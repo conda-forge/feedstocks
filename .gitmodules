@@ -93354,3 +93354,7 @@
 	url = https://github.com/conda-forge/repype-feedstock.git
 	path = feedstocks/repype
 	branch = refs/heads/main
+[submodule "pyeda"]
+	url = https://github.com/conda-forge/pyeda-feedstock.git
+	path = feedstocks/pyeda
+	branch = refs/heads/main
