@@ -93326,3 +93326,7 @@
 	url = https://github.com/conda-forge/qt-networkauth-feedstock.git
 	path = feedstocks/qt-networkauth
 	branch = refs/heads/main
+[submodule "tox-gh"]
+	url = https://github.com/conda-forge/tox-gh-feedstock.git
+	path = feedstocks/tox-gh
+	branch = refs/heads/main
