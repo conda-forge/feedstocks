@@ -93330,3 +93330,7 @@
 	url = https://github.com/conda-forge/tox-gh-feedstock.git
 	path = feedstocks/tox-gh
 	branch = refs/heads/main
+[submodule "ai4ts"]
+	url = https://github.com/conda-forge/ai4ts-feedstock.git
+	path = feedstocks/ai4ts
+	branch = refs/heads/main
