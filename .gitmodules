@@ -93334,3 +93334,7 @@
 	url = https://github.com/conda-forge/ai4ts-feedstock.git
 	path = feedstocks/ai4ts
 	branch = refs/heads/main
+[submodule "arxiv2bib"]
+	url = https://github.com/conda-forge/arxiv2bib-feedstock.git
+	path = feedstocks/arxiv2bib
+	branch = refs/heads/main
