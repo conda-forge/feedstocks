@@ -93378,3 +93378,7 @@
 	url = https://github.com/conda-forge/build123d-feedstock.git
 	path = feedstocks/build123d
 	branch = refs/heads/main
+[submodule "pangolin-opengl"]
+	url = https://github.com/conda-forge/pangolin-opengl-feedstock.git
+	path = feedstocks/pangolin-opengl
+	branch = refs/heads/main
