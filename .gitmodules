@@ -93382,3 +93382,7 @@
 	url = https://github.com/conda-forge/pangolin-opengl-feedstock.git
 	path = feedstocks/pangolin-opengl
 	branch = refs/heads/main
+[submodule "empix"]
+	url = https://github.com/conda-forge/empix-feedstock.git
+	path = feedstocks/empix
+	branch = refs/heads/main
