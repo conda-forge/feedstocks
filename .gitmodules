@@ -93398,3 +93398,7 @@
 	url = https://github.com/conda-forge/numbacs-feedstock.git
 	path = feedstocks/numbacs
 	branch = refs/heads/main
+[submodule "kwcoco"]
+	url = https://github.com/conda-forge/kwcoco-feedstock.git
+	path = feedstocks/kwcoco
+	branch = refs/heads/main
