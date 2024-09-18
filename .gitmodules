@@ -93390,3 +93390,7 @@
 	url = https://github.com/conda-forge/r-cancerr-feedstock.git
 	path = feedstocks/r-cancerr
 	branch = refs/heads/main
+[submodule "cytosim"]
+	url = https://github.com/conda-forge/cytosim-feedstock.git
+	path = feedstocks/cytosim
+	branch = refs/heads/main
