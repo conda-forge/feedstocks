@@ -93394,3 +93394,7 @@
 	url = https://github.com/conda-forge/cytosim-feedstock.git
 	path = feedstocks/cytosim
 	branch = refs/heads/main
+[submodule "numbacs"]
+	url = https://github.com/conda-forge/numbacs-feedstock.git
+	path = feedstocks/numbacs
+	branch = refs/heads/main
