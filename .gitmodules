@@ -93402,3 +93402,7 @@
 	url = https://github.com/conda-forge/kwcoco-feedstock.git
 	path = feedstocks/kwcoco
 	branch = refs/heads/main
+[submodule "dxtb"]
+	url = https://github.com/conda-forge/dxtb-feedstock.git
+	path = feedstocks/dxtb
+	branch = refs/heads/main
