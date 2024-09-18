@@ -93406,3 +93406,7 @@
 	url = https://github.com/conda-forge/dxtb-feedstock.git
 	path = feedstocks/dxtb
 	branch = refs/heads/main
+[submodule "ro-json"]
+	url = https://github.com/conda-forge/ro-json-feedstock.git
+	path = feedstocks/ro-json
+	branch = refs/heads/main
