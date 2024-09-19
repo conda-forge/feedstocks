@@ -93438,3 +93438,7 @@
 	url = https://github.com/conda-forge/grpcurl-feedstock.git
 	path = feedstocks/grpcurl
 	branch = refs/heads/main
+[submodule "scikit-mol"]
+	url = https://github.com/conda-forge/scikit-mol-feedstock.git
+	path = feedstocks/scikit-mol
+	branch = refs/heads/main
