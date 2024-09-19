@@ -93410,3 +93410,7 @@
 	url = https://github.com/conda-forge/ro-json-feedstock.git
 	path = feedstocks/ro-json
 	branch = refs/heads/main
+[submodule "napari-skimage"]
+	url = https://github.com/conda-forge/napari-skimage-feedstock.git
+	path = feedstocks/napari-skimage
+	branch = refs/heads/main
