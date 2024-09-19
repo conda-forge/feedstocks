@@ -93422,3 +93422,7 @@
 	url = https://github.com/conda-forge/pyjsg-json-feedstock.git
 	path = feedstocks/pyjsg-json
 	branch = refs/heads/main
+[submodule "supertree"]
+	url = https://github.com/conda-forge/supertree-feedstock.git
+	path = feedstocks/supertree
+	branch = refs/heads/main
