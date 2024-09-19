@@ -93442,3 +93442,7 @@
 	url = https://github.com/conda-forge/scikit-mol-feedstock.git
 	path = feedstocks/scikit-mol
 	branch = refs/heads/main
+[submodule "kakoune"]
+	url = https://github.com/conda-forge/kakoune-feedstock.git
+	path = feedstocks/kakoune
+	branch = refs/heads/main
