@@ -93426,3 +93426,7 @@
 	url = https://github.com/conda-forge/supertree-feedstock.git
 	path = feedstocks/supertree
 	branch = refs/heads/main
+[submodule "triqs_ctseg"]
+	url = https://github.com/conda-forge/triqs_ctseg-feedstock.git
+	path = feedstocks/triqs_ctseg
+	branch = refs/heads/main
