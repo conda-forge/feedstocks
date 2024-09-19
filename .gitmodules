@@ -93418,3 +93418,7 @@
 	url = https://github.com/conda-forge/r-indicspecies-feedstock.git
 	path = feedstocks/r-indicspecies
 	branch = refs/heads/main
+[submodule "pyjsg-json"]
+	url = https://github.com/conda-forge/pyjsg-json-feedstock.git
+	path = feedstocks/pyjsg-json
+	branch = refs/heads/main
