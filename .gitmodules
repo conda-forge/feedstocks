@@ -93434,3 +93434,7 @@
 	url = https://github.com/conda-forge/tmsu-feedstock.git
 	path = feedstocks/tmsu
 	branch = refs/heads/main
+[submodule "grpcurl"]
+	url = https://github.com/conda-forge/grpcurl-feedstock.git
+	path = feedstocks/grpcurl
+	branch = refs/heads/main
