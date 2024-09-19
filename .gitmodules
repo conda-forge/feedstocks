@@ -93450,3 +93450,7 @@
 	url = https://github.com/conda-forge/konnektor-feedstock.git
 	path = feedstocks/konnektor
 	branch = refs/heads/main
+[submodule "tracy"]
+	url = https://github.com/conda-forge/tracy-feedstock.git
+	path = feedstocks/tracy
+	branch = refs/heads/main
