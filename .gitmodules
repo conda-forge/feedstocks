@@ -93446,3 +93446,7 @@
 	url = https://github.com/conda-forge/kakoune-feedstock.git
 	path = feedstocks/kakoune
 	branch = refs/heads/main
+[submodule "konnektor"]
+	url = https://github.com/conda-forge/konnektor-feedstock.git
+	path = feedstocks/konnektor
+	branch = refs/heads/main
