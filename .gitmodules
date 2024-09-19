@@ -93454,3 +93454,7 @@
 	url = https://github.com/conda-forge/tracy-feedstock.git
 	path = feedstocks/tracy
 	branch = refs/heads/main
+[submodule "lazydocker"]
+	url = https://github.com/conda-forge/lazydocker-feedstock.git
+	path = feedstocks/lazydocker
+	branch = refs/heads/main
