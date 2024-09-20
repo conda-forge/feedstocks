@@ -93506,3 +93506,7 @@
 	url = https://github.com/conda-forge/libabigail-feedstock.git
 	path = feedstocks/libabigail
 	branch = refs/heads/main
+[submodule "dssp"]
+	url = https://github.com/conda-forge/dssp-feedstock.git
+	path = feedstocks/dssp
+	branch = refs/heads/main
