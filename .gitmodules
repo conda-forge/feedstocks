@@ -93538,3 +93538,7 @@
 	url = https://github.com/conda-forge/vrs-feedstock.git
 	path = feedstocks/vrs
 	branch = refs/heads/main
+[submodule "git-hound"]
+	url = https://github.com/conda-forge/git-hound-feedstock.git
+	path = feedstocks/git-hound
+	branch = refs/heads/main
