@@ -93490,3 +93490,7 @@
 	url = https://github.com/conda-forge/cqrlib-feedstock.git
 	path = feedstocks/cqrlib
 	branch = refs/heads/main
+[submodule "flint-checker"]
+	url = https://github.com/conda-forge/flint-checker-feedstock.git
+	path = feedstocks/flint-checker
+	branch = refs/heads/main
