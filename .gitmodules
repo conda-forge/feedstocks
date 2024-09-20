@@ -93542,3 +93542,7 @@
 	url = https://github.com/conda-forge/git-hound-feedstock.git
 	path = feedstocks/git-hound
 	branch = refs/heads/main
+[submodule "jj"]
+	url = https://github.com/conda-forge/jj-feedstock.git
+	path = feedstocks/jj
+	branch = refs/heads/main
