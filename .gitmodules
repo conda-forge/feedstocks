@@ -93574,3 +93574,7 @@
 	url = https://github.com/conda-forge/fetch-feedstock.git
 	path = feedstocks/fetch
 	branch = refs/heads/main
+[submodule "kickstart"]
+	url = https://github.com/conda-forge/kickstart-feedstock.git
+	path = feedstocks/kickstart
+	branch = refs/heads/main
