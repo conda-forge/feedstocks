@@ -93522,3 +93522,7 @@
 	url = https://github.com/conda-forge/treefmt-feedstock.git
 	path = feedstocks/treefmt
 	branch = refs/heads/main
+[submodule "git-town"]
+	url = https://github.com/conda-forge/git-town-feedstock.git
+	path = feedstocks/git-town
+	branch = refs/heads/main
