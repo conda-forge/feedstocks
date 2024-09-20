@@ -93498,3 +93498,7 @@
 	url = https://github.com/conda-forge/peco-feedstock.git
 	path = feedstocks/peco
 	branch = refs/heads/main
+[submodule "lefthook"]
+	url = https://github.com/conda-forge/lefthook-feedstock.git
+	path = feedstocks/lefthook
+	branch = refs/heads/main
