@@ -93546,3 +93546,7 @@
 	url = https://github.com/conda-forge/jj-feedstock.git
 	path = feedstocks/jj
 	branch = refs/heads/main
+[submodule "palmerpenguins"]
+	url = https://github.com/conda-forge/palmerpenguins-feedstock.git
+	path = feedstocks/palmerpenguins
+	branch = refs/heads/main
