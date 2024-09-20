@@ -93462,3 +93462,7 @@
 	url = https://github.com/conda-forge/r-overviewr-feedstock.git
 	path = feedstocks/r-overviewr
 	branch = refs/heads/main
+[submodule "numba-cuda"]
+	url = https://github.com/conda-forge/numba-cuda-feedstock.git
+	path = feedstocks/numba-cuda
+	branch = refs/heads/main
