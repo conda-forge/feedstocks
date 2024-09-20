@@ -93534,3 +93534,7 @@
 	url = https://github.com/conda-forge/cbflib-feedstock.git
 	path = feedstocks/cbflib
 	branch = refs/heads/main
+[submodule "vrs"]
+	url = https://github.com/conda-forge/vrs-feedstock.git
+	path = feedstocks/vrs
+	branch = refs/heads/main
