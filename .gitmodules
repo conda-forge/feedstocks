@@ -93518,3 +93518,7 @@
 	url = https://github.com/conda-forge/gitql-feedstock.git
 	path = feedstocks/gitql
 	branch = refs/heads/main
+[submodule "treefmt"]
+	url = https://github.com/conda-forge/treefmt-feedstock.git
+	path = feedstocks/treefmt
+	branch = refs/heads/main
