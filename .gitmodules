@@ -93486,3 +93486,7 @@
 	url = https://github.com/conda-forge/libertem-qd-mpx-feedstock.git
 	path = feedstocks/libertem-qd-mpx
 	branch = refs/heads/main
+[submodule "cqrlib"]
+	url = https://github.com/conda-forge/cqrlib-feedstock.git
+	path = feedstocks/cqrlib
+	branch = refs/heads/main
