@@ -93514,3 +93514,7 @@
 	url = https://github.com/conda-forge/fork-cleaner-feedstock.git
 	path = feedstocks/fork-cleaner
 	branch = refs/heads/main
+[submodule "gitql"]
+	url = https://github.com/conda-forge/gitql-feedstock.git
+	path = feedstocks/gitql
+	branch = refs/heads/main
