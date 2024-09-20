@@ -93570,3 +93570,7 @@
 	url = https://github.com/conda-forge/leg2cheb-feedstock.git
 	path = feedstocks/leg2cheb
 	branch = refs/heads/main
+[submodule "fetch"]
+	url = https://github.com/conda-forge/fetch-feedstock.git
+	path = feedstocks/fetch
+	branch = refs/heads/main
