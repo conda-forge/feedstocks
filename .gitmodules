@@ -93582,3 +93582,7 @@
 	url = https://github.com/conda-forge/stgit-feedstock.git
 	path = feedstocks/stgit
 	branch = refs/heads/main
+[submodule "karn"]
+	url = https://github.com/conda-forge/karn-feedstock.git
+	path = feedstocks/karn
+	branch = refs/heads/main
