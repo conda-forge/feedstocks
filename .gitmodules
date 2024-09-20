@@ -93510,3 +93510,7 @@
 	url = https://github.com/conda-forge/dssp-feedstock.git
 	path = feedstocks/dssp
 	branch = refs/heads/main
+[submodule "fork-cleaner"]
+	url = https://github.com/conda-forge/fork-cleaner-feedstock.git
+	path = feedstocks/fork-cleaner
+	branch = refs/heads/main
