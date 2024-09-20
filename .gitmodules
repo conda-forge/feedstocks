@@ -93562,3 +93562,7 @@
 	url = https://github.com/conda-forge/git-absorb-feedstock.git
 	path = feedstocks/git-absorb
 	branch = refs/heads/main
+[submodule "prr"]
+	url = https://github.com/conda-forge/prr-feedstock.git
+	path = feedstocks/prr
+	branch = refs/heads/main
