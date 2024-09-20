@@ -93526,3 +93526,7 @@
 	url = https://github.com/conda-forge/git-town-feedstock.git
 	path = feedstocks/git-town
 	branch = refs/heads/main
+[submodule "torch-harmonics"]
+	url = https://github.com/conda-forge/torch-harmonics-feedstock.git
+	path = feedstocks/torch-harmonics
+	branch = refs/heads/main
