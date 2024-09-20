@@ -93558,3 +93558,7 @@
 	url = https://github.com/conda-forge/qss-feedstock.git
 	path = feedstocks/qss
 	branch = refs/heads/main
+[submodule "git-absorb"]
+	url = https://github.com/conda-forge/git-absorb-feedstock.git
+	path = feedstocks/git-absorb
+	branch = refs/heads/main
