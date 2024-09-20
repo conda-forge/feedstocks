@@ -93530,3 +93530,7 @@
 	url = https://github.com/conda-forge/torch-harmonics-feedstock.git
 	path = feedstocks/torch-harmonics
 	branch = refs/heads/main
+[submodule "cbflib"]
+	url = https://github.com/conda-forge/cbflib-feedstock.git
+	path = feedstocks/cbflib
+	branch = refs/heads/main
