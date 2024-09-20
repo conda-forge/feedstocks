@@ -93550,3 +93550,7 @@
 	url = https://github.com/conda-forge/palmerpenguins-feedstock.git
 	path = feedstocks/palmerpenguins
 	branch = refs/heads/main
+[submodule "dura"]
+	url = https://github.com/conda-forge/dura-feedstock.git
+	path = feedstocks/dura
+	branch = refs/heads/main
