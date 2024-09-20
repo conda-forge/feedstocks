@@ -93494,3 +93494,7 @@
 	url = https://github.com/conda-forge/flint-checker-feedstock.git
 	path = feedstocks/flint-checker
 	branch = refs/heads/main
+[submodule "peco"]
+	url = https://github.com/conda-forge/peco-feedstock.git
+	path = feedstocks/peco
+	branch = refs/heads/main
