@@ -93566,3 +93566,7 @@
 	url = https://github.com/conda-forge/prr-feedstock.git
 	path = feedstocks/prr
 	branch = refs/heads/main
+[submodule "leg2cheb"]
+	url = https://github.com/conda-forge/leg2cheb-feedstock.git
+	path = feedstocks/leg2cheb
+	branch = refs/heads/main
