@@ -93466,3 +93466,7 @@
 	url = https://github.com/conda-forge/numba-cuda-feedstock.git
 	path = feedstocks/numba-cuda
 	branch = refs/heads/main
+[submodule "ecmwflibs"]
+	url = https://github.com/conda-forge/ecmwflibs-feedstock.git
+	path = feedstocks/ecmwflibs
+	branch = refs/heads/main
