@@ -93598,3 +93598,7 @@
 	url = https://github.com/conda-forge/r-dupree-feedstock.git
 	path = feedstocks/r-dupree
 	branch = refs/heads/main
+[submodule "r-jshintr"]
+	url = https://github.com/conda-forge/r-jshintr-feedstock.git
+	path = feedstocks/r-jshintr
+	branch = refs/heads/main
