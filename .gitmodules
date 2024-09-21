@@ -93606,3 +93606,7 @@
 	url = https://github.com/conda-forge/r-rscc-feedstock.git
 	path = feedstocks/r-rscc
 	branch = refs/heads/main
+[submodule "peepdb"]
+	url = https://github.com/conda-forge/peepdb-feedstock.git
+	path = feedstocks/peepdb
+	branch = refs/heads/main
