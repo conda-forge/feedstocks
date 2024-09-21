@@ -93602,3 +93602,7 @@
 	url = https://github.com/conda-forge/r-jshintr-feedstock.git
 	path = feedstocks/r-jshintr
 	branch = refs/heads/main
+[submodule "r-rscc"]
+	url = https://github.com/conda-forge/r-rscc-feedstock.git
+	path = feedstocks/r-rscc
+	branch = refs/heads/main
