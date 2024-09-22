@@ -93610,3 +93610,7 @@
 	url = https://github.com/conda-forge/peepdb-feedstock.git
 	path = feedstocks/peepdb
 	branch = refs/heads/main
+[submodule "hololinked"]
+	url = https://github.com/conda-forge/hololinked-feedstock.git
+	path = feedstocks/hololinked
+	branch = refs/heads/main
