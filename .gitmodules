@@ -93622,3 +93622,7 @@
 	url = https://github.com/conda-forge/ollama-python-feedstock.git
 	path = feedstocks/ollama-python
 	branch = refs/heads/main
+[submodule "go-gum"]
+	url = https://github.com/conda-forge/go-gum-feedstock.git
+	path = feedstocks/go-gum
+	branch = refs/heads/main
