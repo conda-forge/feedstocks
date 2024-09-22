@@ -93614,3 +93614,7 @@
 	url = https://github.com/conda-forge/hololinked-feedstock.git
 	path = feedstocks/hololinked
 	branch = refs/heads/main
+[submodule "otbenchmark"]
+	url = https://github.com/conda-forge/otbenchmark-feedstock.git
+	path = feedstocks/otbenchmark
+	branch = refs/heads/main
