@@ -93618,3 +93618,7 @@
 	url = https://github.com/conda-forge/otbenchmark-feedstock.git
 	path = feedstocks/otbenchmark
 	branch = refs/heads/main
+[submodule "ollama-python"]
+	url = https://github.com/conda-forge/ollama-python-feedstock.git
+	path = feedstocks/ollama-python
+	branch = refs/heads/main
