@@ -93630,3 +93630,7 @@
 	url = https://github.com/conda-forge/gvproxy-feedstock.git
 	path = feedstocks/gvproxy
 	branch = refs/heads/main
+[submodule "joker"]
+	url = https://github.com/conda-forge/joker-feedstock.git
+	path = feedstocks/joker
+	branch = refs/heads/main
