@@ -93634,3 +93634,7 @@
 	url = https://github.com/conda-forge/joker-feedstock.git
 	path = feedstocks/joker
 	branch = refs/heads/main
+[submodule "gen3-client"]
+	url = https://github.com/conda-forge/gen3-client-feedstock.git
+	path = feedstocks/gen3-client
+	branch = refs/heads/main
