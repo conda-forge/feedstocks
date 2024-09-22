@@ -93642,3 +93642,7 @@
 	url = https://github.com/conda-forge/skywalking-eyes-feedstock.git
 	path = feedstocks/skywalking-eyes
 	branch = refs/heads/main
+[submodule "licensor"]
+	url = https://github.com/conda-forge/licensor-feedstock.git
+	path = feedstocks/licensor
+	branch = refs/heads/main
