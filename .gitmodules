@@ -93638,3 +93638,7 @@
 	url = https://github.com/conda-forge/gen3-client-feedstock.git
 	path = feedstocks/gen3-client
 	branch = refs/heads/main
+[submodule "skywalking-eyes"]
+	url = https://github.com/conda-forge/skywalking-eyes-feedstock.git
+	path = feedstocks/skywalking-eyes
+	branch = refs/heads/main
