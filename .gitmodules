@@ -93626,3 +93626,7 @@
 	url = https://github.com/conda-forge/go-gum-feedstock.git
 	path = feedstocks/go-gum
 	branch = refs/heads/main
+[submodule "gvproxy"]
+	url = https://github.com/conda-forge/gvproxy-feedstock.git
+	path = feedstocks/gvproxy
+	branch = refs/heads/main
