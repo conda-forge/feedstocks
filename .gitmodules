@@ -93646,3 +93646,7 @@
 	url = https://github.com/conda-forge/licensor-feedstock.git
 	path = feedstocks/licensor
 	branch = refs/heads/main
+[submodule "zodipy"]
+	url = https://github.com/conda-forge/zodipy-feedstock.git
+	path = feedstocks/zodipy
+	branch = refs/heads/main
