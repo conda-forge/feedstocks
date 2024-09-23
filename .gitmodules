@@ -93654,3 +93654,7 @@
 	url = https://github.com/conda-forge/cbfmt-feedstock.git
 	path = feedstocks/cbfmt
 	branch = refs/heads/main
+[submodule "typos-cli"]
+	url = https://github.com/conda-forge/typos-cli-feedstock.git
+	path = feedstocks/typos-cli
+	branch = refs/heads/main
