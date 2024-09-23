@@ -93650,3 +93650,7 @@
 	url = https://github.com/conda-forge/zodipy-feedstock.git
 	path = feedstocks/zodipy
 	branch = refs/heads/main
+[submodule "cbfmt"]
+	url = https://github.com/conda-forge/cbfmt-feedstock.git
+	path = feedstocks/cbfmt
+	branch = refs/heads/main
