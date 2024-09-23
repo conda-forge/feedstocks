@@ -93662,3 +93662,7 @@
 	url = https://github.com/conda-forge/func-adl-feedstock.git
 	path = feedstocks/func-adl
 	branch = refs/heads/main
+[submodule "typos-lsp"]
+	url = https://github.com/conda-forge/typos-lsp-feedstock.git
+	path = feedstocks/typos-lsp
+	branch = refs/heads/main
