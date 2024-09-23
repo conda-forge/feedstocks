@@ -93670,3 +93670,7 @@
 	url = https://github.com/conda-forge/pybliometrics-feedstock.git
 	path = feedstocks/pybliometrics
 	branch = refs/heads/main
+[submodule "knowledge-graph-maker"]
+	url = https://github.com/conda-forge/knowledge-graph-maker-feedstock.git
+	path = feedstocks/knowledge-graph-maker
+	branch = refs/heads/main
