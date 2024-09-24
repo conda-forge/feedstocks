@@ -93682,3 +93682,7 @@
 	url = https://github.com/conda-forge/r-unigd-feedstock.git
 	path = feedstocks/r-unigd
 	branch = refs/heads/main
+[submodule "zenoh-cpp"]
+	url = https://github.com/conda-forge/zenoh-cpp-feedstock.git
+	path = feedstocks/zenoh-cpp
+	branch = refs/heads/main
