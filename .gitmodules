@@ -93694,3 +93694,7 @@
 	url = https://github.com/conda-forge/pc_rasterize-feedstock.git
 	path = feedstocks/pc_rasterize
 	branch = refs/heads/main
+[submodule "icub-firmware-shared"]
+	url = https://github.com/conda-forge/icub-firmware-shared-feedstock.git
+	path = feedstocks/icub-firmware-shared
+	branch = refs/heads/main
