@@ -93690,3 +93690,7 @@
 	url = https://github.com/conda-forge/tigramite-feedstock.git
 	path = feedstocks/tigramite
 	branch = refs/heads/main
+[submodule "pc_rasterize"]
+	url = https://github.com/conda-forge/pc_rasterize-feedstock.git
+	path = feedstocks/pc_rasterize
+	branch = refs/heads/main
