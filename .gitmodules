@@ -93686,3 +93686,7 @@
 	url = https://github.com/conda-forge/zenoh-cpp-feedstock.git
 	path = feedstocks/zenoh-cpp
 	branch = refs/heads/main
+[submodule "tigramite"]
+	url = https://github.com/conda-forge/tigramite-feedstock.git
+	path = feedstocks/tigramite
+	branch = refs/heads/main
