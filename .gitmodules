@@ -93702,3 +93702,7 @@
 	url = https://github.com/conda-forge/ibmcloudant-feedstock.git
 	path = feedstocks/ibmcloudant
 	branch = refs/heads/main
+[submodule "array-api-extra"]
+	url = https://github.com/conda-forge/array-api-extra-feedstock.git
+	path = feedstocks/array-api-extra
+	branch = refs/heads/main
