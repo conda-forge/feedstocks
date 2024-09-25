@@ -93742,3 +93742,7 @@
 	url = https://github.com/conda-forge/pixell-feedstock.git
 	path = feedstocks/pixell
 	branch = refs/heads/main
+[submodule "go-jsonnet"]
+	url = https://github.com/conda-forge/go-jsonnet-feedstock.git
+	path = feedstocks/go-jsonnet
+	branch = refs/heads/main
