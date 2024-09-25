@@ -93706,3 +93706,7 @@
 	url = https://github.com/conda-forge/array-api-extra-feedstock.git
 	path = feedstocks/array-api-extra
 	branch = refs/heads/main
+[submodule "airbyte-api"]
+	url = https://github.com/conda-forge/airbyte-api-feedstock.git
+	path = feedstocks/airbyte-api
+	branch = refs/heads/main
