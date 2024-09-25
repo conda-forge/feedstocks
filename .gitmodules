@@ -93714,3 +93714,7 @@
 	url = https://github.com/conda-forge/mlwc-feedstock.git
 	path = feedstocks/mlwc
 	branch = refs/heads/main
+[submodule "fastnanquantile"]
+	url = https://github.com/conda-forge/fastnanquantile-feedstock.git
+	path = feedstocks/fastnanquantile
+	branch = refs/heads/main
