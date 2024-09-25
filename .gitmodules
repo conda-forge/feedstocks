@@ -93730,3 +93730,7 @@
 	url = https://github.com/conda-forge/docker-credential-helpers-feedstock.git
 	path = feedstocks/docker-credential-helpers
 	branch = refs/heads/main
+[submodule "jfrog-cli"]
+	url = https://github.com/conda-forge/jfrog-cli-feedstock.git
+	path = feedstocks/jfrog-cli
+	branch = refs/heads/main
