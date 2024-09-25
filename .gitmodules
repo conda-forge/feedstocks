@@ -93746,3 +93746,7 @@
 	url = https://github.com/conda-forge/go-jsonnet-feedstock.git
 	path = feedstocks/go-jsonnet
 	branch = refs/heads/main
+[submodule "wrenfold"]
+	url = https://github.com/conda-forge/wrenfold-feedstock.git
+	path = feedstocks/wrenfold
+	branch = refs/heads/main
