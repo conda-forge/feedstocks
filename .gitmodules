@@ -93722,3 +93722,7 @@
 	url = https://github.com/conda-forge/terraform-ls-feedstock.git
 	path = feedstocks/terraform-ls
 	branch = refs/heads/main
+[submodule "jsonnet-language-server"]
+	url = https://github.com/conda-forge/jsonnet-language-server-feedstock.git
+	path = feedstocks/jsonnet-language-server
+	branch = refs/heads/main
