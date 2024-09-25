@@ -93698,3 +93698,7 @@
 	url = https://github.com/conda-forge/icub-firmware-shared-feedstock.git
 	path = feedstocks/icub-firmware-shared
 	branch = refs/heads/main
+[submodule "ibmcloudant"]
+	url = https://github.com/conda-forge/ibmcloudant-feedstock.git
+	path = feedstocks/ibmcloudant
+	branch = refs/heads/main
