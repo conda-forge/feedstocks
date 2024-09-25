@@ -93718,3 +93718,7 @@
 	url = https://github.com/conda-forge/fastnanquantile-feedstock.git
 	path = feedstocks/fastnanquantile
 	branch = refs/heads/main
+[submodule "terraform-ls"]
+	url = https://github.com/conda-forge/terraform-ls-feedstock.git
+	path = feedstocks/terraform-ls
+	branch = refs/heads/main
