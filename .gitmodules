@@ -93710,3 +93710,7 @@
 	url = https://github.com/conda-forge/airbyte-api-feedstock.git
 	path = feedstocks/airbyte-api
 	branch = refs/heads/main
+[submodule "mlwc"]
+	url = https://github.com/conda-forge/mlwc-feedstock.git
+	path = feedstocks/mlwc
+	branch = refs/heads/main
