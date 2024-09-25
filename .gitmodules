@@ -93750,3 +93750,7 @@
 	url = https://github.com/conda-forge/wrenfold-feedstock.git
 	path = feedstocks/wrenfold
 	branch = refs/heads/main
+[submodule "pypolymlp"]
+	url = https://github.com/conda-forge/pypolymlp-feedstock.git
+	path = feedstocks/pypolymlp
+	branch = refs/heads/main
