@@ -93726,3 +93726,7 @@
 	url = https://github.com/conda-forge/jsonnet-language-server-feedstock.git
 	path = feedstocks/jsonnet-language-server
 	branch = refs/heads/main
+[submodule "docker-credential-helpers"]
+	url = https://github.com/conda-forge/docker-credential-helpers-feedstock.git
+	path = feedstocks/docker-credential-helpers
+	branch = refs/heads/main
