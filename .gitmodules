@@ -93734,3 +93734,7 @@
 	url = https://github.com/conda-forge/jfrog-cli-feedstock.git
 	path = feedstocks/jfrog-cli
 	branch = refs/heads/main
+[submodule "bbf"]
+	url = https://github.com/conda-forge/bbf-feedstock.git
+	path = feedstocks/bbf
+	branch = refs/heads/main
