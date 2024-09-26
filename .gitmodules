@@ -93766,3 +93766,7 @@
 	url = https://github.com/conda-forge/icnsutil-feedstock.git
 	path = feedstocks/icnsutil
 	branch = refs/heads/main
+[submodule "bokeh-fastapi"]
+	url = https://github.com/conda-forge/bokeh-fastapi-feedstock.git
+	path = feedstocks/bokeh-fastapi
+	branch = refs/heads/main
