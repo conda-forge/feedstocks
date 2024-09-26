@@ -93778,3 +93778,7 @@
 	url = https://github.com/conda-forge/unique-uncertainty-feedstock.git
 	path = feedstocks/unique-uncertainty
 	branch = refs/heads/main
+[submodule "seawater_crm"]
+	url = https://github.com/conda-forge/seawater_crm-feedstock.git
+	path = feedstocks/seawater_crm
+	branch = refs/heads/main
