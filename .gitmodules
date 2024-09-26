@@ -93770,3 +93770,7 @@
 	url = https://github.com/conda-forge/bokeh-fastapi-feedstock.git
 	path = feedstocks/bokeh-fastapi
 	branch = refs/heads/main
+[submodule "sig-decomp"]
+	url = https://github.com/conda-forge/sig-decomp-feedstock.git
+	path = feedstocks/sig-decomp
+	branch = refs/heads/main
