@@ -93782,3 +93782,7 @@
 	url = https://github.com/conda-forge/seawater_crm-feedstock.git
 	path = feedstocks/seawater_crm
 	branch = refs/heads/main
+[submodule "jupyterclearcheck"]
+	url = https://github.com/conda-forge/jupyterclearcheck-feedstock.git
+	path = feedstocks/jupyterclearcheck
+	branch = refs/heads/main
