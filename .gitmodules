@@ -93786,3 +93786,7 @@
 	url = https://github.com/conda-forge/jupyterclearcheck-feedstock.git
 	path = feedstocks/jupyterclearcheck
 	branch = refs/heads/main
+[submodule "prescient-sdk"]
+	url = https://github.com/conda-forge/prescient-sdk-feedstock.git
+	path = feedstocks/prescient-sdk
+	branch = refs/heads/main
