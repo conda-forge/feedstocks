@@ -93798,3 +93798,7 @@
 	url = https://github.com/conda-forge/pyscf-dispersion-feedstock.git
 	path = feedstocks/pyscf-dispersion
 	branch = refs/heads/main
+[submodule "pyoma-2"]
+	url = https://github.com/conda-forge/pyoma-2-feedstock.git
+	path = feedstocks/pyoma-2
+	branch = refs/heads/main
