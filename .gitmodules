@@ -93790,3 +93790,7 @@
 	url = https://github.com/conda-forge/prescient-sdk-feedstock.git
 	path = feedstocks/prescient-sdk
 	branch = refs/heads/main
+[submodule "photochem_clima_data"]
+	url = https://github.com/conda-forge/photochem_clima_data-feedstock.git
+	path = feedstocks/photochem_clima_data
+	branch = refs/heads/main
