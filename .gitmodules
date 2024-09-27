@@ -93794,3 +93794,7 @@
 	url = https://github.com/conda-forge/photochem_clima_data-feedstock.git
 	path = feedstocks/photochem_clima_data
 	branch = refs/heads/main
+[submodule "pyscf-dispersion"]
+	url = https://github.com/conda-forge/pyscf-dispersion-feedstock.git
+	path = feedstocks/pyscf-dispersion
+	branch = refs/heads/main
