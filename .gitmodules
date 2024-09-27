@@ -93814,3 +93814,7 @@
 	url = https://github.com/conda-forge/sudachidict-small-feedstock.git
 	path = feedstocks/sudachidict-small
 	branch = refs/heads/main
+[submodule "sudachipy"]
+	url = https://github.com/conda-forge/sudachipy-feedstock.git
+	path = feedstocks/sudachipy
+	branch = refs/heads/main
