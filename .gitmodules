@@ -93822,3 +93822,7 @@
 	url = https://github.com/conda-forge/sudachidict-core-feedstock.git
 	path = feedstocks/sudachidict-core
 	branch = refs/heads/main
+[submodule "speedscope"]
+	url = https://github.com/conda-forge/speedscope-feedstock.git
+	path = feedstocks/speedscope
+	branch = refs/heads/main
