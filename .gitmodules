@@ -93810,3 +93810,7 @@
 	url = https://github.com/conda-forge/cytoplay-feedstock.git
 	path = feedstocks/cytoplay
 	branch = refs/heads/main
+[submodule "sudachidict-small"]
+	url = https://github.com/conda-forge/sudachidict-small-feedstock.git
+	path = feedstocks/sudachidict-small
+	branch = refs/heads/main
