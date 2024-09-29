@@ -93846,3 +93846,7 @@
 	url = https://github.com/conda-forge/diffpy.snmf-feedstock.git
 	path = feedstocks/diffpy.snmf
 	branch = refs/heads/main
+[submodule "pyproject-local-kernel"]
+	url = https://github.com/conda-forge/pyproject-local-kernel-feedstock.git
+	path = feedstocks/pyproject-local-kernel
+	branch = refs/heads/main
