@@ -93862,3 +93862,7 @@
 	url = https://github.com/conda-forge/pybashify-feedstock.git
 	path = feedstocks/pybashify
 	branch = refs/heads/main
+[submodule "ncio"]
+	url = https://github.com/conda-forge/ncio-feedstock.git
+	path = feedstocks/ncio
+	branch = refs/heads/main
