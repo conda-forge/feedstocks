@@ -93858,3 +93858,7 @@
 	url = https://github.com/conda-forge/pydantic-units-feedstock.git
 	path = feedstocks/pydantic-units
 	branch = refs/heads/main
+[submodule "pybashify"]
+	url = https://github.com/conda-forge/pybashify-feedstock.git
+	path = feedstocks/pybashify
+	branch = refs/heads/main
