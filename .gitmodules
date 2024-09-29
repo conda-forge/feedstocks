@@ -93854,3 +93854,7 @@
 	url = https://github.com/conda-forge/magicattr-feedstock.git
 	path = feedstocks/magicattr
 	branch = refs/heads/main
+[submodule "pydantic-units"]
+	url = https://github.com/conda-forge/pydantic-units-feedstock.git
+	path = feedstocks/pydantic-units
+	branch = refs/heads/main
