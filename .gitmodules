@@ -93834,3 +93834,7 @@
 	url = https://github.com/conda-forge/crawl4ai-feedstock.git
 	path = feedstocks/crawl4ai
 	branch = refs/heads/main
+[submodule "icub-main"]
+	url = https://github.com/conda-forge/icub-main-feedstock.git
+	path = feedstocks/icub-main
+	branch = refs/heads/main
