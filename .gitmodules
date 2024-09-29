@@ -93838,3 +93838,7 @@
 	url = https://github.com/conda-forge/icub-main-feedstock.git
 	path = feedstocks/icub-main
 	branch = refs/heads/main
+[submodule "sqlalchemy-continuum"]
+	url = https://github.com/conda-forge/sqlalchemy-continuum-feedstock.git
+	path = feedstocks/sqlalchemy-continuum
+	branch = refs/heads/main
