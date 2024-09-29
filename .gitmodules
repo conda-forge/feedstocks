@@ -93826,3 +93826,7 @@
 	url = https://github.com/conda-forge/speedscope-feedstock.git
 	path = feedstocks/speedscope
 	branch = refs/heads/main
+[submodule "ryp"]
+	url = https://github.com/conda-forge/ryp-feedstock.git
+	path = feedstocks/ryp
+	branch = refs/heads/main
