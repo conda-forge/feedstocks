@@ -93842,3 +93842,7 @@
 	url = https://github.com/conda-forge/sqlalchemy-continuum-feedstock.git
 	path = feedstocks/sqlalchemy-continuum
 	branch = refs/heads/main
+[submodule "diffpy.snmf"]
+	url = https://github.com/conda-forge/diffpy.snmf-feedstock.git
+	path = feedstocks/diffpy.snmf
+	branch = refs/heads/main
