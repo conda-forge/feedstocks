@@ -93850,3 +93850,7 @@
 	url = https://github.com/conda-forge/pyproject-local-kernel-feedstock.git
 	path = feedstocks/pyproject-local-kernel
 	branch = refs/heads/main
+[submodule "magicattr"]
+	url = https://github.com/conda-forge/magicattr-feedstock.git
+	path = feedstocks/magicattr
+	branch = refs/heads/main
