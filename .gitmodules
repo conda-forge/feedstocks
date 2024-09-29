@@ -93830,3 +93830,7 @@
 	url = https://github.com/conda-forge/ryp-feedstock.git
 	path = feedstocks/ryp
 	branch = refs/heads/main
+[submodule "crawl4ai"]
+	url = https://github.com/conda-forge/crawl4ai-feedstock.git
+	path = feedstocks/crawl4ai
+	branch = refs/heads/main
