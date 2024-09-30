@@ -93874,3 +93874,7 @@
 	url = https://github.com/conda-forge/onyxgenai-feedstock.git
 	path = feedstocks/onyxgenai
 	branch = refs/heads/main
+[submodule "arize-phoenix-otel"]
+	url = https://github.com/conda-forge/arize-phoenix-otel-feedstock.git
+	path = feedstocks/arize-phoenix-otel
+	branch = refs/heads/main
