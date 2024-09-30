@@ -93866,3 +93866,7 @@
 	url = https://github.com/conda-forge/ncio-feedstock.git
 	path = feedstocks/ncio
 	branch = refs/heads/main
+[submodule "antlr4-cli"]
+	url = https://github.com/conda-forge/antlr4-cli-feedstock.git
+	path = feedstocks/antlr4-cli
+	branch = refs/heads/main
