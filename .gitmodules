@@ -93870,3 +93870,7 @@
 	url = https://github.com/conda-forge/antlr4-cli-feedstock.git
 	path = feedstocks/antlr4-cli
 	branch = refs/heads/main
+[submodule "onyxgenai"]
+	url = https://github.com/conda-forge/onyxgenai-feedstock.git
+	path = feedstocks/onyxgenai
+	branch = refs/heads/main
