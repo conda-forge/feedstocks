@@ -93894,3 +93894,7 @@
 	url = https://github.com/conda-forge/nccompare-feedstock.git
 	path = feedstocks/nccompare
 	branch = refs/heads/main
+[submodule "wagtail-draftail-plugins"]
+	url = https://github.com/conda-forge/wagtail-draftail-plugins-feedstock.git
+	path = feedstocks/wagtail-draftail-plugins
+	branch = refs/heads/main
