@@ -93890,3 +93890,7 @@
 	url = https://github.com/conda-forge/human-dynamics-estimation-feedstock.git
 	path = feedstocks/human-dynamics-estimation
 	branch = refs/heads/main
+[submodule "nccompare"]
+	url = https://github.com/conda-forge/nccompare-feedstock.git
+	path = feedstocks/nccompare
+	branch = refs/heads/main
