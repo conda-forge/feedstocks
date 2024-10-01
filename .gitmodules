@@ -93902,3 +93902,7 @@
 	url = https://github.com/conda-forge/swmmanywhere-feedstock.git
 	path = feedstocks/swmmanywhere
 	branch = refs/heads/main
+[submodule "nvidia-dali-python"]
+	url = https://github.com/conda-forge/nvidia-dali-python-feedstock.git
+	path = feedstocks/nvidia-dali-python
+	branch = refs/heads/main
