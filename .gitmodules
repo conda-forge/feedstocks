@@ -93906,3 +93906,7 @@
 	url = https://github.com/conda-forge/nvidia-dali-python-feedstock.git
 	path = feedstocks/nvidia-dali-python
 	branch = refs/heads/main
+[submodule "jxlpy"]
+	url = https://github.com/conda-forge/jxlpy-feedstock.git
+	path = feedstocks/jxlpy
+	branch = refs/heads/main
