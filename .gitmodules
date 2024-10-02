@@ -93918,3 +93918,7 @@
 	url = https://github.com/conda-forge/r-robslopes-feedstock.git
 	path = feedstocks/r-robslopes
 	branch = refs/heads/main
+[submodule "aioretry"]
+	url = https://github.com/conda-forge/aioretry-feedstock.git
+	path = feedstocks/aioretry
+	branch = refs/heads/main
