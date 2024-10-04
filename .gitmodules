@@ -93934,3 +93934,7 @@
 	url = https://github.com/conda-forge/optophyre-feedstock.git
 	path = feedstocks/optophyre
 	branch = refs/heads/main
+[submodule "pyiron_dataclasses"]
+	url = https://github.com/conda-forge/pyiron_dataclasses-feedstock.git
+	path = feedstocks/pyiron_dataclasses
+	branch = refs/heads/main
