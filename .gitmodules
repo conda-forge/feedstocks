@@ -93942,3 +93942,7 @@
 	url = https://github.com/conda-forge/type-lens-feedstock.git
 	path = feedstocks/type-lens
 	branch = refs/heads/main
+[submodule "einconv"]
+	url = https://github.com/conda-forge/einconv-feedstock.git
+	path = feedstocks/einconv
+	branch = refs/heads/main
