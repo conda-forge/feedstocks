@@ -93930,3 +93930,7 @@
 	url = https://github.com/conda-forge/r-cleanr-feedstock.git
 	path = feedstocks/r-cleanr
 	branch = refs/heads/main
+[submodule "optophyre"]
+	url = https://github.com/conda-forge/optophyre-feedstock.git
+	path = feedstocks/optophyre
+	branch = refs/heads/main
