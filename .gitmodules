@@ -93950,3 +93950,7 @@
 	url = https://github.com/conda-forge/pelicanfs-feedstock.git
 	path = feedstocks/pelicanfs
 	branch = refs/heads/main
+[submodule "curvlinops-for-pytorch"]
+	url = https://github.com/conda-forge/curvlinops-for-pytorch-feedstock.git
+	path = feedstocks/curvlinops-for-pytorch
+	branch = refs/heads/main
