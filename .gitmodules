@@ -93926,3 +93926,7 @@
 	url = https://github.com/conda-forge/r-pkggraphr-feedstock.git
 	path = feedstocks/r-pkggraphr
 	branch = refs/heads/main
+[submodule "r-cleanr"]
+	url = https://github.com/conda-forge/r-cleanr-feedstock.git
+	path = feedstocks/r-cleanr
+	branch = refs/heads/main
