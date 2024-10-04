@@ -93946,3 +93946,7 @@
 	url = https://github.com/conda-forge/einconv-feedstock.git
 	path = feedstocks/einconv
 	branch = refs/heads/main
+[submodule "pelicanfs"]
+	url = https://github.com/conda-forge/pelicanfs-feedstock.git
+	path = feedstocks/pelicanfs
+	branch = refs/heads/main
