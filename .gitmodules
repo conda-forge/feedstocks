@@ -93962,3 +93962,7 @@
 	url = https://github.com/conda-forge/sopsy-feedstock.git
 	path = feedstocks/sopsy
 	branch = refs/heads/main
+[submodule "mget3"]
+	url = https://github.com/conda-forge/mget3-feedstock.git
+	path = feedstocks/mget3
+	branch = refs/heads/main
