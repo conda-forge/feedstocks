@@ -93938,3 +93938,7 @@
 	url = https://github.com/conda-forge/pyiron_dataclasses-feedstock.git
 	path = feedstocks/pyiron_dataclasses
 	branch = refs/heads/main
+[submodule "type-lens"]
+	url = https://github.com/conda-forge/type-lens-feedstock.git
+	path = feedstocks/type-lens
+	branch = refs/heads/main
