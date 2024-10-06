@@ -94026,3 +94026,7 @@
 	url = https://github.com/conda-forge/tere-feedstock.git
 	path = feedstocks/tere
 	branch = refs/heads/main
+[submodule "fselect"]
+	url = https://github.com/conda-forge/fselect-feedstock.git
+	path = feedstocks/fselect
+	branch = refs/heads/main
