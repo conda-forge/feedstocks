@@ -94002,3 +94002,7 @@
 	url = https://github.com/conda-forge/zet-feedstock.git
 	path = feedstocks/zet
 	branch = refs/heads/main
+[submodule "wordllama"]
+	url = https://github.com/conda-forge/wordllama-feedstock.git
+	path = feedstocks/wordllama
+	branch = refs/heads/main
