@@ -93994,3 +93994,7 @@
 	url = https://github.com/conda-forge/spiderweb-framework-feedstock.git
 	path = feedstocks/spiderweb-framework
 	branch = refs/heads/main
+[submodule "ddh"]
+	url = https://github.com/conda-forge/ddh-feedstock.git
+	path = feedstocks/ddh
+	branch = refs/heads/main
