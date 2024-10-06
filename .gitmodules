@@ -93990,3 +93990,7 @@
 	url = https://github.com/conda-forge/djade-feedstock.git
 	path = feedstocks/djade
 	branch = refs/heads/main
+[submodule "spiderweb-framework"]
+	url = https://github.com/conda-forge/spiderweb-framework-feedstock.git
+	path = feedstocks/spiderweb-framework
+	branch = refs/heads/main
