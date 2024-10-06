@@ -94018,3 +94018,7 @@
 	url = https://github.com/conda-forge/diskus-feedstock.git
 	path = feedstocks/diskus
 	branch = refs/heads/main
+[submodule "django-q2"]
+	url = https://github.com/conda-forge/django-q2-feedstock.git
+	path = feedstocks/django-q2
+	branch = refs/heads/main
