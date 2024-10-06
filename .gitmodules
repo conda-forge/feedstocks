@@ -93982,3 +93982,7 @@
 	url = https://github.com/conda-forge/diskonaut-feedstock.git
 	path = feedstocks/diskonaut
 	branch = refs/heads/main
+[submodule "kondo"]
+	url = https://github.com/conda-forge/kondo-feedstock.git
+	path = feedstocks/kondo
+	branch = refs/heads/main
