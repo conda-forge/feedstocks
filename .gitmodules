@@ -94006,3 +94006,7 @@
 	url = https://github.com/conda-forge/wordllama-feedstock.git
 	path = feedstocks/wordllama
 	branch = refs/heads/main
+[submodule "fclones"]
+	url = https://github.com/conda-forge/fclones-feedstock.git
+	path = feedstocks/fclones
+	branch = refs/heads/main
