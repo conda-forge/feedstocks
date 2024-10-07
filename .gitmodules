@@ -94078,3 +94078,7 @@
 	url = https://github.com/conda-forge/skyrim-feedstock.git
 	path = feedstocks/skyrim
 	branch = refs/heads/main
+[submodule "distoptica"]
+	url = https://github.com/conda-forge/distoptica-feedstock.git
+	path = feedstocks/distoptica
+	branch = refs/heads/main
