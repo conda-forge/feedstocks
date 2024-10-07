@@ -94086,3 +94086,7 @@
 	url = https://github.com/conda-forge/boutiques-feedstock.git
 	path = feedstocks/boutiques
 	branch = refs/heads/main
+[submodule "pvandyken-deprecated"]
+	url = https://github.com/conda-forge/pvandyken-deprecated-feedstock.git
+	path = feedstocks/pvandyken-deprecated
+	branch = refs/heads/main
