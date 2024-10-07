@@ -94034,3 +94034,7 @@
 	url = https://github.com/conda-forge/llama-feedstock.git
 	path = feedstocks/llama
 	branch = refs/heads/main
+[submodule "godu"]
+	url = https://github.com/conda-forge/godu-feedstock.git
+	path = feedstocks/godu
+	branch = refs/heads/main
