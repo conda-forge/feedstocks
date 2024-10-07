@@ -94066,3 +94066,7 @@
 	url = https://github.com/conda-forge/pycallgraphix-feedstock.git
 	path = feedstocks/pycallgraphix
 	branch = refs/heads/main
+[submodule "nvidia-modulus"]
+	url = https://github.com/conda-forge/nvidia-modulus-feedstock.git
+	path = feedstocks/nvidia-modulus
+	branch = refs/heads/main
