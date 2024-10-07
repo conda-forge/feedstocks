@@ -94082,3 +94082,7 @@
 	url = https://github.com/conda-forge/distoptica-feedstock.git
 	path = feedstocks/distoptica
 	branch = refs/heads/main
+[submodule "boutiques"]
+	url = https://github.com/conda-forge/boutiques-feedstock.git
+	path = feedstocks/boutiques
+	branch = refs/heads/main
