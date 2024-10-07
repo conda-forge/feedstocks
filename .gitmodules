@@ -94042,3 +94042,7 @@
 	url = https://github.com/conda-forge/gdu-feedstock.git
 	path = feedstocks/gdu
 	branch = refs/heads/main
+[submodule "durationpy"]
+	url = https://github.com/conda-forge/durationpy-feedstock.git
+	path = feedstocks/durationpy
+	branch = refs/heads/main
