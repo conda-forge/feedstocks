@@ -94070,3 +94070,7 @@
 	url = https://github.com/conda-forge/nvidia-modulus-feedstock.git
 	path = feedstocks/nvidia-modulus
 	branch = refs/heads/main
+[submodule "earth2mip"]
+	url = https://github.com/conda-forge/earth2mip-feedstock.git
+	path = feedstocks/earth2mip
+	branch = refs/heads/main
