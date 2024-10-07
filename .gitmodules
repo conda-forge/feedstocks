@@ -94058,3 +94058,7 @@
 	url = https://github.com/conda-forge/lf-feedstock.git
 	path = feedstocks/lf
 	branch = refs/heads/main
+[submodule "splinkclickhouse"]
+	url = https://github.com/conda-forge/splinkclickhouse-feedstock.git
+	path = feedstocks/splinkclickhouse
+	branch = refs/heads/main
