@@ -94130,3 +94130,7 @@
 	url = https://github.com/conda-forge/coredis-feedstock.git
 	path = feedstocks/coredis
 	branch = refs/heads/main
+[submodule "chars"]
+	url = https://github.com/conda-forge/chars-feedstock.git
+	path = feedstocks/chars
+	branch = refs/heads/main
