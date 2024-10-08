@@ -94126,3 +94126,7 @@
 	url = https://github.com/conda-forge/diffpy.fourigui-feedstock.git
 	path = feedstocks/diffpy.fourigui
 	branch = refs/heads/main
+[submodule "coredis"]
+	url = https://github.com/conda-forge/coredis-feedstock.git
+	path = feedstocks/coredis
+	branch = refs/heads/main
