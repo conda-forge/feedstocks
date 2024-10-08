@@ -94174,3 +94174,7 @@
 	url = https://github.com/conda-forge/snowflake.core-feedstock.git
 	path = feedstocks/snowflake.core
 	branch = refs/heads/main
+[submodule "bacon-ls"]
+	url = https://github.com/conda-forge/bacon-ls-feedstock.git
+	path = feedstocks/bacon-ls
+	branch = refs/heads/main
