@@ -94110,3 +94110,7 @@
 	url = https://github.com/conda-forge/scifem-feedstock.git
 	path = feedstocks/scifem
 	branch = refs/heads/main
+[submodule "bacon"]
+	url = https://github.com/conda-forge/bacon-feedstock.git
+	path = feedstocks/bacon
+	branch = refs/heads/main
