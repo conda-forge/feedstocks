@@ -94170,3 +94170,7 @@
 	url = https://github.com/conda-forge/ark-feedstock.git
 	path = feedstocks/ark
 	branch = refs/heads/main
+[submodule "snowflake.core"]
+	url = https://github.com/conda-forge/snowflake.core-feedstock.git
+	path = feedstocks/snowflake.core
+	branch = refs/heads/main
