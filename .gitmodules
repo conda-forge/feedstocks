@@ -94098,3 +94098,7 @@
 	url = https://github.com/conda-forge/periscope-feedstock.git
 	path = feedstocks/periscope
 	branch = refs/heads/main
+[submodule "urllib3-future"]
+	url = https://github.com/conda-forge/urllib3-future-feedstock.git
+	path = feedstocks/urllib3-future
+	branch = refs/heads/main
