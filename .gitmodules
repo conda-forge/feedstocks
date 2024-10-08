@@ -94150,3 +94150,7 @@
 	url = https://github.com/conda-forge/diffpy.srmise-feedstock.git
 	path = feedstocks/diffpy.srmise
 	branch = refs/heads/main
+[submodule "bkt"]
+	url = https://github.com/conda-forge/bkt-feedstock.git
+	path = feedstocks/bkt
+	branch = refs/heads/main
