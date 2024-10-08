@@ -94134,3 +94134,7 @@
 	url = https://github.com/conda-forge/chars-feedstock.git
 	path = feedstocks/chars
 	branch = refs/heads/main
+[submodule "choose-rust"]
+	url = https://github.com/conda-forge/choose-rust-feedstock.git
+	path = feedstocks/choose-rust
+	branch = refs/heads/main
