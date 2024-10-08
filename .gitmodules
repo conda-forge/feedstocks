@@ -94122,3 +94122,7 @@
 	url = https://github.com/conda-forge/mcplot-feedstock.git
 	path = feedstocks/mcplot
 	branch = refs/heads/main
+[submodule "diffpy.fourigui"]
+	url = https://github.com/conda-forge/diffpy.fourigui-feedstock.git
+	path = feedstocks/diffpy.fourigui
+	branch = refs/heads/main
