@@ -94138,3 +94138,7 @@
 	url = https://github.com/conda-forge/choose-rust-feedstock.git
 	path = feedstocks/choose-rust
 	branch = refs/heads/main
+[submodule "bartib"]
+	url = https://github.com/conda-forge/bartib-feedstock.git
+	path = feedstocks/bartib
+	branch = refs/heads/main
