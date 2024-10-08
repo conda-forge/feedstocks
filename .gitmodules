@@ -94166,3 +94166,7 @@
 	url = https://github.com/conda-forge/inference-server-feedstock.git
 	path = feedstocks/inference-server
 	branch = refs/heads/main
+[submodule "ark"]
+	url = https://github.com/conda-forge/ark-feedstock.git
+	path = feedstocks/ark
+	branch = refs/heads/main
