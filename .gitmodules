@@ -94106,3 +94106,7 @@
 	url = https://github.com/conda-forge/jupytergis-packages-feedstock.git
 	path = feedstocks/jupytergis-packages
 	branch = refs/heads/main
+[submodule "scifem"]
+	url = https://github.com/conda-forge/scifem-feedstock.git
+	path = feedstocks/scifem
+	branch = refs/heads/main
