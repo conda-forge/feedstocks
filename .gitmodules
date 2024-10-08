@@ -94154,3 +94154,7 @@
 	url = https://github.com/conda-forge/bkt-feedstock.git
 	path = feedstocks/bkt
 	branch = refs/heads/main
+[submodule "niquests"]
+	url = https://github.com/conda-forge/niquests-feedstock.git
+	path = feedstocks/niquests
+	branch = refs/heads/main
