@@ -94178,3 +94178,7 @@
 	url = https://github.com/conda-forge/bacon-ls-feedstock.git
 	path = feedstocks/bacon-ls
 	branch = refs/heads/main
+[submodule "check-jsonschema"]
+	url = https://github.com/conda-forge/check-jsonschema-feedstock.git
+	path = feedstocks/check-jsonschema
+	branch = refs/heads/main
