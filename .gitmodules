@@ -94162,3 +94162,7 @@
 	url = https://github.com/conda-forge/amp-feedstock.git
 	path = feedstocks/amp
 	branch = refs/heads/main
+[submodule "inference-server"]
+	url = https://github.com/conda-forge/inference-server-feedstock.git
+	path = feedstocks/inference-server
+	branch = refs/heads/main
