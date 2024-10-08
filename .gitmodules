@@ -94118,3 +94118,7 @@
 	url = https://github.com/conda-forge/bottom-feedstock.git
 	path = feedstocks/bottom
 	branch = refs/heads/main
+[submodule "mcplot"]
+	url = https://github.com/conda-forge/mcplot-feedstock.git
+	path = feedstocks/mcplot
+	branch = refs/heads/main
