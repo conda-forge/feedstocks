@@ -94142,3 +94142,7 @@
 	url = https://github.com/conda-forge/bartib-feedstock.git
 	path = feedstocks/bartib
 	branch = refs/heads/main
+[submodule "csview"]
+	url = https://github.com/conda-forge/csview-feedstock.git
+	path = feedstocks/csview
+	branch = refs/heads/main
