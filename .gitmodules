@@ -94186,3 +94186,7 @@
 	url = https://github.com/conda-forge/regress-feedstock.git
 	path = feedstocks/regress
 	branch = refs/heads/main
+[submodule "virtualship"]
+	url = https://github.com/conda-forge/virtualship-feedstock.git
+	path = feedstocks/virtualship
+	branch = refs/heads/main
