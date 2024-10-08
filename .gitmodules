@@ -94102,3 +94102,7 @@
 	url = https://github.com/conda-forge/urllib3-future-feedstock.git
 	path = feedstocks/urllib3-future
 	branch = refs/heads/main
+[submodule "jupytergis-packages"]
+	url = https://github.com/conda-forge/jupytergis-packages-feedstock.git
+	path = feedstocks/jupytergis-packages
+	branch = refs/heads/main
