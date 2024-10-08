@@ -94146,3 +94146,7 @@
 	url = https://github.com/conda-forge/csview-feedstock.git
 	path = feedstocks/csview
 	branch = refs/heads/main
+[submodule "diffpy.srmise"]
+	url = https://github.com/conda-forge/diffpy.srmise-feedstock.git
+	path = feedstocks/diffpy.srmise
+	branch = refs/heads/main
