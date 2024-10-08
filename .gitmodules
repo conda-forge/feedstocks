@@ -94158,3 +94158,7 @@
 	url = https://github.com/conda-forge/niquests-feedstock.git
 	path = feedstocks/niquests
 	branch = refs/heads/main
+[submodule "amp"]
+	url = https://github.com/conda-forge/amp-feedstock.git
+	path = feedstocks/amp
+	branch = refs/heads/main
