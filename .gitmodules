@@ -94206,3 +94206,7 @@
 	url = https://github.com/conda-forge/pyrasa-feedstock.git
 	path = feedstocks/pyrasa
 	branch = refs/heads/main
+[submodule "inplace-abn"]
+	url = https://github.com/conda-forge/inplace-abn-feedstock.git
+	path = feedstocks/inplace-abn
+	branch = refs/heads/main
