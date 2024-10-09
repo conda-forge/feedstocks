@@ -94194,3 +94194,7 @@
 	url = https://github.com/conda-forge/mvapich-feedstock.git
 	path = feedstocks/mvapich
 	branch = refs/heads/main
+[submodule "pydantic-settings-sops"]
+	url = https://github.com/conda-forge/pydantic-settings-sops-feedstock.git
+	path = feedstocks/pydantic-settings-sops
+	branch = refs/heads/main
