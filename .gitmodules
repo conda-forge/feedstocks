@@ -94234,3 +94234,7 @@
 	url = https://github.com/conda-forge/cbonsai-feedstock.git
 	path = feedstocks/cbonsai
 	branch = refs/heads/main
+[submodule "libnvpl-rand"]
+	url = https://github.com/conda-forge/libnvpl-rand-feedstock.git
+	path = feedstocks/libnvpl-rand
+	branch = refs/heads/main
