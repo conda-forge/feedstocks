@@ -94198,3 +94198,7 @@
 	url = https://github.com/conda-forge/pydantic-settings-sops-feedstock.git
 	path = feedstocks/pydantic-settings-sops
 	branch = refs/heads/main
+[submodule "propcache"]
+	url = https://github.com/conda-forge/propcache-feedstock.git
+	path = feedstocks/propcache
+	branch = refs/heads/main
