@@ -94294,3 +94294,7 @@
 	url = https://github.com/conda-forge/dependabot-cli-feedstock.git
 	path = feedstocks/dependabot-cli
 	branch = refs/heads/main
+[submodule "croc"]
+	url = https://github.com/conda-forge/croc-feedstock.git
+	path = feedstocks/croc
+	branch = refs/heads/main
