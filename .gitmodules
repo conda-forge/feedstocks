@@ -94250,3 +94250,7 @@
 	url = https://github.com/conda-forge/libnvpl-feedstock.git
 	path = feedstocks/libnvpl
 	branch = refs/heads/main
+[submodule "libnvpl-lapack"]
+	url = https://github.com/conda-forge/libnvpl-lapack-feedstock.git
+	path = feedstocks/libnvpl-lapack
+	branch = refs/heads/main
