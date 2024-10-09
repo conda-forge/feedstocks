@@ -94202,3 +94202,7 @@
 	url = https://github.com/conda-forge/propcache-feedstock.git
 	path = feedstocks/propcache
 	branch = refs/heads/main
+[submodule "pyrasa"]
+	url = https://github.com/conda-forge/pyrasa-feedstock.git
+	path = feedstocks/pyrasa
+	branch = refs/heads/main
