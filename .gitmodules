@@ -94190,3 +94190,7 @@
 	url = https://github.com/conda-forge/virtualship-feedstock.git
 	path = feedstocks/virtualship
 	branch = refs/heads/main
+[submodule "mvapich"]
+	url = https://github.com/conda-forge/mvapich-feedstock.git
+	path = feedstocks/mvapich
+	branch = refs/heads/main
