@@ -94286,3 +94286,7 @@
 	url = https://github.com/conda-forge/akamai-feedstock.git
 	path = feedstocks/akamai
 	branch = refs/heads/main
+[submodule "ez-zarr"]
+	url = https://github.com/conda-forge/ez-zarr-feedstock.git
+	path = feedstocks/ez-zarr
+	branch = refs/heads/main
