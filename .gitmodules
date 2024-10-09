@@ -94222,3 +94222,7 @@
 	url = https://github.com/conda-forge/libnvpl-fft-feedstock.git
 	path = feedstocks/libnvpl-fft
 	branch = refs/heads/main
+[submodule "libnvpl-scalapack"]
+	url = https://github.com/conda-forge/libnvpl-scalapack-feedstock.git
+	path = feedstocks/libnvpl-scalapack
+	branch = refs/heads/main
