@@ -94282,3 +94282,7 @@
 	url = https://github.com/conda-forge/airy-feedstock.git
 	path = feedstocks/airy
 	branch = refs/heads/main
+[submodule "akamai"]
+	url = https://github.com/conda-forge/akamai-feedstock.git
+	path = feedstocks/akamai
+	branch = refs/heads/main
