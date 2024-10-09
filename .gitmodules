@@ -94262,3 +94262,7 @@
 	url = https://github.com/conda-forge/jupyterlab-quickopen-feedstock.git
 	path = feedstocks/jupyterlab-quickopen
 	branch = refs/heads/main
+[submodule "go-ccat"]
+	url = https://github.com/conda-forge/go-ccat-feedstock.git
+	path = feedstocks/go-ccat
+	branch = refs/heads/main
