@@ -94210,3 +94210,7 @@
 	url = https://github.com/conda-forge/inplace-abn-feedstock.git
 	path = feedstocks/inplace-abn
 	branch = refs/heads/main
+[submodule "scdoc"]
+	url = https://github.com/conda-forge/scdoc-feedstock.git
+	path = feedstocks/scdoc
+	branch = refs/heads/main
