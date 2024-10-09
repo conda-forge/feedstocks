@@ -94218,3 +94218,7 @@
 	url = https://github.com/conda-forge/melodies-monet-feedstock.git
 	path = feedstocks/melodies-monet
 	branch = refs/heads/main
+[submodule "libnvpl-fft"]
+	url = https://github.com/conda-forge/libnvpl-fft-feedstock.git
+	path = feedstocks/libnvpl-fft
+	branch = refs/heads/main
