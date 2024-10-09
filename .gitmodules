@@ -94230,3 +94230,7 @@
 	url = https://github.com/conda-forge/libnvpl-tensor-feedstock.git
 	path = feedstocks/libnvpl-tensor
 	branch = refs/heads/main
+[submodule "cbonsai"]
+	url = https://github.com/conda-forge/cbonsai-feedstock.git
+	path = feedstocks/cbonsai
+	branch = refs/heads/main
