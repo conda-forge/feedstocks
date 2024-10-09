@@ -94226,3 +94226,7 @@
 	url = https://github.com/conda-forge/libnvpl-scalapack-feedstock.git
 	path = feedstocks/libnvpl-scalapack
 	branch = refs/heads/main
+[submodule "libnvpl-tensor"]
+	url = https://github.com/conda-forge/libnvpl-tensor-feedstock.git
+	path = feedstocks/libnvpl-tensor
+	branch = refs/heads/main
