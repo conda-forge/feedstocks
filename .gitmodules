@@ -94290,3 +94290,7 @@
 	url = https://github.com/conda-forge/ez-zarr-feedstock.git
 	path = feedstocks/ez-zarr
 	branch = refs/heads/main
+[submodule "dependabot-cli"]
+	url = https://github.com/conda-forge/dependabot-cli-feedstock.git
+	path = feedstocks/dependabot-cli
+	branch = refs/heads/main
