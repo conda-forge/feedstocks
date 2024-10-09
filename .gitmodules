@@ -94238,3 +94238,7 @@
 	url = https://github.com/conda-forge/libnvpl-rand-feedstock.git
 	path = feedstocks/libnvpl-rand
 	branch = refs/heads/main
+[submodule "libnvpl-common"]
+	url = https://github.com/conda-forge/libnvpl-common-feedstock.git
+	path = feedstocks/libnvpl-common
+	branch = refs/heads/main
