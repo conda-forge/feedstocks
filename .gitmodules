@@ -94258,3 +94258,7 @@
 	url = https://github.com/conda-forge/libnvpl-sparse-feedstock.git
 	path = feedstocks/libnvpl-sparse
 	branch = refs/heads/main
+[submodule "jupyterlab-quickopen"]
+	url = https://github.com/conda-forge/jupyterlab-quickopen-feedstock.git
+	path = feedstocks/jupyterlab-quickopen
+	branch = refs/heads/main
