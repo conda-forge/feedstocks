@@ -94266,3 +94266,7 @@
 	url = https://github.com/conda-forge/go-ccat-feedstock.git
 	path = feedstocks/go-ccat
 	branch = refs/heads/main
+[submodule "cue"]
+	url = https://github.com/conda-forge/cue-feedstock.git
+	path = feedstocks/cue
+	branch = refs/heads/main
