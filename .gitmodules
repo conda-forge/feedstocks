@@ -94310,3 +94310,7 @@
 	url = https://github.com/conda-forge/tag-mne-feedstock.git
 	path = feedstocks/tag-mne
 	branch = refs/heads/main
+[submodule "trivy"]
+	url = https://github.com/conda-forge/trivy-feedstock.git
+	path = feedstocks/trivy
+	branch = refs/heads/main
