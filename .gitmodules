@@ -94334,3 +94334,7 @@
 	url = https://github.com/conda-forge/opensubdiv-feedstock.git
 	path = feedstocks/opensubdiv
 	branch = refs/heads/main
+[submodule "gopherjs"]
+	url = https://github.com/conda-forge/gopherjs-feedstock.git
+	path = feedstocks/gopherjs
+	branch = refs/heads/main
