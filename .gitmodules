@@ -94322,3 +94322,7 @@
 	url = https://github.com/conda-forge/odl-feedstock.git
 	path = feedstocks/odl
 	branch = refs/heads/main
+[submodule "dive"]
+	url = https://github.com/conda-forge/dive-feedstock.git
+	path = feedstocks/dive
+	branch = refs/heads/main
