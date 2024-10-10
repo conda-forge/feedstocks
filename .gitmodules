@@ -94306,3 +94306,7 @@
 	url = https://github.com/conda-forge/npy2bdv-feedstock.git
 	path = feedstocks/npy2bdv
 	branch = refs/heads/main
+[submodule "tag-mne"]
+	url = https://github.com/conda-forge/tag-mne-feedstock.git
+	path = feedstocks/tag-mne
+	branch = refs/heads/main
