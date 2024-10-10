@@ -94318,3 +94318,7 @@
 	url = https://github.com/conda-forge/rocksdict-feedstock.git
 	path = feedstocks/rocksdict
 	branch = refs/heads/main
+[submodule "odl"]
+	url = https://github.com/conda-forge/odl-feedstock.git
+	path = feedstocks/odl
+	branch = refs/heads/main
