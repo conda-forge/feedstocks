@@ -94330,3 +94330,7 @@
 	url = https://github.com/conda-forge/swmm-toolkit-feedstock.git
 	path = feedstocks/swmm-toolkit
 	branch = refs/heads/main
+[submodule "opensubdiv"]
+	url = https://github.com/conda-forge/opensubdiv-feedstock.git
+	path = feedstocks/opensubdiv
+	branch = refs/heads/main
