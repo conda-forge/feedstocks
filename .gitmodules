@@ -94354,3 +94354,7 @@
 	url = https://github.com/conda-forge/gcsfuse-feedstock.git
 	path = feedstocks/gcsfuse
 	branch = refs/heads/main
+[submodule "lbexec"]
+	url = https://github.com/conda-forge/lbexec-feedstock.git
+	path = feedstocks/lbexec
+	branch = refs/heads/main
