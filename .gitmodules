@@ -94314,3 +94314,7 @@
 	url = https://github.com/conda-forge/trivy-feedstock.git
 	path = feedstocks/trivy
 	branch = refs/heads/main
+[submodule "rocksdict"]
+	url = https://github.com/conda-forge/rocksdict-feedstock.git
+	path = feedstocks/rocksdict
+	branch = refs/heads/main
