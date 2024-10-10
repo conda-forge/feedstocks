@@ -94326,3 +94326,7 @@
 	url = https://github.com/conda-forge/dive-feedstock.git
 	path = feedstocks/dive
 	branch = refs/heads/main
+[submodule "swmm-toolkit"]
+	url = https://github.com/conda-forge/swmm-toolkit-feedstock.git
+	path = feedstocks/swmm-toolkit
+	branch = refs/heads/main
