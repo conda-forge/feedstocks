@@ -94418,3 +94418,7 @@
 	url = https://github.com/conda-forge/pephubclient-feedstock.git
 	path = feedstocks/pephubclient
 	branch = refs/heads/main
+[submodule "eva"]
+	url = https://github.com/conda-forge/eva-feedstock.git
+	path = feedstocks/eva
+	branch = refs/heads/main
