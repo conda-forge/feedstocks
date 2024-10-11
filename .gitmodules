@@ -94414,3 +94414,7 @@
 	url = https://github.com/conda-forge/dua-cli-feedstock.git
 	path = feedstocks/dua-cli
 	branch = refs/heads/main
+[submodule "pephubclient"]
+	url = https://github.com/conda-forge/pephubclient-feedstock.git
+	path = feedstocks/pephubclient
+	branch = refs/heads/main
