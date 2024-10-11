@@ -94394,3 +94394,7 @@
 	url = https://github.com/conda-forge/efm-langserver-feedstock.git
 	path = feedstocks/efm-langserver
 	branch = refs/heads/main
+[submodule "libmaxminddb"]
+	url = https://github.com/conda-forge/libmaxminddb-feedstock.git
+	path = feedstocks/libmaxminddb
+	branch = refs/heads/main
