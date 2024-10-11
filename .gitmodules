@@ -94406,3 +94406,7 @@
 	url = https://github.com/conda-forge/dioxus-feedstock.git
 	path = feedstocks/dioxus
 	branch = refs/heads/main
+[submodule "diffsitter"]
+	url = https://github.com/conda-forge/diffsitter-feedstock.git
+	path = feedstocks/diffsitter
+	branch = refs/heads/main
