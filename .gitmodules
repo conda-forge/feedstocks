@@ -94366,3 +94366,7 @@
 	url = https://github.com/conda-forge/fend-feedstock.git
 	path = feedstocks/fend
 	branch = refs/heads/main
+[submodule "fcp-rust"]
+	url = https://github.com/conda-forge/fcp-rust-feedstock.git
+	path = feedstocks/fcp-rust
+	branch = refs/heads/main
