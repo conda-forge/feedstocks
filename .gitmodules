@@ -94390,3 +94390,7 @@
 	url = https://github.com/conda-forge/fq-feedstock.git
 	path = feedstocks/fq
 	branch = refs/heads/main
+[submodule "efm-langserver"]
+	url = https://github.com/conda-forge/efm-langserver-feedstock.git
+	path = feedstocks/efm-langserver
+	branch = refs/heads/main
