@@ -94358,3 +94358,7 @@
 	url = https://github.com/conda-forge/lbexec-feedstock.git
 	path = feedstocks/lbexec
 	branch = refs/heads/main
+[submodule "fblog"]
+	url = https://github.com/conda-forge/fblog-feedstock.git
+	path = feedstocks/fblog
+	branch = refs/heads/main
