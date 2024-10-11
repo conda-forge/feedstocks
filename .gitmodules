@@ -94398,3 +94398,7 @@
 	url = https://github.com/conda-forge/libmaxminddb-feedstock.git
 	path = feedstocks/libmaxminddb
 	branch = refs/heads/main
+[submodule "earthlyls"]
+	url = https://github.com/conda-forge/earthlyls-feedstock.git
+	path = feedstocks/earthlyls
+	branch = refs/heads/main
