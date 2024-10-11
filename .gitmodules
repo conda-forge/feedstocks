@@ -94410,3 +94410,7 @@
 	url = https://github.com/conda-forge/diffsitter-feedstock.git
 	path = feedstocks/diffsitter
 	branch = refs/heads/main
+[submodule "dua-cli"]
+	url = https://github.com/conda-forge/dua-cli-feedstock.git
+	path = feedstocks/dua-cli
+	branch = refs/heads/main
