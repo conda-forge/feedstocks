@@ -94370,3 +94370,7 @@
 	url = https://github.com/conda-forge/fcp-rust-feedstock.git
 	path = feedstocks/fcp-rust
 	branch = refs/heads/main
+[submodule "r-vegclust"]
+	url = https://github.com/conda-forge/r-vegclust-feedstock.git
+	path = feedstocks/r-vegclust
+	branch = refs/heads/main
