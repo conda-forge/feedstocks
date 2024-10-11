@@ -94402,3 +94402,7 @@
 	url = https://github.com/conda-forge/earthlyls-feedstock.git
 	path = feedstocks/earthlyls
 	branch = refs/heads/main
+[submodule "dioxus"]
+	url = https://github.com/conda-forge/dioxus-feedstock.git
+	path = feedstocks/dioxus
+	branch = refs/heads/main
