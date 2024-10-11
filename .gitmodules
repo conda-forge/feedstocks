@@ -94382,3 +94382,7 @@
 	url = https://github.com/conda-forge/gaze-feedstock.git
 	path = feedstocks/gaze
 	branch = refs/heads/main
+[submodule "fx"]
+	url = https://github.com/conda-forge/fx-feedstock.git
+	path = feedstocks/fx
+	branch = refs/heads/main
