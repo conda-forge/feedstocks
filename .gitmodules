@@ -94422,3 +94422,7 @@
 	url = https://github.com/conda-forge/eva-feedstock.git
 	path = feedstocks/eva
 	branch = refs/heads/main
+[submodule "meteora"]
+	url = https://github.com/conda-forge/meteora-feedstock.git
+	path = feedstocks/meteora
+	branch = refs/heads/main
