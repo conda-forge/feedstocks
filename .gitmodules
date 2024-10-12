@@ -94434,3 +94434,7 @@
 	url = https://github.com/conda-forge/tree-sitter-python-feedstock.git
 	path = feedstocks/tree-sitter-python
 	branch = refs/heads/main
+[submodule "goaccess"]
+	url = https://github.com/conda-forge/goaccess-feedstock.git
+	path = feedstocks/goaccess
+	branch = refs/heads/main
