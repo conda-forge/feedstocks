@@ -94426,3 +94426,7 @@
 	url = https://github.com/conda-forge/meteora-feedstock.git
 	path = feedstocks/meteora
 	branch = refs/heads/main
+[submodule "rush"]
+	url = https://github.com/conda-forge/rush-feedstock.git
+	path = feedstocks/rush
+	branch = refs/heads/main
