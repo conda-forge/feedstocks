@@ -94506,3 +94506,7 @@
 	url = https://github.com/conda-forge/influx-cli-feedstock.git
 	path = feedstocks/influx-cli
 	branch = refs/heads/main
+[submodule "htmlq"]
+	url = https://github.com/conda-forge/htmlq-feedstock.git
+	path = feedstocks/htmlq
+	branch = refs/heads/main
