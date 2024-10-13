@@ -94486,3 +94486,7 @@
 	url = https://github.com/conda-forge/codechembook-feedstock.git
 	path = feedstocks/codechembook
 	branch = refs/heads/main
+[submodule "helm-ls"]
+	url = https://github.com/conda-forge/helm-ls-feedstock.git
+	path = feedstocks/helm-ls
+	branch = refs/heads/main
