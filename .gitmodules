@@ -94474,3 +94474,7 @@
 	url = https://github.com/conda-forge/numbat-feedstock.git
 	path = feedstocks/numbat
 	branch = refs/heads/main
+[submodule "diffpy.labpdfproc"]
+	url = https://github.com/conda-forge/diffpy.labpdfproc-feedstock.git
+	path = feedstocks/diffpy.labpdfproc
+	branch = refs/heads/main
