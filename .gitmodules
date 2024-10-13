@@ -94490,3 +94490,7 @@
 	url = https://github.com/conda-forge/helm-ls-feedstock.git
 	path = feedstocks/helm-ls
 	branch = refs/heads/main
+[submodule "htmx-lsp"]
+	url = https://github.com/conda-forge/htmx-lsp-feedstock.git
+	path = feedstocks/htmx-lsp
+	branch = refs/heads/main
