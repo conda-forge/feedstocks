@@ -94458,3 +94458,7 @@
 	url = https://github.com/conda-forge/multiwebcam-feedstock.git
 	path = feedstocks/multiwebcam
 	branch = refs/heads/main
+[submodule "flake8-deprecated"]
+	url = https://github.com/conda-forge/flake8-deprecated-feedstock.git
+	path = feedstocks/flake8-deprecated
+	branch = refs/heads/main
