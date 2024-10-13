@@ -94502,3 +94502,7 @@
 	url = https://github.com/conda-forge/heatseeker-feedstock.git
 	path = feedstocks/heatseeker
 	branch = refs/heads/main
+[submodule "influx-cli"]
+	url = https://github.com/conda-forge/influx-cli-feedstock.git
+	path = feedstocks/influx-cli
+	branch = refs/heads/main
