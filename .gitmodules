@@ -94482,3 +94482,7 @@
 	url = https://github.com/conda-forge/r-ctxr-feedstock.git
 	path = feedstocks/r-ctxr
 	branch = refs/heads/main
+[submodule "codechembook"]
+	url = https://github.com/conda-forge/codechembook-feedstock.git
+	path = feedstocks/codechembook
+	branch = refs/heads/main
