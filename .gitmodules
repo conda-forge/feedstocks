@@ -94514,3 +94514,7 @@
 	url = https://github.com/conda-forge/himalaya-feedstock.git
 	path = feedstocks/himalaya
 	branch = refs/heads/main
+[submodule "openjph"]
+	url = https://github.com/conda-forge/openjph-feedstock.git
+	path = feedstocks/openjph
+	branch = refs/heads/main
