@@ -94470,3 +94470,7 @@
 	url = https://github.com/conda-forge/arcplot-feedstock.git
 	path = feedstocks/arcplot
 	branch = refs/heads/main
+[submodule "numbat"]
+	url = https://github.com/conda-forge/numbat-feedstock.git
+	path = feedstocks/numbat
+	branch = refs/heads/main
