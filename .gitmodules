@@ -94518,3 +94518,7 @@
 	url = https://github.com/conda-forge/openjph-feedstock.git
 	path = feedstocks/openjph
 	branch = refs/heads/main
+[submodule "torchaudio"]
+	url = https://github.com/conda-forge/torchaudio-feedstock.git
+	path = feedstocks/torchaudio
+	branch = refs/heads/main
