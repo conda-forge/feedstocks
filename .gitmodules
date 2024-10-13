@@ -94462,3 +94462,7 @@
 	url = https://github.com/conda-forge/flake8-deprecated-feedstock.git
 	path = feedstocks/flake8-deprecated
 	branch = refs/heads/main
+[submodule "openqdc"]
+	url = https://github.com/conda-forge/openqdc-feedstock.git
+	path = feedstocks/openqdc
+	branch = refs/heads/main
