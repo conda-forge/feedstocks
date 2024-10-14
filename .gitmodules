@@ -94526,3 +94526,7 @@
 	url = https://github.com/conda-forge/mdformat-ruff-feedstock.git
 	path = feedstocks/mdformat-ruff
 	branch = refs/heads/main
+[submodule "jid"]
+	url = https://github.com/conda-forge/jid-feedstock.git
+	path = feedstocks/jid
+	branch = refs/heads/main
