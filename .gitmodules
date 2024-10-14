@@ -94582,3 +94582,7 @@
 	url = https://github.com/conda-forge/libblst-feedstock.git
 	path = feedstocks/libblst
 	branch = refs/heads/main
+[submodule "qcs-api-client-common"]
+	url = https://github.com/conda-forge/qcs-api-client-common-feedstock.git
+	path = feedstocks/qcs-api-client-common
+	branch = refs/heads/main
