@@ -94542,3 +94542,7 @@
 	url = https://github.com/conda-forge/gpg-tui-feedstock.git
 	path = feedstocks/gpg-tui
 	branch = refs/heads/main
+[submodule "gleam"]
+	url = https://github.com/conda-forge/gleam-feedstock.git
+	path = feedstocks/gleam
+	branch = refs/heads/main
