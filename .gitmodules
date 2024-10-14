@@ -94530,3 +94530,7 @@
 	url = https://github.com/conda-forge/jid-feedstock.git
 	path = feedstocks/jid
 	branch = refs/heads/main
+[submodule "foamlib"]
+	url = https://github.com/conda-forge/foamlib-feedstock.git
+	path = feedstocks/foamlib
+	branch = refs/heads/main
