@@ -94554,3 +94554,7 @@
 	url = https://github.com/conda-forge/grex-feedstock.git
 	path = feedstocks/grex
 	branch = refs/heads/main
+[submodule "flux-lsp"]
+	url = https://github.com/conda-forge/flux-lsp-feedstock.git
+	path = feedstocks/flux-lsp
+	branch = refs/heads/main
