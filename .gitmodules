@@ -94586,3 +94586,7 @@
 	url = https://github.com/conda-forge/qcs-api-client-common-feedstock.git
 	path = feedstocks/qcs-api-client-common
 	branch = refs/heads/main
+[submodule "cb-clipboard"]
+	url = https://github.com/conda-forge/cb-clipboard-feedstock.git
+	path = feedstocks/cb-clipboard
+	branch = refs/heads/main
