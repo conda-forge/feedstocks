@@ -94538,3 +94538,7 @@
 	url = https://github.com/conda-forge/cz-changeup-feedstock.git
 	path = feedstocks/cz-changeup
 	branch = refs/heads/main
+[submodule "gpg-tui"]
+	url = https://github.com/conda-forge/gpg-tui-feedstock.git
+	path = feedstocks/gpg-tui
+	branch = refs/heads/main
