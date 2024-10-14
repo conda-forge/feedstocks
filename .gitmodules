@@ -94522,3 +94522,7 @@
 	url = https://github.com/conda-forge/torchaudio-feedstock.git
 	path = feedstocks/torchaudio
 	branch = refs/heads/main
+[submodule "mdformat-ruff"]
+	url = https://github.com/conda-forge/mdformat-ruff-feedstock.git
+	path = feedstocks/mdformat-ruff
+	branch = refs/heads/main
