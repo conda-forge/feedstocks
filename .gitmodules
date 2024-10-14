@@ -94546,3 +94546,7 @@
 	url = https://github.com/conda-forge/gleam-feedstock.git
 	path = feedstocks/gleam
 	branch = refs/heads/main
+[submodule "loop"]
+	url = https://github.com/conda-forge/loop-feedstock.git
+	path = feedstocks/loop
+	branch = refs/heads/main
