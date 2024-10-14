@@ -94570,3 +94570,7 @@
 	url = https://github.com/conda-forge/massren-feedstock.git
 	path = feedstocks/massren
 	branch = refs/heads/main
+[submodule "font-otf-fontawesome"]
+	url = https://github.com/conda-forge/font-otf-fontawesome-feedstock.git
+	path = feedstocks/font-otf-fontawesome
+	branch = refs/heads/main
