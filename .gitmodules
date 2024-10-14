@@ -94562,3 +94562,7 @@
 	url = https://github.com/conda-forge/gitoxide-feedstock.git
 	path = feedstocks/gitoxide
 	branch = refs/heads/main
+[submodule "jsonpp"]
+	url = https://github.com/conda-forge/jsonpp-feedstock.git
+	path = feedstocks/jsonpp
+	branch = refs/heads/main
