@@ -94558,3 +94558,7 @@
 	url = https://github.com/conda-forge/flux-lsp-feedstock.git
 	path = feedstocks/flux-lsp
 	branch = refs/heads/main
+[submodule "gitoxide"]
+	url = https://github.com/conda-forge/gitoxide-feedstock.git
+	path = feedstocks/gitoxide
+	branch = refs/heads/main
