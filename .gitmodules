@@ -94534,3 +94534,7 @@
 	url = https://github.com/conda-forge/foamlib-feedstock.git
 	path = feedstocks/foamlib
 	branch = refs/heads/main
+[submodule "cz-changeup"]
+	url = https://github.com/conda-forge/cz-changeup-feedstock.git
+	path = feedstocks/cz-changeup
+	branch = refs/heads/main
