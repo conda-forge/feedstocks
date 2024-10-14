@@ -94590,3 +94590,7 @@
 	url = https://github.com/conda-forge/cb-clipboard-feedstock.git
 	path = feedstocks/cb-clipboard
 	branch = refs/heads/main
+[submodule "kvrocks"]
+	url = https://github.com/conda-forge/kvrocks-feedstock.git
+	path = feedstocks/kvrocks
+	branch = refs/heads/main
