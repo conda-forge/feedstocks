@@ -94550,3 +94550,7 @@
 	url = https://github.com/conda-forge/loop-feedstock.git
 	path = feedstocks/loop
 	branch = refs/heads/main
+[submodule "grex"]
+	url = https://github.com/conda-forge/grex-feedstock.git
+	path = feedstocks/grex
+	branch = refs/heads/main
