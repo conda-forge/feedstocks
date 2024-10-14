@@ -94598,3 +94598,7 @@
 	url = https://github.com/conda-forge/cargo-nextest-feedstock.git
 	path = feedstocks/cargo-nextest
 	branch = refs/heads/main
+[submodule "quixstreams"]
+	url = https://github.com/conda-forge/quixstreams-feedstock.git
+	path = feedstocks/quixstreams
+	branch = refs/heads/main
