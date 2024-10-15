@@ -94626,3 +94626,7 @@
 	url = https://github.com/conda-forge/ksops-feedstock.git
 	path = feedstocks/ksops
 	branch = refs/heads/main
+[submodule "ibis-ml"]
+	url = https://github.com/conda-forge/ibis-ml-feedstock.git
+	path = feedstocks/ibis-ml
+	branch = refs/heads/main
