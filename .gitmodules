@@ -94606,3 +94606,7 @@
 	url = https://github.com/conda-forge/langgraph-sdk-feedstock.git
 	path = feedstocks/langgraph-sdk
 	branch = refs/heads/main
+[submodule "super_collections"]
+	url = https://github.com/conda-forge/super_collections-feedstock.git
+	path = feedstocks/super_collections
+	branch = refs/heads/main
