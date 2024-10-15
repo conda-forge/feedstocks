@@ -94618,3 +94618,7 @@
 	url = https://github.com/conda-forge/caf.base-feedstock.git
 	path = feedstocks/caf.base
 	branch = refs/heads/main
+[submodule "k9s"]
+	url = https://github.com/conda-forge/k9s-feedstock.git
+	path = feedstocks/k9s
+	branch = refs/heads/main
