@@ -94622,3 +94622,7 @@
 	url = https://github.com/conda-forge/k9s-feedstock.git
 	path = feedstocks/k9s
 	branch = refs/heads/main
+[submodule "ksops"]
+	url = https://github.com/conda-forge/ksops-feedstock.git
+	path = feedstocks/ksops
+	branch = refs/heads/main
