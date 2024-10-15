@@ -94610,3 +94610,7 @@
 	url = https://github.com/conda-forge/super_collections-feedstock.git
 	path = feedstocks/super_collections
 	branch = refs/heads/main
+[submodule "altair-aitools-devkit"]
+	url = https://github.com/conda-forge/altair-aitools-devkit-feedstock.git
+	path = feedstocks/altair-aitools-devkit
+	branch = refs/heads/main
