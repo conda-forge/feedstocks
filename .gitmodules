@@ -94634,3 +94634,7 @@
 	url = https://github.com/conda-forge/slurmgen-feedstock.git
 	path = feedstocks/slurmgen
 	branch = refs/heads/main
+[submodule "r-autometric"]
+	url = https://github.com/conda-forge/r-autometric-feedstock.git
+	path = feedstocks/r-autometric
+	branch = refs/heads/main
