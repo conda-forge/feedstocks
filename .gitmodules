@@ -94614,3 +94614,7 @@
 	url = https://github.com/conda-forge/altair-aitools-devkit-feedstock.git
 	path = feedstocks/altair-aitools-devkit
 	branch = refs/heads/main
+[submodule "caf.base"]
+	url = https://github.com/conda-forge/caf.base-feedstock.git
+	path = feedstocks/caf.base
+	branch = refs/heads/main
