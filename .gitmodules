@@ -94630,3 +94630,7 @@
 	url = https://github.com/conda-forge/ibis-ml-feedstock.git
 	path = feedstocks/ibis-ml
 	branch = refs/heads/main
+[submodule "slurmgen"]
+	url = https://github.com/conda-forge/slurmgen-feedstock.git
+	path = feedstocks/slurmgen
+	branch = refs/heads/main
