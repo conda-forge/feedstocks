@@ -94682,3 +94682,7 @@
 	url = https://github.com/conda-forge/lelwel-feedstock.git
 	path = feedstocks/lelwel
 	branch = refs/heads/main
+[submodule "mako-rust"]
+	url = https://github.com/conda-forge/mako-rust-feedstock.git
+	path = feedstocks/mako-rust
+	branch = refs/heads/main
