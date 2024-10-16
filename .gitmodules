@@ -94670,3 +94670,7 @@
 	url = https://github.com/conda-forge/macchina-feedstock.git
 	path = feedstocks/macchina
 	branch = refs/heads/main
+[submodule "lsd-rust"]
+	url = https://github.com/conda-forge/lsd-rust-feedstock.git
+	path = feedstocks/lsd-rust
+	branch = refs/heads/main
