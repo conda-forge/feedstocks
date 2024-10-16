@@ -94646,3 +94646,7 @@
 	url = https://github.com/conda-forge/pettingzoo-feedstock.git
 	path = feedstocks/pettingzoo
 	branch = refs/heads/main
+[submodule "scisave"]
+	url = https://github.com/conda-forge/scisave-feedstock.git
+	path = feedstocks/scisave
+	branch = refs/heads/main
