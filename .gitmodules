@@ -94662,3 +94662,7 @@
 	url = https://github.com/conda-forge/jinja-lsp-feedstock.git
 	path = feedstocks/jinja-lsp
 	branch = refs/heads/main
+[submodule "hwatch"]
+	url = https://github.com/conda-forge/hwatch-feedstock.git
+	path = feedstocks/hwatch
+	branch = refs/heads/main
