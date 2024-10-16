@@ -94642,3 +94642,7 @@
 	url = https://github.com/conda-forge/binsider-feedstock.git
 	path = feedstocks/binsider
 	branch = refs/heads/main
+[submodule "pettingzoo"]
+	url = https://github.com/conda-forge/pettingzoo-feedstock.git
+	path = feedstocks/pettingzoo
+	branch = refs/heads/main
