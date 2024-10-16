@@ -94674,3 +94674,7 @@
 	url = https://github.com/conda-forge/lsd-rust-feedstock.git
 	path = feedstocks/lsd-rust
 	branch = refs/heads/main
+[submodule "languagetool-rust"]
+	url = https://github.com/conda-forge/languagetool-rust-feedstock.git
+	path = feedstocks/languagetool-rust
+	branch = refs/heads/main
