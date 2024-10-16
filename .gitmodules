@@ -94658,3 +94658,7 @@
 	url = https://github.com/conda-forge/languagetool-code-comments-feedstock.git
 	path = feedstocks/languagetool-code-comments
 	branch = refs/heads/main
+[submodule "jinja-lsp"]
+	url = https://github.com/conda-forge/jinja-lsp-feedstock.git
+	path = feedstocks/jinja-lsp
+	branch = refs/heads/main
