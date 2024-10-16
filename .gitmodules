@@ -94654,3 +94654,7 @@
 	url = https://github.com/conda-forge/kalker-feedstock.git
 	path = feedstocks/kalker
 	branch = refs/heads/main
+[submodule "languagetool-code-comments"]
+	url = https://github.com/conda-forge/languagetool-code-comments-feedstock.git
+	path = feedstocks/languagetool-code-comments
+	branch = refs/heads/main
