@@ -94686,3 +94686,7 @@
 	url = https://github.com/conda-forge/mako-rust-feedstock.git
 	path = feedstocks/mako-rust
 	branch = refs/heads/main
+[submodule "griffe-inherited-docstrings"]
+	url = https://github.com/conda-forge/griffe-inherited-docstrings-feedstock.git
+	path = feedstocks/griffe-inherited-docstrings
+	branch = refs/heads/main
