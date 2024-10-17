@@ -94702,3 +94702,7 @@
 	url = https://github.com/conda-forge/torch-dftd-feedstock.git
 	path = feedstocks/torch-dftd
 	branch = refs/heads/main
+[submodule "gpyconform"]
+	url = https://github.com/conda-forge/gpyconform-feedstock.git
+	path = feedstocks/gpyconform
+	branch = refs/heads/main
