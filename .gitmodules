@@ -94714,3 +94714,7 @@
 	url = https://github.com/conda-forge/legacy-cgi-feedstock.git
 	path = feedstocks/legacy-cgi
 	branch = refs/heads/main
+[submodule "lightrag-hku"]
+	url = https://github.com/conda-forge/lightrag-hku-feedstock.git
+	path = feedstocks/lightrag-hku
+	branch = refs/heads/main
