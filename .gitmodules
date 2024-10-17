@@ -94718,3 +94718,7 @@
 	url = https://github.com/conda-forge/lightrag-hku-feedstock.git
 	path = feedstocks/lightrag-hku
 	branch = refs/heads/main
+[submodule "nano-vectordb"]
+	url = https://github.com/conda-forge/nano-vectordb-feedstock.git
+	path = feedstocks/nano-vectordb
+	branch = refs/heads/main
