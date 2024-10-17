@@ -94706,3 +94706,7 @@
 	url = https://github.com/conda-forge/gpyconform-feedstock.git
 	path = feedstocks/gpyconform
 	branch = refs/heads/main
+[submodule "bioat"]
+	url = https://github.com/conda-forge/bioat-feedstock.git
+	path = feedstocks/bioat
+	branch = refs/heads/main
