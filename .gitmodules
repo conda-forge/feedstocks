@@ -94710,3 +94710,7 @@
 	url = https://github.com/conda-forge/bioat-feedstock.git
 	path = feedstocks/bioat
 	branch = refs/heads/main
+[submodule "legacy-cgi"]
+	url = https://github.com/conda-forge/legacy-cgi-feedstock.git
+	path = feedstocks/legacy-cgi
+	branch = refs/heads/main
