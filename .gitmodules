@@ -94734,3 +94734,7 @@
 	url = https://github.com/conda-forge/timefiller-feedstock.git
 	path = feedstocks/timefiller
 	branch = refs/heads/main
+[submodule "hats-import"]
+	url = https://github.com/conda-forge/hats-import-feedstock.git
+	path = feedstocks/hats-import
+	branch = refs/heads/main
