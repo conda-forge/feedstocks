@@ -94726,3 +94726,7 @@
 	url = https://github.com/conda-forge/hats-feedstock.git
 	path = feedstocks/hats
 	branch = refs/heads/main
+[submodule "scilogger"]
+	url = https://github.com/conda-forge/scilogger-feedstock.git
+	path = feedstocks/scilogger
+	branch = refs/heads/main
