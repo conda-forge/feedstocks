@@ -94742,3 +94742,7 @@
 	url = https://github.com/conda-forge/tabpfn-feedstock.git
 	path = feedstocks/tabpfn
 	branch = refs/heads/main
+[submodule "playwright-stealth"]
+	url = https://github.com/conda-forge/playwright-stealth-feedstock.git
+	path = feedstocks/playwright-stealth
+	branch = refs/heads/main
