@@ -94722,3 +94722,7 @@
 	url = https://github.com/conda-forge/nano-vectordb-feedstock.git
 	path = feedstocks/nano-vectordb
 	branch = refs/heads/main
+[submodule "hats"]
+	url = https://github.com/conda-forge/hats-feedstock.git
+	path = feedstocks/hats
+	branch = refs/heads/main
