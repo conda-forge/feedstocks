@@ -94758,3 +94758,7 @@
 	url = https://github.com/conda-forge/quantile-forest-feedstock.git
 	path = feedstocks/quantile-forest
 	branch = refs/heads/main
+[submodule "numpy_quaddtype"]
+	url = https://github.com/conda-forge/numpy_quaddtype-feedstock.git
+	path = feedstocks/numpy_quaddtype
+	branch = refs/heads/main
