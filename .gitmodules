@@ -94762,3 +94762,7 @@
 	url = https://github.com/conda-forge/numpy_quaddtype-feedstock.git
 	path = feedstocks/numpy_quaddtype
 	branch = refs/heads/main
+[submodule "pytest-playwright"]
+	url = https://github.com/conda-forge/pytest-playwright-feedstock.git
+	path = feedstocks/pytest-playwright
+	branch = refs/heads/main
