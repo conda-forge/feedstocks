@@ -94754,3 +94754,7 @@
 	url = https://github.com/conda-forge/pyironflow-feedstock.git
 	path = feedstocks/pyironflow
 	branch = refs/heads/main
+[submodule "quantile-forest"]
+	url = https://github.com/conda-forge/quantile-forest-feedstock.git
+	path = feedstocks/quantile-forest
+	branch = refs/heads/main
