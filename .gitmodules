@@ -94774,3 +94774,7 @@
 	url = https://github.com/conda-forge/firewxpy-feedstock.git
 	path = feedstocks/firewxpy
 	branch = refs/heads/main
+[submodule "httpx-gssapi"]
+	url = https://github.com/conda-forge/httpx-gssapi-feedstock.git
+	path = feedstocks/httpx-gssapi
+	branch = refs/heads/main
