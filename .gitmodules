@@ -94786,3 +94786,7 @@
 	url = https://github.com/conda-forge/noqt-feedstock.git
 	path = feedstocks/noqt
 	branch = refs/heads/main
+[submodule "font-ttf-twemoji"]
+	url = https://github.com/conda-forge/font-ttf-twemoji-feedstock.git
+	path = feedstocks/font-ttf-twemoji
+	branch = refs/heads/main
