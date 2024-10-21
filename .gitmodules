@@ -94798,3 +94798,7 @@
 	url = https://github.com/conda-forge/duckdb-server-feedstock.git
 	path = feedstocks/duckdb-server
 	branch = refs/heads/main
+[submodule "nebula3-python"]
+	url = https://github.com/conda-forge/nebula3-python-feedstock.git
+	path = feedstocks/nebula3-python
+	branch = refs/heads/main
