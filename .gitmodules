@@ -94794,3 +94794,7 @@
 	url = https://github.com/conda-forge/font-ttf-rubik-feedstock.git
 	path = feedstocks/font-ttf-rubik
 	branch = refs/heads/main
+[submodule "duckdb-server"]
+	url = https://github.com/conda-forge/duckdb-server-feedstock.git
+	path = feedstocks/duckdb-server
+	branch = refs/heads/main
