@@ -94834,3 +94834,7 @@
 	url = https://github.com/conda-forge/rancher-cli-feedstock.git
 	path = feedstocks/rancher-cli
 	branch = refs/heads/main
+[submodule "lasio"]
+	url = https://github.com/conda-forge/lasio-feedstock.git
+	path = feedstocks/lasio
+	branch = refs/heads/main
