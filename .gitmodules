@@ -94838,3 +94838,7 @@
 	url = https://github.com/conda-forge/lasio-feedstock.git
 	path = feedstocks/lasio
 	branch = refs/heads/main
+[submodule "mira-omf"]
+	url = https://github.com/conda-forge/mira-omf-feedstock.git
+	path = feedstocks/mira-omf
+	branch = refs/heads/main
