@@ -94842,3 +94842,7 @@
 	url = https://github.com/conda-forge/mira-omf-feedstock.git
 	path = feedstocks/mira-omf
 	branch = refs/heads/main
+[submodule "simpeg-drivers"]
+	url = https://github.com/conda-forge/simpeg-drivers-feedstock.git
+	path = feedstocks/simpeg-drivers
+	branch = refs/heads/main
