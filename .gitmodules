@@ -94854,3 +94854,7 @@
 	url = https://github.com/conda-forge/las-geoh5-feedstock.git
 	path = feedstocks/las-geoh5
 	branch = refs/heads/main
+[submodule "btop"]
+	url = https://github.com/conda-forge/btop-feedstock.git
+	path = feedstocks/btop
+	branch = refs/heads/main
