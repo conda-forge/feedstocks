@@ -94826,3 +94826,7 @@
 	url = https://github.com/conda-forge/pyarrow-stubs-feedstock.git
 	path = feedstocks/pyarrow-stubs
 	branch = refs/heads/main
+[submodule "nomino"]
+	url = https://github.com/conda-forge/nomino-feedstock.git
+	path = feedstocks/nomino
+	branch = refs/heads/main
