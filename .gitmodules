@@ -94814,3 +94814,7 @@
 	url = https://github.com/conda-forge/gaiaxpy-feedstock.git
 	path = feedstocks/gaiaxpy
 	branch = refs/heads/main
+[submodule "ogs"]
+	url = https://github.com/conda-forge/ogs-feedstock.git
+	path = feedstocks/ogs
+	branch = refs/heads/main
