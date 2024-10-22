@@ -94870,3 +94870,7 @@
 	url = https://github.com/conda-forge/phx-class-registry-feedstock.git
 	path = feedstocks/phx-class-registry
 	branch = refs/heads/main
+[submodule "b2"]
+	url = https://github.com/conda-forge/b2-feedstock.git
+	path = feedstocks/b2
+	branch = refs/heads/main
