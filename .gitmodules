@@ -94850,3 +94850,7 @@
 	url = https://github.com/conda-forge/sevenn-feedstock.git
 	path = feedstocks/sevenn
 	branch = refs/heads/main
+[submodule "las-geoh5"]
+	url = https://github.com/conda-forge/las-geoh5-feedstock.git
+	path = feedstocks/las-geoh5
+	branch = refs/heads/main
