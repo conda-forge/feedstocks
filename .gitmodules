@@ -94862,3 +94862,7 @@
 	url = https://github.com/conda-forge/rst2ansi-feedstock.git
 	path = feedstocks/rst2ansi
 	branch = refs/heads/main
+[submodule "b2sdk"]
+	url = https://github.com/conda-forge/b2sdk-feedstock.git
+	path = feedstocks/b2sdk
+	branch = refs/heads/main
