@@ -94846,3 +94846,7 @@
 	url = https://github.com/conda-forge/simpeg-drivers-feedstock.git
 	path = feedstocks/simpeg-drivers
 	branch = refs/heads/main
+[submodule "sevenn"]
+	url = https://github.com/conda-forge/sevenn-feedstock.git
+	path = feedstocks/sevenn
+	branch = refs/heads/main
