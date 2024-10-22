@@ -94818,3 +94818,7 @@
 	url = https://github.com/conda-forge/ogs-feedstock.git
 	path = feedstocks/ogs
 	branch = refs/heads/main
+[submodule "git-privacy"]
+	url = https://github.com/conda-forge/git-privacy-feedstock.git
+	path = feedstocks/git-privacy
+	branch = refs/heads/main
