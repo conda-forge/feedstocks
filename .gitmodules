@@ -94830,3 +94830,7 @@
 	url = https://github.com/conda-forge/nomino-feedstock.git
 	path = feedstocks/nomino
 	branch = refs/heads/main
+[submodule "rancher-cli"]
+	url = https://github.com/conda-forge/rancher-cli-feedstock.git
+	path = feedstocks/rancher-cli
+	branch = refs/heads/main
