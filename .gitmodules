@@ -94874,3 +94874,7 @@
 	url = https://github.com/conda-forge/b2-feedstock.git
 	path = feedstocks/b2
 	branch = refs/heads/main
+[submodule "logfury"]
+	url = https://github.com/conda-forge/logfury-feedstock.git
+	path = feedstocks/logfury
+	branch = refs/heads/main
