@@ -94882,3 +94882,7 @@
 	url = https://github.com/conda-forge/matchpoint-feedstock.git
 	path = feedstocks/matchpoint
 	branch = refs/heads/main
+[submodule "pyspatialstats"]
+	url = https://github.com/conda-forge/pyspatialstats-feedstock.git
+	path = feedstocks/pyspatialstats
+	branch = refs/heads/main
