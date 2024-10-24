@@ -94930,3 +94930,7 @@
 	url = https://github.com/conda-forge/conda-deny-feedstock.git
 	path = feedstocks/conda-deny
 	branch = refs/heads/main
+[submodule "r-ggalign"]
+	url = https://github.com/conda-forge/r-ggalign-feedstock.git
+	path = feedstocks/r-ggalign
+	branch = refs/heads/main
