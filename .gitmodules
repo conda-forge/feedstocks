@@ -94914,3 +94914,7 @@
 	url = https://github.com/conda-forge/pysmiles-feedstock.git
 	path = feedstocks/pysmiles
 	branch = refs/heads/main
+[submodule "dkimpy"]
+	url = https://github.com/conda-forge/dkimpy-feedstock.git
+	path = feedstocks/dkimpy
+	branch = refs/heads/main
