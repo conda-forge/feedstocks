@@ -94910,3 +94910,7 @@
 	url = https://github.com/conda-forge/r-twdtw-feedstock.git
 	path = feedstocks/r-twdtw
 	branch = refs/heads/main
+[submodule "pysmiles"]
+	url = https://github.com/conda-forge/pysmiles-feedstock.git
+	path = feedstocks/pysmiles
+	branch = refs/heads/main
