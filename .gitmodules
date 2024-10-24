@@ -94918,3 +94918,7 @@
 	url = https://github.com/conda-forge/dkimpy-feedstock.git
 	path = feedstocks/dkimpy
 	branch = refs/heads/main
+[submodule "patatt"]
+	url = https://github.com/conda-forge/patatt-feedstock.git
+	path = feedstocks/patatt
+	branch = refs/heads/main
