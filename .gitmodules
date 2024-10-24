@@ -94934,3 +94934,7 @@
 	url = https://github.com/conda-forge/r-ggalign-feedstock.git
 	path = feedstocks/r-ggalign
 	branch = refs/heads/main
+[submodule "ccorp-yaml-include-relative-path"]
+	url = https://github.com/conda-forge/ccorp-yaml-include-relative-path-feedstock.git
+	path = feedstocks/ccorp-yaml-include-relative-path
+	branch = refs/heads/main
