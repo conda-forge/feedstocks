@@ -94926,3 +94926,7 @@
 	url = https://github.com/conda-forge/b4-feedstock.git
 	path = feedstocks/b4
 	branch = refs/heads/main
+[submodule "conda-deny"]
+	url = https://github.com/conda-forge/conda-deny-feedstock.git
+	path = feedstocks/conda-deny
+	branch = refs/heads/main
