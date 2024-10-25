@@ -94942,3 +94942,7 @@
 	url = https://github.com/conda-forge/defectpl-feedstock.git
 	path = feedstocks/defectpl
 	branch = refs/heads/main
+[submodule "roms-tools"]
+	url = https://github.com/conda-forge/roms-tools-feedstock.git
+	path = feedstocks/roms-tools
+	branch = refs/heads/main
