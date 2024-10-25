@@ -94950,3 +94950,7 @@
 	url = https://github.com/conda-forge/bat-extras-feedstock.git
 	path = feedstocks/bat-extras
 	branch = refs/heads/main
+[submodule "hazelbean"]
+	url = https://github.com/conda-forge/hazelbean-feedstock.git
+	path = feedstocks/hazelbean
+	branch = refs/heads/main
