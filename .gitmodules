@@ -94946,3 +94946,7 @@
 	url = https://github.com/conda-forge/roms-tools-feedstock.git
 	path = feedstocks/roms-tools
 	branch = refs/heads/main
+[submodule "bat-extras"]
+	url = https://github.com/conda-forge/bat-extras-feedstock.git
+	path = feedstocks/bat-extras
+	branch = refs/heads/main
