@@ -94958,3 +94958,7 @@
 	url = https://github.com/conda-forge/servicex-feedstock.git
 	path = feedstocks/servicex
 	branch = refs/heads/main
+[submodule "html5lib-modern"]
+	url = https://github.com/conda-forge/html5lib-modern-feedstock.git
+	path = feedstocks/html5lib-modern
+	branch = refs/heads/main
