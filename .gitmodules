@@ -94966,3 +94966,7 @@
 	url = https://github.com/conda-forge/cucumber-expressions-feedstock.git
 	path = feedstocks/cucumber-expressions
 	branch = refs/heads/main
+[submodule "pcst-fast"]
+	url = https://github.com/conda-forge/pcst-fast-feedstock.git
+	path = feedstocks/pcst-fast
+	branch = refs/heads/main
