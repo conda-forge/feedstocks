@@ -94974,3 +94974,7 @@
 	url = https://github.com/conda-forge/fairchem-core-feedstock.git
 	path = feedstocks/fairchem-core
 	branch = refs/heads/main
+[submodule "spqr"]
+	url = https://github.com/conda-forge/spqr-feedstock.git
+	path = feedstocks/spqr
+	branch = refs/heads/main
