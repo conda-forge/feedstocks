@@ -94970,3 +94970,7 @@
 	url = https://github.com/conda-forge/pcst-fast-feedstock.git
 	path = feedstocks/pcst-fast
 	branch = refs/heads/main
+[submodule "fairchem-core"]
+	url = https://github.com/conda-forge/fairchem-core-feedstock.git
+	path = feedstocks/fairchem-core
+	branch = refs/heads/main
