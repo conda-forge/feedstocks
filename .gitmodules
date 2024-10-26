@@ -94978,3 +94978,7 @@
 	url = https://github.com/conda-forge/spqr-feedstock.git
 	path = feedstocks/spqr
 	branch = refs/heads/main
+[submodule "r-mcr"]
+	url = https://github.com/conda-forge/r-mcr-feedstock.git
+	path = feedstocks/r-mcr
+	branch = refs/heads/main
