@@ -94990,3 +94990,7 @@
 	url = https://github.com/conda-forge/pyglove-feedstock.git
 	path = feedstocks/pyglove
 	branch = refs/heads/main
+[submodule "pytest-xflaky"]
+	url = https://github.com/conda-forge/pytest-xflaky-feedstock.git
+	path = feedstocks/pytest-xflaky
+	branch = refs/heads/main
