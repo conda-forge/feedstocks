@@ -95022,3 +95022,7 @@
 	url = https://github.com/conda-forge/bayesfilter-feedstock.git
 	path = feedstocks/bayesfilter
 	branch = refs/heads/main
+[submodule "urdf-modifiers"]
+	url = https://github.com/conda-forge/urdf-modifiers-feedstock.git
+	path = feedstocks/urdf-modifiers
+	branch = refs/heads/main
