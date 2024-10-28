@@ -94982,3 +94982,7 @@
 	url = https://github.com/conda-forge/r-mcr-feedstock.git
 	path = feedstocks/r-mcr
 	branch = refs/heads/main
+[submodule "datespan"]
+	url = https://github.com/conda-forge/datespan-feedstock.git
+	path = feedstocks/datespan
+	branch = refs/heads/main
