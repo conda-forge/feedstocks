@@ -95002,3 +95002,7 @@
 	url = https://github.com/conda-forge/django-tui-feedstock.git
 	path = feedstocks/django-tui
 	branch = refs/heads/main
+[submodule "hussh"]
+	url = https://github.com/conda-forge/hussh-feedstock.git
+	path = feedstocks/hussh
+	branch = refs/heads/main
