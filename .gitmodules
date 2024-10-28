@@ -95014,3 +95014,7 @@
 	url = https://github.com/conda-forge/git-remote-s3-feedstock.git
 	path = feedstocks/git-remote-s3
 	branch = refs/heads/main
+[submodule "foc"]
+	url = https://github.com/conda-forge/foc-feedstock.git
+	path = feedstocks/foc
+	branch = refs/heads/main
