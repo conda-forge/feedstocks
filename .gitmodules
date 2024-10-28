@@ -94986,3 +94986,7 @@
 	url = https://github.com/conda-forge/datespan-feedstock.git
 	path = feedstocks/datespan
 	branch = refs/heads/main
+[submodule "pyglove"]
+	url = https://github.com/conda-forge/pyglove-feedstock.git
+	path = feedstocks/pyglove
+	branch = refs/heads/main
