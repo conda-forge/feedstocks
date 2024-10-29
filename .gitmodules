@@ -95030,3 +95030,7 @@
 	url = https://github.com/conda-forge/ofxclient-feedstock.git
 	path = feedstocks/ofxclient
 	branch = refs/heads/main
+[submodule "torchseg"]
+	url = https://github.com/conda-forge/torchseg-feedstock.git
+	path = feedstocks/torchseg
+	branch = refs/heads/main
