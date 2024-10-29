@@ -95042,3 +95042,7 @@
 	url = https://github.com/conda-forge/tox-uv-feedstock.git
 	path = feedstocks/tox-uv
 	branch = refs/heads/main
+[submodule "html5rdf"]
+	url = https://github.com/conda-forge/html5rdf-feedstock.git
+	path = feedstocks/html5rdf
+	branch = refs/heads/main
