@@ -95050,3 +95050,7 @@
 	url = https://github.com/conda-forge/sf-hamilton-ui-feedstock.git
 	path = feedstocks/sf-hamilton-ui
 	branch = refs/heads/main
+[submodule "sf-hamilton-sdk"]
+	url = https://github.com/conda-forge/sf-hamilton-sdk-feedstock.git
+	path = feedstocks/sf-hamilton-sdk
+	branch = refs/heads/main
