@@ -95066,3 +95066,7 @@
 	url = https://github.com/conda-forge/lightning-uq-box-feedstock.git
 	path = feedstocks/lightning-uq-box
 	branch = refs/heads/main
+[submodule "cylp"]
+	url = https://github.com/conda-forge/cylp-feedstock.git
+	path = feedstocks/cylp
+	branch = refs/heads/main
