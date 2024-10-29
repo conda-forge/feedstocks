@@ -95054,3 +95054,7 @@
 	url = https://github.com/conda-forge/sf-hamilton-sdk-feedstock.git
 	path = feedstocks/sf-hamilton-sdk
 	branch = refs/heads/main
+[submodule "sqlmesh"]
+	url = https://github.com/conda-forge/sqlmesh-feedstock.git
+	path = feedstocks/sqlmesh
+	branch = refs/heads/main
