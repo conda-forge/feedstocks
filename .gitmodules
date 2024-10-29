@@ -95034,3 +95034,7 @@
 	url = https://github.com/conda-forge/torchseg-feedstock.git
 	path = feedstocks/torchseg
 	branch = refs/heads/main
+[submodule "r-bshazard"]
+	url = https://github.com/conda-forge/r-bshazard-feedstock.git
+	path = feedstocks/r-bshazard
+	branch = refs/heads/main
