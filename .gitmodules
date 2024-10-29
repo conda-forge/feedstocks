@@ -95058,3 +95058,7 @@
 	url = https://github.com/conda-forge/sqlmesh-feedstock.git
 	path = feedstocks/sqlmesh
 	branch = refs/heads/main
+[submodule "mofax"]
+	url = https://github.com/conda-forge/mofax-feedstock.git
+	path = feedstocks/mofax
+	branch = refs/heads/main
