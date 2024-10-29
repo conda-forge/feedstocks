@@ -95062,3 +95062,7 @@
 	url = https://github.com/conda-forge/mofax-feedstock.git
 	path = feedstocks/mofax
 	branch = refs/heads/main
+[submodule "lightning-uq-box"]
+	url = https://github.com/conda-forge/lightning-uq-box-feedstock.git
+	path = feedstocks/lightning-uq-box
+	branch = refs/heads/main
