@@ -95038,3 +95038,7 @@
 	url = https://github.com/conda-forge/r-bshazard-feedstock.git
 	path = feedstocks/r-bshazard
 	branch = refs/heads/main
+[submodule "tox-uv"]
+	url = https://github.com/conda-forge/tox-uv-feedstock.git
+	path = feedstocks/tox-uv
+	branch = refs/heads/main
