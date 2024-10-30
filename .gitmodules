@@ -95070,3 +95070,7 @@
 	url = https://github.com/conda-forge/cylp-feedstock.git
 	path = feedstocks/cylp
 	branch = refs/heads/main
+[submodule "burr"]
+	url = https://github.com/conda-forge/burr-feedstock.git
+	path = feedstocks/burr
+	branch = refs/heads/main
