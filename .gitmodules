@@ -95098,3 +95098,7 @@
 	url = https://github.com/conda-forge/jupyter-collaboration-ui-feedstock.git
 	path = feedstocks/jupyter-collaboration-ui
 	branch = refs/heads/main
+[submodule "pygasflow"]
+	url = https://github.com/conda-forge/pygasflow-feedstock.git
+	path = feedstocks/pygasflow
+	branch = refs/heads/main
