@@ -95082,3 +95082,7 @@
 	url = https://github.com/conda-forge/r-s7-feedstock.git
 	path = feedstocks/r-s7
 	branch = refs/heads/main
+[submodule "r-gggrid"]
+	url = https://github.com/conda-forge/r-gggrid-feedstock.git
+	path = feedstocks/r-gggrid
+	branch = refs/heads/main
