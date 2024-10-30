@@ -95074,3 +95074,7 @@
 	url = https://github.com/conda-forge/burr-feedstock.git
 	path = feedstocks/burr
 	branch = refs/heads/main
+[submodule "sphinx_toml"]
+	url = https://github.com/conda-forge/sphinx_toml-feedstock.git
+	path = feedstocks/sphinx_toml
+	branch = refs/heads/main
