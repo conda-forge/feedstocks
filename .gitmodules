@@ -95090,3 +95090,7 @@
 	url = https://github.com/conda-forge/r-growthcleanr-feedstock.git
 	path = feedstocks/r-growthcleanr
 	branch = refs/heads/main
+[submodule "jupyter-docprovider"]
+	url = https://github.com/conda-forge/jupyter-docprovider-feedstock.git
+	path = feedstocks/jupyter-docprovider
+	branch = refs/heads/main
