@@ -95106,3 +95106,7 @@
 	url = https://github.com/conda-forge/libquickfix-feedstock.git
 	path = feedstocks/libquickfix
 	branch = refs/heads/main
+[submodule "autocnet"]
+	url = https://github.com/conda-forge/autocnet-feedstock.git
+	path = feedstocks/autocnet
+	branch = refs/heads/main
