@@ -95102,3 +95102,7 @@
 	url = https://github.com/conda-forge/pygasflow-feedstock.git
 	path = feedstocks/pygasflow
 	branch = refs/heads/main
+[submodule "libquickfix"]
+	url = https://github.com/conda-forge/libquickfix-feedstock.git
+	path = feedstocks/libquickfix
+	branch = refs/heads/main
