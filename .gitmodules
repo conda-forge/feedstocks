@@ -95110,3 +95110,7 @@
 	url = https://github.com/conda-forge/autocnet-feedstock.git
 	path = feedstocks/autocnet
 	branch = refs/heads/main
+[submodule "delphes"]
+	url = https://github.com/conda-forge/delphes-feedstock.git
+	path = feedstocks/delphes
+	branch = refs/heads/main
