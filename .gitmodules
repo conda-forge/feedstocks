@@ -95094,3 +95094,7 @@
 	url = https://github.com/conda-forge/jupyter-docprovider-feedstock.git
 	path = feedstocks/jupyter-docprovider
 	branch = refs/heads/main
+[submodule "jupyter-collaboration-ui"]
+	url = https://github.com/conda-forge/jupyter-collaboration-ui-feedstock.git
+	path = feedstocks/jupyter-collaboration-ui
+	branch = refs/heads/main
