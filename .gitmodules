@@ -95118,3 +95118,7 @@
 	url = https://github.com/conda-forge/toml-fmt-common-feedstock.git
 	path = feedstocks/toml-fmt-common
 	branch = refs/heads/main
+[submodule "etspy"]
+	url = https://github.com/conda-forge/etspy-feedstock.git
+	path = feedstocks/etspy
+	branch = refs/heads/main
