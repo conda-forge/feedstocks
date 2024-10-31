@@ -95114,3 +95114,7 @@
 	url = https://github.com/conda-forge/delphes-feedstock.git
 	path = feedstocks/delphes
 	branch = refs/heads/main
+[submodule "toml-fmt-common"]
+	url = https://github.com/conda-forge/toml-fmt-common-feedstock.git
+	path = feedstocks/toml-fmt-common
+	branch = refs/heads/main
