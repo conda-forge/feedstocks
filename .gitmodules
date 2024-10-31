@@ -95122,3 +95122,7 @@
 	url = https://github.com/conda-forge/etspy-feedstock.git
 	path = feedstocks/etspy
 	branch = refs/heads/main
+[submodule "pytest-beartype"]
+	url = https://github.com/conda-forge/pytest-beartype-feedstock.git
+	path = feedstocks/pytest-beartype
+	branch = refs/heads/main
