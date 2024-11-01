@@ -95170,3 +95170,7 @@
 	url = https://github.com/conda-forge/django-survey-and-report-feedstock.git
 	path = feedstocks/django-survey-and-report
 	branch = refs/heads/main
+[submodule "microsoft-kiota-serialization-json"]
+	url = https://github.com/conda-forge/microsoft-kiota-serialization-json-feedstock.git
+	path = feedstocks/microsoft-kiota-serialization-json
+	branch = refs/heads/main
