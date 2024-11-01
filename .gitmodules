@@ -95150,3 +95150,7 @@
 	url = https://github.com/conda-forge/customersatisfactionmetrics-feedstock.git
 	path = feedstocks/customersatisfactionmetrics
 	branch = refs/heads/main
+[submodule "microsoft-kiota-serialization-multipart"]
+	url = https://github.com/conda-forge/microsoft-kiota-serialization-multipart-feedstock.git
+	path = feedstocks/microsoft-kiota-serialization-multipart
+	branch = refs/heads/main
