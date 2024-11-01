@@ -95162,3 +95162,7 @@
 	url = https://github.com/conda-forge/inifix-feedstock.git
 	path = feedstocks/inifix
 	branch = refs/heads/main
+[submodule "streamlit-searchbox"]
+	url = https://github.com/conda-forge/streamlit-searchbox-feedstock.git
+	path = feedstocks/streamlit-searchbox
+	branch = refs/heads/main
