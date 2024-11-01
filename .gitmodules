@@ -95130,3 +95130,7 @@
 	url = https://github.com/conda-forge/microsoft-kiota-serialization-text-feedstock.git
 	path = feedstocks/microsoft-kiota-serialization-text
 	branch = refs/heads/main
+[submodule "confusable-homoglyphs"]
+	url = https://github.com/conda-forge/confusable-homoglyphs-feedstock.git
+	path = feedstocks/confusable-homoglyphs
+	branch = refs/heads/main
