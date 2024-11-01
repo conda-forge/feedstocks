@@ -95138,3 +95138,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-googleanalytics-feedstock.git
 	path = feedstocks/sphinxcontrib-googleanalytics
 	branch = refs/heads/main
+[submodule "django-registration"]
+	url = https://github.com/conda-forge/django-registration-feedstock.git
+	path = feedstocks/django-registration
+	branch = refs/heads/main
