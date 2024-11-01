@@ -95174,3 +95174,7 @@
 	url = https://github.com/conda-forge/microsoft-kiota-serialization-json-feedstock.git
 	path = feedstocks/microsoft-kiota-serialization-json
 	branch = refs/heads/main
+[submodule "microsoft-kiota-serialization-form"]
+	url = https://github.com/conda-forge/microsoft-kiota-serialization-form-feedstock.git
+	path = feedstocks/microsoft-kiota-serialization-form
+	branch = refs/heads/main
