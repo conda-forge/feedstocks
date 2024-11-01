@@ -95154,3 +95154,7 @@
 	url = https://github.com/conda-forge/microsoft-kiota-serialization-multipart-feedstock.git
 	path = feedstocks/microsoft-kiota-serialization-multipart
 	branch = refs/heads/main
+[submodule "django-bootstrap-form"]
+	url = https://github.com/conda-forge/django-bootstrap-form-feedstock.git
+	path = feedstocks/django-bootstrap-form
+	branch = refs/heads/main
