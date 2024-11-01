@@ -95142,3 +95142,7 @@
 	url = https://github.com/conda-forge/django-registration-feedstock.git
 	path = feedstocks/django-registration
 	branch = refs/heads/main
+[submodule "django-tastypie"]
+	url = https://github.com/conda-forge/django-tastypie-feedstock.git
+	path = feedstocks/django-tastypie
+	branch = refs/heads/main
