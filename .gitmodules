@@ -95134,3 +95134,7 @@
 	url = https://github.com/conda-forge/confusable-homoglyphs-feedstock.git
 	path = feedstocks/confusable-homoglyphs
 	branch = refs/heads/main
+[submodule "sphinxcontrib-googleanalytics"]
+	url = https://github.com/conda-forge/sphinxcontrib-googleanalytics-feedstock.git
+	path = feedstocks/sphinxcontrib-googleanalytics
+	branch = refs/heads/main
