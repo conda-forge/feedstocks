@@ -95126,3 +95126,7 @@
 	url = https://github.com/conda-forge/pytest-beartype-feedstock.git
 	path = feedstocks/pytest-beartype
 	branch = refs/heads/main
+[submodule "microsoft-kiota-serialization-text"]
+	url = https://github.com/conda-forge/microsoft-kiota-serialization-text-feedstock.git
+	path = feedstocks/microsoft-kiota-serialization-text
+	branch = refs/heads/main
