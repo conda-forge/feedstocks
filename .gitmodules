@@ -95186,3 +95186,7 @@
 	url = https://github.com/conda-forge/runs-feedstock.git
 	path = feedstocks/runs
 	branch = refs/heads/main
+[submodule "editor"]
+	url = https://github.com/conda-forge/editor-feedstock.git
+	path = feedstocks/editor
+	branch = refs/heads/main
