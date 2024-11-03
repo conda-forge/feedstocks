@@ -95198,3 +95198,7 @@
 	url = https://github.com/conda-forge/intel-media-driver-feedstock.git
 	path = feedstocks/intel-media-driver
 	branch = refs/heads/main
+[submodule "libvpl"]
+	url = https://github.com/conda-forge/libvpl-feedstock.git
+	path = feedstocks/libvpl
+	branch = refs/heads/main
