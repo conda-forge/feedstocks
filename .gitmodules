@@ -95190,3 +95190,7 @@
 	url = https://github.com/conda-forge/editor-feedstock.git
 	path = feedstocks/editor
 	branch = refs/heads/main
+[submodule "libvpl-tools"]
+	url = https://github.com/conda-forge/libvpl-tools-feedstock.git
+	path = feedstocks/libvpl-tools
+	branch = refs/heads/main
