@@ -95226,3 +95226,7 @@
 	url = https://github.com/conda-forge/wagtailextraicons-feedstock.git
 	path = feedstocks/wagtailextraicons
 	branch = refs/heads/main
+[submodule "wagtail-advanced-form-builder"]
+	url = https://github.com/conda-forge/wagtail-advanced-form-builder-feedstock.git
+	path = feedstocks/wagtail-advanced-form-builder
+	branch = refs/heads/main
