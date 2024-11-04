@@ -95214,3 +95214,7 @@
 	url = https://github.com/conda-forge/timbertrek-feedstock.git
 	path = feedstocks/timbertrek
 	branch = refs/heads/main
+[submodule "perpetual"]
+	url = https://github.com/conda-forge/perpetual-feedstock.git
+	path = feedstocks/perpetual
+	branch = refs/heads/main
