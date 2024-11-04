@@ -95206,3 +95206,7 @@
 	url = https://github.com/conda-forge/crbeam-feedstock.git
 	path = feedstocks/crbeam
 	branch = refs/heads/main
+[submodule "wimsey"]
+	url = https://github.com/conda-forge/wimsey-feedstock.git
+	path = feedstocks/wimsey
+	branch = refs/heads/main
