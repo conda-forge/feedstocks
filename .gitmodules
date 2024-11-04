@@ -95238,3 +95238,7 @@
 	url = https://github.com/conda-forge/phelel-feedstock.git
 	path = feedstocks/phelel
 	branch = refs/heads/main
+[submodule "fasttext-for-deepsearch-glm"]
+	url = https://github.com/conda-forge/fasttext-for-deepsearch-glm-feedstock.git
+	path = feedstocks/fasttext-for-deepsearch-glm
+	branch = refs/heads/main
