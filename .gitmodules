@@ -95230,3 +95230,7 @@
 	url = https://github.com/conda-forge/wagtail-advanced-form-builder-feedstock.git
 	path = feedstocks/wagtail-advanced-form-builder
 	branch = refs/heads/main
+[submodule "obstore"]
+	url = https://github.com/conda-forge/obstore-feedstock.git
+	path = feedstocks/obstore
+	branch = refs/heads/main
