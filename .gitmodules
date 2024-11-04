@@ -95218,3 +95218,7 @@
 	url = https://github.com/conda-forge/perpetual-feedstock.git
 	path = feedstocks/perpetual
 	branch = refs/heads/main
+[submodule "changelist"]
+	url = https://github.com/conda-forge/changelist-feedstock.git
+	path = feedstocks/changelist
+	branch = refs/heads/main
