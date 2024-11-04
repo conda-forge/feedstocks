@@ -95222,3 +95222,7 @@
 	url = https://github.com/conda-forge/changelist-feedstock.git
 	path = feedstocks/changelist
 	branch = refs/heads/main
+[submodule "wagtailextraicons"]
+	url = https://github.com/conda-forge/wagtailextraicons-feedstock.git
+	path = feedstocks/wagtailextraicons
+	branch = refs/heads/main
