@@ -95202,3 +95202,7 @@
 	url = https://github.com/conda-forge/libvpl-feedstock.git
 	path = feedstocks/libvpl
 	branch = refs/heads/main
+[submodule "crbeam"]
+	url = https://github.com/conda-forge/crbeam-feedstock.git
+	path = feedstocks/crbeam
+	branch = refs/heads/main
