@@ -95246,3 +95246,7 @@
 	url = https://github.com/conda-forge/echopop-feedstock.git
 	path = feedstocks/echopop
 	branch = refs/heads/main
+[submodule "cuda_histogram"]
+	url = https://github.com/conda-forge/cuda_histogram-feedstock.git
+	path = feedstocks/cuda_histogram
+	branch = refs/heads/main
