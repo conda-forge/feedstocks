@@ -95242,3 +95242,7 @@
 	url = https://github.com/conda-forge/fasttext-for-deepsearch-glm-feedstock.git
 	path = feedstocks/fasttext-for-deepsearch-glm
 	branch = refs/heads/main
+[submodule "echopop"]
+	url = https://github.com/conda-forge/echopop-feedstock.git
+	path = feedstocks/echopop
+	branch = refs/heads/main
