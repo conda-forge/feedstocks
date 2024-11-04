@@ -95250,3 +95250,7 @@
 	url = https://github.com/conda-forge/cuda_histogram-feedstock.git
 	path = feedstocks/cuda_histogram
 	branch = refs/heads/main
+[submodule "sam-2"]
+	url = https://github.com/conda-forge/sam-2-feedstock.git
+	path = feedstocks/sam-2
+	branch = refs/heads/main
