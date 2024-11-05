@@ -95270,3 +95270,7 @@
 	url = https://github.com/conda-forge/aiida-shell-feedstock.git
 	path = feedstocks/aiida-shell
 	branch = refs/heads/main
+[submodule "solar-data-tools"]
+	url = https://github.com/conda-forge/solar-data-tools-feedstock.git
+	path = feedstocks/solar-data-tools
+	branch = refs/heads/main
