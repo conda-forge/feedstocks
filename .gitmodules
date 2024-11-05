@@ -95262,3 +95262,7 @@
 	url = https://github.com/conda-forge/symbolfit-feedstock.git
 	path = feedstocks/symbolfit
 	branch = refs/heads/main
+[submodule "path-imports"]
+	url = https://github.com/conda-forge/path-imports-feedstock.git
+	path = feedstocks/path-imports
+	branch = refs/heads/main
