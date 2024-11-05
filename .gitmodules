@@ -95254,3 +95254,7 @@
 	url = https://github.com/conda-forge/sam-2-feedstock.git
 	path = feedstocks/sam-2
 	branch = refs/heads/main
+[submodule "meteor-maps"]
+	url = https://github.com/conda-forge/meteor-maps-feedstock.git
+	path = feedstocks/meteor-maps
+	branch = refs/heads/main
