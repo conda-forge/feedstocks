@@ -95266,3 +95266,7 @@
 	url = https://github.com/conda-forge/path-imports-feedstock.git
 	path = feedstocks/path-imports
 	branch = refs/heads/main
+[submodule "aiida-shell"]
+	url = https://github.com/conda-forge/aiida-shell-feedstock.git
+	path = feedstocks/aiida-shell
+	branch = refs/heads/main
