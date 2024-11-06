@@ -95286,3 +95286,7 @@
 	url = https://github.com/conda-forge/loguru-cpp-feedstock.git
 	path = feedstocks/loguru-cpp
 	branch = refs/heads/main
+[submodule "django-currentuser"]
+	url = https://github.com/conda-forge/django-currentuser-feedstock.git
+	path = feedstocks/django-currentuser
+	branch = refs/heads/main
