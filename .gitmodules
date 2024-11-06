@@ -95282,3 +95282,7 @@
 	url = https://github.com/conda-forge/factur-x-feedstock.git
 	path = feedstocks/factur-x
 	branch = refs/heads/main
+[submodule "loguru-cpp"]
+	url = https://github.com/conda-forge/loguru-cpp-feedstock.git
+	path = feedstocks/loguru-cpp
+	branch = refs/heads/main
