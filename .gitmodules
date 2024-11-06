@@ -95278,3 +95278,7 @@
 	url = https://github.com/conda-forge/sober-feedstock.git
 	path = feedstocks/sober
 	branch = refs/heads/main
+[submodule "factur-x"]
+	url = https://github.com/conda-forge/factur-x-feedstock.git
+	path = feedstocks/factur-x
+	branch = refs/heads/main
