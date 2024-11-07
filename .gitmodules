@@ -95322,3 +95322,7 @@
 	url = https://github.com/conda-forge/ccflow-feedstock.git
 	path = feedstocks/ccflow
 	branch = refs/heads/main
+[submodule "atproto"]
+	url = https://github.com/conda-forge/atproto-feedstock.git
+	path = feedstocks/atproto
+	branch = refs/heads/main
