@@ -95318,3 +95318,7 @@
 	url = https://github.com/conda-forge/ai2-olmo-eval-feedstock.git
 	path = feedstocks/ai2-olmo-eval
 	branch = refs/heads/main
+[submodule "ccflow"]
+	url = https://github.com/conda-forge/ccflow-feedstock.git
+	path = feedstocks/ccflow
+	branch = refs/heads/main
