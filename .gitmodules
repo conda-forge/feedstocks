@@ -95326,3 +95326,7 @@
 	url = https://github.com/conda-forge/atproto-feedstock.git
 	path = feedstocks/atproto
 	branch = refs/heads/main
+[submodule "fastpdb"]
+	url = https://github.com/conda-forge/fastpdb-feedstock.git
+	path = feedstocks/fastpdb
+	branch = refs/heads/main
