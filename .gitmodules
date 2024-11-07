@@ -95294,3 +95294,7 @@
 	url = https://github.com/conda-forge/sherpa-feedstock.git
 	path = feedstocks/sherpa
 	branch = refs/heads/main
+[submodule "belt"]
+	url = https://github.com/conda-forge/belt-feedstock.git
+	path = feedstocks/belt
+	branch = refs/heads/main
