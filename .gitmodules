@@ -95290,3 +95290,7 @@
 	url = https://github.com/conda-forge/django-currentuser-feedstock.git
 	path = feedstocks/django-currentuser
 	branch = refs/heads/main
+[submodule "sherpa"]
+	url = https://github.com/conda-forge/sherpa-feedstock.git
+	path = feedstocks/sherpa
+	branch = refs/heads/main
