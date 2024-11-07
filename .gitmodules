@@ -95314,3 +95314,7 @@
 	url = https://github.com/conda-forge/rustic-feedstock.git
 	path = feedstocks/rustic
 	branch = refs/heads/main
+[submodule "ai2-olmo-eval"]
+	url = https://github.com/conda-forge/ai2-olmo-eval-feedstock.git
+	path = feedstocks/ai2-olmo-eval
+	branch = refs/heads/main
