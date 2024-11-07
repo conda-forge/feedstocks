@@ -95310,3 +95310,7 @@
 	url = https://github.com/conda-forge/collier-feedstock.git
 	path = feedstocks/collier
 	branch = refs/heads/main
+[submodule "rustic"]
+	url = https://github.com/conda-forge/rustic-feedstock.git
+	path = feedstocks/rustic
+	branch = refs/heads/main
