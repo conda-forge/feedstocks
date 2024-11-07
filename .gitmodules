@@ -95298,3 +95298,7 @@
 	url = https://github.com/conda-forge/belt-feedstock.git
 	path = feedstocks/belt
 	branch = refs/heads/main
+[submodule "libipld"]
+	url = https://github.com/conda-forge/libipld-feedstock.git
+	path = feedstocks/libipld
+	branch = refs/heads/main
