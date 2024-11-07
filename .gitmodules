@@ -95306,3 +95306,7 @@
 	url = https://github.com/conda-forge/daspy-toolbox-feedstock.git
 	path = feedstocks/daspy-toolbox
 	branch = refs/heads/main
+[submodule "collier"]
+	url = https://github.com/conda-forge/collier-feedstock.git
+	path = feedstocks/collier
+	branch = refs/heads/main
