@@ -95302,3 +95302,7 @@
 	url = https://github.com/conda-forge/libipld-feedstock.git
 	path = feedstocks/libipld
 	branch = refs/heads/main
+[submodule "daspy-toolbox"]
+	url = https://github.com/conda-forge/daspy-toolbox-feedstock.git
+	path = feedstocks/daspy-toolbox
+	branch = refs/heads/main
