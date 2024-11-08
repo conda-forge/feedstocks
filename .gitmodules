@@ -95338,3 +95338,7 @@
 	url = https://github.com/conda-forge/kubernetes-cloud-provider-kind-feedstock.git
 	path = feedstocks/kubernetes-cloud-provider-kind
 	branch = refs/heads/main
+[submodule "pycifstar"]
+	url = https://github.com/conda-forge/pycifstar-feedstock.git
+	path = feedstocks/pycifstar
+	branch = refs/heads/main
