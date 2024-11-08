@@ -95354,3 +95354,7 @@
 	url = https://github.com/conda-forge/please-feedstock.git
 	path = feedstocks/please
 	branch = refs/heads/main
+[submodule "pdfcpu"]
+	url = https://github.com/conda-forge/pdfcpu-feedstock.git
+	path = feedstocks/pdfcpu
+	branch = refs/heads/main
