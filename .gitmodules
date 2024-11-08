@@ -95362,3 +95362,7 @@
 	url = https://github.com/conda-forge/rospo-feedstock.git
 	path = feedstocks/rospo
 	branch = refs/heads/main
+[submodule "protolint"]
+	url = https://github.com/conda-forge/protolint-feedstock.git
+	path = feedstocks/protolint
+	branch = refs/heads/main
