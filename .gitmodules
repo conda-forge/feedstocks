@@ -95374,3 +95374,7 @@
 	url = https://github.com/conda-forge/regols-feedstock.git
 	path = feedstocks/regols
 	branch = refs/heads/main
+[submodule "opa"]
+	url = https://github.com/conda-forge/opa-feedstock.git
+	path = feedstocks/opa
+	branch = refs/heads/main
