@@ -95366,3 +95366,7 @@
 	url = https://github.com/conda-forge/protolint-feedstock.git
 	path = feedstocks/protolint
 	branch = refs/heads/main
+[submodule "pug-lsp"]
+	url = https://github.com/conda-forge/pug-lsp-feedstock.git
+	path = feedstocks/pug-lsp
+	branch = refs/heads/main
