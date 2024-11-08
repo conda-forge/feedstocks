@@ -95342,3 +95342,7 @@
 	url = https://github.com/conda-forge/pycifstar-feedstock.git
 	path = feedstocks/pycifstar
 	branch = refs/heads/main
+[submodule "regal"]
+	url = https://github.com/conda-forge/regal-feedstock.git
+	path = feedstocks/regal
+	branch = refs/heads/main
