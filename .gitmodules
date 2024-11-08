@@ -95346,3 +95346,7 @@
 	url = https://github.com/conda-forge/regal-feedstock.git
 	path = feedstocks/regal
 	branch = refs/heads/main
+[submodule "moar"]
+	url = https://github.com/conda-forge/moar-feedstock.git
+	path = feedstocks/moar
+	branch = refs/heads/main
