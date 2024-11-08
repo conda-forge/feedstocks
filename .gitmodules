@@ -95358,3 +95358,7 @@
 	url = https://github.com/conda-forge/pdfcpu-feedstock.git
 	path = feedstocks/pdfcpu
 	branch = refs/heads/main
+[submodule "rospo"]
+	url = https://github.com/conda-forge/rospo-feedstock.git
+	path = feedstocks/rospo
+	branch = refs/heads/main
