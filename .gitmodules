@@ -95350,3 +95350,7 @@
 	url = https://github.com/conda-forge/moar-feedstock.git
 	path = feedstocks/moar
 	branch = refs/heads/main
+[submodule "please"]
+	url = https://github.com/conda-forge/please-feedstock.git
+	path = feedstocks/please
+	branch = refs/heads/main
