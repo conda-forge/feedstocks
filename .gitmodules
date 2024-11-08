@@ -95334,3 +95334,7 @@
 	url = https://github.com/conda-forge/font-ttf-ibm-plex-sans-feedstock.git
 	path = feedstocks/font-ttf-ibm-plex-sans
 	branch = refs/heads/main
+[submodule "kubernetes-cloud-provider-kind"]
+	url = https://github.com/conda-forge/kubernetes-cloud-provider-kind-feedstock.git
+	path = feedstocks/kubernetes-cloud-provider-kind
+	branch = refs/heads/main
