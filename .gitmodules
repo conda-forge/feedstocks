@@ -95434,3 +95434,7 @@
 	url = https://github.com/conda-forge/markdown-oxide-feedstock.git
 	path = feedstocks/markdown-oxide
 	branch = refs/heads/main
+[submodule "deepsearch-toolkit"]
+	url = https://github.com/conda-forge/deepsearch-toolkit-feedstock.git
+	path = feedstocks/deepsearch-toolkit
+	branch = refs/heads/main
