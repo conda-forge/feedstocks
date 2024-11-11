@@ -95402,3 +95402,7 @@
 	url = https://github.com/conda-forge/streamlit-flow-component-feedstock.git
 	path = feedstocks/streamlit-flow-component
 	branch = refs/heads/main
+[submodule "mcfly"]
+	url = https://github.com/conda-forge/mcfly-feedstock.git
+	path = feedstocks/mcfly
+	branch = refs/heads/main
