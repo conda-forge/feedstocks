@@ -95454,3 +95454,7 @@
 	url = https://github.com/conda-forge/mean-average-precision-feedstock.git
 	path = feedstocks/mean-average-precision
 	branch = refs/heads/main
+[submodule "piq"]
+	url = https://github.com/conda-forge/piq-feedstock.git
+	path = feedstocks/piq
+	branch = refs/heads/main
