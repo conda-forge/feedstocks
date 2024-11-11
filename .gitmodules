@@ -95422,3 +95422,7 @@
 	url = https://github.com/conda-forge/mdbook-feedstock.git
 	path = feedstocks/mdbook
 	branch = refs/heads/main
+[submodule "mprocs"]
+	url = https://github.com/conda-forge/mprocs-feedstock.git
+	path = feedstocks/mprocs
+	branch = refs/heads/main
