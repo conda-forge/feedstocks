@@ -95426,3 +95426,7 @@
 	url = https://github.com/conda-forge/mprocs-feedstock.git
 	path = feedstocks/mprocs
 	branch = refs/heads/main
+[submodule "navi"]
+	url = https://github.com/conda-forge/navi-feedstock.git
+	path = feedstocks/navi
+	branch = refs/heads/main
