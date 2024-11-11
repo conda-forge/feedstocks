@@ -95450,3 +95450,7 @@
 	url = https://github.com/conda-forge/docling-core-feedstock.git
 	path = feedstocks/docling-core
 	branch = refs/heads/main
+[submodule "mean-average-precision"]
+	url = https://github.com/conda-forge/mean-average-precision-feedstock.git
+	path = feedstocks/mean-average-precision
+	branch = refs/heads/main
