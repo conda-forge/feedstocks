@@ -95406,3 +95406,7 @@
 	url = https://github.com/conda-forge/mcfly-feedstock.git
 	path = feedstocks/mcfly
 	branch = refs/heads/main
+[submodule "nickel"]
+	url = https://github.com/conda-forge/nickel-feedstock.git
+	path = feedstocks/nickel
+	branch = refs/heads/main
