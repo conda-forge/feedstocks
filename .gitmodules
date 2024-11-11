@@ -95382,3 +95382,7 @@
 	url = https://github.com/conda-forge/e1-feedstock.git
 	path = feedstocks/e1
 	branch = refs/heads/main
+[submodule "cryspy"]
+	url = https://github.com/conda-forge/cryspy-feedstock.git
+	path = feedstocks/cryspy
+	branch = refs/heads/main
