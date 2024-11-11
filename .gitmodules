@@ -95398,3 +95398,7 @@
 	url = https://github.com/conda-forge/sharedlibpp-feedstock.git
 	path = feedstocks/sharedlibpp
 	branch = refs/heads/main
+[submodule "streamlit-flow-component"]
+	url = https://github.com/conda-forge/streamlit-flow-component-feedstock.git
+	path = feedstocks/streamlit-flow-component
+	branch = refs/heads/main
