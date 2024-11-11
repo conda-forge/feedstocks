@@ -95442,3 +95442,7 @@
 	url = https://github.com/conda-forge/docling-parse-feedstock.git
 	path = feedstocks/docling-parse
 	branch = refs/heads/main
+[submodule "docling-ibm-models"]
+	url = https://github.com/conda-forge/docling-ibm-models-feedstock.git
+	path = feedstocks/docling-ibm-models
+	branch = refs/heads/main
