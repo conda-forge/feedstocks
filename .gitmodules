@@ -95394,3 +95394,7 @@
 	url = https://github.com/conda-forge/pytomoatt-feedstock.git
 	path = feedstocks/pytomoatt
 	branch = refs/heads/main
+[submodule "sharedlibpp"]
+	url = https://github.com/conda-forge/sharedlibpp-feedstock.git
+	path = feedstocks/sharedlibpp
+	branch = refs/heads/main
