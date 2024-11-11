@@ -95410,3 +95410,7 @@
 	url = https://github.com/conda-forge/nickel-feedstock.git
 	path = feedstocks/nickel
 	branch = refs/heads/main
+[submodule "mask"]
+	url = https://github.com/conda-forge/mask-feedstock.git
+	path = feedstocks/mask
+	branch = refs/heads/main
