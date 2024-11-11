@@ -95430,3 +95430,7 @@
 	url = https://github.com/conda-forge/navi-feedstock.git
 	path = feedstocks/navi
 	branch = refs/heads/main
+[submodule "markdown-oxide"]
+	url = https://github.com/conda-forge/markdown-oxide-feedstock.git
+	path = feedstocks/markdown-oxide
+	branch = refs/heads/main
