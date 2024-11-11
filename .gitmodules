@@ -95390,3 +95390,7 @@
 	url = https://github.com/conda-forge/xhydro-feedstock.git
 	path = feedstocks/xhydro
 	branch = refs/heads/main
+[submodule "pytomoatt"]
+	url = https://github.com/conda-forge/pytomoatt-feedstock.git
+	path = feedstocks/pytomoatt
+	branch = refs/heads/main
