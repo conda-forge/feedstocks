@@ -95458,3 +95458,7 @@
 	url = https://github.com/conda-forge/piq-feedstock.git
 	path = feedstocks/piq
 	branch = refs/heads/main
+[submodule "pytango-db"]
+	url = https://github.com/conda-forge/pytango-db-feedstock.git
+	path = feedstocks/pytango-db
+	branch = refs/heads/main
