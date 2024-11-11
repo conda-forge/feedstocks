@@ -95418,3 +95418,7 @@
 	url = https://github.com/conda-forge/melody-feedstock.git
 	path = feedstocks/melody
 	branch = refs/heads/main
+[submodule "mdbook"]
+	url = https://github.com/conda-forge/mdbook-feedstock.git
+	path = feedstocks/mdbook
+	branch = refs/heads/main
