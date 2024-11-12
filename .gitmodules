@@ -95474,3 +95474,7 @@
 	url = https://github.com/conda-forge/mistral-inference-feedstock.git
 	path = feedstocks/mistral-inference
 	branch = refs/heads/main
+[submodule "dyson-equalizer"]
+	url = https://github.com/conda-forge/dyson-equalizer-feedstock.git
+	path = feedstocks/dyson-equalizer
+	branch = refs/heads/main
