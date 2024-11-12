@@ -95502,3 +95502,7 @@
 	url = https://github.com/conda-forge/mkdocs-marimo-feedstock.git
 	path = feedstocks/mkdocs-marimo
 	branch = refs/heads/main
+[submodule "helanal"]
+	url = https://github.com/conda-forge/helanal-feedstock.git
+	path = feedstocks/helanal
+	branch = refs/heads/main
