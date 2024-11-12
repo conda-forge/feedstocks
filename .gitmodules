@@ -95494,3 +95494,7 @@
 	url = https://github.com/conda-forge/ucimlrepo-feedstock.git
 	path = feedstocks/ucimlrepo
 	branch = refs/heads/main
+[submodule "mistral-common"]
+	url = https://github.com/conda-forge/mistral-common-feedstock.git
+	path = feedstocks/mistral-common
+	branch = refs/heads/main
