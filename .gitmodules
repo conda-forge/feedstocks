@@ -95478,3 +95478,7 @@
 	url = https://github.com/conda-forge/dyson-equalizer-feedstock.git
 	path = feedstocks/dyson-equalizer
 	branch = refs/heads/main
+[submodule "types-cffi"]
+	url = https://github.com/conda-forge/types-cffi-feedstock.git
+	path = feedstocks/types-cffi
+	branch = refs/heads/main
