@@ -95482,3 +95482,7 @@
 	url = https://github.com/conda-forge/types-cffi-feedstock.git
 	path = feedstocks/types-cffi
 	branch = refs/heads/main
+[submodule "imagededup"]
+	url = https://github.com/conda-forge/imagededup-feedstock.git
+	path = feedstocks/imagededup
+	branch = refs/heads/main
