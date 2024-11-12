@@ -95498,3 +95498,7 @@
 	url = https://github.com/conda-forge/mistral-common-feedstock.git
 	path = feedstocks/mistral-common
 	branch = refs/heads/main
+[submodule "mkdocs-marimo"]
+	url = https://github.com/conda-forge/mkdocs-marimo-feedstock.git
+	path = feedstocks/mkdocs-marimo
+	branch = refs/heads/main
