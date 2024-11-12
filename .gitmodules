@@ -95486,3 +95486,7 @@
 	url = https://github.com/conda-forge/imagededup-feedstock.git
 	path = feedstocks/imagededup
 	branch = refs/heads/main
+[submodule "pytrms"]
+	url = https://github.com/conda-forge/pytrms-feedstock.git
+	path = feedstocks/pytrms
+	branch = refs/heads/main
