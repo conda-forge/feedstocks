@@ -95466,3 +95466,7 @@
 	url = https://github.com/conda-forge/petsird-feedstock.git
 	path = feedstocks/petsird
 	branch = refs/heads/main
+[submodule "check-internet-speed"]
+	url = https://github.com/conda-forge/check-internet-speed-feedstock.git
+	path = feedstocks/check-internet-speed
+	branch = refs/heads/main
