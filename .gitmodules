@@ -95470,3 +95470,7 @@
 	url = https://github.com/conda-forge/check-internet-speed-feedstock.git
 	path = feedstocks/check-internet-speed
 	branch = refs/heads/main
+[submodule "mistral-inference"]
+	url = https://github.com/conda-forge/mistral-inference-feedstock.git
+	path = feedstocks/mistral-inference
+	branch = refs/heads/main
