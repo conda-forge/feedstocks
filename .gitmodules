@@ -95510,3 +95510,7 @@
 	url = https://github.com/conda-forge/r-pastclim-feedstock.git
 	path = feedstocks/r-pastclim
 	branch = refs/heads/main
+[submodule "cadet-python"]
+	url = https://github.com/conda-forge/cadet-python-feedstock.git
+	path = feedstocks/cadet-python
+	branch = refs/heads/main
