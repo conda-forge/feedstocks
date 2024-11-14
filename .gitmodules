@@ -95534,3 +95534,7 @@
 	url = https://github.com/conda-forge/chessnut-feedstock.git
 	path = feedstocks/chessnut
 	branch = refs/heads/main
+[submodule "datapi"]
+	url = https://github.com/conda-forge/datapi-feedstock.git
+	path = feedstocks/datapi
+	branch = refs/heads/main
