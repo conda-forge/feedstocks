@@ -95522,3 +95522,7 @@
 	url = https://github.com/conda-forge/ozzy-pic-feedstock.git
 	path = feedstocks/ozzy-pic
 	branch = refs/heads/main
+[submodule "qcdloop"]
+	url = https://github.com/conda-forge/qcdloop-feedstock.git
+	path = feedstocks/qcdloop
+	branch = refs/heads/main
