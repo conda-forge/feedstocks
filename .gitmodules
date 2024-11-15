@@ -95578,3 +95578,7 @@
 	url = https://github.com/conda-forge/solt-feedstock.git
 	path = feedstocks/solt
 	branch = refs/heads/main
+[submodule "pytdigest"]
+	url = https://github.com/conda-forge/pytdigest-feedstock.git
+	path = feedstocks/pytdigest
+	branch = refs/heads/main
