@@ -95542,3 +95542,7 @@
 	url = https://github.com/conda-forge/clean-notebook-feedstock.git
 	path = feedstocks/clean-notebook
 	branch = refs/heads/main
+[submodule "requests-scitokens"]
+	url = https://github.com/conda-forge/requests-scitokens-feedstock.git
+	path = feedstocks/requests-scitokens
+	branch = refs/heads/main
