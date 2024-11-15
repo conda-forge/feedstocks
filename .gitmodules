@@ -95566,3 +95566,7 @@
 	url = https://github.com/conda-forge/ticker-feedstock.git
 	path = feedstocks/ticker
 	branch = refs/heads/main
+[submodule "snyk-ls"]
+	url = https://github.com/conda-forge/snyk-ls-feedstock.git
+	path = feedstocks/snyk-ls
+	branch = refs/heads/main
