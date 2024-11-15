@@ -95570,3 +95570,7 @@
 	url = https://github.com/conda-forge/snyk-ls-feedstock.git
 	path = feedstocks/snyk-ls
 	branch = refs/heads/main
+[submodule "templ"]
+	url = https://github.com/conda-forge/templ-feedstock.git
+	path = feedstocks/templ
+	branch = refs/heads/main
