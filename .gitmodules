@@ -95562,3 +95562,7 @@
 	url = https://github.com/conda-forge/rsc-2fa-feedstock.git
 	path = feedstocks/rsc-2fa
 	branch = refs/heads/main
+[submodule "ticker"]
+	url = https://github.com/conda-forge/ticker-feedstock.git
+	path = feedstocks/ticker
+	branch = refs/heads/main
