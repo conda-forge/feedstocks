@@ -95538,3 +95538,7 @@
 	url = https://github.com/conda-forge/datapi-feedstock.git
 	path = feedstocks/datapi
 	branch = refs/heads/main
+[submodule "clean-notebook"]
+	url = https://github.com/conda-forge/clean-notebook-feedstock.git
+	path = feedstocks/clean-notebook
+	branch = refs/heads/main
