@@ -95574,3 +95574,7 @@
 	url = https://github.com/conda-forge/templ-feedstock.git
 	path = feedstocks/templ
 	branch = refs/heads/main
+[submodule "solt"]
+	url = https://github.com/conda-forge/solt-feedstock.git
+	path = feedstocks/solt
+	branch = refs/heads/main
