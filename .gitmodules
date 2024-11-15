@@ -95586,3 +95586,7 @@
 	url = https://github.com/conda-forge/sttr-feedstock.git
 	path = feedstocks/sttr
 	branch = refs/heads/main
+[submodule "thrift-ls"]
+	url = https://github.com/conda-forge/thrift-ls-feedstock.git
+	path = feedstocks/thrift-ls
+	branch = refs/heads/main
