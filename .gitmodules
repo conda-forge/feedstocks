@@ -95602,3 +95602,7 @@
 	url = https://github.com/conda-forge/libfabric-feedstock.git
 	path = feedstocks/libfabric
 	branch = refs/heads/main
+[submodule "pytest_ruff"]
+	url = https://github.com/conda-forge/pytest_ruff-feedstock.git
+	path = feedstocks/pytest_ruff
+	branch = refs/heads/main
