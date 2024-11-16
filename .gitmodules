@@ -95598,3 +95598,7 @@
 	url = https://github.com/conda-forge/less-feedstock.git
 	path = feedstocks/less
 	branch = refs/heads/main
+[submodule "libfabric"]
+	url = https://github.com/conda-forge/libfabric-feedstock.git
+	path = feedstocks/libfabric
+	branch = refs/heads/main
