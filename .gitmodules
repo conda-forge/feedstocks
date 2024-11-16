@@ -95594,3 +95594,7 @@
 	url = https://github.com/conda-forge/sift-feedstock.git
 	path = feedstocks/sift
 	branch = refs/heads/main
+[submodule "less"]
+	url = https://github.com/conda-forge/less-feedstock.git
+	path = feedstocks/less
+	branch = refs/heads/main
