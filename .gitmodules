@@ -95626,3 +95626,7 @@
 	url = https://github.com/conda-forge/downsample-feedstock.git
 	path = feedstocks/downsample
 	branch = refs/heads/main
+[submodule "r-semaphore"]
+	url = https://github.com/conda-forge/r-semaphore-feedstock.git
+	path = feedstocks/r-semaphore
+	branch = refs/heads/main
