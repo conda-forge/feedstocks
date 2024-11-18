@@ -95618,3 +95618,7 @@
 	url = https://github.com/conda-forge/atomai-feedstock.git
 	path = feedstocks/atomai
 	branch = refs/heads/main
+[submodule "nanocube"]
+	url = https://github.com/conda-forge/nanocube-feedstock.git
+	path = feedstocks/nanocube
+	branch = refs/heads/main
