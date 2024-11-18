@@ -95622,3 +95622,7 @@
 	url = https://github.com/conda-forge/nanocube-feedstock.git
 	path = feedstocks/nanocube
 	branch = refs/heads/main
+[submodule "downsample"]
+	url = https://github.com/conda-forge/downsample-feedstock.git
+	path = feedstocks/downsample
+	branch = refs/heads/main
