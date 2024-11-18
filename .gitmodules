@@ -95610,3 +95610,7 @@
 	url = https://github.com/conda-forge/ckzg-feedstock.git
 	path = feedstocks/ckzg
 	branch = refs/heads/main
+[submodule "sprocket"]
+	url = https://github.com/conda-forge/sprocket-feedstock.git
+	path = feedstocks/sprocket
+	branch = refs/heads/main
