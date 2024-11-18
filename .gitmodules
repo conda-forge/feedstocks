@@ -95614,3 +95614,7 @@
 	url = https://github.com/conda-forge/sprocket-feedstock.git
 	path = feedstocks/sprocket
 	branch = refs/heads/main
+[submodule "atomai"]
+	url = https://github.com/conda-forge/atomai-feedstock.git
+	path = feedstocks/atomai
+	branch = refs/heads/main
