@@ -95682,3 +95682,7 @@
 	url = https://github.com/conda-forge/oxlint-feedstock.git
 	path = feedstocks/oxlint
 	branch = refs/heads/main
+[submodule "pipe-rename"]
+	url = https://github.com/conda-forge/pipe-rename-feedstock.git
+	path = feedstocks/pipe-rename
+	branch = refs/heads/main
