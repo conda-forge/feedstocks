@@ -95638,3 +95638,7 @@
 	url = https://github.com/conda-forge/r-bedmatrix-feedstock.git
 	path = feedstocks/r-bedmatrix
 	branch = refs/heads/main
+[submodule "r-genio"]
+	url = https://github.com/conda-forge/r-genio-feedstock.git
+	path = feedstocks/r-genio
+	branch = refs/heads/main
