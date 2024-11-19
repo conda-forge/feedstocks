@@ -95674,3 +95674,7 @@
 	url = https://github.com/conda-forge/protols-feedstock.git
 	path = feedstocks/protols
 	branch = refs/heads/main
+[submodule "pueue"]
+	url = https://github.com/conda-forge/pueue-feedstock.git
+	path = feedstocks/pueue
+	branch = refs/heads/main
