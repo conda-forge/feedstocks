@@ -95690,3 +95690,7 @@
 	url = https://github.com/conda-forge/page-feedstock.git
 	path = feedstocks/page
 	branch = refs/heads/main
+[submodule "pbls"]
+	url = https://github.com/conda-forge/pbls-feedstock.git
+	path = feedstocks/pbls
+	branch = refs/heads/main
