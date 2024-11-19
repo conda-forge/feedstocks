@@ -95694,3 +95694,7 @@
 	url = https://github.com/conda-forge/pbls-feedstock.git
 	path = feedstocks/pbls
 	branch = refs/heads/main
+[submodule "pest-language-server"]
+	url = https://github.com/conda-forge/pest-language-server-feedstock.git
+	path = feedstocks/pest-language-server
+	branch = refs/heads/main
