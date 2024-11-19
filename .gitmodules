@@ -95678,3 +95678,7 @@
 	url = https://github.com/conda-forge/pueue-feedstock.git
 	path = feedstocks/pueue
 	branch = refs/heads/main
+[submodule "oxlint"]
+	url = https://github.com/conda-forge/oxlint-feedstock.git
+	path = feedstocks/oxlint
+	branch = refs/heads/main
