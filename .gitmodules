@@ -95698,3 +95698,7 @@
 	url = https://github.com/conda-forge/pest-language-server-feedstock.git
 	path = feedstocks/pest-language-server
 	branch = refs/heads/main
+[submodule "mocket"]
+	url = https://github.com/conda-forge/mocket-feedstock.git
+	path = feedstocks/mocket
+	branch = refs/heads/main
