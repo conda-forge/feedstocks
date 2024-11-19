@@ -95666,3 +95666,7 @@
 	url = https://github.com/conda-forge/procs-feedstock.git
 	path = feedstocks/procs
 	branch = refs/heads/main
+[submodule "pomsky"]
+	url = https://github.com/conda-forge/pomsky-feedstock.git
+	path = feedstocks/pomsky
+	branch = refs/heads/main
