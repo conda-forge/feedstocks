@@ -95662,3 +95662,7 @@
 	url = https://github.com/conda-forge/oneloop-feedstock.git
 	path = feedstocks/oneloop
 	branch = refs/heads/main
+[submodule "procs"]
+	url = https://github.com/conda-forge/procs-feedstock.git
+	path = feedstocks/procs
+	branch = refs/heads/main
