@@ -95654,3 +95654,7 @@
 	url = https://github.com/conda-forge/r-glmtrans-feedstock.git
 	path = feedstocks/r-glmtrans
 	branch = refs/heads/main
+[submodule "einx"]
+	url = https://github.com/conda-forge/einx-feedstock.git
+	path = feedstocks/einx
+	branch = refs/heads/main
