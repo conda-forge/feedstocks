@@ -95630,3 +95630,7 @@
 	url = https://github.com/conda-forge/r-semaphore-feedstock.git
 	path = feedstocks/r-semaphore
 	branch = refs/heads/main
+[submodule "reptyr"]
+	url = https://github.com/conda-forge/reptyr-feedstock.git
+	path = feedstocks/reptyr
+	branch = refs/heads/main
