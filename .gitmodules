@@ -95722,3 +95722,7 @@
 	url = https://github.com/conda-forge/collate-sqllineage-feedstock.git
 	path = feedstocks/collate-sqllineage
 	branch = refs/heads/main
+[submodule "torchkbnufft"]
+	url = https://github.com/conda-forge/torchkbnufft-feedstock.git
+	path = feedstocks/torchkbnufft
+	branch = refs/heads/main
