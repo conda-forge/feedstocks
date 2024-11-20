@@ -95702,3 +95702,7 @@
 	url = https://github.com/conda-forge/mocket-feedstock.git
 	path = feedstocks/mocket
 	branch = refs/heads/main
+[submodule "deepsearch-glm"]
+	url = https://github.com/conda-forge/deepsearch-glm-feedstock.git
+	path = feedstocks/deepsearch-glm
+	branch = refs/heads/main
