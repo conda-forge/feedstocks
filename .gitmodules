@@ -95714,3 +95714,7 @@
 	url = https://github.com/conda-forge/napari-nyxus-feedstock.git
 	path = feedstocks/napari-nyxus
 	branch = refs/heads/main
+[submodule "django-phonenumber-field"]
+	url = https://github.com/conda-forge/django-phonenumber-field-feedstock.git
+	path = feedstocks/django-phonenumber-field
+	branch = refs/heads/main
