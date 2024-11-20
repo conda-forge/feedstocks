@@ -95718,3 +95718,7 @@
 	url = https://github.com/conda-forge/django-phonenumber-field-feedstock.git
 	path = feedstocks/django-phonenumber-field
 	branch = refs/heads/main
+[submodule "collate-sqllineage"]
+	url = https://github.com/conda-forge/collate-sqllineage-feedstock.git
+	path = feedstocks/collate-sqllineage
+	branch = refs/heads/main
