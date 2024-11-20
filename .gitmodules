@@ -95730,3 +95730,7 @@
 	url = https://github.com/conda-forge/glidertest-feedstock.git
 	path = feedstocks/glidertest
 	branch = refs/heads/main
+[submodule "meegkit"]
+	url = https://github.com/conda-forge/meegkit-feedstock.git
+	path = feedstocks/meegkit
+	branch = refs/heads/main
