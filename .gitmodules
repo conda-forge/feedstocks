@@ -95738,3 +95738,7 @@
 	url = https://github.com/conda-forge/meepmeep-feedstock.git
 	path = feedstocks/meepmeep
 	branch = refs/heads/main
+[submodule "atlas-schema"]
+	url = https://github.com/conda-forge/atlas-schema-feedstock.git
+	path = feedstocks/atlas-schema
+	branch = refs/heads/main
