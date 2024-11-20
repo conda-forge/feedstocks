@@ -95710,3 +95710,7 @@
 	url = https://github.com/conda-forge/docling-feedstock.git
 	path = feedstocks/docling
 	branch = refs/heads/main
+[submodule "napari-nyxus"]
+	url = https://github.com/conda-forge/napari-nyxus-feedstock.git
+	path = feedstocks/napari-nyxus
+	branch = refs/heads/main
