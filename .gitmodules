@@ -95734,3 +95734,7 @@
 	url = https://github.com/conda-forge/meegkit-feedstock.git
 	path = feedstocks/meegkit
 	branch = refs/heads/main
+[submodule "meepmeep"]
+	url = https://github.com/conda-forge/meepmeep-feedstock.git
+	path = feedstocks/meepmeep
+	branch = refs/heads/main
