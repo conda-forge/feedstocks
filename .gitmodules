@@ -95726,3 +95726,7 @@
 	url = https://github.com/conda-forge/torchkbnufft-feedstock.git
 	path = feedstocks/torchkbnufft
 	branch = refs/heads/main
+[submodule "glidertest"]
+	url = https://github.com/conda-forge/glidertest-feedstock.git
+	path = feedstocks/glidertest
+	branch = refs/heads/main
