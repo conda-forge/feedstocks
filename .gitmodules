@@ -95798,3 +95798,7 @@
 	url = https://github.com/conda-forge/csvtk-feedstock.git
 	path = feedstocks/csvtk
 	branch = refs/heads/main
+[submodule "go-git"]
+	url = https://github.com/conda-forge/go-git-feedstock.git
+	path = feedstocks/go-git
+	branch = refs/heads/main
