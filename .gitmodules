@@ -95802,3 +95802,7 @@
 	url = https://github.com/conda-forge/go-git-feedstock.git
 	path = feedstocks/go-git
 	branch = refs/heads/main
+[submodule "evcxr"]
+	url = https://github.com/conda-forge/evcxr-feedstock.git
+	path = feedstocks/evcxr
+	branch = refs/heads/main
