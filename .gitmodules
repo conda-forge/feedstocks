@@ -95766,3 +95766,7 @@
 	url = https://github.com/conda-forge/xlens-feedstock.git
 	path = feedstocks/xlens
 	branch = refs/heads/main
+[submodule "finstruments"]
+	url = https://github.com/conda-forge/finstruments-feedstock.git
+	path = feedstocks/finstruments
+	branch = refs/heads/main
