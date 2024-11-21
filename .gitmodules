@@ -95770,3 +95770,7 @@
 	url = https://github.com/conda-forge/finstruments-feedstock.git
 	path = feedstocks/finstruments
 	branch = refs/heads/main
+[submodule "django-appointment"]
+	url = https://github.com/conda-forge/django-appointment-feedstock.git
+	path = feedstocks/django-appointment
+	branch = refs/heads/main
