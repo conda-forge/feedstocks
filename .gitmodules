@@ -95742,3 +95742,7 @@
 	url = https://github.com/conda-forge/atlas-schema-feedstock.git
 	path = feedstocks/atlas-schema
 	branch = refs/heads/main
+[submodule "x-transformers"]
+	url = https://github.com/conda-forge/x-transformers-feedstock.git
+	path = feedstocks/x-transformers
+	branch = refs/heads/main
