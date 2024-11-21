@@ -95762,3 +95762,7 @@
 	url = https://github.com/conda-forge/specreduce-feedstock.git
 	path = feedstocks/specreduce
 	branch = refs/heads/main
+[submodule "xlens"]
+	url = https://github.com/conda-forge/xlens-feedstock.git
+	path = feedstocks/xlens
+	branch = refs/heads/main
