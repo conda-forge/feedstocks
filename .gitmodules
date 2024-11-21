@@ -95750,3 +95750,7 @@
 	url = https://github.com/conda-forge/deffcode-feedstock.git
 	path = feedstocks/deffcode
 	branch = refs/heads/main
+[submodule "azure-mgmt-synapse"]
+	url = https://github.com/conda-forge/azure-mgmt-synapse-feedstock.git
+	path = feedstocks/azure-mgmt-synapse
+	branch = refs/heads/main
