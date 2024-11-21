@@ -95794,3 +95794,7 @@
 	url = https://github.com/conda-forge/zk-feedstock.git
 	path = feedstocks/zk
 	branch = refs/heads/main
+[submodule "csvtk"]
+	url = https://github.com/conda-forge/csvtk-feedstock.git
+	path = feedstocks/csvtk
+	branch = refs/heads/main
