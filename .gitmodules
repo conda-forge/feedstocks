@@ -95814,3 +95814,7 @@
 	url = https://github.com/conda-forge/xnatutils-feedstock.git
 	path = feedstocks/xnatutils
 	branch = refs/heads/main
+[submodule "raysect"]
+	url = https://github.com/conda-forge/raysect-feedstock.git
+	path = feedstocks/raysect
+	branch = refs/heads/main
