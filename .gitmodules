@@ -95818,3 +95818,7 @@
 	url = https://github.com/conda-forge/raysect-feedstock.git
 	path = feedstocks/raysect
 	branch = refs/heads/main
+[submodule "scikit_sundae"]
+	url = https://github.com/conda-forge/scikit_sundae-feedstock.git
+	path = feedstocks/scikit_sundae
+	branch = refs/heads/main
