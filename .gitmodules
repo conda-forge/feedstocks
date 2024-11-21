@@ -95806,3 +95806,7 @@
 	url = https://github.com/conda-forge/evcxr-feedstock.git
 	path = feedstocks/evcxr
 	branch = refs/heads/main
+[submodule "augurs"]
+	url = https://github.com/conda-forge/augurs-feedstock.git
+	path = feedstocks/augurs
+	branch = refs/heads/main
