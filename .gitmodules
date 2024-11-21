@@ -95746,3 +95746,7 @@
 	url = https://github.com/conda-forge/x-transformers-feedstock.git
 	path = feedstocks/x-transformers
 	branch = refs/heads/main
+[submodule "deffcode"]
+	url = https://github.com/conda-forge/deffcode-feedstock.git
+	path = feedstocks/deffcode
+	branch = refs/heads/main
