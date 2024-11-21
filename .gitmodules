@@ -95778,3 +95778,7 @@
 	url = https://github.com/conda-forge/cubedpandas-feedstock.git
 	path = feedstocks/cubedpandas
 	branch = refs/heads/main
+[submodule "kalmangrad"]
+	url = https://github.com/conda-forge/kalmangrad-feedstock.git
+	path = feedstocks/kalmangrad
+	branch = refs/heads/main
