@@ -95822,3 +95822,7 @@
 	url = https://github.com/conda-forge/scikit_sundae-feedstock.git
 	path = feedstocks/scikit_sundae
 	branch = refs/heads/main
+[submodule "safehttpx"]
+	url = https://github.com/conda-forge/safehttpx-feedstock.git
+	path = feedstocks/safehttpx
+	branch = refs/heads/main
