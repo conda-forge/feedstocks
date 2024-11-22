@@ -95942,3 +95942,7 @@
 	url = https://github.com/conda-forge/deply-feedstock.git
 	path = feedstocks/deply
 	branch = refs/heads/main
+[submodule "pixi-inject"]
+	url = https://github.com/conda-forge/pixi-inject-feedstock.git
+	path = feedstocks/pixi-inject
+	branch = refs/heads/main
