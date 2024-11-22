@@ -95914,3 +95914,7 @@
 	url = https://github.com/conda-forge/coal-feedstock.git
 	path = feedstocks/coal
 	branch = refs/heads/main
+[submodule "r-mrmlm"]
+	url = https://github.com/conda-forge/r-mrmlm-feedstock.git
+	path = feedstocks/r-mrmlm
+	branch = refs/heads/main
