@@ -95862,3 +95862,7 @@
 	url = https://github.com/conda-forge/topologicpy-feedstock.git
 	path = feedstocks/topologicpy
 	branch = refs/heads/main
+[submodule "vacuum"]
+	url = https://github.com/conda-forge/vacuum-feedstock.git
+	path = feedstocks/vacuum
+	branch = refs/heads/main
