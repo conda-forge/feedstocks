@@ -95878,3 +95878,7 @@
 	url = https://github.com/conda-forge/datacube-compute-feedstock.git
 	path = feedstocks/datacube-compute
 	branch = refs/heads/main
+[submodule "qpsolvers-eigen"]
+	url = https://github.com/conda-forge/qpsolvers-eigen-feedstock.git
+	path = feedstocks/qpsolvers-eigen
+	branch = refs/heads/main
