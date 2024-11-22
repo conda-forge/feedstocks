@@ -95938,3 +95938,7 @@
 	url = https://github.com/conda-forge/pyeddytracker-feedstock.git
 	path = feedstocks/pyeddytracker
 	branch = refs/heads/main
+[submodule "deply"]
+	url = https://github.com/conda-forge/deply-feedstock.git
+	path = feedstocks/deply
+	branch = refs/heads/main
