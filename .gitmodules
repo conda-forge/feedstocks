@@ -95846,3 +95846,7 @@
 	url = https://github.com/conda-forge/xq-feedstock.git
 	path = feedstocks/xq
 	branch = refs/heads/main
+[submodule "vulkan-validation-layers"]
+	url = https://github.com/conda-forge/vulkan-validation-layers-feedstock.git
+	path = feedstocks/vulkan-validation-layers
+	branch = refs/heads/main
