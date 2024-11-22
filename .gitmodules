@@ -95854,3 +95854,7 @@
 	url = https://github.com/conda-forge/neo4j-python-driver-rust-ext-feedstock.git
 	path = feedstocks/neo4j-python-driver-rust-ext
 	branch = refs/heads/main
+[submodule "up"]
+	url = https://github.com/conda-forge/up-feedstock.git
+	path = feedstocks/up
+	branch = refs/heads/main
