@@ -95850,3 +95850,7 @@
 	url = https://github.com/conda-forge/vulkan-validation-layers-feedstock.git
 	path = feedstocks/vulkan-validation-layers
 	branch = refs/heads/main
+[submodule "neo4j-python-driver-rust-ext"]
+	url = https://github.com/conda-forge/neo4j-python-driver-rust-ext-feedstock.git
+	path = feedstocks/neo4j-python-driver-rust-ext
+	branch = refs/heads/main
