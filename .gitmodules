@@ -95870,3 +95870,7 @@
 	url = https://github.com/conda-forge/wails-feedstock.git
 	path = feedstocks/wails
 	branch = refs/heads/main
+[submodule "topologic-core"]
+	url = https://github.com/conda-forge/topologic-core-feedstock.git
+	path = feedstocks/topologic-core
+	branch = refs/heads/main
