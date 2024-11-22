@@ -95950,3 +95950,7 @@
 	url = https://github.com/conda-forge/interpax-feedstock.git
 	path = feedstocks/interpax
 	branch = refs/heads/main
+[submodule "pytorch_toolbelt"]
+	url = https://github.com/conda-forge/pytorch_toolbelt-feedstock.git
+	path = feedstocks/pytorch_toolbelt
+	branch = refs/heads/main
