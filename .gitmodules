@@ -95902,3 +95902,7 @@
 	url = https://github.com/conda-forge/butane-feedstock.git
 	path = feedstocks/butane
 	branch = refs/heads/main
+[submodule "geometry-central"]
+	url = https://github.com/conda-forge/geometry-central-feedstock.git
+	path = feedstocks/geometry-central
+	branch = refs/heads/main
