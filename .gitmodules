@@ -95874,3 +95874,7 @@
 	url = https://github.com/conda-forge/topologic-core-feedstock.git
 	path = feedstocks/topologic-core
 	branch = refs/heads/main
+[submodule "datacube-compute"]
+	url = https://github.com/conda-forge/datacube-compute-feedstock.git
+	path = feedstocks/datacube-compute
+	branch = refs/heads/main
