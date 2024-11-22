@@ -95826,3 +95826,7 @@
 	url = https://github.com/conda-forge/safehttpx-feedstock.git
 	path = feedstocks/safehttpx
 	branch = refs/heads/main
+[submodule "brename"]
+	url = https://github.com/conda-forge/brename-feedstock.git
+	path = feedstocks/brename
+	branch = refs/heads/main
