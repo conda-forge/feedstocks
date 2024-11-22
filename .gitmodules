@@ -95898,3 +95898,7 @@
 	url = https://github.com/conda-forge/happly-feedstock.git
 	path = feedstocks/happly
 	branch = refs/heads/main
+[submodule "butane"]
+	url = https://github.com/conda-forge/butane-feedstock.git
+	path = feedstocks/butane
+	branch = refs/heads/main
