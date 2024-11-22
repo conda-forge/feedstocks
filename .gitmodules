@@ -95834,3 +95834,7 @@
 	url = https://github.com/conda-forge/yazi-feedstock.git
 	path = feedstocks/yazi
 	branch = refs/heads/main
+[submodule "yamlfmt"]
+	url = https://github.com/conda-forge/yamlfmt-feedstock.git
+	path = feedstocks/yamlfmt
+	branch = refs/heads/main
