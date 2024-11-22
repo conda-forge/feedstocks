@@ -95882,3 +95882,7 @@
 	url = https://github.com/conda-forge/qpsolvers-eigen-feedstock.git
 	path = feedstocks/qpsolvers-eigen
 	branch = refs/heads/main
+[submodule "ampl-asl"]
+	url = https://github.com/conda-forge/ampl-asl-feedstock.git
+	path = feedstocks/ampl-asl
+	branch = refs/heads/main
