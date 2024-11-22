@@ -95962,3 +95962,7 @@
 	url = https://github.com/conda-forge/autocombobox-feedstock.git
 	path = feedstocks/autocombobox
 	branch = refs/heads/main
+[submodule "tkinter-tooltip"]
+	url = https://github.com/conda-forge/tkinter-tooltip-feedstock.git
+	path = feedstocks/tkinter-tooltip
+	branch = refs/heads/main
