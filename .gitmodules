@@ -95918,3 +95918,7 @@
 	url = https://github.com/conda-forge/r-mrmlm-feedstock.git
 	path = feedstocks/r-mrmlm
 	branch = refs/heads/main
+[submodule "lion-pytorch"]
+	url = https://github.com/conda-forge/lion-pytorch-feedstock.git
+	path = feedstocks/lion-pytorch
+	branch = refs/heads/main
