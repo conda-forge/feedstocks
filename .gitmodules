@@ -95858,3 +95858,7 @@
 	url = https://github.com/conda-forge/up-feedstock.git
 	path = feedstocks/up
 	branch = refs/heads/main
+[submodule "topologicpy"]
+	url = https://github.com/conda-forge/topologicpy-feedstock.git
+	path = feedstocks/topologicpy
+	branch = refs/heads/main
