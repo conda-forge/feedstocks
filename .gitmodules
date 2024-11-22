@@ -95886,3 +95886,7 @@
 	url = https://github.com/conda-forge/ampl-asl-feedstock.git
 	path = feedstocks/ampl-asl
 	branch = refs/heads/main
+[submodule "r-spatialsample"]
+	url = https://github.com/conda-forge/r-spatialsample-feedstock.git
+	path = feedstocks/r-spatialsample
+	branch = refs/heads/main
