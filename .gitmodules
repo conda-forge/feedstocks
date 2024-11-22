@@ -95934,3 +95934,7 @@
 	url = https://github.com/conda-forge/cosmopower-feedstock.git
 	path = feedstocks/cosmopower
 	branch = refs/heads/main
+[submodule "pyeddytracker"]
+	url = https://github.com/conda-forge/pyeddytracker-feedstock.git
+	path = feedstocks/pyeddytracker
+	branch = refs/heads/main
