@@ -95926,3 +95926,7 @@
 	url = https://github.com/conda-forge/libnvjpeg2k-split-feedstock.git
 	path = feedstocks/libnvjpeg2k-split
 	branch = refs/heads/main
+[submodule "pipe-operator"]
+	url = https://github.com/conda-forge/pipe-operator-feedstock.git
+	path = feedstocks/pipe-operator
+	branch = refs/heads/main
