@@ -95838,3 +95838,7 @@
 	url = https://github.com/conda-forge/yamlfmt-feedstock.git
 	path = feedstocks/yamlfmt
 	branch = refs/heads/main
+[submodule "idaes-pse"]
+	url = https://github.com/conda-forge/idaes-pse-feedstock.git
+	path = feedstocks/idaes-pse
+	branch = refs/heads/main
