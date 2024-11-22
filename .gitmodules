@@ -95842,3 +95842,7 @@
 	url = https://github.com/conda-forge/idaes-pse-feedstock.git
 	path = feedstocks/idaes-pse
 	branch = refs/heads/main
+[submodule "xq"]
+	url = https://github.com/conda-forge/xq-feedstock.git
+	path = feedstocks/xq
+	branch = refs/heads/main
