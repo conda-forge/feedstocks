@@ -95982,3 +95982,7 @@
 	url = https://github.com/conda-forge/xcp-feedstock.git
 	path = feedstocks/xcp
 	branch = refs/heads/main
+[submodule "beangulp"]
+	url = https://github.com/conda-forge/beangulp-feedstock.git
+	path = feedstocks/beangulp
+	branch = refs/heads/main
