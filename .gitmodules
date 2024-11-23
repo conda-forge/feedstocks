@@ -95974,3 +95974,7 @@
 	url = https://github.com/conda-forge/iommi-feedstock.git
 	path = feedstocks/iommi
 	branch = refs/heads/main
+[submodule "rerankers"]
+	url = https://github.com/conda-forge/rerankers-feedstock.git
+	path = feedstocks/rerankers
+	branch = refs/heads/main
