@@ -96006,3 +96006,7 @@
 	url = https://github.com/conda-forge/looptools-feedstock.git
 	path = feedstocks/looptools
 	branch = refs/heads/main
+[submodule "dante-db"]
+	url = https://github.com/conda-forge/dante-db-feedstock.git
+	path = feedstocks/dante-db
+	branch = refs/heads/main
