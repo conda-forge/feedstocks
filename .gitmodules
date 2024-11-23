@@ -95970,3 +95970,7 @@
 	url = https://github.com/conda-forge/lightapi-feedstock.git
 	path = feedstocks/lightapi
 	branch = refs/heads/main
+[submodule "iommi"]
+	url = https://github.com/conda-forge/iommi-feedstock.git
+	path = feedstocks/iommi
+	branch = refs/heads/main
