@@ -95998,3 +95998,7 @@
 	url = https://github.com/conda-forge/r-tidyplots-feedstock.git
 	path = feedstocks/r-tidyplots
 	branch = refs/heads/main
+[submodule "requests-pelican"]
+	url = https://github.com/conda-forge/requests-pelican-feedstock.git
+	path = feedstocks/requests-pelican
+	branch = refs/heads/main
