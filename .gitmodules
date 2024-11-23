@@ -95986,3 +95986,7 @@
 	url = https://github.com/conda-forge/beangulp-feedstock.git
 	path = feedstocks/beangulp
 	branch = refs/heads/main
+[submodule "seareport-data"]
+	url = https://github.com/conda-forge/seareport-data-feedstock.git
+	path = feedstocks/seareport-data
+	branch = refs/heads/main
