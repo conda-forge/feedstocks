@@ -96002,3 +96002,7 @@
 	url = https://github.com/conda-forge/requests-pelican-feedstock.git
 	path = feedstocks/requests-pelican
 	branch = refs/heads/main
+[submodule "looptools"]
+	url = https://github.com/conda-forge/looptools-feedstock.git
+	path = feedstocks/looptools
+	branch = refs/heads/main
