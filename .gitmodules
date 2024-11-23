@@ -95978,3 +95978,7 @@
 	url = https://github.com/conda-forge/rerankers-feedstock.git
 	path = feedstocks/rerankers
 	branch = refs/heads/main
+[submodule "xcp"]
+	url = https://github.com/conda-forge/xcp-feedstock.git
+	path = feedstocks/xcp
+	branch = refs/heads/main
