@@ -96106,3 +96106,7 @@
 	url = https://github.com/conda-forge/partialjson-feedstock.git
 	path = feedstocks/partialjson
 	branch = refs/heads/main
+[submodule "multicharge"]
+	url = https://github.com/conda-forge/multicharge-feedstock.git
+	path = feedstocks/multicharge
+	branch = refs/heads/main
