@@ -96174,3 +96174,7 @@
 	url = https://github.com/conda-forge/tuc-feedstock.git
 	path = feedstocks/tuc
 	branch = refs/heads/main
+[submodule "tre-command"]
+	url = https://github.com/conda-forge/tre-command-feedstock.git
+	path = feedstocks/tre-command
+	branch = refs/heads/main
