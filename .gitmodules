@@ -96154,3 +96154,7 @@
 	url = https://github.com/conda-forge/uiua-feedstock.git
 	path = feedstocks/uiua
 	branch = refs/heads/main
+[submodule "tidy-viewer"]
+	url = https://github.com/conda-forge/tidy-viewer-feedstock.git
+	path = feedstocks/tidy-viewer
+	branch = refs/heads/main
