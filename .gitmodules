@@ -96078,3 +96078,7 @@
 	url = https://github.com/conda-forge/rm-improved-feedstock.git
 	path = feedstocks/rm-improved
 	branch = refs/heads/main
+[submodule "shadowenv"]
+	url = https://github.com/conda-forge/shadowenv-feedstock.git
+	path = feedstocks/shadowenv
+	branch = refs/heads/main
