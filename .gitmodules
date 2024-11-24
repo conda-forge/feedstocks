@@ -96070,3 +96070,7 @@
 	url = https://github.com/conda-forge/sad-feedstock.git
 	path = feedstocks/sad
 	branch = refs/heads/main
+[submodule "safe-rm"]
+	url = https://github.com/conda-forge/safe-rm-feedstock.git
+	path = feedstocks/safe-rm
+	branch = refs/heads/main
