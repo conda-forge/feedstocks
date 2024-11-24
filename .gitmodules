@@ -96094,3 +96094,7 @@
 	url = https://github.com/conda-forge/pysciencemode-feedstock.git
 	path = feedstocks/pysciencemode
 	branch = refs/heads/main
+[submodule "stellarmesh"]
+	url = https://github.com/conda-forge/stellarmesh-feedstock.git
+	path = feedstocks/stellarmesh
+	branch = refs/heads/main
