@@ -96046,3 +96046,7 @@
 	url = https://github.com/conda-forge/rusync-feedstock.git
 	path = feedstocks/rusync
 	branch = refs/heads/main
+[submodule "shellharden"]
+	url = https://github.com/conda-forge/shellharden-feedstock.git
+	path = feedstocks/shellharden
+	branch = refs/heads/main
