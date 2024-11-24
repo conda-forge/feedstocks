@@ -96178,3 +96178,7 @@
 	url = https://github.com/conda-forge/tre-command-feedstock.git
 	path = feedstocks/tre-command
 	branch = refs/heads/main
+[submodule "onefetch"]
+	url = https://github.com/conda-forge/onefetch-feedstock.git
+	path = feedstocks/onefetch
+	branch = refs/heads/main
