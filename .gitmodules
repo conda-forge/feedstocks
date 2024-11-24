@@ -96082,3 +96082,7 @@
 	url = https://github.com/conda-forge/shadowenv-feedstock.git
 	path = feedstocks/shadowenv
 	branch = refs/heads/main
+[submodule "rune"]
+	url = https://github.com/conda-forge/rune-feedstock.git
+	path = feedstocks/rune
+	branch = refs/heads/main
