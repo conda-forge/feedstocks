@@ -96062,3 +96062,7 @@
 	url = https://github.com/conda-forge/knem-headers-feedstock.git
 	path = feedstocks/knem-headers
 	branch = refs/heads/main
+[submodule "skim"]
+	url = https://github.com/conda-forge/skim-feedstock.git
+	path = feedstocks/skim
+	branch = refs/heads/main
