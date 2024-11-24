@@ -96146,3 +96146,7 @@
 	url = https://github.com/conda-forge/zola-feedstock.git
 	path = feedstocks/zola
 	branch = refs/heads/main
+[submodule "topiary"]
+	url = https://github.com/conda-forge/topiary-feedstock.git
+	path = feedstocks/topiary
+	branch = refs/heads/main
