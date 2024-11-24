@@ -96038,3 +96038,7 @@
 	url = https://github.com/conda-forge/tagref-feedstock.git
 	path = feedstocks/tagref
 	branch = refs/heads/main
+[submodule "sheldon"]
+	url = https://github.com/conda-forge/sheldon-feedstock.git
+	path = feedstocks/sheldon
+	branch = refs/heads/main
