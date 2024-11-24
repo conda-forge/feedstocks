@@ -96110,3 +96110,7 @@
 	url = https://github.com/conda-forge/multicharge-feedstock.git
 	path = feedstocks/multicharge
 	branch = refs/heads/main
+[submodule "tealdeer"]
+	url = https://github.com/conda-forge/tealdeer-feedstock.git
+	path = feedstocks/tealdeer
+	branch = refs/heads/main
