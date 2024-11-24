@@ -96130,3 +96130,7 @@
 	url = https://github.com/conda-forge/webdiff-feedstock.git
 	path = feedstocks/webdiff
 	branch = refs/heads/main
+[submodule "teip"]
+	url = https://github.com/conda-forge/teip-feedstock.git
+	path = feedstocks/teip
+	branch = refs/heads/main
