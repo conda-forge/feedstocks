@@ -96162,3 +96162,7 @@
 	url = https://github.com/conda-forge/topgrade-feedstock.git
 	path = feedstocks/topgrade
 	branch = refs/heads/main
+[submodule "turborepo"]
+	url = https://github.com/conda-forge/turborepo-feedstock.git
+	path = feedstocks/turborepo
+	branch = refs/heads/main
