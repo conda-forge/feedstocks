@@ -96086,3 +96086,7 @@
 	url = https://github.com/conda-forge/rune-feedstock.git
 	path = feedstocks/rune
 	branch = refs/heads/main
+[submodule "t-rec"]
+	url = https://github.com/conda-forge/t-rec-feedstock.git
+	path = feedstocks/t-rec
+	branch = refs/heads/main
