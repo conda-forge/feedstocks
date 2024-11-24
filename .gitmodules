@@ -96150,3 +96150,7 @@
 	url = https://github.com/conda-forge/topiary-feedstock.git
 	path = feedstocks/topiary
 	branch = refs/heads/main
+[submodule "uiua"]
+	url = https://github.com/conda-forge/uiua-feedstock.git
+	path = feedstocks/uiua
+	branch = refs/heads/main
