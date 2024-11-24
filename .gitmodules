@@ -96018,3 +96018,7 @@
 	url = https://github.com/conda-forge/graphviz-anywidget-feedstock.git
 	path = feedstocks/graphviz-anywidget
 	branch = refs/heads/main
+[submodule "rnr"]
+	url = https://github.com/conda-forge/rnr-feedstock.git
+	path = feedstocks/rnr
+	branch = refs/heads/main
