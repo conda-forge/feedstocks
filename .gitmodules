@@ -96090,3 +96090,7 @@
 	url = https://github.com/conda-forge/t-rec-feedstock.git
 	path = feedstocks/t-rec
 	branch = refs/heads/main
+[submodule "pysciencemode"]
+	url = https://github.com/conda-forge/pysciencemode-feedstock.git
+	path = feedstocks/pysciencemode
+	branch = refs/heads/main
