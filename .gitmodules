@@ -96170,3 +96170,7 @@
 	url = https://github.com/conda-forge/viu-feedstock.git
 	path = feedstocks/viu
 	branch = refs/heads/main
+[submodule "tuc"]
+	url = https://github.com/conda-forge/tuc-feedstock.git
+	path = feedstocks/tuc
+	branch = refs/heads/main
