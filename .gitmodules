@@ -96050,3 +96050,7 @@
 	url = https://github.com/conda-forge/shellharden-feedstock.git
 	path = feedstocks/shellharden
 	branch = refs/heads/main
+[submodule "rargs"]
+	url = https://github.com/conda-forge/rargs-feedstock.git
+	path = feedstocks/rargs
+	branch = refs/heads/main
