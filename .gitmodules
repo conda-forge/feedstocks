@@ -96134,3 +96134,7 @@
 	url = https://github.com/conda-forge/teip-feedstock.git
 	path = feedstocks/teip
 	branch = refs/heads/main
+[submodule "zenith"]
+	url = https://github.com/conda-forge/zenith-feedstock.git
+	path = feedstocks/zenith
+	branch = refs/heads/main
