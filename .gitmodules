@@ -96102,3 +96102,7 @@
 	url = https://github.com/conda-forge/r-tidysdm-feedstock.git
 	path = feedstocks/r-tidysdm
 	branch = refs/heads/main
+[submodule "partialjson"]
+	url = https://github.com/conda-forge/partialjson-feedstock.git
+	path = feedstocks/partialjson
+	branch = refs/heads/main
