@@ -96014,3 +96014,7 @@
 	url = https://github.com/conda-forge/datachain-feedstock.git
 	path = feedstocks/datachain
 	branch = refs/heads/main
+[submodule "graphviz-anywidget"]
+	url = https://github.com/conda-forge/graphviz-anywidget-feedstock.git
+	path = feedstocks/graphviz-anywidget
+	branch = refs/heads/main
