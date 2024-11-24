@@ -96142,3 +96142,7 @@
 	url = https://github.com/conda-forge/tauri-feedstock.git
 	path = feedstocks/tauri
 	branch = refs/heads/main
+[submodule "zola"]
+	url = https://github.com/conda-forge/zola-feedstock.git
+	path = feedstocks/zola
+	branch = refs/heads/main
