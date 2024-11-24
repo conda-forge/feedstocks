@@ -96066,3 +96066,7 @@
 	url = https://github.com/conda-forge/skim-feedstock.git
 	path = feedstocks/skim
 	branch = refs/heads/main
+[submodule "sad"]
+	url = https://github.com/conda-forge/sad-feedstock.git
+	path = feedstocks/sad
+	branch = refs/heads/main
