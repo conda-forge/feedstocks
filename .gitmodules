@@ -96074,3 +96074,7 @@
 	url = https://github.com/conda-forge/safe-rm-feedstock.git
 	path = feedstocks/safe-rm
 	branch = refs/heads/main
+[submodule "rm-improved"]
+	url = https://github.com/conda-forge/rm-improved-feedstock.git
+	path = feedstocks/rm-improved
+	branch = refs/heads/main
