@@ -96138,3 +96138,7 @@
 	url = https://github.com/conda-forge/zenith-feedstock.git
 	path = feedstocks/zenith
 	branch = refs/heads/main
+[submodule "tauri"]
+	url = https://github.com/conda-forge/tauri-feedstock.git
+	path = feedstocks/tauri
+	branch = refs/heads/main
