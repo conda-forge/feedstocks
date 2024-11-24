@@ -96126,3 +96126,7 @@
 	url = https://github.com/conda-forge/the-way-feedstock.git
 	path = feedstocks/the-way
 	branch = refs/heads/main
+[submodule "webdiff"]
+	url = https://github.com/conda-forge/webdiff-feedstock.git
+	path = feedstocks/webdiff
+	branch = refs/heads/main
