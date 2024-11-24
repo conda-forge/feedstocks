@@ -96022,3 +96022,7 @@
 	url = https://github.com/conda-forge/rnr-feedstock.git
 	path = feedstocks/rnr
 	branch = refs/heads/main
+[submodule "swc"]
+	url = https://github.com/conda-forge/swc-feedstock.git
+	path = feedstocks/swc
+	branch = refs/heads/main
