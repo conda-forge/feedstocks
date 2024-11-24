@@ -96158,3 +96158,7 @@
 	url = https://github.com/conda-forge/tidy-viewer-feedstock.git
 	path = feedstocks/tidy-viewer
 	branch = refs/heads/main
+[submodule "topgrade"]
+	url = https://github.com/conda-forge/topgrade-feedstock.git
+	path = feedstocks/topgrade
+	branch = refs/heads/main
