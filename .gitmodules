@@ -96114,3 +96114,7 @@
 	url = https://github.com/conda-forge/tealdeer-feedstock.git
 	path = feedstocks/tealdeer
 	branch = refs/heads/main
+[submodule "watchexec"]
+	url = https://github.com/conda-forge/watchexec-feedstock.git
+	path = feedstocks/watchexec
+	branch = refs/heads/main
