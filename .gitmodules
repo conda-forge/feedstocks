@@ -96054,3 +96054,7 @@
 	url = https://github.com/conda-forge/rargs-feedstock.git
 	path = feedstocks/rargs
 	branch = refs/heads/main
+[submodule "relay"]
+	url = https://github.com/conda-forge/relay-feedstock.git
+	path = feedstocks/relay
+	branch = refs/heads/main
