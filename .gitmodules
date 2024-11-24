@@ -96034,3 +96034,7 @@
 	url = https://github.com/conda-forge/sleek-feedstock.git
 	path = feedstocks/sleek
 	branch = refs/heads/main
+[submodule "tagref"]
+	url = https://github.com/conda-forge/tagref-feedstock.git
+	path = feedstocks/tagref
+	branch = refs/heads/main
