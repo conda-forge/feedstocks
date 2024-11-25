@@ -96214,3 +96214,7 @@
 	url = https://github.com/conda-forge/bioio-base-feedstock.git
 	path = feedstocks/bioio-base
 	branch = refs/heads/main
+[submodule "pyrte_rrtmgp"]
+	url = https://github.com/conda-forge/pyrte_rrtmgp-feedstock.git
+	path = feedstocks/pyrte_rrtmgp
+	branch = refs/heads/main
