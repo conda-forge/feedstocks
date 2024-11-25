@@ -96202,3 +96202,7 @@
 	url = https://github.com/conda-forge/flake8-class-newline-feedstock.git
 	path = feedstocks/flake8-class-newline
 	branch = refs/heads/main
+[submodule "seedir"]
+	url = https://github.com/conda-forge/seedir-feedstock.git
+	path = feedstocks/seedir
+	branch = refs/heads/main
