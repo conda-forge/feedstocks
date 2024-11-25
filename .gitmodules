@@ -96210,3 +96210,7 @@
 	url = https://github.com/conda-forge/bqplot-gl-feedstock.git
 	path = feedstocks/bqplot-gl
 	branch = refs/heads/main
+[submodule "bioio-base"]
+	url = https://github.com/conda-forge/bioio-base-feedstock.git
+	path = feedstocks/bioio-base
+	branch = refs/heads/main
