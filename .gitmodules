@@ -96198,3 +96198,7 @@
 	url = https://github.com/conda-forge/clmm-feedstock.git
 	path = feedstocks/clmm
 	branch = refs/heads/main
+[submodule "flake8-class-newline"]
+	url = https://github.com/conda-forge/flake8-class-newline-feedstock.git
+	path = feedstocks/flake8-class-newline
+	branch = refs/heads/main
