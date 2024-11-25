@@ -96218,3 +96218,7 @@
 	url = https://github.com/conda-forge/pyrte_rrtmgp-feedstock.git
 	path = feedstocks/pyrte_rrtmgp
 	branch = refs/heads/main
+[submodule "mbslave"]
+	url = https://github.com/conda-forge/mbslave-feedstock.git
+	path = feedstocks/mbslave
+	branch = refs/heads/main
