@@ -96206,3 +96206,7 @@
 	url = https://github.com/conda-forge/seedir-feedstock.git
 	path = feedstocks/seedir
 	branch = refs/heads/main
+[submodule "bqplot-gl"]
+	url = https://github.com/conda-forge/bqplot-gl-feedstock.git
+	path = feedstocks/bqplot-gl
+	branch = refs/heads/main
