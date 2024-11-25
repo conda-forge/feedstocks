@@ -96194,3 +96194,7 @@
 	url = https://github.com/conda-forge/orekit_jpype-feedstock.git
 	path = feedstocks/orekit_jpype
 	branch = refs/heads/main
+[submodule "clmm"]
+	url = https://github.com/conda-forge/clmm-feedstock.git
+	path = feedstocks/clmm
+	branch = refs/heads/main
