@@ -96222,3 +96222,7 @@
 	url = https://github.com/conda-forge/mbslave-feedstock.git
 	path = feedstocks/mbslave
 	branch = refs/heads/main
+[submodule "libnvtiff"]
+	url = https://github.com/conda-forge/libnvtiff-feedstock.git
+	path = feedstocks/libnvtiff
+	branch = refs/heads/main
