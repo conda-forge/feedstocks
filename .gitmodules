@@ -96182,3 +96182,7 @@
 	url = https://github.com/conda-forge/onefetch-feedstock.git
 	path = feedstocks/onefetch
 	branch = refs/heads/main
+[submodule "pyglm"]
+	url = https://github.com/conda-forge/pyglm-feedstock.git
+	path = feedstocks/pyglm
+	branch = refs/heads/main
