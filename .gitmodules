@@ -96190,3 +96190,7 @@
 	url = https://github.com/conda-forge/r-flowchart-feedstock.git
 	path = feedstocks/r-flowchart
 	branch = refs/heads/main
+[submodule "orekit_jpype"]
+	url = https://github.com/conda-forge/orekit_jpype-feedstock.git
+	path = feedstocks/orekit_jpype
+	branch = refs/heads/main
