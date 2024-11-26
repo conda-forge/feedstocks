@@ -96226,3 +96226,7 @@
 	url = https://github.com/conda-forge/libnvtiff-feedstock.git
 	path = feedstocks/libnvtiff
 	branch = refs/heads/main
+[submodule "connectome-workbench-split"]
+	url = https://github.com/conda-forge/connectome-workbench-split-feedstock.git
+	path = feedstocks/connectome-workbench-split
+	branch = refs/heads/main
