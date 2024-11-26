@@ -96306,3 +96306,7 @@
 	url = https://github.com/conda-forge/pytransit-feedstock.git
 	path = feedstocks/pytransit
 	branch = refs/heads/main
+[submodule "cusolvermp"]
+	url = https://github.com/conda-forge/cusolvermp-feedstock.git
+	path = feedstocks/cusolvermp
+	branch = refs/heads/main
