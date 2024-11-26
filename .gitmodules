@@ -96254,3 +96254,7 @@
 	url = https://github.com/conda-forge/msbuild-feedstock.git
 	path = feedstocks/msbuild
 	branch = refs/heads/main
+[submodule "dotnet-outdated"]
+	url = https://github.com/conda-forge/dotnet-outdated-feedstock.git
+	path = feedstocks/dotnet-outdated
+	branch = refs/heads/main
