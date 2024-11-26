@@ -96258,3 +96258,7 @@
 	url = https://github.com/conda-forge/dotnet-outdated-feedstock.git
 	path = feedstocks/dotnet-outdated
 	branch = refs/heads/main
+[submodule "husky.net"]
+	url = https://github.com/conda-forge/husky.net-feedstock.git
+	path = feedstocks/husky.net
+	branch = refs/heads/main
