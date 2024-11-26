@@ -96234,3 +96234,7 @@
 	url = https://github.com/conda-forge/aisuite-feedstock.git
 	path = feedstocks/aisuite
 	branch = refs/heads/main
+[submodule "pickles"]
+	url = https://github.com/conda-forge/pickles-feedstock.git
+	path = feedstocks/pickles
+	branch = refs/heads/main
