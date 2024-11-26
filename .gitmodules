@@ -96242,3 +96242,7 @@
 	url = https://github.com/conda-forge/reportgenerator-feedstock.git
 	path = feedstocks/reportgenerator
 	branch = refs/heads/main
+[submodule "marksman"]
+	url = https://github.com/conda-forge/marksman-feedstock.git
+	path = feedstocks/marksman
+	branch = refs/heads/main
