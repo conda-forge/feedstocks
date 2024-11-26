@@ -96286,3 +96286,7 @@
 	url = https://github.com/conda-forge/colcon-ros-domain-id-coordinator-feedstock.git
 	path = feedstocks/colcon-ros-domain-id-coordinator
 	branch = refs/heads/main
+[submodule "dotnet-monitor"]
+	url = https://github.com/conda-forge/dotnet-monitor-feedstock.git
+	path = feedstocks/dotnet-monitor
+	branch = refs/heads/main
