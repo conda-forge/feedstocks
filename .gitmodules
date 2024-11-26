@@ -96238,3 +96238,7 @@
 	url = https://github.com/conda-forge/pickles-feedstock.git
 	path = feedstocks/pickles
 	branch = refs/heads/main
+[submodule "reportgenerator"]
+	url = https://github.com/conda-forge/reportgenerator-feedstock.git
+	path = feedstocks/reportgenerator
+	branch = refs/heads/main
