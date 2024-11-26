@@ -96282,3 +96282,7 @@
 	url = https://github.com/conda-forge/sonar-scanner-msbuild-feedstock.git
 	path = feedstocks/sonar-scanner-msbuild
 	branch = refs/heads/main
+[submodule "colcon-ros-domain-id-coordinator"]
+	url = https://github.com/conda-forge/colcon-ros-domain-id-coordinator-feedstock.git
+	path = feedstocks/colcon-ros-domain-id-coordinator
+	branch = refs/heads/main
