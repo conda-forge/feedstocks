@@ -96270,3 +96270,7 @@
 	url = https://github.com/conda-forge/docfx-feedstock.git
 	path = feedstocks/docfx
 	branch = refs/heads/main
+[submodule "minicover"]
+	url = https://github.com/conda-forge/minicover-feedstock.git
+	path = feedstocks/minicover
+	branch = refs/heads/main
