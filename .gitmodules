@@ -96246,3 +96246,7 @@
 	url = https://github.com/conda-forge/marksman-feedstock.git
 	path = feedstocks/marksman
 	branch = refs/heads/main
+[submodule "coverlet"]
+	url = https://github.com/conda-forge/coverlet-feedstock.git
+	path = feedstocks/coverlet
+	branch = refs/heads/main
