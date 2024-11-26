@@ -96250,3 +96250,7 @@
 	url = https://github.com/conda-forge/coverlet-feedstock.git
 	path = feedstocks/coverlet
 	branch = refs/heads/main
+[submodule "msbuild"]
+	url = https://github.com/conda-forge/msbuild-feedstock.git
+	path = feedstocks/msbuild
+	branch = refs/heads/main
