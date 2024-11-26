@@ -96278,3 +96278,7 @@
 	url = https://github.com/conda-forge/r-xplorerr-feedstock.git
 	path = feedstocks/r-xplorerr
 	branch = refs/heads/main
+[submodule "sonar-scanner-msbuild"]
+	url = https://github.com/conda-forge/sonar-scanner-msbuild-feedstock.git
+	path = feedstocks/sonar-scanner-msbuild
+	branch = refs/heads/main
