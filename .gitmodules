@@ -96302,3 +96302,7 @@
 	url = https://github.com/conda-forge/beanquery-feedstock.git
 	path = feedstocks/beanquery
 	branch = refs/heads/main
+[submodule "pytransit"]
+	url = https://github.com/conda-forge/pytransit-feedstock.git
+	path = feedstocks/pytransit
+	branch = refs/heads/main
