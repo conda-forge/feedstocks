@@ -96290,3 +96290,7 @@
 	url = https://github.com/conda-forge/dotnet-monitor-feedstock.git
 	path = feedstocks/dotnet-monitor
 	branch = refs/heads/main
+[submodule "minver"]
+	url = https://github.com/conda-forge/minver-feedstock.git
+	path = feedstocks/minver
+	branch = refs/heads/main
