@@ -96230,3 +96230,7 @@
 	url = https://github.com/conda-forge/connectome-workbench-split-feedstock.git
 	path = feedstocks/connectome-workbench-split
 	branch = refs/heads/main
+[submodule "aisuite"]
+	url = https://github.com/conda-forge/aisuite-feedstock.git
+	path = feedstocks/aisuite
+	branch = refs/heads/main
