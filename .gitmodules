@@ -96310,3 +96310,7 @@
 	url = https://github.com/conda-forge/cusolvermp-feedstock.git
 	path = feedstocks/cusolvermp
 	branch = refs/heads/main
+[submodule "libcusolvermp"]
+	url = https://github.com/conda-forge/libcusolvermp-feedstock.git
+	path = feedstocks/libcusolvermp
+	branch = refs/heads/main
