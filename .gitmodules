@@ -96314,3 +96314,7 @@
 	url = https://github.com/conda-forge/libcusolvermp-feedstock.git
 	path = feedstocks/libcusolvermp
 	branch = refs/heads/main
+[submodule "qemu.qmp"]
+	url = https://github.com/conda-forge/qemu.qmp-feedstock.git
+	path = feedstocks/qemu.qmp
+	branch = refs/heads/main
