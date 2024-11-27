@@ -96338,3 +96338,7 @@
 	url = https://github.com/conda-forge/aiida-workgraph-feedstock.git
 	path = feedstocks/aiida-workgraph
 	branch = refs/heads/main
+[submodule "snowflake-id"]
+	url = https://github.com/conda-forge/snowflake-id-feedstock.git
+	path = feedstocks/snowflake-id
+	branch = refs/heads/main
