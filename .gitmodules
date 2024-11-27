@@ -96350,3 +96350,7 @@
 	url = https://github.com/conda-forge/ms_entropy-feedstock.git
 	path = feedstocks/ms_entropy
 	branch = refs/heads/main
+[submodule "ansys-rocky-core"]
+	url = https://github.com/conda-forge/ansys-rocky-core-feedstock.git
+	path = feedstocks/ansys-rocky-core
+	branch = refs/heads/main
