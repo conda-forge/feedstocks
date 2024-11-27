@@ -96326,3 +96326,7 @@
 	url = https://github.com/conda-forge/docify-feedstock.git
 	path = feedstocks/docify
 	branch = refs/heads/main
+[submodule "pytest-run-parallel"]
+	url = https://github.com/conda-forge/pytest-run-parallel-feedstock.git
+	path = feedstocks/pytest-run-parallel
+	branch = refs/heads/main
