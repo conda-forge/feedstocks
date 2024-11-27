@@ -96330,3 +96330,7 @@
 	url = https://github.com/conda-forge/pytest-run-parallel-feedstock.git
 	path = feedstocks/pytest-run-parallel
 	branch = refs/heads/main
+[submodule "node-graph"]
+	url = https://github.com/conda-forge/node-graph-feedstock.git
+	path = feedstocks/node-graph
+	branch = refs/heads/main
