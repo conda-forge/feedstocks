@@ -96318,3 +96318,7 @@
 	url = https://github.com/conda-forge/qemu.qmp-feedstock.git
 	path = feedstocks/qemu.qmp
 	branch = refs/heads/main
+[submodule "fakecbed"]
+	url = https://github.com/conda-forge/fakecbed-feedstock.git
+	path = feedstocks/fakecbed
+	branch = refs/heads/main
