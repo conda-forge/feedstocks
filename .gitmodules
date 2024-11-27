@@ -96342,3 +96342,7 @@
 	url = https://github.com/conda-forge/snowflake-id-feedstock.git
 	path = feedstocks/snowflake-id
 	branch = refs/heads/main
+[submodule "h3spark"]
+	url = https://github.com/conda-forge/h3spark-feedstock.git
+	path = feedstocks/h3spark
+	branch = refs/heads/main
