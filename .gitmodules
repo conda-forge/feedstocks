@@ -96322,3 +96322,7 @@
 	url = https://github.com/conda-forge/fakecbed-feedstock.git
 	path = feedstocks/fakecbed
 	branch = refs/heads/main
+[submodule "docify"]
+	url = https://github.com/conda-forge/docify-feedstock.git
+	path = feedstocks/docify
+	branch = refs/heads/main
