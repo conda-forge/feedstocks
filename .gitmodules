@@ -96370,3 +96370,7 @@
 	url = https://github.com/conda-forge/pynemaiqpet-feedstock.git
 	path = feedstocks/pynemaiqpet
 	branch = refs/heads/main
+[submodule "nnunet"]
+	url = https://github.com/conda-forge/nnunet-feedstock.git
+	path = feedstocks/nnunet
+	branch = refs/heads/main
