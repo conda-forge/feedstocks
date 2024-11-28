@@ -96382,3 +96382,7 @@
 	url = https://github.com/conda-forge/sqruff-feedstock.git
 	path = feedstocks/sqruff
 	branch = refs/heads/main
+[submodule "kotlin"]
+	url = https://github.com/conda-forge/kotlin-feedstock.git
+	path = feedstocks/kotlin
+	branch = refs/heads/main
