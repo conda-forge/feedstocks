@@ -96394,3 +96394,7 @@
 	url = https://github.com/conda-forge/ktfmt-feedstock.git
 	path = feedstocks/ktfmt
 	branch = refs/heads/main
+[submodule "kotlin-language-server"]
+	url = https://github.com/conda-forge/kotlin-language-server-feedstock.git
+	path = feedstocks/kotlin-language-server
+	branch = refs/heads/main
