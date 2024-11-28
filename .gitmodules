@@ -96354,3 +96354,7 @@
 	url = https://github.com/conda-forge/ansys-rocky-core-feedstock.git
 	path = feedstocks/ansys-rocky-core
 	branch = refs/heads/main
+[submodule "hatch-min-requirements"]
+	url = https://github.com/conda-forge/hatch-min-requirements-feedstock.git
+	path = feedstocks/hatch-min-requirements
+	branch = refs/heads/main
