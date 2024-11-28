@@ -96402,3 +96402,7 @@
 	url = https://github.com/conda-forge/coco-feedstock.git
 	path = feedstocks/coco
 	branch = refs/heads/main
+[submodule "facility-language-server"]
+	url = https://github.com/conda-forge/facility-language-server-feedstock.git
+	path = feedstocks/facility-language-server
+	branch = refs/heads/main
