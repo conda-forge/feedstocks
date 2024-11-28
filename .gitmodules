@@ -96386,3 +96386,7 @@
 	url = https://github.com/conda-forge/kotlin-feedstock.git
 	path = feedstocks/kotlin
 	branch = refs/heads/main
+[submodule "smithy"]
+	url = https://github.com/conda-forge/smithy-feedstock.git
+	path = feedstocks/smithy
+	branch = refs/heads/main
