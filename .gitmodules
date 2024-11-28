@@ -96406,3 +96406,7 @@
 	url = https://github.com/conda-forge/facility-language-server-feedstock.git
 	path = feedstocks/facility-language-server
 	branch = refs/heads/main
+[submodule "rethinkdb-python"]
+	url = https://github.com/conda-forge/rethinkdb-python-feedstock.git
+	path = feedstocks/rethinkdb-python
+	branch = refs/heads/main
