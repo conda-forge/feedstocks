@@ -96418,3 +96418,7 @@
 	url = https://github.com/conda-forge/boogie-feedstock.git
 	path = feedstocks/boogie
 	branch = refs/heads/main
+[submodule "smithy-language-server"]
+	url = https://github.com/conda-forge/smithy-language-server-feedstock.git
+	path = feedstocks/smithy-language-server
+	branch = refs/heads/main
