@@ -96426,3 +96426,7 @@
 	url = https://github.com/conda-forge/dydx-v4-proto-cpp-feedstock.git
 	path = feedstocks/dydx-v4-proto-cpp
 	branch = refs/heads/main
+[submodule "ktlint"]
+	url = https://github.com/conda-forge/ktlint-feedstock.git
+	path = feedstocks/ktlint
+	branch = refs/heads/main
