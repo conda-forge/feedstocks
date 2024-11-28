@@ -96378,3 +96378,7 @@
 	url = https://github.com/conda-forge/d2-feedstock.git
 	path = feedstocks/d2
 	branch = refs/heads/main
+[submodule "sqruff"]
+	url = https://github.com/conda-forge/sqruff-feedstock.git
+	path = feedstocks/sqruff
+	branch = refs/heads/main
