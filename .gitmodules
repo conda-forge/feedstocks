@@ -96374,3 +96374,7 @@
 	url = https://github.com/conda-forge/nnunet-feedstock.git
 	path = feedstocks/nnunet
 	branch = refs/heads/main
+[submodule "d2"]
+	url = https://github.com/conda-forge/d2-feedstock.git
+	path = feedstocks/d2
+	branch = refs/heads/main
