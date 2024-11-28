@@ -96410,3 +96410,7 @@
 	url = https://github.com/conda-forge/rethinkdb-python-feedstock.git
 	path = feedstocks/rethinkdb-python
 	branch = refs/heads/main
+[submodule "jgit"]
+	url = https://github.com/conda-forge/jgit-feedstock.git
+	path = feedstocks/jgit
+	branch = refs/heads/main
