@@ -96358,3 +96358,7 @@
 	url = https://github.com/conda-forge/hatch-min-requirements-feedstock.git
 	path = feedstocks/hatch-min-requirements
 	branch = refs/heads/main
+[submodule "htmlmin2"]
+	url = https://github.com/conda-forge/htmlmin2-feedstock.git
+	path = feedstocks/htmlmin2
+	branch = refs/heads/main
