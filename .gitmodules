@@ -96398,3 +96398,7 @@
 	url = https://github.com/conda-forge/kotlin-language-server-feedstock.git
 	path = feedstocks/kotlin-language-server
 	branch = refs/heads/main
+[submodule "coco"]
+	url = https://github.com/conda-forge/coco-feedstock.git
+	path = feedstocks/coco
+	branch = refs/heads/main
