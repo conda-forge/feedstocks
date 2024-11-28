@@ -96422,3 +96422,7 @@
 	url = https://github.com/conda-forge/smithy-language-server-feedstock.git
 	path = feedstocks/smithy-language-server
 	branch = refs/heads/main
+[submodule "dydx-v4-proto-cpp"]
+	url = https://github.com/conda-forge/dydx-v4-proto-cpp-feedstock.git
+	path = feedstocks/dydx-v4-proto-cpp
+	branch = refs/heads/main
