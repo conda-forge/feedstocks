@@ -96414,3 +96414,7 @@
 	url = https://github.com/conda-forge/jgit-feedstock.git
 	path = feedstocks/jgit
 	branch = refs/heads/main
+[submodule "boogie"]
+	url = https://github.com/conda-forge/boogie-feedstock.git
+	path = feedstocks/boogie
+	branch = refs/heads/main
