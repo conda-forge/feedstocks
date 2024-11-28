@@ -96390,3 +96390,7 @@
 	url = https://github.com/conda-forge/smithy-feedstock.git
 	path = feedstocks/smithy
 	branch = refs/heads/main
+[submodule "ktfmt"]
+	url = https://github.com/conda-forge/ktfmt-feedstock.git
+	path = feedstocks/ktfmt
+	branch = refs/heads/main
