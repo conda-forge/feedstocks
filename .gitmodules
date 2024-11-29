@@ -96478,3 +96478,7 @@
 	url = https://github.com/conda-forge/spacy-curated-transformers-feedstock.git
 	path = feedstocks/spacy-curated-transformers
 	branch = refs/heads/main
+[submodule "curated-tokenizers"]
+	url = https://github.com/conda-forge/curated-tokenizers-feedstock.git
+	path = feedstocks/curated-tokenizers
+	branch = refs/heads/main
