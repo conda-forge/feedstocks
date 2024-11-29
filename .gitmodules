@@ -96506,3 +96506,7 @@
 	url = https://github.com/conda-forge/keygen-py-feedstock.git
 	path = feedstocks/keygen-py
 	branch = refs/heads/main
+[submodule "opencl-headers"]
+	url = https://github.com/conda-forge/opencl-headers-feedstock.git
+	path = feedstocks/opencl-headers
+	branch = refs/heads/main
