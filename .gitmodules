@@ -96518,3 +96518,7 @@
 	url = https://github.com/conda-forge/flt-feedstock.git
 	path = feedstocks/flt
 	branch = refs/heads/main
+[submodule "pytextgrid"]
+	url = https://github.com/conda-forge/pytextgrid-feedstock.git
+	path = feedstocks/pytextgrid
+	branch = refs/heads/main
