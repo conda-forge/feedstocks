@@ -96470,3 +96470,7 @@
 	url = https://github.com/conda-forge/pyroll-cli-feedstock.git
 	path = feedstocks/pyroll-cli
 	branch = refs/heads/main
+[submodule "lipyds"]
+	url = https://github.com/conda-forge/lipyds-feedstock.git
+	path = feedstocks/lipyds
+	branch = refs/heads/main
