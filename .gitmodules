@@ -96434,3 +96434,7 @@
 	url = https://github.com/conda-forge/igrafx-mining-sdk-feedstock.git
 	path = feedstocks/igrafx-mining-sdk
 	branch = refs/heads/main
+[submodule "winregistry"]
+	url = https://github.com/conda-forge/winregistry-feedstock.git
+	path = feedstocks/winregistry
+	branch = refs/heads/main
