@@ -96486,3 +96486,7 @@
 	url = https://github.com/conda-forge/curated-transformers-feedstock.git
 	path = feedstocks/curated-transformers
 	branch = refs/heads/main
+[submodule "rendercanvas"]
+	url = https://github.com/conda-forge/rendercanvas-feedstock.git
+	path = feedstocks/rendercanvas
+	branch = refs/heads/main
