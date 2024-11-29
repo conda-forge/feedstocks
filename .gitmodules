@@ -96438,3 +96438,7 @@
 	url = https://github.com/conda-forge/winregistry-feedstock.git
 	path = feedstocks/winregistry
 	branch = refs/heads/main
+[submodule "nodejs-wheel"]
+	url = https://github.com/conda-forge/nodejs-wheel-feedstock.git
+	path = feedstocks/nodejs-wheel
+	branch = refs/heads/main
