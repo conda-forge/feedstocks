@@ -96510,3 +96510,7 @@
 	url = https://github.com/conda-forge/opencl-headers-feedstock.git
 	path = feedstocks/opencl-headers
 	branch = refs/heads/main
+[submodule "basedpyright"]
+	url = https://github.com/conda-forge/basedpyright-feedstock.git
+	path = feedstocks/basedpyright
+	branch = refs/heads/main
