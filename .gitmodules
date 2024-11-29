@@ -96450,3 +96450,7 @@
 	url = https://github.com/conda-forge/pyroll-feedstock.git
 	path = feedstocks/pyroll
 	branch = refs/heads/main
+[submodule "pyroll-report"]
+	url = https://github.com/conda-forge/pyroll-report-feedstock.git
+	path = feedstocks/pyroll-report
+	branch = refs/heads/main
