@@ -96446,3 +96446,7 @@
 	url = https://github.com/conda-forge/optype-feedstock.git
 	path = feedstocks/optype
 	branch = refs/heads/main
+[submodule "pyroll"]
+	url = https://github.com/conda-forge/pyroll-feedstock.git
+	path = feedstocks/pyroll
+	branch = refs/heads/main
