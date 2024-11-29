@@ -96522,3 +96522,7 @@
 	url = https://github.com/conda-forge/pytextgrid-feedstock.git
 	path = feedstocks/pytextgrid
 	branch = refs/heads/main
+[submodule "scipy-stubs"]
+	url = https://github.com/conda-forge/scipy-stubs-feedstock.git
+	path = feedstocks/scipy-stubs
+	branch = refs/heads/main
