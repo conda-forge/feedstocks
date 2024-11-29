@@ -96442,3 +96442,7 @@
 	url = https://github.com/conda-forge/nodejs-wheel-feedstock.git
 	path = feedstocks/nodejs-wheel
 	branch = refs/heads/main
+[submodule "optype"]
+	url = https://github.com/conda-forge/optype-feedstock.git
+	path = feedstocks/optype
+	branch = refs/heads/main
