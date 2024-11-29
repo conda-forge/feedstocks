@@ -96466,3 +96466,7 @@
 	url = https://github.com/conda-forge/ajc27-freemocap-blender-addon-feedstock.git
 	path = feedstocks/ajc27-freemocap-blender-addon
 	branch = refs/heads/main
+[submodule "pyroll-cli"]
+	url = https://github.com/conda-forge/pyroll-cli-feedstock.git
+	path = feedstocks/pyroll-cli
+	branch = refs/heads/main
