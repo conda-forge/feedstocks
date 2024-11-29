@@ -96454,3 +96454,7 @@
 	url = https://github.com/conda-forge/pyroll-report-feedstock.git
 	path = feedstocks/pyroll-report
 	branch = refs/heads/main
+[submodule "pyroll-export"]
+	url = https://github.com/conda-forge/pyroll-export-feedstock.git
+	path = feedstocks/pyroll-export
+	branch = refs/heads/main
