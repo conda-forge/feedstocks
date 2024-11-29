@@ -96474,3 +96474,7 @@
 	url = https://github.com/conda-forge/lipyds-feedstock.git
 	path = feedstocks/lipyds
 	branch = refs/heads/main
+[submodule "spacy-curated-transformers"]
+	url = https://github.com/conda-forge/spacy-curated-transformers-feedstock.git
+	path = feedstocks/spacy-curated-transformers
+	branch = refs/heads/main
