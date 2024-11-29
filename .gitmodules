@@ -96502,3 +96502,7 @@
 	url = https://github.com/conda-forge/ua-parser-builtins-feedstock.git
 	path = feedstocks/ua-parser-builtins
 	branch = refs/heads/main
+[submodule "keygen-py"]
+	url = https://github.com/conda-forge/keygen-py-feedstock.git
+	path = feedstocks/keygen-py
+	branch = refs/heads/main
