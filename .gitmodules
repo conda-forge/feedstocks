@@ -96490,3 +96490,7 @@
 	url = https://github.com/conda-forge/rendercanvas-feedstock.git
 	path = feedstocks/rendercanvas
 	branch = refs/heads/main
+[submodule "pyubxutils"]
+	url = https://github.com/conda-forge/pyubxutils-feedstock.git
+	path = feedstocks/pyubxutils
+	branch = refs/heads/main
