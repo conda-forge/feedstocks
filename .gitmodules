@@ -96498,3 +96498,7 @@
 	url = https://github.com/conda-forge/py-machineid-feedstock.git
 	path = feedstocks/py-machineid
 	branch = refs/heads/main
+[submodule "ua-parser-builtins"]
+	url = https://github.com/conda-forge/ua-parser-builtins-feedstock.git
+	path = feedstocks/ua-parser-builtins
+	branch = refs/heads/main
