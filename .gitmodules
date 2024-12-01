@@ -96526,3 +96526,7 @@
 	url = https://github.com/conda-forge/scipy-stubs-feedstock.git
 	path = feedstocks/scipy-stubs
 	branch = refs/heads/main
+[submodule "litestar-htmx"]
+	url = https://github.com/conda-forge/litestar-htmx-feedstock.git
+	path = feedstocks/litestar-htmx
+	branch = refs/heads/main
