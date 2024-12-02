@@ -96530,3 +96530,7 @@
 	url = https://github.com/conda-forge/litestar-htmx-feedstock.git
 	path = feedstocks/litestar-htmx
 	branch = refs/heads/main
+[submodule "helmeos"]
+	url = https://github.com/conda-forge/helmeos-feedstock.git
+	path = feedstocks/helmeos
+	branch = refs/heads/main
