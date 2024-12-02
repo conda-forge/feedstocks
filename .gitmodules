@@ -96562,3 +96562,7 @@
 	url = https://github.com/conda-forge/kvf-feedstock.git
 	path = feedstocks/kvf
 	branch = refs/heads/main
+[submodule "popsregression"]
+	url = https://github.com/conda-forge/popsregression-feedstock.git
+	path = feedstocks/popsregression
+	branch = refs/heads/main
