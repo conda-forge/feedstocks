@@ -96538,3 +96538,7 @@
 	url = https://github.com/conda-forge/r-schoolmath-feedstock.git
 	path = feedstocks/r-schoolmath
 	branch = refs/heads/main
+[submodule "r-lmtp"]
+	url = https://github.com/conda-forge/r-lmtp-feedstock.git
+	path = feedstocks/r-lmtp
+	branch = refs/heads/main
