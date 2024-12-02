@@ -96534,3 +96534,7 @@
 	url = https://github.com/conda-forge/helmeos-feedstock.git
 	path = feedstocks/helmeos
 	branch = refs/heads/main
+[submodule "r-schoolmath"]
+	url = https://github.com/conda-forge/r-schoolmath-feedstock.git
+	path = feedstocks/r-schoolmath
+	branch = refs/heads/main
