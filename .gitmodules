@@ -96550,3 +96550,7 @@
 	url = https://github.com/conda-forge/wpca-feedstock.git
 	path = feedstocks/wpca
 	branch = refs/heads/main
+[submodule "remotebmi"]
+	url = https://github.com/conda-forge/remotebmi-feedstock.git
+	path = feedstocks/remotebmi
+	branch = refs/heads/main
