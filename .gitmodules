@@ -96558,3 +96558,7 @@
 	url = https://github.com/conda-forge/r-ukbnmr-feedstock.git
 	path = feedstocks/r-ukbnmr
 	branch = refs/heads/main
+[submodule "kvf"]
+	url = https://github.com/conda-forge/kvf-feedstock.git
+	path = feedstocks/kvf
+	branch = refs/heads/main
