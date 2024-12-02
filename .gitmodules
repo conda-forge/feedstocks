@@ -96546,3 +96546,7 @@
 	url = https://github.com/conda-forge/r-matchthem-feedstock.git
 	path = feedstocks/r-matchthem
 	branch = refs/heads/main
+[submodule "wpca"]
+	url = https://github.com/conda-forge/wpca-feedstock.git
+	path = feedstocks/wpca
+	branch = refs/heads/main
