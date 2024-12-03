@@ -96570,3 +96570,7 @@
 	url = https://github.com/conda-forge/marvin-feedstock.git
 	path = feedstocks/marvin
 	branch = refs/heads/main
+[submodule "aiida-pythonjob"]
+	url = https://github.com/conda-forge/aiida-pythonjob-feedstock.git
+	path = feedstocks/aiida-pythonjob
+	branch = refs/heads/main
