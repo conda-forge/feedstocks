@@ -96566,3 +96566,7 @@
 	url = https://github.com/conda-forge/popsregression-feedstock.git
 	path = feedstocks/popsregression
 	branch = refs/heads/main
+[submodule "marvin"]
+	url = https://github.com/conda-forge/marvin-feedstock.git
+	path = feedstocks/marvin
+	branch = refs/heads/main
