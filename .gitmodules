@@ -96578,3 +96578,7 @@
 	url = https://github.com/conda-forge/mdtop-feedstock.git
 	path = feedstocks/mdtop
 	branch = refs/heads/main
+[submodule "python-uv"]
+	url = https://github.com/conda-forge/python-uv-feedstock.git
+	path = feedstocks/python-uv
+	branch = refs/heads/main
