@@ -96574,3 +96574,7 @@
 	url = https://github.com/conda-forge/aiida-pythonjob-feedstock.git
 	path = feedstocks/aiida-pythonjob
 	branch = refs/heads/main
+[submodule "mdtop"]
+	url = https://github.com/conda-forge/mdtop-feedstock.git
+	path = feedstocks/mdtop
+	branch = refs/heads/main
