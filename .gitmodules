@@ -96614,3 +96614,7 @@
 	url = https://github.com/conda-forge/cosmology-feedstock.git
 	path = feedstocks/cosmology
 	branch = refs/heads/main
+[submodule "ctao-dpps-cosmic-ray-spectra"]
+	url = https://github.com/conda-forge/ctao-dpps-cosmic-ray-spectra-feedstock.git
+	path = feedstocks/ctao-dpps-cosmic-ray-spectra
+	branch = refs/heads/main
