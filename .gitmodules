@@ -96590,3 +96590,7 @@
 	url = https://github.com/conda-forge/asm-lsp-feedstock.git
 	path = feedstocks/asm-lsp
 	branch = refs/heads/main
+[submodule "stylua"]
+	url = https://github.com/conda-forge/stylua-feedstock.git
+	path = feedstocks/stylua
+	branch = refs/heads/main
