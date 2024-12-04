@@ -96598,3 +96598,7 @@
 	url = https://github.com/conda-forge/rbspy-feedstock.git
 	path = feedstocks/rbspy
 	branch = refs/heads/main
+[submodule "randonneur_data"]
+	url = https://github.com/conda-forge/randonneur_data-feedstock.git
+	path = feedstocks/randonneur_data
+	branch = refs/heads/main
