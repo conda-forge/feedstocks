@@ -96582,3 +96582,7 @@
 	url = https://github.com/conda-forge/python-uv-feedstock.git
 	path = feedstocks/python-uv
 	branch = refs/heads/main
+[submodule "selene"]
+	url = https://github.com/conda-forge/selene-feedstock.git
+	path = feedstocks/selene
+	branch = refs/heads/main
