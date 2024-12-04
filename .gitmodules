@@ -96602,3 +96602,7 @@
 	url = https://github.com/conda-forge/randonneur_data-feedstock.git
 	path = feedstocks/randonneur_data
 	branch = refs/heads/main
+[submodule "devtools"]
+	url = https://github.com/conda-forge/devtools-feedstock.git
+	path = feedstocks/devtools
+	branch = refs/heads/main
