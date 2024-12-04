@@ -96586,3 +96586,7 @@
 	url = https://github.com/conda-forge/selene-feedstock.git
 	path = feedstocks/selene
 	branch = refs/heads/main
+[submodule "asm-lsp"]
+	url = https://github.com/conda-forge/asm-lsp-feedstock.git
+	path = feedstocks/asm-lsp
+	branch = refs/heads/main
