@@ -96610,3 +96610,7 @@
 	url = https://github.com/conda-forge/transformcl-feedstock.git
 	path = feedstocks/transformcl
 	branch = refs/heads/main
+[submodule "cosmology"]
+	url = https://github.com/conda-forge/cosmology-feedstock.git
+	path = feedstocks/cosmology
+	branch = refs/heads/main
