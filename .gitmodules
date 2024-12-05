@@ -96678,3 +96678,7 @@
 	url = https://github.com/conda-forge/go-eclint-feedstock.git
 	path = feedstocks/go-eclint
 	branch = refs/heads/main
+[submodule "deadnix"]
+	url = https://github.com/conda-forge/deadnix-feedstock.git
+	path = feedstocks/deadnix
+	branch = refs/heads/main
