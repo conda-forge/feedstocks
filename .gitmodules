@@ -96650,3 +96650,7 @@
 	url = https://github.com/conda-forge/careamics-portfolio-feedstock.git
 	path = feedstocks/careamics-portfolio
 	branch = refs/heads/main
+[submodule "careamics-napari"]
+	url = https://github.com/conda-forge/careamics-napari-feedstock.git
+	path = feedstocks/careamics-napari
+	branch = refs/heads/main
