@@ -96654,3 +96654,7 @@
 	url = https://github.com/conda-forge/careamics-napari-feedstock.git
 	path = feedstocks/careamics-napari
 	branch = refs/heads/main
+[submodule "simple-binary-encoding"]
+	url = https://github.com/conda-forge/simple-binary-encoding-feedstock.git
+	path = feedstocks/simple-binary-encoding
+	branch = refs/heads/main
