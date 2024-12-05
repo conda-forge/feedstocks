@@ -96634,3 +96634,7 @@
 	url = https://github.com/conda-forge/gaussiancl-feedstock.git
 	path = feedstocks/gaussiancl
 	branch = refs/heads/main
+[submodule "careamics"]
+	url = https://github.com/conda-forge/careamics-feedstock.git
+	path = feedstocks/careamics
+	branch = refs/heads/main
