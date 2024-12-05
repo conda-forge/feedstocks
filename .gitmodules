@@ -96702,3 +96702,7 @@
 	url = https://github.com/conda-forge/glass-feedstock.git
 	path = feedstocks/glass
 	branch = refs/heads/main
+[submodule "spr-rust"]
+	url = https://github.com/conda-forge/spr-rust-feedstock.git
+	path = feedstocks/spr-rust
+	branch = refs/heads/main
