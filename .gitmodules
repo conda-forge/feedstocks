@@ -96674,3 +96674,7 @@
 	url = https://github.com/conda-forge/spicetify-cli-feedstock.git
 	path = feedstocks/spicetify-cli
 	branch = refs/heads/main
+[submodule "go-eclint"]
+	url = https://github.com/conda-forge/go-eclint-feedstock.git
+	path = feedstocks/go-eclint
+	branch = refs/heads/main
