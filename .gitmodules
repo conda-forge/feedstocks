@@ -96618,3 +96618,7 @@
 	url = https://github.com/conda-forge/ctao-dpps-cosmic-ray-spectra-feedstock.git
 	path = feedstocks/ctao-dpps-cosmic-ray-spectra
 	branch = refs/heads/main
+[submodule "seastats"]
+	url = https://github.com/conda-forge/seastats-feedstock.git
+	path = feedstocks/seastats
+	branch = refs/heads/main
