@@ -96626,3 +96626,7 @@
 	url = https://github.com/conda-forge/randonneur-feedstock.git
 	path = feedstocks/randonneur
 	branch = refs/heads/main
+[submodule "neatnet"]
+	url = https://github.com/conda-forge/neatnet-feedstock.git
+	path = feedstocks/neatnet
+	branch = refs/heads/main
