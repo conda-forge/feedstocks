@@ -96646,3 +96646,7 @@
 	url = https://github.com/conda-forge/networkx-temporal-feedstock.git
 	path = feedstocks/networkx-temporal
 	branch = refs/heads/main
+[submodule "careamics-portfolio"]
+	url = https://github.com/conda-forge/careamics-portfolio-feedstock.git
+	path = feedstocks/careamics-portfolio
+	branch = refs/heads/main
