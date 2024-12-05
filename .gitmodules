@@ -96682,3 +96682,7 @@
 	url = https://github.com/conda-forge/deadnix-feedstock.git
 	path = feedstocks/deadnix
 	branch = refs/heads/main
+[submodule "statix"]
+	url = https://github.com/conda-forge/statix-feedstock.git
+	path = feedstocks/statix
+	branch = refs/heads/main
