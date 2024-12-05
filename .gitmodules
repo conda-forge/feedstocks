@@ -96638,3 +96638,7 @@
 	url = https://github.com/conda-forge/careamics-feedstock.git
 	path = feedstocks/careamics
 	branch = refs/heads/main
+[submodule "bpx"]
+	url = https://github.com/conda-forge/bpx-feedstock.git
+	path = feedstocks/bpx
+	branch = refs/heads/main
