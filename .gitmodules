@@ -96670,3 +96670,7 @@
 	url = https://github.com/conda-forge/go-spr-feedstock.git
 	path = feedstocks/go-spr
 	branch = refs/heads/main
+[submodule "spicetify-cli"]
+	url = https://github.com/conda-forge/spicetify-cli-feedstock.git
+	path = feedstocks/spicetify-cli
+	branch = refs/heads/main
