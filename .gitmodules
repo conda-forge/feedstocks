@@ -96658,3 +96658,7 @@
 	url = https://github.com/conda-forge/simple-binary-encoding-feedstock.git
 	path = feedstocks/simple-binary-encoding
 	branch = refs/heads/main
+[submodule "xrf"]
+	url = https://github.com/conda-forge/xrf-feedstock.git
+	path = feedstocks/xrf
+	branch = refs/heads/main
