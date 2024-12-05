@@ -96642,3 +96642,7 @@
 	url = https://github.com/conda-forge/bpx-feedstock.git
 	path = feedstocks/bpx
 	branch = refs/heads/main
+[submodule "networkx-temporal"]
+	url = https://github.com/conda-forge/networkx-temporal-feedstock.git
+	path = feedstocks/networkx-temporal
+	branch = refs/heads/main
