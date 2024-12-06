@@ -96714,3 +96714,7 @@
 	url = https://github.com/conda-forge/bursty-dynamics-feedstock.git
 	path = feedstocks/bursty-dynamics
 	branch = refs/heads/main
+[submodule "ninja-hep-ph"]
+	url = https://github.com/conda-forge/ninja-hep-ph-feedstock.git
+	path = feedstocks/ninja-hep-ph
+	branch = refs/heads/main
