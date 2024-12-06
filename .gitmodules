@@ -96706,3 +96706,7 @@
 	url = https://github.com/conda-forge/spr-rust-feedstock.git
 	path = feedstocks/spr-rust
 	branch = refs/heads/main
+[submodule "node-graph-widget"]
+	url = https://github.com/conda-forge/node-graph-widget-feedstock.git
+	path = feedstocks/node-graph-widget
+	branch = refs/heads/main
