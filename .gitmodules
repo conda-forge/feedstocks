@@ -96750,3 +96750,7 @@
 	url = https://github.com/conda-forge/write-good-feedstock.git
 	path = feedstocks/write-good
 	branch = refs/heads/main
+[submodule "markdown-toc"]
+	url = https://github.com/conda-forge/markdown-toc-feedstock.git
+	path = feedstocks/markdown-toc
+	branch = refs/heads/main
