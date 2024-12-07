@@ -96766,3 +96766,7 @@
 	url = https://github.com/conda-forge/apache-solr-feedstock.git
 	path = feedstocks/apache-solr
 	branch = refs/heads/main
+[submodule "commitlint"]
+	url = https://github.com/conda-forge/commitlint-feedstock.git
+	path = feedstocks/commitlint
+	branch = refs/heads/main
