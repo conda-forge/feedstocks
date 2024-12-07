@@ -96782,3 +96782,7 @@
 	url = https://github.com/conda-forge/remark-language-server-feedstock.git
 	path = feedstocks/remark-language-server
 	branch = refs/heads/main
+[submodule "cspell"]
+	url = https://github.com/conda-forge/cspell-feedstock.git
+	path = feedstocks/cspell
+	branch = refs/heads/main
