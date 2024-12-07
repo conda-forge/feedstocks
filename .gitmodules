@@ -96794,3 +96794,7 @@
 	url = https://github.com/conda-forge/textlint-feedstock.git
 	path = feedstocks/textlint
 	branch = refs/heads/main
+[submodule "bibtex-tidy"]
+	url = https://github.com/conda-forge/bibtex-tidy-feedstock.git
+	path = feedstocks/bibtex-tidy
+	branch = refs/heads/main
