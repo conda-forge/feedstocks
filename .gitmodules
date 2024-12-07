@@ -96838,3 +96838,7 @@
 	url = https://github.com/conda-forge/ffbidx-feedstock.git
 	path = feedstocks/ffbidx
 	branch = refs/heads/main
+[submodule "imgui-bundle"]
+	url = https://github.com/conda-forge/imgui-bundle-feedstock.git
+	path = feedstocks/imgui-bundle
+	branch = refs/heads/main
