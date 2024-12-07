@@ -96786,3 +96786,7 @@
 	url = https://github.com/conda-forge/cspell-feedstock.git
 	path = feedstocks/cspell
 	branch = refs/heads/main
+[submodule "fixjson"]
+	url = https://github.com/conda-forge/fixjson-feedstock.git
+	path = feedstocks/fixjson
+	branch = refs/heads/main
