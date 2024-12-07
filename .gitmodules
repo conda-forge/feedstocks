@@ -96826,3 +96826,7 @@
 	url = https://github.com/conda-forge/spectral-cli-feedstock.git
 	path = feedstocks/spectral-cli
 	branch = refs/heads/main
+[submodule "npm-groovy-lint"]
+	url = https://github.com/conda-forge/npm-groovy-lint-feedstock.git
+	path = feedstocks/npm-groovy-lint
+	branch = refs/heads/main
