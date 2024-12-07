@@ -96798,3 +96798,7 @@
 	url = https://github.com/conda-forge/bibtex-tidy-feedstock.git
 	path = feedstocks/bibtex-tidy
 	branch = refs/heads/main
+[submodule "create-rslib"]
+	url = https://github.com/conda-forge/create-rslib-feedstock.git
+	path = feedstocks/create-rslib
+	branch = refs/heads/main
