@@ -96842,3 +96842,7 @@
 	url = https://github.com/conda-forge/imgui-bundle-feedstock.git
 	path = feedstocks/imgui-bundle
 	branch = refs/heads/main
+[submodule "plutosvg"]
+	url = https://github.com/conda-forge/plutosvg-feedstock.git
+	path = feedstocks/plutosvg
+	branch = refs/heads/main
