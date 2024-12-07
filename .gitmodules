@@ -96734,3 +96734,7 @@
 	url = https://github.com/conda-forge/keyrings.codeartifact-feedstock.git
 	path = feedstocks/keyrings.codeartifact
 	branch = refs/heads/main
+[submodule "talisman"]
+	url = https://github.com/conda-forge/talisman-feedstock.git
+	path = feedstocks/talisman
+	branch = refs/heads/main
