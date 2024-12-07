@@ -96758,3 +96758,7 @@
 	url = https://github.com/conda-forge/rslib-feedstock.git
 	path = feedstocks/rslib
 	branch = refs/heads/main
+[submodule "vscode-langservers-extracted"]
+	url = https://github.com/conda-forge/vscode-langservers-extracted-feedstock.git
+	path = feedstocks/vscode-langservers-extracted
+	branch = refs/heads/main
