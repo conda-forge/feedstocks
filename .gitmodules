@@ -96770,3 +96770,7 @@
 	url = https://github.com/conda-forge/commitlint-feedstock.git
 	path = feedstocks/commitlint
 	branch = refs/heads/main
+[submodule "jsonlint"]
+	url = https://github.com/conda-forge/jsonlint-feedstock.git
+	path = feedstocks/jsonlint
+	branch = refs/heads/main
