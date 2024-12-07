@@ -96834,3 +96834,7 @@
 	url = https://github.com/conda-forge/r-vcr-feedstock.git
 	path = feedstocks/r-vcr
 	branch = refs/heads/main
+[submodule "ffbidx"]
+	url = https://github.com/conda-forge/ffbidx-feedstock.git
+	path = feedstocks/ffbidx
+	branch = refs/heads/main
