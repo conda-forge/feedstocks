@@ -96806,3 +96806,7 @@
 	url = https://github.com/conda-forge/napi-rs-cli-feedstock.git
 	path = feedstocks/napi-rs-cli
 	branch = refs/heads/main
+[submodule "prettierd"]
+	url = https://github.com/conda-forge/prettierd-feedstock.git
+	path = feedstocks/prettierd
+	branch = refs/heads/main
