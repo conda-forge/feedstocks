@@ -96738,3 +96738,7 @@
 	url = https://github.com/conda-forge/talisman-feedstock.git
 	path = feedstocks/talisman
 	branch = refs/heads/main
+[submodule "sql-formatter"]
+	url = https://github.com/conda-forge/sql-formatter-feedstock.git
+	path = feedstocks/sql-formatter
+	branch = refs/heads/main
