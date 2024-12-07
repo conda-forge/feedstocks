@@ -96774,3 +96774,7 @@
 	url = https://github.com/conda-forge/jsonlint-feedstock.git
 	path = feedstocks/jsonlint
 	branch = refs/heads/main
+[submodule "diagnostic-languageserver"]
+	url = https://github.com/conda-forge/diagnostic-languageserver-feedstock.git
+	path = feedstocks/diagnostic-languageserver
+	branch = refs/heads/main
