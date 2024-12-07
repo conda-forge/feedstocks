@@ -96790,3 +96790,7 @@
 	url = https://github.com/conda-forge/fixjson-feedstock.git
 	path = feedstocks/fixjson
 	branch = refs/heads/main
+[submodule "textlint"]
+	url = https://github.com/conda-forge/textlint-feedstock.git
+	path = feedstocks/textlint
+	branch = refs/heads/main
