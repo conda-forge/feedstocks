@@ -96754,3 +96754,7 @@
 	url = https://github.com/conda-forge/markdown-toc-feedstock.git
 	path = feedstocks/markdown-toc
 	branch = refs/heads/main
+[submodule "rslib"]
+	url = https://github.com/conda-forge/rslib-feedstock.git
+	path = feedstocks/rslib
+	branch = refs/heads/main
