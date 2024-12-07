@@ -96742,3 +96742,7 @@
 	url = https://github.com/conda-forge/sql-formatter-feedstock.git
 	path = feedstocks/sql-formatter
 	branch = refs/heads/main
+[submodule "tomoatt"]
+	url = https://github.com/conda-forge/tomoatt-feedstock.git
+	path = feedstocks/tomoatt
+	branch = refs/heads/main
