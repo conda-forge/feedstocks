@@ -96762,3 +96762,7 @@
 	url = https://github.com/conda-forge/vscode-langservers-extracted-feedstock.git
 	path = feedstocks/vscode-langservers-extracted
 	branch = refs/heads/main
+[submodule "apache-solr"]
+	url = https://github.com/conda-forge/apache-solr-feedstock.git
+	path = feedstocks/apache-solr
+	branch = refs/heads/main
