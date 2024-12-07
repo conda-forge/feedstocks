@@ -96730,3 +96730,7 @@
 	url = https://github.com/conda-forge/h3ronpy-feedstock.git
 	path = feedstocks/h3ronpy
 	branch = refs/heads/main
+[submodule "keyrings.codeartifact"]
+	url = https://github.com/conda-forge/keyrings.codeartifact-feedstock.git
+	path = feedstocks/keyrings.codeartifact
+	branch = refs/heads/main
