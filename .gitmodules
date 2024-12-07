@@ -96810,3 +96810,7 @@
 	url = https://github.com/conda-forge/prettierd-feedstock.git
 	path = feedstocks/prettierd
 	branch = refs/heads/main
+[submodule "remark-cli"]
+	url = https://github.com/conda-forge/remark-cli-feedstock.git
+	path = feedstocks/remark-cli
+	branch = refs/heads/main
