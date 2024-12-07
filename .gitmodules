@@ -96778,3 +96778,7 @@
 	url = https://github.com/conda-forge/diagnostic-languageserver-feedstock.git
 	path = feedstocks/diagnostic-languageserver
 	branch = refs/heads/main
+[submodule "remark-language-server"]
+	url = https://github.com/conda-forge/remark-language-server-feedstock.git
+	path = feedstocks/remark-language-server
+	branch = refs/heads/main
