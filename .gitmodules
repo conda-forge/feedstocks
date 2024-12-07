@@ -96818,3 +96818,7 @@
 	url = https://github.com/conda-forge/yaml-language-server-feedstock.git
 	path = feedstocks/yaml-language-server
 	branch = refs/heads/main
+[submodule "dageo"]
+	url = https://github.com/conda-forge/dageo-feedstock.git
+	path = feedstocks/dageo
+	branch = refs/heads/main
