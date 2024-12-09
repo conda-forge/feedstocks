@@ -96894,3 +96894,7 @@
 	url = https://github.com/conda-forge/release-please-feedstock.git
 	path = feedstocks/release-please
 	branch = refs/heads/main
+[submodule "perlnavigator-server"]
+	url = https://github.com/conda-forge/perlnavigator-server-feedstock.git
+	path = feedstocks/perlnavigator-server
+	branch = refs/heads/main
