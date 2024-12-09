@@ -96926,3 +96926,7 @@
 	url = https://github.com/conda-forge/lint-staged-feedstock.git
 	path = feedstocks/lint-staged
 	branch = refs/heads/main
+[submodule "bash-language-server"]
+	url = https://github.com/conda-forge/bash-language-server-feedstock.git
+	path = feedstocks/bash-language-server
+	branch = refs/heads/main
