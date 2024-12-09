@@ -96874,3 +96874,7 @@
 	url = https://github.com/conda-forge/scipy-events-feedstock.git
 	path = feedstocks/scipy-events
 	branch = refs/heads/main
+[submodule "dot-language-server"]
+	url = https://github.com/conda-forge/dot-language-server-feedstock.git
+	path = feedstocks/dot-language-server
+	branch = refs/heads/main
