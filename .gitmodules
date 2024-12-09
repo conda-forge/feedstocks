@@ -96918,3 +96918,7 @@
 	url = https://github.com/conda-forge/stylelint-feedstock.git
 	path = feedstocks/stylelint
 	branch = refs/heads/main
+[submodule "dockerfile-language-server-nodejs"]
+	url = https://github.com/conda-forge/dockerfile-language-server-nodejs-feedstock.git
+	path = feedstocks/dockerfile-language-server-nodejs
+	branch = refs/heads/main
