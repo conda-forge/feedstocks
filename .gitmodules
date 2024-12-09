@@ -96854,3 +96854,7 @@
 	url = https://github.com/conda-forge/eeg_positions-feedstock.git
 	path = feedstocks/eeg_positions
 	branch = refs/heads/main
+[submodule "opennb"]
+	url = https://github.com/conda-forge/opennb-feedstock.git
+	path = feedstocks/opennb
+	branch = refs/heads/main
