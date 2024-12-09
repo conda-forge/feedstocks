@@ -96862,3 +96862,7 @@
 	url = https://github.com/conda-forge/dooit-feedstock.git
 	path = feedstocks/dooit
 	branch = refs/heads/main
+[submodule "rich-toolkit"]
+	url = https://github.com/conda-forge/rich-toolkit-feedstock.git
+	path = feedstocks/rich-toolkit
+	branch = refs/heads/main
