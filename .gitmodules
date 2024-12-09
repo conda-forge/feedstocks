@@ -96902,3 +96902,7 @@
 	url = https://github.com/conda-forge/inject-markdown-feedstock.git
 	path = feedstocks/inject-markdown
 	branch = refs/heads/main
+[submodule "create-jest"]
+	url = https://github.com/conda-forge/create-jest-feedstock.git
+	path = feedstocks/create-jest
+	branch = refs/heads/main
