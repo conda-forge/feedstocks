@@ -96914,3 +96914,7 @@
 	url = https://github.com/conda-forge/husky-feedstock.git
 	path = feedstocks/husky
 	branch = refs/heads/main
+[submodule "stylelint"]
+	url = https://github.com/conda-forge/stylelint-feedstock.git
+	path = feedstocks/stylelint
+	branch = refs/heads/main
