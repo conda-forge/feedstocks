@@ -96866,3 +96866,7 @@
 	url = https://github.com/conda-forge/rich-toolkit-feedstock.git
 	path = feedstocks/rich-toolkit
 	branch = refs/heads/main
+[submodule "teneto"]
+	url = https://github.com/conda-forge/teneto-feedstock.git
+	path = feedstocks/teneto
+	branch = refs/heads/main
