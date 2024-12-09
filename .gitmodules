@@ -96886,3 +96886,7 @@
 	url = https://github.com/conda-forge/commit-and-tag-version-feedstock.git
 	path = feedstocks/commit-and-tag-version
 	branch = refs/heads/main
+[submodule "compose-language-service"]
+	url = https://github.com/conda-forge/compose-language-service-feedstock.git
+	path = feedstocks/compose-language-service
+	branch = refs/heads/main
