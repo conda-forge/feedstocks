@@ -96870,3 +96870,7 @@
 	url = https://github.com/conda-forge/teneto-feedstock.git
 	path = feedstocks/teneto
 	branch = refs/heads/main
+[submodule "scipy-events"]
+	url = https://github.com/conda-forge/scipy-events-feedstock.git
+	path = feedstocks/scipy-events
+	branch = refs/heads/main
