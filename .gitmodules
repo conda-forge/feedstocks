@@ -96858,3 +96858,7 @@
 	url = https://github.com/conda-forge/opennb-feedstock.git
 	path = feedstocks/opennb
 	branch = refs/heads/main
+[submodule "dooit"]
+	url = https://github.com/conda-forge/dooit-feedstock.git
+	path = feedstocks/dooit
+	branch = refs/heads/main
