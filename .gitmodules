@@ -96906,3 +96906,7 @@
 	url = https://github.com/conda-forge/create-jest-feedstock.git
 	path = feedstocks/create-jest
 	branch = refs/heads/main
+[submodule "vim-language-server"]
+	url = https://github.com/conda-forge/vim-language-server-feedstock.git
+	path = feedstocks/vim-language-server
+	branch = refs/heads/main
