@@ -96922,3 +96922,7 @@
 	url = https://github.com/conda-forge/dockerfile-language-server-nodejs-feedstock.git
 	path = feedstocks/dockerfile-language-server-nodejs
 	branch = refs/heads/main
+[submodule "lint-staged"]
+	url = https://github.com/conda-forge/lint-staged-feedstock.git
+	path = feedstocks/lint-staged
+	branch = refs/heads/main
