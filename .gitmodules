@@ -96890,3 +96890,7 @@
 	url = https://github.com/conda-forge/compose-language-service-feedstock.git
 	path = feedstocks/compose-language-service
 	branch = refs/heads/main
+[submodule "release-please"]
+	url = https://github.com/conda-forge/release-please-feedstock.git
+	path = feedstocks/release-please
+	branch = refs/heads/main
