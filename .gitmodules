@@ -96934,3 +96934,7 @@
 	url = https://github.com/conda-forge/auto-changelog-feedstock.git
 	path = feedstocks/auto-changelog
 	branch = refs/heads/main
+[submodule "gtsjs"]
+	url = https://github.com/conda-forge/gtsjs-feedstock.git
+	path = feedstocks/gtsjs
+	branch = refs/heads/main
