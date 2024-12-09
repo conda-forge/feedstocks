@@ -96898,3 +96898,7 @@
 	url = https://github.com/conda-forge/perlnavigator-server-feedstock.git
 	path = feedstocks/perlnavigator-server
 	branch = refs/heads/main
+[submodule "inject-markdown"]
+	url = https://github.com/conda-forge/inject-markdown-feedstock.git
+	path = feedstocks/inject-markdown
+	branch = refs/heads/main
