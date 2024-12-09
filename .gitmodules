@@ -96878,3 +96878,7 @@
 	url = https://github.com/conda-forge/dot-language-server-feedstock.git
 	path = feedstocks/dot-language-server
 	branch = refs/heads/main
+[submodule "azure-pipelines-language-server"]
+	url = https://github.com/conda-forge/azure-pipelines-language-server-feedstock.git
+	path = feedstocks/azure-pipelines-language-server
+	branch = refs/heads/main
