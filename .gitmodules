@@ -96882,3 +96882,7 @@
 	url = https://github.com/conda-forge/azure-pipelines-language-server-feedstock.git
 	path = feedstocks/azure-pipelines-language-server
 	branch = refs/heads/main
+[submodule "commit-and-tag-version"]
+	url = https://github.com/conda-forge/commit-and-tag-version-feedstock.git
+	path = feedstocks/commit-and-tag-version
+	branch = refs/heads/main
