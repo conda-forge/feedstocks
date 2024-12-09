@@ -96850,3 +96850,7 @@
 	url = https://github.com/conda-forge/plutovg-feedstock.git
 	path = feedstocks/plutovg
 	branch = refs/heads/main
+[submodule "eeg_positions"]
+	url = https://github.com/conda-forge/eeg_positions-feedstock.git
+	path = feedstocks/eeg_positions
+	branch = refs/heads/main
