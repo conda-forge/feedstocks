@@ -96910,3 +96910,7 @@
 	url = https://github.com/conda-forge/vim-language-server-feedstock.git
 	path = feedstocks/vim-language-server
 	branch = refs/heads/main
+[submodule "husky"]
+	url = https://github.com/conda-forge/husky-feedstock.git
+	path = feedstocks/husky
+	branch = refs/heads/main
