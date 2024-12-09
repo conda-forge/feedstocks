@@ -96930,3 +96930,7 @@
 	url = https://github.com/conda-forge/bash-language-server-feedstock.git
 	path = feedstocks/bash-language-server
 	branch = refs/heads/main
+[submodule "auto-changelog"]
+	url = https://github.com/conda-forge/auto-changelog-feedstock.git
+	path = feedstocks/auto-changelog
+	branch = refs/heads/main
