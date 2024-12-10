@@ -97014,3 +97014,7 @@
 	url = https://github.com/conda-forge/selenium-standalone-feedstock.git
 	path = feedstocks/selenium-standalone
 	branch = refs/heads/main
+[submodule "jiti"]
+	url = https://github.com/conda-forge/jiti-feedstock.git
+	path = feedstocks/jiti
+	branch = refs/heads/main
