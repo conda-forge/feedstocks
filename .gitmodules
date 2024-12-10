@@ -97054,3 +97054,7 @@
 	url = https://github.com/conda-forge/babel-cli-feedstock.git
 	path = feedstocks/babel-cli
 	branch = refs/heads/main
+[submodule "r-quickmatch"]
+	url = https://github.com/conda-forge/r-quickmatch-feedstock.git
+	path = feedstocks/r-quickmatch
+	branch = refs/heads/main
