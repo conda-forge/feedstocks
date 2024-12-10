@@ -96946,3 +96946,7 @@
 	url = https://github.com/conda-forge/snowplow-tracker-feedstock.git
 	path = feedstocks/snowplow-tracker
 	branch = refs/heads/main
+[submodule "simpleaudio"]
+	url = https://github.com/conda-forge/simpleaudio-feedstock.git
+	path = feedstocks/simpleaudio
+	branch = refs/heads/main
