@@ -97022,3 +97022,7 @@
 	url = https://github.com/conda-forge/concurrently-feedstock.git
 	path = feedstocks/concurrently
 	branch = refs/heads/main
+[submodule "typedoc"]
+	url = https://github.com/conda-forge/typedoc-feedstock.git
+	path = feedstocks/typedoc
+	branch = refs/heads/main
