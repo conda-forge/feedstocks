@@ -96998,3 +96998,7 @@
 	url = https://github.com/conda-forge/del-cli-feedstock.git
 	path = feedstocks/del-cli
 	branch = refs/heads/main
+[submodule "shx"]
+	url = https://github.com/conda-forge/shx-feedstock.git
+	path = feedstocks/shx
+	branch = refs/heads/main
