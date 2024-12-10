@@ -97062,3 +97062,7 @@
 	url = https://github.com/conda-forge/r-scclust-feedstock.git
 	path = feedstocks/r-scclust
 	branch = refs/heads/main
+[submodule "r-tsmodel"]
+	url = https://github.com/conda-forge/r-tsmodel-feedstock.git
+	path = feedstocks/r-tsmodel
+	branch = refs/heads/main
