@@ -96958,3 +96958,7 @@
 	url = https://github.com/conda-forge/settings-doc-feedstock.git
 	path = feedstocks/settings-doc
 	branch = refs/heads/main
+[submodule "eventgraphs"]
+	url = https://github.com/conda-forge/eventgraphs-feedstock.git
+	path = feedstocks/eventgraphs
+	branch = refs/heads/main
