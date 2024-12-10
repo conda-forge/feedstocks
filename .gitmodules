@@ -96942,3 +96942,7 @@
 	url = https://github.com/conda-forge/pytzer-feedstock.git
 	path = feedstocks/pytzer
 	branch = refs/heads/main
+[submodule "snowplow-tracker"]
+	url = https://github.com/conda-forge/snowplow-tracker-feedstock.git
+	path = feedstocks/snowplow-tracker
+	branch = refs/heads/main
