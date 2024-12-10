@@ -97006,3 +97006,7 @@
 	url = https://github.com/conda-forge/c8-feedstock.git
 	path = feedstocks/c8
 	branch = refs/heads/main
+[submodule "elf-cli"]
+	url = https://github.com/conda-forge/elf-cli-feedstock.git
+	path = feedstocks/elf-cli
+	branch = refs/heads/main
