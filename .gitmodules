@@ -96950,3 +96950,7 @@
 	url = https://github.com/conda-forge/simpleaudio-feedstock.git
 	path = feedstocks/simpleaudio
 	branch = refs/heads/main
+[submodule "arrakis-python"]
+	url = https://github.com/conda-forge/arrakis-python-feedstock.git
+	path = feedstocks/arrakis-python
+	branch = refs/heads/main
