@@ -96954,3 +96954,7 @@
 	url = https://github.com/conda-forge/arrakis-python-feedstock.git
 	path = feedstocks/arrakis-python
 	branch = refs/heads/main
+[submodule "settings-doc"]
+	url = https://github.com/conda-forge/settings-doc-feedstock.git
+	path = feedstocks/settings-doc
+	branch = refs/heads/main
