@@ -96982,3 +96982,7 @@
 	url = https://github.com/conda-forge/pygnome-feedstock.git
 	path = feedstocks/pygnome
 	branch = refs/heads/main
+[submodule "webpack-cli"]
+	url = https://github.com/conda-forge/webpack-cli-feedstock.git
+	path = feedstocks/webpack-cli
+	branch = refs/heads/main
