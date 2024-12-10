@@ -96978,3 +96978,7 @@
 	url = https://github.com/conda-forge/siscone-feedstock.git
 	path = feedstocks/siscone
 	branch = refs/heads/main
+[submodule "pygnome"]
+	url = https://github.com/conda-forge/pygnome-feedstock.git
+	path = feedstocks/pygnome
+	branch = refs/heads/main
