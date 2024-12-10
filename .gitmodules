@@ -97038,3 +97038,7 @@
 	url = https://github.com/conda-forge/ts-node-feedstock.git
 	path = feedstocks/ts-node
 	branch = refs/heads/main
+[submodule "globcat"]
+	url = https://github.com/conda-forge/globcat-feedstock.git
+	path = feedstocks/globcat
+	branch = refs/heads/main
