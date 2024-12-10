@@ -97050,3 +97050,7 @@
 	url = https://github.com/conda-forge/ava-feedstock.git
 	path = feedstocks/ava
 	branch = refs/heads/main
+[submodule "babel-cli"]
+	url = https://github.com/conda-forge/babel-cli-feedstock.git
+	path = feedstocks/babel-cli
+	branch = refs/heads/main
