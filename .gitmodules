@@ -96966,3 +96966,7 @@
 	url = https://github.com/conda-forge/xdggs-feedstock.git
 	path = feedstocks/xdggs
 	branch = refs/heads/main
+[submodule "pygt"]
+	url = https://github.com/conda-forge/pygt-feedstock.git
+	path = feedstocks/pygt
+	branch = refs/heads/main
