@@ -96994,3 +96994,7 @@
 	url = https://github.com/conda-forge/tshy-feedstock.git
 	path = feedstocks/tshy
 	branch = refs/heads/main
+[submodule "del-cli"]
+	url = https://github.com/conda-forge/del-cli-feedstock.git
+	path = feedstocks/del-cli
+	branch = refs/heads/main
