@@ -97058,3 +97058,7 @@
 	url = https://github.com/conda-forge/r-quickmatch-feedstock.git
 	path = feedstocks/r-quickmatch
 	branch = refs/heads/main
+[submodule "r-scclust"]
+	url = https://github.com/conda-forge/r-scclust-feedstock.git
+	path = feedstocks/r-scclust
+	branch = refs/heads/main
