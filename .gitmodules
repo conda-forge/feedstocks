@@ -97042,3 +97042,7 @@
 	url = https://github.com/conda-forge/globcat-feedstock.git
 	path = feedstocks/globcat
 	branch = refs/heads/main
+[submodule "manypkg"]
+	url = https://github.com/conda-forge/manypkg-feedstock.git
+	path = feedstocks/manypkg
+	branch = refs/heads/main
