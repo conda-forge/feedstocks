@@ -97034,3 +97034,7 @@
 	url = https://github.com/conda-forge/nyc-feedstock.git
 	path = feedstocks/nyc
 	branch = refs/heads/main
+[submodule "ts-node"]
+	url = https://github.com/conda-forge/ts-node-feedstock.git
+	path = feedstocks/ts-node
+	branch = refs/heads/main
