@@ -97046,3 +97046,7 @@
 	url = https://github.com/conda-forge/manypkg-feedstock.git
 	path = feedstocks/manypkg
 	branch = refs/heads/main
+[submodule "ava"]
+	url = https://github.com/conda-forge/ava-feedstock.git
+	path = feedstocks/ava
+	branch = refs/heads/main
