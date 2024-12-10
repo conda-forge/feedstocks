@@ -97066,3 +97066,7 @@
 	url = https://github.com/conda-forge/r-tsmodel-feedstock.git
 	path = feedstocks/r-tsmodel
 	branch = refs/heads/main
+[submodule "r-dlnm"]
+	url = https://github.com/conda-forge/r-dlnm-feedstock.git
+	path = feedstocks/r-dlnm
+	branch = refs/heads/main
