@@ -96986,3 +96986,7 @@
 	url = https://github.com/conda-forge/webpack-cli-feedstock.git
 	path = feedstocks/webpack-cli
 	branch = refs/heads/main
+[submodule "tape"]
+	url = https://github.com/conda-forge/tape-feedstock.git
+	path = feedstocks/tape
+	branch = refs/heads/main
