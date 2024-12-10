@@ -97018,3 +97018,7 @@
 	url = https://github.com/conda-forge/jiti-feedstock.git
 	path = feedstocks/jiti
 	branch = refs/heads/main
+[submodule "concurrently"]
+	url = https://github.com/conda-forge/concurrently-feedstock.git
+	path = feedstocks/concurrently
+	branch = refs/heads/main
