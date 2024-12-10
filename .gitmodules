@@ -97030,3 +97030,7 @@
 	url = https://github.com/conda-forge/hereby-feedstock.git
 	path = feedstocks/hereby
 	branch = refs/heads/main
+[submodule "nyc"]
+	url = https://github.com/conda-forge/nyc-feedstock.git
+	path = feedstocks/nyc
+	branch = refs/heads/main
