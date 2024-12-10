@@ -97010,3 +97010,7 @@
 	url = https://github.com/conda-forge/elf-cli-feedstock.git
 	path = feedstocks/elf-cli
 	branch = refs/heads/main
+[submodule "selenium-standalone"]
+	url = https://github.com/conda-forge/selenium-standalone-feedstock.git
+	path = feedstocks/selenium-standalone
+	branch = refs/heads/main
