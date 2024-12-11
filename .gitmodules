@@ -97130,3 +97130,7 @@
 	url = https://github.com/conda-forge/jupyter-nbmodel-client-feedstock.git
 	path = feedstocks/jupyter-nbmodel-client
 	branch = refs/heads/main
+[submodule "skore"]
+	url = https://github.com/conda-forge/skore-feedstock.git
+	path = feedstocks/skore
+	branch = refs/heads/main
