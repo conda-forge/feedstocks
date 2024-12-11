@@ -97138,3 +97138,7 @@
 	url = https://github.com/conda-forge/jupyter-kernel-client-feedstock.git
 	path = feedstocks/jupyter-kernel-client
 	branch = refs/heads/main
+[submodule "hwm"]
+	url = https://github.com/conda-forge/hwm-feedstock.git
+	path = feedstocks/hwm
+	branch = refs/heads/main
