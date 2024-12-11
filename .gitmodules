@@ -97154,3 +97154,7 @@
 	url = https://github.com/conda-forge/prrte-feedstock.git
 	path = feedstocks/prrte
 	branch = refs/heads/main
+[submodule "openpmix"]
+	url = https://github.com/conda-forge/openpmix-feedstock.git
+	path = feedstocks/openpmix
+	branch = refs/heads/main
