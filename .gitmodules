@@ -97158,3 +97158,7 @@
 	url = https://github.com/conda-forge/openpmix-feedstock.git
 	path = feedstocks/openpmix
 	branch = refs/heads/main
+[submodule "protobuf_to_pydantic"]
+	url = https://github.com/conda-forge/protobuf_to_pydantic-feedstock.git
+	path = feedstocks/protobuf_to_pydantic
+	branch = refs/heads/main
