@@ -97074,3 +97074,7 @@
 	url = https://github.com/conda-forge/changelog-chug-feedstock.git
 	path = feedstocks/changelog-chug
 	branch = refs/heads/main
+[submodule "geant4-data-channeling"]
+	url = https://github.com/conda-forge/geant4-data-channeling-feedstock.git
+	path = feedstocks/geant4-data-channeling
+	branch = refs/heads/main
