@@ -97070,3 +97070,7 @@
 	url = https://github.com/conda-forge/r-dlnm-feedstock.git
 	path = feedstocks/r-dlnm
 	branch = refs/heads/main
+[submodule "changelog-chug"]
+	url = https://github.com/conda-forge/changelog-chug-feedstock.git
+	path = feedstocks/changelog-chug
+	branch = refs/heads/main
