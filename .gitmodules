@@ -97150,3 +97150,7 @@
 	url = https://github.com/conda-forge/sklearn-compat-feedstock.git
 	path = feedstocks/sklearn-compat
 	branch = refs/heads/main
+[submodule "prrte"]
+	url = https://github.com/conda-forge/prrte-feedstock.git
+	path = feedstocks/prrte
+	branch = refs/heads/main
