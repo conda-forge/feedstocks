@@ -97146,3 +97146,7 @@
 	url = https://github.com/conda-forge/climepi-feedstock.git
 	path = feedstocks/climepi
 	branch = refs/heads/main
+[submodule "sklearn-compat"]
+	url = https://github.com/conda-forge/sklearn-compat-feedstock.git
+	path = feedstocks/sklearn-compat
+	branch = refs/heads/main
