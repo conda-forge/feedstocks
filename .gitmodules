@@ -97122,3 +97122,7 @@
 	url = https://github.com/conda-forge/docusaurus-feedstock.git
 	path = feedstocks/docusaurus
 	branch = refs/heads/main
+[submodule "hexo"]
+	url = https://github.com/conda-forge/hexo-feedstock.git
+	path = feedstocks/hexo
+	branch = refs/heads/main
