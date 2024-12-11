@@ -97106,3 +97106,7 @@
 	url = https://github.com/conda-forge/angular-cli-feedstock.git
 	path = feedstocks/angular-cli
 	branch = refs/heads/main
+[submodule "eleventy"]
+	url = https://github.com/conda-forge/eleventy-feedstock.git
+	path = feedstocks/eleventy
+	branch = refs/heads/main
