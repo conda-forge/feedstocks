@@ -97082,3 +97082,7 @@
 	url = https://github.com/conda-forge/knip-feedstock.git
 	path = feedstocks/knip
 	branch = refs/heads/main
+[submodule "nodemon"]
+	url = https://github.com/conda-forge/nodemon-feedstock.git
+	path = feedstocks/nodemon
+	branch = refs/heads/main
