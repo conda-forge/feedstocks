@@ -97102,3 +97102,7 @@
 	url = https://github.com/conda-forge/astro-ls-feedstock.git
 	path = feedstocks/astro-ls
 	branch = refs/heads/main
+[submodule "angular-cli"]
+	url = https://github.com/conda-forge/angular-cli-feedstock.git
+	path = feedstocks/angular-cli
+	branch = refs/heads/main
