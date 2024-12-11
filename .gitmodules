@@ -97078,3 +97078,7 @@
 	url = https://github.com/conda-forge/geant4-data-channeling-feedstock.git
 	path = feedstocks/geant4-data-channeling
 	branch = refs/heads/main
+[submodule "knip"]
+	url = https://github.com/conda-forge/knip-feedstock.git
+	path = feedstocks/knip
+	branch = refs/heads/main
