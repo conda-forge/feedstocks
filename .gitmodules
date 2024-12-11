@@ -97090,3 +97090,7 @@
 	url = https://github.com/conda-forge/syncpack-feedstock.git
 	path = feedstocks/syncpack
 	branch = refs/heads/main
+[submodule "copyfiles"]
+	url = https://github.com/conda-forge/copyfiles-feedstock.git
+	path = feedstocks/copyfiles
+	branch = refs/heads/main
