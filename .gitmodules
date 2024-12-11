@@ -97118,3 +97118,7 @@
 	url = https://github.com/conda-forge/architect-cli-feedstock.git
 	path = feedstocks/architect-cli
 	branch = refs/heads/main
+[submodule "docusaurus"]
+	url = https://github.com/conda-forge/docusaurus-feedstock.git
+	path = feedstocks/docusaurus
+	branch = refs/heads/main
