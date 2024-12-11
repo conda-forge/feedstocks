@@ -97126,3 +97126,7 @@
 	url = https://github.com/conda-forge/hexo-feedstock.git
 	path = feedstocks/hexo
 	branch = refs/heads/main
+[submodule "jupyter-nbmodel-client"]
+	url = https://github.com/conda-forge/jupyter-nbmodel-client-feedstock.git
+	path = feedstocks/jupyter-nbmodel-client
+	branch = refs/heads/main
