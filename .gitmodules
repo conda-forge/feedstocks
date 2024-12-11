@@ -97142,3 +97142,7 @@
 	url = https://github.com/conda-forge/hwm-feedstock.git
 	path = feedstocks/hwm
 	branch = refs/heads/main
+[submodule "climepi"]
+	url = https://github.com/conda-forge/climepi-feedstock.git
+	path = feedstocks/climepi
+	branch = refs/heads/main
