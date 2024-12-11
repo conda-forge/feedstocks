@@ -97114,3 +97114,7 @@
 	url = https://github.com/conda-forge/remix-feedstock.git
 	path = feedstocks/remix
 	branch = refs/heads/main
+[submodule "architect-cli"]
+	url = https://github.com/conda-forge/architect-cli-feedstock.git
+	path = feedstocks/architect-cli
+	branch = refs/heads/main
