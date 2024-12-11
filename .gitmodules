@@ -97134,3 +97134,7 @@
 	url = https://github.com/conda-forge/skore-feedstock.git
 	path = feedstocks/skore
 	branch = refs/heads/main
+[submodule "jupyter-kernel-client"]
+	url = https://github.com/conda-forge/jupyter-kernel-client-feedstock.git
+	path = feedstocks/jupyter-kernel-client
+	branch = refs/heads/main
