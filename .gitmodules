@@ -97086,3 +97086,7 @@
 	url = https://github.com/conda-forge/nodemon-feedstock.git
 	path = feedstocks/nodemon
 	branch = refs/heads/main
+[submodule "syncpack"]
+	url = https://github.com/conda-forge/syncpack-feedstock.git
+	path = feedstocks/syncpack
+	branch = refs/heads/main
