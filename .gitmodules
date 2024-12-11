@@ -97110,3 +97110,7 @@
 	url = https://github.com/conda-forge/eleventy-feedstock.git
 	path = feedstocks/eleventy
 	branch = refs/heads/main
+[submodule "remix"]
+	url = https://github.com/conda-forge/remix-feedstock.git
+	path = feedstocks/remix
+	branch = refs/heads/main
