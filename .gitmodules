@@ -97214,3 +97214,7 @@
 	url = https://github.com/conda-forge/torch-pme-feedstock.git
 	path = feedstocks/torch-pme
 	branch = refs/heads/main
+[submodule "fans"]
+	url = https://github.com/conda-forge/fans-feedstock.git
+	path = feedstocks/fans
+	branch = refs/heads/main
