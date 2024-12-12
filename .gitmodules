@@ -97206,3 +97206,7 @@
 	url = https://github.com/conda-forge/locache-feedstock.git
 	path = feedstocks/locache
 	branch = refs/heads/main
+[submodule "graph-pes"]
+	url = https://github.com/conda-forge/graph-pes-feedstock.git
+	path = feedstocks/graph-pes
+	branch = refs/heads/main
