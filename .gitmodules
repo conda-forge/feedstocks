@@ -97166,3 +97166,7 @@
 	url = https://github.com/conda-forge/libcudss-feedstock.git
 	path = feedstocks/libcudss
 	branch = refs/heads/main
+[submodule "release-it"]
+	url = https://github.com/conda-forge/release-it-feedstock.git
+	path = feedstocks/release-it
+	branch = refs/heads/main
