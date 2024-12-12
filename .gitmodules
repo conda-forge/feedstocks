@@ -97194,3 +97194,7 @@
 	url = https://github.com/conda-forge/presidio-analyzer-feedstock.git
 	path = feedstocks/presidio-analyzer
 	branch = refs/heads/main
+[submodule "load-atoms"]
+	url = https://github.com/conda-forge/load-atoms-feedstock.git
+	path = feedstocks/load-atoms
+	branch = refs/heads/main
