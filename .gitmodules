@@ -97210,3 +97210,7 @@
 	url = https://github.com/conda-forge/graph-pes-feedstock.git
 	path = feedstocks/graph-pes
 	branch = refs/heads/main
+[submodule "torch-pme"]
+	url = https://github.com/conda-forge/torch-pme-feedstock.git
+	path = feedstocks/torch-pme
+	branch = refs/heads/main
