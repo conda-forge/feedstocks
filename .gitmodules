@@ -97190,3 +97190,7 @@
 	url = https://github.com/conda-forge/presidio-anonymizer-feedstock.git
 	path = feedstocks/presidio-anonymizer
 	branch = refs/heads/main
+[submodule "presidio-analyzer"]
+	url = https://github.com/conda-forge/presidio-analyzer-feedstock.git
+	path = feedstocks/presidio-analyzer
+	branch = refs/heads/main
