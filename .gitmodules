@@ -97202,3 +97202,7 @@
 	url = https://github.com/conda-forge/data2objects-feedstock.git
 	path = feedstocks/data2objects
 	branch = refs/heads/main
+[submodule "locache"]
+	url = https://github.com/conda-forge/locache-feedstock.git
+	path = feedstocks/locache
+	branch = refs/heads/main
