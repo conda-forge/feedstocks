@@ -97178,3 +97178,7 @@
 	url = https://github.com/conda-forge/jest-feedstock.git
 	path = feedstocks/jest
 	branch = refs/heads/main
+[submodule "tapjs"]
+	url = https://github.com/conda-forge/tapjs-feedstock.git
+	path = feedstocks/tapjs
+	branch = refs/heads/main
