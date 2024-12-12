@@ -97226,3 +97226,7 @@
 	url = https://github.com/conda-forge/yarp-device-realsense2-feedstock.git
 	path = feedstocks/yarp-device-realsense2
 	branch = refs/heads/main
+[submodule "fastjet-cxx"]
+	url = https://github.com/conda-forge/fastjet-cxx-feedstock.git
+	path = feedstocks/fastjet-cxx
+	branch = refs/heads/main
