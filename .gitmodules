@@ -97170,3 +97170,7 @@
 	url = https://github.com/conda-forge/release-it-feedstock.git
 	path = feedstocks/release-it
 	branch = refs/heads/main
+[submodule "dotenvx"]
+	url = https://github.com/conda-forge/dotenvx-feedstock.git
+	path = feedstocks/dotenvx
+	branch = refs/heads/main
