@@ -97198,3 +97198,7 @@
 	url = https://github.com/conda-forge/load-atoms-feedstock.git
 	path = feedstocks/load-atoms
 	branch = refs/heads/main
+[submodule "data2objects"]
+	url = https://github.com/conda-forge/data2objects-feedstock.git
+	path = feedstocks/data2objects
+	branch = refs/heads/main
