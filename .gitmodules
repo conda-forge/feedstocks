@@ -97230,3 +97230,7 @@
 	url = https://github.com/conda-forge/fastjet-cxx-feedstock.git
 	path = feedstocks/fastjet-cxx
 	branch = refs/heads/main
+[submodule "python-vesin"]
+	url = https://github.com/conda-forge/python-vesin-feedstock.git
+	path = feedstocks/python-vesin
+	branch = refs/heads/main
