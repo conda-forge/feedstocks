@@ -97162,3 +97162,7 @@
 	url = https://github.com/conda-forge/protobuf_to_pydantic-feedstock.git
 	path = feedstocks/protobuf_to_pydantic
 	branch = refs/heads/main
+[submodule "libcudss"]
+	url = https://github.com/conda-forge/libcudss-feedstock.git
+	path = feedstocks/libcudss
+	branch = refs/heads/main
