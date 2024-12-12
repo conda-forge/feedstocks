@@ -97186,3 +97186,7 @@
 	url = https://github.com/conda-forge/mocha-feedstock.git
 	path = feedstocks/mocha
 	branch = refs/heads/main
+[submodule "presidio-anonymizer"]
+	url = https://github.com/conda-forge/presidio-anonymizer-feedstock.git
+	path = feedstocks/presidio-anonymizer
+	branch = refs/heads/main
