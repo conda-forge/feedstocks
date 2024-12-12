@@ -97222,3 +97222,7 @@
 	url = https://github.com/conda-forge/zizmor-feedstock.git
 	path = feedstocks/zizmor
 	branch = refs/heads/main
+[submodule "yarp-device-realsense2"]
+	url = https://github.com/conda-forge/yarp-device-realsense2-feedstock.git
+	path = feedstocks/yarp-device-realsense2
+	branch = refs/heads/main
