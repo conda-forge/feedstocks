@@ -97174,3 +97174,7 @@
 	url = https://github.com/conda-forge/dotenvx-feedstock.git
 	path = feedstocks/dotenvx
 	branch = refs/heads/main
+[submodule "jest"]
+	url = https://github.com/conda-forge/jest-feedstock.git
+	path = feedstocks/jest
+	branch = refs/heads/main
