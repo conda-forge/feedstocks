@@ -97286,3 +97286,7 @@
 	url = https://github.com/conda-forge/glint-feedstock.git
 	path = feedstocks/glint
 	branch = refs/heads/main
+[submodule "lean-language-server"]
+	url = https://github.com/conda-forge/lean-language-server-feedstock.git
+	path = feedstocks/lean-language-server
+	branch = refs/heads/main
