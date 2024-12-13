@@ -97242,3 +97242,7 @@
 	url = https://github.com/conda-forge/cinemagoerng-feedstock.git
 	path = feedstocks/cinemagoerng
 	branch = refs/heads/main
+[submodule "trame-annotations"]
+	url = https://github.com/conda-forge/trame-annotations-feedstock.git
+	path = feedstocks/trame-annotations
+	branch = refs/heads/main
