@@ -97362,3 +97362,7 @@
 	url = https://github.com/conda-forge/stardog-graphql-language-server-feedstock.git
 	path = feedstocks/stardog-graphql-language-server
 	branch = refs/heads/main
+[submodule "schematics-cli"]
+	url = https://github.com/conda-forge/schematics-cli-feedstock.git
+	path = feedstocks/schematics-cli
+	branch = refs/heads/main
