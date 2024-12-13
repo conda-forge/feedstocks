@@ -97250,3 +97250,7 @@
 	url = https://github.com/conda-forge/plotastrodata-feedstock.git
 	path = feedstocks/plotastrodata
 	branch = refs/heads/main
+[submodule "stock-pandas"]
+	url = https://github.com/conda-forge/stock-pandas-feedstock.git
+	path = feedstocks/stock-pandas
+	branch = refs/heads/main
