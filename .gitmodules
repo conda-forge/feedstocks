@@ -97290,3 +97290,7 @@
 	url = https://github.com/conda-forge/lean-language-server-feedstock.git
 	path = feedstocks/lean-language-server
 	branch = refs/heads/main
+[submodule "jshint"]
+	url = https://github.com/conda-forge/jshint-feedstock.git
+	path = feedstocks/jshint
+	branch = refs/heads/main
