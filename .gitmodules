@@ -97354,3 +97354,7 @@
 	url = https://github.com/conda-forge/prisma-lint-feedstock.git
 	path = feedstocks/prisma-lint
 	branch = refs/heads/main
+[submodule "shacl-language-server"]
+	url = https://github.com/conda-forge/shacl-language-server-feedstock.git
+	path = feedstocks/shacl-language-server
+	branch = refs/heads/main
