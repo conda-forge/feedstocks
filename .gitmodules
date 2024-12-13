@@ -97282,3 +97282,7 @@
 	url = https://github.com/conda-forge/custom-elements-languageserver-feedstock.git
 	path = feedstocks/custom-elements-languageserver
 	branch = refs/heads/main
+[submodule "glint"]
+	url = https://github.com/conda-forge/glint-feedstock.git
+	path = feedstocks/glint
+	branch = refs/heads/main
