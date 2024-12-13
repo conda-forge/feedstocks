@@ -97314,3 +97314,7 @@
 	url = https://github.com/conda-forge/cssmodules-language-server-feedstock.git
 	path = feedstocks/cssmodules-language-server
 	branch = refs/heads/main
+[submodule "jupyterlab-gather"]
+	url = https://github.com/conda-forge/jupyterlab-gather-feedstock.git
+	path = feedstocks/jupyterlab-gather
+	branch = refs/heads/main
