@@ -97254,3 +97254,7 @@
 	url = https://github.com/conda-forge/stock-pandas-feedstock.git
 	path = feedstocks/stock-pandas
 	branch = refs/heads/main
+[submodule "cypher-language-server"]
+	url = https://github.com/conda-forge/cypher-language-server-feedstock.git
+	path = feedstocks/cypher-language-server
+	branch = refs/heads/main
