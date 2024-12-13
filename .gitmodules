@@ -97338,3 +97338,7 @@
 	url = https://github.com/conda-forge/teos10-feedstock.git
 	path = feedstocks/teos10
 	branch = refs/heads/main
+[submodule "prisma-language-server"]
+	url = https://github.com/conda-forge/prisma-language-server-feedstock.git
+	path = feedstocks/prisma-language-server
+	branch = refs/heads/main
