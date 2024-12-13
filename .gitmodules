@@ -97386,3 +97386,7 @@
 	url = https://github.com/conda-forge/stylus-feedstock.git
 	path = feedstocks/stylus
 	branch = refs/heads/main
+[submodule "stylelint-lsp"]
+	url = https://github.com/conda-forge/stylelint-lsp-feedstock.git
+	path = feedstocks/stylelint-lsp
+	branch = refs/heads/main
