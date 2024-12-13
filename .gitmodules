@@ -97330,3 +97330,7 @@
 	url = https://github.com/conda-forge/bower-feedstock.git
 	path = feedstocks/bower
 	branch = refs/heads/main
+[submodule "coffeesense-language-server"]
+	url = https://github.com/conda-forge/coffeesense-language-server-feedstock.git
+	path = feedstocks/coffeesense-language-server
+	branch = refs/heads/main
