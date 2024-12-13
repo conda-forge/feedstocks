@@ -97382,3 +97382,7 @@
 	url = https://github.com/conda-forge/stylint-feedstock.git
 	path = feedstocks/stylint
 	branch = refs/heads/main
+[submodule "stylus"]
+	url = https://github.com/conda-forge/stylus-feedstock.git
+	path = feedstocks/stylus
+	branch = refs/heads/main
