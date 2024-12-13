@@ -97346,3 +97346,7 @@
 	url = https://github.com/conda-forge/sms-language-server-feedstock.git
 	path = feedstocks/sms-language-server
 	branch = refs/heads/main
+[submodule "fastjet-contrib"]
+	url = https://github.com/conda-forge/fastjet-contrib-feedstock.git
+	path = feedstocks/fastjet-contrib
+	branch = refs/heads/main
