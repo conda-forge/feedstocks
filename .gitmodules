@@ -97358,3 +97358,7 @@
 	url = https://github.com/conda-forge/shacl-language-server-feedstock.git
 	path = feedstocks/shacl-language-server
 	branch = refs/heads/main
+[submodule "stardog-graphql-language-server"]
+	url = https://github.com/conda-forge/stardog-graphql-language-server-feedstock.git
+	path = feedstocks/stardog-graphql-language-server
+	branch = refs/heads/main
