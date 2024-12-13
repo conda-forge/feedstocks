@@ -97294,3 +97294,7 @@
 	url = https://github.com/conda-forge/jshint-feedstock.git
 	path = feedstocks/jshint
 	branch = refs/heads/main
+[submodule "graphql-language-service-cli"]
+	url = https://github.com/conda-forge/graphql-language-service-cli-feedstock.git
+	path = feedstocks/graphql-language-service-cli
+	branch = refs/heads/main
