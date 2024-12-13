@@ -97370,3 +97370,7 @@
 	url = https://github.com/conda-forge/srs-language-server-feedstock.git
 	path = feedstocks/srs-language-server
 	branch = refs/heads/main
+[submodule "shopify-cli"]
+	url = https://github.com/conda-forge/shopify-cli-feedstock.git
+	path = feedstocks/shopify-cli
+	branch = refs/heads/main
