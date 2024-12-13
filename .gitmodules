@@ -97310,3 +97310,7 @@
 	url = https://github.com/conda-forge/ember-language-server-feedstock.git
 	path = feedstocks/ember-language-server
 	branch = refs/heads/main
+[submodule "cssmodules-language-server"]
+	url = https://github.com/conda-forge/cssmodules-language-server-feedstock.git
+	path = feedstocks/cssmodules-language-server
+	branch = refs/heads/main
