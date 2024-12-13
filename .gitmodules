@@ -97266,3 +97266,7 @@
 	url = https://github.com/conda-forge/eslint_d-feedstock.git
 	path = feedstocks/eslint_d
 	branch = refs/heads/main
+[submodule "markuplint"]
+	url = https://github.com/conda-forge/markuplint-feedstock.git
+	path = feedstocks/markuplint
+	branch = refs/heads/main
