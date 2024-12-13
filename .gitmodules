@@ -97334,3 +97334,7 @@
 	url = https://github.com/conda-forge/coffeesense-language-server-feedstock.git
 	path = feedstocks/coffeesense-language-server
 	branch = refs/heads/main
+[submodule "teos10"]
+	url = https://github.com/conda-forge/teos10-feedstock.git
+	path = feedstocks/teos10
+	branch = refs/heads/main
