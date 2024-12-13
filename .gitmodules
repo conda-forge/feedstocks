@@ -97318,3 +97318,7 @@
 	url = https://github.com/conda-forge/jupyterlab-gather-feedstock.git
 	path = feedstocks/jupyterlab-gather
 	branch = refs/heads/main
+[submodule "cmake-js"]
+	url = https://github.com/conda-forge/cmake-js-feedstock.git
+	path = feedstocks/cmake-js
+	branch = refs/heads/main
