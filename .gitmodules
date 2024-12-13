@@ -97298,3 +97298,7 @@
 	url = https://github.com/conda-forge/graphql-language-service-cli-feedstock.git
 	path = feedstocks/graphql-language-service-cli
 	branch = refs/heads/main
+[submodule "mdx-language-server"]
+	url = https://github.com/conda-forge/mdx-language-server-feedstock.git
+	path = feedstocks/mdx-language-server
+	branch = refs/heads/main
