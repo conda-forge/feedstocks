@@ -97270,3 +97270,7 @@
 	url = https://github.com/conda-forge/markuplint-feedstock.git
 	path = feedstocks/markuplint
 	branch = refs/heads/main
+[submodule "emmet-ls"]
+	url = https://github.com/conda-forge/emmet-ls-feedstock.git
+	path = feedstocks/emmet-ls
+	branch = refs/heads/main
