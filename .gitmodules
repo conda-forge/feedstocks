@@ -97402,3 +97402,7 @@
 	url = https://github.com/conda-forge/sparql-language-server-feedstock.git
 	path = feedstocks/sparql-language-server
 	branch = refs/heads/main
+[submodule "xojs"]
+	url = https://github.com/conda-forge/xojs-feedstock.git
+	path = feedstocks/xojs
+	branch = refs/heads/main
