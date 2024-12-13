@@ -97306,3 +97306,7 @@
 	url = https://github.com/conda-forge/emmet-language-server-feedstock.git
 	path = feedstocks/emmet-language-server
 	branch = refs/heads/main
+[submodule "ember-language-server"]
+	url = https://github.com/conda-forge/ember-language-server-feedstock.git
+	path = feedstocks/ember-language-server
+	branch = refs/heads/main
