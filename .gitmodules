@@ -97406,3 +97406,7 @@
 	url = https://github.com/conda-forge/xojs-feedstock.git
 	path = feedstocks/xojs
 	branch = refs/heads/main
+[submodule "ncc"]
+	url = https://github.com/conda-forge/ncc-feedstock.git
+	path = feedstocks/ncc
+	branch = refs/heads/main
