@@ -97278,3 +97278,7 @@
 	url = https://github.com/conda-forge/js-beautify-feedstock.git
 	path = feedstocks/js-beautify
 	branch = refs/heads/main
+[submodule "custom-elements-languageserver"]
+	url = https://github.com/conda-forge/custom-elements-languageserver-feedstock.git
+	path = feedstocks/custom-elements-languageserver
+	branch = refs/heads/main
