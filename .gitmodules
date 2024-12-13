@@ -97398,3 +97398,7 @@
 	url = https://github.com/conda-forge/semistandard-feedstock.git
 	path = feedstocks/semistandard
 	branch = refs/heads/main
+[submodule "sparql-language-server"]
+	url = https://github.com/conda-forge/sparql-language-server-feedstock.git
+	path = feedstocks/sparql-language-server
+	branch = refs/heads/main
