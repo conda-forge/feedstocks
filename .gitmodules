@@ -97262,3 +97262,7 @@
 	url = https://github.com/conda-forge/css-variables-language-server-feedstock.git
 	path = feedstocks/css-variables-language-server
 	branch = refs/heads/main
+[submodule "eslint_d"]
+	url = https://github.com/conda-forge/eslint_d-feedstock.git
+	path = feedstocks/eslint_d
+	branch = refs/heads/main
