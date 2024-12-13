@@ -97350,3 +97350,7 @@
 	url = https://github.com/conda-forge/fastjet-contrib-feedstock.git
 	path = feedstocks/fastjet-contrib
 	branch = refs/heads/main
+[submodule "prisma-lint"]
+	url = https://github.com/conda-forge/prisma-lint-feedstock.git
+	path = feedstocks/prisma-lint
+	branch = refs/heads/main
