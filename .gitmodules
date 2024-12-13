@@ -97374,3 +97374,7 @@
 	url = https://github.com/conda-forge/shopify-cli-feedstock.git
 	path = feedstocks/shopify-cli
 	branch = refs/heads/main
+[submodule "some-sass-language-server"]
+	url = https://github.com/conda-forge/some-sass-language-server-feedstock.git
+	path = feedstocks/some-sass-language-server
+	branch = refs/heads/main
