@@ -97342,3 +97342,7 @@
 	url = https://github.com/conda-forge/prisma-language-server-feedstock.git
 	path = feedstocks/prisma-language-server
 	branch = refs/heads/main
+[submodule "sms-language-server"]
+	url = https://github.com/conda-forge/sms-language-server-feedstock.git
+	path = feedstocks/sms-language-server
+	branch = refs/heads/main
