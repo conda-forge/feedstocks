@@ -97274,3 +97274,7 @@
 	url = https://github.com/conda-forge/emmet-ls-feedstock.git
 	path = feedstocks/emmet-ls
 	branch = refs/heads/main
+[submodule "js-beautify"]
+	url = https://github.com/conda-forge/js-beautify-feedstock.git
+	path = feedstocks/js-beautify
+	branch = refs/heads/main
