@@ -97322,3 +97322,7 @@
 	url = https://github.com/conda-forge/cmake-js-feedstock.git
 	path = feedstocks/cmake-js
 	branch = refs/heads/main
+[submodule "babylon"]
+	url = https://github.com/conda-forge/babylon-feedstock.git
+	path = feedstocks/babylon
+	branch = refs/heads/main
