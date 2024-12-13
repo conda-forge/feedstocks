@@ -97326,3 +97326,7 @@
 	url = https://github.com/conda-forge/babylon-feedstock.git
 	path = feedstocks/babylon
 	branch = refs/heads/main
+[submodule "bower"]
+	url = https://github.com/conda-forge/bower-feedstock.git
+	path = feedstocks/bower
+	branch = refs/heads/main
