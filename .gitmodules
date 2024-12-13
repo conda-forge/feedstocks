@@ -97390,3 +97390,7 @@
 	url = https://github.com/conda-forge/stylelint-lsp-feedstock.git
 	path = feedstocks/stylelint-lsp
 	branch = refs/heads/main
+[submodule "stimulus-language-server"]
+	url = https://github.com/conda-forge/stimulus-language-server-feedstock.git
+	path = feedstocks/stimulus-language-server
+	branch = refs/heads/main
