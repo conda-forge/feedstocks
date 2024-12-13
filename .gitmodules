@@ -97366,3 +97366,7 @@
 	url = https://github.com/conda-forge/schematics-cli-feedstock.git
 	path = feedstocks/schematics-cli
 	branch = refs/heads/main
+[submodule "srs-language-server"]
+	url = https://github.com/conda-forge/srs-language-server-feedstock.git
+	path = feedstocks/srs-language-server
+	branch = refs/heads/main
