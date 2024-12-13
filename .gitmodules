@@ -97394,3 +97394,7 @@
 	url = https://github.com/conda-forge/stimulus-language-server-feedstock.git
 	path = feedstocks/stimulus-language-server
 	branch = refs/heads/main
+[submodule "semistandard"]
+	url = https://github.com/conda-forge/semistandard-feedstock.git
+	path = feedstocks/semistandard
+	branch = refs/heads/main
