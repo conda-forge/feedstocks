@@ -97418,3 +97418,7 @@
 	url = https://github.com/conda-forge/typescript-language-server-feedstock.git
 	path = feedstocks/typescript-language-server
 	branch = refs/heads/main
+[submodule "tailwindcss-language-server"]
+	url = https://github.com/conda-forge/tailwindcss-language-server-feedstock.git
+	path = feedstocks/tailwindcss-language-server
+	branch = refs/heads/main
