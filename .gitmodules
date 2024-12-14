@@ -97470,3 +97470,7 @@
 	url = https://github.com/conda-forge/turtle-language-server-feedstock.git
 	path = feedstocks/turtle-language-server
 	branch = refs/heads/main
+[submodule "open-cli"]
+	url = https://github.com/conda-forge/open-cli-feedstock.git
+	path = feedstocks/open-cli
+	branch = refs/heads/main
