@@ -97430,3 +97430,7 @@
 	url = https://github.com/conda-forge/vscode-spectral-language-server-feedstock.git
 	path = feedstocks/vscode-spectral-language-server
 	branch = refs/heads/main
+[submodule "trig-language-server"]
+	url = https://github.com/conda-forge/trig-language-server-feedstock.git
+	path = feedstocks/trig-language-server
+	branch = refs/heads/main
