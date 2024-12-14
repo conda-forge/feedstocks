@@ -97478,3 +97478,7 @@
 	url = https://github.com/conda-forge/browserify-feedstock.git
 	path = feedstocks/browserify
 	branch = refs/heads/main
+[submodule "pymc-extras"]
+	url = https://github.com/conda-forge/pymc-extras-feedstock.git
+	path = feedstocks/pymc-extras
+	branch = refs/heads/main
