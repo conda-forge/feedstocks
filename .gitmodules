@@ -97426,3 +97426,7 @@
 	url = https://github.com/conda-forge/vue-language-server-feedstock.git
 	path = feedstocks/vue-language-server
 	branch = refs/heads/main
+[submodule "vscode-spectral-language-server"]
+	url = https://github.com/conda-forge/vscode-spectral-language-server-feedstock.git
+	path = feedstocks/vscode-spectral-language-server
+	branch = refs/heads/main
