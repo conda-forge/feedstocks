@@ -97450,3 +97450,7 @@
 	url = https://github.com/conda-forge/svelte-language-server-feedstock.git
 	path = feedstocks/svelte-language-server
 	branch = refs/heads/main
+[submodule "twiggy-language-server"]
+	url = https://github.com/conda-forge/twiggy-language-server-feedstock.git
+	path = feedstocks/twiggy-language-server
+	branch = refs/heads/main
