@@ -97486,3 +97486,7 @@
 	url = https://github.com/conda-forge/docco-feedstock.git
 	path = feedstocks/docco
 	branch = refs/heads/main
+[submodule "doxdox"]
+	url = https://github.com/conda-forge/doxdox-feedstock.git
+	path = feedstocks/doxdox
+	branch = refs/heads/main
