@@ -97474,3 +97474,7 @@
 	url = https://github.com/conda-forge/open-cli-feedstock.git
 	path = feedstocks/open-cli
 	branch = refs/heads/main
+[submodule "browserify"]
+	url = https://github.com/conda-forge/browserify-feedstock.git
+	path = feedstocks/browserify
+	branch = refs/heads/main
