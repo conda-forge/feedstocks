@@ -97446,3 +97446,7 @@
 	url = https://github.com/conda-forge/turbo-language-server-feedstock.git
 	path = feedstocks/turbo-language-server
 	branch = refs/heads/main
+[submodule "svelte-language-server"]
+	url = https://github.com/conda-forge/svelte-language-server-feedstock.git
+	path = feedstocks/svelte-language-server
+	branch = refs/heads/main
