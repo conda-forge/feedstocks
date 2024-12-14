@@ -97438,3 +97438,7 @@
 	url = https://github.com/conda-forge/typespec-feedstock.git
 	path = feedstocks/typespec
 	branch = refs/heads/main
+[submodule "wsrun"]
+	url = https://github.com/conda-forge/wsrun-feedstock.git
+	path = feedstocks/wsrun
+	branch = refs/heads/main
