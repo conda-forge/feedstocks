@@ -97482,3 +97482,7 @@
 	url = https://github.com/conda-forge/pymc-extras-feedstock.git
 	path = feedstocks/pymc-extras
 	branch = refs/heads/main
+[submodule "docco"]
+	url = https://github.com/conda-forge/docco-feedstock.git
+	path = feedstocks/docco
+	branch = refs/heads/main
