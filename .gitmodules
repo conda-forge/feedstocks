@@ -97466,3 +97466,7 @@
 	url = https://github.com/conda-forge/vtsls-feedstock.git
 	path = feedstocks/vtsls
 	branch = refs/heads/main
+[submodule "turtle-language-server"]
+	url = https://github.com/conda-forge/turtle-language-server-feedstock.git
+	path = feedstocks/turtle-language-server
+	branch = refs/heads/main
