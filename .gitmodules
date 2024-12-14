@@ -97422,3 +97422,7 @@
 	url = https://github.com/conda-forge/tailwindcss-language-server-feedstock.git
 	path = feedstocks/tailwindcss-language-server
 	branch = refs/heads/main
+[submodule "vue-language-server"]
+	url = https://github.com/conda-forge/vue-language-server-feedstock.git
+	path = feedstocks/vue-language-server
+	branch = refs/heads/main
