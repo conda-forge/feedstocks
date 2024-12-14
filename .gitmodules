@@ -97434,3 +97434,7 @@
 	url = https://github.com/conda-forge/trig-language-server-feedstock.git
 	path = feedstocks/trig-language-server
 	branch = refs/heads/main
+[submodule "typespec"]
+	url = https://github.com/conda-forge/typespec-feedstock.git
+	path = feedstocks/typespec
+	branch = refs/heads/main
