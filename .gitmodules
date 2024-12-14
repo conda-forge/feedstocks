@@ -97414,3 +97414,7 @@
 	url = https://github.com/conda-forge/protobuf-bazel-rules-feedstock.git
 	path = feedstocks/protobuf-bazel-rules
 	branch = refs/heads/main
+[submodule "typescript-language-server"]
+	url = https://github.com/conda-forge/typescript-language-server-feedstock.git
+	path = feedstocks/typescript-language-server
+	branch = refs/heads/main
