@@ -97462,3 +97462,7 @@
 	url = https://github.com/conda-forge/ts-standard-feedstock.git
 	path = feedstocks/ts-standard
 	branch = refs/heads/main
+[submodule "vtsls"]
+	url = https://github.com/conda-forge/vtsls-feedstock.git
+	path = feedstocks/vtsls
+	branch = refs/heads/main
