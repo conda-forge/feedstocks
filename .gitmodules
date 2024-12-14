@@ -97454,3 +97454,7 @@
 	url = https://github.com/conda-forge/twiggy-language-server-feedstock.git
 	path = feedstocks/twiggy-language-server
 	branch = refs/heads/main
+[submodule "vetur"]
+	url = https://github.com/conda-forge/vetur-feedstock.git
+	path = feedstocks/vetur
+	branch = refs/heads/main
