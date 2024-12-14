@@ -97458,3 +97458,7 @@
 	url = https://github.com/conda-forge/vetur-feedstock.git
 	path = feedstocks/vetur
 	branch = refs/heads/main
+[submodule "ts-standard"]
+	url = https://github.com/conda-forge/ts-standard-feedstock.git
+	path = feedstocks/ts-standard
+	branch = refs/heads/main
