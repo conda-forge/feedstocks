@@ -97442,3 +97442,7 @@
 	url = https://github.com/conda-forge/wsrun-feedstock.git
 	path = feedstocks/wsrun
 	branch = refs/heads/main
+[submodule "turbo-language-server"]
+	url = https://github.com/conda-forge/turbo-language-server-feedstock.git
+	path = feedstocks/turbo-language-server
+	branch = refs/heads/main
