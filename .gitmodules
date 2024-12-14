@@ -97410,3 +97410,7 @@
 	url = https://github.com/conda-forge/ncc-feedstock.git
 	path = feedstocks/ncc
 	branch = refs/heads/main
+[submodule "protobuf-bazel-rules"]
+	url = https://github.com/conda-forge/protobuf-bazel-rules-feedstock.git
+	path = feedstocks/protobuf-bazel-rules
+	branch = refs/heads/main
