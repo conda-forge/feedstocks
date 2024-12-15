@@ -97570,3 +97570,7 @@
 	url = https://github.com/conda-forge/ionic-cli-feedstock.git
 	path = feedstocks/ionic-cli
 	branch = refs/heads/main
+[submodule "depcheck"]
+	url = https://github.com/conda-forge/depcheck-feedstock.git
+	path = feedstocks/depcheck
+	branch = refs/heads/main
