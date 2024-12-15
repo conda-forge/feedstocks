@@ -97546,3 +97546,7 @@
 	url = https://github.com/conda-forge/qunit-feedstock.git
 	path = feedstocks/qunit
 	branch = refs/heads/main
+[submodule "lit-cli"]
+	url = https://github.com/conda-forge/lit-cli-feedstock.git
+	path = feedstocks/lit-cli
+	branch = refs/heads/main
