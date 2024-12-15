@@ -97490,3 +97490,7 @@
 	url = https://github.com/conda-forge/doxdox-feedstock.git
 	path = feedstocks/doxdox
 	branch = refs/heads/main
+[submodule "microbundle"]
+	url = https://github.com/conda-forge/microbundle-feedstock.git
+	path = feedstocks/microbundle
+	branch = refs/heads/main
