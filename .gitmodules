@@ -97514,3 +97514,7 @@
 	url = https://github.com/conda-forge/cypress-feedstock.git
 	path = feedstocks/cypress
 	branch = refs/heads/main
+[submodule "lockfile-lint"]
+	url = https://github.com/conda-forge/lockfile-lint-feedstock.git
+	path = feedstocks/lockfile-lint
+	branch = refs/heads/main
