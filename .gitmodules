@@ -97534,3 +97534,7 @@
 	url = https://github.com/conda-forge/ls-engines-feedstock.git
 	path = feedstocks/ls-engines
 	branch = refs/heads/main
+[submodule "quasar-cli"]
+	url = https://github.com/conda-forge/quasar-cli-feedstock.git
+	path = feedstocks/quasar-cli
+	branch = refs/heads/main
