@@ -97582,3 +97582,7 @@
 	url = https://github.com/conda-forge/sails-feedstock.git
 	path = feedstocks/sails
 	branch = refs/heads/main
+[submodule "cordova-js"]
+	url = https://github.com/conda-forge/cordova-js-feedstock.git
+	path = feedstocks/cordova-js
+	branch = refs/heads/main
