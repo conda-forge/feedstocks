@@ -97622,3 +97622,7 @@
 	url = https://github.com/conda-forge/amplication-cli-feedstock.git
 	path = feedstocks/amplication-cli
 	branch = refs/heads/main
+[submodule "nestjs-cli"]
+	url = https://github.com/conda-forge/nestjs-cli-feedstock.git
+	path = feedstocks/nestjs-cli
+	branch = refs/heads/main
