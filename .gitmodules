@@ -97530,3 +97530,7 @@
 	url = https://github.com/conda-forge/metro-feedstock.git
 	path = feedstocks/metro
 	branch = refs/heads/main
+[submodule "ls-engines"]
+	url = https://github.com/conda-forge/ls-engines-feedstock.git
+	path = feedstocks/ls-engines
+	branch = refs/heads/main
