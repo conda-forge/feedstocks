@@ -97630,3 +97630,7 @@
 	url = https://github.com/conda-forge/vercel-cli-feedstock.git
 	path = feedstocks/vercel-cli
 	branch = refs/heads/main
+[submodule "blitz"]
+	url = https://github.com/conda-forge/blitz-feedstock.git
+	path = feedstocks/blitz
+	branch = refs/heads/main
