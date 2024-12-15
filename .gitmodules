@@ -97590,3 +97590,7 @@
 	url = https://github.com/conda-forge/unocss-feedstock.git
 	path = feedstocks/unocss
 	branch = refs/heads/main
+[submodule "ui5-webcomponents-react-cli"]
+	url = https://github.com/conda-forge/ui5-webcomponents-react-cli-feedstock.git
+	path = feedstocks/ui5-webcomponents-react-cli
+	branch = refs/heads/main
