@@ -97614,3 +97614,7 @@
 	url = https://github.com/conda-forge/refinedev-cli-feedstock.git
 	path = feedstocks/refinedev-cli
 	branch = refs/heads/main
+[submodule "uvu"]
+	url = https://github.com/conda-forge/uvu-feedstock.git
+	path = feedstocks/uvu
+	branch = refs/heads/main
