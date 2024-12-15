@@ -97526,3 +97526,7 @@
 	url = https://github.com/conda-forge/makes-feedstock.git
 	path = feedstocks/makes
 	branch = refs/heads/main
+[submodule "metro"]
+	url = https://github.com/conda-forge/metro-feedstock.git
+	path = feedstocks/metro
+	branch = refs/heads/main
