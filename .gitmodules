@@ -97550,3 +97550,7 @@
 	url = https://github.com/conda-forge/lit-cli-feedstock.git
 	path = feedstocks/lit-cli
 	branch = refs/heads/main
+[submodule "cucumber-js"]
+	url = https://github.com/conda-forge/cucumber-js-feedstock.git
+	path = feedstocks/cucumber-js
+	branch = refs/heads/main
