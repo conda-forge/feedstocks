@@ -97522,3 +97522,7 @@
 	url = https://github.com/conda-forge/jasmine-npm-feedstock.git
 	path = feedstocks/jasmine-npm
 	branch = refs/heads/main
+[submodule "makes"]
+	url = https://github.com/conda-forge/makes-feedstock.git
+	path = feedstocks/makes
+	branch = refs/heads/main
