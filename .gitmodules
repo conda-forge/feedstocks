@@ -97634,3 +97634,7 @@
 	url = https://github.com/conda-forge/blitz-feedstock.git
 	path = feedstocks/blitz
 	branch = refs/heads/main
+[submodule "fastify-cli"]
+	url = https://github.com/conda-forge/fastify-cli-feedstock.git
+	path = feedstocks/fastify-cli
+	branch = refs/heads/main
