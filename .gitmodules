@@ -97542,3 +97542,7 @@
 	url = https://github.com/conda-forge/pta-feedstock.git
 	path = feedstocks/pta
 	branch = refs/heads/main
+[submodule "qunit"]
+	url = https://github.com/conda-forge/qunit-feedstock.git
+	path = feedstocks/qunit
+	branch = refs/heads/main
