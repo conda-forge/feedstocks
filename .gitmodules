@@ -97510,3 +97510,7 @@
 	url = https://github.com/conda-forge/create-qwik-feedstock.git
 	path = feedstocks/create-qwik
 	branch = refs/heads/main
+[submodule "cypress"]
+	url = https://github.com/conda-forge/cypress-feedstock.git
+	path = feedstocks/cypress
+	branch = refs/heads/main
