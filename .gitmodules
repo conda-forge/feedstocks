@@ -97558,3 +97558,7 @@
 	url = https://github.com/conda-forge/genversion-feedstock.git
 	path = feedstocks/genversion
 	branch = refs/heads/main
+[submodule "safe-publish-latest"]
+	url = https://github.com/conda-forge/safe-publish-latest-feedstock.git
+	path = feedstocks/safe-publish-latest
+	branch = refs/heads/main
