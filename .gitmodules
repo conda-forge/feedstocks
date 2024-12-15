@@ -97494,3 +97494,7 @@
 	url = https://github.com/conda-forge/microbundle-feedstock.git
 	path = feedstocks/microbundle
 	branch = refs/heads/main
+[submodule "bundt"]
+	url = https://github.com/conda-forge/bundt-feedstock.git
+	path = feedstocks/bundt
+	branch = refs/heads/main
