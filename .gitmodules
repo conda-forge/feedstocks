@@ -97626,3 +97626,7 @@
 	url = https://github.com/conda-forge/nestjs-cli-feedstock.git
 	path = feedstocks/nestjs-cli
 	branch = refs/heads/main
+[submodule "vercel-cli"]
+	url = https://github.com/conda-forge/vercel-cli-feedstock.git
+	path = feedstocks/vercel-cli
+	branch = refs/heads/main
