@@ -97610,3 +97610,7 @@
 	url = https://github.com/conda-forge/publint-feedstock.git
 	path = feedstocks/publint
 	branch = refs/heads/main
+[submodule "refinedev-cli"]
+	url = https://github.com/conda-forge/refinedev-cli-feedstock.git
+	path = feedstocks/refinedev-cli
+	branch = refs/heads/main
