@@ -97574,3 +97574,7 @@
 	url = https://github.com/conda-forge/depcheck-feedstock.git
 	path = feedstocks/depcheck
 	branch = refs/heads/main
+[submodule "unocss-language-server"]
+	url = https://github.com/conda-forge/unocss-language-server-feedstock.git
+	path = feedstocks/unocss-language-server
+	branch = refs/heads/main
