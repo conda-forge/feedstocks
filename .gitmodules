@@ -97498,3 +97498,7 @@
 	url = https://github.com/conda-forge/bundt-feedstock.git
 	path = feedstocks/bundt
 	branch = refs/heads/main
+[submodule "arethetypeswrong-cli"]
+	url = https://github.com/conda-forge/arethetypeswrong-cli-feedstock.git
+	path = feedstocks/arethetypeswrong-cli
+	branch = refs/heads/main
