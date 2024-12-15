@@ -97518,3 +97518,7 @@
 	url = https://github.com/conda-forge/lockfile-lint-feedstock.git
 	path = feedstocks/lockfile-lint
 	branch = refs/heads/main
+[submodule "jasmine-npm"]
+	url = https://github.com/conda-forge/jasmine-npm-feedstock.git
+	path = feedstocks/jasmine-npm
+	branch = refs/heads/main
