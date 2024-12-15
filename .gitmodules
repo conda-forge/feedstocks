@@ -97566,3 +97566,7 @@
 	url = https://github.com/conda-forge/karma-feedstock.git
 	path = feedstocks/karma
 	branch = refs/heads/main
+[submodule "ionic-cli"]
+	url = https://github.com/conda-forge/ionic-cli-feedstock.git
+	path = feedstocks/ionic-cli
+	branch = refs/heads/main
