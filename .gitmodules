@@ -97606,3 +97606,7 @@
 	url = https://github.com/conda-forge/storybook-feedstock.git
 	path = feedstocks/storybook
 	branch = refs/heads/main
+[submodule "publint"]
+	url = https://github.com/conda-forge/publint-feedstock.git
+	path = feedstocks/publint
+	branch = refs/heads/main
