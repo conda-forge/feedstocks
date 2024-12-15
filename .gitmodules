@@ -97602,3 +97602,7 @@
 	url = https://github.com/conda-forge/stencil-core-feedstock.git
 	path = feedstocks/stencil-core
 	branch = refs/heads/main
+[submodule "storybook"]
+	url = https://github.com/conda-forge/storybook-feedstock.git
+	path = feedstocks/storybook
+	branch = refs/heads/main
