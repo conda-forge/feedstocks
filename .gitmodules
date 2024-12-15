@@ -97598,3 +97598,7 @@
 	url = https://github.com/conda-forge/titanium-feedstock.git
 	path = feedstocks/titanium
 	branch = refs/heads/main
+[submodule "stencil-core"]
+	url = https://github.com/conda-forge/stencil-core-feedstock.git
+	path = feedstocks/stencil-core
+	branch = refs/heads/main
