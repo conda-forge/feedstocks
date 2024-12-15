@@ -97538,3 +97538,7 @@
 	url = https://github.com/conda-forge/quasar-cli-feedstock.git
 	path = feedstocks/quasar-cli
 	branch = refs/heads/main
+[submodule "pta"]
+	url = https://github.com/conda-forge/pta-feedstock.git
+	path = feedstocks/pta
+	branch = refs/heads/main
