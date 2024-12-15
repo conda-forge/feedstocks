@@ -97562,3 +97562,7 @@
 	url = https://github.com/conda-forge/safe-publish-latest-feedstock.git
 	path = feedstocks/safe-publish-latest
 	branch = refs/heads/main
+[submodule "karma"]
+	url = https://github.com/conda-forge/karma-feedstock.git
+	path = feedstocks/karma
+	branch = refs/heads/main
