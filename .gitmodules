@@ -97594,3 +97594,7 @@
 	url = https://github.com/conda-forge/ui5-webcomponents-react-cli-feedstock.git
 	path = feedstocks/ui5-webcomponents-react-cli
 	branch = refs/heads/main
+[submodule "titanium"]
+	url = https://github.com/conda-forge/titanium-feedstock.git
+	path = feedstocks/titanium
+	branch = refs/heads/main
