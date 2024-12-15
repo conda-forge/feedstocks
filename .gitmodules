@@ -97554,3 +97554,7 @@
 	url = https://github.com/conda-forge/cucumber-js-feedstock.git
 	path = feedstocks/cucumber-js
 	branch = refs/heads/main
+[submodule "genversion"]
+	url = https://github.com/conda-forge/genversion-feedstock.git
+	path = feedstocks/genversion
+	branch = refs/heads/main
