@@ -97618,3 +97618,7 @@
 	url = https://github.com/conda-forge/uvu-feedstock.git
 	path = feedstocks/uvu
 	branch = refs/heads/main
+[submodule "amplication-cli"]
+	url = https://github.com/conda-forge/amplication-cli-feedstock.git
+	path = feedstocks/amplication-cli
+	branch = refs/heads/main
