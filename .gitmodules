@@ -97662,3 +97662,7 @@
 	url = https://github.com/conda-forge/ffpiv-feedstock.git
 	path = feedstocks/ffpiv
 	branch = refs/heads/main
+[submodule "mammoth"]
+	url = https://github.com/conda-forge/mammoth-feedstock.git
+	path = feedstocks/mammoth
+	branch = refs/heads/main
