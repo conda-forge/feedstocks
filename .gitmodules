@@ -97646,3 +97646,7 @@
 	url = https://github.com/conda-forge/montepy-feedstock.git
 	path = feedstocks/montepy
 	branch = refs/heads/main
+[submodule "cobble"]
+	url = https://github.com/conda-forge/cobble-feedstock.git
+	path = feedstocks/cobble
+	branch = refs/heads/main
