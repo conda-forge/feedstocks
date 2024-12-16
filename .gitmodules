@@ -97674,3 +97674,7 @@
 	url = https://github.com/conda-forge/inaspeechsegmenter-feedstock.git
 	path = feedstocks/inaspeechsegmenter
 	branch = refs/heads/main
+[submodule "imdclient"]
+	url = https://github.com/conda-forge/imdclient-feedstock.git
+	path = feedstocks/imdclient
+	branch = refs/heads/main
