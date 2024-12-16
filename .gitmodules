@@ -97654,3 +97654,7 @@
 	url = https://github.com/conda-forge/venvstacks-feedstock.git
 	path = feedstocks/venvstacks
 	branch = refs/heads/main
+[submodule "qnmfits"]
+	url = https://github.com/conda-forge/qnmfits-feedstock.git
+	path = feedstocks/qnmfits
+	branch = refs/heads/main
