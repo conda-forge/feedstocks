@@ -97638,3 +97638,7 @@
 	url = https://github.com/conda-forge/fastify-cli-feedstock.git
 	path = feedstocks/fastify-cli
 	branch = refs/heads/main
+[submodule "pdfminer-six"]
+	url = https://github.com/conda-forge/pdfminer-six-feedstock.git
+	path = feedstocks/pdfminer-six
+	branch = refs/heads/main
