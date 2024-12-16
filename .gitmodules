@@ -97642,3 +97642,7 @@
 	url = https://github.com/conda-forge/pdfminer-six-feedstock.git
 	path = feedstocks/pdfminer-six
 	branch = refs/heads/main
+[submodule "montepy"]
+	url = https://github.com/conda-forge/montepy-feedstock.git
+	path = feedstocks/montepy
+	branch = refs/heads/main
