@@ -97678,3 +97678,7 @@
 	url = https://github.com/conda-forge/imdclient-feedstock.git
 	path = feedstocks/imdclient
 	branch = refs/heads/main
+[submodule "fastapi-third-party-auth"]
+	url = https://github.com/conda-forge/fastapi-third-party-auth-feedstock.git
+	path = feedstocks/fastapi-third-party-auth
+	branch = refs/heads/main
