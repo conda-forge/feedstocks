@@ -97650,3 +97650,7 @@
 	url = https://github.com/conda-forge/cobble-feedstock.git
 	path = feedstocks/cobble
 	branch = refs/heads/main
+[submodule "venvstacks"]
+	url = https://github.com/conda-forge/venvstacks-feedstock.git
+	path = feedstocks/venvstacks
+	branch = refs/heads/main
