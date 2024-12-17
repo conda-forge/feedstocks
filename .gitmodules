@@ -97706,3 +97706,7 @@
 	url = https://github.com/conda-forge/mediainfo-feedstock.git
 	path = feedstocks/mediainfo
 	branch = refs/heads/main
+[submodule "psmpi"]
+	url = https://github.com/conda-forge/psmpi-feedstock.git
+	path = feedstocks/psmpi
+	branch = refs/heads/main
