@@ -97702,3 +97702,7 @@
 	url = https://github.com/conda-forge/msmtp-feedstock.git
 	path = feedstocks/msmtp
 	branch = refs/heads/main
+[submodule "mediainfo"]
+	url = https://github.com/conda-forge/mediainfo-feedstock.git
+	path = feedstocks/mediainfo
+	branch = refs/heads/main
