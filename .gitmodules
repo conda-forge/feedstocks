@@ -97682,3 +97682,7 @@
 	url = https://github.com/conda-forge/fastapi-third-party-auth-feedstock.git
 	path = feedstocks/fastapi-third-party-auth
 	branch = refs/heads/main
+[submodule "cbor"]
+	url = https://github.com/conda-forge/cbor-feedstock.git
+	path = feedstocks/cbor
+	branch = refs/heads/main
