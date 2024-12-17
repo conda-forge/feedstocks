@@ -97726,3 +97726,7 @@
 	url = https://github.com/conda-forge/tabby-agent-feedstock.git
 	path = feedstocks/tabby-agent
 	branch = refs/heads/main
+[submodule "vscode-go-debug-adapter"]
+	url = https://github.com/conda-forge/vscode-go-debug-adapter-feedstock.git
+	path = feedstocks/vscode-go-debug-adapter
+	branch = refs/heads/main
