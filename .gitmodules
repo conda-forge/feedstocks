@@ -97686,3 +97686,7 @@
 	url = https://github.com/conda-forge/cbor-feedstock.git
 	path = feedstocks/cbor
 	branch = refs/heads/main
+[submodule "base58check"]
+	url = https://github.com/conda-forge/base58check-feedstock.git
+	path = feedstocks/base58check
+	branch = refs/heads/main
