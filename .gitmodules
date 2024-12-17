@@ -97710,3 +97710,7 @@
 	url = https://github.com/conda-forge/psmpi-feedstock.git
 	path = feedstocks/psmpi
 	branch = refs/heads/main
+[submodule "hg-setup"]
+	url = https://github.com/conda-forge/hg-setup-feedstock.git
+	path = feedstocks/hg-setup
+	branch = refs/heads/main
