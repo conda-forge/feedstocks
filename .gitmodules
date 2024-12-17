@@ -97714,3 +97714,7 @@
 	url = https://github.com/conda-forge/hg-setup-feedstock.git
 	path = feedstocks/hg-setup
 	branch = refs/heads/main
+[submodule "scipy-doctest"]
+	url = https://github.com/conda-forge/scipy-doctest-feedstock.git
+	path = feedstocks/scipy-doctest
+	branch = refs/heads/main
