@@ -97718,3 +97718,7 @@
 	url = https://github.com/conda-forge/scipy-doctest-feedstock.git
 	path = feedstocks/scipy-doctest
 	branch = refs/heads/main
+[submodule "perl-debug-adapter"]
+	url = https://github.com/conda-forge/perl-debug-adapter-feedstock.git
+	path = feedstocks/perl-debug-adapter
+	branch = refs/heads/main
