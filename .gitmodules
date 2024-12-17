@@ -97730,3 +97730,7 @@
 	url = https://github.com/conda-forge/vscode-go-debug-adapter-feedstock.git
 	path = feedstocks/vscode-go-debug-adapter
 	branch = refs/heads/main
+[submodule "local-lua-debugger-vscode"]
+	url = https://github.com/conda-forge/local-lua-debugger-vscode-feedstock.git
+	path = feedstocks/local-lua-debugger-vscode
+	branch = refs/heads/main
