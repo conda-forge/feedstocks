@@ -97698,3 +97698,7 @@
 	url = https://github.com/conda-forge/blake256-feedstock.git
 	path = feedstocks/blake256
 	branch = refs/heads/main
+[submodule "msmtp"]
+	url = https://github.com/conda-forge/msmtp-feedstock.git
+	path = feedstocks/msmtp
+	branch = refs/heads/main
