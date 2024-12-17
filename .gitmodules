@@ -97734,3 +97734,7 @@
 	url = https://github.com/conda-forge/local-lua-debugger-vscode-feedstock.git
 	path = feedstocks/local-lua-debugger-vscode
 	branch = refs/heads/main
+[submodule "ipsurv"]
+	url = https://github.com/conda-forge/ipsurv-feedstock.git
+	path = feedstocks/ipsurv
+	branch = refs/heads/main
