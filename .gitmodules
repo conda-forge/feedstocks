@@ -97722,3 +97722,7 @@
 	url = https://github.com/conda-forge/perl-debug-adapter-feedstock.git
 	path = feedstocks/perl-debug-adapter
 	branch = refs/heads/main
+[submodule "tabby-agent"]
+	url = https://github.com/conda-forge/tabby-agent-feedstock.git
+	path = feedstocks/tabby-agent
+	branch = refs/heads/main
