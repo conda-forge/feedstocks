@@ -97746,3 +97746,7 @@
 	url = https://github.com/conda-forge/pycsvy-feedstock.git
 	path = feedstocks/pycsvy
 	branch = refs/heads/main
+[submodule "datatrove"]
+	url = https://github.com/conda-forge/datatrove-feedstock.git
+	path = feedstocks/datatrove
+	branch = refs/heads/main
