@@ -97750,3 +97750,7 @@
 	url = https://github.com/conda-forge/datatrove-feedstock.git
 	path = feedstocks/datatrove
 	branch = refs/heads/main
+[submodule "pygyat"]
+	url = https://github.com/conda-forge/pygyat-feedstock.git
+	path = feedstocks/pygyat
+	branch = refs/heads/main
