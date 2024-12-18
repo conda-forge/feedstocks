@@ -97778,3 +97778,7 @@
 	url = https://github.com/conda-forge/r-canyonb-feedstock.git
 	path = feedstocks/r-canyonb
 	branch = refs/heads/main
+[submodule "gempy-engine"]
+	url = https://github.com/conda-forge/gempy-engine-feedstock.git
+	path = feedstocks/gempy-engine
+	branch = refs/heads/main
