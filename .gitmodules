@@ -97742,3 +97742,7 @@
 	url = https://github.com/conda-forge/umnn-feedstock.git
 	path = feedstocks/umnn
 	branch = refs/heads/main
+[submodule "pycsvy"]
+	url = https://github.com/conda-forge/pycsvy-feedstock.git
+	path = feedstocks/pycsvy
+	branch = refs/heads/main
