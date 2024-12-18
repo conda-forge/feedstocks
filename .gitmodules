@@ -97758,3 +97758,7 @@
 	url = https://github.com/conda-forge/dockq-feedstock.git
 	path = feedstocks/dockq
 	branch = refs/heads/main
+[submodule "faust-cchardet"]
+	url = https://github.com/conda-forge/faust-cchardet-feedstock.git
+	path = feedstocks/faust-cchardet
+	branch = refs/heads/main
