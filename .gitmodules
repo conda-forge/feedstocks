@@ -97770,3 +97770,7 @@
 	url = https://github.com/conda-forge/stacrs-feedstock.git
 	path = feedstocks/stacrs
 	branch = refs/heads/main
+[submodule "warcio"]
+	url = https://github.com/conda-forge/warcio-feedstock.git
+	path = feedstocks/warcio
+	branch = refs/heads/main
