@@ -97782,3 +97782,7 @@
 	url = https://github.com/conda-forge/gempy-engine-feedstock.git
 	path = feedstocks/gempy-engine
 	branch = refs/heads/main
+[submodule "semchunk"]
+	url = https://github.com/conda-forge/semchunk-feedstock.git
+	path = feedstocks/semchunk
+	branch = refs/heads/main
