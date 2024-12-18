@@ -97766,3 +97766,7 @@
 	url = https://github.com/conda-forge/hpv-kite-feedstock.git
 	path = feedstocks/hpv-kite
 	branch = refs/heads/main
+[submodule "stacrs"]
+	url = https://github.com/conda-forge/stacrs-feedstock.git
+	path = feedstocks/stacrs
+	branch = refs/heads/main
