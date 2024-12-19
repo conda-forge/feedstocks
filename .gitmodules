@@ -97786,3 +97786,7 @@
 	url = https://github.com/conda-forge/semchunk-feedstock.git
 	path = feedstocks/semchunk
 	branch = refs/heads/main
+[submodule "nflows"]
+	url = https://github.com/conda-forge/nflows-feedstock.git
+	path = feedstocks/nflows
+	branch = refs/heads/main
