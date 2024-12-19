@@ -97790,3 +97790,7 @@
 	url = https://github.com/conda-forge/nflows-feedstock.git
 	path = feedstocks/nflows
 	branch = refs/heads/main
+[submodule "plotnn"]
+	url = https://github.com/conda-forge/plotnn-feedstock.git
+	path = feedstocks/plotnn
+	branch = refs/heads/main
