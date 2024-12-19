@@ -97794,3 +97794,7 @@
 	url = https://github.com/conda-forge/plotnn-feedstock.git
 	path = feedstocks/plotnn
 	branch = refs/heads/main
+[submodule "nicelib"]
+	url = https://github.com/conda-forge/nicelib-feedstock.git
+	path = feedstocks/nicelib
+	branch = refs/heads/main
