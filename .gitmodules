@@ -97830,3 +97830,7 @@
 	url = https://github.com/conda-forge/django-content-settings-feedstock.git
 	path = feedstocks/django-content-settings
 	branch = refs/heads/main
+[submodule "skimpy"]
+	url = https://github.com/conda-forge/skimpy-feedstock.git
+	path = feedstocks/skimpy
+	branch = refs/heads/main
