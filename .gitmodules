@@ -97822,3 +97822,7 @@
 	url = https://github.com/conda-forge/pattern-utils-feedstock.git
 	path = feedstocks/pattern-utils
 	branch = refs/heads/main
+[submodule "django-removals"]
+	url = https://github.com/conda-forge/django-removals-feedstock.git
+	path = feedstocks/django-removals
+	branch = refs/heads/main
