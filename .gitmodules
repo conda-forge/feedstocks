@@ -97826,3 +97826,7 @@
 	url = https://github.com/conda-forge/django-removals-feedstock.git
 	path = feedstocks/django-removals
 	branch = refs/heads/main
+[submodule "django-content-settings"]
+	url = https://github.com/conda-forge/django-content-settings-feedstock.git
+	path = feedstocks/django-content-settings
+	branch = refs/heads/main
