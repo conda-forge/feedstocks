@@ -97862,3 +97862,7 @@
 	url = https://github.com/conda-forge/daschlab-feedstock.git
 	path = feedstocks/daschlab
 	branch = refs/heads/main
+[submodule "httpx-sse"]
+	url = https://github.com/conda-forge/httpx-sse-feedstock.git
+	path = feedstocks/httpx-sse
+	branch = refs/heads/main
