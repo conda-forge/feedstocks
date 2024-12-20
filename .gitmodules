@@ -97846,3 +97846,7 @@
 	url = https://github.com/conda-forge/jupyter-suggestions-feedstock.git
 	path = feedstocks/jupyter-suggestions
 	branch = refs/heads/main
+[submodule "wcurl"]
+	url = https://github.com/conda-forge/wcurl-feedstock.git
+	path = feedstocks/wcurl
+	branch = refs/heads/main
