@@ -97854,3 +97854,7 @@
 	url = https://github.com/conda-forge/facadedevice-feedstock.git
 	path = feedstocks/facadedevice
 	branch = refs/heads/main
+[submodule "dooit-extras"]
+	url = https://github.com/conda-forge/dooit-extras-feedstock.git
+	path = feedstocks/dooit-extras
+	branch = refs/heads/main
