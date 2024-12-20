@@ -97818,3 +97818,7 @@
 	url = https://github.com/conda-forge/ridgeplot-feedstock.git
 	path = feedstocks/ridgeplot
 	branch = refs/heads/main
+[submodule "pattern-utils"]
+	url = https://github.com/conda-forge/pattern-utils-feedstock.git
+	path = feedstocks/pattern-utils
+	branch = refs/heads/main
