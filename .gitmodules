@@ -97810,3 +97810,7 @@
 	url = https://github.com/conda-forge/semantikon-feedstock.git
 	path = feedstocks/semantikon
 	branch = refs/heads/main
+[submodule "pyknos"]
+	url = https://github.com/conda-forge/pyknos-feedstock.git
+	path = feedstocks/pyknos
+	branch = refs/heads/main
