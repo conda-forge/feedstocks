@@ -97834,3 +97834,7 @@
 	url = https://github.com/conda-forge/skimpy-feedstock.git
 	path = feedstocks/skimpy
 	branch = refs/heads/main
+[submodule "sbi"]
+	url = https://github.com/conda-forge/sbi-feedstock.git
+	path = feedstocks/sbi
+	branch = refs/heads/main
