@@ -97842,3 +97842,7 @@
 	url = https://github.com/conda-forge/freva-rest-server-feedstock.git
 	path = feedstocks/freva-rest-server
 	branch = refs/heads/main
+[submodule "jupyter-suggestions"]
+	url = https://github.com/conda-forge/jupyter-suggestions-feedstock.git
+	path = feedstocks/jupyter-suggestions
+	branch = refs/heads/main
