@@ -97870,3 +97870,7 @@
 	url = https://github.com/conda-forge/juv-feedstock.git
 	path = feedstocks/juv
 	branch = refs/heads/main
+[submodule "pyprobables"]
+	url = https://github.com/conda-forge/pyprobables-feedstock.git
+	path = feedstocks/pyprobables
+	branch = refs/heads/main
