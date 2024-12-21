@@ -97866,3 +97866,7 @@
 	url = https://github.com/conda-forge/httpx-sse-feedstock.git
 	path = feedstocks/httpx-sse
 	branch = refs/heads/main
+[submodule "juv"]
+	url = https://github.com/conda-forge/juv-feedstock.git
+	path = feedstocks/juv
+	branch = refs/heads/main
