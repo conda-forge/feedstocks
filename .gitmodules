@@ -97878,3 +97878,7 @@
 	url = https://github.com/conda-forge/naturalneighbor-feedstock.git
 	path = feedstocks/naturalneighbor
 	branch = refs/heads/main
+[submodule "textual-autocomplete"]
+	url = https://github.com/conda-forge/textual-autocomplete-feedstock.git
+	path = feedstocks/textual-autocomplete
+	branch = refs/heads/main
