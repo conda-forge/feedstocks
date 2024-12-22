@@ -97882,3 +97882,7 @@
 	url = https://github.com/conda-forge/textual-autocomplete-feedstock.git
 	path = feedstocks/textual-autocomplete
 	branch = refs/heads/main
+[submodule "r-nipals"]
+	url = https://github.com/conda-forge/r-nipals-feedstock.git
+	path = feedstocks/r-nipals
+	branch = refs/heads/main
