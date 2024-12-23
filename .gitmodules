@@ -97886,3 +97886,7 @@
 	url = https://github.com/conda-forge/r-nipals-feedstock.git
 	path = feedstocks/r-nipals
 	branch = refs/heads/main
+[submodule "r-qgg"]
+	url = https://github.com/conda-forge/r-qgg-feedstock.git
+	path = feedstocks/r-qgg
+	branch = refs/heads/main
