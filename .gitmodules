@@ -97894,3 +97894,7 @@
 	url = https://github.com/conda-forge/r-rcppplanc-feedstock.git
 	path = feedstocks/r-rcppplanc
 	branch = refs/heads/main
+[submodule "configmypy"]
+	url = https://github.com/conda-forge/configmypy-feedstock.git
+	path = feedstocks/configmypy
+	branch = refs/heads/main
