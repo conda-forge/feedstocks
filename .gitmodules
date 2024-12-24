@@ -97898,3 +97898,7 @@
 	url = https://github.com/conda-forge/configmypy-feedstock.git
 	path = feedstocks/configmypy
 	branch = refs/heads/main
+[submodule "torchx"]
+	url = https://github.com/conda-forge/torchx-feedstock.git
+	path = feedstocks/torchx
+	branch = refs/heads/main
