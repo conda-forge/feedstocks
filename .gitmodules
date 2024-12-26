@@ -97906,3 +97906,7 @@
 	url = https://github.com/conda-forge/r-rayvertex-feedstock.git
 	path = feedstocks/r-rayvertex
 	branch = refs/heads/main
+[submodule "r-cpp11armadillo"]
+	url = https://github.com/conda-forge/r-cpp11armadillo-feedstock.git
+	path = feedstocks/r-cpp11armadillo
+	branch = refs/heads/main
