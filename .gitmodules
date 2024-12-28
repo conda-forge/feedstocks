@@ -97910,3 +97910,7 @@
 	url = https://github.com/conda-forge/r-cpp11armadillo-feedstock.git
 	path = feedstocks/r-cpp11armadillo
 	branch = refs/heads/main
+[submodule "strace"]
+	url = https://github.com/conda-forge/strace-feedstock.git
+	path = feedstocks/strace
+	branch = refs/heads/main
