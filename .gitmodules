@@ -97914,3 +97914,7 @@
 	url = https://github.com/conda-forge/strace-feedstock.git
 	path = feedstocks/strace
 	branch = refs/heads/main
+[submodule "napari-update-checker"]
+	url = https://github.com/conda-forge/napari-update-checker-feedstock.git
+	path = feedstocks/napari-update-checker
+	branch = refs/heads/main
