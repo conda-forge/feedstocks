@@ -97918,3 +97918,7 @@
 	url = https://github.com/conda-forge/napari-update-checker-feedstock.git
 	path = feedstocks/napari-update-checker
 	branch = refs/heads/main
+[submodule "tryton"]
+	url = https://github.com/conda-forge/tryton-feedstock.git
+	path = feedstocks/tryton
+	branch = refs/heads/main
