@@ -97922,3 +97922,7 @@
 	url = https://github.com/conda-forge/tryton-feedstock.git
 	path = feedstocks/tryton
 	branch = refs/heads/main
+[submodule "mkdocs-monorepo-plugin"]
+	url = https://github.com/conda-forge/mkdocs-monorepo-plugin-feedstock.git
+	path = feedstocks/mkdocs-monorepo-plugin
+	branch = refs/heads/main
