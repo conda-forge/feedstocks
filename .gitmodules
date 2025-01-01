@@ -97926,3 +97926,7 @@
 	url = https://github.com/conda-forge/mkdocs-monorepo-plugin-feedstock.git
 	path = feedstocks/mkdocs-monorepo-plugin
 	branch = refs/heads/main
+[submodule "sortmerna"]
+	url = https://github.com/conda-forge/sortmerna-feedstock.git
+	path = feedstocks/sortmerna
+	branch = refs/heads/main
