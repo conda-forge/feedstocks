@@ -97934,3 +97934,7 @@
 	url = https://github.com/conda-forge/libplacebo-feedstock.git
 	path = feedstocks/libplacebo
 	branch = refs/heads/main
+[submodule "apswutils"]
+	url = https://github.com/conda-forge/apswutils-feedstock.git
+	path = feedstocks/apswutils
+	branch = refs/heads/main
