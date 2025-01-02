@@ -97930,3 +97930,7 @@
 	url = https://github.com/conda-forge/sortmerna-feedstock.git
 	path = feedstocks/sortmerna
 	branch = refs/heads/main
+[submodule "libplacebo"]
+	url = https://github.com/conda-forge/libplacebo-feedstock.git
+	path = feedstocks/libplacebo
+	branch = refs/heads/main
