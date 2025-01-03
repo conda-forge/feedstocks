@@ -98018,3 +98018,7 @@
 	url = https://github.com/conda-forge/asphalt-serialization-feedstock.git
 	path = feedstocks/asphalt-serialization
 	branch = refs/heads/main
+[submodule "asphalt-exceptions"]
+	url = https://github.com/conda-forge/asphalt-exceptions-feedstock.git
+	path = feedstocks/asphalt-exceptions
+	branch = refs/heads/main
