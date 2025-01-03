@@ -97946,3 +97946,7 @@
 	url = https://github.com/conda-forge/r-ggtangle-feedstock.git
 	path = feedstocks/r-ggtangle
 	branch = refs/heads/main
+[submodule "subfinder"]
+	url = https://github.com/conda-forge/subfinder-feedstock.git
+	path = feedstocks/subfinder
+	branch = refs/heads/main
