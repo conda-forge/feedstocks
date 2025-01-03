@@ -97954,3 +97954,7 @@
 	url = https://github.com/conda-forge/minio-client-feedstock.git
 	path = feedstocks/minio-client
 	branch = refs/heads/main
+[submodule "fortuno"]
+	url = https://github.com/conda-forge/fortuno-feedstock.git
+	path = feedstocks/fortuno
+	branch = refs/heads/main
