@@ -97970,3 +97970,7 @@
 	url = https://github.com/conda-forge/fickling-feedstock.git
 	path = feedstocks/fickling
 	branch = refs/heads/main
+[submodule "moka-py"]
+	url = https://github.com/conda-forge/moka-py-feedstock.git
+	path = feedstocks/moka-py
+	branch = refs/heads/main
