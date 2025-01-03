@@ -98034,3 +98034,7 @@
 	url = https://github.com/conda-forge/r-cpprouting-feedstock.git
 	path = feedstocks/r-cpprouting
 	branch = refs/heads/main
+[submodule "xcube-zenodo"]
+	url = https://github.com/conda-forge/xcube-zenodo-feedstock.git
+	path = feedstocks/xcube-zenodo
+	branch = refs/heads/main
