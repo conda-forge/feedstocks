@@ -97990,3 +97990,7 @@
 	url = https://github.com/conda-forge/a2wsgi-feedstock.git
 	path = feedstocks/a2wsgi
 	branch = refs/heads/main
+[submodule "google-cloud-alloydb"]
+	url = https://github.com/conda-forge/google-cloud-alloydb-feedstock.git
+	path = feedstocks/google-cloud-alloydb
+	branch = refs/heads/main
