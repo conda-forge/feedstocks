@@ -97986,3 +97986,7 @@
 	url = https://github.com/conda-forge/ff-feedstock.git
 	path = feedstocks/ff
 	branch = refs/heads/main
+[submodule "a2wsgi"]
+	url = https://github.com/conda-forge/a2wsgi-feedstock.git
+	path = feedstocks/a2wsgi
+	branch = refs/heads/main
