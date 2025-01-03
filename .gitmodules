@@ -97950,3 +97950,7 @@
 	url = https://github.com/conda-forge/subfinder-feedstock.git
 	path = feedstocks/subfinder
 	branch = refs/heads/main
+[submodule "minio-client"]
+	url = https://github.com/conda-forge/minio-client-feedstock.git
+	path = feedstocks/minio-client
+	branch = refs/heads/main
