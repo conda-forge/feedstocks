@@ -97994,3 +97994,7 @@
 	url = https://github.com/conda-forge/google-cloud-alloydb-feedstock.git
 	path = feedstocks/google-cloud-alloydb
 	branch = refs/heads/main
+[submodule "jupyterlite-pyodide-lock"]
+	url = https://github.com/conda-forge/jupyterlite-pyodide-lock-feedstock.git
+	path = feedstocks/jupyterlite-pyodide-lock
+	branch = refs/heads/main
