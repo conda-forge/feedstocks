@@ -98022,3 +98022,7 @@
 	url = https://github.com/conda-forge/asphalt-exceptions-feedstock.git
 	path = feedstocks/asphalt-exceptions
 	branch = refs/heads/main
+[submodule "asphalt-mongodb"]
+	url = https://github.com/conda-forge/asphalt-mongodb-feedstock.git
+	path = feedstocks/asphalt-mongodb
+	branch = refs/heads/main
