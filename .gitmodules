@@ -98002,3 +98002,7 @@
 	url = https://github.com/conda-forge/asphalt-py4j-feedstock.git
 	path = feedstocks/asphalt-py4j
 	branch = refs/heads/main
+[submodule "asphalt-mailer"]
+	url = https://github.com/conda-forge/asphalt-mailer-feedstock.git
+	path = feedstocks/asphalt-mailer
+	branch = refs/heads/main
