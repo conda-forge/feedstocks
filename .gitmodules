@@ -97998,3 +97998,7 @@
 	url = https://github.com/conda-forge/jupyterlite-pyodide-lock-feedstock.git
 	path = feedstocks/jupyterlite-pyodide-lock
 	branch = refs/heads/main
+[submodule "asphalt-py4j"]
+	url = https://github.com/conda-forge/asphalt-py4j-feedstock.git
+	path = feedstocks/asphalt-py4j
+	branch = refs/heads/main
