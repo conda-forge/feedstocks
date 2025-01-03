@@ -98014,3 +98014,7 @@
 	url = https://github.com/conda-forge/asphalt-redis-feedstock.git
 	path = feedstocks/asphalt-redis
 	branch = refs/heads/main
+[submodule "asphalt-serialization"]
+	url = https://github.com/conda-forge/asphalt-serialization-feedstock.git
+	path = feedstocks/asphalt-serialization
+	branch = refs/heads/main
