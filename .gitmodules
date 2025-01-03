@@ -98010,3 +98010,7 @@
 	url = https://github.com/conda-forge/sphinx_parser-feedstock.git
 	path = feedstocks/sphinx_parser
 	branch = refs/heads/main
+[submodule "asphalt-redis"]
+	url = https://github.com/conda-forge/asphalt-redis-feedstock.git
+	path = feedstocks/asphalt-redis
+	branch = refs/heads/main
