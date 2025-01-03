@@ -98026,3 +98026,7 @@
 	url = https://github.com/conda-forge/asphalt-mongodb-feedstock.git
 	path = feedstocks/asphalt-mongodb
 	branch = refs/heads/main
+[submodule "asphalt-templating"]
+	url = https://github.com/conda-forge/asphalt-templating-feedstock.git
+	path = feedstocks/asphalt-templating
+	branch = refs/heads/main
