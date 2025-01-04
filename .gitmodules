@@ -98038,3 +98038,7 @@
 	url = https://github.com/conda-forge/xcube-zenodo-feedstock.git
 	path = feedstocks/xcube-zenodo
 	branch = refs/heads/main
+[submodule "ema_pytorch"]
+	url = https://github.com/conda-forge/ema_pytorch-feedstock.git
+	path = feedstocks/ema_pytorch
+	branch = refs/heads/main
