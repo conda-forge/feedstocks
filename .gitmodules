@@ -98042,3 +98042,7 @@
 	url = https://github.com/conda-forge/ema_pytorch-feedstock.git
 	path = feedstocks/ema_pytorch
 	branch = refs/heads/main
+[submodule "torch-tb-profiler"]
+	url = https://github.com/conda-forge/torch-tb-profiler-feedstock.git
+	path = feedstocks/torch-tb-profiler
+	branch = refs/heads/main
