@@ -98046,3 +98046,7 @@
 	url = https://github.com/conda-forge/torch-tb-profiler-feedstock.git
 	path = feedstocks/torch-tb-profiler
 	branch = refs/heads/main
+[submodule "gltflib"]
+	url = https://github.com/conda-forge/gltflib-feedstock.git
+	path = feedstocks/gltflib
+	branch = refs/heads/main
