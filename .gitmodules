@@ -98066,3 +98066,7 @@
 	url = https://github.com/conda-forge/ndjson-feedstock.git
 	path = feedstocks/ndjson
 	branch = refs/heads/main
+[submodule "pyexr"]
+	url = https://github.com/conda-forge/pyexr-feedstock.git
+	path = feedstocks/pyexr
+	branch = refs/heads/main
