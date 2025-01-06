@@ -98054,3 +98054,7 @@
 	url = https://github.com/conda-forge/uplot-python-feedstock.git
 	path = feedstocks/uplot-python
 	branch = refs/heads/main
+[submodule "topfarm"]
+	url = https://github.com/conda-forge/topfarm-feedstock.git
+	path = feedstocks/topfarm
+	branch = refs/heads/main
