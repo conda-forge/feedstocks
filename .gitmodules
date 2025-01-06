@@ -98050,3 +98050,7 @@
 	url = https://github.com/conda-forge/gltflib-feedstock.git
 	path = feedstocks/gltflib
 	branch = refs/heads/main
+[submodule "uplot-python"]
+	url = https://github.com/conda-forge/uplot-python-feedstock.git
+	path = feedstocks/uplot-python
+	branch = refs/heads/main
