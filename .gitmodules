@@ -98098,3 +98098,7 @@
 	url = https://github.com/conda-forge/python-abi3-feedstock.git
 	path = feedstocks/python-abi3
 	branch = refs/heads/main
+[submodule "precision-recall-gain"]
+	url = https://github.com/conda-forge/precision-recall-gain-feedstock.git
+	path = feedstocks/precision-recall-gain
+	branch = refs/heads/main
