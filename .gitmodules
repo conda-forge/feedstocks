@@ -98070,3 +98070,7 @@
 	url = https://github.com/conda-forge/pyexr-feedstock.git
 	path = feedstocks/pyexr
 	branch = refs/heads/main
+[submodule "kneebow"]
+	url = https://github.com/conda-forge/kneebow-feedstock.git
+	path = feedstocks/kneebow
+	branch = refs/heads/main
