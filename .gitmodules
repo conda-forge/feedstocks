@@ -98110,3 +98110,7 @@
 	url = https://github.com/conda-forge/r-frab-feedstock.git
 	path = feedstocks/r-frab
 	branch = refs/heads/main
+[submodule "igwn-segments"]
+	url = https://github.com/conda-forge/igwn-segments-feedstock.git
+	path = feedstocks/igwn-segments
+	branch = refs/heads/main
