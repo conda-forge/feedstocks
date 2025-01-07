@@ -98090,3 +98090,7 @@
 	url = https://github.com/conda-forge/qiskit-sphinx-theme-feedstock.git
 	path = feedstocks/qiskit-sphinx-theme
 	branch = refs/heads/main
+[submodule "marray-python"]
+	url = https://github.com/conda-forge/marray-python-feedstock.git
+	path = feedstocks/marray-python
+	branch = refs/heads/main
