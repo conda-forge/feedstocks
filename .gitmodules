@@ -98082,3 +98082,7 @@
 	url = https://github.com/conda-forge/chartlets-feedstock.git
 	path = feedstocks/chartlets
 	branch = refs/heads/main
+[submodule "browserforge"]
+	url = https://github.com/conda-forge/browserforge-feedstock.git
+	path = feedstocks/browserforge
+	branch = refs/heads/main
