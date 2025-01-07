@@ -98114,3 +98114,7 @@
 	url = https://github.com/conda-forge/igwn-segments-feedstock.git
 	path = feedstocks/igwn-segments
 	branch = refs/heads/main
+[submodule "thevenin"]
+	url = https://github.com/conda-forge/thevenin-feedstock.git
+	path = feedstocks/thevenin
+	branch = refs/heads/main
