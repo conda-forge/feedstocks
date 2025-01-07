@@ -98074,3 +98074,7 @@
 	url = https://github.com/conda-forge/kneebow-feedstock.git
 	path = feedstocks/kneebow
 	branch = refs/heads/main
+[submodule "skellyforge"]
+	url = https://github.com/conda-forge/skellyforge-feedstock.git
+	path = feedstocks/skellyforge
+	branch = refs/heads/main
