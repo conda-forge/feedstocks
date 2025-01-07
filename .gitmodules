@@ -98094,3 +98094,7 @@
 	url = https://github.com/conda-forge/marray-python-feedstock.git
 	path = feedstocks/marray-python
 	branch = refs/heads/main
+[submodule "python-abi3"]
+	url = https://github.com/conda-forge/python-abi3-feedstock.git
+	path = feedstocks/python-abi3
+	branch = refs/heads/main
