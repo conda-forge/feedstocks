@@ -98086,3 +98086,7 @@
 	url = https://github.com/conda-forge/browserforge-feedstock.git
 	path = feedstocks/browserforge
 	branch = refs/heads/main
+[submodule "qiskit-sphinx-theme"]
+	url = https://github.com/conda-forge/qiskit-sphinx-theme-feedstock.git
+	path = feedstocks/qiskit-sphinx-theme
+	branch = refs/heads/main
