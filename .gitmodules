@@ -98106,3 +98106,7 @@
 	url = https://github.com/conda-forge/paramak-feedstock.git
 	path = feedstocks/paramak
 	branch = refs/heads/main
+[submodule "r-frab"]
+	url = https://github.com/conda-forge/r-frab-feedstock.git
+	path = feedstocks/r-frab
+	branch = refs/heads/main
