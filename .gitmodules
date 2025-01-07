@@ -98078,3 +98078,7 @@
 	url = https://github.com/conda-forge/skellyforge-feedstock.git
 	path = feedstocks/skellyforge
 	branch = refs/heads/main
+[submodule "chartlets"]
+	url = https://github.com/conda-forge/chartlets-feedstock.git
+	path = feedstocks/chartlets
+	branch = refs/heads/main
