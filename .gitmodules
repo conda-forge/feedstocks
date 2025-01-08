@@ -98134,3 +98134,7 @@
 	url = https://github.com/conda-forge/elmfire-feedstock.git
 	path = feedstocks/elmfire
 	branch = refs/heads/main
+[submodule "ngio"]
+	url = https://github.com/conda-forge/ngio-feedstock.git
+	path = feedstocks/ngio
+	branch = refs/heads/main
