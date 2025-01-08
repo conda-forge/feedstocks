@@ -98126,3 +98126,7 @@
 	url = https://github.com/conda-forge/folktables-feedstock.git
 	path = feedstocks/folktables
 	branch = refs/heads/main
+[submodule "synspace"]
+	url = https://github.com/conda-forge/synspace-feedstock.git
+	path = feedstocks/synspace
+	branch = refs/heads/main
