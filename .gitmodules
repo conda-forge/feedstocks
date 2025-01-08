@@ -98142,3 +98142,7 @@
 	url = https://github.com/conda-forge/seamless-3dep-feedstock.git
 	path = feedstocks/seamless-3dep
 	branch = refs/heads/main
+[submodule "kantoku"]
+	url = https://github.com/conda-forge/kantoku-feedstock.git
+	path = feedstocks/kantoku
+	branch = refs/heads/main
