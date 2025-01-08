@@ -98130,3 +98130,7 @@
 	url = https://github.com/conda-forge/synspace-feedstock.git
 	path = feedstocks/synspace
 	branch = refs/heads/main
+[submodule "elmfire"]
+	url = https://github.com/conda-forge/elmfire-feedstock.git
+	path = feedstocks/elmfire
+	branch = refs/heads/main
