@@ -98138,3 +98138,7 @@
 	url = https://github.com/conda-forge/ngio-feedstock.git
 	path = feedstocks/ngio
 	branch = refs/heads/main
+[submodule "seamless-3dep"]
+	url = https://github.com/conda-forge/seamless-3dep-feedstock.git
+	path = feedstocks/seamless-3dep
+	branch = refs/heads/main
