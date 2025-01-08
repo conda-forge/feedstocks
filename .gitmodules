@@ -98122,3 +98122,7 @@
 	url = https://github.com/conda-forge/ptufile-feedstock.git
 	path = feedstocks/ptufile
 	branch = refs/heads/main
+[submodule "folktables"]
+	url = https://github.com/conda-forge/folktables-feedstock.git
+	path = feedstocks/folktables
+	branch = refs/heads/main
