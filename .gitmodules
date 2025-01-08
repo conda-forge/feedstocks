@@ -98118,3 +98118,7 @@
 	url = https://github.com/conda-forge/thevenin-feedstock.git
 	path = feedstocks/thevenin
 	branch = refs/heads/main
+[submodule "ptufile"]
+	url = https://github.com/conda-forge/ptufile-feedstock.git
+	path = feedstocks/ptufile
+	branch = refs/heads/main
