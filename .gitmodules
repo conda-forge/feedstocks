@@ -98154,3 +98154,7 @@
 	url = https://github.com/conda-forge/stransi-feedstock.git
 	path = feedstocks/stransi
 	branch = refs/heads/main
+[submodule "mplotutils"]
+	url = https://github.com/conda-forge/mplotutils-feedstock.git
+	path = feedstocks/mplotutils
+	branch = refs/heads/main
