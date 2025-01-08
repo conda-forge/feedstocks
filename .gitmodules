@@ -98146,3 +98146,7 @@
 	url = https://github.com/conda-forge/kantoku-feedstock.git
 	path = feedstocks/kantoku
 	branch = refs/heads/main
+[submodule "ochre"]
+	url = https://github.com/conda-forge/ochre-feedstock.git
+	path = feedstocks/ochre
+	branch = refs/heads/main
