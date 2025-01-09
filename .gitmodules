@@ -98198,3 +98198,7 @@
 	url = https://github.com/conda-forge/repo2rocrate-feedstock.git
 	path = feedstocks/repo2rocrate
 	branch = refs/heads/main
+[submodule "partial-json-parser"]
+	url = https://github.com/conda-forge/partial-json-parser-feedstock.git
+	path = feedstocks/partial-json-parser
+	branch = refs/heads/main
