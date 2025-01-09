@@ -98174,3 +98174,7 @@
 	url = https://github.com/conda-forge/cuequivariance-feedstock.git
 	path = feedstocks/cuequivariance
 	branch = refs/heads/main
+[submodule "cvat-sdk"]
+	url = https://github.com/conda-forge/cvat-sdk-feedstock.git
+	path = feedstocks/cvat-sdk
+	branch = refs/heads/main
