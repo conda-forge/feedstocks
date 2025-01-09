@@ -98190,3 +98190,7 @@
 	url = https://github.com/conda-forge/ome-zarr-models-feedstock.git
 	path = feedstocks/ome-zarr-models
 	branch = refs/heads/main
+[submodule "rocrate"]
+	url = https://github.com/conda-forge/rocrate-feedstock.git
+	path = feedstocks/rocrate
+	branch = refs/heads/main
