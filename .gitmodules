@@ -98186,3 +98186,7 @@
 	url = https://github.com/conda-forge/pydantic-zarr-feedstock.git
 	path = feedstocks/pydantic-zarr
 	branch = refs/heads/main
+[submodule "ome-zarr-models"]
+	url = https://github.com/conda-forge/ome-zarr-models-feedstock.git
+	path = feedstocks/ome-zarr-models
+	branch = refs/heads/main
