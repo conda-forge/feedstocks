@@ -98194,3 +98194,7 @@
 	url = https://github.com/conda-forge/rocrate-feedstock.git
 	path = feedstocks/rocrate
 	branch = refs/heads/main
+[submodule "repo2rocrate"]
+	url = https://github.com/conda-forge/repo2rocrate-feedstock.git
+	path = feedstocks/repo2rocrate
+	branch = refs/heads/main
