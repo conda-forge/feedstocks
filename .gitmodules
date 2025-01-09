@@ -98178,3 +98178,7 @@
 	url = https://github.com/conda-forge/cvat-sdk-feedstock.git
 	path = feedstocks/cvat-sdk
 	branch = refs/heads/main
+[submodule "xrlint"]
+	url = https://github.com/conda-forge/xrlint-feedstock.git
+	path = feedstocks/xrlint
+	branch = refs/heads/main
