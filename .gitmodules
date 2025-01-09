@@ -98182,3 +98182,7 @@
 	url = https://github.com/conda-forge/xrlint-feedstock.git
 	path = feedstocks/xrlint
 	branch = refs/heads/main
+[submodule "pydantic-zarr"]
+	url = https://github.com/conda-forge/pydantic-zarr-feedstock.git
+	path = feedstocks/pydantic-zarr
+	branch = refs/heads/main
