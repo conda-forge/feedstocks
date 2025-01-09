@@ -98162,3 +98162,7 @@
 	url = https://github.com/conda-forge/phasorpy-feedstock.git
 	path = feedstocks/phasorpy
 	branch = refs/heads/main
+[submodule "cuequivariance-torch"]
+	url = https://github.com/conda-forge/cuequivariance-torch-feedstock.git
+	path = feedstocks/cuequivariance-torch
+	branch = refs/heads/main
