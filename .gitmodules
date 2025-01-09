@@ -98166,3 +98166,7 @@
 	url = https://github.com/conda-forge/cuequivariance-torch-feedstock.git
 	path = feedstocks/cuequivariance-torch
 	branch = refs/heads/main
+[submodule "cuequivariance-jax"]
+	url = https://github.com/conda-forge/cuequivariance-jax-feedstock.git
+	path = feedstocks/cuequivariance-jax
+	branch = refs/heads/main
