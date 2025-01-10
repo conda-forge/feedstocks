@@ -98206,3 +98206,7 @@
 	url = https://github.com/conda-forge/xproj-feedstock.git
 	path = feedstocks/xproj
 	branch = refs/heads/main
+[submodule "shell"]
+	url = https://github.com/conda-forge/shell-feedstock.git
+	path = feedstocks/shell
+	branch = refs/heads/main
