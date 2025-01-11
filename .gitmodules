@@ -98218,3 +98218,7 @@
 	url = https://github.com/conda-forge/fh-llm-client-feedstock.git
 	path = feedstocks/fh-llm-client
 	branch = refs/heads/main
+[submodule "rdflib-pyld-compat"]
+	url = https://github.com/conda-forge/rdflib-pyld-compat-feedstock.git
+	path = feedstocks/rdflib-pyld-compat
+	branch = refs/heads/main
