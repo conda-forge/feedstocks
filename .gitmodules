@@ -98214,3 +98214,7 @@
 	url = https://github.com/conda-forge/hatch-cpp-feedstock.git
 	path = feedstocks/hatch-cpp
 	branch = refs/heads/main
+[submodule "fh-llm-client"]
+	url = https://github.com/conda-forge/fh-llm-client-feedstock.git
+	path = feedstocks/fh-llm-client
+	branch = refs/heads/main
