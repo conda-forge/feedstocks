@@ -98222,3 +98222,7 @@
 	url = https://github.com/conda-forge/rdflib-pyld-compat-feedstock.git
 	path = feedstocks/rdflib-pyld-compat
 	branch = refs/heads/main
+[submodule "gopass"]
+	url = https://github.com/conda-forge/gopass-feedstock.git
+	path = feedstocks/gopass
+	branch = refs/heads/main
