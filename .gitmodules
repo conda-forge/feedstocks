@@ -98234,3 +98234,7 @@
 	url = https://github.com/conda-forge/serialio-feedstock.git
 	path = feedstocks/serialio
 	branch = refs/heads/main
+[submodule "autogrid"]
+	url = https://github.com/conda-forge/autogrid-feedstock.git
+	path = feedstocks/autogrid
+	branch = refs/heads/main
