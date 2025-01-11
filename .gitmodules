@@ -98210,3 +98210,7 @@
 	url = https://github.com/conda-forge/shell-feedstock.git
 	path = feedstocks/shell
 	branch = refs/heads/main
+[submodule "hatch-cpp"]
+	url = https://github.com/conda-forge/hatch-cpp-feedstock.git
+	path = feedstocks/hatch-cpp
+	branch = refs/heads/main
