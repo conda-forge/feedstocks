@@ -98230,3 +98230,7 @@
 	url = https://github.com/conda-forge/simsimd-feedstock.git
 	path = feedstocks/simsimd
 	branch = refs/heads/main
+[submodule "serialio"]
+	url = https://github.com/conda-forge/serialio-feedstock.git
+	path = feedstocks/serialio
+	branch = refs/heads/main
