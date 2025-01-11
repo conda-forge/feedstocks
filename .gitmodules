@@ -98226,3 +98226,7 @@
 	url = https://github.com/conda-forge/gopass-feedstock.git
 	path = feedstocks/gopass
 	branch = refs/heads/main
+[submodule "simsimd"]
+	url = https://github.com/conda-forge/simsimd-feedstock.git
+	path = feedstocks/simsimd
+	branch = refs/heads/main
