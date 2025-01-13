@@ -98254,3 +98254,7 @@
 	url = https://github.com/conda-forge/airflow-common-operators-feedstock.git
 	path = feedstocks/airflow-common-operators
 	branch = refs/heads/main
+[submodule "airflow-balancer"]
+	url = https://github.com/conda-forge/airflow-balancer-feedstock.git
+	path = feedstocks/airflow-balancer
+	branch = refs/heads/main
