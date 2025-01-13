@@ -98282,3 +98282,7 @@
 	url = https://github.com/conda-forge/somacore-feedstock.git
 	path = feedstocks/somacore
 	branch = refs/heads/main
+[submodule "gget"]
+	url = https://github.com/conda-forge/gget-feedstock.git
+	path = feedstocks/gget
+	branch = refs/heads/main
