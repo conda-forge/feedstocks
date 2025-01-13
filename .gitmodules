@@ -98242,3 +98242,7 @@
 	url = https://github.com/conda-forge/hyper-connections-feedstock.git
 	path = feedstocks/hyper-connections
 	branch = refs/heads/main
+[submodule "cvat-cli"]
+	url = https://github.com/conda-forge/cvat-cli-feedstock.git
+	path = feedstocks/cvat-cli
+	branch = refs/heads/main
