@@ -98266,3 +98266,7 @@
 	url = https://github.com/conda-forge/variconfig-feedstock.git
 	path = feedstocks/variconfig
 	branch = refs/heads/main
+[submodule "toil"]
+	url = https://github.com/conda-forge/toil-feedstock.git
+	path = feedstocks/toil
+	branch = refs/heads/main
