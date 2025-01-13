@@ -98246,3 +98246,7 @@
 	url = https://github.com/conda-forge/cvat-cli-feedstock.git
 	path = feedstocks/cvat-cli
 	branch = refs/heads/main
+[submodule "autogen-agentchat"]
+	url = https://github.com/conda-forge/autogen-agentchat-feedstock.git
+	path = feedstocks/autogen-agentchat
+	branch = refs/heads/main
