@@ -98250,3 +98250,7 @@
 	url = https://github.com/conda-forge/autogen-agentchat-feedstock.git
 	path = feedstocks/autogen-agentchat
 	branch = refs/heads/main
+[submodule "airflow-common-operators"]
+	url = https://github.com/conda-forge/airflow-common-operators-feedstock.git
+	path = feedstocks/airflow-common-operators
+	branch = refs/heads/main
