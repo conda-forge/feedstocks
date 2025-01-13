@@ -98286,3 +98286,7 @@
 	url = https://github.com/conda-forge/gget-feedstock.git
 	path = feedstocks/gget
 	branch = refs/heads/main
+[submodule "geometamaker"]
+	url = https://github.com/conda-forge/geometamaker-feedstock.git
+	path = feedstocks/geometamaker
+	branch = refs/heads/main
