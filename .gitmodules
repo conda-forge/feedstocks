@@ -98290,3 +98290,7 @@
 	url = https://github.com/conda-forge/geometamaker-feedstock.git
 	path = feedstocks/geometamaker
 	branch = refs/heads/main
+[submodule "adaptivecpp"]
+	url = https://github.com/conda-forge/adaptivecpp-feedstock.git
+	path = feedstocks/adaptivecpp
+	branch = refs/heads/main
