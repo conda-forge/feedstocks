@@ -98270,3 +98270,7 @@
 	url = https://github.com/conda-forge/toil-feedstock.git
 	path = feedstocks/toil
 	branch = refs/heads/main
+[submodule "vsg"]
+	url = https://github.com/conda-forge/vsg-feedstock.git
+	path = feedstocks/vsg
+	branch = refs/heads/main
