@@ -98262,3 +98262,7 @@
 	url = https://github.com/conda-forge/skelly-viewer-feedstock.git
 	path = feedstocks/skelly-viewer
 	branch = refs/heads/main
+[submodule "variconfig"]
+	url = https://github.com/conda-forge/variconfig-feedstock.git
+	path = feedstocks/variconfig
+	branch = refs/heads/main
