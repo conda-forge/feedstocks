@@ -98274,3 +98274,7 @@
 	url = https://github.com/conda-forge/vsg-feedstock.git
 	path = feedstocks/vsg
 	branch = refs/heads/main
+[submodule "deferrer"]
+	url = https://github.com/conda-forge/deferrer-feedstock.git
+	path = feedstocks/deferrer
+	branch = refs/heads/main
