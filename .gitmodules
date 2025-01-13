@@ -98278,3 +98278,7 @@
 	url = https://github.com/conda-forge/deferrer-feedstock.git
 	path = feedstocks/deferrer
 	branch = refs/heads/main
+[submodule "somacore"]
+	url = https://github.com/conda-forge/somacore-feedstock.git
+	path = feedstocks/somacore
+	branch = refs/heads/main
