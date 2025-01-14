@@ -98314,3 +98314,7 @@
 	url = https://github.com/conda-forge/pymust-feedstock.git
 	path = feedstocks/pymust
 	branch = refs/heads/main
+[submodule "r-protoclust"]
+	url = https://github.com/conda-forge/r-protoclust-feedstock.git
+	path = feedstocks/r-protoclust
+	branch = refs/heads/main
