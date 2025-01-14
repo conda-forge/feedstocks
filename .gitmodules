@@ -98306,3 +98306,7 @@
 	url = https://github.com/conda-forge/sophios-feedstock.git
 	path = feedstocks/sophios
 	branch = refs/heads/main
+[submodule "emd-signal"]
+	url = https://github.com/conda-forge/emd-signal-feedstock.git
+	path = feedstocks/emd-signal
+	branch = refs/heads/main
