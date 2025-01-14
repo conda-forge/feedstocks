@@ -98318,3 +98318,7 @@
 	url = https://github.com/conda-forge/r-protoclust-feedstock.git
 	path = feedstocks/r-protoclust
 	branch = refs/heads/main
+[submodule "r-mlr3inferr"]
+	url = https://github.com/conda-forge/r-mlr3inferr-feedstock.git
+	path = feedstocks/r-mlr3inferr
+	branch = refs/heads/main
