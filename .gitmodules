@@ -98302,3 +98302,7 @@
 	url = https://github.com/conda-forge/hbreader-feedstock.git
 	path = feedstocks/hbreader
 	branch = refs/heads/main
+[submodule "sophios"]
+	url = https://github.com/conda-forge/sophios-feedstock.git
+	path = feedstocks/sophios
+	branch = refs/heads/main
