@@ -98310,3 +98310,7 @@
 	url = https://github.com/conda-forge/emd-signal-feedstock.git
 	path = feedstocks/emd-signal
 	branch = refs/heads/main
+[submodule "pymust"]
+	url = https://github.com/conda-forge/pymust-feedstock.git
+	path = feedstocks/pymust
+	branch = refs/heads/main
