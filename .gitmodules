@@ -98326,3 +98326,7 @@
 	url = https://github.com/conda-forge/easysnowdata-feedstock.git
 	path = feedstocks/easysnowdata
 	branch = refs/heads/main
+[submodule "conda-spawn"]
+	url = https://github.com/conda-forge/conda-spawn-feedstock.git
+	path = feedstocks/conda-spawn
+	branch = refs/heads/main
