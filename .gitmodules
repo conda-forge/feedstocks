@@ -98330,3 +98330,7 @@
 	url = https://github.com/conda-forge/conda-spawn-feedstock.git
 	path = feedstocks/conda-spawn
 	branch = refs/heads/main
+[submodule "hffix"]
+	url = https://github.com/conda-forge/hffix-feedstock.git
+	path = feedstocks/hffix
+	branch = refs/heads/main
