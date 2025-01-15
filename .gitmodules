@@ -98322,3 +98322,7 @@
 	url = https://github.com/conda-forge/r-mlr3inferr-feedstock.git
 	path = feedstocks/r-mlr3inferr
 	branch = refs/heads/main
+[submodule "easysnowdata"]
+	url = https://github.com/conda-forge/easysnowdata-feedstock.git
+	path = feedstocks/easysnowdata
+	branch = refs/heads/main
