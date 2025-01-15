@@ -98334,3 +98334,7 @@
 	url = https://github.com/conda-forge/hffix-feedstock.git
 	path = feedstocks/hffix
 	branch = refs/heads/main
+[submodule "sagemaker-core"]
+	url = https://github.com/conda-forge/sagemaker-core-feedstock.git
+	path = feedstocks/sagemaker-core
+	branch = refs/heads/main
