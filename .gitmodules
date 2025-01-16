@@ -98346,3 +98346,7 @@
 	url = https://github.com/conda-forge/dist_s1_enumerator-feedstock.git
 	path = feedstocks/dist_s1_enumerator
 	branch = refs/heads/main
+[submodule "cython-cmake"]
+	url = https://github.com/conda-forge/cython-cmake-feedstock.git
+	path = feedstocks/cython-cmake
+	branch = refs/heads/main
