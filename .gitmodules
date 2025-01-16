@@ -98362,3 +98362,7 @@
 	url = https://github.com/conda-forge/compressed-tensors-feedstock.git
 	path = feedstocks/compressed-tensors
 	branch = refs/heads/main
+[submodule "tcpypi"]
+	url = https://github.com/conda-forge/tcpypi-feedstock.git
+	path = feedstocks/tcpypi
+	branch = refs/heads/main
