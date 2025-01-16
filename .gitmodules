@@ -98370,3 +98370,7 @@
 	url = https://github.com/conda-forge/dreamcoat-feedstock.git
 	path = feedstocks/dreamcoat
 	branch = refs/heads/main
+[submodule "cf-nvidia-tools"]
+	url = https://github.com/conda-forge/cf-nvidia-tools-feedstock.git
+	path = feedstocks/cf-nvidia-tools
+	branch = refs/heads/main
