@@ -98342,3 +98342,7 @@
 	url = https://github.com/conda-forge/distmetrics-feedstock.git
 	path = feedstocks/distmetrics
 	branch = refs/heads/main
+[submodule "dist_s1_enumerator"]
+	url = https://github.com/conda-forge/dist_s1_enumerator-feedstock.git
+	path = feedstocks/dist_s1_enumerator
+	branch = refs/heads/main
