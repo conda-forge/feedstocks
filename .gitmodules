@@ -98338,3 +98338,7 @@
 	url = https://github.com/conda-forge/sagemaker-core-feedstock.git
 	path = feedstocks/sagemaker-core
 	branch = refs/heads/main
+[submodule "distmetrics"]
+	url = https://github.com/conda-forge/distmetrics-feedstock.git
+	path = feedstocks/distmetrics
+	branch = refs/heads/main
