@@ -98366,3 +98366,7 @@
 	url = https://github.com/conda-forge/tcpypi-feedstock.git
 	path = feedstocks/tcpypi
 	branch = refs/heads/main
+[submodule "dreamcoat"]
+	url = https://github.com/conda-forge/dreamcoat-feedstock.git
+	path = feedstocks/dreamcoat
+	branch = refs/heads/main
