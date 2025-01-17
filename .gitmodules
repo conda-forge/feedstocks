@@ -98382,3 +98382,7 @@
 	url = https://github.com/conda-forge/presidio_evaluator-feedstock.git
 	path = feedstocks/presidio_evaluator
 	branch = refs/heads/main
+[submodule "zppy-interfaces"]
+	url = https://github.com/conda-forge/zppy-interfaces-feedstock.git
+	path = feedstocks/zppy-interfaces
+	branch = refs/heads/main
