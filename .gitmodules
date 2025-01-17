@@ -98390,3 +98390,7 @@
 	url = https://github.com/conda-forge/ipython_pygments_lexers-feedstock.git
 	path = feedstocks/ipython_pygments_lexers
 	branch = refs/heads/main
+[submodule "notebook_intelligence"]
+	url = https://github.com/conda-forge/notebook_intelligence-feedstock.git
+	path = feedstocks/notebook_intelligence
+	branch = refs/heads/main
