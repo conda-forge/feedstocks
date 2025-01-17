@@ -98394,3 +98394,7 @@
 	url = https://github.com/conda-forge/notebook_intelligence-feedstock.git
 	path = feedstocks/notebook_intelligence
 	branch = refs/heads/main
+[submodule "airportsdata"]
+	url = https://github.com/conda-forge/airportsdata-feedstock.git
+	path = feedstocks/airportsdata
+	branch = refs/heads/main
