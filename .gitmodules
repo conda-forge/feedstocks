@@ -98378,3 +98378,7 @@
 	url = https://github.com/conda-forge/geomodels-feedstock.git
 	path = feedstocks/geomodels
 	branch = refs/heads/main
+[submodule "presidio_evaluator"]
+	url = https://github.com/conda-forge/presidio_evaluator-feedstock.git
+	path = feedstocks/presidio_evaluator
+	branch = refs/heads/main
