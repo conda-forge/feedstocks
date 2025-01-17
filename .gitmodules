@@ -98386,3 +98386,7 @@
 	url = https://github.com/conda-forge/zppy-interfaces-feedstock.git
 	path = feedstocks/zppy-interfaces
 	branch = refs/heads/main
+[submodule "ipython_pygments_lexers"]
+	url = https://github.com/conda-forge/ipython_pygments_lexers-feedstock.git
+	path = feedstocks/ipython_pygments_lexers
+	branch = refs/heads/main
