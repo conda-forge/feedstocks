@@ -98402,3 +98402,7 @@
 	url = https://github.com/conda-forge/ndv-feedstock.git
 	path = feedstocks/ndv
 	branch = refs/heads/main
+[submodule "feedrattler"]
+	url = https://github.com/conda-forge/feedrattler-feedstock.git
+	path = feedstocks/feedrattler
+	branch = refs/heads/main
