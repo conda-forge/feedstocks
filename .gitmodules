@@ -98406,3 +98406,7 @@
 	url = https://github.com/conda-forge/feedrattler-feedstock.git
 	path = feedstocks/feedrattler
 	branch = refs/heads/main
+[submodule "playground"]
+	url = https://github.com/conda-forge/playground-feedstock.git
+	path = feedstocks/playground
+	branch = refs/heads/main
