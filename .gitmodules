@@ -98398,3 +98398,7 @@
 	url = https://github.com/conda-forge/airportsdata-feedstock.git
 	path = feedstocks/airportsdata
 	branch = refs/heads/main
+[submodule "ndv"]
+	url = https://github.com/conda-forge/ndv-feedstock.git
+	path = feedstocks/ndv
+	branch = refs/heads/main
