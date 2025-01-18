@@ -98410,3 +98410,7 @@
 	url = https://github.com/conda-forge/playground-feedstock.git
 	path = feedstocks/playground
 	branch = refs/heads/main
+[submodule "depyf"]
+	url = https://github.com/conda-forge/depyf-feedstock.git
+	path = feedstocks/depyf
+	branch = refs/heads/main
