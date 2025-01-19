@@ -98414,3 +98414,7 @@
 	url = https://github.com/conda-forge/depyf-feedstock.git
 	path = feedstocks/depyf
 	branch = refs/heads/main
+[submodule "r-simdesign"]
+	url = https://github.com/conda-forge/r-simdesign-feedstock.git
+	path = feedstocks/r-simdesign
+	branch = refs/heads/main
