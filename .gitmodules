@@ -98422,3 +98422,7 @@
 	url = https://github.com/conda-forge/hiyapyco-feedstock.git
 	path = feedstocks/hiyapyco
 	branch = refs/heads/main
+[submodule "outlines-core"]
+	url = https://github.com/conda-forge/outlines-core-feedstock.git
+	path = feedstocks/outlines-core
+	branch = refs/heads/main
