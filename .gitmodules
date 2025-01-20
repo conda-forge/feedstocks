@@ -98442,3 +98442,7 @@
 	url = https://github.com/conda-forge/r-sparklyr.nested-feedstock.git
 	path = feedstocks/r-sparklyr.nested
 	branch = refs/heads/main
+[submodule "chart-testing"]
+	url = https://github.com/conda-forge/chart-testing-feedstock.git
+	path = feedstocks/chart-testing
+	branch = refs/heads/main
