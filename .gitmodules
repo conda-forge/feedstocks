@@ -98446,3 +98446,7 @@
 	url = https://github.com/conda-forge/chart-testing-feedstock.git
 	path = feedstocks/chart-testing
 	branch = refs/heads/main
+[submodule "kubectl-krew"]
+	url = https://github.com/conda-forge/kubectl-krew-feedstock.git
+	path = feedstocks/kubectl-krew
+	branch = refs/heads/main
