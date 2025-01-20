@@ -98434,3 +98434,7 @@
 	url = https://github.com/conda-forge/pytest-textual-snapshot-feedstock.git
 	path = feedstocks/pytest-textual-snapshot
 	branch = refs/heads/main
+[submodule "autogen-core"]
+	url = https://github.com/conda-forge/autogen-core-feedstock.git
+	path = feedstocks/autogen-core
+	branch = refs/heads/main
