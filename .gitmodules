@@ -98450,3 +98450,7 @@
 	url = https://github.com/conda-forge/kubectl-krew-feedstock.git
 	path = feedstocks/kubectl-krew
 	branch = refs/heads/main
+[submodule "calcam"]
+	url = https://github.com/conda-forge/calcam-feedstock.git
+	path = feedstocks/calcam
+	branch = refs/heads/main
