@@ -98426,3 +98426,7 @@
 	url = https://github.com/conda-forge/outlines-core-feedstock.git
 	path = feedstocks/outlines-core
 	branch = refs/heads/main
+[submodule "pkld"]
+	url = https://github.com/conda-forge/pkld-feedstock.git
+	path = feedstocks/pkld
+	branch = refs/heads/main
