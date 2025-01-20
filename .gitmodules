@@ -98462,3 +98462,7 @@
 	url = https://github.com/conda-forge/arborx-feedstock.git
 	path = feedstocks/arborx
 	branch = refs/heads/main
+[submodule "sqlite_zstd_vfs"]
+	url = https://github.com/conda-forge/sqlite_zstd_vfs-feedstock.git
+	path = feedstocks/sqlite_zstd_vfs
+	branch = refs/heads/main
