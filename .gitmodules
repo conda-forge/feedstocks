@@ -98418,3 +98418,7 @@
 	url = https://github.com/conda-forge/r-simdesign-feedstock.git
 	path = feedstocks/r-simdesign
 	branch = refs/heads/main
+[submodule "hiyapyco"]
+	url = https://github.com/conda-forge/hiyapyco-feedstock.git
+	path = feedstocks/hiyapyco
+	branch = refs/heads/main
