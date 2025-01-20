@@ -98458,3 +98458,7 @@
 	url = https://github.com/conda-forge/tiledbsoma-feedstock.git
 	path = feedstocks/tiledbsoma
 	branch = refs/heads/main
+[submodule "arborx"]
+	url = https://github.com/conda-forge/arborx-feedstock.git
+	path = feedstocks/arborx
+	branch = refs/heads/main
