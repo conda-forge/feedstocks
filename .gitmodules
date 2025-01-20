@@ -98454,3 +98454,7 @@
 	url = https://github.com/conda-forge/calcam-feedstock.git
 	path = feedstocks/calcam
 	branch = refs/heads/main
+[submodule "tiledbsoma"]
+	url = https://github.com/conda-forge/tiledbsoma-feedstock.git
+	path = feedstocks/tiledbsoma
+	branch = refs/heads/main
