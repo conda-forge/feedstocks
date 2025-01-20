@@ -98438,3 +98438,7 @@
 	url = https://github.com/conda-forge/autogen-core-feedstock.git
 	path = feedstocks/autogen-core
 	branch = refs/heads/main
+[submodule "r-sparklyr.nested"]
+	url = https://github.com/conda-forge/r-sparklyr.nested-feedstock.git
+	path = feedstocks/r-sparklyr.nested
+	branch = refs/heads/main
