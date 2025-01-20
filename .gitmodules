@@ -98430,3 +98430,7 @@
 	url = https://github.com/conda-forge/pkld-feedstock.git
 	path = feedstocks/pkld
 	branch = refs/heads/main
+[submodule "pytest-textual-snapshot"]
+	url = https://github.com/conda-forge/pytest-textual-snapshot-feedstock.git
+	path = feedstocks/pytest-textual-snapshot
+	branch = refs/heads/main
