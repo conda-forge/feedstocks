@@ -98494,3 +98494,7 @@
 	url = https://github.com/conda-forge/zipstream-ng-feedstock.git
 	path = feedstocks/zipstream-ng
 	branch = refs/heads/main
+[submodule "minuit2-standalone"]
+	url = https://github.com/conda-forge/minuit2-standalone-feedstock.git
+	path = feedstocks/minuit2-standalone
+	branch = refs/heads/main
