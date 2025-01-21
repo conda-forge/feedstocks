@@ -98478,3 +98478,7 @@
 	url = https://github.com/conda-forge/igwn-ligolw-feedstock.git
 	path = feedstocks/igwn-ligolw
 	branch = refs/heads/main
+[submodule "avro-gen3"]
+	url = https://github.com/conda-forge/avro-gen3-feedstock.git
+	path = feedstocks/avro-gen3
+	branch = refs/heads/main
