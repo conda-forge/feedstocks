@@ -98490,3 +98490,7 @@
 	url = https://github.com/conda-forge/iterable-io-feedstock.git
 	path = feedstocks/iterable-io
 	branch = refs/heads/main
+[submodule "zipstream-ng"]
+	url = https://github.com/conda-forge/zipstream-ng-feedstock.git
+	path = feedstocks/zipstream-ng
+	branch = refs/heads/main
