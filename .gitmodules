@@ -98486,3 +98486,7 @@
 	url = https://github.com/conda-forge/cellxgene-census-feedstock.git
 	path = feedstocks/cellxgene-census
 	branch = refs/heads/main
+[submodule "iterable-io"]
+	url = https://github.com/conda-forge/iterable-io-feedstock.git
+	path = feedstocks/iterable-io
+	branch = refs/heads/main
