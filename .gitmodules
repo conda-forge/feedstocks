@@ -98482,3 +98482,7 @@
 	url = https://github.com/conda-forge/avro-gen3-feedstock.git
 	path = feedstocks/avro-gen3
 	branch = refs/heads/main
+[submodule "cellxgene-census"]
+	url = https://github.com/conda-forge/cellxgene-census-feedstock.git
+	path = feedstocks/cellxgene-census
+	branch = refs/heads/main
