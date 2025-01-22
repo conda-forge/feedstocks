@@ -98514,3 +98514,7 @@
 	url = https://github.com/conda-forge/bagels-feedstock.git
 	path = feedstocks/bagels
 	branch = refs/heads/main
+[submodule "xrst"]
+	url = https://github.com/conda-forge/xrst-feedstock.git
+	path = feedstocks/xrst
+	branch = refs/heads/main
