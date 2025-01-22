@@ -98502,3 +98502,7 @@
 	url = https://github.com/conda-forge/canonicaljson-feedstock.git
 	path = feedstocks/canonicaljson
 	branch = refs/heads/main
+[submodule "lbcta"]
+	url = https://github.com/conda-forge/lbcta-feedstock.git
+	path = feedstocks/lbcta
+	branch = refs/heads/main
