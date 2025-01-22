@@ -98510,3 +98510,7 @@
 	url = https://github.com/conda-forge/id-feedstock.git
 	path = feedstocks/id
 	branch = refs/heads/main
+[submodule "bagels"]
+	url = https://github.com/conda-forge/bagels-feedstock.git
+	path = feedstocks/bagels
+	branch = refs/heads/main
