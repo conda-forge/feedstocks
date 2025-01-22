@@ -98518,3 +98518,7 @@
 	url = https://github.com/conda-forge/xrst-feedstock.git
 	path = feedstocks/xrst
 	branch = refs/heads/main
+[submodule "quantity-array"]
+	url = https://github.com/conda-forge/quantity-array-feedstock.git
+	path = feedstocks/quantity-array
+	branch = refs/heads/main
