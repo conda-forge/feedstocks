@@ -98614,3 +98614,7 @@
 	url = https://github.com/conda-forge/su2-feedstock.git
 	path = feedstocks/su2
 	branch = refs/heads/main
+[submodule "openlb"]
+	url = https://github.com/conda-forge/openlb-feedstock.git
+	path = feedstocks/openlb
+	branch = refs/heads/main
