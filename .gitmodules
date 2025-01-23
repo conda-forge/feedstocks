@@ -98610,3 +98610,7 @@
 	url = https://github.com/conda-forge/yapss-feedstock-feedstock.git
 	path = feedstocks/yapss-feedstock
 	branch = refs/heads/main
+[submodule "su2"]
+	url = https://github.com/conda-forge/su2-feedstock.git
+	path = feedstocks/su2
+	branch = refs/heads/main
