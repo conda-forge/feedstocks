@@ -98598,3 +98598,7 @@
 	url = https://github.com/conda-forge/mapit-feedstock.git
 	path = feedstocks/mapit
 	branch = refs/heads/main
+[submodule "pyhs3"]
+	url = https://github.com/conda-forge/pyhs3-feedstock.git
+	path = feedstocks/pyhs3
+	branch = refs/heads/main
