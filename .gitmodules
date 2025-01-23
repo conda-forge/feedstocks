@@ -98546,3 +98546,7 @@
 	url = https://github.com/conda-forge/implot-feedstock.git
 	path = feedstocks/implot
 	branch = refs/heads/main
+[submodule "vulkanscenegraph"]
+	url = https://github.com/conda-forge/vulkanscenegraph-feedstock.git
+	path = feedstocks/vulkanscenegraph
+	branch = refs/heads/main
