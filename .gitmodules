@@ -98554,3 +98554,7 @@
 	url = https://github.com/conda-forge/ndcurves-feedstock.git
 	path = feedstocks/ndcurves
 	branch = refs/heads/main
+[submodule "pwabuilder-cli"]
+	url = https://github.com/conda-forge/pwabuilder-cli-feedstock.git
+	path = feedstocks/pwabuilder-cli
+	branch = refs/heads/main
