@@ -98538,3 +98538,7 @@
 	url = https://github.com/conda-forge/vsgxchange-feedstock.git
 	path = feedstocks/vsgxchange
 	branch = refs/heads/main
+[submodule "r-tinysnapshot"]
+	url = https://github.com/conda-forge/r-tinysnapshot-feedstock.git
+	path = feedstocks/r-tinysnapshot
+	branch = refs/heads/main
