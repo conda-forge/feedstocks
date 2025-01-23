@@ -98590,3 +98590,7 @@
 	url = https://github.com/conda-forge/aurelia-cli-feedstock.git
 	path = feedstocks/aurelia-cli
 	branch = refs/heads/main
+[submodule "autogam"]
+	url = https://github.com/conda-forge/autogam-feedstock.git
+	path = feedstocks/autogam
+	branch = refs/heads/main
