@@ -98594,3 +98594,7 @@
 	url = https://github.com/conda-forge/autogam-feedstock.git
 	path = feedstocks/autogam
 	branch = refs/heads/main
+[submodule "mapit"]
+	url = https://github.com/conda-forge/mapit-feedstock.git
+	path = feedstocks/mapit
+	branch = refs/heads/main
