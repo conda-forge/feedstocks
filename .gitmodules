@@ -98574,3 +98574,7 @@
 	url = https://github.com/conda-forge/faster-coco-eval-feedstock.git
 	path = feedstocks/faster-coco-eval
 	branch = refs/heads/main
+[submodule "pillow-heif"]
+	url = https://github.com/conda-forge/pillow-heif-feedstock.git
+	path = feedstocks/pillow-heif
+	branch = refs/heads/main
