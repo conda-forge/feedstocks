@@ -98566,3 +98566,7 @@
 	url = https://github.com/conda-forge/framework7-cli-feedstock.git
 	path = feedstocks/framework7-cli
 	branch = refs/heads/main
+[submodule "pillow-avif-plugin"]
+	url = https://github.com/conda-forge/pillow-avif-plugin-feedstock.git
+	path = feedstocks/pillow-avif-plugin
+	branch = refs/heads/main
