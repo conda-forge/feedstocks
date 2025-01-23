@@ -98606,3 +98606,7 @@
 	url = https://github.com/conda-forge/mccode-antlr-feedstock.git
 	path = feedstocks/mccode-antlr
 	branch = refs/heads/main
+[submodule "yapss-feedstock"]
+	url = https://github.com/conda-forge/yapss-feedstock-feedstock.git
+	path = feedstocks/yapss-feedstock
+	branch = refs/heads/main
