@@ -98562,3 +98562,7 @@
 	url = https://github.com/conda-forge/swan-feedstock.git
 	path = feedstocks/swan
 	branch = refs/heads/main
+[submodule "framework7-cli"]
+	url = https://github.com/conda-forge/framework7-cli-feedstock.git
+	path = feedstocks/framework7-cli
+	branch = refs/heads/main
