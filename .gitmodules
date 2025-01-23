@@ -98534,3 +98534,7 @@
 	url = https://github.com/conda-forge/cherab-feedstock.git
 	path = feedstocks/cherab
 	branch = refs/heads/main
+[submodule "vsgxchange"]
+	url = https://github.com/conda-forge/vsgxchange-feedstock.git
+	path = feedstocks/vsgxchange
+	branch = refs/heads/main
