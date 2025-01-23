@@ -98570,3 +98570,7 @@
 	url = https://github.com/conda-forge/pillow-avif-plugin-feedstock.git
 	path = feedstocks/pillow-avif-plugin
 	branch = refs/heads/main
+[submodule "faster-coco-eval"]
+	url = https://github.com/conda-forge/faster-coco-eval-feedstock.git
+	path = feedstocks/faster-coco-eval
+	branch = refs/heads/main
