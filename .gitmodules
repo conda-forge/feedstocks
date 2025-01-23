@@ -98582,3 +98582,7 @@
 	url = https://github.com/conda-forge/preact-cli-feedstock.git
 	path = feedstocks/preact-cli
 	branch = refs/heads/main
+[submodule "pybmoore"]
+	url = https://github.com/conda-forge/pybmoore-feedstock.git
+	path = feedstocks/pybmoore
+	branch = refs/heads/main
