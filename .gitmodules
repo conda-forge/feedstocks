@@ -98618,3 +98618,7 @@
 	url = https://github.com/conda-forge/openlb-feedstock.git
 	path = feedstocks/openlb
 	branch = refs/heads/main
+[submodule "bluesky-tiled-plugins"]
+	url = https://github.com/conda-forge/bluesky-tiled-plugins-feedstock.git
+	path = feedstocks/bluesky-tiled-plugins
+	branch = refs/heads/main
