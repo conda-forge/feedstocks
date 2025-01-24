@@ -98638,3 +98638,7 @@
 	url = https://github.com/conda-forge/scipp-feedstock.git
 	path = feedstocks/scipp
 	branch = refs/heads/main
+[submodule "django-cryptography"]
+	url = https://github.com/conda-forge/django-cryptography-feedstock.git
+	path = feedstocks/django-cryptography
+	branch = refs/heads/main
