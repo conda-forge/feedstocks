@@ -98626,3 +98626,7 @@
 	url = https://github.com/conda-forge/z3prover-feedstock.git
 	path = feedstocks/z3prover
 	branch = refs/heads/main
+[submodule "dramatiq-abort"]
+	url = https://github.com/conda-forge/dramatiq-abort-feedstock.git
+	path = feedstocks/dramatiq-abort
+	branch = refs/heads/main
