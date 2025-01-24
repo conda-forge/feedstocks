@@ -98634,3 +98634,7 @@
 	url = https://github.com/conda-forge/django-dramatiq-feedstock.git
 	path = feedstocks/django-dramatiq
 	branch = refs/heads/main
+[submodule "scipp"]
+	url = https://github.com/conda-forge/scipp-feedstock.git
+	path = feedstocks/scipp
+	branch = refs/heads/main
