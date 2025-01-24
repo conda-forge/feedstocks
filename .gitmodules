@@ -98630,3 +98630,7 @@
 	url = https://github.com/conda-forge/dramatiq-abort-feedstock.git
 	path = feedstocks/dramatiq-abort
 	branch = refs/heads/main
+[submodule "django-dramatiq"]
+	url = https://github.com/conda-forge/django-dramatiq-feedstock.git
+	path = feedstocks/django-dramatiq
+	branch = refs/heads/main
