@@ -98650,3 +98650,7 @@
 	url = https://github.com/conda-forge/r-poolfstat-feedstock.git
 	path = feedstocks/r-poolfstat
 	branch = refs/heads/main
+[submodule "tensorizer"]
+	url = https://github.com/conda-forge/tensorizer-feedstock.git
+	path = feedstocks/tensorizer
+	branch = refs/heads/main
