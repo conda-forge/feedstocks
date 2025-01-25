@@ -98646,3 +98646,7 @@
 	url = https://github.com/conda-forge/libnacl-python-bindings-feedstock.git
 	path = feedstocks/libnacl-python-bindings
 	branch = refs/heads/main
+[submodule "r-poolfstat"]
+	url = https://github.com/conda-forge/r-poolfstat-feedstock.git
+	path = feedstocks/r-poolfstat
+	branch = refs/heads/main
