@@ -98642,3 +98642,7 @@
 	url = https://github.com/conda-forge/django-cryptography-feedstock.git
 	path = feedstocks/django-cryptography
 	branch = refs/heads/main
+[submodule "libnacl-python-bindings"]
+	url = https://github.com/conda-forge/libnacl-python-bindings-feedstock.git
+	path = feedstocks/libnacl-python-bindings
+	branch = refs/heads/main
