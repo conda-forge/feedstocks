@@ -98690,3 +98690,7 @@
 	url = https://github.com/conda-forge/aichat-feedstock.git
 	path = feedstocks/aichat
 	branch = refs/heads/main
+[submodule "radar-api"]
+	url = https://github.com/conda-forge/radar-api-feedstock.git
+	path = feedstocks/radar-api
+	branch = refs/heads/main
