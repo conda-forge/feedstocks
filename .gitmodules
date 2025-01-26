@@ -98658,3 +98658,7 @@
 	url = https://github.com/conda-forge/prometheus-async-feedstock.git
 	path = feedstocks/prometheus-async
 	branch = refs/heads/main
+[submodule "liffile"]
+	url = https://github.com/conda-forge/liffile-feedstock.git
+	path = feedstocks/liffile
+	branch = refs/heads/main
