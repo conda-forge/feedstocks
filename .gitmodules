@@ -98678,3 +98678,7 @@
 	url = https://github.com/conda-forge/colour-checker-detection-feedstock.git
 	path = feedstocks/colour-checker-detection
 	branch = refs/heads/main
+[submodule "msgraph-sdk"]
+	url = https://github.com/conda-forge/msgraph-sdk-feedstock.git
+	path = feedstocks/msgraph-sdk
+	branch = refs/heads/main
