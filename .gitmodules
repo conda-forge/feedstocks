@@ -98654,3 +98654,7 @@
 	url = https://github.com/conda-forge/tensorizer-feedstock.git
 	path = feedstocks/tensorizer
 	branch = refs/heads/main
+[submodule "prometheus-async"]
+	url = https://github.com/conda-forge/prometheus-async-feedstock.git
+	path = feedstocks/prometheus-async
+	branch = refs/heads/main
