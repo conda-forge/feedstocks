@@ -98674,3 +98674,7 @@
 	url = https://github.com/conda-forge/runiq-feedstock.git
 	path = feedstocks/runiq
 	branch = refs/heads/main
+[submodule "colour-checker-detection"]
+	url = https://github.com/conda-forge/colour-checker-detection-feedstock.git
+	path = feedstocks/colour-checker-detection
+	branch = refs/heads/main
