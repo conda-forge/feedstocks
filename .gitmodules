@@ -98662,3 +98662,7 @@
 	url = https://github.com/conda-forge/liffile-feedstock.git
 	path = feedstocks/liffile
 	branch = refs/heads/main
+[submodule "hf-transfer"]
+	url = https://github.com/conda-forge/hf-transfer-feedstock.git
+	path = feedstocks/hf-transfer
+	branch = refs/heads/main
