@@ -98686,3 +98686,7 @@
 	url = https://github.com/conda-forge/r-geoarrow-feedstock.git
 	path = feedstocks/r-geoarrow
 	branch = refs/heads/main
+[submodule "aichat"]
+	url = https://github.com/conda-forge/aichat-feedstock.git
+	path = feedstocks/aichat
+	branch = refs/heads/main
