@@ -98682,3 +98682,7 @@
 	url = https://github.com/conda-forge/msgraph-sdk-feedstock.git
 	path = feedstocks/msgraph-sdk
 	branch = refs/heads/main
+[submodule "r-geoarrow"]
+	url = https://github.com/conda-forge/r-geoarrow-feedstock.git
+	path = feedstocks/r-geoarrow
+	branch = refs/heads/main
