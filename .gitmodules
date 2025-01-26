@@ -98670,3 +98670,7 @@
 	url = https://github.com/conda-forge/pispy-client-feedstock.git
 	path = feedstocks/pispy-client
 	branch = refs/heads/main
+[submodule "runiq"]
+	url = https://github.com/conda-forge/runiq-feedstock.git
+	path = feedstocks/runiq
+	branch = refs/heads/main
