@@ -98666,3 +98666,7 @@
 	url = https://github.com/conda-forge/hf-transfer-feedstock.git
 	path = feedstocks/hf-transfer
 	branch = refs/heads/main
+[submodule "pispy-client"]
+	url = https://github.com/conda-forge/pispy-client-feedstock.git
+	path = feedstocks/pispy-client
+	branch = refs/heads/main
