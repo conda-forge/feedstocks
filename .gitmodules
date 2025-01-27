@@ -98710,3 +98710,7 @@
 	url = https://github.com/conda-forge/easyscience-feedstock.git
 	path = feedstocks/easyscience
 	branch = refs/heads/main
+[submodule "mathics-scanner"]
+	url = https://github.com/conda-forge/mathics-scanner-feedstock.git
+	path = feedstocks/mathics-scanner
+	branch = refs/heads/main
