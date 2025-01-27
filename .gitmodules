@@ -98718,3 +98718,7 @@
 	url = https://github.com/conda-forge/typing-validation-feedstock.git
 	path = feedstocks/typing-validation
 	branch = refs/heads/main
+[submodule "celery-types"]
+	url = https://github.com/conda-forge/celery-types-feedstock.git
+	path = feedstocks/celery-types
+	branch = refs/heads/main
