@@ -98722,3 +98722,7 @@
 	url = https://github.com/conda-forge/celery-types-feedstock.git
 	path = feedstocks/celery-types
 	branch = refs/heads/main
+[submodule "md-tui"]
+	url = https://github.com/conda-forge/md-tui-feedstock.git
+	path = feedstocks/md-tui
+	branch = refs/heads/main
