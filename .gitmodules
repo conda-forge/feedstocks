@@ -98714,3 +98714,7 @@
 	url = https://github.com/conda-forge/mathics-scanner-feedstock.git
 	path = feedstocks/mathics-scanner
 	branch = refs/heads/main
+[submodule "typing-validation"]
+	url = https://github.com/conda-forge/typing-validation-feedstock.git
+	path = feedstocks/typing-validation
+	branch = refs/heads/main
