@@ -98730,3 +98730,7 @@
 	url = https://github.com/conda-forge/gmmx-feedstock.git
 	path = feedstocks/gmmx
 	branch = refs/heads/main
+[submodule "nvitop-exporter"]
+	url = https://github.com/conda-forge/nvitop-exporter-feedstock.git
+	path = feedstocks/nvitop-exporter
+	branch = refs/heads/main
