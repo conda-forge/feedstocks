@@ -98694,3 +98694,7 @@
 	url = https://github.com/conda-forge/radar-api-feedstock.git
 	path = feedstocks/radar-api
 	branch = refs/heads/main
+[submodule "pixi-diff"]
+	url = https://github.com/conda-forge/pixi-diff-feedstock.git
+	path = feedstocks/pixi-diff
+	branch = refs/heads/main
