@@ -98742,3 +98742,7 @@
 	url = https://github.com/conda-forge/r-spacesxyz-feedstock.git
 	path = feedstocks/r-spacesxyz
 	branch = refs/heads/main
+[submodule "pymsh"]
+	url = https://github.com/conda-forge/pymsh-feedstock.git
+	path = feedstocks/pymsh
+	branch = refs/heads/main
