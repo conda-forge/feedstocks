@@ -98758,3 +98758,7 @@
 	url = https://github.com/conda-forge/arguably-feedstock.git
 	path = feedstocks/arguably
 	branch = refs/heads/main
+[submodule "pyfonts"]
+	url = https://github.com/conda-forge/pyfonts-feedstock.git
+	path = feedstocks/pyfonts
+	branch = refs/heads/main
