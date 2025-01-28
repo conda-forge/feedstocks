@@ -98746,3 +98746,7 @@
 	url = https://github.com/conda-forge/pymsh-feedstock.git
 	path = feedstocks/pymsh
 	branch = refs/heads/main
+[submodule "easydiffraction"]
+	url = https://github.com/conda-forge/easydiffraction-feedstock.git
+	path = feedstocks/easydiffraction
+	branch = refs/heads/main
