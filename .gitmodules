@@ -98750,3 +98750,7 @@
 	url = https://github.com/conda-forge/easydiffraction-feedstock.git
 	path = feedstocks/easydiffraction
 	branch = refs/heads/main
+[submodule "pymixbox"]
+	url = https://github.com/conda-forge/pymixbox-feedstock.git
+	path = feedstocks/pymixbox
+	branch = refs/heads/main
