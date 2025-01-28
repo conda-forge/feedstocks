@@ -98778,3 +98778,7 @@
 	url = https://github.com/conda-forge/mdi-feedstock.git
 	path = feedstocks/mdi
 	branch = refs/heads/main
+[submodule "aiida-fans"]
+	url = https://github.com/conda-forge/aiida-fans-feedstock.git
+	path = feedstocks/aiida-fans
+	branch = refs/heads/main
