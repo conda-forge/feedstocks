@@ -98782,3 +98782,7 @@
 	url = https://github.com/conda-forge/aiida-fans-feedstock.git
 	path = feedstocks/aiida-fans
 	branch = refs/heads/main
+[submodule "pylstraight"]
+	url = https://github.com/conda-forge/pylstraight-feedstock.git
+	path = feedstocks/pylstraight
+	branch = refs/heads/main
