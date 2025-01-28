@@ -98762,3 +98762,7 @@
 	url = https://github.com/conda-forge/pyfonts-feedstock.git
 	path = feedstocks/pyfonts
 	branch = refs/heads/main
+[submodule "geoclide"]
+	url = https://github.com/conda-forge/geoclide-feedstock.git
+	path = feedstocks/geoclide
+	branch = refs/heads/main
