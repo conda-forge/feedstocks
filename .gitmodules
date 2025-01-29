@@ -98786,3 +98786,7 @@
 	url = https://github.com/conda-forge/pylstraight-feedstock.git
 	path = feedstocks/pylstraight
 	branch = refs/heads/main
+[submodule "amazon-textract-caller"]
+	url = https://github.com/conda-forge/amazon-textract-caller-feedstock.git
+	path = feedstocks/amazon-textract-caller
+	branch = refs/heads/main
