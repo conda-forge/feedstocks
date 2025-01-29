@@ -98830,3 +98830,7 @@
 	url = https://github.com/conda-forge/gridmarthe-feedstock.git
 	path = feedstocks/gridmarthe
 	branch = refs/heads/main
+[submodule "pi-vae-pytorch"]
+	url = https://github.com/conda-forge/pi-vae-pytorch-feedstock.git
+	path = feedstocks/pi-vae-pytorch
+	branch = refs/heads/main
