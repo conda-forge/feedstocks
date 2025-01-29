@@ -98818,3 +98818,7 @@
 	url = https://github.com/conda-forge/r-leafgl-feedstock.git
 	path = feedstocks/r-leafgl
 	branch = refs/heads/main
+[submodule "tmtools"]
+	url = https://github.com/conda-forge/tmtools-feedstock.git
+	path = feedstocks/tmtools
+	branch = refs/heads/main
