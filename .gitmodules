@@ -98822,3 +98822,7 @@
 	url = https://github.com/conda-forge/tmtools-feedstock.git
 	path = feedstocks/tmtools
 	branch = refs/heads/main
+[submodule "molscrub"]
+	url = https://github.com/conda-forge/molscrub-feedstock.git
+	path = feedstocks/molscrub
+	branch = refs/heads/main
