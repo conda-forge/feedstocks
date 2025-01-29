@@ -98806,3 +98806,7 @@
 	url = https://github.com/conda-forge/osg2vsg-feedstock.git
 	path = feedstocks/osg2vsg
 	branch = refs/heads/main
+[submodule "py-rattler-build"]
+	url = https://github.com/conda-forge/py-rattler-build-feedstock.git
+	path = feedstocks/py-rattler-build
+	branch = refs/heads/main
