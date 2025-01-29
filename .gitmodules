@@ -98794,3 +98794,7 @@
 	url = https://github.com/conda-forge/amazon-textract-response-parser-feedstock.git
 	path = feedstocks/amazon-textract-response-parser
 	branch = refs/heads/main
+[submodule "amazon-textract-textractor"]
+	url = https://github.com/conda-forge/amazon-textract-textractor-feedstock.git
+	path = feedstocks/amazon-textract-textractor
+	branch = refs/heads/main
