@@ -98838,3 +98838,7 @@
 	url = https://github.com/conda-forge/r-leaflegend-feedstock.git
 	path = feedstocks/r-leaflegend
 	branch = refs/heads/main
+[submodule "stratocaster"]
+	url = https://github.com/conda-forge/stratocaster-feedstock.git
+	path = feedstocks/stratocaster
+	branch = refs/heads/main
