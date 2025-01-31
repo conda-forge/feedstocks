@@ -98846,3 +98846,7 @@
 	url = https://github.com/conda-forge/embeam-feedstock.git
 	path = feedstocks/embeam
 	branch = refs/heads/main
+[submodule "daio"]
+	url = https://github.com/conda-forge/daio-feedstock.git
+	path = feedstocks/daio
+	branch = refs/heads/main
