@@ -98842,3 +98842,7 @@
 	url = https://github.com/conda-forge/stratocaster-feedstock.git
 	path = feedstocks/stratocaster
 	branch = refs/heads/main
+[submodule "embeam"]
+	url = https://github.com/conda-forge/embeam-feedstock.git
+	path = feedstocks/embeam
+	branch = refs/heads/main
