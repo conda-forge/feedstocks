@@ -98870,3 +98870,7 @@
 	url = https://github.com/conda-forge/carapace-feedstock.git
 	path = feedstocks/carapace
 	branch = refs/heads/main
+[submodule "galois"]
+	url = https://github.com/conda-forge/galois-feedstock.git
+	path = feedstocks/galois
+	branch = refs/heads/main
