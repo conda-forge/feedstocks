@@ -98878,3 +98878,7 @@
 	url = https://github.com/conda-forge/jupyter-ruff-feedstock.git
 	path = feedstocks/jupyter-ruff
 	branch = refs/heads/main
+[submodule "meteofetch"]
+	url = https://github.com/conda-forge/meteofetch-feedstock.git
+	path = feedstocks/meteofetch
+	branch = refs/heads/main
