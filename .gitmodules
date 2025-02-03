@@ -98874,3 +98874,7 @@
 	url = https://github.com/conda-forge/galois-feedstock.git
 	path = feedstocks/galois
 	branch = refs/heads/main
+[submodule "jupyter-ruff"]
+	url = https://github.com/conda-forge/jupyter-ruff-feedstock.git
+	path = feedstocks/jupyter-ruff
+	branch = refs/heads/main
