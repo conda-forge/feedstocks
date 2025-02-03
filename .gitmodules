@@ -98882,3 +98882,7 @@
 	url = https://github.com/conda-forge/meteofetch-feedstock.git
 	path = feedstocks/meteofetch
 	branch = refs/heads/main
+[submodule "llama-utils"]
+	url = https://github.com/conda-forge/llama-utils-feedstock.git
+	path = feedstocks/llama-utils
+	branch = refs/heads/main
