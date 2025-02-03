@@ -98866,3 +98866,7 @@
 	url = https://github.com/conda-forge/r-sparsevctrs-feedstock.git
 	path = feedstocks/r-sparsevctrs
 	branch = refs/heads/main
+[submodule "carapace"]
+	url = https://github.com/conda-forge/carapace-feedstock.git
+	path = feedstocks/carapace
+	branch = refs/heads/main
