@@ -98886,3 +98886,7 @@
 	url = https://github.com/conda-forge/llama-utils-feedstock.git
 	path = feedstocks/llama-utils
 	branch = refs/heads/main
+[submodule "fastplotlib"]
+	url = https://github.com/conda-forge/fastplotlib-feedstock.git
+	path = feedstocks/fastplotlib
+	branch = refs/heads/main
