@@ -98898,3 +98898,7 @@
 	url = https://github.com/conda-forge/icechunk-feedstock.git
 	path = feedstocks/icechunk
 	branch = refs/heads/main
+[submodule "resolve-robotics-uri-cpp"]
+	url = https://github.com/conda-forge/resolve-robotics-uri-cpp-feedstock.git
+	path = feedstocks/resolve-robotics-uri-cpp
+	branch = refs/heads/main
