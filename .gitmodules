@@ -98906,3 +98906,7 @@
 	url = https://github.com/conda-forge/dejaq-feedstock.git
 	path = feedstocks/dejaq
 	branch = refs/heads/main
+[submodule "molecule-signature"]
+	url = https://github.com/conda-forge/molecule-signature-feedstock.git
+	path = feedstocks/molecule-signature
+	branch = refs/heads/main
