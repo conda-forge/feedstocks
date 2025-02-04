@@ -98894,3 +98894,7 @@
 	url = https://github.com/conda-forge/qcdloop-fortran-feedstock.git
 	path = feedstocks/qcdloop-fortran
 	branch = refs/heads/main
+[submodule "icechunk"]
+	url = https://github.com/conda-forge/icechunk-feedstock.git
+	path = feedstocks/icechunk
+	branch = refs/heads/main
