@@ -98914,3 +98914,7 @@
 	url = https://github.com/conda-forge/anyioutils-feedstock.git
 	path = feedstocks/anyioutils
 	branch = refs/heads/main
+[submodule "xcube-clms"]
+	url = https://github.com/conda-forge/xcube-clms-feedstock.git
+	path = feedstocks/xcube-clms
+	branch = refs/heads/main
