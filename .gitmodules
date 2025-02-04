@@ -98890,3 +98890,7 @@
 	url = https://github.com/conda-forge/fastplotlib-feedstock.git
 	path = feedstocks/fastplotlib
 	branch = refs/heads/main
+[submodule "qcdloop-fortran"]
+	url = https://github.com/conda-forge/qcdloop-fortran-feedstock.git
+	path = feedstocks/qcdloop-fortran
+	branch = refs/heads/main
