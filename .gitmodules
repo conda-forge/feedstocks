@@ -98910,3 +98910,7 @@
 	url = https://github.com/conda-forge/molecule-signature-feedstock.git
 	path = feedstocks/molecule-signature
 	branch = refs/heads/main
+[submodule "anyioutils"]
+	url = https://github.com/conda-forge/anyioutils-feedstock.git
+	path = feedstocks/anyioutils
+	branch = refs/heads/main
