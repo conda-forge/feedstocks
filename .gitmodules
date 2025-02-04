@@ -98918,3 +98918,7 @@
 	url = https://github.com/conda-forge/xcube-clms-feedstock.git
 	path = feedstocks/xcube-clms
 	branch = refs/heads/main
+[submodule "light-curve-python"]
+	url = https://github.com/conda-forge/light-curve-python-feedstock.git
+	path = feedstocks/light-curve-python
+	branch = refs/heads/main
