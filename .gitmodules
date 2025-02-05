@@ -98934,3 +98934,7 @@
 	url = https://github.com/conda-forge/fuzy-jon-feedstock.git
 	path = feedstocks/fuzy-jon
 	branch = refs/heads/main
+[submodule "google-genai"]
+	url = https://github.com/conda-forge/google-genai-feedstock.git
+	path = feedstocks/google-genai
+	branch = refs/heads/main
