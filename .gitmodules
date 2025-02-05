@@ -98926,3 +98926,7 @@
 	url = https://github.com/conda-forge/qiskit-qasm3-import-feedstock.git
 	path = feedstocks/qiskit-qasm3-import
 	branch = refs/heads/main
+[submodule "rockverse"]
+	url = https://github.com/conda-forge/rockverse-feedstock.git
+	path = feedstocks/rockverse
+	branch = refs/heads/main
