@@ -98974,3 +98974,7 @@
 	url = https://github.com/conda-forge/torchsort-feedstock.git
 	path = feedstocks/torchsort
 	branch = refs/heads/main
+[submodule "cellfinder"]
+	url = https://github.com/conda-forge/cellfinder-feedstock.git
+	path = feedstocks/cellfinder
+	branch = refs/heads/main
