@@ -98938,3 +98938,7 @@
 	url = https://github.com/conda-forge/google-genai-feedstock.git
 	path = feedstocks/google-genai
 	branch = refs/heads/main
+[submodule "cmudict"]
+	url = https://github.com/conda-forge/cmudict-feedstock.git
+	path = feedstocks/cmudict
+	branch = refs/heads/main
