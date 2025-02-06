@@ -98970,3 +98970,7 @@
 	url = https://github.com/conda-forge/justext-feedstock.git
 	path = feedstocks/justext
 	branch = refs/heads/main
+[submodule "torchsort"]
+	url = https://github.com/conda-forge/torchsort-feedstock.git
+	path = feedstocks/torchsort
+	branch = refs/heads/main
