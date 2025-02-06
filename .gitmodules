@@ -98950,3 +98950,7 @@
 	url = https://github.com/conda-forge/cuttools-feedstock.git
 	path = feedstocks/cuttools
 	branch = refs/heads/main
+[submodule "swat"]
+	url = https://github.com/conda-forge/swat-feedstock.git
+	path = feedstocks/swat
+	branch = refs/heads/main
