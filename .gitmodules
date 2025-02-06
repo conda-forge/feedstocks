@@ -98946,3 +98946,7 @@
 	url = https://github.com/conda-forge/pysmithchart-feedstock.git
 	path = feedstocks/pysmithchart
 	branch = refs/heads/main
+[submodule "cuttools"]
+	url = https://github.com/conda-forge/cuttools-feedstock.git
+	path = feedstocks/cuttools
+	branch = refs/heads/main
