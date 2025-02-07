@@ -99002,3 +99002,7 @@
 	url = https://github.com/conda-forge/acro-feedstock.git
 	path = feedstocks/acro
 	branch = refs/heads/main
+[submodule "proxyspy"]
+	url = https://github.com/conda-forge/proxyspy-feedstock.git
+	path = feedstocks/proxyspy
+	branch = refs/heads/main
