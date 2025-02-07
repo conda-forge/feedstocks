@@ -98986,3 +98986,7 @@
 	url = https://github.com/conda-forge/organizeit2-feedstock.git
 	path = feedstocks/organizeit2
 	branch = refs/heads/main
+[submodule "django-tasks"]
+	url = https://github.com/conda-forge/django-tasks-feedstock.git
+	path = feedstocks/django-tasks
+	branch = refs/heads/main
