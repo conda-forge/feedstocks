@@ -98990,3 +98990,7 @@
 	url = https://github.com/conda-forge/django-tasks-feedstock.git
 	path = feedstocks/django-tasks
 	branch = refs/heads/main
+[submodule "llama-cloud-services"]
+	url = https://github.com/conda-forge/llama-cloud-services-feedstock.git
+	path = feedstocks/llama-cloud-services
+	branch = refs/heads/main
