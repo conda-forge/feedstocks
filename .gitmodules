@@ -99006,3 +99006,7 @@
 	url = https://github.com/conda-forge/proxyspy-feedstock.git
 	path = feedstocks/proxyspy
 	branch = refs/heads/main
+[submodule "opencv-python-headless"]
+	url = https://github.com/conda-forge/opencv-python-headless-feedstock.git
+	path = feedstocks/opencv-python-headless
+	branch = refs/heads/main
