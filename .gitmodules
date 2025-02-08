@@ -99010,3 +99010,7 @@
 	url = https://github.com/conda-forge/opencv-python-headless-feedstock.git
 	path = feedstocks/opencv-python-headless
 	branch = refs/heads/main
+[submodule "conspire"]
+	url = https://github.com/conda-forge/conspire-feedstock.git
+	path = feedstocks/conspire
+	branch = refs/heads/main
