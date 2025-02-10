@@ -99054,3 +99054,7 @@
 	url = https://github.com/conda-forge/openmmgridforce-feedstock.git
 	path = feedstocks/openmmgridforce
 	branch = refs/heads/main
+[submodule "antares-client"]
+	url = https://github.com/conda-forge/antares-client-feedstock.git
+	path = feedstocks/antares-client
+	branch = refs/heads/main
