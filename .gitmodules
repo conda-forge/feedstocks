@@ -99030,3 +99030,7 @@
 	url = https://github.com/conda-forge/iregi-feedstock.git
 	path = feedstocks/iregi
 	branch = refs/heads/main
+[submodule "odc-loader"]
+	url = https://github.com/conda-forge/odc-loader-feedstock.git
+	path = feedstocks/odc-loader
+	branch = refs/heads/main
