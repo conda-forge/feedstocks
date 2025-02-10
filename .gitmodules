@@ -99038,3 +99038,7 @@
 	url = https://github.com/conda-forge/dp-accounting-feedstock.git
 	path = feedstocks/dp-accounting
 	branch = refs/heads/main
+[submodule "gstools-cython"]
+	url = https://github.com/conda-forge/gstools-cython-feedstock.git
+	path = feedstocks/gstools-cython
+	branch = refs/heads/main
