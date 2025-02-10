@@ -99026,3 +99026,7 @@
 	url = https://github.com/conda-forge/dedupe-levenshtein-search-feedstock.git
 	path = feedstocks/dedupe-levenshtein-search
 	branch = refs/heads/main
+[submodule "iregi"]
+	url = https://github.com/conda-forge/iregi-feedstock.git
+	path = feedstocks/iregi
+	branch = refs/heads/main
