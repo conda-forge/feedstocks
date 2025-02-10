@@ -99034,3 +99034,7 @@
 	url = https://github.com/conda-forge/odc-loader-feedstock.git
 	path = feedstocks/odc-loader
 	branch = refs/heads/main
+[submodule "dp-accounting"]
+	url = https://github.com/conda-forge/dp-accounting-feedstock.git
+	path = feedstocks/dp-accounting
+	branch = refs/heads/main
