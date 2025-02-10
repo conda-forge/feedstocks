@@ -99022,3 +99022,7 @@
 	url = https://github.com/conda-forge/cryoswath-feedstock.git
 	path = feedstocks/cryoswath
 	branch = refs/heads/main
+[submodule "dedupe-levenshtein-search"]
+	url = https://github.com/conda-forge/dedupe-levenshtein-search-feedstock.git
+	path = feedstocks/dedupe-levenshtein-search
+	branch = refs/heads/main
