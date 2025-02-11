@@ -99098,3 +99098,7 @@
 	url = https://github.com/conda-forge/dependency-groups-feedstock.git
 	path = feedstocks/dependency-groups
 	branch = refs/heads/main
+[submodule "pyudunits2"]
+	url = https://github.com/conda-forge/pyudunits2-feedstock.git
+	path = feedstocks/pyudunits2
+	branch = refs/heads/main
