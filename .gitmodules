@@ -99094,3 +99094,7 @@
 	url = https://github.com/conda-forge/reprostim-feedstock.git
 	path = feedstocks/reprostim
 	branch = refs/heads/main
+[submodule "dependency-groups"]
+	url = https://github.com/conda-forge/dependency-groups-feedstock.git
+	path = feedstocks/dependency-groups
+	branch = refs/heads/main
