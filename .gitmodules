@@ -99086,3 +99086,7 @@
 	url = https://github.com/conda-forge/py_ecc-feedstock.git
 	path = feedstocks/py_ecc
 	branch = refs/heads/main
+[submodule "lib-detect-testenv"]
+	url = https://github.com/conda-forge/lib-detect-testenv-feedstock.git
+	path = feedstocks/lib-detect-testenv
+	branch = refs/heads/main
