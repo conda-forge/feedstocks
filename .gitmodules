@@ -99078,3 +99078,7 @@
 	url = https://github.com/conda-forge/uv-secure-feedstock.git
 	path = feedstocks/uv-secure
 	branch = refs/heads/main
+[submodule "snowmaus"]
+	url = https://github.com/conda-forge/snowmaus-feedstock.git
+	path = feedstocks/snowmaus
+	branch = refs/heads/main
