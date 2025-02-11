@@ -99102,3 +99102,7 @@
 	url = https://github.com/conda-forge/pyudunits2-feedstock.git
 	path = feedstocks/pyudunits2
 	branch = refs/heads/main
+[submodule "dist-s1"]
+	url = https://github.com/conda-forge/dist-s1-feedstock.git
+	path = feedstocks/dist-s1
+	branch = refs/heads/main
