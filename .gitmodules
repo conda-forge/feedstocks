@@ -99066,3 +99066,7 @@
 	url = https://github.com/conda-forge/maeparser-feedstock.git
 	path = feedstocks/maeparser
 	branch = refs/heads/main
+[submodule "diffdist"]
+	url = https://github.com/conda-forge/diffdist-feedstock.git
+	path = feedstocks/diffdist
+	branch = refs/heads/main
