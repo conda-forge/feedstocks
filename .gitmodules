@@ -99106,3 +99106,7 @@
 	url = https://github.com/conda-forge/dist-s1-feedstock.git
 	path = feedstocks/dist-s1
 	branch = refs/heads/main
+[submodule "synchronicity"]
+	url = https://github.com/conda-forge/synchronicity-feedstock.git
+	path = feedstocks/synchronicity
+	branch = refs/heads/main
