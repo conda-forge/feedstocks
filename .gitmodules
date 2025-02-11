@@ -99110,3 +99110,7 @@
 	url = https://github.com/conda-forge/synchronicity-feedstock.git
 	path = feedstocks/synchronicity
 	branch = refs/heads/main
+[submodule "pixcdust"]
+	url = https://github.com/conda-forge/pixcdust-feedstock.git
+	path = feedstocks/pixcdust
+	branch = refs/heads/main
