@@ -99082,3 +99082,7 @@
 	url = https://github.com/conda-forge/snowmaus-feedstock.git
 	path = feedstocks/snowmaus
 	branch = refs/heads/main
+[submodule "py_ecc"]
+	url = https://github.com/conda-forge/py_ecc-feedstock.git
+	path = feedstocks/py_ecc
+	branch = refs/heads/main
