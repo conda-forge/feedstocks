@@ -99074,3 +99074,7 @@
 	url = https://github.com/conda-forge/pyfqmr-feedstock.git
 	path = feedstocks/pyfqmr
 	branch = refs/heads/main
+[submodule "uv-secure"]
+	url = https://github.com/conda-forge/uv-secure-feedstock.git
+	path = feedstocks/uv-secure
+	branch = refs/heads/main
