@@ -99070,3 +99070,7 @@
 	url = https://github.com/conda-forge/diffdist-feedstock.git
 	path = feedstocks/diffdist
 	branch = refs/heads/main
+[submodule "pyfqmr"]
+	url = https://github.com/conda-forge/pyfqmr-feedstock.git
+	path = feedstocks/pyfqmr
+	branch = refs/heads/main
