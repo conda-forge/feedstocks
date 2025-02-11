@@ -99090,3 +99090,7 @@
 	url = https://github.com/conda-forge/lib-detect-testenv-feedstock.git
 	path = feedstocks/lib-detect-testenv
 	branch = refs/heads/main
+[submodule "reprostim"]
+	url = https://github.com/conda-forge/reprostim-feedstock.git
+	path = feedstocks/reprostim
+	branch = refs/heads/main
