@@ -99122,3 +99122,7 @@
 	url = https://github.com/conda-forge/rb-asciidoctor-reducer-feedstock.git
 	path = feedstocks/rb-asciidoctor-reducer
 	branch = refs/heads/main
+[submodule "supervisor-pydantic"]
+	url = https://github.com/conda-forge/supervisor-pydantic-feedstock.git
+	path = feedstocks/supervisor-pydantic
+	branch = refs/heads/main
