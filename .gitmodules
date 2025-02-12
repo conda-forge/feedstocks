@@ -99150,3 +99150,7 @@
 	url = https://github.com/conda-forge/pycurl-requests-feedstock.git
 	path = feedstocks/pycurl-requests
 	branch = refs/heads/main
+[submodule "multipers"]
+	url = https://github.com/conda-forge/multipers-feedstock.git
+	path = feedstocks/multipers
+	branch = refs/heads/main
