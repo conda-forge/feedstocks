@@ -99162,3 +99162,7 @@
 	url = https://github.com/conda-forge/automesh-feedstock.git
 	path = feedstocks/automesh
 	branch = refs/heads/main
+[submodule "rip2"]
+	url = https://github.com/conda-forge/rip2-feedstock.git
+	path = feedstocks/rip2
+	branch = refs/heads/main
