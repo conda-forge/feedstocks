@@ -99118,3 +99118,7 @@
 	url = https://github.com/conda-forge/tiny-retriever-feedstock.git
 	path = feedstocks/tiny-retriever
 	branch = refs/heads/main
+[submodule "rb-asciidoctor-reducer"]
+	url = https://github.com/conda-forge/rb-asciidoctor-reducer-feedstock.git
+	path = feedstocks/rb-asciidoctor-reducer
+	branch = refs/heads/main
