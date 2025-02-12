@@ -99130,3 +99130,7 @@
 	url = https://github.com/conda-forge/py-rust-stemmers-feedstock.git
 	path = feedstocks/py-rust-stemmers
 	branch = refs/heads/main
+[submodule "pkn"]
+	url = https://github.com/conda-forge/pkn-feedstock.git
+	path = feedstocks/pkn
+	branch = refs/heads/main
