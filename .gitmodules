@@ -99146,3 +99146,7 @@
 	url = https://github.com/conda-forge/zmq-anyio-feedstock.git
 	path = feedstocks/zmq-anyio
 	branch = refs/heads/main
+[submodule "pycurl-requests"]
+	url = https://github.com/conda-forge/pycurl-requests-feedstock.git
+	path = feedstocks/pycurl-requests
+	branch = refs/heads/main
