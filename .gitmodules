@@ -99142,3 +99142,7 @@
 	url = https://github.com/conda-forge/pydeb-feedstock.git
 	path = feedstocks/pydeb
 	branch = refs/heads/main
+[submodule "zmq-anyio"]
+	url = https://github.com/conda-forge/zmq-anyio-feedstock.git
+	path = feedstocks/zmq-anyio
+	branch = refs/heads/main
