@@ -99134,3 +99134,7 @@
 	url = https://github.com/conda-forge/pkn-feedstock.git
 	path = feedstocks/pkn
 	branch = refs/heads/main
+[submodule "cli-exit-tools"]
+	url = https://github.com/conda-forge/cli-exit-tools-feedstock.git
+	path = feedstocks/cli-exit-tools
+	branch = refs/heads/main
