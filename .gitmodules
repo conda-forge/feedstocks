@@ -99138,3 +99138,7 @@
 	url = https://github.com/conda-forge/cli-exit-tools-feedstock.git
 	path = feedstocks/cli-exit-tools
 	branch = refs/heads/main
+[submodule "pydeb"]
+	url = https://github.com/conda-forge/pydeb-feedstock.git
+	path = feedstocks/pydeb
+	branch = refs/heads/main
