@@ -99114,3 +99114,7 @@
 	url = https://github.com/conda-forge/pixcdust-feedstock.git
 	path = feedstocks/pixcdust
 	branch = refs/heads/main
+[submodule "tiny-retriever"]
+	url = https://github.com/conda-forge/tiny-retriever-feedstock.git
+	path = feedstocks/tiny-retriever
+	branch = refs/heads/main
