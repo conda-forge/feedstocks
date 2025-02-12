@@ -99154,3 +99154,7 @@
 	url = https://github.com/conda-forge/multipers-feedstock.git
 	path = feedstocks/multipers
 	branch = refs/heads/main
+[submodule "astro-datalab"]
+	url = https://github.com/conda-forge/astro-datalab-feedstock.git
+	path = feedstocks/astro-datalab
+	branch = refs/heads/main
