@@ -99190,3 +99190,7 @@
 	url = https://github.com/conda-forge/jtd-feedstock.git
 	path = feedstocks/jtd
 	branch = refs/heads/main
+[submodule "hatch-semver"]
+	url = https://github.com/conda-forge/hatch-semver-feedstock.git
+	path = feedstocks/hatch-semver
+	branch = refs/heads/main
