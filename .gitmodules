@@ -99174,3 +99174,7 @@
 	url = https://github.com/conda-forge/sagemaker-studio-feedstock.git
 	path = feedstocks/sagemaker-studio
 	branch = refs/heads/main
+[submodule "cut_cross_entropy"]
+	url = https://github.com/conda-forge/cut_cross_entropy-feedstock.git
+	path = feedstocks/cut_cross_entropy
+	branch = refs/heads/main
