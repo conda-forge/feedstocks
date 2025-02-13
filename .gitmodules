@@ -99194,3 +99194,7 @@
 	url = https://github.com/conda-forge/hatch-semver-feedstock.git
 	path = feedstocks/hatch-semver
 	branch = refs/heads/main
+[submodule "my-jupyter-shared-drive"]
+	url = https://github.com/conda-forge/my-jupyter-shared-drive-feedstock.git
+	path = feedstocks/my-jupyter-shared-drive
+	branch = refs/heads/main
