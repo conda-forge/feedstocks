@@ -99166,3 +99166,7 @@
 	url = https://github.com/conda-forge/rip2-feedstock.git
 	path = feedstocks/rip2
 	branch = refs/heads/main
+[submodule "sagemaker-studio-cli"]
+	url = https://github.com/conda-forge/sagemaker-studio-cli-feedstock.git
+	path = feedstocks/sagemaker-studio-cli
+	branch = refs/heads/main
