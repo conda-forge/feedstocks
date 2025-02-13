@@ -99182,3 +99182,7 @@
 	url = https://github.com/conda-forge/unsloth_zoo-feedstock.git
 	path = feedstocks/unsloth_zoo
 	branch = refs/heads/main
+[submodule "unsloth"]
+	url = https://github.com/conda-forge/unsloth-feedstock.git
+	path = feedstocks/unsloth
+	branch = refs/heads/main
