@@ -99198,3 +99198,7 @@
 	url = https://github.com/conda-forge/my-jupyter-shared-drive-feedstock.git
 	path = feedstocks/my-jupyter-shared-drive
 	branch = refs/heads/main
+[submodule "httptap"]
+	url = https://github.com/conda-forge/httptap-feedstock.git
+	path = feedstocks/httptap
+	branch = refs/heads/main
