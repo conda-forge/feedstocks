@@ -99214,3 +99214,7 @@
 	url = https://github.com/conda-forge/baml-py-feedstock.git
 	path = feedstocks/baml-py
 	branch = refs/heads/main
+[submodule "pydantic_ai"]
+	url = https://github.com/conda-forge/pydantic_ai-feedstock.git
+	path = feedstocks/pydantic_ai
+	branch = refs/heads/main
