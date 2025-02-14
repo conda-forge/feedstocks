@@ -99254,3 +99254,7 @@
 	url = https://github.com/conda-forge/fastobo-feedstock.git
 	path = feedstocks/fastobo
 	branch = refs/heads/main
+[submodule "modal-client"]
+	url = https://github.com/conda-forge/modal-client-feedstock.git
+	path = feedstocks/modal-client
+	branch = refs/heads/main
