@@ -99218,3 +99218,7 @@
 	url = https://github.com/conda-forge/pydantic_ai-feedstock.git
 	path = feedstocks/pydantic_ai
 	branch = refs/heads/main
+[submodule "logfire-api"]
+	url = https://github.com/conda-forge/logfire-api-feedstock.git
+	path = feedstocks/logfire-api
+	branch = refs/heads/main
