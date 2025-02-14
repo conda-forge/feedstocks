@@ -99258,3 +99258,7 @@
 	url = https://github.com/conda-forge/modal-client-feedstock.git
 	path = feedstocks/modal-client
 	branch = refs/heads/main
+[submodule "csbschema"]
+	url = https://github.com/conda-forge/csbschema-feedstock.git
+	path = feedstocks/csbschema
+	branch = refs/heads/main
