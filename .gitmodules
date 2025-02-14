@@ -99242,3 +99242,7 @@
 	url = https://github.com/conda-forge/rb-polyglot-feedstock.git
 	path = feedstocks/rb-polyglot
 	branch = refs/heads/main
+[submodule "timefold"]
+	url = https://github.com/conda-forge/timefold-feedstock.git
+	path = feedstocks/timefold
+	branch = refs/heads/main
