@@ -99210,3 +99210,7 @@
 	url = https://github.com/conda-forge/libnvshmem-feedstock.git
 	path = feedstocks/libnvshmem
 	branch = refs/heads/main
+[submodule "baml-py"]
+	url = https://github.com/conda-forge/baml-py-feedstock.git
+	path = feedstocks/baml-py
+	branch = refs/heads/main
