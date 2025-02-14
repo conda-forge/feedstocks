@@ -99222,3 +99222,7 @@
 	url = https://github.com/conda-forge/logfire-api-feedstock.git
 	path = feedstocks/logfire-api
 	branch = refs/heads/main
+[submodule "fastembed"]
+	url = https://github.com/conda-forge/fastembed-feedstock.git
+	path = feedstocks/fastembed
+	branch = refs/heads/main
