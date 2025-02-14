@@ -99226,3 +99226,7 @@
 	url = https://github.com/conda-forge/fastembed-feedstock.git
 	path = feedstocks/fastembed
 	branch = refs/heads/main
+[submodule "r-pyinit"]
+	url = https://github.com/conda-forge/r-pyinit-feedstock.git
+	path = feedstocks/r-pyinit
+	branch = refs/heads/main
