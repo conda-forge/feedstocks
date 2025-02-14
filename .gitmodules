@@ -99234,3 +99234,7 @@
 	url = https://github.com/conda-forge/intervalues-feedstock.git
 	path = feedstocks/intervalues
 	branch = refs/heads/main
+[submodule "cronsim"]
+	url = https://github.com/conda-forge/cronsim-feedstock.git
+	path = feedstocks/cronsim
+	branch = refs/heads/main
