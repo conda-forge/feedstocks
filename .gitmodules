@@ -99246,3 +99246,7 @@
 	url = https://github.com/conda-forge/timefold-feedstock.git
 	path = feedstocks/timefold
 	branch = refs/heads/main
+[submodule "stubgenj"]
+	url = https://github.com/conda-forge/stubgenj-feedstock.git
+	path = feedstocks/stubgenj
+	branch = refs/heads/main
