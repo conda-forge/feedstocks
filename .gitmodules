@@ -99270,3 +99270,7 @@
 	url = https://github.com/conda-forge/openapi-llm-feedstock.git
 	path = feedstocks/openapi-llm
 	branch = refs/heads/main
+[submodule "pytextrank"]
+	url = https://github.com/conda-forge/pytextrank-feedstock.git
+	path = feedstocks/pytextrank
+	branch = refs/heads/main
