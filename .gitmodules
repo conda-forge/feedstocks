@@ -99274,3 +99274,7 @@
 	url = https://github.com/conda-forge/pytextrank-feedstock.git
 	path = feedstocks/pytextrank
 	branch = refs/heads/main
+[submodule "micov"]
+	url = https://github.com/conda-forge/micov-feedstock.git
+	path = feedstocks/micov
+	branch = refs/heads/main
