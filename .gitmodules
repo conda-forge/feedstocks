@@ -99286,3 +99286,7 @@
 	url = https://github.com/conda-forge/display3d-feedstock.git
 	path = feedstocks/display3d
 	branch = refs/heads/main
+[submodule "httm"]
+	url = https://github.com/conda-forge/httm-feedstock.git
+	path = feedstocks/httm
+	branch = refs/heads/main
