@@ -99262,3 +99262,7 @@
 	url = https://github.com/conda-forge/csbschema-feedstock.git
 	path = feedstocks/csbschema
 	branch = refs/heads/main
+[submodule "csvlens"]
+	url = https://github.com/conda-forge/csvlens-feedstock.git
+	path = feedstocks/csvlens
+	branch = refs/heads/main
