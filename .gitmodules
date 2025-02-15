@@ -99278,3 +99278,7 @@
 	url = https://github.com/conda-forge/micov-feedstock.git
 	path = feedstocks/micov
 	branch = refs/heads/main
+[submodule "csp-gateway"]
+	url = https://github.com/conda-forge/csp-gateway-feedstock.git
+	path = feedstocks/csp-gateway
+	branch = refs/heads/main
