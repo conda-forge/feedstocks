@@ -99266,3 +99266,7 @@
 	url = https://github.com/conda-forge/csvlens-feedstock.git
 	path = feedstocks/csvlens
 	branch = refs/heads/main
+[submodule "openapi-llm"]
+	url = https://github.com/conda-forge/openapi-llm-feedstock.git
+	path = feedstocks/openapi-llm
+	branch = refs/heads/main
