@@ -99310,3 +99310,7 @@
 	url = https://github.com/conda-forge/wibl-python-feedstock.git
 	path = feedstocks/wibl-python
 	branch = refs/heads/main
+[submodule "torchvision-extra-decoders"]
+	url = https://github.com/conda-forge/torchvision-extra-decoders-feedstock.git
+	path = feedstocks/torchvision-extra-decoders
+	branch = refs/heads/main
