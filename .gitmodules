@@ -99302,3 +99302,7 @@
 	url = https://github.com/conda-forge/r-robstattm-feedstock.git
 	path = feedstocks/r-robstattm
 	branch = refs/heads/main
+[submodule "llama-index-vector-stores-qdrant"]
+	url = https://github.com/conda-forge/llama-index-vector-stores-qdrant-feedstock.git
+	path = feedstocks/llama-index-vector-stores-qdrant
+	branch = refs/heads/main
