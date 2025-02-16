@@ -99298,3 +99298,7 @@
 	url = https://github.com/conda-forge/r-jobqueue-feedstock.git
 	path = feedstocks/r-jobqueue
 	branch = refs/heads/main
+[submodule "r-robstattm"]
+	url = https://github.com/conda-forge/r-robstattm-feedstock.git
+	path = feedstocks/r-robstattm
+	branch = refs/heads/main
