@@ -99290,3 +99290,7 @@
 	url = https://github.com/conda-forge/httm-feedstock.git
 	path = feedstocks/httm
 	branch = refs/heads/main
+[submodule "pyxattr"]
+	url = https://github.com/conda-forge/pyxattr-feedstock.git
+	path = feedstocks/pyxattr
+	branch = refs/heads/main
