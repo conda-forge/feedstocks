@@ -99294,3 +99294,7 @@
 	url = https://github.com/conda-forge/pyxattr-feedstock.git
 	path = feedstocks/pyxattr
 	branch = refs/heads/main
+[submodule "r-jobqueue"]
+	url = https://github.com/conda-forge/r-jobqueue-feedstock.git
+	path = feedstocks/r-jobqueue
+	branch = refs/heads/main
