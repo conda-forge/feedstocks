@@ -99314,3 +99314,7 @@
 	url = https://github.com/conda-forge/torchvision-extra-decoders-feedstock.git
 	path = feedstocks/torchvision-extra-decoders
 	branch = refs/heads/main
+[submodule "rb-pdf-core"]
+	url = https://github.com/conda-forge/rb-pdf-core-feedstock.git
+	path = feedstocks/rb-pdf-core
+	branch = refs/heads/main
