@@ -99322,3 +99322,7 @@
 	url = https://github.com/conda-forge/airflow-pydantic-feedstock.git
 	path = feedstocks/airflow-pydantic
 	branch = refs/heads/main
+[submodule "powershell"]
+	url = https://github.com/conda-forge/powershell-feedstock.git
+	path = feedstocks/powershell
+	branch = refs/heads/main
