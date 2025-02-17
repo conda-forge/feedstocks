@@ -99334,3 +99334,7 @@
 	url = https://github.com/conda-forge/r-monobin-feedstock.git
 	path = feedstocks/r-monobin
 	branch = refs/heads/main
+[submodule "tinygrad"]
+	url = https://github.com/conda-forge/tinygrad-feedstock.git
+	path = feedstocks/tinygrad
+	branch = refs/heads/main
