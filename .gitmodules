@@ -99330,3 +99330,7 @@
 	url = https://github.com/conda-forge/r-rcarbon-feedstock.git
 	path = feedstocks/r-rcarbon
 	branch = refs/heads/main
+[submodule "r-monobin"]
+	url = https://github.com/conda-forge/r-monobin-feedstock.git
+	path = feedstocks/r-monobin
+	branch = refs/heads/main
