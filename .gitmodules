@@ -99318,3 +99318,7 @@
 	url = https://github.com/conda-forge/rb-pdf-core-feedstock.git
 	path = feedstocks/rb-pdf-core
 	branch = refs/heads/main
+[submodule "airflow-pydantic"]
+	url = https://github.com/conda-forge/airflow-pydantic-feedstock.git
+	path = feedstocks/airflow-pydantic
+	branch = refs/heads/main
