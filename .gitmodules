@@ -99326,3 +99326,7 @@
 	url = https://github.com/conda-forge/powershell-feedstock.git
 	path = feedstocks/powershell
 	branch = refs/heads/main
+[submodule "r-rcarbon"]
+	url = https://github.com/conda-forge/r-rcarbon-feedstock.git
+	path = feedstocks/r-rcarbon
+	branch = refs/heads/main
