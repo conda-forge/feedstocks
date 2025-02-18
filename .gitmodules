@@ -99362,3 +99362,7 @@
 	url = https://github.com/conda-forge/databricks-sqlalchemy-feedstock.git
 	path = feedstocks/databricks-sqlalchemy
 	branch = refs/heads/main
+[submodule "plopp"]
+	url = https://github.com/conda-forge/plopp-feedstock.git
+	path = feedstocks/plopp
+	branch = refs/heads/main
