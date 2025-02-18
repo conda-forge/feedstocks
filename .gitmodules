@@ -99350,3 +99350,7 @@
 	url = https://github.com/conda-forge/r-leidenbase-feedstock.git
 	path = feedstocks/r-leidenbase
 	branch = refs/heads/main
+[submodule "papylio"]
+	url = https://github.com/conda-forge/papylio-feedstock.git
+	path = feedstocks/papylio
+	branch = refs/heads/main
