@@ -99346,3 +99346,7 @@
 	url = https://github.com/conda-forge/r-pdtoolkit-feedstock.git
 	path = feedstocks/r-pdtoolkit
 	branch = refs/heads/main
+[submodule "r-leidenbase"]
+	url = https://github.com/conda-forge/r-leidenbase-feedstock.git
+	path = feedstocks/r-leidenbase
+	branch = refs/heads/main
