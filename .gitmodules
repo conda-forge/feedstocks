@@ -99342,3 +99342,7 @@
 	url = https://github.com/conda-forge/tibi-feedstock.git
 	path = feedstocks/tibi
 	branch = refs/heads/main
+[submodule "r-pdtoolkit"]
+	url = https://github.com/conda-forge/r-pdtoolkit-feedstock.git
+	path = feedstocks/r-pdtoolkit
+	branch = refs/heads/main
