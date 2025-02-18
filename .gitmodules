@@ -99366,3 +99366,7 @@
 	url = https://github.com/conda-forge/plopp-feedstock.git
 	path = feedstocks/plopp
 	branch = refs/heads/main
+[submodule "yarr"]
+	url = https://github.com/conda-forge/yarr-feedstock.git
+	path = feedstocks/yarr
+	branch = refs/heads/main
