@@ -99354,3 +99354,7 @@
 	url = https://github.com/conda-forge/papylio-feedstock.git
 	path = feedstocks/papylio
 	branch = refs/heads/main
+[submodule "wrapt_timeout_decorator"]
+	url = https://github.com/conda-forge/wrapt_timeout_decorator-feedstock.git
+	path = feedstocks/wrapt_timeout_decorator
+	branch = refs/heads/main
