@@ -99358,3 +99358,7 @@
 	url = https://github.com/conda-forge/wrapt_timeout_decorator-feedstock.git
 	path = feedstocks/wrapt_timeout_decorator
 	branch = refs/heads/main
+[submodule "databricks-sqlalchemy"]
+	url = https://github.com/conda-forge/databricks-sqlalchemy-feedstock.git
+	path = feedstocks/databricks-sqlalchemy
+	branch = refs/heads/main
