@@ -99386,3 +99386,7 @@
 	url = https://github.com/conda-forge/iterativefiltering-feedstock.git
 	path = feedstocks/iterativefiltering
 	branch = refs/heads/main
+[submodule "french-cities"]
+	url = https://github.com/conda-forge/french-cities-feedstock.git
+	path = feedstocks/french-cities
+	branch = refs/heads/main
