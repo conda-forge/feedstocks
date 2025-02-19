@@ -99374,3 +99374,7 @@
 	url = https://github.com/conda-forge/llama-index-embeddings-azure-openai-feedstock.git
 	path = feedstocks/llama-index-embeddings-azure-openai
 	branch = refs/heads/main
+[submodule "llama-index-llms-azure-openai"]
+	url = https://github.com/conda-forge/llama-index-llms-azure-openai-feedstock.git
+	path = feedstocks/llama-index-llms-azure-openai
+	branch = refs/heads/main
