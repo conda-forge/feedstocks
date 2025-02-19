@@ -99370,3 +99370,7 @@
 	url = https://github.com/conda-forge/yarr-feedstock.git
 	path = feedstocks/yarr
 	branch = refs/heads/main
+[submodule "llama-index-embeddings-azure-openai"]
+	url = https://github.com/conda-forge/llama-index-embeddings-azure-openai-feedstock.git
+	path = feedstocks/llama-index-embeddings-azure-openai
+	branch = refs/heads/main
