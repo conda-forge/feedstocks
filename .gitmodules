@@ -99378,3 +99378,7 @@
 	url = https://github.com/conda-forge/llama-index-llms-azure-openai-feedstock.git
 	path = feedstocks/llama-index-llms-azure-openai
 	branch = refs/heads/main
+[submodule "roman-numerals-py"]
+	url = https://github.com/conda-forge/roman-numerals-py-feedstock.git
+	path = feedstocks/roman-numerals-py
+	branch = refs/heads/main
