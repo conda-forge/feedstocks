@@ -99398,3 +99398,7 @@
 	url = https://github.com/conda-forge/metatrain-feedstock.git
 	path = feedstocks/metatrain
 	branch = refs/heads/main
+[submodule "selfeeg"]
+	url = https://github.com/conda-forge/selfeeg-feedstock.git
+	path = feedstocks/selfeeg
+	branch = refs/heads/main
