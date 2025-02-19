@@ -99402,3 +99402,7 @@
 	url = https://github.com/conda-forge/selfeeg-feedstock.git
 	path = feedstocks/selfeeg
 	branch = refs/heads/main
+[submodule "xsdba"]
+	url = https://github.com/conda-forge/xsdba-feedstock.git
+	path = feedstocks/xsdba
+	branch = refs/heads/main
