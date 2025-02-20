@@ -99446,3 +99446,7 @@
 	url = https://github.com/conda-forge/splines-feedstock.git
 	path = feedstocks/splines
 	branch = refs/heads/main
+[submodule "symjit"]
+	url = https://github.com/conda-forge/symjit-feedstock.git
+	path = feedstocks/symjit
+	branch = refs/heads/main
