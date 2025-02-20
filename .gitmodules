@@ -99414,3 +99414,7 @@
 	url = https://github.com/conda-forge/arize-phoenix-client-feedstock.git
 	path = feedstocks/arize-phoenix-client
 	branch = refs/heads/main
+[submodule "stimulus-py"]
+	url = https://github.com/conda-forge/stimulus-py-feedstock.git
+	path = feedstocks/stimulus-py
+	branch = refs/heads/main
