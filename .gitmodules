@@ -99430,3 +99430,7 @@
 	url = https://github.com/conda-forge/sacroml-feedstock.git
 	path = feedstocks/sacroml
 	branch = refs/heads/main
+[submodule "znsocket"]
+	url = https://github.com/conda-forge/znsocket-feedstock.git
+	path = feedstocks/znsocket
+	branch = refs/heads/main
