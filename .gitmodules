@@ -99438,3 +99438,7 @@
 	url = https://github.com/conda-forge/znfields-feedstock.git
 	path = feedstocks/znfields
 	branch = refs/heads/main
+[submodule "znjson"]
+	url = https://github.com/conda-forge/znjson-feedstock.git
+	path = feedstocks/znjson
+	branch = refs/heads/main
