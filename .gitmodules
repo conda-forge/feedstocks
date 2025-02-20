@@ -99418,3 +99418,7 @@
 	url = https://github.com/conda-forge/stimulus-py-feedstock.git
 	path = feedstocks/stimulus-py
 	branch = refs/heads/main
+[submodule "llama-index-retrievers-bm25"]
+	url = https://github.com/conda-forge/llama-index-retrievers-bm25-feedstock.git
+	path = feedstocks/llama-index-retrievers-bm25
+	branch = refs/heads/main
