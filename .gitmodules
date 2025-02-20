@@ -99410,3 +99410,7 @@
 	url = https://github.com/conda-forge/lyteidl-feedstock.git
 	path = feedstocks/lyteidl
 	branch = refs/heads/main
+[submodule "arize-phoenix-client"]
+	url = https://github.com/conda-forge/arize-phoenix-client-feedstock.git
+	path = feedstocks/arize-phoenix-client
+	branch = refs/heads/main
