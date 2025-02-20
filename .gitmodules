@@ -99434,3 +99434,7 @@
 	url = https://github.com/conda-forge/znsocket-feedstock.git
 	path = feedstocks/znsocket
 	branch = refs/heads/main
+[submodule "znfields"]
+	url = https://github.com/conda-forge/znfields-feedstock.git
+	path = feedstocks/znfields
+	branch = refs/heads/main
