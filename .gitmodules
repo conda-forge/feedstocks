@@ -99442,3 +99442,7 @@
 	url = https://github.com/conda-forge/znjson-feedstock.git
 	path = feedstocks/znjson
 	branch = refs/heads/main
+[submodule "splines"]
+	url = https://github.com/conda-forge/splines-feedstock.git
+	path = feedstocks/splines
+	branch = refs/heads/main
