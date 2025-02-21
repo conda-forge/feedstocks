@@ -99474,3 +99474,7 @@
 	url = https://github.com/conda-forge/latch-persistence-feedstock.git
 	path = feedstocks/latch-persistence
 	branch = refs/heads/main
+[submodule "zntrack"]
+	url = https://github.com/conda-forge/zntrack-feedstock.git
+	path = feedstocks/zntrack
+	branch = refs/heads/main
