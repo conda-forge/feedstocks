@@ -99470,3 +99470,7 @@
 	url = https://github.com/conda-forge/xcube-stac-feedstock.git
 	path = feedstocks/xcube-stac
 	branch = refs/heads/main
+[submodule "latch-persistence"]
+	url = https://github.com/conda-forge/latch-persistence-feedstock.git
+	path = feedstocks/latch-persistence
+	branch = refs/heads/main
