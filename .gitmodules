@@ -99466,3 +99466,7 @@
 	url = https://github.com/conda-forge/festim-feedstock.git
 	path = feedstocks/festim
 	branch = refs/heads/main
+[submodule "xcube-stac"]
+	url = https://github.com/conda-forge/xcube-stac-feedstock.git
+	path = feedstocks/xcube-stac
+	branch = refs/heads/main
