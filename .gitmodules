@@ -99450,3 +99450,7 @@
 	url = https://github.com/conda-forge/symjit-feedstock.git
 	path = feedstocks/symjit
 	branch = refs/heads/main
+[submodule "r-luz"]
+	url = https://github.com/conda-forge/r-luz-feedstock.git
+	path = feedstocks/r-luz
+	branch = refs/heads/main
