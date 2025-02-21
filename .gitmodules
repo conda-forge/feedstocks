@@ -99478,3 +99478,7 @@
 	url = https://github.com/conda-forge/zntrack-feedstock.git
 	path = feedstocks/zntrack
 	branch = refs/heads/main
+[submodule "cerberecontrib-ghrsst"]
+	url = https://github.com/conda-forge/cerberecontrib-ghrsst-feedstock.git
+	path = feedstocks/cerberecontrib-ghrsst
+	branch = refs/heads/main
