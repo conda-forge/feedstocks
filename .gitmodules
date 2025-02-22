@@ -99494,3 +99494,7 @@
 	url = https://github.com/conda-forge/fenics-oasis-feedstock.git
 	path = feedstocks/fenics-oasis
 	branch = refs/heads/main
+[submodule "streamlit-pydantic"]
+	url = https://github.com/conda-forge/streamlit-pydantic-feedstock.git
+	path = feedstocks/streamlit-pydantic
+	branch = refs/heads/main
