@@ -99498,3 +99498,7 @@
 	url = https://github.com/conda-forge/streamlit-pydantic-feedstock.git
 	path = feedstocks/streamlit-pydantic
 	branch = refs/heads/main
+[submodule "s3-proxy"]
+	url = https://github.com/conda-forge/s3-proxy-feedstock.git
+	path = feedstocks/s3-proxy
+	branch = refs/heads/main
