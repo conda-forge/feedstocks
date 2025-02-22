@@ -99502,3 +99502,7 @@
 	url = https://github.com/conda-forge/s3-proxy-feedstock.git
 	path = feedstocks/s3-proxy
 	branch = refs/heads/main
+[submodule "scaleway-cli"]
+	url = https://github.com/conda-forge/scaleway-cli-feedstock.git
+	path = feedstocks/scaleway-cli
+	branch = refs/heads/main
