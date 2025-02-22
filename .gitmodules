@@ -99482,3 +99482,7 @@
 	url = https://github.com/conda-forge/cerberecontrib-ghrsst-feedstock.git
 	path = feedstocks/cerberecontrib-ghrsst
 	branch = refs/heads/main
+[submodule "dram-viz"]
+	url = https://github.com/conda-forge/dram-viz-feedstock.git
+	path = feedstocks/dram-viz
+	branch = refs/heads/main
