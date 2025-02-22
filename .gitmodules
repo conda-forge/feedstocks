@@ -99506,3 +99506,7 @@
 	url = https://github.com/conda-forge/scaleway-cli-feedstock.git
 	path = feedstocks/scaleway-cli
 	branch = refs/heads/main
+[submodule "pylsp-rope"]
+	url = https://github.com/conda-forge/pylsp-rope-feedstock.git
+	path = feedstocks/pylsp-rope
+	branch = refs/heads/main
