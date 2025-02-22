@@ -99490,3 +99490,7 @@
 	url = https://github.com/conda-forge/acres-feedstock.git
 	path = feedstocks/acres
 	branch = refs/heads/main
+[submodule "fenics-oasis"]
+	url = https://github.com/conda-forge/fenics-oasis-feedstock.git
+	path = feedstocks/fenics-oasis
+	branch = refs/heads/main
