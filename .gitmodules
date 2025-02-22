@@ -99486,3 +99486,7 @@
 	url = https://github.com/conda-forge/dram-viz-feedstock.git
 	path = feedstocks/dram-viz
 	branch = refs/heads/main
+[submodule "acres"]
+	url = https://github.com/conda-forge/acres-feedstock.git
+	path = feedstocks/acres
+	branch = refs/heads/main
