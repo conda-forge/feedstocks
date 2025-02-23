@@ -99522,3 +99522,7 @@
 	url = https://github.com/conda-forge/znh5md-feedstock.git
 	path = feedstocks/znh5md
 	branch = refs/heads/main
+[submodule "tqdm-logging-wrapper"]
+	url = https://github.com/conda-forge/tqdm-logging-wrapper-feedstock.git
+	path = feedstocks/tqdm-logging-wrapper
+	branch = refs/heads/main
