@@ -99526,3 +99526,7 @@
 	url = https://github.com/conda-forge/tqdm-logging-wrapper-feedstock.git
 	path = feedstocks/tqdm-logging-wrapper
 	branch = refs/heads/main
+[submodule "fhlmi"]
+	url = https://github.com/conda-forge/fhlmi-feedstock.git
+	path = feedstocks/fhlmi
+	branch = refs/heads/main
