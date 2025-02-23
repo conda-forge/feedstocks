@@ -99534,3 +99534,7 @@
 	url = https://github.com/conda-forge/chemotools-feedstock.git
 	path = feedstocks/chemotools
 	branch = refs/heads/main
+[submodule "pylib-essentials"]
+	url = https://github.com/conda-forge/pylib-essentials-feedstock.git
+	path = feedstocks/pylib-essentials
+	branch = refs/heads/main
