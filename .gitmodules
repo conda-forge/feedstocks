@@ -99530,3 +99530,7 @@
 	url = https://github.com/conda-forge/fhlmi-feedstock.git
 	path = feedstocks/fhlmi
 	branch = refs/heads/main
+[submodule "chemotools"]
+	url = https://github.com/conda-forge/chemotools-feedstock.git
+	path = feedstocks/chemotools
+	branch = refs/heads/main
