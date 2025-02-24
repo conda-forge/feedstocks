@@ -99574,3 +99574,7 @@
 	url = https://github.com/conda-forge/parsnip-cif-feedstock.git
 	path = feedstocks/parsnip-cif
 	branch = refs/heads/main
+[submodule "qwen-vl-utils"]
+	url = https://github.com/conda-forge/qwen-vl-utils-feedstock.git
+	path = feedstocks/qwen-vl-utils
+	branch = refs/heads/main
