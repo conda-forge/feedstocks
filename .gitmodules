@@ -99554,3 +99554,7 @@
 	url = https://github.com/conda-forge/tex2pix-feedstock.git
 	path = feedstocks/tex2pix
 	branch = refs/heads/main
+[submodule "mlipx"]
+	url = https://github.com/conda-forge/mlipx-feedstock.git
+	path = feedstocks/mlipx
+	branch = refs/heads/main
