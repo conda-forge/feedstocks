@@ -99558,3 +99558,7 @@
 	url = https://github.com/conda-forge/mlipx-feedstock.git
 	path = feedstocks/mlipx
 	branch = refs/heads/main
+[submodule "structuralgt"]
+	url = https://github.com/conda-forge/structuralgt-feedstock.git
+	path = feedstocks/structuralgt
+	branch = refs/heads/main
