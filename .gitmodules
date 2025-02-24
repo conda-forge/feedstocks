@@ -99566,3 +99566,7 @@
 	url = https://github.com/conda-forge/altair-aitools-runtime-feedstock.git
 	path = feedstocks/altair-aitools-runtime
 	branch = refs/heads/main
+[submodule "pyslha"]
+	url = https://github.com/conda-forge/pyslha-feedstock.git
+	path = feedstocks/pyslha
+	branch = refs/heads/main
