@@ -99550,3 +99550,7 @@
 	url = https://github.com/conda-forge/unum-feedstock.git
 	path = feedstocks/unum
 	branch = refs/heads/main
+[submodule "tex2pix"]
+	url = https://github.com/conda-forge/tex2pix-feedstock.git
+	path = feedstocks/tex2pix
+	branch = refs/heads/main
