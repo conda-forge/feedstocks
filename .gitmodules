@@ -99546,3 +99546,7 @@
 	url = https://github.com/conda-forge/orb-models-feedstock.git
 	path = feedstocks/orb-models
 	branch = refs/heads/main
+[submodule "unum"]
+	url = https://github.com/conda-forge/unum-feedstock.git
+	path = feedstocks/unum
+	branch = refs/heads/main
