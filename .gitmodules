@@ -99538,3 +99538,7 @@
 	url = https://github.com/conda-forge/pylib-essentials-feedstock.git
 	path = feedstocks/pylib-essentials
 	branch = refs/heads/main
+[submodule "datview"]
+	url = https://github.com/conda-forge/datview-feedstock.git
+	path = feedstocks/datview
+	branch = refs/heads/main
