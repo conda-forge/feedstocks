@@ -99562,3 +99562,7 @@
 	url = https://github.com/conda-forge/structuralgt-feedstock.git
 	path = feedstocks/structuralgt
 	branch = refs/heads/main
+[submodule "altair-aitools-runtime"]
+	url = https://github.com/conda-forge/altair-aitools-runtime-feedstock.git
+	path = feedstocks/altair-aitools-runtime
+	branch = refs/heads/main
