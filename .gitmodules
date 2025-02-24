@@ -99570,3 +99570,7 @@
 	url = https://github.com/conda-forge/pyslha-feedstock.git
 	path = feedstocks/pyslha
 	branch = refs/heads/main
+[submodule "parsnip-cif"]
+	url = https://github.com/conda-forge/parsnip-cif-feedstock.git
+	path = feedstocks/parsnip-cif
+	branch = refs/heads/main
