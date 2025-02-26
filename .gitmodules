@@ -99598,3 +99598,7 @@
 	url = https://github.com/conda-forge/pyteomics-feedstock.git
 	path = feedstocks/pyteomics
 	branch = refs/heads/main
+[submodule "scikeras"]
+	url = https://github.com/conda-forge/scikeras-feedstock.git
+	path = feedstocks/scikeras
+	branch = refs/heads/main
