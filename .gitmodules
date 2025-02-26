@@ -99610,3 +99610,7 @@
 	url = https://github.com/conda-forge/psims-feedstock.git
 	path = feedstocks/psims
 	branch = refs/heads/main
+[submodule "python-idzip"]
+	url = https://github.com/conda-forge/python-idzip-feedstock.git
+	path = feedstocks/python-idzip
+	branch = refs/heads/main
