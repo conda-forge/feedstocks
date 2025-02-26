@@ -99602,3 +99602,7 @@
 	url = https://github.com/conda-forge/scikeras-feedstock.git
 	path = feedstocks/scikeras
 	branch = refs/heads/main
+[submodule "pymzml"]
+	url = https://github.com/conda-forge/pymzml-feedstock.git
+	path = feedstocks/pymzml
+	branch = refs/heads/main
