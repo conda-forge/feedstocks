@@ -99626,3 +99626,7 @@
 	url = https://github.com/conda-forge/grace-tensorpotential-feedstock.git
 	path = feedstocks/grace-tensorpotential
 	branch = refs/heads/main
+[submodule "cms-combine"]
+	url = https://github.com/conda-forge/cms-combine-feedstock.git
+	path = feedstocks/cms-combine
+	branch = refs/heads/main
