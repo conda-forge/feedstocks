@@ -99622,3 +99622,7 @@
 	url = https://github.com/conda-forge/smodels-feedstock.git
 	path = feedstocks/smodels
 	branch = refs/heads/main
+[submodule "grace-tensorpotential"]
+	url = https://github.com/conda-forge/grace-tensorpotential-feedstock.git
+	path = feedstocks/grace-tensorpotential
+	branch = refs/heads/main
