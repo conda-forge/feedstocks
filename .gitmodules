@@ -99594,3 +99594,7 @@
 	url = https://github.com/conda-forge/windninja-feedstock.git
 	path = feedstocks/windninja
 	branch = refs/heads/main
+[submodule "pyteomics"]
+	url = https://github.com/conda-forge/pyteomics-feedstock.git
+	path = feedstocks/pyteomics
+	branch = refs/heads/main
