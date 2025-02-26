@@ -99618,3 +99618,7 @@
 	url = https://github.com/conda-forge/styro-feedstock.git
 	path = feedstocks/styro
 	branch = refs/heads/main
+[submodule "smodels"]
+	url = https://github.com/conda-forge/smodels-feedstock.git
+	path = feedstocks/smodels
+	branch = refs/heads/main
