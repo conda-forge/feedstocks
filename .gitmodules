@@ -99634,3 +99634,7 @@
 	url = https://github.com/conda-forge/r-bimets-feedstock.git
 	path = feedstocks/r-bimets
 	branch = refs/heads/main
+[submodule "webbrowser_open"]
+	url = https://github.com/conda-forge/webbrowser_open-feedstock.git
+	path = feedstocks/webbrowser_open
+	branch = refs/heads/main
