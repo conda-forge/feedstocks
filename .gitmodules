@@ -99642,3 +99642,7 @@
 	url = https://github.com/conda-forge/vectorscan-feedstock.git
 	path = feedstocks/vectorscan
 	branch = refs/heads/main
+[submodule "tach"]
+	url = https://github.com/conda-forge/tach-feedstock.git
+	path = feedstocks/tach
+	branch = refs/heads/main
