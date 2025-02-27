@@ -99638,3 +99638,7 @@
 	url = https://github.com/conda-forge/webbrowser_open-feedstock.git
 	path = feedstocks/webbrowser_open
 	branch = refs/heads/main
+[submodule "vectorscan"]
+	url = https://github.com/conda-forge/vectorscan-feedstock.git
+	path = feedstocks/vectorscan
+	branch = refs/heads/main
