@@ -99630,3 +99630,7 @@
 	url = https://github.com/conda-forge/cms-combine-feedstock.git
 	path = feedstocks/cms-combine
 	branch = refs/heads/main
+[submodule "r-bimets"]
+	url = https://github.com/conda-forge/r-bimets-feedstock.git
+	path = feedstocks/r-bimets
+	branch = refs/heads/main
