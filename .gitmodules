@@ -99646,3 +99646,7 @@
 	url = https://github.com/conda-forge/tach-feedstock.git
 	path = feedstocks/tach
 	branch = refs/heads/main
+[submodule "rattler-index"]
+	url = https://github.com/conda-forge/rattler-index-feedstock.git
+	path = feedstocks/rattler-index
+	branch = refs/heads/main
