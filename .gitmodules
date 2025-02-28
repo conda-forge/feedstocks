@@ -99650,3 +99650,7 @@
 	url = https://github.com/conda-forge/rattler-index-feedstock.git
 	path = feedstocks/rattler-index
 	branch = refs/heads/main
+[submodule "stack-pr"]
+	url = https://github.com/conda-forge/stack-pr-feedstock.git
+	path = feedstocks/stack-pr
+	branch = refs/heads/main
