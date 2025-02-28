@@ -99670,3 +99670,7 @@
 	url = https://github.com/conda-forge/tf-playwright-stealth-feedstock.git
 	path = feedstocks/tf-playwright-stealth
 	branch = refs/heads/main
+[submodule "fake-http-header"]
+	url = https://github.com/conda-forge/fake-http-header-feedstock.git
+	path = feedstocks/fake-http-header
+	branch = refs/heads/main
