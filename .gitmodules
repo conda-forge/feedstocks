@@ -99674,3 +99674,7 @@
 	url = https://github.com/conda-forge/fake-http-header-feedstock.git
 	path = feedstocks/fake-http-header
 	branch = refs/heads/main
+[submodule "google-cloud-managedkafka"]
+	url = https://github.com/conda-forge/google-cloud-managedkafka-feedstock.git
+	path = feedstocks/google-cloud-managedkafka
+	branch = refs/heads/main
