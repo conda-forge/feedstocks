@@ -99734,3 +99734,7 @@
 	url = https://github.com/conda-forge/langgraph-prebuilt-feedstock.git
 	path = feedstocks/langgraph-prebuilt
 	branch = refs/heads/main
+[submodule "raspalib"]
+	url = https://github.com/conda-forge/raspalib-feedstock.git
+	path = feedstocks/raspalib
+	branch = refs/heads/main
