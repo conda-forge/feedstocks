@@ -99710,3 +99710,7 @@
 	url = https://github.com/conda-forge/pontibus-feedstock.git
 	path = feedstocks/pontibus
 	branch = refs/heads/main
+[submodule "omero-rdf"]
+	url = https://github.com/conda-forge/omero-rdf-feedstock.git
+	path = feedstocks/omero-rdf
+	branch = refs/heads/main
