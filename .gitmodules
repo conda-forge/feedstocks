@@ -99658,3 +99658,7 @@
 	url = https://github.com/conda-forge/rank-bm25-feedstock.git
 	path = feedstocks/rank-bm25
 	branch = refs/heads/main
+[submodule "voyager"]
+	url = https://github.com/conda-forge/voyager-feedstock.git
+	path = feedstocks/voyager
+	branch = refs/heads/main
