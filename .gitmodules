@@ -99694,3 +99694,7 @@
 	url = https://github.com/conda-forge/python-hyperscan-feedstock.git
 	path = feedstocks/python-hyperscan
 	branch = refs/heads/main
+[submodule "mcstas-readout-master"]
+	url = https://github.com/conda-forge/mcstas-readout-master-feedstock.git
+	path = feedstocks/mcstas-readout-master
+	branch = refs/heads/main
