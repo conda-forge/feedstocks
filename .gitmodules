@@ -99654,3 +99654,7 @@
 	url = https://github.com/conda-forge/stack-pr-feedstock.git
 	path = feedstocks/stack-pr
 	branch = refs/heads/main
+[submodule "rank-bm25"]
+	url = https://github.com/conda-forge/rank-bm25-feedstock.git
+	path = feedstocks/rank-bm25
+	branch = refs/heads/main
