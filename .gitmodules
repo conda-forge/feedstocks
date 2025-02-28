@@ -99718,3 +99718,7 @@
 	url = https://github.com/conda-forge/standard-imghdr-feedstock.git
 	path = feedstocks/standard-imghdr
 	branch = refs/heads/main
+[submodule "xarray-lmfit"]
+	url = https://github.com/conda-forge/xarray-lmfit-feedstock.git
+	path = feedstocks/xarray-lmfit
+	branch = refs/heads/main
