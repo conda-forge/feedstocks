@@ -99722,3 +99722,7 @@
 	url = https://github.com/conda-forge/xarray-lmfit-feedstock.git
 	path = feedstocks/xarray-lmfit
 	branch = refs/heads/main
+[submodule "olmocr"]
+	url = https://github.com/conda-forge/olmocr-feedstock.git
+	path = feedstocks/olmocr
+	branch = refs/heads/main
