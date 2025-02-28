@@ -99662,3 +99662,7 @@
 	url = https://github.com/conda-forge/voyager-feedstock.git
 	path = feedstocks/voyager
 	branch = refs/heads/main
+[submodule "colbert-ai"]
+	url = https://github.com/conda-forge/colbert-ai-feedstock.git
+	path = feedstocks/colbert-ai
+	branch = refs/heads/main
