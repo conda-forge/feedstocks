@@ -99666,3 +99666,7 @@
 	url = https://github.com/conda-forge/colbert-ai-feedstock.git
 	path = feedstocks/colbert-ai
 	branch = refs/heads/main
+[submodule "tf-playwright-stealth"]
+	url = https://github.com/conda-forge/tf-playwright-stealth-feedstock.git
+	path = feedstocks/tf-playwright-stealth
+	branch = refs/heads/main
