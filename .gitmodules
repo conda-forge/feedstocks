@@ -99690,3 +99690,7 @@
 	url = https://github.com/conda-forge/tytanic-feedstock.git
 	path = feedstocks/tytanic
 	branch = refs/heads/main
+[submodule "python-hyperscan"]
+	url = https://github.com/conda-forge/python-hyperscan-feedstock.git
+	path = feedstocks/python-hyperscan
+	branch = refs/heads/main
