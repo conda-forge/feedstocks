@@ -99682,3 +99682,7 @@
 	url = https://github.com/conda-forge/tangods-mcmax-feedstock.git
 	path = feedstocks/tangods-mcmax
 	branch = refs/heads/main
+[submodule "rb-ascii85"]
+	url = https://github.com/conda-forge/rb-ascii85-feedstock.git
+	path = feedstocks/rb-ascii85
+	branch = refs/heads/main
