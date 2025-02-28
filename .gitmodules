@@ -99730,3 +99730,7 @@
 	url = https://github.com/conda-forge/tensorflow-privacy-feedstock.git
 	path = feedstocks/tensorflow-privacy
 	branch = refs/heads/main
+[submodule "langgraph-prebuilt"]
+	url = https://github.com/conda-forge/langgraph-prebuilt-feedstock.git
+	path = feedstocks/langgraph-prebuilt
+	branch = refs/heads/main
