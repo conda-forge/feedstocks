@@ -99714,3 +99714,7 @@
 	url = https://github.com/conda-forge/omero-rdf-feedstock.git
 	path = feedstocks/omero-rdf
 	branch = refs/heads/main
+[submodule "standard-imghdr"]
+	url = https://github.com/conda-forge/standard-imghdr-feedstock.git
+	path = feedstocks/standard-imghdr
+	branch = refs/heads/main
