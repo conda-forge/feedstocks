@@ -99698,3 +99698,7 @@
 	url = https://github.com/conda-forge/mcstas-readout-master-feedstock.git
 	path = feedstocks/mcstas-readout-master
 	branch = refs/heads/main
+[submodule "ms_peak_picker"]
+	url = https://github.com/conda-forge/ms_peak_picker-feedstock.git
+	path = feedstocks/ms_peak_picker
+	branch = refs/heads/main
