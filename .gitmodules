@@ -99726,3 +99726,7 @@
 	url = https://github.com/conda-forge/olmocr-feedstock.git
 	path = feedstocks/olmocr
 	branch = refs/heads/main
+[submodule "tensorflow-privacy"]
+	url = https://github.com/conda-forge/tensorflow-privacy-feedstock.git
+	path = feedstocks/tensorflow-privacy
+	branch = refs/heads/main
