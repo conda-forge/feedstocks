@@ -99742,3 +99742,7 @@
 	url = https://github.com/conda-forge/raspa3-feedstock.git
 	path = feedstocks/raspa3
 	branch = refs/heads/main
+[submodule "python-metatensor-core"]
+	url = https://github.com/conda-forge/python-metatensor-core-feedstock.git
+	path = feedstocks/python-metatensor-core
+	branch = refs/heads/main
