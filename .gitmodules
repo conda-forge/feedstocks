@@ -99750,3 +99750,7 @@
 	url = https://github.com/conda-forge/r-zigg-feedstock.git
 	path = feedstocks/r-zigg
 	branch = refs/heads/main
+[submodule "boinor"]
+	url = https://github.com/conda-forge/boinor-feedstock.git
+	path = feedstocks/boinor
+	branch = refs/heads/main
