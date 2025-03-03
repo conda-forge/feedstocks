@@ -99758,3 +99758,7 @@
 	url = https://github.com/conda-forge/rloop-feedstock.git
 	path = feedstocks/rloop
 	branch = refs/heads/main
+[submodule "hatch-conda"]
+	url = https://github.com/conda-forge/hatch-conda-feedstock.git
+	path = feedstocks/hatch-conda
+	branch = refs/heads/main
