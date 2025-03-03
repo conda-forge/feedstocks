@@ -99770,3 +99770,7 @@
 	url = https://github.com/conda-forge/hierarchicalsoftmax-feedstock.git
 	path = feedstocks/hierarchicalsoftmax
 	branch = refs/heads/main
+[submodule "parse-changelog"]
+	url = https://github.com/conda-forge/parse-changelog-feedstock.git
+	path = feedstocks/parse-changelog
+	branch = refs/heads/main
