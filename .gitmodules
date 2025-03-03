@@ -99774,3 +99774,7 @@
 	url = https://github.com/conda-forge/parse-changelog-feedstock.git
 	path = feedstocks/parse-changelog
 	branch = refs/heads/main
+[submodule "flagembedding"]
+	url = https://github.com/conda-forge/flagembedding-feedstock.git
+	path = feedstocks/flagembedding
+	branch = refs/heads/main
