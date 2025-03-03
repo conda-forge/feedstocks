@@ -99754,3 +99754,7 @@
 	url = https://github.com/conda-forge/boinor-feedstock.git
 	path = feedstocks/boinor
 	branch = refs/heads/main
+[submodule "rloop"]
+	url = https://github.com/conda-forge/rloop-feedstock.git
+	path = feedstocks/rloop
+	branch = refs/heads/main
