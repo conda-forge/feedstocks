@@ -99762,3 +99762,7 @@
 	url = https://github.com/conda-forge/hatch-conda-feedstock.git
 	path = feedstocks/hatch-conda
 	branch = refs/heads/main
+[submodule "ms_deisotope"]
+	url = https://github.com/conda-forge/ms_deisotope-feedstock.git
+	path = feedstocks/ms_deisotope
+	branch = refs/heads/main
