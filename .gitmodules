@@ -99778,3 +99778,7 @@
 	url = https://github.com/conda-forge/flagembedding-feedstock.git
 	path = feedstocks/flagembedding
 	branch = refs/heads/main
+[submodule "fast-pytorch-kmeans"]
+	url = https://github.com/conda-forge/fast-pytorch-kmeans-feedstock.git
+	path = feedstocks/fast-pytorch-kmeans
+	branch = refs/heads/main
