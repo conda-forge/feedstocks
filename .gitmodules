@@ -99782,3 +99782,7 @@
 	url = https://github.com/conda-forge/fast-pytorch-kmeans-feedstock.git
 	path = feedstocks/fast-pytorch-kmeans
 	branch = refs/heads/main
+[submodule "cffi-buildtool"]
+	url = https://github.com/conda-forge/cffi-buildtool-feedstock.git
+	path = feedstocks/cffi-buildtool
+	branch = refs/heads/main
