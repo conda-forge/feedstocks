@@ -99838,3 +99838,7 @@
 	url = https://github.com/conda-forge/conda-managed-env-feedstock.git
 	path = feedstocks/conda-managed-env
 	branch = refs/heads/main
+[submodule "vpype"]
+	url = https://github.com/conda-forge/vpype-feedstock.git
+	path = feedstocks/vpype
+	branch = refs/heads/main
