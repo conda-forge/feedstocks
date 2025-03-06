@@ -99826,3 +99826,7 @@
 	url = https://github.com/conda-forge/pydantic-xml-feedstock.git
 	path = feedstocks/pydantic-xml
 	branch = refs/heads/main
+[submodule "python-metatensor-operations"]
+	url = https://github.com/conda-forge/python-metatensor-operations-feedstock.git
+	path = feedstocks/python-metatensor-operations
+	branch = refs/heads/main
