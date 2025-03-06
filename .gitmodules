@@ -99834,3 +99834,7 @@
 	url = https://github.com/conda-forge/langgraph-checkpoint-aws-feedstock.git
 	path = feedstocks/langgraph-checkpoint-aws
 	branch = refs/heads/main
+[submodule "conda-managed-env"]
+	url = https://github.com/conda-forge/conda-managed-env-feedstock.git
+	path = feedstocks/conda-managed-env
+	branch = refs/heads/main
