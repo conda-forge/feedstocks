@@ -99798,3 +99798,7 @@
 	url = https://github.com/conda-forge/wagtail-flexible-forms-feedstock.git
 	path = feedstocks/wagtail-flexible-forms
 	branch = refs/heads/main
+[submodule "pynanoflann"]
+	url = https://github.com/conda-forge/pynanoflann-feedstock.git
+	path = feedstocks/pynanoflann
+	branch = refs/heads/main
