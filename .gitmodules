@@ -99790,3 +99790,7 @@
 	url = https://github.com/conda-forge/sagemaker-studio-dataengineering-extensions-feedstock.git
 	path = feedstocks/sagemaker-studio-dataengineering-extensions
 	branch = refs/heads/main
+[submodule "sagemaker-studio-dataengineering-sessions"]
+	url = https://github.com/conda-forge/sagemaker-studio-dataengineering-sessions-feedstock.git
+	path = feedstocks/sagemaker-studio-dataengineering-sessions
+	branch = refs/heads/main
