@@ -99818,3 +99818,7 @@
 	url = https://github.com/conda-forge/agentarium-feedstock.git
 	path = feedstocks/agentarium
 	branch = refs/heads/main
+[submodule "pyiron_database"]
+	url = https://github.com/conda-forge/pyiron_database-feedstock.git
+	path = feedstocks/pyiron_database
+	branch = refs/heads/main
