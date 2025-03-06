@@ -99810,3 +99810,7 @@
 	url = https://github.com/conda-forge/clio-tools-feedstock.git
 	path = feedstocks/clio-tools
 	branch = refs/heads/main
+[submodule "pnoise"]
+	url = https://github.com/conda-forge/pnoise-feedstock.git
+	path = feedstocks/pnoise
+	branch = refs/heads/main
