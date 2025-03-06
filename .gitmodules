@@ -99814,3 +99814,7 @@
 	url = https://github.com/conda-forge/pnoise-feedstock.git
 	path = feedstocks/pnoise
 	branch = refs/heads/main
+[submodule "agentarium"]
+	url = https://github.com/conda-forge/agentarium-feedstock.git
+	path = feedstocks/agentarium
+	branch = refs/heads/main
