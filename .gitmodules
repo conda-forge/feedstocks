@@ -99802,3 +99802,7 @@
 	url = https://github.com/conda-forge/pynanoflann-feedstock.git
 	path = feedstocks/pynanoflann
 	branch = refs/heads/main
+[submodule "xarray-eopf"]
+	url = https://github.com/conda-forge/xarray-eopf-feedstock.git
+	path = feedstocks/xarray-eopf
+	branch = refs/heads/main
