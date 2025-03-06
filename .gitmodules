@@ -99830,3 +99830,7 @@
 	url = https://github.com/conda-forge/python-metatensor-operations-feedstock.git
 	path = feedstocks/python-metatensor-operations
 	branch = refs/heads/main
+[submodule "langgraph-checkpoint-aws"]
+	url = https://github.com/conda-forge/langgraph-checkpoint-aws-feedstock.git
+	path = feedstocks/langgraph-checkpoint-aws
+	branch = refs/heads/main
