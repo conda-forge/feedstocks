@@ -99786,3 +99786,7 @@
 	url = https://github.com/conda-forge/cffi-buildtool-feedstock.git
 	path = feedstocks/cffi-buildtool
 	branch = refs/heads/main
+[submodule "sagemaker-studio-dataengineering-extensions"]
+	url = https://github.com/conda-forge/sagemaker-studio-dataengineering-extensions-feedstock.git
+	path = feedstocks/sagemaker-studio-dataengineering-extensions
+	branch = refs/heads/main
