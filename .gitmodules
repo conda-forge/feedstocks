@@ -99822,3 +99822,7 @@
 	url = https://github.com/conda-forge/pyiron_database-feedstock.git
 	path = feedstocks/pyiron_database
 	branch = refs/heads/main
+[submodule "pydantic-xml"]
+	url = https://github.com/conda-forge/pydantic-xml-feedstock.git
+	path = feedstocks/pydantic-xml
+	branch = refs/heads/main
