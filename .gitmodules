@@ -99806,3 +99806,7 @@
 	url = https://github.com/conda-forge/xarray-eopf-feedstock.git
 	path = feedstocks/xarray-eopf
 	branch = refs/heads/main
+[submodule "clio-tools"]
+	url = https://github.com/conda-forge/clio-tools-feedstock.git
+	path = feedstocks/clio-tools
+	branch = refs/heads/main
