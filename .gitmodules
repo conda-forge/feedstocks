@@ -99878,3 +99878,7 @@
 	url = https://github.com/conda-forge/nativefiledialog-extended-feedstock.git
 	path = feedstocks/nativefiledialog-extended
 	branch = refs/heads/main
+[submodule "gatsby-cli"]
+	url = https://github.com/conda-forge/gatsby-cli-feedstock.git
+	path = feedstocks/gatsby-cli
+	branch = refs/heads/main
