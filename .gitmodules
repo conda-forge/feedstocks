@@ -99906,3 +99906,7 @@
 	url = https://github.com/conda-forge/pop-feedstock.git
 	path = feedstocks/pop
 	branch = refs/heads/main
+[submodule "superfile"]
+	url = https://github.com/conda-forge/superfile-feedstock.git
+	path = feedstocks/superfile
+	branch = refs/heads/main
