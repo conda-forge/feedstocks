@@ -99890,3 +99890,7 @@
 	url = https://github.com/conda-forge/goreleaser-feedstock.git
 	path = feedstocks/goreleaser
 	branch = refs/heads/main
+[submodule "freeze"]
+	url = https://github.com/conda-forge/freeze-feedstock.git
+	path = feedstocks/freeze
+	branch = refs/heads/main
