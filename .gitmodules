@@ -99914,3 +99914,7 @@
 	url = https://github.com/conda-forge/windmapper-feedstock.git
 	path = feedstocks/windmapper
 	branch = refs/heads/main
+[submodule "xcube-eopf"]
+	url = https://github.com/conda-forge/xcube-eopf-feedstock.git
+	path = feedstocks/xcube-eopf
+	branch = refs/heads/main
