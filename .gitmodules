@@ -99910,3 +99910,7 @@
 	url = https://github.com/conda-forge/superfile-feedstock.git
 	path = feedstocks/superfile
 	branch = refs/heads/main
+[submodule "windmapper"]
+	url = https://github.com/conda-forge/windmapper-feedstock.git
+	path = feedstocks/windmapper
+	branch = refs/heads/main
