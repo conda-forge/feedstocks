@@ -99902,3 +99902,7 @@
 	url = https://github.com/conda-forge/endf-parserpy-feedstock.git
 	path = feedstocks/endf-parserpy
 	branch = refs/heads/main
+[submodule "pop"]
+	url = https://github.com/conda-forge/pop-feedstock.git
+	path = feedstocks/pop
+	branch = refs/heads/main
