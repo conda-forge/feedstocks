@@ -99886,3 +99886,7 @@
 	url = https://github.com/conda-forge/spago-feedstock.git
 	path = feedstocks/spago
 	branch = refs/heads/main
+[submodule "goreleaser"]
+	url = https://github.com/conda-forge/goreleaser-feedstock.git
+	path = feedstocks/goreleaser
+	branch = refs/heads/main
