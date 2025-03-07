@@ -99862,3 +99862,7 @@
 	url = https://github.com/conda-forge/pymaeparser-feedstock.git
 	path = feedstocks/pymaeparser
 	branch = refs/heads/main
+[submodule "gomi"]
+	url = https://github.com/conda-forge/gomi-feedstock.git
+	path = feedstocks/gomi
+	branch = refs/heads/main
