@@ -99882,3 +99882,7 @@
 	url = https://github.com/conda-forge/gatsby-cli-feedstock.git
 	path = feedstocks/gatsby-cli
 	branch = refs/heads/main
+[submodule "spago"]
+	url = https://github.com/conda-forge/spago-feedstock.git
+	path = feedstocks/spago
+	branch = refs/heads/main
