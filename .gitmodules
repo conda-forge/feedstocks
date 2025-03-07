@@ -99894,3 +99894,7 @@
 	url = https://github.com/conda-forge/freeze-feedstock.git
 	path = feedstocks/freeze
 	branch = refs/heads/main
+[submodule "chafa"]
+	url = https://github.com/conda-forge/chafa-feedstock.git
+	path = feedstocks/chafa
+	branch = refs/heads/main
