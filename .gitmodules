@@ -99846,3 +99846,7 @@
 	url = https://github.com/conda-forge/scikit-package-feedstock.git
 	path = feedstocks/scikit-package
 	branch = refs/heads/main
+[submodule "quickbin"]
+	url = https://github.com/conda-forge/quickbin-feedstock.git
+	path = feedstocks/quickbin
+	branch = refs/heads/main
