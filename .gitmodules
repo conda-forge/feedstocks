@@ -99898,3 +99898,7 @@
 	url = https://github.com/conda-forge/chafa-feedstock.git
 	path = feedstocks/chafa
 	branch = refs/heads/main
+[submodule "endf-parserpy"]
+	url = https://github.com/conda-forge/endf-parserpy-feedstock.git
+	path = feedstocks/endf-parserpy
+	branch = refs/heads/main
