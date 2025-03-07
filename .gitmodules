@@ -99854,3 +99854,7 @@
 	url = https://github.com/conda-forge/sequin-feedstock.git
 	path = feedstocks/sequin
 	branch = refs/heads/main
+[submodule "jujutsu"]
+	url = https://github.com/conda-forge/jujutsu-feedstock.git
+	path = feedstocks/jujutsu
+	branch = refs/heads/main
