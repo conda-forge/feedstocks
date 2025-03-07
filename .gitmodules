@@ -99842,3 +99842,7 @@
 	url = https://github.com/conda-forge/vpype-feedstock.git
 	path = feedstocks/vpype
 	branch = refs/heads/main
+[submodule "scikit-package"]
+	url = https://github.com/conda-forge/scikit-package-feedstock.git
+	path = feedstocks/scikit-package
+	branch = refs/heads/main
