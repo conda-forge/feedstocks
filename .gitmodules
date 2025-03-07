@@ -99866,3 +99866,7 @@
 	url = https://github.com/conda-forge/gomi-feedstock.git
 	path = feedstocks/gomi
 	branch = refs/heads/main
+[submodule "mods"]
+	url = https://github.com/conda-forge/mods-feedstock.git
+	path = feedstocks/mods
+	branch = refs/heads/main
