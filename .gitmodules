@@ -99858,3 +99858,7 @@
 	url = https://github.com/conda-forge/jujutsu-feedstock.git
 	path = feedstocks/jujutsu
 	branch = refs/heads/main
+[submodule "pymaeparser"]
+	url = https://github.com/conda-forge/pymaeparser-feedstock.git
+	path = feedstocks/pymaeparser
+	branch = refs/heads/main
