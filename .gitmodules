@@ -99934,3 +99934,7 @@
 	url = https://github.com/conda-forge/typing-inspection-feedstock.git
 	path = feedstocks/typing-inspection
 	branch = refs/heads/main
+[submodule "litestream"]
+	url = https://github.com/conda-forge/litestream-feedstock.git
+	path = feedstocks/litestream
+	branch = refs/heads/main
