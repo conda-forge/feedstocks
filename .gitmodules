@@ -99930,3 +99930,7 @@
 	url = https://github.com/conda-forge/pythonfmu3-feedstock.git
 	path = feedstocks/pythonfmu3
 	branch = refs/heads/main
+[submodule "typing-inspection"]
+	url = https://github.com/conda-forge/typing-inspection-feedstock.git
+	path = feedstocks/typing-inspection
+	branch = refs/heads/main
