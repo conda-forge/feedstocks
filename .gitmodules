@@ -99962,3 +99962,7 @@
 	url = https://github.com/conda-forge/proxychains-ng-feedstock.git
 	path = feedstocks/proxychains-ng
 	branch = refs/heads/main
+[submodule "cargo-insta"]
+	url = https://github.com/conda-forge/cargo-insta-feedstock.git
+	path = feedstocks/cargo-insta
+	branch = refs/heads/main
