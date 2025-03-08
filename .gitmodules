@@ -99958,3 +99958,7 @@
 	url = https://github.com/conda-forge/sphericart-feedstock.git
 	path = feedstocks/sphericart
 	branch = refs/heads/main
+[submodule "proxychains-ng"]
+	url = https://github.com/conda-forge/proxychains-ng-feedstock.git
+	path = feedstocks/proxychains-ng
+	branch = refs/heads/main
