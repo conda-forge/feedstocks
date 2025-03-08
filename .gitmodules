@@ -99970,3 +99970,7 @@
 	url = https://github.com/conda-forge/dialog-feedstock.git
 	path = feedstocks/dialog
 	branch = refs/heads/main
+[submodule "cppad-mixed"]
+	url = https://github.com/conda-forge/cppad-mixed-feedstock.git
+	path = feedstocks/cppad-mixed
+	branch = refs/heads/main
