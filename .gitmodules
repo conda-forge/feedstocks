@@ -99950,3 +99950,7 @@
 	url = https://github.com/conda-forge/awk-feedstock.git
 	path = feedstocks/awk
 	branch = refs/heads/main
+[submodule "dlt-pendulum"]
+	url = https://github.com/conda-forge/dlt-pendulum-feedstock.git
+	path = feedstocks/dlt-pendulum
+	branch = refs/heads/main
