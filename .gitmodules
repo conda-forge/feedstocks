@@ -99966,3 +99966,7 @@
 	url = https://github.com/conda-forge/cargo-insta-feedstock.git
 	path = feedstocks/cargo-insta
 	branch = refs/heads/main
+[submodule "dialog"]
+	url = https://github.com/conda-forge/dialog-feedstock.git
+	path = feedstocks/dialog
+	branch = refs/heads/main
