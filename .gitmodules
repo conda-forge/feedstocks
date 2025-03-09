@@ -99982,3 +99982,7 @@
 	url = https://github.com/conda-forge/lytekit-feedstock.git
 	path = feedstocks/lytekit
 	branch = refs/heads/main
+[submodule "wadler-lindig"]
+	url = https://github.com/conda-forge/wadler-lindig-feedstock.git
+	path = feedstocks/wadler-lindig
+	branch = refs/heads/main
