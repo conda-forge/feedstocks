@@ -99986,3 +99986,7 @@
 	url = https://github.com/conda-forge/wadler-lindig-feedstock.git
 	path = feedstocks/wadler-lindig
 	branch = refs/heads/main
+[submodule "anaconda-auth"]
+	url = https://github.com/conda-forge/anaconda-auth-feedstock.git
+	path = feedstocks/anaconda-auth
+	branch = refs/heads/main
