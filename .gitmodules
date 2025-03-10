@@ -100010,3 +100010,7 @@
 	url = https://github.com/conda-forge/daft-pgm-feedstock.git
 	path = feedstocks/daft-pgm
 	branch = refs/heads/main
+[submodule "hvsampledata"]
+	url = https://github.com/conda-forge/hvsampledata-feedstock.git
+	path = feedstocks/hvsampledata
+	branch = refs/heads/main
