@@ -100022,3 +100022,7 @@
 	url = https://github.com/conda-forge/mcp-feedstock.git
 	path = feedstocks/mcp
 	branch = refs/heads/main
+[submodule "anaconda-assistant-sdk"]
+	url = https://github.com/conda-forge/anaconda-assistant-sdk-feedstock.git
+	path = feedstocks/anaconda-assistant-sdk
+	branch = refs/heads/main
