@@ -100002,3 +100002,7 @@
 	url = https://github.com/conda-forge/lytekitplugins-pods-feedstock.git
 	path = feedstocks/lytekitplugins-pods
 	branch = refs/heads/main
+[submodule "geohexgrid"]
+	url = https://github.com/conda-forge/geohexgrid-feedstock.git
+	path = feedstocks/geohexgrid
+	branch = refs/heads/main
