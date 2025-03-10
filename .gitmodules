@@ -99994,3 +99994,7 @@
 	url = https://github.com/conda-forge/pyflextrkr-feedstock.git
 	path = feedstocks/pyflextrkr
 	branch = refs/heads/main
+[submodule "ccxt-py"]
+	url = https://github.com/conda-forge/ccxt-py-feedstock.git
+	path = feedstocks/ccxt-py
+	branch = refs/heads/main
