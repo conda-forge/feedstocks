@@ -100026,3 +100026,7 @@
 	url = https://github.com/conda-forge/anaconda-assistant-sdk-feedstock.git
 	path = feedstocks/anaconda-assistant-sdk
 	branch = refs/heads/main
+[submodule "anaconda-assistant-conda"]
+	url = https://github.com/conda-forge/anaconda-assistant-conda-feedstock.git
+	path = feedstocks/anaconda-assistant-conda
+	branch = refs/heads/main
