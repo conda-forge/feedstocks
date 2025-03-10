@@ -100018,3 +100018,7 @@
 	url = https://github.com/conda-forge/rte_rrtmgp-feedstock.git
 	path = feedstocks/rte_rrtmgp
 	branch = refs/heads/main
+[submodule "mcp"]
+	url = https://github.com/conda-forge/mcp-feedstock.git
+	path = feedstocks/mcp
+	branch = refs/heads/main
