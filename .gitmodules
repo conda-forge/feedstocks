@@ -100014,3 +100014,7 @@
 	url = https://github.com/conda-forge/hvsampledata-feedstock.git
 	path = feedstocks/hvsampledata
 	branch = refs/heads/main
+[submodule "rte_rrtmgp"]
+	url = https://github.com/conda-forge/rte_rrtmgp-feedstock.git
+	path = feedstocks/rte_rrtmgp
+	branch = refs/heads/main
