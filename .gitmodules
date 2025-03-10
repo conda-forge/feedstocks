@@ -100006,3 +100006,7 @@
 	url = https://github.com/conda-forge/geohexgrid-feedstock.git
 	path = feedstocks/geohexgrid
 	branch = refs/heads/main
+[submodule "daft-pgm"]
+	url = https://github.com/conda-forge/daft-pgm-feedstock.git
+	path = feedstocks/daft-pgm
+	branch = refs/heads/main
