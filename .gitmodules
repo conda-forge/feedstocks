@@ -100046,3 +100046,7 @@
 	url = https://github.com/conda-forge/elk-feedstock.git
 	path = feedstocks/elk
 	branch = refs/heads/main
+[submodule "biomechanical-analysis-framework"]
+	url = https://github.com/conda-forge/biomechanical-analysis-framework-feedstock.git
+	path = feedstocks/biomechanical-analysis-framework
+	branch = refs/heads/main
