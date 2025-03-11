@@ -100042,3 +100042,7 @@
 	url = https://github.com/conda-forge/poethepoet-feedstock.git
 	path = feedstocks/poethepoet
 	branch = refs/heads/main
+[submodule "elk"]
+	url = https://github.com/conda-forge/elk-feedstock.git
+	path = feedstocks/elk
+	branch = refs/heads/main
