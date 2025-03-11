@@ -100034,3 +100034,7 @@
 	url = https://github.com/conda-forge/fastapi-zitadel-auth-feedstock.git
 	path = feedstocks/fastapi-zitadel-auth
 	branch = refs/heads/main
+[submodule "dbcsr"]
+	url = https://github.com/conda-forge/dbcsr-feedstock.git
+	path = feedstocks/dbcsr
+	branch = refs/heads/main
