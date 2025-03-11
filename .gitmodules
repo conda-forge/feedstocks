@@ -100030,3 +100030,7 @@
 	url = https://github.com/conda-forge/anaconda-assistant-conda-feedstock.git
 	path = feedstocks/anaconda-assistant-conda
 	branch = refs/heads/main
+[submodule "fastapi-zitadel-auth"]
+	url = https://github.com/conda-forge/fastapi-zitadel-auth-feedstock.git
+	path = feedstocks/fastapi-zitadel-auth
+	branch = refs/heads/main
