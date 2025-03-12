@@ -100118,3 +100118,7 @@
 	url = https://github.com/conda-forge/r-slidecna-feedstock.git
 	path = feedstocks/r-slidecna
 	branch = refs/heads/main
+[submodule "pyschism"]
+	url = https://github.com/conda-forge/pyschism-feedstock.git
+	path = feedstocks/pyschism
+	branch = refs/heads/main
