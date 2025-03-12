@@ -100106,3 +100106,7 @@
 	url = https://github.com/conda-forge/audioop-lts-feedstock.git
 	path = feedstocks/audioop-lts
 	branch = refs/heads/main
+[submodule "standard-chunk"]
+	url = https://github.com/conda-forge/standard-chunk-feedstock.git
+	path = feedstocks/standard-chunk
+	branch = refs/heads/main
