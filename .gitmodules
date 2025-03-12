@@ -100122,3 +100122,7 @@
 	url = https://github.com/conda-forge/pyschism-feedstock.git
 	path = feedstocks/pyschism
 	branch = refs/heads/main
+[submodule "veg2hab"]
+	url = https://github.com/conda-forge/veg2hab-feedstock.git
+	path = feedstocks/veg2hab
+	branch = refs/heads/main
