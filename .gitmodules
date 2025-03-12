@@ -100086,3 +100086,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-sts-feedstock.git
 	path = feedstocks/mypy-boto3-sts
 	branch = refs/heads/main
+[submodule "svg2tikz"]
+	url = https://github.com/conda-forge/svg2tikz-feedstock.git
+	path = feedstocks/svg2tikz
+	branch = refs/heads/main
