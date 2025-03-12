@@ -100110,3 +100110,7 @@
 	url = https://github.com/conda-forge/standard-chunk-feedstock.git
 	path = feedstocks/standard-chunk
 	branch = refs/heads/main
+[submodule "standard-aifc"]
+	url = https://github.com/conda-forge/standard-aifc-feedstock.git
+	path = feedstocks/standard-aifc
+	branch = refs/heads/main
