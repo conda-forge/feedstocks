@@ -100082,3 +100082,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-kinesis-feedstock.git
 	path = feedstocks/mypy-boto3-kinesis
 	branch = refs/heads/main
+[submodule "mypy-boto3-sts"]
+	url = https://github.com/conda-forge/mypy-boto3-sts-feedstock.git
+	path = feedstocks/mypy-boto3-sts
+	branch = refs/heads/main
