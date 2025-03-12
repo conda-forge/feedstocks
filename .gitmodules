@@ -100102,3 +100102,7 @@
 	url = https://github.com/conda-forge/standard-sunau-feedstock.git
 	path = feedstocks/standard-sunau
 	branch = refs/heads/main
+[submodule "audioop-lts"]
+	url = https://github.com/conda-forge/audioop-lts-feedstock.git
+	path = feedstocks/audioop-lts
+	branch = refs/heads/main
