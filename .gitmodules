@@ -100094,3 +100094,7 @@
 	url = https://github.com/conda-forge/inkex-feedstock.git
 	path = feedstocks/inkex
 	branch = refs/heads/main
+[submodule "py-markdown-table"]
+	url = https://github.com/conda-forge/py-markdown-table-feedstock.git
+	path = feedstocks/py-markdown-table
+	branch = refs/heads/main
