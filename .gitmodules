@@ -100090,3 +100090,7 @@
 	url = https://github.com/conda-forge/svg2tikz-feedstock.git
 	path = feedstocks/svg2tikz
 	branch = refs/heads/main
+[submodule "inkex"]
+	url = https://github.com/conda-forge/inkex-feedstock.git
+	path = feedstocks/inkex
+	branch = refs/heads/main
