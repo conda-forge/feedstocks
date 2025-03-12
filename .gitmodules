@@ -100050,3 +100050,7 @@
 	url = https://github.com/conda-forge/biomechanical-analysis-framework-feedstock.git
 	path = feedstocks/biomechanical-analysis-framework
 	branch = refs/heads/main
+[submodule "fastfetch"]
+	url = https://github.com/conda-forge/fastfetch-feedstock.git
+	path = feedstocks/fastfetch
+	branch = refs/heads/main
