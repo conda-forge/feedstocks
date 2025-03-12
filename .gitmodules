@@ -100074,3 +100074,7 @@
 	url = https://github.com/conda-forge/reportengine-feedstock.git
 	path = feedstocks/reportengine
 	branch = refs/heads/main
+[submodule "rlic"]
+	url = https://github.com/conda-forge/rlic-feedstock.git
+	path = feedstocks/rlic
+	branch = refs/heads/main
