@@ -100062,3 +100062,7 @@
 	url = https://github.com/conda-forge/sceua-feedstock.git
 	path = feedstocks/sceua
 	branch = refs/heads/main
+[submodule "openai-agents"]
+	url = https://github.com/conda-forge/openai-agents-feedstock.git
+	path = feedstocks/openai-agents
+	branch = refs/heads/main
