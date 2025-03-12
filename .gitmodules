@@ -100058,3 +100058,7 @@
 	url = https://github.com/conda-forge/opensearch-feedstock.git
 	path = feedstocks/opensearch
 	branch = refs/heads/main
+[submodule "sceua"]
+	url = https://github.com/conda-forge/sceua-feedstock.git
+	path = feedstocks/sceua
+	branch = refs/heads/main
