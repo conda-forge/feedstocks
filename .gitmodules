@@ -100070,3 +100070,7 @@
 	url = https://github.com/conda-forge/session-info2-feedstock.git
 	path = feedstocks/session-info2
 	branch = refs/heads/main
+[submodule "reportengine"]
+	url = https://github.com/conda-forge/reportengine-feedstock.git
+	path = feedstocks/reportengine
+	branch = refs/heads/main
