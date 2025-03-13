@@ -100130,3 +100130,7 @@
 	url = https://github.com/conda-forge/r-yyjsonr-feedstock.git
 	path = feedstocks/r-yyjsonr
 	branch = refs/heads/main
+[submodule "hypothesmith"]
+	url = https://github.com/conda-forge/hypothesmith-feedstock.git
+	path = feedstocks/hypothesmith
+	branch = refs/heads/main
