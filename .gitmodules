@@ -100146,3 +100146,7 @@
 	url = https://github.com/conda-forge/tools4rdf-feedstock.git
 	path = feedstocks/tools4rdf
 	branch = refs/heads/main
+[submodule "prismatique"]
+	url = https://github.com/conda-forge/prismatique-feedstock.git
+	path = feedstocks/prismatique
+	branch = refs/heads/main
