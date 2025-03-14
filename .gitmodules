@@ -100138,3 +100138,7 @@
 	url = https://github.com/conda-forge/felyx-distributed-feedstock.git
 	path = feedstocks/felyx-distributed
 	branch = refs/heads/main
+[submodule "hazardous"]
+	url = https://github.com/conda-forge/hazardous-feedstock.git
+	path = feedstocks/hazardous
+	branch = refs/heads/main
