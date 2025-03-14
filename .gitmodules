@@ -100142,3 +100142,7 @@
 	url = https://github.com/conda-forge/hazardous-feedstock.git
 	path = feedstocks/hazardous
 	branch = refs/heads/main
+[submodule "tools4rdf"]
+	url = https://github.com/conda-forge/tools4rdf-feedstock.git
+	path = feedstocks/tools4rdf
+	branch = refs/heads/main
