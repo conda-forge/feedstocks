@@ -100150,3 +100150,7 @@
 	url = https://github.com/conda-forge/prismatique-feedstock.git
 	path = feedstocks/prismatique
 	branch = refs/heads/main
+[submodule "batched"]
+	url = https://github.com/conda-forge/batched-feedstock.git
+	path = feedstocks/batched
+	branch = refs/heads/main
