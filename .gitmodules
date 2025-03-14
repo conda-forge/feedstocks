@@ -100134,3 +100134,7 @@
 	url = https://github.com/conda-forge/hypothesmith-feedstock.git
 	path = feedstocks/hypothesmith
 	branch = refs/heads/main
+[submodule "felyx-distributed"]
+	url = https://github.com/conda-forge/felyx-distributed-feedstock.git
+	path = feedstocks/felyx-distributed
+	branch = refs/heads/main
