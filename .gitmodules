@@ -100154,3 +100154,7 @@
 	url = https://github.com/conda-forge/batched-feedstock.git
 	path = feedstocks/batched
 	branch = refs/heads/main
+[submodule "r-tablehtml"]
+	url = https://github.com/conda-forge/r-tablehtml-feedstock.git
+	path = feedstocks/r-tablehtml
+	branch = refs/heads/main
