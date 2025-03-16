@@ -100174,3 +100174,7 @@
 	url = https://github.com/conda-forge/cherab-lhd-feedstock.git
 	path = feedstocks/cherab-lhd
 	branch = refs/heads/main
+[submodule "hatch-cython"]
+	url = https://github.com/conda-forge/hatch-cython-feedstock.git
+	path = feedstocks/hatch-cython
+	branch = refs/heads/main
