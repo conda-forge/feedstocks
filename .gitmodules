@@ -100206,3 +100206,7 @@
 	url = https://github.com/conda-forge/fsdgenfsd-feedstock.git
 	path = feedstocks/fsdgenfsd
 	branch = refs/heads/main
+[submodule "mandown"]
+	url = https://github.com/conda-forge/mandown-feedstock.git
+	path = feedstocks/mandown
+	branch = refs/heads/main
