@@ -100238,3 +100238,7 @@
 	url = https://github.com/conda-forge/mxbai-rerank-feedstock.git
 	path = feedstocks/mxbai-rerank
 	branch = refs/heads/main
+[submodule "csp-adapter-discord"]
+	url = https://github.com/conda-forge/csp-adapter-discord-feedstock.git
+	path = feedstocks/csp-adapter-discord
+	branch = refs/heads/main
