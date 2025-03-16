@@ -100158,3 +100158,7 @@
 	url = https://github.com/conda-forge/r-tablehtml-feedstock.git
 	path = feedstocks/r-tablehtml
 	branch = refs/heads/main
+[submodule "rainfrog"]
+	url = https://github.com/conda-forge/rainfrog-feedstock.git
+	path = feedstocks/rainfrog
+	branch = refs/heads/main
