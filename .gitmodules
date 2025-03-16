@@ -100186,3 +100186,7 @@
 	url = https://github.com/conda-forge/doppler-cli-feedstock.git
 	path = feedstocks/doppler-cli
 	branch = refs/heads/main
+[submodule "charasay"]
+	url = https://github.com/conda-forge/charasay-feedstock.git
+	path = feedstocks/charasay
+	branch = refs/heads/main
