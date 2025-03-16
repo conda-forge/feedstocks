@@ -100222,3 +100222,7 @@
 	url = https://github.com/conda-forge/schema-engine-cli-feedstock.git
 	path = feedstocks/schema-engine-cli
 	branch = refs/heads/main
+[submodule "lightningcss"]
+	url = https://github.com/conda-forge/lightningcss-feedstock.git
+	path = feedstocks/lightningcss
+	branch = refs/heads/main
