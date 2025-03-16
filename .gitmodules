@@ -100198,3 +100198,7 @@
 	url = https://github.com/conda-forge/aqua-feedstock.git
 	path = feedstocks/aqua
 	branch = refs/heads/main
+[submodule "ejson"]
+	url = https://github.com/conda-forge/ejson-feedstock.git
+	path = feedstocks/ejson
+	branch = refs/heads/main
