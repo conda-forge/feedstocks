@@ -100166,3 +100166,7 @@
 	url = https://github.com/conda-forge/yash-feedstock.git
 	path = feedstocks/yash
 	branch = refs/heads/main
+[submodule "afni"]
+	url = https://github.com/conda-forge/afni-feedstock.git
+	path = feedstocks/afni
+	branch = refs/heads/main
