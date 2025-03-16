@@ -100226,3 +100226,7 @@
 	url = https://github.com/conda-forge/lightningcss-feedstock.git
 	path = feedstocks/lightningcss
 	branch = refs/heads/main
+[submodule "osc"]
+	url = https://github.com/conda-forge/osc-feedstock.git
+	path = feedstocks/osc
+	branch = refs/heads/main
