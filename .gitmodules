@@ -100234,3 +100234,7 @@
 	url = https://github.com/conda-forge/turbopack-cli-feedstock.git
 	path = feedstocks/turbopack-cli
 	branch = refs/heads/main
+[submodule "mxbai-rerank"]
+	url = https://github.com/conda-forge/mxbai-rerank-feedstock.git
+	path = feedstocks/mxbai-rerank
+	branch = refs/heads/main
