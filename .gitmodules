@@ -100178,3 +100178,7 @@
 	url = https://github.com/conda-forge/hatch-cython-feedstock.git
 	path = feedstocks/hatch-cython
 	branch = refs/heads/main
+[submodule "botsay"]
+	url = https://github.com/conda-forge/botsay-feedstock.git
+	path = feedstocks/botsay
+	branch = refs/heads/main
