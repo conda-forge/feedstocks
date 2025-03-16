@@ -100190,3 +100190,7 @@
 	url = https://github.com/conda-forge/charasay-feedstock.git
 	path = feedstocks/charasay
 	branch = refs/heads/main
+[submodule "qemu-execve"]
+	url = https://github.com/conda-forge/qemu-execve-feedstock.git
+	path = feedstocks/qemu-execve
+	branch = refs/heads/main
