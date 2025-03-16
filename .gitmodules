@@ -100210,3 +100210,7 @@
 	url = https://github.com/conda-forge/mandown-feedstock.git
 	path = feedstocks/mandown
 	branch = refs/heads/main
+[submodule "bicep"]
+	url = https://github.com/conda-forge/bicep-feedstock.git
+	path = feedstocks/bicep
+	branch = refs/heads/main
