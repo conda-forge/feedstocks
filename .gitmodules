@@ -100218,3 +100218,7 @@
 	url = https://github.com/conda-forge/hcp-feedstock.git
 	path = feedstocks/hcp
 	branch = refs/heads/main
+[submodule "schema-engine-cli"]
+	url = https://github.com/conda-forge/schema-engine-cli-feedstock.git
+	path = feedstocks/schema-engine-cli
+	branch = refs/heads/main
