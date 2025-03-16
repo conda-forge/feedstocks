@@ -100182,3 +100182,7 @@
 	url = https://github.com/conda-forge/botsay-feedstock.git
 	path = feedstocks/botsay
 	branch = refs/heads/main
+[submodule "doppler-cli"]
+	url = https://github.com/conda-forge/doppler-cli-feedstock.git
+	path = feedstocks/doppler-cli
+	branch = refs/heads/main
