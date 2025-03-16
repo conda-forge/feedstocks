@@ -100162,3 +100162,7 @@
 	url = https://github.com/conda-forge/rainfrog-feedstock.git
 	path = feedstocks/rainfrog
 	branch = refs/heads/main
+[submodule "yash"]
+	url = https://github.com/conda-forge/yash-feedstock.git
+	path = feedstocks/yash
+	branch = refs/heads/main
