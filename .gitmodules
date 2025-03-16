@@ -100214,3 +100214,7 @@
 	url = https://github.com/conda-forge/bicep-feedstock.git
 	path = feedstocks/bicep
 	branch = refs/heads/main
+[submodule "hcp"]
+	url = https://github.com/conda-forge/hcp-feedstock.git
+	path = feedstocks/hcp
+	branch = refs/heads/main
