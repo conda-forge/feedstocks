@@ -100246,3 +100246,7 @@
 	url = https://github.com/conda-forge/tailestim-feedstock.git
 	path = feedstocks/tailestim
 	branch = refs/heads/main
+[submodule "libjaylink"]
+	url = https://github.com/conda-forge/libjaylink-feedstock.git
+	path = feedstocks/libjaylink
+	branch = refs/heads/main
