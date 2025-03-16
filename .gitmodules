@@ -100170,3 +100170,7 @@
 	url = https://github.com/conda-forge/afni-feedstock.git
 	path = feedstocks/afni
 	branch = refs/heads/main
+[submodule "cherab-lhd"]
+	url = https://github.com/conda-forge/cherab-lhd-feedstock.git
+	path = feedstocks/cherab-lhd
+	branch = refs/heads/main
