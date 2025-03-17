@@ -100370,3 +100370,7 @@
 	url = https://github.com/conda-forge/gitlint-core-feedstock.git
 	path = feedstocks/gitlint-core
 	branch = refs/heads/main
+[submodule "django-template-lsp"]
+	url = https://github.com/conda-forge/django-template-lsp-feedstock.git
+	path = feedstocks/django-template-lsp
+	branch = refs/heads/main
