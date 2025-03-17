@@ -100374,3 +100374,7 @@
 	url = https://github.com/conda-forge/django-template-lsp-feedstock.git
 	path = feedstocks/django-template-lsp
 	branch = refs/heads/main
+[submodule "gersemi"]
+	url = https://github.com/conda-forge/gersemi-feedstock.git
+	path = feedstocks/gersemi
+	branch = refs/heads/main
