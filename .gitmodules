@@ -100298,3 +100298,7 @@
 	url = https://github.com/conda-forge/purs-backend-erl-feedstock.git
 	path = feedstocks/purs-backend-erl
 	branch = refs/heads/main
+[submodule "semantic-release"]
+	url = https://github.com/conda-forge/semantic-release-feedstock.git
+	path = feedstocks/semantic-release
+	branch = refs/heads/main
