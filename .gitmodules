@@ -100294,3 +100294,7 @@
 	url = https://github.com/conda-forge/preconstruct-feedstock.git
 	path = feedstocks/preconstruct
 	branch = refs/heads/main
+[submodule "purs-backend-erl"]
+	url = https://github.com/conda-forge/purs-backend-erl-feedstock.git
+	path = feedstocks/purs-backend-erl
+	branch = refs/heads/main
