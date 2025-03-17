@@ -100282,3 +100282,7 @@
 	url = https://github.com/conda-forge/purs-backend-es-feedstock.git
 	path = feedstocks/purs-backend-es
 	branch = refs/heads/main
+[submodule "dxfuse"]
+	url = https://github.com/conda-forge/dxfuse-feedstock.git
+	path = feedstocks/dxfuse
+	branch = refs/heads/main
