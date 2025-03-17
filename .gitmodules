@@ -100354,3 +100354,7 @@
 	url = https://github.com/conda-forge/ansicolor-feedstock.git
 	path = feedstocks/ansicolor
 	branch = refs/heads/main
+[submodule "bibparse"]
+	url = https://github.com/conda-forge/bibparse-feedstock.git
+	path = feedstocks/bibparse
+	branch = refs/heads/main
