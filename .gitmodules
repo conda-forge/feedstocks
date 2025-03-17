@@ -100270,3 +100270,7 @@
 	url = https://github.com/conda-forge/capacitor-cli-feedstock.git
 	path = feedstocks/capacitor-cli
 	branch = refs/heads/main
+[submodule "purs-tidy"]
+	url = https://github.com/conda-forge/purs-tidy-feedstock.git
+	path = feedstocks/purs-tidy
+	branch = refs/heads/main
