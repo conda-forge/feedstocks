@@ -100266,3 +100266,7 @@
 	url = https://github.com/conda-forge/purescript-language-server-feedstock.git
 	path = feedstocks/purescript-language-server
 	branch = refs/heads/main
+[submodule "capacitor-cli"]
+	url = https://github.com/conda-forge/capacitor-cli-feedstock.git
+	path = feedstocks/capacitor-cli
+	branch = refs/heads/main
