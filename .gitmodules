@@ -100262,3 +100262,7 @@
 	url = https://github.com/conda-forge/rb-matrix-feedstock.git
 	path = feedstocks/rb-matrix
 	branch = refs/heads/main
+[submodule "purescript-language-server"]
+	url = https://github.com/conda-forge/purescript-language-server-feedstock.git
+	path = feedstocks/purescript-language-server
+	branch = refs/heads/main
