@@ -100366,3 +100366,7 @@
 	url = https://github.com/conda-forge/ffi-navigator-feedstock.git
 	path = feedstocks/ffi-navigator
 	branch = refs/heads/main
+[submodule "gitlint-core"]
+	url = https://github.com/conda-forge/gitlint-core-feedstock.git
+	path = feedstocks/gitlint-core
+	branch = refs/heads/main
