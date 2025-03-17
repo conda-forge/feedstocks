@@ -100350,3 +100350,7 @@
 	url = https://github.com/conda-forge/neovim-remote-feedstock.git
 	path = feedstocks/neovim-remote
 	branch = refs/heads/main
+[submodule "ansicolor"]
+	url = https://github.com/conda-forge/ansicolor-feedstock.git
+	path = feedstocks/ansicolor
+	branch = refs/heads/main
