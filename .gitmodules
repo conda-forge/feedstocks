@@ -100250,3 +100250,7 @@
 	url = https://github.com/conda-forge/libjaylink-feedstock.git
 	path = feedstocks/libjaylink
 	branch = refs/heads/main
+[submodule "isim"]
+	url = https://github.com/conda-forge/isim-feedstock.git
+	path = feedstocks/isim
+	branch = refs/heads/main
