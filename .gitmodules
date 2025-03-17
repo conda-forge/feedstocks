@@ -100290,3 +100290,7 @@
 	url = https://github.com/conda-forge/kotlin-debug-adapter-feedstock.git
 	path = feedstocks/kotlin-debug-adapter
 	branch = refs/heads/main
+[submodule "preconstruct"]
+	url = https://github.com/conda-forge/preconstruct-feedstock.git
+	path = feedstocks/preconstruct
+	branch = refs/heads/main
