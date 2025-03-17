@@ -100310,3 +100310,7 @@
 	url = https://github.com/conda-forge/holoscan-feedstock.git
 	path = feedstocks/holoscan
 	branch = refs/heads/main
+[submodule "iqplot"]
+	url = https://github.com/conda-forge/iqplot-feedstock.git
+	path = feedstocks/iqplot
+	branch = refs/heads/main
