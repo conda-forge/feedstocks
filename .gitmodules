@@ -100338,3 +100338,7 @@
 	url = https://github.com/conda-forge/torch-geometric-feedstock.git
 	path = feedstocks/torch-geometric
 	branch = refs/heads/main
+[submodule "parq2csv"]
+	url = https://github.com/conda-forge/parq2csv-feedstock.git
+	path = feedstocks/parq2csv
+	branch = refs/heads/main
