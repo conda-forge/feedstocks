@@ -100286,3 +100286,7 @@
 	url = https://github.com/conda-forge/dxfuse-feedstock.git
 	path = feedstocks/dxfuse
 	branch = refs/heads/main
+[submodule "kotlin-debug-adapter"]
+	url = https://github.com/conda-forge/kotlin-debug-adapter-feedstock.git
+	path = feedstocks/kotlin-debug-adapter
+	branch = refs/heads/main
