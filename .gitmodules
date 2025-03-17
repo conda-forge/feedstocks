@@ -100302,3 +100302,7 @@
 	url = https://github.com/conda-forge/semantic-release-feedstock.git
 	path = feedstocks/semantic-release
 	branch = refs/heads/main
+[submodule "civet"]
+	url = https://github.com/conda-forge/civet-feedstock.git
+	path = feedstocks/civet
+	branch = refs/heads/main
