@@ -100362,3 +100362,7 @@
 	url = https://github.com/conda-forge/pyhpo-feedstock.git
 	path = feedstocks/pyhpo
 	branch = refs/heads/main
+[submodule "ffi-navigator"]
+	url = https://github.com/conda-forge/ffi-navigator-feedstock.git
+	path = feedstocks/ffi-navigator
+	branch = refs/heads/main
