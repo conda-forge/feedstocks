@@ -100254,3 +100254,7 @@
 	url = https://github.com/conda-forge/isim-feedstock.git
 	path = feedstocks/isim
 	branch = refs/heads/main
+[submodule "femtoscope"]
+	url = https://github.com/conda-forge/femtoscope-feedstock.git
+	path = feedstocks/femtoscope
+	branch = refs/heads/main
