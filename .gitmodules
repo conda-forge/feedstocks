@@ -100346,3 +100346,7 @@
 	url = https://github.com/conda-forge/dtrx-feedstock.git
 	path = feedstocks/dtrx
 	branch = refs/heads/main
+[submodule "neovim-remote"]
+	url = https://github.com/conda-forge/neovim-remote-feedstock.git
+	path = feedstocks/neovim-remote
+	branch = refs/heads/main
