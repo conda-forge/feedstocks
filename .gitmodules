@@ -100322,3 +100322,7 @@
 	url = https://github.com/conda-forge/xmlformatter-feedstock.git
 	path = feedstocks/xmlformatter
 	branch = refs/heads/main
+[submodule "cmigemo"]
+	url = https://github.com/conda-forge/cmigemo-feedstock.git
+	path = feedstocks/cmigemo
+	branch = refs/heads/main
