@@ -100306,3 +100306,7 @@
 	url = https://github.com/conda-forge/civet-feedstock.git
 	path = feedstocks/civet
 	branch = refs/heads/main
+[submodule "holoscan"]
+	url = https://github.com/conda-forge/holoscan-feedstock.git
+	path = feedstocks/holoscan
+	branch = refs/heads/main
