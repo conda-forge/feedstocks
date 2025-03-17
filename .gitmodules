@@ -100358,3 +100358,7 @@
 	url = https://github.com/conda-forge/bibparse-feedstock.git
 	path = feedstocks/bibparse
 	branch = refs/heads/main
+[submodule "pyhpo"]
+	url = https://github.com/conda-forge/pyhpo-feedstock.git
+	path = feedstocks/pyhpo
+	branch = refs/heads/main
