@@ -100258,3 +100258,7 @@
 	url = https://github.com/conda-forge/femtoscope-feedstock.git
 	path = feedstocks/femtoscope
 	branch = refs/heads/main
+[submodule "rb-matrix"]
+	url = https://github.com/conda-forge/rb-matrix-feedstock.git
+	path = feedstocks/rb-matrix
+	branch = refs/heads/main
