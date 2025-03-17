@@ -100382,3 +100382,7 @@
 	url = https://github.com/conda-forge/ocdc-feedstock.git
 	path = feedstocks/ocdc
 	branch = refs/heads/main
+[submodule "pycp"]
+	url = https://github.com/conda-forge/pycp-feedstock.git
+	path = feedstocks/pycp
+	branch = refs/heads/main
