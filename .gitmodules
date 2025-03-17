@@ -100334,3 +100334,7 @@
 	url = https://github.com/conda-forge/maison-feedstock.git
 	path = feedstocks/maison
 	branch = refs/heads/main
+[submodule "torch-geometric"]
+	url = https://github.com/conda-forge/torch-geometric-feedstock.git
+	path = feedstocks/torch-geometric
+	branch = refs/heads/main
