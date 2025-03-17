@@ -100314,3 +100314,7 @@
 	url = https://github.com/conda-forge/iqplot-feedstock.git
 	path = feedstocks/iqplot
 	branch = refs/heads/main
+[submodule "cmake-language-server"]
+	url = https://github.com/conda-forge/cmake-language-server-feedstock.git
+	path = feedstocks/cmake-language-server
+	branch = refs/heads/main
