@@ -100278,3 +100278,7 @@
 	url = https://github.com/conda-forge/python-blockbuster-feedstock.git
 	path = feedstocks/python-blockbuster
 	branch = refs/heads/main
+[submodule "purs-backend-es"]
+	url = https://github.com/conda-forge/purs-backend-es-feedstock.git
+	path = feedstocks/purs-backend-es
+	branch = refs/heads/main
