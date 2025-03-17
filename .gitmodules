@@ -100318,3 +100318,7 @@
 	url = https://github.com/conda-forge/cmake-language-server-feedstock.git
 	path = feedstocks/cmake-language-server
 	branch = refs/heads/main
+[submodule "xmlformatter"]
+	url = https://github.com/conda-forge/xmlformatter-feedstock.git
+	path = feedstocks/xmlformatter
+	branch = refs/heads/main
