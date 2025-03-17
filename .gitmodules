@@ -100330,3 +100330,7 @@
 	url = https://github.com/conda-forge/multicor_fa-feedstock.git
 	path = feedstocks/multicor_fa
 	branch = refs/heads/main
+[submodule "maison"]
+	url = https://github.com/conda-forge/maison-feedstock.git
+	path = feedstocks/maison
+	branch = refs/heads/main
