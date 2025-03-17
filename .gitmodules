@@ -100378,3 +100378,7 @@
 	url = https://github.com/conda-forge/gersemi-feedstock.git
 	path = feedstocks/gersemi
 	branch = refs/heads/main
+[submodule "ocdc"]
+	url = https://github.com/conda-forge/ocdc-feedstock.git
+	path = feedstocks/ocdc
+	branch = refs/heads/main
