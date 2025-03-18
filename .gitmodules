@@ -100386,3 +100386,7 @@
 	url = https://github.com/conda-forge/pycp-feedstock.git
 	path = feedstocks/pycp
 	branch = refs/heads/main
+[submodule "mkcert"]
+	url = https://github.com/conda-forge/mkcert-feedstock.git
+	path = feedstocks/mkcert
+	branch = refs/heads/main
