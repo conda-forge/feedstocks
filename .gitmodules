@@ -100510,3 +100510,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-threading-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-threading
 	branch = refs/heads/main
+[submodule "syncer"]
+	url = https://github.com/conda-forge/syncer-feedstock.git
+	path = feedstocks/syncer
+	branch = refs/heads/main
