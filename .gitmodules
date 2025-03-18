@@ -100474,3 +100474,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-vertexai-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-vertexai
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-bedrock"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-bedrock-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-bedrock
+	branch = refs/heads/main
