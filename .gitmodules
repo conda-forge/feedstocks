@@ -100406,3 +100406,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-mistralai-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-mistralai
 	branch = refs/heads/main
+[submodule "literalai"]
+	url = https://github.com/conda-forge/literalai-feedstock.git
+	path = feedstocks/literalai
+	branch = refs/heads/main
