@@ -100494,3 +100494,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-crewai-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-crewai
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-cohere"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-cohere-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-cohere
+	branch = refs/heads/main
