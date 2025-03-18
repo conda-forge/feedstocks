@@ -100430,3 +100430,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-google-generativeai-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-google-generativeai
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-milvus"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-milvus-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-milvus
+	branch = refs/heads/main
