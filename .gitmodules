@@ -100522,3 +100522,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-langchain-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-langchain
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-watsonx"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-watsonx-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-watsonx
+	branch = refs/heads/main
