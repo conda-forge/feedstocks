@@ -100442,3 +100442,7 @@
 	url = https://github.com/conda-forge/opentelemetry-semantic-conventions-ai-feedstock.git
 	path = feedstocks/opentelemetry-semantic-conventions-ai
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-pinecone"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-pinecone-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-pinecone
+	branch = refs/heads/main
