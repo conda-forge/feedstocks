@@ -100422,3 +100422,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-ollama-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-ollama
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-groq"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-groq-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-groq
+	branch = refs/heads/main
