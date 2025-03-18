@@ -100470,3 +100470,7 @@
 	url = https://github.com/conda-forge/pinecone-feedstock.git
 	path = feedstocks/pinecone
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-vertexai"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-vertexai-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-vertexai
+	branch = refs/heads/main
