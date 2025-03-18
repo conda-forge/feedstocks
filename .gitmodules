@@ -100446,3 +100446,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-pinecone-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-pinecone
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-lancedb"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-lancedb-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-lancedb
+	branch = refs/heads/main
