@@ -100518,3 +100518,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-marqo-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-marqo
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-langchain"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-langchain-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-langchain
+	branch = refs/heads/main
