@@ -100514,3 +100514,7 @@
 	url = https://github.com/conda-forge/syncer-feedstock.git
 	path = feedstocks/syncer
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-marqo"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-marqo-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-marqo
+	branch = refs/heads/main
