@@ -100426,3 +100426,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-groq-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-groq
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-google-generativeai"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-google-generativeai-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-google-generativeai
+	branch = refs/heads/main
