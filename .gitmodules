@@ -100454,3 +100454,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-llamaindex-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-llamaindex
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-openai"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-openai-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-openai
+	branch = refs/heads/main
