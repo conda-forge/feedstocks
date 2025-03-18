@@ -100466,3 +100466,7 @@
 	url = https://github.com/conda-forge/lazify-feedstock.git
 	path = feedstocks/lazify
 	branch = refs/heads/main
+[submodule "pinecone"]
+	url = https://github.com/conda-forge/pinecone-feedstock.git
+	path = feedstocks/pinecone
+	branch = refs/heads/main
