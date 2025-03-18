@@ -100486,3 +100486,7 @@
 	url = https://github.com/conda-forge/pinecone-plugin-interface-feedstock.git
 	path = feedstocks/pinecone-plugin-interface
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-chromadb"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-chromadb-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-chromadb
+	branch = refs/heads/main
