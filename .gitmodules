@@ -100402,3 +100402,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-transformers-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-transformers
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-mistralai"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-mistralai-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-mistralai
+	branch = refs/heads/main
