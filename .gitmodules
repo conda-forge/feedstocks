@@ -100462,3 +100462,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-alephalpha-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-alephalpha
 	branch = refs/heads/main
+[submodule "lazify"]
+	url = https://github.com/conda-forge/lazify-feedstock.git
+	path = feedstocks/lazify
+	branch = refs/heads/main
