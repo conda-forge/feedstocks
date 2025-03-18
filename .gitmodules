@@ -100478,3 +100478,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-bedrock-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-bedrock
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-anthropic"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-anthropic-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-anthropic
+	branch = refs/heads/main
