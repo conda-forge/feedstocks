@@ -100398,3 +100398,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-haystack-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-haystack
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-transformers"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-transformers-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-transformers
+	branch = refs/heads/main
