@@ -100390,3 +100390,7 @@
 	url = https://github.com/conda-forge/mkcert-feedstock.git
 	path = feedstocks/mkcert
 	branch = refs/heads/main
+[submodule "protarrow"]
+	url = https://github.com/conda-forge/protarrow-feedstock.git
+	path = feedstocks/protarrow
+	branch = refs/heads/main
