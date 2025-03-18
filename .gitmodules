@@ -100410,3 +100410,7 @@
 	url = https://github.com/conda-forge/literalai-feedstock.git
 	path = feedstocks/literalai
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-sagemaker"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-sagemaker-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-sagemaker
+	branch = refs/heads/main
