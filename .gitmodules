@@ -100506,3 +100506,7 @@
 	url = https://github.com/conda-forge/pinecone-plugin-inference-feedstock.git
 	path = feedstocks/pinecone-plugin-inference
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-threading"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-threading-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-threading
+	branch = refs/heads/main
