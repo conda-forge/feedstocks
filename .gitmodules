@@ -100534,3 +100534,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-qdrant-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-qdrant
 	branch = refs/heads/main
+[submodule "traceloop-sdk"]
+	url = https://github.com/conda-forge/traceloop-sdk-feedstock.git
+	path = feedstocks/traceloop-sdk
+	branch = refs/heads/main
