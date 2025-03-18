@@ -100438,3 +100438,7 @@
 	url = https://github.com/conda-forge/uptrace-feedstock.git
 	path = feedstocks/uptrace
 	branch = refs/heads/main
+[submodule "opentelemetry-semantic-conventions-ai"]
+	url = https://github.com/conda-forge/opentelemetry-semantic-conventions-ai-feedstock.git
+	path = feedstocks/opentelemetry-semantic-conventions-ai
+	branch = refs/heads/main
