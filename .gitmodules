@@ -100490,3 +100490,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-chromadb-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-chromadb
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-crewai"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-crewai-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-crewai
+	branch = refs/heads/main
