@@ -100502,3 +100502,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-weaviate-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-weaviate
 	branch = refs/heads/main
+[submodule "pinecone-plugin-inference"]
+	url = https://github.com/conda-forge/pinecone-plugin-inference-feedstock.git
+	path = feedstocks/pinecone-plugin-inference
+	branch = refs/heads/main
