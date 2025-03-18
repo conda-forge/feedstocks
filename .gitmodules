@@ -100434,3 +100434,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-milvus-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-milvus
 	branch = refs/heads/main
+[submodule "uptrace"]
+	url = https://github.com/conda-forge/uptrace-feedstock.git
+	path = feedstocks/uptrace
+	branch = refs/heads/main
