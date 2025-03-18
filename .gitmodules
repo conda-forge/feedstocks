@@ -100482,3 +100482,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-anthropic-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-anthropic
 	branch = refs/heads/main
+[submodule "pinecone-plugin-interface"]
+	url = https://github.com/conda-forge/pinecone-plugin-interface-feedstock.git
+	path = feedstocks/pinecone-plugin-interface
+	branch = refs/heads/main
