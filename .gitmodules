@@ -100418,3 +100418,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-replicate-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-replicate
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-ollama"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-ollama-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-ollama
+	branch = refs/heads/main
