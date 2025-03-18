@@ -100394,3 +100394,7 @@
 	url = https://github.com/conda-forge/protarrow-feedstock.git
 	path = feedstocks/protarrow
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-haystack"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-haystack-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-haystack
+	branch = refs/heads/main
