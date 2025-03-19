@@ -100590,3 +100590,7 @@
 	url = https://github.com/conda-forge/datazets-feedstock.git
 	path = feedstocks/datazets
 	branch = refs/heads/main
+[submodule "pyinter"]
+	url = https://github.com/conda-forge/pyinter-feedstock.git
+	path = feedstocks/pyinter
+	branch = refs/heads/main
