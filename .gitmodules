@@ -100542,3 +100542,7 @@
 	url = https://github.com/conda-forge/tmtoolkit-feedstock.git
 	path = feedstocks/tmtoolkit
 	branch = refs/heads/main
+[submodule "dmslogo"]
+	url = https://github.com/conda-forge/dmslogo-feedstock.git
+	path = feedstocks/dmslogo
+	branch = refs/heads/main
