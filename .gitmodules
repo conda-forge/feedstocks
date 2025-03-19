@@ -100566,3 +100566,7 @@
 	url = https://github.com/conda-forge/sympytensor-feedstock.git
 	path = feedstocks/sympytensor
 	branch = refs/heads/main
+[submodule "crossplane"]
+	url = https://github.com/conda-forge/crossplane-feedstock.git
+	path = feedstocks/crossplane
+	branch = refs/heads/main
