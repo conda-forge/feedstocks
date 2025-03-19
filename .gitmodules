@@ -100546,3 +100546,7 @@
 	url = https://github.com/conda-forge/dmslogo-feedstock.git
 	path = feedstocks/dmslogo
 	branch = refs/heads/main
+[submodule "multipy"]
+	url = https://github.com/conda-forge/multipy-feedstock.git
+	path = feedstocks/multipy
+	branch = refs/heads/main
