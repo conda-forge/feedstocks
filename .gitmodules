@@ -100570,3 +100570,7 @@
 	url = https://github.com/conda-forge/crossplane-feedstock.git
 	path = feedstocks/crossplane
 	branch = refs/heads/main
+[submodule "torch-fftconv"]
+	url = https://github.com/conda-forge/torch-fftconv-feedstock.git
+	path = feedstocks/torch-fftconv
+	branch = refs/heads/main
