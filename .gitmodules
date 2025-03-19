@@ -100562,3 +100562,7 @@
 	url = https://github.com/conda-forge/qc2tsv-feedstock.git
 	path = feedstocks/qc2tsv
 	branch = refs/heads/main
+[submodule "sympytensor"]
+	url = https://github.com/conda-forge/sympytensor-feedstock.git
+	path = feedstocks/sympytensor
+	branch = refs/heads/main
