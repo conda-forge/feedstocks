@@ -100582,3 +100582,7 @@
 	url = https://github.com/conda-forge/filefisher-feedstock.git
 	path = feedstocks/filefisher
 	branch = refs/heads/main
+[submodule "commanderline"]
+	url = https://github.com/conda-forge/commanderline-feedstock.git
+	path = feedstocks/commanderline
+	branch = refs/heads/main
