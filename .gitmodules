@@ -100554,3 +100554,7 @@
 	url = https://github.com/conda-forge/hydra-lsp-feedstock.git
 	path = feedstocks/hydra-lsp
 	branch = refs/heads/main
+[submodule "uncertainty-calibration"]
+	url = https://github.com/conda-forge/uncertainty-calibration-feedstock.git
+	path = feedstocks/uncertainty-calibration
+	branch = refs/heads/main
