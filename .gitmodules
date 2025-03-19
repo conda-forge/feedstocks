@@ -100538,3 +100538,7 @@
 	url = https://github.com/conda-forge/traceloop-sdk-feedstock.git
 	path = feedstocks/traceloop-sdk
 	branch = refs/heads/main
+[submodule "tmtoolkit"]
+	url = https://github.com/conda-forge/tmtoolkit-feedstock.git
+	path = feedstocks/tmtoolkit
+	branch = refs/heads/main
