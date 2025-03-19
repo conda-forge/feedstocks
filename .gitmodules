@@ -100594,3 +100594,7 @@
 	url = https://github.com/conda-forge/pyinter-feedstock.git
 	path = feedstocks/pyinter
 	branch = refs/heads/main
+[submodule "indexclient"]
+	url = https://github.com/conda-forge/indexclient-feedstock.git
+	path = feedstocks/indexclient
+	branch = refs/heads/main
