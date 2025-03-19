@@ -100574,3 +100574,7 @@
 	url = https://github.com/conda-forge/torch-fftconv-feedstock.git
 	path = feedstocks/torch-fftconv
 	branch = refs/heads/main
+[submodule "python-help2man"]
+	url = https://github.com/conda-forge/python-help2man-feedstock.git
+	path = feedstocks/python-help2man
+	branch = refs/heads/main
