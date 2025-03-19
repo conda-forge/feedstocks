@@ -100586,3 +100586,7 @@
 	url = https://github.com/conda-forge/commanderline-feedstock.git
 	path = feedstocks/commanderline
 	branch = refs/heads/main
+[submodule "datazets"]
+	url = https://github.com/conda-forge/datazets-feedstock.git
+	path = feedstocks/datazets
+	branch = refs/heads/main
