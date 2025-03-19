@@ -100550,3 +100550,7 @@
 	url = https://github.com/conda-forge/multipy-feedstock.git
 	path = feedstocks/multipy
 	branch = refs/heads/main
+[submodule "hydra-lsp"]
+	url = https://github.com/conda-forge/hydra-lsp-feedstock.git
+	path = feedstocks/hydra-lsp
+	branch = refs/heads/main
