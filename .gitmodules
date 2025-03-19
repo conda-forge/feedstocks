@@ -100606,3 +100606,7 @@
 	url = https://github.com/conda-forge/djhtml-feedstock.git
 	path = feedstocks/djhtml
 	branch = refs/heads/main
+[submodule "chainlit"]
+	url = https://github.com/conda-forge/chainlit-feedstock.git
+	path = feedstocks/chainlit
+	branch = refs/heads/main
