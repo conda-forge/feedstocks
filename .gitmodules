@@ -100602,3 +100602,7 @@
 	url = https://github.com/conda-forge/cdislogging-feedstock.git
 	path = feedstocks/cdislogging
 	branch = refs/heads/main
+[submodule "djhtml"]
+	url = https://github.com/conda-forge/djhtml-feedstock.git
+	path = feedstocks/djhtml
+	branch = refs/heads/main
