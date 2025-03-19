@@ -100598,3 +100598,7 @@
 	url = https://github.com/conda-forge/indexclient-feedstock.git
 	path = feedstocks/indexclient
 	branch = refs/heads/main
+[submodule "cdislogging"]
+	url = https://github.com/conda-forge/cdislogging-feedstock.git
+	path = feedstocks/cdislogging
+	branch = refs/heads/main
