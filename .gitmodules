@@ -100662,3 +100662,7 @@
 	url = https://github.com/conda-forge/pykeepass-feedstock.git
 	path = feedstocks/pykeepass
 	branch = refs/heads/main
+[submodule "colt5-attention"]
+	url = https://github.com/conda-forge/colt5-attention-feedstock.git
+	path = feedstocks/colt5-attention
+	branch = refs/heads/main
