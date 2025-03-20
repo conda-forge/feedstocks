@@ -100670,3 +100670,7 @@
 	url = https://github.com/conda-forge/keeper-secrets-manager-core-feedstock.git
 	path = feedstocks/keeper-secrets-manager-core
 	branch = refs/heads/main
+[submodule "python-taplo"]
+	url = https://github.com/conda-forge/python-taplo-feedstock.git
+	path = feedstocks/python-taplo
+	branch = refs/heads/main
