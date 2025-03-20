@@ -100630,3 +100630,7 @@
 	url = https://github.com/conda-forge/isolearn-feedstock.git
 	path = feedstocks/isolearn
 	branch = refs/heads/main
+[submodule "py-pcha"]
+	url = https://github.com/conda-forge/py-pcha-feedstock.git
+	path = feedstocks/py-pcha
+	branch = refs/heads/main
