@@ -100678,3 +100678,7 @@
 	url = https://github.com/conda-forge/khiops-binaries-feedstock.git
 	path = feedstocks/khiops-binaries
 	branch = refs/heads/main
+[submodule "mplcairo"]
+	url = https://github.com/conda-forge/mplcairo-feedstock.git
+	path = feedstocks/mplcairo
+	branch = refs/heads/main
