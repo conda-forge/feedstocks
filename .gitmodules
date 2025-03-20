@@ -100642,3 +100642,7 @@
 	url = https://github.com/conda-forge/setuptools-gettext-feedstock.git
 	path = feedstocks/setuptools-gettext
 	branch = refs/heads/main
+[submodule "pokeget"]
+	url = https://github.com/conda-forge/pokeget-feedstock.git
+	path = feedstocks/pokeget
+	branch = refs/heads/main
