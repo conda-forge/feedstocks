@@ -100614,3 +100614,7 @@
 	url = https://github.com/conda-forge/git-imerge-feedstock.git
 	path = feedstocks/git-imerge
 	branch = refs/heads/main
+[submodule "tree-sitter-tmux"]
+	url = https://github.com/conda-forge/tree-sitter-tmux-feedstock.git
+	path = feedstocks/tree-sitter-tmux
+	branch = refs/heads/main
