@@ -100618,3 +100618,7 @@
 	url = https://github.com/conda-forge/tree-sitter-tmux-feedstock.git
 	path = feedstocks/tree-sitter-tmux
 	branch = refs/heads/main
+[submodule "tree-sitter-muttrc"]
+	url = https://github.com/conda-forge/tree-sitter-muttrc-feedstock.git
+	path = feedstocks/tree-sitter-muttrc
+	branch = refs/heads/main
