@@ -100654,3 +100654,7 @@
 	url = https://github.com/conda-forge/aioice-feedstock.git
 	path = feedstocks/aioice
 	branch = refs/heads/main
+[submodule "sxscatalog"]
+	url = https://github.com/conda-forge/sxscatalog-feedstock.git
+	path = feedstocks/sxscatalog
+	branch = refs/heads/main
