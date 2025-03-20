@@ -100666,3 +100666,7 @@
 	url = https://github.com/conda-forge/colt5-attention-feedstock.git
 	path = feedstocks/colt5-attention
 	branch = refs/heads/main
+[submodule "keeper-secrets-manager-core"]
+	url = https://github.com/conda-forge/keeper-secrets-manager-core-feedstock.git
+	path = feedstocks/keeper-secrets-manager-core
+	branch = refs/heads/main
