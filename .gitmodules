@@ -100626,3 +100626,7 @@
 	url = https://github.com/conda-forge/patiencediff-feedstock.git
 	path = feedstocks/patiencediff
 	branch = refs/heads/main
+[submodule "isolearn"]
+	url = https://github.com/conda-forge/isolearn-feedstock.git
+	path = feedstocks/isolearn
+	branch = refs/heads/main
