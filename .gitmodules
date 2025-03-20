@@ -100610,3 +100610,7 @@
 	url = https://github.com/conda-forge/chainlit-feedstock.git
 	path = feedstocks/chainlit
 	branch = refs/heads/main
+[submodule "git-imerge"]
+	url = https://github.com/conda-forge/git-imerge-feedstock.git
+	path = feedstocks/git-imerge
+	branch = refs/heads/main
