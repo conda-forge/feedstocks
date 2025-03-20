@@ -100658,3 +100658,7 @@
 	url = https://github.com/conda-forge/sxscatalog-feedstock.git
 	path = feedstocks/sxscatalog
 	branch = refs/heads/main
+[submodule "pykeepass"]
+	url = https://github.com/conda-forge/pykeepass-feedstock.git
+	path = feedstocks/pykeepass
+	branch = refs/heads/main
