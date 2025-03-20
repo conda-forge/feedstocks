@@ -100650,3 +100650,7 @@
 	url = https://github.com/conda-forge/geconpy-feedstock.git
 	path = feedstocks/geconpy
 	branch = refs/heads/main
+[submodule "aioice"]
+	url = https://github.com/conda-forge/aioice-feedstock.git
+	path = feedstocks/aioice
+	branch = refs/heads/main
