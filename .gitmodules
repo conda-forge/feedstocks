@@ -100674,3 +100674,7 @@
 	url = https://github.com/conda-forge/python-taplo-feedstock.git
 	path = feedstocks/python-taplo
 	branch = refs/heads/main
+[submodule "khiops-binaries"]
+	url = https://github.com/conda-forge/khiops-binaries-feedstock.git
+	path = feedstocks/khiops-binaries
+	branch = refs/heads/main
