@@ -100646,3 +100646,7 @@
 	url = https://github.com/conda-forge/pokeget-feedstock.git
 	path = feedstocks/pokeget
 	branch = refs/heads/main
+[submodule "geconpy"]
+	url = https://github.com/conda-forge/geconpy-feedstock.git
+	path = feedstocks/geconpy
+	branch = refs/heads/main
