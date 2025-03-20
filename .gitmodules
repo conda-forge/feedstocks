@@ -100638,3 +100638,7 @@
 	url = https://github.com/conda-forge/fastbencode-feedstock.git
 	path = feedstocks/fastbencode
 	branch = refs/heads/main
+[submodule "setuptools-gettext"]
+	url = https://github.com/conda-forge/setuptools-gettext-feedstock.git
+	path = feedstocks/setuptools-gettext
+	branch = refs/heads/main
