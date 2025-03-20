@@ -100634,3 +100634,7 @@
 	url = https://github.com/conda-forge/py-pcha-feedstock.git
 	path = feedstocks/py-pcha
 	branch = refs/heads/main
+[submodule "fastbencode"]
+	url = https://github.com/conda-forge/fastbencode-feedstock.git
+	path = feedstocks/fastbencode
+	branch = refs/heads/main
