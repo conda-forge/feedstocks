@@ -100722,3 +100722,7 @@
 	url = https://github.com/conda-forge/gen3users-feedstock.git
 	path = feedstocks/gen3users
 	branch = refs/heads/main
+[submodule "scatterd"]
+	url = https://github.com/conda-forge/scatterd-feedstock.git
+	path = feedstocks/scatterd
+	branch = refs/heads/main
