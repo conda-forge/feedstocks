@@ -100714,3 +100714,7 @@
 	url = https://github.com/conda-forge/pykeepass_cache-feedstock.git
 	path = feedstocks/pykeepass_cache
 	branch = refs/heads/main
+[submodule "rb-treetop"]
+	url = https://github.com/conda-forge/rb-treetop-feedstock.git
+	path = feedstocks/rb-treetop
+	branch = refs/heads/main
