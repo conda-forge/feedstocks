@@ -100742,3 +100742,7 @@
 	url = https://github.com/conda-forge/drsclient-feedstock.git
 	path = feedstocks/drsclient
 	branch = refs/heads/main
+[submodule "nginx-language-server"]
+	url = https://github.com/conda-forge/nginx-language-server-feedstock.git
+	path = feedstocks/nginx-language-server
+	branch = refs/heads/main
