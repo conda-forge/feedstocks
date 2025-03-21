@@ -100682,3 +100682,7 @@
 	url = https://github.com/conda-forge/mplcairo-feedstock.git
 	path = feedstocks/mplcairo
 	branch = refs/heads/main
+[submodule "pyzipper"]
+	url = https://github.com/conda-forge/pyzipper-feedstock.git
+	path = feedstocks/pyzipper
+	branch = refs/heads/main
