@@ -100738,3 +100738,7 @@
 	url = https://github.com/conda-forge/product-key-memory-feedstock.git
 	path = feedstocks/product-key-memory
 	branch = refs/heads/main
+[submodule "drsclient"]
+	url = https://github.com/conda-forge/drsclient-feedstock.git
+	path = feedstocks/drsclient
+	branch = refs/heads/main
