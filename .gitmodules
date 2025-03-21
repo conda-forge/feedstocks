@@ -100698,3 +100698,7 @@
 	url = https://github.com/conda-forge/percol-feedstock.git
 	path = feedstocks/percol
 	branch = refs/heads/main
+[submodule "efficient-apriori"]
+	url = https://github.com/conda-forge/efficient-apriori-feedstock.git
+	path = feedstocks/efficient-apriori
+	branch = refs/heads/main
