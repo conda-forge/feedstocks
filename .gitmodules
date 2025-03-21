@@ -100694,3 +100694,7 @@
 	url = https://github.com/conda-forge/merge3-feedstock.git
 	path = feedstocks/merge3
 	branch = refs/heads/main
+[submodule "percol"]
+	url = https://github.com/conda-forge/percol-feedstock.git
+	path = feedstocks/percol
+	branch = refs/heads/main
