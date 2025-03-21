@@ -100726,3 +100726,7 @@
 	url = https://github.com/conda-forge/scatterd-feedstock.git
 	path = feedstocks/scatterd
 	branch = refs/heads/main
+[submodule "beavers"]
+	url = https://github.com/conda-forge/beavers-feedstock.git
+	path = feedstocks/beavers
+	branch = refs/heads/main
