@@ -100746,3 +100746,7 @@
 	url = https://github.com/conda-forge/nginx-language-server-feedstock.git
 	path = feedstocks/nginx-language-server
 	branch = refs/heads/main
+[submodule "vampy"]
+	url = https://github.com/conda-forge/vampy-feedstock.git
+	path = feedstocks/vampy
+	branch = refs/heads/main
