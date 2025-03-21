@@ -100702,3 +100702,7 @@
 	url = https://github.com/conda-forge/efficient-apriori-feedstock.git
 	path = feedstocks/efficient-apriori
 	branch = refs/heads/main
+[submodule "setuptools-generate"]
+	url = https://github.com/conda-forge/setuptools-generate-feedstock.git
+	path = feedstocks/setuptools-generate
+	branch = refs/heads/main
