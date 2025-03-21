@@ -100730,3 +100730,7 @@
 	url = https://github.com/conda-forge/beavers-feedstock.git
 	path = feedstocks/beavers
 	branch = refs/heads/main
+[submodule "vim-vint"]
+	url = https://github.com/conda-forge/vim-vint-feedstock.git
+	path = feedstocks/vim-vint
+	branch = refs/heads/main
