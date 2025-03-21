@@ -100718,3 +100718,7 @@
 	url = https://github.com/conda-forge/rb-treetop-feedstock.git
 	path = feedstocks/rb-treetop
 	branch = refs/heads/main
+[submodule "gen3users"]
+	url = https://github.com/conda-forge/gen3users-feedstock.git
+	path = feedstocks/gen3users
+	branch = refs/heads/main
