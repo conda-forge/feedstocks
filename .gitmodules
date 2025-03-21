@@ -100706,3 +100706,7 @@
 	url = https://github.com/conda-forge/setuptools-generate-feedstock.git
 	path = feedstocks/setuptools-generate
 	branch = refs/heads/main
+[submodule "dictionaryutils"]
+	url = https://github.com/conda-forge/dictionaryutils-feedstock.git
+	path = feedstocks/dictionaryutils
+	branch = refs/heads/main
