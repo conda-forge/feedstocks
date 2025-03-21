@@ -100754,3 +100754,7 @@
 	url = https://github.com/conda-forge/readabilipy-feedstock.git
 	path = feedstocks/readabilipy
 	branch = refs/heads/main
+[submodule "fedfred"]
+	url = https://github.com/conda-forge/fedfred-feedstock.git
+	path = feedstocks/fedfred
+	branch = refs/heads/main
