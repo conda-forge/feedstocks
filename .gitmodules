@@ -100710,3 +100710,7 @@
 	url = https://github.com/conda-forge/dictionaryutils-feedstock.git
 	path = feedstocks/dictionaryutils
 	branch = refs/heads/main
+[submodule "pykeepass_cache"]
+	url = https://github.com/conda-forge/pykeepass_cache-feedstock.git
+	path = feedstocks/pykeepass_cache
+	branch = refs/heads/main
