@@ -100750,3 +100750,7 @@
 	url = https://github.com/conda-forge/vampy-feedstock.git
 	path = feedstocks/vampy
 	branch = refs/heads/main
+[submodule "readabilipy"]
+	url = https://github.com/conda-forge/readabilipy-feedstock.git
+	path = feedstocks/readabilipy
+	branch = refs/heads/main
