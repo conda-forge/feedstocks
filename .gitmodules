@@ -100766,3 +100766,7 @@
 	url = https://github.com/conda-forge/dicttoxml2-feedstock.git
 	path = feedstocks/dicttoxml2
 	branch = refs/heads/main
+[submodule "edgar-sec"]
+	url = https://github.com/conda-forge/edgar-sec-feedstock.git
+	path = feedstocks/edgar-sec
+	branch = refs/heads/main
