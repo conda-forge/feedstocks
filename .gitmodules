@@ -100758,3 +100758,7 @@
 	url = https://github.com/conda-forge/fedfred-feedstock.git
 	path = feedstocks/fedfred
 	branch = refs/heads/main
+[submodule "opengeotech"]
+	url = https://github.com/conda-forge/opengeotech-feedstock.git
+	path = feedstocks/opengeotech
+	branch = refs/heads/main
