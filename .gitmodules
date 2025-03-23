@@ -100770,3 +100770,7 @@
 	url = https://github.com/conda-forge/edgar-sec-feedstock.git
 	path = feedstocks/edgar-sec
 	branch = refs/heads/main
+[submodule "gotranx"]
+	url = https://github.com/conda-forge/gotranx-feedstock.git
+	path = feedstocks/gotranx
+	branch = refs/heads/main
