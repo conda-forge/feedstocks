@@ -100782,3 +100782,7 @@
 	url = https://github.com/conda-forge/robotframework-ghareports-feedstock.git
 	path = feedstocks/robotframework-ghareports
 	branch = refs/heads/main
+[submodule "hippogriffe"]
+	url = https://github.com/conda-forge/hippogriffe-feedstock.git
+	path = feedstocks/hippogriffe
+	branch = refs/heads/main
