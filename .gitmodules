@@ -100774,3 +100774,7 @@
 	url = https://github.com/conda-forge/gotranx-feedstock.git
 	path = feedstocks/gotranx
 	branch = refs/heads/main
+[submodule "ipserver"]
+	url = https://github.com/conda-forge/ipserver-feedstock.git
+	path = feedstocks/ipserver
+	branch = refs/heads/main
