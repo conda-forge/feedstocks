@@ -100778,3 +100778,7 @@
 	url = https://github.com/conda-forge/ipserver-feedstock.git
 	path = feedstocks/ipserver
 	branch = refs/heads/main
+[submodule "robotframework-ghareports"]
+	url = https://github.com/conda-forge/robotframework-ghareports-feedstock.git
+	path = feedstocks/robotframework-ghareports
+	branch = refs/heads/main
