@@ -100786,3 +100786,7 @@
 	url = https://github.com/conda-forge/hippogriffe-feedstock.git
 	path = feedstocks/hippogriffe
 	branch = refs/heads/main
+[submodule "dict2xml"]
+	url = https://github.com/conda-forge/dict2xml-feedstock.git
+	path = feedstocks/dict2xml
+	branch = refs/heads/main
