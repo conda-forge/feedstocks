@@ -100834,3 +100834,7 @@
 	url = https://github.com/conda-forge/pandas-openscm-feedstock.git
 	path = feedstocks/pandas-openscm
 	branch = refs/heads/main
+[submodule "gradient-aware-harmonisation"]
+	url = https://github.com/conda-forge/gradient-aware-harmonisation-feedstock.git
+	path = feedstocks/gradient-aware-harmonisation
+	branch = refs/heads/main
