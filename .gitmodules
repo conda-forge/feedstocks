@@ -100818,3 +100818,7 @@
 	url = https://github.com/conda-forge/lsp-tree-sitter-feedstock.git
 	path = feedstocks/lsp-tree-sitter
 	branch = refs/heads/main
+[submodule "passhole"]
+	url = https://github.com/conda-forge/passhole-feedstock.git
+	path = feedstocks/passhole
+	branch = refs/heads/main
