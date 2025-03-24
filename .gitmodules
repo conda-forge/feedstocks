@@ -100826,3 +100826,7 @@
 	url = https://github.com/conda-forge/ecbdata-feedstock.git
 	path = feedstocks/ecbdata
 	branch = refs/heads/main
+[submodule "fenicsx-beat"]
+	url = https://github.com/conda-forge/fenicsx-beat-feedstock.git
+	path = feedstocks/fenicsx-beat
+	branch = refs/heads/main
