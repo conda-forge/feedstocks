@@ -100810,3 +100810,7 @@
 	url = https://github.com/conda-forge/pca-feedstock.git
 	path = feedstocks/pca
 	branch = refs/heads/main
+[submodule "gen3dictionary"]
+	url = https://github.com/conda-forge/gen3dictionary-feedstock.git
+	path = feedstocks/gen3dictionary
+	branch = refs/heads/main
