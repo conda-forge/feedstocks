@@ -100806,3 +100806,7 @@
 	url = https://github.com/conda-forge/fhirclient-feedstock.git
 	path = feedstocks/fhirclient
 	branch = refs/heads/main
+[submodule "pca"]
+	url = https://github.com/conda-forge/pca-feedstock.git
+	path = feedstocks/pca
+	branch = refs/heads/main
