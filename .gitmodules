@@ -100798,3 +100798,7 @@
 	url = https://github.com/conda-forge/sinkhorn-transformer-feedstock.git
 	path = feedstocks/sinkhorn-transformer
 	branch = refs/heads/main
+[submodule "breezy"]
+	url = https://github.com/conda-forge/breezy-feedstock.git
+	path = feedstocks/breezy
+	branch = refs/heads/main
