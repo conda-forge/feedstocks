@@ -100794,3 +100794,7 @@
 	url = https://github.com/conda-forge/basswood-av-feedstock.git
 	path = feedstocks/basswood-av
 	branch = refs/heads/main
+[submodule "sinkhorn-transformer"]
+	url = https://github.com/conda-forge/sinkhorn-transformer-feedstock.git
+	path = feedstocks/sinkhorn-transformer
+	branch = refs/heads/main
