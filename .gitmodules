@@ -100838,3 +100838,7 @@
 	url = https://github.com/conda-forge/gradient-aware-harmonisation-feedstock.git
 	path = feedstocks/gradient-aware-harmonisation
 	branch = refs/heads/main
+[submodule "vasp"]
+	url = https://github.com/conda-forge/vasp-feedstock.git
+	path = feedstocks/vasp
+	branch = refs/heads/main
