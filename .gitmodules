@@ -100842,3 +100842,7 @@
 	url = https://github.com/conda-forge/vasp-feedstock.git
 	path = feedstocks/vasp
 	branch = refs/heads/main
+[submodule "pidng"]
+	url = https://github.com/conda-forge/pidng-feedstock.git
+	path = feedstocks/pidng
+	branch = refs/heads/main
