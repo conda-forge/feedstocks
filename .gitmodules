@@ -100830,3 +100830,7 @@
 	url = https://github.com/conda-forge/fenicsx-beat-feedstock.git
 	path = feedstocks/fenicsx-beat
 	branch = refs/heads/main
+[submodule "pandas-openscm"]
+	url = https://github.com/conda-forge/pandas-openscm-feedstock.git
+	path = feedstocks/pandas-openscm
+	branch = refs/heads/main
