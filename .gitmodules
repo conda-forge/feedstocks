@@ -100802,3 +100802,7 @@
 	url = https://github.com/conda-forge/breezy-feedstock.git
 	path = feedstocks/breezy
 	branch = refs/heads/main
+[submodule "fhirclient"]
+	url = https://github.com/conda-forge/fhirclient-feedstock.git
+	path = feedstocks/fhirclient
+	branch = refs/heads/main
