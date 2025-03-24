@@ -100814,3 +100814,7 @@
 	url = https://github.com/conda-forge/gen3dictionary-feedstock.git
 	path = feedstocks/gen3dictionary
 	branch = refs/heads/main
+[submodule "lsp-tree-sitter"]
+	url = https://github.com/conda-forge/lsp-tree-sitter-feedstock.git
+	path = feedstocks/lsp-tree-sitter
+	branch = refs/heads/main
