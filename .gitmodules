@@ -100854,3 +100854,7 @@
 	url = https://github.com/conda-forge/xcube-multistore-feedstock.git
 	path = feedstocks/xcube-multistore
 	branch = refs/heads/main
+[submodule "pyone"]
+	url = https://github.com/conda-forge/pyone-feedstock.git
+	path = feedstocks/pyone
+	branch = refs/heads/main
