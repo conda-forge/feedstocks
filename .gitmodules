@@ -100850,3 +100850,7 @@
 	url = https://github.com/conda-forge/djangocms-link-feedstock.git
 	path = feedstocks/djangocms-link
 	branch = refs/heads/main
+[submodule "xcube-multistore"]
+	url = https://github.com/conda-forge/xcube-multistore-feedstock.git
+	path = feedstocks/xcube-multistore
+	branch = refs/heads/main
