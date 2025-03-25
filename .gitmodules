@@ -100846,3 +100846,7 @@
 	url = https://github.com/conda-forge/pidng-feedstock.git
 	path = feedstocks/pidng
 	branch = refs/heads/main
+[submodule "djangocms-link"]
+	url = https://github.com/conda-forge/djangocms-link-feedstock.git
+	path = feedstocks/djangocms-link
+	branch = refs/heads/main
