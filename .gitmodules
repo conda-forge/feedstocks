@@ -100882,3 +100882,7 @@
 	url = https://github.com/conda-forge/openfl-feedstock.git
 	path = feedstocks/openfl
 	branch = refs/heads/main
+[submodule "mutt-language-server"]
+	url = https://github.com/conda-forge/mutt-language-server-feedstock.git
+	path = feedstocks/mutt-language-server
+	branch = refs/heads/main
