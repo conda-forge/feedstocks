@@ -100874,3 +100874,7 @@
 	url = https://github.com/conda-forge/gradient-agreement-filtering-feedstock.git
 	path = feedstocks/gradient-agreement-filtering
 	branch = refs/heads/main
+[submodule "neuraloperator"]
+	url = https://github.com/conda-forge/neuraloperator-feedstock.git
+	path = feedstocks/neuraloperator
+	branch = refs/heads/main
