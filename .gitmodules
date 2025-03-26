@@ -100898,3 +100898,7 @@
 	url = https://github.com/conda-forge/auto-optional-feedstock.git
 	path = feedstocks/auto-optional
 	branch = refs/heads/main
+[submodule "tmux-language-server"]
+	url = https://github.com/conda-forge/tmux-language-server-feedstock.git
+	path = feedstocks/tmux-language-server
+	branch = refs/heads/main
