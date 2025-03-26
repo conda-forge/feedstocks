@@ -100894,3 +100894,7 @@
 	url = https://github.com/conda-forge/curlylint-feedstock.git
 	path = feedstocks/curlylint
 	branch = refs/heads/main
+[submodule "auto-optional"]
+	url = https://github.com/conda-forge/auto-optional-feedstock.git
+	path = feedstocks/auto-optional
+	branch = refs/heads/main
