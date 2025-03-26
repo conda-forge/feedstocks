@@ -100914,3 +100914,7 @@
 	url = https://github.com/conda-forge/lisaconstants-feedstock.git
 	path = feedstocks/lisaconstants
 	branch = refs/heads/main
+[submodule "pylcm"]
+	url = https://github.com/conda-forge/pylcm-feedstock.git
+	path = feedstocks/pylcm
+	branch = refs/heads/main
