@@ -100890,3 +100890,7 @@
 	url = https://github.com/conda-forge/qvalue-feedstock.git
 	path = feedstocks/qvalue
 	branch = refs/heads/main
+[submodule "curlylint"]
+	url = https://github.com/conda-forge/curlylint-feedstock.git
+	path = feedstocks/curlylint
+	branch = refs/heads/main
