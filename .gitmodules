@@ -100922,3 +100922,7 @@
 	url = https://github.com/conda-forge/banks-feedstock.git
 	path = feedstocks/banks
 	branch = refs/heads/main
+[submodule "felupe"]
+	url = https://github.com/conda-forge/felupe-feedstock.git
+	path = feedstocks/felupe
+	branch = refs/heads/main
