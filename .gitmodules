@@ -100906,3 +100906,7 @@
 	url = https://github.com/conda-forge/tree-sitter-make-feedstock.git
 	path = feedstocks/tree-sitter-make
 	branch = refs/heads/main
+[submodule "rivet"]
+	url = https://github.com/conda-forge/rivet-feedstock.git
+	path = feedstocks/rivet
+	branch = refs/heads/main
