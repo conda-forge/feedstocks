@@ -100862,3 +100862,7 @@
 	url = https://github.com/conda-forge/renode-cli-feedstock.git
 	path = feedstocks/renode-cli
 	branch = refs/heads/main
+[submodule "renode-cores"]
+	url = https://github.com/conda-forge/renode-cores-feedstock.git
+	path = feedstocks/renode-cores
+	branch = refs/heads/main
