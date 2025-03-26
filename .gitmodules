@@ -100910,3 +100910,7 @@
 	url = https://github.com/conda-forge/rivet-feedstock.git
 	path = feedstocks/rivet
 	branch = refs/heads/main
+[submodule "lisaconstants"]
+	url = https://github.com/conda-forge/lisaconstants-feedstock.git
+	path = feedstocks/lisaconstants
+	branch = refs/heads/main
