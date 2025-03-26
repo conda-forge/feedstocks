@@ -100870,3 +100870,7 @@
 	url = https://github.com/conda-forge/modshim-feedstock.git
 	path = feedstocks/modshim
 	branch = refs/heads/main
+[submodule "gradient-agreement-filtering"]
+	url = https://github.com/conda-forge/gradient-agreement-filtering-feedstock.git
+	path = feedstocks/gradient-agreement-filtering
+	branch = refs/heads/main
