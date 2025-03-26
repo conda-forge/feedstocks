@@ -100902,3 +100902,7 @@
 	url = https://github.com/conda-forge/tmux-language-server-feedstock.git
 	path = feedstocks/tmux-language-server
 	branch = refs/heads/main
+[submodule "tree-sitter-make"]
+	url = https://github.com/conda-forge/tree-sitter-make-feedstock.git
+	path = feedstocks/tree-sitter-make
+	branch = refs/heads/main
