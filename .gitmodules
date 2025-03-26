@@ -100918,3 +100918,7 @@
 	url = https://github.com/conda-forge/pylcm-feedstock.git
 	path = feedstocks/pylcm
 	branch = refs/heads/main
+[submodule "banks"]
+	url = https://github.com/conda-forge/banks-feedstock.git
+	path = feedstocks/banks
+	branch = refs/heads/main
