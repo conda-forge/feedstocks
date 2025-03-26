@@ -100866,3 +100866,7 @@
 	url = https://github.com/conda-forge/renode-cores-feedstock.git
 	path = feedstocks/renode-cores
 	branch = refs/heads/main
+[submodule "modshim"]
+	url = https://github.com/conda-forge/modshim-feedstock.git
+	path = feedstocks/modshim
+	branch = refs/heads/main
