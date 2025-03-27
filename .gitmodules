@@ -100930,3 +100930,7 @@
 	url = https://github.com/conda-forge/jonmorton-haven-feedstock.git
 	path = feedstocks/jonmorton-haven
 	branch = refs/heads/main
+[submodule "cargo-binutils"]
+	url = https://github.com/conda-forge/cargo-binutils-feedstock.git
+	path = feedstocks/cargo-binutils
+	branch = refs/heads/main
