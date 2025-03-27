@@ -100942,3 +100942,7 @@
 	url = https://github.com/conda-forge/webgeocalc-feedstock.git
 	path = feedstocks/webgeocalc
 	branch = refs/heads/main
+[submodule "pointblank"]
+	url = https://github.com/conda-forge/pointblank-feedstock.git
+	path = feedstocks/pointblank
+	branch = refs/heads/main
