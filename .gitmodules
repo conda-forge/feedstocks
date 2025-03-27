@@ -100934,3 +100934,7 @@
 	url = https://github.com/conda-forge/cargo-binutils-feedstock.git
 	path = feedstocks/cargo-binutils
 	branch = refs/heads/main
+[submodule "evalidate"]
+	url = https://github.com/conda-forge/evalidate-feedstock.git
+	path = feedstocks/evalidate
+	branch = refs/heads/main
