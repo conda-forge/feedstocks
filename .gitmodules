@@ -100938,3 +100938,7 @@
 	url = https://github.com/conda-forge/evalidate-feedstock.git
 	path = feedstocks/evalidate
 	branch = refs/heads/main
+[submodule "webgeocalc"]
+	url = https://github.com/conda-forge/webgeocalc-feedstock.git
+	path = feedstocks/webgeocalc
+	branch = refs/heads/main
