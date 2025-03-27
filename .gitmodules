@@ -100926,3 +100926,7 @@
 	url = https://github.com/conda-forge/felupe-feedstock.git
 	path = feedstocks/felupe
 	branch = refs/heads/main
+[submodule "jonmorton-haven"]
+	url = https://github.com/conda-forge/jonmorton-haven-feedstock.git
+	path = feedstocks/jonmorton-haven
+	branch = refs/heads/main
