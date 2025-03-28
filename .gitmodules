@@ -100950,3 +100950,7 @@
 	url = https://github.com/conda-forge/dadaptation-feedstock.git
 	path = feedstocks/dadaptation
 	branch = refs/heads/main
+[submodule "autotools-language-server"]
+	url = https://github.com/conda-forge/autotools-language-server-feedstock.git
+	path = feedstocks/autotools-language-server
+	branch = refs/heads/main
