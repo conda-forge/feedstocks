@@ -100970,3 +100970,7 @@
 	url = https://github.com/conda-forge/bordado-feedstock.git
 	path = feedstocks/bordado
 	branch = refs/heads/main
+[submodule "gha-update"]
+	url = https://github.com/conda-forge/gha-update-feedstock.git
+	path = feedstocks/gha-update
+	branch = refs/heads/main
