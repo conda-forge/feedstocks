@@ -100958,3 +100958,7 @@
 	url = https://github.com/conda-forge/itrails-feedstock.git
 	path = feedstocks/itrails
 	branch = refs/heads/main
+[submodule "redis-sentinel-url"]
+	url = https://github.com/conda-forge/redis-sentinel-url-feedstock.git
+	path = feedstocks/redis-sentinel-url
+	branch = refs/heads/main
