@@ -100974,3 +100974,7 @@
 	url = https://github.com/conda-forge/gha-update-feedstock.git
 	path = feedstocks/gha-update
 	branch = refs/heads/main
+[submodule "ppigrf"]
+	url = https://github.com/conda-forge/ppigrf-feedstock.git
+	path = feedstocks/ppigrf
+	branch = refs/heads/main
