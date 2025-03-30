@@ -100982,3 +100982,7 @@
 	url = https://github.com/conda-forge/monsterui-feedstock.git
 	path = feedstocks/monsterui
 	branch = refs/heads/main
+[submodule "precious"]
+	url = https://github.com/conda-forge/precious-feedstock.git
+	path = feedstocks/precious
+	branch = refs/heads/main
