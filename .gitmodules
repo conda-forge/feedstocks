@@ -100990,3 +100990,7 @@
 	url = https://github.com/conda-forge/rpm-vercmp-feedstock.git
 	path = feedstocks/rpm-vercmp
 	branch = refs/heads/main
+[submodule "otree"]
+	url = https://github.com/conda-forge/otree-feedstock.git
+	path = feedstocks/otree
+	branch = refs/heads/main
