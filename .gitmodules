@@ -101050,3 +101050,7 @@
 	url = https://github.com/conda-forge/myokit-feedstock.git
 	path = feedstocks/myokit
 	branch = refs/heads/main
+[submodule "libcufftmp"]
+	url = https://github.com/conda-forge/libcufftmp-feedstock.git
+	path = feedstocks/libcufftmp
+	branch = refs/heads/main
