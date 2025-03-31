@@ -100986,3 +100986,7 @@
 	url = https://github.com/conda-forge/precious-feedstock.git
 	path = feedstocks/precious
 	branch = refs/heads/main
+[submodule "rpm-vercmp"]
+	url = https://github.com/conda-forge/rpm-vercmp-feedstock.git
+	path = feedstocks/rpm-vercmp
+	branch = refs/heads/main
