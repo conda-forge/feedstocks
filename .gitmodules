@@ -101010,3 +101010,7 @@
 	url = https://github.com/conda-forge/rsl-rl-lib-feedstock.git
 	path = feedstocks/rsl-rl-lib
 	branch = refs/heads/main
+[submodule "sccoda"]
+	url = https://github.com/conda-forge/sccoda-feedstock.git
+	path = feedstocks/sccoda
+	branch = refs/heads/main
