@@ -101030,3 +101030,7 @@
 	url = https://github.com/conda-forge/nettrustscore-feedstock.git
 	path = feedstocks/nettrustscore
 	branch = refs/heads/main
+[submodule "gen3"]
+	url = https://github.com/conda-forge/gen3-feedstock.git
+	path = feedstocks/gen3
+	branch = refs/heads/main
