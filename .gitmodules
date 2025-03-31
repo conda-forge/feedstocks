@@ -101022,3 +101022,7 @@
 	url = https://github.com/conda-forge/meilisearch-python-feedstock.git
 	path = feedstocks/meilisearch-python
 	branch = refs/heads/main
+[submodule "evo"]
+	url = https://github.com/conda-forge/evo-feedstock.git
+	path = feedstocks/evo
+	branch = refs/heads/main
