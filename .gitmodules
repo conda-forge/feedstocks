@@ -100994,3 +100994,7 @@
 	url = https://github.com/conda-forge/otree-feedstock.git
 	path = feedstocks/otree
 	branch = refs/heads/main
+[submodule "timelib"]
+	url = https://github.com/conda-forge/timelib-feedstock.git
+	path = feedstocks/timelib
+	branch = refs/heads/main
