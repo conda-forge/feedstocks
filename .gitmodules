@@ -101046,3 +101046,7 @@
 	url = https://github.com/conda-forge/libcamera-feedstock.git
 	path = feedstocks/libcamera
 	branch = refs/heads/main
+[submodule "myokit"]
+	url = https://github.com/conda-forge/myokit-feedstock.git
+	path = feedstocks/myokit
+	branch = refs/heads/main
