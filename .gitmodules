@@ -101014,3 +101014,7 @@
 	url = https://github.com/conda-forge/sccoda-feedstock.git
 	path = feedstocks/sccoda
 	branch = refs/heads/main
+[submodule "haven-conf"]
+	url = https://github.com/conda-forge/haven-conf-feedstock.git
+	path = feedstocks/haven-conf
+	branch = refs/heads/main
