@@ -101042,3 +101042,7 @@
 	url = https://github.com/conda-forge/propelauth_py-feedstock.git
 	path = feedstocks/propelauth_py
 	branch = refs/heads/main
+[submodule "libcamera"]
+	url = https://github.com/conda-forge/libcamera-feedstock.git
+	path = feedstocks/libcamera
+	branch = refs/heads/main
