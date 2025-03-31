@@ -101026,3 +101026,7 @@
 	url = https://github.com/conda-forge/evo-feedstock.git
 	path = feedstocks/evo
 	branch = refs/heads/main
+[submodule "nettrustscore"]
+	url = https://github.com/conda-forge/nettrustscore-feedstock.git
+	path = feedstocks/nettrustscore
+	branch = refs/heads/main
