@@ -101038,3 +101038,7 @@
 	url = https://github.com/conda-forge/yamlfix-feedstock.git
 	path = feedstocks/yamlfix
 	branch = refs/heads/main
+[submodule "propelauth_py"]
+	url = https://github.com/conda-forge/propelauth_py-feedstock.git
+	path = feedstocks/propelauth_py
+	branch = refs/heads/main
