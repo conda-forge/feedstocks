@@ -100998,3 +100998,7 @@
 	url = https://github.com/conda-forge/timelib-feedstock.git
 	path = feedstocks/timelib
 	branch = refs/heads/main
+[submodule "torchcodec"]
+	url = https://github.com/conda-forge/torchcodec-feedstock.git
+	path = feedstocks/torchcodec
+	branch = refs/heads/main
