@@ -101002,3 +101002,7 @@
 	url = https://github.com/conda-forge/torchcodec-feedstock.git
 	path = feedstocks/torchcodec
 	branch = refs/heads/main
+[submodule "rq-dashboard"]
+	url = https://github.com/conda-forge/rq-dashboard-feedstock.git
+	path = feedstocks/rq-dashboard
+	branch = refs/heads/main
