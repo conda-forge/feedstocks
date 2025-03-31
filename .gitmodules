@@ -101006,3 +101006,7 @@
 	url = https://github.com/conda-forge/rq-dashboard-feedstock.git
 	path = feedstocks/rq-dashboard
 	branch = refs/heads/main
+[submodule "rsl-rl-lib"]
+	url = https://github.com/conda-forge/rsl-rl-lib-feedstock.git
+	path = feedstocks/rsl-rl-lib
+	branch = refs/heads/main
