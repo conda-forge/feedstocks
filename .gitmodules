@@ -101018,3 +101018,7 @@
 	url = https://github.com/conda-forge/haven-conf-feedstock.git
 	path = feedstocks/haven-conf
 	branch = refs/heads/main
+[submodule "meilisearch-python"]
+	url = https://github.com/conda-forge/meilisearch-python-feedstock.git
+	path = feedstocks/meilisearch-python
+	branch = refs/heads/main
