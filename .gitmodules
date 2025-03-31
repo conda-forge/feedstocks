@@ -101054,3 +101054,7 @@
 	url = https://github.com/conda-forge/libcufftmp-feedstock.git
 	path = feedstocks/libcufftmp
 	branch = refs/heads/main
+[submodule "landau"]
+	url = https://github.com/conda-forge/landau-feedstock.git
+	path = feedstocks/landau
+	branch = refs/heads/main
