@@ -101034,3 +101034,7 @@
 	url = https://github.com/conda-forge/gen3-feedstock.git
 	path = feedstocks/gen3
 	branch = refs/heads/main
+[submodule "yamlfix"]
+	url = https://github.com/conda-forge/yamlfix-feedstock.git
+	path = feedstocks/yamlfix
+	branch = refs/heads/main
