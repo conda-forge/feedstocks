@@ -101062,3 +101062,7 @@
 	url = https://github.com/conda-forge/cc-plugin-cc6-feedstock.git
 	path = feedstocks/cc-plugin-cc6
 	branch = refs/heads/main
+[submodule "anakin-language-server"]
+	url = https://github.com/conda-forge/anakin-language-server-feedstock.git
+	path = feedstocks/anakin-language-server
+	branch = refs/heads/main
