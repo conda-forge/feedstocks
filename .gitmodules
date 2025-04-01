@@ -101078,3 +101078,7 @@
 	url = https://github.com/conda-forge/uncalled-feedstock.git
 	path = feedstocks/uncalled
 	branch = refs/heads/main
+[submodule "nuscenes-devkit"]
+	url = https://github.com/conda-forge/nuscenes-devkit-feedstock.git
+	path = feedstocks/nuscenes-devkit
+	branch = refs/heads/main
