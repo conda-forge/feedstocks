@@ -101082,3 +101082,7 @@
 	url = https://github.com/conda-forge/nuscenes-devkit-feedstock.git
 	path = feedstocks/nuscenes-devkit
 	branch = refs/heads/main
+[submodule "wiscopy"]
+	url = https://github.com/conda-forge/wiscopy-feedstock.git
+	path = feedstocks/wiscopy
+	branch = refs/heads/main
