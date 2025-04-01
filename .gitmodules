@@ -101070,3 +101070,7 @@
 	url = https://github.com/conda-forge/reorder_python_imports-feedstock.git
 	path = feedstocks/reorder_python_imports
 	branch = refs/heads/main
+[submodule "dead"]
+	url = https://github.com/conda-forge/dead-feedstock.git
+	path = feedstocks/dead
+	branch = refs/heads/main
