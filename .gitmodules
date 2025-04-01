@@ -101074,3 +101074,7 @@
 	url = https://github.com/conda-forge/dead-feedstock.git
 	path = feedstocks/dead
 	branch = refs/heads/main
+[submodule "uncalled"]
+	url = https://github.com/conda-forge/uncalled-feedstock.git
+	path = feedstocks/uncalled
+	branch = refs/heads/main
