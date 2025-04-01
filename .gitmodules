@@ -101090,3 +101090,7 @@
 	url = https://github.com/conda-forge/viser-feedstock.git
 	path = feedstocks/viser
 	branch = refs/heads/main
+[submodule "comet-ml"]
+	url = https://github.com/conda-forge/comet-ml-feedstock.git
+	path = feedstocks/comet-ml
+	branch = refs/heads/main
