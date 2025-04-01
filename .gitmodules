@@ -101058,3 +101058,7 @@
 	url = https://github.com/conda-forge/landau-feedstock.git
 	path = feedstocks/landau
 	branch = refs/heads/main
+[submodule "cc-plugin-cc6"]
+	url = https://github.com/conda-forge/cc-plugin-cc6-feedstock.git
+	path = feedstocks/cc-plugin-cc6
+	branch = refs/heads/main
