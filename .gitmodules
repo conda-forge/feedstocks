@@ -101066,3 +101066,7 @@
 	url = https://github.com/conda-forge/anakin-language-server-feedstock.git
 	path = feedstocks/anakin-language-server
 	branch = refs/heads/main
+[submodule "reorder_python_imports"]
+	url = https://github.com/conda-forge/reorder_python_imports-feedstock.git
+	path = feedstocks/reorder_python_imports
+	branch = refs/heads/main
