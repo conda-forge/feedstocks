@@ -101098,3 +101098,7 @@
 	url = https://github.com/conda-forge/r-mlr3extralearners-feedstock.git
 	path = feedstocks/r-mlr3extralearners
 	branch = refs/heads/main
+[submodule "cargo-edit"]
+	url = https://github.com/conda-forge/cargo-edit-feedstock.git
+	path = feedstocks/cargo-edit
+	branch = refs/heads/main
