@@ -101102,3 +101102,7 @@
 	url = https://github.com/conda-forge/cargo-edit-feedstock.git
 	path = feedstocks/cargo-edit
 	branch = refs/heads/main
+[submodule "xcengine"]
+	url = https://github.com/conda-forge/xcengine-feedstock.git
+	path = feedstocks/xcengine
+	branch = refs/heads/main
