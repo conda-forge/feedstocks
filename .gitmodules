@@ -101106,3 +101106,7 @@
 	url = https://github.com/conda-forge/xcengine-feedstock.git
 	path = feedstocks/xcengine
 	branch = refs/heads/main
+[submodule "arcosparse"]
+	url = https://github.com/conda-forge/arcosparse-feedstock.git
+	path = feedstocks/arcosparse
+	branch = refs/heads/main
