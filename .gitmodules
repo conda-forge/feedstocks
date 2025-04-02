@@ -101094,3 +101094,7 @@
 	url = https://github.com/conda-forge/comet-ml-feedstock.git
 	path = feedstocks/comet-ml
 	branch = refs/heads/main
+[submodule "r-mlr3extralearners"]
+	url = https://github.com/conda-forge/r-mlr3extralearners-feedstock.git
+	path = feedstocks/r-mlr3extralearners
+	branch = refs/heads/main
