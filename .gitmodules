@@ -101130,3 +101130,7 @@
 	url = https://github.com/conda-forge/uutils-findutils-feedstock.git
 	path = feedstocks/uutils-findutils
 	branch = refs/heads/main
+[submodule "millet"]
+	url = https://github.com/conda-forge/millet-feedstock.git
+	path = feedstocks/millet
+	branch = refs/heads/main
