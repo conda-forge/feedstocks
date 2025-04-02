@@ -101122,3 +101122,7 @@
 	url = https://github.com/conda-forge/fsharplint-feedstock.git
 	path = feedstocks/fsharplint
 	branch = refs/heads/main
+[submodule "convco"]
+	url = https://github.com/conda-forge/convco-feedstock.git
+	path = feedstocks/convco
+	branch = refs/heads/main
