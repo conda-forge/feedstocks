@@ -101114,3 +101114,7 @@
 	url = https://github.com/conda-forge/omp4py-feedstock.git
 	path = feedstocks/omp4py
 	branch = refs/heads/main
+[submodule "pypfb"]
+	url = https://github.com/conda-forge/pypfb-feedstock.git
+	path = feedstocks/pypfb
+	branch = refs/heads/main
