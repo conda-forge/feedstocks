@@ -101118,3 +101118,7 @@
 	url = https://github.com/conda-forge/pypfb-feedstock.git
 	path = feedstocks/pypfb
 	branch = refs/heads/main
+[submodule "fsharplint"]
+	url = https://github.com/conda-forge/fsharplint-feedstock.git
+	path = feedstocks/fsharplint
+	branch = refs/heads/main
