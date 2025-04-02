@@ -101110,3 +101110,7 @@
 	url = https://github.com/conda-forge/arcosparse-feedstock.git
 	path = feedstocks/arcosparse
 	branch = refs/heads/main
+[submodule "omp4py"]
+	url = https://github.com/conda-forge/omp4py-feedstock.git
+	path = feedstocks/omp4py
+	branch = refs/heads/main
