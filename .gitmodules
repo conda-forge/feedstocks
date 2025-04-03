@@ -101138,3 +101138,7 @@
 	url = https://github.com/conda-forge/Iris-Codec-feedstock.git
 	path = feedstocks/Iris-Codec
 	branch = refs/heads/main
+[submodule "class-resolver"]
+	url = https://github.com/conda-forge/class-resolver-feedstock.git
+	path = feedstocks/class-resolver
+	branch = refs/heads/main
