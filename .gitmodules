@@ -101158,3 +101158,7 @@
 	url = https://github.com/conda-forge/docdata-feedstock.git
 	path = feedstocks/docdata
 	branch = refs/heads/main
+[submodule "quickbayes"]
+	url = https://github.com/conda-forge/quickbayes-feedstock.git
+	path = feedstocks/quickbayes
+	branch = refs/heads/main
