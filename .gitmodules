@@ -101134,3 +101134,7 @@
 	url = https://github.com/conda-forge/millet-feedstock.git
 	path = feedstocks/millet
 	branch = refs/heads/main
+[submodule "Iris-Codec"]
+	url = https://github.com/conda-forge/Iris-Codec-feedstock.git
+	path = feedstocks/Iris-Codec
+	branch = refs/heads/main
