@@ -101150,3 +101150,7 @@
 	url = https://github.com/conda-forge/scippnexus-feedstock.git
 	path = feedstocks/scippnexus
 	branch = refs/heads/main
+[submodule "igwn-robot-auth"]
+	url = https://github.com/conda-forge/igwn-robot-auth-feedstock.git
+	path = feedstocks/igwn-robot-auth
+	branch = refs/heads/main
