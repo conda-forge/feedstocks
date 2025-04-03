@@ -101154,3 +101154,7 @@
 	url = https://github.com/conda-forge/igwn-robot-auth-feedstock.git
 	path = feedstocks/igwn-robot-auth
 	branch = refs/heads/main
+[submodule "docdata"]
+	url = https://github.com/conda-forge/docdata-feedstock.git
+	path = feedstocks/docdata
+	branch = refs/heads/main
