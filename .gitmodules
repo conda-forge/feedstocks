@@ -101166,3 +101166,7 @@
 	url = https://github.com/conda-forge/temporalio-cli-feedstock.git
 	path = feedstocks/temporalio-cli
 	branch = refs/heads/main
+[submodule "process-compose"]
+	url = https://github.com/conda-forge/process-compose-feedstock.git
+	path = feedstocks/process-compose
+	branch = refs/heads/main
