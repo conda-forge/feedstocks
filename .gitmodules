@@ -101170,3 +101170,7 @@
 	url = https://github.com/conda-forge/process-compose-feedstock.git
 	path = feedstocks/process-compose
 	branch = refs/heads/main
+[submodule "videoio"]
+	url = https://github.com/conda-forge/videoio-feedstock.git
+	path = feedstocks/videoio
+	branch = refs/heads/main
