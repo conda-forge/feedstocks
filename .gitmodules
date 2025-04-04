@@ -101162,3 +101162,7 @@
 	url = https://github.com/conda-forge/quickbayes-feedstock.git
 	path = feedstocks/quickbayes
 	branch = refs/heads/main
+[submodule "temporalio-cli"]
+	url = https://github.com/conda-forge/temporalio-cli-feedstock.git
+	path = feedstocks/temporalio-cli
+	branch = refs/heads/main
