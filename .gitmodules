@@ -101178,3 +101178,7 @@
 	url = https://github.com/conda-forge/constantdict-feedstock.git
 	path = feedstocks/constantdict
 	branch = refs/heads/main
+[submodule "nnpdf"]
+	url = https://github.com/conda-forge/nnpdf-feedstock.git
+	path = feedstocks/nnpdf
+	branch = refs/heads/main
