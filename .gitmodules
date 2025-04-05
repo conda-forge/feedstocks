@@ -101186,3 +101186,7 @@
 	url = https://github.com/conda-forge/github-release-feedstock.git
 	path = feedstocks/github-release
 	branch = refs/heads/main
+[submodule "go-tools"]
+	url = https://github.com/conda-forge/go-tools-feedstock.git
+	path = feedstocks/go-tools
+	branch = refs/heads/main
