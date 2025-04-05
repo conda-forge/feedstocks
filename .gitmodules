@@ -101182,3 +101182,7 @@
 	url = https://github.com/conda-forge/nnpdf-feedstock.git
 	path = feedstocks/nnpdf
 	branch = refs/heads/main
+[submodule "github-release"]
+	url = https://github.com/conda-forge/github-release-feedstock.git
+	path = feedstocks/github-release
+	branch = refs/heads/main
