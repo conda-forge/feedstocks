@@ -101198,3 +101198,7 @@
 	url = https://github.com/conda-forge/plquery-feedstock.git
 	path = feedstocks/plquery
 	branch = refs/heads/main
+[submodule "mdformat-shfmt"]
+	url = https://github.com/conda-forge/mdformat-shfmt-feedstock.git
+	path = feedstocks/mdformat-shfmt
+	branch = refs/heads/main
