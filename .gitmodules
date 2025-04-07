@@ -101194,3 +101194,7 @@
 	url = https://github.com/conda-forge/gargs-feedstock.git
 	path = feedstocks/gargs
 	branch = refs/heads/main
+[submodule "plquery"]
+	url = https://github.com/conda-forge/plquery-feedstock.git
+	path = feedstocks/plquery
+	branch = refs/heads/main
