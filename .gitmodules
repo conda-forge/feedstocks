@@ -101214,3 +101214,7 @@
 	url = https://github.com/conda-forge/csp-bot-feedstock.git
 	path = feedstocks/csp-bot
 	branch = refs/heads/main
+[submodule "sqlframe"]
+	url = https://github.com/conda-forge/sqlframe-feedstock.git
+	path = feedstocks/sqlframe
+	branch = refs/heads/main
