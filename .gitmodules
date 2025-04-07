@@ -101202,3 +101202,7 @@
 	url = https://github.com/conda-forge/mdformat-shfmt-feedstock.git
 	path = feedstocks/mdformat-shfmt
 	branch = refs/heads/main
+[submodule "mdformat-config"]
+	url = https://github.com/conda-forge/mdformat-config-feedstock.git
+	path = feedstocks/mdformat-config
+	branch = refs/heads/main
