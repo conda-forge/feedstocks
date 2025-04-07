@@ -101206,3 +101206,7 @@
 	url = https://github.com/conda-forge/mdformat-config-feedstock.git
 	path = feedstocks/mdformat-config
 	branch = refs/heads/main
+[submodule "mpcontribs-client"]
+	url = https://github.com/conda-forge/mpcontribs-client-feedstock.git
+	path = feedstocks/mpcontribs-client
+	branch = refs/heads/main
