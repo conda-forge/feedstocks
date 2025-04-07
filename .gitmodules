@@ -101218,3 +101218,7 @@
 	url = https://github.com/conda-forge/sqlframe-feedstock.git
 	path = feedstocks/sqlframe
 	branch = refs/heads/main
+[submodule "ete4"]
+	url = https://github.com/conda-forge/ete4-feedstock.git
+	path = feedstocks/ete4
+	branch = refs/heads/main
