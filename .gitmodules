@@ -101210,3 +101210,7 @@
 	url = https://github.com/conda-forge/mpcontribs-client-feedstock.git
 	path = feedstocks/mpcontribs-client
 	branch = refs/heads/main
+[submodule "csp-bot"]
+	url = https://github.com/conda-forge/csp-bot-feedstock.git
+	path = feedstocks/csp-bot
+	branch = refs/heads/main
