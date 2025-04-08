@@ -101262,3 +101262,7 @@
 	url = https://github.com/conda-forge/xarray-regrid-feedstock.git
 	path = feedstocks/xarray-regrid
 	branch = refs/heads/main
+[submodule "shiny-validate"]
+	url = https://github.com/conda-forge/shiny-validate-feedstock.git
+	path = feedstocks/shiny-validate
+	branch = refs/heads/main
