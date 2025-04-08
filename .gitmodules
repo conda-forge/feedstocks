@@ -101238,3 +101238,7 @@
 	url = https://github.com/conda-forge/tiny-cuda-nn-feedstock.git
 	path = feedstocks/tiny-cuda-nn
 	branch = refs/heads/main
+[submodule "openfpgaloader"]
+	url = https://github.com/conda-forge/openfpgaloader-feedstock.git
+	path = feedstocks/openfpgaloader
+	branch = refs/heads/main
