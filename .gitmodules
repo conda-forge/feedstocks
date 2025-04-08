@@ -101230,3 +101230,7 @@
 	url = https://github.com/conda-forge/tex-fmt-feedstock.git
 	path = feedstocks/tex-fmt
 	branch = refs/heads/main
+[submodule "gsplat"]
+	url = https://github.com/conda-forge/gsplat-feedstock.git
+	path = feedstocks/gsplat
+	branch = refs/heads/main
