@@ -101246,3 +101246,7 @@
 	url = https://github.com/conda-forge/huracanpy-feedstock.git
 	path = feedstocks/huracanpy
 	branch = refs/heads/main
+[submodule "pydenticon"]
+	url = https://github.com/conda-forge/pydenticon-feedstock.git
+	path = feedstocks/pydenticon
+	branch = refs/heads/main
