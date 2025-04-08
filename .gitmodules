@@ -101250,3 +101250,7 @@
 	url = https://github.com/conda-forge/pydenticon-feedstock.git
 	path = feedstocks/pydenticon
 	branch = refs/heads/main
+[submodule "slurm-sweeps"]
+	url = https://github.com/conda-forge/slurm-sweeps-feedstock.git
+	path = feedstocks/slurm-sweeps
+	branch = refs/heads/main
