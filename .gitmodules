@@ -101254,3 +101254,7 @@
 	url = https://github.com/conda-forge/slurm-sweeps-feedstock.git
 	path = feedstocks/slurm-sweeps
 	branch = refs/heads/main
+[submodule "pygitguardian"]
+	url = https://github.com/conda-forge/pygitguardian-feedstock.git
+	path = feedstocks/pygitguardian
+	branch = refs/heads/main
