@@ -101226,3 +101226,7 @@
 	url = https://github.com/conda-forge/pytcr-feedstock.git
 	path = feedstocks/pytcr
 	branch = refs/heads/main
+[submodule "tex-fmt"]
+	url = https://github.com/conda-forge/tex-fmt-feedstock.git
+	path = feedstocks/tex-fmt
+	branch = refs/heads/main
