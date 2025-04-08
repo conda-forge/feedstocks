@@ -101258,3 +101258,7 @@
 	url = https://github.com/conda-forge/pygitguardian-feedstock.git
 	path = feedstocks/pygitguardian
 	branch = refs/heads/main
+[submodule "xarray-regrid"]
+	url = https://github.com/conda-forge/xarray-regrid-feedstock.git
+	path = feedstocks/xarray-regrid
+	branch = refs/heads/main
