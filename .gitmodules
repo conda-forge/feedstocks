@@ -101242,3 +101242,7 @@
 	url = https://github.com/conda-forge/openfpgaloader-feedstock.git
 	path = feedstocks/openfpgaloader
 	branch = refs/heads/main
+[submodule "huracanpy"]
+	url = https://github.com/conda-forge/huracanpy-feedstock.git
+	path = feedstocks/huracanpy
+	branch = refs/heads/main
