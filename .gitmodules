@@ -101222,3 +101222,7 @@
 	url = https://github.com/conda-forge/ete4-feedstock.git
 	path = feedstocks/ete4
 	branch = refs/heads/main
+[submodule "pytcr"]
+	url = https://github.com/conda-forge/pytcr-feedstock.git
+	path = feedstocks/pytcr
+	branch = refs/heads/main
