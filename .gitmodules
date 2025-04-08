@@ -101234,3 +101234,7 @@
 	url = https://github.com/conda-forge/gsplat-feedstock.git
 	path = feedstocks/gsplat
 	branch = refs/heads/main
+[submodule "tiny-cuda-nn"]
+	url = https://github.com/conda-forge/tiny-cuda-nn-feedstock.git
+	path = feedstocks/tiny-cuda-nn
+	branch = refs/heads/main
