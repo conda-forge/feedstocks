@@ -101302,3 +101302,7 @@
 	url = https://github.com/conda-forge/piqa-feedstock.git
 	path = feedstocks/piqa
 	branch = refs/heads/main
+[submodule "flang-rt"]
+	url = https://github.com/conda-forge/flang-rt-feedstock.git
+	path = feedstocks/flang-rt
+	branch = refs/heads/main
