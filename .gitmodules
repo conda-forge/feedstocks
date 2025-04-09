@@ -101282,3 +101282,7 @@
 	url = https://github.com/conda-forge/slem-learn-feedstock.git
 	path = feedstocks/slem-learn
 	branch = refs/heads/main
+[submodule "pengwann"]
+	url = https://github.com/conda-forge/pengwann-feedstock.git
+	path = feedstocks/pengwann
+	branch = refs/heads/main
