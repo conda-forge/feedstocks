@@ -101266,3 +101266,7 @@
 	url = https://github.com/conda-forge/shiny-validate-feedstock.git
 	path = feedstocks/shiny-validate
 	branch = refs/heads/main
+[submodule "pipettor"]
+	url = https://github.com/conda-forge/pipettor-feedstock.git
+	path = feedstocks/pipettor
+	branch = refs/heads/main
