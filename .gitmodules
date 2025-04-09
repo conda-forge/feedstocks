@@ -101310,3 +101310,7 @@
 	url = https://github.com/conda-forge/ndlinear-feedstock.git
 	path = feedstocks/ndlinear
 	branch = refs/heads/main
+[submodule "smefit"]
+	url = https://github.com/conda-forge/smefit-feedstock.git
+	path = feedstocks/smefit
+	branch = refs/heads/main
