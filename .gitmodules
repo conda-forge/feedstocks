@@ -101270,3 +101270,7 @@
 	url = https://github.com/conda-forge/pipettor-feedstock.git
 	path = feedstocks/pipettor
 	branch = refs/heads/main
+[submodule "stanhf"]
+	url = https://github.com/conda-forge/stanhf-feedstock.git
+	path = feedstocks/stanhf
+	branch = refs/heads/main
