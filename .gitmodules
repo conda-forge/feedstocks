@@ -101294,3 +101294,7 @@
 	url = https://github.com/conda-forge/buildingregulariser-feedstock.git
 	path = feedstocks/buildingregulariser
 	branch = refs/heads/main
+[submodule "tidalpy"]
+	url = https://github.com/conda-forge/tidalpy-feedstock.git
+	path = feedstocks/tidalpy
+	branch = refs/heads/main
