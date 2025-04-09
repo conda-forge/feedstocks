@@ -101274,3 +101274,7 @@
 	url = https://github.com/conda-forge/stanhf-feedstock.git
 	path = feedstocks/stanhf
 	branch = refs/heads/main
+[submodule "job-pool"]
+	url = https://github.com/conda-forge/job-pool-feedstock.git
+	path = feedstocks/job-pool
+	branch = refs/heads/main
