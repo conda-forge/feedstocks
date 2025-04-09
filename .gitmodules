@@ -101290,3 +101290,7 @@
 	url = https://github.com/conda-forge/evargs-feedstock.git
 	path = feedstocks/evargs
 	branch = refs/heads/main
+[submodule "buildingregulariser"]
+	url = https://github.com/conda-forge/buildingregulariser-feedstock.git
+	path = feedstocks/buildingregulariser
+	branch = refs/heads/main
