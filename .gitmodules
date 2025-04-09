@@ -101298,3 +101298,7 @@
 	url = https://github.com/conda-forge/tidalpy-feedstock.git
 	path = feedstocks/tidalpy
 	branch = refs/heads/main
+[submodule "piqa"]
+	url = https://github.com/conda-forge/piqa-feedstock.git
+	path = feedstocks/piqa
+	branch = refs/heads/main
