@@ -101286,3 +101286,7 @@
 	url = https://github.com/conda-forge/pengwann-feedstock.git
 	path = feedstocks/pengwann
 	branch = refs/heads/main
+[submodule "evargs"]
+	url = https://github.com/conda-forge/evargs-feedstock.git
+	path = feedstocks/evargs
+	branch = refs/heads/main
