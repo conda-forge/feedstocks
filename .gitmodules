@@ -101314,3 +101314,7 @@
 	url = https://github.com/conda-forge/smefit-feedstock.git
 	path = feedstocks/smefit
 	branch = refs/heads/main
+[submodule "pydiverse-common"]
+	url = https://github.com/conda-forge/pydiverse-common-feedstock.git
+	path = feedstocks/pydiverse-common
+	branch = refs/heads/main
