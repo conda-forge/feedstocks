@@ -101322,3 +101322,7 @@
 	url = https://github.com/conda-forge/condense-json-feedstock.git
 	path = feedstocks/condense-json
 	branch = refs/heads/main
+[submodule "servicex-analysis-utils"]
+	url = https://github.com/conda-forge/servicex-analysis-utils-feedstock.git
+	path = feedstocks/servicex-analysis-utils
+	branch = refs/heads/main
