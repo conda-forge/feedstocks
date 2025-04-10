@@ -101318,3 +101318,7 @@
 	url = https://github.com/conda-forge/pydiverse-common-feedstock.git
 	path = feedstocks/pydiverse-common
 	branch = refs/heads/main
+[submodule "condense-json"]
+	url = https://github.com/conda-forge/condense-json-feedstock.git
+	path = feedstocks/condense-json
+	branch = refs/heads/main
