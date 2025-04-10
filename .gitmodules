@@ -101326,3 +101326,7 @@
 	url = https://github.com/conda-forge/servicex-analysis-utils-feedstock.git
 	path = feedstocks/servicex-analysis-utils
 	branch = refs/heads/main
+[submodule "geoh5_interop"]
+	url = https://github.com/conda-forge/geoh5_interop-feedstock.git
+	path = feedstocks/geoh5_interop
+	branch = refs/heads/main
