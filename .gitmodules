@@ -101354,3 +101354,7 @@
 	url = https://github.com/conda-forge/django-typer-feedstock.git
 	path = feedstocks/django-typer
 	branch = refs/heads/main
+[submodule "coredumpy"]
+	url = https://github.com/conda-forge/coredumpy-feedstock.git
+	path = feedstocks/coredumpy
+	branch = refs/heads/main
