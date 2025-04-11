@@ -101330,3 +101330,7 @@
 	url = https://github.com/conda-forge/geoh5_interop-feedstock.git
 	path = feedstocks/geoh5_interop
 	branch = refs/heads/main
+[submodule "kissbt"]
+	url = https://github.com/conda-forge/kissbt-feedstock.git
+	path = feedstocks/kissbt
+	branch = refs/heads/main
