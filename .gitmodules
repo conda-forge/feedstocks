@@ -101334,3 +101334,7 @@
 	url = https://github.com/conda-forge/kissbt-feedstock.git
 	path = feedstocks/kissbt
 	branch = refs/heads/main
+[submodule "rjieba"]
+	url = https://github.com/conda-forge/rjieba-feedstock.git
+	path = feedstocks/rjieba
+	branch = refs/heads/main
