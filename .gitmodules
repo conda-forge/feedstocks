@@ -101338,3 +101338,7 @@
 	url = https://github.com/conda-forge/rjieba-feedstock.git
 	path = feedstocks/rjieba
 	branch = refs/heads/main
+[submodule "emi"]
+	url = https://github.com/conda-forge/emi-feedstock.git
+	path = feedstocks/emi
+	branch = refs/heads/main
