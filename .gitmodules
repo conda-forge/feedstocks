@@ -101358,3 +101358,7 @@
 	url = https://github.com/conda-forge/coredumpy-feedstock.git
 	path = feedstocks/coredumpy
 	branch = refs/heads/main
+[submodule "clypi"]
+	url = https://github.com/conda-forge/clypi-feedstock.git
+	path = feedstocks/clypi
+	branch = refs/heads/main
