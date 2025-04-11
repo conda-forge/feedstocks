@@ -101342,3 +101342,7 @@
 	url = https://github.com/conda-forge/emi-feedstock.git
 	path = feedstocks/emi
 	branch = refs/heads/main
+[submodule "google-adk"]
+	url = https://github.com/conda-forge/google-adk-feedstock.git
+	path = feedstocks/google-adk
+	branch = refs/heads/main
