@@ -101346,3 +101346,7 @@
 	url = https://github.com/conda-forge/google-adk-feedstock.git
 	path = feedstocks/google-adk
 	branch = refs/heads/main
+[submodule "earthkit-utils"]
+	url = https://github.com/conda-forge/earthkit-utils-feedstock.git
+	path = feedstocks/earthkit-utils
+	branch = refs/heads/main
