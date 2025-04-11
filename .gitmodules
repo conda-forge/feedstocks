@@ -101350,3 +101350,7 @@
 	url = https://github.com/conda-forge/earthkit-utils-feedstock.git
 	path = feedstocks/earthkit-utils
 	branch = refs/heads/main
+[submodule "django-typer"]
+	url = https://github.com/conda-forge/django-typer-feedstock.git
+	path = feedstocks/django-typer
+	branch = refs/heads/main
