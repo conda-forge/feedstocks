@@ -101362,3 +101362,7 @@
 	url = https://github.com/conda-forge/clypi-feedstock.git
 	path = feedstocks/clypi
 	branch = refs/heads/main
+[submodule "datastar-py"]
+	url = https://github.com/conda-forge/datastar-py-feedstock.git
+	path = feedstocks/datastar-py
+	branch = refs/heads/main
