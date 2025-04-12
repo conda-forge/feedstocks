@@ -101366,3 +101366,7 @@
 	url = https://github.com/conda-forge/datastar-py-feedstock.git
 	path = feedstocks/datastar-py
 	branch = refs/heads/main
+[submodule "cargo-sweep"]
+	url = https://github.com/conda-forge/cargo-sweep-feedstock.git
+	path = feedstocks/cargo-sweep
+	branch = refs/heads/main
