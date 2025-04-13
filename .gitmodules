@@ -101414,3 +101414,7 @@
 	url = https://github.com/conda-forge/nanoeigenpy-feedstock.git
 	path = feedstocks/nanoeigenpy
 	branch = refs/heads/main
+[submodule "python-metatensor-torch"]
+	url = https://github.com/conda-forge/python-metatensor-torch-feedstock.git
+	path = feedstocks/python-metatensor-torch
+	branch = refs/heads/main
