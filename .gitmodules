@@ -101378,3 +101378,7 @@
 	url = https://github.com/conda-forge/textcase-feedstock.git
 	path = feedstocks/textcase
 	branch = refs/heads/main
+[submodule "pysqlscribe"]
+	url = https://github.com/conda-forge/pysqlscribe-feedstock.git
+	path = feedstocks/pysqlscribe
+	branch = refs/heads/main
