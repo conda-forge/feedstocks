@@ -101386,3 +101386,7 @@
 	url = https://github.com/conda-forge/clang-format-docs-feedstock.git
 	path = feedstocks/clang-format-docs
 	branch = refs/heads/main
+[submodule "xan"]
+	url = https://github.com/conda-forge/xan-feedstock.git
+	path = feedstocks/xan
+	branch = refs/heads/main
