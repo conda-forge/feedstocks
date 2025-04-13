@@ -101402,3 +101402,7 @@
 	url = https://github.com/conda-forge/fgclustering-feedstock.git
 	path = feedstocks/fgclustering
 	branch = refs/heads/main
+[submodule "nerfacc"]
+	url = https://github.com/conda-forge/nerfacc-feedstock.git
+	path = feedstocks/nerfacc
+	branch = refs/heads/main
