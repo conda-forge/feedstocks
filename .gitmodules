@@ -101390,3 +101390,7 @@
 	url = https://github.com/conda-forge/xan-feedstock.git
 	path = feedstocks/xan
 	branch = refs/heads/main
+[submodule "deepmd-gnn"]
+	url = https://github.com/conda-forge/deepmd-gnn-feedstock.git
+	path = feedstocks/deepmd-gnn
+	branch = refs/heads/main
