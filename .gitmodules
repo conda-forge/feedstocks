@@ -101398,3 +101398,7 @@
 	url = https://github.com/conda-forge/pds.api-client-feedstock.git
 	path = feedstocks/pds.api-client
 	branch = refs/heads/main
+[submodule "fgclustering"]
+	url = https://github.com/conda-forge/fgclustering-feedstock.git
+	path = feedstocks/fgclustering
+	branch = refs/heads/main
