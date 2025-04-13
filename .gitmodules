@@ -101406,3 +101406,7 @@
 	url = https://github.com/conda-forge/nerfacc-feedstock.git
 	path = feedstocks/nerfacc
 	branch = refs/heads/main
+[submodule "rdkit2ase"]
+	url = https://github.com/conda-forge/rdkit2ase-feedstock.git
+	path = feedstocks/rdkit2ase
+	branch = refs/heads/main
