@@ -101410,3 +101410,7 @@
 	url = https://github.com/conda-forge/rdkit2ase-feedstock.git
 	path = feedstocks/rdkit2ase
 	branch = refs/heads/main
+[submodule "nanoeigenpy"]
+	url = https://github.com/conda-forge/nanoeigenpy-feedstock.git
+	path = feedstocks/nanoeigenpy
+	branch = refs/heads/main
