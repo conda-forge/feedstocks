@@ -101422,3 +101422,7 @@
 	url = https://github.com/conda-forge/libpisp-feedstock.git
 	path = feedstocks/libpisp
 	branch = refs/heads/main
+[submodule "pngcheck"]
+	url = https://github.com/conda-forge/pngcheck-feedstock.git
+	path = feedstocks/pngcheck
+	branch = refs/heads/main
