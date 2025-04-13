@@ -101394,3 +101394,7 @@
 	url = https://github.com/conda-forge/deepmd-gnn-feedstock.git
 	path = feedstocks/deepmd-gnn
 	branch = refs/heads/main
+[submodule "pds.api-client"]
+	url = https://github.com/conda-forge/pds.api-client-feedstock.git
+	path = feedstocks/pds.api-client
+	branch = refs/heads/main
