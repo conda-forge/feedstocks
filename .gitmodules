@@ -101418,3 +101418,7 @@
 	url = https://github.com/conda-forge/python-metatensor-torch-feedstock.git
 	path = feedstocks/python-metatensor-torch
 	branch = refs/heads/main
+[submodule "libpisp"]
+	url = https://github.com/conda-forge/libpisp-feedstock.git
+	path = feedstocks/libpisp
+	branch = refs/heads/main
