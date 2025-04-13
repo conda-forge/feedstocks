@@ -101382,3 +101382,7 @@
 	url = https://github.com/conda-forge/pysqlscribe-feedstock.git
 	path = feedstocks/pysqlscribe
 	branch = refs/heads/main
+[submodule "clang-format-docs"]
+	url = https://github.com/conda-forge/clang-format-docs-feedstock.git
+	path = feedstocks/clang-format-docs
+	branch = refs/heads/main
