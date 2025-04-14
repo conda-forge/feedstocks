@@ -101474,3 +101474,7 @@
 	url = https://github.com/conda-forge/r-pgenlibr-feedstock.git
 	path = feedstocks/r-pgenlibr
 	branch = refs/heads/main
+[submodule "drf-access-policy"]
+	url = https://github.com/conda-forge/drf-access-policy-feedstock.git
+	path = feedstocks/drf-access-policy
+	branch = refs/heads/main
