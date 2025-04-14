@@ -101462,3 +101462,7 @@
 	url = https://github.com/conda-forge/r-gmcm-feedstock.git
 	path = feedstocks/r-gmcm
 	branch = refs/heads/main
+[submodule "r-onlinepca"]
+	url = https://github.com/conda-forge/r-onlinepca-feedstock.git
+	path = feedstocks/r-onlinepca
+	branch = refs/heads/main
