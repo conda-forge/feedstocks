@@ -101426,3 +101426,7 @@
 	url = https://github.com/conda-forge/pngcheck-feedstock.git
 	path = feedstocks/pngcheck
 	branch = refs/heads/main
+[submodule "r-catr"]
+	url = https://github.com/conda-forge/r-catr-feedstock.git
+	path = feedstocks/r-catr
+	branch = refs/heads/main
