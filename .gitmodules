@@ -101470,3 +101470,7 @@
 	url = https://github.com/conda-forge/r-pqlseq-feedstock.git
 	path = feedstocks/r-pqlseq
 	branch = refs/heads/main
+[submodule "r-pgenlibr"]
+	url = https://github.com/conda-forge/r-pgenlibr-feedstock.git
+	path = feedstocks/r-pgenlibr
+	branch = refs/heads/main
