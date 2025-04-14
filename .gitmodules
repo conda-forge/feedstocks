@@ -101482,3 +101482,7 @@
 	url = https://github.com/conda-forge/variable_inspector-feedstock.git
 	path = feedstocks/variable_inspector
 	branch = refs/heads/main
+[submodule "sortedcontainers-stubs"]
+	url = https://github.com/conda-forge/sortedcontainers-stubs-feedstock.git
+	path = feedstocks/sortedcontainers-stubs
+	branch = refs/heads/main
