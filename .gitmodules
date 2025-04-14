@@ -101498,3 +101498,7 @@
 	url = https://github.com/conda-forge/google-cloud-ndb-feedstock.git
 	path = feedstocks/google-cloud-ndb
 	branch = refs/heads/main
+[submodule "rb-bigdecimal"]
+	url = https://github.com/conda-forge/rb-bigdecimal-feedstock.git
+	path = feedstocks/rb-bigdecimal
+	branch = refs/heads/main
