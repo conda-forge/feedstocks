@@ -101434,3 +101434,7 @@
 	url = https://github.com/conda-forge/r-dfdr-feedstock.git
 	path = feedstocks/r-dfdr
 	branch = refs/heads/main
+[submodule "stanalyzer"]
+	url = https://github.com/conda-forge/stanalyzer-feedstock.git
+	path = feedstocks/stanalyzer
+	branch = refs/heads/main
