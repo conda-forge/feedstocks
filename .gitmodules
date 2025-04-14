@@ -101454,3 +101454,7 @@
 	url = https://github.com/conda-forge/r-secretsprovider-feedstock.git
 	path = feedstocks/r-secretsprovider
 	branch = refs/heads/main
+[submodule "r-pdsce"]
+	url = https://github.com/conda-forge/r-pdsce-feedstock.git
+	path = feedstocks/r-pdsce
+	branch = refs/heads/main
