@@ -101430,3 +101430,7 @@
 	url = https://github.com/conda-forge/r-catr-feedstock.git
 	path = feedstocks/r-catr
 	branch = refs/heads/main
+[submodule "r-dfdr"]
+	url = https://github.com/conda-forge/r-dfdr-feedstock.git
+	path = feedstocks/r-dfdr
+	branch = refs/heads/main
