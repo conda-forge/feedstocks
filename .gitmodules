@@ -101490,3 +101490,7 @@
 	url = https://github.com/conda-forge/pyplaces-feedstock.git
 	path = feedstocks/pyplaces
 	branch = refs/heads/main
+[submodule "behave-html-pretty-formatter"]
+	url = https://github.com/conda-forge/behave-html-pretty-formatter-feedstock.git
+	path = feedstocks/behave-html-pretty-formatter
+	branch = refs/heads/main
