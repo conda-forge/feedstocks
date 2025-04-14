@@ -101478,3 +101478,7 @@
 	url = https://github.com/conda-forge/drf-access-policy-feedstock.git
 	path = feedstocks/drf-access-policy
 	branch = refs/heads/main
+[submodule "variable_inspector"]
+	url = https://github.com/conda-forge/variable_inspector-feedstock.git
+	path = feedstocks/variable_inspector
+	branch = refs/heads/main
