@@ -101502,3 +101502,7 @@
 	url = https://github.com/conda-forge/rb-bigdecimal-feedstock.git
 	path = feedstocks/rb-bigdecimal
 	branch = refs/heads/main
+[submodule "ctapipe_io_zfits"]
+	url = https://github.com/conda-forge/ctapipe_io_zfits-feedstock.git
+	path = feedstocks/ctapipe_io_zfits
+	branch = refs/heads/main
