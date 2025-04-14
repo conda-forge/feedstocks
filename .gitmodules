@@ -101466,3 +101466,7 @@
 	url = https://github.com/conda-forge/r-onlinepca-feedstock.git
 	path = feedstocks/r-onlinepca
 	branch = refs/heads/main
+[submodule "r-pqlseq"]
+	url = https://github.com/conda-forge/r-pqlseq-feedstock.git
+	path = feedstocks/r-pqlseq
+	branch = refs/heads/main
