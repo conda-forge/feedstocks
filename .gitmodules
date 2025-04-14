@@ -101458,3 +101458,7 @@
 	url = https://github.com/conda-forge/r-pdsce-feedstock.git
 	path = feedstocks/r-pdsce
 	branch = refs/heads/main
+[submodule "r-gmcm"]
+	url = https://github.com/conda-forge/r-gmcm-feedstock.git
+	path = feedstocks/r-gmcm
+	branch = refs/heads/main
