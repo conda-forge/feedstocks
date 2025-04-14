@@ -101506,3 +101506,7 @@
 	url = https://github.com/conda-forge/ctapipe_io_zfits-feedstock.git
 	path = feedstocks/ctapipe_io_zfits
 	branch = refs/heads/main
+[submodule "plate-simulation"]
+	url = https://github.com/conda-forge/plate-simulation-feedstock.git
+	path = feedstocks/plate-simulation
+	branch = refs/heads/main
