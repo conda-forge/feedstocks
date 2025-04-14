@@ -101494,3 +101494,7 @@
 	url = https://github.com/conda-forge/behave-html-pretty-formatter-feedstock.git
 	path = feedstocks/behave-html-pretty-formatter
 	branch = refs/heads/main
+[submodule "google-cloud-ndb"]
+	url = https://github.com/conda-forge/google-cloud-ndb-feedstock.git
+	path = feedstocks/google-cloud-ndb
+	branch = refs/heads/main
