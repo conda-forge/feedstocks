@@ -101486,3 +101486,7 @@
 	url = https://github.com/conda-forge/sortedcontainers-stubs-feedstock.git
 	path = feedstocks/sortedcontainers-stubs
 	branch = refs/heads/main
+[submodule "pyplaces"]
+	url = https://github.com/conda-forge/pyplaces-feedstock.git
+	path = feedstocks/pyplaces
+	branch = refs/heads/main
