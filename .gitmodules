@@ -101510,3 +101510,7 @@
 	url = https://github.com/conda-forge/plate-simulation-feedstock.git
 	path = feedstocks/plate-simulation
 	branch = refs/heads/main
+[submodule "terraform-provider-oci"]
+	url = https://github.com/conda-forge/terraform-provider-oci-feedstock.git
+	path = feedstocks/terraform-provider-oci
+	branch = refs/heads/main
