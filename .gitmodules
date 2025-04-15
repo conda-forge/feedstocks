@@ -101514,3 +101514,7 @@
 	url = https://github.com/conda-forge/terraform-provider-oci-feedstock.git
 	path = feedstocks/terraform-provider-oci
 	branch = refs/heads/main
+[submodule "r-ast2ast"]
+	url = https://github.com/conda-forge/r-ast2ast-feedstock.git
+	path = feedstocks/r-ast2ast
+	branch = refs/heads/main
