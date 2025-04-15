@@ -101526,3 +101526,7 @@
 	url = https://github.com/conda-forge/langfuse-python-feedstock.git
 	path = feedstocks/langfuse-python
 	branch = refs/heads/main
+[submodule "vexctl"]
+	url = https://github.com/conda-forge/vexctl-feedstock.git
+	path = feedstocks/vexctl
+	branch = refs/heads/main
