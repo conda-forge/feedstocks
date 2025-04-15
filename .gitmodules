@@ -101534,3 +101534,7 @@
 	url = https://github.com/conda-forge/maoto-agent-feedstock.git
 	path = feedstocks/maoto-agent
 	branch = refs/heads/main
+[submodule "xarray-enmap"]
+	url = https://github.com/conda-forge/xarray-enmap-feedstock.git
+	path = feedstocks/xarray-enmap
+	branch = refs/heads/main
