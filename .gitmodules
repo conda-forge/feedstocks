@@ -101522,3 +101522,7 @@
 	url = https://github.com/conda-forge/pretab-feedstock.git
 	path = feedstocks/pretab
 	branch = refs/heads/main
+[submodule "langfuse-python"]
+	url = https://github.com/conda-forge/langfuse-python-feedstock.git
+	path = feedstocks/langfuse-python
+	branch = refs/heads/main
