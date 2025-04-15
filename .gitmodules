@@ -101518,3 +101518,7 @@
 	url = https://github.com/conda-forge/r-ast2ast-feedstock.git
 	path = feedstocks/r-ast2ast
 	branch = refs/heads/main
+[submodule "pretab"]
+	url = https://github.com/conda-forge/pretab-feedstock.git
+	path = feedstocks/pretab
+	branch = refs/heads/main
