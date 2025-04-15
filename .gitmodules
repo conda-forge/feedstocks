@@ -101538,3 +101538,7 @@
 	url = https://github.com/conda-forge/xarray-enmap-feedstock.git
 	path = feedstocks/xarray-enmap
 	branch = refs/heads/main
+[submodule "verilator-python"]
+	url = https://github.com/conda-forge/verilator-python-feedstock.git
+	path = feedstocks/verilator-python
+	branch = refs/heads/main
