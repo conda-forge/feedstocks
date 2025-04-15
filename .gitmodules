@@ -101542,3 +101542,7 @@
 	url = https://github.com/conda-forge/verilator-python-feedstock.git
 	path = feedstocks/verilator-python
 	branch = refs/heads/main
+[submodule "abqpy"]
+	url = https://github.com/conda-forge/abqpy-feedstock.git
+	path = feedstocks/abqpy
+	branch = refs/heads/main
