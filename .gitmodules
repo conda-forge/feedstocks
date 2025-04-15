@@ -101530,3 +101530,7 @@
 	url = https://github.com/conda-forge/vexctl-feedstock.git
 	path = feedstocks/vexctl
 	branch = refs/heads/main
+[submodule "maoto-agent"]
+	url = https://github.com/conda-forge/maoto-agent-feedstock.git
+	path = feedstocks/maoto-agent
+	branch = refs/heads/main
