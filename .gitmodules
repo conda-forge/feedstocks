@@ -101562,3 +101562,7 @@
 	url = https://github.com/conda-forge/ilpy-feedstock.git
 	path = feedstocks/ilpy
 	branch = refs/heads/main
+[submodule "diffstarpop"]
+	url = https://github.com/conda-forge/diffstarpop-feedstock.git
+	path = feedstocks/diffstarpop
+	branch = refs/heads/main
