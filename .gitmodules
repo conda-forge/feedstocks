@@ -101574,3 +101574,7 @@
 	url = https://github.com/conda-forge/casacpp-feedstock.git
 	path = feedstocks/casacpp
 	branch = refs/heads/main
+[submodule "structsvm"]
+	url = https://github.com/conda-forge/structsvm-feedstock.git
+	path = feedstocks/structsvm
+	branch = refs/heads/main
