@@ -101558,3 +101558,7 @@
 	url = https://github.com/conda-forge/nvimgcodec-feedstock.git
 	path = feedstocks/nvimgcodec
 	branch = refs/heads/main
+[submodule "ilpy"]
+	url = https://github.com/conda-forge/ilpy-feedstock.git
+	path = feedstocks/ilpy
+	branch = refs/heads/main
