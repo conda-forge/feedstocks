@@ -101578,3 +101578,7 @@
 	url = https://github.com/conda-forge/structsvm-feedstock.git
 	path = feedstocks/structsvm
 	branch = refs/heads/main
+[submodule "panoptica"]
+	url = https://github.com/conda-forge/panoptica-feedstock.git
+	path = feedstocks/panoptica
+	branch = refs/heads/main
