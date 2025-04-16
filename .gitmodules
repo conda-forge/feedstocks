@@ -101570,3 +101570,7 @@
 	url = https://github.com/conda-forge/nurikit-feedstock.git
 	path = feedstocks/nurikit
 	branch = refs/heads/main
+[submodule "casacpp"]
+	url = https://github.com/conda-forge/casacpp-feedstock.git
+	path = feedstocks/casacpp
+	branch = refs/heads/main
