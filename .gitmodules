@@ -101614,3 +101614,7 @@
 	url = https://github.com/conda-forge/pds.peppi-feedstock.git
 	path = feedstocks/pds.peppi
 	branch = refs/heads/main
+[submodule "candlewick"]
+	url = https://github.com/conda-forge/candlewick-feedstock.git
+	path = feedstocks/candlewick
+	branch = refs/heads/main
