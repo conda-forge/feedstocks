@@ -101602,3 +101602,7 @@
 	url = https://github.com/conda-forge/roboverse-py-feedstock.git
 	path = feedstocks/roboverse-py
 	branch = refs/heads/main
+[submodule "rootutils"]
+	url = https://github.com/conda-forge/rootutils-feedstock.git
+	path = feedstocks/rootutils
+	branch = refs/heads/main
