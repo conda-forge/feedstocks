@@ -101646,3 +101646,7 @@
 	url = https://github.com/conda-forge/openorbitaloptimizer-feedstock.git
 	path = feedstocks/openorbitaloptimizer
 	branch = refs/heads/main
+[submodule "auxiliary"]
+	url = https://github.com/conda-forge/auxiliary-feedstock.git
+	path = feedstocks/auxiliary
+	branch = refs/heads/main
