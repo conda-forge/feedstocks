@@ -101598,3 +101598,7 @@
 	url = https://github.com/conda-forge/smallestai-feedstock.git
 	path = feedstocks/smallestai
 	branch = refs/heads/main
+[submodule "roboverse-py"]
+	url = https://github.com/conda-forge/roboverse-py-feedstock.git
+	path = feedstocks/roboverse-py
+	branch = refs/heads/main
