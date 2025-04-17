@@ -101626,3 +101626,7 @@
 	url = https://github.com/conda-forge/rawpy-feedstock.git
 	path = feedstocks/rawpy
 	branch = refs/heads/main
+[submodule "openfoam"]
+	url = https://github.com/conda-forge/openfoam-feedstock.git
+	path = feedstocks/openfoam
+	branch = refs/heads/main
