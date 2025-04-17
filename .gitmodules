@@ -101610,3 +101610,7 @@
 	url = https://github.com/conda-forge/dataframely-feedstock.git
 	path = feedstocks/dataframely
 	branch = refs/heads/main
+[submodule "pds.peppi"]
+	url = https://github.com/conda-forge/pds.peppi-feedstock.git
+	path = feedstocks/pds.peppi
+	branch = refs/heads/main
