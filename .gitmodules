@@ -101586,3 +101586,7 @@
 	url = https://github.com/conda-forge/rbloom-feedstock.git
 	path = feedstocks/rbloom
 	branch = refs/heads/main
+[submodule "infomeasure"]
+	url = https://github.com/conda-forge/infomeasure-feedstock.git
+	path = feedstocks/infomeasure
+	branch = refs/heads/main
