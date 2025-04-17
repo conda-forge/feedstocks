@@ -101618,3 +101618,7 @@
 	url = https://github.com/conda-forge/candlewick-feedstock.git
 	path = feedstocks/candlewick
 	branch = refs/heads/main
+[submodule "xatlas-python"]
+	url = https://github.com/conda-forge/xatlas-python-feedstock.git
+	path = feedstocks/xatlas-python
+	branch = refs/heads/main
