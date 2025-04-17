@@ -101622,3 +101622,7 @@
 	url = https://github.com/conda-forge/xatlas-python-feedstock.git
 	path = feedstocks/xatlas-python
 	branch = refs/heads/main
+[submodule "rawpy"]
+	url = https://github.com/conda-forge/rawpy-feedstock.git
+	path = feedstocks/rawpy
+	branch = refs/heads/main
