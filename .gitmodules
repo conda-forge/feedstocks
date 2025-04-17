@@ -101638,3 +101638,7 @@
 	url = https://github.com/conda-forge/codex-feedstock.git
 	path = feedstocks/codex
 	branch = refs/heads/main
+[submodule "integratorxx"]
+	url = https://github.com/conda-forge/integratorxx-feedstock.git
+	path = feedstocks/integratorxx
+	branch = refs/heads/main
