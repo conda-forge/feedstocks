@@ -101630,3 +101630,7 @@
 	url = https://github.com/conda-forge/openfoam-feedstock.git
 	path = feedstocks/openfoam
 	branch = refs/heads/main
+[submodule "casaconfig"]
+	url = https://github.com/conda-forge/casaconfig-feedstock.git
+	path = feedstocks/casaconfig
+	branch = refs/heads/main
