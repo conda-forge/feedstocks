@@ -101582,3 +101582,7 @@
 	url = https://github.com/conda-forge/panoptica-feedstock.git
 	path = feedstocks/panoptica
 	branch = refs/heads/main
+[submodule "rbloom"]
+	url = https://github.com/conda-forge/rbloom-feedstock.git
+	path = feedstocks/rbloom
+	branch = refs/heads/main
