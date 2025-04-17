@@ -101634,3 +101634,7 @@
 	url = https://github.com/conda-forge/casaconfig-feedstock.git
 	path = feedstocks/casaconfig
 	branch = refs/heads/main
+[submodule "codex"]
+	url = https://github.com/conda-forge/codex-feedstock.git
+	path = feedstocks/codex
+	branch = refs/heads/main
