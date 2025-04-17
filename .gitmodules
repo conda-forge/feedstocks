@@ -101594,3 +101594,7 @@
 	url = https://github.com/conda-forge/motile-feedstock.git
 	path = feedstocks/motile
 	branch = refs/heads/main
+[submodule "smallestai"]
+	url = https://github.com/conda-forge/smallestai-feedstock.git
+	path = feedstocks/smallestai
+	branch = refs/heads/main
