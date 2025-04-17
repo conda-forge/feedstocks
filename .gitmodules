@@ -101606,3 +101606,7 @@
 	url = https://github.com/conda-forge/rootutils-feedstock.git
 	path = feedstocks/rootutils
 	branch = refs/heads/main
+[submodule "dataframely"]
+	url = https://github.com/conda-forge/dataframely-feedstock.git
+	path = feedstocks/dataframely
+	branch = refs/heads/main
