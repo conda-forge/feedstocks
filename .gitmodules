@@ -101666,3 +101666,7 @@
 	url = https://github.com/conda-forge/superpunto-feedstock.git
 	path = feedstocks/superpunto
 	branch = refs/heads/main
+[submodule "tree-sitter-embedded-template"]
+	url = https://github.com/conda-forge/tree-sitter-embedded-template-feedstock.git
+	path = feedstocks/tree-sitter-embedded-template
+	branch = refs/heads/main
