@@ -101658,3 +101658,7 @@
 	url = https://github.com/conda-forge/libsbml-feedstock.git
 	path = feedstocks/libsbml
 	branch = refs/heads/main
+[submodule "tree-sitter-c-sharp"]
+	url = https://github.com/conda-forge/tree-sitter-c-sharp-feedstock.git
+	path = feedstocks/tree-sitter-c-sharp
+	branch = refs/heads/main
