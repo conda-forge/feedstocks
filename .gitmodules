@@ -101650,3 +101650,7 @@
 	url = https://github.com/conda-forge/auxiliary-feedstock.git
 	path = feedstocks/auxiliary
 	branch = refs/heads/main
+[submodule "xtcocotools"]
+	url = https://github.com/conda-forge/xtcocotools-feedstock.git
+	path = feedstocks/xtcocotools
+	branch = refs/heads/main
