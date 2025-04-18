@@ -101670,3 +101670,7 @@
 	url = https://github.com/conda-forge/tree-sitter-embedded-template-feedstock.git
 	path = feedstocks/tree-sitter-embedded-template
 	branch = refs/heads/main
+[submodule "tree-sitter-yaml"]
+	url = https://github.com/conda-forge/tree-sitter-yaml-feedstock.git
+	path = feedstocks/tree-sitter-yaml
+	branch = refs/heads/main
