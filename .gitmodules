@@ -101678,3 +101678,7 @@
 	url = https://github.com/conda-forge/uv-build-feedstock.git
 	path = feedstocks/uv-build
 	branch = refs/heads/main
+[submodule "pbcuda"]
+	url = https://github.com/conda-forge/pbcuda-feedstock.git
+	path = feedstocks/pbcuda
+	branch = refs/heads/main
