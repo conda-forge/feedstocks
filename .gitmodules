@@ -101682,3 +101682,7 @@
 	url = https://github.com/conda-forge/pbcuda-feedstock.git
 	path = feedstocks/pbcuda
 	branch = refs/heads/main
+[submodule "winloop"]
+	url = https://github.com/conda-forge/winloop-feedstock.git
+	path = feedstocks/winloop
+	branch = refs/heads/main
