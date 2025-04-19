@@ -101674,3 +101674,7 @@
 	url = https://github.com/conda-forge/tree-sitter-yaml-feedstock.git
 	path = feedstocks/tree-sitter-yaml
 	branch = refs/heads/main
+[submodule "uv-build"]
+	url = https://github.com/conda-forge/uv-build-feedstock.git
+	path = feedstocks/uv-build
+	branch = refs/heads/main
