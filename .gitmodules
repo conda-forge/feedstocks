@@ -101698,3 +101698,7 @@
 	url = https://github.com/conda-forge/jsonformatter-feedstock.git
 	path = feedstocks/jsonformatter
 	branch = refs/heads/main
+[submodule "libgravatar"]
+	url = https://github.com/conda-forge/libgravatar-feedstock.git
+	path = feedstocks/libgravatar
+	branch = refs/heads/main
