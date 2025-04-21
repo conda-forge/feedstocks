@@ -101702,3 +101702,7 @@
 	url = https://github.com/conda-forge/libgravatar-feedstock.git
 	path = feedstocks/libgravatar
 	branch = refs/heads/main
+[submodule "testscenarios"]
+	url = https://github.com/conda-forge/testscenarios-feedstock.git
+	path = feedstocks/testscenarios
+	branch = refs/heads/main
