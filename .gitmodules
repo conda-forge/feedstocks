@@ -101686,3 +101686,7 @@
 	url = https://github.com/conda-forge/winloop-feedstock.git
 	path = feedstocks/winloop
 	branch = refs/heads/main
+[submodule "func-adl-xaod"]
+	url = https://github.com/conda-forge/func-adl-xaod-feedstock.git
+	path = feedstocks/func-adl-xaod
+	branch = refs/heads/main
