@@ -101710,3 +101710,7 @@
 	url = https://github.com/conda-forge/flask-paranoid-feedstock.git
 	path = feedstocks/flask-paranoid
 	branch = refs/heads/main
+[submodule "azure-mgmt-rdbms"]
+	url = https://github.com/conda-forge/azure-mgmt-rdbms-feedstock.git
+	path = feedstocks/azure-mgmt-rdbms
+	branch = refs/heads/main
