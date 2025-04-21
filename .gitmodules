@@ -101706,3 +101706,7 @@
 	url = https://github.com/conda-forge/testscenarios-feedstock.git
 	path = feedstocks/testscenarios
 	branch = refs/heads/main
+[submodule "flask-paranoid"]
+	url = https://github.com/conda-forge/flask-paranoid-feedstock.git
+	path = feedstocks/flask-paranoid
+	branch = refs/heads/main
