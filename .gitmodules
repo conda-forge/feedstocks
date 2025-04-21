@@ -101690,3 +101690,7 @@
 	url = https://github.com/conda-forge/func-adl-xaod-feedstock.git
 	path = feedstocks/func-adl-xaod
 	branch = refs/heads/main
+[submodule "livox-sdk2"]
+	url = https://github.com/conda-forge/livox-sdk2-feedstock.git
+	path = feedstocks/livox-sdk2
+	branch = refs/heads/main
