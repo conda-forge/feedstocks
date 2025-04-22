@@ -101734,3 +101734,7 @@
 	url = https://github.com/conda-forge/isosplit6-feedstock.git
 	path = feedstocks/isosplit6
 	branch = refs/heads/main
+[submodule "trame-vtklocal"]
+	url = https://github.com/conda-forge/trame-vtklocal-feedstock.git
+	path = feedstocks/trame-vtklocal
+	branch = refs/heads/main
