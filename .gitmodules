@@ -101722,3 +101722,7 @@
 	url = https://github.com/conda-forge/satchip-feedstock.git
 	path = feedstocks/satchip
 	branch = refs/heads/main
+[submodule "csp-bot-commands"]
+	url = https://github.com/conda-forge/csp-bot-commands-feedstock.git
+	path = feedstocks/csp-bot-commands
+	branch = refs/heads/main
