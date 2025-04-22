@@ -101718,3 +101718,7 @@
 	url = https://github.com/conda-forge/rustac-feedstock.git
 	path = feedstocks/rustac
 	branch = refs/heads/main
+[submodule "satchip"]
+	url = https://github.com/conda-forge/satchip-feedstock.git
+	path = feedstocks/satchip
+	branch = refs/heads/main
