@@ -101726,3 +101726,7 @@
 	url = https://github.com/conda-forge/csp-bot-commands-feedstock.git
 	path = feedstocks/csp-bot-commands
 	branch = refs/heads/main
+[submodule "jsonschema-rs"]
+	url = https://github.com/conda-forge/jsonschema-rs-feedstock.git
+	path = feedstocks/jsonschema-rs
+	branch = refs/heads/main
