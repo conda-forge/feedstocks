@@ -101714,3 +101714,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-rdbms-feedstock.git
 	path = feedstocks/azure-mgmt-rdbms
 	branch = refs/heads/main
+[submodule "rustac"]
+	url = https://github.com/conda-forge/rustac-feedstock.git
+	path = feedstocks/rustac
+	branch = refs/heads/main
