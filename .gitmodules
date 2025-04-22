@@ -101738,3 +101738,7 @@
 	url = https://github.com/conda-forge/trame-vtklocal-feedstock.git
 	path = feedstocks/trame-vtklocal
 	branch = refs/heads/main
+[submodule "morethemes"]
+	url = https://github.com/conda-forge/morethemes-feedstock.git
+	path = feedstocks/morethemes
+	branch = refs/heads/main
