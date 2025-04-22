@@ -101742,3 +101742,7 @@
 	url = https://github.com/conda-forge/morethemes-feedstock.git
 	path = feedstocks/morethemes
 	branch = refs/heads/main
+[submodule "dayplot"]
+	url = https://github.com/conda-forge/dayplot-feedstock.git
+	path = feedstocks/dayplot
+	branch = refs/heads/main
