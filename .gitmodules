@@ -101754,3 +101754,7 @@
 	url = https://github.com/conda-forge/cjdk-feedstock.git
 	path = feedstocks/cjdk
 	branch = refs/heads/main
+[submodule "r-rcppdpr"]
+	url = https://github.com/conda-forge/r-rcppdpr-feedstock.git
+	path = feedstocks/r-rcppdpr
+	branch = refs/heads/main
