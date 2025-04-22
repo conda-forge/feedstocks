@@ -101750,3 +101750,7 @@
 	url = https://github.com/conda-forge/libertem-holo-feedstock.git
 	path = feedstocks/libertem-holo
 	branch = refs/heads/main
+[submodule "cjdk"]
+	url = https://github.com/conda-forge/cjdk-feedstock.git
+	path = feedstocks/cjdk
+	branch = refs/heads/main
