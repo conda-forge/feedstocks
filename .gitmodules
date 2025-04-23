@@ -101758,3 +101758,7 @@
 	url = https://github.com/conda-forge/r-rcppdpr-feedstock.git
 	path = feedstocks/r-rcppdpr
 	branch = refs/heads/main
+[submodule "bioio"]
+	url = https://github.com/conda-forge/bioio-feedstock.git
+	path = feedstocks/bioio
+	branch = refs/heads/main
