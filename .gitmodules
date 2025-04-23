@@ -101766,3 +101766,7 @@
 	url = https://github.com/conda-forge/mountainsort5-feedstock.git
 	path = feedstocks/mountainsort5
 	branch = refs/heads/main
+[submodule "mpython-core"]
+	url = https://github.com/conda-forge/mpython-core-feedstock.git
+	path = feedstocks/mpython-core
+	branch = refs/heads/main
