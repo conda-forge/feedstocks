@@ -101762,3 +101762,7 @@
 	url = https://github.com/conda-forge/bioio-feedstock.git
 	path = feedstocks/bioio
 	branch = refs/heads/main
+[submodule "mountainsort5"]
+	url = https://github.com/conda-forge/mountainsort5-feedstock.git
+	path = feedstocks/mountainsort5
+	branch = refs/heads/main
