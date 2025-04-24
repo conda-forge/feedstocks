@@ -101786,3 +101786,7 @@
 	url = https://github.com/conda-forge/noaa-cdo-api-feedstock.git
 	path = feedstocks/noaa-cdo-api
 	branch = refs/heads/main
+[submodule "kessler"]
+	url = https://github.com/conda-forge/kessler-feedstock.git
+	path = feedstocks/kessler
+	branch = refs/heads/main
