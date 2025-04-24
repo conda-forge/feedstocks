@@ -101778,3 +101778,7 @@
 	url = https://github.com/conda-forge/svcs-feedstock.git
 	path = feedstocks/svcs
 	branch = refs/heads/main
+[submodule "larixite"]
+	url = https://github.com/conda-forge/larixite-feedstock.git
+	path = feedstocks/larixite
+	branch = refs/heads/main
