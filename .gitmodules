@@ -101790,3 +101790,7 @@
 	url = https://github.com/conda-forge/kessler-feedstock.git
 	path = feedstocks/kessler
 	branch = refs/heads/main
+[submodule "lua-language-server"]
+	url = https://github.com/conda-forge/lua-language-server-feedstock.git
+	path = feedstocks/lua-language-server
+	branch = refs/heads/main
