@@ -101782,3 +101782,7 @@
 	url = https://github.com/conda-forge/larixite-feedstock.git
 	path = feedstocks/larixite
 	branch = refs/heads/main
+[submodule "noaa-cdo-api"]
+	url = https://github.com/conda-forge/noaa-cdo-api-feedstock.git
+	path = feedstocks/noaa-cdo-api
+	branch = refs/heads/main
