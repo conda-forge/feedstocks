@@ -101774,3 +101774,7 @@
 	url = https://github.com/conda-forge/paraview-trame-components-feedstock.git
 	path = feedstocks/paraview-trame-components
 	branch = refs/heads/main
+[submodule "svcs"]
+	url = https://github.com/conda-forge/svcs-feedstock.git
+	path = feedstocks/svcs
+	branch = refs/heads/main
