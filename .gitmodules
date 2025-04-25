@@ -101794,3 +101794,7 @@
 	url = https://github.com/conda-forge/lua-language-server-feedstock.git
 	path = feedstocks/lua-language-server
 	branch = refs/heads/main
+[submodule "genericache"]
+	url = https://github.com/conda-forge/genericache-feedstock.git
+	path = feedstocks/genericache
+	branch = refs/heads/main
