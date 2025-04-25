@@ -101802,3 +101802,7 @@
 	url = https://github.com/conda-forge/mt2-feedstock.git
 	path = feedstocks/mt2
 	branch = refs/heads/main
+[submodule "naif_leapseconds"]
+	url = https://github.com/conda-forge/naif_leapseconds-feedstock.git
+	path = feedstocks/naif_leapseconds
+	branch = refs/heads/main
