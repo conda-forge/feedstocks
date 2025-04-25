@@ -101858,3 +101858,7 @@
 	url = https://github.com/conda-forge/cartogram-feedstock.git
 	path = feedstocks/cartogram
 	branch = refs/heads/main
+[submodule "r-lasr"]
+	url = https://github.com/conda-forge/r-lasr-feedstock.git
+	path = feedstocks/r-lasr
+	branch = refs/heads/main
