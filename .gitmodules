@@ -101838,3 +101838,7 @@
 	url = https://github.com/conda-forge/caf.ntem-feedstock.git
 	path = feedstocks/caf.ntem
 	branch = refs/heads/main
+[submodule "cdsetool"]
+	url = https://github.com/conda-forge/cdsetool-feedstock.git
+	path = feedstocks/cdsetool
+	branch = refs/heads/main
