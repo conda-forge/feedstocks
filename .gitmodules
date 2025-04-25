@@ -101834,3 +101834,7 @@
 	url = https://github.com/conda-forge/fed-rag-feedstock.git
 	path = feedstocks/fed-rag
 	branch = refs/heads/main
+[submodule "caf.ntem"]
+	url = https://github.com/conda-forge/caf.ntem-feedstock.git
+	path = feedstocks/caf.ntem
+	branch = refs/heads/main
