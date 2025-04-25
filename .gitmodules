@@ -101822,3 +101822,7 @@
 	url = https://github.com/conda-forge/redis-logs-feedstock.git
 	path = feedstocks/redis-logs
 	branch = refs/heads/main
+[submodule "cacts"]
+	url = https://github.com/conda-forge/cacts-feedstock.git
+	path = feedstocks/cacts
+	branch = refs/heads/main
