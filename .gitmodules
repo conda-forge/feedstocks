@@ -101810,3 +101810,7 @@
 	url = https://github.com/conda-forge/r-suncalcmeeus-feedstock.git
 	path = feedstocks/r-suncalcmeeus
 	branch = refs/heads/main
+[submodule "r-easy.utils"]
+	url = https://github.com/conda-forge/r-easy.utils-feedstock.git
+	path = feedstocks/r-easy.utils
+	branch = refs/heads/main
