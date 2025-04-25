@@ -101846,3 +101846,7 @@
 	url = https://github.com/conda-forge/quivr-feedstock.git
 	path = feedstocks/quivr
 	branch = refs/heads/main
+[submodule "r-hdf5r.extra"]
+	url = https://github.com/conda-forge/r-hdf5r.extra-feedstock.git
+	path = feedstocks/r-hdf5r.extra
+	branch = refs/heads/main
