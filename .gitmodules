@@ -101806,3 +101806,7 @@
 	url = https://github.com/conda-forge/naif_leapseconds-feedstock.git
 	path = feedstocks/naif_leapseconds
 	branch = refs/heads/main
+[submodule "r-suncalcmeeus"]
+	url = https://github.com/conda-forge/r-suncalcmeeus-feedstock.git
+	path = feedstocks/r-suncalcmeeus
+	branch = refs/heads/main
