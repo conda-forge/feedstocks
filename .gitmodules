@@ -101842,3 +101842,7 @@
 	url = https://github.com/conda-forge/cdsetool-feedstock.git
 	path = feedstocks/cdsetool
 	branch = refs/heads/main
+[submodule "quivr"]
+	url = https://github.com/conda-forge/quivr-feedstock.git
+	path = feedstocks/quivr
+	branch = refs/heads/main
