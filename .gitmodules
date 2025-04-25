@@ -101826,3 +101826,7 @@
 	url = https://github.com/conda-forge/cacts-feedstock.git
 	path = feedstocks/cacts
 	branch = refs/heads/main
+[submodule "python-workflow-definition"]
+	url = https://github.com/conda-forge/python-workflow-definition-feedstock.git
+	path = feedstocks/python-workflow-definition
+	branch = refs/heads/main
