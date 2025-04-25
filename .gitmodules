@@ -101830,3 +101830,7 @@
 	url = https://github.com/conda-forge/python-workflow-definition-feedstock.git
 	path = feedstocks/python-workflow-definition
 	branch = refs/heads/main
+[submodule "fed-rag"]
+	url = https://github.com/conda-forge/fed-rag-feedstock.git
+	path = feedstocks/fed-rag
+	branch = refs/heads/main
