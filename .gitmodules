@@ -101854,3 +101854,7 @@
 	url = https://github.com/conda-forge/trame-common-feedstock.git
 	path = feedstocks/trame-common
 	branch = refs/heads/main
+[submodule "cartogram"]
+	url = https://github.com/conda-forge/cartogram-feedstock.git
+	path = feedstocks/cartogram
+	branch = refs/heads/main
