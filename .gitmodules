@@ -101818,3 +101818,7 @@
 	url = https://github.com/conda-forge/pdf-reports-feedstock.git
 	path = feedstocks/pdf-reports
 	branch = refs/heads/main
+[submodule "redis-logs"]
+	url = https://github.com/conda-forge/redis-logs-feedstock.git
+	path = feedstocks/redis-logs
+	branch = refs/heads/main
