@@ -101862,3 +101862,7 @@
 	url = https://github.com/conda-forge/r-lasr-feedstock.git
 	path = feedstocks/r-lasr
 	branch = refs/heads/main
+[submodule "r-tinkr"]
+	url = https://github.com/conda-forge/r-tinkr-feedstock.git
+	path = feedstocks/r-tinkr
+	branch = refs/heads/main
