@@ -101874,3 +101874,7 @@
 	url = https://github.com/conda-forge/pysdf-feedstock.git
 	path = feedstocks/pysdf
 	branch = refs/heads/main
+[submodule "tree-sitter-language-pack"]
+	url = https://github.com/conda-forge/tree-sitter-language-pack-feedstock.git
+	path = feedstocks/tree-sitter-language-pack
+	branch = refs/heads/main
