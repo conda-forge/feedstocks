@@ -101878,3 +101878,7 @@
 	url = https://github.com/conda-forge/tree-sitter-language-pack-feedstock.git
 	path = feedstocks/tree-sitter-language-pack
 	branch = refs/heads/main
+[submodule "libmodplug"]
+	url = https://github.com/conda-forge/libmodplug-feedstock.git
+	path = feedstocks/libmodplug
+	branch = refs/heads/main
