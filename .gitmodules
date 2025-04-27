@@ -101882,3 +101882,7 @@
 	url = https://github.com/conda-forge/libmodplug-feedstock.git
 	path = feedstocks/libmodplug
 	branch = refs/heads/main
+[submodule "r-rnames"]
+	url = https://github.com/conda-forge/r-rnames-feedstock.git
+	path = feedstocks/r-rnames
+	branch = refs/heads/main
