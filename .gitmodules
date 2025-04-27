@@ -101866,3 +101866,7 @@
 	url = https://github.com/conda-forge/r-tinkr-feedstock.git
 	path = feedstocks/r-tinkr
 	branch = refs/heads/main
+[submodule "robust-laplacian"]
+	url = https://github.com/conda-forge/robust-laplacian-feedstock.git
+	path = feedstocks/robust-laplacian
+	branch = refs/heads/main
