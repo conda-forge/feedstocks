@@ -101886,3 +101886,7 @@
 	url = https://github.com/conda-forge/r-rnames-feedstock.git
 	path = feedstocks/r-rnames
 	branch = refs/heads/main
+[submodule "mostlyai"]
+	url = https://github.com/conda-forge/mostlyai-feedstock.git
+	path = feedstocks/mostlyai
+	branch = refs/heads/main
