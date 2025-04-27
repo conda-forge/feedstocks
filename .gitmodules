@@ -101870,3 +101870,7 @@
 	url = https://github.com/conda-forge/robust-laplacian-feedstock.git
 	path = feedstocks/robust-laplacian
 	branch = refs/heads/main
+[submodule "pysdf"]
+	url = https://github.com/conda-forge/pysdf-feedstock.git
+	path = feedstocks/pysdf
+	branch = refs/heads/main
