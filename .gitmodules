@@ -101922,3 +101922,7 @@
 	url = https://github.com/conda-forge/mdformat-beautysh-feedstock.git
 	path = feedstocks/mdformat-beautysh
 	branch = refs/heads/main
+[submodule "docstrfmt"]
+	url = https://github.com/conda-forge/docstrfmt-feedstock.git
+	path = feedstocks/docstrfmt
+	branch = refs/heads/main
