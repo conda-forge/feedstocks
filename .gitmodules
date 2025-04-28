@@ -101930,3 +101930,7 @@
 	url = https://github.com/conda-forge/uv-dynamic-versioning-feedstock.git
 	path = feedstocks/uv-dynamic-versioning
 	branch = refs/heads/main
+[submodule "app-pass"]
+	url = https://github.com/conda-forge/app-pass-feedstock.git
+	path = feedstocks/app-pass
+	branch = refs/heads/main
