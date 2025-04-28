@@ -101906,3 +101906,7 @@
 	url = https://github.com/conda-forge/jsonspice-feedstock.git
 	path = feedstocks/jsonspice
 	branch = refs/heads/main
+[submodule "mdformat-pyproject"]
+	url = https://github.com/conda-forge/mdformat-pyproject-feedstock.git
+	path = feedstocks/mdformat-pyproject
+	branch = refs/heads/main
