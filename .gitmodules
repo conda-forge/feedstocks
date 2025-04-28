@@ -101946,3 +101946,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-standard-feedstock.git
 	path = feedstocks/apache-airflow-providers-standard
 	branch = refs/heads/main
+[submodule "pystructtype"]
+	url = https://github.com/conda-forge/pystructtype-feedstock.git
+	path = feedstocks/pystructtype
+	branch = refs/heads/main
