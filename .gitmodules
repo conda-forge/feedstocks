@@ -101914,3 +101914,7 @@
 	url = https://github.com/conda-forge/mdformat-gfm-feedstock.git
 	path = feedstocks/mdformat-gfm
 	branch = refs/heads/main
+[submodule "splunk-opentelemetry"]
+	url = https://github.com/conda-forge/splunk-opentelemetry-feedstock.git
+	path = feedstocks/splunk-opentelemetry
+	branch = refs/heads/main
