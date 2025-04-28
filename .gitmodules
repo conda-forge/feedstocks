@@ -101958,3 +101958,7 @@
 	url = https://github.com/conda-forge/napari-timestamper-feedstock.git
 	path = feedstocks/napari-timestamper
 	branch = refs/heads/main
+[submodule "cadwyn"]
+	url = https://github.com/conda-forge/cadwyn-feedstock.git
+	path = feedstocks/cadwyn
+	branch = refs/heads/main
