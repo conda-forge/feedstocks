@@ -101942,3 +101942,7 @@
 	url = https://github.com/conda-forge/aiologic-feedstock.git
 	path = feedstocks/aiologic
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-standard"]
+	url = https://github.com/conda-forge/apache-airflow-providers-standard-feedstock.git
+	path = feedstocks/apache-airflow-providers-standard
+	branch = refs/heads/main
