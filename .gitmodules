@@ -101950,3 +101950,7 @@
 	url = https://github.com/conda-forge/pystructtype-feedstock.git
 	path = feedstocks/pystructtype
 	branch = refs/heads/main
+[submodule "retryhttp"]
+	url = https://github.com/conda-forge/retryhttp-feedstock.git
+	path = feedstocks/retryhttp
+	branch = refs/heads/main
