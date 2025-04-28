@@ -101902,3 +101902,7 @@
 	url = https://github.com/conda-forge/casatools-feedstock.git
 	path = feedstocks/casatools
 	branch = refs/heads/main
+[submodule "jsonspice"]
+	url = https://github.com/conda-forge/jsonspice-feedstock.git
+	path = feedstocks/jsonspice
+	branch = refs/heads/main
