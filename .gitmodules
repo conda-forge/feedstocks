@@ -101890,3 +101890,7 @@
 	url = https://github.com/conda-forge/mostlyai-feedstock.git
 	path = feedstocks/mostlyai
 	branch = refs/heads/main
+[submodule "s3manager"]
+	url = https://github.com/conda-forge/s3manager-feedstock.git
+	path = feedstocks/s3manager
+	branch = refs/heads/main
