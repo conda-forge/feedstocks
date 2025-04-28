@@ -101894,3 +101894,7 @@
 	url = https://github.com/conda-forge/s3manager-feedstock.git
 	path = feedstocks/s3manager
 	branch = refs/heads/main
+[submodule "casatasks"]
+	url = https://github.com/conda-forge/casatasks-feedstock.git
+	path = feedstocks/casatasks
+	branch = refs/heads/main
