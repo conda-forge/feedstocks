@@ -101898,3 +101898,7 @@
 	url = https://github.com/conda-forge/casatasks-feedstock.git
 	path = feedstocks/casatasks
 	branch = refs/heads/main
+[submodule "casatools"]
+	url = https://github.com/conda-forge/casatools-feedstock.git
+	path = feedstocks/casatools
+	branch = refs/heads/main
