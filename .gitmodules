@@ -101910,3 +101910,7 @@
 	url = https://github.com/conda-forge/mdformat-pyproject-feedstock.git
 	path = feedstocks/mdformat-pyproject
 	branch = refs/heads/main
+[submodule "mdformat-gfm"]
+	url = https://github.com/conda-forge/mdformat-gfm-feedstock.git
+	path = feedstocks/mdformat-gfm
+	branch = refs/heads/main
