@@ -101926,3 +101926,7 @@
 	url = https://github.com/conda-forge/docstrfmt-feedstock.git
 	path = feedstocks/docstrfmt
 	branch = refs/heads/main
+[submodule "uv-dynamic-versioning"]
+	url = https://github.com/conda-forge/uv-dynamic-versioning-feedstock.git
+	path = feedstocks/uv-dynamic-versioning
+	branch = refs/heads/main
