@@ -101918,3 +101918,7 @@
 	url = https://github.com/conda-forge/splunk-opentelemetry-feedstock.git
 	path = feedstocks/splunk-opentelemetry
 	branch = refs/heads/main
+[submodule "mdformat-beautysh"]
+	url = https://github.com/conda-forge/mdformat-beautysh-feedstock.git
+	path = feedstocks/mdformat-beautysh
+	branch = refs/heads/main
