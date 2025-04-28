@@ -101954,3 +101954,7 @@
 	url = https://github.com/conda-forge/retryhttp-feedstock.git
 	path = feedstocks/retryhttp
 	branch = refs/heads/main
+[submodule "napari-timestamper"]
+	url = https://github.com/conda-forge/napari-timestamper-feedstock.git
+	path = feedstocks/napari-timestamper
+	branch = refs/heads/main
