@@ -101974,3 +101974,7 @@
 	url = https://github.com/conda-forge/psyclone-feedstock.git
 	path = feedstocks/psyclone
 	branch = refs/heads/main
+[submodule "heliolinx"]
+	url = https://github.com/conda-forge/heliolinx-feedstock.git
+	path = feedstocks/heliolinx
+	branch = refs/heads/main
