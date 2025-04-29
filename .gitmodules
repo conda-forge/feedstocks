@@ -102002,3 +102002,7 @@
 	url = https://github.com/conda-forge/llguidance-feedstock.git
 	path = feedstocks/llguidance
 	branch = refs/heads/main
+[submodule "riff"]
+	url = https://github.com/conda-forge/riff-feedstock.git
+	path = feedstocks/riff
+	branch = refs/heads/main
