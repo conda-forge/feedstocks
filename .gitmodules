@@ -101982,3 +101982,7 @@
 	url = https://github.com/conda-forge/slsa-verifier-feedstock.git
 	path = feedstocks/slsa-verifier
 	branch = refs/heads/main
+[submodule "scorecard"]
+	url = https://github.com/conda-forge/scorecard-feedstock.git
+	path = feedstocks/scorecard
+	branch = refs/heads/main
