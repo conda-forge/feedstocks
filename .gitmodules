@@ -102026,3 +102026,7 @@
 	url = https://github.com/conda-forge/naif_eop_historical-feedstock.git
 	path = feedstocks/naif_eop_historical
 	branch = refs/heads/main
+[submodule "naif_earth_itrf93"]
+	url = https://github.com/conda-forge/naif_earth_itrf93-feedstock.git
+	path = feedstocks/naif_earth_itrf93
+	branch = refs/heads/main
