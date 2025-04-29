@@ -102006,3 +102006,7 @@
 	url = https://github.com/conda-forge/riff-feedstock.git
 	path = feedstocks/riff
 	branch = refs/heads/main
+[submodule "mpc-obscodes"]
+	url = https://github.com/conda-forge/mpc-obscodes-feedstock.git
+	path = feedstocks/mpc-obscodes
+	branch = refs/heads/main
