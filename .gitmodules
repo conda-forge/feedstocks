@@ -102010,3 +102010,7 @@
 	url = https://github.com/conda-forge/mpc-obscodes-feedstock.git
 	path = feedstocks/mpc-obscodes
 	branch = refs/heads/main
+[submodule "naif_de440"]
+	url = https://github.com/conda-forge/naif_de440-feedstock.git
+	path = feedstocks/naif_de440
+	branch = refs/heads/main
