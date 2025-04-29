@@ -102018,3 +102018,7 @@
 	url = https://github.com/conda-forge/jpl-small-bodies-de441-n16-feedstock.git
 	path = feedstocks/jpl-small-bodies-de441-n16
 	branch = refs/heads/main
+[submodule "naif_eop_predict"]
+	url = https://github.com/conda-forge/naif_eop_predict-feedstock.git
+	path = feedstocks/naif_eop_predict
+	branch = refs/heads/main
