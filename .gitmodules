@@ -101986,3 +101986,7 @@
 	url = https://github.com/conda-forge/scorecard-feedstock.git
 	path = feedstocks/scorecard
 	branch = refs/heads/main
+[submodule "ds9"]
+	url = https://github.com/conda-forge/ds9-feedstock.git
+	path = feedstocks/ds9
+	branch = refs/heads/main
