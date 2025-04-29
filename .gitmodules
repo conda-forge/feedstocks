@@ -101966,3 +101966,7 @@
 	url = https://github.com/conda-forge/r-fastymd-feedstock.git
 	path = feedstocks/r-fastymd
 	branch = refs/heads/main
+[submodule "fish-lsp"]
+	url = https://github.com/conda-forge/fish-lsp-feedstock.git
+	path = feedstocks/fish-lsp
+	branch = refs/heads/main
