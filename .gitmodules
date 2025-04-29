@@ -101990,3 +101990,7 @@
 	url = https://github.com/conda-forge/ds9-feedstock.git
 	path = feedstocks/ds9
 	branch = refs/heads/main
+[submodule "libplanc"]
+	url = https://github.com/conda-forge/libplanc-feedstock.git
+	path = feedstocks/libplanc
+	branch = refs/heads/main
