@@ -102022,3 +102022,7 @@
 	url = https://github.com/conda-forge/naif_eop_predict-feedstock.git
 	path = feedstocks/naif_eop_predict
 	branch = refs/heads/main
+[submodule "naif_eop_historical"]
+	url = https://github.com/conda-forge/naif_eop_historical-feedstock.git
+	path = feedstocks/naif_eop_historical
+	branch = refs/heads/main
