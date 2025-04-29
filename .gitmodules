@@ -101970,3 +101970,7 @@
 	url = https://github.com/conda-forge/fish-lsp-feedstock.git
 	path = feedstocks/fish-lsp
 	branch = refs/heads/main
+[submodule "psyclone"]
+	url = https://github.com/conda-forge/psyclone-feedstock.git
+	path = feedstocks/psyclone
+	branch = refs/heads/main
