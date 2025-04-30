@@ -102042,3 +102042,7 @@
 	url = https://github.com/conda-forge/wavyopen-feedstock.git
 	path = feedstocks/wavyopen
 	branch = refs/heads/main
+[submodule "behave-html-formatter"]
+	url = https://github.com/conda-forge/behave-html-formatter-feedstock.git
+	path = feedstocks/behave-html-formatter
+	branch = refs/heads/main
