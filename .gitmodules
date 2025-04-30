@@ -102066,3 +102066,7 @@
 	url = https://github.com/conda-forge/adam_core-feedstock.git
 	path = feedstocks/adam_core
 	branch = refs/heads/main
+[submodule "multirtc"]
+	url = https://github.com/conda-forge/multirtc-feedstock.git
+	path = feedstocks/multirtc
+	branch = refs/heads/main
