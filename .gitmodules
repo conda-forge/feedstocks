@@ -102058,3 +102058,7 @@
 	url = https://github.com/conda-forge/tomtoolkit-feedstock.git
 	path = feedstocks/tomtoolkit
 	branch = refs/heads/main
+[submodule "fits2image"]
+	url = https://github.com/conda-forge/fits2image-feedstock.git
+	path = feedstocks/fits2image
+	branch = refs/heads/main
