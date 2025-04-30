@@ -102034,3 +102034,7 @@
 	url = https://github.com/conda-forge/polars-strsim-feedstock.git
 	path = feedstocks/polars-strsim
 	branch = refs/heads/main
+[submodule "naif_eop_high_prec"]
+	url = https://github.com/conda-forge/naif_eop_high_prec-feedstock.git
+	path = feedstocks/naif_eop_high_prec
+	branch = refs/heads/main
