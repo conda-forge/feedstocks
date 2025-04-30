@@ -102054,3 +102054,7 @@
 	url = https://github.com/conda-forge/tsblender-feedstock.git
 	path = feedstocks/tsblender
 	branch = refs/heads/main
+[submodule "tomtoolkit"]
+	url = https://github.com/conda-forge/tomtoolkit-feedstock.git
+	path = feedstocks/tomtoolkit
+	branch = refs/heads/main
