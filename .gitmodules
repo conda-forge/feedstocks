@@ -102062,3 +102062,7 @@
 	url = https://github.com/conda-forge/fits2image-feedstock.git
 	path = feedstocks/fits2image
 	branch = refs/heads/main
+[submodule "adam_core"]
+	url = https://github.com/conda-forge/adam_core-feedstock.git
+	path = feedstocks/adam_core
+	branch = refs/heads/main
