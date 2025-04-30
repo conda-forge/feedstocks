@@ -102050,3 +102050,7 @@
 	url = https://github.com/conda-forge/behave-pandas-feedstock.git
 	path = feedstocks/behave-pandas
 	branch = refs/heads/main
+[submodule "tsblender"]
+	url = https://github.com/conda-forge/tsblender-feedstock.git
+	path = feedstocks/tsblender
+	branch = refs/heads/main
