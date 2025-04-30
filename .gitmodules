@@ -102070,3 +102070,7 @@
 	url = https://github.com/conda-forge/multirtc-feedstock.git
 	path = feedstocks/multirtc
 	branch = refs/heads/main
+[submodule "r-pegboard"]
+	url = https://github.com/conda-forge/r-pegboard-feedstock.git
+	path = feedstocks/r-pegboard
+	branch = refs/heads/main
