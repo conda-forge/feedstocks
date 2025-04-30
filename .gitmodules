@@ -102038,3 +102038,7 @@
 	url = https://github.com/conda-forge/naif_eop_high_prec-feedstock.git
 	path = feedstocks/naif_eop_high_prec
 	branch = refs/heads/main
+[submodule "wavyopen"]
+	url = https://github.com/conda-forge/wavyopen-feedstock.git
+	path = feedstocks/wavyopen
+	branch = refs/heads/main
