@@ -102046,3 +102046,7 @@
 	url = https://github.com/conda-forge/behave-html-formatter-feedstock.git
 	path = feedstocks/behave-html-formatter
 	branch = refs/heads/main
+[submodule "behave-pandas"]
+	url = https://github.com/conda-forge/behave-pandas-feedstock.git
+	path = feedstocks/behave-pandas
+	branch = refs/heads/main
