@@ -102094,3 +102094,7 @@
 	url = https://github.com/conda-forge/lib4sbom-feedstock.git
 	path = feedstocks/lib4sbom
 	branch = refs/heads/main
+[submodule "r-mockr"]
+	url = https://github.com/conda-forge/r-mockr-feedstock.git
+	path = feedstocks/r-mockr
+	branch = refs/heads/main
