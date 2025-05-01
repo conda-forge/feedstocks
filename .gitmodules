@@ -102090,3 +102090,7 @@
 	url = https://github.com/conda-forge/r-vcpen-feedstock.git
 	path = feedstocks/r-vcpen
 	branch = refs/heads/main
+[submodule "lib4sbom"]
+	url = https://github.com/conda-forge/lib4sbom-feedstock.git
+	path = feedstocks/lib4sbom
+	branch = refs/heads/main
