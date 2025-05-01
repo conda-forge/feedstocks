@@ -102078,3 +102078,7 @@
 	url = https://github.com/conda-forge/r-qrng-feedstock.git
 	path = feedstocks/r-qrng
 	branch = refs/heads/main
+[submodule "r-rferns"]
+	url = https://github.com/conda-forge/r-rferns-feedstock.git
+	path = feedstocks/r-rferns
+	branch = refs/heads/main
