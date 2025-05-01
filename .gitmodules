@@ -102086,3 +102086,7 @@
 	url = https://github.com/conda-forge/r-rcppclock-feedstock.git
 	path = feedstocks/r-rcppclock
 	branch = refs/heads/main
+[submodule "r-vcpen"]
+	url = https://github.com/conda-forge/r-vcpen-feedstock.git
+	path = feedstocks/r-vcpen
+	branch = refs/heads/main
