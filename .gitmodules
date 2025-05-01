@@ -102102,3 +102102,7 @@
 	url = https://github.com/conda-forge/r-varnish-feedstock.git
 	path = feedstocks/r-varnish
 	branch = refs/heads/main
+[submodule "transformer-engine"]
+	url = https://github.com/conda-forge/transformer-engine-feedstock.git
+	path = feedstocks/transformer-engine
+	branch = refs/heads/main
