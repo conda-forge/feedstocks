@@ -102082,3 +102082,7 @@
 	url = https://github.com/conda-forge/r-rferns-feedstock.git
 	path = feedstocks/r-rferns
 	branch = refs/heads/main
+[submodule "r-rcppclock"]
+	url = https://github.com/conda-forge/r-rcppclock-feedstock.git
+	path = feedstocks/r-rcppclock
+	branch = refs/heads/main
