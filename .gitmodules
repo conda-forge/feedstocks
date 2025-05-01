@@ -102098,3 +102098,7 @@
 	url = https://github.com/conda-forge/r-mockr-feedstock.git
 	path = feedstocks/r-mockr
 	branch = refs/heads/main
+[submodule "r-varnish"]
+	url = https://github.com/conda-forge/r-varnish-feedstock.git
+	path = feedstocks/r-varnish
+	branch = refs/heads/main
