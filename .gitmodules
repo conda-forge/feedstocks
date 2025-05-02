@@ -102114,3 +102114,7 @@
 	url = https://github.com/conda-forge/pgadmin4-python-feedstock.git
 	path = feedstocks/pgadmin4-python
 	branch = refs/heads/main
+[submodule "figanos"]
+	url = https://github.com/conda-forge/figanos-feedstock.git
+	path = feedstocks/figanos
+	branch = refs/heads/main
