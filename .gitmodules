@@ -102130,3 +102130,7 @@
 	url = https://github.com/conda-forge/ruamel-yaml-line-info-feedstock.git
 	path = feedstocks/ruamel-yaml-line-info
 	branch = refs/heads/main
+[submodule "onnxslim"]
+	url = https://github.com/conda-forge/onnxslim-feedstock.git
+	path = feedstocks/onnxslim
+	branch = refs/heads/main
