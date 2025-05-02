@@ -102134,3 +102134,7 @@
 	url = https://github.com/conda-forge/onnxslim-feedstock.git
 	path = feedstocks/onnxslim
 	branch = refs/heads/main
+[submodule "trustpy-tools"]
+	url = https://github.com/conda-forge/trustpy-tools-feedstock.git
+	path = feedstocks/trustpy-tools
+	branch = refs/heads/main
