@@ -102126,3 +102126,7 @@
 	url = https://github.com/conda-forge/pywis-topics-feedstock.git
 	path = feedstocks/pywis-topics
 	branch = refs/heads/main
+[submodule "ruamel-yaml-line-info"]
+	url = https://github.com/conda-forge/ruamel-yaml-line-info-feedstock.git
+	path = feedstocks/ruamel-yaml-line-info
+	branch = refs/heads/main
