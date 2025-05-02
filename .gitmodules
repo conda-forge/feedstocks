@@ -102118,3 +102118,7 @@
 	url = https://github.com/conda-forge/figanos-feedstock.git
 	path = feedstocks/figanos
 	branch = refs/heads/main
+[submodule "advection"]
+	url = https://github.com/conda-forge/advection-feedstock.git
+	path = feedstocks/advection
+	branch = refs/heads/main
