@@ -102138,3 +102138,7 @@
 	url = https://github.com/conda-forge/trustpy-tools-feedstock.git
 	path = feedstocks/trustpy-tools
 	branch = refs/heads/main
+[submodule "wis2downloader"]
+	url = https://github.com/conda-forge/wis2downloader-feedstock.git
+	path = feedstocks/wis2downloader
+	branch = refs/heads/main
