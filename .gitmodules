@@ -102106,3 +102106,7 @@
 	url = https://github.com/conda-forge/transformer-engine-feedstock.git
 	path = feedstocks/transformer-engine
 	branch = refs/heads/main
+[submodule "r-sandpaper"]
+	url = https://github.com/conda-forge/r-sandpaper-feedstock.git
+	path = feedstocks/r-sandpaper
+	branch = refs/heads/main
