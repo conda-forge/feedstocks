@@ -102122,3 +102122,7 @@
 	url = https://github.com/conda-forge/advection-feedstock.git
 	path = feedstocks/advection
 	branch = refs/heads/main
+[submodule "pywis-topics"]
+	url = https://github.com/conda-forge/pywis-topics-feedstock.git
+	path = feedstocks/pywis-topics
+	branch = refs/heads/main
