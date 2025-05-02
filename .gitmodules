@@ -102110,3 +102110,7 @@
 	url = https://github.com/conda-forge/r-sandpaper-feedstock.git
 	path = feedstocks/r-sandpaper
 	branch = refs/heads/main
+[submodule "pgadmin4-python"]
+	url = https://github.com/conda-forge/pgadmin4-python-feedstock.git
+	path = feedstocks/pgadmin4-python
+	branch = refs/heads/main
