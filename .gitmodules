@@ -102142,3 +102142,7 @@
 	url = https://github.com/conda-forge/wis2downloader-feedstock.git
 	path = feedstocks/wis2downloader
 	branch = refs/heads/main
+[submodule "r-ife"]
+	url = https://github.com/conda-forge/r-ife-feedstock.git
+	path = feedstocks/r-ife
+	branch = refs/heads/main
