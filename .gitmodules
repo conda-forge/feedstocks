@@ -102162,3 +102162,7 @@
 	url = https://github.com/conda-forge/dismod-at-feedstock.git
 	path = feedstocks/dismod-at
 	branch = refs/heads/main
+[submodule "curl-cffi"]
+	url = https://github.com/conda-forge/curl-cffi-feedstock.git
+	path = feedstocks/curl-cffi
+	branch = refs/heads/main
