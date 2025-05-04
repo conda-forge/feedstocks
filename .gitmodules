@@ -102146,3 +102146,7 @@
 	url = https://github.com/conda-forge/r-ife-feedstock.git
 	path = feedstocks/r-ife
 	branch = refs/heads/main
+[submodule "external-systems"]
+	url = https://github.com/conda-forge/external-systems-feedstock.git
+	path = feedstocks/external-systems
+	branch = refs/heads/main
