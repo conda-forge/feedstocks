@@ -102154,3 +102154,7 @@
 	url = https://github.com/conda-forge/mcp-server-fetch-feedstock.git
 	path = feedstocks/mcp-server-fetch
 	branch = refs/heads/main
+[submodule "per4m"]
+	url = https://github.com/conda-forge/per4m-feedstock.git
+	path = feedstocks/per4m
+	branch = refs/heads/main
