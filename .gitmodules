@@ -102166,3 +102166,7 @@
 	url = https://github.com/conda-forge/curl-cffi-feedstock.git
 	path = feedstocks/curl-cffi
 	branch = refs/heads/main
+[submodule "box2d"]
+	url = https://github.com/conda-forge/box2d-feedstock.git
+	path = feedstocks/box2d
+	branch = refs/heads/main
