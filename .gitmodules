@@ -102150,3 +102150,7 @@
 	url = https://github.com/conda-forge/external-systems-feedstock.git
 	path = feedstocks/external-systems
 	branch = refs/heads/main
+[submodule "mcp-server-fetch"]
+	url = https://github.com/conda-forge/mcp-server-fetch-feedstock.git
+	path = feedstocks/mcp-server-fetch
+	branch = refs/heads/main
