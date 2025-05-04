@@ -102170,3 +102170,7 @@
 	url = https://github.com/conda-forge/box2d-feedstock.git
 	path = feedstocks/box2d
 	branch = refs/heads/main
+[submodule "moyopy"]
+	url = https://github.com/conda-forge/moyopy-feedstock.git
+	path = feedstocks/moyopy
+	branch = refs/heads/main
