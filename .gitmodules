@@ -102158,3 +102158,7 @@
 	url = https://github.com/conda-forge/per4m-feedstock.git
 	path = feedstocks/per4m
 	branch = refs/heads/main
+[submodule "dismod-at"]
+	url = https://github.com/conda-forge/dismod-at-feedstock.git
+	path = feedstocks/dismod-at
+	branch = refs/heads/main
