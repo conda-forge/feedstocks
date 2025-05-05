@@ -102190,3 +102190,7 @@
 	url = https://github.com/conda-forge/dranspose-feedstock.git
 	path = feedstocks/dranspose
 	branch = refs/heads/main
+[submodule "libmathdx"]
+	url = https://github.com/conda-forge/libmathdx-feedstock.git
+	path = feedstocks/libmathdx
+	branch = refs/heads/main
