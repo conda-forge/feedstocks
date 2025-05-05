@@ -102182,3 +102182,7 @@
 	url = https://github.com/conda-forge/apache-airflow-task-sdk-feedstock.git
 	path = feedstocks/apache-airflow-task-sdk
 	branch = refs/heads/main
+[submodule "s1aux"]
+	url = https://github.com/conda-forge/s1aux-feedstock.git
+	path = feedstocks/s1aux
+	branch = refs/heads/main
