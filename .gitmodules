@@ -102186,3 +102186,7 @@
 	url = https://github.com/conda-forge/s1aux-feedstock.git
 	path = feedstocks/s1aux
 	branch = refs/heads/main
+[submodule "dranspose"]
+	url = https://github.com/conda-forge/dranspose-feedstock.git
+	path = feedstocks/dranspose
+	branch = refs/heads/main
