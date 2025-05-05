@@ -102178,3 +102178,7 @@
 	url = https://github.com/conda-forge/pylate-feedstock.git
 	path = feedstocks/pylate
 	branch = refs/heads/main
+[submodule "apache-airflow-task-sdk"]
+	url = https://github.com/conda-forge/apache-airflow-task-sdk-feedstock.git
+	path = feedstocks/apache-airflow-task-sdk
+	branch = refs/heads/main
