@@ -102174,3 +102174,7 @@
 	url = https://github.com/conda-forge/moyopy-feedstock.git
 	path = feedstocks/moyopy
 	branch = refs/heads/main
+[submodule "pylate"]
+	url = https://github.com/conda-forge/pylate-feedstock.git
+	path = feedstocks/pylate
+	branch = refs/heads/main
