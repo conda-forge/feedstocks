@@ -102198,3 +102198,7 @@
 	url = https://github.com/conda-forge/micromet-feedstock.git
 	path = feedstocks/micromet
 	branch = refs/heads/main
+[submodule "setuptools_reproducible"]
+	url = https://github.com/conda-forge/setuptools_reproducible-feedstock.git
+	path = feedstocks/setuptools_reproducible
+	branch = refs/heads/main
