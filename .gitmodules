@@ -102194,3 +102194,7 @@
 	url = https://github.com/conda-forge/libmathdx-feedstock.git
 	path = feedstocks/libmathdx
 	branch = refs/heads/main
+[submodule "micromet"]
+	url = https://github.com/conda-forge/micromet-feedstock.git
+	path = feedstocks/micromet
+	branch = refs/heads/main
