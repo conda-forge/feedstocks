@@ -102202,3 +102202,7 @@
 	url = https://github.com/conda-forge/setuptools_reproducible-feedstock.git
 	path = feedstocks/setuptools_reproducible
 	branch = refs/heads/main
+[submodule "xncml"]
+	url = https://github.com/conda-forge/xncml-feedstock.git
+	path = feedstocks/xncml
+	branch = refs/heads/main
