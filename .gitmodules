@@ -102206,3 +102206,7 @@
 	url = https://github.com/conda-forge/xncml-feedstock.git
 	path = feedstocks/xncml
 	branch = refs/heads/main
+[submodule "alibabacloud_credentials_api"]
+	url = https://github.com/conda-forge/alibabacloud_credentials_api-feedstock.git
+	path = feedstocks/alibabacloud_credentials_api
+	branch = refs/heads/main
