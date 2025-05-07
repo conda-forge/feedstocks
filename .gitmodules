@@ -102222,3 +102222,7 @@
 	url = https://github.com/conda-forge/xmlhelpy-feedstock.git
 	path = feedstocks/xmlhelpy
 	branch = refs/heads/main
+[submodule "model2vec"]
+	url = https://github.com/conda-forge/model2vec-feedstock.git
+	path = feedstocks/model2vec
+	branch = refs/heads/main
