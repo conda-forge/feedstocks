@@ -102214,3 +102214,7 @@
 	url = https://github.com/conda-forge/pan3d-feedstock.git
 	path = feedstocks/pan3d
 	branch = refs/heads/main
+[submodule "mpcq"]
+	url = https://github.com/conda-forge/mpcq-feedstock.git
+	path = feedstocks/mpcq
+	branch = refs/heads/main
