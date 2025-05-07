@@ -102230,3 +102230,7 @@
 	url = https://github.com/conda-forge/mostlyai-engine-feedstock.git
 	path = feedstocks/mostlyai-engine
 	branch = refs/heads/main
+[submodule "ty"]
+	url = https://github.com/conda-forge/ty-feedstock.git
+	path = feedstocks/ty
+	branch = refs/heads/main
