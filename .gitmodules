@@ -102226,3 +102226,7 @@
 	url = https://github.com/conda-forge/model2vec-feedstock.git
 	path = feedstocks/model2vec
 	branch = refs/heads/main
+[submodule "mostlyai-engine"]
+	url = https://github.com/conda-forge/mostlyai-engine-feedstock.git
+	path = feedstocks/mostlyai-engine
+	branch = refs/heads/main
