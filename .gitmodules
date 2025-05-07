@@ -102218,3 +102218,7 @@
 	url = https://github.com/conda-forge/mpcq-feedstock.git
 	path = feedstocks/mpcq
 	branch = refs/heads/main
+[submodule "xmlhelpy"]
+	url = https://github.com/conda-forge/xmlhelpy-feedstock.git
+	path = feedstocks/xmlhelpy
+	branch = refs/heads/main
