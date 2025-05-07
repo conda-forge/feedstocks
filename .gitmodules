@@ -102234,3 +102234,7 @@
 	url = https://github.com/conda-forge/ty-feedstock.git
 	path = feedstocks/ty
 	branch = refs/heads/main
+[submodule "fast-array-utils"]
+	url = https://github.com/conda-forge/fast-array-utils-feedstock.git
+	path = feedstocks/fast-array-utils
+	branch = refs/heads/main
