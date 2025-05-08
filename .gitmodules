@@ -102246,3 +102246,7 @@
 	url = https://github.com/conda-forge/pz-rail-bpz-feedstock.git
 	path = feedstocks/pz-rail-bpz
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-mcp"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-mcp-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-mcp
+	branch = refs/heads/main
