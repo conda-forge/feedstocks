@@ -102254,3 +102254,7 @@
 	url = https://github.com/conda-forge/shareplum-feedstock.git
 	path = feedstocks/shareplum
 	branch = refs/heads/main
+[submodule "kadi-apy"]
+	url = https://github.com/conda-forge/kadi-apy-feedstock.git
+	path = feedstocks/kadi-apy
+	branch = refs/heads/main
