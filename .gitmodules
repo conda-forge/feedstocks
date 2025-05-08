@@ -102242,3 +102242,7 @@
 	url = https://github.com/conda-forge/desc_bpz-feedstock.git
 	path = feedstocks/desc_bpz
 	branch = refs/heads/main
+[submodule "pz-rail-bpz"]
+	url = https://github.com/conda-forge/pz-rail-bpz-feedstock.git
+	path = feedstocks/pz-rail-bpz
+	branch = refs/heads/main
