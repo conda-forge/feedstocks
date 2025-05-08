@@ -102250,3 +102250,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-mcp-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-mcp
 	branch = refs/heads/main
+[submodule "shareplum"]
+	url = https://github.com/conda-forge/shareplum-feedstock.git
+	path = feedstocks/shareplum
+	branch = refs/heads/main
