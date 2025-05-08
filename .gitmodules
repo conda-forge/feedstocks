@@ -102258,3 +102258,7 @@
 	url = https://github.com/conda-forge/kadi-apy-feedstock.git
 	path = feedstocks/kadi-apy
 	branch = refs/heads/main
+[submodule "nldi-flowtools"]
+	url = https://github.com/conda-forge/nldi-flowtools-feedstock.git
+	path = feedstocks/nldi-flowtools
+	branch = refs/heads/main
