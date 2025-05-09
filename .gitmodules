@@ -102362,3 +102362,7 @@
 	url = https://github.com/conda-forge/azure-monitor-query-feedstock.git
 	path = feedstocks/azure-monitor-query
 	branch = refs/heads/main
+[submodule "azure-mgmt-servicelinker"]
+	url = https://github.com/conda-forge/azure-mgmt-servicelinker-feedstock.git
+	path = feedstocks/azure-mgmt-servicelinker
+	branch = refs/heads/main
