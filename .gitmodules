@@ -102286,3 +102286,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-loganalytics-feedstock.git
 	path = feedstocks/azure-mgmt-loganalytics
 	branch = refs/heads/main
+[submodule "azure-synapse-accesscontrol"]
+	url = https://github.com/conda-forge/azure-synapse-accesscontrol-feedstock.git
+	path = feedstocks/azure-synapse-accesscontrol
+	branch = refs/heads/main
