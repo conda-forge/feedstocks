@@ -102390,3 +102390,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-databoxedge-feedstock.git
 	path = feedstocks/azure-mgmt-databoxedge
 	branch = refs/heads/main
+[submodule "azure-mgmt-sqlvirtualmachine"]
+	url = https://github.com/conda-forge/azure-mgmt-sqlvirtualmachine-feedstock.git
+	path = feedstocks/azure-mgmt-sqlvirtualmachine
+	branch = refs/heads/main
