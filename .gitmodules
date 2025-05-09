@@ -102314,3 +102314,7 @@
 	url = https://github.com/conda-forge/azure-multiapi-storage-feedstock.git
 	path = feedstocks/azure-multiapi-storage
 	branch = refs/heads/main
+[submodule "azure-mgmt-security"]
+	url = https://github.com/conda-forge/azure-mgmt-security-feedstock.git
+	path = feedstocks/azure-mgmt-security
+	branch = refs/heads/main
