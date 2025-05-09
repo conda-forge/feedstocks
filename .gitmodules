@@ -102430,3 +102430,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-datamigration-feedstock.git
 	path = feedstocks/azure-mgmt-datamigration
 	branch = refs/heads/main
+[submodule "azure-mgmt-redhatopenshift"]
+	url = https://github.com/conda-forge/azure-mgmt-redhatopenshift-feedstock.git
+	path = feedstocks/azure-mgmt-redhatopenshift
+	branch = refs/heads/main
