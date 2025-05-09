@@ -102466,3 +102466,7 @@
 	url = https://github.com/conda-forge/microsoft-security-utilities-secret-masker-feedstock.git
 	path = feedstocks/microsoft-security-utilities-secret-masker
 	branch = refs/heads/main
+[submodule "rstream"]
+	url = https://github.com/conda-forge/rstream-feedstock.git
+	path = feedstocks/rstream
+	branch = refs/heads/main
