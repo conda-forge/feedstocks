@@ -102470,3 +102470,7 @@
 	url = https://github.com/conda-forge/rstream-feedstock.git
 	path = feedstocks/rstream
 	branch = refs/heads/main
+[submodule "ecmwf-datastores-client"]
+	url = https://github.com/conda-forge/ecmwf-datastores-client-feedstock.git
+	path = feedstocks/ecmwf-datastores-client
+	branch = refs/heads/main
