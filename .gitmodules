@@ -102462,3 +102462,7 @@
 	url = https://github.com/conda-forge/py-deviceid-feedstock.git
 	path = feedstocks/py-deviceid
 	branch = refs/heads/main
+[submodule "microsoft-security-utilities-secret-masker"]
+	url = https://github.com/conda-forge/microsoft-security-utilities-secret-masker-feedstock.git
+	path = feedstocks/microsoft-security-utilities-secret-masker
+	branch = refs/heads/main
