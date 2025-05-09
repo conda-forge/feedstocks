@@ -102386,3 +102386,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-recoveryservicesbackup-feedstock.git
 	path = feedstocks/azure-mgmt-recoveryservicesbackup
 	branch = refs/heads/main
+[submodule "azure-mgmt-databoxedge"]
+	url = https://github.com/conda-forge/azure-mgmt-databoxedge-feedstock.git
+	path = feedstocks/azure-mgmt-databoxedge
+	branch = refs/heads/main
