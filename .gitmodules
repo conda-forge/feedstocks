@@ -102378,3 +102378,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-media-feedstock.git
 	path = feedstocks/azure-mgmt-media
 	branch = refs/heads/main
+[submodule "azure-mgmt-servicefabricmanagedclusters"]
+	url = https://github.com/conda-forge/azure-mgmt-servicefabricmanagedclusters-feedstock.git
+	path = feedstocks/azure-mgmt-servicefabricmanagedclusters
+	branch = refs/heads/main
