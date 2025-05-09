@@ -102278,3 +102278,7 @@
 	url = https://github.com/conda-forge/azure-appconfiguration-feedstock.git
 	path = feedstocks/azure-appconfiguration
 	branch = refs/heads/main
+[submodule "azure-mgmt-applicationinsights"]
+	url = https://github.com/conda-forge/azure-mgmt-applicationinsights-feedstock.git
+	path = feedstocks/azure-mgmt-applicationinsights
+	branch = refs/heads/main
