@@ -102294,3 +102294,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-eventhub-feedstock.git
 	path = feedstocks/azure-mgmt-eventhub
 	branch = refs/heads/main
+[submodule "azure-mgmt-cdn"]
+	url = https://github.com/conda-forge/azure-mgmt-cdn-feedstock.git
+	path = feedstocks/azure-mgmt-cdn
+	branch = refs/heads/main
