@@ -102326,3 +102326,7 @@
 	url = https://github.com/conda-forge/azure-synapse-managedprivateendpoints-feedstock.git
 	path = feedstocks/azure-synapse-managedprivateendpoints
 	branch = refs/heads/main
+[submodule "javaproperties"]
+	url = https://github.com/conda-forge/javaproperties-feedstock.git
+	path = feedstocks/javaproperties
+	branch = refs/heads/main
