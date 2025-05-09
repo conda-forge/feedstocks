@@ -102406,3 +102406,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-managementgroups-feedstock.git
 	path = feedstocks/azure-mgmt-managementgroups
 	branch = refs/heads/main
+[submodule "azure-mgmt-netapp"]
+	url = https://github.com/conda-forge/azure-mgmt-netapp-feedstock.git
+	path = feedstocks/azure-mgmt-netapp
+	branch = refs/heads/main
