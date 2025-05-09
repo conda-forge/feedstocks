@@ -102358,3 +102358,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-policyinsights-feedstock.git
 	path = feedstocks/azure-mgmt-policyinsights
 	branch = refs/heads/main
+[submodule "azure-monitor-query"]
+	url = https://github.com/conda-forge/azure-monitor-query-feedstock.git
+	path = feedstocks/azure-monitor-query
+	branch = refs/heads/main
