@@ -102322,3 +102322,7 @@
 	url = https://github.com/conda-forge/pycomposefile-feedstock.git
 	path = feedstocks/pycomposefile
 	branch = refs/heads/main
+[submodule "azure-synapse-managedprivateendpoints"]
+	url = https://github.com/conda-forge/azure-synapse-managedprivateendpoints-feedstock.git
+	path = feedstocks/azure-synapse-managedprivateendpoints
+	branch = refs/heads/main
