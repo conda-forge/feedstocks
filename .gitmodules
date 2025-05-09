@@ -102350,3 +102350,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-eventgrid-feedstock.git
 	path = feedstocks/azure-mgmt-eventgrid
 	branch = refs/heads/main
+[submodule "azure-mgmt-servicefabric"]
+	url = https://github.com/conda-forge/azure-mgmt-servicefabric-feedstock.git
+	path = feedstocks/azure-mgmt-servicefabric
+	branch = refs/heads/main
