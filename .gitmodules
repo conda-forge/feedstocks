@@ -102410,3 +102410,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-netapp-feedstock.git
 	path = feedstocks/azure-mgmt-netapp
 	branch = refs/heads/main
+[submodule "azure-mgmt-batchai"]
+	url = https://github.com/conda-forge/azure-mgmt-batchai-feedstock.git
+	path = feedstocks/azure-mgmt-batchai
+	branch = refs/heads/main
