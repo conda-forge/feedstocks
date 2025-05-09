@@ -102422,3 +102422,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-iotcentral-feedstock.git
 	path = feedstocks/azure-mgmt-iotcentral
 	branch = refs/heads/main
+[submodule "azure-keyvault-administration"]
+	url = https://github.com/conda-forge/azure-keyvault-administration-feedstock.git
+	path = feedstocks/azure-keyvault-administration
+	branch = refs/heads/main
