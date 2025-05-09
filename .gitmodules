@@ -102318,3 +102318,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-security-feedstock.git
 	path = feedstocks/azure-mgmt-security
 	branch = refs/heads/main
+[submodule "pycomposefile"]
+	url = https://github.com/conda-forge/pycomposefile-feedstock.git
+	path = feedstocks/pycomposefile
+	branch = refs/heads/main
