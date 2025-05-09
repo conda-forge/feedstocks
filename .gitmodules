@@ -102270,3 +102270,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-hdinsight-feedstock.git
 	path = feedstocks/azure-mgmt-hdinsight
 	branch = refs/heads/main
+[submodule "azure-mgmt-advisor"]
+	url = https://github.com/conda-forge/azure-mgmt-advisor-feedstock.git
+	path = feedstocks/azure-mgmt-advisor
+	branch = refs/heads/main
