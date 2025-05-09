@@ -102426,3 +102426,7 @@
 	url = https://github.com/conda-forge/azure-keyvault-administration-feedstock.git
 	path = feedstocks/azure-keyvault-administration
 	branch = refs/heads/main
+[submodule "azure-mgmt-datamigration"]
+	url = https://github.com/conda-forge/azure-mgmt-datamigration-feedstock.git
+	path = feedstocks/azure-mgmt-datamigration
+	branch = refs/heads/main
