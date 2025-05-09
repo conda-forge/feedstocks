@@ -102474,3 +102474,7 @@
 	url = https://github.com/conda-forge/ecmwf-datastores-client-feedstock.git
 	path = feedstocks/ecmwf-datastores-client
 	branch = refs/heads/main
+[submodule "pixi-install-to-prefix"]
+	url = https://github.com/conda-forge/pixi-install-to-prefix-feedstock.git
+	path = feedstocks/pixi-install-to-prefix
+	branch = refs/heads/main
