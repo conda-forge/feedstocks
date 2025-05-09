@@ -102458,3 +102458,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-appcontainers-feedstock.git
 	path = feedstocks/azure-mgmt-appcontainers
 	branch = refs/heads/main
+[submodule "py-deviceid"]
+	url = https://github.com/conda-forge/py-deviceid-feedstock.git
+	path = feedstocks/py-deviceid
+	branch = refs/heads/main
