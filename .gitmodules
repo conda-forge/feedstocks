@@ -102370,3 +102370,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-servicebus-feedstock.git
 	path = feedstocks/azure-mgmt-servicebus
 	branch = refs/heads/main
+[submodule "azure-mgmt-imagebuilder"]
+	url = https://github.com/conda-forge/azure-mgmt-imagebuilder-feedstock.git
+	path = feedstocks/azure-mgmt-imagebuilder
+	branch = refs/heads/main
