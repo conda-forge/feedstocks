@@ -102454,3 +102454,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-iothubprovisioningservices-feedstock.git
 	path = feedstocks/azure-mgmt-iothubprovisioningservices
 	branch = refs/heads/main
+[submodule "azure-mgmt-appcontainers"]
+	url = https://github.com/conda-forge/azure-mgmt-appcontainers-feedstock.git
+	path = feedstocks/azure-mgmt-appcontainers
+	branch = refs/heads/main
