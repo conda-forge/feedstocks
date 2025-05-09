@@ -102338,3 +102338,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-billing-feedstock.git
 	path = feedstocks/azure-mgmt-billing
 	branch = refs/heads/main
+[submodule "azure-mgmt-privatedns"]
+	url = https://github.com/conda-forge/azure-mgmt-privatedns-feedstock.git
+	path = feedstocks/azure-mgmt-privatedns
+	branch = refs/heads/main
