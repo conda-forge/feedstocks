@@ -102262,3 +102262,7 @@
 	url = https://github.com/conda-forge/nldi-flowtools-feedstock.git
 	path = feedstocks/nldi-flowtools
 	branch = refs/heads/main
+[submodule "curryreader"]
+	url = https://github.com/conda-forge/curryreader-feedstock.git
+	path = feedstocks/curryreader
+	branch = refs/heads/main
