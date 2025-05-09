@@ -102302,3 +102302,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-botservice-feedstock.git
 	path = feedstocks/azure-mgmt-botservice
 	branch = refs/heads/main
+[submodule "azure-mgmt-signalr"]
+	url = https://github.com/conda-forge/azure-mgmt-signalr-feedstock.git
+	path = feedstocks/azure-mgmt-signalr
+	branch = refs/heads/main
