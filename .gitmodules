@@ -102310,3 +102310,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-extendedlocation-feedstock.git
 	path = feedstocks/azure-mgmt-extendedlocation
 	branch = refs/heads/main
+[submodule "azure-multiapi-storage"]
+	url = https://github.com/conda-forge/azure-multiapi-storage-feedstock.git
+	path = feedstocks/azure-multiapi-storage
+	branch = refs/heads/main
