@@ -102446,3 +102446,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-appconfiguration-feedstock.git
 	path = feedstocks/azure-mgmt-appconfiguration
 	branch = refs/heads/main
+[submodule "azure-mgmt-mysqlflexibleservers"]
+	url = https://github.com/conda-forge/azure-mgmt-mysqlflexibleservers-feedstock.git
+	path = feedstocks/azure-mgmt-mysqlflexibleservers
+	branch = refs/heads/main
