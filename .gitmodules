@@ -102330,3 +102330,7 @@
 	url = https://github.com/conda-forge/javaproperties-feedstock.git
 	path = feedstocks/javaproperties
 	branch = refs/heads/main
+[submodule "azure-mgmt-maps"]
+	url = https://github.com/conda-forge/azure-mgmt-maps-feedstock.git
+	path = feedstocks/azure-mgmt-maps
+	branch = refs/heads/main
