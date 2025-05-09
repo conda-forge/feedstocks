@@ -102442,3 +102442,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-search-feedstock.git
 	path = feedstocks/azure-mgmt-search
 	branch = refs/heads/main
+[submodule "azure-mgmt-appconfiguration"]
+	url = https://github.com/conda-forge/azure-mgmt-appconfiguration-feedstock.git
+	path = feedstocks/azure-mgmt-appconfiguration
+	branch = refs/heads/main
