@@ -102402,3 +102402,7 @@
 	url = https://github.com/conda-forge/azure-mgmt-recoveryservices-feedstock.git
 	path = feedstocks/azure-mgmt-recoveryservices
 	branch = refs/heads/main
+[submodule "azure-mgmt-managementgroups"]
+	url = https://github.com/conda-forge/azure-mgmt-managementgroups-feedstock.git
+	path = feedstocks/azure-mgmt-managementgroups
+	branch = refs/heads/main
