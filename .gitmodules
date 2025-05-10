@@ -102478,3 +102478,7 @@
 	url = https://github.com/conda-forge/pixi-install-to-prefix-feedstock.git
 	path = feedstocks/pixi-install-to-prefix
 	branch = refs/heads/main
+[submodule "pgadmin4-desktop"]
+	url = https://github.com/conda-forge/pgadmin4-desktop-feedstock.git
+	path = feedstocks/pgadmin4-desktop
+	branch = refs/heads/main
