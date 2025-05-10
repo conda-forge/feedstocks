@@ -102482,3 +102482,7 @@
 	url = https://github.com/conda-forge/pgadmin4-desktop-feedstock.git
 	path = feedstocks/pgadmin4-desktop
 	branch = refs/heads/main
+[submodule "gaspype"]
+	url = https://github.com/conda-forge/gaspype-feedstock.git
+	path = feedstocks/gaspype
+	branch = refs/heads/main
