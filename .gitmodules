@@ -102486,3 +102486,7 @@
 	url = https://github.com/conda-forge/gaspype-feedstock.git
 	path = feedstocks/gaspype
 	branch = refs/heads/main
+[submodule "warpfield"]
+	url = https://github.com/conda-forge/warpfield-feedstock.git
+	path = feedstocks/warpfield
+	branch = refs/heads/main
