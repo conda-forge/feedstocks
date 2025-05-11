@@ -102490,3 +102490,7 @@
 	url = https://github.com/conda-forge/warpfield-feedstock.git
 	path = feedstocks/warpfield
 	branch = refs/heads/main
+[submodule "hsp2"]
+	url = https://github.com/conda-forge/hsp2-feedstock.git
+	path = feedstocks/hsp2
+	branch = refs/heads/main
