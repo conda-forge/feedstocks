@@ -102494,3 +102494,7 @@
 	url = https://github.com/conda-forge/hsp2-feedstock.git
 	path = feedstocks/hsp2
 	branch = refs/heads/main
+[submodule "r-baizer"]
+	url = https://github.com/conda-forge/r-baizer-feedstock.git
+	path = feedstocks/r-baizer
+	branch = refs/heads/main
