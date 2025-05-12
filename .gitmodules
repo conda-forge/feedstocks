@@ -102510,3 +102510,7 @@
 	url = https://github.com/conda-forge/fs-azureblob-feedstock.git
 	path = feedstocks/fs-azureblob
 	branch = refs/heads/main
+[submodule "fs.onedatarestfs"]
+	url = https://github.com/conda-forge/fs.onedatarestfs-feedstock.git
+	path = feedstocks/fs.onedatarestfs
+	branch = refs/heads/main
