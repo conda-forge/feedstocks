@@ -102546,3 +102546,7 @@
 	url = https://github.com/conda-forge/mostlyai-qa-feedstock.git
 	path = feedstocks/mostlyai-qa
 	branch = refs/heads/main
+[submodule "bomctl"]
+	url = https://github.com/conda-forge/bomctl-feedstock.git
+	path = feedstocks/bomctl
+	branch = refs/heads/main
