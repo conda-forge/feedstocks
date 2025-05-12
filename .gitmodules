@@ -102502,3 +102502,7 @@
 	url = https://github.com/conda-forge/fs.dropboxfs-feedstock.git
 	path = feedstocks/fs.dropboxfs
 	branch = refs/heads/main
+[submodule "rspace-client"]
+	url = https://github.com/conda-forge/rspace-client-feedstock.git
+	path = feedstocks/rspace-client
+	branch = refs/heads/main
