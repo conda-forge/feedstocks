@@ -102562,3 +102562,7 @@
 	url = https://github.com/conda-forge/causal-conv1d-feedstock.git
 	path = feedstocks/causal-conv1d
 	branch = refs/heads/main
+[submodule "openusd"]
+	url = https://github.com/conda-forge/openusd-feedstock.git
+	path = feedstocks/openusd
+	branch = refs/heads/main
