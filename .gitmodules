@@ -102550,3 +102550,7 @@
 	url = https://github.com/conda-forge/bomctl-feedstock.git
 	path = feedstocks/bomctl
 	branch = refs/heads/main
+[submodule "virga-exo"]
+	url = https://github.com/conda-forge/virga-exo-feedstock.git
+	path = feedstocks/virga-exo
+	branch = refs/heads/main
