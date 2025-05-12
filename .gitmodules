@@ -102570,3 +102570,7 @@
 	url = https://github.com/conda-forge/cargo-deny-feedstock.git
 	path = feedstocks/cargo-deny
 	branch = refs/heads/main
+[submodule "valkey-py"]
+	url = https://github.com/conda-forge/valkey-py-feedstock.git
+	path = feedstocks/valkey-py
+	branch = refs/heads/main
