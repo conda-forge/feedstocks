@@ -102518,3 +102518,7 @@
 	url = https://github.com/conda-forge/onedatafilerestclient-feedstock.git
 	path = feedstocks/onedatafilerestclient
 	branch = refs/heads/main
+[submodule "pyclimo"]
+	url = https://github.com/conda-forge/pyclimo-feedstock.git
+	path = feedstocks/pyclimo
+	branch = refs/heads/main
