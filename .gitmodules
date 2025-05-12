@@ -102566,3 +102566,7 @@
 	url = https://github.com/conda-forge/openusd-feedstock.git
 	path = feedstocks/openusd
 	branch = refs/heads/main
+[submodule "cargo-deny"]
+	url = https://github.com/conda-forge/cargo-deny-feedstock.git
+	path = feedstocks/cargo-deny
+	branch = refs/heads/main
