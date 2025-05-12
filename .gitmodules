@@ -102538,3 +102538,7 @@
 	url = https://github.com/conda-forge/grizzly-feedstock.git
 	path = feedstocks/grizzly
 	branch = refs/heads/main
+[submodule "jsonnet-bundler"]
+	url = https://github.com/conda-forge/jsonnet-bundler-feedstock.git
+	path = feedstocks/jsonnet-bundler
+	branch = refs/heads/main
