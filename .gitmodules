@@ -102558,3 +102558,7 @@
 	url = https://github.com/conda-forge/picaso-feedstock.git
 	path = feedstocks/picaso
 	branch = refs/heads/main
+[submodule "causal-conv1d"]
+	url = https://github.com/conda-forge/causal-conv1d-feedstock.git
+	path = feedstocks/causal-conv1d
+	branch = refs/heads/main
