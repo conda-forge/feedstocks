@@ -102534,3 +102534,7 @@
 	url = https://github.com/conda-forge/opensees-feedstock.git
 	path = feedstocks/opensees
 	branch = refs/heads/main
+[submodule "grizzly"]
+	url = https://github.com/conda-forge/grizzly-feedstock.git
+	path = feedstocks/grizzly
+	branch = refs/heads/main
