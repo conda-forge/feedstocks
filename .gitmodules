@@ -102542,3 +102542,7 @@
 	url = https://github.com/conda-forge/jsonnet-bundler-feedstock.git
 	path = feedstocks/jsonnet-bundler
 	branch = refs/heads/main
+[submodule "mostlyai-qa"]
+	url = https://github.com/conda-forge/mostlyai-qa-feedstock.git
+	path = feedstocks/mostlyai-qa
+	branch = refs/heads/main
