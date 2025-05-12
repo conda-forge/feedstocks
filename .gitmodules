@@ -102514,3 +102514,7 @@
 	url = https://github.com/conda-forge/fs.onedatarestfs-feedstock.git
 	path = feedstocks/fs.onedatarestfs
 	branch = refs/heads/main
+[submodule "onedatafilerestclient"]
+	url = https://github.com/conda-forge/onedatafilerestclient-feedstock.git
+	path = feedstocks/onedatafilerestclient
+	branch = refs/heads/main
