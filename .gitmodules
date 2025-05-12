@@ -102574,3 +102574,7 @@
 	url = https://github.com/conda-forge/valkey-py-feedstock.git
 	path = feedstocks/valkey-py
 	branch = refs/heads/main
+[submodule "suffix-tree"]
+	url = https://github.com/conda-forge/suffix-tree-feedstock.git
+	path = feedstocks/suffix-tree
+	branch = refs/heads/main
