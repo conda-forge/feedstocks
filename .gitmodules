@@ -102506,3 +102506,7 @@
 	url = https://github.com/conda-forge/rspace-client-feedstock.git
 	path = feedstocks/rspace-client
 	branch = refs/heads/main
+[submodule "fs-azureblob"]
+	url = https://github.com/conda-forge/fs-azureblob-feedstock.git
+	path = feedstocks/fs-azureblob
+	branch = refs/heads/main
