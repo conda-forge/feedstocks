@@ -102526,3 +102526,7 @@
 	url = https://github.com/conda-forge/pymarkovclustering-feedstock.git
 	path = feedstocks/pymarkovclustering
 	branch = refs/heads/main
+[submodule "foundry-compute-modules"]
+	url = https://github.com/conda-forge/foundry-compute-modules-feedstock.git
+	path = feedstocks/foundry-compute-modules
+	branch = refs/heads/main
