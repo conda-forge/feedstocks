@@ -102530,3 +102530,7 @@
 	url = https://github.com/conda-forge/foundry-compute-modules-feedstock.git
 	path = feedstocks/foundry-compute-modules
 	branch = refs/heads/main
+[submodule "opensees"]
+	url = https://github.com/conda-forge/opensees-feedstock.git
+	path = feedstocks/opensees
+	branch = refs/heads/main
