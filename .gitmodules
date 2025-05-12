@@ -102498,3 +102498,7 @@
 	url = https://github.com/conda-forge/r-baizer-feedstock.git
 	path = feedstocks/r-baizer
 	branch = refs/heads/main
+[submodule "fs.dropboxfs"]
+	url = https://github.com/conda-forge/fs.dropboxfs-feedstock.git
+	path = feedstocks/fs.dropboxfs
+	branch = refs/heads/main
