@@ -102582,3 +102582,7 @@
 	url = https://github.com/conda-forge/floability-feedstock.git
 	path = feedstocks/floability
 	branch = refs/heads/main
+[submodule "orcestra-downloader"]
+	url = https://github.com/conda-forge/orcestra-downloader-feedstock.git
+	path = feedstocks/orcestra-downloader
+	branch = refs/heads/main
