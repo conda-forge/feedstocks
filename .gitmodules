@@ -102586,3 +102586,7 @@
 	url = https://github.com/conda-forge/orcestra-downloader-feedstock.git
 	path = feedstocks/orcestra-downloader
 	branch = refs/heads/main
+[submodule "fractal-task-tools"]
+	url = https://github.com/conda-forge/fractal-task-tools-feedstock.git
+	path = feedstocks/fractal-task-tools
+	branch = refs/heads/main
