@@ -102602,3 +102602,7 @@
 	url = https://github.com/conda-forge/apache-airflow-core-split-feedstock.git
 	path = feedstocks/apache-airflow-core-split
 	branch = refs/heads/main
+[submodule "wait_for2"]
+	url = https://github.com/conda-forge/wait_for2-feedstock.git
+	path = feedstocks/wait_for2
+	branch = refs/heads/main
