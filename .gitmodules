@@ -102590,3 +102590,7 @@
 	url = https://github.com/conda-forge/fractal-task-tools-feedstock.git
 	path = feedstocks/fractal-task-tools
 	branch = refs/heads/main
+[submodule "assist-adam-fork"]
+	url = https://github.com/conda-forge/assist-adam-fork-feedstock.git
+	path = feedstocks/assist-adam-fork
+	branch = refs/heads/main
