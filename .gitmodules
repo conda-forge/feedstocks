@@ -102594,3 +102594,7 @@
 	url = https://github.com/conda-forge/assist-adam-fork-feedstock.git
 	path = feedstocks/assist-adam-fork
 	branch = refs/heads/main
+[submodule "bhklab-project-template"]
+	url = https://github.com/conda-forge/bhklab-project-template-feedstock.git
+	path = feedstocks/bhklab-project-template
+	branch = refs/heads/main
