@@ -102598,3 +102598,7 @@
 	url = https://github.com/conda-forge/bhklab-project-template-feedstock.git
 	path = feedstocks/bhklab-project-template
 	branch = refs/heads/main
+[submodule "apache-airflow-core-split"]
+	url = https://github.com/conda-forge/apache-airflow-core-split-feedstock.git
+	path = feedstocks/apache-airflow-core-split
+	branch = refs/heads/main
