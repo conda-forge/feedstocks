@@ -102622,3 +102622,7 @@
 	url = https://github.com/conda-forge/cargo-audit-feedstock.git
 	path = feedstocks/cargo-audit
 	branch = refs/heads/main
+[submodule "jsongrapher"]
+	url = https://github.com/conda-forge/jsongrapher-feedstock.git
+	path = feedstocks/jsongrapher
+	branch = refs/heads/main
