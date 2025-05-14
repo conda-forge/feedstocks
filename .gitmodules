@@ -102618,3 +102618,7 @@
 	url = https://github.com/conda-forge/amzn-sagemaker-aiops-jupyterlab-extension-feedstock.git
 	path = feedstocks/amzn-sagemaker-aiops-jupyterlab-extension
 	branch = refs/heads/main
+[submodule "cargo-audit"]
+	url = https://github.com/conda-forge/cargo-audit-feedstock.git
+	path = feedstocks/cargo-audit
+	branch = refs/heads/main
