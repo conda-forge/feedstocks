@@ -102610,3 +102610,7 @@
 	url = https://github.com/conda-forge/glyphx-feedstock.git
 	path = feedstocks/glyphx
 	branch = refs/heads/main
+[submodule "cargo-auditable"]
+	url = https://github.com/conda-forge/cargo-auditable-feedstock.git
+	path = feedstocks/cargo-auditable
+	branch = refs/heads/main
