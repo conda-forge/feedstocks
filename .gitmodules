@@ -102646,3 +102646,7 @@
 	url = https://github.com/conda-forge/pytorch-frame-feedstock.git
 	path = feedstocks/pytorch-frame
 	branch = refs/heads/main
+[submodule "sympy_equation"]
+	url = https://github.com/conda-forge/sympy_equation-feedstock.git
+	path = feedstocks/sympy_equation
+	branch = refs/heads/main
