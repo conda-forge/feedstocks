@@ -102666,3 +102666,7 @@
 	url = https://github.com/conda-forge/dockerpyze-feedstock.git
 	path = feedstocks/dockerpyze
 	branch = refs/heads/main
+[submodule "libcds"]
+	url = https://github.com/conda-forge/libcds-feedstock.git
+	path = feedstocks/libcds
+	branch = refs/heads/main
