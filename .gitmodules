@@ -102670,3 +102670,7 @@
 	url = https://github.com/conda-forge/libcds-feedstock.git
 	path = feedstocks/libcds
 	branch = refs/heads/main
+[submodule "metplus"]
+	url = https://github.com/conda-forge/metplus-feedstock.git
+	path = feedstocks/metplus
+	branch = refs/heads/main
