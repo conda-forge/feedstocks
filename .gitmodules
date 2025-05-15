@@ -102690,3 +102690,7 @@
 	url = https://github.com/conda-forge/hf-xet-feedstock.git
 	path = feedstocks/hf-xet
 	branch = refs/heads/main
+[submodule "qfit"]
+	url = https://github.com/conda-forge/qfit-feedstock.git
+	path = feedstocks/qfit
+	branch = refs/heads/main
