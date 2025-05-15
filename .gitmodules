@@ -102642,3 +102642,7 @@
 	url = https://github.com/conda-forge/ase-db-backends-feedstock.git
 	path = feedstocks/ase-db-backends
 	branch = refs/heads/main
+[submodule "pytorch-frame"]
+	url = https://github.com/conda-forge/pytorch-frame-feedstock.git
+	path = feedstocks/pytorch-frame
+	branch = refs/heads/main
