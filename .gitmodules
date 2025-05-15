@@ -102638,3 +102638,7 @@
 	url = https://github.com/conda-forge/amp-rsl-rl-feedstock.git
 	path = feedstocks/amp-rsl-rl
 	branch = refs/heads/main
+[submodule "ase-db-backends"]
+	url = https://github.com/conda-forge/ase-db-backends-feedstock.git
+	path = feedstocks/ase-db-backends
+	branch = refs/heads/main
