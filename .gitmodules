@@ -102658,3 +102658,7 @@
 	url = https://github.com/conda-forge/custom-json-diff-feedstock.git
 	path = feedstocks/custom-json-diff
 	branch = refs/heads/main
+[submodule "flowshow"]
+	url = https://github.com/conda-forge/flowshow-feedstock.git
+	path = feedstocks/flowshow
+	branch = refs/heads/main
