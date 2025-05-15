@@ -102686,3 +102686,7 @@
 	url = https://github.com/conda-forge/gds-sigp-feedstock.git
 	path = feedstocks/gds-sigp
 	branch = refs/heads/main
+[submodule "hf-xet"]
+	url = https://github.com/conda-forge/hf-xet-feedstock.git
+	path = feedstocks/hf-xet
+	branch = refs/heads/main
