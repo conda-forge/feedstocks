@@ -102674,3 +102674,7 @@
 	url = https://github.com/conda-forge/metplus-feedstock.git
 	path = feedstocks/metplus
 	branch = refs/heads/main
+[submodule "jonquil"]
+	url = https://github.com/conda-forge/jonquil-feedstock.git
+	path = feedstocks/jonquil
+	branch = refs/heads/main
