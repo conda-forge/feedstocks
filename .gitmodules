@@ -102630,3 +102630,7 @@
 	url = https://github.com/conda-forge/json-flatten-feedstock.git
 	path = feedstocks/json-flatten
 	branch = refs/heads/main
+[submodule "symbolic"]
+	url = https://github.com/conda-forge/symbolic-feedstock.git
+	path = feedstocks/symbolic
+	branch = refs/heads/main
