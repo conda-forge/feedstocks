@@ -102634,3 +102634,7 @@
 	url = https://github.com/conda-forge/symbolic-feedstock.git
 	path = feedstocks/symbolic
 	branch = refs/heads/main
+[submodule "amp-rsl-rl"]
+	url = https://github.com/conda-forge/amp-rsl-rl-feedstock.git
+	path = feedstocks/amp-rsl-rl
+	branch = refs/heads/main
