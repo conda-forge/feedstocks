@@ -102682,3 +102682,7 @@
 	url = https://github.com/conda-forge/nputop-feedstock.git
 	path = feedstocks/nputop
 	branch = refs/heads/main
+[submodule "gds-sigp"]
+	url = https://github.com/conda-forge/gds-sigp-feedstock.git
+	path = feedstocks/gds-sigp
+	branch = refs/heads/main
