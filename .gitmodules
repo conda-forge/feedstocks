@@ -102626,3 +102626,7 @@
 	url = https://github.com/conda-forge/jsongrapher-feedstock.git
 	path = feedstocks/jsongrapher
 	branch = refs/heads/main
+[submodule "json-flatten"]
+	url = https://github.com/conda-forge/json-flatten-feedstock.git
+	path = feedstocks/json-flatten
+	branch = refs/heads/main
