@@ -102654,3 +102654,7 @@
 	url = https://github.com/conda-forge/fluxfootprints-feedstock.git
 	path = feedstocks/fluxfootprints
 	branch = refs/heads/main
+[submodule "custom-json-diff"]
+	url = https://github.com/conda-forge/custom-json-diff-feedstock.git
+	path = feedstocks/custom-json-diff
+	branch = refs/heads/main
