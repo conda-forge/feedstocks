@@ -102662,3 +102662,7 @@
 	url = https://github.com/conda-forge/flowshow-feedstock.git
 	path = feedstocks/flowshow
 	branch = refs/heads/main
+[submodule "dockerpyze"]
+	url = https://github.com/conda-forge/dockerpyze-feedstock.git
+	path = feedstocks/dockerpyze
+	branch = refs/heads/main
