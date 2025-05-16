@@ -102710,3 +102710,7 @@
 	url = https://github.com/conda-forge/cashews-feedstock.git
 	path = feedstocks/cashews
 	branch = refs/heads/main
+[submodule "quicfire-tools"]
+	url = https://github.com/conda-forge/quicfire-tools-feedstock.git
+	path = feedstocks/quicfire-tools
+	branch = refs/heads/main
