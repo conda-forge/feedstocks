@@ -102722,3 +102722,7 @@
 	url = https://github.com/conda-forge/libvalkey-py-feedstock.git
 	path = feedstocks/libvalkey-py
 	branch = refs/heads/main
+[submodule "anaconda-ai"]
+	url = https://github.com/conda-forge/anaconda-ai-feedstock.git
+	path = feedstocks/anaconda-ai
+	branch = refs/heads/main
