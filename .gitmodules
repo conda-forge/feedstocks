@@ -102702,3 +102702,7 @@
 	url = https://github.com/conda-forge/rb-prawn-feedstock.git
 	path = feedstocks/rb-prawn
 	branch = refs/heads/main
+[submodule "panel-material-ui"]
+	url = https://github.com/conda-forge/panel-material-ui-feedstock.git
+	path = feedstocks/panel-material-ui
+	branch = refs/heads/main
