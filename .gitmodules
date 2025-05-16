@@ -102714,3 +102714,7 @@
 	url = https://github.com/conda-forge/quicfire-tools-feedstock.git
 	path = feedstocks/quicfire-tools
 	branch = refs/heads/main
+[submodule "pytcube"]
+	url = https://github.com/conda-forge/pytcube-feedstock.git
+	path = feedstocks/pytcube
+	branch = refs/heads/main
