@@ -102706,3 +102706,7 @@
 	url = https://github.com/conda-forge/panel-material-ui-feedstock.git
 	path = feedstocks/panel-material-ui
 	branch = refs/heads/main
+[submodule "cashews"]
+	url = https://github.com/conda-forge/cashews-feedstock.git
+	path = feedstocks/cashews
+	branch = refs/heads/main
