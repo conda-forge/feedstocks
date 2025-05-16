@@ -102718,3 +102718,7 @@
 	url = https://github.com/conda-forge/pytcube-feedstock.git
 	path = feedstocks/pytcube
 	branch = refs/heads/main
+[submodule "libvalkey-py"]
+	url = https://github.com/conda-forge/libvalkey-py-feedstock.git
+	path = feedstocks/libvalkey-py
+	branch = refs/heads/main
