@@ -102742,3 +102742,7 @@
 	url = https://github.com/conda-forge/patito-feedstock.git
 	path = feedstocks/patito
 	branch = refs/heads/main
+[submodule "stealthkit"]
+	url = https://github.com/conda-forge/stealthkit-feedstock.git
+	path = feedstocks/stealthkit
+	branch = refs/heads/main
