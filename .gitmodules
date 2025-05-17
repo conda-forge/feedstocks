@@ -102734,3 +102734,7 @@
 	url = https://github.com/conda-forge/glodap-feedstock.git
 	path = feedstocks/glodap
 	branch = refs/heads/main
+[submodule "neapolitan"]
+	url = https://github.com/conda-forge/neapolitan-feedstock.git
+	path = feedstocks/neapolitan
+	branch = refs/heads/main
