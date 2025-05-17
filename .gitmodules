@@ -102726,3 +102726,7 @@
 	url = https://github.com/conda-forge/anaconda-ai-feedstock.git
 	path = feedstocks/anaconda-ai
 	branch = refs/heads/main
+[submodule "msgpack-tools"]
+	url = https://github.com/conda-forge/msgpack-tools-feedstock.git
+	path = feedstocks/msgpack-tools
+	branch = refs/heads/main
