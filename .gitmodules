@@ -102738,3 +102738,7 @@
 	url = https://github.com/conda-forge/neapolitan-feedstock.git
 	path = feedstocks/neapolitan
 	branch = refs/heads/main
+[submodule "patito"]
+	url = https://github.com/conda-forge/patito-feedstock.git
+	path = feedstocks/patito
+	branch = refs/heads/main
