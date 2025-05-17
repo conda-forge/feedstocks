@@ -102750,3 +102750,7 @@
 	url = https://github.com/conda-forge/vsketch-feedstock.git
 	path = feedstocks/vsketch
 	branch = refs/heads/main
+[submodule "django-action-triggers"]
+	url = https://github.com/conda-forge/django-action-triggers-feedstock.git
+	path = feedstocks/django-action-triggers
+	branch = refs/heads/main
