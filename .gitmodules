@@ -102746,3 +102746,7 @@
 	url = https://github.com/conda-forge/stealthkit-feedstock.git
 	path = feedstocks/stealthkit
 	branch = refs/heads/main
+[submodule "vsketch"]
+	url = https://github.com/conda-forge/vsketch-feedstock.git
+	path = feedstocks/vsketch
+	branch = refs/heads/main
