@@ -102730,3 +102730,7 @@
 	url = https://github.com/conda-forge/msgpack-tools-feedstock.git
 	path = feedstocks/msgpack-tools
 	branch = refs/heads/main
+[submodule "glodap"]
+	url = https://github.com/conda-forge/glodap-feedstock.git
+	path = feedstocks/glodap
+	branch = refs/heads/main
