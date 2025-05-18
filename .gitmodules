@@ -102758,3 +102758,7 @@
 	url = https://github.com/conda-forge/r-dotty-feedstock.git
 	path = feedstocks/r-dotty
 	branch = refs/heads/main
+[submodule "formulate"]
+	url = https://github.com/conda-forge/formulate-feedstock.git
+	path = feedstocks/formulate
+	branch = refs/heads/main
