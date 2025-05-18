@@ -102754,3 +102754,7 @@
 	url = https://github.com/conda-forge/django-action-triggers-feedstock.git
 	path = feedstocks/django-action-triggers
 	branch = refs/heads/main
+[submodule "r-dotty"]
+	url = https://github.com/conda-forge/r-dotty-feedstock.git
+	path = feedstocks/r-dotty
+	branch = refs/heads/main
