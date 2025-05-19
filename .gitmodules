@@ -102766,3 +102766,7 @@
 	url = https://github.com/conda-forge/json2ast-feedstock.git
 	path = feedstocks/json2ast
 	branch = refs/heads/main
+[submodule "ast2json"]
+	url = https://github.com/conda-forge/ast2json-feedstock.git
+	path = feedstocks/ast2json
+	branch = refs/heads/main
