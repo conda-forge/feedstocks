@@ -102770,3 +102770,7 @@
 	url = https://github.com/conda-forge/ast2json-feedstock.git
 	path = feedstocks/ast2json
 	branch = refs/heads/main
+[submodule "whisper.cpp"]
+	url = https://github.com/conda-forge/whisper.cpp-feedstock.git
+	path = feedstocks/whisper.cpp
+	branch = refs/heads/main
