@@ -102762,3 +102762,7 @@
 	url = https://github.com/conda-forge/formulate-feedstock.git
 	path = feedstocks/formulate
 	branch = refs/heads/main
+[submodule "json2ast"]
+	url = https://github.com/conda-forge/json2ast-feedstock.git
+	path = feedstocks/json2ast
+	branch = refs/heads/main
