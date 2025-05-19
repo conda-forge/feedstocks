@@ -102774,3 +102774,7 @@
 	url = https://github.com/conda-forge/whisper.cpp-feedstock.git
 	path = feedstocks/whisper.cpp
 	branch = refs/heads/main
+[submodule "elicito"]
+	url = https://github.com/conda-forge/elicito-feedstock.git
+	path = feedstocks/elicito
+	branch = refs/heads/main
