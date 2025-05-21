@@ -102918,3 +102918,7 @@
 	url = https://github.com/conda-forge/pyserial-labgrid-feedstock.git
 	path = feedstocks/pyserial-labgrid
 	branch = refs/heads/main
+[submodule "botier"]
+	url = https://github.com/conda-forge/botier-feedstock.git
+	path = feedstocks/botier
+	branch = refs/heads/main
