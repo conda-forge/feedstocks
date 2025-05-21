@@ -102906,3 +102906,7 @@
 	url = https://github.com/conda-forge/uncompresspy-feedstock.git
 	path = feedstocks/uncompresspy
 	branch = refs/heads/main
+[submodule "xmodem"]
+	url = https://github.com/conda-forge/xmodem-feedstock.git
+	path = feedstocks/xmodem
+	branch = refs/heads/main
