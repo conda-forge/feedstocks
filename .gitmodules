@@ -102814,3 +102814,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-openai-feedstock.git
 	path = feedstocks/apache-airflow-providers-openai
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-opensearch"]
+	url = https://github.com/conda-forge/apache-airflow-providers-opensearch-feedstock.git
+	path = feedstocks/apache-airflow-providers-opensearch
+	branch = refs/heads/main
