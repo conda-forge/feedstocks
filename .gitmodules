@@ -102862,3 +102862,7 @@
 	url = https://github.com/conda-forge/conda-rattler-solver-feedstock.git
 	path = feedstocks/conda-rattler-solver
 	branch = refs/heads/main
+[submodule "rb-prawn-table"]
+	url = https://github.com/conda-forge/rb-prawn-table-feedstock.git
+	path = feedstocks/rb-prawn-table
+	branch = refs/heads/main
