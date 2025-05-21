@@ -102790,3 +102790,7 @@
 	url = https://github.com/conda-forge/loro-feedstock.git
 	path = feedstocks/loro
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-pinecone"]
+	url = https://github.com/conda-forge/apache-airflow-providers-pinecone-feedstock.git
+	path = feedstocks/apache-airflow-providers-pinecone
+	branch = refs/heads/main
