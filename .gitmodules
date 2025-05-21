@@ -102926,3 +102926,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-weaviate-feedstock.git
 	path = feedstocks/apache-airflow-providers-weaviate
 	branch = refs/heads/main
+[submodule "ydb"]
+	url = https://github.com/conda-forge/ydb-feedstock.git
+	path = feedstocks/ydb
+	branch = refs/heads/main
