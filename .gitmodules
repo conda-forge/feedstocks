@@ -102818,3 +102818,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-opensearch-feedstock.git
 	path = feedstocks/apache-airflow-providers-opensearch
 	branch = refs/heads/main
+[submodule "canopy-tools"]
+	url = https://github.com/conda-forge/canopy-tools-feedstock.git
+	path = feedstocks/canopy-tools
+	branch = refs/heads/main
