@@ -102922,3 +102922,7 @@
 	url = https://github.com/conda-forge/botier-feedstock.git
 	path = feedstocks/botier
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-weaviate"]
+	url = https://github.com/conda-forge/apache-airflow-providers-weaviate-feedstock.git
+	path = feedstocks/apache-airflow-providers-weaviate
+	branch = refs/heads/main
