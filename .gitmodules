@@ -102894,3 +102894,7 @@
 	url = https://github.com/conda-forge/rb-rexml-feedstock.git
 	path = feedstocks/rb-rexml
 	branch = refs/heads/main
+[submodule "pymeta3"]
+	url = https://github.com/conda-forge/pymeta3-feedstock.git
+	path = feedstocks/pymeta3
+	branch = refs/heads/main
