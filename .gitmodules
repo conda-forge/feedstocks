@@ -102786,3 +102786,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-qdrant-feedstock.git
 	path = feedstocks/apache-airflow-providers-qdrant
 	branch = refs/heads/main
+[submodule "loro"]
+	url = https://github.com/conda-forge/loro-feedstock.git
+	path = feedstocks/loro
+	branch = refs/heads/main
