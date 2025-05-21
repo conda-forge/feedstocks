@@ -102850,3 +102850,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-common-messaging-feedstock.git
 	path = feedstocks/apache-airflow-providers-common-messaging
 	branch = refs/heads/main
+[submodule "volta"]
+	url = https://github.com/conda-forge/volta-feedstock.git
+	path = feedstocks/volta
+	branch = refs/heads/main
