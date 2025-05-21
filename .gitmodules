@@ -102914,3 +102914,7 @@
 	url = https://github.com/conda-forge/rb-ruby-rc4-feedstock.git
 	path = feedstocks/rb-ruby-rc4
 	branch = refs/heads/main
+[submodule "pyserial-labgrid"]
+	url = https://github.com/conda-forge/pyserial-labgrid-feedstock.git
+	path = feedstocks/pyserial-labgrid
+	branch = refs/heads/main
