@@ -102882,3 +102882,7 @@
 	url = https://github.com/conda-forge/rb-pygments.rb-feedstock.git
 	path = feedstocks/rb-pygments.rb
 	branch = refs/heads/main
+[submodule "keyring-pass"]
+	url = https://github.com/conda-forge/keyring-pass-feedstock.git
+	path = feedstocks/keyring-pass
+	branch = refs/heads/main
