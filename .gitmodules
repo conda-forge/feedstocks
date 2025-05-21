@@ -102826,3 +102826,7 @@
 	url = https://github.com/conda-forge/bobleesj.utils-feedstock.git
 	path = feedstocks/bobleesj.utils
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-git"]
+	url = https://github.com/conda-forge/apache-airflow-providers-git-feedstock.git
+	path = feedstocks/apache-airflow-providers-git
+	branch = refs/heads/main
