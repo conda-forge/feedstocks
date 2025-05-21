@@ -102802,3 +102802,7 @@
 	url = https://github.com/conda-forge/conch-sounds-feedstock.git
 	path = feedstocks/conch-sounds
 	branch = refs/heads/main
+[submodule "kstar"]
+	url = https://github.com/conda-forge/kstar-feedstock.git
+	path = feedstocks/kstar
+	branch = refs/heads/main
