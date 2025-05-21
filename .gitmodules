@@ -102778,3 +102778,7 @@
 	url = https://github.com/conda-forge/elicito-feedstock.git
 	path = feedstocks/elicito
 	branch = refs/heads/main
+[submodule "polyglotdb"]
+	url = https://github.com/conda-forge/polyglotdb-feedstock.git
+	path = feedstocks/polyglotdb
+	branch = refs/heads/main
