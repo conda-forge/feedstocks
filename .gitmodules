@@ -102854,3 +102854,7 @@
 	url = https://github.com/conda-forge/volta-feedstock.git
 	path = feedstocks/volta
 	branch = refs/heads/main
+[submodule "nbrefactor"]
+	url = https://github.com/conda-forge/nbrefactor-feedstock.git
+	path = feedstocks/nbrefactor
+	branch = refs/heads/main
