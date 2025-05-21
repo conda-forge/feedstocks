@@ -102830,3 +102830,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-git-feedstock.git
 	path = feedstocks/apache-airflow-providers-git
 	branch = refs/heads/main
+[submodule "sess_i"]
+	url = https://github.com/conda-forge/sess_i-feedstock.git
+	path = feedstocks/sess_i
+	branch = refs/heads/main
