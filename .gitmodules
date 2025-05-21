@@ -102782,3 +102782,7 @@
 	url = https://github.com/conda-forge/polyglotdb-feedstock.git
 	path = feedstocks/polyglotdb
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-qdrant"]
+	url = https://github.com/conda-forge/apache-airflow-providers-qdrant-feedstock.git
+	path = feedstocks/apache-airflow-providers-qdrant
+	branch = refs/heads/main
