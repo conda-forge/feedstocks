@@ -102806,3 +102806,7 @@
 	url = https://github.com/conda-forge/kstar-feedstock.git
 	path = feedstocks/kstar
 	branch = refs/heads/main
+[submodule "adam-assist"]
+	url = https://github.com/conda-forge/adam-assist-feedstock.git
+	path = feedstocks/adam-assist
+	branch = refs/heads/main
