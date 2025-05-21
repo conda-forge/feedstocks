@@ -102794,3 +102794,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-pinecone-feedstock.git
 	path = feedstocks/apache-airflow-providers-pinecone
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-edge3"]
+	url = https://github.com/conda-forge/apache-airflow-providers-edge3-feedstock.git
+	path = feedstocks/apache-airflow-providers-edge3
+	branch = refs/heads/main
