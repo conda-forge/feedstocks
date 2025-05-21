@@ -102886,3 +102886,7 @@
 	url = https://github.com/conda-forge/keyring-pass-feedstock.git
 	path = feedstocks/keyring-pass
 	branch = refs/heads/main
+[submodule "authzed-py"]
+	url = https://github.com/conda-forge/authzed-py-feedstock.git
+	path = feedstocks/authzed-py
+	branch = refs/heads/main
