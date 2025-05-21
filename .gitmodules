@@ -102846,3 +102846,7 @@
 	url = https://github.com/conda-forge/rb-prawn-icon-feedstock.git
 	path = feedstocks/rb-prawn-icon
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-common-messaging"]
+	url = https://github.com/conda-forge/apache-airflow-providers-common-messaging-feedstock.git
+	path = feedstocks/apache-airflow-providers-common-messaging
+	branch = refs/heads/main
