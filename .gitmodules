@@ -102810,3 +102810,7 @@
 	url = https://github.com/conda-forge/adam-assist-feedstock.git
 	path = feedstocks/adam-assist
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-openai"]
+	url = https://github.com/conda-forge/apache-airflow-providers-openai-feedstock.git
+	path = feedstocks/apache-airflow-providers-openai
+	branch = refs/heads/main
