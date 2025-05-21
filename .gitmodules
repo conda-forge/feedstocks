@@ -102930,3 +102930,7 @@
 	url = https://github.com/conda-forge/ydb-feedstock.git
 	path = feedstocks/ydb
 	branch = refs/heads/main
+[submodule "weaviate-client"]
+	url = https://github.com/conda-forge/weaviate-client-feedstock.git
+	path = feedstocks/weaviate-client
+	branch = refs/heads/main
