@@ -102910,3 +102910,7 @@
 	url = https://github.com/conda-forge/xmodem-feedstock.git
 	path = feedstocks/xmodem
 	branch = refs/heads/main
+[submodule "rb-ruby-rc4"]
+	url = https://github.com/conda-forge/rb-ruby-rc4-feedstock.git
+	path = feedstocks/rb-ruby-rc4
+	branch = refs/heads/main
