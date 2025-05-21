@@ -102838,3 +102838,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-apache-impala-feedstock.git
 	path = feedstocks/apache-airflow-providers-apache-impala
 	branch = refs/heads/main
+[submodule "setuptools-changelog-shortener"]
+	url = https://github.com/conda-forge/setuptools-changelog-shortener-feedstock.git
+	path = feedstocks/setuptools-changelog-shortener
+	branch = refs/heads/main
