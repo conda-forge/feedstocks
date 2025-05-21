@@ -102870,3 +102870,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-pgvector-feedstock.git
 	path = feedstocks/apache-airflow-providers-pgvector
 	branch = refs/heads/main
+[submodule "pyraat"]
+	url = https://github.com/conda-forge/pyraat-feedstock.git
+	path = feedstocks/pyraat
+	branch = refs/heads/main
