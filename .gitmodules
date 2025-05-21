@@ -102866,3 +102866,7 @@
 	url = https://github.com/conda-forge/rb-prawn-table-feedstock.git
 	path = feedstocks/rb-prawn-table
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-pgvector"]
+	url = https://github.com/conda-forge/apache-airflow-providers-pgvector-feedstock.git
+	path = feedstocks/apache-airflow-providers-pgvector
+	branch = refs/heads/main
