@@ -102858,3 +102858,7 @@
 	url = https://github.com/conda-forge/nbrefactor-feedstock.git
 	path = feedstocks/nbrefactor
 	branch = refs/heads/main
+[submodule "conda-rattler-solver"]
+	url = https://github.com/conda-forge/conda-rattler-solver-feedstock.git
+	path = feedstocks/conda-rattler-solver
+	branch = refs/heads/main
