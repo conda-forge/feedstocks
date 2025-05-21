@@ -102798,3 +102798,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-edge3-feedstock.git
 	path = feedstocks/apache-airflow-providers-edge3
 	branch = refs/heads/main
+[submodule "conch-sounds"]
+	url = https://github.com/conda-forge/conch-sounds-feedstock.git
+	path = feedstocks/conch-sounds
+	branch = refs/heads/main
