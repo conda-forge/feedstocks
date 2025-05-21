@@ -102938,3 +102938,7 @@
 	url = https://github.com/conda-forge/ydb-dbapi-feedstock.git
 	path = feedstocks/ydb-dbapi
 	branch = refs/heads/main
+[submodule "apache-airflow-providers-ydb"]
+	url = https://github.com/conda-forge/apache-airflow-providers-ydb-feedstock.git
+	path = feedstocks/apache-airflow-providers-ydb
+	branch = refs/heads/main
