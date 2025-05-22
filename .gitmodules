@@ -102946,3 +102946,7 @@
 	url = https://github.com/conda-forge/omicron_utils-feedstock.git
 	path = feedstocks/omicron_utils
 	branch = refs/heads/main
+[submodule "climkern"]
+	url = https://github.com/conda-forge/climkern-feedstock.git
+	path = feedstocks/climkern
+	branch = refs/heads/main
