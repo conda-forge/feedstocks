@@ -102942,3 +102942,7 @@
 	url = https://github.com/conda-forge/apache-airflow-providers-ydb-feedstock.git
 	path = feedstocks/apache-airflow-providers-ydb
 	branch = refs/heads/main
+[submodule "omicron_utils"]
+	url = https://github.com/conda-forge/omicron_utils-feedstock.git
+	path = feedstocks/omicron_utils
+	branch = refs/heads/main
