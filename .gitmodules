@@ -102966,3 +102966,7 @@
 	url = https://github.com/conda-forge/pysbf2-feedstock.git
 	path = feedstocks/pysbf2
 	branch = refs/heads/main
+[submodule "fnm"]
+	url = https://github.com/conda-forge/fnm-feedstock.git
+	path = feedstocks/fnm
+	branch = refs/heads/main
