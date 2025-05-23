@@ -102990,3 +102990,7 @@
 	url = https://github.com/conda-forge/simple-gcp-object-downloader-feedstock.git
 	path = feedstocks/simple-gcp-object-downloader
 	branch = refs/heads/main
+[submodule "cacheout"]
+	url = https://github.com/conda-forge/cacheout-feedstock.git
+	path = feedstocks/cacheout
+	branch = refs/heads/main
