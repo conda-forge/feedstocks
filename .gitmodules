@@ -102970,3 +102970,7 @@
 	url = https://github.com/conda-forge/fnm-feedstock.git
 	path = feedstocks/fnm
 	branch = refs/heads/main
+[submodule "sharplib"]
+	url = https://github.com/conda-forge/sharplib-feedstock.git
+	path = feedstocks/sharplib
+	branch = refs/heads/main
