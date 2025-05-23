@@ -102978,3 +102978,7 @@
 	url = https://github.com/conda-forge/jupyterlab-js-feedstock.git
 	path = feedstocks/jupyterlab-js
 	branch = refs/heads/main
+[submodule "mapflow"]
+	url = https://github.com/conda-forge/mapflow-feedstock.git
+	path = feedstocks/mapflow
+	branch = refs/heads/main
