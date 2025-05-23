@@ -102982,3 +102982,7 @@
 	url = https://github.com/conda-forge/mapflow-feedstock.git
 	path = feedstocks/mapflow
 	branch = refs/heads/main
+[submodule "celeries"]
+	url = https://github.com/conda-forge/celeries-feedstock.git
+	path = feedstocks/celeries
+	branch = refs/heads/main
