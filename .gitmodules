@@ -102974,3 +102974,7 @@
 	url = https://github.com/conda-forge/sharplib-feedstock.git
 	path = feedstocks/sharplib
 	branch = refs/heads/main
+[submodule "jupyterlab-js"]
+	url = https://github.com/conda-forge/jupyterlab-js-feedstock.git
+	path = feedstocks/jupyterlab-js
+	branch = refs/heads/main
