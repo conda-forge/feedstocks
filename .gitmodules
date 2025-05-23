@@ -102986,3 +102986,7 @@
 	url = https://github.com/conda-forge/celeries-feedstock.git
 	path = feedstocks/celeries
 	branch = refs/heads/main
+[submodule "simple-gcp-object-downloader"]
+	url = https://github.com/conda-forge/simple-gcp-object-downloader-feedstock.git
+	path = feedstocks/simple-gcp-object-downloader
+	branch = refs/heads/main
