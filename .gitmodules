@@ -103006,3 +103006,7 @@
 	url = https://github.com/conda-forge/love2d-feedstock.git
 	path = feedstocks/love2d
 	branch = refs/heads/main
+[submodule "r-interprocess"]
+	url = https://github.com/conda-forge/r-interprocess-feedstock.git
+	path = feedstocks/r-interprocess
+	branch = refs/heads/main
