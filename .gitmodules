@@ -102998,3 +102998,7 @@
 	url = https://github.com/conda-forge/r-celltrackr-feedstock.git
 	path = feedstocks/r-celltrackr
 	branch = refs/heads/main
+[submodule "r-neonutilities"]
+	url = https://github.com/conda-forge/r-neonutilities-feedstock.git
+	path = feedstocks/r-neonutilities
+	branch = refs/heads/main
