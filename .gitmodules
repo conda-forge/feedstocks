@@ -103002,3 +103002,7 @@
 	url = https://github.com/conda-forge/r-neonutilities-feedstock.git
 	path = feedstocks/r-neonutilities
 	branch = refs/heads/main
+[submodule "love2d"]
+	url = https://github.com/conda-forge/love2d-feedstock.git
+	path = feedstocks/love2d
+	branch = refs/heads/main
