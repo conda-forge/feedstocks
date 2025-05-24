@@ -103010,3 +103010,7 @@
 	url = https://github.com/conda-forge/r-interprocess-feedstock.git
 	path = feedstocks/r-interprocess
 	branch = refs/heads/main
+[submodule "notebook-frontend"]
+	url = https://github.com/conda-forge/notebook-frontend-feedstock.git
+	path = feedstocks/notebook-frontend
+	branch = refs/heads/main
