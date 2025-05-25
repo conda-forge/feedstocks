@@ -103014,3 +103014,7 @@
 	url = https://github.com/conda-forge/notebook-frontend-feedstock.git
 	path = feedstocks/notebook-frontend
 	branch = refs/heads/main
+[submodule "psdtags"]
+	url = https://github.com/conda-forge/psdtags-feedstock.git
+	path = feedstocks/psdtags
+	branch = refs/heads/main
