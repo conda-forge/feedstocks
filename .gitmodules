@@ -103026,3 +103026,7 @@
 	url = https://github.com/conda-forge/simple-azure-blob-downloader-feedstock.git
 	path = feedstocks/simple-azure-blob-downloader
 	branch = refs/heads/main
+[submodule "rpm-sequoia"]
+	url = https://github.com/conda-forge/rpm-sequoia-feedstock.git
+	path = feedstocks/rpm-sequoia
+	branch = refs/heads/main
