@@ -103038,3 +103038,7 @@
 	url = https://github.com/conda-forge/labgrid-feedstock.git
 	path = feedstocks/labgrid
 	branch = refs/heads/main
+[submodule "amazon-transcribe"]
+	url = https://github.com/conda-forge/amazon-transcribe-feedstock.git
+	path = feedstocks/amazon-transcribe
+	branch = refs/heads/main
