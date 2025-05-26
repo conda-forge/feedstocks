@@ -103042,3 +103042,7 @@
 	url = https://github.com/conda-forge/amazon-transcribe-feedstock.git
 	path = feedstocks/amazon-transcribe
 	branch = refs/heads/main
+[submodule "r-rlistings"]
+	url = https://github.com/conda-forge/r-rlistings-feedstock.git
+	path = feedstocks/r-rlistings
+	branch = refs/heads/main
