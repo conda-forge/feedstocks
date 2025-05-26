@@ -103034,3 +103034,7 @@
 	url = https://github.com/conda-forge/tof-feedstock.git
 	path = feedstocks/tof
 	branch = refs/heads/main
+[submodule "labgrid"]
+	url = https://github.com/conda-forge/labgrid-feedstock.git
+	path = feedstocks/labgrid
+	branch = refs/heads/main
