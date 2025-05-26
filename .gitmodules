@@ -103062,3 +103062,7 @@
 	url = https://github.com/conda-forge/rb-hashery-feedstock.git
 	path = feedstocks/rb-hashery
 	branch = refs/heads/main
+[submodule "kedro-docker"]
+	url = https://github.com/conda-forge/kedro-docker-feedstock.git
+	path = feedstocks/kedro-docker
+	branch = refs/heads/main
