@@ -103066,3 +103066,7 @@
 	url = https://github.com/conda-forge/kedro-docker-feedstock.git
 	path = feedstocks/kedro-docker
 	branch = refs/heads/main
+[submodule "mkdocs-charts-plugin"]
+	url = https://github.com/conda-forge/mkdocs-charts-plugin-feedstock.git
+	path = feedstocks/mkdocs-charts-plugin
+	branch = refs/heads/main
