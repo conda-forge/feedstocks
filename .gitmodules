@@ -103058,3 +103058,7 @@
 	url = https://github.com/conda-forge/pertpy-feedstock.git
 	path = feedstocks/pertpy
 	branch = refs/heads/main
+[submodule "rb-hashery"]
+	url = https://github.com/conda-forge/rb-hashery-feedstock.git
+	path = feedstocks/rb-hashery
+	branch = refs/heads/main
