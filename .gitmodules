@@ -103030,3 +103030,7 @@
 	url = https://github.com/conda-forge/rpm-sequoia-feedstock.git
 	path = feedstocks/rpm-sequoia
 	branch = refs/heads/main
+[submodule "tof"]
+	url = https://github.com/conda-forge/tof-feedstock.git
+	path = feedstocks/tof
+	branch = refs/heads/main
