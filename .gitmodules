@@ -103074,3 +103074,7 @@
 	url = https://github.com/conda-forge/cardiac-geometriesx-feedstock.git
 	path = feedstocks/cardiac-geometriesx
 	branch = refs/heads/main
+[submodule "cf-m2-build-bat"]
+	url = https://github.com/conda-forge/cf-m2-build-bat-feedstock.git
+	path = feedstocks/cf-m2-build-bat
+	branch = refs/heads/main
