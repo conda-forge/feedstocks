@@ -103046,3 +103046,7 @@
 	url = https://github.com/conda-forge/r-rlistings-feedstock.git
 	path = feedstocks/r-rlistings
 	branch = refs/heads/main
+[submodule "cardiac-geometries-core"]
+	url = https://github.com/conda-forge/cardiac-geometries-core-feedstock.git
+	path = feedstocks/cardiac-geometries-core
+	branch = refs/heads/main
