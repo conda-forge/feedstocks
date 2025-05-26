@@ -103022,3 +103022,7 @@
 	url = https://github.com/conda-forge/ptyrad-feedstock.git
 	path = feedstocks/ptyrad
 	branch = refs/heads/main
+[submodule "simple-azure-blob-downloader"]
+	url = https://github.com/conda-forge/simple-azure-blob-downloader-feedstock.git
+	path = feedstocks/simple-azure-blob-downloader
+	branch = refs/heads/main
