@@ -103078,3 +103078,7 @@
 	url = https://github.com/conda-forge/cf-m2-build-bat-feedstock.git
 	path = feedstocks/cf-m2-build-bat
 	branch = refs/heads/main
+[submodule "mimosa"]
+	url = https://github.com/conda-forge/mimosa-feedstock.git
+	path = feedstocks/mimosa
+	branch = refs/heads/main
