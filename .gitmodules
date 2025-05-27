@@ -103138,3 +103138,7 @@
 	url = https://github.com/conda-forge/owa-feedstock.git
 	path = feedstocks/owa
 	branch = refs/heads/main
+[submodule "fenicsx-ldrb"]
+	url = https://github.com/conda-forge/fenicsx-ldrb-feedstock.git
+	path = feedstocks/fenicsx-ldrb
+	branch = refs/heads/main
