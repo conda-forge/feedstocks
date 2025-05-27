@@ -103126,3 +103126,7 @@
 	url = https://github.com/conda-forge/owa-cli-feedstock.git
 	path = feedstocks/owa-cli
 	branch = refs/heads/main
+[submodule "exejs"]
+	url = https://github.com/conda-forge/exejs-feedstock.git
+	path = feedstocks/exejs
+	branch = refs/heads/main
