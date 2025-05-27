@@ -103090,3 +103090,7 @@
 	url = https://github.com/conda-forge/rb-afm-feedstock.git
 	path = feedstocks/rb-afm
 	branch = refs/heads/main
+[submodule "pytest-reraise"]
+	url = https://github.com/conda-forge/pytest-reraise-feedstock.git
+	path = feedstocks/pytest-reraise
+	branch = refs/heads/main
