@@ -103142,3 +103142,7 @@
 	url = https://github.com/conda-forge/fenicsx-ldrb-feedstock.git
 	path = feedstocks/fenicsx-ldrb
 	branch = refs/heads/main
+[submodule "fastdfe"]
+	url = https://github.com/conda-forge/fastdfe-feedstock.git
+	path = feedstocks/fastdfe
+	branch = refs/heads/main
