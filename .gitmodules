@@ -103118,3 +103118,7 @@
 	url = https://github.com/conda-forge/owa-env-desktop-feedstock.git
 	path = feedstocks/owa-env-desktop
 	branch = refs/heads/main
+[submodule "owa-env-gst"]
+	url = https://github.com/conda-forge/owa-env-gst-feedstock.git
+	path = feedstocks/owa-env-gst
+	branch = refs/heads/main
