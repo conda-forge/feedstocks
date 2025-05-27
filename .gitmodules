@@ -103098,3 +103098,7 @@
 	url = https://github.com/conda-forge/owa-core-feedstock.git
 	path = feedstocks/owa-core
 	branch = refs/heads/main
+[submodule "pygobject-stubs"]
+	url = https://github.com/conda-forge/pygobject-stubs-feedstock.git
+	path = feedstocks/pygobject-stubs
+	branch = refs/heads/main
