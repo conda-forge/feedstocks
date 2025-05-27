@@ -103102,3 +103102,7 @@
 	url = https://github.com/conda-forge/pygobject-stubs-feedstock.git
 	path = feedstocks/pygobject-stubs
 	branch = refs/heads/main
+[submodule "bettercam"]
+	url = https://github.com/conda-forge/bettercam-feedstock.git
+	path = feedstocks/bettercam
+	branch = refs/heads/main
