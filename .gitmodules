@@ -103146,3 +103146,7 @@
 	url = https://github.com/conda-forge/fastdfe-feedstock.git
 	path = feedstocks/fastdfe
 	branch = refs/heads/main
+[submodule "aws-s3-access-grants-boto3-plugin"]
+	url = https://github.com/conda-forge/aws-s3-access-grants-boto3-plugin-feedstock.git
+	path = feedstocks/aws-s3-access-grants-boto3-plugin
+	branch = refs/heads/main
