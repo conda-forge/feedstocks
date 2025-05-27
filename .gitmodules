@@ -103106,3 +103106,7 @@
 	url = https://github.com/conda-forge/bettercam-feedstock.git
 	path = feedstocks/bettercam
 	branch = refs/heads/main
+[submodule "mcap"]
+	url = https://github.com/conda-forge/mcap-feedstock.git
+	path = feedstocks/mcap
+	branch = refs/heads/main
