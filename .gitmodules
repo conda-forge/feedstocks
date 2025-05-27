@@ -103086,3 +103086,7 @@
 	url = https://github.com/conda-forge/r-nestcolor-feedstock.git
 	path = feedstocks/r-nestcolor
 	branch = refs/heads/main
+[submodule "rb-afm"]
+	url = https://github.com/conda-forge/rb-afm-feedstock.git
+	path = feedstocks/rb-afm
+	branch = refs/heads/main
