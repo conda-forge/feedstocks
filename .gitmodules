@@ -103110,3 +103110,7 @@
 	url = https://github.com/conda-forge/mcap-feedstock.git
 	path = feedstocks/mcap
 	branch = refs/heads/main
+[submodule "mcap-owa-support"]
+	url = https://github.com/conda-forge/mcap-owa-support-feedstock.git
+	path = feedstocks/mcap-owa-support
+	branch = refs/heads/main
