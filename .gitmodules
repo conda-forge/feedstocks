@@ -103134,3 +103134,7 @@
 	url = https://github.com/conda-forge/ocap-feedstock.git
 	path = feedstocks/ocap
 	branch = refs/heads/main
+[submodule "owa"]
+	url = https://github.com/conda-forge/owa-feedstock.git
+	path = feedstocks/owa
+	branch = refs/heads/main
