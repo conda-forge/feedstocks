@@ -103130,3 +103130,7 @@
 	url = https://github.com/conda-forge/exejs-feedstock.git
 	path = feedstocks/exejs
 	branch = refs/heads/main
+[submodule "ocap"]
+	url = https://github.com/conda-forge/ocap-feedstock.git
+	path = feedstocks/ocap
+	branch = refs/heads/main
