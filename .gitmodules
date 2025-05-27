@@ -103082,3 +103082,7 @@
 	url = https://github.com/conda-forge/mimosa-feedstock.git
 	path = feedstocks/mimosa
 	branch = refs/heads/main
+[submodule "r-nestcolor"]
+	url = https://github.com/conda-forge/r-nestcolor-feedstock.git
+	path = feedstocks/r-nestcolor
+	branch = refs/heads/main
