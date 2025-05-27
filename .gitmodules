@@ -103094,3 +103094,7 @@
 	url = https://github.com/conda-forge/pytest-reraise-feedstock.git
 	path = feedstocks/pytest-reraise
 	branch = refs/heads/main
+[submodule "owa-core"]
+	url = https://github.com/conda-forge/owa-core-feedstock.git
+	path = feedstocks/owa-core
+	branch = refs/heads/main
