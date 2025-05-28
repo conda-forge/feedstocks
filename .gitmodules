@@ -103182,3 +103182,7 @@
 	url = https://github.com/conda-forge/apitally-feedstock.git
 	path = feedstocks/apitally
 	branch = refs/heads/main
+[submodule "cxxheaderparser"]
+	url = https://github.com/conda-forge/cxxheaderparser-feedstock.git
+	path = feedstocks/cxxheaderparser
+	branch = refs/heads/main
