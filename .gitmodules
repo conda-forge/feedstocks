@@ -103186,3 +103186,7 @@
 	url = https://github.com/conda-forge/cxxheaderparser-feedstock.git
 	path = feedstocks/cxxheaderparser
 	branch = refs/heads/main
+[submodule "phasegen"]
+	url = https://github.com/conda-forge/phasegen-feedstock.git
+	path = feedstocks/phasegen
+	branch = refs/heads/main
