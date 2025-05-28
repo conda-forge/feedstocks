@@ -103190,3 +103190,7 @@
 	url = https://github.com/conda-forge/phasegen-feedstock.git
 	path = feedstocks/phasegen
 	branch = refs/heads/main
+[submodule "pdbeccdutils"]
+	url = https://github.com/conda-forge/pdbeccdutils-feedstock.git
+	path = feedstocks/pdbeccdutils
+	branch = refs/heads/main
