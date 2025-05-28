@@ -103158,3 +103158,7 @@
 	url = https://github.com/conda-forge/napari-tiff-feedstock.git
 	path = feedstocks/napari-tiff
 	branch = refs/heads/main
+[submodule "vizro-mcp"]
+	url = https://github.com/conda-forge/vizro-mcp-feedstock.git
+	path = feedstocks/vizro-mcp
+	branch = refs/heads/main
