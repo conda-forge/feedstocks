@@ -103154,3 +103154,7 @@
 	url = https://github.com/conda-forge/r-tern-feedstock.git
 	path = feedstocks/r-tern
 	branch = refs/heads/main
+[submodule "napari-tiff"]
+	url = https://github.com/conda-forge/napari-tiff-feedstock.git
+	path = feedstocks/napari-tiff
+	branch = refs/heads/main
