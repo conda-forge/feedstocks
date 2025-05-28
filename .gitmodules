@@ -103174,3 +103174,7 @@
 	url = https://github.com/conda-forge/django-oidc-provider-feedstock.git
 	path = feedstocks/django-oidc-provider
 	branch = refs/heads/main
+[submodule "rb-prawn-svg"]
+	url = https://github.com/conda-forge/rb-prawn-svg-feedstock.git
+	path = feedstocks/rb-prawn-svg
+	branch = refs/heads/main
