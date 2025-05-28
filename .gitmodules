@@ -103162,3 +103162,7 @@
 	url = https://github.com/conda-forge/vizro-mcp-feedstock.git
 	path = feedstocks/vizro-mcp
 	branch = refs/heads/main
+[submodule "vizro-ai"]
+	url = https://github.com/conda-forge/vizro-ai-feedstock.git
+	path = feedstocks/vizro-ai
+	branch = refs/heads/main
