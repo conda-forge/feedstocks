@@ -103166,3 +103166,7 @@
 	url = https://github.com/conda-forge/vizro-ai-feedstock.git
 	path = feedstocks/vizro-ai
 	branch = refs/heads/main
+[submodule "django-pydantic-models"]
+	url = https://github.com/conda-forge/django-pydantic-models-feedstock.git
+	path = feedstocks/django-pydantic-models
+	branch = refs/heads/main
