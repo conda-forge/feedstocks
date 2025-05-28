@@ -103170,3 +103170,7 @@
 	url = https://github.com/conda-forge/django-pydantic-models-feedstock.git
 	path = feedstocks/django-pydantic-models
 	branch = refs/heads/main
+[submodule "django-oidc-provider"]
+	url = https://github.com/conda-forge/django-oidc-provider-feedstock.git
+	path = feedstocks/django-oidc-provider
+	branch = refs/heads/main
