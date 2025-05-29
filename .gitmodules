@@ -103202,3 +103202,7 @@
 	url = https://github.com/conda-forge/libscrypt-feedstock.git
 	path = feedstocks/libscrypt
 	branch = refs/heads/main
+[submodule "tor"]
+	url = https://github.com/conda-forge/tor-feedstock.git
+	path = feedstocks/tor
+	branch = refs/heads/main
