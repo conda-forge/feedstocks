@@ -103198,3 +103198,7 @@
 	url = https://github.com/conda-forge/pyrefly-feedstock.git
 	path = feedstocks/pyrefly
 	branch = refs/heads/main
+[submodule "libscrypt"]
+	url = https://github.com/conda-forge/libscrypt-feedstock.git
+	path = feedstocks/libscrypt
+	branch = refs/heads/main
