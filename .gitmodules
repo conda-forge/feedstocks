@@ -103206,3 +103206,7 @@
 	url = https://github.com/conda-forge/tor-feedstock.git
 	path = feedstocks/tor
 	branch = refs/heads/main
+[submodule "arti"]
+	url = https://github.com/conda-forge/arti-feedstock.git
+	path = feedstocks/arti
+	branch = refs/heads/main
