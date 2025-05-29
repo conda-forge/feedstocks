@@ -103210,3 +103210,7 @@
 	url = https://github.com/conda-forge/arti-feedstock.git
 	path = feedstocks/arti
 	branch = refs/heads/main
+[submodule "seaweedfs"]
+	url = https://github.com/conda-forge/seaweedfs-feedstock.git
+	path = feedstocks/seaweedfs
+	branch = refs/heads/main
