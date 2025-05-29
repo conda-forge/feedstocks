@@ -103214,3 +103214,7 @@
 	url = https://github.com/conda-forge/seaweedfs-feedstock.git
 	path = feedstocks/seaweedfs
 	branch = refs/heads/main
+[submodule "r-tplyr"]
+	url = https://github.com/conda-forge/r-tplyr-feedstock.git
+	path = feedstocks/r-tplyr
+	branch = refs/heads/main
