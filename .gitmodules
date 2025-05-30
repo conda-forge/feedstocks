@@ -103226,3 +103226,7 @@
 	url = https://github.com/conda-forge/garage-feedstock.git
 	path = feedstocks/garage
 	branch = refs/heads/main
+[submodule "ckmutil"]
+	url = https://github.com/conda-forge/ckmutil-feedstock.git
+	path = feedstocks/ckmutil
+	branch = refs/heads/main
