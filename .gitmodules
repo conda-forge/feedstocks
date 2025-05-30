@@ -103218,3 +103218,7 @@
 	url = https://github.com/conda-forge/r-tplyr-feedstock.git
 	path = feedstocks/r-tplyr
 	branch = refs/heads/main
+[submodule "r-readmdtable"]
+	url = https://github.com/conda-forge/r-readmdtable-feedstock.git
+	path = feedstocks/r-readmdtable
+	branch = refs/heads/main
