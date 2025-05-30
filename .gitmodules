@@ -103230,3 +103230,7 @@
 	url = https://github.com/conda-forge/ckmutil-feedstock.git
 	path = feedstocks/ckmutil
 	branch = refs/heads/main
+[submodule "fasttransform"]
+	url = https://github.com/conda-forge/fasttransform-feedstock.git
+	path = feedstocks/fasttransform
+	branch = refs/heads/main
