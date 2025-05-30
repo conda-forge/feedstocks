@@ -103234,3 +103234,7 @@
 	url = https://github.com/conda-forge/fasttransform-feedstock.git
 	path = feedstocks/fasttransform
 	branch = refs/heads/main
+[submodule "rb-pdf-reader"]
+	url = https://github.com/conda-forge/rb-pdf-reader-feedstock.git
+	path = feedstocks/rb-pdf-reader
+	branch = refs/heads/main
