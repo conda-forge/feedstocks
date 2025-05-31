@@ -103242,3 +103242,7 @@
 	url = https://github.com/conda-forge/jupyter-marimo-proxy-feedstock.git
 	path = feedstocks/jupyter-marimo-proxy
 	branch = refs/heads/main
+[submodule "kedro-init"]
+	url = https://github.com/conda-forge/kedro-init-feedstock.git
+	path = feedstocks/kedro-init
+	branch = refs/heads/main
