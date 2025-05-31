@@ -103250,3 +103250,7 @@
 	url = https://github.com/conda-forge/pygetimportables-feedstock.git
 	path = feedstocks/pygetimportables
 	branch = refs/heads/main
+[submodule "pyhough"]
+	url = https://github.com/conda-forge/pyhough-feedstock.git
+	path = feedstocks/pyhough
+	branch = refs/heads/main
