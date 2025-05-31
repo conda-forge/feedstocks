@@ -103238,3 +103238,7 @@
 	url = https://github.com/conda-forge/rb-pdf-reader-feedstock.git
 	path = feedstocks/rb-pdf-reader
 	branch = refs/heads/main
+[submodule "jupyter-marimo-proxy"]
+	url = https://github.com/conda-forge/jupyter-marimo-proxy-feedstock.git
+	path = feedstocks/jupyter-marimo-proxy
+	branch = refs/heads/main
