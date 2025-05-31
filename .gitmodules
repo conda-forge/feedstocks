@@ -103246,3 +103246,7 @@
 	url = https://github.com/conda-forge/kedro-init-feedstock.git
 	path = feedstocks/kedro-init
 	branch = refs/heads/main
+[submodule "pygetimportables"]
+	url = https://github.com/conda-forge/pygetimportables-feedstock.git
+	path = feedstocks/pygetimportables
+	branch = refs/heads/main
