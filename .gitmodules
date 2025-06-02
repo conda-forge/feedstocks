@@ -103298,3 +103298,7 @@
 	url = https://github.com/conda-forge/bermuda-feedstock.git
 	path = feedstocks/bermuda
 	branch = refs/heads/main
+[submodule "pyxylookup"]
+	url = https://github.com/conda-forge/pyxylookup-feedstock.git
+	path = feedstocks/pyxylookup
+	branch = refs/heads/main
