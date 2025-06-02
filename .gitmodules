@@ -103290,3 +103290,7 @@
 	url = https://github.com/conda-forge/pinecone-plugin-assistant-feedstock.git
 	path = feedstocks/pinecone-plugin-assistant
 	branch = refs/heads/main
+[submodule "parsac"]
+	url = https://github.com/conda-forge/parsac-feedstock.git
+	path = feedstocks/parsac
+	branch = refs/heads/main
