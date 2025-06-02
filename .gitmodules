@@ -103270,3 +103270,7 @@
 	url = https://github.com/conda-forge/pinentry-feedstock.git
 	path = feedstocks/pinentry
 	branch = refs/heads/main
+[submodule "hstr"]
+	url = https://github.com/conda-forge/hstr-feedstock.git
+	path = feedstocks/hstr
+	branch = refs/heads/main
