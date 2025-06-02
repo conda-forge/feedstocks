@@ -103262,3 +103262,7 @@
 	url = https://github.com/conda-forge/r-laminr-feedstock.git
 	path = feedstocks/r-laminr
 	branch = refs/heads/main
+[submodule "hcl2json"]
+	url = https://github.com/conda-forge/hcl2json-feedstock.git
+	path = feedstocks/hcl2json
+	branch = refs/heads/main
