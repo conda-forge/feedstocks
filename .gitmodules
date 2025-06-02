@@ -103306,3 +103306,7 @@
 	url = https://github.com/conda-forge/pyobistools-feedstock.git
 	path = feedstocks/pyobistools
 	branch = refs/heads/main
+[submodule "python-arrakis-schema"]
+	url = https://github.com/conda-forge/python-arrakis-schema-feedstock.git
+	path = feedstocks/python-arrakis-schema
+	branch = refs/heads/main
