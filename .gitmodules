@@ -103282,3 +103282,7 @@
 	url = https://github.com/conda-forge/pytest-retry-feedstock.git
 	path = feedstocks/pytest-retry
 	branch = refs/heads/main
+[submodule "rb-prawn-templates"]
+	url = https://github.com/conda-forge/rb-prawn-templates-feedstock.git
+	path = feedstocks/rb-prawn-templates
+	branch = refs/heads/main
