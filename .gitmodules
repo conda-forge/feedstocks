@@ -103266,3 +103266,7 @@
 	url = https://github.com/conda-forge/hcl2json-feedstock.git
 	path = feedstocks/hcl2json
 	branch = refs/heads/main
+[submodule "pinentry"]
+	url = https://github.com/conda-forge/pinentry-feedstock.git
+	path = feedstocks/pinentry
+	branch = refs/heads/main
