@@ -103294,3 +103294,7 @@
 	url = https://github.com/conda-forge/parsac-feedstock.git
 	path = feedstocks/parsac
 	branch = refs/heads/main
+[submodule "bermuda"]
+	url = https://github.com/conda-forge/bermuda-feedstock.git
+	path = feedstocks/bermuda
+	branch = refs/heads/main
