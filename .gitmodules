@@ -103274,3 +103274,7 @@
 	url = https://github.com/conda-forge/hstr-feedstock.git
 	path = feedstocks/hstr
 	branch = refs/heads/main
+[submodule "pspg"]
+	url = https://github.com/conda-forge/pspg-feedstock.git
+	path = feedstocks/pspg
+	branch = refs/heads/main
