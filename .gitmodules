@@ -103278,3 +103278,7 @@
 	url = https://github.com/conda-forge/pspg-feedstock.git
 	path = feedstocks/pspg
 	branch = refs/heads/main
+[submodule "pytest-retry"]
+	url = https://github.com/conda-forge/pytest-retry-feedstock.git
+	path = feedstocks/pytest-retry
+	branch = refs/heads/main
