@@ -103330,3 +103330,7 @@
 	url = https://github.com/conda-forge/hello-feedstock.git
 	path = feedstocks/hello
 	branch = refs/heads/main
+[submodule "test-drive"]
+	url = https://github.com/conda-forge/test-drive-feedstock.git
+	path = feedstocks/test-drive
+	branch = refs/heads/main
