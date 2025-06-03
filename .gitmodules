@@ -103322,3 +103322,7 @@
 	url = https://github.com/conda-forge/bibclean-feedstock.git
 	path = feedstocks/bibclean
 	branch = refs/heads/main
+[submodule "csvprintf"]
+	url = https://github.com/conda-forge/csvprintf-feedstock.git
+	path = feedstocks/csvprintf
+	branch = refs/heads/main
