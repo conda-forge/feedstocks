@@ -103374,3 +103374,7 @@
 	url = https://github.com/conda-forge/nitransforms-feedstock.git
 	path = feedstocks/nitransforms
 	branch = refs/heads/main
+[submodule "niworkflows"]
+	url = https://github.com/conda-forge/niworkflows-feedstock.git
+	path = feedstocks/niworkflows
+	branch = refs/heads/main
