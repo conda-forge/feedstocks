@@ -103350,3 +103350,7 @@
 	url = https://github.com/conda-forge/entr-feedstock.git
 	path = feedstocks/entr
 	branch = refs/heads/main
+[submodule "indent"]
+	url = https://github.com/conda-forge/indent-feedstock.git
+	path = feedstocks/indent
+	branch = refs/heads/main
