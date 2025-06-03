@@ -103362,3 +103362,7 @@
 	url = https://github.com/conda-forge/tldr-c-client-feedstock.git
 	path = feedstocks/tldr-c-client
 	branch = refs/heads/main
+[submodule "ssed"]
+	url = https://github.com/conda-forge/ssed-feedstock.git
+	path = feedstocks/ssed
+	branch = refs/heads/main
