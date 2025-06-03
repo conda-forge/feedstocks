@@ -103358,3 +103358,7 @@
 	url = https://github.com/conda-forge/smem-feedstock.git
 	path = feedstocks/smem
 	branch = refs/heads/main
+[submodule "tldr-c-client"]
+	url = https://github.com/conda-forge/tldr-c-client-feedstock.git
+	path = feedstocks/tldr-c-client
+	branch = refs/heads/main
