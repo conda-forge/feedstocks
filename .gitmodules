@@ -103310,3 +103310,7 @@
 	url = https://github.com/conda-forge/python-arrakis-schema-feedstock.git
 	path = feedstocks/python-arrakis-schema
 	branch = refs/heads/main
+[submodule "libvalkey"]
+	url = https://github.com/conda-forge/libvalkey-feedstock.git
+	path = feedstocks/libvalkey
+	branch = refs/heads/main
