@@ -103326,3 +103326,7 @@
 	url = https://github.com/conda-forge/csvprintf-feedstock.git
 	path = feedstocks/csvprintf
 	branch = refs/heads/main
+[submodule "hello"]
+	url = https://github.com/conda-forge/hello-feedstock.git
+	path = feedstocks/hello
+	branch = refs/heads/main
