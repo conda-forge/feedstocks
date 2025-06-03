@@ -103342,3 +103342,7 @@
 	url = https://github.com/conda-forge/cpio-feedstock.git
 	path = feedstocks/cpio
 	branch = refs/heads/main
+[submodule "global"]
+	url = https://github.com/conda-forge/global-feedstock.git
+	path = feedstocks/global
+	branch = refs/heads/main
