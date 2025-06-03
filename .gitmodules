@@ -103318,3 +103318,7 @@
 	url = https://github.com/conda-forge/r-ldbounds-feedstock.git
 	path = feedstocks/r-ldbounds
 	branch = refs/heads/main
+[submodule "bibclean"]
+	url = https://github.com/conda-forge/bibclean-feedstock.git
+	path = feedstocks/bibclean
+	branch = refs/heads/main
