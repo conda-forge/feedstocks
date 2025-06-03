@@ -103338,3 +103338,7 @@
 	url = https://github.com/conda-forge/kube-no-trouble-feedstock.git
 	path = feedstocks/kube-no-trouble
 	branch = refs/heads/main
+[submodule "cpio"]
+	url = https://github.com/conda-forge/cpio-feedstock.git
+	path = feedstocks/cpio
+	branch = refs/heads/main
