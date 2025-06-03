@@ -103386,3 +103386,7 @@
 	url = https://github.com/conda-forge/beamfit-feedstock.git
 	path = feedstocks/beamfit
 	branch = refs/heads/main
+[submodule "fzy"]
+	url = https://github.com/conda-forge/fzy-feedstock.git
+	path = feedstocks/fzy
+	branch = refs/heads/main
