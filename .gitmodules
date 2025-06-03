@@ -103354,3 +103354,7 @@
 	url = https://github.com/conda-forge/indent-feedstock.git
 	path = feedstocks/indent
 	branch = refs/heads/main
+[submodule "smem"]
+	url = https://github.com/conda-forge/smem-feedstock.git
+	path = feedstocks/smem
+	branch = refs/heads/main
