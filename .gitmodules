@@ -103366,3 +103366,7 @@
 	url = https://github.com/conda-forge/ssed-feedstock.git
 	path = feedstocks/ssed
 	branch = refs/heads/main
+[submodule "quantem"]
+	url = https://github.com/conda-forge/quantem-feedstock.git
+	path = feedstocks/quantem
+	branch = refs/heads/main
