@@ -103334,3 +103334,7 @@
 	url = https://github.com/conda-forge/test-drive-feedstock.git
 	path = feedstocks/test-drive
 	branch = refs/heads/main
+[submodule "kube-no-trouble"]
+	url = https://github.com/conda-forge/kube-no-trouble-feedstock.git
+	path = feedstocks/kube-no-trouble
+	branch = refs/heads/main
