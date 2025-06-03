@@ -103314,3 +103314,7 @@
 	url = https://github.com/conda-forge/libvalkey-feedstock.git
 	path = feedstocks/libvalkey
 	branch = refs/heads/main
+[submodule "r-ldbounds"]
+	url = https://github.com/conda-forge/r-ldbounds-feedstock.git
+	path = feedstocks/r-ldbounds
+	branch = refs/heads/main
