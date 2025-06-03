@@ -103346,3 +103346,7 @@
 	url = https://github.com/conda-forge/global-feedstock.git
 	path = feedstocks/global
 	branch = refs/heads/main
+[submodule "entr"]
+	url = https://github.com/conda-forge/entr-feedstock.git
+	path = feedstocks/entr
+	branch = refs/heads/main
