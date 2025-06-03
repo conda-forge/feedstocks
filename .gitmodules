@@ -103370,3 +103370,7 @@
 	url = https://github.com/conda-forge/quantem-feedstock.git
 	path = feedstocks/quantem
 	branch = refs/heads/main
+[submodule "nitransforms"]
+	url = https://github.com/conda-forge/nitransforms-feedstock.git
+	path = feedstocks/nitransforms
+	branch = refs/heads/main
