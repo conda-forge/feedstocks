@@ -103486,3 +103486,7 @@
 	url = https://github.com/conda-forge/wilson-feedstock.git
 	path = feedstocks/wilson
 	branch = refs/heads/main
+[submodule "dbt-protos"]
+	url = https://github.com/conda-forge/dbt-protos-feedstock.git
+	path = feedstocks/dbt-protos
+	branch = refs/heads/main
