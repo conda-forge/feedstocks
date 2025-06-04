@@ -103458,3 +103458,7 @@
 	url = https://github.com/conda-forge/cppi-feedstock.git
 	path = feedstocks/cppi
 	branch = refs/heads/main
+[submodule "pexec"]
+	url = https://github.com/conda-forge/pexec-feedstock.git
+	path = feedstocks/pexec
+	branch = refs/heads/main
