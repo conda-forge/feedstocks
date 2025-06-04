@@ -103390,3 +103390,7 @@
 	url = https://github.com/conda-forge/fzy-feedstock.git
 	path = feedstocks/fzy
 	branch = refs/heads/main
+[submodule "simple-settings"]
+	url = https://github.com/conda-forge/simple-settings-feedstock.git
+	path = feedstocks/simple-settings
+	branch = refs/heads/main
