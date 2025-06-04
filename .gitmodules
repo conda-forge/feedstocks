@@ -103462,3 +103462,7 @@
 	url = https://github.com/conda-forge/pexec-feedstock.git
 	path = feedstocks/pexec
 	branch = refs/heads/main
+[submodule "module-qc-database-tools"]
+	url = https://github.com/conda-forge/module-qc-database-tools-feedstock.git
+	path = feedstocks/module-qc-database-tools
+	branch = refs/heads/main
