@@ -103454,3 +103454,7 @@
 	url = https://github.com/conda-forge/libsmf-feedstock.git
 	path = feedstocks/libsmf
 	branch = refs/heads/main
+[submodule "cppi"]
+	url = https://github.com/conda-forge/cppi-feedstock.git
+	path = feedstocks/cppi
+	branch = refs/heads/main
