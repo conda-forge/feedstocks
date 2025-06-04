@@ -103402,3 +103402,7 @@
 	url = https://github.com/conda-forge/module-qc-data-tools-feedstock.git
 	path = feedstocks/module-qc-data-tools
 	branch = refs/heads/main
+[submodule "zasper"]
+	url = https://github.com/conda-forge/zasper-feedstock.git
+	path = feedstocks/zasper
+	branch = refs/heads/main
