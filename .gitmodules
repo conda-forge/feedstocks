@@ -103474,3 +103474,7 @@
 	url = https://github.com/conda-forge/steppyngstounes-feedstock.git
 	path = feedstocks/steppyngstounes
 	branch = refs/heads/main
+[submodule "module-qc-tools"]
+	url = https://github.com/conda-forge/module-qc-tools-feedstock.git
+	path = feedstocks/module-qc-tools
+	branch = refs/heads/main
