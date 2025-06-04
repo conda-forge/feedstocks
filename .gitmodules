@@ -103478,3 +103478,7 @@
 	url = https://github.com/conda-forge/module-qc-tools-feedstock.git
 	path = feedstocks/module-qc-tools
 	branch = refs/heads/main
+[submodule "encexp"]
+	url = https://github.com/conda-forge/encexp-feedstock.git
+	path = feedstocks/encexp
+	branch = refs/heads/main
