@@ -103430,3 +103430,7 @@
 	url = https://github.com/conda-forge/rsspolymlp-feedstock.git
 	path = feedstocks/rsspolymlp
 	branch = refs/heads/main
+[submodule "libmd"]
+	url = https://github.com/conda-forge/libmd-feedstock.git
+	path = feedstocks/libmd
+	branch = refs/heads/main
