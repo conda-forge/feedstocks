@@ -103406,3 +103406,7 @@
 	url = https://github.com/conda-forge/zasper-feedstock.git
 	path = feedstocks/zasper
 	branch = refs/heads/main
+[submodule "azure-cli"]
+	url = https://github.com/conda-forge/azure-cli-feedstock.git
+	path = feedstocks/azure-cli
+	branch = refs/heads/main
