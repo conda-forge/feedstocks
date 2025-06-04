@@ -103434,3 +103434,7 @@
 	url = https://github.com/conda-forge/libmd-feedstock.git
 	path = feedstocks/libmd
 	branch = refs/heads/main
+[submodule "libsvg"]
+	url = https://github.com/conda-forge/libsvg-feedstock.git
+	path = feedstocks/libsvg
+	branch = refs/heads/main
