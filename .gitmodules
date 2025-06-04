@@ -103422,3 +103422,7 @@
 	url = https://github.com/conda-forge/rundec-feedstock.git
 	path = feedstocks/rundec
 	branch = refs/heads/main
+[submodule "cargo-cyclonedx"]
+	url = https://github.com/conda-forge/cargo-cyclonedx-feedstock.git
+	path = feedstocks/cargo-cyclonedx
+	branch = refs/heads/main
