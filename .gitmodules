@@ -103394,3 +103394,7 @@
 	url = https://github.com/conda-forge/simple-settings-feedstock.git
 	path = feedstocks/simple-settings
 	branch = refs/heads/main
+[submodule "mopad"]
+	url = https://github.com/conda-forge/mopad-feedstock.git
+	path = feedstocks/mopad
+	branch = refs/heads/main
