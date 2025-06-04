@@ -103450,3 +103450,7 @@
 	url = https://github.com/conda-forge/gcal-feedstock.git
 	path = feedstocks/gcal
 	branch = refs/heads/main
+[submodule "libsmf"]
+	url = https://github.com/conda-forge/libsmf-feedstock.git
+	path = feedstocks/libsmf
+	branch = refs/heads/main
