@@ -103482,3 +103482,7 @@
 	url = https://github.com/conda-forge/encexp-feedstock.git
 	path = feedstocks/encexp
 	branch = refs/heads/main
+[submodule "wilson"]
+	url = https://github.com/conda-forge/wilson-feedstock.git
+	path = feedstocks/wilson
+	branch = refs/heads/main
