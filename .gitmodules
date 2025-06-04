@@ -103410,3 +103410,7 @@
 	url = https://github.com/conda-forge/azure-cli-feedstock.git
 	path = feedstocks/azure-cli
 	branch = refs/heads/main
+[submodule "castxml"]
+	url = https://github.com/conda-forge/castxml-feedstock.git
+	path = feedstocks/castxml
+	branch = refs/heads/main
