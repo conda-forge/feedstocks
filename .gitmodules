@@ -103466,3 +103466,7 @@
 	url = https://github.com/conda-forge/module-qc-database-tools-feedstock.git
 	path = feedstocks/module-qc-database-tools
 	branch = refs/heads/main
+[submodule "tio"]
+	url = https://github.com/conda-forge/tio-feedstock.git
+	path = feedstocks/tio
+	branch = refs/heads/main
