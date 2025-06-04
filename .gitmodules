@@ -103426,3 +103426,7 @@
 	url = https://github.com/conda-forge/cargo-cyclonedx-feedstock.git
 	path = feedstocks/cargo-cyclonedx
 	branch = refs/heads/main
+[submodule "rsspolymlp"]
+	url = https://github.com/conda-forge/rsspolymlp-feedstock.git
+	path = feedstocks/rsspolymlp
+	branch = refs/heads/main
