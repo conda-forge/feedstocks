@@ -103438,3 +103438,7 @@
 	url = https://github.com/conda-forge/libsvg-feedstock.git
 	path = feedstocks/libsvg
 	branch = refs/heads/main
+[submodule "libsixel"]
+	url = https://github.com/conda-forge/libsixel-feedstock.git
+	path = feedstocks/libsixel
+	branch = refs/heads/main
