@@ -103442,3 +103442,7 @@
 	url = https://github.com/conda-forge/libsixel-feedstock.git
 	path = feedstocks/libsixel
 	branch = refs/heads/main
+[submodule "itkdb"]
+	url = https://github.com/conda-forge/itkdb-feedstock.git
+	path = feedstocks/itkdb
+	branch = refs/heads/main
