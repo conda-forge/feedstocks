@@ -103498,3 +103498,7 @@
 	url = https://github.com/conda-forge/osv-scanner-feedstock.git
 	path = feedstocks/osv-scanner
 	branch = refs/heads/main
+[submodule "pqrs"]
+	url = https://github.com/conda-forge/pqrs-feedstock.git
+	path = feedstocks/pqrs
+	branch = refs/heads/main
