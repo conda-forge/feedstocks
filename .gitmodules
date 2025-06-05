@@ -103490,3 +103490,7 @@
 	url = https://github.com/conda-forge/dbt-protos-feedstock.git
 	path = feedstocks/dbt-protos
 	branch = refs/heads/main
+[submodule "module-qc-analysis-tools"]
+	url = https://github.com/conda-forge/module-qc-analysis-tools-feedstock.git
+	path = feedstocks/module-qc-analysis-tools
+	branch = refs/heads/main
