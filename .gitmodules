@@ -103502,3 +103502,7 @@
 	url = https://github.com/conda-forge/pqrs-feedstock.git
 	path = feedstocks/pqrs
 	branch = refs/heads/main
+[submodule "dtscalibration"]
+	url = https://github.com/conda-forge/dtscalibration-feedstock.git
+	path = feedstocks/dtscalibration
+	branch = refs/heads/main
