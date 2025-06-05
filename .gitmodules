@@ -103494,3 +103494,7 @@
 	url = https://github.com/conda-forge/module-qc-analysis-tools-feedstock.git
 	path = feedstocks/module-qc-analysis-tools
 	branch = refs/heads/main
+[submodule "osv-scanner"]
+	url = https://github.com/conda-forge/osv-scanner-feedstock.git
+	path = feedstocks/osv-scanner
+	branch = refs/heads/main
