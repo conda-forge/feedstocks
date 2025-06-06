@@ -103518,3 +103518,7 @@
 	url = https://github.com/conda-forge/berglas-feedstock.git
 	path = feedstocks/berglas
 	branch = refs/heads/main
+[submodule "cadical"]
+	url = https://github.com/conda-forge/cadical-feedstock.git
+	path = feedstocks/cadical
+	branch = refs/heads/main
