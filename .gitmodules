@@ -103530,3 +103530,7 @@
 	url = https://github.com/conda-forge/skore-local-project-feedstock.git
 	path = feedstocks/skore-local-project
 	branch = refs/heads/main
+[submodule "skore-hub-project"]
+	url = https://github.com/conda-forge/skore-hub-project-feedstock.git
+	path = feedstocks/skore-hub-project
+	branch = refs/heads/main
