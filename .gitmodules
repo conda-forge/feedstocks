@@ -103514,3 +103514,7 @@
 	url = https://github.com/conda-forge/azure-keyvault-securitydomain-feedstock.git
 	path = feedstocks/azure-keyvault-securitydomain
 	branch = refs/heads/main
+[submodule "berglas"]
+	url = https://github.com/conda-forge/berglas-feedstock.git
+	path = feedstocks/berglas
+	branch = refs/heads/main
