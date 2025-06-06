@@ -103526,3 +103526,7 @@
 	url = https://github.com/conda-forge/fps-file-id-feedstock.git
 	path = feedstocks/fps-file-id
 	branch = refs/heads/main
+[submodule "skore-local-project"]
+	url = https://github.com/conda-forge/skore-local-project-feedstock.git
+	path = feedstocks/skore-local-project
+	branch = refs/heads/main
