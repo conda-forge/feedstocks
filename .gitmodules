@@ -103510,3 +103510,7 @@
 	url = https://github.com/conda-forge/pyspainmobility-feedstock.git
 	path = feedstocks/pyspainmobility
 	branch = refs/heads/main
+[submodule "azure-keyvault-securitydomain"]
+	url = https://github.com/conda-forge/azure-keyvault-securitydomain-feedstock.git
+	path = feedstocks/azure-keyvault-securitydomain
+	branch = refs/heads/main
