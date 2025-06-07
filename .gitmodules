@@ -103538,3 +103538,7 @@
 	url = https://github.com/conda-forge/linetimer-feedstock.git
 	path = feedstocks/linetimer
 	branch = refs/heads/main
+[submodule "xauth"]
+	url = https://github.com/conda-forge/xauth-feedstock.git
+	path = feedstocks/xauth
+	branch = refs/heads/main
