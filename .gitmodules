@@ -103558,3 +103558,7 @@
 	url = https://github.com/conda-forge/gravity-toolkit-feedstock.git
 	path = feedstocks/gravity-toolkit
 	branch = refs/heads/main
+[submodule "cherry-picker"]
+	url = https://github.com/conda-forge/cherry-picker-feedstock.git
+	path = feedstocks/cherry-picker
+	branch = refs/heads/main
