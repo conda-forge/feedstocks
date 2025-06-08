@@ -103546,3 +103546,7 @@
 	url = https://github.com/conda-forge/r-packcircles-feedstock.git
 	path = feedstocks/r-packcircles
 	branch = refs/heads/main
+[submodule "python-docs-theme"]
+	url = https://github.com/conda-forge/python-docs-theme-feedstock.git
+	path = feedstocks/python-docs-theme
+	branch = refs/heads/main
