@@ -103542,3 +103542,7 @@
 	url = https://github.com/conda-forge/xauth-feedstock.git
 	path = feedstocks/xauth
 	branch = refs/heads/main
+[submodule "r-packcircles"]
+	url = https://github.com/conda-forge/r-packcircles-feedstock.git
+	path = feedstocks/r-packcircles
+	branch = refs/heads/main
