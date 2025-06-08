@@ -103554,3 +103554,7 @@
 	url = https://github.com/conda-forge/blurb-feedstock.git
 	path = feedstocks/blurb
 	branch = refs/heads/main
+[submodule "gravity-toolkit"]
+	url = https://github.com/conda-forge/gravity-toolkit-feedstock.git
+	path = feedstocks/gravity-toolkit
+	branch = refs/heads/main
