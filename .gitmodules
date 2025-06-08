@@ -103550,3 +103550,7 @@
 	url = https://github.com/conda-forge/python-docs-theme-feedstock.git
 	path = feedstocks/python-docs-theme
 	branch = refs/heads/main
+[submodule "blurb"]
+	url = https://github.com/conda-forge/blurb-feedstock.git
+	path = feedstocks/blurb
+	branch = refs/heads/main
