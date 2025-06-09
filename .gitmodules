@@ -103562,3 +103562,7 @@
 	url = https://github.com/conda-forge/cherry-picker-feedstock.git
 	path = feedstocks/cherry-picker
 	branch = refs/heads/main
+[submodule "fenicsx-pulse"]
+	url = https://github.com/conda-forge/fenicsx-pulse-feedstock.git
+	path = feedstocks/fenicsx-pulse
+	branch = refs/heads/main
