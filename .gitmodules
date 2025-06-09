@@ -103566,3 +103566,7 @@
 	url = https://github.com/conda-forge/fenicsx-pulse-feedstock.git
 	path = feedstocks/fenicsx-pulse
 	branch = refs/heads/main
+[submodule "rb-kramdown-asciidoc"]
+	url = https://github.com/conda-forge/rb-kramdown-asciidoc-feedstock.git
+	path = feedstocks/rb-kramdown-asciidoc
+	branch = refs/heads/main
