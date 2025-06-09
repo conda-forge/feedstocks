@@ -103586,3 +103586,7 @@
 	url = https://github.com/conda-forge/sequence-jacobian-feedstock.git
 	path = feedstocks/sequence-jacobian
 	branch = refs/heads/main
+[submodule "puncc"]
+	url = https://github.com/conda-forge/puncc-feedstock.git
+	path = feedstocks/puncc
+	branch = refs/heads/main
