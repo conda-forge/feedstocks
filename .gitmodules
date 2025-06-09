@@ -103574,3 +103574,7 @@
 	url = https://github.com/conda-forge/anchorboosting-feedstock.git
 	path = feedstocks/anchorboosting
 	branch = refs/heads/main
+[submodule "pydiverse-colspec"]
+	url = https://github.com/conda-forge/pydiverse-colspec-feedstock.git
+	path = feedstocks/pydiverse-colspec
+	branch = refs/heads/main
