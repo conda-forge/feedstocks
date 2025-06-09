@@ -103582,3 +103582,7 @@
 	url = https://github.com/conda-forge/pyflowdiagnostics-feedstock.git
 	path = feedstocks/pyflowdiagnostics
 	branch = refs/heads/main
+[submodule "sequence-jacobian"]
+	url = https://github.com/conda-forge/sequence-jacobian-feedstock.git
+	path = feedstocks/sequence-jacobian
+	branch = refs/heads/main
