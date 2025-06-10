@@ -103590,3 +103590,7 @@
 	url = https://github.com/conda-forge/puncc-feedstock.git
 	path = feedstocks/puncc
 	branch = refs/heads/main
+[submodule "cosign"]
+	url = https://github.com/conda-forge/cosign-feedstock.git
+	path = feedstocks/cosign
+	branch = refs/heads/main
