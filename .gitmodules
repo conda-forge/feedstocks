@@ -103610,3 +103610,7 @@
 	url = https://github.com/conda-forge/pyyaml-ft-feedstock.git
 	path = feedstocks/pyyaml-ft
 	branch = refs/heads/main
+[submodule "python-kasa"]
+	url = https://github.com/conda-forge/python-kasa-feedstock.git
+	path = feedstocks/python-kasa
+	branch = refs/heads/main
