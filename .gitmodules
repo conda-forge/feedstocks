@@ -103602,3 +103602,7 @@
 	url = https://github.com/conda-forge/func_adl_servicex_xaodr25-feedstock.git
 	path = feedstocks/func_adl_servicex_xaodr25
 	branch = refs/heads/main
+[submodule "dynare-preprocessor-pylib"]
+	url = https://github.com/conda-forge/dynare-preprocessor-pylib-feedstock.git
+	path = feedstocks/dynare-preprocessor-pylib
+	branch = refs/heads/main
