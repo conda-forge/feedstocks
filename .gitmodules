@@ -103606,3 +103606,7 @@
 	url = https://github.com/conda-forge/dynare-preprocessor-pylib-feedstock.git
 	path = feedstocks/dynare-preprocessor-pylib
 	branch = refs/heads/main
+[submodule "pyyaml-ft"]
+	url = https://github.com/conda-forge/pyyaml-ft-feedstock.git
+	path = feedstocks/pyyaml-ft
+	branch = refs/heads/main
