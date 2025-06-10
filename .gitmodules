@@ -103618,3 +103618,7 @@
 	url = https://github.com/conda-forge/atlas-mc-scanner-feedstock.git
 	path = feedstocks/atlas-mc-scanner
 	branch = refs/heads/main
+[submodule "pytopomap"]
+	url = https://github.com/conda-forge/pytopomap-feedstock.git
+	path = feedstocks/pytopomap
+	branch = refs/heads/main
