@@ -103594,3 +103594,7 @@
 	url = https://github.com/conda-forge/cosign-feedstock.git
 	path = feedstocks/cosign
 	branch = refs/heads/main
+[submodule "r-autoslider.core"]
+	url = https://github.com/conda-forge/r-autoslider.core-feedstock.git
+	path = feedstocks/r-autoslider.core
+	branch = refs/heads/main
