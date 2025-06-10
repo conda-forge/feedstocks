@@ -103614,3 +103614,7 @@
 	url = https://github.com/conda-forge/python-kasa-feedstock.git
 	path = feedstocks/python-kasa
 	branch = refs/heads/main
+[submodule "atlas-mc-scanner"]
+	url = https://github.com/conda-forge/atlas-mc-scanner-feedstock.git
+	path = feedstocks/atlas-mc-scanner
+	branch = refs/heads/main
