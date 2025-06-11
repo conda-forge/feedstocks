@@ -103634,3 +103634,7 @@
 	url = https://github.com/conda-forge/micro-liquid-feedstock.git
 	path = feedstocks/micro-liquid
 	branch = refs/heads/main
+[submodule "rb-asciidoctor-pdf"]
+	url = https://github.com/conda-forge/rb-asciidoctor-pdf-feedstock.git
+	path = feedstocks/rb-asciidoctor-pdf
+	branch = refs/heads/main
