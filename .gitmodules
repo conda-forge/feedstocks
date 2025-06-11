@@ -103630,3 +103630,7 @@
 	url = https://github.com/conda-forge/pycrdt-store-feedstock.git
 	path = feedstocks/pycrdt-store
 	branch = refs/heads/main
+[submodule "micro-liquid"]
+	url = https://github.com/conda-forge/micro-liquid-feedstock.git
+	path = feedstocks/micro-liquid
+	branch = refs/heads/main
