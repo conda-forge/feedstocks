@@ -103626,3 +103626,7 @@
 	url = https://github.com/conda-forge/transfusion-asr-feedstock.git
 	path = feedstocks/transfusion-asr
 	branch = refs/heads/main
+[submodule "pycrdt-store"]
+	url = https://github.com/conda-forge/pycrdt-store-feedstock.git
+	path = feedstocks/pycrdt-store
+	branch = refs/heads/main
