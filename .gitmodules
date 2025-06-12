@@ -103646,3 +103646,7 @@
 	url = https://github.com/conda-forge/rust-audit-info-feedstock.git
 	path = feedstocks/rust-audit-info
 	branch = refs/heads/main
+[submodule "scikit-uplift"]
+	url = https://github.com/conda-forge/scikit-uplift-feedstock.git
+	path = feedstocks/scikit-uplift
+	branch = refs/heads/main
