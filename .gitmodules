@@ -103642,3 +103642,7 @@
 	url = https://github.com/conda-forge/specta-feedstock.git
 	path = feedstocks/specta
 	branch = refs/heads/main
+[submodule "rust-audit-info"]
+	url = https://github.com/conda-forge/rust-audit-info-feedstock.git
+	path = feedstocks/rust-audit-info
+	branch = refs/heads/main
