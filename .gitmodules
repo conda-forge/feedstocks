@@ -103650,3 +103650,7 @@
 	url = https://github.com/conda-forge/scikit-uplift-feedstock.git
 	path = feedstocks/scikit-uplift
 	branch = refs/heads/main
+[submodule "types-factory-boy"]
+	url = https://github.com/conda-forge/types-factory-boy-feedstock.git
+	path = feedstocks/types-factory-boy
+	branch = refs/heads/main
