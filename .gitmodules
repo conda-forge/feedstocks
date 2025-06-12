@@ -103654,3 +103654,7 @@
 	url = https://github.com/conda-forge/types-factory-boy-feedstock.git
 	path = feedstocks/types-factory-boy
 	branch = refs/heads/main
+[submodule "r-sdtmchecks"]
+	url = https://github.com/conda-forge/r-sdtmchecks-feedstock.git
+	path = feedstocks/r-sdtmchecks
+	branch = refs/heads/main
