@@ -103638,3 +103638,7 @@
 	url = https://github.com/conda-forge/rb-asciidoctor-pdf-feedstock.git
 	path = feedstocks/rb-asciidoctor-pdf
 	branch = refs/heads/main
+[submodule "specta"]
+	url = https://github.com/conda-forge/specta-feedstock.git
+	path = feedstocks/specta
+	branch = refs/heads/main
