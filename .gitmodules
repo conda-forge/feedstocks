@@ -103686,3 +103686,7 @@
 	url = https://github.com/conda-forge/databackend-feedstock.git
 	path = feedstocks/databackend
 	branch = refs/heads/main
+[submodule "pluralizer"]
+	url = https://github.com/conda-forge/pluralizer-feedstock.git
+	path = feedstocks/pluralizer
+	branch = refs/heads/main
