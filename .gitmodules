@@ -103698,3 +103698,7 @@
 	url = https://github.com/conda-forge/sql-tstring-feedstock.git
 	path = feedstocks/sql-tstring
 	branch = refs/heads/main
+[submodule "cvss"]
+	url = https://github.com/conda-forge/cvss-feedstock.git
+	path = feedstocks/cvss
+	branch = refs/heads/main
