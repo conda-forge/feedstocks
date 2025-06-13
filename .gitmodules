@@ -103662,3 +103662,7 @@
 	url = https://github.com/conda-forge/r-cicerone-feedstock.git
 	path = feedstocks/r-cicerone
 	branch = refs/heads/main
+[submodule "types-docker"]
+	url = https://github.com/conda-forge/types-docker-feedstock.git
+	path = feedstocks/types-docker
+	branch = refs/heads/main
