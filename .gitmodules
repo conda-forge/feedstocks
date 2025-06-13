@@ -103658,3 +103658,7 @@
 	url = https://github.com/conda-forge/r-sdtmchecks-feedstock.git
 	path = feedstocks/r-sdtmchecks
 	branch = refs/heads/main
+[submodule "r-cicerone"]
+	url = https://github.com/conda-forge/r-cicerone-feedstock.git
+	path = feedstocks/r-cicerone
+	branch = refs/heads/main
