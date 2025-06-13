@@ -103670,3 +103670,7 @@
 	url = https://github.com/conda-forge/python-art-feedstock.git
 	path = feedstocks/python-art
 	branch = refs/heads/main
+[submodule "pyjpegls"]
+	url = https://github.com/conda-forge/pyjpegls-feedstock.git
+	path = feedstocks/pyjpegls
+	branch = refs/heads/main
