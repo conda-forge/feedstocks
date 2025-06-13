@@ -103678,3 +103678,7 @@
 	url = https://github.com/conda-forge/antspyx-feedstock.git
 	path = feedstocks/antspyx
 	branch = refs/heads/main
+[submodule "pymeshlab"]
+	url = https://github.com/conda-forge/pymeshlab-feedstock.git
+	path = feedstocks/pymeshlab
+	branch = refs/heads/main
