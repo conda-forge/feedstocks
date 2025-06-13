@@ -103666,3 +103666,7 @@
 	url = https://github.com/conda-forge/types-docker-feedstock.git
 	path = feedstocks/types-docker
 	branch = refs/heads/main
+[submodule "python-art"]
+	url = https://github.com/conda-forge/python-art-feedstock.git
+	path = feedstocks/python-art
+	branch = refs/heads/main
