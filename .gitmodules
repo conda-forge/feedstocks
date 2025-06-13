@@ -103694,3 +103694,7 @@
 	url = https://github.com/conda-forge/strif-feedstock.git
 	path = feedstocks/strif
 	branch = refs/heads/main
+[submodule "sql-tstring"]
+	url = https://github.com/conda-forge/sql-tstring-feedstock.git
+	path = feedstocks/sql-tstring
+	branch = refs/heads/main
