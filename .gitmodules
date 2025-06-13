@@ -103702,3 +103702,7 @@
 	url = https://github.com/conda-forge/cvss-feedstock.git
 	path = feedstocks/cvss
 	branch = refs/heads/main
+[submodule "dragon-ml-toolbox"]
+	url = https://github.com/conda-forge/dragon-ml-toolbox-feedstock.git
+	path = feedstocks/dragon-ml-toolbox
+	branch = refs/heads/main
