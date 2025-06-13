@@ -103690,3 +103690,7 @@
 	url = https://github.com/conda-forge/pluralizer-feedstock.git
 	path = feedstocks/pluralizer
 	branch = refs/heads/main
+[submodule "strif"]
+	url = https://github.com/conda-forge/strif-feedstock.git
+	path = feedstocks/strif
+	branch = refs/heads/main
