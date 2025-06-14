@@ -103726,3 +103726,7 @@
 	url = https://github.com/conda-forge/owa-msgs-feedstock.git
 	path = feedstocks/owa-msgs
 	branch = refs/heads/main
+[submodule "python-pyper"]
+	url = https://github.com/conda-forge/python-pyper-feedstock.git
+	path = feedstocks/python-pyper
+	branch = refs/heads/main
