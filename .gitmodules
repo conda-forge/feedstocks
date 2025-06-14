@@ -103718,3 +103718,7 @@
 	url = https://github.com/conda-forge/r-shinytime-feedstock.git
 	path = feedstocks/r-shinytime
 	branch = refs/heads/main
+[submodule "deims"]
+	url = https://github.com/conda-forge/deims-feedstock.git
+	path = feedstocks/deims
+	branch = refs/heads/main
