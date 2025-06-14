@@ -103722,3 +103722,7 @@
 	url = https://github.com/conda-forge/deims-feedstock.git
 	path = feedstocks/deims
 	branch = refs/heads/main
+[submodule "owa-msgs"]
+	url = https://github.com/conda-forge/owa-msgs-feedstock.git
+	path = feedstocks/owa-msgs
+	branch = refs/heads/main
