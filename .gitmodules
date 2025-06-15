@@ -103734,3 +103734,7 @@
 	url = https://github.com/conda-forge/trunk-feedstock.git
 	path = feedstocks/trunk
 	branch = refs/heads/main
+[submodule "r-ideafilter"]
+	url = https://github.com/conda-forge/r-ideafilter-feedstock.git
+	path = feedstocks/r-ideafilter
+	branch = refs/heads/main
