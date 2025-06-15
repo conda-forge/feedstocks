@@ -103730,3 +103730,7 @@
 	url = https://github.com/conda-forge/python-pyper-feedstock.git
 	path = feedstocks/python-pyper
 	branch = refs/heads/main
+[submodule "trunk"]
+	url = https://github.com/conda-forge/trunk-feedstock.git
+	path = feedstocks/trunk
+	branch = refs/heads/main
