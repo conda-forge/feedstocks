@@ -103766,3 +103766,7 @@
 	url = https://github.com/conda-forge/bayesmbar-feedstock.git
 	path = feedstocks/bayesmbar
 	branch = refs/heads/main
+[submodule "nerfstudio"]
+	url = https://github.com/conda-forge/nerfstudio-feedstock.git
+	path = feedstocks/nerfstudio
+	branch = refs/heads/main
