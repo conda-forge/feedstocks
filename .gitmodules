@@ -103774,3 +103774,7 @@
 	url = https://github.com/conda-forge/mininterface-feedstock.git
 	path = feedstocks/mininterface
 	branch = refs/heads/main
+[submodule "prettyfmt"]
+	url = https://github.com/conda-forge/prettyfmt-feedstock.git
+	path = feedstocks/prettyfmt
+	branch = refs/heads/main
