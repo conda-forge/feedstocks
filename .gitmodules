@@ -103742,3 +103742,7 @@
 	url = https://github.com/conda-forge/igorwriter-feedstock.git
 	path = feedstocks/igorwriter
 	branch = refs/heads/main
+[submodule "scitiff"]
+	url = https://github.com/conda-forge/scitiff-feedstock.git
+	path = feedstocks/scitiff
+	branch = refs/heads/main
