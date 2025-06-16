@@ -103762,3 +103762,7 @@
 	url = https://github.com/conda-forge/pipask-feedstock.git
 	path = feedstocks/pipask
 	branch = refs/heads/main
+[submodule "bayesmbar"]
+	url = https://github.com/conda-forge/bayesmbar-feedstock.git
+	path = feedstocks/bayesmbar
+	branch = refs/heads/main
