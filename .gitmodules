@@ -103746,3 +103746,7 @@
 	url = https://github.com/conda-forge/scitiff-feedstock.git
 	path = feedstocks/scitiff
 	branch = refs/heads/main
+[submodule "r-timevis"]
+	url = https://github.com/conda-forge/r-timevis-feedstock.git
+	path = feedstocks/r-timevis
+	branch = refs/heads/main
