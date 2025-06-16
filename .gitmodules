@@ -103770,3 +103770,7 @@
 	url = https://github.com/conda-forge/nerfstudio-feedstock.git
 	path = feedstocks/nerfstudio
 	branch = refs/heads/main
+[submodule "mininterface"]
+	url = https://github.com/conda-forge/mininterface-feedstock.git
+	path = feedstocks/mininterface
+	branch = refs/heads/main
