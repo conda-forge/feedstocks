@@ -103782,3 +103782,7 @@
 	url = https://github.com/conda-forge/geoid-toolkit-feedstock.git
 	path = feedstocks/geoid-toolkit
 	branch = refs/heads/main
+[submodule "r-vayr"]
+	url = https://github.com/conda-forge/r-vayr-feedstock.git
+	path = feedstocks/r-vayr
+	branch = refs/heads/main
