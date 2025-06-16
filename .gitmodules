@@ -103750,3 +103750,7 @@
 	url = https://github.com/conda-forge/r-timevis-feedstock.git
 	path = feedstocks/r-timevis
 	branch = refs/heads/main
+[submodule "django-components"]
+	url = https://github.com/conda-forge/django-components-feedstock.git
+	path = feedstocks/django-components
+	branch = refs/heads/main
