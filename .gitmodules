@@ -103754,3 +103754,7 @@
 	url = https://github.com/conda-forge/django-components-feedstock.git
 	path = feedstocks/django-components
 	branch = refs/heads/main
+[submodule "fill-voids"]
+	url = https://github.com/conda-forge/fill-voids-feedstock.git
+	path = feedstocks/fill-voids
+	branch = refs/heads/main
