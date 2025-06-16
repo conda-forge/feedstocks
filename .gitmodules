@@ -103758,3 +103758,7 @@
 	url = https://github.com/conda-forge/fill-voids-feedstock.git
 	path = feedstocks/fill-voids
 	branch = refs/heads/main
+[submodule "pipask"]
+	url = https://github.com/conda-forge/pipask-feedstock.git
+	path = feedstocks/pipask
+	branch = refs/heads/main
