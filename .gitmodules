@@ -103786,3 +103786,7 @@
 	url = https://github.com/conda-forge/r-vayr-feedstock.git
 	path = feedstocks/r-vayr
 	branch = refs/heads/main
+[submodule "r-tidycdisc"]
+	url = https://github.com/conda-forge/r-tidycdisc-feedstock.git
+	path = feedstocks/r-tidycdisc
+	branch = refs/heads/main
