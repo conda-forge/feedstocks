@@ -103790,3 +103790,7 @@
 	url = https://github.com/conda-forge/r-tidycdisc-feedstock.git
 	path = feedstocks/r-tidycdisc
 	branch = refs/heads/main
+[submodule "saml-auth-proxy"]
+	url = https://github.com/conda-forge/saml-auth-proxy-feedstock.git
+	path = feedstocks/saml-auth-proxy
+	branch = refs/heads/main
