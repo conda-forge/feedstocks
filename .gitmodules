@@ -103798,3 +103798,7 @@
 	url = https://github.com/conda-forge/r-dmfiller-feedstock.git
 	path = feedstocks/r-dmfiller
 	branch = refs/heads/main
+[submodule "r-datasetjson"]
+	url = https://github.com/conda-forge/r-datasetjson-feedstock.git
+	path = feedstocks/r-datasetjson
+	branch = refs/heads/main
