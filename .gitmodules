@@ -103814,3 +103814,7 @@
 	url = https://github.com/conda-forge/azure-core-tracing-opentelemetry-feedstock.git
 	path = feedstocks/azure-core-tracing-opentelemetry
 	branch = refs/heads/main
+[submodule "opentelemetry-resource-detector-azure"]
+	url = https://github.com/conda-forge/opentelemetry-resource-detector-azure-feedstock.git
+	path = feedstocks/opentelemetry-resource-detector-azure
+	branch = refs/heads/main
