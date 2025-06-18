@@ -103802,3 +103802,7 @@
 	url = https://github.com/conda-forge/r-datasetjson-feedstock.git
 	path = feedstocks/r-datasetjson
 	branch = refs/heads/main
+[submodule "fixedint"]
+	url = https://github.com/conda-forge/fixedint-feedstock.git
+	path = feedstocks/fixedint
+	branch = refs/heads/main
