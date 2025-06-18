@@ -103822,3 +103822,7 @@
 	url = https://github.com/conda-forge/azure-monitor-opentelemetry-exporter-feedstock.git
 	path = feedstocks/azure-monitor-opentelemetry-exporter
 	branch = refs/heads/main
+[submodule "file-captain"]
+	url = https://github.com/conda-forge/file-captain-feedstock.git
+	path = feedstocks/file-captain
+	branch = refs/heads/main
