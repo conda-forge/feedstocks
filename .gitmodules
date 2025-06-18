@@ -103834,3 +103834,7 @@
 	url = https://github.com/conda-forge/ontolutils-feedstock.git
 	path = feedstocks/ontolutils
 	branch = refs/heads/main
+[submodule "strands-agents"]
+	url = https://github.com/conda-forge/strands-agents-feedstock.git
+	path = feedstocks/strands-agents
+	branch = refs/heads/main
