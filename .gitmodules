@@ -103830,3 +103830,7 @@
 	url = https://github.com/conda-forge/baderkit-feedstock.git
 	path = feedstocks/baderkit
 	branch = refs/heads/main
+[submodule "ontolutils"]
+	url = https://github.com/conda-forge/ontolutils-feedstock.git
+	path = feedstocks/ontolutils
+	branch = refs/heads/main
