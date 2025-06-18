@@ -103806,3 +103806,7 @@
 	url = https://github.com/conda-forge/fixedint-feedstock.git
 	path = feedstocks/fixedint
 	branch = refs/heads/main
+[submodule "azure-monitor-opentelemetry"]
+	url = https://github.com/conda-forge/azure-monitor-opentelemetry-feedstock.git
+	path = feedstocks/azure-monitor-opentelemetry
+	branch = refs/heads/main
