@@ -103826,3 +103826,7 @@
 	url = https://github.com/conda-forge/file-captain-feedstock.git
 	path = feedstocks/file-captain
 	branch = refs/heads/main
+[submodule "baderkit"]
+	url = https://github.com/conda-forge/baderkit-feedstock.git
+	path = feedstocks/baderkit
+	branch = refs/heads/main
