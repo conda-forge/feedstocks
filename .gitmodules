@@ -103842,3 +103842,7 @@
 	url = https://github.com/conda-forge/strands-agents-mcp-server-feedstock.git
 	path = feedstocks/strands-agents-mcp-server
 	branch = refs/heads/main
+[submodule "pydantic-pint"]
+	url = https://github.com/conda-forge/pydantic-pint-feedstock.git
+	path = feedstocks/pydantic-pint
+	branch = refs/heads/main
