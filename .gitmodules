@@ -103846,3 +103846,7 @@
 	url = https://github.com/conda-forge/pydantic-pint-feedstock.git
 	path = feedstocks/pydantic-pint
 	branch = refs/heads/main
+[submodule "strands-agents-tools"]
+	url = https://github.com/conda-forge/strands-agents-tools-feedstock.git
+	path = feedstocks/strands-agents-tools
+	branch = refs/heads/main
