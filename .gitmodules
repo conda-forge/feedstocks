@@ -103870,3 +103870,7 @@
 	url = https://github.com/conda-forge/brev-feedstock.git
 	path = feedstocks/brev
 	branch = refs/heads/main
+[submodule "mcrnmf"]
+	url = https://github.com/conda-forge/mcrnmf-feedstock.git
+	path = feedstocks/mcrnmf
+	branch = refs/heads/main
