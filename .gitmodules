@@ -103866,3 +103866,7 @@
 	url = https://github.com/conda-forge/llama-index-workflows-feedstock.git
 	path = feedstocks/llama-index-workflows
 	branch = refs/heads/main
+[submodule "brev"]
+	url = https://github.com/conda-forge/brev-feedstock.git
+	path = feedstocks/brev
+	branch = refs/heads/main
