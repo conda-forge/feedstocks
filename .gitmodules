@@ -103862,3 +103862,7 @@
 	url = https://github.com/conda-forge/r-logrx-feedstock.git
 	path = feedstocks/r-logrx
 	branch = refs/heads/main
+[submodule "llama-index-workflows"]
+	url = https://github.com/conda-forge/llama-index-workflows-feedstock.git
+	path = feedstocks/llama-index-workflows
+	branch = refs/heads/main
