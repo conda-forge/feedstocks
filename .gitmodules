@@ -103850,3 +103850,7 @@
 	url = https://github.com/conda-forge/strands-agents-tools-feedstock.git
 	path = feedstocks/strands-agents-tools
 	branch = refs/heads/main
+[submodule "django-mcp-server"]
+	url = https://github.com/conda-forge/django-mcp-server-feedstock.git
+	path = feedstocks/django-mcp-server
+	branch = refs/heads/main
