@@ -103858,3 +103858,7 @@
 	url = https://github.com/conda-forge/llama-index-instrumentation-feedstock.git
 	path = feedstocks/llama-index-instrumentation
 	branch = refs/heads/main
+[submodule "r-logrx"]
+	url = https://github.com/conda-forge/r-logrx-feedstock.git
+	path = feedstocks/r-logrx
+	branch = refs/heads/main
