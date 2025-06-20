@@ -103874,3 +103874,7 @@
 	url = https://github.com/conda-forge/mcrnmf-feedstock.git
 	path = feedstocks/mcrnmf
 	branch = refs/heads/main
+[submodule "highdicom"]
+	url = https://github.com/conda-forge/highdicom-feedstock.git
+	path = feedstocks/highdicom
+	branch = refs/heads/main
