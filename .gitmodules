@@ -103854,3 +103854,7 @@
 	url = https://github.com/conda-forge/django-mcp-server-feedstock.git
 	path = feedstocks/django-mcp-server
 	branch = refs/heads/main
+[submodule "llama-index-instrumentation"]
+	url = https://github.com/conda-forge/llama-index-instrumentation-feedstock.git
+	path = feedstocks/llama-index-instrumentation
+	branch = refs/heads/main
