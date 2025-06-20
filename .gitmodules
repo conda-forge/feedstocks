@@ -103878,3 +103878,7 @@
 	url = https://github.com/conda-forge/highdicom-feedstock.git
 	path = feedstocks/highdicom
 	branch = refs/heads/main
+[submodule "kineticstoolkit_extensions"]
+	url = https://github.com/conda-forge/kineticstoolkit_extensions-feedstock.git
+	path = feedstocks/kineticstoolkit_extensions
+	branch = refs/heads/main
