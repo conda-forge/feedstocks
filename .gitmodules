@@ -103882,3 +103882,7 @@
 	url = https://github.com/conda-forge/kineticstoolkit_extensions-feedstock.git
 	path = feedstocks/kineticstoolkit_extensions
 	branch = refs/heads/main
+[submodule "r-zephyr"]
+	url = https://github.com/conda-forge/r-zephyr-feedstock.git
+	path = feedstocks/r-zephyr
+	branch = refs/heads/main
