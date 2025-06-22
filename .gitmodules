@@ -103894,3 +103894,7 @@
 	url = https://github.com/conda-forge/galaxy-tool-util-models-feedstock.git
 	path = feedstocks/galaxy-tool-util-models
 	branch = refs/heads/main
+[submodule "fastmcp"]
+	url = https://github.com/conda-forge/fastmcp-feedstock.git
+	path = feedstocks/fastmcp
+	branch = refs/heads/main
