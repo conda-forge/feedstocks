@@ -103890,3 +103890,7 @@
 	url = https://github.com/conda-forge/globalign-feedstock.git
 	path = feedstocks/globalign
 	branch = refs/heads/main
+[submodule "galaxy-tool-util-models"]
+	url = https://github.com/conda-forge/galaxy-tool-util-models-feedstock.git
+	path = feedstocks/galaxy-tool-util-models
+	branch = refs/heads/main
