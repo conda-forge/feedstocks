@@ -103886,3 +103886,7 @@
 	url = https://github.com/conda-forge/r-zephyr-feedstock.git
 	path = feedstocks/r-zephyr
 	branch = refs/heads/main
+[submodule "globalign"]
+	url = https://github.com/conda-forge/globalign-feedstock.git
+	path = feedstocks/globalign
+	branch = refs/heads/main
