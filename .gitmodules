@@ -103930,3 +103930,7 @@
 	url = https://github.com/conda-forge/sphinx-last-updated-by-git-feedstock.git
 	path = feedstocks/sphinx-last-updated-by-git
 	branch = refs/heads/main
+[submodule "vir-simd"]
+	url = https://github.com/conda-forge/vir-simd-feedstock.git
+	path = feedstocks/vir-simd
+	branch = refs/heads/main
