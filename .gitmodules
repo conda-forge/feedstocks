@@ -103910,3 +103910,7 @@
 	url = https://github.com/conda-forge/markdown-to-confluence-feedstock.git
 	path = feedstocks/markdown-to-confluence
 	branch = refs/heads/main
+[submodule "rq_geo_toolkit"]
+	url = https://github.com/conda-forge/rq_geo_toolkit-feedstock.git
+	path = feedstocks/rq_geo_toolkit
+	branch = refs/heads/main
