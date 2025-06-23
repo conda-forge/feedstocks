@@ -103934,3 +103934,7 @@
 	url = https://github.com/conda-forge/vir-simd-feedstock.git
 	path = feedstocks/vir-simd
 	branch = refs/heads/main
+[submodule "zenoh-pico"]
+	url = https://github.com/conda-forge/zenoh-pico-feedstock.git
+	path = feedstocks/zenoh-pico
+	branch = refs/heads/main
