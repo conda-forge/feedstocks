@@ -103898,3 +103898,7 @@
 	url = https://github.com/conda-forge/fastmcp-feedstock.git
 	path = feedstocks/fastmcp
 	branch = refs/heads/main
+[submodule "r-connector"]
+	url = https://github.com/conda-forge/r-connector-feedstock.git
+	path = feedstocks/r-connector
+	branch = refs/heads/main
