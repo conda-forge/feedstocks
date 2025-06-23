@@ -103922,3 +103922,7 @@
 	url = https://github.com/conda-forge/sissopp-feedstock.git
 	path = feedstocks/sissopp
 	branch = refs/heads/main
+[submodule "pandas-xlwt"]
+	url = https://github.com/conda-forge/pandas-xlwt-feedstock.git
+	path = feedstocks/pandas-xlwt
+	branch = refs/heads/main
