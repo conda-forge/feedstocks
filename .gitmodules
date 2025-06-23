@@ -103914,3 +103914,7 @@
 	url = https://github.com/conda-forge/rq_geo_toolkit-feedstock.git
 	path = feedstocks/rq_geo_toolkit
 	branch = refs/heads/main
+[submodule "quackosm"]
+	url = https://github.com/conda-forge/quackosm-feedstock.git
+	path = feedstocks/quackosm
+	branch = refs/heads/main
