@@ -103902,3 +103902,7 @@
 	url = https://github.com/conda-forge/r-connector-feedstock.git
 	path = feedstocks/r-connector
 	branch = refs/heads/main
+[submodule "pyodps"]
+	url = https://github.com/conda-forge/pyodps-feedstock.git
+	path = feedstocks/pyodps
+	branch = refs/heads/main
