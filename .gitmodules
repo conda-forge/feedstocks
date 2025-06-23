@@ -103906,3 +103906,7 @@
 	url = https://github.com/conda-forge/pyodps-feedstock.git
 	path = feedstocks/pyodps
 	branch = refs/heads/main
+[submodule "markdown-to-confluence"]
+	url = https://github.com/conda-forge/markdown-to-confluence-feedstock.git
+	path = feedstocks/markdown-to-confluence
+	branch = refs/heads/main
