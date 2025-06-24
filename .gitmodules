@@ -103946,3 +103946,7 @@
 	url = https://github.com/conda-forge/pytest-docker-tools-feedstock.git
 	path = feedstocks/pytest-docker-tools
 	branch = refs/heads/main
+[submodule "xarray-subset-grid"]
+	url = https://github.com/conda-forge/xarray-subset-grid-feedstock.git
+	path = feedstocks/xarray-subset-grid
+	branch = refs/heads/main
