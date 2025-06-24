@@ -103938,3 +103938,7 @@
 	url = https://github.com/conda-forge/zenoh-pico-feedstock.git
 	path = feedstocks/zenoh-pico
 	branch = refs/heads/main
+[submodule "tombi"]
+	url = https://github.com/conda-forge/tombi-feedstock.git
+	path = feedstocks/tombi
+	branch = refs/heads/main
