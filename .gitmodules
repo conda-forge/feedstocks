@@ -103962,3 +103962,7 @@
 	url = https://github.com/conda-forge/visionworkbench-feedstock.git
 	path = feedstocks/visionworkbench
 	branch = refs/heads/main
+[submodule "pyiri"]
+	url = https://github.com/conda-forge/pyiri-feedstock.git
+	path = feedstocks/pyiri
+	branch = refs/heads/main
