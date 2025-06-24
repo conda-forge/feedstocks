@@ -103950,3 +103950,7 @@
 	url = https://github.com/conda-forge/xarray-subset-grid-feedstock.git
 	path = feedstocks/xarray-subset-grid
 	branch = refs/heads/main
+[submodule "r-deconvolver"]
+	url = https://github.com/conda-forge/r-deconvolver-feedstock.git
+	path = feedstocks/r-deconvolver
+	branch = refs/heads/main
