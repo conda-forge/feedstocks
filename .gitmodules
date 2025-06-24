@@ -103970,3 +103970,7 @@
 	url = https://github.com/conda-forge/bodo-feedstock.git
 	path = feedstocks/bodo
 	branch = refs/heads/main
+[submodule "pyladoc"]
+	url = https://github.com/conda-forge/pyladoc-feedstock.git
+	path = feedstocks/pyladoc
+	branch = refs/heads/main
