@@ -103942,3 +103942,7 @@
 	url = https://github.com/conda-forge/tombi-feedstock.git
 	path = feedstocks/tombi
 	branch = refs/heads/main
+[submodule "pytest-docker-tools"]
+	url = https://github.com/conda-forge/pytest-docker-tools-feedstock.git
+	path = feedstocks/pytest-docker-tools
+	branch = refs/heads/main
