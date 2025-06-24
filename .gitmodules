@@ -103958,3 +103958,7 @@
 	url = https://github.com/conda-forge/r-enshuman-feedstock.git
 	path = feedstocks/r-enshuman
 	branch = refs/heads/main
+[submodule "visionworkbench"]
+	url = https://github.com/conda-forge/visionworkbench-feedstock.git
+	path = feedstocks/visionworkbench
+	branch = refs/heads/main
