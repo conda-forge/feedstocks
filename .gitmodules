@@ -104002,3 +104002,7 @@
 	url = https://github.com/conda-forge/r-clinify-feedstock.git
 	path = feedstocks/r-clinify
 	branch = refs/heads/main
+[submodule "ipyautoui"]
+	url = https://github.com/conda-forge/ipyautoui-feedstock.git
+	path = feedstocks/ipyautoui
+	branch = refs/heads/main
