@@ -103994,3 +103994,7 @@
 	url = https://github.com/conda-forge/arviz-base-feedstock.git
 	path = feedstocks/arviz-base
 	branch = refs/heads/main
+[submodule "wrds"]
+	url = https://github.com/conda-forge/wrds-feedstock.git
+	path = feedstocks/wrds
+	branch = refs/heads/main
