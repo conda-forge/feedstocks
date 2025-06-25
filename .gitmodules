@@ -103998,3 +103998,7 @@
 	url = https://github.com/conda-forge/wrds-feedstock.git
 	path = feedstocks/wrds
 	branch = refs/heads/main
+[submodule "r-clinify"]
+	url = https://github.com/conda-forge/r-clinify-feedstock.git
+	path = feedstocks/r-clinify
+	branch = refs/heads/main
