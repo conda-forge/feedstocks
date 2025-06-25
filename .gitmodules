@@ -103978,3 +103978,7 @@
 	url = https://github.com/conda-forge/assyst-feedstock.git
 	path = feedstocks/assyst
 	branch = refs/heads/main
+[submodule "pyopengl-accelerate"]
+	url = https://github.com/conda-forge/pyopengl-accelerate-feedstock.git
+	path = feedstocks/pyopengl-accelerate
+	branch = refs/heads/main
