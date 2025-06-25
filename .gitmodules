@@ -103990,3 +103990,7 @@
 	url = https://github.com/conda-forge/arviz-plots-feedstock.git
 	path = feedstocks/arviz-plots
 	branch = refs/heads/main
+[submodule "arviz-base"]
+	url = https://github.com/conda-forge/arviz-base-feedstock.git
+	path = feedstocks/arviz-base
+	branch = refs/heads/main
