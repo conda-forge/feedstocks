@@ -103982,3 +103982,7 @@
 	url = https://github.com/conda-forge/pyopengl-accelerate-feedstock.git
 	path = feedstocks/pyopengl-accelerate
 	branch = refs/heads/main
+[submodule "arviz-stats"]
+	url = https://github.com/conda-forge/arviz-stats-feedstock.git
+	path = feedstocks/arviz-stats
+	branch = refs/heads/main
