@@ -104006,3 +104006,7 @@
 	url = https://github.com/conda-forge/ipyautoui-feedstock.git
 	path = feedstocks/ipyautoui
 	branch = refs/heads/main
+[submodule "nrss"]
+	url = https://github.com/conda-forge/nrss-feedstock.git
+	path = feedstocks/nrss
+	branch = refs/heads/main
