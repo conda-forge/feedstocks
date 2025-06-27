@@ -104018,3 +104018,7 @@
 	url = https://github.com/conda-forge/r-xportr-feedstock.git
 	path = feedstocks/r-xportr
 	branch = refs/heads/main
+[submodule "r-metacore"]
+	url = https://github.com/conda-forge/r-metacore-feedstock.git
+	path = feedstocks/r-metacore
+	branch = refs/heads/main
