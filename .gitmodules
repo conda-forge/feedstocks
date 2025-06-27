@@ -104046,3 +104046,7 @@
 	url = https://github.com/conda-forge/pytest-lsp-feedstock.git
 	path = feedstocks/pytest-lsp
 	branch = refs/heads/main
+[submodule "k6"]
+	url = https://github.com/conda-forge/k6-feedstock.git
+	path = feedstocks/k6
+	branch = refs/heads/main
