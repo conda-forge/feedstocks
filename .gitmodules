@@ -104066,3 +104066,7 @@
 	url = https://github.com/conda-forge/sqlite-tools-feedstock.git
 	path = feedstocks/sqlite-tools
 	branch = refs/heads/main
+[submodule "mds-toolbox"]
+	url = https://github.com/conda-forge/mds-toolbox-feedstock.git
+	path = feedstocks/mds-toolbox
+	branch = refs/heads/main
