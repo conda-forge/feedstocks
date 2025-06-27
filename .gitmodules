@@ -104034,3 +104034,7 @@
 	url = https://github.com/conda-forge/pygccxml-feedstock.git
 	path = feedstocks/pygccxml
 	branch = refs/heads/main
+[submodule "toml11"]
+	url = https://github.com/conda-forge/toml11-feedstock.git
+	path = feedstocks/toml11
+	branch = refs/heads/main
