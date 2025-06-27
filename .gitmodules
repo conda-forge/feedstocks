@@ -104042,3 +104042,7 @@
 	url = https://github.com/conda-forge/scikit-bio-binaries-feedstock.git
 	path = feedstocks/scikit-bio-binaries
 	branch = refs/heads/main
+[submodule "pytest-lsp"]
+	url = https://github.com/conda-forge/pytest-lsp-feedstock.git
+	path = feedstocks/pytest-lsp
+	branch = refs/heads/main
