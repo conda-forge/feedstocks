@@ -104038,3 +104038,7 @@
 	url = https://github.com/conda-forge/toml11-feedstock.git
 	path = feedstocks/toml11
 	branch = refs/heads/main
+[submodule "scikit-bio-binaries"]
+	url = https://github.com/conda-forge/scikit-bio-binaries-feedstock.git
+	path = feedstocks/scikit-bio-binaries
+	branch = refs/heads/main
