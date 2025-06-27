@@ -104062,3 +104062,7 @@
 	url = https://github.com/conda-forge/stopt-feedstock.git
 	path = feedstocks/stopt
 	branch = refs/heads/main
+[submodule "sqlite-tools"]
+	url = https://github.com/conda-forge/sqlite-tools-feedstock.git
+	path = feedstocks/sqlite-tools
+	branch = refs/heads/main
