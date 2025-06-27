@@ -104050,3 +104050,7 @@
 	url = https://github.com/conda-forge/k6-feedstock.git
 	path = feedstocks/k6
 	branch = refs/heads/main
+[submodule "kite"]
+	url = https://github.com/conda-forge/kite-feedstock.git
+	path = feedstocks/kite
+	branch = refs/heads/main
