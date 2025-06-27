@@ -104054,3 +104054,7 @@
 	url = https://github.com/conda-forge/kite-feedstock.git
 	path = feedstocks/kite
 	branch = refs/heads/main
+[submodule "lnav"]
+	url = https://github.com/conda-forge/lnav-feedstock.git
+	path = feedstocks/lnav
+	branch = refs/heads/main
