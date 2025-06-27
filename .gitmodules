@@ -104026,3 +104026,7 @@
 	url = https://github.com/conda-forge/gpp-client-feedstock.git
 	path = feedstocks/gpp-client
 	branch = refs/heads/main
+[submodule "pyplusplus"]
+	url = https://github.com/conda-forge/pyplusplus-feedstock.git
+	path = feedstocks/pyplusplus
+	branch = refs/heads/main
