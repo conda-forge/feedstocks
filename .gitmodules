@@ -104030,3 +104030,7 @@
 	url = https://github.com/conda-forge/pyplusplus-feedstock.git
 	path = feedstocks/pyplusplus
 	branch = refs/heads/main
+[submodule "pygccxml"]
+	url = https://github.com/conda-forge/pygccxml-feedstock.git
+	path = feedstocks/pygccxml
+	branch = refs/heads/main
