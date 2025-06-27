@@ -104074,3 +104074,7 @@
 	url = https://github.com/conda-forge/laynii-feedstock.git
 	path = feedstocks/laynii
 	branch = refs/heads/main
+[submodule "freesasa-c"]
+	url = https://github.com/conda-forge/freesasa-c-feedstock.git
+	path = feedstocks/freesasa-c
+	branch = refs/heads/main
