@@ -104082,3 +104082,7 @@
 	url = https://github.com/conda-forge/r-diffdf-feedstock.git
 	path = feedstocks/r-diffdf
 	branch = refs/heads/main
+[submodule "aegypti"]
+	url = https://github.com/conda-forge/aegypti-feedstock.git
+	path = feedstocks/aegypti
+	branch = refs/heads/main
