@@ -104078,3 +104078,7 @@
 	url = https://github.com/conda-forge/freesasa-c-feedstock.git
 	path = feedstocks/freesasa-c
 	branch = refs/heads/main
+[submodule "r-diffdf"]
+	url = https://github.com/conda-forge/r-diffdf-feedstock.git
+	path = feedstocks/r-diffdf
+	branch = refs/heads/main
