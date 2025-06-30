@@ -104114,3 +104114,7 @@
 	url = https://github.com/conda-forge/memory_graph-feedstock.git
 	path = feedstocks/memory_graph
 	branch = refs/heads/main
+[submodule "vitaldb"]
+	url = https://github.com/conda-forge/vitaldb-feedstock.git
+	path = feedstocks/vitaldb
+	branch = refs/heads/main
