@@ -104122,3 +104122,7 @@
 	url = https://github.com/conda-forge/qpytorch-feedstock.git
 	path = feedstocks/qpytorch
 	branch = refs/heads/main
+[submodule "cargo-vet"]
+	url = https://github.com/conda-forge/cargo-vet-feedstock.git
+	path = feedstocks/cargo-vet
+	branch = refs/heads/main
