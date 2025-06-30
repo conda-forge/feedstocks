@@ -104110,3 +104110,7 @@
 	url = https://github.com/conda-forge/llmcompressor-feedstock.git
 	path = feedstocks/llmcompressor
 	branch = refs/heads/main
+[submodule "memory_graph"]
+	url = https://github.com/conda-forge/memory_graph-feedstock.git
+	path = feedstocks/memory_graph
+	branch = refs/heads/main
