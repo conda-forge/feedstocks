@@ -104106,3 +104106,7 @@
 	url = https://github.com/conda-forge/jupyter-remote-desktop-proxy-feedstock.git
 	path = feedstocks/jupyter-remote-desktop-proxy
 	branch = refs/heads/main
+[submodule "llmcompressor"]
+	url = https://github.com/conda-forge/llmcompressor-feedstock.git
+	path = feedstocks/llmcompressor
+	branch = refs/heads/main
