@@ -104102,3 +104102,7 @@
 	url = https://github.com/conda-forge/optunahub-feedstock.git
 	path = feedstocks/optunahub
 	branch = refs/heads/main
+[submodule "jupyter-remote-desktop-proxy"]
+	url = https://github.com/conda-forge/jupyter-remote-desktop-proxy-feedstock.git
+	path = feedstocks/jupyter-remote-desktop-proxy
+	branch = refs/heads/main
