@@ -104118,3 +104118,7 @@
 	url = https://github.com/conda-forge/vitaldb-feedstock.git
 	path = feedstocks/vitaldb
 	branch = refs/heads/main
+[submodule "qpytorch"]
+	url = https://github.com/conda-forge/qpytorch-feedstock.git
+	path = feedstocks/qpytorch
+	branch = refs/heads/main
