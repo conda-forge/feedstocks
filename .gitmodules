@@ -104090,3 +104090,7 @@
 	url = https://github.com/conda-forge/r-metatools-feedstock.git
 	path = feedstocks/r-metatools
 	branch = refs/heads/main
+[submodule "r-pharmaverseadam"]
+	url = https://github.com/conda-forge/r-pharmaverseadam-feedstock.git
+	path = feedstocks/r-pharmaverseadam
+	branch = refs/heads/main
