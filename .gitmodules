@@ -104126,3 +104126,7 @@
 	url = https://github.com/conda-forge/cargo-vet-feedstock.git
 	path = feedstocks/cargo-vet
 	branch = refs/heads/main
+[submodule "vitabel"]
+	url = https://github.com/conda-forge/vitabel-feedstock.git
+	path = feedstocks/vitabel
+	branch = refs/heads/main
