@@ -104130,3 +104130,7 @@
 	url = https://github.com/conda-forge/vitabel-feedstock.git
 	path = feedstocks/vitabel
 	branch = refs/heads/main
+[submodule "asf_enumeration"]
+	url = https://github.com/conda-forge/asf_enumeration-feedstock.git
+	path = feedstocks/asf_enumeration
+	branch = refs/heads/main
