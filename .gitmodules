@@ -104134,3 +104134,7 @@
 	url = https://github.com/conda-forge/asf_enumeration-feedstock.git
 	path = feedstocks/asf_enumeration
 	branch = refs/heads/main
+[submodule "lerna"]
+	url = https://github.com/conda-forge/lerna-feedstock.git
+	path = feedstocks/lerna
+	branch = refs/heads/main
