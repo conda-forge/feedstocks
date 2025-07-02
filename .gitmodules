@@ -104166,3 +104166,7 @@
 	url = https://github.com/conda-forge/opencosmo-feedstock.git
 	path = feedstocks/opencosmo
 	branch = refs/heads/main
+[submodule "lamin_cli"]
+	url = https://github.com/conda-forge/lamin_cli-feedstock.git
+	path = feedstocks/lamin_cli
+	branch = refs/heads/main
