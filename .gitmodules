@@ -104150,3 +104150,7 @@
 	url = https://github.com/conda-forge/polars-xdt-feedstock.git
 	path = feedstocks/polars-xdt
 	branch = refs/heads/main
+[submodule "collate-sqlfluff"]
+	url = https://github.com/conda-forge/collate-sqlfluff-feedstock.git
+	path = feedstocks/collate-sqlfluff
+	branch = refs/heads/main
