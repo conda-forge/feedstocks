@@ -104178,3 +104178,7 @@
 	url = https://github.com/conda-forge/anymap-feedstock.git
 	path = feedstocks/anymap
 	branch = refs/heads/main
+[submodule "bionty"]
+	url = https://github.com/conda-forge/bionty-feedstock.git
+	path = feedstocks/bionty
+	branch = refs/heads/main
