@@ -104174,3 +104174,7 @@
 	url = https://github.com/conda-forge/lamindb_setup-feedstock.git
 	path = feedstocks/lamindb_setup
 	branch = refs/heads/main
+[submodule "anymap"]
+	url = https://github.com/conda-forge/anymap-feedstock.git
+	path = feedstocks/anymap
+	branch = refs/heads/main
