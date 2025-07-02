@@ -104170,3 +104170,7 @@
 	url = https://github.com/conda-forge/lamin_cli-feedstock.git
 	path = feedstocks/lamin_cli
 	branch = refs/heads/main
+[submodule "lamindb_setup"]
+	url = https://github.com/conda-forge/lamindb_setup-feedstock.git
+	path = feedstocks/lamindb_setup
+	branch = refs/heads/main
