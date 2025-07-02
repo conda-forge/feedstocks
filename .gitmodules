@@ -104146,3 +104146,7 @@
 	url = https://github.com/conda-forge/clusterscope-feedstock.git
 	path = feedstocks/clusterscope
 	branch = refs/heads/main
+[submodule "polars-xdt"]
+	url = https://github.com/conda-forge/polars-xdt-feedstock.git
+	path = feedstocks/polars-xdt
+	branch = refs/heads/main
