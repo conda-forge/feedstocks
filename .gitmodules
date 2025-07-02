@@ -104154,3 +104154,7 @@
 	url = https://github.com/conda-forge/collate-sqlfluff-feedstock.git
 	path = feedstocks/collate-sqlfluff
 	branch = refs/heads/main
+[submodule "lamindb"]
+	url = https://github.com/conda-forge/lamindb-feedstock.git
+	path = feedstocks/lamindb
+	branch = refs/heads/main
