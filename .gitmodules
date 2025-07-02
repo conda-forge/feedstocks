@@ -104162,3 +104162,7 @@
 	url = https://github.com/conda-forge/biomart-feedstock.git
 	path = feedstocks/biomart
 	branch = refs/heads/main
+[submodule "opencosmo"]
+	url = https://github.com/conda-forge/opencosmo-feedstock.git
+	path = feedstocks/opencosmo
+	branch = refs/heads/main
