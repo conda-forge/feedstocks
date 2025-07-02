@@ -104182,3 +104182,7 @@
 	url = https://github.com/conda-forge/bionty-feedstock.git
 	path = feedstocks/bionty
 	branch = refs/heads/main
+[submodule "bases"]
+	url = https://github.com/conda-forge/bases-feedstock.git
+	path = feedstocks/bases
+	branch = refs/heads/main
