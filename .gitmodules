@@ -104158,3 +104158,7 @@
 	url = https://github.com/conda-forge/lamindb-feedstock.git
 	path = feedstocks/lamindb
 	branch = refs/heads/main
+[submodule "biomart"]
+	url = https://github.com/conda-forge/biomart-feedstock.git
+	path = feedstocks/biomart
+	branch = refs/heads/main
