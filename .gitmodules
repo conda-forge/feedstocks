@@ -104198,3 +104198,7 @@
 	url = https://github.com/conda-forge/prefect-kubernetes-feedstock.git
 	path = feedstocks/prefect-kubernetes
 	branch = refs/heads/main
+[submodule "betacal"]
+	url = https://github.com/conda-forge/betacal-feedstock.git
+	path = feedstocks/betacal
+	branch = refs/heads/main
