@@ -104202,3 +104202,7 @@
 	url = https://github.com/conda-forge/betacal-feedstock.git
 	path = feedstocks/betacal
 	branch = refs/heads/main
+[submodule "sealsmodel"]
+	url = https://github.com/conda-forge/sealsmodel-feedstock.git
+	path = feedstocks/sealsmodel
+	branch = refs/heads/main
