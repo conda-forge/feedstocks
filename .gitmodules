@@ -104190,3 +104190,7 @@
 	url = https://github.com/conda-forge/r-dunlin-feedstock.git
 	path = feedstocks/r-dunlin
 	branch = refs/heads/main
+[submodule "json-strong-typing"]
+	url = https://github.com/conda-forge/json-strong-typing-feedstock.git
+	path = feedstocks/json-strong-typing
+	branch = refs/heads/main
