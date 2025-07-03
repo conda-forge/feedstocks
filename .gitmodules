@@ -104194,3 +104194,7 @@
 	url = https://github.com/conda-forge/json-strong-typing-feedstock.git
 	path = feedstocks/json-strong-typing
 	branch = refs/heads/main
+[submodule "prefect-kubernetes"]
+	url = https://github.com/conda-forge/prefect-kubernetes-feedstock.git
+	path = feedstocks/prefect-kubernetes
+	branch = refs/heads/main
