@@ -104186,3 +104186,7 @@
 	url = https://github.com/conda-forge/bases-feedstock.git
 	path = feedstocks/bases
 	branch = refs/heads/main
+[submodule "r-dunlin"]
+	url = https://github.com/conda-forge/r-dunlin-feedstock.git
+	path = feedstocks/r-dunlin
+	branch = refs/heads/main
