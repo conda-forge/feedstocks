@@ -104206,3 +104206,7 @@
 	url = https://github.com/conda-forge/sealsmodel-feedstock.git
 	path = feedstocks/sealsmodel
 	branch = refs/heads/main
+[submodule "httpx-retries"]
+	url = https://github.com/conda-forge/httpx-retries-feedstock.git
+	path = feedstocks/httpx-retries
+	branch = refs/heads/main
