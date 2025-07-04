@@ -104218,3 +104218,7 @@
 	url = https://github.com/conda-forge/fans-dashboard-feedstock.git
 	path = feedstocks/fans-dashboard
 	branch = refs/heads/main
+[submodule "types-xmltodict"]
+	url = https://github.com/conda-forge/types-xmltodict-feedstock.git
+	path = feedstocks/types-xmltodict
+	branch = refs/heads/main
