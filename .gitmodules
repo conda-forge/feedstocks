@@ -104214,3 +104214,7 @@
 	url = https://github.com/conda-forge/freva-client-feedstock.git
 	path = feedstocks/freva-client
 	branch = refs/heads/main
+[submodule "fans-dashboard"]
+	url = https://github.com/conda-forge/fans-dashboard-feedstock.git
+	path = feedstocks/fans-dashboard
+	branch = refs/heads/main
