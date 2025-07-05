@@ -104222,3 +104222,7 @@
 	url = https://github.com/conda-forge/types-xmltodict-feedstock.git
 	path = feedstocks/types-xmltodict
 	branch = refs/heads/main
+[submodule "jupyter-secrets-manager"]
+	url = https://github.com/conda-forge/jupyter-secrets-manager-feedstock.git
+	path = feedstocks/jupyter-secrets-manager
+	branch = refs/heads/main
