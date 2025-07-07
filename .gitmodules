@@ -104226,3 +104226,7 @@
 	url = https://github.com/conda-forge/jupyter-secrets-manager-feedstock.git
 	path = feedstocks/jupyter-secrets-manager
 	branch = refs/heads/main
+[submodule "r-chevron"]
+	url = https://github.com/conda-forge/r-chevron-feedstock.git
+	path = feedstocks/r-chevron
+	branch = refs/heads/main
