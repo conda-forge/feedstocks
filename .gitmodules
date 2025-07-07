@@ -104238,3 +104238,7 @@
 	url = https://github.com/conda-forge/segment-analytics-python-feedstock.git
 	path = feedstocks/segment-analytics-python
 	branch = refs/heads/main
+[submodule "wigglystuff"]
+	url = https://github.com/conda-forge/wigglystuff-feedstock.git
+	path = feedstocks/wigglystuff
+	branch = refs/heads/main
