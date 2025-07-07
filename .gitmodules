@@ -104250,3 +104250,7 @@
 	url = https://github.com/conda-forge/pre-commit-uv-feedstock.git
 	path = feedstocks/pre-commit-uv
 	branch = refs/heads/main
+[submodule "jupyterlite-ai"]
+	url = https://github.com/conda-forge/jupyterlite-ai-feedstock.git
+	path = feedstocks/jupyterlite-ai
+	branch = refs/heads/main
