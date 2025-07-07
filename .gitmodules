@@ -104246,3 +104246,7 @@
 	url = https://github.com/conda-forge/mopaint-feedstock.git
 	path = feedstocks/mopaint
 	branch = refs/heads/main
+[submodule "pre-commit-uv"]
+	url = https://github.com/conda-forge/pre-commit-uv-feedstock.git
+	path = feedstocks/pre-commit-uv
+	branch = refs/heads/main
