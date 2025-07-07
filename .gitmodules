@@ -104230,3 +104230,7 @@
 	url = https://github.com/conda-forge/r-chevron-feedstock.git
 	path = feedstocks/r-chevron
 	branch = refs/heads/main
+[submodule "confluence-markdown-exporter"]
+	url = https://github.com/conda-forge/confluence-markdown-exporter-feedstock.git
+	path = feedstocks/confluence-markdown-exporter
+	branch = refs/heads/main
