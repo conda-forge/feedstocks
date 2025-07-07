@@ -104234,3 +104234,7 @@
 	url = https://github.com/conda-forge/confluence-markdown-exporter-feedstock.git
 	path = feedstocks/confluence-markdown-exporter
 	branch = refs/heads/main
+[submodule "segment-analytics-python"]
+	url = https://github.com/conda-forge/segment-analytics-python-feedstock.git
+	path = feedstocks/segment-analytics-python
+	branch = refs/heads/main
