@@ -104254,3 +104254,7 @@
 	url = https://github.com/conda-forge/jupyterlite-ai-feedstock.git
 	path = feedstocks/jupyterlite-ai
 	branch = refs/heads/main
+[submodule "cog3pio"]
+	url = https://github.com/conda-forge/cog3pio-feedstock.git
+	path = feedstocks/cog3pio
+	branch = refs/heads/main
