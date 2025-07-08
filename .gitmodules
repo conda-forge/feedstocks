@@ -104314,3 +104314,7 @@
 	url = https://github.com/conda-forge/multiformats-config-feedstock.git
 	path = feedstocks/multiformats-config
 	branch = refs/heads/main
+[submodule "r-mblm"]
+	url = https://github.com/conda-forge/r-mblm-feedstock.git
+	path = feedstocks/r-mblm
+	branch = refs/heads/main
