@@ -104286,3 +104286,7 @@
 	url = https://github.com/conda-forge/r-plutor-feedstock.git
 	path = feedstocks/r-plutor
 	branch = refs/heads/main
+[submodule "ptm_pose"]
+	url = https://github.com/conda-forge/ptm_pose-feedstock.git
+	path = feedstocks/ptm_pose
+	branch = refs/heads/main
