@@ -104306,3 +104306,7 @@
 	url = https://github.com/conda-forge/python-metatomic-torch-feedstock.git
 	path = feedstocks/python-metatomic-torch
 	branch = refs/heads/main
+[submodule "jupyter-fsspec"]
+	url = https://github.com/conda-forge/jupyter-fsspec-feedstock.git
+	path = feedstocks/jupyter-fsspec
+	branch = refs/heads/main
