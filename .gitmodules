@@ -104310,3 +104310,7 @@
 	url = https://github.com/conda-forge/jupyter-fsspec-feedstock.git
 	path = feedstocks/jupyter-fsspec
 	branch = refs/heads/main
+[submodule "multiformats-config"]
+	url = https://github.com/conda-forge/multiformats-config-feedstock.git
+	path = feedstocks/multiformats-config
+	branch = refs/heads/main
