@@ -104290,3 +104290,7 @@
 	url = https://github.com/conda-forge/ptm_pose-feedstock.git
 	path = feedstocks/ptm_pose
 	branch = refs/heads/main
+[submodule "diffpy.morph"]
+	url = https://github.com/conda-forge/diffpy.morph-feedstock.git
+	path = feedstocks/diffpy.morph
+	branch = refs/heads/main
