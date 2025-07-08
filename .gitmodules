@@ -104322,3 +104322,7 @@
 	url = https://github.com/conda-forge/multiformats-feedstock.git
 	path = feedstocks/multiformats
 	branch = refs/heads/main
+[submodule "r-idm"]
+	url = https://github.com/conda-forge/r-idm-feedstock.git
+	path = feedstocks/r-idm
+	branch = refs/heads/main
