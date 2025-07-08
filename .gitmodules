@@ -104298,3 +104298,7 @@
 	url = https://github.com/conda-forge/lenapy-feedstock.git
 	path = feedstocks/lenapy
 	branch = refs/heads/main
+[submodule "libmetatomic-torch"]
+	url = https://github.com/conda-forge/libmetatomic-torch-feedstock.git
+	path = feedstocks/libmetatomic-torch
+	branch = refs/heads/main
