@@ -104282,3 +104282,7 @@
 	url = https://github.com/conda-forge/vois-feedstock.git
 	path = feedstocks/vois
 	branch = refs/heads/main
+[submodule "r-plutor"]
+	url = https://github.com/conda-forge/r-plutor-feedstock.git
+	path = feedstocks/r-plutor
+	branch = refs/heads/main
