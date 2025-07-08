@@ -104266,3 +104266,7 @@
 	url = https://github.com/conda-forge/cargo-flamegraph-feedstock.git
 	path = feedstocks/cargo-flamegraph
 	branch = refs/heads/main
+[submodule "dmqclib"]
+	url = https://github.com/conda-forge/dmqclib-feedstock.git
+	path = feedstocks/dmqclib
+	branch = refs/heads/main
