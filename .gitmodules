@@ -104342,3 +104342,7 @@
 	url = https://github.com/conda-forge/pado-optics-feedstock.git
 	path = feedstocks/pado-optics
 	branch = refs/heads/main
+[submodule "skforecast"]
+	url = https://github.com/conda-forge/skforecast-feedstock.git
+	path = feedstocks/skforecast
+	branch = refs/heads/main
