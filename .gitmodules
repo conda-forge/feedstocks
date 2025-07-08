@@ -104278,3 +104278,7 @@
 	url = https://github.com/conda-forge/conda_curation-feedstock.git
 	path = feedstocks/conda_curation
 	branch = refs/heads/main
+[submodule "vois"]
+	url = https://github.com/conda-forge/vois-feedstock.git
+	path = feedstocks/vois
+	branch = refs/heads/main
