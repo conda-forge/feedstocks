@@ -104294,3 +104294,7 @@
 	url = https://github.com/conda-forge/diffpy.morph-feedstock.git
 	path = feedstocks/diffpy.morph
 	branch = refs/heads/main
+[submodule "lenapy"]
+	url = https://github.com/conda-forge/lenapy-feedstock.git
+	path = feedstocks/lenapy
+	branch = refs/heads/main
