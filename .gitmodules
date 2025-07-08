@@ -104326,3 +104326,7 @@
 	url = https://github.com/conda-forge/r-idm-feedstock.git
 	path = feedstocks/r-idm
 	branch = refs/heads/main
+[submodule "r-metarep"]
+	url = https://github.com/conda-forge/r-metarep-feedstock.git
+	path = feedstocks/r-metarep
+	branch = refs/heads/main
