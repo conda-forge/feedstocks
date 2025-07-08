@@ -104258,3 +104258,7 @@
 	url = https://github.com/conda-forge/cog3pio-feedstock.git
 	path = feedstocks/cog3pio
 	branch = refs/heads/main
+[submodule "easychem"]
+	url = https://github.com/conda-forge/easychem-feedstock.git
+	path = feedstocks/easychem
+	branch = refs/heads/main
