@@ -104262,3 +104262,7 @@
 	url = https://github.com/conda-forge/easychem-feedstock.git
 	path = feedstocks/easychem
 	branch = refs/heads/main
+[submodule "cargo-flamegraph"]
+	url = https://github.com/conda-forge/cargo-flamegraph-feedstock.git
+	path = feedstocks/cargo-flamegraph
+	branch = refs/heads/main
