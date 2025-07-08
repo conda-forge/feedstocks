@@ -104274,3 +104274,7 @@
 	url = https://github.com/conda-forge/pywlgk-feedstock.git
 	path = feedstocks/pywlgk
 	branch = refs/heads/main
+[submodule "conda_curation"]
+	url = https://github.com/conda-forge/conda_curation-feedstock.git
+	path = feedstocks/conda_curation
+	branch = refs/heads/main
