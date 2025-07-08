@@ -104334,3 +104334,7 @@
 	url = https://github.com/conda-forge/r-horseshoe-feedstock.git
 	path = feedstocks/r-horseshoe
 	branch = refs/heads/main
+[submodule "r-mbsp"]
+	url = https://github.com/conda-forge/r-mbsp-feedstock.git
+	path = feedstocks/r-mbsp
+	branch = refs/heads/main
