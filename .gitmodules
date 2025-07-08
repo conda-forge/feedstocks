@@ -104346,3 +104346,7 @@
 	url = https://github.com/conda-forge/skforecast-feedstock.git
 	path = feedstocks/skforecast
 	branch = refs/heads/main
+[submodule "pylibjpeg-libjpeg"]
+	url = https://github.com/conda-forge/pylibjpeg-libjpeg-feedstock.git
+	path = feedstocks/pylibjpeg-libjpeg
+	branch = refs/heads/main
