@@ -104338,3 +104338,7 @@
 	url = https://github.com/conda-forge/r-mbsp-feedstock.git
 	path = feedstocks/r-mbsp
 	branch = refs/heads/main
+[submodule "pado-optics"]
+	url = https://github.com/conda-forge/pado-optics-feedstock.git
+	path = feedstocks/pado-optics
+	branch = refs/heads/main
