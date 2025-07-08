@@ -104330,3 +104330,7 @@
 	url = https://github.com/conda-forge/r-metarep-feedstock.git
 	path = feedstocks/r-metarep
 	branch = refs/heads/main
+[submodule "r-horseshoe"]
+	url = https://github.com/conda-forge/r-horseshoe-feedstock.git
+	path = feedstocks/r-horseshoe
+	branch = refs/heads/main
