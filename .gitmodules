@@ -104382,3 +104382,7 @@
 	url = https://github.com/conda-forge/aabbtree-feedstock.git
 	path = feedstocks/aabbtree
 	branch = refs/heads/main
+[submodule "mcrpy"]
+	url = https://github.com/conda-forge/mcrpy-feedstock.git
+	path = feedstocks/mcrpy
+	branch = refs/heads/main
