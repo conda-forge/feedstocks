@@ -104366,3 +104366,7 @@
 	url = https://github.com/conda-forge/choreographer-feedstock.git
 	path = feedstocks/choreographer
 	branch = refs/heads/main
+[submodule "hdfmap"]
+	url = https://github.com/conda-forge/hdfmap-feedstock.git
+	path = feedstocks/hdfmap
+	branch = refs/heads/main
