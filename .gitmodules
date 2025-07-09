@@ -104370,3 +104370,7 @@
 	url = https://github.com/conda-forge/hdfmap-feedstock.git
 	path = feedstocks/hdfmap
 	branch = refs/heads/main
+[submodule "hanta"]
+	url = https://github.com/conda-forge/hanta-feedstock.git
+	path = feedstocks/hanta
+	branch = refs/heads/main
