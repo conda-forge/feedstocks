@@ -104394,3 +104394,7 @@
 	url = https://github.com/conda-forge/pylibjpeg-openjpeg-feedstock.git
 	path = feedstocks/pylibjpeg-openjpeg
 	branch = refs/heads/main
+[submodule "pylibjpeg-rle"]
+	url = https://github.com/conda-forge/pylibjpeg-rle-feedstock.git
+	path = feedstocks/pylibjpeg-rle
+	branch = refs/heads/main
