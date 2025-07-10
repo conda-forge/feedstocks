@@ -104410,3 +104410,7 @@
 	url = https://github.com/conda-forge/lsq-ellipse-feedstock.git
 	path = feedstocks/lsq-ellipse
 	branch = refs/heads/main
+[submodule "redistpy"]
+	url = https://github.com/conda-forge/redistpy-feedstock.git
+	path = feedstocks/redistpy
+	branch = refs/heads/main
