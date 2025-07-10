@@ -104414,3 +104414,7 @@
 	url = https://github.com/conda-forge/redistpy-feedstock.git
 	path = feedstocks/redistpy
 	branch = refs/heads/main
+[submodule "taqy"]
+	url = https://github.com/conda-forge/taqy-feedstock.git
+	path = feedstocks/taqy
+	branch = refs/heads/main
