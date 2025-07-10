@@ -104402,3 +104402,7 @@
 	url = https://github.com/conda-forge/fps-akernel-task-feedstock.git
 	path = feedstocks/fps-akernel-task
 	branch = refs/heads/main
+[submodule "fps-kernel-subprocess"]
+	url = https://github.com/conda-forge/fps-kernel-subprocess-feedstock.git
+	path = feedstocks/fps-kernel-subprocess
+	branch = refs/heads/main
