@@ -104418,3 +104418,7 @@
 	url = https://github.com/conda-forge/taqy-feedstock.git
 	path = feedstocks/taqy
 	branch = refs/heads/main
+[submodule "lungmask"]
+	url = https://github.com/conda-forge/lungmask-feedstock.git
+	path = feedstocks/lungmask
+	branch = refs/heads/main
