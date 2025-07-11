@@ -104426,3 +104426,7 @@
 	url = https://github.com/conda-forge/shadows-feedstock.git
 	path = feedstocks/shadows
 	branch = refs/heads/main
+[submodule "addr2line-rust"]
+	url = https://github.com/conda-forge/addr2line-rust-feedstock.git
+	path = feedstocks/addr2line-rust
+	branch = refs/heads/main
