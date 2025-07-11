@@ -104430,3 +104430,7 @@
 	url = https://github.com/conda-forge/addr2line-rust-feedstock.git
 	path = feedstocks/addr2line-rust
 	branch = refs/heads/main
+[submodule "pyror"]
+	url = https://github.com/conda-forge/pyror-feedstock.git
+	path = feedstocks/pyror
+	branch = refs/heads/main
