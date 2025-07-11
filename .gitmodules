@@ -104458,3 +104458,7 @@
 	url = https://github.com/conda-forge/lzlib-feedstock.git
 	path = feedstocks/lzlib
 	branch = refs/heads/main
+[submodule "microstructpy"]
+	url = https://github.com/conda-forge/microstructpy-feedstock.git
+	path = feedstocks/microstructpy
+	branch = refs/heads/main
