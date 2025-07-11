@@ -104422,3 +104422,7 @@
 	url = https://github.com/conda-forge/lungmask-feedstock.git
 	path = feedstocks/lungmask
 	branch = refs/heads/main
+[submodule "shadows"]
+	url = https://github.com/conda-forge/shadows-feedstock.git
+	path = feedstocks/shadows
+	branch = refs/heads/main
