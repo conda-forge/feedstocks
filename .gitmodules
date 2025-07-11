@@ -104454,3 +104454,7 @@
 	url = https://github.com/conda-forge/pixz-feedstock.git
 	path = feedstocks/pixz
 	branch = refs/heads/main
+[submodule "lzlib"]
+	url = https://github.com/conda-forge/lzlib-feedstock.git
+	path = feedstocks/lzlib
+	branch = refs/heads/main
