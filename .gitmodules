@@ -104462,3 +104462,7 @@
 	url = https://github.com/conda-forge/microstructpy-feedstock.git
 	path = feedstocks/microstructpy
 	branch = refs/heads/main
+[submodule "oslex"]
+	url = https://github.com/conda-forge/oslex-feedstock.git
+	path = feedstocks/oslex
+	branch = refs/heads/main
