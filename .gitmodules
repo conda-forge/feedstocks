@@ -104446,3 +104446,7 @@
 	url = https://github.com/conda-forge/fastemriwaveforms-feedstock.git
 	path = feedstocks/fastemriwaveforms
 	branch = refs/heads/main
+[submodule "bdsim-g4"]
+	url = https://github.com/conda-forge/bdsim-g4-feedstock.git
+	path = feedstocks/bdsim-g4
+	branch = refs/heads/main
