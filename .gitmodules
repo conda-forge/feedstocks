@@ -104434,3 +104434,7 @@
 	url = https://github.com/conda-forge/pyror-feedstock.git
 	path = feedstocks/pyror
 	branch = refs/heads/main
+[submodule "pygmsh"]
+	url = https://github.com/conda-forge/pygmsh-feedstock.git
+	path = feedstocks/pygmsh
+	branch = refs/heads/main
