@@ -104466,3 +104466,7 @@
 	url = https://github.com/conda-forge/oslex-feedstock.git
 	path = feedstocks/oslex
 	branch = refs/heads/main
+[submodule "aider-chat"]
+	url = https://github.com/conda-forge/aider-chat-feedstock.git
+	path = feedstocks/aider-chat
+	branch = refs/heads/main
