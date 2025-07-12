@@ -104490,3 +104490,7 @@
 	url = https://github.com/conda-forge/city2graph-feedstock.git
 	path = feedstocks/city2graph
 	branch = refs/heads/main
+[submodule "r-ciftitools"]
+	url = https://github.com/conda-forge/r-ciftitools-feedstock.git
+	path = feedstocks/r-ciftitools
+	branch = refs/heads/main
