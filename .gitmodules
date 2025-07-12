@@ -104474,3 +104474,7 @@
 	url = https://github.com/conda-forge/libmcfp-feedstock.git
 	path = feedstocks/libmcfp
 	branch = refs/heads/main
+[submodule "zed"]
+	url = https://github.com/conda-forge/zed-feedstock.git
+	path = feedstocks/zed
+	branch = refs/heads/main
