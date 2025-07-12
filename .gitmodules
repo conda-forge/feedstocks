@@ -104470,3 +104470,7 @@
 	url = https://github.com/conda-forge/aider-chat-feedstock.git
 	path = feedstocks/aider-chat
 	branch = refs/heads/main
+[submodule "libmcfp"]
+	url = https://github.com/conda-forge/libmcfp-feedstock.git
+	path = feedstocks/libmcfp
+	branch = refs/heads/main
