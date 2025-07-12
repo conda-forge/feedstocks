@@ -104478,3 +104478,7 @@
 	url = https://github.com/conda-forge/zed-feedstock.git
 	path = feedstocks/zed
 	branch = refs/heads/main
+[submodule "dttlib"]
+	url = https://github.com/conda-forge/dttlib-feedstock.git
+	path = feedstocks/dttlib
+	branch = refs/heads/main
