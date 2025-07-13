@@ -104498,3 +104498,7 @@
 	url = https://github.com/conda-forge/r-whirl-feedstock.git
 	path = feedstocks/r-whirl
 	branch = refs/heads/main
+[submodule "newuoa-cpp"]
+	url = https://github.com/conda-forge/newuoa-cpp-feedstock.git
+	path = feedstocks/newuoa-cpp
+	branch = refs/heads/main
