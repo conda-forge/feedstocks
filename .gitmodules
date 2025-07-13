@@ -104506,3 +104506,7 @@
 	url = https://github.com/conda-forge/asimtools-feedstock.git
 	path = feedstocks/asimtools
 	branch = refs/heads/main
+[submodule "mxml"]
+	url = https://github.com/conda-forge/mxml-feedstock.git
+	path = feedstocks/mxml
+	branch = refs/heads/main
