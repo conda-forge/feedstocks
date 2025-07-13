@@ -104494,3 +104494,7 @@
 	url = https://github.com/conda-forge/r-ciftitools-feedstock.git
 	path = feedstocks/r-ciftitools
 	branch = refs/heads/main
+[submodule "r-whirl"]
+	url = https://github.com/conda-forge/r-whirl-feedstock.git
+	path = feedstocks/r-whirl
+	branch = refs/heads/main
