@@ -104502,3 +104502,7 @@
 	url = https://github.com/conda-forge/newuoa-cpp-feedstock.git
 	path = feedstocks/newuoa-cpp
 	branch = refs/heads/main
+[submodule "asimtools"]
+	url = https://github.com/conda-forge/asimtools-feedstock.git
+	path = feedstocks/asimtools
+	branch = refs/heads/main
