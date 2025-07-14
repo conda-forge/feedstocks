@@ -104514,3 +104514,7 @@
 	url = https://github.com/conda-forge/sphinx-llm-feedstock.git
 	path = feedstocks/sphinx-llm
 	branch = refs/heads/main
+[submodule "libzeep"]
+	url = https://github.com/conda-forge/libzeep-feedstock.git
+	path = feedstocks/libzeep
+	branch = refs/heads/main
