@@ -104542,3 +104542,7 @@
 	url = https://github.com/conda-forge/pyvers-feedstock.git
 	path = feedstocks/pyvers
 	branch = refs/heads/main
+[submodule "pyactivestorage"]
+	url = https://github.com/conda-forge/pyactivestorage-feedstock.git
+	path = feedstocks/pyactivestorage
+	branch = refs/heads/main
