@@ -104546,3 +104546,7 @@
 	url = https://github.com/conda-forge/pyactivestorage-feedstock.git
 	path = feedstocks/pyactivestorage
 	branch = refs/heads/main
+[submodule "dbetto"]
+	url = https://github.com/conda-forge/dbetto-feedstock.git
+	path = feedstocks/dbetto
+	branch = refs/heads/main
