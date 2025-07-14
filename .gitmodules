@@ -104538,3 +104538,7 @@
 	url = https://github.com/conda-forge/gdtchron-feedstock.git
 	path = feedstocks/gdtchron
 	branch = refs/heads/main
+[submodule "pyvers"]
+	url = https://github.com/conda-forge/pyvers-feedstock.git
+	path = feedstocks/pyvers
+	branch = refs/heads/main
