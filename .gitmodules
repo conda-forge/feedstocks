@@ -104518,3 +104518,7 @@
 	url = https://github.com/conda-forge/libzeep-feedstock.git
 	path = feedstocks/libzeep
 	branch = refs/heads/main
+[submodule "ever-beta"]
+	url = https://github.com/conda-forge/ever-beta-feedstock.git
+	path = feedstocks/ever-beta
+	branch = refs/heads/main
