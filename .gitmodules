@@ -104522,3 +104522,7 @@
 	url = https://github.com/conda-forge/ever-beta-feedstock.git
 	path = feedstocks/ever-beta
 	branch = refs/heads/main
+[submodule "torchtitan"]
+	url = https://github.com/conda-forge/torchtitan-feedstock.git
+	path = feedstocks/torchtitan
+	branch = refs/heads/main
