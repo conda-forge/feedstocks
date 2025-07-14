@@ -104530,3 +104530,7 @@
 	url = https://github.com/conda-forge/pytest-sphinx-feedstock.git
 	path = feedstocks/pytest-sphinx
 	branch = refs/heads/main
+[submodule "scipyconference"]
+	url = https://github.com/conda-forge/scipyconference-feedstock.git
+	path = feedstocks/scipyconference
+	branch = refs/heads/main
