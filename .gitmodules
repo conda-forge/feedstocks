@@ -104526,3 +104526,7 @@
 	url = https://github.com/conda-forge/torchtitan-feedstock.git
 	path = feedstocks/torchtitan
 	branch = refs/heads/main
+[submodule "pytest-sphinx"]
+	url = https://github.com/conda-forge/pytest-sphinx-feedstock.git
+	path = feedstocks/pytest-sphinx
+	branch = refs/heads/main
