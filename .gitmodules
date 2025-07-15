@@ -104566,3 +104566,7 @@
 	url = https://github.com/conda-forge/together-feedstock.git
 	path = feedstocks/together
 	branch = refs/heads/main
+[submodule "maartens_resource_compiler"]
+	url = https://github.com/conda-forge/maartens_resource_compiler-feedstock.git
+	path = feedstocks/maartens_resource_compiler
+	branch = refs/heads/main
