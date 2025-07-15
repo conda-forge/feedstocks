@@ -104554,3 +104554,7 @@
 	url = https://github.com/conda-forge/pytranskit-feedstock.git
 	path = feedstocks/pytranskit
 	branch = refs/heads/main
+[submodule "napari-pymeshlab"]
+	url = https://github.com/conda-forge/napari-pymeshlab-feedstock.git
+	path = feedstocks/napari-pymeshlab
+	branch = refs/heads/main
