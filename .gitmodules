@@ -104570,3 +104570,7 @@
 	url = https://github.com/conda-forge/maartens_resource_compiler-feedstock.git
 	path = feedstocks/maartens_resource_compiler
 	branch = refs/heads/main
+[submodule "hatch-multi"]
+	url = https://github.com/conda-forge/hatch-multi-feedstock.git
+	path = feedstocks/hatch-multi
+	branch = refs/heads/main
