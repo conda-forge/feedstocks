@@ -104562,3 +104562,7 @@
 	url = https://github.com/conda-forge/r-pharmartf-feedstock.git
 	path = feedstocks/r-pharmartf
 	branch = refs/heads/main
+[submodule "together"]
+	url = https://github.com/conda-forge/together-feedstock.git
+	path = feedstocks/together
+	branch = refs/heads/main
