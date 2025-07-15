@@ -104550,3 +104550,7 @@
 	url = https://github.com/conda-forge/dbetto-feedstock.git
 	path = feedstocks/dbetto
 	branch = refs/heads/main
+[submodule "pytranskit"]
+	url = https://github.com/conda-forge/pytranskit-feedstock.git
+	path = feedstocks/pytranskit
+	branch = refs/heads/main
