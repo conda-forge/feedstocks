@@ -104578,3 +104578,7 @@
 	url = https://github.com/conda-forge/legend-pydataobj-feedstock.git
 	path = feedstocks/legend-pydataobj
 	branch = refs/heads/main
+[submodule "dspeed"]
+	url = https://github.com/conda-forge/dspeed-feedstock.git
+	path = feedstocks/dspeed
+	branch = refs/heads/main
