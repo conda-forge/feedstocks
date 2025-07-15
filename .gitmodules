@@ -104574,3 +104574,7 @@
 	url = https://github.com/conda-forge/hatch-multi-feedstock.git
 	path = feedstocks/hatch-multi
 	branch = refs/heads/main
+[submodule "legend-pydataobj"]
+	url = https://github.com/conda-forge/legend-pydataobj-feedstock.git
+	path = feedstocks/legend-pydataobj
+	branch = refs/heads/main
