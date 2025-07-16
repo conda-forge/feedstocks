@@ -104602,3 +104602,7 @@
 	url = https://github.com/conda-forge/onnxscript-feedstock.git
 	path = feedstocks/onnxscript
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-openai-agents"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-openai-agents-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-openai-agents
+	branch = refs/heads/main
