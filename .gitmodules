@@ -104582,3 +104582,7 @@
 	url = https://github.com/conda-forge/dspeed-feedstock.git
 	path = feedstocks/dspeed
 	branch = refs/heads/main
+[submodule "pylegendmeta"]
+	url = https://github.com/conda-forge/pylegendmeta-feedstock.git
+	path = feedstocks/pylegendmeta
+	branch = refs/heads/main
