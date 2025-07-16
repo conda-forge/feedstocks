@@ -104594,3 +104594,7 @@
 	url = https://github.com/conda-forge/torchange-feedstock.git
 	path = feedstocks/torchange
 	branch = refs/heads/main
+[submodule "onnx-ir"]
+	url = https://github.com/conda-forge/onnx-ir-feedstock.git
+	path = feedstocks/onnx-ir
+	branch = refs/heads/main
