@@ -104598,3 +104598,7 @@
 	url = https://github.com/conda-forge/onnx-ir-feedstock.git
 	path = feedstocks/onnx-ir
 	branch = refs/heads/main
+[submodule "onnxscript"]
+	url = https://github.com/conda-forge/onnxscript-feedstock.git
+	path = feedstocks/onnxscript
+	branch = refs/heads/main
