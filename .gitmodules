@@ -104606,3 +104606,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-openai-agents-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-openai-agents
 	branch = refs/heads/main
+[submodule "nexus-rpc"]
+	url = https://github.com/conda-forge/nexus-rpc-feedstock.git
+	path = feedstocks/nexus-rpc
+	branch = refs/heads/main
