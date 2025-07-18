@@ -104610,3 +104610,7 @@
 	url = https://github.com/conda-forge/nexus-rpc-feedstock.git
 	path = feedstocks/nexus-rpc
 	branch = refs/heads/main
+[submodule "r-admiraldev"]
+	url = https://github.com/conda-forge/r-admiraldev-feedstock.git
+	path = feedstocks/r-admiraldev
+	branch = refs/heads/main
