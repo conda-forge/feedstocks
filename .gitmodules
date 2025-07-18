@@ -104614,3 +104614,7 @@
 	url = https://github.com/conda-forge/r-admiraldev-feedstock.git
 	path = feedstocks/r-admiraldev
 	branch = refs/heads/main
+[submodule "libnvcomp"]
+	url = https://github.com/conda-forge/libnvcomp-feedstock.git
+	path = feedstocks/libnvcomp
+	branch = refs/heads/main
