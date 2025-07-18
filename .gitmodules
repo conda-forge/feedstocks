@@ -104618,3 +104618,7 @@
 	url = https://github.com/conda-forge/libnvcomp-feedstock.git
 	path = feedstocks/libnvcomp
 	branch = refs/heads/main
+[submodule "ligo_hires_gps_time"]
+	url = https://github.com/conda-forge/ligo_hires_gps_time-feedstock.git
+	path = feedstocks/ligo_hires_gps_time
+	branch = refs/heads/main
