@@ -104622,3 +104622,7 @@
 	url = https://github.com/conda-forge/ligo_hires_gps_time-feedstock.git
 	path = feedstocks/ligo_hires_gps_time
 	branch = refs/heads/main
+[submodule "rfc3987-syntax"]
+	url = https://github.com/conda-forge/rfc3987-syntax-feedstock.git
+	path = feedstocks/rfc3987-syntax
+	branch = refs/heads/main
