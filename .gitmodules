@@ -104638,3 +104638,7 @@
 	url = https://github.com/conda-forge/html-to-markdown-feedstock.git
 	path = feedstocks/html-to-markdown
 	branch = refs/heads/main
+[submodule "witty"]
+	url = https://github.com/conda-forge/witty-feedstock.git
+	path = feedstocks/witty
+	branch = refs/heads/main
