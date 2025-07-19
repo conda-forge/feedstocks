@@ -104646,3 +104646,7 @@
 	url = https://github.com/conda-forge/ufs2arco-feedstock.git
 	path = feedstocks/ufs2arco
 	branch = refs/heads/main
+[submodule "diffpy.srfit"]
+	url = https://github.com/conda-forge/diffpy.srfit-feedstock.git
+	path = feedstocks/diffpy.srfit
+	branch = refs/heads/main
