@@ -104630,3 +104630,7 @@
 	url = https://github.com/conda-forge/greedyreg-feedstock.git
 	path = feedstocks/greedyreg
 	branch = refs/heads/main
+[submodule "shutup"]
+	url = https://github.com/conda-forge/shutup-feedstock.git
+	path = feedstocks/shutup
+	branch = refs/heads/main
