@@ -104626,3 +104626,7 @@
 	url = https://github.com/conda-forge/rfc3987-syntax-feedstock.git
 	path = feedstocks/rfc3987-syntax
 	branch = refs/heads/main
+[submodule "greedyreg"]
+	url = https://github.com/conda-forge/greedyreg-feedstock.git
+	path = feedstocks/greedyreg
+	branch = refs/heads/main
