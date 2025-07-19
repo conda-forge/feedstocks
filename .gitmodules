@@ -104634,3 +104634,7 @@
 	url = https://github.com/conda-forge/shutup-feedstock.git
 	path = feedstocks/shutup
 	branch = refs/heads/main
+[submodule "html-to-markdown"]
+	url = https://github.com/conda-forge/html-to-markdown-feedstock.git
+	path = feedstocks/html-to-markdown
+	branch = refs/heads/main
