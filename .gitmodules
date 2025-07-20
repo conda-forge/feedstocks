@@ -104650,3 +104650,7 @@
 	url = https://github.com/conda-forge/diffpy.srfit-feedstock.git
 	path = feedstocks/diffpy.srfit
 	branch = refs/heads/main
+[submodule "functions-framework"]
+	url = https://github.com/conda-forge/functions-framework-feedstock.git
+	path = feedstocks/functions-framework
+	branch = refs/heads/main
