@@ -104666,3 +104666,7 @@
 	url = https://github.com/conda-forge/sphinx-llms-txt-feedstock.git
 	path = feedstocks/sphinx-llms-txt
 	branch = refs/heads/main
+[submodule "trackastra"]
+	url = https://github.com/conda-forge/trackastra-feedstock.git
+	path = feedstocks/trackastra
+	branch = refs/heads/main
