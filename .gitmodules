@@ -104670,3 +104670,7 @@
 	url = https://github.com/conda-forge/trackastra-feedstock.git
 	path = feedstocks/trackastra
 	branch = refs/heads/main
+[submodule "sagemaker-gen-ai-jupyterlab-extension"]
+	url = https://github.com/conda-forge/sagemaker-gen-ai-jupyterlab-extension-feedstock.git
+	path = feedstocks/sagemaker-gen-ai-jupyterlab-extension
+	branch = refs/heads/main
