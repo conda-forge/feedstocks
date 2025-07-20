@@ -104654,3 +104654,7 @@
 	url = https://github.com/conda-forge/functions-framework-feedstock.git
 	path = feedstocks/functions-framework
 	branch = refs/heads/main
+[submodule "cloudevents"]
+	url = https://github.com/conda-forge/cloudevents-feedstock.git
+	path = feedstocks/cloudevents
+	branch = refs/heads/main
