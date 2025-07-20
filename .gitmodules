@@ -104658,3 +104658,7 @@
 	url = https://github.com/conda-forge/cloudevents-feedstock.git
 	path = feedstocks/cloudevents
 	branch = refs/heads/main
+[submodule "aimz"]
+	url = https://github.com/conda-forge/aimz-feedstock.git
+	path = feedstocks/aimz
+	branch = refs/heads/main
