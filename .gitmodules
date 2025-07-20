@@ -104662,3 +104662,7 @@
 	url = https://github.com/conda-forge/aimz-feedstock.git
 	path = feedstocks/aimz
 	branch = refs/heads/main
+[submodule "sphinx-llms-txt"]
+	url = https://github.com/conda-forge/sphinx-llms-txt-feedstock.git
+	path = feedstocks/sphinx-llms-txt
+	branch = refs/heads/main
