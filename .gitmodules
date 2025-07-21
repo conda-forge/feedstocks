@@ -104710,3 +104710,7 @@
 	url = https://github.com/conda-forge/segments-feedstock.git
 	path = feedstocks/segments
 	branch = refs/heads/main
+[submodule "sardana-config"]
+	url = https://github.com/conda-forge/sardana-config-feedstock.git
+	path = feedstocks/sardana-config
+	branch = refs/heads/main
