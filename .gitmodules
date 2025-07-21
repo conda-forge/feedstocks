@@ -104694,3 +104694,7 @@
 	url = https://github.com/conda-forge/csvw-feedstock.git
 	path = feedstocks/csvw
 	branch = refs/heads/main
+[submodule "groovy-python"]
+	url = https://github.com/conda-forge/groovy-python-feedstock.git
+	path = feedstocks/groovy-python
+	branch = refs/heads/main
