@@ -104686,3 +104686,7 @@
 	url = https://github.com/conda-forge/lazyslide-feedstock.git
 	path = feedstocks/lazyslide
 	branch = refs/heads/main
+[submodule "dlinfo"]
+	url = https://github.com/conda-forge/dlinfo-feedstock.git
+	path = feedstocks/dlinfo
+	branch = refs/heads/main
