@@ -104698,3 +104698,7 @@
 	url = https://github.com/conda-forge/groovy-python-feedstock.git
 	path = feedstocks/groovy-python
 	branch = refs/heads/main
+[submodule "sesh"]
+	url = https://github.com/conda-forge/sesh-feedstock.git
+	path = feedstocks/sesh
+	branch = refs/heads/main
