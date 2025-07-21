@@ -104706,3 +104706,7 @@
 	url = https://github.com/conda-forge/conda-self-feedstock.git
 	path = feedstocks/conda-self
 	branch = refs/heads/main
+[submodule "segments"]
+	url = https://github.com/conda-forge/segments-feedstock.git
+	path = feedstocks/segments
+	branch = refs/heads/main
