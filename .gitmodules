@@ -104674,3 +104674,7 @@
 	url = https://github.com/conda-forge/sagemaker-gen-ai-jupyterlab-extension-feedstock.git
 	path = feedstocks/sagemaker-gen-ai-jupyterlab-extension
 	branch = refs/heads/main
+[submodule "misaki"]
+	url = https://github.com/conda-forge/misaki-feedstock.git
+	path = feedstocks/misaki
+	branch = refs/heads/main
