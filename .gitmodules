@@ -104678,3 +104678,7 @@
 	url = https://github.com/conda-forge/misaki-feedstock.git
 	path = feedstocks/misaki
 	branch = refs/heads/main
+[submodule "wsidata"]
+	url = https://github.com/conda-forge/wsidata-feedstock.git
+	path = feedstocks/wsidata
+	branch = refs/heads/main
