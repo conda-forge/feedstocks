@@ -104702,3 +104702,7 @@
 	url = https://github.com/conda-forge/sesh-feedstock.git
 	path = feedstocks/sesh
 	branch = refs/heads/main
+[submodule "conda-self"]
+	url = https://github.com/conda-forge/conda-self-feedstock.git
+	path = feedstocks/conda-self
+	branch = refs/heads/main
