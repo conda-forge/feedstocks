@@ -104690,3 +104690,7 @@
 	url = https://github.com/conda-forge/dlinfo-feedstock.git
 	path = feedstocks/dlinfo
 	branch = refs/heads/main
+[submodule "csvw"]
+	url = https://github.com/conda-forge/csvw-feedstock.git
+	path = feedstocks/csvw
+	branch = refs/heads/main
