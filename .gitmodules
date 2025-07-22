@@ -104722,3 +104722,7 @@
 	url = https://github.com/conda-forge/phonemizer-fork-feedstock.git
 	path = feedstocks/phonemizer-fork
 	branch = refs/heads/main
+[submodule "spz"]
+	url = https://github.com/conda-forge/spz-feedstock.git
+	path = feedstocks/spz
+	branch = refs/heads/main
