@@ -104718,3 +104718,7 @@
 	url = https://github.com/conda-forge/r-admiral-feedstock.git
 	path = feedstocks/r-admiral
 	branch = refs/heads/main
+[submodule "phonemizer-fork"]
+	url = https://github.com/conda-forge/phonemizer-fork-feedstock.git
+	path = feedstocks/phonemizer-fork
+	branch = refs/heads/main
