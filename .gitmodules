@@ -104714,3 +104714,7 @@
 	url = https://github.com/conda-forge/sardana-config-feedstock.git
 	path = feedstocks/sardana-config
 	branch = refs/heads/main
+[submodule "r-admiral"]
+	url = https://github.com/conda-forge/r-admiral-feedstock.git
+	path = feedstocks/r-admiral
+	branch = refs/heads/main
