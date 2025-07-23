@@ -104742,3 +104742,7 @@
 	url = https://github.com/conda-forge/pybasemkit-feedstock.git
 	path = feedstocks/pybasemkit
 	branch = refs/heads/main
+[submodule "grpc-bazel-rules"]
+	url = https://github.com/conda-forge/grpc-bazel-rules-feedstock.git
+	path = feedstocks/grpc-bazel-rules
+	branch = refs/heads/main
