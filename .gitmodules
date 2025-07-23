@@ -104734,3 +104734,7 @@
 	url = https://github.com/conda-forge/nexus2srs-feedstock.git
 	path = feedstocks/nexus2srs
 	branch = refs/heads/main
+[submodule "biapy"]
+	url = https://github.com/conda-forge/biapy-feedstock.git
+	path = feedstocks/biapy
+	branch = refs/heads/main
