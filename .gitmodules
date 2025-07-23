@@ -104730,3 +104730,7 @@
 	url = https://github.com/conda-forge/xsdata-pydantic-feedstock.git
 	path = feedstocks/xsdata-pydantic
 	branch = refs/heads/main
+[submodule "nexus2srs"]
+	url = https://github.com/conda-forge/nexus2srs-feedstock.git
+	path = feedstocks/nexus2srs
+	branch = refs/heads/main
