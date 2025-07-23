@@ -104738,3 +104738,7 @@
 	url = https://github.com/conda-forge/biapy-feedstock.git
 	path = feedstocks/biapy
 	branch = refs/heads/main
+[submodule "pybasemkit"]
+	url = https://github.com/conda-forge/pybasemkit-feedstock.git
+	path = feedstocks/pybasemkit
+	branch = refs/heads/main
