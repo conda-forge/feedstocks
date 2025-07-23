@@ -104726,3 +104726,7 @@
 	url = https://github.com/conda-forge/spz-feedstock.git
 	path = feedstocks/spz
 	branch = refs/heads/main
+[submodule "xsdata-pydantic"]
+	url = https://github.com/conda-forge/xsdata-pydantic-feedstock.git
+	path = feedstocks/xsdata-pydantic
+	branch = refs/heads/main
