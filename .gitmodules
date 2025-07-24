@@ -104766,3 +104766,7 @@
 	url = https://github.com/conda-forge/tree-sitter-sql-feedstock.git
 	path = feedstocks/tree-sitter-sql
 	branch = refs/heads/main
+[submodule "cyclebane"]
+	url = https://github.com/conda-forge/cyclebane-feedstock.git
+	path = feedstocks/cyclebane
+	branch = refs/heads/main
