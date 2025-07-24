@@ -104778,3 +104778,7 @@
 	url = https://github.com/conda-forge/cuda-pathfinder-feedstock.git
 	path = feedstocks/cuda-pathfinder
 	branch = refs/heads/main
+[submodule "sciline"]
+	url = https://github.com/conda-forge/sciline-feedstock.git
+	path = feedstocks/sciline
+	branch = refs/heads/main
