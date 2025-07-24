@@ -104782,3 +104782,7 @@
 	url = https://github.com/conda-forge/sciline-feedstock.git
 	path = feedstocks/sciline
 	branch = refs/heads/main
+[submodule "essreduce"]
+	url = https://github.com/conda-forge/essreduce-feedstock.git
+	path = feedstocks/essreduce
+	branch = refs/heads/main
