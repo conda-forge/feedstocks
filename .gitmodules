@@ -104746,3 +104746,7 @@
 	url = https://github.com/conda-forge/grpc-bazel-rules-feedstock.git
 	path = feedstocks/grpc-bazel-rules
 	branch = refs/heads/main
+[submodule "cargo-zigbuild"]
+	url = https://github.com/conda-forge/cargo-zigbuild-feedstock.git
+	path = feedstocks/cargo-zigbuild
+	branch = refs/heads/main
