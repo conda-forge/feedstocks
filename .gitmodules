@@ -104762,3 +104762,7 @@
 	url = https://github.com/conda-forge/hydra-joblib-launcher-feedstock.git
 	path = feedstocks/hydra-joblib-launcher
 	branch = refs/heads/main
+[submodule "tree-sitter-sql"]
+	url = https://github.com/conda-forge/tree-sitter-sql-feedstock.git
+	path = feedstocks/tree-sitter-sql
+	branch = refs/heads/main
