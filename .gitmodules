@@ -104758,3 +104758,7 @@
 	url = https://github.com/conda-forge/backports.asyncio.runner-feedstock.git
 	path = feedstocks/backports.asyncio.runner
 	branch = refs/heads/main
+[submodule "hydra-joblib-launcher"]
+	url = https://github.com/conda-forge/hydra-joblib-launcher-feedstock.git
+	path = feedstocks/hydra-joblib-launcher
+	branch = refs/heads/main
