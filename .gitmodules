@@ -104774,3 +104774,7 @@
 	url = https://github.com/conda-forge/scippneutron-feedstock.git
 	path = feedstocks/scippneutron
 	branch = refs/heads/main
+[submodule "cuda-pathfinder"]
+	url = https://github.com/conda-forge/cuda-pathfinder-feedstock.git
+	path = feedstocks/cuda-pathfinder
+	branch = refs/heads/main
