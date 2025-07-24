@@ -104750,3 +104750,7 @@
 	url = https://github.com/conda-forge/cargo-zigbuild-feedstock.git
 	path = feedstocks/cargo-zigbuild
 	branch = refs/heads/main
+[submodule "gocryptfs"]
+	url = https://github.com/conda-forge/gocryptfs-feedstock.git
+	path = feedstocks/gocryptfs
+	branch = refs/heads/main
