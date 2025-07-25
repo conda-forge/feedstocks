@@ -104830,3 +104830,7 @@
 	url = https://github.com/conda-forge/chexus-feedstock.git
 	path = feedstocks/chexus
 	branch = refs/heads/main
+[submodule "essimaging"]
+	url = https://github.com/conda-forge/essimaging-feedstock.git
+	path = feedstocks/essimaging
+	branch = refs/heads/main
