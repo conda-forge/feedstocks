@@ -104838,3 +104838,7 @@
 	url = https://github.com/conda-forge/essdiffraction-feedstock.git
 	path = feedstocks/essdiffraction
 	branch = refs/heads/main
+[submodule "esssans"]
+	url = https://github.com/conda-forge/esssans-feedstock.git
+	path = feedstocks/esssans
+	branch = refs/heads/main
