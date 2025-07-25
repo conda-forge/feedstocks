@@ -104862,3 +104862,7 @@
 	url = https://github.com/conda-forge/mattergen-feedstock.git
 	path = feedstocks/mattergen
 	branch = refs/heads/main
+[submodule "paper-qa-pypdf"]
+	url = https://github.com/conda-forge/paper-qa-pypdf-feedstock.git
+	path = feedstocks/paper-qa-pypdf
+	branch = refs/heads/main
