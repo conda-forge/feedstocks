@@ -104874,3 +104874,7 @@
 	url = https://github.com/conda-forge/pvxs-feedstock.git
 	path = feedstocks/pvxs
 	branch = refs/heads/main
+[submodule "ct3"]
+	url = https://github.com/conda-forge/ct3-feedstock.git
+	path = feedstocks/ct3
+	branch = refs/heads/main
