@@ -104806,3 +104806,7 @@
 	url = https://github.com/conda-forge/pixi-build-python-feedstock.git
 	path = feedstocks/pixi-build-python
 	branch = refs/heads/main
+[submodule "pixi-build-rattler-build"]
+	url = https://github.com/conda-forge/pixi-build-rattler-build-feedstock.git
+	path = feedstocks/pixi-build-rattler-build
+	branch = refs/heads/main
