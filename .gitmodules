@@ -104794,3 +104794,7 @@
 	url = https://github.com/conda-forge/pixi-build-rust-feedstock.git
 	path = feedstocks/pixi-build-rust
 	branch = refs/heads/main
+[submodule "pixi-build-api-version"]
+	url = https://github.com/conda-forge/pixi-build-api-version-feedstock.git
+	path = feedstocks/pixi-build-api-version
+	branch = refs/heads/main
