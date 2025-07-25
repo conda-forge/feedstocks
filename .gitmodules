@@ -104810,3 +104810,7 @@
 	url = https://github.com/conda-forge/pixi-build-rattler-build-feedstock.git
 	path = feedstocks/pixi-build-rattler-build
 	branch = refs/heads/main
+[submodule "weightwatcher"]
+	url = https://github.com/conda-forge/weightwatcher-feedstock.git
+	path = feedstocks/weightwatcher
+	branch = refs/heads/main
