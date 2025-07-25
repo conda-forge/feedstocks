@@ -104790,3 +104790,7 @@
 	url = https://github.com/conda-forge/atlasopenmagic-feedstock.git
 	path = feedstocks/atlasopenmagic
 	branch = refs/heads/main
+[submodule "pixi-build-rust"]
+	url = https://github.com/conda-forge/pixi-build-rust-feedstock.git
+	path = feedstocks/pixi-build-rust
+	branch = refs/heads/main
