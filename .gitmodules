@@ -104842,3 +104842,7 @@
 	url = https://github.com/conda-forge/esssans-feedstock.git
 	path = feedstocks/esssans
 	branch = refs/heads/main
+[submodule "essspectroscopy"]
+	url = https://github.com/conda-forge/essspectroscopy-feedstock.git
+	path = feedstocks/essspectroscopy
+	branch = refs/heads/main
