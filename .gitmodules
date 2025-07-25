@@ -104826,3 +104826,7 @@
 	url = https://github.com/conda-forge/esspolarization-feedstock.git
 	path = feedstocks/esspolarization
 	branch = refs/heads/main
+[submodule "chexus"]
+	url = https://github.com/conda-forge/chexus-feedstock.git
+	path = feedstocks/chexus
+	branch = refs/heads/main
