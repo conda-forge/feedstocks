@@ -104850,3 +104850,7 @@
 	url = https://github.com/conda-forge/essreflectometry-feedstock.git
 	path = feedstocks/essreflectometry
 	branch = refs/heads/main
+[submodule "darabonba-core"]
+	url = https://github.com/conda-forge/darabonba-core-feedstock.git
+	path = feedstocks/darabonba-core
+	branch = refs/heads/main
