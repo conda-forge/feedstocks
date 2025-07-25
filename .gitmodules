@@ -104814,3 +104814,7 @@
 	url = https://github.com/conda-forge/weightwatcher-feedstock.git
 	path = feedstocks/weightwatcher
 	branch = refs/heads/main
+[submodule "mpl-data-containers"]
+	url = https://github.com/conda-forge/mpl-data-containers-feedstock.git
+	path = feedstocks/mpl-data-containers
+	branch = refs/heads/main
