@@ -104798,3 +104798,7 @@
 	url = https://github.com/conda-forge/pixi-build-api-version-feedstock.git
 	path = feedstocks/pixi-build-api-version
 	branch = refs/heads/main
+[submodule "pixi-build-cmake"]
+	url = https://github.com/conda-forge/pixi-build-cmake-feedstock.git
+	path = feedstocks/pixi-build-cmake
+	branch = refs/heads/main
