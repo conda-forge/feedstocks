@@ -104878,3 +104878,7 @@
 	url = https://github.com/conda-forge/ct3-feedstock.git
 	path = feedstocks/ct3
 	branch = refs/heads/main
+[submodule "zhconv"]
+	url = https://github.com/conda-forge/zhconv-feedstock.git
+	path = feedstocks/zhconv
+	branch = refs/heads/main
