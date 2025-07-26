@@ -104882,3 +104882,7 @@
 	url = https://github.com/conda-forge/zhconv-feedstock.git
 	path = feedstocks/zhconv
 	branch = refs/heads/main
+[submodule "scoringrules"]
+	url = https://github.com/conda-forge/scoringrules-feedstock.git
+	path = feedstocks/scoringrules
+	branch = refs/heads/main
