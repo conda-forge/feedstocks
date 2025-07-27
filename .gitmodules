@@ -104886,3 +104886,7 @@
 	url = https://github.com/conda-forge/scoringrules-feedstock.git
 	path = feedstocks/scoringrules
 	branch = refs/heads/main
+[submodule "fandango"]
+	url = https://github.com/conda-forge/fandango-feedstock.git
+	path = feedstocks/fandango
+	branch = refs/heads/main
