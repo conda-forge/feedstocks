@@ -104898,3 +104898,7 @@
 	url = https://github.com/conda-forge/copyparty-feedstock.git
 	path = feedstocks/copyparty
 	branch = refs/heads/main
+[submodule "tinyio"]
+	url = https://github.com/conda-forge/tinyio-feedstock.git
+	path = feedstocks/tinyio
+	branch = refs/heads/main
