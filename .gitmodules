@@ -104902,3 +104902,7 @@
 	url = https://github.com/conda-forge/tinyio-feedstock.git
 	path = feedstocks/tinyio
 	branch = refs/heads/main
+[submodule "r-snowflakeauth"]
+	url = https://github.com/conda-forge/r-snowflakeauth-feedstock.git
+	path = feedstocks/r-snowflakeauth
+	branch = refs/heads/main
