@@ -104938,3 +104938,7 @@
 	url = https://github.com/conda-forge/pyrmt-feedstock.git
 	path = feedstocks/pyrmt
 	branch = refs/heads/main
+[submodule "vllm"]
+	url = https://github.com/conda-forge/vllm-feedstock.git
+	path = feedstocks/vllm
+	branch = refs/heads/main
