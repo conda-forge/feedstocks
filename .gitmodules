@@ -104918,3 +104918,7 @@
 	url = https://github.com/conda-forge/django-csp-feedstock.git
 	path = feedstocks/django-csp
 	branch = refs/heads/main
+[submodule "mozilla-django-oidc"]
+	url = https://github.com/conda-forge/mozilla-django-oidc-feedstock.git
+	path = feedstocks/mozilla-django-oidc
+	branch = refs/heads/main
