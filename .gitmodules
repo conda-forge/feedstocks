@@ -104934,3 +104934,7 @@
 	url = https://github.com/conda-forge/jaxns-feedstock.git
 	path = feedstocks/jaxns
 	branch = refs/heads/main
+[submodule "pyrmt"]
+	url = https://github.com/conda-forge/pyrmt-feedstock.git
+	path = feedstocks/pyrmt
+	branch = refs/heads/main
