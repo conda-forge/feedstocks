@@ -104914,3 +104914,7 @@
 	url = https://github.com/conda-forge/modelscope-feedstock.git
 	path = feedstocks/modelscope
 	branch = refs/heads/main
+[submodule "django-csp"]
+	url = https://github.com/conda-forge/django-csp-feedstock.git
+	path = feedstocks/django-csp
+	branch = refs/heads/main
