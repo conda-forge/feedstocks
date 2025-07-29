@@ -104910,3 +104910,7 @@
 	url = https://github.com/conda-forge/r-flexparamcurve-feedstock.git
 	path = feedstocks/r-flexparamcurve
 	branch = refs/heads/main
+[submodule "modelscope"]
+	url = https://github.com/conda-forge/modelscope-feedstock.git
+	path = feedstocks/modelscope
+	branch = refs/heads/main
