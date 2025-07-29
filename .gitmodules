@@ -104922,3 +104922,7 @@
 	url = https://github.com/conda-forge/mozilla-django-oidc-feedstock.git
 	path = feedstocks/mozilla-django-oidc
 	branch = refs/heads/main
+[submodule "synthatdelays"]
+	url = https://github.com/conda-forge/synthatdelays-feedstock.git
+	path = feedstocks/synthatdelays
+	branch = refs/heads/main
