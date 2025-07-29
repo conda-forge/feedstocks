@@ -104930,3 +104930,7 @@
 	url = https://github.com/conda-forge/flowrep-feedstock.git
 	path = feedstocks/flowrep
 	branch = refs/heads/main
+[submodule "jaxns"]
+	url = https://github.com/conda-forge/jaxns-feedstock.git
+	path = feedstocks/jaxns
+	branch = refs/heads/main
