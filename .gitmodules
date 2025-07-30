@@ -104958,3 +104958,7 @@
 	url = https://github.com/conda-forge/r-kernelshap-feedstock.git
 	path = feedstocks/r-kernelshap
 	branch = refs/heads/main
+[submodule "prefect-azure"]
+	url = https://github.com/conda-forge/prefect-azure-feedstock.git
+	path = feedstocks/prefect-azure
+	branch = refs/heads/main
