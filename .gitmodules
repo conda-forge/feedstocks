@@ -104962,3 +104962,7 @@
 	url = https://github.com/conda-forge/prefect-azure-feedstock.git
 	path = feedstocks/prefect-azure
 	branch = refs/heads/main
+[submodule "xarray-dataclass"]
+	url = https://github.com/conda-forge/xarray-dataclass-feedstock.git
+	path = feedstocks/xarray-dataclass
+	branch = refs/heads/main
