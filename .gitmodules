@@ -104946,3 +104946,7 @@
 	url = https://github.com/conda-forge/r-gdalraster-feedstock.git
 	path = feedstocks/r-gdalraster
 	branch = refs/heads/main
+[submodule "r-legendry"]
+	url = https://github.com/conda-forge/r-legendry-feedstock.git
+	path = feedstocks/r-legendry
+	branch = refs/heads/main
