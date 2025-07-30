@@ -104954,3 +104954,7 @@
 	url = https://github.com/conda-forge/pyrxiv-feedstock.git
 	path = feedstocks/pyrxiv
 	branch = refs/heads/main
+[submodule "r-kernelshap"]
+	url = https://github.com/conda-forge/r-kernelshap-feedstock.git
+	path = feedstocks/r-kernelshap
+	branch = refs/heads/main
