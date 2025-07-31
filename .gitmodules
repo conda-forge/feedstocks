@@ -104978,3 +104978,7 @@
 	url = https://github.com/conda-forge/tfv_get_tools-feedstock.git
 	path = feedstocks/tfv_get_tools
 	branch = refs/heads/main
+[submodule "pysonar"]
+	url = https://github.com/conda-forge/pysonar-feedstock.git
+	path = feedstocks/pysonar
+	branch = refs/heads/main
