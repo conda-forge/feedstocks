@@ -104974,3 +104974,7 @@
 	url = https://github.com/conda-forge/pax-feedstock.git
 	path = feedstocks/pax
 	branch = refs/heads/main
+[submodule "tfv_get_tools"]
+	url = https://github.com/conda-forge/tfv_get_tools-feedstock.git
+	path = feedstocks/tfv_get_tools
+	branch = refs/heads/main
