@@ -104982,3 +104982,7 @@
 	url = https://github.com/conda-forge/pysonar-feedstock.git
 	path = feedstocks/pysonar
 	branch = refs/heads/main
+[submodule "quak"]
+	url = https://github.com/conda-forge/quak-feedstock.git
+	path = feedstocks/quak
+	branch = refs/heads/main
