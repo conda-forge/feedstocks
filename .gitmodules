@@ -105010,3 +105010,7 @@
 	url = https://github.com/conda-forge/paktxt-feedstock.git
 	path = feedstocks/paktxt
 	branch = refs/heads/main
+[submodule "ouroboros-gis"]
+	url = https://github.com/conda-forge/ouroboros-gis-feedstock.git
+	path = feedstocks/ouroboros-gis
+	branch = refs/heads/main
