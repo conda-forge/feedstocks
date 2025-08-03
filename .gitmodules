@@ -104998,3 +104998,7 @@
 	url = https://github.com/conda-forge/karney-feedstock.git
 	path = feedstocks/karney
 	branch = refs/heads/main
+[submodule "mkdocs-llmstxt"]
+	url = https://github.com/conda-forge/mkdocs-llmstxt-feedstock.git
+	path = feedstocks/mkdocs-llmstxt
+	branch = refs/heads/main
