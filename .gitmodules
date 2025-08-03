@@ -104986,3 +104986,7 @@
 	url = https://github.com/conda-forge/quak-feedstock.git
 	path = feedstocks/quak
 	branch = refs/heads/main
+[submodule "r-quitefastmst"]
+	url = https://github.com/conda-forge/r-quitefastmst-feedstock.git
+	path = feedstocks/r-quitefastmst
+	branch = refs/heads/main
