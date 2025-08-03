@@ -104994,3 +104994,7 @@
 	url = https://github.com/conda-forge/secretinit-feedstock.git
 	path = feedstocks/secretinit
 	branch = refs/heads/main
+[submodule "karney"]
+	url = https://github.com/conda-forge/karney-feedstock.git
+	path = feedstocks/karney
+	branch = refs/heads/main
