@@ -105054,3 +105054,7 @@
 	url = https://github.com/conda-forge/wrapspawner-feedstock.git
 	path = feedstocks/wrapspawner
 	branch = refs/heads/main
+[submodule "cuda-culibos"]
+	url = https://github.com/conda-forge/cuda-culibos-feedstock.git
+	path = feedstocks/cuda-culibos
+	branch = refs/heads/main
