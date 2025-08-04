@@ -105038,3 +105038,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-click-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-click
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-tortoiseorm"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-tortoiseorm-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-tortoiseorm
+	branch = refs/heads/main
