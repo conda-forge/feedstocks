@@ -105014,3 +105014,7 @@
 	url = https://github.com/conda-forge/ouroboros-gis-feedstock.git
 	path = feedstocks/ouroboros-gis
 	branch = refs/heads/main
+[submodule "langextract"]
+	url = https://github.com/conda-forge/langextract-feedstock.git
+	path = feedstocks/langextract
+	branch = refs/heads/main
