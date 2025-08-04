@@ -105046,3 +105046,7 @@
 	url = https://github.com/conda-forge/nvector-feedstock.git
 	path = feedstocks/nvector
 	branch = refs/heads/main
+[submodule "vidigi"]
+	url = https://github.com/conda-forge/vidigi-feedstock.git
+	path = feedstocks/vidigi
+	branch = refs/heads/main
