@@ -105050,3 +105050,7 @@
 	url = https://github.com/conda-forge/vidigi-feedstock.git
 	path = feedstocks/vidigi
 	branch = refs/heads/main
+[submodule "wrapspawner"]
+	url = https://github.com/conda-forge/wrapspawner-feedstock.git
+	path = feedstocks/wrapspawner
+	branch = refs/heads/main
