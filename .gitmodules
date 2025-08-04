@@ -105030,3 +105030,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-boto3sqs-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-boto3sqs
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-asyncio"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-asyncio-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-asyncio
+	branch = refs/heads/main
