@@ -105034,3 +105034,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-asyncio-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-asyncio
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-click"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-click-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-click
+	branch = refs/heads/main
