@@ -105058,3 +105058,7 @@
 	url = https://github.com/conda-forge/cuda-culibos-feedstock.git
 	path = feedstocks/cuda-culibos
 	branch = refs/heads/main
+[submodule "cuda-ctadvisor"]
+	url = https://github.com/conda-forge/cuda-ctadvisor-feedstock.git
+	path = feedstocks/cuda-ctadvisor
+	branch = refs/heads/main
