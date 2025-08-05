@@ -105066,3 +105066,7 @@
 	url = https://github.com/conda-forge/anychange-feedstock.git
 	path = feedstocks/anychange
 	branch = refs/heads/main
+[submodule "file-read-backwards"]
+	url = https://github.com/conda-forge/file-read-backwards-feedstock.git
+	path = feedstocks/file-read-backwards
+	branch = refs/heads/main
