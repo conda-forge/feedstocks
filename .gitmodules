@@ -105078,3 +105078,7 @@
 	url = https://github.com/conda-forge/pixi-build-mojo-feedstock.git
 	path = feedstocks/pixi-build-mojo
 	branch = refs/heads/main
+[submodule "plant"]
+	url = https://github.com/conda-forge/plant-feedstock.git
+	path = feedstocks/plant
+	branch = refs/heads/main
