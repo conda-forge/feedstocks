@@ -105074,3 +105074,7 @@
 	url = https://github.com/conda-forge/aiowebdav2-feedstock.git
 	path = feedstocks/aiowebdav2
 	branch = refs/heads/main
+[submodule "pixi-build-mojo"]
+	url = https://github.com/conda-forge/pixi-build-mojo-feedstock.git
+	path = feedstocks/pixi-build-mojo
+	branch = refs/heads/main
