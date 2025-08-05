@@ -105070,3 +105070,7 @@
 	url = https://github.com/conda-forge/file-read-backwards-feedstock.git
 	path = feedstocks/file-read-backwards
 	branch = refs/heads/main
+[submodule "aiowebdav2"]
+	url = https://github.com/conda-forge/aiowebdav2-feedstock.git
+	path = feedstocks/aiowebdav2
+	branch = refs/heads/main
