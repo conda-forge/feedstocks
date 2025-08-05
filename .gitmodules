@@ -105062,3 +105062,7 @@
 	url = https://github.com/conda-forge/cuda-ctadvisor-feedstock.git
 	path = feedstocks/cuda-ctadvisor
 	branch = refs/heads/main
+[submodule "anychange"]
+	url = https://github.com/conda-forge/anychange-feedstock.git
+	path = feedstocks/anychange
+	branch = refs/heads/main
