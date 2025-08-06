@@ -105094,3 +105094,7 @@
 	url = https://github.com/conda-forge/nanonis-xarray-feedstock.git
 	path = feedstocks/nanonis-xarray
 	branch = refs/heads/main
+[submodule "fps-file-watcher-poll"]
+	url = https://github.com/conda-forge/fps-file-watcher-poll-feedstock.git
+	path = feedstocks/fps-file-watcher-poll
+	branch = refs/heads/main
