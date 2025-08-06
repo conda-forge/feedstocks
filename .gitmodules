@@ -105110,3 +105110,7 @@
 	url = https://github.com/conda-forge/esmvaltool-sample-data-feedstock.git
 	path = feedstocks/esmvaltool-sample-data
 	branch = refs/heads/main
+[submodule "plant-isce3"]
+	url = https://github.com/conda-forge/plant-isce3-feedstock.git
+	path = feedstocks/plant-isce3
+	branch = refs/heads/main
