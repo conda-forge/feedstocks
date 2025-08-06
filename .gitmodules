@@ -105098,3 +105098,7 @@
 	url = https://github.com/conda-forge/fps-file-watcher-poll-feedstock.git
 	path = feedstocks/fps-file-watcher-poll
 	branch = refs/heads/main
+[submodule "fps-file-watcher"]
+	url = https://github.com/conda-forge/fps-file-watcher-feedstock.git
+	path = feedstocks/fps-file-watcher
+	branch = refs/heads/main
