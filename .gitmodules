@@ -105102,3 +105102,7 @@
 	url = https://github.com/conda-forge/fps-file-watcher-feedstock.git
 	path = feedstocks/fps-file-watcher
 	branch = refs/heads/main
+[submodule "xdg-dbus-proxy"]
+	url = https://github.com/conda-forge/xdg-dbus-proxy-feedstock.git
+	path = feedstocks/xdg-dbus-proxy
+	branch = refs/heads/main
