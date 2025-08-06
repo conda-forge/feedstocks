@@ -105082,3 +105082,7 @@
 	url = https://github.com/conda-forge/plant-feedstock.git
 	path = feedstocks/plant
 	branch = refs/heads/main
+[submodule "prefligit"]
+	url = https://github.com/conda-forge/prefligit-feedstock.git
+	path = feedstocks/prefligit
+	branch = refs/heads/main
