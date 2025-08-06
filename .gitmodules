@@ -105086,3 +105086,7 @@
 	url = https://github.com/conda-forge/prefligit-feedstock.git
 	path = feedstocks/prefligit
 	branch = refs/heads/main
+[submodule "font-ttf-opensans"]
+	url = https://github.com/conda-forge/font-ttf-opensans-feedstock.git
+	path = feedstocks/font-ttf-opensans
+	branch = refs/heads/main
