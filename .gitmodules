@@ -105106,3 +105106,7 @@
 	url = https://github.com/conda-forge/xdg-dbus-proxy-feedstock.git
 	path = feedstocks/xdg-dbus-proxy
 	branch = refs/heads/main
+[submodule "esmvaltool-sample-data"]
+	url = https://github.com/conda-forge/esmvaltool-sample-data-feedstock.git
+	path = feedstocks/esmvaltool-sample-data
+	branch = refs/heads/main
