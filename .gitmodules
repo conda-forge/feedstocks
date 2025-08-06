@@ -105114,3 +105114,7 @@
 	url = https://github.com/conda-forge/plant-isce3-feedstock.git
 	path = feedstocks/plant-isce3
 	branch = refs/heads/main
+[submodule "hatch-rs"]
+	url = https://github.com/conda-forge/hatch-rs-feedstock.git
+	path = feedstocks/hatch-rs
+	branch = refs/heads/main
