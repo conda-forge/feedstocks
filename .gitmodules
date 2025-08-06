@@ -105130,3 +105130,7 @@
 	url = https://github.com/conda-forge/hatch-js-feedstock.git
 	path = feedstocks/hatch-js
 	branch = refs/heads/main
+[submodule "excel-mcp-server"]
+	url = https://github.com/conda-forge/excel-mcp-server-feedstock.git
+	path = feedstocks/excel-mcp-server
+	branch = refs/heads/main
