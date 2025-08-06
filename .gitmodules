@@ -105118,3 +105118,7 @@
 	url = https://github.com/conda-forge/hatch-rs-feedstock.git
 	path = feedstocks/hatch-rs
 	branch = refs/heads/main
+[submodule "hatch-rust"]
+	url = https://github.com/conda-forge/hatch-rust-feedstock.git
+	path = feedstocks/hatch-rust
+	branch = refs/heads/main
