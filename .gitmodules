@@ -105126,3 +105126,7 @@
 	url = https://github.com/conda-forge/hatch-javascript-feedstock.git
 	path = feedstocks/hatch-javascript
 	branch = refs/heads/main
+[submodule "hatch-js"]
+	url = https://github.com/conda-forge/hatch-js-feedstock.git
+	path = feedstocks/hatch-js
+	branch = refs/heads/main
