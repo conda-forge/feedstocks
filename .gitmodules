@@ -105142,3 +105142,7 @@
 	url = https://github.com/conda-forge/planet-auth-feedstock.git
 	path = feedstocks/planet-auth
 	branch = refs/heads/main
+[submodule "pyqrcode"]
+	url = https://github.com/conda-forge/pyqrcode-feedstock.git
+	path = feedstocks/pyqrcode
+	branch = refs/heads/main
