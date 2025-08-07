@@ -105134,3 +105134,7 @@
 	url = https://github.com/conda-forge/excel-mcp-server-feedstock.git
 	path = feedstocks/excel-mcp-server
 	branch = refs/heads/main
+[submodule "crush"]
+	url = https://github.com/conda-forge/crush-feedstock.git
+	path = feedstocks/crush
+	branch = refs/heads/main
