@@ -105138,3 +105138,7 @@
 	url = https://github.com/conda-forge/crush-feedstock.git
 	path = feedstocks/crush
 	branch = refs/heads/main
+[submodule "planet-auth"]
+	url = https://github.com/conda-forge/planet-auth-feedstock.git
+	path = feedstocks/planet-auth
+	branch = refs/heads/main
