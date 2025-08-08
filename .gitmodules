@@ -105154,3 +105154,7 @@
 	url = https://github.com/conda-forge/sqlcl-feedstock.git
 	path = feedstocks/sqlcl
 	branch = refs/heads/main
+[submodule "python-cvmfsutils"]
+	url = https://github.com/conda-forge/python-cvmfsutils-feedstock.git
+	path = feedstocks/python-cvmfsutils
+	branch = refs/heads/main
