@@ -105162,3 +105162,7 @@
 	url = https://github.com/conda-forge/anesthetic-feedstock.git
 	path = feedstocks/anesthetic
 	branch = refs/heads/main
+[submodule "pathfinder2e-stats"]
+	url = https://github.com/conda-forge/pathfinder2e-stats-feedstock.git
+	path = feedstocks/pathfinder2e-stats
+	branch = refs/heads/main
