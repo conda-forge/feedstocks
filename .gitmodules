@@ -105146,3 +105146,7 @@
 	url = https://github.com/conda-forge/pyqrcode-feedstock.git
 	path = feedstocks/pyqrcode
 	branch = refs/heads/main
+[submodule "physo"]
+	url = https://github.com/conda-forge/physo-feedstock.git
+	path = feedstocks/physo
+	branch = refs/heads/main
