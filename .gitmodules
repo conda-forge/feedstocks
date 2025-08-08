@@ -105158,3 +105158,7 @@
 	url = https://github.com/conda-forge/python-cvmfsutils-feedstock.git
 	path = feedstocks/python-cvmfsutils
 	branch = refs/heads/main
+[submodule "anesthetic"]
+	url = https://github.com/conda-forge/anesthetic-feedstock.git
+	path = feedstocks/anesthetic
+	branch = refs/heads/main
