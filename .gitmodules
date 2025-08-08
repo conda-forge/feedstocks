@@ -105150,3 +105150,7 @@
 	url = https://github.com/conda-forge/physo-feedstock.git
 	path = feedstocks/physo
 	branch = refs/heads/main
+[submodule "sqlcl"]
+	url = https://github.com/conda-forge/sqlcl-feedstock.git
+	path = feedstocks/sqlcl
+	branch = refs/heads/main
