@@ -105170,3 +105170,7 @@
 	url = https://github.com/conda-forge/so4gp-feedstock.git
 	path = feedstocks/so4gp
 	branch = refs/heads/main
+[submodule "instantclient-basiclite"]
+	url = https://github.com/conda-forge/instantclient-basiclite-feedstock.git
+	path = feedstocks/instantclient-basiclite
+	branch = refs/heads/main
