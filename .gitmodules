@@ -105194,3 +105194,7 @@
 	url = https://github.com/conda-forge/tardigrade_error_tools-feedstock.git
 	path = feedstocks/tardigrade_error_tools
 	branch = refs/heads/main
+[submodule "am3"]
+	url = https://github.com/conda-forge/am3-feedstock.git
+	path = feedstocks/am3
+	branch = refs/heads/main
