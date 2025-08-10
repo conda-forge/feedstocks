@@ -105190,3 +105190,7 @@
 	url = https://github.com/conda-forge/pymaxspots-feedstock.git
 	path = feedstocks/pymaxspots
 	branch = refs/heads/main
+[submodule "tardigrade_error_tools"]
+	url = https://github.com/conda-forge/tardigrade_error_tools-feedstock.git
+	path = feedstocks/tardigrade_error_tools
+	branch = refs/heads/main
