@@ -105178,3 +105178,7 @@
 	url = https://github.com/conda-forge/pals-schema-feedstock.git
 	path = feedstocks/pals-schema
 	branch = refs/heads/main
+[submodule "torchvista"]
+	url = https://github.com/conda-forge/torchvista-feedstock.git
+	path = feedstocks/torchvista
+	branch = refs/heads/main
