@@ -105186,3 +105186,7 @@
 	url = https://github.com/conda-forge/sgtlib-feedstock.git
 	path = feedstocks/sgtlib
 	branch = refs/heads/main
+[submodule "pymaxspots"]
+	url = https://github.com/conda-forge/pymaxspots-feedstock.git
+	path = feedstocks/pymaxspots
+	branch = refs/heads/main
