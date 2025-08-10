@@ -105174,3 +105174,7 @@
 	url = https://github.com/conda-forge/instantclient-basiclite-feedstock.git
 	path = feedstocks/instantclient-basiclite
 	branch = refs/heads/main
+[submodule "pals-schema"]
+	url = https://github.com/conda-forge/pals-schema-feedstock.git
+	path = feedstocks/pals-schema
+	branch = refs/heads/main
