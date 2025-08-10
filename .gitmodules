@@ -105182,3 +105182,7 @@
 	url = https://github.com/conda-forge/torchvista-feedstock.git
 	path = feedstocks/torchvista
 	branch = refs/heads/main
+[submodule "sgtlib"]
+	url = https://github.com/conda-forge/sgtlib-feedstock.git
+	path = feedstocks/sgtlib
+	branch = refs/heads/main
