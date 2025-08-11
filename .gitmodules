@@ -105238,3 +105238,7 @@
 	url = https://github.com/conda-forge/lia-web-feedstock.git
 	path = feedstocks/lia-web
 	branch = refs/heads/main
+[submodule "numpy-typing-compat"]
+	url = https://github.com/conda-forge/numpy-typing-compat-feedstock.git
+	path = feedstocks/numpy-typing-compat
+	branch = refs/heads/main
