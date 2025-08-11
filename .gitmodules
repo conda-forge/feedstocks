@@ -105222,3 +105222,7 @@
 	url = https://github.com/conda-forge/prefixcommons-feedstock.git
 	path = feedstocks/prefixcommons
 	branch = refs/heads/main
+[submodule "linkml"]
+	url = https://github.com/conda-forge/linkml-feedstock.git
+	path = feedstocks/linkml
+	branch = refs/heads/main
