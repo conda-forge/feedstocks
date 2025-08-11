@@ -105242,3 +105242,7 @@
 	url = https://github.com/conda-forge/numpy-typing-compat-feedstock.git
 	path = feedstocks/numpy-typing-compat
 	branch = refs/heads/main
+[submodule "wl-clipboard-rs"]
+	url = https://github.com/conda-forge/wl-clipboard-rs-feedstock.git
+	path = feedstocks/wl-clipboard-rs
+	branch = refs/heads/main
