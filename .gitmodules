@@ -105206,3 +105206,7 @@
 	url = https://github.com/conda-forge/ukb-atlas-feedstock.git
 	path = feedstocks/ukb-atlas
 	branch = refs/heads/main
+[submodule "jupyterquiz"]
+	url = https://github.com/conda-forge/jupyterquiz-feedstock.git
+	path = feedstocks/jupyterquiz
+	branch = refs/heads/main
