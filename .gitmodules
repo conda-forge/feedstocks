@@ -105218,3 +105218,7 @@
 	url = https://github.com/conda-forge/ttsim-backend-feedstock.git
 	path = feedstocks/ttsim-backend
 	branch = refs/heads/main
+[submodule "prefixcommons"]
+	url = https://github.com/conda-forge/prefixcommons-feedstock.git
+	path = feedstocks/prefixcommons
+	branch = refs/heads/main
