@@ -105234,3 +105234,7 @@
 	url = https://github.com/conda-forge/jsonasobj2-feedstock.git
 	path = feedstocks/jsonasobj2
 	branch = refs/heads/main
+[submodule "lia-web"]
+	url = https://github.com/conda-forge/lia-web-feedstock.git
+	path = feedstocks/lia-web
+	branch = refs/heads/main
