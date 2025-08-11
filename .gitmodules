@@ -105226,3 +105226,7 @@
 	url = https://github.com/conda-forge/linkml-feedstock.git
 	path = feedstocks/linkml
 	branch = refs/heads/main
+[submodule "linkml-runtime"]
+	url = https://github.com/conda-forge/linkml-runtime-feedstock.git
+	path = feedstocks/linkml-runtime
+	branch = refs/heads/main
