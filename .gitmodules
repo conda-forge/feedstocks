@@ -105262,3 +105262,7 @@
 	url = https://github.com/conda-forge/any-llm-sdk-feedstock.git
 	path = feedstocks/any-llm-sdk
 	branch = refs/heads/main
+[submodule "excelcsvparsehelper"]
+	url = https://github.com/conda-forge/excelcsvparsehelper-feedstock.git
+	path = feedstocks/excelcsvparsehelper
+	branch = refs/heads/main
