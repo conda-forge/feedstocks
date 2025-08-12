@@ -105270,3 +105270,7 @@
 	url = https://github.com/conda-forge/lockfilesemaphore-feedstock.git
 	path = feedstocks/lockfilesemaphore
 	branch = refs/heads/main
+[submodule "lark-cython"]
+	url = https://github.com/conda-forge/lark-cython-feedstock.git
+	path = feedstocks/lark-cython
+	branch = refs/heads/main
