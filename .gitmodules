@@ -105246,3 +105246,7 @@
 	url = https://github.com/conda-forge/wl-clipboard-rs-feedstock.git
 	path = feedstocks/wl-clipboard-rs
 	branch = refs/heads/main
+[submodule "tarts"]
+	url = https://github.com/conda-forge/tarts-feedstock.git
+	path = feedstocks/tarts
+	branch = refs/heads/main
