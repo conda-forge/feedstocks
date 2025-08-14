@@ -105282,3 +105282,7 @@
 	url = https://github.com/conda-forge/webkit2gtk4.1-feedstock.git
 	path = feedstocks/webkit2gtk4.1
 	branch = refs/heads/main
+[submodule "mkdocs-drawio"]
+	url = https://github.com/conda-forge/mkdocs-drawio-feedstock.git
+	path = feedstocks/mkdocs-drawio
+	branch = refs/heads/main
