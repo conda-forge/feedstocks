@@ -105298,3 +105298,7 @@
 	url = https://github.com/conda-forge/lintquarto-feedstock.git
 	path = feedstocks/lintquarto
 	branch = refs/heads/main
+[submodule "citation-compass"]
+	url = https://github.com/conda-forge/citation-compass-feedstock.git
+	path = feedstocks/citation-compass
+	branch = refs/heads/main
