@@ -105306,3 +105306,7 @@
 	url = https://github.com/conda-forge/optiland-feedstock.git
 	path = feedstocks/optiland
 	branch = refs/heads/main
+[submodule "pysher"]
+	url = https://github.com/conda-forge/pysher-feedstock.git
+	path = feedstocks/pysher
+	branch = refs/heads/main
