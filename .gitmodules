@@ -105278,3 +105278,7 @@
 	url = https://github.com/conda-forge/tinytag-feedstock.git
 	path = feedstocks/tinytag
 	branch = refs/heads/main
+[submodule "webkit2gtk4.1"]
+	url = https://github.com/conda-forge/webkit2gtk4.1-feedstock.git
+	path = feedstocks/webkit2gtk4.1
+	branch = refs/heads/main
