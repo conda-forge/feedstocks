@@ -105290,3 +105290,7 @@
 	url = https://github.com/conda-forge/islp-feedstock.git
 	path = feedstocks/islp
 	branch = refs/heads/main
+[submodule "delaynet"]
+	url = https://github.com/conda-forge/delaynet-feedstock.git
+	path = feedstocks/delaynet
+	branch = refs/heads/main
