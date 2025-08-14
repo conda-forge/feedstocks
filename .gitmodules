@@ -105286,3 +105286,7 @@
 	url = https://github.com/conda-forge/mkdocs-drawio-feedstock.git
 	path = feedstocks/mkdocs-drawio
 	branch = refs/heads/main
+[submodule "islp"]
+	url = https://github.com/conda-forge/islp-feedstock.git
+	path = feedstocks/islp
+	branch = refs/heads/main
