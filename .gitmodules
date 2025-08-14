@@ -105274,3 +105274,7 @@
 	url = https://github.com/conda-forge/lark-cython-feedstock.git
 	path = feedstocks/lark-cython
 	branch = refs/heads/main
+[submodule "tinytag"]
+	url = https://github.com/conda-forge/tinytag-feedstock.git
+	path = feedstocks/tinytag
+	branch = refs/heads/main
