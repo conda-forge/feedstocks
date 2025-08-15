@@ -105318,3 +105318,7 @@
 	url = https://github.com/conda-forge/burocrata-feedstock.git
 	path = feedstocks/burocrata
 	branch = refs/heads/main
+[submodule "fastapi-mcp"]
+	url = https://github.com/conda-forge/fastapi-mcp-feedstock.git
+	path = feedstocks/fastapi-mcp
+	branch = refs/heads/main
