@@ -105310,3 +105310,7 @@
 	url = https://github.com/conda-forge/pysher-feedstock.git
 	path = feedstocks/pysher
 	branch = refs/heads/main
+[submodule "monitors4codegen"]
+	url = https://github.com/conda-forge/monitors4codegen-feedstock.git
+	path = feedstocks/monitors4codegen
+	branch = refs/heads/main
