@@ -105322,3 +105322,7 @@
 	url = https://github.com/conda-forge/fastapi-mcp-feedstock.git
 	path = feedstocks/fastapi-mcp
 	branch = refs/heads/main
+[submodule "cargo-machete"]
+	url = https://github.com/conda-forge/cargo-machete-feedstock.git
+	path = feedstocks/cargo-machete
+	branch = refs/heads/main
