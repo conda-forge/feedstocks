@@ -105362,3 +105362,7 @@
 	url = https://github.com/conda-forge/diffpy.cmi-feedstock.git
 	path = feedstocks/diffpy.cmi
 	branch = refs/heads/main
+[submodule "pytest-asdf-plugin"]
+	url = https://github.com/conda-forge/pytest-asdf-plugin-feedstock.git
+	path = feedstocks/pytest-asdf-plugin
+	branch = refs/heads/main
