@@ -105334,3 +105334,7 @@
 	url = https://github.com/conda-forge/markitdown-mcp-server-feedstock.git
 	path = feedstocks/markitdown-mcp-server
 	branch = refs/heads/main
+[submodule "django-markdownify"]
+	url = https://github.com/conda-forge/django-markdownify-feedstock.git
+	path = feedstocks/django-markdownify
+	branch = refs/heads/main
