@@ -105338,3 +105338,7 @@
 	url = https://github.com/conda-forge/django-markdownify-feedstock.git
 	path = feedstocks/django-markdownify
 	branch = refs/heads/main
+[submodule "celeri"]
+	url = https://github.com/conda-forge/celeri-feedstock.git
+	path = feedstocks/celeri
+	branch = refs/heads/main
