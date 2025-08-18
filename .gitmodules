@@ -105326,3 +105326,7 @@
 	url = https://github.com/conda-forge/cargo-machete-feedstock.git
 	path = feedstocks/cargo-machete
 	branch = refs/heads/main
+[submodule "langchain-mcp-adapters"]
+	url = https://github.com/conda-forge/langchain-mcp-adapters-feedstock.git
+	path = feedstocks/langchain-mcp-adapters
+	branch = refs/heads/main
