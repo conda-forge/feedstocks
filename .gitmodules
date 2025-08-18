@@ -105354,3 +105354,7 @@
 	url = https://github.com/conda-forge/tdastro-feedstock.git
 	path = feedstocks/tdastro
 	branch = refs/heads/main
+[submodule "diffpy.srreal"]
+	url = https://github.com/conda-forge/diffpy.srreal-feedstock.git
+	path = feedstocks/diffpy.srreal
+	branch = refs/heads/main
