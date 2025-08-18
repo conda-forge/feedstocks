@@ -105346,3 +105346,7 @@
 	url = https://github.com/conda-forge/markdownify-mcp-server-feedstock.git
 	path = feedstocks/markdownify-mcp-server
 	branch = refs/heads/main
+[submodule "drf-to-mkdoc"]
+	url = https://github.com/conda-forge/drf-to-mkdoc-feedstock.git
+	path = feedstocks/drf-to-mkdoc
+	branch = refs/heads/main
