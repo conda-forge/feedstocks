@@ -105342,3 +105342,7 @@
 	url = https://github.com/conda-forge/celeri-feedstock.git
 	path = feedstocks/celeri
 	branch = refs/heads/main
+[submodule "markdownify-mcp-server"]
+	url = https://github.com/conda-forge/markdownify-mcp-server-feedstock.git
+	path = feedstocks/markdownify-mcp-server
+	branch = refs/heads/main
