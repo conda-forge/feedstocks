@@ -105330,3 +105330,7 @@
 	url = https://github.com/conda-forge/langchain-mcp-adapters-feedstock.git
 	path = feedstocks/langchain-mcp-adapters
 	branch = refs/heads/main
+[submodule "markitdown-mcp-server"]
+	url = https://github.com/conda-forge/markitdown-mcp-server-feedstock.git
+	path = feedstocks/markitdown-mcp-server
+	branch = refs/heads/main
