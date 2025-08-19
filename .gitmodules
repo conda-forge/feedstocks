@@ -105398,3 +105398,7 @@
 	url = https://github.com/conda-forge/aocl-blas-feedstock.git
 	path = feedstocks/aocl-blas
 	branch = refs/heads/main
+[submodule "junifer-data"]
+	url = https://github.com/conda-forge/junifer-data-feedstock.git
+	path = feedstocks/junifer-data
+	branch = refs/heads/main
