@@ -105382,3 +105382,7 @@
 	url = https://github.com/conda-forge/samply-feedstock.git
 	path = feedstocks/samply
 	branch = refs/heads/main
+[submodule "pycirclizely"]
+	url = https://github.com/conda-forge/pycirclizely-feedstock.git
+	path = feedstocks/pycirclizely
+	branch = refs/heads/main
