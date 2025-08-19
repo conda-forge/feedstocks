@@ -105378,3 +105378,7 @@
 	url = https://github.com/conda-forge/harbor-feedstock.git
 	path = feedstocks/harbor
 	branch = refs/heads/main
+[submodule "samply"]
+	url = https://github.com/conda-forge/samply-feedstock.git
+	path = feedstocks/samply
+	branch = refs/heads/main
