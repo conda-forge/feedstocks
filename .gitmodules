@@ -105374,3 +105374,7 @@
 	url = https://github.com/conda-forge/xcube-resampling-feedstock.git
 	path = feedstocks/xcube-resampling
 	branch = refs/heads/main
+[submodule "harbor"]
+	url = https://github.com/conda-forge/harbor-feedstock.git
+	path = feedstocks/harbor
+	branch = refs/heads/main
