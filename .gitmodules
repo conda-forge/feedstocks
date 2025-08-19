@@ -105366,3 +105366,7 @@
 	url = https://github.com/conda-forge/pytest-asdf-plugin-feedstock.git
 	path = feedstocks/pytest-asdf-plugin
 	branch = refs/heads/main
+[submodule "universal-mcp"]
+	url = https://github.com/conda-forge/universal-mcp-feedstock.git
+	path = feedstocks/universal-mcp
+	branch = refs/heads/main
