@@ -105370,3 +105370,7 @@
 	url = https://github.com/conda-forge/universal-mcp-feedstock.git
 	path = feedstocks/universal-mcp
 	branch = refs/heads/main
+[submodule "xcube-resampling"]
+	url = https://github.com/conda-forge/xcube-resampling-feedstock.git
+	path = feedstocks/xcube-resampling
+	branch = refs/heads/main
