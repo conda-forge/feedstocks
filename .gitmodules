@@ -105394,3 +105394,7 @@
 	url = https://github.com/conda-forge/aardvark-dns-feedstock.git
 	path = feedstocks/aardvark-dns
 	branch = refs/heads/main
+[submodule "aocl-blas"]
+	url = https://github.com/conda-forge/aocl-blas-feedstock.git
+	path = feedstocks/aocl-blas
+	branch = refs/heads/main
