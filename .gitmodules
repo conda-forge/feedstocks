@@ -105406,3 +105406,7 @@
 	url = https://github.com/conda-forge/r-grab-feedstock.git
 	path = feedstocks/r-grab
 	branch = refs/heads/main
+[submodule "bvalcalc"]
+	url = https://github.com/conda-forge/bvalcalc-feedstock.git
+	path = feedstocks/bvalcalc
+	branch = refs/heads/main
