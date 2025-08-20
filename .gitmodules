@@ -105402,3 +105402,7 @@
 	url = https://github.com/conda-forge/junifer-data-feedstock.git
 	path = feedstocks/junifer-data
 	branch = refs/heads/main
+[submodule "r-grab"]
+	url = https://github.com/conda-forge/r-grab-feedstock.git
+	path = feedstocks/r-grab
+	branch = refs/heads/main
