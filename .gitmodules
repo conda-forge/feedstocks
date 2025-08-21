@@ -105430,3 +105430,7 @@
 	url = https://github.com/conda-forge/json-numpy-feedstock.git
 	path = feedstocks/json-numpy
 	branch = refs/heads/main
+[submodule "supabase-auth"]
+	url = https://github.com/conda-forge/supabase-auth-feedstock.git
+	path = feedstocks/supabase-auth
+	branch = refs/heads/main
