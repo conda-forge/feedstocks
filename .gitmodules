@@ -105418,3 +105418,7 @@
 	url = https://github.com/conda-forge/qgridnext-feedstock.git
 	path = feedstocks/qgridnext
 	branch = refs/heads/main
+[submodule "dask-iclx"]
+	url = https://github.com/conda-forge/dask-iclx-feedstock.git
+	path = feedstocks/dask-iclx
+	branch = refs/heads/main
