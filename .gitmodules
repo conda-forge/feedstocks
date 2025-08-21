@@ -105434,3 +105434,7 @@
 	url = https://github.com/conda-forge/supabase-auth-feedstock.git
 	path = feedstocks/supabase-auth
 	branch = refs/heads/main
+[submodule "elastic-vasp"]
+	url = https://github.com/conda-forge/elastic-vasp-feedstock.git
+	path = feedstocks/elastic-vasp
+	branch = refs/heads/main
