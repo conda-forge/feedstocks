@@ -105422,3 +105422,7 @@
 	url = https://github.com/conda-forge/dask-iclx-feedstock.git
 	path = feedstocks/dask-iclx
 	branch = refs/heads/main
+[submodule "supabase-functions"]
+	url = https://github.com/conda-forge/supabase-functions-feedstock.git
+	path = feedstocks/supabase-functions
+	branch = refs/heads/main
