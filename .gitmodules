@@ -105454,3 +105454,7 @@
 	url = https://github.com/conda-forge/chemem-feedstock.git
 	path = feedstocks/chemem
 	branch = refs/heads/main
+[submodule "healpix-geo"]
+	url = https://github.com/conda-forge/healpix-geo-feedstock.git
+	path = feedstocks/healpix-geo
+	branch = refs/heads/main
