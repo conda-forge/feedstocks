@@ -105438,3 +105438,7 @@
 	url = https://github.com/conda-forge/elastic-vasp-feedstock.git
 	path = feedstocks/elastic-vasp
 	branch = refs/heads/main
+[submodule "hypertransform"]
+	url = https://github.com/conda-forge/hypertransform-feedstock.git
+	path = feedstocks/hypertransform
+	branch = refs/heads/main
