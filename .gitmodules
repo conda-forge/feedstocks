@@ -105450,3 +105450,7 @@
 	url = https://github.com/conda-forge/libtommath-feedstock.git
 	path = feedstocks/libtommath
 	branch = refs/heads/main
+[submodule "chemem"]
+	url = https://github.com/conda-forge/chemem-feedstock.git
+	path = feedstocks/chemem
+	branch = refs/heads/main
