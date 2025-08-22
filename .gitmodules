@@ -105462,3 +105462,7 @@
 	url = https://github.com/conda-forge/temporalio-feedstock.git
 	path = feedstocks/temporalio
 	branch = refs/heads/main
+[submodule "flyr"]
+	url = https://github.com/conda-forge/flyr-feedstock.git
+	path = feedstocks/flyr
+	branch = refs/heads/main
