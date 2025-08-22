@@ -105458,3 +105458,7 @@
 	url = https://github.com/conda-forge/healpix-geo-feedstock.git
 	path = feedstocks/healpix-geo
 	branch = refs/heads/main
+[submodule "temporalio"]
+	url = https://github.com/conda-forge/temporalio-feedstock.git
+	path = feedstocks/temporalio
+	branch = refs/heads/main
