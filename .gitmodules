@@ -105442,3 +105442,7 @@
 	url = https://github.com/conda-forge/hypertransform-feedstock.git
 	path = feedstocks/hypertransform
 	branch = refs/heads/main
+[submodule "furones"]
+	url = https://github.com/conda-forge/furones-feedstock.git
+	path = feedstocks/furones
+	branch = refs/heads/main
