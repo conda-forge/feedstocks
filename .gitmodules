@@ -105470,3 +105470,7 @@
 	url = https://github.com/conda-forge/claude-code-sdk-feedstock.git
 	path = feedstocks/claude-code-sdk
 	branch = refs/heads/main
+[submodule "doxx"]
+	url = https://github.com/conda-forge/doxx-feedstock.git
+	path = feedstocks/doxx
+	branch = refs/heads/main
