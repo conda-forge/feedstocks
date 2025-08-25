@@ -105474,3 +105474,7 @@
 	url = https://github.com/conda-forge/doxx-feedstock.git
 	path = feedstocks/doxx
 	branch = refs/heads/main
+[submodule "robo-gym-server-modules"]
+	url = https://github.com/conda-forge/robo-gym-server-modules-feedstock.git
+	path = feedstocks/robo-gym-server-modules
+	branch = refs/heads/main
