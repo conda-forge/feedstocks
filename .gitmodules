@@ -105486,3 +105486,7 @@
 	url = https://github.com/conda-forge/datalad-cds-feedstock.git
 	path = feedstocks/datalad-cds
 	branch = refs/heads/main
+[submodule "forte2"]
+	url = https://github.com/conda-forge/forte2-feedstock.git
+	path = feedstocks/forte2
+	branch = refs/heads/main
