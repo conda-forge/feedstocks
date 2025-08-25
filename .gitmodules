@@ -105478,3 +105478,7 @@
 	url = https://github.com/conda-forge/robo-gym-server-modules-feedstock.git
 	path = feedstocks/robo-gym-server-modules
 	branch = refs/heads/main
+[submodule "mapchete-eo"]
+	url = https://github.com/conda-forge/mapchete-eo-feedstock.git
+	path = feedstocks/mapchete-eo
+	branch = refs/heads/main
