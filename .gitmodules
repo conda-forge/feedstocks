@@ -105494,3 +105494,7 @@
 	url = https://github.com/conda-forge/jupytercad-urdf-feedstock.git
 	path = feedstocks/jupytercad-urdf
 	branch = refs/heads/main
+[submodule "virtualengineering"]
+	url = https://github.com/conda-forge/virtualengineering-feedstock.git
+	path = feedstocks/virtualengineering
+	branch = refs/heads/main
