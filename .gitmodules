@@ -105498,3 +105498,7 @@
 	url = https://github.com/conda-forge/virtualengineering-feedstock.git
 	path = feedstocks/virtualengineering
 	branch = refs/heads/main
+[submodule "create-forwarder-dll"]
+	url = https://github.com/conda-forge/create-forwarder-dll-feedstock.git
+	path = feedstocks/create-forwarder-dll
+	branch = refs/heads/main
