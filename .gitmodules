@@ -105482,3 +105482,7 @@
 	url = https://github.com/conda-forge/mapchete-eo-feedstock.git
 	path = feedstocks/mapchete-eo
 	branch = refs/heads/main
+[submodule "datalad-cds"]
+	url = https://github.com/conda-forge/datalad-cds-feedstock.git
+	path = feedstocks/datalad-cds
+	branch = refs/heads/main
