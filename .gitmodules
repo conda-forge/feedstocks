@@ -105490,3 +105490,7 @@
 	url = https://github.com/conda-forge/forte2-feedstock.git
 	path = feedstocks/forte2
 	branch = refs/heads/main
+[submodule "jupytercad-urdf"]
+	url = https://github.com/conda-forge/jupytercad-urdf-feedstock.git
+	path = feedstocks/jupytercad-urdf
+	branch = refs/heads/main
