@@ -105534,3 +105534,7 @@
 	url = https://github.com/conda-forge/types-boto3-textract-feedstock.git
 	path = feedstocks/types-boto3-textract
 	branch = refs/heads/main
+[submodule "multicollections"]
+	url = https://github.com/conda-forge/multicollections-feedstock.git
+	path = feedstocks/multicollections
+	branch = refs/heads/main
