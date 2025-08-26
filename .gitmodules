@@ -105530,3 +105530,7 @@
 	url = https://github.com/conda-forge/bahamas-feedstock.git
 	path = feedstocks/bahamas
 	branch = refs/heads/main
+[submodule "types-boto3-textract"]
+	url = https://github.com/conda-forge/types-boto3-textract-feedstock.git
+	path = feedstocks/types-boto3-textract
+	branch = refs/heads/main
