@@ -105526,3 +105526,7 @@
 	url = https://github.com/conda-forge/maptide-feedstock.git
 	path = feedstocks/maptide
 	branch = refs/heads/main
+[submodule "bahamas"]
+	url = https://github.com/conda-forge/bahamas-feedstock.git
+	path = feedstocks/bahamas
+	branch = refs/heads/main
