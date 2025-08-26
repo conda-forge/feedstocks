@@ -105502,3 +105502,7 @@
 	url = https://github.com/conda-forge/create-forwarder-dll-feedstock.git
 	path = feedstocks/create-forwarder-dll
 	branch = refs/heads/main
+[submodule "rapidgzip"]
+	url = https://github.com/conda-forge/rapidgzip-feedstock.git
+	path = feedstocks/rapidgzip
+	branch = refs/heads/main
