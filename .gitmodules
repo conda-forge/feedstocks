@@ -105506,3 +105506,7 @@
 	url = https://github.com/conda-forge/rapidgzip-feedstock.git
 	path = feedstocks/rapidgzip
 	branch = refs/heads/main
+[submodule "r-ecodive"]
+	url = https://github.com/conda-forge/r-ecodive-feedstock.git
+	path = feedstocks/r-ecodive
+	branch = refs/heads/main
