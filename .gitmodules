@@ -105510,3 +105510,7 @@
 	url = https://github.com/conda-forge/r-ecodive-feedstock.git
 	path = feedstocks/r-ecodive
 	branch = refs/heads/main
+[submodule "acpica-tools"]
+	url = https://github.com/conda-forge/acpica-tools-feedstock.git
+	path = feedstocks/acpica-tools
+	branch = refs/heads/main
