@@ -105558,3 +105558,7 @@
 	url = https://github.com/conda-forge/composio-client-feedstock.git
 	path = feedstocks/composio-client
 	branch = refs/heads/main
+[submodule "py4d-browser-transform"]
+	url = https://github.com/conda-forge/py4d-browser-transform-feedstock.git
+	path = feedstocks/py4d-browser-transform
+	branch = refs/heads/main
