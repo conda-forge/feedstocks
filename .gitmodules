@@ -105554,3 +105554,7 @@
 	url = https://github.com/conda-forge/composio-openai-feedstock.git
 	path = feedstocks/composio-openai
 	branch = refs/heads/main
+[submodule "composio-client"]
+	url = https://github.com/conda-forge/composio-client-feedstock.git
+	path = feedstocks/composio-client
+	branch = refs/heads/main
