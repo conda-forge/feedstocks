@@ -105538,3 +105538,7 @@
 	url = https://github.com/conda-forge/multicollections-feedstock.git
 	path = feedstocks/multicollections
 	branch = refs/heads/main
+[submodule "komplot"]
+	url = https://github.com/conda-forge/komplot-feedstock.git
+	path = feedstocks/komplot
+	branch = refs/heads/main
