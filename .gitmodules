@@ -105550,3 +105550,7 @@
 	url = https://github.com/conda-forge/visisipy-feedstock.git
 	path = feedstocks/visisipy
 	branch = refs/heads/main
+[submodule "composio-openai"]
+	url = https://github.com/conda-forge/composio-openai-feedstock.git
+	path = feedstocks/composio-openai
+	branch = refs/heads/main
