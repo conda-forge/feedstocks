@@ -105578,3 +105578,7 @@
 	url = https://github.com/conda-forge/fmodpy-feedstock.git
 	path = feedstocks/fmodpy
 	branch = refs/heads/main
+[submodule "torchao"]
+	url = https://github.com/conda-forge/torchao-feedstock.git
+	path = feedstocks/torchao
+	branch = refs/heads/main
