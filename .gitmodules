@@ -105582,3 +105582,7 @@
 	url = https://github.com/conda-forge/torchao-feedstock.git
 	path = feedstocks/torchao
 	branch = refs/heads/main
+[submodule "cppcheck-codequality"]
+	url = https://github.com/conda-forge/cppcheck-codequality-feedstock.git
+	path = feedstocks/cppcheck-codequality
+	branch = refs/heads/main
