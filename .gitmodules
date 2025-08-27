@@ -105542,3 +105542,7 @@
 	url = https://github.com/conda-forge/komplot-feedstock.git
 	path = feedstocks/komplot
 	branch = refs/heads/main
+[submodule "composio"]
+	url = https://github.com/conda-forge/composio-feedstock.git
+	path = feedstocks/composio
+	branch = refs/heads/main
