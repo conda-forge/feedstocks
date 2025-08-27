@@ -105562,3 +105562,7 @@
 	url = https://github.com/conda-forge/py4d-browser-transform-feedstock.git
 	path = feedstocks/py4d-browser-transform
 	branch = refs/heads/main
+[submodule "mkdocs-exporter"]
+	url = https://github.com/conda-forge/mkdocs-exporter-feedstock.git
+	path = feedstocks/mkdocs-exporter
+	branch = refs/heads/main
