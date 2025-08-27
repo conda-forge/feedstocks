@@ -105566,3 +105566,7 @@
 	url = https://github.com/conda-forge/mkdocs-exporter-feedstock.git
 	path = feedstocks/mkdocs-exporter
 	branch = refs/heads/main
+[submodule "xeus-octave"]
+	url = https://github.com/conda-forge/xeus-octave-feedstock.git
+	path = feedstocks/xeus-octave
+	branch = refs/heads/main
