@@ -105590,3 +105590,7 @@
 	url = https://github.com/conda-forge/pythtb-feedstock.git
 	path = feedstocks/pythtb
 	branch = refs/heads/main
+[submodule "libpmi2"]
+	url = https://github.com/conda-forge/libpmi2-feedstock.git
+	path = feedstocks/libpmi2
+	branch = refs/heads/main
