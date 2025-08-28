@@ -105598,3 +105598,7 @@
 	url = https://github.com/conda-forge/lm-sensors-feedstock.git
 	path = feedstocks/lm-sensors
 	branch = refs/heads/main
+[submodule "pygorder"]
+	url = https://github.com/conda-forge/pygorder-feedstock.git
+	path = feedstocks/pygorder
+	branch = refs/heads/main
