@@ -105586,3 +105586,7 @@
 	url = https://github.com/conda-forge/cppcheck-codequality-feedstock.git
 	path = feedstocks/cppcheck-codequality
 	branch = refs/heads/main
+[submodule "pythtb"]
+	url = https://github.com/conda-forge/pythtb-feedstock.git
+	path = feedstocks/pythtb
+	branch = refs/heads/main
