@@ -105602,3 +105602,7 @@
 	url = https://github.com/conda-forge/pygorder-feedstock.git
 	path = feedstocks/pygorder
 	branch = refs/heads/main
+[submodule "libssr-py"]
+	url = https://github.com/conda-forge/libssr-py-feedstock.git
+	path = feedstocks/libssr-py
+	branch = refs/heads/main
