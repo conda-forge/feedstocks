@@ -105614,3 +105614,7 @@
 	url = https://github.com/conda-forge/gel-python-feedstock.git
 	path = feedstocks/gel-python
 	branch = refs/heads/main
+[submodule "mfusepy"]
+	url = https://github.com/conda-forge/mfusepy-feedstock.git
+	path = feedstocks/mfusepy
+	branch = refs/heads/main
