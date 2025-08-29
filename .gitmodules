@@ -105618,3 +105618,7 @@
 	url = https://github.com/conda-forge/mfusepy-feedstock.git
 	path = feedstocks/mfusepy
 	branch = refs/heads/main
+[submodule "shs-cxi-drivers"]
+	url = https://github.com/conda-forge/shs-cxi-drivers-feedstock.git
+	path = feedstocks/shs-cxi-drivers
+	branch = refs/heads/main
