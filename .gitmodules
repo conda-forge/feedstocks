@@ -105646,3 +105646,7 @@
 	url = https://github.com/conda-forge/universal-mcp-markitdown-feedstock.git
 	path = feedstocks/universal-mcp-markitdown
 	branch = refs/heads/main
+[submodule "codefind"]
+	url = https://github.com/conda-forge/codefind-feedstock.git
+	path = feedstocks/codefind
+	branch = refs/heads/main
