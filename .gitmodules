@@ -105638,3 +105638,7 @@
 	url = https://github.com/conda-forge/cuid-feedstock.git
 	path = feedstocks/cuid
 	branch = refs/heads/main
+[submodule "ovld"]
+	url = https://github.com/conda-forge/ovld-feedstock.git
+	path = feedstocks/ovld
+	branch = refs/heads/main
