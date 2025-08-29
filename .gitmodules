@@ -105642,3 +105642,7 @@
 	url = https://github.com/conda-forge/ovld-feedstock.git
 	path = feedstocks/ovld
 	branch = refs/heads/main
+[submodule "universal-mcp-markitdown"]
+	url = https://github.com/conda-forge/universal-mcp-markitdown-feedstock.git
+	path = feedstocks/universal-mcp-markitdown
+	branch = refs/heads/main
