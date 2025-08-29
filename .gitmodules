@@ -105630,3 +105630,7 @@
 	url = https://github.com/conda-forge/langchain-postgres-feedstock.git
 	path = feedstocks/langchain-postgres
 	branch = refs/heads/main
+[submodule "vcs2l"]
+	url = https://github.com/conda-forge/vcs2l-feedstock.git
+	path = feedstocks/vcs2l
+	branch = refs/heads/main
