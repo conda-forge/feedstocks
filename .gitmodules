@@ -105610,3 +105610,7 @@
 	url = https://github.com/conda-forge/mkdocs-section-index-feedstock.git
 	path = feedstocks/mkdocs-section-index
 	branch = refs/heads/main
+[submodule "gel-python"]
+	url = https://github.com/conda-forge/gel-python-feedstock.git
+	path = feedstocks/gel-python
+	branch = refs/heads/main
