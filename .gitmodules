@@ -105634,3 +105634,7 @@
 	url = https://github.com/conda-forge/vcs2l-feedstock.git
 	path = feedstocks/vcs2l
 	branch = refs/heads/main
+[submodule "cuid"]
+	url = https://github.com/conda-forge/cuid-feedstock.git
+	path = feedstocks/cuid
+	branch = refs/heads/main
