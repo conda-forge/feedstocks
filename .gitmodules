@@ -105606,3 +105606,7 @@
 	url = https://github.com/conda-forge/libssr-py-feedstock.git
 	path = feedstocks/libssr-py
 	branch = refs/heads/main
+[submodule "mkdocs-section-index"]
+	url = https://github.com/conda-forge/mkdocs-section-index-feedstock.git
+	path = feedstocks/mkdocs-section-index
+	branch = refs/heads/main
