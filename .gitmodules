@@ -105622,3 +105622,7 @@
 	url = https://github.com/conda-forge/shs-cxi-drivers-feedstock.git
 	path = feedstocks/shs-cxi-drivers
 	branch = refs/heads/main
+[submodule "reloading"]
+	url = https://github.com/conda-forge/reloading-feedstock.git
+	path = feedstocks/reloading
+	branch = refs/heads/main
