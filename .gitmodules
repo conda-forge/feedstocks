@@ -105626,3 +105626,7 @@
 	url = https://github.com/conda-forge/reloading-feedstock.git
 	path = feedstocks/reloading
 	branch = refs/heads/main
+[submodule "langchain-postgres"]
+	url = https://github.com/conda-forge/langchain-postgres-feedstock.git
+	path = feedstocks/langchain-postgres
+	branch = refs/heads/main
