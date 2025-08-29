@@ -105650,3 +105650,7 @@
 	url = https://github.com/conda-forge/codefind-feedstock.git
 	path = feedstocks/codefind
 	branch = refs/heads/main
+[submodule "shs-cassini-headers"]
+	url = https://github.com/conda-forge/shs-cassini-headers-feedstock.git
+	path = feedstocks/shs-cassini-headers
+	branch = refs/heads/main
