@@ -105654,3 +105654,7 @@
 	url = https://github.com/conda-forge/shs-cassini-headers-feedstock.git
 	path = feedstocks/shs-cassini-headers
 	branch = refs/heads/main
+[submodule "redis-om"]
+	url = https://github.com/conda-forge/redis-om-feedstock.git
+	path = feedstocks/redis-om
+	branch = refs/heads/main
