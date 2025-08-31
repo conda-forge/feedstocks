@@ -105694,3 +105694,7 @@
 	url = https://github.com/conda-forge/simp-sexp-feedstock.git
 	path = feedstocks/simp-sexp
 	branch = refs/heads/main
+[submodule "columnize"]
+	url = https://github.com/conda-forge/columnize-feedstock.git
+	path = feedstocks/columnize
+	branch = refs/heads/main
