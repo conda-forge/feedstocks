@@ -105670,3 +105670,7 @@
 	url = https://github.com/conda-forge/jurigged-feedstock.git
 	path = feedstocks/jurigged
 	branch = refs/heads/main
+[submodule "mathics_pygments"]
+	url = https://github.com/conda-forge/mathics_pygments-feedstock.git
+	path = feedstocks/mathics_pygments
+	branch = refs/heads/main
