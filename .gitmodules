@@ -105658,3 +105658,7 @@
 	url = https://github.com/conda-forge/redis-om-feedstock.git
 	path = feedstocks/redis-om
 	branch = refs/heads/main
+[submodule "lsapy"]
+	url = https://github.com/conda-forge/lsapy-feedstock.git
+	path = feedstocks/lsapy
+	branch = refs/heads/main
