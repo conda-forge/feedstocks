@@ -105686,3 +105686,7 @@
 	url = https://github.com/conda-forge/blissdata-feedstock.git
 	path = feedstocks/blissdata
 	branch = refs/heads/main
+[submodule "fastuuid"]
+	url = https://github.com/conda-forge/fastuuid-feedstock.git
+	path = feedstocks/fastuuid
+	branch = refs/heads/main
