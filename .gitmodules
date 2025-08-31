@@ -105678,3 +105678,7 @@
 	url = https://github.com/conda-forge/shs-libcxi-feedstock.git
 	path = feedstocks/shs-libcxi
 	branch = refs/heads/main
+[submodule "pyrattler-recipe-autogen"]
+	url = https://github.com/conda-forge/pyrattler-recipe-autogen-feedstock.git
+	path = feedstocks/pyrattler-recipe-autogen
+	branch = refs/heads/main
