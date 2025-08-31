@@ -105662,3 +105662,7 @@
 	url = https://github.com/conda-forge/lsapy-feedstock.git
 	path = feedstocks/lsapy
 	branch = refs/heads/main
+[submodule "guidance-stitch"]
+	url = https://github.com/conda-forge/guidance-stitch-feedstock.git
+	path = feedstocks/guidance-stitch
+	branch = refs/heads/main
