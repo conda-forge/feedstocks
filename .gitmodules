@@ -105690,3 +105690,7 @@
 	url = https://github.com/conda-forge/fastuuid-feedstock.git
 	path = feedstocks/fastuuid
 	branch = refs/heads/main
+[submodule "simp-sexp"]
+	url = https://github.com/conda-forge/simp-sexp-feedstock.git
+	path = feedstocks/simp-sexp
+	branch = refs/heads/main
