@@ -105674,3 +105674,7 @@
 	url = https://github.com/conda-forge/mathics_pygments-feedstock.git
 	path = feedstocks/mathics_pygments
 	branch = refs/heads/main
+[submodule "shs-libcxi"]
+	url = https://github.com/conda-forge/shs-libcxi-feedstock.git
+	path = feedstocks/shs-libcxi
+	branch = refs/heads/main
