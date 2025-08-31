@@ -105682,3 +105682,7 @@
 	url = https://github.com/conda-forge/pyrattler-recipe-autogen-feedstock.git
 	path = feedstocks/pyrattler-recipe-autogen
 	branch = refs/heads/main
+[submodule "blissdata"]
+	url = https://github.com/conda-forge/blissdata-feedstock.git
+	path = feedstocks/blissdata
+	branch = refs/heads/main
