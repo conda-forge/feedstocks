@@ -105702,3 +105702,7 @@
 	url = https://github.com/conda-forge/findpeaks-feedstock.git
 	path = feedstocks/findpeaks
 	branch = refs/heads/main
+[submodule "snapshot-restore-py"]
+	url = https://github.com/conda-forge/snapshot-restore-py-feedstock.git
+	path = feedstocks/snapshot-restore-py
+	branch = refs/heads/main
