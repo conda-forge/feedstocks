@@ -105714,3 +105714,7 @@
 	url = https://github.com/conda-forge/mamba-ssm-feedstock.git
 	path = feedstocks/mamba-ssm
 	branch = refs/heads/main
+[submodule "async-interrupt"]
+	url = https://github.com/conda-forge/async-interrupt-feedstock.git
+	path = feedstocks/async-interrupt
+	branch = refs/heads/main
