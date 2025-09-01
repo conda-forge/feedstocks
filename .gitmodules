@@ -105710,3 +105710,7 @@
 	url = https://github.com/conda-forge/metobs-toolkit-feedstock.git
 	path = feedstocks/metobs-toolkit
 	branch = refs/heads/main
+[submodule "mamba-ssm"]
+	url = https://github.com/conda-forge/mamba-ssm-feedstock.git
+	path = feedstocks/mamba-ssm
+	branch = refs/heads/main
