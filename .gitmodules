@@ -105706,3 +105706,7 @@
 	url = https://github.com/conda-forge/snapshot-restore-py-feedstock.git
 	path = feedstocks/snapshot-restore-py
 	branch = refs/heads/main
+[submodule "metobs-toolkit"]
+	url = https://github.com/conda-forge/metobs-toolkit-feedstock.git
+	path = feedstocks/metobs-toolkit
+	branch = refs/heads/main
