@@ -105742,3 +105742,7 @@
 	url = https://github.com/conda-forge/imas-data-dictionaries-feedstock.git
 	path = feedstocks/imas-data-dictionaries
 	branch = refs/heads/main
+[submodule "openinference-instrumentation-openai-agents"]
+	url = https://github.com/conda-forge/openinference-instrumentation-openai-agents-feedstock.git
+	path = feedstocks/openinference-instrumentation-openai-agents
+	branch = refs/heads/main
