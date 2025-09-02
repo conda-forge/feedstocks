@@ -105746,3 +105746,7 @@
 	url = https://github.com/conda-forge/openinference-instrumentation-openai-agents-feedstock.git
 	path = feedstocks/openinference-instrumentation-openai-agents
 	branch = refs/heads/main
+[submodule "hatch-mkdocs"]
+	url = https://github.com/conda-forge/hatch-mkdocs-feedstock.git
+	path = feedstocks/hatch-mkdocs
+	branch = refs/heads/main
