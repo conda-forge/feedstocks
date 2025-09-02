@@ -105750,3 +105750,7 @@
 	url = https://github.com/conda-forge/hatch-mkdocs-feedstock.git
 	path = feedstocks/hatch-mkdocs
 	branch = refs/heads/main
+[submodule "langchain-tavily"]
+	url = https://github.com/conda-forge/langchain-tavily-feedstock.git
+	path = feedstocks/langchain-tavily
+	branch = refs/heads/main
