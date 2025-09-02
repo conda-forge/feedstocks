@@ -105726,3 +105726,7 @@
 	url = https://github.com/conda-forge/chacha20poly1305-reuseable-feedstock.git
 	path = feedstocks/chacha20poly1305-reuseable
 	branch = refs/heads/main
+[submodule "icmplib"]
+	url = https://github.com/conda-forge/icmplib-feedstock.git
+	path = feedstocks/icmplib
+	branch = refs/heads/main
