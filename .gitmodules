@@ -105718,3 +105718,7 @@
 	url = https://github.com/conda-forge/async-interrupt-feedstock.git
 	path = feedstocks/async-interrupt
 	branch = refs/heads/main
+[submodule "noiseprotocol"]
+	url = https://github.com/conda-forge/noiseprotocol-feedstock.git
+	path = feedstocks/noiseprotocol
+	branch = refs/heads/main
