@@ -105738,3 +105738,7 @@
 	url = https://github.com/conda-forge/genai-prices-feedstock.git
 	path = feedstocks/genai-prices
 	branch = refs/heads/main
+[submodule "imas-data-dictionaries"]
+	url = https://github.com/conda-forge/imas-data-dictionaries-feedstock.git
+	path = feedstocks/imas-data-dictionaries
+	branch = refs/heads/main
