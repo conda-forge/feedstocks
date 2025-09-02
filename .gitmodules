@@ -105734,3 +105734,7 @@
 	url = https://github.com/conda-forge/fasta2a-feedstock.git
 	path = feedstocks/fasta2a
 	branch = refs/heads/main
+[submodule "genai-prices"]
+	url = https://github.com/conda-forge/genai-prices-feedstock.git
+	path = feedstocks/genai-prices
+	branch = refs/heads/main
