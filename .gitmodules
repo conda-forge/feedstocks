@@ -105766,3 +105766,7 @@
 	url = https://github.com/conda-forge/standard-xdrlib-feedstock.git
 	path = feedstocks/standard-xdrlib
 	branch = refs/heads/main
+[submodule "draccus"]
+	url = https://github.com/conda-forge/draccus-feedstock.git
+	path = feedstocks/draccus
+	branch = refs/heads/main
