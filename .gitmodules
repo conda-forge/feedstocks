@@ -105762,3 +105762,7 @@
 	url = https://github.com/conda-forge/cityhash-feedstock.git
 	path = feedstocks/cityhash
 	branch = refs/heads/main
+[submodule "standard-xdrlib"]
+	url = https://github.com/conda-forge/standard-xdrlib-feedstock.git
+	path = feedstocks/standard-xdrlib
+	branch = refs/heads/main
