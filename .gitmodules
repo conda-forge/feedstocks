@@ -105758,3 +105758,7 @@
 	url = https://github.com/conda-forge/libnfs-feedstock.git
 	path = feedstocks/libnfs
 	branch = refs/heads/main
+[submodule "cityhash"]
+	url = https://github.com/conda-forge/cityhash-feedstock.git
+	path = feedstocks/cityhash
+	branch = refs/heads/main
