@@ -105754,3 +105754,7 @@
 	url = https://github.com/conda-forge/langchain-tavily-feedstock.git
 	path = feedstocks/langchain-tavily
 	branch = refs/heads/main
+[submodule "libnfs"]
+	url = https://github.com/conda-forge/libnfs-feedstock.git
+	path = feedstocks/libnfs
+	branch = refs/heads/main
