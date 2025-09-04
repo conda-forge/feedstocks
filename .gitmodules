@@ -105770,3 +105770,7 @@
 	url = https://github.com/conda-forge/draccus-feedstock.git
 	path = feedstocks/draccus
 	branch = refs/heads/main
+[submodule "ftservo-python-sdk"]
+	url = https://github.com/conda-forge/ftservo-python-sdk-feedstock.git
+	path = feedstocks/ftservo-python-sdk
+	branch = refs/heads/main
