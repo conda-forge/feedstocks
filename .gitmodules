@@ -105782,3 +105782,7 @@
 	url = https://github.com/conda-forge/solarwindpy-feedstock.git
 	path = feedstocks/solarwindpy
 	branch = refs/heads/main
+[submodule "cditools"]
+	url = https://github.com/conda-forge/cditools-feedstock.git
+	path = feedstocks/cditools
+	branch = refs/heads/main
