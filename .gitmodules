@@ -105774,3 +105774,7 @@
 	url = https://github.com/conda-forge/ftservo-python-sdk-feedstock.git
 	path = feedstocks/ftservo-python-sdk
 	branch = refs/heads/main
+[submodule "dynamixel-sdk"]
+	url = https://github.com/conda-forge/dynamixel-sdk-feedstock.git
+	path = feedstocks/dynamixel-sdk
+	branch = refs/heads/main
