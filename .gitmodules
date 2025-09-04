@@ -105778,3 +105778,7 @@
 	url = https://github.com/conda-forge/dynamixel-sdk-feedstock.git
 	path = feedstocks/dynamixel-sdk
 	branch = refs/heads/main
+[submodule "solarwindpy"]
+	url = https://github.com/conda-forge/solarwindpy-feedstock.git
+	path = feedstocks/solarwindpy
+	branch = refs/heads/main
