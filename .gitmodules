@@ -105802,3 +105802,7 @@
 	url = https://github.com/conda-forge/dccp-feedstock.git
 	path = feedstocks/dccp
 	branch = refs/heads/main
+[submodule "r-tailor"]
+	url = https://github.com/conda-forge/r-tailor-feedstock.git
+	path = feedstocks/r-tailor
+	branch = refs/heads/main
