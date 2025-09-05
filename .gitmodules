@@ -105826,3 +105826,7 @@
 	url = https://github.com/conda-forge/imas-python-feedstock.git
 	path = feedstocks/imas-python
 	branch = refs/heads/main
+[submodule "commitlint-rs"]
+	url = https://github.com/conda-forge/commitlint-rs-feedstock.git
+	path = feedstocks/commitlint-rs
+	branch = refs/heads/main
