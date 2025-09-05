@@ -105810,3 +105810,7 @@
 	url = https://github.com/conda-forge/mohtml-feedstock.git
 	path = feedstocks/mohtml
 	branch = refs/heads/main
+[submodule "python-digitalocean"]
+	url = https://github.com/conda-forge/python-digitalocean-feedstock.git
+	path = feedstocks/python-digitalocean
+	branch = refs/heads/main
