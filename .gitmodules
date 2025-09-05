@@ -105794,3 +105794,7 @@
 	url = https://github.com/conda-forge/libmobility-feedstock.git
 	path = feedstocks/libmobility
 	branch = refs/heads/main
+[submodule "tabpfn-extensions"]
+	url = https://github.com/conda-forge/tabpfn-extensions-feedstock.git
+	path = feedstocks/tabpfn-extensions
+	branch = refs/heads/main
