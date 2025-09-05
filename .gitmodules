@@ -105818,3 +105818,7 @@
 	url = https://github.com/conda-forge/moterm-feedstock.git
 	path = feedstocks/moterm
 	branch = refs/heads/main
+[submodule "dns-lexicon"]
+	url = https://github.com/conda-forge/dns-lexicon-feedstock.git
+	path = feedstocks/dns-lexicon
+	branch = refs/heads/main
