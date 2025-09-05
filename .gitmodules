@@ -105822,3 +105822,7 @@
 	url = https://github.com/conda-forge/dns-lexicon-feedstock.git
 	path = feedstocks/dns-lexicon
 	branch = refs/heads/main
+[submodule "imas-python"]
+	url = https://github.com/conda-forge/imas-python-feedstock.git
+	path = feedstocks/imas-python
+	branch = refs/heads/main
