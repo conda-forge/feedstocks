@@ -105814,3 +105814,7 @@
 	url = https://github.com/conda-forge/python-digitalocean-feedstock.git
 	path = feedstocks/python-digitalocean
 	branch = refs/heads/main
+[submodule "moterm"]
+	url = https://github.com/conda-forge/moterm-feedstock.git
+	path = feedstocks/moterm
+	branch = refs/heads/main
