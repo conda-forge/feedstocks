@@ -105798,3 +105798,7 @@
 	url = https://github.com/conda-forge/tabpfn-extensions-feedstock.git
 	path = feedstocks/tabpfn-extensions
 	branch = refs/heads/main
+[submodule "dccp"]
+	url = https://github.com/conda-forge/dccp-feedstock.git
+	path = feedstocks/dccp
+	branch = refs/heads/main
