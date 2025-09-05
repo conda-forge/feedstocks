@@ -105806,3 +105806,7 @@
 	url = https://github.com/conda-forge/r-tailor-feedstock.git
 	path = feedstocks/r-tailor
 	branch = refs/heads/main
+[submodule "mohtml"]
+	url = https://github.com/conda-forge/mohtml-feedstock.git
+	path = feedstocks/mohtml
+	branch = refs/heads/main
