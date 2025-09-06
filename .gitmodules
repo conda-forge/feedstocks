@@ -105834,3 +105834,7 @@
 	url = https://github.com/conda-forge/jupyter_server_documents-feedstock.git
 	path = feedstocks/jupyter_server_documents
 	branch = refs/heads/main
+[submodule "jira-cli"]
+	url = https://github.com/conda-forge/jira-cli-feedstock.git
+	path = feedstocks/jira-cli
+	branch = refs/heads/main
