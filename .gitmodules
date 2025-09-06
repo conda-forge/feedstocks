@@ -105830,3 +105830,7 @@
 	url = https://github.com/conda-forge/commitlint-rs-feedstock.git
 	path = feedstocks/commitlint-rs
 	branch = refs/heads/main
+[submodule "jupyter_server_documents"]
+	url = https://github.com/conda-forge/jupyter_server_documents-feedstock.git
+	path = feedstocks/jupyter_server_documents
+	branch = refs/heads/main
