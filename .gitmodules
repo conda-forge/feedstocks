@@ -105842,3 +105842,7 @@
 	url = https://github.com/conda-forge/lgatr-feedstock.git
 	path = feedstocks/lgatr
 	branch = refs/heads/main
+[submodule "gpjax"]
+	url = https://github.com/conda-forge/gpjax-feedstock.git
+	path = feedstocks/gpjax
+	branch = refs/heads/main
