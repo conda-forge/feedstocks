@@ -105858,3 +105858,7 @@
 	url = https://github.com/conda-forge/anysqlite-feedstock.git
 	path = feedstocks/anysqlite
 	branch = refs/heads/main
+[submodule "alang"]
+	url = https://github.com/conda-forge/alang-feedstock.git
+	path = feedstocks/alang
+	branch = refs/heads/main
