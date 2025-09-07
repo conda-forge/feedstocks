@@ -105854,3 +105854,7 @@
 	url = https://github.com/conda-forge/aioresult-feedstock.git
 	path = feedstocks/aioresult
 	branch = refs/heads/main
+[submodule "anysqlite"]
+	url = https://github.com/conda-forge/anysqlite-feedstock.git
+	path = feedstocks/anysqlite
+	branch = refs/heads/main
