@@ -105846,3 +105846,7 @@
 	url = https://github.com/conda-forge/gpjax-feedstock.git
 	path = feedstocks/gpjax
 	branch = refs/heads/main
+[submodule "vpl-gpu-rt"]
+	url = https://github.com/conda-forge/vpl-gpu-rt-feedstock.git
+	path = feedstocks/vpl-gpu-rt
+	branch = refs/heads/main
