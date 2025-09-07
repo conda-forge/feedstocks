@@ -105850,3 +105850,7 @@
 	url = https://github.com/conda-forge/vpl-gpu-rt-feedstock.git
 	path = feedstocks/vpl-gpu-rt
 	branch = refs/heads/main
+[submodule "aioresult"]
+	url = https://github.com/conda-forge/aioresult-feedstock.git
+	path = feedstocks/aioresult
+	branch = refs/heads/main
