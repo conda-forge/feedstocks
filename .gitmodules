@@ -105890,3 +105890,7 @@
 	url = https://github.com/conda-forge/compas_pb-feedstock.git
 	path = feedstocks/compas_pb
 	branch = refs/heads/main
+[submodule "blender-mathutils"]
+	url = https://github.com/conda-forge/blender-mathutils-feedstock.git
+	path = feedstocks/blender-mathutils
+	branch = refs/heads/main
