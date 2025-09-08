@@ -105874,3 +105874,7 @@
 	url = https://github.com/conda-forge/reactpy-feedstock.git
 	path = feedstocks/reactpy
 	branch = refs/heads/main
+[submodule "rocm-core"]
+	url = https://github.com/conda-forge/rocm-core-feedstock.git
+	path = feedstocks/rocm-core
+	branch = refs/heads/main
