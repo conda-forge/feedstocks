@@ -105862,3 +105862,7 @@
 	url = https://github.com/conda-forge/alang-feedstock.git
 	path = feedstocks/alang
 	branch = refs/heads/main
+[submodule "dyno"]
+	url = https://github.com/conda-forge/dyno-feedstock.git
+	path = feedstocks/dyno
+	branch = refs/heads/main
