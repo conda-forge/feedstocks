@@ -105870,3 +105870,7 @@
 	url = https://github.com/conda-forge/excelcsvparsehelper-with-locking-feedstock.git
 	path = feedstocks/excelcsvparsehelper-with-locking
 	branch = refs/heads/main
+[submodule "reactpy"]
+	url = https://github.com/conda-forge/reactpy-feedstock.git
+	path = feedstocks/reactpy
+	branch = refs/heads/main
