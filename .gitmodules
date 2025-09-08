@@ -105898,3 +105898,7 @@
 	url = https://github.com/conda-forge/map-binning-feedstock.git
 	path = feedstocks/map-binning
 	branch = refs/heads/main
+[submodule "minipcn"]
+	url = https://github.com/conda-forge/minipcn-feedstock.git
+	path = feedstocks/minipcn
+	branch = refs/heads/main
