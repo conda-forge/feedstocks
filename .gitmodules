@@ -105894,3 +105894,7 @@
 	url = https://github.com/conda-forge/blender-mathutils-feedstock.git
 	path = feedstocks/blender-mathutils
 	branch = refs/heads/main
+[submodule "map-binning"]
+	url = https://github.com/conda-forge/map-binning-feedstock.git
+	path = feedstocks/map-binning
+	branch = refs/heads/main
