@@ -105878,3 +105878,7 @@
 	url = https://github.com/conda-forge/rocm-core-feedstock.git
 	path = feedstocks/rocm-core
 	branch = refs/heads/main
+[submodule "mamba-press"]
+	url = https://github.com/conda-forge/mamba-press-feedstock.git
+	path = feedstocks/mamba-press
+	branch = refs/heads/main
