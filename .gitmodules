@@ -105886,3 +105886,7 @@
 	url = https://github.com/conda-forge/pyjelly-feedstock.git
 	path = feedstocks/pyjelly
 	branch = refs/heads/main
+[submodule "compas_pb"]
+	url = https://github.com/conda-forge/compas_pb-feedstock.git
+	path = feedstocks/compas_pb
+	branch = refs/heads/main
