@@ -105930,3 +105930,7 @@
 	url = https://github.com/conda-forge/reboost-feedstock.git
 	path = feedstocks/reboost
 	branch = refs/heads/main
+[submodule "shapiq"]
+	url = https://github.com/conda-forge/shapiq-feedstock.git
+	path = feedstocks/shapiq
+	branch = refs/heads/main
