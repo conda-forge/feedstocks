@@ -105942,3 +105942,7 @@
 	url = https://github.com/conda-forge/bioio-ome-zarr-feedstock.git
 	path = feedstocks/bioio-ome-zarr
 	branch = refs/heads/main
+[submodule "easchersim"]
+	url = https://github.com/conda-forge/easchersim-feedstock.git
+	path = feedstocks/easchersim
+	branch = refs/heads/main
