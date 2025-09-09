@@ -105918,3 +105918,7 @@
 	url = https://github.com/conda-forge/legend-pygeom-tools-feedstock.git
 	path = feedstocks/legend-pygeom-tools
 	branch = refs/heads/main
+[submodule "legend-pygeom-optics"]
+	url = https://github.com/conda-forge/legend-pygeom-optics-feedstock.git
+	path = feedstocks/legend-pygeom-optics
+	branch = refs/heads/main
