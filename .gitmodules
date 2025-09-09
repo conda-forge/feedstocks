@@ -105906,3 +105906,7 @@
 	url = https://github.com/conda-forge/sparse-transform-feedstock.git
 	path = feedstocks/sparse-transform
 	branch = refs/heads/main
+[submodule "legend-pygeom-hpges"]
+	url = https://github.com/conda-forge/legend-pygeom-hpges-feedstock.git
+	path = feedstocks/legend-pygeom-hpges
+	branch = refs/heads/main
