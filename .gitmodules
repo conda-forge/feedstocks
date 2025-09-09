@@ -105902,3 +105902,7 @@
 	url = https://github.com/conda-forge/minipcn-feedstock.git
 	path = feedstocks/minipcn
 	branch = refs/heads/main
+[submodule "sparse-transform"]
+	url = https://github.com/conda-forge/sparse-transform-feedstock.git
+	path = feedstocks/sparse-transform
+	branch = refs/heads/main
