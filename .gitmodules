@@ -105922,3 +105922,7 @@
 	url = https://github.com/conda-forge/legend-pygeom-optics-feedstock.git
 	path = feedstocks/legend-pygeom-optics
 	branch = refs/heads/main
+[submodule "bioio-lif"]
+	url = https://github.com/conda-forge/bioio-lif-feedstock.git
+	path = feedstocks/bioio-lif
+	branch = refs/heads/main
