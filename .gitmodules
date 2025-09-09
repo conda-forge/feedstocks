@@ -105926,3 +105926,7 @@
 	url = https://github.com/conda-forge/bioio-lif-feedstock.git
 	path = feedstocks/bioio-lif
 	branch = refs/heads/main
+[submodule "reboost"]
+	url = https://github.com/conda-forge/reboost-feedstock.git
+	path = feedstocks/reboost
+	branch = refs/heads/main
