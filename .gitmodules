@@ -105938,3 +105938,7 @@
 	url = https://github.com/conda-forge/emicroml-feedstock.git
 	path = feedstocks/emicroml
 	branch = refs/heads/main
+[submodule "bioio-ome-zarr"]
+	url = https://github.com/conda-forge/bioio-ome-zarr-feedstock.git
+	path = feedstocks/bioio-ome-zarr
+	branch = refs/heads/main
