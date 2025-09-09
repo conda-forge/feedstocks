@@ -105914,3 +105914,7 @@
 	url = https://github.com/conda-forge/moutils-feedstock.git
 	path = feedstocks/moutils
 	branch = refs/heads/main
+[submodule "legend-pygeom-tools"]
+	url = https://github.com/conda-forge/legend-pygeom-tools-feedstock.git
+	path = feedstocks/legend-pygeom-tools
+	branch = refs/heads/main
