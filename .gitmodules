@@ -105934,3 +105934,7 @@
 	url = https://github.com/conda-forge/shapiq-feedstock.git
 	path = feedstocks/shapiq
 	branch = refs/heads/main
+[submodule "emicroml"]
+	url = https://github.com/conda-forge/emicroml-feedstock.git
+	path = feedstocks/emicroml
+	branch = refs/heads/main
