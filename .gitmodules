@@ -105910,3 +105910,7 @@
 	url = https://github.com/conda-forge/legend-pygeom-hpges-feedstock.git
 	path = feedstocks/legend-pygeom-hpges
 	branch = refs/heads/main
+[submodule "moutils"]
+	url = https://github.com/conda-forge/moutils-feedstock.git
+	path = feedstocks/moutils
+	branch = refs/heads/main
