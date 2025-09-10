@@ -105962,3 +105962,7 @@
 	url = https://github.com/conda-forge/elecsolver-feedstock.git
 	path = feedstocks/elecsolver
 	branch = refs/heads/main
+[submodule "omnipkg"]
+	url = https://github.com/conda-forge/omnipkg-feedstock.git
+	path = feedstocks/omnipkg
+	branch = refs/heads/main
