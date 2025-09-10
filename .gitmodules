@@ -105966,3 +105966,7 @@
 	url = https://github.com/conda-forge/omnipkg-feedstock.git
 	path = feedstocks/omnipkg
 	branch = refs/heads/main
+[submodule "jupyterlab-dyno"]
+	url = https://github.com/conda-forge/jupyterlab-dyno-feedstock.git
+	path = feedstocks/jupyterlab-dyno
+	branch = refs/heads/main
