@@ -105974,3 +105974,7 @@
 	url = https://github.com/conda-forge/yamlium-feedstock.git
 	path = feedstocks/yamlium
 	branch = refs/heads/main
+[submodule "msibi"]
+	url = https://github.com/conda-forge/msibi-feedstock.git
+	path = feedstocks/msibi
+	branch = refs/heads/main
