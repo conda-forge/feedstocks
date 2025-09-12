@@ -105982,3 +105982,7 @@
 	url = https://github.com/conda-forge/writer-sdk-feedstock.git
 	path = feedstocks/writer-sdk
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-writer"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-writer-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-writer
+	branch = refs/heads/main
