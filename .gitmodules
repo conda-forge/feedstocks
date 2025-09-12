@@ -105978,3 +105978,7 @@
 	url = https://github.com/conda-forge/msibi-feedstock.git
 	path = feedstocks/msibi
 	branch = refs/heads/main
+[submodule "writer-sdk"]
+	url = https://github.com/conda-forge/writer-sdk-feedstock.git
+	path = feedstocks/writer-sdk
+	branch = refs/heads/main
