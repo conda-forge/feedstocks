@@ -105986,3 +105986,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-writer-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-writer
 	branch = refs/heads/main
+[submodule "types-flask-cors"]
+	url = https://github.com/conda-forge/types-flask-cors-feedstock.git
+	path = feedstocks/types-flask-cors
+	branch = refs/heads/main
