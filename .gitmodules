@@ -105990,3 +105990,7 @@
 	url = https://github.com/conda-forge/types-flask-cors-feedstock.git
 	path = feedstocks/types-flask-cors
 	branch = refs/heads/main
+[submodule "doxystub"]
+	url = https://github.com/conda-forge/doxystub-feedstock.git
+	path = feedstocks/doxystub
+	branch = refs/heads/main
