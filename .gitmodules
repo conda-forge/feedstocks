@@ -106002,3 +106002,7 @@
 	url = https://github.com/conda-forge/gym-aloha-feedstock.git
 	path = feedstocks/gym-aloha
 	branch = refs/heads/main
+[submodule "tranche"]
+	url = https://github.com/conda-forge/tranche-feedstock.git
+	path = feedstocks/tranche
+	branch = refs/heads/main
