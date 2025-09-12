@@ -105994,3 +105994,7 @@
 	url = https://github.com/conda-forge/doxystub-feedstock.git
 	path = feedstocks/doxystub
 	branch = refs/heads/main
+[submodule "gymnasium-robotics"]
+	url = https://github.com/conda-forge/gymnasium-robotics-feedstock.git
+	path = feedstocks/gymnasium-robotics
+	branch = refs/heads/main
