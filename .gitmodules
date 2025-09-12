@@ -105998,3 +105998,7 @@
 	url = https://github.com/conda-forge/gymnasium-robotics-feedstock.git
 	path = feedstocks/gymnasium-robotics
 	branch = refs/heads/main
+[submodule "gym-aloha"]
+	url = https://github.com/conda-forge/gym-aloha-feedstock.git
+	path = feedstocks/gym-aloha
+	branch = refs/heads/main
