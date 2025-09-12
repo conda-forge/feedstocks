@@ -106014,3 +106014,7 @@
 	url = https://github.com/conda-forge/pydub-stubs-feedstock.git
 	path = feedstocks/pydub-stubs
 	branch = refs/heads/main
+[submodule "elevenlabs"]
+	url = https://github.com/conda-forge/elevenlabs-feedstock.git
+	path = feedstocks/elevenlabs
+	branch = refs/heads/main
