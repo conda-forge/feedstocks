@@ -106006,3 +106006,7 @@
 	url = https://github.com/conda-forge/tranche-feedstock.git
 	path = feedstocks/tranche
 	branch = refs/heads/main
+[submodule "r-sccustomize"]
+	url = https://github.com/conda-forge/r-sccustomize-feedstock.git
+	path = feedstocks/r-sccustomize
+	branch = refs/heads/main
