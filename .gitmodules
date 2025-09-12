@@ -106010,3 +106010,7 @@
 	url = https://github.com/conda-forge/r-sccustomize-feedstock.git
 	path = feedstocks/r-sccustomize
 	branch = refs/heads/main
+[submodule "pydub-stubs"]
+	url = https://github.com/conda-forge/pydub-stubs-feedstock.git
+	path = feedstocks/pydub-stubs
+	branch = refs/heads/main
