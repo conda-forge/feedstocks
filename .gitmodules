@@ -106018,3 +106018,7 @@
 	url = https://github.com/conda-forge/elevenlabs-feedstock.git
 	path = feedstocks/elevenlabs
 	branch = refs/heads/main
+[submodule "grpcui"]
+	url = https://github.com/conda-forge/grpcui-feedstock.git
+	path = feedstocks/grpcui
+	branch = refs/heads/main
