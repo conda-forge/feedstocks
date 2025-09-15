@@ -106022,3 +106022,7 @@
 	url = https://github.com/conda-forge/grpcui-feedstock.git
 	path = feedstocks/grpcui
 	branch = refs/heads/main
+[submodule "gepa"]
+	url = https://github.com/conda-forge/gepa-feedstock.git
+	path = feedstocks/gepa
+	branch = refs/heads/main
