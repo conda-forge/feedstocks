@@ -106034,3 +106034,7 @@
 	url = https://github.com/conda-forge/django-online-issues-feedstock.git
 	path = feedstocks/django-online-issues
 	branch = refs/heads/main
+[submodule "gym-xarm"]
+	url = https://github.com/conda-forge/gym-xarm-feedstock.git
+	path = feedstocks/gym-xarm
+	branch = refs/heads/main
