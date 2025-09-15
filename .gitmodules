@@ -106030,3 +106030,7 @@
 	url = https://github.com/conda-forge/rudof-feedstock.git
 	path = feedstocks/rudof
 	branch = refs/heads/main
+[submodule "django-online-issues"]
+	url = https://github.com/conda-forge/django-online-issues-feedstock.git
+	path = feedstocks/django-online-issues
+	branch = refs/heads/main
