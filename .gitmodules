@@ -106026,3 +106026,7 @@
 	url = https://github.com/conda-forge/gepa-feedstock.git
 	path = feedstocks/gepa
 	branch = refs/heads/main
+[submodule "rudof"]
+	url = https://github.com/conda-forge/rudof-feedstock.git
+	path = feedstocks/rudof
+	branch = refs/heads/main
