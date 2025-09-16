@@ -106038,3 +106038,7 @@
 	url = https://github.com/conda-forge/gym-xarm-feedstock.git
 	path = feedstocks/gym-xarm
 	branch = refs/heads/main
+[submodule "glinfo-rs"]
+	url = https://github.com/conda-forge/glinfo-rs-feedstock.git
+	path = feedstocks/glinfo-rs
+	branch = refs/heads/main
