@@ -106042,3 +106042,7 @@
 	url = https://github.com/conda-forge/glinfo-rs-feedstock.git
 	path = feedstocks/glinfo-rs
 	branch = refs/heads/main
+[submodule "grouper"]
+	url = https://github.com/conda-forge/grouper-feedstock.git
+	path = feedstocks/grouper
+	branch = refs/heads/main
