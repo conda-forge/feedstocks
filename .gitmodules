@@ -106050,3 +106050,7 @@
 	url = https://github.com/conda-forge/geomad-feedstock.git
 	path = feedstocks/geomad
 	branch = refs/heads/main
+[submodule "fbdfile"]
+	url = https://github.com/conda-forge/fbdfile-feedstock.git
+	path = feedstocks/fbdfile
+	branch = refs/heads/main
