@@ -106062,3 +106062,7 @@
 	url = https://github.com/conda-forge/r-nmfbin-feedstock.git
 	path = feedstocks/r-nmfbin
 	branch = refs/heads/main
+[submodule "drugforge"]
+	url = https://github.com/conda-forge/drugforge-feedstock.git
+	path = feedstocks/drugforge
+	branch = refs/heads/main
