@@ -106066,3 +106066,7 @@
 	url = https://github.com/conda-forge/drugforge-feedstock.git
 	path = feedstocks/drugforge
 	branch = refs/heads/main
+[submodule "jupyterlab-chat"]
+	url = https://github.com/conda-forge/jupyterlab-chat-feedstock.git
+	path = feedstocks/jupyterlab-chat
+	branch = refs/heads/main
