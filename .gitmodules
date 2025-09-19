@@ -106074,3 +106074,7 @@
 	url = https://github.com/conda-forge/starlette-compress-feedstock.git
 	path = feedstocks/starlette-compress
 	branch = refs/heads/main
+[submodule "r-stormr"]
+	url = https://github.com/conda-forge/r-stormr-feedstock.git
+	path = feedstocks/r-stormr
+	branch = refs/heads/main
