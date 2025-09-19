@@ -106070,3 +106070,7 @@
 	url = https://github.com/conda-forge/jupyterlab-chat-feedstock.git
 	path = feedstocks/jupyterlab-chat
 	branch = refs/heads/main
+[submodule "starlette-compress"]
+	url = https://github.com/conda-forge/starlette-compress-feedstock.git
+	path = feedstocks/starlette-compress
+	branch = refs/heads/main
