@@ -106078,3 +106078,7 @@
 	url = https://github.com/conda-forge/r-stormr-feedstock.git
 	path = feedstocks/r-stormr
 	branch = refs/heads/main
+[submodule "cml_wd_pytorch"]
+	url = https://github.com/conda-forge/cml_wd_pytorch-feedstock.git
+	path = feedstocks/cml_wd_pytorch
+	branch = refs/heads/main
