@@ -106082,3 +106082,7 @@
 	url = https://github.com/conda-forge/cml_wd_pytorch-feedstock.git
 	path = feedstocks/cml_wd_pytorch
 	branch = refs/heads/main
+[submodule "cccl-python"]
+	url = https://github.com/conda-forge/cccl-python-feedstock.git
+	path = feedstocks/cccl-python
+	branch = refs/heads/main
