@@ -106086,3 +106086,7 @@
 	url = https://github.com/conda-forge/cccl-python-feedstock.git
 	path = feedstocks/cccl-python
 	branch = refs/heads/main
+[submodule "python-datauri"]
+	url = https://github.com/conda-forge/python-datauri-feedstock.git
+	path = feedstocks/python-datauri
+	branch = refs/heads/main
