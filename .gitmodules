@@ -106090,3 +106090,7 @@
 	url = https://github.com/conda-forge/python-datauri-feedstock.git
 	path = feedstocks/python-datauri
 	branch = refs/heads/main
+[submodule "cohere"]
+	url = https://github.com/conda-forge/cohere-feedstock.git
+	path = feedstocks/cohere
+	branch = refs/heads/main
