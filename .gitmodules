@@ -106106,3 +106106,7 @@
 	url = https://github.com/conda-forge/py-cid-feedstock.git
 	path = feedstocks/py-cid
 	branch = refs/heads/main
+[submodule "pymultihash"]
+	url = https://github.com/conda-forge/pymultihash-feedstock.git
+	path = feedstocks/pymultihash
+	branch = refs/heads/main
