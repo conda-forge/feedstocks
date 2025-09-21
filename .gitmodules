@@ -106114,3 +106114,7 @@
 	url = https://github.com/conda-forge/py-multicodec-feedstock.git
 	path = feedstocks/py-multicodec
 	branch = refs/heads/main
+[submodule "py-multibase"]
+	url = https://github.com/conda-forge/py-multibase-feedstock.git
+	path = feedstocks/py-multibase
+	branch = refs/heads/main
