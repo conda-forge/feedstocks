@@ -106110,3 +106110,7 @@
 	url = https://github.com/conda-forge/pymultihash-feedstock.git
 	path = feedstocks/pymultihash
 	branch = refs/heads/main
+[submodule "py-multicodec"]
+	url = https://github.com/conda-forge/py-multicodec-feedstock.git
+	path = feedstocks/py-multicodec
+	branch = refs/heads/main
