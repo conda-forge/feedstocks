@@ -106102,3 +106102,7 @@
 	url = https://github.com/conda-forge/msdfgen-feedstock.git
 	path = feedstocks/msdfgen
 	branch = refs/heads/main
+[submodule "py-cid"]
+	url = https://github.com/conda-forge/py-cid-feedstock.git
+	path = feedstocks/py-cid
+	branch = refs/heads/main
