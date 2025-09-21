@@ -106094,3 +106094,7 @@
 	url = https://github.com/conda-forge/cohere-feedstock.git
 	path = feedstocks/cohere
 	branch = refs/heads/main
+[submodule "hatch-build"]
+	url = https://github.com/conda-forge/hatch-build-feedstock.git
+	path = feedstocks/hatch-build
+	branch = refs/heads/main
