@@ -106098,3 +106098,7 @@
 	url = https://github.com/conda-forge/hatch-build-feedstock.git
 	path = feedstocks/hatch-build
 	branch = refs/heads/main
+[submodule "msdfgen"]
+	url = https://github.com/conda-forge/msdfgen-feedstock.git
+	path = feedstocks/msdfgen
+	branch = refs/heads/main
