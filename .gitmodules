@@ -106178,3 +106178,7 @@
 	url = https://github.com/conda-forge/certbot-dns-cloudflare-feedstock.git
 	path = feedstocks/certbot-dns-cloudflare
 	branch = refs/heads/main
+[submodule "certbot-dns-dnsmadeeasy"]
+	url = https://github.com/conda-forge/certbot-dns-dnsmadeeasy-feedstock.git
+	path = feedstocks/certbot-dns-dnsmadeeasy
+	branch = refs/heads/main
