@@ -106118,3 +106118,7 @@
 	url = https://github.com/conda-forge/py-multibase-feedstock.git
 	path = feedstocks/py-multibase
 	branch = refs/heads/main
+[submodule "jupyterlab-slideshow"]
+	url = https://github.com/conda-forge/jupyterlab-slideshow-feedstock.git
+	path = feedstocks/jupyterlab-slideshow
+	branch = refs/heads/main
