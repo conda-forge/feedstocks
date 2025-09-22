@@ -106134,3 +106134,7 @@
 	url = https://github.com/conda-forge/dashscope-feedstock.git
 	path = feedstocks/dashscope
 	branch = refs/heads/main
+[submodule "certbot-dns-sakuracloud"]
+	url = https://github.com/conda-forge/certbot-dns-sakuracloud-feedstock.git
+	path = feedstocks/certbot-dns-sakuracloud
+	branch = refs/heads/main
