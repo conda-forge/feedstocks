@@ -106162,3 +106162,7 @@
 	url = https://github.com/conda-forge/certbot-dns-gehirn-feedstock.git
 	path = feedstocks/certbot-dns-gehirn
 	branch = refs/heads/main
+[submodule "certbot-dns-route53"]
+	url = https://github.com/conda-forge/certbot-dns-route53-feedstock.git
+	path = feedstocks/certbot-dns-route53
+	branch = refs/heads/main
