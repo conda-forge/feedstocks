@@ -106126,3 +106126,7 @@
 	url = https://github.com/conda-forge/pondpond-feedstock.git
 	path = feedstocks/pondpond
 	branch = refs/heads/main
+[submodule "madoka"]
+	url = https://github.com/conda-forge/madoka-feedstock.git
+	path = feedstocks/madoka
+	branch = refs/heads/main
