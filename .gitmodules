@@ -106186,3 +106186,7 @@
 	url = https://github.com/conda-forge/certbot-dns-nsone-feedstock.git
 	path = feedstocks/certbot-dns-nsone
 	branch = refs/heads/main
+[submodule "upstage-des"]
+	url = https://github.com/conda-forge/upstage-des-feedstock.git
+	path = feedstocks/upstage-des
+	branch = refs/heads/main
