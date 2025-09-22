@@ -106170,3 +106170,7 @@
 	url = https://github.com/conda-forge/certbot-dns-luadns-feedstock.git
 	path = feedstocks/certbot-dns-luadns
 	branch = refs/heads/main
+[submodule "certbot-dns-ovh"]
+	url = https://github.com/conda-forge/certbot-dns-ovh-feedstock.git
+	path = feedstocks/certbot-dns-ovh
+	branch = refs/heads/main
