@@ -106130,3 +106130,7 @@
 	url = https://github.com/conda-forge/madoka-feedstock.git
 	path = feedstocks/madoka
 	branch = refs/heads/main
+[submodule "dashscope"]
+	url = https://github.com/conda-forge/dashscope-feedstock.git
+	path = feedstocks/dashscope
+	branch = refs/heads/main
