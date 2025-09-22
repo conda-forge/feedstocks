@@ -106166,3 +106166,7 @@
 	url = https://github.com/conda-forge/certbot-dns-route53-feedstock.git
 	path = feedstocks/certbot-dns-route53
 	branch = refs/heads/main
+[submodule "certbot-dns-luadns"]
+	url = https://github.com/conda-forge/certbot-dns-luadns-feedstock.git
+	path = feedstocks/certbot-dns-luadns
+	branch = refs/heads/main
