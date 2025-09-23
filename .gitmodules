@@ -106214,3 +106214,7 @@
 	url = https://github.com/conda-forge/lightly-train-feedstock.git
 	path = feedstocks/lightly-train
 	branch = refs/heads/main
+[submodule "python-tds"]
+	url = https://github.com/conda-forge/python-tds-feedstock.git
+	path = feedstocks/python-tds
+	branch = refs/heads/main
