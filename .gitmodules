@@ -106202,3 +106202,7 @@
 	url = https://github.com/conda-forge/jupyterlab-gallery-feedstock.git
 	path = feedstocks/jupyterlab-gallery
 	branch = refs/heads/main
+[submodule "jupyterlab-launchpad"]
+	url = https://github.com/conda-forge/jupyterlab-launchpad-feedstock.git
+	path = feedstocks/jupyterlab-launchpad
+	branch = refs/heads/main
