@@ -106222,3 +106222,7 @@
 	url = https://github.com/conda-forge/prismatools-feedstock.git
 	path = feedstocks/prismatools
 	branch = refs/heads/main
+[submodule "ufit"]
+	url = https://github.com/conda-forge/ufit-feedstock.git
+	path = feedstocks/ufit
+	branch = refs/heads/main
