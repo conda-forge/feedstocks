@@ -106210,3 +106210,7 @@
 	url = https://github.com/conda-forge/pygments-styles-feedstock.git
 	path = feedstocks/pygments-styles
 	branch = refs/heads/main
+[submodule "lightly-train"]
+	url = https://github.com/conda-forge/lightly-train-feedstock.git
+	path = feedstocks/lightly-train
+	branch = refs/heads/main
