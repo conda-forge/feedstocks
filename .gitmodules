@@ -106206,3 +106206,7 @@
 	url = https://github.com/conda-forge/jupyterlab-launchpad-feedstock.git
 	path = feedstocks/jupyterlab-launchpad
 	branch = refs/heads/main
+[submodule "pygments-styles"]
+	url = https://github.com/conda-forge/pygments-styles-feedstock.git
+	path = feedstocks/pygments-styles
+	branch = refs/heads/main
