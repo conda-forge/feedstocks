@@ -106190,3 +106190,7 @@
 	url = https://github.com/conda-forge/upstage-des-feedstock.git
 	path = feedstocks/upstage-des
 	branch = refs/heads/main
+[submodule "mdbtools"]
+	url = https://github.com/conda-forge/mdbtools-feedstock.git
+	path = feedstocks/mdbtools
+	branch = refs/heads/main
