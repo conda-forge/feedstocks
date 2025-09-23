@@ -106218,3 +106218,7 @@
 	url = https://github.com/conda-forge/python-tds-feedstock.git
 	path = feedstocks/python-tds
 	branch = refs/heads/main
+[submodule "prismatools"]
+	url = https://github.com/conda-forge/prismatools-feedstock.git
+	path = feedstocks/prismatools
+	branch = refs/heads/main
