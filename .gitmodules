@@ -106198,3 +106198,7 @@
 	url = https://github.com/conda-forge/panic-suite-feedstock.git
 	path = feedstocks/panic-suite
 	branch = refs/heads/main
+[submodule "jupyterlab-gallery"]
+	url = https://github.com/conda-forge/jupyterlab-gallery-feedstock.git
+	path = feedstocks/jupyterlab-gallery
+	branch = refs/heads/main
