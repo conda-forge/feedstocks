@@ -106226,3 +106226,7 @@
 	url = https://github.com/conda-forge/ufit-feedstock.git
 	path = feedstocks/ufit
 	branch = refs/heads/main
+[submodule "tabpfn-common-utils"]
+	url = https://github.com/conda-forge/tabpfn-common-utils-feedstock.git
+	path = feedstocks/tabpfn-common-utils
+	branch = refs/heads/main
