@@ -106230,3 +106230,7 @@
 	url = https://github.com/conda-forge/tabpfn-common-utils-feedstock.git
 	path = feedstocks/tabpfn-common-utils
 	branch = refs/heads/main
+[submodule "netbird"]
+	url = https://github.com/conda-forge/netbird-feedstock.git
+	path = feedstocks/netbird
+	branch = refs/heads/main
