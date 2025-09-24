@@ -106234,3 +106234,7 @@
 	url = https://github.com/conda-forge/netbird-feedstock.git
 	path = feedstocks/netbird
 	branch = refs/heads/main
+[submodule "metadata-crawler"]
+	url = https://github.com/conda-forge/metadata-crawler-feedstock.git
+	path = feedstocks/metadata-crawler
+	branch = refs/heads/main
