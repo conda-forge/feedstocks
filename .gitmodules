@@ -106238,3 +106238,7 @@
 	url = https://github.com/conda-forge/metadata-crawler-feedstock.git
 	path = feedstocks/metadata-crawler
 	branch = refs/heads/main
+[submodule "langchain-ollama"]
+	url = https://github.com/conda-forge/langchain-ollama-feedstock.git
+	path = feedstocks/langchain-ollama
+	branch = refs/heads/main
