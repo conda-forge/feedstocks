@@ -106258,3 +106258,7 @@
 	url = https://github.com/conda-forge/httpx-aiohttp-feedstock.git
 	path = feedstocks/httpx-aiohttp
 	branch = refs/heads/main
+[submodule "sasdata"]
+	url = https://github.com/conda-forge/sasdata-feedstock.git
+	path = feedstocks/sasdata
+	branch = refs/heads/main
