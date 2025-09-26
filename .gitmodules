@@ -106262,3 +106262,7 @@
 	url = https://github.com/conda-forge/sasdata-feedstock.git
 	path = feedstocks/sasdata
 	branch = refs/heads/main
+[submodule "mg5amcnlo-pythia8-interface"]
+	url = https://github.com/conda-forge/mg5amcnlo-pythia8-interface-feedstock.git
+	path = feedstocks/mg5amcnlo-pythia8-interface
+	branch = refs/heads/main
