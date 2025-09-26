@@ -106250,3 +106250,7 @@
 	url = https://github.com/conda-forge/polars-tdigest-feedstock.git
 	path = feedstocks/polars-tdigest
 	branch = refs/heads/main
+[submodule "hatch-sphinx"]
+	url = https://github.com/conda-forge/hatch-sphinx-feedstock.git
+	path = feedstocks/hatch-sphinx
+	branch = refs/heads/main
