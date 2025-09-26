@@ -106242,3 +106242,7 @@
 	url = https://github.com/conda-forge/langchain-ollama-feedstock.git
 	path = feedstocks/langchain-ollama
 	branch = refs/heads/main
+[submodule "geoarrow-rust-python"]
+	url = https://github.com/conda-forge/geoarrow-rust-python-feedstock.git
+	path = feedstocks/geoarrow-rust-python
+	branch = refs/heads/main
