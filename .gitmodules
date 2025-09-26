@@ -106254,3 +106254,7 @@
 	url = https://github.com/conda-forge/hatch-sphinx-feedstock.git
 	path = feedstocks/hatch-sphinx
 	branch = refs/heads/main
+[submodule "httpx-aiohttp"]
+	url = https://github.com/conda-forge/httpx-aiohttp-feedstock.git
+	path = feedstocks/httpx-aiohttp
+	branch = refs/heads/main
