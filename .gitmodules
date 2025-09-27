@@ -106270,3 +106270,7 @@
 	url = https://github.com/conda-forge/libsrtp2-feedstock.git
 	path = feedstocks/libsrtp2
 	branch = refs/heads/main
+[submodule "pylibsrtp"]
+	url = https://github.com/conda-forge/pylibsrtp-feedstock.git
+	path = feedstocks/pylibsrtp
+	branch = refs/heads/main
