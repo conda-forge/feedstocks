@@ -106266,3 +106266,7 @@
 	url = https://github.com/conda-forge/mg5amcnlo-pythia8-interface-feedstock.git
 	path = feedstocks/mg5amcnlo-pythia8-interface
 	branch = refs/heads/main
+[submodule "libsrtp2"]
+	url = https://github.com/conda-forge/libsrtp2-feedstock.git
+	path = feedstocks/libsrtp2
+	branch = refs/heads/main
