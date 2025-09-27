@@ -106274,3 +106274,7 @@
 	url = https://github.com/conda-forge/pylibsrtp-feedstock.git
 	path = feedstocks/pylibsrtp
 	branch = refs/heads/main
+[submodule "aiortc"]
+	url = https://github.com/conda-forge/aiortc-feedstock.git
+	path = feedstocks/aiortc
+	branch = refs/heads/main
