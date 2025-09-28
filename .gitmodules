@@ -106278,3 +106278,7 @@
 	url = https://github.com/conda-forge/aiortc-feedstock.git
 	path = feedstocks/aiortc
 	branch = refs/heads/main
+[submodule "pymatgen-io-validation"]
+	url = https://github.com/conda-forge/pymatgen-io-validation-feedstock.git
+	path = feedstocks/pymatgen-io-validation
+	branch = refs/heads/main
