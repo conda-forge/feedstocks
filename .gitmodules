@@ -106294,3 +106294,7 @@
 	url = https://github.com/conda-forge/khiops-driver-gcs-feedstock.git
 	path = feedstocks/khiops-driver-gcs
 	branch = refs/heads/main
+[submodule "dbos"]
+	url = https://github.com/conda-forge/dbos-feedstock.git
+	path = feedstocks/dbos
+	branch = refs/heads/main
