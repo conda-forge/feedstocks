@@ -106286,3 +106286,7 @@
 	url = https://github.com/conda-forge/khiops-driver-s3-feedstock.git
 	path = feedstocks/khiops-driver-s3
 	branch = refs/heads/main
+[submodule "diffhalos"]
+	url = https://github.com/conda-forge/diffhalos-feedstock.git
+	path = feedstocks/diffhalos
+	branch = refs/heads/main
