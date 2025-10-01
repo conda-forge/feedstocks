@@ -106298,3 +106298,7 @@
 	url = https://github.com/conda-forge/dbos-feedstock.git
 	path = feedstocks/dbos
 	branch = refs/heads/main
+[submodule "seabirdfilehandler"]
+	url = https://github.com/conda-forge/seabirdfilehandler-feedstock.git
+	path = feedstocks/seabirdfilehandler
+	branch = refs/heads/main
