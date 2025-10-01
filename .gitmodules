@@ -106282,3 +106282,7 @@
 	url = https://github.com/conda-forge/pymatgen-io-validation-feedstock.git
 	path = feedstocks/pymatgen-io-validation
 	branch = refs/heads/main
+[submodule "khiops-driver-s3"]
+	url = https://github.com/conda-forge/khiops-driver-s3-feedstock.git
+	path = feedstocks/khiops-driver-s3
+	branch = refs/heads/main
