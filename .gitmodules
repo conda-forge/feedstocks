@@ -106322,3 +106322,7 @@
 	url = https://github.com/conda-forge/ooi-data-explorations-feedstock.git
 	path = feedstocks/ooi-data-explorations
 	branch = refs/heads/main
+[submodule "cc-qa"]
+	url = https://github.com/conda-forge/cc-qa-feedstock.git
+	path = feedstocks/cc-qa
+	branch = refs/heads/main
