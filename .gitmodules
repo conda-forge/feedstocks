@@ -106330,3 +106330,7 @@
 	url = https://github.com/conda-forge/mopactools-feedstock.git
 	path = feedstocks/mopactools
 	branch = refs/heads/main
+[submodule "geometry_utils"]
+	url = https://github.com/conda-forge/geometry_utils-feedstock.git
+	path = feedstocks/geometry_utils
+	branch = refs/heads/main
