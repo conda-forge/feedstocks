@@ -106314,3 +106314,7 @@
 	url = https://github.com/conda-forge/eo-tides-feedstock.git
 	path = feedstocks/eo-tides
 	branch = refs/heads/main
+[submodule "ndbcrealtime"]
+	url = https://github.com/conda-forge/ndbcrealtime-feedstock.git
+	path = feedstocks/ndbcrealtime
+	branch = refs/heads/main
