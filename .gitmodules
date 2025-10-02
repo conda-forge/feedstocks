@@ -106310,3 +106310,7 @@
 	url = https://github.com/conda-forge/django-admin-numeric-filter-feedstock.git
 	path = feedstocks/django-admin-numeric-filter
 	branch = refs/heads/main
+[submodule "eo-tides"]
+	url = https://github.com/conda-forge/eo-tides-feedstock.git
+	path = feedstocks/eo-tides
+	branch = refs/heads/main
