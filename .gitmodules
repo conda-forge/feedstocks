@@ -106306,3 +106306,7 @@
 	url = https://github.com/conda-forge/linear-inverse-model-feedstock.git
 	path = feedstocks/linear-inverse-model
 	branch = refs/heads/main
+[submodule "django-admin-numeric-filter"]
+	url = https://github.com/conda-forge/django-admin-numeric-filter-feedstock.git
+	path = feedstocks/django-admin-numeric-filter
+	branch = refs/heads/main
