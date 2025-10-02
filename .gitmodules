@@ -106318,3 +106318,7 @@
 	url = https://github.com/conda-forge/ndbcrealtime-feedstock.git
 	path = feedstocks/ndbcrealtime
 	branch = refs/heads/main
+[submodule "ooi-data-explorations"]
+	url = https://github.com/conda-forge/ooi-data-explorations-feedstock.git
+	path = feedstocks/ooi-data-explorations
+	branch = refs/heads/main
