@@ -106326,3 +106326,7 @@
 	url = https://github.com/conda-forge/cc-qa-feedstock.git
 	path = feedstocks/cc-qa
 	branch = refs/heads/main
+[submodule "mopactools"]
+	url = https://github.com/conda-forge/mopactools-feedstock.git
+	path = feedstocks/mopactools
+	branch = refs/heads/main
