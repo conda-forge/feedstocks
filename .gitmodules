@@ -106346,3 +106346,7 @@
 	url = https://github.com/conda-forge/elements-feedstock.git
 	path = feedstocks/elements
 	branch = refs/heads/main
+[submodule "boring-semantic-layer"]
+	url = https://github.com/conda-forge/boring-semantic-layer-feedstock.git
+	path = feedstocks/boring-semantic-layer
+	branch = refs/heads/main
