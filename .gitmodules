@@ -106354,3 +106354,7 @@
 	url = https://github.com/conda-forge/sbmlmath-feedstock.git
 	path = feedstocks/sbmlmath
 	branch = refs/heads/main
+[submodule "syncup"]
+	url = https://github.com/conda-forge/syncup-feedstock.git
+	path = feedstocks/syncup
+	branch = refs/heads/main
