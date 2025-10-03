@@ -106350,3 +106350,7 @@
 	url = https://github.com/conda-forge/boring-semantic-layer-feedstock.git
 	path = feedstocks/boring-semantic-layer
 	branch = refs/heads/main
+[submodule "sbmlmath"]
+	url = https://github.com/conda-forge/sbmlmath-feedstock.git
+	path = feedstocks/sbmlmath
+	branch = refs/heads/main
