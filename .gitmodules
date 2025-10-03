@@ -106342,3 +106342,7 @@
 	url = https://github.com/conda-forge/portal-feedstock.git
 	path = feedstocks/portal
 	branch = refs/heads/main
+[submodule "elements"]
+	url = https://github.com/conda-forge/elements-feedstock.git
+	path = feedstocks/elements
+	branch = refs/heads/main
