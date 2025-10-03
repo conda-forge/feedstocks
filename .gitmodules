@@ -106338,3 +106338,7 @@
 	url = https://github.com/conda-forge/suitesparsegetpy-feedstock.git
 	path = feedstocks/suitesparsegetpy
 	branch = refs/heads/main
+[submodule "portal"]
+	url = https://github.com/conda-forge/portal-feedstock.git
+	path = feedstocks/portal
+	branch = refs/heads/main
