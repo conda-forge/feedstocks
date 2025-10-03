@@ -106358,3 +106358,7 @@
 	url = https://github.com/conda-forge/syncup-feedstock.git
 	path = feedstocks/syncup
 	branch = refs/heads/main
+[submodule "multiclean"]
+	url = https://github.com/conda-forge/multiclean-feedstock.git
+	path = feedstocks/multiclean
+	branch = refs/heads/main
