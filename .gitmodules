@@ -106366,3 +106366,7 @@
 	url = https://github.com/conda-forge/terratorch-feedstock.git
 	path = feedstocks/terratorch
 	branch = refs/heads/main
+[submodule "ninjax"]
+	url = https://github.com/conda-forge/ninjax-feedstock.git
+	path = feedstocks/ninjax
+	branch = refs/heads/main
