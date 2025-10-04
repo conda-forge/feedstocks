@@ -106362,3 +106362,7 @@
 	url = https://github.com/conda-forge/multiclean-feedstock.git
 	path = feedstocks/multiclean
 	branch = refs/heads/main
+[submodule "terratorch"]
+	url = https://github.com/conda-forge/terratorch-feedstock.git
+	path = feedstocks/terratorch
+	branch = refs/heads/main
