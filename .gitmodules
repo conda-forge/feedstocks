@@ -106374,3 +106374,7 @@
 	url = https://github.com/conda-forge/granular-feedstock.git
 	path = feedstocks/granular
 	branch = refs/heads/main
+[submodule "nwb2bids"]
+	url = https://github.com/conda-forge/nwb2bids-feedstock.git
+	path = feedstocks/nwb2bids
+	branch = refs/heads/main
