@@ -106398,3 +106398,7 @@
 	url = https://github.com/conda-forge/grapes-feedstock.git
 	path = feedstocks/grapes
 	branch = refs/heads/main
+[submodule "insarscript"]
+	url = https://github.com/conda-forge/insarscript-feedstock.git
+	path = feedstocks/insarscript
+	branch = refs/heads/main
