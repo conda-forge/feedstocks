@@ -106394,3 +106394,7 @@
 	url = https://github.com/conda-forge/pyqgc-feedstock.git
 	path = feedstocks/pyqgc
 	branch = refs/heads/main
+[submodule "grapes"]
+	url = https://github.com/conda-forge/grapes-feedstock.git
+	path = feedstocks/grapes
+	branch = refs/heads/main
