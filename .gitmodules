@@ -106390,3 +106390,7 @@
 	url = https://github.com/conda-forge/scope-feedstock.git
 	path = feedstocks/scope
 	branch = refs/heads/main
+[submodule "pyqgc"]
+	url = https://github.com/conda-forge/pyqgc-feedstock.git
+	path = feedstocks/pyqgc
+	branch = refs/heads/main
