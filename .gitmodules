@@ -106386,3 +106386,7 @@
 	url = https://github.com/conda-forge/gaitsetpy-feedstock.git
 	path = feedstocks/gaitsetpy
 	branch = refs/heads/main
+[submodule "scope"]
+	url = https://github.com/conda-forge/scope-feedstock.git
+	path = feedstocks/scope
+	branch = refs/heads/main
