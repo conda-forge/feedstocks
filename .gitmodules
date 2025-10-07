@@ -106414,3 +106414,7 @@
 	url = https://github.com/conda-forge/snowmeta-feedstock.git
 	path = feedstocks/snowmeta
 	branch = refs/heads/main
+[submodule "pleiades-neutron"]
+	url = https://github.com/conda-forge/pleiades-neutron-feedstock.git
+	path = feedstocks/pleiades-neutron
+	branch = refs/heads/main
