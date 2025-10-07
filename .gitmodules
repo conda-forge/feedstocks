@@ -106410,3 +106410,7 @@
 	url = https://github.com/conda-forge/types-aioboto3-feedstock.git
 	path = feedstocks/types-aioboto3
 	branch = refs/heads/main
+[submodule "snowmeta"]
+	url = https://github.com/conda-forge/snowmeta-feedstock.git
+	path = feedstocks/snowmeta
+	branch = refs/heads/main
