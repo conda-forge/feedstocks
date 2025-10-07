@@ -106402,3 +106402,7 @@
 	url = https://github.com/conda-forge/insarscript-feedstock.git
 	path = feedstocks/insarscript
 	branch = refs/heads/main
+[submodule "pybispectra"]
+	url = https://github.com/conda-forge/pybispectra-feedstock.git
+	path = feedstocks/pybispectra
+	branch = refs/heads/main
