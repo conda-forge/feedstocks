@@ -106406,3 +106406,7 @@
 	url = https://github.com/conda-forge/pybispectra-feedstock.git
 	path = feedstocks/pybispectra
 	branch = refs/heads/main
+[submodule "types-aioboto3"]
+	url = https://github.com/conda-forge/types-aioboto3-feedstock.git
+	path = feedstocks/types-aioboto3
+	branch = refs/heads/main
