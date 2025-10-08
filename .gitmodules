@@ -106430,3 +106430,7 @@
 	url = https://github.com/conda-forge/sovapy-feedstock.git
 	path = feedstocks/sovapy
 	branch = refs/heads/main
+[submodule "r-maptiles"]
+	url = https://github.com/conda-forge/r-maptiles-feedstock.git
+	path = feedstocks/r-maptiles
+	branch = refs/heads/main
