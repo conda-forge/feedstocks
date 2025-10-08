@@ -106418,3 +106418,7 @@
 	url = https://github.com/conda-forge/pleiades-neutron-feedstock.git
 	path = feedstocks/pleiades-neutron
 	branch = refs/heads/main
+[submodule "pylabfea"]
+	url = https://github.com/conda-forge/pylabfea-feedstock.git
+	path = feedstocks/pylabfea
+	branch = refs/heads/main
