@@ -106438,3 +106438,7 @@
 	url = https://github.com/conda-forge/mcreweight-feedstock.git
 	path = feedstocks/mcreweight
 	branch = refs/heads/main
+[submodule "polars-talib"]
+	url = https://github.com/conda-forge/polars-talib-feedstock.git
+	path = feedstocks/polars-talib
+	branch = refs/heads/main
