@@ -106434,3 +106434,7 @@
 	url = https://github.com/conda-forge/r-maptiles-feedstock.git
 	path = feedstocks/r-maptiles
 	branch = refs/heads/main
+[submodule "mcreweight"]
+	url = https://github.com/conda-forge/mcreweight-feedstock.git
+	path = feedstocks/mcreweight
+	branch = refs/heads/main
