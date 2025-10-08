@@ -106426,3 +106426,7 @@
 	url = https://github.com/conda-forge/pyiron-workflow-atomistics-feedstock.git
 	path = feedstocks/pyiron-workflow-atomistics
 	branch = refs/heads/main
+[submodule "sovapy"]
+	url = https://github.com/conda-forge/sovapy-feedstock.git
+	path = feedstocks/sovapy
+	branch = refs/heads/main
