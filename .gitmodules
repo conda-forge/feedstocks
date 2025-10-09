@@ -106466,3 +106466,7 @@
 	url = https://github.com/conda-forge/queryish-feedstock.git
 	path = feedstocks/queryish
 	branch = refs/heads/main
+[submodule "django-ai-core"]
+	url = https://github.com/conda-forge/django-ai-core-feedstock.git
+	path = feedstocks/django-ai-core
+	branch = refs/heads/main
