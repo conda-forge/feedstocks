@@ -106446,3 +106446,7 @@
 	url = https://github.com/conda-forge/rattler-sandbox-feedstock.git
 	path = feedstocks/rattler-sandbox
 	branch = refs/heads/main
+[submodule "py-pixi-build-backend"]
+	url = https://github.com/conda-forge/py-pixi-build-backend-feedstock.git
+	path = feedstocks/py-pixi-build-backend
+	branch = refs/heads/main
