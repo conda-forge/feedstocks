@@ -106462,3 +106462,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-confluent-kafka-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-confluent-kafka
 	branch = refs/heads/main
+[submodule "queryish"]
+	url = https://github.com/conda-forge/queryish-feedstock.git
+	path = feedstocks/queryish
+	branch = refs/heads/main
