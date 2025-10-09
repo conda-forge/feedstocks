@@ -106442,3 +106442,7 @@
 	url = https://github.com/conda-forge/polars-talib-feedstock.git
 	path = feedstocks/polars-talib
 	branch = refs/heads/main
+[submodule "rattler-sandbox"]
+	url = https://github.com/conda-forge/rattler-sandbox-feedstock.git
+	path = feedstocks/rattler-sandbox
+	branch = refs/heads/main
