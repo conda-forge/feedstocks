@@ -106470,3 +106470,7 @@
 	url = https://github.com/conda-forge/django-ai-core-feedstock.git
 	path = feedstocks/django-ai-core
 	branch = refs/heads/main
+[submodule "langsmith-mcp-server"]
+	url = https://github.com/conda-forge/langsmith-mcp-server-feedstock.git
+	path = feedstocks/langsmith-mcp-server
+	branch = refs/heads/main
