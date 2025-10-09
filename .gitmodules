@@ -106450,3 +106450,7 @@
 	url = https://github.com/conda-forge/py-pixi-build-backend-feedstock.git
 	path = feedstocks/py-pixi-build-backend
 	branch = refs/heads/main
+[submodule "rubin-nights"]
+	url = https://github.com/conda-forge/rubin-nights-feedstock.git
+	path = feedstocks/rubin-nights
+	branch = refs/heads/main
