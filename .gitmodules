@@ -106458,3 +106458,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-kafka-python-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-kafka-python
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-confluent-kafka"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-confluent-kafka-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-confluent-kafka
+	branch = refs/heads/main
