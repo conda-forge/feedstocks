@@ -106454,3 +106454,7 @@
 	url = https://github.com/conda-forge/rubin-nights-feedstock.git
 	path = feedstocks/rubin-nights
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-kafka-python"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-kafka-python-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-kafka-python
+	branch = refs/heads/main
