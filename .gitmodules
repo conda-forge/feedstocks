@@ -106474,3 +106474,7 @@
 	url = https://github.com/conda-forge/langsmith-mcp-server-feedstock.git
 	path = feedstocks/langsmith-mcp-server
 	branch = refs/heads/main
+[submodule "python-miranda"]
+	url = https://github.com/conda-forge/python-miranda-feedstock.git
+	path = feedstocks/python-miranda
+	branch = refs/heads/main
