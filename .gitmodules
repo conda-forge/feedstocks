@@ -106482,3 +106482,7 @@
 	url = https://github.com/conda-forge/erddapcfg-feedstock.git
 	path = feedstocks/erddapcfg
 	branch = refs/heads/main
+[submodule "node-red"]
+	url = https://github.com/conda-forge/node-red-feedstock.git
+	path = feedstocks/node-red
+	branch = refs/heads/main
