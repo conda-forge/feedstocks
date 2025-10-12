@@ -106486,3 +106486,7 @@
 	url = https://github.com/conda-forge/node-red-feedstock.git
 	path = feedstocks/node-red
 	branch = refs/heads/main
+[submodule "cuda-core"]
+	url = https://github.com/conda-forge/cuda-core-feedstock.git
+	path = feedstocks/cuda-core
+	branch = refs/heads/main
