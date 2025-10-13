@@ -106490,3 +106490,7 @@
 	url = https://github.com/conda-forge/cuda-core-feedstock.git
 	path = feedstocks/cuda-core
 	branch = refs/heads/main
+[submodule "hvala"]
+	url = https://github.com/conda-forge/hvala-feedstock.git
+	path = feedstocks/hvala
+	branch = refs/heads/main
