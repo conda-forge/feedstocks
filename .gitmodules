@@ -106514,3 +106514,7 @@
 	url = https://github.com/conda-forge/r-thematic-feedstock.git
 	path = feedstocks/r-thematic
 	branch = refs/heads/main
+[submodule "pychop"]
+	url = https://github.com/conda-forge/pychop-feedstock.git
+	path = feedstocks/pychop
+	branch = refs/heads/main
