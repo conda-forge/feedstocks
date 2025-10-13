@@ -106494,3 +106494,7 @@
 	url = https://github.com/conda-forge/hvala-feedstock.git
 	path = feedstocks/hvala
 	branch = refs/heads/main
+[submodule "peewee-migrate"]
+	url = https://github.com/conda-forge/peewee-migrate-feedstock.git
+	path = feedstocks/peewee-migrate
+	branch = refs/heads/main
