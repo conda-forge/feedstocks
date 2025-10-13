@@ -106498,3 +106498,7 @@
 	url = https://github.com/conda-forge/peewee-migrate-feedstock.git
 	path = feedstocks/peewee-migrate
 	branch = refs/heads/main
+[submodule "tsdisagg"]
+	url = https://github.com/conda-forge/tsdisagg-feedstock.git
+	path = feedstocks/tsdisagg
+	branch = refs/heads/main
