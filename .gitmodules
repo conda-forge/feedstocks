@@ -106502,3 +106502,7 @@
 	url = https://github.com/conda-forge/tsdisagg-feedstock.git
 	path = feedstocks/tsdisagg
 	branch = refs/heads/main
+[submodule "edgartools"]
+	url = https://github.com/conda-forge/edgartools-feedstock.git
+	path = feedstocks/edgartools
+	branch = refs/heads/main
