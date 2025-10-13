@@ -106518,3 +106518,7 @@
 	url = https://github.com/conda-forge/pychop-feedstock.git
 	path = feedstocks/pychop
 	branch = refs/heads/main
+[submodule "chumpy"]
+	url = https://github.com/conda-forge/chumpy-feedstock.git
+	path = feedstocks/chumpy
+	branch = refs/heads/main
