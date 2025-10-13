@@ -106506,3 +106506,7 @@
 	url = https://github.com/conda-forge/edgartools-feedstock.git
 	path = feedstocks/edgartools
 	branch = refs/heads/main
+[submodule "httpxthrottlecache"]
+	url = https://github.com/conda-forge/httpxthrottlecache-feedstock.git
+	path = feedstocks/httpxthrottlecache
+	branch = refs/heads/main
