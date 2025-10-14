@@ -106534,3 +106534,7 @@
 	url = https://github.com/conda-forge/blop-feedstock.git
 	path = feedstocks/blop
 	branch = refs/heads/main
+[submodule "pysnom"]
+	url = https://github.com/conda-forge/pysnom-feedstock.git
+	path = feedstocks/pysnom
+	branch = refs/heads/main
