@@ -106530,3 +106530,7 @@
 	url = https://github.com/conda-forge/hybgensea-feedstock.git
 	path = feedstocks/hybgensea
 	branch = refs/heads/main
+[submodule "blop"]
+	url = https://github.com/conda-forge/blop-feedstock.git
+	path = feedstocks/blop
+	branch = refs/heads/main
