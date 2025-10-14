@@ -106522,3 +106522,7 @@
 	url = https://github.com/conda-forge/chumpy-feedstock.git
 	path = feedstocks/chumpy
 	branch = refs/heads/main
+[submodule "r-jinjar"]
+	url = https://github.com/conda-forge/r-jinjar-feedstock.git
+	path = feedstocks/r-jinjar
+	branch = refs/heads/main
