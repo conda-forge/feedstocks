@@ -106550,3 +106550,7 @@
 	url = https://github.com/conda-forge/otel-tui-feedstock.git
 	path = feedstocks/otel-tui
 	branch = refs/heads/main
+[submodule "bpf-linker"]
+	url = https://github.com/conda-forge/bpf-linker-feedstock.git
+	path = feedstocks/bpf-linker
+	branch = refs/heads/main
