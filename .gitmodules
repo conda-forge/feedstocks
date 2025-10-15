@@ -106562,3 +106562,7 @@
 	url = https://github.com/conda-forge/r-immundata-feedstock.git
 	path = feedstocks/r-immundata
 	branch = refs/heads/main
+[submodule "album-distributed"]
+	url = https://github.com/conda-forge/album-distributed-feedstock.git
+	path = feedstocks/album-distributed
+	branch = refs/heads/main
