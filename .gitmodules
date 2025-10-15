@@ -106554,3 +106554,7 @@
 	url = https://github.com/conda-forge/bpf-linker-feedstock.git
 	path = feedstocks/bpf-linker
 	branch = refs/heads/main
+[submodule "mediamtx"]
+	url = https://github.com/conda-forge/mediamtx-feedstock.git
+	path = feedstocks/mediamtx
+	branch = refs/heads/main
