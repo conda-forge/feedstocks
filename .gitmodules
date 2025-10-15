@@ -106538,3 +106538,7 @@
 	url = https://github.com/conda-forge/pysnom-feedstock.git
 	path = feedstocks/pysnom
 	branch = refs/heads/main
+[submodule "cogger"]
+	url = https://github.com/conda-forge/cogger-feedstock.git
+	path = feedstocks/cogger
+	branch = refs/heads/main
