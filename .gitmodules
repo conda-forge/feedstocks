@@ -106566,3 +106566,7 @@
 	url = https://github.com/conda-forge/album-distributed-feedstock.git
 	path = feedstocks/album-distributed
 	branch = refs/heads/main
+[submodule "album-docker"]
+	url = https://github.com/conda-forge/album-docker-feedstock.git
+	path = feedstocks/album-docker
+	branch = refs/heads/main
