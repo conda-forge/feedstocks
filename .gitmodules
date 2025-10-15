@@ -106558,3 +106558,7 @@
 	url = https://github.com/conda-forge/mediamtx-feedstock.git
 	path = feedstocks/mediamtx
 	branch = refs/heads/main
+[submodule "r-immundata"]
+	url = https://github.com/conda-forge/r-immundata-feedstock.git
+	path = feedstocks/r-immundata
+	branch = refs/heads/main
