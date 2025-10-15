@@ -106546,3 +106546,7 @@
 	url = https://github.com/conda-forge/jjui-feedstock.git
 	path = feedstocks/jjui
 	branch = refs/heads/main
+[submodule "otel-tui"]
+	url = https://github.com/conda-forge/otel-tui-feedstock.git
+	path = feedstocks/otel-tui
+	branch = refs/heads/main
