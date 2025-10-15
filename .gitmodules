@@ -106574,3 +106574,7 @@
 	url = https://github.com/conda-forge/django-cookie-consent-feedstock.git
 	path = feedstocks/django-cookie-consent
 	branch = refs/heads/main
+[submodule "placo"]
+	url = https://github.com/conda-forge/placo-feedstock.git
+	path = feedstocks/placo
+	branch = refs/heads/main
