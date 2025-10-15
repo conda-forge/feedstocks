@@ -106570,3 +106570,7 @@
 	url = https://github.com/conda-forge/album-docker-feedstock.git
 	path = feedstocks/album-docker
 	branch = refs/heads/main
+[submodule "django-cookie-consent"]
+	url = https://github.com/conda-forge/django-cookie-consent-feedstock.git
+	path = feedstocks/django-cookie-consent
+	branch = refs/heads/main
