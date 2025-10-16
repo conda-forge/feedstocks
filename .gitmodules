@@ -106578,3 +106578,7 @@
 	url = https://github.com/conda-forge/placo-feedstock.git
 	path = feedstocks/placo
 	branch = refs/heads/main
+[submodule "pluck-graphql"]
+	url = https://github.com/conda-forge/pluck-graphql-feedstock.git
+	path = feedstocks/pluck-graphql
+	branch = refs/heads/main
