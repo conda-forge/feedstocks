@@ -106590,3 +106590,7 @@
 	url = https://github.com/conda-forge/ticoi-feedstock.git
 	path = feedstocks/ticoi
 	branch = refs/heads/main
+[submodule "ecco_access"]
+	url = https://github.com/conda-forge/ecco_access-feedstock.git
+	path = feedstocks/ecco_access
+	branch = refs/heads/main
