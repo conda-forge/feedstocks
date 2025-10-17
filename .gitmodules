@@ -106594,3 +106594,7 @@
 	url = https://github.com/conda-forge/ecco_access-feedstock.git
 	path = feedstocks/ecco_access
 	branch = refs/heads/main
+[submodule "reno-sd"]
+	url = https://github.com/conda-forge/reno-sd-feedstock.git
+	path = feedstocks/reno-sd
+	branch = refs/heads/main
