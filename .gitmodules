@@ -106582,3 +106582,7 @@
 	url = https://github.com/conda-forge/pluck-graphql-feedstock.git
 	path = feedstocks/pluck-graphql
 	branch = refs/heads/main
+[submodule "huxt"]
+	url = https://github.com/conda-forge/huxt-feedstock.git
+	path = feedstocks/huxt
+	branch = refs/heads/main
