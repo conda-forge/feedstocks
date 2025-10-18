@@ -106598,3 +106598,7 @@
 	url = https://github.com/conda-forge/reno-sd-feedstock.git
 	path = feedstocks/reno-sd
 	branch = refs/heads/main
+[submodule "libdecor"]
+	url = https://github.com/conda-forge/libdecor-feedstock.git
+	path = feedstocks/libdecor
+	branch = refs/heads/main
