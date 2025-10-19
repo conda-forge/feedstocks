@@ -106602,3 +106602,7 @@
 	url = https://github.com/conda-forge/libdecor-feedstock.git
 	path = feedstocks/libdecor
 	branch = refs/heads/main
+[submodule "streamlit-code-editor"]
+	url = https://github.com/conda-forge/streamlit-code-editor-feedstock.git
+	path = feedstocks/streamlit-code-editor
+	branch = refs/heads/main
