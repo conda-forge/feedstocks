@@ -106618,3 +106618,7 @@
 	url = https://github.com/conda-forge/langchain-perplexity-feedstock.git
 	path = feedstocks/langchain-perplexity
 	branch = refs/heads/main
+[submodule "torchfsm"]
+	url = https://github.com/conda-forge/torchfsm-feedstock.git
+	path = feedstocks/torchfsm
+	branch = refs/heads/main
