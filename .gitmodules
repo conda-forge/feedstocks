@@ -106622,3 +106622,7 @@
 	url = https://github.com/conda-forge/torchfsm-feedstock.git
 	path = feedstocks/torchfsm
 	branch = refs/heads/main
+[submodule "nucleopt"]
+	url = https://github.com/conda-forge/nucleopt-feedstock.git
+	path = feedstocks/nucleopt
+	branch = refs/heads/main
