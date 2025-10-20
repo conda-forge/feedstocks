@@ -106610,3 +106610,7 @@
 	url = https://github.com/conda-forge/advanced-alchemy-feedstock.git
 	path = feedstocks/advanced-alchemy
 	branch = refs/heads/main
+[submodule "langchain-deepseek"]
+	url = https://github.com/conda-forge/langchain-deepseek-feedstock.git
+	path = feedstocks/langchain-deepseek
+	branch = refs/heads/main
