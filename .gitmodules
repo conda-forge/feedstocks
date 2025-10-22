@@ -106638,3 +106638,7 @@
 	url = https://github.com/conda-forge/r-otel-feedstock.git
 	path = feedstocks/r-otel
 	branch = refs/heads/main
+[submodule "nomad-parser-plugins-atomistic"]
+	url = https://github.com/conda-forge/nomad-parser-plugins-atomistic-feedstock.git
+	path = feedstocks/nomad-parser-plugins-atomistic
+	branch = refs/heads/main
