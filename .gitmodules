@@ -106646,3 +106646,7 @@
 	url = https://github.com/conda-forge/nomad-parser-plugins-workflow-feedstock.git
 	path = feedstocks/nomad-parser-plugins-workflow
 	branch = refs/heads/main
+[submodule "nomad-schema-plugin-simulation-workflow"]
+	url = https://github.com/conda-forge/nomad-schema-plugin-simulation-workflow-feedstock.git
+	path = feedstocks/nomad-schema-plugin-simulation-workflow
+	branch = refs/heads/main
