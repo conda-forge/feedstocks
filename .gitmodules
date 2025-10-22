@@ -106658,3 +106658,7 @@
 	url = https://github.com/conda-forge/nomad-parser-plugins-electronic-feedstock.git
 	path = feedstocks/nomad-parser-plugins-electronic
 	branch = refs/heads/main
+[submodule "nomad-schema-plugin-run"]
+	url = https://github.com/conda-forge/nomad-schema-plugin-run-feedstock.git
+	path = feedstocks/nomad-schema-plugin-run
+	branch = refs/heads/main
