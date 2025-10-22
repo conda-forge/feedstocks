@@ -106634,3 +106634,7 @@
 	url = https://github.com/conda-forge/backports.zstd-feedstock.git
 	path = feedstocks/backports.zstd
 	branch = refs/heads/main
+[submodule "r-otel"]
+	url = https://github.com/conda-forge/r-otel-feedstock.git
+	path = feedstocks/r-otel
+	branch = refs/heads/main
