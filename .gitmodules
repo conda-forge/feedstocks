@@ -106654,3 +106654,7 @@
 	url = https://github.com/conda-forge/zencfg-feedstock.git
 	path = feedstocks/zencfg
 	branch = refs/heads/main
+[submodule "nomad-parser-plugins-electronic"]
+	url = https://github.com/conda-forge/nomad-parser-plugins-electronic-feedstock.git
+	path = feedstocks/nomad-parser-plugins-electronic
+	branch = refs/heads/main
