@@ -106642,3 +106642,7 @@
 	url = https://github.com/conda-forge/nomad-parser-plugins-atomistic-feedstock.git
 	path = feedstocks/nomad-parser-plugins-atomistic
 	branch = refs/heads/main
+[submodule "nomad-parser-plugins-workflow"]
+	url = https://github.com/conda-forge/nomad-parser-plugins-workflow-feedstock.git
+	path = feedstocks/nomad-parser-plugins-workflow
+	branch = refs/heads/main
