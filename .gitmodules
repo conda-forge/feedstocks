@@ -106650,3 +106650,7 @@
 	url = https://github.com/conda-forge/nomad-schema-plugin-simulation-workflow-feedstock.git
 	path = feedstocks/nomad-schema-plugin-simulation-workflow
 	branch = refs/heads/main
+[submodule "zencfg"]
+	url = https://github.com/conda-forge/zencfg-feedstock.git
+	path = feedstocks/zencfg
+	branch = refs/heads/main
