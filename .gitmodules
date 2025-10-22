@@ -106630,3 +106630,7 @@
 	url = https://github.com/conda-forge/mcp-powerpoint-feedstock.git
 	path = feedstocks/mcp-powerpoint
 	branch = refs/heads/main
+[submodule "backports.zstd"]
+	url = https://github.com/conda-forge/backports.zstd-feedstock.git
+	path = feedstocks/backports.zstd
+	branch = refs/heads/main
