@@ -106690,3 +106690,7 @@
 	url = https://github.com/conda-forge/othpc-feedstock.git
 	path = feedstocks/othpc
 	branch = refs/heads/main
+[submodule "khiops"]
+	url = https://github.com/conda-forge/khiops-feedstock.git
+	path = feedstocks/khiops
+	branch = refs/heads/main
