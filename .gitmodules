@@ -106678,3 +106678,7 @@
 	url = https://github.com/conda-forge/nethsm-feedstock.git
 	path = feedstocks/nethsm
 	branch = refs/heads/main
+[submodule "nkdfu"]
+	url = https://github.com/conda-forge/nkdfu-feedstock.git
+	path = feedstocks/nkdfu
+	branch = refs/heads/main
