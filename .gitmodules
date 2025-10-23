@@ -106702,3 +106702,7 @@
 	url = https://github.com/conda-forge/eon-feedstock.git
 	path = feedstocks/eon
 	branch = refs/heads/main
+[submodule "remage"]
+	url = https://github.com/conda-forge/remage-feedstock.git
+	path = feedstocks/remage
+	branch = refs/heads/main
