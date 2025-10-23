@@ -106686,3 +106686,7 @@
 	url = https://github.com/conda-forge/tlv8-feedstock.git
 	path = feedstocks/tlv8
 	branch = refs/heads/main
+[submodule "othpc"]
+	url = https://github.com/conda-forge/othpc-feedstock.git
+	path = feedstocks/othpc
+	branch = refs/heads/main
