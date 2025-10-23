@@ -106670,3 +106670,7 @@
 	url = https://github.com/conda-forge/r-chunked-feedstock.git
 	path = feedstocks/r-chunked
 	branch = refs/heads/main
+[submodule "conda-lockfiles"]
+	url = https://github.com/conda-forge/conda-lockfiles-feedstock.git
+	path = feedstocks/conda-lockfiles
+	branch = refs/heads/main
