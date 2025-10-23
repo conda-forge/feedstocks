@@ -106674,3 +106674,7 @@
 	url = https://github.com/conda-forge/conda-lockfiles-feedstock.git
 	path = feedstocks/conda-lockfiles
 	branch = refs/heads/main
+[submodule "nethsm"]
+	url = https://github.com/conda-forge/nethsm-feedstock.git
+	path = feedstocks/nethsm
+	branch = refs/heads/main
