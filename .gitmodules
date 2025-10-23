@@ -106666,3 +106666,7 @@
 	url = https://github.com/conda-forge/nomad-parser-plugins-simulation-feedstock.git
 	path = feedstocks/nomad-parser-plugins-simulation
 	branch = refs/heads/main
+[submodule "r-chunked"]
+	url = https://github.com/conda-forge/r-chunked-feedstock.git
+	path = feedstocks/r-chunked
+	branch = refs/heads/main
