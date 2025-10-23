@@ -106694,3 +106694,7 @@
 	url = https://github.com/conda-forge/khiops-feedstock.git
 	path = feedstocks/khiops
 	branch = refs/heads/main
+[submodule "nitrokey"]
+	url = https://github.com/conda-forge/nitrokey-feedstock.git
+	path = feedstocks/nitrokey
+	branch = refs/heads/main
