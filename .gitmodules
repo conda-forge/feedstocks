@@ -106714,3 +106714,7 @@
 	url = https://github.com/conda-forge/fast_vindex-feedstock.git
 	path = feedstocks/fast_vindex
 	branch = refs/heads/main
+[submodule "wiredb"]
+	url = https://github.com/conda-forge/wiredb-feedstock.git
+	path = feedstocks/wiredb
+	branch = refs/heads/main
