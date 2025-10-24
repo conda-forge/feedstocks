@@ -106718,3 +106718,7 @@
 	url = https://github.com/conda-forge/wiredb-feedstock.git
 	path = feedstocks/wiredb
 	branch = refs/heads/main
+[submodule "nvmolkit"]
+	url = https://github.com/conda-forge/nvmolkit-feedstock.git
+	path = feedstocks/nvmolkit
+	branch = refs/heads/main
