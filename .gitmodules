@@ -106710,3 +106710,7 @@
 	url = https://github.com/conda-forge/aiodataloader-feedstock.git
 	path = feedstocks/aiodataloader
 	branch = refs/heads/main
+[submodule "fast_vindex"]
+	url = https://github.com/conda-forge/fast_vindex-feedstock.git
+	path = feedstocks/fast_vindex
+	branch = refs/heads/main
