@@ -106706,3 +106706,7 @@
 	url = https://github.com/conda-forge/remage-feedstock.git
 	path = feedstocks/remage
 	branch = refs/heads/main
+[submodule "aiodataloader"]
+	url = https://github.com/conda-forge/aiodataloader-feedstock.git
+	path = feedstocks/aiodataloader
+	branch = refs/heads/main
