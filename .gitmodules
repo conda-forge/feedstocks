@@ -106730,3 +106730,7 @@
 	url = https://github.com/conda-forge/msgraphfs-feedstock.git
 	path = feedstocks/msgraphfs
 	branch = refs/heads/main
+[submodule "acts"]
+	url = https://github.com/conda-forge/acts-feedstock.git
+	path = feedstocks/acts
+	branch = refs/heads/main
