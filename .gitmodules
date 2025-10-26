@@ -106726,3 +106726,7 @@
 	url = https://github.com/conda-forge/hallelujah-feedstock.git
 	path = feedstocks/hallelujah
 	branch = refs/heads/main
+[submodule "msgraphfs"]
+	url = https://github.com/conda-forge/msgraphfs-feedstock.git
+	path = feedstocks/msgraphfs
+	branch = refs/heads/main
