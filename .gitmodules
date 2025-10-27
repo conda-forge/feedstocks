@@ -106742,3 +106742,7 @@
 	url = https://github.com/conda-forge/whoosh-reloaded-feedstock.git
 	path = feedstocks/whoosh-reloaded
 	branch = refs/heads/main
+[submodule "django-soft-delete"]
+	url = https://github.com/conda-forge/django-soft-delete-feedstock.git
+	path = feedstocks/django-soft-delete
+	branch = refs/heads/main
