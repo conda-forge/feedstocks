@@ -106762,3 +106762,7 @@
 	url = https://github.com/conda-forge/gotenberg-client-feedstock.git
 	path = feedstocks/gotenberg-client
 	branch = refs/heads/main
+[submodule "django-http-compression"]
+	url = https://github.com/conda-forge/django-http-compression-feedstock.git
+	path = feedstocks/django-http-compression
+	branch = refs/heads/main
