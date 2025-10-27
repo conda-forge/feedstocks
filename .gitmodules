@@ -106782,3 +106782,7 @@
 	url = https://github.com/conda-forge/wire-websocket-feedstock.git
 	path = feedstocks/wire-websocket
 	branch = refs/heads/main
+[submodule "wire-memory"]
+	url = https://github.com/conda-forge/wire-memory-feedstock.git
+	path = feedstocks/wire-memory
+	branch = refs/heads/main
