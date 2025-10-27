@@ -106750,3 +106750,7 @@
 	url = https://github.com/conda-forge/django-read-only-feedstock.git
 	path = feedstocks/django-read-only
 	branch = refs/heads/main
+[submodule "django-watchfiles"]
+	url = https://github.com/conda-forge/django-watchfiles-feedstock.git
+	path = feedstocks/django-watchfiles
+	branch = refs/heads/main
