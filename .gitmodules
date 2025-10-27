@@ -106786,3 +106786,7 @@
 	url = https://github.com/conda-forge/wire-memory-feedstock.git
 	path = feedstocks/wire-memory
 	branch = refs/heads/main
+[submodule "cocat"]
+	url = https://github.com/conda-forge/cocat-feedstock.git
+	path = feedstocks/cocat
+	branch = refs/heads/main
