@@ -106754,3 +106754,7 @@
 	url = https://github.com/conda-forge/django-watchfiles-feedstock.git
 	path = feedstocks/django-watchfiles
 	branch = refs/heads/main
+[submodule "tika-client"]
+	url = https://github.com/conda-forge/tika-client-feedstock.git
+	path = feedstocks/tika-client
+	branch = refs/heads/main
