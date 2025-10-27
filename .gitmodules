@@ -106758,3 +106758,7 @@
 	url = https://github.com/conda-forge/tika-client-feedstock.git
 	path = feedstocks/tika-client
 	branch = refs/heads/main
+[submodule "gotenberg-client"]
+	url = https://github.com/conda-forge/gotenberg-client-feedstock.git
+	path = feedstocks/gotenberg-client
+	branch = refs/heads/main
