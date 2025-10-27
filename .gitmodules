@@ -106738,3 +106738,7 @@
 	url = https://github.com/conda-forge/django-treenode-feedstock.git
 	path = feedstocks/django-treenode
 	branch = refs/heads/main
+[submodule "whoosh-reloaded"]
+	url = https://github.com/conda-forge/whoosh-reloaded-feedstock.git
+	path = feedstocks/whoosh-reloaded
+	branch = refs/heads/main
