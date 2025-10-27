@@ -106774,3 +106774,7 @@
 	url = https://github.com/conda-forge/wire-pipe-feedstock.git
 	path = feedstocks/wire-pipe
 	branch = refs/heads/main
+[submodule "wire-file"]
+	url = https://github.com/conda-forge/wire-file-feedstock.git
+	path = feedstocks/wire-file
+	branch = refs/heads/main
