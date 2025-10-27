@@ -106734,3 +106734,7 @@
 	url = https://github.com/conda-forge/acts-feedstock.git
 	path = feedstocks/acts
 	branch = refs/heads/main
+[submodule "django-treenode"]
+	url = https://github.com/conda-forge/django-treenode-feedstock.git
+	path = feedstocks/django-treenode
+	branch = refs/heads/main
