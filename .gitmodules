@@ -106766,3 +106766,7 @@
 	url = https://github.com/conda-forge/django-http-compression-feedstock.git
 	path = feedstocks/django-http-compression
 	branch = refs/heads/main
+[submodule "django-compression-middleware"]
+	url = https://github.com/conda-forge/django-compression-middleware-feedstock.git
+	path = feedstocks/django-compression-middleware
+	branch = refs/heads/main
