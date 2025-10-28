@@ -106794,3 +106794,7 @@
 	url = https://github.com/conda-forge/python-toon-feedstock.git
 	path = feedstocks/python-toon
 	branch = refs/heads/main
+[submodule "djangorestframework-guardian"]
+	url = https://github.com/conda-forge/djangorestframework-guardian-feedstock.git
+	path = feedstocks/djangorestframework-guardian
+	branch = refs/heads/main
