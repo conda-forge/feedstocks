@@ -106826,3 +106826,7 @@
 	url = https://github.com/conda-forge/annotated-doc-feedstock.git
 	path = feedstocks/annotated-doc
 	branch = refs/heads/main
+[submodule "sigima"]
+	url = https://github.com/conda-forge/sigima-feedstock.git
+	path = feedstocks/sigima
+	branch = refs/heads/main
