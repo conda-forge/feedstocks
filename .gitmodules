@@ -106814,3 +106814,7 @@
 	url = https://github.com/conda-forge/neonutilities-feedstock.git
 	path = feedstocks/neonutilities
 	branch = refs/heads/main
+[submodule "airflow-common"]
+	url = https://github.com/conda-forge/airflow-common-feedstock.git
+	path = feedstocks/airflow-common
+	branch = refs/heads/main
