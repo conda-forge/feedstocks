@@ -106810,3 +106810,7 @@
 	url = https://github.com/conda-forge/cesard-feedstock.git
 	path = feedstocks/cesard
 	branch = refs/heads/main
+[submodule "neonutilities"]
+	url = https://github.com/conda-forge/neonutilities-feedstock.git
+	path = feedstocks/neonutilities
+	branch = refs/heads/main
