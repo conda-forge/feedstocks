@@ -106806,3 +106806,7 @@
 	url = https://github.com/conda-forge/geotessera-feedstock.git
 	path = feedstocks/geotessera
 	branch = refs/heads/main
+[submodule "cesard"]
+	url = https://github.com/conda-forge/cesard-feedstock.git
+	path = feedstocks/cesard
+	branch = refs/heads/main
