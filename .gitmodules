@@ -106818,3 +106818,7 @@
 	url = https://github.com/conda-forge/airflow-common-feedstock.git
 	path = feedstocks/airflow-common
 	branch = refs/heads/main
+[submodule "airflow-laminar"]
+	url = https://github.com/conda-forge/airflow-laminar-feedstock.git
+	path = feedstocks/airflow-laminar
+	branch = refs/heads/main
