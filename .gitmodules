@@ -106822,3 +106822,7 @@
 	url = https://github.com/conda-forge/airflow-laminar-feedstock.git
 	path = feedstocks/airflow-laminar
 	branch = refs/heads/main
+[submodule "annotated-doc"]
+	url = https://github.com/conda-forge/annotated-doc-feedstock.git
+	path = feedstocks/annotated-doc
+	branch = refs/heads/main
