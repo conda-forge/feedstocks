@@ -106790,3 +106790,7 @@
 	url = https://github.com/conda-forge/cocat-feedstock.git
 	path = feedstocks/cocat
 	branch = refs/heads/main
+[submodule "python-toon"]
+	url = https://github.com/conda-forge/python-toon-feedstock.git
+	path = feedstocks/python-toon
+	branch = refs/heads/main
