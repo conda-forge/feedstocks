@@ -106842,3 +106842,7 @@
 	url = https://github.com/conda-forge/sentle-feedstock.git
 	path = feedstocks/sentle
 	branch = refs/heads/main
+[submodule "gflow"]
+	url = https://github.com/conda-forge/gflow-feedstock.git
+	path = feedstocks/gflow
+	branch = refs/heads/main
