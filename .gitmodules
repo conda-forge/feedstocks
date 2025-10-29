@@ -106834,3 +106834,7 @@
 	url = https://github.com/conda-forge/dtach-feedstock.git
 	path = feedstocks/dtach
 	branch = refs/heads/main
+[submodule "molviewspec"]
+	url = https://github.com/conda-forge/molviewspec-feedstock.git
+	path = feedstocks/molviewspec
+	branch = refs/heads/main
