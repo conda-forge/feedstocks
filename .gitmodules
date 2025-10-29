@@ -106830,3 +106830,7 @@
 	url = https://github.com/conda-forge/sigima-feedstock.git
 	path = feedstocks/sigima
 	branch = refs/heads/main
+[submodule "dtach"]
+	url = https://github.com/conda-forge/dtach-feedstock.git
+	path = feedstocks/dtach
+	branch = refs/heads/main
