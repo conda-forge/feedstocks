@@ -106838,3 +106838,7 @@
 	url = https://github.com/conda-forge/molviewspec-feedstock.git
 	path = feedstocks/molviewspec
 	branch = refs/heads/main
+[submodule "sentle"]
+	url = https://github.com/conda-forge/sentle-feedstock.git
+	path = feedstocks/sentle
+	branch = refs/heads/main
