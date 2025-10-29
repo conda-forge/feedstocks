@@ -106846,3 +106846,7 @@
 	url = https://github.com/conda-forge/gflow-feedstock.git
 	path = feedstocks/gflow
 	branch = refs/heads/main
+[submodule "pixi-outdated"]
+	url = https://github.com/conda-forge/pixi-outdated-feedstock.git
+	path = feedstocks/pixi-outdated
+	branch = refs/heads/main
