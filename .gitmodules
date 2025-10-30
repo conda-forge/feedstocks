@@ -106870,3 +106870,7 @@
 	url = https://github.com/conda-forge/dg-sqlmesh-feedstock.git
 	path = feedstocks/dg-sqlmesh
 	branch = refs/heads/main
+[submodule "pixi-inspect"]
+	url = https://github.com/conda-forge/pixi-inspect-feedstock.git
+	path = feedstocks/pixi-inspect
+	branch = refs/heads/main
