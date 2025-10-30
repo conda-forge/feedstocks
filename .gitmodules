@@ -106890,3 +106890,7 @@
 	url = https://github.com/conda-forge/velocity-profile-feedstock.git
 	path = feedstocks/velocity-profile
 	branch = refs/heads/main
+[submodule "torchrecurrent"]
+	url = https://github.com/conda-forge/torchrecurrent-feedstock.git
+	path = feedstocks/torchrecurrent
+	branch = refs/heads/main
