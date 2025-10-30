@@ -106894,3 +106894,7 @@
 	url = https://github.com/conda-forge/torchrecurrent-feedstock.git
 	path = feedstocks/torchrecurrent
 	branch = refs/heads/main
+[submodule "neuroglancer"]
+	url = https://github.com/conda-forge/neuroglancer-feedstock.git
+	path = feedstocks/neuroglancer
+	branch = refs/heads/main
