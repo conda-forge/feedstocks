@@ -106878,3 +106878,7 @@
 	url = https://github.com/conda-forge/pyrecest-feedstock.git
 	path = feedstocks/pyrecest
 	branch = refs/heads/main
+[submodule "scanspec"]
+	url = https://github.com/conda-forge/scanspec-feedstock.git
+	path = feedstocks/scanspec
+	branch = refs/heads/main
