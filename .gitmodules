@@ -106886,3 +106886,7 @@
 	url = https://github.com/conda-forge/briefcase-feedstock.git
 	path = feedstocks/briefcase
 	branch = refs/heads/main
+[submodule "velocity-profile"]
+	url = https://github.com/conda-forge/velocity-profile-feedstock.git
+	path = feedstocks/velocity-profile
+	branch = refs/heads/main
