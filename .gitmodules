@@ -106898,3 +106898,7 @@
 	url = https://github.com/conda-forge/neuroglancer-feedstock.git
 	path = feedstocks/neuroglancer
 	branch = refs/heads/main
+[submodule "compoundfiles"]
+	url = https://github.com/conda-forge/compoundfiles-feedstock.git
+	path = feedstocks/compoundfiles
+	branch = refs/heads/main
