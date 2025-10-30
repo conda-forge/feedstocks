@@ -106862,3 +106862,7 @@
 	url = https://github.com/conda-forge/msutils-feedstock.git
 	path = feedstocks/msutils
 	branch = refs/heads/main
+[submodule "types-parsimonious"]
+	url = https://github.com/conda-forge/types-parsimonious-feedstock.git
+	path = feedstocks/types-parsimonious
+	branch = refs/heads/main
