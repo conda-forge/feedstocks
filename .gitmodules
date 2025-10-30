@@ -106882,3 +106882,7 @@
 	url = https://github.com/conda-forge/scanspec-feedstock.git
 	path = feedstocks/scanspec
 	branch = refs/heads/main
+[submodule "briefcase"]
+	url = https://github.com/conda-forge/briefcase-feedstock.git
+	path = feedstocks/briefcase
+	branch = refs/heads/main
