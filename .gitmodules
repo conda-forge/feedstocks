@@ -106866,3 +106866,7 @@
 	url = https://github.com/conda-forge/types-parsimonious-feedstock.git
 	path = feedstocks/types-parsimonious
 	branch = refs/heads/main
+[submodule "dg-sqlmesh"]
+	url = https://github.com/conda-forge/dg-sqlmesh-feedstock.git
+	path = feedstocks/dg-sqlmesh
+	branch = refs/heads/main
