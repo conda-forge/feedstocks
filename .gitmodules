@@ -106850,3 +106850,7 @@
 	url = https://github.com/conda-forge/pixi-outdated-feedstock.git
 	path = feedstocks/pixi-outdated
 	branch = refs/heads/main
+[submodule "jinja2-ospath"]
+	url = https://github.com/conda-forge/jinja2-ospath-feedstock.git
+	path = feedstocks/jinja2-ospath
+	branch = refs/heads/main
