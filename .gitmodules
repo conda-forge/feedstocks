@@ -106858,3 +106858,7 @@
 	url = https://github.com/conda-forge/squall-sql-feedstock.git
 	path = feedstocks/squall-sql
 	branch = refs/heads/main
+[submodule "msutils"]
+	url = https://github.com/conda-forge/msutils-feedstock.git
+	path = feedstocks/msutils
+	branch = refs/heads/main
