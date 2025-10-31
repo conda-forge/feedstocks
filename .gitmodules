@@ -106906,3 +106906,7 @@
 	url = https://github.com/conda-forge/beckhoff-ads-feedstock.git
 	path = feedstocks/beckhoff-ads
 	branch = refs/heads/main
+[submodule "r-sdtm.oak"]
+	url = https://github.com/conda-forge/r-sdtm.oak-feedstock.git
+	path = feedstocks/r-sdtm.oak
+	branch = refs/heads/main
