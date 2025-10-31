@@ -106922,3 +106922,7 @@
 	url = https://github.com/conda-forge/gibr-feedstock.git
 	path = feedstocks/gibr
 	branch = refs/heads/main
+[submodule "pytdlm"]
+	url = https://github.com/conda-forge/pytdlm-feedstock.git
+	path = feedstocks/pytdlm
+	branch = refs/heads/main
