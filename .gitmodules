@@ -106910,3 +106910,7 @@
 	url = https://github.com/conda-forge/r-sdtm.oak-feedstock.git
 	path = feedstocks/r-sdtm.oak
 	branch = refs/heads/main
+[submodule "cocina"]
+	url = https://github.com/conda-forge/cocina-feedstock.git
+	path = feedstocks/cocina
+	branch = refs/heads/main
