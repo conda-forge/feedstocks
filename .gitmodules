@@ -106902,3 +106902,7 @@
 	url = https://github.com/conda-forge/compoundfiles-feedstock.git
 	path = feedstocks/compoundfiles
 	branch = refs/heads/main
+[submodule "beckhoff-ads"]
+	url = https://github.com/conda-forge/beckhoff-ads-feedstock.git
+	path = feedstocks/beckhoff-ads
+	branch = refs/heads/main
