@@ -106914,3 +106914,7 @@
 	url = https://github.com/conda-forge/cocina-feedstock.git
 	path = feedstocks/cocina
 	branch = refs/heads/main
+[submodule "anaconda-anon-usage"]
+	url = https://github.com/conda-forge/anaconda-anon-usage-feedstock.git
+	path = feedstocks/anaconda-anon-usage
+	branch = refs/heads/main
