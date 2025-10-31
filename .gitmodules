@@ -106918,3 +106918,7 @@
 	url = https://github.com/conda-forge/anaconda-anon-usage-feedstock.git
 	path = feedstocks/anaconda-anon-usage
 	branch = refs/heads/main
+[submodule "gibr"]
+	url = https://github.com/conda-forge/gibr-feedstock.git
+	path = feedstocks/gibr
+	branch = refs/heads/main
