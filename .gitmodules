@@ -106934,3 +106934,7 @@
 	url = https://github.com/conda-forge/flask-assets-pipeline-feedstock.git
 	path = feedstocks/flask-assets-pipeline
 	branch = refs/heads/main
+[submodule "terraform-provider-sshtunnel"]
+	url = https://github.com/conda-forge/terraform-provider-sshtunnel-feedstock.git
+	path = feedstocks/terraform-provider-sshtunnel
+	branch = refs/heads/main
