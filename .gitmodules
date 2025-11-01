@@ -106930,3 +106930,7 @@
 	url = https://github.com/conda-forge/condeltri-feedstock.git
 	path = feedstocks/condeltri
 	branch = refs/heads/main
+[submodule "flask-assets-pipeline"]
+	url = https://github.com/conda-forge/flask-assets-pipeline-feedstock.git
+	path = feedstocks/flask-assets-pipeline
+	branch = refs/heads/main
