@@ -106938,3 +106938,7 @@
 	url = https://github.com/conda-forge/terraform-provider-sshtunnel-feedstock.git
 	path = feedstocks/terraform-provider-sshtunnel
 	branch = refs/heads/main
+[submodule "polars-st"]
+	url = https://github.com/conda-forge/polars-st-feedstock.git
+	path = feedstocks/polars-st
+	branch = refs/heads/main
