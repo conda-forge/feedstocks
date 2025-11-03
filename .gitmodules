@@ -106950,3 +106950,7 @@
 	url = https://github.com/conda-forge/r-teal.code-feedstock.git
 	path = feedstocks/r-teal.code
 	branch = refs/heads/main
+[submodule "pathsim"]
+	url = https://github.com/conda-forge/pathsim-feedstock.git
+	path = feedstocks/pathsim
+	branch = refs/heads/main
