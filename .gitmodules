@@ -106942,3 +106942,7 @@
 	url = https://github.com/conda-forge/polars-st-feedstock.git
 	path = feedstocks/polars-st
 	branch = refs/heads/main
+[submodule "janet"]
+	url = https://github.com/conda-forge/janet-feedstock.git
+	path = feedstocks/janet
+	branch = refs/heads/main
