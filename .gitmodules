@@ -106946,3 +106946,7 @@
 	url = https://github.com/conda-forge/janet-feedstock.git
 	path = feedstocks/janet
 	branch = refs/heads/main
+[submodule "r-teal.code"]
+	url = https://github.com/conda-forge/r-teal.code-feedstock.git
+	path = feedstocks/r-teal.code
+	branch = refs/heads/main
