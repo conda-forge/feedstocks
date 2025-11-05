@@ -106970,3 +106970,7 @@
 	url = https://github.com/conda-forge/python-ar-feedstock.git
 	path = feedstocks/python-ar
 	branch = refs/heads/main
+[submodule "r-aphid"]
+	url = https://github.com/conda-forge/r-aphid-feedstock.git
+	path = feedstocks/r-aphid
+	branch = refs/heads/main
