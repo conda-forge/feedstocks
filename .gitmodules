@@ -106978,3 +106978,7 @@
 	url = https://github.com/conda-forge/r-insect-feedstock.git
 	path = feedstocks/r-insect
 	branch = refs/heads/main
+[submodule "r-teal.data"]
+	url = https://github.com/conda-forge/r-teal.data-feedstock.git
+	path = feedstocks/r-teal.data
+	branch = refs/heads/main
