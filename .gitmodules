@@ -106974,3 +106974,7 @@
 	url = https://github.com/conda-forge/r-aphid-feedstock.git
 	path = feedstocks/r-aphid
 	branch = refs/heads/main
+[submodule "r-insect"]
+	url = https://github.com/conda-forge/r-insect-feedstock.git
+	path = feedstocks/r-insect
+	branch = refs/heads/main
