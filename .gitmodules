@@ -107002,3 +107002,7 @@
 	url = https://github.com/conda-forge/r-resourcecodedata-feedstock.git
 	path = feedstocks/r-resourcecodedata
 	branch = refs/heads/main
+[submodule "conftest"]
+	url = https://github.com/conda-forge/conftest-feedstock.git
+	path = feedstocks/conftest
+	branch = refs/heads/main
