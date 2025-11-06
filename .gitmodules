@@ -106986,3 +106986,7 @@
 	url = https://github.com/conda-forge/zensical-feedstock.git
 	path = feedstocks/zensical
 	branch = refs/heads/main
+[submodule "r-teal.logger"]
+	url = https://github.com/conda-forge/r-teal.logger-feedstock.git
+	path = feedstocks/r-teal.logger
+	branch = refs/heads/main
