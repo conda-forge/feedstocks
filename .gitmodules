@@ -107014,3 +107014,7 @@
 	url = https://github.com/conda-forge/bivario-feedstock.git
 	path = feedstocks/bivario
 	branch = refs/heads/main
+[submodule "phoebusgen"]
+	url = https://github.com/conda-forge/phoebusgen-feedstock.git
+	path = feedstocks/phoebusgen
+	branch = refs/heads/main
