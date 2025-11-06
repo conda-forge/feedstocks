@@ -106998,3 +106998,7 @@
 	url = https://github.com/conda-forge/r-resourcecode-feedstock.git
 	path = feedstocks/r-resourcecode
 	branch = refs/heads/main
+[submodule "r-resourcecodedata"]
+	url = https://github.com/conda-forge/r-resourcecodedata-feedstock.git
+	path = feedstocks/r-resourcecodedata
+	branch = refs/heads/main
