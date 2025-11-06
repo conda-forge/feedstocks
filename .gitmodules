@@ -107010,3 +107010,7 @@
 	url = https://github.com/conda-forge/polars-cloud-feedstock.git
 	path = feedstocks/polars-cloud
 	branch = refs/heads/main
+[submodule "bivario"]
+	url = https://github.com/conda-forge/bivario-feedstock.git
+	path = feedstocks/bivario
+	branch = refs/heads/main
