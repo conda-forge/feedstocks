@@ -107018,3 +107018,7 @@
 	url = https://github.com/conda-forge/phoebusgen-feedstock.git
 	path = feedstocks/phoebusgen
 	branch = refs/heads/main
+[submodule "pixi-devenv"]
+	url = https://github.com/conda-forge/pixi-devenv-feedstock.git
+	path = feedstocks/pixi-devenv
+	branch = refs/heads/main
