@@ -107006,3 +107006,7 @@
 	url = https://github.com/conda-forge/conftest-feedstock.git
 	path = feedstocks/conftest
 	branch = refs/heads/main
+[submodule "polars-cloud"]
+	url = https://github.com/conda-forge/polars-cloud-feedstock.git
+	path = feedstocks/polars-cloud
+	branch = refs/heads/main
