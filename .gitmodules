@@ -107026,3 +107026,7 @@
 	url = https://github.com/conda-forge/jbpy-feedstock.git
 	path = feedstocks/jbpy
 	branch = refs/heads/main
+[submodule "iceoryx"]
+	url = https://github.com/conda-forge/iceoryx-feedstock.git
+	path = feedstocks/iceoryx
+	branch = refs/heads/main
