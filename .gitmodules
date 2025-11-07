@@ -107022,3 +107022,7 @@
 	url = https://github.com/conda-forge/pixi-devenv-feedstock.git
 	path = feedstocks/pixi-devenv
 	branch = refs/heads/main
+[submodule "jbpy"]
+	url = https://github.com/conda-forge/jbpy-feedstock.git
+	path = feedstocks/jbpy
+	branch = refs/heads/main
