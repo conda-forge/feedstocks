@@ -107038,3 +107038,7 @@
 	url = https://github.com/conda-forge/nvidia-tao-pytorch-feedstock.git
 	path = feedstocks/nvidia-tao-pytorch
 	branch = refs/heads/main
+[submodule "torch_memory_saver"]
+	url = https://github.com/conda-forge/torch_memory_saver-feedstock.git
+	path = feedstocks/torch_memory_saver
+	branch = refs/heads/main
