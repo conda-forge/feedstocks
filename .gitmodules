@@ -107042,3 +107042,7 @@
 	url = https://github.com/conda-forge/torch_memory_saver-feedstock.git
 	path = feedstocks/torch_memory_saver
 	branch = refs/heads/main
+[submodule "diffpy.distanceprinter"]
+	url = https://github.com/conda-forge/diffpy.distanceprinter-feedstock.git
+	path = feedstocks/diffpy.distanceprinter
+	branch = refs/heads/main
