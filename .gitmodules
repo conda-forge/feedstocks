@@ -107034,3 +107034,7 @@
 	url = https://github.com/conda-forge/rc.process-feedstock.git
 	path = feedstocks/rc.process
 	branch = refs/heads/main
+[submodule "nvidia-tao-pytorch"]
+	url = https://github.com/conda-forge/nvidia-tao-pytorch-feedstock.git
+	path = feedstocks/nvidia-tao-pytorch
+	branch = refs/heads/main
