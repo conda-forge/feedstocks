@@ -107030,3 +107030,7 @@
 	url = https://github.com/conda-forge/iceoryx-feedstock.git
 	path = feedstocks/iceoryx
 	branch = refs/heads/main
+[submodule "rc.process"]
+	url = https://github.com/conda-forge/rc.process-feedstock.git
+	path = feedstocks/rc.process
+	branch = refs/heads/main
