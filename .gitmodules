@@ -107050,3 +107050,7 @@
 	url = https://github.com/conda-forge/exchcxx-feedstock.git
 	path = feedstocks/exchcxx
 	branch = refs/heads/main
+[submodule "sol2"]
+	url = https://github.com/conda-forge/sol2-feedstock.git
+	path = feedstocks/sol2
+	branch = refs/heads/main
