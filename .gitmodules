@@ -107058,3 +107058,7 @@
 	url = https://github.com/conda-forge/r-contentanalysis-feedstock.git
 	path = feedstocks/r-contentanalysis
 	branch = refs/heads/main
+[submodule "r-mgc"]
+	url = https://github.com/conda-forge/r-mgc-feedstock.git
+	path = feedstocks/r-mgc
+	branch = refs/heads/main
