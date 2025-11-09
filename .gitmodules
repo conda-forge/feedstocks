@@ -107062,3 +107062,7 @@
 	url = https://github.com/conda-forge/r-mgc-feedstock.git
 	path = feedstocks/r-mgc
 	branch = refs/heads/main
+[submodule "gitflow-analytics"]
+	url = https://github.com/conda-forge/gitflow-analytics-feedstock.git
+	path = feedstocks/gitflow-analytics
+	branch = refs/heads/main
