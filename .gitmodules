@@ -107098,3 +107098,7 @@
 	url = https://github.com/conda-forge/gitflow-studio-feedstock.git
 	path = feedstocks/gitflow-studio
 	branch = refs/heads/main
+[submodule "cpr"]
+	url = https://github.com/conda-forge/cpr-feedstock.git
+	path = feedstocks/cpr
+	branch = refs/heads/main
