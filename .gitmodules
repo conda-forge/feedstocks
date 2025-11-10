@@ -107074,3 +107074,7 @@
 	url = https://github.com/conda-forge/procodile-feedstock.git
 	path = feedstocks/procodile
 	branch = refs/heads/main
+[submodule "eozilla"]
+	url = https://github.com/conda-forge/eozilla-feedstock.git
+	path = feedstocks/eozilla
+	branch = refs/heads/main
