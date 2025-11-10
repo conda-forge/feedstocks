@@ -107094,3 +107094,7 @@
 	url = https://github.com/conda-forge/gavicore-feedstock.git
 	path = feedstocks/gavicore
 	branch = refs/heads/main
+[submodule "gitflow-studio"]
+	url = https://github.com/conda-forge/gitflow-studio-feedstock.git
+	path = feedstocks/gitflow-studio
+	branch = refs/heads/main
