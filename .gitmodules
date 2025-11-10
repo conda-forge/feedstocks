@@ -107070,3 +107070,7 @@
 	url = https://github.com/conda-forge/r-options-feedstock.git
 	path = feedstocks/r-options
 	branch = refs/heads/main
+[submodule "procodile"]
+	url = https://github.com/conda-forge/procodile-feedstock.git
+	path = feedstocks/procodile
+	branch = refs/heads/main
