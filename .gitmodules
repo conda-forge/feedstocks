@@ -107090,3 +107090,7 @@
 	url = https://github.com/conda-forge/appligator-feedstock.git
 	path = feedstocks/appligator
 	branch = refs/heads/main
+[submodule "gavicore"]
+	url = https://github.com/conda-forge/gavicore-feedstock.git
+	path = feedstocks/gavicore
+	branch = refs/heads/main
