@@ -107086,3 +107086,7 @@
 	url = https://github.com/conda-forge/wraptile-feedstock.git
 	path = feedstocks/wraptile
 	branch = refs/heads/main
+[submodule "appligator"]
+	url = https://github.com/conda-forge/appligator-feedstock.git
+	path = feedstocks/appligator
+	branch = refs/heads/main
