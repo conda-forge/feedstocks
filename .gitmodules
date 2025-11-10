@@ -107082,3 +107082,7 @@
 	url = https://github.com/conda-forge/cuiman-feedstock.git
 	path = feedstocks/cuiman
 	branch = refs/heads/main
+[submodule "wraptile"]
+	url = https://github.com/conda-forge/wraptile-feedstock.git
+	path = feedstocks/wraptile
+	branch = refs/heads/main
