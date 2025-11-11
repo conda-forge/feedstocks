@@ -107118,3 +107118,7 @@
 	url = https://github.com/conda-forge/pypulseq-feedstock.git
 	path = feedstocks/pypulseq
 	branch = refs/heads/main
+[submodule "cdt-builds"]
+	url = https://github.com/conda-forge/cdt-builds-feedstock.git
+	path = feedstocks/cdt-builds
+	branch = refs/heads/main
