@@ -107114,3 +107114,7 @@
 	url = https://github.com/conda-forge/esy.osm.pbf-feedstock.git
 	path = feedstocks/esy.osm.pbf
 	branch = refs/heads/main
+[submodule "pypulseq"]
+	url = https://github.com/conda-forge/pypulseq-feedstock.git
+	path = feedstocks/pypulseq
+	branch = refs/heads/main
