@@ -107102,3 +107102,7 @@
 	url = https://github.com/conda-forge/cpr-feedstock.git
 	path = feedstocks/cpr
 	branch = refs/heads/main
+[submodule "biobuddy"]
+	url = https://github.com/conda-forge/biobuddy-feedstock.git
+	path = feedstocks/biobuddy
+	branch = refs/heads/main
