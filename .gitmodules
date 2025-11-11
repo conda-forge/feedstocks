@@ -107106,3 +107106,7 @@
 	url = https://github.com/conda-forge/biobuddy-feedstock.git
 	path = feedstocks/biobuddy
 	branch = refs/heads/main
+[submodule "modelsearch"]
+	url = https://github.com/conda-forge/modelsearch-feedstock.git
+	path = feedstocks/modelsearch
+	branch = refs/heads/main
