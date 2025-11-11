@@ -107110,3 +107110,7 @@
 	url = https://github.com/conda-forge/modelsearch-feedstock.git
 	path = feedstocks/modelsearch
 	branch = refs/heads/main
+[submodule "esy.osm.pbf"]
+	url = https://github.com/conda-forge/esy.osm.pbf-feedstock.git
+	path = feedstocks/esy.osm.pbf
+	branch = refs/heads/main
