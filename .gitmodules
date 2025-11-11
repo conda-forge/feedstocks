@@ -107122,3 +107122,7 @@
 	url = https://github.com/conda-forge/cdt-builds-feedstock.git
 	path = feedstocks/cdt-builds
 	branch = refs/heads/main
+[submodule "multiprocessing_on_dill"]
+	url = https://github.com/conda-forge/multiprocessing_on_dill-feedstock.git
+	path = feedstocks/multiprocessing_on_dill
+	branch = refs/heads/main
