@@ -107146,3 +107146,7 @@
 	url = https://github.com/conda-forge/grain-feedstock.git
 	path = feedstocks/grain
 	branch = refs/heads/main
+[submodule "resourcecode"]
+	url = https://github.com/conda-forge/resourcecode-feedstock.git
+	path = feedstocks/resourcecode
+	branch = refs/heads/main
