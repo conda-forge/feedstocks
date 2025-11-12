@@ -107138,3 +107138,7 @@
 	url = https://github.com/conda-forge/p2a-feedstock.git
 	path = feedstocks/p2a
 	branch = refs/heads/main
+[submodule "diptest"]
+	url = https://github.com/conda-forge/diptest-feedstock.git
+	path = feedstocks/diptest
+	branch = refs/heads/main
