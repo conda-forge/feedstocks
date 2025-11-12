@@ -107142,3 +107142,7 @@
 	url = https://github.com/conda-forge/diptest-feedstock.git
 	path = feedstocks/diptest
 	branch = refs/heads/main
+[submodule "grain"]
+	url = https://github.com/conda-forge/grain-feedstock.git
+	path = feedstocks/grain
+	branch = refs/heads/main
