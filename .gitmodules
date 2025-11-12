@@ -107134,3 +107134,7 @@
 	url = https://github.com/conda-forge/cargo-expand-feedstock.git
 	path = feedstocks/cargo-expand
 	branch = refs/heads/main
+[submodule "p2a"]
+	url = https://github.com/conda-forge/p2a-feedstock.git
+	path = feedstocks/p2a
+	branch = refs/heads/main
