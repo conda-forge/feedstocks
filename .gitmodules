@@ -107198,3 +107198,7 @@
 	url = https://github.com/conda-forge/pyregeon-feedstock.git
 	path = feedstocks/pyregeon
 	branch = refs/heads/main
+[submodule "ccflow-email"]
+	url = https://github.com/conda-forge/ccflow-email-feedstock.git
+	path = feedstocks/ccflow-email
+	branch = refs/heads/main
