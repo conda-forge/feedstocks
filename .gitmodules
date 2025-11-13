@@ -107234,3 +107234,7 @@
 	url = https://github.com/conda-forge/dramatiq-sqlite-feedstock.git
 	path = feedstocks/dramatiq-sqlite
 	branch = refs/heads/main
+[submodule "jinjapy"]
+	url = https://github.com/conda-forge/jinjapy-feedstock.git
+	path = feedstocks/jinjapy
+	branch = refs/heads/main
