@@ -107218,3 +107218,7 @@
 	url = https://github.com/conda-forge/jinja-frontmatter-feedstock.git
 	path = feedstocks/jinja-frontmatter
 	branch = refs/heads/main
+[submodule "flask-suspense"]
+	url = https://github.com/conda-forge/flask-suspense-feedstock.git
+	path = feedstocks/flask-suspense
+	branch = refs/heads/main
