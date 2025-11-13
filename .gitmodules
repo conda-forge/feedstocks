@@ -107226,3 +107226,7 @@
 	url = https://github.com/conda-forge/jinja-layout-feedstock.git
 	path = feedstocks/jinja-layout
 	branch = refs/heads/main
+[submodule "flask-mailman"]
+	url = https://github.com/conda-forge/flask-mailman-feedstock.git
+	path = feedstocks/flask-mailman
+	branch = refs/heads/main
