@@ -107250,3 +107250,7 @@
 	url = https://github.com/conda-forge/flask-files-feedstock.git
 	path = feedstocks/flask-files
 	branch = refs/heads/main
+[submodule "luts"]
+	url = https://github.com/conda-forge/luts-feedstock.git
+	path = feedstocks/luts
+	branch = refs/heads/main
