@@ -107170,3 +107170,7 @@
 	url = https://github.com/conda-forge/probabilit-feedstock.git
 	path = feedstocks/probabilit
 	branch = refs/heads/main
+[submodule "epydemix"]
+	url = https://github.com/conda-forge/epydemix-feedstock.git
+	path = feedstocks/epydemix
+	branch = refs/heads/main
