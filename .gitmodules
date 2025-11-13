@@ -107182,3 +107182,7 @@
 	url = https://github.com/conda-forge/pydoclint-feedstock.git
 	path = feedstocks/pydoclint
 	branch = refs/heads/main
+[submodule "mkdocs-quiz"]
+	url = https://github.com/conda-forge/mkdocs-quiz-feedstock.git
+	path = feedstocks/mkdocs-quiz
+	branch = refs/heads/main
