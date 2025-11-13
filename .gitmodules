@@ -107270,3 +107270,7 @@
 	url = https://github.com/conda-forge/tardigrade_vector_tools-feedstock.git
 	path = feedstocks/tardigrade_vector_tools
 	branch = refs/heads/main
+[submodule "gst-rtsp-server"]
+	url = https://github.com/conda-forge/gst-rtsp-server-feedstock.git
+	path = feedstocks/gst-rtsp-server
+	branch = refs/heads/main
