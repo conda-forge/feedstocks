@@ -107186,3 +107186,7 @@
 	url = https://github.com/conda-forge/mkdocs-quiz-feedstock.git
 	path = feedstocks/mkdocs-quiz
 	branch = refs/heads/main
+[submodule "diffpy.srxconfutils"]
+	url = https://github.com/conda-forge/diffpy.srxconfutils-feedstock.git
+	path = feedstocks/diffpy.srxconfutils
+	branch = refs/heads/main
