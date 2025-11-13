@@ -107178,3 +107178,7 @@
 	url = https://github.com/conda-forge/fastcdc-feedstock.git
 	path = feedstocks/fastcdc
 	branch = refs/heads/main
+[submodule "pydoclint"]
+	url = https://github.com/conda-forge/pydoclint-feedstock.git
+	path = feedstocks/pydoclint
+	branch = refs/heads/main
