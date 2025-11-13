@@ -107194,3 +107194,7 @@
 	url = https://github.com/conda-forge/sarkit-feedstock.git
 	path = feedstocks/sarkit
 	branch = refs/heads/main
+[submodule "pyregeon"]
+	url = https://github.com/conda-forge/pyregeon-feedstock.git
+	path = feedstocks/pyregeon
+	branch = refs/heads/main
