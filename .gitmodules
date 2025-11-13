@@ -107214,3 +107214,7 @@
 	url = https://github.com/conda-forge/mjml-feedstock.git
 	path = feedstocks/mjml
 	branch = refs/heads/main
+[submodule "jinja-frontmatter"]
+	url = https://github.com/conda-forge/jinja-frontmatter-feedstock.git
+	path = feedstocks/jinja-frontmatter
+	branch = refs/heads/main
