@@ -107162,3 +107162,7 @@
 	url = https://github.com/conda-forge/openai-whisper-feedstock.git
 	path = feedstocks/openai-whisper
 	branch = refs/heads/main
+[submodule "sqlfluff-templater-dbt"]
+	url = https://github.com/conda-forge/sqlfluff-templater-dbt-feedstock.git
+	path = feedstocks/sqlfluff-templater-dbt
+	branch = refs/heads/main
