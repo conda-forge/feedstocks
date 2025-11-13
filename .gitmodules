@@ -107206,3 +107206,7 @@
 	url = https://github.com/conda-forge/flask-babel-hyper-feedstock.git
 	path = feedstocks/flask-babel-hyper
 	branch = refs/heads/main
+[submodule "tangogql"]
+	url = https://github.com/conda-forge/tangogql-feedstock.git
+	path = feedstocks/tangogql
+	branch = refs/heads/main
