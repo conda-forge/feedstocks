@@ -107238,3 +107238,7 @@
 	url = https://github.com/conda-forge/jinjapy-feedstock.git
 	path = feedstocks/jinjapy
 	branch = refs/heads/main
+[submodule "flask-collections"]
+	url = https://github.com/conda-forge/flask-collections-feedstock.git
+	path = feedstocks/flask-collections
+	branch = refs/heads/main
