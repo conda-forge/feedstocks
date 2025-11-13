@@ -107154,3 +107154,7 @@
 	url = https://github.com/conda-forge/sshcopyid-feedstock.git
 	path = feedstocks/sshcopyid
 	branch = refs/heads/main
+[submodule "alacritty"]
+	url = https://github.com/conda-forge/alacritty-feedstock.git
+	path = feedstocks/alacritty
+	branch = refs/heads/main
