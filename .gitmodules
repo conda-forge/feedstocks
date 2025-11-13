@@ -107242,3 +107242,7 @@
 	url = https://github.com/conda-forge/flask-collections-feedstock.git
 	path = feedstocks/flask-collections
 	branch = refs/heads/main
+[submodule "flask-geo"]
+	url = https://github.com/conda-forge/flask-geo-feedstock.git
+	path = feedstocks/flask-geo
+	branch = refs/heads/main
