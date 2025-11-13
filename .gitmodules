@@ -107150,3 +107150,7 @@
 	url = https://github.com/conda-forge/resourcecode-feedstock.git
 	path = feedstocks/resourcecode
 	branch = refs/heads/main
+[submodule "sshcopyid"]
+	url = https://github.com/conda-forge/sshcopyid-feedstock.git
+	path = feedstocks/sshcopyid
+	branch = refs/heads/main
