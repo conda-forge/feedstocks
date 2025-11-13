@@ -107258,3 +107258,7 @@
 	url = https://github.com/conda-forge/flask-mercure-sse-feedstock.git
 	path = feedstocks/flask-mercure-sse
 	branch = refs/heads/main
+[submodule "flask-configurator"]
+	url = https://github.com/conda-forge/flask-configurator-feedstock.git
+	path = feedstocks/flask-configurator
+	branch = refs/heads/main
