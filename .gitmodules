@@ -107174,3 +107174,7 @@
 	url = https://github.com/conda-forge/epydemix-feedstock.git
 	path = feedstocks/epydemix
 	branch = refs/heads/main
+[submodule "fastcdc"]
+	url = https://github.com/conda-forge/fastcdc-feedstock.git
+	path = feedstocks/fastcdc
+	branch = refs/heads/main
