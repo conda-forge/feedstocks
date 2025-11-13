@@ -107230,3 +107230,7 @@
 	url = https://github.com/conda-forge/flask-mailman-feedstock.git
 	path = feedstocks/flask-mailman
 	branch = refs/heads/main
+[submodule "dramatiq-sqlite"]
+	url = https://github.com/conda-forge/dramatiq-sqlite-feedstock.git
+	path = feedstocks/dramatiq-sqlite
+	branch = refs/heads/main
