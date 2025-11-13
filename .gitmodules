@@ -107266,3 +107266,7 @@
 	url = https://github.com/conda-forge/ccflow-s3-feedstock.git
 	path = feedstocks/ccflow-s3
 	branch = refs/heads/main
+[submodule "tardigrade_vector_tools"]
+	url = https://github.com/conda-forge/tardigrade_vector_tools-feedstock.git
+	path = feedstocks/tardigrade_vector_tools
+	branch = refs/heads/main
