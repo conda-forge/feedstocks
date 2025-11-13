@@ -107254,3 +107254,7 @@
 	url = https://github.com/conda-forge/luts-feedstock.git
 	path = feedstocks/luts
 	branch = refs/heads/main
+[submodule "flask-mercure-sse"]
+	url = https://github.com/conda-forge/flask-mercure-sse-feedstock.git
+	path = feedstocks/flask-mercure-sse
+	branch = refs/heads/main
