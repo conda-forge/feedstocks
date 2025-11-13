@@ -107158,3 +107158,7 @@
 	url = https://github.com/conda-forge/alacritty-feedstock.git
 	path = feedstocks/alacritty
 	branch = refs/heads/main
+[submodule "openai-whisper"]
+	url = https://github.com/conda-forge/openai-whisper-feedstock.git
+	path = feedstocks/openai-whisper
+	branch = refs/heads/main
