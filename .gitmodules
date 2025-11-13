@@ -107190,3 +107190,7 @@
 	url = https://github.com/conda-forge/diffpy.srxconfutils-feedstock.git
 	path = feedstocks/diffpy.srxconfutils
 	branch = refs/heads/main
+[submodule "sarkit"]
+	url = https://github.com/conda-forge/sarkit-feedstock.git
+	path = feedstocks/sarkit
+	branch = refs/heads/main
