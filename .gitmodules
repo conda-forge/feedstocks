@@ -107166,3 +107166,7 @@
 	url = https://github.com/conda-forge/sqlfluff-templater-dbt-feedstock.git
 	path = feedstocks/sqlfluff-templater-dbt
 	branch = refs/heads/main
+[submodule "probabilit"]
+	url = https://github.com/conda-forge/probabilit-feedstock.git
+	path = feedstocks/probabilit
+	branch = refs/heads/main
