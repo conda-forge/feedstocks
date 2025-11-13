@@ -107262,3 +107262,7 @@
 	url = https://github.com/conda-forge/flask-configurator-feedstock.git
 	path = feedstocks/flask-configurator
 	branch = refs/heads/main
+[submodule "ccflow-s3"]
+	url = https://github.com/conda-forge/ccflow-s3-feedstock.git
+	path = feedstocks/ccflow-s3
+	branch = refs/heads/main
