@@ -107298,3 +107298,7 @@
 	url = https://github.com/conda-forge/a2a-sdk-feedstock.git
 	path = feedstocks/a2a-sdk
 	branch = refs/heads/main
+[submodule "libpass"]
+	url = https://github.com/conda-forge/libpass-feedstock.git
+	path = feedstocks/libpass
+	branch = refs/heads/main
