@@ -107278,3 +107278,7 @@
 	url = https://github.com/conda-forge/vpselector-feedstock.git
 	path = feedstocks/vpselector
 	branch = refs/heads/main
+[submodule "django-mongodb-backend"]
+	url = https://github.com/conda-forge/django-mongodb-backend-feedstock.git
+	path = feedstocks/django-mongodb-backend
+	branch = refs/heads/main
