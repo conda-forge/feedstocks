@@ -107282,3 +107282,7 @@
 	url = https://github.com/conda-forge/django-mongodb-backend-feedstock.git
 	path = feedstocks/django-mongodb-backend
 	branch = refs/heads/main
+[submodule "agntcy-acp"]
+	url = https://github.com/conda-forge/agntcy-acp-feedstock.git
+	path = feedstocks/agntcy-acp
+	branch = refs/heads/main
