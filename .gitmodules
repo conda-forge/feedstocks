@@ -107286,3 +107286,7 @@
 	url = https://github.com/conda-forge/agntcy-acp-feedstock.git
 	path = feedstocks/agntcy-acp
 	branch = refs/heads/main
+[submodule "python-a2a"]
+	url = https://github.com/conda-forge/python-a2a-feedstock.git
+	path = feedstocks/python-a2a
+	branch = refs/heads/main
