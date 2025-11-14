@@ -107274,3 +107274,7 @@
 	url = https://github.com/conda-forge/gst-rtsp-server-feedstock.git
 	path = feedstocks/gst-rtsp-server
 	branch = refs/heads/main
+[submodule "vpselector"]
+	url = https://github.com/conda-forge/vpselector-feedstock.git
+	path = feedstocks/vpselector
+	branch = refs/heads/main
