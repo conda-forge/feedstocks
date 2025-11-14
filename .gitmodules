@@ -107294,3 +107294,7 @@
 	url = https://github.com/conda-forge/kedro-dagster-feedstock.git
 	path = feedstocks/kedro-dagster
 	branch = refs/heads/main
+[submodule "a2a-sdk"]
+	url = https://github.com/conda-forge/a2a-sdk-feedstock.git
+	path = feedstocks/a2a-sdk
+	branch = refs/heads/main
