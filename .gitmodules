@@ -107302,3 +107302,7 @@
 	url = https://github.com/conda-forge/libpass-feedstock.git
 	path = feedstocks/libpass
 	branch = refs/heads/main
+[submodule "r-lsoda"]
+	url = https://github.com/conda-forge/r-lsoda-feedstock.git
+	path = feedstocks/r-lsoda
+	branch = refs/heads/main
