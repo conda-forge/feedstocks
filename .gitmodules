@@ -107306,3 +107306,7 @@
 	url = https://github.com/conda-forge/r-lsoda-feedstock.git
 	path = feedstocks/r-lsoda
 	branch = refs/heads/main
+[submodule "types-webencodings"]
+	url = https://github.com/conda-forge/types-webencodings-feedstock.git
+	path = feedstocks/types-webencodings
+	branch = refs/heads/main
