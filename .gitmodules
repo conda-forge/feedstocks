@@ -107310,3 +107310,7 @@
 	url = https://github.com/conda-forge/types-webencodings-feedstock.git
 	path = feedstocks/types-webencodings
 	branch = refs/heads/main
+[submodule "sbom2dot"]
+	url = https://github.com/conda-forge/sbom2dot-feedstock.git
+	path = feedstocks/sbom2dot
+	branch = refs/heads/main
