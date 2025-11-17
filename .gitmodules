@@ -107314,3 +107314,7 @@
 	url = https://github.com/conda-forge/sbom2dot-feedstock.git
 	path = feedstocks/sbom2dot
 	branch = refs/heads/main
+[submodule "libfranka"]
+	url = https://github.com/conda-forge/libfranka-feedstock.git
+	path = feedstocks/libfranka
+	branch = refs/heads/main
