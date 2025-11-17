@@ -107342,3 +107342,7 @@
 	url = https://github.com/conda-forge/bioio-conversion-feedstock.git
 	path = feedstocks/bioio-conversion
 	branch = refs/heads/main
+[submodule "cfs3"]
+	url = https://github.com/conda-forge/cfs3-feedstock.git
+	path = feedstocks/cfs3
+	branch = refs/heads/main
