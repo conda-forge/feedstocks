@@ -107334,3 +107334,7 @@
 	url = https://github.com/conda-forge/google-re2-stubs-feedstock.git
 	path = feedstocks/google-re2-stubs
 	branch = refs/heads/main
+[submodule "symmray"]
+	url = https://github.com/conda-forge/symmray-feedstock.git
+	path = feedstocks/symmray
+	branch = refs/heads/main
