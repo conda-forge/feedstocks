@@ -107350,3 +107350,7 @@
 	url = https://github.com/conda-forge/ornax-feedstock.git
 	path = feedstocks/ornax
 	branch = refs/heads/main
+[submodule "scikit-plots"]
+	url = https://github.com/conda-forge/scikit-plots-feedstock.git
+	path = feedstocks/scikit-plots
+	branch = refs/heads/main
