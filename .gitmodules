@@ -107326,3 +107326,7 @@
 	url = https://github.com/conda-forge/spec-kit-feedstock.git
 	path = feedstocks/spec-kit
 	branch = refs/heads/main
+[submodule "diffpy.srxplanar"]
+	url = https://github.com/conda-forge/diffpy.srxplanar-feedstock.git
+	path = feedstocks/diffpy.srxplanar
+	branch = refs/heads/main
