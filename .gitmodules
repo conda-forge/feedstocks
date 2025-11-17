@@ -107318,3 +107318,7 @@
 	url = https://github.com/conda-forge/libfranka-feedstock.git
 	path = feedstocks/libfranka
 	branch = refs/heads/main
+[submodule "geomappy"]
+	url = https://github.com/conda-forge/geomappy-feedstock.git
+	path = feedstocks/geomappy
+	branch = refs/heads/main
