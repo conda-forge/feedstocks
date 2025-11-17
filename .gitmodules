@@ -107346,3 +107346,7 @@
 	url = https://github.com/conda-forge/cfs3-feedstock.git
 	path = feedstocks/cfs3
 	branch = refs/heads/main
+[submodule "ornax"]
+	url = https://github.com/conda-forge/ornax-feedstock.git
+	path = feedstocks/ornax
+	branch = refs/heads/main
