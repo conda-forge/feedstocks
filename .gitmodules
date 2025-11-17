@@ -107330,3 +107330,7 @@
 	url = https://github.com/conda-forge/diffpy.srxplanar-feedstock.git
 	path = feedstocks/diffpy.srxplanar
 	branch = refs/heads/main
+[submodule "google-re2-stubs"]
+	url = https://github.com/conda-forge/google-re2-stubs-feedstock.git
+	path = feedstocks/google-re2-stubs
+	branch = refs/heads/main
