@@ -107338,3 +107338,7 @@
 	url = https://github.com/conda-forge/symmray-feedstock.git
 	path = feedstocks/symmray
 	branch = refs/heads/main
+[submodule "bioio-conversion"]
+	url = https://github.com/conda-forge/bioio-conversion-feedstock.git
+	path = feedstocks/bioio-conversion
+	branch = refs/heads/main
