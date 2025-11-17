@@ -107322,3 +107322,7 @@
 	url = https://github.com/conda-forge/geomappy-feedstock.git
 	path = feedstocks/geomappy
 	branch = refs/heads/main
+[submodule "spec-kit"]
+	url = https://github.com/conda-forge/spec-kit-feedstock.git
+	path = feedstocks/spec-kit
+	branch = refs/heads/main
