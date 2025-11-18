@@ -107382,3 +107382,7 @@
 	url = https://github.com/conda-forge/sphinx-tippy-feedstock.git
 	path = feedstocks/sphinx-tippy
 	branch = refs/heads/main
+[submodule "pyleak"]
+	url = https://github.com/conda-forge/pyleak-feedstock.git
+	path = feedstocks/pyleak
+	branch = refs/heads/main
