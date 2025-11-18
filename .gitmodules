@@ -107362,3 +107362,7 @@
 	url = https://github.com/conda-forge/jupyter-myst-build-proxy-feedstock.git
 	path = feedstocks/jupyter-myst-build-proxy
 	branch = refs/heads/main
+[submodule "pytorch-pfn-extras"]
+	url = https://github.com/conda-forge/pytorch-pfn-extras-feedstock.git
+	path = feedstocks/pytorch-pfn-extras
+	branch = refs/heads/main
