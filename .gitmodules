@@ -107370,3 +107370,7 @@
 	url = https://github.com/conda-forge/tqdm-loggable-feedstock.git
 	path = feedstocks/tqdm-loggable
 	branch = refs/heads/main
+[submodule "zitadel-client"]
+	url = https://github.com/conda-forge/zitadel-client-feedstock.git
+	path = feedstocks/zitadel-client
+	branch = refs/heads/main
