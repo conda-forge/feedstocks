@@ -107386,3 +107386,7 @@
 	url = https://github.com/conda-forge/pyleak-feedstock.git
 	path = feedstocks/pyleak
 	branch = refs/heads/main
+[submodule "pycap-dss"]
+	url = https://github.com/conda-forge/pycap-dss-feedstock.git
+	path = feedstocks/pycap-dss
+	branch = refs/heads/main
