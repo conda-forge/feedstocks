@@ -107378,3 +107378,7 @@
 	url = https://github.com/conda-forge/ngsidekick-feedstock.git
 	path = feedstocks/ngsidekick
 	branch = refs/heads/main
+[submodule "sphinx-tippy"]
+	url = https://github.com/conda-forge/sphinx-tippy-feedstock.git
+	path = feedstocks/sphinx-tippy
+	branch = refs/heads/main
