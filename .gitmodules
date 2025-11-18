@@ -107374,3 +107374,7 @@
 	url = https://github.com/conda-forge/zitadel-client-feedstock.git
 	path = feedstocks/zitadel-client
 	branch = refs/heads/main
+[submodule "ngsidekick"]
+	url = https://github.com/conda-forge/ngsidekick-feedstock.git
+	path = feedstocks/ngsidekick
+	branch = refs/heads/main
