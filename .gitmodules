@@ -107358,3 +107358,7 @@
 	url = https://github.com/conda-forge/optiwindnet-feedstock.git
 	path = feedstocks/optiwindnet
 	branch = refs/heads/main
+[submodule "jupyter-myst-build-proxy"]
+	url = https://github.com/conda-forge/jupyter-myst-build-proxy-feedstock.git
+	path = feedstocks/jupyter-myst-build-proxy
+	branch = refs/heads/main
