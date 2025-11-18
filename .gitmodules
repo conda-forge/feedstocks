@@ -107366,3 +107366,7 @@
 	url = https://github.com/conda-forge/pytorch-pfn-extras-feedstock.git
 	path = feedstocks/pytorch-pfn-extras
 	branch = refs/heads/main
+[submodule "tqdm-loggable"]
+	url = https://github.com/conda-forge/tqdm-loggable-feedstock.git
+	path = feedstocks/tqdm-loggable
+	branch = refs/heads/main
