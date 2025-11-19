@@ -107402,3 +107402,7 @@
 	url = https://github.com/conda-forge/album-package-feedstock.git
 	path = feedstocks/album-package
 	branch = refs/heads/main
+[submodule "libtdlpack"]
+	url = https://github.com/conda-forge/libtdlpack-feedstock.git
+	path = feedstocks/libtdlpack
+	branch = refs/heads/main
