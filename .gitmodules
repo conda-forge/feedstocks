@@ -107398,3 +107398,7 @@
 	url = https://github.com/conda-forge/critiplot-feedstock.git
 	path = feedstocks/critiplot
 	branch = refs/heads/main
+[submodule "album-package"]
+	url = https://github.com/conda-forge/album-package-feedstock.git
+	path = feedstocks/album-package
+	branch = refs/heads/main
