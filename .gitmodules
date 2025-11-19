@@ -107410,3 +107410,7 @@
 	url = https://github.com/conda-forge/stacie-feedstock.git
 	path = feedstocks/stacie
 	branch = refs/heads/main
+[submodule "pydocket"]
+	url = https://github.com/conda-forge/pydocket-feedstock.git
+	path = feedstocks/pydocket
+	branch = refs/heads/main
