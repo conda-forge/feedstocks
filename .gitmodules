@@ -107390,3 +107390,7 @@
 	url = https://github.com/conda-forge/pycap-dss-feedstock.git
 	path = feedstocks/pycap-dss
 	branch = refs/heads/main
+[submodule "microlens-submit"]
+	url = https://github.com/conda-forge/microlens-submit-feedstock.git
+	path = feedstocks/microlens-submit
+	branch = refs/heads/main
