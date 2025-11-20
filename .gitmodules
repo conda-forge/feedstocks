@@ -107442,3 +107442,7 @@
 	url = https://github.com/conda-forge/jupyterlab-diff-feedstock.git
 	path = feedstocks/jupyterlab-diff
 	branch = refs/heads/main
+[submodule "jupyterlab-cell-input-footer"]
+	url = https://github.com/conda-forge/jupyterlab-cell-input-footer-feedstock.git
+	path = feedstocks/jupyterlab-cell-input-footer
+	branch = refs/heads/main
