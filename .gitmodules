@@ -107422,3 +107422,7 @@
 	url = https://github.com/conda-forge/scgraph-feedstock.git
 	path = feedstocks/scgraph
 	branch = refs/heads/main
+[submodule "spheno"]
+	url = https://github.com/conda-forge/spheno-feedstock.git
+	path = feedstocks/spheno
+	branch = refs/heads/main
