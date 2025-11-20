@@ -107430,3 +107430,7 @@
 	url = https://github.com/conda-forge/plothist_utils-feedstock.git
 	path = feedstocks/plothist_utils
 	branch = refs/heads/main
+[submodule "esridump"]
+	url = https://github.com/conda-forge/esridump-feedstock.git
+	path = feedstocks/esridump
+	branch = refs/heads/main
