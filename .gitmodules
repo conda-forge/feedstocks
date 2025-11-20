@@ -107418,3 +107418,7 @@
 	url = https://github.com/conda-forge/happymath-feedstock.git
 	path = feedstocks/happymath
 	branch = refs/heads/main
+[submodule "scgraph"]
+	url = https://github.com/conda-forge/scgraph-feedstock.git
+	path = feedstocks/scgraph
+	branch = refs/heads/main
