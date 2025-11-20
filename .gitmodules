@@ -107434,3 +107434,7 @@
 	url = https://github.com/conda-forge/esridump-feedstock.git
 	path = feedstocks/esridump
 	branch = refs/heads/main
+[submodule "jupyterlab-eventlistener"]
+	url = https://github.com/conda-forge/jupyterlab-eventlistener-feedstock.git
+	path = feedstocks/jupyterlab-eventlistener
+	branch = refs/heads/main
