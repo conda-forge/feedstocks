@@ -107446,3 +107446,7 @@
 	url = https://github.com/conda-forge/jupyterlab-cell-input-footer-feedstock.git
 	path = feedstocks/jupyterlab-cell-input-footer
 	branch = refs/heads/main
+[submodule "panel-splitjs"]
+	url = https://github.com/conda-forge/panel-splitjs-feedstock.git
+	path = feedstocks/panel-splitjs
+	branch = refs/heads/main
