@@ -107438,3 +107438,7 @@
 	url = https://github.com/conda-forge/jupyterlab-eventlistener-feedstock.git
 	path = feedstocks/jupyterlab-eventlistener
 	branch = refs/heads/main
+[submodule "jupyterlab-diff"]
+	url = https://github.com/conda-forge/jupyterlab-diff-feedstock.git
+	path = feedstocks/jupyterlab-diff
+	branch = refs/heads/main
