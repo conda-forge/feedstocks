@@ -107450,3 +107450,7 @@
 	url = https://github.com/conda-forge/panel-splitjs-feedstock.git
 	path = feedstocks/panel-splitjs
 	branch = refs/heads/main
+[submodule "mhr"]
+	url = https://github.com/conda-forge/mhr-feedstock.git
+	path = feedstocks/mhr
+	branch = refs/heads/main
