@@ -107414,3 +107414,7 @@
 	url = https://github.com/conda-forge/pydocket-feedstock.git
 	path = feedstocks/pydocket
 	branch = refs/heads/main
+[submodule "happymath"]
+	url = https://github.com/conda-forge/happymath-feedstock.git
+	path = feedstocks/happymath
+	branch = refs/heads/main
