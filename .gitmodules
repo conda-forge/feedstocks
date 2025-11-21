@@ -107466,3 +107466,7 @@
 	url = https://github.com/conda-forge/asciinema-agg-feedstock.git
 	path = feedstocks/asciinema-agg
 	branch = refs/heads/main
+[submodule "kagglesdk"]
+	url = https://github.com/conda-forge/kagglesdk-feedstock.git
+	path = feedstocks/kagglesdk
+	branch = refs/heads/main
