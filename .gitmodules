@@ -107458,3 +107458,7 @@
 	url = https://github.com/conda-forge/sardana-linkam-feedstock.git
 	path = feedstocks/sardana-linkam
 	branch = refs/heads/main
+[submodule "geff-spec"]
+	url = https://github.com/conda-forge/geff-spec-feedstock.git
+	path = feedstocks/geff-spec
+	branch = refs/heads/main
