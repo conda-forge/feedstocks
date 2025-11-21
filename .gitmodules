@@ -107462,3 +107462,7 @@
 	url = https://github.com/conda-forge/geff-spec-feedstock.git
 	path = feedstocks/geff-spec
 	branch = refs/heads/main
+[submodule "asciinema-agg"]
+	url = https://github.com/conda-forge/asciinema-agg-feedstock.git
+	path = feedstocks/asciinema-agg
+	branch = refs/heads/main
