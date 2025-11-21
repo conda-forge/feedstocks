@@ -107454,3 +107454,7 @@
 	url = https://github.com/conda-forge/mhr-feedstock.git
 	path = feedstocks/mhr
 	branch = refs/heads/main
+[submodule "sardana-linkam"]
+	url = https://github.com/conda-forge/sardana-linkam-feedstock.git
+	path = feedstocks/sardana-linkam
+	branch = refs/heads/main
