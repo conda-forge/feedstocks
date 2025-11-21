@@ -107470,3 +107470,7 @@
 	url = https://github.com/conda-forge/kagglesdk-feedstock.git
 	path = feedstocks/kagglesdk
 	branch = refs/heads/main
+[submodule "ophyd-async"]
+	url = https://github.com/conda-forge/ophyd-async-feedstock.git
+	path = feedstocks/ophyd-async
+	branch = refs/heads/main
