@@ -107474,3 +107474,7 @@
 	url = https://github.com/conda-forge/ophyd-async-feedstock.git
 	path = feedstocks/ophyd-async
 	branch = refs/heads/main
+[submodule "sqlfluff-lsp"]
+	url = https://github.com/conda-forge/sqlfluff-lsp-feedstock.git
+	path = feedstocks/sqlfluff-lsp
+	branch = refs/heads/main
