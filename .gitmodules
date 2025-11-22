@@ -107486,3 +107486,7 @@
 	url = https://github.com/conda-forge/mdspan-feedstock.git
 	path = feedstocks/mdspan
 	branch = refs/heads/main
+[submodule "portablexdr"]
+	url = https://github.com/conda-forge/portablexdr-feedstock.git
+	path = feedstocks/portablexdr
+	branch = refs/heads/main
