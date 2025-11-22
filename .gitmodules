@@ -107494,3 +107494,7 @@
 	url = https://github.com/conda-forge/uda-feedstock.git
 	path = feedstocks/uda
 	branch = refs/heads/main
+[submodule "codebook-lsp"]
+	url = https://github.com/conda-forge/codebook-lsp-feedstock.git
+	path = feedstocks/codebook-lsp
+	branch = refs/heads/main
