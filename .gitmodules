@@ -107490,3 +107490,7 @@
 	url = https://github.com/conda-forge/portablexdr-feedstock.git
 	path = feedstocks/portablexdr
 	branch = refs/heads/main
+[submodule "uda"]
+	url = https://github.com/conda-forge/uda-feedstock.git
+	path = feedstocks/uda
+	branch = refs/heads/main
