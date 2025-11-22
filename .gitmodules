@@ -107478,3 +107478,7 @@
 	url = https://github.com/conda-forge/sqlfluff-lsp-feedstock.git
 	path = feedstocks/sqlfluff-lsp
 	branch = refs/heads/main
+[submodule "prefect_redis"]
+	url = https://github.com/conda-forge/prefect_redis-feedstock.git
+	path = feedstocks/prefect_redis
+	branch = refs/heads/main
