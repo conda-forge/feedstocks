@@ -107502,3 +107502,7 @@
 	url = https://github.com/conda-forge/bxdecay0-feedstock.git
 	path = feedstocks/bxdecay0
 	branch = refs/heads/main
+[submodule "vibehdf5"]
+	url = https://github.com/conda-forge/vibehdf5-feedstock.git
+	path = feedstocks/vibehdf5
+	branch = refs/heads/main
