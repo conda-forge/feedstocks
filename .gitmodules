@@ -107510,3 +107510,7 @@
 	url = https://github.com/conda-forge/p4est-feedstock.git
 	path = feedstocks/p4est
 	branch = refs/heads/main
+[submodule "libsc"]
+	url = https://github.com/conda-forge/libsc-feedstock.git
+	path = feedstocks/libsc
+	branch = refs/heads/main
