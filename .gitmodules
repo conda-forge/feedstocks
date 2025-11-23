@@ -107506,3 +107506,7 @@
 	url = https://github.com/conda-forge/vibehdf5-feedstock.git
 	path = feedstocks/vibehdf5
 	branch = refs/heads/main
+[submodule "p4est"]
+	url = https://github.com/conda-forge/p4est-feedstock.git
+	path = feedstocks/p4est
+	branch = refs/heads/main
