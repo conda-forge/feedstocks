@@ -107546,3 +107546,7 @@
 	url = https://github.com/conda-forge/fastapi_msal-feedstock.git
 	path = feedstocks/fastapi_msal
 	branch = refs/heads/main
+[submodule "ai4s-jobq"]
+	url = https://github.com/conda-forge/ai4s-jobq-feedstock.git
+	path = feedstocks/ai4s-jobq
+	branch = refs/heads/main
