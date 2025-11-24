@@ -107598,3 +107598,7 @@
 	url = https://github.com/conda-forge/pandarm-feedstock.git
 	path = feedstocks/pandarm
 	branch = refs/heads/main
+[submodule "geff"]
+	url = https://github.com/conda-forge/geff-feedstock.git
+	path = feedstocks/geff
+	branch = refs/heads/main
