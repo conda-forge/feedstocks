@@ -107550,3 +107550,7 @@
 	url = https://github.com/conda-forge/ai4s-jobq-feedstock.git
 	path = feedstocks/ai4s-jobq
 	branch = refs/heads/main
+[submodule "polylith-cli"]
+	url = https://github.com/conda-forge/polylith-cli-feedstock.git
+	path = feedstocks/polylith-cli
+	branch = refs/heads/main
