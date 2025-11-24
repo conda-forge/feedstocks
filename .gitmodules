@@ -107558,3 +107558,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-agno-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-agno
 	branch = refs/heads/main
+[submodule "poliscipy"]
+	url = https://github.com/conda-forge/poliscipy-feedstock.git
+	path = feedstocks/poliscipy
+	branch = refs/heads/main
