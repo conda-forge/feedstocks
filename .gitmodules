@@ -107542,3 +107542,7 @@
 	url = https://github.com/conda-forge/elasticipy-feedstock.git
 	path = feedstocks/elasticipy
 	branch = refs/heads/main
+[submodule "fastapi_msal"]
+	url = https://github.com/conda-forge/fastapi_msal-feedstock.git
+	path = feedstocks/fastapi_msal
+	branch = refs/heads/main
