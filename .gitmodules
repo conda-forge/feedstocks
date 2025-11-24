@@ -107554,3 +107554,7 @@
 	url = https://github.com/conda-forge/polylith-cli-feedstock.git
 	path = feedstocks/polylith-cli
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-agno"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-agno-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-agno
+	branch = refs/heads/main
