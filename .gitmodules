@@ -107566,3 +107566,7 @@
 	url = https://github.com/conda-forge/mettoolbox-feedstock.git
 	path = feedstocks/mettoolbox
 	branch = refs/heads/main
+[submodule "freeze-core"]
+	url = https://github.com/conda-forge/freeze-core-feedstock.git
+	path = feedstocks/freeze-core
+	branch = refs/heads/main
