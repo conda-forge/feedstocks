@@ -107526,3 +107526,7 @@
 	url = https://github.com/conda-forge/fastshermanmorrison-pulsar-feedstock.git
 	path = feedstocks/fastshermanmorrison-pulsar
 	branch = refs/heads/main
+[submodule "jinja-super-macros"]
+	url = https://github.com/conda-forge/jinja-super-macros-feedstock.git
+	path = feedstocks/jinja-super-macros
+	branch = refs/heads/main
