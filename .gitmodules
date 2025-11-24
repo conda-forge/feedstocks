@@ -107530,3 +107530,7 @@
 	url = https://github.com/conda-forge/jinja-super-macros-feedstock.git
 	path = feedstocks/jinja-super-macros
 	branch = refs/heads/main
+[submodule "jinja-wtforms"]
+	url = https://github.com/conda-forge/jinja-wtforms-feedstock.git
+	path = feedstocks/jinja-wtforms
+	branch = refs/heads/main
