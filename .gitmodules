@@ -107582,3 +107582,7 @@
 	url = https://github.com/conda-forge/acp-mcp-server-feedstock.git
 	path = feedstocks/acp-mcp-server
 	branch = refs/heads/main
+[submodule "comlrl"]
+	url = https://github.com/conda-forge/comlrl-feedstock.git
+	path = feedstocks/comlrl
+	branch = refs/heads/main
