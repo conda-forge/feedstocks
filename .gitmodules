@@ -107518,3 +107518,7 @@
 	url = https://github.com/conda-forge/qpad-feedstock.git
 	path = feedstocks/qpad
 	branch = refs/heads/main
+[submodule "cherab-imas"]
+	url = https://github.com/conda-forge/cherab-imas-feedstock.git
+	path = feedstocks/cherab-imas
+	branch = refs/heads/main
