@@ -107594,3 +107594,7 @@
 	url = https://github.com/conda-forge/ironcub-models-feedstock.git
 	path = feedstocks/ironcub-models
 	branch = refs/heads/main
+[submodule "pandarm"]
+	url = https://github.com/conda-forge/pandarm-feedstock.git
+	path = feedstocks/pandarm
+	branch = refs/heads/main
