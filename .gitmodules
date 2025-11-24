@@ -107574,3 +107574,7 @@
 	url = https://github.com/conda-forge/llms-py-feedstock.git
 	path = feedstocks/llms-py
 	branch = refs/heads/main
+[submodule "pocker-tui"]
+	url = https://github.com/conda-forge/pocker-tui-feedstock.git
+	path = feedstocks/pocker-tui
+	branch = refs/heads/main
