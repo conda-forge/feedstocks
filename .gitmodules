@@ -107578,3 +107578,7 @@
 	url = https://github.com/conda-forge/pocker-tui-feedstock.git
 	path = feedstocks/pocker-tui
 	branch = refs/heads/main
+[submodule "acp-mcp-server"]
+	url = https://github.com/conda-forge/acp-mcp-server-feedstock.git
+	path = feedstocks/acp-mcp-server
+	branch = refs/heads/main
