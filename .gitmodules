@@ -107538,3 +107538,7 @@
 	url = https://github.com/conda-forge/netron-feedstock.git
 	path = feedstocks/netron
 	branch = refs/heads/main
+[submodule "elasticipy"]
+	url = https://github.com/conda-forge/elasticipy-feedstock.git
+	path = feedstocks/elasticipy
+	branch = refs/heads/main
