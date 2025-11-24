@@ -107514,3 +107514,7 @@
 	url = https://github.com/conda-forge/libsc-feedstock.git
 	path = feedstocks/libsc
 	branch = refs/heads/main
+[submodule "qpad"]
+	url = https://github.com/conda-forge/qpad-feedstock.git
+	path = feedstocks/qpad
+	branch = refs/heads/main
