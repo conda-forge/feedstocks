@@ -107570,3 +107570,7 @@
 	url = https://github.com/conda-forge/freeze-core-feedstock.git
 	path = feedstocks/freeze-core
 	branch = refs/heads/main
+[submodule "llms-py"]
+	url = https://github.com/conda-forge/llms-py-feedstock.git
+	path = feedstocks/llms-py
+	branch = refs/heads/main
