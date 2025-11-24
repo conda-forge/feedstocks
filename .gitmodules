@@ -107562,3 +107562,7 @@
 	url = https://github.com/conda-forge/poliscipy-feedstock.git
 	path = feedstocks/poliscipy
 	branch = refs/heads/main
+[submodule "mettoolbox"]
+	url = https://github.com/conda-forge/mettoolbox-feedstock.git
+	path = feedstocks/mettoolbox
+	branch = refs/heads/main
