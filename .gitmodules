@@ -107586,3 +107586,7 @@
 	url = https://github.com/conda-forge/comlrl-feedstock.git
 	path = feedstocks/comlrl
 	branch = refs/heads/main
+[submodule "adjfind"]
+	url = https://github.com/conda-forge/adjfind-feedstock.git
+	path = feedstocks/adjfind
+	branch = refs/heads/main
