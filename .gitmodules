@@ -107590,3 +107590,7 @@
 	url = https://github.com/conda-forge/adjfind-feedstock.git
 	path = feedstocks/adjfind
 	branch = refs/heads/main
+[submodule "ironcub-models"]
+	url = https://github.com/conda-forge/ironcub-models-feedstock.git
+	path = feedstocks/ironcub-models
+	branch = refs/heads/main
