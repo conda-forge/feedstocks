@@ -107522,3 +107522,7 @@
 	url = https://github.com/conda-forge/cherab-imas-feedstock.git
 	path = feedstocks/cherab-imas
 	branch = refs/heads/main
+[submodule "fastshermanmorrison-pulsar"]
+	url = https://github.com/conda-forge/fastshermanmorrison-pulsar-feedstock.git
+	path = feedstocks/fastshermanmorrison-pulsar
+	branch = refs/heads/main
