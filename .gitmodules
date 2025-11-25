@@ -107642,3 +107642,7 @@
 	url = https://github.com/conda-forge/toy_api-feedstock.git
 	path = feedstocks/toy_api
 	branch = refs/heads/main
+[submodule "api_dock"]
+	url = https://github.com/conda-forge/api_dock-feedstock.git
+	path = feedstocks/api_dock
+	branch = refs/heads/main
