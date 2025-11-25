@@ -107638,3 +107638,7 @@
 	url = https://github.com/conda-forge/python-msilib-feedstock.git
 	path = feedstocks/python-msilib
 	branch = refs/heads/main
+[submodule "toy_api"]
+	url = https://github.com/conda-forge/toy_api-feedstock.git
+	path = feedstocks/toy_api
+	branch = refs/heads/main
