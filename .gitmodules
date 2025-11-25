@@ -107634,3 +107634,7 @@
 	url = https://github.com/conda-forge/bioio-ome-tiff-feedstock.git
 	path = feedstocks/bioio-ome-tiff
 	branch = refs/heads/main
+[submodule "python-msilib"]
+	url = https://github.com/conda-forge/python-msilib-feedstock.git
+	path = feedstocks/python-msilib
+	branch = refs/heads/main
