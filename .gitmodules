@@ -107622,3 +107622,7 @@
 	url = https://github.com/conda-forge/pyfstab-feedstock.git
 	path = feedstocks/pyfstab
 	branch = refs/heads/main
+[submodule "causal-testing-framework"]
+	url = https://github.com/conda-forge/causal-testing-framework-feedstock.git
+	path = feedstocks/causal-testing-framework
+	branch = refs/heads/main
