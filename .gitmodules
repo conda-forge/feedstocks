@@ -107630,3 +107630,7 @@
 	url = https://github.com/conda-forge/mammos-units-feedstock.git
 	path = feedstocks/mammos-units
 	branch = refs/heads/main
+[submodule "bioio-ome-tiff"]
+	url = https://github.com/conda-forge/bioio-ome-tiff-feedstock.git
+	path = feedstocks/bioio-ome-tiff
+	branch = refs/heads/main
