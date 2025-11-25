@@ -107626,3 +107626,7 @@
 	url = https://github.com/conda-forge/causal-testing-framework-feedstock.git
 	path = feedstocks/causal-testing-framework
 	branch = refs/heads/main
+[submodule "mammos-units"]
+	url = https://github.com/conda-forge/mammos-units-feedstock.git
+	path = feedstocks/mammos-units
+	branch = refs/heads/main
