@@ -107618,3 +107618,7 @@
 	url = https://github.com/conda-forge/r-casimir-feedstock.git
 	path = feedstocks/r-casimir
 	branch = refs/heads/main
+[submodule "pyfstab"]
+	url = https://github.com/conda-forge/pyfstab-feedstock.git
+	path = feedstocks/pyfstab
+	branch = refs/heads/main
