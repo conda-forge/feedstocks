@@ -107606,3 +107606,7 @@
 	url = https://github.com/conda-forge/zxing-cpp-feedstock.git
 	path = feedstocks/zxing-cpp
 	branch = refs/heads/main
+[submodule "mini-racer"]
+	url = https://github.com/conda-forge/mini-racer-feedstock.git
+	path = feedstocks/mini-racer
+	branch = refs/heads/main
