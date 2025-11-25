@@ -107650,3 +107650,7 @@
 	url = https://github.com/conda-forge/xlsxdatagrid-feedstock.git
 	path = feedstocks/xlsxdatagrid
 	branch = refs/heads/main
+[submodule "ws3"]
+	url = https://github.com/conda-forge/ws3-feedstock.git
+	path = feedstocks/ws3
+	branch = refs/heads/main
