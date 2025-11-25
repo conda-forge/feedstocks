@@ -107610,3 +107610,7 @@
 	url = https://github.com/conda-forge/mini-racer-feedstock.git
 	path = feedstocks/mini-racer
 	branch = refs/heads/main
+[submodule "ansys-api-discovery"]
+	url = https://github.com/conda-forge/ansys-api-discovery-feedstock.git
+	path = feedstocks/ansys-api-discovery
+	branch = refs/heads/main
