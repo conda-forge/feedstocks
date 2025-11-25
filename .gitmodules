@@ -107614,3 +107614,7 @@
 	url = https://github.com/conda-forge/ansys-api-discovery-feedstock.git
 	path = feedstocks/ansys-api-discovery
 	branch = refs/heads/main
+[submodule "r-casimir"]
+	url = https://github.com/conda-forge/r-casimir-feedstock.git
+	path = feedstocks/r-casimir
+	branch = refs/heads/main
