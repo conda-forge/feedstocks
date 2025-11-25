@@ -107658,3 +107658,7 @@
 	url = https://github.com/conda-forge/fastmdanalysis-feedstock.git
 	path = feedstocks/fastmdanalysis
 	branch = refs/heads/main
+[submodule "dectris-compression"]
+	url = https://github.com/conda-forge/dectris-compression-feedstock.git
+	path = feedstocks/dectris-compression
+	branch = refs/heads/main
