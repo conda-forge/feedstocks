@@ -107670,3 +107670,7 @@
 	url = https://github.com/conda-forge/perplexityai-feedstock.git
 	path = feedstocks/perplexityai
 	branch = refs/heads/main
+[submodule "sardana-pmac"]
+	url = https://github.com/conda-forge/sardana-pmac-feedstock.git
+	path = feedstocks/sardana-pmac
+	branch = refs/heads/main
