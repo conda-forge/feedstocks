@@ -107686,3 +107686,7 @@
 	url = https://github.com/conda-forge/nbdotrun-feedstock.git
 	path = feedstocks/nbdotrun
 	branch = refs/heads/main
+[submodule "cmip7-repack"]
+	url = https://github.com/conda-forge/cmip7-repack-feedstock.git
+	path = feedstocks/cmip7-repack
+	branch = refs/heads/main
