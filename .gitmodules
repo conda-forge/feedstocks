@@ -107682,3 +107682,7 @@
 	url = https://github.com/conda-forge/ansys-tools-common-feedstock.git
 	path = feedstocks/ansys-tools-common
 	branch = refs/heads/main
+[submodule "nbdotrun"]
+	url = https://github.com/conda-forge/nbdotrun-feedstock.git
+	path = feedstocks/nbdotrun
+	branch = refs/heads/main
