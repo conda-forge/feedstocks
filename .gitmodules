@@ -107674,3 +107674,7 @@
 	url = https://github.com/conda-forge/sardana-pmac-feedstock.git
 	path = feedstocks/sardana-pmac
 	branch = refs/heads/main
+[submodule "mitmproxy-rs"]
+	url = https://github.com/conda-forge/mitmproxy-rs-feedstock.git
+	path = feedstocks/mitmproxy-rs
+	branch = refs/heads/main
