@@ -107694,3 +107694,7 @@
 	url = https://github.com/conda-forge/emmontopy-feedstock.git
 	path = feedstocks/emmontopy
 	branch = refs/heads/main
+[submodule "wxdata"]
+	url = https://github.com/conda-forge/wxdata-feedstock.git
+	path = feedstocks/wxdata
+	branch = refs/heads/main
