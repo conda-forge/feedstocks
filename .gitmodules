@@ -107702,3 +107702,7 @@
 	url = https://github.com/conda-forge/sofa-feedstock.git
 	path = feedstocks/sofa
 	branch = refs/heads/main
+[submodule "gtk4-layer-shell"]
+	url = https://github.com/conda-forge/gtk4-layer-shell-feedstock.git
+	path = feedstocks/gtk4-layer-shell
+	branch = refs/heads/main
