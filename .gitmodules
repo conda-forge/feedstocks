@@ -107698,3 +107698,7 @@
 	url = https://github.com/conda-forge/wxdata-feedstock.git
 	path = feedstocks/wxdata
 	branch = refs/heads/main
+[submodule "sofa"]
+	url = https://github.com/conda-forge/sofa-feedstock.git
+	path = feedstocks/sofa
+	branch = refs/heads/main
