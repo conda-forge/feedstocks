@@ -107722,3 +107722,7 @@
 	url = https://github.com/conda-forge/kisiac-feedstock.git
 	path = feedstocks/kisiac
 	branch = refs/heads/main
+[submodule "python-librt"]
+	url = https://github.com/conda-forge/python-librt-feedstock.git
+	path = feedstocks/python-librt
+	branch = refs/heads/main
