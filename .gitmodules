@@ -107718,3 +107718,7 @@
 	url = https://github.com/conda-forge/smartg-feedstock.git
 	path = feedstocks/smartg
 	branch = refs/heads/main
+[submodule "kisiac"]
+	url = https://github.com/conda-forge/kisiac-feedstock.git
+	path = feedstocks/kisiac
+	branch = refs/heads/main
