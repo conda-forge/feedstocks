@@ -107710,3 +107710,7 @@
 	url = https://github.com/conda-forge/mammos-entity-feedstock.git
 	path = feedstocks/mammos-entity
 	branch = refs/heads/main
+[submodule "mdformat-front-matters"]
+	url = https://github.com/conda-forge/mdformat-front-matters-feedstock.git
+	path = feedstocks/mdformat-front-matters
+	branch = refs/heads/main
