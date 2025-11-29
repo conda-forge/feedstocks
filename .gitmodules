@@ -107726,3 +107726,7 @@
 	url = https://github.com/conda-forge/python-librt-feedstock.git
 	path = feedstocks/python-librt
 	branch = refs/heads/main
+[submodule "uppasd"]
+	url = https://github.com/conda-forge/uppasd-feedstock.git
+	path = feedstocks/uppasd
+	branch = refs/heads/main
