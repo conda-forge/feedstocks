@@ -107738,3 +107738,7 @@
 	url = https://github.com/conda-forge/torch-geometric-signed-directed-feedstock.git
 	path = feedstocks/torch-geometric-signed-directed
 	branch = refs/heads/main
+[submodule "wradlib_data"]
+	url = https://github.com/conda-forge/wradlib_data-feedstock.git
+	path = feedstocks/wradlib_data
+	branch = refs/heads/main
