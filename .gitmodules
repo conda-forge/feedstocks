@@ -107742,3 +107742,7 @@
 	url = https://github.com/conda-forge/wradlib_data-feedstock.git
 	path = feedstocks/wradlib_data
 	branch = refs/heads/main
+[submodule "sam3"]
+	url = https://github.com/conda-forge/sam3-feedstock.git
+	path = feedstocks/sam3
+	branch = refs/heads/main
