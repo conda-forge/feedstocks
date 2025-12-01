@@ -107734,3 +107734,7 @@
 	url = https://github.com/conda-forge/jupyterpack-feedstock.git
 	path = feedstocks/jupyterpack
 	branch = refs/heads/main
+[submodule "torch-geometric-signed-directed"]
+	url = https://github.com/conda-forge/torch-geometric-signed-directed-feedstock.git
+	path = feedstocks/torch-geometric-signed-directed
+	branch = refs/heads/main
