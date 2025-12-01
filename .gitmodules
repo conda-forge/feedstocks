@@ -107730,3 +107730,7 @@
 	url = https://github.com/conda-forge/uppasd-feedstock.git
 	path = feedstocks/uppasd
 	branch = refs/heads/main
+[submodule "jupyterpack"]
+	url = https://github.com/conda-forge/jupyterpack-feedstock.git
+	path = feedstocks/jupyterpack
+	branch = refs/heads/main
