@@ -107770,3 +107770,7 @@
 	url = https://github.com/conda-forge/inotify-feedstock.git
 	path = feedstocks/inotify
 	branch = refs/heads/main
+[submodule "pyvisgrid"]
+	url = https://github.com/conda-forge/pyvisgrid-feedstock.git
+	path = feedstocks/pyvisgrid
+	branch = refs/heads/main
