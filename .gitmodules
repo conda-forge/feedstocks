@@ -107746,3 +107746,7 @@
 	url = https://github.com/conda-forge/sam3-feedstock.git
 	path = feedstocks/sam3
 	branch = refs/heads/main
+[submodule "sqlorm-py"]
+	url = https://github.com/conda-forge/sqlorm-py-feedstock.git
+	path = feedstocks/sqlorm-py
+	branch = refs/heads/main
