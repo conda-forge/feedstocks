@@ -107758,3 +107758,7 @@
 	url = https://github.com/conda-forge/solarfactors-feedstock.git
 	path = feedstocks/solarfactors
 	branch = refs/heads/main
+[submodule "oceanval"]
+	url = https://github.com/conda-forge/oceanval-feedstock.git
+	path = feedstocks/oceanval
+	branch = refs/heads/main
