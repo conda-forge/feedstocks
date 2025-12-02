@@ -107750,3 +107750,7 @@
 	url = https://github.com/conda-forge/sqlorm-py-feedstock.git
 	path = feedstocks/sqlorm-py
 	branch = refs/heads/main
+[submodule "mammos-dft"]
+	url = https://github.com/conda-forge/mammos-dft-feedstock.git
+	path = feedstocks/mammos-dft
+	branch = refs/heads/main
