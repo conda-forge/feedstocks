@@ -107766,3 +107766,7 @@
 	url = https://github.com/conda-forge/smmregrid-feedstock.git
 	path = feedstocks/smmregrid
 	branch = refs/heads/main
+[submodule "inotify"]
+	url = https://github.com/conda-forge/inotify-feedstock.git
+	path = feedstocks/inotify
+	branch = refs/heads/main
