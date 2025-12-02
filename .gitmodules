@@ -107754,3 +107754,7 @@
 	url = https://github.com/conda-forge/mammos-dft-feedstock.git
 	path = feedstocks/mammos-dft
 	branch = refs/heads/main
+[submodule "solarfactors"]
+	url = https://github.com/conda-forge/solarfactors-feedstock.git
+	path = feedstocks/solarfactors
+	branch = refs/heads/main
