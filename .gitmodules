@@ -107786,3 +107786,7 @@
 	url = https://github.com/conda-forge/dag-factory-feedstock.git
 	path = feedstocks/dag-factory
 	branch = refs/heads/main
+[submodule "flowio"]
+	url = https://github.com/conda-forge/flowio-feedstock.git
+	path = feedstocks/flowio
+	branch = refs/heads/main
