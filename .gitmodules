@@ -107814,3 +107814,7 @@
 	url = https://github.com/conda-forge/pydynamodb-feedstock.git
 	path = feedstocks/pydynamodb
 	branch = refs/heads/main
+[submodule "tardigrade_abaqus_tools"]
+	url = https://github.com/conda-forge/tardigrade_abaqus_tools-feedstock.git
+	path = feedstocks/tardigrade_abaqus_tools
+	branch = refs/heads/main
