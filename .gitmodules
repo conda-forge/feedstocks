@@ -107798,3 +107798,7 @@
 	url = https://github.com/conda-forge/mammos-spindynamics-feedstock.git
 	path = feedstocks/mammos-spindynamics
 	branch = refs/heads/main
+[submodule "numsa"]
+	url = https://github.com/conda-forge/numsa-feedstock.git
+	path = feedstocks/numsa
+	branch = refs/heads/main
