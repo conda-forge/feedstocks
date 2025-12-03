@@ -107782,3 +107782,7 @@
 	url = https://github.com/conda-forge/revertex-feedstock.git
 	path = feedstocks/revertex
 	branch = refs/heads/main
+[submodule "dag-factory"]
+	url = https://github.com/conda-forge/dag-factory-feedstock.git
+	path = feedstocks/dag-factory
+	branch = refs/heads/main
