@@ -107806,3 +107806,7 @@
 	url = https://github.com/conda-forge/polsarpro-feedstock.git
 	path = feedstocks/polsarpro
 	branch = refs/heads/main
+[submodule "sshs"]
+	url = https://github.com/conda-forge/sshs-feedstock.git
+	path = feedstocks/sshs
+	branch = refs/heads/main
