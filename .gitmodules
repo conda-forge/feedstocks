@@ -107810,3 +107810,7 @@
 	url = https://github.com/conda-forge/sshs-feedstock.git
 	path = feedstocks/sshs
 	branch = refs/heads/main
+[submodule "pydynamodb"]
+	url = https://github.com/conda-forge/pydynamodb-feedstock.git
+	path = feedstocks/pydynamodb
+	branch = refs/heads/main
