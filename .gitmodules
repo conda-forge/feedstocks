@@ -107790,3 +107790,7 @@
 	url = https://github.com/conda-forge/flowio-feedstock.git
 	path = feedstocks/flowio
 	branch = refs/heads/main
+[submodule "mammos-analysis"]
+	url = https://github.com/conda-forge/mammos-analysis-feedstock.git
+	path = feedstocks/mammos-analysis
+	branch = refs/heads/main
