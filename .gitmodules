@@ -107822,3 +107822,7 @@
 	url = https://github.com/conda-forge/scipydepr-feedstock.git
 	path = feedstocks/scipydepr
 	branch = refs/heads/main
+[submodule "tuios"]
+	url = https://github.com/conda-forge/tuios-feedstock.git
+	path = feedstocks/tuios
+	branch = refs/heads/main
