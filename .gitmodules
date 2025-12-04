@@ -107842,3 +107842,7 @@
 	url = https://github.com/conda-forge/opensearch-protobufs-feedstock.git
 	path = feedstocks/opensearch-protobufs
 	branch = refs/heads/main
+[submodule "cuda-tileiras"]
+	url = https://github.com/conda-forge/cuda-tileiras-feedstock.git
+	path = feedstocks/cuda-tileiras
+	branch = refs/heads/main
