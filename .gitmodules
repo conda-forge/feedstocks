@@ -107838,3 +107838,7 @@
 	url = https://github.com/conda-forge/ginput-feedstock.git
 	path = feedstocks/ginput
 	branch = refs/heads/main
+[submodule "opensearch-protobufs"]
+	url = https://github.com/conda-forge/opensearch-protobufs-feedstock.git
+	path = feedstocks/opensearch-protobufs
+	branch = refs/heads/main
