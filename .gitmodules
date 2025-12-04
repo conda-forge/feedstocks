@@ -107818,3 +107818,7 @@
 	url = https://github.com/conda-forge/tardigrade_abaqus_tools-feedstock.git
 	path = feedstocks/tardigrade_abaqus_tools
 	branch = refs/heads/main
+[submodule "scipydepr"]
+	url = https://github.com/conda-forge/scipydepr-feedstock.git
+	path = feedstocks/scipydepr
+	branch = refs/heads/main
