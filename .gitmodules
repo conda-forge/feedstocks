@@ -107878,3 +107878,7 @@
 	url = https://github.com/conda-forge/pybreaker-feedstock.git
 	path = feedstocks/pybreaker
 	branch = refs/heads/main
+[submodule "ccimport"]
+	url = https://github.com/conda-forge/ccimport-feedstock.git
+	path = feedstocks/ccimport
+	branch = refs/heads/main
