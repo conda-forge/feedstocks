@@ -107874,3 +107874,7 @@
 	url = https://github.com/conda-forge/xover-feedstock.git
 	path = feedstocks/xover
 	branch = refs/heads/main
+[submodule "pybreaker"]
+	url = https://github.com/conda-forge/pybreaker-feedstock.git
+	path = feedstocks/pybreaker
+	branch = refs/heads/main
