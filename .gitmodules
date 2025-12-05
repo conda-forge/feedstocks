@@ -107846,3 +107846,7 @@
 	url = https://github.com/conda-forge/cuda-tileiras-feedstock.git
 	path = feedstocks/cuda-tileiras
 	branch = refs/heads/main
+[submodule "roounfold"]
+	url = https://github.com/conda-forge/roounfold-feedstock.git
+	path = feedstocks/roounfold
+	branch = refs/heads/main
