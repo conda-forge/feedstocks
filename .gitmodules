@@ -107850,3 +107850,7 @@
 	url = https://github.com/conda-forge/roounfold-feedstock.git
 	path = feedstocks/roounfold
 	branch = refs/heads/main
+[submodule "cargo-shear"]
+	url = https://github.com/conda-forge/cargo-shear-feedstock.git
+	path = feedstocks/cargo-shear
+	branch = refs/heads/main
