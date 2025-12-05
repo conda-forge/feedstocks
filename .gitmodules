@@ -107890,3 +107890,7 @@
 	url = https://github.com/conda-forge/markdiffusion-feedstock.git
 	path = feedstocks/markdiffusion
 	branch = refs/heads/main
+[submodule "openai-harmony"]
+	url = https://github.com/conda-forge/openai-harmony-feedstock.git
+	path = feedstocks/openai-harmony
+	branch = refs/heads/main
