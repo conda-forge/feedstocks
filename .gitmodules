@@ -107854,3 +107854,7 @@
 	url = https://github.com/conda-forge/cargo-shear-feedstock.git
 	path = feedstocks/cargo-shear
 	branch = refs/heads/main
+[submodule "pyshtransform"]
+	url = https://github.com/conda-forge/pyshtransform-feedstock.git
+	path = feedstocks/pyshtransform
+	branch = refs/heads/main
