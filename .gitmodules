@@ -107886,3 +107886,7 @@
 	url = https://github.com/conda-forge/aws-durable-execution-sdk-python-feedstock.git
 	path = feedstocks/aws-durable-execution-sdk-python
 	branch = refs/heads/main
+[submodule "markdiffusion"]
+	url = https://github.com/conda-forge/markdiffusion-feedstock.git
+	path = feedstocks/markdiffusion
+	branch = refs/heads/main
