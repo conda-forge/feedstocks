@@ -107870,3 +107870,7 @@
 	url = https://github.com/conda-forge/matplotgl-feedstock.git
 	path = feedstocks/matplotgl
 	branch = refs/heads/main
+[submodule "xover"]
+	url = https://github.com/conda-forge/xover-feedstock.git
+	path = feedstocks/xover
+	branch = refs/heads/main
