@@ -107922,3 +107922,7 @@
 	url = https://github.com/conda-forge/pygris-feedstock.git
 	path = feedstocks/pygris
 	branch = refs/heads/main
+[submodule "fastdigest"]
+	url = https://github.com/conda-forge/fastdigest-feedstock.git
+	path = feedstocks/fastdigest
+	branch = refs/heads/main
