@@ -107898,3 +107898,7 @@
 	url = https://github.com/conda-forge/yt-dlp-ejs-feedstock.git
 	path = feedstocks/yt-dlp-ejs
 	branch = refs/heads/main
+[submodule "google-cloud-documentai"]
+	url = https://github.com/conda-forge/google-cloud-documentai-feedstock.git
+	path = feedstocks/google-cloud-documentai
+	branch = refs/heads/main
