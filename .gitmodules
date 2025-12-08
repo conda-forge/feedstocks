@@ -107914,3 +107914,7 @@
 	url = https://github.com/conda-forge/bayesian-filters-feedstock.git
 	path = feedstocks/bayesian-filters
 	branch = refs/heads/main
+[submodule "pycorerelator"]
+	url = https://github.com/conda-forge/pycorerelator-feedstock.git
+	path = feedstocks/pycorerelator
+	branch = refs/heads/main
