@@ -107902,3 +107902,7 @@
 	url = https://github.com/conda-forge/google-cloud-documentai-feedstock.git
 	path = feedstocks/google-cloud-documentai
 	branch = refs/heads/main
+[submodule "pytokens"]
+	url = https://github.com/conda-forge/pytokens-feedstock.git
+	path = feedstocks/pytokens
+	branch = refs/heads/main
