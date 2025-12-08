@@ -107894,3 +107894,7 @@
 	url = https://github.com/conda-forge/openai-harmony-feedstock.git
 	path = feedstocks/openai-harmony
 	branch = refs/heads/main
+[submodule "yt-dlp-ejs"]
+	url = https://github.com/conda-forge/yt-dlp-ejs-feedstock.git
+	path = feedstocks/yt-dlp-ejs
+	branch = refs/heads/main
