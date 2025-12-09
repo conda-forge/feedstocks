@@ -107930,3 +107930,7 @@
 	url = https://github.com/conda-forge/georaffer-feedstock.git
 	path = feedstocks/georaffer
 	branch = refs/heads/main
+[submodule "ros-infra-variants"]
+	url = https://github.com/conda-forge/ros-infra-variants-feedstock.git
+	path = feedstocks/ros-infra-variants
+	branch = refs/heads/main
