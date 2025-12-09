@@ -107934,3 +107934,7 @@
 	url = https://github.com/conda-forge/ros-infra-variants-feedstock.git
 	path = feedstocks/ros-infra-variants
 	branch = refs/heads/main
+[submodule "momentchi2"]
+	url = https://github.com/conda-forge/momentchi2-feedstock.git
+	path = feedstocks/momentchi2
+	branch = refs/heads/main
