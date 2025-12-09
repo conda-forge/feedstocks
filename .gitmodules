@@ -107942,3 +107942,7 @@
 	url = https://github.com/conda-forge/markdown-exec-feedstock.git
 	path = feedstocks/markdown-exec
 	branch = refs/heads/main
+[submodule "pixi-assistant"]
+	url = https://github.com/conda-forge/pixi-assistant-feedstock.git
+	path = feedstocks/pixi-assistant
+	branch = refs/heads/main
