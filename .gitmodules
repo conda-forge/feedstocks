@@ -107966,3 +107966,7 @@
 	url = https://github.com/conda-forge/radioft-feedstock.git
 	path = feedstocks/radioft
 	branch = refs/heads/main
+[submodule "cuik-molmaker"]
+	url = https://github.com/conda-forge/cuik-molmaker-feedstock.git
+	path = feedstocks/cuik-molmaker
+	branch = refs/heads/main
