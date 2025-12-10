@@ -107958,3 +107958,7 @@
 	url = https://github.com/conda-forge/fio-feedstock.git
 	path = feedstocks/fio
 	branch = refs/heads/main
+[submodule "upterm"]
+	url = https://github.com/conda-forge/upterm-feedstock.git
+	path = feedstocks/upterm
+	branch = refs/heads/main
