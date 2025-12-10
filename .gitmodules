@@ -107950,3 +107950,7 @@
 	url = https://github.com/conda-forge/folx-feedstock.git
 	path = feedstocks/folx
 	branch = refs/heads/main
+[submodule "dagster-async-executor"]
+	url = https://github.com/conda-forge/dagster-async-executor-feedstock.git
+	path = feedstocks/dagster-async-executor
+	branch = refs/heads/main
