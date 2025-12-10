@@ -107954,3 +107954,7 @@
 	url = https://github.com/conda-forge/dagster-async-executor-feedstock.git
 	path = feedstocks/dagster-async-executor
 	branch = refs/heads/main
+[submodule "fio"]
+	url = https://github.com/conda-forge/fio-feedstock.git
+	path = feedstocks/fio
+	branch = refs/heads/main
