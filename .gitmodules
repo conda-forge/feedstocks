@@ -107982,3 +107982,7 @@
 	url = https://github.com/conda-forge/pymatgen-analysis-alloys-feedstock.git
 	path = feedstocks/pymatgen-analysis-alloys
 	branch = refs/heads/main
+[submodule "latform"]
+	url = https://github.com/conda-forge/latform-feedstock.git
+	path = feedstocks/latform
+	branch = refs/heads/main
