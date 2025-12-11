@@ -107986,3 +107986,7 @@
 	url = https://github.com/conda-forge/latform-feedstock.git
 	path = feedstocks/latform
 	branch = refs/heads/main
+[submodule "flamegraph-pl"]
+	url = https://github.com/conda-forge/flamegraph-pl-feedstock.git
+	path = feedstocks/flamegraph-pl
+	branch = refs/heads/main
