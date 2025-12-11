@@ -107978,3 +107978,7 @@
 	url = https://github.com/conda-forge/asgi-logger-feedstock.git
 	path = feedstocks/asgi-logger
 	branch = refs/heads/main
+[submodule "pymatgen-analysis-alloys"]
+	url = https://github.com/conda-forge/pymatgen-analysis-alloys-feedstock.git
+	path = feedstocks/pymatgen-analysis-alloys
+	branch = refs/heads/main
