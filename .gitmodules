@@ -107974,3 +107974,7 @@
 	url = https://github.com/conda-forge/r-mcprogress-feedstock.git
 	path = feedstocks/r-mcprogress
 	branch = refs/heads/main
+[submodule "asgi-logger"]
+	url = https://github.com/conda-forge/asgi-logger-feedstock.git
+	path = feedstocks/asgi-logger
+	branch = refs/heads/main
