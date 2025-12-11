@@ -107970,3 +107970,7 @@
 	url = https://github.com/conda-forge/cuik-molmaker-feedstock.git
 	path = feedstocks/cuik-molmaker
 	branch = refs/heads/main
+[submodule "r-mcprogress"]
+	url = https://github.com/conda-forge/r-mcprogress-feedstock.git
+	path = feedstocks/r-mcprogress
+	branch = refs/heads/main
