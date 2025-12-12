@@ -107990,3 +107990,7 @@
 	url = https://github.com/conda-forge/flamegraph-pl-feedstock.git
 	path = feedstocks/flamegraph-pl
 	branch = refs/heads/main
+[submodule "exifreader"]
+	url = https://github.com/conda-forge/exifreader-feedstock.git
+	path = feedstocks/exifreader
+	branch = refs/heads/main
