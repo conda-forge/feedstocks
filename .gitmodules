@@ -108014,3 +108014,7 @@
 	url = https://github.com/conda-forge/aiohttp-asgi-connector-feedstock.git
 	path = feedstocks/aiohttp-asgi-connector
 	branch = refs/heads/main
+[submodule "kmeans1d"]
+	url = https://github.com/conda-forge/kmeans1d-feedstock.git
+	path = feedstocks/kmeans1d
+	branch = refs/heads/main
