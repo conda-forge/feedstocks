@@ -108010,3 +108010,7 @@
 	url = https://github.com/conda-forge/python-code-minimap-feedstock.git
 	path = feedstocks/python-code-minimap
 	branch = refs/heads/main
+[submodule "aiohttp-asgi-connector"]
+	url = https://github.com/conda-forge/aiohttp-asgi-connector-feedstock.git
+	path = feedstocks/aiohttp-asgi-connector
+	branch = refs/heads/main
