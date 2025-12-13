@@ -108002,3 +108002,7 @@
 	url = https://github.com/conda-forge/rhealpixdggs-feedstock.git
 	path = feedstocks/rhealpixdggs
 	branch = refs/heads/main
+[submodule "yggdrasil-rapidjson"]
+	url = https://github.com/conda-forge/yggdrasil-rapidjson-feedstock.git
+	path = feedstocks/yggdrasil-rapidjson
+	branch = refs/heads/main
