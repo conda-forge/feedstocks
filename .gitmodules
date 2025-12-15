@@ -108026,3 +108026,7 @@
 	url = https://github.com/conda-forge/jq.py-feedstock.git
 	path = feedstocks/jq.py
 	branch = refs/heads/main
+[submodule "arbalister"]
+	url = https://github.com/conda-forge/arbalister-feedstock.git
+	path = feedstocks/arbalister
+	branch = refs/heads/main
