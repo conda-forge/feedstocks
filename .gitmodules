@@ -108042,3 +108042,7 @@
 	url = https://github.com/conda-forge/dsf-feedstock.git
 	path = feedstocks/dsf
 	branch = refs/heads/main
+[submodule "coreos-installer"]
+	url = https://github.com/conda-forge/coreos-installer-feedstock.git
+	path = feedstocks/coreos-installer
+	branch = refs/heads/main
