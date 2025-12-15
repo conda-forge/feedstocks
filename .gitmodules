@@ -108046,3 +108046,7 @@
 	url = https://github.com/conda-forge/coreos-installer-feedstock.git
 	path = feedstocks/coreos-installer
 	branch = refs/heads/main
+[submodule "laura"]
+	url = https://github.com/conda-forge/laura-feedstock.git
+	path = feedstocks/laura
+	branch = refs/heads/main
