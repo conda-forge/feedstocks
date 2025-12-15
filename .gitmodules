@@ -108030,3 +108030,7 @@
 	url = https://github.com/conda-forge/arbalister-feedstock.git
 	path = feedstocks/arbalister
 	branch = refs/heads/main
+[submodule "smoothify"]
+	url = https://github.com/conda-forge/smoothify-feedstock.git
+	path = feedstocks/smoothify
+	branch = refs/heads/main
