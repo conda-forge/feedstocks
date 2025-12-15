@@ -108022,3 +108022,7 @@
 	url = https://github.com/conda-forge/at-cascade-feedstock.git
 	path = feedstocks/at-cascade
 	branch = refs/heads/main
+[submodule "jq.py"]
+	url = https://github.com/conda-forge/jq.py-feedstock.git
+	path = feedstocks/jq.py
+	branch = refs/heads/main
