@@ -108038,3 +108038,7 @@
 	url = https://github.com/conda-forge/pyecma376-2-feedstock.git
 	path = feedstocks/pyecma376-2
 	branch = refs/heads/main
+[submodule "dsf"]
+	url = https://github.com/conda-forge/dsf-feedstock.git
+	path = feedstocks/dsf
+	branch = refs/heads/main
