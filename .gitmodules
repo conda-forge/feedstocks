@@ -108066,3 +108066,7 @@
 	url = https://github.com/conda-forge/mailpit-feedstock.git
 	path = feedstocks/mailpit
 	branch = refs/heads/main
+[submodule "kulprit"]
+	url = https://github.com/conda-forge/kulprit-feedstock.git
+	path = feedstocks/kulprit
+	branch = refs/heads/main
