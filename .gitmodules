@@ -108054,3 +108054,7 @@
 	url = https://github.com/conda-forge/polykin-feedstock.git
 	path = feedstocks/polykin
 	branch = refs/heads/main
+[submodule "numbasom"]
+	url = https://github.com/conda-forge/numbasom-feedstock.git
+	path = feedstocks/numbasom
+	branch = refs/heads/main
