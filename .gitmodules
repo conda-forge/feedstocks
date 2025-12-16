@@ -108062,3 +108062,7 @@
 	url = https://github.com/conda-forge/r-dispersionindicators-feedstock.git
 	path = feedstocks/r-dispersionindicators
 	branch = refs/heads/main
+[submodule "mailpit"]
+	url = https://github.com/conda-forge/mailpit-feedstock.git
+	path = feedstocks/mailpit
+	branch = refs/heads/main
