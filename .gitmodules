@@ -108074,3 +108074,7 @@
 	url = https://github.com/conda-forge/yaozarrs-feedstock.git
 	path = feedstocks/yaozarrs
 	branch = refs/heads/main
+[submodule "mcp-ui-server"]
+	url = https://github.com/conda-forge/mcp-ui-server-feedstock.git
+	path = feedstocks/mcp-ui-server
+	branch = refs/heads/main
