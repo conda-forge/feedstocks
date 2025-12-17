@@ -108090,3 +108090,7 @@
 	url = https://github.com/conda-forge/doxmlparser-feedstock.git
 	path = feedstocks/doxmlparser
 	branch = refs/heads/main
+[submodule "tqdmnd"]
+	url = https://github.com/conda-forge/tqdmnd-feedstock.git
+	path = feedstocks/tqdmnd
+	branch = refs/heads/main
