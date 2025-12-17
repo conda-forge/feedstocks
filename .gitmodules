@@ -108082,3 +108082,7 @@
 	url = https://github.com/conda-forge/mammos-mumag-feedstock.git
 	path = feedstocks/mammos-mumag
 	branch = refs/heads/main
+[submodule "install-locked-env"]
+	url = https://github.com/conda-forge/install-locked-env-feedstock.git
+	path = feedstocks/install-locked-env
+	branch = refs/heads/main
