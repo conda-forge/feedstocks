@@ -108086,3 +108086,7 @@
 	url = https://github.com/conda-forge/install-locked-env-feedstock.git
 	path = feedstocks/install-locked-env
 	branch = refs/heads/main
+[submodule "doxmlparser"]
+	url = https://github.com/conda-forge/doxmlparser-feedstock.git
+	path = feedstocks/doxmlparser
+	branch = refs/heads/main
