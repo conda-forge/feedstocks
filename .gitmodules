@@ -108094,3 +108094,7 @@
 	url = https://github.com/conda-forge/tqdmnd-feedstock.git
 	path = feedstocks/tqdmnd
 	branch = refs/heads/main
+[submodule "docutils-stubs"]
+	url = https://github.com/conda-forge/docutils-stubs-feedstock.git
+	path = feedstocks/docutils-stubs
+	branch = refs/heads/main
