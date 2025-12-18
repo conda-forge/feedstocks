@@ -108106,3 +108106,7 @@
 	url = https://github.com/conda-forge/mammos-ai-feedstock.git
 	path = feedstocks/mammos-ai
 	branch = refs/heads/main
+[submodule "pixi-to-conda-lock"]
+	url = https://github.com/conda-forge/pixi-to-conda-lock-feedstock.git
+	path = feedstocks/pixi-to-conda-lock
+	branch = refs/heads/main
