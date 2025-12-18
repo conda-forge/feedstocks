@@ -108102,3 +108102,7 @@
 	url = https://github.com/conda-forge/pycrystal-feedstock.git
 	path = feedstocks/pycrystal
 	branch = refs/heads/main
+[submodule "mammos-ai"]
+	url = https://github.com/conda-forge/mammos-ai-feedstock.git
+	path = feedstocks/mammos-ai
+	branch = refs/heads/main
