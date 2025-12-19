@@ -108114,3 +108114,7 @@
 	url = https://github.com/conda-forge/refl1d-feedstock.git
 	path = feedstocks/refl1d
 	branch = refs/heads/main
+[submodule "iceoryx2"]
+	url = https://github.com/conda-forge/iceoryx2-feedstock.git
+	path = feedstocks/iceoryx2
+	branch = refs/heads/main
