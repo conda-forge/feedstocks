@@ -108122,3 +108122,7 @@
 	url = https://github.com/conda-forge/cprnc-feedstock.git
 	path = feedstocks/cprnc
 	branch = refs/heads/main
+[submodule "lhcb-ftcalib"]
+	url = https://github.com/conda-forge/lhcb-ftcalib-feedstock.git
+	path = feedstocks/lhcb-ftcalib
+	branch = refs/heads/main
