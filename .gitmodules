@@ -108138,3 +108138,7 @@
 	url = https://github.com/conda-forge/graphene-federation-feedstock.git
 	path = feedstocks/graphene-federation
 	branch = refs/heads/main
+[submodule "google-cloud-storage-control"]
+	url = https://github.com/conda-forge/google-cloud-storage-control-feedstock.git
+	path = feedstocks/google-cloud-storage-control
+	branch = refs/heads/main
