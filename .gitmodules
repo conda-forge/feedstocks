@@ -108118,3 +108118,7 @@
 	url = https://github.com/conda-forge/iceoryx2-feedstock.git
 	path = feedstocks/iceoryx2
 	branch = refs/heads/main
+[submodule "cprnc"]
+	url = https://github.com/conda-forge/cprnc-feedstock.git
+	path = feedstocks/cprnc
+	branch = refs/heads/main
