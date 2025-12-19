@@ -108126,3 +108126,7 @@
 	url = https://github.com/conda-forge/lhcb-ftcalib-feedstock.git
 	path = feedstocks/lhcb-ftcalib
 	branch = refs/heads/main
+[submodule "things_eeg2_dataset"]
+	url = https://github.com/conda-forge/things_eeg2_dataset-feedstock.git
+	path = feedstocks/things_eeg2_dataset
+	branch = refs/heads/main
