@@ -108134,3 +108134,7 @@
 	url = https://github.com/conda-forge/graphene-directives-feedstock.git
 	path = feedstocks/graphene-directives
 	branch = refs/heads/main
+[submodule "graphene-federation"]
+	url = https://github.com/conda-forge/graphene-federation-feedstock.git
+	path = feedstocks/graphene-federation
+	branch = refs/heads/main
