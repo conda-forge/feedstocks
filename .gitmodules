@@ -108110,3 +108110,7 @@
 	url = https://github.com/conda-forge/pixi-to-conda-lock-feedstock.git
 	path = feedstocks/pixi-to-conda-lock
 	branch = refs/heads/main
+[submodule "refl1d"]
+	url = https://github.com/conda-forge/refl1d-feedstock.git
+	path = feedstocks/refl1d
+	branch = refs/heads/main
