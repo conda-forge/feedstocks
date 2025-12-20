@@ -108150,3 +108150,7 @@
 	url = https://github.com/conda-forge/surfa-feedstock.git
 	path = feedstocks/surfa
 	branch = refs/heads/main
+[submodule "py-multihash"]
+	url = https://github.com/conda-forge/py-multihash-feedstock.git
+	path = feedstocks/py-multihash
+	branch = refs/heads/main
