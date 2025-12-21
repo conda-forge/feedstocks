@@ -108154,3 +108154,7 @@
 	url = https://github.com/conda-forge/py-multihash-feedstock.git
 	path = feedstocks/py-multihash
 	branch = refs/heads/main
+[submodule "sillywalk"]
+	url = https://github.com/conda-forge/sillywalk-feedstock.git
+	path = feedstocks/sillywalk
+	branch = refs/heads/main
