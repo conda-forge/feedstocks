@@ -108158,3 +108158,7 @@
 	url = https://github.com/conda-forge/sillywalk-feedstock.git
 	path = feedstocks/sillywalk
 	branch = refs/heads/main
+[submodule "jupyterlab-solarized-light-theme"]
+	url = https://github.com/conda-forge/jupyterlab-solarized-light-theme-feedstock.git
+	path = feedstocks/jupyterlab-solarized-light-theme
+	branch = refs/heads/main
