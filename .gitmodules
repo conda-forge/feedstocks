@@ -108166,3 +108166,7 @@
 	url = https://github.com/conda-forge/fastlowess-feedstock.git
 	path = feedstocks/fastlowess
 	branch = refs/heads/main
+[submodule "pyaqsapi"]
+	url = https://github.com/conda-forge/pyaqsapi-feedstock.git
+	path = feedstocks/pyaqsapi
+	branch = refs/heads/main
