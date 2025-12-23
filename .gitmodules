@@ -108162,3 +108162,7 @@
 	url = https://github.com/conda-forge/jupyterlab-solarized-light-theme-feedstock.git
 	path = feedstocks/jupyterlab-solarized-light-theme
 	branch = refs/heads/main
+[submodule "fastlowess"]
+	url = https://github.com/conda-forge/fastlowess-feedstock.git
+	path = feedstocks/fastlowess
+	branch = refs/heads/main
