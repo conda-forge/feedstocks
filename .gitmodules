@@ -108170,3 +108170,7 @@
 	url = https://github.com/conda-forge/pyaqsapi-feedstock.git
 	path = feedstocks/pyaqsapi
 	branch = refs/heads/main
+[submodule "timed-threads"]
+	url = https://github.com/conda-forge/timed-threads-feedstock.git
+	path = feedstocks/timed-threads
+	branch = refs/heads/main
