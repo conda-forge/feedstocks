@@ -108178,3 +108178,7 @@
 	url = https://github.com/conda-forge/wasmtime-py-feedstock.git
 	path = feedstocks/wasmtime-py
 	branch = refs/heads/main
+[submodule "delta-kernel-rust-sharing-wrapper"]
+	url = https://github.com/conda-forge/delta-kernel-rust-sharing-wrapper-feedstock.git
+	path = feedstocks/delta-kernel-rust-sharing-wrapper
+	branch = refs/heads/main
