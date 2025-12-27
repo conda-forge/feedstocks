@@ -108174,3 +108174,7 @@
 	url = https://github.com/conda-forge/timed-threads-feedstock.git
 	path = feedstocks/timed-threads
 	branch = refs/heads/main
+[submodule "wasmtime-py"]
+	url = https://github.com/conda-forge/wasmtime-py-feedstock.git
+	path = feedstocks/wasmtime-py
+	branch = refs/heads/main
