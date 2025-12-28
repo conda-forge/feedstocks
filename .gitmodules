@@ -108190,3 +108190,7 @@
 	url = https://github.com/conda-forge/janitor-rs-feedstock.git
 	path = feedstocks/janitor-rs
 	branch = refs/heads/main
+[submodule "cross-web"]
+	url = https://github.com/conda-forge/cross-web-feedstock.git
+	path = feedstocks/cross-web
+	branch = refs/heads/main
