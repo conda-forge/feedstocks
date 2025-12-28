@@ -108186,3 +108186,7 @@
 	url = https://github.com/conda-forge/r-rtables.officer-feedstock.git
 	path = feedstocks/r-rtables.officer
 	branch = refs/heads/main
+[submodule "janitor-rs"]
+	url = https://github.com/conda-forge/janitor-rs-feedstock.git
+	path = feedstocks/janitor-rs
+	branch = refs/heads/main
