@@ -108214,3 +108214,7 @@
 	url = https://github.com/conda-forge/xdg-base-dirs-feedstock.git
 	path = feedstocks/xdg-base-dirs
 	branch = refs/heads/main
+[submodule "pygount"]
+	url = https://github.com/conda-forge/pygount-feedstock.git
+	path = feedstocks/pygount
+	branch = refs/heads/main
