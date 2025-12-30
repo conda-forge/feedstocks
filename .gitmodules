@@ -108206,3 +108206,7 @@
 	url = https://github.com/conda-forge/flet-cli-feedstock.git
 	path = feedstocks/flet-cli
 	branch = refs/heads/main
+[submodule "mofresh"]
+	url = https://github.com/conda-forge/mofresh-feedstock.git
+	path = feedstocks/mofresh
+	branch = refs/heads/main
