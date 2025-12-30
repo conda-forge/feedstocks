@@ -108218,3 +108218,7 @@
 	url = https://github.com/conda-forge/pygount-feedstock.git
 	path = feedstocks/pygount
 	branch = refs/heads/main
+[submodule "mowidgets"]
+	url = https://github.com/conda-forge/mowidgets-feedstock.git
+	path = feedstocks/mowidgets
+	branch = refs/heads/main
