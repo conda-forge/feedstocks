@@ -108210,3 +108210,7 @@
 	url = https://github.com/conda-forge/mofresh-feedstock.git
 	path = feedstocks/mofresh
 	branch = refs/heads/main
+[submodule "xdg-base-dirs"]
+	url = https://github.com/conda-forge/xdg-base-dirs-feedstock.git
+	path = feedstocks/xdg-base-dirs
+	branch = refs/heads/main
