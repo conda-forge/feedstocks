@@ -108234,3 +108234,7 @@
 	url = https://github.com/conda-forge/gw-dsl-parser-feedstock.git
 	path = feedstocks/gw-dsl-parser
 	branch = refs/heads/main
+[submodule "moboard"]
+	url = https://github.com/conda-forge/moboard-feedstock.git
+	path = feedstocks/moboard
+	branch = refs/heads/main
