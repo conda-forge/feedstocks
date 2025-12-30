@@ -108238,3 +108238,7 @@
 	url = https://github.com/conda-forge/moboard-feedstock.git
 	path = feedstocks/moboard
 	branch = refs/heads/main
+[submodule "textual-speedups"]
+	url = https://github.com/conda-forge/textual-speedups-feedstock.git
+	path = feedstocks/textual-speedups
+	branch = refs/heads/main
