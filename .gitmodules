@@ -108222,3 +108222,7 @@
 	url = https://github.com/conda-forge/mowidgets-feedstock.git
 	path = feedstocks/mowidgets
 	branch = refs/heads/main
+[submodule "mcp-django"]
+	url = https://github.com/conda-forge/mcp-django-feedstock.git
+	path = feedstocks/mcp-django
+	branch = refs/heads/main
