@@ -108242,3 +108242,7 @@
 	url = https://github.com/conda-forge/textual-speedups-feedstock.git
 	path = feedstocks/textual-speedups
 	branch = refs/heads/main
+[submodule "sqlit-tui"]
+	url = https://github.com/conda-forge/sqlit-tui-feedstock.git
+	path = feedstocks/sqlit-tui
+	branch = refs/heads/main
