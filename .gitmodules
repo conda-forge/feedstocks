@@ -108230,3 +108230,7 @@
 	url = https://github.com/conda-forge/aia-chaser-feedstock.git
 	path = feedstocks/aia-chaser
 	branch = refs/heads/main
+[submodule "gw-dsl-parser"]
+	url = https://github.com/conda-forge/gw-dsl-parser-feedstock.git
+	path = feedstocks/gw-dsl-parser
+	branch = refs/heads/main
