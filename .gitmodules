@@ -108194,3 +108194,7 @@
 	url = https://github.com/conda-forge/cross-web-feedstock.git
 	path = feedstocks/cross-web
 	branch = refs/heads/main
+[submodule "vibegui"]
+	url = https://github.com/conda-forge/vibegui-feedstock.git
+	path = feedstocks/vibegui
+	branch = refs/heads/main
