@@ -108198,3 +108198,7 @@
 	url = https://github.com/conda-forge/vibegui-feedstock.git
 	path = feedstocks/vibegui
 	branch = refs/heads/main
+[submodule "smassh"]
+	url = https://github.com/conda-forge/smassh-feedstock.git
+	path = feedstocks/smassh
+	branch = refs/heads/main
