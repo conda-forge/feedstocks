@@ -108250,3 +108250,7 @@
 	url = https://github.com/conda-forge/mkdoxy-feedstock.git
 	path = feedstocks/mkdoxy
 	branch = refs/heads/main
+[submodule "r-rnanoflann"]
+	url = https://github.com/conda-forge/r-rnanoflann-feedstock.git
+	path = feedstocks/r-rnanoflann
+	branch = refs/heads/main
