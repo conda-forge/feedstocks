@@ -108246,3 +108246,7 @@
 	url = https://github.com/conda-forge/sqlit-tui-feedstock.git
 	path = feedstocks/sqlit-tui
 	branch = refs/heads/main
+[submodule "mkdoxy"]
+	url = https://github.com/conda-forge/mkdoxy-feedstock.git
+	path = feedstocks/mkdoxy
+	branch = refs/heads/main
