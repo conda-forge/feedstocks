@@ -108274,3 +108274,7 @@
 	url = https://github.com/conda-forge/holm-feedstock.git
 	path = feedstocks/holm
 	branch = refs/heads/main
+[submodule "ludic"]
+	url = https://github.com/conda-forge/ludic-feedstock.git
+	path = feedstocks/ludic
+	branch = refs/heads/main
