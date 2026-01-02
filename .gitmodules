@@ -108270,3 +108270,7 @@
 	url = https://github.com/conda-forge/dockerclustermon-feedstock.git
 	path = feedstocks/dockerclustermon
 	branch = refs/heads/main
+[submodule "holm"]
+	url = https://github.com/conda-forge/holm-feedstock.git
+	path = feedstocks/holm
+	branch = refs/heads/main
