@@ -108262,3 +108262,7 @@
 	url = https://github.com/conda-forge/gauxc-feedstock.git
 	path = feedstocks/gauxc
 	branch = refs/heads/main
+[submodule "rovr"]
+	url = https://github.com/conda-forge/rovr-feedstock.git
+	path = feedstocks/rovr
+	branch = refs/heads/main
