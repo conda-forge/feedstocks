@@ -108282,3 +108282,7 @@
 	url = https://github.com/conda-forge/textual-image-feedstock.git
 	path = feedstocks/textual-image
 	branch = refs/heads/main
+[submodule "servestatic"]
+	url = https://github.com/conda-forge/servestatic-feedstock.git
+	path = feedstocks/servestatic
+	branch = refs/heads/main
