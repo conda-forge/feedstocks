@@ -108266,3 +108266,7 @@
 	url = https://github.com/conda-forge/rovr-feedstock.git
 	path = feedstocks/rovr
 	branch = refs/heads/main
+[submodule "dockerclustermon"]
+	url = https://github.com/conda-forge/dockerclustermon-feedstock.git
+	path = feedstocks/dockerclustermon
+	branch = refs/heads/main
