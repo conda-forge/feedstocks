@@ -108278,3 +108278,7 @@
 	url = https://github.com/conda-forge/ludic-feedstock.git
 	path = feedstocks/ludic
 	branch = refs/heads/main
+[submodule "textual-image"]
+	url = https://github.com/conda-forge/textual-image-feedstock.git
+	path = feedstocks/textual-image
+	branch = refs/heads/main
