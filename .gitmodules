@@ -108286,3 +108286,7 @@
 	url = https://github.com/conda-forge/servestatic-feedstock.git
 	path = feedstocks/servestatic
 	branch = refs/heads/main
+[submodule "r-box.lsp"]
+	url = https://github.com/conda-forge/r-box.lsp-feedstock.git
+	path = feedstocks/r-box.lsp
+	branch = refs/heads/main
