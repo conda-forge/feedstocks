@@ -108298,3 +108298,7 @@
 	url = https://github.com/conda-forge/macroverse-feedstock.git
 	path = feedstocks/macroverse
 	branch = refs/heads/main
+[submodule "qgis-map"]
+	url = https://github.com/conda-forge/qgis-map-feedstock.git
+	path = feedstocks/qgis-map
+	branch = refs/heads/main
