@@ -108290,3 +108290,7 @@
 	url = https://github.com/conda-forge/r-box.lsp-feedstock.git
 	path = feedstocks/r-box.lsp
 	branch = refs/heads/main
+[submodule "daffy"]
+	url = https://github.com/conda-forge/daffy-feedstock.git
+	path = feedstocks/daffy
+	branch = refs/heads/main
