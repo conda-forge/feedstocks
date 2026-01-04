@@ -108294,3 +108294,7 @@
 	url = https://github.com/conda-forge/daffy-feedstock.git
 	path = feedstocks/daffy
 	branch = refs/heads/main
+[submodule "macroverse"]
+	url = https://github.com/conda-forge/macroverse-feedstock.git
+	path = feedstocks/macroverse
+	branch = refs/heads/main
