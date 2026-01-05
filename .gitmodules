@@ -108306,3 +108306,7 @@
 	url = https://github.com/conda-forge/witr-feedstock.git
 	path = feedstocks/witr
 	branch = refs/heads/main
+[submodule "noisemonitor"]
+	url = https://github.com/conda-forge/noisemonitor-feedstock.git
+	path = feedstocks/noisemonitor
+	branch = refs/heads/main
