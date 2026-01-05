@@ -108326,3 +108326,7 @@
 	url = https://github.com/conda-forge/mapraster-feedstock.git
 	path = feedstocks/mapraster
 	branch = refs/heads/main
+[submodule "univi"]
+	url = https://github.com/conda-forge/univi-feedstock.git
+	path = feedstocks/univi
+	branch = refs/heads/main
