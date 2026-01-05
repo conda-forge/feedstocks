@@ -108310,3 +108310,7 @@
 	url = https://github.com/conda-forge/noisemonitor-feedstock.git
 	path = feedstocks/noisemonitor
 	branch = refs/heads/main
+[submodule "autopaths"]
+	url = https://github.com/conda-forge/autopaths-feedstock.git
+	path = feedstocks/autopaths
+	branch = refs/heads/main
