@@ -108314,3 +108314,7 @@
 	url = https://github.com/conda-forge/autopaths-feedstock.git
 	path = feedstocks/autopaths
 	branch = refs/heads/main
+[submodule "hayagriva"]
+	url = https://github.com/conda-forge/hayagriva-feedstock.git
+	path = feedstocks/hayagriva
+	branch = refs/heads/main
