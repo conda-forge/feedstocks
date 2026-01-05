@@ -108322,3 +108322,7 @@
 	url = https://github.com/conda-forge/firthmodels-feedstock.git
 	path = feedstocks/firthmodels
 	branch = refs/heads/main
+[submodule "mapraster"]
+	url = https://github.com/conda-forge/mapraster-feedstock.git
+	path = feedstocks/mapraster
+	branch = refs/heads/main
