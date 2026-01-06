@@ -108350,3 +108350,7 @@
 	url = https://github.com/conda-forge/version-pioneer-feedstock.git
 	path = feedstocks/version-pioneer
 	branch = refs/heads/main
+[submodule "difit"]
+	url = https://github.com/conda-forge/difit-feedstock.git
+	path = feedstocks/difit
+	branch = refs/heads/main
