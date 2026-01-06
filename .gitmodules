@@ -108346,3 +108346,7 @@
 	url = https://github.com/conda-forge/paramax-feedstock.git
 	path = feedstocks/paramax
 	branch = refs/heads/main
+[submodule "version-pioneer"]
+	url = https://github.com/conda-forge/version-pioneer-feedstock.git
+	path = feedstocks/version-pioneer
+	branch = refs/heads/main
