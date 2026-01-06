@@ -108338,3 +108338,7 @@
 	url = https://github.com/conda-forge/pyodide-http-feedstock.git
 	path = feedstocks/pyodide-http
 	branch = refs/heads/main
+[submodule "flowjax"]
+	url = https://github.com/conda-forge/flowjax-feedstock.git
+	path = feedstocks/flowjax
+	branch = refs/heads/main
