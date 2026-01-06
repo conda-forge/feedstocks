@@ -108342,3 +108342,7 @@
 	url = https://github.com/conda-forge/flowjax-feedstock.git
 	path = feedstocks/flowjax
 	branch = refs/heads/main
+[submodule "paramax"]
+	url = https://github.com/conda-forge/paramax-feedstock.git
+	path = feedstocks/paramax
+	branch = refs/heads/main
