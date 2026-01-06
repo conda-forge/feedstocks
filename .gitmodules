@@ -108334,3 +108334,7 @@
 	url = https://github.com/conda-forge/planingfsi-feedstock.git
 	path = feedstocks/planingfsi
 	branch = refs/heads/main
+[submodule "pyodide-http"]
+	url = https://github.com/conda-forge/pyodide-http-feedstock.git
+	path = feedstocks/pyodide-http
+	branch = refs/heads/main
