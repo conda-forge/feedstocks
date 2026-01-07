@@ -108374,3 +108374,7 @@
 	url = https://github.com/conda-forge/agent-client-protocol-feedstock.git
 	path = feedstocks/agent-client-protocol
 	branch = refs/heads/main
+[submodule "arize"]
+	url = https://github.com/conda-forge/arize-feedstock.git
+	path = feedstocks/arize
+	branch = refs/heads/main
