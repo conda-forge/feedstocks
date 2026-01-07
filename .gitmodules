@@ -108366,3 +108366,7 @@
 	url = https://github.com/conda-forge/kelbt-feedstock.git
 	path = feedstocks/kelbt
 	branch = refs/heads/main
+[submodule "cpcm-x"]
+	url = https://github.com/conda-forge/cpcm-x-feedstock.git
+	path = feedstocks/cpcm-x
+	branch = refs/heads/main
