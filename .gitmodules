@@ -108390,3 +108390,7 @@
 	url = https://github.com/conda-forge/fast-plscan-feedstock.git
 	path = feedstocks/fast-plscan
 	branch = refs/heads/main
+[submodule "ag-ui-langgraph"]
+	url = https://github.com/conda-forge/ag-ui-langgraph-feedstock.git
+	path = feedstocks/ag-ui-langgraph
+	branch = refs/heads/main
