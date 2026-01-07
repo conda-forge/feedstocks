@@ -108382,3 +108382,7 @@
 	url = https://github.com/conda-forge/gwlearn-feedstock.git
 	path = feedstocks/gwlearn
 	branch = refs/heads/main
+[submodule "anymap-ts"]
+	url = https://github.com/conda-forge/anymap-ts-feedstock.git
+	path = feedstocks/anymap-ts
+	branch = refs/heads/main
