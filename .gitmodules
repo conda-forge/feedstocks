@@ -108406,3 +108406,7 @@
 	url = https://github.com/conda-forge/rush-throttle-feedstock.git
 	path = feedstocks/rush-throttle
 	branch = refs/heads/main
+[submodule "ag-ui-protocol"]
+	url = https://github.com/conda-forge/ag-ui-protocol-feedstock.git
+	path = feedstocks/ag-ui-protocol
+	branch = refs/heads/main
