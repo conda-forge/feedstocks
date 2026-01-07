@@ -108398,3 +108398,7 @@
 	url = https://github.com/conda-forge/adk-agui-middleware-feedstock.git
 	path = feedstocks/adk-agui-middleware
 	branch = refs/heads/main
+[submodule "copilotkit"]
+	url = https://github.com/conda-forge/copilotkit-feedstock.git
+	path = feedstocks/copilotkit
+	branch = refs/heads/main
