@@ -108378,3 +108378,7 @@
 	url = https://github.com/conda-forge/arize-feedstock.git
 	path = feedstocks/arize
 	branch = refs/heads/main
+[submodule "gwlearn"]
+	url = https://github.com/conda-forge/gwlearn-feedstock.git
+	path = feedstocks/gwlearn
+	branch = refs/heads/main
