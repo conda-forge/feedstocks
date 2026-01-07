@@ -108354,3 +108354,7 @@
 	url = https://github.com/conda-forge/difit-feedstock.git
 	path = feedstocks/difit
 	branch = refs/heads/main
+[submodule "gtksourceview"]
+	url = https://github.com/conda-forge/gtksourceview-feedstock.git
+	path = feedstocks/gtksourceview
+	branch = refs/heads/main
