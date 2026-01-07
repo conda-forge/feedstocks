@@ -108370,3 +108370,7 @@
 	url = https://github.com/conda-forge/cpcm-x-feedstock.git
 	path = feedstocks/cpcm-x
 	branch = refs/heads/main
+[submodule "agent-client-protocol"]
+	url = https://github.com/conda-forge/agent-client-protocol-feedstock.git
+	path = feedstocks/agent-client-protocol
+	branch = refs/heads/main
