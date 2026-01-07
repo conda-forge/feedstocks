@@ -108358,3 +108358,7 @@
 	url = https://github.com/conda-forge/gtksourceview-feedstock.git
 	path = feedstocks/gtksourceview
 	branch = refs/heads/main
+[submodule "pixi-build-ros"]
+	url = https://github.com/conda-forge/pixi-build-ros-feedstock.git
+	path = feedstocks/pixi-build-ros
+	branch = refs/heads/main
