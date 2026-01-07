@@ -108362,3 +108362,7 @@
 	url = https://github.com/conda-forge/pixi-build-ros-feedstock.git
 	path = feedstocks/pixi-build-ros
 	branch = refs/heads/main
+[submodule "kelbt"]
+	url = https://github.com/conda-forge/kelbt-feedstock.git
+	path = feedstocks/kelbt
+	branch = refs/heads/main
