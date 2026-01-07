@@ -108402,3 +108402,7 @@
 	url = https://github.com/conda-forge/copilotkit-feedstock.git
 	path = feedstocks/copilotkit
 	branch = refs/heads/main
+[submodule "rush-throttle"]
+	url = https://github.com/conda-forge/rush-throttle-feedstock.git
+	path = feedstocks/rush-throttle
+	branch = refs/heads/main
