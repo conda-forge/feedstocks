@@ -108394,3 +108394,7 @@
 	url = https://github.com/conda-forge/ag-ui-langgraph-feedstock.git
 	path = feedstocks/ag-ui-langgraph
 	branch = refs/heads/main
+[submodule "adk-agui-middleware"]
+	url = https://github.com/conda-forge/adk-agui-middleware-feedstock.git
+	path = feedstocks/adk-agui-middleware
+	branch = refs/heads/main
