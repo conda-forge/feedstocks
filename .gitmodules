@@ -108386,3 +108386,7 @@
 	url = https://github.com/conda-forge/anymap-ts-feedstock.git
 	path = feedstocks/anymap-ts
 	branch = refs/heads/main
+[submodule "fast-plscan"]
+	url = https://github.com/conda-forge/fast-plscan-feedstock.git
+	path = feedstocks/fast-plscan
+	branch = refs/heads/main
