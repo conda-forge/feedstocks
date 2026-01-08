@@ -108450,3 +108450,7 @@
 	url = https://github.com/conda-forge/scala2-feedstock.git
 	path = feedstocks/scala2
 	branch = refs/heads/main
+[submodule "rust-sasa-python"]
+	url = https://github.com/conda-forge/rust-sasa-python-feedstock.git
+	path = feedstocks/rust-sasa-python
+	branch = refs/heads/main
