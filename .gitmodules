@@ -108474,3 +108474,7 @@
 	url = https://github.com/conda-forge/datafiles-feedstock.git
 	path = feedstocks/datafiles
 	branch = refs/heads/main
+[submodule "gitman"]
+	url = https://github.com/conda-forge/gitman-feedstock.git
+	path = feedstocks/gitman
+	branch = refs/heads/main
