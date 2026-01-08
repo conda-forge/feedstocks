@@ -108446,3 +108446,7 @@
 	url = https://github.com/conda-forge/tight-inclusion-feedstock.git
 	path = feedstocks/tight-inclusion
 	branch = refs/heads/main
+[submodule "scala2"]
+	url = https://github.com/conda-forge/scala2-feedstock.git
+	path = feedstocks/scala2
+	branch = refs/heads/main
