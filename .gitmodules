@@ -108470,3 +108470,7 @@
 	url = https://github.com/conda-forge/json-five-feedstock.git
 	path = feedstocks/json-five
 	branch = refs/heads/main
+[submodule "datafiles"]
+	url = https://github.com/conda-forge/datafiles-feedstock.git
+	path = feedstocks/datafiles
+	branch = refs/heads/main
