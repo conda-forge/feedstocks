@@ -108414,3 +108414,7 @@
 	url = https://github.com/conda-forge/scalable-vs-packs-feedstock.git
 	path = feedstocks/scalable-vs-packs
 	branch = refs/heads/main
+[submodule "servalcat"]
+	url = https://github.com/conda-forge/servalcat-feedstock.git
+	path = feedstocks/servalcat
+	branch = refs/heads/main
