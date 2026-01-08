@@ -108442,3 +108442,7 @@
 	url = https://github.com/conda-forge/spacetrack-feedstock.git
 	path = feedstocks/spacetrack
 	branch = refs/heads/main
+[submodule "tight-inclusion"]
+	url = https://github.com/conda-forge/tight-inclusion-feedstock.git
+	path = feedstocks/tight-inclusion
+	branch = refs/heads/main
