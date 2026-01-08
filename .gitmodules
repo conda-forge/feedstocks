@@ -108434,3 +108434,7 @@
 	url = https://github.com/conda-forge/zensus2pgsql-feedstock.git
 	path = feedstocks/zensus2pgsql
 	branch = refs/heads/main
+[submodule "prexsyn-engine"]
+	url = https://github.com/conda-forge/prexsyn-engine-feedstock.git
+	path = feedstocks/prexsyn-engine
+	branch = refs/heads/main
