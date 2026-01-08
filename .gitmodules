@@ -108430,3 +108430,7 @@
 	url = https://github.com/conda-forge/turm-feedstock.git
 	path = feedstocks/turm
 	branch = refs/heads/main
+[submodule "zensus2pgsql"]
+	url = https://github.com/conda-forge/zensus2pgsql-feedstock.git
+	path = feedstocks/zensus2pgsql
+	branch = refs/heads/main
