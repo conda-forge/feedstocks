@@ -108422,3 +108422,7 @@
 	url = https://github.com/conda-forge/opentrustregion-feedstock.git
 	path = feedstocks/opentrustregion
 	branch = refs/heads/main
+[submodule "dotter-rs"]
+	url = https://github.com/conda-forge/dotter-rs-feedstock.git
+	path = feedstocks/dotter-rs
+	branch = refs/heads/main
