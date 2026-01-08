@@ -108462,3 +108462,7 @@
 	url = https://github.com/conda-forge/universal-startfile-feedstock.git
 	path = feedstocks/universal-startfile
 	branch = refs/heads/main
+[submodule "minilog"]
+	url = https://github.com/conda-forge/minilog-feedstock.git
+	path = feedstocks/minilog
+	branch = refs/heads/main
