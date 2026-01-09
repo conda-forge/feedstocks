@@ -108530,3 +108530,7 @@
 	url = https://github.com/conda-forge/r-sweater-feedstock.git
 	path = feedstocks/r-sweater
 	branch = refs/heads/main
+[submodule "grass"]
+	url = https://github.com/conda-forge/grass-feedstock.git
+	path = feedstocks/grass
+	branch = refs/heads/main
