@@ -108486,3 +108486,7 @@
 	url = https://github.com/conda-forge/fastgit-feedstock.git
 	path = feedstocks/fastgit
 	branch = refs/heads/main
+[submodule "heppdt"]
+	url = https://github.com/conda-forge/heppdt-feedstock.git
+	path = feedstocks/heppdt
+	branch = refs/heads/main
