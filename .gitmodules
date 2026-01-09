@@ -108510,3 +108510,7 @@
 	url = https://github.com/conda-forge/r-somadataio-feedstock.git
 	path = feedstocks/r-somadataio
 	branch = refs/heads/main
+[submodule "polymer"]
+	url = https://github.com/conda-forge/polymer-feedstock.git
+	path = feedstocks/polymer
+	branch = refs/heads/main
