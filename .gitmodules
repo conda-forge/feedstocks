@@ -108498,3 +108498,7 @@
 	url = https://github.com/conda-forge/mdx2-feedstock.git
 	path = feedstocks/mdx2
 	branch = refs/heads/main
+[submodule "tea"]
+	url = https://github.com/conda-forge/tea-feedstock.git
+	path = feedstocks/tea
+	branch = refs/heads/main
