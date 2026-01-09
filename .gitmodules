@@ -108518,3 +108518,7 @@
 	url = https://github.com/conda-forge/hygeos-core-feedstock.git
 	path = feedstocks/hygeos-core
 	branch = refs/heads/main
+[submodule "eoread"]
+	url = https://github.com/conda-forge/eoread-feedstock.git
+	path = feedstocks/eoread
+	branch = refs/heads/main
