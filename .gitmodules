@@ -108490,3 +108490,7 @@
 	url = https://github.com/conda-forge/heppdt-feedstock.git
 	path = feedstocks/heppdt
 	branch = refs/heads/main
+[submodule "mistral-vibe"]
+	url = https://github.com/conda-forge/mistral-vibe-feedstock.git
+	path = feedstocks/mistral-vibe
+	branch = refs/heads/main
