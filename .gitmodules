@@ -108482,3 +108482,7 @@
 	url = https://github.com/conda-forge/aida-feedstock.git
 	path = feedstocks/aida
 	branch = refs/heads/main
+[submodule "fastgit"]
+	url = https://github.com/conda-forge/fastgit-feedstock.git
+	path = feedstocks/fastgit
+	branch = refs/heads/main
