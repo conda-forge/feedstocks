@@ -108522,3 +108522,7 @@
 	url = https://github.com/conda-forge/eoread-feedstock.git
 	path = feedstocks/eoread
 	branch = refs/heads/main
+[submodule "eotools"]
+	url = https://github.com/conda-forge/eotools-feedstock.git
+	path = feedstocks/eotools
+	branch = refs/heads/main
