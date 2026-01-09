@@ -108514,3 +108514,7 @@
 	url = https://github.com/conda-forge/polymer-feedstock.git
 	path = feedstocks/polymer
 	branch = refs/heads/main
+[submodule "hygeos-core"]
+	url = https://github.com/conda-forge/hygeos-core-feedstock.git
+	path = feedstocks/hygeos-core
+	branch = refs/heads/main
