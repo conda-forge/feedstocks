@@ -108526,3 +108526,7 @@
 	url = https://github.com/conda-forge/eotools-feedstock.git
 	path = feedstocks/eotools
 	branch = refs/heads/main
+[submodule "r-sweater"]
+	url = https://github.com/conda-forge/r-sweater-feedstock.git
+	path = feedstocks/r-sweater
+	branch = refs/heads/main
