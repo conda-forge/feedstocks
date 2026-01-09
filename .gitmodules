@@ -108502,3 +108502,7 @@
 	url = https://github.com/conda-forge/tea-feedstock.git
 	path = feedstocks/tea
 	branch = refs/heads/main
+[submodule "mumps4py"]
+	url = https://github.com/conda-forge/mumps4py-feedstock.git
+	path = feedstocks/mumps4py
+	branch = refs/heads/main
