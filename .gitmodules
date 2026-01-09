@@ -108478,3 +108478,7 @@
 	url = https://github.com/conda-forge/gitman-feedstock.git
 	path = feedstocks/gitman
 	branch = refs/heads/main
+[submodule "aida"]
+	url = https://github.com/conda-forge/aida-feedstock.git
+	path = feedstocks/aida
+	branch = refs/heads/main
