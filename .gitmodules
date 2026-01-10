@@ -108534,3 +108534,7 @@
 	url = https://github.com/conda-forge/grass-feedstock.git
 	path = feedstocks/grass
 	branch = refs/heads/main
+[submodule "spatula"]
+	url = https://github.com/conda-forge/spatula-feedstock.git
+	path = feedstocks/spatula
+	branch = refs/heads/main
