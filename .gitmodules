@@ -108538,3 +108538,7 @@
 	url = https://github.com/conda-forge/spatula-feedstock.git
 	path = feedstocks/spatula
 	branch = refs/heads/main
+[submodule "tree-sitter-bash"]
+	url = https://github.com/conda-forge/tree-sitter-bash-feedstock.git
+	path = feedstocks/tree-sitter-bash
+	branch = refs/heads/main
