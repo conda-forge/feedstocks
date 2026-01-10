@@ -108542,3 +108542,7 @@
 	url = https://github.com/conda-forge/tree-sitter-bash-feedstock.git
 	path = feedstocks/tree-sitter-bash
 	branch = refs/heads/main
+[submodule "hightime"]
+	url = https://github.com/conda-forge/hightime-feedstock.git
+	path = feedstocks/hightime
+	branch = refs/heads/main
