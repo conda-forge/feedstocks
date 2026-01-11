@@ -108546,3 +108546,7 @@
 	url = https://github.com/conda-forge/hightime-feedstock.git
 	path = feedstocks/hightime
 	branch = refs/heads/main
+[submodule "rust-sasa"]
+	url = https://github.com/conda-forge/rust-sasa-feedstock.git
+	path = feedstocks/rust-sasa
+	branch = refs/heads/main
