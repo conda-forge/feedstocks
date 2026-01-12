@@ -108594,3 +108594,7 @@
 	url = https://github.com/conda-forge/parquet-stream-writer-feedstock.git
 	path = feedstocks/parquet-stream-writer
 	branch = refs/heads/main
+[submodule "cernopendata-client"]
+	url = https://github.com/conda-forge/cernopendata-client-feedstock.git
+	path = feedstocks/cernopendata-client
+	branch = refs/heads/main
