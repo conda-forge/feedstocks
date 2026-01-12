@@ -108574,3 +108574,7 @@
 	url = https://github.com/conda-forge/mergechannels-feedstock.git
 	path = feedstocks/mergechannels
 	branch = refs/heads/main
+[submodule "cchecksum"]
+	url = https://github.com/conda-forge/cchecksum-feedstock.git
+	path = feedstocks/cchecksum
+	branch = refs/heads/main
