@@ -108610,3 +108610,7 @@
 	url = https://github.com/conda-forge/copier-template-extensions-feedstock.git
 	path = feedstocks/copier-template-extensions
 	branch = refs/heads/main
+[submodule "r-tidypopgen"]
+	url = https://github.com/conda-forge/r-tidypopgen-feedstock.git
+	path = feedstocks/r-tidypopgen
+	branch = refs/heads/main
