@@ -108590,3 +108590,7 @@
 	url = https://github.com/conda-forge/nitypes-feedstock.git
 	path = feedstocks/nitypes
 	branch = refs/heads/main
+[submodule "parquet-stream-writer"]
+	url = https://github.com/conda-forge/parquet-stream-writer-feedstock.git
+	path = feedstocks/parquet-stream-writer
+	branch = refs/heads/main
