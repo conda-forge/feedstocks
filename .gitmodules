@@ -108598,3 +108598,7 @@
 	url = https://github.com/conda-forge/cernopendata-client-feedstock.git
 	path = feedstocks/cernopendata-client
 	branch = refs/heads/main
+[submodule "progress-table"]
+	url = https://github.com/conda-forge/progress-table-feedstock.git
+	path = feedstocks/progress-table
+	branch = refs/heads/main
