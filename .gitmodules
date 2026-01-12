@@ -108582,3 +108582,7 @@
 	url = https://github.com/conda-forge/zeem-feedstock.git
 	path = feedstocks/zeem
 	branch = refs/heads/main
+[submodule "r-hdf5lib"]
+	url = https://github.com/conda-forge/r-hdf5lib-feedstock.git
+	path = feedstocks/r-hdf5lib
+	branch = refs/heads/main
