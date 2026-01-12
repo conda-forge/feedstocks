@@ -108630,3 +108630,7 @@
 	url = https://github.com/conda-forge/legacycrypt-feedstock.git
 	path = feedstocks/legacycrypt
 	branch = refs/heads/main
+[submodule "imas_composer"]
+	url = https://github.com/conda-forge/imas_composer-feedstock.git
+	path = feedstocks/imas_composer
+	branch = refs/heads/main
