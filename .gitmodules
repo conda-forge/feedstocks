@@ -108614,3 +108614,7 @@
 	url = https://github.com/conda-forge/r-tidypopgen-feedstock.git
 	path = feedstocks/r-tidypopgen
 	branch = refs/heads/main
+[submodule "circleci"]
+	url = https://github.com/conda-forge/circleci-feedstock.git
+	path = feedstocks/circleci
+	branch = refs/heads/main
