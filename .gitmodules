@@ -108626,3 +108626,7 @@
 	url = https://github.com/conda-forge/claude-agent-sdk-feedstock.git
 	path = feedstocks/claude-agent-sdk
 	branch = refs/heads/main
+[submodule "legacycrypt"]
+	url = https://github.com/conda-forge/legacycrypt-feedstock.git
+	path = feedstocks/legacycrypt
+	branch = refs/heads/main
