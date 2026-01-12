@@ -108554,3 +108554,7 @@
 	url = https://github.com/conda-forge/kariba-feedstock.git
 	path = feedstocks/kariba
 	branch = refs/heads/main
+[submodule "nrtk-albumentations"]
+	url = https://github.com/conda-forge/nrtk-albumentations-feedstock.git
+	path = feedstocks/nrtk-albumentations
+	branch = refs/heads/main
