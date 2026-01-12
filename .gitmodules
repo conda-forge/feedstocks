@@ -108586,3 +108586,7 @@
 	url = https://github.com/conda-forge/r-hdf5lib-feedstock.git
 	path = feedstocks/r-hdf5lib
 	branch = refs/heads/main
+[submodule "nitypes"]
+	url = https://github.com/conda-forge/nitypes-feedstock.git
+	path = feedstocks/nitypes
+	branch = refs/heads/main
