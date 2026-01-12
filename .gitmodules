@@ -108578,3 +108578,7 @@
 	url = https://github.com/conda-forge/cchecksum-feedstock.git
 	path = feedstocks/cchecksum
 	branch = refs/heads/main
+[submodule "zeem"]
+	url = https://github.com/conda-forge/zeem-feedstock.git
+	path = feedstocks/zeem
+	branch = refs/heads/main
