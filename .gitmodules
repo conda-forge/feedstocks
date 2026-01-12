@@ -108550,3 +108550,7 @@
 	url = https://github.com/conda-forge/rust-sasa-feedstock.git
 	path = feedstocks/rust-sasa
 	branch = refs/heads/main
+[submodule "kariba"]
+	url = https://github.com/conda-forge/kariba-feedstock.git
+	path = feedstocks/kariba
+	branch = refs/heads/main
