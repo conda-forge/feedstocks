@@ -108622,3 +108622,7 @@
 	url = https://github.com/conda-forge/spade-feedstock.git
 	path = feedstocks/spade
 	branch = refs/heads/main
+[submodule "claude-agent-sdk"]
+	url = https://github.com/conda-forge/claude-agent-sdk-feedstock.git
+	path = feedstocks/claude-agent-sdk
+	branch = refs/heads/main
