@@ -108566,3 +108566,7 @@
 	url = https://github.com/conda-forge/snowpark-connect-deps-2-feedstock.git
 	path = feedstocks/snowpark-connect-deps-2
 	branch = refs/heads/main
+[submodule "eth-pydantic-types"]
+	url = https://github.com/conda-forge/eth-pydantic-types-feedstock.git
+	path = feedstocks/eth-pydantic-types
+	branch = refs/heads/main
