@@ -108606,3 +108606,7 @@
 	url = https://github.com/conda-forge/notify-py-feedstock.git
 	path = feedstocks/notify-py
 	branch = refs/heads/main
+[submodule "copier-template-extensions"]
+	url = https://github.com/conda-forge/copier-template-extensions-feedstock.git
+	path = feedstocks/copier-template-extensions
+	branch = refs/heads/main
