@@ -108570,3 +108570,7 @@
 	url = https://github.com/conda-forge/eth-pydantic-types-feedstock.git
 	path = feedstocks/eth-pydantic-types
 	branch = refs/heads/main
+[submodule "mergechannels"]
+	url = https://github.com/conda-forge/mergechannels-feedstock.git
+	path = feedstocks/mergechannels
+	branch = refs/heads/main
