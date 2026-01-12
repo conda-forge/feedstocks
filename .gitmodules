@@ -108602,3 +108602,7 @@
 	url = https://github.com/conda-forge/progress-table-feedstock.git
 	path = feedstocks/progress-table
 	branch = refs/heads/main
+[submodule "notify-py"]
+	url = https://github.com/conda-forge/notify-py-feedstock.git
+	path = feedstocks/notify-py
+	branch = refs/heads/main
