@@ -108562,3 +108562,7 @@
 	url = https://github.com/conda-forge/snowpark-connect-deps-1-feedstock.git
 	path = feedstocks/snowpark-connect-deps-1
 	branch = refs/heads/main
+[submodule "snowpark-connect-deps-2"]
+	url = https://github.com/conda-forge/snowpark-connect-deps-2-feedstock.git
+	path = feedstocks/snowpark-connect-deps-2
+	branch = refs/heads/main
