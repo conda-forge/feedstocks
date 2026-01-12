@@ -108618,3 +108618,7 @@
 	url = https://github.com/conda-forge/circleci-feedstock.git
 	path = feedstocks/circleci
 	branch = refs/heads/main
+[submodule "spade"]
+	url = https://github.com/conda-forge/spade-feedstock.git
+	path = feedstocks/spade
+	branch = refs/heads/main
