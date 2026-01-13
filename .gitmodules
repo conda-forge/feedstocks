@@ -108634,3 +108634,7 @@
 	url = https://github.com/conda-forge/imas_composer-feedstock.git
 	path = feedstocks/imas_composer
 	branch = refs/heads/main
+[submodule "ko"]
+	url = https://github.com/conda-forge/ko-feedstock.git
+	path = feedstocks/ko
+	branch = refs/heads/main
