@@ -108650,3 +108650,7 @@
 	url = https://github.com/conda-forge/tardigrade_solver_tools-feedstock.git
 	path = feedstocks/tardigrade_solver_tools
 	branch = refs/heads/main
+[submodule "tardigrade_constitutive_tools"]
+	url = https://github.com/conda-forge/tardigrade_constitutive_tools-feedstock.git
+	path = feedstocks/tardigrade_constitutive_tools
+	branch = refs/heads/main
