@@ -108642,3 +108642,7 @@
 	url = https://github.com/conda-forge/rnnoise-feedstock.git
 	path = feedstocks/rnnoise
 	branch = refs/heads/main
+[submodule "zae-limiter"]
+	url = https://github.com/conda-forge/zae-limiter-feedstock.git
+	path = feedstocks/zae-limiter
+	branch = refs/heads/main
