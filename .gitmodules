@@ -108646,3 +108646,7 @@
 	url = https://github.com/conda-forge/zae-limiter-feedstock.git
 	path = feedstocks/zae-limiter
 	branch = refs/heads/main
+[submodule "tardigrade_solver_tools"]
+	url = https://github.com/conda-forge/tardigrade_solver_tools-feedstock.git
+	path = feedstocks/tardigrade_solver_tools
+	branch = refs/heads/main
