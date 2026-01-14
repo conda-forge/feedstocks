@@ -108638,3 +108638,7 @@
 	url = https://github.com/conda-forge/ko-feedstock.git
 	path = feedstocks/ko
 	branch = refs/heads/main
+[submodule "rnnoise"]
+	url = https://github.com/conda-forge/rnnoise-feedstock.git
+	path = feedstocks/rnnoise
+	branch = refs/heads/main
