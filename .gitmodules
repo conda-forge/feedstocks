@@ -108654,3 +108654,7 @@
 	url = https://github.com/conda-forge/tardigrade_constitutive_tools-feedstock.git
 	path = feedstocks/tardigrade_constitutive_tools
 	branch = refs/heads/main
+[submodule "dysk"]
+	url = https://github.com/conda-forge/dysk-feedstock.git
+	path = feedstocks/dysk
+	branch = refs/heads/main
