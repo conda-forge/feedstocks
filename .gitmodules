@@ -108666,3 +108666,7 @@
 	url = https://github.com/conda-forge/starplot-feedstock.git
 	path = feedstocks/starplot
 	branch = refs/heads/main
+[submodule "mkdocs-mermaid2-plugin"]
+	url = https://github.com/conda-forge/mkdocs-mermaid2-plugin-feedstock.git
+	path = feedstocks/mkdocs-mermaid2-plugin
+	branch = refs/heads/main
