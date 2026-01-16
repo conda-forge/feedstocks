@@ -108742,3 +108742,7 @@
 	url = https://github.com/conda-forge/tardigrade_stress_tools-feedstock.git
 	path = feedstocks/tardigrade_stress_tools
 	branch = refs/heads/main
+[submodule "tardigrade_micromorphic_tools"]
+	url = https://github.com/conda-forge/tardigrade_micromorphic_tools-feedstock.git
+	path = feedstocks/tardigrade_micromorphic_tools
+	branch = refs/heads/main
