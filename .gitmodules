@@ -108738,3 +108738,7 @@
 	url = https://github.com/conda-forge/octave-onsas-feedstock.git
 	path = feedstocks/octave-onsas
 	branch = refs/heads/main
+[submodule "tardigrade_stress_tools"]
+	url = https://github.com/conda-forge/tardigrade_stress_tools-feedstock.git
+	path = feedstocks/tardigrade_stress_tools
+	branch = refs/heads/main
