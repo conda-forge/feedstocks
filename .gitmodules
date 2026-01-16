@@ -108730,3 +108730,7 @@
 	url = https://github.com/conda-forge/octave-splines-feedstock.git
 	path = feedstocks/octave-splines
 	branch = refs/heads/main
+[submodule "octave-fuzzy-logic-toolkit"]
+	url = https://github.com/conda-forge/octave-fuzzy-logic-toolkit-feedstock.git
+	path = feedstocks/octave-fuzzy-logic-toolkit
+	branch = refs/heads/main
