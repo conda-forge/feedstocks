@@ -108694,3 +108694,7 @@
 	url = https://github.com/conda-forge/pymicro-feedstock.git
 	path = feedstocks/pymicro
 	branch = refs/heads/main
+[submodule "d2-widget"]
+	url = https://github.com/conda-forge/d2-widget-feedstock.git
+	path = feedstocks/d2-widget
+	branch = refs/heads/main
