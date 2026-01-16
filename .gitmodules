@@ -108698,3 +108698,7 @@
 	url = https://github.com/conda-forge/d2-widget-feedstock.git
 	path = feedstocks/d2-widget
 	branch = refs/heads/main
+[submodule "jj-starship"]
+	url = https://github.com/conda-forge/jj-starship-feedstock.git
+	path = feedstocks/jj-starship
+	branch = refs/heads/main
