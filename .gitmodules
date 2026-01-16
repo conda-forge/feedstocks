@@ -108682,3 +108682,7 @@
 	url = https://github.com/conda-forge/alveoleye-feedstock.git
 	path = feedstocks/alveoleye
 	branch = refs/heads/main
+[submodule "threey"]
+	url = https://github.com/conda-forge/threey-feedstock.git
+	path = feedstocks/threey
+	branch = refs/heads/main
