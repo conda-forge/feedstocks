@@ -108722,3 +108722,7 @@
 	url = https://github.com/conda-forge/octave-image-feedstock.git
 	path = feedstocks/octave-image
 	branch = refs/heads/main
+[submodule "octave-netcdf"]
+	url = https://github.com/conda-forge/octave-netcdf-feedstock.git
+	path = feedstocks/octave-netcdf
+	branch = refs/heads/main
