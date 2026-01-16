@@ -108718,3 +108718,7 @@
 	url = https://github.com/conda-forge/octave-sockets-feedstock.git
 	path = feedstocks/octave-sockets
 	branch = refs/heads/main
+[submodule "octave-image"]
+	url = https://github.com/conda-forge/octave-image-feedstock.git
+	path = feedstocks/octave-image
+	branch = refs/heads/main
