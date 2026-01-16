@@ -108702,3 +108702,7 @@
 	url = https://github.com/conda-forge/jj-starship-feedstock.git
 	path = feedstocks/jj-starship
 	branch = refs/heads/main
+[submodule "mountpoint-s3"]
+	url = https://github.com/conda-forge/mountpoint-s3-feedstock.git
+	path = feedstocks/mountpoint-s3
+	branch = refs/heads/main
