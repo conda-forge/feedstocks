@@ -108706,3 +108706,7 @@
 	url = https://github.com/conda-forge/mountpoint-s3-feedstock.git
 	path = feedstocks/mountpoint-s3
 	branch = refs/heads/main
+[submodule "octave-control"]
+	url = https://github.com/conda-forge/octave-control-feedstock.git
+	path = feedstocks/octave-control
+	branch = refs/heads/main
