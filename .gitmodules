@@ -108690,3 +108690,7 @@
 	url = https://github.com/conda-forge/hyperelastic-feedstock.git
 	path = feedstocks/hyperelastic
 	branch = refs/heads/main
+[submodule "pymicro"]
+	url = https://github.com/conda-forge/pymicro-feedstock.git
+	path = feedstocks/pymicro
+	branch = refs/heads/main
