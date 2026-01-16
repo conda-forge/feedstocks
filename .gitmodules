@@ -108726,3 +108726,7 @@
 	url = https://github.com/conda-forge/octave-netcdf-feedstock.git
 	path = feedstocks/octave-netcdf
 	branch = refs/heads/main
+[submodule "octave-splines"]
+	url = https://github.com/conda-forge/octave-splines-feedstock.git
+	path = feedstocks/octave-splines
+	branch = refs/heads/main
