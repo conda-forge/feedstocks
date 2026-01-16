@@ -108674,3 +108674,7 @@
 	url = https://github.com/conda-forge/shoutrrr-feedstock.git
 	path = feedstocks/shoutrrr
 	branch = refs/heads/main
+[submodule "dapper-elm"]
+	url = https://github.com/conda-forge/dapper-elm-feedstock.git
+	path = feedstocks/dapper-elm
+	branch = refs/heads/main
