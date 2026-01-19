@@ -108750,3 +108750,7 @@
 	url = https://github.com/conda-forge/lilipod-feedstock.git
 	path = feedstocks/lilipod
 	branch = refs/heads/main
+[submodule "selenium-wire"]
+	url = https://github.com/conda-forge/selenium-wire-feedstock.git
+	path = feedstocks/selenium-wire
+	branch = refs/heads/main
