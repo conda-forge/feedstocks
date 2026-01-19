@@ -108746,3 +108746,7 @@
 	url = https://github.com/conda-forge/tardigrade_micromorphic_tools-feedstock.git
 	path = feedstocks/tardigrade_micromorphic_tools
 	branch = refs/heads/main
+[submodule "lilipod"]
+	url = https://github.com/conda-forge/lilipod-feedstock.git
+	path = feedstocks/lilipod
+	branch = refs/heads/main
