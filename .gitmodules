@@ -108766,3 +108766,7 @@
 	url = https://github.com/conda-forge/skala-feedstock.git
 	path = feedstocks/skala
 	branch = refs/heads/main
+[submodule "pytest-mockito"]
+	url = https://github.com/conda-forge/pytest-mockito-feedstock.git
+	path = feedstocks/pytest-mockito
+	branch = refs/heads/main
