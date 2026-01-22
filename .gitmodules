@@ -108778,3 +108778,7 @@
 	url = https://github.com/conda-forge/plumbing-feedstock.git
 	path = feedstocks/plumbing
 	branch = refs/heads/main
+[submodule "optmagic"]
+	url = https://github.com/conda-forge/optmagic-feedstock.git
+	path = feedstocks/optmagic
+	branch = refs/heads/main
