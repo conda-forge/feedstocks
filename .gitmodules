@@ -108774,3 +108774,7 @@
 	url = https://github.com/conda-forge/skills-ref-feedstock.git
 	path = feedstocks/skills-ref
 	branch = refs/heads/main
+[submodule "plumbing"]
+	url = https://github.com/conda-forge/plumbing-feedstock.git
+	path = feedstocks/plumbing
+	branch = refs/heads/main
