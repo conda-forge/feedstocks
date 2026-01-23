@@ -108806,3 +108806,7 @@
 	url = https://github.com/conda-forge/typedunits-feedstock.git
 	path = feedstocks/typedunits
 	branch = refs/heads/main
+[submodule "apache-tvm-ffi"]
+	url = https://github.com/conda-forge/apache-tvm-ffi-feedstock.git
+	path = feedstocks/apache-tvm-ffi
+	branch = refs/heads/main
