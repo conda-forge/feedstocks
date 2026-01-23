@@ -108786,3 +108786,7 @@
 	url = https://github.com/conda-forge/lwtnn-feedstock.git
 	path = feedstocks/lwtnn
 	branch = refs/heads/main
+[submodule "pinact"]
+	url = https://github.com/conda-forge/pinact-feedstock.git
+	path = feedstocks/pinact
+	branch = refs/heads/main
