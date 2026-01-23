@@ -108814,3 +108814,7 @@
 	url = https://github.com/conda-forge/pptreport-feedstock.git
 	path = feedstocks/pptreport
 	branch = refs/heads/main
+[submodule "fastopenapi"]
+	url = https://github.com/conda-forge/fastopenapi-feedstock.git
+	path = feedstocks/fastopenapi
+	branch = refs/heads/main
