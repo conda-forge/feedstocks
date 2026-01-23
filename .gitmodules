@@ -108790,3 +108790,7 @@
 	url = https://github.com/conda-forge/pinact-feedstock.git
 	path = feedstocks/pinact
 	branch = refs/heads/main
+[submodule "github-copilot-sdk"]
+	url = https://github.com/conda-forge/github-copilot-sdk-feedstock.git
+	path = feedstocks/github-copilot-sdk
+	branch = refs/heads/main
