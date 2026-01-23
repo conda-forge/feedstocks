@@ -108822,3 +108822,7 @@
 	url = https://github.com/conda-forge/fastscheduler-feedstock.git
 	path = feedstocks/fastscheduler
 	branch = refs/heads/main
+[submodule "tprof"]
+	url = https://github.com/conda-forge/tprof-feedstock.git
+	path = feedstocks/tprof
+	branch = refs/heads/main
