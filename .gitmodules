@@ -108818,3 +108818,7 @@
 	url = https://github.com/conda-forge/fastopenapi-feedstock.git
 	path = feedstocks/fastopenapi
 	branch = refs/heads/main
+[submodule "fastscheduler"]
+	url = https://github.com/conda-forge/fastscheduler-feedstock.git
+	path = feedstocks/fastscheduler
+	branch = refs/heads/main
