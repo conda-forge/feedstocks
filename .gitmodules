@@ -108810,3 +108810,7 @@
 	url = https://github.com/conda-forge/apache-tvm-ffi-feedstock.git
 	path = feedstocks/apache-tvm-ffi
 	branch = refs/heads/main
+[submodule "pptreport"]
+	url = https://github.com/conda-forge/pptreport-feedstock.git
+	path = feedstocks/pptreport
+	branch = refs/heads/main
