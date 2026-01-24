@@ -108830,3 +108830,7 @@
 	url = https://github.com/conda-forge/auto-round-feedstock.git
 	path = feedstocks/auto-round
 	branch = refs/heads/main
+[submodule "pysmspp"]
+	url = https://github.com/conda-forge/pysmspp-feedstock.git
+	path = feedstocks/pysmspp
+	branch = refs/heads/main
