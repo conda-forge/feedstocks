@@ -108826,3 +108826,7 @@
 	url = https://github.com/conda-forge/tprof-feedstock.git
 	path = feedstocks/tprof
 	branch = refs/heads/main
+[submodule "auto-round"]
+	url = https://github.com/conda-forge/auto-round-feedstock.git
+	path = feedstocks/auto-round
+	branch = refs/heads/main
