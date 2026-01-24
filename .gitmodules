@@ -108834,3 +108834,7 @@
 	url = https://github.com/conda-forge/pysmspp-feedstock.git
 	path = feedstocks/pysmspp
 	branch = refs/heads/main
+[submodule "djc-core"]
+	url = https://github.com/conda-forge/djc-core-feedstock.git
+	path = feedstocks/djc-core
+	branch = refs/heads/main
