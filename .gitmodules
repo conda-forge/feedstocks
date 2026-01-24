@@ -108838,3 +108838,7 @@
 	url = https://github.com/conda-forge/djc-core-feedstock.git
 	path = feedstocks/djc-core
 	branch = refs/heads/main
+[submodule "odrpack"]
+	url = https://github.com/conda-forge/odrpack-feedstock.git
+	path = feedstocks/odrpack
+	branch = refs/heads/main
