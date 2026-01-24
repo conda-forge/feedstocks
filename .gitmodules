@@ -108846,3 +108846,7 @@
 	url = https://github.com/conda-forge/datafiller-feedstock.git
 	path = feedstocks/datafiller
 	branch = refs/heads/main
+[submodule "fastapi-guard"]
+	url = https://github.com/conda-forge/fastapi-guard-feedstock.git
+	path = feedstocks/fastapi-guard
+	branch = refs/heads/main
