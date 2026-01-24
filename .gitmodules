@@ -108842,3 +108842,7 @@
 	url = https://github.com/conda-forge/odrpack-feedstock.git
 	path = feedstocks/odrpack
 	branch = refs/heads/main
+[submodule "datafiller"]
+	url = https://github.com/conda-forge/datafiller-feedstock.git
+	path = feedstocks/datafiller
+	branch = refs/heads/main
