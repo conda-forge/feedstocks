@@ -108850,3 +108850,7 @@
 	url = https://github.com/conda-forge/fastapi-guard-feedstock.git
 	path = feedstocks/fastapi-guard
 	branch = refs/heads/main
+[submodule "xacro"]
+	url = https://github.com/conda-forge/xacro-feedstock.git
+	path = feedstocks/xacro
+	branch = refs/heads/main
