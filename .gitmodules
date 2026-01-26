@@ -108854,3 +108854,7 @@
 	url = https://github.com/conda-forge/xacro-feedstock.git
 	path = feedstocks/xacro
 	branch = refs/heads/main
+[submodule "pymser"]
+	url = https://github.com/conda-forge/pymser-feedstock.git
+	path = feedstocks/pymser
+	branch = refs/heads/main
