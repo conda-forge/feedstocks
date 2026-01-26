@@ -108878,3 +108878,7 @@
 	url = https://github.com/conda-forge/human_readable-feedstock.git
 	path = feedstocks/human_readable
 	branch = refs/heads/main
+[submodule "cern-sso-cli"]
+	url = https://github.com/conda-forge/cern-sso-cli-feedstock.git
+	path = feedstocks/cern-sso-cli
+	branch = refs/heads/main
