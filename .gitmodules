@@ -108874,3 +108874,7 @@
 	url = https://github.com/conda-forge/fricas-feedstock.git
 	path = feedstocks/fricas
 	branch = refs/heads/main
+[submodule "human_readable"]
+	url = https://github.com/conda-forge/human_readable-feedstock.git
+	path = feedstocks/human_readable
+	branch = refs/heads/main
