@@ -108862,3 +108862,7 @@
 	url = https://github.com/conda-forge/pypsa2smspp-feedstock.git
 	path = feedstocks/pypsa2smspp
 	branch = refs/heads/main
+[submodule "types-shapely"]
+	url = https://github.com/conda-forge/types-shapely-feedstock.git
+	path = feedstocks/types-shapely
+	branch = refs/heads/main
