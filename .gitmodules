@@ -108870,3 +108870,7 @@
 	url = https://github.com/conda-forge/batrachian-toad-feedstock.git
 	path = feedstocks/batrachian-toad
 	branch = refs/heads/main
+[submodule "fricas"]
+	url = https://github.com/conda-forge/fricas-feedstock.git
+	path = feedstocks/fricas
+	branch = refs/heads/main
