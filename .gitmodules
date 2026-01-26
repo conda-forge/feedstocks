@@ -108882,3 +108882,7 @@
 	url = https://github.com/conda-forge/cern-sso-cli-feedstock.git
 	path = feedstocks/cern-sso-cli
 	branch = refs/heads/main
+[submodule "japanize-matplotlib"]
+	url = https://github.com/conda-forge/japanize-matplotlib-feedstock.git
+	path = feedstocks/japanize-matplotlib
+	branch = refs/heads/main
