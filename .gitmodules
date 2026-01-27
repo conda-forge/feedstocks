@@ -108918,3 +108918,7 @@
 	url = https://github.com/conda-forge/pydantic-monty-feedstock.git
 	path = feedstocks/pydantic-monty
 	branch = refs/heads/main
+[submodule "trc-data-reader"]
+	url = https://github.com/conda-forge/trc-data-reader-feedstock.git
+	path = feedstocks/trc-data-reader
+	branch = refs/heads/main
