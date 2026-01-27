@@ -108902,3 +108902,7 @@
 	url = https://github.com/conda-forge/c3d-feedstock.git
 	path = feedstocks/c3d
 	branch = refs/heads/main
+[submodule "toppra"]
+	url = https://github.com/conda-forge/toppra-feedstock.git
+	path = feedstocks/toppra
+	branch = refs/heads/main
