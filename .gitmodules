@@ -108894,3 +108894,7 @@
 	url = https://github.com/conda-forge/lbr-fri-client-sdk-feedstock.git
 	path = feedstocks/lbr-fri-client-sdk
 	branch = refs/heads/main
+[submodule "jupyterlab-logtalk-codemirror-extension"]
+	url = https://github.com/conda-forge/jupyterlab-logtalk-codemirror-extension-feedstock.git
+	path = feedstocks/jupyterlab-logtalk-codemirror-extension
+	branch = refs/heads/main
