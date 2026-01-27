@@ -108886,3 +108886,7 @@
 	url = https://github.com/conda-forge/japanize-matplotlib-feedstock.git
 	path = feedstocks/japanize-matplotlib
 	branch = refs/heads/main
+[submodule "quickjs"]
+	url = https://github.com/conda-forge/quickjs-feedstock.git
+	path = feedstocks/quickjs
+	branch = refs/heads/main
