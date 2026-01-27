@@ -108890,3 +108890,7 @@
 	url = https://github.com/conda-forge/quickjs-feedstock.git
 	path = feedstocks/quickjs
 	branch = refs/heads/main
+[submodule "lbr-fri-client-sdk"]
+	url = https://github.com/conda-forge/lbr-fri-client-sdk-feedstock.git
+	path = feedstocks/lbr-fri-client-sdk
+	branch = refs/heads/main
