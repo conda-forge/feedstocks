@@ -108910,3 +108910,7 @@
 	url = https://github.com/conda-forge/roboplan-feedstock.git
 	path = feedstocks/roboplan
 	branch = refs/heads/main
+[submodule "pyqt-toast-notification"]
+	url = https://github.com/conda-forge/pyqt-toast-notification-feedstock.git
+	path = feedstocks/pyqt-toast-notification
+	branch = refs/heads/main
