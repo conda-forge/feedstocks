@@ -108898,3 +108898,7 @@
 	url = https://github.com/conda-forge/jupyterlab-logtalk-codemirror-extension-feedstock.git
 	path = feedstocks/jupyterlab-logtalk-codemirror-extension
 	branch = refs/heads/main
+[submodule "c3d"]
+	url = https://github.com/conda-forge/c3d-feedstock.git
+	path = feedstocks/c3d
+	branch = refs/heads/main
