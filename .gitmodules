@@ -108926,3 +108926,7 @@
 	url = https://github.com/conda-forge/onnx-cse-feedstock.git
 	path = feedstocks/onnx-cse
 	branch = refs/heads/main
+[submodule "datalab-kernel"]
+	url = https://github.com/conda-forge/datalab-kernel-feedstock.git
+	path = feedstocks/datalab-kernel
+	branch = refs/heads/main
