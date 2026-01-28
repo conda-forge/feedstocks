@@ -108922,3 +108922,7 @@
 	url = https://github.com/conda-forge/trc-data-reader-feedstock.git
 	path = feedstocks/trc-data-reader
 	branch = refs/heads/main
+[submodule "onnx-cse"]
+	url = https://github.com/conda-forge/onnx-cse-feedstock.git
+	path = feedstocks/onnx-cse
+	branch = refs/heads/main
