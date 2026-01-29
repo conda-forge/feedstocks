@@ -108946,3 +108946,7 @@
 	url = https://github.com/conda-forge/jupyterlab-ai-commands-feedstock.git
 	path = feedstocks/jupyterlab-ai-commands
 	branch = refs/heads/main
+[submodule "json-schema-to-pydantic"]
+	url = https://github.com/conda-forge/json-schema-to-pydantic-feedstock.git
+	path = feedstocks/json-schema-to-pydantic
+	branch = refs/heads/main
