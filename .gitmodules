@@ -108934,3 +108934,7 @@
 	url = https://github.com/conda-forge/fetchez-feedstock.git
 	path = feedstocks/fetchez
 	branch = refs/heads/main
+[submodule "pyunigps"]
+	url = https://github.com/conda-forge/pyunigps-feedstock.git
+	path = feedstocks/pyunigps
+	branch = refs/heads/main
