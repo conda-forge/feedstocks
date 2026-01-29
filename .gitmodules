@@ -108930,3 +108930,7 @@
 	url = https://github.com/conda-forge/datalab-kernel-feedstock.git
 	path = feedstocks/datalab-kernel
 	branch = refs/heads/main
+[submodule "fetchez"]
+	url = https://github.com/conda-forge/fetchez-feedstock.git
+	path = feedstocks/fetchez
+	branch = refs/heads/main
