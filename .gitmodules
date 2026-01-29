@@ -108950,3 +108950,7 @@
 	url = https://github.com/conda-forge/json-schema-to-pydantic-feedstock.git
 	path = feedstocks/json-schema-to-pydantic
 	branch = refs/heads/main
+[submodule "pixi-ros"]
+	url = https://github.com/conda-forge/pixi-ros-feedstock.git
+	path = feedstocks/pixi-ros
+	branch = refs/heads/main
