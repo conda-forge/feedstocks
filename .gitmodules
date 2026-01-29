@@ -108942,3 +108942,7 @@
 	url = https://github.com/conda-forge/neqsim-feedstock.git
 	path = feedstocks/neqsim
 	branch = refs/heads/main
+[submodule "jupyterlab-ai-commands"]
+	url = https://github.com/conda-forge/jupyterlab-ai-commands-feedstock.git
+	path = feedstocks/jupyterlab-ai-commands
+	branch = refs/heads/main
