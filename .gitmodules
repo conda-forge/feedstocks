@@ -108978,3 +108978,7 @@
 	url = https://github.com/conda-forge/files_collections-feedstock.git
 	path = feedstocks/files_collections
 	branch = refs/heads/main
+[submodule "trackio"]
+	url = https://github.com/conda-forge/trackio-feedstock.git
+	path = feedstocks/trackio
+	branch = refs/heads/main
