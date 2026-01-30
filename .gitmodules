@@ -108974,3 +108974,7 @@
 	url = https://github.com/conda-forge/redisvl-feedstock.git
 	path = feedstocks/redisvl
 	branch = refs/heads/main
+[submodule "files_collections"]
+	url = https://github.com/conda-forge/files_collections-feedstock.git
+	path = feedstocks/files_collections
+	branch = refs/heads/main
