@@ -108986,3 +108986,7 @@
 	url = https://github.com/conda-forge/hdrhistogram-c-feedstock.git
 	path = feedstocks/hdrhistogram-c
 	branch = refs/heads/main
+[submodule "ls-hpack"]
+	url = https://github.com/conda-forge/ls-hpack-feedstock.git
+	path = feedstocks/ls-hpack
+	branch = refs/heads/main
