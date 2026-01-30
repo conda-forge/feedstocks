@@ -108954,3 +108954,7 @@
 	url = https://github.com/conda-forge/pixi-ros-feedstock.git
 	path = feedstocks/pixi-ros
 	branch = refs/heads/main
+[submodule "doggo"]
+	url = https://github.com/conda-forge/doggo-feedstock.git
+	path = feedstocks/doggo
+	branch = refs/heads/main
