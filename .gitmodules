@@ -108998,3 +108998,7 @@
 	url = https://github.com/conda-forge/obspec-feedstock.git
 	path = feedstocks/obspec
 	branch = refs/heads/main
+[submodule "obspec_utils"]
+	url = https://github.com/conda-forge/obspec_utils-feedstock.git
+	path = feedstocks/obspec_utils
+	branch = refs/heads/main
