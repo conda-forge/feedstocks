@@ -108990,3 +108990,7 @@
 	url = https://github.com/conda-forge/ls-hpack-feedstock.git
 	path = feedstocks/ls-hpack
 	branch = refs/heads/main
+[submodule "libholoscan"]
+	url = https://github.com/conda-forge/libholoscan-feedstock.git
+	path = feedstocks/libholoscan
+	branch = refs/heads/main
