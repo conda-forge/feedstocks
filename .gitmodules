@@ -108982,3 +108982,7 @@
 	url = https://github.com/conda-forge/trackio-feedstock.git
 	path = feedstocks/trackio
 	branch = refs/heads/main
+[submodule "hdrhistogram-c"]
+	url = https://github.com/conda-forge/hdrhistogram-c-feedstock.git
+	path = feedstocks/hdrhistogram-c
+	branch = refs/heads/main
