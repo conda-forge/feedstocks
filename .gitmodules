@@ -108994,3 +108994,7 @@
 	url = https://github.com/conda-forge/libholoscan-feedstock.git
 	path = feedstocks/libholoscan
 	branch = refs/heads/main
+[submodule "obspec"]
+	url = https://github.com/conda-forge/obspec-feedstock.git
+	path = feedstocks/obspec
+	branch = refs/heads/main
