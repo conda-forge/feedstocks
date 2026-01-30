@@ -108966,3 +108966,7 @@
 	url = https://github.com/conda-forge/imate-feedstock.git
 	path = feedstocks/imate
 	branch = refs/heads/main
+[submodule "mne-videobrowser"]
+	url = https://github.com/conda-forge/mne-videobrowser-feedstock.git
+	path = feedstocks/mne-videobrowser
+	branch = refs/heads/main
