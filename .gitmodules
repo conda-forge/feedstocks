@@ -109010,3 +109010,7 @@
 	url = https://github.com/conda-forge/dbscan1d-feedstock.git
 	path = feedstocks/dbscan1d
 	branch = refs/heads/main
+[submodule "vasp-ase"]
+	url = https://github.com/conda-forge/vasp-ase-feedstock.git
+	path = feedstocks/vasp-ase
+	branch = refs/heads/main
