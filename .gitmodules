@@ -109002,3 +109002,7 @@
 	url = https://github.com/conda-forge/obspec_utils-feedstock.git
 	path = feedstocks/obspec_utils
 	branch = refs/heads/main
+[submodule "crosshair"]
+	url = https://github.com/conda-forge/crosshair-feedstock.git
+	path = feedstocks/crosshair
+	branch = refs/heads/main
