@@ -109026,3 +109026,7 @@
 	url = https://github.com/conda-forge/geoagent-feedstock.git
 	path = feedstocks/geoagent
 	branch = refs/heads/main
+[submodule "python3-discogs-client"]
+	url = https://github.com/conda-forge/python3-discogs-client-feedstock.git
+	path = feedstocks/python3-discogs-client
+	branch = refs/heads/main
