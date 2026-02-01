@@ -109018,3 +109018,7 @@
 	url = https://github.com/conda-forge/kmsxx-feedstock.git
 	path = feedstocks/kmsxx
 	branch = refs/heads/main
+[submodule "pystring"]
+	url = https://github.com/conda-forge/pystring-feedstock.git
+	path = feedstocks/pystring
+	branch = refs/heads/main
