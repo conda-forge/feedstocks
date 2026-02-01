@@ -109022,3 +109022,7 @@
 	url = https://github.com/conda-forge/pystring-feedstock.git
 	path = feedstocks/pystring
 	branch = refs/heads/main
+[submodule "geoagent"]
+	url = https://github.com/conda-forge/geoagent-feedstock.git
+	path = feedstocks/geoagent
+	branch = refs/heads/main
