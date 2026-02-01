@@ -109030,3 +109030,7 @@
 	url = https://github.com/conda-forge/python3-discogs-client-feedstock.git
 	path = feedstocks/python3-discogs-client
 	branch = refs/heads/main
+[submodule "dataframe-timeseries-mon"]
+	url = https://github.com/conda-forge/dataframe-timeseries-mon-feedstock.git
+	path = feedstocks/dataframe-timeseries-mon
+	branch = refs/heads/main
