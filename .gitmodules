@@ -109014,3 +109014,7 @@
 	url = https://github.com/conda-forge/vasp-ase-feedstock.git
 	path = feedstocks/vasp-ase
 	branch = refs/heads/main
+[submodule "kmsxx"]
+	url = https://github.com/conda-forge/kmsxx-feedstock.git
+	path = feedstocks/kmsxx
+	branch = refs/heads/main
