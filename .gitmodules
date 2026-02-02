@@ -109058,3 +109058,7 @@
 	url = https://github.com/conda-forge/capella-reader-feedstock.git
 	path = feedstocks/capella-reader
 	branch = refs/heads/main
+[submodule "fps-ystore-sqlite"]
+	url = https://github.com/conda-forge/fps-ystore-sqlite-feedstock.git
+	path = feedstocks/fps-ystore-sqlite
+	branch = refs/heads/main
