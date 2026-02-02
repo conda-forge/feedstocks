@@ -109062,3 +109062,7 @@
 	url = https://github.com/conda-forge/fps-ystore-sqlite-feedstock.git
 	path = feedstocks/fps-ystore-sqlite
 	branch = refs/heads/main
+[submodule "distrobox"]
+	url = https://github.com/conda-forge/distrobox-feedstock.git
+	path = feedstocks/distrobox
+	branch = refs/heads/main
