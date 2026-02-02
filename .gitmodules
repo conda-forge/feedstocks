@@ -109106,3 +109106,7 @@
 	url = https://github.com/conda-forge/r-dfms-feedstock.git
 	path = feedstocks/r-dfms
 	branch = refs/heads/main
+[submodule "pythonicdisort"]
+	url = https://github.com/conda-forge/pythonicdisort-feedstock.git
+	path = feedstocks/pythonicdisort
+	branch = refs/heads/main
