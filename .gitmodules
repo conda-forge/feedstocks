@@ -109046,3 +109046,7 @@
 	url = https://github.com/conda-forge/scooter-feedstock.git
 	path = feedstocks/scooter
 	branch = refs/heads/main
+[submodule "r-h5lite"]
+	url = https://github.com/conda-forge/r-h5lite-feedstock.git
+	path = feedstocks/r-h5lite
+	branch = refs/heads/main
