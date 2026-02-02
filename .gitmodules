@@ -109078,3 +109078,7 @@
 	url = https://github.com/conda-forge/lammpsparser-feedstock.git
 	path = feedstocks/lammpsparser
 	branch = refs/heads/main
+[submodule "hashio"]
+	url = https://github.com/conda-forge/hashio-feedstock.git
+	path = feedstocks/hashio
+	branch = refs/heads/main
