@@ -109066,3 +109066,7 @@
 	url = https://github.com/conda-forge/distrobox-feedstock.git
 	path = feedstocks/distrobox
 	branch = refs/heads/main
+[submodule "cdk8s"]
+	url = https://github.com/conda-forge/cdk8s-feedstock.git
+	path = feedstocks/cdk8s
+	branch = refs/heads/main
