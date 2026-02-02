@@ -109074,3 +109074,7 @@
 	url = https://github.com/conda-forge/mambajs-feedstock.git
 	path = feedstocks/mambajs
 	branch = refs/heads/main
+[submodule "lammpsparser"]
+	url = https://github.com/conda-forge/lammpsparser-feedstock.git
+	path = feedstocks/lammpsparser
+	branch = refs/heads/main
