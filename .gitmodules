@@ -109082,3 +109082,7 @@
 	url = https://github.com/conda-forge/hashio-feedstock.git
 	path = feedstocks/hashio
 	branch = refs/heads/main
+[submodule "pyxtf"]
+	url = https://github.com/conda-forge/pyxtf-feedstock.git
+	path = feedstocks/pyxtf
+	branch = refs/heads/main
