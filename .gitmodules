@@ -109070,3 +109070,7 @@
 	url = https://github.com/conda-forge/cdk8s-feedstock.git
 	path = feedstocks/cdk8s
 	branch = refs/heads/main
+[submodule "mambajs"]
+	url = https://github.com/conda-forge/mambajs-feedstock.git
+	path = feedstocks/mambajs
+	branch = refs/heads/main
