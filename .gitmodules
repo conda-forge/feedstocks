@@ -109090,3 +109090,7 @@
 	url = https://github.com/conda-forge/r-leadercluster-feedstock.git
 	path = feedstocks/r-leadercluster
 	branch = refs/heads/main
+[submodule "r-flownet"]
+	url = https://github.com/conda-forge/r-flownet-feedstock.git
+	path = feedstocks/r-flownet
+	branch = refs/heads/main
