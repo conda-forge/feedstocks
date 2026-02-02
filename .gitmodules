@@ -109098,3 +109098,7 @@
 	url = https://github.com/conda-forge/r-geodist-feedstock.git
 	path = feedstocks/r-geodist
 	branch = refs/heads/main
+[submodule "r-osmclass"]
+	url = https://github.com/conda-forge/r-osmclass-feedstock.git
+	path = feedstocks/r-osmclass
+	branch = refs/heads/main
