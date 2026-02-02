@@ -109050,3 +109050,7 @@
 	url = https://github.com/conda-forge/r-h5lite-feedstock.git
 	path = feedstocks/r-h5lite
 	branch = refs/heads/main
+[submodule "gpx"]
+	url = https://github.com/conda-forge/gpx-feedstock.git
+	path = feedstocks/gpx
+	branch = refs/heads/main
