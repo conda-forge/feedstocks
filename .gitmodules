@@ -109038,3 +109038,7 @@
 	url = https://github.com/conda-forge/celq-feedstock.git
 	path = feedstocks/celq
 	branch = refs/heads/main
+[submodule "genutcstamp"]
+	url = https://github.com/conda-forge/genutcstamp-feedstock.git
+	path = feedstocks/genutcstamp
+	branch = refs/heads/main
