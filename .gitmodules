@@ -109042,3 +109042,7 @@
 	url = https://github.com/conda-forge/genutcstamp-feedstock.git
 	path = feedstocks/genutcstamp
 	branch = refs/heads/main
+[submodule "scooter"]
+	url = https://github.com/conda-forge/scooter-feedstock.git
+	path = feedstocks/scooter
+	branch = refs/heads/main
