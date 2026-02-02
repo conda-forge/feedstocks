@@ -109054,3 +109054,7 @@
 	url = https://github.com/conda-forge/gpx-feedstock.git
 	path = feedstocks/gpx
 	branch = refs/heads/main
+[submodule "capella-reader"]
+	url = https://github.com/conda-forge/capella-reader-feedstock.git
+	path = feedstocks/capella-reader
+	branch = refs/heads/main
