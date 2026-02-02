@@ -109094,3 +109094,7 @@
 	url = https://github.com/conda-forge/r-flownet-feedstock.git
 	path = feedstocks/r-flownet
 	branch = refs/heads/main
+[submodule "r-geodist"]
+	url = https://github.com/conda-forge/r-geodist-feedstock.git
+	path = feedstocks/r-geodist
+	branch = refs/heads/main
