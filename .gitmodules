@@ -109034,3 +109034,7 @@
 	url = https://github.com/conda-forge/dataframe-timeseries-mon-feedstock.git
 	path = feedstocks/dataframe-timeseries-mon
 	branch = refs/heads/main
+[submodule "celq"]
+	url = https://github.com/conda-forge/celq-feedstock.git
+	path = feedstocks/celq
+	branch = refs/heads/main
