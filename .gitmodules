@@ -109142,3 +109142,7 @@
 	url = https://github.com/conda-forge/bibtex-updater-feedstock.git
 	path = feedstocks/bibtex-updater
 	branch = refs/heads/main
+[submodule "khiops-driver-azure"]
+	url = https://github.com/conda-forge/khiops-driver-azure-feedstock.git
+	path = feedstocks/khiops-driver-azure
+	branch = refs/heads/main
