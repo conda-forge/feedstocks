@@ -109134,3 +109134,7 @@
 	url = https://github.com/conda-forge/octave-signal-feedstock.git
 	path = feedstocks/octave-signal
 	branch = refs/heads/main
+[submodule "nest-asyncio2"]
+	url = https://github.com/conda-forge/nest-asyncio2-feedstock.git
+	path = feedstocks/nest-asyncio2
+	branch = refs/heads/main
