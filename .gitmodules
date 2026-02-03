@@ -109130,3 +109130,7 @@
 	url = https://github.com/conda-forge/unocg-feedstock.git
 	path = feedstocks/unocg
 	branch = refs/heads/main
+[submodule "octave-signal"]
+	url = https://github.com/conda-forge/octave-signal-feedstock.git
+	path = feedstocks/octave-signal
+	branch = refs/heads/main
