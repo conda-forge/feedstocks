@@ -109126,3 +109126,7 @@
 	url = https://github.com/conda-forge/sphinx-datatables-feedstock.git
 	path = feedstocks/sphinx-datatables
 	branch = refs/heads/main
+[submodule "unocg"]
+	url = https://github.com/conda-forge/unocg-feedstock.git
+	path = feedstocks/unocg
+	branch = refs/heads/main
