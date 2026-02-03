@@ -109146,3 +109146,7 @@
 	url = https://github.com/conda-forge/khiops-driver-azure-feedstock.git
 	path = feedstocks/khiops-driver-azure
 	branch = refs/heads/main
+[submodule "pycalceff"]
+	url = https://github.com/conda-forge/pycalceff-feedstock.git
+	path = feedstocks/pycalceff
+	branch = refs/heads/main
