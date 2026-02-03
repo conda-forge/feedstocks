@@ -109138,3 +109138,7 @@
 	url = https://github.com/conda-forge/nest-asyncio2-feedstock.git
 	path = feedstocks/nest-asyncio2
 	branch = refs/heads/main
+[submodule "bibtex-updater"]
+	url = https://github.com/conda-forge/bibtex-updater-feedstock.git
+	path = feedstocks/bibtex-updater
+	branch = refs/heads/main
