@@ -109118,3 +109118,7 @@
 	url = https://github.com/conda-forge/octave-stk-feedstock.git
 	path = feedstocks/octave-stk
 	branch = refs/heads/main
+[submodule "octave-instrument-control"]
+	url = https://github.com/conda-forge/octave-instrument-control-feedstock.git
+	path = feedstocks/octave-instrument-control
+	branch = refs/heads/main
