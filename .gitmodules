@@ -109122,3 +109122,7 @@
 	url = https://github.com/conda-forge/octave-instrument-control-feedstock.git
 	path = feedstocks/octave-instrument-control
 	branch = refs/heads/main
+[submodule "sphinx-datatables"]
+	url = https://github.com/conda-forge/sphinx-datatables-feedstock.git
+	path = feedstocks/sphinx-datatables
+	branch = refs/heads/main
