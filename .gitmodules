@@ -109110,3 +109110,7 @@
 	url = https://github.com/conda-forge/pythonicdisort-feedstock.git
 	path = feedstocks/pythonicdisort
 	branch = refs/heads/main
+[submodule "octave-statistics"]
+	url = https://github.com/conda-forge/octave-statistics-feedstock.git
+	path = feedstocks/octave-statistics
+	branch = refs/heads/main
