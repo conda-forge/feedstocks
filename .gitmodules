@@ -109150,3 +109150,7 @@
 	url = https://github.com/conda-forge/pycalceff-feedstock.git
 	path = feedstocks/pycalceff
 	branch = refs/heads/main
+[submodule "langchain-classic"]
+	url = https://github.com/conda-forge/langchain-classic-feedstock.git
+	path = feedstocks/langchain-classic
+	branch = refs/heads/main
