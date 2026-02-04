@@ -109194,3 +109194,7 @@
 	url = https://github.com/conda-forge/django-auth-ldap-feedstock.git
 	path = feedstocks/django-auth-ldap
 	branch = refs/heads/main
+[submodule "blurhash"]
+	url = https://github.com/conda-forge/blurhash-feedstock.git
+	path = feedstocks/blurhash
+	branch = refs/heads/main
