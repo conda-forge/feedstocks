@@ -109186,3 +109186,7 @@
 	url = https://github.com/conda-forge/cutile-python-feedstock.git
 	path = feedstocks/cutile-python
 	branch = refs/heads/main
+[submodule "stressfit"]
+	url = https://github.com/conda-forge/stressfit-feedstock.git
+	path = feedstocks/stressfit
+	branch = refs/heads/main
