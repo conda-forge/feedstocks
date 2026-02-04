@@ -109166,3 +109166,7 @@
 	url = https://github.com/conda-forge/napari-metadata-feedstock.git
 	path = feedstocks/napari-metadata
 	branch = refs/heads/main
+[submodule "zingo"]
+	url = https://github.com/conda-forge/zingo-feedstock.git
+	path = feedstocks/zingo
+	branch = refs/heads/main
