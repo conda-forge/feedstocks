@@ -109162,3 +109162,7 @@
 	url = https://github.com/conda-forge/kyverno-cli-feedstock.git
 	path = feedstocks/kyverno-cli
 	branch = refs/heads/main
+[submodule "napari-metadata"]
+	url = https://github.com/conda-forge/napari-metadata-feedstock.git
+	path = feedstocks/napari-metadata
+	branch = refs/heads/main
