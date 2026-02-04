@@ -109174,3 +109174,7 @@
 	url = https://github.com/conda-forge/jupyter_host_file_picker-feedstock.git
 	path = feedstocks/jupyter_host_file_picker
 	branch = refs/heads/main
+[submodule "sarkit-convert"]
+	url = https://github.com/conda-forge/sarkit-convert-feedstock.git
+	path = feedstocks/sarkit-convert
+	branch = refs/heads/main
