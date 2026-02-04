@@ -109170,3 +109170,7 @@
 	url = https://github.com/conda-forge/zingo-feedstock.git
 	path = feedstocks/zingo
 	branch = refs/heads/main
+[submodule "jupyter_host_file_picker"]
+	url = https://github.com/conda-forge/jupyter_host_file_picker-feedstock.git
+	path = feedstocks/jupyter_host_file_picker
+	branch = refs/heads/main
