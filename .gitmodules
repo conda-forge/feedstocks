@@ -109190,3 +109190,7 @@
 	url = https://github.com/conda-forge/stressfit-feedstock.git
 	path = feedstocks/stressfit
 	branch = refs/heads/main
+[submodule "django-auth-ldap"]
+	url = https://github.com/conda-forge/django-auth-ldap-feedstock.git
+	path = feedstocks/django-auth-ldap
+	branch = refs/heads/main
