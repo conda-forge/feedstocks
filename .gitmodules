@@ -109198,3 +109198,7 @@
 	url = https://github.com/conda-forge/blurhash-feedstock.git
 	path = feedstocks/blurhash
 	branch = refs/heads/main
+[submodule "xarray-erddap"]
+	url = https://github.com/conda-forge/xarray-erddap-feedstock.git
+	path = feedstocks/xarray-erddap
+	branch = refs/heads/main
