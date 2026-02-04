@@ -109182,3 +109182,7 @@
 	url = https://github.com/conda-forge/eztaox-feedstock.git
 	path = feedstocks/eztaox
 	branch = refs/heads/main
+[submodule "cutile-python"]
+	url = https://github.com/conda-forge/cutile-python-feedstock.git
+	path = feedstocks/cutile-python
+	branch = refs/heads/main
