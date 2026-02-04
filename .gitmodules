@@ -109154,3 +109154,7 @@
 	url = https://github.com/conda-forge/langchain-classic-feedstock.git
 	path = feedstocks/langchain-classic
 	branch = refs/heads/main
+[submodule "spacer"]
+	url = https://github.com/conda-forge/spacer-feedstock.git
+	path = feedstocks/spacer
+	branch = refs/heads/main
