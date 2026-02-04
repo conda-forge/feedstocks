@@ -109158,3 +109158,7 @@
 	url = https://github.com/conda-forge/spacer-feedstock.git
 	path = feedstocks/spacer
 	branch = refs/heads/main
+[submodule "kyverno-cli"]
+	url = https://github.com/conda-forge/kyverno-cli-feedstock.git
+	path = feedstocks/kyverno-cli
+	branch = refs/heads/main
