@@ -109206,3 +109206,7 @@
 	url = https://github.com/conda-forge/sqlite-scanner-feedstock.git
 	path = feedstocks/sqlite-scanner
 	branch = refs/heads/main
+[submodule "aiomoto"]
+	url = https://github.com/conda-forge/aiomoto-feedstock.git
+	path = feedstocks/aiomoto
+	branch = refs/heads/main
