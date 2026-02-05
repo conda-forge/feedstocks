@@ -109210,3 +109210,7 @@
 	url = https://github.com/conda-forge/aiomoto-feedstock.git
 	path = feedstocks/aiomoto
 	branch = refs/heads/main
+[submodule "mne-denoise"]
+	url = https://github.com/conda-forge/mne-denoise-feedstock.git
+	path = feedstocks/mne-denoise
+	branch = refs/heads/main
