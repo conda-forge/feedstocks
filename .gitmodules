@@ -109222,3 +109222,7 @@
 	url = https://github.com/conda-forge/libcuobjclient-feedstock.git
 	path = feedstocks/libcuobjclient
 	branch = refs/heads/main
+[submodule "dirac-cwl"]
+	url = https://github.com/conda-forge/dirac-cwl-feedstock.git
+	path = feedstocks/dirac-cwl
+	branch = refs/heads/main
