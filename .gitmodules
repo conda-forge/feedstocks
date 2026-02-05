@@ -109218,3 +109218,7 @@
 	url = https://github.com/conda-forge/tangods-isara-feedstock.git
 	path = feedstocks/tangods-isara
 	branch = refs/heads/main
+[submodule "libcuobjclient"]
+	url = https://github.com/conda-forge/libcuobjclient-feedstock.git
+	path = feedstocks/libcuobjclient
+	branch = refs/heads/main
