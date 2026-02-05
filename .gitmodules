@@ -109226,3 +109226,7 @@
 	url = https://github.com/conda-forge/dirac-cwl-feedstock.git
 	path = feedstocks/dirac-cwl
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-voyageai"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-voyageai-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-voyageai
+	branch = refs/heads/main
