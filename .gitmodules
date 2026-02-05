@@ -109230,3 +109230,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-voyageai-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-voyageai
 	branch = refs/heads/main
+[submodule "apify_fingerprint_datapoints"]
+	url = https://github.com/conda-forge/apify_fingerprint_datapoints-feedstock.git
+	path = feedstocks/apify_fingerprint_datapoints
+	branch = refs/heads/main
