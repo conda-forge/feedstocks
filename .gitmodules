@@ -109214,3 +109214,7 @@
 	url = https://github.com/conda-forge/mne-denoise-feedstock.git
 	path = feedstocks/mne-denoise
 	branch = refs/heads/main
+[submodule "tangods-isara"]
+	url = https://github.com/conda-forge/tangods-isara-feedstock.git
+	path = feedstocks/tangods-isara
+	branch = refs/heads/main
