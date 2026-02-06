@@ -109238,3 +109238,7 @@
 	url = https://github.com/conda-forge/iembot-feedstock.git
 	path = feedstocks/iembot
 	branch = refs/heads/main
+[submodule "bioio-tifffile"]
+	url = https://github.com/conda-forge/bioio-tifffile-feedstock.git
+	path = feedstocks/bioio-tifffile
+	branch = refs/heads/main
