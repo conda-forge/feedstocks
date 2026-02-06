@@ -109242,3 +109242,7 @@
 	url = https://github.com/conda-forge/bioio-tifffile-feedstock.git
 	path = feedstocks/bioio-tifffile
 	branch = refs/heads/main
+[submodule "altimetry-downloader-aviso"]
+	url = https://github.com/conda-forge/altimetry-downloader-aviso-feedstock.git
+	path = feedstocks/altimetry-downloader-aviso
+	branch = refs/heads/main
