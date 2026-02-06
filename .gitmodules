@@ -109234,3 +109234,7 @@
 	url = https://github.com/conda-forge/apify_fingerprint_datapoints-feedstock.git
 	path = feedstocks/apify_fingerprint_datapoints
 	branch = refs/heads/main
+[submodule "iembot"]
+	url = https://github.com/conda-forge/iembot-feedstock.git
+	path = feedstocks/iembot
+	branch = refs/heads/main
