@@ -109246,3 +109246,7 @@
 	url = https://github.com/conda-forge/altimetry-downloader-aviso-feedstock.git
 	path = feedstocks/altimetry-downloader-aviso
 	branch = refs/heads/main
+[submodule "lpsn"]
+	url = https://github.com/conda-forge/lpsn-feedstock.git
+	path = feedstocks/lpsn
+	branch = refs/heads/main
