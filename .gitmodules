@@ -109258,3 +109258,7 @@
 	url = https://github.com/conda-forge/bacdive-feedstock.git
 	path = feedstocks/bacdive
 	branch = refs/heads/main
+[submodule "kernprof"]
+	url = https://github.com/conda-forge/kernprof-feedstock.git
+	path = feedstocks/kernprof
+	branch = refs/heads/main
