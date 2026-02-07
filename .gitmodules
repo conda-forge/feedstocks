@@ -109274,3 +109274,7 @@
 	url = https://github.com/conda-forge/ocaml-cppo-feedstock.git
 	path = feedstocks/ocaml-cppo
 	branch = refs/heads/main
+[submodule "ocaml-dune"]
+	url = https://github.com/conda-forge/ocaml-dune-feedstock.git
+	path = feedstocks/ocaml-dune
+	branch = refs/heads/main
