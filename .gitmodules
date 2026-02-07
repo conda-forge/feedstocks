@@ -109250,3 +109250,7 @@
 	url = https://github.com/conda-forge/lpsn-feedstock.git
 	path = feedstocks/lpsn
 	branch = refs/heads/main
+[submodule "stim-split"]
+	url = https://github.com/conda-forge/stim-split-feedstock.git
+	path = feedstocks/stim-split
+	branch = refs/heads/main
