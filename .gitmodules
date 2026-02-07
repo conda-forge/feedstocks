@@ -109266,3 +109266,7 @@
 	url = https://github.com/conda-forge/fps-yrooms-feedstock.git
 	path = feedstocks/fps-yrooms
 	branch = refs/heads/main
+[submodule "chrony"]
+	url = https://github.com/conda-forge/chrony-feedstock.git
+	path = feedstocks/chrony
+	branch = refs/heads/main
