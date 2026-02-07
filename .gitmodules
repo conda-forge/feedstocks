@@ -109270,3 +109270,7 @@
 	url = https://github.com/conda-forge/chrony-feedstock.git
 	path = feedstocks/chrony
 	branch = refs/heads/main
+[submodule "ocaml-cppo"]
+	url = https://github.com/conda-forge/ocaml-cppo-feedstock.git
+	path = feedstocks/ocaml-cppo
+	branch = refs/heads/main
