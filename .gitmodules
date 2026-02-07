@@ -109278,3 +109278,7 @@
 	url = https://github.com/conda-forge/ocaml-dune-feedstock.git
 	path = feedstocks/ocaml-dune
 	branch = refs/heads/main
+[submodule "ocaml-menhir"]
+	url = https://github.com/conda-forge/ocaml-menhir-feedstock.git
+	path = feedstocks/ocaml-menhir
+	branch = refs/heads/main
