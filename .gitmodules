@@ -109306,3 +109306,7 @@
 	url = https://github.com/conda-forge/msgvault-feedstock.git
 	path = feedstocks/msgvault
 	branch = refs/heads/main
+[submodule "lumen-diff"]
+	url = https://github.com/conda-forge/lumen-diff-feedstock.git
+	path = feedstocks/lumen-diff
+	branch = refs/heads/main
