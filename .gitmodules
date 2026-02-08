@@ -109294,3 +109294,7 @@
 	url = https://github.com/conda-forge/mruby-feedstock.git
 	path = feedstocks/mruby
 	branch = refs/heads/main
+[submodule "picoruby"]
+	url = https://github.com/conda-forge/picoruby-feedstock.git
+	path = feedstocks/picoruby
+	branch = refs/heads/main
