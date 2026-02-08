@@ -109298,3 +109298,7 @@
 	url = https://github.com/conda-forge/picoruby-feedstock.git
 	path = feedstocks/picoruby
 	branch = refs/heads/main
+[submodule "diptox"]
+	url = https://github.com/conda-forge/diptox-feedstock.git
+	path = feedstocks/diptox
+	branch = refs/heads/main
