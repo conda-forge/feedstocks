@@ -109310,3 +109310,7 @@
 	url = https://github.com/conda-forge/lumen-diff-feedstock.git
 	path = feedstocks/lumen-diff
 	branch = refs/heads/main
+[submodule "snowpark-connect"]
+	url = https://github.com/conda-forge/snowpark-connect-feedstock.git
+	path = feedstocks/snowpark-connect
+	branch = refs/heads/main
