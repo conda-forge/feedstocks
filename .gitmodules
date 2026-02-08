@@ -109286,3 +109286,7 @@
 	url = https://github.com/conda-forge/gh-dash-feedstock.git
 	path = feedstocks/gh-dash
 	branch = refs/heads/main
+[submodule "ntfy"]
+	url = https://github.com/conda-forge/ntfy-feedstock.git
+	path = feedstocks/ntfy
+	branch = refs/heads/main
