@@ -109282,3 +109282,7 @@
 	url = https://github.com/conda-forge/ocaml-menhir-feedstock.git
 	path = feedstocks/ocaml-menhir
 	branch = refs/heads/main
+[submodule "gh-dash"]
+	url = https://github.com/conda-forge/gh-dash-feedstock.git
+	path = feedstocks/gh-dash
+	branch = refs/heads/main
