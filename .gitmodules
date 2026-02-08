@@ -109290,3 +109290,7 @@
 	url = https://github.com/conda-forge/ntfy-feedstock.git
 	path = feedstocks/ntfy
 	branch = refs/heads/main
+[submodule "mruby"]
+	url = https://github.com/conda-forge/mruby-feedstock.git
+	path = feedstocks/mruby
+	branch = refs/heads/main
