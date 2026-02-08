@@ -109302,3 +109302,7 @@
 	url = https://github.com/conda-forge/diptox-feedstock.git
 	path = feedstocks/diptox
 	branch = refs/heads/main
+[submodule "msgvault"]
+	url = https://github.com/conda-forge/msgvault-feedstock.git
+	path = feedstocks/msgvault
+	branch = refs/heads/main
