@@ -109326,3 +109326,7 @@
 	url = https://github.com/conda-forge/nulltype-feedstock.git
 	path = feedstocks/nulltype
 	branch = refs/heads/main
+[submodule "async-dsmz"]
+	url = https://github.com/conda-forge/async-dsmz-feedstock.git
+	path = feedstocks/async-dsmz
+	branch = refs/heads/main
