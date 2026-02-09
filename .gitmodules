@@ -109342,3 +109342,7 @@
 	url = https://github.com/conda-forge/tegratop-feedstock.git
 	path = feedstocks/tegratop
 	branch = refs/heads/main
+[submodule "pytrunc"]
+	url = https://github.com/conda-forge/pytrunc-feedstock.git
+	path = feedstocks/pytrunc
+	branch = refs/heads/main
