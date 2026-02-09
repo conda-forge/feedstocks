@@ -109318,3 +109318,7 @@
 	url = https://github.com/conda-forge/chatom-feedstock.git
 	path = feedstocks/chatom
 	branch = refs/heads/main
+[submodule "symphony_bdk_python"]
+	url = https://github.com/conda-forge/symphony_bdk_python-feedstock.git
+	path = feedstocks/symphony_bdk_python
+	branch = refs/heads/main
