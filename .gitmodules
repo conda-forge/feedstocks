@@ -109338,3 +109338,7 @@
 	url = https://github.com/conda-forge/likeness_vitals-feedstock.git
 	path = feedstocks/likeness_vitals
 	branch = refs/heads/main
+[submodule "tegratop"]
+	url = https://github.com/conda-forge/tegratop-feedstock.git
+	path = feedstocks/tegratop
+	branch = refs/heads/main
