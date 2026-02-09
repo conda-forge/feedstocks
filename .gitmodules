@@ -109330,3 +109330,7 @@
 	url = https://github.com/conda-forge/async-dsmz-feedstock.git
 	path = feedstocks/async-dsmz
 	branch = refs/heads/main
+[submodule "pixi-skills"]
+	url = https://github.com/conda-forge/pixi-skills-feedstock.git
+	path = feedstocks/pixi-skills
+	branch = refs/heads/main
