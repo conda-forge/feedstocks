@@ -109314,3 +109314,7 @@
 	url = https://github.com/conda-forge/snowpark-connect-feedstock.git
 	path = feedstocks/snowpark-connect
 	branch = refs/heads/main
+[submodule "chatom"]
+	url = https://github.com/conda-forge/chatom-feedstock.git
+	path = feedstocks/chatom
+	branch = refs/heads/main
