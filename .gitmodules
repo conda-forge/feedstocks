@@ -109354,3 +109354,7 @@
 	url = https://github.com/conda-forge/cadquery-direct-mesh-plugin-feedstock.git
 	path = feedstocks/cadquery-direct-mesh-plugin
 	branch = refs/heads/main
+[submodule "wishlist"]
+	url = https://github.com/conda-forge/wishlist-feedstock.git
+	path = feedstocks/wishlist
+	branch = refs/heads/main
