@@ -109378,3 +109378,7 @@
 	url = https://github.com/conda-forge/pymedm-feedstock.git
 	path = feedstocks/pymedm
 	branch = refs/heads/main
+[submodule "livelike"]
+	url = https://github.com/conda-forge/livelike-feedstock.git
+	path = feedstocks/livelike
+	branch = refs/heads/main
