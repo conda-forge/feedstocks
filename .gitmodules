@@ -109346,3 +109346,7 @@
 	url = https://github.com/conda-forge/pytrunc-feedstock.git
 	path = feedstocks/pytrunc
 	branch = refs/heads/main
+[submodule "r-ggtime"]
+	url = https://github.com/conda-forge/r-ggtime-feedstock.git
+	path = feedstocks/r-ggtime
+	branch = refs/heads/main
