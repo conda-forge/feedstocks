@@ -109362,3 +109362,7 @@
 	url = https://github.com/conda-forge/beetcamp-feedstock.git
 	path = feedstocks/beetcamp
 	branch = refs/heads/main
+[submodule "bun"]
+	url = https://github.com/conda-forge/bun-feedstock.git
+	path = feedstocks/bun
+	branch = refs/heads/main
