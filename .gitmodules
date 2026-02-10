@@ -109350,3 +109350,7 @@
 	url = https://github.com/conda-forge/r-ggtime-feedstock.git
 	path = feedstocks/r-ggtime
 	branch = refs/heads/main
+[submodule "cadquery-direct-mesh-plugin"]
+	url = https://github.com/conda-forge/cadquery-direct-mesh-plugin-feedstock.git
+	path = feedstocks/cadquery-direct-mesh-plugin
+	branch = refs/heads/main
