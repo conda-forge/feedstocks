@@ -109366,3 +109366,7 @@
 	url = https://github.com/conda-forge/bun-feedstock.git
 	path = feedstocks/bun
 	branch = refs/heads/main
+[submodule "lsstdesc-crow"]
+	url = https://github.com/conda-forge/lsstdesc-crow-feedstock.git
+	path = feedstocks/lsstdesc-crow
+	branch = refs/heads/main
