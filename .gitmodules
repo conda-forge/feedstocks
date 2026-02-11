@@ -109382,3 +109382,7 @@
 	url = https://github.com/conda-forge/livelike-feedstock.git
 	path = feedstocks/livelike
 	branch = refs/heads/main
+[submodule "pyfect"]
+	url = https://github.com/conda-forge/pyfect-feedstock.git
+	path = feedstocks/pyfect
+	branch = refs/heads/main
