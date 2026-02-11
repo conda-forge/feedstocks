@@ -109390,3 +109390,7 @@
 	url = https://github.com/conda-forge/tardigrade_hydra-feedstock.git
 	path = feedstocks/tardigrade_hydra
 	branch = refs/heads/main
+[submodule "protozero"]
+	url = https://github.com/conda-forge/protozero-feedstock.git
+	path = feedstocks/protozero
+	branch = refs/heads/main
