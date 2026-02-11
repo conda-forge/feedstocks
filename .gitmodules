@@ -109386,3 +109386,7 @@
 	url = https://github.com/conda-forge/pyfect-feedstock.git
 	path = feedstocks/pyfect
 	branch = refs/heads/main
+[submodule "tardigrade_hydra"]
+	url = https://github.com/conda-forge/tardigrade_hydra-feedstock.git
+	path = feedstocks/tardigrade_hydra
+	branch = refs/heads/main
