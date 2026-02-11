@@ -109394,3 +109394,7 @@
 	url = https://github.com/conda-forge/protozero-feedstock.git
 	path = feedstocks/protozero
 	branch = refs/heads/main
+[submodule "altimetry-io"]
+	url = https://github.com/conda-forge/altimetry-io-feedstock.git
+	path = feedstocks/altimetry-io
+	branch = refs/heads/main
