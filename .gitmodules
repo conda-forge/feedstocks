@@ -109418,3 +109418,7 @@
 	url = https://github.com/conda-forge/r-vinereg-feedstock.git
 	path = feedstocks/r-vinereg
 	branch = refs/heads/main
+[submodule "pysox"]
+	url = https://github.com/conda-forge/pysox-feedstock.git
+	path = feedstocks/pysox
+	branch = refs/heads/main
