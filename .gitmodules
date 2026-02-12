@@ -109422,3 +109422,7 @@
 	url = https://github.com/conda-forge/pysox-feedstock.git
 	path = feedstocks/pysox
 	branch = refs/heads/main
+[submodule "r-cctools"]
+	url = https://github.com/conda-forge/r-cctools-feedstock.git
+	path = feedstocks/r-cctools
+	branch = refs/heads/main
