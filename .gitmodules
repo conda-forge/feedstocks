@@ -109442,3 +109442,7 @@
 	url = https://github.com/conda-forge/wagtail-tinytableblock-feedstock.git
 	path = feedstocks/wagtail-tinytableblock
 	branch = refs/heads/main
+[submodule "vaspparser"]
+	url = https://github.com/conda-forge/vaspparser-feedstock.git
+	path = feedstocks/vaspparser
+	branch = refs/heads/main
