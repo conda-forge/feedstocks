@@ -109406,3 +109406,7 @@
 	url = https://github.com/conda-forge/molscript-feedstock.git
 	path = feedstocks/molscript
 	branch = refs/heads/main
+[submodule "qwen-tts"]
+	url = https://github.com/conda-forge/qwen-tts-feedstock.git
+	path = feedstocks/qwen-tts
+	branch = refs/heads/main
