@@ -109414,3 +109414,7 @@
 	url = https://github.com/conda-forge/r-mmrm-feedstock.git
 	path = feedstocks/r-mmrm
 	branch = refs/heads/main
+[submodule "r-vinereg"]
+	url = https://github.com/conda-forge/r-vinereg-feedstock.git
+	path = feedstocks/r-vinereg
+	branch = refs/heads/main
