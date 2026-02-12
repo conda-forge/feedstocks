@@ -109438,3 +109438,7 @@
 	url = https://github.com/conda-forge/arxiv-latex-cleaner-feedstock.git
 	path = feedstocks/arxiv-latex-cleaner
 	branch = refs/heads/main
+[submodule "wagtail-tinytableblock"]
+	url = https://github.com/conda-forge/wagtail-tinytableblock-feedstock.git
+	path = feedstocks/wagtail-tinytableblock
+	branch = refs/heads/main
