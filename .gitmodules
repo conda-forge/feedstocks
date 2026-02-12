@@ -109402,3 +109402,7 @@
 	url = https://github.com/conda-forge/r-geeasy-feedstock.git
 	path = feedstocks/r-geeasy
 	branch = refs/heads/main
+[submodule "molscript"]
+	url = https://github.com/conda-forge/molscript-feedstock.git
+	path = feedstocks/molscript
+	branch = refs/heads/main
