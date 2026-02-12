@@ -109426,3 +109426,7 @@
 	url = https://github.com/conda-forge/r-cctools-feedstock.git
 	path = feedstocks/r-cctools
 	branch = refs/heads/main
+[submodule "r-vinecopula"]
+	url = https://github.com/conda-forge/r-vinecopula-feedstock.git
+	path = feedstocks/r-vinecopula
+	branch = refs/heads/main
