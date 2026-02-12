@@ -109410,3 +109410,7 @@
 	url = https://github.com/conda-forge/qwen-tts-feedstock.git
 	path = feedstocks/qwen-tts
 	branch = refs/heads/main
+[submodule "r-mmrm"]
+	url = https://github.com/conda-forge/r-mmrm-feedstock.git
+	path = feedstocks/r-mmrm
+	branch = refs/heads/main
