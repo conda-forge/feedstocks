@@ -109466,3 +109466,7 @@
 	url = https://github.com/conda-forge/imf-reader-feedstock.git
 	path = feedstocks/imf-reader
 	branch = refs/heads/main
+[submodule "pydeflate"]
+	url = https://github.com/conda-forge/pydeflate-feedstock.git
+	path = feedstocks/pydeflate
+	branch = refs/heads/main
