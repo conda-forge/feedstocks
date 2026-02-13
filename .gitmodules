@@ -109474,3 +109474,7 @@
 	url = https://github.com/conda-forge/oda-reader-feedstock.git
 	path = feedstocks/oda-reader
 	branch = refs/heads/main
+[submodule "cc-plugin-og"]
+	url = https://github.com/conda-forge/cc-plugin-og-feedstock.git
+	path = feedstocks/cc-plugin-og
+	branch = refs/heads/main
