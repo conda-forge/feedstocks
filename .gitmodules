@@ -109450,3 +109450,7 @@
 	url = https://github.com/conda-forge/dailyerosion-feedstock.git
 	path = feedstocks/dailyerosion
 	branch = refs/heads/main
+[submodule "r-galaxyr"]
+	url = https://github.com/conda-forge/r-galaxyr-feedstock.git
+	path = feedstocks/r-galaxyr
+	branch = refs/heads/main
