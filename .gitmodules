@@ -109478,3 +109478,7 @@
 	url = https://github.com/conda-forge/cc-plugin-og-feedstock.git
 	path = feedstocks/cc-plugin-og
 	branch = refs/heads/main
+[submodule "datadepot"]
+	url = https://github.com/conda-forge/datadepot-feedstock.git
+	path = feedstocks/datadepot
+	branch = refs/heads/main
