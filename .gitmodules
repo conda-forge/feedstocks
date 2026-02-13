@@ -109494,3 +109494,7 @@
 	url = https://github.com/conda-forge/krill-orchestrator-feedstock.git
 	path = feedstocks/krill-orchestrator
 	branch = refs/heads/main
+[submodule "pysgn"]
+	url = https://github.com/conda-forge/pysgn-feedstock.git
+	path = feedstocks/pysgn
+	branch = refs/heads/main
