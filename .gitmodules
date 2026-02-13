@@ -109458,3 +109458,7 @@
 	url = https://github.com/conda-forge/klfitter-feedstock.git
 	path = feedstocks/klfitter
 	branch = refs/heads/main
+[submodule "bayesian-analysis-toolkit"]
+	url = https://github.com/conda-forge/bayesian-analysis-toolkit-feedstock.git
+	path = feedstocks/bayesian-analysis-toolkit
+	branch = refs/heads/main
