@@ -109486,3 +109486,7 @@
 	url = https://github.com/conda-forge/pypsa-explorer-feedstock.git
 	path = feedstocks/pypsa-explorer
 	branch = refs/heads/main
+[submodule "ansys-api-edb"]
+	url = https://github.com/conda-forge/ansys-api-edb-feedstock.git
+	path = feedstocks/ansys-api-edb
+	branch = refs/heads/main
