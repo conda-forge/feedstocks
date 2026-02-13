@@ -109470,3 +109470,7 @@
 	url = https://github.com/conda-forge/pydeflate-feedstock.git
 	path = feedstocks/pydeflate
 	branch = refs/heads/main
+[submodule "oda-reader"]
+	url = https://github.com/conda-forge/oda-reader-feedstock.git
+	path = feedstocks/oda-reader
+	branch = refs/heads/main
