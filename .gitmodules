@@ -109462,3 +109462,7 @@
 	url = https://github.com/conda-forge/bayesian-analysis-toolkit-feedstock.git
 	path = feedstocks/bayesian-analysis-toolkit
 	branch = refs/heads/main
+[submodule "imf-reader"]
+	url = https://github.com/conda-forge/imf-reader-feedstock.git
+	path = feedstocks/imf-reader
+	branch = refs/heads/main
