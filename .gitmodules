@@ -109498,3 +109498,7 @@
 	url = https://github.com/conda-forge/pysgn-feedstock.git
 	path = feedstocks/pysgn
 	branch = refs/heads/main
+[submodule "openresponses-python"]
+	url = https://github.com/conda-forge/openresponses-python-feedstock.git
+	path = feedstocks/openresponses-python
+	branch = refs/heads/main
