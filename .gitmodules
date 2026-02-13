@@ -109490,3 +109490,7 @@
 	url = https://github.com/conda-forge/ansys-api-edb-feedstock.git
 	path = feedstocks/ansys-api-edb
 	branch = refs/heads/main
+[submodule "krill-orchestrator"]
+	url = https://github.com/conda-forge/krill-orchestrator-feedstock.git
+	path = feedstocks/krill-orchestrator
+	branch = refs/heads/main
