@@ -109502,3 +109502,7 @@
 	url = https://github.com/conda-forge/openresponses-python-feedstock.git
 	path = feedstocks/openresponses-python
 	branch = refs/heads/main
+[submodule "trame-dataclass"]
+	url = https://github.com/conda-forge/trame-dataclass-feedstock.git
+	path = feedstocks/trame-dataclass
+	branch = refs/heads/main
