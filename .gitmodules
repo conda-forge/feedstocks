@@ -109506,3 +109506,7 @@
 	url = https://github.com/conda-forge/trame-dataclass-feedstock.git
 	path = feedstocks/trame-dataclass
 	branch = refs/heads/main
+[submodule "e3sm-quickview"]
+	url = https://github.com/conda-forge/e3sm-quickview-feedstock.git
+	path = feedstocks/e3sm-quickview
+	branch = refs/heads/main
