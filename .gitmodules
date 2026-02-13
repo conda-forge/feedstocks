@@ -109482,3 +109482,7 @@
 	url = https://github.com/conda-forge/datadepot-feedstock.git
 	path = feedstocks/datadepot
 	branch = refs/heads/main
+[submodule "pypsa-explorer"]
+	url = https://github.com/conda-forge/pypsa-explorer-feedstock.git
+	path = feedstocks/pypsa-explorer
+	branch = refs/heads/main
