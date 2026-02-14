@@ -109522,3 +109522,7 @@
 	url = https://github.com/conda-forge/openresponses-types-feedstock.git
 	path = feedstocks/openresponses-types
 	branch = refs/heads/main
+[submodule "ee-client"]
+	url = https://github.com/conda-forge/ee-client-feedstock.git
+	path = feedstocks/ee-client
+	branch = refs/heads/main
