@@ -109526,3 +109526,7 @@
 	url = https://github.com/conda-forge/ee-client-feedstock.git
 	path = feedstocks/ee-client
 	branch = refs/heads/main
+[submodule "pixi-browse"]
+	url = https://github.com/conda-forge/pixi-browse-feedstock.git
+	path = feedstocks/pixi-browse
+	branch = refs/heads/main
