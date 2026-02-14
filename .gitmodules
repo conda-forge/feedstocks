@@ -109518,3 +109518,7 @@
 	url = https://github.com/conda-forge/dremio-cli-feedstock.git
 	path = feedstocks/dremio-cli
 	branch = refs/heads/main
+[submodule "openresponses-types"]
+	url = https://github.com/conda-forge/openresponses-types-feedstock.git
+	path = feedstocks/openresponses-types
+	branch = refs/heads/main
