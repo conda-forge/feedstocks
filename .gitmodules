@@ -109514,3 +109514,7 @@
 	url = https://github.com/conda-forge/dremio-simple-query-feedstock.git
 	path = feedstocks/dremio-simple-query
 	branch = refs/heads/main
+[submodule "dremio-cli"]
+	url = https://github.com/conda-forge/dremio-cli-feedstock.git
+	path = feedstocks/dremio-cli
+	branch = refs/heads/main
