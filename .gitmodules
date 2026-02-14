@@ -109510,3 +109510,7 @@
 	url = https://github.com/conda-forge/e3sm-quickview-feedstock.git
 	path = feedstocks/e3sm-quickview
 	branch = refs/heads/main
+[submodule "dremio-simple-query"]
+	url = https://github.com/conda-forge/dremio-simple-query-feedstock.git
+	path = feedstocks/dremio-simple-query
+	branch = refs/heads/main
