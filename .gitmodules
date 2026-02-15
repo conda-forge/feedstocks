@@ -109538,3 +109538,7 @@
 	url = https://github.com/conda-forge/vouch-feedstock-feedstock.git
 	path = feedstocks/vouch-feedstock
 	branch = refs/heads/main
+[submodule "smspp-project"]
+	url = https://github.com/conda-forge/smspp-project-feedstock.git
+	path = feedstocks/smspp-project
+	branch = refs/heads/main
