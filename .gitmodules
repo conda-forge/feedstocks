@@ -109534,3 +109534,7 @@
 	url = https://github.com/conda-forge/polytri-feedstock.git
 	path = feedstocks/polytri
 	branch = refs/heads/main
+[submodule "vouch-feedstock"]
+	url = https://github.com/conda-forge/vouch-feedstock-feedstock.git
+	path = feedstocks/vouch-feedstock
+	branch = refs/heads/main
