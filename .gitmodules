@@ -109550,3 +109550,7 @@
 	url = https://github.com/conda-forge/ansys-edb-core-feedstock.git
 	path = feedstocks/ansys-edb-core
 	branch = refs/heads/main
+[submodule "runps"]
+	url = https://github.com/conda-forge/runps-feedstock.git
+	path = feedstocks/runps
+	branch = refs/heads/main
