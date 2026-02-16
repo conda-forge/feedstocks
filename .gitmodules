@@ -109542,3 +109542,7 @@
 	url = https://github.com/conda-forge/smspp-project-feedstock.git
 	path = feedstocks/smspp-project
 	branch = refs/heads/main
+[submodule "dremioframe"]
+	url = https://github.com/conda-forge/dremioframe-feedstock.git
+	path = feedstocks/dremioframe
+	branch = refs/heads/main
