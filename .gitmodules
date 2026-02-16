@@ -109546,3 +109546,7 @@
 	url = https://github.com/conda-forge/dremioframe-feedstock.git
 	path = feedstocks/dremioframe
 	branch = refs/heads/main
+[submodule "ansys-edb-core"]
+	url = https://github.com/conda-forge/ansys-edb-core-feedstock.git
+	path = feedstocks/ansys-edb-core
+	branch = refs/heads/main
