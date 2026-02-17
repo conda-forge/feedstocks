@@ -109586,3 +109586,7 @@
 	url = https://github.com/conda-forge/sassc-feedstock.git
 	path = feedstocks/sassc
 	branch = refs/heads/main
+[submodule "itstool"]
+	url = https://github.com/conda-forge/itstool-feedstock.git
+	path = feedstocks/itstool
+	branch = refs/heads/main
