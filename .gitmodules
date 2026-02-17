@@ -109578,3 +109578,7 @@
 	url = https://github.com/conda-forge/libadwaita-feedstock.git
 	path = feedstocks/libadwaita
 	branch = refs/heads/main
+[submodule "libsass-native"]
+	url = https://github.com/conda-forge/libsass-native-feedstock.git
+	path = feedstocks/libsass-native
+	branch = refs/heads/main
