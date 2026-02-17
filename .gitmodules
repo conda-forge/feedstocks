@@ -109598,3 +109598,7 @@
 	url = https://github.com/conda-forge/shelved-cache-feedstock.git
 	path = feedstocks/shelved-cache
 	branch = refs/heads/main
+[submodule "timing-asgi"]
+	url = https://github.com/conda-forge/timing-asgi-feedstock.git
+	path = feedstocks/timing-asgi
+	branch = refs/heads/main
