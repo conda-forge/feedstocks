@@ -109558,3 +109558,7 @@
 	url = https://github.com/conda-forge/libshumate-feedstock.git
 	path = feedstocks/libshumate
 	branch = refs/heads/main
+[submodule "raster3d"]
+	url = https://github.com/conda-forge/raster3d-feedstock.git
+	path = feedstocks/raster3d
+	branch = refs/heads/main
