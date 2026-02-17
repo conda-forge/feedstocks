@@ -109602,3 +109602,7 @@
 	url = https://github.com/conda-forge/timing-asgi-feedstock.git
 	path = feedstocks/timing-asgi
 	branch = refs/heads/main
+[submodule "annsel"]
+	url = https://github.com/conda-forge/annsel-feedstock.git
+	path = feedstocks/annsel
+	branch = refs/heads/main
