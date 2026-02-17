@@ -109582,3 +109582,7 @@
 	url = https://github.com/conda-forge/libsass-native-feedstock.git
 	path = feedstocks/libsass-native
 	branch = refs/heads/main
+[submodule "sassc"]
+	url = https://github.com/conda-forge/sassc-feedstock.git
+	path = feedstocks/sassc
+	branch = refs/heads/main
