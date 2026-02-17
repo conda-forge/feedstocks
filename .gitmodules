@@ -109590,3 +109590,7 @@
 	url = https://github.com/conda-forge/itstool-feedstock.git
 	path = feedstocks/itstool
 	branch = refs/heads/main
+[submodule "libxmlb"]
+	url = https://github.com/conda-forge/libxmlb-feedstock.git
+	path = feedstocks/libxmlb
+	branch = refs/heads/main
