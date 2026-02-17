@@ -109606,3 +109606,7 @@
 	url = https://github.com/conda-forge/annsel-feedstock.git
 	path = feedstocks/annsel
 	branch = refs/heads/main
+[submodule "asp-plot"]
+	url = https://github.com/conda-forge/asp-plot-feedstock.git
+	path = feedstocks/asp-plot
+	branch = refs/heads/main
