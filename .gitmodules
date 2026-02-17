@@ -109574,3 +109574,7 @@
 	url = https://github.com/conda-forge/appstream-feedstock.git
 	path = feedstocks/appstream
 	branch = refs/heads/main
+[submodule "libadwaita"]
+	url = https://github.com/conda-forge/libadwaita-feedstock.git
+	path = feedstocks/libadwaita
+	branch = refs/heads/main
