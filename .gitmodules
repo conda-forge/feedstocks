@@ -109554,3 +109554,7 @@
 	url = https://github.com/conda-forge/runps-feedstock.git
 	path = feedstocks/runps
 	branch = refs/heads/main
+[submodule "libshumate"]
+	url = https://github.com/conda-forge/libshumate-feedstock.git
+	path = feedstocks/libshumate
+	branch = refs/heads/main
