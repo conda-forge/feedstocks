@@ -109610,3 +109610,7 @@
 	url = https://github.com/conda-forge/asp-plot-feedstock.git
 	path = feedstocks/asp-plot
 	branch = refs/heads/main
+[submodule "django-ltree"]
+	url = https://github.com/conda-forge/django-ltree-feedstock.git
+	path = feedstocks/django-ltree
+	branch = refs/heads/main
