@@ -109566,3 +109566,7 @@
 	url = https://github.com/conda-forge/json-glib-feedstock.git
 	path = feedstocks/json-glib
 	branch = refs/heads/main
+[submodule "double-down"]
+	url = https://github.com/conda-forge/double-down-feedstock.git
+	path = feedstocks/double-down
+	branch = refs/heads/main
