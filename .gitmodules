@@ -109570,3 +109570,7 @@
 	url = https://github.com/conda-forge/double-down-feedstock.git
 	path = feedstocks/double-down
 	branch = refs/heads/main
+[submodule "appstream"]
+	url = https://github.com/conda-forge/appstream-feedstock.git
+	path = feedstocks/appstream
+	branch = refs/heads/main
