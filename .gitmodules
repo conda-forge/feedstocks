@@ -109562,3 +109562,7 @@
 	url = https://github.com/conda-forge/raster3d-feedstock.git
 	path = feedstocks/raster3d
 	branch = refs/heads/main
+[submodule "json-glib"]
+	url = https://github.com/conda-forge/json-glib-feedstock.git
+	path = feedstocks/json-glib
+	branch = refs/heads/main
