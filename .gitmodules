@@ -109638,3 +109638,7 @@
 	url = https://github.com/conda-forge/r-deeptime-feedstock.git
 	path = feedstocks/r-deeptime
 	branch = refs/heads/main
+[submodule "r-pacotest"]
+	url = https://github.com/conda-forge/r-pacotest-feedstock.git
+	path = feedstocks/r-pacotest
+	branch = refs/heads/main
