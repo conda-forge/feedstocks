@@ -109650,3 +109650,7 @@
 	url = https://github.com/conda-forge/kserve-feedstock.git
 	path = feedstocks/kserve
 	branch = refs/heads/main
+[submodule "promethee"]
+	url = https://github.com/conda-forge/promethee-feedstock.git
+	path = feedstocks/promethee
+	branch = refs/heads/main
