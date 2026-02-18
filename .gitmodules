@@ -109614,3 +109614,7 @@
 	url = https://github.com/conda-forge/django-ltree-feedstock.git
 	path = feedstocks/django-ltree
 	branch = refs/heads/main
+[submodule "libgxrio"]
+	url = https://github.com/conda-forge/libgxrio-feedstock.git
+	path = feedstocks/libgxrio
+	branch = refs/heads/main
