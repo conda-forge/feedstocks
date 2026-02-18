@@ -109634,3 +109634,7 @@
 	url = https://github.com/conda-forge/r-deeptimedata-feedstock.git
 	path = feedstocks/r-deeptimedata
 	branch = refs/heads/main
+[submodule "r-deeptime"]
+	url = https://github.com/conda-forge/r-deeptime-feedstock.git
+	path = feedstocks/r-deeptime
+	branch = refs/heads/main
