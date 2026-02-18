@@ -109630,3 +109630,7 @@
 	url = https://github.com/conda-forge/shapeography-feedstock.git
 	path = feedstocks/shapeography
 	branch = refs/heads/main
+[submodule "r-deeptimedata"]
+	url = https://github.com/conda-forge/r-deeptimedata-feedstock.git
+	path = feedstocks/r-deeptimedata
+	branch = refs/heads/main
