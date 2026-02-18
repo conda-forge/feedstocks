@@ -109646,3 +109646,7 @@
 	url = https://github.com/conda-forge/pybvrf-feedstock.git
 	path = feedstocks/pybvrf
 	branch = refs/heads/main
+[submodule "kserve"]
+	url = https://github.com/conda-forge/kserve-feedstock.git
+	path = feedstocks/kserve
+	branch = refs/heads/main
