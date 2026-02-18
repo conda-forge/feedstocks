@@ -109618,3 +109618,7 @@
 	url = https://github.com/conda-forge/libgxrio-feedstock.git
 	path = feedstocks/libgxrio
 	branch = refs/heads/main
+[submodule "model-diagnostics"]
+	url = https://github.com/conda-forge/model-diagnostics-feedstock.git
+	path = feedstocks/model-diagnostics
+	branch = refs/heads/main
