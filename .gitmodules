@@ -109642,3 +109642,7 @@
 	url = https://github.com/conda-forge/r-pacotest-feedstock.git
 	path = feedstocks/r-pacotest
 	branch = refs/heads/main
+[submodule "pybvrf"]
+	url = https://github.com/conda-forge/pybvrf-feedstock.git
+	path = feedstocks/pybvrf
+	branch = refs/heads/main
