@@ -109622,3 +109622,7 @@
 	url = https://github.com/conda-forge/model-diagnostics-feedstock.git
 	path = feedstocks/model-diagnostics
 	branch = refs/heads/main
+[submodule "qpoint"]
+	url = https://github.com/conda-forge/qpoint-feedstock.git
+	path = feedstocks/qpoint
+	branch = refs/heads/main
