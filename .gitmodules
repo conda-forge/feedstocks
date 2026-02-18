@@ -109626,3 +109626,7 @@
 	url = https://github.com/conda-forge/qpoint-feedstock.git
 	path = feedstocks/qpoint
 	branch = refs/heads/main
+[submodule "shapeography"]
+	url = https://github.com/conda-forge/shapeography-feedstock.git
+	path = feedstocks/shapeography
+	branch = refs/heads/main
