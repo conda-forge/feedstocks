@@ -109722,3 +109722,7 @@
 	url = https://github.com/conda-forge/erdtree-feedstock.git
 	path = feedstocks/erdtree
 	branch = refs/heads/main
+[submodule "copybara"]
+	url = https://github.com/conda-forge/copybara-feedstock.git
+	path = feedstocks/copybara
+	branch = refs/heads/main
