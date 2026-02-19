@@ -109686,3 +109686,7 @@
 	url = https://github.com/conda-forge/tardigrade_cmml-feedstock.git
 	path = feedstocks/tardigrade_cmml
 	branch = refs/heads/main
+[submodule "r-greybox"]
+	url = https://github.com/conda-forge/r-greybox-feedstock.git
+	path = feedstocks/r-greybox
+	branch = refs/heads/main
