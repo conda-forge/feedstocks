@@ -109706,3 +109706,7 @@
 	url = https://github.com/conda-forge/tailspin-feedstock.git
 	path = feedstocks/tailspin
 	branch = refs/heads/main
+[submodule "fresh-editor"]
+	url = https://github.com/conda-forge/fresh-editor-feedstock.git
+	path = feedstocks/fresh-editor
+	branch = refs/heads/main
