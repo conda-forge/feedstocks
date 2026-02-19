@@ -109726,3 +109726,7 @@
 	url = https://github.com/conda-forge/copybara-feedstock.git
 	path = feedstocks/copybara
 	branch = refs/heads/main
+[submodule "go-grip"]
+	url = https://github.com/conda-forge/go-grip-feedstock.git
+	path = feedstocks/go-grip
+	branch = refs/heads/main
