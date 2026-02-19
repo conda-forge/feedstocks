@@ -109714,3 +109714,7 @@
 	url = https://github.com/conda-forge/tirith-feedstock.git
 	path = feedstocks/tirith
 	branch = refs/heads/main
+[submodule "cppbmad"]
+	url = https://github.com/conda-forge/cppbmad-feedstock.git
+	path = feedstocks/cppbmad
+	branch = refs/heads/main
