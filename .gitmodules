@@ -109670,3 +109670,7 @@
 	url = https://github.com/conda-forge/zvtk-feedstock.git
 	path = feedstocks/zvtk
 	branch = refs/heads/main
+[submodule "quadrilateral-fitter"]
+	url = https://github.com/conda-forge/quadrilateral-fitter-feedstock.git
+	path = feedstocks/quadrilateral-fitter
+	branch = refs/heads/main
