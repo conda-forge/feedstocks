@@ -109698,3 +109698,7 @@
 	url = https://github.com/conda-forge/lumen-tui-feedstock.git
 	path = feedstocks/lumen-tui
 	branch = refs/heads/main
+[submodule "corrosion"]
+	url = https://github.com/conda-forge/corrosion-feedstock.git
+	path = feedstocks/corrosion
+	branch = refs/heads/main
