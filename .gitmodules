@@ -109666,3 +109666,7 @@
 	url = https://github.com/conda-forge/r-kdecopula-feedstock.git
 	path = feedstocks/r-kdecopula
 	branch = refs/heads/main
+[submodule "zvtk"]
+	url = https://github.com/conda-forge/zvtk-feedstock.git
+	path = feedstocks/zvtk
+	branch = refs/heads/main
