@@ -109690,3 +109690,7 @@
 	url = https://github.com/conda-forge/r-greybox-feedstock.git
 	path = feedstocks/r-greybox
 	branch = refs/heads/main
+[submodule "r-cosg"]
+	url = https://github.com/conda-forge/r-cosg-feedstock.git
+	path = feedstocks/r-cosg
+	branch = refs/heads/main
