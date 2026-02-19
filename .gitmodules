@@ -109730,3 +109730,7 @@
 	url = https://github.com/conda-forge/go-grip-feedstock.git
 	path = feedstocks/go-grip
 	branch = refs/heads/main
+[submodule "distrobuilder"]
+	url = https://github.com/conda-forge/distrobuilder-feedstock.git
+	path = feedstocks/distrobuilder
+	branch = refs/heads/main
