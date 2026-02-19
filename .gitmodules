@@ -109682,3 +109682,7 @@
 	url = https://github.com/conda-forge/tardigrade_micromorphic_elasto_plasticity-feedstock.git
 	path = feedstocks/tardigrade_micromorphic_elasto_plasticity
 	branch = refs/heads/main
+[submodule "tardigrade_cmml"]
+	url = https://github.com/conda-forge/tardigrade_cmml-feedstock.git
+	path = feedstocks/tardigrade_cmml
+	branch = refs/heads/main
