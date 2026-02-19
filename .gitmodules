@@ -109694,3 +109694,7 @@
 	url = https://github.com/conda-forge/r-cosg-feedstock.git
 	path = feedstocks/r-cosg
 	branch = refs/heads/main
+[submodule "lumen-tui"]
+	url = https://github.com/conda-forge/lumen-tui-feedstock.git
+	path = feedstocks/lumen-tui
+	branch = refs/heads/main
