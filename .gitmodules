@@ -109718,3 +109718,7 @@
 	url = https://github.com/conda-forge/cppbmad-feedstock.git
 	path = feedstocks/cppbmad
 	branch = refs/heads/main
+[submodule "erdtree"]
+	url = https://github.com/conda-forge/erdtree-feedstock.git
+	path = feedstocks/erdtree
+	branch = refs/heads/main
