@@ -109674,3 +109674,7 @@
 	url = https://github.com/conda-forge/quadrilateral-fitter-feedstock.git
 	path = feedstocks/quadrilateral-fitter
 	branch = refs/heads/main
+[submodule "basyx-python-sdk"]
+	url = https://github.com/conda-forge/basyx-python-sdk-feedstock.git
+	path = feedstocks/basyx-python-sdk
+	branch = refs/heads/main
