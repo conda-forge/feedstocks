@@ -109702,3 +109702,7 @@
 	url = https://github.com/conda-forge/corrosion-feedstock.git
 	path = feedstocks/corrosion
 	branch = refs/heads/main
+[submodule "tailspin"]
+	url = https://github.com/conda-forge/tailspin-feedstock.git
+	path = feedstocks/tailspin
+	branch = refs/heads/main
