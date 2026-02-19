@@ -109710,3 +109710,7 @@
 	url = https://github.com/conda-forge/fresh-editor-feedstock.git
 	path = feedstocks/fresh-editor
 	branch = refs/heads/main
+[submodule "tirith"]
+	url = https://github.com/conda-forge/tirith-feedstock.git
+	path = feedstocks/tirith
+	branch = refs/heads/main
