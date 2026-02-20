@@ -109754,3 +109754,7 @@
 	url = https://github.com/conda-forge/rops-cli-feedstock.git
 	path = feedstocks/rops-cli
 	branch = refs/heads/main
+[submodule "nessai-gw"]
+	url = https://github.com/conda-forge/nessai-gw-feedstock.git
+	path = feedstocks/nessai-gw
+	branch = refs/heads/main
