@@ -109734,3 +109734,7 @@
 	url = https://github.com/conda-forge/distrobuilder-feedstock.git
 	path = feedstocks/distrobuilder
 	branch = refs/heads/main
+[submodule "sensai-utils"]
+	url = https://github.com/conda-forge/sensai-utils-feedstock.git
+	path = feedstocks/sensai-utils
+	branch = refs/heads/main
