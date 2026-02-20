@@ -109746,3 +109746,7 @@
 	url = https://github.com/conda-forge/xbudget-feedstock.git
 	path = feedstocks/xbudget
 	branch = refs/heads/main
+[submodule "snmpsim"]
+	url = https://github.com/conda-forge/snmpsim-feedstock.git
+	path = feedstocks/snmpsim
+	branch = refs/heads/main
