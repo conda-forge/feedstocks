@@ -109774,3 +109774,7 @@
 	url = https://github.com/conda-forge/pyloudnorm-feedstock.git
 	path = feedstocks/pyloudnorm
 	branch = refs/heads/main
+[submodule "codeflash-benchmark"]
+	url = https://github.com/conda-forge/codeflash-benchmark-feedstock.git
+	path = feedstocks/codeflash-benchmark
+	branch = refs/heads/main
