@@ -109766,3 +109766,7 @@
 	url = https://github.com/conda-forge/fvdb-core-feedstock.git
 	path = feedstocks/fvdb-core
 	branch = refs/heads/main
+[submodule "msedit"]
+	url = https://github.com/conda-forge/msedit-feedstock.git
+	path = feedstocks/msedit
+	branch = refs/heads/main
