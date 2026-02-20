@@ -109762,3 +109762,7 @@
 	url = https://github.com/conda-forge/surrealdb-python-feedstock.git
 	path = feedstocks/surrealdb-python
 	branch = refs/heads/main
+[submodule "fvdb-core"]
+	url = https://github.com/conda-forge/fvdb-core-feedstock.git
+	path = feedstocks/fvdb-core
+	branch = refs/heads/main
