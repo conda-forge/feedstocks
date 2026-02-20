@@ -109750,3 +109750,7 @@
 	url = https://github.com/conda-forge/snmpsim-feedstock.git
 	path = feedstocks/snmpsim
 	branch = refs/heads/main
+[submodule "rops-cli"]
+	url = https://github.com/conda-forge/rops-cli-feedstock.git
+	path = feedstocks/rops-cli
+	branch = refs/heads/main
