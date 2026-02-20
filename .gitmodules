@@ -109758,3 +109758,7 @@
 	url = https://github.com/conda-forge/nessai-gw-feedstock.git
 	path = feedstocks/nessai-gw
 	branch = refs/heads/main
+[submodule "surrealdb-python"]
+	url = https://github.com/conda-forge/surrealdb-python-feedstock.git
+	path = feedstocks/surrealdb-python
+	branch = refs/heads/main
