@@ -109738,3 +109738,7 @@
 	url = https://github.com/conda-forge/sensai-utils-feedstock.git
 	path = feedstocks/sensai-utils
 	branch = refs/heads/main
+[submodule "serena-agent"]
+	url = https://github.com/conda-forge/serena-agent-feedstock.git
+	path = feedstocks/serena-agent
+	branch = refs/heads/main
