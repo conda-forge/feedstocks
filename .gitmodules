@@ -109770,3 +109770,7 @@
 	url = https://github.com/conda-forge/msedit-feedstock.git
 	path = feedstocks/msedit
 	branch = refs/heads/main
+[submodule "pyloudnorm"]
+	url = https://github.com/conda-forge/pyloudnorm-feedstock.git
+	path = feedstocks/pyloudnorm
+	branch = refs/heads/main
