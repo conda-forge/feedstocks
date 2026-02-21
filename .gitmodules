@@ -109778,3 +109778,7 @@
 	url = https://github.com/conda-forge/codeflash-benchmark-feedstock.git
 	path = feedstocks/codeflash-benchmark
 	branch = refs/heads/main
+[submodule "codeflash"]
+	url = https://github.com/conda-forge/codeflash-feedstock.git
+	path = feedstocks/codeflash
+	branch = refs/heads/main
