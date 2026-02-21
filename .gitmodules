@@ -109786,3 +109786,7 @@
 	url = https://github.com/conda-forge/sectionate-feedstock.git
 	path = feedstocks/sectionate
 	branch = refs/heads/main
+[submodule "nektar"]
+	url = https://github.com/conda-forge/nektar-feedstock.git
+	path = feedstocks/nektar
+	branch = refs/heads/main
