@@ -109790,3 +109790,7 @@
 	url = https://github.com/conda-forge/nektar-feedstock.git
 	path = feedstocks/nektar
 	branch = refs/heads/main
+[submodule "regionate"]
+	url = https://github.com/conda-forge/regionate-feedstock.git
+	path = feedstocks/regionate
+	branch = refs/heads/main
