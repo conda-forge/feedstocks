@@ -109794,3 +109794,7 @@
 	url = https://github.com/conda-forge/regionate-feedstock.git
 	path = feedstocks/regionate
 	branch = refs/heads/main
+[submodule "python-bioc"]
+	url = https://github.com/conda-forge/python-bioc-feedstock.git
+	path = feedstocks/python-bioc
+	branch = refs/heads/main
