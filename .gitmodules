@@ -109798,3 +109798,7 @@
 	url = https://github.com/conda-forge/python-bioc-feedstock.git
 	path = feedstocks/python-bioc
 	branch = refs/heads/main
+[submodule "slurmgrid"]
+	url = https://github.com/conda-forge/slurmgrid-feedstock.git
+	path = feedstocks/slurmgrid
+	branch = refs/heads/main
