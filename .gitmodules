@@ -109810,3 +109810,7 @@
 	url = https://github.com/conda-forge/omniwatermask-feedstock.git
 	path = feedstocks/omniwatermask
 	branch = refs/heads/main
+[submodule "xwmt"]
+	url = https://github.com/conda-forge/xwmt-feedstock.git
+	path = feedstocks/xwmt
+	branch = refs/heads/main
