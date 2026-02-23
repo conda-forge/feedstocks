@@ -109814,3 +109814,7 @@
 	url = https://github.com/conda-forge/xwmt-feedstock.git
 	path = feedstocks/xwmt
 	branch = refs/heads/main
+[submodule "boris-clip"]
+	url = https://github.com/conda-forge/boris-clip-feedstock.git
+	path = feedstocks/boris-clip
+	branch = refs/heads/main
