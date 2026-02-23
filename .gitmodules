@@ -109826,3 +109826,7 @@
 	url = https://github.com/conda-forge/caf.brain-feedstock.git
 	path = feedstocks/caf.brain
 	branch = refs/heads/main
+[submodule "dagmc_h5m_file_inspector"]
+	url = https://github.com/conda-forge/dagmc_h5m_file_inspector-feedstock.git
+	path = feedstocks/dagmc_h5m_file_inspector
+	branch = refs/heads/main
