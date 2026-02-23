@@ -109818,3 +109818,7 @@
 	url = https://github.com/conda-forge/boris-clip-feedstock.git
 	path = feedstocks/boris-clip
 	branch = refs/heads/main
+[submodule "lewis"]
+	url = https://github.com/conda-forge/lewis-feedstock.git
+	path = feedstocks/lewis
+	branch = refs/heads/main
