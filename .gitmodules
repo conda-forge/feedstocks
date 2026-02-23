@@ -109802,3 +109802,7 @@
 	url = https://github.com/conda-forge/slurmgrid-feedstock.git
 	path = feedstocks/slurmgrid
 	branch = refs/heads/main
+[submodule "pyasynchat"]
+	url = https://github.com/conda-forge/pyasynchat-feedstock.git
+	path = feedstocks/pyasynchat
+	branch = refs/heads/main
