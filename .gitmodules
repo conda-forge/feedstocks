@@ -109822,3 +109822,7 @@
 	url = https://github.com/conda-forge/lewis-feedstock.git
 	path = feedstocks/lewis
 	branch = refs/heads/main
+[submodule "caf.brain"]
+	url = https://github.com/conda-forge/caf.brain-feedstock.git
+	path = feedstocks/caf.brain
+	branch = refs/heads/main
