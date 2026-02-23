@@ -109830,3 +109830,7 @@
 	url = https://github.com/conda-forge/dagmc_h5m_file_inspector-feedstock.git
 	path = feedstocks/dagmc_h5m_file_inspector
 	branch = refs/heads/main
+[submodule "damn"]
+	url = https://github.com/conda-forge/damn-feedstock.git
+	path = feedstocks/damn
+	branch = refs/heads/main
