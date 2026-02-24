@@ -109838,3 +109838,7 @@
 	url = https://github.com/conda-forge/sigmatch-feedstock.git
 	path = feedstocks/sigmatch
 	branch = refs/heads/main
+[submodule "xwmb"]
+	url = https://github.com/conda-forge/xwmb-feedstock.git
+	path = feedstocks/xwmb
+	branch = refs/heads/main
