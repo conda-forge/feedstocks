@@ -109850,3 +109850,7 @@
 	url = https://github.com/conda-forge/starlink-pyast-feedstock.git
 	path = feedstocks/starlink-pyast
 	branch = refs/heads/main
+[submodule "heatrapy"]
+	url = https://github.com/conda-forge/heatrapy-feedstock.git
+	path = feedstocks/heatrapy
+	branch = refs/heads/main
