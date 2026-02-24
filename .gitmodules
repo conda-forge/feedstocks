@@ -109842,3 +109842,7 @@
 	url = https://github.com/conda-forge/xwmb-feedstock.git
 	path = feedstocks/xwmb
 	branch = refs/heads/main
+[submodule "alembic-postgresql-enum"]
+	url = https://github.com/conda-forge/alembic-postgresql-enum-feedstock.git
+	path = feedstocks/alembic-postgresql-enum
+	branch = refs/heads/main
