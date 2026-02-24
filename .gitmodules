@@ -109846,3 +109846,7 @@
 	url = https://github.com/conda-forge/alembic-postgresql-enum-feedstock.git
 	path = feedstocks/alembic-postgresql-enum
 	branch = refs/heads/main
+[submodule "starlink-pyast"]
+	url = https://github.com/conda-forge/starlink-pyast-feedstock.git
+	path = feedstocks/starlink-pyast
+	branch = refs/heads/main
