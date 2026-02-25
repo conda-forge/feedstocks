@@ -109874,3 +109874,7 @@
 	url = https://github.com/conda-forge/kgcpy-feedstock.git
 	path = feedstocks/kgcpy
 	branch = refs/heads/main
+[submodule "fast-simplification"]
+	url = https://github.com/conda-forge/fast-simplification-feedstock.git
+	path = feedstocks/fast-simplification
+	branch = refs/heads/main
