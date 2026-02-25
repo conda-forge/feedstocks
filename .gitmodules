@@ -109866,3 +109866,7 @@
 	url = https://github.com/conda-forge/cdsswarm-feedstock.git
 	path = feedstocks/cdsswarm
 	branch = refs/heads/main
+[submodule "rapidocr"]
+	url = https://github.com/conda-forge/rapidocr-feedstock.git
+	path = feedstocks/rapidocr
+	branch = refs/heads/main
