@@ -109870,3 +109870,7 @@
 	url = https://github.com/conda-forge/rapidocr-feedstock.git
 	path = feedstocks/rapidocr
 	branch = refs/heads/main
+[submodule "kgcpy"]
+	url = https://github.com/conda-forge/kgcpy-feedstock.git
+	path = feedstocks/kgcpy
+	branch = refs/heads/main
