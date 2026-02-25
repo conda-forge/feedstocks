@@ -109862,3 +109862,7 @@
 	url = https://github.com/conda-forge/python-to-yaml-dag-converter-mwaa-serverless-feedstock.git
 	path = feedstocks/python-to-yaml-dag-converter-mwaa-serverless
 	branch = refs/heads/main
+[submodule "cdsswarm"]
+	url = https://github.com/conda-forge/cdsswarm-feedstock.git
+	path = feedstocks/cdsswarm
+	branch = refs/heads/main
