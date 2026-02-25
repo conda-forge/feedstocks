@@ -109854,3 +109854,7 @@
 	url = https://github.com/conda-forge/heatrapy-feedstock.git
 	path = feedstocks/heatrapy
 	branch = refs/heads/main
+[submodule "python-pam"]
+	url = https://github.com/conda-forge/python-pam-feedstock.git
+	path = feedstocks/python-pam
+	branch = refs/heads/main
