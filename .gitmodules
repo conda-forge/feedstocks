@@ -109858,3 +109858,7 @@
 	url = https://github.com/conda-forge/python-pam-feedstock.git
 	path = feedstocks/python-pam
 	branch = refs/heads/main
+[submodule "python-to-yaml-dag-converter-mwaa-serverless"]
+	url = https://github.com/conda-forge/python-to-yaml-dag-converter-mwaa-serverless-feedstock.git
+	path = feedstocks/python-to-yaml-dag-converter-mwaa-serverless
+	branch = refs/heads/main
