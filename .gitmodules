@@ -109922,3 +109922,7 @@
 	url = https://github.com/conda-forge/tardigrade_balance_equations-feedstock.git
 	path = feedstocks/tardigrade_balance_equations
 	branch = refs/heads/main
+[submodule "pyearthviz"]
+	url = https://github.com/conda-forge/pyearthviz-feedstock.git
+	path = feedstocks/pyearthviz
+	branch = refs/heads/main
