@@ -109886,3 +109886,7 @@
 	url = https://github.com/conda-forge/livvext-feedstock.git
 	path = feedstocks/livvext
 	branch = refs/heads/main
+[submodule "unitree-sdk2"]
+	url = https://github.com/conda-forge/unitree-sdk2-feedstock.git
+	path = feedstocks/unitree-sdk2
+	branch = refs/heads/main
