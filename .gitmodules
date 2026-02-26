@@ -109906,3 +109906,7 @@
 	url = https://github.com/conda-forge/python-discovery-feedstock.git
 	path = feedstocks/python-discovery
 	branch = refs/heads/main
+[submodule "orca-pi"]
+	url = https://github.com/conda-forge/orca-pi-feedstock.git
+	path = feedstocks/orca-pi
+	branch = refs/heads/main
