@@ -109914,3 +109914,7 @@
 	url = https://github.com/conda-forge/julius-feedstock.git
 	path = feedstocks/julius
 	branch = refs/heads/main
+[submodule "talosctl"]
+	url = https://github.com/conda-forge/talosctl-feedstock.git
+	path = feedstocks/talosctl
+	branch = refs/heads/main
