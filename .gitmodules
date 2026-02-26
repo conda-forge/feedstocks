@@ -109902,3 +109902,7 @@
 	url = https://github.com/conda-forge/nviwatch-feedstock.git
 	path = feedstocks/nviwatch
 	branch = refs/heads/main
+[submodule "python-discovery"]
+	url = https://github.com/conda-forge/python-discovery-feedstock.git
+	path = feedstocks/python-discovery
+	branch = refs/heads/main
