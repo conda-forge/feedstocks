@@ -109910,3 +109910,7 @@
 	url = https://github.com/conda-forge/orca-pi-feedstock.git
 	path = feedstocks/orca-pi
 	branch = refs/heads/main
+[submodule "julius"]
+	url = https://github.com/conda-forge/julius-feedstock.git
+	path = feedstocks/julius
+	branch = refs/heads/main
