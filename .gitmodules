@@ -109926,3 +109926,7 @@
 	url = https://github.com/conda-forge/pyearthviz-feedstock.git
 	path = feedstocks/pyearthviz
 	branch = refs/heads/main
+[submodule "nxs-analysis-tools"]
+	url = https://github.com/conda-forge/nxs-analysis-tools-feedstock.git
+	path = feedstocks/nxs-analysis-tools
+	branch = refs/heads/main
