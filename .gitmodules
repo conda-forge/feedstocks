@@ -109918,3 +109918,7 @@
 	url = https://github.com/conda-forge/talosctl-feedstock.git
 	path = feedstocks/talosctl
 	branch = refs/heads/main
+[submodule "tardigrade_balance_equations"]
+	url = https://github.com/conda-forge/tardigrade_balance_equations-feedstock.git
+	path = feedstocks/tardigrade_balance_equations
+	branch = refs/heads/main
