@@ -109942,3 +109942,7 @@
 	url = https://github.com/conda-forge/enscript-feedstock.git
 	path = feedstocks/enscript
 	branch = refs/heads/main
+[submodule "libao"]
+	url = https://github.com/conda-forge/libao-feedstock.git
+	path = feedstocks/libao
+	branch = refs/heads/main
