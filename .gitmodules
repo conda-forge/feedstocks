@@ -110010,3 +110010,7 @@
 	url = https://github.com/conda-forge/octo-sts-feedstock.git
 	path = feedstocks/octo-sts
 	branch = refs/heads/main
+[submodule "adaptivetesting"]
+	url = https://github.com/conda-forge/adaptivetesting-feedstock.git
+	path = feedstocks/adaptivetesting
+	branch = refs/heads/main
