@@ -109970,3 +109970,7 @@
 	url = https://github.com/conda-forge/gptfdisk-feedstock.git
 	path = feedstocks/gptfdisk
 	branch = refs/heads/main
+[submodule "spell"]
+	url = https://github.com/conda-forge/spell-feedstock.git
+	path = feedstocks/spell
+	branch = refs/heads/main
