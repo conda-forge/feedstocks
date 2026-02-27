@@ -110018,3 +110018,7 @@
 	url = https://github.com/conda-forge/uncalled-for-feedstock.git
 	path = feedstocks/uncalled-for
 	branch = refs/heads/main
+[submodule "rplibs"]
+	url = https://github.com/conda-forge/rplibs-feedstock.git
+	path = feedstocks/rplibs
+	branch = refs/heads/main
