@@ -110002,3 +110002,7 @@
 	url = https://github.com/conda-forge/tomlkit-extras-feedstock.git
 	path = feedstocks/tomlkit-extras
 	branch = refs/heads/main
+[submodule "openapi-downgrade"]
+	url = https://github.com/conda-forge/openapi-downgrade-feedstock.git
+	path = feedstocks/openapi-downgrade
+	branch = refs/heads/main
