@@ -110026,3 +110026,7 @@
 	url = https://github.com/conda-forge/check-dist-feedstock.git
 	path = feedstocks/check-dist
 	branch = refs/heads/main
+[submodule "pyearthviz3d"]
+	url = https://github.com/conda-forge/pyearthviz3d-feedstock.git
+	path = feedstocks/pyearthviz3d
+	branch = refs/heads/main
