@@ -109966,3 +109966,7 @@
 	url = https://github.com/conda-forge/ddrescue-feedstock.git
 	path = feedstocks/ddrescue
 	branch = refs/heads/main
+[submodule "gptfdisk"]
+	url = https://github.com/conda-forge/gptfdisk-feedstock.git
+	path = feedstocks/gptfdisk
+	branch = refs/heads/main
