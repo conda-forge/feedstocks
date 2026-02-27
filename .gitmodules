@@ -110006,3 +110006,7 @@
 	url = https://github.com/conda-forge/openapi-downgrade-feedstock.git
 	path = feedstocks/openapi-downgrade
 	branch = refs/heads/main
+[submodule "octo-sts"]
+	url = https://github.com/conda-forge/octo-sts-feedstock.git
+	path = feedstocks/octo-sts
+	branch = refs/heads/main
