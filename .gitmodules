@@ -109998,3 +109998,7 @@
 	url = https://github.com/conda-forge/openspec-feedstock.git
 	path = feedstocks/openspec
 	branch = refs/heads/main
+[submodule "tomlkit-extras"]
+	url = https://github.com/conda-forge/tomlkit-extras-feedstock.git
+	path = feedstocks/tomlkit-extras
+	branch = refs/heads/main
