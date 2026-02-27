@@ -109990,3 +109990,7 @@
 	url = https://github.com/conda-forge/xarray-prism-feedstock.git
 	path = feedstocks/xarray-prism
 	branch = refs/heads/main
+[submodule "flair-inference"]
+	url = https://github.com/conda-forge/flair-inference-feedstock.git
+	path = feedstocks/flair-inference
+	branch = refs/heads/main
