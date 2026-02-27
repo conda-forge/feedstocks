@@ -109994,3 +109994,7 @@
 	url = https://github.com/conda-forge/flair-inference-feedstock.git
 	path = feedstocks/flair-inference
 	branch = refs/heads/main
+[submodule "openspec"]
+	url = https://github.com/conda-forge/openspec-feedstock.git
+	path = feedstocks/openspec
+	branch = refs/heads/main
