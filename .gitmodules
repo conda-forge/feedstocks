@@ -109958,3 +109958,7 @@
 	url = https://github.com/conda-forge/libid3tag-feedstock.git
 	path = feedstocks/libid3tag
 	branch = refs/heads/main
+[submodule "faad2"]
+	url = https://github.com/conda-forge/faad2-feedstock.git
+	path = feedstocks/faad2
+	branch = refs/heads/main
