@@ -109962,3 +109962,7 @@
 	url = https://github.com/conda-forge/faad2-feedstock.git
 	path = feedstocks/faad2
 	branch = refs/heads/main
+[submodule "ddrescue"]
+	url = https://github.com/conda-forge/ddrescue-feedstock.git
+	path = feedstocks/ddrescue
+	branch = refs/heads/main
