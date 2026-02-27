@@ -109954,3 +109954,7 @@
 	url = https://github.com/conda-forge/direvent-feedstock.git
 	path = feedstocks/direvent
 	branch = refs/heads/main
+[submodule "libid3tag"]
+	url = https://github.com/conda-forge/libid3tag-feedstock.git
+	path = feedstocks/libid3tag
+	branch = refs/heads/main
