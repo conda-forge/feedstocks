@@ -109934,3 +109934,7 @@
 	url = https://github.com/conda-forge/torc-feedstock.git
 	path = feedstocks/torc
 	branch = refs/heads/main
+[submodule "mip-sdk"]
+	url = https://github.com/conda-forge/mip-sdk-feedstock.git
+	path = feedstocks/mip-sdk
+	branch = refs/heads/main
