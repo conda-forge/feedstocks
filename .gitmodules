@@ -109982,3 +109982,7 @@
 	url = https://github.com/conda-forge/ed-feedstock.git
 	path = feedstocks/ed
 	branch = refs/heads/main
+[submodule "combine"]
+	url = https://github.com/conda-forge/combine-feedstock.git
+	path = feedstocks/combine
+	branch = refs/heads/main
