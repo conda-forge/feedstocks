@@ -109978,3 +109978,7 @@
 	url = https://github.com/conda-forge/lance-namespace-feedstock.git
 	path = feedstocks/lance-namespace
 	branch = refs/heads/main
+[submodule "ed"]
+	url = https://github.com/conda-forge/ed-feedstock.git
+	path = feedstocks/ed
+	branch = refs/heads/main
