@@ -109974,3 +109974,7 @@
 	url = https://github.com/conda-forge/spell-feedstock.git
 	path = feedstocks/spell
 	branch = refs/heads/main
+[submodule "lance-namespace"]
+	url = https://github.com/conda-forge/lance-namespace-feedstock.git
+	path = feedstocks/lance-namespace
+	branch = refs/heads/main
