@@ -110022,3 +110022,7 @@
 	url = https://github.com/conda-forge/rplibs-feedstock.git
 	path = feedstocks/rplibs
 	branch = refs/heads/main
+[submodule "check-dist"]
+	url = https://github.com/conda-forge/check-dist-feedstock.git
+	path = feedstocks/check-dist
+	branch = refs/heads/main
