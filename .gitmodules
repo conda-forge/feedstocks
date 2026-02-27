@@ -109938,3 +109938,7 @@
 	url = https://github.com/conda-forge/mip-sdk-feedstock.git
 	path = feedstocks/mip-sdk
 	branch = refs/heads/main
+[submodule "enscript"]
+	url = https://github.com/conda-forge/enscript-feedstock.git
+	path = feedstocks/enscript
+	branch = refs/heads/main
