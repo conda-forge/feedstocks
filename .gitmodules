@@ -109946,3 +109946,7 @@
 	url = https://github.com/conda-forge/libao-feedstock.git
 	path = feedstocks/libao
 	branch = refs/heads/main
+[submodule "cflow"]
+	url = https://github.com/conda-forge/cflow-feedstock.git
+	path = feedstocks/cflow
+	branch = refs/heads/main
