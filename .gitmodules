@@ -109986,3 +109986,7 @@
 	url = https://github.com/conda-forge/combine-feedstock.git
 	path = feedstocks/combine
 	branch = refs/heads/main
+[submodule "xarray-prism"]
+	url = https://github.com/conda-forge/xarray-prism-feedstock.git
+	path = feedstocks/xarray-prism
+	branch = refs/heads/main
