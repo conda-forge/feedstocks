@@ -110058,3 +110058,7 @@
 	url = https://github.com/conda-forge/aws-lambda-runtime-interface-emulator-feedstock.git
 	path = feedstocks/aws-lambda-runtime-interface-emulator
 	branch = refs/heads/main
+[submodule "pyseas"]
+	url = https://github.com/conda-forge/pyseas-feedstock.git
+	path = feedstocks/pyseas
+	branch = refs/heads/main
