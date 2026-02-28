@@ -110062,3 +110062,7 @@
 	url = https://github.com/conda-forge/pyseas-feedstock.git
 	path = feedstocks/pyseas
 	branch = refs/heads/main
+[submodule "r-palaeoverse"]
+	url = https://github.com/conda-forge/r-palaeoverse-feedstock.git
+	path = feedstocks/r-palaeoverse
+	branch = refs/heads/main
