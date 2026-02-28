@@ -110050,3 +110050,7 @@
 	url = https://github.com/conda-forge/wasm-pack-feedstock.git
 	path = feedstocks/wasm-pack
 	branch = refs/heads/main
+[submodule "mdbook-mermaid"]
+	url = https://github.com/conda-forge/mdbook-mermaid-feedstock.git
+	path = feedstocks/mdbook-mermaid
+	branch = refs/heads/main
