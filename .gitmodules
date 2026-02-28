@@ -110054,3 +110054,7 @@
 	url = https://github.com/conda-forge/mdbook-mermaid-feedstock.git
 	path = feedstocks/mdbook-mermaid
 	branch = refs/heads/main
+[submodule "aws-lambda-runtime-interface-emulator"]
+	url = https://github.com/conda-forge/aws-lambda-runtime-interface-emulator-feedstock.git
+	path = feedstocks/aws-lambda-runtime-interface-emulator
+	branch = refs/heads/main
