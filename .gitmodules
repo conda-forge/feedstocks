@@ -110046,3 +110046,7 @@
 	url = https://github.com/conda-forge/unison-feedstock.git
 	path = feedstocks/unison
 	branch = refs/heads/main
+[submodule "wasm-pack"]
+	url = https://github.com/conda-forge/wasm-pack-feedstock.git
+	path = feedstocks/wasm-pack
+	branch = refs/heads/main
