@@ -110038,3 +110038,7 @@
 	url = https://github.com/conda-forge/r-h3jsr-feedstock.git
 	path = feedstocks/r-h3jsr
 	branch = refs/heads/main
+[submodule "diffly"]
+	url = https://github.com/conda-forge/diffly-feedstock.git
+	path = feedstocks/diffly
+	branch = refs/heads/main
