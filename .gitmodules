@@ -110066,3 +110066,7 @@
 	url = https://github.com/conda-forge/r-palaeoverse-feedstock.git
 	path = feedstocks/r-palaeoverse
 	branch = refs/heads/main
+[submodule "uraster"]
+	url = https://github.com/conda-forge/uraster-feedstock.git
+	path = feedstocks/uraster
+	branch = refs/heads/main
