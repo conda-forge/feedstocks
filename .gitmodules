@@ -110070,3 +110070,7 @@
 	url = https://github.com/conda-forge/uraster-feedstock.git
 	path = feedstocks/uraster
 	branch = refs/heads/main
+[submodule "rapidyaml"]
+	url = https://github.com/conda-forge/rapidyaml-feedstock.git
+	path = feedstocks/rapidyaml
+	branch = refs/heads/main
