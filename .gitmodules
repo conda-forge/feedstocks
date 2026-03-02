@@ -110102,3 +110102,7 @@
 	url = https://github.com/conda-forge/lsst-rsp-feedstock.git
 	path = feedstocks/lsst-rsp
 	branch = refs/heads/main
+[submodule "jupyter-ai-router"]
+	url = https://github.com/conda-forge/jupyter-ai-router-feedstock.git
+	path = feedstocks/jupyter-ai-router
+	branch = refs/heads/main
