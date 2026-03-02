@@ -110094,3 +110094,7 @@
 	url = https://github.com/conda-forge/pytoniq-core-fork-feedstock.git
 	path = feedstocks/pytoniq-core-fork
 	branch = refs/heads/main
+[submodule "xpmem"]
+	url = https://github.com/conda-forge/xpmem-feedstock.git
+	path = feedstocks/xpmem
+	branch = refs/heads/main
