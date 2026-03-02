@@ -110082,3 +110082,7 @@
 	url = https://github.com/conda-forge/morphseg-feedstock.git
 	path = feedstocks/morphseg
 	branch = refs/heads/main
+[submodule "graphemeu"]
+	url = https://github.com/conda-forge/graphemeu-feedstock.git
+	path = feedstocks/graphemeu
+	branch = refs/heads/main
