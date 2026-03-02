@@ -110078,3 +110078,7 @@
 	url = https://github.com/conda-forge/entmax-feedstock.git
 	path = feedstocks/entmax
 	branch = refs/heads/main
+[submodule "morphseg"]
+	url = https://github.com/conda-forge/morphseg-feedstock.git
+	path = feedstocks/morphseg
+	branch = refs/heads/main
