@@ -110074,3 +110074,7 @@
 	url = https://github.com/conda-forge/rapidyaml-feedstock.git
 	path = feedstocks/rapidyaml
 	branch = refs/heads/main
+[submodule "entmax"]
+	url = https://github.com/conda-forge/entmax-feedstock.git
+	path = feedstocks/entmax
+	branch = refs/heads/main
