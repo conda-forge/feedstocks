@@ -110086,3 +110086,7 @@
 	url = https://github.com/conda-forge/graphemeu-feedstock.git
 	path = feedstocks/graphemeu
 	branch = refs/heads/main
+[submodule "sphinxcontrib-moderncmakedomain"]
+	url = https://github.com/conda-forge/sphinxcontrib-moderncmakedomain-feedstock.git
+	path = feedstocks/sphinxcontrib-moderncmakedomain
+	branch = refs/heads/main
