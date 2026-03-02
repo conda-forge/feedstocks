@@ -110098,3 +110098,7 @@
 	url = https://github.com/conda-forge/xpmem-feedstock.git
 	path = feedstocks/xpmem
 	branch = refs/heads/main
+[submodule "lsst-rsp"]
+	url = https://github.com/conda-forge/lsst-rsp-feedstock.git
+	path = feedstocks/lsst-rsp
+	branch = refs/heads/main
