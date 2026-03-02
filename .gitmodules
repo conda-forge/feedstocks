@@ -110090,3 +110090,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-moderncmakedomain-feedstock.git
 	path = feedstocks/sphinxcontrib-moderncmakedomain
 	branch = refs/heads/main
+[submodule "pytoniq-core-fork"]
+	url = https://github.com/conda-forge/pytoniq-core-fork-feedstock.git
+	path = feedstocks/pytoniq-core-fork
+	branch = refs/heads/main
