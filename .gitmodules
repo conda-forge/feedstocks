@@ -110122,3 +110122,7 @@
 	url = https://github.com/conda-forge/argo-cli-feedstock.git
 	path = feedstocks/argo-cli
 	branch = refs/heads/main
+[submodule "vcf-rdfizer"]
+	url = https://github.com/conda-forge/vcf-rdfizer-feedstock.git
+	path = feedstocks/vcf-rdfizer
+	branch = refs/heads/main
