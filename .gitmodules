@@ -110146,3 +110146,7 @@
 	url = https://github.com/conda-forge/nebi-feedstock.git
 	path = feedstocks/nebi
 	branch = refs/heads/main
+[submodule "nebi-desktop"]
+	url = https://github.com/conda-forge/nebi-desktop-feedstock.git
+	path = feedstocks/nebi-desktop
+	branch = refs/heads/main
