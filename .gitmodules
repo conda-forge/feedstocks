@@ -110106,3 +110106,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-router-feedstock.git
 	path = feedstocks/jupyter-ai-router
 	branch = refs/heads/main
+[submodule "jupyter-server-mcp"]
+	url = https://github.com/conda-forge/jupyter-server-mcp-feedstock.git
+	path = feedstocks/jupyter-server-mcp
+	branch = refs/heads/main
