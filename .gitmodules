@@ -110138,3 +110138,7 @@
 	url = https://github.com/conda-forge/fastapi-sso-feedstock.git
 	path = feedstocks/fastapi-sso
 	branch = refs/heads/main
+[submodule "nono"]
+	url = https://github.com/conda-forge/nono-feedstock.git
+	path = feedstocks/nono
+	branch = refs/heads/main
