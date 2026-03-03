@@ -110114,3 +110114,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-litellm-feedstock.git
 	path = feedstocks/jupyter-ai-litellm
 	branch = refs/heads/main
+[submodule "jupyterlab-commands-toolkit"]
+	url = https://github.com/conda-forge/jupyterlab-commands-toolkit-feedstock.git
+	path = feedstocks/jupyterlab-commands-toolkit
+	branch = refs/heads/main
