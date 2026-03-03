@@ -110130,3 +110130,7 @@
 	url = https://github.com/conda-forge/scientific-pydantic-feedstock.git
 	path = feedstocks/scientific-pydantic
 	branch = refs/heads/main
+[submodule "canyonbpy"]
+	url = https://github.com/conda-forge/canyonbpy-feedstock.git
+	path = feedstocks/canyonbpy
+	branch = refs/heads/main
