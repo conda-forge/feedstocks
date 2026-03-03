@@ -110126,3 +110126,7 @@
 	url = https://github.com/conda-forge/vcf-rdfizer-feedstock.git
 	path = feedstocks/vcf-rdfizer
 	branch = refs/heads/main
+[submodule "scientific-pydantic"]
+	url = https://github.com/conda-forge/scientific-pydantic-feedstock.git
+	path = feedstocks/scientific-pydantic
+	branch = refs/heads/main
