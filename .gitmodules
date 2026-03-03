@@ -110110,3 +110110,7 @@
 	url = https://github.com/conda-forge/jupyter-server-mcp-feedstock.git
 	path = feedstocks/jupyter-server-mcp
 	branch = refs/heads/main
+[submodule "jupyter-ai-litellm"]
+	url = https://github.com/conda-forge/jupyter-ai-litellm-feedstock.git
+	path = feedstocks/jupyter-ai-litellm
+	branch = refs/heads/main
