@@ -110142,3 +110142,7 @@
 	url = https://github.com/conda-forge/nono-feedstock.git
 	path = feedstocks/nono
 	branch = refs/heads/main
+[submodule "nebi"]
+	url = https://github.com/conda-forge/nebi-feedstock.git
+	path = feedstocks/nebi
+	branch = refs/heads/main
