@@ -110118,3 +110118,7 @@
 	url = https://github.com/conda-forge/jupyterlab-commands-toolkit-feedstock.git
 	path = feedstocks/jupyterlab-commands-toolkit
 	branch = refs/heads/main
+[submodule "argo-cli"]
+	url = https://github.com/conda-forge/argo-cli-feedstock.git
+	path = feedstocks/argo-cli
+	branch = refs/heads/main
