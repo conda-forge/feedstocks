@@ -110134,3 +110134,7 @@
 	url = https://github.com/conda-forge/canyonbpy-feedstock.git
 	path = feedstocks/canyonbpy
 	branch = refs/heads/main
+[submodule "fastapi-sso"]
+	url = https://github.com/conda-forge/fastapi-sso-feedstock.git
+	path = feedstocks/fastapi-sso
+	branch = refs/heads/main
