@@ -110154,3 +110154,7 @@
 	url = https://github.com/conda-forge/r-sqlq-feedstock.git
 	path = feedstocks/r-sqlq
 	branch = refs/heads/main
+[submodule "r-fscache"]
+	url = https://github.com/conda-forge/r-fscache-feedstock.git
+	path = feedstocks/r-fscache
+	branch = refs/heads/main
