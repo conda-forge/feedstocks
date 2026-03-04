@@ -110170,3 +110170,7 @@
 	url = https://github.com/conda-forge/py-oidc-auth-feedstock.git
 	path = feedstocks/py-oidc-auth
 	branch = refs/heads/main
+[submodule "mujoco-warp"]
+	url = https://github.com/conda-forge/mujoco-warp-feedstock.git
+	path = feedstocks/mujoco-warp
+	branch = refs/heads/main
