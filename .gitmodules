@@ -110174,3 +110174,7 @@
 	url = https://github.com/conda-forge/mujoco-warp-feedstock.git
 	path = feedstocks/mujoco-warp
 	branch = refs/heads/main
+[submodule "release-plz"]
+	url = https://github.com/conda-forge/release-plz-feedstock.git
+	path = feedstocks/release-plz
+	branch = refs/heads/main
