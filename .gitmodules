@@ -110186,3 +110186,7 @@
 	url = https://github.com/conda-forge/researchclaw-feedstock.git
 	path = feedstocks/researchclaw
 	branch = refs/heads/main
+[submodule "typdiff"]
+	url = https://github.com/conda-forge/typdiff-feedstock.git
+	path = feedstocks/typdiff
+	branch = refs/heads/main
