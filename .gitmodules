@@ -110178,3 +110178,7 @@
 	url = https://github.com/conda-forge/release-plz-feedstock.git
 	path = feedstocks/release-plz
 	branch = refs/heads/main
+[submodule "py-oidc-auth-client"]
+	url = https://github.com/conda-forge/py-oidc-auth-client-feedstock.git
+	path = feedstocks/py-oidc-auth-client
+	branch = refs/heads/main
