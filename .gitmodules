@@ -110158,3 +110158,7 @@
 	url = https://github.com/conda-forge/r-fscache-feedstock.git
 	path = feedstocks/r-fscache
 	branch = refs/heads/main
+[submodule "r-sched"]
+	url = https://github.com/conda-forge/r-sched-feedstock.git
+	path = feedstocks/r-sched
+	branch = refs/heads/main
