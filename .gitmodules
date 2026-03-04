@@ -110150,3 +110150,7 @@
 	url = https://github.com/conda-forge/nebi-desktop-feedstock.git
 	path = feedstocks/nebi-desktop
 	branch = refs/heads/main
+[submodule "r-sqlq"]
+	url = https://github.com/conda-forge/r-sqlq-feedstock.git
+	path = feedstocks/r-sqlq
+	branch = refs/heads/main
