@@ -110198,3 +110198,7 @@
 	url = https://github.com/conda-forge/geopfa-feedstock.git
 	path = feedstocks/geopfa
 	branch = refs/heads/main
+[submodule "pyroscope-io"]
+	url = https://github.com/conda-forge/pyroscope-io-feedstock.git
+	path = feedstocks/pyroscope-io
+	branch = refs/heads/main
