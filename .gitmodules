@@ -110182,3 +110182,7 @@
 	url = https://github.com/conda-forge/py-oidc-auth-client-feedstock.git
 	path = feedstocks/py-oidc-auth-client
 	branch = refs/heads/main
+[submodule "researchclaw"]
+	url = https://github.com/conda-forge/researchclaw-feedstock.git
+	path = feedstocks/researchclaw
+	branch = refs/heads/main
