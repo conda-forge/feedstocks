@@ -110166,3 +110166,7 @@
 	url = https://github.com/conda-forge/r-r2r-feedstock.git
 	path = feedstocks/r-r2r
 	branch = refs/heads/main
+[submodule "py-oidc-auth"]
+	url = https://github.com/conda-forge/py-oidc-auth-feedstock.git
+	path = feedstocks/py-oidc-auth
+	branch = refs/heads/main
