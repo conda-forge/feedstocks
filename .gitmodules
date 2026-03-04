@@ -110194,3 +110194,7 @@
 	url = https://github.com/conda-forge/skzeros-feedstock.git
 	path = feedstocks/skzeros
 	branch = refs/heads/main
+[submodule "geopfa"]
+	url = https://github.com/conda-forge/geopfa-feedstock.git
+	path = feedstocks/geopfa
+	branch = refs/heads/main
