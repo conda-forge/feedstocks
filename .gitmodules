@@ -110214,3 +110214,7 @@
 	url = https://github.com/conda-forge/beads-feedstock.git
 	path = feedstocks/beads
 	branch = refs/heads/main
+[submodule "diagnostic"]
+	url = https://github.com/conda-forge/diagnostic-feedstock.git
+	path = feedstocks/diagnostic
+	branch = refs/heads/main
