@@ -110206,3 +110206,7 @@
 	url = https://github.com/conda-forge/gha-tools-feedstock.git
 	path = feedstocks/gha-tools
 	branch = refs/heads/main
+[submodule "gws"]
+	url = https://github.com/conda-forge/gws-feedstock.git
+	path = feedstocks/gws
+	branch = refs/heads/main
