@@ -110210,3 +110210,7 @@
 	url = https://github.com/conda-forge/gws-feedstock.git
 	path = feedstocks/gws
 	branch = refs/heads/main
+[submodule "beads"]
+	url = https://github.com/conda-forge/beads-feedstock.git
+	path = feedstocks/beads
+	branch = refs/heads/main
