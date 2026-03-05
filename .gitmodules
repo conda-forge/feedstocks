@@ -110218,3 +110218,7 @@
 	url = https://github.com/conda-forge/diagnostic-feedstock.git
 	path = feedstocks/diagnostic
 	branch = refs/heads/main
+[submodule "pyoxipng"]
+	url = https://github.com/conda-forge/pyoxipng-feedstock.git
+	path = feedstocks/pyoxipng
+	branch = refs/heads/main
