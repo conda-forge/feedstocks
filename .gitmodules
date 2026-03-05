@@ -110222,3 +110222,7 @@
 	url = https://github.com/conda-forge/pyoxipng-feedstock.git
 	path = feedstocks/pyoxipng
 	branch = refs/heads/main
+[submodule "code-notify"]
+	url = https://github.com/conda-forge/code-notify-feedstock.git
+	path = feedstocks/code-notify
+	branch = refs/heads/main
