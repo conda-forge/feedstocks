@@ -110202,3 +110202,7 @@
 	url = https://github.com/conda-forge/pyroscope-io-feedstock.git
 	path = feedstocks/pyroscope-io
 	branch = refs/heads/main
+[submodule "gha-tools"]
+	url = https://github.com/conda-forge/gha-tools-feedstock.git
+	path = feedstocks/gha-tools
+	branch = refs/heads/main
