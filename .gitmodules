@@ -110254,3 +110254,7 @@
 	url = https://github.com/conda-forge/pymatgen-core-feedstock.git
 	path = feedstocks/pymatgen-core
 	branch = refs/heads/main
+[submodule "runpod-python"]
+	url = https://github.com/conda-forge/runpod-python-feedstock.git
+	path = feedstocks/runpod-python
+	branch = refs/heads/main
