@@ -110238,3 +110238,7 @@
 	url = https://github.com/conda-forge/pytest-durations-feedstock.git
 	path = feedstocks/pytest-durations
 	branch = refs/heads/main
+[submodule "sagemaker-schema-inference-artifacts"]
+	url = https://github.com/conda-forge/sagemaker-schema-inference-artifacts-feedstock.git
+	path = feedstocks/sagemaker-schema-inference-artifacts
+	branch = refs/heads/main
