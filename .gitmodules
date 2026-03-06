@@ -110246,3 +110246,7 @@
 	url = https://github.com/conda-forge/cel-python-feedstock.git
 	path = feedstocks/cel-python
 	branch = refs/heads/main
+[submodule "rustling"]
+	url = https://github.com/conda-forge/rustling-feedstock.git
+	path = feedstocks/rustling
+	branch = refs/heads/main
