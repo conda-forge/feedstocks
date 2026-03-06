@@ -110266,3 +110266,7 @@
 	url = https://github.com/conda-forge/cql2-feedstock.git
 	path = feedstocks/cql2
 	branch = refs/heads/main
+[submodule "amplitude-analytics"]
+	url = https://github.com/conda-forge/amplitude-analytics-feedstock.git
+	path = feedstocks/amplitude-analytics
+	branch = refs/heads/main
