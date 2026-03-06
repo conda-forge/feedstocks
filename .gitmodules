@@ -110242,3 +110242,7 @@
 	url = https://github.com/conda-forge/sagemaker-schema-inference-artifacts-feedstock.git
 	path = feedstocks/sagemaker-schema-inference-artifacts
 	branch = refs/heads/main
+[submodule "cel-python"]
+	url = https://github.com/conda-forge/cel-python-feedstock.git
+	path = feedstocks/cel-python
+	branch = refs/heads/main
