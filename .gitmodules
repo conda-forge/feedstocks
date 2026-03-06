@@ -110226,3 +110226,7 @@
 	url = https://github.com/conda-forge/code-notify-feedstock.git
 	path = feedstocks/code-notify
 	branch = refs/heads/main
+[submodule "maketables"]
+	url = https://github.com/conda-forge/maketables-feedstock.git
+	path = feedstocks/maketables
+	branch = refs/heads/main
