@@ -110234,3 +110234,7 @@
 	url = https://github.com/conda-forge/fastframes-feedstock.git
 	path = feedstocks/fastframes
 	branch = refs/heads/main
+[submodule "pytest-durations"]
+	url = https://github.com/conda-forge/pytest-durations-feedstock.git
+	path = feedstocks/pytest-durations
+	branch = refs/heads/main
