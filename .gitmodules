@@ -110258,3 +110258,7 @@
 	url = https://github.com/conda-forge/runpod-python-feedstock.git
 	path = feedstocks/runpod-python
 	branch = refs/heads/main
+[submodule "pytensor-distributions"]
+	url = https://github.com/conda-forge/pytensor-distributions-feedstock.git
+	path = feedstocks/pytensor-distributions
+	branch = refs/heads/main
