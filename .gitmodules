@@ -110250,3 +110250,7 @@
 	url = https://github.com/conda-forge/rustling-feedstock.git
 	path = feedstocks/rustling
 	branch = refs/heads/main
+[submodule "pymatgen-core"]
+	url = https://github.com/conda-forge/pymatgen-core-feedstock.git
+	path = feedstocks/pymatgen-core
+	branch = refs/heads/main
