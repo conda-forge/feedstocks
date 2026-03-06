@@ -110230,3 +110230,7 @@
 	url = https://github.com/conda-forge/maketables-feedstock.git
 	path = feedstocks/maketables
 	branch = refs/heads/main
+[submodule "fastframes"]
+	url = https://github.com/conda-forge/fastframes-feedstock.git
+	path = feedstocks/fastframes
+	branch = refs/heads/main
