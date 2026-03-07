@@ -110270,3 +110270,7 @@
 	url = https://github.com/conda-forge/amplitude-analytics-feedstock.git
 	path = feedstocks/amplitude-analytics
 	branch = refs/heads/main
+[submodule "gh-enhance"]
+	url = https://github.com/conda-forge/gh-enhance-feedstock.git
+	path = feedstocks/gh-enhance
+	branch = refs/heads/main
