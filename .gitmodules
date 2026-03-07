@@ -110282,3 +110282,7 @@
 	url = https://github.com/conda-forge/diffnav-feedstock.git
 	path = feedstocks/diffnav
 	branch = refs/heads/main
+[submodule "libparallelproj"]
+	url = https://github.com/conda-forge/libparallelproj-feedstock.git
+	path = feedstocks/libparallelproj
+	branch = refs/heads/main
