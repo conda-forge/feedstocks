@@ -110278,3 +110278,7 @@
 	url = https://github.com/conda-forge/iamb-feedstock.git
 	path = feedstocks/iamb
 	branch = refs/heads/main
+[submodule "diffnav"]
+	url = https://github.com/conda-forge/diffnav-feedstock.git
+	path = feedstocks/diffnav
+	branch = refs/heads/main
