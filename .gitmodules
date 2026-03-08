@@ -110290,3 +110290,7 @@
 	url = https://github.com/conda-forge/biomcp-feedstock.git
 	path = feedstocks/biomcp
 	branch = refs/heads/main
+[submodule "blandify"]
+	url = https://github.com/conda-forge/blandify-feedstock.git
+	path = feedstocks/blandify
+	branch = refs/heads/main
