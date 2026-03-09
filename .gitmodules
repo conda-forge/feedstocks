@@ -110298,3 +110298,7 @@
 	url = https://github.com/conda-forge/itkwasm-feedstock.git
 	path = feedstocks/itkwasm
 	branch = refs/heads/main
+[submodule "gwtc_analysis"]
+	url = https://github.com/conda-forge/gwtc_analysis-feedstock.git
+	path = feedstocks/gwtc_analysis
+	branch = refs/heads/main
