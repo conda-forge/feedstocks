@@ -110314,3 +110314,7 @@
 	url = https://github.com/conda-forge/pycantonese-feedstock.git
 	path = feedstocks/pycantonese
 	branch = refs/heads/main
+[submodule "gaphas"]
+	url = https://github.com/conda-forge/gaphas-feedstock.git
+	path = feedstocks/gaphas
+	branch = refs/heads/main
