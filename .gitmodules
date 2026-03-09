@@ -110322,3 +110322,7 @@
 	url = https://github.com/conda-forge/easyreflectometry-feedstock.git
 	path = feedstocks/easyreflectometry
 	branch = refs/heads/main
+[submodule "coacd"]
+	url = https://github.com/conda-forge/coacd-feedstock.git
+	path = feedstocks/coacd
+	branch = refs/heads/main
