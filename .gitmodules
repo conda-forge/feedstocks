@@ -110350,3 +110350,7 @@
 	url = https://github.com/conda-forge/sagemaker-mlops-feedstock.git
 	path = feedstocks/sagemaker-mlops
 	branch = refs/heads/main
+[submodule "r-qmap"]
+	url = https://github.com/conda-forge/r-qmap-feedstock.git
+	path = feedstocks/r-qmap
+	branch = refs/heads/main
