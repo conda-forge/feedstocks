@@ -110306,3 +110306,7 @@
 	url = https://github.com/conda-forge/lerobot-feedstock.git
 	path = feedstocks/lerobot
 	branch = refs/heads/main
+[submodule "paretobench"]
+	url = https://github.com/conda-forge/paretobench-feedstock.git
+	path = feedstocks/paretobench
+	branch = refs/heads/main
