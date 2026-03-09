@@ -110338,3 +110338,7 @@
 	url = https://github.com/conda-forge/insarhub-feedstock.git
 	path = feedstocks/insarhub
 	branch = refs/heads/main
+[submodule "sagemaker-train"]
+	url = https://github.com/conda-forge/sagemaker-train-feedstock.git
+	path = feedstocks/sagemaker-train
+	branch = refs/heads/main
