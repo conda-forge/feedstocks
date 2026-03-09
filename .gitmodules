@@ -110326,3 +110326,7 @@
 	url = https://github.com/conda-forge/coacd-feedstock.git
 	path = feedstocks/coacd
 	branch = refs/heads/main
+[submodule "scriptrunner-gui"]
+	url = https://github.com/conda-forge/scriptrunner-gui-feedstock.git
+	path = feedstocks/scriptrunner-gui
+	branch = refs/heads/main
