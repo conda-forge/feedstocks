@@ -110302,3 +110302,7 @@
 	url = https://github.com/conda-forge/gwtc_analysis-feedstock.git
 	path = feedstocks/gwtc_analysis
 	branch = refs/heads/main
+[submodule "lerobot"]
+	url = https://github.com/conda-forge/lerobot-feedstock.git
+	path = feedstocks/lerobot
+	branch = refs/heads/main
