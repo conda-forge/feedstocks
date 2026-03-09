@@ -110346,3 +110346,7 @@
 	url = https://github.com/conda-forge/sagemaker-serve-feedstock.git
 	path = feedstocks/sagemaker-serve
 	branch = refs/heads/main
+[submodule "sagemaker-mlops"]
+	url = https://github.com/conda-forge/sagemaker-mlops-feedstock.git
+	path = feedstocks/sagemaker-mlops
+	branch = refs/heads/main
