@@ -110390,3 +110390,7 @@
 	url = https://github.com/conda-forge/omer-bio-feedstock.git
 	path = feedstocks/omer-bio
 	branch = refs/heads/main
+[submodule "itkwasm-downsample-emscripten"]
+	url = https://github.com/conda-forge/itkwasm-downsample-emscripten-feedstock.git
+	path = feedstocks/itkwasm-downsample-emscripten
+	branch = refs/heads/main
