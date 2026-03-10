@@ -110354,3 +110354,7 @@
 	url = https://github.com/conda-forge/r-qmap-feedstock.git
 	path = feedstocks/r-qmap
 	branch = refs/heads/main
+[submodule "picamera2"]
+	url = https://github.com/conda-forge/picamera2-feedstock.git
+	path = feedstocks/picamera2
+	branch = refs/heads/main
