@@ -110366,3 +110366,7 @@
 	url = https://github.com/conda-forge/cf-job-logs-feedstock.git
 	path = feedstocks/cf-job-logs
 	branch = refs/heads/main
+[submodule "exoscale-cli"]
+	url = https://github.com/conda-forge/exoscale-cli-feedstock.git
+	path = feedstocks/exoscale-cli
+	branch = refs/heads/main
