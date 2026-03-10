@@ -110402,3 +110402,7 @@
 	url = https://github.com/conda-forge/openmeteo-sdk-feedstock.git
 	path = feedstocks/openmeteo-sdk
 	branch = refs/heads/main
+[submodule "better-exceptions"]
+	url = https://github.com/conda-forge/better-exceptions-feedstock.git
+	path = feedstocks/better-exceptions
+	branch = refs/heads/main
