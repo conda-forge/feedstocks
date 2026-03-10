@@ -110358,3 +110358,7 @@
 	url = https://github.com/conda-forge/picamera2-feedstock.git
 	path = feedstocks/picamera2
 	branch = refs/heads/main
+[submodule "python-generic"]
+	url = https://github.com/conda-forge/python-generic-feedstock.git
+	path = feedstocks/python-generic
+	branch = refs/heads/main
