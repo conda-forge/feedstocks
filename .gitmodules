@@ -110394,3 +110394,7 @@
 	url = https://github.com/conda-forge/itkwasm-downsample-emscripten-feedstock.git
 	path = feedstocks/itkwasm-downsample-emscripten
 	branch = refs/heads/main
+[submodule "e3sm_compareview"]
+	url = https://github.com/conda-forge/e3sm_compareview-feedstock.git
+	path = feedstocks/e3sm_compareview
+	branch = refs/heads/main
