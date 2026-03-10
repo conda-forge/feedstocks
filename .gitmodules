@@ -110362,3 +110362,7 @@
 	url = https://github.com/conda-forge/python-generic-feedstock.git
 	path = feedstocks/python-generic
 	branch = refs/heads/main
+[submodule "cf-job-logs"]
+	url = https://github.com/conda-forge/cf-job-logs-feedstock.git
+	path = feedstocks/cf-job-logs
+	branch = refs/heads/main
