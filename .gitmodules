@@ -110406,3 +110406,7 @@
 	url = https://github.com/conda-forge/better-exceptions-feedstock.git
 	path = feedstocks/better-exceptions
 	branch = refs/heads/main
+[submodule "libcudla"]
+	url = https://github.com/conda-forge/libcudla-feedstock.git
+	path = feedstocks/libcudla
+	branch = refs/heads/main
