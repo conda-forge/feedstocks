@@ -110398,3 +110398,7 @@
 	url = https://github.com/conda-forge/e3sm_compareview-feedstock.git
 	path = feedstocks/e3sm_compareview
 	branch = refs/heads/main
+[submodule "openmeteo-sdk"]
+	url = https://github.com/conda-forge/openmeteo-sdk-feedstock.git
+	path = feedstocks/openmeteo-sdk
+	branch = refs/heads/main
