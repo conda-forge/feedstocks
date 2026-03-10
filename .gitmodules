@@ -110370,3 +110370,7 @@
 	url = https://github.com/conda-forge/exoscale-cli-feedstock.git
 	path = feedstocks/exoscale-cli
 	branch = refs/heads/main
+[submodule "pytas"]
+	url = https://github.com/conda-forge/pytas-feedstock.git
+	path = feedstocks/pytas
+	branch = refs/heads/main
