@@ -110374,3 +110374,7 @@
 	url = https://github.com/conda-forge/pytas-feedstock.git
 	path = feedstocks/pytas
 	branch = refs/heads/main
+[submodule "zuban"]
+	url = https://github.com/conda-forge/zuban-feedstock.git
+	path = feedstocks/zuban
+	branch = refs/heads/main
