@@ -110386,3 +110386,7 @@
 	url = https://github.com/conda-forge/openseppo-feedstock.git
 	path = feedstocks/openseppo
 	branch = refs/heads/main
+[submodule "omer-bio"]
+	url = https://github.com/conda-forge/omer-bio-feedstock.git
+	path = feedstocks/omer-bio
+	branch = refs/heads/main
