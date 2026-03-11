@@ -110410,3 +110410,7 @@
 	url = https://github.com/conda-forge/libcudla-feedstock.git
 	path = feedstocks/libcudla
 	branch = refs/heads/main
+[submodule "openmeteo_requests"]
+	url = https://github.com/conda-forge/openmeteo_requests-feedstock.git
+	path = feedstocks/openmeteo_requests
+	branch = refs/heads/main
