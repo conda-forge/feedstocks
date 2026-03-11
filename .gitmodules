@@ -110414,3 +110414,7 @@
 	url = https://github.com/conda-forge/openmeteo_requests-feedstock.git
 	path = feedstocks/openmeteo_requests
 	branch = refs/heads/main
+[submodule "luminet"]
+	url = https://github.com/conda-forge/luminet-feedstock.git
+	path = feedstocks/luminet
+	branch = refs/heads/main
