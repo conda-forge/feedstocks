@@ -110426,3 +110426,7 @@
 	url = https://github.com/conda-forge/gaphor-feedstock.git
 	path = feedstocks/gaphor
 	branch = refs/heads/main
+[submodule "zarf"]
+	url = https://github.com/conda-forge/zarf-feedstock.git
+	path = feedstocks/zarf
+	branch = refs/heads/main
