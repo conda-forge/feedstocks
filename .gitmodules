@@ -110418,3 +110418,7 @@
 	url = https://github.com/conda-forge/luminet-feedstock.git
 	path = feedstocks/luminet
 	branch = refs/heads/main
+[submodule "bssunfold"]
+	url = https://github.com/conda-forge/bssunfold-feedstock.git
+	path = feedstocks/bssunfold
+	branch = refs/heads/main
