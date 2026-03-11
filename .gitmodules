@@ -110430,3 +110430,7 @@
 	url = https://github.com/conda-forge/zarf-feedstock.git
 	path = feedstocks/zarf
 	branch = refs/heads/main
+[submodule "pylibczirw"]
+	url = https://github.com/conda-forge/pylibczirw-feedstock.git
+	path = feedstocks/pylibczirw
+	branch = refs/heads/main
