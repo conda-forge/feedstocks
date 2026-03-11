@@ -110438,3 +110438,7 @@
 	url = https://github.com/conda-forge/earthkit-regrid-feedstock.git
 	path = feedstocks/earthkit-regrid
 	branch = refs/heads/main
+[submodule "jupyterlab-notebook-awareness"]
+	url = https://github.com/conda-forge/jupyterlab-notebook-awareness-feedstock.git
+	path = feedstocks/jupyterlab-notebook-awareness
+	branch = refs/heads/main
