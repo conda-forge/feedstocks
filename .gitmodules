@@ -110434,3 +110434,7 @@
 	url = https://github.com/conda-forge/pylibczirw-feedstock.git
 	path = feedstocks/pylibczirw
 	branch = refs/heads/main
+[submodule "earthkit-regrid"]
+	url = https://github.com/conda-forge/earthkit-regrid-feedstock.git
+	path = feedstocks/earthkit-regrid
+	branch = refs/heads/main
