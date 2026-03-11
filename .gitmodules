@@ -110422,3 +110422,7 @@
 	url = https://github.com/conda-forge/bssunfold-feedstock.git
 	path = feedstocks/bssunfold
 	branch = refs/heads/main
+[submodule "gaphor"]
+	url = https://github.com/conda-forge/gaphor-feedstock.git
+	path = feedstocks/gaphor
+	branch = refs/heads/main
