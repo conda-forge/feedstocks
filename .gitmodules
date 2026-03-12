@@ -110510,3 +110510,7 @@
 	url = https://github.com/conda-forge/air-feedstock.git
 	path = feedstocks/air
 	branch = refs/heads/main
+[submodule "kuva"]
+	url = https://github.com/conda-forge/kuva-feedstock.git
+	path = feedstocks/kuva
+	branch = refs/heads/main
