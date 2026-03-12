@@ -110466,3 +110466,7 @@
 	url = https://github.com/conda-forge/redcamel-feedstock.git
 	path = feedstocks/redcamel
 	branch = refs/heads/main
+[submodule "scope-bio"]
+	url = https://github.com/conda-forge/scope-bio-feedstock.git
+	path = feedstocks/scope-bio
+	branch = refs/heads/main
