@@ -110474,3 +110474,7 @@
 	url = https://github.com/conda-forge/pycomplexheatmap-feedstock.git
 	path = feedstocks/pycomplexheatmap
 	branch = refs/heads/main
+[submodule "itkwasm-downsample-wasi"]
+	url = https://github.com/conda-forge/itkwasm-downsample-wasi-feedstock.git
+	path = feedstocks/itkwasm-downsample-wasi
+	branch = refs/heads/main
