@@ -110446,3 +110446,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-magic-commands-feedstock.git
 	path = feedstocks/jupyter-ai-magic-commands
 	branch = refs/heads/main
+[submodule "h5cpp"]
+	url = https://github.com/conda-forge/h5cpp-feedstock.git
+	path = feedstocks/h5cpp
+	branch = refs/heads/main
