@@ -110462,3 +110462,7 @@
 	url = https://github.com/conda-forge/chemformula-feedstock.git
 	path = feedstocks/chemformula
 	branch = refs/heads/main
+[submodule "redcamel"]
+	url = https://github.com/conda-forge/redcamel-feedstock.git
+	path = feedstocks/redcamel
+	branch = refs/heads/main
