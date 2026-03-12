@@ -110490,3 +110490,7 @@
 	url = https://github.com/conda-forge/bffile-feedstock.git
 	path = feedstocks/bffile
 	branch = refs/heads/main
+[submodule "dpctl"]
+	url = https://github.com/conda-forge/dpctl-feedstock.git
+	path = feedstocks/dpctl
+	branch = refs/heads/main
