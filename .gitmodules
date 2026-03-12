@@ -110486,3 +110486,7 @@
 	url = https://github.com/conda-forge/pyparrm-feedstock.git
 	path = feedstocks/pyparrm
 	branch = refs/heads/main
+[submodule "bffile"]
+	url = https://github.com/conda-forge/bffile-feedstock.git
+	path = feedstocks/bffile
+	branch = refs/heads/main
