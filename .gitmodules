@@ -110526,3 +110526,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-persona-manager-feedstock.git
 	path = feedstocks/jupyter-ai-persona-manager
 	branch = refs/heads/main
+[submodule "rotz"]
+	url = https://github.com/conda-forge/rotz-feedstock.git
+	path = feedstocks/rotz
+	branch = refs/heads/main
