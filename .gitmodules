@@ -110530,3 +110530,7 @@
 	url = https://github.com/conda-forge/rotz-feedstock.git
 	path = feedstocks/rotz
 	branch = refs/heads/main
+[submodule "flux"]
+	url = https://github.com/conda-forge/flux-feedstock.git
+	path = feedstocks/flux
+	branch = refs/heads/main
