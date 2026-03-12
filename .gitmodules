@@ -110514,3 +110514,7 @@
 	url = https://github.com/conda-forge/kuva-feedstock.git
 	path = feedstocks/kuva
 	branch = refs/heads/main
+[submodule "taskwarrior"]
+	url = https://github.com/conda-forge/taskwarrior-feedstock.git
+	path = feedstocks/taskwarrior
+	branch = refs/heads/main
