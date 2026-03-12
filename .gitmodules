@@ -110506,3 +110506,7 @@
 	url = https://github.com/conda-forge/libosmium-feedstock.git
 	path = feedstocks/libosmium
 	branch = refs/heads/main
+[submodule "air"]
+	url = https://github.com/conda-forge/air-feedstock.git
+	path = feedstocks/air
+	branch = refs/heads/main
