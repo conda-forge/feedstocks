@@ -110482,3 +110482,7 @@
 	url = https://github.com/conda-forge/claude-agent-acp-feedstock.git
 	path = feedstocks/claude-agent-acp
 	branch = refs/heads/main
+[submodule "pyparrm"]
+	url = https://github.com/conda-forge/pyparrm-feedstock.git
+	path = feedstocks/pyparrm
+	branch = refs/heads/main
