@@ -110534,3 +110534,7 @@
 	url = https://github.com/conda-forge/flux-feedstock.git
 	path = feedstocks/flux
 	branch = refs/heads/main
+[submodule "go4"]
+	url = https://github.com/conda-forge/go4-feedstock.git
+	path = feedstocks/go4
+	branch = refs/heads/main
