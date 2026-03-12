@@ -110450,3 +110450,7 @@
 	url = https://github.com/conda-forge/h5cpp-feedstock.git
 	path = feedstocks/h5cpp
 	branch = refs/heads/main
+[submodule "omfiles"]
+	url = https://github.com/conda-forge/omfiles-feedstock.git
+	path = feedstocks/omfiles
+	branch = refs/heads/main
