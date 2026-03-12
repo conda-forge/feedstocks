@@ -110478,3 +110478,7 @@
 	url = https://github.com/conda-forge/itkwasm-downsample-wasi-feedstock.git
 	path = feedstocks/itkwasm-downsample-wasi
 	branch = refs/heads/main
+[submodule "claude-agent-acp"]
+	url = https://github.com/conda-forge/claude-agent-acp-feedstock.git
+	path = feedstocks/claude-agent-acp
+	branch = refs/heads/main
