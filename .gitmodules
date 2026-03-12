@@ -110498,3 +110498,7 @@
 	url = https://github.com/conda-forge/mcgrad-feedstock.git
 	path = feedstocks/mcgrad
 	branch = refs/heads/main
+[submodule "spscqueue"]
+	url = https://github.com/conda-forge/spscqueue-feedstock.git
+	path = feedstocks/spscqueue
+	branch = refs/heads/main
