@@ -110522,3 +110522,7 @@
 	url = https://github.com/conda-forge/datui-feedstock.git
 	path = feedstocks/datui
 	branch = refs/heads/main
+[submodule "jupyter-ai-persona-manager"]
+	url = https://github.com/conda-forge/jupyter-ai-persona-manager-feedstock.git
+	path = feedstocks/jupyter-ai-persona-manager
+	branch = refs/heads/main
