@@ -110494,3 +110494,7 @@
 	url = https://github.com/conda-forge/dpctl-feedstock.git
 	path = feedstocks/dpctl
 	branch = refs/heads/main
+[submodule "mcgrad"]
+	url = https://github.com/conda-forge/mcgrad-feedstock.git
+	path = feedstocks/mcgrad
+	branch = refs/heads/main
