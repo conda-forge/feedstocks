@@ -110458,3 +110458,7 @@
 	url = https://github.com/conda-forge/casregnum-feedstock.git
 	path = feedstocks/casregnum
 	branch = refs/heads/main
+[submodule "chemformula"]
+	url = https://github.com/conda-forge/chemformula-feedstock.git
+	path = feedstocks/chemformula
+	branch = refs/heads/main
