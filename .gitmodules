@@ -110454,3 +110454,7 @@
 	url = https://github.com/conda-forge/omfiles-feedstock.git
 	path = feedstocks/omfiles
 	branch = refs/heads/main
+[submodule "casregnum"]
+	url = https://github.com/conda-forge/casregnum-feedstock.git
+	path = feedstocks/casregnum
+	branch = refs/heads/main
