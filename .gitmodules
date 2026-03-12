@@ -110502,3 +110502,7 @@
 	url = https://github.com/conda-forge/spscqueue-feedstock.git
 	path = feedstocks/spscqueue
 	branch = refs/heads/main
+[submodule "libosmium"]
+	url = https://github.com/conda-forge/libosmium-feedstock.git
+	path = feedstocks/libosmium
+	branch = refs/heads/main
