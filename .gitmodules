@@ -110538,3 +110538,7 @@
 	url = https://github.com/conda-forge/go4-feedstock.git
 	path = feedstocks/go4
 	branch = refs/heads/main
+[submodule "vbmicrolensing"]
+	url = https://github.com/conda-forge/vbmicrolensing-feedstock.git
+	path = feedstocks/vbmicrolensing
+	branch = refs/heads/main
