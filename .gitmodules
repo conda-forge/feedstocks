@@ -110578,3 +110578,7 @@
 	url = https://github.com/conda-forge/meshoptimizer-feedstock.git
 	path = feedstocks/meshoptimizer
 	branch = refs/heads/main
+[submodule "net-snmp"]
+	url = https://github.com/conda-forge/net-snmp-feedstock.git
+	path = feedstocks/net-snmp
+	branch = refs/heads/main
