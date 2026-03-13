@@ -110558,3 +110558,7 @@
 	url = https://github.com/conda-forge/pytinytex-feedstock.git
 	path = feedstocks/pytinytex
 	branch = refs/heads/main
+[submodule "skore-mlflow-project"]
+	url = https://github.com/conda-forge/skore-mlflow-project-feedstock.git
+	path = feedstocks/skore-mlflow-project
+	branch = refs/heads/main
