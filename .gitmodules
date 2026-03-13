@@ -110550,3 +110550,7 @@
 	url = https://github.com/conda-forge/tibs-feedstock.git
 	path = feedstocks/tibs
 	branch = refs/heads/main
+[submodule "gest-api"]
+	url = https://github.com/conda-forge/gest-api-feedstock.git
+	path = feedstocks/gest-api
+	branch = refs/heads/main
