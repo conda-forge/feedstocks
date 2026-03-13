@@ -110546,3 +110546,7 @@
 	url = https://github.com/conda-forge/pyafv-feedstock.git
 	path = feedstocks/pyafv
 	branch = refs/heads/main
+[submodule "tibs"]
+	url = https://github.com/conda-forge/tibs-feedstock.git
+	path = feedstocks/tibs
+	branch = refs/heads/main
