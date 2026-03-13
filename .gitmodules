@@ -110542,3 +110542,7 @@
 	url = https://github.com/conda-forge/vbmicrolensing-feedstock.git
 	path = feedstocks/vbmicrolensing
 	branch = refs/heads/main
+[submodule "pyafv"]
+	url = https://github.com/conda-forge/pyafv-feedstock.git
+	path = feedstocks/pyafv
+	branch = refs/heads/main
