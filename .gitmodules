@@ -110570,3 +110570,7 @@
 	url = https://github.com/conda-forge/runpodctl-feedstock.git
 	path = feedstocks/runpodctl
 	branch = refs/heads/main
+[submodule "libiges"]
+	url = https://github.com/conda-forge/libiges-feedstock.git
+	path = feedstocks/libiges
+	branch = refs/heads/main
