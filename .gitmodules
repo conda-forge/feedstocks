@@ -110574,3 +110574,7 @@
 	url = https://github.com/conda-forge/libiges-feedstock.git
 	path = feedstocks/libiges
 	branch = refs/heads/main
+[submodule "meshoptimizer"]
+	url = https://github.com/conda-forge/meshoptimizer-feedstock.git
+	path = feedstocks/meshoptimizer
+	branch = refs/heads/main
