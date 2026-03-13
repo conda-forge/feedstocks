@@ -110566,3 +110566,7 @@
 	url = https://github.com/conda-forge/alacritty-graphics-feedstock.git
 	path = feedstocks/alacritty-graphics
 	branch = refs/heads/main
+[submodule "runpodctl"]
+	url = https://github.com/conda-forge/runpodctl-feedstock.git
+	path = feedstocks/runpodctl
+	branch = refs/heads/main
