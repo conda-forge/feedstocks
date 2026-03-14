@@ -110722,3 +110722,7 @@
 	url = https://github.com/conda-forge/r-bammtools-feedstock.git
 	path = feedstocks/r-bammtools
 	branch = refs/heads/main
+[submodule "r-sigora"]
+	url = https://github.com/conda-forge/r-sigora-feedstock.git
+	path = feedstocks/r-sigora
+	branch = refs/heads/main
