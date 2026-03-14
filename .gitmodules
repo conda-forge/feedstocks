@@ -110654,3 +110654,7 @@
 	url = https://github.com/conda-forge/r-monopoly-feedstock.git
 	path = feedstocks/r-monopoly
 	branch = refs/heads/main
+[submodule "r-bst"]
+	url = https://github.com/conda-forge/r-bst-feedstock.git
+	path = feedstocks/r-bst
+	branch = refs/heads/main
