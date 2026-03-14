@@ -110690,3 +110690,7 @@
 	url = https://github.com/conda-forge/r-rcpphungarian-feedstock.git
 	path = feedstocks/r-rcpphungarian
 	branch = refs/heads/main
+[submodule "r-sgof"]
+	url = https://github.com/conda-forge/r-sgof-feedstock.git
+	path = feedstocks/r-sgof
+	branch = refs/heads/main
