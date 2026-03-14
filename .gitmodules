@@ -110646,3 +110646,7 @@
 	url = https://github.com/conda-forge/r-inflection-feedstock.git
 	path = feedstocks/r-inflection
 	branch = refs/heads/main
+[submodule "r-fclust"]
+	url = https://github.com/conda-forge/r-fclust-feedstock.git
+	path = feedstocks/r-fclust
+	branch = refs/heads/main
