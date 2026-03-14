@@ -110706,3 +110706,7 @@
 	url = https://github.com/conda-forge/r-plotfunctions-feedstock.git
 	path = feedstocks/r-plotfunctions
 	branch = refs/heads/main
+[submodule "r-supercell"]
+	url = https://github.com/conda-forge/r-supercell-feedstock.git
+	path = feedstocks/r-supercell
+	branch = refs/heads/main
