@@ -110598,3 +110598,7 @@
 	url = https://github.com/conda-forge/r-codingmatrices-feedstock.git
 	path = feedstocks/r-codingmatrices
 	branch = refs/heads/main
+[submodule "r-liver"]
+	url = https://github.com/conda-forge/r-liver-feedstock.git
+	path = feedstocks/r-liver
+	branch = refs/heads/main
