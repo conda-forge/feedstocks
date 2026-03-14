@@ -110710,3 +110710,7 @@
 	url = https://github.com/conda-forge/r-supercell-feedstock.git
 	path = feedstocks/r-supercell
 	branch = refs/heads/main
+[submodule "r-scpubr"]
+	url = https://github.com/conda-forge/r-scpubr-feedstock.git
+	path = feedstocks/r-scpubr
+	branch = refs/heads/main
