@@ -110674,3 +110674,7 @@
 	url = https://github.com/conda-forge/r-abdiv-feedstock.git
 	path = feedstocks/r-abdiv
 	branch = refs/heads/main
+[submodule "r-superexacttest"]
+	url = https://github.com/conda-forge/r-superexacttest-feedstock.git
+	path = feedstocks/r-superexacttest
+	branch = refs/heads/main
