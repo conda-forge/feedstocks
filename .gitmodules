@@ -110726,3 +110726,7 @@
 	url = https://github.com/conda-forge/r-sigora-feedstock.git
 	path = feedstocks/r-sigora
 	branch = refs/heads/main
+[submodule "r-kerntools"]
+	url = https://github.com/conda-forge/r-kerntools-feedstock.git
+	path = feedstocks/r-kerntools
+	branch = refs/heads/main
