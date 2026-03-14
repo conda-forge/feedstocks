@@ -110614,3 +110614,7 @@
 	url = https://github.com/conda-forge/r-coxrobust-feedstock.git
 	path = feedstocks/r-coxrobust
 	branch = refs/heads/main
+[submodule "r-autothresholdr"]
+	url = https://github.com/conda-forge/r-autothresholdr-feedstock.git
+	path = feedstocks/r-autothresholdr
+	branch = refs/heads/main
