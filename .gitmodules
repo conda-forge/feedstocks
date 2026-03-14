@@ -110730,3 +110730,7 @@
 	url = https://github.com/conda-forge/r-kerntools-feedstock.git
 	path = feedstocks/r-kerntools
 	branch = refs/heads/main
+[submodule "r-ijtiff"]
+	url = https://github.com/conda-forge/r-ijtiff-feedstock.git
+	path = feedstocks/r-ijtiff
+	branch = refs/heads/main
