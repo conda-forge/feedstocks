@@ -110626,3 +110626,7 @@
 	url = https://github.com/conda-forge/r-segclust2d-feedstock.git
 	path = feedstocks/r-segclust2d
 	branch = refs/heads/main
+[submodule "r-mtlr"]
+	url = https://github.com/conda-forge/r-mtlr-feedstock.git
+	path = feedstocks/r-mtlr
+	branch = refs/heads/main
