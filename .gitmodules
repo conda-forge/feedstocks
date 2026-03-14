@@ -110618,3 +110618,7 @@
 	url = https://github.com/conda-forge/r-autothresholdr-feedstock.git
 	path = feedstocks/r-autothresholdr
 	branch = refs/heads/main
+[submodule "r-geneset"]
+	url = https://github.com/conda-forge/r-geneset-feedstock.git
+	path = feedstocks/r-geneset
+	branch = refs/heads/main
