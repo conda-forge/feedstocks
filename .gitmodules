@@ -110634,3 +110634,7 @@
 	url = https://github.com/conda-forge/r-rams-feedstock.git
 	path = feedstocks/r-rams
 	branch = refs/heads/main
+[submodule "r-knnmi"]
+	url = https://github.com/conda-forge/r-knnmi-feedstock.git
+	path = feedstocks/r-knnmi
+	branch = refs/heads/main
