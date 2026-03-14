@@ -110682,3 +110682,7 @@
 	url = https://github.com/conda-forge/r-comprehenr-feedstock.git
 	path = feedstocks/r-comprehenr
 	branch = refs/heads/main
+[submodule "r-mycor"]
+	url = https://github.com/conda-forge/r-mycor-feedstock.git
+	path = feedstocks/r-mycor
+	branch = refs/heads/main
