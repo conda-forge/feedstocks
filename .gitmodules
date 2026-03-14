@@ -110638,3 +110638,7 @@
 	url = https://github.com/conda-forge/r-knnmi-feedstock.git
 	path = feedstocks/r-knnmi
 	branch = refs/heads/main
+[submodule "r-mpath"]
+	url = https://github.com/conda-forge/r-mpath-feedstock.git
+	path = feedstocks/r-mpath
+	branch = refs/heads/main
