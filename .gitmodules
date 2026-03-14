@@ -110610,3 +110610,7 @@
 	url = https://github.com/conda-forge/r-sparcl-feedstock.git
 	path = feedstocks/r-sparcl
 	branch = refs/heads/main
+[submodule "r-coxrobust"]
+	url = https://github.com/conda-forge/r-coxrobust-feedstock.git
+	path = feedstocks/r-coxrobust
+	branch = refs/heads/main
