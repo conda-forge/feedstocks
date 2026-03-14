@@ -110590,3 +110590,7 @@
 	url = https://github.com/conda-forge/r-goat-feedstock.git
 	path = feedstocks/r-goat
 	branch = refs/heads/main
+[submodule "r-wrmisc"]
+	url = https://github.com/conda-forge/r-wrmisc-feedstock.git
+	path = feedstocks/r-wrmisc
+	branch = refs/heads/main
