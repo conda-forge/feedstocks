@@ -110622,3 +110622,7 @@
 	url = https://github.com/conda-forge/r-geneset-feedstock.git
 	path = feedstocks/r-geneset
 	branch = refs/heads/main
+[submodule "r-segclust2d"]
+	url = https://github.com/conda-forge/r-segclust2d-feedstock.git
+	path = feedstocks/r-segclust2d
+	branch = refs/heads/main
