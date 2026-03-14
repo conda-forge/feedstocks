@@ -110602,3 +110602,7 @@
 	url = https://github.com/conda-forge/r-liver-feedstock.git
 	path = feedstocks/r-liver
 	branch = refs/heads/main
+[submodule "r-fractional"]
+	url = https://github.com/conda-forge/r-fractional-feedstock.git
+	path = feedstocks/r-fractional
+	branch = refs/heads/main
