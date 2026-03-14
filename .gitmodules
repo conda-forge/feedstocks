@@ -110650,3 +110650,7 @@
 	url = https://github.com/conda-forge/r-fclust-feedstock.git
 	path = feedstocks/r-fclust
 	branch = refs/heads/main
+[submodule "r-monopoly"]
+	url = https://github.com/conda-forge/r-monopoly-feedstock.git
+	path = feedstocks/r-monopoly
+	branch = refs/heads/main
