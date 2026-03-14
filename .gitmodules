@@ -110702,3 +110702,7 @@
 	url = https://github.com/conda-forge/r-hitandrun-feedstock.git
 	path = feedstocks/r-hitandrun
 	branch = refs/heads/main
+[submodule "r-plotfunctions"]
+	url = https://github.com/conda-forge/r-plotfunctions-feedstock.git
+	path = feedstocks/r-plotfunctions
+	branch = refs/heads/main
