@@ -110606,3 +110606,7 @@
 	url = https://github.com/conda-forge/r-fractional-feedstock.git
 	path = feedstocks/r-fractional
 	branch = refs/heads/main
+[submodule "r-sparcl"]
+	url = https://github.com/conda-forge/r-sparcl-feedstock.git
+	path = feedstocks/r-sparcl
+	branch = refs/heads/main
