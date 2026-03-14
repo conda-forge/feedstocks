@@ -110658,3 +110658,7 @@
 	url = https://github.com/conda-forge/r-bst-feedstock.git
 	path = feedstocks/r-bst
 	branch = refs/heads/main
+[submodule "r-icellr"]
+	url = https://github.com/conda-forge/r-icellr-feedstock.git
+	path = feedstocks/r-icellr
+	branch = refs/heads/main
