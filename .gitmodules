@@ -110678,3 +110678,7 @@
 	url = https://github.com/conda-forge/r-superexacttest-feedstock.git
 	path = feedstocks/r-superexacttest
 	branch = refs/heads/main
+[submodule "r-comprehenr"]
+	url = https://github.com/conda-forge/r-comprehenr-feedstock.git
+	path = feedstocks/r-comprehenr
+	branch = refs/heads/main
