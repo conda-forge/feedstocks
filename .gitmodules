@@ -110662,3 +110662,7 @@
 	url = https://github.com/conda-forge/r-icellr-feedstock.git
 	path = feedstocks/r-icellr
 	branch = refs/heads/main
+[submodule "r-ggiraphextra"]
+	url = https://github.com/conda-forge/r-ggiraphextra-feedstock.git
+	path = feedstocks/r-ggiraphextra
+	branch = refs/heads/main
