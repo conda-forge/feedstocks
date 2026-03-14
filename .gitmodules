@@ -110686,3 +110686,7 @@
 	url = https://github.com/conda-forge/r-mycor-feedstock.git
 	path = feedstocks/r-mycor
 	branch = refs/heads/main
+[submodule "r-rcpphungarian"]
+	url = https://github.com/conda-forge/r-rcpphungarian-feedstock.git
+	path = feedstocks/r-rcpphungarian
+	branch = refs/heads/main
