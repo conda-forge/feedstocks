@@ -110718,3 +110718,7 @@
 	url = https://github.com/conda-forge/r-toordinal-feedstock.git
 	path = feedstocks/r-toordinal
 	branch = refs/heads/main
+[submodule "r-bammtools"]
+	url = https://github.com/conda-forge/r-bammtools-feedstock.git
+	path = feedstocks/r-bammtools
+	branch = refs/heads/main
