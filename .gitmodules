@@ -110714,3 +110714,7 @@
 	url = https://github.com/conda-forge/r-scpubr-feedstock.git
 	path = feedstocks/r-scpubr
 	branch = refs/heads/main
+[submodule "r-toordinal"]
+	url = https://github.com/conda-forge/r-toordinal-feedstock.git
+	path = feedstocks/r-toordinal
+	branch = refs/heads/main
