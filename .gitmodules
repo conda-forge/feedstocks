@@ -110594,3 +110594,7 @@
 	url = https://github.com/conda-forge/r-wrmisc-feedstock.git
 	path = feedstocks/r-wrmisc
 	branch = refs/heads/main
+[submodule "r-codingmatrices"]
+	url = https://github.com/conda-forge/r-codingmatrices-feedstock.git
+	path = feedstocks/r-codingmatrices
+	branch = refs/heads/main
