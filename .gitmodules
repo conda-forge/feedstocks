@@ -110586,3 +110586,7 @@
 	url = https://github.com/conda-forge/simpleini-feedstock.git
 	path = feedstocks/simpleini
 	branch = refs/heads/main
+[submodule "r-goat"]
+	url = https://github.com/conda-forge/r-goat-feedstock.git
+	path = feedstocks/r-goat
+	branch = refs/heads/main
