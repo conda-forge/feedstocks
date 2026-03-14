@@ -110630,3 +110630,7 @@
 	url = https://github.com/conda-forge/r-mtlr-feedstock.git
 	path = feedstocks/r-mtlr
 	branch = refs/heads/main
+[submodule "r-rams"]
+	url = https://github.com/conda-forge/r-rams-feedstock.git
+	path = feedstocks/r-rams
+	branch = refs/heads/main
