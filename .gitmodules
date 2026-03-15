@@ -110762,3 +110762,7 @@
 	url = https://github.com/conda-forge/illustrate-feedstock.git
 	path = feedstocks/illustrate
 	branch = refs/heads/main
+[submodule "mod3d"]
+	url = https://github.com/conda-forge/mod3d-feedstock.git
+	path = feedstocks/mod3d
+	branch = refs/heads/main
