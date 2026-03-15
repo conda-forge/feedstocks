@@ -110746,3 +110746,7 @@
 	url = https://github.com/conda-forge/getsources-feedstock.git
 	path = feedstocks/getsources
 	branch = refs/heads/main
+[submodule "libpinch"]
+	url = https://github.com/conda-forge/libpinch-feedstock.git
+	path = feedstocks/libpinch
+	branch = refs/heads/main
