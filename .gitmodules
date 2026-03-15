@@ -110754,3 +110754,7 @@
 	url = https://github.com/conda-forge/libmgui-feedstock.git
 	path = feedstocks/libmgui
 	branch = refs/heads/main
+[submodule "scrollstats"]
+	url = https://github.com/conda-forge/scrollstats-feedstock.git
+	path = feedstocks/scrollstats
+	branch = refs/heads/main
