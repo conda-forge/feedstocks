@@ -110742,3 +110742,7 @@
 	url = https://github.com/conda-forge/torchrunx-feedstock.git
 	path = feedstocks/torchrunx
 	branch = refs/heads/main
+[submodule "getsources"]
+	url = https://github.com/conda-forge/getsources-feedstock.git
+	path = feedstocks/getsources
+	branch = refs/heads/main
