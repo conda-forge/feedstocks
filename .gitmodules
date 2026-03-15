@@ -110738,3 +110738,7 @@
 	url = https://github.com/conda-forge/abicheck-feedstock.git
 	path = feedstocks/abicheck
 	branch = refs/heads/main
+[submodule "torchrunx"]
+	url = https://github.com/conda-forge/torchrunx-feedstock.git
+	path = feedstocks/torchrunx
+	branch = refs/heads/main
