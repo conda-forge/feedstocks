@@ -110734,3 +110734,7 @@
 	url = https://github.com/conda-forge/r-ijtiff-feedstock.git
 	path = feedstocks/r-ijtiff
 	branch = refs/heads/main
+[submodule "abicheck"]
+	url = https://github.com/conda-forge/abicheck-feedstock.git
+	path = feedstocks/abicheck
+	branch = refs/heads/main
