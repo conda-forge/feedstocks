@@ -110774,3 +110774,7 @@
 	url = https://github.com/conda-forge/vidstats-feedstock.git
 	path = feedstocks/vidstats
 	branch = refs/heads/main
+[submodule "qpmad"]
+	url = https://github.com/conda-forge/qpmad-feedstock.git
+	path = feedstocks/qpmad
+	branch = refs/heads/main
