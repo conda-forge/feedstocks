@@ -110766,3 +110766,7 @@
 	url = https://github.com/conda-forge/mod3d-feedstock.git
 	path = feedstocks/mod3d
 	branch = refs/heads/main
+[submodule "fasta"]
+	url = https://github.com/conda-forge/fasta-feedstock.git
+	path = feedstocks/fasta
+	branch = refs/heads/main
