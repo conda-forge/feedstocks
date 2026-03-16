@@ -110782,3 +110782,7 @@
 	url = https://github.com/conda-forge/undoc-feedstock.git
 	path = feedstocks/undoc
 	branch = refs/heads/main
+[submodule "seqsearch"]
+	url = https://github.com/conda-forge/seqsearch-feedstock.git
+	path = feedstocks/seqsearch
+	branch = refs/heads/main
