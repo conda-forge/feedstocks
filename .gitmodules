@@ -110778,3 +110778,7 @@
 	url = https://github.com/conda-forge/qpmad-feedstock.git
 	path = feedstocks/qpmad
 	branch = refs/heads/main
+[submodule "undoc"]
+	url = https://github.com/conda-forge/undoc-feedstock.git
+	path = feedstocks/undoc
+	branch = refs/heads/main
