@@ -110790,3 +110790,7 @@
 	url = https://github.com/conda-forge/unpdf-rs-feedstock.git
 	path = feedstocks/unpdf-rs
 	branch = refs/heads/main
+[submodule "mjlab"]
+	url = https://github.com/conda-forge/mjlab-feedstock.git
+	path = feedstocks/mjlab
+	branch = refs/heads/main
