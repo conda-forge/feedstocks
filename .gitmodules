@@ -110798,3 +110798,7 @@
 	url = https://github.com/conda-forge/async-tiff-feedstock.git
 	path = feedstocks/async-tiff
 	branch = refs/heads/main
+[submodule "pvview"]
+	url = https://github.com/conda-forge/pvview-feedstock.git
+	path = feedstocks/pvview
+	branch = refs/heads/main
