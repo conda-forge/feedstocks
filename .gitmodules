@@ -110786,3 +110786,7 @@
 	url = https://github.com/conda-forge/seqsearch-feedstock.git
 	path = feedstocks/seqsearch
 	branch = refs/heads/main
+[submodule "unpdf-rs"]
+	url = https://github.com/conda-forge/unpdf-rs-feedstock.git
+	path = feedstocks/unpdf-rs
+	branch = refs/heads/main
