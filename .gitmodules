@@ -110770,3 +110770,7 @@
 	url = https://github.com/conda-forge/fasta-feedstock.git
 	path = feedstocks/fasta
 	branch = refs/heads/main
+[submodule "vidstats"]
+	url = https://github.com/conda-forge/vidstats-feedstock.git
+	path = feedstocks/vidstats
+	branch = refs/heads/main
