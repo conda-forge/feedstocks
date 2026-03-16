@@ -110794,3 +110794,7 @@
 	url = https://github.com/conda-forge/mjlab-feedstock.git
 	path = feedstocks/mjlab
 	branch = refs/heads/main
+[submodule "async-tiff"]
+	url = https://github.com/conda-forge/async-tiff-feedstock.git
+	path = feedstocks/async-tiff
+	branch = refs/heads/main
