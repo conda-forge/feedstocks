@@ -110830,3 +110830,7 @@
 	url = https://github.com/conda-forge/udtools-feedstock.git
 	path = feedstocks/udtools
 	branch = refs/heads/main
+[submodule "gwframe"]
+	url = https://github.com/conda-forge/gwframe-feedstock.git
+	path = feedstocks/gwframe
+	branch = refs/heads/main
