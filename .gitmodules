@@ -110806,3 +110806,7 @@
 	url = https://github.com/conda-forge/newton-actuators-feedstock.git
 	path = feedstocks/newton-actuators
 	branch = refs/heads/main
+[submodule "newton-usd-schemas"]
+	url = https://github.com/conda-forge/newton-usd-schemas-feedstock.git
+	path = feedstocks/newton-usd-schemas
+	branch = refs/heads/main
