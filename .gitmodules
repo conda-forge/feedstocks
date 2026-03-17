@@ -110822,3 +110822,7 @@
 	url = https://github.com/conda-forge/usd-exchange-feedstock.git
 	path = feedstocks/usd-exchange
 	branch = refs/heads/main
+[submodule "py-asyncutils"]
+	url = https://github.com/conda-forge/py-asyncutils-feedstock.git
+	path = feedstocks/py-asyncutils
+	branch = refs/heads/main
