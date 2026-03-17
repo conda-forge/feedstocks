@@ -110814,3 +110814,7 @@
 	url = https://github.com/conda-forge/newton-feedstock.git
 	path = feedstocks/newton
 	branch = refs/heads/main
+[submodule "libpninexus"]
+	url = https://github.com/conda-forge/libpninexus-feedstock.git
+	path = feedstocks/libpninexus
+	branch = refs/heads/main
