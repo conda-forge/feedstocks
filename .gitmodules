@@ -110818,3 +110818,7 @@
 	url = https://github.com/conda-forge/libpninexus-feedstock.git
 	path = feedstocks/libpninexus
 	branch = refs/heads/main
+[submodule "usd-exchange"]
+	url = https://github.com/conda-forge/usd-exchange-feedstock.git
+	path = feedstocks/usd-exchange
+	branch = refs/heads/main
