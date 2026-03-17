@@ -110854,3 +110854,7 @@
 	url = https://github.com/conda-forge/itkwasm-downsample-feedstock.git
 	path = feedstocks/itkwasm-downsample
 	branch = refs/heads/main
+[submodule "flacarray"]
+	url = https://github.com/conda-forge/flacarray-feedstock.git
+	path = feedstocks/flacarray
+	branch = refs/heads/main
