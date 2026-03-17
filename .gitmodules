@@ -110826,3 +110826,7 @@
 	url = https://github.com/conda-forge/py-asyncutils-feedstock.git
 	path = feedstocks/py-asyncutils
 	branch = refs/heads/main
+[submodule "udtools"]
+	url = https://github.com/conda-forge/udtools-feedstock.git
+	path = feedstocks/udtools
+	branch = refs/heads/main
