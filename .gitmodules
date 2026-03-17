@@ -110834,3 +110834,7 @@
 	url = https://github.com/conda-forge/gwframe-feedstock.git
 	path = feedstocks/gwframe
 	branch = refs/heads/main
+[submodule "udapi"]
+	url = https://github.com/conda-forge/udapi-feedstock.git
+	path = feedstocks/udapi
+	branch = refs/heads/main
