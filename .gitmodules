@@ -110862,3 +110862,7 @@
 	url = https://github.com/conda-forge/graphriccicurvature-feedstock.git
 	path = feedstocks/graphriccicurvature
 	branch = refs/heads/main
+[submodule "ultralytics-thop"]
+	url = https://github.com/conda-forge/ultralytics-thop-feedstock.git
+	path = feedstocks/ultralytics-thop
+	branch = refs/heads/main
