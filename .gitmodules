@@ -110802,3 +110802,7 @@
 	url = https://github.com/conda-forge/pvview-feedstock.git
 	path = feedstocks/pvview
 	branch = refs/heads/main
+[submodule "newton-actuators"]
+	url = https://github.com/conda-forge/newton-actuators-feedstock.git
+	path = feedstocks/newton-actuators
+	branch = refs/heads/main
