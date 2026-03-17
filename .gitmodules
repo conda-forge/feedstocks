@@ -110850,3 +110850,7 @@
 	url = https://github.com/conda-forge/dex-retargeting-feedstock.git
 	path = feedstocks/dex-retargeting
 	branch = refs/heads/main
+[submodule "itkwasm-downsample"]
+	url = https://github.com/conda-forge/itkwasm-downsample-feedstock.git
+	path = feedstocks/itkwasm-downsample
+	branch = refs/heads/main
