@@ -110878,3 +110878,7 @@
 	url = https://github.com/conda-forge/rootstock-feedstock.git
 	path = feedstocks/rootstock
 	branch = refs/heads/main
+[submodule "dorban"]
+	url = https://github.com/conda-forge/dorban-feedstock.git
+	path = feedstocks/dorban
+	branch = refs/heads/main
