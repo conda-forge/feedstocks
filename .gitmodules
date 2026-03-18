@@ -110866,3 +110866,7 @@
 	url = https://github.com/conda-forge/ultralytics-thop-feedstock.git
 	path = feedstocks/ultralytics-thop
 	branch = refs/heads/main
+[submodule "ramp-core"]
+	url = https://github.com/conda-forge/ramp-core-feedstock.git
+	path = feedstocks/ramp-core
+	branch = refs/heads/main
