@@ -110890,3 +110890,7 @@
 	url = https://github.com/conda-forge/qrdet-feedstock.git
 	path = feedstocks/qrdet
 	branch = refs/heads/main
+[submodule "ngff_zarr"]
+	url = https://github.com/conda-forge/ngff_zarr-feedstock.git
+	path = feedstocks/ngff_zarr
+	branch = refs/heads/main
