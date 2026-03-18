@@ -110898,3 +110898,7 @@
 	url = https://github.com/conda-forge/entangled-cli-feedstock.git
 	path = feedstocks/entangled-cli
 	branch = refs/heads/main
+[submodule "gp-tempest"]
+	url = https://github.com/conda-forge/gp-tempest-feedstock.git
+	path = feedstocks/gp-tempest
+	branch = refs/heads/main
