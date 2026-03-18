@@ -110918,3 +110918,7 @@
 	url = https://github.com/conda-forge/livekit-feedstock.git
 	path = feedstocks/livekit
 	branch = refs/heads/main
+[submodule "esmbenchmarkviz"]
+	url = https://github.com/conda-forge/esmbenchmarkviz-feedstock.git
+	path = feedstocks/esmbenchmarkviz
+	branch = refs/heads/main
