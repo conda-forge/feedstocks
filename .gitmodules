@@ -110870,3 +110870,7 @@
 	url = https://github.com/conda-forge/ramp-core-feedstock.git
 	path = feedstocks/ramp-core
 	branch = refs/heads/main
+[submodule "ramp-endf"]
+	url = https://github.com/conda-forge/ramp-endf-feedstock.git
+	path = feedstocks/ramp-endf
+	branch = refs/heads/main
