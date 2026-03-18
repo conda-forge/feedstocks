@@ -110874,3 +110874,7 @@
 	url = https://github.com/conda-forge/ramp-endf-feedstock.git
 	path = feedstocks/ramp-endf
 	branch = refs/heads/main
+[submodule "rootstock"]
+	url = https://github.com/conda-forge/rootstock-feedstock.git
+	path = feedstocks/rootstock
+	branch = refs/heads/main
