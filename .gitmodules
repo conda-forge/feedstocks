@@ -110914,3 +110914,7 @@
 	url = https://github.com/conda-forge/pypi-simple-feedstock.git
 	path = feedstocks/pypi-simple
 	branch = refs/heads/main
+[submodule "livekit"]
+	url = https://github.com/conda-forge/livekit-feedstock.git
+	path = feedstocks/livekit
+	branch = refs/heads/main
