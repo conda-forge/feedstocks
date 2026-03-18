@@ -110922,3 +110922,7 @@
 	url = https://github.com/conda-forge/esmbenchmarkviz-feedstock.git
 	path = feedstocks/esmbenchmarkviz
 	branch = refs/heads/main
+[submodule "shippinglabel-pypi"]
+	url = https://github.com/conda-forge/shippinglabel-pypi-feedstock.git
+	path = feedstocks/shippinglabel-pypi
+	branch = refs/heads/main
