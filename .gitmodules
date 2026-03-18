@@ -110886,3 +110886,7 @@
 	url = https://github.com/conda-forge/qreader-feedstock.git
 	path = feedstocks/qreader
 	branch = refs/heads/main
+[submodule "qrdet"]
+	url = https://github.com/conda-forge/qrdet-feedstock.git
+	path = feedstocks/qrdet
+	branch = refs/heads/main
