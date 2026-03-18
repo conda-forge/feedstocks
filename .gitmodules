@@ -110882,3 +110882,7 @@
 	url = https://github.com/conda-forge/dorban-feedstock.git
 	path = feedstocks/dorban
 	branch = refs/heads/main
+[submodule "qreader"]
+	url = https://github.com/conda-forge/qreader-feedstock.git
+	path = feedstocks/qreader
+	branch = refs/heads/main
