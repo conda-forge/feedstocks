@@ -110910,3 +110910,7 @@
 	url = https://github.com/conda-forge/pypi-json-feedstock.git
 	path = feedstocks/pypi-json
 	branch = refs/heads/main
+[submodule "pypi-simple"]
+	url = https://github.com/conda-forge/pypi-simple-feedstock.git
+	path = feedstocks/pypi-simple
+	branch = refs/heads/main
