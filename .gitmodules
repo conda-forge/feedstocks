@@ -110894,3 +110894,7 @@
 	url = https://github.com/conda-forge/ngff_zarr-feedstock.git
 	path = feedstocks/ngff_zarr
 	branch = refs/heads/main
+[submodule "entangled-cli"]
+	url = https://github.com/conda-forge/entangled-cli-feedstock.git
+	path = feedstocks/entangled-cli
+	branch = refs/heads/main
