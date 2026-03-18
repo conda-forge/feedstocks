@@ -110906,3 +110906,7 @@
 	url = https://github.com/conda-forge/urdf-usd-converter-feedstock.git
 	path = feedstocks/urdf-usd-converter
 	branch = refs/heads/main
+[submodule "pypi-json"]
+	url = https://github.com/conda-forge/pypi-json-feedstock.git
+	path = feedstocks/pypi-json
+	branch = refs/heads/main
