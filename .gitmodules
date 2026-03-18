@@ -110902,3 +110902,7 @@
 	url = https://github.com/conda-forge/gp-tempest-feedstock.git
 	path = feedstocks/gp-tempest
 	branch = refs/heads/main
+[submodule "urdf-usd-converter"]
+	url = https://github.com/conda-forge/urdf-usd-converter-feedstock.git
+	path = feedstocks/urdf-usd-converter
+	branch = refs/heads/main
