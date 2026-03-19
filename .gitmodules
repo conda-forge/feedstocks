@@ -110926,3 +110926,7 @@
 	url = https://github.com/conda-forge/shippinglabel-pypi-feedstock.git
 	path = feedstocks/shippinglabel-pypi
 	branch = refs/heads/main
+[submodule "curlpp"]
+	url = https://github.com/conda-forge/curlpp-feedstock.git
+	path = feedstocks/curlpp
+	branch = refs/heads/main
