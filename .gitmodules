@@ -110974,3 +110974,7 @@
 	url = https://github.com/conda-forge/pystormtracker-feedstock.git
 	path = feedstocks/pystormtracker
 	branch = refs/heads/main
+[submodule "histserv"]
+	url = https://github.com/conda-forge/histserv-feedstock.git
+	path = feedstocks/histserv
+	branch = refs/heads/main
