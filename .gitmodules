@@ -110970,3 +110970,7 @@
 	url = https://github.com/conda-forge/livekit-api-feedstock.git
 	path = feedstocks/livekit-api
 	branch = refs/heads/main
+[submodule "pystormtracker"]
+	url = https://github.com/conda-forge/pystormtracker-feedstock.git
+	path = feedstocks/pystormtracker
+	branch = refs/heads/main
