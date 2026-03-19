@@ -110998,3 +110998,7 @@
 	url = https://github.com/conda-forge/syster-cli-feedstock.git
 	path = feedstocks/syster-cli
 	branch = refs/heads/main
+[submodule "minhook"]
+	url = https://github.com/conda-forge/minhook-feedstock.git
+	path = feedstocks/minhook
+	branch = refs/heads/main
