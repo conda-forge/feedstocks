@@ -110994,3 +110994,7 @@
 	url = https://github.com/conda-forge/complexipy-feedstock.git
 	path = feedstocks/complexipy
 	branch = refs/heads/main
+[submodule "syster-cli"]
+	url = https://github.com/conda-forge/syster-cli-feedstock.git
+	path = feedstocks/syster-cli
+	branch = refs/heads/main
