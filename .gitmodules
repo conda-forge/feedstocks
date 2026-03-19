@@ -111006,3 +111006,7 @@
 	url = https://github.com/conda-forge/qt6-serialport-feedstock.git
 	path = feedstocks/qt6-serialport
 	branch = refs/heads/main
+[submodule "procserv"]
+	url = https://github.com/conda-forge/procserv-feedstock.git
+	path = feedstocks/procserv
+	branch = refs/heads/main
