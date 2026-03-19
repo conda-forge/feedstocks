@@ -110990,3 +110990,7 @@
 	url = https://github.com/conda-forge/ipsw-feedstock.git
 	path = feedstocks/ipsw
 	branch = refs/heads/main
+[submodule "complexipy"]
+	url = https://github.com/conda-forge/complexipy-feedstock.git
+	path = feedstocks/complexipy
+	branch = refs/heads/main
