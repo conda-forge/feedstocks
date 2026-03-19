@@ -111002,3 +111002,7 @@
 	url = https://github.com/conda-forge/minhook-feedstock.git
 	path = feedstocks/minhook
 	branch = refs/heads/main
+[submodule "qt6-serialport"]
+	url = https://github.com/conda-forge/qt6-serialport-feedstock.git
+	path = feedstocks/qt6-serialport
+	branch = refs/heads/main
