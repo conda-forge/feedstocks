@@ -110930,3 +110930,7 @@
 	url = https://github.com/conda-forge/curlpp-feedstock.git
 	path = feedstocks/curlpp
 	branch = refs/heads/main
+[submodule "neurodent"]
+	url = https://github.com/conda-forge/neurodent-feedstock.git
+	path = feedstocks/neurodent
+	branch = refs/heads/main
