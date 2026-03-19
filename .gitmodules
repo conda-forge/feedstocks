@@ -110966,3 +110966,7 @@
 	url = https://github.com/conda-forge/ramp-reactions-feedstock.git
 	path = feedstocks/ramp-reactions
 	branch = refs/heads/main
+[submodule "livekit-api"]
+	url = https://github.com/conda-forge/livekit-api-feedstock.git
+	path = feedstocks/livekit-api
+	branch = refs/heads/main
