@@ -110962,3 +110962,7 @@
 	url = https://github.com/conda-forge/climateclaw-feedstock.git
 	path = feedstocks/climateclaw
 	branch = refs/heads/main
+[submodule "ramp-reactions"]
+	url = https://github.com/conda-forge/ramp-reactions-feedstock.git
+	path = feedstocks/ramp-reactions
+	branch = refs/heads/main
