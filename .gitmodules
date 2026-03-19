@@ -110934,3 +110934,7 @@
 	url = https://github.com/conda-forge/neurodent-feedstock.git
 	path = feedstocks/neurodent
 	branch = refs/heads/main
+[submodule "dd4hep"]
+	url = https://github.com/conda-forge/dd4hep-feedstock.git
+	path = feedstocks/dd4hep
+	branch = refs/heads/main
