@@ -111010,3 +111010,7 @@
 	url = https://github.com/conda-forge/procserv-feedstock.git
 	path = feedstocks/procserv
 	branch = refs/heads/main
+[submodule "r-rextendr"]
+	url = https://github.com/conda-forge/r-rextendr-feedstock.git
+	path = feedstocks/r-rextendr
+	branch = refs/heads/main
