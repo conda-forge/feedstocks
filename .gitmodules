@@ -110938,3 +110938,7 @@
 	url = https://github.com/conda-forge/dd4hep-feedstock.git
 	path = feedstocks/dd4hep
 	branch = refs/heads/main
+[submodule "mmgpy"]
+	url = https://github.com/conda-forge/mmgpy-feedstock.git
+	path = feedstocks/mmgpy
+	branch = refs/heads/main
