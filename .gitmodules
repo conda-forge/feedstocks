@@ -110950,3 +110950,7 @@
 	url = https://github.com/conda-forge/crest4-feedstock.git
 	path = feedstocks/crest4
 	branch = refs/heads/main
+[submodule "livekit-protocol"]
+	url = https://github.com/conda-forge/livekit-protocol-feedstock.git
+	path = feedstocks/livekit-protocol
+	branch = refs/heads/main
