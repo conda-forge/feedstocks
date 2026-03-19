@@ -110986,3 +110986,7 @@
 	url = https://github.com/conda-forge/vermin-feedstock.git
 	path = feedstocks/vermin
 	branch = refs/heads/main
+[submodule "ipsw"]
+	url = https://github.com/conda-forge/ipsw-feedstock.git
+	path = feedstocks/ipsw
+	branch = refs/heads/main
