@@ -111094,3 +111094,7 @@
 	url = https://github.com/conda-forge/hatch-argparse-manpage-feedstock.git
 	path = feedstocks/hatch-argparse-manpage
 	branch = refs/heads/main
+[submodule "wombat"]
+	url = https://github.com/conda-forge/wombat-feedstock.git
+	path = feedstocks/wombat
+	branch = refs/heads/main
