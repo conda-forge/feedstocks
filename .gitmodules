@@ -111066,3 +111066,7 @@
 	url = https://github.com/conda-forge/fhconfparser-feedstock.git
 	path = feedstocks/fhconfparser
 	branch = refs/heads/main
+[submodule "licensecheck"]
+	url = https://github.com/conda-forge/licensecheck-feedstock.git
+	path = feedstocks/licensecheck
+	branch = refs/heads/main
