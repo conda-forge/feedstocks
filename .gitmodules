@@ -111026,3 +111026,7 @@
 	url = https://github.com/conda-forge/icalendar-searcher-feedstock.git
 	path = feedstocks/icalendar-searcher
 	branch = refs/heads/main
+[submodule "jupyverse-auth"]
+	url = https://github.com/conda-forge/jupyverse-auth-feedstock.git
+	path = feedstocks/jupyverse-auth
+	branch = refs/heads/main
