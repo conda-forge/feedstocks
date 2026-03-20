@@ -111082,3 +111082,7 @@
 	url = https://github.com/conda-forge/livekit-agents-feedstock.git
 	path = feedstocks/livekit-agents
 	branch = refs/heads/main
+[submodule "aris_lite"]
+	url = https://github.com/conda-forge/aris_lite-feedstock.git
+	path = feedstocks/aris_lite
+	branch = refs/heads/main
