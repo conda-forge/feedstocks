@@ -111038,3 +111038,7 @@
 	url = https://github.com/conda-forge/pygha-feedstock.git
 	path = feedstocks/pygha
 	branch = refs/heads/main
+[submodule "fps-jupyter-server"]
+	url = https://github.com/conda-forge/fps-jupyter-server-feedstock.git
+	path = feedstocks/fps-jupyter-server
+	branch = refs/heads/main
