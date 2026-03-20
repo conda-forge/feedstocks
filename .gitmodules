@@ -111034,3 +111034,7 @@
 	url = https://github.com/conda-forge/ryaml-feedstock.git
 	path = feedstocks/ryaml
 	branch = refs/heads/main
+[submodule "pygha"]
+	url = https://github.com/conda-forge/pygha-feedstock.git
+	path = feedstocks/pygha
+	branch = refs/heads/main
