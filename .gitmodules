@@ -111046,3 +111046,7 @@
 	url = https://github.com/conda-forge/jupyverse-ystore-feedstock.git
 	path = feedstocks/jupyverse-ystore
 	branch = refs/heads/main
+[submodule "jupyverse-file-id"]
+	url = https://github.com/conda-forge/jupyverse-file-id-feedstock.git
+	path = feedstocks/jupyverse-file-id
+	branch = refs/heads/main
