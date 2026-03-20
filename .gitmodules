@@ -111054,3 +111054,7 @@
 	url = https://github.com/conda-forge/jupyverse-yrooms-feedstock.git
 	path = feedstocks/jupyverse-yrooms
 	branch = refs/heads/main
+[submodule "jupyverse-kernel"]
+	url = https://github.com/conda-forge/jupyverse-kernel-feedstock.git
+	path = feedstocks/jupyverse-kernel
+	branch = refs/heads/main
