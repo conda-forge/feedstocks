@@ -111062,3 +111062,7 @@
 	url = https://github.com/conda-forge/sdmx1-feedstock.git
 	path = feedstocks/sdmx1
 	branch = refs/heads/main
+[submodule "fhconfparser"]
+	url = https://github.com/conda-forge/fhconfparser-feedstock.git
+	path = feedstocks/fhconfparser
+	branch = refs/heads/main
