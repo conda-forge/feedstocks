@@ -111078,3 +111078,7 @@
 	url = https://github.com/conda-forge/pninexus-feedstock.git
 	path = feedstocks/pninexus
 	branch = refs/heads/main
+[submodule "livekit-agents"]
+	url = https://github.com/conda-forge/livekit-agents-feedstock.git
+	path = feedstocks/livekit-agents
+	branch = refs/heads/main
