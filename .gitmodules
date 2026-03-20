@@ -111022,3 +111022,7 @@
 	url = https://github.com/conda-forge/model-harmonics-feedstock.git
 	path = feedstocks/model-harmonics
 	branch = refs/heads/main
+[submodule "icalendar-searcher"]
+	url = https://github.com/conda-forge/icalendar-searcher-feedstock.git
+	path = feedstocks/icalendar-searcher
+	branch = refs/heads/main
