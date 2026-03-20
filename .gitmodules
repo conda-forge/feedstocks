@@ -111030,3 +111030,7 @@
 	url = https://github.com/conda-forge/jupyverse-auth-feedstock.git
 	path = feedstocks/jupyverse-auth
 	branch = refs/heads/main
+[submodule "ryaml"]
+	url = https://github.com/conda-forge/ryaml-feedstock.git
+	path = feedstocks/ryaml
+	branch = refs/heads/main
