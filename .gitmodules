@@ -111014,3 +111014,7 @@
 	url = https://github.com/conda-forge/r-rextendr-feedstock.git
 	path = feedstocks/r-rextendr
 	branch = refs/heads/main
+[submodule "bblean"]
+	url = https://github.com/conda-forge/bblean-feedstock.git
+	path = feedstocks/bblean
+	branch = refs/heads/main
