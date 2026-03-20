@@ -111090,3 +111090,7 @@
 	url = https://github.com/conda-forge/clusterpilot-feedstock.git
 	path = feedstocks/clusterpilot
 	branch = refs/heads/main
+[submodule "hatch-argparse-manpage"]
+	url = https://github.com/conda-forge/hatch-argparse-manpage-feedstock.git
+	path = feedstocks/hatch-argparse-manpage
+	branch = refs/heads/main
