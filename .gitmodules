@@ -111070,3 +111070,7 @@
 	url = https://github.com/conda-forge/licensecheck-feedstock.git
 	path = feedstocks/licensecheck
 	branch = refs/heads/main
+[submodule "pvapy"]
+	url = https://github.com/conda-forge/pvapy-feedstock.git
+	path = feedstocks/pvapy
+	branch = refs/heads/main
