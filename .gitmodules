@@ -111042,3 +111042,7 @@
 	url = https://github.com/conda-forge/fps-jupyter-server-feedstock.git
 	path = feedstocks/fps-jupyter-server
 	branch = refs/heads/main
+[submodule "jupyverse-ystore"]
+	url = https://github.com/conda-forge/jupyverse-ystore-feedstock.git
+	path = feedstocks/jupyverse-ystore
+	branch = refs/heads/main
