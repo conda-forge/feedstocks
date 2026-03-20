@@ -111058,3 +111058,7 @@
 	url = https://github.com/conda-forge/jupyverse-kernel-feedstock.git
 	path = feedstocks/jupyverse-kernel
 	branch = refs/heads/main
+[submodule "sdmx1"]
+	url = https://github.com/conda-forge/sdmx1-feedstock.git
+	path = feedstocks/sdmx1
+	branch = refs/heads/main
