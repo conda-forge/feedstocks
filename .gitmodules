@@ -111086,3 +111086,7 @@
 	url = https://github.com/conda-forge/aris_lite-feedstock.git
 	path = feedstocks/aris_lite
 	branch = refs/heads/main
+[submodule "clusterpilot"]
+	url = https://github.com/conda-forge/clusterpilot-feedstock.git
+	path = feedstocks/clusterpilot
+	branch = refs/heads/main
