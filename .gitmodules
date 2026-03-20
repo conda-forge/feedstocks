@@ -111074,3 +111074,7 @@
 	url = https://github.com/conda-forge/pvapy-feedstock.git
 	path = feedstocks/pvapy
 	branch = refs/heads/main
+[submodule "pninexus"]
+	url = https://github.com/conda-forge/pninexus-feedstock.git
+	path = feedstocks/pninexus
+	branch = refs/heads/main
