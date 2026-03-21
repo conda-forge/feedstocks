@@ -111126,3 +111126,7 @@
 	url = https://github.com/conda-forge/livekit-plugins-elevenlabs-feedstock.git
 	path = feedstocks/livekit-plugins-elevenlabs
 	branch = refs/heads/main
+[submodule "livekit-plugins-silero"]
+	url = https://github.com/conda-forge/livekit-plugins-silero-feedstock.git
+	path = feedstocks/livekit-plugins-silero
+	branch = refs/heads/main
