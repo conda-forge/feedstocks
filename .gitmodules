@@ -111110,3 +111110,7 @@
 	url = https://github.com/conda-forge/livekit-plugins-assemblyai-feedstock.git
 	path = feedstocks/livekit-plugins-assemblyai
 	branch = refs/heads/main
+[submodule "livekit-plugins-dtln"]
+	url = https://github.com/conda-forge/livekit-plugins-dtln-feedstock.git
+	path = feedstocks/livekit-plugins-dtln
+	branch = refs/heads/main
