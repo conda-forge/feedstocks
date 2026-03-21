@@ -111102,3 +111102,7 @@
 	url = https://github.com/conda-forge/bevy_brp_mcp-feedstock.git
 	path = feedstocks/bevy_brp_mcp
 	branch = refs/heads/main
+[submodule "livekit-plugins-deepgram"]
+	url = https://github.com/conda-forge/livekit-plugins-deepgram-feedstock.git
+	path = feedstocks/livekit-plugins-deepgram
+	branch = refs/heads/main
