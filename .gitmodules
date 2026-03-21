@@ -111118,3 +111118,7 @@
 	url = https://github.com/conda-forge/livekit-plugins-openai-feedstock.git
 	path = feedstocks/livekit-plugins-openai
 	branch = refs/heads/main
+[submodule "livekit-plugins-google"]
+	url = https://github.com/conda-forge/livekit-plugins-google-feedstock.git
+	path = feedstocks/livekit-plugins-google
+	branch = refs/heads/main
