@@ -111106,3 +111106,7 @@
 	url = https://github.com/conda-forge/livekit-plugins-deepgram-feedstock.git
 	path = feedstocks/livekit-plugins-deepgram
 	branch = refs/heads/main
+[submodule "livekit-plugins-assemblyai"]
+	url = https://github.com/conda-forge/livekit-plugins-assemblyai-feedstock.git
+	path = feedstocks/livekit-plugins-assemblyai
+	branch = refs/heads/main
