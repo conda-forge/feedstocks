@@ -111122,3 +111122,7 @@
 	url = https://github.com/conda-forge/livekit-plugins-google-feedstock.git
 	path = feedstocks/livekit-plugins-google
 	branch = refs/heads/main
+[submodule "livekit-plugins-elevenlabs"]
+	url = https://github.com/conda-forge/livekit-plugins-elevenlabs-feedstock.git
+	path = feedstocks/livekit-plugins-elevenlabs
+	branch = refs/heads/main
