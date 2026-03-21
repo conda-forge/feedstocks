@@ -111130,3 +111130,7 @@
 	url = https://github.com/conda-forge/livekit-plugins-silero-feedstock.git
 	path = feedstocks/livekit-plugins-silero
 	branch = refs/heads/main
+[submodule "livekit-plugins-turn-detector"]
+	url = https://github.com/conda-forge/livekit-plugins-turn-detector-feedstock.git
+	path = feedstocks/livekit-plugins-turn-detector
+	branch = refs/heads/main
