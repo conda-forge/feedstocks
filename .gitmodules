@@ -111098,3 +111098,7 @@
 	url = https://github.com/conda-forge/wombat-feedstock.git
 	path = feedstocks/wombat
 	branch = refs/heads/main
+[submodule "bevy_brp_mcp"]
+	url = https://github.com/conda-forge/bevy_brp_mcp-feedstock.git
+	path = feedstocks/bevy_brp_mcp
+	branch = refs/heads/main
