@@ -111134,3 +111134,7 @@
 	url = https://github.com/conda-forge/livekit-plugins-turn-detector-feedstock.git
 	path = feedstocks/livekit-plugins-turn-detector
 	branch = refs/heads/main
+[submodule "rattler"]
+	url = https://github.com/conda-forge/rattler-feedstock.git
+	path = feedstocks/rattler
+	branch = refs/heads/main
