@@ -111142,3 +111142,7 @@
 	url = https://github.com/conda-forge/r-rmacrostrat-feedstock.git
 	path = feedstocks/r-rmacrostrat
 	branch = refs/heads/main
+[submodule "ministream"]
+	url = https://github.com/conda-forge/ministream-feedstock.git
+	path = feedstocks/ministream
+	branch = refs/heads/main
