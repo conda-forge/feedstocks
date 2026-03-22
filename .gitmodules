@@ -111138,3 +111138,7 @@
 	url = https://github.com/conda-forge/rattler-feedstock.git
 	path = feedstocks/rattler
 	branch = refs/heads/main
+[submodule "r-rmacrostrat"]
+	url = https://github.com/conda-forge/r-rmacrostrat-feedstock.git
+	path = feedstocks/r-rmacrostrat
+	branch = refs/heads/main
