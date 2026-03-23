@@ -111158,3 +111158,7 @@
 	url = https://github.com/conda-forge/rebinpy-feedstock.git
 	path = feedstocks/rebinpy
 	branch = refs/heads/main
+[submodule "fastar"]
+	url = https://github.com/conda-forge/fastar-feedstock.git
+	path = feedstocks/fastar
+	branch = refs/heads/main
