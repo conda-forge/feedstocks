@@ -111178,3 +111178,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-tools-feedstock.git
 	path = feedstocks/jupyter-ai-tools
 	branch = refs/heads/main
+[submodule "jupyter-ai-acp-client"]
+	url = https://github.com/conda-forge/jupyter-ai-acp-client-feedstock.git
+	path = feedstocks/jupyter-ai-acp-client
+	branch = refs/heads/main
