@@ -111166,3 +111166,7 @@
 	url = https://github.com/conda-forge/miniaudio-feedstock.git
 	path = feedstocks/miniaudio
 	branch = refs/heads/main
+[submodule "clickqt-utils"]
+	url = https://github.com/conda-forge/clickqt-utils-feedstock.git
+	path = feedstocks/clickqt-utils
+	branch = refs/heads/main
