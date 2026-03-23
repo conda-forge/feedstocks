@@ -111186,3 +111186,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-chat-commands-feedstock.git
 	path = feedstocks/jupyter-ai-chat-commands
 	branch = refs/heads/main
+[submodule "libprotobuf-bazel-systemlib"]
+	url = https://github.com/conda-forge/libprotobuf-bazel-systemlib-feedstock.git
+	path = feedstocks/libprotobuf-bazel-systemlib
+	branch = refs/heads/main
