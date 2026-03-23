@@ -111146,3 +111146,7 @@
 	url = https://github.com/conda-forge/ministream-feedstock.git
 	path = feedstocks/ministream
 	branch = refs/heads/main
+[submodule "imaplib2"]
+	url = https://github.com/conda-forge/imaplib2-feedstock.git
+	path = feedstocks/imaplib2
+	branch = refs/heads/main
