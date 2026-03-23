@@ -111182,3 +111182,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-acp-client-feedstock.git
 	path = feedstocks/jupyter-ai-acp-client
 	branch = refs/heads/main
+[submodule "jupyter-ai-chat-commands"]
+	url = https://github.com/conda-forge/jupyter-ai-chat-commands-feedstock.git
+	path = feedstocks/jupyter-ai-chat-commands
+	branch = refs/heads/main
