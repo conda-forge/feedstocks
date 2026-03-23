@@ -111150,3 +111150,7 @@
 	url = https://github.com/conda-forge/imaplib2-feedstock.git
 	path = feedstocks/imaplib2
 	branch = refs/heads/main
+[submodule "ramp-coremaker"]
+	url = https://github.com/conda-forge/ramp-coremaker-feedstock.git
+	path = feedstocks/ramp-coremaker
+	branch = refs/heads/main
