@@ -111174,3 +111174,7 @@
 	url = https://github.com/conda-forge/sfcgal-feedstock.git
 	path = feedstocks/sfcgal
 	branch = refs/heads/main
+[submodule "jupyter-ai-tools"]
+	url = https://github.com/conda-forge/jupyter-ai-tools-feedstock.git
+	path = feedstocks/jupyter-ai-tools
+	branch = refs/heads/main
