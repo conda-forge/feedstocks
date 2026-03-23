@@ -111162,3 +111162,7 @@
 	url = https://github.com/conda-forge/fastar-feedstock.git
 	path = feedstocks/fastar
 	branch = refs/heads/main
+[submodule "miniaudio"]
+	url = https://github.com/conda-forge/miniaudio-feedstock.git
+	path = feedstocks/miniaudio
+	branch = refs/heads/main
