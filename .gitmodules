@@ -111170,3 +111170,7 @@
 	url = https://github.com/conda-forge/clickqt-utils-feedstock.git
 	path = feedstocks/clickqt-utils
 	branch = refs/heads/main
+[submodule "sfcgal"]
+	url = https://github.com/conda-forge/sfcgal-feedstock.git
+	path = feedstocks/sfcgal
+	branch = refs/heads/main
