@@ -111154,3 +111154,7 @@
 	url = https://github.com/conda-forge/ramp-coremaker-feedstock.git
 	path = feedstocks/ramp-coremaker
 	branch = refs/heads/main
+[submodule "rebinpy"]
+	url = https://github.com/conda-forge/rebinpy-feedstock.git
+	path = feedstocks/rebinpy
+	branch = refs/heads/main
