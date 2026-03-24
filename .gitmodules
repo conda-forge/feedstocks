@@ -111210,3 +111210,7 @@
 	url = https://github.com/conda-forge/perceval-feedstock.git
 	path = feedstocks/perceval
 	branch = refs/heads/main
+[submodule "ramp-batman"]
+	url = https://github.com/conda-forge/ramp-batman-feedstock.git
+	path = feedstocks/ramp-batman
+	branch = refs/heads/main
