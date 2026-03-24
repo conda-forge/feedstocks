@@ -111218,3 +111218,7 @@
 	url = https://github.com/conda-forge/tango-takeoff-feedstock.git
 	path = feedstocks/tango-takeoff
 	branch = refs/heads/main
+[submodule "cel-expr-python"]
+	url = https://github.com/conda-forge/cel-expr-python-feedstock.git
+	path = feedstocks/cel-expr-python
+	branch = refs/heads/main
