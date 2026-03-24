@@ -111246,3 +111246,7 @@
 	url = https://github.com/conda-forge/pyvims-feedstock.git
 	path = feedstocks/pyvims
 	branch = refs/heads/main
+[submodule "pyosmium"]
+	url = https://github.com/conda-forge/pyosmium-feedstock.git
+	path = feedstocks/pyosmium
+	branch = refs/heads/main
