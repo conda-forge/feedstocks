@@ -111242,3 +111242,7 @@
 	url = https://github.com/conda-forge/bedrock-agentcore-feedstock.git
 	path = feedstocks/bedrock-agentcore
 	branch = refs/heads/main
+[submodule "pyvims"]
+	url = https://github.com/conda-forge/pyvims-feedstock.git
+	path = feedstocks/pyvims
+	branch = refs/heads/main
