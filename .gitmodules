@@ -111250,3 +111250,7 @@
 	url = https://github.com/conda-forge/pyosmium-feedstock.git
 	path = feedstocks/pyosmium
 	branch = refs/heads/main
+[submodule "hpp-python"]
+	url = https://github.com/conda-forge/hpp-python-feedstock.git
+	path = feedstocks/hpp-python
+	branch = refs/heads/main
