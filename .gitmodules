@@ -111238,3 +111238,7 @@
 	url = https://github.com/conda-forge/ibm-quantum-schemas-feedstock.git
 	path = feedstocks/ibm-quantum-schemas
 	branch = refs/heads/main
+[submodule "bedrock-agentcore"]
+	url = https://github.com/conda-forge/bedrock-agentcore-feedstock.git
+	path = feedstocks/bedrock-agentcore
+	branch = refs/heads/main
