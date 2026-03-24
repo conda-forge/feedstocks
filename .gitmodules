@@ -111234,3 +111234,7 @@
 	url = https://github.com/conda-forge/samplomatic-feedstock.git
 	path = feedstocks/samplomatic
 	branch = refs/heads/main
+[submodule "ibm-quantum-schemas"]
+	url = https://github.com/conda-forge/ibm-quantum-schemas-feedstock.git
+	path = feedstocks/ibm-quantum-schemas
+	branch = refs/heads/main
