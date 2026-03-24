@@ -111226,3 +111226,7 @@
 	url = https://github.com/conda-forge/ramp-coreoperator-feedstock.git
 	path = feedstocks/ramp-coreoperator
 	branch = refs/heads/main
+[submodule "envstack"]
+	url = https://github.com/conda-forge/envstack-feedstock.git
+	path = feedstocks/envstack
+	branch = refs/heads/main
