@@ -111206,3 +111206,7 @@
 	url = https://github.com/conda-forge/grimoirelab-toolkit-feedstock.git
 	path = feedstocks/grimoirelab-toolkit
 	branch = refs/heads/main
+[submodule "perceval"]
+	url = https://github.com/conda-forge/perceval-feedstock.git
+	path = feedstocks/perceval
+	branch = refs/heads/main
