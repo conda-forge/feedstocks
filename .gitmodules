@@ -111202,3 +111202,7 @@
 	url = https://github.com/conda-forge/specify-cli-feedstock.git
 	path = feedstocks/specify-cli
 	branch = refs/heads/main
+[submodule "grimoirelab-toolkit"]
+	url = https://github.com/conda-forge/grimoirelab-toolkit-feedstock.git
+	path = feedstocks/grimoirelab-toolkit
+	branch = refs/heads/main
