@@ -111198,3 +111198,7 @@
 	url = https://github.com/conda-forge/mujoco-usd-converter-feedstock.git
 	path = feedstocks/mujoco-usd-converter
 	branch = refs/heads/main
+[submodule "specify-cli"]
+	url = https://github.com/conda-forge/specify-cli-feedstock.git
+	path = feedstocks/specify-cli
+	branch = refs/heads/main
