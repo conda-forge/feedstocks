@@ -111262,3 +111262,7 @@
 	url = https://github.com/conda-forge/derzug-feedstock.git
 	path = feedstocks/derzug
 	branch = refs/heads/main
+[submodule "hypothesis-awkward"]
+	url = https://github.com/conda-forge/hypothesis-awkward-feedstock.git
+	path = feedstocks/hypothesis-awkward
+	branch = refs/heads/main
