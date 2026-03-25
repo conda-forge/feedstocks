@@ -111254,3 +111254,7 @@
 	url = https://github.com/conda-forge/hpp-python-feedstock.git
 	path = feedstocks/hpp-python
 	branch = refs/heads/main
+[submodule "wetlandmapper"]
+	url = https://github.com/conda-forge/wetlandmapper-feedstock.git
+	path = feedstocks/wetlandmapper
+	branch = refs/heads/main
