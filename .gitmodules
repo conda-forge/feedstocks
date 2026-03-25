@@ -111258,3 +111258,7 @@
 	url = https://github.com/conda-forge/wetlandmapper-feedstock.git
 	path = feedstocks/wetlandmapper
 	branch = refs/heads/main
+[submodule "derzug"]
+	url = https://github.com/conda-forge/derzug-feedstock.git
+	path = feedstocks/derzug
+	branch = refs/heads/main
