@@ -111266,3 +111266,7 @@
 	url = https://github.com/conda-forge/hypothesis-awkward-feedstock.git
 	path = feedstocks/hypothesis-awkward
 	branch = refs/heads/main
+[submodule "cel-spec-proto-python"]
+	url = https://github.com/conda-forge/cel-spec-proto-python-feedstock.git
+	path = feedstocks/cel-spec-proto-python
+	branch = refs/heads/main
