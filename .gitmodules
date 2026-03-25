@@ -111270,3 +111270,7 @@
 	url = https://github.com/conda-forge/cel-spec-proto-python-feedstock.git
 	path = feedstocks/cel-spec-proto-python
 	branch = refs/heads/main
+[submodule "ramp-corecompute"]
+	url = https://github.com/conda-forge/ramp-corecompute-feedstock.git
+	path = feedstocks/ramp-corecompute
+	branch = refs/heads/main
