@@ -111318,3 +111318,7 @@
 	url = https://github.com/conda-forge/cc-plugin-sgrid-feedstock.git
 	path = feedstocks/cc-plugin-sgrid
 	branch = refs/heads/main
+[submodule "taskwarrior-tui"]
+	url = https://github.com/conda-forge/taskwarrior-tui-feedstock.git
+	path = feedstocks/taskwarrior-tui
+	branch = refs/heads/main
