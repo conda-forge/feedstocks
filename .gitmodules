@@ -111294,3 +111294,7 @@
 	url = https://github.com/conda-forge/ramp-toplevel-feedstock.git
 	path = feedstocks/ramp-toplevel
 	branch = refs/heads/main
+[submodule "ramp-dorbanadapter"]
+	url = https://github.com/conda-forge/ramp-dorbanadapter-feedstock.git
+	path = feedstocks/ramp-dorbanadapter
+	branch = refs/heads/main
