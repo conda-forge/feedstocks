@@ -111322,3 +111322,7 @@
 	url = https://github.com/conda-forge/taskwarrior-tui-feedstock.git
 	path = feedstocks/taskwarrior-tui
 	branch = refs/heads/main
+[submodule "signurlarity"]
+	url = https://github.com/conda-forge/signurlarity-feedstock.git
+	path = feedstocks/signurlarity
+	branch = refs/heads/main
