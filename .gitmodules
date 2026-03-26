@@ -111310,3 +111310,7 @@
 	url = https://github.com/conda-forge/nu_plugin_connectorx-feedstock.git
 	path = feedstocks/nu_plugin_connectorx
 	branch = refs/heads/main
+[submodule "pip-licenses"]
+	url = https://github.com/conda-forge/pip-licenses-feedstock.git
+	path = feedstocks/pip-licenses
+	branch = refs/heads/main
