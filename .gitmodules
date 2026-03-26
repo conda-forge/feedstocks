@@ -111282,3 +111282,7 @@
 	url = https://github.com/conda-forge/worktrunk-feedstock.git
 	path = feedstocks/worktrunk
 	branch = refs/heads/main
+[submodule "hptt"]
+	url = https://github.com/conda-forge/hptt-feedstock.git
+	path = feedstocks/hptt
+	branch = refs/heads/main
