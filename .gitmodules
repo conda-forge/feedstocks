@@ -111278,3 +111278,7 @@
 	url = https://github.com/conda-forge/rosdoc2-feedstock.git
 	path = feedstocks/rosdoc2
 	branch = refs/heads/main
+[submodule "worktrunk"]
+	url = https://github.com/conda-forge/worktrunk-feedstock.git
+	path = feedstocks/worktrunk
+	branch = refs/heads/main
