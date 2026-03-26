@@ -111306,3 +111306,7 @@
 	url = https://github.com/conda-forge/xllim-feedstock.git
 	path = feedstocks/xllim
 	branch = refs/heads/main
+[submodule "nu_plugin_connectorx"]
+	url = https://github.com/conda-forge/nu_plugin_connectorx-feedstock.git
+	path = feedstocks/nu_plugin_connectorx
+	branch = refs/heads/main
