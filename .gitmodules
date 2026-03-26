@@ -111298,3 +111298,7 @@
 	url = https://github.com/conda-forge/ramp-dorbanadapter-feedstock.git
 	path = feedstocks/ramp-dorbanadapter
 	branch = refs/heads/main
+[submodule "ramp-openmc"]
+	url = https://github.com/conda-forge/ramp-openmc-feedstock.git
+	path = feedstocks/ramp-openmc
+	branch = refs/heads/main
