@@ -111302,3 +111302,7 @@
 	url = https://github.com/conda-forge/ramp-openmc-feedstock.git
 	path = feedstocks/ramp-openmc
 	branch = refs/heads/main
+[submodule "xllim"]
+	url = https://github.com/conda-forge/xllim-feedstock.git
+	path = feedstocks/xllim
+	branch = refs/heads/main
