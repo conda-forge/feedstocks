@@ -111314,3 +111314,7 @@
 	url = https://github.com/conda-forge/pip-licenses-feedstock.git
 	path = feedstocks/pip-licenses
 	branch = refs/heads/main
+[submodule "cc-plugin-sgrid"]
+	url = https://github.com/conda-forge/cc-plugin-sgrid-feedstock.git
+	path = feedstocks/cc-plugin-sgrid
+	branch = refs/heads/main
