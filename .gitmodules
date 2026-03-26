@@ -111274,3 +111274,7 @@
 	url = https://github.com/conda-forge/ramp-corecompute-feedstock.git
 	path = feedstocks/ramp-corecompute
 	branch = refs/heads/main
+[submodule "rosdoc2"]
+	url = https://github.com/conda-forge/rosdoc2-feedstock.git
+	path = feedstocks/rosdoc2
+	branch = refs/heads/main
