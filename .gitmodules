@@ -111338,3 +111338,7 @@
 	url = https://github.com/conda-forge/openff-packmol-feedstock.git
 	path = feedstocks/openff-packmol
 	branch = refs/heads/main
+[submodule "hf-gradio"]
+	url = https://github.com/conda-forge/hf-gradio-feedstock.git
+	path = feedstocks/hf-gradio
+	branch = refs/heads/main
