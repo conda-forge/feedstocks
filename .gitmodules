@@ -111334,3 +111334,7 @@
 	url = https://github.com/conda-forge/guard-core-feedstock.git
 	path = feedstocks/guard-core
 	branch = refs/heads/main
+[submodule "openff-packmol"]
+	url = https://github.com/conda-forge/openff-packmol-feedstock.git
+	path = feedstocks/openff-packmol
+	branch = refs/heads/main
