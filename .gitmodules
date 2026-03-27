@@ -111330,3 +111330,7 @@
 	url = https://github.com/conda-forge/stakpak-feedstock.git
 	path = feedstocks/stakpak
 	branch = refs/heads/main
+[submodule "guard-core"]
+	url = https://github.com/conda-forge/guard-core-feedstock.git
+	path = feedstocks/guard-core
+	branch = refs/heads/main
