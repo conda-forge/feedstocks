@@ -111358,3 +111358,7 @@
 	url = https://github.com/conda-forge/pysepal-feedstock.git
 	path = feedstocks/pysepal
 	branch = refs/heads/main
+[submodule "datadesclib"]
+	url = https://github.com/conda-forge/datadesclib-feedstock.git
+	path = feedstocks/datadesclib
+	branch = refs/heads/main
