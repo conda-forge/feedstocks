@@ -111362,3 +111362,7 @@
 	url = https://github.com/conda-forge/datadesclib-feedstock.git
 	path = feedstocks/datadesclib
 	branch = refs/heads/main
+[submodule "windio"]
+	url = https://github.com/conda-forge/windio-feedstock.git
+	path = feedstocks/windio
+	branch = refs/heads/main
