@@ -111354,3 +111354,7 @@
 	url = https://github.com/conda-forge/anidms-feedstock.git
 	path = feedstocks/anidms
 	branch = refs/heads/main
+[submodule "pysepal"]
+	url = https://github.com/conda-forge/pysepal-feedstock.git
+	path = feedstocks/pysepal
+	branch = refs/heads/main
