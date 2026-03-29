@@ -111346,3 +111346,7 @@
 	url = https://github.com/conda-forge/cargo-outdated-feedstock.git
 	path = feedstocks/cargo-outdated
 	branch = refs/heads/main
+[submodule "pyspark-client"]
+	url = https://github.com/conda-forge/pyspark-client-feedstock.git
+	path = feedstocks/pyspark-client
+	branch = refs/heads/main
