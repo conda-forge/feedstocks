@@ -111366,3 +111366,7 @@
 	url = https://github.com/conda-forge/windio-feedstock.git
 	path = feedstocks/windio
 	branch = refs/heads/main
+[submodule "marmot-agents"]
+	url = https://github.com/conda-forge/marmot-agents-feedstock.git
+	path = feedstocks/marmot-agents
+	branch = refs/heads/main
