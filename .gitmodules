@@ -111350,3 +111350,7 @@
 	url = https://github.com/conda-forge/pyspark-client-feedstock.git
 	path = feedstocks/pyspark-client
 	branch = refs/heads/main
+[submodule "anidms"]
+	url = https://github.com/conda-forge/anidms-feedstock.git
+	path = feedstocks/anidms
+	branch = refs/heads/main
