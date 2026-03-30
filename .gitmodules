@@ -111382,3 +111382,7 @@
 	url = https://github.com/conda-forge/properdocs-feedstock.git
 	path = feedstocks/properdocs
 	branch = refs/heads/main
+[submodule "rgtlib"]
+	url = https://github.com/conda-forge/rgtlib-feedstock.git
+	path = feedstocks/rgtlib
+	branch = refs/heads/main
