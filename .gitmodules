@@ -111370,3 +111370,7 @@
 	url = https://github.com/conda-forge/marmot-agents-feedstock.git
 	path = feedstocks/marmot-agents
 	branch = refs/heads/main
+[submodule "decord"]
+	url = https://github.com/conda-forge/decord-feedstock.git
+	path = feedstocks/decord
+	branch = refs/heads/main
