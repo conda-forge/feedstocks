@@ -111378,3 +111378,7 @@
 	url = https://github.com/conda-forge/lightkube-models-feedstock.git
 	path = feedstocks/lightkube-models
 	branch = refs/heads/main
+[submodule "properdocs"]
+	url = https://github.com/conda-forge/properdocs-feedstock.git
+	path = feedstocks/properdocs
+	branch = refs/heads/main
