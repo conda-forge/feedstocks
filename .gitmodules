@@ -111398,3 +111398,7 @@
 	url = https://github.com/conda-forge/dra-feedstock.git
 	path = feedstocks/dra
 	branch = refs/heads/main
+[submodule "paks"]
+	url = https://github.com/conda-forge/paks-feedstock.git
+	path = feedstocks/paks
+	branch = refs/heads/main
