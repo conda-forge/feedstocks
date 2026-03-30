@@ -111390,3 +111390,7 @@
 	url = https://github.com/conda-forge/lightkube-feedstock.git
 	path = feedstocks/lightkube
 	branch = refs/heads/main
+[submodule "suvadu"]
+	url = https://github.com/conda-forge/suvadu-feedstock.git
+	path = feedstocks/suvadu
+	branch = refs/heads/main
