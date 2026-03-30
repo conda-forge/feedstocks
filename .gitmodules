@@ -111374,3 +111374,7 @@
 	url = https://github.com/conda-forge/decord-feedstock.git
 	path = feedstocks/decord
 	branch = refs/heads/main
+[submodule "lightkube-models"]
+	url = https://github.com/conda-forge/lightkube-models-feedstock.git
+	path = feedstocks/lightkube-models
+	branch = refs/heads/main
