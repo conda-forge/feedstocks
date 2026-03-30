@@ -111394,3 +111394,7 @@
 	url = https://github.com/conda-forge/suvadu-feedstock.git
 	path = feedstocks/suvadu
 	branch = refs/heads/main
+[submodule "dra"]
+	url = https://github.com/conda-forge/dra-feedstock.git
+	path = feedstocks/dra
+	branch = refs/heads/main
