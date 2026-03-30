@@ -111386,3 +111386,7 @@
 	url = https://github.com/conda-forge/rgtlib-feedstock.git
 	path = feedstocks/rgtlib
 	branch = refs/heads/main
+[submodule "lightkube"]
+	url = https://github.com/conda-forge/lightkube-feedstock.git
+	path = feedstocks/lightkube
+	branch = refs/heads/main
