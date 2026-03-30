@@ -111402,3 +111402,7 @@
 	url = https://github.com/conda-forge/paks-feedstock.git
 	path = feedstocks/paks
 	branch = refs/heads/main
+[submodule "easyimaging"]
+	url = https://github.com/conda-forge/easyimaging-feedstock.git
+	path = feedstocks/easyimaging
+	branch = refs/heads/main
