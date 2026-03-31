@@ -111406,3 +111406,7 @@
 	url = https://github.com/conda-forge/easyimaging-feedstock.git
 	path = feedstocks/easyimaging
 	branch = refs/heads/main
+[submodule "conda-workspaces"]
+	url = https://github.com/conda-forge/conda-workspaces-feedstock.git
+	path = feedstocks/conda-workspaces
+	branch = refs/heads/main
