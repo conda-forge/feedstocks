@@ -111430,3 +111430,7 @@
 	url = https://github.com/conda-forge/sbb-tui-feedstock.git
 	path = feedstocks/sbb-tui
 	branch = refs/heads/main
+[submodule "amn"]
+	url = https://github.com/conda-forge/amn-feedstock.git
+	path = feedstocks/amn
+	branch = refs/heads/main
