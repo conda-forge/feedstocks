@@ -111426,3 +111426,7 @@
 	url = https://github.com/conda-forge/tardigrade_micromorphic_element-feedstock.git
 	path = feedstocks/tardigrade_micromorphic_element
 	branch = refs/heads/main
+[submodule "sbb-tui"]
+	url = https://github.com/conda-forge/sbb-tui-feedstock.git
+	path = feedstocks/sbb-tui
+	branch = refs/heads/main
