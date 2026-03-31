@@ -111410,3 +111410,7 @@
 	url = https://github.com/conda-forge/conda-workspaces-feedstock.git
 	path = feedstocks/conda-workspaces
 	branch = refs/heads/main
+[submodule "pyiceberg-core"]
+	url = https://github.com/conda-forge/pyiceberg-core-feedstock.git
+	path = feedstocks/pyiceberg-core
+	branch = refs/heads/main
