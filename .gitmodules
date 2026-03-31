@@ -111450,3 +111450,7 @@
 	url = https://github.com/conda-forge/bmad-method-feedstock.git
 	path = feedstocks/bmad-method
 	branch = refs/heads/main
+[submodule "types-geopandas"]
+	url = https://github.com/conda-forge/types-geopandas-feedstock.git
+	path = feedstocks/types-geopandas
+	branch = refs/heads/main
