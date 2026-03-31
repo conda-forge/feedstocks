@@ -111434,3 +111434,7 @@
 	url = https://github.com/conda-forge/amn-feedstock.git
 	path = feedstocks/amn
 	branch = refs/heads/main
+[submodule "maqao"]
+	url = https://github.com/conda-forge/maqao-feedstock.git
+	path = feedstocks/maqao
+	branch = refs/heads/main
