@@ -111438,3 +111438,7 @@
 	url = https://github.com/conda-forge/maqao-feedstock.git
 	path = feedstocks/maqao
 	branch = refs/heads/main
+[submodule "frustratometer"]
+	url = https://github.com/conda-forge/frustratometer-feedstock.git
+	path = feedstocks/frustratometer
+	branch = refs/heads/main
