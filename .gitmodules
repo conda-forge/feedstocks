@@ -111446,3 +111446,7 @@
 	url = https://github.com/conda-forge/transfunctions-feedstock.git
 	path = feedstocks/transfunctions
 	branch = refs/heads/main
+[submodule "bmad-method"]
+	url = https://github.com/conda-forge/bmad-method-feedstock.git
+	path = feedstocks/bmad-method
+	branch = refs/heads/main
