@@ -111414,3 +111414,7 @@
 	url = https://github.com/conda-forge/pyiceberg-core-feedstock.git
 	path = feedstocks/pyiceberg-core
 	branch = refs/heads/main
+[submodule "mf6adj"]
+	url = https://github.com/conda-forge/mf6adj-feedstock.git
+	path = feedstocks/mf6adj
+	branch = refs/heads/main
