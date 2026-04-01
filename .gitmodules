@@ -111454,3 +111454,7 @@
 	url = https://github.com/conda-forge/types-geopandas-feedstock.git
 	path = feedstocks/types-geopandas
 	branch = refs/heads/main
+[submodule "ccache-storage-http-cpp"]
+	url = https://github.com/conda-forge/ccache-storage-http-cpp-feedstock.git
+	path = feedstocks/ccache-storage-http-cpp
+	branch = refs/heads/main
