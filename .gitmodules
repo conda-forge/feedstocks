@@ -111474,3 +111474,7 @@
 	url = https://github.com/conda-forge/rpcompletion-feedstock.git
 	path = feedstocks/rpcompletion
 	branch = refs/heads/main
+[submodule "rpextractsink"]
+	url = https://github.com/conda-forge/rpextractsink-feedstock.git
+	path = feedstocks/rpextractsink
+	branch = refs/heads/main
