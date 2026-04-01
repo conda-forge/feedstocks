@@ -111466,3 +111466,7 @@
 	url = https://github.com/conda-forge/jcm-feedstock.git
 	path = feedstocks/jcm
 	branch = refs/heads/main
+[submodule "pycfast"]
+	url = https://github.com/conda-forge/pycfast-feedstock.git
+	path = feedstocks/pycfast
+	branch = refs/heads/main
