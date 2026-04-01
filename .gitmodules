@@ -111462,3 +111462,7 @@
 	url = https://github.com/conda-forge/jax-datetime-feedstock.git
 	path = feedstocks/jax-datetime
 	branch = refs/heads/main
+[submodule "jcm"]
+	url = https://github.com/conda-forge/jcm-feedstock.git
+	path = feedstocks/jcm
+	branch = refs/heads/main
