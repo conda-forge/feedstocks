@@ -111470,3 +111470,7 @@
 	url = https://github.com/conda-forge/pycfast-feedstock.git
 	path = feedstocks/pycfast
 	branch = refs/heads/main
+[submodule "rpcompletion"]
+	url = https://github.com/conda-forge/rpcompletion-feedstock.git
+	path = feedstocks/rpcompletion
+	branch = refs/heads/main
