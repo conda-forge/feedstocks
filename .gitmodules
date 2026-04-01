@@ -111482,3 +111482,7 @@
 	url = https://github.com/conda-forge/opening-hours-py-feedstock.git
 	path = feedstocks/opening-hours-py
 	branch = refs/heads/main
+[submodule "conda-global"]
+	url = https://github.com/conda-forge/conda-global-feedstock.git
+	path = feedstocks/conda-global
+	branch = refs/heads/main
