@@ -111486,3 +111486,7 @@
 	url = https://github.com/conda-forge/conda-global-feedstock.git
 	path = feedstocks/conda-global
 	branch = refs/heads/main
+[submodule "rtk-cli"]
+	url = https://github.com/conda-forge/rtk-cli-feedstock.git
+	path = feedstocks/rtk-cli
+	branch = refs/heads/main
