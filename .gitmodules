@@ -111514,3 +111514,7 @@
 	url = https://github.com/conda-forge/sparrow-ipc-feedstock.git
 	path = feedstocks/sparrow-ipc
 	branch = refs/heads/main
+[submodule "nb-cli"]
+	url = https://github.com/conda-forge/nb-cli-feedstock.git
+	path = feedstocks/nb-cli
+	branch = refs/heads/main
