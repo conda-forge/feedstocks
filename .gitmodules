@@ -111490,3 +111490,7 @@
 	url = https://github.com/conda-forge/rtk-cli-feedstock.git
 	path = feedstocks/rtk-cli
 	branch = refs/heads/main
+[submodule "htmd"]
+	url = https://github.com/conda-forge/htmd-feedstock.git
+	path = feedstocks/htmd
+	branch = refs/heads/main
