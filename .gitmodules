@@ -111498,3 +111498,7 @@
 	url = https://github.com/conda-forge/macpow-feedstock.git
 	path = feedstocks/macpow
 	branch = refs/heads/main
+[submodule "libsocketcan"]
+	url = https://github.com/conda-forge/libsocketcan-feedstock.git
+	path = feedstocks/libsocketcan
+	branch = refs/heads/main
