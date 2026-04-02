@@ -111502,3 +111502,7 @@
 	url = https://github.com/conda-forge/libsocketcan-feedstock.git
 	path = feedstocks/libsocketcan
 	branch = refs/heads/main
+[submodule "artem"]
+	url = https://github.com/conda-forge/artem-feedstock.git
+	path = feedstocks/artem
+	branch = refs/heads/main
