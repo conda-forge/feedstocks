@@ -111510,3 +111510,7 @@
 	url = https://github.com/conda-forge/rpthermo-feedstock.git
 	path = feedstocks/rpthermo
 	branch = refs/heads/main
+[submodule "sparrow-ipc"]
+	url = https://github.com/conda-forge/sparrow-ipc-feedstock.git
+	path = feedstocks/sparrow-ipc
+	branch = refs/heads/main
