@@ -111506,3 +111506,7 @@
 	url = https://github.com/conda-forge/artem-feedstock.git
 	path = feedstocks/artem
 	branch = refs/heads/main
+[submodule "rpthermo"]
+	url = https://github.com/conda-forge/rpthermo-feedstock.git
+	path = feedstocks/rpthermo
+	branch = refs/heads/main
