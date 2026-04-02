@@ -111518,3 +111518,7 @@
 	url = https://github.com/conda-forge/nb-cli-feedstock.git
 	path = feedstocks/nb-cli
 	branch = refs/heads/main
+[submodule "qt-scxml"]
+	url = https://github.com/conda-forge/qt-scxml-feedstock.git
+	path = feedstocks/qt-scxml
+	branch = refs/heads/main
