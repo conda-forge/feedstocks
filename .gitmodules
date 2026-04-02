@@ -111494,3 +111494,7 @@
 	url = https://github.com/conda-forge/htmd-feedstock.git
 	path = feedstocks/htmd
 	branch = refs/heads/main
+[submodule "macpow"]
+	url = https://github.com/conda-forge/macpow-feedstock.git
+	path = feedstocks/macpow
+	branch = refs/heads/main
