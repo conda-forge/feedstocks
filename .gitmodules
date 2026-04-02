@@ -111526,3 +111526,7 @@
 	url = https://github.com/conda-forge/mapcat-feedstock.git
 	path = feedstocks/mapcat
 	branch = refs/heads/main
+[submodule "mise"]
+	url = https://github.com/conda-forge/mise-feedstock.git
+	path = feedstocks/mise
+	branch = refs/heads/main
