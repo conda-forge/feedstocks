@@ -111554,3 +111554,7 @@
 	url = https://github.com/conda-forge/stac-pydantic-feedstock.git
 	path = feedstocks/stac-pydantic
 	branch = refs/heads/main
+[submodule "confingy"]
+	url = https://github.com/conda-forge/confingy-feedstock.git
+	path = feedstocks/confingy
+	branch = refs/heads/main
