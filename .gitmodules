@@ -111562,3 +111562,7 @@
 	url = https://github.com/conda-forge/chbshash-feedstock.git
 	path = feedstocks/chbshash
 	branch = refs/heads/main
+[submodule "fsspec-rs"]
+	url = https://github.com/conda-forge/fsspec-rs-feedstock.git
+	path = feedstocks/fsspec-rs
+	branch = refs/heads/main
