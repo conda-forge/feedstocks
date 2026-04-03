@@ -111546,3 +111546,7 @@
 	url = https://github.com/conda-forge/hedtools-feedstock.git
 	path = feedstocks/hedtools
 	branch = refs/heads/main
+[submodule "orbit-nrel"]
+	url = https://github.com/conda-forge/orbit-nrel-feedstock.git
+	path = feedstocks/orbit-nrel
+	branch = refs/heads/main
