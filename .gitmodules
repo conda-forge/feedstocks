@@ -111558,3 +111558,7 @@
 	url = https://github.com/conda-forge/confingy-feedstock.git
 	path = feedstocks/confingy
 	branch = refs/heads/main
+[submodule "chbshash"]
+	url = https://github.com/conda-forge/chbshash-feedstock.git
+	path = feedstocks/chbshash
+	branch = refs/heads/main
