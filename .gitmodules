@@ -111542,3 +111542,7 @@
 	url = https://github.com/conda-forge/spider_cli-feedstock.git
 	path = feedstocks/spider_cli
 	branch = refs/heads/main
+[submodule "hedtools"]
+	url = https://github.com/conda-forge/hedtools-feedstock.git
+	path = feedstocks/hedtools
+	branch = refs/heads/main
