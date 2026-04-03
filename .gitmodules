@@ -111566,3 +111566,7 @@
 	url = https://github.com/conda-forge/fsspec-rs-feedstock.git
 	path = feedstocks/fsspec-rs
 	branch = refs/heads/main
+[submodule "validatedata"]
+	url = https://github.com/conda-forge/validatedata-feedstock.git
+	path = feedstocks/validatedata
+	branch = refs/heads/main
