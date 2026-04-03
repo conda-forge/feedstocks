@@ -111534,3 +111534,7 @@
 	url = https://github.com/conda-forge/hydra-python-feedstock.git
 	path = feedstocks/hydra-python
 	branch = refs/heads/main
+[submodule "hf-mount"]
+	url = https://github.com/conda-forge/hf-mount-feedstock.git
+	path = feedstocks/hf-mount
+	branch = refs/heads/main
