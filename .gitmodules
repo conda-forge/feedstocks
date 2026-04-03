@@ -111530,3 +111530,7 @@
 	url = https://github.com/conda-forge/mise-feedstock.git
 	path = feedstocks/mise
 	branch = refs/heads/main
+[submodule "hydra-python"]
+	url = https://github.com/conda-forge/hydra-python-feedstock.git
+	path = feedstocks/hydra-python
+	branch = refs/heads/main
