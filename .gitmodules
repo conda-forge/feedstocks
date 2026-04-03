@@ -111550,3 +111550,7 @@
 	url = https://github.com/conda-forge/orbit-nrel-feedstock.git
 	path = feedstocks/orbit-nrel
 	branch = refs/heads/main
+[submodule "stac-pydantic"]
+	url = https://github.com/conda-forge/stac-pydantic-feedstock.git
+	path = feedstocks/stac-pydantic
+	branch = refs/heads/main
