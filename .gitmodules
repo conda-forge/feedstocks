@@ -111574,3 +111574,7 @@
 	url = https://github.com/conda-forge/dovi_tool-feedstock.git
 	path = feedstocks/dovi_tool
 	branch = refs/heads/main
+[submodule "idt"]
+	url = https://github.com/conda-forge/idt-feedstock.git
+	path = feedstocks/idt
+	branch = refs/heads/main
