@@ -111570,3 +111570,7 @@
 	url = https://github.com/conda-forge/validatedata-feedstock.git
 	path = feedstocks/validatedata
 	branch = refs/heads/main
+[submodule "dovi_tool"]
+	url = https://github.com/conda-forge/dovi_tool-feedstock.git
+	path = feedstocks/dovi_tool
+	branch = refs/heads/main
