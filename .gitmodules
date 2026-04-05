@@ -111582,3 +111582,7 @@
 	url = https://github.com/conda-forge/colgrep-feedstock.git
 	path = feedstocks/colgrep
 	branch = refs/heads/main
+[submodule "liteparse"]
+	url = https://github.com/conda-forge/liteparse-feedstock.git
+	path = feedstocks/liteparse
+	branch = refs/heads/main
