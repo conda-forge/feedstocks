@@ -111578,3 +111578,7 @@
 	url = https://github.com/conda-forge/idt-feedstock.git
 	path = feedstocks/idt
 	branch = refs/heads/main
+[submodule "colgrep"]
+	url = https://github.com/conda-forge/colgrep-feedstock.git
+	path = feedstocks/colgrep
+	branch = refs/heads/main
