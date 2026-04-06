@@ -111606,3 +111606,7 @@
 	url = https://github.com/conda-forge/fastapi-slim-feedstock.git
 	path = feedstocks/fastapi-slim
 	branch = refs/heads/main
+[submodule "django-prometheus"]
+	url = https://github.com/conda-forge/django-prometheus-feedstock.git
+	path = feedstocks/django-prometheus
+	branch = refs/heads/main
