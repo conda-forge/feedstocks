@@ -111602,3 +111602,7 @@
 	url = https://github.com/conda-forge/sema4ai-http-helper-feedstock.git
 	path = feedstocks/sema4ai-http-helper
 	branch = refs/heads/main
+[submodule "fastapi-slim"]
+	url = https://github.com/conda-forge/fastapi-slim-feedstock.git
+	path = feedstocks/fastapi-slim
+	branch = refs/heads/main
