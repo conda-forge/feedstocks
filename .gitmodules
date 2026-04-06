@@ -111586,3 +111586,7 @@
 	url = https://github.com/conda-forge/liteparse-feedstock.git
 	path = feedstocks/liteparse
 	branch = refs/heads/main
+[submodule "simsopt"]
+	url = https://github.com/conda-forge/simsopt-feedstock.git
+	path = feedstocks/simsopt
+	branch = refs/heads/main
