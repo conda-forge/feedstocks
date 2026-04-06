@@ -111614,3 +111614,7 @@
 	url = https://github.com/conda-forge/rfdetr-feedstock.git
 	path = feedstocks/rfdetr
 	branch = refs/heads/main
+[submodule "contur"]
+	url = https://github.com/conda-forge/contur-feedstock.git
+	path = feedstocks/contur
+	branch = refs/heads/main
