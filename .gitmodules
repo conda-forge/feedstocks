@@ -111622,3 +111622,7 @@
 	url = https://github.com/conda-forge/llama-index-postprocessor-cohere-rerank-feedstock.git
 	path = feedstocks/llama-index-postprocessor-cohere-rerank
 	branch = refs/heads/main
+[submodule "llama-index-embeddings-openai-like"]
+	url = https://github.com/conda-forge/llama-index-embeddings-openai-like-feedstock.git
+	path = feedstocks/llama-index-embeddings-openai-like
+	branch = refs/heads/main
