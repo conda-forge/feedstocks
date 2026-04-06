@@ -111618,3 +111618,7 @@
 	url = https://github.com/conda-forge/contur-feedstock.git
 	path = feedstocks/contur
 	branch = refs/heads/main
+[submodule "llama-index-postprocessor-cohere-rerank"]
+	url = https://github.com/conda-forge/llama-index-postprocessor-cohere-rerank-feedstock.git
+	path = feedstocks/llama-index-postprocessor-cohere-rerank
+	branch = refs/heads/main
