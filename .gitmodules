@@ -111626,3 +111626,7 @@
 	url = https://github.com/conda-forge/llama-index-embeddings-openai-like-feedstock.git
 	path = feedstocks/llama-index-embeddings-openai-like
 	branch = refs/heads/main
+[submodule "llama-index-llms-openai-like"]
+	url = https://github.com/conda-forge/llama-index-llms-openai-like-feedstock.git
+	path = feedstocks/llama-index-llms-openai-like
+	branch = refs/heads/main
