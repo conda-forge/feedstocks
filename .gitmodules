@@ -111594,3 +111594,7 @@
 	url = https://github.com/conda-forge/python-exif-feedstock.git
 	path = feedstocks/python-exif
 	branch = refs/heads/main
+[submodule "medkit-sdk"]
+	url = https://github.com/conda-forge/medkit-sdk-feedstock.git
+	path = feedstocks/medkit-sdk
+	branch = refs/heads/main
