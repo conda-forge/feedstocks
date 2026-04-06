@@ -111590,3 +111590,7 @@
 	url = https://github.com/conda-forge/simsopt-feedstock.git
 	path = feedstocks/simsopt
 	branch = refs/heads/main
+[submodule "python-exif"]
+	url = https://github.com/conda-forge/python-exif-feedstock.git
+	path = feedstocks/python-exif
+	branch = refs/heads/main
