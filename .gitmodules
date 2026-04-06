@@ -111598,3 +111598,7 @@
 	url = https://github.com/conda-forge/medkit-sdk-feedstock.git
 	path = feedstocks/medkit-sdk
 	branch = refs/heads/main
+[submodule "sema4ai-http-helper"]
+	url = https://github.com/conda-forge/sema4ai-http-helper-feedstock.git
+	path = feedstocks/sema4ai-http-helper
+	branch = refs/heads/main
