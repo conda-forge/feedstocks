@@ -111610,3 +111610,7 @@
 	url = https://github.com/conda-forge/django-prometheus-feedstock.git
 	path = feedstocks/django-prometheus
 	branch = refs/heads/main
+[submodule "rfdetr"]
+	url = https://github.com/conda-forge/rfdetr-feedstock.git
+	path = feedstocks/rfdetr
+	branch = refs/heads/main
