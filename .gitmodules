@@ -111630,3 +111630,7 @@
 	url = https://github.com/conda-forge/llama-index-llms-openai-like-feedstock.git
 	path = feedstocks/llama-index-llms-openai-like
 	branch = refs/heads/main
+[submodule "django-o11y"]
+	url = https://github.com/conda-forge/django-o11y-feedstock.git
+	path = feedstocks/django-o11y
+	branch = refs/heads/main
