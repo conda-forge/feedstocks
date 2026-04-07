@@ -111634,3 +111634,7 @@
 	url = https://github.com/conda-forge/django-o11y-feedstock.git
 	path = feedstocks/django-o11y
 	branch = refs/heads/main
+[submodule "ecmean"]
+	url = https://github.com/conda-forge/ecmean-feedstock.git
+	path = feedstocks/ecmean
+	branch = refs/heads/main
