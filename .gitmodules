@@ -111650,3 +111650,7 @@
 	url = https://github.com/conda-forge/qonsole-feedstock.git
 	path = feedstocks/qonsole
 	branch = refs/heads/main
+[submodule "llm-github-models"]
+	url = https://github.com/conda-forge/llm-github-models-feedstock.git
+	path = feedstocks/llm-github-models
+	branch = refs/heads/main
