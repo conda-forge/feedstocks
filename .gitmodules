@@ -111638,3 +111638,7 @@
 	url = https://github.com/conda-forge/ecmean-feedstock.git
 	path = feedstocks/ecmean
 	branch = refs/heads/main
+[submodule "ccase"]
+	url = https://github.com/conda-forge/ccase-feedstock.git
+	path = feedstocks/ccase
+	branch = refs/heads/main
