@@ -111694,3 +111694,7 @@
 	url = https://github.com/conda-forge/netwatch-feedstock.git
 	path = feedstocks/netwatch
 	branch = refs/heads/main
+[submodule "pyami-core"]
+	url = https://github.com/conda-forge/pyami-core-feedstock.git
+	path = feedstocks/pyami-core
+	branch = refs/heads/main
