@@ -111646,3 +111646,7 @@
 	url = https://github.com/conda-forge/rfdetr-plus-feedstock.git
 	path = feedstocks/rfdetr-plus
 	branch = refs/heads/main
+[submodule "qonsole"]
+	url = https://github.com/conda-forge/qonsole-feedstock.git
+	path = feedstocks/qonsole
+	branch = refs/heads/main
