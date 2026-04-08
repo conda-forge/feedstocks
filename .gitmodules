@@ -111662,3 +111662,7 @@
 	url = https://github.com/conda-forge/cargo-update-feedstock.git
 	path = feedstocks/cargo-update
 	branch = refs/heads/main
+[submodule "apm-cli"]
+	url = https://github.com/conda-forge/apm-cli-feedstock.git
+	path = feedstocks/apm-cli
+	branch = refs/heads/main
