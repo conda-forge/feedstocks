@@ -111702,3 +111702,7 @@
 	url = https://github.com/conda-forge/lsst-resources-feedstock.git
 	path = feedstocks/lsst-resources
 	branch = refs/heads/main
+[submodule "comrak"]
+	url = https://github.com/conda-forge/comrak-feedstock.git
+	path = feedstocks/comrak
+	branch = refs/heads/main
