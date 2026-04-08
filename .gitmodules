@@ -111666,3 +111666,7 @@
 	url = https://github.com/conda-forge/apm-cli-feedstock.git
 	path = feedstocks/apm-cli
 	branch = refs/heads/main
+[submodule "nonlinear_benchmarks"]
+	url = https://github.com/conda-forge/nonlinear_benchmarks-feedstock.git
+	path = feedstocks/nonlinear_benchmarks
+	branch = refs/heads/main
