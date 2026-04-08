@@ -111698,3 +111698,7 @@
 	url = https://github.com/conda-forge/pyami-core-feedstock.git
 	path = feedstocks/pyami-core
 	branch = refs/heads/main
+[submodule "lsst-resources"]
+	url = https://github.com/conda-forge/lsst-resources-feedstock.git
+	path = feedstocks/lsst-resources
+	branch = refs/heads/main
