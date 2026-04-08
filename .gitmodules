@@ -111686,3 +111686,7 @@
 	url = https://github.com/conda-forge/lsst-utils-feedstock.git
 	path = feedstocks/lsst-utils
 	branch = refs/heads/main
+[submodule "conda-meta-mcp"]
+	url = https://github.com/conda-forge/conda-meta-mcp-feedstock.git
+	path = feedstocks/conda-meta-mcp
+	branch = refs/heads/main
