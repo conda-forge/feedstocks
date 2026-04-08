@@ -111678,3 +111678,7 @@
 	url = https://github.com/conda-forge/hyalo-feedstock.git
 	path = feedstocks/hyalo
 	branch = refs/heads/main
+[submodule "azure-ai-inference"]
+	url = https://github.com/conda-forge/azure-ai-inference-feedstock.git
+	path = feedstocks/azure-ai-inference
+	branch = refs/heads/main
