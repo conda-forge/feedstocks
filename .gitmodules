@@ -111654,3 +111654,7 @@
 	url = https://github.com/conda-forge/llm-github-models-feedstock.git
 	path = feedstocks/llm-github-models
 	branch = refs/heads/main
+[submodule "r-neonos"]
+	url = https://github.com/conda-forge/r-neonos-feedstock.git
+	path = feedstocks/r-neonos
+	branch = refs/heads/main
