@@ -111682,3 +111682,7 @@
 	url = https://github.com/conda-forge/azure-ai-inference-feedstock.git
 	path = feedstocks/azure-ai-inference
 	branch = refs/heads/main
+[submodule "lsst-utils"]
+	url = https://github.com/conda-forge/lsst-utils-feedstock.git
+	path = feedstocks/lsst-utils
+	branch = refs/heads/main
