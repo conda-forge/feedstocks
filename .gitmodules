@@ -111690,3 +111690,7 @@
 	url = https://github.com/conda-forge/conda-meta-mcp-feedstock.git
 	path = feedstocks/conda-meta-mcp
 	branch = refs/heads/main
+[submodule "netwatch"]
+	url = https://github.com/conda-forge/netwatch-feedstock.git
+	path = feedstocks/netwatch
+	branch = refs/heads/main
