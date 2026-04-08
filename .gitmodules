@@ -111642,3 +111642,7 @@
 	url = https://github.com/conda-forge/ccase-feedstock.git
 	path = feedstocks/ccase
 	branch = refs/heads/main
+[submodule "rfdetr-plus"]
+	url = https://github.com/conda-forge/rfdetr-plus-feedstock.git
+	path = feedstocks/rfdetr-plus
+	branch = refs/heads/main
