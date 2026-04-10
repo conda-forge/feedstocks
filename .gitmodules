@@ -111718,3 +111718,7 @@
 	url = https://github.com/conda-forge/booz_xform-feedstock.git
 	path = feedstocks/booz_xform
 	branch = refs/heads/main
+[submodule "gravitools"]
+	url = https://github.com/conda-forge/gravitools-feedstock.git
+	path = feedstocks/gravitools
+	branch = refs/heads/main
