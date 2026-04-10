@@ -111722,3 +111722,7 @@
 	url = https://github.com/conda-forge/gravitools-feedstock.git
 	path = feedstocks/gravitools
 	branch = refs/heads/main
+[submodule "reflow-hpc"]
+	url = https://github.com/conda-forge/reflow-hpc-feedstock.git
+	path = feedstocks/reflow-hpc
+	branch = refs/heads/main
