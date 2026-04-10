@@ -111714,3 +111714,7 @@
 	url = https://github.com/conda-forge/spot-cpp-sdk-feedstock.git
 	path = feedstocks/spot-cpp-sdk
 	branch = refs/heads/main
+[submodule "booz_xform"]
+	url = https://github.com/conda-forge/booz_xform-feedstock.git
+	path = feedstocks/booz_xform
+	branch = refs/heads/main
