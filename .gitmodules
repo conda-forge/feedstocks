@@ -111710,3 +111710,7 @@
 	url = https://github.com/conda-forge/clusterrunner-feedstock.git
 	path = feedstocks/clusterrunner
 	branch = refs/heads/main
+[submodule "spot-cpp-sdk"]
+	url = https://github.com/conda-forge/spot-cpp-sdk-feedstock.git
+	path = feedstocks/spot-cpp-sdk
+	branch = refs/heads/main
