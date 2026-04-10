@@ -111730,3 +111730,7 @@
 	url = https://github.com/conda-forge/phraze-feedstock.git
 	path = feedstocks/phraze
 	branch = refs/heads/main
+[submodule "vizro-dash-components"]
+	url = https://github.com/conda-forge/vizro-dash-components-feedstock.git
+	path = feedstocks/vizro-dash-components
+	branch = refs/heads/main
