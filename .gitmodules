@@ -111738,3 +111738,7 @@
 	url = https://github.com/conda-forge/tdlpackio-feedstock.git
 	path = feedstocks/tdlpackio
 	branch = refs/heads/main
+[submodule "mrtree-rs"]
+	url = https://github.com/conda-forge/mrtree-rs-feedstock.git
+	path = feedstocks/mrtree-rs
+	branch = refs/heads/main
