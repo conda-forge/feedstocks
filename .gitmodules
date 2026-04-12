@@ -111742,3 +111742,7 @@
 	url = https://github.com/conda-forge/mrtree-rs-feedstock.git
 	path = feedstocks/mrtree-rs
 	branch = refs/heads/main
+[submodule "cmakefmt"]
+	url = https://github.com/conda-forge/cmakefmt-feedstock.git
+	path = feedstocks/cmakefmt
+	branch = refs/heads/main
