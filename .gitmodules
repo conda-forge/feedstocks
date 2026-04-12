@@ -111746,3 +111746,7 @@
 	url = https://github.com/conda-forge/cmakefmt-feedstock.git
 	path = feedstocks/cmakefmt
 	branch = refs/heads/main
+[submodule "agent-browser"]
+	url = https://github.com/conda-forge/agent-browser-feedstock.git
+	path = feedstocks/agent-browser
+	branch = refs/heads/main
