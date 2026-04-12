@@ -111754,3 +111754,7 @@
 	url = https://github.com/conda-forge/pi-coding-agent-feedstock.git
 	path = feedstocks/pi-coding-agent
 	branch = refs/heads/main
+[submodule "pydantic-harness"]
+	url = https://github.com/conda-forge/pydantic-harness-feedstock.git
+	path = feedstocks/pydantic-harness
+	branch = refs/heads/main
