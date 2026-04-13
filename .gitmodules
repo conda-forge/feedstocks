@@ -111770,3 +111770,7 @@
 	url = https://github.com/conda-forge/minim-feedstock.git
 	path = feedstocks/minim
 	branch = refs/heads/main
+[submodule "treetable"]
+	url = https://github.com/conda-forge/treetable-feedstock.git
+	path = feedstocks/treetable
+	branch = refs/heads/main
