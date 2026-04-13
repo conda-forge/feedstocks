@@ -111790,3 +111790,7 @@
 	url = https://github.com/conda-forge/microssim-feedstock.git
 	path = feedstocks/microssim
 	branch = refs/heads/main
+[submodule "aark"]
+	url = https://github.com/conda-forge/aark-feedstock.git
+	path = feedstocks/aark
+	branch = refs/heads/main
