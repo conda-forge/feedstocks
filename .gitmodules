@@ -111786,3 +111786,7 @@
 	url = https://github.com/conda-forge/diffq-feedstock.git
 	path = feedstocks/diffq
 	branch = refs/heads/main
+[submodule "microssim"]
+	url = https://github.com/conda-forge/microssim-feedstock.git
+	path = feedstocks/microssim
+	branch = refs/heads/main
