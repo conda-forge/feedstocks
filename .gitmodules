@@ -111766,3 +111766,7 @@
 	url = https://github.com/conda-forge/django-lasuite-feedstock.git
 	path = feedstocks/django-lasuite
 	branch = refs/heads/main
+[submodule "minim"]
+	url = https://github.com/conda-forge/minim-feedstock.git
+	path = feedstocks/minim
+	branch = refs/heads/main
