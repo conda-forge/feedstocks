@@ -111794,3 +111794,7 @@
 	url = https://github.com/conda-forge/aark-feedstock.git
 	path = feedstocks/aark
 	branch = refs/heads/main
+[submodule "libcvcuda"]
+	url = https://github.com/conda-forge/libcvcuda-feedstock.git
+	path = feedstocks/libcvcuda
+	branch = refs/heads/main
