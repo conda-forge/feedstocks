@@ -111762,3 +111762,7 @@
 	url = https://github.com/conda-forge/docs2static-feedstock.git
 	path = feedstocks/docs2static
 	branch = refs/heads/main
+[submodule "django-lasuite"]
+	url = https://github.com/conda-forge/django-lasuite-feedstock.git
+	path = feedstocks/django-lasuite
+	branch = refs/heads/main
