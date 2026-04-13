@@ -111758,3 +111758,7 @@
 	url = https://github.com/conda-forge/pydantic-harness-feedstock.git
 	path = feedstocks/pydantic-harness
 	branch = refs/heads/main
+[submodule "docs2static"]
+	url = https://github.com/conda-forge/docs2static-feedstock.git
+	path = feedstocks/docs2static
+	branch = refs/heads/main
