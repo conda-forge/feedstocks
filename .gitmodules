@@ -111774,3 +111774,7 @@
 	url = https://github.com/conda-forge/treetable-feedstock.git
 	path = feedstocks/treetable
 	branch = refs/heads/main
+[submodule "django-enterprise-maintenance-suite"]
+	url = https://github.com/conda-forge/django-enterprise-maintenance-suite-feedstock.git
+	path = feedstocks/django-enterprise-maintenance-suite
+	branch = refs/heads/main
