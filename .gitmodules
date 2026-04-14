@@ -111826,3 +111826,7 @@
 	url = https://github.com/conda-forge/markdown-grid-tables-feedstock.git
 	path = feedstocks/markdown-grid-tables
 	branch = refs/heads/main
+[submodule "pydantic-ai-harness"]
+	url = https://github.com/conda-forge/pydantic-ai-harness-feedstock.git
+	path = feedstocks/pydantic-ai-harness
+	branch = refs/heads/main
