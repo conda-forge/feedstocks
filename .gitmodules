@@ -111806,3 +111806,7 @@
 	url = https://github.com/conda-forge/chemdiagrams-feedstock.git
 	path = feedstocks/chemdiagrams
 	branch = refs/heads/main
+[submodule "throttled-py"]
+	url = https://github.com/conda-forge/throttled-py-feedstock.git
+	path = feedstocks/throttled-py
+	branch = refs/heads/main
