@@ -111810,3 +111810,7 @@
 	url = https://github.com/conda-forge/throttled-py-feedstock.git
 	path = feedstocks/throttled-py
 	branch = refs/heads/main
+[submodule "lance-namespace-urllib3-client"]
+	url = https://github.com/conda-forge/lance-namespace-urllib3-client-feedstock.git
+	path = feedstocks/lance-namespace-urllib3-client
+	branch = refs/heads/main
