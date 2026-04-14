@@ -111802,3 +111802,7 @@
 	url = https://github.com/conda-forge/jupyter-chat-components-feedstock.git
 	path = feedstocks/jupyter-chat-components
 	branch = refs/heads/main
+[submodule "chemdiagrams"]
+	url = https://github.com/conda-forge/chemdiagrams-feedstock.git
+	path = feedstocks/chemdiagrams
+	branch = refs/heads/main
