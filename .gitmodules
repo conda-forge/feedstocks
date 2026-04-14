@@ -111838,3 +111838,7 @@
 	url = https://github.com/conda-forge/xee-rust-feedstock.git
 	path = feedstocks/xee-rust
 	branch = refs/heads/main
+[submodule "redis-entraid"]
+	url = https://github.com/conda-forge/redis-entraid-feedstock.git
+	path = feedstocks/redis-entraid
+	branch = refs/heads/main
