@@ -111798,3 +111798,7 @@
 	url = https://github.com/conda-forge/libcvcuda-feedstock.git
 	path = feedstocks/libcvcuda
 	branch = refs/heads/main
+[submodule "jupyter-chat-components"]
+	url = https://github.com/conda-forge/jupyter-chat-components-feedstock.git
+	path = feedstocks/jupyter-chat-components
+	branch = refs/heads/main
