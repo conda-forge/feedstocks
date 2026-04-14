@@ -111830,3 +111830,7 @@
 	url = https://github.com/conda-forge/pydantic-ai-harness-feedstock.git
 	path = feedstocks/pydantic-ai-harness
 	branch = refs/heads/main
+[submodule "csp-adapter-telegram"]
+	url = https://github.com/conda-forge/csp-adapter-telegram-feedstock.git
+	path = feedstocks/csp-adapter-telegram
+	branch = refs/heads/main
