@@ -111834,3 +111834,7 @@
 	url = https://github.com/conda-forge/csp-adapter-telegram-feedstock.git
 	path = feedstocks/csp-adapter-telegram
 	branch = refs/heads/main
+[submodule "xee-rust"]
+	url = https://github.com/conda-forge/xee-rust-feedstock.git
+	path = feedstocks/xee-rust
+	branch = refs/heads/main
