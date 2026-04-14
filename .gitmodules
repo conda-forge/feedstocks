@@ -111822,3 +111822,7 @@
 	url = https://github.com/conda-forge/mvlogics-feedstock.git
 	path = feedstocks/mvlogics
 	branch = refs/heads/main
+[submodule "markdown-grid-tables"]
+	url = https://github.com/conda-forge/markdown-grid-tables-feedstock.git
+	path = feedstocks/markdown-grid-tables
+	branch = refs/heads/main
