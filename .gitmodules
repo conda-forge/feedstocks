@@ -111842,3 +111842,7 @@
 	url = https://github.com/conda-forge/redis-entraid-feedstock.git
 	path = feedstocks/redis-entraid
 	branch = refs/heads/main
+[submodule "zerobrew"]
+	url = https://github.com/conda-forge/zerobrew-feedstock.git
+	path = feedstocks/zerobrew
+	branch = refs/heads/main
