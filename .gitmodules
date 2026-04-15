@@ -111870,3 +111870,7 @@
 	url = https://github.com/conda-forge/fps-jupyterlab-git-feedstock.git
 	path = feedstocks/fps-jupyterlab-git
 	branch = refs/heads/main
+[submodule "jupyverse-resource-usage"]
+	url = https://github.com/conda-forge/jupyverse-resource-usage-feedstock.git
+	path = feedstocks/jupyverse-resource-usage
+	branch = refs/heads/main
