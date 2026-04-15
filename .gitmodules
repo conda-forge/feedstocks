@@ -111850,3 +111850,7 @@
 	url = https://github.com/conda-forge/amorphouspy-feedstock.git
 	path = feedstocks/amorphouspy
 	branch = refs/heads/main
+[submodule "jupyverse-login"]
+	url = https://github.com/conda-forge/jupyverse-login-feedstock.git
+	path = feedstocks/jupyverse-login
+	branch = refs/heads/main
