@@ -111882,3 +111882,7 @@
 	url = https://github.com/conda-forge/jupyverse-contents-feedstock.git
 	path = feedstocks/jupyverse-contents
 	branch = refs/heads/main
+[submodule "jupyverse-kernels"]
+	url = https://github.com/conda-forge/jupyverse-kernels-feedstock.git
+	path = feedstocks/jupyverse-kernels
+	branch = refs/heads/main
