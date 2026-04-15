@@ -111858,3 +111858,7 @@
 	url = https://github.com/conda-forge/jupyverse-file-watcher-feedstock.git
 	path = feedstocks/jupyverse-file-watcher
 	branch = refs/heads/main
+[submodule "jupyverse-nbconvert"]
+	url = https://github.com/conda-forge/jupyverse-nbconvert-feedstock.git
+	path = feedstocks/jupyverse-nbconvert
+	branch = refs/heads/main
