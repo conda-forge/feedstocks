@@ -111902,3 +111902,7 @@
 	url = https://github.com/conda-forge/jupyverse-lab-feedstock.git
 	path = feedstocks/jupyverse-lab
 	branch = refs/heads/main
+[submodule "jupyverse-notebook"]
+	url = https://github.com/conda-forge/jupyverse-notebook-feedstock.git
+	path = feedstocks/jupyverse-notebook
+	branch = refs/heads/main
