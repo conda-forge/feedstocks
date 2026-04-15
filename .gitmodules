@@ -111862,3 +111862,7 @@
 	url = https://github.com/conda-forge/jupyverse-nbconvert-feedstock.git
 	path = feedstocks/jupyverse-nbconvert
 	branch = refs/heads/main
+[submodule "jupyverse-terminals"]
+	url = https://github.com/conda-forge/jupyverse-terminals-feedstock.git
+	path = feedstocks/jupyverse-terminals
+	branch = refs/heads/main
