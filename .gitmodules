@@ -111922,3 +111922,7 @@
 	url = https://github.com/conda-forge/scverse-misc-feedstock.git
 	path = feedstocks/scverse-misc
 	branch = refs/heads/main
+[submodule "histfitter"]
+	url = https://github.com/conda-forge/histfitter-feedstock.git
+	path = feedstocks/histfitter
+	branch = refs/heads/main
