@@ -111906,3 +111906,7 @@
 	url = https://github.com/conda-forge/jupyverse-notebook-feedstock.git
 	path = feedstocks/jupyverse-notebook
 	branch = refs/heads/main
+[submodule "sfincs"]
+	url = https://github.com/conda-forge/sfincs-feedstock.git
+	path = feedstocks/sfincs
+	branch = refs/heads/main
