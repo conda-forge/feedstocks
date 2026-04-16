@@ -111926,3 +111926,7 @@
 	url = https://github.com/conda-forge/histfitter-feedstock.git
 	path = feedstocks/histfitter
 	branch = refs/heads/main
+[submodule "sgp4jax"]
+	url = https://github.com/conda-forge/sgp4jax-feedstock.git
+	path = feedstocks/sgp4jax
+	branch = refs/heads/main
