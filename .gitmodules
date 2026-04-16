@@ -111918,3 +111918,7 @@
 	url = https://github.com/conda-forge/tiny-osm-feedstock.git
 	path = feedstocks/tiny-osm
 	branch = refs/heads/main
+[submodule "scverse-misc"]
+	url = https://github.com/conda-forge/scverse-misc-feedstock.git
+	path = feedstocks/scverse-misc
+	branch = refs/heads/main
