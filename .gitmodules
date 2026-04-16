@@ -111930,3 +111930,7 @@
 	url = https://github.com/conda-forge/sgp4jax-feedstock.git
 	path = feedstocks/sgp4jax
 	branch = refs/heads/main
+[submodule "qpe-toolbox"]
+	url = https://github.com/conda-forge/qpe-toolbox-feedstock.git
+	path = feedstocks/qpe-toolbox
+	branch = refs/heads/main
