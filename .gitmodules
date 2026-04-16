@@ -111914,3 +111914,7 @@
 	url = https://github.com/conda-forge/django-nextjs-feedstock.git
 	path = feedstocks/django-nextjs
 	branch = refs/heads/main
+[submodule "tiny-osm"]
+	url = https://github.com/conda-forge/tiny-osm-feedstock.git
+	path = feedstocks/tiny-osm
+	branch = refs/heads/main
