@@ -111910,3 +111910,7 @@
 	url = https://github.com/conda-forge/sfincs-feedstock.git
 	path = feedstocks/sfincs
 	branch = refs/heads/main
+[submodule "django-nextjs"]
+	url = https://github.com/conda-forge/django-nextjs-feedstock.git
+	path = feedstocks/django-nextjs
+	branch = refs/heads/main
