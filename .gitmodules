@@ -111938,3 +111938,7 @@
 	url = https://github.com/conda-forge/rubin.citsci-feedstock.git
 	path = feedstocks/rubin.citsci
 	branch = refs/heads/main
+[submodule "choice-learn"]
+	url = https://github.com/conda-forge/choice-learn-feedstock.git
+	path = feedstocks/choice-learn
+	branch = refs/heads/main
