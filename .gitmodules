@@ -111950,3 +111950,7 @@
 	url = https://github.com/conda-forge/orthax-feedstock.git
 	path = feedstocks/orthax
 	branch = refs/heads/main
+[submodule "spotify-voyager"]
+	url = https://github.com/conda-forge/spotify-voyager-feedstock.git
+	path = feedstocks/spotify-voyager
+	branch = refs/heads/main
