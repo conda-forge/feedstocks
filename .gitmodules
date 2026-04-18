@@ -111942,3 +111942,7 @@
 	url = https://github.com/conda-forge/choice-learn-feedstock.git
 	path = feedstocks/choice-learn
 	branch = refs/heads/main
+[submodule "desc-opt"]
+	url = https://github.com/conda-forge/desc-opt-feedstock.git
+	path = feedstocks/desc-opt
+	branch = refs/heads/main
