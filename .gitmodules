@@ -111946,3 +111946,7 @@
 	url = https://github.com/conda-forge/desc-opt-feedstock.git
 	path = feedstocks/desc-opt
 	branch = refs/heads/main
+[submodule "orthax"]
+	url = https://github.com/conda-forge/orthax-feedstock.git
+	path = feedstocks/orthax
+	branch = refs/heads/main
