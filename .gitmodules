@@ -111958,3 +111958,7 @@
 	url = https://github.com/conda-forge/inko-feedstock.git
 	path = feedstocks/inko
 	branch = refs/heads/main
+[submodule "paho-mqtt-c"]
+	url = https://github.com/conda-forge/paho-mqtt-c-feedstock.git
+	path = feedstocks/paho-mqtt-c
+	branch = refs/heads/main
