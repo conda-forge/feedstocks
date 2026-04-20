@@ -111954,3 +111954,7 @@
 	url = https://github.com/conda-forge/spotify-voyager-feedstock.git
 	path = feedstocks/spotify-voyager
 	branch = refs/heads/main
+[submodule "inko"]
+	url = https://github.com/conda-forge/inko-feedstock.git
+	path = feedstocks/inko
+	branch = refs/heads/main
