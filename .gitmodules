@@ -111994,3 +111994,7 @@
 	url = https://github.com/conda-forge/hydra-image-processor-feedstock.git
 	path = feedstocks/hydra-image-processor
 	branch = refs/heads/main
+[submodule "anemoi-utils"]
+	url = https://github.com/conda-forge/anemoi-utils-feedstock.git
+	path = feedstocks/anemoi-utils
+	branch = refs/heads/main
