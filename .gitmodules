@@ -111986,3 +111986,7 @@
 	url = https://github.com/conda-forge/earthkit-meteo-feedstock.git
 	path = feedstocks/earthkit-meteo
 	branch = refs/heads/main
+[submodule "anemoi-inference"]
+	url = https://github.com/conda-forge/anemoi-inference-feedstock.git
+	path = feedstocks/anemoi-inference
+	branch = refs/heads/main
