@@ -112058,3 +112058,7 @@
 	url = https://github.com/conda-forge/pyfhiaims-feedstock.git
 	path = feedstocks/pyfhiaims
 	branch = refs/heads/main
+[submodule "stare-atlas"]
+	url = https://github.com/conda-forge/stare-atlas-feedstock.git
+	path = feedstocks/stare-atlas
+	branch = refs/heads/main
