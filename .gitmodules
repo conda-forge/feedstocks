@@ -111962,3 +111962,7 @@
 	url = https://github.com/conda-forge/paho-mqtt-c-feedstock.git
 	path = feedstocks/paho-mqtt-c
 	branch = refs/heads/main
+[submodule "textual-diff-view"]
+	url = https://github.com/conda-forge/textual-diff-view-feedstock.git
+	path = feedstocks/textual-diff-view
+	branch = refs/heads/main
