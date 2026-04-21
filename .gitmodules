@@ -112010,3 +112010,7 @@
 	url = https://github.com/conda-forge/anemoi-registry-feedstock.git
 	path = feedstocks/anemoi-registry
 	branch = refs/heads/main
+[submodule "anemoi-datasets"]
+	url = https://github.com/conda-forge/anemoi-datasets-feedstock.git
+	path = feedstocks/anemoi-datasets
+	branch = refs/heads/main
