@@ -112030,3 +112030,7 @@
 	url = https://github.com/conda-forge/microbenchmark-feedstock.git
 	path = feedstocks/microbenchmark
 	branch = refs/heads/main
+[submodule "re-wx"]
+	url = https://github.com/conda-forge/re-wx-feedstock.git
+	path = feedstocks/re-wx
+	branch = refs/heads/main
