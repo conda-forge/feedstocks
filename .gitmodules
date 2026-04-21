@@ -111970,3 +111970,7 @@
 	url = https://github.com/conda-forge/molid-feedstock.git
 	path = feedstocks/molid
 	branch = refs/heads/main
+[submodule "solid-dmft"]
+	url = https://github.com/conda-forge/solid-dmft-feedstock.git
+	path = feedstocks/solid-dmft
+	branch = refs/heads/main
