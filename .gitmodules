@@ -111974,3 +111974,7 @@
 	url = https://github.com/conda-forge/solid-dmft-feedstock.git
 	path = feedstocks/solid-dmft
 	branch = refs/heads/main
+[submodule "fluprodia"]
+	url = https://github.com/conda-forge/fluprodia-feedstock.git
+	path = feedstocks/fluprodia
+	branch = refs/heads/main
