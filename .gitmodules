@@ -112022,3 +112022,7 @@
 	url = https://github.com/conda-forge/gregor-feedstock.git
 	path = feedstocks/gregor
 	branch = refs/heads/main
+[submodule "tango-keystore"]
+	url = https://github.com/conda-forge/tango-keystore-feedstock.git
+	path = feedstocks/tango-keystore
+	branch = refs/heads/main
