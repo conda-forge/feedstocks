@@ -112014,3 +112014,7 @@
 	url = https://github.com/conda-forge/anemoi-datasets-feedstock.git
 	path = feedstocks/anemoi-datasets
 	branch = refs/heads/main
+[submodule "anemoi-training"]
+	url = https://github.com/conda-forge/anemoi-training-feedstock.git
+	path = feedstocks/anemoi-training
+	branch = refs/heads/main
