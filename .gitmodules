@@ -112026,3 +112026,7 @@
 	url = https://github.com/conda-forge/tango-keystore-feedstock.git
 	path = feedstocks/tango-keystore
 	branch = refs/heads/main
+[submodule "microbenchmark"]
+	url = https://github.com/conda-forge/microbenchmark-feedstock.git
+	path = feedstocks/microbenchmark
+	branch = refs/heads/main
