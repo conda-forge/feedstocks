@@ -111998,3 +111998,7 @@
 	url = https://github.com/conda-forge/anemoi-utils-feedstock.git
 	path = feedstocks/anemoi-utils
 	branch = refs/heads/main
+[submodule "anemoi-transform"]
+	url = https://github.com/conda-forge/anemoi-transform-feedstock.git
+	path = feedstocks/anemoi-transform
+	branch = refs/heads/main
