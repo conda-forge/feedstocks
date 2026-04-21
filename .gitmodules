@@ -111978,3 +111978,7 @@
 	url = https://github.com/conda-forge/fluprodia-feedstock.git
 	path = feedstocks/fluprodia
 	branch = refs/heads/main
+[submodule "anemoi-models"]
+	url = https://github.com/conda-forge/anemoi-models-feedstock.git
+	path = feedstocks/anemoi-models
+	branch = refs/heads/main
