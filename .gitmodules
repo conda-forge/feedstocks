@@ -112066,3 +112066,7 @@
 	url = https://github.com/conda-forge/dasgoclient-feedstock.git
 	path = feedstocks/dasgoclient
 	branch = refs/heads/main
+[submodule "tofu-ls"]
+	url = https://github.com/conda-forge/tofu-ls-feedstock.git
+	path = feedstocks/tofu-ls
+	branch = refs/heads/main
