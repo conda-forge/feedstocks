@@ -112098,3 +112098,7 @@
 	url = https://github.com/conda-forge/raster-tools-feedstock.git
 	path = feedstocks/raster-tools
 	branch = refs/heads/main
+[submodule "fastkmeans"]
+	url = https://github.com/conda-forge/fastkmeans-feedstock.git
+	path = feedstocks/fastkmeans
+	branch = refs/heads/main
