@@ -112094,3 +112094,7 @@
 	url = https://github.com/conda-forge/fsvisual-feedstock.git
 	path = feedstocks/fsvisual
 	branch = refs/heads/main
+[submodule "raster-tools"]
+	url = https://github.com/conda-forge/raster-tools-feedstock.git
+	path = feedstocks/raster-tools
+	branch = refs/heads/main
