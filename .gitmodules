@@ -112114,3 +112114,7 @@
 	url = https://github.com/conda-forge/fractal-tasks-utils-feedstock.git
 	path = feedstocks/fractal-tasks-utils
 	branch = refs/heads/main
+[submodule "vcs_versioning"]
+	url = https://github.com/conda-forge/vcs_versioning-feedstock.git
+	path = feedstocks/vcs_versioning
+	branch = refs/heads/main
