@@ -112070,3 +112070,7 @@
 	url = https://github.com/conda-forge/tofu-ls-feedstock.git
 	path = feedstocks/tofu-ls
 	branch = refs/heads/main
+[submodule "flyctl"]
+	url = https://github.com/conda-forge/flyctl-feedstock.git
+	path = feedstocks/flyctl
+	branch = refs/heads/main
