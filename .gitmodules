@@ -112106,3 +112106,7 @@
 	url = https://github.com/conda-forge/usearch-python-feedstock.git
 	path = feedstocks/usearch-python
 	branch = refs/heads/main
+[submodule "fast-plaid"]
+	url = https://github.com/conda-forge/fast-plaid-feedstock.git
+	path = feedstocks/fast-plaid
+	branch = refs/heads/main
