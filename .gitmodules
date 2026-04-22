@@ -112078,3 +112078,7 @@
 	url = https://github.com/conda-forge/aws-vault-feedstock.git
 	path = feedstocks/aws-vault
 	branch = refs/heads/main
+[submodule "r-yr"]
+	url = https://github.com/conda-forge/r-yr-feedstock.git
+	path = feedstocks/r-yr
+	branch = refs/heads/main
