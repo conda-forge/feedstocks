@@ -112062,3 +112062,7 @@
 	url = https://github.com/conda-forge/stare-atlas-feedstock.git
 	path = feedstocks/stare-atlas
 	branch = refs/heads/main
+[submodule "dasgoclient"]
+	url = https://github.com/conda-forge/dasgoclient-feedstock.git
+	path = feedstocks/dasgoclient
+	branch = refs/heads/main
