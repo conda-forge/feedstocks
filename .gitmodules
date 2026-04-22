@@ -112090,3 +112090,7 @@
 	url = https://github.com/conda-forge/kitops-feedstock.git
 	path = feedstocks/kitops
 	branch = refs/heads/main
+[submodule "fsvisual"]
+	url = https://github.com/conda-forge/fsvisual-feedstock.git
+	path = feedstocks/fsvisual
+	branch = refs/heads/main
