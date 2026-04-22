@@ -112074,3 +112074,7 @@
 	url = https://github.com/conda-forge/flyctl-feedstock.git
 	path = feedstocks/flyctl
 	branch = refs/heads/main
+[submodule "aws-vault"]
+	url = https://github.com/conda-forge/aws-vault-feedstock.git
+	path = feedstocks/aws-vault
+	branch = refs/heads/main
