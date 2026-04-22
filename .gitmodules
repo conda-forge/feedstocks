@@ -112086,3 +112086,7 @@
 	url = https://github.com/conda-forge/granted-feedstock.git
 	path = feedstocks/granted
 	branch = refs/heads/main
+[submodule "kitops"]
+	url = https://github.com/conda-forge/kitops-feedstock.git
+	path = feedstocks/kitops
+	branch = refs/heads/main
