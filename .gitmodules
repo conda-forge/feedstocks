@@ -112082,3 +112082,7 @@
 	url = https://github.com/conda-forge/r-yr-feedstock.git
 	path = feedstocks/r-yr
 	branch = refs/heads/main
+[submodule "granted"]
+	url = https://github.com/conda-forge/granted-feedstock.git
+	path = feedstocks/granted
+	branch = refs/heads/main
