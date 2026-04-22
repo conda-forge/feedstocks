@@ -112118,3 +112118,7 @@
 	url = https://github.com/conda-forge/vcs_versioning-feedstock.git
 	path = feedstocks/vcs_versioning
 	branch = refs/heads/main
+[submodule "citeproc-py-styles"]
+	url = https://github.com/conda-forge/citeproc-py-styles-feedstock.git
+	path = feedstocks/citeproc-py-styles
+	branch = refs/heads/main
