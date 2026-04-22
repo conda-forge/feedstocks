@@ -112102,3 +112102,7 @@
 	url = https://github.com/conda-forge/fastkmeans-feedstock.git
 	path = feedstocks/fastkmeans
 	branch = refs/heads/main
+[submodule "usearch-python"]
+	url = https://github.com/conda-forge/usearch-python-feedstock.git
+	path = feedstocks/usearch-python
+	branch = refs/heads/main
