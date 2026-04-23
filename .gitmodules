@@ -112134,3 +112134,7 @@
 	url = https://github.com/conda-forge/spectral-fingerprints-feedstock.git
 	path = feedstocks/spectral-fingerprints
 	branch = refs/heads/main
+[submodule "culsans"]
+	url = https://github.com/conda-forge/culsans-feedstock.git
+	path = feedstocks/culsans
+	branch = refs/heads/main
