@@ -112138,3 +112138,7 @@
 	url = https://github.com/conda-forge/culsans-feedstock.git
 	path = feedstocks/culsans
 	branch = refs/heads/main
+[submodule "image-registration"]
+	url = https://github.com/conda-forge/image-registration-feedstock.git
+	path = feedstocks/image-registration
+	branch = refs/heads/main
