@@ -112146,3 +112146,7 @@
 	url = https://github.com/conda-forge/panseg-feedstock.git
 	path = feedstocks/panseg
 	branch = refs/heads/main
+[submodule "watertap-solvers"]
+	url = https://github.com/conda-forge/watertap-solvers-feedstock.git
+	path = feedstocks/watertap-solvers
+	branch = refs/heads/main
