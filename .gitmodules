@@ -112142,3 +112142,7 @@
 	url = https://github.com/conda-forge/image-registration-feedstock.git
 	path = feedstocks/image-registration
 	branch = refs/heads/main
+[submodule "panseg"]
+	url = https://github.com/conda-forge/panseg-feedstock.git
+	path = feedstocks/panseg
+	branch = refs/heads/main
