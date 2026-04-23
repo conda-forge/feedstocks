@@ -112122,3 +112122,7 @@
 	url = https://github.com/conda-forge/citeproc-py-styles-feedstock.git
 	path = feedstocks/citeproc-py-styles
 	branch = refs/heads/main
+[submodule "voms-lsc"]
+	url = https://github.com/conda-forge/voms-lsc-feedstock.git
+	path = feedstocks/voms-lsc
+	branch = refs/heads/main
