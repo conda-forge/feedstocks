@@ -112130,3 +112130,7 @@
 	url = https://github.com/conda-forge/openmodelica-feedstock.git
 	path = feedstocks/openmodelica
 	branch = refs/heads/main
+[submodule "spectral-fingerprints"]
+	url = https://github.com/conda-forge/spectral-fingerprints-feedstock.git
+	path = feedstocks/spectral-fingerprints
+	branch = refs/heads/main
