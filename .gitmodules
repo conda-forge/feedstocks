@@ -112126,3 +112126,7 @@
 	url = https://github.com/conda-forge/voms-lsc-feedstock.git
 	path = feedstocks/voms-lsc
 	branch = refs/heads/main
+[submodule "openmodelica"]
+	url = https://github.com/conda-forge/openmodelica-feedstock.git
+	path = feedstocks/openmodelica
+	branch = refs/heads/main
