@@ -112170,3 +112170,7 @@
 	url = https://github.com/conda-forge/burner-redis-feedstock.git
 	path = feedstocks/burner-redis
 	branch = refs/heads/main
+[submodule "sedonadb"]
+	url = https://github.com/conda-forge/sedonadb-feedstock.git
+	path = feedstocks/sedonadb
+	branch = refs/heads/main
