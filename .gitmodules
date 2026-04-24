@@ -112166,3 +112166,7 @@
 	url = https://github.com/conda-forge/dumbpipe-feedstock.git
 	path = feedstocks/dumbpipe
 	branch = refs/heads/main
+[submodule "burner-redis"]
+	url = https://github.com/conda-forge/burner-redis-feedstock.git
+	path = feedstocks/burner-redis
+	branch = refs/heads/main
