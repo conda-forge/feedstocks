@@ -112158,3 +112158,7 @@
 	url = https://github.com/conda-forge/r-arg-feedstock.git
 	path = feedstocks/r-arg
 	branch = refs/heads/main
+[submodule "sendme"]
+	url = https://github.com/conda-forge/sendme-feedstock.git
+	path = feedstocks/sendme
+	branch = refs/heads/main
