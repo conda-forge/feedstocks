@@ -112150,3 +112150,7 @@
 	url = https://github.com/conda-forge/watertap-solvers-feedstock.git
 	path = feedstocks/watertap-solvers
 	branch = refs/heads/main
+[submodule "sing-box"]
+	url = https://github.com/conda-forge/sing-box-feedstock.git
+	path = feedstocks/sing-box
+	branch = refs/heads/main
