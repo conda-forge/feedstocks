@@ -112162,3 +112162,7 @@
 	url = https://github.com/conda-forge/sendme-feedstock.git
 	path = feedstocks/sendme
 	branch = refs/heads/main
+[submodule "dumbpipe"]
+	url = https://github.com/conda-forge/dumbpipe-feedstock.git
+	path = feedstocks/dumbpipe
+	branch = refs/heads/main
