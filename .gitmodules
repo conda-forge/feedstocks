@@ -112178,3 +112178,7 @@
 	url = https://github.com/conda-forge/opencarp-feedstock.git
 	path = feedstocks/opencarp
 	branch = refs/heads/main
+[submodule "carputils"]
+	url = https://github.com/conda-forge/carputils-feedstock.git
+	path = feedstocks/carputils
+	branch = refs/heads/main
