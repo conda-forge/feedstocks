@@ -112182,3 +112182,7 @@
 	url = https://github.com/conda-forge/carputils-feedstock.git
 	path = feedstocks/carputils
 	branch = refs/heads/main
+[submodule "oxfmt"]
+	url = https://github.com/conda-forge/oxfmt-feedstock.git
+	path = feedstocks/oxfmt
+	branch = refs/heads/main
