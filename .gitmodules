@@ -112174,3 +112174,7 @@
 	url = https://github.com/conda-forge/sedonadb-feedstock.git
 	path = feedstocks/sedonadb
 	branch = refs/heads/main
+[submodule "opencarp"]
+	url = https://github.com/conda-forge/opencarp-feedstock.git
+	path = feedstocks/opencarp
+	branch = refs/heads/main
