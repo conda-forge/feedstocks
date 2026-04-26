@@ -112186,3 +112186,7 @@
 	url = https://github.com/conda-forge/oxfmt-feedstock.git
 	path = feedstocks/oxfmt
 	branch = refs/heads/main
+[submodule "pygame-ce"]
+	url = https://github.com/conda-forge/pygame-ce-feedstock.git
+	path = feedstocks/pygame-ce
+	branch = refs/heads/main
