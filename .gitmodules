@@ -112210,3 +112210,7 @@
 	url = https://github.com/conda-forge/cpp-httplib-feedstock.git
 	path = feedstocks/cpp-httplib
 	branch = refs/heads/main
+[submodule "pyshader"]
+	url = https://github.com/conda-forge/pyshader-feedstock.git
+	path = feedstocks/pyshader
+	branch = refs/heads/main
