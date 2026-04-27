@@ -112230,3 +112230,7 @@
 	url = https://github.com/conda-forge/r-tikzdevice-feedstock.git
 	path = feedstocks/r-tikzdevice
 	branch = refs/heads/main
+[submodule "r-gamsel"]
+	url = https://github.com/conda-forge/r-gamsel-feedstock.git
+	path = feedstocks/r-gamsel
+	branch = refs/heads/main
