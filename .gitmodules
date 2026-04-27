@@ -112198,3 +112198,7 @@
 	url = https://github.com/conda-forge/mammos-parser-feedstock.git
 	path = feedstocks/mammos-parser
 	branch = refs/heads/main
+[submodule "langchain-protocol"]
+	url = https://github.com/conda-forge/langchain-protocol-feedstock.git
+	path = feedstocks/langchain-protocol
+	branch = refs/heads/main
