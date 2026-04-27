@@ -112242,3 +112242,7 @@
 	url = https://github.com/conda-forge/tdiff-feedstock.git
 	path = feedstocks/tdiff
 	branch = refs/heads/main
+[submodule "pyedb"]
+	url = https://github.com/conda-forge/pyedb-feedstock.git
+	path = feedstocks/pyedb
+	branch = refs/heads/main
