@@ -112218,3 +112218,7 @@
 	url = https://github.com/conda-forge/fgmetric-feedstock.git
 	path = feedstocks/fgmetric
 	branch = refs/heads/main
+[submodule "r-rapp"]
+	url = https://github.com/conda-forge/r-rapp-feedstock.git
+	path = feedstocks/r-rapp
+	branch = refs/heads/main
