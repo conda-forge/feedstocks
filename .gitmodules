@@ -112238,3 +112238,7 @@
 	url = https://github.com/conda-forge/redis-plus-plus-feedstock.git
 	path = feedstocks/redis-plus-plus
 	branch = refs/heads/main
+[submodule "tdiff"]
+	url = https://github.com/conda-forge/tdiff-feedstock.git
+	path = feedstocks/tdiff
+	branch = refs/heads/main
