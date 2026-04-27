@@ -112206,3 +112206,7 @@
 	url = https://github.com/conda-forge/mypy-coverage-feedstock.git
 	path = feedstocks/mypy-coverage
 	branch = refs/heads/main
+[submodule "cpp-httplib"]
+	url = https://github.com/conda-forge/cpp-httplib-feedstock.git
+	path = feedstocks/cpp-httplib
+	branch = refs/heads/main
