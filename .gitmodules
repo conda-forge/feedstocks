@@ -112246,3 +112246,7 @@
 	url = https://github.com/conda-forge/pyedb-feedstock.git
 	path = feedstocks/pyedb
 	branch = refs/heads/main
+[submodule "modctl"]
+	url = https://github.com/conda-forge/modctl-feedstock.git
+	path = feedstocks/modctl
+	branch = refs/heads/main
