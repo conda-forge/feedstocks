@@ -112202,3 +112202,7 @@
 	url = https://github.com/conda-forge/langchain-protocol-feedstock.git
 	path = feedstocks/langchain-protocol
 	branch = refs/heads/main
+[submodule "mypy-coverage"]
+	url = https://github.com/conda-forge/mypy-coverage-feedstock.git
+	path = feedstocks/mypy-coverage
+	branch = refs/heads/main
