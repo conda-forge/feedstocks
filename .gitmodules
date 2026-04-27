@@ -112190,3 +112190,7 @@
 	url = https://github.com/conda-forge/pygame-ce-feedstock.git
 	path = feedstocks/pygame-ce
 	branch = refs/heads/main
+[submodule "gbs"]
+	url = https://github.com/conda-forge/gbs-feedstock.git
+	path = feedstocks/gbs
+	branch = refs/heads/main
