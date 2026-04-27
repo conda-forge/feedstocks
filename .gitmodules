@@ -112214,3 +112214,7 @@
 	url = https://github.com/conda-forge/pyshader-feedstock.git
 	path = feedstocks/pyshader
 	branch = refs/heads/main
+[submodule "fgmetric"]
+	url = https://github.com/conda-forge/fgmetric-feedstock.git
+	path = feedstocks/fgmetric
+	branch = refs/heads/main
