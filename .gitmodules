@@ -112194,3 +112194,7 @@
 	url = https://github.com/conda-forge/gbs-feedstock.git
 	path = feedstocks/gbs
 	branch = refs/heads/main
+[submodule "mammos-parser"]
+	url = https://github.com/conda-forge/mammos-parser-feedstock.git
+	path = feedstocks/mammos-parser
+	branch = refs/heads/main
