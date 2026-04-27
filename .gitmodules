@@ -112222,3 +112222,7 @@
 	url = https://github.com/conda-forge/r-rapp-feedstock.git
 	path = feedstocks/r-rapp
 	branch = refs/heads/main
+[submodule "pyaugmecon"]
+	url = https://github.com/conda-forge/pyaugmecon-feedstock.git
+	path = feedstocks/pyaugmecon
+	branch = refs/heads/main
