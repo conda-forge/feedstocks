@@ -112234,3 +112234,7 @@
 	url = https://github.com/conda-forge/r-gamsel-feedstock.git
 	path = feedstocks/r-gamsel
 	branch = refs/heads/main
+[submodule "redis-plus-plus"]
+	url = https://github.com/conda-forge/redis-plus-plus-feedstock.git
+	path = feedstocks/redis-plus-plus
+	branch = refs/heads/main
