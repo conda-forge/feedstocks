@@ -112270,3 +112270,7 @@
 	url = https://github.com/conda-forge/r-splitfngr-feedstock.git
 	path = feedstocks/r-splitfngr
 	branch = refs/heads/main
+[submodule "r-mixopt"]
+	url = https://github.com/conda-forge/r-mixopt-feedstock.git
+	path = feedstocks/r-mixopt
+	branch = refs/heads/main
