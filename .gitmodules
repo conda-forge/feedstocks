@@ -112286,3 +112286,7 @@
 	url = https://github.com/conda-forge/coherent.licensed-feedstock.git
 	path = feedstocks/coherent.licensed
 	branch = refs/heads/main
+[submodule "rust-analyzer"]
+	url = https://github.com/conda-forge/rust-analyzer-feedstock.git
+	path = feedstocks/rust-analyzer
+	branch = refs/heads/main
