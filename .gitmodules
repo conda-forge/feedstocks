@@ -112274,3 +112274,7 @@
 	url = https://github.com/conda-forge/r-mixopt-feedstock.git
 	path = feedstocks/r-mixopt
 	branch = refs/heads/main
+[submodule "simple-http-server"]
+	url = https://github.com/conda-forge/simple-http-server-feedstock.git
+	path = feedstocks/simple-http-server
+	branch = refs/heads/main
