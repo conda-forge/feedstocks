@@ -112282,3 +112282,7 @@
 	url = https://github.com/conda-forge/jupyter-builder-feedstock.git
 	path = feedstocks/jupyter-builder
 	branch = refs/heads/main
+[submodule "coherent.licensed"]
+	url = https://github.com/conda-forge/coherent.licensed-feedstock.git
+	path = feedstocks/coherent.licensed
+	branch = refs/heads/main
