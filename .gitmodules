@@ -112250,3 +112250,7 @@
 	url = https://github.com/conda-forge/modctl-feedstock.git
 	path = feedstocks/modctl
 	branch = refs/heads/main
+[submodule "opendataloader-pdf"]
+	url = https://github.com/conda-forge/opendataloader-pdf-feedstock.git
+	path = feedstocks/opendataloader-pdf
+	branch = refs/heads/main
