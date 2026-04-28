@@ -112254,3 +112254,7 @@
 	url = https://github.com/conda-forge/opendataloader-pdf-feedstock.git
 	path = feedstocks/opendataloader-pdf
 	branch = refs/heads/main
+[submodule "qt6-keychain"]
+	url = https://github.com/conda-forge/qt6-keychain-feedstock.git
+	path = feedstocks/qt6-keychain
+	branch = refs/heads/main
