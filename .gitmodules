@@ -112266,3 +112266,7 @@
 	url = https://github.com/conda-forge/asmjit-feedstock.git
 	path = feedstocks/asmjit
 	branch = refs/heads/main
+[submodule "r-splitfngr"]
+	url = https://github.com/conda-forge/r-splitfngr-feedstock.git
+	path = feedstocks/r-splitfngr
+	branch = refs/heads/main
