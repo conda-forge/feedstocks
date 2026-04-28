@@ -112258,3 +112258,7 @@
 	url = https://github.com/conda-forge/qt6-keychain-feedstock.git
 	path = feedstocks/qt6-keychain
 	branch = refs/heads/main
+[submodule "libsioclient"]
+	url = https://github.com/conda-forge/libsioclient-feedstock.git
+	path = feedstocks/libsioclient
+	branch = refs/heads/main
