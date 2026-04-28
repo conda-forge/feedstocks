@@ -112278,3 +112278,7 @@
 	url = https://github.com/conda-forge/simple-http-server-feedstock.git
 	path = feedstocks/simple-http-server
 	branch = refs/heads/main
+[submodule "jupyter-builder"]
+	url = https://github.com/conda-forge/jupyter-builder-feedstock.git
+	path = feedstocks/jupyter-builder
+	branch = refs/heads/main
