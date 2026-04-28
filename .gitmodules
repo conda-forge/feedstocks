@@ -112302,3 +112302,7 @@
 	url = https://github.com/conda-forge/astropydantic-feedstock.git
 	path = feedstocks/astropydantic
 	branch = refs/heads/main
+[submodule "pybammsolvers"]
+	url = https://github.com/conda-forge/pybammsolvers-feedstock.git
+	path = feedstocks/pybammsolvers
+	branch = refs/heads/main
