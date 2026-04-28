@@ -112298,3 +112298,7 @@
 	url = https://github.com/conda-forge/libcuest-feedstock.git
 	path = feedstocks/libcuest
 	branch = refs/heads/main
+[submodule "astropydantic"]
+	url = https://github.com/conda-forge/astropydantic-feedstock.git
+	path = feedstocks/astropydantic
+	branch = refs/heads/main
