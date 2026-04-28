@@ -112262,3 +112262,7 @@
 	url = https://github.com/conda-forge/libsioclient-feedstock.git
 	path = feedstocks/libsioclient
 	branch = refs/heads/main
+[submodule "asmjit"]
+	url = https://github.com/conda-forge/asmjit-feedstock.git
+	path = feedstocks/asmjit
+	branch = refs/heads/main
