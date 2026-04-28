@@ -112290,3 +112290,7 @@
 	url = https://github.com/conda-forge/rust-analyzer-feedstock.git
 	path = feedstocks/rust-analyzer
 	branch = refs/heads/main
+[submodule "aws-bedrock-token-generator"]
+	url = https://github.com/conda-forge/aws-bedrock-token-generator-feedstock.git
+	path = feedstocks/aws-bedrock-token-generator
+	branch = refs/heads/main
