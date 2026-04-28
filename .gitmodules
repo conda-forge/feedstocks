@@ -112294,3 +112294,7 @@
 	url = https://github.com/conda-forge/aws-bedrock-token-generator-feedstock.git
 	path = feedstocks/aws-bedrock-token-generator
 	branch = refs/heads/main
+[submodule "libcuest"]
+	url = https://github.com/conda-forge/libcuest-feedstock.git
+	path = feedstocks/libcuest
+	branch = refs/heads/main
