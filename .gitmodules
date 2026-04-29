@@ -112314,3 +112314,7 @@
 	url = https://github.com/conda-forge/lune-feedstock.git
 	path = feedstocks/lune
 	branch = refs/heads/main
+[submodule "vmec-jax"]
+	url = https://github.com/conda-forge/vmec-jax-feedstock.git
+	path = feedstocks/vmec-jax
+	branch = refs/heads/main
