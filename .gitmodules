@@ -112310,3 +112310,7 @@
 	url = https://github.com/conda-forge/ini-file-feedstock.git
 	path = feedstocks/ini-file
 	branch = refs/heads/main
+[submodule "lune"]
+	url = https://github.com/conda-forge/lune-feedstock.git
+	path = feedstocks/lune
+	branch = refs/heads/main
