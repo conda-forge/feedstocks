@@ -112318,3 +112318,7 @@
 	url = https://github.com/conda-forge/vmec-jax-feedstock.git
 	path = feedstocks/vmec-jax
 	branch = refs/heads/main
+[submodule "encutils"]
+	url = https://github.com/conda-forge/encutils-feedstock.git
+	path = feedstocks/encutils
+	branch = refs/heads/main
