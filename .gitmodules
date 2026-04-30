@@ -112338,3 +112338,7 @@
 	url = https://github.com/conda-forge/sarkit-assurance-feedstock.git
 	path = feedstocks/sarkit-assurance
 	branch = refs/heads/main
+[submodule "pyopenms-viz"]
+	url = https://github.com/conda-forge/pyopenms-viz-feedstock.git
+	path = feedstocks/pyopenms-viz
+	branch = refs/heads/main
