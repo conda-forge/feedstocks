@@ -112342,3 +112342,7 @@
 	url = https://github.com/conda-forge/pyopenms-viz-feedstock.git
 	path = feedstocks/pyopenms-viz
 	branch = refs/heads/main
+[submodule "giso"]
+	url = https://github.com/conda-forge/giso-feedstock.git
+	path = feedstocks/giso
+	branch = refs/heads/main
