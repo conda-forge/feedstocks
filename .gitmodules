@@ -112350,3 +112350,7 @@
 	url = https://github.com/conda-forge/libreyolo-feedstock.git
 	path = feedstocks/libreyolo
 	branch = refs/heads/main
+[submodule "footbridge"]
+	url = https://github.com/conda-forge/footbridge-feedstock.git
+	path = feedstocks/footbridge
+	branch = refs/heads/main
