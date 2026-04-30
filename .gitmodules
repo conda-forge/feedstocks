@@ -112358,3 +112358,7 @@
 	url = https://github.com/conda-forge/gtsam-points-feedstock.git
 	path = feedstocks/gtsam-points
 	branch = refs/heads/main
+[submodule "simple-track"]
+	url = https://github.com/conda-forge/simple-track-feedstock.git
+	path = feedstocks/simple-track
+	branch = refs/heads/main
