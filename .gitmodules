@@ -112354,3 +112354,7 @@
 	url = https://github.com/conda-forge/footbridge-feedstock.git
 	path = feedstocks/footbridge
 	branch = refs/heads/main
+[submodule "gtsam-points"]
+	url = https://github.com/conda-forge/gtsam-points-feedstock.git
+	path = feedstocks/gtsam-points
+	branch = refs/heads/main
