@@ -112326,3 +112326,7 @@
 	url = https://github.com/conda-forge/blend2d-feedstock.git
 	path = feedstocks/blend2d
 	branch = refs/heads/main
+[submodule "git-extras"]
+	url = https://github.com/conda-forge/git-extras-feedstock.git
+	path = feedstocks/git-extras
+	branch = refs/heads/main
