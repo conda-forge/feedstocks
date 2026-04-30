@@ -112330,3 +112330,7 @@
 	url = https://github.com/conda-forge/git-extras-feedstock.git
 	path = feedstocks/git-extras
 	branch = refs/heads/main
+[submodule "nccl4py"]
+	url = https://github.com/conda-forge/nccl4py-feedstock.git
+	path = feedstocks/nccl4py
+	branch = refs/heads/main
