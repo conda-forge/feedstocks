@@ -112334,3 +112334,7 @@
 	url = https://github.com/conda-forge/nccl4py-feedstock.git
 	path = feedstocks/nccl4py
 	branch = refs/heads/main
+[submodule "sarkit-assurance"]
+	url = https://github.com/conda-forge/sarkit-assurance-feedstock.git
+	path = feedstocks/sarkit-assurance
+	branch = refs/heads/main
