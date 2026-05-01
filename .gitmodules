@@ -112378,3 +112378,7 @@
 	url = https://github.com/conda-forge/openocd-feedstock.git
 	path = feedstocks/openocd
 	branch = refs/heads/main
+[submodule "moltenvk"]
+	url = https://github.com/conda-forge/moltenvk-feedstock.git
+	path = feedstocks/moltenvk
+	branch = refs/heads/main
