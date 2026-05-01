@@ -112370,3 +112370,7 @@
 	url = https://github.com/conda-forge/helmfile-feedstock.git
 	path = feedstocks/helmfile
 	branch = refs/heads/main
+[submodule "miniz"]
+	url = https://github.com/conda-forge/miniz-feedstock.git
+	path = feedstocks/miniz
+	branch = refs/heads/main
