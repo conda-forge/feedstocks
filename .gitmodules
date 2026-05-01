@@ -112366,3 +112366,7 @@
 	url = https://github.com/conda-forge/stripe-cli-feedstock.git
 	path = feedstocks/stripe-cli
 	branch = refs/heads/main
+[submodule "helmfile"]
+	url = https://github.com/conda-forge/helmfile-feedstock.git
+	path = feedstocks/helmfile
+	branch = refs/heads/main
