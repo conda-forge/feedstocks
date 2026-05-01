@@ -112374,3 +112374,7 @@
 	url = https://github.com/conda-forge/miniz-feedstock.git
 	path = feedstocks/miniz
 	branch = refs/heads/main
+[submodule "openocd"]
+	url = https://github.com/conda-forge/openocd-feedstock.git
+	path = feedstocks/openocd
+	branch = refs/heads/main
