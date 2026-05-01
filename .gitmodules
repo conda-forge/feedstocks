@@ -112362,3 +112362,7 @@
 	url = https://github.com/conda-forge/simple-track-feedstock.git
 	path = feedstocks/simple-track
 	branch = refs/heads/main
+[submodule "stripe-cli"]
+	url = https://github.com/conda-forge/stripe-cli-feedstock.git
+	path = feedstocks/stripe-cli
+	branch = refs/heads/main
