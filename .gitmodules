@@ -112382,3 +112382,7 @@
 	url = https://github.com/conda-forge/moltenvk-feedstock.git
 	path = feedstocks/moltenvk
 	branch = refs/heads/main
+[submodule "aws-smus-cicd-cli"]
+	url = https://github.com/conda-forge/aws-smus-cicd-cli-feedstock.git
+	path = feedstocks/aws-smus-cicd-cli
+	branch = refs/heads/main
