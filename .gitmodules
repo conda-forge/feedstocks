@@ -112394,3 +112394,7 @@
 	url = https://github.com/conda-forge/booz-xform-jax-feedstock.git
 	path = feedstocks/booz-xform-jax
 	branch = refs/heads/main
+[submodule "sfincs-jax"]
+	url = https://github.com/conda-forge/sfincs-jax-feedstock.git
+	path = feedstocks/sfincs-jax
+	branch = refs/heads/main
