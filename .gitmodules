@@ -112386,3 +112386,7 @@
 	url = https://github.com/conda-forge/aws-smus-cicd-cli-feedstock.git
 	path = feedstocks/aws-smus-cicd-cli
 	branch = refs/heads/main
+[submodule "pymongo-search-utils"]
+	url = https://github.com/conda-forge/pymongo-search-utils-feedstock.git
+	path = feedstocks/pymongo-search-utils
+	branch = refs/heads/main
