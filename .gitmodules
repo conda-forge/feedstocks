@@ -112390,3 +112390,7 @@
 	url = https://github.com/conda-forge/pymongo-search-utils-feedstock.git
 	path = feedstocks/pymongo-search-utils
 	branch = refs/heads/main
+[submodule "booz-xform-jax"]
+	url = https://github.com/conda-forge/booz-xform-jax-feedstock.git
+	path = feedstocks/booz-xform-jax
+	branch = refs/heads/main
