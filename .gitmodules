@@ -112410,3 +112410,7 @@
 	url = https://github.com/conda-forge/dora-rs-suite-feedstock.git
 	path = feedstocks/dora-rs-suite
 	branch = refs/heads/main
+[submodule "numba-lapack"]
+	url = https://github.com/conda-forge/numba-lapack-feedstock.git
+	path = feedstocks/numba-lapack
+	branch = refs/heads/main
