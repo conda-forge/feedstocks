@@ -112402,3 +112402,7 @@
 	url = https://github.com/conda-forge/excitingscripts-feedstock.git
 	path = feedstocks/excitingscripts
 	branch = refs/heads/main
+[submodule "abb_libegm"]
+	url = https://github.com/conda-forge/abb_libegm-feedstock.git
+	path = feedstocks/abb_libegm
+	branch = refs/heads/main
