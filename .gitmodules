@@ -112406,3 +112406,7 @@
 	url = https://github.com/conda-forge/abb_libegm-feedstock.git
 	path = feedstocks/abb_libegm
 	branch = refs/heads/main
+[submodule "dora-rs-suite"]
+	url = https://github.com/conda-forge/dora-rs-suite-feedstock.git
+	path = feedstocks/dora-rs-suite
+	branch = refs/heads/main
