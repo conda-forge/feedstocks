@@ -112414,3 +112414,7 @@
 	url = https://github.com/conda-forge/numba-lapack-feedstock.git
 	path = feedstocks/numba-lapack
 	branch = refs/heads/main
+[submodule "ihist"]
+	url = https://github.com/conda-forge/ihist-feedstock.git
+	path = feedstocks/ihist
+	branch = refs/heads/main
