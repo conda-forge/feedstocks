@@ -112418,3 +112418,7 @@
 	url = https://github.com/conda-forge/ihist-feedstock.git
 	path = feedstocks/ihist
 	branch = refs/heads/main
+[submodule "glim"]
+	url = https://github.com/conda-forge/glim-feedstock.git
+	path = feedstocks/glim
+	branch = refs/heads/main
