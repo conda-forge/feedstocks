@@ -112422,3 +112422,7 @@
 	url = https://github.com/conda-forge/glim-feedstock.git
 	path = feedstocks/glim
 	branch = refs/heads/main
+[submodule "pdiff"]
+	url = https://github.com/conda-forge/pdiff-feedstock.git
+	path = feedstocks/pdiff
+	branch = refs/heads/main
