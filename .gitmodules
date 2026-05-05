@@ -112442,3 +112442,7 @@
 	url = https://github.com/conda-forge/legend-lh5io-feedstock.git
 	path = feedstocks/legend-lh5io
 	branch = refs/heads/main
+[submodule "tssh"]
+	url = https://github.com/conda-forge/tssh-feedstock.git
+	path = feedstocks/tssh
+	branch = refs/heads/main
