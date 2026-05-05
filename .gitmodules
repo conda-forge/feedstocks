@@ -112470,3 +112470,7 @@
 	url = https://github.com/conda-forge/jdeskew-feedstock.git
 	path = feedstocks/jdeskew
 	branch = refs/heads/main
+[submodule "derivkit"]
+	url = https://github.com/conda-forge/derivkit-feedstock.git
+	path = feedstocks/derivkit
+	branch = refs/heads/main
