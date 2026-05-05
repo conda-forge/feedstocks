@@ -112450,3 +112450,7 @@
 	url = https://github.com/conda-forge/rkcommon-feedstock.git
 	path = feedstocks/rkcommon
 	branch = refs/heads/main
+[submodule "spey"]
+	url = https://github.com/conda-forge/spey-feedstock.git
+	path = feedstocks/spey
+	branch = refs/heads/main
