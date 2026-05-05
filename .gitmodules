@@ -112454,3 +112454,7 @@
 	url = https://github.com/conda-forge/spey-feedstock.git
 	path = feedstocks/spey
 	branch = refs/heads/main
+[submodule "tsshd"]
+	url = https://github.com/conda-forge/tsshd-feedstock.git
+	path = feedstocks/tsshd
+	branch = refs/heads/main
