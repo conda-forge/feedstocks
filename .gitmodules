@@ -112446,3 +112446,7 @@
 	url = https://github.com/conda-forge/tssh-feedstock.git
 	path = feedstocks/tssh
 	branch = refs/heads/main
+[submodule "rkcommon"]
+	url = https://github.com/conda-forge/rkcommon-feedstock.git
+	path = feedstocks/rkcommon
+	branch = refs/heads/main
