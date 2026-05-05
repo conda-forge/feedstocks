@@ -112434,3 +112434,7 @@
 	url = https://github.com/conda-forge/rpfba-feedstock.git
 	path = feedstocks/rpfba
 	branch = refs/heads/main
+[submodule "jax-galsim"]
+	url = https://github.com/conda-forge/jax-galsim-feedstock.git
+	path = feedstocks/jax-galsim
+	branch = refs/heads/main
