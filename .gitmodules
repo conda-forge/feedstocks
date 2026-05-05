@@ -112474,3 +112474,7 @@
 	url = https://github.com/conda-forge/derivkit-feedstock.git
 	path = feedstocks/derivkit
 	branch = refs/heads/main
+[submodule "salt-terminal"]
+	url = https://github.com/conda-forge/salt-terminal-feedstock.git
+	path = feedstocks/salt-terminal
+	branch = refs/heads/main
