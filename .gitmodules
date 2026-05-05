@@ -112438,3 +112438,7 @@
 	url = https://github.com/conda-forge/jax-galsim-feedstock.git
 	path = feedstocks/jax-galsim
 	branch = refs/heads/main
+[submodule "legend-lh5io"]
+	url = https://github.com/conda-forge/legend-lh5io-feedstock.git
+	path = feedstocks/legend-lh5io
+	branch = refs/heads/main
