@@ -112522,3 +112522,7 @@
 	url = https://github.com/conda-forge/fremor-feedstock.git
 	path = feedstocks/fremor
 	branch = refs/heads/main
+[submodule "dpct-meta"]
+	url = https://github.com/conda-forge/dpct-meta-feedstock.git
+	path = feedstocks/dpct-meta
+	branch = refs/heads/main
