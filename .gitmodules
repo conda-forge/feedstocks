@@ -112510,3 +112510,7 @@
 	url = https://github.com/conda-forge/moocore-feedstock.git
 	path = feedstocks/moocore
 	branch = refs/heads/main
+[submodule "newick"]
+	url = https://github.com/conda-forge/newick-feedstock.git
+	path = feedstocks/newick
+	branch = refs/heads/main
