@@ -112486,3 +112486,7 @@
 	url = https://github.com/conda-forge/paho-mqtt-cpp-feedstock.git
 	path = feedstocks/paho-mqtt-cpp
 	branch = refs/heads/main
+[submodule "openvkl"]
+	url = https://github.com/conda-forge/openvkl-feedstock.git
+	path = feedstocks/openvkl
+	branch = refs/heads/main
