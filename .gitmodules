@@ -112494,3 +112494,7 @@
 	url = https://github.com/conda-forge/rb-asciidoctor-diagram-feedstock.git
 	path = feedstocks/rb-asciidoctor-diagram
 	branch = refs/heads/main
+[submodule "nethack"]
+	url = https://github.com/conda-forge/nethack-feedstock.git
+	path = feedstocks/nethack
+	branch = refs/heads/main
