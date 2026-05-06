@@ -112506,3 +112506,7 @@
 	url = https://github.com/conda-forge/openimagedenoise-feedstock.git
 	path = feedstocks/openimagedenoise
 	branch = refs/heads/main
+[submodule "moocore"]
+	url = https://github.com/conda-forge/moocore-feedstock.git
+	path = feedstocks/moocore
+	branch = refs/heads/main
