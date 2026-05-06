@@ -112490,3 +112490,7 @@
 	url = https://github.com/conda-forge/openvkl-feedstock.git
 	path = feedstocks/openvkl
 	branch = refs/heads/main
+[submodule "rb-asciidoctor-diagram"]
+	url = https://github.com/conda-forge/rb-asciidoctor-diagram-feedstock.git
+	path = feedstocks/rb-asciidoctor-diagram
+	branch = refs/heads/main
