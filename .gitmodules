@@ -112526,3 +112526,7 @@
 	url = https://github.com/conda-forge/dpct-meta-feedstock.git
 	path = feedstocks/dpct-meta
 	branch = refs/heads/main
+[submodule "dex"]
+	url = https://github.com/conda-forge/dex-feedstock.git
+	path = feedstocks/dex
+	branch = refs/heads/main
