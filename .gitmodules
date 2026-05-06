@@ -112482,3 +112482,7 @@
 	url = https://github.com/conda-forge/rucio-mcp-feedstock.git
 	path = feedstocks/rucio-mcp
 	branch = refs/heads/main
+[submodule "paho-mqtt-cpp"]
+	url = https://github.com/conda-forge/paho-mqtt-cpp-feedstock.git
+	path = feedstocks/paho-mqtt-cpp
+	branch = refs/heads/main
