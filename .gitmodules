@@ -112502,3 +112502,7 @@
 	url = https://github.com/conda-forge/kdsource-feedstock.git
 	path = feedstocks/kdsource
 	branch = refs/heads/main
+[submodule "openimagedenoise"]
+	url = https://github.com/conda-forge/openimagedenoise-feedstock.git
+	path = feedstocks/openimagedenoise
+	branch = refs/heads/main
