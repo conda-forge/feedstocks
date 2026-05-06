@@ -112498,3 +112498,7 @@
 	url = https://github.com/conda-forge/nethack-feedstock.git
 	path = feedstocks/nethack
 	branch = refs/heads/main
+[submodule "kdsource"]
+	url = https://github.com/conda-forge/kdsource-feedstock.git
+	path = feedstocks/kdsource
+	branch = refs/heads/main
