@@ -112478,3 +112478,7 @@
 	url = https://github.com/conda-forge/salt-terminal-feedstock.git
 	path = feedstocks/salt-terminal
 	branch = refs/heads/main
+[submodule "rucio-mcp"]
+	url = https://github.com/conda-forge/rucio-mcp-feedstock.git
+	path = feedstocks/rucio-mcp
+	branch = refs/heads/main
