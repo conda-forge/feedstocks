@@ -112514,3 +112514,7 @@
 	url = https://github.com/conda-forge/newick-feedstock.git
 	path = feedstocks/newick
 	branch = refs/heads/main
+[submodule "rb-asciidoctor-revealjs"]
+	url = https://github.com/conda-forge/rb-asciidoctor-revealjs-feedstock.git
+	path = feedstocks/rb-asciidoctor-revealjs
+	branch = refs/heads/main
