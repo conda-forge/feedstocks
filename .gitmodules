@@ -112554,3 +112554,7 @@
 	url = https://github.com/conda-forge/collasso-feedstock.git
 	path = feedstocks/collasso
 	branch = refs/heads/main
+[submodule "cubic"]
+	url = https://github.com/conda-forge/cubic-feedstock.git
+	path = feedstocks/cubic
+	branch = refs/heads/main
