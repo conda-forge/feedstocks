@@ -112530,3 +112530,7 @@
 	url = https://github.com/conda-forge/dex-feedstock.git
 	path = feedstocks/dex
 	branch = refs/heads/main
+[submodule "libcoro"]
+	url = https://github.com/conda-forge/libcoro-feedstock.git
+	path = feedstocks/libcoro
+	branch = refs/heads/main
