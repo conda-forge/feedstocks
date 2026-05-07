@@ -112550,3 +112550,7 @@
 	url = https://github.com/conda-forge/page-dewarp-feedstock.git
 	path = feedstocks/page-dewarp
 	branch = refs/heads/main
+[submodule "collasso"]
+	url = https://github.com/conda-forge/collasso-feedstock.git
+	path = feedstocks/collasso
+	branch = refs/heads/main
