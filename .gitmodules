@@ -112542,3 +112542,7 @@
 	url = https://github.com/conda-forge/ipbus-feedstock.git
 	path = feedstocks/ipbus
 	branch = refs/heads/main
+[submodule "kompute"]
+	url = https://github.com/conda-forge/kompute-feedstock.git
+	path = feedstocks/kompute
+	branch = refs/heads/main
