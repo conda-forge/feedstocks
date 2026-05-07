@@ -112558,3 +112558,7 @@
 	url = https://github.com/conda-forge/cubic-feedstock.git
 	path = feedstocks/cubic
 	branch = refs/heads/main
+[submodule "rbw"]
+	url = https://github.com/conda-forge/rbw-feedstock.git
+	path = feedstocks/rbw
+	branch = refs/heads/main
