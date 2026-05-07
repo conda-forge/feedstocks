@@ -112562,3 +112562,7 @@
 	url = https://github.com/conda-forge/rbw-feedstock.git
 	path = feedstocks/rbw
 	branch = refs/heads/main
+[submodule "crysfml"]
+	url = https://github.com/conda-forge/crysfml-feedstock.git
+	path = feedstocks/crysfml
+	branch = refs/heads/main
