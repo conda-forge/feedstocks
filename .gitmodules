@@ -112538,3 +112538,7 @@
 	url = https://github.com/conda-forge/cscope-feedstock.git
 	path = feedstocks/cscope
 	branch = refs/heads/main
+[submodule "ipbus"]
+	url = https://github.com/conda-forge/ipbus-feedstock.git
+	path = feedstocks/ipbus
+	branch = refs/heads/main
