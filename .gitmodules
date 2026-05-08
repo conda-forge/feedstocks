@@ -112654,3 +112654,7 @@
 	url = https://github.com/conda-forge/font-space-grotesk-feedstock.git
 	path = feedstocks/font-space-grotesk
 	branch = refs/heads/main
+[submodule "async-geotiff"]
+	url = https://github.com/conda-forge/async-geotiff-feedstock.git
+	path = feedstocks/async-geotiff
+	branch = refs/heads/main
