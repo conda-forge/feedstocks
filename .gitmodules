@@ -112582,3 +112582,7 @@
 	url = https://github.com/conda-forge/r-blends-feedstock.git
 	path = feedstocks/r-blends
 	branch = refs/heads/main
+[submodule "r-jumble"]
+	url = https://github.com/conda-forge/r-jumble-feedstock.git
+	path = feedstocks/r-jumble
+	branch = refs/heads/main
