@@ -112638,3 +112638,7 @@
 	url = https://github.com/conda-forge/font-inter-feedstock.git
 	path = feedstocks/font-inter
 	branch = refs/heads/main
+[submodule "font-oldschool-pc-font-pack"]
+	url = https://github.com/conda-forge/font-oldschool-pc-font-pack-feedstock.git
+	path = feedstocks/font-oldschool-pc-font-pack
+	branch = refs/heads/main
