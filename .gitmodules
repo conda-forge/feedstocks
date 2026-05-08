@@ -112578,3 +112578,7 @@
 	url = https://github.com/conda-forge/sigmf-feedstock.git
 	path = feedstocks/sigmf
 	branch = refs/heads/main
+[submodule "r-blends"]
+	url = https://github.com/conda-forge/r-blends-feedstock.git
+	path = feedstocks/r-blends
+	branch = refs/heads/main
