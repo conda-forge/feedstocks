@@ -112602,3 +112602,7 @@
 	url = https://github.com/conda-forge/shh-feedstock.git
 	path = feedstocks/shh
 	branch = refs/heads/main
+[submodule "ghostty"]
+	url = https://github.com/conda-forge/ghostty-feedstock.git
+	path = feedstocks/ghostty
+	branch = refs/heads/main
