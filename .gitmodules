@@ -112626,3 +112626,7 @@
 	url = https://github.com/conda-forge/tofu-age-encryption-feedstock.git
 	path = feedstocks/tofu-age-encryption
 	branch = refs/heads/main
+[submodule "patchworkpp"]
+	url = https://github.com/conda-forge/patchworkpp-feedstock.git
+	path = feedstocks/patchworkpp
+	branch = refs/heads/main
