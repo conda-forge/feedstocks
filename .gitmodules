@@ -112594,3 +112594,7 @@
 	url = https://github.com/conda-forge/r-palette-feedstock.git
 	path = feedstocks/r-palette
 	branch = refs/heads/main
+[submodule "openai-cli"]
+	url = https://github.com/conda-forge/openai-cli-feedstock.git
+	path = feedstocks/openai-cli
+	branch = refs/heads/main
