@@ -112622,3 +112622,7 @@
 	url = https://github.com/conda-forge/font-libre-baskerville-feedstock.git
 	path = feedstocks/font-libre-baskerville
 	branch = refs/heads/main
+[submodule "tofu-age-encryption"]
+	url = https://github.com/conda-forge/tofu-age-encryption-feedstock.git
+	path = feedstocks/tofu-age-encryption
+	branch = refs/heads/main
