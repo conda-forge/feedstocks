@@ -112598,3 +112598,7 @@
 	url = https://github.com/conda-forge/openai-cli-feedstock.git
 	path = feedstocks/openai-cli
 	branch = refs/heads/main
+[submodule "shh"]
+	url = https://github.com/conda-forge/shh-feedstock.git
+	path = feedstocks/shh
+	branch = refs/heads/main
