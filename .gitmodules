@@ -112658,3 +112658,7 @@
 	url = https://github.com/conda-forge/async-geotiff-feedstock.git
 	path = feedstocks/async-geotiff
 	branch = refs/heads/main
+[submodule "pyfuga"]
+	url = https://github.com/conda-forge/pyfuga-feedstock.git
+	path = feedstocks/pyfuga
+	branch = refs/heads/main
