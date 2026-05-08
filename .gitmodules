@@ -112574,3 +112574,7 @@
 	url = https://github.com/conda-forge/datascketches-cpp-feedstock.git
 	path = feedstocks/datascketches-cpp
 	branch = refs/heads/main
+[submodule "sigmf"]
+	url = https://github.com/conda-forge/sigmf-feedstock.git
+	path = feedstocks/sigmf
+	branch = refs/heads/main
