@@ -112570,3 +112570,7 @@
 	url = https://github.com/conda-forge/overturemaestro-feedstock.git
 	path = feedstocks/overturemaestro
 	branch = refs/heads/main
+[submodule "datascketches-cpp"]
+	url = https://github.com/conda-forge/datascketches-cpp-feedstock.git
+	path = feedstocks/datascketches-cpp
+	branch = refs/heads/main
