@@ -112670,3 +112670,7 @@
 	url = https://github.com/conda-forge/r-ggrefine-feedstock.git
 	path = feedstocks/r-ggrefine
 	branch = refs/heads/main
+[submodule "term-background"]
+	url = https://github.com/conda-forge/term-background-feedstock.git
+	path = feedstocks/term-background
+	branch = refs/heads/main
