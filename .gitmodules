@@ -112614,3 +112614,7 @@
 	url = https://github.com/conda-forge/r-flexoki-feedstock.git
 	path = feedstocks/r-flexoki
 	branch = refs/heads/main
+[submodule "fairret"]
+	url = https://github.com/conda-forge/fairret-feedstock.git
+	path = feedstocks/fairret
+	branch = refs/heads/main
