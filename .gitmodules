@@ -112698,3 +112698,7 @@
 	url = https://github.com/conda-forge/kalign-feedstock.git
 	path = feedstocks/kalign
 	branch = refs/heads/main
+[submodule "ramp-stream"]
+	url = https://github.com/conda-forge/ramp-stream-feedstock.git
+	path = feedstocks/ramp-stream
+	branch = refs/heads/main
