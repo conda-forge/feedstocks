@@ -112690,3 +112690,7 @@
 	url = https://github.com/conda-forge/libgbm-feedstock.git
 	path = feedstocks/libgbm
 	branch = refs/heads/main
+[submodule "passt"]
+	url = https://github.com/conda-forge/passt-feedstock.git
+	path = feedstocks/passt
+	branch = refs/heads/main
