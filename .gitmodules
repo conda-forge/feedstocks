@@ -112678,3 +112678,7 @@
 	url = https://github.com/conda-forge/spaceprime-feedstock.git
 	path = feedstocks/spaceprime
 	branch = refs/heads/main
+[submodule "datasketches-cpp"]
+	url = https://github.com/conda-forge/datasketches-cpp-feedstock.git
+	path = feedstocks/datasketches-cpp
+	branch = refs/heads/main
