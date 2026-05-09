@@ -112694,3 +112694,7 @@
 	url = https://github.com/conda-forge/passt-feedstock.git
 	path = feedstocks/passt
 	branch = refs/heads/main
+[submodule "kalign"]
+	url = https://github.com/conda-forge/kalign-feedstock.git
+	path = feedstocks/kalign
+	branch = refs/heads/main
