@@ -112686,3 +112686,7 @@
 	url = https://github.com/conda-forge/mkgraticule-planet-feedstock.git
 	path = feedstocks/mkgraticule-planet
 	branch = refs/heads/main
+[submodule "libgbm"]
+	url = https://github.com/conda-forge/libgbm-feedstock.git
+	path = feedstocks/libgbm
+	branch = refs/heads/main
