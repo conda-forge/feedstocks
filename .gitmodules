@@ -112714,3 +112714,7 @@
 	url = https://github.com/conda-forge/types-authlib-feedstock.git
 	path = feedstocks/types-authlib
 	branch = refs/heads/main
+[submodule "ast-serialize"]
+	url = https://github.com/conda-forge/ast-serialize-feedstock.git
+	path = feedstocks/ast-serialize
+	branch = refs/heads/main
