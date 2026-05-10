@@ -112706,3 +112706,7 @@
 	url = https://github.com/conda-forge/r-ggscribe-feedstock.git
 	path = feedstocks/r-ggscribe
 	branch = refs/heads/main
+[submodule "earthlens"]
+	url = https://github.com/conda-forge/earthlens-feedstock.git
+	path = feedstocks/earthlens
+	branch = refs/heads/main
