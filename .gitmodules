@@ -112710,3 +112710,7 @@
 	url = https://github.com/conda-forge/earthlens-feedstock.git
 	path = feedstocks/earthlens
 	branch = refs/heads/main
+[submodule "types-authlib"]
+	url = https://github.com/conda-forge/types-authlib-feedstock.git
+	path = feedstocks/types-authlib
+	branch = refs/heads/main
