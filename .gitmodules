@@ -112726,3 +112726,7 @@
 	url = https://github.com/conda-forge/historia-feedstock.git
 	path = feedstocks/historia
 	branch = refs/heads/main
+[submodule "ctao-datamodel"]
+	url = https://github.com/conda-forge/ctao-datamodel-feedstock.git
+	path = feedstocks/ctao-datamodel
+	branch = refs/heads/main
