@@ -112718,3 +112718,7 @@
 	url = https://github.com/conda-forge/ast-serialize-feedstock.git
 	path = feedstocks/ast-serialize
 	branch = refs/heads/main
+[submodule "trame-pyvista"]
+	url = https://github.com/conda-forge/trame-pyvista-feedstock.git
+	path = feedstocks/trame-pyvista
+	branch = refs/heads/main
