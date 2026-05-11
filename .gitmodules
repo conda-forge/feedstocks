@@ -112734,3 +112734,7 @@
 	url = https://github.com/conda-forge/peaks-arpes-feedstock.git
 	path = feedstocks/peaks-arpes
 	branch = refs/heads/main
+[submodule "mmpose"]
+	url = https://github.com/conda-forge/mmpose-feedstock.git
+	path = feedstocks/mmpose
+	branch = refs/heads/main
