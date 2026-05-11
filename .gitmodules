@@ -112730,3 +112730,7 @@
 	url = https://github.com/conda-forge/ctao-datamodel-feedstock.git
 	path = feedstocks/ctao-datamodel
 	branch = refs/heads/main
+[submodule "peaks-arpes"]
+	url = https://github.com/conda-forge/peaks-arpes-feedstock.git
+	path = feedstocks/peaks-arpes
+	branch = refs/heads/main
