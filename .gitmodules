@@ -112738,3 +112738,7 @@
 	url = https://github.com/conda-forge/mmpose-feedstock.git
 	path = feedstocks/mmpose
 	branch = refs/heads/main
+[submodule "io4dolfinx"]
+	url = https://github.com/conda-forge/io4dolfinx-feedstock.git
+	path = feedstocks/io4dolfinx
+	branch = refs/heads/main
