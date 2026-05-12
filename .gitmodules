@@ -112754,3 +112754,7 @@
 	url = https://github.com/conda-forge/mjviser-feedstock.git
 	path = feedstocks/mjviser
 	branch = refs/heads/main
+[submodule "geost"]
+	url = https://github.com/conda-forge/geost-feedstock.git
+	path = feedstocks/geost
+	branch = refs/heads/main
