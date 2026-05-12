@@ -112746,3 +112746,7 @@
 	url = https://github.com/conda-forge/occ-gordon-feedstock.git
 	path = feedstocks/occ-gordon
 	branch = refs/heads/main
+[submodule "libxmp"]
+	url = https://github.com/conda-forge/libxmp-feedstock.git
+	path = feedstocks/libxmp
+	branch = refs/heads/main
