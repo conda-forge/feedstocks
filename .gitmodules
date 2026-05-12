@@ -112766,3 +112766,7 @@
 	url = https://github.com/conda-forge/qt-sensors-feedstock.git
 	path = feedstocks/qt-sensors
 	branch = refs/heads/main
+[submodule "db-connector-tool"]
+	url = https://github.com/conda-forge/db-connector-tool-feedstock.git
+	path = feedstocks/db-connector-tool
+	branch = refs/heads/main
