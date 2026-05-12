@@ -112858,3 +112858,7 @@
 	url = https://github.com/conda-forge/tree-sitter-typescript-feedstock.git
 	path = feedstocks/tree-sitter-typescript
 	branch = refs/heads/main
+[submodule "tree-sitter-rust"]
+	url = https://github.com/conda-forge/tree-sitter-rust-feedstock.git
+	path = feedstocks/tree-sitter-rust
+	branch = refs/heads/main
