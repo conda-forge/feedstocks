@@ -112866,3 +112866,7 @@
 	url = https://github.com/conda-forge/tree-sitter-go-feedstock.git
 	path = feedstocks/tree-sitter-go
 	branch = refs/heads/main
+[submodule "parameter-sweep"]
+	url = https://github.com/conda-forge/parameter-sweep-feedstock.git
+	path = feedstocks/parameter-sweep
+	branch = refs/heads/main
