@@ -112762,3 +112762,7 @@
 	url = https://github.com/conda-forge/pydentate-feedstock.git
 	path = feedstocks/pydentate
 	branch = refs/heads/main
+[submodule "qt-sensors"]
+	url = https://github.com/conda-forge/qt-sensors-feedstock.git
+	path = feedstocks/qt-sensors
+	branch = refs/heads/main
