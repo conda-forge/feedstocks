@@ -112806,3 +112806,7 @@
 	url = https://github.com/conda-forge/tree-sitter-php-feedstock.git
 	path = feedstocks/tree-sitter-php
 	branch = refs/heads/main
+[submodule "tree-sitter-elixir"]
+	url = https://github.com/conda-forge/tree-sitter-elixir-feedstock.git
+	path = feedstocks/tree-sitter-elixir
+	branch = refs/heads/main
