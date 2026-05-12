@@ -112798,3 +112798,7 @@
 	url = https://github.com/conda-forge/tree-sitter-java-feedstock.git
 	path = feedstocks/tree-sitter-java
 	branch = refs/heads/main
+[submodule "tree-sitter-powershell"]
+	url = https://github.com/conda-forge/tree-sitter-powershell-feedstock.git
+	path = feedstocks/tree-sitter-powershell
+	branch = refs/heads/main
