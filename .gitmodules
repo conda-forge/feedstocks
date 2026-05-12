@@ -112810,3 +112810,7 @@
 	url = https://github.com/conda-forge/tree-sitter-elixir-feedstock.git
 	path = feedstocks/tree-sitter-elixir
 	branch = refs/heads/main
+[submodule "tree-sitter-swift"]
+	url = https://github.com/conda-forge/tree-sitter-swift-feedstock.git
+	path = feedstocks/tree-sitter-swift
+	branch = refs/heads/main
