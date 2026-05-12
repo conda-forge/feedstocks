@@ -112750,3 +112750,7 @@
 	url = https://github.com/conda-forge/libxmp-feedstock.git
 	path = feedstocks/libxmp
 	branch = refs/heads/main
+[submodule "mjviser"]
+	url = https://github.com/conda-forge/mjviser-feedstock.git
+	path = feedstocks/mjviser
+	branch = refs/heads/main
