@@ -112822,3 +112822,7 @@
 	url = https://github.com/conda-forge/grid-apps-feedstock.git
 	path = feedstocks/grid-apps
 	branch = refs/heads/main
+[submodule "tree-sitter-kotlin"]
+	url = https://github.com/conda-forge/tree-sitter-kotlin-feedstock.git
+	path = feedstocks/tree-sitter-kotlin
+	branch = refs/heads/main
