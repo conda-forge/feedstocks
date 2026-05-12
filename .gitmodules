@@ -112862,3 +112862,7 @@
 	url = https://github.com/conda-forge/tree-sitter-rust-feedstock.git
 	path = feedstocks/tree-sitter-rust
 	branch = refs/heads/main
+[submodule "tree-sitter-go"]
+	url = https://github.com/conda-forge/tree-sitter-go-feedstock.git
+	path = feedstocks/tree-sitter-go
+	branch = refs/heads/main
