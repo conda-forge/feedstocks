@@ -112826,3 +112826,7 @@
 	url = https://github.com/conda-forge/tree-sitter-kotlin-feedstock.git
 	path = feedstocks/tree-sitter-kotlin
 	branch = refs/heads/main
+[submodule "tree-sitter-ruby"]
+	url = https://github.com/conda-forge/tree-sitter-ruby-feedstock.git
+	path = feedstocks/tree-sitter-ruby
+	branch = refs/heads/main
