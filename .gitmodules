@@ -112742,3 +112742,7 @@
 	url = https://github.com/conda-forge/io4dolfinx-feedstock.git
 	path = feedstocks/io4dolfinx
 	branch = refs/heads/main
+[submodule "occ-gordon"]
+	url = https://github.com/conda-forge/occ-gordon-feedstock.git
+	path = feedstocks/occ-gordon
+	branch = refs/heads/main
