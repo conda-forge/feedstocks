@@ -112786,3 +112786,7 @@
 	url = https://github.com/conda-forge/tree-sitter-zig-feedstock.git
 	path = feedstocks/tree-sitter-zig
 	branch = refs/heads/main
+[submodule "ospray"]
+	url = https://github.com/conda-forge/ospray-feedstock.git
+	path = feedstocks/ospray
+	branch = refs/heads/main
