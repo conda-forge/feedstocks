@@ -112838,3 +112838,7 @@
 	url = https://github.com/conda-forge/tree-sitter-javascript-feedstock.git
 	path = feedstocks/tree-sitter-javascript
 	branch = refs/heads/main
+[submodule "ducklake-sdk"]
+	url = https://github.com/conda-forge/ducklake-sdk-feedstock.git
+	path = feedstocks/ducklake-sdk
+	branch = refs/heads/main
