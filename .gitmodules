@@ -112758,3 +112758,7 @@
 	url = https://github.com/conda-forge/geost-feedstock.git
 	path = feedstocks/geost
 	branch = refs/heads/main
+[submodule "pydentate"]
+	url = https://github.com/conda-forge/pydentate-feedstock.git
+	path = feedstocks/pydentate
+	branch = refs/heads/main
