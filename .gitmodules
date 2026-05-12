@@ -112782,3 +112782,7 @@
 	url = https://github.com/conda-forge/tree-sitter-scala-feedstock.git
 	path = feedstocks/tree-sitter-scala
 	branch = refs/heads/main
+[submodule "tree-sitter-zig"]
+	url = https://github.com/conda-forge/tree-sitter-zig-feedstock.git
+	path = feedstocks/tree-sitter-zig
+	branch = refs/heads/main
