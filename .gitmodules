@@ -112802,3 +112802,7 @@
 	url = https://github.com/conda-forge/tree-sitter-powershell-feedstock.git
 	path = feedstocks/tree-sitter-powershell
 	branch = refs/heads/main
+[submodule "tree-sitter-php"]
+	url = https://github.com/conda-forge/tree-sitter-php-feedstock.git
+	path = feedstocks/tree-sitter-php
+	branch = refs/heads/main
