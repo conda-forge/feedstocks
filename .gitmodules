@@ -112902,3 +112902,7 @@
 	url = https://github.com/conda-forge/cargo-leptos-feedstock.git
 	path = feedstocks/cargo-leptos
 	branch = refs/heads/main
+[submodule "xrayphysics"]
+	url = https://github.com/conda-forge/xrayphysics-feedstock.git
+	path = feedstocks/xrayphysics
+	branch = refs/heads/main
