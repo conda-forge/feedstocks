@@ -112886,3 +112886,7 @@
 	url = https://github.com/conda-forge/tree-sitter-markdown-feedstock.git
 	path = feedstocks/tree-sitter-markdown
 	branch = refs/heads/main
+[submodule "phonors"]
+	url = https://github.com/conda-forge/phonors-feedstock.git
+	path = feedstocks/phonors
+	branch = refs/heads/main
