@@ -112882,3 +112882,7 @@
 	url = https://github.com/conda-forge/r-vicus-feedstock.git
 	path = feedstocks/r-vicus
 	branch = refs/heads/main
+[submodule "tree-sitter-markdown"]
+	url = https://github.com/conda-forge/tree-sitter-markdown-feedstock.git
+	path = feedstocks/tree-sitter-markdown
+	branch = refs/heads/main
