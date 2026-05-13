@@ -112890,3 +112890,7 @@
 	url = https://github.com/conda-forge/phonors-feedstock.git
 	path = feedstocks/phonors
 	branch = refs/heads/main
+[submodule "sonatype-iq-api-client"]
+	url = https://github.com/conda-forge/sonatype-iq-api-client-feedstock.git
+	path = feedstocks/sonatype-iq-api-client
+	branch = refs/heads/main
