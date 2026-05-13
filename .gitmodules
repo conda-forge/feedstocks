@@ -112874,3 +112874,7 @@
 	url = https://github.com/conda-forge/gpytoolbox-feedstock.git
 	path = feedstocks/gpytoolbox
 	branch = refs/heads/main
+[submodule "ccls"]
+	url = https://github.com/conda-forge/ccls-feedstock.git
+	path = feedstocks/ccls
+	branch = refs/heads/main
