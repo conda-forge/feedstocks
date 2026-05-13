@@ -112894,3 +112894,7 @@
 	url = https://github.com/conda-forge/sonatype-iq-api-client-feedstock.git
 	path = feedstocks/sonatype-iq-api-client
 	branch = refs/heads/main
+[submodule "sonatype-guide-api-client"]
+	url = https://github.com/conda-forge/sonatype-guide-api-client-feedstock.git
+	path = feedstocks/sonatype-guide-api-client
+	branch = refs/heads/main
