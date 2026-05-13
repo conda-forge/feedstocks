@@ -112878,3 +112878,7 @@
 	url = https://github.com/conda-forge/ccls-feedstock.git
 	path = feedstocks/ccls
 	branch = refs/heads/main
+[submodule "r-vicus"]
+	url = https://github.com/conda-forge/r-vicus-feedstock.git
+	path = feedstocks/r-vicus
+	branch = refs/heads/main
