@@ -112906,3 +112906,7 @@
 	url = https://github.com/conda-forge/xrayphysics-feedstock.git
 	path = feedstocks/xrayphysics
 	branch = refs/heads/main
+[submodule "leapct"]
+	url = https://github.com/conda-forge/leapct-feedstock.git
+	path = feedstocks/leapct
+	branch = refs/heads/main
