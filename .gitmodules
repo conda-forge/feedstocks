@@ -112870,3 +112870,7 @@
 	url = https://github.com/conda-forge/parameter-sweep-feedstock.git
 	path = feedstocks/parameter-sweep
 	branch = refs/heads/main
+[submodule "gpytoolbox"]
+	url = https://github.com/conda-forge/gpytoolbox-feedstock.git
+	path = feedstocks/gpytoolbox
+	branch = refs/heads/main
