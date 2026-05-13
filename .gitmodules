@@ -112910,3 +112910,7 @@
 	url = https://github.com/conda-forge/leapct-feedstock.git
 	path = feedstocks/leapct
 	branch = refs/heads/main
+[submodule "astro-gdt"]
+	url = https://github.com/conda-forge/astro-gdt-feedstock.git
+	path = feedstocks/astro-gdt
+	branch = refs/heads/main
