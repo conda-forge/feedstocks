@@ -112942,3 +112942,7 @@
 	url = https://github.com/conda-forge/conda-recipe-upstream-validator-feedstock.git
 	path = feedstocks/conda-recipe-upstream-validator
 	branch = refs/heads/main
+[submodule "mathics3-scanner"]
+	url = https://github.com/conda-forge/mathics3-scanner-feedstock.git
+	path = feedstocks/mathics3-scanner
+	branch = refs/heads/main
