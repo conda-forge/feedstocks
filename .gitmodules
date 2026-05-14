@@ -112918,3 +112918,7 @@
 	url = https://github.com/conda-forge/biochar-feedstock.git
 	path = feedstocks/biochar
 	branch = refs/heads/main
+[submodule "tree-sitter-luau"]
+	url = https://github.com/conda-forge/tree-sitter-luau-feedstock.git
+	path = feedstocks/tree-sitter-luau
+	branch = refs/heads/main
