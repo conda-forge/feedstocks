@@ -112954,3 +112954,7 @@
 	url = https://github.com/conda-forge/handlr-regex-feedstock.git
 	path = feedstocks/handlr-regex
 	branch = refs/heads/main
+[submodule "html-to-markdown-cli"]
+	url = https://github.com/conda-forge/html-to-markdown-cli-feedstock.git
+	path = feedstocks/html-to-markdown-cli
+	branch = refs/heads/main
