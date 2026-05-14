@@ -112930,3 +112930,7 @@
 	url = https://github.com/conda-forge/obscura-feedstock.git
 	path = feedstocks/obscura
 	branch = refs/heads/main
+[submodule "mmpretrain"]
+	url = https://github.com/conda-forge/mmpretrain-feedstock.git
+	path = feedstocks/mmpretrain
+	branch = refs/heads/main
