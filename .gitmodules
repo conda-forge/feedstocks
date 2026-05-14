@@ -112946,3 +112946,7 @@
 	url = https://github.com/conda-forge/mathics3-scanner-feedstock.git
 	path = feedstocks/mathics3-scanner
 	branch = refs/heads/main
+[submodule "caf.viz"]
+	url = https://github.com/conda-forge/caf.viz-feedstock.git
+	path = feedstocks/caf.viz
+	branch = refs/heads/main
