@@ -112926,3 +112926,7 @@
 	url = https://github.com/conda-forge/otmeshing-feedstock.git
 	path = feedstocks/otmeshing
 	branch = refs/heads/main
+[submodule "obscura"]
+	url = https://github.com/conda-forge/obscura-feedstock.git
+	path = feedstocks/obscura
+	branch = refs/heads/main
