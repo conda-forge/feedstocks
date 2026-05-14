@@ -112914,3 +112914,7 @@
 	url = https://github.com/conda-forge/astro-gdt-feedstock.git
 	path = feedstocks/astro-gdt
 	branch = refs/heads/main
+[submodule "biochar"]
+	url = https://github.com/conda-forge/biochar-feedstock.git
+	path = feedstocks/biochar
+	branch = refs/heads/main
