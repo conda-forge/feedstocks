@@ -112922,3 +112922,7 @@
 	url = https://github.com/conda-forge/tree-sitter-luau-feedstock.git
 	path = feedstocks/tree-sitter-luau
 	branch = refs/heads/main
+[submodule "otmeshing"]
+	url = https://github.com/conda-forge/otmeshing-feedstock.git
+	path = feedstocks/otmeshing
+	branch = refs/heads/main
