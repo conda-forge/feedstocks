@@ -112950,3 +112950,7 @@
 	url = https://github.com/conda-forge/caf.viz-feedstock.git
 	path = feedstocks/caf.viz
 	branch = refs/heads/main
+[submodule "handlr-regex"]
+	url = https://github.com/conda-forge/handlr-regex-feedstock.git
+	path = feedstocks/handlr-regex
+	branch = refs/heads/main
