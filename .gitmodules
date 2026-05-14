@@ -112934,3 +112934,7 @@
 	url = https://github.com/conda-forge/mmpretrain-feedstock.git
 	path = feedstocks/mmpretrain
 	branch = refs/heads/main
+[submodule "neo-jax"]
+	url = https://github.com/conda-forge/neo-jax-feedstock.git
+	path = feedstocks/neo-jax
+	branch = refs/heads/main
