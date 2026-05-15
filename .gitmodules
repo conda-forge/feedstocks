@@ -112962,3 +112962,7 @@
 	url = https://github.com/conda-forge/optiprofiler-feedstock.git
 	path = feedstocks/optiprofiler
 	branch = refs/heads/main
+[submodule "mt-timeseries"]
+	url = https://github.com/conda-forge/mt-timeseries-feedstock.git
+	path = feedstocks/mt-timeseries
+	branch = refs/heads/main
