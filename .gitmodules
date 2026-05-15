@@ -112970,3 +112970,7 @@
 	url = https://github.com/conda-forge/zope.dottedname-feedstock.git
 	path = feedstocks/zope.dottedname
 	branch = refs/heads/main
+[submodule "beam-corset"]
+	url = https://github.com/conda-forge/beam-corset-feedstock.git
+	path = feedstocks/beam-corset
+	branch = refs/heads/main
