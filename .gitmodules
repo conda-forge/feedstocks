@@ -112986,3 +112986,7 @@
 	url = https://github.com/conda-forge/gwq-feedstock.git
 	path = feedstocks/gwq
 	branch = refs/heads/main
+[submodule "opendataloader-pdf-llamaindex"]
+	url = https://github.com/conda-forge/opendataloader-pdf-llamaindex-feedstock.git
+	path = feedstocks/opendataloader-pdf-llamaindex
+	branch = refs/heads/main
