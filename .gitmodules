@@ -112974,3 +112974,7 @@
 	url = https://github.com/conda-forge/beam-corset-feedstock.git
 	path = feedstocks/beam-corset
 	branch = refs/heads/main
+[submodule "tidy-logger"]
+	url = https://github.com/conda-forge/tidy-logger-feedstock.git
+	path = feedstocks/tidy-logger
+	branch = refs/heads/main
