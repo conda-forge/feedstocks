@@ -113006,3 +113006,7 @@
 	url = https://github.com/conda-forge/hk-feedstock.git
 	path = feedstocks/hk
 	branch = refs/heads/main
+[submodule "gfmetadata"]
+	url = https://github.com/conda-forge/gfmetadata-feedstock.git
+	path = feedstocks/gfmetadata
+	branch = refs/heads/main
