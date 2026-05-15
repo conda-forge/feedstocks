@@ -112990,3 +112990,7 @@
 	url = https://github.com/conda-forge/opendataloader-pdf-llamaindex-feedstock.git
 	path = feedstocks/opendataloader-pdf-llamaindex
 	branch = refs/heads/main
+[submodule "cocoindex"]
+	url = https://github.com/conda-forge/cocoindex-feedstock.git
+	path = feedstocks/cocoindex
+	branch = refs/heads/main
