@@ -113002,3 +113002,7 @@
 	url = https://github.com/conda-forge/lsstdesc-augur-feedstock.git
 	path = feedstocks/lsstdesc-augur
 	branch = refs/heads/main
+[submodule "hk"]
+	url = https://github.com/conda-forge/hk-feedstock.git
+	path = feedstocks/hk
+	branch = refs/heads/main
