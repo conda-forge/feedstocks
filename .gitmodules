@@ -113026,3 +113026,7 @@
 	url = https://github.com/conda-forge/librett-feedstock.git
 	path = feedstocks/librett
 	branch = refs/heads/main
+[submodule "libparametric"]
+	url = https://github.com/conda-forge/libparametric-feedstock.git
+	path = feedstocks/libparametric
+	branch = refs/heads/main
