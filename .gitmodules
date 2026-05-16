@@ -113018,3 +113018,7 @@
 	url = https://github.com/conda-forge/libsais-feedstock.git
 	path = feedstocks/libsais
 	branch = refs/heads/main
+[submodule "iwe"]
+	url = https://github.com/conda-forge/iwe-feedstock.git
+	path = feedstocks/iwe
+	branch = refs/heads/main
