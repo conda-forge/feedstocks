@@ -113010,3 +113010,7 @@
 	url = https://github.com/conda-forge/gfmetadata-feedstock.git
 	path = feedstocks/gfmetadata
 	branch = refs/heads/main
+[submodule "cachebox"]
+	url = https://github.com/conda-forge/cachebox-feedstock.git
+	path = feedstocks/cachebox
+	branch = refs/heads/main
