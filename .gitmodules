@@ -113046,3 +113046,7 @@
 	url = https://github.com/conda-forge/mgclient-feedstock.git
 	path = feedstocks/mgclient
 	branch = refs/heads/main
+[submodule "firecrawl"]
+	url = https://github.com/conda-forge/firecrawl-feedstock.git
+	path = feedstocks/firecrawl
+	branch = refs/heads/main
