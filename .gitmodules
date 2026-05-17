@@ -113050,3 +113050,7 @@
 	url = https://github.com/conda-forge/firecrawl-feedstock.git
 	path = feedstocks/firecrawl
 	branch = refs/heads/main
+[submodule "jupyter-loopback"]
+	url = https://github.com/conda-forge/jupyter-loopback-feedstock.git
+	path = feedstocks/jupyter-loopback
+	branch = refs/heads/main
