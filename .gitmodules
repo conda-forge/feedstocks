@@ -113034,3 +113034,7 @@
 	url = https://github.com/conda-forge/calt-x-feedstock.git
 	path = feedstocks/calt-x
 	branch = refs/heads/main
+[submodule "bpcmp"]
+	url = https://github.com/conda-forge/bpcmp-feedstock.git
+	path = feedstocks/bpcmp
+	branch = refs/heads/main
