@@ -113042,3 +113042,7 @@
 	url = https://github.com/conda-forge/goose-feedstock.git
 	path = feedstocks/goose
 	branch = refs/heads/main
+[submodule "mgclient"]
+	url = https://github.com/conda-forge/mgclient-feedstock.git
+	path = feedstocks/mgclient
+	branch = refs/heads/main
