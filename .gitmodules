@@ -113038,3 +113038,7 @@
 	url = https://github.com/conda-forge/bpcmp-feedstock.git
 	path = feedstocks/bpcmp
 	branch = refs/heads/main
+[submodule "goose"]
+	url = https://github.com/conda-forge/goose-feedstock.git
+	path = feedstocks/goose
+	branch = refs/heads/main
