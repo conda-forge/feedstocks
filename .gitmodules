@@ -113030,3 +113030,7 @@
 	url = https://github.com/conda-forge/libparametric-feedstock.git
 	path = feedstocks/libparametric
 	branch = refs/heads/main
+[submodule "calt-x"]
+	url = https://github.com/conda-forge/calt-x-feedstock.git
+	path = feedstocks/calt-x
+	branch = refs/heads/main
