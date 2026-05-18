@@ -113062,3 +113062,7 @@
 	url = https://github.com/conda-forge/deepagents-acp-feedstock.git
 	path = feedstocks/deepagents-acp
 	branch = refs/heads/main
+[submodule "tavily-python"]
+	url = https://github.com/conda-forge/tavily-python-feedstock.git
+	path = feedstocks/tavily-python
+	branch = refs/heads/main
