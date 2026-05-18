@@ -113058,3 +113058,7 @@
 	url = https://github.com/conda-forge/ljosbru-feedstock.git
 	path = feedstocks/ljosbru
 	branch = refs/heads/main
+[submodule "deepagents-acp"]
+	url = https://github.com/conda-forge/deepagents-acp-feedstock.git
+	path = feedstocks/deepagents-acp
+	branch = refs/heads/main
