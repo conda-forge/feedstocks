@@ -113066,3 +113066,7 @@
 	url = https://github.com/conda-forge/tavily-python-feedstock.git
 	path = feedstocks/tavily-python
 	branch = refs/heads/main
+[submodule "chlibc"]
+	url = https://github.com/conda-forge/chlibc-feedstock.git
+	path = feedstocks/chlibc
+	branch = refs/heads/main
