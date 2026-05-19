@@ -113070,3 +113070,7 @@
 	url = https://github.com/conda-forge/chlibc-feedstock.git
 	path = feedstocks/chlibc
 	branch = refs/heads/main
+[submodule "agno"]
+	url = https://github.com/conda-forge/agno-feedstock.git
+	path = feedstocks/agno
+	branch = refs/heads/main
