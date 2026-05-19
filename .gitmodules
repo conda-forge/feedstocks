@@ -113094,3 +113094,7 @@
 	url = https://github.com/conda-forge/ompython-feedstock.git
 	path = feedstocks/ompython
 	branch = refs/heads/main
+[submodule "robodraw"]
+	url = https://github.com/conda-forge/robodraw-feedstock.git
+	path = feedstocks/robodraw
+	branch = refs/heads/main
