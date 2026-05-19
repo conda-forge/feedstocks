@@ -113090,3 +113090,7 @@
 	url = https://github.com/conda-forge/trame-colormaps-feedstock.git
 	path = feedstocks/trame-colormaps
 	branch = refs/heads/main
+[submodule "ompython"]
+	url = https://github.com/conda-forge/ompython-feedstock.git
+	path = feedstocks/ompython
+	branch = refs/heads/main
