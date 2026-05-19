@@ -113086,3 +113086,7 @@
 	url = https://github.com/conda-forge/ifadw-treeviz-feedstock.git
 	path = feedstocks/ifadw-treeviz
 	branch = refs/heads/main
+[submodule "trame-colormaps"]
+	url = https://github.com/conda-forge/trame-colormaps-feedstock.git
+	path = feedstocks/trame-colormaps
+	branch = refs/heads/main
