@@ -113074,3 +113074,7 @@
 	url = https://github.com/conda-forge/agno-feedstock.git
 	path = feedstocks/agno
 	branch = refs/heads/main
+[submodule "microsoft-kiota-bundle"]
+	url = https://github.com/conda-forge/microsoft-kiota-bundle-feedstock.git
+	path = feedstocks/microsoft-kiota-bundle
+	branch = refs/heads/main
