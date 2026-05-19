@@ -113098,3 +113098,7 @@
 	url = https://github.com/conda-forge/robodraw-feedstock.git
 	path = feedstocks/robodraw
 	branch = refs/heads/main
+[submodule "runtime-introspect"]
+	url = https://github.com/conda-forge/runtime-introspect-feedstock.git
+	path = feedstocks/runtime-introspect
+	branch = refs/heads/main
