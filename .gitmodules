@@ -113102,3 +113102,7 @@
 	url = https://github.com/conda-forge/runtime-introspect-feedstock.git
 	path = feedstocks/runtime-introspect
 	branch = refs/heads/main
+[submodule "cedarpy"]
+	url = https://github.com/conda-forge/cedarpy-feedstock.git
+	path = feedstocks/cedarpy
+	branch = refs/heads/main
