@@ -113114,3 +113114,7 @@
 	url = https://github.com/conda-forge/mactop-feedstock.git
 	path = feedstocks/mactop
 	branch = refs/heads/main
+[submodule "myqueue"]
+	url = https://github.com/conda-forge/myqueue-feedstock.git
+	path = feedstocks/myqueue
+	branch = refs/heads/main
