@@ -113110,3 +113110,7 @@
 	url = https://github.com/conda-forge/crewai-suite-feedstock.git
 	path = feedstocks/crewai-suite
 	branch = refs/heads/main
+[submodule "mactop"]
+	url = https://github.com/conda-forge/mactop-feedstock.git
+	path = feedstocks/mactop
+	branch = refs/heads/main
