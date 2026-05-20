@@ -113118,3 +113118,7 @@
 	url = https://github.com/conda-forge/myqueue-feedstock.git
 	path = feedstocks/myqueue
 	branch = refs/heads/main
+[submodule "foscat"]
+	url = https://github.com/conda-forge/foscat-feedstock.git
+	path = feedstocks/foscat
+	branch = refs/heads/main
