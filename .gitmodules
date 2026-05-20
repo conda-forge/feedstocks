@@ -113130,3 +113130,7 @@
 	url = https://github.com/conda-forge/seapig-feedstock.git
 	path = feedstocks/seapig
 	branch = refs/heads/main
+[submodule "texteditor"]
+	url = https://github.com/conda-forge/texteditor-feedstock.git
+	path = feedstocks/texteditor
+	branch = refs/heads/main
