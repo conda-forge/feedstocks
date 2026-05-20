@@ -113134,3 +113134,7 @@
 	url = https://github.com/conda-forge/texteditor-feedstock.git
 	path = feedstocks/texteditor
 	branch = refs/heads/main
+[submodule "appthreat-vulnerability-db"]
+	url = https://github.com/conda-forge/appthreat-vulnerability-db-feedstock.git
+	path = feedstocks/appthreat-vulnerability-db
+	branch = refs/heads/main
