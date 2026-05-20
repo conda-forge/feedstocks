@@ -113126,3 +113126,7 @@
 	url = https://github.com/conda-forge/absurd-sdk-feedstock.git
 	path = feedstocks/absurd-sdk
 	branch = refs/heads/main
+[submodule "seapig"]
+	url = https://github.com/conda-forge/seapig-feedstock.git
+	path = feedstocks/seapig
+	branch = refs/heads/main
