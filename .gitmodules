@@ -113122,3 +113122,7 @@
 	url = https://github.com/conda-forge/foscat-feedstock.git
 	path = feedstocks/foscat
 	branch = refs/heads/main
+[submodule "absurd-sdk"]
+	url = https://github.com/conda-forge/absurd-sdk-feedstock.git
+	path = feedstocks/absurd-sdk
+	branch = refs/heads/main
