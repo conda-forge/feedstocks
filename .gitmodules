@@ -113142,3 +113142,7 @@
 	url = https://github.com/conda-forge/cedar-policy-cli-feedstock.git
 	path = feedstocks/cedar-policy-cli
 	branch = refs/heads/main
+[submodule "bline"]
+	url = https://github.com/conda-forge/bline-feedstock.git
+	path = feedstocks/bline
+	branch = refs/heads/main
