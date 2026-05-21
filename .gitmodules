@@ -113158,3 +113158,7 @@
 	url = https://github.com/conda-forge/parserator-feedstock.git
 	path = feedstocks/parserator
 	branch = refs/heads/main
+[submodule "pynter"]
+	url = https://github.com/conda-forge/pynter-feedstock.git
+	path = feedstocks/pynter
+	branch = refs/heads/main
