@@ -113178,3 +113178,7 @@
 	url = https://github.com/conda-forge/slang-verilog-feedstock.git
 	path = feedstocks/slang-verilog
 	branch = refs/heads/main
+[submodule "pyslang"]
+	url = https://github.com/conda-forge/pyslang-feedstock.git
+	path = feedstocks/pyslang
+	branch = refs/heads/main
