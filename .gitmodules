@@ -113170,3 +113170,7 @@
 	url = https://github.com/conda-forge/absurdctl-feedstock.git
 	path = feedstocks/absurdctl
 	branch = refs/heads/main
+[submodule "photerr"]
+	url = https://github.com/conda-forge/photerr-feedstock.git
+	path = feedstocks/photerr
+	branch = refs/heads/main
