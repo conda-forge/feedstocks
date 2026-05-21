@@ -113162,3 +113162,7 @@
 	url = https://github.com/conda-forge/pynter-feedstock.git
 	path = feedstocks/pynter
 	branch = refs/heads/main
+[submodule "numba-cfunc-compiler"]
+	url = https://github.com/conda-forge/numba-cfunc-compiler-feedstock.git
+	path = feedstocks/numba-cfunc-compiler
+	branch = refs/heads/main
