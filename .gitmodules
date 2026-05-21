@@ -113166,3 +113166,7 @@
 	url = https://github.com/conda-forge/numba-cfunc-compiler-feedstock.git
 	path = feedstocks/numba-cfunc-compiler
 	branch = refs/heads/main
+[submodule "absurdctl"]
+	url = https://github.com/conda-forge/absurdctl-feedstock.git
+	path = feedstocks/absurdctl
+	branch = refs/heads/main
