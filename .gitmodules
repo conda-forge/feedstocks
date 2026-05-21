@@ -113146,3 +113146,7 @@
 	url = https://github.com/conda-forge/bline-feedstock.git
 	path = feedstocks/bline
 	branch = refs/heads/main
+[submodule "caf.cvt"]
+	url = https://github.com/conda-forge/caf.cvt-feedstock.git
+	path = feedstocks/caf.cvt
+	branch = refs/heads/main
