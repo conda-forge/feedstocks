@@ -113138,3 +113138,7 @@
 	url = https://github.com/conda-forge/appthreat-vulnerability-db-feedstock.git
 	path = feedstocks/appthreat-vulnerability-db
 	branch = refs/heads/main
+[submodule "cedar-policy-cli"]
+	url = https://github.com/conda-forge/cedar-policy-cli-feedstock.git
+	path = feedstocks/cedar-policy-cli
+	branch = refs/heads/main
