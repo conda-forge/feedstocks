@@ -113194,3 +113194,7 @@
 	url = https://github.com/conda-forge/mkdocs-kroki-plugin-feedstock.git
 	path = feedstocks/mkdocs-kroki-plugin
 	branch = refs/heads/main
+[submodule "r-ywidgets"]
+	url = https://github.com/conda-forge/r-ywidgets-feedstock.git
+	path = feedstocks/r-ywidgets
+	branch = refs/heads/main
