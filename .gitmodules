@@ -113182,3 +113182,7 @@
 	url = https://github.com/conda-forge/pyslang-feedstock.git
 	path = feedstocks/pyslang
 	branch = refs/heads/main
+[submodule "sen4cap-client"]
+	url = https://github.com/conda-forge/sen4cap-client-feedstock.git
+	path = feedstocks/sen4cap-client
+	branch = refs/heads/main
