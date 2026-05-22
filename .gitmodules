@@ -113186,3 +113186,7 @@
 	url = https://github.com/conda-forge/sen4cap-client-feedstock.git
 	path = feedstocks/sen4cap-client
 	branch = refs/heads/main
+[submodule "mt-io"]
+	url = https://github.com/conda-forge/mt-io-feedstock.git
+	path = feedstocks/mt-io
+	branch = refs/heads/main
