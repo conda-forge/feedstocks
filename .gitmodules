@@ -113218,3 +113218,7 @@
 	url = https://github.com/conda-forge/habitat-feedstock.git
 	path = feedstocks/habitat
 	branch = refs/heads/main
+[submodule "mutable-primitives"]
+	url = https://github.com/conda-forge/mutable-primitives-feedstock.git
+	path = feedstocks/mutable-primitives
+	branch = refs/heads/main
