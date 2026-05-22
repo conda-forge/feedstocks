@@ -113202,3 +113202,7 @@
 	url = https://github.com/conda-forge/mlx-audio-feedstock.git
 	path = feedstocks/mlx-audio
 	branch = refs/heads/main
+[submodule "radclss"]
+	url = https://github.com/conda-forge/radclss-feedstock.git
+	path = feedstocks/radclss
+	branch = refs/heads/main
