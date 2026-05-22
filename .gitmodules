@@ -113190,3 +113190,7 @@
 	url = https://github.com/conda-forge/mt-io-feedstock.git
 	path = feedstocks/mt-io
 	branch = refs/heads/main
+[submodule "mkdocs-kroki-plugin"]
+	url = https://github.com/conda-forge/mkdocs-kroki-plugin-feedstock.git
+	path = feedstocks/mkdocs-kroki-plugin
+	branch = refs/heads/main
