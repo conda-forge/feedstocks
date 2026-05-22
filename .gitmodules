@@ -113214,3 +113214,7 @@
 	url = https://github.com/conda-forge/hatchet-cli-feedstock.git
 	path = feedstocks/hatchet-cli
 	branch = refs/heads/main
+[submodule "habitat"]
+	url = https://github.com/conda-forge/habitat-feedstock.git
+	path = feedstocks/habitat
+	branch = refs/heads/main
