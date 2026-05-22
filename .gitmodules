@@ -113198,3 +113198,7 @@
 	url = https://github.com/conda-forge/r-ywidgets-feedstock.git
 	path = feedstocks/r-ywidgets
 	branch = refs/heads/main
+[submodule "mlx-audio"]
+	url = https://github.com/conda-forge/mlx-audio-feedstock.git
+	path = feedstocks/mlx-audio
+	branch = refs/heads/main
