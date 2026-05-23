@@ -113222,3 +113222,7 @@
 	url = https://github.com/conda-forge/mutable-primitives-feedstock.git
 	path = feedstocks/mutable-primitives
 	branch = refs/heads/main
+[submodule "polars-permute"]
+	url = https://github.com/conda-forge/polars-permute-feedstock.git
+	path = feedstocks/polars-permute
+	branch = refs/heads/main
