@@ -113226,3 +113226,7 @@
 	url = https://github.com/conda-forge/polars-permute-feedstock.git
 	path = feedstocks/polars-permute
 	branch = refs/heads/main
+[submodule "intel-level-zero-npu"]
+	url = https://github.com/conda-forge/intel-level-zero-npu-feedstock.git
+	path = feedstocks/intel-level-zero-npu
+	branch = refs/heads/main
