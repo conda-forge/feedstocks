@@ -113242,3 +113242,7 @@
 	url = https://github.com/conda-forge/conda-completion-feedstock.git
 	path = feedstocks/conda-completion
 	branch = refs/heads/main
+[submodule "liquipydia"]
+	url = https://github.com/conda-forge/liquipydia-feedstock.git
+	path = feedstocks/liquipydia
+	branch = refs/heads/main
