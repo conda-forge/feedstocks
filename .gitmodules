@@ -113246,3 +113246,7 @@
 	url = https://github.com/conda-forge/liquipydia-feedstock.git
 	path = feedstocks/liquipydia
 	branch = refs/heads/main
+[submodule "delu"]
+	url = https://github.com/conda-forge/delu-feedstock.git
+	path = feedstocks/delu
+	branch = refs/heads/main
