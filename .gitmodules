@@ -113238,3 +113238,7 @@
 	url = https://github.com/conda-forge/pyhardisp-feedstock.git
 	path = feedstocks/pyhardisp
 	branch = refs/heads/main
+[submodule "conda-completion"]
+	url = https://github.com/conda-forge/conda-completion-feedstock.git
+	path = feedstocks/conda-completion
+	branch = refs/heads/main
