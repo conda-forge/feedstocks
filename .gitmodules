@@ -113250,3 +113250,7 @@
 	url = https://github.com/conda-forge/delu-feedstock.git
 	path = feedstocks/delu
 	branch = refs/heads/main
+[submodule "influxdb3-python"]
+	url = https://github.com/conda-forge/influxdb3-python-feedstock.git
+	path = feedstocks/influxdb3-python
+	branch = refs/heads/main
