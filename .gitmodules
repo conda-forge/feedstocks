@@ -113230,3 +113230,7 @@
 	url = https://github.com/conda-forge/intel-level-zero-npu-feedstock.git
 	path = feedstocks/intel-level-zero-npu
 	branch = refs/heads/main
+[submodule "s3-log-extraction"]
+	url = https://github.com/conda-forge/s3-log-extraction-feedstock.git
+	path = feedstocks/s3-log-extraction
+	branch = refs/heads/main
