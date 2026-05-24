@@ -113234,3 +113234,7 @@
 	url = https://github.com/conda-forge/s3-log-extraction-feedstock.git
 	path = feedstocks/s3-log-extraction
 	branch = refs/heads/main
+[submodule "pyhardisp"]
+	url = https://github.com/conda-forge/pyhardisp-feedstock.git
+	path = feedstocks/pyhardisp
+	branch = refs/heads/main
