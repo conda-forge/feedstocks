@@ -113266,3 +113266,7 @@
 	url = https://github.com/conda-forge/mwprop-feedstock.git
 	path = feedstocks/mwprop
 	branch = refs/heads/main
+[submodule "deeptab"]
+	url = https://github.com/conda-forge/deeptab-feedstock.git
+	path = feedstocks/deeptab
+	branch = refs/heads/main
