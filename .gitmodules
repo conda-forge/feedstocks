@@ -113254,3 +113254,7 @@
 	url = https://github.com/conda-forge/influxdb3-python-feedstock.git
 	path = feedstocks/influxdb3-python
 	branch = refs/heads/main
+[submodule "gempakio"]
+	url = https://github.com/conda-forge/gempakio-feedstock.git
+	path = feedstocks/gempakio
+	branch = refs/heads/main
