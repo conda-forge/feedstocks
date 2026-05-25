@@ -113258,3 +113258,7 @@
 	url = https://github.com/conda-forge/gempakio-feedstock.git
 	path = feedstocks/gempakio
 	branch = refs/heads/main
+[submodule "flux-mirror"]
+	url = https://github.com/conda-forge/flux-mirror-feedstock.git
+	path = feedstocks/flux-mirror
+	branch = refs/heads/main
