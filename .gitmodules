@@ -113262,3 +113262,7 @@
 	url = https://github.com/conda-forge/flux-mirror-feedstock.git
 	path = feedstocks/flux-mirror
 	branch = refs/heads/main
+[submodule "mwprop"]
+	url = https://github.com/conda-forge/mwprop-feedstock.git
+	path = feedstocks/mwprop
+	branch = refs/heads/main
