@@ -113286,3 +113286,7 @@
 	url = https://github.com/conda-forge/convolinear-feedstock.git
 	path = feedstocks/convolinear
 	branch = refs/heads/main
+[submodule "currencyconverter"]
+	url = https://github.com/conda-forge/currencyconverter-feedstock.git
+	path = feedstocks/currencyconverter
+	branch = refs/heads/main
