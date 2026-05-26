@@ -113274,3 +113274,7 @@
 	url = https://github.com/conda-forge/transitionlistener-feedstock.git
 	path = feedstocks/transitionlistener
 	branch = refs/heads/main
+[submodule "flux-operator"]
+	url = https://github.com/conda-forge/flux-operator-feedstock.git
+	path = feedstocks/flux-operator
+	branch = refs/heads/main
