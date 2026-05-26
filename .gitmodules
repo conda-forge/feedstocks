@@ -113282,3 +113282,7 @@
 	url = https://github.com/conda-forge/r-tabpfn-feedstock.git
 	path = feedstocks/r-tabpfn
 	branch = refs/heads/main
+[submodule "convolinear"]
+	url = https://github.com/conda-forge/convolinear-feedstock.git
+	path = feedstocks/convolinear
+	branch = refs/heads/main
