@@ -113322,3 +113322,7 @@
 	url = https://github.com/conda-forge/anycrc-feedstock.git
 	path = feedstocks/anycrc
 	branch = refs/heads/main
+[submodule "tqdm-joblib"]
+	url = https://github.com/conda-forge/tqdm-joblib-feedstock.git
+	path = feedstocks/tqdm-joblib
+	branch = refs/heads/main
