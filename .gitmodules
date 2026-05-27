@@ -113302,3 +113302,7 @@
 	url = https://github.com/conda-forge/hatchet-lite-feedstock.git
 	path = feedstocks/hatchet-lite
 	branch = refs/heads/main
+[submodule "hatchet-admin"]
+	url = https://github.com/conda-forge/hatchet-admin-feedstock.git
+	path = feedstocks/hatchet-admin
+	branch = refs/heads/main
