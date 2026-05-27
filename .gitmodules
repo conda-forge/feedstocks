@@ -113318,3 +113318,7 @@
 	url = https://github.com/conda-forge/sweet-chem-o-mine-feedstock.git
 	path = feedstocks/sweet-chem-o-mine
 	branch = refs/heads/main
+[submodule "anycrc"]
+	url = https://github.com/conda-forge/anycrc-feedstock.git
+	path = feedstocks/anycrc
+	branch = refs/heads/main
