@@ -113326,3 +113326,7 @@
 	url = https://github.com/conda-forge/tqdm-joblib-feedstock.git
 	path = feedstocks/tqdm-joblib
 	branch = refs/heads/main
+[submodule "google-cloud-discoveryengine"]
+	url = https://github.com/conda-forge/google-cloud-discoveryengine-feedstock.git
+	path = feedstocks/google-cloud-discoveryengine
+	branch = refs/heads/main
