@@ -113294,3 +113294,7 @@
 	url = https://github.com/conda-forge/py-yaml12-feedstock.git
 	path = feedstocks/py-yaml12
 	branch = refs/heads/main
+[submodule "hatchet-migrate"]
+	url = https://github.com/conda-forge/hatchet-migrate-feedstock.git
+	path = feedstocks/hatchet-migrate
+	branch = refs/heads/main
