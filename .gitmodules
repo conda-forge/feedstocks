@@ -113290,3 +113290,7 @@
 	url = https://github.com/conda-forge/currencyconverter-feedstock.git
 	path = feedstocks/currencyconverter
 	branch = refs/heads/main
+[submodule "py-yaml12"]
+	url = https://github.com/conda-forge/py-yaml12-feedstock.git
+	path = feedstocks/py-yaml12
+	branch = refs/heads/main
