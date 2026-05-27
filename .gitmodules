@@ -113298,3 +113298,7 @@
 	url = https://github.com/conda-forge/hatchet-migrate-feedstock.git
 	path = feedstocks/hatchet-migrate
 	branch = refs/heads/main
+[submodule "hatchet-lite"]
+	url = https://github.com/conda-forge/hatchet-lite-feedstock.git
+	path = feedstocks/hatchet-lite
+	branch = refs/heads/main
