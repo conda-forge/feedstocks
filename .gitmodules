@@ -113370,3 +113370,7 @@
 	url = https://github.com/conda-forge/osm2pgsql-feedstock.git
 	path = feedstocks/osm2pgsql
 	branch = refs/heads/main
+[submodule "yaxt"]
+	url = https://github.com/conda-forge/yaxt-feedstock.git
+	path = feedstocks/yaxt
+	branch = refs/heads/main
