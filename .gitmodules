@@ -113362,3 +113362,7 @@
 	url = https://github.com/conda-forge/agentsview-feedstock.git
 	path = feedstocks/agentsview
 	branch = refs/heads/main
+[submodule "roborev"]
+	url = https://github.com/conda-forge/roborev-feedstock.git
+	path = feedstocks/roborev
+	branch = refs/heads/main
