@@ -113350,3 +113350,7 @@
 	url = https://github.com/conda-forge/scipy_dae-feedstock.git
 	path = feedstocks/scipy_dae
 	branch = refs/heads/main
+[submodule "brush"]
+	url = https://github.com/conda-forge/brush-feedstock.git
+	path = feedstocks/brush
+	branch = refs/heads/main
