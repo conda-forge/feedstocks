@@ -113338,3 +113338,7 @@
 	url = https://github.com/conda-forge/crcmod-plus-feedstock.git
 	path = feedstocks/crcmod-plus
 	branch = refs/heads/main
+[submodule "pyexiftool"]
+	url = https://github.com/conda-forge/pyexiftool-feedstock.git
+	path = feedstocks/pyexiftool
+	branch = refs/heads/main
