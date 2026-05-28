@@ -113358,3 +113358,7 @@
 	url = https://github.com/conda-forge/im2im-feedstock.git
 	path = feedstocks/im2im
 	branch = refs/heads/main
+[submodule "agentsview"]
+	url = https://github.com/conda-forge/agentsview-feedstock.git
+	path = feedstocks/agentsview
+	branch = refs/heads/main
