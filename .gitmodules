@@ -113346,3 +113346,7 @@
 	url = https://github.com/conda-forge/nmaipy-feedstock.git
 	path = feedstocks/nmaipy
 	branch = refs/heads/main
+[submodule "scipy_dae"]
+	url = https://github.com/conda-forge/scipy_dae-feedstock.git
+	path = feedstocks/scipy_dae
+	branch = refs/heads/main
