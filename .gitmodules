@@ -113354,3 +113354,7 @@
 	url = https://github.com/conda-forge/brush-feedstock.git
 	path = feedstocks/brush
 	branch = refs/heads/main
+[submodule "im2im"]
+	url = https://github.com/conda-forge/im2im-feedstock.git
+	path = feedstocks/im2im
+	branch = refs/heads/main
