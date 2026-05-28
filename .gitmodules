@@ -113366,3 +113366,7 @@
 	url = https://github.com/conda-forge/roborev-feedstock.git
 	path = feedstocks/roborev
 	branch = refs/heads/main
+[submodule "osm2pgsql"]
+	url = https://github.com/conda-forge/osm2pgsql-feedstock.git
+	path = feedstocks/osm2pgsql
+	branch = refs/heads/main
