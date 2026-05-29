@@ -113406,3 +113406,7 @@
 	url = https://github.com/conda-forge/python-serafin-feedstock.git
 	path = feedstocks/python-serafin
 	branch = refs/heads/main
+[submodule "xorq-datafusion"]
+	url = https://github.com/conda-forge/xorq-datafusion-feedstock.git
+	path = feedstocks/xorq-datafusion
+	branch = refs/heads/main
