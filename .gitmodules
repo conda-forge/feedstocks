@@ -113378,3 +113378,7 @@
 	url = https://github.com/conda-forge/lcg-relax-feedstock.git
 	path = feedstocks/lcg-relax
 	branch = refs/heads/main
+[submodule "pyroomacoustics"]
+	url = https://github.com/conda-forge/pyroomacoustics-feedstock.git
+	path = feedstocks/pyroomacoustics
+	branch = refs/heads/main
