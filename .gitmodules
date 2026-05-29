@@ -113410,3 +113410,7 @@
 	url = https://github.com/conda-forge/xorq-datafusion-feedstock.git
 	path = feedstocks/xorq-datafusion
 	branch = refs/heads/main
+[submodule "httpcore2"]
+	url = https://github.com/conda-forge/httpcore2-feedstock.git
+	path = feedstocks/httpcore2
+	branch = refs/heads/main
