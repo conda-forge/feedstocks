@@ -113386,3 +113386,7 @@
 	url = https://github.com/conda-forge/liger-kernel-feedstock.git
 	path = feedstocks/liger-kernel
 	branch = refs/heads/main
+[submodule "quboify"]
+	url = https://github.com/conda-forge/quboify-feedstock.git
+	path = feedstocks/quboify
+	branch = refs/heads/main
