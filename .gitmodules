@@ -113430,3 +113430,7 @@
 	url = https://github.com/conda-forge/httpx2-feedstock.git
 	path = feedstocks/httpx2
 	branch = refs/heads/main
+[submodule "r-tibblify"]
+	url = https://github.com/conda-forge/r-tibblify-feedstock.git
+	path = feedstocks/r-tibblify
+	branch = refs/heads/main
