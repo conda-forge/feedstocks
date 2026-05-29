@@ -113402,3 +113402,7 @@
 	url = https://github.com/conda-forge/bttf-feedstock.git
 	path = feedstocks/bttf
 	branch = refs/heads/main
+[submodule "python-serafin"]
+	url = https://github.com/conda-forge/python-serafin-feedstock.git
+	path = feedstocks/python-serafin
+	branch = refs/heads/main
