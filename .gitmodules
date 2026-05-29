@@ -113394,3 +113394,7 @@
 	url = https://github.com/conda-forge/rpscore-feedstock.git
 	path = feedstocks/rpscore
 	branch = refs/heads/main
+[submodule "r-metabook"]
+	url = https://github.com/conda-forge/r-metabook-feedstock.git
+	path = feedstocks/r-metabook
+	branch = refs/heads/main
