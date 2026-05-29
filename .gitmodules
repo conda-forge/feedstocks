@@ -113426,3 +113426,7 @@
 	url = https://github.com/conda-forge/ptir5-feedstock.git
 	path = feedstocks/ptir5
 	branch = refs/heads/main
+[submodule "httpx2"]
+	url = https://github.com/conda-forge/httpx2-feedstock.git
+	path = feedstocks/httpx2
+	branch = refs/heads/main
