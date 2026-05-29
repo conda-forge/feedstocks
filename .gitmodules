@@ -113434,3 +113434,7 @@
 	url = https://github.com/conda-forge/r-tibblify-feedstock.git
 	path = feedstocks/r-tibblify
 	branch = refs/heads/main
+[submodule "r-lutz"]
+	url = https://github.com/conda-forge/r-lutz-feedstock.git
+	path = feedstocks/r-lutz
+	branch = refs/heads/main
