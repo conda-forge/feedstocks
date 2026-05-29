@@ -113390,3 +113390,7 @@
 	url = https://github.com/conda-forge/quboify-feedstock.git
 	path = feedstocks/quboify
 	branch = refs/heads/main
+[submodule "rpscore"]
+	url = https://github.com/conda-forge/rpscore-feedstock.git
+	path = feedstocks/rpscore
+	branch = refs/heads/main
