@@ -113382,3 +113382,7 @@
 	url = https://github.com/conda-forge/pyroomacoustics-feedstock.git
 	path = feedstocks/pyroomacoustics
 	branch = refs/heads/main
+[submodule "liger-kernel"]
+	url = https://github.com/conda-forge/liger-kernel-feedstock.git
+	path = feedstocks/liger-kernel
+	branch = refs/heads/main
