@@ -113374,3 +113374,7 @@
 	url = https://github.com/conda-forge/yaxt-feedstock.git
 	path = feedstocks/yaxt
 	branch = refs/heads/main
+[submodule "lcg-relax"]
+	url = https://github.com/conda-forge/lcg-relax-feedstock.git
+	path = feedstocks/lcg-relax
+	branch = refs/heads/main
