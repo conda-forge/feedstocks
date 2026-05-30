@@ -113446,3 +113446,7 @@
 	url = https://github.com/conda-forge/fairlogger-feedstock.git
 	path = feedstocks/fairlogger
 	branch = refs/heads/main
+[submodule "r-scrutiny"]
+	url = https://github.com/conda-forge/r-scrutiny-feedstock.git
+	path = feedstocks/r-scrutiny
+	branch = refs/heads/main
