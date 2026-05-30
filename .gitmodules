@@ -113450,3 +113450,7 @@
 	url = https://github.com/conda-forge/r-scrutiny-feedstock.git
 	path = feedstocks/r-scrutiny
 	branch = refs/heads/main
+[submodule "bioimage-cpp"]
+	url = https://github.com/conda-forge/bioimage-cpp-feedstock.git
+	path = feedstocks/bioimage-cpp
+	branch = refs/heads/main
