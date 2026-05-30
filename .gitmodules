@@ -113442,3 +113442,7 @@
 	url = https://github.com/conda-forge/r-thisutils-feedstock.git
 	path = feedstocks/r-thisutils
 	branch = refs/heads/main
+[submodule "fairlogger"]
+	url = https://github.com/conda-forge/fairlogger-feedstock.git
+	path = feedstocks/fairlogger
+	branch = refs/heads/main
