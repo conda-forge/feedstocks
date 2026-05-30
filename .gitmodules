@@ -113454,3 +113454,7 @@
 	url = https://github.com/conda-forge/bioimage-cpp-feedstock.git
 	path = feedstocks/bioimage-cpp
 	branch = refs/heads/main
+[submodule "xorq-dasher"]
+	url = https://github.com/conda-forge/xorq-dasher-feedstock.git
+	path = feedstocks/xorq-dasher
+	branch = refs/heads/main
