@@ -113462,3 +113462,7 @@
 	url = https://github.com/conda-forge/mcp-atlassian-feedstock.git
 	path = feedstocks/mcp-atlassian
 	branch = refs/heads/main
+[submodule "r-cpp4r"]
+	url = https://github.com/conda-forge/r-cpp4r-feedstock.git
+	path = feedstocks/r-cpp4r
+	branch = refs/heads/main
