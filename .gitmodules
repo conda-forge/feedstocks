@@ -113494,3 +113494,7 @@
 	url = https://github.com/conda-forge/ipython-beartype-feedstock.git
 	path = feedstocks/ipython-beartype
 	branch = refs/heads/main
+[submodule "mpl-measurements"]
+	url = https://github.com/conda-forge/mpl-measurements-feedstock.git
+	path = feedstocks/mpl-measurements
+	branch = refs/heads/main
