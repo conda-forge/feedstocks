@@ -113466,3 +113466,7 @@
 	url = https://github.com/conda-forge/r-cpp4r-feedstock.git
 	path = feedstocks/r-cpp4r
 	branch = refs/heads/main
+[submodule "python-couchdb3"]
+	url = https://github.com/conda-forge/python-couchdb3-feedstock.git
+	path = feedstocks/python-couchdb3
+	branch = refs/heads/main
