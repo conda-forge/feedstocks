@@ -113490,3 +113490,7 @@
 	url = https://github.com/conda-forge/jablonski-feedstock.git
 	path = feedstocks/jablonski
 	branch = refs/heads/main
+[submodule "ipython-beartype"]
+	url = https://github.com/conda-forge/ipython-beartype-feedstock.git
+	path = feedstocks/ipython-beartype
+	branch = refs/heads/main
