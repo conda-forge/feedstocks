@@ -113498,3 +113498,7 @@
 	url = https://github.com/conda-forge/mpl-measurements-feedstock.git
 	path = feedstocks/mpl-measurements
 	branch = refs/heads/main
+[submodule "sema4ai-common"]
+	url = https://github.com/conda-forge/sema4ai-common-feedstock.git
+	path = feedstocks/sema4ai-common
+	branch = refs/heads/main
