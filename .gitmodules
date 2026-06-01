@@ -113474,3 +113474,7 @@
 	url = https://github.com/conda-forge/dockerflow-feedstock.git
 	path = feedstocks/dockerflow
 	branch = refs/heads/main
+[submodule "mritk"]
+	url = https://github.com/conda-forge/mritk-feedstock.git
+	path = feedstocks/mritk
+	branch = refs/heads/main
