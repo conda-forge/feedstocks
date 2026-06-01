@@ -113470,3 +113470,7 @@
 	url = https://github.com/conda-forge/python-couchdb3-feedstock.git
 	path = feedstocks/python-couchdb3
 	branch = refs/heads/main
+[submodule "dockerflow"]
+	url = https://github.com/conda-forge/dockerflow-feedstock.git
+	path = feedstocks/dockerflow
+	branch = refs/heads/main
