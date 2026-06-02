@@ -113538,3 +113538,7 @@
 	url = https://github.com/conda-forge/photo-tagger-feedstock.git
 	path = feedstocks/photo-tagger
 	branch = refs/heads/main
+[submodule "calday"]
+	url = https://github.com/conda-forge/calday-feedstock.git
+	path = feedstocks/calday
+	branch = refs/heads/main
