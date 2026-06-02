@@ -113506,3 +113506,7 @@
 	url = https://github.com/conda-forge/sema4ai-actions-feedstock.git
 	path = feedstocks/sema4ai-actions
 	branch = refs/heads/main
+[submodule "oapi-codegen"]
+	url = https://github.com/conda-forge/oapi-codegen-feedstock.git
+	path = feedstocks/oapi-codegen
+	branch = refs/heads/main
