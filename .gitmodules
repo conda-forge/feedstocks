@@ -113530,3 +113530,7 @@
 	url = https://github.com/conda-forge/tadc-feedstock.git
 	path = feedstocks/tadc
 	branch = refs/heads/main
+[submodule "amica-python"]
+	url = https://github.com/conda-forge/amica-python-feedstock.git
+	path = feedstocks/amica-python
+	branch = refs/heads/main
