@@ -113510,3 +113510,7 @@
 	url = https://github.com/conda-forge/oapi-codegen-feedstock.git
 	path = feedstocks/oapi-codegen
 	branch = refs/heads/main
+[submodule "cyclonedds-py"]
+	url = https://github.com/conda-forge/cyclonedds-py-feedstock.git
+	path = feedstocks/cyclonedds-py
+	branch = refs/heads/main
