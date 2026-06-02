@@ -113502,3 +113502,7 @@
 	url = https://github.com/conda-forge/sema4ai-common-feedstock.git
 	path = feedstocks/sema4ai-common
 	branch = refs/heads/main
+[submodule "sema4ai-actions"]
+	url = https://github.com/conda-forge/sema4ai-actions-feedstock.git
+	path = feedstocks/sema4ai-actions
+	branch = refs/heads/main
