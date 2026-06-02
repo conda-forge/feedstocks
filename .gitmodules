@@ -113542,3 +113542,7 @@
 	url = https://github.com/conda-forge/calday-feedstock.git
 	path = feedstocks/calday
 	branch = refs/heads/main
+[submodule "langchain-opendataloader-pdf"]
+	url = https://github.com/conda-forge/langchain-opendataloader-pdf-feedstock.git
+	path = feedstocks/langchain-opendataloader-pdf
+	branch = refs/heads/main
