@@ -113522,3 +113522,7 @@
 	url = https://github.com/conda-forge/fleche-split-feedstock.git
 	path = feedstocks/fleche-split
 	branch = refs/heads/main
+[submodule "r-micsr"]
+	url = https://github.com/conda-forge/r-micsr-feedstock.git
+	path = feedstocks/r-micsr
+	branch = refs/heads/main
