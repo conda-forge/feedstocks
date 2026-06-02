@@ -113518,3 +113518,7 @@
 	url = https://github.com/conda-forge/oxipng-pybind-feedstock.git
 	path = feedstocks/oxipng-pybind
 	branch = refs/heads/main
+[submodule "fleche-split"]
+	url = https://github.com/conda-forge/fleche-split-feedstock.git
+	path = feedstocks/fleche-split
+	branch = refs/heads/main
