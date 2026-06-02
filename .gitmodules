@@ -113514,3 +113514,7 @@
 	url = https://github.com/conda-forge/cyclonedds-py-feedstock.git
 	path = feedstocks/cyclonedds-py
 	branch = refs/heads/main
+[submodule "oxipng-pybind"]
+	url = https://github.com/conda-forge/oxipng-pybind-feedstock.git
+	path = feedstocks/oxipng-pybind
+	branch = refs/heads/main
