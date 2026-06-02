@@ -113534,3 +113534,7 @@
 	url = https://github.com/conda-forge/amica-python-feedstock.git
 	path = feedstocks/amica-python
 	branch = refs/heads/main
+[submodule "photo-tagger"]
+	url = https://github.com/conda-forge/photo-tagger-feedstock.git
+	path = feedstocks/photo-tagger
+	branch = refs/heads/main
