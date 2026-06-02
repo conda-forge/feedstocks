@@ -113526,3 +113526,7 @@
 	url = https://github.com/conda-forge/r-micsr-feedstock.git
 	path = feedstocks/r-micsr
 	branch = refs/heads/main
+[submodule "tadc"]
+	url = https://github.com/conda-forge/tadc-feedstock.git
+	path = feedstocks/tadc
+	branch = refs/heads/main
