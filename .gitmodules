@@ -113578,3 +113578,7 @@
 	url = https://github.com/conda-forge/ccflow-etl-feedstock.git
 	path = feedstocks/ccflow-etl
 	branch = refs/heads/main
+[submodule "deckbridge"]
+	url = https://github.com/conda-forge/deckbridge-feedstock.git
+	path = feedstocks/deckbridge
+	branch = refs/heads/main
