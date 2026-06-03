@@ -113630,3 +113630,7 @@
 	url = https://github.com/conda-forge/digital-rivers-feedstock.git
 	path = feedstocks/digital-rivers
 	branch = refs/heads/main
+[submodule "podman-desktop"]
+	url = https://github.com/conda-forge/podman-desktop-feedstock.git
+	path = feedstocks/podman-desktop
+	branch = refs/heads/main
