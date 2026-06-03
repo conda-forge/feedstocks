@@ -113574,3 +113574,7 @@
 	url = https://github.com/conda-forge/presto-fit-feedstock.git
 	path = feedstocks/presto-fit
 	branch = refs/heads/main
+[submodule "ccflow-etl"]
+	url = https://github.com/conda-forge/ccflow-etl-feedstock.git
+	path = feedstocks/ccflow-etl
+	branch = refs/heads/main
