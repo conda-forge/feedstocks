@@ -113570,3 +113570,7 @@
 	url = https://github.com/conda-forge/azure-ai-contentunderstanding-feedstock.git
 	path = feedstocks/azure-ai-contentunderstanding
 	branch = refs/heads/main
+[submodule "presto-fit"]
+	url = https://github.com/conda-forge/presto-fit-feedstock.git
+	path = feedstocks/presto-fit
+	branch = refs/heads/main
