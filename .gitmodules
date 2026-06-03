@@ -113626,3 +113626,7 @@
 	url = https://github.com/conda-forge/fastbdt-feedstock.git
 	path = feedstocks/fastbdt
 	branch = refs/heads/main
+[submodule "digital-rivers"]
+	url = https://github.com/conda-forge/digital-rivers-feedstock.git
+	path = feedstocks/digital-rivers
+	branch = refs/heads/main
