@@ -113586,3 +113586,7 @@
 	url = https://github.com/conda-forge/geoparquet-io-feedstock.git
 	path = feedstocks/geoparquet-io
 	branch = refs/heads/main
+[submodule "pyhydrophone"]
+	url = https://github.com/conda-forge/pyhydrophone-feedstock.git
+	path = feedstocks/pyhydrophone
+	branch = refs/heads/main
