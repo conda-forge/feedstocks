@@ -113606,3 +113606,7 @@
 	url = https://github.com/conda-forge/graphifyy-feedstock.git
 	path = feedstocks/graphifyy
 	branch = refs/heads/main
+[submodule "tree-sitter-fortran"]
+	url = https://github.com/conda-forge/tree-sitter-fortran-feedstock.git
+	path = feedstocks/tree-sitter-fortran
+	branch = refs/heads/main
