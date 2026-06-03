@@ -113622,3 +113622,7 @@
 	url = https://github.com/conda-forge/gwexpy-feedstock.git
 	path = feedstocks/gwexpy
 	branch = refs/heads/main
+[submodule "fastbdt"]
+	url = https://github.com/conda-forge/fastbdt-feedstock.git
+	path = feedstocks/fastbdt
+	branch = refs/heads/main
