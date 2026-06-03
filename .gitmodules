@@ -113558,3 +113558,7 @@
 	url = https://github.com/conda-forge/graphatoms-feedstock.git
 	path = feedstocks/graphatoms
 	branch = refs/heads/main
+[submodule "histoseg"]
+	url = https://github.com/conda-forge/histoseg-feedstock.git
+	path = feedstocks/histoseg
+	branch = refs/heads/main
