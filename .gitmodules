@@ -113562,3 +113562,7 @@
 	url = https://github.com/conda-forge/histoseg-feedstock.git
 	path = feedstocks/histoseg
 	branch = refs/heads/main
+[submodule "pyxenium"]
+	url = https://github.com/conda-forge/pyxenium-feedstock.git
+	path = feedstocks/pyxenium
+	branch = refs/heads/main
