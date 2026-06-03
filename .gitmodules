@@ -113590,3 +113590,7 @@
 	url = https://github.com/conda-forge/pyhydrophone-feedstock.git
 	path = feedstocks/pyhydrophone
 	branch = refs/heads/main
+[submodule "noisereduce"]
+	url = https://github.com/conda-forge/noisereduce-feedstock.git
+	path = feedstocks/noisereduce
+	branch = refs/heads/main
