@@ -113582,3 +113582,7 @@
 	url = https://github.com/conda-forge/deckbridge-feedstock.git
 	path = feedstocks/deckbridge
 	branch = refs/heads/main
+[submodule "geoparquet-io"]
+	url = https://github.com/conda-forge/geoparquet-io-feedstock.git
+	path = feedstocks/geoparquet-io
+	branch = refs/heads/main
