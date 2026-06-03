@@ -113594,3 +113594,7 @@
 	url = https://github.com/conda-forge/noisereduce-feedstock.git
 	path = feedstocks/noisereduce
 	branch = refs/heads/main
+[submodule "cobs-python"]
+	url = https://github.com/conda-forge/cobs-python-feedstock.git
+	path = feedstocks/cobs-python
+	branch = refs/heads/main
