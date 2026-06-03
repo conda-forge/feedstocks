@@ -113598,3 +113598,7 @@
 	url = https://github.com/conda-forge/cobs-python-feedstock.git
 	path = feedstocks/cobs-python
 	branch = refs/heads/main
+[submodule "scikit-maad"]
+	url = https://github.com/conda-forge/scikit-maad-feedstock.git
+	path = feedstocks/scikit-maad
+	branch = refs/heads/main
