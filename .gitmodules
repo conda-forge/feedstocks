@@ -113618,3 +113618,7 @@
 	url = https://github.com/conda-forge/tree-sitter-json-feedstock.git
 	path = feedstocks/tree-sitter-json
 	branch = refs/heads/main
+[submodule "gwexpy"]
+	url = https://github.com/conda-forge/gwexpy-feedstock.git
+	path = feedstocks/gwexpy
+	branch = refs/heads/main
