@@ -113642,3 +113642,7 @@
 	url = https://github.com/conda-forge/lifewatch-pypam-feedstock.git
 	path = feedstocks/lifewatch-pypam
 	branch = refs/heads/main
+[submodule "ninja-python"]
+	url = https://github.com/conda-forge/ninja-python-feedstock.git
+	path = feedstocks/ninja-python
+	branch = refs/heads/main
