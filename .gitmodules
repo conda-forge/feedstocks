@@ -113650,3 +113650,7 @@
 	url = https://github.com/conda-forge/playa-pdf-feedstock.git
 	path = feedstocks/playa-pdf
 	branch = refs/heads/main
+[submodule "opentelemetry-exporter-gcp-logging"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-gcp-logging-feedstock.git
+	path = feedstocks/opentelemetry-exporter-gcp-logging
+	branch = refs/heads/main
