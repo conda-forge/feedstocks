@@ -113662,3 +113662,7 @@
 	url = https://github.com/conda-forge/envwrap-feedstock.git
 	path = feedstocks/envwrap
 	branch = refs/heads/main
+[submodule "biwipy"]
+	url = https://github.com/conda-forge/biwipy-feedstock.git
+	path = feedstocks/biwipy
+	branch = refs/heads/main
