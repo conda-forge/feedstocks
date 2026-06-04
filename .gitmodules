@@ -113654,3 +113654,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-gcp-logging-feedstock.git
 	path = feedstocks/opentelemetry-exporter-gcp-logging
 	branch = refs/heads/main
+[submodule "datahues"]
+	url = https://github.com/conda-forge/datahues-feedstock.git
+	path = feedstocks/datahues
+	branch = refs/heads/main
