@@ -113646,3 +113646,7 @@
 	url = https://github.com/conda-forge/ninja-python-feedstock.git
 	path = feedstocks/ninja-python
 	branch = refs/heads/main
+[submodule "playa-pdf"]
+	url = https://github.com/conda-forge/playa-pdf-feedstock.git
+	path = feedstocks/playa-pdf
+	branch = refs/heads/main
