@@ -113638,3 +113638,7 @@
 	url = https://github.com/conda-forge/adsorption-feedstock.git
 	path = feedstocks/adsorption
 	branch = refs/heads/main
+[submodule "lifewatch-pypam"]
+	url = https://github.com/conda-forge/lifewatch-pypam-feedstock.git
+	path = feedstocks/lifewatch-pypam
+	branch = refs/heads/main
