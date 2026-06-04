@@ -113634,3 +113634,7 @@
 	url = https://github.com/conda-forge/podman-desktop-feedstock.git
 	path = feedstocks/podman-desktop
 	branch = refs/heads/main
+[submodule "adsorption"]
+	url = https://github.com/conda-forge/adsorption-feedstock.git
+	path = feedstocks/adsorption
+	branch = refs/heads/main
