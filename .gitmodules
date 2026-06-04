@@ -113658,3 +113658,7 @@
 	url = https://github.com/conda-forge/datahues-feedstock.git
 	path = feedstocks/datahues
 	branch = refs/heads/main
+[submodule "envwrap"]
+	url = https://github.com/conda-forge/envwrap-feedstock.git
+	path = feedstocks/envwrap
+	branch = refs/heads/main
