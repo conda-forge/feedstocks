@@ -113670,3 +113670,7 @@
 	url = https://github.com/conda-forge/pyqtspinner-feedstock.git
 	path = feedstocks/pyqtspinner
 	branch = refs/heads/main
+[submodule "agent-framework-core"]
+	url = https://github.com/conda-forge/agent-framework-core-feedstock.git
+	path = feedstocks/agent-framework-core
+	branch = refs/heads/main
