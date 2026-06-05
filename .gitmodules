@@ -113682,3 +113682,7 @@
 	url = https://github.com/conda-forge/agent-framework-bedrock-feedstock.git
 	path = feedstocks/agent-framework-bedrock
 	branch = refs/heads/main
+[submodule "agent-framework-purview"]
+	url = https://github.com/conda-forge/agent-framework-purview-feedstock.git
+	path = feedstocks/agent-framework-purview
+	branch = refs/heads/main
