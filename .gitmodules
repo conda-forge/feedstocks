@@ -113698,3 +113698,7 @@
 	url = https://github.com/conda-forge/mcflow-py-feedstock.git
 	path = feedstocks/mcflow-py
 	branch = refs/heads/main
+[submodule "agent-framework-claude"]
+	url = https://github.com/conda-forge/agent-framework-claude-feedstock.git
+	path = feedstocks/agent-framework-claude
+	branch = refs/heads/main
