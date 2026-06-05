@@ -113690,3 +113690,7 @@
 	url = https://github.com/conda-forge/agent-framework-ollama-feedstock.git
 	path = feedstocks/agent-framework-ollama
 	branch = refs/heads/main
+[submodule "agent-framework-openai"]
+	url = https://github.com/conda-forge/agent-framework-openai-feedstock.git
+	path = feedstocks/agent-framework-openai
+	branch = refs/heads/main
