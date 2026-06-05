@@ -113730,3 +113730,7 @@
 	url = https://github.com/conda-forge/langchain-agentcore-codeinterpreter-feedstock.git
 	path = feedstocks/langchain-agentcore-codeinterpreter
 	branch = refs/heads/main
+[submodule "format-currency"]
+	url = https://github.com/conda-forge/format-currency-feedstock.git
+	path = feedstocks/format-currency
+	branch = refs/heads/main
