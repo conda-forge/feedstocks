@@ -113750,3 +113750,7 @@
 	url = https://github.com/conda-forge/r-nfcore.utils-feedstock.git
 	path = feedstocks/r-nfcore.utils
 	branch = refs/heads/main
+[submodule "faircmakemodules"]
+	url = https://github.com/conda-forge/faircmakemodules-feedstock.git
+	path = feedstocks/faircmakemodules
+	branch = refs/heads/main
