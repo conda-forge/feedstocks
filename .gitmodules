@@ -113702,3 +113702,7 @@
 	url = https://github.com/conda-forge/agent-framework-claude-feedstock.git
 	path = feedstocks/agent-framework-claude
 	branch = refs/heads/main
+[submodule "agent-framework-devui"]
+	url = https://github.com/conda-forge/agent-framework-devui-feedstock.git
+	path = feedstocks/agent-framework-devui
+	branch = refs/heads/main
