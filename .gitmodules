@@ -113746,3 +113746,7 @@
 	url = https://github.com/conda-forge/starlette-cramjam-feedstock.git
 	path = feedstocks/starlette-cramjam
 	branch = refs/heads/main
+[submodule "r-nfcore.utils"]
+	url = https://github.com/conda-forge/r-nfcore.utils-feedstock.git
+	path = feedstocks/r-nfcore.utils
+	branch = refs/heads/main
