@@ -113742,3 +113742,7 @@
 	url = https://github.com/conda-forge/rasterix-feedstock.git
 	path = feedstocks/rasterix
 	branch = refs/heads/main
+[submodule "starlette-cramjam"]
+	url = https://github.com/conda-forge/starlette-cramjam-feedstock.git
+	path = feedstocks/starlette-cramjam
+	branch = refs/heads/main
