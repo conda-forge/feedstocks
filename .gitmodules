@@ -113738,3 +113738,7 @@
 	url = https://github.com/conda-forge/orng-feedstock.git
 	path = feedstocks/orng
 	branch = refs/heads/main
+[submodule "rasterix"]
+	url = https://github.com/conda-forge/rasterix-feedstock.git
+	path = feedstocks/rasterix
+	branch = refs/heads/main
