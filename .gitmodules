@@ -113718,3 +113718,7 @@
 	url = https://github.com/conda-forge/agent-framework-ag-ui-feedstock.git
 	path = feedstocks/agent-framework-ag-ui
 	branch = refs/heads/main
+[submodule "agent-framework-redis"]
+	url = https://github.com/conda-forge/agent-framework-redis-feedstock.git
+	path = feedstocks/agent-framework-redis
+	branch = refs/heads/main
