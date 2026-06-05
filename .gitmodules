@@ -113710,3 +113710,7 @@
 	url = https://github.com/conda-forge/agent-framework-a2a-feedstock.git
 	path = feedstocks/agent-framework-a2a
 	branch = refs/heads/main
+[submodule "deepxiv-sdk"]
+	url = https://github.com/conda-forge/deepxiv-sdk-feedstock.git
+	path = feedstocks/deepxiv-sdk
+	branch = refs/heads/main
