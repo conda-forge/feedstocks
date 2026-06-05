@@ -113726,3 +113726,7 @@
 	url = https://github.com/conda-forge/yo-feedstock.git
 	path = feedstocks/yo
 	branch = refs/heads/main
+[submodule "langchain-agentcore-codeinterpreter"]
+	url = https://github.com/conda-forge/langchain-agentcore-codeinterpreter-feedstock.git
+	path = feedstocks/langchain-agentcore-codeinterpreter
+	branch = refs/heads/main
