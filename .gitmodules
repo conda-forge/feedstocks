@@ -113686,3 +113686,7 @@
 	url = https://github.com/conda-forge/agent-framework-purview-feedstock.git
 	path = feedstocks/agent-framework-purview
 	branch = refs/heads/main
+[submodule "agent-framework-ollama"]
+	url = https://github.com/conda-forge/agent-framework-ollama-feedstock.git
+	path = feedstocks/agent-framework-ollama
+	branch = refs/heads/main
