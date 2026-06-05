@@ -113722,3 +113722,7 @@
 	url = https://github.com/conda-forge/agent-framework-redis-feedstock.git
 	path = feedstocks/agent-framework-redis
 	branch = refs/heads/main
+[submodule "yo"]
+	url = https://github.com/conda-forge/yo-feedstock.git
+	path = feedstocks/yo
+	branch = refs/heads/main
