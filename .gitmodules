@@ -113758,3 +113758,7 @@
 	url = https://github.com/conda-forge/cargo-hakari-feedstock.git
 	path = feedstocks/cargo-hakari
 	branch = refs/heads/main
+[submodule "fabdem"]
+	url = https://github.com/conda-forge/fabdem-feedstock.git
+	path = feedstocks/fabdem
+	branch = refs/heads/main
