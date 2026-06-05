@@ -113694,3 +113694,7 @@
 	url = https://github.com/conda-forge/agent-framework-openai-feedstock.git
 	path = feedstocks/agent-framework-openai
 	branch = refs/heads/main
+[submodule "mcflow-py"]
+	url = https://github.com/conda-forge/mcflow-py-feedstock.git
+	path = feedstocks/mcflow-py
+	branch = refs/heads/main
