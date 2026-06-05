@@ -113678,3 +113678,7 @@
 	url = https://github.com/conda-forge/agent-framework-orchestrations-feedstock.git
 	path = feedstocks/agent-framework-orchestrations
 	branch = refs/heads/main
+[submodule "agent-framework-bedrock"]
+	url = https://github.com/conda-forge/agent-framework-bedrock-feedstock.git
+	path = feedstocks/agent-framework-bedrock
+	branch = refs/heads/main
