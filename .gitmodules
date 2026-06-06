@@ -113762,3 +113762,7 @@
 	url = https://github.com/conda-forge/fabdem-feedstock.git
 	path = feedstocks/fabdem
 	branch = refs/heads/main
+[submodule "files2db"]
+	url = https://github.com/conda-forge/files2db-feedstock.git
+	path = feedstocks/files2db
+	branch = refs/heads/main
