@@ -113774,3 +113774,7 @@
 	url = https://github.com/conda-forge/pyqir-feedstock.git
 	path = feedstocks/pyqir
 	branch = refs/heads/main
+[submodule "cargo-show-asm"]
+	url = https://github.com/conda-forge/cargo-show-asm-feedstock.git
+	path = feedstocks/cargo-show-asm
+	branch = refs/heads/main
