@@ -113766,3 +113766,7 @@
 	url = https://github.com/conda-forge/files2db-feedstock.git
 	path = feedstocks/files2db
 	branch = refs/heads/main
+[submodule "r-crs"]
+	url = https://github.com/conda-forge/r-crs-feedstock.git
+	path = feedstocks/r-crs
+	branch = refs/heads/main
