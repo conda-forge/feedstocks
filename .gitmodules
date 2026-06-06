@@ -113770,3 +113770,7 @@
 	url = https://github.com/conda-forge/r-crs-feedstock.git
 	path = feedstocks/r-crs
 	branch = refs/heads/main
+[submodule "pyqir"]
+	url = https://github.com/conda-forge/pyqir-feedstock.git
+	path = feedstocks/pyqir
+	branch = refs/heads/main
