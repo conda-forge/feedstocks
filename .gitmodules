@@ -113778,3 +113778,7 @@
 	url = https://github.com/conda-forge/cargo-show-asm-feedstock.git
 	path = feedstocks/cargo-show-asm
 	branch = refs/heads/main
+[submodule "libraqm"]
+	url = https://github.com/conda-forge/libraqm-feedstock.git
+	path = feedstocks/libraqm
+	branch = refs/heads/main
