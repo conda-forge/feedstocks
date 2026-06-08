@@ -113782,3 +113782,7 @@
 	url = https://github.com/conda-forge/libraqm-feedstock.git
 	path = feedstocks/libraqm
 	branch = refs/heads/main
+[submodule "colcon-spawn-shell"]
+	url = https://github.com/conda-forge/colcon-spawn-shell-feedstock.git
+	path = feedstocks/colcon-spawn-shell
+	branch = refs/heads/main
