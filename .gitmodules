@@ -113894,3 +113894,7 @@
 	url = https://github.com/conda-forge/nvidia-virtual-packages-feedstock.git
 	path = feedstocks/nvidia-virtual-packages
 	branch = refs/heads/main
+[submodule "pybmodes"]
+	url = https://github.com/conda-forge/pybmodes-feedstock.git
+	path = feedstocks/pybmodes
+	branch = refs/heads/main
