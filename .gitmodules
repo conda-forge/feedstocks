@@ -113830,3 +113830,7 @@
 	url = https://github.com/conda-forge/racerts-feedstock.git
 	path = feedstocks/racerts
 	branch = refs/heads/main
+[submodule "ckmseed"]
+	url = https://github.com/conda-forge/ckmseed-feedstock.git
+	path = feedstocks/ckmseed
+	branch = refs/heads/main
