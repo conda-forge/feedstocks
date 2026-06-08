@@ -113810,3 +113810,7 @@
 	url = https://github.com/conda-forge/colcon-top-level-workspace-feedstock.git
 	path = feedstocks/colcon-top-level-workspace
 	branch = refs/heads/main
+[submodule "colcon-lcov-result"]
+	url = https://github.com/conda-forge/colcon-lcov-result-feedstock.git
+	path = feedstocks/colcon-lcov-result
+	branch = refs/heads/main
