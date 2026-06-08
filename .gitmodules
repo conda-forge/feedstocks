@@ -113838,3 +113838,7 @@
 	url = https://github.com/conda-forge/nested-multipart-parser-feedstock.git
 	path = feedstocks/nested-multipart-parser
 	branch = refs/heads/main
+[submodule "pygensuggestions"]
+	url = https://github.com/conda-forge/pygensuggestions-feedstock.git
+	path = feedstocks/pygensuggestions
+	branch = refs/heads/main
