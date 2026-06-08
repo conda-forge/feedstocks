@@ -113794,3 +113794,7 @@
 	url = https://github.com/conda-forge/colcon-coveragepy-result-feedstock.git
 	path = feedstocks/colcon-coveragepy-result
 	branch = refs/heads/main
+[submodule "scantree"]
+	url = https://github.com/conda-forge/scantree-feedstock.git
+	path = feedstocks/scantree
+	branch = refs/heads/main
