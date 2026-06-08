@@ -113890,3 +113890,7 @@
 	url = https://github.com/conda-forge/visioplot-feedstock.git
 	path = feedstocks/visioplot
 	branch = refs/heads/main
+[submodule "nvidia-virtual-packages"]
+	url = https://github.com/conda-forge/nvidia-virtual-packages-feedstock.git
+	path = feedstocks/nvidia-virtual-packages
+	branch = refs/heads/main
