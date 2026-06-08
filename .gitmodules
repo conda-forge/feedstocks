@@ -113842,3 +113842,7 @@
 	url = https://github.com/conda-forge/pygensuggestions-feedstock.git
 	path = feedstocks/pygensuggestions
 	branch = refs/heads/main
+[submodule "zxcvbn"]
+	url = https://github.com/conda-forge/zxcvbn-feedstock.git
+	path = feedstocks/zxcvbn
+	branch = refs/heads/main
