@@ -113846,3 +113846,7 @@
 	url = https://github.com/conda-forge/zxcvbn-feedstock.git
 	path = feedstocks/zxcvbn
 	branch = refs/heads/main
+[submodule "flash-linear-attention"]
+	url = https://github.com/conda-forge/flash-linear-attention-feedstock.git
+	path = feedstocks/flash-linear-attention
+	branch = refs/heads/main
