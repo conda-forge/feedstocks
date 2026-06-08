@@ -113802,3 +113802,7 @@
 	url = https://github.com/conda-forge/colcon-meson-feedstock.git
 	path = feedstocks/colcon-meson
 	branch = refs/heads/main
+[submodule "colcon-clean"]
+	url = https://github.com/conda-forge/colcon-clean-feedstock.git
+	path = feedstocks/colcon-clean
+	branch = refs/heads/main
