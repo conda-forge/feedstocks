@@ -113786,3 +113786,7 @@
 	url = https://github.com/conda-forge/colcon-spawn-shell-feedstock.git
 	path = feedstocks/colcon-spawn-shell
 	branch = refs/heads/main
+[submodule "colcon-cargo"]
+	url = https://github.com/conda-forge/colcon-cargo-feedstock.git
+	path = feedstocks/colcon-cargo
+	branch = refs/heads/main
