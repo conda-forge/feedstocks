@@ -113910,3 +113910,7 @@
 	url = https://github.com/conda-forge/libultrahdr-feedstock.git
 	path = feedstocks/libultrahdr
 	branch = refs/heads/main
+[submodule "coverplot"]
+	url = https://github.com/conda-forge/coverplot-feedstock.git
+	path = feedstocks/coverplot
+	branch = refs/heads/main
