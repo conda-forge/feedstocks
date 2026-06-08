@@ -113834,3 +113834,7 @@
 	url = https://github.com/conda-forge/ckmseed-feedstock.git
 	path = feedstocks/ckmseed
 	branch = refs/heads/main
+[submodule "nested-multipart-parser"]
+	url = https://github.com/conda-forge/nested-multipart-parser-feedstock.git
+	path = feedstocks/nested-multipart-parser
+	branch = refs/heads/main
