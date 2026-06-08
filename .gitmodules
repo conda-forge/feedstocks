@@ -113822,3 +113822,7 @@
 	url = https://github.com/conda-forge/alibabacloud-oss-v2-feedstock.git
 	path = feedstocks/alibabacloud-oss-v2
 	branch = refs/heads/main
+[submodule "panache"]
+	url = https://github.com/conda-forge/panache-feedstock.git
+	path = feedstocks/panache
+	branch = refs/heads/main
