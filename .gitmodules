@@ -113866,3 +113866,7 @@
 	url = https://github.com/conda-forge/django-pydantic-field-feedstock.git
 	path = feedstocks/django-pydantic-field
 	branch = refs/heads/main
+[submodule "django-fernet-encrypted-fields"]
+	url = https://github.com/conda-forge/django-fernet-encrypted-fields-feedstock.git
+	path = feedstocks/django-fernet-encrypted-fields
+	branch = refs/heads/main
