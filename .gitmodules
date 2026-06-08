@@ -113882,3 +113882,7 @@
 	url = https://github.com/conda-forge/cuda-arch-feedstock.git
 	path = feedstocks/cuda-arch
 	branch = refs/heads/main
+[submodule "medpython-etl"]
+	url = https://github.com/conda-forge/medpython-etl-feedstock.git
+	path = feedstocks/medpython-etl
+	branch = refs/heads/main
