@@ -113850,3 +113850,7 @@
 	url = https://github.com/conda-forge/flash-linear-attention-feedstock.git
 	path = feedstocks/flash-linear-attention
 	branch = refs/heads/main
+[submodule "py3langid"]
+	url = https://github.com/conda-forge/py3langid-feedstock.git
+	path = feedstocks/py3langid
+	branch = refs/heads/main
