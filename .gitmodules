@@ -113790,3 +113790,7 @@
 	url = https://github.com/conda-forge/colcon-cargo-feedstock.git
 	path = feedstocks/colcon-cargo
 	branch = refs/heads/main
+[submodule "colcon-coveragepy-result"]
+	url = https://github.com/conda-forge/colcon-coveragepy-result-feedstock.git
+	path = feedstocks/colcon-coveragepy-result
+	branch = refs/heads/main
