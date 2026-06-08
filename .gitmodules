@@ -113798,3 +113798,7 @@
 	url = https://github.com/conda-forge/scantree-feedstock.git
 	path = feedstocks/scantree
 	branch = refs/heads/main
+[submodule "colcon-meson"]
+	url = https://github.com/conda-forge/colcon-meson-feedstock.git
+	path = feedstocks/colcon-meson
+	branch = refs/heads/main
