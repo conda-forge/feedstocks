@@ -113898,3 +113898,7 @@
 	url = https://github.com/conda-forge/pybmodes-feedstock.git
 	path = feedstocks/pybmodes
 	branch = refs/heads/main
+[submodule "djangorestframework-api-key"]
+	url = https://github.com/conda-forge/djangorestframework-api-key-feedstock.git
+	path = feedstocks/djangorestframework-api-key
+	branch = refs/heads/main
