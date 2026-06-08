@@ -113886,3 +113886,7 @@
 	url = https://github.com/conda-forge/medpython-etl-feedstock.git
 	path = feedstocks/medpython-etl
 	branch = refs/heads/main
+[submodule "visioplot"]
+	url = https://github.com/conda-forge/visioplot-feedstock.git
+	path = feedstocks/visioplot
+	branch = refs/heads/main
