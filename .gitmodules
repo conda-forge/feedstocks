@@ -113826,3 +113826,7 @@
 	url = https://github.com/conda-forge/panache-feedstock.git
 	path = feedstocks/panache
 	branch = refs/heads/main
+[submodule "racerts"]
+	url = https://github.com/conda-forge/racerts-feedstock.git
+	path = feedstocks/racerts
+	branch = refs/heads/main
