@@ -113862,3 +113862,7 @@
 	url = https://github.com/conda-forge/odfdo-feedstock.git
 	path = feedstocks/odfdo
 	branch = refs/heads/main
+[submodule "django-pydantic-field"]
+	url = https://github.com/conda-forge/django-pydantic-field-feedstock.git
+	path = feedstocks/django-pydantic-field
+	branch = refs/heads/main
