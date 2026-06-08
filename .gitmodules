@@ -113870,3 +113870,7 @@
 	url = https://github.com/conda-forge/django-fernet-encrypted-fields-feedstock.git
 	path = feedstocks/django-fernet-encrypted-fields
 	branch = refs/heads/main
+[submodule "brevo-python"]
+	url = https://github.com/conda-forge/brevo-python-feedstock.git
+	path = feedstocks/brevo-python
+	branch = refs/heads/main
