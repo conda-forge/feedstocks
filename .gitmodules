@@ -113814,3 +113814,7 @@
 	url = https://github.com/conda-forge/colcon-lcov-result-feedstock.git
 	path = feedstocks/colcon-lcov-result
 	branch = refs/heads/main
+[submodule "fla-core"]
+	url = https://github.com/conda-forge/fla-core-feedstock.git
+	path = feedstocks/fla-core
+	branch = refs/heads/main
