@@ -113914,3 +113914,7 @@
 	url = https://github.com/conda-forge/coverplot-feedstock.git
 	path = feedstocks/coverplot
 	branch = refs/heads/main
+[submodule "capi-param-builder-python"]
+	url = https://github.com/conda-forge/capi-param-builder-python-feedstock.git
+	path = feedstocks/capi-param-builder-python
+	branch = refs/heads/main
