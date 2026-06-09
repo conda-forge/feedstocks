@@ -113926,3 +113926,7 @@
 	url = https://github.com/conda-forge/astyle-feedstock.git
 	path = feedstocks/astyle
 	branch = refs/heads/main
+[submodule "xpublish-tiles"]
+	url = https://github.com/conda-forge/xpublish-tiles-feedstock.git
+	path = feedstocks/xpublish-tiles
+	branch = refs/heads/main
