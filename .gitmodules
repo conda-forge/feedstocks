@@ -113922,3 +113922,7 @@
 	url = https://github.com/conda-forge/solvor-feedstock.git
 	path = feedstocks/solvor
 	branch = refs/heads/main
+[submodule "astyle"]
+	url = https://github.com/conda-forge/astyle-feedstock.git
+	path = feedstocks/astyle
+	branch = refs/heads/main
