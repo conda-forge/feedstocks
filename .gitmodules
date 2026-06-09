@@ -113934,3 +113934,7 @@
 	url = https://github.com/conda-forge/csip-feedstock.git
 	path = feedstocks/csip
 	branch = refs/heads/main
+[submodule "microsoft-agents-m365copilot-core"]
+	url = https://github.com/conda-forge/microsoft-agents-m365copilot-core-feedstock.git
+	path = feedstocks/microsoft-agents-m365copilot-core
+	branch = refs/heads/main
