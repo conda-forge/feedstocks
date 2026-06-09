@@ -113938,3 +113938,7 @@
 	url = https://github.com/conda-forge/microsoft-agents-m365copilot-core-feedstock.git
 	path = feedstocks/microsoft-agents-m365copilot-core
 	branch = refs/heads/main
+[submodule "django-ai-assistant"]
+	url = https://github.com/conda-forge/django-ai-assistant-feedstock.git
+	path = feedstocks/django-ai-assistant
+	branch = refs/heads/main
