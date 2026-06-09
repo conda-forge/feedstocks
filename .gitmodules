@@ -113930,3 +113930,7 @@
 	url = https://github.com/conda-forge/xpublish-tiles-feedstock.git
 	path = feedstocks/xpublish-tiles
 	branch = refs/heads/main
+[submodule "csip"]
+	url = https://github.com/conda-forge/csip-feedstock.git
+	path = feedstocks/csip
+	branch = refs/heads/main
