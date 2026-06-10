@@ -113978,3 +113978,7 @@
 	url = https://github.com/conda-forge/microsoft-agents-m365copilot-feedstock.git
 	path = feedstocks/microsoft-agents-m365copilot
 	branch = refs/heads/main
+[submodule "mbari-pbp"]
+	url = https://github.com/conda-forge/mbari-pbp-feedstock.git
+	path = feedstocks/mbari-pbp
+	branch = refs/heads/main
