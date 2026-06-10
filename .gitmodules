@@ -113982,3 +113982,7 @@
 	url = https://github.com/conda-forge/mbari-pbp-feedstock.git
 	path = feedstocks/mbari-pbp
 	branch = refs/heads/main
+[submodule "pybiopax"]
+	url = https://github.com/conda-forge/pybiopax-feedstock.git
+	path = feedstocks/pybiopax
+	branch = refs/heads/main
