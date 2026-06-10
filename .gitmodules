@@ -113974,3 +113974,7 @@
 	url = https://github.com/conda-forge/imas-core-feedstock.git
 	path = feedstocks/imas-core
 	branch = refs/heads/main
+[submodule "microsoft-agents-m365copilot"]
+	url = https://github.com/conda-forge/microsoft-agents-m365copilot-feedstock.git
+	path = feedstocks/microsoft-agents-m365copilot
+	branch = refs/heads/main
