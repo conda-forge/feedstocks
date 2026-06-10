@@ -113990,3 +113990,7 @@
 	url = https://github.com/conda-forge/iterative-stratification-feedstock.git
 	path = feedstocks/iterative-stratification
 	branch = refs/heads/main
+[submodule "geolibre"]
+	url = https://github.com/conda-forge/geolibre-feedstock.git
+	path = feedstocks/geolibre
+	branch = refs/heads/main
