@@ -113970,3 +113970,7 @@
 	url = https://github.com/conda-forge/gcx-feedstock.git
 	path = feedstocks/gcx
 	branch = refs/heads/main
+[submodule "imas-core"]
+	url = https://github.com/conda-forge/imas-core-feedstock.git
+	path = feedstocks/imas-core
+	branch = refs/heads/main
