@@ -113966,3 +113966,7 @@
 	url = https://github.com/conda-forge/numa-feedstock.git
 	path = feedstocks/numa
 	branch = refs/heads/main
+[submodule "gcx"]
+	url = https://github.com/conda-forge/gcx-feedstock.git
+	path = feedstocks/gcx
+	branch = refs/heads/main
