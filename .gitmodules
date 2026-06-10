@@ -113962,3 +113962,7 @@
 	url = https://github.com/conda-forge/cetmodules-feedstock.git
 	path = feedstocks/cetmodules
 	branch = refs/heads/main
+[submodule "numa"]
+	url = https://github.com/conda-forge/numa-feedstock.git
+	path = feedstocks/numa
+	branch = refs/heads/main
