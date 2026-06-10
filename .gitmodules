@@ -113958,3 +113958,7 @@
 	url = https://github.com/conda-forge/mdadash-feedstock.git
 	path = feedstocks/mdadash
 	branch = refs/heads/main
+[submodule "cetmodules"]
+	url = https://github.com/conda-forge/cetmodules-feedstock.git
+	path = feedstocks/cetmodules
+	branch = refs/heads/main
