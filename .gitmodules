@@ -113994,3 +113994,7 @@
 	url = https://github.com/conda-forge/geolibre-feedstock.git
 	path = feedstocks/geolibre
 	branch = refs/heads/main
+[submodule "mne-rt"]
+	url = https://github.com/conda-forge/mne-rt-feedstock.git
+	path = feedstocks/mne-rt
+	branch = refs/heads/main
