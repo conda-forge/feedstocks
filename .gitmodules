@@ -114010,3 +114010,7 @@
 	url = https://github.com/conda-forge/gaudi-feedstock.git
 	path = feedstocks/gaudi
 	branch = refs/heads/main
+[submodule "ironcalc"]
+	url = https://github.com/conda-forge/ironcalc-feedstock.git
+	path = feedstocks/ironcalc
+	branch = refs/heads/main
