@@ -114006,3 +114006,7 @@
 	url = https://github.com/conda-forge/tlrc-feedstock.git
 	path = feedstocks/tlrc
 	branch = refs/heads/main
+[submodule "gaudi"]
+	url = https://github.com/conda-forge/gaudi-feedstock.git
+	path = feedstocks/gaudi
+	branch = refs/heads/main
