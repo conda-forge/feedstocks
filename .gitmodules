@@ -114002,3 +114002,7 @@
 	url = https://github.com/conda-forge/libjsonnet-feedstock.git
 	path = feedstocks/libjsonnet
 	branch = refs/heads/main
+[submodule "tlrc"]
+	url = https://github.com/conda-forge/tlrc-feedstock.git
+	path = feedstocks/tlrc
+	branch = refs/heads/main
