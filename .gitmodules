@@ -114026,3 +114026,7 @@
 	url = https://github.com/conda-forge/django-zxcvbn-password-validator-feedstock.git
 	path = feedstocks/django-zxcvbn-password-validator
 	branch = refs/heads/main
+[submodule "vgm"]
+	url = https://github.com/conda-forge/vgm-feedstock.git
+	path = feedstocks/vgm
+	branch = refs/heads/main
