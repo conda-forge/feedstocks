@@ -113998,3 +113998,7 @@
 	url = https://github.com/conda-forge/mne-rt-feedstock.git
 	path = feedstocks/mne-rt
 	branch = refs/heads/main
+[submodule "libjsonnet"]
+	url = https://github.com/conda-forge/libjsonnet-feedstock.git
+	path = feedstocks/libjsonnet
+	branch = refs/heads/main
