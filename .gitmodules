@@ -114038,3 +114038,7 @@
 	url = https://github.com/conda-forge/feynhiggs-feedstock.git
 	path = feedstocks/feynhiggs
 	branch = refs/heads/main
+[submodule "pytest-accept"]
+	url = https://github.com/conda-forge/pytest-accept-feedstock.git
+	path = feedstocks/pytest-accept
+	branch = refs/heads/main
