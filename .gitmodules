@@ -114030,3 +114030,7 @@
 	url = https://github.com/conda-forge/vgm-feedstock.git
 	path = feedstocks/vgm
 	branch = refs/heads/main
+[submodule "lyric-task"]
+	url = https://github.com/conda-forge/lyric-task-feedstock.git
+	path = feedstocks/lyric-task
+	branch = refs/heads/main
