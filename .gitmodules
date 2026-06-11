@@ -114018,3 +114018,7 @@
 	url = https://github.com/conda-forge/np2typing-feedstock.git
 	path = feedstocks/np2typing
 	branch = refs/heads/main
+[submodule "vmc"]
+	url = https://github.com/conda-forge/vmc-feedstock.git
+	path = feedstocks/vmc
+	branch = refs/heads/main
