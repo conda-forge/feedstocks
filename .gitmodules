@@ -114034,3 +114034,7 @@
 	url = https://github.com/conda-forge/lyric-task-feedstock.git
 	path = feedstocks/lyric-task
 	branch = refs/heads/main
+[submodule "feynhiggs"]
+	url = https://github.com/conda-forge/feynhiggs-feedstock.git
+	path = feedstocks/feynhiggs
+	branch = refs/heads/main
