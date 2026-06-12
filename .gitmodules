@@ -114086,3 +114086,7 @@
 	url = https://github.com/conda-forge/reachy-mini-rust-kinematics-feedstock.git
 	path = feedstocks/reachy-mini-rust-kinematics
 	branch = refs/heads/main
+[submodule "lgpio"]
+	url = https://github.com/conda-forge/lgpio-feedstock.git
+	path = feedstocks/lgpio
+	branch = refs/heads/main
