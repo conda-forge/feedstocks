@@ -114090,3 +114090,7 @@
 	url = https://github.com/conda-forge/lgpio-feedstock.git
 	path = feedstocks/lgpio
 	branch = refs/heads/main
+[submodule "smbus3"]
+	url = https://github.com/conda-forge/smbus3-feedstock.git
+	path = feedstocks/smbus3
+	branch = refs/heads/main
