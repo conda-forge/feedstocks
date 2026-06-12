@@ -114138,3 +114138,7 @@
 	url = https://github.com/conda-forge/ebltable-feedstock.git
 	path = feedstocks/ebltable
 	branch = refs/heads/main
+[submodule "cv2-enumerate-cameras"]
+	url = https://github.com/conda-forge/cv2-enumerate-cameras-feedstock.git
+	path = feedstocks/cv2-enumerate-cameras
+	branch = refs/heads/main
