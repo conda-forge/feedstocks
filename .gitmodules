@@ -114058,3 +114058,7 @@
 	url = https://github.com/conda-forge/fixhdr-feedstock.git
 	path = feedstocks/fixhdr
 	branch = refs/heads/main
+[submodule "sim-atlas"]
+	url = https://github.com/conda-forge/sim-atlas-feedstock.git
+	path = feedstocks/sim-atlas
+	branch = refs/heads/main
