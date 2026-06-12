@@ -114070,3 +114070,7 @@
 	url = https://github.com/conda-forge/spatialml-feedstock.git
 	path = feedstocks/spatialml
 	branch = refs/heads/main
+[submodule "rustypot"]
+	url = https://github.com/conda-forge/rustypot-feedstock.git
+	path = feedstocks/rustypot
+	branch = refs/heads/main
