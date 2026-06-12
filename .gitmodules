@@ -114154,3 +114154,7 @@
 	url = https://github.com/conda-forge/gpiozero-feedstock.git
 	path = feedstocks/gpiozero
 	branch = refs/heads/main
+[submodule "iso639-lang"]
+	url = https://github.com/conda-forge/iso639-lang-feedstock.git
+	path = feedstocks/iso639-lang
+	branch = refs/heads/main
