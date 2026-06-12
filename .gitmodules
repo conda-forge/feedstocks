@@ -114050,3 +114050,7 @@
 	url = https://github.com/conda-forge/softsusy-feedstock.git
 	path = feedstocks/softsusy
 	branch = refs/heads/main
+[submodule "jupyterlite-polyglott"]
+	url = https://github.com/conda-forge/jupyterlite-polyglott-feedstock.git
+	path = feedstocks/jupyterlite-polyglott
+	branch = refs/heads/main
