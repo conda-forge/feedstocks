@@ -114142,3 +114142,7 @@
 	url = https://github.com/conda-forge/cv2-enumerate-cameras-feedstock.git
 	path = feedstocks/cv2-enumerate-cameras
 	branch = refs/heads/main
+[submodule "pollen-bmi088-imu-library"]
+	url = https://github.com/conda-forge/pollen-bmi088-imu-library-feedstock.git
+	path = feedstocks/pollen-bmi088-imu-library
+	branch = refs/heads/main
