@@ -114106,3 +114106,7 @@
 	url = https://github.com/conda-forge/pycaw-feedstock.git
 	path = feedstocks/pycaw
 	branch = refs/heads/main
+[submodule "log-throttling"]
+	url = https://github.com/conda-forge/log-throttling-feedstock.git
+	path = feedstocks/log-throttling
+	branch = refs/heads/main
