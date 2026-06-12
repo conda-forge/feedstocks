@@ -114062,3 +114062,7 @@
 	url = https://github.com/conda-forge/sim-atlas-feedstock.git
 	path = feedstocks/sim-atlas
 	branch = refs/heads/main
+[submodule "sim-atlas-toolkit"]
+	url = https://github.com/conda-forge/sim-atlas-toolkit-feedstock.git
+	path = feedstocks/sim-atlas-toolkit
+	branch = refs/heads/main
