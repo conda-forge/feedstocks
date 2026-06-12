@@ -114150,3 +114150,7 @@
 	url = https://github.com/conda-forge/reachy-mini-feedstock.git
 	path = feedstocks/reachy-mini
 	branch = refs/heads/main
+[submodule "gpiozero"]
+	url = https://github.com/conda-forge/gpiozero-feedstock.git
+	path = feedstocks/gpiozero
+	branch = refs/heads/main
