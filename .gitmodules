@@ -114126,3 +114126,7 @@
 	url = https://github.com/conda-forge/pyobjc-framework-avfoundation-feedstock.git
 	path = feedstocks/pyobjc-framework-avfoundation
 	branch = refs/heads/main
+[submodule "pyobjc-framework-coreaudio"]
+	url = https://github.com/conda-forge/pyobjc-framework-coreaudio-feedstock.git
+	path = feedstocks/pyobjc-framework-coreaudio
+	branch = refs/heads/main
