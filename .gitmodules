@@ -114134,3 +114134,7 @@
 	url = https://github.com/conda-forge/reachy-mini-motor-controller-feedstock.git
 	path = feedstocks/reachy-mini-motor-controller
 	branch = refs/heads/main
+[submodule "ebltable"]
+	url = https://github.com/conda-forge/ebltable-feedstock.git
+	path = feedstocks/ebltable
+	branch = refs/heads/main
