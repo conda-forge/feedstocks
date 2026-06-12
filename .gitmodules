@@ -114146,3 +114146,7 @@
 	url = https://github.com/conda-forge/pollen-bmi088-imu-library-feedstock.git
 	path = feedstocks/pollen-bmi088-imu-library
 	branch = refs/heads/main
+[submodule "reachy-mini"]
+	url = https://github.com/conda-forge/reachy-mini-feedstock.git
+	path = feedstocks/reachy-mini
+	branch = refs/heads/main
