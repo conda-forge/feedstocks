@@ -114114,3 +114114,7 @@
 	url = https://github.com/conda-forge/nemosis-feedstock.git
 	path = feedstocks/nemosis
 	branch = refs/heads/main
+[submodule "nmcli"]
+	url = https://github.com/conda-forge/nmcli-feedstock.git
+	path = feedstocks/nmcli
+	branch = refs/heads/main
