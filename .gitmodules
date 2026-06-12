@@ -114110,3 +114110,7 @@
 	url = https://github.com/conda-forge/log-throttling-feedstock.git
 	path = feedstocks/log-throttling
 	branch = refs/heads/main
+[submodule "nemosis"]
+	url = https://github.com/conda-forge/nemosis-feedstock.git
+	path = feedstocks/nemosis
+	branch = refs/heads/main
