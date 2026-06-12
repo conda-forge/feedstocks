@@ -114054,3 +114054,7 @@
 	url = https://github.com/conda-forge/jupyterlite-polyglott-feedstock.git
 	path = feedstocks/jupyterlite-polyglott
 	branch = refs/heads/main
+[submodule "fixhdr"]
+	url = https://github.com/conda-forge/fixhdr-feedstock.git
+	path = feedstocks/fixhdr
+	branch = refs/heads/main
