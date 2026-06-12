@@ -114074,3 +114074,7 @@
 	url = https://github.com/conda-forge/rustypot-feedstock.git
 	path = feedstocks/rustypot
 	branch = refs/heads/main
+[submodule "cosma-scalapack"]
+	url = https://github.com/conda-forge/cosma-scalapack-feedstock.git
+	path = feedstocks/cosma-scalapack
+	branch = refs/heads/main
