@@ -114098,3 +114098,7 @@
 	url = https://github.com/conda-forge/colorzero-feedstock.git
 	path = feedstocks/colorzero
 	branch = refs/heads/main
+[submodule "pulsectl"]
+	url = https://github.com/conda-forge/pulsectl-feedstock.git
+	path = feedstocks/pulsectl
+	branch = refs/heads/main
