@@ -114118,3 +114118,7 @@
 	url = https://github.com/conda-forge/nmcli-feedstock.git
 	path = feedstocks/nmcli
 	branch = refs/heads/main
+[submodule "ahrs"]
+	url = https://github.com/conda-forge/ahrs-feedstock.git
+	path = feedstocks/ahrs
+	branch = refs/heads/main
