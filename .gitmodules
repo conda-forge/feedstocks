@@ -114122,3 +114122,7 @@
 	url = https://github.com/conda-forge/ahrs-feedstock.git
 	path = feedstocks/ahrs
 	branch = refs/heads/main
+[submodule "pyobjc-framework-avfoundation"]
+	url = https://github.com/conda-forge/pyobjc-framework-avfoundation-feedstock.git
+	path = feedstocks/pyobjc-framework-avfoundation
+	branch = refs/heads/main
