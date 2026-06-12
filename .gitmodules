@@ -114102,3 +114102,7 @@
 	url = https://github.com/conda-forge/pulsectl-feedstock.git
 	path = feedstocks/pulsectl
 	branch = refs/heads/main
+[submodule "pycaw"]
+	url = https://github.com/conda-forge/pycaw-feedstock.git
+	path = feedstocks/pycaw
+	branch = refs/heads/main
