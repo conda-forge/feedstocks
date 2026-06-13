@@ -114178,3 +114178,7 @@
 	url = https://github.com/conda-forge/id-protocol-feedstock.git
 	path = feedstocks/id-protocol
 	branch = refs/heads/main
+[submodule "phlex"]
+	url = https://github.com/conda-forge/phlex-feedstock.git
+	path = feedstocks/phlex
+	branch = refs/heads/main
