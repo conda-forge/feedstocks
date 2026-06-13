@@ -114166,3 +114166,7 @@
 	url = https://github.com/conda-forge/font-monocraft-feedstock.git
 	path = feedstocks/font-monocraft
 	branch = refs/heads/main
+[submodule "agentsgen"]
+	url = https://github.com/conda-forge/agentsgen-feedstock.git
+	path = feedstocks/agentsgen
+	branch = refs/heads/main
