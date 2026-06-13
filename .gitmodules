@@ -114182,3 +114182,7 @@
 	url = https://github.com/conda-forge/phlex-feedstock.git
 	path = feedstocks/phlex
 	branch = refs/heads/main
+[submodule "flux-schema"]
+	url = https://github.com/conda-forge/flux-schema-feedstock.git
+	path = feedstocks/flux-schema
+	branch = refs/heads/main
