@@ -114190,3 +114190,7 @@
 	url = https://github.com/conda-forge/multimark-feedstock.git
 	path = feedstocks/multimark
 	branch = refs/heads/main
+[submodule "r-thisplot"]
+	url = https://github.com/conda-forge/r-thisplot-feedstock.git
+	path = feedstocks/r-thisplot
+	branch = refs/heads/main
