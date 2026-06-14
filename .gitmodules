@@ -114202,3 +114202,7 @@
 	url = https://github.com/conda-forge/conventional-commit-hook-feedstock.git
 	path = feedstocks/conventional-commit-hook
 	branch = refs/heads/main
+[submodule "ryl"]
+	url = https://github.com/conda-forge/ryl-feedstock.git
+	path = feedstocks/ryl
+	branch = refs/heads/main
