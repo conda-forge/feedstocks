@@ -114206,3 +114206,7 @@
 	url = https://github.com/conda-forge/ryl-feedstock.git
 	path = feedstocks/ryl
 	branch = refs/heads/main
+[submodule "jupyterlite-pdf-exporter"]
+	url = https://github.com/conda-forge/jupyterlite-pdf-exporter-feedstock.git
+	path = feedstocks/jupyterlite-pdf-exporter
+	branch = refs/heads/main
