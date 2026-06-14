@@ -114198,3 +114198,7 @@
 	url = https://github.com/conda-forge/just-lsp-feedstock.git
 	path = feedstocks/just-lsp
 	branch = refs/heads/main
+[submodule "conventional-commit-hook"]
+	url = https://github.com/conda-forge/conventional-commit-hook-feedstock.git
+	path = feedstocks/conventional-commit-hook
+	branch = refs/heads/main
