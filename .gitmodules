@@ -114246,3 +114246,7 @@
 	url = https://github.com/conda-forge/jax-rrtmgp-feedstock.git
 	path = feedstocks/jax-rrtmgp
 	branch = refs/heads/main
+[submodule "jax-solar"]
+	url = https://github.com/conda-forge/jax-solar-feedstock.git
+	path = feedstocks/jax-solar
+	branch = refs/heads/main
