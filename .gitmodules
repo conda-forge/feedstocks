@@ -114210,3 +114210,7 @@
 	url = https://github.com/conda-forge/jupyterlite-pdf-exporter-feedstock.git
 	path = feedstocks/jupyterlite-pdf-exporter
 	branch = refs/heads/main
+[submodule "gastown"]
+	url = https://github.com/conda-forge/gastown-feedstock.git
+	path = feedstocks/gastown
+	branch = refs/heads/main
