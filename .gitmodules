@@ -114222,3 +114222,7 @@
 	url = https://github.com/conda-forge/editdistpy-feedstock.git
 	path = feedstocks/editdistpy
 	branch = refs/heads/main
+[submodule "checkpoint-schedules"]
+	url = https://github.com/conda-forge/checkpoint-schedules-feedstock.git
+	path = feedstocks/checkpoint-schedules
+	branch = refs/heads/main
