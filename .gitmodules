@@ -114218,3 +114218,7 @@
 	url = https://github.com/conda-forge/qt-positioning-feedstock.git
 	path = feedstocks/qt-positioning
 	branch = refs/heads/main
+[submodule "editdistpy"]
+	url = https://github.com/conda-forge/editdistpy-feedstock.git
+	path = feedstocks/editdistpy
+	branch = refs/heads/main
