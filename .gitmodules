@@ -114230,3 +114230,7 @@
 	url = https://github.com/conda-forge/resolvekit-feedstock.git
 	path = feedstocks/resolvekit
 	branch = refs/heads/main
+[submodule "symspellpy"]
+	url = https://github.com/conda-forge/symspellpy-feedstock.git
+	path = feedstocks/symspellpy
+	branch = refs/heads/main
