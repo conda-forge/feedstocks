@@ -114226,3 +114226,7 @@
 	url = https://github.com/conda-forge/checkpoint-schedules-feedstock.git
 	path = feedstocks/checkpoint-schedules
 	branch = refs/heads/main
+[submodule "resolvekit"]
+	url = https://github.com/conda-forge/resolvekit-feedstock.git
+	path = feedstocks/resolvekit
+	branch = refs/heads/main
