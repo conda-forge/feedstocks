@@ -114214,3 +114214,7 @@
 	url = https://github.com/conda-forge/gastown-feedstock.git
 	path = feedstocks/gastown
 	branch = refs/heads/main
+[submodule "qt-positioning"]
+	url = https://github.com/conda-forge/qt-positioning-feedstock.git
+	path = feedstocks/qt-positioning
+	branch = refs/heads/main
