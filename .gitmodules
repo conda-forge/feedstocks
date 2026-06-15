@@ -114238,3 +114238,7 @@
 	url = https://github.com/conda-forge/jupyter-plainb-feedstock.git
 	path = feedstocks/jupyter-plainb
 	branch = refs/heads/main
+[submodule "r-highs"]
+	url = https://github.com/conda-forge/r-highs-feedstock.git
+	path = feedstocks/r-highs
+	branch = refs/heads/main
