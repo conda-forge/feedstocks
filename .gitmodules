@@ -114234,3 +114234,7 @@
 	url = https://github.com/conda-forge/symspellpy-feedstock.git
 	path = feedstocks/symspellpy
 	branch = refs/heads/main
+[submodule "jupyter-plainb"]
+	url = https://github.com/conda-forge/jupyter-plainb-feedstock.git
+	path = feedstocks/jupyter-plainb
+	branch = refs/heads/main
