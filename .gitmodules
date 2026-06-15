@@ -114242,3 +114242,7 @@
 	url = https://github.com/conda-forge/r-highs-feedstock.git
 	path = feedstocks/r-highs
 	branch = refs/heads/main
+[submodule "jax-rrtmgp"]
+	url = https://github.com/conda-forge/jax-rrtmgp-feedstock.git
+	path = feedstocks/jax-rrtmgp
+	branch = refs/heads/main
