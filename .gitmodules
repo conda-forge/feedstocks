@@ -114298,3 +114298,7 @@
 	url = https://github.com/conda-forge/metaxy-feedstock.git
 	path = feedstocks/metaxy
 	branch = refs/heads/main
+[submodule "pydantic-handlebars"]
+	url = https://github.com/conda-forge/pydantic-handlebars-feedstock.git
+	path = feedstocks/pydantic-handlebars
+	branch = refs/heads/main
