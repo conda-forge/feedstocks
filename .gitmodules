@@ -114270,3 +114270,7 @@
 	url = https://github.com/conda-forge/peprs-feedstock.git
 	path = feedstocks/peprs
 	branch = refs/heads/main
+[submodule "proxytunnel"]
+	url = https://github.com/conda-forge/proxytunnel-feedstock.git
+	path = feedstocks/proxytunnel
+	branch = refs/heads/main
