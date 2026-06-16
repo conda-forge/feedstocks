@@ -114262,3 +114262,7 @@
 	url = https://github.com/conda-forge/r-gaupro-feedstock.git
 	path = feedstocks/r-gaupro
 	branch = refs/heads/main
+[submodule "go-size-analyzer"]
+	url = https://github.com/conda-forge/go-size-analyzer-feedstock.git
+	path = feedstocks/go-size-analyzer
+	branch = refs/heads/main
