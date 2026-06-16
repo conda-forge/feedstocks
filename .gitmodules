@@ -114286,3 +114286,7 @@
 	url = https://github.com/conda-forge/ksfeatureselector-feedstock.git
 	path = feedstocks/ksfeatureselector
 	branch = refs/heads/main
+[submodule "sickle"]
+	url = https://github.com/conda-forge/sickle-feedstock.git
+	path = feedstocks/sickle
+	branch = refs/heads/main
