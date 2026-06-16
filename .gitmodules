@@ -114290,3 +114290,7 @@
 	url = https://github.com/conda-forge/sickle-feedstock.git
 	path = feedstocks/sickle
 	branch = refs/heads/main
+[submodule "graph-hypothesis"]
+	url = https://github.com/conda-forge/graph-hypothesis-feedstock.git
+	path = feedstocks/graph-hypothesis
+	branch = refs/heads/main
