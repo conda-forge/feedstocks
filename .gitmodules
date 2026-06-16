@@ -114250,3 +114250,7 @@
 	url = https://github.com/conda-forge/jax-solar-feedstock.git
 	path = feedstocks/jax-solar
 	branch = refs/heads/main
+[submodule "spyder-themes"]
+	url = https://github.com/conda-forge/spyder-themes-feedstock.git
+	path = feedstocks/spyder-themes
+	branch = refs/heads/main
