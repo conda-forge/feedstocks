@@ -114282,3 +114282,7 @@
 	url = https://github.com/conda-forge/pycfit-feedstock.git
 	path = feedstocks/pycfit
 	branch = refs/heads/main
+[submodule "ksfeatureselector"]
+	url = https://github.com/conda-forge/ksfeatureselector-feedstock.git
+	path = feedstocks/ksfeatureselector
+	branch = refs/heads/main
