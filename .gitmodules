@@ -114266,3 +114266,7 @@
 	url = https://github.com/conda-forge/go-size-analyzer-feedstock.git
 	path = feedstocks/go-size-analyzer
 	branch = refs/heads/main
+[submodule "peprs"]
+	url = https://github.com/conda-forge/peprs-feedstock.git
+	path = feedstocks/peprs
+	branch = refs/heads/main
