@@ -114306,3 +114306,7 @@
 	url = https://github.com/conda-forge/rich-pixels-feedstock.git
 	path = feedstocks/rich-pixels
 	branch = refs/heads/main
+[submodule "depgather"]
+	url = https://github.com/conda-forge/depgather-feedstock.git
+	path = feedstocks/depgather
+	branch = refs/heads/main
