@@ -114314,3 +114314,7 @@
 	url = https://github.com/conda-forge/rustfs-cli-feedstock.git
 	path = feedstocks/rustfs-cli
 	branch = refs/heads/main
+[submodule "polyglot-sql"]
+	url = https://github.com/conda-forge/polyglot-sql-feedstock.git
+	path = feedstocks/polyglot-sql
+	branch = refs/heads/main
