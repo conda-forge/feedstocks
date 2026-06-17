@@ -114310,3 +114310,7 @@
 	url = https://github.com/conda-forge/depgather-feedstock.git
 	path = feedstocks/depgather
 	branch = refs/heads/main
+[submodule "rustfs-cli"]
+	url = https://github.com/conda-forge/rustfs-cli-feedstock.git
+	path = feedstocks/rustfs-cli
+	branch = refs/heads/main
