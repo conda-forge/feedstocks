@@ -114386,3 +114386,7 @@
 	url = https://github.com/conda-forge/pixi-build-r-feedstock.git
 	path = feedstocks/pixi-build-r
 	branch = refs/heads/main
+[submodule "addlicense"]
+	url = https://github.com/conda-forge/addlicense-feedstock.git
+	path = feedstocks/addlicense
+	branch = refs/heads/main
