@@ -114362,3 +114362,7 @@
 	url = https://github.com/conda-forge/diffpy.apps-feedstock.git
 	path = feedstocks/diffpy.apps
 	branch = refs/heads/main
+[submodule "k-diagram"]
+	url = https://github.com/conda-forge/k-diagram-feedstock.git
+	path = feedstocks/k-diagram
+	branch = refs/heads/main
