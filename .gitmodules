@@ -114394,3 +114394,7 @@
 	url = https://github.com/conda-forge/julday-feedstock.git
 	path = feedstocks/julday
 	branch = refs/heads/main
+[submodule "skore-cli"]
+	url = https://github.com/conda-forge/skore-cli-feedstock.git
+	path = feedstocks/skore-cli
+	branch = refs/heads/main
