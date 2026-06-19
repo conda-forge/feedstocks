@@ -114338,3 +114338,7 @@
 	url = https://github.com/conda-forge/growbikenet-feedstock.git
 	path = feedstocks/growbikenet
 	branch = refs/heads/main
+[submodule "watch-duck"]
+	url = https://github.com/conda-forge/watch-duck-feedstock.git
+	path = feedstocks/watch-duck
+	branch = refs/heads/main
