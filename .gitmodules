@@ -114322,3 +114322,7 @@
 	url = https://github.com/conda-forge/rustfs-feedstock.git
 	path = feedstocks/rustfs
 	branch = refs/heads/main
+[submodule "veccore"]
+	url = https://github.com/conda-forge/veccore-feedstock.git
+	path = feedstocks/veccore
+	branch = refs/heads/main
