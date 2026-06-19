@@ -114366,3 +114366,7 @@
 	url = https://github.com/conda-forge/k-diagram-feedstock.git
 	path = feedstocks/k-diagram
 	branch = refs/heads/main
+[submodule "jupyter-tiler"]
+	url = https://github.com/conda-forge/jupyter-tiler-feedstock.git
+	path = feedstocks/jupyter-tiler
+	branch = refs/heads/main
