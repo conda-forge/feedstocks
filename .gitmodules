@@ -114382,3 +114382,7 @@
 	url = https://github.com/conda-forge/rapidminer-ai-runtime-feedstock.git
 	path = feedstocks/rapidminer-ai-runtime
 	branch = refs/heads/main
+[submodule "pixi-build-r"]
+	url = https://github.com/conda-forge/pixi-build-r-feedstock.git
+	path = feedstocks/pixi-build-r
+	branch = refs/heads/main
