@@ -114358,3 +114358,7 @@
 	url = https://github.com/conda-forge/lyric-js-worker-feedstock.git
 	path = feedstocks/lyric-js-worker
 	branch = refs/heads/main
+[submodule "diffpy.apps"]
+	url = https://github.com/conda-forge/diffpy.apps-feedstock.git
+	path = feedstocks/diffpy.apps
+	branch = refs/heads/main
