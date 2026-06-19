@@ -114354,3 +114354,7 @@
 	url = https://github.com/conda-forge/htrmopo-feedstock.git
 	path = feedstocks/htrmopo
 	branch = refs/heads/main
+[submodule "lyric-js-worker"]
+	url = https://github.com/conda-forge/lyric-js-worker-feedstock.git
+	path = feedstocks/lyric-js-worker
+	branch = refs/heads/main
