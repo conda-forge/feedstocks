@@ -114378,3 +114378,7 @@
 	url = https://github.com/conda-forge/lyric-component-ts-transpiling-feedstock.git
 	path = feedstocks/lyric-component-ts-transpiling
 	branch = refs/heads/main
+[submodule "rapidminer-ai-runtime"]
+	url = https://github.com/conda-forge/rapidminer-ai-runtime-feedstock.git
+	path = feedstocks/rapidminer-ai-runtime
+	branch = refs/heads/main
