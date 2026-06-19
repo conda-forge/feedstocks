@@ -114342,3 +114342,7 @@
 	url = https://github.com/conda-forge/watch-duck-feedstock.git
 	path = feedstocks/watch-duck
 	branch = refs/heads/main
+[submodule "rapidminer-ai-core"]
+	url = https://github.com/conda-forge/rapidminer-ai-core-feedstock.git
+	path = feedstocks/rapidminer-ai-core
+	branch = refs/heads/main
