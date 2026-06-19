@@ -114330,3 +114330,7 @@
 	url = https://github.com/conda-forge/glycin_and_loaders-feedstock.git
 	path = feedstocks/glycin_and_loaders
 	branch = refs/heads/main
+[submodule "rapidminer-ai-sdk"]
+	url = https://github.com/conda-forge/rapidminer-ai-sdk-feedstock.git
+	path = feedstocks/rapidminer-ai-sdk
+	branch = refs/heads/main
