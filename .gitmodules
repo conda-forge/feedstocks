@@ -114334,3 +114334,7 @@
 	url = https://github.com/conda-forge/rapidminer-ai-sdk-feedstock.git
 	path = feedstocks/rapidminer-ai-sdk
 	branch = refs/heads/main
+[submodule "growbikenet"]
+	url = https://github.com/conda-forge/growbikenet-feedstock.git
+	path = feedstocks/growbikenet
+	branch = refs/heads/main
