@@ -114390,3 +114390,7 @@
 	url = https://github.com/conda-forge/addlicense-feedstock.git
 	path = feedstocks/addlicense
 	branch = refs/heads/main
+[submodule "julday"]
+	url = https://github.com/conda-forge/julday-feedstock.git
+	path = feedstocks/julday
+	branch = refs/heads/main
