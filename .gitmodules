@@ -114402,3 +114402,7 @@
 	url = https://github.com/conda-forge/gm2calc-feedstock.git
 	path = feedstocks/gm2calc
 	branch = refs/heads/main
+[submodule "tixi"]
+	url = https://github.com/conda-forge/tixi-feedstock.git
+	path = feedstocks/tixi
+	branch = refs/heads/main
