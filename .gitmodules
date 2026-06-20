@@ -114406,3 +114406,7 @@
 	url = https://github.com/conda-forge/tixi-feedstock.git
 	path = feedstocks/tixi
 	branch = refs/heads/main
+[submodule "apple-container"]
+	url = https://github.com/conda-forge/apple-container-feedstock.git
+	path = feedstocks/apple-container
+	branch = refs/heads/main
