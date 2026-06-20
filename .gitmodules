@@ -114398,3 +114398,7 @@
 	url = https://github.com/conda-forge/skore-cli-feedstock.git
 	path = feedstocks/skore-cli
 	branch = refs/heads/main
+[submodule "gm2calc"]
+	url = https://github.com/conda-forge/gm2calc-feedstock.git
+	path = feedstocks/gm2calc
+	branch = refs/heads/main
