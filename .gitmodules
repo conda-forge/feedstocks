@@ -114486,3 +114486,7 @@
 	url = https://github.com/conda-forge/lyric-py-feedstock.git
 	path = feedstocks/lyric-py
 	branch = refs/heads/main
+[submodule "fsspec-pydantic"]
+	url = https://github.com/conda-forge/fsspec-pydantic-feedstock.git
+	path = feedstocks/fsspec-pydantic
+	branch = refs/heads/main
