@@ -114490,3 +114490,7 @@
 	url = https://github.com/conda-forge/fsspec-pydantic-feedstock.git
 	path = feedstocks/fsspec-pydantic
 	branch = refs/heads/main
+[submodule "fsspec-db"]
+	url = https://github.com/conda-forge/fsspec-db-feedstock.git
+	path = feedstocks/fsspec-db
+	branch = refs/heads/main
