@@ -114422,3 +114422,7 @@
 	url = https://github.com/conda-forge/dataclass-argparser-feedstock.git
 	path = feedstocks/dataclass-argparser
 	branch = refs/heads/main
+[submodule "magicjar"]
+	url = https://github.com/conda-forge/magicjar-feedstock.git
+	path = feedstocks/magicjar
+	branch = refs/heads/main
