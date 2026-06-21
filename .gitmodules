@@ -114446,3 +114446,7 @@
 	url = https://github.com/conda-forge/fsspec-union-feedstock.git
 	path = feedstocks/fsspec-union
 	branch = refs/heads/main
+[submodule "geomodel"]
+	url = https://github.com/conda-forge/geomodel-feedstock.git
+	path = feedstocks/geomodel
+	branch = refs/heads/main
