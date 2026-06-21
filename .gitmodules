@@ -114414,3 +114414,7 @@
 	url = https://github.com/conda-forge/libserial-feedstock.git
 	path = feedstocks/libserial
 	branch = refs/heads/main
+[submodule "impit"]
+	url = https://github.com/conda-forge/impit-feedstock.git
+	path = feedstocks/impit
+	branch = refs/heads/main
