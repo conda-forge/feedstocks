@@ -114506,3 +114506,7 @@
 	url = https://github.com/conda-forge/imgcat-feedstock.git
 	path = feedstocks/imgcat
 	branch = refs/heads/main
+[submodule "merman-cli"]
+	url = https://github.com/conda-forge/merman-cli-feedstock.git
+	path = feedstocks/merman-cli
+	branch = refs/heads/main
