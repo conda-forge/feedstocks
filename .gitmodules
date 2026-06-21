@@ -114470,3 +114470,7 @@
 	url = https://github.com/conda-forge/sofa-beamadapter-feedstock.git
 	path = feedstocks/sofa-beamadapter
 	branch = refs/heads/main
+[submodule "sofa-glfw"]
+	url = https://github.com/conda-forge/sofa-glfw-feedstock.git
+	path = feedstocks/sofa-glfw
+	branch = refs/heads/main
