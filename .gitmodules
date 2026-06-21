@@ -114438,3 +114438,7 @@
 	url = https://github.com/conda-forge/sofa-softrobots-feedstock.git
 	path = feedstocks/sofa-softrobots
 	branch = refs/heads/main
+[submodule "sofa-app"]
+	url = https://github.com/conda-forge/sofa-app-feedstock.git
+	path = feedstocks/sofa-app
+	branch = refs/heads/main
