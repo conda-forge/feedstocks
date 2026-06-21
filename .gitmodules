@@ -114430,3 +114430,7 @@
 	url = https://github.com/conda-forge/sofa-python3-feedstock.git
 	path = feedstocks/sofa-python3
 	branch = refs/heads/main
+[submodule "sofa-stlib"]
+	url = https://github.com/conda-forge/sofa-stlib-feedstock.git
+	path = feedstocks/sofa-stlib
+	branch = refs/heads/main
