@@ -114454,3 +114454,7 @@
 	url = https://github.com/conda-forge/r-rcolorconesa-feedstock.git
 	path = feedstocks/r-rcolorconesa
 	branch = refs/heads/main
+[submodule "globalarrays"]
+	url = https://github.com/conda-forge/globalarrays-feedstock.git
+	path = feedstocks/globalarrays
+	branch = refs/heads/main
