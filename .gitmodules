@@ -114426,3 +114426,7 @@
 	url = https://github.com/conda-forge/magicjar-feedstock.git
 	path = feedstocks/magicjar
 	branch = refs/heads/main
+[submodule "sofa-python3"]
+	url = https://github.com/conda-forge/sofa-python3-feedstock.git
+	path = feedstocks/sofa-python3
+	branch = refs/heads/main
