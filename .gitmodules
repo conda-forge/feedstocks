@@ -114474,3 +114474,7 @@
 	url = https://github.com/conda-forge/sofa-glfw-feedstock.git
 	path = feedstocks/sofa-glfw
 	branch = refs/heads/main
+[submodule "sofa-modelorderreduction"]
+	url = https://github.com/conda-forge/sofa-modelorderreduction-feedstock.git
+	path = feedstocks/sofa-modelorderreduction
+	branch = refs/heads/main
