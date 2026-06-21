@@ -114410,3 +114410,7 @@
 	url = https://github.com/conda-forge/apple-container-feedstock.git
 	path = feedstocks/apple-container
 	branch = refs/heads/main
+[submodule "libserial"]
+	url = https://github.com/conda-forge/libserial-feedstock.git
+	path = feedstocks/libserial
+	branch = refs/heads/main
