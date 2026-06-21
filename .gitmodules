@@ -114502,3 +114502,7 @@
 	url = https://github.com/conda-forge/r-duckdbfs-feedstock.git
 	path = feedstocks/r-duckdbfs
 	branch = refs/heads/main
+[submodule "imgcat"]
+	url = https://github.com/conda-forge/imgcat-feedstock.git
+	path = feedstocks/imgcat
+	branch = refs/heads/main
