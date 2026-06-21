@@ -114442,3 +114442,7 @@
 	url = https://github.com/conda-forge/sofa-app-feedstock.git
 	path = feedstocks/sofa-app
 	branch = refs/heads/main
+[submodule "fsspec-union"]
+	url = https://github.com/conda-forge/fsspec-union-feedstock.git
+	path = feedstocks/fsspec-union
+	branch = refs/heads/main
