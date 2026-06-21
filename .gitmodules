@@ -114418,3 +114418,7 @@
 	url = https://github.com/conda-forge/impit-feedstock.git
 	path = feedstocks/impit
 	branch = refs/heads/main
+[submodule "dataclass-argparser"]
+	url = https://github.com/conda-forge/dataclass-argparser-feedstock.git
+	path = feedstocks/dataclass-argparser
+	branch = refs/heads/main
