@@ -114458,3 +114458,7 @@
 	url = https://github.com/conda-forge/globalarrays-feedstock.git
 	path = feedstocks/globalarrays
 	branch = refs/heads/main
+[submodule "fsspec-python"]
+	url = https://github.com/conda-forge/fsspec-python-feedstock.git
+	path = feedstocks/fsspec-python
+	branch = refs/heads/main
