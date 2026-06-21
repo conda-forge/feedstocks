@@ -114482,3 +114482,7 @@
 	url = https://github.com/conda-forge/sofa-cosserat-feedstock.git
 	path = feedstocks/sofa-cosserat
 	branch = refs/heads/main
+[submodule "lyric-py"]
+	url = https://github.com/conda-forge/lyric-py-feedstock.git
+	path = feedstocks/lyric-py
+	branch = refs/heads/main
