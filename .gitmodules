@@ -114466,3 +114466,7 @@
 	url = https://github.com/conda-forge/sofa-softrobotsinverse-feedstock.git
 	path = feedstocks/sofa-softrobotsinverse
 	branch = refs/heads/main
+[submodule "sofa-beamadapter"]
+	url = https://github.com/conda-forge/sofa-beamadapter-feedstock.git
+	path = feedstocks/sofa-beamadapter
+	branch = refs/heads/main
