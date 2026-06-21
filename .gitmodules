@@ -114498,3 +114498,7 @@
 	url = https://github.com/conda-forge/kraken-ocr-feedstock.git
 	path = feedstocks/kraken-ocr
 	branch = refs/heads/main
+[submodule "r-duckdbfs"]
+	url = https://github.com/conda-forge/r-duckdbfs-feedstock.git
+	path = feedstocks/r-duckdbfs
+	branch = refs/heads/main
