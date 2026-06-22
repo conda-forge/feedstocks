@@ -114514,3 +114514,7 @@
 	url = https://github.com/conda-forge/magika-cli-feedstock.git
 	path = feedstocks/magika-cli
 	branch = refs/heads/main
+[submodule "nokap"]
+	url = https://github.com/conda-forge/nokap-feedstock.git
+	path = feedstocks/nokap
+	branch = refs/heads/main
