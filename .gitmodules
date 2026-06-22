@@ -114518,3 +114518,7 @@
 	url = https://github.com/conda-forge/nokap-feedstock.git
 	path = feedstocks/nokap
 	branch = refs/heads/main
+[submodule "streamlit-cookies-controller"]
+	url = https://github.com/conda-forge/streamlit-cookies-controller-feedstock.git
+	path = feedstocks/streamlit-cookies-controller
+	branch = refs/heads/main
