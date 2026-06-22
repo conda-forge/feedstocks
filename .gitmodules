@@ -114530,3 +114530,7 @@
 	url = https://github.com/conda-forge/zapish-logger-feedstock.git
 	path = feedstocks/zapish-logger
 	branch = refs/heads/main
+[submodule "streamlit-js-eval"]
+	url = https://github.com/conda-forge/streamlit-js-eval-feedstock.git
+	path = feedstocks/streamlit-js-eval
+	branch = refs/heads/main
