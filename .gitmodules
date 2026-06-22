@@ -114542,3 +114542,7 @@
 	url = https://github.com/conda-forge/ccflow-celery-feedstock.git
 	path = feedstocks/ccflow-celery
 	branch = refs/heads/main
+[submodule "serial-cpp"]
+	url = https://github.com/conda-forge/serial-cpp-feedstock.git
+	path = feedstocks/serial-cpp
+	branch = refs/heads/main
