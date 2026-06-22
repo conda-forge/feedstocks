@@ -114510,3 +114510,7 @@
 	url = https://github.com/conda-forge/merman-cli-feedstock.git
 	path = feedstocks/merman-cli
 	branch = refs/heads/main
+[submodule "magika-cli"]
+	url = https://github.com/conda-forge/magika-cli-feedstock.git
+	path = feedstocks/magika-cli
+	branch = refs/heads/main
