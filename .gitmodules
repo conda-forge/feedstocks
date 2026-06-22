@@ -114522,3 +114522,7 @@
 	url = https://github.com/conda-forge/streamlit-cookies-controller-feedstock.git
 	path = feedstocks/streamlit-cookies-controller
 	branch = refs/heads/main
+[submodule "geolibre-wasm"]
+	url = https://github.com/conda-forge/geolibre-wasm-feedstock.git
+	path = feedstocks/geolibre-wasm
+	branch = refs/heads/main
