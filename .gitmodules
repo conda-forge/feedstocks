@@ -114554,3 +114554,7 @@
 	url = https://github.com/conda-forge/invocation-tree-feedstock.git
 	path = feedstocks/invocation-tree
 	branch = refs/heads/main
+[submodule "libxs"]
+	url = https://github.com/conda-forge/libxs-feedstock.git
+	path = feedstocks/libxs
+	branch = refs/heads/main
