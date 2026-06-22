@@ -114526,3 +114526,7 @@
 	url = https://github.com/conda-forge/geolibre-wasm-feedstock.git
 	path = feedstocks/geolibre-wasm
 	branch = refs/heads/main
+[submodule "zapish-logger"]
+	url = https://github.com/conda-forge/zapish-logger-feedstock.git
+	path = feedstocks/zapish-logger
+	branch = refs/heads/main
