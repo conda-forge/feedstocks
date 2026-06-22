@@ -114550,3 +114550,7 @@
 	url = https://github.com/conda-forge/ccflow-http-feedstock.git
 	path = feedstocks/ccflow-http
 	branch = refs/heads/main
+[submodule "invocation-tree"]
+	url = https://github.com/conda-forge/invocation-tree-feedstock.git
+	path = feedstocks/invocation-tree
+	branch = refs/heads/main
