@@ -114538,3 +114538,7 @@
 	url = https://github.com/conda-forge/mkdocs-swagger-ui-tag-feedstock.git
 	path = feedstocks/mkdocs-swagger-ui-tag
 	branch = refs/heads/main
+[submodule "ccflow-celery"]
+	url = https://github.com/conda-forge/ccflow-celery-feedstock.git
+	path = feedstocks/ccflow-celery
+	branch = refs/heads/main
