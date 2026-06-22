@@ -114558,3 +114558,7 @@
 	url = https://github.com/conda-forge/libxs-feedstock.git
 	path = feedstocks/libxs
 	branch = refs/heads/main
+[submodule "medpython"]
+	url = https://github.com/conda-forge/medpython-feedstock.git
+	path = feedstocks/medpython
+	branch = refs/heads/main
