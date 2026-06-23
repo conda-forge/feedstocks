@@ -114602,3 +114602,7 @@
 	url = https://github.com/conda-forge/primp-feedstock.git
 	path = feedstocks/primp
 	branch = refs/heads/main
+[submodule "pdfcat"]
+	url = https://github.com/conda-forge/pdfcat-feedstock.git
+	path = feedstocks/pdfcat
+	branch = refs/heads/main
