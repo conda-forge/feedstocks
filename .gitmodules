@@ -114570,3 +114570,7 @@
 	url = https://github.com/conda-forge/pybase62-feedstock.git
 	path = feedstocks/pybase62
 	branch = refs/heads/main
+[submodule "pymilvus-model"]
+	url = https://github.com/conda-forge/pymilvus-model-feedstock.git
+	path = feedstocks/pymilvus-model
+	branch = refs/heads/main
