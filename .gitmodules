@@ -114598,3 +114598,7 @@
 	url = https://github.com/conda-forge/types-aiobotocore-bedrock-runtime-feedstock.git
 	path = feedstocks/types-aiobotocore-bedrock-runtime
 	branch = refs/heads/main
+[submodule "primp"]
+	url = https://github.com/conda-forge/primp-feedstock.git
+	path = feedstocks/primp
+	branch = refs/heads/main
