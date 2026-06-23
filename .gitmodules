@@ -114594,3 +114594,7 @@
 	url = https://github.com/conda-forge/melange-feedstock.git
 	path = feedstocks/melange
 	branch = refs/heads/main
+[submodule "types-aiobotocore-bedrock-runtime"]
+	url = https://github.com/conda-forge/types-aiobotocore-bedrock-runtime-feedstock.git
+	path = feedstocks/types-aiobotocore-bedrock-runtime
+	branch = refs/heads/main
