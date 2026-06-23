@@ -114586,3 +114586,7 @@
 	url = https://github.com/conda-forge/lopt-feedstock.git
 	path = feedstocks/lopt
 	branch = refs/heads/main
+[submodule "mongomock-ng"]
+	url = https://github.com/conda-forge/mongomock-ng-feedstock.git
+	path = feedstocks/mongomock-ng
+	branch = refs/heads/main
