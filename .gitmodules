@@ -114582,3 +114582,7 @@
 	url = https://github.com/conda-forge/eventcv-feedstock.git
 	path = feedstocks/eventcv
 	branch = refs/heads/main
+[submodule "lopt"]
+	url = https://github.com/conda-forge/lopt-feedstock.git
+	path = feedstocks/lopt
+	branch = refs/heads/main
