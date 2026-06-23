@@ -114562,3 +114562,7 @@
 	url = https://github.com/conda-forge/medpython-feedstock.git
 	path = feedstocks/medpython
 	branch = refs/heads/main
+[submodule "rignore"]
+	url = https://github.com/conda-forge/rignore-feedstock.git
+	path = feedstocks/rignore
+	branch = refs/heads/main
