@@ -114590,3 +114590,7 @@
 	url = https://github.com/conda-forge/mongomock-ng-feedstock.git
 	path = feedstocks/mongomock-ng
 	branch = refs/heads/main
+[submodule "melange"]
+	url = https://github.com/conda-forge/melange-feedstock.git
+	path = feedstocks/melange
+	branch = refs/heads/main
