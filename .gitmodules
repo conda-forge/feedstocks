@@ -114574,3 +114574,7 @@
 	url = https://github.com/conda-forge/pymilvus-model-feedstock.git
 	path = feedstocks/pymilvus-model
 	branch = refs/heads/main
+[submodule "jsonquerylang"]
+	url = https://github.com/conda-forge/jsonquerylang-feedstock.git
+	path = feedstocks/jsonquerylang
+	branch = refs/heads/main
