@@ -114626,3 +114626,7 @@
 	url = https://github.com/conda-forge/bqplot-linlog-feedstock.git
 	path = feedstocks/bqplot-linlog
 	branch = refs/heads/main
+[submodule "usage"]
+	url = https://github.com/conda-forge/usage-feedstock.git
+	path = feedstocks/usage
+	branch = refs/heads/main
