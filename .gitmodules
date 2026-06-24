@@ -114630,3 +114630,7 @@
 	url = https://github.com/conda-forge/usage-feedstock.git
 	path = feedstocks/usage
 	branch = refs/heads/main
+[submodule "bioimage-py"]
+	url = https://github.com/conda-forge/bioimage-py-feedstock.git
+	path = feedstocks/bioimage-py
+	branch = refs/heads/main
