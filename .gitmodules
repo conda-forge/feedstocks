@@ -114610,3 +114610,7 @@
 	url = https://github.com/conda-forge/ibm-watsonx-orchestrate-core-feedstock.git
 	path = feedstocks/ibm-watsonx-orchestrate-core
 	branch = refs/heads/main
+[submodule "cargo-wix"]
+	url = https://github.com/conda-forge/cargo-wix-feedstock.git
+	path = feedstocks/cargo-wix
+	branch = refs/heads/main
