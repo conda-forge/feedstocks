@@ -114606,3 +114606,7 @@
 	url = https://github.com/conda-forge/pdfcat-feedstock.git
 	path = feedstocks/pdfcat
 	branch = refs/heads/main
+[submodule "ibm-watsonx-orchestrate-core"]
+	url = https://github.com/conda-forge/ibm-watsonx-orchestrate-core-feedstock.git
+	path = feedstocks/ibm-watsonx-orchestrate-core
+	branch = refs/heads/main
