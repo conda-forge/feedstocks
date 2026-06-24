@@ -114642,3 +114642,7 @@
 	url = https://github.com/conda-forge/cargo-mutants-feedstock.git
 	path = feedstocks/cargo-mutants
 	branch = refs/heads/main
+[submodule "autoreacter"]
+	url = https://github.com/conda-forge/autoreacter-feedstock.git
+	path = feedstocks/autoreacter
+	branch = refs/heads/main
