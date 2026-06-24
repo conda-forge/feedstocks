@@ -114622,3 +114622,7 @@
 	url = https://github.com/conda-forge/whirlwind-insar-feedstock.git
 	path = feedstocks/whirlwind-insar
 	branch = refs/heads/main
+[submodule "bqplot-linlog"]
+	url = https://github.com/conda-forge/bqplot-linlog-feedstock.git
+	path = feedstocks/bqplot-linlog
+	branch = refs/heads/main
