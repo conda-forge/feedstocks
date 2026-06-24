@@ -114634,3 +114634,7 @@
 	url = https://github.com/conda-forge/bioimage-py-feedstock.git
 	path = feedstocks/bioimage-py
 	branch = refs/heads/main
+[submodule "perseo-core"]
+	url = https://github.com/conda-forge/perseo-core-feedstock.git
+	path = feedstocks/perseo-core
+	branch = refs/heads/main
