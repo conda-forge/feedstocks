@@ -114682,3 +114682,7 @@
 	url = https://github.com/conda-forge/dune-justin-feedstock.git
 	path = feedstocks/dune-justin
 	branch = refs/heads/main
+[submodule "pyami-atlas"]
+	url = https://github.com/conda-forge/pyami-atlas-feedstock.git
+	path = feedstocks/pyami-atlas
+	branch = refs/heads/main
