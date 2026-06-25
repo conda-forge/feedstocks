@@ -114674,3 +114674,7 @@
 	url = https://github.com/conda-forge/nbplay-feedstock.git
 	path = feedstocks/nbplay
 	branch = refs/heads/main
+[submodule "algoliasearch"]
+	url = https://github.com/conda-forge/algoliasearch-feedstock.git
+	path = feedstocks/algoliasearch
+	branch = refs/heads/main
