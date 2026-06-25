@@ -114654,3 +114654,7 @@
 	url = https://github.com/conda-forge/ibm-cos-suite-feedstock.git
 	path = feedstocks/ibm-cos-suite
 	branch = refs/heads/main
+[submodule "dydantic"]
+	url = https://github.com/conda-forge/dydantic-feedstock.git
+	path = feedstocks/dydantic
+	branch = refs/heads/main
