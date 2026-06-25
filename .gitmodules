@@ -114658,3 +114658,7 @@
 	url = https://github.com/conda-forge/dydantic-feedstock.git
 	path = feedstocks/dydantic
 	branch = refs/heads/main
+[submodule "ddgs"]
+	url = https://github.com/conda-forge/ddgs-feedstock.git
+	path = feedstocks/ddgs
+	branch = refs/heads/main
