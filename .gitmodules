@@ -114662,3 +114662,7 @@
 	url = https://github.com/conda-forge/ddgs-feedstock.git
 	path = feedstocks/ddgs
 	branch = refs/heads/main
+[submodule "vlmrun-hub"]
+	url = https://github.com/conda-forge/vlmrun-hub-feedstock.git
+	path = feedstocks/vlmrun-hub
+	branch = refs/heads/main
