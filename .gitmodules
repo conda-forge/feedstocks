@@ -114650,3 +114650,7 @@
 	url = https://github.com/conda-forge/cargo-binstall-feedstock.git
 	path = feedstocks/cargo-binstall
 	branch = refs/heads/main
+[submodule "ibm-cos-suite"]
+	url = https://github.com/conda-forge/ibm-cos-suite-feedstock.git
+	path = feedstocks/ibm-cos-suite
+	branch = refs/heads/main
