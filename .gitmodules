@@ -114666,3 +114666,7 @@
 	url = https://github.com/conda-forge/vlmrun-hub-feedstock.git
 	path = feedstocks/vlmrun-hub
 	branch = refs/heads/main
+[submodule "wasm-bindgen-cli"]
+	url = https://github.com/conda-forge/wasm-bindgen-cli-feedstock.git
+	path = feedstocks/wasm-bindgen-cli
+	branch = refs/heads/main
