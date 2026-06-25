@@ -114670,3 +114670,7 @@
 	url = https://github.com/conda-forge/wasm-bindgen-cli-feedstock.git
 	path = feedstocks/wasm-bindgen-cli
 	branch = refs/heads/main
+[submodule "nbplay"]
+	url = https://github.com/conda-forge/nbplay-feedstock.git
+	path = feedstocks/nbplay
+	branch = refs/heads/main
