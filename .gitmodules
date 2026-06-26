@@ -114714,3 +114714,7 @@
 	url = https://github.com/conda-forge/bce-python-sdk-feedstock.git
 	path = feedstocks/bce-python-sdk
 	branch = refs/heads/main
+[submodule "apify-client"]
+	url = https://github.com/conda-forge/apify-client-feedstock.git
+	path = feedstocks/apify-client
+	branch = refs/heads/main
