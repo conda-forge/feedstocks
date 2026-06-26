@@ -114710,3 +114710,7 @@
 	url = https://github.com/conda-forge/google-cloud-vectorsearch-feedstock.git
 	path = feedstocks/google-cloud-vectorsearch
 	branch = refs/heads/main
+[submodule "bce-python-sdk"]
+	url = https://github.com/conda-forge/bce-python-sdk-feedstock.git
+	path = feedstocks/bce-python-sdk
+	branch = refs/heads/main
