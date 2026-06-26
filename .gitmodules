@@ -114706,3 +114706,7 @@
 	url = https://github.com/conda-forge/graph-retriever-feedstock.git
 	path = feedstocks/graph-retriever
 	branch = refs/heads/main
+[submodule "google-cloud-vectorsearch"]
+	url = https://github.com/conda-forge/google-cloud-vectorsearch-feedstock.git
+	path = feedstocks/google-cloud-vectorsearch
+	branch = refs/heads/main
