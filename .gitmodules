@@ -114718,3 +114718,7 @@
 	url = https://github.com/conda-forge/apify-client-feedstock.git
 	path = feedstocks/apify-client
 	branch = refs/heads/main
+[submodule "h2e"]
+	url = https://github.com/conda-forge/h2e-feedstock.git
+	path = feedstocks/h2e
+	branch = refs/heads/main
