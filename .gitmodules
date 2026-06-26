@@ -114694,3 +114694,7 @@
 	url = https://github.com/conda-forge/mypy-boto3-bedrock-runtime-feedstock.git
 	path = feedstocks/mypy-boto3-bedrock-runtime
 	branch = refs/heads/main
+[submodule "smokeping_prober"]
+	url = https://github.com/conda-forge/smokeping_prober-feedstock.git
+	path = feedstocks/smokeping_prober
+	branch = refs/heads/main
