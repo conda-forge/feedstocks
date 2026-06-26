@@ -114722,3 +114722,7 @@
 	url = https://github.com/conda-forge/h2e-feedstock.git
 	path = feedstocks/h2e
 	branch = refs/heads/main
+[submodule "millepede"]
+	url = https://github.com/conda-forge/millepede-feedstock.git
+	path = feedstocks/millepede
+	branch = refs/heads/main
