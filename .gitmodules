@@ -114702,3 +114702,7 @@
 	url = https://github.com/conda-forge/sambanova-feedstock.git
 	path = feedstocks/sambanova
 	branch = refs/heads/main
+[submodule "graph-retriever"]
+	url = https://github.com/conda-forge/graph-retriever-feedstock.git
+	path = feedstocks/graph-retriever
+	branch = refs/heads/main
