@@ -114746,3 +114746,7 @@
 	url = https://github.com/conda-forge/guidellm-feedstock.git
 	path = feedstocks/guidellm
 	branch = refs/heads/main
+[submodule "pyvae"]
+	url = https://github.com/conda-forge/pyvae-feedstock.git
+	path = feedstocks/pyvae
+	branch = refs/heads/main
