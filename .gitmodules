@@ -114734,3 +114734,7 @@
 	url = https://github.com/conda-forge/runai-model-streamer-feedstock.git
 	path = feedstocks/runai-model-streamer
 	branch = refs/heads/main
+[submodule "toybox"]
+	url = https://github.com/conda-forge/toybox-feedstock.git
+	path = feedstocks/toybox
+	branch = refs/heads/main
