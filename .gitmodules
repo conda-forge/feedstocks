@@ -114730,3 +114730,7 @@
 	url = https://github.com/conda-forge/cache-dit-feedstock.git
 	path = feedstocks/cache-dit
 	branch = refs/heads/main
+[submodule "runai-model-streamer"]
+	url = https://github.com/conda-forge/runai-model-streamer-feedstock.git
+	path = feedstocks/runai-model-streamer
+	branch = refs/heads/main
