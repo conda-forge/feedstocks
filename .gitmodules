@@ -114750,3 +114750,7 @@
 	url = https://github.com/conda-forge/pyvae-feedstock.git
 	path = feedstocks/pyvae
 	branch = refs/heads/main
+[submodule "helm-unittest"]
+	url = https://github.com/conda-forge/helm-unittest-feedstock.git
+	path = feedstocks/helm-unittest
+	branch = refs/heads/main
