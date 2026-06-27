@@ -114742,3 +114742,7 @@
 	url = https://github.com/conda-forge/smg-grpc-proto-feedstock.git
 	path = feedstocks/smg-grpc-proto
 	branch = refs/heads/main
+[submodule "guidellm"]
+	url = https://github.com/conda-forge/guidellm-feedstock.git
+	path = feedstocks/guidellm
+	branch = refs/heads/main
