@@ -114738,3 +114738,7 @@
 	url = https://github.com/conda-forge/toybox-feedstock.git
 	path = feedstocks/toybox
 	branch = refs/heads/main
+[submodule "smg-grpc-proto"]
+	url = https://github.com/conda-forge/smg-grpc-proto-feedstock.git
+	path = feedstocks/smg-grpc-proto
+	branch = refs/heads/main
