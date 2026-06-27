@@ -114754,3 +114754,7 @@
 	url = https://github.com/conda-forge/helm-unittest-feedstock.git
 	path = feedstocks/helm-unittest
 	branch = refs/heads/main
+[submodule "rsloop"]
+	url = https://github.com/conda-forge/rsloop-feedstock.git
+	path = feedstocks/rsloop
+	branch = refs/heads/main
