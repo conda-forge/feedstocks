@@ -114726,3 +114726,7 @@
 	url = https://github.com/conda-forge/millepede-feedstock.git
 	path = feedstocks/millepede
 	branch = refs/heads/main
+[submodule "cache-dit"]
+	url = https://github.com/conda-forge/cache-dit-feedstock.git
+	path = feedstocks/cache-dit
+	branch = refs/heads/main
