@@ -114758,3 +114758,7 @@
 	url = https://github.com/conda-forge/rsloop-feedstock.git
 	path = feedstocks/rsloop
 	branch = refs/heads/main
+[submodule "rustfits"]
+	url = https://github.com/conda-forge/rustfits-feedstock.git
+	path = feedstocks/rustfits
+	branch = refs/heads/main
