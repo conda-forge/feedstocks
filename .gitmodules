@@ -114802,3 +114802,7 @@
 	url = https://github.com/conda-forge/astrapy-feedstock.git
 	path = feedstocks/astrapy
 	branch = refs/heads/main
+[submodule "mqtt5"]
+	url = https://github.com/conda-forge/mqtt5-feedstock.git
+	path = feedstocks/mqtt5
+	branch = refs/heads/main
