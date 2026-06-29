@@ -114806,3 +114806,7 @@
 	url = https://github.com/conda-forge/mqtt5-feedstock.git
 	path = feedstocks/mqtt5
 	branch = refs/heads/main
+[submodule "wsidicomizer"]
+	url = https://github.com/conda-forge/wsidicomizer-feedstock.git
+	path = feedstocks/wsidicomizer
+	branch = refs/heads/main
