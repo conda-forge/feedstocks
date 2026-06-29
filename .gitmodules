@@ -114794,3 +114794,7 @@
 	url = https://github.com/conda-forge/kedro-great-expectations-feedstock.git
 	path = feedstocks/kedro-great-expectations
 	branch = refs/heads/main
+[submodule "upstash-vector"]
+	url = https://github.com/conda-forge/upstash-vector-feedstock.git
+	path = feedstocks/upstash-vector
+	branch = refs/heads/main
