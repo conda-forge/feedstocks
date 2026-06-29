@@ -114790,3 +114790,7 @@
 	url = https://github.com/conda-forge/lomond-feedstock.git
 	path = feedstocks/lomond
 	branch = refs/heads/main
+[submodule "kedro-great-expectations"]
+	url = https://github.com/conda-forge/kedro-great-expectations-feedstock.git
+	path = feedstocks/kedro-great-expectations
+	branch = refs/heads/main
