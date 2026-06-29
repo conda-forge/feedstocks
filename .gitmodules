@@ -114782,3 +114782,7 @@
 	url = https://github.com/conda-forge/coreai-opt-feedstock.git
 	path = feedstocks/coreai-opt
 	branch = refs/heads/main
+[submodule "nrg-pymars"]
+	url = https://github.com/conda-forge/nrg-pymars-feedstock.git
+	path = feedstocks/nrg-pymars
+	branch = refs/heads/main
