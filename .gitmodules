@@ -114834,3 +114834,7 @@
 	url = https://github.com/conda-forge/refscrub-feedstock.git
 	path = feedstocks/refscrub
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-aiokafka"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-aiokafka-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-aiokafka
+	branch = refs/heads/main
