@@ -114810,3 +114810,7 @@
 	url = https://github.com/conda-forge/wsidicomizer-feedstock.git
 	path = feedstocks/wsidicomizer
 	branch = refs/heads/main
+[submodule "streamflow"]
+	url = https://github.com/conda-forge/streamflow-feedstock.git
+	path = feedstocks/streamflow
+	branch = refs/heads/main
