@@ -114838,3 +114838,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-aiokafka-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-aiokafka
 	branch = refs/heads/main
+[submodule "pymecom"]
+	url = https://github.com/conda-forge/pymecom-feedstock.git
+	path = feedstocks/pymecom
+	branch = refs/heads/main
