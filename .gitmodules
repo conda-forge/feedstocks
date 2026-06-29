@@ -114770,3 +114770,7 @@
 	url = https://github.com/conda-forge/vecgeom-feedstock.git
 	path = feedstocks/vecgeom
 	branch = refs/heads/main
+[submodule "polars-io-tools"]
+	url = https://github.com/conda-forge/polars-io-tools-feedstock.git
+	path = feedstocks/polars-io-tools
+	branch = refs/heads/main
