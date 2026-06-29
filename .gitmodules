@@ -114814,3 +114814,7 @@
 	url = https://github.com/conda-forge/streamflow-feedstock.git
 	path = feedstocks/streamflow
 	branch = refs/heads/main
+[submodule "mseedpeek"]
+	url = https://github.com/conda-forge/mseedpeek-feedstock.git
+	path = feedstocks/mseedpeek
+	branch = refs/heads/main
