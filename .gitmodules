@@ -114830,3 +114830,7 @@
 	url = https://github.com/conda-forge/e2h-feedstock.git
 	path = feedstocks/e2h
 	branch = refs/heads/main
+[submodule "refscrub"]
+	url = https://github.com/conda-forge/refscrub-feedstock.git
+	path = feedstocks/refscrub
+	branch = refs/heads/main
