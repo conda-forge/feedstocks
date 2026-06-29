@@ -114774,3 +114774,7 @@
 	url = https://github.com/conda-forge/polars-io-tools-feedstock.git
 	path = feedstocks/polars-io-tools
 	branch = refs/heads/main
+[submodule "r-lisp"]
+	url = https://github.com/conda-forge/r-lisp-feedstock.git
+	path = feedstocks/r-lisp
+	branch = refs/heads/main
