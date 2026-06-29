@@ -114778,3 +114778,7 @@
 	url = https://github.com/conda-forge/r-lisp-feedstock.git
 	path = feedstocks/r-lisp
 	branch = refs/heads/main
+[submodule "coreai-opt"]
+	url = https://github.com/conda-forge/coreai-opt-feedstock.git
+	path = feedstocks/coreai-opt
+	branch = refs/heads/main
