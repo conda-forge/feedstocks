@@ -114822,3 +114822,7 @@
 	url = https://github.com/conda-forge/jupyter-workflow-feedstock.git
 	path = feedstocks/jupyter-workflow
 	branch = refs/heads/main
+[submodule "smg-grpc-servicer"]
+	url = https://github.com/conda-forge/smg-grpc-servicer-feedstock.git
+	path = feedstocks/smg-grpc-servicer
+	branch = refs/heads/main
