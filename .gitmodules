@@ -114826,3 +114826,7 @@
 	url = https://github.com/conda-forge/smg-grpc-servicer-feedstock.git
 	path = feedstocks/smg-grpc-servicer
 	branch = refs/heads/main
+[submodule "e2h"]
+	url = https://github.com/conda-forge/e2h-feedstock.git
+	path = feedstocks/e2h
+	branch = refs/heads/main
