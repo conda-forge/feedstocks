@@ -114766,3 +114766,7 @@
 	url = https://github.com/conda-forge/tbox-feedstock.git
 	path = feedstocks/tbox
 	branch = refs/heads/main
+[submodule "vecgeom"]
+	url = https://github.com/conda-forge/vecgeom-feedstock.git
+	path = feedstocks/vecgeom
+	branch = refs/heads/main
