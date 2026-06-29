@@ -114798,3 +114798,7 @@
 	url = https://github.com/conda-forge/upstash-vector-feedstock.git
 	path = feedstocks/upstash-vector
 	branch = refs/heads/main
+[submodule "astrapy"]
+	url = https://github.com/conda-forge/astrapy-feedstock.git
+	path = feedstocks/astrapy
+	branch = refs/heads/main
