@@ -114786,3 +114786,7 @@
 	url = https://github.com/conda-forge/nrg-pymars-feedstock.git
 	path = feedstocks/nrg-pymars
 	branch = refs/heads/main
+[submodule "lomond"]
+	url = https://github.com/conda-forge/lomond-feedstock.git
+	path = feedstocks/lomond
+	branch = refs/heads/main
