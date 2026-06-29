@@ -114818,3 +114818,7 @@
 	url = https://github.com/conda-forge/mseedpeek-feedstock.git
 	path = feedstocks/mseedpeek
 	branch = refs/heads/main
+[submodule "jupyter-workflow"]
+	url = https://github.com/conda-forge/jupyter-workflow-feedstock.git
+	path = feedstocks/jupyter-workflow
+	branch = refs/heads/main
