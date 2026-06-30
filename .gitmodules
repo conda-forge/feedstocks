@@ -114866,3 +114866,7 @@
 	url = https://github.com/conda-forge/transformez-feedstock.git
 	path = feedstocks/transformez
 	branch = refs/heads/main
+[submodule "pipcl"]
+	url = https://github.com/conda-forge/pipcl-feedstock.git
+	path = feedstocks/pipcl
+	branch = refs/heads/main
