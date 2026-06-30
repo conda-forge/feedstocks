@@ -114862,3 +114862,7 @@
 	url = https://github.com/conda-forge/livekit-local-inference-feedstock.git
 	path = feedstocks/livekit-local-inference
 	branch = refs/heads/main
+[submodule "transformez"]
+	url = https://github.com/conda-forge/transformez-feedstock.git
+	path = feedstocks/transformez
+	branch = refs/heads/main
