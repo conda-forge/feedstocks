@@ -114858,3 +114858,7 @@
 	url = https://github.com/conda-forge/jrl-cmakemodules-feedstock.git
 	path = feedstocks/jrl-cmakemodules
 	branch = refs/heads/main
+[submodule "livekit-local-inference"]
+	url = https://github.com/conda-forge/livekit-local-inference-feedstock.git
+	path = feedstocks/livekit-local-inference
+	branch = refs/heads/main
