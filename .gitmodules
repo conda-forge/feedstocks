@@ -114850,3 +114850,7 @@
 	url = https://github.com/conda-forge/superiso-feedstock.git
 	path = feedstocks/superiso
 	branch = refs/heads/main
+[submodule "r-openeo"]
+	url = https://github.com/conda-forge/r-openeo-feedstock.git
+	path = feedstocks/r-openeo
+	branch = refs/heads/main
