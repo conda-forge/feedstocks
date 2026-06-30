@@ -114854,3 +114854,7 @@
 	url = https://github.com/conda-forge/r-openeo-feedstock.git
 	path = feedstocks/r-openeo
 	branch = refs/heads/main
+[submodule "jrl-cmakemodules"]
+	url = https://github.com/conda-forge/jrl-cmakemodules-feedstock.git
+	path = feedstocks/jrl-cmakemodules
+	branch = refs/heads/main
