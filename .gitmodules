@@ -114898,3 +114898,7 @@
 	url = https://github.com/conda-forge/rt2ms-feedstock.git
 	path = feedstocks/rt2ms
 	branch = refs/heads/main
+[submodule "globato"]
+	url = https://github.com/conda-forge/globato-feedstock.git
+	path = feedstocks/globato
+	branch = refs/heads/main
