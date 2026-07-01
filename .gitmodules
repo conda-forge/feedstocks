@@ -114910,3 +114910,7 @@
 	url = https://github.com/conda-forge/assemblyai-feedstock.git
 	path = feedstocks/assemblyai
 	branch = refs/heads/main
+[submodule "torch-c-dlpack-ext"]
+	url = https://github.com/conda-forge/torch-c-dlpack-ext-feedstock.git
+	path = feedstocks/torch-c-dlpack-ext
+	branch = refs/heads/main
