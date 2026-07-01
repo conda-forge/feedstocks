@@ -114914,3 +114914,7 @@
 	url = https://github.com/conda-forge/torch-c-dlpack-ext-feedstock.git
 	path = feedstocks/torch-c-dlpack-ext
 	branch = refs/heads/main
+[submodule "fnox"]
+	url = https://github.com/conda-forge/fnox-feedstock.git
+	path = feedstocks/fnox
+	branch = refs/heads/main
