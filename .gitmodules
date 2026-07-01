@@ -114906,3 +114906,7 @@
 	url = https://github.com/conda-forge/cleanlab-tlm-feedstock.git
 	path = feedstocks/cleanlab-tlm
 	branch = refs/heads/main
+[submodule "assemblyai"]
+	url = https://github.com/conda-forge/assemblyai-feedstock.git
+	path = feedstocks/assemblyai
+	branch = refs/heads/main
