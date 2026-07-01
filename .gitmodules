@@ -114878,3 +114878,7 @@
 	url = https://github.com/conda-forge/nexus-passoft-feedstock.git
 	path = feedstocks/nexus-passoft
 	branch = refs/heads/main
+[submodule "lyric-py-worker"]
+	url = https://github.com/conda-forge/lyric-py-worker-feedstock.git
+	path = feedstocks/lyric-py-worker
+	branch = refs/heads/main
