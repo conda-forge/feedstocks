@@ -114870,3 +114870,7 @@
 	url = https://github.com/conda-forge/pipcl-feedstock.git
 	path = feedstocks/pipcl
 	branch = refs/heads/main
+[submodule "gmime"]
+	url = https://github.com/conda-forge/gmime-feedstock.git
+	path = feedstocks/gmime
+	branch = refs/heads/main
