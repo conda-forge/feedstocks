@@ -114882,3 +114882,7 @@
 	url = https://github.com/conda-forge/lyric-py-worker-feedstock.git
 	path = feedstocks/lyric-py-worker
 	branch = refs/heads/main
+[submodule "auto-gpt-plugin-template"]
+	url = https://github.com/conda-forge/auto-gpt-plugin-template-feedstock.git
+	path = feedstocks/auto-gpt-plugin-template
+	branch = refs/heads/main
