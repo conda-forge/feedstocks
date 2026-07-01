@@ -114902,3 +114902,7 @@
 	url = https://github.com/conda-forge/globato-feedstock.git
 	path = feedstocks/globato
 	branch = refs/heads/main
+[submodule "cleanlab-tlm"]
+	url = https://github.com/conda-forge/cleanlab-tlm-feedstock.git
+	path = feedstocks/cleanlab-tlm
+	branch = refs/heads/main
