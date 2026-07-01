@@ -114890,3 +114890,7 @@
 	url = https://github.com/conda-forge/mu-feedstock.git
 	path = feedstocks/mu
 	branch = refs/heads/main
+[submodule "uuid7"]
+	url = https://github.com/conda-forge/uuid7-feedstock.git
+	path = feedstocks/uuid7
+	branch = refs/heads/main
