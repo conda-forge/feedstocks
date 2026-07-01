@@ -114874,3 +114874,7 @@
 	url = https://github.com/conda-forge/gmime-feedstock.git
 	path = feedstocks/gmime
 	branch = refs/heads/main
+[submodule "nexus-passoft"]
+	url = https://github.com/conda-forge/nexus-passoft-feedstock.git
+	path = feedstocks/nexus-passoft
+	branch = refs/heads/main
