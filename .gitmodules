@@ -114886,3 +114886,7 @@
 	url = https://github.com/conda-forge/auto-gpt-plugin-template-feedstock.git
 	path = feedstocks/auto-gpt-plugin-template
 	branch = refs/heads/main
+[submodule "mu"]
+	url = https://github.com/conda-forge/mu-feedstock.git
+	path = feedstocks/mu
+	branch = refs/heads/main
