@@ -114938,3 +114938,7 @@
 	url = https://github.com/conda-forge/pitchfork-feedstock.git
 	path = feedstocks/pitchfork
 	branch = refs/heads/main
+[submodule "spml"]
+	url = https://github.com/conda-forge/spml-feedstock.git
+	path = feedstocks/spml
+	branch = refs/heads/main
