@@ -114930,3 +114930,7 @@
 	url = https://github.com/conda-forge/communique-feedstock.git
 	path = feedstocks/communique
 	branch = refs/heads/main
+[submodule "xmake"]
+	url = https://github.com/conda-forge/xmake-feedstock.git
+	path = feedstocks/xmake
+	branch = refs/heads/main
