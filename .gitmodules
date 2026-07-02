@@ -114922,3 +114922,7 @@
 	url = https://github.com/conda-forge/rig-feedstock.git
 	path = feedstocks/rig
 	branch = refs/heads/main
+[submodule "arf"]
+	url = https://github.com/conda-forge/arf-feedstock.git
+	path = feedstocks/arf
+	branch = refs/heads/main
