@@ -114926,3 +114926,7 @@
 	url = https://github.com/conda-forge/arf-feedstock.git
 	path = feedstocks/arf
 	branch = refs/heads/main
+[submodule "communique"]
+	url = https://github.com/conda-forge/communique-feedstock.git
+	path = feedstocks/communique
+	branch = refs/heads/main
