@@ -114934,3 +114934,7 @@
 	url = https://github.com/conda-forge/xmake-feedstock.git
 	path = feedstocks/xmake
 	branch = refs/heads/main
+[submodule "pitchfork"]
+	url = https://github.com/conda-forge/pitchfork-feedstock.git
+	path = feedstocks/pitchfork
+	branch = refs/heads/main
