@@ -114950,3 +114950,7 @@
 	url = https://github.com/conda-forge/django-fsm-2-feedstock.git
 	path = feedstocks/django-fsm-2
 	branch = refs/heads/main
+[submodule "xkbcomp"]
+	url = https://github.com/conda-forge/xkbcomp-feedstock.git
+	path = feedstocks/xkbcomp
+	branch = refs/heads/main
