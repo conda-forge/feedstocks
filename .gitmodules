@@ -114954,3 +114954,7 @@
 	url = https://github.com/conda-forge/xkbcomp-feedstock.git
 	path = feedstocks/xkbcomp
 	branch = refs/heads/main
+[submodule "xorg-xvfb-server"]
+	url = https://github.com/conda-forge/xorg-xvfb-server-feedstock.git
+	path = feedstocks/xorg-xvfb-server
+	branch = refs/heads/main
