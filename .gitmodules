@@ -114958,3 +114958,7 @@
 	url = https://github.com/conda-forge/xorg-xvfb-server-feedstock.git
 	path = feedstocks/xorg-xvfb-server
 	branch = refs/heads/main
+[submodule "libxfont2"]
+	url = https://github.com/conda-forge/libxfont2-feedstock.git
+	path = feedstocks/libxfont2
+	branch = refs/heads/main
