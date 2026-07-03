@@ -114942,3 +114942,7 @@
 	url = https://github.com/conda-forge/spml-feedstock.git
 	path = feedstocks/spml
 	branch = refs/heads/main
+[submodule "pymatgen-io-aims"]
+	url = https://github.com/conda-forge/pymatgen-io-aims-feedstock.git
+	path = feedstocks/pymatgen-io-aims
+	branch = refs/heads/main
