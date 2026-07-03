@@ -114962,3 +114962,7 @@
 	url = https://github.com/conda-forge/libxfont2-feedstock.git
 	path = feedstocks/libxfont2
 	branch = refs/heads/main
+[submodule "libfontenc"]
+	url = https://github.com/conda-forge/libfontenc-feedstock.git
+	path = feedstocks/libfontenc
+	branch = refs/heads/main
