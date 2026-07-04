@@ -114974,3 +114974,7 @@
 	url = https://github.com/conda-forge/kanata-feedstock.git
 	path = feedstocks/kanata
 	branch = refs/heads/main
+[submodule "doclang"]
+	url = https://github.com/conda-forge/doclang-feedstock.git
+	path = feedstocks/doclang
+	branch = refs/heads/main
