@@ -115026,3 +115026,7 @@
 	url = https://github.com/conda-forge/thepeg-feedstock.git
 	path = feedstocks/thepeg
 	branch = refs/heads/main
+[submodule "rave"]
+	url = https://github.com/conda-forge/rave-feedstock.git
+	path = feedstocks/rave
+	branch = refs/heads/main
