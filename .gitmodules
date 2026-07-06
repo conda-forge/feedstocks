@@ -114998,3 +114998,7 @@
 	url = https://github.com/conda-forge/fish-kernel-feedstock.git
 	path = feedstocks/fish-kernel
 	branch = refs/heads/main
+[submodule "dbdreader"]
+	url = https://github.com/conda-forge/dbdreader-feedstock.git
+	path = feedstocks/dbdreader
+	branch = refs/heads/main
