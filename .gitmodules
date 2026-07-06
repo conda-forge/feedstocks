@@ -115030,3 +115030,7 @@
 	url = https://github.com/conda-forge/rave-feedstock.git
 	path = feedstocks/rave
 	branch = refs/heads/main
+[submodule "robodk"]
+	url = https://github.com/conda-forge/robodk-feedstock.git
+	path = feedstocks/robodk
+	branch = refs/heads/main
