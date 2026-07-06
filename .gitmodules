@@ -114994,3 +114994,7 @@
 	url = https://github.com/conda-forge/scservo-feedstock.git
 	path = feedstocks/scservo
 	branch = refs/heads/main
+[submodule "fish-kernel"]
+	url = https://github.com/conda-forge/fish-kernel-feedstock.git
+	path = feedstocks/fish-kernel
+	branch = refs/heads/main
