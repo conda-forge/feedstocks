@@ -115050,3 +115050,7 @@
 	url = https://github.com/conda-forge/r-gsynth-feedstock.git
 	path = feedstocks/r-gsynth
 	branch = refs/heads/main
+[submodule "gplite"]
+	url = https://github.com/conda-forge/gplite-feedstock.git
+	path = feedstocks/gplite
+	branch = refs/heads/main
