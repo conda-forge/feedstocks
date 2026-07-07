@@ -115034,3 +115034,7 @@
 	url = https://github.com/conda-forge/robodk-feedstock.git
 	path = feedstocks/robodk
 	branch = refs/heads/main
+[submodule "zsh-jupyter-kernel"]
+	url = https://github.com/conda-forge/zsh-jupyter-kernel-feedstock.git
+	path = feedstocks/zsh-jupyter-kernel
+	branch = refs/heads/main
