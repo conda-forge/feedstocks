@@ -115074,3 +115074,7 @@
 	url = https://github.com/conda-forge/caf.mat-feedstock.git
 	path = feedstocks/caf.mat
 	branch = refs/heads/main
+[submodule "box3d"]
+	url = https://github.com/conda-forge/box3d-feedstock.git
+	path = feedstocks/box3d
+	branch = refs/heads/main
