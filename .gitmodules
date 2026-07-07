@@ -115054,3 +115054,7 @@
 	url = https://github.com/conda-forge/gplite-feedstock.git
 	path = feedstocks/gplite
 	branch = refs/heads/main
+[submodule "python-string-utils"]
+	url = https://github.com/conda-forge/python-string-utils-feedstock.git
+	path = feedstocks/python-string-utils
+	branch = refs/heads/main
