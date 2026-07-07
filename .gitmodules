@@ -115042,3 +115042,7 @@
 	url = https://github.com/conda-forge/r-synth-feedstock.git
 	path = feedstocks/r-synth
 	branch = refs/heads/main
+[submodule "r-fect"]
+	url = https://github.com/conda-forge/r-fect-feedstock.git
+	path = feedstocks/r-fect
+	branch = refs/heads/main
