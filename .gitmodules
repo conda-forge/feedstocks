@@ -115078,3 +115078,7 @@
 	url = https://github.com/conda-forge/box3d-feedstock.git
 	path = feedstocks/box3d
 	branch = refs/heads/main
+[submodule "cgsmiles"]
+	url = https://github.com/conda-forge/cgsmiles-feedstock.git
+	path = feedstocks/cgsmiles
+	branch = refs/heads/main
