@@ -115066,3 +115066,7 @@
 	url = https://github.com/conda-forge/r-panelview-feedstock.git
 	path = feedstocks/r-panelview
 	branch = refs/heads/main
+[submodule "openshift"]
+	url = https://github.com/conda-forge/openshift-feedstock.git
+	path = feedstocks/openshift
+	branch = refs/heads/main
