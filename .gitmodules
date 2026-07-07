@@ -115038,3 +115038,7 @@
 	url = https://github.com/conda-forge/zsh-jupyter-kernel-feedstock.git
 	path = feedstocks/zsh-jupyter-kernel
 	branch = refs/heads/main
+[submodule "r-synth"]
+	url = https://github.com/conda-forge/r-synth-feedstock.git
+	path = feedstocks/r-synth
+	branch = refs/heads/main
