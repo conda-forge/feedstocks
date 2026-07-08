@@ -115118,3 +115118,7 @@
 	url = https://github.com/conda-forge/jarl-feedstock.git
 	path = feedstocks/jarl
 	branch = refs/heads/main
+[submodule "sphinx-rustdoc-postprocess"]
+	url = https://github.com/conda-forge/sphinx-rustdoc-postprocess-feedstock.git
+	path = feedstocks/sphinx-rustdoc-postprocess
+	branch = refs/heads/main
