@@ -115082,3 +115082,7 @@
 	url = https://github.com/conda-forge/cgsmiles-feedstock.git
 	path = feedstocks/cgsmiles
 	branch = refs/heads/main
+[submodule "aube"]
+	url = https://github.com/conda-forge/aube-feedstock.git
+	path = feedstocks/aube
+	branch = refs/heads/main
