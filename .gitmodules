@@ -115094,3 +115094,7 @@
 	url = https://github.com/conda-forge/ad-feedstock.git
 	path = feedstocks/ad
 	branch = refs/heads/main
+[submodule "probsamplers"]
+	url = https://github.com/conda-forge/probsamplers-feedstock.git
+	path = feedstocks/probsamplers
+	branch = refs/heads/main
