@@ -115142,3 +115142,7 @@
 	url = https://github.com/conda-forge/chemparseplot-feedstock.git
 	path = feedstocks/chemparseplot
 	branch = refs/heads/main
+[submodule "r-dcifer"]
+	url = https://github.com/conda-forge/r-dcifer-feedstock.git
+	path = feedstocks/r-dcifer
+	branch = refs/heads/main
