@@ -115134,3 +115134,7 @@
 	url = https://github.com/conda-forge/anneal-feedstock.git
 	path = feedstocks/anneal
 	branch = refs/heads/main
+[submodule "pytest-pep723"]
+	url = https://github.com/conda-forge/pytest-pep723-feedstock.git
+	path = feedstocks/pytest-pep723
+	branch = refs/heads/main
