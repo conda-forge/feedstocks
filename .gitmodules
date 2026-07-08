@@ -115106,3 +115106,7 @@
 	url = https://github.com/conda-forge/sohviewer-feedstock.git
 	path = feedstocks/sohviewer
 	branch = refs/heads/main
+[submodule "ansh"]
+	url = https://github.com/conda-forge/ansh-feedstock.git
+	path = feedstocks/ansh
+	branch = refs/heads/main
