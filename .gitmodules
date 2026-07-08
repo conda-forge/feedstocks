@@ -115090,3 +115090,7 @@
 	url = https://github.com/conda-forge/dateme-feedstock.git
 	path = feedstocks/dateme
 	branch = refs/heads/main
+[submodule "ad"]
+	url = https://github.com/conda-forge/ad-feedstock.git
+	path = feedstocks/ad
+	branch = refs/heads/main
