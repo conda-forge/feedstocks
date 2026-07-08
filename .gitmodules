@@ -115146,3 +115146,7 @@
 	url = https://github.com/conda-forge/r-dcifer-feedstock.git
 	path = feedstocks/r-dcifer
 	branch = refs/heads/main
+[submodule "pyflowy"]
+	url = https://github.com/conda-forge/pyflowy-feedstock.git
+	path = feedstocks/pyflowy
+	branch = refs/heads/main
