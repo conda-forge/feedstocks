@@ -115130,3 +115130,7 @@
 	url = https://github.com/conda-forge/rgpycrumbs-feedstock.git
 	path = feedstocks/rgpycrumbs
 	branch = refs/heads/main
+[submodule "anneal"]
+	url = https://github.com/conda-forge/anneal-feedstock.git
+	path = feedstocks/anneal
+	branch = refs/heads/main
