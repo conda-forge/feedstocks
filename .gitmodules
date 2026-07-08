@@ -115150,3 +115150,7 @@
 	url = https://github.com/conda-forge/pyflowy-feedstock.git
 	path = feedstocks/pyflowy
 	branch = refs/heads/main
+[submodule "fastspec"]
+	url = https://github.com/conda-forge/fastspec-feedstock.git
+	path = feedstocks/fastspec
+	branch = refs/heads/main
