@@ -115122,3 +115122,7 @@
 	url = https://github.com/conda-forge/sphinx-rustdoc-postprocess-feedstock.git
 	path = feedstocks/sphinx-rustdoc-postprocess
 	branch = refs/heads/main
+[submodule "pychum"]
+	url = https://github.com/conda-forge/pychum-feedstock.git
+	path = feedstocks/pychum
+	branch = refs/heads/main
