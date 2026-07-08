@@ -115126,3 +115126,7 @@
 	url = https://github.com/conda-forge/pychum-feedstock.git
 	path = feedstocks/pychum
 	branch = refs/heads/main
+[submodule "rgpycrumbs"]
+	url = https://github.com/conda-forge/rgpycrumbs-feedstock.git
+	path = feedstocks/rgpycrumbs
+	branch = refs/heads/main
