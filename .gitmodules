@@ -115114,3 +115114,7 @@
 	url = https://github.com/conda-forge/splunk-sdk-feedstock.git
 	path = feedstocks/splunk-sdk
 	branch = refs/heads/main
+[submodule "jarl"]
+	url = https://github.com/conda-forge/jarl-feedstock.git
+	path = feedstocks/jarl
+	branch = refs/heads/main
