@@ -115110,3 +115110,7 @@
 	url = https://github.com/conda-forge/ansh-feedstock.git
 	path = feedstocks/ansh
 	branch = refs/heads/main
+[submodule "splunk-sdk"]
+	url = https://github.com/conda-forge/splunk-sdk-feedstock.git
+	path = feedstocks/splunk-sdk
+	branch = refs/heads/main
