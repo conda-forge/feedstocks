@@ -115162,3 +115162,7 @@
 	url = https://github.com/conda-forge/entire-feedstock.git
 	path = feedstocks/entire
 	branch = refs/heads/main
+[submodule "weave-merge"]
+	url = https://github.com/conda-forge/weave-merge-feedstock.git
+	path = feedstocks/weave-merge
+	branch = refs/heads/main
