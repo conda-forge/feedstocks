@@ -115154,3 +115154,7 @@
 	url = https://github.com/conda-forge/fastspec-feedstock.git
 	path = feedstocks/fastspec
 	branch = refs/heads/main
+[submodule "numba-cuda-mlir"]
+	url = https://github.com/conda-forge/numba-cuda-mlir-feedstock.git
+	path = feedstocks/numba-cuda-mlir
+	branch = refs/heads/main
