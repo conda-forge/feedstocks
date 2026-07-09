@@ -115166,3 +115166,7 @@
 	url = https://github.com/conda-forge/weave-merge-feedstock.git
 	path = feedstocks/weave-merge
 	branch = refs/heads/main
+[submodule "ncarnate"]
+	url = https://github.com/conda-forge/ncarnate-feedstock.git
+	path = feedstocks/ncarnate
+	branch = refs/heads/main
