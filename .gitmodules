@@ -115158,3 +115158,7 @@
 	url = https://github.com/conda-forge/numba-cuda-mlir-feedstock.git
 	path = feedstocks/numba-cuda-mlir
 	branch = refs/heads/main
+[submodule "entire"]
+	url = https://github.com/conda-forge/entire-feedstock.git
+	path = feedstocks/entire
+	branch = refs/heads/main
