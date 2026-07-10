@@ -115214,3 +115214,7 @@
 	url = https://github.com/conda-forge/skymap-convert-feedstock.git
 	path = feedstocks/skymap-convert
 	branch = refs/heads/main
+[submodule "yggdrasil-python-rapidjson"]
+	url = https://github.com/conda-forge/yggdrasil-python-rapidjson-feedstock.git
+	path = feedstocks/yggdrasil-python-rapidjson
+	branch = refs/heads/main
