@@ -115182,3 +115182,7 @@
 	url = https://github.com/conda-forge/r-smooth-feedstock.git
 	path = feedstocks/r-smooth
 	branch = refs/heads/main
+[submodule "doiggie"]
+	url = https://github.com/conda-forge/doiggie-feedstock.git
+	path = feedstocks/doiggie
+	branch = refs/heads/main
