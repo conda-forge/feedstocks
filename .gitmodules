@@ -115174,3 +115174,7 @@
 	url = https://github.com/conda-forge/dressrun-feedstock.git
 	path = feedstocks/dressrun
 	branch = refs/heads/main
+[submodule "reaktoro-pse"]
+	url = https://github.com/conda-forge/reaktoro-pse-feedstock.git
+	path = feedstocks/reaktoro-pse
+	branch = refs/heads/main
