@@ -115178,3 +115178,7 @@
 	url = https://github.com/conda-forge/reaktoro-pse-feedstock.git
 	path = feedstocks/reaktoro-pse
 	branch = refs/heads/main
+[submodule "r-smooth"]
+	url = https://github.com/conda-forge/r-smooth-feedstock.git
+	path = feedstocks/r-smooth
+	branch = refs/heads/main
