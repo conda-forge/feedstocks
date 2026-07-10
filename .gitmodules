@@ -115194,3 +115194,7 @@
 	url = https://github.com/conda-forge/doiggie-dataverse-feedstock.git
 	path = feedstocks/doiggie-dataverse
 	branch = refs/heads/main
+[submodule "doiggie-figshare"]
+	url = https://github.com/conda-forge/doiggie-figshare-feedstock.git
+	path = feedstocks/doiggie-figshare
+	branch = refs/heads/main
