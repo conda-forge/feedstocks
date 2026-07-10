@@ -115190,3 +115190,7 @@
 	url = https://github.com/conda-forge/fawltydeps-feedstock.git
 	path = feedstocks/fawltydeps
 	branch = refs/heads/main
+[submodule "doiggie-dataverse"]
+	url = https://github.com/conda-forge/doiggie-dataverse-feedstock.git
+	path = feedstocks/doiggie-dataverse
+	branch = refs/heads/main
