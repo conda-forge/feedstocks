@@ -115206,3 +115206,7 @@
 	url = https://github.com/conda-forge/xhycom-feedstock.git
 	path = feedstocks/xhycom
 	branch = refs/heads/main
+[submodule "lsdb-rubin"]
+	url = https://github.com/conda-forge/lsdb-rubin-feedstock.git
+	path = feedstocks/lsdb-rubin
+	branch = refs/heads/main
