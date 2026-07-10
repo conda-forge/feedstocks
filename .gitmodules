@@ -115218,3 +115218,7 @@
 	url = https://github.com/conda-forge/yggdrasil-python-rapidjson-feedstock.git
 	path = feedstocks/yggdrasil-python-rapidjson
 	branch = refs/heads/main
+[submodule "pyadjoint"]
+	url = https://github.com/conda-forge/pyadjoint-feedstock.git
+	path = feedstocks/pyadjoint
+	branch = refs/heads/main
