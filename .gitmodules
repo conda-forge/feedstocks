@@ -115210,3 +115210,7 @@
 	url = https://github.com/conda-forge/lsdb-rubin-feedstock.git
 	path = feedstocks/lsdb-rubin
 	branch = refs/heads/main
+[submodule "skymap-convert"]
+	url = https://github.com/conda-forge/skymap-convert-feedstock.git
+	path = feedstocks/skymap-convert
+	branch = refs/heads/main
