@@ -115226,3 +115226,7 @@
 	url = https://github.com/conda-forge/pyintent-feedstock.git
 	path = feedstocks/pyintent
 	branch = refs/heads/main
+[submodule "dlnr-lite"]
+	url = https://github.com/conda-forge/dlnr-lite-feedstock.git
+	path = feedstocks/dlnr-lite
+	branch = refs/heads/main
