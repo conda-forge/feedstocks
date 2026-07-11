@@ -115230,3 +115230,7 @@
 	url = https://github.com/conda-forge/dlnr-lite-feedstock.git
 	path = feedstocks/dlnr-lite
 	branch = refs/heads/main
+[submodule "json-logic"]
+	url = https://github.com/conda-forge/json-logic-feedstock.git
+	path = feedstocks/json-logic
+	branch = refs/heads/main
