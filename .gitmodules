@@ -115238,3 +115238,7 @@
 	url = https://github.com/conda-forge/dash-seqviz-feedstock.git
 	path = feedstocks/dash-seqviz
 	branch = refs/heads/main
+[submodule "mlflow-autogluon"]
+	url = https://github.com/conda-forge/mlflow-autogluon-feedstock.git
+	path = feedstocks/mlflow-autogluon
+	branch = refs/heads/main
