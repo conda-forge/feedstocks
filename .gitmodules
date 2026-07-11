@@ -115234,3 +115234,7 @@
 	url = https://github.com/conda-forge/json-logic-feedstock.git
 	path = feedstocks/json-logic
 	branch = refs/heads/main
+[submodule "dash-seqviz"]
+	url = https://github.com/conda-forge/dash-seqviz-feedstock.git
+	path = feedstocks/dash-seqviz
+	branch = refs/heads/main
