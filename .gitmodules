@@ -115250,3 +115250,7 @@
 	url = https://github.com/conda-forge/gfnff-feedstock.git
 	path = feedstocks/gfnff
 	branch = refs/heads/main
+[submodule "tol-colors"]
+	url = https://github.com/conda-forge/tol-colors-feedstock.git
+	path = feedstocks/tol-colors
+	branch = refs/heads/main
