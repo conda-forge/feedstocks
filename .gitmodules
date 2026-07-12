@@ -115246,3 +115246,7 @@
 	url = https://github.com/conda-forge/pyglenn-feedstock.git
 	path = feedstocks/pyglenn
 	branch = refs/heads/main
+[submodule "gfnff"]
+	url = https://github.com/conda-forge/gfnff-feedstock.git
+	path = feedstocks/gfnff
+	branch = refs/heads/main
