@@ -115242,3 +115242,7 @@
 	url = https://github.com/conda-forge/mlflow-autogluon-feedstock.git
 	path = feedstocks/mlflow-autogluon
 	branch = refs/heads/main
+[submodule "pyglenn"]
+	url = https://github.com/conda-forge/pyglenn-feedstock.git
+	path = feedstocks/pyglenn
+	branch = refs/heads/main
