@@ -115266,3 +115266,7 @@
 	url = https://github.com/conda-forge/trame-radial-menu-feedstock.git
 	path = feedstocks/trame-radial-menu
 	branch = refs/heads/main
+[submodule "langchain-weaviate"]
+	url = https://github.com/conda-forge/langchain-weaviate-feedstock.git
+	path = feedstocks/langchain-weaviate
+	branch = refs/heads/main
