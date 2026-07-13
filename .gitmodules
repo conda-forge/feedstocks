@@ -115270,3 +115270,7 @@
 	url = https://github.com/conda-forge/langchain-weaviate-feedstock.git
 	path = feedstocks/langchain-weaviate
 	branch = refs/heads/main
+[submodule "geant4-vmc"]
+	url = https://github.com/conda-forge/geant4-vmc-feedstock.git
+	path = feedstocks/geant4-vmc
+	branch = refs/heads/main
