@@ -115254,3 +115254,7 @@
 	url = https://github.com/conda-forge/tol-colors-feedstock.git
 	path = feedstocks/tol-colors
 	branch = refs/heads/main
+[submodule "r-missranger"]
+	url = https://github.com/conda-forge/r-missranger-feedstock.git
+	path = feedstocks/r-missranger
+	branch = refs/heads/main
