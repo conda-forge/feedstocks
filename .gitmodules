@@ -115258,3 +115258,7 @@
 	url = https://github.com/conda-forge/r-missranger-feedstock.git
 	path = feedstocks/r-missranger
 	branch = refs/heads/main
+[submodule "umfive"]
+	url = https://github.com/conda-forge/umfive-feedstock.git
+	path = feedstocks/umfive
+	branch = refs/heads/main
