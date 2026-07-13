@@ -115274,3 +115274,7 @@
 	url = https://github.com/conda-forge/geant4-vmc-feedstock.git
 	path = feedstocks/geant4-vmc
 	branch = refs/heads/main
+[submodule "detect-agent"]
+	url = https://github.com/conda-forge/detect-agent-feedstock.git
+	path = feedstocks/detect-agent
+	branch = refs/heads/main
