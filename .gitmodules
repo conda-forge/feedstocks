@@ -115294,3 +115294,7 @@
 	url = https://github.com/conda-forge/r-slope-feedstock.git
 	path = feedstocks/r-slope
 	branch = refs/heads/main
+[submodule "py-trees"]
+	url = https://github.com/conda-forge/py-trees-feedstock.git
+	path = feedstocks/py-trees
+	branch = refs/heads/main
