@@ -115298,3 +115298,7 @@
 	url = https://github.com/conda-forge/py-trees-feedstock.git
 	path = feedstocks/py-trees
 	branch = refs/heads/main
+[submodule "pint-cf"]
+	url = https://github.com/conda-forge/pint-cf-feedstock.git
+	path = feedstocks/pint-cf
+	branch = refs/heads/main
