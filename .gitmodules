@@ -115290,3 +115290,7 @@
 	url = https://github.com/conda-forge/r-rphylopic-feedstock.git
 	path = feedstocks/r-rphylopic
 	branch = refs/heads/main
+[submodule "r-slope"]
+	url = https://github.com/conda-forge/r-slope-feedstock.git
+	path = feedstocks/r-slope
+	branch = refs/heads/main
