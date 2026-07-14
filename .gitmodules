@@ -115314,3 +115314,7 @@
 	url = https://github.com/conda-forge/idaes-flowsheet-processor-feedstock.git
 	path = feedstocks/idaes-flowsheet-processor
 	branch = refs/heads/main
+[submodule "pytest-pilot"]
+	url = https://github.com/conda-forge/pytest-pilot-feedstock.git
+	path = feedstocks/pytest-pilot
+	branch = refs/heads/main
