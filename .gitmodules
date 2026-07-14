@@ -115278,3 +115278,7 @@
 	url = https://github.com/conda-forge/detect-agent-feedstock.git
 	path = feedstocks/detect-agent
 	branch = refs/heads/main
+[submodule "ivert"]
+	url = https://github.com/conda-forge/ivert-feedstock.git
+	path = feedstocks/ivert
+	branch = refs/heads/main
