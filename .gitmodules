@@ -115310,3 +115310,7 @@
 	url = https://github.com/conda-forge/trustcall-feedstock.git
 	path = feedstocks/trustcall
 	branch = refs/heads/main
+[submodule "idaes-flowsheet-processor"]
+	url = https://github.com/conda-forge/idaes-flowsheet-processor-feedstock.git
+	path = feedstocks/idaes-flowsheet-processor
+	branch = refs/heads/main
