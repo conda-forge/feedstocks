@@ -115302,3 +115302,7 @@
 	url = https://github.com/conda-forge/pint-cf-feedstock.git
 	path = feedstocks/pint-cf
 	branch = refs/heads/main
+[submodule "gdalxarray"]
+	url = https://github.com/conda-forge/gdalxarray-feedstock.git
+	path = feedstocks/gdalxarray
+	branch = refs/heads/main
