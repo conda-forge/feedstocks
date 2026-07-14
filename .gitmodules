@@ -115326,3 +115326,7 @@
 	url = https://github.com/conda-forge/langflow-feedstock.git
 	path = feedstocks/langflow
 	branch = refs/heads/main
+[submodule "wenmode"]
+	url = https://github.com/conda-forge/wenmode-feedstock.git
+	path = feedstocks/wenmode
+	branch = refs/heads/main
