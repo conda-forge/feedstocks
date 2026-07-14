@@ -115322,3 +115322,7 @@
 	url = https://github.com/conda-forge/retriever-core-feedstock.git
 	path = feedstocks/retriever-core
 	branch = refs/heads/main
+[submodule "langflow"]
+	url = https://github.com/conda-forge/langflow-feedstock.git
+	path = feedstocks/langflow
+	branch = refs/heads/main
