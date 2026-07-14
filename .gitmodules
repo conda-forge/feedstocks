@@ -115318,3 +115318,7 @@
 	url = https://github.com/conda-forge/pytest-pilot-feedstock.git
 	path = feedstocks/pytest-pilot
 	branch = refs/heads/main
+[submodule "retriever-core"]
+	url = https://github.com/conda-forge/retriever-core-feedstock.git
+	path = feedstocks/retriever-core
+	branch = refs/heads/main
