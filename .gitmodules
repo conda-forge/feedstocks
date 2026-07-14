@@ -115282,3 +115282,7 @@
 	url = https://github.com/conda-forge/ivert-feedstock.git
 	path = feedstocks/ivert
 	branch = refs/heads/main
+[submodule "pydantic-ai-trace"]
+	url = https://github.com/conda-forge/pydantic-ai-trace-feedstock.git
+	path = feedstocks/pydantic-ai-trace
+	branch = refs/heads/main
