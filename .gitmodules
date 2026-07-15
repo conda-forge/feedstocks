@@ -115334,3 +115334,7 @@
 	url = https://github.com/conda-forge/amzn-sagemaker-ray-feedstock.git
 	path = feedstocks/amzn-sagemaker-ray
 	branch = refs/heads/main
+[submodule "gfw-api-python-client"]
+	url = https://github.com/conda-forge/gfw-api-python-client-feedstock.git
+	path = feedstocks/gfw-api-python-client
+	branch = refs/heads/main
