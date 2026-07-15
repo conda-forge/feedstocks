@@ -115346,3 +115346,7 @@
 	url = https://github.com/conda-forge/pypowder-feedstock.git
 	path = feedstocks/pypowder
 	branch = refs/heads/main
+[submodule "biaplotter"]
+	url = https://github.com/conda-forge/biaplotter-feedstock.git
+	path = feedstocks/biaplotter
+	branch = refs/heads/main
