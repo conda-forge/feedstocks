@@ -115350,3 +115350,7 @@
 	url = https://github.com/conda-forge/biaplotter-feedstock.git
 	path = feedstocks/biaplotter
 	branch = refs/heads/main
+[submodule "napari-phasors"]
+	url = https://github.com/conda-forge/napari-phasors-feedstock.git
+	path = feedstocks/napari-phasors
+	branch = refs/heads/main
