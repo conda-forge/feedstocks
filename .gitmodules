@@ -115342,3 +115342,7 @@
 	url = https://github.com/conda-forge/eniccs-feedstock.git
 	path = feedstocks/eniccs
 	branch = refs/heads/main
+[submodule "pypowder"]
+	url = https://github.com/conda-forge/pypowder-feedstock.git
+	path = feedstocks/pypowder
+	branch = refs/heads/main
