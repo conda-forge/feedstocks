@@ -115354,3 +115354,7 @@
 	url = https://github.com/conda-forge/napari-phasors-feedstock.git
 	path = feedstocks/napari-phasors
 	branch = refs/heads/main
+[submodule "rsop"]
+	url = https://github.com/conda-forge/rsop-feedstock.git
+	path = feedstocks/rsop
+	branch = refs/heads/main
