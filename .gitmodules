@@ -115338,3 +115338,7 @@
 	url = https://github.com/conda-forge/gfw-api-python-client-feedstock.git
 	path = feedstocks/gfw-api-python-client
 	branch = refs/heads/main
+[submodule "eniccs"]
+	url = https://github.com/conda-forge/eniccs-feedstock.git
+	path = feedstocks/eniccs
+	branch = refs/heads/main
