@@ -115374,3 +115374,7 @@
 	url = https://github.com/conda-forge/directx-shader-compiler-feedstock.git
 	path = feedstocks/directx-shader-compiler
 	branch = refs/heads/main
+[submodule "directx-headers"]
+	url = https://github.com/conda-forge/directx-headers-feedstock.git
+	path = feedstocks/directx-headers
+	branch = refs/heads/main
