@@ -115378,3 +115378,7 @@
 	url = https://github.com/conda-forge/directx-headers-feedstock.git
 	path = feedstocks/directx-headers
 	branch = refs/heads/main
+[submodule "office2pdf"]
+	url = https://github.com/conda-forge/office2pdf-feedstock.git
+	path = feedstocks/office2pdf
+	branch = refs/heads/main
