@@ -115370,3 +115370,7 @@
 	url = https://github.com/conda-forge/db-gpt-feedstock.git
 	path = feedstocks/db-gpt
 	branch = refs/heads/main
+[submodule "directx-shader-compiler"]
+	url = https://github.com/conda-forge/directx-shader-compiler-feedstock.git
+	path = feedstocks/directx-shader-compiler
+	branch = refs/heads/main
