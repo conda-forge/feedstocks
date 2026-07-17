@@ -115426,3 +115426,7 @@
 	url = https://github.com/conda-forge/imdtrack-feedstock.git
 	path = feedstocks/imdtrack
 	branch = refs/heads/main
+[submodule "python-substrait-extensions"]
+	url = https://github.com/conda-forge/python-substrait-extensions-feedstock.git
+	path = feedstocks/python-substrait-extensions
+	branch = refs/heads/main
