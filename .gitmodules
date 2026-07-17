@@ -115394,3 +115394,7 @@
 	url = https://github.com/conda-forge/ansible-dev-environment-feedstock.git
 	path = feedstocks/ansible-dev-environment
 	branch = refs/heads/main
+[submodule "ansible-sign"]
+	url = https://github.com/conda-forge/ansible-sign-feedstock.git
+	path = feedstocks/ansible-sign
+	branch = refs/heads/main
