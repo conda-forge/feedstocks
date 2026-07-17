@@ -115422,3 +115422,7 @@
 	url = https://github.com/conda-forge/bindep-feedstock.git
 	path = feedstocks/bindep
 	branch = refs/heads/main
+[submodule "imdtrack"]
+	url = https://github.com/conda-forge/imdtrack-feedstock.git
+	path = feedstocks/imdtrack
+	branch = refs/heads/main
