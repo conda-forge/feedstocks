@@ -115434,3 +115434,7 @@
 	url = https://github.com/conda-forge/python-substrait-protobuf-feedstock.git
 	path = feedstocks/python-substrait-protobuf
 	branch = refs/heads/main
+[submodule "python-substrait-antlr"]
+	url = https://github.com/conda-forge/python-substrait-antlr-feedstock.git
+	path = feedstocks/python-substrait-antlr
+	branch = refs/heads/main
