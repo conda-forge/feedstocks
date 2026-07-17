@@ -115406,3 +115406,7 @@
 	url = https://github.com/conda-forge/ansible-inventory-grapher-feedstock.git
 	path = feedstocks/ansible-inventory-grapher
 	branch = refs/heads/main
+[submodule "scrubadub"]
+	url = https://github.com/conda-forge/scrubadub-feedstock.git
+	path = feedstocks/scrubadub
+	branch = refs/heads/main
