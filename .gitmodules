@@ -115398,3 +115398,7 @@
 	url = https://github.com/conda-forge/ansible-sign-feedstock.git
 	path = feedstocks/ansible-sign
 	branch = refs/heads/main
+[submodule "ansible-builder"]
+	url = https://github.com/conda-forge/ansible-builder-feedstock.git
+	path = feedstocks/ansible-builder
+	branch = refs/heads/main
