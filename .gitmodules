@@ -115414,3 +115414,7 @@
 	url = https://github.com/conda-forge/zxing-cpp-python-feedstock.git
 	path = feedstocks/zxing-cpp-python
 	branch = refs/heads/main
+[submodule "ansible-creator"]
+	url = https://github.com/conda-forge/ansible-creator-feedstock.git
+	path = feedstocks/ansible-creator
+	branch = refs/heads/main
