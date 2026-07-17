@@ -115390,3 +115390,7 @@
 	url = https://github.com/conda-forge/ansible-aap-api-client-feedstock.git
 	path = feedstocks/ansible-aap-api-client
 	branch = refs/heads/main
+[submodule "ansible-dev-environment"]
+	url = https://github.com/conda-forge/ansible-dev-environment-feedstock.git
+	path = feedstocks/ansible-dev-environment
+	branch = refs/heads/main
