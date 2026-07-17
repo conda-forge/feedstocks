@@ -115450,3 +115450,7 @@
 	url = https://github.com/conda-forge/langchain-ibm-feedstock.git
 	path = feedstocks/langchain-ibm
 	branch = refs/heads/main
+[submodule "ibm-watsonx-ai"]
+	url = https://github.com/conda-forge/ibm-watsonx-ai-feedstock.git
+	path = feedstocks/ibm-watsonx-ai
+	branch = refs/heads/main
