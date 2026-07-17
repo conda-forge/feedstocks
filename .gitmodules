@@ -115402,3 +115402,7 @@
 	url = https://github.com/conda-forge/ansible-builder-feedstock.git
 	path = feedstocks/ansible-builder
 	branch = refs/heads/main
+[submodule "ansible-inventory-grapher"]
+	url = https://github.com/conda-forge/ansible-inventory-grapher-feedstock.git
+	path = feedstocks/ansible-inventory-grapher
+	branch = refs/heads/main
