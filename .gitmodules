@@ -115438,3 +115438,7 @@
 	url = https://github.com/conda-forge/python-substrait-antlr-feedstock.git
 	path = feedstocks/python-substrait-antlr
 	branch = refs/heads/main
+[submodule "cargo-semver-checks"]
+	url = https://github.com/conda-forge/cargo-semver-checks-feedstock.git
+	path = feedstocks/cargo-semver-checks
+	branch = refs/heads/main
