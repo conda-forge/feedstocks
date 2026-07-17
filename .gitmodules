@@ -115446,3 +115446,7 @@
 	url = https://github.com/conda-forge/gb-robot-models-feedstock.git
 	path = feedstocks/gb-robot-models
 	branch = refs/heads/main
+[submodule "langchain-ibm"]
+	url = https://github.com/conda-forge/langchain-ibm-feedstock.git
+	path = feedstocks/langchain-ibm
+	branch = refs/heads/main
