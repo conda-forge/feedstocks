@@ -115382,3 +115382,7 @@
 	url = https://github.com/conda-forge/office2pdf-feedstock.git
 	path = feedstocks/office2pdf
 	branch = refs/heads/main
+[submodule "speculators"]
+	url = https://github.com/conda-forge/speculators-feedstock.git
+	path = feedstocks/speculators
+	branch = refs/heads/main
