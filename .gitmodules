@@ -115410,3 +115410,7 @@
 	url = https://github.com/conda-forge/scrubadub-feedstock.git
 	path = feedstocks/scrubadub
 	branch = refs/heads/main
+[submodule "zxing-cpp-python"]
+	url = https://github.com/conda-forge/zxing-cpp-python-feedstock.git
+	path = feedstocks/zxing-cpp-python
+	branch = refs/heads/main
