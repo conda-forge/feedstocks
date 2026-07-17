@@ -115386,3 +115386,7 @@
 	url = https://github.com/conda-forge/speculators-feedstock.git
 	path = feedstocks/speculators
 	branch = refs/heads/main
+[submodule "ansible-aap-api-client"]
+	url = https://github.com/conda-forge/ansible-aap-api-client-feedstock.git
+	path = feedstocks/ansible-aap-api-client
+	branch = refs/heads/main
