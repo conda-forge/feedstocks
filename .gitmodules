@@ -115418,3 +115418,7 @@
 	url = https://github.com/conda-forge/ansible-creator-feedstock.git
 	path = feedstocks/ansible-creator
 	branch = refs/heads/main
+[submodule "bindep"]
+	url = https://github.com/conda-forge/bindep-feedstock.git
+	path = feedstocks/bindep
+	branch = refs/heads/main
