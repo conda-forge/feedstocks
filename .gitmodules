@@ -115454,3 +115454,7 @@
 	url = https://github.com/conda-forge/ibm-watsonx-ai-feedstock.git
 	path = feedstocks/ibm-watsonx-ai
 	branch = refs/heads/main
+[submodule "r-henna"]
+	url = https://github.com/conda-forge/r-henna-feedstock.git
+	path = feedstocks/r-henna
+	branch = refs/heads/main
