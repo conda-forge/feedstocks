@@ -115430,3 +115430,7 @@
 	url = https://github.com/conda-forge/python-substrait-extensions-feedstock.git
 	path = feedstocks/python-substrait-extensions
 	branch = refs/heads/main
+[submodule "python-substrait-protobuf"]
+	url = https://github.com/conda-forge/python-substrait-protobuf-feedstock.git
+	path = feedstocks/python-substrait-protobuf
+	branch = refs/heads/main
