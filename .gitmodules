@@ -115478,3 +115478,7 @@
 	url = https://github.com/conda-forge/wailord-feedstock.git
 	path = feedstocks/wailord
 	branch = refs/heads/main
+[submodule "lume-torch"]
+	url = https://github.com/conda-forge/lume-torch-feedstock.git
+	path = feedstocks/lume-torch
+	branch = refs/heads/main
