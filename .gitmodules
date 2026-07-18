@@ -115466,3 +115466,7 @@
 	url = https://github.com/conda-forge/planktonclas-base-feedstock.git
 	path = feedstocks/planktonclas-base
 	branch = refs/heads/main
+[submodule "cellpycore"]
+	url = https://github.com/conda-forge/cellpycore-feedstock.git
+	path = feedstocks/cellpycore
+	branch = refs/heads/main
