@@ -115470,3 +115470,7 @@
 	url = https://github.com/conda-forge/cellpycore-feedstock.git
 	path = feedstocks/cellpycore
 	branch = refs/heads/main
+[submodule "lume-bmad"]
+	url = https://github.com/conda-forge/lume-bmad-feedstock.git
+	path = feedstocks/lume-bmad
+	branch = refs/heads/main
