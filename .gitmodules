@@ -115482,3 +115482,7 @@
 	url = https://github.com/conda-forge/lume-torch-feedstock.git
 	path = feedstocks/lume-torch
 	branch = refs/heads/main
+[submodule "solvax"]
+	url = https://github.com/conda-forge/solvax-feedstock.git
+	path = feedstocks/solvax
+	branch = refs/heads/main
