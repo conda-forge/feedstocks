@@ -115506,3 +115506,7 @@
 	url = https://github.com/conda-forge/cvmfs-feedstock.git
 	path = feedstocks/cvmfs
 	branch = refs/heads/main
+[submodule "pacparser"]
+	url = https://github.com/conda-forge/pacparser-feedstock.git
+	path = feedstocks/pacparser
+	branch = refs/heads/main
