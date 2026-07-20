@@ -115502,3 +115502,7 @@
 	url = https://github.com/conda-forge/tau-ai-feedstock.git
 	path = feedstocks/tau-ai
 	branch = refs/heads/main
+[submodule "cvmfs"]
+	url = https://github.com/conda-forge/cvmfs-feedstock.git
+	path = feedstocks/cvmfs
+	branch = refs/heads/main
