@@ -115494,3 +115494,7 @@
 	url = https://github.com/conda-forge/tomlq-feedstock.git
 	path = feedstocks/tomlq
 	branch = refs/heads/main
+[submodule "types-boto3-secretsmanager"]
+	url = https://github.com/conda-forge/types-boto3-secretsmanager-feedstock.git
+	path = feedstocks/types-boto3-secretsmanager
+	branch = refs/heads/main
