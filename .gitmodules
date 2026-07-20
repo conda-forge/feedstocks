@@ -115518,3 +115518,7 @@
 	url = https://github.com/conda-forge/t3d-feedstock.git
 	path = feedstocks/t3d
 	branch = refs/heads/main
+[submodule "openamundsen-da"]
+	url = https://github.com/conda-forge/openamundsen-da-feedstock.git
+	path = feedstocks/openamundsen-da
+	branch = refs/heads/main
