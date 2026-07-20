@@ -115498,3 +115498,7 @@
 	url = https://github.com/conda-forge/types-boto3-secretsmanager-feedstock.git
 	path = feedstocks/types-boto3-secretsmanager
 	branch = refs/heads/main
+[submodule "tau-ai"]
+	url = https://github.com/conda-forge/tau-ai-feedstock.git
+	path = feedstocks/tau-ai
+	branch = refs/heads/main
