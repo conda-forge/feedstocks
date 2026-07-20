@@ -115514,3 +115514,7 @@
 	url = https://github.com/conda-forge/dolfinx-adjoint-feedstock.git
 	path = feedstocks/dolfinx-adjoint
 	branch = refs/heads/main
+[submodule "t3d"]
+	url = https://github.com/conda-forge/t3d-feedstock.git
+	path = feedstocks/t3d
+	branch = refs/heads/main
