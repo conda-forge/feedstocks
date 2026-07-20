@@ -115526,3 +115526,7 @@
 	url = https://github.com/conda-forge/xeo-feedstock.git
 	path = feedstocks/xeo
 	branch = refs/heads/main
+[submodule "mergen-doe"]
+	url = https://github.com/conda-forge/mergen-doe-feedstock.git
+	path = feedstocks/mergen-doe
+	branch = refs/heads/main
