@@ -115486,3 +115486,7 @@
 	url = https://github.com/conda-forge/solvax-feedstock.git
 	path = feedstocks/solvax
 	branch = refs/heads/main
+[submodule "amzn-sagemaker-ray-jupyterlab-extension"]
+	url = https://github.com/conda-forge/amzn-sagemaker-ray-jupyterlab-extension-feedstock.git
+	path = feedstocks/amzn-sagemaker-ray-jupyterlab-extension
+	branch = refs/heads/main
