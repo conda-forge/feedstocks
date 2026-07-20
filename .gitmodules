@@ -115510,3 +115510,7 @@
 	url = https://github.com/conda-forge/pacparser-feedstock.git
 	path = feedstocks/pacparser
 	branch = refs/heads/main
+[submodule "dolfinx-adjoint"]
+	url = https://github.com/conda-forge/dolfinx-adjoint-feedstock.git
+	path = feedstocks/dolfinx-adjoint
+	branch = refs/heads/main
