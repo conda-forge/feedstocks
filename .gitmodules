@@ -115534,3 +115534,7 @@
 	url = https://github.com/conda-forge/zemaxglass-feedstock.git
 	path = feedstocks/zemaxglass
 	branch = refs/heads/main
+[submodule "mathics3-pygments"]
+	url = https://github.com/conda-forge/mathics3-pygments-feedstock.git
+	path = feedstocks/mathics3-pygments
+	branch = refs/heads/main
