@@ -115490,3 +115490,7 @@
 	url = https://github.com/conda-forge/amzn-sagemaker-ray-jupyterlab-extension-feedstock.git
 	path = feedstocks/amzn-sagemaker-ray-jupyterlab-extension
 	branch = refs/heads/main
+[submodule "tomlq"]
+	url = https://github.com/conda-forge/tomlq-feedstock.git
+	path = feedstocks/tomlq
+	branch = refs/heads/main
