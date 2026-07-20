@@ -115522,3 +115522,7 @@
 	url = https://github.com/conda-forge/openamundsen-da-feedstock.git
 	path = feedstocks/openamundsen-da
 	branch = refs/heads/main
+[submodule "xeo"]
+	url = https://github.com/conda-forge/xeo-feedstock.git
+	path = feedstocks/xeo
+	branch = refs/heads/main
