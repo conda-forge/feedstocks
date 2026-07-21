@@ -115550,3 +115550,7 @@
 	url = https://github.com/conda-forge/r-treesitter-feedstock.git
 	path = feedstocks/r-treesitter
 	branch = refs/heads/main
+[submodule "r-mantar"]
+	url = https://github.com/conda-forge/r-mantar-feedstock.git
+	path = feedstocks/r-mantar
+	branch = refs/heads/main
