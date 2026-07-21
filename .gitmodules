@@ -115542,3 +115542,7 @@
 	url = https://github.com/conda-forge/r-iq-feedstock.git
 	path = feedstocks/r-iq
 	branch = refs/heads/main
+[submodule "r-clarabel"]
+	url = https://github.com/conda-forge/r-clarabel-feedstock.git
+	path = feedstocks/r-clarabel
+	branch = refs/heads/main
