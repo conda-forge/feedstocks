@@ -115558,3 +115558,7 @@
 	url = https://github.com/conda-forge/r-tigerr-feedstock.git
 	path = feedstocks/r-tigerr
 	branch = refs/heads/main
+[submodule "pgqueuer"]
+	url = https://github.com/conda-forge/pgqueuer-feedstock.git
+	path = feedstocks/pgqueuer
+	branch = refs/heads/main
