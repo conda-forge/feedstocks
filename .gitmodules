@@ -115578,3 +115578,7 @@
 	url = https://github.com/conda-forge/reprotrail-feedstock.git
 	path = feedstocks/reprotrail
 	branch = refs/heads/main
+[submodule "zmxtools"]
+	url = https://github.com/conda-forge/zmxtools-feedstock.git
+	path = feedstocks/zmxtools
+	branch = refs/heads/main
