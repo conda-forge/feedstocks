@@ -115570,3 +115570,7 @@
 	url = https://github.com/conda-forge/piecewise-rational-feedstock.git
 	path = feedstocks/piecewise-rational
 	branch = refs/heads/main
+[submodule "cody-special"]
+	url = https://github.com/conda-forge/cody-special-feedstock.git
+	path = feedstocks/cody-special
+	branch = refs/heads/main
