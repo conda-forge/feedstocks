@@ -115546,3 +115546,7 @@
 	url = https://github.com/conda-forge/r-clarabel-feedstock.git
 	path = feedstocks/r-clarabel
 	branch = refs/heads/main
+[submodule "r-treesitter"]
+	url = https://github.com/conda-forge/r-treesitter-feedstock.git
+	path = feedstocks/r-treesitter
+	branch = refs/heads/main
