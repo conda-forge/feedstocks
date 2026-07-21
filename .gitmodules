@@ -115562,3 +115562,7 @@
 	url = https://github.com/conda-forge/pgqueuer-feedstock.git
 	path = feedstocks/pgqueuer
 	branch = refs/heads/main
+[submodule "wigners"]
+	url = https://github.com/conda-forge/wigners-feedstock.git
+	path = feedstocks/wigners
+	branch = refs/heads/main
