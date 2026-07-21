@@ -115566,3 +115566,7 @@
 	url = https://github.com/conda-forge/wigners-feedstock.git
 	path = feedstocks/wigners
 	branch = refs/heads/main
+[submodule "piecewise-rational"]
+	url = https://github.com/conda-forge/piecewise-rational-feedstock.git
+	path = feedstocks/piecewise-rational
+	branch = refs/heads/main
