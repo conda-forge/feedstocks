@@ -115594,3 +115594,7 @@
 	url = https://github.com/conda-forge/xnetcdf-feedstock.git
 	path = feedstocks/xnetcdf
 	branch = refs/heads/main
+[submodule "mathic3-frontend-cli"]
+	url = https://github.com/conda-forge/mathic3-frontend-cli-feedstock.git
+	path = feedstocks/mathic3-frontend-cli
+	branch = refs/heads/main
