@@ -115590,3 +115590,7 @@
 	url = https://github.com/conda-forge/nmlform-feedstock.git
 	path = feedstocks/nmlform
 	branch = refs/heads/main
+[submodule "xnetcdf"]
+	url = https://github.com/conda-forge/xnetcdf-feedstock.git
+	path = feedstocks/xnetcdf
+	branch = refs/heads/main
