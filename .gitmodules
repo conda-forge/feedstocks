@@ -115582,3 +115582,7 @@
 	url = https://github.com/conda-forge/zmxtools-feedstock.git
 	path = feedstocks/zmxtools
 	branch = refs/heads/main
+[submodule "metricflow"]
+	url = https://github.com/conda-forge/metricflow-feedstock.git
+	path = feedstocks/metricflow
+	branch = refs/heads/main
