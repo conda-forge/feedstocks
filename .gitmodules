@@ -115630,3 +115630,7 @@
 	url = https://github.com/conda-forge/adataviz-feedstock.git
 	path = feedstocks/adataviz
 	branch = refs/heads/main
+[submodule "elaston"]
+	url = https://github.com/conda-forge/elaston-feedstock.git
+	path = feedstocks/elaston
+	branch = refs/heads/main
