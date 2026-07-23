@@ -115618,3 +115618,7 @@
 	url = https://github.com/conda-forge/libtraceevent-feedstock.git
 	path = feedstocks/libtraceevent
 	branch = refs/heads/main
+[submodule "gedih3"]
+	url = https://github.com/conda-forge/gedih3-feedstock.git
+	path = feedstocks/gedih3
+	branch = refs/heads/main
