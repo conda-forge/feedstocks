@@ -115622,3 +115622,7 @@
 	url = https://github.com/conda-forge/gedih3-feedstock.git
 	path = feedstocks/gedih3
 	branch = refs/heads/main
+[submodule "mathics3-frontend-cli"]
+	url = https://github.com/conda-forge/mathics3-frontend-cli-feedstock.git
+	path = feedstocks/mathics3-frontend-cli
+	branch = refs/heads/main
