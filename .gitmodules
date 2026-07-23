@@ -115602,3 +115602,7 @@
 	url = https://github.com/conda-forge/libevdev-feedstock.git
 	path = feedstocks/libevdev
 	branch = refs/heads/main
+[submodule "moonshine"]
+	url = https://github.com/conda-forge/moonshine-feedstock.git
+	path = feedstocks/moonshine
+	branch = refs/heads/main
