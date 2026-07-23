@@ -115634,3 +115634,7 @@
 	url = https://github.com/conda-forge/elaston-feedstock.git
 	path = feedstocks/elaston
 	branch = refs/heads/main
+[submodule "phepex"]
+	url = https://github.com/conda-forge/phepex-feedstock.git
+	path = feedstocks/phepex
+	branch = refs/heads/main
