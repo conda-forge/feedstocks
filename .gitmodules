@@ -115626,3 +115626,7 @@
 	url = https://github.com/conda-forge/mathics3-frontend-cli-feedstock.git
 	path = feedstocks/mathics3-frontend-cli
 	branch = refs/heads/main
+[submodule "adataviz"]
+	url = https://github.com/conda-forge/adataviz-feedstock.git
+	path = feedstocks/adataviz
+	branch = refs/heads/main
