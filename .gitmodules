@@ -115606,3 +115606,7 @@
 	url = https://github.com/conda-forge/moonshine-feedstock.git
 	path = feedstocks/moonshine
 	branch = refs/heads/main
+[submodule "aiatresp"]
+	url = https://github.com/conda-forge/aiatresp-feedstock.git
+	path = feedstocks/aiatresp
+	branch = refs/heads/main
