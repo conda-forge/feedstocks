@@ -115598,3 +115598,7 @@
 	url = https://github.com/conda-forge/mathic3-frontend-cli-feedstock.git
 	path = feedstocks/mathic3-frontend-cli
 	branch = refs/heads/main
+[submodule "libevdev"]
+	url = https://github.com/conda-forge/libevdev-feedstock.git
+	path = feedstocks/libevdev
+	branch = refs/heads/main
