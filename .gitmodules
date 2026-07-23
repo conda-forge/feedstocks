@@ -115614,3 +115614,7 @@
 	url = https://github.com/conda-forge/pydata-wrangler-feedstock.git
 	path = feedstocks/pydata-wrangler
 	branch = refs/heads/main
+[submodule "libtraceevent"]
+	url = https://github.com/conda-forge/libtraceevent-feedstock.git
+	path = feedstocks/libtraceevent
+	branch = refs/heads/main
