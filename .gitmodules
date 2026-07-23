@@ -115610,3 +115610,7 @@
 	url = https://github.com/conda-forge/aiatresp-feedstock.git
 	path = feedstocks/aiatresp
 	branch = refs/heads/main
+[submodule "pydata-wrangler"]
+	url = https://github.com/conda-forge/pydata-wrangler-feedstock.git
+	path = feedstocks/pydata-wrangler
+	branch = refs/heads/main
