@@ -115642,3 +115642,7 @@
 	url = https://github.com/conda-forge/jbig2enc-feedstock.git
 	path = feedstocks/jbig2enc
 	branch = refs/heads/main
+[submodule "rtfunicode"]
+	url = https://github.com/conda-forge/rtfunicode-feedstock.git
+	path = feedstocks/rtfunicode
+	branch = refs/heads/main
