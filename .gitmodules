@@ -115650,3 +115650,7 @@
 	url = https://github.com/conda-forge/extension-ray-jupyterlab-sagemaker-ai-feedstock.git
 	path = feedstocks/extension-ray-jupyterlab-sagemaker-ai
 	branch = refs/heads/main
+[submodule "toolkit-for-ray-on-sagemaker-ai"]
+	url = https://github.com/conda-forge/toolkit-for-ray-on-sagemaker-ai-feedstock.git
+	path = feedstocks/toolkit-for-ray-on-sagemaker-ai
+	branch = refs/heads/main
