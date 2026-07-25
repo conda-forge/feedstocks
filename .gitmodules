@@ -115646,3 +115646,7 @@
 	url = https://github.com/conda-forge/rtfunicode-feedstock.git
 	path = feedstocks/rtfunicode
 	branch = refs/heads/main
+[submodule "extension-ray-jupyterlab-sagemaker-ai"]
+	url = https://github.com/conda-forge/extension-ray-jupyterlab-sagemaker-ai-feedstock.git
+	path = feedstocks/extension-ray-jupyterlab-sagemaker-ai
+	branch = refs/heads/main
