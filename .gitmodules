@@ -115654,3 +115654,7 @@
 	url = https://github.com/conda-forge/toolkit-for-ray-on-sagemaker-ai-feedstock.git
 	path = feedstocks/toolkit-for-ray-on-sagemaker-ai
 	branch = refs/heads/main
+[submodule "pixi-mise"]
+	url = https://github.com/conda-forge/pixi-mise-feedstock.git
+	path = feedstocks/pixi-mise
+	branch = refs/heads/main
