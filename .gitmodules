@@ -115698,3 +115698,7 @@
 	url = https://github.com/conda-forge/msglc-feedstock.git
 	path = feedstocks/msglc
 	branch = refs/heads/main
+[submodule "shader-slang"]
+	url = https://github.com/conda-forge/shader-slang-feedstock.git
+	path = feedstocks/shader-slang
+	branch = refs/heads/main
