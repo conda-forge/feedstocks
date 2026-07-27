@@ -115706,3 +115706,7 @@
 	url = https://github.com/conda-forge/griffe2md-feedstock.git
 	path = feedstocks/griffe2md
 	branch = refs/heads/main
+[submodule "edge-tts"]
+	url = https://github.com/conda-forge/edge-tts-feedstock.git
+	path = feedstocks/edge-tts
+	branch = refs/heads/main
