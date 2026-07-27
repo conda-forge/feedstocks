@@ -115742,3 +115742,7 @@
 	url = https://github.com/conda-forge/git-xet-feedstock.git
 	path = feedstocks/git-xet
 	branch = refs/heads/main
+[submodule "spider-client"]
+	url = https://github.com/conda-forge/spider-client-feedstock.git
+	path = feedstocks/spider-client
+	branch = refs/heads/main
