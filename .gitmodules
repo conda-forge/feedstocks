@@ -115670,3 +115670,7 @@
 	url = https://github.com/conda-forge/onnx-asr-feedstock.git
 	path = feedstocks/onnx-asr
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-psycopg"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-psycopg-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-psycopg
+	branch = refs/heads/main
