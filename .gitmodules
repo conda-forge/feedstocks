@@ -115666,3 +115666,7 @@
 	url = https://github.com/conda-forge/isschecker-feedstock.git
 	path = feedstocks/isschecker
 	branch = refs/heads/main
+[submodule "onnx-asr"]
+	url = https://github.com/conda-forge/onnx-asr-feedstock.git
+	path = feedstocks/onnx-asr
+	branch = refs/heads/main
