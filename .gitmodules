@@ -115730,3 +115730,7 @@
 	url = https://github.com/conda-forge/graphrag-llm-feedstock.git
 	path = feedstocks/graphrag-llm
 	branch = refs/heads/main
+[submodule "chaldene"]
+	url = https://github.com/conda-forge/chaldene-feedstock.git
+	path = feedstocks/chaldene
+	branch = refs/heads/main
