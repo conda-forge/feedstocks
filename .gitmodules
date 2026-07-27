@@ -115710,3 +115710,7 @@
 	url = https://github.com/conda-forge/edge-tts-feedstock.git
 	path = feedstocks/edge-tts
 	branch = refs/heads/main
+[submodule "brisc"]
+	url = https://github.com/conda-forge/brisc-feedstock.git
+	path = feedstocks/brisc
+	branch = refs/heads/main
