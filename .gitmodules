@@ -115714,3 +115714,7 @@
 	url = https://github.com/conda-forge/brisc-feedstock.git
 	path = feedstocks/brisc
 	branch = refs/heads/main
+[submodule "ctypes-dlpack"]
+	url = https://github.com/conda-forge/ctypes-dlpack-feedstock.git
+	path = feedstocks/ctypes-dlpack
+	branch = refs/heads/main
