@@ -115682,3 +115682,7 @@
 	url = https://github.com/conda-forge/warmup-scheduler-feedstock.git
 	path = feedstocks/warmup-scheduler
 	branch = refs/heads/main
+[submodule "graphrag-common"]
+	url = https://github.com/conda-forge/graphrag-common-feedstock.git
+	path = feedstocks/graphrag-common
+	branch = refs/heads/main
