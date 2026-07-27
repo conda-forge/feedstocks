@@ -115718,3 +115718,7 @@
 	url = https://github.com/conda-forge/ctypes-dlpack-feedstock.git
 	path = feedstocks/ctypes-dlpack
 	branch = refs/heads/main
+[submodule "bioformats2raw"]
+	url = https://github.com/conda-forge/bioformats2raw-feedstock.git
+	path = feedstocks/bioformats2raw
+	branch = refs/heads/main
