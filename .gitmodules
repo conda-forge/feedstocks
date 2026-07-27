@@ -115694,3 +115694,7 @@
 	url = https://github.com/conda-forge/chaldene-super-resolution-feedstock.git
 	path = feedstocks/chaldene-super-resolution
 	branch = refs/heads/main
+[submodule "msglc"]
+	url = https://github.com/conda-forge/msglc-feedstock.git
+	path = feedstocks/msglc
+	branch = refs/heads/main
