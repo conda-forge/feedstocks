@@ -115734,3 +115734,7 @@
 	url = https://github.com/conda-forge/chaldene-feedstock.git
 	path = feedstocks/chaldene
 	branch = refs/heads/main
+[submodule "openreview-py"]
+	url = https://github.com/conda-forge/openreview-py-feedstock.git
+	path = feedstocks/openreview-py
+	branch = refs/heads/main
