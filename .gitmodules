@@ -115686,3 +115686,7 @@
 	url = https://github.com/conda-forge/graphrag-common-feedstock.git
 	path = feedstocks/graphrag-common
 	branch = refs/heads/main
+[submodule "graphrag-storage"]
+	url = https://github.com/conda-forge/graphrag-storage-feedstock.git
+	path = feedstocks/graphrag-storage
+	branch = refs/heads/main
