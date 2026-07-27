@@ -115726,3 +115726,7 @@
 	url = https://github.com/conda-forge/graphrag-cache-feedstock.git
 	path = feedstocks/graphrag-cache
 	branch = refs/heads/main
+[submodule "graphrag-llm"]
+	url = https://github.com/conda-forge/graphrag-llm-feedstock.git
+	path = feedstocks/graphrag-llm
+	branch = refs/heads/main
