@@ -115674,3 +115674,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-psycopg-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-psycopg
 	branch = refs/heads/main
+[submodule "pyrobotiqgripper"]
+	url = https://github.com/conda-forge/pyrobotiqgripper-feedstock.git
+	path = feedstocks/pyrobotiqgripper
+	branch = refs/heads/main
