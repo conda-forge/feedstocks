@@ -115678,3 +115678,7 @@
 	url = https://github.com/conda-forge/pyrobotiqgripper-feedstock.git
 	path = feedstocks/pyrobotiqgripper
 	branch = refs/heads/main
+[submodule "warmup-scheduler"]
+	url = https://github.com/conda-forge/warmup-scheduler-feedstock.git
+	path = feedstocks/warmup-scheduler
+	branch = refs/heads/main
