@@ -115746,3 +115746,7 @@
 	url = https://github.com/conda-forge/spider-client-feedstock.git
 	path = feedstocks/spider-client
 	branch = refs/heads/main
+[submodule "graphrag-input"]
+	url = https://github.com/conda-forge/graphrag-input-feedstock.git
+	path = feedstocks/graphrag-input
+	branch = refs/heads/main
