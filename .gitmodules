@@ -115750,3 +115750,7 @@
 	url = https://github.com/conda-forge/graphrag-input-feedstock.git
 	path = feedstocks/graphrag-input
 	branch = refs/heads/main
+[submodule "graphrag-chunking"]
+	url = https://github.com/conda-forge/graphrag-chunking-feedstock.git
+	path = feedstocks/graphrag-chunking
+	branch = refs/heads/main
