@@ -115766,3 +115766,7 @@
 	url = https://github.com/conda-forge/spdx-license-list-data-feedstock.git
 	path = feedstocks/spdx-license-list-data
 	branch = refs/heads/main
+[submodule "hoptorch"]
+	url = https://github.com/conda-forge/hoptorch-feedstock.git
+	path = feedstocks/hoptorch
+	branch = refs/heads/main
