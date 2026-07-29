@@ -115774,3 +115774,7 @@
 	url = https://github.com/conda-forge/parserf-feedstock.git
 	path = feedstocks/parserf
 	branch = refs/heads/main
+[submodule "kache"]
+	url = https://github.com/conda-forge/kache-feedstock.git
+	path = feedstocks/kache
+	branch = refs/heads/main
