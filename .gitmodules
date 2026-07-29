@@ -115770,3 +115770,7 @@
 	url = https://github.com/conda-forge/hoptorch-feedstock.git
 	path = feedstocks/hoptorch
 	branch = refs/heads/main
+[submodule "parserf"]
+	url = https://github.com/conda-forge/parserf-feedstock.git
+	path = feedstocks/parserf
+	branch = refs/heads/main
