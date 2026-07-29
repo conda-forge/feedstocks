@@ -115762,3 +115762,7 @@
 	url = https://github.com/conda-forge/py-lets-be-rational-feedstock.git
 	path = feedstocks/py-lets-be-rational
 	branch = refs/heads/main
+[submodule "spdx-license-list-data"]
+	url = https://github.com/conda-forge/spdx-license-list-data-feedstock.git
+	path = feedstocks/spdx-license-list-data
+	branch = refs/heads/main
