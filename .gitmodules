@@ -115778,3 +115778,7 @@
 	url = https://github.com/conda-forge/kache-feedstock.git
 	path = feedstocks/kache
 	branch = refs/heads/main
+[submodule "remotestate"]
+	url = https://github.com/conda-forge/remotestate-feedstock.git
+	path = feedstocks/remotestate
+	branch = refs/heads/main
