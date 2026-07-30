@@ -115782,3 +115782,7 @@
 	url = https://github.com/conda-forge/remotestate-feedstock.git
 	path = feedstocks/remotestate
 	branch = refs/heads/main
+[submodule "figure-gate"]
+	url = https://github.com/conda-forge/figure-gate-feedstock.git
+	path = feedstocks/figure-gate
+	branch = refs/heads/main
