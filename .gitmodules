@@ -115790,3 +115790,7 @@
 	url = https://github.com/conda-forge/sphn-feedstock.git
 	path = feedstocks/sphn
 	branch = refs/heads/main
+[submodule "aiohttp-fast-zlib"]
+	url = https://github.com/conda-forge/aiohttp-fast-zlib-feedstock.git
+	path = feedstocks/aiohttp-fast-zlib
+	branch = refs/heads/main
