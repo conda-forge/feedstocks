@@ -115794,3 +115794,7 @@
 	url = https://github.com/conda-forge/aiohttp-fast-zlib-feedstock.git
 	path = feedstocks/aiohttp-fast-zlib
 	branch = refs/heads/main
+[submodule "quant-ranger"]
+	url = https://github.com/conda-forge/quant-ranger-feedstock.git
+	path = feedstocks/quant-ranger
+	branch = refs/heads/main
