@@ -115834,3 +115834,7 @@
 	url = https://github.com/conda-forge/glacier-strain-tools-feedstock.git
 	path = feedstocks/glacier-strain-tools
 	branch = refs/heads/main
+[submodule "arm-adapt"]
+	url = https://github.com/conda-forge/arm-adapt-feedstock.git
+	path = feedstocks/arm-adapt
+	branch = refs/heads/main
