@@ -115806,3 +115806,7 @@
 	url = https://github.com/conda-forge/bertviz-feedstock.git
 	path = feedstocks/bertviz
 	branch = refs/heads/main
+[submodule "skillmodels"]
+	url = https://github.com/conda-forge/skillmodels-feedstock.git
+	path = feedstocks/skillmodels
+	branch = refs/heads/main
