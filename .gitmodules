@@ -115854,3 +115854,7 @@
 	url = https://github.com/conda-forge/sqlalchemy_adapter-feedstock.git
 	path = feedstocks/sqlalchemy_adapter
 	branch = refs/heads/main
+[submodule "pycasbin"]
+	url = https://github.com/conda-forge/pycasbin-feedstock.git
+	path = feedstocks/pycasbin
+	branch = refs/heads/main
