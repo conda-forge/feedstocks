@@ -115802,3 +115802,7 @@
 	url = https://github.com/conda-forge/r-midasim-feedstock.git
 	path = feedstocks/r-midasim
 	branch = refs/heads/main
+[submodule "bertviz"]
+	url = https://github.com/conda-forge/bertviz-feedstock.git
+	path = feedstocks/bertviz
+	branch = refs/heads/main
