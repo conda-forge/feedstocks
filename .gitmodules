@@ -115822,3 +115822,7 @@
 	url = https://github.com/conda-forge/ptgp-feedstock.git
 	path = feedstocks/ptgp
 	branch = refs/heads/main
+[submodule "agentsor-file"]
+	url = https://github.com/conda-forge/agentsor-file-feedstock.git
+	path = feedstocks/agentsor-file
+	branch = refs/heads/main
