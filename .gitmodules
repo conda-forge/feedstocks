@@ -115814,3 +115814,7 @@
 	url = https://github.com/conda-forge/mcp-grafana-feedstock.git
 	path = feedstocks/mcp-grafana
 	branch = refs/heads/main
+[submodule "elm-diagnostics"]
+	url = https://github.com/conda-forge/elm-diagnostics-feedstock.git
+	path = feedstocks/elm-diagnostics
+	branch = refs/heads/main
