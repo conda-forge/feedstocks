@@ -115846,3 +115846,7 @@
 	url = https://github.com/conda-forge/types-geojson-feedstock.git
 	path = feedstocks/types-geojson
 	branch = refs/heads/main
+[submodule "types-rasterio"]
+	url = https://github.com/conda-forge/types-rasterio-feedstock.git
+	path = feedstocks/types-rasterio
+	branch = refs/heads/main
