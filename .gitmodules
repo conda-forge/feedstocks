@@ -115798,3 +115798,7 @@
 	url = https://github.com/conda-forge/quant-ranger-feedstock.git
 	path = feedstocks/quant-ranger
 	branch = refs/heads/main
+[submodule "r-midasim"]
+	url = https://github.com/conda-forge/r-midasim-feedstock.git
+	path = feedstocks/r-midasim
+	branch = refs/heads/main
