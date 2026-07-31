@@ -115842,3 +115842,7 @@
 	url = https://github.com/conda-forge/pykale-feedstock.git
 	path = feedstocks/pykale
 	branch = refs/heads/main
+[submodule "types-geojson"]
+	url = https://github.com/conda-forge/types-geojson-feedstock.git
+	path = feedstocks/types-geojson
+	branch = refs/heads/main
