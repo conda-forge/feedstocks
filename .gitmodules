@@ -115830,3 +115830,7 @@
 	url = https://github.com/conda-forge/rosetta-soil-feedstock.git
 	path = feedstocks/rosetta-soil
 	branch = refs/heads/main
+[submodule "glacier-strain-tools"]
+	url = https://github.com/conda-forge/glacier-strain-tools-feedstock.git
+	path = feedstocks/glacier-strain-tools
+	branch = refs/heads/main
