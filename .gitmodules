@@ -115818,3 +115818,7 @@
 	url = https://github.com/conda-forge/elm-diagnostics-feedstock.git
 	path = feedstocks/elm-diagnostics
 	branch = refs/heads/main
+[submodule "ptgp"]
+	url = https://github.com/conda-forge/ptgp-feedstock.git
+	path = feedstocks/ptgp
+	branch = refs/heads/main
