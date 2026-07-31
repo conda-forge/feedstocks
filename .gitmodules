@@ -115838,3 +115838,7 @@
 	url = https://github.com/conda-forge/arm-adapt-feedstock.git
 	path = feedstocks/arm-adapt
 	branch = refs/heads/main
+[submodule "pykale"]
+	url = https://github.com/conda-forge/pykale-feedstock.git
+	path = feedstocks/pykale
+	branch = refs/heads/main
