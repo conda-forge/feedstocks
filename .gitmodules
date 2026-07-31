@@ -115810,3 +115810,7 @@
 	url = https://github.com/conda-forge/skillmodels-feedstock.git
 	path = feedstocks/skillmodels
 	branch = refs/heads/main
+[submodule "mcp-grafana"]
+	url = https://github.com/conda-forge/mcp-grafana-feedstock.git
+	path = feedstocks/mcp-grafana
+	branch = refs/heads/main
