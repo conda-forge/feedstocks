@@ -115862,3 +115862,7 @@
 	url = https://github.com/conda-forge/onigurumacffi-feedstock.git
 	path = feedstocks/onigurumacffi
 	branch = refs/heads/main
+[submodule "parakeet-mlx"]
+	url = https://github.com/conda-forge/parakeet-mlx-feedstock.git
+	path = feedstocks/parakeet-mlx
+	branch = refs/heads/main
