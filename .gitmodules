@@ -115858,3 +115858,7 @@
 	url = https://github.com/conda-forge/pycasbin-feedstock.git
 	path = feedstocks/pycasbin
 	branch = refs/heads/main
+[submodule "onigurumacffi"]
+	url = https://github.com/conda-forge/onigurumacffi-feedstock.git
+	path = feedstocks/onigurumacffi
+	branch = refs/heads/main
