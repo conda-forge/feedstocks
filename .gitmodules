@@ -115866,3 +115866,7 @@
 	url = https://github.com/conda-forge/parakeet-mlx-feedstock.git
 	path = feedstocks/parakeet-mlx
 	branch = refs/heads/main
+[submodule "molsym"]
+	url = https://github.com/conda-forge/molsym-feedstock.git
+	path = feedstocks/molsym
+	branch = refs/heads/main
