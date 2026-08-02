@@ -115890,3 +115890,7 @@
 	url = https://github.com/conda-forge/libgphoto2-feedstock.git
 	path = feedstocks/libgphoto2
 	branch = refs/heads/main
+[submodule "spirv-cross"]
+	url = https://github.com/conda-forge/spirv-cross-feedstock.git
+	path = feedstocks/spirv-cross
+	branch = refs/heads/main
