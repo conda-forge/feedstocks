@@ -115878,3 +115878,7 @@
 	url = https://github.com/conda-forge/fastmdxplora-feedstock.git
 	path = feedstocks/fastmdxplora
 	branch = refs/heads/main
+[submodule "spirv-reflect"]
+	url = https://github.com/conda-forge/spirv-reflect-feedstock.git
+	path = feedstocks/spirv-reflect
+	branch = refs/heads/main
