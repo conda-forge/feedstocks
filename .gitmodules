@@ -115886,3 +115886,7 @@
 	url = https://github.com/conda-forge/vulkan-utility-libraries-feedstock.git
 	path = feedstocks/vulkan-utility-libraries
 	branch = refs/heads/main
+[submodule "libgphoto2"]
+	url = https://github.com/conda-forge/libgphoto2-feedstock.git
+	path = feedstocks/libgphoto2
+	branch = refs/heads/main
