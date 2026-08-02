@@ -115882,3 +115882,7 @@
 	url = https://github.com/conda-forge/spirv-reflect-feedstock.git
 	path = feedstocks/spirv-reflect
 	branch = refs/heads/main
+[submodule "vulkan-utility-libraries"]
+	url = https://github.com/conda-forge/vulkan-utility-libraries-feedstock.git
+	path = feedstocks/vulkan-utility-libraries
+	branch = refs/heads/main
