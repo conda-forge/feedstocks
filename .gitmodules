@@ -115870,3 +115870,7 @@
 	url = https://github.com/conda-forge/molsym-feedstock.git
 	path = feedstocks/molsym
 	branch = refs/heads/main
+[submodule "hypertools"]
+	url = https://github.com/conda-forge/hypertools-feedstock.git
+	path = feedstocks/hypertools
+	branch = refs/heads/main
