@@ -115914,3 +115914,7 @@
 	url = https://github.com/conda-forge/valijson-feedstock.git
 	path = feedstocks/valijson
 	branch = refs/heads/main
+[submodule "conda-launchers"]
+	url = https://github.com/conda-forge/conda-launchers-feedstock.git
+	path = feedstocks/conda-launchers
+	branch = refs/heads/main
