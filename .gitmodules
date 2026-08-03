@@ -115906,3 +115906,7 @@
 	url = https://github.com/conda-forge/libcgif-feedstock.git
 	path = feedstocks/libcgif
 	branch = refs/heads/main
+[submodule "lean4"]
+	url = https://github.com/conda-forge/lean4-feedstock.git
+	path = feedstocks/lean4
+	branch = refs/heads/main
