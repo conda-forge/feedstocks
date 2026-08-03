@@ -115894,3 +115894,7 @@
 	url = https://github.com/conda-forge/spirv-cross-feedstock.git
 	path = feedstocks/spirv-cross
 	branch = refs/heads/main
+[submodule "pam-stubs"]
+	url = https://github.com/conda-forge/pam-stubs-feedstock.git
+	path = feedstocks/pam-stubs
+	branch = refs/heads/main
