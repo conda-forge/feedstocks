@@ -115902,3 +115902,7 @@
 	url = https://github.com/conda-forge/nifti-clib-feedstock.git
 	path = feedstocks/nifti-clib
 	branch = refs/heads/main
+[submodule "libcgif"]
+	url = https://github.com/conda-forge/libcgif-feedstock.git
+	path = feedstocks/libcgif
+	branch = refs/heads/main
