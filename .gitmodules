@@ -115898,3 +115898,7 @@
 	url = https://github.com/conda-forge/pam-stubs-feedstock.git
 	path = feedstocks/pam-stubs
 	branch = refs/heads/main
+[submodule "nifti-clib"]
+	url = https://github.com/conda-forge/nifti-clib-feedstock.git
+	path = feedstocks/nifti-clib
+	branch = refs/heads/main
