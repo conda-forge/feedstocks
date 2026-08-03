@@ -115910,3 +115910,7 @@
 	url = https://github.com/conda-forge/lean4-feedstock.git
 	path = feedstocks/lean4
 	branch = refs/heads/main
+[submodule "valijson"]
+	url = https://github.com/conda-forge/valijson-feedstock.git
+	path = feedstocks/valijson
+	branch = refs/heads/main
