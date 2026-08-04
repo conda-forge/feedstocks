@@ -115990,3 +115990,7 @@
 	url = https://github.com/conda-forge/pystac-ext-eo-feedstock.git
 	path = feedstocks/pystac-ext-eo
 	branch = refs/heads/main
+[submodule "pystac-ext-xarray-assets"]
+	url = https://github.com/conda-forge/pystac-ext-xarray-assets-feedstock.git
+	path = feedstocks/pystac-ext-xarray-assets
+	branch = refs/heads/main
