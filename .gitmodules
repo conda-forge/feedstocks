@@ -115998,3 +115998,7 @@
 	url = https://github.com/conda-forge/pystac-ext-pointcloud-feedstock.git
 	path = feedstocks/pystac-ext-pointcloud
 	branch = refs/heads/main
+[submodule "pystac-ext-mgrs"]
+	url = https://github.com/conda-forge/pystac-ext-mgrs-feedstock.git
+	path = feedstocks/pystac-ext-mgrs
+	branch = refs/heads/main
