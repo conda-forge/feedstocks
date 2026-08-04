@@ -115978,3 +115978,7 @@
 	url = https://github.com/conda-forge/pystac-ext-grid-feedstock.git
 	path = feedstocks/pystac-ext-grid
 	branch = refs/heads/main
+[submodule "pystac-ext-file"]
+	url = https://github.com/conda-forge/pystac-ext-file-feedstock.git
+	path = feedstocks/pystac-ext-file
+	branch = refs/heads/main
