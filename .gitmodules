@@ -115922,3 +115922,7 @@
 	url = https://github.com/conda-forge/lux-cli-feedstock.git
 	path = feedstocks/lux-cli
 	branch = refs/heads/main
+[submodule "chunkah"]
+	url = https://github.com/conda-forge/chunkah-feedstock.git
+	path = feedstocks/chunkah
+	branch = refs/heads/main
