@@ -115950,3 +115950,7 @@
 	url = https://github.com/conda-forge/opentelemetry-instrumentation-litellm-feedstock.git
 	path = feedstocks/opentelemetry-instrumentation-litellm
 	branch = refs/heads/main
+[submodule "qianfan"]
+	url = https://github.com/conda-forge/qianfan-feedstock.git
+	path = feedstocks/qianfan
+	branch = refs/heads/main
