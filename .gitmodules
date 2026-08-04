@@ -115986,3 +115986,7 @@
 	url = https://github.com/conda-forge/pystac-ext-table-feedstock.git
 	path = feedstocks/pystac-ext-table
 	branch = refs/heads/main
+[submodule "pystac-ext-eo"]
+	url = https://github.com/conda-forge/pystac-ext-eo-feedstock.git
+	path = feedstocks/pystac-ext-eo
+	branch = refs/heads/main
