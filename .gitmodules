@@ -115994,3 +115994,7 @@
 	url = https://github.com/conda-forge/pystac-ext-xarray-assets-feedstock.git
 	path = feedstocks/pystac-ext-xarray-assets
 	branch = refs/heads/main
+[submodule "pystac-ext-pointcloud"]
+	url = https://github.com/conda-forge/pystac-ext-pointcloud-feedstock.git
+	path = feedstocks/pystac-ext-pointcloud
+	branch = refs/heads/main
