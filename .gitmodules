@@ -115946,3 +115946,7 @@
 	url = https://github.com/conda-forge/llama-cpp-server-py-core-feedstock.git
 	path = feedstocks/llama-cpp-server-py-core
 	branch = refs/heads/main
+[submodule "opentelemetry-instrumentation-litellm"]
+	url = https://github.com/conda-forge/opentelemetry-instrumentation-litellm-feedstock.git
+	path = feedstocks/opentelemetry-instrumentation-litellm
+	branch = refs/heads/main
