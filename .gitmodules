@@ -115930,3 +115930,7 @@
 	url = https://github.com/conda-forge/rumdl-feedstock.git
 	path = feedstocks/rumdl
 	branch = refs/heads/main
+[submodule "r-parallelplot"]
+	url = https://github.com/conda-forge/r-parallelplot-feedstock.git
+	path = feedstocks/r-parallelplot
+	branch = refs/heads/main
