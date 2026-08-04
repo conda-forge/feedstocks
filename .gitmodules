@@ -115938,3 +115938,7 @@
 	url = https://github.com/conda-forge/r-scatterplotmatrix-feedstock.git
 	path = feedstocks/r-scatterplotmatrix
 	branch = refs/heads/main
+[submodule "aws-ofi-nccl"]
+	url = https://github.com/conda-forge/aws-ofi-nccl-feedstock.git
+	path = feedstocks/aws-ofi-nccl
+	branch = refs/heads/main
