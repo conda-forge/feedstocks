@@ -115970,3 +115970,7 @@
 	url = https://github.com/conda-forge/pystac-ext-storage-feedstock.git
 	path = feedstocks/pystac-ext-storage
 	branch = refs/heads/main
+[submodule "pystac-ext-view"]
+	url = https://github.com/conda-forge/pystac-ext-view-feedstock.git
+	path = feedstocks/pystac-ext-view
+	branch = refs/heads/main
