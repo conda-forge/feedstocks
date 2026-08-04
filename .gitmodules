@@ -115958,3 +115958,7 @@
 	url = https://github.com/conda-forge/pystac-ext-item-assets-feedstock.git
 	path = feedstocks/pystac-ext-item-assets
 	branch = refs/heads/main
+[submodule "pystac-ext-label"]
+	url = https://github.com/conda-forge/pystac-ext-label-feedstock.git
+	path = feedstocks/pystac-ext-label
+	branch = refs/heads/main
