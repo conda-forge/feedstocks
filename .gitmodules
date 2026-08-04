@@ -115954,3 +115954,7 @@
 	url = https://github.com/conda-forge/qianfan-feedstock.git
 	path = feedstocks/qianfan
 	branch = refs/heads/main
+[submodule "pystac-ext-item-assets"]
+	url = https://github.com/conda-forge/pystac-ext-item-assets-feedstock.git
+	path = feedstocks/pystac-ext-item-assets
+	branch = refs/heads/main
