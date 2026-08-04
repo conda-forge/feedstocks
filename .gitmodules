@@ -116010,3 +116010,7 @@
 	url = https://github.com/conda-forge/pystac-ext-sar-feedstock.git
 	path = feedstocks/pystac-ext-sar
 	branch = refs/heads/main
+[submodule "pystac-ext-projection"]
+	url = https://github.com/conda-forge/pystac-ext-projection-feedstock.git
+	path = feedstocks/pystac-ext-projection
+	branch = refs/heads/main
