@@ -115926,3 +115926,7 @@
 	url = https://github.com/conda-forge/chunkah-feedstock.git
 	path = feedstocks/chunkah
 	branch = refs/heads/main
+[submodule "rumdl"]
+	url = https://github.com/conda-forge/rumdl-feedstock.git
+	path = feedstocks/rumdl
+	branch = refs/heads/main
