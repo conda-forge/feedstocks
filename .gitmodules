@@ -115918,3 +115918,7 @@
 	url = https://github.com/conda-forge/conda-launchers-feedstock.git
 	path = feedstocks/conda-launchers
 	branch = refs/heads/main
+[submodule "lux-cli"]
+	url = https://github.com/conda-forge/lux-cli-feedstock.git
+	path = feedstocks/lux-cli
+	branch = refs/heads/main
