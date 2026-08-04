@@ -115962,3 +115962,7 @@
 	url = https://github.com/conda-forge/pystac-ext-label-feedstock.git
 	path = feedstocks/pystac-ext-label
 	branch = refs/heads/main
+[submodule "pystac-ext-datacube"]
+	url = https://github.com/conda-forge/pystac-ext-datacube-feedstock.git
+	path = feedstocks/pystac-ext-datacube
+	branch = refs/heads/main
