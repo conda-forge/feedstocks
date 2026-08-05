@@ -116038,3 +116038,7 @@
 	url = https://github.com/conda-forge/pystac-ext-mlm-feedstock.git
 	path = feedstocks/pystac-ext-mlm
 	branch = refs/heads/main
+[submodule "pystac-ext-raster"]
+	url = https://github.com/conda-forge/pystac-ext-raster-feedstock.git
+	path = feedstocks/pystac-ext-raster
+	branch = refs/heads/main
