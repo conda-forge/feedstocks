@@ -116018,3 +116018,7 @@
 	url = https://github.com/conda-forge/pystac-ext-timestamps-feedstock.git
 	path = feedstocks/pystac-ext-timestamps
 	branch = refs/heads/main
+[submodule "pystac-core"]
+	url = https://github.com/conda-forge/pystac-core-feedstock.git
+	path = feedstocks/pystac-core
+	branch = refs/heads/main
