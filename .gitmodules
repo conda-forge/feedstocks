@@ -116046,3 +116046,7 @@
 	url = https://github.com/conda-forge/pystac-ext-classification-feedstock.git
 	path = feedstocks/pystac-ext-classification
 	branch = refs/heads/main
+[submodule "go-compiler"]
+	url = https://github.com/conda-forge/go-compiler-feedstock.git
+	path = feedstocks/go-compiler
+	branch = refs/heads/main
