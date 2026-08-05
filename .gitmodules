@@ -116050,3 +116050,7 @@
 	url = https://github.com/conda-forge/go-compiler-feedstock.git
 	path = feedstocks/go-compiler
 	branch = refs/heads/main
+[submodule "hklpy2_solvers"]
+	url = https://github.com/conda-forge/hklpy2_solvers-feedstock.git
+	path = feedstocks/hklpy2_solvers
+	branch = refs/heads/main
