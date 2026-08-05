@@ -116030,3 +116030,7 @@
 	url = https://github.com/conda-forge/pystac-ext-scientific-feedstock.git
 	path = feedstocks/pystac-ext-scientific
 	branch = refs/heads/main
+[submodule "pystac-ext-version"]
+	url = https://github.com/conda-forge/pystac-ext-version-feedstock.git
+	path = feedstocks/pystac-ext-version
+	branch = refs/heads/main
