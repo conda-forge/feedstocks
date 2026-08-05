@@ -116034,3 +116034,7 @@
 	url = https://github.com/conda-forge/pystac-ext-version-feedstock.git
 	path = feedstocks/pystac-ext-version
 	branch = refs/heads/main
+[submodule "pystac-ext-mlm"]
+	url = https://github.com/conda-forge/pystac-ext-mlm-feedstock.git
+	path = feedstocks/pystac-ext-mlm
+	branch = refs/heads/main
