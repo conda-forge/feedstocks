@@ -116042,3 +116042,7 @@
 	url = https://github.com/conda-forge/pystac-ext-raster-feedstock.git
 	path = feedstocks/pystac-ext-raster
 	branch = refs/heads/main
+[submodule "pystac-ext-classification"]
+	url = https://github.com/conda-forge/pystac-ext-classification-feedstock.git
+	path = feedstocks/pystac-ext-classification
+	branch = refs/heads/main
