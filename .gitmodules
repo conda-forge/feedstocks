@@ -116066,3 +116066,7 @@
 	url = https://github.com/conda-forge/snapper-fmt-feedstock.git
 	path = feedstocks/snapper-fmt
 	branch = refs/heads/main
+[submodule "easy-eo"]
+	url = https://github.com/conda-forge/easy-eo-feedstock.git
+	path = feedstocks/easy-eo
+	branch = refs/heads/main
