@@ -116058,3 +116058,7 @@
 	url = https://github.com/conda-forge/aiofastnet-feedstock.git
 	path = feedstocks/aiofastnet
 	branch = refs/heads/main
+[submodule "opentelemetry-opamp-client"]
+	url = https://github.com/conda-forge/opentelemetry-opamp-client-feedstock.git
+	path = feedstocks/opentelemetry-opamp-client
+	branch = refs/heads/main
