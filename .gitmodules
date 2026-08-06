@@ -116062,3 +116062,7 @@
 	url = https://github.com/conda-forge/opentelemetry-opamp-client-feedstock.git
 	path = feedstocks/opentelemetry-opamp-client
 	branch = refs/heads/main
+[submodule "snapper-fmt"]
+	url = https://github.com/conda-forge/snapper-fmt-feedstock.git
+	path = feedstocks/snapper-fmt
+	branch = refs/heads/main
