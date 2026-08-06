@@ -116082,3 +116082,7 @@
 	url = https://github.com/conda-forge/wilderness-feedstock.git
 	path = feedstocks/wilderness
 	branch = refs/heads/main
+[submodule "spot-nik"]
+	url = https://github.com/conda-forge/spot-nik-feedstock.git
+	path = feedstocks/spot-nik
+	branch = refs/heads/main
