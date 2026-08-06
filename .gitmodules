@@ -116070,3 +116070,7 @@
 	url = https://github.com/conda-forge/easy-eo-feedstock.git
 	path = feedstocks/easy-eo
 	branch = refs/heads/main
+[submodule "delaunay32"]
+	url = https://github.com/conda-forge/delaunay32-feedstock.git
+	path = feedstocks/delaunay32
+	branch = refs/heads/main
