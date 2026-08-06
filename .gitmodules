@@ -116098,3 +116098,7 @@
 	url = https://github.com/conda-forge/libddwaf-feedstock.git
 	path = feedstocks/libddwaf
 	branch = refs/heads/main
+[submodule "okf-ingest"]
+	url = https://github.com/conda-forge/okf-ingest-feedstock.git
+	path = feedstocks/okf-ingest
+	branch = refs/heads/main
