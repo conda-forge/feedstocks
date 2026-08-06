@@ -116078,3 +116078,7 @@
 	url = https://github.com/conda-forge/clevercsv-feedstock.git
 	path = feedstocks/clevercsv
 	branch = refs/heads/main
+[submodule "wilderness"]
+	url = https://github.com/conda-forge/wilderness-feedstock.git
+	path = feedstocks/wilderness
+	branch = refs/heads/main
