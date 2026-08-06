@@ -116094,3 +116094,7 @@
 	url = https://github.com/conda-forge/strawberry-sqlalchemy-mapper-feedstock.git
 	path = feedstocks/strawberry-sqlalchemy-mapper
 	branch = refs/heads/main
+[submodule "libddwaf"]
+	url = https://github.com/conda-forge/libddwaf-feedstock.git
+	path = feedstocks/libddwaf
+	branch = refs/heads/main
