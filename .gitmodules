@@ -116090,3 +116090,7 @@
 	url = https://github.com/conda-forge/surfatt-feedstock.git
 	path = feedstocks/surfatt
 	branch = refs/heads/main
+[submodule "strawberry-sqlalchemy-mapper"]
+	url = https://github.com/conda-forge/strawberry-sqlalchemy-mapper-feedstock.git
+	path = feedstocks/strawberry-sqlalchemy-mapper
+	branch = refs/heads/main
