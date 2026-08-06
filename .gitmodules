@@ -116054,3 +116054,7 @@
 	url = https://github.com/conda-forge/hklpy2_solvers-feedstock.git
 	path = feedstocks/hklpy2_solvers
 	branch = refs/heads/main
+[submodule "aiofastnet"]
+	url = https://github.com/conda-forge/aiofastnet-feedstock.git
+	path = feedstocks/aiofastnet
+	branch = refs/heads/main
