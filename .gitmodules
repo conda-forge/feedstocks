@@ -116146,3 +116146,7 @@
 	url = https://github.com/conda-forge/amica-feedstock.git
 	path = feedstocks/amica
 	branch = refs/heads/main
+[submodule "smevals"]
+	url = https://github.com/conda-forge/smevals-feedstock.git
+	path = feedstocks/smevals
+	branch = refs/heads/main
