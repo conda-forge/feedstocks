@@ -116138,3 +116138,7 @@
 	url = https://github.com/conda-forge/roocs-woodpecker-feedstock.git
 	path = feedstocks/roocs-woodpecker
 	branch = refs/heads/main
+[submodule "thermoml-io"]
+	url = https://github.com/conda-forge/thermoml-io-feedstock.git
+	path = feedstocks/thermoml-io
+	branch = refs/heads/main
