@@ -116114,3 +116114,7 @@
 	url = https://github.com/conda-forge/litterbox-feedstock.git
 	path = feedstocks/litterbox
 	branch = refs/heads/main
+[submodule "citationlib"]
+	url = https://github.com/conda-forge/citationlib-feedstock.git
+	path = feedstocks/citationlib
+	branch = refs/heads/main
