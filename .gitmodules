@@ -116130,3 +116130,7 @@
 	url = https://github.com/conda-forge/cstar-ocean-feedstock.git
 	path = feedstocks/cstar-ocean
 	branch = refs/heads/main
+[submodule "mmg_toolbox"]
+	url = https://github.com/conda-forge/mmg_toolbox-feedstock.git
+	path = feedstocks/mmg_toolbox
+	branch = refs/heads/main
