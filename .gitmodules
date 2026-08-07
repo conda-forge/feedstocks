@@ -116106,3 +116106,7 @@
 	url = https://github.com/conda-forge/nemo-relay-feedstock.git
 	path = feedstocks/nemo-relay
 	branch = refs/heads/main
+[submodule "arabic-reshaper"]
+	url = https://github.com/conda-forge/arabic-reshaper-feedstock.git
+	path = feedstocks/arabic-reshaper
+	branch = refs/heads/main
