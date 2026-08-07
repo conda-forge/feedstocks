@@ -116102,3 +116102,7 @@
 	url = https://github.com/conda-forge/okf-ingest-feedstock.git
 	path = feedstocks/okf-ingest
 	branch = refs/heads/main
+[submodule "nemo-relay"]
+	url = https://github.com/conda-forge/nemo-relay-feedstock.git
+	path = feedstocks/nemo-relay
+	branch = refs/heads/main
