@@ -116122,3 +116122,7 @@
 	url = https://github.com/conda-forge/clair-c2py-feedstock.git
 	path = feedstocks/clair-c2py
 	branch = refs/heads/main
+[submodule "aqua-core"]
+	url = https://github.com/conda-forge/aqua-core-feedstock.git
+	path = feedstocks/aqua-core
+	branch = refs/heads/main
