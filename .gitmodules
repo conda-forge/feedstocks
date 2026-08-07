@@ -116158,3 +116158,7 @@
 	url = https://github.com/conda-forge/torch-flash-feedstock.git
 	path = feedstocks/torch-flash
 	branch = refs/heads/main
+[submodule "cuda-compat-orin"]
+	url = https://github.com/conda-forge/cuda-compat-orin-feedstock.git
+	path = feedstocks/cuda-compat-orin
+	branch = refs/heads/main
