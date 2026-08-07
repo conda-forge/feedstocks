@@ -116142,3 +116142,7 @@
 	url = https://github.com/conda-forge/thermoml-io-feedstock.git
 	path = feedstocks/thermoml-io
 	branch = refs/heads/main
+[submodule "amica"]
+	url = https://github.com/conda-forge/amica-feedstock.git
+	path = feedstocks/amica
+	branch = refs/heads/main
