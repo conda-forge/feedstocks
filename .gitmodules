@@ -116150,3 +116150,7 @@
 	url = https://github.com/conda-forge/smevals-feedstock.git
 	path = feedstocks/smevals
 	branch = refs/heads/main
+[submodule "kawin"]
+	url = https://github.com/conda-forge/kawin-feedstock.git
+	path = feedstocks/kawin
+	branch = refs/heads/main
