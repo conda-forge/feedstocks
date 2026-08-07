@@ -116154,3 +116154,7 @@
 	url = https://github.com/conda-forge/kawin-feedstock.git
 	path = feedstocks/kawin
 	branch = refs/heads/main
+[submodule "torch-flash"]
+	url = https://github.com/conda-forge/torch-flash-feedstock.git
+	path = feedstocks/torch-flash
+	branch = refs/heads/main
