@@ -116134,3 +116134,7 @@
 	url = https://github.com/conda-forge/mmg_toolbox-feedstock.git
 	path = feedstocks/mmg_toolbox
 	branch = refs/heads/main
+[submodule "roocs-woodpecker"]
+	url = https://github.com/conda-forge/roocs-woodpecker-feedstock.git
+	path = feedstocks/roocs-woodpecker
+	branch = refs/heads/main
