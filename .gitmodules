@@ -116126,3 +116126,7 @@
 	url = https://github.com/conda-forge/aqua-core-feedstock.git
 	path = feedstocks/aqua-core
 	branch = refs/heads/main
+[submodule "cstar-ocean"]
+	url = https://github.com/conda-forge/cstar-ocean-feedstock.git
+	path = feedstocks/cstar-ocean
+	branch = refs/heads/main
