@@ -116210,3 +116210,7 @@
 	url = https://github.com/conda-forge/weston-feedstock.git
 	path = feedstocks/weston
 	branch = refs/heads/main
+[submodule "dkx"]
+	url = https://github.com/conda-forge/dkx-feedstock.git
+	path = feedstocks/dkx
+	branch = refs/heads/main
