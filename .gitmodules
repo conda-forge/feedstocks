@@ -116222,3 +116222,7 @@
 	url = https://github.com/conda-forge/vmex-feedstock.git
 	path = feedstocks/vmex
 	branch = refs/heads/main
+[submodule "vibepod"]
+	url = https://github.com/conda-forge/vibepod-feedstock.git
+	path = feedstocks/vibepod
+	branch = refs/heads/main
