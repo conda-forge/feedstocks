@@ -116178,3 +116178,7 @@
 	url = https://github.com/conda-forge/libinput-feedstock.git
 	path = feedstocks/libinput
 	branch = refs/heads/main
+[submodule "freerdp"]
+	url = https://github.com/conda-forge/freerdp-feedstock.git
+	path = feedstocks/freerdp
+	branch = refs/heads/main
