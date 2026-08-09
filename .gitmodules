@@ -116226,3 +116226,7 @@
 	url = https://github.com/conda-forge/vibepod-feedstock.git
 	path = feedstocks/vibepod
 	branch = refs/heads/main
+[submodule "libcap-ng"]
+	url = https://github.com/conda-forge/libcap-ng-feedstock.git
+	path = feedstocks/libcap-ng
+	branch = refs/heads/main
