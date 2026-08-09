@@ -116218,3 +116218,7 @@
 	url = https://github.com/conda-forge/gkx-feedstock.git
 	path = feedstocks/gkx
 	branch = refs/heads/main
+[submodule "vmex"]
+	url = https://github.com/conda-forge/vmex-feedstock.git
+	path = feedstocks/vmex
+	branch = refs/heads/main
