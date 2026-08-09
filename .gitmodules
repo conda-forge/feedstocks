@@ -116166,3 +116166,7 @@
 	url = https://github.com/conda-forge/simulatr-feedstock.git
 	path = feedstocks/simulatr
 	branch = refs/heads/main
+[submodule "xwayland"]
+	url = https://github.com/conda-forge/xwayland-feedstock.git
+	path = feedstocks/xwayland
+	branch = refs/heads/main
