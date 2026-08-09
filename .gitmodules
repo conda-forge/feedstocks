@@ -116190,3 +116190,7 @@
 	url = https://github.com/conda-forge/aml-feedstock.git
 	path = feedstocks/aml
 	branch = refs/heads/main
+[submodule "hwdata"]
+	url = https://github.com/conda-forge/hwdata-feedstock.git
+	path = feedstocks/hwdata
+	branch = refs/heads/main
