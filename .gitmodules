@@ -116198,3 +116198,7 @@
 	url = https://github.com/conda-forge/pipewire-feedstock.git
 	path = feedstocks/pipewire
 	branch = refs/heads/main
+[submodule "libdisplay-info"]
+	url = https://github.com/conda-forge/libdisplay-info-feedstock.git
+	path = feedstocks/libdisplay-info
+	branch = refs/heads/main
