@@ -116186,3 +116186,7 @@
 	url = https://github.com/conda-forge/mtdev-feedstock.git
 	path = feedstocks/mtdev
 	branch = refs/heads/main
+[submodule "aml"]
+	url = https://github.com/conda-forge/aml-feedstock.git
+	path = feedstocks/aml
+	branch = refs/heads/main
