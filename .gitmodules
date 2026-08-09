@@ -116194,3 +116194,7 @@
 	url = https://github.com/conda-forge/hwdata-feedstock.git
 	path = feedstocks/hwdata
 	branch = refs/heads/main
+[submodule "pipewire"]
+	url = https://github.com/conda-forge/pipewire-feedstock.git
+	path = feedstocks/pipewire
+	branch = refs/heads/main
