@@ -116174,3 +116174,7 @@
 	url = https://github.com/conda-forge/neatvnc-feedstock.git
 	path = feedstocks/neatvnc
 	branch = refs/heads/main
+[submodule "libinput"]
+	url = https://github.com/conda-forge/libinput-feedstock.git
+	path = feedstocks/libinput
+	branch = refs/heads/main
