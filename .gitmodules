@@ -116206,3 +116206,7 @@
 	url = https://github.com/conda-forge/seatd-feedstock.git
 	path = feedstocks/seatd
 	branch = refs/heads/main
+[submodule "weston"]
+	url = https://github.com/conda-forge/weston-feedstock.git
+	path = feedstocks/weston
+	branch = refs/heads/main
