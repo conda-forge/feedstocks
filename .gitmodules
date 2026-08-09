@@ -116202,3 +116202,7 @@
 	url = https://github.com/conda-forge/libdisplay-info-feedstock.git
 	path = feedstocks/libdisplay-info
 	branch = refs/heads/main
+[submodule "seatd"]
+	url = https://github.com/conda-forge/seatd-feedstock.git
+	path = feedstocks/seatd
+	branch = refs/heads/main
