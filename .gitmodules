@@ -116230,3 +116230,7 @@
 	url = https://github.com/conda-forge/libcap-ng-feedstock.git
 	path = feedstocks/libcap-ng
 	branch = refs/heads/main
+[submodule "sfsutils"]
+	url = https://github.com/conda-forge/sfsutils-feedstock.git
+	path = feedstocks/sfsutils
+	branch = refs/heads/main
