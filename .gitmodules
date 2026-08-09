@@ -116214,3 +116214,7 @@
 	url = https://github.com/conda-forge/dkx-feedstock.git
 	path = feedstocks/dkx
 	branch = refs/heads/main
+[submodule "gkx"]
+	url = https://github.com/conda-forge/gkx-feedstock.git
+	path = feedstocks/gkx
+	branch = refs/heads/main
