@@ -116182,3 +116182,7 @@
 	url = https://github.com/conda-forge/freerdp-feedstock.git
 	path = feedstocks/freerdp
 	branch = refs/heads/main
+[submodule "mtdev"]
+	url = https://github.com/conda-forge/mtdev-feedstock.git
+	path = feedstocks/mtdev
+	branch = refs/heads/main
