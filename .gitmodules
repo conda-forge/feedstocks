@@ -116270,3 +116270,7 @@
 	url = https://github.com/conda-forge/agent-framework-anthropic-feedstock.git
 	path = feedstocks/agent-framework-anthropic
 	branch = refs/heads/main
+[submodule "planetarypy"]
+	url = https://github.com/conda-forge/planetarypy-feedstock.git
+	path = feedstocks/planetarypy
+	branch = refs/heads/main
