@@ -116262,3 +116262,7 @@
 	url = https://github.com/conda-forge/cstar-forge-feedstock.git
 	path = feedstocks/cstar-forge
 	branch = refs/heads/main
+[submodule "slackeventsapi"]
+	url = https://github.com/conda-forge/slackeventsapi-feedstock.git
+	path = feedstocks/slackeventsapi
+	branch = refs/heads/main
