@@ -116238,3 +116238,7 @@
 	url = https://github.com/conda-forge/ami-mcp-feedstock.git
 	path = feedstocks/ami-mcp
 	branch = refs/heads/main
+[submodule "r-suggests"]
+	url = https://github.com/conda-forge/r-suggests-feedstock.git
+	path = feedstocks/r-suggests
+	branch = refs/heads/main
