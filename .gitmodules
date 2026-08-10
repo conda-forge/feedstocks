@@ -116278,3 +116278,7 @@
 	url = https://github.com/conda-forge/af-credentials-feedstock.git
 	path = feedstocks/af-credentials
 	branch = refs/heads/main
+[submodule "chem10-harvard"]
+	url = https://github.com/conda-forge/chem10-harvard-feedstock.git
+	path = feedstocks/chem10-harvard
+	branch = refs/heads/main
