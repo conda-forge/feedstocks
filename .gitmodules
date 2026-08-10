@@ -116234,3 +116234,7 @@
 	url = https://github.com/conda-forge/sfsutils-feedstock.git
 	path = feedstocks/sfsutils
 	branch = refs/heads/main
+[submodule "ami-mcp"]
+	url = https://github.com/conda-forge/ami-mcp-feedstock.git
+	path = feedstocks/ami-mcp
+	branch = refs/heads/main
