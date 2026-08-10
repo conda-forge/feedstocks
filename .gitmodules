@@ -116242,3 +116242,7 @@
 	url = https://github.com/conda-forge/r-suggests-feedstock.git
 	path = feedstocks/r-suggests
 	branch = refs/heads/main
+[submodule "triangular"]
+	url = https://github.com/conda-forge/triangular-feedstock.git
+	path = feedstocks/triangular
+	branch = refs/heads/main
