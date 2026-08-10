@@ -116250,3 +116250,7 @@
 	url = https://github.com/conda-forge/tonio-feedstock.git
 	path = feedstocks/tonio
 	branch = refs/heads/main
+[submodule "metriplane"]
+	url = https://github.com/conda-forge/metriplane-feedstock.git
+	path = feedstocks/metriplane
+	branch = refs/heads/main
