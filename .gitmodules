@@ -116274,3 +116274,7 @@
 	url = https://github.com/conda-forge/planetarypy-feedstock.git
 	path = feedstocks/planetarypy
 	branch = refs/heads/main
+[submodule "af-credentials"]
+	url = https://github.com/conda-forge/af-credentials-feedstock.git
+	path = feedstocks/af-credentials
+	branch = refs/heads/main
