@@ -116254,3 +116254,7 @@
 	url = https://github.com/conda-forge/metriplane-feedstock.git
 	path = feedstocks/metriplane
 	branch = refs/heads/main
+[submodule "cyclonedx-cli"]
+	url = https://github.com/conda-forge/cyclonedx-cli-feedstock.git
+	path = feedstocks/cyclonedx-cli
+	branch = refs/heads/main
