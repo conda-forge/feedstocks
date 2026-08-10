@@ -116266,3 +116266,7 @@
 	url = https://github.com/conda-forge/slackeventsapi-feedstock.git
 	path = feedstocks/slackeventsapi
 	branch = refs/heads/main
+[submodule "agent-framework-anthropic"]
+	url = https://github.com/conda-forge/agent-framework-anthropic-feedstock.git
+	path = feedstocks/agent-framework-anthropic
+	branch = refs/heads/main
