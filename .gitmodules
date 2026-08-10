@@ -116258,3 +116258,7 @@
 	url = https://github.com/conda-forge/cyclonedx-cli-feedstock.git
 	path = feedstocks/cyclonedx-cli
 	branch = refs/heads/main
+[submodule "cstar-forge"]
+	url = https://github.com/conda-forge/cstar-forge-feedstock.git
+	path = feedstocks/cstar-forge
+	branch = refs/heads/main
