@@ -116294,3 +116294,7 @@
 	url = https://github.com/conda-forge/r-rdtools-feedstock.git
 	path = feedstocks/r-rdtools
 	branch = refs/heads/main
+[submodule "flask-pydantic"]
+	url = https://github.com/conda-forge/flask-pydantic-feedstock.git
+	path = feedstocks/flask-pydantic
+	branch = refs/heads/main
