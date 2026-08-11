@@ -116290,3 +116290,7 @@
 	url = https://github.com/conda-forge/gitlogue-feedstock.git
 	path = feedstocks/gitlogue
 	branch = refs/heads/main
+[submodule "r-rdtools"]
+	url = https://github.com/conda-forge/r-rdtools-feedstock.git
+	path = feedstocks/r-rdtools
+	branch = refs/heads/main
