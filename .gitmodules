@@ -116310,3 +116310,7 @@
 	url = https://github.com/conda-forge/zyte-api-feedstock.git
 	path = feedstocks/zyte-api
 	branch = refs/heads/main
+[submodule "sqlglot-mypy"]
+	url = https://github.com/conda-forge/sqlglot-mypy-feedstock.git
+	path = feedstocks/sqlglot-mypy
+	branch = refs/heads/main
