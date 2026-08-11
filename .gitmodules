@@ -116306,3 +116306,7 @@
 	url = https://github.com/conda-forge/gurk-feedstock.git
 	path = feedstocks/gurk
 	branch = refs/heads/main
+[submodule "zyte-api"]
+	url = https://github.com/conda-forge/zyte-api-feedstock.git
+	path = feedstocks/zyte-api
+	branch = refs/heads/main
