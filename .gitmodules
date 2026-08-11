@@ -116314,3 +116314,7 @@
 	url = https://github.com/conda-forge/sqlglot-mypy-feedstock.git
 	path = feedstocks/sqlglot-mypy
 	branch = refs/heads/main
+[submodule "pockit-optimal-control"]
+	url = https://github.com/conda-forge/pockit-optimal-control-feedstock.git
+	path = feedstocks/pockit-optimal-control
+	branch = refs/heads/main
