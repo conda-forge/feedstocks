@@ -116298,3 +116298,7 @@
 	url = https://github.com/conda-forge/flask-pydantic-feedstock.git
 	path = feedstocks/flask-pydantic
 	branch = refs/heads/main
+[submodule "pacman"]
+	url = https://github.com/conda-forge/pacman-feedstock.git
+	path = feedstocks/pacman
+	branch = refs/heads/main
