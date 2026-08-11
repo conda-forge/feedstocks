@@ -116302,3 +116302,7 @@
 	url = https://github.com/conda-forge/pacman-feedstock.git
 	path = feedstocks/pacman
 	branch = refs/heads/main
+[submodule "gurk"]
+	url = https://github.com/conda-forge/gurk-feedstock.git
+	path = feedstocks/gurk
+	branch = refs/heads/main
