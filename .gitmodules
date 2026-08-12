@@ -116326,3 +116326,7 @@
 	url = https://github.com/conda-forge/scrapy-zyte-api-feedstock.git
 	path = feedstocks/scrapy-zyte-api
 	branch = refs/heads/main
+[submodule "aiida-chemshell"]
+	url = https://github.com/conda-forge/aiida-chemshell-feedstock.git
+	path = feedstocks/aiida-chemshell
+	branch = refs/heads/main
