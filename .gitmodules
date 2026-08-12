@@ -116338,3 +116338,7 @@
 	url = https://github.com/conda-forge/brpc-feedstock.git
 	path = feedstocks/brpc
 	branch = refs/heads/main
+[submodule "eccopy"]
+	url = https://github.com/conda-forge/eccopy-feedstock.git
+	path = feedstocks/eccopy
+	branch = refs/heads/main
