@@ -116322,3 +116322,7 @@
 	url = https://github.com/conda-forge/lean-ctx-feedstock.git
 	path = feedstocks/lean-ctx
 	branch = refs/heads/main
+[submodule "scrapy-zyte-api"]
+	url = https://github.com/conda-forge/scrapy-zyte-api-feedstock.git
+	path = feedstocks/scrapy-zyte-api
+	branch = refs/heads/main
