@@ -116342,3 +116342,7 @@
 	url = https://github.com/conda-forge/eccopy-feedstock.git
 	path = feedstocks/eccopy
 	branch = refs/heads/main
+[submodule "aristaproto"]
+	url = https://github.com/conda-forge/aristaproto-feedstock.git
+	path = feedstocks/aristaproto
+	branch = refs/heads/main
