@@ -116330,3 +116330,7 @@
 	url = https://github.com/conda-forge/aiida-chemshell-feedstock.git
 	path = feedstocks/aiida-chemshell
 	branch = refs/heads/main
+[submodule "readerkit"]
+	url = https://github.com/conda-forge/readerkit-feedstock.git
+	path = feedstocks/readerkit
+	branch = refs/heads/main
