@@ -116318,3 +116318,7 @@
 	url = https://github.com/conda-forge/pockit-optimal-control-feedstock.git
 	path = feedstocks/pockit-optimal-control
 	branch = refs/heads/main
+[submodule "lean-ctx"]
+	url = https://github.com/conda-forge/lean-ctx-feedstock.git
+	path = feedstocks/lean-ctx
+	branch = refs/heads/main
