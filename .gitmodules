@@ -116346,3 +116346,7 @@
 	url = https://github.com/conda-forge/aristaproto-feedstock.git
 	path = feedstocks/aristaproto
 	branch = refs/heads/main
+[submodule "r-dlm"]
+	url = https://github.com/conda-forge/r-dlm-feedstock.git
+	path = feedstocks/r-dlm
+	branch = refs/heads/main
