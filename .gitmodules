@@ -116350,3 +116350,7 @@
 	url = https://github.com/conda-forge/r-dlm-feedstock.git
 	path = feedstocks/r-dlm
 	branch = refs/heads/main
+[submodule "herdr"]
+	url = https://github.com/conda-forge/herdr-feedstock.git
+	path = feedstocks/herdr
+	branch = refs/heads/main
