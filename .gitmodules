@@ -116362,3 +116362,7 @@
 	url = https://github.com/conda-forge/sparsax-feedstock.git
 	path = feedstocks/sparsax
 	branch = refs/heads/main
+[submodule "pyprms"]
+	url = https://github.com/conda-forge/pyprms-feedstock.git
+	path = feedstocks/pyprms
+	branch = refs/heads/main
