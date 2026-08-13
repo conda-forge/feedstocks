@@ -116354,3 +116354,7 @@
 	url = https://github.com/conda-forge/herdr-feedstock.git
 	path = feedstocks/herdr
 	branch = refs/heads/main
+[submodule "albumentationsx"]
+	url = https://github.com/conda-forge/albumentationsx-feedstock.git
+	path = feedstocks/albumentationsx
+	branch = refs/heads/main
