@@ -116382,3 +116382,7 @@
 	url = https://github.com/conda-forge/dau-utils-feedstock.git
 	path = feedstocks/dau-utils
 	branch = refs/heads/main
+[submodule "artlink"]
+	url = https://github.com/conda-forge/artlink-feedstock.git
+	path = feedstocks/artlink
+	branch = refs/heads/main
