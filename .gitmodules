@@ -116402,3 +116402,7 @@
 	url = https://github.com/conda-forge/texact-feedstock.git
 	path = feedstocks/texact
 	branch = refs/heads/main
+[submodule "pylint-pydantic"]
+	url = https://github.com/conda-forge/pylint-pydantic-feedstock.git
+	path = feedstocks/pylint-pydantic
+	branch = refs/heads/main
