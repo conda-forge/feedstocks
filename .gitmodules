@@ -116378,3 +116378,7 @@
 	url = https://github.com/conda-forge/benched-feedstock.git
 	path = feedstocks/benched
 	branch = refs/heads/main
+[submodule "dau-utils"]
+	url = https://github.com/conda-forge/dau-utils-feedstock.git
+	path = feedstocks/dau-utils
+	branch = refs/heads/main
