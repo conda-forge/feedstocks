@@ -116398,3 +116398,7 @@
 	url = https://github.com/conda-forge/skeaf-feedstock.git
 	path = feedstocks/skeaf
 	branch = refs/heads/main
+[submodule "texact"]
+	url = https://github.com/conda-forge/texact-feedstock.git
+	path = feedstocks/texact
+	branch = refs/heads/main
