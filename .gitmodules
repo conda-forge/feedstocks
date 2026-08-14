@@ -116370,3 +116370,7 @@
 	url = https://github.com/conda-forge/jamica-feedstock.git
 	path = feedstocks/jamica
 	branch = refs/heads/main
+[submodule "nxstools"]
+	url = https://github.com/conda-forge/nxstools-feedstock.git
+	path = feedstocks/nxstools
+	branch = refs/heads/main
