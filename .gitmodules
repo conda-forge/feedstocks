@@ -116390,3 +116390,7 @@
 	url = https://github.com/conda-forge/fsspec-data-feedstock.git
 	path = feedstocks/fsspec-data
 	branch = refs/heads/main
+[submodule "so3krates-torch"]
+	url = https://github.com/conda-forge/so3krates-torch-feedstock.git
+	path = feedstocks/so3krates-torch
+	branch = refs/heads/main
