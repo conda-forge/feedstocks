@@ -116386,3 +116386,7 @@
 	url = https://github.com/conda-forge/artlink-feedstock.git
 	path = feedstocks/artlink
 	branch = refs/heads/main
+[submodule "fsspec-data"]
+	url = https://github.com/conda-forge/fsspec-data-feedstock.git
+	path = feedstocks/fsspec-data
+	branch = refs/heads/main
