@@ -116394,3 +116394,7 @@
 	url = https://github.com/conda-forge/so3krates-torch-feedstock.git
 	path = feedstocks/so3krates-torch
 	branch = refs/heads/main
+[submodule "skeaf"]
+	url = https://github.com/conda-forge/skeaf-feedstock.git
+	path = feedstocks/skeaf
+	branch = refs/heads/main
