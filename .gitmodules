@@ -116406,3 +116406,7 @@
 	url = https://github.com/conda-forge/pylint-pydantic-feedstock.git
 	path = feedstocks/pylint-pydantic
 	branch = refs/heads/main
+[submodule "jsonschema-markdown"]
+	url = https://github.com/conda-forge/jsonschema-markdown-feedstock.git
+	path = feedstocks/jsonschema-markdown
+	branch = refs/heads/main
