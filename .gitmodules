@@ -116410,3 +116410,7 @@
 	url = https://github.com/conda-forge/jsonschema-markdown-feedstock.git
 	path = feedstocks/jsonschema-markdown
 	branch = refs/heads/main
+[submodule "dau-build"]
+	url = https://github.com/conda-forge/dau-build-feedstock.git
+	path = feedstocks/dau-build
+	branch = refs/heads/main
