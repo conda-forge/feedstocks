@@ -116414,3 +116414,7 @@
 	url = https://github.com/conda-forge/dau-build-feedstock.git
 	path = feedstocks/dau-build
 	branch = refs/heads/main
+[submodule "osmfinder"]
+	url = https://github.com/conda-forge/osmfinder-feedstock.git
+	path = feedstocks/osmfinder
+	branch = refs/heads/main
