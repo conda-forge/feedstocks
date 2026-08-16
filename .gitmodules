@@ -116426,3 +116426,7 @@
 	url = https://github.com/conda-forge/polars-config-meta-feedstock.git
 	path = feedstocks/polars-config-meta
 	branch = refs/heads/main
+[submodule "pyavd-utils"]
+	url = https://github.com/conda-forge/pyavd-utils-feedstock.git
+	path = feedstocks/pyavd-utils
+	branch = refs/heads/main
