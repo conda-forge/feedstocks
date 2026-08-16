@@ -116430,3 +116430,7 @@
 	url = https://github.com/conda-forge/pyavd-utils-feedstock.git
 	path = feedstocks/pyavd-utils
 	branch = refs/heads/main
+[submodule "umoci"]
+	url = https://github.com/conda-forge/umoci-feedstock.git
+	path = feedstocks/umoci
+	branch = refs/heads/main
