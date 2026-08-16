@@ -116418,3 +116418,7 @@
 	url = https://github.com/conda-forge/osmfinder-feedstock.git
 	path = feedstocks/osmfinder
 	branch = refs/heads/main
+[submodule "irma-sqw"]
+	url = https://github.com/conda-forge/irma-sqw-feedstock.git
+	path = feedstocks/irma-sqw
+	branch = refs/heads/main
