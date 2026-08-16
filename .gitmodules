@@ -116434,3 +116434,7 @@
 	url = https://github.com/conda-forge/umoci-feedstock.git
 	path = feedstocks/umoci
 	branch = refs/heads/main
+[submodule "csmith"]
+	url = https://github.com/conda-forge/csmith-feedstock.git
+	path = feedstocks/csmith
+	branch = refs/heads/main
