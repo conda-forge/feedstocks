@@ -116442,3 +116442,7 @@
 	url = https://github.com/conda-forge/jetson-stats-feedstock.git
 	path = feedstocks/jetson-stats
 	branch = refs/heads/main
+[submodule "seal-tool"]
+	url = https://github.com/conda-forge/seal-tool-feedstock.git
+	path = feedstocks/seal-tool
+	branch = refs/heads/main
