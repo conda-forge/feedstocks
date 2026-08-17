@@ -116438,3 +116438,7 @@
 	url = https://github.com/conda-forge/csmith-feedstock.git
 	path = feedstocks/csmith
 	branch = refs/heads/main
+[submodule "jetson-stats"]
+	url = https://github.com/conda-forge/jetson-stats-feedstock.git
+	path = feedstocks/jetson-stats
+	branch = refs/heads/main
