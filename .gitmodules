@@ -116466,3 +116466,7 @@
 	url = https://github.com/conda-forge/sigstore-rekor-types-feedstock.git
 	path = feedstocks/sigstore-rekor-types
 	branch = refs/heads/main
+[submodule "tuf"]
+	url = https://github.com/conda-forge/tuf-feedstock.git
+	path = feedstocks/tuf
+	branch = refs/heads/main
