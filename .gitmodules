@@ -116510,3 +116510,7 @@
 	url = https://github.com/conda-forge/http-router-feedstock.git
 	path = feedstocks/http-router
 	branch = refs/heads/main
+[submodule "apiary"]
+	url = https://github.com/conda-forge/apiary-feedstock.git
+	path = feedstocks/apiary
+	branch = refs/heads/main
