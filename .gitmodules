@@ -116498,3 +116498,7 @@
 	url = https://github.com/conda-forge/nrgljubljana-feedstock.git
 	path = feedstocks/nrgljubljana
 	branch = refs/heads/main
+[submodule "libmseed"]
+	url = https://github.com/conda-forge/libmseed-feedstock.git
+	path = feedstocks/libmseed
+	branch = refs/heads/main
