@@ -116482,3 +116482,7 @@
 	url = https://github.com/conda-forge/diffpy.stretched-nmf-feedstock.git
 	path = feedstocks/diffpy.stretched-nmf
 	branch = refs/heads/main
+[submodule "easydynamics"]
+	url = https://github.com/conda-forge/easydynamics-feedstock.git
+	path = feedstocks/easydynamics
+	branch = refs/heads/main
