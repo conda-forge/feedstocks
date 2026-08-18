@@ -116446,3 +116446,7 @@
 	url = https://github.com/conda-forge/seal-tool-feedstock.git
 	path = feedstocks/seal-tool
 	branch = refs/heads/main
+[submodule "textparser"]
+	url = https://github.com/conda-forge/textparser-feedstock.git
+	path = feedstocks/textparser
+	branch = refs/heads/main
