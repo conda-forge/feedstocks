@@ -116450,3 +116450,7 @@
 	url = https://github.com/conda-forge/textparser-feedstock.git
 	path = feedstocks/textparser
 	branch = refs/heads/main
+[submodule "rfc8785"]
+	url = https://github.com/conda-forge/rfc8785-feedstock.git
+	path = feedstocks/rfc8785
+	branch = refs/heads/main
