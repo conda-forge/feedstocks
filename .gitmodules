@@ -116514,3 +116514,7 @@
 	url = https://github.com/conda-forge/apiary-feedstock.git
 	path = feedstocks/apiary
 	branch = refs/heads/main
+[submodule "seekr"]
+	url = https://github.com/conda-forge/seekr-feedstock.git
+	path = feedstocks/seekr
+	branch = refs/heads/main
