@@ -116454,3 +116454,7 @@
 	url = https://github.com/conda-forge/rfc8785-feedstock.git
 	path = feedstocks/rfc8785
 	branch = refs/heads/main
+[submodule "sigstore"]
+	url = https://github.com/conda-forge/sigstore-feedstock.git
+	path = feedstocks/sigstore
+	branch = refs/heads/main
