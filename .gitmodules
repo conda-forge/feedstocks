@@ -116506,3 +116506,7 @@
 	url = https://github.com/conda-forge/sans-topaz-feedstock.git
 	path = feedstocks/sans-topaz
 	branch = refs/heads/main
+[submodule "http-router"]
+	url = https://github.com/conda-forge/http-router-feedstock.git
+	path = feedstocks/http-router
+	branch = refs/heads/main
