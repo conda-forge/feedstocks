@@ -116458,3 +116458,7 @@
 	url = https://github.com/conda-forge/sigstore-feedstock.git
 	path = feedstocks/sigstore
 	branch = refs/heads/main
+[submodule "sigstore-models"]
+	url = https://github.com/conda-forge/sigstore-models-feedstock.git
+	path = feedstocks/sigstore-models
+	branch = refs/heads/main
