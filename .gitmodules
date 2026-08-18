@@ -116470,3 +116470,7 @@
 	url = https://github.com/conda-forge/tuf-feedstock.git
 	path = feedstocks/tuf
 	branch = refs/heads/main
+[submodule "rfc3161-client"]
+	url = https://github.com/conda-forge/rfc3161-client-feedstock.git
+	path = feedstocks/rfc3161-client
+	branch = refs/heads/main
