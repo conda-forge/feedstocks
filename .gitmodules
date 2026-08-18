@@ -116478,3 +116478,7 @@
 	url = https://github.com/conda-forge/unitxt-feedstock.git
 	path = feedstocks/unitxt
 	branch = refs/heads/main
+[submodule "diffpy.stretched-nmf"]
+	url = https://github.com/conda-forge/diffpy.stretched-nmf-feedstock.git
+	path = feedstocks/diffpy.stretched-nmf
+	branch = refs/heads/main
