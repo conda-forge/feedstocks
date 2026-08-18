@@ -116490,3 +116490,7 @@
 	url = https://github.com/conda-forge/langgraph-cli-feedstock.git
 	path = feedstocks/langgraph-cli
 	branch = refs/heads/main
+[submodule "pydms-sorption"]
+	url = https://github.com/conda-forge/pydms-sorption-feedstock.git
+	path = feedstocks/pydms-sorption
+	branch = refs/heads/main
