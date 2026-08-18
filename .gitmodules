@@ -116462,3 +116462,7 @@
 	url = https://github.com/conda-forge/sigstore-models-feedstock.git
 	path = feedstocks/sigstore-models
 	branch = refs/heads/main
+[submodule "sigstore-rekor-types"]
+	url = https://github.com/conda-forge/sigstore-rekor-types-feedstock.git
+	path = feedstocks/sigstore-rekor-types
+	branch = refs/heads/main
