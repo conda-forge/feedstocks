@@ -116522,3 +116522,7 @@
 	url = https://github.com/conda-forge/openevals-feedstock.git
 	path = feedstocks/openevals
 	branch = refs/heads/main
+[submodule "madrigalweb"]
+	url = https://github.com/conda-forge/madrigalweb-feedstock.git
+	path = feedstocks/madrigalweb
+	branch = refs/heads/main
