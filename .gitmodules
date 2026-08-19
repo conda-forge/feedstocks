@@ -116526,3 +116526,7 @@
 	url = https://github.com/conda-forge/madrigalweb-feedstock.git
 	path = feedstocks/madrigalweb
 	branch = refs/heads/main
+[submodule "asv_env_rattler"]
+	url = https://github.com/conda-forge/asv_env_rattler-feedstock.git
+	path = feedstocks/asv_env_rattler
+	branch = refs/heads/main
