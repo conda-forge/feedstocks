@@ -116566,3 +116566,7 @@
 	url = https://github.com/conda-forge/timg-hzeller-feedstock.git
 	path = feedstocks/timg-hzeller
 	branch = refs/heads/main
+[submodule "kspace"]
+	url = https://github.com/conda-forge/kspace-feedstock.git
+	path = feedstocks/kspace
+	branch = refs/heads/main
