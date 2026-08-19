@@ -116554,3 +116554,7 @@
 	url = https://github.com/conda-forge/creduce-feedstock.git
 	path = feedstocks/creduce
 	branch = refs/heads/main
+[submodule "perl-getopt-tabular"]
+	url = https://github.com/conda-forge/perl-getopt-tabular-feedstock.git
+	path = feedstocks/perl-getopt-tabular
+	branch = refs/heads/main
