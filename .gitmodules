@@ -116546,3 +116546,7 @@
 	url = https://github.com/conda-forge/crcpp-feedstock.git
 	path = feedstocks/crcpp
 	branch = refs/heads/main
+[submodule "raschpy"]
+	url = https://github.com/conda-forge/raschpy-feedstock.git
+	path = feedstocks/raschpy
+	branch = refs/heads/main
