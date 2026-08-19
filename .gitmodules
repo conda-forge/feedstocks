@@ -116578,3 +116578,7 @@
 	url = https://github.com/conda-forge/sans-fitter-feedstock.git
 	path = feedstocks/sans-fitter
 	branch = refs/heads/main
+[submodule "dataselect"]
+	url = https://github.com/conda-forge/dataselect-feedstock.git
+	path = feedstocks/dataselect
+	branch = refs/heads/main
