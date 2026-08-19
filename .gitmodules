@@ -116550,3 +116550,7 @@
 	url = https://github.com/conda-forge/raschpy-feedstock.git
 	path = feedstocks/raschpy
 	branch = refs/heads/main
+[submodule "creduce"]
+	url = https://github.com/conda-forge/creduce-feedstock.git
+	path = feedstocks/creduce
+	branch = refs/heads/main
