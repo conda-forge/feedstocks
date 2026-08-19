@@ -116558,3 +116558,7 @@
 	url = https://github.com/conda-forge/perl-getopt-tabular-feedstock.git
 	path = feedstocks/perl-getopt-tabular
 	branch = refs/heads/main
+[submodule "perl-exporter-lite"]
+	url = https://github.com/conda-forge/perl-exporter-lite-feedstock.git
+	path = feedstocks/perl-exporter-lite
+	branch = refs/heads/main
