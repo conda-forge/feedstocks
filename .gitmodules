@@ -116530,3 +116530,7 @@
 	url = https://github.com/conda-forge/asv_env_rattler-feedstock.git
 	path = feedstocks/asv_env_rattler
 	branch = refs/heads/main
+[submodule "asv_env_pixi"]
+	url = https://github.com/conda-forge/asv_env_pixi-feedstock.git
+	path = feedstocks/asv_env_pixi
+	branch = refs/heads/main
