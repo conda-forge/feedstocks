@@ -116570,3 +116570,7 @@
 	url = https://github.com/conda-forge/kspace-feedstock.git
 	path = feedstocks/kspace
 	branch = refs/heads/main
+[submodule "litellm-proxy-extras"]
+	url = https://github.com/conda-forge/litellm-proxy-extras-feedstock.git
+	path = feedstocks/litellm-proxy-extras
+	branch = refs/heads/main
