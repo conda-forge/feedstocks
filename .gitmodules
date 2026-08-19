@@ -116586,3 +116586,7 @@
 	url = https://github.com/conda-forge/r-dfba-feedstock.git
 	path = feedstocks/r-dfba
 	branch = refs/heads/main
+[submodule "vlmrun"]
+	url = https://github.com/conda-forge/vlmrun-feedstock.git
+	path = feedstocks/vlmrun
+	branch = refs/heads/main
