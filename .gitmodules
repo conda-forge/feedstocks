@@ -116574,3 +116574,7 @@
 	url = https://github.com/conda-forge/litellm-proxy-extras-feedstock.git
 	path = feedstocks/litellm-proxy-extras
 	branch = refs/heads/main
+[submodule "sans-fitter"]
+	url = https://github.com/conda-forge/sans-fitter-feedstock.git
+	path = feedstocks/sans-fitter
+	branch = refs/heads/main
