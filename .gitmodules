@@ -116542,3 +116542,7 @@
 	url = https://github.com/conda-forge/liberfa-feedstock.git
 	path = feedstocks/liberfa
 	branch = refs/heads/main
+[submodule "crcpp"]
+	url = https://github.com/conda-forge/crcpp-feedstock.git
+	path = feedstocks/crcpp
+	branch = refs/heads/main
