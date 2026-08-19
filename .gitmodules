@@ -116534,3 +116534,7 @@
 	url = https://github.com/conda-forge/asv_env_pixi-feedstock.git
 	path = feedstocks/asv_env_pixi
 	branch = refs/heads/main
+[submodule "magnelio"]
+	url = https://github.com/conda-forge/magnelio-feedstock.git
+	path = feedstocks/magnelio
+	branch = refs/heads/main
