@@ -116582,3 +116582,7 @@
 	url = https://github.com/conda-forge/dataselect-feedstock.git
 	path = feedstocks/dataselect
 	branch = refs/heads/main
+[submodule "r-dfba"]
+	url = https://github.com/conda-forge/r-dfba-feedstock.git
+	path = feedstocks/r-dfba
+	branch = refs/heads/main
