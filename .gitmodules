@@ -116518,3 +116518,7 @@
 	url = https://github.com/conda-forge/seekr-feedstock.git
 	path = feedstocks/seekr
 	branch = refs/heads/main
+[submodule "openevals"]
+	url = https://github.com/conda-forge/openevals-feedstock.git
+	path = feedstocks/openevals
+	branch = refs/heads/main
