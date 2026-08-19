@@ -116538,3 +116538,7 @@
 	url = https://github.com/conda-forge/magnelio-feedstock.git
 	path = feedstocks/magnelio
 	branch = refs/heads/main
+[submodule "liberfa"]
+	url = https://github.com/conda-forge/liberfa-feedstock.git
+	path = feedstocks/liberfa
+	branch = refs/heads/main
