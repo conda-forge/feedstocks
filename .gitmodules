@@ -116618,3 +116618,7 @@
 	url = https://github.com/conda-forge/spaday-feedstock.git
 	path = feedstocks/spaday
 	branch = refs/heads/main
+[submodule "af-jupyterlab-mcp"]
+	url = https://github.com/conda-forge/af-jupyterlab-mcp-feedstock.git
+	path = feedstocks/af-jupyterlab-mcp
+	branch = refs/heads/main
