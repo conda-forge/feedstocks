@@ -116590,3 +116590,7 @@
 	url = https://github.com/conda-forge/vlmrun-feedstock.git
 	path = feedstocks/vlmrun
 	branch = refs/heads/main
+[submodule "opfunu"]
+	url = https://github.com/conda-forge/opfunu-feedstock.git
+	path = feedstocks/opfunu
+	branch = refs/heads/main
