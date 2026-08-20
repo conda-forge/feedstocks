@@ -116626,3 +116626,7 @@
 	url = https://github.com/conda-forge/af-filesystem-mcp-feedstock.git
 	path = feedstocks/af-filesystem-mcp
 	branch = refs/heads/main
+[submodule "unipatch"]
+	url = https://github.com/conda-forge/unipatch-feedstock.git
+	path = feedstocks/unipatch
+	branch = refs/heads/main
