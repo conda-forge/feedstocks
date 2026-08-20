@@ -116634,3 +116634,7 @@
 	url = https://github.com/conda-forge/fasttransport-feedstock.git
 	path = feedstocks/fasttransport
 	branch = refs/heads/main
+[submodule "fastloess"]
+	url = https://github.com/conda-forge/fastloess-feedstock.git
+	path = feedstocks/fastloess
+	branch = refs/heads/main
