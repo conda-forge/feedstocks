@@ -116622,3 +116622,7 @@
 	url = https://github.com/conda-forge/af-jupyterlab-mcp-feedstock.git
 	path = feedstocks/af-jupyterlab-mcp
 	branch = refs/heads/main
+[submodule "af-filesystem-mcp"]
+	url = https://github.com/conda-forge/af-filesystem-mcp-feedstock.git
+	path = feedstocks/af-filesystem-mcp
+	branch = refs/heads/main
