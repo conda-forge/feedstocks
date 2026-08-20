@@ -116606,3 +116606,7 @@
 	url = https://github.com/conda-forge/raddb-feedstock.git
 	path = feedstocks/raddb
 	branch = refs/heads/main
+[submodule "run-iocsh"]
+	url = https://github.com/conda-forge/run-iocsh-feedstock.git
+	path = feedstocks/run-iocsh
+	branch = refs/heads/main
