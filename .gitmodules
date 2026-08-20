@@ -116602,3 +116602,7 @@
 	url = https://github.com/conda-forge/ccache-storage-http-go-feedstock.git
 	path = feedstocks/ccache-storage-http-go
 	branch = refs/heads/main
+[submodule "raddb"]
+	url = https://github.com/conda-forge/raddb-feedstock.git
+	path = feedstocks/raddb
+	branch = refs/heads/main
