@@ -116614,3 +116614,7 @@
 	url = https://github.com/conda-forge/fsspec-browser-feedstock.git
 	path = feedstocks/fsspec-browser
 	branch = refs/heads/main
+[submodule "spaday"]
+	url = https://github.com/conda-forge/spaday-feedstock.git
+	path = feedstocks/spaday
+	branch = refs/heads/main
