@@ -116610,3 +116610,7 @@
 	url = https://github.com/conda-forge/run-iocsh-feedstock.git
 	path = feedstocks/run-iocsh
 	branch = refs/heads/main
+[submodule "fsspec-browser"]
+	url = https://github.com/conda-forge/fsspec-browser-feedstock.git
+	path = feedstocks/fsspec-browser
+	branch = refs/heads/main
