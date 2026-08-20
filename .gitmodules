@@ -116630,3 +116630,7 @@
 	url = https://github.com/conda-forge/unipatch-feedstock.git
 	path = feedstocks/unipatch
 	branch = refs/heads/main
+[submodule "fasttransport"]
+	url = https://github.com/conda-forge/fasttransport-feedstock.git
+	path = feedstocks/fasttransport
+	branch = refs/heads/main
