@@ -116638,3 +116638,7 @@
 	url = https://github.com/conda-forge/fastloess-feedstock.git
 	path = feedstocks/fastloess
 	branch = refs/heads/main
+[submodule "bax_algorithms"]
+	url = https://github.com/conda-forge/bax_algorithms-feedstock.git
+	path = feedstocks/bax_algorithms
+	branch = refs/heads/main
