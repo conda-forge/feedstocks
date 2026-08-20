@@ -116598,3 +116598,7 @@
 	url = https://github.com/conda-forge/mobile-money-analyzer-feedstock.git
 	path = feedstocks/mobile-money-analyzer
 	branch = refs/heads/main
+[submodule "ccache-storage-http-go"]
+	url = https://github.com/conda-forge/ccache-storage-http-go-feedstock.git
+	path = feedstocks/ccache-storage-http-go
+	branch = refs/heads/main
