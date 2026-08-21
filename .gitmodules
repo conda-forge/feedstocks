@@ -116674,3 +116674,7 @@
 	url = https://github.com/conda-forge/rigetti-quax-feedstock.git
 	path = feedstocks/rigetti-quax
 	branch = refs/heads/main
+[submodule "xorq"]
+	url = https://github.com/conda-forge/xorq-feedstock.git
+	path = feedstocks/xorq
+	branch = refs/heads/main
