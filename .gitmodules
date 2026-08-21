@@ -116654,3 +116654,7 @@
 	url = https://github.com/conda-forge/decord2-feedstock.git
 	path = feedstocks/decord2
 	branch = refs/heads/main
+[submodule "altimetry-search"]
+	url = https://github.com/conda-forge/altimetry-search-feedstock.git
+	path = feedstocks/altimetry-search
+	branch = refs/heads/main
