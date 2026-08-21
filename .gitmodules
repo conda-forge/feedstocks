@@ -116678,3 +116678,7 @@
 	url = https://github.com/conda-forge/xorq-feedstock.git
 	path = feedstocks/xorq
 	branch = refs/heads/main
+[submodule "openeo-pg-parser-networkx"]
+	url = https://github.com/conda-forge/openeo-pg-parser-networkx-feedstock.git
+	path = feedstocks/openeo-pg-parser-networkx
+	branch = refs/heads/main
