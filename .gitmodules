@@ -116642,3 +116642,7 @@
 	url = https://github.com/conda-forge/bax_algorithms-feedstock.git
 	path = feedstocks/bax_algorithms
 	branch = refs/heads/main
+[submodule "transports"]
+	url = https://github.com/conda-forge/transports-feedstock.git
+	path = feedstocks/transports
+	branch = refs/heads/main
