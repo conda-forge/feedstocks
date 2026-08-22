@@ -116710,3 +116710,7 @@
 	url = https://github.com/conda-forge/pyoctomap-feedstock.git
 	path = feedstocks/pyoctomap
 	branch = refs/heads/main
+[submodule "conda-sboms"]
+	url = https://github.com/conda-forge/conda-sboms-feedstock.git
+	path = feedstocks/conda-sboms
+	branch = refs/heads/main
