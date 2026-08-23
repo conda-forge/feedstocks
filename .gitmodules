@@ -116714,3 +116714,7 @@
 	url = https://github.com/conda-forge/conda-sboms-feedstock.git
 	path = feedstocks/conda-sboms
 	branch = refs/heads/main
+[submodule "libstatgrab"]
+	url = https://github.com/conda-forge/libstatgrab-feedstock.git
+	path = feedstocks/libstatgrab
+	branch = refs/heads/main
