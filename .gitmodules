@@ -116754,3 +116754,7 @@
 	url = https://github.com/conda-forge/vorpy3-feedstock.git
 	path = feedstocks/vorpy3
 	branch = refs/heads/main
+[submodule "leapp"]
+	url = https://github.com/conda-forge/leapp-feedstock.git
+	path = feedstocks/leapp
+	branch = refs/heads/main
