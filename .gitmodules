@@ -116718,3 +116718,7 @@
 	url = https://github.com/conda-forge/libstatgrab-feedstock.git
 	path = feedstocks/libstatgrab
 	branch = refs/heads/main
+[submodule "eopf"]
+	url = https://github.com/conda-forge/eopf-feedstock.git
+	path = feedstocks/eopf
+	branch = refs/heads/main
