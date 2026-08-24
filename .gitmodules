@@ -116738,3 +116738,7 @@
 	url = https://github.com/conda-forge/huira-feedstock.git
 	path = feedstocks/huira
 	branch = refs/heads/main
+[submodule "pyrage-stubs"]
+	url = https://github.com/conda-forge/pyrage-stubs-feedstock.git
+	path = feedstocks/pyrage-stubs
+	branch = refs/heads/main
