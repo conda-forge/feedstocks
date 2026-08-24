@@ -116722,3 +116722,7 @@
 	url = https://github.com/conda-forge/eopf-feedstock.git
 	path = feedstocks/eopf
 	branch = refs/heads/main
+[submodule "fast-sugiyama"]
+	url = https://github.com/conda-forge/fast-sugiyama-feedstock.git
+	path = feedstocks/fast-sugiyama
+	branch = refs/heads/main
