@@ -116762,3 +116762,7 @@
 	url = https://github.com/conda-forge/mcp-types-feedstock.git
 	path = feedstocks/mcp-types
 	branch = refs/heads/main
+[submodule "nxsconfigserver-db"]
+	url = https://github.com/conda-forge/nxsconfigserver-db-feedstock.git
+	path = feedstocks/nxsconfigserver-db
+	branch = refs/heads/main
