@@ -116790,3 +116790,7 @@
 	url = https://github.com/conda-forge/cloudvision-feedstock.git
 	path = feedstocks/cloudvision
 	branch = refs/heads/main
+[submodule "dbt-oracle"]
+	url = https://github.com/conda-forge/dbt-oracle-feedstock.git
+	path = feedstocks/dbt-oracle
+	branch = refs/heads/main
