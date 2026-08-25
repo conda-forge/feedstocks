@@ -116786,3 +116786,7 @@
 	url = https://github.com/conda-forge/gamma-lake-feedstock.git
 	path = feedstocks/gamma-lake
 	branch = refs/heads/main
+[submodule "cloudvision"]
+	url = https://github.com/conda-forge/cloudvision-feedstock.git
+	path = feedstocks/cloudvision
+	branch = refs/heads/main
