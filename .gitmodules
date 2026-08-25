@@ -116794,3 +116794,7 @@
 	url = https://github.com/conda-forge/dbt-oracle-feedstock.git
 	path = feedstocks/dbt-oracle
 	branch = refs/heads/main
+[submodule "filament"]
+	url = https://github.com/conda-forge/filament-feedstock.git
+	path = feedstocks/filament
+	branch = refs/heads/main
