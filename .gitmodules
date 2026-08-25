@@ -116782,3 +116782,7 @@
 	url = https://github.com/conda-forge/nepenthe-feedstock.git
 	path = feedstocks/nepenthe
 	branch = refs/heads/main
+[submodule "gamma-lake"]
+	url = https://github.com/conda-forge/gamma-lake-feedstock.git
+	path = feedstocks/gamma-lake
+	branch = refs/heads/main
