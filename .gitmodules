@@ -116766,3 +116766,7 @@
 	url = https://github.com/conda-forge/nxsconfigserver-db-feedstock.git
 	path = feedstocks/nxsconfigserver-db
 	branch = refs/heads/main
+[submodule "nxsconfigserver"]
+	url = https://github.com/conda-forge/nxsconfigserver-feedstock.git
+	path = feedstocks/nxsconfigserver
+	branch = refs/heads/main
