@@ -116758,3 +116758,7 @@
 	url = https://github.com/conda-forge/leapp-feedstock.git
 	path = feedstocks/leapp
 	branch = refs/heads/main
+[submodule "mcp-types"]
+	url = https://github.com/conda-forge/mcp-types-feedstock.git
+	path = feedstocks/mcp-types
+	branch = refs/heads/main
