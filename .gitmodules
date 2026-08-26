@@ -116802,3 +116802,7 @@
 	url = https://github.com/conda-forge/inspect-ai-feedstock.git
 	path = feedstocks/inspect-ai
 	branch = refs/heads/main
+[submodule "zipfile-zstd"]
+	url = https://github.com/conda-forge/zipfile-zstd-feedstock.git
+	path = feedstocks/zipfile-zstd
+	branch = refs/heads/main
