@@ -116798,3 +116798,7 @@
 	url = https://github.com/conda-forge/filament-feedstock.git
 	path = feedstocks/filament
 	branch = refs/heads/main
+[submodule "inspect-ai"]
+	url = https://github.com/conda-forge/inspect-ai-feedstock.git
+	path = feedstocks/inspect-ai
+	branch = refs/heads/main
