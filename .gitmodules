@@ -116810,3 +116810,7 @@
 	url = https://github.com/conda-forge/inspect-swe-feedstock.git
 	path = feedstocks/inspect-swe
 	branch = refs/heads/main
+[submodule "sage-data-polytopes"]
+	url = https://github.com/conda-forge/sage-data-polytopes-feedstock.git
+	path = feedstocks/sage-data-polytopes
+	branch = refs/heads/main
