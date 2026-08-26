@@ -116854,3 +116854,7 @@
 	url = https://github.com/conda-forge/oac-feedstock.git
 	path = feedstocks/oac
 	branch = refs/heads/main
+[submodule "py-shinylive"]
+	url = https://github.com/conda-forge/py-shinylive-feedstock.git
+	path = feedstocks/py-shinylive
+	branch = refs/heads/main
