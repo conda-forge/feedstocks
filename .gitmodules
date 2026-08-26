@@ -116830,3 +116830,7 @@
 	url = https://github.com/conda-forge/cloudsmith-api-feedstock.git
 	path = feedstocks/cloudsmith-api
 	branch = refs/heads/main
+[submodule "nxswriter"]
+	url = https://github.com/conda-forge/nxswriter-feedstock.git
+	path = feedstocks/nxswriter
+	branch = refs/heads/main
