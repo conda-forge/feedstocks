@@ -116862,3 +116862,7 @@
 	url = https://github.com/conda-forge/mkdocs-ezglossary-plugin-feedstock.git
 	path = feedstocks/mkdocs-ezglossary-plugin
 	branch = refs/heads/main
+[submodule "pytensor-ml"]
+	url = https://github.com/conda-forge/pytensor-ml-feedstock.git
+	path = feedstocks/pytensor-ml
+	branch = refs/heads/main
