@@ -116814,3 +116814,7 @@
 	url = https://github.com/conda-forge/sage-data-polytopes-feedstock.git
 	path = feedstocks/sage-data-polytopes
 	branch = refs/heads/main
+[submodule "dinrail"]
+	url = https://github.com/conda-forge/dinrail-feedstock.git
+	path = feedstocks/dinrail
+	branch = refs/heads/main
