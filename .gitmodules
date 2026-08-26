@@ -116826,3 +116826,7 @@
 	url = https://github.com/conda-forge/cmac-feedstock.git
 	path = feedstocks/cmac
 	branch = refs/heads/main
+[submodule "cloudsmith-api"]
+	url = https://github.com/conda-forge/cloudsmith-api-feedstock.git
+	path = feedstocks/cloudsmith-api
+	branch = refs/heads/main
