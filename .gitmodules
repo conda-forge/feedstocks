@@ -116822,3 +116822,7 @@
 	url = https://github.com/conda-forge/timezonefinder-data-feedstock.git
 	path = feedstocks/timezonefinder-data
 	branch = refs/heads/main
+[submodule "cmac"]
+	url = https://github.com/conda-forge/cmac-feedstock.git
+	path = feedstocks/cmac
+	branch = refs/heads/main
