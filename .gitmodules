@@ -116858,3 +116858,7 @@
 	url = https://github.com/conda-forge/py-shinylive-feedstock.git
 	path = feedstocks/py-shinylive
 	branch = refs/heads/main
+[submodule "mkdocs-ezglossary-plugin"]
+	url = https://github.com/conda-forge/mkdocs-ezglossary-plugin-feedstock.git
+	path = feedstocks/mkdocs-ezglossary-plugin
+	branch = refs/heads/main
