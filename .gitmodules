@@ -116850,3 +116850,7 @@
 	url = https://github.com/conda-forge/sphinx-typst-math-feedstock.git
 	path = feedstocks/sphinx-typst-math
 	branch = refs/heads/main
+[submodule "oac"]
+	url = https://github.com/conda-forge/oac-feedstock.git
+	path = feedstocks/oac
+	branch = refs/heads/main
