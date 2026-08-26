@@ -116846,3 +116846,7 @@
 	url = https://github.com/conda-forge/nxsrecselector-feedstock.git
 	path = feedstocks/nxsrecselector
 	branch = refs/heads/main
+[submodule "sphinx-typst-math"]
+	url = https://github.com/conda-forge/sphinx-typst-math-feedstock.git
+	path = feedstocks/sphinx-typst-math
+	branch = refs/heads/main
