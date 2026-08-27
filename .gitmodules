@@ -116978,3 +116978,7 @@
 	url = https://github.com/conda-forge/scicommander-feedstock.git
 	path = feedstocks/scicommander
 	branch = refs/heads/main
+[submodule "langchain-litellm"]
+	url = https://github.com/conda-forge/langchain-litellm-feedstock.git
+	path = feedstocks/langchain-litellm
+	branch = refs/heads/main
