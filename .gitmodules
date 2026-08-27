@@ -117038,3 +117038,7 @@
 	url = https://github.com/conda-forge/grpc-requests-feedstock.git
 	path = feedstocks/grpc-requests
 	branch = refs/heads/main
+[submodule "uwham"]
+	url = https://github.com/conda-forge/uwham-feedstock.git
+	path = feedstocks/uwham
+	branch = refs/heads/main
