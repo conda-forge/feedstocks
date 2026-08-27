@@ -116906,3 +116906,7 @@
 	url = https://github.com/conda-forge/dftbephy-feedstock.git
 	path = feedstocks/dftbephy
 	branch = refs/heads/main
+[submodule "langchain-google-vertexai"]
+	url = https://github.com/conda-forge/langchain-google-vertexai-feedstock.git
+	path = feedstocks/langchain-google-vertexai
+	branch = refs/heads/main
