@@ -116930,3 +116930,7 @@
 	url = https://github.com/conda-forge/headroom-ai-feedstock.git
 	path = feedstocks/headroom-ai
 	branch = refs/heads/main
+[submodule "meteo_si"]
+	url = https://github.com/conda-forge/meteo_si-feedstock.git
+	path = feedstocks/meteo_si
+	branch = refs/heads/main
