@@ -116938,3 +116938,7 @@
 	url = https://github.com/conda-forge/bless-feedstock.git
 	path = feedstocks/bless
 	branch = refs/heads/main
+[submodule "agnoctl"]
+	url = https://github.com/conda-forge/agnoctl-feedstock.git
+	path = feedstocks/agnoctl
+	branch = refs/heads/main
