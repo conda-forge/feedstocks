@@ -116910,3 +116910,7 @@
 	url = https://github.com/conda-forge/langchain-google-vertexai-feedstock.git
 	path = feedstocks/langchain-google-vertexai
 	branch = refs/heads/main
+[submodule "speckit-specops"]
+	url = https://github.com/conda-forge/speckit-specops-feedstock.git
+	path = feedstocks/speckit-specops
+	branch = refs/heads/main
