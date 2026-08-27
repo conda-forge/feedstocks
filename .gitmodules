@@ -116922,3 +116922,7 @@
 	url = https://github.com/conda-forge/pdf-inspector-feedstock.git
 	path = feedstocks/pdf-inspector
 	branch = refs/heads/main
+[submodule "sardana-nxsrecorder"]
+	url = https://github.com/conda-forge/sardana-nxsrecorder-feedstock.git
+	path = feedstocks/sardana-nxsrecorder
+	branch = refs/heads/main
