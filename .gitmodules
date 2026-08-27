@@ -117034,3 +117034,7 @@
 	url = https://github.com/conda-forge/advect-feedstock.git
 	path = feedstocks/advect
 	branch = refs/heads/main
+[submodule "grpc-requests"]
+	url = https://github.com/conda-forge/grpc-requests-feedstock.git
+	path = feedstocks/grpc-requests
+	branch = refs/heads/main
