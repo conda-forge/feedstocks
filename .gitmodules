@@ -116890,3 +116890,7 @@
 	url = https://github.com/conda-forge/presto-pulsar-feedstock.git
 	path = feedstocks/presto-pulsar
 	branch = refs/heads/main
+[submodule "spacr"]
+	url = https://github.com/conda-forge/spacr-feedstock.git
+	path = feedstocks/spacr
+	branch = refs/heads/main
