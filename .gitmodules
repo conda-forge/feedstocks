@@ -116882,3 +116882,7 @@
 	url = https://github.com/conda-forge/cnchash-feedstock.git
 	path = feedstocks/cnchash
 	branch = refs/heads/main
+[submodule "paneru"]
+	url = https://github.com/conda-forge/paneru-feedstock.git
+	path = feedstocks/paneru
+	branch = refs/heads/main
