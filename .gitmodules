@@ -117058,3 +117058,7 @@
 	url = https://github.com/conda-forge/sarkit-processing-feedstock.git
 	path = feedstocks/sarkit-processing
 	branch = refs/heads/main
+[submodule "streamlit-authenticator"]
+	url = https://github.com/conda-forge/streamlit-authenticator-feedstock.git
+	path = feedstocks/streamlit-authenticator
+	branch = refs/heads/main
