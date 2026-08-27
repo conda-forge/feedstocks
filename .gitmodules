@@ -117018,3 +117018,7 @@
 	url = https://github.com/conda-forge/keyrings.cryptfile-feedstock.git
 	path = feedstocks/keyrings.cryptfile
 	branch = refs/heads/main
+[submodule "snapshot"]
+	url = https://github.com/conda-forge/snapshot-feedstock.git
+	path = feedstocks/snapshot
+	branch = refs/heads/main
