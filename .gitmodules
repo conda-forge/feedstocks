@@ -116994,3 +116994,7 @@
 	url = https://github.com/conda-forge/starlette-prometheus-feedstock.git
 	path = feedstocks/starlette-prometheus
 	branch = refs/heads/main
+[submodule "langchain-cohere"]
+	url = https://github.com/conda-forge/langchain-cohere-feedstock.git
+	path = feedstocks/langchain-cohere
+	branch = refs/heads/main
