@@ -116974,3 +116974,7 @@
 	url = https://github.com/conda-forge/langchain-milvus-feedstock.git
 	path = feedstocks/langchain-milvus
 	branch = refs/heads/main
+[submodule "scicommander"]
+	url = https://github.com/conda-forge/scicommander-feedstock.git
+	path = feedstocks/scicommander
+	branch = refs/heads/main
