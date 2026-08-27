@@ -116914,3 +116914,7 @@
 	url = https://github.com/conda-forge/speckit-specops-feedstock.git
 	path = feedstocks/speckit-specops
 	branch = refs/heads/main
+[submodule "pymseed"]
+	url = https://github.com/conda-forge/pymseed-feedstock.git
+	path = feedstocks/pymseed
+	branch = refs/heads/main
