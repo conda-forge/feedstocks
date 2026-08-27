@@ -117022,3 +117022,7 @@
 	url = https://github.com/conda-forge/snapshot-feedstock.git
 	path = feedstocks/snapshot
 	branch = refs/heads/main
+[submodule "langchain-graph-retriever"]
+	url = https://github.com/conda-forge/langchain-graph-retriever-feedstock.git
+	path = feedstocks/langchain-graph-retriever
+	branch = refs/heads/main
