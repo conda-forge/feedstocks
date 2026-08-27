@@ -116874,3 +116874,7 @@
 	url = https://github.com/conda-forge/xacrodoc-feedstock.git
 	path = feedstocks/xacrodoc
 	branch = refs/heads/main
+[submodule "earthscope-msi"]
+	url = https://github.com/conda-forge/earthscope-msi-feedstock.git
+	path = feedstocks/earthscope-msi
+	branch = refs/heads/main
