@@ -117030,3 +117030,7 @@
 	url = https://github.com/conda-forge/jupyter-live-content-feedstock.git
 	path = feedstocks/jupyter-live-content
 	branch = refs/heads/main
+[submodule "advect"]
+	url = https://github.com/conda-forge/advect-feedstock.git
+	path = feedstocks/advect
+	branch = refs/heads/main
