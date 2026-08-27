@@ -117042,3 +117042,7 @@
 	url = https://github.com/conda-forge/uwham-feedstock.git
 	path = feedstocks/uwham
 	branch = refs/heads/main
+[submodule "rung-ai"]
+	url = https://github.com/conda-forge/rung-ai-feedstock.git
+	path = feedstocks/rung-ai
+	branch = refs/heads/main
