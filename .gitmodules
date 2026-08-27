@@ -117046,3 +117046,7 @@
 	url = https://github.com/conda-forge/rung-ai-feedstock.git
 	path = feedstocks/rung-ai
 	branch = refs/heads/main
+[submodule "caf.van"]
+	url = https://github.com/conda-forge/caf.van-feedstock.git
+	path = feedstocks/caf.van
+	branch = refs/heads/main
