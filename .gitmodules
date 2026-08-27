@@ -117010,3 +117010,7 @@
 	url = https://github.com/conda-forge/mem0ai-feedstock.git
 	path = feedstocks/mem0ai
 	branch = refs/heads/main
+[submodule "metal-sdk"]
+	url = https://github.com/conda-forge/metal-sdk-feedstock.git
+	path = feedstocks/metal-sdk
+	branch = refs/heads/main
