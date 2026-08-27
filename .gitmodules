@@ -116998,3 +116998,7 @@
 	url = https://github.com/conda-forge/langchain-cohere-feedstock.git
 	path = feedstocks/langchain-cohere
 	branch = refs/heads/main
+[submodule "pythonlings"]
+	url = https://github.com/conda-forge/pythonlings-feedstock.git
+	path = feedstocks/pythonlings
+	branch = refs/heads/main
