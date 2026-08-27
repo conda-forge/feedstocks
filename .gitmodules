@@ -117026,3 +117026,7 @@
 	url = https://github.com/conda-forge/langchain-graph-retriever-feedstock.git
 	path = feedstocks/langchain-graph-retriever
 	branch = refs/heads/main
+[submodule "jupyter-live-content"]
+	url = https://github.com/conda-forge/jupyter-live-content-feedstock.git
+	path = feedstocks/jupyter-live-content
+	branch = refs/heads/main
