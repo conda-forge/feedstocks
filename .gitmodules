@@ -116962,3 +116962,7 @@
 	url = https://github.com/conda-forge/qt-tour-feedstock.git
 	path = feedstocks/qt-tour
 	branch = refs/heads/main
+[submodule "randompack"]
+	url = https://github.com/conda-forge/randompack-feedstock.git
+	path = feedstocks/randompack
+	branch = refs/heads/main
