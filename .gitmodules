@@ -116918,3 +116918,7 @@
 	url = https://github.com/conda-forge/pymseed-feedstock.git
 	path = feedstocks/pymseed
 	branch = refs/heads/main
+[submodule "pdf-inspector"]
+	url = https://github.com/conda-forge/pdf-inspector-feedstock.git
+	path = feedstocks/pdf-inspector
+	branch = refs/heads/main
