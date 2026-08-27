@@ -116926,3 +116926,7 @@
 	url = https://github.com/conda-forge/sardana-nxsrecorder-feedstock.git
 	path = feedstocks/sardana-nxsrecorder
 	branch = refs/heads/main
+[submodule "headroom-ai"]
+	url = https://github.com/conda-forge/headroom-ai-feedstock.git
+	path = feedstocks/headroom-ai
+	branch = refs/heads/main
