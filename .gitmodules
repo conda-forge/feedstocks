@@ -116966,3 +116966,7 @@
 	url = https://github.com/conda-forge/randompack-feedstock.git
 	path = feedstocks/randompack
 	branch = refs/heads/main
+[submodule "langchain-nvidia-ai-endpoints"]
+	url = https://github.com/conda-forge/langchain-nvidia-ai-endpoints-feedstock.git
+	path = feedstocks/langchain-nvidia-ai-endpoints
+	branch = refs/heads/main
