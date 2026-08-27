@@ -116886,3 +116886,7 @@
 	url = https://github.com/conda-forge/paneru-feedstock.git
 	path = feedstocks/paneru
 	branch = refs/heads/main
+[submodule "presto-pulsar"]
+	url = https://github.com/conda-forge/presto-pulsar-feedstock.git
+	path = feedstocks/presto-pulsar
+	branch = refs/heads/main
