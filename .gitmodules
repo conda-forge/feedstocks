@@ -117014,3 +117014,7 @@
 	url = https://github.com/conda-forge/metal-sdk-feedstock.git
 	path = feedstocks/metal-sdk
 	branch = refs/heads/main
+[submodule "keyrings.cryptfile"]
+	url = https://github.com/conda-forge/keyrings.cryptfile-feedstock.git
+	path = feedstocks/keyrings.cryptfile
+	branch = refs/heads/main
