@@ -117002,3 +117002,7 @@
 	url = https://github.com/conda-forge/pythonlings-feedstock.git
 	path = feedstocks/pythonlings
 	branch = refs/heads/main
+[submodule "extra-streamlit-components"]
+	url = https://github.com/conda-forge/extra-streamlit-components-feedstock.git
+	path = feedstocks/extra-streamlit-components
+	branch = refs/heads/main
