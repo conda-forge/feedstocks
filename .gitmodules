@@ -117050,3 +117050,7 @@
 	url = https://github.com/conda-forge/caf.van-feedstock.git
 	path = feedstocks/caf.van
 	branch = refs/heads/main
+[submodule "langchain-google-calendar-tools"]
+	url = https://github.com/conda-forge/langchain-google-calendar-tools-feedstock.git
+	path = feedstocks/langchain-google-calendar-tools
+	branch = refs/heads/main
