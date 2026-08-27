@@ -116942,3 +116942,7 @@
 	url = https://github.com/conda-forge/agnoctl-feedstock.git
 	path = feedstocks/agnoctl
 	branch = refs/heads/main
+[submodule "maxwelllink"]
+	url = https://github.com/conda-forge/maxwelllink-feedstock.git
+	path = feedstocks/maxwelllink
+	branch = refs/heads/main
