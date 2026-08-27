@@ -116990,3 +116990,7 @@
 	url = https://github.com/conda-forge/pushtodisplay-feedstock.git
 	path = feedstocks/pushtodisplay
 	branch = refs/heads/main
+[submodule "starlette-prometheus"]
+	url = https://github.com/conda-forge/starlette-prometheus-feedstock.git
+	path = feedstocks/starlette-prometheus
+	branch = refs/heads/main
