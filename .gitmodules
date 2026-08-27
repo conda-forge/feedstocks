@@ -116878,3 +116878,7 @@
 	url = https://github.com/conda-forge/earthscope-msi-feedstock.git
 	path = feedstocks/earthscope-msi
 	branch = refs/heads/main
+[submodule "cnchash"]
+	url = https://github.com/conda-forge/cnchash-feedstock.git
+	path = feedstocks/cnchash
+	branch = refs/heads/main
