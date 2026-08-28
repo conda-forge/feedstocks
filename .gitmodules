@@ -117078,3 +117078,7 @@
 	url = https://github.com/conda-forge/cloudsmith-cli-feedstock.git
 	path = feedstocks/cloudsmith-cli
 	branch = refs/heads/main
+[submodule "pamtra"]
+	url = https://github.com/conda-forge/pamtra-feedstock.git
+	path = feedstocks/pamtra
+	branch = refs/heads/main
