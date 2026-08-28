@@ -117070,3 +117070,7 @@
 	url = https://github.com/conda-forge/smilesherlock-feedstock.git
 	path = feedstocks/smilesherlock
 	branch = refs/heads/main
+[submodule "esi-shakelib"]
+	url = https://github.com/conda-forge/esi-shakelib-feedstock.git
+	path = feedstocks/esi-shakelib
+	branch = refs/heads/main
