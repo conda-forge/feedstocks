@@ -117074,3 +117074,7 @@
 	url = https://github.com/conda-forge/esi-shakelib-feedstock.git
 	path = feedstocks/esi-shakelib
 	branch = refs/heads/main
+[submodule "cloudsmith-cli"]
+	url = https://github.com/conda-forge/cloudsmith-cli-feedstock.git
+	path = feedstocks/cloudsmith-cli
+	branch = refs/heads/main
