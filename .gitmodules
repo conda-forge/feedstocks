@@ -117102,3 +117102,7 @@
 	url = https://github.com/conda-forge/binmod1d-feedstock.git
 	path = feedstocks/binmod1d
 	branch = refs/heads/main
+[submodule "tensorrt"]
+	url = https://github.com/conda-forge/tensorrt-feedstock.git
+	path = feedstocks/tensorrt
+	branch = refs/heads/main
