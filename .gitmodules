@@ -117110,3 +117110,7 @@
 	url = https://github.com/conda-forge/milvus-lite-feedstock.git
 	path = feedstocks/milvus-lite
 	branch = refs/heads/main
+[submodule "cbaseline"]
+	url = https://github.com/conda-forge/cbaseline-feedstock.git
+	path = feedstocks/cbaseline
+	branch = refs/heads/main
