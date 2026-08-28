@@ -117098,3 +117098,7 @@
 	url = https://github.com/conda-forge/spec42-feedstock.git
 	path = feedstocks/spec42
 	branch = refs/heads/main
+[submodule "binmod1d"]
+	url = https://github.com/conda-forge/binmod1d-feedstock.git
+	path = feedstocks/binmod1d
+	branch = refs/heads/main
