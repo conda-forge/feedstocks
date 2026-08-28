@@ -117082,3 +117082,7 @@
 	url = https://github.com/conda-forge/pamtra-feedstock.git
 	path = feedstocks/pamtra
 	branch = refs/heads/main
+[submodule "r-sepkoski"]
+	url = https://github.com/conda-forge/r-sepkoski-feedstock.git
+	path = feedstocks/r-sepkoski
+	branch = refs/heads/main
