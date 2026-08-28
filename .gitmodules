@@ -117086,3 +117086,7 @@
 	url = https://github.com/conda-forge/r-sepkoski-feedstock.git
 	path = feedstocks/r-sepkoski
 	branch = refs/heads/main
+[submodule "pywhatwgurl"]
+	url = https://github.com/conda-forge/pywhatwgurl-feedstock.git
+	path = feedstocks/pywhatwgurl
+	branch = refs/heads/main
