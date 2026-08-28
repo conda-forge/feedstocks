@@ -117114,3 +117114,7 @@
 	url = https://github.com/conda-forge/cbaseline-feedstock.git
 	path = feedstocks/cbaseline
 	branch = refs/heads/main
+[submodule "tclean"]
+	url = https://github.com/conda-forge/tclean-feedstock.git
+	path = feedstocks/tclean
+	branch = refs/heads/main
