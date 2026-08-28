@@ -117106,3 +117106,7 @@
 	url = https://github.com/conda-forge/tensorrt-feedstock.git
 	path = feedstocks/tensorrt
 	branch = refs/heads/main
+[submodule "milvus-lite"]
+	url = https://github.com/conda-forge/milvus-lite-feedstock.git
+	path = feedstocks/milvus-lite
+	branch = refs/heads/main
