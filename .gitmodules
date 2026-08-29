@@ -117134,3 +117134,7 @@
 	url = https://github.com/conda-forge/pymef-feedstock.git
 	path = feedstocks/pymef
 	branch = refs/heads/main
+[submodule "cherab-stubs"]
+	url = https://github.com/conda-forge/cherab-stubs-feedstock.git
+	path = feedstocks/cherab-stubs
+	branch = refs/heads/main
