@@ -117146,3 +117146,7 @@
 	url = https://github.com/conda-forge/raysect-stubs-feedstock.git
 	path = feedstocks/raysect-stubs
 	branch = refs/heads/main
+[submodule "needle-python"]
+	url = https://github.com/conda-forge/needle-python-feedstock.git
+	path = feedstocks/needle-python
+	branch = refs/heads/main
