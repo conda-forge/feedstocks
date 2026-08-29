@@ -117118,3 +117118,7 @@
 	url = https://github.com/conda-forge/tclean-feedstock.git
 	path = feedstocks/tclean
 	branch = refs/heads/main
+[submodule "sigimax"]
+	url = https://github.com/conda-forge/sigimax-feedstock.git
+	path = feedstocks/sigimax
+	branch = refs/heads/main
