@@ -117142,3 +117142,7 @@
 	url = https://github.com/conda-forge/mkl_umath-feedstock.git
 	path = feedstocks/mkl_umath
 	branch = refs/heads/main
+[submodule "raysect-stubs"]
+	url = https://github.com/conda-forge/raysect-stubs-feedstock.git
+	path = feedstocks/raysect-stubs
+	branch = refs/heads/main
