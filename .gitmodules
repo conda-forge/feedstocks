@@ -117138,3 +117138,7 @@
 	url = https://github.com/conda-forge/cherab-stubs-feedstock.git
 	path = feedstocks/cherab-stubs
 	branch = refs/heads/main
+[submodule "mkl_umath"]
+	url = https://github.com/conda-forge/mkl_umath-feedstock.git
+	path = feedstocks/mkl_umath
+	branch = refs/heads/main
