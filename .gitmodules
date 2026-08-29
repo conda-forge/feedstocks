@@ -117130,3 +117130,7 @@
 	url = https://github.com/conda-forge/catmodeling-feedstock.git
 	path = feedstocks/catmodeling
 	branch = refs/heads/main
+[submodule "pymef"]
+	url = https://github.com/conda-forge/pymef-feedstock.git
+	path = feedstocks/pymef
+	branch = refs/heads/main
