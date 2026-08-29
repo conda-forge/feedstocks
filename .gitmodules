@@ -117122,3 +117122,7 @@
 	url = https://github.com/conda-forge/sigimax-feedstock.git
 	path = feedstocks/sigimax
 	branch = refs/heads/main
+[submodule "agentfem"]
+	url = https://github.com/conda-forge/agentfem-feedstock.git
+	path = feedstocks/agentfem
+	branch = refs/heads/main
