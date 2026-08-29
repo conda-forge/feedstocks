@@ -117126,3 +117126,7 @@
 	url = https://github.com/conda-forge/agentfem-feedstock.git
 	path = feedstocks/agentfem
 	branch = refs/heads/main
+[submodule "catmodeling"]
+	url = https://github.com/conda-forge/catmodeling-feedstock.git
+	path = feedstocks/catmodeling
+	branch = refs/heads/main
