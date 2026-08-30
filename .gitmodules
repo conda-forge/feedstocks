@@ -117150,3 +117150,7 @@
 	url = https://github.com/conda-forge/needle-python-feedstock.git
 	path = feedstocks/needle-python
 	branch = refs/heads/main
+[submodule "prothon"]
+	url = https://github.com/conda-forge/prothon-feedstock.git
+	path = feedstocks/prothon
+	branch = refs/heads/main
