@@ -117186,3 +117186,7 @@
 	url = https://github.com/conda-forge/cheminformant-feedstock.git
 	path = feedstocks/cheminformant
 	branch = refs/heads/main
+[submodule "beacon-api"]
+	url = https://github.com/conda-forge/beacon-api-feedstock.git
+	path = feedstocks/beacon-api
+	branch = refs/heads/main
