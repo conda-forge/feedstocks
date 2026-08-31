@@ -117158,3 +117158,7 @@
 	url = https://github.com/conda-forge/langgraph-runtime-inmem-feedstock.git
 	path = feedstocks/langgraph-runtime-inmem
 	branch = refs/heads/main
+[submodule "mortgagemath"]
+	url = https://github.com/conda-forge/mortgagemath-feedstock.git
+	path = feedstocks/mortgagemath
+	branch = refs/heads/main
