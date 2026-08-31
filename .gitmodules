@@ -117182,3 +117182,7 @@
 	url = https://github.com/conda-forge/rpviz-feedstock.git
 	path = feedstocks/rpviz
 	branch = refs/heads/main
+[submodule "cheminformant"]
+	url = https://github.com/conda-forge/cheminformant-feedstock.git
+	path = feedstocks/cheminformant
+	branch = refs/heads/main
