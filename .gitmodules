@@ -117210,3 +117210,7 @@
 	url = https://github.com/conda-forge/ansible-dev-tools-feedstock.git
 	path = feedstocks/ansible-dev-tools
 	branch = refs/heads/main
+[submodule "pytest-ansible"]
+	url = https://github.com/conda-forge/pytest-ansible-feedstock.git
+	path = feedstocks/pytest-ansible
+	branch = refs/heads/main
