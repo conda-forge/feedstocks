@@ -117178,3 +117178,7 @@
 	url = https://github.com/conda-forge/quadrants-feedstock.git
 	path = feedstocks/quadrants
 	branch = refs/heads/main
+[submodule "rpviz"]
+	url = https://github.com/conda-forge/rpviz-feedstock.git
+	path = feedstocks/rpviz
+	branch = refs/heads/main
