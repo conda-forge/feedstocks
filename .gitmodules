@@ -117194,3 +117194,7 @@
 	url = https://github.com/conda-forge/spaday-studio-feedstock.git
 	path = feedstocks/spaday-studio
 	branch = refs/heads/main
+[submodule "spaday-dagre"]
+	url = https://github.com/conda-forge/spaday-dagre-feedstock.git
+	path = feedstocks/spaday-dagre
+	branch = refs/heads/main
