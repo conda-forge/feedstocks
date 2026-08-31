@@ -117214,3 +117214,7 @@
 	url = https://github.com/conda-forge/pytest-ansible-feedstock.git
 	path = feedstocks/pytest-ansible
 	branch = refs/heads/main
+[submodule "mparray"]
+	url = https://github.com/conda-forge/mparray-feedstock.git
+	path = feedstocks/mparray
+	branch = refs/heads/main
