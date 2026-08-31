@@ -117174,3 +117174,7 @@
 	url = https://github.com/conda-forge/kern-feedstock.git
 	path = feedstocks/kern
 	branch = refs/heads/main
+[submodule "quadrants"]
+	url = https://github.com/conda-forge/quadrants-feedstock.git
+	path = feedstocks/quadrants
+	branch = refs/heads/main
