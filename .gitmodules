@@ -117206,3 +117206,7 @@
 	url = https://github.com/conda-forge/tox-ansible-feedstock.git
 	path = feedstocks/tox-ansible
 	branch = refs/heads/main
+[submodule "ansible-dev-tools"]
+	url = https://github.com/conda-forge/ansible-dev-tools-feedstock.git
+	path = feedstocks/ansible-dev-tools
+	branch = refs/heads/main
