@@ -117166,3 +117166,7 @@
 	url = https://github.com/conda-forge/nvalchemi-toolkit-ops-feedstock.git
 	path = feedstocks/nvalchemi-toolkit-ops
 	branch = refs/heads/main
+[submodule "langchain-elasticsearch"]
+	url = https://github.com/conda-forge/langchain-elasticsearch-feedstock.git
+	path = feedstocks/langchain-elasticsearch
+	branch = refs/heads/main
