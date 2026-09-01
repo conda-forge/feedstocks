@@ -117286,3 +117286,7 @@
 	url = https://github.com/conda-forge/kedro-mcp-feedstock.git
 	path = feedstocks/kedro-mcp
 	branch = refs/heads/main
+[submodule "quarantine-py"]
+	url = https://github.com/conda-forge/quarantine-py-feedstock.git
+	path = feedstocks/quarantine-py
+	branch = refs/heads/main
