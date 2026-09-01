@@ -117266,3 +117266,7 @@
 	url = https://github.com/conda-forge/opik-feedstock.git
 	path = feedstocks/opik
 	branch = refs/heads/main
+[submodule "wdfkit"]
+	url = https://github.com/conda-forge/wdfkit-feedstock.git
+	path = feedstocks/wdfkit
+	branch = refs/heads/main
