@@ -117274,3 +117274,7 @@
 	url = https://github.com/conda-forge/fastpotify-feedstock.git
 	path = feedstocks/fastpotify
 	branch = refs/heads/main
+[submodule "topo-tools"]
+	url = https://github.com/conda-forge/topo-tools-feedstock.git
+	path = feedstocks/topo-tools
+	branch = refs/heads/main
