@@ -117282,3 +117282,7 @@
 	url = https://github.com/conda-forge/pixi-pfx-feedstock.git
 	path = feedstocks/pixi-pfx
 	branch = refs/heads/main
+[submodule "kedro-mcp"]
+	url = https://github.com/conda-forge/kedro-mcp-feedstock.git
+	path = feedstocks/kedro-mcp
+	branch = refs/heads/main
