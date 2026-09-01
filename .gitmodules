@@ -117242,3 +117242,7 @@
 	url = https://github.com/conda-forge/batchcorder-feedstock.git
 	path = feedstocks/batchcorder
 	branch = refs/heads/main
+[submodule "openlayer"]
+	url = https://github.com/conda-forge/openlayer-feedstock.git
+	path = feedstocks/openlayer
+	branch = refs/heads/main
