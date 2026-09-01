@@ -117290,3 +117290,7 @@
 	url = https://github.com/conda-forge/quarantine-py-feedstock.git
 	path = feedstocks/quarantine-py
 	branch = refs/heads/main
+[submodule "scrollcase-consumer"]
+	url = https://github.com/conda-forge/scrollcase-consumer-feedstock.git
+	path = feedstocks/scrollcase-consumer
+	branch = refs/heads/main
