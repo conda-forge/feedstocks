@@ -117238,3 +117238,7 @@
 	url = https://github.com/conda-forge/azure-ai-projects-feedstock.git
 	path = feedstocks/azure-ai-projects
 	branch = refs/heads/main
+[submodule "batchcorder"]
+	url = https://github.com/conda-forge/batchcorder-feedstock.git
+	path = feedstocks/batchcorder
+	branch = refs/heads/main
