@@ -117278,3 +117278,7 @@
 	url = https://github.com/conda-forge/topo-tools-feedstock.git
 	path = feedstocks/topo-tools
 	branch = refs/heads/main
+[submodule "pixi-pfx"]
+	url = https://github.com/conda-forge/pixi-pfx-feedstock.git
+	path = feedstocks/pixi-pfx
+	branch = refs/heads/main
