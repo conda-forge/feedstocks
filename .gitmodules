@@ -117234,3 +117234,7 @@
 	url = https://github.com/conda-forge/dynaref-feedstock.git
 	path = feedstocks/dynaref
 	branch = refs/heads/main
+[submodule "azure-ai-projects"]
+	url = https://github.com/conda-forge/azure-ai-projects-feedstock.git
+	path = feedstocks/azure-ai-projects
+	branch = refs/heads/main
