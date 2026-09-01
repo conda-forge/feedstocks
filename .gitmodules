@@ -117226,3 +117226,7 @@
 	url = https://github.com/conda-forge/pywebview-feedstock.git
 	path = feedstocks/pywebview
 	branch = refs/heads/main
+[submodule "langgraph-api"]
+	url = https://github.com/conda-forge/langgraph-api-feedstock.git
+	path = feedstocks/langgraph-api
+	branch = refs/heads/main
