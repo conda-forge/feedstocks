@@ -117250,3 +117250,7 @@
 	url = https://github.com/conda-forge/skyplot-feedstock.git
 	path = feedstocks/skyplot
 	branch = refs/heads/main
+[submodule "speedups"]
+	url = https://github.com/conda-forge/speedups-feedstock.git
+	path = feedstocks/speedups
+	branch = refs/heads/main
