@@ -117258,3 +117258,7 @@
 	url = https://github.com/conda-forge/pyfcs-feedstock.git
 	path = feedstocks/pyfcs
 	branch = refs/heads/main
+[submodule "arize-phoenix-sqlean"]
+	url = https://github.com/conda-forge/arize-phoenix-sqlean-feedstock.git
+	path = feedstocks/arize-phoenix-sqlean
+	branch = refs/heads/main
