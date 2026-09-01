@@ -117254,3 +117254,7 @@
 	url = https://github.com/conda-forge/speedups-feedstock.git
 	path = feedstocks/speedups
 	branch = refs/heads/main
+[submodule "pyfcs"]
+	url = https://github.com/conda-forge/pyfcs-feedstock.git
+	path = feedstocks/pyfcs
+	branch = refs/heads/main
