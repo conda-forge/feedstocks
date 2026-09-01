@@ -117246,3 +117246,7 @@
 	url = https://github.com/conda-forge/openlayer-feedstock.git
 	path = feedstocks/openlayer
 	branch = refs/heads/main
+[submodule "skyplot"]
+	url = https://github.com/conda-forge/skyplot-feedstock.git
+	path = feedstocks/skyplot
+	branch = refs/heads/main
