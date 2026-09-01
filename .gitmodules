@@ -117262,3 +117262,7 @@
 	url = https://github.com/conda-forge/arize-phoenix-sqlean-feedstock.git
 	path = feedstocks/arize-phoenix-sqlean
 	branch = refs/heads/main
+[submodule "opik"]
+	url = https://github.com/conda-forge/opik-feedstock.git
+	path = feedstocks/opik
+	branch = refs/heads/main
