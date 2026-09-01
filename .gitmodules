@@ -117218,3 +117218,7 @@
 	url = https://github.com/conda-forge/mparray-feedstock.git
 	path = feedstocks/mparray
 	branch = refs/heads/main
+[submodule "pyobjc-framework-uniformtypeidentifiers"]
+	url = https://github.com/conda-forge/pyobjc-framework-uniformtypeidentifiers-feedstock.git
+	path = feedstocks/pyobjc-framework-uniformtypeidentifiers
+	branch = refs/heads/main
