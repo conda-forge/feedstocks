@@ -117230,3 +117230,7 @@
 	url = https://github.com/conda-forge/langgraph-api-feedstock.git
 	path = feedstocks/langgraph-api
 	branch = refs/heads/main
+[submodule "dynaref"]
+	url = https://github.com/conda-forge/dynaref-feedstock.git
+	path = feedstocks/dynaref
+	branch = refs/heads/main
