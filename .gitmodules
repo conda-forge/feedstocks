@@ -117270,3 +117270,7 @@
 	url = https://github.com/conda-forge/wdfkit-feedstock.git
 	path = feedstocks/wdfkit
 	branch = refs/heads/main
+[submodule "fastpotify"]
+	url = https://github.com/conda-forge/fastpotify-feedstock.git
+	path = feedstocks/fastpotify
+	branch = refs/heads/main
