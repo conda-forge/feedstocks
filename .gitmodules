@@ -117294,3 +117294,7 @@
 	url = https://github.com/conda-forge/scrollcase-consumer-feedstock.git
 	path = feedstocks/scrollcase-consumer
 	branch = refs/heads/main
+[submodule "opendal"]
+	url = https://github.com/conda-forge/opendal-feedstock.git
+	path = feedstocks/opendal
+	branch = refs/heads/main
