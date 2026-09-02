@@ -117322,3 +117322,7 @@
 	url = https://github.com/conda-forge/rqbit-feedstock.git
 	path = feedstocks/rqbit
 	branch = refs/heads/main
+[submodule "ipygeotiff"]
+	url = https://github.com/conda-forge/ipygeotiff-feedstock.git
+	path = feedstocks/ipygeotiff
+	branch = refs/heads/main
