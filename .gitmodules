@@ -117298,3 +117298,7 @@
 	url = https://github.com/conda-forge/opendal-feedstock.git
 	path = feedstocks/opendal
 	branch = refs/heads/main
+[submodule "datamaite"]
+	url = https://github.com/conda-forge/datamaite-feedstock.git
+	path = feedstocks/datamaite
+	branch = refs/heads/main
