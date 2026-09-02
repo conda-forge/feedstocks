@@ -117318,3 +117318,7 @@
 	url = https://github.com/conda-forge/pytest-conda-solvers-feedstock.git
 	path = feedstocks/pytest-conda-solvers
 	branch = refs/heads/main
+[submodule "rqbit"]
+	url = https://github.com/conda-forge/rqbit-feedstock.git
+	path = feedstocks/rqbit
+	branch = refs/heads/main
