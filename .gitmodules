@@ -117310,3 +117310,7 @@
 	url = https://github.com/conda-forge/ink-md-feedstock.git
 	path = feedstocks/ink-md
 	branch = refs/heads/main
+[submodule "pysepal-api"]
+	url = https://github.com/conda-forge/pysepal-api-feedstock.git
+	path = feedstocks/pysepal-api
+	branch = refs/heads/main
