@@ -117314,3 +117314,7 @@
 	url = https://github.com/conda-forge/pysepal-api-feedstock.git
 	path = feedstocks/pysepal-api
 	branch = refs/heads/main
+[submodule "pytest-conda-solvers"]
+	url = https://github.com/conda-forge/pytest-conda-solvers-feedstock.git
+	path = feedstocks/pytest-conda-solvers
+	branch = refs/heads/main
