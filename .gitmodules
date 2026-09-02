@@ -117306,3 +117306,7 @@
 	url = https://github.com/conda-forge/pyfvs-feedstock.git
 	path = feedstocks/pyfvs
 	branch = refs/heads/main
+[submodule "ink-md"]
+	url = https://github.com/conda-forge/ink-md-feedstock.git
+	path = feedstocks/ink-md
+	branch = refs/heads/main
