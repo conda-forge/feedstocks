@@ -117302,3 +117302,7 @@
 	url = https://github.com/conda-forge/datamaite-feedstock.git
 	path = feedstocks/datamaite
 	branch = refs/heads/main
+[submodule "pyfvs"]
+	url = https://github.com/conda-forge/pyfvs-feedstock.git
+	path = feedstocks/pyfvs
+	branch = refs/heads/main
