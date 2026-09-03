@@ -117358,3 +117358,7 @@
 	url = https://github.com/conda-forge/tslab-feedstock.git
 	path = feedstocks/tslab
 	branch = refs/heads/main
+[submodule "sphinx-fuma"]
+	url = https://github.com/conda-forge/sphinx-fuma-feedstock.git
+	path = feedstocks/sphinx-fuma
+	branch = refs/heads/main
