@@ -117350,3 +117350,7 @@
 	url = https://github.com/conda-forge/tailcat-feedstock.git
 	path = feedstocks/tailcat
 	branch = refs/heads/main
+[submodule "azurite"]
+	url = https://github.com/conda-forge/azurite-feedstock.git
+	path = feedstocks/azurite
+	branch = refs/heads/main
