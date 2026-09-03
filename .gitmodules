@@ -117338,3 +117338,7 @@
 	url = https://github.com/conda-forge/gonnect-feedstock.git
 	path = feedstocks/gonnect
 	branch = refs/heads/main
+[submodule "calliope-studio"]
+	url = https://github.com/conda-forge/calliope-studio-feedstock.git
+	path = feedstocks/calliope-studio
+	branch = refs/heads/main
