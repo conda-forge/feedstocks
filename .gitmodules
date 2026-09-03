@@ -117378,3 +117378,7 @@
 	url = https://github.com/conda-forge/zope.testing-feedstock.git
 	path = feedstocks/zope.testing
 	branch = refs/heads/main
+[submodule "tomviz-pipeline"]
+	url = https://github.com/conda-forge/tomviz-pipeline-feedstock.git
+	path = feedstocks/tomviz-pipeline
+	branch = refs/heads/main
