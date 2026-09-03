@@ -117346,3 +117346,7 @@
 	url = https://github.com/conda-forge/mealpy-feedstock.git
 	path = feedstocks/mealpy
 	branch = refs/heads/main
+[submodule "tailcat"]
+	url = https://github.com/conda-forge/tailcat-feedstock.git
+	path = feedstocks/tailcat
+	branch = refs/heads/main
