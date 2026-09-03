@@ -117354,3 +117354,7 @@
 	url = https://github.com/conda-forge/azurite-feedstock.git
 	path = feedstocks/azurite
 	branch = refs/heads/main
+[submodule "tslab"]
+	url = https://github.com/conda-forge/tslab-feedstock.git
+	path = feedstocks/tslab
+	branch = refs/heads/main
