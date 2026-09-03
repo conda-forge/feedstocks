@@ -117366,3 +117366,7 @@
 	url = https://github.com/conda-forge/sphinx-searchlite-feedstock.git
 	path = feedstocks/sphinx-searchlite
 	branch = refs/heads/main
+[submodule "openairclim"]
+	url = https://github.com/conda-forge/openairclim-feedstock.git
+	path = feedstocks/openairclim
+	branch = refs/heads/main
