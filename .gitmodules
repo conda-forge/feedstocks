@@ -117370,3 +117370,7 @@
 	url = https://github.com/conda-forge/openairclim-feedstock.git
 	path = feedstocks/openairclim
 	branch = refs/heads/main
+[submodule "manuel"]
+	url = https://github.com/conda-forge/manuel-feedstock.git
+	path = feedstocks/manuel
+	branch = refs/heads/main
