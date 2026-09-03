@@ -117334,3 +117334,7 @@
 	url = https://github.com/conda-forge/puffin-feedstock.git
 	path = feedstocks/puffin
 	branch = refs/heads/main
+[submodule "gonnect"]
+	url = https://github.com/conda-forge/gonnect-feedstock.git
+	path = feedstocks/gonnect
+	branch = refs/heads/main
