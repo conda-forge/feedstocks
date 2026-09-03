@@ -117374,3 +117374,7 @@
 	url = https://github.com/conda-forge/manuel-feedstock.git
 	path = feedstocks/manuel
 	branch = refs/heads/main
+[submodule "zope.testing"]
+	url = https://github.com/conda-forge/zope.testing-feedstock.git
+	path = feedstocks/zope.testing
+	branch = refs/heads/main
