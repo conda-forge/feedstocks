@@ -117330,3 +117330,7 @@
 	url = https://github.com/conda-forge/device-fingerprinting-pro-feedstock.git
 	path = feedstocks/device-fingerprinting-pro
 	branch = refs/heads/main
+[submodule "puffin"]
+	url = https://github.com/conda-forge/puffin-feedstock.git
+	path = feedstocks/puffin
+	branch = refs/heads/main
