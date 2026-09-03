@@ -117342,3 +117342,7 @@
 	url = https://github.com/conda-forge/calliope-studio-feedstock.git
 	path = feedstocks/calliope-studio
 	branch = refs/heads/main
+[submodule "mealpy"]
+	url = https://github.com/conda-forge/mealpy-feedstock.git
+	path = feedstocks/mealpy
+	branch = refs/heads/main
