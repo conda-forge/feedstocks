@@ -117362,3 +117362,7 @@
 	url = https://github.com/conda-forge/sphinx-fuma-feedstock.git
 	path = feedstocks/sphinx-fuma
 	branch = refs/heads/main
+[submodule "sphinx-searchlite"]
+	url = https://github.com/conda-forge/sphinx-searchlite-feedstock.git
+	path = feedstocks/sphinx-searchlite
+	branch = refs/heads/main
