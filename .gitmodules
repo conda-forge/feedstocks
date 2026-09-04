@@ -117434,3 +117434,7 @@
 	url = https://github.com/conda-forge/libasdf-feedstock.git
 	path = feedstocks/libasdf
 	branch = refs/heads/main
+[submodule "querychat"]
+	url = https://github.com/conda-forge/querychat-feedstock.git
+	path = feedstocks/querychat
+	branch = refs/heads/main
