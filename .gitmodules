@@ -117398,3 +117398,7 @@
 	url = https://github.com/conda-forge/scingestor-feedstock.git
 	path = feedstocks/scingestor
 	branch = refs/heads/main
+[submodule "smolagents"]
+	url = https://github.com/conda-forge/smolagents-feedstock.git
+	path = feedstocks/smolagents
+	branch = refs/heads/main
