@@ -117450,3 +117450,7 @@
 	url = https://github.com/conda-forge/radical.orbit-feedstock.git
 	path = feedstocks/radical.orbit
 	branch = refs/heads/main
+[submodule "rhapsody-py"]
+	url = https://github.com/conda-forge/rhapsody-py-feedstock.git
+	path = feedstocks/rhapsody-py
+	branch = refs/heads/main
