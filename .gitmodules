@@ -117426,3 +117426,7 @@
 	url = https://github.com/conda-forge/opensim-feedstock.git
 	path = feedstocks/opensim
 	branch = refs/heads/main
+[submodule "brand-yml"]
+	url = https://github.com/conda-forge/brand-yml-feedstock.git
+	path = feedstocks/brand-yml
+	branch = refs/heads/main
