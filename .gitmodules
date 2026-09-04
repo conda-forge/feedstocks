@@ -117402,3 +117402,7 @@
 	url = https://github.com/conda-forge/smolagents-feedstock.git
 	path = feedstocks/smolagents
 	branch = refs/heads/main
+[submodule "llm-sandbox"]
+	url = https://github.com/conda-forge/llm-sandbox-feedstock.git
+	path = feedstocks/llm-sandbox
+	branch = refs/heads/main
