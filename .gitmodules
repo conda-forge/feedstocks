@@ -117390,3 +117390,7 @@
 	url = https://github.com/conda-forge/lavuefilters-feedstock.git
 	path = feedstocks/lavuefilters
 	branch = refs/heads/main
+[submodule "qtchecker"]
+	url = https://github.com/conda-forge/qtchecker-feedstock.git
+	path = feedstocks/qtchecker
+	branch = refs/heads/main
