@@ -117410,3 +117410,7 @@
 	url = https://github.com/conda-forge/langchain-unstructured-feedstock.git
 	path = feedstocks/langchain-unstructured
 	branch = refs/heads/main
+[submodule "langchain-sambanova"]
+	url = https://github.com/conda-forge/langchain-sambanova-feedstock.git
+	path = feedstocks/langchain-sambanova
+	branch = refs/heads/main
