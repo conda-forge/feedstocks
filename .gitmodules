@@ -117414,3 +117414,7 @@
 	url = https://github.com/conda-forge/langchain-sambanova-feedstock.git
 	path = feedstocks/langchain-sambanova
 	branch = refs/heads/main
+[submodule "h5json"]
+	url = https://github.com/conda-forge/h5json-feedstock.git
+	path = feedstocks/h5json
+	branch = refs/heads/main
