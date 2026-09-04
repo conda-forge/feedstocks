@@ -117406,3 +117406,7 @@
 	url = https://github.com/conda-forge/llm-sandbox-feedstock.git
 	path = feedstocks/llm-sandbox
 	branch = refs/heads/main
+[submodule "langchain-unstructured"]
+	url = https://github.com/conda-forge/langchain-unstructured-feedstock.git
+	path = feedstocks/langchain-unstructured
+	branch = refs/heads/main
