@@ -117422,3 +117422,7 @@
 	url = https://github.com/conda-forge/nsight-systems-feedstock.git
 	path = feedstocks/nsight-systems
 	branch = refs/heads/main
+[submodule "opensim"]
+	url = https://github.com/conda-forge/opensim-feedstock.git
+	path = feedstocks/opensim
+	branch = refs/heads/main
