@@ -117442,3 +117442,7 @@
 	url = https://github.com/conda-forge/chatlas-feedstock.git
 	path = feedstocks/chatlas
 	branch = refs/heads/main
+[submodule "radical.asyncflow"]
+	url = https://github.com/conda-forge/radical.asyncflow-feedstock.git
+	path = feedstocks/radical.asyncflow
+	branch = refs/heads/main
