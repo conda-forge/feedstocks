@@ -117418,3 +117418,7 @@
 	url = https://github.com/conda-forge/h5json-feedstock.git
 	path = feedstocks/h5json
 	branch = refs/heads/main
+[submodule "nsight-systems"]
+	url = https://github.com/conda-forge/nsight-systems-feedstock.git
+	path = feedstocks/nsight-systems
+	branch = refs/heads/main
