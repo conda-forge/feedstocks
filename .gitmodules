@@ -117446,3 +117446,7 @@
 	url = https://github.com/conda-forge/radical.asyncflow-feedstock.git
 	path = feedstocks/radical.asyncflow
 	branch = refs/heads/main
+[submodule "radical.orbit"]
+	url = https://github.com/conda-forge/radical.orbit-feedstock.git
+	path = feedstocks/radical.orbit
+	branch = refs/heads/main
