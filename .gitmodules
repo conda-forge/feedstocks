@@ -117382,3 +117382,7 @@
 	url = https://github.com/conda-forge/tomviz-pipeline-feedstock.git
 	path = feedstocks/tomviz-pipeline
 	branch = refs/heads/main
+[submodule "ewccli"]
+	url = https://github.com/conda-forge/ewccli-feedstock.git
+	path = feedstocks/ewccli
+	branch = refs/heads/main
