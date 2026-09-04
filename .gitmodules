@@ -117430,3 +117430,7 @@
 	url = https://github.com/conda-forge/brand-yml-feedstock.git
 	path = feedstocks/brand-yml
 	branch = refs/heads/main
+[submodule "libasdf"]
+	url = https://github.com/conda-forge/libasdf-feedstock.git
+	path = feedstocks/libasdf
+	branch = refs/heads/main
