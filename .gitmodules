@@ -117394,3 +117394,7 @@
 	url = https://github.com/conda-forge/qtchecker-feedstock.git
 	path = feedstocks/qtchecker
 	branch = refs/heads/main
+[submodule "scingestor"]
+	url = https://github.com/conda-forge/scingestor-feedstock.git
+	path = feedstocks/scingestor
+	branch = refs/heads/main
