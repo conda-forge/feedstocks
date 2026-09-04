@@ -117386,3 +117386,7 @@
 	url = https://github.com/conda-forge/ewccli-feedstock.git
 	path = feedstocks/ewccli
 	branch = refs/heads/main
+[submodule "lavuefilters"]
+	url = https://github.com/conda-forge/lavuefilters-feedstock.git
+	path = feedstocks/lavuefilters
+	branch = refs/heads/main
