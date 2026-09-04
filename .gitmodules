@@ -117438,3 +117438,7 @@
 	url = https://github.com/conda-forge/querychat-feedstock.git
 	path = feedstocks/querychat
 	branch = refs/heads/main
+[submodule "chatlas"]
+	url = https://github.com/conda-forge/chatlas-feedstock.git
+	path = feedstocks/chatlas
+	branch = refs/heads/main
