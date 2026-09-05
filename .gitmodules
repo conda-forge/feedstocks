@@ -117462,3 +117462,7 @@
 	url = https://github.com/conda-forge/bsuite-feedstock.git
 	path = feedstocks/bsuite
 	branch = refs/heads/main
+[submodule "pyreml"]
+	url = https://github.com/conda-forge/pyreml-feedstock.git
+	path = feedstocks/pyreml
+	branch = refs/heads/main
