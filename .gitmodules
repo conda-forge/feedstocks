@@ -117458,3 +117458,7 @@
 	url = https://github.com/conda-forge/pgadmin4-feedstock.git
 	path = feedstocks/pgadmin4
 	branch = refs/heads/main
+[submodule "bsuite"]
+	url = https://github.com/conda-forge/bsuite-feedstock.git
+	path = feedstocks/bsuite
+	branch = refs/heads/main
