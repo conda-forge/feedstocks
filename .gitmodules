@@ -117474,3 +117474,7 @@
 	url = https://github.com/conda-forge/clickdc-feedstock.git
 	path = feedstocks/clickdc
 	branch = refs/heads/main
+[submodule "pyfzf"]
+	url = https://github.com/conda-forge/pyfzf-feedstock.git
+	path = feedstocks/pyfzf
+	branch = refs/heads/main
