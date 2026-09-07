@@ -117494,3 +117494,7 @@
 	url = https://github.com/conda-forge/metacal-feedstock.git
 	path = feedstocks/metacal
 	branch = refs/heads/main
+[submodule "repotrials"]
+	url = https://github.com/conda-forge/repotrials-feedstock.git
+	path = feedstocks/repotrials
+	branch = refs/heads/main
