@@ -117486,3 +117486,7 @@
 	url = https://github.com/conda-forge/domonic-feedstock.git
 	path = feedstocks/domonic
 	branch = refs/heads/main
+[submodule "vrtx"]
+	url = https://github.com/conda-forge/vrtx-feedstock.git
+	path = feedstocks/vrtx
+	branch = refs/heads/main
