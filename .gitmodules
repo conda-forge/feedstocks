@@ -117478,3 +117478,7 @@
 	url = https://github.com/conda-forge/pyfzf-feedstock.git
 	path = feedstocks/pyfzf
 	branch = refs/heads/main
+[submodule "ddargparse"]
+	url = https://github.com/conda-forge/ddargparse-feedstock.git
+	path = feedstocks/ddargparse
+	branch = refs/heads/main
