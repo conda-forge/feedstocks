@@ -117502,3 +117502,7 @@
 	url = https://github.com/conda-forge/dynamic-metadata-feedstock.git
 	path = feedstocks/dynamic-metadata
 	branch = refs/heads/main
+[submodule "hatch-protobuf"]
+	url = https://github.com/conda-forge/hatch-protobuf-feedstock.git
+	path = feedstocks/hatch-protobuf
+	branch = refs/heads/main
