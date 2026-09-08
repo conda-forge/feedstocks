@@ -117526,3 +117526,7 @@
 	url = https://github.com/conda-forge/spharmgrid-feedstock.git
 	path = feedstocks/spharmgrid
 	branch = refs/heads/main
+[submodule "openfeature-sdk"]
+	url = https://github.com/conda-forge/openfeature-sdk-feedstock.git
+	path = feedstocks/openfeature-sdk
+	branch = refs/heads/main
