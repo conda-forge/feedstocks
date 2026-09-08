@@ -117510,3 +117510,7 @@
 	url = https://github.com/conda-forge/hidimstat-feedstock.git
 	path = feedstocks/hidimstat
 	branch = refs/heads/main
+[submodule "lucent-pack"]
+	url = https://github.com/conda-forge/lucent-pack-feedstock.git
+	path = feedstocks/lucent-pack
+	branch = refs/heads/main
