@@ -117534,3 +117534,7 @@
 	url = https://github.com/conda-forge/diffle-feedstock.git
 	path = feedstocks/diffle
 	branch = refs/heads/main
+[submodule "couchbase"]
+	url = https://github.com/conda-forge/couchbase-feedstock.git
+	path = feedstocks/couchbase
+	branch = refs/heads/main
