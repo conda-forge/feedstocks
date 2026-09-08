@@ -117506,3 +117506,7 @@
 	url = https://github.com/conda-forge/hatch-protobuf-feedstock.git
 	path = feedstocks/hatch-protobuf
 	branch = refs/heads/main
+[submodule "hidimstat"]
+	url = https://github.com/conda-forge/hidimstat-feedstock.git
+	path = feedstocks/hidimstat
+	branch = refs/heads/main
