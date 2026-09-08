@@ -117498,3 +117498,7 @@
 	url = https://github.com/conda-forge/repotrials-feedstock.git
 	path = feedstocks/repotrials
 	branch = refs/heads/main
+[submodule "dynamic-metadata"]
+	url = https://github.com/conda-forge/dynamic-metadata-feedstock.git
+	path = feedstocks/dynamic-metadata
+	branch = refs/heads/main
