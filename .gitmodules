@@ -117522,3 +117522,7 @@
 	url = https://github.com/conda-forge/panzi-json-logic-feedstock.git
 	path = feedstocks/panzi-json-logic
 	branch = refs/heads/main
+[submodule "spharmgrid"]
+	url = https://github.com/conda-forge/spharmgrid-feedstock.git
+	path = feedstocks/spharmgrid
+	branch = refs/heads/main
