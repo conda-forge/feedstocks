@@ -117514,3 +117514,7 @@
 	url = https://github.com/conda-forge/lucent-pack-feedstock.git
 	path = feedstocks/lucent-pack
 	branch = refs/heads/main
+[submodule "font-ttf-adwaita"]
+	url = https://github.com/conda-forge/font-ttf-adwaita-feedstock.git
+	path = feedstocks/font-ttf-adwaita
+	branch = refs/heads/main
