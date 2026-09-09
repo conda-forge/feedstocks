@@ -117546,3 +117546,7 @@
 	url = https://github.com/conda-forge/complgen-feedstock.git
 	path = feedstocks/complgen
 	branch = refs/heads/main
+[submodule "open62541pp"]
+	url = https://github.com/conda-forge/open62541pp-feedstock.git
+	path = feedstocks/open62541pp
+	branch = refs/heads/main
