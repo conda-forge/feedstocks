@@ -117566,3 +117566,7 @@
 	url = https://github.com/conda-forge/chronos-forecasting-feedstock.git
 	path = feedstocks/chronos-forecasting
 	branch = refs/heads/main
+[submodule "servicex-mcp"]
+	url = https://github.com/conda-forge/servicex-mcp-feedstock.git
+	path = feedstocks/servicex-mcp
+	branch = refs/heads/main
