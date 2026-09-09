@@ -117610,3 +117610,7 @@
 	url = https://github.com/conda-forge/ipygis-feedstock.git
 	path = feedstocks/ipygis
 	branch = refs/heads/main
+[submodule "ccusage"]
+	url = https://github.com/conda-forge/ccusage-feedstock.git
+	path = feedstocks/ccusage
+	branch = refs/heads/main
