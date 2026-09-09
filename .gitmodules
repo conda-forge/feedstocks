@@ -117550,3 +117550,7 @@
 	url = https://github.com/conda-forge/open62541pp-feedstock.git
 	path = feedstocks/open62541pp
 	branch = refs/heads/main
+[submodule "esp-pylib"]
+	url = https://github.com/conda-forge/esp-pylib-feedstock.git
+	path = feedstocks/esp-pylib
+	branch = refs/heads/main
