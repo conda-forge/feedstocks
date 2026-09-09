@@ -117586,3 +117586,7 @@
 	url = https://github.com/conda-forge/gftl-shared-feedstock.git
 	path = feedstocks/gftl-shared
 	branch = refs/heads/main
+[submodule "rose-picker"]
+	url = https://github.com/conda-forge/rose-picker-feedstock.git
+	path = feedstocks/rose-picker
+	branch = refs/heads/main
