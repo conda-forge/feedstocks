@@ -117542,3 +117542,7 @@
 	url = https://github.com/conda-forge/rubberband-feedstock.git
 	path = feedstocks/rubberband
 	branch = refs/heads/main
+[submodule "complgen"]
+	url = https://github.com/conda-forge/complgen-feedstock.git
+	path = feedstocks/complgen
+	branch = refs/heads/main
