@@ -117538,3 +117538,7 @@
 	url = https://github.com/conda-forge/couchbase-feedstock.git
 	path = feedstocks/couchbase
 	branch = refs/heads/main
+[submodule "rubberband"]
+	url = https://github.com/conda-forge/rubberband-feedstock.git
+	path = feedstocks/rubberband
+	branch = refs/heads/main
