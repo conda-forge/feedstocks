@@ -117618,3 +117618,7 @@
 	url = https://github.com/conda-forge/google-cloud-modelarmor-feedstock.git
 	path = feedstocks/google-cloud-modelarmor
 	branch = refs/heads/main
+[submodule "dj-control-room-base"]
+	url = https://github.com/conda-forge/dj-control-room-base-feedstock.git
+	path = feedstocks/dj-control-room-base
+	branch = refs/heads/main
