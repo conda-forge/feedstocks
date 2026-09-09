@@ -117574,3 +117574,7 @@
 	url = https://github.com/conda-forge/fargparse-feedstock.git
 	path = feedstocks/fargparse
 	branch = refs/heads/main
+[submodule "gftl"]
+	url = https://github.com/conda-forge/gftl-feedstock.git
+	path = feedstocks/gftl
+	branch = refs/heads/main
