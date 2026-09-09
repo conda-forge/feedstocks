@@ -117578,3 +117578,7 @@
 	url = https://github.com/conda-forge/gftl-feedstock.git
 	path = feedstocks/gftl
 	branch = refs/heads/main
+[submodule "pfunit"]
+	url = https://github.com/conda-forge/pfunit-feedstock.git
+	path = feedstocks/pfunit
+	branch = refs/heads/main
