@@ -117590,3 +117590,7 @@
 	url = https://github.com/conda-forge/rose-picker-feedstock.git
 	path = feedstocks/rose-picker
 	branch = refs/heads/main
+[submodule "blitzpp"]
+	url = https://github.com/conda-forge/blitzpp-feedstock.git
+	path = feedstocks/blitzpp
+	branch = refs/heads/main
