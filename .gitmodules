@@ -117598,3 +117598,7 @@
 	url = https://github.com/conda-forge/xios-feedstock.git
 	path = feedstocks/xios
 	branch = refs/heads/main
+[submodule "shumlib"]
+	url = https://github.com/conda-forge/shumlib-feedstock.git
+	path = feedstocks/shumlib
+	branch = refs/heads/main
