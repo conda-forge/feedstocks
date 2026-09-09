@@ -117614,3 +117614,7 @@
 	url = https://github.com/conda-forge/ccusage-feedstock.git
 	path = feedstocks/ccusage
 	branch = refs/heads/main
+[submodule "google-cloud-modelarmor"]
+	url = https://github.com/conda-forge/google-cloud-modelarmor-feedstock.git
+	path = feedstocks/google-cloud-modelarmor
+	branch = refs/heads/main
