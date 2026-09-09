@@ -117606,3 +117606,7 @@
 	url = https://github.com/conda-forge/merge-gatekeeper-feedstock.git
 	path = feedstocks/merge-gatekeeper
 	branch = refs/heads/main
+[submodule "ipygis"]
+	url = https://github.com/conda-forge/ipygis-feedstock.git
+	path = feedstocks/ipygis
+	branch = refs/heads/main
