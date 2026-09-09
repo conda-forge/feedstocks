@@ -117554,3 +117554,7 @@
 	url = https://github.com/conda-forge/esp-pylib-feedstock.git
 	path = feedstocks/esp-pylib
 	branch = refs/heads/main
+[submodule "pyvista-js"]
+	url = https://github.com/conda-forge/pyvista-js-feedstock.git
+	path = feedstocks/pyvista-js
+	branch = refs/heads/main
