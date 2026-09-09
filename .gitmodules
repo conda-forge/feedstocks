@@ -117570,3 +117570,7 @@
 	url = https://github.com/conda-forge/servicex-mcp-feedstock.git
 	path = feedstocks/servicex-mcp
 	branch = refs/heads/main
+[submodule "fargparse"]
+	url = https://github.com/conda-forge/fargparse-feedstock.git
+	path = feedstocks/fargparse
+	branch = refs/heads/main
