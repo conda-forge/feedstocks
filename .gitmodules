@@ -117594,3 +117594,7 @@
 	url = https://github.com/conda-forge/blitzpp-feedstock.git
 	path = feedstocks/blitzpp
 	branch = refs/heads/main
+[submodule "xios"]
+	url = https://github.com/conda-forge/xios-feedstock.git
+	path = feedstocks/xios
+	branch = refs/heads/main
