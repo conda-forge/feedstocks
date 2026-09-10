@@ -117630,3 +117630,7 @@
 	url = https://github.com/conda-forge/sinapse-sdk-feedstock.git
 	path = feedstocks/sinapse-sdk
 	branch = refs/heads/main
+[submodule "liquibase"]
+	url = https://github.com/conda-forge/liquibase-feedstock.git
+	path = feedstocks/liquibase
+	branch = refs/heads/main
