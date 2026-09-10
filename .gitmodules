@@ -117626,3 +117626,7 @@
 	url = https://github.com/conda-forge/hot-mic-feedstock.git
 	path = feedstocks/hot-mic
 	branch = refs/heads/main
+[submodule "sinapse-sdk"]
+	url = https://github.com/conda-forge/sinapse-sdk-feedstock.git
+	path = feedstocks/sinapse-sdk
+	branch = refs/heads/main
