@@ -117638,3 +117638,7 @@
 	url = https://github.com/conda-forge/typer-static-completion-feedstock.git
 	path = feedstocks/typer-static-completion
 	branch = refs/heads/main
+[submodule "compas-brep"]
+	url = https://github.com/conda-forge/compas-brep-feedstock.git
+	path = feedstocks/compas-brep
+	branch = refs/heads/main
