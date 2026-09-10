@@ -117622,3 +117622,7 @@
 	url = https://github.com/conda-forge/dj-control-room-base-feedstock.git
 	path = feedstocks/dj-control-room-base
 	branch = refs/heads/main
+[submodule "hot-mic"]
+	url = https://github.com/conda-forge/hot-mic-feedstock.git
+	path = feedstocks/hot-mic
+	branch = refs/heads/main
