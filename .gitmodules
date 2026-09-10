@@ -117634,3 +117634,7 @@
 	url = https://github.com/conda-forge/liquibase-feedstock.git
 	path = feedstocks/liquibase
 	branch = refs/heads/main
+[submodule "typer-static-completion"]
+	url = https://github.com/conda-forge/typer-static-completion-feedstock.git
+	path = feedstocks/typer-static-completion
+	branch = refs/heads/main
