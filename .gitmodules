@@ -117694,3 +117694,7 @@
 	url = https://github.com/conda-forge/ffjet-feedstock.git
 	path = feedstocks/ffjet
 	branch = refs/heads/main
+[submodule "vamp-plugin-sdk"]
+	url = https://github.com/conda-forge/vamp-plugin-sdk-feedstock.git
+	path = feedstocks/vamp-plugin-sdk
+	branch = refs/heads/main
