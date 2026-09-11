@@ -117698,3 +117698,7 @@
 	url = https://github.com/conda-forge/vamp-plugin-sdk-feedstock.git
 	path = feedstocks/vamp-plugin-sdk
 	branch = refs/heads/main
+[submodule "straindesign-cobra"]
+	url = https://github.com/conda-forge/straindesign-cobra-feedstock.git
+	path = feedstocks/straindesign-cobra
+	branch = refs/heads/main
