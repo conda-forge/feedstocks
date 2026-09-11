@@ -117690,3 +117690,7 @@
 	url = https://github.com/conda-forge/cdp-use-feedstock.git
 	path = feedstocks/cdp-use
 	branch = refs/heads/main
+[submodule "ffjet"]
+	url = https://github.com/conda-forge/ffjet-feedstock.git
+	path = feedstocks/ffjet
+	branch = refs/heads/main
