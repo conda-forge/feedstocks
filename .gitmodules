@@ -117686,3 +117686,7 @@
 	url = https://github.com/conda-forge/scientificfitting-feedstock.git
 	path = feedstocks/scientificfitting
 	branch = refs/heads/main
+[submodule "cdp-use"]
+	url = https://github.com/conda-forge/cdp-use-feedstock.git
+	path = feedstocks/cdp-use
+	branch = refs/heads/main
