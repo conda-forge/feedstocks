@@ -117642,3 +117642,7 @@
 	url = https://github.com/conda-forge/compas-brep-feedstock.git
 	path = feedstocks/compas-brep
 	branch = refs/heads/main
+[submodule "scrapegraph-py"]
+	url = https://github.com/conda-forge/scrapegraph-py-feedstock.git
+	path = feedstocks/scrapegraph-py
+	branch = refs/heads/main
