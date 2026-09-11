@@ -117674,3 +117674,7 @@
 	url = https://github.com/conda-forge/fixbikenet-feedstock.git
 	path = feedstocks/fixbikenet
 	branch = refs/heads/main
+[submodule "ngxparse"]
+	url = https://github.com/conda-forge/ngxparse-feedstock.git
+	path = feedstocks/ngxparse
+	branch = refs/heads/main
