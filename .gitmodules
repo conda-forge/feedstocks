@@ -117702,3 +117702,7 @@
 	url = https://github.com/conda-forge/straindesign-cobra-feedstock.git
 	path = feedstocks/straindesign-cobra
 	branch = refs/heads/main
+[submodule "temfpy"]
+	url = https://github.com/conda-forge/temfpy-feedstock.git
+	path = feedstocks/temfpy
+	branch = refs/heads/main
