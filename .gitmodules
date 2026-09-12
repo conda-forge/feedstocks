@@ -117770,3 +117770,7 @@
 	url = https://github.com/conda-forge/geopolars-feedstock.git
 	path = feedstocks/geopolars
 	branch = refs/heads/main
+[submodule "wisprflow-sdk"]
+	url = https://github.com/conda-forge/wisprflow-sdk-feedstock.git
+	path = feedstocks/wisprflow-sdk
+	branch = refs/heads/main
