@@ -117742,3 +117742,7 @@
 	url = https://github.com/conda-forge/cooling-tower-chem-feedstock.git
 	path = feedstocks/cooling-tower-chem
 	branch = refs/heads/main
+[submodule "dracopy"]
+	url = https://github.com/conda-forge/dracopy-feedstock.git
+	path = feedstocks/dracopy
+	branch = refs/heads/main
