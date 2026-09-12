@@ -117726,3 +117726,7 @@
 	url = https://github.com/conda-forge/new-fave-feedstock.git
 	path = feedstocks/new-fave
 	branch = refs/heads/main
+[submodule "fave-recode"]
+	url = https://github.com/conda-forge/fave-recode-feedstock.git
+	path = feedstocks/fave-recode
+	branch = refs/heads/main
