@@ -117722,3 +117722,7 @@
 	url = https://github.com/conda-forge/fave-measurement-point-feedstock.git
 	path = feedstocks/fave-measurement-point
 	branch = refs/heads/main
+[submodule "new-fave"]
+	url = https://github.com/conda-forge/new-fave-feedstock.git
+	path = feedstocks/new-fave
+	branch = refs/heads/main
