@@ -117790,3 +117790,7 @@
 	url = https://github.com/conda-forge/lazyrsync-feedstock.git
 	path = feedstocks/lazyrsync
 	branch = refs/heads/main
+[submodule "polars-cli"]
+	url = https://github.com/conda-forge/polars-cli-feedstock.git
+	path = feedstocks/polars-cli
+	branch = refs/heads/main
