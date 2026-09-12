@@ -117762,3 +117762,7 @@
 	url = https://github.com/conda-forge/genesis-world-feedstock.git
 	path = feedstocks/genesis-world
 	branch = refs/heads/main
+[submodule "python-tetgen"]
+	url = https://github.com/conda-forge/python-tetgen-feedstock.git
+	path = feedstocks/python-tetgen
+	branch = refs/heads/main
