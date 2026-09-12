@@ -117746,3 +117746,7 @@
 	url = https://github.com/conda-forge/dracopy-feedstock.git
 	path = feedstocks/dracopy
 	branch = refs/heads/main
+[submodule "pygel3d"]
+	url = https://github.com/conda-forge/pygel3d-feedstock.git
+	path = feedstocks/pygel3d
+	branch = refs/heads/main
