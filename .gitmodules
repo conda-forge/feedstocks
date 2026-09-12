@@ -117766,3 +117766,7 @@
 	url = https://github.com/conda-forge/python-tetgen-feedstock.git
 	path = feedstocks/python-tetgen
 	branch = refs/heads/main
+[submodule "geopolars"]
+	url = https://github.com/conda-forge/geopolars-feedstock.git
+	path = feedstocks/geopolars
+	branch = refs/heads/main
