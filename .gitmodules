@@ -117714,3 +117714,7 @@
 	url = https://github.com/conda-forge/praat-parselmouth-feedstock.git
 	path = feedstocks/praat-parselmouth
 	branch = refs/heads/main
+[submodule "fasttrackpy"]
+	url = https://github.com/conda-forge/fasttrackpy-feedstock.git
+	path = feedstocks/fasttrackpy
+	branch = refs/heads/main
