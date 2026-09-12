@@ -117754,3 +117754,7 @@
 	url = https://github.com/conda-forge/pysplashsurf-feedstock.git
 	path = feedstocks/pysplashsurf
 	branch = refs/heads/main
+[submodule "resvg-py"]
+	url = https://github.com/conda-forge/resvg-py-feedstock.git
+	path = feedstocks/resvg-py
+	branch = refs/heads/main
