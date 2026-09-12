@@ -117786,3 +117786,7 @@
 	url = https://github.com/conda-forge/tuxedo-feedstock.git
 	path = feedstocks/tuxedo
 	branch = refs/heads/main
+[submodule "lazyrsync"]
+	url = https://github.com/conda-forge/lazyrsync-feedstock.git
+	path = feedstocks/lazyrsync
+	branch = refs/heads/main
