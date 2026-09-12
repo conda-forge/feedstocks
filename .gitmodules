@@ -117774,3 +117774,7 @@
 	url = https://github.com/conda-forge/wisprflow-sdk-feedstock.git
 	path = feedstocks/wisprflow-sdk
 	branch = refs/heads/main
+[submodule "ghgrab"]
+	url = https://github.com/conda-forge/ghgrab-feedstock.git
+	path = feedstocks/ghgrab
+	branch = refs/heads/main
