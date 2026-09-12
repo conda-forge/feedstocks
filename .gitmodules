@@ -117710,3 +117710,7 @@
 	url = https://github.com/conda-forge/aligned-textgrid-feedstock.git
 	path = feedstocks/aligned-textgrid
 	branch = refs/heads/main
+[submodule "praat-parselmouth"]
+	url = https://github.com/conda-forge/praat-parselmouth-feedstock.git
+	path = feedstocks/praat-parselmouth
+	branch = refs/heads/main
