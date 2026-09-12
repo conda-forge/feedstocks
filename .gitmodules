@@ -117738,3 +117738,7 @@
 	url = https://github.com/conda-forge/pyuspto-feedstock.git
 	path = feedstocks/pyuspto
 	branch = refs/heads/main
+[submodule "cooling-tower-chem"]
+	url = https://github.com/conda-forge/cooling-tower-chem-feedstock.git
+	path = feedstocks/cooling-tower-chem
+	branch = refs/heads/main
