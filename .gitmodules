@@ -117734,3 +117734,7 @@
 	url = https://github.com/conda-forge/watertap-feedstock.git
 	path = feedstocks/watertap
 	branch = refs/heads/main
+[submodule "pyuspto"]
+	url = https://github.com/conda-forge/pyuspto-feedstock.git
+	path = feedstocks/pyuspto
+	branch = refs/heads/main
