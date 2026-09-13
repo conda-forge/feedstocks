@@ -117810,3 +117810,7 @@
 	url = https://github.com/conda-forge/treeig-feedstock.git
 	path = feedstocks/treeig
 	branch = refs/heads/main
+[submodule "composio-langchain"]
+	url = https://github.com/conda-forge/composio-langchain-feedstock.git
+	path = feedstocks/composio-langchain
+	branch = refs/heads/main
