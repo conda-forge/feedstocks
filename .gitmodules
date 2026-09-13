@@ -117794,3 +117794,7 @@
 	url = https://github.com/conda-forge/polars-cli-feedstock.git
 	path = feedstocks/polars-cli
 	branch = refs/heads/main
+[submodule "satkit"]
+	url = https://github.com/conda-forge/satkit-feedstock.git
+	path = feedstocks/satkit
+	branch = refs/heads/main
