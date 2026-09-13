@@ -117818,3 +117818,7 @@
 	url = https://github.com/conda-forge/zen-garden-feedstock.git
 	path = feedstocks/zen-garden
 	branch = refs/heads/main
+[submodule "remote-store"]
+	url = https://github.com/conda-forge/remote-store-feedstock.git
+	path = feedstocks/remote-store
+	branch = refs/heads/main
