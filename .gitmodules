@@ -117826,3 +117826,7 @@
 	url = https://github.com/conda-forge/cvise-feedstock.git
 	path = feedstocks/cvise
 	branch = refs/heads/main
+[submodule "finch-tensor"]
+	url = https://github.com/conda-forge/finch-tensor-feedstock.git
+	path = feedstocks/finch-tensor
+	branch = refs/heads/main
