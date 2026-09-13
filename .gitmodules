@@ -117830,3 +117830,7 @@
 	url = https://github.com/conda-forge/finch-tensor-feedstock.git
 	path = feedstocks/finch-tensor
 	branch = refs/heads/main
+[submodule "hs-connectors"]
+	url = https://github.com/conda-forge/hs-connectors-feedstock.git
+	path = feedstocks/hs-connectors
+	branch = refs/heads/main
