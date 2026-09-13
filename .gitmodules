@@ -117814,3 +117814,7 @@
 	url = https://github.com/conda-forge/composio-langchain-feedstock.git
 	path = feedstocks/composio-langchain
 	branch = refs/heads/main
+[submodule "zen-garden"]
+	url = https://github.com/conda-forge/zen-garden-feedstock.git
+	path = feedstocks/zen-garden
+	branch = refs/heads/main
