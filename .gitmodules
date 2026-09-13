@@ -117822,3 +117822,7 @@
 	url = https://github.com/conda-forge/remote-store-feedstock.git
 	path = feedstocks/remote-store
 	branch = refs/heads/main
+[submodule "cvise"]
+	url = https://github.com/conda-forge/cvise-feedstock.git
+	path = feedstocks/cvise
+	branch = refs/heads/main
