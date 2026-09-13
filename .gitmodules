@@ -117802,3 +117802,7 @@
 	url = https://github.com/conda-forge/all-smi-feedstock.git
 	path = feedstocks/all-smi
 	branch = refs/heads/main
+[submodule "pyhelpers"]
+	url = https://github.com/conda-forge/pyhelpers-feedstock.git
+	path = feedstocks/pyhelpers
+	branch = refs/heads/main
