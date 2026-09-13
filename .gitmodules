@@ -117798,3 +117798,7 @@
 	url = https://github.com/conda-forge/satkit-feedstock.git
 	path = feedstocks/satkit
 	branch = refs/heads/main
+[submodule "all-smi"]
+	url = https://github.com/conda-forge/all-smi-feedstock.git
+	path = feedstocks/all-smi
+	branch = refs/heads/main
