@@ -117842,3 +117842,7 @@
 	url = https://github.com/conda-forge/jumble-feedstock.git
 	path = feedstocks/jumble
 	branch = refs/heads/main
+[submodule "pyrcs"]
+	url = https://github.com/conda-forge/pyrcs-feedstock.git
+	path = feedstocks/pyrcs
+	branch = refs/heads/main
