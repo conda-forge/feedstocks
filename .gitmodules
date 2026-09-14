@@ -117866,3 +117866,7 @@
 	url = https://github.com/conda-forge/httpx2-kerberos-feedstock.git
 	path = feedstocks/httpx2-kerberos
 	branch = refs/heads/main
+[submodule "fortitude-lint"]
+	url = https://github.com/conda-forge/fortitude-lint-feedstock.git
+	path = feedstocks/fortitude-lint
+	branch = refs/heads/main
