@@ -117846,3 +117846,7 @@
 	url = https://github.com/conda-forge/pyrcs-feedstock.git
 	path = feedstocks/pyrcs
 	branch = refs/heads/main
+[submodule "pksuid"]
+	url = https://github.com/conda-forge/pksuid-feedstock.git
+	path = feedstocks/pksuid
+	branch = refs/heads/main
