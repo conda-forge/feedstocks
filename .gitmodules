@@ -117858,3 +117858,7 @@
 	url = https://github.com/conda-forge/fluidtop-feedstock.git
 	path = feedstocks/fluidtop
 	branch = refs/heads/main
+[submodule "hfda"]
+	url = https://github.com/conda-forge/hfda-feedstock.git
+	path = feedstocks/hfda
+	branch = refs/heads/main
