@@ -117838,3 +117838,7 @@
 	url = https://github.com/conda-forge/ddsim-feedstock.git
 	path = feedstocks/ddsim
 	branch = refs/heads/main
+[submodule "jumble"]
+	url = https://github.com/conda-forge/jumble-feedstock.git
+	path = feedstocks/jumble
+	branch = refs/heads/main
