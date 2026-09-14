@@ -117850,3 +117850,7 @@
 	url = https://github.com/conda-forge/pksuid-feedstock.git
 	path = feedstocks/pksuid
 	branch = refs/heads/main
+[submodule "perl-compress-bgzf"]
+	url = https://github.com/conda-forge/perl-compress-bgzf-feedstock.git
+	path = feedstocks/perl-compress-bgzf
+	branch = refs/heads/main
