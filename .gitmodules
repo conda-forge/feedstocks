@@ -117894,3 +117894,7 @@
 	url = https://github.com/conda-forge/onioncat-feedstock.git
 	path = feedstocks/onioncat
 	branch = refs/heads/main
+[submodule "torch-checkpointing"]
+	url = https://github.com/conda-forge/torch-checkpointing-feedstock.git
+	path = feedstocks/torch-checkpointing
+	branch = refs/heads/main
