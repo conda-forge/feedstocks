@@ -117890,3 +117890,7 @@
 	url = https://github.com/conda-forge/onionpipe-feedstock.git
 	path = feedstocks/onionpipe
 	branch = refs/heads/main
+[submodule "onioncat"]
+	url = https://github.com/conda-forge/onioncat-feedstock.git
+	path = feedstocks/onioncat
+	branch = refs/heads/main
