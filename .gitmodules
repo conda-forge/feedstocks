@@ -117882,3 +117882,7 @@
 	url = https://github.com/conda-forge/onionize-feedstock.git
 	path = feedstocks/onionize
 	branch = refs/heads/main
+[submodule "onionshare-cli"]
+	url = https://github.com/conda-forge/onionshare-cli-feedstock.git
+	path = feedstocks/onionshare-cli
+	branch = refs/heads/main
