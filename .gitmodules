@@ -117878,3 +117878,7 @@
 	url = https://github.com/conda-forge/metamorph-mda-parser-feedstock.git
 	path = feedstocks/metamorph-mda-parser
 	branch = refs/heads/main
+[submodule "onionize"]
+	url = https://github.com/conda-forge/onionize-feedstock.git
+	path = feedstocks/onionize
+	branch = refs/heads/main
