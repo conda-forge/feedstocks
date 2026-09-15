@@ -117870,3 +117870,7 @@
 	url = https://github.com/conda-forge/fortitude-lint-feedstock.git
 	path = feedstocks/fortitude-lint
 	branch = refs/heads/main
+[submodule "vte"]
+	url = https://github.com/conda-forge/vte-feedstock.git
+	path = feedstocks/vte
+	branch = refs/heads/main
