@@ -117874,3 +117874,7 @@
 	url = https://github.com/conda-forge/vte-feedstock.git
 	path = feedstocks/vte
 	branch = refs/heads/main
+[submodule "metamorph-mda-parser"]
+	url = https://github.com/conda-forge/metamorph-mda-parser-feedstock.git
+	path = feedstocks/metamorph-mda-parser
+	branch = refs/heads/main
