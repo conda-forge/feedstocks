@@ -117886,3 +117886,7 @@
 	url = https://github.com/conda-forge/onionshare-cli-feedstock.git
 	path = feedstocks/onionshare-cli
 	branch = refs/heads/main
+[submodule "onionpipe"]
+	url = https://github.com/conda-forge/onionpipe-feedstock.git
+	path = feedstocks/onionpipe
+	branch = refs/heads/main
