@@ -117902,3 +117902,7 @@
 	url = https://github.com/conda-forge/py-nfi-feedstock.git
 	path = feedstocks/py-nfi
 	branch = refs/heads/main
+[submodule "nvidia-cutlass-dsl"]
+	url = https://github.com/conda-forge/nvidia-cutlass-dsl-feedstock.git
+	path = feedstocks/nvidia-cutlass-dsl
+	branch = refs/heads/main
