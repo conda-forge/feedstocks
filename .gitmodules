@@ -117914,3 +117914,7 @@
 	url = https://github.com/conda-forge/ethos_data-feedstock.git
 	path = feedstocks/ethos_data
 	branch = refs/heads/main
+[submodule "mat-data-handler"]
+	url = https://github.com/conda-forge/mat-data-handler-feedstock.git
+	path = feedstocks/mat-data-handler
+	branch = refs/heads/main
