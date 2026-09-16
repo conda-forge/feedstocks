@@ -117930,3 +117930,7 @@
 	url = https://github.com/conda-forge/cc-plugin-wcrp-feedstock.git
 	path = feedstocks/cc-plugin-wcrp
 	branch = refs/heads/main
+[submodule "esgvoc"]
+	url = https://github.com/conda-forge/esgvoc-feedstock.git
+	path = feedstocks/esgvoc
+	branch = refs/heads/main
