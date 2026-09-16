@@ -117906,3 +117906,7 @@
 	url = https://github.com/conda-forge/nvidia-cutlass-dsl-feedstock.git
 	path = feedstocks/nvidia-cutlass-dsl
 	branch = refs/heads/main
+[submodule "elkjs"]
+	url = https://github.com/conda-forge/elkjs-feedstock.git
+	path = feedstocks/elkjs
+	branch = refs/heads/main
