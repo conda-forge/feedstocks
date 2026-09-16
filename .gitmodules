@@ -117946,3 +117946,7 @@
 	url = https://github.com/conda-forge/esgpull-feedstock.git
 	path = feedstocks/esgpull
 	branch = refs/heads/main
+[submodule "spmd-types"]
+	url = https://github.com/conda-forge/spmd-types-feedstock.git
+	path = feedstocks/spmd-types
+	branch = refs/heads/main
