@@ -117910,3 +117910,7 @@
 	url = https://github.com/conda-forge/elkjs-feedstock.git
 	path = feedstocks/elkjs
 	branch = refs/heads/main
+[submodule "ethos_data"]
+	url = https://github.com/conda-forge/ethos_data-feedstock.git
+	path = feedstocks/ethos_data
+	branch = refs/heads/main
