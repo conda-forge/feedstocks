@@ -117918,3 +117918,7 @@
 	url = https://github.com/conda-forge/mat-data-handler-feedstock.git
 	path = feedstocks/mat-data-handler
 	branch = refs/heads/main
+[submodule "mom6_forge"]
+	url = https://github.com/conda-forge/mom6_forge-feedstock.git
+	path = feedstocks/mom6_forge
+	branch = refs/heads/main
