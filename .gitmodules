@@ -117926,3 +117926,7 @@
 	url = https://github.com/conda-forge/ottertf-feedstock.git
 	path = feedstocks/ottertf
 	branch = refs/heads/main
+[submodule "cc-plugin-wcrp"]
+	url = https://github.com/conda-forge/cc-plugin-wcrp-feedstock.git
+	path = feedstocks/cc-plugin-wcrp
+	branch = refs/heads/main
