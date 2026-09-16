@@ -117942,3 +117942,7 @@
 	url = https://github.com/conda-forge/esgcet-feedstock.git
 	path = feedstocks/esgcet
 	branch = refs/heads/main
+[submodule "esgpull"]
+	url = https://github.com/conda-forge/esgpull-feedstock.git
+	path = feedstocks/esgpull
+	branch = refs/heads/main
