@@ -118002,3 +118002,7 @@
 	url = https://github.com/conda-forge/mcat-feedstock.git
 	path = feedstocks/mcat
 	branch = refs/heads/main
+[submodule "streamlit-pdf"]
+	url = https://github.com/conda-forge/streamlit-pdf-feedstock.git
+	path = feedstocks/streamlit-pdf
+	branch = refs/heads/main
