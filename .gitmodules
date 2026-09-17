@@ -117974,3 +117974,7 @@
 	url = https://github.com/conda-forge/hol-guard-feedstock.git
 	path = feedstocks/hol-guard
 	branch = refs/heads/main
+[submodule "natten"]
+	url = https://github.com/conda-forge/natten-feedstock.git
+	path = feedstocks/natten
+	branch = refs/heads/main
