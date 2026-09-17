@@ -117978,3 +117978,7 @@
 	url = https://github.com/conda-forge/natten-feedstock.git
 	path = feedstocks/natten
 	branch = refs/heads/main
+[submodule "calc"]
+	url = https://github.com/conda-forge/calc-feedstock.git
+	path = feedstocks/calc
+	branch = refs/heads/main
