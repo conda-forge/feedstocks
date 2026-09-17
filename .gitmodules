@@ -118006,3 +118006,7 @@
 	url = https://github.com/conda-forge/streamlit-pdf-feedstock.git
 	path = feedstocks/streamlit-pdf
 	branch = refs/heads/main
+[submodule "flightgear-python"]
+	url = https://github.com/conda-forge/flightgear-python-feedstock.git
+	path = feedstocks/flightgear-python
+	branch = refs/heads/main
