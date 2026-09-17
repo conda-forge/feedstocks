@@ -117958,3 +117958,7 @@
 	url = https://github.com/conda-forge/pyvista-validation-feedstock.git
 	path = feedstocks/pyvista-validation
 	branch = refs/heads/main
+[submodule "tgrep"]
+	url = https://github.com/conda-forge/tgrep-feedstock.git
+	path = feedstocks/tgrep
+	branch = refs/heads/main
