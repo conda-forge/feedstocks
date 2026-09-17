@@ -117950,3 +117950,7 @@
 	url = https://github.com/conda-forge/spmd-types-feedstock.git
 	path = feedstocks/spmd-types
 	branch = refs/heads/main
+[submodule "musepy-lmsal"]
+	url = https://github.com/conda-forge/musepy-lmsal-feedstock.git
+	path = feedstocks/musepy-lmsal
+	branch = refs/heads/main
