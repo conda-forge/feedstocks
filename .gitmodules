@@ -117986,3 +117986,7 @@
 	url = https://github.com/conda-forge/asyn-feedstock.git
 	path = feedstocks/asyn
 	branch = refs/heads/main
+[submodule "mecatl"]
+	url = https://github.com/conda-forge/mecatl-feedstock.git
+	path = feedstocks/mecatl
+	branch = refs/heads/main
