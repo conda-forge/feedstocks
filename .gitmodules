@@ -118010,3 +118010,7 @@
 	url = https://github.com/conda-forge/flightgear-python-feedstock.git
 	path = feedstocks/flightgear-python
 	branch = refs/heads/main
+[submodule "pyapprentice"]
+	url = https://github.com/conda-forge/pyapprentice-feedstock.git
+	path = feedstocks/pyapprentice
+	branch = refs/heads/main
