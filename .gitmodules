@@ -117954,3 +117954,7 @@
 	url = https://github.com/conda-forge/musepy-lmsal-feedstock.git
 	path = feedstocks/musepy-lmsal
 	branch = refs/heads/main
+[submodule "pyvista-validation"]
+	url = https://github.com/conda-forge/pyvista-validation-feedstock.git
+	path = feedstocks/pyvista-validation
+	branch = refs/heads/main
