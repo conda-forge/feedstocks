@@ -117982,3 +117982,7 @@
 	url = https://github.com/conda-forge/calc-feedstock.git
 	path = feedstocks/calc
 	branch = refs/heads/main
+[submodule "asyn"]
+	url = https://github.com/conda-forge/asyn-feedstock.git
+	path = feedstocks/asyn
+	branch = refs/heads/main
