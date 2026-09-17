@@ -117998,3 +117998,7 @@
 	url = https://github.com/conda-forge/s1ifr-feedstock.git
 	path = feedstocks/s1ifr
 	branch = refs/heads/main
+[submodule "mcat"]
+	url = https://github.com/conda-forge/mcat-feedstock.git
+	path = feedstocks/mcat
+	branch = refs/heads/main
