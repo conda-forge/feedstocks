@@ -117990,3 +117990,7 @@
 	url = https://github.com/conda-forge/mecatl-feedstock.git
 	path = feedstocks/mecatl
 	branch = refs/heads/main
+[submodule "tera-cli"]
+	url = https://github.com/conda-forge/tera-cli-feedstock.git
+	path = feedstocks/tera-cli
+	branch = refs/heads/main
