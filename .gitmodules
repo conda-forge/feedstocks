@@ -117966,3 +117966,7 @@
 	url = https://github.com/conda-forge/agent-memory-guard-feedstock.git
 	path = feedstocks/agent-memory-guard
 	branch = refs/heads/main
+[submodule "keyringrs"]
+	url = https://github.com/conda-forge/keyringrs-feedstock.git
+	path = feedstocks/keyringrs
+	branch = refs/heads/main
