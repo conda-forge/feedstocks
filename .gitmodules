@@ -117970,3 +117970,7 @@
 	url = https://github.com/conda-forge/keyringrs-feedstock.git
 	path = feedstocks/keyringrs
 	branch = refs/heads/main
+[submodule "hol-guard"]
+	url = https://github.com/conda-forge/hol-guard-feedstock.git
+	path = feedstocks/hol-guard
+	branch = refs/heads/main
