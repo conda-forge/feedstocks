@@ -118058,3 +118058,7 @@
 	url = https://github.com/conda-forge/soco-feedstock.git
 	path = feedstocks/soco
 	branch = refs/heads/main
+[submodule "pylast"]
+	url = https://github.com/conda-forge/pylast-feedstock.git
+	path = feedstocks/pylast
+	branch = refs/heads/main
