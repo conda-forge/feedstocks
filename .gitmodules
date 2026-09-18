@@ -118022,3 +118022,7 @@
 	url = https://github.com/conda-forge/sphinxcontrib-rust-feedstock.git
 	path = feedstocks/sphinxcontrib-rust
 	branch = refs/heads/main
+[submodule "sphinx-rustdocgen"]
+	url = https://github.com/conda-forge/sphinx-rustdocgen-feedstock.git
+	path = feedstocks/sphinx-rustdocgen
+	branch = refs/heads/main
