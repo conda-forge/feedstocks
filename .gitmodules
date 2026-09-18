@@ -118070,3 +118070,7 @@
 	url = https://github.com/conda-forge/r-icio-feedstock.git
 	path = feedstocks/r-icio
 	branch = refs/heads/main
+[submodule "flet-platform-assets"]
+	url = https://github.com/conda-forge/flet-platform-assets-feedstock.git
+	path = feedstocks/flet-platform-assets
+	branch = refs/heads/main
