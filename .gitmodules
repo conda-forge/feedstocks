@@ -118018,3 +118018,7 @@
 	url = https://github.com/conda-forge/okf-agent-memory-feedstock.git
 	path = feedstocks/okf-agent-memory
 	branch = refs/heads/main
+[submodule "sphinxcontrib-rust"]
+	url = https://github.com/conda-forge/sphinxcontrib-rust-feedstock.git
+	path = feedstocks/sphinxcontrib-rust
+	branch = refs/heads/main
