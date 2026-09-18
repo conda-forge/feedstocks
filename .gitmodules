@@ -118050,3 +118050,7 @@
 	url = https://github.com/conda-forge/ov-feedstock.git
 	path = feedstocks/ov
 	branch = refs/heads/main
+[submodule "reflink"]
+	url = https://github.com/conda-forge/reflink-feedstock.git
+	path = feedstocks/reflink
+	branch = refs/heads/main
