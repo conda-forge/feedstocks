@@ -118074,3 +118074,7 @@
 	url = https://github.com/conda-forge/flet-platform-assets-feedstock.git
 	path = feedstocks/flet-platform-assets
 	branch = refs/heads/main
+[submodule "aviary-models"]
+	url = https://github.com/conda-forge/aviary-models-feedstock.git
+	path = feedstocks/aviary-models
+	branch = refs/heads/main
