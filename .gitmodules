@@ -118054,3 +118054,7 @@
 	url = https://github.com/conda-forge/reflink-feedstock.git
 	path = feedstocks/reflink
 	branch = refs/heads/main
+[submodule "soco"]
+	url = https://github.com/conda-forge/soco-feedstock.git
+	path = feedstocks/soco
+	branch = refs/heads/main
