@@ -118046,3 +118046,7 @@
 	url = https://github.com/conda-forge/transformnd-feedstock.git
 	path = feedstocks/transformnd
 	branch = refs/heads/main
+[submodule "ov"]
+	url = https://github.com/conda-forge/ov-feedstock.git
+	path = feedstocks/ov
+	branch = refs/heads/main
