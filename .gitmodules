@@ -118034,3 +118034,7 @@
 	url = https://github.com/conda-forge/stepup-feedstock.git
 	path = feedstocks/stepup
 	branch = refs/heads/main
+[submodule "bmalph"]
+	url = https://github.com/conda-forge/bmalph-feedstock.git
+	path = feedstocks/bmalph
+	branch = refs/heads/main
