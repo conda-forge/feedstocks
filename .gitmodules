@@ -118026,3 +118026,7 @@
 	url = https://github.com/conda-forge/sphinx-rustdocgen-feedstock.git
 	path = feedstocks/sphinx-rustdocgen
 	branch = refs/heads/main
+[submodule "ilastik-carving-tools"]
+	url = https://github.com/conda-forge/ilastik-carving-tools-feedstock.git
+	path = feedstocks/ilastik-carving-tools
+	branch = refs/heads/main
