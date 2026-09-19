@@ -118078,3 +118078,7 @@
 	url = https://github.com/conda-forge/aviary-models-feedstock.git
 	path = feedstocks/aviary-models
 	branch = refs/heads/main
+[submodule "imas-data-dictionary"]
+	url = https://github.com/conda-forge/imas-data-dictionary-feedstock.git
+	path = feedstocks/imas-data-dictionary
+	branch = refs/heads/main
