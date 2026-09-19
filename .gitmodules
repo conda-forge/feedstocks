@@ -118122,3 +118122,7 @@
 	url = https://github.com/conda-forge/spaday-ui5-feedstock.git
 	path = feedstocks/spaday-ui5
 	branch = refs/heads/main
+[submodule "spaday-vega"]
+	url = https://github.com/conda-forge/spaday-vega-feedstock.git
+	path = feedstocks/spaday-vega
+	branch = refs/heads/main
