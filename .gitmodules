@@ -118082,3 +118082,7 @@
 	url = https://github.com/conda-forge/imas-data-dictionary-feedstock.git
 	path = feedstocks/imas-data-dictionary
 	branch = refs/heads/main
+[submodule "ancestree"]
+	url = https://github.com/conda-forge/ancestree-feedstock.git
+	path = feedstocks/ancestree
+	branch = refs/heads/main
