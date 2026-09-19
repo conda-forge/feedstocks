@@ -118134,3 +118134,7 @@
 	url = https://github.com/conda-forge/spaday-vaadin-feedstock.git
 	path = feedstocks/spaday-vaadin
 	branch = refs/heads/main
+[submodule "langchain-pinecone"]
+	url = https://github.com/conda-forge/langchain-pinecone-feedstock.git
+	path = feedstocks/langchain-pinecone
+	branch = refs/heads/main
