@@ -118094,3 +118094,7 @@
 	url = https://github.com/conda-forge/hyperframes-feedstock.git
 	path = feedstocks/hyperframes
 	branch = refs/heads/main
+[submodule "spaday-codemirror"]
+	url = https://github.com/conda-forge/spaday-codemirror-feedstock.git
+	path = feedstocks/spaday-codemirror
+	branch = refs/heads/main
