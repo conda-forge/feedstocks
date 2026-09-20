@@ -118142,3 +118142,7 @@
 	url = https://github.com/conda-forge/pixi-sbom-feedstock.git
 	path = feedstocks/pixi-sbom
 	branch = refs/heads/main
+[submodule "mermaid-cli"]
+	url = https://github.com/conda-forge/mermaid-cli-feedstock.git
+	path = feedstocks/mermaid-cli
+	branch = refs/heads/main
