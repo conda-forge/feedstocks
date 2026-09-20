@@ -118146,3 +118146,7 @@
 	url = https://github.com/conda-forge/mermaid-cli-feedstock.git
 	path = feedstocks/mermaid-cli
 	branch = refs/heads/main
+[submodule "bmad-module-skill-forge"]
+	url = https://github.com/conda-forge/bmad-module-skill-forge-feedstock.git
+	path = feedstocks/bmad-module-skill-forge
+	branch = refs/heads/main
