@@ -118150,3 +118150,7 @@
 	url = https://github.com/conda-forge/bmad-module-skill-forge-feedstock.git
 	path = feedstocks/bmad-module-skill-forge
 	branch = refs/heads/main
+[submodule "cdxgen"]
+	url = https://github.com/conda-forge/cdxgen-feedstock.git
+	path = feedstocks/cdxgen
+	branch = refs/heads/main
