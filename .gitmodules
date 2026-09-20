@@ -118154,3 +118154,7 @@
 	url = https://github.com/conda-forge/cdxgen-feedstock.git
 	path = feedstocks/cdxgen
 	branch = refs/heads/main
+[submodule "bmad-loop"]
+	url = https://github.com/conda-forge/bmad-loop-feedstock.git
+	path = feedstocks/bmad-loop
+	branch = refs/heads/main
