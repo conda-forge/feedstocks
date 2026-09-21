@@ -118162,3 +118162,7 @@
 	url = https://github.com/conda-forge/rust-tomli-feedstock.git
 	path = feedstocks/rust-tomli
 	branch = refs/heads/main
+[submodule "rf-plateau-hpo"]
+	url = https://github.com/conda-forge/rf-plateau-hpo-feedstock.git
+	path = feedstocks/rf-plateau-hpo
+	branch = refs/heads/main
