@@ -118166,3 +118166,7 @@
 	url = https://github.com/conda-forge/rf-plateau-hpo-feedstock.git
 	path = feedstocks/rf-plateau-hpo
 	branch = refs/heads/main
+[submodule "dct-toolkit"]
+	url = https://github.com/conda-forge/dct-toolkit-feedstock.git
+	path = feedstocks/dct-toolkit
+	branch = refs/heads/main
