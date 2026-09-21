@@ -118174,3 +118174,7 @@
 	url = https://github.com/conda-forge/skgrad-feedstock.git
 	path = feedstocks/skgrad
 	branch = refs/heads/main
+[submodule "molex"]
+	url = https://github.com/conda-forge/molex-feedstock.git
+	path = feedstocks/molex
+	branch = refs/heads/main
