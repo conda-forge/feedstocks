@@ -118170,3 +118170,7 @@
 	url = https://github.com/conda-forge/dct-toolkit-feedstock.git
 	path = feedstocks/dct-toolkit
 	branch = refs/heads/main
+[submodule "skgrad"]
+	url = https://github.com/conda-forge/skgrad-feedstock.git
+	path = feedstocks/skgrad
+	branch = refs/heads/main
