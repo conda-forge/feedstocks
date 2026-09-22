@@ -118186,3 +118186,7 @@
 	url = https://github.com/conda-forge/patinae-feedstock.git
 	path = feedstocks/patinae
 	branch = refs/heads/main
+[submodule "secretspec"]
+	url = https://github.com/conda-forge/secretspec-feedstock.git
+	path = feedstocks/secretspec
+	branch = refs/heads/main
