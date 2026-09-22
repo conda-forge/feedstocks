@@ -118190,3 +118190,7 @@
 	url = https://github.com/conda-forge/secretspec-feedstock.git
 	path = feedstocks/secretspec
 	branch = refs/heads/main
+[submodule "imdlib"]
+	url = https://github.com/conda-forge/imdlib-feedstock.git
+	path = feedstocks/imdlib
+	branch = refs/heads/main
