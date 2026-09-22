@@ -118178,3 +118178,7 @@
 	url = https://github.com/conda-forge/molex-feedstock.git
 	path = feedstocks/molex
 	branch = refs/heads/main
+[submodule "tabicl"]
+	url = https://github.com/conda-forge/tabicl-feedstock.git
+	path = feedstocks/tabicl
+	branch = refs/heads/main
