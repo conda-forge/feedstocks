@@ -118206,3 +118206,7 @@
 	url = https://github.com/conda-forge/oslotest-feedstock.git
 	path = feedstocks/oslotest
 	branch = refs/heads/main
+[submodule "hidapitester"]
+	url = https://github.com/conda-forge/hidapitester-feedstock.git
+	path = feedstocks/hidapitester
+	branch = refs/heads/main
