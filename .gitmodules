@@ -118202,3 +118202,7 @@
 	url = https://github.com/conda-forge/als-finder-feedstock.git
 	path = feedstocks/als-finder
 	branch = refs/heads/main
+[submodule "oslotest"]
+	url = https://github.com/conda-forge/oslotest-feedstock.git
+	path = feedstocks/oslotest
+	branch = refs/heads/main
