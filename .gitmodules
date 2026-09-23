@@ -118198,3 +118198,7 @@
 	url = https://github.com/conda-forge/seekrflow-feedstock.git
 	path = feedstocks/seekrflow
 	branch = refs/heads/main
+[submodule "als-finder"]
+	url = https://github.com/conda-forge/als-finder-feedstock.git
+	path = feedstocks/als-finder
+	branch = refs/heads/main
