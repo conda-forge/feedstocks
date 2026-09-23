@@ -118194,3 +118194,7 @@
 	url = https://github.com/conda-forge/imdlib-feedstock.git
 	path = feedstocks/imdlib
 	branch = refs/heads/main
+[submodule "seekrflow"]
+	url = https://github.com/conda-forge/seekrflow-feedstock.git
+	path = feedstocks/seekrflow
+	branch = refs/heads/main
