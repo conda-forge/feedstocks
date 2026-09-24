@@ -118222,3 +118222,7 @@
 	url = https://github.com/conda-forge/caveman-installer-feedstock.git
 	path = feedstocks/caveman-installer
 	branch = refs/heads/main
+[submodule "skia"]
+	url = https://github.com/conda-forge/skia-feedstock.git
+	path = feedstocks/skia
+	branch = refs/heads/main
