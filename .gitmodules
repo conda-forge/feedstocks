@@ -118226,3 +118226,7 @@
 	url = https://github.com/conda-forge/skia-feedstock.git
 	path = feedstocks/skia
 	branch = refs/heads/main
+[submodule "dataproc-spark-connect"]
+	url = https://github.com/conda-forge/dataproc-spark-connect-feedstock.git
+	path = feedstocks/dataproc-spark-connect
+	branch = refs/heads/main
