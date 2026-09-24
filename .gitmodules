@@ -118218,3 +118218,7 @@
 	url = https://github.com/conda-forge/exorcist-feedstock.git
 	path = feedstocks/exorcist
 	branch = refs/heads/main
+[submodule "caveman-installer"]
+	url = https://github.com/conda-forge/caveman-installer-feedstock.git
+	path = feedstocks/caveman-installer
+	branch = refs/heads/main
