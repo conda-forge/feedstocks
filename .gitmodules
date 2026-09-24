@@ -118234,3 +118234,7 @@
 	url = https://github.com/conda-forge/camber-toolkit-feedstock.git
 	path = feedstocks/camber-toolkit
 	branch = refs/heads/main
+[submodule "neo4j-graphrag"]
+	url = https://github.com/conda-forge/neo4j-graphrag-feedstock.git
+	path = feedstocks/neo4j-graphrag
+	branch = refs/heads/main
