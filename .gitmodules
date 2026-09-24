@@ -118238,3 +118238,7 @@
 	url = https://github.com/conda-forge/neo4j-graphrag-feedstock.git
 	path = feedstocks/neo4j-graphrag
 	branch = refs/heads/main
+[submodule "napari-resources"]
+	url = https://github.com/conda-forge/napari-resources-feedstock.git
+	path = feedstocks/napari-resources
+	branch = refs/heads/main
