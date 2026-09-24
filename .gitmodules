@@ -118214,3 +118214,7 @@
 	url = https://github.com/conda-forge/autohotkey-feedstock.git
 	path = feedstocks/autohotkey
 	branch = refs/heads/main
+[submodule "exorcist"]
+	url = https://github.com/conda-forge/exorcist-feedstock.git
+	path = feedstocks/exorcist
+	branch = refs/heads/main
