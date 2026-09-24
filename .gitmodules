@@ -118230,3 +118230,7 @@
 	url = https://github.com/conda-forge/dataproc-spark-connect-feedstock.git
 	path = feedstocks/dataproc-spark-connect
 	branch = refs/heads/main
+[submodule "camber-toolkit"]
+	url = https://github.com/conda-forge/camber-toolkit-feedstock.git
+	path = feedstocks/camber-toolkit
+	branch = refs/heads/main
