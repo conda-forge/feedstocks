@@ -118262,3 +118262,7 @@
 	url = https://github.com/conda-forge/edgehop-feedstock.git
 	path = feedstocks/edgehop
 	branch = refs/heads/main
+[submodule "spectractor"]
+	url = https://github.com/conda-forge/spectractor-feedstock.git
+	path = feedstocks/spectractor
+	branch = refs/heads/main
