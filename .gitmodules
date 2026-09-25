@@ -118254,3 +118254,7 @@
 	url = https://github.com/conda-forge/get-gecko-driver-feedstock.git
 	path = feedstocks/get-gecko-driver
 	branch = refs/heads/main
+[submodule "mathparse"]
+	url = https://github.com/conda-forge/mathparse-feedstock.git
+	path = feedstocks/mathparse
+	branch = refs/heads/main
