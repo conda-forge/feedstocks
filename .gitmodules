@@ -118286,3 +118286,7 @@
 	url = https://github.com/conda-forge/openfeature-flagd-api-feedstock.git
 	path = feedstocks/openfeature-flagd-api
 	branch = refs/heads/main
+[submodule "liquibase-postgresql"]
+	url = https://github.com/conda-forge/liquibase-postgresql-feedstock.git
+	path = feedstocks/liquibase-postgresql
+	branch = refs/heads/main
