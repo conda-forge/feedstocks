@@ -118246,3 +118246,7 @@
 	url = https://github.com/conda-forge/dask-setup-feedstock.git
 	path = feedstocks/dask-setup
 	branch = refs/heads/main
+[submodule "pyliquibase"]
+	url = https://github.com/conda-forge/pyliquibase-feedstock.git
+	path = feedstocks/pyliquibase
+	branch = refs/heads/main
