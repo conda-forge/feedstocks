@@ -118266,3 +118266,7 @@
 	url = https://github.com/conda-forge/spectractor-feedstock.git
 	path = feedstocks/spectractor
 	branch = refs/heads/main
+[submodule "silo"]
+	url = https://github.com/conda-forge/silo-feedstock.git
+	path = feedstocks/silo
+	branch = refs/heads/main
