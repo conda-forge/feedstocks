@@ -118270,3 +118270,7 @@
 	url = https://github.com/conda-forge/silo-feedstock.git
 	path = feedstocks/silo
 	branch = refs/heads/main
+[submodule "bws-cli"]
+	url = https://github.com/conda-forge/bws-cli-feedstock.git
+	path = feedstocks/bws-cli
+	branch = refs/heads/main
