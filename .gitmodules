@@ -118258,3 +118258,7 @@
 	url = https://github.com/conda-forge/mathparse-feedstock.git
 	path = feedstocks/mathparse
 	branch = refs/heads/main
+[submodule "edgehop"]
+	url = https://github.com/conda-forge/edgehop-feedstock.git
+	path = feedstocks/edgehop
+	branch = refs/heads/main
