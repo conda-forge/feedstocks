@@ -118242,3 +118242,7 @@
 	url = https://github.com/conda-forge/napari-resources-feedstock.git
 	path = feedstocks/napari-resources
 	branch = refs/heads/main
+[submodule "dask-setup"]
+	url = https://github.com/conda-forge/dask-setup-feedstock.git
+	path = feedstocks/dask-setup
+	branch = refs/heads/main
