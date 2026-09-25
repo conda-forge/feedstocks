@@ -118278,3 +118278,7 @@
 	url = https://github.com/conda-forge/libsqlite-vec-feedstock.git
 	path = feedstocks/libsqlite-vec
 	branch = refs/heads/main
+[submodule "codegraph"]
+	url = https://github.com/conda-forge/codegraph-feedstock.git
+	path = feedstocks/codegraph
+	branch = refs/heads/main
