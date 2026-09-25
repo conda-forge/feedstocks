@@ -118282,3 +118282,7 @@
 	url = https://github.com/conda-forge/codegraph-feedstock.git
 	path = feedstocks/codegraph
 	branch = refs/heads/main
+[submodule "openfeature-flagd-api"]
+	url = https://github.com/conda-forge/openfeature-flagd-api-feedstock.git
+	path = feedstocks/openfeature-flagd-api
+	branch = refs/heads/main
