@@ -118250,3 +118250,7 @@
 	url = https://github.com/conda-forge/pyliquibase-feedstock.git
 	path = feedstocks/pyliquibase
 	branch = refs/heads/main
+[submodule "get-gecko-driver"]
+	url = https://github.com/conda-forge/get-gecko-driver-feedstock.git
+	path = feedstocks/get-gecko-driver
+	branch = refs/heads/main
