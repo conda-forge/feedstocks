@@ -118274,3 +118274,7 @@
 	url = https://github.com/conda-forge/bws-cli-feedstock.git
 	path = feedstocks/bws-cli
 	branch = refs/heads/main
+[submodule "libsqlite-vec"]
+	url = https://github.com/conda-forge/libsqlite-vec-feedstock.git
+	path = feedstocks/libsqlite-vec
+	branch = refs/heads/main
