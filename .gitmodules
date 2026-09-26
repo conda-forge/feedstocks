@@ -118290,3 +118290,7 @@
 	url = https://github.com/conda-forge/liquibase-postgresql-feedstock.git
 	path = feedstocks/liquibase-postgresql
 	branch = refs/heads/main
+[submodule "conda-pycosat-solver"]
+	url = https://github.com/conda-forge/conda-pycosat-solver-feedstock.git
+	path = feedstocks/conda-pycosat-solver
+	branch = refs/heads/main
