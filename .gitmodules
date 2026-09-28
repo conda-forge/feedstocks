@@ -118294,3 +118294,7 @@
 	url = https://github.com/conda-forge/conda-pycosat-solver-feedstock.git
 	path = feedstocks/conda-pycosat-solver
 	branch = refs/heads/main
+[submodule "pantheon-gpu"]
+	url = https://github.com/conda-forge/pantheon-gpu-feedstock.git
+	path = feedstocks/pantheon-gpu
+	branch = refs/heads/main
