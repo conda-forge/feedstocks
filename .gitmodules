@@ -118302,3 +118302,7 @@
 	url = https://github.com/conda-forge/cargo-about-feedstock.git
 	path = feedstocks/cargo-about
 	branch = refs/heads/main
+[submodule "causal-hybrid-control"]
+	url = https://github.com/conda-forge/causal-hybrid-control-feedstock.git
+	path = feedstocks/causal-hybrid-control
+	branch = refs/heads/main
