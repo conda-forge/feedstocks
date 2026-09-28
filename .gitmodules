@@ -118358,3 +118358,7 @@
 	url = https://github.com/conda-forge/pyfock-feedstock.git
 	path = feedstocks/pyfock
 	branch = refs/heads/main
+[submodule "xstar-tools"]
+	url = https://github.com/conda-forge/xstar-tools-feedstock.git
+	path = feedstocks/xstar-tools
+	branch = refs/heads/main
