@@ -118314,3 +118314,7 @@
 	url = https://github.com/conda-forge/numgrid-feedstock.git
 	path = feedstocks/numgrid
 	branch = refs/heads/main
+[submodule "aresys-io"]
+	url = https://github.com/conda-forge/aresys-io-feedstock.git
+	path = feedstocks/aresys-io
+	branch = refs/heads/main
