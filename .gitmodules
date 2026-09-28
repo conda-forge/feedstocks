@@ -118338,3 +118338,7 @@
 	url = https://github.com/conda-forge/idutils-feedstock.git
 	path = feedstocks/idutils
 	branch = refs/heads/main
+[submodule "mbirtorch"]
+	url = https://github.com/conda-forge/mbirtorch-feedstock.git
+	path = feedstocks/mbirtorch
+	branch = refs/heads/main
