@@ -118334,3 +118334,7 @@
 	url = https://github.com/conda-forge/qiskit-addon-sqd-feedstock.git
 	path = feedstocks/qiskit-addon-sqd
 	branch = refs/heads/main
+[submodule "idutils"]
+	url = https://github.com/conda-forge/idutils-feedstock.git
+	path = feedstocks/idutils
+	branch = refs/heads/main
