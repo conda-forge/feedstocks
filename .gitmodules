@@ -118330,3 +118330,7 @@
 	url = https://github.com/conda-forge/pyiso4-feedstock.git
 	path = feedstocks/pyiso4
 	branch = refs/heads/main
+[submodule "qiskit-addon-sqd"]
+	url = https://github.com/conda-forge/qiskit-addon-sqd-feedstock.git
+	path = feedstocks/qiskit-addon-sqd
+	branch = refs/heads/main
