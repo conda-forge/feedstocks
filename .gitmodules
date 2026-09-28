@@ -118350,3 +118350,7 @@
 	url = https://github.com/conda-forge/stepup-reprep-feedstock.git
 	path = feedstocks/stepup-reprep
 	branch = refs/heads/main
+[submodule "stepup-queue"]
+	url = https://github.com/conda-forge/stepup-queue-feedstock.git
+	path = feedstocks/stepup-queue
+	branch = refs/heads/main
