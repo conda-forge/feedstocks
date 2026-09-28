@@ -118342,3 +118342,7 @@
 	url = https://github.com/conda-forge/mbirtorch-feedstock.git
 	path = feedstocks/mbirtorch
 	branch = refs/heads/main
+[submodule "ttkbootstrap"]
+	url = https://github.com/conda-forge/ttkbootstrap-feedstock.git
+	path = feedstocks/ttkbootstrap
+	branch = refs/heads/main
