@@ -118322,3 +118322,7 @@
 	url = https://github.com/conda-forge/agent-framework-azure-ai-search-feedstock.git
 	path = feedstocks/agent-framework-azure-ai-search
 	branch = refs/heads/main
+[submodule "isbnlib2"]
+	url = https://github.com/conda-forge/isbnlib2-feedstock.git
+	path = feedstocks/isbnlib2
+	branch = refs/heads/main
