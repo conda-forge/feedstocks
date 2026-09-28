@@ -118310,3 +118310,7 @@
 	url = https://github.com/conda-forge/octavius-feedstock.git
 	path = feedstocks/octavius
 	branch = refs/heads/main
+[submodule "numgrid"]
+	url = https://github.com/conda-forge/numgrid-feedstock.git
+	path = feedstocks/numgrid
+	branch = refs/heads/main
