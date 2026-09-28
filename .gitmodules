@@ -118318,3 +118318,7 @@
 	url = https://github.com/conda-forge/aresys-io-feedstock.git
 	path = feedstocks/aresys-io
 	branch = refs/heads/main
+[submodule "agent-framework-azure-ai-search"]
+	url = https://github.com/conda-forge/agent-framework-azure-ai-search-feedstock.git
+	path = feedstocks/agent-framework-azure-ai-search
+	branch = refs/heads/main
