@@ -118354,3 +118354,7 @@
 	url = https://github.com/conda-forge/stepup-queue-feedstock.git
 	path = feedstocks/stepup-queue
 	branch = refs/heads/main
+[submodule "pyfock"]
+	url = https://github.com/conda-forge/pyfock-feedstock.git
+	path = feedstocks/pyfock
+	branch = refs/heads/main
