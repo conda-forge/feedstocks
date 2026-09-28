@@ -118306,3 +118306,7 @@
 	url = https://github.com/conda-forge/causal-hybrid-control-feedstock.git
 	path = feedstocks/causal-hybrid-control
 	branch = refs/heads/main
+[submodule "octavius"]
+	url = https://github.com/conda-forge/octavius-feedstock.git
+	path = feedstocks/octavius
+	branch = refs/heads/main
