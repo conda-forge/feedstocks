@@ -118398,3 +118398,7 @@
 	url = https://github.com/conda-forge/qm-qua-feedstock.git
 	path = feedstocks/qm-qua
 	branch = refs/heads/main
+[submodule "qualibrate"]
+	url = https://github.com/conda-forge/qualibrate-feedstock.git
+	path = feedstocks/qualibrate
+	branch = refs/heads/main
