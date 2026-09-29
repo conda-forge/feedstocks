@@ -118366,3 +118366,7 @@
 	url = https://github.com/conda-forge/pygtide-feedstock.git
 	path = feedstocks/pygtide
 	branch = refs/heads/main
+[submodule "bitwarden-cli"]
+	url = https://github.com/conda-forge/bitwarden-cli-feedstock.git
+	path = feedstocks/bitwarden-cli
+	branch = refs/heads/main
