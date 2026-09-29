@@ -118386,3 +118386,7 @@
 	url = https://github.com/conda-forge/qm-saas-feedstock.git
 	path = feedstocks/qm-saas
 	branch = refs/heads/main
+[submodule "qualibrate-config"]
+	url = https://github.com/conda-forge/qualibrate-config-feedstock.git
+	path = feedstocks/qualibrate-config
+	branch = refs/heads/main
