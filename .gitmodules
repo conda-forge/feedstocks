@@ -118378,3 +118378,7 @@
 	url = https://github.com/conda-forge/qualang-tools-feedstock.git
 	path = feedstocks/qualang-tools
 	branch = refs/heads/main
+[submodule "marshmallow-polyfield"]
+	url = https://github.com/conda-forge/marshmallow-polyfield-feedstock.git
+	path = feedstocks/marshmallow-polyfield
+	branch = refs/heads/main
