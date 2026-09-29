@@ -118430,3 +118430,7 @@
 	url = https://github.com/conda-forge/kas-feedstock.git
 	path = feedstocks/kas
 	branch = refs/heads/main
+[submodule "kconfiglib"]
+	url = https://github.com/conda-forge/kconfiglib-feedstock.git
+	path = feedstocks/kconfiglib
+	branch = refs/heads/main
