@@ -118410,3 +118410,7 @@
 	url = https://github.com/conda-forge/pptxgenjs-plus-feedstock.git
 	path = feedstocks/pptxgenjs-plus
 	branch = refs/heads/main
+[submodule "imas-fortran"]
+	url = https://github.com/conda-forge/imas-fortran-feedstock.git
+	path = feedstocks/imas-fortran
+	branch = refs/heads/main
