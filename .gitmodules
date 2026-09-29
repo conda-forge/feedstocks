@@ -118374,3 +118374,7 @@
 	url = https://github.com/conda-forge/quam-feedstock.git
 	path = feedstocks/quam
 	branch = refs/heads/main
+[submodule "qualang-tools"]
+	url = https://github.com/conda-forge/qualang-tools-feedstock.git
+	path = feedstocks/qualang-tools
+	branch = refs/heads/main
