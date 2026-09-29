@@ -118402,3 +118402,7 @@
 	url = https://github.com/conda-forge/qualibrate-feedstock.git
 	path = feedstocks/qualibrate
 	branch = refs/heads/main
+[submodule "nats-server"]
+	url = https://github.com/conda-forge/nats-server-feedstock.git
+	path = feedstocks/nats-server
+	branch = refs/heads/main
