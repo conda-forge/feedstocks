@@ -118382,3 +118382,7 @@
 	url = https://github.com/conda-forge/marshmallow-polyfield-feedstock.git
 	path = feedstocks/marshmallow-polyfield
 	branch = refs/heads/main
+[submodule "qm-saas"]
+	url = https://github.com/conda-forge/qm-saas-feedstock.git
+	path = feedstocks/qm-saas
+	branch = refs/heads/main
