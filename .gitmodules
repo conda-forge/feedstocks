@@ -118362,3 +118362,7 @@
 	url = https://github.com/conda-forge/xstar-tools-feedstock.git
 	path = feedstocks/xstar-tools
 	branch = refs/heads/main
+[submodule "pygtide"]
+	url = https://github.com/conda-forge/pygtide-feedstock.git
+	path = feedstocks/pygtide
+	branch = refs/heads/main
