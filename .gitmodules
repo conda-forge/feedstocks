@@ -118426,3 +118426,7 @@
 	url = https://github.com/conda-forge/panel-tiles-feedstock.git
 	path = feedstocks/panel-tiles
 	branch = refs/heads/main
+[submodule "kas"]
+	url = https://github.com/conda-forge/kas-feedstock.git
+	path = feedstocks/kas
+	branch = refs/heads/main
