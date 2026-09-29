@@ -118422,3 +118422,7 @@
 	url = https://github.com/conda-forge/panel-reactflow-feedstock.git
 	path = feedstocks/panel-reactflow
 	branch = refs/heads/main
+[submodule "panel-tiles"]
+	url = https://github.com/conda-forge/panel-tiles-feedstock.git
+	path = feedstocks/panel-tiles
+	branch = refs/heads/main
