@@ -118414,3 +118414,7 @@
 	url = https://github.com/conda-forge/imas-fortran-feedstock.git
 	path = feedstocks/imas-fortran
 	branch = refs/heads/main
+[submodule "qiskit-mitigation"]
+	url = https://github.com/conda-forge/qiskit-mitigation-feedstock.git
+	path = feedstocks/qiskit-mitigation
+	branch = refs/heads/main
