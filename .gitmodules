@@ -118370,3 +118370,7 @@
 	url = https://github.com/conda-forge/bitwarden-cli-feedstock.git
 	path = feedstocks/bitwarden-cli
 	branch = refs/heads/main
+[submodule "quam"]
+	url = https://github.com/conda-forge/quam-feedstock.git
+	path = feedstocks/quam
+	branch = refs/heads/main
