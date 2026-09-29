@@ -118390,3 +118390,7 @@
 	url = https://github.com/conda-forge/qualibrate-config-feedstock.git
 	path = feedstocks/qualibrate-config
 	branch = refs/heads/main
+[submodule "datadog-api-client"]
+	url = https://github.com/conda-forge/datadog-api-client-feedstock.git
+	path = feedstocks/datadog-api-client
+	branch = refs/heads/main
