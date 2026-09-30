@@ -118446,3 +118446,7 @@
 	url = https://github.com/conda-forge/mq-bridge-feedstock.git
 	path = feedstocks/mq-bridge
 	branch = refs/heads/main
+[submodule "zsh-syntax-highlighting"]
+	url = https://github.com/conda-forge/zsh-syntax-highlighting-feedstock.git
+	path = feedstocks/zsh-syntax-highlighting
+	branch = refs/heads/main
