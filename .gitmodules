@@ -118442,3 +118442,7 @@
 	url = https://github.com/conda-forge/doiggie-repositories-feedstock.git
 	path = feedstocks/doiggie-repositories
 	branch = refs/heads/main
+[submodule "mq-bridge"]
+	url = https://github.com/conda-forge/mq-bridge-feedstock.git
+	path = feedstocks/mq-bridge
+	branch = refs/heads/main
