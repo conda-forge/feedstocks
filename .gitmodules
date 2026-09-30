@@ -118510,3 +118510,7 @@
 	url = https://github.com/conda-forge/pym4e-feedstock.git
 	path = feedstocks/pym4e
 	branch = refs/heads/main
+[submodule "isar-tools"]
+	url = https://github.com/conda-forge/isar-tools-feedstock.git
+	path = feedstocks/isar-tools
+	branch = refs/heads/main
