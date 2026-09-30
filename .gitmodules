@@ -118458,3 +118458,7 @@
 	url = https://github.com/conda-forge/zsh-you-should-use-feedstock.git
 	path = feedstocks/zsh-you-should-use
 	branch = refs/heads/main
+[submodule "zsh-bat"]
+	url = https://github.com/conda-forge/zsh-bat-feedstock.git
+	path = feedstocks/zsh-bat
+	branch = refs/heads/main
