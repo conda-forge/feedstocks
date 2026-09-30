@@ -118478,3 +118478,7 @@
 	url = https://github.com/conda-forge/reactix-feedstock.git
 	path = feedstocks/reactix
 	branch = refs/heads/main
+[submodule "uniclip"]
+	url = https://github.com/conda-forge/uniclip-feedstock.git
+	path = feedstocks/uniclip
+	branch = refs/heads/main
