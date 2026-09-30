@@ -118438,3 +118438,7 @@
 	url = https://github.com/conda-forge/rpcsvc-proto-feedstock.git
 	path = feedstocks/rpcsvc-proto
 	branch = refs/heads/main
+[submodule "doiggie-repositories"]
+	url = https://github.com/conda-forge/doiggie-repositories-feedstock.git
+	path = feedstocks/doiggie-repositories
+	branch = refs/heads/main
