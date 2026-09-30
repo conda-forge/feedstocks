@@ -118466,3 +118466,7 @@
 	url = https://github.com/conda-forge/marimo-jupyter-extension-feedstock.git
 	path = feedstocks/marimo-jupyter-extension
 	branch = refs/heads/main
+[submodule "bioio-imageio"]
+	url = https://github.com/conda-forge/bioio-imageio-feedstock.git
+	path = feedstocks/bioio-imageio
+	branch = refs/heads/main
