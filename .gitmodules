@@ -118462,3 +118462,7 @@
 	url = https://github.com/conda-forge/zsh-bat-feedstock.git
 	path = feedstocks/zsh-bat
 	branch = refs/heads/main
+[submodule "marimo-jupyter-extension"]
+	url = https://github.com/conda-forge/marimo-jupyter-extension-feedstock.git
+	path = feedstocks/marimo-jupyter-extension
+	branch = refs/heads/main
