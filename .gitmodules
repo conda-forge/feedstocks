@@ -118494,3 +118494,7 @@
 	url = https://github.com/conda-forge/tilelang-feedstock.git
 	path = feedstocks/tilelang
 	branch = refs/heads/main
+[submodule "pzstd"]
+	url = https://github.com/conda-forge/pzstd-feedstock.git
+	path = feedstocks/pzstd
+	branch = refs/heads/main
