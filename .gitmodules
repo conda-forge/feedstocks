@@ -118482,3 +118482,7 @@
 	url = https://github.com/conda-forge/uniclip-feedstock.git
 	path = feedstocks/uniclip
 	branch = refs/heads/main
+[submodule "cyclonedds-cxx"]
+	url = https://github.com/conda-forge/cyclonedds-cxx-feedstock.git
+	path = feedstocks/cyclonedds-cxx
+	branch = refs/heads/main
