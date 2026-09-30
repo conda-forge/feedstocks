@@ -118454,3 +118454,7 @@
 	url = https://github.com/conda-forge/zsh-autosuggestions-feedstock.git
 	path = feedstocks/zsh-autosuggestions
 	branch = refs/heads/main
+[submodule "zsh-you-should-use"]
+	url = https://github.com/conda-forge/zsh-you-should-use-feedstock.git
+	path = feedstocks/zsh-you-should-use
+	branch = refs/heads/main
