@@ -118450,3 +118450,7 @@
 	url = https://github.com/conda-forge/zsh-syntax-highlighting-feedstock.git
 	path = feedstocks/zsh-syntax-highlighting
 	branch = refs/heads/main
+[submodule "zsh-autosuggestions"]
+	url = https://github.com/conda-forge/zsh-autosuggestions-feedstock.git
+	path = feedstocks/zsh-autosuggestions
+	branch = refs/heads/main
