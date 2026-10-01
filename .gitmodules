@@ -118542,3 +118542,7 @@
 	url = https://github.com/conda-forge/taskiq-redis-feedstock.git
 	path = feedstocks/taskiq-redis
 	branch = refs/heads/main
+[submodule "taskiq"]
+	url = https://github.com/conda-forge/taskiq-feedstock.git
+	path = feedstocks/taskiq
+	branch = refs/heads/main
