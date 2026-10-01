@@ -118534,3 +118534,7 @@
 	url = https://github.com/conda-forge/soba_reference_repo-feedstock.git
 	path = feedstocks/soba_reference_repo
 	branch = refs/heads/main
+[submodule "taskiq-dependencies"]
+	url = https://github.com/conda-forge/taskiq-dependencies-feedstock.git
+	path = feedstocks/taskiq-dependencies
+	branch = refs/heads/main
