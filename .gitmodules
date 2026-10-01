@@ -118514,3 +118514,7 @@
 	url = https://github.com/conda-forge/isar-tools-feedstock.git
 	path = feedstocks/isar-tools
 	branch = refs/heads/main
+[submodule "xlsx-viewer-pro"]
+	url = https://github.com/conda-forge/xlsx-viewer-pro-feedstock.git
+	path = feedstocks/xlsx-viewer-pro
+	branch = refs/heads/main
