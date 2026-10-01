@@ -118526,3 +118526,7 @@
 	url = https://github.com/conda-forge/linkbikenet-feedstock.git
 	path = feedstocks/linkbikenet
 	branch = refs/heads/main
+[submodule "lazyslide-models"]
+	url = https://github.com/conda-forge/lazyslide-models-feedstock.git
+	path = feedstocks/lazyslide-models
+	branch = refs/heads/main
