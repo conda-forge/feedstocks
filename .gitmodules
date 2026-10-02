@@ -118562,3 +118562,7 @@
 	url = https://github.com/conda-forge/shinyreact-feedstock.git
 	path = feedstocks/shinyreact
 	branch = refs/heads/main
+[submodule "p4"]
+	url = https://github.com/conda-forge/p4-feedstock.git
+	path = feedstocks/p4
+	branch = refs/heads/main
