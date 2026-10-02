@@ -118554,3 +118554,7 @@
 	url = https://github.com/conda-forge/memtailor-feedstock.git
 	path = feedstocks/memtailor
 	branch = refs/heads/main
+[submodule "crmvec"]
+	url = https://github.com/conda-forge/crmvec-feedstock.git
+	path = feedstocks/crmvec
+	branch = refs/heads/main
