@@ -118550,3 +118550,7 @@
 	url = https://github.com/conda-forge/l2sl-feedstock.git
 	path = feedstocks/l2sl
 	branch = refs/heads/main
+[submodule "memtailor"]
+	url = https://github.com/conda-forge/memtailor-feedstock.git
+	path = feedstocks/memtailor
+	branch = refs/heads/main
