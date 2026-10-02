@@ -118546,3 +118546,7 @@
 	url = https://github.com/conda-forge/taskiq-feedstock.git
 	path = feedstocks/taskiq
 	branch = refs/heads/main
+[submodule "l2sl"]
+	url = https://github.com/conda-forge/l2sl-feedstock.git
+	path = feedstocks/l2sl
+	branch = refs/heads/main
