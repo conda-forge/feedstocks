@@ -118566,3 +118566,7 @@
 	url = https://github.com/conda-forge/p4-feedstock.git
 	path = feedstocks/p4
 	branch = refs/heads/main
+[submodule "herwig"]
+	url = https://github.com/conda-forge/herwig-feedstock.git
+	path = feedstocks/herwig
+	branch = refs/heads/main
