@@ -118570,3 +118570,7 @@
 	url = https://github.com/conda-forge/herwig-feedstock.git
 	path = feedstocks/herwig
 	branch = refs/heads/main
+[submodule "font-ttf-geist"]
+	url = https://github.com/conda-forge/font-ttf-geist-feedstock.git
+	path = feedstocks/font-ttf-geist
+	branch = refs/heads/main
