@@ -118574,3 +118574,7 @@
 	url = https://github.com/conda-forge/font-ttf-geist-feedstock.git
 	path = feedstocks/font-ttf-geist
 	branch = refs/heads/main
+[submodule "labware"]
+	url = https://github.com/conda-forge/labware-feedstock.git
+	path = feedstocks/labware
+	branch = refs/heads/main
