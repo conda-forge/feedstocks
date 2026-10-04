@@ -118590,3 +118590,7 @@
 	url = https://github.com/conda-forge/chemistrykit-feedstock.git
 	path = feedstocks/chemistrykit
 	branch = refs/heads/main
+[submodule "mathematicskit"]
+	url = https://github.com/conda-forge/mathematicskit-feedstock.git
+	path = feedstocks/mathematicskit
+	branch = refs/heads/main
