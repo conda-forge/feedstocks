@@ -118578,3 +118578,7 @@
 	url = https://github.com/conda-forge/labware-feedstock.git
 	path = feedstocks/labware
 	branch = refs/heads/main
+[submodule "tbkit"]
+	url = https://github.com/conda-forge/tbkit-feedstock.git
+	path = feedstocks/tbkit
+	branch = refs/heads/main
