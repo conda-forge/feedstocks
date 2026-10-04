@@ -118582,3 +118582,7 @@
 	url = https://github.com/conda-forge/tbkit-feedstock.git
 	path = feedstocks/tbkit
 	branch = refs/heads/main
+[submodule "physicskit"]
+	url = https://github.com/conda-forge/physicskit-feedstock.git
+	path = feedstocks/physicskit
+	branch = refs/heads/main
