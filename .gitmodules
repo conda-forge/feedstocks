@@ -118622,3 +118622,7 @@
 	url = https://github.com/conda-forge/meltano-feedstock.git
 	path = feedstocks/meltano
 	branch = refs/heads/main
+[submodule "psmux"]
+	url = https://github.com/conda-forge/psmux-feedstock.git
+	path = feedstocks/psmux
+	branch = refs/heads/main
