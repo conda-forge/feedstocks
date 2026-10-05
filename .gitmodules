@@ -118630,3 +118630,7 @@
 	url = https://github.com/conda-forge/pgjdbc-feedstock.git
 	path = feedstocks/pgjdbc
 	branch = refs/heads/main
+[submodule "cpsat-logutils"]
+	url = https://github.com/conda-forge/cpsat-logutils-feedstock.git
+	path = feedstocks/cpsat-logutils
+	branch = refs/heads/main
