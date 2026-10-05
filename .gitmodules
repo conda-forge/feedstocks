@@ -118626,3 +118626,7 @@
 	url = https://github.com/conda-forge/psmux-feedstock.git
 	path = feedstocks/psmux
 	branch = refs/heads/main
+[submodule "pgjdbc"]
+	url = https://github.com/conda-forge/pgjdbc-feedstock.git
+	path = feedstocks/pgjdbc
+	branch = refs/heads/main
