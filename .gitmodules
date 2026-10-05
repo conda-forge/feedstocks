@@ -118606,3 +118606,7 @@
 	url = https://github.com/conda-forge/types-grpcio-feedstock.git
 	path = feedstocks/types-grpcio
 	branch = refs/heads/main
+[submodule "env-repair"]
+	url = https://github.com/conda-forge/env-repair-feedstock.git
+	path = feedstocks/env-repair
+	branch = refs/heads/main
