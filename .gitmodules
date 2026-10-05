@@ -118638,3 +118638,7 @@
 	url = https://github.com/conda-forge/orloge-feedstock.git
 	path = feedstocks/orloge
 	branch = refs/heads/main
+[submodule "pixelmatch"]
+	url = https://github.com/conda-forge/pixelmatch-feedstock.git
+	path = feedstocks/pixelmatch
+	branch = refs/heads/main
