@@ -118602,3 +118602,7 @@
 	url = https://github.com/conda-forge/forgejo-cli-feedstock.git
 	path = feedstocks/forgejo-cli
 	branch = refs/heads/main
+[submodule "types-grpcio"]
+	url = https://github.com/conda-forge/types-grpcio-feedstock.git
+	path = feedstocks/types-grpcio
+	branch = refs/heads/main
