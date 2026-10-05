@@ -118618,3 +118618,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-http-transport-feedstock.git
 	path = feedstocks/opentelemetry-exporter-http-transport
 	branch = refs/heads/main
+[submodule "meltano"]
+	url = https://github.com/conda-forge/meltano-feedstock.git
+	path = feedstocks/meltano
+	branch = refs/heads/main
