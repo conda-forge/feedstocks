@@ -118598,3 +118598,7 @@
 	url = https://github.com/conda-forge/antlrope-feedstock.git
 	path = feedstocks/antlrope
 	branch = refs/heads/main
+[submodule "forgejo-cli"]
+	url = https://github.com/conda-forge/forgejo-cli-feedstock.git
+	path = feedstocks/forgejo-cli
+	branch = refs/heads/main
