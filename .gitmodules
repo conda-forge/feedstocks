@@ -118614,3 +118614,7 @@
 	url = https://github.com/conda-forge/opentelemetry-exporter-otlp-common-feedstock.git
 	path = feedstocks/opentelemetry-exporter-otlp-common
 	branch = refs/heads/main
+[submodule "opentelemetry-exporter-http-transport"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-http-transport-feedstock.git
+	path = feedstocks/opentelemetry-exporter-http-transport
+	branch = refs/heads/main
