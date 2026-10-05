@@ -118642,3 +118642,7 @@
 	url = https://github.com/conda-forge/pixelmatch-feedstock.git
 	path = feedstocks/pixelmatch
 	branch = refs/heads/main
+[submodule "ntpstats"]
+	url = https://github.com/conda-forge/ntpstats-feedstock.git
+	path = feedstocks/ntpstats
+	branch = refs/heads/main
