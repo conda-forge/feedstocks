@@ -118650,3 +118650,7 @@
 	url = https://github.com/conda-forge/agentjit-feedstock.git
 	path = feedstocks/agentjit
 	branch = refs/heads/main
+[submodule "yfinance-ta-patterns"]
+	url = https://github.com/conda-forge/yfinance-ta-patterns-feedstock.git
+	path = feedstocks/yfinance-ta-patterns
+	branch = refs/heads/main
