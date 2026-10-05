@@ -118646,3 +118646,7 @@
 	url = https://github.com/conda-forge/ntpstats-feedstock.git
 	path = feedstocks/ntpstats
 	branch = refs/heads/main
+[submodule "agentjit"]
+	url = https://github.com/conda-forge/agentjit-feedstock.git
+	path = feedstocks/agentjit
+	branch = refs/heads/main
