@@ -118658,3 +118658,7 @@
 	url = https://github.com/conda-forge/gsolve-feedstock.git
 	path = feedstocks/gsolve
 	branch = refs/heads/main
+[submodule "r-recommenderlab"]
+	url = https://github.com/conda-forge/r-recommenderlab-feedstock.git
+	path = feedstocks/r-recommenderlab
+	branch = refs/heads/main
