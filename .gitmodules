@@ -118610,3 +118610,7 @@
 	url = https://github.com/conda-forge/env-repair-feedstock.git
 	path = feedstocks/env-repair
 	branch = refs/heads/main
+[submodule "opentelemetry-exporter-otlp-common"]
+	url = https://github.com/conda-forge/opentelemetry-exporter-otlp-common-feedstock.git
+	path = feedstocks/opentelemetry-exporter-otlp-common
+	branch = refs/heads/main
