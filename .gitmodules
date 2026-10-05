@@ -118654,3 +118654,7 @@
 	url = https://github.com/conda-forge/yfinance-ta-patterns-feedstock.git
 	path = feedstocks/yfinance-ta-patterns
 	branch = refs/heads/main
+[submodule "gsolve"]
+	url = https://github.com/conda-forge/gsolve-feedstock.git
+	path = feedstocks/gsolve
+	branch = refs/heads/main
