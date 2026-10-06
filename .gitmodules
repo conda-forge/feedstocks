@@ -118702,3 +118702,7 @@
 	url = https://github.com/conda-forge/plotastro-feedstock.git
 	path = feedstocks/plotastro
 	branch = refs/heads/main
+[submodule "pynamodb-async"]
+	url = https://github.com/conda-forge/pynamodb-async-feedstock.git
+	path = feedstocks/pynamodb-async
+	branch = refs/heads/main
