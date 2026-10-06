@@ -118662,3 +118662,7 @@
 	url = https://github.com/conda-forge/r-recommenderlab-feedstock.git
 	path = feedstocks/r-recommenderlab
 	branch = refs/heads/main
+[submodule "heptokens"]
+	url = https://github.com/conda-forge/heptokens-feedstock.git
+	path = feedstocks/heptokens
+	branch = refs/heads/main
