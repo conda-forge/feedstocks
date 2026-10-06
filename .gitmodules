@@ -118670,3 +118670,7 @@
 	url = https://github.com/conda-forge/nanorecall-feedstock.git
 	path = feedstocks/nanorecall
 	branch = refs/heads/main
+[submodule "nanovector"]
+	url = https://github.com/conda-forge/nanovector-feedstock.git
+	path = feedstocks/nanovector
+	branch = refs/heads/main
