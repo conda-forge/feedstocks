@@ -118666,3 +118666,7 @@
 	url = https://github.com/conda-forge/heptokens-feedstock.git
 	path = feedstocks/heptokens
 	branch = refs/heads/main
+[submodule "nanorecall"]
+	url = https://github.com/conda-forge/nanorecall-feedstock.git
+	path = feedstocks/nanorecall
+	branch = refs/heads/main
