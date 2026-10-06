@@ -118674,3 +118674,7 @@
 	url = https://github.com/conda-forge/nanovector-feedstock.git
 	path = feedstocks/nanovector
 	branch = refs/heads/main
+[submodule "osl-dynamics"]
+	url = https://github.com/conda-forge/osl-dynamics-feedstock.git
+	path = feedstocks/osl-dynamics
+	branch = refs/heads/main
