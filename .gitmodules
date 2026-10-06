@@ -118678,3 +118678,7 @@
 	url = https://github.com/conda-forge/osl-dynamics-feedstock.git
 	path = feedstocks/osl-dynamics
 	branch = refs/heads/main
+[submodule "avito-sdk"]
+	url = https://github.com/conda-forge/avito-sdk-feedstock.git
+	path = feedstocks/avito-sdk
+	branch = refs/heads/main
