@@ -118682,3 +118682,7 @@
 	url = https://github.com/conda-forge/avito-sdk-feedstock.git
 	path = feedstocks/avito-sdk
 	branch = refs/heads/main
+[submodule "aws-lc"]
+	url = https://github.com/conda-forge/aws-lc-feedstock.git
+	path = feedstocks/aws-lc
+	branch = refs/heads/main
