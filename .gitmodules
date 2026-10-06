@@ -118686,3 +118686,7 @@
 	url = https://github.com/conda-forge/aws-lc-feedstock.git
 	path = feedstocks/aws-lc
 	branch = refs/heads/main
+[submodule "cloudflare-cli"]
+	url = https://github.com/conda-forge/cloudflare-cli-feedstock.git
+	path = feedstocks/cloudflare-cli
+	branch = refs/heads/main
