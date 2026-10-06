@@ -118694,3 +118694,7 @@
 	url = https://github.com/conda-forge/nanogemm-feedstock.git
 	path = feedstocks/nanogemm
 	branch = refs/heads/main
+[submodule "genbadge"]
+	url = https://github.com/conda-forge/genbadge-feedstock.git
+	path = feedstocks/genbadge
+	branch = refs/heads/main
