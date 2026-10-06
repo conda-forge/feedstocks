@@ -118690,3 +118690,7 @@
 	url = https://github.com/conda-forge/cloudflare-cli-feedstock.git
 	path = feedstocks/cloudflare-cli
 	branch = refs/heads/main
+[submodule "nanogemm"]
+	url = https://github.com/conda-forge/nanogemm-feedstock.git
+	path = feedstocks/nanogemm
+	branch = refs/heads/main
