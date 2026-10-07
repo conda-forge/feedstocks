@@ -118714,3 +118714,7 @@
 	url = https://github.com/conda-forge/sac-feedstock.git
 	path = feedstocks/sac
 	branch = refs/heads/main
+[submodule "daaf-plot"]
+	url = https://github.com/conda-forge/daaf-plot-feedstock.git
+	path = feedstocks/daaf-plot
+	branch = refs/heads/main
