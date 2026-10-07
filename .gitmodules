@@ -118742,3 +118742,7 @@
 	url = https://github.com/conda-forge/ismip7-scalars-feedstock.git
 	path = feedstocks/ismip7-scalars
 	branch = refs/heads/main
+[submodule "denet"]
+	url = https://github.com/conda-forge/denet-feedstock.git
+	path = feedstocks/denet
+	branch = refs/heads/main
