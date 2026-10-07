@@ -118754,3 +118754,7 @@
 	url = https://github.com/conda-forge/szl-guardrail-receipt-feedstock.git
 	path = feedstocks/szl-guardrail-receipt
 	branch = refs/heads/main
+[submodule "szl-nemo"]
+	url = https://github.com/conda-forge/szl-nemo-feedstock.git
+	path = feedstocks/szl-nemo
+	branch = refs/heads/main
