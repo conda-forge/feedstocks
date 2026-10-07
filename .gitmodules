@@ -118726,3 +118726,7 @@
 	url = https://github.com/conda-forge/ycleptic-feedstock.git
 	path = feedstocks/ycleptic
 	branch = refs/heads/main
+[submodule "natscli"]
+	url = https://github.com/conda-forge/natscli-feedstock.git
+	path = feedstocks/natscli
+	branch = refs/heads/main
