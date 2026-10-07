@@ -118762,3 +118762,7 @@
 	url = https://github.com/conda-forge/orthonym-feedstock.git
 	path = feedstocks/orthonym
 	branch = refs/heads/main
+[submodule "ismip7-interpolation"]
+	url = https://github.com/conda-forge/ismip7-interpolation-feedstock.git
+	path = feedstocks/ismip7-interpolation
+	branch = refs/heads/main
