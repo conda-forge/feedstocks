@@ -118710,3 +118710,7 @@
 	url = https://github.com/conda-forge/openfeature-flagd-core-feedstock.git
 	path = feedstocks/openfeature-flagd-core
 	branch = refs/heads/main
+[submodule "sac"]
+	url = https://github.com/conda-forge/sac-feedstock.git
+	path = feedstocks/sac
+	branch = refs/heads/main
