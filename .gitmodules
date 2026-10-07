@@ -118746,3 +118746,7 @@
 	url = https://github.com/conda-forge/denet-feedstock.git
 	path = feedstocks/denet
 	branch = refs/heads/main
+[submodule "vsp-otel"]
+	url = https://github.com/conda-forge/vsp-otel-feedstock.git
+	path = feedstocks/vsp-otel
+	branch = refs/heads/main
