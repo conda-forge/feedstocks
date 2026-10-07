@@ -118738,3 +118738,7 @@
 	url = https://github.com/conda-forge/rdocx-split-feedstock.git
 	path = feedstocks/rdocx-split
 	branch = refs/heads/main
+[submodule "ismip7-scalars"]
+	url = https://github.com/conda-forge/ismip7-scalars-feedstock.git
+	path = feedstocks/ismip7-scalars
+	branch = refs/heads/main
