@@ -118766,3 +118766,7 @@
 	url = https://github.com/conda-forge/ismip7-interpolation-feedstock.git
 	path = feedstocks/ismip7-interpolation
 	branch = refs/heads/main
+[submodule "conda-pyproject-toml"]
+	url = https://github.com/conda-forge/conda-pyproject-toml-feedstock.git
+	path = feedstocks/conda-pyproject-toml
+	branch = refs/heads/main
