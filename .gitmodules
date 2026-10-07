@@ -118750,3 +118750,7 @@
 	url = https://github.com/conda-forge/vsp-otel-feedstock.git
 	path = feedstocks/vsp-otel
 	branch = refs/heads/main
+[submodule "szl-guardrail-receipt"]
+	url = https://github.com/conda-forge/szl-guardrail-receipt-feedstock.git
+	path = feedstocks/szl-guardrail-receipt
+	branch = refs/heads/main
