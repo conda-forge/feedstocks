@@ -118730,3 +118730,7 @@
 	url = https://github.com/conda-forge/natscli-feedstock.git
 	path = feedstocks/natscli
 	branch = refs/heads/main
+[submodule "rpptx-split"]
+	url = https://github.com/conda-forge/rpptx-split-feedstock.git
+	path = feedstocks/rpptx-split
+	branch = refs/heads/main
