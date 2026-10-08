@@ -118786,3 +118786,7 @@
 	url = https://github.com/conda-forge/anaconda-opentelemetry-feedstock.git
 	path = feedstocks/anaconda-opentelemetry
 	branch = refs/heads/main
+[submodule "fg-data-profiling"]
+	url = https://github.com/conda-forge/fg-data-profiling-feedstock.git
+	path = feedstocks/fg-data-profiling
+	branch = refs/heads/main
