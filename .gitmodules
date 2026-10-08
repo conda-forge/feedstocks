@@ -118770,3 +118770,7 @@
 	url = https://github.com/conda-forge/conda-pyproject-toml-feedstock.git
 	path = feedstocks/conda-pyproject-toml
 	branch = refs/heads/main
+[submodule "rule-audit"]
+	url = https://github.com/conda-forge/rule-audit-feedstock.git
+	path = feedstocks/rule-audit
+	branch = refs/heads/main
