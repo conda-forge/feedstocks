@@ -118774,3 +118774,7 @@
 	url = https://github.com/conda-forge/rule-audit-feedstock.git
 	path = feedstocks/rule-audit
 	branch = refs/heads/main
+[submodule "require3"]
+	url = https://github.com/conda-forge/require3-feedstock.git
+	path = feedstocks/require3
+	branch = refs/heads/main
