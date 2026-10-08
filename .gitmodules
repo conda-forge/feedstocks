@@ -118782,3 +118782,7 @@
 	url = https://github.com/conda-forge/tabalyst-feedstock.git
 	path = feedstocks/tabalyst
 	branch = refs/heads/main
+[submodule "anaconda-opentelemetry"]
+	url = https://github.com/conda-forge/anaconda-opentelemetry-feedstock.git
+	path = feedstocks/anaconda-opentelemetry
+	branch = refs/heads/main
