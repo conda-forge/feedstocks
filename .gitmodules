@@ -118790,3 +118790,7 @@
 	url = https://github.com/conda-forge/fg-data-profiling-feedstock.git
 	path = feedstocks/fg-data-profiling
 	branch = refs/heads/main
+[submodule "openfeature-provider-flagd"]
+	url = https://github.com/conda-forge/openfeature-provider-flagd-feedstock.git
+	path = feedstocks/openfeature-provider-flagd
+	branch = refs/heads/main
