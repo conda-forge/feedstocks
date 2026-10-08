@@ -118778,3 +118778,7 @@
 	url = https://github.com/conda-forge/require3-feedstock.git
 	path = feedstocks/require3
 	branch = refs/heads/main
+[submodule "tabalyst"]
+	url = https://github.com/conda-forge/tabalyst-feedstock.git
+	path = feedstocks/tabalyst
+	branch = refs/heads/main
