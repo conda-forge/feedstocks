@@ -118822,3 +118822,7 @@
 	url = https://github.com/conda-forge/metaflow-functions-feedstock.git
 	path = feedstocks/metaflow-functions
 	branch = refs/heads/main
+[submodule "zsasa"]
+	url = https://github.com/conda-forge/zsasa-feedstock.git
+	path = feedstocks/zsasa
+	branch = refs/heads/main
