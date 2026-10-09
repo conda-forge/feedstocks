@@ -118818,3 +118818,7 @@
 	url = https://github.com/conda-forge/ag2-feedstock.git
 	path = feedstocks/ag2
 	branch = refs/heads/main
+[submodule "metaflow-functions"]
+	url = https://github.com/conda-forge/metaflow-functions-feedstock.git
+	path = feedstocks/metaflow-functions
+	branch = refs/heads/main
