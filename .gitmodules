@@ -118830,3 +118830,7 @@
 	url = https://github.com/conda-forge/gha-doctor-feedstock.git
 	path = feedstocks/gha-doctor
 	branch = refs/heads/main
+[submodule "sagemath-mcp"]
+	url = https://github.com/conda-forge/sagemath-mcp-feedstock.git
+	path = feedstocks/sagemath-mcp
+	branch = refs/heads/main
