@@ -118794,3 +118794,7 @@
 	url = https://github.com/conda-forge/openfeature-provider-flagd-feedstock.git
 	path = feedstocks/openfeature-provider-flagd
 	branch = refs/heads/main
+[submodule "pet-rd-tools"]
+	url = https://github.com/conda-forge/pet-rd-tools-feedstock.git
+	path = feedstocks/pet-rd-tools
+	branch = refs/heads/main
