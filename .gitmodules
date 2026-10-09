@@ -118826,3 +118826,7 @@
 	url = https://github.com/conda-forge/zsasa-feedstock.git
 	path = feedstocks/zsasa
 	branch = refs/heads/main
+[submodule "gha-doctor"]
+	url = https://github.com/conda-forge/gha-doctor-feedstock.git
+	path = feedstocks/gha-doctor
+	branch = refs/heads/main
