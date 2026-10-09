@@ -118802,3 +118802,7 @@
 	url = https://github.com/conda-forge/betacalendars-temporal-feedstock.git
 	path = feedstocks/betacalendars-temporal
 	branch = refs/heads/main
+[submodule "datetime"]
+	url = https://github.com/conda-forge/datetime-feedstock.git
+	path = feedstocks/datetime
+	branch = refs/heads/main
