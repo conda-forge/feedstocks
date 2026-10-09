@@ -118806,3 +118806,7 @@
 	url = https://github.com/conda-forge/datetime-feedstock.git
 	path = feedstocks/datetime
 	branch = refs/heads/main
+[submodule "ifotools"]
+	url = https://github.com/conda-forge/ifotools-feedstock.git
+	path = feedstocks/ifotools
+	branch = refs/heads/main
