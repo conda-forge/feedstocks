@@ -118810,3 +118810,7 @@
 	url = https://github.com/conda-forge/ifotools-feedstock.git
 	path = feedstocks/ifotools
 	branch = refs/heads/main
+[submodule "perseo-quality"]
+	url = https://github.com/conda-forge/perseo-quality-feedstock.git
+	path = feedstocks/perseo-quality
+	branch = refs/heads/main
