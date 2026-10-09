@@ -118834,3 +118834,7 @@
 	url = https://github.com/conda-forge/sagemath-mcp-feedstock.git
 	path = feedstocks/sagemath-mcp
 	branch = refs/heads/main
+[submodule "dearpygui"]
+	url = https://github.com/conda-forge/dearpygui-feedstock.git
+	path = feedstocks/dearpygui
+	branch = refs/heads/main
