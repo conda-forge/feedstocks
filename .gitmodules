@@ -118814,3 +118814,7 @@
 	url = https://github.com/conda-forge/perseo-quality-feedstock.git
 	path = feedstocks/perseo-quality
 	branch = refs/heads/main
+[submodule "ag2"]
+	url = https://github.com/conda-forge/ag2-feedstock.git
+	path = feedstocks/ag2
+	branch = refs/heads/main
