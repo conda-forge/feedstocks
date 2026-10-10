@@ -118842,3 +118842,7 @@
 	url = https://github.com/conda-forge/fff-mcp-feedstock.git
 	path = feedstocks/fff-mcp
 	branch = refs/heads/main
+[submodule "enumlib.jl"]
+	url = https://github.com/conda-forge/enumlib.jl-feedstock.git
+	path = feedstocks/enumlib.jl
+	branch = refs/heads/main
