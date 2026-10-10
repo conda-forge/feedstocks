@@ -118838,3 +118838,7 @@
 	url = https://github.com/conda-forge/dearpygui-feedstock.git
 	path = feedstocks/dearpygui
 	branch = refs/heads/main
+[submodule "fff-mcp"]
+	url = https://github.com/conda-forge/fff-mcp-feedstock.git
+	path = feedstocks/fff-mcp
+	branch = refs/heads/main
