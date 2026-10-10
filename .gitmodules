@@ -118850,3 +118850,7 @@
 	url = https://github.com/conda-forge/hermes-agent-feedstock.git
 	path = feedstocks/hermes-agent
 	branch = refs/heads/main
+[submodule "wifit3"]
+	url = https://github.com/conda-forge/wifit3-feedstock.git
+	path = feedstocks/wifit3
+	branch = refs/heads/main
