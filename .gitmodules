@@ -118846,3 +118846,7 @@
 	url = https://github.com/conda-forge/enumlib.jl-feedstock.git
 	path = feedstocks/enumlib.jl
 	branch = refs/heads/main
+[submodule "hermes-agent"]
+	url = https://github.com/conda-forge/hermes-agent-feedstock.git
+	path = feedstocks/hermes-agent
+	branch = refs/heads/main
