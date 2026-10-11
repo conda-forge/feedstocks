@@ -118862,3 +118862,7 @@
 	url = https://github.com/conda-forge/odoo-health-check-feedstock.git
 	path = feedstocks/odoo-health-check
 	branch = refs/heads/main
+[submodule "conda-ship"]
+	url = https://github.com/conda-forge/conda-ship-feedstock.git
+	path = feedstocks/conda-ship
+	branch = refs/heads/main
