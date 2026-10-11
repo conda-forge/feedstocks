@@ -118866,3 +118866,7 @@
 	url = https://github.com/conda-forge/conda-ship-feedstock.git
 	path = feedstocks/conda-ship
 	branch = refs/heads/main
+[submodule "zlib-state"]
+	url = https://github.com/conda-forge/zlib-state-feedstock.git
+	path = feedstocks/zlib-state
+	branch = refs/heads/main
