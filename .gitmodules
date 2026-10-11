@@ -118858,3 +118858,7 @@
 	url = https://github.com/conda-forge/libe57format-feedstock.git
 	path = feedstocks/libe57format
 	branch = refs/heads/main
+[submodule "odoo-health-check"]
+	url = https://github.com/conda-forge/odoo-health-check-feedstock.git
+	path = feedstocks/odoo-health-check
+	branch = refs/heads/main
