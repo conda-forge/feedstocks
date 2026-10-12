@@ -118882,3 +118882,7 @@
 	url = https://github.com/conda-forge/git-include-feedstock.git
 	path = feedstocks/git-include
 	branch = refs/heads/main
+[submodule "rb-asciidoctor-tabs"]
+	url = https://github.com/conda-forge/rb-asciidoctor-tabs-feedstock.git
+	path = feedstocks/rb-asciidoctor-tabs
+	branch = refs/heads/main
