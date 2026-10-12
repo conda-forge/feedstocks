@@ -118886,3 +118886,7 @@
 	url = https://github.com/conda-forge/rb-asciidoctor-tabs-feedstock.git
 	path = feedstocks/rb-asciidoctor-tabs
 	branch = refs/heads/main
+[submodule "libblake3"]
+	url = https://github.com/conda-forge/libblake3-feedstock.git
+	path = feedstocks/libblake3
+	branch = refs/heads/main
