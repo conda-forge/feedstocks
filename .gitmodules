@@ -118878,3 +118878,7 @@
 	url = https://github.com/conda-forge/solarutils-feedstock.git
 	path = feedstocks/solarutils
 	branch = refs/heads/main
+[submodule "git-include"]
+	url = https://github.com/conda-forge/git-include-feedstock.git
+	path = feedstocks/git-include
+	branch = refs/heads/main
