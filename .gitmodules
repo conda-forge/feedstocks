@@ -118894,3 +118894,7 @@
 	url = https://github.com/conda-forge/fenicsx-compat-feedstock.git
 	path = feedstocks/fenicsx-compat
 	branch = refs/heads/main
+[submodule "bikenetlib"]
+	url = https://github.com/conda-forge/bikenetlib-feedstock.git
+	path = feedstocks/bikenetlib
+	branch = refs/heads/main
