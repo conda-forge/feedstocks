@@ -118906,3 +118906,7 @@
 	url = https://github.com/conda-forge/ttl3d-feedstock.git
 	path = feedstocks/ttl3d
 	branch = refs/heads/main
+[submodule "yac"]
+	url = https://github.com/conda-forge/yac-feedstock.git
+	path = feedstocks/yac
+	branch = refs/heads/main
