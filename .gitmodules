@@ -118890,3 +118890,7 @@
 	url = https://github.com/conda-forge/libblake3-feedstock.git
 	path = feedstocks/libblake3
 	branch = refs/heads/main
+[submodule "fenicsx-compat"]
+	url = https://github.com/conda-forge/fenicsx-compat-feedstock.git
+	path = feedstocks/fenicsx-compat
+	branch = refs/heads/main
