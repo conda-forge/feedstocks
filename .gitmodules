@@ -118918,3 +118918,7 @@
 	url = https://github.com/conda-forge/ocaml-yojson-feedstock.git
 	path = feedstocks/ocaml-yojson
 	branch = refs/heads/main
+[submodule "ocaml-ppx-derivers"]
+	url = https://github.com/conda-forge/ocaml-ppx-derivers-feedstock.git
+	path = feedstocks/ocaml-ppx-derivers
+	branch = refs/heads/main
