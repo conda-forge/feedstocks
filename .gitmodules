@@ -118958,3 +118958,7 @@
 	url = https://github.com/conda-forge/kymatio-feedstock.git
 	path = feedstocks/kymatio
 	branch = refs/heads/main
+[submodule "gh-stack"]
+	url = https://github.com/conda-forge/gh-stack-feedstock.git
+	path = feedstocks/gh-stack
+	branch = refs/heads/main
