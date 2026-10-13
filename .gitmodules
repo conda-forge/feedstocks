@@ -118962,3 +118962,7 @@
 	url = https://github.com/conda-forge/gh-stack-feedstock.git
 	path = feedstocks/gh-stack
 	branch = refs/heads/main
+[submodule "dataeval-flow"]
+	url = https://github.com/conda-forge/dataeval-flow-feedstock.git
+	path = feedstocks/dataeval-flow
+	branch = refs/heads/main
