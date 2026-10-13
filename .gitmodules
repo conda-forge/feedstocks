@@ -118954,3 +118954,7 @@
 	url = https://github.com/conda-forge/r-moire-feedstock.git
 	path = feedstocks/r-moire
 	branch = refs/heads/main
+[submodule "kymatio"]
+	url = https://github.com/conda-forge/kymatio-feedstock.git
+	path = feedstocks/kymatio
+	branch = refs/heads/main
