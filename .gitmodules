@@ -118914,3 +118914,7 @@
 	url = https://github.com/conda-forge/ocaml-cmdliner-feedstock.git
 	path = feedstocks/ocaml-cmdliner
 	branch = refs/heads/main
+[submodule "ocaml-yojson"]
+	url = https://github.com/conda-forge/ocaml-yojson-feedstock.git
+	path = feedstocks/ocaml-yojson
+	branch = refs/heads/main
