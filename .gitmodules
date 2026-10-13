@@ -118942,3 +118942,7 @@
 	url = https://github.com/conda-forge/ocaml-compiler-libs-feedstock.git
 	path = feedstocks/ocaml-compiler-libs
 	branch = refs/heads/main
+[submodule "ocaml-sexplib0"]
+	url = https://github.com/conda-forge/ocaml-sexplib0-feedstock.git
+	path = feedstocks/ocaml-sexplib0
+	branch = refs/heads/main
