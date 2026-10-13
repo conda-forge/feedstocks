@@ -118950,3 +118950,7 @@
 	url = https://github.com/conda-forge/ocaml-seq-feedstock.git
 	path = feedstocks/ocaml-seq
 	branch = refs/heads/main
+[submodule "r-moire"]
+	url = https://github.com/conda-forge/r-moire-feedstock.git
+	path = feedstocks/r-moire
+	branch = refs/heads/main
