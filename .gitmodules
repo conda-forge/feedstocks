@@ -118934,3 +118934,7 @@
 	url = https://github.com/conda-forge/ocaml-gen-feedstock.git
 	path = feedstocks/ocaml-gen
 	branch = refs/heads/main
+[submodule "ocaml-csexp"]
+	url = https://github.com/conda-forge/ocaml-csexp-feedstock.git
+	path = feedstocks/ocaml-csexp
+	branch = refs/heads/main
