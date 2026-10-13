@@ -118922,3 +118922,7 @@
 	url = https://github.com/conda-forge/ocaml-ppx-derivers-feedstock.git
 	path = feedstocks/ocaml-ppx-derivers
 	branch = refs/heads/main
+[submodule "ocaml-stdlib-shims"]
+	url = https://github.com/conda-forge/ocaml-stdlib-shims-feedstock.git
+	path = feedstocks/ocaml-stdlib-shims
+	branch = refs/heads/main
