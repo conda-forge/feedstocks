@@ -118930,3 +118930,7 @@
 	url = https://github.com/conda-forge/ocaml-re-feedstock.git
 	path = feedstocks/ocaml-re
 	branch = refs/heads/main
+[submodule "ocaml-gen"]
+	url = https://github.com/conda-forge/ocaml-gen-feedstock.git
+	path = feedstocks/ocaml-gen
+	branch = refs/heads/main
