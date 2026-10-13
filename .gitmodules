@@ -118926,3 +118926,7 @@
 	url = https://github.com/conda-forge/ocaml-stdlib-shims-feedstock.git
 	path = feedstocks/ocaml-stdlib-shims
 	branch = refs/heads/main
+[submodule "ocaml-re"]
+	url = https://github.com/conda-forge/ocaml-re-feedstock.git
+	path = feedstocks/ocaml-re
+	branch = refs/heads/main
