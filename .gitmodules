@@ -118966,3 +118966,7 @@
 	url = https://github.com/conda-forge/dataeval-flow-feedstock.git
 	path = feedstocks/dataeval-flow
 	branch = refs/heads/main
+[submodule "mam4-jax"]
+	url = https://github.com/conda-forge/mam4-jax-feedstock.git
+	path = feedstocks/mam4-jax
+	branch = refs/heads/main
