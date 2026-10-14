@@ -118978,3 +118978,7 @@
 	url = https://github.com/conda-forge/caesiumclt-feedstock.git
 	path = feedstocks/caesiumclt
 	branch = refs/heads/main
+[submodule "pixi-policy"]
+	url = https://github.com/conda-forge/pixi-policy-feedstock.git
+	path = feedstocks/pixi-policy
+	branch = refs/heads/main
