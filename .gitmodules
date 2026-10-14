@@ -118994,3 +118994,7 @@
 	url = https://github.com/conda-forge/polars-pairing-feedstock.git
 	path = feedstocks/polars-pairing
 	branch = refs/heads/main
+[submodule "uuid7-standard"]
+	url = https://github.com/conda-forge/uuid7-standard-feedstock.git
+	path = feedstocks/uuid7-standard
+	branch = refs/heads/main
