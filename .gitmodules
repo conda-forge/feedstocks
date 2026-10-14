@@ -118970,3 +118970,7 @@
 	url = https://github.com/conda-forge/mam4-jax-feedstock.git
 	path = feedstocks/mam4-jax
 	branch = refs/heads/main
+[submodule "wild"]
+	url = https://github.com/conda-forge/wild-feedstock.git
+	path = feedstocks/wild
+	branch = refs/heads/main
