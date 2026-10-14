@@ -118990,3 +118990,7 @@
 	url = https://github.com/conda-forge/proxy-scraper-cli-feedstock.git
 	path = feedstocks/proxy-scraper-cli
 	branch = refs/heads/main
+[submodule "polars-pairing"]
+	url = https://github.com/conda-forge/polars-pairing-feedstock.git
+	path = feedstocks/polars-pairing
+	branch = refs/heads/main
