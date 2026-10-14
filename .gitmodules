@@ -119006,3 +119006,7 @@
 	url = https://github.com/conda-forge/adanos-feedstock.git
 	path = feedstocks/adanos
 	branch = refs/heads/main
+[submodule "solidocean"]
+	url = https://github.com/conda-forge/solidocean-feedstock.git
+	path = feedstocks/solidocean
+	branch = refs/heads/main
