@@ -118974,3 +118974,7 @@
 	url = https://github.com/conda-forge/wild-feedstock.git
 	path = feedstocks/wild
 	branch = refs/heads/main
+[submodule "caesiumclt"]
+	url = https://github.com/conda-forge/caesiumclt-feedstock.git
+	path = feedstocks/caesiumclt
+	branch = refs/heads/main
