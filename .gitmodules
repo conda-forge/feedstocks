@@ -118986,3 +118986,7 @@
 	url = https://github.com/conda-forge/google-cloud-os-config-feedstock.git
 	path = feedstocks/google-cloud-os-config
 	branch = refs/heads/main
+[submodule "proxy-scraper-cli"]
+	url = https://github.com/conda-forge/proxy-scraper-cli-feedstock.git
+	path = feedstocks/proxy-scraper-cli
+	branch = refs/heads/main
