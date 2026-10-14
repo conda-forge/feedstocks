@@ -118982,3 +118982,7 @@
 	url = https://github.com/conda-forge/pixi-policy-feedstock.git
 	path = feedstocks/pixi-policy
 	branch = refs/heads/main
+[submodule "google-cloud-os-config"]
+	url = https://github.com/conda-forge/google-cloud-os-config-feedstock.git
+	path = feedstocks/google-cloud-os-config
+	branch = refs/heads/main
