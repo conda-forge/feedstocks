@@ -119010,3 +119010,7 @@
 	url = https://github.com/conda-forge/solidocean-feedstock.git
 	path = feedstocks/solidocean
 	branch = refs/heads/main
+[submodule "google-cloud-org-policy"]
+	url = https://github.com/conda-forge/google-cloud-org-policy-feedstock.git
+	path = feedstocks/google-cloud-org-policy
+	branch = refs/heads/main
