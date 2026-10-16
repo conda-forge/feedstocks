@@ -119022,3 +119022,7 @@
 	url = https://github.com/conda-forge/bindgen-cli-feedstock.git
 	path = feedstocks/bindgen-cli
 	branch = refs/heads/main
+[submodule "dau-sim"]
+	url = https://github.com/conda-forge/dau-sim-feedstock.git
+	path = feedstocks/dau-sim
+	branch = refs/heads/main
