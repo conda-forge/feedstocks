@@ -119038,3 +119038,7 @@
 	url = https://github.com/conda-forge/typeline-feedstock.git
 	path = feedstocks/typeline
 	branch = refs/heads/main
+[submodule "graphed"]
+	url = https://github.com/conda-forge/graphed-feedstock.git
+	path = feedstocks/graphed
+	branch = refs/heads/main
