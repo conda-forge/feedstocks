@@ -119094,3 +119094,7 @@
 	url = https://github.com/conda-forge/qavf-feedstock.git
 	path = feedstocks/qavf
 	branch = refs/heads/main
+[submodule "kedro-skills"]
+	url = https://github.com/conda-forge/kedro-skills-feedstock.git
+	path = feedstocks/kedro-skills
+	branch = refs/heads/main
