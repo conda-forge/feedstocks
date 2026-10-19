@@ -119062,3 +119062,7 @@
 	url = https://github.com/conda-forge/git-pkgs-feedstock.git
 	path = feedstocks/git-pkgs
 	branch = refs/heads/main
+[submodule "brainweb"]
+	url = https://github.com/conda-forge/brainweb-feedstock.git
+	path = feedstocks/brainweb
+	branch = refs/heads/main
