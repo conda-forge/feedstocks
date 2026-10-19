@@ -119070,3 +119070,7 @@
 	url = https://github.com/conda-forge/pycuampcor-feedstock.git
 	path = feedstocks/pycuampcor
 	branch = refs/heads/main
+[submodule "tlds"]
+	url = https://github.com/conda-forge/tlds-feedstock.git
+	path = feedstocks/tlds
+	branch = refs/heads/main
