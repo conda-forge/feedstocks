@@ -119058,3 +119058,7 @@
 	url = https://github.com/conda-forge/libspelling-feedstock.git
 	path = feedstocks/libspelling
 	branch = refs/heads/main
+[submodule "git-pkgs"]
+	url = https://github.com/conda-forge/git-pkgs-feedstock.git
+	path = feedstocks/git-pkgs
+	branch = refs/heads/main
