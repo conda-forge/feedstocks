@@ -119046,3 +119046,7 @@
 	url = https://github.com/conda-forge/pcodec-feedstock.git
 	path = feedstocks/pcodec
 	branch = refs/heads/main
+[submodule "dawn"]
+	url = https://github.com/conda-forge/dawn-feedstock.git
+	path = feedstocks/dawn
+	branch = refs/heads/main
