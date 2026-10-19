@@ -119118,3 +119118,7 @@
 	url = https://github.com/conda-forge/security-feedstock.git
 	path = feedstocks/security
 	branch = refs/heads/main
+[submodule "exasol-telemetry-client"]
+	url = https://github.com/conda-forge/exasol-telemetry-client-feedstock.git
+	path = feedstocks/exasol-telemetry-client
+	branch = refs/heads/main
