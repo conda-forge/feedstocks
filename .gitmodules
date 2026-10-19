@@ -119114,3 +119114,7 @@
 	url = https://github.com/conda-forge/graphed-executors-feedstock.git
 	path = feedstocks/graphed-executors
 	branch = refs/heads/main
+[submodule "security"]
+	url = https://github.com/conda-forge/security-feedstock.git
+	path = feedstocks/security
+	branch = refs/heads/main
