@@ -119054,3 +119054,7 @@
 	url = https://github.com/conda-forge/wesl-py-feedstock.git
 	path = feedstocks/wesl-py
 	branch = refs/heads/main
+[submodule "libspelling"]
+	url = https://github.com/conda-forge/libspelling-feedstock.git
+	path = feedstocks/libspelling
+	branch = refs/heads/main
