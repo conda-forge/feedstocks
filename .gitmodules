@@ -119082,3 +119082,7 @@
 	url = https://github.com/conda-forge/git-pkgs-proxy-feedstock.git
 	path = feedstocks/git-pkgs-proxy
 	branch = refs/heads/main
+[submodule "pyfixest"]
+	url = https://github.com/conda-forge/pyfixest-feedstock.git
+	path = feedstocks/pyfixest
+	branch = refs/heads/main
