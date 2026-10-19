@@ -119102,3 +119102,7 @@
 	url = https://github.com/conda-forge/rrdtool-bindings-feedstock.git
 	path = feedstocks/rrdtool-bindings
 	branch = refs/heads/main
+[submodule "urna"]
+	url = https://github.com/conda-forge/urna-feedstock.git
+	path = feedstocks/urna
+	branch = refs/heads/main
