@@ -119074,3 +119074,7 @@
 	url = https://github.com/conda-forge/tlds-feedstock.git
 	path = feedstocks/tlds
 	branch = refs/heads/main
+[submodule "libserialport"]
+	url = https://github.com/conda-forge/libserialport-feedstock.git
+	path = feedstocks/libserialport
+	branch = refs/heads/main
