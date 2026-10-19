@@ -119050,3 +119050,7 @@
 	url = https://github.com/conda-forge/dawn-feedstock.git
 	path = feedstocks/dawn
 	branch = refs/heads/main
+[submodule "wesl-py"]
+	url = https://github.com/conda-forge/wesl-py-feedstock.git
+	path = feedstocks/wesl-py
+	branch = refs/heads/main
