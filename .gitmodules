@@ -119086,3 +119086,7 @@
 	url = https://github.com/conda-forge/pyfixest-feedstock.git
 	path = feedstocks/pyfixest
 	branch = refs/heads/main
+[submodule "bazelisk"]
+	url = https://github.com/conda-forge/bazelisk-feedstock.git
+	path = feedstocks/bazelisk
+	branch = refs/heads/main
