@@ -119126,3 +119126,7 @@
 	url = https://github.com/conda-forge/libdivide-feedstock.git
 	path = feedstocks/libdivide
 	branch = refs/heads/main
+[submodule "catalystcoop.pudl_diff"]
+	url = https://github.com/conda-forge/catalystcoop.pudl_diff-feedstock.git
+	path = feedstocks/catalystcoop.pudl_diff
+	branch = refs/heads/main
