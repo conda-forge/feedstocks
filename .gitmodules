@@ -119106,3 +119106,7 @@
 	url = https://github.com/conda-forge/urna-feedstock.git
 	path = feedstocks/urna
 	branch = refs/heads/main
+[submodule "skore-skills"]
+	url = https://github.com/conda-forge/skore-skills-feedstock.git
+	path = feedstocks/skore-skills
+	branch = refs/heads/main
