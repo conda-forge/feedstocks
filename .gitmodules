@@ -119110,3 +119110,7 @@
 	url = https://github.com/conda-forge/skore-skills-feedstock.git
 	path = feedstocks/skore-skills
 	branch = refs/heads/main
+[submodule "graphed-executors"]
+	url = https://github.com/conda-forge/graphed-executors-feedstock.git
+	path = feedstocks/graphed-executors
+	branch = refs/heads/main
