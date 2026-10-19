@@ -119026,3 +119026,7 @@
 	url = https://github.com/conda-forge/dau-sim-feedstock.git
 	path = feedstocks/dau-sim
 	branch = refs/heads/main
+[submodule "speexdsp"]
+	url = https://github.com/conda-forge/speexdsp-feedstock.git
+	path = feedstocks/speexdsp
+	branch = refs/heads/main
