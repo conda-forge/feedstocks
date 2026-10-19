@@ -119078,3 +119078,7 @@
 	url = https://github.com/conda-forge/libserialport-feedstock.git
 	path = feedstocks/libserialport
 	branch = refs/heads/main
+[submodule "git-pkgs-proxy"]
+	url = https://github.com/conda-forge/git-pkgs-proxy-feedstock.git
+	path = feedstocks/git-pkgs-proxy
+	branch = refs/heads/main
