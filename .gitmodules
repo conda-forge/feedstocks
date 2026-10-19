@@ -119098,3 +119098,7 @@
 	url = https://github.com/conda-forge/kedro-skills-feedstock.git
 	path = feedstocks/kedro-skills
 	branch = refs/heads/main
+[submodule "rrdtool-bindings"]
+	url = https://github.com/conda-forge/rrdtool-bindings-feedstock.git
+	path = feedstocks/rrdtool-bindings
+	branch = refs/heads/main
