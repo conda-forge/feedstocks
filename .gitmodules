@@ -119130,3 +119130,7 @@
 	url = https://github.com/conda-forge/catalystcoop.pudl_diff-feedstock.git
 	path = feedstocks/catalystcoop.pudl_diff
 	branch = refs/heads/main
+[submodule "google-cloud-datacatalog-lineage"]
+	url = https://github.com/conda-forge/google-cloud-datacatalog-lineage-feedstock.git
+	path = feedstocks/google-cloud-datacatalog-lineage
+	branch = refs/heads/main
