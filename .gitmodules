@@ -119042,3 +119042,7 @@
 	url = https://github.com/conda-forge/graphed-feedstock.git
 	path = feedstocks/graphed
 	branch = refs/heads/main
+[submodule "pcodec"]
+	url = https://github.com/conda-forge/pcodec-feedstock.git
+	path = feedstocks/pcodec
+	branch = refs/heads/main
