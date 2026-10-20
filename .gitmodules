@@ -119146,3 +119146,7 @@
 	url = https://github.com/conda-forge/datalab-capsule-feedstock.git
 	path = feedstocks/datalab-capsule
 	branch = refs/heads/main
+[submodule "carejobs"]
+	url = https://github.com/conda-forge/carejobs-feedstock.git
+	path = feedstocks/carejobs
+	branch = refs/heads/main
