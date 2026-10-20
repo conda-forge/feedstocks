@@ -119158,3 +119158,7 @@
 	url = https://github.com/conda-forge/conformatlas-feedstock.git
 	path = feedstocks/conformatlas
 	branch = refs/heads/main
+[submodule "typst-zero"]
+	url = https://github.com/conda-forge/typst-zero-feedstock.git
+	path = feedstocks/typst-zero
+	branch = refs/heads/main
