@@ -119150,3 +119150,7 @@
 	url = https://github.com/conda-forge/carejobs-feedstock.git
 	path = feedstocks/carejobs
 	branch = refs/heads/main
+[submodule "relnote"]
+	url = https://github.com/conda-forge/relnote-feedstock.git
+	path = feedstocks/relnote
+	branch = refs/heads/main
