@@ -119182,3 +119182,7 @@
 	url = https://github.com/conda-forge/systemd-timers-pydantic-feedstock.git
 	path = feedstocks/systemd-timers-pydantic
 	branch = refs/heads/main
+[submodule "nomad-pydantic"]
+	url = https://github.com/conda-forge/nomad-pydantic-feedstock.git
+	path = feedstocks/nomad-pydantic
+	branch = refs/heads/main
