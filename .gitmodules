@@ -119198,3 +119198,7 @@
 	url = https://github.com/conda-forge/airflow-nomad-feedstock.git
 	path = feedstocks/airflow-nomad
 	branch = refs/heads/main
+[submodule "cron-pydantic"]
+	url = https://github.com/conda-forge/cron-pydantic-feedstock.git
+	path = feedstocks/cron-pydantic
+	branch = refs/heads/main
