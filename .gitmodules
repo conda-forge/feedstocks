@@ -119138,3 +119138,7 @@
 	url = https://github.com/conda-forge/geant4-python-application-feedstock.git
 	path = feedstocks/geant4-python-application
 	branch = refs/heads/main
+[submodule "capcheck"]
+	url = https://github.com/conda-forge/capcheck-feedstock.git
+	path = feedstocks/capcheck
+	branch = refs/heads/main
