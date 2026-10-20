@@ -119154,3 +119154,7 @@
 	url = https://github.com/conda-forge/relnote-feedstock.git
 	path = feedstocks/relnote
 	branch = refs/heads/main
+[submodule "conformatlas"]
+	url = https://github.com/conda-forge/conformatlas-feedstock.git
+	path = feedstocks/conformatlas
+	branch = refs/heads/main
