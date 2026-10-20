@@ -119142,3 +119142,7 @@
 	url = https://github.com/conda-forge/capcheck-feedstock.git
 	path = feedstocks/capcheck
 	branch = refs/heads/main
+[submodule "datalab-capsule"]
+	url = https://github.com/conda-forge/datalab-capsule-feedstock.git
+	path = feedstocks/datalab-capsule
+	branch = refs/heads/main
