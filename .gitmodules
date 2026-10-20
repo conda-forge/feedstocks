@@ -119170,3 +119170,7 @@
 	url = https://github.com/conda-forge/typst-tiptoe-feedstock.git
 	path = feedstocks/typst-tiptoe
 	branch = refs/heads/main
+[submodule "airflow-systemd"]
+	url = https://github.com/conda-forge/airflow-systemd-feedstock.git
+	path = feedstocks/airflow-systemd
+	branch = refs/heads/main
