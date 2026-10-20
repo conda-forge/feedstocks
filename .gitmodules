@@ -119178,3 +119178,7 @@
 	url = https://github.com/conda-forge/airflow-crontab-feedstock.git
 	path = feedstocks/airflow-crontab
 	branch = refs/heads/main
+[submodule "systemd-timers-pydantic"]
+	url = https://github.com/conda-forge/systemd-timers-pydantic-feedstock.git
+	path = feedstocks/systemd-timers-pydantic
+	branch = refs/heads/main
