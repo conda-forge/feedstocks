@@ -119186,3 +119186,7 @@
 	url = https://github.com/conda-forge/nomad-pydantic-feedstock.git
 	path = feedstocks/nomad-pydantic
 	branch = refs/heads/main
+[submodule "systemd-pydantic"]
+	url = https://github.com/conda-forge/systemd-pydantic-feedstock.git
+	path = feedstocks/systemd-pydantic
+	branch = refs/heads/main
