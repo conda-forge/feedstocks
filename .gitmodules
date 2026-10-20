@@ -119206,3 +119206,7 @@
 	url = https://github.com/conda-forge/cupdlpx-feedstock.git
 	path = feedstocks/cupdlpx
 	branch = refs/heads/main
+[submodule "netgen-lvs"]
+	url = https://github.com/conda-forge/netgen-lvs-feedstock.git
+	path = feedstocks/netgen-lvs
+	branch = refs/heads/main
