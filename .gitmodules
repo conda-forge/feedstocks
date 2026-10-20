@@ -119162,3 +119162,7 @@
 	url = https://github.com/conda-forge/typst-zero-feedstock.git
 	path = feedstocks/typst-zero
 	branch = refs/heads/main
+[submodule "typst-elembic"]
+	url = https://github.com/conda-forge/typst-elembic-feedstock.git
+	path = feedstocks/typst-elembic
+	branch = refs/heads/main
