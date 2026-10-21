@@ -119230,3 +119230,7 @@
 	url = https://github.com/conda-forge/typst-lilaq-feedstock.git
 	path = feedstocks/typst-lilaq
 	branch = refs/heads/main
+[submodule "git-pkgs-forge"]
+	url = https://github.com/conda-forge/git-pkgs-forge-feedstock.git
+	path = feedstocks/git-pkgs-forge
+	branch = refs/heads/main
