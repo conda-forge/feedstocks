@@ -119218,3 +119218,7 @@
 	url = https://github.com/conda-forge/pixi-oci-feedstock.git
 	path = feedstocks/pixi-oci
 	branch = refs/heads/main
+[submodule "gp-connect"]
+	url = https://github.com/conda-forge/gp-connect-feedstock.git
+	path = feedstocks/gp-connect
+	branch = refs/heads/main
