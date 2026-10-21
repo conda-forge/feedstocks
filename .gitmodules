@@ -119214,3 +119214,7 @@
 	url = https://github.com/conda-forge/nwesdap-feedstock.git
 	path = feedstocks/nwesdap
 	branch = refs/heads/main
+[submodule "pixi-oci"]
+	url = https://github.com/conda-forge/pixi-oci-feedstock.git
+	path = feedstocks/pixi-oci
+	branch = refs/heads/main
