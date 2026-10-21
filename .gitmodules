@@ -119234,3 +119234,7 @@
 	url = https://github.com/conda-forge/git-pkgs-forge-feedstock.git
 	path = feedstocks/git-pkgs-forge
 	branch = refs/heads/main
+[submodule "git-pkgs-brief"]
+	url = https://github.com/conda-forge/git-pkgs-brief-feedstock.git
+	path = feedstocks/git-pkgs-brief
+	branch = refs/heads/main
