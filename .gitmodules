@@ -119210,3 +119210,7 @@
 	url = https://github.com/conda-forge/netgen-lvs-feedstock.git
 	path = feedstocks/netgen-lvs
 	branch = refs/heads/main
+[submodule "nwesdap"]
+	url = https://github.com/conda-forge/nwesdap-feedstock.git
+	path = feedstocks/nwesdap
+	branch = refs/heads/main
