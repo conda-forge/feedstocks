@@ -119222,3 +119222,7 @@
 	url = https://github.com/conda-forge/gp-connect-feedstock.git
 	path = feedstocks/gp-connect
 	branch = refs/heads/main
+[submodule "ctadirac"]
+	url = https://github.com/conda-forge/ctadirac-feedstock.git
+	path = feedstocks/ctadirac
+	branch = refs/heads/main
