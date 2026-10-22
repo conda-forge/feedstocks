@@ -119282,3 +119282,7 @@
 	url = https://github.com/conda-forge/conda-sigstore-feedstock.git
 	path = feedstocks/conda-sigstore
 	branch = refs/heads/main
+[submodule "hipblas-common"]
+	url = https://github.com/conda-forge/hipblas-common-feedstock.git
+	path = feedstocks/hipblas-common
+	branch = refs/heads/main
