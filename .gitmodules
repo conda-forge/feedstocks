@@ -119266,3 +119266,7 @@
 	url = https://github.com/conda-forge/apache-airflow-client-feedstock.git
 	path = feedstocks/apache-airflow-client
 	branch = refs/heads/main
+[submodule "pypi-attestations"]
+	url = https://github.com/conda-forge/pypi-attestations-feedstock.git
+	path = feedstocks/pypi-attestations
+	branch = refs/heads/main
