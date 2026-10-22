@@ -119246,3 +119246,7 @@
 	url = https://github.com/conda-forge/kerneless-feedstock.git
 	path = feedstocks/kerneless
 	branch = refs/heads/main
+[submodule "lcm"]
+	url = https://github.com/conda-forge/lcm-feedstock.git
+	path = feedstocks/lcm
+	branch = refs/heads/main
