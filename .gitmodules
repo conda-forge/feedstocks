@@ -119262,3 +119262,7 @@
 	url = https://github.com/conda-forge/torchax-feedstock.git
 	path = feedstocks/torchax
 	branch = refs/heads/main
+[submodule "apache-airflow-client"]
+	url = https://github.com/conda-forge/apache-airflow-client-feedstock.git
+	path = feedstocks/apache-airflow-client
+	branch = refs/heads/main
