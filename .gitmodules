@@ -119258,3 +119258,7 @@
 	url = https://github.com/conda-forge/scrapy-impersonate-feedstock.git
 	path = feedstocks/scrapy-impersonate
 	branch = refs/heads/main
+[submodule "torchax"]
+	url = https://github.com/conda-forge/torchax-feedstock.git
+	path = feedstocks/torchax
+	branch = refs/heads/main
