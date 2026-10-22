@@ -119274,3 +119274,7 @@
 	url = https://github.com/conda-forge/in-toto-attestation-feedstock.git
 	path = feedstocks/in-toto-attestation
 	branch = refs/heads/main
+[submodule "in-toto"]
+	url = https://github.com/conda-forge/in-toto-feedstock.git
+	path = feedstocks/in-toto
+	branch = refs/heads/main
