@@ -119254,3 +119254,7 @@
 	url = https://github.com/conda-forge/zuurstof-feedstock.git
 	path = feedstocks/zuurstof
 	branch = refs/heads/main
+[submodule "scrapy-impersonate"]
+	url = https://github.com/conda-forge/scrapy-impersonate-feedstock.git
+	path = feedstocks/scrapy-impersonate
+	branch = refs/heads/main
