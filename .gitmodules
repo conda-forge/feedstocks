@@ -119238,3 +119238,7 @@
 	url = https://github.com/conda-forge/git-pkgs-brief-feedstock.git
 	path = feedstocks/git-pkgs-brief
 	branch = refs/heads/main
+[submodule "python-snap7"]
+	url = https://github.com/conda-forge/python-snap7-feedstock.git
+	path = feedstocks/python-snap7
+	branch = refs/heads/main
