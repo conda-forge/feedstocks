@@ -119278,3 +119278,7 @@
 	url = https://github.com/conda-forge/in-toto-feedstock.git
 	path = feedstocks/in-toto
 	branch = refs/heads/main
+[submodule "conda-sigstore"]
+	url = https://github.com/conda-forge/conda-sigstore-feedstock.git
+	path = feedstocks/conda-sigstore
+	branch = refs/heads/main
