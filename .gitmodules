@@ -119242,3 +119242,7 @@
 	url = https://github.com/conda-forge/python-snap7-feedstock.git
 	path = feedstocks/python-snap7
 	branch = refs/heads/main
+[submodule "kerneless"]
+	url = https://github.com/conda-forge/kerneless-feedstock.git
+	path = feedstocks/kerneless
+	branch = refs/heads/main
