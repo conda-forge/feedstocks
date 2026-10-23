@@ -119318,3 +119318,7 @@
 	url = https://github.com/conda-forge/elementy-feedstock.git
 	path = feedstocks/elementy
 	branch = refs/heads/main
+[submodule "star_emg"]
+	url = https://github.com/conda-forge/star_emg-feedstock.git
+	path = feedstocks/star_emg
+	branch = refs/heads/main
