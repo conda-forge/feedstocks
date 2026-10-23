@@ -119322,3 +119322,7 @@
 	url = https://github.com/conda-forge/star_emg-feedstock.git
 	path = feedstocks/star_emg
 	branch = refs/heads/main
+[submodule "xbuild"]
+	url = https://github.com/conda-forge/xbuild-feedstock.git
+	path = feedstocks/xbuild
+	branch = refs/heads/main
