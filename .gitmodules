@@ -119286,3 +119286,7 @@
 	url = https://github.com/conda-forge/hipblas-common-feedstock.git
 	path = feedstocks/hipblas-common
 	branch = refs/heads/main
+[submodule "typst2vast"]
+	url = https://github.com/conda-forge/typst2vast-feedstock.git
+	path = feedstocks/typst2vast
+	branch = refs/heads/main
