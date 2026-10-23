@@ -119306,3 +119306,7 @@
 	url = https://github.com/conda-forge/xconv2-feedstock.git
 	path = feedstocks/xconv2
 	branch = refs/heads/main
+[submodule "libmodbus"]
+	url = https://github.com/conda-forge/libmodbus-feedstock.git
+	path = feedstocks/libmodbus
+	branch = refs/heads/main
