@@ -119314,3 +119314,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-lite-feedstock.git
 	path = feedstocks/jupyter-ai-lite
 	branch = refs/heads/main
+[submodule "elementy"]
+	url = https://github.com/conda-forge/elementy-feedstock.git
+	path = feedstocks/elementy
+	branch = refs/heads/main
