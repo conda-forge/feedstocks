@@ -119298,3 +119298,7 @@
 	url = https://github.com/conda-forge/pymanopt-feedstock.git
 	path = feedstocks/pymanopt
 	branch = refs/heads/main
+[submodule "geoopt"]
+	url = https://github.com/conda-forge/geoopt-feedstock.git
+	path = feedstocks/geoopt
+	branch = refs/heads/main
