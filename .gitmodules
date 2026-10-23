@@ -119302,3 +119302,7 @@
 	url = https://github.com/conda-forge/geoopt-feedstock.git
 	path = feedstocks/geoopt
 	branch = refs/heads/main
+[submodule "xconv2"]
+	url = https://github.com/conda-forge/xconv2-feedstock.git
+	path = feedstocks/xconv2
+	branch = refs/heads/main
