@@ -119310,3 +119310,7 @@
 	url = https://github.com/conda-forge/libmodbus-feedstock.git
 	path = feedstocks/libmodbus
 	branch = refs/heads/main
+[submodule "jupyter-ai-lite"]
+	url = https://github.com/conda-forge/jupyter-ai-lite-feedstock.git
+	path = feedstocks/jupyter-ai-lite
+	branch = refs/heads/main
