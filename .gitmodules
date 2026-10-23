@@ -119294,3 +119294,7 @@
 	url = https://github.com/conda-forge/jupyter-mcp-manager-feedstock.git
 	path = feedstocks/jupyter-mcp-manager
 	branch = refs/heads/main
+[submodule "pymanopt"]
+	url = https://github.com/conda-forge/pymanopt-feedstock.git
+	path = feedstocks/pymanopt
+	branch = refs/heads/main
