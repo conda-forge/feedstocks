@@ -119290,3 +119290,7 @@
 	url = https://github.com/conda-forge/typst2vast-feedstock.git
 	path = feedstocks/typst2vast
 	branch = refs/heads/main
+[submodule "jupyter-mcp-manager"]
+	url = https://github.com/conda-forge/jupyter-mcp-manager-feedstock.git
+	path = feedstocks/jupyter-mcp-manager
+	branch = refs/heads/main
