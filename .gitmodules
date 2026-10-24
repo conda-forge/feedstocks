@@ -119326,3 +119326,7 @@
 	url = https://github.com/conda-forge/xbuild-feedstock.git
 	path = feedstocks/xbuild
 	branch = refs/heads/main
+[submodule "amdsmi-split"]
+	url = https://github.com/conda-forge/amdsmi-split-feedstock.git
+	path = feedstocks/amdsmi-split
+	branch = refs/heads/main
