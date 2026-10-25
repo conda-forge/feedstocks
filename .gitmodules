@@ -119342,3 +119342,7 @@
 	url = https://github.com/conda-forge/speckit-feedstock.git
 	path = feedstocks/speckit
 	branch = refs/heads/main
+[submodule "intel-driver-compiler-npu"]
+	url = https://github.com/conda-forge/intel-driver-compiler-npu-feedstock.git
+	path = feedstocks/intel-driver-compiler-npu
+	branch = refs/heads/main
