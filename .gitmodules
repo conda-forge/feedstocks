@@ -119334,3 +119334,7 @@
 	url = https://github.com/conda-forge/wgpudawn-feedstock.git
 	path = feedstocks/wgpudawn
 	branch = refs/heads/main
+[submodule "klayout"]
+	url = https://github.com/conda-forge/klayout-feedstock.git
+	path = feedstocks/klayout
+	branch = refs/heads/main
