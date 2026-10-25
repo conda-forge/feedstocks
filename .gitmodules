@@ -119338,3 +119338,7 @@
 	url = https://github.com/conda-forge/klayout-feedstock.git
 	path = feedstocks/klayout
 	branch = refs/heads/main
+[submodule "speckit"]
+	url = https://github.com/conda-forge/speckit-feedstock.git
+	path = feedstocks/speckit
+	branch = refs/heads/main
