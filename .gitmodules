@@ -119346,3 +119346,7 @@
 	url = https://github.com/conda-forge/intel-driver-compiler-npu-feedstock.git
 	path = feedstocks/intel-driver-compiler-npu
 	branch = refs/heads/main
+[submodule "spey-hs3"]
+	url = https://github.com/conda-forge/spey-hs3-feedstock.git
+	path = feedstocks/spey-hs3
+	branch = refs/heads/main
