@@ -119426,3 +119426,7 @@
 	url = https://github.com/conda-forge/google-cloud-access-context-manager-feedstock.git
 	path = feedstocks/google-cloud-access-context-manager
 	branch = refs/heads/main
+[submodule "google-cloud-asset"]
+	url = https://github.com/conda-forge/google-cloud-asset-feedstock.git
+	path = feedstocks/google-cloud-asset
+	branch = refs/heads/main
