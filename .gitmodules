@@ -119382,3 +119382,7 @@
 	url = https://github.com/conda-forge/opensysml-feedstock.git
 	path = feedstocks/opensysml
 	branch = refs/heads/main
+[submodule "dataclass-extensions"]
+	url = https://github.com/conda-forge/dataclass-extensions-feedstock.git
+	path = feedstocks/dataclass-extensions
+	branch = refs/heads/main
