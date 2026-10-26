@@ -119390,3 +119390,7 @@
 	url = https://github.com/conda-forge/lin-feedstock.git
 	path = feedstocks/lin
 	branch = refs/heads/main
+[submodule "yara-python"]
+	url = https://github.com/conda-forge/yara-python-feedstock.git
+	path = feedstocks/yara-python
+	branch = refs/heads/main
