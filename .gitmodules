@@ -119398,3 +119398,7 @@
 	url = https://github.com/conda-forge/skillspector-feedstock.git
 	path = feedstocks/skillspector
 	branch = refs/heads/main
+[submodule "pm4py"]
+	url = https://github.com/conda-forge/pm4py-feedstock.git
+	path = feedstocks/pm4py
+	branch = refs/heads/main
