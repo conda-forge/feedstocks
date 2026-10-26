@@ -119422,3 +119422,7 @@
 	url = https://github.com/conda-forge/cptec-monan-feedstock.git
 	path = feedstocks/cptec-monan
 	branch = refs/heads/main
+[submodule "google-cloud-access-context-manager"]
+	url = https://github.com/conda-forge/google-cloud-access-context-manager-feedstock.git
+	path = feedstocks/google-cloud-access-context-manager
+	branch = refs/heads/main
