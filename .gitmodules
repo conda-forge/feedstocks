@@ -119354,3 +119354,7 @@
 	url = https://github.com/conda-forge/installed_browsers-feedstock.git
 	path = feedstocks/installed_browsers
 	branch = refs/heads/main
+[submodule "pysad"]
+	url = https://github.com/conda-forge/pysad-feedstock.git
+	path = feedstocks/pysad
+	branch = refs/heads/main
