@@ -119366,3 +119366,7 @@
 	url = https://github.com/conda-forge/slam-astro-feedstock.git
 	path = feedstocks/slam-astro
 	branch = refs/heads/main
+[submodule "connio"]
+	url = https://github.com/conda-forge/connio-feedstock.git
+	path = feedstocks/connio
+	branch = refs/heads/main
