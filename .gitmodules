@@ -119350,3 +119350,7 @@
 	url = https://github.com/conda-forge/spey-hs3-feedstock.git
 	path = feedstocks/spey-hs3
 	branch = refs/heads/main
+[submodule "installed_browsers"]
+	url = https://github.com/conda-forge/installed_browsers-feedstock.git
+	path = feedstocks/installed_browsers
+	branch = refs/heads/main
