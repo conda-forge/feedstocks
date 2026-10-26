@@ -119418,3 +119418,7 @@
 	url = https://github.com/conda-forge/pywavefront-feedstock.git
 	path = feedstocks/pywavefront
 	branch = refs/heads/main
+[submodule "cptec-monan"]
+	url = https://github.com/conda-forge/cptec-monan-feedstock.git
+	path = feedstocks/cptec-monan
+	branch = refs/heads/main
