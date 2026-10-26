@@ -119410,3 +119410,7 @@
 	url = https://github.com/conda-forge/canopy_factory-feedstock.git
 	path = feedstocks/canopy_factory
 	branch = refs/heads/main
+[submodule "hothouse"]
+	url = https://github.com/conda-forge/hothouse-feedstock.git
+	path = feedstocks/hothouse
+	branch = refs/heads/main
