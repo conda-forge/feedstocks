@@ -119386,3 +119386,7 @@
 	url = https://github.com/conda-forge/dataclass-extensions-feedstock.git
 	path = feedstocks/dataclass-extensions
 	branch = refs/heads/main
+[submodule "lin"]
+	url = https://github.com/conda-forge/lin-feedstock.git
+	path = feedstocks/lin
+	branch = refs/heads/main
