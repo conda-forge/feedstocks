@@ -119434,3 +119434,7 @@
 	url = https://github.com/conda-forge/jaxkd-feedstock.git
 	path = feedstocks/jaxkd
 	branch = refs/heads/main
+[submodule "slac-rogue"]
+	url = https://github.com/conda-forge/slac-rogue-feedstock.git
+	path = feedstocks/slac-rogue
+	branch = refs/heads/main
