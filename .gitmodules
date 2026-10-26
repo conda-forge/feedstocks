@@ -119430,3 +119430,7 @@
 	url = https://github.com/conda-forge/google-cloud-asset-feedstock.git
 	path = feedstocks/google-cloud-asset
 	branch = refs/heads/main
+[submodule "jaxkd"]
+	url = https://github.com/conda-forge/jaxkd-feedstock.git
+	path = feedstocks/jaxkd
+	branch = refs/heads/main
