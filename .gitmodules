@@ -119374,3 +119374,7 @@
 	url = https://github.com/conda-forge/pydeephaven-feedstock.git
 	path = feedstocks/pydeephaven
 	branch = refs/heads/main
+[submodule "flask-weasyprint"]
+	url = https://github.com/conda-forge/flask-weasyprint-feedstock.git
+	path = feedstocks/flask-weasyprint
+	branch = refs/heads/main
