@@ -119414,3 +119414,7 @@
 	url = https://github.com/conda-forge/hothouse-feedstock.git
 	path = feedstocks/hothouse
 	branch = refs/heads/main
+[submodule "pywavefront"]
+	url = https://github.com/conda-forge/pywavefront-feedstock.git
+	path = feedstocks/pywavefront
+	branch = refs/heads/main
