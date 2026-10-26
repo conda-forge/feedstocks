@@ -119394,3 +119394,7 @@
 	url = https://github.com/conda-forge/yara-python-feedstock.git
 	path = feedstocks/yara-python
 	branch = refs/heads/main
+[submodule "skillspector"]
+	url = https://github.com/conda-forge/skillspector-feedstock.git
+	path = feedstocks/skillspector
+	branch = refs/heads/main
