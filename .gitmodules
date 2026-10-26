@@ -119378,3 +119378,7 @@
 	url = https://github.com/conda-forge/flask-weasyprint-feedstock.git
 	path = feedstocks/flask-weasyprint
 	branch = refs/heads/main
+[submodule "opensysml"]
+	url = https://github.com/conda-forge/opensysml-feedstock.git
+	path = feedstocks/opensysml
+	branch = refs/heads/main
