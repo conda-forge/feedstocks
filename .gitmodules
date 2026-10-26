@@ -119362,3 +119362,7 @@
 	url = https://github.com/conda-forge/peekle-feedstock.git
 	path = feedstocks/peekle
 	branch = refs/heads/main
+[submodule "slam-astro"]
+	url = https://github.com/conda-forge/slam-astro-feedstock.git
+	path = feedstocks/slam-astro
+	branch = refs/heads/main
