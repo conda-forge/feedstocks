@@ -119370,3 +119370,7 @@
 	url = https://github.com/conda-forge/connio-feedstock.git
 	path = feedstocks/connio
 	branch = refs/heads/main
+[submodule "pydeephaven"]
+	url = https://github.com/conda-forge/pydeephaven-feedstock.git
+	path = feedstocks/pydeephaven
+	branch = refs/heads/main
