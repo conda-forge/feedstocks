@@ -119402,3 +119402,7 @@
 	url = https://github.com/conda-forge/pm4py-feedstock.git
 	path = feedstocks/pm4py
 	branch = refs/heads/main
+[submodule "embreex"]
+	url = https://github.com/conda-forge/embreex-feedstock.git
+	path = feedstocks/embreex
+	branch = refs/heads/main
