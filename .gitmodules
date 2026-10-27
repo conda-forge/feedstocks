@@ -119442,3 +119442,7 @@
 	url = https://github.com/conda-forge/praeco-feedstock.git
 	path = feedstocks/praeco
 	branch = refs/heads/main
+[submodule "gh-actions-lock"]
+	url = https://github.com/conda-forge/gh-actions-lock-feedstock.git
+	path = feedstocks/gh-actions-lock
+	branch = refs/heads/main
