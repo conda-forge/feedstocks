@@ -119438,3 +119438,7 @@
 	url = https://github.com/conda-forge/slac-rogue-feedstock.git
 	path = feedstocks/slac-rogue
 	branch = refs/heads/main
+[submodule "praeco"]
+	url = https://github.com/conda-forge/praeco-feedstock.git
+	path = feedstocks/praeco
+	branch = refs/heads/main
