@@ -119446,3 +119446,7 @@
 	url = https://github.com/conda-forge/gh-actions-lock-feedstock.git
 	path = feedstocks/gh-actions-lock
 	branch = refs/heads/main
+[submodule "gh-aw"]
+	url = https://github.com/conda-forge/gh-aw-feedstock.git
+	path = feedstocks/gh-aw
+	branch = refs/heads/main
