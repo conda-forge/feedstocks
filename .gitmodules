@@ -119450,3 +119450,7 @@
 	url = https://github.com/conda-forge/gh-aw-feedstock.git
 	path = feedstocks/gh-aw
 	branch = refs/heads/main
+[submodule "mcp-inspector"]
+	url = https://github.com/conda-forge/mcp-inspector-feedstock.git
+	path = feedstocks/mcp-inspector
+	branch = refs/heads/main
