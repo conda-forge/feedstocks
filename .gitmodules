@@ -119466,3 +119466,7 @@
 	url = https://github.com/conda-forge/ajlab-feedstock.git
 	path = feedstocks/ajlab
 	branch = refs/heads/main
+[submodule "jupyterlab-pierre-light"]
+	url = https://github.com/conda-forge/jupyterlab-pierre-light-feedstock.git
+	path = feedstocks/jupyterlab-pierre-light
+	branch = refs/heads/main
