@@ -119490,3 +119490,7 @@
 	url = https://github.com/conda-forge/jupyterlab-pierre-dark-feedstock.git
 	path = feedstocks/jupyterlab-pierre-dark
 	branch = refs/heads/main
+[submodule "dau-core"]
+	url = https://github.com/conda-forge/dau-core-feedstock.git
+	path = feedstocks/dau-core
+	branch = refs/heads/main
