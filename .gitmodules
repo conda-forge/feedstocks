@@ -119482,3 +119482,7 @@
 	url = https://github.com/conda-forge/dau-driver-feedstock.git
 	path = feedstocks/dau-driver
 	branch = refs/heads/main
+[submodule "dau-scheduler"]
+	url = https://github.com/conda-forge/dau-scheduler-feedstock.git
+	path = feedstocks/dau-scheduler
+	branch = refs/heads/main
