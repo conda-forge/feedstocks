@@ -119498,3 +119498,7 @@
 	url = https://github.com/conda-forge/xtralab-feedstock.git
 	path = feedstocks/xtralab
 	branch = refs/heads/main
+[submodule "git-pkgs-licenses"]
+	url = https://github.com/conda-forge/git-pkgs-licenses-feedstock.git
+	path = feedstocks/git-pkgs-licenses
+	branch = refs/heads/main
