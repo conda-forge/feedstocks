@@ -119486,3 +119486,7 @@
 	url = https://github.com/conda-forge/dau-scheduler-feedstock.git
 	path = feedstocks/dau-scheduler
 	branch = refs/heads/main
+[submodule "jupyterlab-pierre-dark"]
+	url = https://github.com/conda-forge/jupyterlab-pierre-dark-feedstock.git
+	path = feedstocks/jupyterlab-pierre-dark
+	branch = refs/heads/main
