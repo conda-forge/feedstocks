@@ -119474,3 +119474,7 @@
 	url = https://github.com/conda-forge/jupyterlab-cursor-dark-feedstock.git
 	path = feedstocks/jupyterlab-cursor-dark
 	branch = refs/heads/main
+[submodule "jupyterlab-cursor-light"]
+	url = https://github.com/conda-forge/jupyterlab-cursor-light-feedstock.git
+	path = feedstocks/jupyterlab-cursor-light
+	branch = refs/heads/main
