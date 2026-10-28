@@ -119514,3 +119514,7 @@
 	url = https://github.com/conda-forge/pyfcm-feedstock.git
 	path = feedstocks/pyfcm
 	branch = refs/heads/main
+[submodule "pest_hp"]
+	url = https://github.com/conda-forge/pest_hp-feedstock.git
+	path = feedstocks/pest_hp
+	branch = refs/heads/main
