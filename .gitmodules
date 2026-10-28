@@ -119478,3 +119478,7 @@
 	url = https://github.com/conda-forge/jupyterlab-cursor-light-feedstock.git
 	path = feedstocks/jupyterlab-cursor-light
 	branch = refs/heads/main
+[submodule "dau-driver"]
+	url = https://github.com/conda-forge/dau-driver-feedstock.git
+	path = feedstocks/dau-driver
+	branch = refs/heads/main
