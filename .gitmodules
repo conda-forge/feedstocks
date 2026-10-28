@@ -119518,3 +119518,7 @@
 	url = https://github.com/conda-forge/pest_hp-feedstock.git
 	path = feedstocks/pest_hp
 	branch = refs/heads/main
+[submodule "minijinja-cli"]
+	url = https://github.com/conda-forge/minijinja-cli-feedstock.git
+	path = feedstocks/minijinja-cli
+	branch = refs/heads/main
