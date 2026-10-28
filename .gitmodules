@@ -119510,3 +119510,7 @@
 	url = https://github.com/conda-forge/ormar-utils-feedstock.git
 	path = feedstocks/ormar-utils
 	branch = refs/heads/main
+[submodule "pyfcm"]
+	url = https://github.com/conda-forge/pyfcm-feedstock.git
+	path = feedstocks/pyfcm
+	branch = refs/heads/main
