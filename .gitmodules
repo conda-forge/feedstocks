@@ -119494,3 +119494,7 @@
 	url = https://github.com/conda-forge/dau-core-feedstock.git
 	path = feedstocks/dau-core
 	branch = refs/heads/main
+[submodule "xtralab"]
+	url = https://github.com/conda-forge/xtralab-feedstock.git
+	path = feedstocks/xtralab
+	branch = refs/heads/main
