@@ -119502,3 +119502,7 @@
 	url = https://github.com/conda-forge/git-pkgs-licenses-feedstock.git
 	path = feedstocks/git-pkgs-licenses
 	branch = refs/heads/main
+[submodule "hv-anndata"]
+	url = https://github.com/conda-forge/hv-anndata-feedstock.git
+	path = feedstocks/hv-anndata
+	branch = refs/heads/main
