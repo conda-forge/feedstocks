@@ -119462,3 +119462,7 @@
 	url = https://github.com/conda-forge/terrio-feedstock.git
 	path = feedstocks/terrio
 	branch = refs/heads/main
+[submodule "ajlab"]
+	url = https://github.com/conda-forge/ajlab-feedstock.git
+	path = feedstocks/ajlab
+	branch = refs/heads/main
