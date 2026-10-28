@@ -119506,3 +119506,7 @@
 	url = https://github.com/conda-forge/hv-anndata-feedstock.git
 	path = feedstocks/hv-anndata
 	branch = refs/heads/main
+[submodule "ormar-utils"]
+	url = https://github.com/conda-forge/ormar-utils-feedstock.git
+	path = feedstocks/ormar-utils
+	branch = refs/heads/main
