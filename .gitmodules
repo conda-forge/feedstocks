@@ -119590,3 +119590,7 @@
 	url = https://github.com/conda-forge/arrayff-feedstock.git
 	path = feedstocks/arrayff
 	branch = refs/heads/main
+[submodule "tsgettoolbox-coops"]
+	url = https://github.com/conda-forge/tsgettoolbox-coops-feedstock.git
+	path = feedstocks/tsgettoolbox-coops
+	branch = refs/heads/main
