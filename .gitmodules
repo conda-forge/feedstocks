@@ -119530,3 +119530,7 @@
 	url = https://github.com/conda-forge/pest-feedstock.git
 	path = feedstocks/pest
 	branch = refs/heads/main
+[submodule "typst-gather"]
+	url = https://github.com/conda-forge/typst-gather-feedstock.git
+	path = feedstocks/typst-gather
+	branch = refs/heads/main
