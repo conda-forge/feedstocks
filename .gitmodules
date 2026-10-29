@@ -119534,3 +119534,7 @@
 	url = https://github.com/conda-forge/typst-gather-feedstock.git
 	path = feedstocks/typst-gather
 	branch = refs/heads/main
+[submodule "tsgettoolbox-daymet"]
+	url = https://github.com/conda-forge/tsgettoolbox-daymet-feedstock.git
+	path = feedstocks/tsgettoolbox-daymet
+	branch = refs/heads/main
