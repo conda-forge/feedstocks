@@ -119538,3 +119538,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-daymet-feedstock.git
 	path = feedstocks/tsgettoolbox-daymet
 	branch = refs/heads/main
+[submodule "tsgettoolbox-rivergages"]
+	url = https://github.com/conda-forge/tsgettoolbox-rivergages-feedstock.git
+	path = feedstocks/tsgettoolbox-rivergages
+	branch = refs/heads/main
