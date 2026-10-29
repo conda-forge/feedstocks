@@ -119606,3 +119606,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-fawn-feedstock.git
 	path = feedstocks/tsgettoolbox-fawn
 	branch = refs/heads/main
+[submodule "tsgettoolbox-ndbc"]
+	url = https://github.com/conda-forge/tsgettoolbox-ndbc-feedstock.git
+	path = feedstocks/tsgettoolbox-ndbc
+	branch = refs/heads/main
