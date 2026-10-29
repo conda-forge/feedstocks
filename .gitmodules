@@ -119574,3 +119574,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-cdec-feedstock.git
 	path = feedstocks/tsgettoolbox-cdec
 	branch = refs/heads/main
+[submodule "tsgettoolbox-nldas3"]
+	url = https://github.com/conda-forge/tsgettoolbox-nldas3-feedstock.git
+	path = feedstocks/tsgettoolbox-nldas3
+	branch = refs/heads/main
