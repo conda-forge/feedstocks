@@ -119598,3 +119598,7 @@
 	url = https://github.com/conda-forge/jupyter-ai-pi-lite-feedstock.git
 	path = feedstocks/jupyter-ai-pi-lite
 	branch = refs/heads/main
+[submodule "perseo_perturbations"]
+	url = https://github.com/conda-forge/perseo_perturbations-feedstock.git
+	path = feedstocks/perseo_perturbations
+	branch = refs/heads/main
