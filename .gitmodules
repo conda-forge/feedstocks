@@ -119566,3 +119566,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-metdata-feedstock.git
 	path = feedstocks/tsgettoolbox-metdata
 	branch = refs/heads/main
+[submodule "tsgettoolbox-ncei"]
+	url = https://github.com/conda-forge/tsgettoolbox-ncei-feedstock.git
+	path = feedstocks/tsgettoolbox-ncei
+	branch = refs/heads/main
