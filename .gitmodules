@@ -119586,3 +119586,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-ldas-feedstock.git
 	path = feedstocks/tsgettoolbox-ldas
 	branch = refs/heads/main
+[submodule "arrayff"]
+	url = https://github.com/conda-forge/arrayff-feedstock.git
+	path = feedstocks/arrayff
+	branch = refs/heads/main
