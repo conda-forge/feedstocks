@@ -119594,3 +119594,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-coops-feedstock.git
 	path = feedstocks/tsgettoolbox-coops
 	branch = refs/heads/main
+[submodule "jupyter-ai-pi-lite"]
+	url = https://github.com/conda-forge/jupyter-ai-pi-lite-feedstock.git
+	path = feedstocks/jupyter-ai-pi-lite
+	branch = refs/heads/main
