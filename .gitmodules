@@ -119558,3 +119558,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-modis-feedstock.git
 	path = feedstocks/tsgettoolbox-modis
 	branch = refs/heads/main
+[submodule "tsgettoolbox-unavco"]
+	url = https://github.com/conda-forge/tsgettoolbox-unavco-feedstock.git
+	path = feedstocks/tsgettoolbox-unavco
+	branch = refs/heads/main
