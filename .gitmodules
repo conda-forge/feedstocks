@@ -119582,3 +119582,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-hydstra-feedstock.git
 	path = feedstocks/tsgettoolbox-hydstra
 	branch = refs/heads/main
+[submodule "tsgettoolbox-ldas"]
+	url = https://github.com/conda-forge/tsgettoolbox-ldas-feedstock.git
+	path = feedstocks/tsgettoolbox-ldas
+	branch = refs/heads/main
