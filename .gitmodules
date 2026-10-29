@@ -119610,3 +119610,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-ndbc-feedstock.git
 	path = feedstocks/tsgettoolbox-ndbc
 	branch = refs/heads/main
+[submodule "mvpure-py"]
+	url = https://github.com/conda-forge/mvpure-py-feedstock.git
+	path = feedstocks/mvpure-py
+	branch = refs/heads/main
