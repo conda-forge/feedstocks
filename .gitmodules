@@ -119562,3 +119562,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-unavco-feedstock.git
 	path = feedstocks/tsgettoolbox-unavco
 	branch = refs/heads/main
+[submodule "tsgettoolbox-metdata"]
+	url = https://github.com/conda-forge/tsgettoolbox-metdata-feedstock.git
+	path = feedstocks/tsgettoolbox-metdata
+	branch = refs/heads/main
