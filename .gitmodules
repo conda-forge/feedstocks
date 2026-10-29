@@ -119542,3 +119542,7 @@
 	url = https://github.com/conda-forge/tsgettoolbox-rivergages-feedstock.git
 	path = feedstocks/tsgettoolbox-rivergages
 	branch = refs/heads/main
+[submodule "polytorch"]
+	url = https://github.com/conda-forge/polytorch-feedstock.git
+	path = feedstocks/polytorch
+	branch = refs/heads/main
