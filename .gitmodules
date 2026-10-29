@@ -119522,3 +119522,7 @@
 	url = https://github.com/conda-forge/minijinja-cli-feedstock.git
 	path = feedstocks/minijinja-cli
 	branch = refs/heads/main
+[submodule "wgsl-analyzer"]
+	url = https://github.com/conda-forge/wgsl-analyzer-feedstock.git
+	path = feedstocks/wgsl-analyzer
+	branch = refs/heads/main
