@@ -119526,3 +119526,7 @@
 	url = https://github.com/conda-forge/wgsl-analyzer-feedstock.git
 	path = feedstocks/wgsl-analyzer
 	branch = refs/heads/main
+[submodule "pest"]
+	url = https://github.com/conda-forge/pest-feedstock.git
+	path = feedstocks/pest
+	branch = refs/heads/main
