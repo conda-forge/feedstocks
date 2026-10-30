@@ -119626,3 +119626,7 @@
 	url = https://github.com/conda-forge/onnxruntime-ep-openvino-feedstock.git
 	path = feedstocks/onnxruntime-ep-openvino
 	branch = refs/heads/main
+[submodule "rivoli"]
+	url = https://github.com/conda-forge/rivoli-feedstock.git
+	path = feedstocks/rivoli
+	branch = refs/heads/main
