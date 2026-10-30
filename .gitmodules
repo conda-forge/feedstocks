@@ -119614,3 +119614,7 @@
 	url = https://github.com/conda-forge/mvpure-py-feedstock.git
 	path = feedstocks/mvpure-py
 	branch = refs/heads/main
+[submodule "rxnetgen"]
+	url = https://github.com/conda-forge/rxnetgen-feedstock.git
+	path = feedstocks/rxnetgen
+	branch = refs/heads/main
