@@ -119622,3 +119622,7 @@
 	url = https://github.com/conda-forge/flits-feedstock.git
 	path = feedstocks/flits
 	branch = refs/heads/main
+[submodule "onnxruntime-ep-openvino"]
+	url = https://github.com/conda-forge/onnxruntime-ep-openvino-feedstock.git
+	path = feedstocks/onnxruntime-ep-openvino
+	branch = refs/heads/main
