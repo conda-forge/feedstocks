@@ -119630,3 +119630,7 @@
 	url = https://github.com/conda-forge/rivoli-feedstock.git
 	path = feedstocks/rivoli
 	branch = refs/heads/main
+[submodule "ophyd-service"]
+	url = https://github.com/conda-forge/ophyd-service-feedstock.git
+	path = feedstocks/ophyd-service
+	branch = refs/heads/main
