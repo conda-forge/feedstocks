@@ -119618,3 +119618,7 @@
 	url = https://github.com/conda-forge/rxnetgen-feedstock.git
 	path = feedstocks/rxnetgen
 	branch = refs/heads/main
+[submodule "flits"]
+	url = https://github.com/conda-forge/flits-feedstock.git
+	path = feedstocks/flits
+	branch = refs/heads/main
