@@ -119638,3 +119638,7 @@
 	url = https://github.com/conda-forge/veridist-feedstock.git
 	path = feedstocks/veridist
 	branch = refs/heads/main
+[submodule "libghostty-py"]
+	url = https://github.com/conda-forge/libghostty-py-feedstock.git
+	path = feedstocks/libghostty-py
+	branch = refs/heads/main
