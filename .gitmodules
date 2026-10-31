@@ -119646,3 +119646,7 @@
 	url = https://github.com/conda-forge/twobitreader-rs-feedstock.git
 	path = feedstocks/twobitreader-rs
 	branch = refs/heads/main
+[submodule "mujoco-robotics-uri"]
+	url = https://github.com/conda-forge/mujoco-robotics-uri-feedstock.git
+	path = feedstocks/mujoco-robotics-uri
+	branch = refs/heads/main
