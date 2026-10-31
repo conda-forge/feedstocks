@@ -119634,3 +119634,7 @@
 	url = https://github.com/conda-forge/ophyd-service-feedstock.git
 	path = feedstocks/ophyd-service
 	branch = refs/heads/main
+[submodule "veridist"]
+	url = https://github.com/conda-forge/veridist-feedstock.git
+	path = feedstocks/veridist
+	branch = refs/heads/main
