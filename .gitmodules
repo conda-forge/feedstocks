@@ -119642,3 +119642,7 @@
 	url = https://github.com/conda-forge/libghostty-py-feedstock.git
 	path = feedstocks/libghostty-py
 	branch = refs/heads/main
+[submodule "twobitreader-rs"]
+	url = https://github.com/conda-forge/twobitreader-rs-feedstock.git
+	path = feedstocks/twobitreader-rs
+	branch = refs/heads/main
