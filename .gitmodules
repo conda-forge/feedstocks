@@ -119650,3 +119650,7 @@
 	url = https://github.com/conda-forge/mujoco-robotics-uri-feedstock.git
 	path = feedstocks/mujoco-robotics-uri
 	branch = refs/heads/main
+[submodule "gospl-landlab-bridge"]
+	url = https://github.com/conda-forge/gospl-landlab-bridge-feedstock.git
+	path = feedstocks/gospl-landlab-bridge
+	branch = refs/heads/main
