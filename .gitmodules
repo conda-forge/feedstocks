@@ -119658,3 +119658,7 @@
 	url = https://github.com/conda-forge/herdr-core-feedstock.git
 	path = feedstocks/herdr-core
 	branch = refs/heads/main
+[submodule "mlx-whisper"]
+	url = https://github.com/conda-forge/mlx-whisper-feedstock.git
+	path = feedstocks/mlx-whisper
+	branch = refs/heads/main
