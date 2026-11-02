@@ -119662,3 +119662,7 @@
 	url = https://github.com/conda-forge/mlx-whisper-feedstock.git
 	path = feedstocks/mlx-whisper
 	branch = refs/heads/main
+[submodule "trurl"]
+	url = https://github.com/conda-forge/trurl-feedstock.git
+	path = feedstocks/trurl
+	branch = refs/heads/main
