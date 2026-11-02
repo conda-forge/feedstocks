@@ -119654,3 +119654,7 @@
 	url = https://github.com/conda-forge/gospl-landlab-bridge-feedstock.git
 	path = feedstocks/gospl-landlab-bridge
 	branch = refs/heads/main
+[submodule "herdr-core"]
+	url = https://github.com/conda-forge/herdr-core-feedstock.git
+	path = feedstocks/herdr-core
+	branch = refs/heads/main
