@@ -119710,3 +119710,7 @@
 	url = https://github.com/conda-forge/repomix-feedstock.git
 	path = feedstocks/repomix
 	branch = refs/heads/main
+[submodule "oss-harmony"]
+	url = https://github.com/conda-forge/oss-harmony-feedstock.git
+	path = feedstocks/oss-harmony
+	branch = refs/heads/main
