@@ -119702,3 +119702,7 @@
 	url = https://github.com/conda-forge/quack-kernels-feedstock.git
 	path = feedstocks/quack-kernels
 	branch = refs/heads/main
+[submodule "stormtrack"]
+	url = https://github.com/conda-forge/stormtrack-feedstock.git
+	path = feedstocks/stormtrack
+	branch = refs/heads/main
