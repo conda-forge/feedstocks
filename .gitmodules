@@ -119682,3 +119682,7 @@
 	url = https://github.com/conda-forge/vcglib-feedstock.git
 	path = feedstocks/vcglib
 	branch = refs/heads/main
+[submodule "jupyter-sidekick"]
+	url = https://github.com/conda-forge/jupyter-sidekick-feedstock.git
+	path = feedstocks/jupyter-sidekick
+	branch = refs/heads/main
