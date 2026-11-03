@@ -119706,3 +119706,7 @@
 	url = https://github.com/conda-forge/stormtrack-feedstock.git
 	path = feedstocks/stormtrack
 	branch = refs/heads/main
+[submodule "repomix"]
+	url = https://github.com/conda-forge/repomix-feedstock.git
+	path = feedstocks/repomix
+	branch = refs/heads/main
