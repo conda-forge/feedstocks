@@ -119678,3 +119678,7 @@
 	url = https://github.com/conda-forge/openmvs-split-feedstock.git
 	path = feedstocks/openmvs-split
 	branch = refs/heads/main
+[submodule "vcglib"]
+	url = https://github.com/conda-forge/vcglib-feedstock.git
+	path = feedstocks/vcglib
+	branch = refs/heads/main
