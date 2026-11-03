@@ -119674,3 +119674,7 @@
 	url = https://github.com/conda-forge/portable-file-dialogs-feedstock.git
 	path = feedstocks/portable-file-dialogs
 	branch = refs/heads/main
+[submodule "openmvs-split"]
+	url = https://github.com/conda-forge/openmvs-split-feedstock.git
+	path = feedstocks/openmvs-split
+	branch = refs/heads/main
