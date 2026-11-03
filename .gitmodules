@@ -119714,3 +119714,7 @@
 	url = https://github.com/conda-forge/oss-harmony-feedstock.git
 	path = feedstocks/oss-harmony
 	branch = refs/heads/main
+[submodule "betterproto2"]
+	url = https://github.com/conda-forge/betterproto2-feedstock.git
+	path = feedstocks/betterproto2
+	branch = refs/heads/main
