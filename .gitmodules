@@ -119690,3 +119690,7 @@
 	url = https://github.com/conda-forge/rtklib-ex-feedstock.git
 	path = feedstocks/rtklib-ex
 	branch = refs/heads/main
+[submodule "cryocon"]
+	url = https://github.com/conda-forge/cryocon-feedstock.git
+	path = feedstocks/cryocon
+	branch = refs/heads/main
