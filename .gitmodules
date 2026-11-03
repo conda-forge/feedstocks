@@ -119670,3 +119670,7 @@
 	url = https://github.com/conda-forge/libwignernj-feedstock.git
 	path = feedstocks/libwignernj
 	branch = refs/heads/main
+[submodule "portable-file-dialogs"]
+	url = https://github.com/conda-forge/portable-file-dialogs-feedstock.git
+	path = feedstocks/portable-file-dialogs
+	branch = refs/heads/main
