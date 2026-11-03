@@ -119698,3 +119698,7 @@
 	url = https://github.com/conda-forge/pyrockimagelab-feedstock.git
 	path = feedstocks/pyrockimagelab
 	branch = refs/heads/main
+[submodule "quack-kernels"]
+	url = https://github.com/conda-forge/quack-kernels-feedstock.git
+	path = feedstocks/quack-kernels
+	branch = refs/heads/main
