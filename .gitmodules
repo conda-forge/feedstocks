@@ -119686,3 +119686,7 @@
 	url = https://github.com/conda-forge/jupyter-sidekick-feedstock.git
 	path = feedstocks/jupyter-sidekick
 	branch = refs/heads/main
+[submodule "rtklib-ex"]
+	url = https://github.com/conda-forge/rtklib-ex-feedstock.git
+	path = feedstocks/rtklib-ex
+	branch = refs/heads/main
