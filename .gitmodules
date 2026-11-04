@@ -119722,3 +119722,7 @@
 	url = https://github.com/conda-forge/af-jupyterhub-mcp-feedstock.git
 	path = feedstocks/af-jupyterhub-mcp
 	branch = refs/heads/main
+[submodule "piscis"]
+	url = https://github.com/conda-forge/piscis-feedstock.git
+	path = feedstocks/piscis
+	branch = refs/heads/main
