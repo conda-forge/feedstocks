@@ -119718,3 +119718,7 @@
 	url = https://github.com/conda-forge/betterproto2-feedstock.git
 	path = feedstocks/betterproto2
 	branch = refs/heads/main
+[submodule "af-jupyterhub-mcp"]
+	url = https://github.com/conda-forge/af-jupyterhub-mcp-feedstock.git
+	path = feedstocks/af-jupyterhub-mcp
+	branch = refs/heads/main
