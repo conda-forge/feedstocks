@@ -119734,3 +119734,7 @@
 	url = https://github.com/conda-forge/scikit-clarans-feedstock.git
 	path = feedstocks/scikit-clarans
 	branch = refs/heads/main
+[submodule "kubernetes-mcp-server"]
+	url = https://github.com/conda-forge/kubernetes-mcp-server-feedstock.git
+	path = feedstocks/kubernetes-mcp-server
+	branch = refs/heads/main
