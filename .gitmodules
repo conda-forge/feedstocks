@@ -119726,3 +119726,7 @@
 	url = https://github.com/conda-forge/piscis-feedstock.git
 	path = feedstocks/piscis
 	branch = refs/heads/main
+[submodule "deeptile"]
+	url = https://github.com/conda-forge/deeptile-feedstock.git
+	path = feedstocks/deeptile
+	branch = refs/heads/main
