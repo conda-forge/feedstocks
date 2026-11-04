@@ -119738,3 +119738,7 @@
 	url = https://github.com/conda-forge/kubernetes-mcp-server-feedstock.git
 	path = feedstocks/kubernetes-mcp-server
 	branch = refs/heads/main
+[submodule "chromedriver-py"]
+	url = https://github.com/conda-forge/chromedriver-py-feedstock.git
+	path = feedstocks/chromedriver-py
+	branch = refs/heads/main
