@@ -119742,3 +119742,7 @@
 	url = https://github.com/conda-forge/chromedriver-py-feedstock.git
 	path = feedstocks/chromedriver-py
 	branch = refs/heads/main
+[submodule "checkmodel"]
+	url = https://github.com/conda-forge/checkmodel-feedstock.git
+	path = feedstocks/checkmodel
+	branch = refs/heads/main
