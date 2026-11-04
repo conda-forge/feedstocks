@@ -119730,3 +119730,7 @@
 	url = https://github.com/conda-forge/deeptile-feedstock.git
 	path = feedstocks/deeptile
 	branch = refs/heads/main
+[submodule "scikit-clarans"]
+	url = https://github.com/conda-forge/scikit-clarans-feedstock.git
+	path = feedstocks/scikit-clarans
+	branch = refs/heads/main
