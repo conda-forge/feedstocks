@@ -119766,3 +119766,7 @@
 	url = https://github.com/conda-forge/mcp-proxy-for-aws-feedstock.git
 	path = feedstocks/mcp-proxy-for-aws
 	branch = refs/heads/main
+[submodule "r-hypervolume"]
+	url = https://github.com/conda-forge/r-hypervolume-feedstock.git
+	path = feedstocks/r-hypervolume
+	branch = refs/heads/main
