@@ -119798,3 +119798,7 @@
 	url = https://github.com/conda-forge/opentelemetry-configuration-feedstock.git
 	path = feedstocks/opentelemetry-configuration
 	branch = refs/heads/main
+[submodule "polars-nanook"]
+	url = https://github.com/conda-forge/polars-nanook-feedstock.git
+	path = feedstocks/polars-nanook
+	branch = refs/heads/main
