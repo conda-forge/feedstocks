@@ -119762,3 +119762,7 @@
 	url = https://github.com/conda-forge/einshape-feedstock.git
 	path = feedstocks/einshape
 	branch = refs/heads/main
+[submodule "mcp-proxy-for-aws"]
+	url = https://github.com/conda-forge/mcp-proxy-for-aws-feedstock.git
+	path = feedstocks/mcp-proxy-for-aws
+	branch = refs/heads/main
