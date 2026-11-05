@@ -119802,3 +119802,7 @@
 	url = https://github.com/conda-forge/polars-nanook-feedstock.git
 	path = feedstocks/polars-nanook
 	branch = refs/heads/main
+[submodule "polars-cloud-ray"]
+	url = https://github.com/conda-forge/polars-cloud-ray-feedstock.git
+	path = feedstocks/polars-cloud-ray
+	branch = refs/heads/main
