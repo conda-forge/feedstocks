@@ -119790,3 +119790,7 @@
 	url = https://github.com/conda-forge/a2ui-agent-sdk-feedstock.git
 	path = feedstocks/a2ui-agent-sdk
 	branch = refs/heads/main
+[submodule "grads"]
+	url = https://github.com/conda-forge/grads-feedstock.git
+	path = feedstocks/grads
+	branch = refs/heads/main
