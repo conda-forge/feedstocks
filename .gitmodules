@@ -119770,3 +119770,7 @@
 	url = https://github.com/conda-forge/r-hypervolume-feedstock.git
 	path = feedstocks/r-hypervolume
 	branch = refs/heads/main
+[submodule "herdr-app"]
+	url = https://github.com/conda-forge/herdr-app-feedstock.git
+	path = feedstocks/herdr-app
+	branch = refs/heads/main
