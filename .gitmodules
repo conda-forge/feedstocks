@@ -119750,3 +119750,7 @@
 	url = https://github.com/conda-forge/materialx-feedstock.git
 	path = feedstocks/materialx
 	branch = refs/heads/main
+[submodule "pybinny"]
+	url = https://github.com/conda-forge/pybinny-feedstock.git
+	path = feedstocks/pybinny
+	branch = refs/heads/main
