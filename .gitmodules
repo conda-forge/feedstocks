@@ -119774,3 +119774,7 @@
 	url = https://github.com/conda-forge/herdr-app-feedstock.git
 	path = feedstocks/herdr-app
 	branch = refs/heads/main
+[submodule "snappy-manifolds"]
+	url = https://github.com/conda-forge/snappy-manifolds-feedstock.git
+	path = feedstocks/snappy-manifolds
+	branch = refs/heads/main
