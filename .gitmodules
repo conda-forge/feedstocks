@@ -119794,3 +119794,7 @@
 	url = https://github.com/conda-forge/grads-feedstock.git
 	path = feedstocks/grads
 	branch = refs/heads/main
+[submodule "opentelemetry-configuration"]
+	url = https://github.com/conda-forge/opentelemetry-configuration-feedstock.git
+	path = feedstocks/opentelemetry-configuration
+	branch = refs/heads/main
