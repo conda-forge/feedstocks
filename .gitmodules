@@ -119754,3 +119754,7 @@
 	url = https://github.com/conda-forge/pybinny-feedstock.git
 	path = feedstocks/pybinny
 	branch = refs/heads/main
+[submodule "water-ogcapi"]
+	url = https://github.com/conda-forge/water-ogcapi-feedstock.git
+	path = feedstocks/water-ogcapi
+	branch = refs/heads/main
