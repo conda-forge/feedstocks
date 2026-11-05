@@ -119810,3 +119810,7 @@
 	url = https://github.com/conda-forge/ipymovehub-feedstock.git
 	path = feedstocks/ipymovehub
 	branch = refs/heads/main
+[submodule "jupyter-bluetooth-manager"]
+	url = https://github.com/conda-forge/jupyter-bluetooth-manager-feedstock.git
+	path = feedstocks/jupyter-bluetooth-manager
+	branch = refs/heads/main
