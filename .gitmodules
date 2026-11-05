@@ -119758,3 +119758,7 @@
 	url = https://github.com/conda-forge/water-ogcapi-feedstock.git
 	path = feedstocks/water-ogcapi
 	branch = refs/heads/main
+[submodule "einshape"]
+	url = https://github.com/conda-forge/einshape-feedstock.git
+	path = feedstocks/einshape
+	branch = refs/heads/main
