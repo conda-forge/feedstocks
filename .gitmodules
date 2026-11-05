@@ -119806,3 +119806,7 @@
 	url = https://github.com/conda-forge/polars-cloud-ray-feedstock.git
 	path = feedstocks/polars-cloud-ray
 	branch = refs/heads/main
+[submodule "ipymovehub"]
+	url = https://github.com/conda-forge/ipymovehub-feedstock.git
+	path = feedstocks/ipymovehub
+	branch = refs/heads/main
