@@ -119786,3 +119786,7 @@
 	url = https://github.com/conda-forge/ag_ui_adk-feedstock.git
 	path = feedstocks/ag_ui_adk
 	branch = refs/heads/main
+[submodule "a2ui-agent-sdk"]
+	url = https://github.com/conda-forge/a2ui-agent-sdk-feedstock.git
+	path = feedstocks/a2ui-agent-sdk
+	branch = refs/heads/main
