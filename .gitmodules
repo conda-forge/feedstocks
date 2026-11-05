@@ -119782,3 +119782,7 @@
 	url = https://github.com/conda-forge/a2ui-core-feedstock.git
 	path = feedstocks/a2ui-core
 	branch = refs/heads/main
+[submodule "ag_ui_adk"]
+	url = https://github.com/conda-forge/ag_ui_adk-feedstock.git
+	path = feedstocks/ag_ui_adk
+	branch = refs/heads/main
