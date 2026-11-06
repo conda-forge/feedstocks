@@ -119938,3 +119938,7 @@
 	url = https://github.com/conda-forge/pmd-pytcp-feedstock.git
 	path = feedstocks/pmd-pytcp
 	branch = refs/heads/main
+[submodule "typer-injector"]
+	url = https://github.com/conda-forge/typer-injector-feedstock.git
+	path = feedstocks/typer-injector
+	branch = refs/heads/main
