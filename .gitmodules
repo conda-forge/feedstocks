@@ -119926,3 +119926,7 @@
 	url = https://github.com/conda-forge/daemonize-feedstock.git
 	path = feedstocks/daemonize
 	branch = refs/heads/main
+[submodule "remotezip2"]
+	url = https://github.com/conda-forge/remotezip2-feedstock.git
+	path = feedstocks/remotezip2
+	branch = refs/heads/main
