@@ -119870,3 +119870,7 @@
 	url = https://github.com/conda-forge/nvidia-cutlass-operators-feedstock.git
 	path = feedstocks/nvidia-cutlass-operators
 	branch = refs/heads/main
+[submodule "pmd-net-proto"]
+	url = https://github.com/conda-forge/pmd-net-proto-feedstock.git
+	path = feedstocks/pmd-net-proto
+	branch = refs/heads/main
