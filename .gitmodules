@@ -119906,3 +119906,7 @@
 	url = https://github.com/conda-forge/ansilogs-feedstock.git
 	path = feedstocks/ansilogs
 	branch = refs/heads/main
+[submodule "apple-compress"]
+	url = https://github.com/conda-forge/apple-compress-feedstock.git
+	path = feedstocks/apple-compress
+	branch = refs/heads/main
