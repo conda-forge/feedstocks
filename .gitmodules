@@ -119910,3 +119910,7 @@
 	url = https://github.com/conda-forge/apple-compress-feedstock.git
 	path = feedstocks/apple-compress
 	branch = refs/heads/main
+[submodule "higgstools"]
+	url = https://github.com/conda-forge/higgstools-feedstock.git
+	path = feedstocks/higgstools
+	branch = refs/heads/main
