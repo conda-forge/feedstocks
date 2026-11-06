@@ -119914,3 +119914,7 @@
 	url = https://github.com/conda-forge/higgstools-feedstock.git
 	path = feedstocks/higgstools
 	branch = refs/heads/main
+[submodule "developer-disk-image"]
+	url = https://github.com/conda-forge/developer-disk-image-feedstock.git
+	path = feedstocks/developer-disk-image
+	branch = refs/heads/main
