@@ -119842,3 +119842,7 @@
 	url = https://github.com/conda-forge/nep-feedstock.git
 	path = feedstocks/nep
 	branch = refs/heads/main
+[submodule "zope.datetime"]
+	url = https://github.com/conda-forge/zope.datetime-feedstock.git
+	path = feedstocks/zope.datetime
+	branch = refs/heads/main
