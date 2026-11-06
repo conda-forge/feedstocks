@@ -119934,3 +119934,7 @@
 	url = https://github.com/conda-forge/pyiosbackup-feedstock.git
 	path = feedstocks/pyiosbackup
 	branch = refs/heads/main
+[submodule "pmd-pytcp"]
+	url = https://github.com/conda-forge/pmd-pytcp-feedstock.git
+	path = feedstocks/pmd-pytcp
+	branch = refs/heads/main
