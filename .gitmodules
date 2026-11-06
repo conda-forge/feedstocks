@@ -119850,3 +119850,7 @@
 	url = https://github.com/conda-forge/authencoding-feedstock.git
 	path = feedstocks/authencoding
 	branch = refs/heads/main
+[submodule "zope.sequencesort"]
+	url = https://github.com/conda-forge/zope.sequencesort-feedstock.git
+	path = feedstocks/zope.sequencesort
+	branch = refs/heads/main
