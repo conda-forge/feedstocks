@@ -119942,3 +119942,7 @@
 	url = https://github.com/conda-forge/typer-injector-feedstock.git
 	path = feedstocks/typer-injector
 	branch = refs/heads/main
+[submodule "pykdebugparser"]
+	url = https://github.com/conda-forge/pykdebugparser-feedstock.git
+	path = feedstocks/pykdebugparser
+	branch = refs/heads/main
