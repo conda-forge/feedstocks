@@ -119838,3 +119838,7 @@
 	url = https://github.com/conda-forge/nrl-lib-feedstock.git
 	path = feedstocks/nrl-lib
 	branch = refs/heads/main
+[submodule "nep"]
+	url = https://github.com/conda-forge/nep-feedstock.git
+	path = feedstocks/nep
+	branch = refs/heads/main
