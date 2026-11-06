@@ -119898,3 +119898,7 @@
 	url = https://github.com/conda-forge/opack2-feedstock.git
 	path = feedstocks/opack2
 	branch = refs/heads/main
+[submodule "ioregistry"]
+	url = https://github.com/conda-forge/ioregistry-feedstock.git
+	path = feedstocks/ioregistry
+	branch = refs/heads/main
