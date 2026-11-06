@@ -119918,3 +119918,7 @@
 	url = https://github.com/conda-forge/developer-disk-image-feedstock.git
 	path = feedstocks/developer-disk-image
 	branch = refs/heads/main
+[submodule "bytestruct"]
+	url = https://github.com/conda-forge/bytestruct-feedstock.git
+	path = feedstocks/bytestruct
+	branch = refs/heads/main
