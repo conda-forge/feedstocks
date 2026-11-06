@@ -119882,3 +119882,7 @@
 	url = https://github.com/conda-forge/pycrashreport-feedstock.git
 	path = feedstocks/pycrashreport
 	branch = refs/heads/main
+[submodule "python-pcapng"]
+	url = https://github.com/conda-forge/python-pcapng-feedstock.git
+	path = feedstocks/python-pcapng
+	branch = refs/heads/main
