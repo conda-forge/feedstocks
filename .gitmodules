@@ -119846,3 +119846,7 @@
 	url = https://github.com/conda-forge/zope.datetime-feedstock.git
 	path = feedstocks/zope.datetime
 	branch = refs/heads/main
+[submodule "authencoding"]
+	url = https://github.com/conda-forge/authencoding-feedstock.git
+	path = feedstocks/authencoding
+	branch = refs/heads/main
