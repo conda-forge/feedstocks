@@ -119922,3 +119922,7 @@
 	url = https://github.com/conda-forge/bytestruct-feedstock.git
 	path = feedstocks/bytestruct
 	branch = refs/heads/main
+[submodule "daemonize"]
+	url = https://github.com/conda-forge/daemonize-feedstock.git
+	path = feedstocks/daemonize
+	branch = refs/heads/main
