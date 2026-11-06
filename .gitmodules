@@ -119830,3 +119830,7 @@
 	url = https://github.com/conda-forge/algodif-feedstock.git
 	path = feedstocks/algodif
 	branch = refs/heads/main
+[submodule "flowgraph"]
+	url = https://github.com/conda-forge/flowgraph-feedstock.git
+	path = feedstocks/flowgraph
+	branch = refs/heads/main
