@@ -119886,3 +119886,7 @@
 	url = https://github.com/conda-forge/python-pcapng-feedstock.git
 	path = feedstocks/python-pcapng
 	branch = refs/heads/main
+[submodule "pmd-net-addr"]
+	url = https://github.com/conda-forge/pmd-net-addr-feedstock.git
+	path = feedstocks/pmd-net-addr
+	branch = refs/heads/main
