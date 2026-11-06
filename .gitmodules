@@ -119890,3 +119890,7 @@
 	url = https://github.com/conda-forge/pmd-net-addr-feedstock.git
 	path = feedstocks/pmd-net-addr
 	branch = refs/heads/main
+[submodule "pygnuutils"]
+	url = https://github.com/conda-forge/pygnuutils-feedstock.git
+	path = feedstocks/pygnuutils
+	branch = refs/heads/main
