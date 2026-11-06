@@ -119834,3 +119834,7 @@
 	url = https://github.com/conda-forge/flowgraph-feedstock.git
 	path = feedstocks/flowgraph
 	branch = refs/heads/main
+[submodule "nrl-lib"]
+	url = https://github.com/conda-forge/nrl-lib-feedstock.git
+	path = feedstocks/nrl-lib
+	branch = refs/heads/main
