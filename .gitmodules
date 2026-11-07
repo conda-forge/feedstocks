@@ -119958,3 +119958,7 @@
 	url = https://github.com/conda-forge/escape-fel-feedstock.git
 	path = feedstocks/escape-fel
 	branch = refs/heads/main
+[submodule "py-cpuinfo2"]
+	url = https://github.com/conda-forge/py-cpuinfo2-feedstock.git
+	path = feedstocks/py-cpuinfo2
+	branch = refs/heads/main
