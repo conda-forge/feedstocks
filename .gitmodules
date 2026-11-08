@@ -119974,3 +119974,7 @@
 	url = https://github.com/conda-forge/pyscard-feedstock.git
 	path = feedstocks/pyscard
 	branch = refs/heads/main
+[submodule "yubikey-manager"]
+	url = https://github.com/conda-forge/yubikey-manager-feedstock.git
+	path = feedstocks/yubikey-manager
+	branch = refs/heads/main
