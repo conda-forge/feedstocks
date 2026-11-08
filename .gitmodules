@@ -119970,3 +119970,7 @@
 	url = https://github.com/conda-forge/python-pskc-feedstock.git
 	path = feedstocks/python-pskc
 	branch = refs/heads/main
+[submodule "pyscard"]
+	url = https://github.com/conda-forge/pyscard-feedstock.git
+	path = feedstocks/pyscard
+	branch = refs/heads/main
