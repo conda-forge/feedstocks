@@ -120010,3 +120010,7 @@
 	url = https://github.com/conda-forge/zope.browser-feedstock.git
 	path = feedstocks/zope.browser
 	branch = refs/heads/main
+[submodule "zope.lifecycleevent"]
+	url = https://github.com/conda-forge/zope.lifecycleevent-feedstock.git
+	path = feedstocks/zope.lifecycleevent
+	branch = refs/heads/main
