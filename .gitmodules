@@ -120018,3 +120018,7 @@
 	url = https://github.com/conda-forge/r-vapour-feedstock.git
 	path = feedstocks/r-vapour
 	branch = refs/heads/main
+[submodule "rprank"]
+	url = https://github.com/conda-forge/rprank-feedstock.git
+	path = feedstocks/rprank
+	branch = refs/heads/main
