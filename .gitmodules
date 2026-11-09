@@ -119990,3 +119990,7 @@
 	url = https://github.com/conda-forge/zope.tales-feedstock.git
 	path = feedstocks/zope.tales
 	branch = refs/heads/main
+[submodule "zope.schema"]
+	url = https://github.com/conda-forge/zope.schema-feedstock.git
+	path = feedstocks/zope.schema
+	branch = refs/heads/main
