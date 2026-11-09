@@ -119982,3 +119982,7 @@
 	url = https://github.com/conda-forge/fformat-feedstock.git
 	path = feedstocks/fformat
 	branch = refs/heads/main
+[submodule "fsspec-kafka"]
+	url = https://github.com/conda-forge/fsspec-kafka-feedstock.git
+	path = feedstocks/fsspec-kafka
+	branch = refs/heads/main
