@@ -120014,3 +120014,7 @@
 	url = https://github.com/conda-forge/zope.lifecycleevent-feedstock.git
 	path = feedstocks/zope.lifecycleevent
 	branch = refs/heads/main
+[submodule "r-vapour"]
+	url = https://github.com/conda-forge/r-vapour-feedstock.git
+	path = feedstocks/r-vapour
+	branch = refs/heads/main
