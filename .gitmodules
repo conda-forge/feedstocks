@@ -119978,3 +119978,7 @@
 	url = https://github.com/conda-forge/yubikey-manager-feedstock.git
 	path = feedstocks/yubikey-manager
 	branch = refs/heads/main
+[submodule "fformat"]
+	url = https://github.com/conda-forge/fformat-feedstock.git
+	path = feedstocks/fformat
+	branch = refs/heads/main
