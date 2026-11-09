@@ -120006,3 +120006,7 @@
 	url = https://github.com/conda-forge/zope.exceptions-feedstock.git
 	path = feedstocks/zope.exceptions
 	branch = refs/heads/main
+[submodule "zope.browser"]
+	url = https://github.com/conda-forge/zope.browser-feedstock.git
+	path = feedstocks/zope.browser
+	branch = refs/heads/main
