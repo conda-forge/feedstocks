@@ -119986,3 +119986,7 @@
 	url = https://github.com/conda-forge/fsspec-kafka-feedstock.git
 	path = feedstocks/fsspec-kafka
 	branch = refs/heads/main
+[submodule "zope.tales"]
+	url = https://github.com/conda-forge/zope.tales-feedstock.git
+	path = feedstocks/zope.tales
+	branch = refs/heads/main
