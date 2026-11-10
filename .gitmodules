@@ -120030,3 +120030,7 @@
 	url = https://github.com/conda-forge/gotcha-feedstock.git
 	path = feedstocks/gotcha
 	branch = refs/heads/main
+[submodule "copernicusmarine-delivery"]
+	url = https://github.com/conda-forge/copernicusmarine-delivery-feedstock.git
+	path = feedstocks/copernicusmarine-delivery
+	branch = refs/heads/main
