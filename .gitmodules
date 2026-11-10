@@ -120046,3 +120046,7 @@
 	url = https://github.com/conda-forge/asyncmy-feedstock.git
 	path = feedstocks/asyncmy
 	branch = refs/heads/main
+[submodule "aiqclib"]
+	url = https://github.com/conda-forge/aiqclib-feedstock.git
+	path = feedstocks/aiqclib
+	branch = refs/heads/main
