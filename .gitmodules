@@ -120038,3 +120038,7 @@
 	url = https://github.com/conda-forge/formerly-feedstock.git
 	path = feedstocks/formerly
 	branch = refs/heads/main
+[submodule "polyphys"]
+	url = https://github.com/conda-forge/polyphys-feedstock.git
+	path = feedstocks/polyphys
+	branch = refs/heads/main
