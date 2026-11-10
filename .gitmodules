@@ -120042,3 +120042,7 @@
 	url = https://github.com/conda-forge/polyphys-feedstock.git
 	path = feedstocks/polyphys
 	branch = refs/heads/main
+[submodule "asyncmy"]
+	url = https://github.com/conda-forge/asyncmy-feedstock.git
+	path = feedstocks/asyncmy
+	branch = refs/heads/main
