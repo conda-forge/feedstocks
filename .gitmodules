@@ -120058,3 +120058,7 @@
 	url = https://github.com/conda-forge/frostwork-feedstock.git
 	path = feedstocks/frostwork
 	branch = refs/heads/main
+[submodule "cloudini"]
+	url = https://github.com/conda-forge/cloudini-feedstock.git
+	path = feedstocks/cloudini
+	branch = refs/heads/main
