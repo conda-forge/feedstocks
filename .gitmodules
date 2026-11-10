@@ -120062,3 +120062,7 @@
 	url = https://github.com/conda-forge/cloudini-feedstock.git
 	path = feedstocks/cloudini
 	branch = refs/heads/main
+[submodule "cwevals"]
+	url = https://github.com/conda-forge/cwevals-feedstock.git
+	path = feedstocks/cwevals
+	branch = refs/heads/main
