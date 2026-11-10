@@ -120026,3 +120026,7 @@
 	url = https://github.com/conda-forge/tabiew-feedstock.git
 	path = feedstocks/tabiew
 	branch = refs/heads/main
+[submodule "gotcha"]
+	url = https://github.com/conda-forge/gotcha-feedstock.git
+	path = feedstocks/gotcha
+	branch = refs/heads/main
