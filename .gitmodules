@@ -120070,3 +120070,7 @@
 	url = https://github.com/conda-forge/knot-floer-homology-feedstock.git
 	path = feedstocks/knot-floer-homology
 	branch = refs/heads/main
+[submodule "argoflat"]
+	url = https://github.com/conda-forge/argoflat-feedstock.git
+	path = feedstocks/argoflat
+	branch = refs/heads/main
