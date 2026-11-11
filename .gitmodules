@@ -120066,3 +120066,7 @@
 	url = https://github.com/conda-forge/cwevals-feedstock.git
 	path = feedstocks/cwevals
 	branch = refs/heads/main
+[submodule "knot-floer-homology"]
+	url = https://github.com/conda-forge/knot-floer-homology-feedstock.git
+	path = feedstocks/knot-floer-homology
+	branch = refs/heads/main
