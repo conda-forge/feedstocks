@@ -120086,3 +120086,7 @@
 	url = https://github.com/conda-forge/zope.testbrowser-feedstock.git
 	path = feedstocks/zope.testbrowser
 	branch = refs/heads/main
+[submodule "zope.configuration"]
+	url = https://github.com/conda-forge/zope.configuration-feedstock.git
+	path = feedstocks/zope.configuration
+	branch = refs/heads/main
