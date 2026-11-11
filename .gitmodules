@@ -120090,3 +120090,7 @@
 	url = https://github.com/conda-forge/zope.configuration-feedstock.git
 	path = feedstocks/zope.configuration
 	branch = refs/heads/main
+[submodule "zope.size"]
+	url = https://github.com/conda-forge/zope.size-feedstock.git
+	path = feedstocks/zope.size
+	branch = refs/heads/main
