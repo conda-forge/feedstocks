@@ -120094,3 +120094,7 @@
 	url = https://github.com/conda-forge/zope.size-feedstock.git
 	path = feedstocks/zope.size
 	branch = refs/heads/main
+[submodule "zope.filerepresentation"]
+	url = https://github.com/conda-forge/zope.filerepresentation-feedstock.git
+	path = feedstocks/zope.filerepresentation
+	branch = refs/heads/main
