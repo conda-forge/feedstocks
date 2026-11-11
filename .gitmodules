@@ -120074,3 +120074,7 @@
 	url = https://github.com/conda-forge/argoflat-feedstock.git
 	path = feedstocks/argoflat
 	branch = refs/heads/main
+[submodule "zope.tal"]
+	url = https://github.com/conda-forge/zope.tal-feedstock.git
+	path = feedstocks/zope.tal
+	branch = refs/heads/main
