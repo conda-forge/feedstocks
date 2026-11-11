@@ -120082,3 +120082,7 @@
 	url = https://github.com/conda-forge/zope.location-feedstock.git
 	path = feedstocks/zope.location
 	branch = refs/heads/main
+[submodule "zope.testbrowser"]
+	url = https://github.com/conda-forge/zope.testbrowser-feedstock.git
+	path = feedstocks/zope.testbrowser
+	branch = refs/heads/main
