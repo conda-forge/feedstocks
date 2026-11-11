@@ -120102,3 +120102,7 @@
 	url = https://github.com/conda-forge/univii-feedstock.git
 	path = feedstocks/univii
 	branch = refs/heads/main
+[submodule "py4dgeo"]
+	url = https://github.com/conda-forge/py4dgeo-feedstock.git
+	path = feedstocks/py4dgeo
+	branch = refs/heads/main
