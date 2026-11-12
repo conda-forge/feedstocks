@@ -120114,3 +120114,7 @@
 	url = https://github.com/conda-forge/ccache-storage-redis-feedstock.git
 	path = feedstocks/ccache-storage-redis
 	branch = refs/heads/main
+[submodule "r-ximage"]
+	url = https://github.com/conda-forge/r-ximage-feedstock.git
+	path = feedstocks/r-ximage
+	branch = refs/heads/main
