@@ -120122,3 +120122,7 @@
 	url = https://github.com/conda-forge/subsurfix-feedstock.git
 	path = feedstocks/subsurfix
 	branch = refs/heads/main
+[submodule "pygeomapper"]
+	url = https://github.com/conda-forge/pygeomapper-feedstock.git
+	path = feedstocks/pygeomapper
+	branch = refs/heads/main
