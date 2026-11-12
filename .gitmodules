@@ -120142,3 +120142,7 @@
 	url = https://github.com/conda-forge/r-fiastemmap-feedstock.git
 	path = feedstocks/r-fiastemmap
 	branch = refs/heads/main
+[submodule "mule"]
+	url = https://github.com/conda-forge/mule-feedstock.git
+	path = feedstocks/mule
+	branch = refs/heads/main
