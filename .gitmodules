@@ -120134,3 +120134,7 @@
 	url = https://github.com/conda-forge/pybasinsubs-feedstock.git
 	path = feedstocks/pybasinsubs
 	branch = refs/heads/main
+[submodule "dpnp"]
+	url = https://github.com/conda-forge/dpnp-feedstock.git
+	path = feedstocks/dpnp
+	branch = refs/heads/main
