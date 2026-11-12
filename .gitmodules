@@ -120110,3 +120110,7 @@
 	url = https://github.com/conda-forge/pyearthmesh-feedstock.git
 	path = feedstocks/pyearthmesh
 	branch = refs/heads/main
+[submodule "ccache-storage-redis"]
+	url = https://github.com/conda-forge/ccache-storage-redis-feedstock.git
+	path = feedstocks/ccache-storage-redis
+	branch = refs/heads/main
