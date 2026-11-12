@@ -120138,3 +120138,7 @@
 	url = https://github.com/conda-forge/dpnp-feedstock.git
 	path = feedstocks/dpnp
 	branch = refs/heads/main
+[submodule "r-fiastemmap"]
+	url = https://github.com/conda-forge/r-fiastemmap-feedstock.git
+	path = feedstocks/r-fiastemmap
+	branch = refs/heads/main
