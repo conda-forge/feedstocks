@@ -120106,3 +120106,7 @@
 	url = https://github.com/conda-forge/py4dgeo-feedstock.git
 	path = feedstocks/py4dgeo
 	branch = refs/heads/main
+[submodule "pyearthmesh"]
+	url = https://github.com/conda-forge/pyearthmesh-feedstock.git
+	path = feedstocks/pyearthmesh
+	branch = refs/heads/main
