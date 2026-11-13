@@ -120162,3 +120162,7 @@
 	url = https://github.com/conda-forge/aws-emulator-feedstock.git
 	path = feedstocks/aws-emulator
 	branch = refs/heads/main
+[submodule "gputaskman"]
+	url = https://github.com/conda-forge/gputaskman-feedstock.git
+	path = feedstocks/gputaskman
+	branch = refs/heads/main
