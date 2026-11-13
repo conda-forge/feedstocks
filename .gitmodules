@@ -120150,3 +120150,7 @@
 	url = https://github.com/conda-forge/torux-feedstock.git
 	path = feedstocks/torux
 	branch = refs/heads/main
+[submodule "pyearthbuffer"]
+	url = https://github.com/conda-forge/pyearthbuffer-feedstock.git
+	path = feedstocks/pyearthbuffer
+	branch = refs/heads/main
