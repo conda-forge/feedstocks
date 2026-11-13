@@ -120174,3 +120174,7 @@
 	url = https://github.com/conda-forge/zope.security-feedstock.git
 	path = feedstocks/zope.security
 	branch = refs/heads/main
+[submodule "zope.publisher"]
+	url = https://github.com/conda-forge/zope.publisher-feedstock.git
+	path = feedstocks/zope.publisher
+	branch = refs/heads/main
