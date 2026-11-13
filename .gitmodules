@@ -120146,3 +120146,7 @@
 	url = https://github.com/conda-forge/mule-feedstock.git
 	path = feedstocks/mule
 	branch = refs/heads/main
+[submodule "torux"]
+	url = https://github.com/conda-forge/torux-feedstock.git
+	path = feedstocks/torux
+	branch = refs/heads/main
