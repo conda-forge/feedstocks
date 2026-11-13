@@ -120158,3 +120158,7 @@
 	url = https://github.com/conda-forge/lazyssh-feedstock.git
 	path = feedstocks/lazyssh
 	branch = refs/heads/main
+[submodule "aws-emulator"]
+	url = https://github.com/conda-forge/aws-emulator-feedstock.git
+	path = feedstocks/aws-emulator
+	branch = refs/heads/main
