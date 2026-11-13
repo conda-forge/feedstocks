@@ -120190,3 +120190,7 @@
 	url = https://github.com/conda-forge/moreau-feedstock.git
 	path = feedstocks/moreau
 	branch = refs/heads/main
+[submodule "pynvvideocodec"]
+	url = https://github.com/conda-forge/pynvvideocodec-feedstock.git
+	path = feedstocks/pynvvideocodec
+	branch = refs/heads/main
