@@ -120186,3 +120186,7 @@
 	url = https://github.com/conda-forge/zope.annotation-feedstock.git
 	path = feedstocks/zope.annotation
 	branch = refs/heads/main
+[submodule "moreau"]
+	url = https://github.com/conda-forge/moreau-feedstock.git
+	path = feedstocks/moreau
+	branch = refs/heads/main
