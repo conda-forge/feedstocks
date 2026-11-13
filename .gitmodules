@@ -120154,3 +120154,7 @@
 	url = https://github.com/conda-forge/pyearthbuffer-feedstock.git
 	path = feedstocks/pyearthbuffer
 	branch = refs/heads/main
+[submodule "lazyssh"]
+	url = https://github.com/conda-forge/lazyssh-feedstock.git
+	path = feedstocks/lazyssh
+	branch = refs/heads/main
