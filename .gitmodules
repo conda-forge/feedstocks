@@ -120178,3 +120178,7 @@
 	url = https://github.com/conda-forge/zope.publisher-feedstock.git
 	path = feedstocks/zope.publisher
 	branch = refs/heads/main
+[submodule "zope.i18n"]
+	url = https://github.com/conda-forge/zope.i18n-feedstock.git
+	path = feedstocks/zope.i18n
+	branch = refs/heads/main
