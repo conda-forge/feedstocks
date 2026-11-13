@@ -120170,3 +120170,7 @@
 	url = https://github.com/conda-forge/hatch-native-feedstock.git
 	path = feedstocks/hatch-native
 	branch = refs/heads/main
+[submodule "zope.security"]
+	url = https://github.com/conda-forge/zope.security-feedstock.git
+	path = feedstocks/zope.security
+	branch = refs/heads/main
