@@ -120166,3 +120166,7 @@
 	url = https://github.com/conda-forge/gputaskman-feedstock.git
 	path = feedstocks/gputaskman
 	branch = refs/heads/main
+[submodule "hatch-native"]
+	url = https://github.com/conda-forge/hatch-native-feedstock.git
+	path = feedstocks/hatch-native
+	branch = refs/heads/main
