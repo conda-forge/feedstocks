@@ -120194,3 +120194,7 @@
 	url = https://github.com/conda-forge/pynvvideocodec-feedstock.git
 	path = feedstocks/pynvvideocodec
 	branch = refs/heads/main
+[submodule "lsst-desc-dsf"]
+	url = https://github.com/conda-forge/lsst-desc-dsf-feedstock.git
+	path = feedstocks/lsst-desc-dsf
+	branch = refs/heads/main
