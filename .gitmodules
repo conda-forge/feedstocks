@@ -120198,3 +120198,7 @@
 	url = https://github.com/conda-forge/lsst-desc-dsf-feedstock.git
 	path = feedstocks/lsst-desc-dsf
 	branch = refs/heads/main
+[submodule "szl"]
+	url = https://github.com/conda-forge/szl-feedstock.git
+	path = feedstocks/szl
+	branch = refs/heads/main
