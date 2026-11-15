@@ -120206,3 +120206,7 @@
 	url = https://github.com/conda-forge/quantizr-feedstock.git
 	path = feedstocks/quantizr
 	branch = refs/heads/main
+[submodule "hipify"]
+	url = https://github.com/conda-forge/hipify-feedstock.git
+	path = feedstocks/hipify
+	branch = refs/heads/main
