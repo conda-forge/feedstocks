@@ -120202,3 +120202,7 @@
 	url = https://github.com/conda-forge/szl-feedstock.git
 	path = feedstocks/szl
 	branch = refs/heads/main
+[submodule "quantizr"]
+	url = https://github.com/conda-forge/quantizr-feedstock.git
+	path = feedstocks/quantizr
+	branch = refs/heads/main
