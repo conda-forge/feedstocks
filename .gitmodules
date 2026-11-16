@@ -120222,3 +120222,7 @@
 	url = https://github.com/conda-forge/napi-rs-keyring-feedstock.git
 	path = feedstocks/napi-rs-keyring
 	branch = refs/heads/main
+[submodule "aqlprofile"]
+	url = https://github.com/conda-forge/aqlprofile-feedstock.git
+	path = feedstocks/aqlprofile
+	branch = refs/heads/main
