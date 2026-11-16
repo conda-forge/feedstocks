@@ -120218,3 +120218,7 @@
 	url = https://github.com/conda-forge/open-knowledge-feedstock.git
 	path = feedstocks/open-knowledge
 	branch = refs/heads/main
+[submodule "napi-rs-keyring"]
+	url = https://github.com/conda-forge/napi-rs-keyring-feedstock.git
+	path = feedstocks/napi-rs-keyring
+	branch = refs/heads/main
