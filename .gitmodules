@@ -120226,3 +120226,7 @@
 	url = https://github.com/conda-forge/aqlprofile-feedstock.git
 	path = feedstocks/aqlprofile
 	branch = refs/heads/main
+[submodule "spaday-diffs"]
+	url = https://github.com/conda-forge/spaday-diffs-feedstock.git
+	path = feedstocks/spaday-diffs
+	branch = refs/heads/main
