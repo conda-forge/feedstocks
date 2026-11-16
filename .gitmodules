@@ -120266,3 +120266,7 @@
 	url = https://github.com/conda-forge/zope.traversing-feedstock.git
 	path = feedstocks/zope.traversing
 	branch = refs/heads/main
+[submodule "zope.contentprovider"]
+	url = https://github.com/conda-forge/zope.contentprovider-feedstock.git
+	path = feedstocks/zope.contentprovider
+	branch = refs/heads/main
