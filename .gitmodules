@@ -120246,3 +120246,7 @@
 	url = https://github.com/conda-forge/edcal-feedstock.git
 	path = feedstocks/edcal
 	branch = refs/heads/main
+[submodule "betterproto2-compiler"]
+	url = https://github.com/conda-forge/betterproto2-compiler-feedstock.git
+	path = feedstocks/betterproto2-compiler
+	branch = refs/heads/main
