@@ -120230,3 +120230,7 @@
 	url = https://github.com/conda-forge/spaday-diffs-feedstock.git
 	path = feedstocks/spaday-diffs
 	branch = refs/heads/main
+[submodule "python_ffmpeg"]
+	url = https://github.com/conda-forge/python_ffmpeg-feedstock.git
+	path = feedstocks/python_ffmpeg
+	branch = refs/heads/main
