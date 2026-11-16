@@ -120254,3 +120254,7 @@
 	url = https://github.com/conda-forge/envoy-data-plane-feedstock.git
 	path = feedstocks/envoy-data-plane
 	branch = refs/heads/main
+[submodule "earthcarekit"]
+	url = https://github.com/conda-forge/earthcarekit-feedstock.git
+	path = feedstocks/earthcarekit
+	branch = refs/heads/main
