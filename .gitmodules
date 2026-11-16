@@ -120262,3 +120262,7 @@
 	url = https://github.com/conda-forge/python-sbom-feedstock.git
 	path = feedstocks/python-sbom
 	branch = refs/heads/main
+[submodule "zope.traversing"]
+	url = https://github.com/conda-forge/zope.traversing-feedstock.git
+	path = feedstocks/zope.traversing
+	branch = refs/heads/main
