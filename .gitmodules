@@ -120270,3 +120270,7 @@
 	url = https://github.com/conda-forge/zope.contentprovider-feedstock.git
 	path = feedstocks/zope.contentprovider
 	branch = refs/heads/main
+[submodule "zexceptions"]
+	url = https://github.com/conda-forge/zexceptions-feedstock.git
+	path = feedstocks/zexceptions
+	branch = refs/heads/main
