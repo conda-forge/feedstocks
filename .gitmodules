@@ -120250,3 +120250,7 @@
 	url = https://github.com/conda-forge/betterproto2-compiler-feedstock.git
 	path = feedstocks/betterproto2-compiler
 	branch = refs/heads/main
+[submodule "envoy-data-plane"]
+	url = https://github.com/conda-forge/envoy-data-plane-feedstock.git
+	path = feedstocks/envoy-data-plane
+	branch = refs/heads/main
