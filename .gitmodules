@@ -120214,3 +120214,7 @@
 	url = https://github.com/conda-forge/parcel-watcher-feedstock.git
 	path = feedstocks/parcel-watcher
 	branch = refs/heads/main
+[submodule "open-knowledge"]
+	url = https://github.com/conda-forge/open-knowledge-feedstock.git
+	path = feedstocks/open-knowledge
+	branch = refs/heads/main
