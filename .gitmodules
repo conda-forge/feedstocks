@@ -120210,3 +120210,7 @@
 	url = https://github.com/conda-forge/hipify-feedstock.git
 	path = feedstocks/hipify
 	branch = refs/heads/main
+[submodule "parcel-watcher"]
+	url = https://github.com/conda-forge/parcel-watcher-feedstock.git
+	path = feedstocks/parcel-watcher
+	branch = refs/heads/main
