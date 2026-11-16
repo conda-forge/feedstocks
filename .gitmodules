@@ -120242,3 +120242,7 @@
 	url = https://github.com/conda-forge/zipremove-feedstock.git
 	path = feedstocks/zipremove
 	branch = refs/heads/main
+[submodule "edcal"]
+	url = https://github.com/conda-forge/edcal-feedstock.git
+	path = feedstocks/edcal
+	branch = refs/heads/main
