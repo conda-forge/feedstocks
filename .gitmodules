@@ -120258,3 +120258,7 @@
 	url = https://github.com/conda-forge/earthcarekit-feedstock.git
 	path = feedstocks/earthcarekit
 	branch = refs/heads/main
+[submodule "python-sbom"]
+	url = https://github.com/conda-forge/python-sbom-feedstock.git
+	path = feedstocks/python-sbom
+	branch = refs/heads/main
