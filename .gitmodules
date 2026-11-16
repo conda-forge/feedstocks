@@ -120238,3 +120238,7 @@
 	url = https://github.com/conda-forge/spaday-calcite-feedstock.git
 	path = feedstocks/spaday-calcite
 	branch = refs/heads/main
+[submodule "zipremove"]
+	url = https://github.com/conda-forge/zipremove-feedstock.git
+	path = feedstocks/zipremove
+	branch = refs/heads/main
