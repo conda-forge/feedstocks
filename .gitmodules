@@ -120294,3 +120294,7 @@
 	url = https://github.com/conda-forge/pymu-eval-feedstock.git
 	path = feedstocks/pymu-eval
 	branch = refs/heads/main
+[submodule "keyring-rs"]
+	url = https://github.com/conda-forge/keyring-rs-feedstock.git
+	path = feedstocks/keyring-rs
+	branch = refs/heads/main
