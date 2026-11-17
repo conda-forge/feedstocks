@@ -120334,3 +120334,7 @@
 	url = https://github.com/conda-forge/rustscan-feedstock.git
 	path = feedstocks/rustscan
 	branch = refs/heads/main
+[submodule "glaze"]
+	url = https://github.com/conda-forge/glaze-feedstock.git
+	path = feedstocks/glaze
+	branch = refs/heads/main
