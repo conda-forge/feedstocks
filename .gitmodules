@@ -120282,3 +120282,7 @@
 	url = https://github.com/conda-forge/openinterpreter-feedstock.git
 	path = feedstocks/openinterpreter
 	branch = refs/heads/main
+[submodule "miniserve"]
+	url = https://github.com/conda-forge/miniserve-feedstock.git
+	path = feedstocks/miniserve
+	branch = refs/heads/main
