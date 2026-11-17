@@ -120278,3 +120278,7 @@
 	url = https://github.com/conda-forge/e3sm-siteview-feedstock.git
 	path = feedstocks/e3sm-siteview
 	branch = refs/heads/main
+[submodule "openinterpreter"]
+	url = https://github.com/conda-forge/openinterpreter-feedstock.git
+	path = feedstocks/openinterpreter
+	branch = refs/heads/main
