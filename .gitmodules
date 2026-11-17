@@ -120290,3 +120290,7 @@
 	url = https://github.com/conda-forge/libghostty-vt-feedstock.git
 	path = feedstocks/libghostty-vt
 	branch = refs/heads/main
+[submodule "pymu-eval"]
+	url = https://github.com/conda-forge/pymu-eval-feedstock.git
+	path = feedstocks/pymu-eval
+	branch = refs/heads/main
