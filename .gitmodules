@@ -120330,3 +120330,7 @@
 	url = https://github.com/conda-forge/kiri-feedstock.git
 	path = feedstocks/kiri
 	branch = refs/heads/main
+[submodule "rustscan"]
+	url = https://github.com/conda-forge/rustscan-feedstock.git
+	path = feedstocks/rustscan
+	branch = refs/heads/main
