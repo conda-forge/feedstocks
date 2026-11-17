@@ -120302,3 +120302,7 @@
 	url = https://github.com/conda-forge/ipsw-parser-feedstock.git
 	path = feedstocks/ipsw-parser
 	branch = refs/heads/main
+[submodule "pylzss"]
+	url = https://github.com/conda-forge/pylzss-feedstock.git
+	path = feedstocks/pylzss
+	branch = refs/heads/main
