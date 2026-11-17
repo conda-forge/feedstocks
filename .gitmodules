@@ -120346,3 +120346,7 @@
 	url = https://github.com/conda-forge/mastermsm-feedstock.git
 	path = feedstocks/mastermsm
 	branch = refs/heads/main
+[submodule "nccl-extensions"]
+	url = https://github.com/conda-forge/nccl-extensions-feedstock.git
+	path = feedstocks/nccl-extensions
+	branch = refs/heads/main
