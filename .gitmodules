@@ -120298,3 +120298,7 @@
 	url = https://github.com/conda-forge/keyring-rs-feedstock.git
 	path = feedstocks/keyring-rs
 	branch = refs/heads/main
+[submodule "ipsw-parser"]
+	url = https://github.com/conda-forge/ipsw-parser-feedstock.git
+	path = feedstocks/ipsw-parser
+	branch = refs/heads/main
