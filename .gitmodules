@@ -120286,3 +120286,7 @@
 	url = https://github.com/conda-forge/miniserve-feedstock.git
 	path = feedstocks/miniserve
 	branch = refs/heads/main
+[submodule "libghostty-vt"]
+	url = https://github.com/conda-forge/libghostty-vt-feedstock.git
+	path = feedstocks/libghostty-vt
+	branch = refs/heads/main
