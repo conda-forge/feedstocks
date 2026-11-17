@@ -120326,3 +120326,7 @@
 	url = https://github.com/conda-forge/python-lzfse-feedstock.git
 	path = feedstocks/python-lzfse
 	branch = refs/heads/main
+[submodule "kiri"]
+	url = https://github.com/conda-forge/kiri-feedstock.git
+	path = feedstocks/kiri
+	branch = refs/heads/main
