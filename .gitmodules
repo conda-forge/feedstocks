@@ -120382,3 +120382,7 @@
 	url = https://github.com/conda-forge/zenoh-python-feedstock.git
 	path = feedstocks/zenoh-python
 	branch = refs/heads/main
+[submodule "dumb-init"]
+	url = https://github.com/conda-forge/dumb-init-feedstock.git
+	path = feedstocks/dumb-init
+	branch = refs/heads/main
