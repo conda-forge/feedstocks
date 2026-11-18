@@ -120362,3 +120362,7 @@
 	url = https://github.com/conda-forge/langid-feedstock.git
 	path = feedstocks/langid
 	branch = refs/heads/main
+[submodule "pykmclib"]
+	url = https://github.com/conda-forge/pykmclib-feedstock.git
+	path = feedstocks/pykmclib
+	branch = refs/heads/main
