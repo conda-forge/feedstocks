@@ -120350,3 +120350,7 @@
 	url = https://github.com/conda-forge/nccl-extensions-feedstock.git
 	path = feedstocks/nccl-extensions
 	branch = refs/heads/main
+[submodule "cuid2"]
+	url = https://github.com/conda-forge/cuid2-feedstock.git
+	path = feedstocks/cuid2
+	branch = refs/heads/main
