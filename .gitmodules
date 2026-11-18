@@ -120390,3 +120390,7 @@
 	url = https://github.com/conda-forge/clearscale-feedstock.git
 	path = feedstocks/clearscale
 	branch = refs/heads/main
+[submodule "gammapy-plugin"]
+	url = https://github.com/conda-forge/gammapy-plugin-feedstock.git
+	path = feedstocks/gammapy-plugin
+	branch = refs/heads/main
