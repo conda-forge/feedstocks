@@ -120354,3 +120354,7 @@
 	url = https://github.com/conda-forge/cuid2-feedstock.git
 	path = feedstocks/cuid2
 	branch = refs/heads/main
+[submodule "adv-jax-math"]
+	url = https://github.com/conda-forge/adv-jax-math-feedstock.git
+	path = feedstocks/adv-jax-math
+	branch = refs/heads/main
