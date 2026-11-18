@@ -120366,3 +120366,7 @@
 	url = https://github.com/conda-forge/pykmclib-feedstock.git
 	path = feedstocks/pykmclib
 	branch = refs/heads/main
+[submodule "djvulibre-python"]
+	url = https://github.com/conda-forge/djvulibre-python-feedstock.git
+	path = feedstocks/djvulibre-python
+	branch = refs/heads/main
