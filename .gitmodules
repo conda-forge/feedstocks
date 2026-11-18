@@ -120374,3 +120374,7 @@
 	url = https://github.com/conda-forge/dpsprep-feedstock.git
 	path = feedstocks/dpsprep
 	branch = refs/heads/main
+[submodule "zarr-metadata"]
+	url = https://github.com/conda-forge/zarr-metadata-feedstock.git
+	path = feedstocks/zarr-metadata
+	branch = refs/heads/main
