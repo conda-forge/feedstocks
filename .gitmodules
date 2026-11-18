@@ -120378,3 +120378,7 @@
 	url = https://github.com/conda-forge/zarr-metadata-feedstock.git
 	path = feedstocks/zarr-metadata
 	branch = refs/heads/main
+[submodule "zenoh-python"]
+	url = https://github.com/conda-forge/zenoh-python-feedstock.git
+	path = feedstocks/zenoh-python
+	branch = refs/heads/main
