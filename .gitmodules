@@ -120358,3 +120358,7 @@
 	url = https://github.com/conda-forge/adv-jax-math-feedstock.git
 	path = feedstocks/adv-jax-math
 	branch = refs/heads/main
+[submodule "langid"]
+	url = https://github.com/conda-forge/langid-feedstock.git
+	path = feedstocks/langid
+	branch = refs/heads/main
