@@ -120386,3 +120386,7 @@
 	url = https://github.com/conda-forge/dumb-init-feedstock.git
 	path = feedstocks/dumb-init
 	branch = refs/heads/main
+[submodule "clearscale"]
+	url = https://github.com/conda-forge/clearscale-feedstock.git
+	path = feedstocks/clearscale
+	branch = refs/heads/main
