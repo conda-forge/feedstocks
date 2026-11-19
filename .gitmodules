@@ -120442,3 +120442,7 @@
 	url = https://github.com/conda-forge/ocaml-lwt-split-feedstock.git
 	path = feedstocks/ocaml-lwt-split
 	branch = refs/heads/main
+[submodule "ocaml-ppxlib"]
+	url = https://github.com/conda-forge/ocaml-ppxlib-feedstock.git
+	path = feedstocks/ocaml-ppxlib
+	branch = refs/heads/main
