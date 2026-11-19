@@ -120394,3 +120394,7 @@
 	url = https://github.com/conda-forge/gammapy-plugin-feedstock.git
 	path = feedstocks/gammapy-plugin
 	branch = refs/heads/main
+[submodule "pygfnff"]
+	url = https://github.com/conda-forge/pygfnff-feedstock.git
+	path = feedstocks/pygfnff
+	branch = refs/heads/main
