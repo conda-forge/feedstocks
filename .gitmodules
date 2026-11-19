@@ -120418,3 +120418,7 @@
 	url = https://github.com/conda-forge/tableau-api-lib-feedstock.git
 	path = feedstocks/tableau-api-lib
 	branch = refs/heads/main
+[submodule "columnar"]
+	url = https://github.com/conda-forge/columnar-feedstock.git
+	path = feedstocks/columnar
+	branch = refs/heads/main
