@@ -120402,3 +120402,7 @@
 	url = https://github.com/conda-forge/f2py-cmake-feedstock.git
 	path = feedstocks/f2py-cmake
 	branch = refs/heads/main
+[submodule "nvsmi"]
+	url = https://github.com/conda-forge/nvsmi-feedstock.git
+	path = feedstocks/nvsmi
+	branch = refs/heads/main
