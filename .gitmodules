@@ -120410,3 +120410,7 @@
 	url = https://github.com/conda-forge/pythoncdt-feedstock.git
 	path = feedstocks/pythoncdt
 	branch = refs/heads/main
+[submodule "chatterbot"]
+	url = https://github.com/conda-forge/chatterbot-feedstock.git
+	path = feedstocks/chatterbot
+	branch = refs/heads/main
