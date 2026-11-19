@@ -120446,3 +120446,7 @@
 	url = https://github.com/conda-forge/ocaml-ppxlib-feedstock.git
 	path = feedstocks/ocaml-ppxlib
 	branch = refs/heads/main
+[submodule "ocaml-dune-configurator"]
+	url = https://github.com/conda-forge/ocaml-dune-configurator-feedstock.git
+	path = feedstocks/ocaml-dune-configurator
+	branch = refs/heads/main
