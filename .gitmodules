@@ -120450,3 +120450,7 @@
 	url = https://github.com/conda-forge/ocaml-dune-configurator-feedstock.git
 	path = feedstocks/ocaml-dune-configurator
 	branch = refs/heads/main
+[submodule "font-jetbrains-mono"]
+	url = https://github.com/conda-forge/font-jetbrains-mono-feedstock.git
+	path = feedstocks/font-jetbrains-mono
+	branch = refs/heads/main
