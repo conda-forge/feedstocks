@@ -120414,3 +120414,7 @@
 	url = https://github.com/conda-forge/chatterbot-feedstock.git
 	path = feedstocks/chatterbot
 	branch = refs/heads/main
+[submodule "tableau-api-lib"]
+	url = https://github.com/conda-forge/tableau-api-lib-feedstock.git
+	path = feedstocks/tableau-api-lib
+	branch = refs/heads/main
