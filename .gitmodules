@@ -120430,3 +120430,7 @@
 	url = https://github.com/conda-forge/streamlit-extras-feedstock.git
 	path = feedstocks/streamlit-extras
 	branch = refs/heads/main
+[submodule "ocaml-ocplib-endian"]
+	url = https://github.com/conda-forge/ocaml-ocplib-endian-feedstock.git
+	path = feedstocks/ocaml-ocplib-endian
+	branch = refs/heads/main
