@@ -120426,3 +120426,7 @@
 	url = https://github.com/conda-forge/stopwords-feedstock.git
 	path = feedstocks/stopwords
 	branch = refs/heads/main
+[submodule "streamlit-extras"]
+	url = https://github.com/conda-forge/streamlit-extras-feedstock.git
+	path = feedstocks/streamlit-extras
+	branch = refs/heads/main
