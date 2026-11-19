@@ -120434,3 +120434,7 @@
 	url = https://github.com/conda-forge/ocaml-ocplib-endian-feedstock.git
 	path = feedstocks/ocaml-ocplib-endian
 	branch = refs/heads/main
+[submodule "ocaml-sedlex"]
+	url = https://github.com/conda-forge/ocaml-sedlex-feedstock.git
+	path = feedstocks/ocaml-sedlex
+	branch = refs/heads/main
