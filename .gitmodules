@@ -120438,3 +120438,7 @@
 	url = https://github.com/conda-forge/ocaml-sedlex-feedstock.git
 	path = feedstocks/ocaml-sedlex
 	branch = refs/heads/main
+[submodule "ocaml-lwt-split"]
+	url = https://github.com/conda-forge/ocaml-lwt-split-feedstock.git
+	path = feedstocks/ocaml-lwt-split
+	branch = refs/heads/main
