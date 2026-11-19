@@ -120406,3 +120406,7 @@
 	url = https://github.com/conda-forge/nvsmi-feedstock.git
 	path = feedstocks/nvsmi
 	branch = refs/heads/main
+[submodule "pythoncdt"]
+	url = https://github.com/conda-forge/pythoncdt-feedstock.git
+	path = feedstocks/pythoncdt
+	branch = refs/heads/main
