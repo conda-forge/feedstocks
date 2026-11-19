@@ -120422,3 +120422,7 @@
 	url = https://github.com/conda-forge/columnar-feedstock.git
 	path = feedstocks/columnar
 	branch = refs/heads/main
+[submodule "stopwords"]
+	url = https://github.com/conda-forge/stopwords-feedstock.git
+	path = feedstocks/stopwords
+	branch = refs/heads/main
