@@ -120478,3 +120478,7 @@
 	url = https://github.com/conda-forge/zope.globalrequest-feedstock.git
 	path = feedstocks/zope.globalrequest
 	branch = refs/heads/main
+[submodule "z3c.pt"]
+	url = https://github.com/conda-forge/z3c.pt-feedstock.git
+	path = feedstocks/z3c.pt
+	branch = refs/heads/main
