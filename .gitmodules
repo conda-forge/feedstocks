@@ -120462,3 +120462,7 @@
 	url = https://github.com/conda-forge/py-svg-hush-feedstock.git
 	path = feedstocks/py-svg-hush
 	branch = refs/heads/main
+[submodule "zope.pagetemplate"]
+	url = https://github.com/conda-forge/zope.pagetemplate-feedstock.git
+	path = feedstocks/zope.pagetemplate
+	branch = refs/heads/main
