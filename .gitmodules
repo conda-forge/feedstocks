@@ -120466,3 +120466,7 @@
 	url = https://github.com/conda-forge/zope.pagetemplate-feedstock.git
 	path = feedstocks/zope.pagetemplate
 	branch = refs/heads/main
+[submodule "zope.container"]
+	url = https://github.com/conda-forge/zope.container-feedstock.git
+	path = feedstocks/zope.container
+	branch = refs/heads/main
