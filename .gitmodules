@@ -120486,3 +120486,7 @@
 	url = https://github.com/conda-forge/zope.viewlet-feedstock.git
 	path = feedstocks/zope.viewlet
 	branch = refs/heads/main
+[submodule "zope.site"]
+	url = https://github.com/conda-forge/zope.site-feedstock.git
+	path = feedstocks/zope.site
+	branch = refs/heads/main
