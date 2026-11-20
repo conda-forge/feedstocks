@@ -120470,3 +120470,7 @@
 	url = https://github.com/conda-forge/zope.container-feedstock.git
 	path = feedstocks/zope.container
 	branch = refs/heads/main
+[submodule "zope.browserresource"]
+	url = https://github.com/conda-forge/zope.browserresource-feedstock.git
+	path = feedstocks/zope.browserresource
+	branch = refs/heads/main
