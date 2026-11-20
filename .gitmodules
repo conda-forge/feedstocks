@@ -120490,3 +120490,7 @@
 	url = https://github.com/conda-forge/zope.site-feedstock.git
 	path = feedstocks/zope.site
 	branch = refs/heads/main
+[submodule "zope.browserpage"]
+	url = https://github.com/conda-forge/zope.browserpage-feedstock.git
+	path = feedstocks/zope.browserpage
+	branch = refs/heads/main
