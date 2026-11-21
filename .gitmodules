@@ -120510,3 +120510,7 @@
 	url = https://github.com/conda-forge/phonometry-feedstock.git
 	path = feedstocks/phonometry
 	branch = refs/heads/main
+[submodule "pyhmeasure"]
+	url = https://github.com/conda-forge/pyhmeasure-feedstock.git
+	path = feedstocks/pyhmeasure
+	branch = refs/heads/main
