@@ -120506,3 +120506,7 @@
 	url = https://github.com/conda-forge/libojph-feedstock.git
 	path = feedstocks/libojph
 	branch = refs/heads/main
+[submodule "phonometry"]
+	url = https://github.com/conda-forge/phonometry-feedstock.git
+	path = feedstocks/phonometry
+	branch = refs/heads/main
