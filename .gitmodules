@@ -120522,3 +120522,7 @@
 	url = https://github.com/conda-forge/pyccapt-feedstock.git
 	path = feedstocks/pyccapt
 	branch = refs/heads/main
+[submodule "jpeg2000-hdf5-plugin"]
+	url = https://github.com/conda-forge/jpeg2000-hdf5-plugin-feedstock.git
+	path = feedstocks/jpeg2000-hdf5-plugin
+	branch = refs/heads/main
