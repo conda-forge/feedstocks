@@ -120518,3 +120518,7 @@
 	url = https://github.com/conda-forge/spherogram-feedstock.git
 	path = feedstocks/spherogram
 	branch = refs/heads/main
+[submodule "pyccapt"]
+	url = https://github.com/conda-forge/pyccapt-feedstock.git
+	path = feedstocks/pyccapt
+	branch = refs/heads/main
