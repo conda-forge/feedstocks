@@ -120582,3 +120582,7 @@
 	url = https://github.com/conda-forge/pytest-print-feedstock.git
 	path = feedstocks/pytest-print
 	branch = refs/heads/main
+[submodule "neper-python"]
+	url = https://github.com/conda-forge/neper-python-feedstock.git
+	path = feedstocks/neper-python
+	branch = refs/heads/main
