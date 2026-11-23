@@ -120590,3 +120590,7 @@
 	url = https://github.com/conda-forge/python-redis-lock-feedstock.git
 	path = feedstocks/python-redis-lock
 	branch = refs/heads/main
+[submodule "python-graphql-client"]
+	url = https://github.com/conda-forge/python-graphql-client-feedstock.git
+	path = feedstocks/python-graphql-client
+	branch = refs/heads/main
