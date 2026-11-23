@@ -120598,3 +120598,7 @@
 	url = https://github.com/conda-forge/cadwyn-core-feedstock.git
 	path = feedstocks/cadwyn-core
 	branch = refs/heads/main
+[submodule "r-smartcor"]
+	url = https://github.com/conda-forge/r-smartcor-feedstock.git
+	path = feedstocks/r-smartcor
+	branch = refs/heads/main
