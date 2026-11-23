@@ -120566,3 +120566,7 @@
 	url = https://github.com/conda-forge/edview-feedstock.git
 	path = feedstocks/edview
 	branch = refs/heads/main
+[submodule "matrix-sdk-python"]
+	url = https://github.com/conda-forge/matrix-sdk-python-feedstock.git
+	path = feedstocks/matrix-sdk-python
+	branch = refs/heads/main
