@@ -120542,3 +120542,7 @@
 	url = https://github.com/conda-forge/httpx-auth-feedstock.git
 	path = feedstocks/httpx-auth
 	branch = refs/heads/main
+[submodule "aiida-dlpoly"]
+	url = https://github.com/conda-forge/aiida-dlpoly-feedstock.git
+	path = feedstocks/aiida-dlpoly
+	branch = refs/heads/main
