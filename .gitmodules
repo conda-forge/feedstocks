@@ -120530,3 +120530,7 @@
 	url = https://github.com/conda-forge/certbot-dns-desec-feedstock.git
 	path = feedstocks/certbot-dns-desec
 	branch = refs/heads/main
+[submodule "cityimage"]
+	url = https://github.com/conda-forge/cityimage-feedstock.git
+	path = feedstocks/cityimage
+	branch = refs/heads/main
