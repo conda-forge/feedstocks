@@ -120586,3 +120586,7 @@
 	url = https://github.com/conda-forge/neper-python-feedstock.git
 	path = feedstocks/neper-python
 	branch = refs/heads/main
+[submodule "python-redis-lock"]
+	url = https://github.com/conda-forge/python-redis-lock-feedstock.git
+	path = feedstocks/python-redis-lock
+	branch = refs/heads/main
