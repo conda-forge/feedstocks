@@ -120538,3 +120538,7 @@
 	url = https://github.com/conda-forge/nos-tlplot-feedstock.git
 	path = feedstocks/nos-tlplot
 	branch = refs/heads/main
+[submodule "httpx-auth"]
+	url = https://github.com/conda-forge/httpx-auth-feedstock.git
+	path = feedstocks/httpx-auth
+	branch = refs/heads/main
