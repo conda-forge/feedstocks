@@ -120574,3 +120574,7 @@
 	url = https://github.com/conda-forge/pytest-httpx2-feedstock.git
 	path = feedstocks/pytest-httpx2
 	branch = refs/heads/main
+[submodule "pytest-responses"]
+	url = https://github.com/conda-forge/pytest-responses-feedstock.git
+	path = feedstocks/pytest-responses
+	branch = refs/heads/main
