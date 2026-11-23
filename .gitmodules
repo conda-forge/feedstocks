@@ -120554,3 +120554,7 @@
 	url = https://github.com/conda-forge/multimetricdiagram-feedstock.git
 	path = feedstocks/multimetricdiagram
 	branch = refs/heads/main
+[submodule "windows-curses"]
+	url = https://github.com/conda-forge/windows-curses-feedstock.git
+	path = feedstocks/windows-curses
+	branch = refs/heads/main
