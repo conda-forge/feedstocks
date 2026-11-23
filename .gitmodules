@@ -120546,3 +120546,7 @@
 	url = https://github.com/conda-forge/aiida-dlpoly-feedstock.git
 	path = feedstocks/aiida-dlpoly
 	branch = refs/heads/main
+[submodule "simplemma"]
+	url = https://github.com/conda-forge/simplemma-feedstock.git
+	path = feedstocks/simplemma
+	branch = refs/heads/main
