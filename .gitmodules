@@ -120558,3 +120558,7 @@
 	url = https://github.com/conda-forge/windows-curses-feedstock.git
 	path = feedstocks/windows-curses
 	branch = refs/heads/main
+[submodule "termscraper"]
+	url = https://github.com/conda-forge/termscraper-feedstock.git
+	path = feedstocks/termscraper
+	branch = refs/heads/main
