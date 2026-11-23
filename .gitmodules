@@ -120594,3 +120594,7 @@
 	url = https://github.com/conda-forge/python-graphql-client-feedstock.git
 	path = feedstocks/python-graphql-client
 	branch = refs/heads/main
+[submodule "cadwyn-core"]
+	url = https://github.com/conda-forge/cadwyn-core-feedstock.git
+	path = feedstocks/cadwyn-core
+	branch = refs/heads/main
