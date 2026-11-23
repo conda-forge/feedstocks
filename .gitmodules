@@ -120526,3 +120526,7 @@
 	url = https://github.com/conda-forge/jpeg2000-hdf5-plugin-feedstock.git
 	path = feedstocks/jpeg2000-hdf5-plugin
 	branch = refs/heads/main
+[submodule "certbot-dns-desec"]
+	url = https://github.com/conda-forge/certbot-dns-desec-feedstock.git
+	path = feedstocks/certbot-dns-desec
+	branch = refs/heads/main
