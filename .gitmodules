@@ -120562,3 +120562,7 @@
 	url = https://github.com/conda-forge/termscraper-feedstock.git
 	path = feedstocks/termscraper
 	branch = refs/heads/main
+[submodule "edview"]
+	url = https://github.com/conda-forge/edview-feedstock.git
+	path = feedstocks/edview
+	branch = refs/heads/main
