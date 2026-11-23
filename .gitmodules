@@ -120534,3 +120534,7 @@
 	url = https://github.com/conda-forge/cityimage-feedstock.git
 	path = feedstocks/cityimage
 	branch = refs/heads/main
+[submodule "nos-tlplot"]
+	url = https://github.com/conda-forge/nos-tlplot-feedstock.git
+	path = feedstocks/nos-tlplot
+	branch = refs/heads/main
