@@ -120642,3 +120642,7 @@
 	url = https://github.com/conda-forge/faim-wako-searchfirst-feedstock.git
 	path = feedstocks/faim-wako-searchfirst
 	branch = refs/heads/main
+[submodule "textfsm"]
+	url = https://github.com/conda-forge/textfsm-feedstock.git
+	path = feedstocks/textfsm
+	branch = refs/heads/main
