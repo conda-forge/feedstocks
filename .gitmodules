@@ -120606,3 +120606,7 @@
 	url = https://github.com/conda-forge/rea-agents-feedstock.git
 	path = feedstocks/rea-agents
 	branch = refs/heads/main
+[submodule "protovalidate"]
+	url = https://github.com/conda-forge/protovalidate-feedstock.git
+	path = feedstocks/protovalidate
+	branch = refs/heads/main
