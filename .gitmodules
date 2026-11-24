@@ -120634,3 +120634,7 @@
 	url = https://github.com/conda-forge/pytest-aioresponses-feedstock.git
 	path = feedstocks/pytest-aioresponses
 	branch = refs/heads/main
+[submodule "quart-auth"]
+	url = https://github.com/conda-forge/quart-auth-feedstock.git
+	path = feedstocks/quart-auth
+	branch = refs/heads/main
