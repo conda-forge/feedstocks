@@ -120622,3 +120622,7 @@
 	url = https://github.com/conda-forge/flyte-feedstock.git
 	path = feedstocks/flyte
 	branch = refs/heads/main
+[submodule "flyteidl2"]
+	url = https://github.com/conda-forge/flyteidl2-feedstock.git
+	path = feedstocks/flyteidl2
+	branch = refs/heads/main
