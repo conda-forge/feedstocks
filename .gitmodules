@@ -120646,3 +120646,7 @@
 	url = https://github.com/conda-forge/textfsm-feedstock.git
 	path = feedstocks/textfsm
 	branch = refs/heads/main
+[submodule "quart-schema"]
+	url = https://github.com/conda-forge/quart-schema-feedstock.git
+	path = feedstocks/quart-schema
+	branch = refs/heads/main
