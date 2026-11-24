@@ -120638,3 +120638,7 @@
 	url = https://github.com/conda-forge/quart-auth-feedstock.git
 	path = feedstocks/quart-auth
 	branch = refs/heads/main
+[submodule "faim-wako-searchfirst"]
+	url = https://github.com/conda-forge/faim-wako-searchfirst-feedstock.git
+	path = feedstocks/faim-wako-searchfirst
+	branch = refs/heads/main
