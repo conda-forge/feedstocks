@@ -120630,3 +120630,7 @@
 	url = https://github.com/conda-forge/netcdf95-feedstock.git
 	path = feedstocks/netcdf95
 	branch = refs/heads/main
+[submodule "pytest-aioresponses"]
+	url = https://github.com/conda-forge/pytest-aioresponses-feedstock.git
+	path = feedstocks/pytest-aioresponses
+	branch = refs/heads/main
