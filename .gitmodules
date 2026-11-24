@@ -120626,3 +120626,7 @@
 	url = https://github.com/conda-forge/flyteidl2-feedstock.git
 	path = feedstocks/flyteidl2
 	branch = refs/heads/main
+[submodule "netcdf95"]
+	url = https://github.com/conda-forge/netcdf95-feedstock.git
+	path = feedstocks/netcdf95
+	branch = refs/heads/main
