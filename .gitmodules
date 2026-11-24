@@ -120610,3 +120610,7 @@
 	url = https://github.com/conda-forge/protovalidate-feedstock.git
 	path = feedstocks/protovalidate
 	branch = refs/heads/main
+[submodule "connectrpc"]
+	url = https://github.com/conda-forge/connectrpc-feedstock.git
+	path = feedstocks/connectrpc
+	branch = refs/heads/main
