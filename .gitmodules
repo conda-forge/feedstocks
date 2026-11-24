@@ -120614,3 +120614,7 @@
 	url = https://github.com/conda-forge/connectrpc-feedstock.git
 	path = feedstocks/connectrpc
 	branch = refs/heads/main
+[submodule "pyqwest"]
+	url = https://github.com/conda-forge/pyqwest-feedstock.git
+	path = feedstocks/pyqwest
+	branch = refs/heads/main
