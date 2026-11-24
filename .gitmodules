@@ -120618,3 +120618,7 @@
 	url = https://github.com/conda-forge/pyqwest-feedstock.git
 	path = feedstocks/pyqwest
 	branch = refs/heads/main
+[submodule "flyte"]
+	url = https://github.com/conda-forge/flyte-feedstock.git
+	path = feedstocks/flyte
+	branch = refs/heads/main
