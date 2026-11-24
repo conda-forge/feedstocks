@@ -120602,3 +120602,7 @@
 	url = https://github.com/conda-forge/r-smartcor-feedstock.git
 	path = feedstocks/r-smartcor
 	branch = refs/heads/main
+[submodule "rea-agents"]
+	url = https://github.com/conda-forge/rea-agents-feedstock.git
+	path = feedstocks/rea-agents
+	branch = refs/heads/main
