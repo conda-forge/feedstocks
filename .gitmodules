@@ -120706,3 +120706,7 @@
 	url = https://github.com/conda-forge/multimapping-feedstock.git
 	path = feedstocks/multimapping
 	branch = refs/heads/main
+[submodule "acquisition"]
+	url = https://github.com/conda-forge/acquisition-feedstock.git
+	path = feedstocks/acquisition
+	branch = refs/heads/main
