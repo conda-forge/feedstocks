@@ -120722,3 +120722,7 @@
 	url = https://github.com/conda-forge/nebari-frames-feedstock.git
 	path = feedstocks/nebari-frames
 	branch = refs/heads/main
+[submodule "nebari-infrastructure-core"]
+	url = https://github.com/conda-forge/nebari-infrastructure-core-feedstock.git
+	path = feedstocks/nebari-infrastructure-core
+	branch = refs/heads/main
