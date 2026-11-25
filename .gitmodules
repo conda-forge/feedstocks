@@ -120674,3 +120674,7 @@
 	url = https://github.com/conda-forge/adk-mongodb-session-feedstock.git
 	path = feedstocks/adk-mongodb-session
 	branch = refs/heads/main
+[submodule "pfst"]
+	url = https://github.com/conda-forge/pfst-feedstock.git
+	path = feedstocks/pfst
+	branch = refs/heads/main
