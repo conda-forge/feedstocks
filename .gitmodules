@@ -120662,3 +120662,7 @@
 	url = https://github.com/conda-forge/xschem-feedstock.git
 	path = feedstocks/xschem
 	branch = refs/heads/main
+[submodule "aioodbc"]
+	url = https://github.com/conda-forge/aioodbc-feedstock.git
+	path = feedstocks/aioodbc
+	branch = refs/heads/main
