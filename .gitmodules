@@ -120710,3 +120710,7 @@
 	url = https://github.com/conda-forge/acquisition-feedstock.git
 	path = feedstocks/acquisition
 	branch = refs/heads/main
+[submodule "persistence"]
+	url = https://github.com/conda-forge/persistence-feedstock.git
+	path = feedstocks/persistence
+	branch = refs/heads/main
