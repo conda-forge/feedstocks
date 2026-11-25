@@ -120670,3 +120670,7 @@
 	url = https://github.com/conda-forge/fst-feedstock.git
 	path = feedstocks/fst
 	branch = refs/heads/main
+[submodule "adk-mongodb-session"]
+	url = https://github.com/conda-forge/adk-mongodb-session-feedstock.git
+	path = feedstocks/adk-mongodb-session
+	branch = refs/heads/main
