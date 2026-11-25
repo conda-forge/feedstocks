@@ -120658,3 +120658,7 @@
 	url = https://github.com/conda-forge/dbutils-feedstock.git
 	path = feedstocks/dbutils
 	branch = refs/heads/main
+[submodule "xschem"]
+	url = https://github.com/conda-forge/xschem-feedstock.git
+	path = feedstocks/xschem
+	branch = refs/heads/main
