@@ -120666,3 +120666,7 @@
 	url = https://github.com/conda-forge/aioodbc-feedstock.git
 	path = feedstocks/aioodbc
 	branch = refs/heads/main
+[submodule "fst"]
+	url = https://github.com/conda-forge/fst-feedstock.git
+	path = feedstocks/fst
+	branch = refs/heads/main
