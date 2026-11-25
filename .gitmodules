@@ -120714,3 +120714,7 @@
 	url = https://github.com/conda-forge/persistence-feedstock.git
 	path = feedstocks/persistence
 	branch = refs/heads/main
+[submodule "zope.testrunner"]
+	url = https://github.com/conda-forge/zope.testrunner-feedstock.git
+	path = feedstocks/zope.testrunner
+	branch = refs/heads/main
