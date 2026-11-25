@@ -120698,3 +120698,7 @@
 	url = https://github.com/conda-forge/documenttemplate-feedstock.git
 	path = feedstocks/documenttemplate
 	branch = refs/heads/main
+[submodule "accesscontrol"]
+	url = https://github.com/conda-forge/accesscontrol-feedstock.git
+	path = feedstocks/accesscontrol
+	branch = refs/heads/main
