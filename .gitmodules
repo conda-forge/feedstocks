@@ -120686,3 +120686,7 @@
 	url = https://github.com/conda-forge/openfold3-split-feedstock.git
 	path = feedstocks/openfold3-split
 	branch = refs/heads/main
+[submodule "zope"]
+	url = https://github.com/conda-forge/zope-feedstock.git
+	path = feedstocks/zope
+	branch = refs/heads/main
