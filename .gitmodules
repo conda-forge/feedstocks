@@ -120702,3 +120702,7 @@
 	url = https://github.com/conda-forge/accesscontrol-feedstock.git
 	path = feedstocks/accesscontrol
 	branch = refs/heads/main
+[submodule "multimapping"]
+	url = https://github.com/conda-forge/multimapping-feedstock.git
+	path = feedstocks/multimapping
+	branch = refs/heads/main
