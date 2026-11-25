@@ -120690,3 +120690,7 @@
 	url = https://github.com/conda-forge/zope-feedstock.git
 	path = feedstocks/zope
 	branch = refs/heads/main
+[submodule "extensionclass"]
+	url = https://github.com/conda-forge/extensionclass-feedstock.git
+	path = feedstocks/extensionclass
+	branch = refs/heads/main
