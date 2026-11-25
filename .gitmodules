@@ -120726,3 +120726,7 @@
 	url = https://github.com/conda-forge/nebari-infrastructure-core-feedstock.git
 	path = feedstocks/nebari-infrastructure-core
 	branch = refs/heads/main
+[submodule "epicsdbbuilder"]
+	url = https://github.com/conda-forge/epicsdbbuilder-feedstock.git
+	path = feedstocks/epicsdbbuilder
+	branch = refs/heads/main
