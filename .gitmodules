@@ -120678,3 +120678,7 @@
 	url = https://github.com/conda-forge/pfst-feedstock.git
 	path = feedstocks/pfst
 	branch = refs/heads/main
+[submodule "gdar-base"]
+	url = https://github.com/conda-forge/gdar-base-feedstock.git
+	path = feedstocks/gdar-base
+	branch = refs/heads/main
