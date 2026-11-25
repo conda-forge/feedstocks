@@ -120682,3 +120682,7 @@
 	url = https://github.com/conda-forge/gdar-base-feedstock.git
 	path = feedstocks/gdar-base
 	branch = refs/heads/main
+[submodule "openfold3-split"]
+	url = https://github.com/conda-forge/openfold3-split-feedstock.git
+	path = feedstocks/openfold3-split
+	branch = refs/heads/main
