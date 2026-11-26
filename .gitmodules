@@ -120730,3 +120730,7 @@
 	url = https://github.com/conda-forge/epicsdbbuilder-feedstock.git
 	path = feedstocks/epicsdbbuilder
 	branch = refs/heads/main
+[submodule "msvcstl"]
+	url = https://github.com/conda-forge/msvcstl-feedstock.git
+	path = feedstocks/msvcstl
+	branch = refs/heads/main
