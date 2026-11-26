@@ -120734,3 +120734,7 @@
 	url = https://github.com/conda-forge/msvcstl-feedstock.git
 	path = feedstocks/msvcstl
 	branch = refs/heads/main
+[submodule "physionet"]
+	url = https://github.com/conda-forge/physionet-feedstock.git
+	path = feedstocks/physionet
+	branch = refs/heads/main
