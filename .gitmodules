@@ -120738,3 +120738,7 @@
 	url = https://github.com/conda-forge/physionet-feedstock.git
 	path = feedstocks/physionet
 	branch = refs/heads/main
+[submodule "ocaml-intrinsics-kernel"]
+	url = https://github.com/conda-forge/ocaml-intrinsics-kernel-feedstock.git
+	path = feedstocks/ocaml-intrinsics-kernel
+	branch = refs/heads/main
