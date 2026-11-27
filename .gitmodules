@@ -120758,3 +120758,7 @@
 	url = https://github.com/conda-forge/ocaml-ppx-optcomp-feedstock.git
 	path = feedstocks/ocaml-ppx-optcomp
 	branch = refs/heads/main
+[submodule "retry2"]
+	url = https://github.com/conda-forge/retry2-feedstock.git
+	path = feedstocks/retry2
+	branch = refs/heads/main
