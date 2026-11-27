@@ -120746,3 +120746,7 @@
 	url = https://github.com/conda-forge/ocaml-stdio-feedstock.git
 	path = feedstocks/ocaml-stdio
 	branch = refs/heads/main
+[submodule "ocaml-base"]
+	url = https://github.com/conda-forge/ocaml-base-feedstock.git
+	path = feedstocks/ocaml-base
+	branch = refs/heads/main
