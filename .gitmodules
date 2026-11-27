@@ -120766,3 +120766,7 @@
 	url = https://github.com/conda-forge/rocprim-feedstock.git
 	path = feedstocks/rocprim
 	branch = refs/heads/main
+[submodule "python-security"]
+	url = https://github.com/conda-forge/python-security-feedstock.git
+	path = feedstocks/python-security
+	branch = refs/heads/main
