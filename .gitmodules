@@ -120742,3 +120742,7 @@
 	url = https://github.com/conda-forge/ocaml-intrinsics-kernel-feedstock.git
 	path = feedstocks/ocaml-intrinsics-kernel
 	branch = refs/heads/main
+[submodule "ocaml-stdio"]
+	url = https://github.com/conda-forge/ocaml-stdio-feedstock.git
+	path = feedstocks/ocaml-stdio
+	branch = refs/heads/main
