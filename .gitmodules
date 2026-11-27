@@ -120750,3 +120750,7 @@
 	url = https://github.com/conda-forge/ocaml-base-feedstock.git
 	path = feedstocks/ocaml-base
 	branch = refs/heads/main
+[submodule "ocaml-ppx-devtools-optcomp"]
+	url = https://github.com/conda-forge/ocaml-ppx-devtools-optcomp-feedstock.git
+	path = feedstocks/ocaml-ppx-devtools-optcomp
+	branch = refs/heads/main
