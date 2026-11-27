@@ -120762,3 +120762,7 @@
 	url = https://github.com/conda-forge/retry2-feedstock.git
 	path = feedstocks/retry2
 	branch = refs/heads/main
+[submodule "rocprim"]
+	url = https://github.com/conda-forge/rocprim-feedstock.git
+	path = feedstocks/rocprim
+	branch = refs/heads/main
