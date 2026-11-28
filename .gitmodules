@@ -120770,3 +120770,7 @@
 	url = https://github.com/conda-forge/python-security-feedstock.git
 	path = feedstocks/python-security
 	branch = refs/heads/main
+[submodule "kubectl-oidc-login"]
+	url = https://github.com/conda-forge/kubectl-oidc-login-feedstock.git
+	path = feedstocks/kubectl-oidc-login
+	branch = refs/heads/main
